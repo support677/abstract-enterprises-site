@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Generate Payment Link | Abstract Enterprises Admin</title>
+    <link rel="canonical" href="https://www.abstractenterprisessecuritysystems.com/generate-invoice">
+    <meta name="description" content="Abstract Enterprises Security Systems — Generate Invoice services in NYC. Licensed, insured, same-day service. NYS License #12000287431.">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0a0a0a; color: #e0e0e0; line-height: 1.6; min-height: 100vh; }
+
+    .admin-bar { background: #1a0a00; border-bottom: 2px solid #ff6600; padding: 12px 20px; text-align: center; }
+    .admin-bar span { color: #ff6600; font-weight: 700; font-size: 0.85rem; text-transform: uppercase; letter-spacing: 1px; }
+
+    .container { max-width: 500px; margin: 0 auto; padding: 30px 20px; }
+
+    h1 { font-size: 1.5rem; color: #fff; margin-bottom: 6px; text-align: center; }
+    .sub { color: #899; font-size: 0.9rem; text-align: center; margin-bottom: 30px; }
+
+    .form-group { margin-bottom: 20px; }
+    .form-group label { display: block; font-size: 0.8rem; color: #8899aa; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px; }
+    .form-group input, .form-group select, .form-group textarea {
+      width: 100%; background: #151515; border: 1px solid #333; color: #fff;
+      padding: 14px 16px; border-radius: 8px; font-size: 1rem; font-family: inherit;
+    }
+    .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: #00bfff; }
+    .form-group select option { background: #151515; }
+    .form-group textarea { resize: vertical; min-height: 80px; }
+
+    .gen-btn {
+      width: 100%; background: #00bfff; color: #000; font-weight: 700; font-size: 1.05rem;
+      padding: 16px; border: none; border-radius: 8px; cursor: pointer; margin-bottom: 24px;
+    }
+    .gen-btn:hover { background: #00a0d6; }
+
+    /* RESULT */
+    .result { display: none; background: #151515; border: 1px solid #2a2a2a; border-radius: 12px; padding: 24px; margin-bottom: 20px; }
+    .result h3 { color: #00bfff; font-size: 1rem; margin-bottom: 16px; text-align: center; }
+
+    .preview-line { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid #1a1a1a; font-size: 0.9rem; }
+    .preview-line .pl { color: #899; }
+    .preview-line .pv { color: #ddd; font-weight: 500; }
+    .preview-line.total { border-top: 2px solid #333; border-bottom: none; margin-top: 6px; padding-top: 12px; }
+    .preview-line.total .pl { color: #fff; font-weight: 700; }
+    .preview-line.total .pv { color: #00bfff; font-weight: 700; font-size: 1.15rem; }
+
+    .link-box {
+      background: #0d0d0d; border: 1px solid #333; border-radius: 8px;
+      padding: 12px 16px; margin: 16px 0; word-break: break-all; font-size: 0.85rem; color: #00bfff;
+      cursor: pointer; position: relative;
+    }
+    .link-box:hover { border-color: #00bfff; }
+    .link-box .tap { position: absolute; right: 12px; top: 50%; transform: translateY(-50%); color: #667; font-size: 0.75rem; }
+
+    .action-btns { display: flex; gap: 10px; flex-wrap: wrap; }
+    .action-btn {
+      flex: 1; min-width: 120px; padding: 12px; border-radius: 8px; border: none;
+      font-weight: 700; font-size: 0.9rem; cursor: pointer; text-align: center; text-decoration: none;
+    }
+    .btn-copy { background: #333; color: #fff; }
+    .btn-copy:hover { background: #444; }
+    .btn-text { background: #25d366; color: #fff; }
+    .btn-text:hover { background: #1da851; }
+    .btn-sms { background: #00bfff; color: #000; }
+    .btn-sms:hover { background: #00a0d6; }
+
+    .copied { position: fixed; top: 20px; left: 50%; transform: translateX(-50%); background: #00bfff; color: #000; padding: 10px 24px; border-radius: 8px; font-weight: 700; font-size: 0.9rem; display: none; z-index: 999; }
+  </style>
+</head>
+<body>
+
+  <div class="admin-bar"><span>⚡ Admin — Payment Link Generator</span></div>
+  <div class="copied" id="copiedToast">Copied!</div>
+
+  <div class="container">
+    <h1>Generate Payment Link</h1>
+    <p class="sub">Fill in the job details. Tax calculates automatically.</p>
+
+    <div class="form-group">
+      <label>Job Description</label>
+      <textarea id="desc" placeholder="4x A1 Dome Cameras + 8ch NVR + 150ft cabling + installation"></textarea>
+    </div>
+
+    <div class="form-group">
+      <label>Job Amount (Before Tax)</label>
+      <div style="position:relative;">
+        <span style="position:absolute; left:16px; top:50%; transform:translateY(-50%); color:#00bfff; font-weight:700; font-size:1.1rem;">$</span>
+        <input type="number" id="amount" placeholder="2800.00" min="1" step="0.01" style="padding-left:36px;">
+      </div>
+    </div>
+
+    <div class="form-group">
+      <label>Customer's Service Area</label>
+      <select id="area">
+        <option value="">— Select Area —</option>
+        <optgroup label="NYC (8.875%)">
+          <option value="brooklyn">Brooklyn</option>
+          <option value="manhattan">Manhattan</option>
+          <option value="queens">Queens</option>
+          <option value="bronx">Bronx</option>
+          <option value="statenisland">Staten Island</option>
+        </optgroup>
+        <optgroup label="Long Island">
+          <option value="nassau">Nassau County (8.625%)</option>
+          <option value="suffolk">Suffolk County (8.75%)</option>
+        </optgroup>
+        <optgroup label="Hudson Valley">
+          <option value="westchester">Westchester (8.375%)</option>
+          <option value="rockland">Rockland (8.375%)</option>
+          <option value="orange">Orange County (8.125%)</option>
+          <option value="putnam">Putnam County (8.375%)</option>
+          <option value="dutchess">Dutchess County (8.125%)</option>
+          <option value="ulster">Ulster County (8%)</option>
+        </optgroup>
+      </select>
+    </div>
+
+    <button class="gen-btn" onclick="generate()">Generate Payment Link →</button>
+
+    <!-- RESULT -->
+    <div class="result" id="result">
+      <h3>Invoice Preview</h3>
+      <div class="preview-line"><span class="pl">Description</span><span class="pv" id="rDesc"></span></div>
+      <div class="preview-line"><span class="pl">Area</span><span class="pv" id="rArea"></span></div>
+      <div class="preview-line"><span class="pl">Subtotal</span><span class="pv" id="rSub"></span></div>
+      <div class="preview-line"><span class="pl">Tax (<span id="rRate"></span>)</span><span class="pv" id="rTax"></span></div>
+      <div class="preview-line total"><span class="pl">Total</span><span class="pv" id="rTotal"></span></div>
+
+      <div class="link-box" id="linkBox" onclick="copyLink()">
+        <span id="linkText"></span>
+        <span class="tap">TAP TO COPY</span>
+      </div>
+
+      <div class="action-btns">
+        <button class="action-btn btn-copy" onclick="copyLink()">📋 Copy Link</button>
+        <a class="action-btn btn-text" id="waBtn" href="#" target="_blank">💬 WhatsApp</a>
+        <a class="action-btn btn-sms" id="smsBtn" href="#">💬 Text</a>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    const TAX_RATES = {
+      'brooklyn':     { rate: 8.875, label: 'Brooklyn, NY' },
+      'manhattan':    { rate: 8.875, label: 'Manhattan, NY' },
+      'queens':       { rate: 8.875, label: 'Queens, NY' },
+      'bronx':        { rate: 8.875, label: 'Bronx, NY' },
+      'statenisland': { rate: 8.875, label: 'Staten Island, NY' },
+      'nassau':       { rate: 8.625, label: 'Nassau County, NY' },
+      'suffolk':      { rate: 8.75,  label: 'Suffolk County, NY' },
+      'westchester':  { rate: 8.375, label: 'Westchester County, NY' },
+      'rockland':     { rate: 8.375, label: 'Rockland County, NY' },
+      'orange':       { rate: 8.125, label: 'Orange County, NY' },
+      'putnam':       { rate: 8.375, label: 'Putnam County, NY' },
+      'dutchess':     { rate: 8.125, label: 'Dutchess County, NY' },
+      'ulster':       { rate: 8.0,   label: 'Ulster County, NY' }
+    };
+
+    let generatedLink = '';
+
+    function fmt(n) { return n.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }); }
+
+    function generate() {
+      const desc = document.getElementById('desc').value.trim();
+      const amount = parseFloat(document.getElementById('amount').value);
+      const areaKey = document.getElementById('area').value;
+
+      if (!desc) { alert('Enter a job description.'); return; }
+      if (!amount || amount < 1) { alert('Enter the job amount.'); return; }
+      if (!areaKey || !TAX_RATES[areaKey]) { alert('Select the customer\'s area.'); return; }
+
+      const area = TAX_RATES[areaKey];
+      const tax = Math.round(amount * (area.rate / 100) * 100) / 100;
+      const total = Math.round((amount + tax) * 100) / 100;
+
+      // Build the link
+      const baseUrl = 'https://abstractenterprisessecuritysystems.com/pay';
+      const params = new URLSearchParams({ desc: desc, amount: amount.toString(), area: areaKey });
+      generatedLink = baseUrl + '?' + params.toString();
+
+      // Update preview
+      document.getElementById('rDesc').textContent = desc.length > 40 ? desc.substring(0, 40) + '…' : desc;
+      document.getElementById('rArea').textContent = area.label;
+      document.getElementById('rSub').textContent = '$' + fmt(amount);
+      document.getElementById('rRate').textContent = area.rate + '%';
+      document.getElementById('rTax').textContent = '$' + fmt(tax);
+      document.getElementById('rTotal').textContent = '$' + fmt(total);
+      document.getElementById('linkText').textContent = generatedLink;
+
+      // WhatsApp link
+      const waMsg = encodeURIComponent('Here\'s your invoice from Abstract Enterprises Security Systems:\n\n' + desc + '\nSubtotal: $' + fmt(amount) + '\nTax (' + area.rate + '%): $' + fmt(tax) + '\nTotal: $' + fmt(total) + '\n\nPay securely here:\n' + generatedLink);
+      document.getElementById('waBtn').href = 'https://wa.me/?text=' + waMsg;
+
+      // SMS link
+      const smsMsg = encodeURIComponent('Abstract Enterprises invoice:\n' + desc + '\nTotal: $' + fmt(total) + ' (incl. tax)\nPay here: ' + generatedLink);
+      document.getElementById('smsBtn').href = 'sms:?body=' + smsMsg;
+
+      document.getElementById('result').style.display = 'block';
+      document.getElementById('result').scrollIntoView({ behavior: 'smooth' });
+    }
+
+    function copyLink() {
+      navigator.clipboard.writeText(generatedLink).then(() => {
+        const toast = document.getElementById('copiedToast');
+        toast.style.display = 'block';
+        setTimeout(() => { toast.style.display = 'none'; }, 1500);
+      });
+    }
+  </script>
+
+</body>
+</html>

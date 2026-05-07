@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Alarm System Calculator | Build Your Custom Alarm</title>
+<link rel="canonical" href="https://www.abstractenterprisessecuritysystems.com/alarm-calculator" />
+<meta name="description" content="Build your custom alarm system online. Choose sensors, detectors, keypads, and smart features. See live pricing.">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<style>
+:root{--a:#C8102E;--d:#111827;--g:#6b7280;--l:#f8f9fb;--b:#e5e7eb;--f:'Plus Jakarta Sans',sans-serif;--green:#059669;--blue:#3b82f6;--gold:#f59e0b}
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--f);color:var(--d);background:#fff;line-height:1.7}
+.cx{max-width:1140px;margin:0 auto;padding:0 24px}
+nav:not(.mn-wrap){position:fixed;top:0;left:0;right:0;z-index:100;background:rgba(255,255,255,.97);backdrop-filter:blur(16px);border-bottom:1px solid var(--b);padding:0 24px}
+.ni{max-width:1140px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;height:68px}
+.ni img{height:52px;width:auto}
+.nm{display:flex;align-items:center;gap:6px}
+.nl{color:var(--d);text-decoration:none;font-size:.78rem;font-weight:600;padding:8px 10px;border-radius:8px;white-space:nowrap;transition:background .15s}
+.nl:hover{background:var(--l)}
+.nc{background:var(--a);color:#fff;font-weight:700;font-size:.82rem;padding:10px 20px;border-radius:8px;text-decoration:none}
+.hb{display:none;background:none;border:none;font-size:1.5rem;cursor:pointer;padding:8px}
+.ac{color:var(--a)}
+.builder-hero{padding:120px 0 60px;background:var(--d);color:#fff;position:relative;overflow:hidden}
+.builder-hero::before{content:'';position:absolute;top:-50%;right:-20%;width:800px;height:800px;background:radial-gradient(circle,rgba(200,16,46,.08),transparent 65%);border-radius:50%}
+.hero-badge{display:inline-flex;align-items:center;gap:8px;background:rgba(200,16,46,.15);border:1px solid rgba(200,16,46,.25);border-radius:100px;padding:8px 18px;margin-bottom:24px;font-size:.75rem;font-weight:700;color:var(--a);letter-spacing:1.5px;text-transform:uppercase}
+.builder-hero h1{font-size:clamp(2rem,5vw,3.2rem);font-weight:800;line-height:1.1;letter-spacing:-1px;margin-bottom:16px}
+.builder-hero p{font-size:1.05rem;color:rgba(255,255,255,.5);max-width:600px;line-height:1.7}
+.builder-wrap{display:grid;grid-template-columns:1fr 380px;gap:32px;padding:48px 0 80px;align-items:start}
+.step-label{font-size:.7rem;font-weight:700;color:var(--a);letter-spacing:2px;text-transform:uppercase;margin-bottom:12px}
+.step-title{font-size:1.4rem;font-weight:800;margin-bottom:8px}
+.step-sub{font-size:.88rem;color:var(--g);margin-bottom:24px}
+.pkg-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:40px}
+.pkg{border:2px solid var(--b);border-radius:16px;padding:24px 20px;cursor:pointer;transition:all .25s;position:relative}
+.pkg:hover{border-color:var(--d);transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.06)}
+.pkg.selected{border-color:var(--a);background:rgba(200,16,46,.03)}
+.pkg.selected::after{content:'\2713';position:absolute;top:12px;right:14px;background:var(--a);color:#fff;width:24px;height:24px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800}
+.pkg-name{font-size:1rem;font-weight:800;margin-bottom:4px}
+.pkg-price{font-size:1.6rem;font-weight:800;color:var(--a);margin-bottom:10px}
+.pkg-price span{font-size:.8rem;font-weight:500;color:var(--g)}
+.pkg-items{list-style:none;padding:0}
+.pkg-items li{font-size:.82rem;color:var(--g);padding:3px 0;display:flex;align-items:center;gap:6px}
+.pkg-items li::before{content:'\2713';color:var(--green);font-weight:700;font-size:.7rem}
+.pkg-tag{position:absolute;top:-10px;left:20px;background:var(--a);color:#fff;font-size:.6rem;font-weight:700;padding:3px 10px;border-radius:100px;letter-spacing:1px;text-transform:uppercase}
+.comp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:40px}
+.comp{border:1px solid var(--b);border-radius:12px;padding:16px;cursor:pointer;transition:all .2s;display:flex;align-items:center;gap:12px;user-select:none}
+.comp:hover{border-color:var(--d);background:var(--l)}
+.comp.added{border-color:var(--green);background:rgba(5,150,105,.04)}
+.comp-icon{font-size:24px;flex-shrink:0;width:40px;text-align:center}
+.comp-info{flex:1;min-width:0}
+.comp-name{font-size:.85rem;font-weight:700;line-height:1.3}
+.comp-price{font-size:.78rem;color:var(--a);font-weight:700}
+.comp-qty{display:flex;align-items:center;gap:8px;flex-shrink:0}
+.comp-qty button{width:28px;height:28px;border-radius:6px;border:1px solid var(--b);background:#fff;font-size:14px;font-weight:700;cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;color:var(--d)}
+.comp-qty button:hover{background:var(--d);color:#fff;border-color:var(--d)}
+.comp-qty span{font-size:.9rem;font-weight:800;min-width:20px;text-align:center}
+.cart{position:sticky;top:90px;background:var(--d);border-radius:20px;overflow:hidden;box-shadow:0 12px 48px rgba(0,0,0,.15)}
+.cart-head{padding:24px 24px 16px;border-bottom:1px solid rgba(255,255,255,.06)}
+.cart-title{font-size:1.1rem;font-weight:800;color:#fff;margin-bottom:2px}
+.cart-sub{font-size:.75rem;color:rgba(255,255,255,.35)}
+.cart-items{padding:16px 24px;max-height:320px;overflow-y:auto}
+.cart-items::-webkit-scrollbar{width:4px}
+.cart-items::-webkit-scrollbar-thumb{background:rgba(255,255,255,.1);border-radius:4px}
+.cart-empty{text-align:center;padding:32px 0;color:rgba(255,255,255,.25);font-size:.88rem}
+.cart-item{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid rgba(255,255,255,.05)}
+.cart-item:last-child{border-bottom:none}
+.cart-item-name{font-size:.82rem;color:rgba(255,255,255,.7);font-weight:500}
+.cart-item-name span{color:rgba(255,255,255,.3);font-size:.75rem}
+.cart-item-price{font-size:.85rem;color:#fff;font-weight:700;white-space:nowrap}
+.cart-total{padding:20px 24px;border-top:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.03)}
+.cart-row{display:flex;justify-content:space-between;align-items:center;margin-bottom:8px}
+.cart-row-label{font-size:.82rem;color:rgba(255,255,255,.4)}
+.cart-row-val{font-size:.88rem;color:rgba(255,255,255,.7);font-weight:600}
+.cart-grand{display:flex;justify-content:space-between;align-items:center;padding-top:12px;border-top:1px solid rgba(255,255,255,.08);margin-top:8px}
+.cart-grand-label{font-size:1rem;color:#fff;font-weight:700}
+.cart-grand-val{font-size:1.5rem;color:var(--a);font-weight:800}
+.cart-cta{padding:0 24px 24px;display:flex;flex-direction:column;gap:10px}
+.cart-btn{display:block;width:100%;text-align:center;background:var(--a);color:#fff;font-family:var(--f);font-weight:700;font-size:.92rem;padding:14px;border-radius:10px;border:none;cursor:pointer;text-decoration:none;transition:background .2s;box-shadow:0 4px 16px rgba(200,16,46,.3)}
+.cart-btn:hover{background:#a00d25}
+.cart-btn-secondary{display:block;width:100%;text-align:center;color:rgba(255,255,255,.5);font-family:var(--f);font-weight:600;font-size:.82rem;padding:10px;border-radius:8px;border:1px solid rgba(255,255,255,.08);text-decoration:none;transition:all .2s;background:none;cursor:pointer}
+.cart-btn-secondary:hover{background:rgba(255,255,255,.05);color:#fff}
+.cart-note{font-size:.7rem;color:rgba(255,255,255,.2);text-align:center;padding:0 24px 16px}
+.cam-section{margin-bottom:40px}
+.cam-toggle{display:flex;align-items:center;gap:14px;padding:20px;border:2px solid var(--b);border-radius:14px;cursor:pointer;transition:all .2s}
+.cam-toggle:hover{border-color:var(--d)}
+.cam-toggle.active{border-color:var(--blue);background:rgba(59,130,246,.04)}
+.cam-check{width:22px;height:22px;border:2px solid var(--b);border-radius:6px;display:flex;align-items:center;justify-content:center;flex-shrink:0;transition:all .2s;font-size:12px;color:transparent}
+.cam-toggle.active .cam-check{background:var(--blue);border-color:var(--blue);color:#fff}
+.cam-info{flex:1}
+.cam-info strong{font-size:.95rem;display:block;margin-bottom:2px}
+.cam-info span{font-size:.8rem;color:var(--g)}
+.cam-price{font-size:1rem;font-weight:800;color:var(--blue)}
+.cam-options{display:none;margin-top:12px;padding:16px 20px;background:var(--l);border-radius:12px}
+.cam-toggle.active+.cam-options{display:block}
+.cam-opt{display:flex;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid var(--b);cursor:pointer}
+.cam-opt:last-child{border-bottom:none}
+.cam-opt input{accent-color:var(--blue)}
+.cam-opt label{font-size:.85rem;font-weight:600;flex:1;cursor:pointer}
+.cam-opt .cam-opt-price{font-size:.85rem;font-weight:700;color:var(--blue)}
+.mon-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin-bottom:40px}
+.mon{border:2px solid var(--b);border-radius:12px;padding:18px;cursor:pointer;transition:all .2s;text-align:center}
+.mon:hover{border-color:var(--d)}
+.mon.selected{border-color:var(--gold);background:rgba(245,158,11,.04)}
+.mon-name{font-size:.88rem;font-weight:700;margin-bottom:4px}
+.mon-price{font-size:1.2rem;font-weight:800;color:var(--gold)}
+.mon-price span{font-size:.75rem;font-weight:500;color:var(--g)}
+.mon-desc{font-size:.75rem;color:var(--g);margin-top:6px}
+.area-picker{margin-bottom:20px}
+.byos-divider{display:flex;align-items:center;gap:14px;margin:32px 0 12px}
+.byos-divider-line{flex:1;height:1px;background:var(--b)}
+.byos-divider-text{font-size:.78rem;font-weight:700;color:#22c55e;white-space:nowrap;letter-spacing:.5px}
+.pkg.byos-card{border-color:rgba(34,197,94,.25);background:rgba(34,197,94,.02)}
+.pkg.byos-card:hover{border-color:#22c55e}
+.pkg.byos-card.selected{border-color:#22c55e;background:rgba(34,197,94,.06)}
+.pkg.byos-card.selected::after{background:#22c55e}
+.pkg.byos-card .pkg-price{color:#22c55e}
+.pkg.byos-card .pkg-items li::before{color:#22c55e}
+.byos-tag{position:absolute;top:-10px;left:20px;background:#22c55e;color:#fff;font-size:.6rem;font-weight:700;padding:3px 10px;border-radius:100px;letter-spacing:1px;text-transform:uppercase}
+.pkg-desc{font-size:.72rem;color:var(--g);margin-bottom:8px;font-style:italic}
+.area-group-label{font-size:.7rem;font-weight:700;color:var(--g);letter-spacing:1.5px;text-transform:uppercase;margin:16px 0 8px;padding-left:2px}
+.area-group-label:first-child{margin-top:0}
+.area-grid{display:flex;flex-wrap:wrap;gap:8px}
+.area-chip{display:inline-flex;align-items:center;gap:6px;padding:10px 16px;border:2px solid var(--b);border-radius:100px;font-size:.82rem;font-weight:600;cursor:pointer;transition:all .2s;user-select:none;background:#fff}
+.area-chip:hover{border-color:var(--d);background:var(--l)}
+.area-chip.selected{border-color:var(--a);background:rgba(200,16,46,.05);color:var(--a);font-weight:700}
+.area-dot{width:8px;height:8px;border-radius:50%;background:var(--b);transition:background .2s;flex-shrink:0}
+.area-chip.selected .area-dot{background:var(--a)}
+.area-confirm{display:flex;align-items:center;gap:6px;padding:12px 16px;background:rgba(200,16,46,.04);border:1px solid rgba(200,16,46,.12);border-radius:10px;font-size:.82rem;color:var(--d);margin-top:12px}
+.area-confirm strong{color:var(--a)}
+.cart-area-badge{padding:8px 24px;font-size:.75rem;font-weight:600;color:rgba(255,255,255,.5);border-bottom:1px solid rgba(255,255,255,.05);display:flex;align-items:center;gap:6px}
+@media(max-width:900px){.builder-wrap{grid-template-columns:1fr;gap:24px}}
+@media(max-width:768px){
+.nm{display:none;position:absolute;top:68px;left:0;right:0;background:#fff;border-bottom:1px solid var(--b);padding:16px 24px;flex-direction:column;align-items:flex-start;gap:0;box-shadow:0 8px 30px rgba(0,0,0,.08);z-index:99}
+.nm.open{display:flex}
+.nl{font-size:.88rem;padding:12px 0;width:100%;border-bottom:1px solid var(--l)}
+.nc{margin-top:12px;width:100%;text-align:center}
+.hb{display:block}
+.pkg-grid{grid-template-columns:1fr}
+.comp-grid{grid-template-columns:1fr}
+.cart{position:relative;top:0}
+}
+.wa-float{position:fixed;bottom:24px;right:24px;width:60px;height:60px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(37,211,102,.4);z-index:999;transition:transform .3s;text-decoration:none}
+.wa-float:hover{transform:scale(1.1)}
+</style>
+<link rel="stylesheet" href="/css/mega-nav.css">
+</head>
+<body>
+<!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
+</div>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
+
+<section class="builder-hero">
+<div class="cx" style="position:relative;z-index:1">
+<div class="hero-badge">&#x1F6E1;&#xFE0F; Interactive Builder</div>
+<h1>Build Your <span class="ac">Alarm System</span></h1>
+<p>Pick a starter package or build from scratch. Add sensors, detectors, and smart features. See your total update live. Professional installation included.</p>
+</div>
+</section>
+
+<section style="background:var(--l)">
+<div class="cx">
+<div class="builder-wrap">
+<div>
+
+<!-- ═══ STEP 1: AREA PICKER ═══ -->
+<div style="margin-bottom:16px;padding-top:8px">
+<div class="step-label">Step 1</div>
+<div class="step-title">Select Your Service Area</div>
+<div class="step-sub">Pricing adjusts automatically based on your location. All prices include professional installation.</div>
+</div>
+<div class="area-picker" id="areaPicker">
+<div class="area-group-label">NYC Boroughs</div>
+<div class="area-grid">
+<div class="area-chip selected" onclick="selectArea('brooklyn')"><span class="area-dot"></span>Brooklyn</div>
+<div class="area-chip" onclick="selectArea('queens')"><span class="area-dot"></span>Queens</div>
+<div class="area-chip" onclick="selectArea('bronx')"><span class="area-dot"></span>Bronx</div>
+<div class="area-chip" onclick="selectArea('manhattan')"><span class="area-dot"></span>Manhattan</div>
+<div class="area-chip" onclick="selectArea('staten-island')"><span class="area-dot"></span>Staten Island</div>
+</div>
+<div class="area-group-label">Long Island</div>
+<div class="area-grid">
+<div class="area-chip" onclick="selectArea('nassau')"><span class="area-dot"></span>Nassau County</div>
+<div class="area-chip" onclick="selectArea('suffolk')"><span class="area-dot"></span>Suffolk County</div>
+</div>
+<div class="area-group-label">Hudson Valley</div>
+<div class="area-grid">
+<div class="area-chip" onclick="selectArea('westchester')"><span class="area-dot"></span>Westchester</div>
+<div class="area-chip" onclick="selectArea('rockland')"><span class="area-dot"></span>Rockland</div>
+<div class="area-chip" onclick="selectArea('orange')"><span class="area-dot"></span>Orange</div>
+<div class="area-chip" onclick="selectArea('putnam')"><span class="area-dot"></span>Putnam</div>
+<div class="area-chip" onclick="selectArea('dutchess')"><span class="area-dot"></span>Dutchess</div>
+<div class="area-chip" onclick="selectArea('ulster')"><span class="area-dot"></span>Ulster</div>
+</div>
+</div>
+<div class="area-confirm" id="areaConfirm"><span id="areaConfirmIcon">&#x1F4CD;</span> <strong id="areaConfirmName">Brooklyn</strong> selected &#x2014; <span id="areaConfirmNote">base pricing</span></div>
+
+<!-- ═══ STEP 2: PACKAGES ═══ -->
+<div style="margin-bottom:16px;margin-top:40px">
+<div class="step-label">Step 2</div>
+<div class="step-title">Choose a Starter Package</div>
+<div class="step-sub">Select a base package or skip to build from scratch below.</div>
+</div>
+<div class="pkg-grid" id="pkgGrid"></div>
+
+<div class="byos-divider">
+<span class="byos-divider-line"></span>
+<span class="byos-divider-text">&#x2705; Already bought your own system?</span>
+<span class="byos-divider-line"></span>
+</div>
+<div class="step-sub" style="margin-bottom:16px;text-align:center">Have a SimpliSafe, Ring, ADT, Vivint, Honeywell, or any other system? We'll install it &#x2014; labor only, no markup on your equipment.</div>
+<div class="pkg-grid" id="byosGrid"></div>
+
+<!-- ═══ STEP 3: COMPONENTS ═══ -->
+<div><div class="step-label">Step 3</div><div class="step-title">Add Individual Components</div><div class="step-sub">Tap +/- to adjust quantity. Price updates live in the cart.</div></div>
+<div class="comp-grid" id="compGrid"></div>
+
+<!-- ═══ STEP 4: CAMERA INTEGRATION ═══ -->
+<div class="cam-section">
+<div class="step-label">Step 4</div>
+<div class="step-title">Add Camera Integration</div>
+<div class="step-sub">Bundle security cameras with your alarm and save $200-$400 on labor.</div>
+<div class="cam-toggle" id="camToggle" onclick="toggleCam()">
+<div class="cam-check" id="camCheck">&#x2713;</div>
+<div class="cam-info"><strong>&#x1F4F9; Add Security Cameras</strong><span>4K IP cameras, NVR, wiring, smartphone access included</span></div>
+<div class="cam-price" id="camPriceLabel">from $850</div>
+</div>
+<div class="cam-options" id="camOptions"></div>
+</div>
+
+<!-- ═══ STEP 5: MONITORING ═══ -->
+<div><div class="step-label">Step 5 &#x2014; Optional</div><div class="step-title">24/7 Professional Monitoring</div><div class="step-sub">Optional. Your system works without monitoring &#x2014; add it if you want central station dispatch.</div></div>
+<div class="mon-grid" id="monGrid">
+<div class="mon selected" onclick="selectMon(0)"><div class="mon-name">No Monitoring</div><div class="mon-price">$0<span>/mo</span></div><div class="mon-desc">Self-monitored via app. Alerts to your phone only.</div></div>
+<div class="mon" onclick="selectMon(1)"><div class="mon-name">Basic Monitoring</div><div class="mon-price">$19.99<span>/mo</span></div><div class="mon-desc">24/7 central station. Dispatch police/fire on alarm.</div></div>
+<div class="mon" onclick="selectMon(2)"><div class="mon-name">Premium Monitoring</div><div class="mon-price">$34.99<span>/mo</span></div><div class="mon-desc">Central station + video verification + priority dispatch.</div></div>
+</div>
+</div>
+
+<!-- ═══ CART SIDEBAR ═══ -->
+<div>
+<div class="cart" id="cart">
+<div class="cart-head"><div class="cart-title">&#x1F6E1;&#xFE0F; Your Alarm System</div><div class="cart-sub">Live pricing &#x2014; updates as you build</div></div>
+<div class="cart-area-badge" id="cartAreaBadge">&#x1F4CD; Brooklyn</div>
+<div class="cart-items" id="cartItems"><div class="cart-empty">Select your area, then pick a package or component</div></div>
+<div class="cart-total" id="cartTotal" style="display:none">
+<div class="cart-row"><span class="cart-row-label">Equipment + Installation</span><span class="cart-row-val" id="cartSubtotal">$0</span></div>
+<div class="cart-row" id="cartAreaRow" style="display:none"><span class="cart-row-label">Area adjustment</span><span class="cart-row-val" id="cartAreaAdj">+$0</span></div>
+<div class="cart-row" id="cartMonRow" style="display:none"><span class="cart-row-label">Monthly Monitoring</span><span class="cart-row-val" id="cartMon">$0/mo</span></div>
+<div class="cart-grand"><span class="cart-grand-label">Total</span><span class="cart-grand-val" id="cartGrand">$0</span></div>
+</div>
+<div class="cart-cta" id="cartCta" style="display:none">
+<a href="#" class="cart-btn" id="cartPayBtn">Book &amp; Pay Deposit &#x2192;</a>
+<a href="tel:8004860943" class="cart-btn-secondary">&#x1F4DE; Call (800) 486-0943</a>
+</div>
+<div class="cart-note">Prices include professional installation. Tax added at checkout.</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<footer style="background:#080a0f;padding:36px 24px;border-top:1px solid rgba(255,255,255,.04)"><div style="max-width:1140px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:14px"><div><img src="/images/logo.png" alt="Abstract Enterprises" style="height:56px;width:auto;border-radius:10px;background:#fff;padding:6px 10px"><div style="font-size:.6rem;color:rgba(255,255,255,.25);letter-spacing:1.5px;margin-top:2px">SECURITY SYSTEMS &#x00B7; NYC</div></div><div style="font-size:.75rem;color:rgba(255,255,255,.2)">&copy; 2026 Abstract Enterprises LLC &middot; <a href="/privacy-policy" style="color:rgba(255,255,255,.35);text-decoration:none">Privacy Policy</a> &middot; <a href="/sms-consent" style="color:rgba(255,255,255,.35);text-decoration:none">SMS Consent</a> &middot; <a href="/terms-and-conditions" style="color:rgba(255,255,255,.35);text-decoration:none">Terms</a></div></div></footer>
+
+<a href="https://wa.me/17186790359?text=Hi%2C%20I%27m%20interested%20in%20alarm%20installation.%20Can%20you%20help%3F" target="_blank" class="wa-float" aria-label="Chat on WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+
+<script>
+/* ═══ AREA MARKUPS ═══ */
+var AREAS={
+'brooklyn':{name:'Brooklyn',markup:0,note:'base pricing',tax:'nyc',slug:'brooklyn'},
+'queens':{name:'Queens',markup:0.10,note:'+10% area adjustment',tax:'nyc',slug:'queens'},
+'bronx':{name:'Bronx',markup:0.10,note:'+10% area adjustment',tax:'nyc',slug:'bronx'},
+'manhattan':{name:'Manhattan',markup:0.20,note:'+20% area adjustment',tax:'nyc',slug:'manhattan'},
+'staten-island':{name:'Staten Island',markup:0.20,note:'+20% area adjustment',tax:'nyc',slug:'staten-island'},
+'nassau':{name:'Nassau County',markup:0.20,note:'+20% area adjustment',tax:'nassau',slug:'nassau'},
+'suffolk':{name:'Suffolk County',markup:0.20,note:'+20% area adjustment',tax:'suffolk',slug:'suffolk'},
+'westchester':{name:'Westchester',markup:0.25,note:'+25% area adjustment',tax:'westchester',slug:'westchester'},
+'rockland':{name:'Rockland',markup:0.25,note:'+25% area adjustment',tax:'rockland',slug:'rockland'},
+'orange':{name:'Orange County',markup:0.30,note:'+30% area adjustment',tax:'orange',slug:'orange'},
+'putnam':{name:'Putnam County',markup:0.30,note:'+30% area adjustment',tax:'putnam',slug:'putnam'},
+'dutchess':{name:'Dutchess County',markup:0.35,note:'+35% area adjustment',tax:'dutchess',slug:'dutchess'},
+'ulster':{name:'Ulster County',markup:0.35,note:'+35% area adjustment',tax:'ulster',slug:'ulster'}
+};
+
+var TAX_MAP={nyc:'nyc',nassau:'nassau',suffolk:'suffolk',westchester:'westchester',rockland:'rockland',orange:'orange',putnam:'putnam',dutchess:'dutchess',ulster:'ulster'};
+var PAY_AREA_MAP={nyc:'nyc',nassau:'nassau',suffolk:'suffolk',westchester:'westchester',rockland:'rockland',orange:'orange',putnam:'putnam',dutchess:'dutchess',ulster:'ulster'};
+
+/* ═══ BASE PRICES (Brooklyn = base) ═══ */
+var PKGS=[
+{name:'Basic Home',base:600,items:['Smart alarm hub','1 keypad','3 door/window sensors','1 motion detector','1 indoor siren','Smartphone app setup'],group:'full'},
+{name:'Complete Home',base:2500,items:['Smart alarm hub','2 keypads','8 door/window sensors','2 motion detectors','1 glass break sensor','1 smoke/CO detector','1 indoor + 1 outdoor siren','Smartphone app + alerts'],popular:true,group:'full'},
+{name:'Commercial',base:4500,items:['Commercial alarm panel','2 keypads','15 door/window sensors','4 motion detectors','2 glass break sensors','1 panic button','2 sirens (indoor + outdoor)','Smartphone app + alerts'],group:'full'}
+];
+
+var BYOS=[
+{name:'Basic Wireless Install',base:250,items:['Mount & pair up to 6 sensors','Hub setup & Wi-Fi connect','App configuration & walkthrough','System test all zones','SimpliSafe, Ring, Abode, etc.'],desc:'Plug-and-play wireless systems'},
+{name:'Standard Install',base:450,items:['Panel mounting & programming','Up to 10 zones configured','Cellular/Wi-Fi module setup','Full zone test & walk-through','ADT, Vivint, Honeywell, DSC, etc.'],desc:'Panel-based systems with zone programming',popular:true},
+{name:'Complex Install',base:650,items:['Hardwired panel + wiring','10+ zones configured & tested','Commercial-grade programming','Central station connection','Napco, DMP, Bosch, etc.'],desc:'Hardwired or commercial panels'}
+];
+
+var COMPS=[
+{id:'dw',name:'Door/Window Sensor',base:45,icon:'\uD83D\uDEAA',qty:0},
+{id:'mo',name:'Motion Detector',base:85,icon:'\uD83D\uDC41\uFE0F',qty:0},
+{id:'gb',name:'Glass Break Sensor',base:95,icon:'\uD83D\uDCA5',qty:0},
+{id:'sc',name:'Smoke/CO Detector',base:120,icon:'\uD83D\uDD25',qty:0},
+{id:'kp',name:'Keypad',base:150,icon:'\uD83D\uDD22',qty:0},
+{id:'pb',name:'Panic Button',base:75,icon:'\uD83C\uDD98',qty:0},
+{id:'si',name:'Indoor Siren',base:65,icon:'\uD83D\uDD14',qty:0},
+{id:'so',name:'Outdoor Siren',base:95,icon:'\uD83D\uDCE2',qty:0},
+{id:'sh',name:'Smart Hub Upgrade',base:200,icon:'\uD83D\uDCE1',qty:0},
+{id:'rf',name:'Key Fob Remote',base:35,icon:'\uD83D\uDD11',qty:0}
+];
+
+var CAMS=[{name:'4-Cam 2MP HD',base:850},{name:'4-Cam 5MP 2K',base:998},{name:'4-Cam 4K IP',base:1292},{name:'8-Cam 4K IP',base:2200}];
+var MONS=[{name:'No Monitoring',price:0},{name:'Basic Monitoring',price:19.99},{name:'Premium Monitoring',price:34.99}];
+
+var currentArea='brooklyn',selectedPkg=-1,selectedByos=-1,camEnabled=false,selectedCam=-1,selectedMon=0;
+
+/* ═══ PRICE HELPERS ═══ */
+function ap(base){return Math.round(base*(1+AREAS[currentArea].markup));}
+
+/* ═══ AREA PICKER ═══ */
+function selectArea(key){
+  currentArea=key;
+  var chips=document.querySelectorAll('.area-chip');
+  for(var i=0;i<chips.length;i++){
+    var ck=chips[i].getAttribute('onclick').match(/'([^']+)'/)[1];
+    chips[i].classList.toggle('selected',ck===key);
+  }
+  var a=AREAS[key];
+  document.getElementById('areaConfirmName').textContent=a.name;
+  document.getElementById('areaConfirmNote').textContent=a.markup===0?'base pricing':a.note;
+  document.getElementById('cartAreaBadge').innerHTML='&#x1F4CD; '+a.name+(a.markup>0?' <span style="color:var(--a);font-weight:700">('+a.note+')</span>':'');
+  renderPkgs();renderByos();renderComps();renderCams();updateCart();
+}
+
+/* ═══ RENDER PACKAGES ═══ */
+function renderPkgs(){
+  var g=document.getElementById('pkgGrid'),h='';
+  for(var i=0;i<PKGS.length;i++){
+    var p=PKGS[i],price=ap(p.base);
+    h+='<div class="pkg'+(selectedPkg===i?' selected':'')+'" onclick="selectPkg('+i+')">';
+    if(p.popular)h+='<div class="pkg-tag">Most Popular</div>';
+    h+='<div class="pkg-name">'+p.name+'</div>';
+    h+='<div class="pkg-price">$'+price.toLocaleString()+' <span>installed</span></div>';
+    h+='<ul class="pkg-items">';
+    for(var j=0;j<p.items.length;j++)h+='<li>'+p.items[j]+'</li>';
+    h+='</ul></div>';
+  }
+  g.innerHTML=h;
+}
+
+/* ═══ RENDER COMPONENTS ═══ */
+function renderComps(){
+  var g=document.getElementById('compGrid'),h='';
+  for(var i=0;i<COMPS.length;i++){
+    var c=COMPS[i],price=ap(c.base);
+    h+='<div class="comp'+(c.qty>0?' added':'')+'">';
+    h+='<div class="comp-icon">'+c.icon+'</div>';
+    h+='<div class="comp-info"><div class="comp-name">'+c.name+'</div><div class="comp-price">$'+price+' each</div></div>';
+    h+='<div class="comp-qty"><button onclick="adjComp('+i+',-1)">\u2212</button><span>'+c.qty+'</span><button onclick="adjComp('+i+',1)">+</button></div></div>';
+  }
+  g.innerHTML=h;
+}
+
+/* ═══ RENDER CAMERAS ═══ */
+function renderCams(){
+  var el=document.getElementById('camOptions'),h='';
+  for(var i=0;i<CAMS.length;i++){
+    var c=CAMS[i],price=ap(c.base);
+    h+='<div class="cam-opt" onclick="selectCam('+i+')"><input type="radio" name="cam" id="cam'+i+'"'+(selectedCam===i?' checked':'')+'><label for="cam'+i+'">'+c.name+'</label><span class="cam-opt-price">$'+price.toLocaleString()+'</span></div>';
+  }
+  el.innerHTML=h;
+  document.getElementById('camPriceLabel').textContent='from $'+ap(CAMS[0].base).toLocaleString();
+}
+
+function adjComp(i,d){COMPS[i].qty=Math.max(0,COMPS[i].qty+d);renderComps();updateCart();}
+
+function selectPkg(i){
+  selectedPkg=(selectedPkg===i)?-1:i;
+  if(selectedPkg>=0)selectedByos=-1;
+  renderPkgs();renderByos();updateCart();
+}
+
+/* ═══ RENDER BYOS PACKAGES ═══ */
+function renderByos(){
+  var g=document.getElementById('byosGrid'),h='';
+  for(var i=0;i<BYOS.length;i++){
+    var b=BYOS[i],price=ap(b.base);
+    h+='<div class="pkg byos-card'+(selectedByos===i?' selected':'')+'" onclick="selectByos('+i+')">';
+    if(b.popular)h+='<div class="byos-tag">Most Requested</div>';
+    h+='<div class="pkg-name">'+b.name+'</div>';
+    h+='<div class="pkg-price">$'+price.toLocaleString()+' <span>labor only</span></div>';
+    if(b.desc)h+='<div class="pkg-desc">'+b.desc+'</div>';
+    h+='<ul class="pkg-items">';
+    for(var j=0;j<b.items.length;j++)h+='<li>'+b.items[j]+'</li>';
+    h+='</ul></div>';
+  }
+  g.innerHTML=h;
+}
+
+function selectByos(i){
+  selectedByos=(selectedByos===i)?-1:i;
+  if(selectedByos>=0)selectedPkg=-1;
+  renderPkgs();renderByos();updateCart();
+}
+
+function toggleCam(){camEnabled=!camEnabled;
+document.getElementById('camToggle').classList.toggle('active',camEnabled);
+document.getElementById('camOptions').style.display=camEnabled?'block':'none';
+if(!camEnabled){selectedCam=-1;}
+else if(selectedCam===-1){selectCam(0);}
+updateCart();}
+
+function selectCam(i){selectedCam=i;renderCams();updateCart();}
+
+function selectMon(i){selectedMon=i;
+var ms=document.querySelectorAll('.mon');for(var j=0;j<ms.length;j++)ms[j].classList.toggle('selected',j===i);
+updateCart();}
+
+/* ═══ UPDATE CART ═══ */
+function updateCart(){
+  var items=[],baseTotal=0,adjustedTotal=0;
+  var a=AREAS[currentArea];
+
+  if(selectedPkg>=0){
+    var p=PKGS[selectedPkg],bp=p.base,adjp=ap(p.base);
+    items.push({name:p.name+' Package',price:adjp,detail:''});
+    baseTotal+=bp;adjustedTotal+=adjp;
+  }
+  if(selectedByos>=0){
+    var b=BYOS[selectedByos],bb=b.base,adjb=ap(b.base);
+    items.push({name:'\u2705 '+b.name+' (Labor Only)',price:adjb,detail:''});
+    baseTotal+=bb;adjustedTotal+=adjb;
+  }
+  for(var i=0;i<COMPS.length;i++){
+    if(COMPS[i].qty>0){
+      var cb=COMPS[i].base*COMPS[i].qty;
+      var ca=ap(COMPS[i].base)*COMPS[i].qty;
+      items.push({name:COMPS[i].name,price:ca,detail:' \u00D7 '+COMPS[i].qty});
+      baseTotal+=cb;adjustedTotal+=ca;
+    }
+  }
+  if(camEnabled&&selectedCam>=0){
+    var cm=CAMS[selectedCam],cbp=cm.base,cap=ap(cm.base);
+    items.push({name:'\uD83D\uDCF9 '+cm.name,price:cap,detail:''});
+    baseTotal+=cbp;adjustedTotal+=cap;
+  }
+
+  var el=document.getElementById('cartItems'),totalEl=document.getElementById('cartTotal'),ctaEl=document.getElementById('cartCta');
+  if(items.length===0){
+    el.innerHTML='<div class="cart-empty">Select your area, then pick a package or component</div>';
+    totalEl.style.display='none';ctaEl.style.display='none';return;
+  }
+
+  var h='';for(var i=0;i<items.length;i++){
+    h+='<div class="cart-item"><span class="cart-item-name">'+items[i].name+'<span>'+items[i].detail+'</span></span><span class="cart-item-price">$'+items[i].price.toLocaleString()+'</span></div>';
+  }
+  el.innerHTML=h;
+
+  document.getElementById('cartSubtotal').textContent='$'+adjustedTotal.toLocaleString();
+
+  var areaRow=document.getElementById('cartAreaRow');
+  if(a.markup>0){
+    var diff=adjustedTotal-baseTotal;
+    areaRow.style.display='flex';
+    document.getElementById('cartAreaAdj').textContent='+$'+diff.toLocaleString()+' ('+a.name+')';
+  }else{areaRow.style.display='none';}
+
+  var monRow=document.getElementById('cartMonRow');
+  if(selectedMon>0){monRow.style.display='flex';document.getElementById('cartMon').textContent='$'+MONS[selectedMon].price.toFixed(2)+'/mo';}else{monRow.style.display='none';}
+
+  document.getElementById('cartGrand').textContent='$'+adjustedTotal.toLocaleString();
+  totalEl.style.display='block';ctaEl.style.display='flex';
+
+  var deposit=adjustedTotal>=500?Math.round(adjustedTotal*0.5):adjustedTotal;
+  var payArea=a.tax==='nyc'?'nyc':a.slug;
+  var descText=selectedByos>=0?'Alarm Install (Customer System) \u2014 '+a.name:'Alarm System \u2014 '+a.name;
+  var desc=encodeURIComponent(descText);
+  document.getElementById('cartPayBtn').href='/pay?desc='+desc+'&amount='+deposit+'&area='+payArea;
+  document.getElementById('cartPayBtn').textContent=adjustedTotal>=500?'Pay 50% Deposit \u2014 $'+deposit.toLocaleString()+' \u2192':'Pay $'+adjustedTotal.toLocaleString()+' & Book \u2192';
+}
+
+/* ═══ INIT ═══ */
+renderPkgs();renderByos();renderComps();renderCams();updateCart();
+</script>
+</body>
+</html>

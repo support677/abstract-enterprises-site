@@ -1,0 +1,543 @@
+# ============================================================
+# GLOBAL: Force .html URLs to redirect to clean URLs (fix duplicates)
+# This stops Google from seeing /page and /page.html as two pages
+# ============================================================
+/*.html  /:splat  301!
+
+# ============================================================
+# WIX → NETLIFY 301 REDIRECTS (preserve SEO from old domain)
+# These catch old Wix URL patterns and redirect to Netlify pages
+# ============================================================
+
+# --- Homepage variants ---
+/home  /  301
+
+# --- Wix slugs that differ from Netlify slugs (301 permanent redirects) ---
+/security-camera-installation-bronx-  /security-camera-installation-bronx-ny  301!
+/security-camera-installation-bronx  /security-camera-installation-bronx-ny  301
+/security-camera-installation-nassau-country  /security-camera-installation-nassau-county-ny  301
+/security-camera-installer-bronx-ny  /security-camera-installation-bronx-ny  301
+/camera-installation-suffolk-county-old  /security-camera-installation-suffolk-county  301
+/copy-of-rockland-county  /security-camera-installation-rockland-county-ny  301
+/brooklyn-ny-security-camera-installation/security-camera-flatbush-brooklyn  /security-camera-installation-flatbush-brooklyn-ny  301
+/security-camera-installation-east-newyork-brooklyn-newyork  /security-camera-installation-east-new-york-brooklyn-ny  301
+/intercom-installation-manhattan-new-york  /intercom-installation-manhattan-ny  301
+/intercom-installation-nassau-new-york  /intercom-installation-nassau-county-new-york  301
+/intercominstallationsuffolkcountynewyork  /intercom-installation-suffolk-county-new-york  301
+/intercominstallationsuffolkcountynewyork-1  /intercom-installation-suffolk-county-new-york  301
+/intercominstallationstatenislandny  /intercom-installation-staten-island-ny  301
+/intercominstallationrocklandcountyny  /intercom-installation-rockland-county-new-york  301
+/copy-of-nassau-county/intercom-installation-westchester-new-york  /intercom-installation-westchester-new-york  301
+/doorbuzzerrepairnyc  /door-buzzer-repair-nyc  301
+/door-buzzer-repair-bklyn  /door-buzzer-repair-brooklyn-new-york  301
+/copy-of-door-buzzer-repair-nyc  /door-buzzer-repair-nyc  301
+/contact-us-old  /free-quote  301
+/ipcameracost  /free-quote  301
+/2mpipcamerainstallations  /free-quote  301
+
+/product-page/2mp-hdcvi-security-system  /free-quote  301
+/product-page/model-a2  /free-quote  301
+/product-page/model-a3  /free-quote  301
+/product-page/model-a4  /free-quote  301
+/product-page/model-e1  /free-quote  301
+/product-page/model-e2  /free-quote  301
+/post/why-monitoring-security-systems-is-a-game-changer-for-your-property  /free-quote  301
+/post/why-monitoring-security-systems-is-a-game-changer-for-your-property-1  /free-quote  301
+/post/security-systems-perfect-for-small-businesses-your-guide-to-small-business-security  /free-quote  301
+/post/security-systems-perfect-for-small-business-security  /free-quote  301
+/post/business-surveillance-cameras-explained  /free-quote  301
+
+# ============================================================
+# CLEAN URL REWRITES (serve .html files without extension)
+# ============================================================
+
+# --- Core pages ---
+/free-quote  /free-quote.html  200
+/camera-calculator  /camera-calculator.html  200
+/about-us  /about-us.html  200
+/contact-us  /contact-us.html  200
+/warranty  /warranty.html  200
+/cctv-career-oportunity-jobs  /cctv-career-oportunity-jobs.html  200
+
+# --- Security Camera: NYC / Boroughs / Counties ---
+/security-camera-installation-nyc  /security-camera-installation-nyc.html  200
+/security-camera-installation  /security-camera-installation.html  200
+/security-camera-installation-newyork-ny  /security-camera-installation-newyork-ny.html  200
+/camera-installation-new-york-ny  /camera-installation-new-york-ny.html  200
+/security-camera-installation-brooklyn-ny  /security-camera-installation-brooklyn-ny.html  200
+/security-camera-installers-brooklyn  /security-camera-installers-brooklyn.html  200
+/security-cameras-brooklyn-ny  /security-cameras-brooklyn-ny.html  200
+/brooklyn-ny-security-camera-installation  /brooklyn-ny-security-camera-installation.html  200
+/security-camera-installation-queens-ny  /security-camera-installation-queens-ny.html  200
+/security-camera-installation-queens  /security-camera-installation-queens.html  200
+/security-camera-installation-bronx-ny  /security-camera-installation-bronx-ny.html  200
+/cctv-camera-installation-bronx-ny  /cctv-camera-installation-bronx-ny.html  200
+/security-camera-installation-manhattan-ny  /security-camera-installation-manhattan-ny.html  200
+/security-camera-installation-staten-island-ny  /security-camera-installation-staten-island-ny.html  200
+/camera-installation-staten-island  /camera-installation-staten-island.html  200
+/security-camera-installation-nassau-county-ny  /security-camera-installation-nassau-county-ny.html  200
+/security-camera-installation-nassau-county  /security-camera-installation-nassau-county.html  200
+/security-camera-installation-nassau  /security-camera-installation-nassau.html  200
+/security-camera-installation-suffolk-county-ny  /security-camera-installation-suffolk-county-ny.html  200
+/security-camera-installation-suffolk-county  /security-camera-installation-suffolk-county.html  200
+/security-camera-installation-westchester-county-ny  /security-camera-installation-westchester-county-ny.html  200
+/security-camera-installation-rockland-county-ny  /security-camera-installation-rockland-county-ny.html  200
+/security-camera-installation-hudson-valley-ny  /security-camera-installation-hudson-valley-ny.html  200
+/security-camera-installation-long-island-ny  /security-camera-installation-long-island-ny.html  200
+/security-camera-installation-orange-county-ny  /security-camera-installation-orange-county-ny.html  200
+/security-camera-installation-putnam-county-ny  /security-camera-installation-putnam-county-ny.html  200
+/security-camera-installation-dutchess-county-ny  /security-camera-installation-dutchess-county-ny.html  200
+/security-camera-installation-ulster-county-ny  /security-camera-installation-ulster-county-ny.html  200
+/security-camera-installation-albany-newyork  /security-camera-installation-albany-newyork.html  200
+/residential-security-camera-installation-albany-new-york  /residential-security-camera-installation-albany-new-york.html  200
+/commercial-security-camera-installation  /commercial-security-camera-installation.html  200
+
+# --- Security Camera: Brooklyn Neighborhoods ---
+/security-camera-installation-fort-greene-brooklyn-ny  /security-camera-installation-fort-greene-brooklyn-ny.html  200
+/security-camera-installation-dumbo-brooklyn-ny  /security-camera-installation-dumbo-brooklyn-ny.html  200
+/security-camera-installation-park-slope-brooklyn-ny  /security-camera-installation-park-slope-brooklyn-ny.html  200
+/security-camera-installation-downtown-brooklyn-ny  /security-camera-installation-downtown-brooklyn-ny.html  200
+/security-camera-installation-prospect-heights-brooklyn-ny  /security-camera-installation-prospect-heights-brooklyn-ny.html  200
+/security-camera-installation-cobble-hill-brooklyn-ny  /security-camera-installation-cobble-hill-brooklyn-ny.html  200
+/security-camera-installation-williamsburg-brooklyn-ny  /security-camera-installation-williamsburg-brooklyn-ny.html  200
+/cctv-camera-installation-williamsburg-brooklyn-ny  /cctv-camera-installation-williamsburg-brooklyn-ny.html  200
+/security-camera-installation-bushwick-brooklyn-ny  /security-camera-installation-bushwick-brooklyn-ny.html  200
+# /security-camera-installation-bed-stuy-brooklyn-ny — consolidated to bedford-stuyvesant (see 301 rule below)
+/security-camera-installation-crown-heights-brooklyn-ny  /security-camera-installation-crown-heights-brooklyn-ny.html  200
+/security-camera-installation-flatbush-brooklyn-ny  /security-camera-installation-flatbush-brooklyn-ny.html  200
+/security-camera-flatbush-brooklyn  /security-camera-flatbush-brooklyn.html  200
+/security-camera-installation-east-flatbush-brooklyn-ny  /security-camera-installation-east-flatbush-brooklyn-ny.html  200
+/security-camera-installation-bay-ridge-brooklyn-ny  /security-camera-installation-bay-ridge-brooklyn-ny.html  200
+/security-camera-installation-bay-ridge-brooklyn-new-york  /security-camera-installation-bay-ridge-brooklyn-new-york.html  200
+/security-camera-installation-bensonhurst-brooklyn-ny  /security-camera-installation-bensonhurst-brooklyn-ny.html  200
+/security-camera-installation-borough-park-brooklyn-ny  /security-camera-installation-borough-park-brooklyn-ny.html  200
+/security-camera-installation-canarsie-brooklyn-ny  /security-camera-installation-canarsie-brooklyn-ny.html  200
+/security-camera-installation-canarsie-brooklyn-newyork  /security-camera-installation-canarsie-brooklyn-newyork.html  200
+/security-camera-installation-brownsville-brooklyn-ny  /security-camera-installation-brownsville-brooklyn-ny.html  200
+/security-camera-installation-brownsville-brooklyn-newyork  /security-camera-installation-brownsville-brooklyn-newyork.html  200
+/security-camera-installation-east-new-york-brooklyn-ny  /security-camera-installation-east-new-york-brooklyn-ny.html  200
+/security-camera-installation-brooklyn-heights-brooklyn-new-york  /security-camera-installation-brooklyn-heights-brooklyn-new-york.html  200
+/security-camera-installation-bedford-stuyvesant-brooklyn-new-york  /security-camera-installation-bedford-stuyvesant-brooklyn-new-york.html  200
+/security-camera-installation-greenpoint-brooklyn-ny  /security-camera-installation-greenpoint-brooklyn-ny.html  200
+/security-camera-installation-sunset-park-brooklyn-ny  /security-camera-installation-sunset-park-brooklyn-ny.html  200
+/security-camera-installation-red-hook  /security-camera-installation-red-hook.html  200
+/security-camera-installation-cypress-hills-brooklyn-newyork  /security-camera-installation-cypress-hills-brooklyn-newyork.html  200
+/security-camera-installation-weeksville-brooklyn-ny  /security-camera-installation-weeksville-brooklyn-ny.html  200
+/security-camera-installation-coney-island-brooklyn-new-york  /security-camera-installation-coney-island-brooklyn-new-york.html  200
+
+# --- Intercom Installation ---
+/intercom-installation-nyc  /intercom-installation-nyc.html  200
+/intercom-installation-brooklyn-new-york  /intercom-installation-brooklyn-new-york.html  200
+/intercom-installation-brooklyn-ny  /intercom-installation-brooklyn-ny.html  200
+/intercom-installation-manhattan-ny  /intercom-installation-manhattan-ny.html  200
+/intercom-installation-queens-new-york  /intercom-installation-queens-new-york.html  200
+/intercom-installation-queens-ny  /intercom-installation-queens-ny.html  200
+/intercom-installation-bronx-new-york  /intercom-installation-bronx-ny  301
+/intercom-installation-bronx-ny  /intercom-installation-bronx-ny.html  200
+/intercom-installation-staten-island-ny  /intercom-installation-staten-island-ny.html  200
+/intercom-installation-nassau-county-new-york  /intercom-installation-nassau-county-new-york.html  200
+/intercom-installation-suffolk-county-new-york  /intercom-installation-suffolk-county-new-york.html  200
+/intercom-installation-rockland-county-new-york  /intercom-installation-rockland-county-new-york.html  200
+/intercom-installation-westchester-new-york  /intercom-installation-westchester-new-york.html  200
+/intercom-installation-hudson-valley-ny  /intercom-installation-hudson-valley-ny.html  200
+/intercom-installation-westchester-county-ny  /intercom-installation-westchester-county-ny.html  200
+/intercom-installation-rockland-county-ny  /intercom-installation-rockland-county-ny.html  200
+/intercom-installation-orange-county-ny  /intercom-installation-orange-county-ny.html  200
+/intercom-installation-putnam-county-ny  /intercom-installation-putnam-county-ny.html  200
+/intercom-installation-dutchess-county-ny  /intercom-installation-dutchess-county-ny.html  200
+/intercom-installation-ulster-county-ny  /intercom-installation-ulster-county-ny.html  200
+/residentialcommercialintercominstallation  /residentialcommercialintercominstallation.html  200
+
+# --- Door Buzzer Repair ---
+/door-buzzer-repair-nyc  /door-buzzer-repair-nyc.html  200
+/door-buzzer-repair-brooklyn-new-york  /door-buzzer-repair-brooklyn-new-york.html  200
+/door-buzzer-repair-manhattan-new-york  /door-buzzer-repair-manhattan-new-york.html  200
+/door-buzzer-repair-rockland-county  /door-buzzer-repair-rockland-county.html  200
+/door-buzzer-repair-westchester-county  /door-buzzer-repair-westchester-county.html  200
+/door-buzzer-repair-suffolk-county-new-york  /door-buzzer-repair-suffolk-county-new-york.html  200
+
+# --- Fire Alarm Installation ---
+/fire-alarm-installation-new-york  /fire-alarm-installation-new-york.html  200
+/fire-alarm-installation-ny  /fire-alarm-installation-ny.html  200
+/fire-alarm-installation-queens-new-york  /fire-alarm-installation-queens-new-york.html  200
+/fire-alarm-installation-westchester-county-new-york  /fire-alarm-installation-westchester-county-new-york.html  200
+
+# ============================================================
+# CRAWLED-NOT-INDEXED REDIRECTS (fix Search Console issues)
+# ============================================================
+/door-buzzer-repair-bklyn  /door-buzzer-repair-brooklyn-new-york  301
+/intercom-installation-nassau-new-york  /intercom-installation-nassau-county-new-york  301
+/intercominstallationsuffolkcountynewyork  /intercom-installation-suffolk-county-new-york  301
+/copy-of-security-camera-installation-1  /  301
+/staten-island-security-cameras  /security-camera-installation-staten-island-ny  301
+/copy-of-nassau-county  /security-camera-installation-nassau-county-ny  301
+/camera-installation-suffolk-county  /security-camera-installation-suffolk-county  301
+/security-camera-installation-westchester-county-ny-old  /security-camera-installation-westchester-county-ny  301
+/door-buzzer-repair-brooklyn-new-york-1  /door-buzzer-repair-brooklyn-new-york  301
+/copy-of-security-camera-installation-2  /  301
+/copy-of-2mp-ip-camera  /2mpipcamerainstallations  301
+/intercominstallationbronxny  /intercom-installation-bronx-ny  301
+/security-camera-installation-queens-old  /security-camera-installation-queens-ny  301
+/intercominstallationsuffolkcountynewyork-1  /intercom-installation-suffolk-county-new-york  301
+/post/find-trusted-security-camera-installers  /  301
+/post/business-surveillance-cameras-explained  /  301
+/blog/categories/your-community  /  301
+/access-control-installation-westchester-county /access-control-installation-westchester-county-ny 301
+
+# --- Home Automation silo rebuild (April 2026) ---
+# Old pattern /home-automation-{area} → new /home-automation-installation-{area}
+# Suffolk keeps old URL intentionally (no redirect needed)
+/home-automation-nyc  /home-automation-installation-nyc  301
+/home-automation-brooklyn  /home-automation-installation-brooklyn  301
+/home-automation-manhattan  /home-automation-installation-manhattan  301
+/home-automation-queens  /home-automation-installation-queens  301
+/home-automation-bronx  /home-automation-installation-bronx  301
+/home-automation-staten-island  /home-automation-installation-staten-island  301
+/home-automation-long-island  /home-automation-installation-long-island  301
+/home-automation-nassau-county  /home-automation-installation-nassau-county  301
+/home-automation-hudson-valley  /home-automation-installation-hudson-valley  301
+/home-automation-westchester-county  /home-automation-installation-westchester-county  301
+/home-automation-rockland-county  /home-automation-installation-rockland-county  301
+/home-automation-orange-county  /home-automation-installation-orange-county  301
+/av-installation-nyc /av-sound-installation-nyc 301
+/av-installation-nyc.html /av-sound-installation-nyc 301
+/access-control-installation-westchester /access-control-installation-westchester-county 301
+
+# --- Video Wall Installation silo (April 2026) ---
+/video-wall-installation-nyc /video-wall-installation-nyc.html 200
+/video-wall-installation-hudson-valley /video-wall-installation-hudson-valley.html 200
+/video-wall-installation-long-island /video-wall-installation-long-island.html 200
+/video-wall-installation-nassau-county /video-wall-installation-nassau-county.html 200
+/video-wall-installation-queens /video-wall-installation-queens.html 200
+/video-wall-installation-suffolk-county /video-wall-installation-suffolk-county.html 200
+/video-wall-installation-manhattan /video-wall-installation-manhattan.html 200
+/video-wall-installation-brooklyn /video-wall-installation-brooklyn.html 200
+/video-wall-installation-bronx /video-wall-installation-bronx.html 200
+/video-wall-installation-westchester-county /video-wall-installation-westchester-county.html 200
+/video-wall-installation-staten-island /video-wall-installation-staten-island.html 200
+/video-wall-installation-rockland-county /video-wall-installation-rockland-county.html 200
+/video-wall-installation-putnam-county /video-wall-installation-putnam-county.html 200
+/video-wall-installation-orange-county /video-wall-installation-orange-county.html 200
+/video-wall-installation-dutchess-county /video-wall-installation-dutchess-county.html 200
+/video-wall-installation-ulster-county /video-wall-installation-ulster-county.html 200
+
+# 404 recovery redirects (from external/inbound link audit)
+/access-control-queens /access-control-installation-queens.html 301
+/alarm-system-bronx /alarm-installation-bronx.html 301
+/alarm-system-dutchess-county /alarm-installation-dutchess-county.html 301
+/alarm-system-nassau-county /alarm-installation-nassau-county.html 301
+/alarm-system-orange-county /alarm-installation-orange-county.html 301
+/alarm-system-putnam-county /alarm-installation-putnam-county.html 301
+/alarm-system-queens /alarm-installation-queens.html 301
+/alarm-system-rockland-county /alarm-installation-rockland-county.html 301
+/alarm-system-staten-island /alarm-installation-staten-island.html 301
+/alarm-system-suffolk-county /alarm-installation-suffolk-county.html 301
+/alarm-system-ulster-county /alarm-installation-ulster-county.html 301
+/alarm-system-westchester /alarm-installation-westchester-county.html 301
+/door-buzzer-repair-hudson-valley /door-buzzer-repair-hudson-valley-ny.html 301
+/door-buzzer-repair-long-island /door-buzzer-repair-long-island-ny.html 301
+/fire-alarm-bronx /fire-alarm-installation-bronx-ny.html 301
+/fire-alarm-dutchess-county /fire-alarm-installation-dutchess-county-ny.html 301
+/fire-alarm-installation-bronx /fire-alarm-installation-bronx-ny.html 301
+/fire-alarm-installation-brooklyn /fire-alarm-installation-brooklyn-ny.html 301
+/fire-alarm-installation-dutchess-county /fire-alarm-installation-dutchess-county-ny.html 301
+/fire-alarm-installation-hudson-valley /fire-alarm-installation-hudson-valley-ny.html 301
+/fire-alarm-installation-long-island /fire-alarm-installation-long-island-ny.html 301
+/fire-alarm-installation-manhattan /fire-alarm-installation-manhattan-ny.html 301
+/fire-alarm-installation-nassau-county /fire-alarm-installation-nassau-county-ny.html 301
+/fire-alarm-installation-putnam-county /fire-alarm-installation-putnam-county-ny.html 301
+/fire-alarm-installation-staten-island /fire-alarm-installation-staten-island-ny.html 301
+/fire-alarm-installation-suffolk-county /fire-alarm-installation-suffolk-county-ny.html 301
+/fire-alarm-installation-ulster-county /fire-alarm-installation-ulster-county-ny.html 301
+/fire-alarm-nassau-county /fire-alarm-installation-nassau-county-ny.html 301
+/fire-alarm-orange-county /fire-alarm-installation-orange-county-ny.html 301
+/fire-alarm-putnam-county /fire-alarm-installation-putnam-county-ny.html 301
+/fire-alarm-rockland-county /fire-alarm-installation-rockland-county-ny.html 301
+/fire-alarm-staten-island /fire-alarm-installation-staten-island-ny.html 301
+/fire-alarm-suffolk-county /fire-alarm-installation-suffolk-county-ny.html 301
+/fire-alarm-ulster-county /fire-alarm-installation-ulster-county-ny.html 301
+/intercom-installation-bronx /intercom-installation-bronx-ny.html 301
+/intercom-installation-brooklyn /intercom-installation-brooklyn-ny.html 301
+/intercom-installation-dutchess-county /intercom-installation-dutchess-county-ny.html 301
+/intercom-installation-hudson-valley /intercom-installation-hudson-valley-ny.html 301
+/intercom-installation-long-island /intercom-installation-long-island-ny.html 301
+/intercom-installation-manhattan /intercom-installation-manhattan-ny.html 301
+/intercom-installation-orange-county /intercom-installation-orange-county-ny.html 301
+/intercom-installation-putnam-county /intercom-installation-putnam-county-ny.html 301
+/intercom-installation-queens /intercom-installation-queens-ny.html 301
+/intercom-installation-rockland-county /intercom-installation-rockland-county-ny.html 301
+/intercom-installation-staten-island /intercom-installation-staten-island-ny.html 301
+/intercom-installation-ulster-county /intercom-installation-ulster-county-ny.html 301
+/security-camera-installation-brooklyn /security-camera-installation-brooklyn-ny.html 301
+/security-camera-installation-dutchess-county /security-camera-installation-dutchess-county-ny.html 301
+/security-camera-installation-hudson-valley /security-camera-installation-hudson-valley-ny.html 301
+/security-camera-installation-long-island /security-camera-installation-long-island-ny.html 301
+/security-camera-installation-manhattan /security-camera-installation-manhattan-ny.html 301
+/security-camera-installation-putnam-county /security-camera-installation-putnam-county-ny.html 301
+/security-camera-installation-staten-island /security-camera-installation-staten-island-ny.html 301
+/security-camera-installation-ulster-county /security-camera-installation-ulster-county-ny.html 301
+/security-cameras-bronx /security-camera-installation-bronx-ny.html 301
+/security-cameras-dutchess-county /security-camera-installation-dutchess-county-ny.html 301
+/security-cameras-nassau-county /security-camera-installation-nassau-county-ny.html 301
+/security-cameras-orange-county /security-camera-installation-orange-county-ny.html 301
+/security-cameras-putnam-county /security-camera-installation-putnam-county-ny.html 301
+/security-cameras-queens /security-camera-installation-queens-ny.html 301
+/security-cameras-rockland-county /security-camera-installation-rockland-county-ny.html 301
+/security-cameras-staten-island /security-camera-installation-staten-island-ny.html 301
+/security-cameras-suffolk-county /security-camera-installation-suffolk-county-ny.html 301
+/security-cameras-ulster-county /security-camera-installation-ulster-county-ny.html 301
+/security-installation-bronx /security-camera-installation-bronx-ny.html 301
+/security-installation-dutchess-county /security-camera-installation-dutchess-county-ny.html 301
+/security-installation-hudson-valley /security-camera-installation-hudson-valley-ny.html 301
+/security-installation-long-island /security-camera-installation-long-island-ny.html 301
+/security-installation-manhattan /security-camera-installation-manhattan-ny.html 301
+/security-installation-nassau-county /security-camera-installation-nassau-county-ny.html 301
+/security-installation-putnam-county /security-camera-installation-putnam-county-ny.html 301
+/security-installation-queens /security-camera-installation-queens-ny.html 301
+/security-installation-staten-island /security-camera-installation-staten-island-ny.html 301
+/security-installation-suffolk-county /security-camera-installation-suffolk-county-ny.html 301
+/security-installation-ulster-county /security-camera-installation-ulster-county-ny.html 301
+/structured-cabling-bronx /structured-cabling-installation-bronx.html 301
+/structured-cabling-brooklyn /structured-cabling-installation-brooklyn.html 301
+/structured-cabling-dutchess-county /structured-cabling-installation-dutchess-county.html 301
+/structured-cabling-hudson-valley /structured-cabling-installation-hudson-valley.html 301
+/structured-cabling-nassau-county /structured-cabling-installation-nassau-county.html 301
+/structured-cabling-orange-county /structured-cabling-installation-orange-county.html 301
+/structured-cabling-putnam-county /structured-cabling-installation-putnam-county.html 301
+/structured-cabling-queens /structured-cabling-installation-queens.html 301
+/structured-cabling-rockland-county /structured-cabling-installation-rockland-county.html 301
+/structured-cabling-staten-island /structured-cabling-installation-staten-island.html 301
+/structured-cabling-suffolk-county /structured-cabling-installation-suffolk-county.html 301
+/structured-cabling-ulster-county /structured-cabling-installation-ulster-county.html 301
+/structured-cabling-westchester /structured-cabling-installation-westchester-county.html 301
+/tv-installation-westchester /tv-installation-westchester-county.html 301
+
+# 404 recovery pass 2 (repair→install fallbacks + area suffix variants)
+/alarm-repair-bronx /free-quote?service=alarm-repair&area=bronx 301
+/alarm-repair-brooklyn /free-quote?service=alarm-repair&area=brooklyn 301
+/alarm-repair-dutchess-county /free-quote?service=alarm-repair&area=dutchess 301
+/alarm-repair-hudson-valley /free-quote?service=alarm-repair&area=hudson-valley 301
+/alarm-repair-long-island /free-quote?service=alarm-repair&area=long-island 301
+/alarm-repair-manhattan /free-quote?service=alarm-repair&area=manhattan 301
+/alarm-repair-nassau-county /free-quote?service=alarm-repair&area=nassau 301
+/alarm-repair-nyc /free-quote?service=alarm-repair&area=nyc 301
+/alarm-repair-putnam-county /free-quote?service=alarm-repair&area=putnam 301
+/alarm-repair-queens /free-quote?service=alarm-repair&area=queens 301
+/alarm-repair-staten-island /free-quote?service=alarm-repair&area=staten-island 301
+/alarm-repair-suffolk-county /free-quote?service=alarm-repair&area=suffolk 301
+/alarm-repair-ulster-county /free-quote?service=alarm-repair&area=ulster 301
+/camera-repair-bronx /security-camera-repair-bronx 301
+/camera-repair-staten-island /security-camera-repair-staten-island 301
+/camera-repair-nassau-county /free-quote?service=camera-repair&area=nassau 301
+/camera-repair-suffolk-county /free-quote?service=camera-repair&area=suffolk 301
+/camera-repair-dutchess-county /free-quote?service=camera-repair&area=dutchess 301
+/camera-repair-putnam-county /free-quote?service=camera-repair&area=putnam 301
+/camera-repair-ulster-county /free-quote?service=camera-repair&area=ulster 301
+/camera-repair-brooklyn /security-camera-repair-brooklyn 301
+/camera-repair-hudson-valley /security-camera-repair-hudson-valley 301
+/camera-repair-long-island /security-camera-repair-long-island 301
+/camera-repair-manhattan /security-camera-repair-manhattan 301
+/camera-repair-queens /security-camera-repair-queens 301
+/door-buzzer-installation-bronx /intercom-installation-bronx-ny.html 301
+/door-buzzer-installation-brooklyn /intercom-installation-brooklyn-ny.html 301
+/door-buzzer-installation-dutchess-county /intercom-installation-dutchess-county-ny.html 301
+/door-buzzer-installation-hudson-valley /intercom-installation-hudson-valley-ny.html 301
+/door-buzzer-installation-long-island /intercom-installation-long-island-ny.html 301
+/door-buzzer-installation-manhattan /intercom-installation-manhattan-ny.html 301
+/door-buzzer-installation-nassau-county /intercom-installation-nassau-county-new-york.html 301
+/door-buzzer-installation-nyc /intercom-installation-nyc.html 301
+/door-buzzer-installation-putnam-county /intercom-installation-putnam-county-ny.html 301
+/door-buzzer-installation-queens /intercom-installation-queens-ny.html 301
+/door-buzzer-installation-staten-island /intercom-installation-staten-island-ny.html 301
+/door-buzzer-installation-suffolk-county /intercom-installation-suffolk-county-new-york.html 301
+/door-buzzer-installation-ulster-county /intercom-installation-ulster-county-ny.html 301
+/door-buzzer-repair-bronx /door-buzzer-repair-bronx-new-york 301
+/door-buzzer-repair-brooklyn /door-buzzer-repair-brooklyn-new-york 301
+/door-buzzer-repair-dutchess-county /free-quote?service=buzzer-repair&area=dutchess 301
+/door-buzzer-repair-manhattan /door-buzzer-repair-manhattan-new-york 301
+/door-buzzer-repair-nassau-county /free-quote?service=buzzer-repair&area=nassau 301
+/door-buzzer-repair-putnam-county /free-quote?service=buzzer-repair&area=putnam 301
+/door-buzzer-repair-queens /door-buzzer-repair-queens-new-york 301
+/door-buzzer-repair-staten-island /door-buzzer-repair-staten-island-new-york 301
+/door-buzzer-repair-suffolk-county /free-quote?service=buzzer-repair&area=suffolk 301
+/door-buzzer-repair-ulster-county /free-quote?service=buzzer-repair&area=ulster 301
+/fire-alarm-installation-queens /fire-alarm-installation-queens-new-york.html 301
+/fire-alarm-queens /fire-alarm-installation-queens-new-york.html 301
+/fire-alarm-repair-bronx /free-quote?service=fire-alarm-repair&area=bronx 301
+/fire-alarm-repair-brooklyn /free-quote?service=fire-alarm-repair&area=brooklyn 301
+/fire-alarm-repair-dutchess-county /free-quote?service=fire-alarm-repair&area=dutchess 301
+/fire-alarm-repair-hudson-valley /free-quote?service=fire-alarm-repair&area=hudson-valley 301
+/fire-alarm-repair-long-island /free-quote?service=fire-alarm-repair&area=long-island 301
+/fire-alarm-repair-manhattan /free-quote?service=fire-alarm-repair&area=manhattan 301
+/fire-alarm-repair-nassau-county /free-quote?service=fire-alarm-repair&area=nassau 301
+/fire-alarm-repair-nyc /free-quote?service=fire-alarm-repair&area=nyc 301
+/fire-alarm-repair-putnam-county /free-quote?service=fire-alarm-repair&area=putnam 301
+/fire-alarm-repair-queens /free-quote?service=fire-alarm-repair&area=queens 301
+/fire-alarm-repair-staten-island /free-quote?service=fire-alarm-repair&area=staten-island 301
+/fire-alarm-repair-suffolk-county /free-quote?service=fire-alarm-repair&area=suffolk 301
+/fire-alarm-repair-ulster-county /free-quote?service=fire-alarm-repair&area=ulster 301
+/fire-alarm-westchester /fire-alarm-installation-westchester-county-new-york.html 301
+/home-automation-westchester /home-automation-installation-westchester-county.html 301
+/intercom-installation-nassau-county /intercom-installation-nassau-county-new-york.html 301
+/intercom-installation-suffolk-county /intercom-installation-suffolk-county-new-york.html 301
+/intercom-installation-westchester /intercom-installation-westchester-county-ny.html 301
+/intercom-repair-bronx /free-quote?service=intercom-repair&area=bronx 301
+/intercom-repair-brooklyn /free-quote?service=intercom-repair&area=brooklyn 301
+/intercom-repair-dutchess-county /free-quote?service=intercom-repair&area=dutchess 301
+/intercom-repair-hudson-valley /free-quote?service=intercom-repair&area=hudson-valley 301
+/intercom-repair-long-island /free-quote?service=intercom-repair&area=long-island 301
+/intercom-repair-manhattan /free-quote?service=intercom-repair&area=manhattan 301
+/intercom-repair-nassau-county /free-quote?service=intercom-repair&area=nassau 301
+/intercom-repair-nyc /free-quote?service=intercom-repair&area=nyc 301
+/intercom-repair-putnam-county /free-quote?service=intercom-repair&area=putnam 301
+/intercom-repair-queens /free-quote?service=intercom-repair&area=queens 301
+/intercom-repair-staten-island /free-quote?service=intercom-repair&area=staten-island 301
+/intercom-repair-suffolk-county /free-quote?service=intercom-repair&area=suffolk 301
+/intercom-repair-ulster-county /free-quote?service=intercom-repair&area=ulster 301
+/security-cameras-westchester /security-camera-installation-westchester-county-ny.html 301
+
+# 404 recovery pass 3 (final manual mappings)
+/home-theater-installation-nassau-county /av-sound-installation-nassau-county.html 301
+/home-theater-installation-queens /av-sound-installation-queens.html 301
+
+# AV silo: westchester slug normalization
+/av-sound-installation-westchester    /av-sound-installation-westchester-county    301!
+
+# --- Affordable security cameras URL fix (typo → correct spelling) ---
+/afordable-security-cameras-new-york  /affordable-security-cameras-new-york  301!
+/affordable-security-cameras  /affordable-security-cameras-new-york  301!
+
+# --- 2026-05-01 CNI fix: catch-all for broken internal nav links across older neighborhood templates ---
+# These targets are linked from 170+ pages; converting 404→301 unblocks crawl + indexing
+/services                                          /                                                301
+/services.html                                     /                                                301
+/areas                                             /                                                301
+/areas.html                                        /                                                301
+/terms                                             /terms-and-conditions                            301
+/terms.html                                        /terms-and-conditions                            301
+/pricing                                           /                                                301
+/pricing.html                                      /                                                301
+
+# Service-area slug normalizations (canonical form)
+/door-buzzer-repair-bronx-ny                       /door-buzzer-repair-bronx-new-york               301
+/access-control-installation-bronx-ny              /access-control-installation-bronx               301
+/alarm-installation-bronx-ny                       /alarm-installation-bronx                        301
+/security-camera-installation-westchester-county   /security-camera-installation-westchester-county-ny 301
+/security-camera-installation-westchester-ny       /security-camera-installation-westchester-county-ny 301
+/security-camera-installation-orange-county        /security-camera-installation-orange-county-ny   301
+/security-camera-installation-rockland-county      /security-camera-installation-rockland-county-ny 301
+/security-cameras-bronx-ny                         /security-camera-installation-bronx-ny           301
+/fire-alarm-installation-orange-county             /fire-alarm-installation-orange-county-ny        301
+/fire-alarm-installation-rockland-county           /fire-alarm-installation-rockland-county-ny      301
+/fire-alarm-installation-westchester-county        /fire-alarm-installation-westchester-county-new-york 301
+/fire-alarm-installation-queens-ny                 /fire-alarm-installation-queens-new-york         301
+/intercom-installation-westchester-county          /intercom-installation-westchester-county-ny     301
+/intercom-installation-staten-island-new-york      /intercom-installation-staten-island-ny          301
+/intercom-installation-nassau-county-ny            /intercom-installation-nassau-county-new-york    301
+/intercom-installation-suffolk-county-ny           /intercom-installation-suffolk-county-new-york   301
+/home-automation-installation-suffolk-county       /home-automation-suffolk-county                  301
+/home-automation-installation-dutchess-county      /home-automation-dutchess-county                 301
+/home-automation-installation-putnam-county        /home-automation-putnam-county                   301
+/home-automation-installation-ulster-county        /home-automation-ulster-county                   301
+/home-automation-bronx-ny                          /home-automation-installation-bronx              301
+/structured-cabling-long-island                    /structured-cabling-installation-long-island     301
+/structured-cabling-manhattan                      /structured-cabling-installation-manhattan       301
+/structured-cabling-nyc                            /structured-cabling-installation-nyc             301
+/structured-cabling-westchester-county             /structured-cabling-installation-westchester-county 301
+/structured-cabling-installation-westchester       /structured-cabling-installation-westchester-county 301
+
+# --- 2026-05-01 CNI fix: residual long-tail link 404s ---
+/access-control-installation-marble-hill-bronx-ny  /access-control-installation-bronx              301
+/access-control-installation-marble-hill-bronx-ny.html /access-control-installation-bronx          301
+/door-buzzer-repair-orange-county                  /door-buzzer-repair-orange-county-new-york      301
+/alarm-installation-hudson-valley-ny               /alarm-installation-hudson-valley               301
+/tv-installation-hudson-valley-ny                  /tv-installation-hudson-valley                  301
+/access-control-hudson-valley-ny                   /access-control-installation-hudson-valley      301
+/access-control-hudson-valley                      /access-control-installation-hudson-valley      301
+/access-control-long-island                        /access-control-installation-long-island        301
+/access-control-nyc                                /access-control-installation-nyc                301
+/home-automation-installation-hudson-valley-ny     /home-automation-installation-hudson-valley     301
+/av-sound-installation-hudson-valley-ny            /av-sound-installation-hudson-valley            301
+/home-theater-installation-dutchess-county         /av-sound-installation-dutchess-county          301
+/home-theater-installation-putnam-county           /av-sound-installation-putnam-county            301
+/home-theater-installation-ulster-county           /av-sound-installation-ulster-county            301
+/intercom-installation-westchester-ny              /intercom-installation-westchester-county-ny    301
+/alarm-installation-westchester                    /alarm-installation-westchester-county          301
+/fire-alarm-installation-westchester-ny            /fire-alarm-installation-westchester-county-new-york 301
+
+# --- 2026-05-01 CNI fix pass 2: orphan duplicate URLs → canonical 301s ---
+/brooklyn-ny-security-camera-installation                              /security-camera-installation-brooklyn-ny      301!
+/camera-installation-new-york-ny                                       /security-camera-installation-nyc              301!
+/camera-installation-staten-island                                     /security-camera-installation-staten-island-ny 301!
+/cctv-camera-installation-bronx-ny                                     /security-camera-installation-bronx-ny         301!
+/cctv-camera-installation-williamsburg-brooklyn-ny                     /security-camera-installation-williamsburg-brooklyn-ny 301!
+/residential-security-camera-installation-albany-new-york              /security-camera-installation-nyc              301!
+/residentialcommercialintercominstallation                             /intercom-installation-nyc                     301!
+/security-camera-flatbush-brooklyn                                     /security-camera-installation-flatbush-brooklyn-ny 301!
+/security-camera-installation                                          /security-camera-installation-nyc              301!
+/security-camera-installation-albany-newyork                           /security-camera-installation-nyc              301!
+/security-camera-installation-bedford-stuyvesant-brooklyn-new-york     /security-camera-installation-bedford-stuyvesant-brooklyn-ny 301!
+/security-camera-installation-nassau                                   /security-camera-installation-nassau-county-ny 301!
+/security-camera-installation-newyork-ny                               /security-camera-installation-nyc              301!
+/security-camera-installers-brooklyn                                   /security-camera-installation-brooklyn-ny      301!
+/security-installation-brooklyn                                        /security-camera-installation-brooklyn-ny      301!
+
+# === Duplicate-neighborhood consolidation 2026-05-03 ===
+# Riverdale family + Bed-Stuy + Fordham subareas → canonical pages
+/alarm-installation-central-riverdale-bronx-ny /alarm-installation-riverdale-bronx-ny 301
+/fire-alarm-installation-central-riverdale-bronx-ny /fire-alarm-installation-riverdale-bronx-ny 301
+/intercom-installation-central-riverdale-bronx-ny /intercom-installation-riverdale-bronx-ny 301
+/security-camera-installation-central-riverdale-bronx-ny /security-camera-installation-riverdale-bronx-ny 301
+/access-control-installation-central-riverdale-bronx-ny /access-control-installation-riverdale-bronx-ny 301
+/tv-installation-central-riverdale-bronx-ny /tv-installation-riverdale-bronx-ny 301
+/structured-cabling-installation-central-riverdale-bronx-ny /structured-cabling-installation-riverdale-bronx-ny 301
+/door-buzzer-repair-central-riverdale-bronx-ny /door-buzzer-repair-riverdale-bronx-ny 301
+/alarm-installation-north-riverdale-bronx-ny /alarm-installation-riverdale-bronx-ny 301
+/fire-alarm-installation-north-riverdale-bronx-ny /fire-alarm-installation-riverdale-bronx-ny 301
+/intercom-installation-north-riverdale-bronx-ny /intercom-installation-riverdale-bronx-ny 301
+/security-camera-installation-north-riverdale-bronx-ny /security-camera-installation-riverdale-bronx-ny 301
+/access-control-installation-north-riverdale-bronx-ny /access-control-installation-riverdale-bronx-ny 301
+/tv-installation-north-riverdale-bronx-ny /tv-installation-riverdale-bronx-ny 301
+/structured-cabling-installation-north-riverdale-bronx-ny /structured-cabling-installation-riverdale-bronx-ny 301
+/door-buzzer-repair-north-riverdale-bronx-ny /door-buzzer-repair-riverdale-bronx-ny 301
+/alarm-installation-bed-stuy-brooklyn-ny /alarm-installation-bedford-stuyvesant-brooklyn-ny 301
+/fire-alarm-installation-bed-stuy-brooklyn-ny /fire-alarm-installation-bedford-stuyvesant-brooklyn-ny 301
+/intercom-installation-bed-stuy-brooklyn-ny /intercom-installation-bedford-stuyvesant-brooklyn-ny 301
+/security-camera-installation-bed-stuy-brooklyn-ny /security-camera-installation-bedford-stuyvesant-brooklyn-ny 301
+/access-control-installation-bed-stuy-brooklyn-ny /access-control-installation-bedford-stuyvesant-brooklyn-ny 301
+/tv-installation-bed-stuy-brooklyn-ny /tv-installation-bedford-stuyvesant-brooklyn-ny 301
+/structured-cabling-installation-bed-stuy-brooklyn-ny /structured-cabling-installation-bedford-stuyvesant-brooklyn-ny 301
+/door-buzzer-repair-bed-stuy-brooklyn-ny /door-buzzer-repair-bedford-stuyvesant-brooklyn-ny 301
+/alarm-installation-fordham-heights-bronx-ny /alarm-installation-fordham-bronx-ny 301
+/fire-alarm-installation-fordham-heights-bronx-ny /fire-alarm-installation-fordham-bronx-ny 301
+/intercom-installation-fordham-heights-bronx-ny /intercom-installation-fordham-bronx-ny 301
+/security-camera-installation-fordham-heights-bronx-ny /security-camera-installation-fordham-bronx-ny 301
+/access-control-installation-fordham-heights-bronx-ny /access-control-installation-fordham-bronx-ny 301
+/tv-installation-fordham-heights-bronx-ny /tv-installation-fordham-bronx-ny 301
+/structured-cabling-installation-fordham-heights-bronx-ny /structured-cabling-installation-fordham-bronx-ny 301
+/door-buzzer-repair-fordham-heights-bronx-ny /door-buzzer-repair-fordham-bronx-ny 301
+/alarm-installation-fordham-manor-bronx-ny /alarm-installation-fordham-bronx-ny 301
+/fire-alarm-installation-fordham-manor-bronx-ny /fire-alarm-installation-fordham-bronx-ny 301
+/intercom-installation-fordham-manor-bronx-ny /intercom-installation-fordham-bronx-ny 301
+/security-camera-installation-fordham-manor-bronx-ny /security-camera-installation-fordham-bronx-ny 301
+/access-control-installation-fordham-manor-bronx-ny /access-control-installation-fordham-bronx-ny 301
+/tv-installation-fordham-manor-bronx-ny /tv-installation-fordham-bronx-ny 301
+/structured-cabling-installation-fordham-manor-bronx-ny /structured-cabling-installation-fordham-bronx-ny 301
+/door-buzzer-repair-fordham-manor-bronx-ny /door-buzzer-repair-fordham-bronx-ny 301
+# === 2026-05-03 GSC URL cleanup (B2 + B3 fixes) ===
+# B2: True 404s — add 301 to canonical
+/copy-of-new-about-us  /about-us  301
+/blank-6-1  /  301
+/security-camera-williamsburg-bk  /security-camera-installation-williamsburg-brooklyn-ny  301
+# B3: Query params + old blog URLs
+
+# County-level security camera repair pages (added 2026-05-03)
+/security-camera-repair-nassau-county  /security-camera-repair-nassau-county.html  200
+/security-camera-repair-suffolk-county  /security-camera-repair-suffolk-county.html  200
+/security-camera-repair-westchester-county  /security-camera-repair-westchester-county.html  200
+/security-camera-repair-orange-county  /security-camera-repair-orange-county.html  200
+/security-camera-repair-putnam-county  /security-camera-repair-putnam-county.html  200
+/security-camera-repair-rockland-county  /security-camera-repair-rockland-county.html  200
+/security-camera-repair-dutchess-county  /security-camera-repair-dutchess-county.html  200
+/security-camera-repair-ulster-county  /security-camera-repair-ulster-county.html  200
+

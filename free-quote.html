@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Free Quote | Security Systems, Cameras, Intercoms &amp; More</title>
+<link rel="canonical" href="https://www.abstractenterprisessecuritysystems.com/free-quote" />
+<meta name="description" content="Get a free quote for security cameras, intercoms, door buzzers, alarms, fire alarms, structured cabling, TV mounting, and home automation across NYC, Long...">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<style>
+:root{--a:#C8102E;--d:#111827;--bg:#0a0c12;--border:rgba(255,255,255,.08);--f:'Plus Jakarta Sans',sans-serif}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:var(--f);background:var(--bg);color:#fff;min-height:100vh;-webkit-font-smoothing:antialiased}
+.nav{position:sticky;top:0;z-index:100;background:rgba(10,12,18,.95);backdrop-filter:blur(16px);border-bottom:1px solid var(--border);padding:0 24px}
+.nav-inner{max-width:1000px;margin:0 auto;display:flex;justify-content:space-between;align-items:center;height:64px}
+.nav img{height:48px;width:auto;border-radius:8px;background:#fff;padding:4px 6px}
+.nav-phone{display:flex;align-items:center;gap:10px;text-decoration:none;color:#fff}
+.nav-phone-num{font-size:1rem;font-weight:800;color:var(--a)}
+.nav-phone-label{font-size:.65rem;color:rgba(255,255,255,.4);letter-spacing:1.5px;text-transform:uppercase;font-weight:600}
+.wrap{max-width:620px;margin:0 auto;padding:40px 20px 80px}
+.intro{text-align:center;margin-bottom:40px}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:rgba(200,16,46,.1);border:1px solid rgba(200,16,46,.2);border-radius:100px;padding:8px 18px;font-size:.72rem;font-weight:700;color:var(--a);letter-spacing:1.5px;margin-bottom:20px}
+.intro h1{font-size:clamp(1.8rem,5vw,2.6rem);font-weight:800;line-height:1.1;letter-spacing:-.5px;margin-bottom:14px}
+.intro h1 span{color:var(--a)}
+.intro p{font-size:.95rem;color:rgba(255,255,255,.5);line-height:1.7;max-width:480px;margin:0 auto}
+.trust-row{display:flex;justify-content:center;gap:20px;margin-top:20px;flex-wrap:wrap}
+.trust-item{font-size:.75rem;color:rgba(255,255,255,.35);font-weight:600;display:flex;align-items:center;gap:5px}
+.funnel{background:rgba(255,255,255,.03);border:1px solid var(--border);border-radius:20px;overflow:hidden}
+.prog{padding:20px 28px 0}
+.prog-bar{height:4px;background:rgba(255,255,255,.06);border-radius:4px;overflow:hidden}
+.prog-fill{height:100%;background:var(--a);border-radius:4px;transition:width .4s ease}
+.prog-meta{display:flex;justify-content:space-between;margin-top:10px}
+.prog-title{font-size:.82rem;font-weight:700;color:rgba(255,255,255,.6)}
+.prog-step{font-size:.75rem;color:rgba(255,255,255,.3);font-weight:600}
+.steps{padding:28px 28px 24px;min-height:340px}
+.step{display:none}.step.active{display:block;animation:fadeUp .35s ease}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+.step-q{font-size:1.15rem;font-weight:800;margin-bottom:6px}
+.step-hint{font-size:.82rem;color:rgba(255,255,255,.4);margin-bottom:22px}
+.opts{display:flex;flex-direction:column;gap:10px}
+.opts-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+@media(max-width:500px){.opts-grid{grid-template-columns:1fr}}
+.opt{background:rgba(255,255,255,.04);border:1.5px solid rgba(255,255,255,.08);border-radius:12px;padding:14px 18px;cursor:pointer;display:flex;align-items:center;gap:12px;transition:all .2s;-webkit-tap-highlight-color:transparent;font-family:var(--f)}
+.opt:hover{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.15)}
+.opt.selected{background:rgba(200,16,46,.12);border-color:var(--a)}
+.opt-icon{font-size:20px;flex-shrink:0;width:36px;height:36px;border-radius:10px;background:rgba(255,255,255,.06);display:flex;align-items:center;justify-content:center}
+.opt.selected .opt-icon{background:rgba(200,16,46,.2)}
+.opt-text{font-size:.88rem;font-weight:600;color:rgba(255,255,255,.85)}.opt.selected .opt-text{color:#fff}
+.step-nav{display:flex;justify-content:space-between;align-items:center;margin-top:24px;gap:10px}
+.btn-back{background:none;border:none;cursor:pointer;font-family:var(--f);font-size:.82rem;font-weight:700;color:rgba(255,255,255,.35);padding:8px 0;transition:color .2s}.btn-back:hover{color:#fff}
+.btn-next{background:var(--a);color:#fff;font-family:var(--f);font-weight:700;font-size:.9rem;padding:12px 28px;border-radius:10px;border:none;cursor:pointer;transition:background .2s;box-shadow:0 4px 16px rgba(200,16,46,.3)}.btn-next:hover{background:#a00d25}
+.field{width:100%;background:rgba(255,255,255,.05);border:1.5px solid rgba(255,255,255,.1);border-radius:10px;padding:14px 16px;font-family:var(--f);font-size:.92rem;font-weight:500;color:#fff;outline:none;transition:border-color .2s,box-shadow .2s;margin-bottom:10px}
+.field:focus{border-color:var(--a);box-shadow:0 0 0 3px rgba(200,16,46,.15)}.field::placeholder{color:rgba(255,255,255,.25)}
+textarea.field{min-height:90px;resize:vertical}
+.btn-submit{width:100%;background:var(--a);color:#fff;font-family:var(--f);font-weight:800;font-size:1.05rem;padding:16px;border-radius:12px;border:none;cursor:pointer;transition:background .2s;box-shadow:0 6px 24px rgba(200,16,46,.3);margin-top:12px}.btn-submit:hover{background:#a00d25}.btn-submit:disabled{opacity:.5;cursor:not-allowed}
+.recap{background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:12px;padding:14px 18px;margin-bottom:16px;display:none}.recap.show{display:block}
+.recap-row{display:flex;justify-content:space-between;padding:4px 0;font-size:.8rem}.recap-label{color:rgba(255,255,255,.35)}.recap-val{color:rgba(255,255,255,.7);font-weight:600;text-align:right;max-width:60%}
+.success{display:none;text-align:center;padding:60px 28px}.success.show{display:block}
+.success-icon{font-size:48px;margin-bottom:16px}.success h3{font-size:1.4rem;font-weight:800;margin-bottom:10px}.success p{font-size:.92rem;color:rgba(255,255,255,.5);line-height:1.7;margin-bottom:24px}
+.btn-call{display:inline-block;background:var(--a);color:#fff;font-family:var(--f);font-weight:700;font-size:1rem;padding:14px 32px;border-radius:12px;text-decoration:none;box-shadow:0 4px 20px rgba(200,16,46,.3)}
+.badges{display:flex;justify-content:center;gap:16px;flex-wrap:wrap;padding:18px 28px;border-top:1px solid var(--border)}
+.badge{font-size:.72rem;color:rgba(255,255,255,.3);font-weight:600;display:flex;align-items:center;gap:5px}
+.ft{text-align:center;padding:30px 20px;font-size:.72rem;color:rgba(255,255,255,.15)}.ft a{color:rgba(255,255,255,.25);text-decoration:none}
+</style>
+
+<!-- ═══ STICKY PRICING BAR CSS ═══ -->
+<style>
+:root{
+  --spb-bg:#060c1a;--spb-accent:#f5a623;--spb-accent-h:#ffb940;
+  --spb-white:#fff;--spb-gray:#8896b0;--spb-green:#22c55e;
+  --spb-red:#ef4444;--spb-blue:#3b82f6;--spb-border:rgba(255,255,255,.06);
+  --spb-font:'Outfit',-apple-system,sans-serif;
+}
+.sticky-pricing-bar{position:fixed;bottom:0;left:0;right:0;z-index:9999;background:var(--spb-bg);border-top:1px solid var(--spb-border);box-shadow:0 -6px 40px rgba(0,0,0,.55),0 -1px 0 rgba(245,166,35,.12);font-family:var(--spb-font);transform:translateY(100%);opacity:0;transition:transform .45s cubic-bezier(.16,1,.3,1),opacity .4s ease;will-change:transform,opacity}
+.sticky-pricing-bar.visible{transform:translateY(0);opacity:1}
+.sticky-pricing-bar.dismissed{transform:translateY(110%)!important;opacity:0!important;pointer-events:none}
+.spb-inner{max-width:1280px;margin:0 auto;display:flex;align-items:center;height:68px;gap:0;padding:0}
+.spb-label{display:none;align-items:center;gap:7px;padding:0 14px 0 20px;flex-shrink:0;white-space:nowrap}
+.spb-label-dot{width:6px;height:6px;background:var(--spb-green);border-radius:50%;animation:spbPulse 2s ease-in-out infinite}
+@keyframes spbPulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+.spb-label-text{font-size:.7rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--spb-gray)}
+.spb-ticker{flex:1;display:flex;align-items:center;padding:0 16px;overflow:hidden;mask-image:linear-gradient(90deg,transparent 0%,#000 4%,#000 92%,transparent 100%);-webkit-mask-image:linear-gradient(90deg,transparent 0%,#000 4%,#000 92%,transparent 100%)}
+.spb-track{display:flex;align-items:center;gap:8px;animation:spbScroll 30s linear infinite;white-space:nowrap}
+.spb-track:hover{animation-play-state:paused}
+@keyframes spbScroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+.spb-chip{display:inline-flex;align-items:center;gap:10px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.07);border-radius:8px;padding:10px 16px;flex-shrink:0;transition:background .2s,border-color .2s;cursor:default;text-decoration:none;color:inherit}
+.spb-chip:hover{background:rgba(245,166,35,.08);border-color:rgba(245,166,35,.2)}
+.spb-chip-tag{font-size:.7rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--spb-accent);line-height:1.3}
+.spb-chip-mid{font-size:.78rem;font-weight:600;color:var(--spb-gray);line-height:1.3}
+.spb-chip-val{font-size:.85rem;font-weight:800;color:var(--spb-white);line-height:1.3}
+.spb-chip-div{width:1px;height:22px;background:rgba(255,255,255,.07);flex-shrink:0}
+.spb-chip--gold{border-color:rgba(245,166,35,.2);background:rgba(245,166,35,.06)}
+.spb-chip--gold .spb-chip-tag{color:#ffb940}
+.spb-chip--green .spb-chip-tag{color:var(--spb-green)}
+.spb-chip--blue .spb-chip-tag{color:var(--spb-blue)}
+.spb-chip--red .spb-chip-tag{color:var(--spb-red)}
+.spb-cta{display:flex;align-items:center;gap:10px;padding:0 14px;flex-shrink:0;height:100%}
+.spb-btn-primary{display:inline-flex;align-items:center;gap:7px;background:var(--spb-accent);color:var(--spb-bg);font-family:var(--spb-font);font-size:.82rem;font-weight:800;padding:10px 20px;border-radius:8px;text-decoration:none;border:none;cursor:pointer;transition:background .2s,transform .15s,box-shadow .2s;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.spb-btn-primary:hover{background:var(--spb-accent-h);transform:translateY(-1px);box-shadow:0 4px 16px rgba(245,166,35,.35)}
+.spb-btn-primary svg{width:15px;height:15px;flex-shrink:0}
+.spb-btn-secondary{display:inline-flex;align-items:center;gap:6px;background:transparent;color:var(--spb-white);font-family:var(--spb-font);font-size:.78rem;font-weight:700;padding:10px 14px;border-radius:8px;border:1px solid rgba(255,255,255,.12);text-decoration:none;transition:background .2s,border-color .2s;white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.spb-btn-secondary:hover{background:rgba(255,255,255,.05);border-color:rgba(255,255,255,.2)}
+.spb-btn-secondary svg{width:14px;height:14px;flex-shrink:0;opacity:.7}
+.spb-dismiss{display:flex;align-items:center;justify-content:center;width:32px;height:32px;background:none;border:none;color:rgba(255,255,255,.25);cursor:pointer;flex-shrink:0;margin-right:12px;border-radius:6px;transition:color .2s,background .2s;-webkit-tap-highlight-color:transparent}
+.spb-dismiss:hover{color:rgba(255,255,255,.6);background:rgba(255,255,255,.05)}
+.spb-dismiss svg{width:16px;height:16px}
+@media(min-width:769px){.spb-label{display:flex}.spb-inner{height:68px}}
+@media(max-width:768px){.spb-inner{flex-direction:column;height:auto;padding:10px 14px 14px;gap:10px}.spb-ticker{width:100%;padding:0;height:44px;order:1;align-items:center}.spb-chip{padding:8px 12px;gap:8px;border-radius:7px}.spb-chip-tag{font-size:.65rem}.spb-chip-mid{font-size:.72rem}.spb-chip-val{font-size:.78rem}.spb-chip-div{height:20px}.spb-cta{width:100%;padding:0;gap:8px;order:2;height:auto}.spb-btn-primary{flex:1.4;justify-content:center;padding:13px 14px;font-size:.86rem}.spb-btn-secondary{flex:1;justify-content:center;padding:13px 10px;font-size:.8rem}.spb-dismiss{position:absolute;top:6px;right:8px;margin:0;width:28px;height:28px}}
+</style>
+<link rel="stylesheet" href="/css/mega-nav.css">
+</head>
+<body>
+<!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
+</div>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
+<div class="wrap">
+<div class="intro">
+<div class="eyebrow">NYC &amp; SURROUNDING COUNTIES</div>
+<h1>Get a <span>Free Quote</span></h1>
+<p>Tell us about your project and we'll get back to you within the hour with a custom quote. No obligation, no pressure.</p>
+<div class="trust-row"><span class="trust-item">🔒 Licensed &amp; Insured</span><span class="trust-item">⭐ 4.6 Google Rating</span><span class="trust-item">💰 No Monthly Fees</span></div>
+</div>
+
+<div class="funnel" id="funnel">
+<div class="prog" id="prog"><div class="prog-bar"><div class="prog-fill" id="progFill" style="width:14%"></div></div><div class="prog-meta"><span class="prog-title">Your Free Quote</span><span class="prog-step" id="progStep">Step 1 of 7</span></div></div>
+<div class="steps" id="stepsWrap">
+
+<!-- STEP 1: Service Selection -->
+<div class="step active" data-step="1" id="step1">
+<p class="step-q">What service do you need?</p>
+<p class="step-hint">Select the one that best fits your project</p>
+<div class="opts">
+<button class="opt" onclick="pickService(this,'Security Camera Installation')"><div class="opt-icon">📹</div><div class="opt-text">Security Camera Installation</div></button>
+<button class="opt" onclick="pickService(this,'Security Camera Repair')"><div class="opt-icon">🔧</div><div class="opt-text">Security Camera Repair</div></button>
+<button class="opt" onclick="pickService(this,'Intercom Installation')"><div class="opt-icon">🚪</div><div class="opt-text">Intercom Installation</div></button>
+<button class="opt" onclick="pickService(this,'Intercom Repair')"><div class="opt-icon">🔊</div><div class="opt-text">Intercom Repair</div></button>
+<button class="opt" onclick="pickService(this,'Door Buzzer Install or Repair')"><div class="opt-icon">🔔</div><div class="opt-text">Door Buzzer Install or Repair</div></button>
+<button class="opt" onclick="pickService(this,'Alarm System')"><div class="opt-icon">🚨</div><div class="opt-text">Alarm System</div></button>
+<button class="opt" onclick="pickService(this,'Fire Alarm')"><div class="opt-icon">🔥</div><div class="opt-text">Fire Alarm</div></button>
+<button class="opt" onclick="pickService(this,'Structured Cabling')"><div class="opt-icon">⚡</div><div class="opt-text">Structured Cabling</div></button>
+<button class="opt" onclick="pickService(this,'TV Mounting')"><div class="opt-icon">📺</div><div class="opt-text">TV Mounting</div></button>
+<button class="opt" onclick="pickService(this,'Home Automation')"><div class="opt-icon">🏠</div><div class="opt-text">Home Automation</div></button>
+<button class="opt" onclick="pickService(this,'Home Theatre Installation')"><div class="opt-icon">🎬</div><div class="opt-text">Home Theatre Installation</div></button>
+<button class="opt" onclick="pickService(this,'AV / Sound')"><div class="opt-icon">🎵</div><div class="opt-text">AV / Sound System</div></button>
+<button class="opt" onclick="pickService(this,'Access Control')"><div class="opt-icon">🔐</div><div class="opt-text">Access Control</div></button>
+<button class="opt" onclick="pickService(this,'Other / Not Sure')"><div class="opt-icon">❓</div><div class="opt-text">Other / Not Sure</div></button>
+</div></div>
+
+<!-- STEP 2: Service-Specific Question 1 (dynamic) -->
+<div class="step" data-step="2" id="step2">
+<p class="step-q" id="q2"></p>
+<p class="step-hint" id="h2"></p>
+<div id="opts2"></div>
+<div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button></div>
+</div>
+
+<!-- STEP 3: Service-Specific Question 2 (dynamic) -->
+<div class="step" data-step="3" id="step3">
+<p class="step-q" id="q3"></p>
+<p class="step-hint" id="h3"></p>
+<div id="opts3"></div>
+<div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button></div>
+</div>
+
+<!-- STEP 4: Property Type -->
+<div class="step" data-step="4" id="step4">
+<p class="step-q">What type of property?</p>
+<p class="step-hint">We'll tailor the quote to your building type</p>
+<div class="opts-grid">
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏡</div><div class="opt-text">House / Home</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏢</div><div class="opt-text">Apartment / Condo</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏗️</div><div class="opt-text">Multi-Unit Building</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏪</div><div class="opt-text">Retail / Restaurant</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">💼</div><div class="opt-text">Office</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏭</div><div class="opt-text">Warehouse / Industrial</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">🏫</div><div class="opt-text">School / Church</div></button>
+<button class="opt" onclick="pick(this,'property')"><div class="opt-icon">📌</div><div class="opt-text">Other</div></button>
+</div><div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button></div></div>
+
+<!-- STEP 5: Area -->
+<div class="step" data-step="5" id="step5">
+<p class="step-q">Where is the property?</p>
+<p class="step-hint">Select your borough or county</p>
+<div class="opts-grid">
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">🌉</div><div class="opt-text">Brooklyn</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">🗽</div><div class="opt-text">Manhattan</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">🏙️</div><div class="opt-text">Queens</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">🏙️</div><div class="opt-text">Bronx</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">🏝️</div><div class="opt-text">Staten Island</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">📍</div><div class="opt-text">Nassau County</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">📍</div><div class="opt-text">Suffolk County</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">📍</div><div class="opt-text">Westchester</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">📍</div><div class="opt-text">Rockland</div></button>
+<button class="opt" onclick="pick(this,'area')"><div class="opt-icon">📍</div><div class="opt-text">Hudson Valley</div></button>
+</div><div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button></div></div>
+
+<!-- STEP 6: Details -->
+<div class="step" data-step="6" id="step6">
+<p class="step-q">Tell us about your project</p>
+<p class="step-hint">Any details help — skip if you're not sure yet</p>
+<textarea class="field" id="fNotes" placeholder="Anything else we should know..."></textarea>
+<div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button><button class="btn-next" onclick="goNext()">Continue →</button></div></div>
+
+<!-- STEP 7: Contact -->
+<div class="step" data-step="7" id="step7">
+<p class="step-q">Where should we send your quote?</p>
+<p class="step-hint">We'll follow up same day — usually within a few hours</p>
+<div class="recap" id="recap"></div>
+<input class="field" type="text" placeholder="Full Name *" id="fName">
+<input class="field" type="tel" placeholder="Phone Number *" id="fPhone">
+<input class="field" type="email" placeholder="Email Address (optional)" id="fEmail">
+<input class="field" type="text" placeholder="Property Address (optional)" id="fAddr">
+<div class="step-nav"><button class="btn-back" onclick="goBack()">← Back</button></div>
+<label style="display:flex;align-items:flex-start;gap:8px;font-size:.78rem;color:rgba(255,255,255,.5);line-height:1.5;cursor:pointer;margin-top:8px"><input type="checkbox" id="smsConsent" style="margin-top:2px;accent-color:#C8102E;flex-shrink:0;width:15px;height:15px">I consent to follow-up &amp; informational text messages. Msg frequency varies. Msg &amp; data rates may apply. Reply STOP to opt out. <a href="/privacy-policy" style="color:#C8102E" target="_blank">Privacy Policy</a>.</label>
+<button class="btn-submit" id="submitBtn" onclick="submitForm()">Get My Free Quote →</button>
+<p style="text-align:center;font-size:.7rem;color:rgba(255,255,255,.2);margin-top:10px">No spam. No commitment. Just your free estimate.</p>
+</div>
+
+</div>
+<div class="success" id="successPane">
+<div class="success-icon">✅</div>
+<h3>You're All Set!</h3>
+<p>We received your request and will be in touch shortly — usually the same day.</p>
+<a href="tel:8004860943" class="btn-call">📞 Call Now: (800) 486-0943</a>
+<p style="font-size:.78rem;color:rgba(255,255,255,.3);margin-top:14px">Alternate: (718) 679-0359</p>
+</div>
+<div class="badges" id="badges"><span class="badge">🔒 Licensed</span><span class="badge">🛡️ Insured</span><span class="badge">⭐ 4.6 Stars</span><span class="badge">💰 $0 Monthly</span><span class="badge">📱 Remote Access</span><span class="badge">⚡ Fast Install</span></div>
+</div>
+</div>
+<div class="ft"><p>&copy; 2026 Abstract Enterprises LLC &middot; <a href="/privacy-policy" style="color:rgba(255,255,255,.35);text-decoration:none">Privacy Policy</a> &middot; <a href="/sms-consent" style="color:rgba(255,255,255,.35);text-decoration:none">SMS Consent</a> &middot; NYS Lic. #12000287431 &middot; <a href="/">Home</a> &middot; <a href="tel:8004860943">(800) 486-0943</a></p></div>
+
+<script>
+var data={},cur=1,total=7,serviceKey='';
+
+// Service-specific branching questions
+var branches={
+'Security Camera Installation':[
+{q:'What type of project?',h:'Select the option that fits',key:'cam_type',type:'opts',items:[
+{i:'📦',t:'Install New Camera System'},{i:'🔄',t:'Replace / Upgrade Existing'},{i:'➕',t:'Add Cameras to Current System'},{i:'❓',t:'Need Help Choosing'}]},
+{q:'How many cameras do you need?',h:'A rough estimate is fine',key:'cam_count',type:'grid',items:[
+{i:'📷',t:'1–2 Cameras'},{i:'📷',t:'3–4 Cameras'},{i:'📷',t:'5–8 Cameras'},{i:'📷',t:'9–16 Cameras'},{i:'📷',t:'16+ Cameras'},{i:'🤷',t:'Not Sure Yet'}]}
+],
+'Security Camera Repair':[
+{q:'What\'s the issue?',h:'Select the problem you\'re experiencing',key:'repair_issue',type:'opts',items:[
+{i:'📷',t:'Camera Not Working / Offline'},{i:'💾',t:'NVR / DVR Not Recording'},{i:'📱',t:'Can\'t View on Phone'},{i:'🌙',t:'Night Vision Not Working'},{i:'⚡',t:'Power / Wiring Issue'},{i:'🔄',t:'Need Full System Upgrade'}]},
+{q:'How many cameras in your system?',h:'Total cameras installed',key:'cam_count',type:'grid',items:[
+{i:'📷',t:'1–4 Cameras'},{i:'📷',t:'5–8 Cameras'},{i:'📷',t:'9–16 Cameras'},{i:'📷',t:'16+ Cameras'},{i:'🤷',t:'Not Sure'}]}
+],
+'Intercom Installation':[
+{q:'What type of intercom?',h:'Select the system you need',key:'intercom_type',type:'opts',items:[
+{i:'📹',t:'Video Intercom'},{i:'🔊',t:'Audio Only Intercom'},{i:'🔑',t:'Key Fob / Access Entry'},{i:'🛗',t:'Elevator Access Control'},{i:'🔄',t:'Replace Old System'},{i:'❓',t:'Not Sure / Need Advice'}]},
+{q:'How many units in the building?',h:'Number of apartments or offices',key:'unit_count',type:'grid',items:[
+{i:'🏠',t:'Single Family / 2-Unit'},{i:'🏢',t:'3–6 Units'},{i:'🏢',t:'7–20 Units'},{i:'🏢',t:'20–50 Units'},{i:'🏢',t:'50+ Units'},{i:'💼',t:'Commercial / Office'}]}
+],
+'Intercom Repair':[
+{q:'What\'s the issue?',h:'Select the problem you\'re experiencing',key:'intercom_issue',type:'opts',items:[
+{i:'🔇',t:'No Sound / Static'},{i:'📹',t:'Video Not Working'},{i:'🔔',t:'Buzzer Not Ringing'},{i:'🔌',t:'Wiring / Power Issue'},{i:'📱',t:'Handset Not Working'},{i:'🔄',t:'Need Full System Replacement'}]},
+{q:'How many units in the building?',h:'Number of apartments or offices',key:'unit_count',type:'grid',items:[
+{i:'🏠',t:'Single Family / 2-Unit'},{i:'🏢',t:'3–6 Units'},{i:'🏢',t:'7–20 Units'},{i:'🏢',t:'20–50 Units'},{i:'🏢',t:'50+ Units'},{i:'💼',t:'Commercial / Office'}]}
+],
+'Door Buzzer Install or Repair':[
+{q:'New install or repair?',h:'What do you need done?',key:'buzzer_type',type:'opts',items:[
+{i:'📦',t:'Install New Buzzer System'},{i:'🔧',t:'Repair Existing Buzzer'},{i:'🔄',t:'Replace / Upgrade System'},{i:'🔌',t:'Rewiring Needed'}]},
+{q:'How many apartments?',h:'Number of units that need buzzer access',key:'unit_count',type:'grid',items:[
+{i:'🏠',t:'1–2 Units'},{i:'🏢',t:'3–6 Units'},{i:'🏢',t:'7–20 Units'},{i:'🏢',t:'20–50 Units'},{i:'🏢',t:'50+ Units'}]}
+],
+'Alarm System':[
+{q:'New install or repair?',h:'What do you need?',key:'alarm_type',type:'opts',items:[
+{i:'📦',t:'Install New Alarm System'},{i:'🔧',t:'Repair / Fix Existing Alarm'},{i:'🔄',t:'Upgrade Current System'},{i:'🔔',t:'Add Sensors / Zones'}]},
+{q:'What type of property?',h:'Helps us size the system',key:'alarm_scope',type:'grid',items:[
+{i:'🏠',t:'Small Home (1–5 rooms)'},{i:'🏡',t:'Large Home (6+ rooms)'},{i:'🏢',t:'Apartment / Condo'},{i:'🏪',t:'Retail / Commercial'},{i:'🏢',t:'Multi-Unit Building'},{i:'🏭',t:'Warehouse'}]}
+],
+'Fire Alarm':[
+{q:'What do you need?',h:'Select the service',key:'fire_type',type:'opts',items:[
+{i:'📦',t:'New Fire Alarm Installation'},{i:'🔧',t:'Repair / Troubleshoot'},{i:'🔍',t:'Inspection / Testing'},{i:'🔄',t:'Replace Smoke Detectors'},{i:'📋',t:'Code Compliance / Violation Fix'}]},
+{q:'Building size?',h:'How many floors or units?',key:'fire_scope',type:'grid',items:[
+{i:'🏠',t:'Single Family Home'},{i:'🏢',t:'2–6 Unit Building'},{i:'🏢',t:'7–20 Units'},{i:'🏢',t:'20+ Units'},{i:'🏪',t:'Commercial Space'},{i:'🏫',t:'School / Church'}]}
+],
+'Structured Cabling':[
+{q:'What type of cabling?',h:'Select what you need installed',key:'cable_type',type:'opts',items:[
+{i:'🌐',t:'Ethernet / Cat5e / Cat6'},{i:'📡',t:'PoE for Cameras / Access Points'},{i:'📺',t:'Coaxial Cable'},{i:'🔌',t:'Low Voltage Wiring'},{i:'🏗️',t:'Full Building Infrastructure'},{i:'❓',t:'Not Sure'}]},
+{q:'How many runs / drops?',h:'Rough estimate is fine',key:'cable_count',type:'grid',items:[
+{i:'🔌',t:'1–5 Drops'},{i:'🔌',t:'6–12 Drops'},{i:'🔌',t:'13–24 Drops'},{i:'🔌',t:'25–50 Drops'},{i:'🔌',t:'50+ Drops'},{i:'🤷',t:'Not Sure'}]}
+],
+'TV Mounting':[
+{q:'How many TVs?',h:'Total TVs to mount',key:'tv_count',type:'opts',items:[
+{i:'📺',t:'1 TV'},{i:'📺',t:'2 TVs'},{i:'📺',t:'3–4 TVs'},{i:'📺',t:'5+ TVs (Commercial)'}]},
+{q:'What do you need done?',h:'Select all that apply',key:'tv_details',type:'opts',items:[
+{i:'🔩',t:'Wall Mount Only'},{i:'🔌',t:'Mount + Hide Cables in Wall'},{i:'📡',t:'Mount + Run HDMI / Ethernet'},{i:'🔊',t:'Mount + Soundbar Install'},{i:'📺',t:'Full AV Setup (Mount + Receiver + Speakers)'}]}
+],
+'Home Automation':[
+{q:'What do you want automated?',h:'Select the systems you need',key:'auto_type',type:'opts',items:[
+{i:'🔒',t:'Smart Locks'},{i:'💡',t:'Smart Lighting'},{i:'🪟',t:'Motorized Shades / Blinds'},{i:'🎙️',t:'Voice Control (Alexa / Google)'},{i:'🌡️',t:'Smart Thermostat'},{i:'🏠',t:'Whole-Home Automation'}]},
+{q:'How big is the space?',h:'Helps us scope the project',key:'auto_scope',type:'grid',items:[
+{i:'🏠',t:'Apartment / Small Home'},{i:'🏡',t:'Large Home'},{i:'🏢',t:'Multi-Unit Building'},{i:'💼',t:'Office / Commercial'}]}
+],
+'Home Theatre Installation':[
+{q:'What do you need?',h:'Select your theatre project',key:'theatre_type',type:'opts',items:[
+{i:'📺',t:'Full Home Theatre Build'},{i:'📽️',t:'Projector + Screen Install'},{i:'🔊',t:'Surround Sound Setup'},{i:'🎛️',t:'Receiver / Amplifier Install'},{i:'🪑',t:'Theatre Room Design + Build'},{i:'🔄',t:'Upgrade Existing Setup'}]},
+{q:'What size room?',h:'Helps us plan the right system',key:'theatre_room',type:'grid',items:[
+{i:'🏠',t:'Small Room (under 150 sq ft)'},{i:'🏠',t:'Medium Room (150–300 sq ft)'},{i:'🏠',t:'Large Room (300+ sq ft)'},{i:'🏢',t:'Commercial / Lounge'},{i:'🤷',t:'Not Sure'}]}
+],
+'AV / Sound':[
+{q:'What type of project?',h:'Select what you need',key:'av_type',type:'opts',items:[
+{i:'🔊',t:'Whole-Home Audio'},{i:'🎵',t:'Commercial Sound System'},{i:'🎤',t:'Conference Room AV'},{i:'🔌',t:'Speaker Wiring Only'},{i:'📺',t:'Multi-Room Video / TV'},{i:'❓',t:'Not Sure'}]},
+{q:'How many rooms / zones?',h:'Where will sound be playing?',key:'av_zones',type:'grid',items:[
+{i:'🔊',t:'1 Room'},{i:'🔊',t:'2–3 Rooms'},{i:'🔊',t:'4–6 Rooms'},{i:'🔊',t:'7+ Rooms / Zones'},{i:'🏪',t:'Full Commercial Space'}]}
+],
+'Access Control':[
+{q:'What type of access control?',h:'Select what you need',key:'access_type',type:'opts',items:[
+{i:'🔑',t:'Key Fob Entry System'},{i:'💳',t:'Card Reader'},{i:'📱',t:'Mobile / App Access'},{i:'🔢',t:'Keypad / PIN Entry'},{i:'🛗',t:'Elevator Access Control'},{i:'🏢',t:'Full Building System'}]},
+{q:'How many doors / entry points?',h:'Total access points needed',key:'access_count',type:'grid',items:[
+{i:'🚪',t:'1 Door'},{i:'🚪',t:'2–3 Doors'},{i:'🚪',t:'4–6 Doors'},{i:'🚪',t:'7–12 Doors'},{i:'🚪',t:'12+ Doors'},{i:'🛗',t:'Elevators Included'}]}
+],
+'Other / Not Sure':[
+{q:'What best describes your project?',h:'Help us point you in the right direction',key:'other_type',type:'opts',items:[
+{i:'📹',t:'Cameras or Surveillance'},{i:'🚪',t:'Intercom or Buzzer'},{i:'🚨',t:'Alarm or Fire Alarm'},{i:'📺',t:'TV or AV'},{i:'⚡',t:'Wiring or Cabling'},{i:'🏠',t:'Smart Home'},{i:'❓',t:'Something Else'}]},
+{q:'When do you need this done?',h:'Helps us prioritize',key:'timeline',type:'opts',items:[
+{i:'⚡',t:'ASAP / Emergency'},{i:'📅',t:'Within 1 Week'},{i:'🗓️',t:'Within 2–4 Weeks'},{i:'🔎',t:'Just Getting Prices'}]}
+]
+};
+
+function makeOpts(items,key,type){
+  var cls=type==='grid'?'opts-grid':'opts';
+  var h='<div class="'+cls+'">';
+  items.forEach(function(it){
+    h+='<button class="opt" onclick="pickDynamic(this,\''+key+'\')"><div class="opt-icon">'+it.i+'</div><div class="opt-text">'+it.t+'</div></button>';
+  });
+  h+='</div>';
+  return h;
+}
+
+function pickService(el,svc){
+  el.closest('.step').querySelectorAll('.opt').forEach(function(o){o.classList.remove('selected')});
+  el.classList.add('selected');
+  data.service=svc;
+  serviceKey=svc;
+  // Build dynamic steps
+  var branch=branches[svc]||branches['Other / Not Sure'];
+  var s2=branch[0],s3=branch[1];
+  document.getElementById('q2').textContent=s2.q;
+  document.getElementById('h2').textContent=s2.h;
+  document.getElementById('opts2').innerHTML=makeOpts(s2.items,s2.key,s2.type);
+  document.getElementById('q3').textContent=s3.q;
+  document.getElementById('h3').textContent=s3.h;
+  document.getElementById('opts3').innerHTML=makeOpts(s3.items,s3.key,s3.type);
+  setTimeout(function(){goNext()},300);
+}
+
+function pick(el,key){
+  el.closest('.step').querySelectorAll('.opt').forEach(function(o){o.classList.remove('selected')});
+  el.classList.add('selected');
+  data[key]=el.querySelector('.opt-text').textContent;
+  setTimeout(function(){goNext()},300);
+}
+
+function pickDynamic(el,key){
+  el.closest('div').querySelectorAll('.opt').forEach(function(o){o.classList.remove('selected')});
+  el.classList.add('selected');
+  data[key]=el.querySelector('.opt-text').textContent;
+  setTimeout(function(){goNext()},300);
+}
+
+function goNext(){
+  if(cur>=total)return;
+  document.querySelectorAll('.step')[cur-1].classList.remove('active');
+  cur++;
+  document.querySelectorAll('.step')[cur-1].classList.add('active');
+  updateProg();
+  if(cur===total)buildRecap();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function goBack(){
+  if(cur<=1)return;
+  document.querySelectorAll('.step')[cur-1].classList.remove('active');
+  cur--;
+  document.querySelectorAll('.step')[cur-1].classList.add('active');
+  updateProg();
+}
+
+function updateProg(){
+  document.getElementById('progFill').style.width=Math.round((cur/total)*100)+'%';
+  document.getElementById('progStep').textContent='Step '+cur+' of '+total;
+}
+
+function buildRecap(){
+  var r=document.getElementById('recap'),h='';
+  var labels={'service':'Service','cam_type':'Project Type','cam_count':'Cameras','repair_issue':'Issue','intercom_type':'Intercom Type','intercom_issue':'Intercom Issue','unit_count':'Building Size','buzzer_type':'Project','alarm_type':'Project','alarm_scope':'Property','fire_type':'Service','fire_scope':'Building','cable_type':'Cabling','cable_count':'Drops','tv_count':'TVs','tv_details':'Scope','auto_type':'Systems','auto_scope':'Space','theatre_type':'Theatre Project','theatre_room':'Room Size','av_type':'Project','av_zones':'Zones','access_type':'System','access_count':'Entry Points','other_type':'Category','timeline':'Timeline','property':'Property','area':'Area'};
+  for(var k in data){
+    if(data[k]&&labels[k])h+='<div class="recap-row"><span class="recap-label">'+labels[k]+'</span><span class="recap-val">'+data[k]+'</span></div>';
+  }
+  var n=document.getElementById('fNotes').value.trim();
+  if(n)h+='<div class="recap-row"><span class="recap-label">Details</span><span class="recap-val">'+n.substring(0,60)+(n.length>60?'...':'')+'</span></div>';
+  if(h){r.innerHTML=h;r.classList.add('show')}
+}
+
+function submitForm(){
+  var name=document.getElementById('fName').value.trim(),phone=document.getElementById('fPhone').value.trim();
+  if(!name||!phone){alert('Please enter your name and phone number.');return}
+  if(!document.getElementById('smsConsent').checked){alert('Please check the SMS consent box to continue.');return}
+  var btn=document.getElementById('submitBtn');
+  btn.disabled=true;btn.textContent='Sending...';
+  var payload={
+    access_key:'88890030-1770-483e-a622-0e054d8e14b1',
+    subject:'New Lead — '+(data.service||'General')+' — '+(data.area||'NYC'),
+    from_name:'Abstract Enterprises Website',
+    name:name,phone:phone,
+    email:document.getElementById('fEmail').value.trim()||'Not provided',
+    address:document.getElementById('fAddr').value.trim()||'Not provided',
+    project_details:document.getElementById('fNotes').value.trim()||'None'
+  };
+  // Add all data fields
+  for(var k in data){if(data[k])payload[k]=data[k]}
+  fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(payload)}).then(function(r){return r.json()}).then(function(d){if(d.success){document.getElementById('stepsWrap').style.display='none';document.getElementById('prog').style.display='none';document.getElementById('badges').style.display='none';document.getElementById('successPane').classList.add('show')}else{btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Something went wrong. Call (800) 486-0943.')}}).catch(function(){btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Connection error. Call (800) 486-0943.')});
+}
+</script>
+
+<!-- ═══ STICKY PRICING BAR ═══ -->
+<div class="sticky-pricing-bar" id="stickyPricingBar">
+<div class="spb-inner">
+<div class="spb-label"><span class="spb-label-dot"></span><span class="spb-label-text" id="spbLabelText">Packages</span></div>
+<div class="spb-ticker"><div class="spb-track" id="spbTrack"></div></div>
+<div class="spb-cta" id="spbCta"></div>
+<button class="spb-dismiss" id="spbDismiss" aria-label="Close pricing bar"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+</div>
+</div>
+<script>
+(function(){
+var PH='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6A19.79 19.79 0 012.12 4.18 2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>';
+var QT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
+var CL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>';
+var TL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/></svg>';
+var AP={brooklyn:{a:850,f:898,e:1057,c:1292,d:1292,s:'brooklyn'},manhattan:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'manhattan'},queens:{a:950,f:998,e:1157,c:1392,d:1392,s:'queens'},bronx:{a:950,f:998,e:1157,c:1392,d:1392,s:'bronx'},'staten-island':{a:999,f:1047,e:1206,c:1441,d:1441,s:'staten-island'},nassau:{a:999,f:1047,e:1206,c:1441,d:1441,s:'nassau-county'},suffolk:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'suffolk-county'},westchester:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'westchester-county'},rockland:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'rockland-county'},orange:{a:1199,f:1247,e:1406,c:1641,d:1641,s:'orange-county'},putnam:{a:1199,f:1247,e:1406,c:1641,d:1641,s:'putnam-county'},dutchess:{a:1299,f:1347,e:1506,c:1741,d:1741,s:'dutchess-county'},ulster:{a:1299,f:1347,e:1506,c:1741,d:1741,s:'ulster-county'}};
+function fm(n){return n>=1000?Math.floor(n/1000)+','+String(n%1000).padStart(3,'0'):''+n}
+function detectArea(p){
+var areas=[['brooklyn','brooklyn'],['manhattan','manhattan'],['queens','queens'],['bronx','bronx'],['staten-island','staten'],['nassau','nassau'],['suffolk','suffolk'],['westchester','westchester'],['rockland','rockland'],['orange','orange'],['putnam','putnam'],['dutchess','dutchess'],['ulster','ulster']];
+for(var i=0;i<areas.length;i++){if(p.indexOf(areas[i][0])!==-1||p.indexOf(areas[i][1])!==-1)return areas[i][0]}
+return null;
+}
+function detectCablingArea(p){
+var areas=[['brooklyn','brooklyn'],['manhattan','manhattan'],['queens','queens'],['bronx','bronx'],['staten','staten-island'],['nassau','nassau'],['suffolk','suffolk'],['westchester','westchester'],['rockland','rockland'],['orange','orange'],['putnam','putnam'],['dutchess','dutchess'],['ulster','ulster'],['long-island','long-island'],['hudson','hudson-valley'],['nyc','nyc']];
+for(var i=0;i<areas.length;i++){if(p.indexOf(areas[i][0])!==-1)return areas[i][1]}
+return 'brooklyn';
+}
+
+function camSilo(areaKey){
+var pr=AP[areaKey]||AP.brooklyn;
+var link='/security-camera-pricing-'+pr.s;
+return{label:'Packages',chips:[
+{t:'A Series',m:'2MP HD',v:'from $'+fm(pr.a),c:''},
+{t:'F Series',m:'5MP 2K',v:'from $'+fm(pr.f),c:''},
+{t:'E Series',m:'4-5MP IP',v:'from $'+fm(pr.e),c:''},
+{t:'C Series',m:'8MP 4K DVR',v:'from $'+fm(pr.c),c:''},
+{t:'D Series',m:'8MP 4K IP',v:'from $'+fm(pr.d),c:'spb-chip--gold'},
+{t:'Combo',m:'Cameras + Intercom',v:'Save $200\u2013$400',c:'spb-chip--green'}
+],pl:'View Packages',pi:QT,ph:link,sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'};
+}
+var S={
+homepage:{label:'Our Services',chips:[
+{t:'\ud83d\udcf9 Cameras',m:'4K Systems Installed',v:'from $850',c:'spb-chip--gold'},
+{t:'\ud83d\udd14 Buzzer Repair',m:'Same-Day Available',v:'$250 Service Call',c:''},
+{t:'\ud83d\udeaa Intercoms',m:'Video \u00b7 Audio \u00b7 Key Fob',v:'Free Estimate',c:''},
+{t:'\u26a1 Cabling',m:'Cat6 \u00b7 Cat6A \u00b7 Fiber',v:'from $175/drop',c:''},
+{t:'\ud83d\udcfa TV Mounting',m:'Homes \u00b7 Offices \u00b7 Lobbies',v:'Free Quote',c:''},
+{t:'\ud83d\udea8 Alarms',m:'Burglar \u00b7 Intrusion',v:'Free Quote',c:''},
+{t:'\ud83d\udd25 Fire Alarms',m:'Install \u00b7 Inspect \u00b7 Repair',v:'Free Quote',c:''},
+{t:'\ud83c\udfe0 Smart Home',m:'Locks \u00b7 Lights \u00b7 Shades',v:'Free Quote',c:''},
+{t:'\ud83d\udcb0 No Monthly Fees',m:'Own Your System Forever',v:'$0/mo',c:'spb-chip--green'},
+{t:'\u2b50 4.6 Stars',m:'190+ Google Reviews',v:"NYC\'s #1",c:'spb-chip--gold'},
+{t:'\ud83d\udccb Licensed',m:'NYS Lic. #12000287431',v:'Insured',c:''},
+{t:'\ud83d\uddfd 9 Service Areas',m:'All 5 Boroughs \u00b7 LI \u00b7 HV',v:'25+ Years',c:''}
+],pl:'Get Free Quote',pi:QT,ph:'/free-quote',sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'},
+'buzzer-repair':{label:'Buzzer Repair',chips:[
+{t:'Service Call',m:'Diagnostic + Repair',v:'$250',c:'spb-chip--gold'},
+{t:'Covered',m:'Broken / Loose Wire',v:'Simple Fix',c:'spb-chip--green'},
+{t:'Covered',m:'Corroded Terminal',v:'Clean & Reterminate',c:'spb-chip--green'},
+{t:'Covered',m:'Blown Fuse / Breaker',v:'Quick Swap',c:'spb-chip--green'},
+{t:'Covered',m:'Faulty Button',v:'Replace On-Site',c:'spb-chip--green'},
+{t:'Covered',m:'Loose Handset',v:'Reconnect',c:'spb-chip--green'},
+{t:'Bigger Job?',m:'$250 Goes Toward It',v:'No Wasted $',c:'spb-chip--blue'},
+{t:'All Boroughs',m:'NYC \u00b7 LI \u00b7 Hudson Valley',v:'Same-Day Avail.',c:''}
+],pl:'View Pricing',pi:TL,ph:'/door-buzzer-repair-pricing',sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'},
+intercom:{label:'Intercoms',chips:[
+{t:'Repair',m:'Diagnostic + Fix',v:'$250 Service Call',c:'spb-chip--gold'},
+{t:'Covered',m:'Broken Wire / Terminal',v:'Simple Fix',c:'spb-chip--green'},
+{t:'Covered',m:'Faulty Handset / Button',v:'Replace On-Site',c:'spb-chip--green'},
+{t:'Bigger Job?',m:'$250 Goes Toward It',v:'No Wasted $',c:'spb-chip--blue'},
+{t:'New Install',m:'Video \u00b7 Audio \u00b7 Key Fob',v:'Free Estimate',c:'spb-chip--gold'},
+{t:'Upgrade',m:'Old System \u2192 Smart',v:'Free Assessment',c:''},
+{t:'All Buildings',m:'Co-ops \u00b7 Condos \u00b7 Commercial',v:'Licensed',c:''}
+],pl:'View Pricing',pi:CL,ph:'/intercom-pricing',sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'},
+cabling:{label:'Cabling',chips:[
+{t:'Cat6',m:'Per Drop',v:'from $175',c:''},
+{t:'Cat6A',m:'Per Drop',v:'from $250',c:''},
+{t:'Fiber Optic',m:'Single/Multi Mode',v:'Custom Quote',c:'spb-chip--blue'},
+{t:'Pre-Wire',m:'New Construction',v:'Best Value',c:'spb-chip--green'},
+{t:'Retrofit',m:'Existing Buildings',v:'Free Assessment',c:''},
+{t:'Includes',m:'Termination \u00b7 Patch Panel \u00b7 Test',v:'Certified',c:''},
+{t:'Min. Job',m:'Small Projects',v:'$500',c:'spb-chip--gold'},
+{t:'All Areas',m:'NYC \u00b7 LI \u00b7 Hudson Valley',v:'Licensed',c:''}
+],pl:'View Pricing',pi:QT,ph:'/structured-cabling-pricing-brooklyn',sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'},
+alarm:{label:'Alarm Systems',chips:[
+{t:'\ud83d\udea8 Residential',m:'Home Alarm Install',v:'from $600',c:''},
+{t:'\u2b50 Complete Home',m:'10-15 Sensors + Smart',v:'from $2,500',c:'spb-chip--gold'},
+{t:'\ud83c\udfe2 Commercial',m:'Business Alarm Install',v:'from $1,500',c:''},
+{t:'\ud83d\udd25 Fire Alarm',m:'Smoke \u00b7 Heat \u00b7 CO',v:'Custom Quote',c:'spb-chip--red'},
+{t:'\ud83d\udcf6 Wireless',m:'No Wiring Required',v:'from $600',c:''},
+{t:'\ud83d\udcf1 Smart Alarm',m:'App Control \u00b7 Alerts',v:'Included',c:'spb-chip--green'},
+{t:'\ud83d\udcf9 CCTV + Alarm',m:'Integrated System',v:'Save $200-$400',c:'spb-chip--blue'},
+{t:'\ud83d\udd04 Upgrade',m:'Replace Old Panel',v:'from $800',c:''},
+{t:'\ud83d\udcb0 Monitoring',m:'24/7 Central Station',v:'from $19.99/mo',c:''},
+{t:'\ud83d\udccb Licensed',m:'NYS #12000287431',v:'Insured',c:''},
+{t:'\u231a Same Day',m:'Emergency Available',v:'All Areas',c:'spb-chip--green'}
+],pl:'Get Free Quote',pi:QT,ph:'/free-quote',sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'}
+};
+function cablingSilo(areaKey){
+var links={brooklyn:'structured-cabling-pricing-brooklyn',manhattan:'structured-cabling-pricing-manhattan',queens:'structured-cabling-pricing-queens',bronx:'structured-cabling-pricing-bronx','staten-island':'structured-cabling-pricing-staten-island',nassau:'structured-cabling-pricing-nassau-county',suffolk:'structured-cabling-pricing-suffolk-county',westchester:'structured-cabling-pricing-westchester-county',rockland:'structured-cabling-pricing-rockland-county',orange:'structured-cabling-pricing-orange-county',putnam:'structured-cabling-pricing-putnam-county',dutchess:'structured-cabling-pricing-dutchess-county',ulster:'structured-cabling-pricing-ulster-county','long-island':'structured-cabling-pricing-nassau-county','hudson-valley':'structured-cabling-pricing-rockland-county',nyc:'structured-cabling-pricing-brooklyn'};
+var slug=links[areaKey]||links.brooklyn;
+var areaNames={brooklyn:'Brooklyn',manhattan:'Manhattan',queens:'Queens',bronx:'Bronx','staten-island':'Staten Island',nassau:'Nassau County',suffolk:'Suffolk County',westchester:'Westchester',rockland:'Rockland County',orange:'Orange County',putnam:'Putnam County',dutchess:'Dutchess County',ulster:'Ulster County','long-island':'Long Island','hudson-valley':'Hudson Valley',nyc:'NYC'};
+var name=areaNames[areaKey]||'Brooklyn';
+return{label:'Cabling \u00b7 '+name,chips:[
+{t:'Cat6',m:'Per Drop',v:'from $175',c:''},
+{t:'Cat6A',m:'Per Drop',v:'from $250',c:''},
+{t:'Fiber Optic',m:'Single/Multi Mode',v:'Custom Quote',c:'spb-chip--blue'},
+{t:'Pre-Wire',m:'New Construction',v:'Best Value',c:'spb-chip--green'},
+{t:'Retrofit',m:'Existing Buildings',v:'Free Assessment',c:''},
+{t:'Includes',m:'Termination \u00b7 Patch Panel \u00b7 Test',v:'Certified',c:''},
+{t:'Min. Job',m:'Small Projects',v:'$500',c:'spb-chip--gold'},
+{t:'All Areas',m:'NYC \u00b7 LI \u00b7 Hudson Valley',v:'Licensed',c:''}
+],pl:'View '+name+' Pricing',pi:QT,ph:'/'+slug,sl:'(800) 486-0943',si:PH,sh:'tel:8004860943'};
+}
+function detect(){
+var p=window.location.pathname.toLowerCase();
+if(p.indexOf('buzzer-repair')!==-1||p.indexOf('door-buzzer-repair')!==-1)return{type:'buzzer-repair'};
+if(p.indexOf('alarm')!==-1&&p.indexOf('fire-alarm')===-1)return{type:'alarm'};
+if(p.indexOf('fire-alarm')!==-1)return{type:'alarm'};
+if(p.indexOf('intercom')!==-1)return{type:'intercom'};
+if(p.indexOf('cabling')!==-1||p.indexOf('structured-cabling')!==-1){var ca=detectCablingArea(p);return{type:'cabling',area:ca};}
+if(p.indexOf('camera')!==-1||p.indexOf('cctv')!==-1||p.indexOf('surveillance')!==-1){
+var area=detectArea(p);
+return{type:'camera',area:area||'brooklyn'};
+}
+return{type:'homepage'};
+}
+function render(info){
+var s;
+if(info.type==='camera'){s=camSilo(info.area)}
+else if(info.type==='cabling'){s=cablingSilo(info.area)}else{s=S[info.type]||S.homepage}
+var tr=document.getElementById('spbTrack'),ct=document.getElementById('spbCta'),lb=document.getElementById('spbLabelText');
+if(!tr||!ct||!lb)return;
+lb.textContent=s.label;
+var h='';
+for(var r=0;r<2;r++){for(var i=0;i<s.chips.length;i++){var c=s.chips[i];h+='<a href="'+s.ph+'" class="spb-chip '+(c.c||'')+'"><span class="spb-chip-tag">'+c.t+'</span><span class="spb-chip-mid">'+c.m+'</span><span class="spb-chip-val">'+c.v+'</span></a><span class="spb-chip-div"></span>';}}
+tr.innerHTML=h;
+tr.style.animationDuration=Math.max(25,s.chips.length*4.5)+'s';
+ct.innerHTML='<a href="'+s.ph+'" class="spb-btn-primary">'+s.pi+' '+s.pl+'</a><a href="'+s.sh+'" class="spb-btn-secondary">'+s.si+' '+s.sl+'</a>';
+}
+var bar=document.getElementById('stickyPricingBar'),db=document.getElementById('spbDismiss');
+if(!bar)return;
+var dis=sessionStorage.getItem('spb_dismissed')==='1',tick=false;
+function chk(){if(dis){bar.classList.add('dismissed');bar.classList.remove('visible');return;}var y=window.pageYOffset||document.documentElement.scrollTop;if(y>400){bar.classList.add('visible')}else{bar.classList.remove('visible')}}
+if(db){db.addEventListener('click',function(e){e.preventDefault();dis=true;sessionStorage.setItem('spb_dismissed','1');bar.classList.add('dismissed')})}
+window.addEventListener('scroll',function(){if(!tick){window.requestAnimationFrame(function(){chk();tick=false});tick=true}},{passive:true});
+render(detect());chk();
+})();
+</script>
+</body>
+</html>

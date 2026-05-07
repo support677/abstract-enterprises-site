@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Make a Payment | Abstract Enterprises Security Systems</title>
+  <meta name="description" content="Pay your invoice securely online. Abstract Enterprises Security Systems — licensed NYC security contractor.">
+  <link rel="canonical" href="https://www.abstractenterprisessecuritysystems.com/pay">
+  <link rel="icon" href="https://abstractenterprisessecuritysystems.com/favicon.ico">
+  <style>
+    *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0a0a0a; color: #e0e0e0; line-height: 1.6; }
+    a { color: #00bfff; text-decoration: none; transition: color 0.2s; }
+    a:hover { color: #fff; }
+
+    .site-header { background: #111; border-bottom: 1px solid #222; padding: 12px 20px; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+    .site-header .logo img { height: 45px; }
+    .site-header nav:not(.mn-wrap){ display: flex; gap: 18px; flex-wrap: wrap; align-items: center; }
+    .site-header nav:not(.mn-wrap) a{ color: #ccc; font-size: 0.9rem; font-weight: 500; }
+    .site-header nav:not(.mn-wrap) a:hover { color: #00bfff; }
+    .header-phone { background: #00bfff; color: #000 !important; font-weight: 700; padding: 8px 16px; border-radius: 6px; font-size: 0.9rem; }
+
+    .pay-hero { background: linear-gradient(135deg, #0d1b2a 0%, #1b2838 50%, #0d1b2a 100%); padding: 60px 20px 50px; text-align: center; border-bottom: 2px solid #00bfff; }
+    .pay-hero h1 { font-size: 2.2rem; font-weight: 700; color: #fff; margin-bottom: 12px; }
+    .pay-hero h1 span { color: #00bfff; }
+    .pay-hero p { font-size: 1.05rem; color: #aab; max-width: 550px; margin: 0 auto; }
+    .trust-badges { display: flex; justify-content: center; gap: 30px; margin-top: 25px; flex-wrap: wrap; }
+    .trust-badge { display: flex; align-items: center; gap: 8px; color: #8899aa; font-size: 0.85rem; }
+    .trust-badge svg { width: 20px; height: 20px; fill: #00bfff; flex-shrink: 0; }
+
+    .pay-container { max-width: 900px; margin: 0 auto; padding: 50px 20px 60px; }
+    .pay-section { background: #151515; border: 1px solid #2a2a2a; border-radius: 12px; padding: 40px 30px; margin-bottom: 40px; }
+    .pay-btn { display: inline-block; background: #00bfff; color: #000; font-weight: 700; font-size: 0.95rem; padding: 12px 28px; border-radius: 8px; border: none; cursor: pointer; transition: background 0.2s, transform 0.1s; text-align: center; }
+    .pay-btn:hover { background: #00a0d6; color: #000; transform: scale(1.02); }
+
+    .invoice-box { background: #0d0d0d; border: 1px solid #2a2a2a; border-radius: 10px; padding: 28px; margin-bottom: 28px; }
+    .invoice-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px; padding-bottom: 18px; border-bottom: 1px solid #2a2a2a; flex-wrap: wrap; gap: 16px; }
+    .invoice-header .company { color: #00bfff; font-weight: 700; font-size: 1rem; }
+    .invoice-header .invoice-id { color: #667; font-size: 0.85rem; }
+    .invoice-line { display: flex; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid #1a1a1a; font-size: 0.95rem; }
+    .invoice-line .label { color: #aab; }
+    .invoice-line .value { color: #ddd; font-weight: 500; }
+    .invoice-line.total { border-top: 2px solid #333; border-bottom: none; padding-top: 14px; margin-top: 6px; }
+    .invoice-line.total .label { color: #fff; font-size: 1.1rem; font-weight: 700; }
+    .invoice-line.total .value { color: #00bfff; font-size: 1.3rem; font-weight: 700; }
+
+    .no-invoice { text-align: center; padding: 60px 20px; }
+    .no-invoice .icon { font-size: 3rem; margin-bottom: 16px; }
+    .no-invoice h2 { font-size: 1.6rem; color: #fff; margin-bottom: 12px; }
+    .no-invoice p { color: #899; font-size: 1rem; max-width: 440px; margin: 0 auto 24px; }
+
+    .info-bar { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-bottom: 40px; }
+    .info-item { text-align: center; padding: 20px; }
+    .info-item .num { font-size: 1.8rem; font-weight: 700; color: #00bfff; }
+    .info-item .label { font-size: 0.85rem; color: #778; margin-top: 4px; }
+
+    .faq-section { margin-bottom: 50px; }
+    .faq-section h2 { font-size: 1.5rem; color: #fff; text-align: center; margin-bottom: 24px; }
+    .faq-item { background: #151515; border: 1px solid #2a2a2a; border-radius: 10px; margin-bottom: 12px; overflow: hidden; }
+    .faq-q { padding: 18px 24px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-weight: 600; color: #ddd; transition: background 0.2s; }
+    .faq-q:hover { background: #1a1a1a; }
+    .faq-q .arrow { color: #00bfff; font-size: 1.2rem; transition: transform 0.3s; }
+    .faq-q.active .arrow { transform: rotate(180deg); }
+    .faq-a { max-height: 0; overflow: hidden; transition: max-height 0.3s ease, padding 0.3s ease; padding: 0 24px; color: #899; line-height: 1.7; }
+    .faq-a.open { max-height: 300px; padding: 0 24px 18px; }
+
+    .stripe-badge { text-align: center; color: #556; font-size: 0.8rem; }
+    .stripe-badge svg { vertical-align: middle; margin-right: 6px; }
+
+    .contact-strip { background: #111; border-top: 1px solid #222; padding: 40px 20px; text-align: center; }
+    .contact-strip p { color: #899; font-size: 0.95rem; margin-bottom: 16px; }
+    .contact-strip .phone-link { font-size: 1.4rem; font-weight: 700; color: #00bfff; }
+    .contact-strip .wa-link { display: inline-block; margin-top: 10px; color: #25d366; font-weight: 600; }
+    .site-footer { background: #0a0a0a; border-top: 1px solid #1a1a1a; padding: 30px 20px; text-align: center; color: #556; font-size: 0.8rem; }
+
+    @media (max-width: 600px) {
+      .pay-hero h1 { font-size: 1.6rem; }
+      .site-header nav:not(.mn-wrap){ display: none; }
+      .invoice-header { flex-direction: column; }
+      .pay-section { padding: 24px 16px; }
+      .invoice-box { padding: 18px; }
+    }
+  </style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/mega-nav.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <a href="https://abstractenterprisessecuritysystems.com/" class="logo">
+      <img src="https://abstractenterprisessecuritysystems.com/images/logo.png" alt="Abstract Enterprises Security Systems">
+    </a>
+    <!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</nav>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
+</div>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
+  </header>
+
+  <section class="pay-hero">
+    <h1>Secure Online <span>Payment</span></h1>
+    <p>Review your invoice below and pay securely. All payments processed through Stripe with 256-bit encryption.</p>
+    <div class="trust-badges">
+      <div class="trust-badge"><svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>256-bit SSL Encrypted</div>
+      <div class="trust-badge"><svg viewBox="0 0 24 24"><path d="M20 4H4c-1.11 0-2 .89-2 2v12c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V6c0-1.11-.89-2-2-2zm0 14H4V6h16v12zm-2-1H6v-2h12v2z"/></svg>All Major Cards Accepted</div>
+      <div class="trust-badge"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg>NYS License #12000287431</div>
+    </div>
+  </section>
+
+  <main class="pay-container">
+
+    <section class="pay-section" id="invoiceSection">
+
+      <!-- INVOICE VIEW (shown when URL has params) -->
+      <div id="invoiceView" style="display:none;">
+        <div class="invoice-box">
+          <div class="invoice-header">
+            <div>
+              <div class="company">Abstract Enterprises Security Systems</div>
+              <div style="color:#899; font-size:0.85rem; margin-top:4px;">NYS License #12000287431</div>
+              <div style="color:#899; font-size:0.85rem;">1282 Troy Ave, Brooklyn, NY 11203</div>
+            </div>
+            <div style="text-align:right;">
+              <div class="invoice-id" id="invoiceId"></div>
+              <div style="color:#899; font-size:0.85rem; margin-top:4px;" id="invoiceDate"></div>
+            </div>
+          </div>
+
+          <div style="margin-bottom:18px;">
+            <div style="color:#667; font-size:0.75rem; text-transform:uppercase; letter-spacing:0.5px; margin-bottom:6px;">Description</div>
+            <div style="color:#ddd; font-size:1rem; line-height:1.6;" id="descText"></div>
+          </div>
+
+          <div class="invoice-line">
+            <span class="label">Service Area</span>
+            <span class="value" id="areaText"></span>
+          </div>
+          <div class="invoice-line">
+            <span class="label">Subtotal</span>
+            <span class="value" id="dispSubtotal"></span>
+          </div>
+          <div class="invoice-line">
+            <span class="label">Sales Tax (<span id="dispRate"></span>)</span>
+            <span class="value" id="dispTax"></span>
+          </div>
+          <div class="invoice-line total">
+            <span class="label">Total Due</span>
+            <span class="value" id="dispTotal"></span>
+          </div>
+        </div>
+
+        <div style="text-align:center;">
+          <a href="#" class="pay-btn" id="payBtn" onclick="openStripeAndShowBooking();return false;" style="font-size:1.15rem; padding:16px 0; display:block; width:100%; max-width:400px; margin:0 auto;">Pay Now →</a>
+          <input type="hidden" id="stripeUrl" value="https://buy.stripe.com/00weVd0z43ZK6T9h20dQQ00">
+          
+          <!-- STEP 2: Book appointment (hidden until after pay click) -->
+          <div id="bookingStep" style="display:none; margin-top:24px; padding:24px; background:#0d2a0d; border:2px solid #22c55e; border-radius:12px;">
+            <div style="font-size:2rem; margin-bottom:8px;">✅</div>
+            <h3 style="color:#22c55e; font-size:1.2rem; margin-bottom:8px;">Payment Submitted — Now Book Your Appointment</h3>
+            <p style="color:#8899aa; font-size:0.9rem; margin-bottom:16px;">After completing payment in the Stripe window, click below to schedule your installation date and time.</p>
+            <a href="https://book.housecallpro.com/book/Abstract-Enterprises-Security-Systems/9441f75d1ca0484296ee8481c1646217?v2=true" class="pay-btn" target="_blank" style="font-size:1.1rem; padding:14px 0; display:block; width:100%; max-width:400px; margin:0 auto; background:#22c55e;">Book Your Appointment →</a>
+            <p style="color:#556; font-size:0.75rem; margin-top:12px;">Schedule your preferred date and time through our secure booking system.</p>
+          </div>
+        </div>
+        <div class="stripe-badge" style="margin-top:20px;">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="#635bff"><path d="M13.976 9.15c-2.172-.806-3.356-1.426-3.356-2.409 0-.831.683-1.305 1.901-1.305 2.227 0 4.515.858 6.09 1.631l.89-5.494C18.252.975 15.697 0 12.165 0 9.667 0 7.589.654 6.104 1.872 4.56 3.147 3.757 4.992 3.757 7.218c0 4.039 2.467 5.76 6.476 7.219 2.585.92 3.445 1.574 3.445 2.583 0 .98-.84 1.545-2.354 1.545-1.875 0-4.965-.921-7.076-2.18l-.89 5.534C5.326 22.88 8.548 24 12.108 24c2.558 0 4.676-.67 6.13-1.863 1.6-1.346 2.468-3.27 2.468-5.573-.036-4.157-2.558-5.768-6.73-7.414z"/></svg>
+          Powered by Stripe — PCI-DSS Level 1 Compliant
+        </div>
+      </div>
+
+      <!-- NO INVOICE (direct visit without params) -->
+      <div id="noInvoice">
+        <div class="no-invoice">
+          <div class="icon">🔒</div>
+          <h2>Pay Your Bill</h2>
+          <p>Use the payment link sent to you by Abstract Enterprises to view your invoice and pay securely online.</p>
+          <p style="color:#667; font-size:0.85rem;">Haven't received a payment link? Call us and we'll send one right over.</p>
+          <a href="tel:3479348335" class="pay-btn" style="margin-top:10px;">Call (347) 934-8335</a>
+        </div>
+      </div>
+
+    </section>
+
+    <div class="info-bar">
+      <div class="info-item"><div class="num">25+</div><div class="label">Years Experience</div></div>
+      <div class="info-item"><div class="num">4.6★</div><div class="label">Google Rating</div></div>
+      <div class="info-item"><div class="num">$0</div><div class="label">Monthly Fees</div></div>
+      <div class="info-item"><div class="num">100%</div><div class="label">Licensed & Insured</div></div>
+    </div>
+
+    <section class="faq-section">
+      <h2>Payment FAQs</h2>
+      <div class="faq-item"><div class="faq-q" onclick="toggleFaq(this)">What payment methods do you accept?<span class="arrow">▼</span></div><div class="faq-a">All major credit and debit cards (Visa, Mastercard, Amex, Discover), Apple Pay, Google Pay, and ACH bank transfers. All payments are processed securely through Stripe.</div></div>
+      <div class="faq-item"><div class="faq-q" onclick="toggleFaq(this)">Is the 50% deposit refundable?<span class="arrow">▼</span></div><div class="faq-a">The deposit secures your installation date and reserves materials for your project. Please refer to your contract for specific terms, or contact us at (347) 934-8335.</div></div>
+      <div class="faq-item"><div class="faq-q" onclick="toggleFaq(this)">When is the remaining balance due?<span class="arrow">▼</span></div><div class="faq-a">The remaining balance is due immediately upon project completion, per your contract. You can pay here online, or on-site with card or cash.</div></div>
+      <div class="faq-item"><div class="faq-q" onclick="toggleFaq(this)">Will I receive a receipt?<span class="arrow">▼</span></div><div class="faq-a">Yes — Stripe automatically emails a receipt to the email you provide at checkout. You'll also get confirmation from us directly.</div></div>
+      <div class="faq-item"><div class="faq-q" onclick="toggleFaq(this)">Is my payment information secure?<span class="arrow">▼</span></div><div class="faq-a">Absolutely. Stripe is PCI-DSS Level 1 certified — the highest level of security in the payments industry. We never see or store your card number.</div></div>
+    </section>
+
+  </main>
+
+  <section class="contact-strip">
+    <p>Questions about your payment? We're here to help.</p>
+    <a href="tel:3479348335" class="phone-link">(347) 934-8335</a><br>
+    <a href="https://wa.me/17186790359" class="wa-link" target="_blank">💬 WhatsApp: (718) 679-0359</a>
+  </section>
+
+  <footer class="site-footer">
+    <p>&copy; 2026 Abstract Enterprises Security Systems · NYS License #12000287431 · <a href="https://abstractenterprisessecuritysystems.com/">Home</a> · <a href="https://abstractenterprisessecuritysystems.com/free-quote">Free Quote</a></p>
+  </footer>
+
+  <script>
+    // ===== TAX RATES =====
+    const TAX_RATES = {
+      'brooklyn':     { rate: 8.875, label: 'Brooklyn, NY' },
+      'manhattan':    { rate: 8.875, label: 'Manhattan, NY' },
+      'queens':       { rate: 8.875, label: 'Queens, NY' },
+      'bronx':        { rate: 8.875, label: 'Bronx, NY' },
+      'statenisland': { rate: 8.875, label: 'Staten Island, NY' },
+      'nassau':       { rate: 8.625, label: 'Nassau County, NY' },
+      'suffolk':      { rate: 8.75,  label: 'Suffolk County, NY' },
+      'westchester':  { rate: 8.375, label: 'Westchester County, NY' },
+      'rockland':     { rate: 8.375, label: 'Rockland County, NY' },
+      'orange':       { rate: 8.125, label: 'Orange County, NY' },
+      'putnam':       { rate: 8.375, label: 'Putnam County, NY' },
+      'dutchess':     { rate: 8.125, label: 'Dutchess County, NY' },
+      'ulster':       { rate: 8.0,   label: 'Ulster County, NY' }
+    };
+
+    // ===== LOAD INVOICE FROM URL =====
+    // YOU send the customer a link like:
+    // https://abstractenterprisessecuritysystems.com/pay?desc=4x+A1+Dome+Cameras+%2B+8ch+NVR+%2B+Installation&amount=2800&area=brooklyn
+    //
+    // The page auto-calculates tax and shows the total. Customer just clicks Pay.
+    function loadInvoice() {
+      const params = new URLSearchParams(window.location.search);
+      const desc = params.get('desc');
+      const amount = parseFloat(params.get('amount'));
+      const areaKey = (params.get('area') || '').toLowerCase().replace(/[\s_-]/g, '');
+
+      if (!desc || !amount || !TAX_RATES[areaKey]) {
+        document.getElementById('noInvoice').style.display = 'block';
+        document.getElementById('invoiceView').style.display = 'none';
+        return;
+      }
+
+      const area = TAX_RATES[areaKey];
+      const tax = Math.round(amount * (area.rate / 100) * 100) / 100;
+      const total = Math.round((amount + tax) * 100) / 100;
+      const today = new Date();
+      const dateStr = today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+      const invNum = 'AE-' + today.getFullYear() + String(today.getMonth() + 1).padStart(2, '0') + String(today.getDate()).padStart(2, '0');
+
+      document.getElementById('invoiceId').textContent = invNum;
+      document.getElementById('invoiceDate').textContent = dateStr;
+      document.getElementById('descText').textContent = decodeURIComponent(desc.replace(/\+/g, ' '));
+      document.getElementById('areaText').textContent = area.label;
+      document.getElementById('dispSubtotal').textContent = '$' + amount.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      document.getElementById('dispRate').textContent = area.rate + '%';
+      document.getElementById('dispTax').textContent = '$' + tax.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      document.getElementById('dispTotal').textContent = '$' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      document.getElementById('payBtn').textContent = 'Pay $' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' Now →';
+      
+      // Prefill the amount on Stripe checkout (amount in cents)
+      const totalCents = Math.round(total * 100);
+      document.getElementById('stripeUrl').value = 'https://buy.stripe.com/00weVd0z43ZK6T9h20dQQ00?prefilled_amount=' + totalCents;
+
+      document.getElementById('invoiceView').style.display = 'block';
+      document.getElementById('noInvoice').style.display = 'none';
+    }
+
+    loadInvoice();
+
+    // ===== OPEN STRIPE + SHOW BOOKING =====
+    function openStripeAndShowBooking() {
+      // Open Stripe in new tab
+      window.open(document.getElementById('stripeUrl').value, '_blank');
+      // Show the booking step
+      document.getElementById('bookingStep').style.display = 'block';
+      // Update pay button to show it's been clicked
+      var btn = document.getElementById('payBtn');
+      btn.textContent = 'Payment Window Opened ✓';
+      btn.style.background = '#334';
+      btn.style.cursor = 'default';
+      btn.onclick = function(){ return false; };
+      // Scroll to booking step
+      setTimeout(function(){
+        document.getElementById('bookingStep').scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 500);
+    }
+
+    // ===== FAQ =====
+    function toggleFaq(el) {
+      const answer = el.nextElementSibling;
+      const isOpen = answer.classList.contains('open');
+      document.querySelectorAll('.faq-a').forEach(a => a.classList.remove('open'));
+      document.querySelectorAll('.faq-q').forEach(q => q.classList.remove('active'));
+      if (!isOpen) { answer.classList.add('open'); el.classList.add('active'); }
+    }
+  </script>
+
+</body>
+</html>

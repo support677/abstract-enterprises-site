@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow URL parameters that have caused indexing issues
+# (legacy from Wix migration — these are all variants of the homepage)
+Disallow: /*?s=
+Disallow: /*?partner=
+Disallow: /*?utm_
+
+Sitemap: https://www.abstractenterprisessecuritysystems.com/sitemap.xml
