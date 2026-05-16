@@ -26,8 +26,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;l
 .sticky-bar{position:fixed;top:0;left:0;right:0;background:#0a2540;color:#fff;padding:10px 16px;z-index:1000;display:flex;justify-content:space-between;align-items:center;font-size:14px;box-shadow:0 2px 8px rgba(0,0,0,.2)}
 .sticky-bar a{color:#fff;text-decoration:none;font-weight:600}
 .sticky-bar .cta-btn{background:#f97316;padding:8px 16px;border-radius:4px}
+.logo-bar{margin-top:48px;background:#fff;padding:14px 20px;border-bottom:1px solid #e5e7eb;display:flex;justify-content:space-between;align-items:center;max-width:100%}
+.logo-bar .logo-link{display:flex;align-items:center;text-decoration:none;color:#0a2540}
+.logo-bar .logo-link img{height:48px;width:auto;display:block}
+.logo-bar .logo-link .logo-text{margin-left:12px;font-weight:800;font-size:1.05em;letter-spacing:.3px}
+.logo-bar .logo-link .logo-sub{display:block;font-size:.72em;font-weight:500;color:#64748b;letter-spacing:1px;text-transform:uppercase}
+.logo-bar .header-cta{display:flex;align-items:center;gap:14px}
+.logo-bar .header-cta a{text-decoration:none;font-weight:700;font-size:.95em}
+.logo-bar .header-cta .call{color:#0a2540}
+.logo-bar .header-cta .quote{background:#f97316;color:#fff;padding:9px 18px;border-radius:5px}
 .container{max-width:1200px;margin:0 auto;padding:20px}
-header.hero{background:linear-gradient(135deg,#0a2540 0%,#1e3a5f 100%);color:#fff;padding:80px 20px 60px;margin-top:48px;text-align:center}
+header.hero{background:linear-gradient(135deg,#0a2540 0%,#1e3a5f 100%);color:#fff;padding:80px 20px 60px;text-align:center}
 .hero-inner{max-width:900px;margin:0 auto}
 .hero-inner h1{font-size:3em;margin-bottom:14px;line-height:1.15;letter-spacing:-1px;font-weight:800}
 .hero-inner .tagline{font-size:1.05em;opacity:.9;margin-bottom:22px;font-weight:500;letter-spacing:.3px}
@@ -164,6 +173,18 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
 <div class="sticky-bar">
   <span>📞 Licensed NYC Wireless Camera Installer — NYS #12000287431</span>
   <a href="tel:+13479348335" class="cta-btn">Call (347) 934-8335</a>
+</div>
+
+<!-- LOGO BAR -->
+<div class="logo-bar">
+  <a href="/" class="logo-link">
+    <img src="/images/logo.png" alt="Abstract Enterprises Security Systems — Licensed NYC Low-Voltage Contractor">
+    <span class="logo-text">ABSTRACT ENTERPRISES<span class="logo-sub">Security Systems · Licensed &amp; Insured</span></span>
+  </a>
+  <div class="header-cta">
+    <a href="tel:+13479348335" class="call">📞 (347) 934-8335</a>
+    <a href="#quote" class="quote">Free Quote</a>
+  </div>
 </div>
 
 <!-- HERO -->
@@ -944,6 +965,7 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
 
 <!-- BRAND FOOTER -->
 <div class="brand-footer">
+  <img src="/images/logo.png" alt="Abstract Enterprises Security Systems logo" style="height:60px;width:auto;margin-bottom:14px;filter:brightness(0) invert(1)">
   <div class="logo-text">ABSTRACT ENTERPRISES</div>
   <div class="tagline">Security Systems · Licensed &amp; Insured</div>
   <div>1282 Troy Ave, Brooklyn, NY 11203 · 460 E Fordham Rd, Bronx, NY 10458</div>
