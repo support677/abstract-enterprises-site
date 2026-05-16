@@ -165,6 +165,38 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
 .sticky-bar{font-size:12px;padding:8px}
 .sticky-bottom{font-size:.75em}
 }
+
+.mega-nav{background:#fff;border-bottom:1px solid #e5e7eb;padding:0;position:relative;z-index:998}
+.mega-nav-inner{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 20px}
+.mega-nav ul.menu{list-style:none;display:flex;align-items:center;margin:0;padding:0}
+.mega-nav ul.menu > li{position:relative}
+.mega-nav ul.menu > li > a, .mega-nav ul.menu > li > span.menu-item{display:block;padding:18px 18px;color:#0a2540;text-decoration:none;font-weight:600;font-size:.95em;cursor:pointer;transition:color .15s}
+.mega-nav ul.menu > li:hover > a, .mega-nav ul.menu > li:hover > span.menu-item{color:#f97316}
+.mega-nav ul.menu > li > span.menu-item:after{content:" ▾";font-size:.7em;opacity:.6;margin-left:2px}
+.mega-nav .dropdown{position:absolute;top:100%;left:0;background:#fff;border:1px solid #e5e7eb;border-radius:8px;box-shadow:0 12px 32px rgba(0,0,0,.12);padding:20px;min-width:280px;display:none;flex-direction:column;gap:4px;z-index:999}
+.mega-nav .dropdown.wide{min-width:680px;display:none;flex-direction:row;gap:24px}
+.mega-nav ul.menu > li:hover > .dropdown{display:flex}
+.mega-nav .dropdown a{color:#1a1a1a;text-decoration:none;padding:8px 10px;font-size:.93em;border-radius:5px;transition:background .15s}
+.mega-nav .dropdown a:hover{background:#fff8ed;color:#f97316}
+.mega-nav .dropdown a.new-badge:after{content:"NEW";background:#16a34a;color:#fff;font-size:.62em;padding:2px 6px;border-radius:3px;margin-left:6px;font-weight:800;letter-spacing:.5px}
+.mega-nav .dropdown .col{display:flex;flex-direction:column;gap:2px;min-width:200px}
+.mega-nav .dropdown .col h4{font-size:.7em;font-weight:800;color:#64748b;text-transform:uppercase;letter-spacing:1.2px;padding:4px 10px;margin-bottom:4px}
+.mega-nav .dropdown a.current{background:#fff8ed;color:#f97316;font-weight:700}
+.mega-nav .quote-btn{background:#f97316;color:#fff;padding:10px 22px;border-radius:5px;text-decoration:none;font-weight:700;font-size:.92em;margin-left:6px}
+.mega-nav .phone-btn{color:#0a2540;text-decoration:none;font-weight:700;font-size:.92em;padding:10px 14px}
+.mega-nav .mobile-toggle{display:none;background:none;border:none;font-size:1.5em;color:#0a2540;cursor:pointer;padding:8px}
+@media(max-width:1024px){
+.mega-nav ul.menu{display:none;position:absolute;top:100%;left:0;right:0;background:#fff;flex-direction:column;border-bottom:1px solid #e5e7eb;padding:8px 0;max-height:80vh;overflow-y:auto}
+.mega-nav ul.menu.open{display:flex}
+.mega-nav ul.menu > li{width:100%;border-bottom:1px solid #f1f5f9}
+.mega-nav ul.menu > li > a, .mega-nav ul.menu > li > span.menu-item{padding:14px 20px}
+.mega-nav .dropdown,.mega-nav .dropdown.wide{position:static;box-shadow:none;border:none;padding:0 20px 12px;border-radius:0;min-width:0;display:none;flex-direction:column}
+.mega-nav .dropdown.wide{flex-direction:column;gap:8px}
+.mega-nav ul.menu > li:hover > .dropdown,.mega-nav ul.menu > li:hover > .dropdown.wide{display:none}
+.mega-nav ul.menu > li.open > .dropdown,.mega-nav ul.menu > li.open > .dropdown.wide{display:flex}
+.mega-nav .mobile-toggle{display:block}
+.mega-nav .quote-btn,.mega-nav .phone-btn{margin:8px 20px}
+}
 </style>
 </head>
 <body>
@@ -186,6 +218,125 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
     <a href="#quote" class="quote">Free Quote</a>
   </div>
 </div>
+
+
+<!-- MEGA NAV -->
+<nav class="mega-nav">
+  <div class="mega-nav-inner">
+    <ul class="menu" id="megaMenu">
+      <li>
+        <span class="menu-item">Services</span>
+        <div class="dropdown">
+          <a href="/security-camera-installation-nyc">📹 Security Cameras</a>
+          <a href="/wireless-camera-installation-nyc.html" class="new-badge">📶 Wireless Cameras</a>
+          <a href="/intercom-installation-nyc">🚪 Intercoms</a>
+          <a href="/door-buzzer-repair-nyc">🔔 Door Buzzer Repair</a>
+          <a href="/alarm-installation-nyc">🚨 Alarm Installation</a>
+          <a href="/fire-alarm-installation-nyc">🔥 Fire Alarms</a>
+          <a href="/structured-cabling-installation-nyc.html">⚡ Structured Cabling</a>
+          <a href="/tv-installation-nyc">📺 TV Installation</a>
+          <a href="/access-control-installation-nyc.html">🔑 Access Control</a>
+          <a href="/home-automation-installation-nyc.html">🏠 Home Automation</a>
+          <a href="/video-wall-installation-nyc.html">📺 Video Wall Installation</a>
+          <a href="/install-your-own-camera-system">✅ Got Your Own System?</a>
+        </div>
+      </li>
+      <li>
+        <span class="menu-item">Wireless Areas</span>
+        <div class="dropdown wide">
+          <div class="col">
+            <h4>NYC Boroughs</h4>
+            <a href="/wireless-camera-installation-nyc.html" class="current">NYC (All Boroughs)</a>
+            <a href="/wireless-camera-installation-brooklyn.html">Brooklyn</a>
+            <a href="/wireless-camera-installation-manhattan.html">Manhattan</a>
+            <a href="/wireless-camera-installation-queens.html">Queens</a>
+            <a href="/wireless-camera-installation-bronx.html">Bronx</a>
+            <a href="/wireless-camera-installation-staten-island.html">Staten Island</a>
+          </div>
+          <div class="col">
+            <h4>Long Island</h4>
+            <a href="/wireless-camera-installation-long-island.html">Long Island (hub)</a>
+            <a href="/wireless-camera-installation-nassau.html">Nassau County</a>
+            <a href="/wireless-camera-installation-suffolk.html">Suffolk County</a>
+          </div>
+          <div class="col">
+            <h4>Hudson Valley</h4>
+            <a href="/wireless-camera-installation-hudson-valley.html">Hudson Valley (hub)</a>
+            <a href="/wireless-camera-installation-westchester.html">Westchester</a>
+            <a href="/wireless-camera-installation-rockland.html">Rockland</a>
+            <a href="/wireless-camera-installation-orange.html">Orange</a>
+            <a href="/wireless-camera-installation-putnam.html">Putnam</a>
+            <a href="/wireless-camera-installation-dutchess.html">Dutchess</a>
+            <a href="/wireless-camera-installation-ulster.html">Ulster</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <span class="menu-item">All Areas</span>
+        <div class="dropdown wide">
+          <div class="col">
+            <h4>NYC Boroughs</h4>
+            <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+            <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+            <a href="/security-camera-installation-queens-ny">Queens</a>
+            <a href="/security-camera-installation-bronx-ny">Bronx</a>
+            <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+          </div>
+          <div class="col">
+            <h4>Long Island</h4>
+            <a href="/security-camera-installation-long-island-ny">Long Island</a>
+            <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+            <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+          </div>
+          <div class="col">
+            <h4>Hudson Valley</h4>
+            <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+            <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+            <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+            <a href="/security-camera-installation-orange-county-ny">Orange</a>
+            <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+            <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+            <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+          </div>
+        </div>
+      </li>
+      <li>
+        <span class="menu-item">Repair</span>
+        <div class="dropdown">
+          <a href="/security-camera-repair-nyc">📹 Security Camera Repair</a>
+          <a href="/door-buzzer-repair-nyc">🔔 Door Buzzer Repair</a>
+          <a href="/intercom-repair-nyc">🚪 Intercom Repair</a>
+          <a href="/alarm-repair-nyc">🚨 Alarm Repair</a>
+          <a href="/fire-alarm-repair-nyc">🔥 Fire Alarm Repair</a>
+        </div>
+      </li>
+      <li>
+        <span class="menu-item">Pricing</span>
+        <div class="dropdown">
+          <a href="/camera-calculator">📹 Camera Calculator</a>
+          <a href="/alarm-calculator">🚨 Alarm Calculator</a>
+          <a href="/build-cabling-system">⚡ Cabling Quote Builder</a>
+          <a href="/install-your-own-camera-system">✅ Got Your Own System?</a>
+        </div>
+      </li>
+      <li><a href="/about-us">About</a></li>
+      <li><a href="tel:+13479348335" class="phone-btn">📞 (347) 934-8335</a></li>
+      <li><a href="#quote" class="quote-btn">Free Quote</a></li>
+    </ul>
+    <button class="mobile-toggle" onclick="document.getElementById('megaMenu').classList.toggle('open')">☰</button>
+  </div>
+</nav>
+<script>
+// Mobile: tap to expand submenu
+document.querySelectorAll('.mega-nav .menu-item').forEach(function(el){
+  el.addEventListener('click', function(e){
+    if (window.innerWidth <= 1024) {
+      e.preventDefault();
+      el.parentElement.classList.toggle('open');
+    }
+  });
+});
+</script>
 
 <!-- HERO -->
 <header class="hero">
