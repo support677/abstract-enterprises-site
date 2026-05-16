@@ -27,25 +27,26 @@ body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;l
 .sticky-bar a{color:#fff;text-decoration:none;font-weight:600}
 .sticky-bar .cta-btn{background:#f97316;padding:8px 16px;border-radius:4px}
 .container{max-width:1200px;margin:0 auto;padding:20px}
-header.hero{background:linear-gradient(135deg,#0a2540 0%,#1e3a5f 100%);color:#fff;padding:60px 20px 40px;margin-top:48px}
-.hero-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:40px;max-width:1200px;margin:0 auto;align-items:start}
-.hero-left h1{font-size:2.6em;margin-bottom:10px;line-height:1.15;letter-spacing:-.5px}
-.hero-left .tagline{font-size:1.05em;opacity:.9;margin-bottom:18px;font-weight:500}
-.hero-left p.subtitle{font-size:1.05em;opacity:.95;margin-bottom:22px}
-.hero-cta{display:flex;gap:12px;flex-wrap:wrap}
-.hero-cta a{padding:14px 26px;border-radius:6px;text-decoration:none;font-weight:700;font-size:1em}
+header.hero{background:linear-gradient(135deg,#0a2540 0%,#1e3a5f 100%);color:#fff;padding:80px 20px 60px;margin-top:48px;text-align:center}
+.hero-inner{max-width:900px;margin:0 auto}
+.hero-inner h1{font-size:3em;margin-bottom:14px;line-height:1.15;letter-spacing:-1px;font-weight:800}
+.hero-inner .tagline{font-size:1.05em;opacity:.9;margin-bottom:22px;font-weight:500;letter-spacing:.3px}
+.hero-inner p.subtitle{font-size:1.1em;opacity:.95;margin-bottom:28px;max-width:780px;margin-left:auto;margin-right:auto;line-height:1.6}
+.hero-cta{display:flex;gap:14px;justify-content:center;flex-wrap:wrap;margin-bottom:8px}
+.hero-cta a{padding:15px 30px;border-radius:6px;text-decoration:none;font-weight:700;font-size:1.05em}
 .btn-primary{background:#f97316;color:#fff}
 .btn-secondary{background:#fff;color:#0a2540}
-.lic-strip{margin-top:18px;font-size:.9em;opacity:.85}
-.hero-form{background:#fff;color:#1a1a1a;padding:24px;border-radius:10px;box-shadow:0 20px 60px rgba(0,0,0,.25)}
-.hero-form h3{color:#0a2540;font-size:1.4em;margin-bottom:4px}
-.hero-form .form-sub{color:#64748b;font-size:.9em;margin-bottom:16px}
-.hero-form input,.hero-form select,.hero-form textarea{width:100%;padding:11px;border:1px solid #cbd5e1;border-radius:5px;font-family:inherit;font-size:.95em;margin-bottom:10px}
-.hero-form label.consent{display:block;font-size:.78em;color:#64748b;line-height:1.4;margin:6px 0 10px}
-.hero-form label.consent input{width:auto;margin-right:6px;vertical-align:middle}
-.hero-form button{width:100%;background:#f97316;color:#fff;border:none;padding:13px;border-radius:6px;font-weight:700;font-size:1em;cursor:pointer}
-.hero-image-wrap{max-width:1200px;margin:30px auto 0;text-align:center}
-.hero-image-wrap img{max-width:480px;width:100%;height:auto;border-radius:10px;background:#fff;padding:16px}
+.lic-strip{margin-top:18px;font-size:.88em;opacity:.8}
+.hero-image-wrap{max-width:540px;margin:36px auto 0}
+.hero-image-wrap img{width:100%;height:auto;background:#fff;padding:24px;border-radius:14px;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+.lead-form-section{background:#fff;padding:48px 20px;border-bottom:1px solid #e5e7eb}
+.lead-form-card{max-width:640px;margin:0 auto;background:#f9fafb;padding:36px;border-radius:12px;border:1px solid #e5e7eb;box-shadow:0 4px 14px rgba(0,0,0,.04)}
+.lead-form-card h2{color:#0a2540;font-size:1.7em;text-align:center;margin-bottom:6px}
+.lead-form-card .form-sub{color:#64748b;text-align:center;margin-bottom:22px;font-size:.95em}
+.lead-form-card input,.lead-form-card select,.lead-form-card textarea{width:100%;padding:12px 14px;border:1px solid #cbd5e1;border-radius:6px;font-family:inherit;font-size:1em;margin-bottom:12px;background:#fff}
+.lead-form-card label.consent{display:block;font-size:.8em;color:#64748b;line-height:1.5;margin:8px 0 14px}
+.lead-form-card label.consent input{width:auto;margin-right:6px;vertical-align:middle}
+.lead-form-card button{width:100%;background:#f97316;color:#fff;border:none;padding:15px;border-radius:6px;font-weight:700;font-size:1.05em;cursor:pointer}
 .badges{background:#fff;padding:30px 20px;border-bottom:1px solid #e5e7eb}
 .badges-grid{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:repeat(4,1fr);gap:20px;text-align:center}
 .badge .num{font-size:2.4em;font-weight:800;color:#0a2540;line-height:1}
@@ -167,47 +168,15 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
 
 <!-- HERO -->
 <header class="hero">
-  <div class="hero-grid">
-    <div class="hero-left">
-      <h1>Wireless Security Camera Installation NYC</h1>
-      <div class="tagline">No-Drill · Battery · Solar · 4G LTE · Wi-Fi · No Monthly Fees</div>
-      <p class="subtitle">Professional wireless camera installation across all five NYC boroughs, Long Island, and Hudson Valley. Apartments, brownstones, co-ops, retail, commercial. Licensed, insured, 25+ years experience, zero monthly fees on most systems. One company for cameras, intercoms, access control, and alarms.</p>
-      <div class="hero-cta">
-        <a href="#quote" class="btn-primary">Get a Free Quote →</a>
-        <a href="tel:+13479348335" class="btn-secondary">Call (347) 934-8335</a>
-      </div>
-      <div class="lic-strip">NYS Lic #12000287431 · Licensed &amp; Insured · 1282 Troy Ave, Brooklyn · 460 E Fordham Rd, Bronx</div>
+  <div class="hero-inner">
+    <h1>Wireless Security Camera Installation New York City, New York</h1>
+    <div class="tagline">No-Drill · Battery · Solar · 4G LTE · Wi-Fi · No Monthly Fees</div>
+    <p class="subtitle">Professional wireless camera installation across all five NYC boroughs, Long Island, and Hudson Valley. Apartments, brownstones, co-ops, retail, commercial. Licensed, insured, 25+ years experience, zero monthly fees on most systems. One company for cameras, intercoms, access control, and alarms.</p>
+    <div class="hero-cta">
+      <a href="#quote" class="btn-primary">Get a Free Quote →</a>
+      <a href="tel:+13479348335" class="btn-secondary">Call (347) 934-8335</a>
     </div>
-
-    <div class="hero-form">
-      <h3>Get a Free Quote</h3>
-      <div class="form-sub">We'll call you back within the hour</div>
-      <form action="https://api.web3forms.com/submit" method="POST">
-        <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
-        <input type="hidden" name="subject" value="Wireless Camera Hero Form — NYC">
-        <input type="hidden" name="from_name" value="Abstract Enterprises Wireless NYC">
-        <input type="text" name="name" placeholder="Full Name *" required>
-        <input type="tel" name="phone" placeholder="Phone Number *" required>
-        <input type="email" name="email" placeholder="Email Address">
-        <select name="service" required>
-          <option value="">— Service Needed * —</option>
-          <option>Wireless Camera Installation</option>
-          <option>Wireless Camera Repair</option>
-          <option>Solar / 4G LTE Camera</option>
-          <option>Hybrid Wireless + PoE System</option>
-          <option>Doorbell / Peephole Camera</option>
-          <option>Multi-Property / Commercial</option>
-          <option>Intercom Integration</option>
-          <option>Access Control Combo</option>
-          <option>Other / Not Sure</option>
-        </select>
-        <textarea name="message" rows="2" placeholder="Message (optional) — borough, # of cameras, timing"></textarea>
-        <label class="consent"><input type="checkbox" required> I consent to follow-up &amp; informational text messages. Msg frequency varies. Msg &amp; data rates may apply. Reply STOP to opt out.</label>
-        <input type="hidden" name="redirect" value="https://abstractenterprisessecuritysystems.com/thanks.html">
-        <input type="checkbox" name="botcheck" style="display:none">
-        <button type="submit">Send Request →</button>
-      </form>
-    </div>
+    <div class="lic-strip">NYS Lic #12000287431 · Licensed &amp; Insured · 1282 Troy Ave, Brooklyn · 460 E Fordham Rd, Bronx</div>
   </div>
 
   <div class="hero-image-wrap">
@@ -224,6 +193,39 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
     <div class="badge"><div class="num">$0</div><div class="lbl">Monthly Fees</div></div>
   </div>
 </div>
+
+<!-- LEAD FORM SECTION (separate from hero, clean layout) -->
+<section class="lead-form-section" id="quote">
+  <div class="lead-form-card">
+    <h2>Get a Free Quote</h2>
+    <div class="form-sub">We'll call you back within the hour</div>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
+      <input type="hidden" name="subject" value="Wireless Camera Hero Form — NYC">
+      <input type="hidden" name="from_name" value="Abstract Enterprises Wireless NYC">
+      <input type="text" name="name" placeholder="Full Name *" required>
+      <input type="tel" name="phone" placeholder="Phone Number *" required>
+      <input type="email" name="email" placeholder="Email Address">
+      <select name="service" required>
+        <option value="">— Service Needed * —</option>
+        <option>Wireless Camera Installation</option>
+        <option>Wireless Camera Repair</option>
+        <option>Solar / 4G LTE Camera</option>
+        <option>Hybrid Wireless + PoE System</option>
+        <option>Doorbell / Peephole Camera</option>
+        <option>Multi-Property / Commercial</option>
+        <option>Intercom Integration</option>
+        <option>Access Control Combo</option>
+        <option>Other / Not Sure</option>
+      </select>
+      <textarea name="message" rows="2" placeholder="Message (optional) — borough, # of cameras, timing"></textarea>
+      <label class="consent"><input type="checkbox" required> I consent to follow-up &amp; informational text messages. Msg frequency varies. Msg &amp; data rates may apply. Reply STOP to opt out.</label>
+      <input type="hidden" name="redirect" value="https://abstractenterprisessecuritysystems.com/thanks.html">
+      <input type="checkbox" name="botcheck" style="display:none">
+      <button type="submit">Send Request →</button>
+    </form>
+  </div>
+</section>
 
 <div class="container">
 
@@ -761,7 +763,7 @@ form.qualifier button{background:#f97316;color:#fff;border:none;padding:14px 28p
 </section>
 
 <!-- 30. INSTANT QUALIFIER MICRO-FORM -->
-<section id="quote">
+<section id="qualifier-quote">
 <h2>Quick wireless camera quote — answer 3 questions, get a real number</h2>
 <form class="qualifier" action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
