@@ -287,20 +287,209 @@ footer a:hover{color:var(--gold2)}
 <body>
 <!-- ═══ MEGA-NAV ═══ -->
 <div class="mn-spacer"></div>
-<nav class="mn-wrap" role="navigation" aria-label="Main navigation"><div class="mn-bar">
-<a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home"><img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42"></a>
-<div class="mn-links">
-<div class="mn-link-item"><a href="/services" style="font-weight:600;color:var(--navy);padding:0 16px">Services</a></div>
-<div class="mn-link-item"><a href="/areas" style="font-weight:600;color:var(--navy);padding:0 16px">Areas</a></div>
-<div class="mn-link-item"><a href="/security-camera-pricing-nyc" style="font-weight:600;color:var(--navy);padding:0 16px">Pricing</a></div>
-<div class="mn-link-item"><a href="/about-us" style="font-weight:600;color:var(--navy);padding:0 16px">Company</a></div>
-<a href="/free-quote" style="font-weight:600;color:var(--navy);padding:0 16px">Free Quote</a>
-</div>
-<div class="mn-cta-group">
-<a href="tel:8004860943" class="mn-cta-phone">(800) 486-0943</a>
-<a href="/free-quote" class="mn-cta-button">Get a Free Quote</a>
-</div>
-</div></nav>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a class="mn-svc-trigger" data-svc="hometheater" onclick="mnDeskSvc(this)">🎬 Home Theater<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="avsound" onclick="mnDeskSvc(this)">🔊 AV Sound Installation<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
+</nav>
 <!-- ELEMENT 1, 2, 3: HERO -->
 <section class="hero">
 <div class="hero-inner">
@@ -1616,5 +1805,6 @@ const observer=new IntersectionObserver((entries)=>{entries.forEach(entry=>{if(e
 document.querySelectorAll('.rv').forEach(el=>observer.observe(el));
 </script>
 
+<script src="/js/mega-nav.js?v=wifi17"></script>
 </body>
 </html>
