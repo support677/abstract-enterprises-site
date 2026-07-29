@@ -1,0 +1,90 @@
+PASS REPORT — parking-lot-camera-bronx-corrected-v4
+==================================================
+Target page   : parking-lot-camera-installation-bronx.html
+Live URL      : https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-bronx
+Diff baseline : commit d99f307
+Audited against the controlling blueprint's §§12.2–12.8 requirements (as specified in the
+correction) plus the protected-items list. Each category below lists a reproducible command
+and the observed result. Nothing is marked PASS without evidence.
+
+CATEGORY 1 — PROTECTED ADDRESS ROUTING (both offices)  [PASS]
+  Requirement: nav shows Brooklyn 1282 Troy Ave AND Bronx 460 E Fordham Rd; page GBP/footer/
+  schema/forms route to 460 E Fordham Rd.
+  $ grep -c 'Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203' parking-lot-camera-installation-bronx.html   -> 1
+  $ grep -c 'Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458' parking-lot-camera-installation-bronx.html      -> 1
+  $ grep -c '460 E Fordham Rd' parking-lot-camera-installation-bronx.html  (schema+footer+forms+trust)           -> 7
+  Result: Brooklyn office restored; Bronx routing intact (7 Bronx-address occurrences).
+
+CATEGORY 2 — FAQ VISIBLE == SCHEMA (verbatim)  [PASS]
+  Requirement: every visible FAQ question AND full answer equals the FAQPage schema, same count.
+  Visible <details> pairs: 10   Schema mainEntity: 10
+  Verbatim question+answer matches: 10/10
+  Result: 10/10 exact match (previously 9 of 10 answers were shortened).
+
+CATEGORY 3 — QUESTION STRUCTURE, blueprint §12.2  [PASS]
+  Requirement: H2 per pain/intent cluster; questions as H3 answered immediately; no manufactured Qs.
+  Cluster H2s: 4   H3 questions: 13   Remaining question-level H2s: 0
+  Result: 4 clusters, 13 H3 questions each answered immediately, 0 question H2s.
+
+CATEGORY 4 — KEYWORD MAPPING (exactly 202, one primary assignment, scope-accurate counts)  [PASS]
+  Requirement: exactly 202 unique approved terms, each with a single primary assignment; every
+  claimed count equals an independently reproduced count under the declared scope; no zero-occurrence
+  "present"; matrix header, summary table and this report show the same totals; no stale/truncated data.
+  Occurrence-counting scope (defined in the matrix header): a term is "present" only when the exact
+  phrase occurs verbatim (case-insensitive) in its assigned page's visible text (body copy or a
+  heading) OR in an image alt/title attribute. Occurrences inside hidden form fields (<input value>),
+  <head> metadata (<title>, <meta>), and JSON-LD / <script> blocks are NOT counted. Otherwise "reserved".
+  No "added" status exists.
+  Correction applied this pass (v4):
+    - NYC "Parking lot camera installation": count corrected 13 -> 11. Under the declared scope the
+      verified total is 11 = 9 visible body/heading + 1 image alt + 1 image title. The two
+      <input type="hidden" name="service" value="Parking Lot Camera Installation"> occurrences and all
+      head / JSON-LD occurrences are excluded. Status stays "present".
+  Independently reproduced from the corrected matrix (per-occurrence classification of every row):
+    - Approved rows across the six primary pages (NYC 131, Brooklyn 10, Manhattan 7, Queens 34,
+      Long Island 16, Hudson Valley 4): 202 total, 202 unique  ->  duplicate primary assignments: 0
+    - Rows whose claimed count != independently reproduced count: 0 (all 202 reproduce exactly)
+    - Present: 71   Reserved: 131   Zero-occurrence rows marked "present": 0
+    - Status flips from the recount: 0
+    - Ellipsis / truncated "exact occurrence" quotations: 0
+    - Stale header content ("(site-rebuild-135)", "(6 pages)", the "added" status key, totals
+      "127 / 29 / 46", orphan "212 | 135 | 31 | 46"): 0 remaining
+  Totals agree across the matrix detailed tables, the summary table and this report: 202 / 71 / 131.
+  Silo scope: seven live pages; the 202 approved terms are assigned across six primary pages, and
+  the seventh page (Bronx) keeps its organic terms in the appendix (not part of the 202-term pool).
+
+CATEGORY 5 — RESEARCH EVIDENCE (sourced or EMPTY)  [PASS]
+  Requirement: every claim supported by its cited URL or marked unsupported; Hunts Point fixed.
+  Hunts Point row cites NYCEDC + NY Comptroller (not the Pelham Parkway article): True
+  Query recorded: `Hunts Point Bronx food distribution center produce market`
+  Result: mismatched URL removed; genuine sources added with exact query; borough anchors not in
+  the crime URLs relabeled as general Bronx geography.
+
+CATEGORY 6 — SECTION STRUCTURE + HERO + PRICING PARITY  [PASS]
+  Hero 4-stat bar present (25+ / Same-Day Estimates / 100% Licensed / $0 Monthly Fees): True
+  Package pricing present ($850/$1,500/$2,500/$2,800/$4,500/$195/$585): True
+  Bronx 1.00x parity (Brooklyn base numbers, no invented multiplier): True
+  Result: hero, package pricing and 1.00x parity preserved unchanged.
+
+CATEGORY 7 — IMAGES / SCHEMA / FORMS / CANONICAL / DISCLAIMERS  [PASS]
+  11 approved Bronx images present on disk + referenced: True  (11 files)
+  Two forms with consent, both target_area=Bronx: True
+  Canonical www + extensionless: True
+  Phones 347 only (no 845/800 leak): True
+  Required disclaimers ($195/$585, warranty) present: True
+  All 5 JSON-LD blocks parse: True
+  Result: all preserved; alt/title of the 11 images unchanged.
+
+CATEGORY 8 — SIBLING FIXES / REGISTRATION / MATRICES / MANIFEST  [PASS]
+  sitemap.xml Bronx entry: 1   (XML valid: True)
+  _redirects Bronx rule: 1
+  js/mega-nav.js Bronx route: 1   (node -c exit: 0)
+  File size 144027 B; nearest sibling queens at 138402 B (delta 5625 B > 2048).
+  Deploy workflow in CHANGE-MANIFEST.txt = GitHub Desktop (Netlify drag-and-drop line removed).
+  Result: registration intact and valid; file clears the ±2KB clone check; manifest workflow corrected.
+
+SUMMARY
+-------
+All eight audit items are corrected with the evidence above. The four items the previous report
+must not have claimed — FAQ exact match, complete 202 keyword mapping, correct address routing,
+and compliant §12.2 question structure — are each now demonstrably true (Categories 2, 4, 1, 3).
