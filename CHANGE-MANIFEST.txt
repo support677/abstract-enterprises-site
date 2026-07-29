@@ -1,0 +1,97 @@
+CHANGE MANIFEST — Parking-Lot-Camera silo. Cumulative changed-files package vs GitHub base 665e3c9.
+Not a full-site zip. Do not single-drag into Netlify (a single-file drop wipes the site).
+
+STATUS
+- The six research matrices: all audit corrections applied and passing (per-source PASS/FAIL below = 72/72 PASS).
+- Queens "more than sixty neighborhoods": now VERIFIED (two concrete enumerations, both exceeding sixty). The
+  Queens page wording is unchanged.
+- blueprint.md v2.2: STILL not saved. This delivery was requested with the v2.2 body attached, but no
+  attachment reached the workspace this session (uploads are unchanged — newest is the Jul 27 service-agreement
+  docx; nothing on disk carries the "Blueprint Authority and Scope"/"Master Website Blueprint" body; the message
+  text contains no blueprint content). Repo blueprint.md therefore remains v2.1 and is UNCHANGED, so it is not
+  part of this git-diff. This package is 14 files, not 15. I will not fabricate the v2.2 body or relabel v2.1.
+
+=================== AUDIT CORRECTIONS — WHAT WAS DONE ===================
+1. Area-specific query for every source on every page — DONE. All 12 mandatory sources on all six pages carry a
+   distinct, literally-executed, area-named query. Cross-area reuse check: ZERO queries shared across two or more
+   areas. Reddit/PAA/PASF/ATP/AIO/Bing-DDG are no longer run once at the service level.
+2. The wording that framed these sources as not-tied-to-the-area has been removed from all six matrices and this
+   manifest. Where a panel/tool is not exposed, that is stated as an environment/tool limitation, not the source
+   lacking local relevance.
+3. Bing and DuckDuckGo — marked EMPTY on all six pages with the area-specific query recorded. Attempts this
+   session: web_fetch on bing.com/search and duckduckgo.com/html result URLs — both rejected ("URL not in prior
+   results"); sandbox does not route to those hosts. No web_search is passed off as a Bing/DDG cross-check.
+4. Every landmark and use case cites a live source URL. No landmark/use-case is extracted from an empty-result
+   line; that marker no longer appears. Thin fields are marked EMPTY (HV parking-lot competitors -> #12).
+5. Manhattan Local News (#9) — FIXED. Total Security removed from Local News; it now appears ONLY under
+   Competitor Research (#12). Manhattan #9 cites a real Manhattan outlet: NBC New York (Hell's Kitchen / W 43rd
+   St garage luxury-vehicle theft). CBS (Washington Heights) and ABC7 (NoHo) are used for Hyperlocal (#10).
+6. Queens "more than sixty neighborhoods" — VERIFIED. The Queens page wording is unchanged. The matrix claim row
+   carries the two exact sources you directed: Homes.com enumerating 76 Queens neighborhoods
+   (https://www.homes.com/neighborhood-search/queens-ny/) and the JSTOR book "The Neighborhoods of Queens"
+   documenting 99 (https://www.jstor.org/stable/j.ctt5vm35b). Both exceed sixty, so "more than sixty" is VERIFIED.
+7. Manifest truthful — matrices are shown to pass on their own; the blueprint is a separate, still-outstanding
+   item, not a precondition for the matrices and not described as the only outstanding thing beyond itself.
+8. Exact Section 3 order preserved — verified EXACT MATCH on all six (1 Reddit, 2 Google PAA, 3 PASF,
+   4 AnswerThePublic, 5 Google AI Overview, 6 Area landmarks, 7 Area-specific use cases, 8 Bing and DuckDuckGo,
+   9 Local news, 10 Hyperlocal, 11 Yelp, 12 Competitor research). Cost/pricing remains supplemental after 12.
+9. Honest EMPTY where nothing usable — Reddit EMPTY on all six (zero reddit.com threads after an area query);
+   ATP and Bing/DDG EMPTY (unreachable tools/engines, attempts recorded); Google PAA/PASF/AIO panels EMPTY
+   (web_search returns organic only) while the organic content the area query returned is captured with URLs.
+   No source category substituted for another; nothing invented; no fact extracted from an empty result.
+10. ONE cumulative git-diff ZIP — this package, every changed file at its correct repo-relative path, no multiple
+    zips, no full site. Repo-relative file list below.
+
+=================== PER-SOURCE PASS/FAIL AUDIT (12 sources x 6 areas = 72 cells) ===================
+Result: 72/72 PASS. Every cell has (a) an area-specific executed query, and (b) either a real URL finding or an
+honest EMPTY-after-attempt.
+                        1Red 2PAA 3PSF 4ATP 5AIO 6Lmk 7Use 8B/D 9New 10Hy 11Yl 12Cmp
+  NYC                    P    P    P    P    P    P    P    P    P    P    P    P
+  Brooklyn               P    P    P    P    P    P    P    P    P    P    P    P
+  Manhattan              P    P    P    P    P    P    P    P    P    P    P    P
+  Queens                 P    P    P    P    P    P    P    P    P    P    P    P
+  Long Island            P    P    P    P    P    P    P    P    P    P    P    P
+  Hudson Valley          P    P    P    P    P    P    P    P    P    P    P    P
+Legend: EMPTY-honest counts as PASS (source searched/attempted, nothing usable or panel/tool not exposed).
+EMPTY cells (honest, attempted): Reddit (all 6), ATP (all 6), Bing/DDG (all 6), HV Competitor (#12, thin field).
+
+=================== BLUEPRINT.MD (unchanged v2.1; not in this ZIP) ===================
+- Section 3 (the 12 mandatory sources, in order) — RECEIVED (typed inline; it transmits). The matrix ordering
+  follows it.
+- The full 14-section v2.2 body — NOT RECEIVED, again. It was referenced as attached, but no attachment reached
+  the workspace (uploads unchanged; nothing on disk; no blueprint text in the message). Repo blueprint.md stays
+  v2.1 (233 lines), UNCHANGED, so it does not appear in a git-diff against 665e3c9.
+- Reliable path to save it: PASTE THE BODY INLINE IN THE MESSAGE, in small chunks (Sections 1-2, then 4-7, then
+  8-11, then 12-14). Inline text transmits in this workspace; file attachments this session did not. On receipt
+  I save it byte-for-byte as blueprint.md and re-issue a 15-file package.
+
+=================== ZIP CONTENTS (14 changed files vs base 665e3c9; repo-relative paths) ===================
+6 HTML pages (byte-for-byte unchanged; approved/locked; 11 parking images each):
+  ./parking-lot-camera-installation-nyc.html
+  ./parking-lot-camera-installation-brooklyn.html
+  ./parking-lot-camera-installation-manhattan.html
+  ./parking-lot-camera-installation-queens.html
+  ./parking-lot-camera-installation-long-island.html
+  ./parking-lot-camera-installation-hudson-valley.html
+6 research matrices (area-specific query per source; exact Section 3 order; no filler/banned phrases):
+  ./parking-lot-camera-installation-nyc-research-matrix.md
+  ./parking-lot-camera-installation-brooklyn-research-matrix.md
+  ./parking-lot-camera-installation-manhattan-research-matrix.md
+  ./parking-lot-camera-installation-queens-research-matrix.md   (Queens neighborhoods row now VERIFIED)
+  ./parking-lot-camera-installation-long-island-research-matrix.md
+  ./parking-lot-camera-installation-hudson-valley-research-matrix.md
+1 keyword-coverage report (UNCHANGED — included because it differs from base):
+  ./parking-lot-camera-installation-keyword-coverage-report.md
+1 manifest:
+  ./CHANGE-MANIFEST.txt
+NOT INCLUDED: ./blueprint.md (unchanged v2.1; v2.2 body never received) — the one outstanding item.
+NOT TOUCHED (already passed; deliberately excluded): sitemap.xml, _redirects, js/mega-nav.js, all other site files.
+
+=================== VERIFIED FACTUAL CLAIM SOURCING (preserved) ===================
+Manhattan: garages under Local Law 126 / DOB parking-structure filing (nyc.gov/site/buildings/safety/parking-structure.page).
+Queens: largest borough by land (Britannica); ~2.3M residents / 2020 Census 2,385,541 (World Population Review);
+  Queens Center ~27M/yr (LoopNet); Rego Center 2,500+ spaces (PlaceWise PDF); Resorts World ~4,779->~7,309
+  (NY Franchise Oversight Board); $8B Citi Field casino (Forbes); "more than sixty neighborhoods" VERIFIED
+  (Homes.com 76; JSTOR book "The Neighborhoods of Queens" 99).
+Hudson Valley: Palisades Center 18,000+ spaces (Wikipedia) and 60 call boxes (palisadescenter.com); valley lots
+  double as Metro-North/Hudson Link park-and-rides (rocklandcountyny.gov).
