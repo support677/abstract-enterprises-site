@@ -1,23 +1,42 @@
 ==============================================================
-site-rebuild-130  —  parking silo: complete research matrix
+site-rebuild-131  —  parking silo: Staten Island page added
 ==============================================================
 Cumulative. Carries v127 (12 photos + UNV), v128 (dedup),
-v129 (hero/pricing/placeholder completion + first research pass).
+v129 (hero/pricing/placeholder completion + first research),
+v130 (full per-area research matrix).
 
-THIS BUILD documents the full mandatory research protocol for
-Brooklyn, Manhattan, Long Island and Hudson Valley — every
-blueprint-required category (Reddit, Google PAA, PASF,
-AnswerThePublic, AI Overview, competitor SERP, landmarks/
-property types, local news, pricing/cost, technology/features,
-legal/compliance, Yelp, use cases) recorded with the actual
-query, source, finding, or an explicit EMPTY where the search
-tool did not surface that source (Reddit; ATP; AI Overview box;
-PAA/PASF panels are proprietary Google widgets not returned by
-the tool). No findings fabricated.
+THIS BUILD adds the Staten Island parking-lot camera page —
+the eighth live page in the parking silo. The mega-nav no
+longer routes Staten Island parking to a /free-quote fallback;
+it points to the real page. The page was built to Blueprint
+v2.2 and cleared a five-item deep-integrity audit:
 
-Every location-specific statement on the pages was verified and
-NONE was contradicted, so no passing content was rewritten. The
-five parking pages are byte-identical to v129; only the changelog
-and this readme changed.
+  1 AI Overview source is EMPTY (web_search does not return
+    Google's AI Overview box, per the v130 methodology note);
+    the fabricated seven-topic "AI Overview Reality Check"
+    section — which also duplicated body intents — was removed
+    rather than fabricated.
+  2 Duplication scan across H2/H3/body/Q&A/FAQ/schema: zero
+    editorial duplicates (only approved legal/business + nav
+    language is shared with siblings).
+  3 Retention + warranty FAQ items removed as body duplicates;
+    FAQPage schema regenerated (visible FAQ 9 == schema 9).
+  4 False "at-grade Staten Island Railway crossing" research
+    finding + on-page usage deleted (crossings eliminated by
+    the mid-1960s); replaced with a CBS-sourced abandoned-
+    vehicle concern; pain-map tally corrected.
+  5 202-keyword mapping: NOT PASSED. The 202 terms are assigned
+    to six pages (NYC/Queens/LI/Brooklyn/Manhattan/HV); Staten
+    Island carries no assignment. Coverage stays 84 USED / 118
+    FOR REVIEW; those terms belong to the six assigned pages and
+    need their own keyword pass. Nothing was stuffed onto SI.
 
-Full per-location research matrix: changelog-rebuild-130.md.
+INTEGRATION: sitemap (0.7/monthly), _redirects (200 rewrite),
+mega-nav (statenisland repointed to the real page), and a
+reciprocal "Parking Lot Cameras Staten Island" silo card added
+to all seven siblings. 11 SI photos + research matrix + pain-
+question map added. Queens and Long Island body content is
+unchanged; the seven siblings changed only by one cross-link
+card each.
+
+Full detail + per-page verification: changelog-rebuild-131.md.
