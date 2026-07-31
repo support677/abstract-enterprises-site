@@ -1,13 +1,15 @@
 # Keyword-Coverage Report — Parking Lot Camera Silo (rebuilt, exact-match evidence)
 
 - Approved list: **202 keywords** (`parking-lot-camera-installation-keywords.md`, verbatim).
-- Rebuilt from the ACTUAL six live HTML files. Matching is **exact phrase only** (case-insensitive, whitespace-normalized).
+- Scored against the ACTUAL live HTML files. Matching is **exact phrase only** (case-insensitive, whitespace-normalized). The 202-term controlling pool is primary-assigned across **six** pages (NYC, Brooklyn, Manhattan, Queens, Long Island, Hudson Valley); the silo now has **ten** live pages (adding Bronx, Staten Island, Nassau County, Suffolk County), which carry the head term and organic phrasing only. Re-verified 2026-07-30 across all ten live pages: the four newer pages add **no** new exact-match coverage of the approved pool (zero approved terms are satisfied exclusively by them).
 - **Zones searched (visible + attributes):** page `<title>`, meta description, H1/H2/H3 headings, image `alt`, image/link `title`, and visible body/Q&A/FAQ text.
 - **Excluded from matching:** JSON-LD schema (`<script>`), canonical/og/href URL slugs, and JS — so counts reflect real on-page usage, not markup.
 - **No "concept token" coverage.** A keyword is USED only if the exact phrase appears in a zone above; otherwise **FOR REVIEW** (not stuffed into pages — protected-content rule, no unrequested edits).
 - Note: many exact matches sit in the approved keyword+area **image alt/title** tags (e.g. `wireless parking lot camera installation — long island`). Those tags are approved and must not be changed (instruction 4).
 
 ## Summary: USED (exact) 84 · FOR REVIEW 118 · total 202
+
+> **Status: NOT PASSED (by design).** Most approved terms are reserved rather than placed, because force-inserting exact-match synonyms would create doorway / keyword-list copy (prohibited by the brief). The ten-page re-verification (2026-07-30) did not move any reserved term into USED — adding Bronx, Staten Island, Nassau County and Suffolk County changed nothing in the pool count. USED/FOR REVIEW figures below reflect the exact-match evidence method used to build this report against the six primary-assignment pages.
 
 ## USED keywords — exact evidence (page ×count · element · exact string)
 

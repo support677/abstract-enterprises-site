@@ -1,8 +1,8 @@
 # Parking Lot Camera Installation — Keyword Distribution Matrix
 
-**Silo:** parking-lot-camera-installation — **seven live pages** (NYC, Brooklyn, Manhattan, Queens, Bronx, Long Island, Hudson Valley). **Controlling approved pool:** exactly **202 unique keywords** (`parking-lot-camera-installation-keywords.md`), each with **one primary assignment**.
+**Silo:** parking-lot-camera-installation — **ten live pages** (NYC, Brooklyn, Manhattan, Queens, Bronx, Staten Island, Long Island, Nassau County, Suffolk County, Hudson Valley). **Controlling approved pool:** exactly **202 unique keywords** (`parking-lot-camera-installation-keywords.md`), each with **one primary assignment**.
 
-**Primary assignment across six pages:** the 202 approved terms are distributed across six primary pages — NYC 131, Brooklyn 10, Manhattan 7, Queens 34, Long Island 16, Hudson Valley 4 (= 202) — and each approved term is assigned to exactly one of them. The seventh live page (Bronx) carries **no** primary approved-term assignments; the terms that appear organically on the Bronx page are listed in the appendix and are **not** part of the 202-term pool.
+**Primary assignment across six pages:** the 202 approved terms are distributed across six primary pages — NYC 131, Brooklyn 10, Manhattan 7, Queens 34, Long Island 16, Hudson Valley 4 (= 202) — and each approved term is assigned to exactly one of them. **Four of the ten live pages (Bronx, Staten Island, Nassau County, Suffolk County) carry no primary approved-term assignments**; the terms that appear organically on those pages are noted in the appendix and are **not** part of the 202-term pool. Re-verified across all ten live pages on 2026-07-30: **zero** approved terms are satisfied *exclusively* by one of these four newer pages, so they add no new coverage of the pool and no term was reassigned to them (force-placing would create doorway/keyword-list copy — prohibited).
 
 **Method:** each approved keyword is assigned one primary page by search intent / property theme, then integrated naturally via image alt/title and body prose (equipment, what-we-install, commercial, coverage). Exact-match SEO variants were NOT force-inserted where they would create keyword-list / doorway copy (prohibited by the brief); those are reported as reserved with a reason.
 
@@ -253,6 +253,9 @@
 | 4 | parking lot camera installation for churches | Hudson Valley | image alt/title: "Parking lot camera installation for churches — Hudson Valley" | 1 | present |
 
 ## Appendix — additional organic terms on the Bronx page (NOT part of the approved 202-term pool)
+
+> The same appendix principle applies to the three other newer live pages — **Staten Island, Nassau County and Suffolk County**: each carries the head term plus organically-occurring phrasing appropriate to its area, but holds **no** primary assignment from the 202-term pool, and no approved term is force-placed onto it. Re-verification (2026-07-30) confirmed none of these three pages, nor Bronx, uniquely satisfies any approved term.
+
 
 These phrases appear naturally in Bronx page prose or image metadata but are not approved-list entries and are not counted in the 202.
 
