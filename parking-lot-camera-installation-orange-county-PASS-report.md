@@ -69,7 +69,7 @@ Two full rewrite passes (84 items, then 46 residual) plus a 2-item micro-pass cl
 | Uniview model (IPC2128SE-ADF28KM-WL-I0 et al.) | present |
 | "not legal advice" disclaimers | 4 |
 | Match-area service links (all 6 Orange) | PASS (8 anchor occurrences) |
-| Canonical = /parking-lot-camera-installation-orange-county.html | PASS |
+| Canonical = /parking-lot-camera-installation-orange-county (clean URL; _redirects serves the file) | PASS |
 | CTA "Talk Through Your Orange County Lot" ×1; leftover Rockland CTA removed | PASS |
 | Broken-link sweep (parking siblings) | PASS — all resolve |
 
@@ -86,3 +86,6 @@ Two full rewrite passes (84 items, then 46 residual) plus a 2-item micro-pass cl
 ## Silo status
 Parking silo built: NYC hub + 5 boroughs + LI hub + Nassau + Suffolk + HV hub + Westchester + Rockland + **Orange** = 13 pages.
 **Remaining HV counties: Putnam, Dutchess, Ulster (3).** Silo is **not complete** and the silo-completion checklist is deferred until the final HV county (Ulster) is built.
+
+## Post-delivery correction (clean URLs)
+Orange, Rockland and Westchester had inherited `.html` in canonical/og:url and sitemap `<loc>` from the donor chain (Westchester → Rockland → Orange), inconsistent with the rest of the silo (clean URLs) and a GSC duplication risk. Corrected: canonical + og:url on all three now clean; sitemap `<loc>` for Orange, Rockland, Westchester and Nassau now clean. `_redirects` rewrites (`/clean → /clean.html 200`) unchanged — they serve each file at its clean URL. Whole parking silo now consistent.
