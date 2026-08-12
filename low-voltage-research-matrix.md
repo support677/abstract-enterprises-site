@@ -1695,6 +1695,202 @@ The first Queens build shared **14 long paragraphs and 7 question strings with B
 
 Phone **(347) 434-6392**, **Bronx GBP** per the routing table, links UP to the NYC hub. Registered in sitemap at 0.7/monthly, `_redirects` 200 rewrite plus alias 301s, mega-nav key added. Inbound links from the structured cabling Queens page, the NYC hub and the Brooklyn page.
 
+
+---
+
+# PART 18 — BRONX (built 2026-08-12)
+
+## The differentiator: cold chain, wash-down and facilities that never close
+
+The Bronx is the only borough in this portfolio where the defining technical problem is **environment**, not access, structure or construction stage.
+
+Verified basis: **Hunts Point** is one of the largest food distribution centres in the world, and the produce market there is undergoing a redevelopment reported at roughly **$405M with construction anticipated to begin late 2026**. The surrounding **Hunts Point Industrial Business Zone** carries cold storage, processing and freight operations, and the former Spofford site is being redeveloped as **The Peninsula** with around **740 homes plus roughly 30,000 SF of light industrial space**.
+
+That produces content no other page in the silo carries:
+
+1. **Low-temperature rated cable.** Standard PVC jacket stiffens and can crack at sustained cold. A drop installed in refrigerated space with ordinary components works on handover and fails two winters later, by which point nobody connects it to the specification.
+2. **Wash-down enclosure ratings.** A box rated for a dry office wall does not survive a pressure washer twice a week.
+3. **Temperature-zone transitions.** Where cable crosses between refrigerated and ambient space, condensation forms and collects in the nearest enclosure. Standard knowledge in the cold-chain trade, absent from every general answer about low voltage.
+4. **Work windows set by production.** On a multi-shift facility the quiet hour is often overnight. The window gets agreed before the technical scope because the programme depends on it.
+5. **Mounting heights set by forklifts**, not by what is comfortable to reach.
+6. **Pre-war multifamily with no riser** on the Grand Concourse — a permission problem before a technical one.
+
+**Suggested diagnostic for buyers, on the page:** ask any bidder how they intend to handle transitions between temperature zones. A contractor who has done facility work answers immediately; one who has not treats it as an odd question.
+
+
+## Sources 2 and 3 — Bronx PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions, 25 related terms. Six were absent and have been folded in. **Four of the six expose a flaw in the pairing rule as I first wrote it.**
+
+### ⚠ SECOND CORRECTION TO THE PAIRING RULE
+
+Part 17 established that a neighbourhood must be paired with a head service term rather than appearing as a bare place name. The Bronx page was built to that rule and passed its own build-time check on five pairings:
+
+- structured cabling + Hunts Point
+- low voltage contractor + Mott Haven
+- structured cabling + Grand Concourse
+- **network cabling + Fordham Road**
+- **data cabling + Riverdale**
+
+The supplied set asks for the **inverse** on three of them:
+
+- **low voltage contractor** + Fordham
+- **data cabling** + Mott Haven
+- **network cabling** + Riverdale
+
+Every neighbourhood was present. Every neighbourhood was paired with *a* service term. **They were paired with the wrong service terms.** Pairing a place with one head term does not cover the pairing searchers actually use, and there is no way to guess which term a given neighbourhood will attract.
+
+### The rule, corrected again
+
+**Pair each significant neighbourhood with at least two different head service terms**, drawn from: low voltage contractor, structured cabling, data cabling, network cabling. That covers the likely variants without contorting the copy, and it is cheap to do at writing time.
+
+The Bronx page now carries Riverdale with both network cabling and data cabling, Mott Haven with both data cabling and low voltage contractor, and Fordham with both low voltage contractor and network cabling.
+
+**Also added:** network cabling + Bronx, office network cabling + Bronx, and **South Bronx** as a distinct area term, which no other supplied set has produced for any borough.
+
+### What this means for the audit
+
+A build-time pairing check that tests one pairing per neighbourhood will pass a page that is missing the pairings that matter. **The check has to test each neighbourhood against every head service term and report which combinations are absent**, not confirm that one arbitrary combination exists. That is the version to run on Staten Island, Nassau, Suffolk and the six Hudson Valley counties.
+
+### Neighbourhood granularity, third borough confirmed
+
+| Borough | Neighbourhood terms supplied |
+|---|---|
+| Manhattan | none |
+| Brooklyn | Bushwick, Williamsburg, Downtown Brooklyn, Park Slope |
+| Queens | Astoria, Long Island City, Flushing, Jamaica |
+| **Bronx** | **Fordham, Mott Haven, Riverdale, South Bronx** |
+
+Three of four outer boroughs produce neighbourhood-level terms; Manhattan produces none. **Staten Island is the remaining test.** If it produces them too, the rule holds for the entire outer-borough set and Manhattan is confirmed as the sole exception — consistent with the reading in Part 17 that Manhattan is itself the unit of commercial search.
+
+
+## Sources 1, 4, 6, 7 — Bronx Reddit, ATP, Bing, DuckDuckGo (OWNER-SUPPLIED 2026-08-12)
+
+29 related terms and a 20-question ATP set.
+
+### The corrected pairing audit ran for the first time, and it found four more gaps
+
+Part 18 established the two-head rule and specified that the audit must test **every neighbourhood against every head service term** rather than confirming one arbitrary pairing. That audit was run against the Bronx page and produced a matrix:
+
+| Neighbourhood | Head terms paired, before |
+|---|---|
+| Hunts Point | 1 — structured cabling only |
+| Grand Concourse | 1 — structured cabling only |
+| South Bronx | 1 — low voltage contractor only |
+| Mott Haven, Port Morris, Fordham, Riverdale | 2 each ✓ |
+
+**Three neighbourhoods sat at one head term each, including Hunts Point** — the single most important place name on the page. Plus `data cabling installers` was absent as a phrase. All four fixed: Hunts Point now carries low voltage contractor alongside structured cabling, Grand Concourse carries data cabling, South Bronx carries structured cabling. **Final matrix: all seven neighbourhoods at two head terms.**
+
+### Why this matters beyond the Bronx
+
+The one-pairing check passed this page twice — at build time and on the first term audit. The matrix version caught three gaps immediately. **A check that confirms what you expect to find will keep passing pages that are missing what you did not think to look for.**
+
+The matrix audit is now the standard for Staten Island, Nassau, Suffolk and the six Hudson Valley counties: print the full neighbourhood x head-term grid, flag anything under two, fix before delivery.
+
+### Reddit: EMPTY across all five NYC boroughs and all three regions
+
+Seven regions now. NYC, Long Island, Hudson Valley, Manhattan, Brooklyn, Queens, Bronx. **Retired as of Part 17 and confirmed again here — it should not be attempted for the remaining nine pages.**
+
+### ATP
+
+20 questions, all intents already covered on the page. No additions required.
+
+## ✅ The dedup flag worked
+
+Part 17 flagged the Bronx as the next page at high duplicate risk, because Bronx industrial and Queens industrial invite identical vocabulary, and instructed building from Hunts Point and the IBZ rather than from the Queens or Brooklyn file.
+
+**Result: 2 duplicate questions and 2 non-boilerplate shared paragraphs**, against Queens's 7 questions and 8 paragraphs when it was built from the Brooklyn template. All four were rewritten. Final state: 9 shared paragraphs, all approved boilerplate plus the "Related:" inbound-link lines, and **zero duplicate questions across all 21 page pairs.**
+
+**The lesson is worth keeping:** building a page from its own research rather than from the nearest existing file cuts duplicate remediation by roughly three quarters. Apply it to Staten Island, Nassau, Suffolk and the six Hudson Valley counties.
+
+## Neighbourhood pairing rule applied and verified
+
+Per the corrected rule from Part 17, every neighbourhood is paired with a head service term in natural copy, and the QA now tests the pairing rather than the presence:
+
+- structured cabling + **Hunts Point**
+- low voltage contractor + **Mott Haven** and Port Morris
+- structured cabling + **Grand Concourse**
+- network cabling + **Fordham Road**
+- data cabling + **Riverdale**
+
+All five verified by proximity check.
+
+## Routing
+
+Phone **(646) 490-0629** (CCTV Bronx), **Bronx GBP at 460 E Fordham Rd**, links UP to the NYC hub. The Fordham Road office is used on the page where it actually matters — response time on urgent facility calls and overnight availability, not as a general trust claim.
+
+## Silo status
+
+**Seven pages built:** NYC, Long Island and Hudson Valley hubs; Manhattan, Brooklyn, Queens and Bronx children. **Nine remain:** Staten Island, Nassau, Suffolk, and the six Hudson Valley counties.
+
+Each page now carries a distinct thesis rather than a geographic variant of one argument — Manhattan access, Brooklyn structure and distance, Queens construction stage, Bronx environment. **Staten Island needs its own before it is written**, and Part 6 records that it returned EMPTY for low-voltage-specific findings, so it needs a dedicated query set rather than imported material.
+
+
+---
+
+# PART 19 — SITEMAP AND INTERNAL LINKING AUDIT (2026-08-12)
+
+Run across the seven built low-voltage pages after the Bronx build. Registration was clean; **the linking graph was not.**
+
+## Registration — clean
+
+| Check | Result |
+|---|---|
+| sitemap.xml valid, closing tag intact | ✓ 1,887 URLs |
+| Hubs at 0.9 / weekly | ✓ NYC, Long Island, Hudson Valley |
+| Children at 0.7 / monthly | ✓ Manhattan, Brooklyn, Queens, Bronx |
+| `_redirects` 200 rewrite per page | ✓ all seven |
+| Alias 301s per page | ✓ 2 each (`-installer-`, short form) |
+| Stale 301s pointing new slugs at old pages | none |
+| mega-nav key with all seven URLs, `node --check` | ✓ |
+
+## ⚠ Three linking faults found
+
+### 1. The NYC hub linked DOWN to zero children
+
+The hub's coverage cards were written before any child page existed and pointed at `structured-cabling-installation-*` instead. **A hub that does not link to its children is not a hub** — it breaks the hub-and-spoke standard, strands link equity, and gives Google no structural signal that the four borough pages belong to it. Four cards repointed.
+
+### 2. 102 links had a low-voltage label pointing at a structured-cabling URL
+
+Across all seven pages, anchors reading "Low voltage cabling in Manhattan", "…in Brooklyn", "…in Queens", "…in the Bronx" and "…on Long Island" pointed at `/structured-cabling-installation-*`. **The label and the destination disagreed**, which is bad for users and worse for relevance signals — an anchor is a promise about the destination. All 102 corrected.
+
+### 3. Inbound links were skewed by build order
+
+Each new page linked back to its predecessors and nothing linked forward, so inbound counts ran NYC 6, Manhattan 4, Brooklyn 3, Queens 2, **Bronx 1**. The most recently built page is always the most orphaned under that pattern.
+
+Seven reciprocal links added to complete the borough sibling mesh. **Final: every borough child at 4 inbound, hubs at 5–6.**
+
+## Final graph
+
+| Page | Outbound (in-body) | Inbound |
+|---|---|---|
+| NYC hub | 5 — all four boroughs + Long Island | 6 |
+| Manhattan | 6 | 4 |
+| Brooklyn | 6 | 4 |
+| Queens | 6 | 4 |
+| Bronx | 6 | 4 |
+| Long Island hub | 2 | 6 |
+| Hudson Valley hub | 2 | 5 |
+
+Hub links to all children ✓ · every child links up to the hub ✓ · borough sibling mesh complete ✓ · Long Island and Hudson Valley reciprocal ✓
+
+## Bug introduced and repaired during the fix
+
+The bulk href rewrite spliced an anchor tag into the middle of a URL on the NYC hub, producing `href="/st<a href="/low-voltage-installation-long-island">…`. Caught by the broken-link check in the same pass, repaired, and re-verified: zero malformed hrefs, zero broken links, div balance intact at 189/189.
+
+**Lesson for future bulk link edits:** rewrite by matching the whole anchor element, not by substituting inside an `href` value. A partial match inside a URL will happily corrupt it.
+
+## Standing checks added
+
+Every future area page delivery now verifies, in addition to the existing suite:
+
+1. Hub links down to every built child.
+2. Every child links up to its hub.
+3. Sibling mesh complete among children of the same hub.
+4. No anchor whose label names one page while pointing at another.
+5. No malformed hrefs containing `<` or `>`.
+6. Inbound link count per page, flagged if any page falls below the others by more than two.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
