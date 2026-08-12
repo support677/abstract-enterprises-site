@@ -2747,6 +2747,146 @@ Every landmark from each page's research section is present, and every page clea
 
 All eleven: 20 sections · 7 JSON-LD blocks parsing · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 868–1,173 words across 7 H3 · 14 images each · favicon block · zero malformed or broken links · zero duplicate questions across 55 pairs. Rendered at 390x844: zero blank images, zero empty alts, zero overflow.
 
+
+---
+
+# PART 28 — ROCKLAND COUNTY (built 2026-08-12)
+
+## The differentiator: the only county in the portfolio where a state line is an operational fact
+
+Verified from Rockland County and county economic development sources:
+
+- **5 towns, 19 incorporated villages, 17 unincorporated hamlets** (rocklandcountyny.gov)
+- **Blue Hill Plaza**, Pearl River — **1.1M SF of Class A office on 93 acres**, with an on-site data recovery centre, **"roughly a mile from the New Jersey border"**
+- **Hudson Valley iCampus**, Pearl River — **25 buildings on 207 acres, around 2M SF**, marketed for lab/life science, GMP, R&D, distribution, warehouse, data centre and office
+- **Hudson Crossing Industrial Park**, Blauvelt — warehouse, flex, office, showroom
+- **Palisades Center**, West Nyack — among the largest shopping malls in the United States
+- Named employers include Pfizer, Nice-Pak, Caribbean Food Delights, Streit's Matzos
+- Roads: NYS Thruway I-87, I-287, Palisades Interstate Parkway, Garden State Parkway, Route 59, 303, 304, 9W, 202, 17
+
+**The thesis: in Rockland the jurisdiction can change within a mile.** Businesses routinely run facilities on both sides of the New Jersey line, so a portfolio that looks like one market is two regulatory environments. Licensing, permitting and registration change at that border, and a contractor cleared for one side is not automatically cleared for the other.
+
+**No other page in this silo has a state border as a defining operational fact.** It also inverts Suffolk cleanly: Suffolk's problem is 86 miles inside one jurisdiction; Rockland's is almost no distance at all but two states.
+
+Second pillar: **regulated space**. A significant share of the county's commercial stock is marketed for lab, GMP and R&D use, where materials, penetrations, sealing and access follow the facility's protocol rather than the installer's habit.
+
+## Sources 2 and 3 — Rockland PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions, 27 related terms. **Five gaps found and fixed**, two of them significant.
+
+### ⭐ SEVEN TOWN-LEVEL TERMS — the most any area has produced
+
+New City, Nyack, Spring Valley, Nanuet, **Congers**, **Valley Cottage**, Suffern. Every other county produced four or five; Rockland produced seven, including two unincorporated hamlets.
+
+**The compactness is showing in the search data.** In a county this small, people apparently search by hamlet rather than settling for the county name &mdash; the opposite of what a long county like Suffolk produces, where county-level terms dominate. Worth carrying to Orange, Putnam, Dutchess and Ulster: **the smaller and denser the county, the deeper the place granularity likely goes.**
+
+### ⚠ THE TWO-HEAD RULE PRODUCED A NEAR MISS FOR THE THIRD TIME
+
+Congers and Valley Cottage **both satisfied the two-head-term rule** during the pre-assembly matrix. Both were missing `low voltage contractor` specifically &mdash; the head term the supplied set actually uses.
+
+This is the same failure as Brookhaven on Suffolk and the Fordham/Riverdale/Mott Haven set on the Bronx. **Three occurrences is a pattern, not bad luck.** The two-head rule reduces exposure; it does not eliminate it, because there is no way to predict which of four head terms a given place will attract.
+
+**Standing position, unchanged but now well evidenced: the matrix is a floor, the explicit per-pairing check against a supplied set is the ceiling.** Both are needed. Where no supplied set exists yet, three head terms per significant place is a cheaper hedge than two.
+
+### ⚠ A new licensing angle — HOME IMPROVEMENT CONTRACTOR CATEGORIES
+
+The supplied local note states: *"Rockland County uses home improvement contractor licensing categories that can cover low voltage work,"* and one PAA question asks directly whether a home improvement licence is needed.
+
+**This is not in any source captured for this project**, and it is a different kind of claim from the Greenburgh one &mdash; searchers are asking the question themselves, so silence is not neutral.
+
+Handled by adding a Q&A that answers honestly without asserting the county specifics: home improvement contractor licensing is a consumer-protection framework aimed at residences; for **commercial** property the relevant questions are the municipality's building department position plus the state credential for security and alarm work; for **residential** work the position differs and should be confirmed directly. The page states plainly that the current Rockland categories have not been verified against a county source.
+
+**That distinction &mdash; commercial versus residential framework &mdash; is genuinely useful and defensible without needing the county detail.** It answers the searcher's real question, which is "does this apply to me," rather than pretending to know a fact we have not checked.
+
+### Also added
+
+`door buzzer installation Rockland County`, a service-combination term the set produced that no other county set has.
+
+## Source 5 — SIX AI SPECIMENS, Rockland (OWNER-SUPPLIED 2026-08-12) — STATE-LINE PREDICTION VALIDATED, AND A NEW TRAP IDENTIFIED
+
+Part 28 recorded the prediction: *expect them to describe Rockland purely as a New York county with no mention of the state line.*
+
+| Claim | Result |
+|---|---|
+| **Mentions the New Jersey border** | **0 of 6** |
+| Describes it as a New York county | 6 of 6 |
+| Names sub-county places correctly (New City, Nyack, Nanuet, Congers, Valley Cottage, Suffern) | 1 of 6 — **correct** |
+| **Home improvement contractor licensing** | **6 of 6** |
+| NYS Article 6-D for security and alarm | 6 of 6 — correct |
+| Mentions residential alongside commercial | 3 of 6 |
+| Campus, multi-building or regulated space | 0 of 6 |
+
+### ⭐ THE MORE IMPORTANT FINDING: A CLAIM REPEATED SIX TIMES IS NOT SIX PIECES OF EVIDENCE
+
+**All six specimens state that Rockland handles low voltage through home improvement contractor licensing categories.** The owner-supplied PASF local note says the same thing. That is seven independent-looking restatements of one claim.
+
+**It remains unverified against any primary source captured for this project.**
+
+This is the sharpest illustration in the whole project of why the provenance rules exist. A claim restated identically across six generated answers looks like consensus and is structurally indistinguishable from a single unsourced assertion that propagated. **Six echoes are not six witnesses.**
+
+The page handles it the way it handled Greenburgh and "Suffolk County Consumer Affairs" &mdash; the Q&A added in the previous pass answers the searcher's real question (does this framework apply to *my* building, commercial or residential) without asserting the county specifics, and says plainly that the categories have not been verified against a county source.
+
+**Section 10.5 now names the trap directly**, because it is more useful to the reader than any individual fact: every generated answer states this, it may well be right, and a claim repeated six times with no source given is one claim with an echo. Ask the county, not the summary.
+
+### The residential signal is real and correctly handled
+
+Three of six mention residential or homes alongside commercial use, consistent with the home-improvement framing. The page is commercial-focused and the commercial-versus-residential distinction drawn in the licensing Q&A is directly responsive to that &mdash; it tells a residential enquirer that a different framework applies rather than silently answering a commercial question.
+
+### Six specimen batches, four failure modes now
+
+| Batch | Failure mode |
+|---|---|
+| Boroughs | Nothing local at all |
+| Nassau, Suffolk | Correct headline, stop above the decision |
+| Westchester | Right on the hard structural point, **wrong on the specific number** |
+| **Rockland** | **Locally accurate, and an unsourced claim repeated to the point of looking settled** |
+
+The fourth is the hardest to challenge, because nothing in the presentation distinguishes a well-sourced fact from a widely-copied one. **Check the remaining four county batches for a claim appearing in all six with no source &mdash; that uniformity is a signal, not a reassurance.**
+
+## Sources 1, 4, 6 — Rockland Reddit, ATP, Bing (OWNER-SUPPLIED 2026-08-12)
+
+20 related terms and a 21-question ATP set. **All 20 terms present, all six ATP intents covered, zero insertions.**
+
+### ⭐ THE SET INDEPENDENTLY CONFIRMED THE PREVIOUS PASS
+
+This is the useful part. The Bing set repeats **`low voltage contractor Congers`** and **`low voltage contractor Valley Cottage`** — the two pairings that had *passed* the two-head matrix and were caught only by the explicit check against the PASF set an hour earlier.
+
+**Two independent supplied sets asking for the same two pairings that the matrix rated as satisfied.** That is about as clear a demonstration as the project will get that the matrix and the explicit check do different jobs, and that the matrix alone would have shipped this page with both missing.
+
+Similarly, the ATP set asks *"Why do some low voltage jobs need a home improvement license in Rockland?"* — validating the Q&A added in the previous pass, and confirming that treating the licensing note as a real searcher question rather than a stray claim was correct.
+
+### The value of a second set on the same area
+
+Across this project, second and third sets on one area have consistently done one of two things: exposed something the first set did not ask for, or **confirmed that a fix made from the first set was correctly scoped**. Neither is wasted. The Rockland pair is the cleanest example of the second kind.
+
+### Source 1 — Reddit EMPTY, eleventh region
+
+Retired since Part 17. Not to be attempted on the four remaining county pages.
+
+## Pre-assembly matrix — fourth run
+
+Run against the county's full municipal roster. **All 26 anticipated terms present with zero insertions** — the first county page to achieve that at draft stage. But the matrix caught **9 of 20 municipalities under two head terms** (Piermont, Stony Point, Pomona, Clarkstown, Ramapo, Orangetown, Congers, Valley Cottage, Sloatsburg) and **only 3 named roads against a minimum of 8**.
+
+Both fixed before assembly in one edit pass. Final: **20 municipalities at 2+ head terms, 15 roads and routes.**
+
+**The street count is the one to watch.** Terms and pairings passed; roads were at 3. A page can satisfy every keyword check and still read as researched at map level. The street audit has to run pre-assembly alongside the matrix, not after.
+
+## Orphan pattern pre-empted
+
+Part 27 recorded that every new page in a built silo starts orphaned. **All ten peer pages plus the HV hub were wired to Rockland during registration rather than after**, so the page shipped at 10 inbound instead of 2. **Final spread across all twelve: 9–11.** First page in the silo to avoid the orphan condition entirely.
+
+## Faults caught in final QA
+
+Two: AI Overview at 795 words (under the 800 floor), extended with a buyer action on cross-state bidding; and two duplicate questions against Bronx and Suffolk, reworded. **Zero duplicate questions across all 66 page pairs.**
+
+## Routing
+
+Phone **(845) 640-3835**, **Bronx GBP**, breadcrumb and links **UP to the Hudson Valley hub**. Sitemap 0.7/monthly, `_redirects` 200 + 2 alias 301s, mega-nav key.
+
+## Silo status: 12 built, 4 remaining
+
+Orange, Putnam, Dutchess, Ulster — all Hudson Valley, all lower volume than Westchester and Rockland.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
