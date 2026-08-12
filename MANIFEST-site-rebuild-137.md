@@ -1,67 +1,58 @@
-# site-rebuild-137 — Low voltage silo, 10 pages
+# site-rebuild-137 — Low voltage silo, 11 pages
 
-**Baseline:** site-rebuild-135. No GitHub, no Netlify, no deploy. **1114 changed and new files.**
-
-**All of NYC and all of Long Island complete.**
+**Baseline:** site-rebuild-135. No GitHub, no Netlify, no deploy. **1209 changed and new files.**
 
 | Page | Phone | GBP | Thesis |
 |---|---|---|---|
 | NYC hub | (800) 486-0943 | Brooklyn | citywide code and permits |
 | Long Island hub | (800) 486-0943 · 516 · 631 | Brooklyn | Nassau vs Suffolk comparison |
-| Hudson Valley hub | (800) 486-0943 · 914 · 845 | Bronx | county regimes, 48V, Yonkers |
+| Hudson Valley hub | (800) 486-0943 · 914 · 845 | Bronx | county regimes compared |
 | Manhattan | (929) 560-0737 | Bronx | building access, vertical distribution |
 | Brooklyn | (347) 934-8335 | Brooklyn | converted industrial, structure and distance |
 | Queens | (347) 434-6392 | Bronx | new construction, rough-in stage |
 | Bronx | (646) 490-0629 | Bronx | cold chain, wash-down, 24-hour facilities |
 | Staten Island | (347) 934-8335 | Brooklyn | legacy plant, campus backbone |
 | Nassau County | (516) 346-5778 | Brooklyn | jurisdictional fragmentation |
-| **Suffolk County** | **(631) 407-2884** | **Brooklyn** | **centralised, enforced, published — NEW** |
+| Suffolk County | (631) 407-2884 | Brooklyn | centralised, enforced, published |
+| **Westchester County** | **(914) 877-2578** | **Bronx** | **the threshold is 48 volts, not 50 — NEW** |
 
-**Zero duplicate questions across all 45 page pairs. Zero duplicate AI-Overview headings across all ten.**
-
----
-
-# Suffolk — the inverse of Nassau
-
-Nassau's thesis is that there is no single answer. **Suffolk's is that there is one, it's written down, and it has teeth.**
-
-From Suffolk County Code Chapter 924 and county licensing materials: a **Restricted Electrical Licence** alongside the Master licence · **two-year terms** with CE before renewal (four hours restricted, eight master) · line-voltage connections reserved to a **Suffolk Master** · **$750 first offence, $1,500 thereafter** · and **a public listing of those found non-compliant**. The county CE catalogue names low voltage and communications topics directly, indicating the trade sits within county scope rather than adjacent to it.
-
-**The public non-compliance listing is the sharpest detail in the whole county set.** It turns an abstract licensing requirement into a verification tool a buyer can actually use, and no general source mentions it. The page presents it that way — something the reader can check, not a threat.
-
-Plus the geography: **Suffolk runs roughly 86 miles east to west.** Multi-site work is a logistics question, priced as a stated line rather than absorbed. The East End seasonal calendar gets its own treatment — a building quiet in March is at capacity in July.
-
-## Three Long Island pages, three non-overlapping arguments
-
-| Page | Argument |
-|---|---|
-| Long Island hub | Nassau vs Suffolk — the comparison |
-| Nassau child | Within-county fragmentation — 64 villages, three Examining Boards |
-| Suffolk child | Centralised, enforced, published — and 86 miles long |
-
-Parent answers the comparison; each child answers its own county's condition.
+**Zero duplicate questions across all 55 page pairs. Zero duplicate AI-Overview headings. 11 unique heroes.**
 
 ---
 
-# Pre-assembly matrix, second run
+# Westchester — the sharpest fact in the silo
 
-Run on raw body files before assembly. Caught **4 weak towns** (Farmingdale, Bohemia, Ronkonkoma, Commack) and **2 missing terms** (`low voltage license` and `low voltage permit` paired with Suffolk). All fixed at body-file stage — one edit pass, no schema or image rework.
+**Westchester County defines its Special Electrician licence category at 48 volts and 5 amperes.** Every other source in this project — industry guides, national contractors, and all four AI specimen batches — says fifty.
 
-Final: **13 towns and corridors at 2+ head service terms, 8 named roads, 24 of 26 anticipated terms present before any term set arrives.**
+Two volts is a narrow band and a real one. **A piece of equipment can sit inside the low-voltage definition in the Bronx and outside it in Yonkers, ten minutes up the road.** An answer that is correct nationally and wrong locally is more dangerous than one that is obviously hedged, because nothing about it looks like a guess.
 
-One duplicate question against Nassau caught at final QA and reworded.
+Supporting county facts: the county runs its own **Electrical Licensing Board** through Consumer Protection at **148 Martine Avenue, White Plains, (914) 995-2657**, with **four hours of continuing education before a licence is renewed or shelved** — which gives a buyer both a place to verify and a question worth asking.
+
+## Second pillar: Yonkers inverts the general rule
+
+City permit materials state **all low voltage work requires a separate electrical permit**, the only exception being HVAC control wiring in one and two family residences, with central-panel fire alarm routing through a Fire Department building permit. **Permits issue only to contractors registered or licensed within city limits** — so a perfectly qualified contractor from the next town may be unable to pull the permit your building needs.
+
+That is the reverse of what nearly every general summary supplies, in the largest city in the county.
 
 ---
 
-# Prediction on record for the Suffolk specimen batch
+# Pre-assembly matrix — third run, biggest catch yet
 
-Per the Nassau finding that county specimens carry real local content: **expect them to name Chapter 924 or county-level licensing correctly, and to miss the $750/$1,500 penalties, the two-year terms, the CE requirement and the public non-compliance listing.** Testable against a supplied batch.
+Run against the **county's full municipal roster** rather than the places that happened to appear in the draft — the correction forced by the Brookhaven miss on Suffolk.
+
+**Caught 15 of 22 municipalities under two head terms**, including Scarsdale, Port Chester, Greenburgh, Mamaroneck, Ossining and New Castle at **zero**. All fixed before assembly in one edit pass. Final: **22 municipalities at 2+ head terms, 11 named roads and routes.**
+
+# Three faults caught in final QA
+
+AI Overview at 795 words, under the 800 floor — extended with a buyer diagnostic on clinical containment. **Four duplicate questions** against Staten Island, Hudson Valley, Nassau and Suffolk. **Thirteen shared paragraphs with Suffolk**, reduced to five boilerplate by rewriting nine.
+
+**The Nassau and Suffolk duplicates appeared because those pages are recent and share a county-page shape.** The closer two pages sit in build order and structure, the harder the dedup pass has to work.
 
 ---
 
-# QA — all ten pass
+# QA — all eleven pass
 
-20 sections each · 7 JSON-LD blocks · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 805–1,173 words across 7 H3 · correct phone per area · 14 images with unique area-bearing alts and titles · zero malformed or broken links · zero duplicate questions across 45 pairs · zero duplicate AI-Overview headings · zero cross-area leakage. Rendered clean at 390x844.
+20 sections each · 7 JSON-LD blocks · favicon block on all · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 805–1,173 words across 7 H3 · correct phone per area · 14 images with unique area-bearing alt and title · **11 unique heroes, worst image-set overlap 11/14** · zero broken or malformed links · zero duplicate questions across 55 pairs · zero cross-area leakage. Rendered clean at 390x844.
 
 ---
 
@@ -69,188 +60,219 @@ Per the Nassau finding that county specimens carry real local content: **expect 
 
 1. **`(555) 123-4567` live on deployed Manhattan, Queens and Brooklyn pages** — active lead leak.
 2. **`300 Cadman Plaza West`** in schema on 166 Brooklyn pages, not in any routing rule.
-3. **6 child pages unbuilt** — Westchester, Rockland, Orange, Putnam, Dutchess, Ulster. **Westchester and Rockland carry the volume**, and Westchester holds the **48-volt** finding that contradicts every specimen batch captured so far.
+3. **5 child pages unbuilt** — Rockland, Orange, Putnam, Dutchess, Ulster. **Rockland carries the remaining volume.**
 
-**Nothing invented.** Suffolk licensing cites County Code Chapter 924 and county published materials, marked general information rather than legal advice, with a direction to confirm the current requirement with the county.
-
----
-
-## Addendum — Suffolk term set: a licence term is a top-5 commercial keyword
-
-25 related terms and 16 PAA questions audited. **Three gaps, and one is the most commercially significant miss in the project so far.**
-
-### A named licence term ranks fifth in commercial intent
-
-The supplied set ranks **`low voltage restricted license Suffolk` at number five**, above several generic service terms.
-
-**No other area in this portfolio has produced a licence term anywhere in a top-five list.** Every other area's list is service-plus-geography — contractor, structured cabling, data cabling, Cat6, cost. Suffolk substitutes a specific statutory credential into that list.
-
-That's a strong signal about buyer behaviour here. People aren't only searching for a contractor — **they're searching for the credential by name, which means they intend to verify.** It confirms the page's thesis from the demand side: a county that publishes penalties and maintains a public non-compliance listing produces buyers who check.
-
-**The page had the licence but not the search phrase.** It described the Restricted Electrical Licence accurately throughout while never using the words searchers actually type. Now carried in both the licensing Q&A and the terminology block, phrased as what people search for versus what the county calls it.
-
-**Rule for the remaining six pages:** check whether any licence or code term appears in the commercial intent ranking, and if so carry the searcher's phrasing alongside the official one. **Westchester is the likely candidate** — the Special Electrician licence and the 48-volt threshold may behave the same way.
-
-### Two towns missed entirely
-
-**Babylon and Brookhaven** — two of Suffolk's ten towns, and Brookhaven the largest by area — appeared at **zero head terms**. The pre-assembly matrix ran against a town list that omitted both, so the audit passed a page genuinely missing them.
-
-**The matrix is only as good as the place list fed into it.** For the six Hudson Valley pages, the town list must be built from the county's actual municipal roster before the matrix runs — not from whichever towns happen to appear in the draft copy. Both now at three head terms.
-
-### Independent confirmation
-
-The supplied key local note reads: *Suffolk County requires a Low Voltage Restricted License (stricter than Nassau).* That matches the Nassau/Suffolk split the silo is built on, arrived at independently.
-
-Post-insertion QA: all ten pages pass. Zero duplicate questions across 45 pairs, zero duplicate AI-Overview headings, div balance intact.
+**Nothing invented.** Westchester licensing cites County Department of Consumer Protection materials; Yonkers permitting cites City of Yonkers published permit materials. Both marked general information rather than legal advice, with a direction to confirm current requirements.
 
 ---
 
-## Addendum 2 — re-inspection: a head-term count can hide the pairing that matters
+## Addendum — Suffolk Bing, DuckDuckGo, ATP and Reddit sets
 
-The Suffolk term set was supplied a second time, identical. A repeated identical input is treated as a bug report requiring re-inspection rather than a rebuild, so **the shipped ZIP was opened and audited directly** rather than the working copy.
+29 related terms and a 22-question ATP set audited against the built page. **All 13 audited terms present, zero insertions required.** Five of six distinct ATP intents already covered.
 
-**Confirmed shipped correctly:** the `low voltage restricted license` phrasing and both Babylon pairings from the previous turn were present in the delivered package.
+### The licence term rose from #5 to #3 in commercial intent
 
-**One real gap found that the previous audit's summary had masked.** Brookhaven showed **three head terms** and passed the "two or more" rule comfortably. But the three present were low voltage contractor, structured cabling and data cabling — **and the term searchers actually use is `network cabling Brookhaven`**, which was the one missing.
+The earlier Suffolk set ranked `low voltage restricted license Suffolk` fifth. **This combined set ranks it third** — above Cat6 installation and structured cabling cost.
 
-**A count of head terms is not the same as coverage of the head terms that were asked for.** The two-or-more rule protects against a place name appearing bare; it does not guarantee a specific supplied pairing is present. Both checks are now required:
+More striking is the concentration in the ATP data: **six of twenty-two questions are about the Restricted Licence specifically** — who needs it, what it is, why the county requires it, when it applies, how it differs from Nassau, and how to get one.
 
-1. **Matrix check** — every place at 2+ head terms, run pre-assembly against the county's full municipal roster.
-2. **Explicit check** — every pairing named in a supplied set verified individually, never inferred from the matrix passing.
+**No other area in this portfolio comes close.** Most areas produce one licensing question among twenty-plus. Suffolk produces six, and the term outranks core service phrases. **This is a county where the credential is itself the search category** — which validates building the page around enforcement and verification rather than around service description.
 
-Brookhaven now carries all four head terms. All ten pages re-verified: zero duplicate questions across 45 pairs, div balance intact, no broken or malformed links.
+### One ATP question is deliberately not answered
 
+*"How do I get a Low Voltage Restricted License in Suffolk County?"* is **applicant intent, not buyer intent.** Someone asking that wants to become a licensed installer, not hire one.
 
----
+The standing rule in this project is that career-intent queries — salary, "how to become", application routes — are never answered on a commercial page. Answering it would pull traffic that cannot convert and dilute a page built for property owners and facility managers.
 
-## Addendum 3 — image rotation audit
+The page answers the five buyer-side licence questions and omits the applicant-side one. **That split should hold for the remaining pages: if a supplied ATP set contains an application-route question, note it and skip it rather than treating volume as a reason to chase it.**
 
-Run across all ten pages after a report that rotating images and alt tags were missing.
+### Reddit
 
-### Already correct
-
-**Alt and title coverage was complete: 140 of 140 content images.** All carry the area name in alt, title and filename; alt never equals title; explicit width and height on every image; exactly one eager image per page; every ImageObject @graph carrying all fourteen entries. Rotation was working too — nine distinct orderings across ten pages.
-
-### Two genuine hero collisions found and fixed
-
-Comparing heroes **by image content rather than filename** — filenames differ per page because each is area-prefixed — found two pairs sharing the same photograph:
-
-| Collision | Pages |
-|---|---|
-| Crew ceiling cable pull | **NYC hub and Brooklyn** |
-| IDF rack patching | **Staten Island and Hudson Valley** |
-
-Resolved with heroes not used anywhere else:
-- **Brooklyn** → door lock and access control wiring detail, which suits its converted-industrial thesis better than a generic crew shot.
-- **Staten Island** → conference room display cabling in a business park suite, matching the Teleport campus argument.
-
-Each swap carried through figure markup, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and a full ImageObject @graph rebuild. Zero old filename references remain.
-
-### Why earlier checks missed it
-
-Every previous audit checked images **within** a page. **None compared heroes across pages** — and because each file is named for its own area, two pages can carry the same photograph under different filenames and pass every filename-based check.
-
-**The check has to compare image content, not filenames.** A perceptual hash of each hero across the silo catches it in one pass.
-
-### Standing check added
-
-1. **Hero uniqueness across the whole silo, compared by image content.**
-2. Fourteen content images per page, alt and title unique and never equal.
-3. Area name in filename, alt and title on every image.
-4. Exactly one eager image per page; explicit dimensions on all.
-5. ImageObject @graph count matching the page.
-
-Verified: **ten unique heroes, 140/140 images with area-bearing alt and title, zero rendered-blank images and zero empty alts at 390x844 across all ten pages.**
-
+EMPTY across nine regions now. Retired, and not to be attempted on the five remaining county pages.
 
 ---
 
-## Addendum 4 — the real image fault was set duplication
+## Addendum 2 — six Suffolk AI specimens: the prediction validated
 
-A second report of missing pictures on Nassau prompted a direct audit of the shipped ZIP. **All 14 Nassau images were present, valid, alt-tagged and rendering — zero broken, zero network failures.** Nothing was missing in the literal sense.
+Part 23 put a prediction on record before any Suffolk specimen batch existed: *expect them to name Chapter 924 or county-level licensing correctly, and to miss the $750/$1,500 penalties, the two-year terms, the CE requirement and the public non-compliance listing.*
 
-**But the complaint was correct.** Comparing image sets by content across the silo:
-
-| Pair | Shared photos |
-|---|---|
-| **Queens + Suffolk** | **14 of 14 — identical** |
-| **Nassau + Queens** | **14 of 14** |
-| **Nassau + Suffolk** | **14 of 14** |
-| Staten Island + Suffolk | 13 of 14 |
-
-**Only 18 photographs were serving 140 image slots.** Browsing Nassau after Queens, the page looks like it has no pictures of its own — which is exactly what "missing pictures" means from a reader's point of view, even though every file loads.
-
-### Five unused clean assets were sitting in uploads
-
-- **The `ChatGPT_Image_*` set (18 files) carries `800-486-0943` on the van and garments** — the emergency line, locked out of SEO landing pages. Correctly excluded, and it stays excluded.
-- **Five unused UUID assets are clean "LOW VOLTAGE DIVISION" branding with no phone number anywhere:** school corridor cable pull, school corridor ceiling tile, video wall install, electric strike wiring, storefront camera install.
-
-All five converted and distributed across Nassau, Queens, Suffolk and Staten Island.
-
-| Metric | Before | After |
+| Item | Predicted | Actual |
 |---|---|---|
-| Unique photos in silo | 18 | **20** |
-| Worst pair overlap | **14/14 identical** | **13/14** |
-| Nassau overlap with any page | 14/14 | **8–10/14** |
+| Names the Restricted Licence | hit | **6 of 6** |
+| States Suffolk is stricter than Nassau | — | **4 of 6** |
+| **$750 / $1,500 penalties** | **miss** | **0 of 6** |
+| **Two-year terms** | **miss** | **0 of 6** |
+| **Continuing education** | **miss** | **0 of 6** |
+| **Public non-compliance listing** | **miss** | **0 of 6** |
 
-### One fix created one new fault, caught in the same pass
+**Exactly right on all four miss items and on the hit.** This is the most accurate batch in the project — genuinely local, correctly stated, several telling the reader to verify the licence. Section 10.5 now credits that with the counts, then makes the sharper point: **not one of the six attaches any consequence to the rule, and none mentions the public listing exists to verify against.** Saying "make sure they hold it" without saying a means of checking exists stops one step short of useful.
 
-Swapping the Nassau hero to the school corridor image created a **new hero collision with Long Island**, which already used that photo as its hero. Caught by the hero-uniqueness check in the same run and resolved by moving Nassau to the electric strike image.
+### An unverified detail the specimens supply — deliberately NOT adopted
 
-**An image swap is not a local edit.** It touches figure, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and the ImageObject @graph — and it can create a collision elsewhere. The hero check re-runs after every swap, not only before.
+Two of six state the licence is issued by **"Suffolk County Consumer Affairs."** Plausible, possibly correct, but **not in any source captured for this project — so it has not been added to the page.**
 
-### Standing check extended
+This is exactly what the provenance rules exist to prevent. A confident, official-sounding attribution in AI output is not a source. The page continues to cite Chapter 924 of the Suffolk County Code, which is verified, and names no issuing department.
 
-**Image-set overlap between every pair of pages, compared by content, flagged above 13 of 14.** Per-page checks and hero uniqueness alone will happily pass two pages carrying identical sets.
+**Standing rule reinforced: never adopt a factual detail from a specimen batch.** Specimens are evidence of what generated answers say, not of what is true.
 
-Verified: 10/10 unique heroes · 140/140 images with unique area-bearing alt and title · @graph matching every page · zero broken images and zero empty alts at 390x844 across all ten.
+### Pattern across five batches
 
+| Batch | Locally specific content |
+|---|---|
+| Brooklyn / Queens / Staten Island | **none** — same text, borough name swapped |
+| Nassau | yes — no county-wide licence, contrasted with Suffolk |
+| **Suffolk** | **yes, strongest** — names the licence, says stricter than Nassau |
+
+**Borough batches carry no local content. County batches do.** So the commercial argument differs by page type: on borough pages the gap is that answers say nothing local; on county pages the gap is that they stop one level above the decision. **The remaining five county pages should be written to the second.**
+
+All eleven pages re-verified: AI Overview 853–1,173 words across 7 H3, zero duplicate questions across 55 pairs, zero duplicate headings, div balance intact.
 
 ---
 
-## Addendum 5 — full photo library now in rotation
+## Addendum 3 — Westchester PAA and PASF
 
-All 18 remaining supplied photographs converted and distributed across the ten pages, six per page on a stride that gives every page a different combination.
+16 PAA questions and 25 related terms audited. **21 of 23 present; two town pairings added** — `low voltage contractor White Plains` and `network cabling Scarsdale`.
 
-| Metric | Before | After |
+### The set names Greenburgh on permits, not just Yonkers
+
+The supplied local notes state: *"Some towns (Yonkers, Greenburgh, etc.) require permits even for low-voltage work."*
+
+The page was built naming **Yonkers only**, because Yonkers is the one whose position is verified against published city permit materials. **Greenburgh is not in any source captured for this project.**
+
+Handled per the provenance rule established on Suffolk: the claim is **not asserted as fact**. A new Q&A was added — *"Is Yonkers the only Westchester municipality that permits low voltage work?"* — stating that Yonkers is the one with published materials saying so, that Greenburgh is commonly named alongside it, and that for any other municipality the answer is to confirm with that building department rather than assume either way.
+
+**That's the right shape for a claim of this type: name it, attribute it as commonly reported rather than verified, give the reader the action.** Asserting it outright would adopt an unverified detail; omitting it would withhold something a Greenburgh owner needs to check.
+
+### The set uses "Westchester" bare, not "Westchester County"
+
+All 25 terms use the short form. The page uses the long form throughout, which still matches because the county name contains the bare form — and the bare form appears 26 times in body copy independently. No change needed, but worth recording: **on county pages the short form is what searchers type.** Copy written exclusively in the long form would be a near miss rather than a hit.
+
+### Prediction still open
+
+The Westchester specimen batch is predicted to state **50 volts rather than 48**. The PAA and PASF sets don't test that — it needs the AI Overviews. Prediction stands.
+
+All eleven pages re-verified: 20 sections, 7 JSON-LD, FAQ 12 == schema 12, AI Overview 853–1,173 words, 13–14 Q&A, zero duplicate questions across 55 pairs, **all 22 Westchester municipalities at 2+ head terms**, zero broken images or empty alts.
+
+---
+
+## Addendum 4 — Westchester Bing, DuckDuckGo, ATP and Reddit
+
+29 related terms and a 21-question ATP set. **12 of 13 audited terms present; one insertion.** All six distinct ATP intents already covered.
+
+### A municipality-level permit term — first in the project
+
+The DuckDuckGo set contains **`low voltage permit Yonkers`**.
+
+**No other area in this portfolio has produced a sub-county permit search term.** Nassau produced village-level *service* terms; Suffolk produced a county *licence* term. This is the first time searchers are asking about permitting at the level of a single municipality inside a county.
+
+That is direct demand-side confirmation of the page's second pillar. The Yonkers permit regime went into the page from city permit materials because it inverts the general rule — the search data now shows people looking for exactly that. The phrase is now carried in the Yonkers passage in the searcher's own wording.
+
+**Carry forward:** on the remaining county pages, check whether any single municipality generates its own permit or licence term. Where one does, that municipality deserves named treatment rather than being folded into a coverage list.
+
+### Three named-place patterns now distinguished
+
+| Level | Example | Seen in |
 |---|---|---|
-| Unique photos in silo | 20 | **33** |
-| Worst pair overlap | 13/14 | **11/14** |
-| Unique heroes | 10/10 | **10/10** |
+| Neighbourhood + service | `structured cabling Williamsburg` | 4 of 5 boroughs |
+| Town/village + service | `structured cabling Garden City` | Nassau, Suffolk, Westchester |
+| **Municipality + permit** | **`low voltage permit Yonkers`** | **Westchester only** |
 
-New subject matter now covered: van load-out, retail storefront ceiling pull, exterior weatherproof enclosure, riser conduit pull, tone-generator tracing, rack switch configuration, lobby video intercom, maglock install, electric strike with keypad, ceiling speaker install, conference PTZ camera mount, recessed display box, stud rough-in boxes, IDF patch panel build, access point from a lift, fiber fusion splicing and splice tray work.
+The third is the most commercially interesting: **a permit search sits closer to the transaction than a service search.** Somebody searching a permit requirement by municipality already has a building and a project.
 
-Every new image carries area-specific alt text, a distinct title, a caption, correct dimensions and an ImageObject entry. Verified across all ten pages: 140/140 images with unique area-bearing alt and title, alt never equal to title, @graph matching each page, one eager image per page, zero broken images and zero empty alts at 390x844.
+### Reddit
+
+EMPTY across ten regions. Retired, not to be attempted on the four remaining county pages.
+
+All eleven pages re-verified: zero duplicate questions across 55 pairs, div balance intact, favicon on all, no broken links.
+
+---
+
+## Addendum 5 — six Westchester AI specimens: the 48-volt prediction validated
+
+Part 26 recorded the prediction before any Westchester specimen existed: *expect them to state 50 volts rather than 48.*
+
+| Claim | Result |
+|---|---|
+| **States 50 volts** | **6 of 6** |
+| **States 48 volts** | **0 of 6** |
+| Requirements handled municipally, not county-wide | 6 of 6 — **correct** |
+| Names Yonkers as requiring permits | 4 of 6 — **correct** |
+| Names Greenburgh | 3 of 6 |
+| County Electrical Licensing Board | 0 of 6 |
+| 148 Martine Avenue / county contact | 0 of 6 |
+| Four-hour CE before renewal | 0 of 6 |
+
+### The finding is sharper than "they got it wrong"
+
+**These are good answers.** All six correctly identify that Westchester handles requirements municipally rather than county-wide, four name Yonkers specifically, several tell the reader to check the town. Genuinely local, genuinely useful, better than the borough batches on every measure.
+
+**And all six state the wrong threshold for this county.**
+
+That combination *is* the argument, and section 10.5 was rewritten to make it rather than to score a point — crediting what they get right first, then the count (six answers, six times fifty, zero mentions of forty-eight), then the conclusion that matters: **being correct about the hard part is no guarantee of being correct about the number.** An answer can be careful, locally researched and right about municipal structure and still hand you the wrong volts, with nothing in its presentation signalling which part to distrust.
+
+### Greenburgh corroborated — still not adopted as fact
+
+Three of six name Greenburgh alongside Yonkers, matching the owner-supplied local note. Four independent restatements of the same claim.
+
+**It remains unverified against a primary source and the page still does not assert it.** The Q&A added last pass describes Greenburgh as *commonly named alongside* Yonkers and directs the reader to the building department. Corroboration across generated answers raises confidence the claim circulates widely; it does not make it a source. The phrasing stays as written.
+
+### Five batches, three distinct failure modes
+
+| Batch type | What they get wrong |
+|---|---|
+| Boroughs | Nothing local at all — same text, name swapped |
+| Nassau, Suffolk | Correct headline, **stop one level above the decision** |
+| **Westchester** | **Correct on the hard structural point, wrong on the specific number** |
+
+The third is the hardest for a reader to spot. **The remaining four county pages should be checked for a Westchester-type error specifically** — a locally accurate answer carrying one wrong figure — rather than assumed to fail the Nassau/Suffolk way.
+
+All eleven pages re-verified: AI Overview 868–1,173 words across 7 H3 with 3 paragraphs each, zero duplicate questions across 55 pairs, zero duplicate headings, div balance intact.
 
 
 ---
 
-## Addendum 6 — favicon
+## Addendum 6 — sitemap, linking, streets and landmarks audit across all 11 pages
 
-Reported missing on the low-voltage pages. Confirmed, and **the scope was wider than reported.**
+### Registration — clean
+sitemap.xml valid, **1,891 URLs**, closing tag intact. Three hubs at 0.9/weekly, eight children at 0.7/monthly. Every page has a 200 rewrite plus two alias 301s, **no stale 301s pointing new slugs at .html**. mega-nav carries all eleven, passes `node --check`.
 
-**All ten low-voltage pages carried zero favicon links** while the homepage carries four. All four asset files were on disk the whole time — the head block was simply never carried into the new pages.
+### Hub-and-spoke — clean
+NYC hub → all 5 boroughs ✓ · Long Island hub → Nassau + Suffolk ✓ · Hudson Valley hub → Westchester ✓ · every child → its own hub ✓ 8/8 · sibling mesh complete ✓
 
-### Scope was 18 pages, not 10
+### Inbound links badly skewed by build order — fixed
 
-A sitewide sweep found 1,880 of 1,899 HTML files already had the block. The pages without it:
+Structurally correct, numerically lopsided:
 
-- the **ten low-voltage** pages
-- **eight parking-lot-camera** pages — Brooklyn, Manhattan, Staten Island, NYC, Long Island, Hudson Valley, Nassau, Suffolk
-- `googleb71cfc9ca1a95ac4.html`, a Search Console verification file that correctly has no head and is excluded
+| Group | Inbound before |
+|---|---|
+| Boroughs and hubs | 8–10 |
+| Nassau, Suffolk | **3** |
+| **Westchester** | **2** |
 
-The parking-lot pages were built in an earlier session with the same omission. **Reporting it on one silo surfaced it on another.**
+The build-order artifact caught in the earlier linking audit had **reappeared** as the county pages were added — each new page linked back, nothing linked forward. **The three newest and most commercially valuable pages were the most orphaned in the silo.**
 
-### Cause
+**19 links added.** The five boroughs and NYC hub now link across to all three county pages; Nassau and Suffolk link to Westchester. **Final inbound spread 8–10**, from 2–10.
 
-Each page inherits its head from a donor page, then rewrites title, description, canonical, OG and Twitter. The donor used for the first page in the silo lacked the favicon block, and every page after inherited the gap. **One missing element in a donor propagates silently through a whole silo, because nothing in the per-page QA tested for it.**
+**This is a recurring pattern, not an incident.** Every addition to a built silo starts orphaned. The inbound-balance check runs after every page added, not once at the end.
 
-### Fixed
+### Streets and landmarks — all pass
 
-Block inserted after the canonical tag on all 18 pages. **Sitewide coverage now 1,898 of 1,898.** Browser-verified: all four links resolve, every icon request returns 200, no duplicate head, canonical or JSON-LD introduced, all ten low-voltage pages still at 20 sections, 7 JSON-LD blocks, 14 images.
+Every landmark from each page's research present; every page clears the **8-road minimum**:
 
-### Standing check added
+| Page | Landmarks | Roads + routes |
+|---|---|---|
+| NYC | 5/5 | 21 |
+| Manhattan | 6/6 | 11 |
+| Brooklyn | 7/7 | 9 |
+| Queens | 7/7 | 10 |
+| Bronx | 6/6 | 13 |
+| Staten Island | 7/7 | 11 |
+| Long Island | 4/4 | 17 |
+| Hudson Valley | 5/5 | 35 |
+| Nassau | 7/7 | 10 |
+| Suffolk | 7/7 | 11 |
+| Westchester | 7/7 | 12 |
 
-Head-element completeness diffed against the homepage on every page before delivery: four icon links resolving · exactly one canonical, title and meta description · six OG and four Twitter tags · exactly one `<head>`.
+### Re-verified after the link edits
 
-**The lesson: when a donor-derived head is missing an element, no amount of per-page content QA will find it.** The head has to be diffed against a known-good reference, not just checked for the fields the build script writes.
+All eleven: 20 sections · 7 JSON-LD parsing · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 868–1,173 words across 7 H3 · 14 images each · favicon block · zero malformed or broken links · zero duplicate questions across 55 pairs · rendered clean at 390x844.

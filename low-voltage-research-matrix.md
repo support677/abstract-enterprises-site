@@ -2229,6 +2229,68 @@ The section 10.5 opener previously read "'Requirements vary by municipality' is 
 
 16 PAA questions, 25 related terms. **Three gaps found, and one of them is the most commercially significant miss in the project so far.**
 
+## Source 5 — SIX AI SPECIMENS, Suffolk County (OWNER-SUPPLIED 2026-08-12) — THE PART 23 PREDICTION VALIDATED
+
+Part 23 put a prediction on record before any Suffolk specimen batch existed: *expect them to name Chapter 924 or county-level licensing correctly, and to miss the $750/$1,500 penalties, the two-year terms, the CE requirement and the public non-compliance listing.*
+
+**Tested against the supplied batch:**
+
+| Item | Predicted | Actual |
+|---|---|---|
+| Names the Restricted Licence | hit | **6 of 6** |
+| States Suffolk is stricter than Nassau | — | **4 of 6** |
+| Chapter 924 named | — | 0 of 6 |
+| **$750 / $1,500 penalties** | **miss** | **0 of 6** |
+| **Two-year terms** | **miss** | **0 of 6** |
+| **Continuing education** | **miss** | **0 of 6** |
+| **Public non-compliance listing** | **miss** | **0 of 6** |
+
+**The prediction was exactly right on all four "miss" items and on the hit.** This is the most accurate specimen batch in the project — genuinely local, correctly stated, and several tell the reader to verify the contractor holds the licence. Section 10.5 now credits that explicitly with the counts, then makes the sharper point: **not one of the six attaches any consequence to the rule, and none mentions that a public listing exists to verify against.** An answer that says "make sure they hold it" without saying a means of checking exists has stopped one step short of useful.
+
+### ⚠ An unverified detail the specimens supply — NOT adopted
+
+Two of six state the licence is issued by **"Suffolk County Consumer Affairs."** That is plausible and it may well be correct, but **it is not in any source captured for this project, and it has not been added to the page.**
+
+This is the exact failure mode the provenance rules exist to prevent. A specific, confident, official-sounding attribution appearing in AI output is not a source. The page continues to cite Chapter 924 of the Suffolk County Code, which is verified, and names no issuing department.
+
+**Standing rule reinforced: never adopt a factual detail from a specimen batch.** Specimens are evidence of what generated answers say, not evidence of what is true. If the issuing department matters commercially, it gets verified against a county source first.
+
+### Pattern across five specimen batches
+
+| Batch | Locally specific content |
+|---|---|
+| Brooklyn | none — borough name substituted |
+| Queens | none — identical text to Brooklyn |
+| Staten Island | none — identical text again |
+| Nassau | **yes** — no county-wide licence, contrasted with Suffolk |
+| **Suffolk** | **yes, strongest** — names the licence, says stricter than Nassau |
+
+**Borough batches carry no local content. County batches do.** The commercial argument therefore differs by page type: on borough pages the gap is that generated answers say nothing local at all; on county pages the gap is that they stop one level above the decision. Both are real; they are not the same argument, and the remaining five county pages should be written to the second.
+
+## Sources 1, 4, 6, 7 — Suffolk Reddit, ATP, Bing, DuckDuckGo (OWNER-SUPPLIED 2026-08-12)
+
+29 related terms and a 22-question ATP set. **All 13 audited terms present, zero insertions.** Five of six distinct ATP intents already covered; the sixth is a deliberate omission.
+
+### ⭐ THE LICENCE TERM ROSE FROM #5 TO #3
+
+The earlier Suffolk PASF set ranked `low voltage restricted license Suffolk` fifth in commercial intent. **This combined set ranks it third**, above Cat6 installation and structured cabling cost.
+
+More striking is the concentration inside the ATP data: **six of twenty-two questions are about the Restricted Licence specifically** — who needs it, what it is, why the county requires it, when it applies, how it compares to Nassau, and how to obtain one.
+
+**No other area in this portfolio has produced anything close.** Most areas generate one licensing question among twenty-plus. Suffolk generates six, and the term outranks core service phrases. That is a county where the credential is itself the search category, and it validates building the page around enforcement and verification rather than service description.
+
+### ⚠ One ATP question is deliberately not answered
+
+*"How do I get a Low Voltage Restricted License in Suffolk County?"* is **applicant intent, not buyer intent.** Somebody asking that wants to become a licensed installer, not hire one.
+
+The standing rule in this project is that career-intent queries — salary, "how to become", application routes — are never answered on a commercial page. Answering it would attract traffic that cannot convert and dilute a page built for property owners and facility managers.
+
+The page answers the five buyer-side licence questions and omits the applicant-side one. **That split holds for the remaining pages: if a supplied ATP set contains an application-route question, note it and skip it rather than treating volume as a reason to chase it.**
+
+### Source 1 — Reddit EMPTY, ninth region
+
+NYC, Long Island, Hudson Valley, Manhattan, Brooklyn, Queens, Bronx, Nassau, **Suffolk**. Retired since Part 17. Not to be attempted on the five remaining county pages.
+
 ### ⭐ A NAMED LICENCE TERM IS A TOP-5 COMMERCIAL KEYWORD
 
 The supplied set ranks **`low voltage restricted license Suffolk` at number five** in highest commercial intent, above several of the generic service terms.
@@ -2492,6 +2554,198 @@ Head-element completeness against the homepage, on every page, before delivery:
 4. Exactly one `<head>`.
 
 **The broader lesson: when a donor-derived head is missing an element, no amount of per-page content QA will find it.** The head has to be diffed against a known-good reference page, not just checked for the fields the build script happens to write.
+
+
+---
+
+# PART 26 — WESTCHESTER COUNTY (built 2026-08-12)
+
+## The differentiator: the number is 48, not 50
+
+**Westchester County defines its Special Electrician licence category at 48 volts and 5 amperes.** Every other source in this project &mdash; industry guides, national contractors, and all four AI specimen batches captured so far &mdash; states fifty volts.
+
+That two-volt gap is the sharpest single fact in the silo. It means a piece of equipment can fall inside the low-voltage definition in the Bronx and outside it in Yonkers, ten minutes up the road. An answer correct nationally and wrong locally is more dangerous than one that is vaguely hedged, because nothing about it looks like a guess.
+
+Supporting county facts: the county runs its own **Electrical Licensing Board** through the Department of Consumer Protection at **148 Martine Avenue, White Plains, (914) 995-2657**, requiring **four hours of continuing education before a licence is renewed or shelved.**
+
+## Second pillar: Yonkers inverts the general rule
+
+City permit materials state **all low voltage work requires a separate electrical permit**, the only exception being HVAC control wiring in one and two family residences, with central-panel fire alarm routing through a Fire Department building permit. **Permits issue only to contractors registered or licensed within city limits**, so a qualified contractor from the next town may be unable to pull the permit the building needs.
+
+That is the reverse of the assumption nearly every general summary supplies, in the largest city in the county.
+
+## Prediction from Part 22 now testable
+
+Part 22 recorded: *for Westchester, expect specimens to miss that the threshold is 48 volts, not 50.* The page is written so that if the supplied batch says fifty, section 10.5 is already correct without revision.
+
+## Sources 2 and 3 — Westchester PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions, 25 related terms. **21 of 23 audited terms present; two town pairings added** (`low voltage contractor White Plains`, `network cabling Scarsdale`).
+
+### ⭐ The set names GREENBURGH on permits — not just Yonkers
+
+The supplied key local notes state: *"Some towns (Yonkers, Greenburgh, etc.) require permits even for low-voltage work."*
+
+The page was built naming **Yonkers only**, because Yonkers is the one whose position is verified against published city permit materials. **Greenburgh is not in any source captured for this project.**
+
+The handling follows the provenance rule established on Suffolk. The claim is not asserted as fact and no Greenburgh permit requirement is stated. Instead a new Q&A was added &mdash; *"Is Yonkers the only Westchester municipality that permits low voltage work?"* &mdash; which says plainly that Yonkers is the one with published materials stating it, that Greenburgh is commonly named alongside it, and that for any other municipality the honest answer is to confirm with that building department rather than assume either way.
+
+**That is the right shape for a claim of this type: name it, attribute it as commonly reported rather than verified, and give the reader the action.** Asserting it outright would be adopting an unverified detail; omitting it entirely would withhold something a Greenburgh property owner needs to check.
+
+### The set uses "Westchester" bare, not "Westchester County"
+
+All 25 terms use the short form. The page uses "Westchester County" throughout, which still satisfies proximity matching because the county name contains the bare form, and the bare form appears 26 times in body copy independently. No change required, but worth recording: **for county pages, the short form is what searchers type**, and copy written exclusively in the long form would be a near miss rather than a hit.
+
+### Prediction still open
+
+Part 26 recorded that the Westchester specimen batch should be expected to state **50 volts rather than 48**. The supplied PAA and PASF sets do not test that &mdash; it needs the AI Overview batch. **Prediction stands.**
+
+## Source 5 — SIX AI SPECIMENS, Westchester (OWNER-SUPPLIED 2026-08-12) — THE 48-VOLT PREDICTION VALIDATED
+
+Part 26 recorded the prediction before any Westchester specimen existed: *expect them to state 50 volts rather than 48.*
+
+| Claim | Result |
+|---|---|
+| **States 50 volts** | **6 of 6** |
+| **States 48 volts** | **0 of 6** |
+| Requirements handled municipally, not county-wide | 6 of 6 — **correct** |
+| Names Yonkers as requiring permits | 4 of 6 — **correct** |
+| Names Greenburgh | 3 of 6 |
+| NYS Article 6-D for security and alarm | 6 of 6 — correct |
+| Westchester County Electrical Licensing Board | 0 of 6 |
+| 148 Martine Avenue / county contact | 0 of 6 |
+| Four-hour CE before renewal or shelving | 0 of 6 |
+
+### ⭐ The finding is sharper than "they got it wrong"
+
+**These are good answers.** All six correctly identify that Westchester handles requirements municipally rather than county-wide, four name Yonkers specifically, and several tell the reader plainly to check the town. That is genuinely local, genuinely useful, and better than the borough batches managed on any measure.
+
+**And all six state the wrong threshold for this county.**
+
+That combination is the argument, and section 10.5 was rewritten to make it rather than to score a point. The revised passage credits what they get right first, then states the count &mdash; six answers, six times fifty, zero mentions of forty-eight &mdash; and draws the conclusion that matters: **being correct about the hard part is no guarantee of being correct about the number.** An answer that is careful, locally researched and right about municipal structure can still hand you the wrong volts, and nothing in its presentation signals which part to distrust.
+
+### Greenburgh now corroborated across specimens — still not adopted as fact
+
+Three of six name Greenburgh alongside Yonkers, matching the owner-supplied PASF local note. That is four independent restatements of the same claim.
+
+**It remains unverified against a primary source, and the page still does not assert it.** The Q&A added in the previous pass describes Greenburgh as *commonly named alongside* Yonkers and directs the reader to confirm with the building department. Corroboration across generated answers raises confidence that the claim circulates widely; it does not make it a source. That phrasing is now well-supported as accurate and stays as written.
+
+### Five specimen batches, three distinct failure modes
+
+| Batch type | What they get wrong |
+|---|---|
+| Boroughs (Brooklyn, Queens, Staten Island) | Nothing local at all — same text, name swapped |
+| Nassau, Suffolk | Correct headline, **stop one level above the decision** |
+| **Westchester** | **Correct on the hard structural point, wrong on the specific number** |
+
+The third is the most instructive and the hardest to spot as a reader. **The remaining four county pages should be checked for a Westchester-type error specifically** &mdash; a locally accurate answer carrying one incorrect figure &mdash; rather than assumed to fail the Nassau/Suffolk way.
+
+## Sources 1, 4, 6, 7 — Westchester Reddit, ATP, Bing, DuckDuckGo (OWNER-SUPPLIED 2026-08-12)
+
+29 related terms and a 21-question ATP set. **12 of 13 audited terms present; one insertion.** All six distinct ATP intents already covered.
+
+### ⭐ A MUNICIPALITY-LEVEL PERMIT TERM — FIRST IN THE PROJECT
+
+The DuckDuckGo set contains **`low voltage permit Yonkers`**.
+
+**No other area in this portfolio has produced a sub-county permit search term.** Nassau produced village-level *service* terms; Suffolk produced a county *licence* term. This is the first time searchers are asking about permitting at the level of a single municipality inside a county.
+
+That is direct demand-side confirmation of the page's second pillar. The Yonkers permit regime was built into the page from city permit materials because it inverts the general rule; the search data now shows people are looking for exactly that. The phrase has been added to the Yonkers permitting passage in the searcher's own wording.
+
+**Carry forward:** on the remaining county pages, check whether any single municipality generates its own permit or licence term. Where one does, it is a signal that the municipality deserves named treatment rather than being folded into a coverage list.
+
+### Three named-place patterns now distinguished
+
+| Level | Example | Seen in |
+|---|---|---|
+| Neighbourhood + service | `structured cabling Williamsburg` | 4 of 5 boroughs |
+| Town/village + service | `structured cabling Garden City` | Nassau, Suffolk, Westchester |
+| **Municipality + permit** | **`low voltage permit Yonkers`** | **Westchester only** |
+
+The third is the most commercially interesting, because a permit search is closer to the transaction than a service search. Somebody searching a permit requirement by municipality already has a building and a project.
+
+### Source 1 — Reddit EMPTY, tenth region
+
+Retired since Part 17. Not to be attempted on the four remaining county pages.
+
+## Pre-assembly matrix — third run, biggest catch
+
+Run against the **county's full municipal roster** (6 cities, principal towns and villages) rather than the places that happened to appear in the draft &mdash; the correction forced by the Brookhaven miss on Suffolk.
+
+**Caught 15 of 22 municipalities under two head terms**, including Scarsdale, Port Chester, Greenburgh, Mamaroneck, Ossining and New Castle at **zero**. All raised before assembly, in one edit pass. Final: **22 municipalities at 2+ head terms, 11 named roads and routes.**
+
+## Faults caught in final QA
+
+Three, all fixed: AI Overview at 795 words (under the 800 floor) &mdash; extended with a buyer diagnostic on clinical containment; **four duplicate questions** against Staten Island, Hudson Valley, Nassau and Suffolk; and **13 shared paragraphs with Suffolk**, reduced to 5 boilerplate by rewriting nine.
+
+**Worth noting: the two Suffolk/Nassau duplicates only appeared because those pages are recent and share a county-page shape.** The closer two pages are in build order and structure, the harder the dedup pass has to work.
+
+## Routing
+
+Phone **(914) 877-2578**, **Bronx GBP**, breadcrumb and links **UP to the Hudson Valley hub**. Registered sitemap 0.7/monthly, `_redirects` 200 + 2 alias 301s, mega-nav key. HV hub and Bronx sibling repointed to the low-voltage child.
+
+## Silo status: 11 built, 5 remaining
+
+Rockland, Orange, Putnam, Dutchess, Ulster. **Rockland carries the remaining volume.**
+
+
+---
+
+# PART 27 — SITEMAP, LINKING, STREETS AND LANDMARKS AUDIT, 11 PAGES (2026-08-12)
+
+Full sweep across all eleven built pages.
+
+## Registration — clean
+
+sitemap.xml valid, **1,891 URLs**, closing tag intact. All three hubs at **0.9/weekly**, all eight children at **0.7/monthly**. Every page carries a 200 rewrite plus two alias 301s in `_redirects`, with **no stale 301s pointing new slugs at .html files**. mega-nav carries all eleven and passes `node --check`.
+
+## Hub-and-spoke — clean
+
+| Check | Result |
+|---|---|
+| NYC hub → all 5 boroughs | ✓ |
+| Long Island hub → Nassau, Suffolk | ✓ |
+| Hudson Valley hub → Westchester | ✓ |
+| Every child → its own hub | ✓ 8/8 |
+| Sibling mesh within each hub | ✓ complete |
+
+## ⚠ Inbound links badly skewed by build order — fixed
+
+The graph was structurally correct and numerically lopsided:
+
+| Group | Inbound before |
+|---|---|
+| Boroughs and hubs | 8–10 |
+| Nassau, Suffolk | **3** |
+| **Westchester** | **2** |
+
+The same build-order artifact caught in Part 19 had reappeared as the county pages were added: each new page linked back to its predecessors, and nothing linked forward. **The three newest and most commercially valuable county pages were the most orphaned in the silo.**
+
+**19 links added** &mdash; the five boroughs and the NYC hub now link across to all three county pages, and Nassau and Suffolk link to Westchester. **Final inbound spread 8–10 across all eleven pages**, from a spread of 2–10.
+
+**This is now a recurring pattern rather than an incident.** Every time a page is added to a built silo, the newest page starts orphaned. The inbound-balance check has to run after every addition, not once at the end.
+
+## Streets and landmarks — all pass
+
+Every landmark from each page's research section is present, and every page clears the **minimum eight named roads or routes**:
+
+| Page | Landmarks | Roads + routes |
+|---|---|---|
+| NYC | 5/5 | 21 |
+| Manhattan | 6/6 | 11 |
+| Brooklyn | 7/7 | 9 |
+| Queens | 7/7 | 10 |
+| Bronx | 6/6 | 13 |
+| Staten Island | 7/7 | 11 |
+| Long Island | 4/4 | 17 |
+| Hudson Valley | 5/5 | 35 |
+| Nassau | 7/7 | 10 |
+| Suffolk | 7/7 | 11 |
+| Westchester | 7/7 | 12 |
+
+## Full integrity re-verified after the link edits
+
+All eleven: 20 sections · 7 JSON-LD blocks parsing · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 868–1,173 words across 7 H3 · 14 images each · favicon block · zero malformed or broken links · zero duplicate questions across 55 pairs. Rendered at 390x844: zero blank images, zero empty alts, zero overflow.
 
 ---
 
