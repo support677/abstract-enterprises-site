@@ -2444,6 +2444,55 @@ Before every delivery, in addition to the per-page image checks:
 
 Verified after the fix: **ten unique heroes, 140 of 140 images with area-bearing alt and title, zero rendered-blank images and zero empty alts at 390x844 across all ten pages.**
 
+
+---
+
+# PART 25 — FAVICON AUDIT (2026-08-12)
+
+Reported missing on the low-voltage pages. Confirmed, and the scope was wider than reported.
+
+## The fault
+
+**All ten low-voltage pages carried zero favicon links**, while the homepage carries four:
+
+```
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+```
+
+All four asset files were present on disk the whole time. **The head block was simply never carried into the new pages.**
+
+## Scope was 18 pages, not 10
+
+A sitewide sweep found **1,880 of 1,899 HTML files already carried the block**. The 19 without it were:
+
+- the ten low-voltage pages
+- **eight parking-lot-camera pages** &mdash; Brooklyn, Manhattan, Staten Island, NYC, Long Island, Hudson Valley, Nassau, Suffolk
+- `googleb71cfc9ca1a95ac4.html`, a Google Search Console verification file that correctly has no head section and is excluded
+
+The parking-lot pages were built in an earlier session and had the same omission. **Reporting the fault on one silo surfaced it on another.**
+
+## Cause
+
+Every low-voltage page inherits its head from a donor page via a slice that captures everything before `<body>`, then rewrites title, description, canonical, OG and Twitter tags. The donor used for the first page in the silo did not carry the favicon block, and every subsequent page inherited that gap. One missing element in a donor propagates silently through an entire silo, because nothing in the per-page QA suite tested for it.
+
+## Fixed
+
+Block inserted immediately after the canonical tag on all 18 pages. **Sitewide coverage now 1,898 of 1,898.** Verified in a browser: all four links resolve, every icon request returns 200, and no page gained a duplicate head, canonical or JSON-LD block.
+
+## Standing check added
+
+Head-element completeness against the homepage, on every page, before delivery:
+
+1. Four favicon and apple-touch-icon links, files resolving.
+2. Exactly one canonical, one title, one meta description.
+3. Six OG tags and four Twitter tags.
+4. Exactly one `<head>`.
+
+**The broader lesson: when a donor-derived head is missing an element, no amount of per-page content QA will find it.** The head has to be diffed against a known-good reference page, not just checked for the fields the build script happens to write.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF

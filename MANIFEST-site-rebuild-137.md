@@ -221,3 +221,36 @@ All 18 remaining supplied photographs converted and distributed across the ten p
 New subject matter now covered: van load-out, retail storefront ceiling pull, exterior weatherproof enclosure, riser conduit pull, tone-generator tracing, rack switch configuration, lobby video intercom, maglock install, electric strike with keypad, ceiling speaker install, conference PTZ camera mount, recessed display box, stud rough-in boxes, IDF patch panel build, access point from a lift, fiber fusion splicing and splice tray work.
 
 Every new image carries area-specific alt text, a distinct title, a caption, correct dimensions and an ImageObject entry. Verified across all ten pages: 140/140 images with unique area-bearing alt and title, alt never equal to title, @graph matching each page, one eager image per page, zero broken images and zero empty alts at 390x844.
+
+
+---
+
+## Addendum 6 — favicon
+
+Reported missing on the low-voltage pages. Confirmed, and **the scope was wider than reported.**
+
+**All ten low-voltage pages carried zero favicon links** while the homepage carries four. All four asset files were on disk the whole time — the head block was simply never carried into the new pages.
+
+### Scope was 18 pages, not 10
+
+A sitewide sweep found 1,880 of 1,899 HTML files already had the block. The pages without it:
+
+- the **ten low-voltage** pages
+- **eight parking-lot-camera** pages — Brooklyn, Manhattan, Staten Island, NYC, Long Island, Hudson Valley, Nassau, Suffolk
+- `googleb71cfc9ca1a95ac4.html`, a Search Console verification file that correctly has no head and is excluded
+
+The parking-lot pages were built in an earlier session with the same omission. **Reporting it on one silo surfaced it on another.**
+
+### Cause
+
+Each page inherits its head from a donor page, then rewrites title, description, canonical, OG and Twitter. The donor used for the first page in the silo lacked the favicon block, and every page after inherited the gap. **One missing element in a donor propagates silently through a whole silo, because nothing in the per-page QA tested for it.**
+
+### Fixed
+
+Block inserted after the canonical tag on all 18 pages. **Sitewide coverage now 1,898 of 1,898.** Browser-verified: all four links resolve, every icon request returns 200, no duplicate head, canonical or JSON-LD introduced, all ten low-voltage pages still at 20 sections, 7 JSON-LD blocks, 14 images.
+
+### Standing check added
+
+Head-element completeness diffed against the homepage on every page before delivery: four icon links resolving · exactly one canonical, title and meta description · six OG and four Twitter tags · exactly one `<head>`.
+
+**The lesson: when a donor-derived head is missing an element, no amount of per-page content QA will find it.** The head has to be diffed against a known-good reference, not just checked for the fields the build script writes.
