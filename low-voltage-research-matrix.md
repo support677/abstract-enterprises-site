@@ -2077,6 +2077,373 @@ Street and landmark density is now verified before delivery alongside the pairin
 
 **Applies to the eight remaining county pages.** Those need town-level street naming — a Westchester page should carry Central Avenue and Mamaroneck Avenue, a Nassau page should carry Old Country Road and Hempstead Turnpike, and so on. Verify before packaging rather than after.
 
+
+---
+
+# PART 22 — NASSAU COUNTY (built 2026-08-12) — FIRST COUNTY CHILD
+
+## The differentiator: the most fragmented jurisdiction in the portfolio
+
+**Verified from Nassau County's own site and its Industrial Development Agency:** the county contains **2 cities, 3 towns, 64 incorporated villages and more than 60 unincorporated hamlets**, and *"each of these local municipalities have established their own respective zonings and building codes."* Nassau's villages maintain independent building departments in most cases, so an owner inside an incorporated village generally deals with the village rather than the town or county.
+
+- Town of Hempstead: **22 villages + 37 hamlets**
+- Town of North Hempstead: **30 incorporated villages + 20 hamlets**
+- Town of Oyster Bay: the eastern third
+- Cities: Long Beach, Glen Cove
+
+**Licensing (trade-sourced, flagged as such on the page):** the three towns each maintain **their own Examining Board of Electricians**; the City of Long Beach holds a separate licence; villages including Freeport, Rockville Centre, Valley Stream and Lynbrook operate their own licences or registration requirements, with inconsistent reciprocity. Garden City, Great Neck and Manhasset are named as villages running their own permitting rather than routing through the town.
+
+**The commercial line the page makes:** *"licensed in Nassau" is not a meaningful claim.* The meaningful question is which specific towns and villages a contractor holds.
+
+**Sourcing discipline:** municipal structure figures cite Nassau County and Nassau IDA directly. Licensing and permitting descriptions are attributed to trade references and explicitly framed as general orientation, not as any municipality's current requirement, with a direct instruction to confirm with the building department. The county structure is verified fact; the licensing detail is trade-reported and labelled that way.
+
+## §10.5 opens on its own failure
+
+Not the substitution finding (Queens holds that). The Nassau opener is **"'Requirements vary by municipality' is true and useless"** — every AI answer says it, it is accurate, and it leaves the reader exactly where they started. The page quantifies what varies and by how much, which is the part that has commercial value.
+
+## Pre-delivery matrix caught 10 weak pairings
+
+Run before packaging as standard. Result:
+
+| Before | Towns/villages at <2 head terms |
+|---|---|
+| **10 of 15** | North Hempstead, Oyster Bay (0), Mineola, Garden City, Great Neck, Manhasset, Uniondale, Freeport, Valley Stream (0), Syosset |
+
+All raised to 2. **Oyster Bay and Valley Stream were at zero head-term pairings despite being named on the page** — exactly the failure mode the matrix exists to catch, and it would have shipped invisible without it.
+
+## Dedup: 4 duplicate questions, 6 duplicate paragraphs
+
+Against Bronx, Staten Island, Long Island and Hudson Valley. All rewritten. Final: **zero duplicate questions across all 36 page pairs**, max 6 shared paragraphs (boilerplate only).
+
+Note the trend: this page was built from its own research, and the duplicate count is comparable to Bronx rather than to Queens. The rule holds.
+
+## Routing
+
+Phone **(516) 346-5778**, **Brooklyn GBP** per the routing table, breadcrumb and links UP to the **Long Island hub** (not NYC). Registered 0.7/monthly, `_redirects` 200 + 2 alias 301s, mega-nav key added. LI hub links down to Nassau.
+
+## Streets
+
+10 named roads and routes: Old Country Road, Franklin Avenue, Seventh Street, Stewart Avenue, Hempstead Turnpike, Jericho Turnpike, Northern Boulevard, Middle Neck Road, Sunrise Highway, Broadway, Route 110. Meets the 8-minimum.
+
+## Silo status: 9 built, 7 remaining
+
+Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess, Ulster. **Westchester and Rockland carry the county-level volume.**
+
+**Carry forward:** Suffolk is the natural contrast to Nassau &mdash; it is *centralised* where Nassau is fragmented, with county-level Chapter 924 licensing, penalties and a public non-compliance list. Build it as the mirror image, and make sure the Long Island hub's Nassau-vs-Suffolk framing does not get duplicated on either child.
+
+
+---
+
+# PART 22 — NASSAU COUNTY (built 2026-08-12) — FIRST COUNTY CHILD
+
+## The differentiator: Nassau is the most fragmented jurisdiction in the portfolio
+
+Verified from Nassau County and Nassau County IDA published sources:
+
+- **2 cities, 3 towns, 64 incorporated villages, 60+ unincorporated hamlets.**
+- Town of Hempstead: 22 villages, 37 hamlets. Town of North Hempstead: 30 incorporated villages, 20 hamlets.
+- **The county IDA states plainly that each of these local municipalities has established its own zoning and building codes.** Villages largely maintain independent building departments.
+
+Trade sources add the licensing layer: **Hempstead, North Hempstead and Oyster Bay each maintain their own Examining Board of Electricians**; the City of Long Beach holds a separate licence; villages including **Freeport, Rockville Centre, Valley Stream and Lynbrook** operate their own licences or registration on top of the town, with inconsistent reciprocity. **Garden City, Great Neck and Manhasset** are named as villages running their own permitting rather than routing through the town.
+
+**The thesis: there is no single Nassau answer.** "Licensed in Nassau" is not a meaningful claim — the meaningful question is which specific towns and villages a contractor holds. That contrasts directly with Suffolk's centralised Chapter 924 regime, which is the Long Island hub's argument, so parent and child do not overlap.
+
+**Owner-supplied term set confirmed this independently**, listing as a key local note: *no single county-wide low voltage license like Suffolk.*
+
+
+## Sources 1, 4, 6, 7 — Nassau Reddit, ATP, Bing, DuckDuckGo (OWNER-SUPPLIED 2026-08-12)
+
+29 related terms and a 22-question ATP set. **11 of 12 audited terms present; one insertion** (`commercial data cabling`). **All six distinct ATP intents already covered**, including the two the page was built around: *why do low voltage rules vary by town in Nassau County* and *what is the difference between Nassau and Suffolk low voltage licensing*.
+
+### The pre-assembly matrix continues to hold
+
+All three town-level pairings the supplied set asks for &mdash; **low voltage contractor + Hempstead, structured cabling + Garden City, data cabling + Great Neck** &mdash; were already present, because the matrix ran on the raw body files before assembly and raised ten weak towns to two head terms each.
+
+| Page | Matrix stage | Town pairings missing when the set arrived |
+|---|---|---|
+| Brooklyn | none | 2 |
+| Queens | none | 3 |
+| Bronx | post-delivery | 3 |
+| Staten Island | pre-delivery | 0 |
+| **Nassau** | **pre-assembly** | **0** |
+
+Two consecutive pages at zero. **The matrix is doing the work the supplied term sets used to do**, which means the term sets are now confirming rather than correcting.
+
+### ⭐ The ATP set independently validated the page thesis
+
+Two of the twenty-two ATP questions are unique to this county across the whole project:
+
+- *Why do low voltage rules vary by town in Nassau County?*
+- *What is the difference between Nassau and Suffolk low voltage licensing?*
+
+**No other area in the portfolio produced a question about internal jurisdictional variation.** Searchers are asking about the fragmentation directly, which is the strongest possible confirmation that building the page around it was correct rather than merely interesting. It also validates the parent/child split: the Long Island hub answers the Nassau-versus-Suffolk comparison, and the Nassau child answers the within-county variation.
+
+### Source 1 — Reddit EMPTY, eighth region
+
+NYC, Long Island, Hudson Valley, Manhattan, Brooklyn, Queens, Bronx, **Nassau**. Retired since Part 17 and confirmed again. **Not to be attempted on the seven remaining county pages.**
+
+
+## Source 5 — SIX AI SPECIMENS, Nassau County (OWNER-SUPPLIED 2026-08-12) — THE FIRST BATCH WITH A REAL LOCAL FACT
+
+**This is the strongest specimen batch collected in the project, and the pattern breaks here.**
+
+| Claim | Result |
+|---|---|
+| Under 50 volts | 6/6 correct |
+| **No uniform county-wide licence; requirements vary by municipality** | **6/6 correct** |
+| **Explicit contrast with Suffolk** | **4/6 name Suffolk directly** |
+| NYS Article 6-D for security and alarm | 6/6 correct |
+| $150–$300 per drop | 6/6 |
+
+The previous three batches &mdash; Brooklyn, Queens, Staten Island &mdash; were the same text with a borough name substituted, containing **zero** locally specific content. **This batch contains a genuinely local, correct and non-obvious fact:** that Nassau has no county-wide licence and Suffolk does. Several state it as an explicit comparison.
+
+**That has to be credited rather than glossed over.** The project rule is never to strawman the specimens, and a page that dismisses this batch as generic would be factually wrong about what it says.
+
+### Where they stop, and why that is still the argument
+
+All six stop at "requirements vary by municipality." None says:
+
+- how many municipalities (2 cities, 3 towns, **64 incorporated villages**, 60+ hamlets)
+- that villages largely maintain **independent building departments**
+- that **three towns each maintain their own Examining Board of Electricians**
+- that Long Beach holds a separate city licence
+- which villages run their own permitting (Garden City, Great Neck, Manhasset are named in trade sources)
+- that reciprocity between village and parent town is inconsistent
+
+**The problem is no longer accuracy. It is that "varies by municipality" is where all six stop, and it is exactly where a property owner's real questions begin.**
+
+### Applied to the page
+
+The section 10.5 opener previously read "'Requirements vary by municipality' is true and useless." Accurate against the specimens, but it understated what they get right. Rewritten to credit them first &mdash; all six get the headline right, several name the Suffolk distinction, and that is more than these tools manage for most areas &mdash; and then make the sharper point: a correct statement that variation exists is not the same as knowing what varies, by how much, or what applies to your building.
+
+### What this changes for the remaining seven county pages
+
+**Expect better specimens on county pages than on borough pages.** The county-level licensing distinctions are documented well enough that generated answers pick them up. That means:
+
+1. **Check each county batch for genuine local content before writing section 10.5.** The Brooklyn/Queens/Staten Island substitution finding may not apply to counties.
+2. **The differentiator moves from "they say nothing local" to "they stop one level above the decision."** For Suffolk that will likely mean they name Chapter 924 but not the $750/$1,500 penalties, the two-year terms, the CE requirement or the public non-compliance listing. For Westchester, they may say a county licence exists but miss that it is defined at **48 volts, not 50**.
+3. **The 48-volt finding becomes more valuable, not less** &mdash; it is a specific number that contradicts the fifty-volt figure every specimen batch has stated in all four captures so far.
+
+
+## Sources 2 and 3 — Suffolk PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions, 25 related terms. **Three gaps found, and one of them is the most commercially significant miss in the project so far.**
+
+### ⭐ A NAMED LICENCE TERM IS A TOP-5 COMMERCIAL KEYWORD
+
+The supplied set ranks **`low voltage restricted license Suffolk` at number five** in highest commercial intent, above several of the generic service terms.
+
+**No other area in this portfolio has produced a licence term anywhere in a top-five list.** Every other area's commercial intent list is entirely service-plus-geography: contractor, structured cabling, data cabling, Cat6, cost. Suffolk substitutes a specific statutory credential into that list.
+
+That is a strong signal about buyer behaviour in this county. People are not only searching for a contractor — **they are searching for the credential by name**, which means they intend to verify. It confirms the page's thesis from the demand side rather than the supply side: a county that publishes penalties and maintains a public non-compliance listing produces buyers who check.
+
+**The page had the licence but not the search phrase.** It described the Restricted Electrical Licence accurately throughout while never using the words searchers actually type. Now carried in both the licensing Q&A and the terminology block, phrased naturally as what people search for versus what the county calls it.
+
+**Rule for the remaining six pages: check whether any licence or code term appears in the commercial intent ranking, and if so carry the searcher's phrasing alongside the official one.** Westchester is the likely candidate, where the Special Electrician licence and the 48-volt threshold may behave the same way.
+
+
+### Re-inspection finding: a head-term count can hide the pairing that matters
+
+The Suffolk term set was supplied a second time, identical. Per standing practice a repeated identical input is treated as a bug report requiring re-inspection rather than a rebuild, so the **shipped ZIP was opened and audited directly** rather than the working copy.
+
+That found a real gap the previous audit's summary had masked. Brookhaven showed **three head terms** and passed the "two or more" rule comfortably. But the three were low voltage contractor, structured cabling and data cabling &mdash; **and the term searchers actually use is `network cabling Brookhaven`**, which was the one absent.
+
+**A count of head terms is not the same as coverage of the head terms that were asked for.** The two-or-more rule protects against a place name appearing bare; it does not guarantee the specific pairing in a supplied set is present. Both checks are needed:
+
+1. **Matrix check** &mdash; every place at 2+ head terms, run pre-assembly against the county's full municipal roster.
+2. **Explicit check** &mdash; every pairing named in a supplied term set verified individually, not inferred from the matrix passing.
+
+Applied and verified in the shipped file: Brookhaven now carries all four head terms.
+
+**Also confirmed by direct ZIP inspection:** the `low voltage restricted license` phrasing and the Babylon pairings from the previous turn were present and correct in the delivered package, so those fixes shipped as reported.
+
+### Two towns missed entirely
+
+**Babylon and Brookhaven** — two of Suffolk's ten towns, and Brookhaven is the largest in the county by area — appeared at **zero head terms**. The pre-assembly matrix ran against a town list that omitted both, so the audit passed a page that was genuinely missing them.
+
+**The matrix is only as good as the place list fed into it.** For the six remaining Hudson Valley pages, the town list must be built from the county's actual municipal roster before the matrix runs, not from the towns that happen to appear in the draft copy.
+
+Both now at three head terms each.
+
+### Independent confirmation of the thesis
+
+The supplied key local note reads: *Suffolk County requires a Low Voltage Restricted License (stricter than Nassau).* That matches the Nassau/Suffolk split the silo is built on, from an independent direction.
+
+## ⭐ THE PRE-ASSEMBLY AUDIT — CHEAPEST FIX POINT YET
+
+The Nassau term set arrived **mid-build, before the page was assembled**. Running the pairing matrix against the raw body files caught **10 of 15 towns and villages sitting under two head terms**, plus three missing terms — before images, schema, registration or QA.
+
+| Stage the matrix ran | Page | Gaps found |
+|---|---|---|
+| After delivery, from supplied set | Brooklyn | 2 |
+| After delivery, from supplied set | Queens | 3 |
+| After delivery, then first matrix | Bronx | 3 + 3 |
+| **Pre-delivery, pre-packaging** | Staten Island | 7 (fixed before ship) |
+| **Pre-assembly, on raw body files** | **Nassau** | **10 + 3 terms** |
+
+Fixing at body-file stage costs one edit pass. Fixing after assembly costs re-running schema, images and the full QA suite. **Run the matrix on body files before assembly** — that is the workflow for the seven remaining county pages.
+
+## Dedup
+
+4 duplicate questions (vs Bronx, Staten Island, Long Island, Hudson Valley) and 7 non-boilerplate shared paragraphs on first assembly. All rewritten. Final: **zero duplicate questions across all 36 page pairs**, max 5 shared paragraphs and all approved boilerplate.
+
+## Town-level granularity confirmed
+
+The supplied set produced **Hempstead, Garden City, Great Neck, Freeport** — town and village level, exactly as Part 20 predicted for county pages. **Counties get town/village specificity, not neighbourhood.** Confirmed for the seven remaining.
+
+## Routing
+
+Phone **(516) 346-5778**, **Brooklyn GBP**, breadcrumb and links **UP to the Long Island hub** (not NYC). Registered in sitemap 0.7/monthly, `_redirects` 200 + 2 alias 301s, mega-nav key added. LI hub coverage card repointed from structured-cabling to the low-voltage child.
+
+## Silo status: 9 built, 7 remaining
+
+Suffolk · Westchester · Rockland · Orange · Putnam · Dutchess · Ulster. **Westchester and Rockland carry the county-level search volume.**
+
+
+---
+
+# PART 23 — SUFFOLK COUNTY (built 2026-08-12) — LONG ISLAND COMPLETE
+
+## The differentiator: Suffolk is the inverse of Nassau
+
+Nassau's thesis is that there is no single answer. **Suffolk's is that there is one, it is written down, and it has teeth.**
+
+From Suffolk County Code Chapter 924 and county licensing materials:
+
+- **Restricted Electrical Licence** alongside the Master licence, county-level.
+- **Two-year terms**, continuing education required before renewal — four hours restricted, eight for masters.
+- Direct connections at line voltage reserved to a **Suffolk Master**.
+- **$750 first offence, $1,500 thereafter** for unlicensed work.
+- **A public listing of those found non-compliant.**
+- The county CE catalogue **names low voltage and communications topics directly**, which indicates the trade sits within county scope rather than adjacent to it.
+
+**The public non-compliance listing is the sharpest detail in the county set.** It converts an abstract licensing requirement into a verification tool a buyer can actually use, and no general source mentions it. The page uses it that way — as something the reader can check, not as a threat.
+
+Plus the geographic fact: **Suffolk runs roughly 86 miles east to west.** Multi-site work is a logistics question, and the page says so and prices it as a line rather than absorbing it.
+
+## Three Long Island pages, three non-overlapping arguments
+
+| Page | Argument |
+|---|---|
+| Long Island hub | Nassau vs Suffolk — the comparison |
+| Nassau child | Within-county fragmentation — 64 villages, three Examining Boards |
+| **Suffolk child** | **Centralised, enforced, published — and 86 miles long** |
+
+Parent answers the comparison; each child answers its own county's actual condition. No overlap, confirmed by zero duplicate questions across all 45 page pairs.
+
+## Pre-assembly matrix, second run
+
+Run on raw body files before assembly, per Part 22. Caught **4 weak towns** (Farmingdale, Bohemia, Ronkonkoma, Commack) and **2 missing terms** (`low voltage license`, `low voltage permit` paired with Suffolk). All fixed at body-file stage — one edit pass, no schema or image rework.
+
+**Final: 13 towns and corridors at 2+ head terms, 8 named roads, 24 of 26 anticipated terms present before the term set arrives.**
+
+## Dedup
+
+One duplicate question against Nassau (*school district calendar*) caught at final QA and reworded. Max 9 shared paragraphs, all approved boilerplate and Related-link lines.
+
+## Routing
+
+Phone **(631) 407-2884**, **Brooklyn GBP**, breadcrumb and links **UP to the Long Island hub**. Registered sitemap 0.7/monthly, `_redirects` 200 + 2 alias 301s, mega-nav key added. LI hub and Nassau sibling both repointed to the low-voltage child.
+
+## Prediction for the Suffolk specimen batch
+
+Per the Part 22 finding that county specimens carry real local content: **expect them to name Chapter 924 or county-level licensing correctly, and to miss the $750/$1,500 penalties, the two-year terms, the CE requirement and the public non-compliance listing.** That prediction is now on record and testable against a supplied batch.
+
+## Silo status: 10 built, 6 remaining
+
+**All of NYC and all of Long Island complete.** Remaining: Westchester, Rockland, Orange, Putnam, Dutchess, Ulster — all Hudson Valley. **Westchester and Rockland carry the volume**, and Westchester holds the **48-volt** finding that contradicts every specimen batch captured so far.
+
+
+---
+
+# PART 24 — IMAGE ROTATION AUDIT (2026-08-12)
+
+Run across all ten built pages after a report that rotating images and alt tags were missing.
+
+## What was already correct
+
+**Alt and title coverage was complete on every page: 140 of 140 content images.** All carry the area name in the alt, the title and the filename; alt never equals title; every image has explicit width and height; exactly one eager image per page with the rest lazy; and every ImageObject @graph block contains all fourteen entries matching the images on the page.
+
+Rotation was also working &mdash; nine distinct image orderings across ten pages, so no two pages present the same set in the same sequence.
+
+## ⚠ Two genuine hero collisions found
+
+The standard is that every page carries **its own hero**. Comparing heroes by image content rather than by filename &mdash; the filenames differ per page because each is prefixed with its area &mdash; found two pairs sharing the same underlying photograph:
+
+| Collision | Pages |
+|---|---|
+| Crew ceiling cable pull | **NYC hub and Brooklyn** |
+| IDF rack patching | **Staten Island and Hudson Valley** |
+
+Both resolved with new hero images not used as a hero anywhere else:
+
+- **Brooklyn** &rarr; door lock and access control wiring detail, which also suits the page's converted-industrial thesis better than a generic crew shot.
+- **Staten Island** &rarr; conference room display cabling in a business park suite, which matches the Teleport campus argument.
+
+Each swap carried through: figure markup, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and a full rebuild of the ImageObject @graph. Zero references to the old filenames remain on either page.
+
+## Why the earlier per-page checks missed it
+
+Every previous audit checked images **within** a page &mdash; fourteen present, alts unique, titles unique, assets on disk. **None compared heroes across pages**, and because each file is named for its own area, two pages can carry the same photograph under different filenames and pass every filename-based check.
+
+**The check has to compare image content, not filenames.** A perceptual hash of each hero, compared across the silo, catches this in one pass.
+
+
+## Follow-up: the real image fault was set duplication, not missing files
+
+A second report of missing pictures on Nassau prompted a direct audit of the shipped ZIP. **All 14 Nassau images were present, valid, alt-tagged and rendering with zero broken images and zero network failures.** Nothing was missing in the literal sense.
+
+**But the underlying complaint was correct.** Comparing image sets by content across the silo found:
+
+| Pair | Shared photos |
+|---|---|
+| Queens + Suffolk | **14 of 14 — identical sets** |
+| Nassau + Queens | **14 of 14** |
+| Nassau + Suffolk | **14 of 14** |
+| Staten Island + Suffolk | 13 of 14 |
+
+**Only 18 unique photographs were serving 140 image slots.** Browsing Nassau after Queens, the pages look like they have no pictures of their own — which is exactly what "missing pictures" describes from a reader's point of view, even though every file loads.
+
+### Five unused clean assets were sitting in uploads
+
+The uploads folder holds more images than the silo was using. Reviewed individually:
+
+- **The `ChatGPT_Image_*` set (18 files) carries `800-486-0943` on the van and garments.** That is the emergency line, which is locked out of SEO landing pages. Correctly excluded, and it stays excluded.
+- **Five unused UUID assets are clean "LOW VOLTAGE DIVISION" branding with no phone number on any garment or vehicle:** school corridor cable pull, school corridor ceiling tile, video wall install, electric strike wiring, storefront camera install.
+
+All five converted and distributed across Nassau, Queens, Suffolk and Staten Island.
+
+### Result
+
+| Metric | Before | After |
+|---|---|---|
+| Unique photos in silo | 18 | **20** |
+| Worst pair overlap | **14/14 identical** | **13/14** |
+| Nassau overlap with any page | 14/14 | **8–10/14** |
+| Unique heroes | 10/10 | **10/10** |
+
+### One fix created one new fault, caught in the same pass
+
+Swapping the Nassau hero to the school corridor image created a **new hero collision with Long Island**, which already used that photograph as its hero. Caught by the hero-uniqueness check in the same verification run and resolved by moving Nassau's hero to the electric strike image and relocating the corridor shot to a lazy slot.
+
+**Worth recording: an image swap is not a local edit.** It touches the figure, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and the ImageObject @graph &mdash; and it can create a collision elsewhere in the silo. The hero-uniqueness check has to re-run after every swap, not only before.
+
+### Standing check extended
+
+Added to the pre-delivery image suite: **image-set overlap between every pair of pages, compared by content, flagged above 13 of 14.** Per-page checks and hero uniqueness alone will pass two pages carrying identical sets.
+
+## Standing check added
+
+Before every delivery, in addition to the per-page image checks:
+
+1. **Hero uniqueness across the whole silo, compared by image content.**
+2. Fourteen content images per page, alt and title unique and never equal to each other.
+3. Area name present in filename, alt and title on every image.
+4. Exactly one eager image per page; explicit width and height on all.
+5. ImageObject @graph count matching the images actually on the page.
+
+Verified after the fix: **ten unique heroes, 140 of 140 images with area-bearing alt and title, zero rendered-blank images and zero empty alts at 390x844 across all ten pages.**
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF

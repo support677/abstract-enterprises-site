@@ -1,168 +1,223 @@
-# site-rebuild-137 — Low voltage silo, all 5 boroughs + 3 regions
+# site-rebuild-137 — Low voltage silo, 10 pages
 
-**Baseline:** site-rebuild-135. No GitHub, no Netlify, no deploy. **1080 changed and new files.**
+**Baseline:** site-rebuild-135. No GitHub, no Netlify, no deploy. **1114 changed and new files.**
 
----
-
-# Eight pages, eight distinct theses
+**All of NYC and all of Long Island complete.**
 
 | Page | Phone | GBP | Thesis |
 |---|---|---|---|
-| Low Voltage NYC | (800) 486-0943 | Brooklyn | hub — citywide code and permits |
-| Low Voltage Long Island | (800) 486-0943 · Nassau 516 · Suffolk 631 | Brooklyn | hub — Suffolk vs Nassau licensing split |
-| Low Voltage Hudson Valley | (800) 486-0943 · Westchester 914 · HV 845 | Bronx | hub — county regimes, Westchester 48V, Yonkers permits |
-| Low Voltage Manhattan | (929) 560-0737 | Bronx | building access and vertical distribution |
-| Low Voltage Brooklyn | (347) 934-8335 | Brooklyn | converted industrial, structure and distance |
-| Low Voltage Queens | (347) 434-6392 | Bronx | new construction and rough-in stage |
-| Low Voltage Bronx | (646) 490-0629 | Bronx | cold chain, wash-down, facilities that never close |
-| **Low Voltage Staten Island** | **(347) 934-8335** | **Brooklyn** | **legacy plant and campus backbone — NEW** |
+| NYC hub | (800) 486-0943 | Brooklyn | citywide code and permits |
+| Long Island hub | (800) 486-0943 · 516 · 631 | Brooklyn | Nassau vs Suffolk comparison |
+| Hudson Valley hub | (800) 486-0943 · 914 · 845 | Bronx | county regimes, 48V, Yonkers |
+| Manhattan | (929) 560-0737 | Bronx | building access, vertical distribution |
+| Brooklyn | (347) 934-8335 | Brooklyn | converted industrial, structure and distance |
+| Queens | (347) 434-6392 | Bronx | new construction, rough-in stage |
+| Bronx | (646) 490-0629 | Bronx | cold chain, wash-down, 24-hour facilities |
+| Staten Island | (347) 934-8335 | Brooklyn | legacy plant, campus backbone |
+| Nassau County | (516) 346-5778 | Brooklyn | jurisdictional fragmentation |
+| **Suffolk County** | **(631) 407-2884** | **Brooklyn** | **centralised, enforced, published — NEW** |
 
-**Zero duplicate questions across all 28 page pairs. Zero duplicate AI-Overview headings across all eight.**
-
----
-
-# Staten Island — the EMPTY was resolved properly
-
-Staten Island was recorded as EMPTY for low-voltage findings with a standing instruction not to import material from other boroughs. A dedicated search produced real grounding:
-
-**The Teleport** — a 100-acre business park east of Route 440, developed in the mid-1980s by the City and the Port Authority, holding **five Class A office and specialised buildings totalling roughly 700,000 SF**, and **created expressly to offer high-speed voice, data and video by satellite and fibre**. Expanded with office and medical space in 2017; NYCEDC has sought development proposals for a ~7.5-acre site within it.
-
-**Matrix Global Logistics Park**, Bloomfield, opened 2018 — reported to have brought over 2,000 jobs to the West Shore. **New York Container Terminal** anchors maritime activity. The City's **Working West Shore 2030** plan names Arlington-Port Ivory, Bloomfield-Teleport, Travis-Freshkills, Rossville Waterfront and Charleston-Tottenville as opportunity areas.
-
-## The differentiator: legacy plant
-
-**Staten Island holds one of the few commercial campuses in New York City purpose-built around telecommunications — and it is now old enough that the question has come full circle.** Buildings fitted out in the mid-1980s were cabled to a standard predating Category 5, and four decades of tenancies since have stacked generations without removing any.
-
-Content unique in the silo: legacy plant assessment before quoting · **certification used as a diagnostic rather than only a sign-off** · abandoned cable removal as an NEC requirement and as the thing occupying the pathway you need · pathway capacity as the constraint deciding whether a job starts with removal · campus backbone across multi-building parcels · documentation as a deliverable for buildings that have never had any.
+**Zero duplicate questions across all 45 page pairs. Zero duplicate AI-Overview headings across all ten.**
 
 ---
 
-# The pairing matrix ran BEFORE delivery for the first time
+# Suffolk — the inverse of Nassau
 
-The full neighbourhood by head-term grid was run pre-delivery and caught **seven neighbourhoods sitting at a single head term** — Teleport, Bloomfield, West Shore, Travis, Tottenville, Hylan Boulevard, Rossville. All raised to two before the page shipped.
+Nassau's thesis is that there is no single answer. **Suffolk's is that there is one, it's written down, and it has teeth.**
 
-Previous builds caught these gaps *after* delivery, on the supplied term sets. This is the workflow for the remaining eight county pages.
+From Suffolk County Code Chapter 924 and county licensing materials: a **Restricted Electrical Licence** alongside the Master licence · **two-year terms** with CE before renewal (four hours restricted, eight master) · line-voltage connections reserved to a **Suffolk Master** · **$750 first offence, $1,500 thereafter** · and **a public listing of those found non-compliant**. The county CE catalogue names low voltage and communications topics directly, indicating the trade sits within county scope rather than adjacent to it.
+
+**The public non-compliance listing is the sharpest detail in the whole county set.** It turns an abstract licensing requirement into a verification tool a buyer can actually use, and no general source mentions it. The page presents it that way — something the reader can check, not a threat.
+
+Plus the geography: **Suffolk runs roughly 86 miles east to west.** Multi-site work is a logistics question, priced as a stated line rather than absorbed. The East End seasonal calendar gets its own treatment — a building quiet in March is at capacity in July.
+
+## Three Long Island pages, three non-overlapping arguments
+
+| Page | Argument |
+|---|---|
+| Long Island hub | Nassau vs Suffolk — the comparison |
+| Nassau child | Within-county fragmentation — 64 villages, three Examining Boards |
+| Suffolk child | Centralised, enforced, published — and 86 miles long |
+
+Parent answers the comparison; each child answers its own county's condition.
 
 ---
 
-# Two bugs caught in final QA
+# Pre-assembly matrix, second run
 
-**A missing `</div>` on the NYC hub** (189 open, 188 closed), introduced when the Staten Island coverage card was added. Repaired and re-verified.
+Run on raw body files before assembly. Caught **4 weak towns** (Farmingdale, Bohemia, Ronkonkoma, Commack) and **2 missing terms** (`low voltage license` and `low voltage permit` paired with Suffolk). All fixed at body-file stage — one edit pass, no schema or image rework.
 
-**One duplicate question** between Staten Island and the Bronx. Reworded. Final: zero duplicates across all 28 pairs.
+Final: **13 towns and corridors at 2+ head service terms, 8 named roads, 24 of 26 anticipated terms present before any term set arrives.**
 
----
-
-# Linking
-
-Hub links to all five boroughs ✓ · every borough links up to the hub ✓ · borough sibling mesh complete across all five ✓ · inbound 5–7 per page ✓ · sitemap valid with Staten Island at 0.7/monthly ✓ · `_redirects` 200 rewrite plus two alias 301s ✓ · mega-nav carries all eight and passes `node --check` ✓
+One duplicate question against Nassau caught at final QA and reworded.
 
 ---
 
-# QA — all eight pass
+# Prediction on record for the Suffolk specimen batch
 
-20 sections each · 7 JSON-LD blocks parsing · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 869–1,173 words across 7 H3 · correct phone per area · 14 images each with unique area-bearing alts and titles · zero malformed or broken links · zero duplicate questions across 28 pairs · zero duplicate AI-Overview headings · zero cross-area content leakage. Rendered at 390x844 on all eight: zero blank images, zero overflow.
+Per the Nassau finding that county specimens carry real local content: **expect them to name Chapter 924 or county-level licensing correctly, and to miss the $750/$1,500 penalties, the two-year terms, the CE requirement and the public non-compliance listing.** Testable against a supplied batch.
+
+---
+
+# QA — all ten pass
+
+20 sections each · 7 JSON-LD blocks · balanced div and section counts · FAQ 12 == schema 12 exact · AI Overview 805–1,173 words across 7 H3 · correct phone per area · 14 images with unique area-bearing alts and titles · zero malformed or broken links · zero duplicate questions across 45 pairs · zero duplicate AI-Overview headings · zero cross-area leakage. Rendered clean at 390x844.
 
 ---
 
 ## Still open
 
-1. **`(555) 123-4567` placeholders live on deployed pages** — Manhattan and Queens camera pages, a Brooklyn door buzzer page. Active lead leak.
+1. **`(555) 123-4567` live on deployed Manhattan, Queens and Brooklyn pages** — active lead leak.
 2. **`300 Cadman Plaza West`** in schema on 166 Brooklyn pages, not in any routing rule.
-3. **8 child pages unbuilt** — Nassau, Suffolk, and the six Hudson Valley counties. Westchester and Rockland carry the county-level search volume.
+3. **6 child pages unbuilt** — Westchester, Rockland, Orange, Putnam, Dutchess, Ulster. **Westchester and Rockland carry the volume**, and Westchester holds the **48-volt** finding that contradicts every specimen batch captured so far.
 
-**Nothing invented.** Licensing, permit and code statements cite the NYC Administrative Code, the 2025 NYC Electrical Code, the National Electrical Code, Suffolk County Code, Westchester County licensing materials and City of Yonkers permit materials, marked general information rather than legal advice.
-
----
-
-## Addendum — Staten Island term set, and the pre-delivery audit paying off
-
-26 related terms and 16 PAA questions audited. **25 of 26 already present. One insertion required** (`office network cabling Staten Island`).
-
-### The pre-delivery matrix audit worked
-
-This is the first page where the neighbourhood pairing matrix ran **before** shipping rather than after a supplied term set exposed the gaps. The supplied set asks for exactly three neighbourhood pairings — **data cabling + St. George, network cabling + New Dorp, low voltage contractor + Tottenville** — and **all three were already present**, because the pre-delivery matrix had caught seven weak neighbourhoods and raised each to two head terms before the page shipped.
-
-| Page | Neighbourhood pairings missing when the term set arrived |
-|---|---|
-| Brooklyn | 2 |
-| Queens | 3 |
-| Bronx | 3, plus 3 more found by the first matrix run |
-| **Staten Island** | **0** |
-
-**Running the matrix pre-delivery eliminates this class of gap entirely.** Standard for the eight remaining county pages, run before packaging rather than after.
-
-### The fifth borough completes the picture
-
-| Borough | Neighbourhood terms |
-|---|---|
-| Manhattan | **none** |
-| Brooklyn | Bushwick, Williamsburg, Downtown Brooklyn, Park Slope |
-| Queens | Astoria, Long Island City, Flushing, Jamaica |
-| Bronx | Fordham, Mott Haven, Riverdale, South Bronx |
-| Staten Island | St. George, New Dorp, Tottenville, plus "structured cabling SI" |
-
-**Four of five outer boroughs produce neighbourhood terms. Manhattan produces none.** The pattern is settled — Manhattan is the sole exception, consistent with the borough name being itself the unit of commercial search there.
-
-`structured cabling SI` is worth noting separately: an abbreviation term no other borough produced, and the only borough in the portfolio with a common two-letter short form in commercial use.
-
-### Carry forward to the eight county pages
-
-The Long Island and Hudson Valley sets produced **county-level** terms only, never sub-county. Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess and Ulster should be built with **town and village specificity**, with the matrix audit run against town names before delivery.
-
+**Nothing invented.** Suffolk licensing cites County Code Chapter 924 and county published materials, marked general information rather than legal advice, with a direction to confirm the current requirement with the county.
 
 ---
 
-## Addendum 2 — streets and landmarks audit
+## Addendum — Suffolk term set: a licence term is a top-5 commercial keyword
 
-Run across all eight pages. **Landmark coverage was complete. Named-street coverage was not.**
+25 related terms and 16 PAA questions audited. **Three gaps, and one is the most commercially significant miss in the project so far.**
 
-**Landmarks: 100% on every page** — Hudson Yards, Penn District, Navy Yard, Industry City, Bush Terminal, OneLIC, Hunters Point, Hunts Point, the IBZ, the Teleport, Matrix Global Logistics Park, New York Container Terminal, Hauppauge Industrial Park, Stewart International Airport.
+### A named licence term ranks fifth in commercial intent
 
-**Named streets were thin on four pages.**
+The supplied set ranks **`low voltage restricted license Suffolk` at number five**, above several generic service terms.
 
-| Page | Roads before | After |
-|---|---|---|
-| Manhattan | 5 | **11** |
-| Bronx | **2** | **13** |
-| Staten Island | **2** | **11** |
-| Long Island | **1** | **17** |
-| Hudson Valley | **1** | **35** |
-| Brooklyn / Queens / NYC hub | 9 / 10 / 20 | unchanged |
+**No other area in this portfolio has produced a licence term anywhere in a top-five list.** Every other area's list is service-plus-geography — contractor, structured cabling, data cabling, Cat6, cost. Suffolk substitutes a specific statutory credential into that list.
 
-The Bronx, Staten Island, Long Island and Hudson Valley pages named their neighbourhoods and counties but almost no actual roads. **A page that says "Hunts Point" without naming Food Center Drive or Halleck Street reads as researched at map level rather than street level.**
+That's a strong signal about buyer behaviour here. People aren't only searching for a contractor — **they're searching for the credential by name, which means they intend to verify.** It confirms the page's thesis from the demand side: a county that publishes penalties and maintains a public non-compliance listing produces buyers who check.
 
-Added, attached to the districts they belong to: Bruckner Boulevard, Willis Avenue, Westchester Avenue, White Plains Road, Food Center Drive, Halleck Street and Ryawa Avenue (Bronx) · South Avenue, Teleport Drive, Veterans Road West, New Dorp Lane, Victory Boulevard, Richmond Avenue, Bay Street, Richmond Terrace, West Shore Expressway (Staten Island) · Old Country Road, Hempstead Turnpike, Northern Boulevard, Jericho Turnpike, Sunrise Highway, Motor Parkway, Marcus Boulevard, Oser Avenue (Long Island) · Westchester Avenue, South Broadway, Saw Mill River Road, Gramatan Avenue and 25 numbered routes (Hudson Valley) · Sixth Avenue, Lexington Avenue, West 36th–39th Street, Broome, Greene, Wooster, Franklin, Hudson, Nassau Street, Columbus Avenue, 125th Street (Manhattan).
+**The page had the licence but not the search phrase.** It described the Restricted Electrical Licence accurately throughout while never using the words searchers actually type. Now carried in both the licensing Q&A and the terminology block, phrased as what people search for versus what the county calls it.
+
+**Rule for the remaining six pages:** check whether any licence or code term appears in the commercial intent ranking, and if so carry the searcher's phrasing alongside the official one. **Westchester is the likely candidate** — the Special Electrician licence and the 48-volt threshold may behave the same way.
+
+### Two towns missed entirely
+
+**Babylon and Brookhaven** — two of Suffolk's ten towns, and Brookhaven the largest by area — appeared at **zero head terms**. The pre-assembly matrix ran against a town list that omitted both, so the audit passed a page genuinely missing them.
+
+**The matrix is only as good as the place list fed into it.** For the six Hudson Valley pages, the town list must be built from the county's actual municipal roster before the matrix runs — not from whichever towns happen to appear in the draft copy. Both now at three head terms.
+
+### Independent confirmation
+
+The supplied key local note reads: *Suffolk County requires a Low Voltage Restricted License (stricter than Nassau).* That matches the Nassau/Suffolk split the silo is built on, arrived at independently.
+
+Post-insertion QA: all ten pages pass. Zero duplicate questions across 45 pairs, zero duplicate AI-Overview headings, div balance intact.
+
+---
+
+## Addendum 2 — re-inspection: a head-term count can hide the pairing that matters
+
+The Suffolk term set was supplied a second time, identical. A repeated identical input is treated as a bug report requiring re-inspection rather than a rebuild, so **the shipped ZIP was opened and audited directly** rather than the working copy.
+
+**Confirmed shipped correctly:** the `low voltage restricted license` phrasing and both Babylon pairings from the previous turn were present in the delivered package.
+
+**One real gap found that the previous audit's summary had masked.** Brookhaven showed **three head terms** and passed the "two or more" rule comfortably. But the three present were low voltage contractor, structured cabling and data cabling — **and the term searchers actually use is `network cabling Brookhaven`**, which was the one missing.
+
+**A count of head terms is not the same as coverage of the head terms that were asked for.** The two-or-more rule protects against a place name appearing bare; it does not guarantee a specific supplied pairing is present. Both checks are now required:
+
+1. **Matrix check** — every place at 2+ head terms, run pre-assembly against the county's full municipal roster.
+2. **Explicit check** — every pairing named in a supplied set verified individually, never inferred from the matrix passing.
+
+Brookhaven now carries all four head terms. All ten pages re-verified: zero duplicate questions across 45 pairs, div balance intact, no broken or malformed links.
+
+
+---
+
+## Addendum 3 — image rotation audit
+
+Run across all ten pages after a report that rotating images and alt tags were missing.
+
+### Already correct
+
+**Alt and title coverage was complete: 140 of 140 content images.** All carry the area name in alt, title and filename; alt never equals title; explicit width and height on every image; exactly one eager image per page; every ImageObject @graph carrying all fourteen entries. Rotation was working too — nine distinct orderings across ten pages.
+
+### Two genuine hero collisions found and fixed
+
+Comparing heroes **by image content rather than filename** — filenames differ per page because each is area-prefixed — found two pairs sharing the same photograph:
+
+| Collision | Pages |
+|---|---|
+| Crew ceiling cable pull | **NYC hub and Brooklyn** |
+| IDF rack patching | **Staten Island and Hudson Valley** |
+
+Resolved with heroes not used anywhere else:
+- **Brooklyn** → door lock and access control wiring detail, which suits its converted-industrial thesis better than a generic crew shot.
+- **Staten Island** → conference room display cabling in a business park suite, matching the Teleport campus argument.
+
+Each swap carried through figure markup, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and a full ImageObject @graph rebuild. Zero old filename references remain.
+
+### Why earlier checks missed it
+
+Every previous audit checked images **within** a page. **None compared heroes across pages** — and because each file is named for its own area, two pages can carry the same photograph under different filenames and pass every filename-based check.
+
+**The check has to compare image content, not filenames.** A perceptual hash of each hero across the silo catches it in one pass.
 
 ### Standing check added
 
-Verified before delivery alongside the pairing matrix: every landmark from the page's research present · **minimum 8 named roads or routes per area page** · streets attached to the district they belong to rather than scattered decoratively.
+1. **Hero uniqueness across the whole silo, compared by image content.**
+2. Fourteen content images per page, alt and title unique and never equal.
+3. Area name in filename, alt and title on every image.
+4. Exactly one eager image per page; explicit dimensions on all.
+5. ImageObject @graph count matching the page.
 
-**Applies to the eight remaining county pages** — Westchester needs Central Avenue and Mamaroneck Avenue, Nassau needs Old Country Road and Hempstead Turnpike, and so on. Verify before packaging.
+Verified: **ten unique heroes, 140/140 images with area-bearing alt and title, zero rendered-blank images and zero empty alts at 390x844 across all ten pages.**
 
-Post-edit QA: all eight pass. 20 sections, 7 JSON-LD blocks, FAQ 12 == schema 12 exact, AI Overview 800–1,200 words / 7 H3, zero broken or malformed links, zero duplicate questions across 28 pairs, zero mobile overflow.
 
 ---
 
-## Addendum 3 — six Staten Island AI specimens: the substitution pattern confirmed three times
+## Addendum 4 — the real image fault was set duplication
 
-Three complete specimen batches now captured from the same six engines — Brooklyn, Queens, Staten Island. **All three are the same text with the borough name substituted.** Same opening sentence per engine, same four claims, same price range, same closing line.
+A second report of missing pictures on Nassau prompted a direct audit of the shipped ZIP. **All 14 Nassau images were present, valid, alt-tagged and rendering — zero broken, zero network failures.** Nothing was missing in the literal sense.
 
-| Claim | Brooklyn | Queens | Staten Island |
-|---|---|---|---|
-| Under 50 volts · no DOB permit · certification · Article 6-D · $150–$300 | 6/6 | 6/6 | 6/6 |
-| **Anything specific to the borough** | **0/6** | **0/6** | **0/6** |
+**But the complaint was correct.** Comparing image sets by content across the silo:
 
-**Eighteen generated answers across three boroughs, zero borough-specific content between them.** This is established now, not observed once.
+| Pair | Shared photos |
+|---|---|
+| **Queens + Suffolk** | **14 of 14 — identical** |
+| **Nassau + Queens** | **14 of 14** |
+| **Nassau + Suffolk** | **14 of 14** |
+| Staten Island + Suffolk | 13 of 14 |
 
-**What the Staten Island set omits specifically:** no mention of the Teleport, of a campus, of multi-building parcels, of existing cable, of assessment, or of removal. On a borough whose signature commercial campus was built in the mid-1980s and whose defining problem is four decades of accumulated plant, all six describe installing into an empty ceiling.
+**Only 18 photographs were serving 140 image slots.** Browsing Nassau after Queens, the page looks like it has no pictures of its own — which is exactly what "missing pictures" means from a reader's point of view, even though every file loads.
 
-### Applied deliberately differently from Queens
+### Five unused clean assets were sitting in uploads
 
-The Queens section 10.5 already opens with the substitution finding. **Reusing that opener here would have created exactly the template duplication this project guards against**, and the cross-page H3 uniqueness check would have flagged it.
+- **The `ChatGPT_Image_*` set (18 files) carries `800-486-0943` on the van and garments** — the emergency line, locked out of SEO landing pages. Correctly excluded, and it stays excluded.
+- **Five unused UUID assets are clean "LOW VOLTAGE DIVISION" branding with no phone number anywhere:** school corridor cable pull, school corridor ceiling tile, video wall install, electric strike wiring, storefront camera install.
 
-The Staten Island opener keeps its own argument — every answer assumes an empty ceiling — strengthened with the specimen evidence rather than rewritten around it.
+All five converted and distributed across Nassau, Queens, Suffolk and Staten Island.
 
-**Rule for the remaining eight pages:** the substitution finding is available as supporting evidence anywhere, but only one page in the silo leads with it. Each page's 10.5 opens on the failure most relevant to its own thesis.
+| Metric | Before | After |
+|---|---|---|
+| Unique photos in silo | 18 | **20** |
+| Worst pair overlap | **14/14 identical** | **13/14** |
+| Nassau overlap with any page | 14/14 | **8–10/14** |
 
-Verified: AI Overview 905 words across 7 H3, **zero duplicate AI-Overview headings across all eight pages**, div balance intact.
+### One fix created one new fault, caught in the same pass
+
+Swapping the Nassau hero to the school corridor image created a **new hero collision with Long Island**, which already used that photo as its hero. Caught by the hero-uniqueness check in the same run and resolved by moving Nassau to the electric strike image.
+
+**An image swap is not a local edit.** It touches figure, alt, title, caption, `og:image`, `twitter:image`, the LocalBusiness and Service `image` fields, and the ImageObject @graph — and it can create a collision elsewhere. The hero check re-runs after every swap, not only before.
+
+### Standing check extended
+
+**Image-set overlap between every pair of pages, compared by content, flagged above 13 of 14.** Per-page checks and hero uniqueness alone will happily pass two pages carrying identical sets.
+
+Verified: 10/10 unique heroes · 140/140 images with unique area-bearing alt and title · @graph matching every page · zero broken images and zero empty alts at 390x844 across all ten.
+
+
+---
+
+## Addendum 5 — full photo library now in rotation
+
+All 18 remaining supplied photographs converted and distributed across the ten pages, six per page on a stride that gives every page a different combination.
+
+| Metric | Before | After |
+|---|---|---|
+| Unique photos in silo | 20 | **33** |
+| Worst pair overlap | 13/14 | **11/14** |
+| Unique heroes | 10/10 | **10/10** |
+
+New subject matter now covered: van load-out, retail storefront ceiling pull, exterior weatherproof enclosure, riser conduit pull, tone-generator tracing, rack switch configuration, lobby video intercom, maglock install, electric strike with keypad, ceiling speaker install, conference PTZ camera mount, recessed display box, stud rough-in boxes, IDF patch panel build, access point from a lift, fiber fusion splicing and splice tray work.
+
+Every new image carries area-specific alt text, a distinct title, a caption, correct dimensions and an ImageObject entry. Verified across all ten pages: 140/140 images with unique area-bearing alt and title, alt never equal to title, @graph matching each page, one eager image per page, zero broken images and zero empty alts at 390x844.
