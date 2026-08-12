@@ -1516,6 +1516,185 @@ Brooklyn is the weakest of the three for local specificity, which is the opposit
 - **Queens, Bronx and Staten Island** each still need their own borough research. Brooklyn's converted-industrial and exposed-ceiling argument does not describe Bronx logistics or Staten Island office parks, and reusing it would produce exactly the near-duplicate pages the dedup checks exist to catch.
 - Phone routing for the remaining children is already set: Queens (347) 434-6392 · Bronx (646) 490-0629 · Staten Island (347) 934-8335 · Nassau (516) 346-5778 · Suffolk (631) 407-2884 · Westchester (914) 877-2578 · the five other HV counties (845) 640-3835.
 
+
+---
+
+# PART 17 — QUEENS (built 2026-08-12)
+
+## The differentiator: Queens is where the building does not exist yet
+
+Every other page in this silo describes work inside a finished building. Queens is the one borough where a large share of the work happens **before the walls close**, and that reframes the whole page.
+
+Verified pipeline from Part 2: the **OneLIC Neighborhood Plan** rezones a 54-block stretch of the Long Island City waterfront with an estimated **15,000 apartments** over a decade, roughly **3.5M SF** of new commercial, office and retail and about **292,000 SF** of community facility. **Hunters Point South** continues building out its 30-acre master plan, including a near-1,000-unit three-building proposal on 2nd Street.
+
+That produces a page built on things no other page in the silo covers:
+
+1. **Rough-in as the defining stage.** Cable before drywall, priced closest to the published starting figures because there is no fishing, coring or making good.
+2. **Trade sequencing.** Low voltage as one sub among several, following the electricians and preceding drywall, where being late costs the next trade as well.
+3. **The signature failure: walls closing with nothing in them** because the low-voltage scope was never named in the schedule. A coordination failure rather than a technical one, and the most avoidable line item in the borough.
+4. **Spare conduit capacity** — nearly free at rough-in, expensive forever after, and invisible in any per-drop price model.
+5. **Cabling from drawings** rather than from a walkthrough, with discrepancies raised on paper.
+6. **Queens as several markets** — an LIC tower, a Maspeth warehouse, a Flushing medical suite above retail and a Jamaica community facility have almost nothing in common as jobs.
+
+
+## Sources 2 and 3 — Queens PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions and 26 related terms. All 26 initially reported present with zero insertions required. **That audit was later found to be checking presence rather than pairing — see the correction under Sources 6 and 7 below.** Three neighbourhood-plus-service pairings were in fact absent and were added.
+
+
+## Sources 1 and 4 — Queens Reddit and ATP (OWNER-SUPPLIED 2026-08-12)
+
+**ATP:** 20 questions across Who / What / Where / When / Why / How. All 16 distinct intents behind them were probed against the built page and **all 16 came back covered** — no additions required. Together with the 26 PASF terms also verified present, Queens is the first page in this project to require zero post-build remediation of any kind.
+
+### ⭐ Source 1 — Reddit: EMPTY across SIX regions. This is now closed permanently.
+
+| Region | Result |
+|---|---|
+| NYC | EMPTY |
+| Long Island | EMPTY |
+| Hudson Valley | EMPTY |
+| Manhattan | EMPTY |
+| Brooklyn | EMPTY |
+| **Queens** | **EMPTY** |
+
+Six independent attempts, six empty results, the same explanation every time: results are company websites rather than organic discussion, and recommendation-seeking for local commercial trades happens in Facebook groups, Nextdoor and building-specific channels.
+
+**Decision: Reddit is retired as a source for this silo.** It should not be attempted for the Bronx, Staten Island, Nassau, Suffolk or the six Hudson Valley counties, and no future area page in this project should carry it as an open item. Recording it as EMPTY six times has produced no information that the first EMPTY did not already provide.
+
+**Where that research effort belongs instead.** Every genuinely differentiating fact in this silo came from primary documents, not community discussion:
+
+| Finding | Source type |
+|---|---|
+| Suffolk County Code Chapter 924, two-year terms, $750/$1,500 penalties, public non-compliance listing | County code and licensing PDFs |
+| Westchester Special Electrician at 48 volts / 5 amperes, not 50 | County licensing materials |
+| Yonkers requires a separate electrical permit for **all** low voltage work | City permit application form |
+| NYC section 27-3016.1 certifies an individual, not a business | Administrative Code |
+| Local Law 128 of 2024 and section 28-105.4.7, effective 21 Dec 2025, with its conditional and life-safety carve-out | Administrative Code and Electrical Code |
+| Abandoned cable as a lease holdover; Tenant Delay clauses naming cabling | Standard lease clause libraries |
+| OneLIC 15,000 units and 3.5M SF; Hunters Point South | City planning and development reporting |
+
+**None of those would ever have appeared on Reddit.** The research pattern for the remaining ten pages is: county and municipal code first, permit application forms second, lease clause libraries third, competitor pages fourth, and local development reporting for the geography. Community forums are not on the list.
+
+### Second implication, now evidenced six times over
+
+If buyers ask in property-manager, Nextdoor and building-management channels rather than public forums, **the off-page priority for this silo is property manager and general contractor outreach, not community content.** That is a marketing conclusion drawn from six consecutive research results rather than an assumption, and it is worth acting on independently of the pages themselves.
+
+
+
+## Source 5 — SIX AI SPECIMENS, Queens (OWNER-SUPPLIED 2026-08-12)
+
+### ⭐ THE STRONGEST SPECIMEN FINDING IN THE PROJECT
+
+The Queens specimens are **the Brooklyn specimens with the borough name substituted.** Not similar in structure or approach &mdash; the same text. Same opening sentence per engine, same four bullet points, same price range, same closing line about offices, commercial buildings and multi-tenant properties. Across all six engines, in both boroughs, the only variable is the place name.
+
+This is now demonstrable rather than asserted, because both sets were captured and can be laid side by side. It is the most useful thing any specimen batch has produced.
+
+| | Brooklyn set | Queens set |
+|---|---|---|
+| Under 50 volts | 6 of 6 | 6 of 6 |
+| Usually no DOB electrical permit for pure cabling | 6 of 6 | 6 of 6 |
+| "Contractors should hold the appropriate Low Voltage Installer certification" | 6 of 6 | 6 of 6 |
+| NYS Article 6-D for security and alarm | 6 of 6 | 6 of 6 |
+| $150–$300 per drop | 6 of 6 | 6 of 6 |
+| **Anything specific to the borough** | **0 of 6** | **0 of 6** |
+
+### Why this matters commercially
+
+Queens has fifteen thousand apartments and three and a half million square feet of commercial space coming out of the ground under the OneLIC plan. Brooklyn is a borough of converted factories with exposed ceilings and campus tenancies. **They receive the same paragraph**, because the paragraph was never about either of them.
+
+Set that against Part 16 and Part 17: searchers in both boroughs are going *below* borough level, asking for Bushwick, Park Slope, Astoria, Long Island City, Flushing and Jamaica. **Generated answers are moving in the opposite direction from the searchers.** That divergence is the clearest commercial argument for building these pages, and it is now evidenced rather than assumed.
+
+### Applied to the page
+
+The Queens section 10.5 previously opened with "Every generated answer assumes the building already exists." That claim is accurate against these six &mdash; every example they give is a finished building, a fit-out or a multi-tenant property, and none mentions construction. But it was not the strongest available opening.
+
+The section now opens with the substitution finding: run the question for Queens and then for Brooklyn, and the two sets are the same text. It credits their accuracy first, then makes the point that a correct answer about New York City is not an answer about Queens. The construction argument follows as the second H3, which is where it belongs &mdash; it is the specific consequence of the general failure rather than the headline.
+
+To hold the seven-H3 spec, "Queens described as one market when it is several" was removed; the new opener carries that argument more directly.
+
+### A check now added to QA
+
+Cross-page uniqueness of AI-Overview H3 headings is now verified across all six low-voltage pages, alongside the existing question and paragraph checks. Zero duplicates. Worth keeping as these pages multiply, because section 10.5 is the most template-prone part of the blueprint &mdash; which is precisely the failure the specimens themselves demonstrate.
+
+## Sources 6 and 7 — Queens Bing and DuckDuckGo (OWNER-SUPPLIED 2026-08-12)
+
+30 related terms. **Six were absent from the built page and have been folded in.** Three of those six are the finding.
+
+### ⚠ CORRECTION TO THE EARLIER "ZERO INSERTIONS" CLAIM
+
+The Queens PASF audit reported all 26 terms present with zero insertions required, and the Bronx and Staten Island guidance was written on that basis. **That audit was checking the wrong thing.**
+
+It confirmed that Astoria, Long Island City, Flushing and Jamaica appeared *somewhere* on the page. It did not check whether they appeared **adjacent to a service term**. The Bing and DuckDuckGo sets ask for the pairing:
+
+- low voltage contractor **Astoria**
+- structured cabling **Long Island City**
+- data cabling **Flushing**
+
+All three were absent as pairings, even though all three neighbourhoods were named repeatedly elsewhere on the page. Naming a neighbourhood in a coverage grid is not the same as pairing it with the service somebody is actually searching for.
+
+**Also absent:** "near me", "best low voltage company", "commercial data cabling".
+
+### The corrected rule for the Bronx and Staten Island
+
+Building coverage sections at neighbourhood level is necessary but not sufficient. Each named neighbourhood needs **at least one natural sentence pairing it with a head service term** — low voltage contractor, structured cabling, data cabling or network cabling — rather than appearing only as a bare place name in a card or list.
+
+For the Bronx that means sentences pairing the service with Hunts Point, Mott Haven, Port Morris, Fordham Road, Grand Concourse and Riverdale. For Staten Island, with the Teleport and Bloomfield area, Hylan Boulevard, Forest Avenue, St. George and Richmond Valley.
+
+**And the audit itself has to test the pairing, not the presence.** A proximity check between service term and place name, not a substring search for the place name alone. The earlier audit passed a page that was genuinely missing three of the terms it claimed to have verified.
+
+### Provider-comparison terms
+
+"Near me" and "best low voltage company" are answered the same way they were on Brooklyn — as criteria rather than self-nomination, with an explicit line noting that both searches return whoever ranks or pays rather than whoever suits the project, followed by the nine proposal lines to compare. That approach is now consistent across Brooklyn and Queens and should carry to the remaining pages.
+
+## ⭐ THE BROOKLYN NEIGHBOURHOOD PREDICTION IS CONFIRMED
+
+Part 16 recorded a prediction: Brooklyn was the first area to produce sub-borough search terms, and Queens was the borough most likely to repeat the pattern. The supplied Queens set does exactly that:
+
+- low voltage contractor **Astoria**
+- structured cabling **Long Island City**
+- data cabling **Flushing**
+- network cabling **Jamaica**
+
+Four neighbourhood terms, same shape as Brooklyn's four. **The pattern is about borough structure, not about Brooklyn specifically.**
+
+### What is now established
+
+| Area type | Search granularity |
+|---|---|
+| Hudson Valley | **County** — Westchester and Rockland dominate; the other four barely appear |
+| Long Island | **County** — Nassau and Suffolk |
+| Manhattan | **Borough only** — no sub-borough terms in any supplied set |
+| **Brooklyn** | **Neighbourhood** — Bushwick, Williamsburg, Downtown Brooklyn, Park Slope |
+| **Queens** | **Neighbourhood** — Astoria, Long Island City, Flushing, Jamaica |
+
+Manhattan is the interesting exception. Despite having the strongest neighbourhood identities in the city by any cultural measure, its supplied sets produced no sub-borough commercial terms at all. The plausible reading is that Manhattan is itself the unit of commercial search — people specify the borough and stop, because "Manhattan" already means a commercial market. Brooklyn and Queens do not carry that meaning on their own, so searchers add the neighbourhood.
+
+### Acted on, not just recorded
+
+The Queens page was built in anticipation of this and already carries Long Island City, Hunters Point, Jackson Avenue, Queens Plaza, Astoria, Steinway Street, Flushing, Main Street, Roosevelt Avenue, Jamaica, Sutphin Boulevard, 165th Street, Maspeth, Ridgewood and the JFK perimeter throughout its coverage, building-type and local-problems sections. That is why the term audit came back with nothing missing.
+
+### Carry forward to the Bronx and Staten Island
+
+**Build both coverage sections at neighbourhood level from the start.** For the Bronx that means Hunts Point, Mott Haven, Port Morris, Fordham Road, Grand Concourse, Riverdale and the Industrial Business Zone. For Staten Island it means the Teleport and Bloomfield area, Hylan Boulevard, Forest Avenue, St. George and Bay Street, and Richmond Valley — with the standing caveat from Part 6 that Staten Island returned EMPTY for low-voltage-specific findings and needs its own query set rather than imported material.
+
+If those two produce neighbourhood terms as well, the rule is settled for the whole outer-borough set and should be applied to any future borough silo without waiting for a term list to confirm it.
+
+## Neighbourhood signal — the Brooklyn pattern, now confirmed
+
+Part 16 flagged watching for sub-borough terms in Queens. The page was built with genuine neighbourhood specificity in anticipation: Long Island City, Hunters Point, Jackson Avenue, Queens Plaza, Astoria, Steinway Street, Flushing, Main Street, Roosevelt Avenue, Jamaica, Sutphin Boulevard, 165th Street, Maspeth, Ridgewood, and the JFK perimeter. **Confirmed 2026-08-12.** The supplied Queens set produced four neighbourhood terms — Astoria, Long Island City, Flushing, Jamaica — matching the Brooklyn pattern exactly. All 26 supplied terms verified present on the page with zero insertions required, because it was built against the pattern rather than retrofitted to it. The Bronx and Staten Island coverage sections should be built at neighbourhood level from the start.
+
+## ⚠ Dedup note — the closest call in the silo so far
+
+The first Queens build shared **14 long paragraphs and 7 question strings with Brooklyn**, the highest overlap between any two pages in this project. Both are outer-borough commercial pages with similar service grids, and the Brooklyn page was the nearest template to hand.
+
+**Eight paragraphs and seven questions were rewritten.** Final: 7 shared paragraphs, all approved sitewide boilerplate and "Related:" link lines, and zero duplicate questions across all fifteen page pairs.
+
+**Carry forward:** the Bronx page is the next one at this risk, because Bronx industrial and Queens industrial invite the same vocabulary. Build the Bronx page from Hunts Point and the IBZ rather than from the Queens or Brooklyn file, and run the pairwise check against both before delivery.
+
+## Routing
+
+Phone **(347) 434-6392**, **Bronx GBP** per the routing table, links UP to the NYC hub. Registered in sitemap at 0.7/monthly, `_redirects` 200 rewrite plus alias 301s, mega-nav key added. Inbound links from the structured cabling Queens page, the NYC hub and the Brooklyn page.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
