@@ -1310,6 +1310,212 @@ Sources: yonkersny.gov electrical permit application PDF · ecode360.com Yonkers
 4. **Do not extrapolate.** Yonkers is one city. Suffolk is one county. Neither describes its neighbours, and the page says so explicitly.
 5. **Greenburgh stays unwritten** until sourced.
 
+
+---
+
+# PART 15 — MANHATTAN: SIX AI SPECIMENS (OWNER-SUPPLIED 2026-08-12)
+
+Six AI-generated answers for "low voltage installation Manhattan," one each in the style of Gemini, Claude, ChatGPT, Perplexity, Grok and Copilot.
+
+## What all six get right
+
+| Claim | Appears in | Verdict |
+|---|---|---|
+| Under 50 volts | 6 of 6 | **correct for NYC** — §28-101.5 |
+| Pure low-voltage under 50V usually needs no DOB electrical permit | 6 of 6 | broadly correct |
+| **NYC has a Low Voltage Installer certification** | **6 of 6** | correct that it exists |
+| Article 6-D for security and alarm | 6 of 6 | correct |
+| $150–$300 per drop | 6 of 6 | national band |
+| **Manhattan trends to the higher end because of building access and labour** | **6 of 6** | **correct, and notably better than the LI and HV sets** |
+
+**This is the strongest of the three specimen sets.** Unlike Long Island — where nothing was localised — and the Hudson Valley — where the 50V figure is wrong for Westchester — the Manhattan answers are accurate on every point they make. They are not wrong. They are incomplete.
+
+## ⚠ TWO CORRECTIONS APPLIED TO THE BUILT PAGE
+
+Both were strawmen written before this set was available, and both were fixed.
+
+**1. The certification H3.** An earlier draft claimed AI answers "routinely describe the DOB Low Voltage Installer certification as something businesses hold." Against these six that is inaccurate. What they actually say is vaguer — "NYC has a certification," "contractors should hold the appropriate certification." They do not assert it is a business credential; they simply never say who holds it. The H3 was rewritten to that honest frame: all six mention it, none says whether it attaches to a company or a person, and it is the person under §27-3016.1. The actionable point survives and is stronger — ask which of the people on your floor holds it, not for a company certificate number.
+
+**2. The pricing H3.** An earlier draft implied the summaries quote a national range without accounting for Manhattan conditions. All six explicitly say Manhattan sits at the upper end because of building access and labour rates. The H3 was rewritten to credit that and then draw the real line: "higher end because of access" is a direction, not a number, and the variables that set a figure are specific — night windows versus daytime, drops per freight booking, whether the ceiling opens, coring and firestop, abandoned cable removal.
+
+**Rule reinforced:** check the specimens before writing the rebuttal. Three sets in, two pages have needed this correction. Writing §10.5 against an imagined weak answer is the fastest way to lose a reader who has already read the real one.
+
+## What none of the six supplies
+
+- **§27-3016.1**, or that the certification is for an **individual**
+- **Local Law 128 of 2024** or the **21 December 2025** effective date
+- That the permit exemption is **conditional** on a master electrician, special electrician or qualified person
+- The **life safety carve-out** — no exemption at all for that wiring
+- **The lease clauses. Zero of six.** Cable removal at surrender being deemed a holdover; cabling named in Tenant Delay definitions accelerating the Commencement Date. This is the single largest gap and it is the page's strongest commercial material.
+- **Abandoned cable removal** as a code obligation and a priced scope item
+- COI naming specific entities, freight windows, corridor protection — "building access" is named as a cost driver but never unpacked
+- Testing tiers, pathway as the cost driver, or any Manhattan geography
+
+## Cross-set pattern, three regions in
+
+| | Long Island | Hudson Valley | Manhattan |
+|---|---|---|---|
+| Localised at all | no | yes, names Yonkers | yes, names access as a cost driver |
+| Factually wrong anywhere | no | **yes — 50V, but Westchester is 48V** | no |
+| Names any code section | no | no | no |
+| Mentions lease exposure | no | no | **no** |
+
+**Zero of eighteen specimens across three regions has ever cited a code section or a lease clause.** That is the durable gap the whole silo is built on, and it holds across every engine and every region tested.
+
+
+---
+
+# PART 15 — MANHATTAN RESEARCH (added 2026-08-12)
+
+## Sources 2, 3, 6, 7 — Manhattan PAA, PASF, Bing and DuckDuckGo (OWNER-SUPPLIED)
+
+16 PAA questions across licensing and permits (5), cost (4), services and scope (4), practical and hiring (3). 27 related terms across Bing and DuckDuckGo style lists.
+
+**New terms this region introduces that no other area produced:** `server room cabling Manhattan` · `data center cabling NYC` · `commercial data cabling Manhattan` · `IT cabling contractor Manhattan` · `DOB low voltage license`. All are now on the page. Server room and data centre work is genuinely a Manhattan phenomenon in this portfolio, and it justified its own card in the services grid.
+
+**Highest commercial intent across all sources:** low voltage contractor Manhattan · structured cabling Manhattan · data cabling NYC · Cat6 installation Manhattan · structured cabling cost Manhattan. All five verified present in copy.
+
+## Source 4 — AnswerThePublic-style question set (OWNER-SUPPLIED SUBSTITUTE)
+
+Who / What / Where / When / Why / How, 20 questions. Two are worth noting as page-shaping rather than page-filling:
+
+- **"Why doesn't structured cabling always need a DOB permit?"** — the *why* framing is better than the yes/no version, because the answer is the conditional in section 28-105.4.7 rather than a flat exemption.
+- **"How do I know if a contractor is properly licensed?"** — an intent, not a keyword. It is now answered inside the existing certification question rather than as its own entry.
+
+## ⭐ Source 1 — Reddit: EMPTY, and now a confirmed pattern
+
+Three independent attempts across three regions have returned effectively nothing usable:
+
+| Region | Reddit result |
+|---|---|
+| NYC | EMPTY — searched, no thread specific to NYC low-voltage installation |
+| Long Island | EMPTY |
+| Hudson Valley | EMPTY |
+| Manhattan | EMPTY — results are company sites rather than organic user discussion |
+
+**This is now a finding rather than a gap.** Local commercial trade services in this category do not generate meaningful public Reddit discussion. Recommendation-seeking happens in Facebook groups, building management channels, property manager networks and private referral instead. **Stop budgeting research time for Reddit on low-voltage area pages.** The equivalent effort is better spent on lease clause libraries, county and municipal code, and competitor pages, all of which have produced real findings.
+
+There is a second implication worth acting on: if buyers are asking in building-management and property-manager channels rather than public forums, then **the off-page priority for this silo is property manager and general contractor outreach, not community content.**
+
+## Manhattan page — what differentiates it from the NYC hub
+
+The hub spans five boroughs. The child goes vertical on what only happens here:
+
+1. **Building access as the cost driver** — COI naming owner, managing agent and sometimes lender with exact entity wording; freight booked in advance; tenant-hours restrictions; union building conditions.
+2. **Riser and backbone** rather than horizontal distance. A tenant on non-contiguous floors is a backbone decision made early or made expensively.
+3. **Office-to-residential conversions** — concentrated in this borough, roughly 9.5M SF starting construction in 2026 per Cushman & Wakefield data reported by Bisnow.
+4. **Landmarked interiors and pre-war cast-iron stock**, where surface raceway may not be permitted at all.
+5. **Abandoned cable removal as its own priced line**, tied to the lease-holdover finding in Part 3B.
+6. **Server room and data centre cabling.**
+
+## Carry forward
+
+- **Brooklyn, Queens, Bronx and Staten Island** children still need their own borough research. Do not assume Manhattan's access conditions apply — Class A tower rules are not Bronx industrial rules.
+- **Westchester and Rockland** remain the strongest Hudson Valley children per the county-qualifier pattern in Part 14.
+- Phone routing for the remaining children is already set: Brooklyn and Staten Island (347) 934-8335 · Queens (347) 434-6392 · Bronx (646) 490-0629 · Nassau (516) 346-5778 · Suffolk (631) 407-2884 · Westchester (914) 877-2578 · five other HV counties (845) 640-3835.
+
+
+---
+
+# PART 16 — BROOKLYN RESEARCH (added 2026-08-12)
+
+## Sources 2 and 3 — Brooklyn PAA and PASF (OWNER-SUPPLIED)
+
+16 PAA questions and 26 related terms. The licensing, cost and scope clusters mirror Manhattan almost exactly, which is expected — same city, same code, same DOB. Everything in the supplied "key local notes" is already covered on the page and matches what Part 1 verified.
+
+## ⭐ THE NEW SIGNAL: neighbourhood-level intent
+
+Brooklyn is the **first area in this project to produce sub-borough search terms**:
+
+- low voltage contractor **Bushwick**
+- structured cabling **Williamsburg**
+- data cabling **Downtown Brooklyn**
+- network cabling **Park Slope**
+
+No other area has done this. NYC, Long Island, Hudson Valley and Manhattan all produced region-or-borough-level terms only; the Hudson Valley set went to county level and stopped. Brooklyn goes a level deeper.
+
+### Why this matters more than the terms themselves
+
+1. **Brooklyn behaves as a collection of markets, not one market.** People search the neighbourhood because that is how the borough is understood locally — a Bushwick studio operator and a Park Slope professional suite are not thinking of themselves as being in the same place.
+2. **It is a structural signal, not a keyword to stuff.** Four neighbourhood terms do not justify four pages. What it justifies is the borough page carrying real neighbourhood specificity in its coverage and building-type sections, which the Brooklyn page now does — Bushwick and Park Slope were added alongside the existing Williamsburg, Downtown Brooklyn, Gowanus, Sunset Park, DUMBO, Flatbush, Kings Highway, Utica and Canarsie references.
+3. **If any area in this portfolio ever justifies neighbourhood child pages, it is Brooklyn.** Not yet, and not before the eleven remaining area pages are built. Recorded as a future option rather than a recommendation.
+4. **Watch for the same signal in Queens.** Queens is the other borough where neighbourhood identity is strong — Astoria, Long Island City, Flushing, Jamaica. If the Queens term set produces sub-borough terms too, the pattern is about borough structure rather than about Brooklyn specifically, and the coverage sections on those pages should be built accordingly.
+
+
+## Sources 1, 4, 6, 7 — Brooklyn Reddit, ATP, Bing, DuckDuckGo (OWNER-SUPPLIED, 2026-08-12)
+
+27 Bing and DuckDuckGo related terms and a 20-question ATP-style set. Seven terms were absent from the built page and have been folded in: structured cabling companies, data cabling installers, best low voltage company, server room cabling Brooklyn, commercial data cabling Brooklyn, low voltage vs electrician, and "near me".
+
+**Spec note:** folding those in initially pushed the Q&A block to 15, outside the 12 to 14 spec. The provider-comparison entry was merged into the existing electrician-versus-contractor answer rather than kept as its own question, which holds the count at 14 and avoids two adjacent entries covering the same decision.
+
+**The provider-comparison terms were answered as criteria, never as self-nomination.** "Best low voltage company Brooklyn" and "structured cabling companies Brooklyn" are answered by giving the reader the nine proposal lines to compare and three questions to put to any bidder, with an explicit note that searching for the best company returns whoever bought the placement. A page that answers "who is best" with "we are" reads as an advert; one that hands over the comparison method does the selling without asking for the sale.
+
+### ⭐ Source 1 — Reddit now EMPTY across five regions
+
+| Region | Reddit result |
+|---|---|
+| NYC | EMPTY |
+| Long Island | EMPTY |
+| Hudson Valley | EMPTY |
+| Manhattan | EMPTY |
+| **Brooklyn** | **EMPTY** — results are company sites, not organic discussion |
+
+Five independent attempts, five empty results, with the same explanation each time: recommendation-seeking for local commercial trades happens in Facebook groups, Nextdoor and building-specific channels rather than on public forums.
+
+**This is settled. Treat Reddit as a known-empty source for every remaining low-voltage area page and stop spending research time on it.** The equivalent effort has produced real, citable findings when spent on lease clause libraries, county and municipal code, and competitor pages — the Suffolk Chapter 924 penalties, the Westchester 48V threshold and the Yonkers blanket permit requirement all came from that direction, and none of them would ever have surfaced on Reddit.
+
+The second implication stands and is now well evidenced across five regions: **if buyers ask in property-manager, Nextdoor and building-management channels, the off-page priority for this silo is property manager and general contractor outreach rather than community content.**
+
+
+## Source 5 — SIX AI SPECIMENS, Brooklyn (OWNER-SUPPLIED 2026-08-12)
+
+| Claim | Appears in | Verdict |
+|---|---|---|
+| Under 50 volts | 6 of 6 | correct for NYC |
+| Structured cabling, cameras, intercoms, access control | 6 of 6 | correct |
+| Pure low-voltage under 50V usually avoids a DOB electrical permit | 6 of 6 | correct as far as it goes |
+| **"Contractors should hold the appropriate Low Voltage Installer certification"** | **6 of 6** | **subtly wrong in the same direction — phrasing implies a company credential** |
+| NYS Article 6-D for security and alarm | 6 of 6 | correct |
+| $150–$300 per drop | 6 of 6, identical | national figure |
+| **Anything specific to Brooklyn** | **0 of 6** | **the finding** |
+
+### ⭐ THE FINDING: six answers about Brooklyn containing nothing about Brooklyn
+
+This set is the most factually accurate of the three specimen batches collected. Nothing in it is false. And that is exactly what makes it useful.
+
+The word Brooklyn appears in the opening sentence and in a closing line about offices, commercial buildings and multi-tenant properties. **Between those two points there is nothing borough-specific in any of the six.** No converted industrial floorplate. No exposed ceiling. No campus tenancy. No masonry or heavy-timber fixing. No hundred-metre channel limit. No neighbourhood. They are New York City answers with a borough name substituted at the top and bottom.
+
+**Correction applied to the page.** The Brooklyn section 10.5 previously opened by claiming AI answers describe the borough as "a smaller, cheaper Manhattan." Against these six specimens that is inaccurate — they do not discount Manhattan, they simply say nothing about any borough at all. The H3 was rewritten as "Six answers about Brooklyn containing nothing about Brooklyn," which is both true and a stronger argument, because it credits the accuracy and then shows why accuracy at city level is not useful at building level.
+
+### The certification wording — a softer version of the same error
+
+All three specimen batches have now got the section 27-3016.1 certification wrong, but in different registers. The Manhattan-era specimen said outright that the DOB certification is "for businesses." These six say "contractors should hold the appropriate Low Voltage Installer certification" — technically evasive, but the phrasing reads as a company credential to any normal reader.
+
+The page now makes that distinction precisely rather than accusing the specimens of a flat error: the certification is issued to an individual, and when a contractor produces paperwork it is worth knowing whether you are looking at a person's certification or a company registration.
+
+### What all six omit
+
+Local Law 128 of 2024 and the 21 December 2025 effective date · the conditional in section 28-105.4.7 requiring a licensed master electrician, special electrician or qualified person · the life-safety carve-out · the hundred-metre channel limit · testing tiers · pathway · abandoned cable removal · campus backbone · any Brooklyn geography.
+
+### Pattern across three specimen batches
+
+| Batch | Named a real local rule? | Named local geography? |
+|---|---|---|
+| Long Island | Yes — Suffolk restricted licence, all six | No |
+| Hudson Valley | Yes — Yonkers, five of six | No |
+| **Brooklyn** | **No** | **No** |
+
+Brooklyn is the weakest of the three for local specificity, which is the opposite of what the neighbourhood-level search data in Part 16 shows people actually want. **That gap between what searchers ask for and what generated answers supply is the clearest commercial argument for building these pages at all.**
+
+## Coverage applied
+
+26 terms audited against the built page. 9 were absent and folded into existing copy: Cat6 installation Brooklyn, Cat6 installation cost, network cabling Brooklyn, office network cabling Brooklyn, low voltage security systems Brooklyn, low voltage permit, DOB low voltage license, Bushwick, Park Slope. Verified by proximity match rather than exact adjacency, since natural copy uses "in Brooklyn" rather than "cabling Brooklyn".
+
+## Carry forward
+
+- **Queens, Bronx and Staten Island** each still need their own borough research. Brooklyn's converted-industrial and exposed-ceiling argument does not describe Bronx logistics or Staten Island office parks, and reusing it would produce exactly the near-duplicate pages the dedup checks exist to catch.
+- Phone routing for the remaining children is already set: Queens (347) 434-6392 · Bronx (646) 490-0629 · Staten Island (347) 934-8335 · Nassau (516) 346-5778 · Suffolk (631) 407-2884 · Westchester (914) 877-2578 · the five other HV counties (845) 640-3835.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
