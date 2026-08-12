@@ -1891,6 +1891,192 @@ Every future area page delivery now verifies, in addition to the existing suite:
 5. No malformed hrefs containing `<` or `>`.
 6. Inbound link count per page, flagged if any page falls below the others by more than two.
 
+
+---
+
+# PART 20 — STATEN ISLAND (built 2026-08-12) — SILO BOROUGHS COMPLETE
+
+## The EMPTY was resolved with a dedicated query set
+
+Part 6 recorded Staten Island as EMPTY for low-voltage-specific findings, with a standing instruction not to import material from other boroughs. A dedicated search produced real grounding:
+
+- **The Teleport** — a 100-acre business park east of Route 440 and west of Bulls Head, developed mid-1980s by the City and the Port Authority, holding **five Class A office and specialised buildings totalling roughly 700,000 SF** plus development-ready land, **created expressly to offer high-speed voice, data and video by satellite and fibre**. Expanded with further office and medical space in 2017. NYCEDC has sought proposals for industrial or commercial development on an approximately 7.5-acre site within the campus.
+- **Matrix Global Logistics Park**, Bloomfield, opened 2018 — distribution hub serving major retailers, reported to have brought over 2,000 jobs to the West Shore.
+- **New York Container Terminal** anchoring maritime activity.
+- **Working West Shore 2030** (DCP/EDC) — opportunity areas Arlington-Port Ivory, Bloomfield-Teleport, Travis-Freshkills, Rossville Waterfront, Charleston-Tottenville; strategy includes preserving manufacturing zoning and building on the Teleport/SI Corporate Park and the Bricktown and Charleston retail centres.
+
+## The differentiator: legacy plant
+
+The angle no other borough has, and it comes with an irony worth using. **Staten Island contains one of the few commercial campuses in New York City purpose-built around telecommunications — and it is now old enough that the infrastructure question has come full circle.** Buildings fitted out in the mid-1980s were cabled to a standard predating Category 5, and four decades of tenancies since have stacked generations without removing any.
+
+That produces content unique in the silo:
+
+1. **Legacy plant assessment** — certifying a representative sample of existing runs *before* quoting, so the client keeps what performs and replaces only what does not.
+2. **Certification as a diagnostic, not just a sign-off.** Every AI answer frames testing as end-of-job proof. Its more valuable use here is triage before the work.
+3. **Abandoned cable removal as a code requirement** — NEC requires the accessible portion removed unless tagged for future use, and concealed raceway does not count as accessible. Also the practical driver: the old plant occupies the pathway the new runs need.
+4. **Pathway capacity** as the constraint that decides whether a job starts with removal.
+5. **Campus backbone** — the Teleport alone holds five buildings; multi-building parcels are the norm.
+6. **Documentation as deliverable.** A great many buildings here have never had an as-built or port map.
+
+
+
+## Source 5 — SIX AI SPECIMENS, Staten Island (OWNER-SUPPLIED 2026-08-12) — THE SUBSTITUTION PATTERN CONFIRMED THREE TIMES
+
+Three complete specimen batches have now been captured — Brooklyn, Queens, Staten Island — from the same six engines. **All three are the same text with the borough name substituted.** Same opening sentence per engine, same four claims, same price range, same closing line about offices, commercial buildings and multi-tenant properties.
+
+| Claim | Brooklyn | Queens | Staten Island |
+|---|---|---|---|
+| Under 50 volts | 6/6 | 6/6 | 6/6 |
+| Usually no DOB electrical permit for pure cabling | 6/6 | 6/6 | 6/6 |
+| "Contractors should hold the appropriate Low Voltage Installer certification" | 6/6 | 6/6 | 6/6 |
+| NYS Article 6-D for security and alarm | 6/6 | 6/6 | 6/6 |
+| $150–$300 per drop | 6/6 | 6/6 | 6/6 |
+| **Anything specific to the borough** | **0/6** | **0/6** | **0/6** |
+
+**This is now established rather than observed once.** Eighteen generated answers across three boroughs contain zero borough-specific content between them.
+
+### What the Staten Island set omits specifically
+
+No mention of the Teleport, of a campus, of multi-building parcels, of existing cable, of assessment, of removal, or of abandoned cable. **On a borough whose signature commercial campus was built in the mid-1980s and whose defining low-voltage problem is four decades of accumulated plant, all six describe installing into an empty ceiling.**
+
+### Applied to the page — and deliberately NOT the way Queens was
+
+The Queens section 10.5 opens with the substitution finding directly ("the same six answers, with the borough name swapped"). **Reusing that opener on Staten Island would have created exactly the template duplication this project is guarding against**, and the cross-page H3 uniqueness check would have flagged it.
+
+Instead the Staten Island opener keeps its own argument &mdash; every answer assumes an empty ceiling &mdash; and was strengthened with the specimen evidence rather than rewritten around it: six engines, six descriptions starting from a blank building, none mentioning existing cable, assessment or removal at any point.
+
+**Rule for the remaining eight pages:** the substitution finding is available as supporting evidence on any page, but only one page in the silo may lead with it. Each page's section 10.5 must open on the failure most relevant to its own thesis.
+
+### Verified after the edit
+
+AI Overview 905 words across 7 H3 with 3 paragraphs each. **Zero duplicate AI-Overview headings across all eight pages.**
+
+## Sources 2 and 3 — Staten Island PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+16 PAA questions, 26 related terms. **25 of 26 verified present. One insertion required** (`office network cabling Staten Island`).
+
+### ⭐ THE PRE-DELIVERY MATRIX AUDIT PAID FOR ITSELF
+
+This is the first page where the neighbourhood pairing matrix was run **before** shipping rather than after a supplied term set exposed the gaps. The supplied set asks for exactly three neighbourhood pairings:
+
+- data cabling + **St. George**
+- network cabling + **New Dorp**
+- low voltage contractor + **Tottenville**
+
+**All three were already present**, because the pre-delivery matrix caught seven weak neighbourhoods (Teleport, Bloomfield, West Shore, Travis, Tottenville, Hylan Boulevard, Rossville) and raised each to two head terms before the page shipped.
+
+Compare the trajectory across four borough builds:
+
+| Page | Neighbourhood pairings missing when the term set arrived |
+|---|---|
+| Brooklyn | 2 (Bushwick, Park Slope absent entirely) |
+| Queens | 3 (present as place names, wrong head terms) |
+| Bronx | 3 (wrong head terms) + 3 more found by the first matrix run |
+| **Staten Island** | **0** |
+
+**The matrix audit run pre-delivery eliminates this class of gap entirely.** It is now the standard for the eight remaining county pages, and it should be run before packaging rather than after.
+
+### The fifth borough completes the neighbourhood picture
+
+| Borough | Neighbourhood terms supplied |
+|---|---|
+| Manhattan | **none** |
+| Brooklyn | Bushwick, Williamsburg, Downtown Brooklyn, Park Slope |
+| Queens | Astoria, Long Island City, Flushing, Jamaica |
+| Bronx | Fordham, Mott Haven, Riverdale, South Bronx |
+| **Staten Island** | **St. George, New Dorp, Tottenville, plus "structured cabling SI"** |
+
+**Four of five outer boroughs produce neighbourhood-level terms. Manhattan produces none.** The pattern is settled: Manhattan is the sole exception, consistent with the reading that the borough name is itself the unit of commercial search there, where the other four require a neighbourhood to feel specific.
+
+**"structured cabling SI"** is also worth noting — an abbreviation term no other borough produced, and the only borough in the portfolio with a common two-letter short form in commercial use.
+
+### Carry forward to the eight county pages
+
+The county sets so far (Long Island, Hudson Valley) produced **county-level** terms only, never sub-county. Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess and Ulster should therefore be built with **town and village specificity** rather than neighbourhood, and the matrix audit run against town names against the same four head terms before delivery.
+
+## Neighbourhood pattern — STATEN ISLAND IS THE EXCEPTION-CONFIRMING CASE
+
+The page was built at neighbourhood level from the start per the Bronx rule, and the **full pairing matrix was run before delivery for the first time**. It caught seven neighbourhoods at a single head term — Teleport, Bloomfield, West Shore, Travis, Tottenville, Hylan Boulevard, Rossville. All fixed to two before the page shipped.
+
+**This is the first page where the matrix audit ran pre-delivery rather than catching gaps after.** That is the workflow for the remaining eight county pages.
+
+| Borough | Neighbourhood terms in supplied sets |
+|---|---|
+| Manhattan | none |
+| Brooklyn | Bushwick, Williamsburg, Downtown Brooklyn, Park Slope |
+| Queens | Astoria, Long Island City, Flushing, Jamaica |
+| Bronx | Fordham, Mott Haven, Riverdale, South Bronx |
+| Staten Island | *awaiting supplied set* |
+
+Four of five boroughs confirmed at neighbourhood granularity if Staten Island follows. **Manhattan remains the sole exception**, consistent with the reading that Manhattan is itself the unit of commercial search.
+
+## Silo status — all five boroughs and all three regions built
+
+| Page | Phone | Thesis |
+|---|---|---|
+| NYC hub | (800) 486-0943 | citywide code and permits |
+| Long Island hub | (800) 486-0943 | Suffolk vs Nassau licensing split |
+| Hudson Valley hub | (800) 486-0943 | county regimes, Westchester 48V, Yonkers permits |
+| Manhattan | (929) 560-0737 | building access and vertical distribution |
+| Brooklyn | (347) 934-8335 | converted industrial, structure and distance |
+| Queens | (347) 434-6392 | new construction and rough-in stage |
+| Bronx | (646) 490-0629 | cold chain, wash-down, facilities that never close |
+| **Staten Island** | **(347) 934-8335** | **legacy plant and campus backbone** |
+
+**Eight distinct theses, zero duplicate questions across all 28 page pairs, zero duplicate AI-Overview headings.** Linking: hub links to all five boroughs, every borough links up, sibling mesh complete, inbound 5–7 per page.
+
+**Eight remain: Nassau, Suffolk, and the six Hudson Valley counties.** Westchester and Rockland carry the county-level search volume.
+
+
+---
+
+# PART 21 — STREETS AND LANDMARKS AUDIT (2026-08-12)
+
+Run across all eight built pages. **Landmark coverage was complete. Named-street coverage was not.**
+
+## Landmarks — all present
+
+Every landmark and district named in the Part 2 borough research appears on its page: Hudson Yards, Penn District, Navy Yard, Industry City, Bush Terminal, OneLIC, Hunters Point, Hunts Point, the Industrial Business Zone, the Teleport, Matrix Global Logistics Park, New York Container Terminal, Hauppauge Industrial Park, Stewart International Airport. 100% on every page.
+
+## ⚠ Named streets were thin on four pages
+
+The blueprint requires real streets, not just neighbourhood names. First audit:
+
+| Page | Named roads before | After |
+|---|---|---|
+| Manhattan | 5 | **11** |
+| Brooklyn | 9 | 9 |
+| Queens | 10 | 10 |
+| Bronx | 2 | **13** |
+| Staten Island | 2 | **11** |
+| Long Island | 1 | **17** |
+| Hudson Valley | 1 | **35** |
+| NYC hub | 20 | 21 |
+
+**The Bronx, Staten Island, Long Island and Hudson Valley pages named their neighbourhoods and counties but almost no actual roads.** A page that says "Hunts Point" without naming Food Center Drive or Halleck Street reads as researched at map level rather than at street level.
+
+## Streets added, by page
+
+**Bronx:** Bruckner Boulevard and Expressway, East 138th Street, Willis Avenue, Westchester Avenue, White Plains Road, Southern Boulevard, Riverdale Avenue, Broadway, East Fordham Road, plus Food Center Drive, Halleck Street and Ryawa Avenue on the Hunts Point peninsula.
+
+**Staten Island:** South Avenue and Teleport Drive, Veterans Road West in Charleston, New Dorp Lane, Victory Boulevard, Richmond Avenue, Bay Street, Richmond Terrace and Stuyvesant Place in St. George, West Shore Expressway and Gulf Avenue.
+
+**Long Island:** Old Country Road, Franklin Avenue, Seventh Street, Fulton Avenue, Hempstead Turnpike, Northern Boulevard, Jericho Turnpike, Sunrise Highway; Motor Parkway, Marcus Boulevard and Oser Avenue in Hauppauge; Route 111, Route 58, New York Avenue, Johnson Avenue.
+
+**Hudson Valley:** Westchester Avenue, Main Street, South Broadway, Yonkers Avenue, North Avenue, Gramatan Avenue, Saw Mill River Road, Broadway; Route 59, Route 45, Orange Avenue, Middletown Road, South Main Street, Route 303; Route 300, 17K, 211, 17M, 32, 94, 207; Route 6, 52, 22, 6N; Route 44, 55, 9G; Route 9W, 299, 212, 209. **35 road and route references, the most in the silo** — appropriate for a six-county page.
+
+**Manhattan:** Sixth Avenue, Lexington Avenue, West 36th to West 39th Street, West 23rd Street, Broome, Greene and Wooster Streets, Franklin and Hudson Streets, Nassau Street, Columbus Avenue, 125th Street.
+
+## Standing check added
+
+Street and landmark density is now verified before delivery alongside the pairing matrix:
+
+1. Every landmark from the page's research section present.
+2. **Minimum 8 named roads or routes per area page**, more for multi-county pages.
+3. Streets attached to the district they actually belong to, not scattered decoratively.
+
+**Applies to the eight remaining county pages.** Those need town-level street naming — a Westchester page should carry Central Avenue and Mamaroneck Avenue, a Nassau page should carry Old Country Road and Hempstead Turnpike, and so on. Verify before packaging rather than after.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
