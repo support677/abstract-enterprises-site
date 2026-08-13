@@ -2887,6 +2887,204 @@ Phone **(845) 640-3835**, **Bronx GBP**, breadcrumb and links **UP to the Hudson
 
 Orange, Putnam, Dutchess, Ulster — all Hudson Valley, all lower volume than Westchester and Rockland.
 
+
+---
+
+# PART 29 — ORANGE COUNTY (built 2026-08-12)
+
+## The differentiator: the only page where the distance problem is INSIDE one building
+
+Verified from Orange County, Orange County Partnership, Port Authority and published planning sources:
+
+- **Highway convergence** — I-87 Thruway, I-84 and I-86/Route 17 all intersect here; county materials claim one of the most effective transportation systems in the country and rank Orange **second-fastest growing county in the state**
+- **New York Stewart International Airport** — Port Authority operated, **2,400 acres** at the I-87/I-84 intersection, handling oversized freight, express packages, daily FedEx and UPS; **Kalitta Air moved 747/767 freighter operations there from JFK in 2019**
+- **Matrix I-84 Distribution Center**, Town of Newburgh — filed at **595,900 SF with 116 loading docks on both sides**, 224 parking spaces, 167 trailer storage positions, 58.3-acre parcel, across from Stewart
+- **Cornwall** — five-warehouse complex proposed at **1.7 million SF**
+- Mega-warehouse and last-mile facilities across **Montgomery, Newburgh, Wallkill**
+- **Orange County Airport**, Town of Montgomery — 528 acres, general aviation
+- **Woodbury Common Premium Outlets**, **Legoland New York** (Goshen), **West Point**
+- Airport access via **Route 747 / Drury Lane / International Boulevard**
+
+**The thesis: on a 595,900 SF floorplate a single closet physically cannot reach the building.** The hundred-metre channel limit stops being a specification footnote and becomes the design driver. You do not have one telecom room with a backbone leaving it — you have a network of intermediate frames placed so every dock position, scanner and access point falls inside a channel from one of them.
+
+**This inverts every other distance page in the silo:**
+
+| Page | Distance problem |
+|---|---|
+| Suffolk | 86 miles **across a county** |
+| Rockland | almost none, but **two states** |
+| **Orange** | **inside a single building** |
+
+Supporting angles unique to this page: **dock-level device density** (116 positions, all at the perimeter, furthest from any central frame), **racking changes wireless coverage** after the plan is drawn, and **yard/gate/trailer positions** that are fibre-fed remotes rather than copper runs.
+
+## ⚠ Political content deliberately excluded
+
+Sources include a state senator quoted calling warehouse proliferation "completely out of control" and organised local opposition. **The page uses the scale figures and none of the politics.** Whether Orange County should have more warehouses is a contested local political question; a commercial services page has no business taking a side, and the technical argument does not need one.
+
+## Sources 2 and 3 — Orange PAA and PASF (OWNER-SUPPLIED 2026-08-12)
+
+10 PAA questions, 12 related terms. **12 gaps found and fixed** &mdash; the largest post-build correction on any page in this silo, and the cause is a pattern nothing before this triggered.
+
+### ⭐⭐ EVERY TERM CARRIES THE "NY" SUFFIX — FIRST IN THE PROJECT
+
+`structured cabling Orange County **NY**` · `network cabling Newburgh **NY**` · `low voltage contractor Middletown **NY**` · `network wiring Monroe **NY** / Goshen **NY** / Warwick **NY**` · `structured cabling Hudson Valley **NY**`.
+
+**No previous area produced this.** Brooklyn, Nassau, Suffolk, Westchester and Rockland sets never appended the state.
+
+**The reason is disambiguation.** Orange County exists in California, Florida, Texas, North Carolina, Virginia and Indiana &mdash; several of them larger and better known than the New York one. Searchers append NY because without it the results are wrong. Newburgh, Middletown, Monroe, Goshen and Warwick all have well-known namesakes in other states for the same reason.
+
+The page carried "NY" in the title and meta but **not once in the body**. Now placed in the H1-adjacent subheading, three section H2s, and the town references &mdash; naturally, in the phrasing searchers use.
+
+**Standing check added: for any place name with prominent out-of-state namesakes, verify the state-suffixed form appears in body copy, not just the title.** Candidates in the remaining three: **Ulster** (Northern Ireland), and to a lesser extent **Dutchess** and **Putnam** (Putnam County exists in eight other states).
+
+### Two head-term variants nothing else produced
+
+- **`network wiring`** rather than `network cabling` &mdash; paired with Monroe, Goshen and Warwick
+- **`fiber optic installation`** rather than `fiber optic cabling`
+
+Both are synonyms the matrix does not test for, because the matrix runs on a fixed head-term list. **A fixed list cannot catch a synonym it does not contain**, which is a different failure from the Congers/Valley Cottage near-miss and needs the supplied set to surface it.
+
+### The credential named precisely
+
+The set names the **NYS Department of State security and fire alarm installer licence** and correctly scopes it to cameras, access control and monitored alarms rather than plain data cabling. The page previously said only "licensed at state level by New York." Now named as commonly referred to, scoped, and pointed at the Department of State to confirm &mdash; the same framing used for other widely-circulated credential claims.
+
+## Sources 1, 4, 6 — Orange Reddit, ATP, Bing (OWNER-SUPPLIED 2026-08-12)
+
+The most valuable **negative** result in the project.
+
+### ⭐⭐⭐ BING'S OWN RESULTS MIX CALIFORNIA AND NEW YORK
+
+The report states Bing results are "heavily mixed" between **Orange County California** companies (Irvine, Anaheim) and Orange County New York ones.
+
+**This independently confirms the NY-suffix finding from the opposite direction.** The PASF set showed searchers append NY. This shows why: **the engine itself cannot reliably distinguish the two counties.** The ambiguity is not a quirk of how people type &mdash; it is present in the index.
+
+That converts a keyword observation into a positioning argument. If Bing is returning Anaheim companies for a Newburgh query, then unambiguous NY signalling is not tidiness, it is the difference between appearing and not appearing.
+
+**Action taken beyond term coverage:** a short disambiguation paragraph now opens the page's positioning section, stating plainly that Orange Counties exist in California, Florida, Texas, North Carolina, Virginia and Indiana, that search engines mix them, and that this page is about **Orange County, New York** &mdash; naming Newburgh, Middletown, Montgomery, Goshen, Monroe, Warwick and Port Jervis.
+
+That paragraph is written for the reader who arrived confused, and it happens to be exactly the disambiguation signal a crawler needs. Schema `areaServed` already read "Orange County NY" on both LocalBusiness and Service blocks, and the address is a NY address, so the structured signals were correct &mdash; the prose was not.
+
+**Standing check extended: where an area name has out-of-state namesakes, the page needs an explicit in-body statement of which one it is, not merely the suffixed term.** Apply on **Ulster** and **Putnam** in the remaining three.
+
+### ⚠ Source 4 — AnswerThePublic BLOCKED, first occurrence
+
+ATP now requires login and blocks automated collection. **This is a source degradation, not an empty result** &mdash; different from Reddit, which returns results that are genuinely thin.
+
+Recorded so the distinction stays clear: Reddit is retired because the data is not there; ATP is unavailable because access is gated. If ATP access is restored later the source becomes viable again, whereas Reddit will not.
+
+### Source 1 — Reddit EMPTY, twelfth region
+
+Checked against r/HudsonValley and r/Newburgh specifically this time, alongside the general subs. Same result.
+
+## Source 5 — ORANGE AI OVERVIEW (OWNER-SUPPLIED 2026-08-12) — THE STRONGEST SPECIMEN IN THE PROJECT
+
+A single long-form overview rather than six short ones, and **it is the best specimen this project has captured.**
+
+### What it gets right
+
+| Claim | Verdict |
+|---|---|
+| Names **Article 6-D** of the General Business Law | correct |
+| Names the NYS **Department of State** security and fire alarm installer licence | correct |
+| **New York issues no single statewide low voltage contractor licence** for basic data cabling | correct, and useful |
+| Pure structured cabling generally needs no electrical permit in most Orange municipalities | consistent with what we hold |
+| Lists **IDF and MDF closet buildouts** as a service line | correct |
+| Names **warehouses and distribution centres** as a customer type | correct |
+| Names Newburgh, Middletown, Monroe, Harriman, Woodbury, Goshen, Warwick | correct |
+| Raises riser access, firestopping and pathway approvals | correct |
+
+Very little of this is wrong. It is better than most contractors' own websites.
+
+### ⭐ THE GAP IS NARROWER AND MORE INTERESTING THAN "IT IGNORES WAREHOUSES"
+
+**The same answer lists IDF closets as a service, names warehouses as a customer, and then prices large projects on "drop count, cable type and accessibility" &mdash; exactly as it prices a small office.**
+
+It knows intermediate frames exist. It knows distribution buildings exist. **It never connects the two.**
+
+That is a materially different finding from the one predicted in Part 29, which anticipated warehouses being absent. They are present. What is absent is the causal link: that on a 595,900 square foot floorplate the footprint determines the closet count, and the closet count determines the price far more than the per-drop rate does.
+
+Section 10.5 was rewritten to make exactly this point, crediting the accuracy first at some length, then naming the disconnect. **It is a stronger argument than a list of errors, because it is not a claim that the answer is bad &mdash; it is a demonstration that a good answer still cannot price this county's signature building.**
+
+### Failure modes now number five
+
+| Batch | Failure mode |
+|---|---|
+| Boroughs | Nothing local at all |
+| Nassau, Suffolk | Correct headline, stop above the decision |
+| Westchester | Right on the hard structural point, wrong on the number |
+| Rockland | Locally accurate, unsourced claim repeated until it looks settled |
+| **Orange** | **Accurate and detailed, holds both halves of the answer, never joins them** |
+
+The fifth is the most sophisticated failure yet observed and the hardest to argue against, because every individual statement checks out.
+
+### Five gaps closed on the page
+
+`Article 6-D` named · the no-statewide-licence point stated plainly · `Cat5e` and `VoIP` added to the systems copy · `low voltage contractor Hudson Valley` and `network cabling Orange County NY` pairings added from the related-searches list.
+
+## Pre-assembly matrix — fifth run
+
+**9 of 17 municipalities under two head terms** (Maybrook, Walden, Chester, Monroe, Cornwall, Woodbury, Harriman, Florida, Wawayanda — three at zero) plus **`fiber optic cabling` missing entirely**. All fixed pre-assembly in one pass. Final: **17 municipalities at 2+ head terms, 14 roads and routes.**
+
+**Streets passed at draft this time (12), unlike Rockland (3)** — because the highway convergence is the thesis, so the roads wrote themselves in.
+
+## Faults caught in final QA — including a hero collision
+
+Three: AI Overview at 788 words; one duplicate question against Bronx; and **a hero collision with Bronx** — both pages had independently selected the warehouse tray photo, because both are industrial-thesis pages. Orange moved to the PTZ mount, with the tray image relocated to a lazy slot so the county's signature visual stays on the page.
+
+**Worth recording: the hero check earns its place when two pages share a building type, not when they share a filename.** Bronx and Orange are 200 miles of thesis apart and still reached for the same image.
+
+## Orphan pattern pre-empted again
+
+All eleven peers plus the HV hub wired during registration. **Shipped at 11 inbound. Spread across all thirteen: 10–12.**
+
+## Silo status: 13 built, 3 remaining
+
+Putnam, Dutchess, Ulster.
+
+
+---
+
+# PART 30 — SITEMAP AND LINKING AUDIT, 13 PAGES (2026-08-12)
+
+Full sweep after Orange County.
+
+## Registration — clean
+
+sitemap.xml valid, **1,893 URLs**, closing tag intact, **no duplicate entries**. All three hubs at 0.9/weekly, all ten children at 0.7/monthly. Every page carries a 200 rewrite plus exactly two alias 301s, with **no stale 301s pointing new slugs at .html files**. mega-nav carries all thirteen and passes `node --check`.
+
+## Linking — all six standing checks pass
+
+| Check | Result |
+|---|---|
+| Hub to all children | 5/5, 2/2, 3/3 |
+| Child to its own hub | 10/10 |
+| Sibling mesh within each hub | complete |
+| Label/destination agreement | 0 mismatches |
+| Malformed or `.html` hrefs | none |
+| Inbound balance | **10&ndash;12, spread of 2** |
+
+Plus **Hub to Home present on all three regional hubs**, and in fact on all thirteen pages.
+
+**The inbound rebalance has held through two additions.** Pre-empting the orphan condition during registration on Rockland and Orange kept the spread at 2, against the spread of 8 found before the fix on the eleven-page audit.
+
+## ⚠ An inconsistency worth naming rather than silently changing
+
+Hub outbound counts are uneven:
+
+| Hub | Outbound |
+|---|---|
+| NYC | **11** |
+| Hudson Valley | 5 |
+| Long Island | 4 |
+
+Long Island and Hudson Valley link down to their own children and across to the sibling hubs &mdash; the textbook hub-and-spoke pattern. **NYC links to almost everything**, because it sat in the peer list during the Rockland and Orange inbound rebalance and picked up all three county pages.
+
+Neither behaviour is broken and no link is wrong. But the pattern is now inconsistent between hubs, and that was an accident of build order rather than a decision.
+
+**Recorded, not changed.** Making NYC leaner would remove working cross-links to the highest-value county pages for no measured benefit; making the other two match NYC would dilute the hub-and-spoke structure the silo is built on. **This is a decision for the owner rather than a defect to fix quietly**, and it is flagged here so it is a choice rather than a drift.
+
+## Remaining: Putnam, Dutchess, Ulster.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
