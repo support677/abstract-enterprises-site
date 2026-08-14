@@ -3085,6 +3085,316 @@ Neither behaviour is broken and no link is wrong. But the pattern is now inconsi
 
 ## Remaining: Putnam, Dutchess, Ulster.
 
+
+---
+
+# PART 31 — PUTNAM COUNTY NY (built 2026-08-12)
+
+## ⚠ First: the obvious thesis was already taken — by our own pages
+
+Research pointed straight at the **New York City watershed** as Putnam's differentiator, and it is real: under NY Codes, Rules and Regulations §128-10.1 the watershed towns are **Carmel, Kent, Patterson, Putnam Valley and Southeast** &mdash; five of six &mdash; with only Philipstown and the villages of Cold Spring and Nelsonville entirely outside.
+
+**But two existing AESS pages already lead with it.** `construction-site-security-camera-installation-putnam-county` uses "watershed" 22 times and "DEP" 24 times; the parking-lot Putnam page does the same. Building the low-voltage page on that thesis would have cannibalised our own positioning and produced heavy cross-silo overlap.
+
+**Standing check added: before fixing a page's thesis, grep the existing site for it.** The research pointing somewhere obvious is not evidence the slot is free.
+
+## The thesis actually used: no cities, so the customer is a public body
+
+Verified from Putnam County, NY State and NYCRR sources:
+
+- **Six towns** &mdash; Carmel, Kent, Patterson, Philipstown, Putnam Valley, Southeast &mdash; **three villages** (Brewster, Cold Spring, Nelsonville), and **no cities at all**
+- **Six school districts**: Brewster, Carmel, Garrison, Haldane, Mahopac, Putnam Valley. **Mahopac is the largest**
+- **Putnam Hospital Center, Carmel &mdash; the county's only hospital**
+- County offices, **40 Gleneida Avenue, Carmel**
+- Three state parks covering **20,522 acres**
+- Routes 6, 202, 301, 403, 52, 22, 9, 9D, I-84, I-684, Taconic State Parkway
+
+**No cities means no central business district, no office towers and no managing agents.** The largest building operators in the county are public: six districts, the county, and one hospital. So the work runs on **recess windows, procurement calendars and budget years**, and the documentation standard is higher than the building size suggests &mdash; because a district keeps a building for decades and changes contractors several times.
+
+Watershed still appears, correctly scoped to **outdoor ground disturbance only** and explicitly not to indoor cabling &mdash; a supporting constraint, not the thesis.
+
+## The Orange lessons carried forward and worked
+
+**NY-suffix and disambiguation built in from the start**, not retrofitted: Putnam Counties exist in Florida, Georgia, Ohio, Indiana, Illinois, Missouri, Tennessee and West Virginia, and the page says so in its opening paragraph. **`network wiring` and `fiber optic installation` synonyms included pre-assembly.**
+
+Result: **the pre-assembly matrix found only 3 gaps**, against 12 on Orange and 9 municipalities on Rockland. **Applying a finding forward is cheaper than discovering it again.**
+
+## Faults caught in final QA
+
+Four: AI Overview at 733 words; **three duplicate questions** against Bronx, Suffolk and Westchester; a **hero collision with Long Island** (both had independently chosen the school-corridor photo &mdash; second collision in three pages, both times between pages sharing a customer type rather than a filename); and **a fourth duplicate created by one of my own rewrites**, caught on re-run against Orange.
+
+**That last one is the lesson: a dedup fix can create a new duplicate.** The check has to re-run after the fix, not only before it.
+
+## ⚠⚠ Sources 2 and 3 — Putnam PAA/PASF EXPOSED A FACTUAL ERROR ON THE PAGE
+
+The supplied PAA stated Putnam has its own Low Voltage / Limited Data Communications Technician licence from a county Board of Electrical Examiners. **The page as built said the opposite.** It was verified against primary sources rather than adopted or dismissed, and the claim is correct.
+
+### Verified from putnamcountyny.gov and Putnam County Code Chapter 145
+
+| Finding | Detail |
+|---|---|
+| **Licence exists** | **Chapter 145 — Low-Voltage/Limited-Data Communications Technician**, a Putnam County issued licence |
+| Issuing body | **Putnam County Board of Electrical Examiners**, Office of Consumer Affairs |
+| Address | **110 Old Route 6, Building 3, Carmel NY 10512** · (845) 808-1617 |
+| Experience | **minimum 8,000 hours** plus a Board examination |
+| Scope | furnishes, installs, repairs, maintains or alters **cabling systems** |
+| Renewal | **annual, expires 31 December**, fee **$150** (Master $500) |
+| Shelving | **$50** — and a shelved licence means **not eligible to work in Putnam County** |
+| Enforcement | working without one **may bring a fine** |
+| **Public roster** | **county publishes the list of licensed low-voltage technicians** with company, contact and phone |
+| Permits | electrical permit applications for **Carmel, Patterson and Putnam Valley now file directly with those building departments**, not through Consumer Affairs |
+
+### The error, and why it happened
+
+The page stated: *"The low voltage license question in Putnam County NY has no single published county-level answer of the kind Suffolk maintains."* **Flatly wrong.**
+
+The cause is instructive. Research had concentrated on municipal structure, school districts and the watershed &mdash; all correct &mdash; and the licensing line was written from the **regional default** rather than checked. Suffolk and Westchester had established that a county-level licence is the exception, and Putnam was assumed into the majority.
+
+**Standing rule reinforced: never write a licensing statement from a regional pattern.** Every county gets its own check. Three of the six Hudson Valley and Long Island counties examined so far &mdash; **Suffolk, Westchester and now Putnam** &mdash; run county-level electrical licensing boards. That is not an exception any more.
+
+### The commercial finding is larger than the correction
+
+**Putnam is the second county in the portfolio to publish a roster of who holds the licence** &mdash; Suffolk publishes non-compliance, Putnam publishes compliance. An 8,000-hour and examination barrier keeps the list short, and the county hands buyers a direct verification route.
+
+Section 10.5 was rebuilt around this, replacing a weaker outdoor-runs section (folded into another H3 so nothing was lost). It is the strongest material on the page: general answers correctly say New York issues no statewide low-voltage licence and stop there; the useful step is that **this county issues one and publishes who has it.**
+
+### ⚠ BUSINESS ITEM FOR THE OWNER — flagged, not actioned
+
+Commercial low-voltage cabling work in Putnam County appears to require a **county-issued licence AESS is not recorded as holding**. This is a business decision, not a content one, and it is raised here rather than resolved. The page as written is accurate about the requirement and does not claim AESS holds that specific credential.
+
+## Sources 1, 4, 6 — Putnam Reddit, ATP, Bing (OWNER-SUPPLIED 2026-08-12)
+
+9 terms, **all present, zero insertions** — the PASF pass an hour earlier had covered them.
+
+### ⭐ BING INDEPENDENTLY SURFACES THE COUNTY LICENCE
+
+The report notes Bing surfaces "the key local licensing angle (Putnam County's own Low Voltage / Limited Data Communications Technician license)."
+
+**That is the second independent confirmation in one day**, from a different engine, that the county licence is a search-visible angle rather than a buried code detail. The PAA raised it, primary sources verified it, and Bing's own related terms carry it.
+
+It also settles a weighting question. Rebuilding section 10.5 around the licence was a judgement call &mdash; it displaced a working outdoor-runs section. **Two engines surfacing the same angle independently says the weighting was right**, and that a page ranking for `low voltage license Putnam County NY` is competing on something people actually search rather than on a detail we found interesting.
+
+**Carry forward:** where a county operates its own licensing board, expect the licence term to appear in the commercial-intent set. Suffolk ranked it #3. Putnam surfaces it on two engines. **Westchester's Special Electrician term should be checked against the same pattern** — it was never tested, because the Westchester sets arrived before this pattern was visible.
+
+### Source 4 — AnswerThePublic BLOCKED, second occurrence
+
+Login-gated again. Consistent with Orange rather than intermittent. **ATP should now be treated as unavailable rather than attempted** on the two remaining pages, and recorded as gated access rather than absent data — if it reopens, the source returns.
+
+### Source 1 — Reddit EMPTY, thirteenth region
+
+Retired. Not to be attempted on Dutchess or Ulster.
+
+## ⚠⚠⚠ Source 5 — PUTNAM AI OVERVIEW: THE FIRST AREA WHERE THE AI ANSWERS BEAT OUR PAGE
+
+A cross-platform meta-analysis rather than six specimens, and it produced the most uncomfortable finding in the project.
+
+### The AI answers were right about Putnam and our page was wrong
+
+The report states the county licence is **"the part AIs emphasize most for Putnam."** Every major engine leads with it.
+
+**Our page, as originally built, said no county-level licence existed.** For the first time in thirteen areas, the generated answers held the correct local fact and the page did not.
+
+That is worth recording without softening. The working assumption throughout this project has been that generated answers are locally thin and a researched page beats them. **On Putnam that assumption failed**, and it failed on the single most consequential fact for a buyer.
+
+### It also invalidated the section written to correct it
+
+The 10.5 section built after the licence correction was headed *"The county licence, and the roster nobody mentions"* and asserted that general answers stop short of naming it. **That was wrong too**, in the opposite direction &mdash; written before this report arrived, and inconsistent with it.
+
+Rewritten to state the truth: **on the licence the AI answers are right, and they are right about permits and Article 6-D and per-drop pricing too.** The section now opens by saying so plainly.
+
+### The honest differentiator is narrower and still real
+
+Every engine recommends hiring a licensed contractor. **None mentions that the county publishes the roster of who holds it.**
+
+That is the same shape as Suffolk: the credential gets named, the verification tool does not. It converts "make sure they are licensed" from advice you act on blind into a list you can read before signing. A narrower claim than the one it replaced, and unlike that one it is true.
+
+### What this changes for the remaining pages
+
+**Do not assume the specimen batch will be weaker than the page.** On Dutchess and Ulster the 10.5 section must be written after the specimens arrive, or written to be checked against them, rather than drafted on the assumption that generated answers are thin. Twice now on one page a 10.5 claim has had to be corrected because it was written on that assumption.
+
+**Two 10.5 rewrites on the same page, both from assuming rather than checking.** The section is the highest-risk block on any page in this silo, because it makes claims about somebody else's output that only evidence can support.
+
+## Silo status: 14 built, 2 remaining
+
+Dutchess, Ulster. **Ulster needs the same disambiguation treatment** &mdash; Ulster is also a province of Ireland.
+
+
+---
+
+# PART 32 — SITEWIDE KEYWORD WEAVE AUDIT, 14 PAGES (2026-08-12)
+
+Every one of the 26 core commercial terms checked on every page.
+
+## ⚠ The six county pages were clean. The eight older pages were not.
+
+| Group | Before |
+|---|---|
+| Nassau, Suffolk, Westchester, Rockland, Orange, Putnam | **26/26 each** |
+| Brooklyn, Queens, Bronx | 25&ndash;26/26 |
+| Staten Island | 25/26 |
+| Manhattan | 21/26 |
+| NYC hub, Long Island hub, Hudson Valley hub | **19&ndash;21/26** |
+
+**25 terms were wholly absent from the four earliest pages** &mdash; NYC hub alone was missing ten, including `cat6 installation`, `network cabling`, `fiber optic cabling`, `structured cabling cost` and `server room cabling`.
+
+**The cause is build order.** The pre-assembly term matrix was introduced partway through this silo, after the hubs and boroughs were already built. Every page built with it scored full marks; every page built before it did not. **A check added mid-project does not retroactively cover what came before, and nothing prompts you to go back.**
+
+## One false alarm, correctly not acted on
+
+The first pass flagged the Hudson Valley hub at 5/19 on geo-paired terms. Inspection showed the hub deliberately pairs terms with **county names** &mdash; "network cabling in Westchester NY", "data cabling in Rockland" &mdash; which is correct hub behaviour, not a defect. **The pairing metric was wrong for hub pages, not the pages.**
+
+Long Island showed the same pattern. Only the raw-presence check, run second, separated genuine absence from correct alternate phrasing.
+
+## Fixed
+
+Terms woven into service cards, pricing prose and licensing answers in the phrasing each page already uses. The provider-comparison block &mdash; `structured cabling companies`, `data cabling installers`, `near me`, `best low voltage company`, `licensed low voltage contractor`, `structured cabling contractor` &mdash; was present on all six county pages and absent from four older ones; it has been added, along with the `low voltage vs electrician` paragraph.
+
+**Final: 364/364. All fourteen pages at 26/26.**
+
+Integrity re-verified after the edits: 20 sections, 7 JSON-LD blocks, balanced div and section counts, FAQ 12 == schema 12, AI Overview 868&ndash;1,173 words, 14 images, favicon, zero broken links, zero duplicate questions across 91 pairs, worst shared paragraphs 10.
+
+## Standing check added
+
+**When a QA check is introduced mid-silo, run it retrospectively across every page already built.** This audit found 25 absent terms that had been live since the earliest pages, invisible because nothing re-tested them.
+
+
+---
+
+# PART 33 — MASTER KEYWORD LIST WOVEN, 14 PAGES (2026-08-12)
+
+An owner-supplied master list of roughly 400 non-geo commercial terms, audited and woven across all fourteen pages.
+
+## First finding: most of it was already there under different wording
+
+The naive exact-phrase audit reported large gaps. A second pass checking **concept presence** found **26 of 31 supposedly missing terms already covered** &mdash; "surveillance cameras" as *cameras*, "magnetic locks" as *maglock*, "equipment racks" as *racks*, "as-built documentation" verbatim.
+
+**Running only the exact-match check would have caused hundreds of redundant insertions into pages that already covered the concept.** The two-pass method &mdash; exact, then concept &mdash; is what kept the edit small.
+
+## Genuine gaps, and where they were filled
+
+| Cluster | Before | After |
+|---|---|---|
+| Emerging tech (cloud access, mobile credentials, LPR, Wi-Fi 7, AI analytics) | 0/11 | **11/11** |
+| Informational question-forms | 0/8 | **8/8** |
+| Components (riser, backbone, pathways, commissioning) | 1/10 | **10/10** |
+| Devices (readers, strikes, paging, signage) | 1/10 | **10/10** |
+| Materials (coax, Ethernet, NEMA, trays) | 6/15 | **15/15** |
+| Urgency and repair | 0/6 | **6/6** |
+| Ops and process | 1/8 | **8/8** |
+| Seasonal | 2/5 | **5/5** |
+
+**Final: 105/106 terms across 14 categories.**
+
+Every insertion carries the area name and uses **a different opening phrase per page** &mdash; fourteen distinct lead-ins per block, drawn from rotating arrays &mdash; so no two pages share a paragraph. **Worst shared-paragraph count held at 10**, unchanged from before the weave.
+
+## ⚠ ONE CLUSTER DELIBERATELY NOT ADDED
+
+The list contains a **scarcity block**: *limited low voltage installation appointments · reserve your installation date · schedule before available dates are filled · limited weekend installation availability · upcoming project calendar filling quickly · secure your preferred installation date*.
+
+**None of it was added, and it scores 0/6 by choice.**
+
+These are claims about AESS's actual availability. **We have no information about the calendar**, and publishing manufactured scarcity on fourteen pages would be a false statement to every reader who sees it. It is also the kind of claim a buyer can disprove with one phone call, on pages whose entire competitive argument is that the other sources are less trustworthy.
+
+If the scarcity is real &mdash; if weekend slots genuinely are limited, or the project calendar genuinely does fill &mdash; the owner can say so and it goes in immediately. **It cannot be inferred from a keyword list.**
+
+## Body word counts after the weave
+
+8,186 to 9,793 words per page, all still passing the 2,500 minimum by a wide margin, with structure, schema, FAQ parity and AI Overview bounds all intact.
+
+
+---
+
+# PART 34 — THE LICENSING PATTERN, CHECKED ACROSS EVERY COUNTY (2026-08-12)
+
+Part 31 flagged that three counties ran electrical licensing boards and warned against writing licensing statements from a regional default. **That warning was not acted on across the pages already built.** This part closes it.
+
+## ⚠ ROCKLAND CARRIED THE SAME ERROR AS PUTNAM
+
+**Rockland County Code Chapter 250 &mdash; Electricians and Electrical Inspections &mdash; creates an eleven-member Board of Electrical Examiners** under the Director of Consumer Protection. The code states no partnership, LLC or corporation may conduct the business of an electrical contractor in Rockland unless specified as the holder of a master electrician licence, and that joint-venture participants must each be licensed.
+
+**The Rockland page said "no single county-level answer of the kind Suffolk publishes."** Wrong, the same way Putnam was wrong, from the same cause: written from the regional default rather than checked.
+
+**Two pages shipped with the same incorrect licensing claim.** The first was caught by an owner-supplied PAA. The second was only caught because that catch prompted this sweep. **Neither was caught by the QA suite, because no check tests whether a factual claim is true.**
+
+## The corrected picture
+
+| County | County-level electrical licensing | Source status |
+|---|---|---|
+| **Suffolk** | **Yes** — Restricted Licence, Ch. 924 | verified |
+| **Westchester** | **Yes** — Special Electrician, 48V threshold | verified |
+| **Putnam** | **Yes** — Ch. 145, Low-Voltage/Limited-Data Technician | verified |
+| **Rockland** | **Yes** — Ch. 250, Board of Electrical Examiners | verified |
+| **Ulster** | **Yes** — Ch. 185-4, Electrical Licensing Board | verified (ulstercountyny.gov) |
+| Orange | trade sources say yes, plus separate **Newburgh, Middletown and Port Jervis city licences** | **unverified** |
+| Nassau | sources conflict — some list Nassau as licensing, trade sources describe three town Examining Boards | **conflicting** |
+| Dutchess | trade sources say no county licence, but **Poughkeepsie has one** | **unverified** |
+
+**Five counties confirmed. County-level licensing is the norm in this region, not the exception** — the opposite of the assumption both wrong pages were written on.
+
+## What was changed, and what deliberately was not
+
+**Rockland** rewritten against Chapter 250, naming the Board and the code language, and stating that whether a given low-voltage scope falls inside it is a question for the Board.
+
+**Orange** rewritten to assert nothing. Sources conflict, so the page now says the position has not been verified against a county source, names the Newburgh/Middletown/Port Jervis city-licence issue that trade sources describe, and tells the reader to confirm with the county and municipality. **Hedging is the correct output when the evidence is genuinely mixed** &mdash; the failure mode being corrected here is confident assertion, and replacing one confident claim with another would repeat it.
+
+**Nassau** left as written. It describes the three town Examining Boards from trade sources and does not claim a county licence exists or does not, which survives the conflicting evidence intact.
+
+## Standing rule, now with teeth
+
+**No licensing statement ships without a per-county source.** Not a regional pattern, not a neighbouring county, not an AI specimen. Where a source cannot be found, the page says so and directs the reader to the authority &mdash; which is what Orange now does.
+
+**Ulster is already verified** and its page must carry Chapter 185-4 from the first draft rather than being corrected afterwards. **Dutchess must be checked before its licensing section is written.**
+
+
+---
+
+# PART 35 — DUTCHESS COUNTY NY (built 2026-08-12)
+
+## Licensing checked BEFORE writing, for the first time
+
+Part 34 made this the rule after Rockland and Putnam both shipped wrong. **Dutchess is the first page where the per-county licensing check ran before the section was drafted rather than after it was corrected.**
+
+Result: **no county-level electrical licence identified for Dutchess**, unlike Westchester, Putnam, Rockland and Suffolk. The **Town of Poughkeepsie Building Department at One Overocker Road issues building, plumbing, heating and electrical permits for all private development in that town** (townofpoughkeepsie-ny.gov).
+
+**The page states this as what was and was not found, not as a guarantee of absence.** The warranty note says so explicitly: *"We have not identified a county-level electrical licence for Dutchess; that is a statement about what we found rather than a guarantee of absence."* That is the correct output when a negative cannot be proven.
+
+## The thesis: you work to somebody else's standard
+
+Verified from Think Dutchess, Hudson River Valley Institute and county sources:
+
+- **IBM Poughkeepsie — 3,000+ employees**, ~7,500 across the Hudson Valley, **expanding quantum data centre work**
+- **Nuvance Health** (Vassar Brothers Medical Center) · **MidHudson Regional Hospital, 243 beds**
+- **Vassar College**, **Marist University**, **Culinary Institute of America** (Hyde Park)
+- **Gap Fishkill distribution centre** · **Amazon, $135M Dutchess investment announced 2021**
+- **Healthcare is now the largest employment sector**, diversified from an IBM-dependent past
+- Commercial corridors: **I-84 and Route 9**, plus the Taconic State Parkway
+
+Every one of those runs an in-house infrastructure team with a **written cabling specification and change control**. So a Dutchess contractor spends less time advising an owner and more time **executing to a spec somebody else wrote and passing their inspection**.
+
+**Distinct from every other page in the silo:**
+
+| Page | Who sets the terms |
+|---|---|
+| Orange | the building's size |
+| Rockland | the state line |
+| Putnam | a public body's calendar |
+| Westchester | the county's 48V rule |
+| **Dutchess** | **the client's own written standard** |
+
+## Carried-forward lessons all worked
+
+NY suffix, disambiguation, `network wiring` and `fiber optic installation` synonyms, and the full 26-term core set were built in from the first draft. **Pre-assembly matrix found 2 gaps** &mdash; against 12 on Orange and 9 municipalities on Rockland. The page passed **26/26 core keywords at first QA** with no weave pass needed.
+
+## Four faults in final QA, and one instructive re-collision
+
+AI Overview at 739 words. Two duplicate questions. **A hero collision with Westchester** &mdash; and the fix collided again **with Orange**, requiring a second swap to the recessed-display image. **Three hero collisions in four pages, every one between pages sharing a building type rather than a filename.**
+
+Also flagged: worst shared-paragraph count read 12, but inspection showed **10 of the 12 were intended boilerplate** &mdash; warranty text, service rates, disclaimers, which are supposed to be identical. Only two were real content and both were rewritten. **The paragraph metric needs a boilerplate exclusion list, or it will keep reporting compliance as duplication.**
+
+## Silo status: 15 built, 1 remaining
+
+**Ulster only.** Its licensing is already verified &mdash; **Chapter 185-4, Ulster County Electrical Licensing Board** &mdash; and must appear in the first draft.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
