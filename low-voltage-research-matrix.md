@@ -3395,6 +3395,157 @@ Also flagged: worst shared-paragraph count read 12, but inspection showed **10 o
 
 **Ulster only.** Its licensing is already verified &mdash; **Chapter 185-4, Ulster County Electrical Licensing Board** &mdash; and must appear in the first draft.
 
+
+---
+
+# PART 36 — ULSTER COUNTY NY (built 2026-08-12) — SILO COMPLETE, 16/16
+
+## Licensing verified before drafting, and it contradicts the regional assumption
+
+**Chapter 185 of the Ulster County Code establishes an Ulster County Electrical Licensing Board**, stating that no person shall engage in, carry on or conduct the business of an electrical contractor within the County of Ulster unless licensed.
+
+A 2016 trade-forum post claims Dutchess and Ulster have no licensing. **The primary county source contradicts it**, and the primary source wins. Recorded because that forum thread was the same source that shaped earlier assumptions &mdash; **a trade forum is a lead, never a citation.**
+
+## The thesis: the building usually has a past
+
+Verified from Ulster County, UCTC and EPA sources:
+
+- **iPark 87**, former IBM Kingston campus &mdash; ~200 acres, **over one million square feet of existing buildings**, off I-87 Exit 19
+- **Ulster BOCES Career and Technical Center**, ~105,000 SF, ~1,200 students · **Sustainable Ulster Workforce Innovation Center**, 40,000 SF · **Archtop Fiber** headquartered on campus
+- Same site as **TechCity, 300 Enterprise Drive**, 258-acre industrial park &mdash; **improper asbestos abatement during 2015&ndash;16 demolition released ACM; remediation under EPA and NYSDOL oversight**
+- **SUNY New Paltz and Mohonk Mountain House are the two largest employers, ~3,700 jobs combined**; greater Kingston ~37 large employers and ~10,000 jobs; **Ellenville area reports only three organisations with 200+ employees**
+- Kingston: New York's first capital 1777, settled 1652
+
+**The operational rule the page is built on: in pre-1980 buildings nothing gets cut, cored or penetrated until the owner has established what is in the assembly.** The page states plainly that AESS is a cabling contractor, not an abatement contractor, and coordinates rather than works around.
+
+**Handled carefully:** the environmental history is included to sequence work safely, framed as public record about one named site, with an explicit disclaimer that it is not a statement about any other property. **iPark 87's tax arrears and the developer's death were deliberately excluded** &mdash; negative commercial news about a third party has no place on a services page.
+
+## Distinct from all fifteen prior pages
+
+| Page | Governing condition |
+|---|---|
+| Orange | the building's size |
+| Rockland | the state line |
+| Putnam | a public body's calendar |
+| Dutchess | the client's written standard |
+| Westchester | the county's 48V rule |
+| **Ulster** | **what is inside the wall before you open it** |
+
+Deliberately differentiated from **Brooklyn's** converted-industrial thesis, which is about structure and distance rather than survey sequence.
+
+## The boilerplate exclusion worked
+
+Introduced for this page after Dutchess reported 12 shared paragraphs of which 10 were intended legal text. With the exclusion list applied, **Ulster's raw count of 12 resolved to 3 genuine shared paragraphs** &mdash; and the check now passes at a stricter threshold of 6 rather than 10. **The metric finally measures duplication rather than compliance.**
+
+## One fault in final QA
+
+Three duplicate questions against Bronx, Suffolk and Dutchess. **Zero heroes collided** &mdash; the first page in four to avoid that, because the hero was selected against the existing set rather than chosen first.
+
+## Sources 2 and 3 — Ulster PAA/PASF (OWNER-SUPPLIED 2026-08-12)
+
+9 PAA questions, 11 related terms. **Five term gaps closed**, plus one licensing refinement and one claim deliberately refused.
+
+### The set confirms the county licence, and adds a category name
+
+The PAA states Ulster **has an Electrical Licensing Board and requires a Master Electrician licence for electrical contractors** &mdash; consistent with Chapter 185, which the page already cited. The category name has been added as *commonly described* rather than asserted.
+
+### ⚠ ONE CLAIM REFUSED: "pure low-voltage data work is generally treated more leniently"
+
+This appears in the supplied quick answers and is the kind of statement that reads as helpful and functions as a hazard. **It may well describe practice accurately. It is not a written answer, and it is exactly what a reader would use to justify not checking.**
+
+The page now names it and pushes back: the Board is the only party who can give a written answer, and the widely repeated shortcut should be resisted rather than repeated.
+
+**That is a deliberate choice to be less reassuring than the source material.** On a page whose competitive argument is that generated answers stop one step short of useful, adopting a soft claim that discourages verification would undercut the entire position.
+
+### Terms added
+
+`fiber optic installation Ulster County NY` · `security camera installation Kingston NY` · `low voltage wiring Saugerties NY` · `low voltage wiring Woodstock NY` · `low voltage installer Kingston NY`.
+
+**Note the pattern: four of the five gaps were town-level pairings**, consistent with Rockland and Orange. **On county pages the town-level terms are the ones the pre-assembly matrix most reliably under-covers**, because the matrix tests head terms against places while searchers combine service words the matrix does not carry.
+
+## Sources 1, 4, 6 — Ulster Reddit, ATP, Bing (OWNER-SUPPLIED 2026-08-12) — SILO RESEARCH CLOSED
+
+10 terms, **all present, zero insertions.** Both of Bing's substantive notes &mdash; the $150&ndash;300 per-drop band and the permit-light position on sub-50V cabling &mdash; were already addressed.
+
+### The final source totals across the silo
+
+| Source | Outcome across 16 areas |
+|---|---|
+| **Reddit** | **EMPTY in all 14 regions attempted.** Retired after Part 17 and never productive |
+| **AnswerThePublic** | Productive early; **login-gated and unavailable on the final three areas** |
+| **Bing / PASF / PAA** | Consistently productive &mdash; the single most useful source in the project |
+| **AI specimens** | Productive, and **twice more accurate than our own page** |
+
+**Reddit was a wasted source and the project kept checking it for nine regions after the pattern was obvious.** Recorded plainly: local commercial service keywords do not generate public Reddit discussion, and the correct decision was available at region three or four rather than fourteen.
+
+### The most valuable pattern the research produced
+
+**Owner-supplied SERP sets caught two factual errors that no internal QA check could have found** &mdash; the Putnam county licence and, through the sweep it triggered, the Rockland one. **Neither would have surfaced from the page-integrity suite, because no check tests whether a claim is true.**
+
+That is the durable lesson from sixteen pages: the QA suite verifies structure, and only external evidence verifies fact. **Both are needed, and they catch entirely different classes of defect.**
+
+### Second sets confirmed rather than corrected
+
+On Rockland, Orange, Putnam and now Ulster, the second and third supplied sets increasingly returned **zero insertions** &mdash; confirming the first set had been correctly scoped. That convergence is the signal that an area's research is genuinely complete rather than merely finished.
+
+## ⚠⚠ Source 5 — ULSTER AI OVERVIEW: I MADE THE SAME MISTAKE I HAD JUST WARNED AGAINST
+
+One page earlier, Part 31 recorded this rule after the Putnam 10.5 section had to be rewritten twice:
+
+> *"Do not assume the specimen batch will be weaker than the page. On Dutchess and Ulster the 10.5 section must be written after the specimens arrive, or written to be checked against them."*
+
+**Ulster's 10.5 was written before the specimens arrived, and it opened with the heading "The county licence is usually missed."**
+
+**The specimens do not miss it.** Every major engine correctly reports that Ulster operates an Electrical Licensing Board and that a Master Electrician credential governs electrical contracting here, alongside correct statements on Article 6-D and per-drop pricing.
+
+**Three 10.5 corrections now, across two pages, all from the same root cause &mdash; writing a claim about somebody else's output before seeing it.** Recording it plainly: writing the rule down did not prevent the repeat, because the rule was recorded in the matrix and the drafting happened from habit.
+
+### The corrected section is stronger than the original
+
+Rewritten to open by crediting the accuracy, then isolating the one sentence that matters: the specimens add that low-voltage data work is *"generally treated more leniently"* &mdash; almost word for word across engines, with no source.
+
+**That is the real finding, and it is sharper than the false one it replaced.** The accurate material earns the reader's trust, and the unsourced shortcut then rides on that trust. A reader who accepts the correct part will accept the inference too, and the inference is the part that could cost them.
+
+The page had already refused that claim in its Q&A during the PASF pass. **The specimen batch independently confirms the refusal was correct**, since the sentence appears identically across engines with nothing behind it.
+
+### Also added from this batch
+
+**Pre-wiring versus retrofit** &mdash; the specimens correctly emphasise that cabling during construction is far cheaper than retrofitting. On this county's masonry stock that gap is wider than average, which makes it more useful here than the generic advice it appears as. Now a named point in the pricing section.
+
+Plus **Midtown and the Rondout** as Kingston districts, and **Wi-Fi infrastructure** as explicit wording.
+
+## ⭐ Sources 1&ndash;6 — DUTCHESS, ALL THREE SETS (OWNER-SUPPLIED 2026-08-12) — THE ONLY BATCH THAT CONFIRMED A LICENSING CLAIM
+
+Dutchess was the last area in the silo with **zero supplied research**, and the only page whose licensing statement had never been externally cross-checked. That mattered: it was the same claim shape that turned out wrong on Putnam and Rockland.
+
+### The specimens confirm it
+
+**No engine claims a Dutchess county-level licence.** All report that requirements sit with the municipality, and several correctly flag that **some towns, the Town of Poughkeepsie among them, run their own low-voltage permit applications**.
+
+**This is the first and only specimen batch in the project to confirm one of our licensing statements rather than correct it** &mdash; and it is the one page where the per-county check ran *before* drafting rather than after a correction. The process change produced the result.
+
+### Section 10.5 rewritten to credit them
+
+The original H3 was headed *"County licensing asserted without checking which county"* and said generated answers "tend to apply a regional pattern in one direction or the other." **On Dutchess they do not.** They get it right.
+
+Rewritten to say so, and to note that we reached the same conclusion independently and stated it the same careful way &mdash; **described as what we did and did not find rather than as a settled fact, because a negative is the hardest thing to prove and the easiest to assert.**
+
+**Three pages have now had 10.5 corrected for being unfair to accurate specimens** (Putnam twice, Ulster, Dutchess). The pattern is unambiguous: **the section's default posture was adversarial, and the evidence did not support it as often as assumed.**
+
+### Also applied
+
+`fiber optic installation Dutchess County NY` · `security camera installation Poughkeepsie NY` · `low voltage wiring Fishkill NY` · `low voltage wiring Rhinebeck NY` · `low voltage installer Poughkeepsie NY` &mdash; **again four of five town-level pairings**, the fourth consecutive county showing that pattern.
+
+Plus the **town-specific low-voltage permit application** point, **pre-wiring versus retrofit** as a named pricing item, and **Wi-Fi infrastructure** wording.
+
+### Source totals now complete for all 16 areas
+
+Reddit EMPTY in every region attempted. ATP gated on the final four. **Bing, PAA and PASF productive throughout. AI specimens corrected us twice, confirmed us once.**
+
+## FINAL SILO STATE — 16/16
+
+All sixteen: 20 sections · 7 JSON-LD · favicon · balanced div and section counts · FAQ 12 == schema 12 exact · **AI Overview 809&ndash;1,173 words across 7 H3** · correct phone and GBP per area · 14 images each with unique area-bearing alt and title · **16 unique heroes** · **zero duplicate questions across all 120 page pairs** · zero duplicate AI-Overview headings · **26/26 core keywords on every page** · body 7,207&ndash;9,795 words · hub-to-child 5/5, 2/2, 6/6 · child-to-hub 13/13 · inbound 13&ndash;15 · zero broken links.
+
 ---
 
 # PART 11 — FINAL STATUS AND HANDOFF
