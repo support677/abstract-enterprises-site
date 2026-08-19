@@ -197,691 +197,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 @media(min-width:769px){.spb-label{display:flex}.spb-inner{height:68px}}
 @media(max-width:768px){.spb-inner{flex-direction:column;height:auto;padding:10px 14px 14px;gap:10px}.spb-ticker{width:100%;padding:0;height:44px;order:1;align-items:center}.spb-chip{padding:8px 12px;gap:8px;border-radius:7px}.spb-chip-tag{font-size:.65rem}.spb-chip-mid{font-size:.72rem}.spb-chip-val{font-size:.78rem}.spb-chip-div{height:20px}.spb-cta{width:100%;padding:0;gap:8px;order:2;height:auto}.spb-btn-primary{flex:1.4;justify-content:center;padding:13px 14px;font-size:.86rem}.spb-btn-secondary{flex:1;justify-content:center;padding:13px 10px;font-size:.8rem}.spb-dismiss{position:absolute;top:6px;right:8px;margin:0;width:28px;height:28px}}
 </style>
-<style>
-/* ═══════════════════════════════════════════════════════════════
-   MEGA-NAV v1.0 — Abstract Enterprises Security Systems
-   Self-contained. Overrides all page template nav styles.
-   ═══════════════════════════════════════════════════════════════ */
-
-/* ── Reset: kill any inherited nav styles from any template ── */
-.mn-wrap, .mn-wrap *, .mn-wrap *::before, .mn-wrap *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-.mn-wrap a { text-decoration: none; color: inherit; }
-.mn-wrap ul, .mn-wrap li { list-style: none; }
-
-/* ── Variables ── */
-:root {
-  --mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --mn-bg: rgba(255,255,255,0.97);
-  --mn-blur: 12px;
-  --mn-text: #1a1a1a;
-  --mn-text-light: #555;
-  --mn-red: #e53935;
-  --mn-red-hover: #c62828;
-  --mn-border: #e8e8e8;
-  --mn-mega-bg: #fff;
-  --mn-hover-bg: #f5f5f5;
-  --mn-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  --mn-height: 72px;
-  --mn-mega-max-w: 1120px;
-  --mn-z: 99999;
-}
-
-/* ── Sticky wrapper ── */
-.mn-wrap {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: var(--mn-z);
-  background: var(--mn-bg);
-  backdrop-filter: blur(var(--mn-blur));
-  -webkit-backdrop-filter: blur(var(--mn-blur));
-  border-bottom: 1px solid var(--mn-border);
-  font-family: var(--mn-font);
-  height: var(--mn-height);
-}
-
-/* ── Spacer (pushes page content down) ── */
-.mn-spacer {
-  height: var(--mn-height);
-  display: block;
-}
-
-/* ── Inner bar ── */
-.mn-bar {
-  max-width: 1320px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: var(--mn-height);
-  padding: 0 24px;
-  gap: 16px;
-}
-
-/* ── Logo ── */
-.mn-logo img {
-  height: 42px;
-  width: auto;
-  display: block;
-}
-
-/* ── Desktop nav links ── */
-.mn-links {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  height: 100%;
-}
-
-.mn-link-item {
-  position: relative;
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.mn-link-item > a,
-.mn-link-item > button {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  padding: 0 16px;
-  height: 100%;
-  font-size: 14.5px;
-  font-weight: 600;
-  color: var(--mn-text);
-  letter-spacing: -0.01em;
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  transition: color 0.15s;
-  white-space: nowrap;
-}
-
-.mn-link-item > a:hover,
-.mn-link-item > button:hover,
-.mn-link-item.mn-open > button {
-  color: var(--mn-red);
-}
-
-/* Chevron */
-.mn-chev {
-  width: 10px; height: 10px;
-  transition: transform 0.2s;
-}
-.mn-link-item.mn-open .mn-chev {
-  transform: rotate(180deg);
-}
-
-/* ── Mega panel (shared) ── */
-.mn-mega {
-  position: absolute;
-  top: var(--mn-height);
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--mn-mega-bg);
-  border: 1px solid var(--mn-border);
-  border-top: 2px solid var(--mn-red);
-  border-radius: 0 0 12px 12px;
-  box-shadow: var(--mn-shadow);
-  padding: 32px 36px 28px;
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transition: opacity 0.18s, visibility 0.18s;
-  z-index: calc(var(--mn-z) + 1);
-}
-
-.mn-link-item.mn-open .mn-mega {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
-}
-
-/* ── Services mega (split layout) ── */
-.mn-mega--services {
-  width: 680px;
-  left: 50%;
-}
-
-.mn-mega--areas {
-  width: 620px;
-}
-
-.mn-mega-split {
-  display: flex;
-  gap: 0;
-}
-.mn-mega-left {
-  width: 240px;
-  flex-shrink: 0;
-  border-right: 1px solid var(--mn-border);
-  padding-right: 0;
-}
-.mn-mega-right {
-  flex: 1;
-  padding-left: 20px;
-  min-height: 300px;
-  column-count: 2;
-  column-gap: 24px;
-  column-rule: 1px solid var(--mn-border);
-}
-.mn-area-block {
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  display: block;
-  margin-bottom: 8px;
-}
-.mn-mega-right > .mn-mega-col-head:first-child {
-  column-span: all;
-  -webkit-column-span: all;
-  margin-bottom: 8px;
-}
-
-.mn-svc-trigger,
-.mn-area-trigger,
-.mn-price-trigger {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 8px 16px 8px 12px;
-  border-radius: 6px 0 0 6px;
-  cursor: pointer;
-  transition: background 0.1s, color 0.1s;
-  border-right: 2px solid transparent;
-}
-.mn-svc-trigger:hover,
-.mn-area-trigger:hover,
-.mn-price-trigger:hover,
-.mn-svc-trigger.mn-svc-active,
-.mn-area-trigger.mn-svc-active,
-.mn-price-trigger.mn-svc-active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-  border-right-color: var(--mn-red);
-}
-
-.mn-mega-right a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega-right a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-area-group {
-  font-size: 9px !important;
-  margin-top: 8px;
-  padding-bottom: 2px;
-}
-
-.mn-mega-col-head {
-  font-size: 10.5px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding-bottom: 6px;
-  margin-bottom: 4px;
-}
-
-.mn-mega-cta {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid var(--mn-border);
-}
-.mn-mega-cta a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--mn-red);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s;
-}
-.mn-mega-cta a:hover { background: #fef2f2; }
-.mn-mega-cta .mn-mega-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  margin-top: 4px;
-  padding: 6px 8px;
-}
-
-/* ── Pricing/Tools mega ── */
-.mn-mega--tools {
-  width: 680px;
-}
-.mn-mega-grid--tools {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 28px;
-}
-
-/* ── Company mega ── */
-.mn-mega--company {
-  width: 320px;
-}
-.mn-mega--company .mn-mega-col a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 7px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega--company .mn-mega-col a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-/* ── Right side CTA button ── */
-.mn-cta-wrap {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
-}
-
-.mn-cta-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  white-space: nowrap;
-  transition: color 0.15s;
-}
-.mn-cta-phone:hover {
-  color: var(--mn-red);
-}
-
-.mn-cta-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--mn-red);
-  color: #fff !important;
-  font-size: 13.5px;
-  font-weight: 700;
-  padding: 10px 20px;
-  border-radius: 8px;
-  white-space: nowrap;
-  transition: background 0.15s, transform 0.1s;
-}
-.mn-cta-btn:hover {
-  background: var(--mn-red-hover);
-  transform: translateY(-1px);
-}
-
-/* ── Hamburger (mobile) ── */
-.mn-hamburger {
-  display: none;
-  background: none;
-  border: none;
-  cursor: pointer;
-  width: 36px; height: 36px;
-  position: relative;
-  flex-shrink: 0;
-}
-.mn-hamburger span {
-  display: block;
-  width: 22px; height: 2px;
-  background: var(--mn-text);
-  position: absolute;
-  left: 7px;
-  transition: all 0.25s;
-}
-.mn-hamburger span:nth-child(1) { top: 10px; }
-.mn-hamburger span:nth-child(2) { top: 17px; }
-.mn-hamburger span:nth-child(3) { top: 24px; }
-.mn-hamburger.mn-active span:nth-child(1) { top: 17px; transform: rotate(45deg); }
-.mn-hamburger.mn-active span:nth-child(2) { opacity: 0; }
-.mn-hamburger.mn-active span:nth-child(3) { top: 17px; transform: rotate(-45deg); }
-
-/* ── Mobile drawer ── */
-.mn-mobile {
-  display: none;
-  position: fixed;
-  top: var(--mn-height);
-  left: 0; right: 0; bottom: 0;
-  background: #fff;
-  z-index: calc(var(--mn-z) - 1);
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 8px 0 100px;
-}
-.mn-mobile.mn-active {
-  display: block;
-}
-
-.mn-mobile-section {
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-}
-.mn-mobile-toggle .mn-chev-m {
-  width: 12px; height: 12px;
-  transition: transform 0.2s;
-}
-.mn-mobile-section.mn-open .mn-mobile-toggle .mn-chev-m {
-  transform: rotate(180deg);
-}
-
-.mn-mobile-panel {
-  display: none;
-  padding: 0 24px 16px;
-}
-.mn-mobile-section.mn-open .mn-mobile-panel {
-  display: block;
-}
-
-.mn-mobile-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 12px 0 6px;
-  border-bottom: 1px solid var(--mn-border);
-  margin-bottom: 2px;
-}
-
-.mn-mobile-panel a {
-  display: block;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 10px 8px;
-  border-radius: 6px;
-}
-.mn-mobile-panel a:active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-mobile-link {
-  display: block;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-cta {
-  display: block;
-  margin: 16px 24px 8px;
-  background: var(--mn-red);
-  color: #fff !important;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  padding: 14px;
-  border-radius: 10px;
-}
-
-.mn-mobile-phone {
-  display: block;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  padding: 12px;
-}
-
-/* ── Mobile funnel steps ── */
-.mnm-step { display: none; padding: 8px 0 100px; }
-.mnm-step.mnm-active { display: block; }
-.mnm-prompt {
-  font-size: 13px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--mn-text-light, #555);
-  padding: 16px 24px 8px;
-}
-.mnm-path-btn {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  width: 100%;
-  padding: 16px 24px;
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  font-size: 14px;
-  color: var(--mn-text);
-  transition: background 0.12s;
-}
-.mnm-path-btn:active { background: var(--mn-hover-bg); }
-.mnm-path-icon { font-size: 22px; flex-shrink: 0; width: 36px; text-align: center; }
-.mnm-path-btn strong { font-weight: 700; font-size: 15px; display: block; margin-bottom: 2px; }
-.mnm-path-sub { font-size: 12px; color: var(--mn-text-light); }
-.mnm-path-arrow { margin-left: auto; font-size: 20px; color: #ccc; flex-shrink: 0; }
-.mnm-back {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--mn-red);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  width: 100%;
-  text-align: left;
-}
-.mnm-svc-btn {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 14px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  text-decoration: none;
-}
-.mnm-svc-btn:active { background: var(--mn-hover-bg); }
-.mnm-svc-soon { color: var(--mn-text-light); font-weight: 500; }
-.mnm-badge {
-  font-size: 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  background: var(--mn-hover-bg);
-  color: var(--mn-text-light);
-  padding: 3px 8px;
-  border-radius: 4px;
-}
-.mnm-divider { height: 1px; background: var(--mn-border); margin: 8px 24px; }
-.mnm-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 14px 24px 6px;
-}
-.mnm-picked {
-  padding: 8px 24px;
-  font-size: 13px;
-  font-weight: 700;
-  color: var(--mn-red);
-  background: #fef2f2;
-  border-bottom: 1px solid var(--mn-border);
-}
-.mnm-area-link {
-  display: block;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-  text-decoration: none;
-}
-.mnm-area-link:active { background: var(--mn-hover-bg); color: var(--mn-red); }
-
-/* ═══ RESPONSIVE ═══ */
-@media (max-width: 1100px) {
-  .mn-link-item > a, .mn-link-item > button { padding: 0 10px; font-size: 13.5px; }
-  .mn-mega--services { width: 720px; }
-  .mn-mega--areas { width: 560px; }
-}
-
-@media (max-width: 960px) {
-  .mn-links, .mn-cta-phone { display: none !important; }
-  .mn-hamburger { display: block; }
-  .mn-cta-btn { font-size: 12.5px; padding: 9px 14px; }
-  .mn-bar { padding: 0 16px; }
-}
-
-@media (max-width: 480px) {
-  :root { --mn-height: 64px; }
-  .mn-logo img { height: 36px; }
-  .mn-cta-btn { padding: 8px 12px; font-size: 12px; }
-}
-
-/* ═══ EMERGENCY DRAWER FIX — Hide mnm-drawer/overlay by default on all screens ═══
-   Bug: legacy .mnm-drawer and .mnm-overlay elements had no CSS rules,
-   so they rendered visible on every page load, covering hero sections.
-   Fix: hide by default, show only when .mnm-active class is added via hamburger. */
-
-.mnm-drawer,
-.mnm-overlay,
-#mnmDrawer,
-#mnmOverlay {
-  display: none !important;
-}
-
-.mnm-drawer.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: min(380px, 100%);
-  background: #fff;
-  z-index: 9999;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 20px 0 100px;
-  box-shadow: -10px 0 40px rgba(0,0,0,0.2);
-}
-
-.mnm-overlay.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.5);
-  z-index: 9998;
-}
-
-/* Never show mobile drawer on desktop, even if something accidentally adds .mnm-active */
-@media (min-width: 961px) {
-  .mnm-drawer,
-  .mnm-drawer.mnm-active,
-  .mnm-overlay,
-  .mnm-overlay.mnm-active,
-  #mnmDrawer,
-  #mnmOverlay {
-    display: none !important;
-  }
-}
-
-
-/* === REPAIR TAB — RED ACCENT (industry-best-practice urgency signaling) === */
-.mn-link-item[data-mega="repair"] > button {
-  position: relative;
-  color: #dc2626 !important;
-  font-weight: 700;
-}
-.mn-link-item[data-mega="repair"] > button::before {
-  content: "🔧";
-  margin-right: 6px;
-  font-size: 0.95em;
-}
-.mn-link-item[data-mega="repair"] > button:hover {
-  color: #b91c1c !important;
-  background: rgba(220, 38, 38, 0.05);
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger {
-  display: flex;
-  align-items: center;
-  padding: 10px 16px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.15s;
-  border-right: 3px solid transparent;
-  text-decoration: none;
-  color: var(--text, #0f172a);
-  font-weight: 500;
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger:hover,
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger.mn-svc-active {
-  background: rgba(220, 38, 38, 0.06);
-  border-right-color: #dc2626;
-}
-.mn-rpr-emergency-cta {
-  margin-top: 14px;
-  padding: 12px 14px;
-  background: linear-gradient(135deg, #dc2626, #b91c1c);
-  color: #fff !important;
-  border-radius: 8px;
-  font-weight: 700;
-  font-size: 0.92rem;
-  text-align: center;
-  text-decoration: none;
-  display: block;
-}
-.mn-rpr-emergency-cta:hover {
-  background: linear-gradient(135deg, #b91c1c, #991b1b);
-  color: #fff !important;
-}
-
-</style>
+<link rel="stylesheet" href="/css/mega-nav.css">
 </head>
 <body>
 <!-- ═══ MEGA-NAV START ═══ -->
-
+<link rel="stylesheet" href="/css/mega-nav.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -907,6 +227,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
               <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
               <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
               <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="cat6" onclick="mnDeskSvc(this)">🖧 Cat6 Installation<span style="font-size:9px;background:#B87333;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
               <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
               <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
               <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
@@ -1127,6 +448,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cat6')">🖧 Cat6 Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
@@ -1203,7 +525,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <div id="mnmPriceAreaList"></div>
   </div>
 </div>
-<script src="/js/mega-nav.js?v=parking118"></script>
+<script src="/js/mega-nav.js?v=cat119"></script>
 <!-- ═══ MEGA-NAV END ═══ -->
 
 <!-- HERO -->
@@ -1218,7 +540,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv br" style="transition-delay:.22s"><a href="/pay?desc=Door%20Buzzer%20Repair%20Service%20Call%20%E2%80%94%20Brooklyn&amount=250&area=brooklyn" class="bp">Book &amp; Pay $250 →</a><a href="tel:+13479348335" class="bo">Call (347) 934-8335</a></div>
 </div>
 <div class="hero-img rv" style="transition-delay:.2s">
-<img src="/images/buzzer-repair/buzzer-riser-wire-tone-tracing.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician tone-tracing buzzer riser wiring floor by floor" width="1402" height="1122" loading="eager">
+<img src="/images/intercom-keypad-dark.png" alt="Door Buzzer System Installation" loading="eager">
 <div class="hf-card" style="margin-top:100px;max-width:420px;width:100%">
 <div class="hf-head" style="padding:14px 20px 10px">
 <div class="hf-title" style="font-size:1rem">Get a Free Quote</div>
@@ -1300,7 +622,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Your Questions Answered</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair in Bedford Stuyvesant: <span class="ac">Questions Answered</span></h2></div>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">What does door buzzer repair cost in Bedford Stuyvesant?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/weathered-entry-panel-weather-sealing.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician weather-sealing an exposed entry panel in the rain" title="Weather-sealing an exposed entry panel in the rain — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: weather-sealing an exposed entry panel in the rain in Bedford Stuyvesant, Brooklyn.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Door buzzer repair in Bedford Stuyvesant typically costs $150-$600 depending on the issue. Handset replacement $75-$200. Door release mechanism $150-$350. Outdoor panel replacement $300-$800. Wiring repair for brownstones and walk-ups along Bedford Avenue varies by severity. Diagnostic fee $75-$150 applied toward repair. Call (347) 934-8335.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Why do buzzers fail in Bedford Stuyvesant brownstones?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Bedford Stuyvesant brownstones were built with intercom wiring that&#x2019;s now 40-80+ years old. The most common failures: corroded wire connections in damp basements, failed door strike mechanisms from decades of use, cracked outdoor panels from weather exposure, and dead handsets with worn-out speakers. The original wiring in Bedford Stuyvesant brownstones is often still functional — the components attached to it are what fail.</h3>
@@ -1311,7 +632,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Can you repair buzzers in Bedford Stuyvesant&#x2019;s landmark district without altering the facade?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. We repair and replace intercom hardware in Bedford Stuyvesant&#x2019;s landmark and historic districts regularly. All exterior panel work uses LPC-compliant mounting techniques. Wiring routes through interior walls only — your Bedford Stuyvesant facade is never drilled or modified. We match panel finishes to existing hardware aesthetics.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">My Bedford Stuyvesant building&#x2019;s door buzzer is stuck open — is this an emergency?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/vandal-damaged-panel-replacement.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician replacing a vandal-damaged entry panel faceplate" title="Replacing a vandal-damaged entry panel faceplate — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: replacing a vandal-damaged entry panel faceplate in Bedford Stuyvesant, Brooklyn.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. A door buzzer stuck open means your Bedford Stuyvesant building&#x2019;s front door is unsecured — anyone can walk in. This is a safety emergency. We provide same-day emergency response for stuck-open buzzers in Bedford Stuyvesant. The usual causes: failed door release relay, short-circuited wiring, or a jammed electric strike. Call (347) 934-8335 immediately.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">My buzzer rings but there&#x2019;s no sound on the intercom in Bedford Stuyvesant — why?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">When a Bedford Stuyvesant building&#x2019;s buzzer rings but the intercom has no audio, the problem is usually in the handset speaker, the wiring between the outdoor panel and the apartment unit, or a failed amplifier board. We tone-test the wire path from the outdoor panel to your specific unit to isolate the failure point. Most Bedford Stuyvesant intercom audio issues are repaired in 1-2 hours.</h3>
@@ -1322,7 +642,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Can you fix buzzers in multiple units at once in my Bedford Stuyvesant building?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. We handle building-wide buzzer repair in Bedford Stuyvesant — every unit diagnosed and repaired in a single visit when possible. For Bedford Stuyvesant buildings where multiple handsets are dead, we bring enough replacement parts for the entire building. Property managers often schedule full-building intercom service to fix everything at once.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">What happens if I don&#x2019;t fix my broken buzzer in Bedford Stuyvesant?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/video-intercom-tenant-verification.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician confirming video intercom and door release with a tenant" title="Confirming video intercom and door release with a tenant — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: confirming video intercom and door release with a tenant in Bedford Stuyvesant, Brooklyn.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">A broken buzzer in Bedford Stuyvesant creates cascading problems: missed deliveries, unauthorized building entry, tenant complaints, potential HPD violations (for 8+ unit buildings), and insurance liability if someone enters and causes damage. The longer the buzzer stays broken, the more likely secondary damage to wiring and components occurs. Early repair is always cheaper than full system replacement.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Do you carry door buzzer parts with you for Bedford Stuyvesant repairs?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. Every Bedford Stuyvesant service call includes common replacement parts: handsets for Aiphone and Comelit systems, electric door strikes, transformers, outdoor panel buttons, relay boards, and wiring supplies. Most Bedford Stuyvesant repairs are completed in a single visit without waiting for special-order parts.</h3>
@@ -1341,8 +660,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <!-- LANDMARKS -->
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Service Areas</span></div></div>
-<div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair Near <span class="ac">Major Areas</span></h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/door-release-two-technician-test.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician coordinating a door-release test between lobby and apartment" title="Coordinating a door-release test between lobby and apartment — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: coordinating a door-release test between lobby and apartment in Bedford Stuyvesant, Brooklyn.</figcaption></figure></div>
+<div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair Near <span class="ac">Major Areas</span></h2></div>
 <div class="lg rv" style="transition-delay:.12s"><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Stuyvesant Heights Historic District</div><div class="ldet">430+ landmarked brownstones, Romanesque Revival &amp; Queen Anne row houses</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">MacDonough &amp; Macon Street Blocks</div><div class="ldet">Showcase brownstones, freestanding mansions, ornate stoop-front row houses</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Alhambra &amp; Renaissance Apartments</div><div class="ldet">Montrose Morris landmark multi-family buildings, pre-war flats on Nostrand</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Bedford &amp; Stuyvesant Avenue Spines</div><div class="ldet">Mixed-use storefront apartments, four-story apartment houses, walk-ups</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Fulton Street &amp; Nostrand Corridor</div><div class="ldet">Commercial mixed-use, apartments over retail, multi-family rentals</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Bedford Historic District</div><div class="ldet">Italianate &amp; Neo-Grec brownstones, brick row houses, restored townhouses</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Tompkins &amp; Lewis Avenue</div><div class="ldet">Two- and three-family row houses, owner-occupied brownstones, small flats</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Malcolm X Boulevard &amp; Halsey</div><div class="ldet">Larger apartment buildings, multi-unit walk-ups, mixed residential</div></div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Herbert Von King Park Vicinity</div><div class="ldet">Pre-war brick apartments, restored brownstones, mid-block multifamily</div></div></div></div></div>
 </div></section>
 
@@ -1397,8 +715,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <section class="sd"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt" style="color:rgba(200,16,46,.7)">Emergency Service</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Emergency Door Buzzer Repair <span class="ac">Brooklyn NY</span></h2></div>
-<div class="rv" style="transition-delay:.12s"><p class="bt" style="color:rgba(255,255,255,.6)">Don&#x2019;t get locked out &#x2014; fix your intercom in Brooklyn today. A broken door entry system leaves your building vulnerable to unauthorized entry, missed deliveries, and tenant complaints. We provide emergency door buzzer repair in Brooklyn NY with fast response times across all neighborhoods.</p>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/tenant-call-buzzer-wire-mapping.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician mapping apartment buzzer wires with a tenant on the phone" title="Mapping apartment buzzer wires with a tenant on the phone — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: mapping apartment buzzer wires with a tenant on the phone in Bedford Stuyvesant, Brooklyn.</figcaption></figure></div>
+<div class="rv" style="transition-delay:.12s"><p class="bt" style="color:rgba(255,255,255,.6)">Don&#x2019;t get locked out &#x2014; fix your intercom in Brooklyn today. A broken door entry system leaves your building vulnerable to unauthorized entry, missed deliveries, and tenant complaints. We provide emergency door buzzer repair in Brooklyn NY with fast response times across all neighborhoods.</p></div>
 <div class="sgrid rv" style="transition-delay:.16s">
 <div class="sc" style="background:rgba(255,255,255,.04);border-color:rgba(255,255,255,.08)"><div class="si">&#x26A1;</div><h3 style="color:#fff">Same-Day Buzzer Repair Brooklyn</h3><p style="color:rgba(255,255,255,.6)">Can someone fix my door buzzer today in Brooklyn? Yes. Same-day slots available for urgent buzzer repair. We carry parts for Aiphone, Comelit, Nutone, and other common Brooklyn brands on every truck. Book today for buzzer repair in Brooklyn &#x2014; most jobs completed in a single visit. Fix your door buzzer today in Brooklyn.</p></div>
 <div class="sc" style="background:rgba(255,255,255,.04);border-color:rgba(255,255,255,.08)"><div class="si">&#x1F319;</div><h3 style="color:#fff">24-Hour &amp; Weekend Repair</h3><p style="color:rgba(255,255,255,.6)">24-hour door buzzer repair in Brooklyn for buildings that can&#x2019;t wait until Monday. Weekend intercom repair in Brooklyn and holiday emergency repair in Brooklyn available when your building&#x2019;s access system fails outside of normal business hours. Fast response intercom repair Brooklyn &#x2014; door entry failures don&#x2019;t follow a 9-to-5 schedule.</p></div>
@@ -1495,7 +812,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 </div>
 <p class="bt" style="margin-top:20px">How to fix door buzzer professionally? Hire door buzzer repair Bedford Stuyvesant from a licensed intercom repair company. Abstract Enterprises door buzzer repair &#x2014; intercom repair Bedford Stuyvesant phone number: <a href="tel:+13479348335" class="lnk">(347) 934-8335</a>.</p>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/buzzer-terminal-voltage-measurement.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician measuring voltage at the buzzer terminal strip" title="Measuring voltage at the buzzer terminal strip — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: measuring voltage at the buzzer terminal strip in Bedford Stuyvesant, Brooklyn.</figcaption></figure>
 </div>
 </div></section>
 
@@ -1526,8 +842,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <section class="sw"><div class="cx" style="max-width:860px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Frequently Asked Questions</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair <span class="ac">Questions Answered</span></h2></div>
-<div class="fc rv" style="transition-delay:.12s"><div class="fi" onclick="tf(0)"><div class="fh"><h3 class="fq">How much does door buzzer repair cost in Brooklyn?</h3><div class="ft">+</div></div><div class="fa"><p>Most repairs $150&#x2013;$600. Diagnostic fee $75&#x2013;$150 applied toward repair. Call (347) 934-8335.</p>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/buzzer-door-release-strike-test.jpg" alt="Door buzzer repair in Bedford Stuyvesant, Brooklyn — AESS technician testing the door release strike with a multimeter at the entry" title="Testing the door release strike with a multimeter at the entry — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: testing the door release strike with a multimeter at the entry in Bedford Stuyvesant, Brooklyn.</figcaption></figure></div></div><div class="fi" onclick="tf(1)"><div class="fh"><h3 class="fq">Can you fix it the same day?</h3><div class="ft">Yes &#x2014; same-day service is standard for us in Bedford-Stuyvesant, and most buzzer repairs are completed in a single visit. Because we stock the common parts on the van, we rarely need a second trip. Emergencies like a stuck-open lobby door or a fully dead panel go to the front of the line.</div></div><div class="fa"><p>Yes. Same-day door buzzer repair across Bedford Stuyvesant and all Brooklyn neighborhoods.</p></div></div><div class="fi" onclick="tf(2)"><div class="fh"><h3 class="fq">What causes buzzers to fail in Bedford Stuyvesant buildings?</h3><div class="ft">The leading causes in Bed-Stuy are corroded riser terminals, dead handsets, failed transformers, jammed outdoor panel buttons, and worn door-release strikes. The neighborhood&#x2019;s 19th-century brownstones and turn-of-the-century apartment houses have wiring that&#x2019;s often intact but components that have simply aged out. In bigger rentals, one apartment&#x2019;s fault can knock out an entire riser line of neighbors.</div></div><div class="fa"><p>Aging wiring is the top cause in pre-war buildings. Also handset failures, door releases, and corroded panels.</p></div></div><div class="fi" onclick="tf(3)"><div class="fh"><h3 class="fq">Can you upgrade to video intercom?</h3><div class="ft">Yes &#x2014; upgrading to video intercom is one of our most common Bed-Stuy jobs, especially in multi-family brownstones and walk-ups where package theft is a concern. We can usually reuse the existing buzzer wiring, add a camera entry panel, and route calls to your phone. Landmark-district buildings get hardware chosen to respect the historic entry.</div></div><div class="fa"><p>Yes &#x2014; often using existing wiring. We quote an upgrade during the same visit.</p></div></div><div class="fi" onclick="tf(4)"><div class="fh"><h3 class="fq">Do you work in landmark districts?</h3><div class="ft">Yes &#x2014; we regularly work inside the Stuyvesant Heights and Bedford Historic Districts. Landmark status doesn&#x2019;t exempt a building from the legal requirement to keep a working intercom, so we do the repair while keeping the vestibule, stonework, and ironwork intact and choosing surface hardware that suits the historic facade.</div></div><div class="fa"><p>Yes &#x2014; Brooklyn Heights, Cobble Hill, Fort Greene, Park Slope, and all Brooklyn landmark districts.</p></div></div><div class="fi" onclick="tf(5)"><div class="fh"><h3 class="fq">What&#x2019;s the diagnostic fee?</h3><div class="ft">Our diagnostic fee is $75&#x2013;$150 and is applied toward the cost of the repair, so you&#x2019;re not paying twice. It covers a full trace of the system &#x2014; outdoor panel, riser wiring, transformer, and apartment handset &#x2014; so you get an exact cause and a firm quote before any work begins.</div></div><div class="fa"><p>$75&#x2013;$150 applied toward repair cost if work is performed.</p></div></div><div class="fi" onclick="tf(6)"><div class="fh"><h3 class="fq">Can you fix the door that won&#x2019;t open?</h3><div class="ft">Yes &#x2014; a door that won&#x2019;t release when you press the buzzer is usually a failed electric strike, a wiring fault to the strike, or a dead transformer, and we repair all three. This is a common Bed-Stuy call in older walk-ups where the strike has corroded inside the frame. We restore reliable entry and make sure the door also locks securely behind it.</div></div><div class="fa"><p>Yes. Failed door strikes and magnetic locks repaired or replaced same day.</p></div></div><div class="fi" onclick="tf(7)"><div class="fh"><h3 class="fq">Do you repair in occupied buildings?</h3><div class="ft">Yes &#x2014; nearly all our Bed-Stuy work is in fully occupied brownstones, co-ops, and rental buildings. We work cleanly around residents, coordinate lobby access with the super or board, and keep the entry secure throughout the repair. Most jobs are done in a single visit with minimal disruption.</div></div><div class="fa"><p>Yes. We coordinate with supers and minimize disruption.</p></div></div><div class="fi" onclick="tf(8)"><div class="fh"><h3 class="fq">What brands do you repair?</h3><div class="ft">We repair all major intercom and buzzer brands found in Bed-Stuy buildings &#x2014; Aiphone, Comelit, NuTone, IST, TekTone, and the generic multi-button systems common in older walk-ups, plus IP and video entry systems. If a part is discontinued, we source a compatible replacement or recommend a like-for-like upgrade rather than a full system swap.</div></div><div class="fa"><p>Aiphone, Comelit, Nutone, M&amp;S Systems, Channel Vision, Urmet, and most Brooklyn brands.</p></div></div><div class="fi" onclick="tf(9)"><div class="fh"><h3 class="fq">Do you serve all Brooklyn neighborhoods?</h3><div class="ft">Yes &#x2014; Bedford-Stuyvesant is one of our core service areas, and we cover every Brooklyn neighborhood from the brownstone blocks of Stuyvesant Heights to the walk-ups along Fulton and Nostrand. Same-day service is available throughout the borough, and we&#x2019;re licensed and insured on every job.</div></div><div class="fa"><p>Yes &#x2014; all 70+ Brooklyn neighborhoods.</p></div></div><div class="fi" onclick="tf(10)"><div class="fh"><h3 class="fq">Can you add video to existing buzzer?</h3><div class="ft">Yes &#x2014; in most Bed-Stuy buildings we can add a video entry panel to your existing buzzer wiring without a full rewire. You get camera and app-based entry &#x2014; see and buzz in visitors from your phone &#x2014; which is the single best deterrent against stoop and lobby package theft in the neighborhood.</div></div><div class="fa"><p>Often yes &#x2014; replace outdoor panel while keeping existing wiring and handsets.</p></div></div><div class="fi" onclick="tf(11)"><div class="fh"><h3 class="fq">What areas besides Brooklyn?</h3><div class="ft">Beyond Brooklyn, we cover Manhattan, Queens, the Bronx, Staten Island, Long Island (Nassau and Suffolk), and the Hudson Valley. Bed-Stuy is home turf, but our licensed technicians handle door buzzer and intercom repair across the wider NYC metro with the same same-day approach.</div></div><div class="fa"><p>All five NYC boroughs plus Nassau, Suffolk, Westchester, Rockland, and Hudson Valley.</p></div></div></div>
+<div class="fc rv" style="transition-delay:.12s"><div class="fi" onclick="tf(0)"><div class="fh"><h3 class="fq">How much does door buzzer repair cost in Brooklyn?</h3><div class="ft">+</div></div><div class="fa"><p>Most repairs $150&#x2013;$600. Diagnostic fee $75&#x2013;$150 applied toward repair. Call (347) 934-8335.</p></div></div><div class="fi" onclick="tf(1)"><div class="fh"><h3 class="fq">Can you fix it the same day?</h3><div class="ft">Yes &#x2014; same-day service is standard for us in Bedford-Stuyvesant, and most buzzer repairs are completed in a single visit. Because we stock the common parts on the van, we rarely need a second trip. Emergencies like a stuck-open lobby door or a fully dead panel go to the front of the line.</div></div><div class="fa"><p>Yes. Same-day door buzzer repair across Bedford Stuyvesant and all Brooklyn neighborhoods.</p></div></div><div class="fi" onclick="tf(2)"><div class="fh"><h3 class="fq">What causes buzzers to fail in Bedford Stuyvesant buildings?</h3><div class="ft">The leading causes in Bed-Stuy are corroded riser terminals, dead handsets, failed transformers, jammed outdoor panel buttons, and worn door-release strikes. The neighborhood&#x2019;s 19th-century brownstones and turn-of-the-century apartment houses have wiring that&#x2019;s often intact but components that have simply aged out. In bigger rentals, one apartment&#x2019;s fault can knock out an entire riser line of neighbors.</div></div><div class="fa"><p>Aging wiring is the top cause in pre-war buildings. Also handset failures, door releases, and corroded panels.</p></div></div><div class="fi" onclick="tf(3)"><div class="fh"><h3 class="fq">Can you upgrade to video intercom?</h3><div class="ft">Yes &#x2014; upgrading to video intercom is one of our most common Bed-Stuy jobs, especially in multi-family brownstones and walk-ups where package theft is a concern. We can usually reuse the existing buzzer wiring, add a camera entry panel, and route calls to your phone. Landmark-district buildings get hardware chosen to respect the historic entry.</div></div><div class="fa"><p>Yes &#x2014; often using existing wiring. We quote an upgrade during the same visit.</p></div></div><div class="fi" onclick="tf(4)"><div class="fh"><h3 class="fq">Do you work in landmark districts?</h3><div class="ft">Yes &#x2014; we regularly work inside the Stuyvesant Heights and Bedford Historic Districts. Landmark status doesn&#x2019;t exempt a building from the legal requirement to keep a working intercom, so we do the repair while keeping the vestibule, stonework, and ironwork intact and choosing surface hardware that suits the historic facade.</div></div><div class="fa"><p>Yes &#x2014; Brooklyn Heights, Cobble Hill, Fort Greene, Park Slope, and all Brooklyn landmark districts.</p></div></div><div class="fi" onclick="tf(5)"><div class="fh"><h3 class="fq">What&#x2019;s the diagnostic fee?</h3><div class="ft">Our diagnostic fee is $75&#x2013;$150 and is applied toward the cost of the repair, so you&#x2019;re not paying twice. It covers a full trace of the system &#x2014; outdoor panel, riser wiring, transformer, and apartment handset &#x2014; so you get an exact cause and a firm quote before any work begins.</div></div><div class="fa"><p>$75&#x2013;$150 applied toward repair cost if work is performed.</p></div></div><div class="fi" onclick="tf(6)"><div class="fh"><h3 class="fq">Can you fix the door that won&#x2019;t open?</h3><div class="ft">Yes &#x2014; a door that won&#x2019;t release when you press the buzzer is usually a failed electric strike, a wiring fault to the strike, or a dead transformer, and we repair all three. This is a common Bed-Stuy call in older walk-ups where the strike has corroded inside the frame. We restore reliable entry and make sure the door also locks securely behind it.</div></div><div class="fa"><p>Yes. Failed door strikes and magnetic locks repaired or replaced same day.</p></div></div><div class="fi" onclick="tf(7)"><div class="fh"><h3 class="fq">Do you repair in occupied buildings?</h3><div class="ft">Yes &#x2014; nearly all our Bed-Stuy work is in fully occupied brownstones, co-ops, and rental buildings. We work cleanly around residents, coordinate lobby access with the super or board, and keep the entry secure throughout the repair. Most jobs are done in a single visit with minimal disruption.</div></div><div class="fa"><p>Yes. We coordinate with supers and minimize disruption.</p></div></div><div class="fi" onclick="tf(8)"><div class="fh"><h3 class="fq">What brands do you repair?</h3><div class="ft">We repair all major intercom and buzzer brands found in Bed-Stuy buildings &#x2014; Aiphone, Comelit, NuTone, IST, TekTone, and the generic multi-button systems common in older walk-ups, plus IP and video entry systems. If a part is discontinued, we source a compatible replacement or recommend a like-for-like upgrade rather than a full system swap.</div></div><div class="fa"><p>Aiphone, Comelit, Nutone, M&amp;S Systems, Channel Vision, Urmet, and most Brooklyn brands.</p></div></div><div class="fi" onclick="tf(9)"><div class="fh"><h3 class="fq">Do you serve all Brooklyn neighborhoods?</h3><div class="ft">Yes &#x2014; Bedford-Stuyvesant is one of our core service areas, and we cover every Brooklyn neighborhood from the brownstone blocks of Stuyvesant Heights to the walk-ups along Fulton and Nostrand. Same-day service is available throughout the borough, and we&#x2019;re licensed and insured on every job.</div></div><div class="fa"><p>Yes &#x2014; all 70+ Brooklyn neighborhoods.</p></div></div><div class="fi" onclick="tf(10)"><div class="fh"><h3 class="fq">Can you add video to existing buzzer?</h3><div class="ft">Yes &#x2014; in most Bed-Stuy buildings we can add a video entry panel to your existing buzzer wiring without a full rewire. You get camera and app-based entry &#x2014; see and buzz in visitors from your phone &#x2014; which is the single best deterrent against stoop and lobby package theft in the neighborhood.</div></div><div class="fa"><p>Often yes &#x2014; replace outdoor panel while keeping existing wiring and handsets.</p></div></div><div class="fi" onclick="tf(11)"><div class="fh"><h3 class="fq">What areas besides Brooklyn?</h3><div class="ft">Beyond Brooklyn, we cover Manhattan, Queens, the Bronx, Staten Island, Long Island (Nassau and Suffolk), and the Hudson Valley. Bed-Stuy is home turf, but our licensed technicians handle door buzzer and intercom repair across the wider NYC metro with the same same-day approach.</div></div><div class="fa"><p>All five NYC boroughs plus Nassau, Suffolk, Westchester, Rockland, and Hudson Valley.</p></div></div></div>
 </div></section>
 
 <!-- WHY US -->

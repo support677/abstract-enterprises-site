@@ -189,691 +189,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 @media(min-width:769px){.spb-label{display:flex}.spb-inner{height:68px}}
 @media(max-width:768px){.spb-inner{flex-direction:column;height:auto;padding:10px 14px 14px;gap:10px}.spb-ticker{width:100%;padding:0;height:44px;order:1;align-items:center}.spb-chip{padding:8px 12px;gap:8px;border-radius:7px}.spb-chip-tag{font-size:.65rem}.spb-chip-mid{font-size:.72rem}.spb-chip-val{font-size:.78rem}.spb-chip-div{height:20px}.spb-cta{width:100%;padding:0;gap:8px;order:2;height:auto}.spb-btn-primary{flex:1.4;justify-content:center;padding:13px 14px;font-size:.86rem}.spb-btn-secondary{flex:1;justify-content:center;padding:13px 10px;font-size:.8rem}.spb-dismiss{position:absolute;top:6px;right:8px;margin:0;width:28px;height:28px}}
 </style>
-<style>
-/* ═══════════════════════════════════════════════════════════════
-   MEGA-NAV v1.0 — Abstract Enterprises Security Systems
-   Self-contained. Overrides all page template nav styles.
-   ═══════════════════════════════════════════════════════════════ */
-
-/* ── Reset: kill any inherited nav styles from any template ── */
-.mn-wrap, .mn-wrap *, .mn-wrap *::before, .mn-wrap *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-.mn-wrap a { text-decoration: none; color: inherit; }
-.mn-wrap ul, .mn-wrap li { list-style: none; }
-
-/* ── Variables ── */
-:root {
-  --mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --mn-bg: rgba(255,255,255,0.97);
-  --mn-blur: 12px;
-  --mn-text: #1a1a1a;
-  --mn-text-light: #555;
-  --mn-red: #e53935;
-  --mn-red-hover: #c62828;
-  --mn-border: #e8e8e8;
-  --mn-mega-bg: #fff;
-  --mn-hover-bg: #f5f5f5;
-  --mn-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  --mn-height: 72px;
-  --mn-mega-max-w: 1120px;
-  --mn-z: 99999;
-}
-
-/* ── Sticky wrapper ── */
-.mn-wrap {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: var(--mn-z);
-  background: var(--mn-bg);
-  backdrop-filter: blur(var(--mn-blur));
-  -webkit-backdrop-filter: blur(var(--mn-blur));
-  border-bottom: 1px solid var(--mn-border);
-  font-family: var(--mn-font);
-  height: var(--mn-height);
-}
-
-/* ── Spacer (pushes page content down) ── */
-.mn-spacer {
-  height: var(--mn-height);
-  display: block;
-}
-
-/* ── Inner bar ── */
-.mn-bar {
-  max-width: 1320px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: var(--mn-height);
-  padding: 0 24px;
-  gap: 16px;
-}
-
-/* ── Logo ── */
-.mn-logo img {
-  height: 42px;
-  width: auto;
-  display: block;
-}
-
-/* ── Desktop nav links ── */
-.mn-links {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  height: 100%;
-}
-
-.mn-link-item {
-  position: relative;
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.mn-link-item > a,
-.mn-link-item > button {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  padding: 0 16px;
-  height: 100%;
-  font-size: 14.5px;
-  font-weight: 600;
-  color: var(--mn-text);
-  letter-spacing: -0.01em;
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  transition: color 0.15s;
-  white-space: nowrap;
-}
-
-.mn-link-item > a:hover,
-.mn-link-item > button:hover,
-.mn-link-item.mn-open > button {
-  color: var(--mn-red);
-}
-
-/* Chevron */
-.mn-chev {
-  width: 10px; height: 10px;
-  transition: transform 0.2s;
-}
-.mn-link-item.mn-open .mn-chev {
-  transform: rotate(180deg);
-}
-
-/* ── Mega panel (shared) ── */
-.mn-mega {
-  position: absolute;
-  top: var(--mn-height);
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--mn-mega-bg);
-  border: 1px solid var(--mn-border);
-  border-top: 2px solid var(--mn-red);
-  border-radius: 0 0 12px 12px;
-  box-shadow: var(--mn-shadow);
-  padding: 32px 36px 28px;
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transition: opacity 0.18s, visibility 0.18s;
-  z-index: calc(var(--mn-z) + 1);
-}
-
-.mn-link-item.mn-open .mn-mega {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
-}
-
-/* ── Services mega (split layout) ── */
-.mn-mega--services {
-  width: 680px;
-  left: 50%;
-}
-
-.mn-mega--areas {
-  width: 620px;
-}
-
-.mn-mega-split {
-  display: flex;
-  gap: 0;
-}
-.mn-mega-left {
-  width: 240px;
-  flex-shrink: 0;
-  border-right: 1px solid var(--mn-border);
-  padding-right: 0;
-}
-.mn-mega-right {
-  flex: 1;
-  padding-left: 20px;
-  min-height: 300px;
-  column-count: 2;
-  column-gap: 24px;
-  column-rule: 1px solid var(--mn-border);
-}
-.mn-area-block {
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  display: block;
-  margin-bottom: 8px;
-}
-.mn-mega-right > .mn-mega-col-head:first-child {
-  column-span: all;
-  -webkit-column-span: all;
-  margin-bottom: 8px;
-}
-
-.mn-svc-trigger,
-.mn-area-trigger,
-.mn-price-trigger {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 8px 16px 8px 12px;
-  border-radius: 6px 0 0 6px;
-  cursor: pointer;
-  transition: background 0.1s, color 0.1s;
-  border-right: 2px solid transparent;
-}
-.mn-svc-trigger:hover,
-.mn-area-trigger:hover,
-.mn-price-trigger:hover,
-.mn-svc-trigger.mn-svc-active,
-.mn-area-trigger.mn-svc-active,
-.mn-price-trigger.mn-svc-active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-  border-right-color: var(--mn-red);
-}
-
-.mn-mega-right a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega-right a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-area-group {
-  font-size: 9px !important;
-  margin-top: 8px;
-  padding-bottom: 2px;
-}
-
-.mn-mega-col-head {
-  font-size: 10.5px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding-bottom: 6px;
-  margin-bottom: 4px;
-}
-
-.mn-mega-cta {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid var(--mn-border);
-}
-.mn-mega-cta a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--mn-red);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s;
-}
-.mn-mega-cta a:hover { background: #fef2f2; }
-.mn-mega-cta .mn-mega-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  margin-top: 4px;
-  padding: 6px 8px;
-}
-
-/* ── Pricing/Tools mega ── */
-.mn-mega--tools {
-  width: 680px;
-}
-.mn-mega-grid--tools {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 28px;
-}
-
-/* ── Company mega ── */
-.mn-mega--company {
-  width: 320px;
-}
-.mn-mega--company .mn-mega-col a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 7px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega--company .mn-mega-col a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-/* ── Right side CTA button ── */
-.mn-cta-wrap {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
-}
-
-.mn-cta-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  white-space: nowrap;
-  transition: color 0.15s;
-}
-.mn-cta-phone:hover {
-  color: var(--mn-red);
-}
-
-.mn-cta-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--mn-red);
-  color: #fff !important;
-  font-size: 13.5px;
-  font-weight: 700;
-  padding: 10px 20px;
-  border-radius: 8px;
-  white-space: nowrap;
-  transition: background 0.15s, transform 0.1s;
-}
-.mn-cta-btn:hover {
-  background: var(--mn-red-hover);
-  transform: translateY(-1px);
-}
-
-/* ── Hamburger (mobile) ── */
-.mn-hamburger {
-  display: none;
-  background: none;
-  border: none;
-  cursor: pointer;
-  width: 36px; height: 36px;
-  position: relative;
-  flex-shrink: 0;
-}
-.mn-hamburger span {
-  display: block;
-  width: 22px; height: 2px;
-  background: var(--mn-text);
-  position: absolute;
-  left: 7px;
-  transition: all 0.25s;
-}
-.mn-hamburger span:nth-child(1) { top: 10px; }
-.mn-hamburger span:nth-child(2) { top: 17px; }
-.mn-hamburger span:nth-child(3) { top: 24px; }
-.mn-hamburger.mn-active span:nth-child(1) { top: 17px; transform: rotate(45deg); }
-.mn-hamburger.mn-active span:nth-child(2) { opacity: 0; }
-.mn-hamburger.mn-active span:nth-child(3) { top: 17px; transform: rotate(-45deg); }
-
-/* ── Mobile drawer ── */
-.mn-mobile {
-  display: none;
-  position: fixed;
-  top: var(--mn-height);
-  left: 0; right: 0; bottom: 0;
-  background: #fff;
-  z-index: calc(var(--mn-z) - 1);
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 8px 0 100px;
-}
-.mn-mobile.mn-active {
-  display: block;
-}
-
-.mn-mobile-section {
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-}
-.mn-mobile-toggle .mn-chev-m {
-  width: 12px; height: 12px;
-  transition: transform 0.2s;
-}
-.mn-mobile-section.mn-open .mn-mobile-toggle .mn-chev-m {
-  transform: rotate(180deg);
-}
-
-.mn-mobile-panel {
-  display: none;
-  padding: 0 24px 16px;
-}
-.mn-mobile-section.mn-open .mn-mobile-panel {
-  display: block;
-}
-
-.mn-mobile-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 12px 0 6px;
-  border-bottom: 1px solid var(--mn-border);
-  margin-bottom: 2px;
-}
-
-.mn-mobile-panel a {
-  display: block;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 10px 8px;
-  border-radius: 6px;
-}
-.mn-mobile-panel a:active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-mobile-link {
-  display: block;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-cta {
-  display: block;
-  margin: 16px 24px 8px;
-  background: var(--mn-red);
-  color: #fff !important;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  padding: 14px;
-  border-radius: 10px;
-}
-
-.mn-mobile-phone {
-  display: block;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  padding: 12px;
-}
-
-/* ── Mobile funnel steps ── */
-.mnm-step { display: none; padding: 8px 0 100px; }
-.mnm-step.mnm-active { display: block; }
-.mnm-prompt {
-  font-size: 13px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--mn-text-light, #555);
-  padding: 16px 24px 8px;
-}
-.mnm-path-btn {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  width: 100%;
-  padding: 16px 24px;
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  font-size: 14px;
-  color: var(--mn-text);
-  transition: background 0.12s;
-}
-.mnm-path-btn:active { background: var(--mn-hover-bg); }
-.mnm-path-icon { font-size: 22px; flex-shrink: 0; width: 36px; text-align: center; }
-.mnm-path-btn strong { font-weight: 700; font-size: 15px; display: block; margin-bottom: 2px; }
-.mnm-path-sub { font-size: 12px; color: var(--mn-text-light); }
-.mnm-path-arrow { margin-left: auto; font-size: 20px; color: #ccc; flex-shrink: 0; }
-.mnm-back {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--mn-red);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  width: 100%;
-  text-align: left;
-}
-.mnm-svc-btn {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 14px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  text-decoration: none;
-}
-.mnm-svc-btn:active { background: var(--mn-hover-bg); }
-.mnm-svc-soon { color: var(--mn-text-light); font-weight: 500; }
-.mnm-badge {
-  font-size: 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  background: var(--mn-hover-bg);
-  color: var(--mn-text-light);
-  padding: 3px 8px;
-  border-radius: 4px;
-}
-.mnm-divider { height: 1px; background: var(--mn-border); margin: 8px 24px; }
-.mnm-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 14px 24px 6px;
-}
-.mnm-picked {
-  padding: 8px 24px;
-  font-size: 13px;
-  font-weight: 700;
-  color: var(--mn-red);
-  background: #fef2f2;
-  border-bottom: 1px solid var(--mn-border);
-}
-.mnm-area-link {
-  display: block;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-  text-decoration: none;
-}
-.mnm-area-link:active { background: var(--mn-hover-bg); color: var(--mn-red); }
-
-/* ═══ RESPONSIVE ═══ */
-@media (max-width: 1100px) {
-  .mn-link-item > a, .mn-link-item > button { padding: 0 10px; font-size: 13.5px; }
-  .mn-mega--services { width: 720px; }
-  .mn-mega--areas { width: 560px; }
-}
-
-@media (max-width: 960px) {
-  .mn-links, .mn-cta-phone { display: none !important; }
-  .mn-hamburger { display: block; }
-  .mn-cta-btn { font-size: 12.5px; padding: 9px 14px; }
-  .mn-bar { padding: 0 16px; }
-}
-
-@media (max-width: 480px) {
-  :root { --mn-height: 64px; }
-  .mn-logo img { height: 36px; }
-  .mn-cta-btn { padding: 8px 12px; font-size: 12px; }
-}
-
-/* ═══ EMERGENCY DRAWER FIX — Hide mnm-drawer/overlay by default on all screens ═══
-   Bug: legacy .mnm-drawer and .mnm-overlay elements had no CSS rules,
-   so they rendered visible on every page load, covering hero sections.
-   Fix: hide by default, show only when .mnm-active class is added via hamburger. */
-
-.mnm-drawer,
-.mnm-overlay,
-#mnmDrawer,
-#mnmOverlay {
-  display: none !important;
-}
-
-.mnm-drawer.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: min(380px, 100%);
-  background: #fff;
-  z-index: 9999;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 20px 0 100px;
-  box-shadow: -10px 0 40px rgba(0,0,0,0.2);
-}
-
-.mnm-overlay.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.5);
-  z-index: 9998;
-}
-
-/* Never show mobile drawer on desktop, even if something accidentally adds .mnm-active */
-@media (min-width: 961px) {
-  .mnm-drawer,
-  .mnm-drawer.mnm-active,
-  .mnm-overlay,
-  .mnm-overlay.mnm-active,
-  #mnmDrawer,
-  #mnmOverlay {
-    display: none !important;
-  }
-}
-
-
-/* === REPAIR TAB — RED ACCENT (industry-best-practice urgency signaling) === */
-.mn-link-item[data-mega="repair"] > button {
-  position: relative;
-  color: #dc2626 !important;
-  font-weight: 700;
-}
-.mn-link-item[data-mega="repair"] > button::before {
-  content: "🔧";
-  margin-right: 6px;
-  font-size: 0.95em;
-}
-.mn-link-item[data-mega="repair"] > button:hover {
-  color: #b91c1c !important;
-  background: rgba(220, 38, 38, 0.05);
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger {
-  display: flex;
-  align-items: center;
-  padding: 10px 16px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.15s;
-  border-right: 3px solid transparent;
-  text-decoration: none;
-  color: var(--text, #0f172a);
-  font-weight: 500;
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger:hover,
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger.mn-svc-active {
-  background: rgba(220, 38, 38, 0.06);
-  border-right-color: #dc2626;
-}
-.mn-rpr-emergency-cta {
-  margin-top: 14px;
-  padding: 12px 14px;
-  background: linear-gradient(135deg, #dc2626, #b91c1c);
-  color: #fff !important;
-  border-radius: 8px;
-  font-weight: 700;
-  font-size: 0.92rem;
-  text-align: center;
-  text-decoration: none;
-  display: block;
-}
-.mn-rpr-emergency-cta:hover {
-  background: linear-gradient(135deg, #b91c1c, #991b1b);
-  color: #fff !important;
-}
-
-</style>
+<link rel="stylesheet" href="/css/mega-nav.css">
 </head>
 <body>
 <!-- ═══ MEGA-NAV START ═══ -->
-
+<link rel="stylesheet" href="/css/mega-nav.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -899,6 +219,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
               <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
               <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
               <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="cat6" onclick="mnDeskSvc(this)">🖧 Cat6 Installation<span style="font-size:9px;background:#B87333;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
               <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
               <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
               <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
@@ -1119,6 +440,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cat6')">🖧 Cat6 Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
@@ -1195,7 +517,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <div id="mnmPriceAreaList"></div>
   </div>
 </div>
-<script src="/js/mega-nav.js?v=parking118"></script>
+<script src="/js/mega-nav.js?v=cat119"></script>
 <!-- ═══ MEGA-NAV END ═══ -->
 
 <!-- HERO -->
@@ -1210,7 +532,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv br" style="transition-delay:.22s"><a href="/pay?desc=Door%20Buzzer%20Repair%20Service%20Call%20%E2%80%94%20Bronx&amount=250&area=bronx" class="bp">Book &amp; Pay $250 →</a><a href="tel:+16464900629" class="bo">Call (646) 490-0629</a></div>
 </div>
 <div class="hero-img rv" style="transition-delay:.2s">
-<img src="/images/buzzer-repair/door-release-two-technician-test.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician coordinating a door-release test between lobby and apartment" width="1402" height="1122" loading="eager">
+<img src="/images/intercom-keypad-dark.png" alt="Door Buzzer System Installation" loading="eager">
 <div class="hf-card" style="margin-top:100px;max-width:420px;width:100%">
 <div class="hf-head" style="padding:14px 20px 10px">
 <div class="hf-title" style="font-size:1rem">Get a Free Quote</div>
@@ -1293,7 +615,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">How much does door buzzer repair cost in the Bronx?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Most Bronx door buzzer repairs cost $150&#x2013;$600. The cost to repair a door buzzer depends on the issue &#x2014; simple handset replacements and loose wiring fixes are at the lower end, while full panel replacements and door release system repairs run higher. We provide a firm quote after on-site diagnosis. Call <a href="tel:+16464900629" class="lnk">(646) 490-0629</a> for your free estimate.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">My Bronx apartment buzzer is not working &#x2014; can someone repair my door buzzer today?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/buzzer-riser-wire-tone-tracing.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician tone-tracing buzzer riser wiring floor by floor" title="Tone-tracing buzzer riser wiring floor by floor — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: tone-tracing buzzer riser wiring floor by floor in Pelham Gardens, the Bronx.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. We offer same day door buzzer repair throughout Pelham Gardens. If your apartment buzzer is not working, your intercom system stopped working, or your home entry system needs urgent repair, call (646) 490-0629. Our technicians cover the entire Pelham Gardens footprint &mdash; the small (~0.75 to 2 square mile) suburban-feeling enclave from East Gun Hill Road on the north and east, south to Pelham Parkway, and across to the IRT Dyre Avenue Line (5 train) running under The Esplanade on the west. Special focus on the dominant 1930s-1950s Colonial / Tudor Revival / Cape Cod single-family homes, the 2-3 family brick homes (many with basement studio apartments classified as one-family), Tiemann Avenue (where Lea Michele grew up), the glacier-carved valley between Eastchester Road and Laconia Avenue (with the lowest point on Seymour Avenue), and the small commercial frontage along Eastchester Road (the primary north-south thoroughfare) and East Gun Hill Road. We carry parts for Aiphone, Comelit, Lee Dan, TekTone, Nutone, and M&amp;S Systems for the prewar and postwar single-family residential stock plus modern Comelit/Aiphone/ButterflyMX for post-2010 development. Most issues are fixed in a single visit. </h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Why is my apartment buzzer not working?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">The most common causes of buzzer failure in Pelham Gardens buildings tie directly to the dominant single-family-home building stock and the smaller multi-family buildings scattered throughout: the 1930s-1950s COLONIAL, TUDOR REVIVAL, and CAPE COD single-family homes that dominate the residential streets (the suburban-feeling stock that defines Pelham Gardens) typically have original wired front-door bell systems with chime modules in entryways, requiring preservation-conscious replacement work for those Tudor Revival and Colonial details. The 2-3 family brick and stucco homes (many with basement studio apartments classified as one-family) often have layered wiring with original 1930s-1950s service combined with selective late-20th-century retrofits as basement units were added. The small apartment buildings scattered throughout typically have Lee Dan, M&amp;S, or Nutone hardware. The post-2010 modern infill (mostly along Eastchester Road and Pelham Parkway South near the Hutchinson Metro Center) requires Comelit/Aiphone/ButterflyMX expertise. Common failure modes vary by era and building type: in the 1930s-1950s Tudor Revival single-family homes, original wired front-door bells with corroded copper wiring through plaster and stucco walls; in the Colonial and Cape Cod homes, original chime modules in entryways needing replacement after 70-90 years of service; in the 2-3 family brick homes with basement studio apartments, multi-tenant intercom complexity in buildings classified as one-family for tax purposes; in the small apartment buildings, original Lee Dan or M&amp;S hardware with selective post-1980s retrofits. The neighborhood is largely flat but contains a SIGNIFICANT GLACIER-CARVED VALLEY between Eastchester Road and Laconia Avenue (with the most significant low point on SEYMOUR AVENUE) &mdash; the elevation changes mean technicians must navigate sloping streets when carrying parts. The 5 train (IRT Dyre Avenue Line) running in a tunnel underneath The Esplanade generates relatively muted transit noise compared to elevated-train neighborhoods. Pelham Parkway on the south generates parkway-corridor traffic noise. Pelham Bay Park to the east (NYC&rsquo;s largest park) and Bronx Park to the west (with the NY Botanical Garden and Bronx Zoo) keep the neighborhood quieter than highway-adjacent rebuilds. If your intercom is not ringing in your apartment but the outdoor panel seems fine, the issue is usually a disconnected wire or a blown speaker inside the unit. If the buzzer works but the door won&rsquo;t unlock, the electric door strike or magnetic lock has likely failed. </h3>
@@ -1304,7 +625,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">How do I fix my intercom system myself?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">You can check for a tripped circuit breaker, tighten loose wire connections behind the handset cover, and clean dust from the speaker. If those quick fixes don&#x2019;t work, the issue is likely a failed transformer, broken wiring inside the walls, or a damaged outdoor panel &#x2014; all of which require a professional. If you searched &#x201C;how to fix door buzzer in apartment&#x201D; or &#x201C;how to troubleshoot intercom system,&#x201D; and DIY didn&#x2019;t solve it, call us for professional intercom repair service.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">What buzzer brands do you repair in the Bronx?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/basement-buzzer-terminal-panel.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician diagnosing the basement buzzer terminal panel" title="Diagnosing the basement buzzer terminal panel — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: diagnosing the basement buzzer terminal panel in Pelham Gardens, the Bronx.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Aiphone, Comelit, Lee Dan, TekTone, Nutone, M&amp;S Systems, Channel Vision, Urmet, Fermax, ButterflyMX, 2N, Akuvox, DoorBird, SSS Siedle, and most other brands found in Pelham Gardens buildings. The 1-2 family detached and semi-detached homes run Ring, Nest, Eufy, or Arlo smart video doorbells plus traditional wired front-door bells. Selective Aiphone and Lee Dan on small apartment buildings. We are a full-service door buzzer repair company serving every Pelham Gardens block.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Do you provide emergency intercom repair in the Bronx?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. A building without a working buzzer is a security risk. NYC buildings with 8+ units are legally required to maintain a functioning intercom and self-locking front door. If your system fails, we provide urgent buzzer repair and emergency intercom repair to restore access control fast. Landlords can be held liable for crimes that occur due to a non-functioning entry system.</h3>
@@ -1315,7 +635,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Do you repair buzzers in occupied Bronx apartment buildings?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. We coordinate with building supers and property managers, work during business hours, and minimize disruption to tenants. Whether it&#x2019;s tenant intercom repair in a single unit or a building-wide intercom service, the building is always left with a fully working system.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Does cold weather cause buzzer problems in the Bronx?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/buzzer-power-supply-service.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician servicing the buzzer power supply feeding the entry panel" title="Servicing the buzzer power supply feeding the entry panel — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: servicing the buzzer power supply feeding the entry panel in Pelham Gardens, the Bronx.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. Winter intercom failure is common in Pelham Gardens buildings &mdash; cold temperatures cause aging front-door doorbell wiring connections to contract on the detached homes. Cold temperatures cause wiring connections to contract and loosen, outdoor panels to crack, and door strikes to freeze. If your buzzer system is not working in cold weather, call us for winter buzzer repair service. We see a spike in emergency calls every November through March across Pelham Gardens.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Do you also install new intercom systems in the Bronx?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. Full video intercom system installation, audio intercom systems, wireless intercom systems, and access control system installation for Pelham Gardens buildings of all sizes &mdash; from the 1-2 family detached homes (smart video doorbells), to the small apartment buildings, to the small commercial buildings. New systems, upgrades, and additions. We also integrate intercom systems with security camera systems for complete building security.</h3>
@@ -1331,7 +650,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Who fixes door buzzers near me in the Bronx?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Abstract Enterprises Security Systems is a licensed and insured door buzzer repair company serving all Bronx neighborhoods. We are top rated intercom repair technicians with 4.7 stars on Google and 25+ years of experience. If you searched &#x201C;who fixes door buzzers near me&#x201D; or &#x201C;best door buzzer repair NYC&#x201D; &#x2014; you found the right company. Call <a href="tel:+16464900629" class="lnk">(646) 490-0629</a>.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">Can someone repair my door buzzer today in the Bronx?</h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/buzzer-transformer-voltage-test.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician metering the 16VAC buzzer transformer output" title="Metering the 16VAC buzzer transformer output — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: metering the 16VAC buzzer transformer output in Pelham Gardens, the Bronx.</figcaption></figure>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">Yes. We offer same day intercom repair and urgent buzzer repair across all Bronx neighborhoods. If your apartment buzzer is not working, your front door buzzer is dead, or your building entry buzzer stopped working, call us now. We carry parts on every truck and fix most issues in one visit.</h3>
 <h2 style="font-size:1.4rem;font-weight:800;margin-bottom:12px">How much does it cost to fix a buzzer in the Bronx?</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:36px">The cost to repair a door buzzer in the Bronx ranges from $150 to $600 for most repairs. Diagnostic fee is $75&#x2013;$150, applied toward repair if work is performed. Full system replacement runs $1,500&#x2013;$2,500 depending on building size and system type. We provide transparent intercom repair pricing after on-site diagnosis &#x2014; no surprises.</h3>
@@ -1347,8 +665,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <section class="sg"><div class="cx" style="max-width:860px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">DIY vs Professional</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>How to Fix a Door Buzzer in an Apartment: <span class="ac">DIY vs Hiring a Pro</span></h2></div>
-<div class="rv" style="transition-delay:.12s"><p class="bt">If you searched &#x201C;how to fix door buzzer in apartment&#x201D; or &#x201C;how to repair intercom system&#x201D; &#x2014; here&#x2019;s an honest breakdown of what you can try yourself and when you need to hire a buzzer repair technician.</p>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/entry-door-frame-wire-splice.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician splicing entry-door frame wiring at the lobby panel" title="Splicing entry-door frame wiring at the lobby panel — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: splicing entry-door frame wiring at the lobby panel in Pelham Gardens, the Bronx.</figcaption></figure></div>
+<div class="rv" style="transition-delay:.12s"><p class="bt">If you searched &#x201C;how to fix door buzzer in apartment&#x201D; or &#x201C;how to repair intercom system&#x201D; &#x2014; here&#x2019;s an honest breakdown of what you can try yourself and when you need to hire a buzzer repair technician.</p></div>
 <h2 style="font-size:1.2rem;font-weight:800;margin-bottom:12px;color:var(--a)">What You Can Try Yourself</h2>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:12px">&#x2705; Check your circuit breaker &#x2014; a tripped breaker kills the entire system.</h3>
 <h3 style="font-size:1rem;font-weight:500;color:var(--g);line-height:1.8;margin-bottom:12px">&#x2705; Remove the handset cover and tighten any visibly loose wires with a screwdriver.</h3>
@@ -1381,8 +698,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <!-- LANDMARKS -->
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Service Areas</span></div></div>
-<div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair Near <span class="ac">Major Bronx Areas</span></h2>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/apartment-buzzer-junction-box-tracing.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician tracing apartment pairs at the buzzer junction box" title="Tracing apartment pairs at the buzzer junction box — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: tracing apartment pairs at the buzzer junction box in Pelham Gardens, the Bronx.</figcaption></figure></div>
+<div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair Near <span class="ac">Major Bronx Areas</span></h2></div>
 <div class="lg rv" style="transition-delay:.12s"><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Grand Concourse &amp; Yankee Stadium</div><div class="ldet">Pre-war apartments, Art Deco buildings, commercial, mixed-use</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Fordham Road &amp; Arthur Avenue</div><div class="ldet">Commercial corridor, walk-ups, retail storefronts, Little Italy</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Jerome Avenue Corridor</div><div class="ldet">Apartment buildings, subway corridor, commercial properties</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Mott Haven &amp; The Hub</div><div class="ldet">Walk-ups, tenements, mixed-use, new luxury developments</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Hunts Point &amp; Longwood</div><div class="ldet">Multi-family residential, commercial, industrial properties</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Pelham Bay &amp; Throggs Neck</div><div class="ldet">Single-family homes, co-ops, waterfront residential</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Co-op City &amp; Baychester</div><div class="ldet">High-rise towers, cooperative apartments, large residential complex</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Riverdale &amp; Kingsbridge</div><div class="ldet">Co-ops, single-family homes, pre-war buildings, private residences</div></div></div><div class="lcard rv"><svg width="20" height="20" viewBox="0 0 24 24" fill="#4285F4"><path d="M12 0C7.31 0 3.5 3.81 3.5 8.5c0 6.38 8.5 15.5 8.5 15.5s8.5-9.12 8.5-15.5C20.5 3.81 16.69 0 12 0zm0 11.5c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg><div><div class="lname">Parkchester &amp; Castle Hill</div><div class="ldet">Planned apartment community, multi-family, commercial</div></div></div></div>
 </div></section>
 
@@ -1425,8 +741,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <section class="sw"><div class="cx" style="max-width:860px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Frequently Asked Questions</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Door Buzzer Repair <span class="ac">Questions Answered</span></h2></div>
-<div class="fc rv" style="transition-delay:.12s"><div class="fi" onclick="tf(0)"><div class="fh"><h3 class="fq">How much does door buzzer repair cost in the Bronx?</h3><div class="ft">+</div></div><div class="fa"><p>Most repairs $150&#x2013;$600. Full replacement $1,500&#x2013;$2,500. Diagnostic fee $75&#x2013;$150 applied toward repair. Call (646) 490-0629 for a free estimate.</p>
-<figure style="margin:28px auto;max-width:900px"><img src="/images/buzzer-repair/entry-panel-contact-cleaning.jpg" alt="Door buzzer repair in Pelham Gardens, the Bronx — AESS technician cleaning corroded contacts on a weathered entry panel" title="Cleaning corroded contacts on a weathered entry panel — AESS" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:14px;opacity:.75;margin-top:8px;text-align:center">AESS field work: cleaning corroded contacts on a weathered entry panel in Pelham Gardens, the Bronx.</figcaption></figure></div></div><div class="fi" onclick="tf(1)"><div class="fh"><h3 class="fq">Can you fix my apartment buzzer today?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Same-day door buzzer repair and intercom repair across all Bronx neighborhoods. Call for urgent buzzer repair.</p></div></div><div class="fi" onclick="tf(2)"><div class="fh"><h3 class="fq">Why is my apartment buzzer not working?</h3><div class="ft">+</div></div><div class="fa"><p>Common causes: corroded wiring, failed transformer, dead handset speaker, or broken door release mechanism. We diagnose and fix same day.</p></div></div><div class="fi" onclick="tf(3)"><div class="fh"><h3 class="fq">My intercom buzzes but the door won&#x2019;t open &#x2014; can you fix it?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Usually a failed electric door strike or magnetic lock. We carry replacement parts and fix door release system issues same day.</p></div></div><div class="fi" onclick="tf(4)"><div class="fh"><h3 class="fq">Can you upgrade to a video intercom?</h3><div class="ft">+</div></div><div class="fa"><p>Yes &#x2014; often using existing wiring. We install Comelit, Aiphone, ButterflyMX, and other video intercom systems.</p></div></div><div class="fi" onclick="tf(5)"><div class="fh"><h3 class="fq">What brands do you repair?</h3><div class="ft">+</div></div><div class="fa"><p>Aiphone, Comelit, Lee Dan, TekTone, Nutone, M&amp;S Systems, ButterflyMX, 2N, Urmet, and most brands found in Pelham Gardens buildings.</p></div></div><div class="fi" onclick="tf(6)"><div class="fh"><h3 class="fq">Do you provide emergency intercom repair?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. A non-functioning buzzer is a building security risk. We provide urgent buzzer repair and emergency intercom repair service in the Bronx.</p></div></div><div class="fi" onclick="tf(7)"><div class="fh"><h3 class="fq">Do you repair commercial buzzer systems?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Commercial buzzer repair for retail storefronts, offices, medical practices, and restaurants across the Bronx.</p></div></div><div class="fi" onclick="tf(8)"><div class="fh"><h3 class="fq">Does cold weather affect door buzzers?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Winter causes wiring to contract, outdoor panels to crack, and door strikes to freeze. We handle winter intercom repair issues across the Bronx.</p></div></div><div class="fi" onclick="tf(9)"><div class="fh"><h3 class="fq">Do you serve all Bronx neighborhoods?</h3><div class="ft">+</div></div><div class="fa"><p>Yes &#x2014; all 60+ Bronx neighborhoods from Mott Haven to Riverdale. Every building type, every zip code.</p></div></div><div class="fi" onclick="tf(10)"><div class="fh"><h3 class="fq">Can you fix a buzzer with no sound?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Door buzzer no sound is usually a failed speaker, disconnected wiring, or blown transformer. We fix audio intercom issues same day.</p></div></div><div class="fi" onclick="tf(11)"><div class="fh"><h3 class="fq">What other areas do you serve besides the Bronx?</h3><div class="ft">+</div></div><div class="fa"><p>All five NYC boroughs plus Nassau, Suffolk, Westchester, Rockland, and Hudson Valley.</p></div></div></div>
+<div class="fc rv" style="transition-delay:.12s"><div class="fi" onclick="tf(0)"><div class="fh"><h3 class="fq">How much does door buzzer repair cost in the Bronx?</h3><div class="ft">+</div></div><div class="fa"><p>Most repairs $150&#x2013;$600. Full replacement $1,500&#x2013;$2,500. Diagnostic fee $75&#x2013;$150 applied toward repair. Call (646) 490-0629 for a free estimate.</p></div></div><div class="fi" onclick="tf(1)"><div class="fh"><h3 class="fq">Can you fix my apartment buzzer today?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Same-day door buzzer repair and intercom repair across all Bronx neighborhoods. Call for urgent buzzer repair.</p></div></div><div class="fi" onclick="tf(2)"><div class="fh"><h3 class="fq">Why is my apartment buzzer not working?</h3><div class="ft">+</div></div><div class="fa"><p>Common causes: corroded wiring, failed transformer, dead handset speaker, or broken door release mechanism. We diagnose and fix same day.</p></div></div><div class="fi" onclick="tf(3)"><div class="fh"><h3 class="fq">My intercom buzzes but the door won&#x2019;t open &#x2014; can you fix it?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Usually a failed electric door strike or magnetic lock. We carry replacement parts and fix door release system issues same day.</p></div></div><div class="fi" onclick="tf(4)"><div class="fh"><h3 class="fq">Can you upgrade to a video intercom?</h3><div class="ft">+</div></div><div class="fa"><p>Yes &#x2014; often using existing wiring. We install Comelit, Aiphone, ButterflyMX, and other video intercom systems.</p></div></div><div class="fi" onclick="tf(5)"><div class="fh"><h3 class="fq">What brands do you repair?</h3><div class="ft">+</div></div><div class="fa"><p>Aiphone, Comelit, Lee Dan, TekTone, Nutone, M&amp;S Systems, ButterflyMX, 2N, Urmet, and most brands found in Pelham Gardens buildings.</p></div></div><div class="fi" onclick="tf(6)"><div class="fh"><h3 class="fq">Do you provide emergency intercom repair?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. A non-functioning buzzer is a building security risk. We provide urgent buzzer repair and emergency intercom repair service in the Bronx.</p></div></div><div class="fi" onclick="tf(7)"><div class="fh"><h3 class="fq">Do you repair commercial buzzer systems?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Commercial buzzer repair for retail storefronts, offices, medical practices, and restaurants across the Bronx.</p></div></div><div class="fi" onclick="tf(8)"><div class="fh"><h3 class="fq">Does cold weather affect door buzzers?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Winter causes wiring to contract, outdoor panels to crack, and door strikes to freeze. We handle winter intercom repair issues across the Bronx.</p></div></div><div class="fi" onclick="tf(9)"><div class="fh"><h3 class="fq">Do you serve all Bronx neighborhoods?</h3><div class="ft">+</div></div><div class="fa"><p>Yes &#x2014; all 60+ Bronx neighborhoods from Mott Haven to Riverdale. Every building type, every zip code.</p></div></div><div class="fi" onclick="tf(10)"><div class="fh"><h3 class="fq">Can you fix a buzzer with no sound?</h3><div class="ft">+</div></div><div class="fa"><p>Yes. Door buzzer no sound is usually a failed speaker, disconnected wiring, or blown transformer. We fix audio intercom issues same day.</p></div></div><div class="fi" onclick="tf(11)"><div class="fh"><h3 class="fq">What other areas do you serve besides the Bronx?</h3><div class="ft">+</div></div><div class="fa"><p>All five NYC boroughs plus Nassau, Suffolk, Westchester, Rockland, and Hudson Valley.</p></div></div></div>
 </div></section>
 
 <!-- WHY US -->

@@ -15,695 +15,15 @@
 <meta property="og:description" content="Door buzzer repair in Melrose, Bronx — same-day fixes for walkup buzzers, telephone-entry directories and first-generation intercoms in the affordable new-construction stock around the Hub, Melrose Commons and Courtlandt. NYS licensed. Call (646) 490-0629.">
 <meta property="og:url" content="https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-melrose-bronx-ny">
 <meta property="og:site_name" content="Abstract Enterprises Security Systems">
-<meta property="og:image" content="https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg">
+<meta property="og:image" content="https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-lobby-panel.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Door Buzzer Repair Melrose Bronx NY | Abstract">
 <meta name="twitter:description" content="Door buzzer repair in Melrose, Bronx — same-day fixes for walkup buzzers, telephone-entry directories and first-generation intercoms in the affordable new-construction stock around the Hub, Melrose Commons and Courtlandt. NYS licensed. Call (646) 490-0629.">
-<meta name="twitter:image" content="https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg">
+<meta name="twitter:image" content="https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-lobby-panel.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-/* ═══════════════════════════════════════════════════════════════
-   MEGA-NAV v1.0 — Abstract Enterprises Security Systems
-   Self-contained. Overrides all page template nav styles.
-   ═══════════════════════════════════════════════════════════════ */
-
-/* ── Reset: kill any inherited nav styles from any template ── */
-.mn-wrap, .mn-wrap *, .mn-wrap *::before, .mn-wrap *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-.mn-wrap a { text-decoration: none; color: inherit; }
-.mn-wrap ul, .mn-wrap li { list-style: none; }
-
-/* ── Variables ── */
-:root {
-  --mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --mn-bg: rgba(255,255,255,0.97);
-  --mn-blur: 12px;
-  --mn-text: #1a1a1a;
-  --mn-text-light: #555;
-  --mn-red: #e53935;
-  --mn-red-hover: #c62828;
-  --mn-border: #e8e8e8;
-  --mn-mega-bg: #fff;
-  --mn-hover-bg: #f5f5f5;
-  --mn-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  --mn-height: 72px;
-  --mn-mega-max-w: 1120px;
-  --mn-z: 99999;
-}
-
-/* ── Sticky wrapper ── */
-.mn-wrap {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: var(--mn-z);
-  background: var(--mn-bg);
-  backdrop-filter: blur(var(--mn-blur));
-  -webkit-backdrop-filter: blur(var(--mn-blur));
-  border-bottom: 1px solid var(--mn-border);
-  font-family: var(--mn-font);
-  height: var(--mn-height);
-}
-
-/* ── Spacer (pushes page content down) ── */
-.mn-spacer {
-  height: var(--mn-height);
-  display: block;
-}
-
-/* ── Inner bar ── */
-.mn-bar {
-  max-width: 1320px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: var(--mn-height);
-  padding: 0 24px;
-  gap: 16px;
-}
-
-/* ── Logo ── */
-.mn-logo img {
-  height: 42px;
-  width: auto;
-  display: block;
-}
-
-/* ── Desktop nav links ── */
-.mn-links {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  height: 100%;
-}
-
-.mn-link-item {
-  position: relative;
-  height: 100%;
-  display: flex;
-  align-items: center;
-}
-
-.mn-link-item > a,
-.mn-link-item > button {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  padding: 0 16px;
-  height: 100%;
-  font-size: 14.5px;
-  font-weight: 600;
-  color: var(--mn-text);
-  letter-spacing: -0.01em;
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  transition: color 0.15s;
-  white-space: nowrap;
-}
-
-.mn-link-item > a:hover,
-.mn-link-item > button:hover,
-.mn-link-item.mn-open > button {
-  color: var(--mn-red);
-}
-
-/* Chevron */
-.mn-chev {
-  width: 10px; height: 10px;
-  transition: transform 0.2s;
-}
-.mn-link-item.mn-open .mn-chev {
-  transform: rotate(180deg);
-}
-
-/* ── Mega panel (shared) ── */
-.mn-mega {
-  position: absolute;
-  top: var(--mn-height);
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--mn-mega-bg);
-  border: 1px solid var(--mn-border);
-  border-top: 2px solid var(--mn-red);
-  border-radius: 0 0 12px 12px;
-  box-shadow: var(--mn-shadow);
-  padding: 32px 36px 28px;
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transition: opacity 0.18s, visibility 0.18s;
-  z-index: calc(var(--mn-z) + 1);
-}
-
-.mn-link-item.mn-open .mn-mega {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
-}
-
-/* ── Services mega (split layout) ── */
-.mn-mega--services {
-  width: 680px;
-  left: 50%;
-}
-
-.mn-mega--areas {
-  width: 620px;
-}
-
-.mn-mega-split {
-  display: flex;
-  gap: 0;
-}
-.mn-mega-left {
-  width: 240px;
-  flex-shrink: 0;
-  border-right: 1px solid var(--mn-border);
-  padding-right: 0;
-}
-.mn-mega-right {
-  flex: 1;
-  padding-left: 20px;
-  min-height: 300px;
-  column-count: 2;
-  column-gap: 24px;
-  column-rule: 1px solid var(--mn-border);
-}
-.mn-area-block {
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  display: block;
-  margin-bottom: 8px;
-}
-.mn-mega-right > .mn-mega-col-head:first-child {
-  column-span: all;
-  -webkit-column-span: all;
-  margin-bottom: 8px;
-}
-
-.mn-svc-trigger,
-.mn-area-trigger,
-.mn-price-trigger {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 8px 16px 8px 12px;
-  border-radius: 6px 0 0 6px;
-  cursor: pointer;
-  transition: background 0.1s, color 0.1s;
-  border-right: 2px solid transparent;
-}
-.mn-svc-trigger:hover,
-.mn-area-trigger:hover,
-.mn-price-trigger:hover,
-.mn-svc-trigger.mn-svc-active,
-.mn-area-trigger.mn-svc-active,
-.mn-price-trigger.mn-svc-active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-  border-right-color: var(--mn-red);
-}
-
-.mn-mega-right a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega-right a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-area-group {
-  font-size: 9px !important;
-  margin-top: 8px;
-  padding-bottom: 2px;
-}
-
-.mn-mega-col-head {
-  font-size: 10.5px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding-bottom: 6px;
-  margin-bottom: 4px;
-}
-
-.mn-mega-cta {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid var(--mn-border);
-}
-.mn-mega-cta a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--mn-red);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s;
-}
-.mn-mega-cta a:hover { background: #fef2f2; }
-.mn-mega-cta .mn-mega-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  margin-top: 4px;
-  padding: 6px 8px;
-}
-
-/* ── Pricing/Tools mega ── */
-.mn-mega--tools {
-  width: 680px;
-}
-.mn-mega-grid--tools {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 28px;
-}
-
-/* ── Company mega ── */
-.mn-mega--company {
-  width: 320px;
-}
-.mn-mega--company .mn-mega-col a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 7px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
-}
-.mn-mega--company .mn-mega-col a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-/* ── Right side CTA button ── */
-.mn-cta-wrap {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
-}
-
-.mn-cta-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  white-space: nowrap;
-  transition: color 0.15s;
-}
-.mn-cta-phone:hover {
-  color: var(--mn-red);
-}
-
-.mn-cta-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--mn-red);
-  color: #fff !important;
-  font-size: 13.5px;
-  font-weight: 700;
-  padding: 10px 20px;
-  border-radius: 8px;
-  white-space: nowrap;
-  transition: background 0.15s, transform 0.1s;
-}
-.mn-cta-btn:hover {
-  background: var(--mn-red-hover);
-  transform: translateY(-1px);
-}
-
-/* ── Hamburger (mobile) ── */
-.mn-hamburger {
-  display: none;
-  background: none;
-  border: none;
-  cursor: pointer;
-  width: 36px; height: 36px;
-  position: relative;
-  flex-shrink: 0;
-}
-.mn-hamburger span {
-  display: block;
-  width: 22px; height: 2px;
-  background: var(--mn-text);
-  position: absolute;
-  left: 7px;
-  transition: all 0.25s;
-}
-.mn-hamburger span:nth-child(1) { top: 10px; }
-.mn-hamburger span:nth-child(2) { top: 17px; }
-.mn-hamburger span:nth-child(3) { top: 24px; }
-.mn-hamburger.mn-active span:nth-child(1) { top: 17px; transform: rotate(45deg); }
-.mn-hamburger.mn-active span:nth-child(2) { opacity: 0; }
-.mn-hamburger.mn-active span:nth-child(3) { top: 17px; transform: rotate(-45deg); }
-
-/* ── Mobile drawer ── */
-.mn-mobile {
-  display: none;
-  position: fixed;
-  top: var(--mn-height);
-  left: 0; right: 0; bottom: 0;
-  background: #fff;
-  z-index: calc(var(--mn-z) - 1);
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 8px 0 100px;
-}
-.mn-mobile.mn-active {
-  display: block;
-}
-
-.mn-mobile-section {
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-toggle {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-}
-.mn-mobile-toggle .mn-chev-m {
-  width: 12px; height: 12px;
-  transition: transform 0.2s;
-}
-.mn-mobile-section.mn-open .mn-mobile-toggle .mn-chev-m {
-  transform: rotate(180deg);
-}
-
-.mn-mobile-panel {
-  display: none;
-  padding: 0 24px 16px;
-}
-.mn-mobile-section.mn-open .mn-mobile-panel {
-  display: block;
-}
-
-.mn-mobile-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 12px 0 6px;
-  border-bottom: 1px solid var(--mn-border);
-  margin-bottom: 2px;
-}
-
-.mn-mobile-panel a {
-  display: block;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 10px 8px;
-  border-radius: 6px;
-}
-.mn-mobile-panel a:active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-}
-
-.mn-mobile-link {
-  display: block;
-  padding: 16px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-}
-
-.mn-mobile-cta {
-  display: block;
-  margin: 16px 24px 8px;
-  background: var(--mn-red);
-  color: #fff !important;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  padding: 14px;
-  border-radius: 10px;
-}
-
-.mn-mobile-phone {
-  display: block;
-  text-align: center;
-  font-size: 15px;
-  font-weight: 700;
-  color: var(--mn-text);
-  padding: 12px;
-}
-
-/* ── Mobile funnel steps ── */
-.mnm-step { display: none; padding: 8px 0 100px; }
-.mnm-step.mnm-active { display: block; }
-.mnm-prompt {
-  font-size: 13px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--mn-text-light, #555);
-  padding: 16px 24px 8px;
-}
-.mnm-path-btn {
-  display: flex;
-  align-items: center;
-  gap: 14px;
-  width: 100%;
-  padding: 16px 24px;
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  font-size: 14px;
-  color: var(--mn-text);
-  transition: background 0.12s;
-}
-.mnm-path-btn:active { background: var(--mn-hover-bg); }
-.mnm-path-icon { font-size: 22px; flex-shrink: 0; width: 36px; text-align: center; }
-.mnm-path-btn strong { font-weight: 700; font-size: 15px; display: block; margin-bottom: 2px; }
-.mnm-path-sub { font-size: 12px; color: var(--mn-text-light); }
-.mnm-path-arrow { margin-left: auto; font-size: 20px; color: #ccc; flex-shrink: 0; }
-.mnm-back {
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 600;
-  color: var(--mn-red);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  width: 100%;
-  text-align: left;
-}
-.mnm-svc-btn {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width: 100%;
-  padding: 14px 24px;
-  font-size: 15px;
-  font-weight: 600;
-  color: var(--mn-text);
-  background: none;
-  border: none;
-  border-bottom: 1px solid var(--mn-border);
-  cursor: pointer;
-  font-family: var(--mn-font);
-  text-align: left;
-  text-decoration: none;
-}
-.mnm-svc-btn:active { background: var(--mn-hover-bg); }
-.mnm-svc-soon { color: var(--mn-text-light); font-weight: 500; }
-.mnm-badge {
-  font-size: 10px;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  background: var(--mn-hover-bg);
-  color: var(--mn-text-light);
-  padding: 3px 8px;
-  border-radius: 4px;
-}
-.mnm-divider { height: 1px; background: var(--mn-border); margin: 8px 24px; }
-.mnm-col-head {
-  font-size: 10px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding: 14px 24px 6px;
-}
-.mnm-picked {
-  padding: 8px 24px;
-  font-size: 13px;
-  font-weight: 700;
-  color: var(--mn-red);
-  background: #fef2f2;
-  border-bottom: 1px solid var(--mn-border);
-}
-.mnm-area-link {
-  display: block;
-  padding: 12px 24px;
-  font-size: 14px;
-  font-weight: 500;
-  color: var(--mn-text);
-  border-bottom: 1px solid var(--mn-border);
-  text-decoration: none;
-}
-.mnm-area-link:active { background: var(--mn-hover-bg); color: var(--mn-red); }
-
-/* ═══ RESPONSIVE ═══ */
-@media (max-width: 1100px) {
-  .mn-link-item > a, .mn-link-item > button { padding: 0 10px; font-size: 13.5px; }
-  .mn-mega--services { width: 720px; }
-  .mn-mega--areas { width: 560px; }
-}
-
-@media (max-width: 960px) {
-  .mn-links, .mn-cta-phone { display: none !important; }
-  .mn-hamburger { display: block; }
-  .mn-cta-btn { font-size: 12.5px; padding: 9px 14px; }
-  .mn-bar { padding: 0 16px; }
-}
-
-@media (max-width: 480px) {
-  :root { --mn-height: 64px; }
-  .mn-logo img { height: 36px; }
-  .mn-cta-btn { padding: 8px 12px; font-size: 12px; }
-}
-
-/* ═══ EMERGENCY DRAWER FIX — Hide mnm-drawer/overlay by default on all screens ═══
-   Bug: legacy .mnm-drawer and .mnm-overlay elements had no CSS rules,
-   so they rendered visible on every page load, covering hero sections.
-   Fix: hide by default, show only when .mnm-active class is added via hamburger. */
-
-.mnm-drawer,
-.mnm-overlay,
-#mnmDrawer,
-#mnmOverlay {
-  display: none !important;
-}
-
-.mnm-drawer.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  width: min(380px, 100%);
-  background: #fff;
-  z-index: 9999;
-  overflow-y: auto;
-  -webkit-overflow-scrolling: touch;
-  padding: 20px 0 100px;
-  box-shadow: -10px 0 40px rgba(0,0,0,0.2);
-}
-
-.mnm-overlay.mnm-active {
-  display: block !important;
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0,0,0,0.5);
-  z-index: 9998;
-}
-
-/* Never show mobile drawer on desktop, even if something accidentally adds .mnm-active */
-@media (min-width: 961px) {
-  .mnm-drawer,
-  .mnm-drawer.mnm-active,
-  .mnm-overlay,
-  .mnm-overlay.mnm-active,
-  #mnmDrawer,
-  #mnmOverlay {
-    display: none !important;
-  }
-}
-
-
-/* === REPAIR TAB — RED ACCENT (industry-best-practice urgency signaling) === */
-.mn-link-item[data-mega="repair"] > button {
-  position: relative;
-  color: #dc2626 !important;
-  font-weight: 700;
-}
-.mn-link-item[data-mega="repair"] > button::before {
-  content: "🔧";
-  margin-right: 6px;
-  font-size: 0.95em;
-}
-.mn-link-item[data-mega="repair"] > button:hover {
-  color: #b91c1c !important;
-  background: rgba(220, 38, 38, 0.05);
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger {
-  display: flex;
-  align-items: center;
-  padding: 10px 16px;
-  border-radius: 8px;
-  cursor: pointer;
-  transition: background 0.15s;
-  border-right: 3px solid transparent;
-  text-decoration: none;
-  color: var(--text, #0f172a);
-  font-weight: 500;
-}
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger:hover,
-.mn-link-item[data-mega="repair"] .mn-rpr-trigger.mn-svc-active {
-  background: rgba(220, 38, 38, 0.06);
-  border-right-color: #dc2626;
-}
-.mn-rpr-emergency-cta {
-  margin-top: 14px;
-  padding: 12px 14px;
-  background: linear-gradient(135deg, #dc2626, #b91c1c);
-  color: #fff !important;
-  border-radius: 8px;
-  font-weight: 700;
-  font-size: 0.92rem;
-  text-align: center;
-  text-decoration: none;
-  display: block;
-}
-.mn-rpr-emergency-cta:hover {
-  background: linear-gradient(135deg, #b91c1c, #991b1b);
-  color: #fff !important;
-}
-
-</style>
+<link rel="stylesheet" href="/css/mega-nav.css">
 <style>
 :root{--asphalt:#26282B;--asphalt2:#1d1f21;--haz:#F5C518;--white:#ffffff;--soft:#f4f5f6;--line:#3a3d41;--body:#2c2e31;--mut:#6b6f75}
 *{margin:0;padding:0;box-sizing:border-box}
@@ -778,11 +98,11 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 
 @media(max-width:640px){main table,section table{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch}main table th,main table td,section table th,section table td{white-space:normal;min-width:110px}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "LocalBusiness", "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx", "name": "Abstract Enterprises Security Systems", "url": "https://www.abstractenterprisessecuritysystems.com/", "telephone": "+1-646-490-0629", "image": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/entry-door-frame-wire-splice.jpg", "address": {"@type": "PostalAddress", "streetAddress": "460 E Fordham Rd", "addressLocality": "Bronx", "addressRegion": "NY", "postalCode": "10458", "addressCountry": "US"}, "areaServed": ["Melrose Bronx NY", "Bronx NY"], "priceRange": "$$", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "201"}, "sameAs": ["https://www.instagram.com/security_cameras_new_york", "https://www.youtube.com/@openeye0007", "https://x.com/Abstract00007"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "LocalBusiness", "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx", "name": "Abstract Enterprises Security Systems", "url": "https://www.abstractenterprisessecuritysystems.com/", "telephone": "+1-646-490-0629", "image": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-lobby-panel.png", "address": {"@type": "PostalAddress", "streetAddress": "460 E Fordham Rd", "addressLocality": "Bronx", "addressRegion": "NY", "postalCode": "10458", "addressCountry": "US"}, "areaServed": ["Melrose Bronx NY", "Bronx NY"], "priceRange": "$$", "aggregateRating": {"@type": "AggregateRating", "ratingValue": "4.7", "reviewCount": "201"}, "sameAs": ["https://www.instagram.com/security_cameras_new_york", "https://www.youtube.com/@openeye0007", "https://x.com/Abstract00007"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Service", "name": "Door Buzzer Repair Melrose Bronx", "serviceType": "Door Buzzer and Intercom Repair", "provider": {"@id": "https://www.abstractenterprisessecuritysystems.com/#bronx"}, "areaServed": ["Melrose Bronx NY"], "url": "https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-melrose-bronx-ny", "description": "Repair of telephone-entry directories, first-generation intercoms, prewar walkup buzzers, electric strikes, transformers and riser wiring across Melrose, Bronx — Melrose Commons, Courtlandt Avenue, the Hub edge and the surrounding blocks — by a NYS-licensed low-voltage contractor."}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.abstractenterprisessecuritysystems.com/"}, {"@type": "ListItem", "position": 2, "name": "Door Buzzer Repair Bronx", "item": "https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronx-new-york"}, {"@type": "ListItem", "position": 3, "name": "Door Buzzer Repair Melrose", "item": "https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-melrose-bronx-ny"}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "HowTo", "name": "How a door buzzer repair visit runs in Melrose, Bronx", "description": "The five-step sequence Abstract Enterprises follows on Melrose calls, from rebuild-era mid-rises to prewar walkups.", "step": [{"@type": "HowToStep", "name": "Report the address and symptom", "text": "Directory not calling, walkup silent, door not releasing — the phrase sets the truck stock, and most calls by early afternoon land same-day."}, {"@type": "HowToStep", "name": "Test in the platform's own order", "text": "Rebuild-era systems: programming, callouts, relay, release. Prewar systems: power, panel, release, riser, stations. The fault is isolated and shown."}, {"@type": "HowToStep", "name": "Fix it inside the visit", "text": "Strikes, transformers, relays, stations and splice repairs travel on the truck; directories are reprogrammed on site with the current tenant list."}, {"@type": "HowToStep", "name": "Price bigger findings on paper first", "text": "Spent platforms, compromised risers and vendor-only parts get written repair-vs-upgrade numbers with reusable wiring named."}, {"@type": "HowToStep", "name": "Deliver the record", "text": "Finding, work, parts and total — formatted for a management office, a board file or a family owner's folder identically."}]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/intercom-wall-station-replacement.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/intercom-handset-station-wiring.jpg", "name": "Mid-rise lobby entry panel serviced in Melrose by AESS", "description": "Door buzzer repair Melrose Bronx technician servicing a mid-rise lobby entry keypad panel near Melrose Commons", "representativeOfPage": true}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/apartment-handset-door-release-check.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg", "name": "First-generation directory system repaired in a Melrose rental by AESS", "description": "Door buzzer repair Melrose Bronx touchscreen directory intercom repaired in an affordable new-construction rental lobby", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/entry-door-frame-wire-splice.jpg", "name": "In-unit station replaced in a Melrose apartment by AESS", "description": "Door buzzer repair Melrose Bronx apartment monitor station replacing a dead wall unit in a Courtlandt Avenue building", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/intercom-wall-station-replacement.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/intercom-handset-station-wiring.jpg", "name": "Infill-building keypad repaired in Melrose by AESS", "description": "Door buzzer repair Melrose Bronx code entry keypad repaired at a rowhouse-style infill building side entrance", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/apartment-handset-door-release-check.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg", "name": "Video door station added to a Melrose walkup by AESS", "description": "Door buzzer repair Melrose Bronx compact video door station commissioned on a surviving prewar walkup", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg", "url": "https://www.abstractenterprisessecuritysystems.com/images/buzzer-repair/entry-door-frame-wire-splice.jpg", "name": "Right-sized entry panel on a small Melrose multifamily by AESS", "description": "Door buzzer repair Melrose Bronx compact buzzer panel fitted at a small multifamily entrance off Melrose Avenue", "representativeOfPage": false}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-lobby-panel.png", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-lobby-panel.png", "name": "Mid-rise lobby entry panel serviced in Melrose by AESS", "description": "Door buzzer repair Melrose Bronx technician servicing a mid-rise lobby entry keypad panel near Melrose Commons", "representativeOfPage": true}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-directory-intercom.png", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-directory-intercom.png", "name": "First-generation directory system repaired in a Melrose rental by AESS", "description": "Door buzzer repair Melrose Bronx touchscreen directory intercom repaired in an affordable new-construction rental lobby", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-apartment-station.png", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-apartment-station.png", "name": "In-unit station replaced in a Melrose apartment by AESS", "description": "Door buzzer repair Melrose Bronx apartment monitor station replacing a dead wall unit in a Courtlandt Avenue building", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-entry-keypad.png", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-entry-keypad.png", "name": "Infill-building keypad repaired in Melrose by AESS", "description": "Door buzzer repair Melrose Bronx code entry keypad repaired at a rowhouse-style infill building side entrance", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-video-station.webp", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-video-station.webp", "name": "Video door station added to a Melrose walkup by AESS", "description": "Door buzzer repair Melrose Bronx compact video door station commissioned on a surviving prewar walkup", "representativeOfPage": false}, {"@type": "ImageObject", "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-compact-panel.jpeg", "url": "https://www.abstractenterprisessecuritysystems.com/images/door-buzzer-repair-melrose-bronx-compact-panel.jpeg", "name": "Right-sized entry panel on a small Melrose multifamily by AESS", "description": "Door buzzer repair Melrose Bronx compact buzzer panel fitted at a small multifamily entrance off Melrose Avenue", "representativeOfPage": false}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Can I get same-day door buzzer repair in Melrose?", "acceptedAnswer": {"@type": "Answer", "text": "On most weekday calls, yes — ring before early afternoon with the address and symptom and the visit usually lands that day from our Bronx shop at 460 E Fordham Rd. Buildings locked out or standing open jump the queue, later calls take the first slot next morning, and every booking carries a concrete arrival window a super can plan a day around."}}, {"@type": "Question", "name": "What does door buzzer repair cost in Melrose, Bronx?", "acceptedAnswer": {"@type": "Answer", "text": "$195/hr with a three-hour minimum ($585), parts billed separately — and that window covers the diagnosis plus the neighborhood’s most common fixes: directory reprogramming, relay and supply replacement, strikes, buttons, individual stations, traced wiring breaks. Larger findings get a written quote before work continues, and platform-level projects are priced from a site visit."}}, {"@type": "Question", "name": "Do you repair the telephone-entry systems in the newer Melrose buildings?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — the rebuild era’s directory and phone-entry systems are this page’s specialty. Most of their failures are programming and callout routing rather than hardware, which makes them among the cheapest repairs in the borough: reprogram against the current tenant list, restore the callout path, replace a relay or supply where one aged out, and keep the board that still works."}}, {"@type": "Question", "name": "Our building's intercom rings but the front door won't release — what will that cost?", "acceptedAnswer": {"@type": "Answer", "text": "Usually the small number. Working audio with a dead release points at the door side — a worn electric strike, broken frame wiring, a flattened button contact, or on newer systems a relay at end of cycle-life — and those finish inside the service minimum plus a modest part. A release conductor failed mid-wall is the larger version, traced and priced in writing before anything opens."}}, {"@type": "Question", "name": "Can you replace one dead station in my apartment without touching the neighbors'?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — stations fail individually on every platform generation and get replaced individually, with compatible units available for both the prewar systems and the rebuild-era equipment. Renters should bring the owner’s or manager’s approval, since the entry system is a building system even at your wall, and we will route the paperwork up the chain directly."}}, {"@type": "Question", "name": "Who is responsible for a broken buzzer in a Melrose apartment building?", "acceptedAnswer": {"@type": "Answer", "text": "Generally the owner — in New York multiple dwellings the locking entrance and its entry system are required services the landlord maintains, and dead ones are reportable to 311. In Melrose that owner is often a management company or nonprofit housing organization, so in practice the answer is a work order — which we take from owners, managers, supers, boards, or tenants carrying approval. General information, not legal advice."}}, {"@type": "Question", "name": "Do you work with the management companies and nonprofits that run Melrose's affordable buildings?", "acceptedAnswer": {"@type": "Answer", "text": "Constantly — the operating mode is built for it: work-order intake, per-building histories, AP-ready invoices, scheduled directory maintenance, and lifecycle triage across a portfolio so first-generation systems get planned transitions instead of emergency replacements. One number can carry a dozen doors on these blocks without the paperwork tangling."}}, {"@type": "Question", "name": "Our HDFC co-op needs board approval before repairs — can you work with that?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Boards get what boards need: a written finding with photos after the diagnostic visit, repair and replacement priced side by side, reusable wiring named, and scheduling that waits for the vote. The three-hour minimum covers the diagnostic visit itself, so the board decides from evidence rather than estimates — and the eventual work picks up exactly where the finding left off."}}, {"@type": "Question", "name": "A storm knocked the whole system out — is it destroyed?", "acceptedAnswer": {"@type": "Answer", "text": "Rarely. All-dead-at-once points to a shared component: a transformer in the prewar stock, a supply or a board that lost programming in the rebuild-era buildings. Both are contained, fast repairs — transformers and supplies ride the truck, boards get reprogrammed on site — and most storm calls close in one visit. Ring it in before anyone wedges the lobby door."}}, {"@type": "Question", "name": "Can an older Melrose walkup get phone-app entry without rewiring?", "acceptedAnswer": {"@type": "Answer", "text": "Often, yes — where the original riser tests clean, a directory or video door station can route calls and releases to tenants’ phones, keeping the upgrade at panel-and-stations scale instead of opened walls. The quote names exactly which runs survive. Repair-first still applies: modernization is offered when the math wins, not as the default answer."}}, {"@type": "Question", "name": "What happens if our first-generation system truly can't be saved?", "acceptedAnswer": {"@type": "Answer", "text": "You see the evidence first: the spent platform or orphaned component shown at the open panel and photographed for the file, then both paths in writing — in-kind replacement where the building’s needs never changed, or a modern directory/video platform where turnover argues for one — each naming the reusable wiring and, for portfolios, a transition plan across budget years. Three-year warranty on products we supply."}}, {"@type": "Question", "name": "How do I verify your license before sending a work order?", "acceptedAnswer": {"@type": "Answer", "text": "Look up Abstract Enterprises Security Systems with the New York Department of State — NYS Low-Voltage License #12000287431 — and read the 4.7-star record across 201 Google reviews, Bronx profile at 460 E Fordham Rd. Insurance certificates come with the first work order on request; any contractor touching entry wiring should clear all of it without hesitation."}}]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Person", "name": "Anwar Timothy", "jobTitle": "Owner and Licensed Low Voltage Contractor", "worksFor": {"@id": "https://www.abstractenterprisessecuritysystems.com/#bronx"}, "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "New York State Low-Voltage Electrical Contractor License", "identifier": "12000287431"}, "sameAs": ["https://www.instagram.com/security_cameras_new_york", "https://www.youtube.com/@openeye0007", "https://x.com/Abstract00007"]}</script>
 </head>
@@ -791,7 +111,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 <nav class="mn-wrap" role="navigation" aria-label="Main navigation">
   <div class="mn-bar">
     <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
-      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="1402" height="1122">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
     </a>
     <div class="mn-links">
       <div class="mn-link-item" data-mega="services">
@@ -808,6 +128,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
               <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
               <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
               <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="cat6" onclick="mnDeskSvc(this)">🖧 Cat6 Installation<span style="font-size:9px;background:#B87333;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
               <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
               <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
               <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
@@ -1017,6 +338,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
     <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cat6')">🖧 Cat6 Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
@@ -1104,7 +426,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 <h1>Door Buzzer <br>Repair <br><span class="ac">in Melrose, Bronx</span></h1>
 <p class="sub">Same-day repair for the entry systems of a rebuilt neighborhood &mdash; the telephone-entry directories and first-generation intercoms in the affordable mid-rises around Melrose Commons and Courtlandt Avenue, the surviving prewar walkups off Melrose and St. Ann&rsquo;s, and the storefront-and-apartment buildings feeding the Hub. NYS-licensed, one published rate, findings delivered at the panel and on paper.</p>
 <figure class="ph">
-<img src="/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician troubleshooting a full-building lobby directory panel" title="Troubleshooting a full-building lobby directory panel — AESS, Melrose" width="1402" height="1122" loading="eager" fetchpriority="high" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-lobby-panel.png" alt="Door buzzer repair Melrose Bronx technician servicing a mid-rise lobby entry keypad panel near Melrose Commons" title="Mid-rise lobby entry panel serviced in Melrose by AESS" width="1200" height="900" loading="eager" fetchpriority="high" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>A Melrose Commons-era lobby panel back in service — directory verified, release tested, twenty years of use reset in one visit.</figcaption>
 </figure>
 <div class="ctaline">
@@ -1184,7 +506,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 </div></section>
 <section><div class="wrap">
 <figure class="ph" style="margin:0 0 18px">
-<img src="/images/buzzer-repair/door-release-two-technician-test.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician coordinating a door-release test between lobby and apartment" title="Coordinating a door-release test between lobby and apartment — AESS, Melrose" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-directory-intercom.png" alt="Door buzzer repair Melrose Bronx touchscreen directory intercom repaired in an affordable new-construction rental lobby" title="First-generation directory system repaired in a Melrose rental by AESS" width="1200" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>The signature Melrose repair — the telephone-entry and directory systems that arrived with the rebuild are aging into their first real service era.</figcaption>
 </figure>
 <p class="eyebrow" data-el="WHAT WE REPAIR">WHAT WE REPAIR</p>
@@ -1219,7 +541,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 </div></section>
 <section><div class="wrap">
 <figure class="ph" style="margin:0 0 18px">
-<img src="/images/buzzer-repair/entry-door-frame-wire-splice.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician splicing entry-door frame wiring at the lobby panel" title="Splicing entry-door frame wiring at the lobby panel — AESS, Melrose" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-entry-keypad.png" alt="Door buzzer repair Melrose Bronx code entry keypad repaired at a rowhouse-style infill building side entrance" title="Infill-building keypad repaired in Melrose by AESS" width="1200" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>The Nehemiah-era rowhouse blocks run compact hardware — repaired compact, replaced compact, never upsold.</figcaption>
 </figure>
 <p class="eyebrow" data-el="ACROSS MELROSE">ACROSS MELROSE</p>
@@ -1228,7 +550,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 </div></section>
 <section class="alt"><div class="wrap">
 <figure class="ph" style="margin:0 0 18px">
-<img src="/images/buzzer-repair/intercom-wall-station-replacement.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician mounting a replacement wall intercom station" title="Mounting a replacement wall intercom station — AESS, Melrose" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-compact-panel.jpeg" alt="Door buzzer repair Melrose Bronx compact buzzer panel fitted at a small multifamily entrance off Melrose Avenue" title="Right-sized entry panel on a small Melrose multifamily by AESS" width="1200" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>Small building, small panel — the honest in-kind answer when an original unit is finally done.</figcaption>
 </figure>
 <p class="eyebrow" data-el="BUILDING TYPES">BUILDING TYPES</p>
@@ -1279,7 +601,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 </div></section>
 <section class="alt"><div class="wrap">
 <figure class="ph" style="margin:0 0 18px">
-<img src="/images/buzzer-repair/intercom-handset-station-wiring.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician rewiring an apartment intercom handset station" title="Rewiring an apartment intercom handset station — AESS, Melrose" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-apartment-station.png" alt="Door buzzer repair Melrose Bronx apartment monitor station replacing a dead wall unit in a Courtlandt Avenue building" title="In-unit station replaced in a Melrose apartment by AESS" width="1200" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>One dead station on Courtlandt, one swap — the other lines never know we were there.</figcaption>
 </figure>
 <p class="eyebrow" data-el="YOUR QUESTIONS ANSWERED">YOUR QUESTIONS ANSWERED</p>
@@ -1331,7 +653,7 @@ th{background:var(--asphalt);color:var(--white);font-family:'Barlow Condensed';f
 </div></div>
 <section class="alt"><div class="wrap">
 <figure class="ph" style="margin:0 0 18px">
-<img src="/images/buzzer-repair/apartment-handset-door-release-check.jpg" alt="Door buzzer repair in Melrose, the Bronx — AESS technician verifying the door release from a tenant handset" title="Verifying the door release from a tenant handset — AESS, Melrose" width="1402" height="1122" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
+<img src="/images/door-buzzer-repair-melrose-bronx-video-station.webp" alt="Door buzzer repair Melrose Bronx compact video door station commissioned on a surviving prewar walkup" title="Video door station added to a Melrose walkup by AESS" width="1200" height="900" loading="lazy" decoding="async" style="width:100%;height:auto;object-fit:contain">
 <figcaption>Where a surviving walkup modernizes, the door station rides whichever original riser still tests clean.</figcaption>
 </figure>
 <p class="eyebrow" data-el="PRICING">PRICING</p>
