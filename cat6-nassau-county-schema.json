@@ -1,0 +1,421 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+  "name": "Abstract Enterprises Security Systems",
+  "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+  "url": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-nassau-county",
+  "telephone": "+1-516-346-5778",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1282 Troy Ave",
+    "addressLocality": "Brooklyn",
+    "addressRegion": "NY",
+    "postalCode": "11203",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Nassau County"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Long Island"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "201"
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Cat6 Installation",
+  "name": "Cat6 Installation Nassau County",
+  "description": "Cat6 cable installation for professional and medical offices, suburban office parks, flex and light industrial buildings, retail, schools, municipal properties and homes across Nassau County. Data drop installation, patch panel termination, network rack build-out, cable tray and pathway installation, testing, labeling and as-built documentation by a licensed New York State low voltage contractor.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+    "name": "Abstract Enterprises Security Systems",
+    "telephone": "+1-516-346-5778"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Nassau County"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Long Island"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Cat6 Installation Services — Nassau County",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 data drop installation"
+        },
+        "price": "296",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e data drop installation"
+        },
+        "price": "254",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6A data drop installation"
+        },
+        "price": "424",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 patch panel termination and rack build"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 cable testing, labeling and documentation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e to Cat6 network cabling upgrade"
+        }
+      }
+    ]
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Cat6 installation cost in Nassau County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Cat6 data drop runs $296 inside 100 feet, covering the cable, the faceplate and keystone, a termination at each end and the test on the completed run. New construction quoted ahead of drywall comes off ten percent, and past 100 feet the route gets measured and priced on what it takes. The length question comes up far more often in Nassau than it does in the city, because commercial buildings here are wide rather than tall, so distances get confirmed with a tape measure before anything is priced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a licensed contractor for cabling in Nassau County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nassau handles contractor licensing through its Office of Consumer Affairs, and individual towns, cities and incorporated villages layer their own requirements on top — which is why the answer can change across a municipal boundary on the same road. New York State does not run a single statewide electrical or low-voltage contractor licence, so this is genuinely a local question. Ask every bidder, including us, which licence they hold and which authority issued it, and confirm the requirement for your specific scope with the county or the village before work is scoped."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does the 90 metre limit matter more in a Nassau building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because the square footage is horizontal. A 60,000 square foot single-story office or flex building can easily put a far corner beyond 90 metres of installed cable from one centrally placed telecom room, once the run climbs into the ceiling, travels the pathway, goes around the rooftop unit and comes back down. The same floor area in a Manhattan tower is stacked over ten floors with a riser in the middle. In Nassau the answer is usually a second telecom room rather than a stretched run, and that belongs at design rather than at test."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is different about cabling a medical office?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Drop density is considerably higher than comparable office space, because nearly every room holds equipment: a workstation in each exam room or operatory, imaging that wants a wired connection, front-desk clusters, and increasingly cameras and access control on the same plant. Nassau has one of the densest medical office concentrations in the region, particularly around the hospital campuses. The genuinely hard part is almost never technical — it is scheduling around patient hours, containing dust when ceilings open, and agreeing with practice management which rooms can be down on which day."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a Cat6 installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A visit that settles where the drops go and how cable reaches them; the pull on proper containment; a jack landed at the outlet and a port landed at the panel; plate and panel mounted; both ends marked; a test on every finished run; and a map connecting each panel port to its outlet. Racks, panels, management, switches, conduit, firestopping, lift hire, permit fees and out-of-hours work all appear as their own lines rather than disappearing into the drop rate."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many Cat6 drops does an office need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Two at every seat, a port of its own for any shared printer, one behind each radio, camera and reader, one per register, one or two per exam room in clinical space, and three or four in any room with a screen. Two per seat reads as generous right up to the moment a handset, a docking station and a monitor hub all arrive at the same desk. The second port is close to free while somebody is already in the ceiling and becomes a booked visit once they are not."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Cat6 support 10 Gigabit Ethernet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It will, but not across a full-length run. The number generally cited is somewhere around 55 metres, and packing cables tightly together pulls it in further as alien crosstalk takes hold. Ten gigabit over a complete 100 metre channel is what Cat6A exists for. Given that nearly every drop in this county terminates at a workstation, a handset, a camera or a radio, Cat6 is both correct and the cheaper answer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I avoid CCA Ethernet cable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It is aluminium wire with copper plated over the outside. Cheaper by the box, and not the same product. Aluminium carries more resistance, which becomes serious the moment the pair is delivering power, and it fractures rather than flexes, so conductors give way at the punch-down and in the tight turn behind a faceplate. It will light a link LED and still leave a camera short. We run solid copper on every horizontal drop."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is plenum-rated cable required in a single-story building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on how the building moves air, not how tall it is. If the void above the ceiling is carrying return air then CMP applies, and a great many low-rise Nassau offices are built precisely that way. Others duct their returns, which changes the requirement entirely, and you cannot tell which is which standing underneath. We establish it on site with the building and the authority having jurisdiction rather than guessing from the vintage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can existing Cat5e be upgraded to Cat6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No amount of re-terminating changes a cable's category &mdash; the rating is a property of the cable itself, so an upgrade means new cable in the ceiling. What frequently survives is the route. County office buildings from the seventies through the nineties often have hook runs or conduit still perfectly serviceable, and following that existing path is where the budget is recovered. Where the previous installer stapled cable to structure or ran it loose through insulation, there is nothing to inherit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Cat6 be run through the attic in a Nassau house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it is usually the best route available, since an attic reaches the top of nearly every interior wall in a colonial, split or ranch &mdash; which describes most housing in the county. Temperature is the caveat. An unconditioned attic in midsummer gets genuinely hot, loss climbs with temperature, and a drop carrying power is adding heat of its own on top. We keep those runs short and try not to bury them under deep insulation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work evenings and weekends in Nassau?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and a lot of Nassau work happens that way. Clinical space has to fit around appointments, shops have to open in the morning, and school buildings only free up on a fixed calendar. The county does have one advantage over the city: buildings are usually single-tenant or owner-occupied with their own doors and their own parking, so getting in is a conversation with one person rather than a managed process. Anything outside normal hours is priced on its own line."
+      }
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.abstractenterprisessecuritysystems.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Cat6 Installation Long Island",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-long-island"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Cat6 Installation Nassau County",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-nassau-county"
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installation-nassau-county-ceiling-drop.webp",
+      "name": "Cat6 installation Nassau County — ceiling drop",
+      "caption": "Cat6 installation Nassau County — solid copper Cat 6, 550MHz CMR riser, 23 AWG, through an open tile.",
+      "description": "Cat6 installation Nassau County technician pulling cable through an open ceiling tile beside a Cat 6 CMR box",
+      "width": 1402,
+      "height": 1122,
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-cable-installation-nassau-county-corridor-pull.webp",
+      "name": "Cat6 cable installation Nassau County — corridor pull",
+      "caption": "Cat6 cable installation Nassau County — a corridor pull across a suburban office floor plate.",
+      "description": "Cat6 cable installation Nassau County two-technician corridor pull off a cable box on a cart",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/commercial-cat6-installation-nassau-county-stud-rough-in.webp",
+      "name": "Commercial Cat6 installation Nassau County — stud rough-in",
+      "caption": "Commercial Cat6 installation Nassau County — rough-in during a medical suite fit-out, before drywall.",
+      "description": "Commercial Cat6 installation Nassau County cable roughed through metal studs before drywall",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installer-nassau-county-jhook-pathway.webp",
+      "name": "Cat6 installer Nassau County — J-hook pathway",
+      "caption": "Cat6 installer Nassau County — supported pathway above a suspended ceiling in a low-rise office.",
+      "description": "Cat6 installer Nassau County laying a cable bundle into J-hooks above a suspended ceiling",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-patch-panel-installation-nassau-county-network-room.webp",
+      "name": "Cat6 patch panel installation Nassau County — network room",
+      "caption": "Cat6 patch panel installation Nassau County — ports labeled to their rooms before anything is patched.",
+      "description": "Cat6 patch panel installation Nassau County technician dressing a labeled bundle into a rack",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-data-drop-installation-nassau-county-workstation-outlets.webp",
+      "name": "Cat6 data drop installation Nassau County — workstation outlets",
+      "caption": "Cat6 data drop installation Nassau County — two data ports and a voice port at one desk.",
+      "description": "Cat6 data drop installation Nassau County finished data and voice outlets at a workstation",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-wiring-nassau-county-fish-tape-conduit.webp",
+      "name": "Cat6 wiring Nassau County — fish tape into conduit",
+      "caption": "Cat6 wiring Nassau County — reusing existing conduit in a block-wall commercial building.",
+      "description": "Cat6 wiring Nassau County technician feeding cable into existing conduit on a block wall",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/office-cat6-installation-nassau-county-outlet-bank.webp",
+      "name": "Office Cat6 installation Nassau County — outlet bank",
+      "caption": "Office Cat6 installation Nassau County — a bench run terminated drop by drop, tested as it is finished.",
+      "description": "Office Cat6 installation Nassau County technician terminating a run of outlets along a desk bank",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-floor-box-installation-nassau-county-conference-room.webp",
+      "name": "Cat6 floor box installation Nassau County — conference room",
+      "caption": "Cat6 floor box installation Nassau County — jacks landed in a floor box beneath a meeting table.",
+      "description": "Cat6 floor box installation Nassau County technician landing keystone jacks in a conference room floor box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-retrofit-installation-nassau-county-drywall-cut-in.webp",
+      "name": "Cat6 retrofit installation Nassau County — drywall cut-in",
+      "caption": "Cat6 retrofit installation Nassau County — cutting in an old-work box after the cable is fished.",
+      "description": "Cat6 retrofit installation Nassau County technician cutting a drywall opening for an old-work box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/office-cat6-installation-nassau-county-printer-data-jack.webp",
+      "name": "Office Cat6 installation Nassau County — printer data jack",
+      "caption": "Office Cat6 installation Nassau County — a dedicated labeled drop for a shared multifunction copier.",
+      "description": "Office Cat6 installation Nassau County technician terminating a labeled printer data jack beside a copier",
+      "width": 1402,
+      "height": 1122
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How a Cat6 installation runs in Nassau County",
+  "description": "The sequence Abstract Enterprises Security Systems follows on a Cat6 cable installation in Nassau County, from site walkthrough through labeling and closeout documentation.",
+  "totalTime": "P2D",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Solid copper Cat6 cable, CMP or CMR rated for the pathway"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 keystone jacks, faceplates and mud rings"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 patch panel and rack cable management"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "J-hooks, cable tray or conduit pathway and firestop materials"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Punch-down tool"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fish tape and glow rods"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fluke DSX CableAnalyzer"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Label printer"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Walkthrough",
+      "text": "Walk the building, lift a ceiling tile, inspect the telecom room, and measure the real pathway distance from closet to the furthest outlet. On a single-story Nassau floor plate this establishes how many telecom closets the design needs before any drop is priced."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Pull",
+      "text": "Install pathway and pull cable from each telecom room to the outlet locations on supported J-hooks, cable tray in high-bay areas, or through attics and basements in residential work, maintaining separation from power and leaving a service loop at both ends."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Terminate",
+      "text": "Terminate a Cat6 keystone jack at the work area and a patch panel port at the closet, holding pair twist to the contact. Termination follows TIA-568, T568B unless the building's existing standard says otherwise."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Test",
+      "text": "Test every finished drop before ceilings and walls close. Where full certification is required — which on school district and municipal projects is frequently a contract deliverable — permanent links are certified with a Fluke DSX CableAnalyzer and the report delivered."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Label and document",
+      "text": "Label both ends of every drop as it is terminated, following TIA-606-style practice, and hand over the port map, test results, component list and as-built markups as the closeout package."
+    }
+  ]
+}
