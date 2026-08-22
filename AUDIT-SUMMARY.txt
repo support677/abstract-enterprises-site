@@ -1,0 +1,181 @@
+AUDIT PACKET — network installation hubs
+
+
+NYC hub — /network-installation-nyc
+  title      Network Installation NYC | Office Wi-Fi &amp; Networks (54)
+  meta       156 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-nyc
+  words      12080
+  H2         25
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    17
+  phone      800 x10 · 347 x0 · other direct x0
+  .html      0
+  up-link    /network-installation-nyc x0
+  FAQ:
+     1. How much does network installation cost in NYC?
+     2. What is included in a commercial network installation?
+     3. What is the difference between network installation and structured cabling?
+     4. How many Wi-Fi access points does my office need?
+     5. Why is my office Wi-Fi slow in some rooms and fine in others?
+     6. Should guest Wi-Fi be separated from staff Wi-Fi?
+     7. What network equipment does a small business actually need?
+     8. How long does office network installation take?
+     9. Can you upgrade our network without shutting the office down?
+    10. What is a wireless site survey or heat map, and when is it worth paying for?
+    11. Do I need a managed switch, or will an unmanaged one work?
+    12. Do you work after hours in occupied offices?
+    13. Should I use Cat6 or Cat6A for the runs feeding access points?
+    14. What documentation do we get at closeout?
+    15. Who installs business networks in NYC?
+  H2:
+     1. What a network installation from us actually includes
+     2. The same network means different things to different people
+     3. What goes in the closet: switching, routing and the edge
+     4. VLANs: keeping the guest laptop away from the file server
+     5. Wi-Fi installation: how many access points a New York office actually needs
+     6. Site surveys and heat maps — what they are and when they are worth paying for
+     7. What makes wireless in New York buildings different
+     8. PoE budget: the number nobody calculates until it fails
+     9. The cable underneath it, and why it is part of this job
+    10. The telecom closet: network rack, panels, power and heat
+    11. Fibre backbone, risers and the ISP handoff
+    12. Documentation, or: who has to figure this out later
+    13. The network you inherited
+    14. Signs the network is the problem — and signs it is not
+    15. What network installation costs in NYC
+    16. What we deploy, and what a small business actually needs
+    17. Network installation, structured cabling and Cat6 — what is different
+    18. What a network build looks like in different buildings
+    19. From walkthrough to closeout
+    20. What you can hold us to
+    21. Network installation questions we get in NYC
+    22. Shorter answers to common network questions
+    23. Seven things people believe about office networks that are not so
+    24. Where we install networks in New York City
+    25. Get a network quote
+
+Long Island hub — /network-installation-long-island
+  title      Network Installation Long Island | Nassau &amp; Suffolk (55)
+  meta       159 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-long-island
+  words      10632
+  H2         24
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    14
+  phone      800 x10 · 347 x0 · other direct x0
+  .html      0
+  up-link    /network-installation-nyc x3
+  FAQ:
+     1. How much does network installation cost on Long Island?
+     2. Why does a wide Long Island building need more than one telecom room?
+     3. What does a commercial network installation on the Island actually include?
+     4. Network installation or structured cabling — which am I actually buying?
+     5. How many Wi-Fi access points does my Long Island office need?
+     6. Why is my office Wi-Fi slow in some areas and fine in others?
+     7. Does guest Wi-Fi need to be kept off the staff network?
+     8. What network equipment does a small business need?
+     9. How long does a Long Island network installation take?
+    10. Can you upgrade our network without shutting the business down?
+    11. What is a wireless site survey, and is it worth it on Long Island?
+    12. Is a managed switch necessary in a multi-room building?
+    13. Do you work after hours and weekends?
+    14. Cat6 or Cat6A for the runs that feed access points?
+    15. Who installs business networks on Long Island?
+  H2:
+     1. What a Long Island network installation includes
+     2. Wide buildings, flat slabs and the hundred-metre problem
+     3. What Long Island buildings do to a network design
+     4. Switching, routing and the edge in a multi-closet building
+     5. VLANs: fencing the warehouse, the guests and the card terminals
+     6. Wi-Fi installation on Long Island: what the buildings actually demand
+     7. When a wireless site survey is worth paying for out here
+     8. PoE budget across multiple closets
+     9. Fiber between closets, and between buildings
+    10. The telecom room: network rack, panels, power and heat
+    11. The cable underneath it, and whether yours has to go
+    12. Documentation, and who has to figure this out later
+    13. The network you inherited
+    14. Signs the network is the problem — and signs it is not
+    15. What network installation costs on Long Island
+    16. What we deploy, and what an Island business actually needs
+    17. Network installation, structured cabling and Cat6 — what is different
+    18. What a network build looks like in different Island businesses
+    19. From walkthrough to closeout
+    20. What you can hold us to
+    21. Long Island network installation questions we get
+    22. Shorter answers to common questions
+    23. Where we install networks on Long Island
+    24. Get a Long Island network quote
+
+Hudson Valley hub — /network-installation-hudson-valley
+  title      Network Installation Hudson Valley | 6 Counties (47)
+  meta       162 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley
+  words      11512
+  H2         24
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    13
+  phone      800 x10 · 347 x0 · other direct x0
+  .html      0
+  up-link    /network-installation-nyc x3
+  FAQ:
+     1. How much does network installation cost in the Hudson Valley?
+     2. How do you link two buildings on the same property?
+     3. What does a commercial network installation include up here?
+     4. Network installation or structured cabling — what am I actually buying?
+     5. How many Wi-Fi access points does a Hudson Valley building need?
+     6. Why is Wi-Fi fine in one room of our building and absent in the next?
+     7. Do we have to separate guest wireless from the staff network?
+     8. What hardware does a small Valley business actually need?
+     9. How long does a Hudson Valley network installation take?
+    10. Can the upgrade happen without closing the business?
+    11. What is a wireless site survey, and when is it worth it in the Valley?
+    12. Do we need a managed switch in every building?
+    13. Are the licensing rules the same across all six counties?
+    14. Cat6 or Cat6A on the runs feeding access points?
+    15. Who installs business networks in the Hudson Valley?
+  H2:
+     1. What a Hudson Valley network installation covers
+     2. Campus fiber: linking buildings that were never meant to share a network
+     3. What Hudson Valley buildings do to a network design
+     4. County and municipal requirements vary across the Valley
+     5. Switching, routing and the edge across several structures
+     6. VLANs across a multi-building property
+     7. Wi-Fi installation in the Valley: masonry, mills and open ground
+     8. When a wireless site survey earns its cost here
+     9. PoE budget, per room and per building
+    10. The network rack in each structure: panels, power and climate
+    11. The cable underneath it, and whether yours survives
+    12. Documentation on a multi-structure site
+    13. The network you inherited
+    14. Telling a network fault from everything else
+    15. What network installation costs in the Hudson Valley
+    16. What we deploy, and what a Valley business needs
+    17. Network installation, structured cabling and Cat6 — what is different
+    18. What a network build looks like across Valley businesses
+    19. From site walk to closeout
+    20. What you can hold us to
+    21. Hudson Valley network installation questions we get
+    22. Shorter answers to common questions
+    23. Where we install networks in the Hudson Valley
+    24. Get a Hudson Valley network quote
+
+
+shared sentences of 8+ words, nav chrome / footer / forms excluded
+
+  network-installation-nyc               vs network-installation-long-island        0
+  network-installation-nyc               vs network-installation-hudson-valley      0
+  network-installation-long-island       vs network-installation-hudson-valley      0
+
+WHAT TO AUDIT
+  1. Does each hub argue a different thesis, or is it one page with place names swapped?
+  2. Any town or corridor named without a pathway, access or RF reason attached?
+  3. Are the 15 FAQ answers on each page complete and independently useful?
+  4. Any pricing, code, licensing or building-practice claim wrong or unsupportable?
+  5. Any fabricated customer, project, testimonial or outcome statistic? There should be none.
+  6. Do alt texts and captions match the photo and the region claimed?
+  7. Anything belonging to another trade?

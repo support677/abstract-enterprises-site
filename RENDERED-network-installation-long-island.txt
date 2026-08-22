@@ -1,0 +1,839 @@
+Network Installation Long Island | Nassau & Suffolk
+
+Nassau & Suffolk County
+
+### Network Installation Long Island
+
+Office park networks · business Wi-Fi · managed switching · firewalls and VLANs · IDF placement for wide floor plates · building-to-building fiber · network repair
+
+Commercial network installation across Nassau and Suffolk — office parks, medical suites, industrial and flex space, retail and multi-building campuses. We survey the space, design the network, run the plant, build the closets, configure the switching and the wireless, and hand over documentation you can hold a vendor to.
+
+Long Island breaks one assumption that most network advice quietly makes: that a building is tall. Out here it is wide. A single-story flex building with 30,000 square feet under one slab has no riser, no stacked closet and no convenient vertical route — and it has corners that sit well beyond a hundred metres of cable from wherever the telecom room ended up. On the Island, deciding where the closets go is most of the design, and it is decided before anyone talks about brands.
+
+Get a Free Quote →
+Call (800) 486-0943
+
+4.7 / 201 Google Reviews
+NYS Low Voltage #12000287431
+Licensed & Insured
+Small office networks from $4,900
+
+### Get a Long Island Network Quote
+
+Tell us the building and roughly how many people work in it — we'll come back with a number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Roughly how many people?
+
+Select
+1–10
+11–25
+26–50
+51–100
+100+
+
+Service Area *
+
+Select a county
+Nassau County
+Suffolk County
+Queens
+Other
+
+I agree to be contacted about this request. See our privacy policy .
+
+Request My Quote
+Or call (800) 486-0943
+
+[FIG] A 24-port PoE+ switch going in under two dressed patch panels. On a wide Island building this same rack repeats in every telecom room.
+
+Scope
+
+### What a Long Island network installation includes
+
+Two contractors can walk the same Hauppauge flex building and mean completely different things by the word "network." Here is what it means on our estimates.
+
+A walk of the actual building. Where the slab is, where the electrical room is, where the provider brought the circuit in, where people sit, and how far the far corner really is from the proposed closet. On a wide building, that last measurement decides everything downstream.
+
+A closet plan before a cable plan. How many telecom rooms the footprint needs and where they go, since that determines whether the horizontal runs are comfortable or borderline.
+
+A written design. Addressing, VLANs, switch sizing with power headroom, access point count and placement, equipment list. Agreed before anything is ordered.
+
+The plant. Cable on supported pathway, plenum-rated where the ceiling requires it, firestopped at rated penetrations, terminated on category-matched components and tested on every run.
+
+The rack. Network rack or wall cabinet, patch panels, management, power and UPS, dressed and labelled at both ends.
+
+The active layer. Switching, router or firewall, access points — installed, configured and validated. Supplied by us or by you.
+
+Documentation and keys. Port map, as-built, addressing scheme, equipment list with serials, administrative credentials handed over.
+
+Priced as their own lines rather than folded into a package: rack hardware, patch panels, switches and firewalls where we furnish them, conduit where a landlord requires it, firestop materials, core drilling through block or slab, lift work in warehouse space, exterior or underground pathway between buildings, and after-hours crews. Those are real costs. Hiding them inside a headline number is how a low bid becomes an expensive job in week three.
+
+The question worth asking every bidder on the Island. How many telecom rooms does this building need, and where did you put them? A contractor who has not answered that before quoting has not designed anything yet — they have priced cable.
+
+[FIG] Two-tech pull back toward the telecom room. On a long floor plate the pull is the easy part; deciding where the room goes was the work.
+
+The Island constraint
+
+### Wide buildings, flat slabs and the hundred-metre problem
+
+In Manhattan the limiting dimension is height and building access. On Long Island it is horizontal reach, and it is the single most common thing an off-Island contractor gets wrong.
+
+Copper horizontal cabling is limited to a hundred metres, and that hundred metres is cable as installed — up into the ceiling, across the pathway, around the mechanical space, down the wall to the outlet — not the distance you would pace out on the floor. A rule of thumb that holds up in the field: usable straight-line coverage from a single telecom room is roughly seventy metres in any direction once the vertical drops and pathway detours are accounted for.
+
+Apply that to a typical Island building. A 30,000 square foot single-story flex or office building is frequently 300 feet by 100 feet. Put the telecom room in the electrical room at one end, because that is where the power and the incoming service are, and the far corner is over 300 feet of cable away. Every drop in the back third of that building is either out of spec, or it was installed anyway and now sits at the edge of what it can do — which is where you get gigabit links that quietly negotiate down, PoE devices that behave inconsistently, and a network that tests fine on a Tuesday and misbehaves on a Friday.
+
+### What the answer actually is
+
+A second telecom room, placed centrally to the zone it serves rather than where the electrical panel happens to be, linked back to the main room with fiber.
+
+Zoning the floor plate into coverage areas at design time, so each closet has a defined territory instead of a hopeful radius.
+
+Fiber between rooms, copper to the desk. Fiber has no hundred-metre problem inside a building, so the backbone absorbs the distance and the horizontal runs stay comfortably in spec.
+
+Measuring the worst run, not the average one. The design has to survive the furthest outlet in the furthest corner, because that is the one that will fail.
+
+The cost consequence is real and worth stating plainly: a second closet with a fiber link is a few thousand dollars at build time. Rewiring a third of a building three years later because the original runs were marginal is not.
+
+[FIG] The bundle entering IDF-2. On a 300-foot building the second room is not a luxury — it is what keeps every run inside a hundred metres.
+
+Building stock
+
+### What Long Island buildings do to a network design
+
+Four building types cover most commercial work between the Queens line and Riverhead, and each one changes the plan in a specific way.
+
+### Single-story flex and industrial
+
+Slab on grade, steel frame, metal deck or bar-joist roof, drop ceiling in the office portion and open structure over the warehouse portion. There is no basement, which means no basement demarc — the provider's circuit enters through an exterior wall wherever the utility found it convenient, frequently nowhere near where you would want the equipment. Extending that entry point into a usable telecom room is a normal line item on these buildings, not an exception. Over the warehouse side, cable rides on supported pathway at deck height and access points mount well below the deck, because an access point at twenty-four feet aimed at a floor twenty-four feet down covers far less usable area than the datasheet implies.
+
+### Suburban office park, two to four storeys
+
+The Route 110 corridor, Lake Success, Melville, Woodbury. Conventional commercial construction with real telecom rooms, drop ceilings that are usually HVAC return plenums, and stacked closets floor to floor. These are the most straightforward buildings on the Island to network properly. The complications are administrative rather than technical: landlord approval, insurance on file, and the fact that a multi-tenant office park building often has a shared demarc room whose condition is somebody else's responsibility and nobody's priority.
+
+### Converted and mixed-use main street buildings
+
+Older two- and three-storey buildings along village main streets — Mineola, Huntington, Patchogue, Babylon, Rockville Centre. Masonry party walls, plaster in the older stock, retail below and offices above, and pathway that has to be created rather than found. Core drilling and surface raceway are common here, and wireless behaves less predictably than the square footage suggests because of what the interior walls are made of.
+
+### Medical and clinical space
+
+Concentrated around Mineola, New Hyde Park, Lake Success, Riverhead and the Stony Brook corridor. Imaging equipment moving large files, clinical systems that must be segmented, patient wireless fenced off entirely, and near-zero tolerance for downtime during hours. The technical work is standard; the scheduling is the constraint, and it usually means evenings and Saturdays.
+
+[FIG] Boxes staged for a zone pull during a fit-out. Cable rating is picked per pathway — riser in the walls, plenum where the ceiling is a return.
+
+Wired layer
+
+### Switching, routing and the edge in a multi-closet building
+
+A building with one telecom room has one design decision. A building with three has several, and they compound.
+
+### Switch placement and uplinks
+
+Each telecom room gets its own switching, sized for the drops in its zone with real port headroom, and each links back to the main room. The uplink between rooms is the piece most often undersized — a stack of gigabit switches trunked back over a single gigabit link puts every device in that zone behind one shared pipe. On a building where one closet serves the warehouse scanners and another serves the office, that bottleneck shows up as the warehouse slowing down whenever accounting moves a large file. Ten-gigabit uplinks over fiber between rooms cost little at build time and remove the question permanently.
+
+### The edge
+
+One router or firewall at the building's service entrance, not one per closet. For most Island businesses a business gateway with a considered rule set is right; where there is remote staff connecting back, regulated data, or a compliance questionnaire in the company's future, a firewall with real logging earns its price the first time somebody asks what happened on a given afternoon. Either way the edge is where segments get their rules and where a provider change becomes a short reconfiguration rather than a redesign.
+
+### Power, and why it matters more out here
+
+Overhead distribution and a lot of tree cover mean Long Island businesses see more brief interruptions than a Manhattan tower does. A UPS sized for each rack keeps switching, edge and access points alive through a flicker and shuts things down cleanly on a long outage. It is a modest line item that prevents the specific failure where power returns, equipment boots in the wrong order, and nothing routes until somebody drives to the building. In multi-closet buildings each room gets its own, because a UPS protecting only the main room leaves two thirds of the network unprotected.
+
+Segmentation
+
+### VLANs: fencing the warehouse, the guests and the card terminals
+
+Segmentation is the highest-value hour of configuration on most Island business networks, and the one most often skipped because it does not show up in a photograph of the rack.
+
+A flat network is one where every device can reach every other device — the visitor's laptop in the conference room, the thermostat, the card terminal, the shipping station and the machine holding your client files, all neighbours on the same street. Nothing has to be malicious for that to be a problem. One compromised or misbehaving device on a flat network has the run of the building.
+
+Segment Typical occupants on the Island Why it is fenced
+
+Staff Workstations, laptops, printers, file storage The business network — everything else is kept out of it
+
+Guest Visitors, conference rooms, waiting areas Client isolation and a bandwidth ceiling, no route to internal resources
+
+Voice IP phones and conference units Prioritised so calls survive a large transfer
+
+Payment Card terminals and kiosks Scope reduction — card traffic should not share a segment with browsing
+
+Operations Warehouse scanners, shipping stations, floor terminals Different traffic pattern and different uptime requirement from the office
+
+Building / IoT Thermostats, sensors, displays, smart devices The least trustworthy devices in the building, by a wide margin
+
+A twelve-person Garden City professional office needs staff, guest and probably voice. A Hauppauge distribution operation needs an operations segment that does not compete with the office and does not go down when somebody in accounting saturates the connection. The design conversation is about which fences are worth building, not about defaulting to none of them.
+
+Guest Wi-Fi is a control, not a courtesy. An open network any device can join, sharing a segment with your file storage, is a much larger exposure than most owners realise. Isolating it takes minutes at build time and is awkward to retrofit once devices are already on it.
+
+[FIG] Two ports per desk position — one for the workstation, one for a phone or whatever gets added next year.
+
+Wireless
+
+### Wi-Fi installation on Long Island: what the buildings actually demand
+
+Wireless network installation here is a different problem from the city, and mostly an easier one — with two specific exceptions that catch people out.
+
+Start with the good news. Suburban Long Island has far less spectrum congestion than a Manhattan office stack. Scan a floor in a Melville office building and you might find your own networks and a handful of neighbours, rather than forty overlapping SSIDs from four tenants and the building's own systems. That means channel planning has room to work, and 2.4GHz is still genuinely usable for the devices that need it rather than being effectively full. Construction helps too: most post-war Island commercial building is steel stud and drywall, which radio passes through far better than plaster over wire lath.
+
+### Exception one: distance and the wide floor plate
+
+The same geometry that complicates cabling complicates coverage. A wide, low building spreads people out, and coverage that would be generous in a compact office leaves gaps in a 300-foot-long one. Access point count on the Island is driven by floor area and layout more than by device density, which is the reverse of the city. A dead zone here is usually a genuine coverage hole in a far corner or a back storage area, not an airtime problem.
+
+### Exception two: warehouse and high-bay space
+
+Any building with racking is its own problem. Mounting height changes the coverage footprint dramatically, racking absorbs and reflects signal, and stock levels change what the room does to radio between January and June. Scanners have to roam cleanly as a forklift moves down an aisle, which is a handoff problem rather than a coverage problem and is solved by overlapping cells and tuned power rather than by more transmit strength. High-bay work needs a lift, and lift work is priced as its own line.
+
+Space Typical AP count What drives it
+
+Single-story office, 8,000 sq ft, drywall 4–5 Floor area and distance, not density
+
+Office park suite, 3,000 sq ft 2 Compact plan, clean spectrum
+
+Flex building — office plus 15,000 sq ft warehouse 3 office + 3–4 warehouse Two different designs in one building
+
+Medical suite with imaging 3–4 Segmented networks and lead-lined rooms as hard blocks
+
+Retail with stockroom 2–3 Shelving absorbs signal; card terminals need reliability
+
+Distribution warehouse, high bay 1 per 5,000–10,000 sq ft Mount height, racking, scanner roaming paths
+
+Lead-lined imaging rooms are worth calling out separately. They are common in Island medical suites and they are radio-opaque by design. Coverage inside one requires its own access point on its own drop; no amount of power from the corridor gets through the shielding.
+
+[FIG] Access point going up on the grid. On a wide floor plate the count is driven by distance and layout rather than by device density.
+
+Survey
+
+### When a wireless site survey is worth paying for out here
+
+A survey is a measurement, not a sales tool. On the Island it earns its cost in a narrower set of buildings than it does in the city — and we will tell you which side yours falls on.
+
+A predictive survey models coverage from a floor plan and stated construction. For a drywall office suite in an office park, that is accurate enough to plan against and costs almost nothing. An on-site survey puts a meter in the building and records real signal, neighbouring networks and channel conditions, producing a heat map of measured rather than predicted coverage.
+
+### Pay for the survey when
+
+There is racking. Warehouse and distribution space cannot be modelled honestly from a plan — the racking is the building as far as radio is concerned.
+
+The building is very wide. Large single-story footprints are where predictive models drift furthest from reality, because small errors in wall assumptions compound over distance.
+
+It is a medical suite. Lead shielding, equipment rooms and dense interior partitions all need measuring rather than assuming.
+
+A previous WiFi installation already failed. If wireless has been done once and did not work, a survey tells you whether the fault was count, placement, spectrum or the building — which decides whether the existing hardware is reusable.
+
+### Skip it when
+
+A straightforward drywall office suite under about 4,000 square feet with a normal device count does not need a paid survey to reach the right access point count. We will say so, and that money buys another access point instead. The survey fee is $450 and is credited against the project if you proceed. The post-installation validation walk — a meter carried through the finished space to confirm what was designed is what got delivered — is included either way.
+
+Power budget
+
+### PoE budget across multiple closets
+
+Power over Ethernet is why one cable can carry both data and power to an access point, a phone or a powered ceiling device. It is also the failure that looks like everything except what it is.
+
+Every PoE switch has a total power budget across all ports combined, and that total is almost always far less than the sum of what every port could theoretically draw. A 24-port switch advertising PoE+ on every port might carry a 370-watt budget; fill it with devices wanting thirty watts each and the arithmetic runs out around port twelve.
+
+Standard Per-port budget Typical devices
+
+PoE (802.3af) 15.4W IP phones, basic sensors, older access points
+
+PoE+ (802.3at) 30W Modern access points, video phones, powered displays
+
+PoE++ (802.3bt) 60–90W Wi-Fi 6E and 7 access points, large displays, PoE lighting
+
+### The multi-closet version of the problem
+
+In a building with several telecom rooms the budget has to be worked out per room, not for the building. It is entirely possible to have plenty of headroom overall and still exhaust one closet, because that is the room feeding the warehouse access points and the shipping stations. The failure is selective and silent: the switch keeps its promise to devices that already have power and refuses new ones, so the symptom is that the two devices installed last month work and the three added last week do not. It presents as a bad device, a bad run, or a bad installer. It is arithmetic.
+
+Size for what is coming. If more powered devices are planned for next year, the budget for them is decided today. The difference between a switch with headroom and one without is small at purchase and expensive at replacement.
+
+Backbone
+
+### Fiber between closets, and between buildings
+
+On Long Island the backbone is horizontal rather than vertical, and it frequently leaves the building.
+
+### Inside the building
+
+The link between telecom rooms is where fiber belongs. Multimode OM4 handles the distances involved in even a large Island building comfortably and is the usual choice inside a single structure. It is terminated, tested and documented as its own piece of infrastructure, because everything in the far zone depends on it — a single link failure takes out a third of the floor plate rather than one drop.
+
+### Between buildings
+
+Multi-building sites are common out here: a main office and a separate warehouse, two units in the same industrial park, a campus that grew by acquiring the building next door. Wireless bridges between buildings work and are cheap, but they are weather-exposed and share spectrum with everything else in the area. Fiber does not care about either. Single-mode is the right medium for building-to-building runs because it leaves distance permanently unsolved as a question.
+
+The real decision on an exterior run is aerial versus underground. Aerial is faster and cheaper where poles or a structure exist and the property allows it. Underground means trenching or boring, which means locating existing utilities first, coordinating with the property owner, and restoring the surface — a genuinely different scale of project that we scope separately rather than folding into a network price. Either way the exterior cable is rated for the environment, and the entry points into both buildings are sealed and firestopped.
+
+### The demarc, and what the provider does not do
+
+Your internet provider terminates the circuit wherever they entered the building. On a slab-on-grade Island building that is frequently an exterior wall in a back corner with no room, no power and no relationship to where the equipment should live. Getting the circuit from there to your telecom room is an extension: cable, pathway, sometimes conduit, sometimes an electrician for a receptacle. Nothing on the provider's order form mentions it, and on a move-in schedule it is regularly the item that slips the date. We identify it during the walk, not during the install.
+
+[FIG] Cable dropped into EMT on a building that mandates conduit. On slab construction the provider's entry point rarely lands where the equipment should live.
+
+Closet
+
+### The telecom room: network rack, panels, power and heat
+
+You can predict how a network will age by looking at its closet on the day it is finished.
+
+A good telecom room is boring. Patch panels above, switching below, short patch cords in the right colours running through horizontal managers, everything labelled, room left to grow. A bad one is a wall cabinet with three switches stacked on top of each other, a nest of cords in the middle, a power strip on the floor and no labels — and it will cost somebody an hour every time anything needs tracing for the next ten years.
+
+### What belongs in the room
+
+Network rack or wall cabinet. Wall-mount suits a small suite; a floor-standing network rack once there are two or more switches, a UPS and anything server-side.
+
+Patch panels ordered with ports to spare, because the panel is the hardest thing to add to later.
+
+Horizontal and vertical managers, the difference between a rack you can work in and one that is merely occupied.
+
+Power. A dedicated circuit where possible, a rack PDU, and a UPS sized for the load in that room.
+
+Grounding and bonding back to building ground wherever the install requires it.
+
+Labels on every port, every panel and every cable at both ends, matching the port map.
+
+### Heat, and the Island version of it
+
+The room that gets volunteered for network equipment on a slab building is usually an interior storage closet with no ventilation, or a corner of a warehouse with no conditioning at all. A closed cabinet holding a PoE switch delivering three hundred watts becomes an oven in July, and heat produces exactly the intermittent, temperature-correlated failures that are miserable to diagnose. A vented door and a fan kit solve it in some rooms. Sometimes it is choosing a different room at design time, which is a conversation worth having before the cabinet is mounted rather than after.
+
+### Rack cleanup as its own job
+
+A large share of Island network work is not a new build. It is a closet that three vendors have added to over eight years with no labelling, no documentation and no pattern. We re-route, re-terminate where necessary, dress, label and produce a port map. It is unglamorous and it is frequently the highest-value day anyone spends on that network.
+
+[FIG] The same closet before and after. Nothing added to the building — re-routed, re-terminated where needed, dressed and labelled.
+
+Plant
+
+### The cable underneath it, and whether yours has to go
+
+Every network installation includes a decision about the existing plant: keep it, extend it, or replace it. Getting that wrong is expensive in both directions.
+
+Wireless still needs a wire. Every access point is backhauled on cable, every workstation is one or two drops, and all of it lands on a panel in a telecom room. So the physical plant is inside the scope of a network build whether or not anything new gets pulled.
+
+### Keeping what is there
+
+Existing Island cable is frequently fine. If runs are Cat5e or better, terminated on category-matched components, within distance and testing clean, there is no reason to replace them to run a modern gigabit office network. Nothing gets condemned without a test result behind it. "The cable is old" is an expensive assertion and frequently an incorrect one. The specific thing worth testing on wide buildings is length, since that is where marginal runs hide.
+
+### When it genuinely has to go
+
+Runs that fail certification — split pairs, damaged jackets, or lengths well past a hundred metres.
+
+Cable of unknown category with no jacket print, particularly where it is carrying PoE.
+
+Non-plenum cable in a return-plenum ceiling, which is a fire code problem regardless of how it performs.
+
+Mismatched terminations of any kind: land a Cat6 run on Cat5e hardware and what you own is a Cat5e link in an expensive jacket.
+
+Runs that were never specified for the power the current devices draw.
+
+Ethernet installation on a network build follows the same rules regardless of drop count: supported pathway, plenum-rated where the ceiling requires it, firestopped at rated penetrations, category-matched terminations, labelled and tested. Two ports per desk position remains the sensible default, one per access point position with a spare where budget allows. Per-drop specifications and cable category detail live on the cabling pages, which is where they belong.
+
+Related: structured cabling installation on Long Island covers the full cable plant. Cat6 installation on Long Island covers category and per-drop pricing.
+
+Handover
+
+### Documentation, and who has to figure this out later
+
+The test of an installation is not whether it works on the last day. It is whether somebody unfamiliar with it can make sense of it two years on.
+
+Nobody leaves the site until the paperwork exists. The same package goes to a company with an IT department and to one where the office manager has never opened a switch. In a multi-closet building it matters more, not less, because there is more to get lost.
+
+Port map. Which panel port in which room lands at which outlet. On a three-closet building this is the difference between a two-minute look and an afternoon.
+
+Labels at both ends of every run, including the room identifier, in a scheme that survives a floor being reconfigured.
+
+Certification results covering every drop rather than a sample.
+
+As-built drawing showing telecom room locations, zone boundaries, fiber backbone route and access point positions.
+
+Addressing and VLAN scheme written down — subnets, DHCP scopes, reservations, SSIDs and which segment each lands on.
+
+Equipment list with models, serial numbers and firmware at handover.
+
+Credentials. Admin access to every device we touched, transferred to you at the end.
+
+That last point deserves bluntness. Some contractors keep the administrative credentials to their own installations as a retention tactic, so changing vendors means rebuilding the configuration. We do not, and anyone comparing quotes should ask the question outright before signing. It is your network. You get the keys.
+
+[FIG] Labels printed at the panel go into the port map in the same pass. In a three-room building this document is the whole difference.
+
+Repair & takeover
+
+### The network you inherited
+
+A large share of our Long Island work starts with somebody else's installation and no documentation at all.
+
+The versions are recognisable. A company that grew from eight people to thirty in the same building on hardware bought for eight. A rack three vendors have added to, none of whom labelled anything. Wireless that was adequate before the warehouse expansion. An installer who has since closed, stopped answering, or still has the passwords. A network fine at eight in the morning that collapses at half past nine when everyone is on a call.
+
+### Survey and assess before touching anything
+
+We map what is physically there, test the plant, read the existing configuration where we can get into it, and produce a written assessment: what is good, what is failing, what is a hazard and what is merely undocumented. Nothing changes until you have read it.
+
+### Separate the plant question from the equipment question
+
+These are frequently confused and carry very different price tags. Often the cable is perfectly serviceable and only the equipment and configuration above it need replacing. Sometimes it is the reverse — particularly on wide buildings where distance was never respected. A test result answers that question, and it is worth having in hand before a rewire is priced.
+
+### Stabilise, then improve
+
+Anything actively broken gets fixed first and separately. Redesign happens afterwards on a schedule rather than as an emergency, because rebuilding a network during an outage turns a one-day problem into a three-day one.
+
+### Document what exists
+
+Even where the recommendation is to leave most of it alone, the closets get labelled and a port map gets produced. The labelling and the map are yours to keep whoever ends up doing the next phase.
+
+[FIG] Tracing a run nobody labelled. Most takeouts start here, and it argues for documentation better than any sales page.
+
+Diagnosis
+
+### Signs the network is the problem — and signs it is not
+
+Half the calls we take about a slow network are about something else. Knowing the difference saves a service visit.
+
+### Probably the network
+
+It is location-dependent. The back of the building is bad and the front is fine. On a wide floor plate that is a distance or coverage problem, not the internet connection.
+
+It tracks occupancy. Usable at eight, unusable by ten, fine once more at six. That is capacity, airtime or a saturated uplink between closets.
+
+Cable behaves and wireless does not, or the other way round. That isolates the layer immediately.
+
+The network keeps disconnecting rather than failing outright — devices associate, drop and re-associate a minute later. Intermittent drops like that are usually roaming, channel overlap or a marginal run, and they are diagnosable. A network that keeps going down at the same hour every day is almost always capacity.
+
+Only one zone is affected. In a multi-closet building that points at one room, one uplink or one switch rather than at the building.
+
+Only PoE devices misbehave. Almost always the power budget in that room.
+
+### Probably not the network
+
+Slow in every room, on cable and on wireless, at every hour of the day. That pattern belongs to the circuit rather than the building, and a wired test at the edge settles it before a single ceiling tile moves.
+
+A single application drags while everything else behaves. That is the application or its host.
+
+One machine crawls and nothing else in the building does. That is the laptop.
+
+It began the day the provider did maintenance and nothing on your side changed.
+
+Diagnosing a provider fault over the phone costs you nothing, and we would rather do that than invoice a visit to reach the same conclusion. Where it is genuinely ambiguous, a short diagnostic visit that isolates the layer is cheaper than a redesign aimed at the wrong problem.
+
+Pricing
+
+### What network installation costs on Long Island
+
+Published line-item pricing, identical to our New York City rates — Nassau and Suffolk are core markets and carry no travel loading. Network equipment is quoted separately or supplied by you.
+
+### Design and survey
+
+Item Price
+
+On-site assessment, device and drop count, closet planning Free
+
+Wireless site survey and heat map $450 (credited to the project)
+
+Network design — addressing, VLAN scheme, zone plan, as-built drawings $350–$650
+
+### Installation and configuration
+
+Item Price
+
+Router / gateway install and configuration $350
+
+Business firewall install with rule set $450–$900
+
+Managed switch install and configuration — 24-port $250
+
+Managed switch install and configuration — 48-port $400
+
+Each additional switch in a stack $175
+
+VLAN / segmentation configuration, per segment $125
+
+Guest network with client isolation and captive portal $200
+
+Wi-Fi access point — mounted and tuned on an existing drop $225
+
+Wi-Fi access point — including a new cable run $300
+
+High-bay or warehouse access point (lift work) $375
+
+Network rack or cabinet build — panels, management, PDU, dressing $650
+
+Second telecom room build-out with fiber link back from $2,400
+
+Existing rack cleanup, re-route and re-label from $500
+
+Demarc extension from the provider's entry point from $350
+
+Documentation package — port map, as-built, credential handover $350
+
+Certification testing, per drop $20
+
+### Whole-network packages
+
+Package Scope From
+
+Small office suite Up to 10 users, 12 drops, firewall, 24-port PoE switch, 2 access points, wall cabinet, VLANs, documentation $4,900
+
+Single-story building 25–50 users, two telecom rooms with a fiber link, 5–7 access points, firewall, floor rack, full segmentation, certification, documentation $14,900
+
+Flex or industrial building Office plus warehouse, high-bay wireless, operations segment, multi-zone switching Custom proposal
+
+Multi-building site Building-to-building fiber, closet per building, unified wireless Custom proposal
+
+Note the difference from a city floor: the mid-size Island package starts higher than its Manhattan equivalent, and the reason is the second telecom room and its fiber link rather than any premium on labour. That room is what keeps every run in spec on a wide building. It is also the line most often missing from a cheaper bid.
+
+### What moves the number
+
+Rough-in versus retrofit. Cable installed before drywall closes costs a fraction of the same cable fished afterwards. On a fit-out the two weeks before the drywall crew arrives is the cheapest labour on the entire project.
+
+How many telecom rooms the footprint needs. The single largest variable on Island buildings.
+
+Ceiling height and lift work. Twenty-four feet of warehouse and nine feet of office are two different jobs.
+
+Slab and masonry penetrations. Core drilling through block or slab is real time and its own line.
+
+Exterior pathway. Building-to-building runs are scoped separately — aerial and underground are not comparable numbers.
+
+Occupied space and trading hours. Medical suites and retail push work to evenings and Saturdays.
+
+### Repair and service
+
+Existing-network diagnostics and repair run at $195 an hour against a three-hour minimum. Same-day dispatch is available across Nassau and Suffolk for outages. If that visit turns into a quoted project, the hours come off the project price.
+
+[FIG] Fishing a drop through a finished wall. The same cable before drywall costs a fraction — the rough-in window is the cheapest labour on the job.
+
+Equipment
+
+### What we deploy, and what an Island business actually needs
+
+We are not tied to one manufacturer. What matters is that the equipment fits the building, the budget and whoever supports it afterwards.
+
+### Ubiquiti UniFi
+
+The default for small and mid-size Island businesses. Capable hardware, no per-device licensing, a controller most IT people can navigate, and access points that perform well across wide floor plates. The trade-off is community support rather than a contract, which matters more to a fifty-person firm than a ten-person one.
+
+### Cisco Meraki
+
+Cloud-managed, genuinely good tooling, strong support — licensed per device per year, permanently. When the licence lapses the hardware stops. Right for organisations that want a support contract and a defensible budget line; the licensing is the whole conversation for anyone minimising recurring cost.
+
+### Aruba Instant On and TP-Link Omada
+
+The value tier, and better than that sounds. Dependable access points and switches, no annual licence, management that does the job. A sensible fit for an office park suite where the network is not the business, and a considerable step above consumer hardware.
+
+### Firewalls — Fortinet and pfSense
+
+Where the edge needs more than a gateway: inspection, VPN for remote staff, logging you can produce when somebody asks. Fortinet for a supported commercial appliance, pfSense or Netgate where the preference is an open platform with no subscription.
+
+### Bring your own equipment
+
+If you have already bought hardware, or your IT provider standardises on something specific, we install and configure it. The one thing we insist on is saying so directly when the hardware already bought cannot deliver what is being asked of it — an access point count that cannot cover a wide floor, a switch without the power budget for the planned devices, a consumer router being asked to carry thirty people. That conversation belongs before installation.
+
+### What an Island business does not need
+
+A consumer router carrying twenty-five people, which is the single most common thing we replace. A daisy chain of unmanaged five-port switches under desks in the back offices. Wireless extenders doing the work of access points in a warehouse. An enterprise licensing model for an eight-person suite. And a faster internet package bought hoping to fix a problem that lives entirely inside the building.
+
+Comparison
+
+### Network installation, structured cabling and Cat6 — what is different
+
+Three terms that overlap, get used interchangeably in quotes, and describe genuinely different scopes of work.
+
+Term What it covers What it does not
+
+Cat6 installation A cable category — runs, jacks, panels, terminations and testing in Cat6 or Cat6A specifically. Equipment, configuration, wireless design
+
+Structured cabling The whole cable plant: horizontal runs, backbone, telecom rooms, fiber, pathway and certification. Switch configuration, routing, firewall rules, VLANs, wireless tuning
+
+Network installation Everything that has to be true for traffic to move: zone and closet planning, addressing, switching, the edge, segmentation, wireless coverage and the documentation — plant included. Server administration, desktop support, software
+
+The practical consequence matters before you compare bids. A cabling contractor hands over a tested, labelled panel with nothing plugged into it, and by their scope the job is complete. An IT provider configures equipment well and subcontracts anything involving a ladder. Neither is wrong. The gap between them is where projects stall, because when something does not work each side points at the other.
+
+Both layers are ours, and that mostly matters on the day something breaks. One contractor, one scope, nobody to point at. This page is the Long Island regional hub — the citywide equivalent is network installation NYC .
+
+By property type
+
+### What a network build looks like in different Island businesses
+
+User count tells you almost nothing on its own. The building and the operation tell you the rest.
+
+Office park
+
+### Professional offices and law firms
+
+Two ports per desk, a conference room that is a density problem rather than a coverage one, printers on wired connections, and genuine interest in segmentation because of what sits on the file server. Landlord approval and insurance on file are the administrative gates rather than freight elevators.
+
+Medical
+
+### Medical, dental and imaging
+
+Clinical systems on their own segment, imaging equipment moving large files, patient wireless fenced off entirely, and lead-lined rooms that need their own access point because nothing penetrates the shielding. Work is scheduled around patient hours, which means evenings and Saturdays.
+
+Industrial
+
+### Warehouse, distribution and flex
+
+Two designs in one building: conventional office coverage in the front, high-bay wireless over the racking behind it. Scanner roaming, an operations segment separated from the office, and a power budget calculated for the closet feeding the warehouse rather than for the building.
+
+Retail
+
+### Retail and hospitality
+
+Point of sale on wired connections wherever possible, card traffic on its own segment, guest wireless with a ceiling so it cannot swallow the connection, and stockroom coverage that survives full shelving. Trading hours push most of the work overnight.
+
+Education
+
+### Schools, training centres and houses of worship
+
+Classroom density is the whole problem — thirty devices in one room, all active at the same moment. Per-room access points, wired projection, separate guest access, and a summer or weekend schedule because the space is in use the rest of the time.
+
+Multi-building
+
+### Campuses and multi-building sites
+
+A main building and a second one across the lot, or two units in the same industrial park. Building-to-building fiber, a telecom room in each structure, unified wireless so devices roam across the site, and one edge rather than two separate internet circuits.
+
+Process
+
+### From walkthrough to closeout
+
+Five stages, in this order, on every Island project regardless of size.
+
+### Walk the building and measure the worst run
+
+Floor plan first, then the actual building: where people sit, where the electrical room is, where the provider's circuit enters, what the ceiling and walls are made of, and how far the furthest planned outlet is from each candidate telecom room. On a wide footprint this walk produces the zone plan, and the zone plan produces everything else.
+
+### Design and quote
+
+Telecom room count and placement, addressing scheme, VLAN plan, switch sizing with power headroom per room, access point count and placement, equipment list, and a line-item price. Written down and agreed before anything is ordered. If the budget does not reach the design, this is where we say which parts can be staged and which must not be compromised.
+
+### Plant, pathway and backbone
+
+Fiber between telecom rooms first, then copper from each room out to its zone, on supported pathway, plenum-rated where the ceiling requires it, firestopped at rated penetrations. On a fit-out this happens before drywall; on an occupied building it happens after hours.
+
+### Rooms and equipment
+
+Network rack or cabinet in each room, patch panels, management, power and UPS. Switching, edge device and access points mounted, powered and configured — VLANs, SSIDs, channel plan, DHCP, firewall rules, and PoE budget verified per room under actual load rather than on paper.
+
+### Test, validate and hand over
+
+Every drop certified. A wireless validation walk with a meter after the access points are live, including the far corners and the warehouse aisles. Then the documentation package: port map, as-built with zone boundaries and fiber route, addressing scheme, equipment list and administrative credentials. We walk whoever supports it through each room before we leave.
+
+[FIG] Certified from the outlet end, one drop at a time. On wide buildings the length result is the one worth reading twice.
+
+Commitments
+
+### What you can hold us to
+
+Things you can point at afterwards, rather than adjectives.
+
+Somebody walks the building before you get a number. No network priced off a phone call and a square footage — particularly not on a wide building where the geometry decides the cost.
+
+A telecom room plan in the proposal, stating how many rooms the footprint needs and where they go.
+
+A written scope before work starts, with equipment listed and exclusions stated rather than implied.
+
+Every drop certified, not a representative sample, with results in the handover package.
+
+A wireless validation walk after installation, measured in the space including the far corners, not inferred from a controller dashboard.
+
+Labels at both ends and a port map that agrees with what is actually installed.
+
+Administrative credentials handed over at closeout. Always.
+
+After-hours work at no premium on the labour itself, arranged in advance with the landlord or building manager.
+
+A licensed network installer on every job. NYS Low Voltage licence #12000287431, insured, certificates issued to the landlord or managing agent on request.
+
+A three-year warranty on anything we supply, spanning both the hardware we furnish and our own workmanship. Hardware you buy yourself stays under its own manufacturer cover and is not part of that.
+
+[FIG] Core drilling through block on a slab building. Penetrations get firestopped to the rated assembly and documented in the closeout package.
+
+FAQ
+
+### Long Island network installation questions we get
+
+How much does network installation cost on Long Island? A small office suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A single-story building for twenty-five to fifty users starts near $14,900, and the difference from a comparable city floor is the second telecom room and the fiber link between rooms rather than any premium on labour. Individual items are priced on their own: firewall install with a rule set $450 to $900, managed switch install and configuration $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop and $300 where a run has to be pulled, $375 in high-bay warehouse space, rack build $650, second telecom room with a fiber link from $2,400. Nassau and Suffolk are core markets and carry no travel loading — these are the same rates we publish for New York City.
+
+Why does a wide Long Island building need more than one telecom room? Because copper horizontal cabling is limited to a hundred metres, and that hundred metres is cable as installed rather than the distance you would pace out. Once the vertical drops and pathway detours are counted, usable reach from a single room is roughly seventy metres in any direction. A typical Island flex or office building of 30,000 square feet is often 300 feet by 100 feet, and the telecom room usually ends up in the electrical room at one end because that is where the power and the incoming circuit are. The far corner is then more than 300 feet of cable away. Every drop in the back third is either out of spec or was installed anyway and now sits at the edge of what it can do — which is where you get gigabit links quietly negotiating down and PoE devices behaving inconsistently. The fix is a second room placed centrally to the zone it serves, linked back with fiber. It costs a few thousand dollars at build time. Rewiring a third of a building three years later does not.
+
+What does a commercial network installation on the Island actually include? A walk of the actual building, a telecom room and zone plan, a written design covering IP addressing and VLANs, the physical pathway and cabling, the network rack or wall cabinet in each room with patch panels and power, the switching, the router or firewall, the WiFi installation — wireless design, access point placement and tuning — the configuration of all of it, certification on every drop, and a documentation package at handover. The documentation is the part clients most often discover was missing from a cheaper quote: a port map naming which panel port in which room lands at which outlet, an as-built showing zone boundaries and the fiber route, the VLAN and addressing scheme written down, and the credentials handed over rather than kept.
+
+Network installation or structured cabling — which am I actually buying? Structured cabling is the physical plant — cable, pathway, terminations, patch panels, testing. Network installation is the working network that runs on top of it: switching, the router or firewall, VLANs, wireless coverage, addressing and documentation. Plenty of contractors do the first and hand you a live patch panel with nothing plugged into it, which by their scope is a finished job. We do both layers, which mostly matters on the day something is wrong, because there is nobody to point at. Where the existing plant is sound and only the network above it is missing, that is a scope we quote on its own.
+
+How many Wi-Fi access points does my Long Island office need? Count and placement come before any product decision in a Wi-Fi installation. On the Island the count is driven by floor area and layout more than by device density, which is the reverse of the city. A compact 3,000 square foot office park suite is usually fine on two. A single-story 8,000 square foot office in drywall construction typically wants four or five, because the distances are longer even though the walls are friendlier. A flex building is really two designs — three access points for the office portion and three or four over the warehouse, mounted well below the deck. Warehouse space runs roughly one per 5,000 to 10,000 square feet depending on racking and mounting height. Lead-lined imaging rooms in medical suites need their own access point on their own drop, because nothing penetrates the shielding. A floor plan gets you within one; a survey gets it right.
+
+Why is my office Wi-Fi slow in some areas and fine in others? Four causes account for nearly all of it, and the same four are behind a network that keeps disconnecting instead of simply feeling sluggish. There are too few access points for the size of the floor plate — the most common cause out here, where buildings are wide and coverage that would be generous in a compact office leaves the back corner short. The access points were mounted where mounting was easy rather than where people sit. There is a genuine obstruction: racking, a lead-lined room, a masonry party wall in an older village building. Or the problem is not wireless at all but a saturated uplink between telecom rooms, which looks like slow Wi-Fi to everyone in that zone. A survey tells you which, and they call for different fixes.
+
+Does guest Wi-Fi need to be kept off the staff network? Yes — and it is among the least expensive parts of the whole build. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visitor's laptop cannot see your file server, cannot see your printers and cannot consume the whole connection. The same principle applies to card terminals, IP phones, warehouse scanners and building devices — each on its own segment, each unable to reach the others except where you decide it should. On a flex building the operations segment matters as much as the guest one: the shipping floor should not slow down because somebody in accounting moved a large file.
+
+What network equipment does a small business need? At minimum a business-class router or firewall at the edge, a managed PoE switch sized with headroom, enough access points to cover the floor area, and somewhere ventilated and lockable to put it. What a small business does not need is a consumer router carrying twenty-five people, which is the single most common thing we replace. Beyond the minimum the useful additions are a UPS in each telecom room, a second switch when you outgrow the first rather than a daisy chain of unmanaged ones under desks, and enough PoE budget that adding devices later does not mean replacing the switch. On a multi-room building the UPS point matters more than people expect — protecting only the main room leaves two thirds of the network exposed.
+
+How long does a Long Island network installation take? A small office suite is one to two days on site. A single-story building for twenty-five to fifty users with two telecom rooms is four to six days, with the fiber link and the second room accounting for the difference. A flex or industrial building with high-bay wireless runs a week or more, largely because lift work is slower than ladder work. Multi-building sites depend entirely on the exterior pathway — an aerial fiber run between two buildings is a day, an underground one is a different project. The items most likely to move a date are outside our control: the provider's circuit install, the demarc extension if it has to cross the building, and drywall sequencing on a fit-out. Dates get built in reverse from the day staff actually move in, and we name the item most likely to slip.
+
+Can you upgrade our network without shutting the business down? Usually yes. The approach is to stand the new network up beside the old one. New cable, the new racks, the new switching and the new access points go in while the existing network stays live, and the cutover is a single short window out of hours — often under two hours per zone. Access points get swapped one at a time so coverage never fully drops. On a multi-room building we can cut over zone by zone across separate evenings rather than taking the whole site at once, which is the usual approach for medical suites and anything with a warehouse operation that cannot pause. The exception is a full rewire where the old cable physically occupies the only available pathway.
+
+What is a wireless site survey, and is it worth it on Long Island? A survey measures how radio actually behaves in your specific building instead of predicting it from a floor plan. Out here it earns its cost in a narrower set of buildings than it does in the city, because suburban construction is friendlier to radio and spectrum is far less congested. Pay for it when there is racking, because a warehouse cannot be modelled honestly from a plan; when the footprint is very wide, because small errors in wall assumptions compound over distance; when it is a medical suite with shielding and dense partitions; and whenever a previous WiFi installation already failed, since the survey tells you whether the fault was count, placement, spectrum or the building itself. Skip it for a straightforward drywall suite under about 4,000 square feet — we will say so, and that money buys another access point. The fee is $450, credited against the project, and the post-installation validation walk is included either way.
+
+Is a managed switch necessary in a multi-room building? An unmanaged switch is fine when the network is flat, small and you never need to know what is happening on it. The moment you want guest traffic separated from staff traffic, phones on their own VLAN with priority, warehouse operations kept off the office segment, the ability to see which port is saturating, or PoE you can budget and monitor, you need a managed switch. Past about eight people it pays for itself the first time something goes wrong, because it is the difference between diagnosing a problem in ten minutes and guessing at it for an afternoon. In a multi-room building it is not really optional — you cannot troubleshoot a zone you cannot see into.
+
+Do you work after hours and weekends? Yes, and for a lot of Island work it is the only workable schedule. Medical and dental practices are booked through the day, retail cannot close, warehouses ship on a clock, and occupied office suites do not want ladders over desks. We do not charge a premium on the labour itself for evening or weekend work; we do need to know at quoting time so the crew is staffed and access is arranged with the landlord or building manager in advance. Multi-tenant office park buildings sometimes have their own after-hours rules about HVAC and building access that are worth confirming before a date is set.
+
+Cat6 or Cat6A for the runs that feed access points? Cat6A for access point drops in almost every commercial case, and the reason is power and headroom rather than raw speed. Current Wi-Fi 6E and Wi-Fi 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors handle that power with less heat rise across a bundle than Cat6 does. Cat6A also carries ten gigabit to the full hundred metres, which matters because access point backhaul is the drop most likely to be outgrown — the access point gets replaced every five to seven years while the cable above the ceiling stays for fifteen. Cat6 is genuinely fine for desk drops, printers and general connectivity, so a mixed plant is common: Cat6 to the workstations, Cat6A to every ceiling position. You pay the premium only where the drop actually warrants it.
+
+Who installs business networks on Long Island? Business network installation in Nassau and Suffolk is done by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer should establish which of those three they are talking to before a price is discussed. We are the first kind and do both layers ourselves — a licensed network installer that also configures what it installs: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working across both counties from Great Neck to Riverhead. That covers the survey and telecom room plan, the network design and addressing, the cabling and pathway, the racks, the switching, the router or firewall, VLAN segmentation, wireless design and tuning, building-to-building fiber, certification testing, documentation and credential handover, plus repair and takeover of networks somebody else built. Certificates of insurance are issued to landlords and managing agents on request.
+
+Quick answers
+
+### Shorter answers to common questions
+
+### Do I need a permit for network cabling on Long Island?
+
+Low-voltage cabling does not require a building permit in Nassau or Suffolk. What is required is landlord approval, insurance on file, and firestop documentation at rated penetrations. Exterior and underground work between buildings is different and may involve the town.
+
+### Will you take over a network somebody else built?
+
+Yes — it accounts for a large share of what we do. Takeovers start with a survey and a written assessment before anything changes — often the plant is fine and only the equipment and configuration need replacing.
+
+### Will faster internet fix slow Wi-Fi?
+
+Almost never. If the problem is location-dependent or occupancy-dependent it lives inside the building, and a bigger circuit changes nothing.
+
+### Can you work alongside our IT provider?
+
+Routinely. We handle the physical layer and the closets to their standards and naming conventions and hand the logical layer back to them.
+
+### Do you supply equipment, or can we?
+
+Either. Client-supplied hardware is welcome. If what was purchased cannot do the job, you hear that before it goes on the wall.
+
+### Can you link two buildings on the same property?
+
+Yes — single-mode fiber between buildings, aerial or underground. Exterior pathway is scoped separately because the two methods are not comparable numbers.
+
+### Do you do emergency network repair?
+
+Yes. Same-day dispatch across Nassau and Suffolk on outages. A single visit is usually enough to isolate a switch fault or a failed drop.
+
+### What does a site survey cost here?
+
+$450, and it comes off the project price if you go ahead. The validation walk after installation is included regardless.
+
+Coverage
+
+### Where we install networks on Long Island
+
+Nassau and Suffolk, end to end. What changes from corridor to corridor is the building stock and therefore the design — here is what each one presents.
+
+### Nassau County
+
+The Route 110 corridor — Melville, Farmingdale and Plainview. The Island's densest concentration of corporate office space, running along Broad Hollow Road from the Southern State up to Huntington. Multi-storey office buildings with real telecom rooms, stacked closets and drop ceilings that are usually HVAC return plenums — which means plenum-rated cable on most horizontal runs. These are conventional commercial fit-outs, and the complications are landlord approval and insurance rather than geometry.
+
+Lake Success, Great Neck and New Hyde Park. Professional and medical offices at the western edge of the county, mixed older and newer stock. New Hyde Park and Lake Success in particular carry a heavy concentration of medical and clinical space, which brings segmentation, imaging traffic and lead-lined rooms into almost every design.
+
+Garden City, Mineola and Westbury. Professional services, legal, insurance and county government work around the Nassau County seat. Mineola mixes older main-street buildings with modern medical towers, so the same afternoon can involve fishing cable through a masonry party wall and terminating in a purpose-built telecom room two blocks away.
+
+Hicksville, Bethpage and Syosset. Along the Long Island Expressway and the Northern State — a mix of office, light industrial and retail. Bethpage carries substantial corporate and campus-style space, where the design question is usually the link between buildings rather than what happens inside any one of them.
+
+Rockville Centre, Valley Stream and the South Shore. Village main-street commercial and mixed-use, retail below and offices above, plus a wide spread of medical and dental practices. Older masonry construction, pathway that has to be created, and coastal proximity that makes anything exterior a specification question rather than an afterthought.
+
+### Suffolk County
+
+Hauppauge Industrial Park. One of the largest industrial parks in the Northeast, and the single most concentrated source of the wide-building problem on the Island. Single-story flex and manufacturing buildings under one slab, no risers, provider circuits entering wherever the utility chose, and floor plates that routinely need two or three telecom rooms rather than one. Almost every job here starts with a zone plan.
+
+Ronkonkoma, Islandia and the MacArthur Airport area. Flex, distribution and back-office space along Veterans Memorial Highway and around the airport. High-bay wireless, scanner roaming, and operations segments kept separate from the office network. Buildings here are typically newer than Hauppauge's older stock, which makes pathway easier and distances no shorter.
+
+Melville and Huntington. The Suffolk end of the Route 110 corridor, plus Huntington village's main-street commercial and professional offices. Two very different building types within a few miles: modern multi-storey office at one end, converted village buildings with masonry walls and improvised pathway at the other.
+
+Bohemia, Holbrook and Farmingville. Light industrial and service businesses along the Expressway. Practical, unglamorous buildings — metal deck, drop ceiling in front, open structure behind — where the network has to survive a working environment rather than an office one.
+
+Stony Brook, Port Jefferson and the North Shore. Medical, research and professional space clustered around the university and hospital corridor. Segmentation matters more here than anywhere else on the Island, and scheduling is dictated entirely by clinical hours.
+
+Riverhead and the East End. County government, agriculture, wineries, hospitality and the retail corridor. Long distances between buildings on the same property are normal out here, which makes building-to-building fiber a routine part of the scope rather than an exotic one, and travel time is the reason we schedule East End work in full days rather than half.
+
+Nassau County
+Suffolk County
+Melville
+Route 110 Corridor
+Hauppauge
+Garden City
+Mineola
+Lake Success
+Great Neck
+New Hyde Park
+Hicksville
+Bethpage
+Syosset
+Westbury
+Rockville Centre
+Valley Stream
+Ronkonkoma
+Islandia
+Huntington
+Bohemia
+Holbrook
+Farmingdale
+Plainview
+Stony Brook
+Port Jefferson
+Riverhead
+
+County pages for Nassau and Suffolk follow this hub. The citywide equivalent is network installation NYC ; the cable plant these networks run on is covered on structured cabling installation Long Island , and cable category and per-drop pricing on Cat6 installation Long Island .
+
+[FIG] Cable belongs on a supported pathway, not on the ceiling grid — J-hooks at regular intervals, clear of fixtures and parallel power.
+
+Next step
+
+### Get a Long Island network quote
+
+Tell us the building and roughly how many people work in it. We will walk it, plan the telecom rooms, count what is actually needed, and come back with a line-item number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Property Type
+
+Select
+Office park suite
+Single-story office building
+Flex or industrial
+Warehouse or distribution
+Medical or dental
+Retail or hospitality
+Multi-building site
+
+What do you need?
+
+Select
+New network build
+Wi-Fi coverage or dead zones
+Second telecom room / distance problem
+Building-to-building link
+Upgrade an existing network
+Takeover and documentation
+Repair — something is down
+
+Anything else worth knowing?
+
+I agree to be contacted about this request. See our privacy policy .
+
+Send My Request
+Or call (800) 486-0943 · NYS Low Voltage #12000287431
+
+Home
+Network Installation NYC
+Network Installation Long Island
+Structured Cabling Long Island
+Cat6 Installation Long Island
+Warranty
+Privacy Policy
+
+© 2026 Abstract Enterprises LLC · Network Installation Long Island · NYS License #12000287431
+
+Related: Network Installation NYC — the citywide hub this regional page sits under.

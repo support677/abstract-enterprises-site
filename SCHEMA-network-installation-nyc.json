@@ -1,0 +1,603 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+    "name": "Abstract Enterprises Security Systems",
+    "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc",
+    "telephone": "+1-800-486-0943",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1282 Troy Ave",
+      "addressLocality": "Brooklyn",
+      "addressRegion": "NY",
+      "postalCode": "11203",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "City",
+        "name": "New York City"
+      },
+      {
+        "@type": "City",
+        "name": "Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Manhattan"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Queens"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "The Bronx"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Staten Island"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "201"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Network Installation",
+    "name": "Network Installation NYC",
+    "description": "Commercial network installation in New York City: network design, managed and PoE switching, routers and firewalls, VLAN segmentation, business Wi-Fi access point design, telecom closet and rack buildout, fiber backbone, demarc extension, certification, documentation and network repair.",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc",
+    "provider": {
+      "@type": "LocalBusiness",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+      "name": "Abstract Enterprises Security Systems",
+      "telephone": "+1-800-486-0943"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Manhattan"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Queens"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "The Bronx"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Staten Island"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Network installation services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network design and site survey"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed and PoE switch installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Router and firewall installation with VLAN segmentation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Business Wi-Fi access point installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network rack and telecom closet buildout"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fiber backbone and demarc extension"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network repair and troubleshooting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.abstractenterprisessecuritysystems.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Services",
+        "item": "https://www.abstractenterprisessecuritysystems.com/services"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Network Installation NYC",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How a commercial network installation runs in NYC",
+    "description": "The five stages of a commercial network installation in New York City, from the initial walkthrough through design, cabling, closet and equipment build, testing and documented handover.",
+    "totalTime": "P2D",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Cat6 or Cat6A cable"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Patch panels and keystone jacks"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Network rack or wall cabinet"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Managed PoE switch"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Router or firewall"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Wireless access points"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Cable certification tester"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Wireless survey meter"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Punch-down tool"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Fish tape and glow rods"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Walk the space",
+        "text": "We look at the floor plan and then at the actual building: where people sit, where the closet is, what the ceiling and walls are made of, where the ISP hands off, and what the building will and will not allow. Device counts and pathway come out of the walk, not out of an assumption.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Design the network",
+        "text": "IP addressing, VLAN scheme, switch sizing with PoE headroom, access point count and placement, and the equipment list. Written down and agreed before anything is ordered, so the scope and the number mean the same thing to both sides.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Pull the pathway and cable",
+        "text": "Cable run on supported pathway from the closet to every outlet and access point location, kept out of light fixtures and off the ceiling grid, separated from parallel power, and firestopped at rated penetrations.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Build the closet",
+        "text": "Rack or wall cabinet, patch panels, cable management, power and UPS. Terminated, dressed and labelled at both ends. This is where a network is either maintainable or a mess for the next decade.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Configure and hand over",
+        "text": "Switches, router or firewall, VLANs, wireless SSIDs and channel plan, then testing on every drop and a wireless validation walk. Documentation, port map and credentials handed over at the end.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc#process"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does network installation cost in NYC?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small-office network build — around ten users, a firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs and documentation — starts near $4,900 in labour and configuration, with network equipment quoted separately or supplied by you. A full-floor build for twenty-five to fifty users typically starts near $12,500. Individual pieces are priced on their own: a firewall install with a rule set runs $450 to $900, a managed switch install and configuration is $250 for a 24-port and $400 for a 48-port, an access point is $225 installed on an existing drop and $300 where a new drop has to be pulled, and a rack build with power and cable dressing is $650. Data drops are priced per drop as their own line. The reason we quote in pieces rather than one number is that the same user count can mean a one-day job or a two-week job depending on the building, and only a walkthrough tells us which."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is included in a commercial network installation?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A survey of the space, a written design covering IP addressing and VLANs, the physical pathway and cabling, the network rack or wall cabinet with patch panels and power, the switching, the router or firewall, the WiFi installation — wireless design, access point placement and tuning — the configuration of all of it, testing on every drop, and a documentation package at handover. The documentation is the part clients most often discover was missing from a cheaper quote: a port map that says which panel port lands at which outlet, an as-built showing where the access points went, the VLAN and IP scheme written down, and the credentials handed over rather than kept. A network that works on the day of handover but that nobody can trace six months later has not really been finished."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between network installation and structured cabling?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Structured cabling is the physical plant: the cable, the pathway, the terminations, the patch panels, the testing. Network installation is the working network that runs on top of it: the switches, the router and firewall, the VLANs, the wireless coverage, the addressing, and the documentation. Plenty of contractors do the first and hand you a live patch panel with nothing plugged into it. We do both, which mostly matters when something is wrong, because there is nobody to point at. If you already have good cable in the walls and only need the network built on it, that is a normal scope and we price it that way."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many Wi-Fi access points does my office need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A Wi-Fi installation is sized by count and placement before anything else. For a typical New York office with partition walls and a mix of laptops, phones and conference gear, plan on roughly one access point per 1,500 to 2,500 square feet, then adjust for what the building is made of and how many people are actually in a room at once. A 4,000 square foot open loft with glass partitions may be fine on two. The same square footage chopped into private offices behind plaster and wire lath can need four. Conference rooms, classrooms and any space where thirty people join calls at the same time are density problems rather than coverage problems, and they usually need their own access point regardless of what the square-foot arithmetic says. A survey settles it properly; a floor plan and a rule of thumb only gets you a budget number."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is my office Wi-Fi slow in some rooms and fine in others?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nearly always one of four things, and the same four explain a network that keeps disconnecting rather than merely running slowly. The access points were mounted where mounting was easy — above a closet, at the end of a corridor — rather than where people sit. There are too few of them for the device count, so everyone is sharing airtime. The building is fighting you: plaster over wire lath, steel studs, elevator shafts and glass all attenuate signal, and a room that is fine at 8am fills with bodies and degrades by ten. Or your channels are colliding with the four other tenants on the floor, which is a real condition in most New York office stacks and is fixed by planning channels rather than by buying a stronger radio. A survey tells us which of the four you have, and they call for different fixes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should guest Wi-Fi be separated from staff Wi-Fi?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and it is one of the cheapest pieces of the build. A guest network on its own VLAN with client isolation and its own bandwidth ceiling means a visitor's laptop cannot see your file server, cannot see your printers, and cannot consume the whole connection. The same principle applies to point-of-sale terminals, IP phones and building devices — each on its own segment, each unable to reach the others except where you decide it should. Segmentation is the single highest-value hour of configuration on most small business networks."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What network equipment does a small business actually need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "At minimum: a business-class router or firewall at the edge, a managed PoE switch sized with headroom, enough access points to cover the floor, and somewhere to put it all that is ventilated and lockable. What a small business does not need is a consumer router from an electronics store carrying twenty people, which is the single most common thing we replace. Beyond the minimum, the useful additions are a UPS so the network survives a flicker, a second switch when you outgrow the first rather than a daisy chain of unmanaged ones, and enough PoE budget that adding more powered devices later does not mean replacing the switch."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does office network installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small office of up to ten users is one to two days on site. A twenty-five to fifty user floor is three to five days. A multi-floor tenancy with a fibre riser and a closet per floor runs two to three weeks. Those figures assume normal access. Occupied-space work stretches all of them, because a four-hour evening window is not the same as a four-hour day, and a building that releases the freight elevator only between six and ten adds a day to almost any schedule. The parts that most often move a date are outside our control: the internet circuit install, the demarc extension if the building has to be involved, and drywall sequencing on a fit-out. We schedule backwards from the day people need to work in the space and tell you which item is the long pole."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you upgrade our network without shutting the office down?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually yes. The method is to build alongside rather than in place. New cable, the new rack, the new switching and the new access points go in while the existing network stays live, and the cutover is a single short window out of hours — often under two hours for a floor. Access points can be swapped one at a time so coverage never fully drops. Switch cutover is the moment that genuinely interrupts, and that is the piece we schedule for an evening or a weekend morning. The exception is a full rewire in a space with no spare pathway, where the old cable physically occupies the route the new cable needs. Even then we normally stage it floor by floor or zone by zone rather than taking the whole business down at once."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a wireless site survey or heat map, and when is it worth paying for?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A survey measures how radio actually behaves in your specific building rather than predicting it from a floor plan. A predictive survey models coverage from drawings and stated wall construction — quick, cheap, and accurate enough for straightforward drywall space. An on-site survey puts a meter in the room and records real signal strength, neighbouring networks and channel congestion, producing a heat map of measured coverage. It is worth paying for in prewar buildings where plaster over wire lath attenuates unpredictably, in dense office stacks where several tenants are competing for the same channels, in warehouses where mounting height and racking decide everything, and anywhere a previous wireless installation already failed. It is not worth paying for in a straightforward drywall office under about 3,000 square feet, and we will say so — that money buys another access point instead. Our survey fee is $450 and is credited against the project if you proceed."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do I need a managed switch, or will an unmanaged one work?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An unmanaged switch is fine when the network is flat, small, and you never need to know what is happening on it. The moment you want guest traffic separated from staff traffic, or phones on their own VLAN with priority, or untrusted devices kept off the business network, or the ability to see which port is saturating, or PoE you can budget and monitor, you need a managed switch. For most offices past about eight people the managed switch pays for itself the first time something goes wrong, because it is the difference between diagnosing a problem in ten minutes and guessing at it for an afternoon."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work after hours in occupied offices?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and on most fit-outs it is the only workable schedule. Occupied floors, buildings that restrict freight elevator access to specific windows, retail that cannot close, and cutovers that have to happen between the last person leaving and the first person arriving all end up as evening or weekend work. We do not charge a premium for the work itself; we do need to know at quoting time so the crew is staffed and the building access is arranged with the managing agent in advance."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Should I use Cat6 or Cat6A for the runs feeding access points?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cat6A for access point drops, in almost every commercial case. The reason is power and headroom rather than raw speed. Current Wi-Fi 6E and Wi-Fi 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors and shielding handle that power with less heat rise across a bundle than Cat6 does. Cat6A also carries 10 gigabit to the full hundred metres, which matters because access point backhaul is the one drop most likely to be outgrown — the access point gets replaced every five to seven years while the cable above the ceiling stays for fifteen. Cat6 is genuinely fine for desk drops, printers and general connectivity, and we frequently run a mixed plant for that reason: Cat6 to the workstations, Cat6A to every ceiling position. The premium applies only to the drops that need it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What documentation do we get at closeout?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A port map matching every patch panel port to its outlet, labels at both ends of every run, test results for every drop, an as-built showing access point locations, the IP addressing and VLAN scheme written down, the equipment list with model and serial numbers, and the administrative credentials for everything we configured. The credentials point is worth being blunt about: some contractors keep them as a retention tactic. It is your network. You get the keys."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who installs business networks in NYC?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Business network installation in New York is done by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. If you are searching for a network installer near you, the distinction between those three is the thing worth checking before anyone quotes. We are the first kind and do both layers ourselves — a licensed network installer that also configures what it installs: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, based at 1282 Troy Ave in Brooklyn and working across all five boroughs. What that covers is the survey, the network design and addressing, the cabling and pathway, the rack and closet build, the switching, the router or firewall, VLAN segmentation, wireless access point design and tuning, certification testing, documentation and credential handover, plus repair and takeover of networks somebody else built. Certificates of insurance are issued to buildings and managing agents on request, which most commercial buildings in the city require before a crew is allowed upstairs."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-managed-poe-switch-rack-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-managed-poe-switch-rack-install.webp",
+        "name": "Network installation NYC — managed PoE switch rack install",
+        "caption": "Network installation NYC — a 24-port PoE+ switch going in under two dressed Cat6 patch panels, with the gateway above and the firewall and UPS below.",
+        "description": "Network installation NYC technician rack-mounting a 24-port PoE managed switch below Cat6 patch panels beside a UniFi gateway and FortiGate firewall",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": true
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-two-tech-corridor-cable-pull.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-two-tech-corridor-cable-pull.webp",
+        "name": "Office network installation NYC — corridor cable pull to the IT closet",
+        "caption": "Two-tech corridor pull toward the IT closet. One pays cable off the box, one runs it out, and the cable never drags on the floor or the grid.",
+        "description": "Office network installation NYC two technicians pulling Cat6 down a corridor toward the IT closet from a cable box on a hand truck",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-finished-network-rack-firewall-ups.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-finished-network-rack-firewall-ups.webp",
+        "name": "Network installation NYC — finished rack, switching, firewall and UPS",
+        "caption": "A finished closet: panels above, switching and firewall below, UPS at the bottom, patch cords in managers. Boring on purpose — this is what ages well.",
+        "description": "Finished network rack NYC with Cat6 patch panels, UniFi switches, FortiGate firewall and APC UPS dressed and labelled",
+        "width": "1122",
+        "height": "1402",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-wireless-access-point-ceiling-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-wireless-access-point-ceiling-install.webp",
+        "name": "Business Wi-Fi installation NYC — ceiling access point mount",
+        "caption": "Access point going up on the tile grid, positioned for where people actually sit rather than where mounting happened to be easy.",
+        "description": "Business Wi-Fi installation NYC technician mounting a ceiling wireless access point on the tile grid in an office",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-ceiling-tile-cable-drop-occupied-office.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-ceiling-tile-cable-drop-occupied-office.webp",
+        "name": "Network installation NYC — ceiling drop in an occupied office",
+        "caption": "Feeding a bundle up through an open tile on a retrofit. Occupied-floor work like this is why most New York network builds happen after six.",
+        "description": "Network installation NYC technician feeding a bundle of Cat6 through an open ceiling tile in an occupied office",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-jhook-ceiling-pathway-bundles.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-jhook-ceiling-pathway-bundles.webp",
+        "name": "Network installation NYC — supported J-hook pathway",
+        "caption": "Cable belongs on a supported pathway, not on the ceiling grid. J-hooks at regular intervals, out of the fixtures, clear of parallel power.",
+        "description": "Network installation NYC J-hook ceiling pathway carrying dressed Cat6 bundles above an open commercial ceiling",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-idf-riser-cable-bundle.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-idf-riser-cable-bundle.webp",
+        "name": "Network installation NYC — IDF riser bundle",
+        "caption": "Riser bundle dressed into IDF-2. On long floors the right answer is a second closet, not a stretched run and optimism.",
+        "description": "Network installation NYC technician dressing a Cat6 riser bundle into an IDF closet marked IDF-2 on a whiteboard",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-cat6-cable-box-staging-fitout.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-cat6-cable-box-staging-fitout.webp",
+        "name": "Commercial network installation NYC — cable staged for a fit-out pull",
+        "caption": "Boxes staged in a line for a multi-drop pull during a fit-out. Cable rating is picked per pathway — CMR in the walls, CMP where the ceiling is a return plenum.",
+        "description": "Commercial network installation NYC technician staging a row of Cat6 CMR and CMP cable boxes for a multi-drop office fit-out pull",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-drop-conduit-emt-riser.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-drop-conduit-emt-riser.webp",
+        "name": "Network installation NYC — conduit riser at the telecom room",
+        "caption": "Cable into EMT where the building requires conduit. Pathway rules are a building decision, and they show up on the estimate as their own line.",
+        "description": "Network installation NYC technician running Cat6 into EMT conduit labelled network drop conduit beside a telecom closet",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-rack-cleanup-before-after.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-rack-cleanup-before-after.webp",
+        "name": "Network rack cleanup NYC — before and after",
+        "caption": "The same closet before and after. Nothing was added to the building; everything was re-routed, re-terminated where needed, dressed and labelled.",
+        "description": "Network rack cleanup NYC before and after showing an unlabelled tangled closet rebuilt into a dressed labelled rack with firewall and UPS",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-cable-labeling-port-map.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-cable-labeling-port-map.webp",
+        "name": "Network installation NYC — labelling and port map",
+        "caption": "Labels printed at the panel and written into the port map at the same time. This is the document that turns a two-hour trace into a two-minute look.",
+        "description": "Network installation NYC technician applying printed cable labels at a patch panel beside a printed network cable map port list",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-fluke-dsx-certification-pass.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-fluke-dsx-certification-pass.webp",
+        "name": "Network installation NYC — certification testing a finished drop",
+        "caption": "Certification at the outlet end, drop by drop. Wire map, length, insertion loss, NEXT and return loss — a PASS you can hand over, not a link light.",
+        "description": "Network installation NYC technician certifying a Cat6 drop with a Fluke DSX cable analyzer showing a PASS result at a wall outlet",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-cable-toner-tracing.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-network-cable-toner-tracing.webp",
+        "name": "Network repair NYC — tracing an unlabelled run",
+        "caption": "Tracing an inherited run nobody labelled. Most takeovers start here, and it is the argument for documentation better than any sales page.",
+        "description": "Network repair NYC technician tracing an unlabelled Cat6 run at a patch panel with a Fluke tone generator and probe",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-workstation-data-outlet-termination.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-workstation-data-outlet-termination.webp",
+        "name": "Network installation NYC — workstation data outlets",
+        "caption": "Two ports per desk position is the working default — one for the workstation, one for a phone or whatever gets added next year.",
+        "description": "Network installation NYC technician terminating dual Cat6 workstation data outlets in an office wall plate",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-retrofit-wall-fish-data-drop.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-retrofit-wall-fish-data-drop.webp",
+        "name": "Network installation NYC — retrofit drop through a finished wall",
+        "caption": "Fishing a drop through a finished wall. The same cable installed before drywall costs a fraction of this — the rough-in window is the cheapest labour on the job.",
+        "description": "Network installation NYC technician fishing Cat6 through a finished wall cut-in for a retrofit data drop",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-core-drill-cmu-wall-penetration.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-core-drill-cmu-wall-penetration.webp",
+        "name": "Network installation NYC — core drilling a wall penetration",
+        "caption": "Core drilling through block to reach the telecom room. Penetrations get firestopped to the rated assembly and documented for the closeout package.",
+        "description": "Network installation NYC technician core drilling a CMU wall to carry Cat6 through to the telecom room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-patch-panel-punchdown-rack.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-nyc-patch-panel-punchdown-rack.webp",
+        "name": "Network installation NYC — patch panel punchdown",
+        "caption": "Panel punchdown in the closet. Same standard whether the building is a Midtown tower, a Sunset Park loft or a West Shore warehouse.",
+        "description": "Network installation NYC technician punching down Cat6 conductors into a 24-port patch panel in a commercial telecom rack",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anwar Jeffres",
+    "jobTitle": "Licensed Low Voltage Contractor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Abstract Enterprises Security Systems",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
+      "identifier": "12000287431"
+    },
+    "knowsAbout": [
+      "Network installation",
+      "Structured cabling",
+      "Wireless network design",
+      "VLAN segmentation",
+      "Power over Ethernet",
+      "Fiber optic backbone",
+      "Network troubleshooting"
+    ],
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc",
+    "sameAs": [
+      "https://www.instagram.com/security_cameras_new_york",
+      "https://www.youtube.com/@openeye0007",
+      "https://x.com/Abstract00007"
+    ]
+  }
+]

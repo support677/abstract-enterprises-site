@@ -1,0 +1,7 @@
+CROSS-PAGE UNIQUENESS
+
+shared sentences of 8+ words, nav chrome / footer / forms excluded
+
+  network-installation-nyc               vs network-installation-long-island        0
+  network-installation-nyc               vs network-installation-hudson-valley      0
+  network-installation-long-island       vs network-installation-hudson-valley      0

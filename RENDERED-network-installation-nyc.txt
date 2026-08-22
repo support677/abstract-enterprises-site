@@ -1,0 +1,961 @@
+Network Installation NYC | Office Wi-Fi & Networks
+
+New York City
+
+### Network Installation NYC
+
+Office network design · managed & PoE switching · routers and firewalls · VLAN segmentation · business Wi-Fi · fiber backbone · network repair · licensed & insured
+
+Commercial network installation for offices, retail, warehouses, medical suites, schools and multi-tenant buildings across all five boroughs. We survey the space, design the network, run the plant, build the closet, configure the switching and the wireless, and hand over documentation you can actually use.
+
+Most of the networks we get called to fix were never designed. They were assembled — a consumer router here, an unmanaged switch under a desk there, an access point wherever there happened to be a ceiling tile — and they worked until the twelfth person started, or until the conference room filled up, or until somebody loaded the phone switch past its power budget. A network installation is the decision to do it deliberately once instead of patching it every quarter.
+
+Get a Free Quote →
+Call (800) 486-0943
+
+4.7 / 201 Google Reviews
+NYS Low Voltage #12000287431
+Licensed & Insured
+Small office networks from $4,900
+
+### Get a Network Quote
+
+Tell us the space and roughly how many people work in it — we'll come back with a number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Roughly how many people?
+
+Select
+1–10
+11–25
+26–50
+51–100
+100+
+
+Service Area *
+
+Select a borough
+Manhattan
+Brooklyn
+Queens
+Bronx
+Staten Island
+Other / outside NYC
+
+I agree to be contacted about this request. See our privacy policy .
+
+Request My Quote
+Or call (800) 486-0943
+
+[FIG] Network installation NYC — a 24-port PoE+ switch going in under two dressed Cat6 patch panels, with the gateway above and the firewall and UPS below.
+
+Scope
+
+### What a network installation from us actually includes
+
+Network quotes are hard to compare because two contractors can price the same office and mean entirely different things by the word "network." One means cable in the walls. The other means a system that runs. Here is what it means on our estimates.
+
+A survey before the number. Somebody stands in the space, opens a ceiling tile, finds the demarc, looks at where people actually sit, and asks what the business runs. Device counts, access point counts and pathway come out of that.
+
+A written design. IP addressing, VLAN scheme, switch sizing with PoE headroom, wireless coverage plan, equipment list. Agreed before anything is ordered.
+
+The physical plant. Cable on supported pathway from the closet to every outlet and every access point position, firestopped at rated penetrations, tested on every run.
+
+The closet. Rack or wall cabinet, patch panels, cable management, power, UPS. Dressed and labelled at both ends.
+
+The active equipment. Switches, router or firewall, access points — installed, mounted, powered and configured. Supplied by us or by you; both are normal.
+
+The configuration. VLANs, SSIDs, channel plan, DHCP scopes and reservations, firewall rules, guest isolation, PoE budget verified under load.
+
+Validation. Every drop tested. A wireless walk with a meter after the access points are up, not a look at the console and a shrug.
+
+Documentation and keys. Port map, as-built, addressing scheme, equipment list with serials, and the administrative credentials handed to you.
+
+Quoted separately, always on its own line rather than folded silently into a package price: rack and cabinet hardware, patch panels, switches and firewalls where we supply them, conduit where a building requires it, firestop materials, core drilling, lift work in high-bay spaces, after-hours and weekend crews, and anything requiring another trade. Those are real costs, and burying them inside a headline number is how a low bid turns into an expensive job in week three.
+
+The three omissions. If a network proposal does not say who configures the equipment, does not say what testing is performed, and does not say what documentation you receive at the end, those three silences are usually where the price gap lives. Ask about all three before comparing totals.
+
+[FIG] Two-tech corridor pull toward the IT closet. One pays cable off the box, one runs it out, and the cable never drags on the floor or the grid.
+
+Who we build for
+
+### The same network means different things to different people
+
+A twenty-five person office network is one project, but the person paying for it, the person who has to support it and the person whose lease it lives inside all want different things from the contractor.
+
+Owner
+
+### Business owners without IT staff
+
+You do not want to learn what a VLAN is. You want the internet to work, the guest Wi-Fi to not be a security problem, the card terminal to stay up on a Saturday, and one number to call when it does not. What matters here is that the network is simple enough to run without a full-time administrator, and that somebody answers the phone.
+
+IT
+
+### IT directors and internal admins
+
+You inherit this and support it at seven in the morning. You want a labelled panel, a port map that matches physical reality, a switch you can log into and read, an addressing scheme that is written down, and no undocumented device quietly bridging two segments. We build for the person who has to troubleshoot it, because that is usually not us.
+
+MSP
+
+### Managed service providers
+
+Plenty of MSPs handle the logical layer and would rather not staff ladders, ceilings and firestop. We sub cleanly to the physical and closet scope, work to your standards and naming conventions, and hand back a plant and a rack that fit the way you manage clients. Your relationship, our hands.
+
+GC
+
+### General contractors and fit-out teams
+
+You need a sub who appears in the right sequence, roughs in before drywall, does not hold up the ceiling grid, carries a COI the owner accepts, and returns for trim without being chased. Sequence, schedule and closeout documents matter more to you than which brand of switch is in the rack.
+
+PM
+
+### Property managers and landlords
+
+Your concern is the building: freight windows, insurance on file, penetrations firestopped properly, no disruption to other tenants, and nothing that becomes your problem after the tenant leaves. Common-area wireless, house networks and demarc rooms are their own scope and we treat them that way.
+
+Tenant
+
+### Tenants moving into new space
+
+You have a lease start, a move date and an internet install date that rarely line up. The network has to be live before the desks arrive, which means the ISP order, the demarc extension, the cabling and the equipment all have to be sequenced backwards from the day people show up expecting to work.
+
+Wired layer
+
+### What goes in the closet: switching, routing and the edge
+
+Everything wireless depends on something wired. The closet is where a network is either designed or improvised, and it is visible from across the room which one happened.
+
+### The switch
+
+The switch is the centre of the office network and the piece most often bought too small. Three numbers decide it: port count, uplink speed and power budget. Port count needs headroom, because the count that exactly matches today's devices is the count that forces a second unmanaged switch under somebody's desk in month four — and that switch will be the thing nobody remembers is there when the network misbehaves two years later.
+
+Uplink matters when there is a second closet, a server, a NAS or a fibre riser involved; a stack of gigabit-only switches trunked over a single gigabit link is a bottleneck that only shows itself when several people move large files at once. Power budget is covered in its own section below, because it is the one that fails silently.
+
+Managed versus unmanaged is not really a debate past a handful of users. Unmanaged switches cannot segment, cannot prioritise voice, cannot tell you which port is saturating and cannot be monitored. They are fine as a dumb extension in a corner. They are not a foundation.
+
+### The router or firewall
+
+At the edge sits either a business router or a proper firewall, and the difference is mostly about inspection, VPN, and how much control you want over what leaves the building. For a ten-person office a business gateway with a solid rule set is usually right. For anything handling regulated data, anything with remote workers connecting back, or anything where a compliance questionnaire is going to be asked about, a firewall with real logging earns its price the first time somebody asks what happened on a given afternoon.
+
+Either way, the edge device is where guest traffic gets fenced, where the segments get their rules, and where an ISP change becomes a fifteen-minute reconfiguration rather than a redesign.
+
+### Power, and what happens when it goes
+
+A network on unprotected power reboots every time the building flickers, and buildings flicker. A UPS sized for the rack keeps the switch, the edge device and the access points up through a brief outage and gives everything a clean shutdown on a long one. It is a small line item that prevents the specific failure where the power comes back, the switch and the firewall boot in the wrong order, and nothing routes until somebody drives in.
+
+[FIG] A finished closet: panels above, switching and firewall below, UPS at the bottom, patch cords in managers. Boring on purpose — this is what ages well.
+
+Segmentation
+
+### VLANs: keeping the guest laptop away from the file server
+
+Segmentation is the highest-value hour of configuration on most small business networks, and it is the piece most often skipped because it does not show up in a photograph of the rack.
+
+A flat network is one in which every device can reach every other device. That is how most small offices are built by default, and it means the visitor's laptop in the conference room, the smart thermostat, the point-of-sale terminal and the machine holding your client files are all neighbours on the same street. Nothing has to be malicious for that to cause a problem. A single compromised or misbehaving device on a flat network has the run of the place.
+
+### The segments most offices need
+
+Segment What lives on it Why it is separate
+
+Staff Workstations, laptops, printers, file storage The business network; everything else is fenced away from it
+
+Guest Visitor devices, conference room Wi-Fi Client isolation and a bandwidth ceiling; no route to internal resources
+
+Voice IP phones, conference units Prioritised so calls survive a large file transfer
+
+Payment POS terminals, card readers, kiosks Scope reduction; card traffic should not share a segment with browsing
+
+Restricted devices Anything high-bandwidth and rarely patched Kept behind its own fence, reachable only where you decide
+
+Building / IoT Thermostats, sensors, displays, smart devices The least trustworthy devices in the building, by a wide margin
+
+Not every office needs all six. A twelve-person design studio with no card processing needs staff, guest and probably voice. A restaurant needs payment separated from guest Wi-Fi and would be poorly served by anything less. The point of the design conversation is deciding which fences are worth building rather than defaulting to none of them.
+
+Guest Wi-Fi is not a courtesy, it is a control. An open network that any device can join, sitting on the same segment as your file storage, is a much larger exposure than most owners realise. Isolating it takes minutes at build time and is awkward to retrofit once devices are on it.
+
+[FIG] Two ports per desk position is the working default — one for the workstation, one for a phone or whatever gets added next year.
+
+Wireless
+
+### Wi-Fi installation: how many access points a New York office actually needs
+
+The honest answer is that square footage gives you a budget number and the building gives you the real one. Both matter, and they are frequently far apart.
+
+Wireless network installation starts with a count, not a product. Before anyone picks a manufacturer, the question is how many access points the space needs and where they go — because a well-placed mid-range access point beats a premium one mounted in the wrong ceiling tile every time.
+
+The rule of thumb most people find first is one access point per 1,500 to 2,500 square feet. That is a reasonable starting point for a conventional office with partition walls and a normal density of laptops and phones. It falls apart in two directions, and knowing which direction your space falls in is most of the design.
+
+### Where the rule overshoots
+
+An open loft with glass partitions, twelve people and no interior walls may be perfectly served by two access points at 4,000 square feet. Radio travels well through open space and glass. Adding a third in that room does not improve coverage; it adds a co-channel neighbour and can make things marginally worse. Dead zones in open space are rare — density, not coverage, is what usually goes wrong there.
+
+### Where the rule undershoots
+
+Chop the same 4,000 square feet into private offices behind plaster over wire lath — the standard prewar Manhattan and Brooklyn office conversion — and the signal is being attenuated by a metal mesh in every wall. That building can need four or five. Add a corner conference room where thirty people join video calls simultaneously and you have a density problem rather than a coverage problem: the signal is fine, the airtime is not, and the answer is a dedicated access point for that room regardless of what the square-foot arithmetic says.
+
+### The count is also a device count
+
+Twenty people is not twenty devices. It is twenty laptops, twenty phones, a handful of tablets, wireless printers, a couple of conference displays, whatever the warehouse scanners are, and the guest devices of everyone visiting. A modern access point handles that fine — until half of it lands on one radio because that is where the coverage overlaps, which is a placement problem, not a hardware problem.
+
+Space Typical AP count What drives it
+
+Open loft, glass partitions, 4,000 sq ft 2 Clear line of sight; overlap is the risk, not coverage
+
+Prewar office conversion, private offices, 4,000 sq ft 4–5 Plaster over wire lath attenuates hard
+
+Conference or training room, 30 people 1 dedicated Density and airtime, not coverage
+
+Retail floor plus stockroom 2–3 Shelving and stock absorb signal; POS needs reliability
+
+Warehouse, high bay 1 per 5,000–10,000 sq ft Height, racking, scanner roaming paths
+
+Multi-floor tenant Per floor, never through slabs Concrete and rebar stop signal; each floor is its own problem
+
+The one thing worth saying plainly: nobody can give you a defensible access point count over the phone. A floor plan gets you within one. A survey gets it right.
+
+[FIG] Access point going up on the tile grid, positioned for where people actually sit rather than where mounting happened to be easy.
+
+Survey
+
+### Site surveys and heat maps — what they are and when they are worth paying for
+
+A wireless site survey is a measurement, not a sales tool. Whether it earns its cost depends entirely on how much the building is likely to surprise you.
+
+A predictive survey models coverage from a floor plan and stated wall construction. It is quick, it costs little, and it is accurate enough for a straightforward space where the walls are drywall and the ceiling is open. An on-site survey puts a meter in the space and measures what is actually there: existing signal, neighbouring networks, channel congestion, and how far the signal really travels through the walls this particular building is made of. It produces a heat map that shows coverage as measured rather than as predicted.
+
+### When the survey pays for itself
+
+Prewar buildings. Plaster over wire lath behaves like a partial Faraday cage and no model predicts it well.
+
+Dense office stacks. When four other tenants on your floor are broadcasting, the spectrum is the constraint and you have to measure it to plan around it.
+
+Warehouses and high-bay space. Racking changes as stock changes. Mounting height, antenna pattern and roaming paths all need measuring.
+
+Anywhere the last install failed. If a WiFi installation has already been done once and did not work, a survey tells you whether the problem is placement, count, spectrum or the building itself — which decides whether the existing hardware can be reused.
+
+### When it does not
+
+A straightforward drywall office under 3,000 square feet with a modest device count rarely needs a paid on-site survey to arrive at the right access point count. We will say so. The survey fee on a job like that is better spent on a fourth access point.
+
+Where we do run one, the survey fee is credited against the project if you proceed, and the validation walk after installation is included either way — because a design that predicts coverage and an installation that delivers it are two different claims, and only one of them is verifiable.
+
+[FIG] Cable belongs on a supported pathway, not on the ceiling grid. J-hooks at regular intervals, out of the fixtures, clear of parallel power.
+
+Local conditions
+
+### What makes wireless in New York buildings different
+
+Most wireless advice is written for a suburban office park. New York building stock breaks several of its assumptions at once.
+
+### Plaster over wire lath
+
+Prewar residential and office conversions across Manhattan, Brooklyn and the Bronx were built with plaster applied over a metal mesh. That mesh is very effective at absorbing and reflecting radio, and it is invisible from inside the room. It is the single most common reason a wireless design that looked fine on paper delivers three bars in one office and nothing in the next. The fix is not a stronger radio; it is more access points, placed with the walls in mind.
+
+### Steel frame and concrete slabs
+
+Signal does not usefully cross a concrete-and-rebar floor slab. Anyone selling you one access point to cover two floors is selling you a support call. Multi-floor tenants get coverage designed per floor, with cable back to a closet on that floor or a riser to the one below.
+
+### Spectrum congestion
+
+Stand in a Midtown office and scan: it is normal to see thirty or forty networks from other tenants, the building's own systems, and whatever is broadcasting on the floors above and below. The 2.4GHz band in particular is effectively full in most commercial buildings in Manhattan. Modern design leans on 5GHz and 6GHz for that reason, keeps 2.4GHz for the devices that genuinely need it, and plans channels rather than leaving every access point on automatic to fight the neighbours.
+
+### Elevators, shafts and mechanical rooms
+
+Elevator banks, stair cores and mechanical shafts are dead zones by construction, and they are frequently in the geometric centre of the floor, which is exactly where somebody would otherwise place an access point. Coverage in New York offices tends to be designed around the core rather than from it.
+
+### Occupied-floor sequencing
+
+Very little of this work happens between nine and five. Freight elevator windows, building rules about ceiling work over occupied space, and the simple fact that people are trying to work underneath the ladder all push installation into evenings and weekends. That is normal here and we schedule for it rather than treating it as an exception.
+
+[FIG] Feeding a bundle up through an open tile on a retrofit. Occupied-floor work like this is why most New York network builds happen after six.
+
+Power budget
+
+### PoE budget: the number nobody calculates until it fails
+
+Power over Ethernet is why one cable can carry both data and power to an access point, a phone or a powered ceiling device. It is also the most common silent failure we are called to diagnose.
+
+Every PoE switch has a total power budget — a wattage it can deliver across all ports combined, which is almost always far less than the sum of what every port could theoretically draw. A 24-port switch advertising PoE+ on every port might carry a 370-watt budget. Fill it with devices that each want thirty watts and the arithmetic runs out around port twelve.
+
+### What draws what
+
+Standard Per-port budget Typical devices
+
+PoE (802.3af) 15.4W IP phones, basic sensors, older access points
+
+PoE+ (802.3at) 30W Modern access points, video phones, powered displays
+
+PoE++ (802.3bt) 60–90W Wi-Fi 6E and 7 access points, large displays, PoE lighting
+
+### How it actually fails
+
+Not all at once. The switch keeps its promise to the ports that already have power and refuses the newest ones, so the symptom is that the two devices installed last month work and the three added last week do not — or that everything works until a cold morning when several powered devices all draw at once and something at the far end of the rack drops off. It looks like a device fault, or a cable fault, or an installer fault. It is arithmetic.
+
+This is the specific reason we ask what else is going on the network before sizing a switch. If more powered devices are planned for next year, the budget for them is decided today, and the difference between a switch with headroom and one without is small at purchase and expensive at replacement.
+
+The most common takeover we do. Somebody added a batch of powered devices to the existing phone switch because it had free ports. Free ports are not free watts. Sizing the power budget correctly is the cheapest hour on the whole project.
+
+Plant
+
+### The cable underneath it, and why it is part of this job
+
+Every network installation includes a plant decision: use what is there, extend it, or replace it. Getting that decision wrong is expensive in both directions.
+
+Wireless still needs a wire. Every access point is backhauled on cable, every powered ceiling and wall device is a run, every desk is one or two, and the whole thing lands on a patch panel in a closet. So the physical plant is inside the scope of a network build whether or not anyone new is being pulled.
+
+### Keeping what is already there
+
+Existing cable is frequently fine. If the runs are Cat5e or better, terminated on category-matched components, within distance, and they test clean, there is no reason to replace them to run a modern gigabit office network. We test before recommending a rewire, because "the cable is old" is a claim that costs tens of thousands of dollars and is often wrong.
+
+### When it genuinely has to go
+
+Runs that fail certification — split pairs, damaged jackets, runs stretched well past a hundred metres.
+
+Cable of unknown category with no jacket print, especially where it is carrying PoE.
+
+Non-plenum cable in a return-plenum ceiling, which is a fire code problem regardless of whether it performs.
+
+Anything terminated on mismatched components — a Cat6 run landed on Cat5e jacks is a Cat5e run wearing better cable.
+
+Wireless-era additions that need PoE++ over runs that were never specified for it.
+
+### What we pull on a network build
+
+Ethernet installation on a network build follows the same rules regardless of how many drops there are: new runs go in on supported pathway, plenum-rated where the ceiling requires it, firestopped at rated penetrations, terminated on category-matched components at both ends, labelled and tested. Two ports per desk position remains the sensible default, one per access point position with a spare where the budget allows, and one per additional powered device. Detailed per-drop specifications, cable category comparisons and per-drop pricing live on the cabling pages, which is the right place for them.
+
+Related: structured cabling installation in NYC covers the full cable plant service — backbone, closets, fibre and certification across a whole building. Cat6 installation in NYC covers the cable category, drop counts and per-drop pricing in detail.
+
+[FIG] Boxes staged in a line for a multi-drop pull during a fit-out. Cable rating is picked per pathway — CMR in the walls, CMP where the ceiling is a return plenum.
+
+Closet
+
+### The telecom closet: network rack, panels, power and heat
+
+You can predict how a network will age by looking at its closet on day one.
+
+A good closet is boring. Patch panels above, switches below, short patch cords in the correct colours running through horizontal managers, everything labelled, nothing hanging, room to add. A bad closet is a wall-mounted cabinet with three switches stacked on top of each other, a nest of patch cords in the middle, a power strip on the floor and no labels — and it will cost somebody an hour every single time anything needs tracing for the next ten years.
+
+### What goes in it
+
+Network rack or wall cabinet. A wall-mount cabinet suits small offices; a floor-standing network rack once there are two or more switches, a UPS and anything server-side.
+
+Patch panels sized with spare ports, because the panel is the hardest thing to add to later.
+
+Horizontal and vertical cable management, which is what keeps a rack navigable rather than merely full.
+
+Power. A dedicated circuit where possible, a rack PDU, and a UPS sized for the load.
+
+Grounding and bonding to the building ground where the installation calls for it.
+
+Labels on every port, every panel and every cable at both ends.
+
+### Heat is the thing people forget
+
+A closed cabinet in an interior room with no ventilation, holding a PoE switch delivering three hundred watts, becomes an oven in July. Heat shortens equipment life and causes exactly the sort of intermittent, temperature-correlated failures that are miserable to diagnose. Sometimes the answer is a vented door and a fan kit. Sometimes it is not putting the cabinet in a converted supply closet with no airflow in the first place, which is a conversation worth having at design time rather than after.
+
+### Rack cleanup as its own job
+
+A large share of our network work is not a new build at all — it is a closet that three vendors have added to over eight years with no labelling, no documentation and no pattern. We re-route, re-terminate where necessary, dress, label, and produce a port map. It is unglamorous and it is often the single highest-value day anyone spends on that network.
+
+[FIG] The same closet before and after. Nothing was added to the building; everything was re-routed, re-terminated where needed, dressed and labelled.
+
+Backbone
+
+### Fibre backbone, risers and the ISP handoff
+
+Two closets, two floors, or two buildings — the moment the network stops fitting in one room, the backbone becomes the design.
+
+### When you need a second closet
+
+Copper horizontal runs are limited to a hundred metres, and that is a hundred metres of cable as installed — up into the ceiling, along the pathway, around the core and back down — not the distance you would measure walking the floor. On long floors and in deep buildings the correct answer is a second closet linked back to the main one, rather than a stretched run and optimism.
+
+### Fibre between closets
+
+The link between closets is where fibre belongs. Multimode OM4 handles floor-to-floor and same-building runs comfortably and is the usual choice inside a tenancy. Single-mode is for distance — building to building, campus, or anywhere a longer future is likely. Either way the riser is terminated, tested and documented as its own piece of infrastructure, because it is the single point everything on the far floor depends on.
+
+### The demarc, and who owns what
+
+Your internet provider terminates somewhere in the building — usually a basement or ground-floor room known as the demarc or MPOE. Their responsibility stops there. Getting the circuit from that room to your closet, several floors up, through the building's riser, is an extension: cable, pathway, sometimes conduit, sometimes a building electrician, and almost always a conversation with the managing agent about access and firestopping.
+
+This surprises a lot of new tenants, because nothing in the ISP order form mentions it. It is worth identifying early: on a move-in schedule the demarc extension is frequently the long pole, and discovering it two weeks before the desks arrive is how a move date slips.
+
+Sequencing tip for a move. Order the circuit as early as the lease allows, then work backwards: ISP install date, demarc extension, closet build, cabling, equipment configuration, and a live-network date at least several days before anyone tries to work there. The circuit is the item with the longest and least controllable lead time.
+
+[FIG] Riser bundle dressed into IDF-2. On long floors the right answer is a second closet, not a stretched run and optimism.
+
+Handover
+
+### Documentation, or: who has to figure this out later
+
+The test of an installation is not whether it works on the last day. It is how long it takes a stranger to understand it two years afterwards.
+
+Every network we finish is handed over with a package, and the package is the same whether the client has an IT department or has never logged into a switch. What varies is who we walk through it, not what exists.
+
+Port map. Which panel port lands at which outlet, in which room. This is the document that turns a two-hour trace into a two-minute look.
+
+Labels at both ends of every run, matching the port map, in a scheme that will still make sense after a floor is reconfigured.
+
+Test results for every drop, not a sample.
+
+As-built drawing showing access point locations, closet position, riser path and device positions.
+
+Addressing and VLAN scheme written down: subnets, DHCP scopes, reservations, SSIDs and which segment each lands on.
+
+Equipment list with models, serial numbers and firmware at handover, which matters for warranty and for support calls.
+
+Credentials. Administrative access to everything we configured, handed to you.
+
+That last point is worth being direct about. Some contractors keep the administrative credentials to their own installations as a retention strategy, so that changing vendors means rebuilding the configuration. We do not, and we would encourage anyone comparing quotes to ask the question outright before signing. It is your network. You get the keys.
+
+[FIG] Labels printed at the panel and written into the port map at the same time. This is the document that turns a two-hour trace into a two-minute look.
+
+Repair & takeover
+
+### The network you inherited
+
+A large share of our network work starts with somebody else's installation and no documentation at all.
+
+The common versions are recognisable. An office that grew from six people to twenty-eight on hardware bought for six. A rack that three vendors have added to, none of whom labelled anything. Wireless that was adequate before the open-plan renovation and has been marginal since. A previous contractor who is out of business, unreachable, or holding the passwords. A network that works acceptably at eight in the morning and collapses at half past nine when everybody is on a call.
+
+### How a takeover runs
+
+### Survey and assess before touching anything
+
+We map what is physically there, test the plant, read the existing configuration where we can get into it, and produce a written assessment: what is good, what is failing, what is a hazard, and what is simply undocumented. Nothing changes until you have read it.
+
+### Separate the plant question from the equipment question
+
+These are frequently confused, and they have very different price tags. Often the cable in the walls is perfectly serviceable and only the equipment and the configuration on top of it need replacing. Sometimes it is the reverse. Testing tells us which, and it is worth knowing before anyone quotes a rewire.
+
+### Stabilise, then improve
+
+If something is actively broken, that gets fixed first and separately. Redesign happens afterwards, on a schedule, rather than as an emergency — because rebuilding a network during an outage is how a one-day problem becomes a three-day one.
+
+### Document what exists
+
+Even where the recommendation is to leave most of it alone, the closet gets labelled and a port map gets produced. That work stands on its own and belongs to you regardless of who does the next project.
+
+[FIG] Tracing an inherited run nobody labelled. Most takeovers start here, and it is the argument for documentation better than any sales page.
+
+Diagnosis
+
+### Signs the network is the problem — and signs it is not
+
+Half of the calls we take about a "slow network" are about something else. Knowing the difference saves a service visit.
+
+### Probably the network
+
+It is location-dependent. One room is bad, another is fine. That is coverage, placement or a specific run — not the internet connection.
+
+It is time-dependent in a way that tracks occupancy. Fine at eight, unusable at ten, fine again at six. That is capacity, airtime or a saturated uplink.
+
+Wired is fine and wireless is not, or the reverse. That isolates the problem to one layer immediately.
+
+The network keeps disconnecting rather than failing to connect at all — devices associate, drop, and re-associate a minute later. Intermittent drops like that are usually roaming, channel overlap or a marginal run, and they are diagnosable; a network that keeps going down at the same time every day is almost always capacity.
+
+It got worse right after something was added. New powered devices, a new tenant on the floor, a new switch under a desk.
+
+Only PoE devices are affected. Almost always the power budget.
+
+### Probably not the network
+
+Everything is slow everywhere, wired and wireless, at all hours. That points at the circuit or the provider, and is worth confirming with a wired speed test at the edge before anyone opens a ceiling.
+
+One application is slow and everything else is fine. That is the application or its host, not the local network.
+
+One laptop is slow and no other device is. That is the laptop.
+
+It started the day the ISP did maintenance and nothing on your side changed.
+
+We would rather tell you it is your provider on the phone than bill a visit to discover it on site. When it is genuinely ambiguous, a short diagnostic visit that isolates the layer is cheaper than a redesign aimed at the wrong problem.
+
+Pricing
+
+### What network installation costs in NYC
+
+Published line-item pricing, so the arithmetic can be done before anyone visits. Network equipment is quoted separately or supplied by you — both are normal.
+
+### Design and survey
+
+Item Price
+
+On-site assessment, device and drop count Free
+
+Wireless site survey and heat map $450 (credited to the project)
+
+Network design — addressing, VLAN scheme, as-built drawings $350–$650
+
+### Installation and configuration
+
+Item Price
+
+Router / gateway install and configuration $350
+
+Business firewall install with rule set $450–$900
+
+Managed switch install and configuration — 24-port $250
+
+Managed switch install and configuration — 48-port $400
+
+Each additional switch in a stack $175
+
+VLAN / segmentation configuration, per segment $125
+
+Guest network with client isolation and captive portal $200
+
+Wi-Fi access point — mounted and tuned on an existing drop $225
+
+Wi-Fi access point — including a new cable run $300
+
+High-bay or warehouse access point (lift work) $375
+
+Rack or cabinet build — panels, management, PDU, dressing $650
+
+Existing rack cleanup, re-route and re-label from $500
+
+Demarc extension from the building MPOE from $350
+
+Documentation package — port map, as-built, credential handover $350
+
+Certification testing, per drop $20
+
+### Whole-network packages
+
+Package Scope From
+
+Small office Up to 10 users, 12 drops, firewall, 24-port PoE switch, 2 access points, wall cabinet, VLANs, documentation $4,900
+
+Full floor 25–50 users, two switches, 4–6 access points, firewall, floor rack, full segmentation, certification, documentation $12,500
+
+Multi-floor tenant Fibre riser, closet per floor, stacked switching, 8+ access points Custom proposal
+
+Package prices cover labour, installation and configuration. Network equipment is either supplied by us at cost plus installation or supplied by you — client-supplied equipment is welcome and we will say honestly whether what you have bought is suitable before installing it. Data drops are priced per drop as their own line; see the cabling pages for per-drop rates.
+
+### What moves the number
+
+Rough-in versus retrofit. Cable installed before drywall closes costs a fraction of the same cable fished through a finished wall. The two-week window before the drywall crew arrives is the cheapest labour on the entire project.
+
+Building access. Freight elevator windows, COI requirements, escorted access and after-hours-only rules all add crew time before a single cable moves.
+
+Plenum pathway. Most New York commercial drop ceilings are HVAC return plenums, which requires plenum-rated cable by fire code.
+
+Ceiling height and lift work. A warehouse at twenty-four feet is a different job from an office at nine.
+
+Occupied space. Working around people, protecting finishes and restoring the space nightly all take real time.
+
+### Repair and service
+
+Diagnostic and repair work on existing networks is billed at $195 per hour with a three-hour minimum. Same-day dispatch is available for outages. Where a diagnostic visit leads directly into a quoted project, the diagnostic time is credited against it.
+
+Why we publish line items rather than one number. The same twenty-five people can be a two-day job or a two-week job depending entirely on the building. A single headline price either has to be padded to cover the worst case or gets revised upward once somebody actually opens a ceiling. Line items let you see exactly what changed and why.
+
+[FIG] Fishing a drop through a finished wall. The same cable installed before drywall costs a fraction of this — the rough-in window is the cheapest labour on the job.
+
+Equipment
+
+### What we deploy, and what a small business actually needs
+
+We are not tied to a single manufacturer. What matters is that the equipment matches the building, the budget and whoever has to support it afterwards.
+
+### Ubiquiti UniFi
+
+The default for small and mid-size offices in this city, and for good reason: capable hardware, no per-device licensing, a controller most IT people can navigate, and access points that perform well in dense environments. The trade-off is that support is community-driven rather than contractual, which matters more to a fifty-person firm than to a ten-person one.
+
+### Cisco Meraki
+
+Cloud-managed, genuinely good tooling, strong support — and licensed per device per year, forever. When the licence lapses the hardware stops. For organisations that want a support contract and a budget line they can defend, it is the right answer. For a small business trying to minimise recurring cost, the licensing is the whole conversation.
+
+### Aruba Instant On and TP-Link Omada
+
+The value tier, and better than that description suggests. Solid access points and switches, no recurring licence, adequate management. A sensible choice for a straightforward office where the network is not the business, and a considerable step up from consumer hardware.
+
+### Firewalls — Fortinet and pfSense
+
+Where the edge needs more than a gateway: real inspection, VPN for remote staff, logging you can produce when somebody asks. Fortinet for a supported commercial appliance, pfSense or Netgate where the preference is open platform and no subscription. Both are appropriate; the choice usually comes down to who maintains it.
+
+### Bring your own equipment
+
+If you have already bought hardware, or your MSP standardises on something specific, we install and configure it. The only thing we insist on is telling you plainly if what has been purchased will not do the job — an access point count that will not cover the floor, a switch without the power budget for the planned devices, a consumer router being asked to carry thirty people. That conversation is better before installation than after.
+
+### What a small business does not need
+
+A consumer router from an electronics shop carrying twenty people, which is the single most common thing we replace. A daisy chain of unmanaged five-port switches under desks. An enterprise licensing model for an eight-person office. A wireless extender being asked to do the work of an access point. And a "faster" internet package bought in the hope of fixing a problem that lives entirely inside the building.
+
+Comparison
+
+### Network installation, structured cabling and Cat6 — what is different
+
+Three terms that overlap, get used interchangeably in quotes, and mean genuinely different scopes of work.
+
+Term What it covers What it does not
+
+Cat6 installation A cable category. Runs, jacks, panels, terminations and testing in Cat6 or Cat6A specifically. The equipment, the configuration, the wireless design
+
+Structured cabling The whole cable plant: horizontal runs, backbone, closets, fibre, pathway and certification across a building. Switching, routing, firewalls, VLANs, wireless tuning
+
+Network installation The working network: design, addressing, switching, edge, segmentation, wireless coverage, documentation — including the plant it runs on. Server administration, desktop support, software
+
+The practical consequence is worth understanding before comparing bids. A cabling contractor will hand over a tested, labelled patch panel with nothing plugged into it, and that is a complete job by their scope. An IT provider will configure equipment beautifully and subcontract everything involving a ladder. Neither is wrong. The gap between them is where projects stall, because when something does not work each side can point at the other.
+
+We do both layers, which mostly matters on the day something is wrong. There is one contractor, one scope and nobody to point at.
+
+[FIG] Cable into EMT where the building requires conduit. Pathway rules are a building decision, and they show up on the estimate as their own line.
+
+By property type
+
+### What a network build looks like in different buildings
+
+The user count tells you almost nothing on its own. The building and the business tell you the rest.
+
+Office
+
+### Professional offices and law firms
+
+Two ports per desk, a conference room that is a density problem rather than a coverage problem, printers that want wired connections, and a genuine interest in segmentation because of what is on the file server. Private-office layouts behind old plaster drive the access point count up more than the square footage suggests.
+
+Medical
+
+### Medical and dental practices
+
+Clinical systems, imaging equipment that moves large files, patient Wi-Fi that must be fenced from everything, and a low tolerance for downtime during hours. Segmentation stops being a nice idea and becomes the design. Work is scheduled around patient hours, which usually means evenings.
+
+Retail
+
+### Retail and restaurants
+
+Point of sale on wired connections wherever possible, card traffic on its own segment, guest Wi-Fi with a ceiling so it cannot swallow the connection, and stockroom coverage that survives full shelving. The constraint is trading hours: most of this work happens overnight.
+
+Warehouse
+
+### Warehouses and light industrial
+
+High-bay mounting, antenna patterns chosen for aisles rather than open floor, scanner roaming that has to hand off cleanly as a forklift moves, and coverage that has to survive the racking being restocked. Lift work and a genuine survey are both non-negotiable here.
+
+School
+
+### Schools, training centres and houses of worship
+
+Classroom density is the whole problem: thirty devices in one room, all active at the same moment. Per-room access points, wired projection and displays, separate guest access for visitors, and a summer or weekend schedule because the space is in use the rest of the time.
+
+Multi-tenant
+
+### Multi-tenant and mixed-use buildings
+
+House networks for building systems, common-area wireless, restricted device segments, and a demarc room that several tenants share. The design question is usually where the boundaries sit between building infrastructure and tenant infrastructure, and getting that written down early prevents an argument later.
+
+Process
+
+### From walkthrough to closeout
+
+Five stages, in this order, on every project regardless of size.
+
+### Walk the space
+
+We look at the floor plan and then at the actual building: where people sit, where the closet is, what the walls and ceiling are made of, where the provider hands off, and what the building will and will not allow. Device counts, access point counts and pathway come out of the walk rather than an assumption. For anything past a small office this is also when we decide whether a paid wireless survey is warranted, and we will tell you when it is not.
+
+### Design and quote
+
+Addressing scheme, VLAN plan, switch sizing with power headroom, access point count and placement, equipment list, and a line-item price. Written down and agreed before anything is ordered, so that the scope and the number mean the same thing to both sides. If the budget does not reach the design, this is where we say which parts to stage and which parts must not be compromised.
+
+### Plant and pathway
+
+Cable on supported pathway from the closet to every outlet and access point position, plenum-rated where the ceiling requires it, separated from parallel power, firestopped at rated penetrations, terminated on category-matched components at both ends. On a fit-out this happens before drywall; on a retrofit it happens after hours.
+
+### Closet and equipment
+
+Rack or cabinet, patch panels, management, power and UPS. Switches, edge device and access points mounted, powered and configured — VLANs, SSIDs, channel plan, DHCP, firewall rules, power budget verified under actual load rather than on paper.
+
+### Test, validate and hand over
+
+Every drop tested. A wireless validation walk with a meter after the access points are live. Then the documentation package: port map, as-built, addressing scheme, equipment list and administrative credentials. We walk whoever will support it through the closet before we leave.
+
+[FIG] Certification at the outlet end, drop by drop. Wire map, length, insertion loss, NEXT and return loss — a PASS you can hand over, not a link light.
+
+Commitments
+
+### What you can hold us to
+
+Specific, checkable commitments rather than adjectives.
+
+Somebody walks the space before you get a number. No network priced off a phone call and a square footage.
+
+A written scope before work starts, with the equipment listed and the exclusions stated rather than implied.
+
+Every drop tested, not a representative sample, with the results included in the handover package.
+
+A wireless validation walk after installation, measured in the space, not inferred from a controller dashboard.
+
+Labels at both ends and a port map that matches what is physically in the building.
+
+Administrative credentials handed over at closeout. Always.
+
+After-hours work at no premium on the labour itself, arranged in advance with the building.
+
+A licensed network installer on every job. NYS Low Voltage licence #12000287431, insured, with certificates issued to the building or managing agent on request.
+
+Three-year warranty on products supplied by us, covering the equipment we furnish and the workmanship on our installation. Client-supplied equipment carries its own manufacturer warranty and sits outside those terms.
+
+[FIG] Core drilling through block to reach the telecom room. Penetrations get firestopped to the rated assembly and documented for the closeout package.
+
+FAQ
+
+### Network installation questions we get in NYC
+
+How much does network installation cost in NYC? A small-office network build — around ten users, a firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs and documentation — starts near $4,900 in labour and configuration, with network equipment quoted separately or supplied by you. A full-floor build for twenty-five to fifty users typically starts near $12,500. Individual pieces are priced on their own: a firewall install with a rule set runs $450 to $900, a managed switch install and configuration is $250 for a 24-port and $400 for a 48-port, an access point is $225 installed on an existing drop and $300 where a new drop has to be pulled, and a rack build with power and cable dressing is $650. Data drops are priced per drop as their own line. The reason we quote in pieces rather than one number is that the same user count can mean a one-day job or a two-week job depending on the building, and only a walkthrough tells us which.
+
+What is included in a commercial network installation? A survey of the space, a written design covering IP addressing and VLANs, the physical pathway and cabling, the network rack or wall cabinet with patch panels and power, the switching, the router or firewall, the WiFi installation — wireless design, access point placement and tuning — the configuration of all of it, testing on every drop, and a documentation package at handover. The documentation is the part clients most often discover was missing from a cheaper quote: a port map that says which panel port lands at which outlet, an as-built showing where the access points went, the VLAN and IP scheme written down, and the credentials handed over rather than kept. A network that works on the day of handover but that nobody can trace six months later has not really been finished.
+
+What is the difference between network installation and structured cabling? Structured cabling is the physical plant: the cable, the pathway, the terminations, the patch panels, the testing. Network installation is the working network that runs on top of it: the switches, the router and firewall, the VLANs, the wireless coverage, the addressing, and the documentation. Plenty of contractors do the first and hand you a live patch panel with nothing plugged into it. We do both, which mostly matters when something is wrong, because there is nobody to point at. If you already have good cable in the walls and only need the network built on it, that is a normal scope and we price it that way.
+
+How many Wi-Fi access points does my office need? A Wi-Fi installation is sized by count and placement before anything else. For a typical New York office with partition walls and a mix of laptops, phones and conference gear, plan on roughly one access point per 1,500 to 2,500 square feet, then adjust for what the building is made of and how many people are actually in a room at once. A 4,000 square foot open loft with glass partitions may be fine on two. The same square footage chopped into private offices behind plaster and wire lath can need four. Conference rooms, classrooms and any space where thirty people join calls at the same time are density problems rather than coverage problems, and they usually need their own access point regardless of what the square-foot arithmetic says. A survey settles it properly; a floor plan and a rule of thumb only gets you a budget number.
+
+Why is my office Wi-Fi slow in some rooms and fine in others? Nearly always one of four things, and the same four explain a network that keeps disconnecting rather than merely running slowly. The access points were mounted where mounting was easy — above a closet, at the end of a corridor — rather than where people sit. There are too few of them for the device count, so everyone is sharing airtime. The building is fighting you: plaster over wire lath, steel studs, elevator shafts and glass all attenuate signal, and a room that is fine at 8am fills with bodies and degrades by ten. Or your channels are colliding with the four other tenants on the floor, which is a real condition in most New York office stacks and is fixed by planning channels rather than by buying a stronger radio. A survey tells us which of the four you have, and they call for different fixes.
+
+Should guest Wi-Fi be separated from staff Wi-Fi? Yes, and it is one of the cheapest pieces of the build. A guest network on its own VLAN with client isolation and its own bandwidth ceiling means a visitor's laptop cannot see your file server, cannot see your printers, and cannot consume the whole connection. The same principle applies to point-of-sale terminals, IP phones and building devices — each on its own segment, each unable to reach the others except where you decide it should. Segmentation is the single highest-value hour of configuration on most small business networks.
+
+What network equipment does a small business actually need? At minimum: a business-class router or firewall at the edge, a managed PoE switch sized with headroom, enough access points to cover the floor, and somewhere to put it all that is ventilated and lockable. What a small business does not need is a consumer router from an electronics store carrying twenty people, which is the single most common thing we replace. Beyond the minimum, the useful additions are a UPS so the network survives a flicker, a second switch when you outgrow the first rather than a daisy chain of unmanaged ones, and enough PoE budget that adding more powered devices later does not mean replacing the switch.
+
+How long does office network installation take? A small office of up to ten users is one to two days on site. A twenty-five to fifty user floor is three to five days. A multi-floor tenancy with a fibre riser and a closet per floor runs two to three weeks. Those figures assume normal access. Occupied-space work stretches all of them, because a four-hour evening window is not the same as a four-hour day, and a building that releases the freight elevator only between six and ten adds a day to almost any schedule. The parts that most often move a date are outside our control: the internet circuit install, the demarc extension if the building has to be involved, and drywall sequencing on a fit-out. We schedule backwards from the day people need to work in the space and tell you which item is the long pole.
+
+Can you upgrade our network without shutting the office down? Usually yes. The method is to build alongside rather than in place. New cable, the new rack, the new switching and the new access points go in while the existing network stays live, and the cutover is a single short window out of hours — often under two hours for a floor. Access points can be swapped one at a time so coverage never fully drops. Switch cutover is the moment that genuinely interrupts, and that is the piece we schedule for an evening or a weekend morning. The exception is a full rewire in a space with no spare pathway, where the old cable physically occupies the route the new cable needs. Even then we normally stage it floor by floor or zone by zone rather than taking the whole business down at once.
+
+What is a wireless site survey or heat map, and when is it worth paying for? A survey measures how radio actually behaves in your specific building rather than predicting it from a floor plan. A predictive survey models coverage from drawings and stated wall construction — quick, cheap, and accurate enough for straightforward drywall space. An on-site survey puts a meter in the room and records real signal strength, neighbouring networks and channel congestion, producing a heat map of measured coverage. It is worth paying for in prewar buildings where plaster over wire lath attenuates unpredictably, in dense office stacks where several tenants are competing for the same channels, in warehouses where mounting height and racking decide everything, and anywhere a previous wireless installation already failed. It is not worth paying for in a straightforward drywall office under about 3,000 square feet, and we will say so — that money buys another access point instead. Our survey fee is $450 and is credited against the project if you proceed.
+
+Do I need a managed switch, or will an unmanaged one work? An unmanaged switch is fine when the network is flat, small, and you never need to know what is happening on it. The moment you want guest traffic separated from staff traffic, or phones on their own VLAN with priority, or untrusted devices kept off the business network, or the ability to see which port is saturating, or PoE you can budget and monitor, you need a managed switch. For most offices past about eight people the managed switch pays for itself the first time something goes wrong, because it is the difference between diagnosing a problem in ten minutes and guessing at it for an afternoon.
+
+Do you work after hours in occupied offices? Yes, and on most fit-outs it is the only workable schedule. Occupied floors, buildings that restrict freight elevator access to specific windows, retail that cannot close, and cutovers that have to happen between the last person leaving and the first person arriving all end up as evening or weekend work. We do not charge a premium for the work itself; we do need to know at quoting time so the crew is staffed and the building access is arranged with the managing agent in advance.
+
+Should I use Cat6 or Cat6A for the runs feeding access points? Cat6A for access point drops, in almost every commercial case. The reason is power and headroom rather than raw speed. Current Wi-Fi 6E and Wi-Fi 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors and shielding handle that power with less heat rise across a bundle than Cat6 does. Cat6A also carries 10 gigabit to the full hundred metres, which matters because access point backhaul is the one drop most likely to be outgrown — the access point gets replaced every five to seven years while the cable above the ceiling stays for fifteen. Cat6 is genuinely fine for desk drops, printers and general connectivity, and we frequently run a mixed plant for that reason: Cat6 to the workstations, Cat6A to every ceiling position. The premium applies only to the drops that need it.
+
+What documentation do we get at closeout? A port map matching every patch panel port to its outlet, labels at both ends of every run, test results for every drop, an as-built showing access point locations, the IP addressing and VLAN scheme written down, the equipment list with model and serial numbers, and the administrative credentials for everything we configured. The credentials point is worth being blunt about: some contractors keep them as a retention tactic. It is your network. You get the keys.
+
+Who installs business networks in NYC? Business network installation in New York is done by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. If you are searching for a network installer near you, the distinction between those three is the thing worth checking before anyone quotes. We are the first kind and do both layers ourselves — a licensed network installer that also configures what it installs: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, based at 1282 Troy Ave in Brooklyn and working across all five boroughs. What that covers is the survey, the network design and addressing, the cabling and pathway, the rack and closet build, the switching, the router or firewall, VLAN segmentation, wireless access point design and tuning, certification testing, documentation and credential handover, plus repair and takeover of networks somebody else built. Certificates of insurance are issued to buildings and managing agents on request, which most commercial buildings in the city require before a crew is allowed upstairs.
+
+Quick answers
+
+### Shorter answers to common network questions
+
+### Do I need a permit for network installation in NYC?
+
+No Department of Buildings permit is required for low-voltage cabling. What is required is building-level approval: a COI on file with the managing agent, an alteration agreement in a co-op or condo, agreed freight windows, and firestop documentation at rated penetrations.
+
+### Do you repair and take over existing networks?
+
+Yes, and it is a large share of the work. Takeovers start with a survey and a written assessment of what is there before anything changes — often the plant is fine and only the equipment and configuration need replacing.
+
+### Will faster internet fix slow Wi-Fi?
+
+Almost never. If the problem is location-dependent or occupancy-dependent, it lives inside the building and a bigger circuit changes nothing.
+
+### Can you work with our MSP or IT provider?
+
+Routinely. We handle the physical layer and the closet to their standards and naming conventions, and hand the logical layer back to them.
+
+### Do you supply the equipment, or can we?
+
+Either. Client-supplied hardware is welcome. We will tell you before installation if what has been bought will not do the job.
+
+### What is a demarc extension?
+
+Running your internet circuit from the building's entry room to your closet. It is your cost, not the provider's, and on a move it is often the longest lead item.
+
+### Do you do emergency network repair?
+
+Yes. Same-day dispatch on outages across the five boroughs. Most switch faults and single-drop failures are isolated on the first visit.
+
+### How much does a wireless site survey cost?
+
+$450, credited against the project if you proceed. The post-installation validation walk is included either way.
+
+Reality check
+
+### Seven things people believe about office networks that are not so
+
+Most of these come from advice written for a home, applied to a business, in a city where the buildings do not cooperate.
+
+### "A mesh system will cover the office."
+
+Mesh works by relaying wirelessly between nodes, which spends airtime to buy coverage. In a home with three nodes that is a fine trade. In an office with twenty-five people it halves throughput at exactly the moment demand peaks. Access points with wired backhaul do not make that trade, which is the whole reason they exist.
+
+### "We just need a stronger router."
+
+Wi-Fi is a two-way conversation, and your laptop's radio is not getting stronger. Broadcasting harder from the centre of the floor makes the access point audible in the far corner while the far corner remains inaudible back. Coverage is solved with more access points in better positions, not more power from one.
+
+### "The cable is old, so it all has to come out."
+
+Frequently untrue and always expensive to assume. Cat5e installed correctly runs gigabit perfectly well. Test the plant before condemning it — the answer is often that only the equipment and configuration on top of it need replacing.
+
+### "Faster internet will fix it."
+
+If the problem is location-dependent or time-of-day dependent, it is inside the building and the circuit is irrelevant. Upgrading the provider package is the most commonly sold non-solution in this trade.
+
+### "Free ports mean we can add more devices."
+
+Free ports are not free watts. PoE budget is a total across the switch, and exceeding it fails silently and selectively, which makes it look like a device fault. Overloading a switch that already had a full power budget is the single most common cause of the calls we get about devices dropping off.
+
+### "Segmentation is an enterprise thing."
+
+It is an hour of configuration on a switch you were buying anyway, and it is what stops a guest device or an unpatched smart display from sitting on the same segment as your files. A twelve-person business benefits from it as much as a two-hundred-person one.
+
+### "Documentation is a formality."
+
+Documentation is what makes the next problem a ten-minute problem. Its absence is what makes every subsequent contractor quote higher, because the first thing they have to do is work out what is already there.
+
+Coverage
+
+### Where we install networks in New York City
+
+All five boroughs. What changes borough to borough is not the method — it is the pathway, the building access and what the walls do to radio. Here is what each commercial corridor actually presents.
+
+### Manhattan
+
+Midtown towers — Sixth Avenue and Park Avenue. The technical work is ordinary; the logistics are not. Freight elevator windows are booked days ahead and released in blocks, a certificate of insurance has to be on file with the managing agent before a crew reaches the lobby, and ceiling work over occupied floors is evening-only in most Class A buildings. We price the access, not just the cable, because on a Sixth Avenue tower the access is the schedule.
+
+Grand Central and East 42nd Street. Older tower stock around the terminal, deep floor plates and long horizontal runs. This is the corridor where the hundred-metre copper limit bites: measured as installed — up into the ceiling, around the core, back down — a run that looks short on the floor plan is not. The answer here is regularly a second closet rather than a stretched drop.
+
+Financial District — Water Street and Broad Street. Narrow prewar towers with tight risers, converted floors and a lot of buildings that require off-hours work as a house rule rather than a preference. Riser space between floors is contested by every trade in the building, so pathway gets agreed with the managing agent before anything is pulled.
+
+Loft districts — SoHo, Flatiron and the Garment District. Cast-iron and heavy-timber lofts with exposed ceilings that tenants want kept exposed. Nothing hides above a tile because there is no tile. Cable runs are designed to be seen: dressed on visible pathway, straight lines, colour-matched where it matters. Wireless in these spaces is generally easy — open volume, few interior walls — and the constraint is aesthetic rather than technical.
+
+Prewar office conversions across the borough. Plaster applied over metal wire lath is the single most consistent wireless problem in Manhattan. The mesh absorbs and reflects signal, it is invisible from inside the room, and it turns a clean predictive coverage plan into three bars in one office and nothing in the next. Access point counts in these buildings run well above the square-foot rule of thumb, and this is exactly the building type where an on-site survey pays for itself.
+
+### Brooklyn
+
+MetroTech, Court Street and Jay Street. Downtown Brooklyn's professional and institutional core — law offices, agencies, back-office floors. Conventional commercial fit-out work with drop ceilings and return-plenum spaces, which means plenum-rated cable on most horizontal runs and firestopping at every rated penetration. Building access is more workable than Midtown; daytime work is sometimes genuinely possible.
+
+DUMBO — Front Street and Water Street. Converted warehouse lofts with brick, timber and enormous open volumes. Ceilings are high and exposed, so pathway is visible and access points mount well below the deck to be useful. Radio travels beautifully in these rooms; the problems are density in glass-walled conference rooms and the neighbouring tenants' networks on the same floor.
+
+Brooklyn Navy Yard. Industrial and manufacturing space alongside modern office buildings on the same campus, which means two entirely different network designs sometimes for one tenant — high-bay coverage on the production side and conventional office coverage upstairs. Campus-scale work here is where building-to-building fibre backbone becomes the design rather than an add-on.
+
+Industry City and Sunset Park. Vast converted manufacturing floors with concrete, steel and long distances between anything. Distance is the constraint: horizontal runs exceed copper limits routinely, so the design starts with where the closets go and works outward. High ceilings mean lift work, and lift work is a real line item.
+
+Gowanus, Williamsburg and Bushwick conversions. Former industrial buildings turned into studios, production space and offices, frequently with partial renovations layered over decades of previous wiring. Takeovers here almost always begin with tracing what is already in the walls, because nobody documented any of it and some of it is still live.
+
+### Queens
+
+Long Island City — Jackson Avenue, Queens Plaza and Court Square. New high-rise commercial and mixed-use stock, which is the easiest building type in the city to network: modern risers, telecom rooms on every floor, and drawings that match the building. Multi-floor tenants here get a closet per floor with a fibre riser between them, and concrete slabs mean wireless is designed per floor with no expectation that signal crosses down.
+
+Flushing — Main Street and Roosevelt Avenue. Dense mid-rise commercial with heavy multi-tenant occupancy — medical suites, professional offices and retail stacked in the same building. Spectrum congestion is the defining problem: it is normal to scan and find dozens of neighbouring networks competing for the same channels, so channel planning matters more than transmit power.
+
+Jamaica — Sutphin Boulevard and 165th Street. Government, institutional and older commercial buildings with masonry construction and limited existing pathway. Core drilling and conduit are frequently part of the job rather than an exception, and penetration documentation matters because these buildings are inspected.
+
+Maspeth and Ridgewood industrial. Warehousing, light manufacturing and distribution. High-bay wireless with antenna patterns chosen for aisles rather than open floor, scanner roaming that has to hand off cleanly as vehicles move, and coverage that survives racking being restocked. A survey is not optional in these buildings.
+
+Astoria and Steinway Street. Ground-floor retail and small professional offices in older mixed-use buildings. Smaller jobs, tighter spaces, and frequently a single wall-mount cabinet rather than a floor rack — but the same requirement for segmentation, testing and documentation.
+
+### The Bronx
+
+Fordham Road corridor. Dense retail and institutional buildings along one of the busiest commercial strips in the city. Trading hours dictate the schedule, so most work is early morning or overnight, and point-of-sale connectivity is usually the priority the client cares about most.
+
+Hunts Point and Bruckner. Food distribution, cold storage and industrial buildings at scale. This is high-bay wireless with additional complications: refrigerated space attenuates signal, metal racking is everywhere, forklift traffic dictates mounting height, and handheld scanners have to roam across large volumes without dropping. Distances routinely require multiple closets and fibre between them.
+
+Mott Haven and Port Morris. Industrial conversions turning into studios, offices and light manufacturing. Masonry walls, exposed structure and almost no existing usable pathway — cable goes on visible supported pathway or in conduit, and core drilling is common.
+
+Grand Concourse prewar. Substantial prewar buildings with plaster over lath, thick masonry party walls and generous but awkward interior layouts. Same wireless attenuation problem as Manhattan's prewar stock, with the same answer: more access points, placed with the walls in mind rather than the floor plan.
+
+Riverdale. Professional offices, medical suites and institutional buildings in a lower-density setting. Building access is easier, daytime work is often possible, and jobs skew toward small and mid-size office networks rather than industrial coverage.
+
+### Staten Island
+
+West Shore — South Avenue and Gulf Avenue. The borough's industrial and distribution spine. Warehouses, logistics facilities and light manufacturing, which means high-bay access point layouts, long horizontal distances, and closet placement driven by the building envelope rather than by where anyone would prefer it.
+
+Teleport and Bloomfield. Corporate office park buildings — modern construction, real telecom rooms, drawings that are usually accurate, and no freight elevator politics. Straightforward commercial network work, and the borough's easiest sites to schedule.
+
+St. George. Government, professional and institutional buildings around Borough Hall and the ferry terminal. Older municipal building stock with masonry construction and existing infrastructure that has been added to repeatedly, which makes takeover and documentation work common here.
+
+Hylan Boulevard. Medical suites, dental practices and retail along the length of the corridor. Segmented networks for clinical systems, patient wireless fenced off from everything else, and scheduling around patient hours — which usually means evenings and Saturdays.
+
+Manhattan
+Brooklyn
+Queens
+Bronx
+Staten Island
+Midtown
+Financial District
+SoHo
+Flatiron
+Garment District
+DUMBO
+Downtown Brooklyn
+Brooklyn Navy Yard
+Industry City
+Gowanus
+Williamsburg
+Long Island City
+Flushing
+Jamaica
+Maspeth
+Astoria
+Fordham Road
+Hunts Point
+Mott Haven
+Grand Concourse
+Riverdale
+West Shore
+Teleport
+St. George
+Hylan Boulevard
+
+We also work across Long Island and the Hudson Valley — Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess and Ulster. Travel outside the five boroughs carries a mileage allowance rather than a different rate. The cable plant these networks run on is covered in detail on structured cabling installation NYC , and cable category and per-drop pricing on Cat6 installation NYC .
+
+[FIG] Panel punchdown in the closet. Same standard whether the building is a Midtown tower, a Sunset Park loft or a West Shore warehouse.
+
+Next step
+
+### Get a network quote
+
+Tell us the space and roughly how many people work in it. We will walk it, count what is actually needed, and come back with a line-item number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Property Type
+
+Select
+Office
+Retail or restaurant
+Medical or dental
+Warehouse or industrial
+School or training centre
+Multi-tenant building
+Residential
+
+What do you need?
+
+Select
+New network build
+Wi-Fi coverage or dead zones
+Upgrade an existing network
+Takeover and documentation
+Repair — something is down
+Office move or new fit-out
+
+Anything else worth knowing?
+
+I agree to be contacted about this request. See our privacy policy .
+
+Send My Request
+Or call (800) 486-0943 · NYS Low Voltage #12000287431
+
+NYC
+Network Installation NYC
+Structured Cabling NYC
+Cat6 Installation NYC
+Warranty
+Privacy Policy
+
+© 2026 Abstract Enterprises LLC · Network Installation NYC · NYS License #12000287431
+
+Related: Structured Cabling Installation NYC — the cable plant this network runs on: backbone, closets, fibre, copper and certification across an entire building.
