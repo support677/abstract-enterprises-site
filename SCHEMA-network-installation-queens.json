@@ -1,0 +1,582 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+    "name": "Abstract Enterprises Security Systems",
+    "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens",
+    "telephone": "+1-347-434-6392",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "460 E Fordham Rd",
+      "addressLocality": "Bronx",
+      "addressRegion": "NY",
+      "postalCode": "10458",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Queens"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Long Island City"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Astoria"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Flushing"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Jamaica"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Maspeth"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Forest Hills"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "201"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Network Installation",
+    "name": "Network Installation Queens",
+    "description": "Commercial network installation in Queens: building classification and room planning, network design, managed and PoE switching, routers and firewalls, VLAN segmentation, business Wi-Fi with measured channel planning for shared buildings, high-bay wireless for industrial space, rack buildout, certification, documentation and network repair.",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens",
+    "provider": {
+      "@type": "LocalBusiness",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+      "name": "Abstract Enterprises Security Systems",
+      "telephone": "+1-347-434-6392"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Queens"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Long Island City"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Astoria"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Flushing"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Jamaica"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Maspeth"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Forest Hills"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Network installation services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network design and site survey"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed and PoE switch installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Router and firewall installation with VLAN segmentation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Business Wi-Fi access point installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network rack and telecom closet buildout"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fiber backbone and building-to-building links"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network repair and troubleshooting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.abstractenterprisessecuritysystems.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Network Installation NYC",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Network Installation Queens",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How a Queens network installation runs",
+    "description": "The five stages of a commercial network installation in Queens, from classifying the building through design, pathway and plant, rack and equipment, to certification and documented handover.",
+    "totalTime": "P3D",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Cat6 and Cat6A cable"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Patch panels and keystone jacks"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Network rack or wall cabinet"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Managed PoE switch"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Router or firewall"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Wireless access points"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Cable certification tester"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Wireless survey meter"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Punch-down tool"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Fish tape and glow rods"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Walk the building and identify what kind it is",
+        "text": "Modern tower, shared mid-rise, industrial shed or main-street mixed-use. That classification sets the pathway, the room plan, the radio count and the schedule before anything is counted.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Design and quote",
+        "text": "Room count and placement, addressing scheme, VLAN plan, switches sized with power to spare, radio count and positions plus a channel plan where the building is shared, the equipment list and a line-item price.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Pathway and plant",
+        "text": "On industrial plates, fiber between rooms first, then copper out to each zone. Elsewhere, supported pathway from the rack out, plenum-rated where a ceiling is a return, firestopped at rated penetrations.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Rack and equipment",
+        "text": "Cabinet or floor rack with panels, managers, power and battery backup. Switching, edge firewall and radios fitted, configured and tuned with a deliberate channel plan, and the power budget proven under real load.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Certify, validate and hand over",
+        "text": "Certification across every drop, then a validation walk through warehouse aisles, into rooms behind masonry, or across a shared suite to confirm the channel plan held. Then the port map, as-built, addressing scheme, equipment list and admin credentials.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens#process"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does network installation cost in Queens?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with hardware priced on its own or provided by you. An office floor for twenty-five to fifty users starts near $12,500. A suite in a shared multi-tenant building starts near $6,400, because the scope includes spectrum measurement, a channel plan and a demarc extension from the common entry room. Warehouse and manufacturing work is custom-quoted, since the number of telecom rooms the distances require drives everything else. Individual lines are published: firewall install $450 to $900, managed switch $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop, $300 with a new run and $375 for high-bay work, rack build $650, second room with a fiber link from $2,400, documentation $350, certification $20 per drop."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why can two Queens quotes for the same headcount be so far apart?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because this borough holds four completely different building types and the price follows the building rather than the headcount. Twenty-five people in a Long Island City tower is a conventional fit-out with a telecom room already provided. The same twenty-five in a Maspeth warehouse needs rooms placed by zone, fiber between them and a lift for anything mounted high. In a Flushing shared building it needs spectrum measurement and a channel plan before a radio count means anything. Above a shop on Steinway Street it needs a rack position created and pathway built from nothing. A quote that does not name which of those it assumes has not been written for your property."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a Queens network installation include?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A walk that starts by classifying the building, a room plan sized to the plate, a written design covering addressing and VLANs, the cabling on supported pathway with firestopping at rated penetrations, the rack with panels and battery backup, the switching and edge firewall, the Wi-Fi installation — design, mounting, tuning and, in shared buildings, a measured channel plan — certification across every drop, and a handover package with the port map, as-built, addressing scheme, equipment list and admin credentials."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this network installation or structured cabling?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Structured cabling means the physical side — cable, pathway, terminations, panels and certification. Network installation is the working system on top — switching, the edge firewall, VLANs, wireless coverage, addressing and documentation — plus the plant. The Queens consequence of splitting them is specific: wireless in a shared building cannot be designed by somebody who only pulls cable, because they will hang radios without measuring the air; and cable in a warehouse cannot be scoped by somebody who only configures equipment, because they will assume a hundred metres reaches the far wall. Both mistakes are common here."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many access points does a Queens office need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It depends on which problem the building has. A Long Island City tower floor of 5,000 square feet runs three or four on a conventional layout, designed per floor because concrete slabs stop signal between them. A suite in a Flushing or Jamaica shared building needs two or three plus a deliberate channel plan, since interference rather than coverage is the constraint. A suite above main-street retail needs two or three for a small footprint, because masonry and plaster stop signal between rooms. In warehousing, budget one radio for every 5,000 to 10,000 square feet, adjusted for racking and how high it mounts. Classrooms and busy waiting rooms want a dedicated radio each, because that is density rather than coverage."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Our Wi-Fi is slow but the cable is fine. What is going on?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In a dense multi-tenant Queens building the usual answer is that you are sharing a finite band with every other business in the property, most of them running consumer-grade equipment on automatic channel selection and negotiating with each other continuously. Adding more radios of your own frequently makes it worse, because the new one joins the same contested band. The fix is measurement followed by a deliberate channel plan, tighter cells and lower transmit power rather than higher. If instead the pattern is room-by-room rather than everywhere, the cause is more likely masonry between rooms, and that needs coverage rather than tuning."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does guest wireless need its own segment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Put guests on a separate VLAN with isolation and a ceiling on throughput and a visitor's device has no path to your storage or printers and no ability to swallow the line. In a practice with a waiting room, a shop with a customer floor or a school with visitors, that separation is the point of the design rather than a refinement of it. The same logic covers card terminals, floor equipment and building devices — each fenced, each unable to reach the others except where you decide."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What hardware does a small Queens business need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A business-class router or firewall at the edge, a managed PoE switch with port and power headroom, enough access points for the building type rather than the floor area, and a rack position you actually control. The headroom question is worth thinking about by building: in a tower, adding capacity later is a booking; in a warehouse it is a lift and a day; above a shop it may be physically impossible because the cabinet is already full. What nobody needs is a consumer router carrying twenty-five people, extra radios added to a shared building without a channel plan, or unmanaged switches multiplying under desks."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does a Queens network installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small suite is one to two days. An office floor for twenty-five to fifty users is three to five. A shared-building suite adds time at the start for measurement and for the demarc extension from the common entry room, both of which can involve the landlord. Warehouse and manufacturing work runs a week or more, largely because lift work is slower than ladder work and because the fiber between rooms goes in before anything else. The items most likely to move a date are the provider's circuit install, landlord agreement on riser space in older buildings, and trading hours in retail and food."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the work happen without closing the business?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. New cable, the new rack and the new equipment go in alongside what is running, and the cutover is a single short window out of hours. We replace radios one by one, so no part of the floor loses coverage during the swap. Which hours suit depends on the business: retail and food along the avenues work overnight, medical practices work evenings and Saturdays, and warehouses work around shipping. In multi-room industrial buildings we cut over zone by zone rather than taking the whole site at once."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a wireless survey worth it in Queens?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In a dense multi-tenant building it is the strongest case in the city, because the entire design turns on what your neighbours are doing and that can only be measured. It is also worth it in warehouse and manufacturing space, where racking is effectively the building as far as radio is concerned and stock levels change the answer across a year, and in older main-street buildings where masonry between small rooms produces coverage nobody predicts from a plan. For a modern Long Island City suite under about 4,000 square feet with conventional partitions we will tell you it is not needed. The fee is $450, credited against the project, and in shared buildings it includes spectrum measurement and a channel plan."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do we need a managed switch?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Past about eight people, yes. An unmanaged switch cannot segment traffic, cannot prioritise voice, cannot show which port is saturating and cannot be monitored. In a shared building that last point matters more than usual, because when something degrades you need to establish quickly whether the cause is inside your suite or outside it — and you cannot do that on equipment that reports nothing. On an industrial plate with multiple rooms it is not optional at all, since a zone you cannot see into means a walk to the far end of the building to learn anything."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work evenings and weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and the labour rate does not change for it. Retail and food along the avenues need overnight work, medical practices are booked through the day, warehouses ship on a clock, and Long Island City buildings have their own after-hours access rules. What we ask for is enough notice to staff the crew and to arrange landlord or building access, particularly where lift equipment or coring is involved, which most landlords prefer scheduled rather than discovered."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Which category should the access point runs be — Cat6 or Cat6A?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cat6A on ceiling positions in nearly every commercial case, for power and headroom rather than speed. Wi-Fi 6E and 7 hardware draws PoE++ to 802.3bt, and Cat6A's larger conductors deliver it with less temperature rise in a packed bundle. It also delivers ten gigabit to the full hundred metres, which matters because the radio is replaced every five to seven years while the cable stays for fifteen — and in a warehouse, re-pulling a run to a high mount means a lift and a day nobody wants to spend twice. Cat6 remains correct for desk drops, printers and general connectivity, so mixed plant is normal: Cat6 to workstations, Cat6A to every ceiling position."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who installs business networks in Queens?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Three kinds of firm do this work locally: licensed low-voltage contractors, IT providers who farm out the physical side, and cabling outfits whose scope ends at the panel. Anyone shortlisting a network installer in this borough should also ask which building types the contractor actually works in, because the skills that make somebody good in a Long Island City tower are not the ones that make them good in a Maspeth warehouse or a Flushing shared building. We are the first kind and hold both layers: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working from Long Island City out to Bayside and down to the Rockaways. That covers the survey and building classification, design and addressing, cabling and pathway, the rack, switching, the edge firewall, VLAN segmentation, wireless design and channel planning, certification, documentation and credential handover, plus repair and takeover of networks that were never designed in the first place."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-managed-poe-switch-rack-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-managed-poe-switch-rack-install.webp",
+        "name": "Network installation Queens — switch and rack build",
+        "caption": "A PoE+ switch going in below dressed panels. What the remedy costs if the power budget runs out depends entirely on which Queens building it sits in.",
+        "description": "Network installation Queens technician mounting a managed PoE switch below patch panels in a commercial network rack",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": true
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-two-tech-corridor-cable-pull.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-two-tech-corridor-cable-pull.webp",
+        "name": "Office network installation Queens — pull to the telecom room",
+        "caption": "Running cable back to the room. On an industrial plate the room position was settled first, because the far wall sits past the copper limit.",
+        "description": "Office network installation Queens two technicians running cable toward a telecom room in a commercial building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-cat6-cable-box-staging-fitout.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-cat6-cable-box-staging-fitout.webp",
+        "name": "Commercial network installation Queens — cable staged for a pull",
+        "caption": "Boxes staged for a zone pull. Rating is picked per pathway — plenum where a ceiling is a return, riser inside the walls.",
+        "description": "Commercial network installation Queens cable boxes staged for a multi-drop pull during a fit-out",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-drop-conduit-emt-riser.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-drop-conduit-emt-riser.webp",
+        "name": "Network installation Queens — conduit at a shared entry room",
+        "caption": "Into EMT near the common entry room. In a shared building, what riser space you may use is worth getting in writing before anything goes vertical.",
+        "description": "Network installation Queens technician running cable into EMT conduit near a shared building telecom entry room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-workstation-data-outlet-termination.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-workstation-data-outlet-termination.webp",
+        "name": "Network installation Queens — workstation outlets",
+        "caption": "Two ports at a desk position. In a shared building, wiring anything that matters beats competing for air with the businesses upstairs.",
+        "description": "Network installation Queens technician terminating dual data outlets at an office workstation position",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-wireless-access-point-ceiling-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-wireless-access-point-ceiling-install.webp",
+        "name": "Wi-Fi installation Queens — access point mount",
+        "caption": "A radio going up. In a dense multi-tenant building, where it sits and which channel it uses matter far more than how many of them there are.",
+        "description": "Wi-Fi installation Queens technician mounting a ceiling access point in a commercial suite",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-jhook-ceiling-pathway-bundles.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-jhook-ceiling-pathway-bundles.webp",
+        "name": "Network installation Queens — supported pathway",
+        "caption": "Bundles carried on J-hooks at regular intervals, clear of fixtures and parallel power — the one part of the job that looks the same in every building.",
+        "description": "Network installation Queens J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-rack-cleanup-before-after.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-rack-cleanup-before-after.webp",
+        "name": "Network rack cleanup Queens — before and after",
+        "caption": "One rack before and after. Several tenants and their vendors over a decade, with runs going to suites that no longer exist.",
+        "description": "Network rack cleanup Queens before and after showing a tangled unlabelled rack rebuilt into a dressed labelled one",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-cable-labeling-port-map.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-cable-labeling-port-map.webp",
+        "name": "Network installation Queens — labelling and port map",
+        "caption": "Labels made at the panel and written into the map before moving on. In a shared building this is also the record of what is yours.",
+        "description": "Network installation Queens technician printing cable labels at a patch panel beside a printed port map",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-cable-toner-tracing.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-network-cable-toner-tracing.webp",
+        "name": "Network repair Queens — tracing an inherited run",
+        "caption": "Tracing a run nobody recorded. Most Queens networks were not designed — they accumulated, one device at a time, until they stopped coping.",
+        "description": "Network repair Queens technician tracing an unlabelled cable run at a patch panel with a tone generator and probe",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-fluke-dsx-certification-pass.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-fluke-dsx-certification-pass.webp",
+        "name": "Network installation Queens — certifying a finished drop",
+        "caption": "Tested from the outlet end, run by run. On a warehouse plate the length reading decides whether a second room was needed.",
+        "description": "Network installation Queens technician certifying a data drop with a cable analyzer showing a PASS result",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-retrofit-wall-fish-data-drop.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-retrofit-wall-fish-data-drop.webp",
+        "name": "Network installation Queens — retrofit drop above retail",
+        "caption": "Fishing a drop in a main-street building. Brick and plaster are the reason retrofit hours in these buildings exceed what new construction would take.",
+        "description": "Network installation Queens technician fishing cable through a wall for a retrofit data drop above main-street retail",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-core-drill-cmu-wall-penetration.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-core-drill-cmu-wall-penetration.webp",
+        "name": "Network installation Queens — core drilling a penetration",
+        "caption": "Coring block to reach the room. Penetrations get firestopped to the rated assembly and recorded in the closeout package.",
+        "description": "Network installation Queens technician core drilling a block wall to carry cable through to a telecom room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-finished-network-rack-firewall-ups.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-queens-finished-network-rack-firewall-ups.webp",
+        "name": "Network installation Queens — finished rack",
+        "caption": "A finished rack: panels above, switching and firewall below, battery backup underneath, and room left for what gets added next year.",
+        "description": "Finished network rack Queens with patch panels, switching, firewall and battery backup dressed and labelled",
+        "width": "1122",
+        "height": "1402",
+        "representativeOfPage": false
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anwar Jeffres",
+    "jobTitle": "Licensed Low Voltage Contractor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Abstract Enterprises Security Systems",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
+      "identifier": "12000287431"
+    },
+    "knowsAbout": [
+      "Network installation",
+      "Wireless network installation",
+      "Wireless channel planning",
+      "VLAN segmentation",
+      "Power over Ethernet",
+      "High-bay wireless design",
+      "Network troubleshooting"
+    ],
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-queens",
+    "sameAs": [
+      "https://www.instagram.com/security_cameras_new_york",
+      "https://www.youtube.com/@openeye0007",
+      "https://x.com/Abstract00007"
+    ]
+  }
+]

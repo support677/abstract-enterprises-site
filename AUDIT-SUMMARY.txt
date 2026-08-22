@@ -1,4 +1,4 @@
-AUDIT PACKET — network installation hubs
+AUDIT PACKET — network installation silo, 6 pages
 
 
 NYC hub — /network-installation-nyc
@@ -9,8 +9,8 @@ NYC hub — /network-installation-nyc
   H2         25
   schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
   FAQ        visible 15 / schema 15 / verbatim True
-  figures    17
-  phone      800 x10 · 347 x0 · other direct x0
+  figures    17, all geo-named
+  phones     {'486-0943': 6}
   .html      0
   up-link    /network-installation-nyc x0
   FAQ:
@@ -64,8 +64,8 @@ Long Island hub — /network-installation-long-island
   H2         24
   schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
   FAQ        visible 15 / schema 15 / verbatim True
-  figures    14
-  phone      800 x10 · 347 x0 · other direct x0
+  figures    14, all geo-named
+  phones     {'486-0943': 6}
   .html      0
   up-link    /network-installation-nyc x3
   FAQ:
@@ -118,8 +118,8 @@ Hudson Valley hub — /network-installation-hudson-valley
   H2         24
   schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
   FAQ        visible 15 / schema 15 / verbatim True
-  figures    13
-  phone      800 x10 · 347 x0 · other direct x0
+  figures    13, all geo-named
+  phones     {'486-0943': 6}
   .html      0
   up-link    /network-installation-nyc x3
   FAQ:
@@ -164,18 +164,189 @@ Hudson Valley hub — /network-installation-hudson-valley
     23. Where we install networks in the Hudson Valley
     24. Get a Hudson Valley network quote
 
+Manhattan — /network-installation-manhattan
+  title      Network Installation Manhattan | Office Networks (48)
+  meta       151 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-manhattan
+  words      9539
+  H2         23
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    14, all geo-named
+  phones     {'560-0737': 6}
+  .html      0
+  up-link    /network-installation-nyc x3
+  FAQ:
+     1. How much does network installation cost in Manhattan?
+     2. Why do Manhattan network quotes vary so much for the same drop count?
+     3. What does a network installation on a Manhattan floor include?
+     4. Am I buying network installation or structured cabling?
+     5. How many access points does a Manhattan office floor need?
+     6. Why is our wireless strong in one office and unusable in the next?
+     7. Does guest wireless need its own segment in a client-facing office?
+     8. What hardware does a Manhattan tenancy need?
+     9. How long does a Manhattan network installation take?
+    10. Can the work happen without disrupting the office?
+    11. Is a wireless survey worth paying for in Manhattan?
+    12. Do we need a managed switch?
+    13. Do you work evenings and weekends?
+    14. Cat6 or Cat6A for the drops feeding access points?
+    15. Who installs business networks in Manhattan?
+  H2:
+     1. What a Manhattan network installation includes
+     2. Building access is the project, and it is priced accordingly
+     3. Four Manhattan building types, four different jobs
+     4. Switching, the edge, and what the floor closet has to hold
+     5. VLANs in a single-tenancy floor
+     6. Wi-Fi installation in Manhattan: lath, glass and forty neighbours
+     7. Where a site survey earns its cost in Manhattan
+     8. PoE budget in a one-closet tenancy
+     9. The floor closet: network rack, panels and what fits
+    10. The cable already in the walls, and whether it stays
+    11. Documentation, and why it matters more in a managed building
+    12. The network the last tenant left
+    13. Is it the network, the building, or the carrier?
+    14. What network installation costs in Manhattan
+    15. What we deploy in Manhattan tenancies
+    16. Network installation, structured cabling and Cat6
+    17. What the work looks like for different Manhattan tenants
+    18. From survey to closeout on a Manhattan floor
+    19. What you can hold us to
+    20. Manhattan network installation questions we get
+    21. Shorter answers to common questions
+    22. Where we install networks in Manhattan
+    23. Get a Manhattan network quote
 
-shared sentences of 8+ words, nav chrome / footer / forms excluded
+Brooklyn — /network-installation-brooklyn
+  title      Network Installation Brooklyn | Office Networks (47)
+  meta       152 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn
+  words      9419
+  H2         23
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    14, all geo-named
+  phones     {'934-8335': 6}
+  .html      0
+  up-link    /network-installation-nyc x3
+  FAQ:
+     1. How much does network installation cost in Brooklyn?
+     2. Why does a loft cost more to network than an office of the same size?
+     3. What does a Brooklyn network installation include?
+     4. Is this network installation or structured cabling?
+     5. How many access points does a Brooklyn loft need?
+     6. Our open floor has great Wi-Fi but the back rooms have none. Why?
+     7. Does the guest network need separating from ours?
+     8. What hardware does a Brooklyn business need?
+     9. How long does a Brooklyn network installation take?
+    10. Can you install without shutting the studio down?
+    11. Is a wireless survey worth it here?
+    12. Do we need a managed switch?
+    13. Do you work evenings and weekends?
+    14. Cat6 or Cat6A for the runs feeding access points?
+    15. Who installs business networks in Brooklyn?
+  H2:
+     1. What a Brooklyn network installation covers
+     2. Buildings that were never designed to carry a network
+     3. Five Brooklyn building types and what each one demands
+     4. Switching, the edge, and closets in buildings without one
+     5. VLANs for mixed-use Brooklyn businesses
+     6. Wi-Fi installation in Brooklyn: open volume, hard edges
+     7. When a survey is worth paying for in Brooklyn
+     8. PoE budget under a high ceiling
+     9. Building a network rack where the building never provided one
+    10. Four generations of cable in one ceiling
+    11. Documentation, and breaking the Brooklyn cycle
+    12. The network the building came with
+    13. Working out whether the network is actually at fault
+    14. What network installation costs in Brooklyn
+    15. What we deploy in Brooklyn spaces
+    16. Network installation, structured cabling and Cat6
+    17. What the work looks like for different Brooklyn businesses
+    18. From walkthrough to closeout
+    19. What you can hold us to
+    20. Brooklyn network installation questions we get
+    21. Shorter answers to common questions
+    22. Where we install networks in Brooklyn
+    23. Get a Brooklyn network quote
 
-  network-installation-nyc               vs network-installation-long-island        0
-  network-installation-nyc               vs network-installation-hudson-valley      0
-  network-installation-long-island       vs network-installation-hudson-valley      0
+Queens — /network-installation-queens
+  title      Network Installation Queens | Office Networks (45)
+  meta       155 chars
+  canonical  https://www.abstractenterprisessecuritysystems.com/network-installation-queens
+  words      9212
+  H2         23
+  schema     7: LocalBusiness, Service, BreadcrumbList, HowTo, FAQPage, @graph, Person
+  FAQ        visible 15 / schema 15 / verbatim True
+  figures    14, all geo-named
+  phones     {'434-6392': 6}
+  .html      0
+  up-link    /network-installation-nyc x3
+  FAQ:
+     1. How much does network installation cost in Queens?
+     2. Why can two Queens quotes for the same headcount be so far apart?
+     3. What does a Queens network installation include?
+     4. Is this network installation or structured cabling?
+     5. How many access points does a Queens office need?
+     6. Our Wi-Fi is slow but the cable is fine. What is going on?
+     7. Does guest wireless need its own segment?
+     8. What hardware does a small Queens business need?
+     9. How long does a Queens network installation take?
+    10. Can the work happen without closing the business?
+    11. Is a wireless survey worth it in Queens?
+    12. Do we need a managed switch?
+    13. Do you work evenings and weekends?
+    14. Which category should the access point runs be — Cat6 or Cat6A?
+    15. Who installs business networks in Queens?
+  H2:
+     1. What a Queens network installation covers
+     2. Four different jobs inside one borough
+     3. Sharing a building with six other networks
+     4. Switching, the edge, and rooms sized to the building
+     5. VLANs when the building is not yours
+     6. Wi-Fi installation in Queens: a channel problem before a coverage problem
+     7. When measuring the air is worth paying for
+     8. PoE budget across mixed building types
+     9. The network rack, and where it lives building by building
+    10. What is already in the walls, and whether it stays
+    11. Documentation, especially in a building you share
+    12. Networks that grew instead of being designed
+    13. Network, building, or neighbour?
+    14. What network installation costs in Queens
+    15. What we deploy across Queens
+    16. Network installation, structured cabling and Cat6
+    17. What the work looks like for different Queens businesses
+    18. From walkthrough to closeout
+    19. What you can hold us to
+    20. Queens network installation questions we get
+    21. Brief answers to the questions we hear most
+    22. Where we install networks in Queens
+    23. Get a Queens network quote
+
+
+shared sentences of 8+ words; nav chrome, footers and forms excluded
+
+  nyc                                  vs long-island                           0
+  nyc                                  vs hudson-valley                         0
+  nyc                                  vs manhattan                             0
+  nyc                                  vs brooklyn                              0
+  nyc                                  vs queens                                0
+  long-island                          vs hudson-valley                         0
+  long-island                          vs manhattan                             0
+  long-island                          vs brooklyn                              0
+  long-island                          vs queens                                0
+  hudson-valley                        vs manhattan                             0
+  hudson-valley                        vs brooklyn                              0
+  hudson-valley                        vs queens                                0
+  manhattan                            vs brooklyn                              0
+  manhattan                            vs queens                                0
+  brooklyn                             vs queens                                0
 
 WHAT TO AUDIT
-  1. Does each hub argue a different thesis, or is it one page with place names swapped?
-  2. Any town or corridor named without a pathway, access or RF reason attached?
+  1. Does each page argue a genuinely different thesis, or is it one page with place names swapped?
+  2. Is any street, corridor or neighbourhood named without a pathway, access or RF reason attached?
   3. Are the 15 FAQ answers on each page complete and independently useful?
-  4. Any pricing, code, licensing or building-practice claim wrong or unsupportable?
+  4. Any pricing, code or building-practice claim that is wrong or unsupportable?
   5. Any fabricated customer, project, testimonial or outcome statistic? There should be none.
-  6. Do alt texts and captions match the photo and the region claimed?
-  7. Anything belonging to another trade?
+  6. Do alt texts and captions match the photo and the area claimed?
+  7. Correct direct number on each borough page, and no 800 anywhere on them?
