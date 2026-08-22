@@ -217,3 +217,153 @@ sitemap.xml 1,934 locs — boroughs at priority 0.7 monthly, hubs at 0.9 weekly 
 ## Next
 
 Bronx and Staten Island complete the borough set. Then county children under the Long Island and Hudson Valley hubs.
+
+---
+
+# Borough pages — batch 2, silo complete
+
+The last two borough children. The network installation silo now stands at eight pages.
+
+**Live URLs**
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-bronx`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-staten-island`
+
+## Phones — direct only
+
+| Page | Number | Occurrences | 800 present |
+|---|---|---|---|
+| Bronx | (646) 490-0629 | 4 | none |
+| Staten Island | (347) 934-8335 | 4 | none |
+
+Both verified in body copy and in the `telephone` field of LocalBusiness and Service schema. Neither page carries another borough's number.
+
+## Bronx — 10,369 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: premises that never close.** Most guidance about installing a business network quietly assumes there is a night. In Hunts Point, along Bruckner, and across the borough's refrigerated logistics and clinical facilities there frequently is not. The page argues that the real question is not when the cutover happens but whether one is permissible at all, and answers it with parallel construction — the new network built complete alongside the old, each zone transferring in minutes, and where a zone genuinely cannot drop, both networks running side by side on separate switching until the client is satisfied.
+
+The second half of the argument is environmental, and it is material no other page in the silo carries: **cold rooms, wash-down areas and dust.** Operating range that stops well above freezer temperature, condensation on door cycles rather than cold as the actual failure mode, sealed ratings for hosed-down floors with cable entries sealed as deliberately as the box, and the recurring recommendation to keep the active equipment in a controlled room and run cable out to the hostile area — because copper is cheaper to replace than a switch.
+
+Building types: food and logistics (Hunts Point, Bruckner, Port Morris) · prewar civic and professional (Grand Concourse, 149th Street, the Hub — the borough's most under-counted wireless environment) · main-street retail (Fordham Road, Arthur Avenue, White Plains Road) · institutional and medical · Riverdale and the northwest.
+
+**Pricing carries operating-premises lines** no other page has: parallel running from $600 per zone, wash-down rated enclosure and sealed entries from $275 per position, cold-environment cable from $6/ft, spare switch held on site at equipment cost, overnight and split-shift crews at no labour premium. Distribution package from $18,500; prewar office floor from $13,900. Survey adds roaming validation along handheld routes for $250.
+
+29 corridors verified.
+
+## Staten Island — 10,693 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: whole buildings on their own lots.** The only borough where a commercial property is usually an entire building rather than a floor in somebody else's. That changes the job in three ways the other pages never address: cable goes outside far more often, the distances inside one wide single-story building exceed what copper carries, and where the equipment sits relative to the ground is a design decision.
+
+The exposure section is specific to this borough — a shoreline on three sides and a substantial low-lying commercial belt. Elevation treated as the cheapest resilience measure available and priced as its own line (elevated rack mounting from $250). Exterior-rated cable, sealed entries, UV-stable mounting and proper bonding wherever a run leaves conditioned space, with indoor cable pressed into exterior service named as the most common inherited fault here. Wind loading and salt air on fixings. Battery backup as a baseline rather than a refinement, given overhead distribution and exposed feeders.
+
+The geometry section carries the hundred-metre argument in its Staten Island form: a 40,000 sq ft West Shore building at 400 × 100 feet, the room where the service enters at one end, and the far corner past 400 feet of cable.
+
+**Wireless is framed as the inverse of Manhattan** — spectrum genuinely clear, so when wireless underperforms here the cause is count, placement or structure rather than contention.
+
+Building types: West Shore industrial and the Teleport campus · St. George civic and legal · Hylan Boulevard medical and retail (the most common job on the island by count) · marine and waterfront.
+
+**Pricing carries property and exposure lines:** elevated mounting from $250, sealed and bonded exterior entry from $185, surge protection from $145, exterior-rated aerial pathway from $11/ft, building-to-building fiber custom after a route survey. Single-story building from $14,900 with the second zone room named as the reason; multi-building from $19,500.
+
+29 corridors verified.
+
+## Uniqueness — all 28 pairs at zero
+
+Eight pages, twenty-eight pairwise comparisons, zero shared sentences of eight or more words with nav chrome, footers and forms excluded.
+
+|  | NYC | LI | HV | MN | BK | QN | BX |
+|---|---|---|---|---|---|---|---|
+| **LI** | 0 | | | | | | |
+| **HV** | 0 | 0 | | | | | |
+| **MN** | 0 | 0 | 0 | | | | |
+| **BK** | 0 | 0 | 0 | 0 | | | |
+| **QN** | 0 | 0 | 0 | 0 | 0 | | |
+| **BX** | 0 | 0 | 0 | 0 | 0 | 0 | |
+| **SI** | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+Reached by rewriting at source rather than geo-swapping. Bronx's first build shared 34 sentences with Queens and 4 with Hudson Valley; Staten Island's shared 34 with Bronx. Every collision was reworded, including FAQ question titles. Eight pages now ask fifteen questions each in 120 distinct formulations.
+
+## Schema parity
+
+Both carry the standard seven blocks: LocalBusiness, Service with OfferCatalog, BreadcrumbList, HowTo, FAQPage at 15=15 verbatim, ImageObject graph, Person. Breadcrumb position 2 to the NYC hub, position 3 to the page's own URL. GBP routing per rule — Bronx to the Bronx record at 460 E Fordham Rd; Staten Island to the Brooklyn record at 1282 Troy Ave.
+
+## Registration
+
+sitemap.xml 1,936 locs — boroughs at 0.7 monthly, hubs at 0.9 weekly · `_redirects` 200 rewrite for each, eight silo entries total · `js/mega-nav.js` network key now carries all eight: nyc, manhattan, brooklyn, queens, bronx, staten-island, long-island, hudson-valley. `node --check` valid.
+
+## Silo status
+
+Eight pages, 81,151 words, all passing. NYC hub · Long Island hub · Hudson Valley hub · Manhattan · Brooklyn · Queens · Bronx · Staten Island.
+
+## Next
+
+County children under the regional hubs: Nassau and Suffolk under Long Island; Westchester, Rockland, Orange, Putnam, Dutchess and Ulster under Hudson Valley. Then the `/network-repair-[area]` silo.
+
+---
+
+# Hudson Valley counties — batch 1
+
+Three county children under the Hudson Valley hub.
+
+**Live URLs**
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-westchester-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-rockland-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-orange-county`
+
+## Phones — direct only
+
+| Page | Number | Occurrences | 800 |
+|---|---|---|---|
+| Westchester | (914) 877-2578 | 4 | none |
+| Rockland | (845) 640-3835 | 4 | none |
+| Orange | (845) 640-3835 | 4 | none |
+
+Verified in body copy and in the `telephone` field of LocalBusiness and Service schema. Rockland and Orange share the HV line by instruction; no page carries a number belonging to a different market.
+
+## Westchester — 9,977 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: suites that have been fitted out three times.** The county's market is built on leased corporate space that turns over regularly, and each tenancy leaves a layer of cable in the ceiling. Three costs follow: abandoned cable filling the pathway a new install needs, landlord removal requirements that bill the current tenant for somebody else's work, and closets where nobody can safely disconnect anything. The page argues for tracing before touching, keeping what certifies, and pricing removal openly.
+
+**Pricing carries leased-space lines** no other page has: existing plant trace and inventory from $450, abandoned cable removal from $400, and a written found-condition record at $175 — the last of which is cheap and repeatedly useful at lease end. Prewar downtown floor from $14,500 against $12,500 for a modern corporate floor.
+
+Corridors: White Plains and the Platinum Mile, Purchase, Rye Brook, Harrison, Yonkers/Ridge Hill/Nepperhan, Tarrytown, Elmsford and the Route 9A belt, New Rochelle, Mount Vernon, the Sound Shore villages, Mount Kisco to Yorktown. 32 verified.
+
+## Rockland — 9,846 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: buildings designed for one occupier, now shared by twelve.** Pearl River and Orangeburg corporate stock built with one service entrance, one equipment room and one distribution plan, then subdivided without any of it being reworked. Produces long demarc extensions, orphaned telecom rooms sitting inside other tenants' space, riser allocations with no clear owner, and occasionally oversized original plant worth surveying before replacing.
+
+The page adds a **boundary trace** as a named deliverable — establishing physically and in writing what is yours, what is shared, what is the landlord's and what is orphaned — and a "legacy" VLAN row for inherited equipment that must stay live but cannot be verified.
+
+**Pricing carries shared-building lines:** demarc extension from $450, each additional 100 ft across common areas from $275, boundary trace from $450, lockable cabinet from $850. Subdivided-building package from $6,900.
+
+Corridors: Pearl River, Orangeburg, Blauvelt, Route 303, Tappan, Suffern, Airmont, Route 59, Spring Valley, Monsey, Nanuet, West Nyack, Nyack, Piermont, Haverstraw, New City, Congers, Stony Point. 25 verified.
+
+## Orange — 10,806 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: rough-in, and the window that does not reopen.** The only page in the silo about new construction coordination. There is a period between the studs going up and the drywall closing when cable is trivially cheap, and it closes on a date somebody else sets. The page prices that argument directly: **rough-in drop from $115, the identical drop fished into a finished wall from $285** — sitting side by side in the pricing table.
+
+Also the only page where the **new-build package ($11,500) starts below its retrofit equivalent ($14,500)**, with that inversion called out explicitly.
+
+Second half covers large-format distribution: zone rooms and fiber for plates that exceed the copper limit several times over, star rather than chain topology, wireless designed around roaming paths rather than floor area, and lift work at deck height. Includes a **pre-ceiling validation check at no charge**, since a radio position corrected before the grid closes costs nothing to move.
+
+Mileage stated openly at $95 per crew day, consistent with the HV hub's published table.
+
+Corridors: Newburgh, New Windsor, Stewart, Route 17K, Route 300, Montgomery, Maybrook, Route 9W, Middletown, Route 211, Goshen, Wallkill, Chester, Monroe, Harriman, Woodbury, Highland Falls, Warwick, Port Jervis, Cornwall. 26 verified.
+
+## Uniqueness — all 55 pairs at zero
+
+Eleven pages, fifty-five pairwise comparisons, zero shared sentences of eight or more words with nav chrome, footers and forms excluded. Westchester's first build shared 17 across the set, Rockland's 23, Orange's 19 — all reworded at source including FAQ question titles. The silo now asks fifteen questions on each of eleven pages in 165 distinct formulations.
+
+## Schema parity
+
+All three carry the standard seven blocks with FAQPage at 15=15 verbatim. Breadcrumb position 2 to the NYC hub, position 3 to the page's own URL. Each county page up-links to both the Hudson Valley hub and the NYC hub. GBP routing per rule — all three to the Bronx record at 460 E Fordham Rd.
+
+## Registration
+
+sitemap.xml 1,939 locs · `_redirects` 200 rewrite for each, eleven silo entries · `js/mega-nav.js` network key now carries all eleven; `node --check` valid.
+
+## Silo status
+
+Eleven pages, 113,584 words, all passing. Three hubs, five boroughs, three HV counties.
+
+## Next
+
+Putnam, Dutchess and Ulster complete the Hudson Valley set (same 845 line). Then Nassau and Suffolk under the Long Island hub.
