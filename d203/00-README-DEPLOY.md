@@ -367,3 +367,68 @@ Eleven pages, 113,584 words, all passing. Three hubs, five boroughs, three HV co
 ## Next
 
 Putnam, Dutchess and Ulster complete the Hudson Valley set (same 845 line). Then Nassau and Suffolk under the Long Island hub.
+
+---
+
+# Hudson Valley counties — batch 2, HV set complete
+
+The final three county children. All six Hudson Valley counties now sit under the regional hub.
+
+**Live URLs**
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-putnam-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-dutchess-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-ulster-county`
+
+## Phones
+
+All three on **(845) 640-3835**, four occurrences each, verified in body copy and in the `telephone` field of LocalBusiness and Service schema. No 800 anywhere. No page carries a number belonging to another market.
+
+## Putnam — 10,013 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: designing for a building with nobody technical in it.** The smallest commercial market in the region, and its defining characteristic is distance from help rather than size. A fault that costs an hour in Manhattan costs half a day here. The page argues that the decisions which reduce that number are worth more than the ones that shave a few hundred off the install: managed equipment always, monitoring that reports before anybody notices, a topology somebody can reason about from a browser, spare capacity rather than exact sizing, and a one-page card at the rack.
+
+**Pricing carries remote-support lines** no other page has: monitoring setup from $225, spare run pulled during the same visit from $85, pre-cabled radio position from $135, rack card included. The small-office package at $5,200 sits deliberately above the silo baseline, with the difference attributed to monitoring, spare capacity and the card rather than to labour. Mileage $95/crew day.
+
+18 corridors — Route 6, Carmel, Mahopac, Brewster, Route 312, Patterson, Cold Spring, Garrison, Putnam Valley, Route 301.
+
+## Dutchess — 10,161 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: building to somebody else's specification.** More network work here is done to a published infrastructure standard than anywhere else in the region — health systems, colleges, school districts, county facilities and corporate campuses all maintain their own. The page treats reading that document as the first task: approved products, run numbering, jacket colour by service, rack layout, submittals before material, certification in a required output format, and closeout in a prescribed structure.
+
+It also argues the case for private clients — institutional standards are mostly good practice written down, and the free parts are worth adopting — and says plainly where no standard exists and none is needed.
+
+Counterweight section on **mill conversions**: Beacon and Poughkeepsie brick roughly doubling the radio count against an equivalent modern floor. Mill conversion package from $17,500 vs $13,200 for a modern campus floor.
+
+**Pricing carries specification-driven lines:** submittal package from $450, closeout to a specified structure from $275, prescribed labelling and required certification formats included. Mileage $145/crew day.
+
+18 corridors — Poughkeepsie, Arlington, Route 44, Fishkill, East Fishkill, Hopewell Junction, Wappingers Falls, Beacon, Pawling, Hyde Park, Rhinebeck, Red Hook, Millbrook, Amenia.
+
+## Ulster — 11,011 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: networks that have to survive their own busy season.** Hospitality, tourism, wineries, event venues and a college town — commercial load swings harder here than anywhere else in the region. A network sized for the average is over-provisioned most of the year and inadequate exactly when the business earns. The page makes the counter-intuitive argument that peak failures are airtime rather than signal, so the answer is more cells at lower power rather than fewer turned up, and that payment and booking belong on cable so they never share air with the public.
+
+Second constraint, unique in the silo: **historic districts.** Kingston's Stockade and Rondout, New Paltz's Huguenot Street area — protected exteriors where a visible facade run is frequently not permissible, stone interiors that stop radio outright, and district approval lead time that belongs in the programme.
+
+**Pricing carries historic-fabric lines:** concealed or colour-matched pathway from $18/ft, penetration placed to avoid a visible facade from $325, underground between structures rather than across a facade custom-quoted. Guest network with ceiling priced at $275 rather than the usual $200. Return validation walk under real load $250. Historic district package from $12,400. Mileage $145/crew day.
+
+18 corridors — Kingston Stockade and Rondout, midtown, Lake Katrine, Route 9W, Saugerties, Highland, New Paltz, Gardiner, Woodstock, Stone Ridge, High Falls, Accord, Kerhonkson, Ellenville, Phoenicia, Shandaken.
+
+## Uniqueness — all 91 pairs at zero
+
+Fourteen pages, ninety-one pairwise comparisons, zero shared sentences of eight or more words with nav chrome, footers and forms excluded. Putnam's first build shared 19 across the set, Dutchess 17, Ulster 25 — all reworded at source including FAQ question titles. The silo asks fifteen questions on each of fourteen pages in 210 distinct formulations.
+
+## Schema parity
+
+All three carry the standard seven blocks with FAQPage at 15=15 verbatim. Breadcrumb position 2 to the NYC hub, position 3 to the page's own URL. Each up-links to both the Hudson Valley hub and the NYC hub. GBP routing per rule — all three to the Bronx record at 460 E Fordham Rd.
+
+## Registration
+
+sitemap.xml 1,942 locs · `_redirects` 200 rewrite for each, fourteen silo entries · `js/mega-nav.js` network key carries all fourteen; `node --check` valid.
+
+## Silo status
+
+Fourteen pages, 144,313 words, all passing. Three hubs, five boroughs, six Hudson Valley counties.
+
+## Next
+
+Nassau and Suffolk under the Long Island hub complete the silo's geographic coverage. Then the `/network-repair-[area]` variants.
