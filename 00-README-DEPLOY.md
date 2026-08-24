@@ -367,3 +367,134 @@ Eleven pages, 113,584 words, all passing. Three hubs, five boroughs, three HV co
 ## Next
 
 Putnam, Dutchess and Ulster complete the Hudson Valley set (same 845 line). Then Nassau and Suffolk under the Long Island hub.
+
+---
+
+# Hudson Valley counties — batch 2, HV set complete
+
+The final three county children. All six Hudson Valley counties now sit under the regional hub.
+
+**Live URLs**
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-putnam-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-dutchess-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-ulster-county`
+
+## Phones
+
+All three on **(845) 640-3835**, four occurrences each, verified in body copy and in the `telephone` field of LocalBusiness and Service schema. No 800 anywhere. No page carries a number belonging to another market.
+
+## Putnam — 10,013 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: designing for a building with nobody technical in it.** The smallest commercial market in the region, and its defining characteristic is distance from help rather than size. A fault that costs an hour in Manhattan costs half a day here. The page argues that the decisions which reduce that number are worth more than the ones that shave a few hundred off the install: managed equipment always, monitoring that reports before anybody notices, a topology somebody can reason about from a browser, spare capacity rather than exact sizing, and a one-page card at the rack.
+
+**Pricing carries remote-support lines** no other page has: monitoring setup from $225, spare run pulled during the same visit from $85, pre-cabled radio position from $135, rack card included. The small-office package at $5,200 sits deliberately above the silo baseline, with the difference attributed to monitoring, spare capacity and the card rather than to labour. Mileage $95/crew day.
+
+18 corridors — Route 6, Carmel, Mahopac, Brewster, Route 312, Patterson, Cold Spring, Garrison, Putnam Valley, Route 301.
+
+## Dutchess — 10,161 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: building to somebody else's specification.** More network work here is done to a published infrastructure standard than anywhere else in the region — health systems, colleges, school districts, county facilities and corporate campuses all maintain their own. The page treats reading that document as the first task: approved products, run numbering, jacket colour by service, rack layout, submittals before material, certification in a required output format, and closeout in a prescribed structure.
+
+It also argues the case for private clients — institutional standards are mostly good practice written down, and the free parts are worth adopting — and says plainly where no standard exists and none is needed.
+
+Counterweight section on **mill conversions**: Beacon and Poughkeepsie brick roughly doubling the radio count against an equivalent modern floor. Mill conversion package from $17,500 vs $13,200 for a modern campus floor.
+
+**Pricing carries specification-driven lines:** submittal package from $450, closeout to a specified structure from $275, prescribed labelling and required certification formats included. Mileage $145/crew day.
+
+18 corridors — Poughkeepsie, Arlington, Route 44, Fishkill, East Fishkill, Hopewell Junction, Wappingers Falls, Beacon, Pawling, Hyde Park, Rhinebeck, Red Hook, Millbrook, Amenia.
+
+## Ulster — 11,011 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: networks that have to survive their own busy season.** Hospitality, tourism, wineries, event venues and a college town — commercial load swings harder here than anywhere else in the region. A network sized for the average is over-provisioned most of the year and inadequate exactly when the business earns. The page makes the counter-intuitive argument that peak failures are airtime rather than signal, so the answer is more cells at lower power rather than fewer turned up, and that payment and booking belong on cable so they never share air with the public.
+
+Second constraint, unique in the silo: **historic districts.** Kingston's Stockade and Rondout, New Paltz's Huguenot Street area — protected exteriors where a visible facade run is frequently not permissible, stone interiors that stop radio outright, and district approval lead time that belongs in the programme.
+
+**Pricing carries historic-fabric lines:** concealed or colour-matched pathway from $18/ft, penetration placed to avoid a visible facade from $325, underground between structures rather than across a facade custom-quoted. Guest network with ceiling priced at $275 rather than the usual $200. Return validation walk under real load $250. Historic district package from $12,400. Mileage $145/crew day.
+
+18 corridors — Kingston Stockade and Rondout, midtown, Lake Katrine, Route 9W, Saugerties, Highland, New Paltz, Gardiner, Woodstock, Stone Ridge, High Falls, Accord, Kerhonkson, Ellenville, Phoenicia, Shandaken.
+
+## Uniqueness — all 91 pairs at zero
+
+Fourteen pages, ninety-one pairwise comparisons, zero shared sentences of eight or more words with nav chrome, footers and forms excluded. Putnam's first build shared 19 across the set, Dutchess 17, Ulster 25 — all reworded at source including FAQ question titles. The silo asks fifteen questions on each of fourteen pages in 210 distinct formulations.
+
+## Schema parity
+
+All three carry the standard seven blocks with FAQPage at 15=15 verbatim. Breadcrumb position 2 to the NYC hub, position 3 to the page's own URL. Each up-links to both the Hudson Valley hub and the NYC hub. GBP routing per rule — all three to the Bronx record at 460 E Fordham Rd.
+
+## Registration
+
+sitemap.xml 1,942 locs · `_redirects` 200 rewrite for each, fourteen silo entries · `js/mega-nav.js` network key carries all fourteen; `node --check` valid.
+
+## Silo status
+
+Fourteen pages, 144,313 words, all passing. Three hubs, five boroughs, six Hudson Valley counties.
+
+## Next
+
+Nassau and Suffolk under the Long Island hub complete the silo's geographic coverage. Then the `/network-repair-[area]` variants.
+
+---
+
+# Long Island counties — silo complete at 16 pages
+
+The last two children. The network installation silo now matches the Cat6 silo shape exactly: 3 hubs + 5 boroughs + 6 Hudson Valley counties + 2 Long Island counties.
+
+**Live URLs**
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-nassau-county`
+- `https://www.abstractenterprisessecuritysystems.com/network-installation-suffolk-county`
+
+## Phones
+
+Nassau on **(516) 346-5778**, Suffolk on **(631) 407-2884**, four occurrences each, verified in body copy and in the `telephone` field of LocalBusiness and Service schema. No 800 anywhere. Neither page carries a number belonging to another market. GBP routing per rule — both to the Brooklyn record at 1282 Troy Ave.
+
+## Nassau — 9,997 words, 23 H2, 14 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: clinical density and the traffic nobody sizes for.** More commercial space here is clinical than in any market outside Manhattan, and clinical space behaves nothing like general office space on a network. A twenty-person firm and a twenty-person imaging practice look identical on a headcount and are not comparable: imaging moves files an order of magnitude larger, in bursts, and a network sized on desks stalls exactly when a patient is waiting.
+
+Radio count follows **partition count**, not floor area — a clinical floor is cut into far more rooms and a square-footage calculation always comes out low. Shielded imaging rooms are radio-opaque by design and need a radio inside on their own drop; no transmit power reaches in from a corridor. Multi-practice buildings raise the boundary questions that come with a shared telecom room.
+
+**Clinical pricing lines:** radio inside a shielded room $375, dedicated modality drop $185, lockable cabinet from $850, parallel running from $600/suite, hospital-boundary path prep from $350, imaging path validated under load $250, evening and Saturday crews at no labour premium. Packages: professional suite $4,900, office floor $12,500, clinical suite from $9,800, imaging practice from $16,500. No mileage — core market.
+
+25 corridors — Mineola, New Hyde Park, Lake Success, Marcus Avenue, Rockville Centre, Garden City, Franklin Avenue, Old Country Road, Westbury, Great Neck, Plainview, Syosset, Farmingdale, Route 110, Bethpage, Hicksville, Freeport, Merrick, Valley Stream, Hempstead, Long Beach.
+
+## Suffolk — 10,466 words, 24 H2, 15 figures, 15 FAQ. Audit 33/33.
+
+**Thesis: one county, two hours apart.** Eighty-six miles end to end; Hauppauge and Montauk are the same county and nothing about supporting a network in one resembles the other. The same fault costs a fraction of a day at the western end and most of a day at the eastern, so the design leans harder on managed equipment, monitoring, spare capacity and on-site spares the further east it goes. The standards do not change with distance — only the logistics and the support design.
+
+Second half covers the **western industrial belt**: wide single-story plates exceeding copper reach, so a second room behind the office with a fiber star rather than a chain; two designs under one roof (conventional office front, high-bay production behind); an operations segment that competes with nothing; and dust, heat and electrical noise keeping active equipment out of the shop.
+
+**Travel banded rather than averaged** — western Suffolk $0, central $95/crew day, East End $145/crew day, because averaging would overcharge Melville to subsidise Montauk. **Distance-support lines:** monitoring from $225, on-site spares (spare radio + spare small switch) at hardware cost, spare run from $85, pre-cabled position from $135, site note included. Second room from $2,400, sealed floor enclosure from $275, roaming validation $250. Packages: small office $4,900, corporate floor $12,500, industrial flex from $17,500, East End multi-structure from $19,500.
+
+29 corridors — Melville, Broad Hollow Road, Huntington, Northport, Commack, Smithtown, Hauppauge, Motor Parkway, Islandia, Bohemia, Ronkonkoma, Holbrook, Deer Park, Patchogue, Sayville, Port Jefferson, Stony Brook, Bay Shore, West Islip, Yaphank, Riverhead, Cutchogue, Southold, Greenport, Southampton, Bridgehampton, East Hampton, Sag Harbor, Montauk.
+
+## Uniqueness — all 120 pairs at zero
+
+Sixteen pages, one hundred and twenty pairwise comparisons, zero shared sentences of eight or more words with nav chrome, footers and forms excluded. Nassau's first build shared 31 across the set, Suffolk 39 — all reworded at source including FAQ question titles. The silo asks fifteen questions on each of sixteen pages in 240 distinct formulations.
+
+## Schema parity
+
+Both carry the standard seven blocks with FAQPage at 15=15 verbatim. Breadcrumb position 2 to the NYC hub, position 3 to the page's own URL. Each up-links to both the Long Island hub and the NYC hub.
+
+## Registration — silo complete
+
+sitemap.xml 1,944 locs · `_redirects` carries 16 forced 200 rewrites, one per silo URL · `js/mega-nav.js` network key carries all 16; `node --check` valid; XML validated.
+
+## Silo status — DONE
+
+**16 pages, 163,099 words, all passing 33/33.** Three hubs, five boroughs, six Hudson Valley counties, two Long Island counties. Matches the Cat6 silo shape.
+
+Per-page theses, no cloning anywhere:
+- NYC hub / LI hub / HV hub — regional overviews
+- Manhattan, Brooklyn, Queens, Bronx, Staten Island — borough building stock
+- Westchester — suites fitted out three times
+- Rockland — buildings designed for one occupier, now shared by twelve
+- Orange — rough-in and the window that does not reopen
+- Putnam — designing for a building with nobody technical in it
+- Dutchess — building to somebody else's specification
+- Ulster — networks that must survive their own busy season
+- Nassau — clinical density and the traffic nobody sizes for
+- Suffolk — one county, two hours apart
+
+## Next
+
+`/network-repair-[area]` — the repair variant across the same 16 areas.
