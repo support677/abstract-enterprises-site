@@ -1,6 +1,6 @@
-# Network Cable Repair — 3 hubs + 5 borough children (8 of 16)
+# Network Cable Repair — 3 hubs + 5 boroughs + 3 counties (11 of 16)
 
-Supersedes network-cable-repair-5PAGE-COMMIT.zip. If that has not been pushed, use this instead — it contains everything in it plus Bronx and Staten Island.
+Supersedes network-cable-repair-7PAGE-COMMIT.zip. If that has not been pushed, use this instead.
 
 ## IMPORTANT: git commit, not a Netlify drag-and-drop
 Netlify auto-deploys from `main`. Dragging a zip into Netlify would break that link.
@@ -9,66 +9,66 @@ Netlify auto-deploys from `main`. Dragging a zip into Netlify would break that l
 2. Extract this zip **over** `C:\dev\abstract-enterprises-site`, keep folder structure, overwrite
 3. Commit, Push. Netlify deploys itself. Ctrl+Shift+R.
 
-## New pages (7)
-| URL | Phone | GBP |
-|---|---|---|
-| /network-cable-repair-long-island   | (800) 486-0943 | Brooklyn |
-| /network-cable-repair-hudson-valley | (800) 486-0943 | Bronx |
-| /network-cable-repair-manhattan     | (929) 560-0737 | Bronx |
-| /network-cable-repair-brooklyn      | (347) 934-8335 | Brooklyn |
-| /network-cable-repair-queens        | (347) 434-6392 | Bronx |
-| /network-cable-repair-bronx         | (646) 490-0629 | Bronx |
-| /network-cable-repair-staten-island | (347) 934-8335 | Brooklyn |
+## New pages (10)
+| URL | Phone | GBP | Parent |
+|---|---|---|---|
+| /network-cable-repair-long-island        | (800) 486-0943 | Brooklyn | NYC hub |
+| /network-cable-repair-hudson-valley      | (800) 486-0943 | Bronx    | NYC hub |
+| /network-cable-repair-manhattan          | (929) 560-0737 | Bronx    | NYC hub |
+| /network-cable-repair-brooklyn           | (347) 934-8335 | Brooklyn | NYC hub |
+| /network-cable-repair-queens             | (347) 434-6392 | Bronx    | NYC hub |
+| /network-cable-repair-bronx              | (646) 490-0629 | Bronx    | NYC hub |
+| /network-cable-repair-staten-island      | (347) 934-8335 | Brooklyn | NYC hub |
+| /network-cable-repair-nassau-county      | (516) 346-5778 | Brooklyn | Long Island hub |
+| /network-cable-repair-suffolk-county     | (631) 407-2884 | Brooklyn | Long Island hub |
+| /network-cable-repair-westchester-county | (914) 877-2578 | Bronx    | Hudson Valley hub |
 
-Hubs carry the 800. Children carry direct CallRail lines in body and schema. Zero foreign numbers on
-any page outside the shared mega-nav component, which is sitewide chrome identical on all 2,531 pages.
+County pages breadcrumb to their regional hub, not to NYC. Hubs carry the 800; children carry direct
+CallRail lines in body and schema. Zero foreign numbers outside the shared mega-nav component.
 
-## New images (112)
+## New images (160)
 /images/network-cable-repair/ — 16 per page, keyword+geo filenames, webp q82 at 1536px, fixed slot order.
 
 ## Modified (3)
-- sitemap.xml     1944 -> 1952 locs. Hubs 0.9/weekly, children 0.7/monthly. XML validated.
-- _redirects      4289 -> 4297 rules. Forced 301! .html -> clean. Nothing deleted.
+- sitemap.xml     1944 -> 1955 locs. Hubs 0.9/weekly, children 0.7/monthly. XML validated.
+- _redirects      4289 -> 4300 rules. Forced 301! .html -> clean. Nothing deleted.
 - js/mega-nav.js  networkcablerepair group, all 16 slugs. `node --check` passes.
 
 Also fixes an existing defect: `/network-cable-repair-nyc` was live with zero entries in all three.
 
-## Measured
-| Page | Title | Meta | Words | Schema | FAQ | Images |
-|---|---|---|---|---|---|---|
-| Long Island   | 51 | 152 | 8,477 | 7/7 | 12=12 | 16 |
-| Hudson Valley | 47 | 159 | 8,325 | 7/7 | 12=12 | 16 |
-| Manhattan     | 50 | 139 | 8,196 | 7/7 | 12=12 | 16 |
-| Brooklyn      | 47 | 142 | 7,928 | 7/7 | 12=12 | 16 |
-| Queens        | 45 | 140 | 7,865 | 7/7 | 12=12 | 16 |
-| Bronx         | 44 | 144 | 7,911 | 7/7 | 12=12 | 16 |
-| Staten Island | 48 | 146 | 7,852 | 7/7 | 12=12 | 16 |
+## Measured — the three new county pages
+| Page | Title | Meta | Words | Schema | FAQ | Images | Breadcrumb parent |
+|---|---|---|---|---|---|---|---|
+| Nassau County      | 48 | 144 | 7,553 | 7/7 | 12=12 | 16 | Long Island hub |
+| Suffolk County     | 49 | 144 | 7,635 | 7/7 | 12=12 | 16 | Long Island hub |
+| Westchester County | 46 | 147 | 7,424 | 7/7 | 12=12 | 16 | Hudson Valley hub |
 
-All: 4.7/201, Lic. #12000287431, self-referencing extensionless canonical, zero .html internal links,
-breadcrumb position 3 = own URL, up-link to /network-cable-repair-nyc, off-silo link targets verified
-against the live repo.
+All eleven: 4.7/201, Lic. #12000287431, self-referencing extensionless canonical, zero .html internal
+links, breadcrumb position 3 = own URL, all off-silo link targets verified against the live repo.
 
-## Dedup — body only, chrome and constants excluded, 8x8
-Worst pair anywhere: 14 (LI/HV, previously audited and passed).
-Bronx: 0-7 against every other page. Staten Island: 0-11, highest against Brooklyn.
-Bronx/Staten Island: 6.
+## Dedup — body only, chrome and constants excluded, 11x11
+Worst pair anywhere: 14 (LI/HV and SI/Suffolk).
+New county pages: Nassau/Westchester 12, Nassau/Suffolk 10, Suffolk/Westchester 8.
+Nassau/Suffolk took two rewrite passes to come down from 31.
 
 ## Theses
-- Bronx — hostile environments. Cold-room transitions where condensation attacks the termination at the
-  doorway, yard and gate entries with wrong jacket and no seal or bond, wash-down floors, corrosion
-  lingering years after a wet cellar, and continuous operations that need quiet-shift zone-at-a-time work.
-- Staten Island — the only borough where commercial property sits on its own lot. Runs leave the building
-  routinely: jacket rating, sleeved and sealed penetrations, bonding, drip loops, buried conduit holding
-  water, flood corrosion on the East and South Shores, distance in deep West Shore buildings, and visits
-  scoped to finish in one trip because of the crossing.
+- Nassau — channel headroom. The county's medical and professional density means drops that pass by a
+  whisker carry email all year and stall an imaging transfer in August. Plus telecom rooms built in the
+  1960s for a telephone board, coupler extensions from repeated fit-outs, and converted-residential
+  village commercial with no equipment room.
+- Suffolk — the flex bay. Front office, rear warehouse, one telecom point at the front and 200 feet to
+  the dock. Distance, tenant churn leaving coupler extensions, mezzanine chafe, unconditioned rear-bay
+  temperature swing, and visits scoped to finish because the county is 86 miles long.
+- Westchester — re-tenanted single-occupier office stock. Buildings cabled for one company in 1978 and
+  now shared by eight: shared closets with controlled access, four decades of abandoned cable, damage
+  from neighbouring fit-outs, mixed-category channels, and the closet legend as the durable deliverable.
 
 ## Open items
-1. **Warranty contradiction** — live network-installation silo says three-year; all seven of these say
+1. **Warranty contradiction** — live network-installation silo says three-year; all eleven of these say
    one-year parts-only. Still needs your decision.
-2. **8 children unbuilt** — nassau-county, suffolk-county, westchester-county, rockland-county,
-   orange-county, putnam-county, dutchess-county, ulster-county. Linked from hubs, 404 until built.
-   Nassau 516-346-5778 | Suffolk 631-407-2884 | Westchester 914-877-2578 | other HV 845-640-3835.
-3. **YouTube embed** placeholder on all seven pending a clip ID.
-4. **Reciprocal cross-links** — live network-installation pages do not yet link to network cable repair.
+2. **5 children unbuilt** — rockland-county, orange-county, putnam-county, dutchess-county,
+   ulster-county. Linked from the Hudson Valley hub, 404 until built. All five take 845-640-3835.
+3. **YouTube embed** placeholder on all ten pending a clip ID.
+4. **Reciprocal cross-links** — live network-installation pages still do not link to network cable repair.
 
 ## No files deleted.
