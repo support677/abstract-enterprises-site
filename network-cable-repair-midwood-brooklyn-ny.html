@@ -7,36 +7,37 @@
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
 :root{--a:#C8102E;--d:#111827;--g:#6b7280;--l:#f8f9fb;--b:#e5e7eb;--f:'Plus Jakarta Sans',sans-serif}
-*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--f);color:var(--d);line-height:1.7}
+*{margin:0;padding:0;box-sizing:border-box}body{font-family:var(--f);color:var(--d);line-height:1.7;background:#fff}
 .cx{max-width:1140px;margin:0 auto;padding:0 20px}
 .mn-wrap{position:fixed;top:0;left:0;right:0;z-index:99999;background:#fff;border-bottom:1px solid var(--b);height:64px}
 .mn-bar{display:flex;align-items:center;justify-content:space-between;height:64px;padding:0 12px;gap:8px;max-width:1320px;margin:0 auto}
-.mn-logo{flex-shrink:0}.mn-logo img{height:36px;display:block}
+.mn-logo{flex-shrink:0}.mn-logo img{height:36px;width:auto;display:block}
 .mn-actions{display:flex;align-items:center;gap:8px;flex-shrink:0}
 .mn-cta-phone{font-weight:700;color:var(--d);text-decoration:none;white-space:nowrap;font-size:13px}
 .mn-cta-btn{background:#e53935;color:#fff!important;font-weight:700;padding:9px 14px;border-radius:8px;text-decoration:none;white-space:nowrap;font-size:13px}
 .mn-call-btn{display:none;background:var(--d);color:#fff!important;font-weight:700;padding:9px 12px;border-radius:8px;text-decoration:none;white-space:nowrap;font-size:13px}
 .mn-spacer{height:64px}
 @media(max-width:720px){.mn-cta-phone{display:none}.mn-call-btn{display:inline-flex}.mn-logo img{height:32px}}
-h1{font-size:clamp(1.9rem,7vw,3.4rem);font-weight:800;line-height:1.08}h2{font-size:clamp(1.4rem,4vw,2.1rem);font-weight:800;margin-bottom:16px}
-.ac{color:var(--a)}.sw{padding:48px 0}.sg{padding:48px 0;background:var(--l)}.sd{padding:64px 0;background:var(--d);color:#fff;text-align:center}
-.bt{font-size:1rem;line-height:1.75;color:var(--g);margin-bottom:16px}
-.hbadge{display:inline-flex;flex-wrap:wrap;background:rgba(200,16,46,.06);border:1px solid rgba(200,16,46,.12);border-radius:100px;padding:8px 14px;margin-bottom:16px;font-size:.72rem;font-weight:700;color:var(--a)}
-.hsub{color:var(--g);margin:14px 0 22px}
-.bp{display:inline-block;background:var(--a);color:#fff;font-weight:700;padding:13px 22px;border-radius:10px;text-decoration:none}
-.bo{display:inline-block;border:2px solid var(--d);color:var(--d);font-weight:700;padding:11px 20px;border-radius:10px;text-decoration:none}
+h1{font-size:clamp(1.8rem,7vw,3.2rem);font-weight:800;line-height:1.08}h2{font-size:clamp(1.35rem,4vw,2rem);font-weight:800;margin-bottom:14px}
+.ac{color:var(--a)}.sw{padding:40px 0}.sg{padding:40px 0;background:var(--l)}.sd{padding:56px 0;background:var(--d);color:#fff;text-align:center}
+.bt{font-size:1rem;line-height:1.75;color:var(--g);margin-bottom:14px}
+.hbadge{display:inline-flex;flex-wrap:wrap;background:rgba(200,16,46,.06);border:1px solid rgba(200,16,46,.12);border-radius:100px;padding:7px 12px;margin-bottom:14px;font-size:.7rem;font-weight:700;color:var(--a)}
+.hsub{color:var(--g);margin:12px 0 18px;font-size:.98rem}
+.bp{display:inline-block;background:var(--a);color:#fff;font-weight:700;padding:12px 20px;border-radius:10px;text-decoration:none}
+.bo{display:inline-block;border:2px solid var(--d);color:var(--d);font-weight:700;padding:10px 18px;border-radius:10px;text-decoration:none}
 .br{display:flex;gap:10px;flex-wrap:wrap}
-.hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px;align-items:center}
+.hero-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;align-items:center}
 @media(max-width:800px){.hero-grid{grid-template-columns:1fr}}
-.hero-img img,.pg-fig img{width:100%;border-radius:16px;border:1px solid var(--b)}
-.pg-fig{margin:20px 0}.lnk{color:var(--a);font-weight:700;text-decoration:none}
+.hero-img img,.pg-fig img{display:block;width:100%;height:auto;aspect-ratio:4/3;object-fit:cover;object-position:center 25%;max-height:280px;border-radius:16px;border:1px solid var(--b);background:var(--l)}
+@media(min-width:801px){.hero-img img{max-height:360px}.pg-fig img{max-height:420px;aspect-ratio:16/10}}
+.pg-fig{margin:18px 0}.lnk{color:var(--a);font-weight:700;text-decoration:none}
 .pg-tbl{width:100%;border-collapse:collapse}.pg-tbl th,.pg-tbl td{border-bottom:1px solid var(--b);padding:11px;text-align:left}
-.qf-form{display:grid;gap:12px;max-width:680px;margin:24px auto 0}
+.qf-form{display:grid;gap:12px;max-width:680px;margin:20px auto 0}
 .qf-row{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media(max-width:600px){.qf-row{grid-template-columns:1fr}}
-.qf-field input,.qf-field textarea{padding:12px;border:1px solid var(--b);border-radius:10px;width:100%;font-family:var(--f)}
+.qf-form input,.qf-form textarea{padding:12px;border:1px solid var(--b);border-radius:10px;width:100%;font-family:var(--f)}
 .qf-submit{background:var(--a);color:#fff;border:none;padding:14px 28px;border-radius:10px;font-weight:700}
-footer{padding:24px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-size:.78rem}
-.crumb{padding:14px 0 0;font-size:.74rem;color:var(--g)}
+footer{padding:22px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-size:.78rem}
+.crumb{padding:12px 0 0;font-size:.74rem;color:var(--g)}
 </style></head><body>
 <div class="mn-spacer"></div>
 <nav class="mn-wrap"><div class="mn-bar">
@@ -47,23 +48,23 @@ footer{padding:24px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-siz
 <a href="/free-quote" class="mn-cta-btn">Quote</a>
 </div></div></nav>
 <div class="cx crumb"><a class="lnk" href="/">Home</a> › <a class="lnk" href="/network-cable-repair-brooklyn">Brooklyn</a> › Midwood</div>
-<section class="sw" style="padding-top:20px"><div class="cx">
+<section class="sw" style="padding-top:16px"><div class="cx">
 <div class="hero-grid"><div>
 <div class="hbadge">Avenue J · Avenue M · Coney Island Avenue · Midwood High School</div>
 <h1>Network Cable Repair<br><span class="ac">Midwood, Brooklyn</span></h1>
 <p class="hsub">Ethernet, Cat6, jack and patch panel repair on Avenue J, Avenue M and Coney Island Avenue.</p>
 <div class="br"><a class="bp" href="tel:+13479348335">Call (347) 934-8335</a><a class="bo" href="#quick-form">Free Quote</a></div>
 </div>
-<div class="hero-img"><img src="/images/network-cable-repair/network-cable-inspection-brooklyn.webp" alt="Network cable repair in Midwood, Brooklyn — inspection on Avenue J"></div>
+<div class="hero-img"><img src="/images/network-cable-repair/network-cable-inspection-brooklyn.webp" alt="Network cable repair in Midwood, Brooklyn — inspection on Avenue J" width="1200" height="900"></div>
 </div></div></section>
 <section class="sg"><div class="cx">
 <h2>Ethernet and Cat6 Repair in Midwood</h2>
-<p class="bt"><strong>Avenue J and Avenue M are taxpayer strips: ground-floor stores, apartments above, shared hallway panels and medical suites near Midwood High School.</strong> Midwood takes its name from the Dutch midwout, middle woods. Rate $195/hr, 3-hour min ($585).</p>
+<p class="bt"><strong>Avenue J and Avenue M are taxpayer strips with apartments above and medical suites near Midwood High School.</strong> Named from Dutch midwout, middle woods. Rate $195/hr, 3-hour min ($585).</p>
 </div></section>
 <section class="sw"><div class="cx">
-<figure class="pg-fig"><img src="/images/network-cable-repair/rj45-connector-replacement-brooklyn.webp" alt="RJ45 connector replacement for an Avenue M office in Midwood" loading="lazy"></figure>
-<figure class="pg-fig"><img src="/images/network-cable-repair/switch-port-troubleshooting-brooklyn.webp" alt="Switch port troubleshooting near Midwood High School" loading="lazy"></figure>
-<figure class="pg-fig"><img src="/images/network-cable-repair/access-point-cable-repair-brooklyn.webp" alt="Access point cable repair on Coney Island Avenue in Midwood" loading="lazy"></figure>
+<figure class="pg-fig"><img src="/images/network-cable-repair/rj45-connector-replacement-brooklyn.webp" alt="RJ45 connector replacement for an Avenue M office in Midwood" width="1200" height="900" loading="lazy"></figure>
+<figure class="pg-fig"><img src="/images/network-cable-repair/switch-port-troubleshooting-brooklyn.webp" alt="Switch port troubleshooting near Midwood High School" width="1200" height="900" loading="lazy"></figure>
+<figure class="pg-fig"><img src="/images/network-cable-repair/access-point-cable-repair-brooklyn.webp" alt="Access point cable repair on Coney Island Avenue in Midwood" width="1200" height="900" loading="lazy"></figure>
 </div></section>
 <section class="sg"><div class="cx">
 <h2>Pricing — Midwood</h2>
@@ -77,7 +78,7 @@ footer{padding:24px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-siz
 <form class="qf-form" action="https://api.web3forms.com/submit" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Network Cable Repair Lead — Midwood Brooklyn">
-<div class="qf-row"><div class="qf-field"><input name="name" placeholder="Name *" required></div><div class="qf-field"><input name="phone" placeholder="Phone *" required></div></div>
+<div class="qf-row"><input name="name" placeholder="Name *" required><input name="phone" placeholder="Phone *" required></div>
 <textarea name="message" rows="3" placeholder="Street and what failed"></textarea>
 <label style="font-size:.8rem;color:var(--g)"><input type="checkbox" name="sms_consent" value="yes" required> I consent to follow-up texts.</label>
 <button class="qf-submit" type="submit">Send Request →</button>
