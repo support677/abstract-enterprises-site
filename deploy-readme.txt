@@ -1,31 +1,61 @@
 ==============================================================
-site-rebuild-135  —  Suffolk County page surgical corrections
+FULL SITE DEPLOY — site-rebuild-17
+Deploy Date: April 24, 2026
 ==============================================================
-Cumulative. Baseline: site-rebuild-134. SURGICAL PASS — the
-ONLY file changed is parking-lot-camera-installation-suffolk-
-county.html. No sibling pages, sitemap.xml, _redirects or
-js/mega-nav.js were touched (all verified byte-identical to 134).
 
-FOUR CORRECTIONS (Suffolk page only):
- 1 Schema areaServed in BOTH LocalBusiness and Service reduced
-   to only ["Suffolk County NY"] (removed stray Richmond County
-   NY and New York NY from the SI clone). Brooklyn GBP routing
-   unchanged (1282 Troy Ave, #brooklyn, (347) 934-8335).
- 2 Repaired five Staten Island nav entries that had been geo-
-   swapped to "Suffolk County": the Installation, Repair and
-   Pricing NYC-Borough rows (now /security-camera-installation-
-   staten-island-ny, /security-camera-repair-staten-island,
-   /security-camera-pricing-staten-island -> "Staten Island"),
-   plus the desktop data-area="statenisland" trigger and the
-   mobile mnmPickArea('statenisland') button display text.
-   Legitimate Long Island Suffolk entries left unchanged.
- 3 Corrected the multiplier sentence in the AI Overview section
-   to "the 1.20x Suffolk County tier" (removed the false "same
-   1.20x band as Manhattan, Staten Island and Nassau"). Approved
-   package prices unchanged.
- 4 Moved (not rewrote) the AI OVERVIEW REALITY CHECK section to
-   after EQUIPMENT. Order now: YOUR QUESTIONS ANSWERED ->
-   EQUIPMENT -> AI OVERVIEW REALITY CHECK -> mid-page CTA ->
-   GET IN TOUCH. Its 7 H3 / 3-paragraphs-each structure intact.
+THIS IS A COMPLETE SITE DEPLOY — 1,471 files.
+Drop this entire zip into Netlify as a full replacement.
 
-Full detail: changelog-rebuild-135.md.
+WHAT CHANGED vs PREVIOUS DEPLOY (69eb0c3931fe51afbf129465):
+
+1. REPLACED: security-camera-installation-ulster-county-ny.html
+   - Full 22-element blueprint rebuild
+   - Title trimmed: 78 chars -> 56 chars
+   - Word count: ~2,000 -> 7,001
+   - Removed "The Borough" Brooklyn template contamination
+   - Fixed "across Hudson from Westchester" geography error
+   - 39 real Ulster landmarks/streets added
+   - Element 10.5 AI Overview Reality Check (7 H3s, Angi/HomeAdvisor/Fixr)
+   - 14 unique Reddit-style Q&As + 12 FAQs with FAQPage JSON-LD
+   - Bronx GBP schema (Hudson Valley silo rule)
+   - Cross-links to all 16 camera area silo pages
+
+2. UPDATED: sitemap.xml
+   - Added <lastmod>2026-04-24</lastmod> on Ulster camera URL
+   - Signals Google to recrawl this specific page with priority
+
+UNCHANGED:
+- _redirects (existing 301 from /security-cameras-ulster-county still
+  points to canonical /security-camera-installation-ulster-county-ny)
+- robots.txt
+- All other 1,469 HTML pages
+- CSS, JS, images directories
+
+CANONICAL URL:
+https://www.abstractenterprisessecuritysystems.com/security-camera-installation-ulster-county-ny
+
+POST-DEPLOY CHECKLIST:
+1. Drag this zip into Netlify
+2. Wait for deploy to complete (~2-5 min for 1,471 files)
+3. Verify rebuilt page loads at the canonical URL above
+4. Test 301: /security-cameras-ulster-county -> should redirect to canonical
+5. In Google Search Console:
+   - Sitemaps -> Resubmit sitemap.xml
+   - URL Inspection on canonical URL -> Request Indexing
+6. Monitor GSC "Crawled - currently not indexed" for Ulster URL
+   (expected: flip to "Indexed" within 1-7 days)
+
+AUDIT PASSED:
+[X] Title 56 chars (<=60)
+[X] Word count 7,001 (>=2,500)
+[X] All 22 blueprint elements
+[X] Element 10.5 has 7 H3s
+[X] Angi, HomeAdvisor, Fixr all named in AI Overview section
+[X] 39 real Ulster landmarks/streets verified
+[X] Zero cross-silo contamination
+[X] LocalBusiness + FAQPage JSON-LD valid
+[X] Bronx GBP address (460 E Fordham Rd)
+[X] Silo cross-links to 16 area pages
+[X] Self-reference link corrected to canonical URL
+
+==============================================================
