@@ -202,20 +202,328 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </script>
 </head>
 <body>
-<header class="megaheader" id="megaheader">
-<div class="mh-inner">
-<a href="/" class="mh-logo"><img src="/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="48" loading="eager"></a>
-<button class="mh-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
-<nav class="mh-nav" aria-label="Primary">
-<a href="/services" class="mh-link">Services</a>
-<a href="/areas" class="mh-link">Areas</a>
-<a href="/security-camera-pricing-nyc" class="mh-link">Pricing</a>
-<a href="/about-us" class="mh-link">Company</a>
-<a href="/free-quote" class="mh-link">Free Quote</a>
+<!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
 </nav>
-<div class="mh-cta"><a href="tel:+13479348335" class="mh-phone">(347) 934-8335</a> <a href="/free-quote" class="mh-quote-btn">Get a Free Quote</a></div>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
 </div>
-</header>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
 
 <main>
 <section class="hero" style="background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff;padding:80px 24px 60px">
@@ -277,7 +585,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:#fff">
 <div style="max-width:1180px;margin:0 auto">
-<h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Door Buzzer Problems <span style="color:#f5b31c">Spuyten Duyvil Buildings Face</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-transformer-voltage-test.jpg" alt="Buzzer transformer replacement Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Transformer secondary under test. A sagging reading explains weak buzz and dropped calls.</figcaption></figure><h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Door Buzzer Problems <span style="color:#f5b31c">Spuyten Duyvil Buildings Face</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px">
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
 <h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">40–70 year old original tower infrastructure</h3>
@@ -296,7 +604,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p style="font-size:15px;line-height:1.6;color:#444">Parkway House (3530 HHP) and Skyview-on-the-Hudson sit directly adjacent to the parkway. Constant truck-and-bus vibration breaks pre-1990s wire-nut splices and shakes loose riser cable. Vibration-rated junction boxes + gel-filled marine splices on parkway-adjacent installs.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
-<h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Cloneable legacy 125 kHz HID Prox fobs</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/apartment-handset-door-release-check.jpg" alt="Apartment station repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">In-unit station and door release check on a single dead line.</figcaption></figure><h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Cloneable legacy 125 kHz HID Prox fobs</h3>
 <p style="font-size:15px;line-height:1.6;color:#444">Most postwar towers ran original 1970s–1990s lobby buzzer panels with legacy HID Prox or unencrypted MIFARE for decades. Credentials clone at any locksmith for $5–$20. Migration to encrypted iCLASS Seos / DESFire EV3 + smartphone mobile via ButterflyMX: $18,000–$48,000.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
@@ -319,17 +627,17 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="max-width:1180px;margin:0 auto">
 <h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Spuyten Duyvil Anchor Buildings <span style="color:#f5b31c">& Streets We Work</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px">
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Skyview-on-the-Hudson</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Multi-tower complex on Independence Avenue, ~700+ units. Largest doorman tower scope in Spuyten Duyvil. Multi-elevator floor-restricted scope, attended garage, package room. Per-tower scope $25,000–$48,000.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/basement-buzzer-terminal-panel.jpg" alt="Lobby panel repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Basement terminal cabinet — transformer, amplifier, and relay bank feeding the riser.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Skyview-on-the-Hudson</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Multi-tower complex on Independence Avenue, ~700+ units. Largest doorman tower scope in Spuyten Duyvil. Multi-elevator floor-restricted scope, attended garage, package room. Per-tower scope $25,000–$48,000.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Parkway House (3530 HHP)</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">1955, 216 units, 24-hour doorman, attended garage. Henry Hudson Parkway-adjacent. Vibration-rated hardware required. Doorman desk integration. ButterflyMX dominant platform.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Glen Briar Apartments</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">750 Kappock Street. 160 units across 14 floors. Single-tower doorman scope. Lobby panel + service entrance + garage gate + elevator floor restriction. Per-tower $8,500–$22,000.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">River Terrace Apartments</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">15-story, 4-wing design. Hudson view from every unit. Cliff-edge salt-air exposure. Marine-grade hardware on cliff-facing scope.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">The Winston Churchill</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Postwar doorman co-op tower along the cliff. Standard Spuyten Duyvil tower scope: lobby panel modernization + doorman desk + elevator floor restriction.</p></div>
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">The Presidential</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Postwar doorman co-op tower. Same standard tower scope. ButterflyMX or Aiphone GT-DMB lobby intercom modernization.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-riser-wire-tone-tracing.jpg" alt="Buzzer riser wiring repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Tone-tracing a riser pair to identify the live conductor before any rewire.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">The Presidential</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Postwar doorman co-op tower. Same standard tower scope. ButterflyMX or Aiphone GT-DMB lobby intercom modernization.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">The Henry (2022)</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Six-story luxury rental, 55 units, near the Metro-North station. New-construction ButterflyMX from day one. Service-call scope rather than panel replacement.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Villa Charlotte Bronte</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">2501 Palisade Avenue. Tudor-style castle co-op at the cliff edge. Most photographed building in Spuyten Duyvil. Through-bolt strikes inside frame, concealed Cat6, exterior masonry preservation.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Independence Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Cliff-edge avenue running north–south. Skyview cluster + 1900s–1920s single-family homes with original limestone and brick details. Marine-grade hardware on cliff-side installs.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Palisade Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Cliff-top avenue. Villa Charlotte Bronte (2501 Palisade) plus 1900s–1920s single-family homes. Architecturally sensitive scope, concealed-install historic preservation.</p></div>
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Knolls Crescent / Kappock</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Glen Briar at 750 Kappock. Knolls Crescent attended garage. Hudson Rail Link bus stops connecting to Metro-North station. Tower-scale doorman scope.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/entry-panel-contact-cleaning.jpg" alt="Entry panel buzzer repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Contact cleaning at a lobby panel. Oxidized contacts mimic a dead circuit.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Knolls Crescent / Kappock</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">Glen Briar at 750 Kappock. Knolls Crescent attended garage. Hudson Rail Link bus stops connecting to Metro-North station. Tower-scale doorman scope.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">NYPD 50th Precinct</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0">3450 Kingsbridge Avenue. Patrols Spuyten Duyvil, Riverdale, Kingsbridge. Coordination point for after-hours work or alarm-integrated commercial scope at Tudor / Tower buildings.</p></div>
 </div>
 </div>
@@ -350,7 +658,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you do video intercom upgrades preserving the Tudor exterior at Villa Charlotte Bronte?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/door-release-two-technician-test.jpg" alt="Building buzzer repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Two-point verification — panel and in-unit station tested together.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you do video intercom upgrades preserving the Tudor exterior at Villa Charlotte Bronte?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes — and we always do. The Villa Charlotte Bronte at 2501 Palisade Avenue is the Tudor-style castle co-op perched at the cliff edge above the Hudson — the most photographed building in Spuyten Duyvil. Original masonry, decorative stonework, and ornamental hardware need to stay completely visible. We use through-bolt electric strikes installed inside the door frame so the original Tudor face hardware stays untouched. ButterflyMX or Aiphone GT-DMB reader placement on the inside vestibule wall, not on the exterior masonry. Concealed Cat6 cable runs through existing conduit or up the riser — never surface-mounted on the exterior brick. Same approach applies to the older single-family homes on Palisade and Independence Avenue dating to 1900s–1920s with original limestone and brick details. Per-building scope $1,200–$2,400 for the Villa or comparable historic single-family work.</p>
 </div>
 
@@ -370,7 +678,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"How does SNAD zoning affect buzzer work?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/intercom-handset-station-wiring.jpg" alt="Intercom handset repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Handset station terminals. Cord conductors fatigue where they flex.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"How does SNAD zoning affect buzzer work?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Spuyten Duyvil sits inside a Special Natural Area District (SNAD) — Department of City Planning maintains tight control over development to protect the cliff topography and ecological features. For buzzer / intercom work, SNAD usually doesn't restrict interior installations — lobby panels, doorman desk readers, riser cable, controllers, and door hardware are all interior. SNAD does restrict any exterior modifications that would alter the natural site or the protected landscape: visible exterior wiring, exterior-mounted hardware on architecturally sensitive facades, or modifications to retaining walls and cliff-edge features. We design installs to keep all visible hardware behind existing door frames or interior to the building, with cable runs through existing conduit. For SNAD-sensitive exterior scope (terrace gates, exterior doorbell housing on cliff-edge homes), we coordinate with your expediter or a SNAD liaison before installation.</p>
 </div>
 
@@ -395,7 +703,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Spuyten Duyvil work?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg" alt="Buzzer button repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Call button wiring behind the entry panel faceplate.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Spuyten Duyvil work?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. NYS Low-Voltage Electrical Contractor License #12000287431. Valid throughout NYC including all of Spuyten Duyvil (ZIP 10463, Bronx Community District 8). General liability and workers compensation insurance carried at all times — we provide certificates of insurance naming the co-op corporation, managing agent, building owner, or homeowner on request before work begins. Our Bronx home office at 460 E Fordham Rd is 14–18 minutes from Spuyten Duyvil via the Henry Hudson Parkway south or via West 230th Street through Kingsbridge. NYPD 50th Precinct (3450 Kingsbridge Avenue) patrols Spuyten Duyvil, Riverdale, and Kingsbridge.</p>
 </div>
 </div>
@@ -409,7 +717,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Tower Service-Call Repair</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$245–$485</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Failed lobby reader, dead controller, lost master credential, app-account issue. Standard postwar tower trouble.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Tower System-Wide Trouble</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$850–$2,400</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Riser cable fault on a wing of a 200+ unit tower, system-wide credential reissue, full controller swap.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Single-Family Smart Video Doorbell</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$385–$895</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Independence / Palisade / Netherland cliff-edge home. Marine-grade hardware. Through-bolt frame strikes, concealed cable.</p></div>
-<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Villa Charlotte Bronte / Tudor Co-op</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,200–$2,400</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Tudor exterior preservation. Through-bolt strikes, interior-only visible hardware, concealed Cat6 through existing conduit.</p></div>
+<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-power-supply-service.jpg" alt="Buzzer power supply repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Low-voltage supply service. Output sags before it fails outright.</figcaption></figure><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Villa Charlotte Bronte / Tudor Co-op</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,200–$2,400</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Tudor exterior preservation. Through-bolt strikes, interior-only visible hardware, concealed Cat6 through existing conduit.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Mid-Size Tower Lobby Panel</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$4,500–$12,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Replace 1970s–1990s legacy panel with ButterflyMX, Latch, Brivo, 2N IP Verso. 50–100 unit single-tower scope.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Full IP Video Tower Modernization</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$18,000–$48,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Skyview / 200+ unit doorman tower scale. Full IP video intercom + mobile credentials + doorman desk + elevator integration.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Doorman Desk Integration Add-On</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">+$1,800–$3,500</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Master reader + override panel + camera feed monitor. Add-on to base tower lobby panel scope.</p></div>
@@ -420,7 +728,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff">
 <div style="max-width:1180px;margin:0 auto;text-align:center">
-<h2 style="font-size:36px;font-weight:800;margin-bottom:16px;color:#fff">Combine Buzzer + <span style="color:#f5b31c">Cameras + Access Control + Alarm</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/tenant-call-buzzer-wire-mapping.jpg" alt="Tenant buzzer wiring repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Mapping tenant call pairs against the directory before any station swap.</figcaption></figure><h2 style="font-size:36px;font-weight:800;margin-bottom:16px;color:#fff">Combine Buzzer + <span style="color:#f5b31c">Cameras + Access Control + Alarm</span></h2>
 <p style="font-size:18px;line-height:1.7;opacity:0.9;max-width:900px;margin:0 auto 32px">Spuyten Duyvil postwar towers and Tudor co-ops universally benefit from combining buzzer modernization with security camera coverage, access control, and alarm panel integration on the same scope — same alteration agreement, same riser cable pull, same managing-agent coordination, same doorman shift handoff, one cleanup. Tower lobby panel + lobby cameras + key-fob access + package room reader bundle saves $2,500–$6,000 per tower. Tudor and historic single-family preservation work bundles cleanest in one architectural-preservation visit. Our <a href="/security-camera-installation-bronx-ny" style="color:#f5b31c;font-weight:600">camera installation Bronx</a>, <a href="/access-control-installation-bronx" style="color:#f5b31c;font-weight:600">access control installation</a>, and <a href="/alarm-installation-bronx" style="color:#f5b31c;font-weight:600">alarm installation</a> teams work alongside the buzzer crew.</p>
 <a href="/free-quote" style="display:inline-block;background:#f5b31c;color:#0b1733;padding:18px 36px;border-radius:8px;font-weight:700;text-decoration:none;font-size:18px">Request Combined Spuyten Duyvil Quote →</a>
 </div>
@@ -656,7 +964,7 @@ render(detect());chk();
 <div class="card"><h4>Door Hardware Integration</h4><p><strong>Electric strike buzzer integration</strong>, <strong>buzzer with electric strike installation</strong>, <strong>buzzer with mag lock installation</strong>. <strong>Intercom with access control integration</strong>. <strong>Video intercom with smartphone access</strong>. <strong>Key fob buzzer system integration</strong>, <strong>keypad buzzer system installation</strong>. <strong>Door entry system installation</strong>, <strong>door entry system repair</strong>, <strong>access buzzer system installation</strong>, <strong>lobby buzzer system installation</strong>.</p></div>
 </div>
 
-<h3>Panels &amp; Hardware</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/apartment-buzzer-junction-box-tracing.jpg" alt="Apartment buzzer repair Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Junction box tracing — old splices work loose and read as a dead line.</figcaption></figure><h3>Panels &amp; Hardware</h3>
 <p><strong>Door buzzer panel installation</strong>, <strong>intercom panel installation</strong>, <strong>directory intercom system installation</strong>, <strong>touchscreen intercom installation</strong>. From classic 4-button panels to modern touchscreen directory boards.</p>
 
 <h3>Repair, Replacement &amp; Upgrades</h3>
@@ -681,7 +989,7 @@ render(detect());chk();
 <a href="/door-buzzer-repair-queens-new-york.html" style="color:#fff">Queens</a>
 <a href="/door-buzzer-repair-staten-island-new-york.html" style="color:#fff">Staten Island</a>
 </div>
-<h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-terminal-voltage-measurement.jpg" alt="Door buzzer diagnostic Spuyten Duyvil" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Terminal voltage measured under load, the only reading that means anything.</figcaption></figure><h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
 <div style="display:flex;flex-wrap:wrap;gap:8px"><a href="/door-buzzer-repair-bedford-park-bronx-ny.html">Bedford Park</a> <a href="/door-buzzer-repair-belmont-bronx-ny.html">Belmont</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Heights</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Manor</a> <a href="/door-buzzer-repair-jerome-park-bronx-ny.html">Jerome Park</a> <a href="/door-buzzer-repair-kingsbridge-bronx-ny.html">Kingsbridge</a> <a href="/door-buzzer-repair-kingsbridge-heights-bronx-ny.html">Kingsbridge Heights</a> <a href="/door-buzzer-repair-van-cortlandt-village-bronx-ny.html">Van Cortlandt Village</a> <a href="/door-buzzer-repair-norwood-bronx-ny.html">Norwood</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Riverdale</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Central Riverdale</a> <a href="/door-buzzer-repair-fieldston-bronx-ny.html">Fieldston</a> <a href="/door-buzzer-repair-hudson-hill-bronx-ny.html">Hudson Hill</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">North Riverdale</a> <a href="/door-buzzer-repair-spuyten-duyvil-bronx-ny.html"><strong style="color:var(--accent)">Spuyten Duyvil</strong></a> <a href="/door-buzzer-repair-university-heights-bronx-ny.html">University Heights</a> <a href="/door-buzzer-repair-woodlawn-heights-bronx-ny.html">Woodlawn Heights</a> <a href="/door-buzzer-repair-bathgate-bronx-ny.html">Bathgate</a> <a href="/door-buzzer-repair-claremont-bronx-ny.html">Claremont</a> <a href="/door-buzzer-repair-concourse-bronx-ny.html">Concourse</a> <a href="/door-buzzer-repair-east-tremont-bronx-ny.html">East Tremont</a> <a href="/door-buzzer-repair-highbridge-bronx-ny.html">Highbridge</a> <a href="/door-buzzer-repair-hunts-point-bronx-ny.html">Hunts Point</a> <a href="/door-buzzer-repair-longwood-bronx-ny.html">Longwood</a> <a href="/door-buzzer-repair-foxhurst-bronx-ny.html">Foxhurst</a> <a href="/door-buzzer-repair-woodstock-bronx-ny.html">Woodstock</a> <a href="/door-buzzer-repair-melrose-bronx-ny.html">Melrose</a> <a href="/door-buzzer-repair-morris-heights-bronx-ny.html">Morris Heights</a> <a href="/door-buzzer-repair-morrisania-bronx-ny.html">Morrisania</a> <a href="/door-buzzer-repair-crotona-park-east-bronx-ny.html">Crotona Park East</a> <a href="/door-buzzer-repair-mott-haven-bronx-ny.html">Mott Haven</a> <a href="/door-buzzer-repair-port-morris-bronx-ny.html">Port Morris</a> <a href="/door-buzzer-repair-the-hub-bronx-ny.html">The Hub</a> <a href="/door-buzzer-repair-tremont-bronx-ny.html">Tremont</a> <a href="/door-buzzer-repair-fairmount-bronx-ny.html">Fairmount</a> <a href="/door-buzzer-repair-mount-hope-bronx-ny.html">Mount Hope</a> <a href="/door-buzzer-repair-mount-eden-bronx-ny.html">Mount Eden</a> <a href="/door-buzzer-repair-west-farms-bronx-ny.html">West Farms</a> <a href="/door-buzzer-repair-allerton-bronx-ny.html">Allerton</a> <a href="/door-buzzer-repair-bronxwood-bronx-ny.html">Bronxwood</a> <a href="/door-buzzer-repair-laconia-bronx-ny.html">Laconia</a> <a href="/door-buzzer-repair-baychester-bronx-ny.html">Baychester</a> <a href="/door-buzzer-repair-bronxdale-bronx-ny.html">Bronxdale</a> <a href="/door-buzzer-repair-city-island-bronx-ny.html">City Island</a> <a href="/door-buzzer-repair-co-op-city-bronx-ny.html">Co-op City</a> <a href="/door-buzzer-repair-eastchester-bronx-ny.html">Eastchester</a> <a href="/door-buzzer-repair-edenwald-bronx-ny.html">Edenwald</a> <a href="/door-buzzer-repair-pelham-gardens-bronx-ny.html">Pelham Gardens</a> <a href="/door-buzzer-repair-pelham-parkway-bronx-ny.html">Pelham Parkway</a> <a href="/door-buzzer-repair-wakefield-bronx-ny.html">Wakefield</a> <a href="/door-buzzer-repair-washingtonville-bronx-ny.html">Washingtonville</a> <a href="/door-buzzer-repair-williamsbridge-bronx-ny.html">Williamsbridge</a> <a href="/door-buzzer-repair-olinville-bronx-ny.html">Olinville</a> <a href="/door-buzzer-repair-castle-hill-bronx-ny.html">Castle Hill</a> <a href="/door-buzzer-repair-unionport-bronx-ny.html">Unionport</a> <a href="/door-buzzer-repair-clason-point-bronx-ny.html">Clason Point</a> <a href="/door-buzzer-repair-harding-park-bronx-ny.html">Harding Park</a> <a href="/door-buzzer-repair-country-club-bronx-ny.html">Country Club</a> <a href="/door-buzzer-repair-morris-park-bronx-ny.html">Morris Park</a> <a href="/door-buzzer-repair-indian-village-bronx-ny.html">Indian Village</a> <a href="/door-buzzer-repair-parkchester-bronx-ny.html">Parkchester</a> <a href="/door-buzzer-repair-park-versailles-bronx-ny.html">Park Versailles</a> <a href="/door-buzzer-repair-pelham-bay-bronx-ny.html">Pelham Bay</a> <a href="/door-buzzer-repair-soundview-bronx-ny.html">Soundview</a> <a href="/door-buzzer-repair-bronx-river-bronx-ny.html">Bronx River</a> <a href="/door-buzzer-repair-bruckner-bronx-ny.html">Bruckner</a> <a href="/door-buzzer-repair-schuylerville-bronx-ny.html">Schuylerville</a> <a href="/door-buzzer-repair-throggs-neck-bronx-ny.html">Throggs Neck</a> <a href="/door-buzzer-repair-edgewater-park-bronx-ny.html">Edgewater Park</a> <a href="/door-buzzer-repair-locust-point-bronx-ny.html">Locust Point</a> <a href="/door-buzzer-repair-silver-beach-bronx-ny.html">Silver Beach</a> <a href="/door-buzzer-repair-van-nest-bronx-ny.html">Van Nest</a> <a href="/door-buzzer-repair-westchester-heights-bronx-ny.html">Westchester Heights</a> <a href="/door-buzzer-repair-westchester-square-bronx-ny.html">Westchester Square</a></div>
 </div></div>
 

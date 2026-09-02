@@ -202,20 +202,328 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </script>
 </head>
 <body>
-<header class="megaheader" id="megaheader">
-<div class="mh-inner">
-<a href="/" class="mh-logo"><img src="/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="48" loading="eager"></a>
-<button class="mh-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
-<nav class="mh-nav" aria-label="Primary">
-<a href="/services" class="mh-link">Services</a>
-<a href="/areas" class="mh-link">Areas</a>
-<a href="/security-camera-pricing-nyc" class="mh-link">Pricing</a>
-<a href="/about-us" class="mh-link">Company</a>
-<a href="/free-quote" class="mh-link">Free Quote</a>
+<!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
 </nav>
-<div class="mh-cta"><a href="tel:+13479348335" class="mh-phone">(347) 934-8335</a> <a href="/free-quote" class="mh-quote-btn">Get a Free Quote</a></div>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
 </div>
-</header>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
 
 <main>
 <section class="hero" style="background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff;padding:80px 24px 60px">
@@ -276,7 +584,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:#fff">
 <div style="max-width:1180px;margin:0 auto">
-<h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Throggs Neck Anchors <span style="color:#f5b31c">&amp; Streets We Work</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg" alt="Buzzer button repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Call button wiring behind the entry panel faceplate.</figcaption></figure><h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Throggs Neck Anchors <span style="color:#f5b31c">&amp; Streets We Work</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px">
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-top:4px solid #f5b31c">
 <h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">Fort Schuyler / SUNY Maritime College</h3>
@@ -309,7 +617,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="font-size:13px;color:#0b1733;font-weight:600">Anchorage adjacency scope.</div>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-top:4px solid #f5b31c">
-<h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">Locust Point subsection</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-power-supply-service.jpg" alt="Buzzer power supply repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Low-voltage supply service. Output sags before it fails outright.</figcaption></figure><h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">Locust Point subsection</h3>
 <p style="font-size:15px;line-height:1.6;color:#444;margin-bottom:12px"><strong>Small peninsular waterfront enclave (Pirate Cove).</strong> Bounded by Harding Avenue + Throgs Neck Bridge approach. Locust Point Yacht Club. Marine-grade scope.</p>
 <div style="font-size:13px;color:#0b1733;font-weight:600">Marine premium scope.</div>
 </div>
@@ -345,7 +653,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <section style="padding:64px 24px;background:#fff">
 
 <div style="max-width:1180px;margin:0 auto">
-<h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:24px">Deep <span style="color:#f5b31c">Throggs Neck History</span> — Colonial Settlement Through Modern Suburb</h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/tenant-call-buzzer-wire-mapping.jpg" alt="Tenant buzzer wiring repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Mapping tenant call pairs against the directory before any station swap.</figcaption></figure><h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:24px">Deep <span style="color:#f5b31c">Throggs Neck History</span> — Colonial Settlement Through Modern Suburb</h2>
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:20px">
 
@@ -386,7 +694,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:#f8f9fb">
 <div style="max-width:1180px;margin:0 auto">
-<h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Buzzer / Intercom Systems <span style="color:#f5b31c">We Install in Throggs Neck</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/apartment-buzzer-junction-box-tracing.jpg" alt="Apartment buzzer repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Junction box tracing — old splices work loose and read as a dead line.</figcaption></figure><h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Buzzer / Intercom Systems <span style="color:#f5b31c">We Install in Throggs Neck</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:20px;margin-top:32px">
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c">
 <h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">Brick Two-Family Buzzer Modernization</h3>
@@ -409,7 +717,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p style="font-size:15px;line-height:1.6;color:#444">Italian delis + bakeries + family businesses. Front-door customer entry + after-hours alarm-integrated entry + cleaning crew + supplier delivery tier.</p>
 </div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c">
-<h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">SUNY Maritime / Fort Schuyler Institutional</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-terminal-voltage-measurement.jpg" alt="Door buzzer diagnostic Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Terminal voltage measured under load, the only reading that means anything.</figcaption></figure><h3 style="color:#0b1733;font-size:18px;margin:0 0 12px">SUNY Maritime / Fort Schuyler Institutional</h3>
 <p style="font-size:15px;line-height:1.6;color:#444">Heritage-protected fortification scope. Concealed Cat6 + reader on inside vestibule wall + paint-matched flush-mount. SUNY centralized procurement.</p>
 </div>
 </div>
@@ -441,7 +749,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p style="font-size:15px;line-height:1.6;color:#444">Pre-WWII brick rowhouses occasionally retain knob-and-tube wiring in basements. Pre-install electrical assessment. Selective replacement during install.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
-<h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Cross-Bronx + Bruckner expressway noise</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/intercom-wall-station-replacement.jpg" alt="Intercom station replacement Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Direct-fit wall station replacement keeps the rest of the building original.</figcaption></figure><h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Cross-Bronx + Bruckner expressway noise</h3>
 <p style="font-size:15px;line-height:1.6;color:#444">Northern Throggs Neck buildings within 1-2 blocks of Cross-Bronx + Bruckner Expressway face truck traffic + diesel particulate. Outdoor reader + camera scope adjusted.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
@@ -464,7 +772,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you do SUNY Maritime / Fort Schuyler heritage scope?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. SUNY Maritime College has occupied Fort Schuyler since 1934 (transferred to NY State during the Great Depression, rehabilitated by the WPA, dedicated to the school in 1938). Fort Schuyler itself was begun 1833 + dedicated 1856 as a third-system US fortification under the post-War-of-1812 coastal defense program, named for Major General Philip Schuyler. The fort has been listed on the National Register of Historic Places since 1976. Institutional scope routes through SUNY centralized procurement (different from individual SUNY Maritime tenant scope). Heritage-area sensitivity: concealed Cat6 cable runs entirely through existing conduit, reader placement on inside vestibule wall (never on exterior masonry or carved stone), paint-matched flush-mount only when exterior scope is unavoidable. We're familiar with the fort's St. Mary's Pentagon main installation, Battery Gansevoort, and the campus chapel housed within the connecting stone wall.</p></div>
 
-<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Do you handle Throggs Neck Houses NYCHA scope (1953)?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. Throggs Neck Houses (built 1953 as one of the first low-income public housing projects in NYC, later expanded twice) sits within the peninsula. Standard NYCHA scope: centralized procurement workflow, lobby panel modernization, ButterflyMX or Aiphone IS-IPMV intercom + per-tenant DESFire EV3 fobs + service entrance + side-gate. Per-building $4,500-$11,000. We DO handle Throggs Neck Houses-adjacent private residential and small-commercial buildings on a standard scope basis.</p></div>
+<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/entry-door-frame-wire-splice.jpg" alt="Door entry wiring repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Splice repair inside the entry door frame where conductors flex with the door.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Do you handle Throggs Neck Houses NYCHA scope (1953)?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. Throggs Neck Houses (built 1953 as one of the first low-income public housing projects in NYC, later expanded twice) sits within the peninsula. Standard NYCHA scope: centralized procurement workflow, lobby panel modernization, ButterflyMX or Aiphone IS-IPMV intercom + per-tenant DESFire EV3 fobs + service entrance + side-gate. Per-building $4,500-$11,000. We DO handle Throggs Neck Houses-adjacent private residential and small-commercial buildings on a standard scope basis.</p></div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you handle waterfront condominium marine scope?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. Throggs Neck has up-market waterfront condominiums along Pennyfield Avenue + East River shoreline near the Throgs Neck Bridge — selling for $416,468+ in 2005 dollars even in mid-1980s. Marine scope: galvanized hardware + NEMA 4X enclosures + sealed conduit with marine-grade fittings + gel-filled wire-nut splices in junction boxes + freeze-protected hardware for waterfront docks. +8-12% premium over non-marine pricing, but components last 15-25 years vs 3-5 years for non-marine hardware in this environment.</p></div>
 
@@ -478,7 +786,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"What's the deal with the spelling — Throgs vs Throggs?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Both are correct. The name derives from John Throckmorton, an English Puritan settler who established the first European colony in 1642 with 35 families. Originally "Throckmorton's Neck", the spelling shortened over time. Locals favor the double-G "Throggs", which is also more substantial. Robert Moses dropped a G when officially naming the Throgs Neck Bridge in 1961. Today both spellings appear on official maps and documents. We work all of it.</p></div>
 
-<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"How much does buzzer repair cost in Throggs Neck?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Throggs Neck buzzer pricing depends on building category. Service-call component repair (failed buzzer button, dead amplifier, broken latch): $295-$650. Brick two-family + detached single-family residential modernization: $1,800-$5,500 per house. Tenement-style multi-family lobby panel modernization (4-6 story): $4,500-$11,000 per building. Marine waterfront condominium scope: $2,400-$6,500 per house with +8-12% marine premium. Locust Point Yacht Club / commercial marine: $8,500-$22,000. Throggs Neck Houses NYCHA per-building: $4,500-$11,000. Bridge-anchorage vibration adds +5%. NYC sales tax 8.875%. No travel surcharge — Throggs Neck is 20-25 minutes from our Fordham office via Bruckner Expressway east.</p></div>
+<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/video-intercom-tenant-verification.jpg" alt="Video intercom repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Tenant-side verification after a release-path repair.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"How much does buzzer repair cost in Throggs Neck?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Throggs Neck buzzer pricing depends on building category. Service-call component repair (failed buzzer button, dead amplifier, broken latch): $295-$650. Brick two-family + detached single-family residential modernization: $1,800-$5,500 per house. Tenement-style multi-family lobby panel modernization (4-6 story): $4,500-$11,000 per building. Marine waterfront condominium scope: $2,400-$6,500 per house with +8-12% marine premium. Locust Point Yacht Club / commercial marine: $8,500-$22,000. Throggs Neck Houses NYCHA per-building: $4,500-$11,000. Bridge-anchorage vibration adds +5%. NYC sales tax 8.875%. No travel surcharge — Throggs Neck is 20-25 minutes from our Fordham office via Bruckner Expressway east.</p></div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you upgrade legacy 1990s aluminum-conductor wiring?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. Pre-1990s NYCHA Throggs Neck Houses + some pre-WWII brick rowhouses run aluminum-conductor wiring that's prone to oxidation + connection failure at switches and outlets. Pre-installation electrical assessment (free) identifies aluminum conductor presence. Selective replacement during install, or full electrical-service upgrade by partner licensed electrical contractor ($3,500-$9,500 separate scope). Buzzer install proceeds afterward. Total combined scope $5,300-$16,000 for full modernization.</p></div>
 
@@ -490,7 +798,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Why is Throggs Neck the only Bronx neighborhood that escaped 1970s urban decay?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">A combination of GEOGRAPHIC ISOLATION (the peninsula geography limited burnout-spread from the western South Bronx), STRONG CIVIC INSTITUTIONS (St. Frances de Chantal Church, Preston High School, Monsignor Scanlan High School, the Throggs Neck Houses NYCHA tenant patrol, the Locust Point Yacht Club), and the strong INTERGENERATIONAL ITALIAN-AMERICAN + IRISH-AMERICAN OWNERSHIP STOCK kept the neighborhood largely intact through the 1970s arson-and-disinvestment era. In 1984 the NEW YORK TIMES described Throggs Neck as &ldquo;ONE OF THE LAST MIDDLE- AND UPPER-MIDDLE-CLASS AREAS IN THE BRONX&rdquo; that &ldquo;SEEMS LIKE A WELL-KEPT SUBURB.&rdquo; Even in the mid-1980s, waterfront condominiums were selling for as much as $416,468 in 2005 dollars. As of the 2000 Census, the median household income for census tracts within the neighborhood ranged from $18,000 in less affluent tracts to well over $100,000 for the waterfront tracts near the Throgs Neck Bridge. The 2010 Census combined Schuylerville + Throgs Neck + Edgewater Park population was 44,167. The TRANSIT ISOLATION (the failed 1929-39 Second Avenue Subway extension to Throggs Neck never came to pass) ironically helped — without subway, the neighborhood retained its detached-and-two-family suburban character throughout the 20th century.</p></div>
 
-<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Throggs Neck work?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. NYS Low-Voltage Electrical Contractor License #12000287431. Valid throughout NYC including all of Throggs Neck (ZIP 10465, Bronx Community District 10). General liability and workers compensation insurance carried at all times — we provide certificates of insurance naming the building owner / managing agent / commercial tenant on request before work begins. Our Bronx home office at 460 E Fordham Rd is 20-25 minutes from any Throggs Neck address via Bruckner Expressway east. NYPD 45th Precinct (2877 Barkley Avenue) patrols Throggs Neck plus our other rebuilt sister neighborhoods (Country Club, Pelham Bay, Co-op City, City Island, Westchester Square, Schuylerville, Silver Beach, Edgewater Park).</p></div>
+<div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/weathered-entry-panel-weather-sealing.jpg" alt="Outdoor buzzer panel repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Weather sealing an exposed entry panel against wind-driven rain.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Throggs Neck work?"</h3><p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. NYS Low-Voltage Electrical Contractor License #12000287431. Valid throughout NYC including all of Throggs Neck (ZIP 10465, Bronx Community District 10). General liability and workers compensation insurance carried at all times — we provide certificates of insurance naming the building owner / managing agent / commercial tenant on request before work begins. Our Bronx home office at 460 E Fordham Rd is 20-25 minutes from any Throggs Neck address via Bruckner Expressway east. NYPD 45th Precinct (2877 Barkley Avenue) patrols Throggs Neck plus our other rebuilt sister neighborhoods (Country Club, Pelham Bay, Co-op City, City Island, Westchester Square, Schuylerville, Silver Beach, Edgewater Park).</p></div>
 </div>
 </section>
 
@@ -504,7 +812,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Detached Single-Family Doorbell</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,200-$3,500</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Suburban-feel detached homes. Ring Pro 2 / Nest Doorbell wired + chime + cloud recording integration.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Marine Waterfront Condominium</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$2,400-$6,500</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Pennyfield Avenue + bridge-adjacent waterfront. +8-12% marine premium for galvanized hardware + NEMA 4X enclosures.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Throggs Neck Houses NYCHA</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$4,500-$11,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">1953 NYCHA scope + aluminum-conductor selective replacement. Centralized procurement workflow.</p></div>
-<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Bridge-Anchorage Vibration Add</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">+5%</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">For buildings within 3 blocks of Throgs Neck Bridge anchorage in Locust Point. On top of marine premium for combined +13-17%.</p></div>
+<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/vandal-damaged-panel-replacement.jpg" alt="Lobby panel replacement Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Faceplate replacement after impact damage at a street-facing entrance.</figcaption></figure><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Bridge-Anchorage Vibration Add</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">+5%</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">For buildings within 3 blocks of Throgs Neck Bridge anchorage in Locust Point. On top of marine premium for combined +13-17%.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Locust Point Yacht Club</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$8,500-$22,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Member-only access + dock entry + restaurant/galley + alarm-integrated. Marine-grade hardware throughout.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">East Tremont Commercial</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,800-$5,500</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Italian deli + bakery + family business. Front-door + after-hours alarm + cleaning crew + supplier delivery tier.</p></div>
 </div>
@@ -738,7 +1046,7 @@ render(detect());chk();
 </script>
 
 <section><div class="container">
-<h2>Door Buzzer &amp; Intercom Service in Throggs Neck, Bronx &#8212; Every System Type</h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg" alt="Door buzzer repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Lobby directory panel diagnostics — separating a panel fault from a riser or in-unit fault.</figcaption></figure><h2>Door Buzzer &amp; Intercom Service in Throggs Neck, Bronx &#8212; Every System Type</h2>
 <p>Looking for <strong>door buzzer repair</strong> or <strong>intercom installation</strong> in Throggs Neck? We provide <strong>door buzzer installation</strong>, <strong>door buzzer service</strong>, <strong>door buzzer system installation</strong>, <strong>door buzzer system repair</strong>. <strong>Licensed intercom installer</strong> and <strong>insured buzzer installation company</strong>. <strong>Same day door buzzer repair</strong> and <strong>emergency intercom repair</strong> across Throggs Neck, Bronx. <strong>Best door buzzer repair service</strong>. <strong>Affordable intercom installation</strong>. <strong>Door buzzer installer</strong>.</p>
 
 <h3>Systems We Install &amp; Repair in Throggs Neck</h3>
@@ -773,7 +1081,7 @@ render(detect());chk();
 <a href="/door-buzzer-repair-queens-new-york.html" style="color:#fff">Queens</a>
 <a href="/door-buzzer-repair-staten-island-new-york.html" style="color:#fff">Staten Island</a>
 </div>
-<h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-door-release-strike-test.jpg" alt="Electric strike door release repair Throggs Neck" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Strike release testing at the frame — separating preload from an electrical fault.</figcaption></figure><h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
 <div style="display:flex;flex-wrap:wrap;gap:8px"><a href="/door-buzzer-repair-bedford-park-bronx-ny.html">Bedford Park</a> <a href="/door-buzzer-repair-belmont-bronx-ny.html">Belmont</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Heights</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Manor</a> <a href="/door-buzzer-repair-jerome-park-bronx-ny.html">Jerome Park</a> <a href="/door-buzzer-repair-kingsbridge-bronx-ny.html">Kingsbridge</a> <a href="/door-buzzer-repair-kingsbridge-heights-bronx-ny.html">Kingsbridge Heights</a> <a href="/door-buzzer-repair-van-cortlandt-village-bronx-ny.html">Van Cortlandt Village</a> <a href="/door-buzzer-repair-norwood-bronx-ny.html">Norwood</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Riverdale</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Central Riverdale</a> <a href="/door-buzzer-repair-fieldston-bronx-ny.html">Fieldston</a> <a href="/door-buzzer-repair-hudson-hill-bronx-ny.html">Hudson Hill</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">North Riverdale</a> <a href="/door-buzzer-repair-spuyten-duyvil-bronx-ny.html">Spuyten Duyvil</a> <a href="/door-buzzer-repair-university-heights-bronx-ny.html">University Heights</a> <a href="/door-buzzer-repair-woodlawn-heights-bronx-ny.html">Woodlawn Heights</a> <a href="/door-buzzer-repair-bathgate-bronx-ny.html">Bathgate</a> <a href="/door-buzzer-repair-claremont-bronx-ny.html">Claremont</a> <a href="/door-buzzer-repair-concourse-bronx-ny.html">Concourse</a> <a href="/door-buzzer-repair-east-tremont-bronx-ny.html">East Tremont</a> <a href="/door-buzzer-repair-highbridge-bronx-ny.html">Highbridge</a> <a href="/door-buzzer-repair-hunts-point-bronx-ny.html">Hunts Point</a> <a href="/door-buzzer-repair-longwood-bronx-ny.html">Longwood</a> <a href="/door-buzzer-repair-foxhurst-bronx-ny.html">Foxhurst</a> <a href="/door-buzzer-repair-woodstock-bronx-ny.html">Woodstock</a> <a href="/door-buzzer-repair-melrose-bronx-ny.html">Melrose</a> <a href="/door-buzzer-repair-morris-heights-bronx-ny.html">Morris Heights</a> <a href="/door-buzzer-repair-morrisania-bronx-ny.html">Morrisania</a> <a href="/door-buzzer-repair-crotona-park-east-bronx-ny.html">Crotona Park East</a> <a href="/door-buzzer-repair-mott-haven-bronx-ny.html">Mott Haven</a> <a href="/door-buzzer-repair-port-morris-bronx-ny.html">Port Morris</a> <a href="/door-buzzer-repair-the-hub-bronx-ny.html">The Hub</a> <a href="/door-buzzer-repair-tremont-bronx-ny.html">Tremont</a> <a href="/door-buzzer-repair-fairmount-bronx-ny.html">Fairmount</a> <a href="/door-buzzer-repair-mount-hope-bronx-ny.html">Mount Hope</a> <a href="/door-buzzer-repair-mount-eden-bronx-ny.html">Mount Eden</a> <a href="/door-buzzer-repair-west-farms-bronx-ny.html">West Farms</a> <a href="/door-buzzer-repair-allerton-bronx-ny.html">Allerton</a> <a href="/door-buzzer-repair-bronxwood-bronx-ny.html">Bronxwood</a> <a href="/door-buzzer-repair-laconia-bronx-ny.html">Laconia</a> <a href="/door-buzzer-repair-baychester-bronx-ny.html">Baychester</a> <a href="/door-buzzer-repair-bronxdale-bronx-ny.html">Bronxdale</a> <a href="/door-buzzer-repair-city-island-bronx-ny.html">City Island</a> <a href="/door-buzzer-repair-co-op-city-bronx-ny.html">Co-op City</a> <a href="/door-buzzer-repair-eastchester-bronx-ny.html">Eastchester</a> <a href="/door-buzzer-repair-edenwald-bronx-ny.html">Edenwald</a> <a href="/door-buzzer-repair-pelham-gardens-bronx-ny.html">Pelham Gardens</a> <a href="/door-buzzer-repair-pelham-parkway-bronx-ny.html">Pelham Parkway</a> <a href="/door-buzzer-repair-wakefield-bronx-ny.html">Wakefield</a> <a href="/door-buzzer-repair-washingtonville-bronx-ny.html">Washingtonville</a> <a href="/door-buzzer-repair-williamsbridge-bronx-ny.html">Williamsbridge</a> <a href="/door-buzzer-repair-olinville-bronx-ny.html">Olinville</a> <a href="/door-buzzer-repair-castle-hill-bronx-ny.html">Castle Hill</a> <a href="/door-buzzer-repair-unionport-bronx-ny.html">Unionport</a> <a href="/door-buzzer-repair-clason-point-bronx-ny.html">Clason Point</a> <a href="/door-buzzer-repair-harding-park-bronx-ny.html">Harding Park</a> <a href="/door-buzzer-repair-country-club-bronx-ny.html">Country Club</a> <a href="/door-buzzer-repair-morris-park-bronx-ny.html">Morris Park</a> <a href="/door-buzzer-repair-indian-village-bronx-ny.html">Indian Village</a> <a href="/door-buzzer-repair-parkchester-bronx-ny.html">Parkchester</a> <a href="/door-buzzer-repair-park-versailles-bronx-ny.html">Park Versailles</a> <a href="/door-buzzer-repair-pelham-bay-bronx-ny.html">Pelham Bay</a> <a href="/door-buzzer-repair-soundview-bronx-ny.html">Soundview</a> <a href="/door-buzzer-repair-bronx-river-bronx-ny.html">Bronx River</a> <a href="/door-buzzer-repair-bruckner-bronx-ny.html">Bruckner</a> <a href="/door-buzzer-repair-schuylerville-bronx-ny.html">Schuylerville</a> <a href="/door-buzzer-repair-throggs-neck-bronx-ny.html"><strong style="color:var(--accent)">Throggs Neck</strong></a> <a href="/door-buzzer-repair-edgewater-park-bronx-ny.html">Edgewater Park</a> <a href="/door-buzzer-repair-locust-point-bronx-ny.html">Locust Point</a> <a href="/door-buzzer-repair-silver-beach-bronx-ny.html">Silver Beach</a> <a href="/door-buzzer-repair-van-nest-bronx-ny.html">Van Nest</a> <a href="/door-buzzer-repair-westchester-heights-bronx-ny.html">Westchester Heights</a> <a href="/door-buzzer-repair-westchester-square-bronx-ny.html">Westchester Square</a></div>
 </div></div>
 

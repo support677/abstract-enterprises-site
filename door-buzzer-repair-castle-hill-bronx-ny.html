@@ -202,20 +202,328 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </script>
 </head>
 <body>
-<header class="megaheader" id="megaheader">
-<div class="mh-inner">
-<a href="/" class="mh-logo"><img src="/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="48" loading="eager"></a>
-<button class="mh-toggle" aria-label="Open menu" aria-expanded="false"><span></span><span></span><span></span></button>
-<nav class="mh-nav" aria-label="Primary">
-<a href="/services" class="mh-link">Services</a>
-<a href="/areas" class="mh-link">Areas</a>
-<a href="/security-camera-pricing-nyc" class="mh-link">Pricing</a>
-<a href="/about-us" class="mh-link">Company</a>
-<a href="/free-quote" class="mh-link">Free Quote</a>
+<!-- ═══ MEGA-NAV START ═══ -->
+<link rel="stylesheet" href="/css/mega-nav.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+<div class="mn-spacer"></div>
+<nav class="mn-wrap" role="navigation" aria-label="Main navigation">
+  <div class="mn-bar">
+    <a href="/" class="mn-logo" aria-label="Abstract Enterprises Security Systems — Home">
+      <img src="/images/logo.png" alt="Abstract Enterprises Security Systems" width="180" height="42">
+    </a>
+    <div class="mn-links">
+      <div class="mn-link-item" data-mega="services">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Services<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--services" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick a service</div>
+              <a class="mn-svc-trigger mn-svc-active" data-svc="cameras" onclick="mnDeskSvc(this)">📹 Security Cameras</a>
+              <a class="mn-svc-trigger" data-svc="wirelesscameras" onclick="mnDeskSvc(this)">📶 Wireless Cameras<span style="font-size:9px;background:#22c55e;color:#fff;padding:2px 6px;border-radius:3px;margin-left:8px;vertical-align:middle">NEW</span></a>
+              <a class="mn-svc-trigger" data-svc="intercoms" onclick="mnDeskSvc(this)">🚪 Intercoms</a>
+              <a class="mn-svc-trigger" data-svc="buzzers" onclick="mnDeskSvc(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-svc-trigger" data-svc="alarms" onclick="mnDeskSvc(this)">🚨 Alarm Installation</a>
+              <a class="mn-svc-trigger" data-svc="firealarms" onclick="mnDeskSvc(this)">🔥 Fire Alarms</a>
+              <a class="mn-svc-trigger" data-svc="cabling" onclick="mnDeskSvc(this)">⚡ Structured Cabling</a>
+              <a class="mn-svc-trigger" data-svc="tv" onclick="mnDeskSvc(this)">📺 TV Installation</a>
+              <a class="mn-svc-trigger" data-svc="accesscontrol" onclick="mnDeskSvc(this)">🔑 Access Control</a>
+              <a class="mn-svc-trigger" data-svc="homeautomation" onclick="mnDeskSvc(this)">🏠 Home Automation</a>
+              <a class="mn-svc-trigger" data-svc="videowall" onclick="mnDeskSvc(this)">📺 Video Wall Installation</a>
+              <a class="mn-svc-trigger" data-svc="solartrailer" onclick="mnDeskSvc(this)">☀️ Solar Surveillance Trailer</a>
+              <a href="/install-your-own-camera-system" class="mn-svc-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e;margin-top:8px">✅ Got Your Own System?</a>
+              <div class="mn-mega-cta" style="margin-top:8px">
+                <a href="/free-quote">Free Quote →</a>
+                <a href="/camera-calculator">Calculator →</a>
+                <div class="mn-mega-phone"><a href="tel:3479348335">(347) 934-8335</a></div>
+              </div>
+            </div>
+            <div class="mn-mega-right" id="mnDeskSvcAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-installation-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-installation-brooklyn-ny">Brooklyn</a>
+              <a href="/security-camera-installation-manhattan-ny">Manhattan</a>
+              <a href="/security-camera-installation-queens-ny">Queens</a>
+              <a href="/security-camera-installation-bronx-ny">Bronx</a>
+              <a href="/security-camera-installation-staten-island-ny">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-installation-long-island-ny">Long Island</a>
+              <a href="/security-camera-installation-nassau-county-ny">Nassau County</a>
+              <a href="/security-camera-installation-suffolk-county-ny">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-installation-hudson-valley-ny">Hudson Valley</a>
+              <a href="/security-camera-installation-westchester-county-ny">Westchester</a>
+              <a href="/security-camera-installation-rockland-county-ny">Rockland</a>
+              <a href="/security-camera-installation-orange-county-ny">Orange</a>
+              <a href="/security-camera-installation-putnam-county-ny">Putnam</a>
+              <a href="/security-camera-installation-dutchess-county-ny">Dutchess</a>
+              <a href="/security-camera-installation-ulster-county-ny">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="areas">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Areas<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--areas" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pick your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a class="mn-area-trigger mn-svc-active" data-area="brooklyn" onclick="mnDeskArea(this)">Brooklyn</a>
+              <a class="mn-area-trigger" data-area="manhattan" onclick="mnDeskArea(this)">Manhattan</a>
+              <a class="mn-area-trigger" data-area="queens" onclick="mnDeskArea(this)">Queens</a>
+              <a class="mn-area-trigger" data-area="bronx" onclick="mnDeskArea(this)">Bronx</a>
+              <a class="mn-area-trigger" data-area="statenisland" onclick="mnDeskArea(this)">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a class="mn-area-trigger" data-area="longisland" onclick="mnDeskArea(this)">Long Island</a>
+              <a class="mn-area-trigger" data-area="nassau" onclick="mnDeskArea(this)">Nassau County</a>
+              <a class="mn-area-trigger" data-area="suffolk" onclick="mnDeskArea(this)">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a class="mn-area-trigger" data-area="hudsonvalley" onclick="mnDeskArea(this)">Hudson Valley</a>
+              <a class="mn-area-trigger" data-area="westchester" onclick="mnDeskArea(this)">Westchester</a>
+              <a class="mn-area-trigger" data-area="rockland" onclick="mnDeskArea(this)">Rockland</a>
+              <a class="mn-area-trigger" data-area="orange" onclick="mnDeskArea(this)">Orange</a>
+              <a class="mn-area-trigger" data-area="putnam" onclick="mnDeskArea(this)">Putnam</a>
+              <a class="mn-area-trigger" data-area="dutchess" onclick="mnDeskArea(this)">Dutchess</a>
+              <a class="mn-area-trigger" data-area="ulster" onclick="mnDeskArea(this)">Ulster</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskAreaSvcs">
+              <div class="mn-mega-col-head">Services in Brooklyn</div>
+              <a href="/security-camera-installation-brooklyn-ny">📹 Security Cameras</a>
+              <a href="/intercom-installation-brooklyn-ny">🚪 Intercoms</a>
+              <a href="/door-buzzer-repair-brooklyn-new-york">🔔 Door Buzzer Repair</a>
+              <a href="/alarm-installation-brooklyn">🚨 Alarm Installation</a>
+              <a href="/fire-alarm-installation-brooklyn-ny">🔥 Fire Alarms</a>
+              <a href="/structured-cabling-installation-brooklyn">⚡ Structured Cabling</a>
+              <a href="/tv-installation-brooklyn">📺 TV Installation</a>
+              <a href="/access-control-installation-brooklyn">🔑 Access Control</a>
+            </div>
+          </div>
+        </div>
+      </div>
+            <div class="mn-link-item" data-mega="repair">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Repair<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--repair" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">🔧 Pick a repair</div>
+              <a class="mn-rpr-trigger mn-svc-active" data-rpr="camerarepair" onclick="mnDeskRepair(this)">📹 Security Camera Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="buzzerrepair" onclick="mnDeskRepair(this)">🔔 Door Buzzer Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="intercomrepair" onclick="mnDeskRepair(this)">🚪 Intercom Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="alarmrepair" onclick="mnDeskRepair(this)">🚨 Alarm Repair</a>
+              <a class="mn-rpr-trigger" data-rpr="firealarmrepair" onclick="mnDeskRepair(this)">🔥 Fire Alarm Repair</a>
+              <a href="tel:8004860943" class="mn-rpr-emergency-cta">📞 Emergency: (800) 486-0943</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskRepairAreas">
+              <div class="mn-mega-col-head">Choose your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-repair-nyc">NYC (All Boroughs)</a>
+              <a href="/security-camera-repair-brooklyn">Brooklyn</a>
+              <a href="/security-camera-repair-manhattan">Manhattan</a>
+              <a href="/security-camera-repair-queens">Queens</a>
+              <a href="/security-camera-repair-bronx">Bronx</a>
+              <a href="/security-camera-repair-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-repair-long-island">Long Island</a>
+              <a href="/security-camera-repair-nassau-county">Nassau County</a>
+              <a href="/security-camera-repair-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-repair-hudson-valley">Hudson Valley</a>
+              <a href="/security-camera-repair-westchester-county">Westchester</a>
+              <a href="/security-camera-repair-rockland-county">Rockland</a>
+              <a href="/security-camera-repair-orange-county">Orange</a>
+              <a href="/security-camera-repair-putnam-county">Putnam</a>
+              <a href="/security-camera-repair-dutchess-county">Dutchess</a>
+              <a href="/security-camera-repair-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="tools">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Pricing<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--tools" role="menu">
+          <div class="mn-mega-split">
+            <div class="mn-mega-left">
+              <div class="mn-mega-col-head">Pricing by service</div>
+              <a class="mn-price-trigger mn-svc-active" data-price="cam" onclick="mnDeskPrice(this)">📹 Camera Pricing</a>
+              <a class="mn-price-trigger" data-price="cable" onclick="mnDeskPrice(this)">⚡ Cabling Pricing</a>
+              <a class="mn-price-trigger" data-price="intercom" onclick="mnDeskPrice(this)">🚪 Intercom Pricing</a>
+              <a class="mn-price-trigger" data-price="buzzer" onclick="mnDeskPrice(this)">🔔 Buzzer Repair Pricing</a>
+              <div class="mn-mega-col-head" style="margin-top:14px">Calculators</div>
+              <a href="/camera-calculator" class="mn-price-trigger" style="border-right:none">📹 Camera Calculator</a>
+              <a href="/alarm-calculator" class="mn-price-trigger" style="border-right:none">🚨 Alarm Calculator</a>
+              <a href="/build-cabling-system" class="mn-price-trigger" style="border-right:none">⚡ Cabling Quote Builder</a>
+              <a href="/install-your-own-camera-system" class="mn-price-trigger" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);border-right:none;color:#22c55e">✅ Got Your Own System?</a>
+            </div>
+            <div class="mn-mega-right" id="mnDeskPriceAreas">
+              <div class="mn-mega-col-head">Select your area</div>
+              <div class="mn-mega-col-head mn-area-group">NYC Boroughs</div>
+              <a href="/security-camera-pricing-brooklyn">Brooklyn</a>
+              <a href="/security-camera-pricing-manhattan">Manhattan</a>
+              <a href="/security-camera-pricing-queens">Queens</a>
+              <a href="/security-camera-pricing-bronx">Bronx</a>
+              <a href="/security-camera-pricing-staten-island">Staten Island</a>
+              <div class="mn-mega-col-head mn-area-group">Long Island</div>
+              <a href="/security-camera-pricing-nassau-county">Nassau County</a>
+              <a href="/security-camera-pricing-suffolk-county">Suffolk County</a>
+              <div class="mn-mega-col-head mn-area-group">Hudson Valley</div>
+              <a href="/security-camera-pricing-westchester-county">Westchester</a>
+              <a href="/security-camera-pricing-rockland-county">Rockland</a>
+              <a href="/security-camera-pricing-orange-county">Orange</a>
+              <a href="/security-camera-pricing-putnam-county">Putnam</a>
+              <a href="/security-camera-pricing-dutchess-county">Dutchess</a>
+              <a href="/security-camera-pricing-ulster-county">Ulster</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item" data-mega="company">
+        <button type="button" aria-expanded="false" aria-haspopup="true">Company<svg class="mn-chev" viewBox="0 0 10 6" fill="none"><path d="M1 1l4 4 4-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+        <div class="mn-mega mn-mega--company" role="menu">
+          <div class="mn-mega-col">
+            <a href="/about-us" role="menuitem">About Us</a>
+            <a href="/contact-us" role="menuitem">Contact Us</a>
+            <a href="/careers" role="menuitem">Careers</a>
+            <a href="/privacy-policy" role="menuitem">Privacy Policy</a>
+            <div class="mn-mega-col-head" style="margin-top:12px">Offices</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              <strong style="color:#1a1a1a">Brooklyn:</strong> 1282 Troy Ave, Brooklyn, NY 11203<br>
+              <strong style="color:#1a1a1a">Bronx:</strong> 460 E Fordham Rd, Bronx, NY 10458
+            </div>
+            <div class="mn-mega-col-head" style="margin-top:8px">Credentials</div>
+            <div style="font-size:13px;color:#555;padding:4px 8px;line-height:1.6">
+              NYS License #12000287431<br>
+              Licensed &amp; Insured
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="mn-link-item"><a href="/free-quote">Free Quote</a></div>
+    </div>
+    <div class="mn-cta-wrap">
+      <a href="tel:3479348335" class="mn-cta-phone">(347) 934-8335</a>
+      <a href="/free-quote" class="mn-cta-btn">Get a Free Quote</a>
+    </div>
+    <button class="mn-hamburger" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  </div>
 </nav>
-<div class="mh-cta"><a href="tel:+13479348335" class="mh-phone">(347) 934-8335</a> <a href="/free-quote" class="mh-quote-btn">Get a Free Quote</a></div>
+<div class="mn-mobile" id="mnMobile">
+  <!-- STEP 0: Choose your path -->
+  <div class="mnm-step mnm-active" id="mnmHome">
+    <div class="mnm-prompt">What are you looking for?</div>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmServices')">
+      <span class="mnm-path-icon">🔧</span>
+      <span><strong>Browse by Service</strong><br><span class="mnm-path-sub">Pick a service, then choose your area</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmAreas')">
+      <span class="mnm-path-icon">📍</span>
+      <span><strong>Browse by Area</strong><br><span class="mnm-path-sub">Pick your area, then see all services</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <button class="mnm-path-btn" onclick="mnmShowStep('mnmPricing')">
+      <span class="mnm-path-icon">💰</span>
+      <span><strong>Pricing &amp; Calculators</strong><br><span class="mnm-path-sub">Camera pricing, cabling quotes, alarm calculator</span></span>
+      <span class="mnm-path-arrow">›</span>
+    </button>
+    <a href="/about-us" class="mn-mobile-link">About Us</a>
+  <a href="/contact-us" class="mn-mobile-link">Contact Us</a>
+  <a href="/careers" class="mn-mobile-link">Careers</a>
+  <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
+    <a href="tel:3479348335" class="mn-mobile-phone">(347) 934-8335</a>
+  </div>
+
+  <!-- STEP 1A: Service list -->
+  <div class="mnm-step" id="mnmServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick a service</div>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cameras')">📹 Security Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('wirelesscameras')">📶 Wireless Cameras<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('intercoms')">🚪 Intercoms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('buzzers')">🔔 Door Buzzer Repair<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('alarms')">🚨 Alarm Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('firealarms')">🔥 Fire Alarms<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('cabling')">⚡ Structured Cabling<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('tv')">📺 TV Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('accesscontrol')">🔑 Access Control<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('homeautomation')">🏠 Home Automation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('videowall')">📺 Video Wall Installation<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickService('solartrailer')">☀️ Solar Surveillance Trailer<span class="mnm-path-arrow">›</span></button>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.06);color:#22c55e;font-weight:700">✅ Got Your Own System?</a>
+    <div class="mnm-divider"></div>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎬 Home Theatre<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
+    <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
+  </div>
+
+  <!-- STEP 2A: Area picker (after service picked) -->
+  <div class="mnm-step" id="mnmServiceAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
+    <div class="mnm-prompt">Now pick your area</div>
+    <div class="mnm-picked" id="mnmPickedSvc"></div>
+        <div id="mnmSvcAreaList"></div>
+  </div>
+
+  <!-- STEP 1B: Area list -->
+  <div class="mnm-step" id="mnmAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
+    <div class="mnm-prompt">Pick your area</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('brooklyn')">Brooklyn<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('manhattan')">Manhattan<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('queens')">Queens<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('bronx')">Bronx<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('statenisland')">Staten Island<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Long Island</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('longisland')">Long Island<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('nassau')">Nassau County<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('suffolk')">Suffolk County<span class="mnm-path-arrow">›</span></button>
+    <div class="mnm-col-head">Hudson Valley</div>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('hudsonvalley')">Hudson Valley<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('westchester')">Westchester<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('rockland')">Rockland<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('orange')">Orange<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('putnam')">Putnam<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
+  </div>
+
+  <!-- STEP 2B: Services in that area -->
+  <div class="mnm-step" id="mnmAreaServices">
+    <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
+    <div class="mnm-prompt">Services available</div>
+    <div class="mnm-picked" id="mnmPickedArea"></div>
+    <div id="mnmAreaSvcList"></div>
+  </div>
+
+  <!-- PRICING -->
+  <div class="mnm-step" id="mnmPricing">
+    <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
+    <div class="mnm-prompt">Pricing &amp; Tools</div>
+    <div class="mnm-col-head">Pick a service for pricing</div>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cam')">📹 Camera Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <button class="mnm-svc-btn" onclick="mnmPickPricing('cable')">⚡ Cabling Pricing<span class="mnm-path-arrow">&rsaquo;</span></button>
+    <a href="/intercom-pricing" class="mnm-svc-btn">🚪 Intercom Pricing</a>
+    <a href="/door-buzzer-repair-pricing" class="mnm-svc-btn">🔔 Buzzer Repair Pricing</a>
+    <div class="mnm-divider"></div>
+    <div class="mnm-col-head">Calculators</div>
+    <a href="/camera-calculator" class="mnm-svc-btn">📹 Camera System Calculator</a>
+    <a href="/alarm-calculator" class="mnm-svc-btn">🚨 Alarm Calculator</a>
+    <a href="/build-cabling-system" class="mnm-svc-btn">⚡ Cabling Quote Builder</a>
+    <a href="/install-your-own-camera-system" class="mnm-svc-btn" style="background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.2);color:#22c55e">✅ Got Your Own System?</a>
+  </div>
+  <!-- PRICING AREA PICKER -->
+  <div class="mnm-step" id="mnmPricingAreas">
+    <button class="mnm-back" onclick="mnmShowStep('mnmPricing')">&larr; Back</button>
+    <div class="mnm-prompt">Select your area</div>
+    <div class="mnm-picked" id="mnmPickedPrice"></div>
+    <div id="mnmPriceAreaList"></div>
+  </div>
 </div>
-</header>
+<script src="/js/mega-nav.js?v=wifi17"></script>
+<!-- ═══ MEGA-NAV END ═══ -->
 
 <main>
 <section class="hero" style="background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff;padding:80px 24px 60px">
@@ -277,7 +585,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:#fff">
 <div style="max-width:1180px;margin:0 auto">
-<h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Door Buzzer Problems <span style="color:#f5b31c">Castle Hill Buildings Face</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/lobby-entry-panel-button-wiring.jpg" alt="Buzzer button repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Call button wiring behind the entry panel faceplate.</figcaption></figure><h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Door Buzzer Problems <span style="color:#f5b31c">Castle Hill Buildings Face</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:20px">
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
 <h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Two-family separate per-unit chime routing</h3>
@@ -296,7 +604,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p style="font-size:15px;line-height:1.6;color:#444">Castle Hill Avenue + side-street 4–6 story apartments built 1950s–1970s still running original Aiphone LE / NuTone NM-200 / Cromaglas. Components dry out, splices give out. Replacement with ButterflyMX or Aiphone GT-DMB $4,500–$11,000.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
-<h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Castle Hill Point luxury Mediterranean villa scope</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-power-supply-service.jpg" alt="Buzzer power supply repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Low-voltage supply service. Output sags before it fails outright.</figcaption></figure><h3 style="font-size:17px;color:#0b1733;margin:0 0 8px">Castle Hill Point luxury Mediterranean villa scope</h3>
 <p style="font-size:15px;line-height:1.6;color:#444">Distinct from typical residential — gated community, infinity deck perimeter, high-end finishes, two-family configuration. Marine-grade hardware mandatory. Architecturally-sensitive Mediterranean villa exterior preservation. Per-villa $1,200–$2,800.</p>
 </div>
 <div style="background:#f8f9fb;padding:24px;border-radius:8px;border-left:4px solid #f5b31c">
@@ -319,17 +627,17 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="max-width:1180px;margin:0 auto">
 <h2 style="font-size:36px;font-weight:800;color:#0b1733;margin-bottom:16px">Castle Hill Streets <span style="color:#f5b31c">& Anchors We Work</span></h2>
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:20px">
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Castle Hill Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Commercial + residential spine.</strong> Streetcar legacy. Castle Hill Avenue Business Improvement District (started June 2012). 4–6 story apartments + ground-floor retail mix.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/tenant-call-buzzer-wire-mapping.jpg" alt="Tenant buzzer wiring repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Mapping tenant call pairs against the directory before any station swap.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Castle Hill Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Commercial + residential spine.</strong> Streetcar legacy. Castle Hill Avenue Business Improvement District (started June 2012). 4–6 story apartments + ground-floor retail mix.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Castle Hill Point</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Southern peninsula tip.</strong> Luxury Mediterranean villa waterfront cluster + post-2000 attached rowhouses. East River + Whitestone Bridge views. Castle Hill Park (8.83 acres).</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Zerega Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Three-family brick triplex corridor.</strong> 437 Zerega and similar 2000-build semi-attached three-family brick. 4BR duplex + 2BR + studio.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Pugsley Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>South-central Castle Hill.</strong> Two-family + three-family brick. Adjacent to NYCHA Castle Hill Houses footprint. Pugsley Creek Park access.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Havemeyer Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>North–south corridor.</strong> Two-family + three-family residential. Mid-section transitions to NYCHA Castle Hill Houses.</p></div>
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Lacombe Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Waterfront-adjacent residential.</strong> Castle Hill Houses runs Lacombe to Seward. Marine-grade hardware on waterfront-side installs.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/apartment-buzzer-junction-box-tracing.jpg" alt="Apartment buzzer repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Junction box tracing — old splices work loose and read as a dead line.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Lacombe Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Waterfront-adjacent residential.</strong> Castle Hill Houses runs Lacombe to Seward. Marine-grade hardware on waterfront-side installs.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">White Plains Road</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Western boundary + commercial.</strong> One of three primary commercial corridors. Mixed retail + ground-floor commercial in mixed-use buildings.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Westchester Avenue / Lafayette Avenue</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Northern boundary.</strong> IRT Pelham Line (6 train) elevated runs along Westchester Avenue. Most early development concentrated here near subway.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Westchester Creek (Eastern Edge)</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Tidal creek boundary.</strong> Opens into Pugsley Creek + East River. Waterfront-adjacent buildings need marine-grade hardware.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Pugsley Creek Park</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>84-acre wetland park.</strong> Connects to Castle Hill Park at peninsula tip. Walking paths, marshes, kayak launch. Park-edge residential scope.</p></div>
-<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Mitchell-Lama Jamie Towers</h3><p style="font-size:15px;color:#444;line-height:1.6;margin:0"><strong>State-supervised cooperative.</strong> HCR / DHCR oversight (like Co-op City). 6–12 week approval cycles for major capital scope. Project-specific quote.</p></div>
+<div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-terminal-voltage-measurement.jpg" alt="Door buzzer diagnostic Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Terminal voltage measured under load, the only reading that means anything.</figcaption></figure><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">Mitchell-Lama Jamie Towers</h3><p style="font-size:15px;color:#444;line-height:1.6;margin:0"><strong>State-supervised cooperative.</strong> HCR / DHCR oversight (like Co-op City). 6–12 week approval cycles for major capital scope. Project-specific quote.</p></div>
 <div style="background:#fff;padding:20px;border-radius:8px;border-left:4px solid #f5b31c"><h3 style="font-size:16px;margin:0 0 8px;color:#0b1733">NYPD 43rd Precinct (900 Fteley Ave)</h3><p style="font-size:14px;color:#444;line-height:1.6;margin:0"><strong>Patrols Castle Hill, Soundview, Clason Point.</strong> Coordination point for after-hours commercial / alarm work. NYCHA P.S.A. 8 (2794 Randall Ave) patrols Castle Hill Houses separately.</p></div>
 </div>
 </div>
@@ -350,7 +658,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you do the post-2000 Castle Hill Point attached rowhouse cluster scope?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/intercom-wall-station-replacement.jpg" alt="Intercom station replacement Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Direct-fit wall station replacement keeps the rest of the building original.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Can you do the post-2000 Castle Hill Point attached rowhouse cluster scope?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. The largest remaining collection of vacant parcels in Castle Hill was developed in 2000 with modern two-story, two-unit attached rowhouses near Castle Hill Point — the southernmost peninsula tip between Westchester Creek and Pugsley Creek. Standard scope: shared front-entrance reader for the cluster (where applicable) + per-unit fob credential + video doorbell at every front door + side-gate fob + perimeter sensor. Per-unit $385–$895. Per-cluster scope (when an HOA-managed grouping needs unified credential management) $8,500–$25,000. We coordinate with the cluster's HOA on alteration agreements where applicable. The Castle Hill Point post-2000 rowhouse cluster is similar in scope pattern to West Farms's 1990s townhouse rebuild — modern attached construction with shared entrances.</p>
 </div>
 
@@ -370,7 +678,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"What about the Mitchell-Lama Jamie Towers scope?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/entry-door-frame-wire-splice.jpg" alt="Door entry wiring repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Splice repair inside the entry door frame where conductors flex with the door.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"What about the Mitchell-Lama Jamie Towers scope?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Jamie Towers is a Mitchell-Lama state-supervised cooperative housing complex taking up significant land area in the southern part of Castle Hill alongside the NYCHA Castle Hill Houses. Like all Mitchell-Lama developments, Jamie Towers is supervised by the NYS Division of Housing and Community Renewal (HCR / DHCR) — capital projects above certain thresholds need HCR sign-off. We provide HCR-compliant scope-of-work documentation, certificate of insurance naming the Jamie Towers Corporation, NYS license documentation, and Mitchell-Lama-specific budget impact summaries when board / HCR review requires. Approval cycles 6–12 weeks for major capital projects; faster for budgeted maintenance under existing contracts. Project-specific quote because Jamie Towers governance is its own scope distinct from the smaller commercial / co-op work on Castle Hill Avenue.</p>
 </div>
 
@@ -395,7 +703,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 
 <div style="background:#f8f9fb;padding:28px;border-radius:8px;margin-bottom:16px;border-left:4px solid #f5b31c">
-<h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Castle Hill work?"</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/video-intercom-tenant-verification.jpg" alt="Video intercom repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Tenant-side verification after a release-path repair.</figcaption></figure><h3 style="font-size:18px;color:#0b1733;margin:0 0 8px">"Are you licensed for Castle Hill work?"</h3>
 <p style="font-size:15px;line-height:1.7;color:#444;margin:0">Yes. NYS Low-Voltage Electrical Contractor License #12000287431. Valid throughout NYC including all of Castle Hill (ZIPs 10462, 10472, 10473, Bronx Community District 9). General liability and workers compensation insurance carried at all times — we provide certificates of insurance naming the homeowner, co-op corporation, managing agent, building owner, or HOA on request before work begins. Our Bronx home office at 460 E Fordham Rd is 18–22 minutes from any Castle Hill address via the Bruckner Expressway south. NYPD 43rd Precinct (900 Fteley Avenue) patrols Castle Hill, Soundview, and Clason Point. NYCHA P.S.A. 8 (2794 Randall Avenue, Throgs Neck section) patrols NYCHA Castle Hill Houses separately.</p>
 </div>
 </div>
@@ -409,7 +717,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Single-Station Diagnostic</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$245–$385</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">One station can't be heard or push-button dead. Common two-family brick house failure pattern.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Two-Family Brick House</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$985–$2,200</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Owner upstairs + basement in-law / rental. Separate per-unit chime + video doorbell + side-gate fob.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Three-Family Brick Triplex</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,400–$3,200</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Zerega / similar 2000-build semi-attached. 4BR duplex + 2BR + studio. Aiphone GT-DMB or ButterflyMX.</p></div>
-<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Castle Hill Point Waterfront Villa</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,200–$2,800</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Mediterranean villa gated community. Marine-grade 316 stainless + IP67 + Aiphone marine-rated strikes. East River infinity deck scope.</p></div>
+<div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><figure style="margin:34px 0"><img src="/images/buzzer-repair/weathered-entry-panel-weather-sealing.jpg" alt="Outdoor buzzer panel repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Weather sealing an exposed entry panel against wind-driven rain.</figcaption></figure><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Castle Hill Point Waterfront Villa</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$1,200–$2,800</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Mediterranean villa gated community. Marine-grade 316 stainless + IP67 + Aiphone marine-rated strikes. East River infinity deck scope.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Post-2000 Castle Hill Point Cluster</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$8,500–$25,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">Modern attached two-story rowhouse cluster, HOA-managed. Shared front-entrance + per-unit fob + video doorbell + side-gate.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">4–6 Story Apartment Lobby Panel</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">$4,500–$11,000</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">1950s–1970s era. Replace Aiphone LE / NuTone / Cromaglas with ButterflyMX or Aiphone GT-DMB. Castle Hill Avenue + side streets.</p></div>
 <div style="background:#fff;padding:24px;border-radius:8px;border-top:4px solid #f5b31c"><h3 style="margin:0 0 8px;color:#0b1733;font-size:18px">Mitchell-Lama Jamie Towers</h3><div style="font-size:24px;color:#0b1733;font-weight:700;margin-bottom:8px">Project Quote</div><p style="font-size:14px;line-height:1.6;color:#444;margin:0">State-supervised cooperative. HCR / DHCR oversight. 6–12 week approval cycles. Project-specific.</p></div>
@@ -420,7 +728,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 <section style="padding:64px 24px;background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff">
 <div style="max-width:1180px;margin:0 auto;text-align:center">
-<h2 style="font-size:36px;font-weight:800;margin-bottom:16px;color:#fff">Combine Buzzer + <span style="color:#f5b31c">Cameras + Access Control + Alarm</span></h2>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/vandal-damaged-panel-replacement.jpg" alt="Lobby panel replacement Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Faceplate replacement after impact damage at a street-facing entrance.</figcaption></figure><h2 style="font-size:36px;font-weight:800;margin-bottom:16px;color:#fff">Combine Buzzer + <span style="color:#f5b31c">Cameras + Access Control + Alarm</span></h2>
 <p style="font-size:18px;line-height:1.7;opacity:0.9;max-width:900px;margin:0 auto 32px">Castle Hill two-family brick houses, three-family triplexes, post-2000 Castle Hill Point rowhouse clusters, and waterfront luxury villas all benefit from combining buzzer modernization with security camera coverage, access control, and alarm panel integration on the same scope. Two-family scope: separate per-unit chime + front-door video doorbell + perimeter cameras + side-gate fob bundle saves $400–$1,200. Three-family triplex scope: video doorbell + side-entrance doorbell + perimeter sensor + alarm integration bundle saves $600–$1,800. Castle Hill Point luxury villa scope: smart lock + video doorbell + infinity-deck cameras + perimeter sensor bundle saves $800–$2,400. Apartment lobby modernization scope: lobby panel + lobby cameras + key fob entry + package room bundle saves $1,800–$4,500. Our <a href="/security-camera-installation-bronx-ny" style="color:#f5b31c;font-weight:600">camera installation Bronx</a>, <a href="/access-control-installation-bronx" style="color:#f5b31c;font-weight:600">access control installation</a>, and <a href="/alarm-installation-bronx" style="color:#f5b31c;font-weight:600">alarm installation</a> teams work alongside the buzzer crew.</p>
 <a href="/free-quote" style="display:inline-block;background:#f5b31c;color:#0b1733;padding:18px 36px;border-radius:8px;font-weight:700;text-decoration:none;font-size:18px">Request Combined Castle Hill Quote →</a>
 </div>
@@ -656,7 +964,7 @@ render(detect());chk();
 <div class="card"><h4>Door Hardware Integration</h4><p><strong>Electric strike buzzer integration</strong>, <strong>buzzer with electric strike installation</strong>, <strong>buzzer with mag lock installation</strong>. <strong>Intercom with access control integration</strong>. <strong>Video intercom with smartphone access</strong>. <strong>Key fob buzzer system integration</strong>, <strong>keypad buzzer system installation</strong>. <strong>Door entry system installation</strong>, <strong>door entry system repair</strong>, <strong>access buzzer system installation</strong>, <strong>lobby buzzer system installation</strong>.</p></div>
 </div>
 
-<h3>Panels &amp; Hardware</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/lobby-directory-panel-diagnostics.jpg" alt="Door buzzer repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Lobby directory panel diagnostics — separating a panel fault from a riser or in-unit fault.</figcaption></figure><h3>Panels &amp; Hardware</h3>
 <p><strong>Door buzzer panel installation</strong>, <strong>intercom panel installation</strong>, <strong>directory intercom system installation</strong>, <strong>touchscreen intercom installation</strong>. From classic 4-button panels to modern touchscreen directory boards.</p>
 
 <h3>Repair, Replacement &amp; Upgrades</h3>
@@ -681,7 +989,7 @@ render(detect());chk();
 <a href="/door-buzzer-repair-queens-new-york.html" style="color:#fff">Queens</a>
 <a href="/door-buzzer-repair-staten-island-new-york.html" style="color:#fff">Staten Island</a>
 </div>
-<h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
+<figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-door-release-strike-test.jpg" alt="Electric strike door release repair Castle Hill" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Strike release testing at the frame — separating preload from an electrical fault.</figcaption></figure><h3 style="color:#fff;margin-bottom:14px">Bronx Neighborhoods</h3>
 <div style="display:flex;flex-wrap:wrap;gap:8px"><a href="/door-buzzer-repair-bedford-park-bronx-ny.html">Bedford Park</a> <a href="/door-buzzer-repair-belmont-bronx-ny.html">Belmont</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Heights</a> <a href="/door-buzzer-repair-fordham-bronx-ny.html">Fordham Manor</a> <a href="/door-buzzer-repair-jerome-park-bronx-ny.html">Jerome Park</a> <a href="/door-buzzer-repair-kingsbridge-bronx-ny.html">Kingsbridge</a> <a href="/door-buzzer-repair-kingsbridge-heights-bronx-ny.html">Kingsbridge Heights</a> <a href="/door-buzzer-repair-van-cortlandt-village-bronx-ny.html">Van Cortlandt Village</a> <a href="/door-buzzer-repair-norwood-bronx-ny.html">Norwood</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Riverdale</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">Central Riverdale</a> <a href="/door-buzzer-repair-fieldston-bronx-ny.html">Fieldston</a> <a href="/door-buzzer-repair-hudson-hill-bronx-ny.html">Hudson Hill</a> <a href="/door-buzzer-repair-riverdale-bronx-ny.html">North Riverdale</a> <a href="/door-buzzer-repair-spuyten-duyvil-bronx-ny.html">Spuyten Duyvil</a> <a href="/door-buzzer-repair-university-heights-bronx-ny.html">University Heights</a> <a href="/door-buzzer-repair-woodlawn-heights-bronx-ny.html">Woodlawn Heights</a> <a href="/door-buzzer-repair-bathgate-bronx-ny.html">Bathgate</a> <a href="/door-buzzer-repair-claremont-bronx-ny.html">Claremont</a> <a href="/door-buzzer-repair-concourse-bronx-ny.html">Concourse</a> <a href="/door-buzzer-repair-east-tremont-bronx-ny.html">East Tremont</a> <a href="/door-buzzer-repair-highbridge-bronx-ny.html">Highbridge</a> <a href="/door-buzzer-repair-hunts-point-bronx-ny.html">Hunts Point</a> <a href="/door-buzzer-repair-longwood-bronx-ny.html">Longwood</a> <a href="/door-buzzer-repair-foxhurst-bronx-ny.html">Foxhurst</a> <a href="/door-buzzer-repair-woodstock-bronx-ny.html">Woodstock</a> <a href="/door-buzzer-repair-melrose-bronx-ny.html">Melrose</a> <a href="/door-buzzer-repair-morris-heights-bronx-ny.html">Morris Heights</a> <a href="/door-buzzer-repair-morrisania-bronx-ny.html">Morrisania</a> <a href="/door-buzzer-repair-crotona-park-east-bronx-ny.html">Crotona Park East</a> <a href="/door-buzzer-repair-mott-haven-bronx-ny.html">Mott Haven</a> <a href="/door-buzzer-repair-port-morris-bronx-ny.html">Port Morris</a> <a href="/door-buzzer-repair-the-hub-bronx-ny.html">The Hub</a> <a href="/door-buzzer-repair-tremont-bronx-ny.html">Tremont</a> <a href="/door-buzzer-repair-fairmount-bronx-ny.html">Fairmount</a> <a href="/door-buzzer-repair-mount-hope-bronx-ny.html">Mount Hope</a> <a href="/door-buzzer-repair-mount-eden-bronx-ny.html">Mount Eden</a> <a href="/door-buzzer-repair-west-farms-bronx-ny.html">West Farms</a> <a href="/door-buzzer-repair-allerton-bronx-ny.html">Allerton</a> <a href="/door-buzzer-repair-bronxwood-bronx-ny.html">Bronxwood</a> <a href="/door-buzzer-repair-laconia-bronx-ny.html">Laconia</a> <a href="/door-buzzer-repair-baychester-bronx-ny.html">Baychester</a> <a href="/door-buzzer-repair-bronxdale-bronx-ny.html">Bronxdale</a> <a href="/door-buzzer-repair-city-island-bronx-ny.html">City Island</a> <a href="/door-buzzer-repair-co-op-city-bronx-ny.html">Co-op City</a> <a href="/door-buzzer-repair-eastchester-bronx-ny.html">Eastchester</a> <a href="/door-buzzer-repair-edenwald-bronx-ny.html">Edenwald</a> <a href="/door-buzzer-repair-pelham-gardens-bronx-ny.html">Pelham Gardens</a> <a href="/door-buzzer-repair-pelham-parkway-bronx-ny.html">Pelham Parkway</a> <a href="/door-buzzer-repair-wakefield-bronx-ny.html">Wakefield</a> <a href="/door-buzzer-repair-washingtonville-bronx-ny.html">Washingtonville</a> <a href="/door-buzzer-repair-williamsbridge-bronx-ny.html">Williamsbridge</a> <a href="/door-buzzer-repair-olinville-bronx-ny.html">Olinville</a> <a href="/door-buzzer-repair-castle-hill-bronx-ny.html"><strong style="color:var(--accent)">Castle Hill</strong></a> <a href="/door-buzzer-repair-unionport-bronx-ny.html">Unionport</a> <a href="/door-buzzer-repair-clason-point-bronx-ny.html">Clason Point</a> <a href="/door-buzzer-repair-harding-park-bronx-ny.html">Harding Park</a> <a href="/door-buzzer-repair-country-club-bronx-ny.html">Country Club</a> <a href="/door-buzzer-repair-morris-park-bronx-ny.html">Morris Park</a> <a href="/door-buzzer-repair-indian-village-bronx-ny.html">Indian Village</a> <a href="/door-buzzer-repair-parkchester-bronx-ny.html">Parkchester</a> <a href="/door-buzzer-repair-park-versailles-bronx-ny.html">Park Versailles</a> <a href="/door-buzzer-repair-pelham-bay-bronx-ny.html">Pelham Bay</a> <a href="/door-buzzer-repair-soundview-bronx-ny.html">Soundview</a> <a href="/door-buzzer-repair-bronx-river-bronx-ny.html">Bronx River</a> <a href="/door-buzzer-repair-bruckner-bronx-ny.html">Bruckner</a> <a href="/door-buzzer-repair-schuylerville-bronx-ny.html">Schuylerville</a> <a href="/door-buzzer-repair-throggs-neck-bronx-ny.html">Throggs Neck</a> <a href="/door-buzzer-repair-edgewater-park-bronx-ny.html">Edgewater Park</a> <a href="/door-buzzer-repair-locust-point-bronx-ny.html">Locust Point</a> <a href="/door-buzzer-repair-silver-beach-bronx-ny.html">Silver Beach</a> <a href="/door-buzzer-repair-van-nest-bronx-ny.html">Van Nest</a> <a href="/door-buzzer-repair-westchester-heights-bronx-ny.html">Westchester Heights</a> <a href="/door-buzzer-repair-westchester-square-bronx-ny.html">Westchester Square</a></div>
 </div></div>
 
