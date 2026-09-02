@@ -139,6 +139,28 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .hf-ok{display:none;padding:32px 24px;text-align:center}
 .hf-ok.show{display:block}
 @media(max-width:900px){.hf-card{display:none!important}}
+@media(max-width:900px){.wc-hero-grid{grid-template-columns:1fr!important;gap:28px!important}}@media(max-width:600px){.wc-hero-img{display:none}}
+
+.wcf-card{background:#fff;border-radius:18px;box-shadow:0 20px 60px rgba(0,0,0,.35);overflow:hidden;width:100%;max-width:440px;margin-left:auto}
+.wcf-head{background:#0b1733;padding:20px 26px 16px;text-align:center;border-bottom:3px solid #f5b31c}
+.wcf-title{font-size:1.12rem;font-weight:800;color:#fff;margin:0 0 4px}
+.wcf-sub{font-size:.78rem;color:rgba(255,255,255,.6);margin:0}
+.wcf-form{padding:18px 22px 16px;display:flex;flex-direction:column;gap:10px}
+.wcf-form input[type=text],.wcf-form input[type=tel],.wcf-form input[type=email],.wcf-form select,.wcf-form textarea{
+ font-family:inherit;font-size:.86rem;padding:11px 12px;border:1px solid #e5e7eb;border-radius:9px;background:#fff;color:#111827;outline:none;width:100%;transition:border-color .18s,box-shadow .18s}
+.wcf-form input:focus,.wcf-form select:focus,.wcf-form textarea:focus{border-color:#0b1733;box-shadow:0 0 0 3px rgba(11,23,51,.09)}
+.wcf-form select{cursor:pointer;-webkit-appearance:none;appearance:none;background-image:url("data:image/svg+xml,%3Csvg width='12' height='8' viewBox='0 0 12 8' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%236b7280' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 13px center;padding-right:36px}
+.wcf-form textarea{resize:vertical;min-height:62px}
+.wcf-row{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.wcf-consent{display:flex;align-items:flex-start;gap:8px;font-size:.7rem;color:#6b7280;line-height:1.5;cursor:pointer}
+.wcf-consent input{margin-top:2px;accent-color:#0b1733;flex-shrink:0;width:14px;height:14px}
+.wcf-btn{font-family:inherit;width:100%;background:#f5b31c;color:#0b1733;font-weight:800;font-size:.95rem;padding:13px;border-radius:9px;border:none;cursor:pointer;transition:filter .18s}
+.wcf-btn:hover{filter:brightness(.94)}
+.wcf-btn:disabled{opacity:.6;cursor:not-allowed}
+.wcf-ok{display:none;padding:34px 24px;text-align:center}
+.wcf-foot{font-size:.72rem;color:#6b7280;text-align:center;padding:0 22px 16px;line-height:1.55}
+@media(max-width:900px){.wc-hero-grid{grid-template-columns:1fr!important;gap:30px!important}.wcf-card{margin:0 auto}}
+
 </style>
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
@@ -529,8 +551,9 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <!-- ═══ MEGA-NAV END ═══ -->
 
 <main>
-<section class="hero" style="background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff;padding:80px 24px 60px">
-<div style="max-width:1180px;margin:0 auto">
+<section style="background:linear-gradient(135deg,#0b1733 0%,#10245a 100%);color:#fff;padding:112px 24px 64px">
+<div style="max-width:1180px;margin:0 auto;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:52px;align-items:center" class="wc-hero-grid">
+<div>
 <div style="display:flex;flex-wrap:wrap;gap:12px;margin-bottom:24px">
 <div style="background:rgba(255,255,255,0.1);padding:8px 16px;border-radius:24px;font-size:14px">📋 NYS LIC #12000287431</div>
 <div style="background:rgba(245,179,28,0.95);color:#0b1733;padding:8px 16px;border-radius:24px;font-size:14px;font-weight:600">⚡ All 48 Municipalities</div>
@@ -541,6 +564,65 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div style="display:flex;gap:16px;flex-wrap:wrap">
 <a href="tel:+19148772578" style="background:#f5b31c;color:#0b1733;padding:18px 32px;border-radius:8px;font-weight:700;text-decoration:none;display:inline-block;font-size:18px">📞 Call (914) 877-2578</a>
 <a href="/free-quote" style="background:rgba(255,255,255,0.1);color:#fff;padding:18px 32px;border-radius:8px;font-weight:600;text-decoration:none;display:inline-block;font-size:18px;border:1px solid rgba(255,255,255,0.3)">Get a Free Quote →</a>
+</div>
+</div>
+<div class="wcf-card">
+<div class="wcf-head">
+<p class="wcf-title">Get a Free Quote</p>
+<p class="wcf-sub">Westchester County &middot; we call back within the hour</p>
+</div>
+<form class="wcf-form" id="wcf" action="https://api.web3forms.com/submit" method="POST">
+<input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
+<input type="hidden" name="subject" value="Door Buzzer Repair — Westchester County">
+<input type="hidden" name="from_name" value="Abstract Enterprises Website">
+<input type="hidden" name="page" value="/door-buzzer-repair-westchester-county">
+<input type="checkbox" name="botcheck" style="display:none">
+<div class="wcf-row">
+<input type="text" name="name" placeholder="Full Name *" required>
+<input type="tel" name="phone" placeholder="Phone *" required>
+</div>
+<div class="wcf-row">
+<input type="email" name="email" placeholder="Email">
+<select name="municipality" required>
+<option value="" disabled selected>Municipality *</option>
+<option>Yonkers</option><option>Mount Vernon</option><option>New Rochelle</option>
+<option>White Plains</option><option>Peekskill</option><option>Rye</option>
+<option>Scarsdale</option><option>Bronxville</option><option>Eastchester / Tuckahoe</option>
+<option>Larchmont / Mamaroneck</option><option>Port Chester / Rye Brook</option><option>Harrison</option>
+<option>Pelham / Pelham Manor</option><option>Greenburgh / Hartsdale</option>
+<option>Tarrytown / Sleepy Hollow</option><option>Dobbs Ferry / Hastings / Irvington</option>
+<option>Ossining / Croton-on-Hudson</option><option>Mount Kisco / Bedford / Katonah</option>
+<option>Chappaqua / Armonk / Pleasantville</option><option>Yorktown / Cortlandt</option>
+<option>Other Westchester municipality</option>
+</select>
+</div>
+<select name="problem" required>
+<option value="" disabled selected>What is it doing? *</option>
+<option>Buzzer works but the door will not unlock</option>
+<option>No sound / no power at the panel</option>
+<option>Buzzer will not stop buzzing</option>
+<option>Only one apartment is dead</option>
+<option>Static, humming, or one-way audio</option>
+<option>Call button not working</option>
+<option>Panel damaged or weather-worn</option>
+<option>Not sure &mdash; needs diagnosis</option>
+</select>
+<select name="property_type" required>
+<option value="" disabled selected>Property type *</option>
+<option>Apartment building / walk-up</option><option>Co-op</option><option>Condo</option>
+<option>Single-family home</option><option>Two- or three-family</option>
+<option>Storefront / commercial</option><option>Office / medical</option><option>Other</option>
+</select>
+<textarea name="message" placeholder="Building address, number of units, how long it has been out" rows="3"></textarea>
+<label class="wcf-consent"><input type="checkbox" name="sms_consent" value="yes" required>I consent to follow-up &amp; informational text messages. Msg frequency varies. Msg &amp; data rates may apply. Reply STOP to opt out. <a href="/privacy-policy" style="color:#0b5cd5" target="_blank">Privacy Policy</a>.</label>
+<button type="submit" class="wcf-btn" id="wcf-btn">Send Request &rarr;</button>
+</form>
+<div class="wcf-ok" id="wcf-ok">
+<div style="font-size:30px;margin-bottom:8px">&#x2705;</div>
+<p style="font-size:1rem;font-weight:800;color:#111827;margin:0 0 4px">Request Sent</p>
+<p style="font-size:.82rem;color:#6b7280;margin:0">We will call you back within the hour.</p>
+</div>
+<p class="wcf-foot">Or call <a href="tel:+19148772578" style="color:#0b1733;font-weight:700">(914) 877-2578</a> &middot; NYS LIC #12000287431</p>
 </div>
 </div>
 </section>
@@ -731,5 +813,17 @@ render(detect());chk();
 <div style="background:var(--primary,#0a2540);color:#fff;padding:45px 0 90px"><div class="container">
 <h3 style="color:#fff;margin-bottom:14px">Door Buzzer &amp; Intercom Repair &#8212; All 16 Service Areas</h3><div style="font-size:.9rem;margin-bottom:6px"><a href="/" style="color:var(--accent,#e63946);text-decoration:none">&#8592; Home</a></div><h3 style="color:#fff;margin:22px 0 12px;font-size:1rem">New York City</h3><div style="display:flex;flex-wrap:wrap;gap:14px;font-size:.9rem"><a href="/door-buzzer-repair-nyc" style="color:#fff;text-decoration:none">NYC (Hub)</a> <a href="/door-buzzer-repair-bronx-new-york" style="color:#fff;text-decoration:none">Bronx</a> <a href="/door-buzzer-repair-brooklyn-new-york" style="color:#fff;text-decoration:none">Brooklyn</a> <a href="/door-buzzer-repair-manhattan-new-york" style="color:#fff;text-decoration:none">Manhattan</a> <a href="/door-buzzer-repair-queens-new-york" style="color:#fff;text-decoration:none">Queens</a> <a href="/door-buzzer-repair-staten-island-new-york" style="color:#fff;text-decoration:none">Staten Island</a></div><h3 style="color:#fff;margin:22px 0 12px;font-size:1rem">Long Island</h3><div style="display:flex;flex-wrap:wrap;gap:14px;font-size:.9rem"><a href="/door-buzzer-repair-long-island-ny" style="color:#fff;text-decoration:none">Long Island (Hub)</a> <a href="/door-buzzer-repair-nassau-county-new-york" style="color:#fff;text-decoration:none">Nassau County</a> <a href="/door-buzzer-repair-suffolk-county-new-york" style="color:#fff;text-decoration:none">Suffolk County</a></div><h3 style="color:#fff;margin:22px 0 12px;font-size:1rem">Hudson Valley</h3><div style="display:flex;flex-wrap:wrap;gap:14px;font-size:.9rem"><a href="/door-buzzer-repair-hudson-valley-ny" style="color:#fff;text-decoration:none">Hudson Valley (Hub)</a> <a href="/door-buzzer-repair-rockland-county" style="color:#fff;text-decoration:none">Rockland County</a> <a href="/door-buzzer-repair-orange-county-new-york" style="color:#fff;text-decoration:none">Orange County</a> <a href="/door-buzzer-repair-putnam-county-new-york" style="color:#fff;text-decoration:none">Putnam County</a> <a href="/door-buzzer-repair-dutchess-county-new-york" style="color:#fff;text-decoration:none">Dutchess County</a> <a href="/door-buzzer-repair-ulster-county-new-york" style="color:#fff;text-decoration:none">Ulster County</a></div><figure style="margin:34px 0"><img src="/images/buzzer-repair/buzzer-transformer-voltage-test.jpg" alt="Buzzer transformer replacement Westchester" loading="lazy" width="1200" height="800" style="width:100%;height:auto;border-radius:12px;display:block"><figcaption style="font-size:.85rem;color:#6b7280;margin-top:10px;line-height:1.6">Transformer secondary under test. A sagging reading explains weak buzz and dropped calls.</figcaption></figure><h3 style="color:#fff;margin:22px 0 12px;font-size:1rem">Westchester County Coverage &#8212; All 48 Municipalities</h3><p style="color:rgba(255,255,255,.72);font-size:.88rem;line-height:1.8;margin:0"><strong style="color:#fff">Cities:</strong> Yonkers &middot; Mount Vernon &middot; New Rochelle &middot; White Plains &middot; Peekskill &middot; Rye<br><strong style="color:#fff">Towns &amp; Villages:</strong> Greenburgh &middot; Hartsdale &middot; Edgemont &middot; Scarsdale &middot; Eastchester &middot; Bronxville &middot; Tuckahoe &middot; Mamaroneck &middot; Larchmont &middot; Harrison &middot; Rye Brook &middot; Port Chester &middot; Pelham &middot; Pelham Manor &middot; Mount Pleasant &middot; Pleasantville &middot; Briarcliff Manor &middot; Tarrytown &middot; Sleepy Hollow &middot; Irvington &middot; Dobbs Ferry &middot; Hastings-on-Hudson &middot; Ardsley &middot; Elmsford &middot; Ossining &middot; Croton-on-Hudson &middot; Cortlandt &middot; Yorktown &middot; Bedford &middot; Bedford Hills &middot; Katonah &middot; Mount Kisco &middot; New Castle &middot; Chappaqua &middot; Millwood &middot; North Castle &middot; Armonk &middot; Pound Ridge &middot; Lewisboro &middot; Somers</p></div></div>
 
+<script>
+(function(){var f=document.getElementById('wcf');if(!f)return;
+f.addEventListener('submit',function(e){e.preventDefault();
+var b=document.getElementById('wcf-btn');b.disabled=true;b.textContent='Sending...';
+fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+body:JSON.stringify(Object.fromEntries(new FormData(f)))})
+.then(function(r){return r.json()}).then(function(d){
+if(d.success){f.style.display='none';document.getElementById('wcf-ok').style.display='block'}
+else{b.disabled=false;b.innerHTML='Send Request &rarr;';alert('Something went wrong. Please call (914) 877-2578.')}
+}).catch(function(){b.disabled=false;b.innerHTML='Send Request &rarr;';alert('Connection error. Please call (914) 877-2578.')});
+});})();
+</script>
 </body>
 </html>
