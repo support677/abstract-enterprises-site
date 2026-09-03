@@ -80,7 +80,7 @@ h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;line-height:1.1;letter-spa
 .acard:hover{transform:translateY(-3px);box-shadow:0 8px 30px rgba(0,0,0,.06)}
 .acard h3{font-size:.95rem;font-weight:700;margin-bottom:4px}.acard p{font-size:.82rem;color:var(--g);line-height:1.5}
 .acard a{display:inline-block;margin-top:8px;color:var(--a);font-weight:700;font-size:.82rem;text-decoration:none}
-.rv{opacity:0;transform:translateY(32px);transition:opacity .65s ease,transform .65s ease}.rv.vis{opacity:1;transform:translateY(0)}
+.js-rv .rv{opacity:0;transform:translateY(32px);transition:opacity .65s ease,transform .65s ease}.rv.vis{opacity:1;transform:translateY(0)}
 .lnk{color:var(--a);text-decoration:none;font-weight:700}
 .socials{display:flex;gap:12px;flex-wrap:wrap;margin-top:16px}
 .soc{width:42px;height:42px;border-radius:10px;background:var(--l);border:1px solid var(--b);display:flex;align-items:center;justify-content:center;text-decoration:none;font-size:18px}
@@ -217,6 +217,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .hero--bz .hf-consent,.hero--bz .hf-note{color:rgba(255,255,255,.55)!important}
 
 </style>
+<script>document.documentElement.classList.add("js-rv");setTimeout(function(){document.querySelectorAll(".rv:not(.vis)").forEach(function(e){e.classList.add("vis")})},1800);window.addEventListener("load",function(){setTimeout(function(){document.querySelectorAll(".rv:not(.vis)").forEach(function(e){var r=e.getBoundingClientRect();if(r.top<innerHeight*1.4)e.classList.add("vis")})},60)});</script>
 </head>
 <body>
 <!-- ═══ MEGA-NAV START ═══ -->
