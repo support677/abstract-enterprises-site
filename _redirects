@@ -1,3 +1,4 @@
+/images/buzzer-repair/*  /buzzer-repair/:splat  200
 /d203/*  /  301!
 # ============================================================
 # GLOBAL: Force .html URLs to redirect to clean URLs (fix duplicates)
