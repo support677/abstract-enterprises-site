@@ -26,14 +26,28 @@ Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHO
 
 ### 3. Build the page to the blueprint
 - Structure, section content, schema stack (6 blocks: LocalBusiness, Service, FAQPage, BreadcrumbList, ImageObject `@graph`, HowTo), forms, freshness stamp and advanced elements per v2.3 §4–§5 and the current silo pattern in the newest manifest.
-- Page standard checked by the tool: **12,000–14,000 rendered words**, title ≤ 60, meta 150–160, one H1, canonical `https://www.abstractenterprisessecuritysystems.com/<slug>` (extensionless — live convention), **4.7 / 201**, NYS license #12000287431, the **exact warranty block** (text in `tools/check_page.py`, `WARRANTY`), two Web3Forms forms (hero + detail, access key, extensionless `landing_page`, consent checkbox, `botcheck` honeypot), approved phone only (queue line), GBP per queue line.
+- Page standard checked by the tool: **12,000–14,000 rendered words**, title ≤ 60, meta 150–160, one H1, canonical `https://www.abstractenterprisessecuritysystems.com/<slug>` (extensionless — live convention), **4.7 / 201**, NYS license #12000287431, two Web3Forms forms (hero + detail, access key, extensionless `landing_page`, consent checkbox, `botcheck` honeypot), approved phone only (queue line), GBP per queue line.
+- Phone, warranty and rating copy the **Network Cable Repair** silo (the most recent live pages):
+  - Phones: hubs carry only (800) 486-0943; area pages carry their direct line (queue line) in the body, CTAs and schema, with the 800 allowed in the shared header. WhatsApp only as `wa.me/17186790359` (the footer may show "WhatsApp (718) 679-0359" as text), never `tel:`.
+  - Warranty: this exact sentence, and no three-year wording anywhere: *Full terms — including 50% deposit, one-year parts-only warranty on AESS-supplied products, and the late-fee schedule — are set out in the service agreement.*
+  - Rating: 4.7★ / 201 Google Reviews (schema `ratingValue` 4.7, `reviewCount` 201).
 - Pricing per the §9 area multipliers — never invent prices.
 - Written from scratch for this area. Masked-geo similarity to any sibling < 0.65. No FAQ/Q&A question may repeat any question in the silo's question register (add this page's questions to the register).
 
 **Images — 11 per page.**
 - `/images/<silo>/` has 11 or more photos for this silo → use 11 of them.
-- Otherwise apply the image rule as practiced in manifests 186/187 (not written down elsewhere in the repo — see Open decisions): copy 11 photos from the closest silo into `/images/<silo>/` under new keyword + geo filenames (e.g. `fiber-optic-installation-bronx-riser-pull.webp`), WebP. Alt, title and caption are rewritten for this page and describe only what is visible. Never claim an image shows a customer, a named building or a completed local project. Each file is used once per page, alt and title unique. When dedicated photos for the silo arrive, they replace the reuses (as in manifest 186).
-- Closest silo to borrow from: Fiber Optic Installation → `images/network/` or `images/low-voltage/` · Cat6 Repair → `images/network-cable-repair/` or `images/cat6/` · Smart Lock, Sonos, Soundbar → no close silo exists (see Open decisions).
+- Otherwise apply the **permanent image rule** (as practiced in manifests 186/187): copy 11 photos from the closest silo into `/images/<silo>/` under new keyword + geo filenames (e.g. `fiber-optic-installation-bronx-riser-pull.webp`), WebP. Alt, title and caption are rewritten for this page and describe only what is visible — pick photos whose content genuinely fits the service. Never claim an image shows a customer, a named building, a completed local project, or equipment that isn't in the frame. Each file is used once per page, alt and title unique. When real photos for the silo are uploaded to `/images/<silo>/`, they replace the reuses (as in manifest 186).
+- Closest silo to borrow from (by what the photos show):
+
+  | New silo | Borrow from | Why |
+  |---|---|---|
+  | Fiber Optic Installation | `images/network/`, then `images/low-voltage/` | network rooms, racks, cable pulls |
+  | Cat6 Repair | `images/network-cable-repair/`, then `images/cat6/` | cable fault, termination, testing |
+  | Smart Lock Installation | `images/low-voltage/`, then `images/commercial-security/` | door-lock wiring, electric strikes, access readers |
+  | Sonos Installation | `images/low-voltage/` | ceiling speakers, AV/low-voltage wiring |
+  | Soundbar Installation | `images/low-voltage/` | speakers, AV/low-voltage wiring |
+
+- **Every page that uses borrowed images gets a note in its `DAILY-LOG.md` line:** `images: 11 reused from images/<source>/ (no real <silo> photos yet)`.
 
 ### 4. Wire it in (every day)
 - `sitemap.xml` — one `<url>` for `https://www.abstractenterprisessecuritysystems.com/<slug>` (extensionless, live convention), hub 0.9/weekly, child 0.7/monthly; check `</urlset>` tail after editing.
@@ -69,13 +83,13 @@ Append one line to `DAILY-LOG.md`, pass or fail:
 
 ---
 
-## Open decisions (flagged, not guessed)
+## Decisions (Anwar, 2026-09-28)
 
-These rules differ between documents. The checker uses the value marked **(used)**. Change `tools/check_page.py` if you decide otherwise.
+1. **Phones, warranty, rating** — copy the most recent live pages (Network Cable Repair silo): per-area direct lines on area pages with the 800 in the header, 800-only on hubs; the one-year parts-only terms sentence; 4.7 / 201. This overrides v2.3 §8 and the Cat6 three-year block. Encoded in `tools/check_page.py`.
+2. **Canonical / sitemap** — extensionless URL (every live page), not v2.3's `.html`.
+3. **Word count and images** — 12–14k rendered words and exactly 11 images per page.
+4. **Images for Smart Lock / Sonos / Soundbar** — reuse and rename 11 from the closest silo (table above) until real photos are uploaded; log it in `DAILY-LOG.md` every time.
 
-1. **Phone routing.** v2.3 §8 says SEO pages use (347) 934-8335 / (845) 640-3835 and never the 800. The live Cat6 and Network Cable Repair silos use per-area CallRail lines on children and (800) 486-0943 on hubs. **(used: the live per-area map.)**
-2. **Warranty.** v2.3 and the Cat6 silo publish the three-year block. The Network Cable Repair silo publishes one-year parts-only (its deploy notes list this as undecided). **(used: three-year, Cat6 wording.)**
-3. **Canonical / sitemap.** v2.3 §4 says `.html`. Every live page and the sitemap use the extensionless URL. **(used: extensionless.)**
-4. **Word count and images.** You set 12–14k words and 11 images. The Cat6 hub is ~13k with 15 images; Cat6 and Network Cable Repair children are ~7–7.5k words with 11–16 images. **(used: 12–14k and exactly 11.)**
-5. **Image rule.** The "permanent image rule" isn't written in the repo. The practice from manifests 186/187 is written above. Smart Lock, Sonos and Soundbar have no close image silo. Supply photos or name the silo to borrow from before those silos start.
-6. **Rating.** v2.3 flags ⚠CONFIRM on 4.7/201 vs each GBP's own numbers. **(used: 4.7 / 201.)**
+## Kept private on Netlify
+
+`_redirects` 404s these repo files so they are never served publicly: `PAGE-QUEUE.md`, `DAILY-RUN.md`, `DAILY-LOG.md`, `BLUEPRINT.md`, `blueprint-v2_3-full.md`, every `MANIFEST*` file, `/tools/*` and `/research/*`. The rules sit at the very top of `_redirects` (first match wins). **A new MANIFEST file needs its own 404 line** — Netlify can't wildcard part of a filename.

@@ -7,13 +7,14 @@ Usage:
 Prints PASS, or FAIL followed by one line per failure. Exit code 0 = PASS, 1 = FAIL.
 
 Rules come from blueprint-v2_3-full.md (the consolidated blueprint) and the
-conventions the live silos actually use (MANIFEST-site-rebuild-186/187, the
-Cat6 and Network Cable Repair silos). Where the two disagree, the live
-convention is used and the rule is marked "LIVE CONVENTION" below:
+conventions the live silos actually use. Where they disagree, the most recent
+live silo (Network Cable Repair, Sept 2026) wins, per Anwar 2026-09-28, and
+the rule is marked "LIVE CONVENTION" below:
   - canonical and sitemap <loc> are extensionless (v2.3 section 4 says .html)
-  - phones follow the per-area CallRail map below (v2.3 section 8 is older)
-  - the warranty block is the three-year text used on the Cat6 silo
-    (the Network Cable Repair silo still carries one-year text - open decision)
+  - phones follow the Network Cable Repair map below (v2.3 section 8 is older)
+  - warranty text is the Network Cable Repair terms sentence (one-year
+    parts-only), not the Cat6 three-year block
+  - rating 4.7 / 201
 
 This checks only what can be checked mechanically. Research accuracy,
 meaning-level duplicate intents, local facts and design still need a human
@@ -40,13 +41,11 @@ FIGURES = 11
 SIZE_CLUSTER_BYTES = 2048
 REQUIRED_SCHEMA = ("LocalBusiness", "Service", "FAQPage", "BreadcrumbList", "ImageObject", "HowTo")
 
-# Protected, verbatim (blueprint v2.3 Appendix A; text as published on the Cat6 silo).
+# LIVE CONVENTION, verbatim: the warranty/terms sentence on 13 of the 16
+# Network Cable Repair area pages (e.g. network-cable-repair-bronx.html).
 WARRANTY = (
-    "Abstract Enterprises Security Systems provides a three-year warranty on products supplied by AESS "
-    "for normal wear and tear. It does not cover existing or customer wiring, customer-supplied equipment, "
-    "lightning or other acts of God, power outages or surges, physical damage or unplugging, internet, "
-    "router or phone changes, or camera readjustments requested after completion. After the warranty "
-    "period, service is $195 per hour with a three-hour minimum ($585)."
+    "Full terms — including 50% deposit, one-year parts-only warranty on AESS-supplied products, "
+    "and the late-fee schedule — are set out in the service agreement."
 )
 
 TOLL_FREE = "8004860943"
@@ -56,26 +55,28 @@ SECONDARY_DOMAIN_PHONE = "9297305331"
 BROOKLYN_GBP = {"id": "#brooklyn", "street": "1282 Troy"}
 BRONX_GBP = {"id": "#bronx", "street": "460 E"}
 
-# LIVE CONVENTION phone map (Cat6 + Network Cable Repair silos, Sept 2026):
-# children carry only their direct line; hubs carry the toll-free line (plus the listed direct line).
+# LIVE CONVENTION phone map (Network Cable Repair silo, Sept 2026): hubs carry only the
+# toll-free line; children carry their direct CallRail line in body/CTAs/schema, and the
+# toll-free line is also allowed (it appears in the shared header chrome on every child).
 # area suffix: (aliases for geo checks, kind, parent suffix, GBP, primary phone, other allowed phones)
+CHILD = {TOLL_FREE}
 AREAS = {
-    "nyc":                (("NYC", "New York City"), "hub", None, "brooklyn", TOLL_FREE, {"3479348335"}),
-    "manhattan":          (("Manhattan",), "child", "nyc", "bronx", "9295600737", set()),
-    "brooklyn":           (("Brooklyn",), "child", "nyc", "brooklyn", "3479348335", set()),
-    "queens":             (("Queens",), "child", "nyc", "bronx", "3474346392", set()),
-    "bronx":              (("Bronx",), "child", "nyc", "bronx", "6464900629", set()),
-    "staten-island":      (("Staten Island",), "child", "nyc", "brooklyn", "3479348335", set()),
+    "nyc":                (("NYC", "New York City"), "hub", None, "brooklyn", TOLL_FREE, set()),
+    "manhattan":          (("Manhattan",), "child", "nyc", "bronx", "9295600737", CHILD),
+    "brooklyn":           (("Brooklyn",), "child", "nyc", "brooklyn", "3479348335", CHILD),
+    "queens":             (("Queens",), "child", "nyc", "bronx", "3474346392", CHILD),
+    "bronx":              (("Bronx",), "child", "nyc", "bronx", "6464900629", CHILD),
+    "staten-island":      (("Staten Island",), "child", "nyc", "brooklyn", "3479348335", CHILD),
     "long-island":        (("Long Island",), "hub", None, "brooklyn", TOLL_FREE, set()),
-    "hudson-valley":      (("Hudson Valley",), "hub", None, "bronx", TOLL_FREE, {"8456403835"}),
-    "nassau-county":      (("Nassau",), "child", "long-island", "brooklyn", "5163465778", set()),
-    "suffolk-county":     (("Suffolk",), "child", "long-island", "brooklyn", "6314072884", set()),
-    "westchester-county": (("Westchester",), "child", "hudson-valley", "bronx", "9148772578", set()),
-    "rockland-county":    (("Rockland",), "child", "hudson-valley", "bronx", "8456403835", set()),
-    "orange-county":      (("Orange County", "Orange"), "child", "hudson-valley", "bronx", "8456403835", set()),
-    "putnam-county":      (("Putnam",), "child", "hudson-valley", "bronx", "8456403835", set()),
-    "dutchess-county":    (("Dutchess",), "child", "hudson-valley", "bronx", "8456403835", set()),
-    "ulster-county":      (("Ulster",), "child", "hudson-valley", "bronx", "8456403835", set()),
+    "hudson-valley":      (("Hudson Valley",), "hub", None, "bronx", TOLL_FREE, set()),
+    "nassau-county":      (("Nassau",), "child", "long-island", "brooklyn", "5163465778", CHILD),
+    "suffolk-county":     (("Suffolk",), "child", "long-island", "brooklyn", "6314072884", CHILD),
+    "westchester-county": (("Westchester",), "child", "hudson-valley", "bronx", "9148772578", CHILD),
+    "rockland-county":    (("Rockland",), "child", "hudson-valley", "bronx", "8456403835", CHILD),
+    "orange-county":      (("Orange County", "Orange"), "child", "hudson-valley", "bronx", "8456403835", CHILD),
+    "putnam-county":      (("Putnam",), "child", "hudson-valley", "bronx", "8456403835", CHILD),
+    "dutchess-county":    (("Dutchess",), "child", "hudson-valley", "bronx", "8456403835", CHILD),
+    "ulster-county":      (("Ulster",), "child", "hudson-valley", "bronx", "8456403835", CHILD),
 }
 BOROUGHS = ("staten-island", "manhattan", "brooklyn", "queens", "bronx")
 COMPANY_PHONES = {a[4] for a in AREAS.values()} | {p for a in AREAS.values() for p in a[5]} | {
@@ -345,8 +346,10 @@ def check(root, slug, registration=True, stats=False):
             fail(f"unbalanced <{t}>: {page.opens[t]} open vs {page.closes[t]} close")
     if "${" in raw:
         fail("unresolved template token '${' in the HTML")
-    if re.search(r"\b555[-. ]\d{4}\b|\(555\)", raw):
-        fail("placeholder 555 phone number")
+    # Form placeholder attributes like "(555) 123-4567" are fine; a 555 number in text or a link is not.
+    if re.search(r"\b555[-. ]\d{4}\b|\(555\)", text) or any("555" in digits(h) for h in page.hrefs
+                                                          if h.lower().startswith("tel:")):
+        fail("placeholder 555 phone number in text or a tel: link")
 
     # --- canonical
     want = f"{DOMAIN}/{slug}"
@@ -364,6 +367,9 @@ def check(root, slug, registration=True, stats=False):
         fail(f"phone {fmt(t)} is tel-linked but not approved for {area} (allowed: {', '.join(fmt(p) for p in sorted(allowed))})")
     for m in re.finditer(r"\(?\b(\d{3})\)?[\s.-]?(\d{3})[\s.-]?(\d{4})\b", text):
         d = m.group(1) + m.group(2) + m.group(3)
+        # LIVE CONVENTION: the footer shows "WhatsApp (718) 679-0359" as text (never tel-linked).
+        if d == WHATSAPP:
+            continue
         if d in COMPANY_PHONES and d not in allowed:
             fail(f"visible phone {fmt(d)} is not approved for {area}")
 
@@ -374,8 +380,8 @@ def check(root, slug, registration=True, stats=False):
         fail(f"NYS license #{LICENSE} not shown")
     if norm_space(WARRANTY) not in text:
         fail("exact warranty text missing or altered (see WARRANTY in tools/check_page.py)")
-    if "/warranty" not in link_set(page.hrefs):
-        fail("no link to /warranty")
+    if re.search(r"three-year warranty", text, re.I):
+        fail("page states a three-year warranty; live convention is the one-year parts-only terms sentence")
 
     # --- forms
     forms = [f for f in page.forms if "web3forms.com" in f["attrs"].get("action", "")]

@@ -1,3 +1,56 @@
+# ============================================================
+# PRIVATE: internal build files - never served publicly (forced 404, first match wins).
+# Add a line here for every new MANIFEST file (Netlify can't wildcard part of a filename).
+# ============================================================
+/PAGE-QUEUE.md                           /404  404!
+/DAILY-RUN.md                            /404  404!
+/DAILY-LOG.md                            /404  404!
+/BLUEPRINT.md                            /404  404!
+/blueprint-v2_3-full.md                  /404  404!
+/MANIFEST.md                             /404  404!
+/MANIFEST.txt                            /404  404!
+/MANIFEST-dutchess.md                    /404  404!
+/MANIFEST-orange.md                      /404  404!
+/MANIFEST-putnam.md                      /404  404!
+/MANIFEST-rockland.md                    /404  404!
+/MANIFEST-site-rebuild-137.md            /404  404!
+/MANIFEST-site-rebuild-143.md            /404  404!
+/MANIFEST-site-rebuild-147.md            /404  404!
+/MANIFEST-site-rebuild-156.md            /404  404!
+/MANIFEST-site-rebuild-157.md            /404  404!
+/MANIFEST-site-rebuild-159.md            /404  404!
+/MANIFEST-site-rebuild-160.md            /404  404!
+/MANIFEST-site-rebuild-161.md            /404  404!
+/MANIFEST-site-rebuild-162.md            /404  404!
+/MANIFEST-site-rebuild-163.md            /404  404!
+/MANIFEST-site-rebuild-164.md            /404  404!
+/MANIFEST-site-rebuild-165.md            /404  404!
+/MANIFEST-site-rebuild-166.md            /404  404!
+/MANIFEST-site-rebuild-167.md            /404  404!
+/MANIFEST-site-rebuild-168.md            /404  404!
+/MANIFEST-site-rebuild-169.md            /404  404!
+/MANIFEST-site-rebuild-170.md            /404  404!
+/MANIFEST-site-rebuild-171.md            /404  404!
+/MANIFEST-site-rebuild-172.md            /404  404!
+/MANIFEST-site-rebuild-173.md            /404  404!
+/MANIFEST-site-rebuild-174.md            /404  404!
+/MANIFEST-site-rebuild-175.md            /404  404!
+/MANIFEST-site-rebuild-176.md            /404  404!
+/MANIFEST-site-rebuild-177.md            /404  404!
+/MANIFEST-site-rebuild-178.md            /404  404!
+/MANIFEST-site-rebuild-179.md            /404  404!
+/MANIFEST-site-rebuild-180.md            /404  404!
+/MANIFEST-site-rebuild-181.md            /404  404!
+/MANIFEST-site-rebuild-182.md            /404  404!
+/MANIFEST-site-rebuild-183.md            /404  404!
+/MANIFEST-site-rebuild-184.md            /404  404!
+/MANIFEST-site-rebuild-185.md            /404  404!
+/MANIFEST-site-rebuild-186.md            /404  404!
+/MANIFEST-site-rebuild-187.md            /404  404!
+/MANIFEST-ulster.md                      /404  404!
+/tools/*                                 /404  404!
+/research/*                              /404  404!
+
 /images/buzzer-repair/*  /buzzer-repair/:splat  200
 /d203/*  /  301!
 # ============================================================
