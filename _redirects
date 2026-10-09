@@ -2,6 +2,7 @@
 # PRIVATE: internal build files - never served publicly (forced 404, first match wins).
 # Add a line here for every new MANIFEST file (Netlify can't wildcard part of a filename).
 # ============================================================
+/netlify/*                               /404  404!
 /PAGE-QUEUE.md                           /404  404!
 /DAILY-RUN.md                            /404  404!
 /DAILY-LOG.md                            /404  404!
