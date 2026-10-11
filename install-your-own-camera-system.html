@@ -676,19 +676,19 @@ a{color:inherit;text-decoration:none}img{max-width:100%;height:auto}
 /* ═══ AREAS ═══ */
 var AREAS={
 /* line = one per-line rate per area (camera line or network drop, up to 100 ft, exposed). Same number in Airtable Labor Rates. markup = never below the confirmed Labor Rates table (area hourly / Brooklyn $195). hourly = per-tech rate, 3-hr minimum on cable-run work */
-'brooklyn':{name:'Brooklyn',markup:0,hourly:195,line:175,note:'base pricing',payArea:'nyc'},
-'queens':{name:'Queens',markup:.10,hourly:195,line:196,note:'+10%',payArea:'nyc'},
-'bronx':{name:'Bronx',markup:.15,hourly:225,line:201,note:'+15%',payArea:'nyc'},
-'manhattan':{name:'Manhattan',parking:150,markup:.36,hourly:265,line:238,note:'+36%',payArea:'nyc'},
-'staten-island':{name:'Staten Island',markup:.20,hourly:225,line:210,note:'+20%',payArea:'nyc'},
-'nassau':{name:'Nassau County',markup:.20,hourly:225,line:210,note:'+20%',payArea:'nassau'},
-'suffolk':{name:'Suffolk County',markup:.28,hourly:250,line:226,note:'+28%',payArea:'suffolk'},
-'westchester':{name:'Westchester',markup:.25,hourly:235,line:226,note:'+25%',payArea:'westchester'},
-'rockland':{name:'Rockland',markup:.25,hourly:235,line:226,note:'+25%',payArea:'rockland'},
-'orange':{name:'Orange County',markup:.30,hourly:250,line:247,note:'+30%',payArea:'orange'},
-'putnam':{name:'Putnam County',markup:.30,hourly:250,line:247,note:'+30%',payArea:'putnam'},
-'dutchess':{name:'Dutchess County',markup:.41,hourly:275,line:267,note:'+41%',payArea:'dutchess'},
-'ulster':{name:'Ulster County',markup:.41,hourly:275,line:267,note:'+41%',payArea:'ulster'}
+'brooklyn':{name:'Brooklyn',markup:0,hourly:195,line:175,conceal:200,note:'base pricing',payArea:'nyc'},
+'queens':{name:'Queens',markup:.10,hourly:195,line:196,conceal:224,note:'+10%',payArea:'nyc'},
+'bronx':{name:'Bronx',markup:.15,hourly:225,line:201,conceal:230,note:'+15%',payArea:'nyc'},
+'manhattan':{name:'Manhattan',parking:150,markup:.36,hourly:265,line:238,conceal:272,note:'+36%',payArea:'nyc'},
+'staten-island':{name:'Staten Island',markup:.20,hourly:225,line:210,conceal:240,note:'+20%',payArea:'nyc'},
+'nassau':{name:'Nassau County',markup:.20,hourly:225,line:210,conceal:240,note:'+20%',payArea:'nassau'},
+'suffolk':{name:'Suffolk County',markup:.28,hourly:250,line:226,conceal:259,note:'+28%',payArea:'suffolk'},
+'westchester':{name:'Westchester',markup:.25,hourly:235,line:226,conceal:259,note:'+25%',payArea:'westchester'},
+'rockland':{name:'Rockland',markup:.25,hourly:235,line:226,conceal:259,note:'+25%',payArea:'rockland'},
+'orange':{name:'Orange County',markup:.30,hourly:250,line:247,conceal:282,note:'+30%',payArea:'orange'},
+'putnam':{name:'Putnam County',markup:.30,hourly:250,line:247,conceal:282,note:'+30%',payArea:'putnam'},
+'dutchess':{name:'Dutchess County',markup:.41,hourly:275,line:267,conceal:306,note:'+41%',payArea:'dutchess'},
+'ulster':{name:'Ulster County',markup:.41,hourly:275,line:267,conceal:306,note:'+41%',payArea:'ulster'}
 };
 var curArea='brooklyn';
 
@@ -750,7 +750,7 @@ var SVCS=[
 {id:'jbox',name:'Junction Box (J-Box)',desc:'Weatherproof mounting box per camera',base:25,addtl:25,cat:'addons',noMin:true},
 {id:'raceway',perLine:100/175,name:'Surface Raceway',desc:'Wire covered in raceway along the outside of the wall — per line',base:100,addtl:100,cat:'addons',noMin:true},
 {id:'conduit',name:'Conduit / Pipe Run',desc:'Wire in pipe instead of exposed — per line',base:200,addtl:200,cat:'addons',noMin:true},
-{id:'wallfish',perLine:200/175,name:'Concealed In-Wall (Hollow Drywall)',desc:'Fish the line inside a hollow drywall wall — per line. Spray-foam, plaster, brick or exterior walls are quoted on-site.',base:200,addtl:200,cat:'addons',noMin:true},
+{id:'wallfish',perLine:'conceal',name:'Concealed In-Wall (Hollow Drywall)',desc:'Fish the line inside a hollow drywall wall — per line. Spray-foam, plaster, brick or exterior walls are quoted on-site.',base:200,addtl:200,cat:'addons',noMin:true},
 {id:'old-remove',name:'Old Equipment Removal',desc:'Remove old camera, mount, sensor, etc.',base:50,addtl:50,cat:'addons',noMin:true},
 {id:'coi',name:'COI for Building',desc:'Certificate of Insurance for co-op/condo board',base:0,addtl:0,cat:'addons',noMin:true,free:true}
 ];
@@ -830,7 +830,7 @@ function renderAll(){
 }
 
 /* ═══ CALC SUBTOTAL PER SERVICE ═══ */
-function unitPrice(s,first){if(s.perLine)return Math.round(AREAS[curArea].line*s.perLine);return ap(first?s.base:s.addtl);}
+function unitPrice(s,first){if(s.perLine==='conceal')return AREAS[curArea].conceal;if(s.perLine)return Math.round(AREAS[curArea].line*s.perLine);return ap(first?s.base:s.addtl);}
 function calcSub(s,q){
   if(q===0||s.free)return 0;
   var first=unitPrice(s,true);
