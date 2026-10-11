@@ -675,20 +675,20 @@ a{color:inherit;text-decoration:none}img{max-width:100%;height:auto}
 <script>
 /* ═══ AREAS ═══ */
 var AREAS={
-/* markup = never below the confirmed Labor Rates table (area hourly / Brooklyn $195). hourly = per-tech rate, 3-hr minimum on cable-run work */
-'brooklyn':{name:'Brooklyn',markup:0,hourly:195,note:'base pricing',payArea:'nyc'},
-'queens':{name:'Queens',markup:.10,hourly:195,note:'+10%',payArea:'nyc'},
-'bronx':{name:'Bronx',markup:.15,hourly:225,note:'+15%',payArea:'nyc'},
-'manhattan':{name:'Manhattan',markup:.36,hourly:265,note:'+36%',payArea:'nyc'},
-'staten-island':{name:'Staten Island',markup:.20,hourly:225,note:'+20%',payArea:'nyc'},
-'nassau':{name:'Nassau County',markup:.20,hourly:225,note:'+20%',payArea:'nassau'},
-'suffolk':{name:'Suffolk County',markup:.28,hourly:250,note:'+28%',payArea:'suffolk'},
-'westchester':{name:'Westchester',markup:.25,hourly:235,note:'+25%',payArea:'westchester'},
-'rockland':{name:'Rockland',markup:.25,hourly:235,note:'+25%',payArea:'rockland'},
-'orange':{name:'Orange County',markup:.30,hourly:250,note:'+30%',payArea:'orange'},
-'putnam':{name:'Putnam County',markup:.30,hourly:250,note:'+30%',payArea:'putnam'},
-'dutchess':{name:'Dutchess County',markup:.41,hourly:275,note:'+41%',payArea:'dutchess'},
-'ulster':{name:'Ulster County',markup:.41,hourly:275,note:'+41%',payArea:'ulster'}
+/* line = one per-line rate per area (camera line or network drop, up to 100 ft, exposed). Same number in Airtable Labor Rates. markup = never below the confirmed Labor Rates table (area hourly / Brooklyn $195). hourly = per-tech rate, 3-hr minimum on cable-run work */
+'brooklyn':{name:'Brooklyn',markup:0,hourly:195,line:175,note:'base pricing',payArea:'nyc'},
+'queens':{name:'Queens',markup:.10,hourly:195,line:196,note:'+10%',payArea:'nyc'},
+'bronx':{name:'Bronx',markup:.15,hourly:225,line:201,note:'+15%',payArea:'nyc'},
+'manhattan':{name:'Manhattan',parking:150,markup:.36,hourly:265,line:238,note:'+36%',payArea:'nyc'},
+'staten-island':{name:'Staten Island',markup:.20,hourly:225,line:210,note:'+20%',payArea:'nyc'},
+'nassau':{name:'Nassau County',markup:.20,hourly:225,line:210,note:'+20%',payArea:'nassau'},
+'suffolk':{name:'Suffolk County',markup:.28,hourly:250,line:226,note:'+28%',payArea:'suffolk'},
+'westchester':{name:'Westchester',markup:.25,hourly:235,line:226,note:'+25%',payArea:'westchester'},
+'rockland':{name:'Rockland',markup:.25,hourly:235,line:226,note:'+25%',payArea:'rockland'},
+'orange':{name:'Orange County',markup:.30,hourly:250,line:247,note:'+30%',payArea:'orange'},
+'putnam':{name:'Putnam County',markup:.30,hourly:250,line:247,note:'+30%',payArea:'putnam'},
+'dutchess':{name:'Dutchess County',markup:.41,hourly:275,line:267,note:'+41%',payArea:'dutchess'},
+'ulster':{name:'Ulster County',markup:.41,hourly:275,line:267,note:'+41%',payArea:'ulster'}
 };
 var curArea='brooklyn';
 
@@ -697,7 +697,7 @@ var curArea='brooklyn';
 var SVCS=[
 /* CAMERAS */
 {id:'wifi-cam',name:'Wi-Fi Camera Install',desc:'Mount, connect to Wi-Fi, configure app',base:150,addtl:75,cat:'cameras'},
-{id:'poe-cam',name:'Wired / PoE Camera Install',desc:'Per camera line: run Cat6 (up to 100 ft), mount, terminate, connect to NVR',base:175,addtl:175,cat:'cameras',runMin:true},
+{id:'poe-cam',perLine:1,name:'Wired / PoE Camera Install',desc:'Per camera line: run Cat6 (up to 100 ft, exposed/attic/basement), mount, terminate, connect to NVR',base:175,addtl:175,cat:'cameras',runMin:true},
 {id:'doorbell-ez',name:'Video Doorbell (Existing Wiring)',desc:'Swap existing doorbell, connect, configure app',base:150,addtl:150,cat:'cameras'},
 {id:'doorbell-new',name:'Video Doorbell (New Wire Run)',desc:'No existing wiring — we run new power',base:250,addtl:250,cat:'cameras',runMin:true},
 {id:'floodlight',name:'Floodlight Camera',desc:'Mount in existing light location, wire, configure',base:200,addtl:200,cat:'cameras',runMin:true},
@@ -740,7 +740,7 @@ var SVCS=[
 {id:'mesh-wifi',name:'Mesh Wi-Fi System (up to 3 nodes)',desc:'Install nodes, configure mesh, optimize coverage',base:200,addtl:200,cat:'network'},
 {id:'wifi-extender',name:'Wi-Fi Extender Install',desc:'Place, configure, optimize signal',base:150,addtl:150,cat:'network'},
 {id:'net-troubleshoot',name:'Network Troubleshooting',desc:'Diagnose & fix Wi-Fi, connectivity, speed issues',base:150,addtl:150,cat:'network'},
-{id:'ethernet-drop',name:'Ethernet Cable Drop',desc:'Run Cat6 cable to location — per drop (up to 100 ft)',base:175,addtl:175,cat:'network',runMin:true},
+{id:'ethernet-drop',perLine:1,name:'Ethernet Cable Drop',desc:'Per line: run Cat6 (up to 100 ft, exposed/attic/basement), terminate & test',base:175,addtl:175,cat:'network',runMin:true},
 {id:'network-switch',name:'Network Switch Setup',desc:'Install & configure managed/unmanaged switch',base:150,addtl:150,cat:'network'},
 
 /* ADD-ONS */
@@ -748,8 +748,9 @@ var SVCS=[
 {id:'high-mount',name:'High / Difficult Mounting Location',desc:'Ladder work, 15ft+ height, attic access',base:50,addtl:50,cat:'addons',noMin:true},
 {id:'attic-crawl',name:'Attic / Crawl Space Wire Run',desc:'Run cable through attic or crawl space',base:125,addtl:125,cat:'addons',noMin:true},
 {id:'jbox',name:'Junction Box (J-Box)',desc:'Weatherproof mounting box per camera',base:25,addtl:25,cat:'addons',noMin:true},
-{id:'conduit',name:'Conduit / Pipe Run',desc:'Wire in pipe instead of exposed — per run',base:200,addtl:200,cat:'addons',noMin:true},
-{id:'wallfish',name:'Wall Fishing / Snake Wire',desc:'Hide wires inside wall — per run',base:200,addtl:200,cat:'addons',noMin:true},
+{id:'raceway',perLine:100/175,name:'Surface Raceway',desc:'Wire covered in raceway along the outside of the wall — per line',base:100,addtl:100,cat:'addons',noMin:true},
+{id:'conduit',name:'Conduit / Pipe Run',desc:'Wire in pipe instead of exposed — per line',base:200,addtl:200,cat:'addons',noMin:true},
+{id:'wallfish',perLine:200/175,name:'Concealed In-Wall (Hollow Drywall)',desc:'Fish the line inside a hollow drywall wall — per line. Spray-foam, plaster, brick or exterior walls are quoted on-site.',base:200,addtl:200,cat:'addons',noMin:true},
 {id:'old-remove',name:'Old Equipment Removal',desc:'Remove old camera, mount, sensor, etc.',base:50,addtl:50,cat:'addons',noMin:true},
 {id:'coi',name:'COI for Building',desc:'Certificate of Insurance for co-op/condo board',base:0,addtl:0,cat:'addons',noMin:true,free:true}
 ];
@@ -809,7 +810,7 @@ function renderAll(){
 
   for(var i=0;i<SVCS.length;i++){
     var s=SVCS[i];
-    var price=s.free?'Free':ap(s.base);
+    var price=s.free?'Free':unitPrice(s,true);
     var priceStr=s.free?'Free':'$'+price;
     var q=qtys[s.id];
     var sub=calcSub(s,q);
@@ -829,10 +830,11 @@ function renderAll(){
 }
 
 /* ═══ CALC SUBTOTAL PER SERVICE ═══ */
+function unitPrice(s,first){if(s.perLine)return Math.round(AREAS[curArea].line*s.perLine);return ap(first?s.base:s.addtl);}
 function calcSub(s,q){
   if(q===0||s.free)return 0;
-  var first=ap(s.base);
-  var addtl=ap(s.addtl);
+  var first=unitPrice(s,true);
+  var addtl=unitPrice(s,false);
   return first+Math.max(0,q-1)*addtl;
 }
 
@@ -865,6 +867,7 @@ function recalc(){
     minNote.textContent=hasRun?'Runs over 100 ft quoted on-site.':'';
     minNote.style.display=hasRun?'block':'none';
   }
+  if(total>0&&a.parking){total+=a.parking;if(minNote){minNote.textContent=(minNote.textContent?minNote.textContent+' ':'')+'Includes $'+a.parking+' Manhattan parking.';minNote.style.display='block';}}
   document.getElementById('totalAmount').textContent='$'+total.toLocaleString();
 
   // Pay link

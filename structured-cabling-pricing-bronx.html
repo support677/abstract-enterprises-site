@@ -515,7 +515,7 @@ a{color:inherit;text-decoration:none}
 <button class="dc-b" id="dropP" onclick="chgDrop(1)">+</button>
 </div>
 <div class="cs-pn">Each drop = one complete connection from device to patch panel/rack.</div>
-<div class="min-notice" id="minNotice">Minimum job size: $559. Your current total is below minimum.</div>
+<div class="min-notice" id="minNotice">Minimum job size: $675. Your current total is below minimum.</div>
 </div>
 
 <!-- Step 3: Project Type -->
@@ -537,7 +537,7 @@ a{color:inherit;text-decoration:none}
 <div class="addon-item" onclick="togAddon(this,'patch')"><div class="ai-left"><div class="ai-check">✓</div><div><div class="ai-name">Patch Panel</div><div class="ai-desc">24-port, rack-mounted, labeled</div></div></div><div class="ai-price">$168</div></div>
 <div class="addon-item" onclick="togAddon(this,'rack')"><div class="ai-left"><div class="ai-check">✓</div><div><div class="ai-name">Rack / Cabinet Setup</div><div class="ai-desc">Mount, organize, label, cable management</div></div></div><div class="ai-price">$335</div></div>
 <div class="addon-item" onclick="togAddon(this,'cert')"><div class="ai-left"><div class="ai-check">✓</div><div><div class="ai-name">Fluke Certification</div><div class="ai-desc">Printed test report per drop</div></div></div><div class="ai-price" id="certPrice">+$28/drop</div></div>
-<div class="addon-item" onclick="togAddon(this,'conceal')"><div class="ai-left"><div class="ai-check">✓</div><div><div class="ai-name">Conduit / Concealing</div><div class="ai-desc">Hide all cable runs — $224/drop, up to 100ft</div></div></div><div class="ai-price" id="concealDropPrice">+$224/drop</div></div>
+<div class="addon-item" onclick="togAddon(this,'conceal')"><div class="ai-left"><div class="ai-check">✓</div><div><div class="ai-name">Conduit / Concealing</div><div class="ai-desc">Hide all cable runs — $230/drop, up to 100ft</div></div></div><div class="ai-price" id="concealDropPrice">+$230/drop</div></div>
 </div>
 <div class="cs-pn">Wall plates, keystones, and basic wiremap testing included with every drop.</div>
 </div>
@@ -619,9 +619,9 @@ id="slDiscount" style="display:none"><span class="sll">New construction discount
 <footer class="ft"><span>© 2026 Abstract Enterprises LLC · NYS Lic. #12000287431</span></footer>
 
 <script>
-var CABLES=[{"id":"cat5e","name":"Cat5e","desc":"Basic network \u00b7 1Gbps","price":168,"icon":"\ud83d\udd0c"},{"id":"cat6","name":"Cat6","desc":"Standard network \u00b7 1-10Gbps","price":196,"icon":"\ud83d\udd35"},{"id":"cat6a","name":"Cat6A","desc":"High-performance \u00b7 10Gbps full","price":279,"icon":"\u26a1"},{"id":"coax","name":"Coax / RG6","desc":"Cable TV \u00b7 Internet \u00b7 Antenna","price":168,"icon":"\ud83d\udce1"},{"id":"speaker","name":"Speaker Wire","desc":"In-wall audio \u00b7 Surround sound","price":140,"icon":"\ud83d\udd0a"},{"id":"hdmi","name":"HDMI","desc":"Video runs \u00b7 Up to 50ft","price":224,"icon":"\ud83d\udcfa"},{"id":"fiber_mm","name":"Fiber (Multi-Mode)","desc":"Short range \u00b7 Data center \u00b7 LAN","price":391,"icon":"\ud83d\udc8e"},{"id":"fiber_sm","name":"Fiber (Single-Mode)","desc":"Long range \u00b7 Campus \u00b7 Backbone","price":447,"icon":"\ud83d\udd37"}];
+var CABLES=[{"id":"cat5e","name":"Cat5e","desc":"Basic network \u00b7 1Gbps","price":168,"icon":"\ud83d\udd0c"},{"id":"cat6","name":"Cat6","desc":"Standard network \u00b7 1-10Gbps","price":201,"icon":"\ud83d\udd35"},{"id":"cat6a","name":"Cat6A","desc":"High-performance \u00b7 10Gbps full","price":279,"icon":"\u26a1"},{"id":"coax","name":"Coax / RG6","desc":"Cable TV \u00b7 Internet \u00b7 Antenna","price":168,"icon":"\ud83d\udce1"},{"id":"speaker","name":"Speaker Wire","desc":"In-wall audio \u00b7 Surround sound","price":140,"icon":"\ud83d\udd0a"},{"id":"hdmi","name":"HDMI","desc":"Video runs \u00b7 Up to 50ft","price":224,"icon":"\ud83d\udcfa"},{"id":"fiber_mm","name":"Fiber (Multi-Mode)","desc":"Short range \u00b7 Data center \u00b7 LAN","price":391,"icon":"\ud83d\udc8e"},{"id":"fiber_sm","name":"Fiber (Single-Mode)","desc":"Long range \u00b7 Campus \u00b7 Backbone","price":447,"icon":"\ud83d\udd37"}];
 var AREA='Bronx';
-var MIN_JOB=559;
+var MIN_JOB=675;
 var st={cable:null,drops:1,proj:'retrofit',patch:false,rack:false,cert:false,conceal:false,plenum:false,shielded:false,voicedrop:false};
 
 function fmt(n){return '$'+n.toLocaleString()}
@@ -632,7 +632,10 @@ function getTotal(){
   if(st.patch)base+=168;
   if(st.rack)base+=335;
   if(st.cert)base+=28*st.drops;
-  if(st.conceal)base+=224*st.drops;
+  if(st.conceal)base+=230*st.drops;
+  if(st.plenum)base+=40*st.drops;
+  if(st.shielded)base+=50*st.drops;
+  if(st.voicedrop)base+=st.cable.price*st.drops;
   if(st.proj==='newcon')base=Math.round(base*0.9);
   return Math.max(base,MIN_JOB);
 }
@@ -643,7 +646,10 @@ function getRawTotal(){
   if(st.patch)base+=168;
   if(st.rack)base+=335;
   if(st.cert)base+=28*st.drops;
-  if(st.conceal)base+=224*st.drops;
+  if(st.conceal)base+=230*st.drops;
+  if(st.plenum)base+=40*st.drops;
+  if(st.shielded)base+=50*st.drops;
+  if(st.voicedrop)base+=st.cable.price*st.drops;
   if(st.proj==='newcon')base=Math.round(base*0.9);
   return base;
 }
@@ -673,7 +679,7 @@ function update(){
   document.getElementById('slCert').style.display=st.cert?'flex':'none';
   if(st.cert){document.getElementById('slCertL').textContent='Fluke cert × '+st.drops;document.getElementById('slCertV').textContent=fmt(28*st.drops)}
   document.getElementById('slConceal').style.display=st.conceal?'flex':'none';
-  if(st.conceal){document.getElementById('slConcealL').textContent='Concealing × '+st.drops;document.getElementById('slConcealV').textContent=fmt(224*st.drops)}
+  if(st.conceal){document.getElementById('slConcealL').textContent='Concealing × '+st.drops;document.getElementById('slConcealV').textContent=fmt(230*st.drops)}
   // New addon summary lines
   document.getElementById('slPlenum').style.display=st.plenum?'flex':'none';
   if(st.plenum){document.getElementById('slPlenumL').textContent='Plenum upgrade × '+st.drops;document.getElementById('slPlenumV').textContent=fmt(40*st.drops)}
@@ -681,8 +687,8 @@ function update(){
   if(st.shielded){document.getElementById('slShieldedL').textContent='Shielded upgrade × '+st.drops;document.getElementById('slShieldedV').textContent=fmt(50*st.drops)}
   document.getElementById('slVoice').style.display=st.voicedrop?'flex':'none';
   if(st.voicedrop&&st.cable){document.getElementById('slVoiceL').textContent='Voice drops × '+st.drops;document.getElementById('slVoiceV').textContent=fmt(st.cable.price*st.drops)}
-  document.getElementById('slDiscount').style.display=st.proj==='newcon'?'flex':'none';
-  document.getElementById('projVal').textContent=st.proj==='newcon'?'New Construction (-10%)':'Retrofit';
+  var _sd=document.getElementById('slDiscount');if(_sd)_sd.style.display=st.proj==='newcon'?'flex':'none';
+  var _pv=document.getElementById('projVal');if(_pv)_pv.textContent=st.proj==='newcon'?'New Construction (-10%)':'Retrofit';
   // Addon count
   var ac=0;if(st.patch)ac++;if(st.rack)ac++;if(st.cert)ac++;if(st.conceal)ac++;if(st.plenum)ac++;if(st.shielded)ac++;if(st.voicedrop)ac++;
   document.getElementById('addVal').textContent=ac>0?ac+' selected':'None';
@@ -730,7 +736,7 @@ function openMod(){
   if(st.patch)r+='<strong>Patch panel:</strong> $168<br>';
   if(st.rack)r+='<strong>Rack setup:</strong> $335<br>';
   if(st.cert)r+='<strong>Fluke cert:</strong> '+st.drops+' × $28 = '+fmt(28*st.drops)+'<br>';
-  if(st.conceal)r+='<strong>Concealing:</strong> '+st.drops+' × $224 = '+fmt(224*st.drops)+'<br>';
+  if(st.conceal)r+='<strong>Concealing:</strong> '+st.drops+' × $230 = '+fmt(230*st.drops)+'<br>';
   r+='<span class="mr-tot">Total: '+fmt(total)+'</span>';
   document.getElementById('modRecap').innerHTML=r;
   document.getElementById('modSubject').value='Cabling Project — '+st.cable.name+' '+st.drops+' drops — '+AREA;
@@ -739,7 +745,7 @@ function openMod(){
   if(st.patch)d+='PATCH PANEL: $168\n';
   if(st.rack)d+='RACK SETUP: $335\n';
   if(st.cert)d+='FLUKE CERT: '+st.drops+' x $28 = '+fmt(28*st.drops)+'\n';
-  if(st.conceal)d+='CONCEALING: '+st.drops+' x $224 = '+fmt(224*st.drops)+'\n';
+  if(st.conceal)d+='CONCEALING: '+st.drops+' x $224 = '+fmt(230*st.drops)+'\n';
   d+='TOTAL: '+fmt(total);
   document.getElementById('modDetails').value=d;
   document.getElementById('modOv').classList.add('open');
