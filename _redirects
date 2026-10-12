@@ -1,6 +1,55 @@
 # ============================================================
 # PRIVATE: internal build files - never served publicly (forced 404, first match wins).
 # Add a line here for every new MANIFEST file (Netlify can't wildcard part of a filename).
+/00-README-DEPLOY.md                               /404  404!
+/00-REVIEW-BRIEF.md                                /404  404!
+/AUDIT-SUMMARY.txt                                 /404  404!
+/CHANGE-MANIFEST.txt                               /404  404!
+/CHANGELOG-rebuild-17.md                           /404  404!
+/DUPLICATE-REPORT.md                               /404  404!
+/NASSAU-PARKING-v4-PASS-REPORT.md                  /404  404!
+/NETWORK-CABLE-REPAIR-BROOKLYN-NEIGHBORHOODS.txt   /404  404!
+/PASS-REPORT.txt                                   /404  404!
+/RENDERED-network-installation-brooklyn.txt        /404  404!
+/RENDERED-network-installation-hudson-valley.txt   /404  404!
+/RENDERED-network-installation-long-island.txt     /404  404!
+/RENDERED-network-installation-manhattan.txt       /404  404!
+/RENDERED-network-installation-nyc.txt             /404  404!
+/RENDERED-network-installation-queens.txt          /404  404!
+/UNIQUENESS.txt                                    /404  404!
+/cat6-hudson-valley-text.txt                       /404  404!
+/cat6-long-island-text.txt                         /404  404!
+/cat6-manhattan-text.txt                           /404  404!
+/cat6-nassau-county-text.txt                       /404  404!
+/cat6-staten-island-text.txt                       /404  404!
+/cat6-westchester-county-text.txt                  /404  404!
+/changelog-rebuild-130.md                          /404  404!
+/changelog-rebuild-131.md                          /404  404!
+/changelog-rebuild-132.md                          /404  404!
+/changelog-rebuild-135.md                          /404  404!
+/deploy-readme.txt                                 /404  404!
+/low-voltage-research-matrix.md                    /404  404!
+/parking-lot-camera-installation-bronx-research-matrix.md /404  404!
+/parking-lot-camera-installation-brooklyn-research-matrix.md /404  404!
+/parking-lot-camera-installation-dutchess-county-PASS-report.md /404  404!
+/parking-lot-camera-installation-dutchess-county-research-matrix.md /404  404!
+/parking-lot-camera-installation-hudson-valley-research-matrix.md /404  404!
+/parking-lot-camera-installation-keyword-coverage-report.md /404  404!
+/parking-lot-camera-installation-keyword-distribution-matrix.md /404  404!
+/parking-lot-camera-installation-keywords.md       /404  404!
+/parking-lot-camera-installation-long-island-research-matrix.md /404  404!
+/parking-lot-camera-installation-manhattan-research-matrix.md /404  404!
+/parking-lot-camera-installation-nassau-county-research-matrix.md /404  404!
+/parking-lot-camera-installation-nyc-research-matrix.md /404  404!
+/parking-lot-camera-installation-orange-county-PASS-report.md /404  404!
+/parking-lot-camera-installation-orange-county-research-matrix.md /404  404!
+/parking-lot-camera-installation-putnam-county-PASS-report.md /404  404!
+/parking-lot-camera-installation-putnam-county-research-matrix.md /404  404!
+/parking-lot-camera-installation-queens-research-matrix.md /404  404!
+/parking-lot-camera-installation-rockland-county-PASS-report.md /404  404!
+/parking-lot-camera-installation-rockland-county-research-matrix.md /404  404!
+/parking-lot-camera-installation-staten-island-pain-question-map.md /404  404!
+/parking-lot-camera-installation-staten-island-research-matrix.md /404  404!
 # ============================================================
 /netlify/*                               /404  404!
 /PAGE-QUEUE.md                           /404  404!
