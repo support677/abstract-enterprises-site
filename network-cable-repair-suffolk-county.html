@@ -1639,10 +1639,12 @@ var PH='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width=
 var QT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 var CL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>';
 var TL='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 000 1.4l1.6 1.6a1 1 0 001.4 0l3.77-3.77a6 6 0 01-7.94 7.94l-6.91 6.91a2.12 2.12 0 01-3-3l6.91-6.91a6 6 0 017.94-7.94l-3.76 3.76z"/></svg>';
-var AP={brooklyn:{a:850,f:898,e:1057,c:1292,d:1292,s:'brooklyn'},manhattan:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'manhattan'},queens:{a:950,f:998,e:1157,c:1392,d:1392,s:'queens'},bronx:{a:950,f:998,e:1157,c:1392,d:1392,s:'bronx'},'staten-island':{a:999,f:1047,e:1206,c:1441,d:1441,s:'staten-island'},nassau:{a:999,f:1047,e:1206,c:1441,d:1441,s:'nassau-county'},suffolk:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'suffolk-county'},westchester:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'westchester-county'},rockland:{a:1099,f:1147,e:1306,c:1541,d:1541,s:'rockland-county'},orange:{a:1199,f:1247,e:1406,c:1641,d:1641,s:'orange-county'},putnam:{a:1199,f:1247,e:1406,c:1641,d:1641,s:'putnam-county'},dutchess:{a:1299,f:1347,e:1506,c:1741,d:1741,s:'dutchess-county'},ulster:{a:1299,f:1347,e:1506,c:1741,d:1741,s:'ulster-county'},'hudson-valley':{a:1099,f:1147,e:1306,c:1541,d:1541,s:'hudson-valley'},'long-island':{a:1099,f:1147,e:1306,c:1541,d:1541,s:'long-island'},nyc:{a:850,f:898,e:1057,c:1292,d:1292,s:'nyc'}};
+var AP={brooklyn:{a:950,f:998,e:1157,c:1392,d:1392,b:1659,s:'brooklyn'},manhattan:{a:1228,f:1276,e:1435,c:1670,d:1670,b:2001,s:'manhattan'},queens:{a:1062,f:1110,e:1269,c:1504,d:1504,b:1770,s:'queens'},bronx:{a:1062,f:1110,e:1269,c:1504,d:1504,b:1801,s:'bronx'},'staten-island':{a:1117,f:1165,e:1324,c:1559,d:1559,b:1849,s:'staten-island'},nassau:{a:1117,f:1165,e:1324,c:1559,d:1559,b:1849,s:'nassau-county'},suffolk:{a:1228,f:1276,e:1435,c:1670,d:1670,b:1933,s:'suffolk-county'},westchester:{a:1228,f:1276,e:1435,c:1670,d:1670,b:1925,s:'westchester-county'},rockland:{a:1228,f:1276,e:1435,c:1670,d:1670,b:1925,s:'rockland-county'},orange:{a:1340,f:1388,e:1547,c:1782,d:1782,b:2020,s:'orange-county'},putnam:{a:1340,f:1388,e:1547,c:1782,d:1782,b:2020,s:'putnam-county'},dutchess:{a:1452,f:1500,e:1659,c:1894,d:1894,b:2129,s:'dutchess-county'},ulster:{a:1452,f:1500,e:1659,c:1894,d:1894,b:2129,s:'ulster-county'},'hudson-valley':{a:1228,f:1276,e:1435,c:1670,d:1670,b:1925,s:'hudson-valley'},'long-island':{a:1117,f:1165,e:1324,c:1559,d:1559,b:1849,s:'long-island'},nyc:{a:950,f:998,e:1157,c:1392,d:1392,b:1659,s:'nyc'}};
+function camArea(){var a=detectArea(window.location.pathname.toLowerCase());return AP[a]?a:'nyc'}
+function camChip(){var p=AP[camArea()];return {t:'\ud83d\udcf9 Cameras',m:'4 Cams + 2 Wks Recording',v:'from $'+fm(p.a),c:'spb-chip--gold',h:'/security-camera-pricing-'+p.s}}
 function fm(n){return n>=1000?Math.floor(n/1000)+','+String(n%1000).padStart(3,'0'):''+n}
 function detectArea(p){
-var areas=[['brooklyn','brooklyn'],['manhattan','manhattan'],['queens','queens'],['bronx','bronx'],['staten-island','staten'],['nassau','nassau'],['suffolk','suffolk'],['westchester','westchester'],['rockland','rockland'],['orange','orange'],['putnam','putnam'],['dutchess','dutchess'],['ulster','ulster'],['hudson-valley','hudson-valley'],['long-island','long-island'],['nyc','nyc']];
+var areas=[['staten-island','staten'],['brooklyn','brooklyn'],['manhattan','manhattan'],['queens','queens'],['bronx','bronx'],['nassau','nassau'],['suffolk','suffolk'],['westchester','westchester'],['rockland','rockland'],['orange','orange'],['putnam','putnam'],['dutchess','dutchess'],['ulster','ulster'],['hudson-valley','hudson-valley'],['long-island','long-island'],['nyc','nyc']];
 for(var i=0;i<areas.length;i++){if(p.indexOf(areas[i][0])!==-1||p.indexOf(areas[i][1])!==-1)return areas[i][0]}
 return null;
 }
@@ -1655,18 +1657,19 @@ return 'brooklyn';
 function camSilo(areaKey){
 var pr=AP[areaKey]||AP.brooklyn;
 var link='/security-camera-pricing-'+pr.s;
-return{label:'Packages',chips:[
+return{label:'Packages \u00b7 w/ Recording',chips:[
 {t:'A Series',m:'2MP HD',v:'from $'+fm(pr.a),c:''},
 {t:'F Series',m:'5MP 2K',v:'from $'+fm(pr.f),c:''},
 {t:'E Series',m:'4-5MP IP',v:'from $'+fm(pr.e),c:''},
 {t:'C Series',m:'8MP 4K DVR',v:'from $'+fm(pr.c),c:''},
 {t:'D Series',m:'8MP 4K IP',v:'from $'+fm(pr.d),c:'spb-chip--gold'},
+{t:'Name Brands',m:'Lorex \u00b7 UniFi \u00b7 Uniview \u00b7 Luminys',v:'from $'+fm(pr.b),c:'spb-chip--blue',h:'/name-brand-cameras?area='+pr.s},
 {t:'Combo',m:'Cameras + Intercom',v:'Save $200\u2013$400',c:'spb-chip--green'}
 ],pl:'View Packages',pi:QT,ph:link,sl:'(631) 407-2884',si:PH,sh:'tel:+16314072884'};
 }
 var S={
 homepage:{label:'Our Services',chips:[
-{t:'\ud83d\udcf9 Cameras',m:'4K Systems Installed',v:'from $850',c:'spb-chip--gold'},
+camChip(),
 {t:'\ud83d\udd14 Buzzer Repair',m:'Same-Day Available',v:'$250 Service Call',c:''},
 {t:'\ud83d\udeaa Intercoms',m:'Video \u00b7 Audio \u00b7 Key Fob',v:'Free Estimate',c:''},
 {t:'\u26a1 Cabling',m:'Cat6 \u00b7 Cat6A \u00b7 Fiber',v:'from $175/drop',c:''},
@@ -1747,7 +1750,7 @@ if(p.indexOf('intercom')!==-1)return{type:'intercom'};
 if(p.indexOf('cabling')!==-1||p.indexOf('structured-cabling')!==-1){var ca=detectCablingArea(p);return{type:'cabling',area:ca};}
 if(p.indexOf('camera')!==-1||p.indexOf('cctv')!==-1||p.indexOf('surveillance')!==-1){
 var area=detectArea(p);
-return{type:'camera',area:area||'brooklyn'};
+return{type:'camera',area:area||'nyc'};
 }
 return{type:'homepage'};
 }
@@ -1755,11 +1758,12 @@ function render(info){
 var s;
 if(info.type==='camera'){s=camSilo(info.area)}
 else if(info.type==='cabling'){s=cablingSilo(info.area)}else{s=S[info.type]||S.homepage}
+/*CAMADD*/if(info.type!=='camera'&&info.type!=='homepage'&&!s.chips.some(function(x){return /Cameras/.test(x.t)})){s.chips=s.chips.concat([camChip()])}
 var tr=document.getElementById('spbTrack'),ct=document.getElementById('spbCta'),lb=document.getElementById('spbLabelText');
 if(!tr||!ct||!lb)return;
 lb.textContent=s.label;
 var h='';
-for(var r=0;r<2;r++){for(var i=0;i<s.chips.length;i++){var c=s.chips[i];h+='<a href="'+s.ph+'" class="spb-chip '+(c.c||'')+'"><span class="spb-chip-tag">'+c.t+'</span><span class="spb-chip-mid">'+c.m+'</span><span class="spb-chip-val">'+c.v+'</span></a><span class="spb-chip-div"></span>';}}
+for(var r=0;r<2;r++){for(var i=0;i<s.chips.length;i++){var c=s.chips[i];h+='<a href="'+(c.h||s.ph)+'" class="spb-chip '+(c.c||'')+'"><span class="spb-chip-tag">'+c.t+'</span><span class="spb-chip-mid">'+c.m+'</span><span class="spb-chip-val">'+c.v+'</span></a><span class="spb-chip-div"></span>';}}
 tr.innerHTML=h;
 tr.style.animationDuration=Math.max(25,s.chips.length*4.5)+'s';
 ct.innerHTML='<a href="'+s.ph+'" class="spb-btn-primary">'+s.pi+' '+s.pl+'</a><a href="'+s.sh+'" class="spb-btn-secondary">'+s.si+' '+s.sl+'</a>';

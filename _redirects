@@ -1,3 +1,5 @@
+/configurator-a1-brooklyn.html  /security-camera-pricing-brooklyn  301!
+/configurator-a1-brooklyn  /security-camera-pricing-brooklyn  301!
 # ============================================================
 # PRIVATE: internal build files - never served publicly (forced 404, first match wins).
 # Add a line here for every new MANIFEST file (Netlify can't wildcard part of a filename).
@@ -965,6 +967,7 @@
 /build-cabling-system.html  /build-cabling-system  301!
 /camera-calculator.html  /camera-calculator  301!
 /our-cameras.html  /our-cameras  301!
+/name-brand-cameras.html  /name-brand-cameras  301!
 /careers.html  /careers  301!
 /cat6-installation-bronx.html  /cat6-installation-bronx  301!
 /cat6-installation-brooklyn.html  /cat6-installation-brooklyn  301!
@@ -1016,7 +1019,6 @@
 /commercial-security-systems-suffolk-county.html  /commercial-security-systems-suffolk-county  301!
 /commercial-security-systems-ulster.html  /commercial-security-systems-ulster  301!
 /commercial-security-systems-westchester.html  /commercial-security-systems-westchester  301!
-/configurator-a1-brooklyn.html  /configurator-a1-brooklyn  301!
 /construction-site-security-camera-installation-bronx.html  /construction-site-security-camera-installation-bronx  301!
 /construction-site-security-camera-installation-brooklyn.html  /construction-site-security-camera-installation-brooklyn  301!
 /construction-site-security-camera-installation-dutchess-county.html  /construction-site-security-camera-installation-dutchess-county  301!
@@ -2634,6 +2636,7 @@
 /free-quote  /free-quote.html  200
 /camera-calculator  /camera-calculator.html  200
 /our-cameras  /our-cameras.html  200
+/name-brand-cameras  /name-brand-cameras.html  200
 /about-us  /about-us.html  200
 /contact-us  /contact-us.html  200
 /warranty  /warranty.html  200
