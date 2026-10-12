@@ -527,7 +527,7 @@ a{color:inherit;text-decoration:none}
 <button class="dc-b" id="dropP" onclick="chgDrop(1)">+</button>
 </div>
 <div class="cs-pn">Each drop = one complete connection from device to patch panel/rack.</div>
-<div class="min-notice" id="minNotice">Minimum job size: $795. Your current total is below minimum.</div>
+<div class="min-notice" id="minNotice">Minimum job size: $795 (plus $150 Manhattan parking). Your current total is below minimum.</div>
 </div>
 
 <!-- Step 3: Project Type -->
@@ -558,7 +558,7 @@ a{color:inherit;text-decoration:none}
 
 <!-- RIGHT: SUMMARY -->
 <div class="summary">
-<div class="sum-hdr"><div class="tl">Project Total</div><div class="tv" id="sumTotal">$0</div><div class="tn">Installation included</div></div>
+<div class="sum-hdr"><div class="tl">Project Total</div><div class="tv" id="sumTotal">$0</div><div class="tn">Installation + $150 Manhattan parking included</div></div>
 <div class="sum-body">
 <div class="sl--sec"><span class="sll">Cable Drops</span></div>
 <div class="sl" id="slCable"><span class="sll" id="slCableL">Select cable type</span><span class="slv" id="slCableV">—</span></div>
@@ -856,7 +856,7 @@ function getTotal(){
   if(st.shielded)base+=50*st.drops;
   if(st.voicedrop)base+=st.cable.price*st.drops;
   if(st.proj==='newcon')base=Math.round(base*0.9);
-  return Math.max(base,MIN_JOB);
+  return Math.max(base,MIN_JOB)+150; /* Manhattan parking */
 }
 
 function getRawTotal(){

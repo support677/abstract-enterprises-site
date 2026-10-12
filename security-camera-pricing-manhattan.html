@@ -702,7 +702,7 @@ a{color:inherit;text-decoration:none}img{max-width:100%;height:auto}
 </div>
 
 <!-- TOTAL BAR -->
-<div class="cfg-total" id="cfgTotalBar"><div class="cfg-total-left"><div class="tl">Your System Total</div><div class="tv" id="cfgTotal">$0</div></div><button class="cfg-book" onclick="cfShowForm()">Book Installation →</button></div>
+<div class="cfg-total" id="cfgTotalBar"><div class="cfg-total-left"><div class="tl">Your System Total (incl. $150 Manhattan parking)</div><div class="tv" id="cfgTotal">$0</div></div><button class="cfg-book" onclick="cfShowForm()">Book Installation →</button></div>
 
 <!-- CONTACT FORM (hidden initially) -->
 <div class="cfg-form" id="cfgForm">
@@ -761,7 +761,7 @@ function getTotal(){
   t+=cfg.color;
   if(cfg.audio)t+=cfg.camCount*cfg.audioEach;
   if(cfg.k4)t+=cfg.k4price;
-  return t;
+  return t+150; /* Manhattan parking */
 }
 
 function updateCfg(){
