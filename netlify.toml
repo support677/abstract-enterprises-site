@@ -1,0 +1,10 @@
+# Product photos on the brand price pages are pulled from the manufacturers' / retailers' image CDNs
+# through Netlify Image CDN (/.netlify/images?url=...), resized to webp and cached on our domain.
+[images]
+  remote_images = [
+    "https://cdn\\.shopify\\.com/.*",
+    "https://cdn\\.ecomm\\.ui\\.com/.*",
+    "https://www\\.bhphotovideo\\.com/.*",
+    "https://datacenter\\.luminyscorp\\.com/.*",
+    "https://www\\.streakwave\\.com/.*",
+  ]
