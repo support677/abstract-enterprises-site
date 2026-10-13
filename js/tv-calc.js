@@ -97,6 +97,12 @@
     { id: 'led', t: 'LED bias lighting', p: 75 },
     { id: 'theater', t: 'Full home theater setup', p: 350 },
     { id: 'remove', t: 'Take down old TV', p: 85 },
+    { id: 'bremove', t: 'Remove old bracket', p: 45 },
+    { id: 'corner', t: 'Corner mount', p: 40 },
+    { id: 'backer', t: 'Plywood backer board (big TVs on metal studs or plaster)', p: 85 },
+    { id: 'cabinet', t: 'Cable run to a cabinet or other spot (up to 25 ft)', p: 99 },
+    { id: 'walkup', t: 'Walk-up carry, 3rd floor or higher, no elevator', p: 40 },
+    { id: 'boxes', t: 'Take away TV box & packaging', p: 25 },
     { id: 'haul', t: 'Haul away old TV for recycling', p: 79 },
     { id: 'coi', t: 'COI for your building', p: 0 }
   ];
@@ -137,6 +143,11 @@
     '.atv-note{font-size:.76rem;opacity:.65;margin:10px 0 0}' +
     '.atv-cta{display:block;text-align:center;background:#00a3ff;color:#fff !important;padding:14px;border-radius:8px;font-weight:800;margin-top:14px;text-decoration:none}' +
     '.atv-cta.alt{background:transparent;border:2px solid rgba(255,255,255,.35)}' +
+    '.atv-terms{margin-top:14px;background:rgba(255,255,255,.07);border-radius:8px;padding:10px 12px;font-size:.82rem;line-height:1.5}' +
+    '.atv-terms summary{cursor:pointer;font-weight:800}.atv-terms p{margin:8px 0 0;opacity:.92}' +
+    '.atv-agree{display:flex;gap:8px;align-items:flex-start;margin-top:12px;font-size:.85rem;cursor:pointer}' +
+    '.atv-agree input{width:18px;height:18px;margin-top:1px;flex:none}' +
+    '.atv-cta.off{opacity:.45;pointer-events:auto}' +
     '.atv-setup{border:2px dashed #00a3ff;border-radius:12px;padding:16px;margin-top:22px;background:#f5fbff}' +
     '.atv-setup h4{margin:0 0 4px;color:#0b1f3a}.atv-setup p{margin:0 0 10px;color:#3c4858;font-size:.9rem}' +
     '.atv-setup a{display:inline-block;background:#0b1f3a;color:#fff !important;padding:11px 16px;border-radius:8px;font-weight:700;text-decoration:none}';
@@ -166,6 +177,17 @@
     '<div class="atv-sec"><div class="atv-lab">6 · Number of TVs</div><div class="atv-qty"><button type="button" data-q="-1">−</button><span id="atvQty">1</span><button type="button" data-q="1">+</button><small style="color:#5a6578">10% off each additional TV</small></div></div>' +
     '<div class="atv-est"><h4>Your price</h4><div class="atv-total" id="atvTotal"></div><div id="atvLines"></div>' +
     '<p class="atv-note">Paid in full at checkout (tax added at checkout). Anything we find on site that you didn\'t select — like brick behind drywall — is quoted before we do it.</p>' +
+    '<details class="atv-terms" open><summary>What\'s included, what\'s not &amp; our policies</summary>' +
+    '<p><b>Included:</b> finding studs, mounting and leveling your TV, connecting it to power and up to 2 devices you already have, tidying the cables behind the TV, and cleaning up our dust.</p>' +
+    '<p><b>Not included:</b> patching or painting holes (including holes from an old bracket), electrical work — we don\'t add or move outlets (an in-wall power kit is available above), the bracket unless you add one, moving heavy furniture, and picture calibration.</p>' +
+    '<p><b>No surprise charges:</b> if we find something on site you didn\'t select (brick behind drywall, metal studs that need backing, no TV or bracket on site), we tell you the price before doing anything. Nothing extra is charged without your OK.</p>' +
+    '<p><b>Your bracket:</b> it must be rated for your TV\'s size and weight. If it isn\'t, we won\'t hang the TV on it — we\'ll offer a bracket that is.</p>' +
+    '<p><b>Fragile walls:</b> we drill tile, marble and pre-war plaster with the right bits and care, but these materials can crack. By booking you accept that risk. We scan for pipes and wires before drilling.</p>' +
+    '<p><b>Be ready:</b> TV and bracket on site, the area clear, and any building approvals, elevator booking or COI requested at least 48 hours ahead. If we can\'t start because something is missing, a $150 return-trip fee applies.</p>' +
+    '<p><b>Reschedule / cancel:</b> free with 24 hours\' notice. Less than 24 hours or no access at arrival: $150 is kept and the rest refunded.</p>' +
+    '<p><b>Warranty:</b> brackets and parts carry the manufacturer\'s warranty. Labor isn\'t under warranty.</p>' +
+    '</details>' +
+    '<label class="atv-agree"><input type="checkbox" id="atvAgree"> I\'ve read what\'s included and the policies above</label>' +
     '<a href="#" class="atv-cta" id="atvPay">Book &amp; Pay Now →</a>' +
     '<a href="tel:8004860943" class="atv-cta alt">Call (800) 486-0943</a></div>' +
     '<div class="atv-setup"><h4>Just need your TV &amp; devices set up?</h4>' +
@@ -221,6 +243,7 @@
       return '<div class="atv-line"><span>' + l[0] + '</span><span>' + money(r2(l[1])) + '</span></div>';
     }).join('');
     document.getElementById('atvQty').textContent = S.qty;
+    document.getElementById('atvPay').classList.toggle('off', !document.getElementById('atvAgree').checked);
     var pAmt = (P.proj ? PROJ : 0) + (P.screen ? SCREEN : 0);
     document.getElementById('atvProj').textContent = pAmt ? 'Book Projector Install — ' + money(r2(pAmt + (Z.parking || 0))) + ' →' : 'Pick a projector service above';
     var standMode = S.style === 'stand';
@@ -235,6 +258,9 @@
     }
   }
 
+  host.addEventListener('change', function (e) {
+    if (e.target.id === 'atvAgree') { document.querySelector('.atv-agree').style.outline = ''; render(); }
+  });
   host.addEventListener('click', function (e) {
     var pb = e.target.closest('[data-g=proj]');
     if (pb) { P[pb.getAttribute('data-id')] = !P[pb.getAttribute('data-id')]; render(); return; }
@@ -251,6 +277,14 @@
       var open = !panel.classList.contains('open');
       panel.classList.toggle('open', open);
       document.getElementById('stickyArrow').classList.toggle('open', open);
+      return;
+    }
+    var payTarget = e.target.closest('#atvPay, #atvSetup, #atvProj');
+    if (payTarget && !document.getElementById('atvAgree').checked) {
+      e.preventDefault();
+      var box = document.querySelector('.atv-agree');
+      box.style.outline = '2px solid #ffb020'; box.style.borderRadius = '6px';
+      box.scrollIntoView({ behavior: 'smooth', block: 'center' });
       return;
     }
     if (e.target.closest('#atvPay')) {
