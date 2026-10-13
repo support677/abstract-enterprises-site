@@ -14,4 +14,7 @@
     "https://(www\\.)?gwsecurityusa\\.com/.*",
     "https://(www\\.)?888voip\\.com/.*",
     "https://(www\\.)?bluecctv\\.net/.*",
+    "https://static\\.tp-link\\.com/.*",
+    "https://webobjects2\\.cdw\\.com/.*",
+    "https://d1unzhqf5a606m\\.cloudfront\\.net/.*",
   ]
