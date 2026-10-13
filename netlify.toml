@@ -10,4 +10,8 @@
     "https://lh3\\.googleusercontent\\.com/.*",
     "https://home-cdn\\.reolink\\.us/.*",
     "https://m\\.media-amazon\\.com/.*",
+    "https://cdn11\\.bigcommerce\\.com/.*",
+    "https://(www\\.)?gwsecurityusa\\.com/.*",
+    "https://(www\\.)?888voip\\.com/.*",
+    "https://(www\\.)?bluecctv\\.net/.*",
   ]
