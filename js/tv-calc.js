@@ -41,9 +41,10 @@
 
   var SIZES = [
     { id: 's55', t: '32"–55"', p: 0 },
-    { id: 's75', t: '56"–75"', p: 0 },
-    { id: 's85', t: '76"–85"', p: 40 },
-    { id: 's97', t: '86"–97"', p: 150, note: '2 technicians' },
+    { id: 's65', t: '56"–65"', p: 30 },
+    { id: 's75', t: '66"–75"', p: 60 },
+    { id: 's85', t: '76"–85"', p: 100 },
+    { id: 's97', t: '86"–97"', p: 175, note: '2 technicians' },
     { id: 's98', t: '98"+', p: 220, note: '2 technicians' }
   ];
   var STYLES = [
