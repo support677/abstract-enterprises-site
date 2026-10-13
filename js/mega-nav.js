@@ -201,3 +201,22 @@ var m=document.querySelector('button[onclick="mnmPickPricing(\'cam\')"]');
 if(m&&!document.querySelector('button[onclick="mnmPickPricing(\'tvprice\')"]')){var c=m.cloneNode(true);c.setAttribute('onclick',"mnmPickPricing('tvprice')");c.innerHTML='\uD83D\uDCFA TV Mounting Pricing<span class="mnm-path-arrow">&rsaquo;</span>';m.parentNode.insertBefore(c,m.nextSibling);}
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',add);else add();})();
+
+/* TV pages: sticky bar was falling back to the homepage set (Build Your System -> /alarm-calculator). Swap in TV content. */
+(function(){function fix(){
+var p=location.pathname.toLowerCase();if(!/\/tv-(installation|mounting)/.test(p)||p.indexOf('policies')>-1)return;
+var tr=document.getElementById('spbTrack'),ct=document.getElementById('spbCta'),lb=document.getElementById('spbLabelText');if(!tr||!ct)return;
+var Z=[['brooklyn',179.99,'brooklyn'],['bronx',209.99,'bronx'],['queens',179.99,'queens'],['staten-island',209.99,'staten-island'],['manhattan',244.99,'manhattan'],
+['nassau',209.99,'nassau-county'],['long-island',209.99,'long-island'],['suffolk',229.99,'suffolk-county'],['westchester',219.99,'westchester-county'],['rockland',219.99,'rockland-county'],
+['orange',229.99,'orange-county'],['putnam',229.99,'putnam-county'],['dutchess',254.99,'dutchess-county'],['ulster',254.99,'ulster-county'],['hudson-valley',219.99,'hudson-valley']];
+var b=179.99,pg='nyc';for(var i=0;i<Z.length;i++){if(p.indexOf(Z[i][0])>-1){b=Z[i][1];pg=Z[i][2];break;}}
+function f(x){return '$'+x.toFixed(2)}
+var priceUrl='/tv-mounting-prices-'+pg,calc=document.getElementById('aessTvCalc');
+var chips=[['📺 TV Mounting','Up to 55″ on drywall','from '+f(b),'spb-chip--gold'],['65″ TV','Flat or tilt mount',f(b+30),''],['75″ TV','Flat or tilt mount',f(b+60),''],
+['85″ TV','Flat or tilt mount',f(b+100),''],['🔥 Over Fireplace','Fixed or tilt','+$130',''],['🔌 Hidden Wires','In-wall power & cable kit','$169','spb-chip--green'],
+['🔊 Soundbar','Wall-mounted & connected','$129',''],['📋 Licensed','NYS Lic. #12000287431','Insured','']];
+var h='';for(var r=0;r<2;r++)for(var j=0;j<chips.length;j++){var c=chips[j];h+='<a href="'+(calc?'#aessTvCalc':priceUrl)+'" class="spb-chip '+c[3]+'"><span class="spb-chip-tag">'+c[0]+'</span><span class="spb-chip-mid">'+c[1]+'</span><span class="spb-chip-val">'+c[2]+'</span></a><span class="spb-chip-div"></span>';}
+tr.innerHTML=h;if(lb)lb.textContent='TV Mounting';
+var a=ct.querySelector('.spb-btn-primary');if(a){a.setAttribute('href',calc?'#aessTvCalc':priceUrl);a.innerHTML=a.innerHTML.replace(/Build Your System|Get Free Quote|Free Quote/,'See My TV Price');if(a.textContent.indexOf('See My TV Price')<0)a.textContent='See My TV Price';}
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',fix);else fix();})();
