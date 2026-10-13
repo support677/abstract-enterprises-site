@@ -1,6 +1,6 @@
 import sys, json, re, html, os
 sys.path.insert(0, '/tmp/claude-0/-home-claude/79c6f0e5-974d-5a24-9def-72172566d30a/scratchpad')
-from nb import NB
+from nb import NB, LOGI
 from newpages import sec, p, cards, faq, T, BASE, strip, FI
 
 SITE = "/home/claude/abstract-enterprises-site"
@@ -202,7 +202,11 @@ def build(k):
             rows.append((wn,)+tuple(m(base+sa+wa+PK) for sa in (0,30,60,100)))
         nbt = ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">Neighborhood by neighborhood: what a 65&Prime; job usually costs in %s</h3></div>' % A['areas'][0][0] +
                tbl(['Neighborhood', 'Housing you&#x2019;ll mostly find', 'Walls we plan for', 'Typical 65&Prime; flat/tilt job%s' % (' (with parking)' if PK else '')], NB(k, base, PK)) +
-               p('Every building is different, so we confirm the wall when we arrive and the calculator below gives your exact number.', .14)) if k in ('brooklyn','queens','manhattan') else ''
+               p('Every building is different, so we confirm the wall when we arrive and the calculator below gives your exact number.', .14)) if k in ('brooklyn','queens','manhattan','bronx','nassau-county') else ''
+        if k in LOGI:
+            lt, lrows, lnote = LOGI[k]
+            nbt += ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">%s</h3></div>' % lt +
+                    tbl(['What the building or job needs', 'How we handle it', 'Cost to you'], lrows) + p(lnote, .14))
         if k == 'manhattan':
             nbt += ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">Manhattan building logistics and what they cost you</h3></div>' +
                 tbl(['What the building or job needs', 'How we handle it', 'Cost to you'], [
@@ -289,9 +293,12 @@ def build(k):
              ('/tv-installation-rockland-county','TV installation New City')],
      'manhattan': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn'),('/tv-mounting-prices-queens','TV mounting Astoria Queens')],
      'brooklyn': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-queens','TV wall mounting Queens')],
+     'bronx': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-queens','TV wall mounting Queens')],
+     'staten-island': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn'),('/tv-mounting-prices-bronx','TV mounting Bronx')],
+     'nassau-county': [('/tv-mounting-prices-long-island','TV mounting Long Island'),('/tv-mounting-prices-suffolk-county','TV mounting Suffolk County')],
      'queens': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn')],
     }.get(k, [('/tv-mounting-prices-%s' % PAR, 'TV mounting %s' % PARENT_NAME.get(PAR, ''))])
-    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley','manhattan':'TV mounting Manhattan','brooklyn':'TV mounting prices Brooklyn','queens':'TV mounting prices Queens NY'}.get(k, 'TV mounting prices ' + A['name'])
+    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley','manhattan':'TV mounting Manhattan','brooklyn':'TV mounting prices Brooklyn','queens':'TV mounting prices Queens NY','bronx':'TV mounting Bronx','nassau-county':'TV mounting Hicksville &amp; Hempstead'}.get(k, 'TV mounting prices ' + A['name'])
     up = p('<b>Up one level:</b> <a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices across %s</a>' % (PAR, PARENT_NAME[PAR]), .12) if PAR else ''
     silo = up + (p('<b>%s:</b> ' % A['kids_title'] + ' &middot; '.join('<a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices %s</a>' % (kk, nm) for kk, nm, _ in kids)) +
             p('<b>Book the service:</b> <a class="lnk" href="%s">TV mounting and installation service in %s</a>%s' % (svc, P, '' if PAR else ' &middot; ') +
