@@ -2,7 +2,7 @@ import re, json, os, sys, html, itertools
 SITE="/home/claude/abstract-enterprises-site"; BP=os.path.dirname(os.path.abspath(__file__))
 ALL=sys.argv[1].split(','); NEW=sys.argv[2].split(',')
 GB={'nyc':'Troy','long-island':'Troy','hudson-valley':'Fordham','manhattan':'Fordham','brooklyn':'Troy','queens':'Fordham','bronx':'Fordham','staten-island':'Troy',
-    'nassau-county':'Troy','suffolk-county':'Troy'}
+    'nassau-county':'Troy','suffolk-county':'Troy','westchester-county':'Fordham','rockland-county':'Fordham','orange-county':'Fordham','putnam-county':'Fordham','dutchess-county':'Fordham','ulster-county':'Fordham'}
 def txt(s): return re.sub(r'\s+',' ',html.unescape(re.sub(r'<[^>]+>',' ',re.sub(r'<(script|style)[^>]*>.*?</\1>',' ',s,flags=re.S))))
 def nq(q): return re.sub(r'[^a-z0-9 ]','',html.unescape(re.sub('<[^>]+>','',q)).lower()).strip()
 out=[]; sizes={}; Q={}

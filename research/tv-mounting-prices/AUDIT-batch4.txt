@@ -1,0 +1,14 @@
+== suffolk-county  title=48 meta=158 words=10220 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-installation-suffolk-county tv-mounting-prices-long-island tv-mounting-prices-nassau-county
+== westchester-county  title=52 meta=158 words=9722 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-installation-westchester-county tv-mounting-prices-dutchess-county tv-mounting-prices-hudson-valley tv-mounting-prices-orange-county tv-mounting-prices-putnam-county tv-mounting-prices-rockland-county tv-mounting-prices-ulster-county
+== rockland-county  title=56 meta=158 words=10426 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-installation-rockland-county tv-mounting-prices-dutchess-county tv-mounting-prices-hudson-valley tv-mounting-prices-orange-county tv-mounting-prices-putnam-county tv-mounting-prices-ulster-county tv-mounting-prices-westchester-county
+FLAG nyc/suffolk-county gap=1656 dupQ=0 []
+FLAG nyc/westchester-county gap=65 dupQ=0 []
+FLAG brooklyn/suffolk-county gap=954 dupQ=0 []
+FLAG brooklyn/rockland-county gap=1425 dupQ=0 []
+FLAG queens/rockland-county gap=1215 dupQ=0 []
+FLAG nassau-county/rockland-county gap=790 dupQ=0 []
+FLAG suffolk-county/westchester-county gap=1591 dupQ=0 []
+sizes {'nyc': 177606, 'long-island': 171603, 'hudson-valley': 174275, 'manhattan': 185564, 'brooklyn': 180216, 'queens': 182856, 'bronx': 188625, 'staten-island': 174371, 'nassau-county': 182431, 'suffolk-county': 179262, 'westchester-county': 177671, 'rockland-county': 181641}
