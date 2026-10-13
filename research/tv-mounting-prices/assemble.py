@@ -1,5 +1,6 @@
 import sys, json, re, html, os
 sys.path.insert(0, '/tmp/claude-0/-home-claude/79c6f0e5-974d-5a24-9def-72172566d30a/scratchpad')
+from nb import NB
 from newpages import sec, p, cards, faq, T, BASE, strip, FI
 
 SITE = "/home/claude/abstract-enterprises-site"
@@ -23,6 +24,22 @@ HUBS = {
          ('dutchess-county', 'Dutchess', 'tv-installation-dutchess-county'), ('ulster-county', 'Ulster', 'tv-installation-ulster-county')],
    kids_title='TV Mounting Prices in Every Hudson Valley County'),
 }
+
+NYC_SIB=[('manhattan','Manhattan',244.99,265,'manhattan','bronx'),('brooklyn','Brooklyn',179.99,195,'brooklyn','brooklyn'),('queens','Queens',179.99,195,'queens','bronx'),
+         ('bronx','the Bronx',209.99,225,'bronx','bronx'),('staten-island','Staten Island',209.99,225,'statenisland','brooklyn')]
+LI_SIB=[('nassau-county','Nassau County',209.99,225,'nassau','brooklyn'),('suffolk-county','Suffolk County',229.99,250,'suffolk','brooklyn')]
+HV_SIB=[('westchester-county','Westchester County',219.99,235,'westchester','bronx'),('rockland-county','Rockland County',219.99,235,'rockland','bronx'),
+        ('orange-county','Orange County',229.99,250,'orange','bronx'),('putnam-county','Putnam County',229.99,250,'putnam','bronx'),
+        ('dutchess-county','Dutchess County',254.99,275,'dutchess','bronx'),('ulster-county','Ulster County',254.99,275,'ulster','bronx')]
+SPOKES={}
+for parent, sib, title in (('nyc',NYC_SIB,'TV Mounting Prices in the Other NYC Boroughs'),('long-island',LI_SIB,'TV Mounting Prices Elsewhere on Long Island'),
+                           ('hudson-valley',HV_SIB,'TV Mounting Prices in Other Hudson Valley Counties')):
+    for kk,nm,bs,hr,zn,gb in sib:
+        SPOKES[kk]=dict(name=nm[4:].capitalize() if nm.startswith('the ') else nm, place=nm, zone=zn, base=bs, hourly=hr, gbp=gb,
+            svc='tv-installation-'+kk, areas=[(nm[0].upper()+nm[1:], bs)], parent=parent,
+            kids=[(a, b, 'tv-installation-'+a) for a,b,*_ in sib if a!=kk], kids_title=title)
+SPOKES['bronx']['name']='Bronx'
+PARENT_NAME={'nyc':'NYC','long-island':'Long Island','hudson-valley':'Hudson Valley'}
 GBP = {
  'brooklyn': dict(street='1282 Troy Ave', city='Brooklyn', zip='11203', review='https://g.page/r/CeOVMclhop84EBM/review'),
  'bronx': dict(street='460 E Fordham Rd', city='Bronx', zip='10458', review='https://g.page/r/Ca_eMyn6_brDEBM/review'),
@@ -74,7 +91,7 @@ def full_form(k, area):
             '<button type="submit" class="bp" style="border:0;cursor:pointer">Request My Quote &rarr;</button></form></div>') % (area, k)
 
 def build(k):
-    A = HUBS[k]; D = json.load(open(os.path.join(BP, k + '.json')))
+    A = HUBS.get(k) or SPOKES[k]; PAR = A.get('parent'); PK = 150 if k == 'manhattan' else 0; D = json.load(open(os.path.join(BP, k + '.json')))
     P = A['place']; base = A['base']; hourly = A['hourly']; g = GBP[A['gbp']]
     svc = '/' + A['svc']; slug = 'tv-mounting-prices-' + k
     s = T
@@ -108,7 +125,7 @@ def build(k):
      {"@context": "https://schema.org", "@type": "Service", "serviceType": "TV mounting", "name": "TV Mounting in " + strip(P),
       "areaServed": strip(P), "provider": {"@id": BASE + "/#" + A['gbp']},
       "offers": {"@type": "Offer", "priceCurrency": "USD", "price": "%.2f" % base,
-                 "description": "32-55 inch TV, flat or tilt mount on drywall over wood studs, labor included"}},
+                 "description": "32-55 inch TV, flat or tilt mount on drywall over wood studs, labor included" + ("; plus flat $150 Manhattan parking charge" if PK else "")}},
      {"@context": "https://schema.org", "@type": "HowTo", "name": "How to book TV mounting in " + strip(P),
       "step": [{"@type": "HowToStep", "position": i + 1, "name": strip(x['title']), "text": strip(x['text'])} for i, x in enumerate(D['process'])]},
      {"@context": "https://schema.org", "@type": "Person", "name": "Anwar Timothy", "jobTitle": "Owner",
@@ -116,7 +133,8 @@ def build(k):
       "hasCredential": {"@type": "EducationalOccupationalCredential", "credentialCategory": "license", "name": "NYS Low-Voltage License #12000287431"}},
      {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
       {"@type": "ListItem", "position": 1, "name": "Home", "item": BASE + "/"},
-      {"@type": "ListItem", "position": 2, "name": "TV Mounting Prices " + A['name'], "item": "%s/%s" % (BASE, slug)}]},
+      ] + ([{"@type": "ListItem", "position": 2, "name": "TV Mounting Prices " + PARENT_NAME[PAR], "item": "%s/tv-mounting-prices-%s" % (BASE, PAR)}] if PAR else []) + [
+      {"@type": "ListItem", "position": 3 if PAR else 2, "name": "TV Mounting Prices " + A['name'], "item": "%s/%s" % (BASE, slug)}]},
      {"@context": "https://schema.org", "@type": "WebPage", "name": strip(D['title']), "url": "%s/%s" % (BASE, slug),
       "dateModified": TODAY, "author": {"@type": "Person", "name": "Anwar Timothy"}}]
     extra_schema = ''.join('<script type="application/ld+json">%s</script>\n' % json.dumps(x, ensure_ascii=False) for x in extra)
@@ -178,20 +196,45 @@ def build(k):
     b.append('<!-- ELEMENT 13: COVERAGE AREA -->\n' + sec('sg', 'Coverage Area', D['landmarks_h2'], '', lcards(D['landmarks']) + p(D['also_serve'], .18)))
 
     # §14 pricing (verified numbers only)
-    MAT = {'nyc': [('Brooklyn',179.99),('Queens',179.99),('The Bronx',209.99),('Staten Island',209.99),('Manhattan*',244.99)],
-           'long-island': [('Nassau County',209.99),('Suffolk County',229.99)],
-           'hudson-valley': [('Westchester',219.99),('Rockland',219.99),('Orange County',229.99),('Putnam',229.99),('Dutchess',254.99),('Ulster',254.99)]}[k]
-    hubtbl = (tbl(['Area', 'Up to 55&Prime;', '65&Prime;', '75&Prime;', '85&Prime;', '65&Prime; over a brick fireplace'],
-                  [(n, m(v), m(v+30), m(v+60), m(v+100), m(v+30+130+65)) for n, v in MAT]) +
-              (p('*Manhattan adds a flat $150 parking charge to every job.', .14) if k == 'nyc' else '') +
-              (('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">What usually changes the price, borough by borough</h3></div>' +
-                tbl(['Borough', 'Walls we see most', 'Common add-ons', 'Typical extra'],
-                    [('Brooklyn', 'Plaster over brick in brownstones and row houses; exposed brick', 'Plaster or brick charge, cord cover on brick, walk-up carry', '+$45 to +$65, $59, $40'),
-                     ('Queens', 'Plaster in prewar co-ops; drywall over wood studs in two-families and houses', 'Fireplace mounts in detached houses, cable runs to basements', '+$130, $99'),
-                     ('The Bronx', 'Thick prewar plaster; concrete and block in large co-op complexes', 'Plaster or concrete charge, COI for the building', '+$45 to +$75, COI free'),
-                     ('Staten Island', 'Drywall over wood studs in houses; brick and stone fireplaces', 'Above-fireplace mounts, outdoor patio TVs', '+$130, +$90'),
-                     ('Manhattan', 'Concrete and metal-stud partitions in high-rises; plaster in prewar co-ops', 'Parking, metal studs or concrete, backer board for big TVs', '$150, +$30 to +$75, $85')])) if k == 'nyc' else '') +
-              p('All prices: flat or tilt mount on drywall over wood studs unless noted, labor only, bracket extra.', .15))
+    if PAR:
+        rows=[]
+        for wn, wa in (('Drywall over wood studs',0),('Drywall over metal studs',30),('Plaster',45),('Brick or stone',65),('Concrete or cinder block',75)):
+            rows.append((wn,)+tuple(m(base+sa+wa+PK) for sa in (0,30,60,100)))
+        nbt = ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">Neighborhood by neighborhood: what a 65&Prime; job usually costs in %s</h3></div>' % A['areas'][0][0] +
+               tbl(['Neighborhood', 'Housing you&#x2019;ll mostly find', 'Walls we plan for', 'Typical 65&Prime; flat/tilt job%s' % (' (with parking)' if PK else '')], NB(k, base, PK)) +
+               p('Every building is different, so we confirm the wall when we arrive and the calculator below gives your exact number.', .14)) if k in ('brooklyn','queens','manhattan') else ''
+        if k == 'manhattan':
+            nbt += ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">Manhattan building logistics and what they cost you</h3></div>' +
+                tbl(['What the building or job needs', 'How we handle it', 'Cost to you'], [
+                    ('Certificate of insurance naming the building and management company', 'Sent to the managing agent before the visit, matched to their sample wording', 'Free'),
+                    ('Service or freight elevator reservation', 'You or your doorman book the slot; we arrive inside it', '$0 from us'),
+                    ('Work allowed only on weekdays during set hours', 'We book inside the building&#x2019;s window', '$0'),
+                    ('Street parking for the work van', 'Flat charge on every Manhattan job, no meter math on your bill', '$150'),
+                    ('Walk-up, 3rd floor or higher, no elevator', 'Two trips with tools and the TV', '$40'),
+                    ('Metal-stud partition and a TV over about 65 lb', 'Plywood backer board behind the bracket, painted to match on request', '$85 + $30 metal-stud add'),
+                    ('Concrete or block wall in a postwar or new tower', 'Hammer-drill with masonry anchors rated for the TV and bracket', '+$75'),
+                    ('Wires hidden in the wall', 'Code-compliant power and cable kit; no new outlet wiring', '$169'),
+                    ('Old TV left behind after the install', 'Taken down and hauled away so it doesn&#x2019;t sit in the hallway', '$85 + $79')]) +
+                p('Need the alteration agreement or board paperwork filled out? Send it with your request and we&#x2019;ll return it with the COI.', .14))
+        hubtbl=('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:10px">%s prices by wall and TV size%s</h3></div>' % (A['areas'][0][0], ' (parking included)' if PK else '') +
+                tbl(['Wall', 'Up to 55&Prime;', '56&ndash;65&Prime;', '66&ndash;75&Prime;', '76&ndash;85&Prime;'], rows) +
+                (p('Every Manhattan job carries a flat $150 parking charge, already added to every number in this table. The size, wall, mount and extras tables below show the labor before parking.', .14) if PK else '') +
+                nbt + p('Flat or tilt mount, labor only, bracket extra. Back up to the <a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices for all of %s</a>.' % (PAR, PARENT_NAME[PAR]), .15))
+    else:
+        MAT = {'nyc': [('Brooklyn',179.99),('Queens',179.99),('The Bronx',209.99),('Staten Island',209.99),('Manhattan*',244.99)],
+               'long-island': [('Nassau County',209.99),('Suffolk County',229.99)],
+               'hudson-valley': [('Westchester',219.99),('Rockland',219.99),('Orange County',229.99),('Putnam',229.99),('Dutchess',254.99),('Ulster',254.99)]}[k]
+        hubtbl = (tbl(['Area', 'Up to 55&Prime;', '65&Prime;', '75&Prime;', '85&Prime;', '65&Prime; over a brick fireplace'],
+                      [(n, m(v), m(v+30), m(v+60), m(v+100), m(v+30+130+65)) for n, v in MAT]) +
+                  (p('*Manhattan adds a flat $150 parking charge to every job.', .14) if k == 'nyc' else '') +
+                  (('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">What usually changes the price, borough by borough</h3></div>' +
+                    tbl(['Borough', 'Walls we see most', 'Common add-ons', 'Typical extra'],
+                        [('Brooklyn', 'Plaster over brick in brownstones and row houses; exposed brick', 'Plaster or brick charge, cord cover on brick, walk-up carry', '+$45 to +$65, $59, $40'),
+                         ('Queens', 'Plaster in prewar co-ops; drywall over wood studs in two-families and houses', 'Fireplace mounts in detached houses, cable runs to basements', '+$130, $99'),
+                         ('The Bronx', 'Thick prewar plaster; concrete and block in large co-op complexes', 'Plaster or concrete charge, COI for the building', '+$45 to +$75, COI free'),
+                         ('Staten Island', 'Drywall over wood studs in houses; brick and stone fireplaces', 'Above-fireplace mounts, outdoor patio TVs', '+$130, +$90'),
+                         ('Manhattan', 'Concrete and metal-stud partitions in high-rises; plaster in prewar co-ops', 'Parking, metal studs or concrete, backer board for big TVs', '$150, +$30 to +$75, $85')])) if k == 'nyc' else '') +
+                  p('All prices: flat or tilt mount on drywall over wood studs unless noted, labor only, bracket extra.', .15))
     sizes = tbl(['TV size', 'Price in %s' % A['areas'][0][0]], [
         ('32&Prime;&ndash;55&Prime;', m(base)), ('56&Prime;&ndash;65&Prime;', m(base + 30)), ('66&Prime;&ndash;75&Prime;', m(base + 60)),
         ('76&Prime;&ndash;85&Prime;', m(base + 100)), ('86&Prime;&ndash;97&Prime; (two technicians)', m(base + 175)), ('98&Prime; and up (two technicians)', m(base + 220))])
@@ -204,7 +247,7 @@ def build(k):
         ('Streaming device or game console setup', '$49 each'), ('A/V receiver &amp; speakers', '$129'), ('Sonos / wireless surround', '$125'),
         ('Universal remote programming', '$99'), ('Full home theater setup', '$350'), ('Take down old TV / remove old bracket', '$85 / $45'),
         ('Plywood backer board', '$85'), ('High mount (above ~8 ft)', '$75'), ('Walk-up, 3rd floor+, no elevator', '$40'),
-        ('Haul away old TV / remove boxes', '$79 / $25'), ('Certificate of insurance (COI)', 'Free'),
+        ('Haul away old TV / remove boxes', '$79 / $25'), ('Certificate of insurance (COI)', 'Free'),] + ([('Manhattan parking (every job)', '$150')] if PK else []) + [
         ('Setup-only visit (smart TV, WiFi, cable box)', 'First hour %s, then 30-min blocks' % m(hourly))])
     calc = ('<div class="rv" style="transition-delay:.12s"><div id="aessTvCalc" data-area="%s" data-label="%s"></div></div>'
             '<script src="/js/tv-calc.js?v=8"></script>' % (A['zone'], strip(P)))
@@ -223,7 +266,7 @@ def build(k):
         '<div class="prc lt"><div class="prl">%s</div><div class="pra" style="color:var(--d)">%s</div><div class="prd" style="color:var(--g)">%s</div>'
         '<div class="prd" style="color:var(--d);margin-top:10px;font-weight:600">%s</div></div>' % x for x in pk) + '</div>')
     b.append('<!-- ELEMENT 15 + 15.5: PACKAGES + BYOE -->\n' + sec('sd', 'Shop Our Packages', 'TV Mounting', 'Packages &amp; Pricing',
-             '<div class="rv"><p style="color:rgba(255,255,255,.6);max-width:720px;margin-bottom:26px">%s Package prices are for %s; brackets are extra.</p></div>' % (D['packages_intro'], A['areas'][0][0])
+             '<div class="rv"><p style="color:rgba(255,255,255,.6);max-width:720px;margin-bottom:26px">%s Package prices are for %s; brackets are extra%s.</p></div>' % (D['packages_intro'], A['areas'][0][0], ', and the flat $150 Manhattan parking charge is added to each' if PK else '')
              + pkh + '<div class="rv" style="margin-top:26px"><p style="color:rgba(255,255,255,.75);max-width:760px"><b>Bring your own:</b> %s</p></div>' % D['byoe'], dark=True))
     services = [('/security-camera-installation-nyc', 'Security Cameras'), ('/intercom-installation-nyc', 'Intercoms'), ('/access-control-installation-nyc', 'Access Control'),
                 ('/alarm-installation-nyc', 'Alarm Systems'), ('/structured-cabling-installation-nyc', 'Structured Cabling'), ('/network-installation-nyc', 'WiFi &amp; Networks'),
@@ -243,11 +286,16 @@ def build(k):
              ('/tv-installation-orange-county','TV installation Orange County'),('/tv-mounting-prices-putnam-county','TV mounting Putnam County'),
              ('/tv-installation-dutchess-county','TV installation Dutchess County'),('/tv-mounting-prices-ulster-county','TV mounting Ulster County'),
              ('/tv-installation-westchester-county','TV installation Yonkers'),('/tv-mounting-prices-westchester-county','TV mounting White Plains'),
-             ('/tv-installation-rockland-county','TV installation New City')]}[k]
-    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley'}[k]
-    silo = (p('<b>%s:</b> ' % A['kids_title'] + ' &middot; '.join('<a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices %s</a>' % (kk, nm) for kk, nm, _ in kids)) +
-            p('<b>Book the service:</b> <a class="lnk" href="%s">TV mounting and installation service in %s</a> &middot; ' % (svc, P) +
-              ' &middot; '.join('<a class="lnk" href="/%s">TV installation %s</a>' % (sv, nm) for _, nm, sv in kids) +
+             ('/tv-installation-rockland-county','TV installation New City')],
+     'manhattan': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn'),('/tv-mounting-prices-queens','TV mounting Astoria Queens')],
+     'brooklyn': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-queens','TV wall mounting Queens')],
+     'queens': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn')],
+    }.get(k, [('/tv-mounting-prices-%s' % PAR, 'TV mounting %s' % PARENT_NAME.get(PAR, ''))])
+    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley','manhattan':'TV mounting Manhattan','brooklyn':'TV mounting prices Brooklyn','queens':'TV mounting prices Queens NY'}.get(k, 'TV mounting prices ' + A['name'])
+    up = p('<b>Up one level:</b> <a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices across %s</a>' % (PAR, PARENT_NAME[PAR]), .12) if PAR else ''
+    silo = up + (p('<b>%s:</b> ' % A['kids_title'] + ' &middot; '.join('<a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices %s</a>' % (kk, nm) for kk, nm, _ in kids)) +
+            p('<b>Book the service:</b> <a class="lnk" href="%s">TV mounting and installation service in %s</a>%s' % (svc, P, '' if PAR else ' &middot; ') +
+              ('' if PAR else ' &middot; '.join('<a class="lnk" href="/%s">TV installation %s</a>' % (sv, nm) for _, nm, sv in kids)) +
               ' &middot; <a class="lnk" href="/tv-installation-policies">TV installation policies</a>', .14) +
             p('<b>Popular searches we cover:</b> %s &middot; ' % selfterm + ' &middot; '.join('<a class="lnk" href="%s">%s</a>' % x for x in LOC), .16))
     b.append('<!-- ELEMENT 19: ALL AREAS SERVED (silo) -->\n' + sec('sw', 'All Areas Served', A['kids_title'], '', silo))
