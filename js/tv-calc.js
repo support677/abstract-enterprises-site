@@ -95,7 +95,7 @@
     { id: 'led', t: 'LED bias lighting', p: 75 },
     { id: 'theater', t: 'Full home theater setup', p: 350 },
     { id: 'remove', t: 'Take down old TV', p: 85 },
-    { id: 'haul', t: 'Haul away old TV for recycling', p: 49.99 },
+    { id: 'haul', t: 'Haul away old TV for recycling', p: 79 },
     { id: 'coi', t: 'COI for your building', p: 0 }
   ];
 
