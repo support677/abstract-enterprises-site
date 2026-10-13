@@ -172,3 +172,22 @@ g.keys.forEach(function(k){if(p[k]){var a=document.createElement('a');a.href=p[k
 });
 mnmShowStep('mnmPricingAreas');
 }
+
+/* Google Preferred Source button (Oct 13 2026) - one band above the footer on every page */
+(function(){
+function add(){
+if(document.getElementById('aessPrefSrc'))return;
+var b=document.createElement('div');b.id='aessPrefSrc';
+b.style.cssText='background:#f8fafc;border-top:1px solid #e5e7eb;padding:22px 16px;text-align:center;font-family:inherit';
+b.innerHTML='<div style="font-weight:700;font-size:1rem;color:#111827;margin-bottom:4px">See us first on Google</div>'+
+'<div style="font-size:.88rem;color:#4b5563;margin:0 auto 12px;max-width:560px">Add Abstract Enterprises as a preferred source and Google shows our tips and updates to you first in Top Stories and AI answers.</div>'+
+'<div style="display:flex;justify-content:center"><div google-add-preferred-source-btn data-lang="en"></div></div>'+
+'<noscript><a href="https://www.google.com/preferences/source?q=abstractenterprisessecuritysystems.com">Add as a preferred source on Google</a></noscript>';
+var f=document.querySelector('footer');
+if(f&&f.parentNode)f.parentNode.insertBefore(b,f);else document.body.appendChild(b);
+var s=document.createElement('script');s.async=true;s.src='https://news.google.com/swg/js/v1/publisher.js';
+s.onerror=function(){var d=b.querySelector('[google-add-preferred-source-btn]');if(d)d.outerHTML='<a href="https://www.google.com/preferences/source?q=abstractenterprisessecuritysystems.com" target="_blank" rel="noopener" style="display:inline-block;padding:10px 18px;border:1px solid #d1d5db;border-radius:999px;background:#fff;color:#1f2937;font-weight:600;text-decoration:none">Add as a preferred source on Google</a>'};
+document.head.appendChild(s);
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',add);else add();
+})();
