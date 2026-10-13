@@ -985,7 +985,7 @@ function modSubmit(e){
       if(st.cert)desc+=' + Certification';
       if(st.conceal)desc+=' + Concealed Wiring';
       desc+=' — Manhattan';
-      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=manhattan';
+      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=manhattan&deposit=50';
     }
     else{btn.disabled=false;btn.textContent='Submit Project Request →';alert('Error. Call (347) 934-8335.')}
   }).catch(function(){btn.disabled=false;btn.textContent='Submit Project Request →';alert('Connection error. Call (347) 934-8335.')});

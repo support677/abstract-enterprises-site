@@ -729,7 +729,7 @@ a{color:inherit;text-decoration:none}img{max-width:100%;height:auto}
 <div class="big">✅</div>
 <h3>Order Submitted!</h3>
 <p>We'll call you back within the hour to confirm your installation date.</p>
-<a href="/pay?desc=Security%20Camera%20Service%20%E2%80%94%20Bronx&amount=250&area=bronx" target="_blank" class="cf-hcp">📅 Schedule Your Installation Date →</a>
+<a href="/pay?desc=Security%20Camera%20Service%20Call%20%E2%80%94%20Bronx&amount=150&area=bronx" target="_blank" class="cf-hcp">📅 Schedule Your Installation Date →</a>
 <a href="https://wisetack.us/#/abagaa6/prequalify" target="_blank" style="display:block;margin-top:8px;font-size:.78rem;font-weight:700;color:var(--bl);text-decoration:none">💳 Need Financing? Apply Here →</a>
 <p style="margin-top:12px;font-size:.78rem">Or call <a href="tel:3479348335" style="color:var(--a);font-weight:700">(347) 934-8335</a></p>
 </div>
@@ -885,7 +885,7 @@ function cfSubmit(e){
       if(cfg.audio)desc+=' + Audio';
       if(cfg.k4)desc+=' + 4K Upgrade';
       desc+=' + Installation — Bronx';
-      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=bronx';
+      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=bronx&deposit=50';
     }
     else{btn.disabled=false;btn.textContent='Submit Order Request →';alert('Error. Call (347) 934-8335.');}
   }).catch(function(){btn.disabled=false;btn.textContent='Submit Order Request →';alert('Connection error. Call (347) 934-8335.');});

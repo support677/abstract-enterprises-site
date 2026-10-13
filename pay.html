@@ -470,17 +470,15 @@
         </div>
 
         <div style="text-align:center;">
-          <a href="#" class="pay-btn" id="payBtn" onclick="openStripeAndShowBooking();return false;" style="font-size:1.15rem; padding:16px 0; display:block; width:100%; max-width:400px; margin:0 auto;">Pay Now →</a>
-          <input type="hidden" id="stripeUrl" value="https://buy.stripe.com/00weVd0z43ZK6T9h20dQQ00">
-          
-          <!-- STEP 2: Book appointment (hidden until after pay click) -->
-          <div id="bookingStep" style="display:none; margin-top:24px; padding:24px; background:#0d2a0d; border:2px solid #22c55e; border-radius:12px;">
-            <div style="font-size:2rem; margin-bottom:8px;">✅</div>
-            <h3 style="color:#22c55e; font-size:1.2rem; margin-bottom:8px;">Payment Submitted — Now Book Your Appointment</h3>
-            <p style="color:#8899aa; font-size:0.9rem; margin-bottom:16px;">After completing payment in the Stripe window, click below to schedule your installation date and time.</p>
-            <a href="https://book.housecallpro.com/book/Abstract-Enterprises-Security-Systems/9441f75d1ca0484296ee8481c1646217?v2=true" class="pay-btn" target="_blank" style="font-size:1.1rem; padding:14px 0; display:block; width:100%; max-width:400px; margin:0 auto; background:#22c55e;">Book Your Appointment →</a>
-            <p style="color:#556; font-size:0.75rem; margin-top:12px;">Schedule your preferred date and time through our secure booking system.</p>
+          <div id="contactBox" style="max-width:400px; margin:0 auto 16px; text-align:left;">
+            <label for="payName" style="display:block; color:#aab; font-size:0.85rem; margin-bottom:4px;">Your name</label>
+            <input id="payName" type="text" autocomplete="name" placeholder="First and last name" style="width:100%; padding:12px; border-radius:8px; border:1px solid #333; background:#0d0d0d; color:#fff; font-size:1rem; margin-bottom:12px;">
+            <label for="payPhone" style="display:block; color:#aab; font-size:0.85rem; margin-bottom:4px;">Mobile number (we text your arrival window)</label>
+            <input id="payPhone" type="tel" autocomplete="tel" inputmode="tel" placeholder="(555) 555-5555" style="width:100%; padding:12px; border-radius:8px; border:1px solid #333; background:#0d0d0d; color:#fff; font-size:1rem;">
+            <div id="payErr" style="color:#f87171; font-size:0.85rem; margin-top:8px; display:none;"></div>
           </div>
+          <a href="#" class="pay-btn" id="payBtn" onclick="goToCheckout();return false;" style="font-size:1.15rem; padding:16px 0; display:block; width:100%; max-width:400px; margin:0 auto;">Pay Now →</a>
+          <p style="color:#8899aa; font-size:0.85rem; margin-top:14px;">Right after payment you'll pick the 2-hour window when your technician arrives. Your appointment is only held once payment goes through.</p>
         </div>
         <div class="stripe-badge" style="margin-top:20px;">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="#635bff"><path d="M13.976 9.15c-2.172-.806-3.356-1.426-3.356-2.409 0-.831.683-1.305 1.901-1.305 2.227 0 4.515.858 6.09 1.631l.89-5.494C18.252.975 15.697 0 12.165 0 9.667 0 7.589.654 6.104 1.872 4.56 3.147 3.757 4.992 3.757 7.218c0 4.039 2.467 5.76 6.476 7.219 2.585.92 3.445 1.574 3.445 2.583 0 .98-.84 1.545-2.354 1.545-1.875 0-4.965-.921-7.076-2.18l-.89 5.534C5.326 22.88 8.548 24 12.108 24c2.558 0 4.676-.67 6.13-1.863 1.6-1.346 2.468-3.27 2.468-5.573-.036-4.157-2.558-5.768-6.73-7.414z"/></svg>
@@ -544,7 +542,10 @@
       'orange':       { rate: 8.125, label: 'Orange County, NY' },
       'putnam':       { rate: 8.375, label: 'Putnam County, NY' },
       'dutchess':     { rate: 8.125, label: 'Dutchess County, NY' },
-      'ulster':       { rate: 8.0,   label: 'Ulster County, NY' }
+      'ulster':       { rate: 8.0,   label: 'Ulster County, NY' },
+      'longisland':   { rate: 8.625, label: 'Long Island, NY' },
+      'hudsonvalley': { rate: 8.375, label: 'Hudson Valley, NY' },
+      'nyc':          { rate: 8.875, label: 'New York, NY' }
     };
 
     // ===== LOAD INVOICE FROM URL =====
@@ -555,16 +556,27 @@
     function loadInvoice() {
       const params = new URLSearchParams(window.location.search);
       const desc = params.get('desc');
-      const amount = parseFloat(params.get('amount'));
+      const fullAmount = parseFloat(params.get('amount'));
       const areaKey = (params.get('area') || '').toLowerCase().replace(/[\s_-]/g, '');
 
-      if (!desc || !amount || !TAX_RATES[areaKey]) {
+      if (!desc || !fullAmount || !TAX_RATES[areaKey]) {
         document.getElementById('noInvoice').style.display = 'block';
         document.getElementById('invoiceView').style.display = 'none';
         return;
       }
 
       const area = TAX_RATES[areaKey];
+      // Installs (camera / cabling configurators) send deposit=50: charge half
+      // now, balance due on completion (AESS standing rule for install jobs).
+      let label = desc;
+      let amount = fullAmount;
+      if (params.get('deposit') === '50') {
+        const projTax = Math.round(fullAmount * (area.rate / 100) * 100) / 100;
+        amount = Math.round(fullAmount * 50) / 100;
+        const balance = Math.round((fullAmount + projTax) * 100) / 100 - Math.round((amount + Math.round(amount * (area.rate / 100) * 100) / 100) * 100) / 100;
+        label = '50% deposit — ' + label + ' (project total $' + (fullAmount + projTax).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) +
+          ' incl. tax; balance $' + balance.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' due on completion)';
+      }
       const tax = Math.round(amount * (area.rate / 100) * 100) / 100;
       const total = Math.round((amount + tax) * 100) / 100;
       const today = new Date();
@@ -573,17 +585,15 @@
 
       document.getElementById('invoiceId').textContent = invNum;
       document.getElementById('invoiceDate').textContent = dateStr;
-      document.getElementById('descText').textContent = decodeURIComponent(desc.replace(/\+/g, ' '));
+      document.getElementById('descText').textContent = label;
       document.getElementById('areaText').textContent = area.label;
       document.getElementById('dispSubtotal').textContent = '$' + amount.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       document.getElementById('dispRate').textContent = area.rate + '%';
       document.getElementById('dispTax').textContent = '$' + tax.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       document.getElementById('dispTotal').textContent = '$' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
-      document.getElementById('payBtn').textContent = 'Pay $' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' Now →';
+      document.getElementById('payBtn').textContent = (params.get('deposit') === '50' ? 'Pay 50% Deposit $' : 'Pay $') + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' Now →';
       
-      // Prefill the amount on Stripe checkout (amount in cents)
-      const totalCents = Math.round(total * 100);
-      document.getElementById('stripeUrl').value = 'https://buy.stripe.com/00weVd0z43ZK6T9h20dQQ00?prefilled_amount=' + totalCents;
+      window.AESS_ORDER = { desc: (params.get('deposit') === '50' ? '50% deposit: ' : '') + desc, subtotal: amount, total: total, area: areaKey };
 
       document.getElementById('invoiceView').style.display = 'block';
       document.getElementById('noInvoice').style.display = 'none';
@@ -591,22 +601,39 @@
 
     loadInvoice();
 
-    // ===== OPEN STRIPE + SHOW BOOKING =====
-    function openStripeAndShowBooking() {
-      // Open Stripe in new tab
-      window.open(document.getElementById('stripeUrl').value, '_blank');
-      // Show the booking step
-      document.getElementById('bookingStep').style.display = 'block';
-      // Update pay button to show it's been clicked
-      var btn = document.getElementById('payBtn');
-      btn.textContent = 'Payment Window Opened ✓';
-      btn.style.background = '#334';
-      btn.style.cursor = 'default';
-      btn.onclick = function(){ return false; };
-      // Scroll to booking step
-      setTimeout(function(){
-        document.getElementById('bookingStep').scrollIntoView({ behavior: 'smooth', block: 'center' });
-      }, 500);
+    // ===== CHECKOUT =====
+    // Stripe Payment Link; the order rides along in client_reference_id so the
+    // AESS webhook can create the Housecall Pro job, and Stripe sends the
+    // customer back to the 2-hour booking page only after payment succeeds.
+    const STRIPE_LINK = 'https://buy.stripe.com/00weVd0z43ZK6T9h20dQQ00';
+    const CHECKOUT_START = 'https://aess-hcp-webhooks.onrender.com/checkout/start';
+
+    function b64url(str) {
+      return btoa(unescape(encodeURIComponent(str))).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+    }
+
+    function goToCheckout() {
+      const o = window.AESS_ORDER;
+      if (!o) return;
+      const name = document.getElementById('payName').value.trim();
+      const digits = document.getElementById('payPhone').value.replace(/\D/g, '').replace(/^1(?=\d{10}$)/, '');
+      const err = document.getElementById('payErr');
+      if (name.length < 2 || digits.length !== 10) {
+        err.textContent = 'Please enter your name and a 10-digit mobile number.';
+        err.style.display = 'block';
+        return;
+      }
+      err.style.display = 'none';
+      const nonce = Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-4);
+      const ref = b64url(JSON.stringify({ d: o.desc.slice(0, 70), s: Math.round(o.subtotal * 100), r: o.area, n: nonce }));
+      try {
+        fetch(CHECKOUT_START, { method: 'POST', keepalive: true, headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ nonce: nonce, name: name, phone: digits, desc: o.desc, total: o.total, area: o.area }) });
+      } catch (e) {}
+      const btn = document.getElementById('payBtn');
+      btn.textContent = 'Opening secure checkout…';
+      window.location.href = STRIPE_LINK + '?prefilled_amount=' + Math.round(o.total * 100) +
+        '&client_reference_id=' + encodeURIComponent(ref);
     }
 
     // ===== FAQ =====

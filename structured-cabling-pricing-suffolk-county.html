@@ -766,7 +766,7 @@ function modSubmit(e){
       if(st.cert)desc+=' + Certification';
       if(st.conceal)desc+=' + Concealed Wiring';
       desc+=' — Suffolk County';
-      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=suffolk';
+      window.location.href='/pay?desc='+encodeURIComponent(desc)+'&amount='+total+'&area=suffolk&deposit=50';
     }
     else{btn.disabled=false;btn.textContent='Submit Project Request →';alert('Error. Call (631) 407-2884.')}
   }).catch(function(){btn.disabled=false;btn.textContent='Submit Project Request →';alert('Connection error. Call (631) 407-2884.')});
