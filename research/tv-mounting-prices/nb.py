@@ -158,6 +158,19 @@ def NB(k, base, pk):
   ('Red Hook','Farmhouses and weekend homes','Plaster or drywall',('dry','plaster')),
   ('Millbrook','Estates and farmhouses','Plaster',('plaster',)),
   ('Pawling &amp; Dover','Older homes','Drywall or plaster',('dry','plaster'))],
+ 'ulster-county':[
+  ('Uptown Kingston &amp; the Rondout','Older homes and brick buildings','Plaster or brick',('plaster','brick')),
+  ('Midtown Kingston','Two-families and older homes','Plaster or drywall',('dry','plaster')),
+  ('Lake Katrine &amp; Town of Ulster','Ranches and newer homes','Drywall over wood studs',('dry',)),
+  ('Saugerties','Village homes','Plaster or drywall',('dry','plaster')),
+  ('Woodstock','Cabins and second homes','Drywall; stone fireplaces',('dry',)),
+  ('Phoenicia &amp; Shandaken','Catskills cabins','Drywall or wood-paneled walls over studs',('dry',)),
+  ('Mt Tremper &amp; Shokan','Second homes near the Ashokan','Drywall over wood studs',('dry',)),
+  ('New Paltz','Student rentals and old stone houses','Drywall or stone',('dry','brick')),
+  ('Gardiner','Farmhouses and newer homes','Drywall over wood studs',('dry',)),
+  ('Rosendale &amp; Stone Ridge','Older homes and farmhouses','Plaster or drywall',('dry','plaster')),
+  ('Highland &amp; Marlboro','Farmhouses and village homes','Plaster or drywall',('dry','plaster')),
+  ('Ellenville &amp; Wawarsing','Village homes','Plaster',('plaster',))],
  'manhattan':[
   ('Upper East Side','Prewar co-ops, postwar white-brick towers','Plaster or concrete',('plaster','concrete')),
   ('Upper West Side','Prewar co-ops and brownstones','Plaster',('plaster',)),
@@ -242,3 +255,25 @@ LOGI['putnam-county'] = ('Putnam County job logistics and what they cost you', [
   ('Wires hidden in the wall', 'Code-compliant power and cable kit; no new outlet wiring', '$169'),
   ('Travel from our Bronx office', 'Already covered by the Putnam base price', '$0')],
   'Ask about anything not listed and we&#x2019;ll put it in a written quote before the visit.')
+
+ROOMS['ulster-county'] = lambda b: ('Room by room: common Ulster County setups', [
+   ('Woodstock cabin living room with a bluestone fireplace','65&Prime; above the fireplace on stone', room(b,'65',130,65)),
+   ('Catskills great room with a peaked ceiling','75&Prime; mounted above about 8 ft, drywall', room(b,'75',75)),
+   ('Second-home den, TV kept in the cabinet','Any size up to 55&Prime; set on its stand and connected', '$168.99'),
+   ('Short-term rental living room ready for guests','55&Prime; flat mount plus a streaming device set up', room(b,'55',49)),
+   ('Uptown Kingston brick wall','65&Prime; flat mount on brick with a paintable cord cover', room(b,'65',65,59)),
+   ('New Paltz rental bedroom','55&Prime; tilting mount on drywall', room(b,'55')),
+   ('Saugerties village home with plaster walls','65&Prime; full-motion on plaster', room(b,'65',40,45)),
+   ('Basement in a Lake Katrine ranch','85&Prime; on drywall plus a cable run to the cabinet', room(b,'85',99)),
+   ('Covered porch in Stone Ridge','65&Prime; outdoor mount on framed wall', room(b,'65',90))],
+   'Labor only, bracket extra. Every line uses the same Ulster County price list as the calculator.')
+LOGI['ulster-county'] = ('Ulster County job logistics and what they cost you', [
+  ('Owner away, caretaker or lockbox at the house', 'We text the caretaker about 25 minutes out and send photos when we finish', '$0'),
+  ('Short-term rental between guest stays', 'We book the gap between check-out and check-in and leave the TV signed out of personal accounts', '$0'),
+  ('Bluestone or fieldstone fireplace', 'Masonry anchors set into solid stone, not the mortar joint', '+$65'),
+  ('Log or heavy timber wall', 'Checked on site; priced in a written quote before we drill', 'Written quote'),
+  ('Peaked or cathedral ceiling', 'Taller ladder and a height check before drilling', '$75 high mount'),
+  ('Old TV to get rid of', 'We take it away, or drop it free at the county Resource Recovery Agency&#x2019;s Saturday electronics program (April&ndash;November)', '$79, or free at the county'),
+  ('Wires hidden in the wall', 'Code-compliant power and cable kit; no new outlet wiring', '$169'),
+  ('Travel from our Bronx office', 'Already covered by the Ulster County base price', '$0')],
+  'Paid in full before we schedule a second-home visit, so the date is locked in for you and the caretaker.')
