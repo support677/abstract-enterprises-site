@@ -62,6 +62,7 @@
     { id: 'plaster', t: 'Plaster', p: 45 },
     { id: 'brick', t: 'Brick / Stone', p: 65 },
     { id: 'conc', t: 'Concrete', p: 75 },
+    { id: 'tile', t: 'Tile / Marble', p: 95, note: 'diamond bits, crack-safe drilling' },
     { id: 'unsure', t: 'Not Sure', p: 0, note: 'we confirm on site' }
   ];
   // List prices = Best Buy regular price, Oct 13 2026.
@@ -82,6 +83,7 @@
     { id: 'outfull', t: 'SunBriteTV Outdoor Full-Motion (37"–80")', p: 589.99 }
   ];
   var ADDONS = [
+    { id: 'high', t: 'High mount (TV above ~8 ft, tall ladder)', p: 75 },
     { id: 'inwall', t: 'In-wall cable concealment (kit included)', p: 169 },
     { id: 'race', t: 'Paintable cord cover (on-wall)', p: 59 },
     { id: 'sbplace', t: 'Soundbar placed & connected', p: 79 },
