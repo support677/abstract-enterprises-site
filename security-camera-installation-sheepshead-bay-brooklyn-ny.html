@@ -1035,4 +1035,8 @@ window.addEventListener('scroll',function(){if(!tick){window.requestAnimationFra
 render(detect());chk();
 })();
 </script>
+<script>/* reveal-fix */(function(){var els=document.querySelectorAll('.rv');function show(e){e.classList.add('vis')}
+if(!('IntersectionObserver' in window)){els.forEach(show);return}
+var ob=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){show(x.target);ob.unobserve(x.target)}})},{threshold:.12});
+els.forEach(function(e){ob.observe(e)});setTimeout(function(){document.querySelectorAll('.hero .rv').forEach(show)},300)})();</script>
 </body></html>
