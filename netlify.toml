@@ -6,4 +6,7 @@
     "https://cdn\\.ecomm\\.ui\\.com/.*",
     "https://datacenter\\.luminyscorp\\.com/.*",
     "https://www\\.streakwave\\.com/.*",
+    "https://images\\.ctfassets\\.net/.*",
+    "https://lh3\\.googleusercontent\\.com/.*",
+    "https://home-cdn\\.reolink\\.us/.*",
   ]
