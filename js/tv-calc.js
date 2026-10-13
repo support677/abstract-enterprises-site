@@ -57,8 +57,8 @@
     { id: 'outdoor', t: 'Outdoor (patio / deck)', p: 90, note: 'weather-sealed' }
   ];
   var WALLS = [
-    { id: 'dry', t: 'Drywall', p: 0 },
-    { id: 'metal', t: 'Metal Studs', p: 30 },
+    { id: 'dry', t: 'Drywall — wood studs', p: 0, note: 'most houses' },
+    { id: 'metal', t: 'Drywall — metal studs', p: 30, note: 'most apartment buildings' },
     { id: 'plaster', t: 'Plaster', p: 45 },
     { id: 'brick', t: 'Brick / Stone', p: 65 },
     { id: 'conc', t: 'Concrete', p: 75 },
