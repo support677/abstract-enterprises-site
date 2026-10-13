@@ -20,4 +20,8 @@
     "https://(www\\.)?q-see\\.com/.*",
     "https://(www\\.)?alarmgrid\\.com/.*",
     "https://[a-z0-9.-]*resideo\\.com/.*",
+    "https://(www\\.)?lilin-store\\.us/.*",
+    "https://(www\\.)?meritlilin\\.com/.*",
+    "https://(www\\.)?dwg\\.us/.*",
+    "https://res\\.cloudinary\\.com/.*",
   ]
