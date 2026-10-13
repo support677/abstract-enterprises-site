@@ -1,6 +1,6 @@
 import sys, json, re, html, os
 sys.path.insert(0, '/tmp/claude-0/-home-claude/79c6f0e5-974d-5a24-9def-72172566d30a/scratchpad')
-from nb import NB, LOGI
+from nb import NB, LOGI, ROOMS
 from newpages import sec, p, cards, faq, T, BASE, strip, FI
 
 SITE = "/home/claude/abstract-enterprises-site"
@@ -188,7 +188,7 @@ def build(k):
              '<a href="tel:8004860943" class="bo" style="color:#fff;border-color:#fff">Call (800) 486-0943</a></div></div></section>\n')
     b.append('<!-- ELEMENT 10.5: AI OVERVIEW REALITY CHECK -->\n' + sec('sw', 'AI Overview Reality Check', D['ai_h2'], '',
              p(D['ai_intro']) + ''.join('<div class="rv" style="transition-delay:.12s;margin:26px 0 8px"><h3 style="font-size:1.12rem;font-weight:800">%d. AI says: &ldquo;%s&rdquo;</h3></div>'
-                                       % (i + 1, x['claim']) + ''.join(p(pp, .14) for pp in x['paras']) for i, x in enumerate(D['ai_items']))))
+                                       % (i + 1, x['claim'].strip().strip('“”"')) + ''.join(p(pp, .14) for pp in x['paras']) for i, x in enumerate(D['ai_items']))))
     b.append('<!-- ELEMENT 11: GET IN TOUCH -->\n' + sec('sg', 'Get in Touch', 'Request a Free', 'TV Mounting Quote',
              p('Several TVs, a commercial job, or a wall you&#x2019;re not sure about? Send the details and we&#x2019;ll reply with a written quote.') + full_form(k, A['name'])))
     b.append('<!-- ELEMENT 12: HOW IT WORKS -->\n' + sec('sd', 'How It Works', 'Our TV Mounting', 'Process', process(D['process']), dark=True))
@@ -202,7 +202,11 @@ def build(k):
             rows.append((wn,)+tuple(m(base+sa+wa+PK) for sa in (0,30,60,100)))
         nbt = ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">Neighborhood by neighborhood: what a 65&Prime; job usually costs in %s</h3></div>' % A['areas'][0][0] +
                tbl(['Neighborhood', 'Housing you&#x2019;ll mostly find', 'Walls we plan for', 'Typical 65&Prime; flat/tilt job%s' % (' (with parking)' if PK else '')], NB(k, base, PK)) +
-               p('Every building is different, so we confirm the wall when we arrive and the calculator below gives your exact number.', .14)) if k in ('brooklyn','queens','manhattan','bronx','nassau-county','suffolk-county','westchester-county','rockland-county') else ''
+               p('Every building is different, so we confirm the wall when we arrive and the calculator below gives your exact number.', .14)) if k in ('brooklyn','queens','manhattan','bronx','nassau-county','suffolk-county','westchester-county','rockland-county','orange-county','putnam-county','dutchess-county') else ''
+        if k in ROOMS:
+            rt, rrows, rnote = ROOMS[k](base)
+            nbt += ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">%s</h3></div>' % rt +
+                    tbl(['Room', 'Typical setup', 'Labor'], rrows) + p(rnote, .14))
         if k in LOGI:
             lt, lrows, lnote = LOGI[k]
             nbt += ('<div class="rv"><h3 style="font-size:1.15rem;font-weight:800;margin-top:14px">%s</h3></div>' % lt +
@@ -299,9 +303,12 @@ def build(k):
      'suffolk-county': [('/tv-mounting-prices-long-island','TV mounting Long Island'),('/tv-mounting-prices-nassau-county','TV mounting prices Nassau County')],
      'westchester-county': [('/tv-mounting-prices-hudson-valley','TV mounting in the Hudson Valley'),('/tv-mounting-prices-rockland-county','TV mounting Rockland County')],
      'rockland-county': [('/tv-mounting-prices-hudson-valley','TV mounting in the Hudson Valley'),('/tv-mounting-prices-westchester-county','TV mounting Westchester County')],
+     'orange-county': [('/tv-mounting-prices-hudson-valley','TV mounting in the Hudson Valley'),('/tv-mounting-prices-rockland-county','TV mounting Rockland County'),('/tv-mounting-prices-putnam-county','TV mounting Putnam County')],
+     'putnam-county': [('/tv-mounting-prices-hudson-valley','TV mounting in the Hudson Valley'),('/tv-mounting-prices-westchester-county','TV mounting Westchester County'),('/tv-mounting-prices-dutchess-county','TV mounting prices Dutchess County')],
+     'dutchess-county': [('/tv-mounting-prices-hudson-valley','TV mounting in the Hudson Valley'),('/tv-mounting-prices-putnam-county','TV mounting Putnam County'),('/tv-mounting-prices-ulster-county','TV mounting Ulster County')],
      'queens': [('/tv-mounting-prices-nyc','TV mounting NYC'),('/tv-mounting-prices-manhattan','TV mounting Manhattan'),('/tv-mounting-prices-brooklyn','TV mounting Williamsburg Brooklyn')],
     }.get(k, [('/tv-mounting-prices-%s' % PAR, 'TV mounting %s' % PARENT_NAME.get(PAR, ''))])
-    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley','manhattan':'TV mounting Manhattan','brooklyn':'TV mounting prices Brooklyn','queens':'TV mounting prices Queens NY','bronx':'TV mounting Bronx','nassau-county':'TV mounting Hicksville &amp; Hempstead','suffolk-county':'TV mounting Huntington, Islip &amp; Babylon','westchester-county':'TV mounting White Plains','rockland-county':'TV mounting prices Rockland County'}.get(k, 'TV mounting prices ' + A['name'])
+    selfterm = {'nyc':'TV mounting NYC','long-island':'TV mounting Long Island','hudson-valley':'TV mounting in the Hudson Valley','manhattan':'TV mounting Manhattan','brooklyn':'TV mounting prices Brooklyn','queens':'TV mounting prices Queens NY','bronx':'TV mounting Bronx','nassau-county':'TV mounting Hicksville &amp; Hempstead','suffolk-county':'TV mounting Huntington, Islip &amp; Babylon','westchester-county':'TV mounting White Plains','rockland-county':'TV mounting prices Rockland County','orange-county':'TV mounting prices Orange County NY','putnam-county':'TV mounting Putnam County','dutchess-county':'TV mounting prices Dutchess County'}.get(k, 'TV mounting prices ' + A['name'])
     up = p('<b>Up one level:</b> <a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices across %s</a>' % (PAR, PARENT_NAME[PAR]), .12) if PAR else ''
     silo = up + (p('<b>%s:</b> ' % A['kids_title'] + ' &middot; '.join('<a class="lnk" href="/tv-mounting-prices-%s">TV mounting prices %s</a>' % (kk, nm) for kk, nm, _ in kids)) +
             p('<b>Book the service:</b> <a class="lnk" href="%s">TV mounting and installation service in %s</a>%s' % (svc, P, '' if PAR else ' &middot; ') +
