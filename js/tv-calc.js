@@ -107,6 +107,7 @@
     { id: 'coi', t: 'COI for your building', p: 0 }
   ];
 
+  var POLICY = 'tv1013';   // matches /tv-installation-policies (bump both together)
   var host = document.getElementById('aessTvCalc');
   if (!host) return;
   var areaKey = (host.getAttribute('data-area') || 'brooklyn').toLowerCase();
@@ -186,6 +187,7 @@
     '<p><b>Be ready:</b> TV and bracket on site, the area clear, and any building approvals, elevator booking or COI requested at least 48 hours ahead. If we can\'t start because something is missing, a $150 return-trip fee applies.</p>' +
     '<p><b>Reschedule / cancel:</b> free with 24 hours\' notice. Less than 24 hours or no access at arrival: $150 is kept and the rest refunded.</p>' +
     '<p><b>Warranty:</b> brackets and parts carry the manufacturer\'s warranty. Labor isn\'t under warranty.</p>' +
+    '<p><a href="/tv-installation-policies" target="_blank" style="color:#7fd0ff">Full policies (version ' + POLICY + ')</a></p>' +
     '</details>' +
     '<label class="atv-agree"><input type="checkbox" id="atvAgree"> I\'ve read what\'s included and the policies above</label>' +
     '<a href="#" class="atv-cta" id="atvPay">Book &amp; Pay Now →</a>' +
@@ -290,7 +292,7 @@
     if (e.target.closest('#atvPay')) {
       e.preventDefault();
       var c = compute();
-      window.location.href = '/pay?desc=' + encodeURIComponent(describe(c)) + '&amount=' + c.total + '&area=' + areaKey;
+      window.location.href = '/pay?desc=' + encodeURIComponent(describe(c)) + '&amount=' + c.total + '&area=' + areaKey + '&policy=' + POLICY;
       return;
     }
     if (e.target.closest('#atvProj')) {
@@ -300,13 +302,13 @@
       amt = r2(amt + (Z.parking || 0));
       var what = [P.proj ? 'projector ceiling mount & hookup' : '', P.screen ? 'screen install' : ''].filter(Boolean).join(' + ');
       window.location.href = '/pay?desc=' + encodeURIComponent('Projector: ' + what + (Z.parking ? ' + parking' : '') + ' — ' + Z.label.replace(/^the /, '')) +
-        '&amount=' + amt + '&area=' + areaKey;
+        '&amount=' + amt + '&area=' + areaKey + '&policy=' + POLICY;
       return;
     }
     if (e.target.closest('#atvSetup')) {
       e.preventDefault();
       window.location.href = '/pay?desc=' + encodeURIComponent('TV & devices setup, first hour' + (Z.parking ? ' + parking' : '') + ' — ' + Z.label.replace(/^the /, '')) +
-        '&amount=' + setupPrice + '&area=' + areaKey;
+        '&amount=' + setupPrice + '&area=' + areaKey + '&policy=' + POLICY;
     }
   });
 

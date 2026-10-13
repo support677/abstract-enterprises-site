@@ -593,7 +593,8 @@
       document.getElementById('dispTotal').textContent = '$' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       document.getElementById('payBtn').textContent = (params.get('deposit') === '50' ? 'Pay 50% Deposit $' : 'Pay $') + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' Now →';
       
-      window.AESS_ORDER = { desc: (params.get('deposit') === '50' ? '50% deposit: ' : '') + desc, subtotal: amount, total: total, area: areaKey };
+      const policy = (params.get('policy') || '').replace(/[^a-z0-9]/gi, '').slice(0, 12);
+      window.AESS_ORDER = { policy: policy, desc: (params.get('deposit') === '50' ? '50% deposit: ' : '') + desc, subtotal: amount, total: total, area: areaKey };
 
       document.getElementById('invoiceView').style.display = 'block';
       document.getElementById('noInvoice').style.display = 'none';
@@ -625,10 +626,17 @@
       }
       err.style.display = 'none';
       const nonce = Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-4);
-      const ref = b64url(JSON.stringify({ d: o.desc.slice(0, 70), s: Math.round(o.subtotal * 100), r: o.area, n: nonce }));
+      // Stripe caps client_reference_id at 200 characters: trim the description to fit.
+      const refObj = { d: o.desc.slice(0, 70), s: Math.round(o.subtotal * 100), r: o.area, n: nonce };
+      if (o.policy) refObj.p = o.policy;
+      let ref = b64url(JSON.stringify(refObj));
+      while (ref.length > 200 && refObj.d.length) {
+        refObj.d = refObj.d.slice(0, -5);
+        ref = b64url(JSON.stringify(refObj));
+      }
       try {
         fetch(CHECKOUT_START, { method: 'POST', keepalive: true, headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ nonce: nonce, name: name, phone: digits, desc: o.desc, total: o.total, area: o.area }) });
+          body: JSON.stringify({ nonce: nonce, name: name, phone: digits, desc: o.desc, total: o.total, area: o.area, policy: o.policy }) });
       } catch (e) {}
       const btn = document.getElementById('payBtn');
       btn.textContent = 'Opening secure checkout…';
