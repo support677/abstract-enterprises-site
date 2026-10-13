@@ -4,7 +4,6 @@
   remote_images = [
     "https://cdn\\.shopify\\.com/.*",
     "https://cdn\\.ecomm\\.ui\\.com/.*",
-    "https://www\\.bhphotovideo\\.com/.*",
     "https://datacenter\\.luminyscorp\\.com/.*",
     "https://www\\.streakwave\\.com/.*",
   ]
