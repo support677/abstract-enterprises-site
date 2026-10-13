@@ -134,13 +134,14 @@ var PRICE={
 cam:{label:'📹 Camera Pricing',brooklyn:'/security-camera-pricing-brooklyn',manhattan:'/security-camera-pricing-manhattan',queens:'/security-camera-pricing-queens',bronx:'/security-camera-pricing-bronx',statenisland:'/security-camera-pricing-staten-island',nassau:'/security-camera-pricing-nassau-county',suffolk:'/security-camera-pricing-suffolk-county',westchester:'/security-camera-pricing-westchester-county',rockland:'/security-camera-pricing-rockland-county',orange:'/security-camera-pricing-orange-county',putnam:'/security-camera-pricing-putnam-county',dutchess:'/security-camera-pricing-dutchess-county',ulster:'/security-camera-pricing-ulster-county'},
 cable:{label:'⚡ Cabling Pricing',brooklyn:'/structured-cabling-pricing-brooklyn',manhattan:'/structured-cabling-pricing-manhattan',queens:'/structured-cabling-pricing-queens',bronx:'/structured-cabling-pricing-bronx',statenisland:'/structured-cabling-pricing-staten-island',nassau:'/structured-cabling-pricing-nassau-county',suffolk:'/structured-cabling-pricing-suffolk-county',westchester:'/structured-cabling-pricing-westchester-county',rockland:'/structured-cabling-pricing-rockland-county',orange:'/structured-cabling-pricing-orange-county',putnam:'/structured-cabling-pricing-putnam-county',dutchess:'/structured-cabling-pricing-dutchess-county',ulster:'/structured-cabling-pricing-ulster-county'},
 intercom:{label:'🚪 Intercom Pricing',_single:'/intercom-pricing'},
-buzzer:{label:'🔔 Buzzer Repair Pricing',_single:'/door-buzzer-repair-pricing'}
+buzzer:{label:'🔔 Buzzer Repair Pricing',_single:'/door-buzzer-repair-pricing'},
+tvprice:{label:'📺 TV Mounting Pricing',nyc:'/tv-mounting-prices-nyc',brooklyn:'/tv-mounting-prices-brooklyn',manhattan:'/tv-mounting-prices-manhattan',queens:'/tv-mounting-prices-queens',bronx:'/tv-mounting-prices-bronx',statenisland:'/tv-mounting-prices-staten-island',longisland:'/tv-mounting-prices-long-island',nassau:'/tv-mounting-prices-nassau-county',suffolk:'/tv-mounting-prices-suffolk-county',hudsonvalley:'/tv-mounting-prices-hudson-valley',westchester:'/tv-mounting-prices-westchester-county',rockland:'/tv-mounting-prices-rockland-county',orange:'/tv-mounting-prices-orange-county',putnam:'/tv-mounting-prices-putnam-county',dutchess:'/tv-mounting-prices-dutchess-county',ulster:'/tv-mounting-prices-ulster-county'}
 };
 
 var PRICE_AG=[
-{head:'NYC Boroughs',keys:['brooklyn','manhattan','queens','bronx','statenisland']},
-{head:'Long Island',keys:['nassau','suffolk']},
-{head:'Hudson Valley',keys:['westchester','rockland','orange','putnam','dutchess','ulster']}
+{head:'NYC Boroughs',keys:['nyc','brooklyn','manhattan','queens','bronx','statenisland']},
+{head:'Long Island',keys:['longisland','nassau','suffolk']},
+{head:'Hudson Valley',keys:['hudsonvalley','westchester','rockland','orange','putnam','dutchess','ulster']}
 ];
 
 // Desktop: hover pricing service → show area pages
@@ -191,3 +192,12 @@ document.head.appendChild(s);
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',add);else add();
 })();
+
+/* TV Mounting Pricing menu entry (added at runtime so page HTML stays untouched) */
+(function(){function add(){
+var b=document.querySelector('.mn-price-trigger[data-price="buzzer"]');
+if(b&&!document.querySelector('.mn-price-trigger[data-price="tvprice"]')){var a=document.createElement('a');a.className='mn-price-trigger';a.setAttribute('data-price','tvprice');a.setAttribute('onclick','mnDeskPrice(this)');a.textContent='\uD83D\uDCFA TV Mounting Pricing';b.parentNode.insertBefore(a,b.nextSibling);}
+var m=document.querySelector('button[onclick="mnmPickPricing(\'cam\')"]');
+if(m&&!document.querySelector('button[onclick="mnmPickPricing(\'tvprice\')"]')){var c=m.cloneNode(true);c.setAttribute('onclick',"mnmPickPricing('tvprice')");c.innerHTML='\uD83D\uDCFA TV Mounting Pricing<span class="mnm-path-arrow">&rsaquo;</span>';m.parentNode.insertBefore(c,m.nextSibling);}
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',add);else add();})();
