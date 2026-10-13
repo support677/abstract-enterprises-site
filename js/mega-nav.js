@@ -212,10 +212,19 @@ var Z=[['brooklyn',179.99,'brooklyn'],['bronx',209.99,'bronx'],['queens',179.99,
 var b=179.99,pg='nyc';for(var i=0;i<Z.length;i++){if(p.indexOf(Z[i][0])>-1){b=Z[i][1];pg=Z[i][2];break;}}
 function f(x){return '$'+x.toFixed(2)}
 var priceUrl='/tv-mounting-prices-'+pg,calc=document.getElementById('aessTvCalc');
-var chips=[['📺 TV Mounting','Up to 55″ on drywall','from '+f(b),'spb-chip--gold'],['65″ TV','Flat or tilt mount',f(b+30),''],['75″ TV','Flat or tilt mount',f(b+60),''],
-['85″ TV','Flat or tilt mount',f(b+100),''],['🔥 Over Fireplace','Fixed or tilt','+$130',''],['🔌 Hidden Wires','In-wall power & cable kit','$169','spb-chip--green'],
-['🔊 Soundbar','Wall-mounted & connected','$129',''],['📋 Licensed','NYS Lic. #12000287431','Insured','']];
+var chips=[['📺 32″–55″','Flat or tilt, drywall','from '+f(b),'spb-chip--gold'],['56″–65″ TV','Flat or tilt mount',f(b+30),''],['66″–75″ TV','Flat or tilt mount',f(b+60),''],
+['76″–85″ TV','Flat or tilt mount',f(b+100),''],['86″–97″ TV','Two technicians',f(b+175),''],['98″+ TV','Two technicians',f(b+220),''],
+['🧱 Metal Studs','Drywall wall','+$30',''],['🧱 Plaster','Prewar walls','+$45',''],['🧱 Brick / Stone','Masonry anchors','+$65',''],['🧱 Concrete / Block','Hammer drill','+$75',''],['🧱 Tile / Marble','Diamond bits','+$95',''],
+['↔️ Full-Motion','Articulating mount','+$40',''],['📐 Corner Mount','Corner install','+$40',''],['🖼 Frame / Art TV','Flush gallery look','+$70',''],['⬆️ Ceiling Mount','Bedrooms, bars','+$85',''],['☀️ Outdoor TV','Patio / deck','+$90',''],
+['🔥 Over Fireplace','Fixed or tilt','+$130',''],['🔥 Pull-Down Fireplace','Brings it to eye level','+$160',''],
+['🔌 Hidden Wires','In-wall power & cable kit','$169','spb-chip--green'],['🔌 Cord Cover','Paintable, on the wall','$59',''],['🔗 Cable Run','HDMI / Ethernet, 25 ft','$99',''],
+['🔊 Soundbar','Placed / wall-mounted','$79 / $129',''],['📡 Streaming / Console','Setup, each','$49',''],['🎛 A/V Receiver','Receiver & speakers','$129',''],['🔈 Sonos','Wireless surround','$125',''],
+['🎮 Universal Remote','Programming','$99',''],['🎬 Home Theater','Full setup','$350',''],['⬇️ Take Down Old TV','Old bracket removal $45','$85',''],['🪵 Backer Board','Big TVs, weak walls','$85',''],
+['🪜 High Mount','Above ~8 ft','$75',''],['🪜 Walk-Up','3rd floor+, no elevator','$40',''],['♻️ Haul Away','Old TV recycled','$79',''],['📦 Box Removal','Take the packaging','$25',''],
+['📄 COI','For your building','Free','spb-chip--green'],['📋 Licensed','NYS Lic. #12000287431','Insured','']];
+if(p.indexOf('manhattan')>-1&&p.indexOf('manhattan-beach')<0)chips.splice(1,0,['🚗 Manhattan Parking','Flat, every job','$150','']);
 var h='';for(var r=0;r<2;r++)for(var j=0;j<chips.length;j++){var c=chips[j];h+='<a href="'+(calc?'#aessTvCalc':priceUrl)+'" class="spb-chip '+c[3]+'"><span class="spb-chip-tag">'+c[0]+'</span><span class="spb-chip-mid">'+c[1]+'</span><span class="spb-chip-val">'+c[2]+'</span></a><span class="spb-chip-div"></span>';}
+tr.style.animationDuration=(chips.length*4.5)+'s';
 tr.innerHTML=h;if(lb)lb.textContent='TV Mounting';
 var a=ct.querySelector('.spb-btn-primary');if(a){a.setAttribute('href',calc?'#aessTvCalc':priceUrl);a.innerHTML=a.innerHTML.replace(/Build Your System|Get Free Quote|Free Quote/,'See My TV Price');if(a.textContent.indexOf('See My TV Price')<0)a.textContent='See My TV Price';}
 }
