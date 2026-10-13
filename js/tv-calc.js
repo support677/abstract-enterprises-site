@@ -34,6 +34,11 @@
     ulster:       { base: 254.99, hourly: 275, label: 'Ulster County' }
   };
 
+  Object.keys(ZONES).forEach(function (k) {
+    var z = ZONES[k];
+    z.stand = Math.round(119.99 * z.hourly / 195) - 0.01;     // 119.99 / 137.99 / 144.99 / 152.99 / 162.99 / 168.99
+  });
+
   var SIZES = [
     { id: 's55', t: '32"–55"', p: 0 },
     { id: 's75', t: '56"–75"', p: 0 },
@@ -42,12 +47,14 @@
     { id: 's98', t: '98"+', p: 220, note: '2 technicians' }
   ];
   var STYLES = [
+    { id: 'stand', t: 'On a stand — no wall mount', p: 0, note: 'unbox, set up & connect' },
     { id: 'flat', t: 'Flat / Tilt', p: 0 },
     { id: 'full', t: 'Full-Motion', p: 40 },
     { id: 'frame', t: 'Samsung Frame / Art TV', p: 70, note: 'flush, gallery-level' },
     { id: 'fire', t: 'Over Fireplace', p: 130 },
     { id: 'pull', t: 'Pull-Down Fireplace', p: 160 },
-    { id: 'ceil', t: 'Ceiling', p: 85 }
+    { id: 'ceil', t: 'Ceiling', p: 85 },
+    { id: 'outdoor', t: 'Outdoor (patio / deck)', p: 90, note: 'weather-sealed' }
   ];
   var WALLS = [
     { id: 'dry', t: 'Drywall', p: 0 },
@@ -69,7 +76,10 @@
     { id: 'vxf830', t: 'Sanus VXF830 XL Full-Motion (65"–100")', p: 499.99 },
     { id: 'mm340', t: 'MantelMount MM340 Pull-Down (44"–80")', p: 199.95 },
     { id: 'mm700', t: 'MantelMount MM700 Pull-Down (50"–90")', p: 399.95 },
-    { id: 'ceil', t: 'Sanus Large Ceiling Mount (37"–70")', p: 449.99 }
+    { id: 'ceil', t: 'Sanus Large Ceiling Mount (37"–70")', p: 449.99 },
+    { id: 'terrace', t: 'Samsung Terrace Outdoor Mount (up to 55")', p: 149.99 },
+    { id: 'outtilt', t: 'Sanus Premium Outdoor Tilt (37"–95")', p: 239.99 },
+    { id: 'outfull', t: 'SunBriteTV Outdoor Full-Motion (37"–80")', p: 589.99 }
   ];
   var ADDONS = [
     { id: 'inwall', t: 'In-wall cable concealment (kit included)', p: 169 },
@@ -85,6 +95,7 @@
     { id: 'led', t: 'LED bias lighting', p: 75 },
     { id: 'theater', t: 'Full home theater setup', p: 350 },
     { id: 'remove', t: 'Take down old TV', p: 85 },
+    { id: 'haul', t: 'Haul away old TV for recycling', p: 49.99 },
     { id: 'coi', t: 'COI for your building', p: 0 }
   ];
 
@@ -138,6 +149,8 @@
     }).join('') + '</div>';
   }
 
+  var PROJ = r2(Z.base + 70), SCREEN = 149;
+  var P = { proj: true, screen: false };
   var firstHour = Z.hourly, half = Math.round(Z.hourly / 2), setupPrice = firstHour + (Z.parking || 0);
   host.innerHTML =
     '<div class="atv-bar"><div class="atv-panel" id="calcPanel"><div class="atv-inner">' +
@@ -145,8 +158,8 @@
     '<p class="atv-sub">Build your exact price. Pay online, then pick your 2-hour arrival window.</p>' +
     '<div class="atv-sec"><div class="atv-lab">1 · TV size</div>' + opts('size', SIZES) + '</div>' +
     '<div class="atv-sec"><div class="atv-lab">2 · Mount style</div>' + opts('style', STYLES) + '</div>' +
-    '<div class="atv-sec"><div class="atv-lab">3 · Wall type</div>' + opts('wall', WALLS) + '</div>' +
-    '<div class="atv-sec"><div class="atv-lab">4 · Bracket (sold separately)</div>' + opts('bracket', BRACKETS, true) + '</div>' +
+    '<div class="atv-sec" id="atvWallSec"><div class="atv-lab">3 · Wall type</div>' + opts('wall', WALLS) + '</div>' +
+    '<div class="atv-sec" id="atvBracketSec"><div class="atv-lab">4 · Bracket (sold separately)</div>' + opts('bracket', BRACKETS, true) + '</div>' +
     '<div class="atv-sec"><div class="atv-lab">5 · Add-ons</div>' + opts('addon', ADDONS, true) + '</div>' +
     '<div class="atv-sec"><div class="atv-lab">6 · Number of TVs</div><div class="atv-qty"><button type="button" data-q="-1">−</button><span id="atvQty">1</span><button type="button" data-q="1">+</button><small style="color:#5a6578">10% off each additional TV</small></div></div>' +
     '<div class="atv-est"><h4>Your price</h4><div class="atv-total" id="atvTotal"></div><div id="atvLines"></div>' +
@@ -158,19 +171,27 @@
     ' for the first hour</b> in ' + where + ', then ' + money(half) + ' per extra 30 minutes (billed after the visit)' +
     (Z.parking ? '. Manhattan parking $' + Z.parking + ' added' : '') + '.</p>' +
     '<a href="#" id="atvSetup">Book a Setup Visit — ' + money(setupPrice) + ' →</a></div>' +
+    '<div class="atv-setup"><h4>Projector &amp; screen installation</h4>' +
+    '<p>Ceiling-mounted projector aligned and connected, and your screen hung level. Projector mount and screen are yours or quoted separately.</p>' +
+    '<div class="atv-grid wide" style="margin-bottom:10px">' +
+    '<button type="button" class="atv-opt" data-g="proj" data-id="proj"><b>Projector ceiling mount &amp; hookup</b><small>+' + money(PROJ) + '</small></button>' +
+    '<button type="button" class="atv-opt" data-g="proj" data-id="screen"><b>Projection screen install</b><small>+' + money(SCREEN) + '</small></button></div>' +
+    '<a href="#" id="atvProj">Book Projector Install →</a></div>' +
     '</div></div>' +
     '<div class="atv-toggle" id="atvToggle"><div><h4>📺 TV Mounting Price Calculator</h4><span>Exact price for ' + where + ' — book online</span></div><div class="atv-arrow" id="stickyArrow">▲</div></div></div>';
 
   var panel = document.getElementById('calcPanel');
 
   function compute() {
-    var one = Z.base + find(SIZES, S.size).p + find(STYLES, S.style).p + find(WALLS, S.wall).p;
+    var stand = S.style === 'stand';
+    var labor = (stand ? Z.stand : Z.base) + find(SIZES, S.size).p;
+    var one = labor + (stand ? 0 : find(STYLES, S.style).p + find(WALLS, S.wall).p);
     var extra = S.qty > 1 ? r2(one * 0.9) * (S.qty - 1) : 0;
-    var lines = [['Mounting labor (' + find(SIZES, S.size).t + ')', Z.base + find(SIZES, S.size).p]];
-    if (find(STYLES, S.style).p) lines.push([find(STYLES, S.style).t, find(STYLES, S.style).p]);
-    if (find(WALLS, S.wall).p) lines.push([find(WALLS, S.wall).t + ' wall', find(WALLS, S.wall).p]);
+    var lines = [[(stand ? 'Stand setup' : 'Mounting labor') + ' (' + find(SIZES, S.size).t + ')', labor]];
+    if (!stand && find(STYLES, S.style).p) lines.push([find(STYLES, S.style).t, find(STYLES, S.style).p]);
+    if (!stand && find(WALLS, S.wall).p) lines.push([find(WALLS, S.wall).t + ' wall', find(WALLS, S.wall).p]);
     if (S.qty > 1) lines.push([(S.qty - 1) + ' more TV' + (S.qty > 2 ? 's' : '') + ' (10% off)', r2(extra)]);
-    var br = find(BRACKETS, S.bracket);
+    var br = stand ? BRACKETS[0] : find(BRACKETS, S.bracket);
     var bracketTotal = br.p * S.qty;
     if (br.p) lines.push([br.t + (S.qty > 1 ? ' × ' + S.qty : ''), bracketTotal]);
     var addTotal = 0;
@@ -182,10 +203,10 @@
   }
 
   function describe(c) {
-    var parts = ['TV install ' + find(SIZES, S.size).t.replace(/"/g, 'in')];
+    var parts = [(S.style === 'stand' ? 'TV stand setup ' : 'TV install ') + find(SIZES, S.size).t.replace(/"/g, 'in')];
     if (S.qty > 1) parts.push('x' + S.qty);
-    if (S.style !== 'flat') parts.push(find(STYLES, S.style).t);
-    if (S.wall !== 'dry' && S.wall !== 'unsure') parts.push(find(WALLS, S.wall).t);
+    if (S.style !== 'flat' && S.style !== 'stand') parts.push(find(STYLES, S.style).t);
+    if (S.style !== 'stand' && S.wall !== 'dry' && S.wall !== 'unsure') parts.push(find(WALLS, S.wall).t);
     if (c.bracket.p) parts.push('bracket ' + c.bracket.t.split(' (')[0].replace('Sanus ', '').replace('MantelMount ', ''));
     ADDONS.forEach(function (a) { if (S.addons[a.id]) parts.push(a.t.split(' (')[0]); });
     return parts.join(', ') + ' — ' + Z.label.replace(/^the /, '');
@@ -198,15 +219,23 @@
       return '<div class="atv-line"><span>' + l[0] + '</span><span>' + money(r2(l[1])) + '</span></div>';
     }).join('');
     document.getElementById('atvQty').textContent = S.qty;
+    var pAmt = (P.proj ? PROJ : 0) + (P.screen ? SCREEN : 0);
+    document.getElementById('atvProj').textContent = pAmt ? 'Book Projector Install — ' + money(r2(pAmt + (Z.parking || 0))) + ' →' : 'Pick a projector service above';
+    var standMode = S.style === 'stand';
+    ['atvWallSec', 'atvBracketSec'].forEach(function (id) {
+      var el = document.getElementById(id); if (el) el.style.display = standMode ? 'none' : '';
+    });
     var btns = host.querySelectorAll('.atv-opt');
     for (var i = 0; i < btns.length; i++) {
       var g = btns[i].getAttribute('data-g'), id = btns[i].getAttribute('data-id');
-      var on = g === 'addon' ? !!S.addons[id] : S[g] === id;
+      var on = g === 'addon' ? !!S.addons[id] : g === 'proj' ? !!P[id] : S[g] === id;
       btns[i].classList.toggle('sel', on);
     }
   }
 
   host.addEventListener('click', function (e) {
+    var pb = e.target.closest('[data-g=proj]');
+    if (pb) { P[pb.getAttribute('data-id')] = !P[pb.getAttribute('data-id')]; render(); return; }
     var b = e.target.closest('.atv-opt');
     if (b) {
       var g = b.getAttribute('data-g'), id = b.getAttribute('data-id');
@@ -226,6 +255,16 @@
       e.preventDefault();
       var c = compute();
       window.location.href = '/pay?desc=' + encodeURIComponent(describe(c)) + '&amount=' + c.total + '&area=' + areaKey;
+      return;
+    }
+    if (e.target.closest('#atvProj')) {
+      e.preventDefault();
+      var amt = (P.proj ? PROJ : 0) + (P.screen ? SCREEN : 0);
+      if (!amt) return;
+      amt = r2(amt + (Z.parking || 0));
+      var what = [P.proj ? 'projector ceiling mount & hookup' : '', P.screen ? 'screen install' : ''].filter(Boolean).join(' + ');
+      window.location.href = '/pay?desc=' + encodeURIComponent('Projector: ' + what + (Z.parking ? ' + parking' : '') + ' — ' + Z.label.replace(/^the /, '')) +
+        '&amount=' + amt + '&area=' + areaKey;
       return;
     }
     if (e.target.closest('#atvSetup')) {
