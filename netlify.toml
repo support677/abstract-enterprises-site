@@ -17,4 +17,7 @@
     "https://static\\.tp-link\\.com/.*",
     "https://webobjects2\\.cdw\\.com/.*",
     "https://d1unzhqf5a606m\\.cloudfront\\.net/.*",
+    "https://(www\\.)?q-see\\.com/.*",
+    "https://(www\\.)?alarmgrid\\.com/.*",
+    "https://[a-z0-9.-]*resideo\\.com/.*",
   ]
