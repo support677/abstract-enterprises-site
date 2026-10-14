@@ -1,5 +1,5 @@
 # PAGE-QUEUE - STATUS | slug | silo | area | up-link | phone | GBP  (daily run takes the first TODO; format notes at the bottom)
-TODO | fiber-optic-installation-nyc | Fiber Optic Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | fiber-optic-installation-nyc | Fiber Optic Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | fiber-optic-installation-manhattan | Fiber Optic Installation | Manhattan | up /fiber-optic-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | fiber-optic-installation-brooklyn | Fiber Optic Installation | Brooklyn | up /fiber-optic-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | fiber-optic-installation-queens | Fiber Optic Installation | Queens | up /fiber-optic-installation-nyc | (347) 434-6392 | GBP Bronx
