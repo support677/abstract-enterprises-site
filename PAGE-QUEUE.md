@@ -71,9 +71,9 @@ BUILDING 2026-10-17T08:55Z | cat6-repair-brooklyn | Cat6 Repair | Brooklyn | up 
 BUILDING 2026-10-17T09:05Z | cat6-repair-queens | Cat6 Repair | Queens | up /cat6-repair-nyc | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T09:05Z | cat6-repair-bronx | Cat6 Repair | Bronx | up /cat6-repair-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T09:05Z | cat6-repair-staten-island | Cat6 Repair | Staten Island | up /cat6-repair-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | cat6-repair-nassau-county | Cat6 Repair | Nassau | up /cat6-repair-long-island | (516) 346-5778 | GBP Brooklyn
-TODO | cat6-repair-suffolk-county | Cat6 Repair | Suffolk | up /cat6-repair-long-island | (631) 407-2884 | GBP Brooklyn
-TODO | cat6-repair-westchester-county | Cat6 Repair | Westchester | up /cat6-repair-hudson-valley | (914) 877-2578 | GBP Bronx
+BUILDING 2026-10-17T09:16Z | cat6-repair-nassau-county | Cat6 Repair | Nassau | up /cat6-repair-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-17T09:16Z | cat6-repair-suffolk-county | Cat6 Repair | Suffolk | up /cat6-repair-long-island | (631) 407-2884 | GBP Brooklyn
+BUILDING 2026-10-17T09:16Z | cat6-repair-westchester-county | Cat6 Repair | Westchester | up /cat6-repair-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | cat6-repair-rockland-county | Cat6 Repair | Rockland | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | cat6-repair-orange-county | Cat6 Repair | Orange | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
