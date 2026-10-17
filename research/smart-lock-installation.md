@@ -4155,3 +4155,319 @@ De-dup notes: avoided Chelsea's keyed-elevator questions (where the lock goes / 
 
 ## Batch 2026-10-17 (Riverdale / St. George / Tribeca) — cross-batch notes
 Partial question overlap judged acceptable: St. George Q1 (lock-only change on a historic-district house exterior) vs Tribeca FAQ 3 (historic-district rules and the door inside a loft) vs Riverdale Q8 (post-1940 house inside Riverdale HD). Tribeca captions (backset tape, battery change) and H2 rewritten after 0.68–0.71 masked similarity with Riverdale captions.
+
+
+## Tottenville, Staten Island (smart-lock-installation-tottenville-staten-island-ny)
+
+Built 2026-10-17 by the Tottenville builder subagent (batch with -harlem-manhattan-ny and -bay-ridge-brooklyn-ny). Up-link /smart-lock-installation-staten-island; direct line (347) 934-8335 (body, CTAs, schema; (800) 486-0943 only in shared mega-nav header); GBP Brooklyn, 1282 Troy Ave, schema @id #brooklyn.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used.
+
+Thesis: Tottenville is the end of the line — southern tip of NYS, last SIR stop, water on three sides — so every lock is planned to be self-reliant: a rehearsed backup way in (key cylinder or 9V emergency contact), codes that work without internet, a second admin, batteries on a calendar, coastal-grade finish/gasket on unsheltered doors, and one-movement egress. Doors split between the oyster-era Victorian core (porches, panelled doors, old bores) and post-1990s houses beyond Hylan Blvd (four doors planned as one system), plus Main Street / Page Avenue shops; long commuter days drive the code plan.
+
+Silo-wide sources reused (not re-fetched): S1 Fixr ($250–$400, avg $300, Jan 2025), S2 Bob Vila (screwdriver / ~30 min), S3 August retrofit (single-cylinder only, clearance), S4 August Connect 10–15 ft, S5/S6 Thread border router same ecosystem, N4 Tenant Data Privacy Act, N9 Admin Code §26-521 (30+ days), SI6 2022 NYC BC §1010.1.9 / §1010.1.9.5, SI11 MDL §4 (3+ families = multiple dwelling), SI12 dormakaba ocean-front (3 miles of saltwater, gasket, wrong finish voids warranty), SI15 Hylan Blvd ~13.86 mi Rosebank→Conference House Park, WB12 LPC permit / Permit for Minor Work for doors, WB16 Schlage Arrive door 1-3/8"–2", backset 2-3/8/2-3/4, ND19 BHMA A156.40 salt-spray finish test.
+
+### Local research log
+
+| # | Query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| TV1 | (direct fetch) `Tottenville, Staten Island` · WebFetch | https://en.wikipedia.org/wiki/Tottenville,_Staten_Island | Southernmost neighbourhood in NYC/NYS; Arthur Kill W/N, Raritan Bay S; 2.505 sq mi; CD3; Main St commercial core (123rd Pct 116 Main St, post office 228 Main); Page Ave second commercial core west of Amboy Rd; area SE of Hylan Blvd largely undeveloped until 1990s; Billop/Bentley Manor, renamed 1869 for Totten family; oystering banned 1916; boatbuilding ended ~1900, last shipyard closed 1930; Perth Amboy ferry until 1963; Outerbridge 1928; Conference House; NYPL Tottenville branch Carnegie, Carrère & Hastings, 1904, landmark; 7484 Amboy Rd c.1870 parsonage landmarked Apr 12 2005, restored 2017; SIR terminus since 1860, southernmost station in NYS, 14 mi / 42 min to St. George; buses S59/S78, express SIM2/SIM25/SIM26; "strong Victorian architectural heritage, unique among South Shore neighborhoods"; 29.4% renter-occupied; 2020 pop 16,089 (16,860 in 2010, −4.6%); 5,818 households, 31.7% with children; 123rd Pct safest of 69 (2010); 2022: 42 burglaries; crime −70.5% 1990–2022; Engine 151/Ladder 76 at 7219 Amboy Rd; Sandy destroyed Coral Bay Cafe at Tottenville Beach; Nassau Smelting 1900–2001, 30 acres bought 2016, rezoning opposed, future undetermined; Burial Ridge largest pre-European burial ground. | §5 paras 1, 3, 5, 6, 7, 8; §5.5 stat cards 1–3, 6; §8 Main St / Amboy / Hylan / industrial cards; §13 library, station, Conference House cards |
+| TV2 | `Tottenville historic district Landmarks Preservation Commission Staten Island Victorian houses` · Firecrawl search → scrape | https://forgotten-ny.com/2026/05/return-to-tottenville-2025/ | Forgotten NY, May 9 2026 (walk Oct 2025): painted-lady Victorians "some of the best north of Cape May"; Bentley St houses (Greek Revival c.1850 by oysterman Van Name; Victorian c.1890 for shipbuilder John Brown, wraparound porch); Hopping Ave houses 1886–1921 (Gothic Revival cottage 1886, Colonial Revival 1903), "most of the homes on Hopping Avenue are LPC worthy"; Satterlee St: Biddle House 1840–45, symmetrical, NYC-owned, now Tottenville Museum; Ward House c.1830; Rutan-Beckett House; Italianate "The Heathcote" set back on wide yard; Bentley Dock ferry pilings, ferry ended 1963, landing moved to Bentley St 1896; Conference House c.1680 at end of Hylan Blvd, Sept 11 1776 Howe–Franklin/Adams/Rutledge; Great Beds Lighthouse 1878. House numbers of private homes NOT used on page. | §5 para 3 (streets, styles, Cape May quote paraphrased); §7 building cards; §13 Biddle House card; §13 station card |
+| TV3 | same search · Firecrawl scrape | https://hdc.org/news-7-staten-island-buildings-calendered-by-lpc/ | Jan 2007: LPC calendared a Folk Victorian storefront on Main Street and an 1850s house on Arthur Kill Road, Tottenville; Barnett Shepherd survey for Preservation League; builder vandalised a 19th-c. house in 2005. | research only (context for landmark caution) |
+| TV4 | same search excerpt → Firecrawl scrape (pdf parser) | https://www.nyc.gov/html/records/pdf/govpub/4184cunninghamstoredesigrep.pdf | LPC designation report: George Cunningham Store, 173 Main St, built c.1892 as a butcher shop, Queen Anne, bracketed bays, fish-scale shingles; designated July 15 2008. Main St history: first stores near Totten's Dock by 1850s; continuous east-side row by 1895; 123rd Precinct building 1922; Stadium Theatre 1927; commerce flourished until 1960s when major stores moved to Page Avenue shopping center and SI Mall opened 1973. | §8 Main St + Page Ave cards; §8.5 landmark bullet; §13 Cunningham card |
+| TV5 | `Living Breakwaters Tottenville completed project GOSR` · Firecrawl search → scrape | https://hcr.ny.gov/living-breakwaters-project-background-and-design | NYS HCR: eight ecologically enhanced breakwater segments, ~2,400 linear ft, 790–1,800 ft offshore of Tottenville in Raritan Bay; erosion + wave attenuation + habitat; $60M CDBG-DR; Sandy Oct 2012 — "Tottenville experienced some of the most destructive waves in the region". | §5 para 6; §5.5 stat 5 |
+| TV6 | same search (excerpts) | https://www.scapestudio.com/projects/living-breakwaters/ ; https://www.billionoysterproject.org/media/stories/the-living-breakwaters-a-model-for-nature-based-infrastructure-3 | Completed 2024 (SCAPE); construction 2021–fall 2024 (BOP). | §5 para 6, §5.5 stat 5 (completion year) |
+| TV7 | `123rd Precinct Tottenville burglary 2025 OR 2026 silive` · Firecrawl search → scrape | https://www.silive.com/crime-safety/2026/06/tottenville-supermarket-and-annadale-home-targeted-nypd-seeks-help-in-separate-investigations.html | SI Advance June 3 2026: La Bella Supermarket, 99 Ellis St, Tottenville — May 16 2026 ~11:50 p.m., crowbar used to pry open front door into vestibule, nothing reported stolen (123 Pct detectives). (Annadale front-door item not used.) Store name not used on page; "a supermarket on Ellis Street". | §5 para 8; §8 Ellis St card; §9 strike-vs-maglock Q; §10.5 H3 7 |
+| TV8 | same search (excerpts) | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/123rd-precinct.page ; https://x.com/NYPD123Pct/status/2061542224177836171 | Precinct contact; May 16 2026 burglary appeal (same incident). | research only |
+| TV9 | `Tottenville 1990s development boom townhouses South Shore Staten Island overdevelopment rezoning 2003` · Firecrawl search → scrape | https://www.citylandnyc.org/two-staten-island-neighborhoods-down-zoned-2/ | CityLand (2005): CPC approved June 8 2005 a 65-block Tottenville rezoning bounded by Arthur Kill Rd, the Arthur Kill, Raritan Bay and Page Ave; R3A → R1-2 and R3X; single-family restriction + large lots for two-families; contextually rezoned 1995, 1996, 1997; CM Lanza: stop teardowns of large historic single-family homes. | §5 para 5; §5.5 stat 4; §7 townhouse card |
+| TV10 | same search · Firecrawl scrape | https://therealdeal.com/magazine/new-york-june-2006/staten-island-development-boom-hits-crossroads/ | Real Deal (2006): downzoning in midsection/south end replaced townhouses with semi-detached and detached homes, esp. two-family detached. | §5 para 5; §7 townhouse card |
+| TV11 | `Conference House Park acres historic houses Biddle House Rutan-Beckett Ward House NYC Parks` · Firecrawl search (excerpts) | https://www.nycgovparks.org/parks/conference-house-park ; https://www.tclf.org/conference-house-park ; https://conferencehouse.org/the-historic-houses-of-conference-house-park/ | NYC Parks: 265-acre park, four historic buildings (Conference House, Biddle, Ward, Rutan-Beckett); TCLF: Biddle c.1845, Ward c.1830, Rutan-Beckett c.1850; Conference House org says 270 acres (NYC Parks figure used). | §13 Conference House + Biddle cards |
+| TV12 | `Aakawaxung Munahanung Archaeological Site designated Landmarks Preservation Commission date Conference House Park` · Firecrawl search (excerpts) | https://hdc.org/buildings/conference-house-park-archaeological-site/ ; https://www.nyc.gov/site/lpc/about/pr2021/lpc-recognizes-native-american-and-chinese-american-history-with-the-designation-of-two-individual-landmarks.page | Designated June 22 2021; ~20-acre site within Conference House Park; 8,000+ years of Indigenous occupation. | §13 archaeological card |
+| TV13 | `Tottenville Main Street shops restaurants small business district Page Avenue shopping center` · Firecrawl search (excerpts) | https://shopyourcity.cityofnewyork.us/syc-statenisland/ ; https://www.defalcorealty.com/blog/tottenville-staten-island-neighborhood-guide/ | NYC Shop Your City: "retail corridors along Page Avenue … bustling with shopping and dining"; DeFalco: Main Street is the commercial spine. Business names not used. | §8 Page Ave + Main St cards |
+| TV14 | `reddit r/statenisland Tottenville living old houses` · Firecrawl search (excerpt only) | https://www.reddit.com/r/statenisland/comments/s5nr08/where_on_staten_island_would_you_say_is_the/ | Excerpt: "Tottenville (small town feel, beautiful homes, some nice restaurants, safe, friendly). family owned small businesses". Thread not scraped. | §5 para 8 (paraphrased "residents on local forums") |
+| TV15 | `smart lock dead batteries 9V battery terminals bottom of keypad emergency power Schlage Yale` · Firecrawl search (excerpt) | https://www.yalehome.com/ae/en/support/product-support/smart-door-lock-support/keyless-connected/the-batteries-in-my-keyless-smart-door-lock-are-completely-flat- | Yale support: insert a 9V battery into the emergency terminal at the bottom of the device, then enter master code (keyless connected models; regional Yale site). | Self-reliant section H3 1; §9 Q 1; §6 card; field notes; final repair block |
+| TV16 | `NCC Group Bluetooth Low Energy relay attack Kwikset smart lock 2022` · Firecrawl search (excerpts) | https://www.nccgroup.com/newsroom/ncc-group-uncovers-bluetooth-low-energy-ble-vulnerability-that-puts-millions-of-cars-mobile-devices-and-locking-systems-at-risk/ ; https://www.nccgroup.com/research/technical-advisory-kwiksetweiser-ble-proximity-authentication-in-kevo-smart-locks-vulnerable-to-relay-attacks/ | May 15–16 2022: BLE link-layer relay attack; demonstrated on Kwikset/Weiser Kevo touch-to-open; "not a traditional bug that can be fixed with a simple software patch"; advice: disable passive unlock without explicit approval / turn off Bluetooth when not needed. Brand not named on page. | §9 Bluetooth-in-car Q; §10.5 H3 5 |
+| TV17 | `CISA OR FTC secure home network put smart home IoT devices on separate guest network` · Firecrawl search (excerpt) | https://its.ny.gov/news/securing-your-smart-home-navigating-internet-things-part-ii | NYS ITS: "Use a separate Wi-Fi network for your household IoT devices"; guest network option; 2.4/5 GHz bands. | §9 separate-network Q |
+| TV18 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ (Tottenville) | — | EMPTY (not accessible in build env). §10.5 headings are claims from national cost guides (Fixr, Bob Vila) and manufacturer marketing, stated as such on the page. | — |
+| TV19 | Local smart-lock-specific news for Tottenville (silive/Patch) | — | EMPTY — none found; burglary item TV7 used instead. | — |
+| TV20 | Reddit thread content (r/statenisland) | — | EMPTY beyond the search excerpt in TV14 (threads not scraped). | — |
+| TV21 | DOB permit requirement for residential smart lock; Tottenville-specific door hardware prevalence (mortise/panel stats) | — | Not searched / no source → no claim made; door types described only as conditions we check for. | §7 |
+
+General-practice statements without a dedicated URL (flagged, worded cautiously): Wi-Fi radios draw more battery than Bluetooth/Thread (§9 Q4, "generally"); cold wind can drain batteries faster (self-reliant section); phone-platform switch keeps lock-account data (§9 Q Android/iPhone); deaf-alert automations via smart-home systems (§9 Q); model residential codes treat garage-to-house door as fire separation, some require self-closing (newer-houses section; IRC R302.5.1 source is in LI silo research, not re-fetched).
+
+### Prices used (SI ×1.10 — copied from smart-lock-installation-staten-island.html; no new figures)
+- Single-door keypad/fob reader with electric strike: $1,650–$2,750 (§14 table, §15 Premium, Service schema); worked example two doors $3,300–$5,500 (sum of published lines).
+- New electric strike $275–$495; failed strike repair $325–$534 (§14, schema).
+- Setup-only first hour $225 (repair capture, §14, BYO card, worked example).
+- Service/callback $195/hr, 3-hr minimum ($585) (§14).
+- Residential smart locks: quoted flat at walkthrough. Fixr national $250–$400 / avg $300 labelled national (§10.5, §14).
+
+## Images (11)
+Drive folder `AESS Website Photos/Smart Lock Installation` empty (per main run); CompanyCam not connected → permanent image rule. Sources: images/commercial-security/ (10) + images/low-voltage/ (1). Every source viewed (contact sheets) before use; every source shows a technician's face, so each was cropped with Pillow to exclude faces, then saved WebP q80 (all under 1600 px). Rejected: bronx-access-reader (fictional "Pinnacle Business Center" signage), nyc-dual-entrance-design (fictional address sign), nyc-intercom-reception-test (faces incl. receptionist and on-screen face), bronx-alarm-keypad (two faces, no clean crop), bronx-credential-programming (readable software screen). NOTE: the whole library looks AI-rendered (uniform AESS uniforms/logos) — flag for Anwar, same as earlier SI pages. Several source photos were also used (differently cropped) on UES, Putnam, Flushing, Dutchess and Harlem pages — library too small to avoid.
+
+| File (images/smart-lock-installation/) | Source | Crop box (px) | What is visible | Section |
+|---|---|---|---|---|
+| smart-lock-installation-tottenville-push-to-exit-button-keypad-reader.webp | commercial-security/…-nyc-rex-exit-button.jpg | 772,0,1402,1115 | Gloved hand/screwdriver at green push-to-exit button, exit-button sign, keypad reader on frame | hero |
+| …-electric-strike-aluminium-frame.webp | commercial-security/…-bronx-electric-strike.jpg | 640,0,1402,1115 | Hand driving screw into electric strike in black aluminium frame beside pull handle | §5 |
+| …-door-position-contact-frame.webp | commercial-security/…-nyc-door-contact-install.jpg | 800,0,1402,1115 | Hand fixing small contact at top of door frame; wall sign | repair capture |
+| …-request-to-exit-sensor-door-closer.webp | commercial-security/…-nyc-request-to-exit-sensor.jpg | 640,0,1402,1115 | Hands mounting white REX sensor above glass door beside closer | §6 |
+| …-maglock-glass-door-header.webp | commercial-security/…-manhattan-maglock.jpg | 560,0,1402,1115 | Gloved hands at maglock on glass door header; push bar | §7 |
+| …-maglock-wiring-storefront-header.webp | low-voltage/…-long-island-maglock-install.jpg | 600,0,1400,760 | Two gloved hands feeding wires into maglock at storefront header; trees/parking through glass | self-reliant section |
+| …-three-door-controller-panel.webp | commercial-security/…-nyc-door-controller-enclosure.jpg | 560,0,1402,1115 | Gloved hands at three labelled door controller boards; card readers below | §8 |
+| …-access-control-boards-enclosure.webp | commercial-security/…-nyc-access-control-panels.jpg | 620,0,1402,1115 | Hands/screwdriver at controller boards under 12 V supply in wall cabinet | §9 end |
+| …-gate-reader-fingerprint-wiring.webp | commercial-security/…-nyc-gate-reader-install.jpg | 0,0,500,1024 | Fingerprint/keypad reader + open junction box at metal gate; hand with crimper; laptop | §10 |
+| …-exterior-junction-boxes-block-wall.webp | commercial-security/…-manhattan-exterior-enclosures.jpg | 820,0,1402,1115 | Two grey junction boxes with conduit on block wall | §13 |
+| …-conduit-cable-pull-block-wall.webp | commercial-security/…-hudson-valley-conduit-pull.jpg | 520,0,1402,1115 | Gloved hands pulling blue cable through conduit into wall box; safety sign | §14 |
+
+Alt/title/caption describe only what is visible + "Tottenville, Staten Island" (guide/reference wording); none claims a local customer, named building or completed local job.
+
+## Question register — smart-lock-installation-tottenville-staten-island-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. Our keypad has two small metal contacts on the bottom — what are they for, and when would we use them?
+2. We want a retrofit unit over our existing deadbolt — how do we tell whether the deadbolt we have will take one?
+3. Our lock keeps reporting "jammed" even though the door seems to close fine — what usually causes that?
+4. Will a lock that connects straight to Wi-Fi drain its batteries faster than one that talks to a plug-in bridge?
+5. On our panelled Victorian door, the inside part of the lock would sit on the raised moulding — can it be made to sit flat?
+6. Should we paint or refinish the door before the smart lock goes on, or after?
+7. Could someone sitting in a parked car pick up our lock's Bluetooth signal and use it to open the door?
+8. Should the lock and its bridge go on a separate Wi-Fi network from our laptops and phones?
+9. If we switch from Android to iPhone, or the other way, do the locks have to be set up all over again?
+10. Someone in our house is deaf — can the door let them know that somebody has just come in?
+11. After a crowbar was used on a Tottenville supermarket's front door in 2026, which holds better against prying: an electric strike or a magnetic lock?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Do you come out to Richmond Valley, Charleston and Pleasant Plains as well as Tottenville?
+2. Do your technicians keep any record of our codes once the job is done?
+3. Can one screen show us the battery level of every lock in the house?
+4. Our retrofit lock has no keypad — can one be added outside without drilling the door?
+5. We have lost the only spare key for the smart lock's cylinder — what now?
+6. We already have a monitored alarm — what does a smart lock add that the alarm does not?
+7. Can we keep the door chain or swing-bar guard once the smart lock is on?
+8. Should the keypad code be changed after a big party or a house full of summer guests?
+
+### Other question-form headings
+- H2 "Lock Dead or Bolt Stuck at the Bottom of the Island?" (repair capture)
+- H2 "Locked Out Between Conference House Park and Arthur Kill Road?" (final repair capture)
+
+### De-dup notes
+Checked by meaning against every question on all 33 smart-lock pages on disk (incl. batch-mates Harlem and Bay Ridge at ~build end). Replaced during build: DST/clock-change scheduled codes (= Bay Ridge "clocks go back an hour in November"). Avoided as questions (body text only): salt-air maintenance (SI/LI/Suffolk/Throgs Neck), commuter empty-house behaviour (Westchester Metro-North), landmark approval (HV/Brooklyn/Chelsea), crowbar lock-vs-frame (New Dorp — mine is strike vs maglock), battery-dead lockout abroad (Manhattan — mine is the 9V contact hardware), garage-to-house door (SI/LI), two-family codes (SI/Bronx/Brooklyn), area pricing (NYC/SI/ND/TH). Closest neighbours for the main run to judge: Q3 "jammed" alert vs SI FAQ "door dropped on hinges" (symptom diagnosis vs sagging door); Q4 Wi-Fi vs bridge battery vs Greenpoint "busy door drains batteries — wire it?"; FAQ 4 add keypad to retrofit vs none found; FAQ 8 change code after party vs Throgs Neck "code leaks — change from phone".
+
+
+## Harlem, Manhattan (smart-lock-installation-harlem-manhattan-ny)
+
+Built 2026-10-17 (batch subagent). Neighbourhood page, up-link /smart-lock-installation-manhattan. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (929) 560-0737 in body/CTAs/schema; (800) 486-0943 only in shared nav chrome. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search/scrape" = mcp__Fire_Crawl__firecrawl_search / firecrawl_scrape.
+
+**Thesis / lane:** Harlem doors are often governed by neighbours rather than management companies — HDFC co-op boards, TIL tenant associations in City-owned buildings, owner-occupied brownstones with rental floors — so the page is about keyless entry a resident-run building can afford, administer, hand over at the annual board election, and get approved (board / HPD / LPC / co-op-as-commercial-landlord). Distinct from Washington Heights (household codes beside the landlord's lock), UES (townhouse staff/high-security keys), Chelsea (galleries/LPC/lofts), UWS, Tribeca.
+
+### Local research log
+
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| H1 | `NYU Furman Center Central Harlem MN10 neighborhood profile homeownership rate population` · FC search → FC scrape | https://www.furmancenter.org/neighborhoods/central-harlem/ | Updated 05/06/2026. 2024: pop 125,248; homeownership 15.3% (city 32.7%); single-person households 46.9%; 65+ 15.6%; HCV 10.9% of private rentals; 2025: 63 public housing properties / 7,766 units = 13.6% of rental units; 6 Mitchell-Lama properties / 2,449 units; 1,412 subsidized properties; 4,576 new units 2010–2025; 2-4 family sales 22 (2024); serious housing code violations 246.1 per 1,000 (2025); car-free commute 88.0%. | §5 paras 4, stats list; §7 cards (newer buildings, public/ML); NYCHA/ML section; brownstone section |
+| H2 | `HDFC co-ops Harlem concentration limited equity cooperatives income restrictions` · FC search (excerpt) | https://www.nyc.gov/site/hpd/services-and-information/hdfc.page | HPD: City acquired abandoned/distressed buildings in 1970s–80s; HPD rehabilitated and let tenants become shareholders in limited-equity HDFC co-ops; reduced taxes for income & resale restrictions; board responsible for finances and compliance with law/regulatory restrictions; Article XI ≤165% AMI; almost all HDFCs limit subletting; regulatory agreements with HPD. | §5 para 1; §9 Q2 (owner-occupancy/sublet); §10.5 H3 2; glossary |
+| H3 | `Harlem HDFC co-ops city-owned in rem buildings Tenant Interim Lease program …` · FC search → FC scrape | https://www.palanteharlem.org/til-justice | Quotes HPD TIL description (tenant associations lease City-owned buildings, manage them, buy apartments for $250); April 27, 2017 Council hearing: HPD to pay fuel for all 148 TIL buildings; "164+ buildings that never graduated"; 28 RCNY ch. 24 succession rules. | §5 para 2; §9 Q3; glossary |
+| H4 | `HDFC co-ops Harlem struggling boards repairs volunteer shareholders …` · FC search → FC scrape (query) | https://www.columbiaspectator.com/city-news/2024/04/15/cb9-boasts-the-most-hdfcs-in-new-york-city-but-undisclosed-maintenance-costs-threaten-residents-homeownership/ | Apr 15 2024: CB9 has most HDFCs of any community board, 220; HDFCs ≈1% of NYC apartment buildings; ~20% can't pay maintenance HPD says needed; 501 W 143rd St co-op left with $3.4M water bill after first-floor laundromat owner fled (2017). | §5 para 1 & 3; stats list; §9 Q9 (commercial tenant in HDFC) |
+| H5 | same search → FC scrape (query) | https://www.uhab.org/new-report-breaking-the-cycle-of-distress/ | June 5 2023: "around 20% have fallen into distress"; costs fall on "low-income shareholders tasked with operating their building". | §5 para 3 |
+| H6 | `Mount Morris Park Historic District designated 1971 extension 2015 …` · FC search; FC scrape Wikipedia | https://www.nyc.gov/site/lpc/about/pr2017/092517.page ; https://en.wikipedia.org/wiki/Mount_Morris_Park_Historic_District | LPC: extension designated 2015 (unanimous), >250 rowhouses, original district 1971. Wikipedia: 16 blocks, W118–W124 St, Fifth Ave to ACP Jr Blvd; NYCL Nov 3 1971 / Sept 22 2015; Queen Anne/Romanesque/neo-Grec styles. | §5 para 4; §7 card; §7.5 method; §8.5; §13 card; brownstone section |
+| H7 | `Strivers' Row St. Nicholas Historic District King Model Houses 1891 rear alleys designated 1967 …` · FC search; FC scrape (directQuote) | https://en.wikipedia.org/wiki/St._Nicholas_Historic_District ; https://www.striversrownyc.org/ | W138/W139 between ACP Jr Blvd & FDB; built 1891–93 by David H. King Jr.; architects James Brown Lord, Bruce Price & Clarence S. Luce, Stanford White; designated 1967; alleys gated, some gates read "Walk Your Horses", once used for discreet stabling/deliveries. | §7 card; §7.5; §9 Q8; §13 card |
+| H8 | `NYCHA layered access control key fob entry doors Harlem developments St. Nicholas Houses` · FC search → FC scrape (query) | https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments/ | Sept 21 2022: 262 developments visited; 36.8% entrance doors open, 40.1% entrance locks broken; 57.9% open and/or broken; doors propped with bricks/rocks. | §5 para 4; stats list; §10.5 H3 4; NYCHA section |
+| H9 | same search → FC scrape (directQuote) | https://criminaljustice.cityofnewyork.us/press-release/mayors-office-of-criminal-justice-and-nycha-announce-completion-of-273-new-safety-lights-and-expanded-programs-to-reduce-crime-at-saint-nicholas-houses-in-manhattan/ | Nov 2 2016: St. Nicholas Houses >3,500 residents; NYCHA "greatly increased the number of Layered Access Control (LAC) doors". | §7 card; NYCHA section |
+| H10 | same search (excerpt) | https://designguidelines.nycha.info/layered-access-control-lac/ | NYCHA LAC "can provide further security for storefronts and building entry doors". | NYCHA section |
+| H11 | `site:reddit.com r/Harlem package stolen building door lock brownstone` · FC search (excerpts only; Reddit scrape refused "we do not support this site") | https://www.reddit.com/r/Harlem/comments/1qp41b3/brownstones_vs_key_fob_buildings/ ; https://www.reddit.com/r/AskNYC/comments/1959k2t/ring_camera_in_apartment_building_opinions/ ; https://www.reddit.com/r/nyc/comments/bnppv1/harlem_brownstones/ | Excerpts: "Packages will likely be an issue at both [brownstone vs fob building]… people would feel more comfortable following someone"; "5 packages stolen on day 1 of my new apartment last week in Harlem"; Harlem brownstone blocks filmed monthly. Background only — nothing quoted on page. | background (tailgating framing in worksheet §1) |
+| H12 | `Studio Museum in Harlem new building 144 West 125th Street opened November 2025` · FC search | https://www.studiomuseum.org/press/studio-museum-in-harlem-opening-date-and-community-day | New 7-floor, 82,000 sq ft building opened Nov 15 2025, 144 W 125th St between Lenox & Seventh; Adjaye Associates / Cooper Robertson; entrance steps "evoke the ubiquitous stoops of Harlem's brownstones". | §5 para 5; §13 card |
+| H13 | `Apollo Theater 253 West 125th Street opened 1914 history; 125th Street Business Improvement District` · FC search | https://www.apollotheater.org/history ; https://en.wikipedia.org/wiki/Apollo_Theater ; https://harlembid.com/place/apollo-theater1/ | Opened 1914 as Hurtig & Seamon's New Burlesque Theater; reopened as 125th Street Apollo Jan 26 1934; ~1,500 seats; 253 W 125th St; listed by 125th Street BID. | §5 para 5; §8 card; §13 card |
+| H14 | `Schomburg Center for Research in Black Culture 515 Malcolm X Boulevard history founded` · FC search | https://www.nypl.org/about/locations/schomburg | 515 Malcolm X Blvd (135th St); founded 1925; National Historic Landmark 2017; over 11 million items. | §8 card; §13 card |
+| H15 | `Abyssinian Baptist Church 132 West 138th Street building 1923 landmark` · FC search | https://villagepreservation.org/2020/02/20/beyond-the-village-and-back-harlems-abyssinian-baptist-church/ ; https://en.wikipedia.org/wiki/Abyssinian_Baptist_Church | Building at 132 (136–142) W 138th St formally dedicated June 17 1923. | §8 card; §13 card |
+| H16 | `Marcus Garvey Park fire watchtower 1857 restored 2019 Harlem` · FC search | https://www.nycgovparks.org/parks/marcus-garvey-park/highlights/6497 ; https://nylandmarks.org/explore-ny/mount-morris-fire-watchtower/ | Watchtower completed 1857; full City restoration completed 2019. | §13 card |
+| H17 | `Frederick Douglass Boulevard Harlem restaurant row corridor rezoning 2003` · FC search | https://www.nyc.gov/assets/planning/download/pdf/plans/frederick-douglass-boulevard/fdb.pdf ; https://www.dnainfo.com/new-york/20100923/harlem/restaurant-bar-boom-continues-on-harlems-frederick-douglass-boulevard | DCP: FDB rezoning approved 2003 (CB/CPC Aug 13 & Sept 10 2003); DNAinfo Sept 23 2010: restaurant/bar boom traced to 2003 rezoning. | §5 para 5; §8 card; §9 Q10 |
+| H18 | `Harlem brownstone burglary 2025 OR 2026 police 28th precinct OR 32nd precinct break-in` · FC search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/28th-precinct.page ; https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/32nd-precinct.page | 28th Pct serves central Harlem (2271-89 8th Ave); 32nd Pct serves northeastern Harlem. No Harlem smart-lock/burglary story usable. | §13 closing para |
+| H19 | `Harlem brownstone burglary arrested stole from homes Harlem townhouse burglar` · FC search | https://ag.ny.gov/press-release/2026/attorney-general-james-wins-case-against-notorious-deed-thief-joseph-makhani ; https://manhattanda.org/... | Results were Harlem brownstone deed-theft cases (AG July 1 2026; DA Bragg indictment). Not used — deed theft already the Bed-Stuy lane. | not used |
+| H20 | `Harlem package thieves building vestibule … patch OR west side rag OR amny` · FC search (news) | — | No results → EMPTY. | — |
+| H21 | `Harlem brownstones converted rooming houses single room occupancy restored …` · FC search (excerpts) | https://www.nytimes.com/2009/09/20/realestate/20deal2.html ; https://fontanarchitecture.com/harlem-brownstone-renovation/ ; https://www.nyc.gov/assets/hpd/downloads/pdfs/services/shared-housing-roadmap.pdf | SRO-to-single-family conversions of Harlem brownstones; rooming houses typically converted brownstones (HPD roadmap). Background only (rooming-house lock intent already on Chelsea page). | background |
+| H22 | `MDL 50-a` · FC scrape (directQuote) | https://www.nysenate.gov/legislation/laws/MDW/50-A | Class A MDs erected/converted after Jan 1 1968: automatic self-closing & self-locking doors kept locked; 8+ apartments → intercom with remote release; pre-1968 on majority tenant written request. | §9 Q4; glossary |
+| H23 | `NSPIRE-V standards entry door lock deficiency …` · FC search → FC scrape PDF (directQuote) | https://www.hud.gov/sites/dfiles/PIH/documents/NSPIRE-Standard-Door-Entry_20230811.pdf | Def. 4 "Entry door cannot be secured by at least 1 installed lock" Severe, HCV Fail, 30 days; Def. 3 self-closing mechanism damaged/missing HCV Fail 30 days; Def. 10 damaged auxiliary (additional) installed lock = Low, HCV Pass. | §9 Q7; glossary |
+| H24 | `GreenThumb community garden license open to public hours per week requirement …` · FC search (excerpts) | https://www.nycgovparks.org/pagefiles/187/2023-GreenThumb-License-English__641329feaf55f.pdf ; https://www.nycgovparks.org/greenthumb/community-gardens | License: site open to public minimum 20 hours/week from April 1 (through October 31 per GreenThumb gardens page). | §9 Q11 |
+| H25 | Silo research reused (research/smart-lock-installation.md, not re-fetched) | N1 MDL 51-c; N4 TDPA LL63; N9 Admin Code 26-521; M15 NYC BC 1010.1.9.9; M14 NFPA 80 / iDigHardware; M30 Admin Code 28-105.4.7; LPC rules §2-14 (WH page); S1 Fixr; S3/S4 August retrofit & bridge 10–15 ft; Ring Alarm Z-Wave subscription; ADA 404.2.7 (LI section); M28 7 AM–6 PM; N19 125th Street BID | As listed in silo file. | §7.5, §8.5, §9, §10, §10.5, §14, logistics, glossary |
+| H26 | Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 states that the claims are published cost-guide/manufacturer claims, not captured AI Overview text. | — |
+| H27 | Hyperlocal news on smart locks / keypads in Harlem (Harlem World, West Side Rag, Patch Harlem, AMNY) | — | No service-category story found → EMPTY. | — |
+
+### Prices used (Harlem = Manhattan ×1.25; copied from smart-lock-installation-manhattan.html / silo prices table; none invented)
+- Single-door keypad or fob reader with electric strike: **$1,875–$3,125** ($1,500–$2,500 base).
+- New electric strike on building/suite door: **$313–$563** ($250–$450).
+- Failed electric strike repair: **$369–$606** ($295–$485).
+- Programming/setup-only visit: **$265 first hour**, then 30-minute blocks.
+- Service/callback: **$195/hr, 3-hour minimum ($585)**, never on first install.
+- Apartment / rowhouse / gate smart lock: no AESS figure → "quoted flat at free walkthrough".
+- National comparison only: Fixr $250–$400, avg $300 (Jan 2025).
+
+### Images (11) — permanent image rule (Drive "AESS Website Photos/Smart Lock Installation" empty per main run; CompanyCam not connected)
+All viewed before use. Each cropped to remove faces/profiles, garbled cap/van lettering and fictional signage; captions/alt describe only what is visible. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real smart-lock photos yet)`.
+
+| New file (images/smart-lock-installation/) | Source (images/low-voltage/) | Crop |
+|---|---|---|
+| smart-lock-installation-harlem-strike-keypad-push-to-exit-glass-door.webp (hero, eager) | low-voltage-installation-long-island-electric-strike-keypad.jpg | x860–1400, y100–1120 (removes installer, garbled van lettering) |
+| smart-lock-installation-harlem-video-intercom-keypad-panel-stone-wall.webp | low-voltage-installation-bronx-11-video-intercom-entry-wiring.jpg | x600–1050, y170–960 (removes installer profile, garbled cap) |
+| smart-lock-installation-harlem-weatherproof-enclosure-conduit-brick-wall.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg | 52–100% x, 8–78% y (removes face, shirt, parked cars) |
+| smart-lock-installation-harlem-fob-reader-mounting-beside-glass-door.webp | low-voltage-installation-bronx-14-access-control-reader-wiring.jpg | x540–1050, y380–1150 (removes head/cap with garbled text) |
+| smart-lock-installation-harlem-maglock-header-wiring-glass-entrance.webp | low-voltage-installation-long-island-maglock-install.jpg | x560–1400, y60–700 (removes head/cap, car plates, sidewalk sign) |
+| smart-lock-installation-harlem-electric-strike-terminal-block-steel-frame.webp | low-voltage-installation-nassau-county-electric-strike-wiring.jpg | x450–1400 (removes face/glasses) |
+| smart-lock-installation-harlem-maglock-terminal-wiring-door-frame.webp | low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | x560–1210, y60–1050 (removes face) |
+| smart-lock-installation-harlem-cable-feed-conduit-riser-block-wall.webp | low-voltage-installation-nassau-county-riser-conduit-pull.jpg | 55–100% x (removes face, "FIRE" sign) |
+| smart-lock-installation-harlem-wall-plate-data-jack-termination.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg | 56–100% x, 5–100% y (removes head) |
+| smart-lock-installation-harlem-cable-certifier-pass-wall-jack.webp | low-voltage-installation-bronx-07-fluke-certification-pass.jpg | 50–100% x, 10–92% y (removes face) |
+| smart-lock-installation-harlem-tone-probe-tracing-cable-wall-box.webp | low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg | 50–100% x (removes face) |
+
+Rejected: low-voltage-installation-long-island-lobby-video-intercom.jpg (fictional "123 MAIN STREET / ABC Property Management" sign); bronx-access-point-lift-install.jpg (face remains in any useful crop; "COMMUNITY CENTER" sign).
+**Flag:** the whole images/low-voltage/ library has the look of rendered images (garbled lettering on caps and vans in the uncropped originals). Crops avoid every garbled/fictional text element, but real AESS photos should replace these when uploaded.
+
+## Question register — smart-lock-installation-harlem-manhattan-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+Buildings run by the people who live in them
+1. When our HDFC board changes at the annual election, how do the outgoing officers hand over control of the street-door system?
+2. Can our board use the street-door entry log to check whether a shareholder really lives in the apartment?
+3. Our building is still in the City's Tenant Interim Lease program — can the tenant association put a keypad on the front door itself?
+4. Our reserve fund is thin — should the board fix the door closer and strike first, or go straight to a keypad?
+5. Rent-paying tenants still live in our HDFC alongside the shareholders — do they get street-door codes on the same terms?
+6. Cloud video intercoms bill by the month — how does that compare over ten years with a stand-alone keypad for a twelve-unit HDFC?
+Brownstone owners who are also landlords
+7. Our tenant pays part of the rent with a Housing Choice Voucher — will the unit inspection look at the lock on their door?
+8. Our house backs onto the gated alley behind Strivers' Row — can the alley gate take a keypad, and who has to agree?
+Shops, restaurants and shared grounds
+9. Our shop rents the ground floor of an HDFC co-op — who approves a keypad on the shop door, the co-op as landlord or HPD?
+10. Our restaurant on Frederick Douglass Boulevard takes deliveries through the sidewalk cellar doors — can those be put on a code?
+11. Our GreenThumb community garden has to be open to the public at set hours — can a keypad gate still work there?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What does a keypad and electric strike on an HDFC building's street door cost in Harlem?
+2. Do you also work in Sugar Hill, Hamilton Heights and the blocks around Marcus Garvey Park?
+3. Will you train two or three residents to run the system, not just one board officer?
+4. Can you invoice the co-op corporation or tenant association rather than a board member personally?
+5. Can the street door stay released longer for a neighbour who walks slowly?
+6. If the board loses track of which fob belongs to which apartment, can you rebuild the list?
+7. Can residents keep using the old street-door key while everyone switches over to codes?
+8. Do you give HDFCs or non-profits a discount?
+
+### Other question-form headings
+- H2 "Keypad or Strike Failing North of 110th Street?" (repair capture)
+- H2 "Shut Out on a Harlem Stoop or Street Door Tonight?" (final repair capture)
+
+### De-dup notes
+Avoided intents already in the register: board-approval of unit locks / smart-lock policy (NYC hub, Jackson Heights), self-managed co-op "who holds admin" (Brooklyn Heights, Greenpoint — Q1 is the election-handover intent), approved sublet handover (Jackson Heights), rooming-house locks (Chelsea), deed theft/estate (Bed-Stuy), NYCHA bottom lock (Bronx), monthly subscription generic (Staten Island), Mitchell-Lama approval (Kingsbridge), propped-door alert (Greenpoint), wheelchair auto-open (Greenpoint — FAQ 5 is release duration), cellar door after burglary (Throgs Neck — Q10 is sidewalk delivery hatch), lake-association gate codes (Putnam — Q11 is the GreenThumb public-hours rule). FAQ 1/2 cost and coverage are geo-specific by design.
+
+### Flags for Anwar
+- FAQ 8 states published prices are the same for every building (no HDFC/non-profit discount) — consistent with published-price policy, but confirm.
+- FAQ 4 promises invoicing in the corporation's/association's name — confirm with billing.
+- Page file size had to be landed in the narrow 180,812–180,886 B gap between siblings (Kingsbridge-area sizes); ~370 blank lines before </body> were used to fine-tune. If batch-mate pages land near 180.8 KB, re-check the ±2 KB rule.
+
+
+## Bay Ridge, Brooklyn (smart-lock-installation-bay-ridge-brooklyn-ny)
+
+Built 2026-10-17 by the Bay Ridge builder subagent (batch with -tottenville-staten-island-ny and -harlem-manhattan-ny). Phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn) · up-link /smart-lock-installation-brooklyn · Brooklyn ×1.00. Not committed.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes unless noted).
+
+**Thesis / lane:** in Bay Ridge the door keeps a clock. Long commutes from the end of the R line (46.4-min mean), one resident in five aged 65+ with aides/relatives on timetables, two-family houses where two households keep different hours behind one street door, and Third Avenue kitchens open to 4 a.m. (Aug 2026 3–4:30 a.m. restaurant burglaries). So every lock is planned as a timetable: named per-person codes with windows, auto-relock + nightly scheduled lock-up, after-hours curfews for staff codes, first-person-in unlocking for practices, inactivity ("door hasn't opened by noon") alerts, readable logs, DST/clock correctness, admin hand-off for Fort Hamilton deployments. Deliberately avoids sibling lanes: Brooklyn (brownstone double doors/vestibule/stoop parcels/LPC replacement), Bed-Stuy (custody/inherited houses/deed theft), Greenpoint (shared walk-up street door/strike/closer), Brooklyn Heights (LPC device placement/carriage houses), Westchester (commuter empty house — here only context), Queens (multigenerational/app language/basements), Orange (handovers/West Point on-post).
+
+### Local research matrix (new this run)
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| BR1 | `68th Precinct Bay Ridge burglary 2026` · FC search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/68th-precinct.page ; https://www.facebook.com/NYPD68pct/ (excerpt) ; https://queenoftheclick.com/2026/03/12/crime-is-up-in-the-68th-precinct-bay-ridge/ (FC scrape, markdown) | 68th Pct covers Bay Ridge + Dyker Heights; FB excerpt: investigation into "multiple commercial burglaries that occurred along Third Avenue during the early morning hours on Friday"; Queen of the Click (Mar 12 2026): "Our area is still having problems with people stealing. Car thefts and assaults are up." (no figures — not used). | context only (BR3 used instead) |
+| BR2 | `Bay Ridge Brooklyn package theft stolen packages doorstep news` · FC search | https://www.reddit.com/r/Brooklyn/comments/vwfxvh/package_thief_in_bayridge/ (excerpt) ; https://brooklynreporter.com/2016/09/package-theft-from-ridge-stoop-has-homeowner-wary/ (excerpt) | r/Brooklyn "package thief in Bayridge": building put up signs not to buzz in people residents don't know (excerpt only; thread body EMPTY — Reddit not scrapeable). 2016 Brooklyn Reporter: packages stolen from a Ridge porch. Not quoted. | not used on page (parcel intent belongs to Brooklyn page) |
+| BR3 | `Third Avenue Bay Ridge break-ins 3 a.m. businesses three suspects NYPD` · FC search → FC scrape | https://pix11.com/news/local-news/brooklyn/three-brooklyn-restaurants-burglarized-overnight-nypd/ | Posted Aug 31 2026: three Third Avenue restaurants (88th St, 94th St, 87th St) burglarised "on Friday" between 3 a.m. and 4:30 a.m.; unknown amount of money stolen. (ABC7/1010 WINS excerpts say "at least four" — page uses PIX11's three.) Date on page = Friday Aug 28 2026 (derived from "Friday" in an Aug 31 Monday post). | §5 para 5, Q&A "staff codes stop working", §8 Third Ave card context, Sources |
+| BR4 | same search · FC scrape | https://www.cbsnews.com/newyork/news/nypd-suspects-wanted-for-stealing-28000-in-string-of-bay-ridge-robberies/ | $28,000 cash in six break-ins at Bay Ridge businesses incl. restaurants/nightclubs; video of someone yanking a door early morning Sept 5; Third Ave bistro lost >$4,000 Aug 30. Year not printed in scraped text (image path 2022/09) → NOT used on page. | research only |
+| BR5 | `Bay Ridge Brooklyn residents 65 and older percent seniors aging in place community district 10` · FC search | https://comptroller.nyc.gov/reports/aging-with-dignity-a-blueprint-for-serving-nycs-growing-senior-population/ (excerpt) | BK CD10 16.5% 65+ (2015). Superseded by Furman 2024 figure (BR8). | research only |
+| BR6 | `Bay Ridge apartment building smart lock OR keyless entry OR Latch tenants` · FC search | (r/AskNYC, door.com, vendor blogs) | No Bay Ridge-specific smart-lock news. EMPTY for local smart-lock stories. | — |
+| BR7 | (BR5 result) · FC scrape | https://www.bayridgecenter.org/age-friendly | Page returned no text (JS/Squarespace) → EMPTY (not accessible in build env). | — |
+| BR8 | `Bay Ridge Dyker Heights community health profile mean commute time minutes residents` · FC search → FC scrape (freeform) | https://www.furmancenter.org/neighborhoods/bay-ridge-dyker-heights/ (updated 2026) | 65+: 13.1% (2010) → 20.2% (2024); homeownership 41.0% (2024); rental vacancy 2.5% (2024); foreign-born 38.2%; households w/ children 25.0% (2024); serious crime 11.4 (2006) → 5.2 per 1,000 (2025); mean travel time to work 46.4 min (2024); car-free commute 63.6% (2024); population 128,247 (2024). | hero, §5 paras 2–3 & 6, §5.5 bullets 1–3 & 6, §10.5 H3 "stops burglars", Sources |
+| BR9 | `Bay Ridge burglar entered home through unlocked door OR rear door Brooklyn Reporter 68th Precinct residential burglary` · FC search → FC scrape | https://brooklynreporter.com/2019/09/arrests-made-in-connection-to-15-burglaries-of-dyker-heights-bay-ridge-homes/ | Sept 20 2019: two suspects arrested; as many as 15 burglaries in Dyker and Bay Ridge in August, "largely gaining access through unlocked windows and doors". | §5 para 6, §10.5 H3 auto-lock, Sources |
+| BR10 | same search → FC scrape | https://www.brooklynpaper.com/cops-seek-police-impersonators-connected-to-june-robbery-in-bay-ridge/ | Sept 29 2020: home near 83rd St & Third Ave, ~12:30 a.m. June 5; suspects entered through an unlocked window, posed as police. | §10.5 H3 "stops burglars", Sources |
+| BR11 | `Bay Ridge home invasion FedEx worker impersonator police impersonator family tied up` · FC search | https://www.nbcnewyork.com/news/local/suspect-arrested-for-allegedly-posing-as-fake-fedex-worker-to-rob-brooklyn-family-of-125k-in-cash-jewelry/1992048/ (excerpt, full text in excerpt) ; https://abc7ny.com/post/fedex-nypd-impersonators-tie-up-rob-brooklyn-family-police-say/5567429/ (excerpt) | Published Oct 8 2019: fake FedEx worker got inside a Bay Ridge home, partner followed; tied up a 36-year-old woman, 75-year-old woman and 81-year-old man; arrest made. | "Twenty-Four Hours" section, §10.5 H3 "stops burglars", Sources |
+| BR12 | `NYC Ferry South Brooklyn route Bay Ridge 69th Street pier landing` · FC search | https://www.ferry.nyc/routes-and-schedules/south-brooklyn/ (excerpt) ; https://edc.nyc/proposed-changes-landing (excerpt) | NYC Ferry lists a Bay Ridge landing at American Veterans Memorial Pier; NYCEDC lists a proposed change that the South Brooklyn route would no longer serve Bay Ridge → page says only that NYC Ferry "lists its Bay Ridge landing" there (no service claims). | §13 Shore Road Park card |
+| BR13 | `New York City bars last call 4 a.m. State Liquor Authority hours of sale Kings County` · FC search → FC scrape | https://sla.ny.gov/location/kings | Kings County on-premises: weekdays 8:00 AM–4:00 AM; Sundays 10:00 AM–4:00 AM. | §5 para 5, §5.5 bullet 5, §8 Third Ave card |
+| BR14 | (BR5 search) → FC scrape | https://www.healthbeat.org/newyork/2025/06/19/senior-adult-center-bay-ridge-brooklyn/ | June 19 2025: Bay Ridge Center, 47 years in a church basement at the west end of Bay Ridge Avenue; new facility broke ground 2024; membership tripled to over 2,000. | Q&A "Mom's door hasn't opened by midday", Sources |
+| BR15 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DDG / Yelp 1–3★ (Bay Ridge smart lock) | — | EMPTY (not accessible in build env). §10.5 says so on the page and uses Fixr / Bob Vila-type / manufacturer claims. | — |
+| BR16 | Reddit r/BayridgeBrooklyn smart lock / landlord lock threads | — | EMPTY (no relevant thread surfaced; reddit not scrapeable). | — |
+| BR17 | Bay Ridge local-news stories specifically about smart locks / keyless entry (Brooklyn Paper, Home Reporter, Patch, BK Eagle) | — | EMPTY (none found). | — |
+
+### Reused (sources reached by earlier runs in this repo, not re-fetched; logged in research/cat6-repair.md "Bay Ridge" and research/soundbar-installation.md "Bay Ridge")
+| Finding | Source as logged | Page section |
+|---|---|---|
+| Special Bay Ridge District 1978 after protests over twin 30-storey Bay Ridge Towers and 13-storey Shore Hill Apartments; Mar 23 2005 rezoning of 249 blocks (65th St / Seventh Ave / Shore Road); one-/two-family-only blocks 33 → 101 | https://www.citylandnyc.org/city-increases-zoning-protection-for-bay-ridge/ ; https://zr.planning.nyc.gov/article-xi/chapter-4 | §5 para 1, §5.5 bullet 4, §7 intro, Sources |
+| 452 units added 2010–2025 | furmancenter.org (cat6 research) | §5 para 1 |
+| CB10: one- and two-family homes "major portion"; corridors 3rd/4th/5th Ave, Fort Hamilton Pkwy, "bustling 86th Street strip"; multiple dwellings on Shore Rd, Ridge Blvd, 4th Ave | https://cbbrooklyn.cityofnewyork.us/cb10/about/neighborhoods/ | §5 paras 1 & 4, §8 intro |
+| >1,000 illegal-conversion complaints since 2010 (Bay Ridge, Dyker Heights, Fort Hamilton) | https://www.citylandnyc.org/council-member-works-to-combat-illegal-home-conversions/ (Oct 2014) | §5 para 4 |
+| Doctors' Row: 54 limestone row houses, Bay Ridge Pkwy between 4th & 5th Aves, 1906–1913, two storeys + basement, first Bay Ridge historic district (2019), medical professionals historically and currently | https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page | §7 limestone card, §8 medical card, §8.5 LPC bullet, §13 card |
+| 8200 Narrows Ave House: built 1917, James Sarsfield Kennedy, uncut randomly laid stone, rare Arts and Crafts example (designation year not stated — sources conflict) | http://s-media.nyc.gov/agencies/lpc/lp/1623.pdf | §13 card |
+| Fort Hamilton cornerstone 1825, first garrison flag 1831, only active-duty installation in greater NYC area | https://installations.militaryonesource.mil/in-depth-overview/fort-hamilton | Q&A deployment, §13 card |
+| Verrazzano-Narrows Bridge opened Nov 21 1964, world's longest suspension span then | wikipedia / mta.info / nycgovparks | §13 card |
+| Bay Ridge–95th St opened Oct 31 1925, R terminal | wikipedia / mta.info | §5 para 3, §13 card |
+| Owl's Head Park: Yellow Hook → Bay Ridge 1853; Murphy estate bought by E. W. Bliss 1866; park 1928; 24.22 acres | https://www.nycgovparks.org/parks/owls-head-park/history | §13 card |
+| Shore Road Park 58.00 acres, views incl. Statue of Liberty, Fort Wadsworth, Coney Island; American Veterans Memorial Pier 600-ft former Bay Ridge–St. George ferry pier | nycgovparks.org shore-road-park; americanveteransmemorialpier; 6tocelebrate.org | §13 card |
+| Bay Ridge 5th Ave BID est. June 2006, 40 block faces, 376 ground-floor businesses; 86th Street BID est. Oct 2001, 16 block faces, 145 ground-floor businesses; R at 86th St & 4th Ave; Third Ave "36-block strip" (merchants' FB page) | nyc.gov SBS BID directory (bid=55, bid=42); 86bid.org; facebook.com/ThirdAvenueBayRidge | §5 para 5, §8 cards |
+| The Normandy, 9437 Shore Road, Art Moderne, opened as rental 1940, 55-unit six-storey co-op; 9201 Shore Road built 1960, 254 apartments; Shore Road high concentration of co-ops | brownstoner.com (Aug 2026); soldbysoldano.com; cooperatornews.com | §7 co-op card, co-op/renters section |
+| Silo-wide: MDL §51-c, MDL §4 (3+ families), HMC/HPD fire safety (no double-cylinder on apartment doors), Admin Code §26-521, Tenant Data Privacy Act LL63/2021, LPC Permit Guidebook (hardware no permit), NY1 roll-down gate deadline repeal, Fixr $250–$400 avg $300, keypad unit $100–$250, August Connect 10–15 ft & single-cylinder retrofit, Yale Matter/Thread border router same ecosystem, Allegion Schlage Arrive 1-3/8"–2" thickness, 2-3/8"/2-3/4" backset | research/smart-lock-installation.md S1–S6, N1, N4, N6, N9, N18, B4, B8, WB16 | §7.5, §8.5, Q&A, §10, §10.5, §14, renters section |
+
+General statements without a dedicated fetched source (flagged): US DST ends first Sunday in November / starts second Sunday in March (common knowledge, federal law); lock-app capabilities (date-range codes, recurring weekly schedules, fortnightly repeats often unsupported, admin vs user roles, notification digests, first-person-in rules more common on commercial access control, many locks do not log mechanical key use) — worded as "many / some / usually", no brand claims.
+
+### Prices used (Brooklyn ×1.00 — copied from smart-lock-installation-brooklyn.html / silo prices table; nothing new)
+- Single-door keypad or fob reader with electric strike $1,500–$2,500 installed (§14 table, Premium package, FAQ 1, Service schema).
+- New electric strike $250–$450; failed strike repair $295–$485 (§14, schema).
+- Setup-only visit $195 first hour then 30-min blocks (repair capture, §14, BYO card, schema). Same flag as Brooklyn page: confirm this rate may be quoted for smart-lock app/code/schedule visits.
+- Service/callback $195/hr, 3-hr minimum ($585) (§14).
+- Residential smart locks: quoted flat at walkthrough (§14, Starter/Standard, BYO).
+- Fixr national $250–$400 / avg $300; keypad units $100–$250 — labelled third-party national (§10.5, §14).
+- Worked totals: two reader/strike doors = $3,000–$5,000 (sum of published lines only).
+
+### Images (11) — Step C library (Drive folder empty per main run; CompanyCam not connected)
+Source = images/smart-lock-installation/aess-smart-lock-installation-* (viewed with Read via contact sheets; crops chosen to exclude every face; no house numbers, plates or readable documents; the "4A" apartment-door photo, the "128" doorbell photo, customer-face photo and office photos with faces not used). Pillow crop → WebP q80, ≤1600 px. NOTE (same as West Brighton): the aess-* set looks AI-rendered — flag for Anwar.
+| File (images/smart-lock-installation/) | Source (aess-smart-lock-installation-…) | Crop box (x0,y0,x1,y1) | Section |
+|---|---|---|---|
+| smart-lock-installation-bay-ridge-keypad-deadbolt-lever-wood-door.webp | keypad-smart-deadbolt-brownstone-door | 560,0,1400,1050 | hero / og:image |
+| smart-lock-installation-bay-ridge-inside-thumb-turn-hand.webp | keypad-exterior-thumbturn-interior-view (interior panel only, overlay text cropped off) | 700,0,1400,760 | instant action |
+| smart-lock-installation-bay-ridge-tape-measure-old-bore-latch-plate.webp | measuring-door-bore-for-deadbolt | 690,120,1400,1050 | §5 |
+| smart-lock-installation-bay-ridge-keypad-removed-wiring-check.webp | servicing-keypad-wiring | 700,200,1400,933 | repair capture |
+| smart-lock-installation-bay-ridge-drill-keypad-door-iron-grille.webp | drilling-keypad-lock-brownstone-stoop | 700,120,1400,933 | §7 |
+| smart-lock-installation-bay-ridge-adding-code-phone-keypad.webp | programming-access-code-app | 760,200,1400,1050 | §8 |
+| smart-lock-installation-bay-ridge-fingerprint-scan-phone-unlocked-screen.webp | fingerprint-unlock-demo-app | 720,180,1400,1050 | §9 |
+| smart-lock-installation-bay-ridge-ribbon-cable-interior-assembly.webp | connecting-interior-unit-cable | 800,250,1400,1050 | §10 |
+| smart-lock-installation-bay-ridge-latch-strike-edge-check.webp | checking-latch-bolt-alignment | 720,150,1400,1050 | §13 |
+| smart-lock-installation-bay-ridge-unscrewing-brass-deadbolt.webp | removing-old-brass-deadbolt | 700,330,1400,1050 | §14 |
+| smart-lock-installation-bay-ridge-battery-pack-interior-unit.webp | replacing-smart-lock-batteries | 800,120,1400,933 | settings section |
+DAILY-LOG note suggestion: `images: 11 cropped from images/smart-lock-installation/aess-smart-lock-installation-* (no real smart-lock photos in Drive; faces cropped out)`.
+
+### Build notes
+- check_page.py on the real repo: only wiring failures remain (sitemap, _redirects ×2, Brooklyn hub link-down, 16 area pages link-back). With those simulated in a scratch copy (symlinked root; nothing in the repo changed) → **PASS**. 13,170 rendered words, 240,550 B (placed in the gap between 236,388 and 243,491; Tottenville 225,158 / Harlem 180,846 at last check), title 45, meta 160, 11 figures, 6 JSON-LD blocks, FAQ 7 = FAQPage 7, HowTo 6 = process 6.
+- Masked similarity (word-level difflib, blocks p/li/td/h2/h3/figcaption ≥8 masked words, geo + street names masked) vs all 33 smart-lock pages on disk (incl. Tottenville and Harlem drafts) and the cat6/soundbar/other-silo Bay Ridge pages: every non-constant block < 0.65 (max remaining non-constant 0.64 = Sources citation line vs soundbar-bay-ridge Sources). Blocks ≥0.65 are only blueprint H2 patterns, licence/rating strip, warranty sentence, NAP, price-table row labels.
+- `#sl-nbhd-links` = West Brighton block + West Brighton + Harlem + Tottenville (17 links).
+
+## Question register — smart-lock-installation-bay-ridge-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. The clocks go back an hour in November — do the timed codes on our lock move with them, and what keeps the lock's own clock right?
+2. Our cleaner comes every other Thursday — can a lock schedule follow a fortnightly pattern?
+3. Can the street door of our two-family lock itself at 11 every night, whoever left it on the latch?
+4. Relatives fly in from abroad for six weeks every summer — can their code start the day they land and stop the day they fly home?
+5. Can the lock tell us if Mom's front door hasn't opened at all by midday?
+6. I'm deploying from Fort Hamilton for nine months — how should control of our lock pass to my spouse or a relative while I'm away?
+7. Our ornate wood door has an iron grille bolted over its glass panel — does that change where the smart lock can go?
+8. The app shows our front door unlocked at 3:12 a.m. and nobody remembers doing it — how do we work out what happened?
+9. Can each code carry a name, so the history reads "cleaner" rather than a slot number?
+10. Burglars hit Third Avenue restaurants between 3 and 4:30 a.m. in August 2026 — can our staff codes simply stop working between closing and opening?
+11. Our practice opens at 8, but on a snow day nobody comes in — can the front door wait for the first employee instead of unlocking by the clock?
+
+### §17 FAQ (visible == FAQPage, 7)
+1. How is a Bay Ridge job priced when one visit covers a house door, a co-op unit door and a shop door?
+2. Do you also cover Dyker Heights, Fort Hamilton and the Sunset Park blocks just north of 65th Street?
+3. Can the installer arrive at 7 a.m. so we can still make the R train or the express bus?
+4. Can a shop or practice door schedule be told about public holidays?
+5. Can we get one daily summary of the door instead of a notification every time it opens?
+6. If a code only works on weekday mornings, does the physical key still open the door at any hour?
+7. If our upstairs tenant uses the app for the shared street door, can she see when we come and go?
+
+### Other question-form headings
+- H2 "Bay Ridge Lock Ignoring Its Schedule, or Not Answering at All?" (repair capture)
+- H2 "Shut Out Somewhere Between Shore Road and Seventh Avenue?" (final repair capture)
+
+### De-dup notes
+Compared by meaning against all 739 question headings/FAQs on the 31 smart-lock pages on disk at start, every register in research/smart-lock-installation.md, and the Tottenville and Harlem drafts at finish. Dropped during build: "Do you take away the old locks?" (= New Dorp FAQ), fake-courier "should we unlock from the app" (= Flushing), stoop parcels (= Brooklyn), auto-lock delay length (≈ Nassau mudroom/yard), co-op contractor hours with nobody home (≈ LI/Manhattan), keypad beeps at night (= Rockland), landmark approval (= Bed-Stuy/BH/HV). Partial overlaps left for the main run to judge: Q3 scheduled nightly lock-up vs Rockland "app tell us at bedtime which doors are unlocked" (mine = lock acts by itself) and Westchester "front door left unlocked on purpose for a party" (mine = overriding a forgotten hold-open); Q4 date-range code vs Bayside "code that works only once" and Washington Heights "one-time code for relative at GWB bus station" (mine = multi-week, date-bounded); Q5 inactivity alert vs Queens "dementia — opens door at night" (mine = absence of activity); Q10 staff-code curfew vs Greenpoint "after Franklin Street restaurant burglaries, what does an electronic lock add on a back door" (mine = time-restricted credentials); FAQ 7 tenant seeing owner's log vs Brooklyn "As the owner, can I see when my tenant comes and goes" (reverse direction, account roles).
