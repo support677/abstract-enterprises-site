@@ -2152,6 +2152,111 @@ Built 2026-10-17. Format per blueprint v2.3 §12.4: exact query · platform · U
 - `reddit Tribeca apartment mount TV brick wall exposed brick loft column` · FC search · https://www.reddit.com/r/AskNYC/comments/1v72dwl/mounting_tv_in_exposed_brick/ · excerpt: poster viewing places with exposed brick asks "if landlords allow tenants to drill into the ..." · §5 para 5; Q&A brick-vs-mortar para 3.
 - `reddit Tribeca loft noise neighbors wood floors sound travels conversion building` · FC search · r/AskNYC newer-building soundproofing (https://www.reddit.com/r/AskNYC/comments/sm0u1y/...) and others — not Tribeca-specific; background only, not used.
 - Tribeca-specific Reddit on soundbars: EMPTY.
+## Tottenville, Staten Island (soundbar-installation-tottenville-staten-island-ny)
+
+> NOT SHIPPED (2026-10-17): page built and passed content checks but no file-size slot >2 KB from every soundbar sibling was free after concurrent neighborhood batches; line returned to TODO. Research reusable; the Tottenville questions below are NOT live, so they do not block other pages.
+
+Builder notes (batch 2026-10-17). Up-link /soundbar-installation-staten-island · phone (347) 934-8335 · GBP Brooklyn (#brooklyn, 1282 Troy Ave).
+Thesis: Tottenville is two building booms a century apart (20.4% pre-1940 Victorian/frame village north of Hylan; 55.3% built 1980–2009 south-east of Hylan) plus a rebuilt Sandy shoreline — so the page is organised by wall era (plaster/lath vs drywall colonials vs raised shore houses), not by a "typical living room".
+
+### Research matrix (exact query · platform · URL · finding · page + section used)
+
+1. Reddit
+   - `reddit statenisland Tottenville house old Victorian plaster renovation` · Firecrawl search · https://www.reddit.com/r/statenisland/comments/1sowmx8/tottenville_the_end_of_new_york_city/ · excerpt only ("southernmost and westernmost point in the city"); full thread EMPTY (not accessible in build env — Firecrawl: "we do not support this site"). Not used beyond the geography already sourced from Wikipedia.
+   - Other hits in that search were generic r/HomeImprovement / r/centuryhomes plaster threads, not Tottenville — not used.
+2. Google PAA — EMPTY (not accessible in build env)
+3. Google PASF — EMPTY (not accessible in build env)
+4. Answer the Public — EMPTY (not accessible in build env)
+5. Google AI Overview — EMPTY (not accessible in build env). §10.5 uses published claims instead (see "AI reality check sources").
+6. Landmarks / geography
+   - `Tottenville Staten Island neighborhood history housing Conference House Main Street` · Firecrawl search → https://en.wikipedia.org/wiki/Tottenville,_Staten_Island (scraped in full): southernmost neighborhood in NYC and NY State, westernmost in NYC; Arthur Kill / Raritan Bay; Bentley Manor → renamed Tottenville 1869; SIR reached 2 June 1860, Tottenville station southern terminus; St. George 14 miles/42 min; 1990s "intense levels of new home construction" south-east of Hylan Blvd; Main Street the commercial corridor until the 2000s, second core along Page Ave / west of Amboy Rd; Tottenville Beach largely undeveloped until 1990s, Coral Bay Cafe destroyed by Sandy; 7484 Amboy Rd (built c.1870 as Bethel parsonage) landmarked 2005 after demolition fight; 2008 one-way conversion of 20+ northern blocks; Nassau Smelting/Lucent 30-acre site, RX3 rezoning opposed, future undetermined; 7 Preservation League award buildings (88 & 115 Bentley, 24 Brighton, 213 Wood Ave, 7647 & 7639 Amboy, library); Bethel UMC 1840/rebuilt 1886; Stadium Theatre 1,037 seats 1927–1957, rock venue 1969, roller rink 1970s, closed; 123rd Pct 116 Main St; post office 228 Main St; Engine 151/Ladder 76 at 7219 Amboy Rd; NYPL Tottenville branch 7430 Amboy Rd, Carnegie library by Carrère & Hastings, opened 1904, NYC landmark; Arthur Kill station opened 21 Jan 2017 replacing Atlantic & Nassau; 2020 pop. 16,089 (Tottenville–Charleston NTA), −4.6% from 2010; area 2.505 sq mi. → §5 paras 1–2, 5.5 bullets, §7 intro, §8 cards, Street-by-Street section, §13 cards.
+   - https://www.nycgovparks.org/parks/conference-house-park (WebFetch): 265 acres; stone manor built 1680; peace conference 11 Sept 1776; Biddle, Ward, Rutan-Beckett houses; South Pole marker "southernmost point of New York State". → §13 card.
+   - `Tottenville Staten Island Living Breakwaters project completed` · WebSearch → https://www.governor.ny.gov/news/governor-hochul-announces-completion-111-million-coastal-resiliency-project-staten-island (WebFetch): completed/announced 27 Sept 2024; $111M ($97M HUD CDBG-DR + $14M state); 2,400 linear ft; 8 partially submerged structures; wave heights near buildings/roads < 3 ft; sand replenishment Manhattan St to Loretto St; reef streets/ridges, oysters by 2027; Rebuild by Design winner; SCAPE with NYC Parks; Sandy waves knocked Tottenville homes off foundations. → §5 para 4, 5.5 bullet, §13 card, Shoreline section.
+   - `Tottenville station Staten Island Railway rebuilt Sandy damage new station` · WebSearch → https://www.dnainfo.com/new-york/20170120/tottenville/arthur-kill-station-staten-island-railway-open.amp (WebFetch): Arthur Kill station opened 21 Jan 2017, $27.4M, 150-space lot, Arthur Kill Rd between Lion St and Barnard Ave, first new SIR station in nearly 50 years, delayed for post-Sandy resiliency redesign. → §8 card, §13 card.
+7. Building stock / use cases
+   - `10307 Tottenville housing units year built median single-family detached census` · Firecrawl search → https://www.point2homes.com/US/Neighborhood/NY/Staten-Island/Tottenville-Demographics.html (WebFetch): 5,412 units; 1-unit detached 51.6%, attached 19.8%, 2 units 24.4%, 50+ units 0.5%; built ≤1939 20.4%, 1940s 4.2%, 1950s 1.8%, 1960s 2.4%, 1970s 4.2%, 1980s 17.2%, 1990s 22.9%, 2000s 15.2%, 2010s 9.2%, 2020+ 2.4%; median year built 1989; owner-occupied 82.9% of 5,076 occupied. → §5 para 2, 5.5 bullets, §7.
+   - https://www.realestatesiny.com/About-Tottenville-Staten-Island.php (Firecrawl scrape, directQuote): "a mix of older turn of the century homes and new home construction"; "Older cottages, Dutch colonial's, Second Empire Victorian"; new "Side Hall Colonial and Center Hall Colonial's which can be one or two family homes"; Angelina's Ristorante on Ellis Street overlooks the water. → §7 intro, §8 waterfront card.
+   - https://forgotten-ny.com/2026/05/return-to-tottenville-2025/ (WebFetch): 76 Bentley Greek Revival c.1850; 88 Bentley c.1890 for a shipbuilder; 53 Bentley 1910; 92 Hopping Gothic Revival cottage 1886; 65 Hopping Colonial Revival 1903; 97 Satterlee Italianate for shipbuilder James Rutan; Hannah Ward House c.1830; Amboy Road runs from New Dorp to Tottenville; Bentley St ferry landing (Perth Amboy ferry ended 1963). → §7 cards, Street-by-Street.
+   - `Landmarks Preservation Commission Tottenville designated landmark house Amboy Road Bentley Street` · Firecrawl search → https://www.nyc.gov/html/records/pdf/govpub/4184cunninghamstoredesigrep.pdf (title: George Cunningham Store, 173 Main Street, LPC designation report) and https://www.citylandnyc.org/bedell-house-designated-over-owner%E2%80%99s-objection/ (James L. Bedell House, 1874, 7484 Amboy Road). → §8 Main Street card, §2-eras para, §13 Bethel card.
+8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+9. Local news
+   - `Tottenville Sandy deaths Tottenville homes destroyed waterfront Yetman Avenue Billop Avenue rebuilt raised` · Firecrawl search → https://www.silive.com/southshore/2012/10/hurricane_sandy_decimates_stat.html (WebFetch blocked; Firecrawl scrape directQuote worked): Robert Nolan, Yetman Ave, "This whole block has to be leveled."; giant wave tore through the end of Yetman near Billop Ave; cement foundations filled with muddy water across the street; Anthony Palmieri: "I lost a couple of shingles and I thought I was in bad shape. That's nothing compared to this."; Manhattan St / Rockaway St / Coral Bay Cafe. → §5 para 4, Shoreline section, Street-by-Street.
+   - https://slate.com/technology/2017/10/after-sandy-this-staten-island-town-tries-to-embrace-sea-level-rise.html (WebFetch): Sandy killed two of Tottenville's 14,000+ residents; surge waves up to 16 ft; Tottenville Civic Association view of breakwaters. → Shoreline section.
+   - Firecrawl search excerpt: https://www.facebook.com/FDNY/photos/... — FDNY crews "sent to Tottenville ... found four homes that were severely damaged by a tidal wave". → Shoreline section (excerpt only; post not opened).
+   - `silive.com Tottenville 2026` · Firecrawl search: only school prom/graduation items (Tottenville HS Class of 2026, 950 graduates) and a Home-of-the-Week; nothing in the service category. Not used.
+   - `Page Avenue Tottenville shopping center stores Arthur Kill Road retail Staten Island` · Firecrawl search → https://tottenvillecommons.shop/ (Tottenville Commons shopping centre on Page Avenue — excerpt); https://www.silive.com/galleries/3TLOMRXE7JEADEPON76QMNT3ZM/ (excerpt: "In 2014 the new Tottenville Square Retail Center was cited as reason to expand the intersection of Amboy Road and Page Avenue"); https://www.loopnet.com/Listing/7001-Amboy-Rd-Staten-Island-NY/18267924/ (Tottenville Square, 7001 Amboy Rd, neighborhood shopping center); https://locations.td.com/us/126-page-avenue-staten-island-tottenville (TD Bank 126 Page Ave). → §8 cards.
+10. Hyperlocal — `silive Tottenville Main Street businesses 2025 OR 2026` · WebSearch → no Tottenville business-news result. EMPTY for service category.
+11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Regulation / technical sources used
+- `Landmarks Preservation Commission permit interior work individual landmark house not required` · Firecrawl gov search → https://nyc.gov/site/lpc/about/landmark-designation.page: interior work generally doesn't require LPC review unless it needs a DOB permit, affects the exterior, or is in a designated interior landmark. → §7 closing para, §8.5 bullet.
+- `New York General Business Law 777-a housing merchant implied warranty ...` · Firecrawl gov search → https://nysenate.gov/legislation/laws/GBS/777-A (WebFetch): 1 yr workmanship, 2 yrs plumbing/electrical/HVAC, 6 yrs material defects; §777-a(2) excludes defects not caused by builder. → §9 builder-warranty Q.
+- `do not run extension cords under rugs fire hazard CPSC OR ESFI` · Firecrawl search → https://www.cpsc.gov/Newsroom/News-Releases/1990/Limit-Extension-Cords-To-Reduce-Risk-Of-Fire: "Don't run cords under carpets or rugs since they prevent heat from being released by the cord." → FAQ 3.
+- `MoCA adapter use existing coax home network` · Firecrawl search → https://www.t-mobile.com/home-internet/the-signal/internet-devices/what-moca-network (excerpt: MoCA uses existing coaxial cables). → §9 coax Q, §10.5 H3 7.
+- `stud finder plaster and lath walls inaccurate` · Firecrawl search → Zircon blog https://www.zircon.com/blogs/tips-solutions/the-secret-to-finding-wood-studs-in-lath-and-plaster-walls (excerpt: irregular surface; false positives). → §7.5 plaster para, §10.5 H3 4.
+- ADA 2010 §307.2 and DEP noise-code limits: carried from silo research (Staten Island area page) — not re-fetched.
+
+### AI reality check sources (§10.5) — claims as published, not AI Overview text
+- `soundbar installation cost average 2026 how much to mount a soundbar` · Firecrawl search →
+  - https://www.homewyse.com/maintenance_costs/cost_to_install_soundbar.html — "$58.43 - $231 per soundbar in September 2026 ... can vary significantly with site conditions" → H3 1.
+  - https://www.bestbuy.com/product/soundbar-setup-mounting/JCQ6HRTYLJ — "Estimated Time to Complete Service 40 minutes" → H3 2.
+  - https://www.angi.com/articles/how-much-does-buying-and-repairing-tv-cost.htm — soundbar bracket $30–$100 → H3 3.
+  - https://woodlands-hometheater.com/blog/cost-to-install-surround-sound/ — "between $500 and $3,500 to install a surround sound system professionally" → H3 5.
+- `connect soundbar to TV via Bluetooth audio delay lip sync advice manufacturer` · Firecrawl search → https://www.samsung.com/us/support/troubleshoot/TSG10002313/ — correct out-of-sync "using the Sound Control or Audio Sync buttons" → H3 6.
+- Zircon (above) → H3 4; T-Mobile MoCA (above) → H3 7.
+
+### Prices used (all copied from soundbar-installation-staten-island.html; none re-derived by multiplier)
+$129 wall mount · $79 console · $84.99 Sanus bracket · $169 in-wall kit · $59 cord cover · $99 cable run ≤25 ft · $125 Sonos · $129 receiver · $99 universal remote · $49 device · $350 full home theater · adds: metal stud +$30, plaster +$45, brick/stone +$65, block +$75, tile +$95, backer $85, high mount $75, box removal $25, COI free · TV: $209.99 (32–55"), +$30/+$60/+$100, over fireplace +$130, on stand $137.99 · setup-only $225 first hour then 30-min blocks · $150 return trip.
+New sums shown with arithmetic on the page (sums of published lines only): Standard $258.99 (129+84.99+45); Premium $732.99 (129+84.99+169+350); worked example $553.98 (209.99+130+129+84.99).
+
+### Images (11) — library photos from images/soundbar-installation/ (Anwar's 13 real soundbar photos), copied under Tottenville names
+level-check-wall-soundbar (hero, eager), rear-speakers-behind-sofa, tablet-sound-check, yellow-level-on-bracket, reception-tv-soundbar, compact-bar-on-desk, bar-on-articulating-arm, unboxing-bar-and-bracket, bar-on-media-console, home-gym-tv-soundbar, cabinet-cable-straps. Skipped homeowner-remote-walkthrough and conference-room-handover (both show a non-staff person's face).
+
+### Needs Anwar
+- No real Tottenville install anecdote for Field Notes (element 21) — omitted rather than invented.
+- Confirm that showing summed package totals ($258.99, $732.99, $553.98) built from published lines is acceptable.
+
+## Question register — soundbar-installation-tottenville-staten-island-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Our TV wall is old plaster that was skim-coated over layers of wallpaper — does that change how the bracket holds?
+2. We plan to restore the house one day — how do you keep the soundbar install easy to undo?
+3. The wall cavities in our old house may hold loose, pebbly insulation — what happens if the drill or a cable kit disturbs it? (replaced 2026-10-17: the earlier balloon-frame stud-bay question duplicated St. George's "Our house is balloon-framed — can the soundbar cables drop down an open stud bay…" by meaning; source: EPA https://epa.gov/asbestos/my-attic-has-vermiculite-insulation-it-am-i-risk-should-i-take-it-out — assume vermiculite may contain asbestos, leave undisturbed, removal by accredited abatement contractor → §9 Victorian cluster Q3)
+4. The subwoofer makes our old house's floorboards and the china cabinet rattle — what fixes that?
+5. Could a drill hit the vent pipe inside our direct-vent gas fireplace's bump-out?
+6. Can the coax the builder left in our walls give the soundbar a wired network connection?
+7. Our house is still under the builder's warranty — will drilling for a soundbar void it?
+8. Our kitchen TV folds down from under the cabinets — is there room for any soundbar?
+9. Will grease and heat near the counter shorten a soundbar's life in our Main Street shop?
+10. Can a small soundbar sit on a desk and run from a computer monitor?
+
+### §17 FAQ (visible == FAQPage)
+1. What does it cost when the cable box lives in a cabinet across the room from the TV?
+2. Our TV sits on a floor stand that has its own soundbar shelf or arm. Can you fit the bar to it?
+3. Can the cords to the rear speakers and subwoofer run under the area rug?
+4. Our TV lives in an armoire with doors. Can the soundbar go inside it too?
+5. Will mounting the soundbar on the wall affect its manufacturer's warranty?
+6. How can I tell whether our walls are plaster or drywall before booking?
+
+### Other question-form headings
+- Tottenville Soundbar Lost Its Sound? (repair capture)
+- What Will Your Wall Cost? (mid CTA)
+- Bar Gone Silent Somewhere Between the Station and the Beach? (final repair CTA)
+
+De-dup notes: checked by meaning against every register question and every live page (incl. batch sisters Harlem and Bay Ridge as built at 10:25). Dropped from first draft because a sister page owns the intent: narrow window pier (Harlem, Bay Ridge), pocket doors (Harlem), sub in another room (Harlem back parlor), painting to match wall (Bay Ridge). Closest remaining neighbours for the main run to judge: FAQ 5 (bar maker's warranty) vs NYC hub "What warranty comes with the bracket and the install?" (AESS warranty); §9 Q6 (coax as network) vs Harlem "old coax stapled along baseboards tidied" (cable tidy); FAQ 6 (identify plaster vs drywall) vs Harlem "half drywall/half plaster — which carries the TV".
+
+
+## Harlem, Manhattan (soundbar-installation-harlem-manhattan-ny)
+
+Built 2026-10-17 (batch with Tottenville SI and Bay Ridge BK). Up-link /soundbar-installation-manhattan · phone (929) 560-0737 · Bronx GBP. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide findings (PAA/PASF/ATP/AI Overview EMPTY, cost guides, eARC, Sonos specs) reused from research/soundbar-installation.md, not repeated.
+
+Thesis: Harlem is a rowhouse-and-parlor neighborhood with big towers between the blocks. The soundbar job is decided by (1) the parlor floor — pocket doors, front vs back parlor, narrow piers between tall windows, decorative fireplaces, mixed original plaster and renovation drywall in houses converted back from rooming-house use; (2) the tower complexes (NYCHA, Mitchell-Lama, Lenox Terrace) with concrete and block; (3) the commercial avenues — 125th Street, Frederick Douglass Blvd, Lenox/Malcolm X, ACP Blvd — where storefront sound runs into the city's sound-device rule; (4) landmark districts that govern the facade, not the TV wall.
+
+### 1. Reddit (Firecrawl excerpts only; reddit.com not scrapable)
+- `reddit r/Harlem brownstone neighbor noise TV mount apartment` · Firecrawl search · https://www.reddit.com/r/movingtoNYC/comments/1x3seiz/can_you_hear_your_neighbor/ · excerpt "You can hear everything in older brownstones. Luxury apts have great sound proofing." · §5 para 4 (quoted).
+- `site:reddit.com r/Harlem brownstone OR walk-up apartment TV wall mount plaster neighbors` · Firecrawl search · https://www.reddit.com/r/NYCapartments/comments/1t1s0mq/summer_sublet_harlem_brownstone_w_backyard/ · Harlem brownstone sublet: "Bottom floor has a living room (w/ TV), bathroom, kitchen, and backyard" · §5 para 4 (garden-level TV rooms are normal).
+- `Lenox Terrace Harlem apartment complex …` · Firecrawl search · https://www.reddit.com/r/Harlem/comments/1q6whvc/lenox_terrace_apartment_reviews/ · excerpt "The doorman are pretty good, some better than others." · §7 tower card (doorman complexes exist in Harlem).
+- Harlem-specific Reddit on soundbars / TV mounting: EMPTY (none found).
 
 ### 2. Google PAA — EMPTY (not accessible in build env)
 ### 3. Google PASF — EMPTY (not accessible in build env)
@@ -2801,6 +2906,26 @@ Substituted (§10.5 headings are published claims, not AI text): homewyse $58.43
   - https://nabebeat.com/new-york/new-york-city/astoria/ — excerpt: "A Queens neighborhood of prewar co-ops, two family houses, and four restaurant strips…" → §7 (corroborates house/co-op mix; nothing else used).
   - https://raremaps.com/gallery/detail/106601/one-hundred-houses-on-ditmars-avenue-astoria — excerpt: promotional broadsheet for "one hundred 20-foot brick houses located on Ditmars Avenue". → §7 brick-house card ("20-foot brick houses marketed on Ditmars Avenue").
   - Steinway company town (above) → §7 note on older Ditmars-Steinway housing.
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 tests published claims instead (Homewyse $58.43–$231, Dolby "below the TV", Yamaha 42.5 in, Sonos-community "eARC not required for Atmos", in-box hardware claim, LPC scope, bigger-sub claim) — all from silo research URLs, plus LPC FAQ below.
+
+### 6. Landmarks (§13, six cards)
+- `125th Street rezoning 2008 Harlem …` · Firecrawl search → https://www.apollotheater.org/visit-the-apollo · Apollo's Historic Theater 253 W 125th St, 1,500-seat mainstage, "currently closed for renovation and is expected to reopen in late 2026"; The Apollo Stages at The Victoria, 233 W 125th St, 199-seat and 99-seat theaters · §13 card, §8.
+- `St. Nicholas Historic District Strivers' Row …` · Firecrawl search + Firecrawl scrape https://en.wikipedia.org/wiki/St._Nicholas_Historic_District · both sides of W 138th/139th between ACP Jr Blvd and FDB; built 1891–93 by David H. King Jr.; architects James Brown Lord, Bruce Price & Clarence S. Luce, Stanford White; LPC designated March 16, 1967; NRHP 1975; shared rear alleys, gates with "Walk Your Horses" signs, back areas now used mostly for parking · §13 card, §7.
+- `Mount Morris Park Historic District …` · Firecrawl scrape https://www.nyc.gov/site/lpc/about/pr2017/092517.page · original district designated 1971; extension designated 2015 with "more than 250 row houses"; rowhouses built in last two decades of 19th c., "faced with brick and brownstone", neo-Grec, Romanesque Revival, neo-Renaissance; mainly built as single-family dwellings · §5, §5.5, §13 card. CityLand excerpt (https://www.citylandnyc.org/extension-to-mount-morris-park-historic-district-designated/): extension "more than 250 rowhouses and twelve apartment buildings".
+- `Marcus Garvey Park fire watchtower …` · Firecrawl scrape https://www.nycgovparks.org/parks/marcus-garvey-park/pressrelease/21717 · watchtower erected 1856, NYC landmark 1967, NRHP 1976; restoration celebrated October 28, 2019 ($7.9M restoration); stands on the Acropolis; park 20.16 acres; Richard Rodgers Amphitheater · §13 card.
+- `Studio Museum in Harlem new building …` · Firecrawl search → https://www.studiomuseum.org/press/studio-museum-in-harlem-opening-date-and-community-day · new seven-floor, 82,000 sq ft building at 144 W 125th St opened to public November 15, 2025; Adjaye Associates with Cooper Robertson · §13 card, §8.
+- `NYCHA St. Nicholas Houses …` · Firecrawl search → https://en.wikipedia.org/wiki/St._Nicholas_Houses · thirteen 14-story buildings, 1,523 apartments, superblock W 127th–131st between ACP Jr Blvd and FDB (saintnicholashouses.us says ~1,526) · §13 card, §7.
+- `Hamilton Heights Sugar Hill historic district …` · Firecrawl search → https://en.wikipedia.org/wiki/Sugar_Hill,_Manhattan · Hamilton Heights/Sugar Hill HD designated June 27, 2000; extension Oct 3, 2001; Northeast HD Oct 23, 2001; Northwest HD June 18, 2002; 409 Edgecombe Ave (Schwartz & Gross); CityRealty excerpt: 409 Edgecombe "a historic 13-story building" · §7, coverage line.
+
+### 7. Building stock / use cases
+- `Furman Center Central Harlem MN10 neighborhood profile …` · Firecrawl scrape https://www.furmancenter.org/neighborhoods/central-harlem/ · housing units 64,458 (2024); homeownership 15.3% (2024) vs 32.7% citywide; single-person households 46.9% (2024); population 65+ 15.6%; public housing 63 properties / 7,766 units = 13.6% of rental units (2025); Mitchell-Lama 6 properties / 2,449 units; 4,576 new units in 4+ unit buildings 2010–2025; car-free commute 88.0% (2024); condo sales 165 (2025) · §5, §5.5 stats.
+- `Frederick Douglass Boulevard Harlem condo boom …` · Firecrawl search + Firecrawl scrape (pdf) https://www.nyc.gov/assets/planning/download/pdf/plans/frederick-douglass-boulevard/fdb.pdf · 44 blocks of south-central Harlem bounded by Central Park North, W 124th, Morningside Ave and a point 100 ft west of ACP Jr Blvd; "five- to eight-story residential buildings along the avenues and three- to five-story rowhouses on the mid-blocks"; R8A along FDB raising residential FAR 3.44→6.02, heights to 120 ft; new commercial overlays on W 116th St · §5, §7 new-build card, §8. Year of adoption not in excerpt — not stated.
+- `Esplanade Gardens Mitchell-Lama …` · Firecrawl search → https://esplanade-gardens.com/ "1872-unit development comprising of six buildings … Mitchell-Lama Co-op"; https://newrepublic.com/article/165931/… "Opened in 1967" · §7 tower card.
+- Lenox Terrace · https://streeteasy.com/complex/lenox-terrace "comprised of six buildings" · §7.
+- `NYCHA St. Nicholas …` result → https://www.nyc.gov/site/hpd/about/projects-detail.page?project=Randolph%20Houses&borough=Manhattan (Firecrawl scrape) · Randolph Houses: 36 tenement buildings on W 114th St between ACP and FDB; Phase I gut rehab of 22 buildings → 147 public-housing units + 20 affordable · §7 walk-up card.
+- `Harlem brownstones history rooming houses SRO …` · Firecrawl search + scrape https://fontanarchitecture.com/harlem-brownstone-renovation/ · Harlem brownstone built late 1800s single-family, converted to SRO mid-20th c.; "Like many properties in Harlem, the building had undergone multiple alterations over time"; gut renovation and legal conversion SRO→single-family; original staircase, banisters, paneling preserved · §5, §7, Q&A drywall-vs-plaster.
+- `Harlem townhouse listing "pocket doors" …` · Firecrawl search → https://www.cityrealty.com/nyc/market-insight/features/great-listings/masterfully-crafted-ten-incredible-nyc-homes-gorgeous-woodwork-fireplaces-includes-brownstone-former-nyc-mayor/22162 · excerpt "This rare Harlem gem has all of its historic architectural details including authentic mahogany, cherry wood trim and original pocket doors" · Q&A pocket doors. https://thebrownstoneboys.com/harlem-houseparts/ (scrape) · Harlem brownstone with "3 X Marble Fireplaces" · §7 parlor card, FAQ fireplace.
+- Pier mirrors: found only in Brooklyn listings (Brownstoner Fort Greene, Bed-Stuy) — not used as a Harlem claim.
 
 ### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
 
@@ -2868,3 +2993,150 @@ Checked against every question on all 16 soundbar pages (extracted with tools/ch
 - Masked-geo block similarity (difflib, ≥12-word p/li/td/h3/figcaption blocks, geo names masked) vs all 16 area pages + UWS + Park Slope drafts: highest prose block after rewrites 0.64; only the NAP/licence service-standards line exceeds 0.65 (excluded by v2.3 §2). Whole-page masked similarity ≤ 0.22 (Queens).
 - Questions compared by meaning against the UWS and Park Slope drafts built in parallel: no overlap found.
 - File 229,194 B (nearest sibling Putnam 222,021 B; UWS 178,586 B; Park Slope 173,219 B at check time). Rendered words 13,827.
+- Apollo renovation (Apollo site, above) · §5, §13.
+- Studio Museum opening Nov 15, 2025 (press release) · §13.
+- `125th Street rezoning …` · Firecrawl scrape (pdf) https://www.nyc.gov/125thstreet · study initiated December 2003; Special 125th Street District from Broadway to Second Ave; Core Subdistrict between FDB and 545 ft east of Lenox/Malcolm X; Apollo, Theresa Towers and the Corn Exchange are NYC landmarks; new developments ≥60,000 sq ft in the core reserve 5% for arts/entertainment uses; "125th Street is Harlem's 'Main Street'" · §8.
+- `LPC FAQ … interior work …` · Firecrawl search → https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page · LPC interior permit needed only when the work requires a DOB permit or the interior is a designated interior landmark; no LPC permit for ordinary repairs · §8.5, §10.5 H3.
+- `NYC Administrative Code 24-244 …` · Firecrawl search → https://nycadmincode.readthedocs.io/t24/c02/sch06/ (text of §24-244(b)); https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-209196 · no sound reproduction device for commercial advertising or attracting attention to a display of merchandise "in or through any aperture" of premises abutting a public street, or where it may be heard on the street · §8.5, Q&A storefront window.
+- `Harlem noise complaints 311 …` · Firecrawl search → https://portal.311.nyc.gov/article/?kanumber=KA-01085 (42 dB / 7 dB commercial music 10 PM–7 AM) · §8.5. Facebook claim "Hamilton Heights loudest neighborhood" — unverified, NOT used. NYC Open Data "Harlem Noise Complaints House of Worship" dataset seen, not opened.
+- Lead (Local Law 1, pre-1960) and residential construction hours 7 AM–6 PM: from Manhattan research (HPD, NYC311 KA-01091) · §5.5, field notes.
+
+### 10. Hyperlocal / corridors
+- `Frederick Douglass Boulevard "restaurant row" Harlem …` · Firecrawl search → https://neighbors.columbia.edu/content/dining-central-harlem ("Frederick Douglass Boulevard's restaurant row to busy 125th Street"; Red Rooster Harlem 310 Lenox Avenue); https://www.dnainfo.com/new-york/20130614/central-harlem/summer-sidewalk-cafe-crawl-heats-up-lenox-avenue (Lenox sidewalk cafes) · §8 cards (examples only, not customers).
+- Patch/Harlem World/West Side Rag on soundbars or TV mounting: EMPTY.
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env). (Esplanade Gardens Yelp excerpt seen; not used.)
+
+### Pricing used (published AESS numbers only — copied from soundbar-installation-manhattan.html §14/§15)
+$129 wall mount · $79 console · $84.99 Sanus bracket · $169 in-wall · $59 cord cover · $99 cable run ≤25 ft · $125 Sonos · $129 A/V receiver · $99 universal remote · $49 streaming · $350 full home theater · $150 Manhattan parking per visit · metal +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up (3rd floor+, no elevator) $40 · old bracket $45 · box removal $25 · COI free · setup-only $265 first hour then 30-min blocks · TV base $244.99 (32–55 in, wood-stud drywall) · TV on stand $162.99 · $150 return trip · free reschedule 24 h. Totals on page are sums only.
+
+### Flags for Anwar
+1. Same flags as the Manhattan page (1.25× multiplier not applied; $150 parking on soundbar-only visits).
+2. Whether the $40 walk-up line applies inside a private rowhouse (e.g., a top-floor den) is not defined in the published menu — the page applies it only to apartments, as the menu states.
+3. The 11 "real" soundbar photos look rendered (uniform shirts, idealised rooms). Used per instruction; please confirm they are genuine AESS photos. The two photos showing a seated woman's face (homeowner-remote-walkthrough, conference-room-handover) were NOT used on this page.
+4. Elevator/fire-rated shaft walls were not made into a question (no source).
+
+## Question register — soundbar-installation-harlem-manhattan-ny
+(Q&A = §9 H3; FAQ = §17 accordion = FAQPage)
+
+Q&A (§9) — 9:
+1. Our garden apartment's front windows sit at sidewalk level — will people walking past hear the soundbar?  (Rowhouse floors) — replaced 2026-10-17: "Our parlor has pocket doors in the TV wall…" duplicated St. George's pocket-door question by meaning
+2. Front parlor or back parlor — which room should get the TV and soundbar?  (same)
+3. The only blank wall in our parlor is the narrow pier between the tall front windows — will a TV and soundbar fit there?  (same)
+4. Half our walls were redone in drywall during the renovation and half are still original plaster — does it matter which one carries the TV?  (same)
+5. In our railroad apartment the living room is also the hallway — where can the TV and soundbar go so nobody walks into them?  (Walk-ups and towers)
+6. We mostly watch live concerts and music videos, not films — which soundbar settings suit that?  (TVs and sound) — replaced 2026-10-17: "Our Samsung Frame hangs flush…" duplicated Tribeca's "art-style TV hangs flush… low-profile soundbar options" by meaning
+7. The soundbar says Dolby Atmos, but films sound no different — what is usually missing?  (same)
+8. Our barbershop is long and narrow with the TV up front — will the chairs at the back hear it over the clippers?  (Harlem businesses)
+9. Our shop on 125th Street plays video in the front window — can a soundbar be pointed at the sidewalk?  (same)
+
+FAQ (§17) — 7:
+1. What would a soundbar on a brownstone's brick party wall come to in Harlem, cord cover and parking included?
+2. Can a soundbar bracket go on plaster that already has a long crack running through it?
+3. Can the subwoofer sit inside the opening of a decorative fireplace that no longer works?
+4. Can the subwoofer live in the back parlor while the bar is in the front?
+5. Are the screws and plugs that come in the soundbar's box good enough for an old Harlem wall?
+6. Can old cable-company coax stapled along the baseboards be tidied up on the same visit?
+7. A piano or a tall bookcase has to stay against the TV wall — can the bar still be mounted above it?
+
+Other question-form headings (repair capture / CTA): "Harlem Soundbar Gone Quiet?", "Want a Harlem Price You Can Check?", "Soundbar Trouble Anywhere Above 110th Street?"
+
+De-dup: checked by meaning against every question on all 16 live soundbar pages (FAQ + question headings dumped from the HTML). Avoided: LPC approval (Brooklyn), chimney breast/flue (Brooklyn), party-wall drill-through and sideways bass (Brooklyn), mantel shelf vs wall (LI), radiator cover (Manhattan), lead paint (Manhattan), NYCHA approval (Bronx), hollow clay tile (Bronx), corridor wall (Westchester), parking (NYC), upper-Manhattan coverage (Manhattan), harsh rooms (Manhattan), commercial bar noise limits (Manhattan), restaurant two screens (Queens — closest neighbour of Q8; Q8 is about one screen, speech over tool noise and seating depth), garage gym (Suffolk), cost (every page has a worked total; this one is a brick-party-wall total).
+
+
+# Builder notes — soundbar-installation-bay-ridge-brooklyn-ny (batch 2026-10-17)
+
+## Bay Ridge, Brooklyn (soundbar-installation-bay-ridge-brooklyn-ny)
+
+Built 2026-10-17. Format: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+Up-link /soundbar-installation-brooklyn · phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn) · prices = Brooklyn base list exactly as published on soundbar-installation-brooklyn.html (no multiplier; nothing new).
+Thesis: Bay Ridge zoned itself (1978 Special District, 2005 rezoning) to keep its 1905–1965 building stock, so a soundbar here goes onto old plaster in six-story Shore Road/Ridge Blvd co-ops (managing agent, COI, hours, rug rule, elevator shafts, parquet), tapestry-brick/limestone two-families with a tenant below (listening test, picture rails, bay windows), or flats over Fifth/Third Avenue shops (old surface raceway, business below) — the neighbor's sleep, not a meter, is the local test (CB10 2009 Third Avenue case).
+Silo-wide findings reused from research/soundbar-installation.md, not re-fetched: DEP Noise Code summary (42 dB / 7 dB / 6 dB(C) bass), HomeWyse $58.43–$231 (Sept 2026), Thumbtack $121–$234, Yamaha 42.5" ear height, Sonos Beam 6.35 lb eARC, Sonos Ray optical/no mics, Arc Ultra ~46 in + 4 in / 1 ft clearances, Sanus WSSATM1 50–90 in, SASB1 20 lb, Crutchfield HW-Q990D (48.56 in, rears need AC), AWOL Vision ARC/eARC Atmos-in-DD+, Census QuickFacts Kings County owner rate 29.5%.
+
+### 1. Reddit
+- `reddit bayridge neighbor noise bass TV apartment co-op` · FC search → only non-Bay-Ridge threads (r/Apartmentliving, r/AskNYC s7qax3, r/parkslope 1fwzce7, r/soundproof) and the r/BayridgeBrooklyn index page (https://www.reddit.com/r/BayridgeBrooklyn/) with no relevant thread. Not quoted. Bay Ridge Reddit: EMPTY (no service-relevant thread found; Firecrawl does not scrape reddit.com).
+- `r/BayridgeBrooklyn TV mounting OR soundbar OR "noise" upstairs neighbor apartment` · FC search → Facebook roommate posts, Habitat Mag, Yelp listing, YouTube co-op tour (7423 Ridge Blvd), apartments.com. Nothing usable. EMPTY.
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 uses published claims instead (HomeWyse, Thumbtack, Yamaha from silo research; generic DIY/stud-finder/"board approval"/"acoustic panels"/"wireless" claims written as typical AI-summary claims, not quoted from a captured AI Overview).
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ Bay Ridge — EMPTY (not accessible in build env)
+
+### 6/7. Building stock, zoning, stats (§5, §5.5, §7, co-op section)
+- `Bay Ridge Brooklyn housing stock co-ops Shore Road prewar apartment buildings limestone rowhouses` · FC search → result list (soldbysoldano 9201 Shore Rd; Brownstoner 9437 Shore Rd; cityneighborhoods.nyc/bay-ridge "predominantly low-rise, with co-ops, two-family homes, and small apartment buildings"; penrealty). Follow-ups below.
+- FC scrape https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/bay-ridge-one-bedroom-9437-shore-road-normandy/ (Aug 26, 2026) → "six-story, 55-unit co-op that faces Shore Road Park … Designed by … Cohn Brothers, the Art Moderne building debuted as a rental in 1940. With one corner curved like the prow of an ocean liner, it is named The Normandy"; parquet with inlaid borders; French doors; faceted wall · §5 para 2, §7 prewar co-op card, Q&A curved/faceted wall, Q&A parquet, Sources.
+- FC scrape https://soldbysoldano.com/9201-shore-road-bay-ridge-co-op/ → The Len, 9201 Shore Road: postwar, 6 stories, 254 apartments, built 1960, 24/7 doorman · §5 para 2, §7 postwar card, landmarks card, Sources.
+- FC scrape https://gamateam.com/blog/what-bay-ridge-co-op-buyers-need-to-know-about-new-yorks-new-board-approval-deadline → Local Law 58 of 2026 (Intro 1120-B) effective July 28, 2026: 15-day completeness, 45-day decision, HPD fines $1,000/$1,500/$2,000, summer recess tolling, co-ops ≥10 units; "Lebern Towers at 9701 Shore Road is a six-story prewar co-op built in 1935, its Art Deco facade"; local mix "roughly half co-op, half condo along Shore Road and Ridge Boulevard" · §5 para 2, co-op section ("Buying in, moving in" + intro), Sources.
+- FC scrape https://cooperatornews.com/article/the-city-by-the-bay → "high concentration of co-op apartment buildings" on Shore Road; brownstones, semi-attached brick homes, pre-WWII buildings; "In the early 1970s the 300-foot tall Bay Ridge Towers went up on 65th Street"; 1978 special district 3 stories on residential streets / 8 on avenues · co-op section intro, §7 postwar card, Owl's Head card, Sources.
+- `Bay Ridge 2005 rezoning contextual downzoning preserve one- and two-family houses City Planning` · FC search → FC scrape https://www.citylandnyc.org/city-increases-zoning-protection-for-bay-ridge/ (Apr 15, 2005): Council approved Mar 23, 2005 rezoning of 249 blocks in the Special Bay Ridge District (65th St N, Seventh Ave E, Shore Road S/W); 1978 district created after protests over twin 30-story Bay Ridge Towers and 13-story Shore Hill Apartments; one-/two-family-only blocks 33 → 101; "Fedders houses" (not used) · hero subhead, §5 para 1, §5.5 bullet 4, Sources.
+- `Bay Ridge Parkway Doctors' Row Historic District designated Landmarks Preservation Commission` · FC search → FC scrape https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page → "a block of 54 row houses on Bay Ridge Parkway between 4th and 5th avenues constructed between 1906 and 1913 … two stories tall with a basement … continuous cornice"; limestone-fronted; "Doctors' Row" from medical professionals "historically and currently"; first historic district in Bay Ridge (2019). Also http://s-media.nyc.gov/agencies/lpc/lp/2631.pdf (excerpt: public hearing May 14, 2019) · §5 para 3, §5.5 bullet 5, §7 limestone card, §8 medical card, §8.5 LPC bullet, landmarks card, Sources.
+- `Bay Ridge semi-detached brick two-family homes 1920s limestone rowhouses Bay Ridge architecture Brownstoner` · FC search →
+  - FC scrape https://www.brownstoner.com/real-estate-market/bay-ridge-476-72nd-street-two-family/ (Aug 2024): early-20th-c. tapestry-brick row house, two-family, apartment per floor; front parlor with bay window, wall moldings, picture rails; wainscoting with Lincrusta, coffered ceiling, plate shelf; part of a Fifth Avenue row (72nd–73rd) of three-story buildings with ground-floor stores and apartments above · §5 para 3–4, §7 two-family + mixed-use cards, methods "period trim", Q&A bay window, composites, Sources.
+  - FC scrape https://www.brownstoner.com/real-estate-market/bay-ridge-brooklyn-homes-for-sale-7023-ridge-crest-terrace-garage/ (Jan 2023): 1920s Perry Ridge Homes Co. development of single-family tapestry-brick houses with garages; converted to two-family; picture rails; English basement with thick concrete floor · §5 para 3, §7 two-family card, methods "basement walls", Sources.
+- `Brooklyn Community District 10 Bay Ridge Dyker Heights population housing units owner occupied Furman Center profile` · FC search → FC scrape https://www.furmancenter.org/neighborhoods/bay-ridge-dyker-heights/ (updated 2026): 2024 population 128,247; housing units latest column 51,486; 452 units added 2010–2025 (422 market rate, 30 income-restricted). Data USA excerpt https://datausa.io/profile/geo/nyc-brooklyn-community-district-10-bay-ridge-dyker-heights-puma-ny: "In 2024, 40.4% of the housing units … were occupied by their owner." (Furman homeownership column 41.0% not used because its year column was ambiguous in the scrape.) CB10 site (https://cbbrooklyn.cityofnewyork.us/cb10/about/) population 122,542 — not used (different vintage) · §5 para 5, §5.5 bullets 1–3, Sources.
+- `Bay Ridge basement flooding Ida 2021 OR sewer backup Brooklyn Paper Bay Ridge homes` · FC search → FC scrape https://floodform.nyc/homeowners/nyc-flood-exposure/oh-018-bay-ridge-brooklyn: OH-018 combined sewer area, 4,732 properties, 35% Moderate/High stormwater, 12% sewer backup, parcel data as of Oct 14, 2026 · §5.5 bullet 6, Sources. (Columbia News Service 2022 Ida excerpt "inland floods engulfed parts of Bay Ridge" — not used.)
+
+### Landmarks (§13) — none used as a card on the Brooklyn page or NYC hub
+- `Shore Road Park Bay Ridge Verrazzano-Narrows Bridge opened 1964 Owl's Head Park 69th Street Pier NYC Parks` · FC search → https://www.nycgovparks.org/highlights/verrazano-bridge (opened 1964; "Towering 693 feet"; Shore Park and Parkway, 69th Street Pier); https://www.nycgovparks.org/parks/shore-park-and-parkway/highlights/12536 (opened November 21, 1964; then world's longest suspension bridge) · Verrazzano card, Sources.
+- `site:nycgovparks.org Shore Road Park history Bay Ridge promenade Belt Parkway acres` · FC search → https://www.nycgovparks.org/parks/shore-road-park: 58.00 acres, Community Board 10, views of Statue of Liberty, WTC, Fort Wadsworth, Fort Hamilton, Coney Island · Shore Park card, Sources. (https://www.nycgovparks.org/parks/shore-road-park/history → 404.)
+- `Owl's Head Park Bay Ridge history Bliss estate acres NYC Parks` · FC search → FC scrape https://www.nycgovparks.org/parks/owls-head-park/history: Henry C. Murphy estate; bought 1866 by Eliphalet W. Bliss; will offered it for $835,000 as parkland; park designated 1928; 24.22 acres · Owl's Head card, Sources.
+- `Gingerbread House 8220 Narrows Avenue Bay Ridge landmark designated Howard E. and Jessie Jones House` · FC search → FC scrape https://6tocelebrate.org/site/howard-e-jessie-jones-house/: 8200 Narrows Avenue; J. Sarsfield Kennedy, 1916–17; individual landmark; rustic boulders, simulated thatch roof; AIA Guide "Black Forest Art Nouveau". Designation year conflicting in excerpts (1988 TripAdvisor review vs Brooklyn Paper "1989") → not stated · Gingerbread card, Sources.
+- `Bennet-Farrell-Feldman House 119 95th Street Bay Ridge landmark designated` · FC search → https://hdc.org/buildings/bennet-farrell-feldman-house/ (excerpt: individual landmark, 1847, moved 1913, Greek Revival) · Fort Hamilton card, Sources.
+- `Fort Hamilton Army garrison Bay Ridge history oldest military installation housing` · FC search → https://installations.militaryonesource.mil/in-depth-overview/fort-hamilton (cornerstone 1825, first garrison flag 1831); https://home.army.mil/hamilton/about (fourth oldest Army installation; National Register 1974 — not used) · Fort Hamilton card, Sources.
+- `Bay Ridge 95th Street R train terminal station opened 1925 Fourth Avenue line` · FC search → https://en.wikipedia.org/wiki/Bay_Ridge%E2%80%9395th_Street_station (opened October 31, 1925); https://www.mta.info/maps/subway-line-maps/r-line (terminal, entrances 95 St & 5 Av / 93 St & 4 Av, ADA) · Fort Hamilton card, Sources.
+- `American Veterans Memorial Pier 69th Street Bay Ridge ferry history 600-foot` · FC search → https://www.nycgovparks.org/parks/americanveteransmemorialpier; https://6tocelebrate.org/site/american-veterans-memorial-pier/ (600-foot former Bay Ridge–St. George ferry pier) · Shore Park card (name only), Sources.
+
+### Commercial corridors (§8)
+- `Merchants of Third Avenue Bay Ridge Ragamuffin Parade Third Avenue Festival Fifth Avenue BID` · FC search → https://www.bayridgebid.com/ (Bay Ridge 5th Avenue BID, 65th–85th Streets; Instagram tags @86streetbid, @merchantsof3rdave); https://www.merchantsofthirdave.com/events (Third Avenue Festival Sunday Oct 4, 2026); Brooklyn Eagle excerpt (Ragamuffin Parade on Third Ave 76th–92nd — not used) · §5 para 4, §8 cards, Sources.
+- `Bay Ridge 311 noise complaints Community Board 10 loud music neighbors Brooklyn Paper` · FC search → FC scrape https://www.brooklynpaper.com/residents-and-local-bars-not-making-beautiful-music-together/ (Dec 25, 2009, Helen Klein): 42 noise complaints to CB10 since August from eight Third Avenue families; two bars between 88th and 89th; 68th Precinct readings "within allowable limits"; district manager Josephine Beckmann: "If we're getting calls from residents who can't sleep, I don't care what the reading is"; owner: speakers' sound "doesn't go more than 20 fee[t]", limiters on amps · §5 para 6, §8.5 bullet 2, Sources.
+
+### Regulation / technical (Q&A, §8.5, co-op section)
+- `NYC co-op house rules 80 percent floor covered carpet rugs noise proprietary lease` · FC search → https://www.habitatmag.com/Archive2/201-May-2004/The-80-Percent-Carpet-Rule (typical house rule: 80% of floor area of each room except kitchens, pantries, bathrooms, hallways; purpose noise abatement, "one shareholder's floor was another shareholder's ceiling"); https://streeteasy.com/blog/80-percent-rule-carpet-floor-covering/ (not a city law; lease/co-op clause) · co-op section "rug rule", Q&A rug/sub, §10.5 claim four, Sources.
+- `Brooklyn Paper OR Home Reporter Bay Ridge co-op board renovation rules contractors Shore Road 2025` · FC search → https://cornielconstruction.com/brooklyn-apartment-renovation-guide-what-homeowners-must-know-before-renovating-a-condo-co-op-or-brownstone-2/ (Mar 9, 2026): alteration agreements "Typically restricted to 9:00 AM – 5:00 PM, Monday through Friday" · co-op section "What the building usually asks for", Sources. Bay Ridge-specific co-op rules news: EMPTY.
+- `elevator shaft enclosure fire rated wall penetrations not permitted NYC building code hoistway` · FC search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-169532 (BC 713: shaft enclosures ≥2-hour rating where connecting three stories or more) · Q&A elevator shaft, SVG, Sources.
+- `NEC 725.136 Class 2 cables separation from power conductors same raceway prohibited low voltage HDMI` · FC search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-232840 (NYC Electrical Code 725.136 excerpt: Class 2 conductors separated from other circuits); Mike Holt forum quoting 2023 NEC 725.136(I)(1) "separated by at least (2 in.)" · Q&A surface raceway, §8.5 bullet, services card, Sources.
+- `2010 ADA Standards 307.2 protruding objects 27 inches 80 inches 4 inches wall mounted` · FC search → https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ (4 in max projection for leading edges 27–80 in AFF) · §8.5 bullet, Sources. (Closes the silo flag on ADA 307.2 being unfetched.)
+
+### Pricing used (published AESS Brooklyn numbers only, copied from soundbar-installation-brooklyn.html)
+$79 console · $129 wall mount · $84.99 Sanus bracket · $169 in-wall · $59 cord cover · $99 cable run ≤25 ft · $125 Sonos · $129 A/V receiver · $99 universal remote · $49 streaming · $350 full home theater · wall adds $0 / +$30 / +$45 / +$65 / +$75 / +$95 · $85 backer · $75 high mount · $40 walk-up · $25 box removal · COI free · setup-only $195 first hour then 30-min blocks · TV mounting base $179.99 · callbacks $195/hr, 3-hr min ($585) · $150 return trip · free reschedule 24 h · packages $79 / $213.99 / $382.99. Example totals are sums of these lines only ($233, $288.99, $343.99, $343, $353.99, $204).
+
+### Images (11) — Anwar's soundbar photo library, copied from existing per-area files (viewed before writing alt/title/caption)
+hero level-check-under-tv (from bronx copy, eager) · waiting-room-tv-soundbar · unboxing-bracket-hardware · bracket-leveling-under-tv · full-motion-mount-attachment · conference-room-handover (from bronx copy) · homeowner-remote-walkthrough · cabinet-cable-management · app-sound-check-tablet · rear-surround-speaker-stands · console-soundbar-placement. Not used: home-gym-wall-soundbar, desk-compact-soundbar. Two inline SVG schematics (wall cross-sections; sub placement plan/section) added — drawn diagrams, no photos, labelled "schematic only".
+
+### Flags for Anwar
+- Related-service links on this page go to existing Bay Ridge pages of other silos (/tv-installation-bay-ridge-brooklyn-ny, /structured-cabling-installation-bay-ridge-brooklyn-ny, /intercom-installation-bay-ridge-brooklyn-ny, /security-camera-installation-bay-ridge-brooklyn-ny) per blueprint match-area rule. No other soundbar neighborhood page is linked except the batch sisters.
+- File size placed at ~226 KB: the requested 208–212 KB band has no slot >2 KB clear of Orange (209,008), Nassau (211,721), Rockland (206,678) and Suffolk (214,733); the nearest free window above Putnam (222,021) was used.
+- Field Notes, "Three Bay Ridge Homes" composites are explicitly labelled as general practice/composites, not specific jobs.
+
+## Question register — soundbar-installation-bay-ridge-brooklyn-ny
+
+§9 Q&A (H3), under non-question H2s (Inside the Shore Road and Ridge Boulevard buildings · Two-family houses and limestone rows · Apartments over the avenue shops · Businesses on Third and Fifth · Detached houses toward the water):
+1. French doors from the foyer swing open across our living-room TV wall — will they hit a wall-mounted soundbar? (replaced 2026-10-17: curved/faceted wall = St. George turret curved-wall question)
+2. How long does the drilling last, and how much will the neighbors across the hall hear? (replaced 2026-10-17: elevator-shaft wall = Riverdale "long wall backs onto the elevator shaft")
+3. Can a subwoofer sit on our original inlaid parquet without marking it?
+4. Our co-op makes us keep rugs over most of the floor — does that count toward keeping the subwoofer quiet downstairs?
+5. We live upstairs in our two-family — can you take a sound reading in the tenant's apartment before we decide on a subwoofer?
+6. Our front parlor's bay window takes up most of the street wall — should the TV and soundbar go in the bay or on the wall opposite?
+7. Our TV wall is the narrow pier between two tall windows, and the curtains brush the ends of the bar — will the drapes muffle it?
+8. We live above a store that closes at night — does that change how loud the subwoofer can run?
+9. The only outlet near our TV is fed through old metal channel on the wall surface — can the soundbar cables run inside it?
+10. Behind our Third Avenue bar, the only free wall is between the liquor shelves — where can a soundbar go?
+11. Can the waiting-room soundbar in our Fifth Avenue practice help keep front-desk conversations from being overheard?
+12. Our detached house has no neighbor through the wall — does that mean we should go bigger on the subwoofer?
+
+§17 FAQ (visible == FAQPage, 8):
+1. Do you need our Wi-Fi password to set the soundbar up?
+2. Can one soundbar serve two TVs in different rooms?
+3. Is anything paid before the visit?
+4. Will the drilling dust set off our apartment's smoke detector? (replaced 2026-10-17: mirror wall = St. George "wall of old mirror tiles")
+5. Can a soundbar be painted to match the wall?
+6. If the co-op later needs to repair the wall behind the TV, can the soundbar come off quickly? (replaced 2026-10-17: 85-inch width = Tribeca "85-inch screen dwarfs a standard soundbar")
+7. The only outlet behind our TV is turned on and off by a wall switch. Is that a problem for the soundbar? (replaced 2026-10-17: booking lead time = Riverdale "How far ahead should we get in touch if the managing agent needs paperwork")
+8. Do you leave the spare screws and parts that came in the box?
+
+Other question-form headings: "Bay Ridge Soundbar Silent, Laggy or Hanging Crooked?" (repair capture), "Want a Written Bay Ridge Total Before Anyone Drills?" (CTA), "Lost the Sound on Shore Road Tonight? We Can Help" (no "?" at end).
+
+De-dup notes: checked by meaning against every question on the 16 area pages and the two batch sisters as on disk. Deliberately avoided: COI/board approval (NYC), freight elevator hours (NYC), plaster cracking (NYC), party-wall drilling/chimney breast/nogging (Brooklyn), sub below neighbours (NYC), noise code (NYC), picture rail hanging (Dutchess) and picture-rail trim (Putnam) — handled only in body text, wallpaper (Queens) — Lincrusta in body only, radiator under TV (Queens/Manhattan/Nassau), window-wall glass (Queens/Manhattan), external noise masking dialogue (Queens LaGuardia) — Belt Parkway not used, Atmos under special ceilings (Staten Island/HV) — coffered ceiling not used, router floors away (Brooklyn/Rockland/Suffolk), salt air (LI), on-post military housing (Orange), moving between apartments (Brooklyn/Nassau/Rockland), TV-too-high lowering and co-op written note and move-in timing (answered once in body, so dropped from FAQ), parking/travel charge (NYC/Brooklyn), demonstration before leaving (Brooklyn), hearing aids (Nassau/Queens/Westchester), waiting-room volume lock (Manhattan/Staten Island) — Q11 is speech privacy, not volume lock. Closest masked heading match on disk: Q2 vs Westchester "TV wall … backs onto the building corridor — can the wires go inside it?" (0.615 word similarity; different intent: fire-rated shaft and bracket vs in-wall wiring in a corridor wall).
+Masked paragraph similarity (difflib on geo-masked paragraphs ≥12 words, boilerplate NAP/licence/warranty/consent excluded): max 0.615 vs any sibling.
+Re-dedup 2026-10-17 (after riverdale-bronx-ny, st-george-staten-island-ny, tribeca-manhattan-ny went live): 5 questions replaced as marked above (2 flagged by main run, 3 more found on recheck: curved wall, mirror wall, booking lead time). Page edited in place (no rebuild); the elevator-shaft and curved-wall material remains only in body text, the SVG and price-table wording, not as questions.
