@@ -129,202 +129,202 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </style>
 <style>
 /* ═══════════════════════════════════════════════════════════════
-   MEGA-NAV v1.0 — Abstract Enterprises Security Systems
-   Self-contained. Overrides all page template nav styles.
-   ═══════════════════════════════════════════════════════════════ */
+MEGA-NAV v1.0 — Abstract Enterprises Security Systems
+Self-contained. Overrides all page template nav styles.
+═══════════════════════════════════════════════════════════════ */
 
 /* ── Reset: kill any inherited nav styles from any template ── */
 .mn-wrap, .mn-wrap *, .mn-wrap *::before, .mn-wrap *::after {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+box-sizing: border-box;
+margin: 0;
+padding: 0;
 }
 .mn-wrap a { text-decoration: none; color: inherit; }
 .mn-wrap ul, .mn-wrap li { list-style: none; }
 
 /* ── Variables ── */
 :root {
-  --mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --mn-bg: rgba(255,255,255,0.97);
-  --mn-blur: 12px;
-  --mn-text: #1a1a1a;
-  --mn-text-light: #555;
-  --mn-red: #e53935;
-  --mn-red-hover: #c62828;
-  --mn-border: #e8e8e8;
-  --mn-mega-bg: #fff;
-  --mn-hover-bg: #f5f5f5;
-  --mn-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  --mn-height: 72px;
-  --mn-mega-max-w: 1120px;
-  --mn-z: 99999;
+--mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+--mn-bg: rgba(255,255,255,0.97);
+--mn-blur: 12px;
+--mn-text: #1a1a1a;
+--mn-text-light: #555;
+--mn-red: #e53935;
+--mn-red-hover: #c62828;
+--mn-border: #e8e8e8;
+--mn-mega-bg: #fff;
+--mn-hover-bg: #f5f5f5;
+--mn-shadow: 0 4px 24px rgba(0,0,0,0.08);
+--mn-height: 72px;
+--mn-mega-max-w: 1120px;
+--mn-z: 99999;
 }
 
 /* ── Sticky wrapper ── */
 .mn-wrap {
-  position: fixed;
-  top: 0; left: 0; right: 0;
-  z-index: var(--mn-z);
-  background: var(--mn-bg);
-  backdrop-filter: blur(var(--mn-blur));
-  -webkit-backdrop-filter: blur(var(--mn-blur));
-  border-bottom: 1px solid var(--mn-border);
-  font-family: var(--mn-font);
-  height: var(--mn-height);
+position: fixed;
+top: 0; left: 0; right: 0;
+z-index: var(--mn-z);
+background: var(--mn-bg);
+backdrop-filter: blur(var(--mn-blur));
+-webkit-backdrop-filter: blur(var(--mn-blur));
+border-bottom: 1px solid var(--mn-border);
+font-family: var(--mn-font);
+height: var(--mn-height);
 }
 
 /* ── Spacer (pushes page content down) ── */
 .mn-spacer {
-  height: var(--mn-height);
-  display: block;
+height: var(--mn-height);
+display: block;
 }
 
 /* ── Inner bar ── */
 .mn-bar {
-  max-width: 1320px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: var(--mn-height);
-  padding: 0 24px;
-  gap: 16px;
+max-width: 1320px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+height: var(--mn-height);
+padding: 0 24px;
+gap: 16px;
 }
 
 /* ── Logo ── */
 .mn-logo img {
-  height: 42px;
-  width: auto;
-  display: block;
+height: 42px;
+width: auto;
+display: block;
 }
 
 /* ── Desktop nav links ── */
 .mn-links {
-  display: flex;
-  align-items: center;
-  gap: 0;
-  height: 100%;
+display: flex;
+align-items: center;
+gap: 0;
+height: 100%;
 }
 
 .mn-link-item {
-  position: relative;
-  height: 100%;
-  display: flex;
-  align-items: center;
+position: relative;
+height: 100%;
+display: flex;
+align-items: center;
 }
 
 .mn-link-item > a,
 .mn-link-item > button {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  padding: 0 16px;
-  height: 100%;
-  font-size: 14.5px;
-  font-weight: 600;
-  color: var(--mn-text);
-  letter-spacing: -0.01em;
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-family: var(--mn-font);
-  transition: color 0.15s;
-  white-space: nowrap;
+display: flex;
+align-items: center;
+gap: 5px;
+padding: 0 16px;
+height: 100%;
+font-size: 14.5px;
+font-weight: 600;
+color: var(--mn-text);
+letter-spacing: -0.01em;
+background: none;
+border: none;
+cursor: pointer;
+font-family: var(--mn-font);
+transition: color 0.15s;
+white-space: nowrap;
 }
 
 .mn-link-item > a:hover,
 .mn-link-item > button:hover,
 .mn-link-item.mn-open > button {
-  color: var(--mn-red);
+color: var(--mn-red);
 }
 
 /* Chevron */
 .mn-chev {
-  width: 10px; height: 10px;
-  transition: transform 0.2s;
+width: 10px; height: 10px;
+transition: transform 0.2s;
 }
 .mn-link-item.mn-open .mn-chev {
-  transform: rotate(180deg);
+transform: rotate(180deg);
 }
 
 /* ── Mega panel (shared) ── */
 .mn-mega {
-  position: absolute;
-  top: var(--mn-height);
-  left: 50%;
-  transform: translateX(-50%);
-  background: var(--mn-mega-bg);
-  border: 1px solid var(--mn-border);
-  border-top: 2px solid var(--mn-red);
-  border-radius: 0 0 12px 12px;
-  box-shadow: var(--mn-shadow);
-  padding: 32px 36px 28px;
-  opacity: 0;
-  visibility: hidden;
-  pointer-events: none;
-  transition: opacity 0.18s, visibility 0.18s;
-  z-index: calc(var(--mn-z) + 1);
+position: absolute;
+top: var(--mn-height);
+left: 50%;
+transform: translateX(-50%);
+background: var(--mn-mega-bg);
+border: 1px solid var(--mn-border);
+border-top: 2px solid var(--mn-red);
+border-radius: 0 0 12px 12px;
+box-shadow: var(--mn-shadow);
+padding: 32px 36px 28px;
+opacity: 0;
+visibility: hidden;
+pointer-events: none;
+transition: opacity 0.18s, visibility 0.18s;
+z-index: calc(var(--mn-z) + 1);
 }
 
 .mn-link-item.mn-open .mn-mega {
-  opacity: 1;
-  visibility: visible;
-  pointer-events: auto;
+opacity: 1;
+visibility: visible;
+pointer-events: auto;
 }
 
 /* ── Services mega (split layout) ── */
 .mn-mega--services {
-  width: 680px;
-  left: 50%;
+width: 680px;
+left: 50%;
 }
 
 .mn-mega--areas {
-  width: 620px;
+width: 620px;
 }
 
 .mn-mega-split {
-  display: flex;
-  gap: 0;
+display: flex;
+gap: 0;
 }
 .mn-mega-left {
-  width: 240px;
-  flex-shrink: 0;
-  border-right: 1px solid var(--mn-border);
-  padding-right: 0;
+width: 240px;
+flex-shrink: 0;
+border-right: 1px solid var(--mn-border);
+padding-right: 0;
 }
 .mn-mega-right {
-  flex: 1;
-  padding-left: 20px;
-  min-height: 300px;
-  column-count: 2;
-  column-gap: 24px;
-  column-rule: 1px solid var(--mn-border);
+flex: 1;
+padding-left: 20px;
+min-height: 300px;
+column-count: 2;
+column-gap: 24px;
+column-rule: 1px solid var(--mn-border);
 }
 .mn-area-block {
-  break-inside: avoid;
-  -webkit-column-break-inside: avoid;
-  page-break-inside: avoid;
-  display: block;
-  margin-bottom: 8px;
+break-inside: avoid;
+-webkit-column-break-inside: avoid;
+page-break-inside: avoid;
+display: block;
+margin-bottom: 8px;
 }
 .mn-mega-right > .mn-mega-col-head:first-child {
-  column-span: all;
-  -webkit-column-span: all;
-  margin-bottom: 8px;
+column-span: all;
+-webkit-column-span: all;
+margin-bottom: 8px;
 }
 
 .mn-svc-trigger,
 .mn-area-trigger,
 .mn-price-trigger {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 8px 16px 8px 12px;
-  border-radius: 6px 0 0 6px;
-  cursor: pointer;
-  transition: background 0.1s, color 0.1s;
-  border-right: 2px solid transparent;
+display: block;
+font-size: 13.5px;
+font-weight: 500;
+color: var(--mn-text);
+padding: 8px 16px 8px 12px;
+border-radius: 6px 0 0 6px;
+cursor: pointer;
+transition: background 0.1s, color 0.1s;
+border-right: 2px solid transparent;
 }
 .mn-svc-trigger:hover,
 .mn-area-trigger:hover,
@@ -332,146 +332,146 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-svc-trigger.mn-svc-active,
 .mn-area-trigger.mn-svc-active,
 .mn-price-trigger.mn-svc-active {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
-  border-right-color: var(--mn-red);
+background: var(--mn-hover-bg);
+color: var(--mn-red);
+border-right-color: var(--mn-red);
 }
 
 .mn-mega-right a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
+display: block;
+font-size: 13.5px;
+font-weight: 500;
+color: var(--mn-text);
+padding: 6px 8px;
+border-radius: 6px;
+transition: background 0.12s, color 0.12s;
 }
 .mn-mega-right a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
+background: var(--mn-hover-bg);
+color: var(--mn-red);
 }
 
 .mn-area-group {
-  font-size: 9px !important;
-  margin-top: 8px;
-  padding-bottom: 2px;
+font-size: 9px !important;
+margin-top: 8px;
+padding-bottom: 2px;
 }
 
 .mn-mega-col-head {
-  font-size: 10.5px;
-  font-weight: 800;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  color: var(--mn-text-light);
-  padding-bottom: 6px;
-  margin-bottom: 4px;
+font-size: 10.5px;
+font-weight: 800;
+text-transform: uppercase;
+letter-spacing: 0.1em;
+color: var(--mn-text-light);
+padding-bottom: 6px;
+margin-bottom: 4px;
 }
 
 .mn-mega-cta {
-  margin-top: 12px;
-  padding-top: 12px;
-  border-top: 1px solid var(--mn-border);
+margin-top: 12px;
+padding-top: 12px;
+border-top: 1px solid var(--mn-border);
 }
 .mn-mega-cta a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--mn-red);
-  padding: 6px 8px;
-  border-radius: 6px;
-  transition: background 0.12s;
+display: block;
+font-size: 13.5px;
+font-weight: 600;
+color: var(--mn-red);
+padding: 6px 8px;
+border-radius: 6px;
+transition: background 0.12s;
 }
 .mn-mega-cta a:hover { background: #fef2f2; }
 .mn-mega-cta .mn-mega-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  margin-top: 4px;
-  padding: 6px 8px;
+font-size: 14px;
+font-weight: 700;
+color: var(--mn-text);
+margin-top: 4px;
+padding: 6px 8px;
 }
 
 /* ── Pricing/Tools mega ── */
 .mn-mega--tools {
-  width: 680px;
+width: 680px;
 }
 .mn-mega-grid--tools {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 0 28px;
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 0 28px;
 }
 
 /* ── Company mega ── */
 .mn-mega--company {
-  width: 320px;
+width: 320px;
 }
 .mn-mega--company .mn-mega-col a {
-  display: block;
-  font-size: 13.5px;
-  font-weight: 500;
-  color: var(--mn-text);
-  padding: 7px 8px;
-  border-radius: 6px;
-  transition: background 0.12s, color 0.12s;
+display: block;
+font-size: 13.5px;
+font-weight: 500;
+color: var(--mn-text);
+padding: 7px 8px;
+border-radius: 6px;
+transition: background 0.12s, color 0.12s;
 }
 .mn-mega--company .mn-mega-col a:hover {
-  background: var(--mn-hover-bg);
-  color: var(--mn-red);
+background: var(--mn-hover-bg);
+color: var(--mn-red);
 }
 
 /* ── Right side CTA button ── */
 .mn-cta-wrap {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  flex-shrink: 0;
+display: flex;
+align-items: center;
+gap: 12px;
+flex-shrink: 0;
 }
 
 .mn-cta-phone {
-  font-size: 14px;
-  font-weight: 700;
-  color: var(--mn-text);
-  white-space: nowrap;
-  transition: color 0.15s;
+font-size: 14px;
+font-weight: 700;
+color: var(--mn-text);
+white-space: nowrap;
+transition: color 0.15s;
 }
 .mn-cta-phone:hover {
-  color: var(--mn-red);
+color: var(--mn-red);
 }
 
 .mn-cta-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  background: var(--mn-red);
-  color: #fff !important;
-  font-size: 13.5px;
-  font-weight: 700;
-  padding: 10px 20px;
-  border-radius: 8px;
-  white-space: nowrap;
-  transition: background 0.15s, transform 0.1s;
+display: inline-flex;
+align-items: center;
+gap: 6px;
+background: var(--mn-red);
+color: #fff !important;
+font-size: 13.5px;
+font-weight: 700;
+padding: 10px 20px;
+border-radius: 8px;
+white-space: nowrap;
+transition: background 0.15s, transform 0.1s;
 }
 .mn-cta-btn:hover {
-  background: var(--mn-red-hover);
-  transform: translateY(-1px);
+background: var(--mn-red-hover);
+transform: translateY(-1px);
 }
 
 /* ── Hamburger (mobile) ── */
 .mn-hamburger {
-  display: none;
-  background: none;
-  border: none;
-  cursor: pointer;
-  width: 36px; height: 36px;
-  position: relative;
-  flex-shrink: 0;
+display: none;
+background: none;
+border: none;
+cursor: pointer;
+width: 36px; height: 36px;
+position: relative;
+flex-shrink: 0;
 }
 .mn-hamburger span {
-  display: block;
-  width: 22px; height: 2px;
-  background: var(--mn-text);
-  position: absolute;
-  left: 7px;
-  transition: all 0.25s;
+display: block;
+width: 22px; height: 2px;
+background: var(--mn-text);
+position: absolute;
+left: 7px;
+transition: all 0.25s;
 }
 .mn-hamburger span:nth-child(1) { top: 10px; }
 .mn-hamburger span:nth-child(2) { top: 17px; }
@@ -482,9 +482,9 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 
 /* ── Mobile drawer ── */
 .mn-mobile {
-  display: none;
-  position: fixed;
-  top: var(--mn-height);
+display: none;
+position: fixed;
+top: var(--mn-height);
   left: 0; right: 0; bottom: 0;
   background: #fff;
   z-index: calc(var(--mn-z) - 1);
@@ -1740,7 +1740,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt">For the valley-wide picture &mdash; weekend houses, batteries in a hard winter, barns and county-by-county prices &mdash; go up one level to our <a href="/smart-lock-installation-hudson-valley" class="lnk">Hudson Valley smart lock installation hub</a>. Westchester, Rockland, Orange and Putnam already have their own smart lock pages. Until Ulster gets one, its link takes you to the quote form; our crews cover it today. Further south, the city and Long Island have regional pages, with separate pages for every borough and for Nassau and Suffolk.</p>
 <div class="sgrid">
 <div class="sc"><svg class="sc-ic" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2z"></path><path d="M9 4v14"></path><path d="M15 6v14"></path></svg><h3>Hudson Valley</h3><p><a href="/smart-lock-installation-hudson-valley" class="lnk">Smart lock installation in the Hudson Valley</a> &middot; <a href="/smart-lock-installation-westchester-county" class="lnk">Westchester</a> &middot; <a href="/smart-lock-installation-rockland-county" class="lnk">Rockland</a> &middot; <a href="/smart-lock-installation-orange-county" class="lnk">Orange County smart locks</a> &middot; <a href="/smart-lock-installation-putnam-county" class="lnk">Putnam County smart lock installation</a> &middot; Dutchess (this page) &middot; <a href="/smart-lock-installation-ulster-county" class="lnk">Ulster</a></p></div>
-<div class="sc" id="sl-nbhd"><h3>Neighbourhood smart lock pages</h3><p><a href="/smart-lock-installation-upper-east-side-manhattan-ny" class="lnk">Upper East Side, Manhattan</a> &middot; <a href="/smart-lock-installation-brooklyn-heights-brooklyn-ny" class="lnk">Brooklyn Heights, Brooklyn</a> &middot; <a href="/smart-lock-installation-flushing-queens-ny" class="lnk">Flushing, Queens</a> &middot; <a href="/smart-lock-installation-bedford-stuyvesant-brooklyn-ny" class="lnk">Bedford-Stuyvesant, Brooklyn</a> &middot; <a href="/smart-lock-installation-jackson-heights-queens-ny" class="lnk">Jackson Heights, Queens</a> &middot; <a href="/smart-lock-installation-kingsbridge-bronx-ny" class="lnk">Kingsbridge, Bronx</a> &middot; <a href="/smart-lock-installation-throgs-neck-bronx-ny" class="lnk">Throgs Neck, Bronx</a> &middot; <a href="/smart-lock-installation-todt-hill-staten-island-ny" class="lnk">Todt Hill, Staten Island</a> &middot; <a href="/smart-lock-installation-chelsea-manhattan-ny" class="lnk">Chelsea, Manhattan</a> &middot; <a href="/smart-lock-installation-new-dorp-staten-island-ny" class="lnk">New Dorp, Staten Island</a> &middot; <a href="/smart-lock-installation-washington-heights-manhattan-ny" class="lnk">Washington Heights, Manhattan</a> &middot; <a href="/smart-lock-installation-greenpoint-brooklyn-ny" class="lnk">Greenpoint, Brooklyn</a> &middot; <a href="/smart-lock-installation-bayside-queens-ny" class="lnk">Bayside, Queens</a> &middot; <a href="/smart-lock-installation-morris-park-bronx-ny" class="lnk">Morris Park, Bronx</a> &middot; <a href="/smart-lock-installation-west-brighton-staten-island-ny" class="lnk">West Brighton, Staten Island</a> &middot; <a href="/smart-lock-installation-upper-west-side-manhattan-ny" class="lnk">Upper West Side, Manhattan</a> &middot; <a href="/smart-lock-installation-park-slope-brooklyn-ny" class="lnk">Park Slope, Brooklyn</a> &middot; <a href="/smart-lock-installation-astoria-queens-ny" class="lnk">Astoria, Queens</a> &middot; <a href="/smart-lock-installation-riverdale-bronx-ny" class="lnk">Riverdale, Bronx</a> &middot; <a href="/smart-lock-installation-st-george-staten-island-ny" class="lnk">St. George, Staten Island</a> &middot; <a href="/smart-lock-installation-tribeca-manhattan-ny" class="lnk">Tribeca, Manhattan</a> &middot; <a href="/smart-lock-installation-tottenville-staten-island-ny" class="lnk">Tottenville, Staten Island</a> &middot; <a href="/smart-lock-installation-harlem-manhattan-ny" class="lnk">Harlem, Manhattan</a> &middot; <a href="/smart-lock-installation-bay-ridge-brooklyn-ny" class="lnk">Bay Ridge, Brooklyn</a></p></div>
+<div class="sc" id="sl-nbhd"><h3>Neighbourhood smart lock pages</h3><p><a href="/smart-lock-installation-upper-east-side-manhattan-ny" class="lnk">Upper East Side, Manhattan</a> &middot; <a href="/smart-lock-installation-brooklyn-heights-brooklyn-ny" class="lnk">Brooklyn Heights, Brooklyn</a> &middot; <a href="/smart-lock-installation-flushing-queens-ny" class="lnk">Flushing, Queens</a> &middot; <a href="/smart-lock-installation-bedford-stuyvesant-brooklyn-ny" class="lnk">Bedford-Stuyvesant, Brooklyn</a> &middot; <a href="/smart-lock-installation-jackson-heights-queens-ny" class="lnk">Jackson Heights, Queens</a> &middot; <a href="/smart-lock-installation-kingsbridge-bronx-ny" class="lnk">Kingsbridge, Bronx</a> &middot; <a href="/smart-lock-installation-throgs-neck-bronx-ny" class="lnk">Throgs Neck, Bronx</a> &middot; <a href="/smart-lock-installation-todt-hill-staten-island-ny" class="lnk">Todt Hill, Staten Island</a> &middot; <a href="/smart-lock-installation-chelsea-manhattan-ny" class="lnk">Chelsea, Manhattan</a> &middot; <a href="/smart-lock-installation-new-dorp-staten-island-ny" class="lnk">New Dorp, Staten Island</a> &middot; <a href="/smart-lock-installation-washington-heights-manhattan-ny" class="lnk">Washington Heights, Manhattan</a> &middot; <a href="/smart-lock-installation-greenpoint-brooklyn-ny" class="lnk">Greenpoint, Brooklyn</a> &middot; <a href="/smart-lock-installation-bayside-queens-ny" class="lnk">Bayside, Queens</a> &middot; <a href="/smart-lock-installation-morris-park-bronx-ny" class="lnk">Morris Park, Bronx</a> &middot; <a href="/smart-lock-installation-west-brighton-staten-island-ny" class="lnk">West Brighton, Staten Island</a> &middot; <a href="/smart-lock-installation-upper-west-side-manhattan-ny" class="lnk">Upper West Side, Manhattan</a> &middot; <a href="/smart-lock-installation-park-slope-brooklyn-ny" class="lnk">Park Slope, Brooklyn</a> &middot; <a href="/smart-lock-installation-astoria-queens-ny" class="lnk">Astoria, Queens</a> &middot; <a href="/smart-lock-installation-riverdale-bronx-ny" class="lnk">Riverdale, Bronx</a> &middot; <a href="/smart-lock-installation-st-george-staten-island-ny" class="lnk">St. George, Staten Island</a> &middot; <a href="/smart-lock-installation-tribeca-manhattan-ny" class="lnk">Tribeca, Manhattan</a> &middot; <a href="/smart-lock-installation-tottenville-staten-island-ny" class="lnk">Tottenville, Staten Island</a> &middot; <a href="/smart-lock-installation-harlem-manhattan-ny" class="lnk">Harlem, Manhattan</a> &middot; <a href="/smart-lock-installation-bay-ridge-brooklyn-ny" class="lnk">Bay Ridge, Brooklyn</a> &middot; <a href="/smart-lock-installation-williamsburg-brooklyn-ny" class="lnk">Williamsburg, Brooklyn</a> &middot; <a href="/smart-lock-installation-forest-hills-queens-ny" class="lnk">Forest Hills, Queens</a> &middot; <a href="/smart-lock-installation-pelham-bay-bronx-ny" class="lnk">Pelham Bay, Bronx</a></p></div>
 <div class="sc"><svg class="sc-ic" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2z"></path><path d="M9 4v14"></path><path d="M15 6v14"></path></svg><h3>New York City</h3><p><a href="/smart-lock-installation-nyc" class="lnk">AESS smart lock installation in NYC</a> &middot; <a href="/smart-lock-installation-manhattan" class="lnk">Manhattan smart locks</a> &middot; <a href="/smart-lock-installation-brooklyn" class="lnk">Brooklyn smart lock installation</a> &middot; <a href="/smart-lock-installation-queens" class="lnk">smart locks in Queens</a> &middot; <a href="/smart-lock-installation-bronx" class="lnk">the Bronx</a> &middot; <a href="/smart-lock-installation-staten-island" class="lnk">Staten Island</a></p></div>
 <div class="sc"><svg class="sc-ic" aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 4 3 6v14l6-2 6 2 6-2V4l-6 2z"></path><path d="M9 4v14"></path><path d="M15 6v14"></path></svg><h3>Long Island</h3><p><a href="/smart-lock-installation-long-island" class="lnk">Long Island smart lock installation</a> &mdash; <a href="/smart-lock-installation-nassau-county" class="lnk">Nassau</a> and <a href="/smart-lock-installation-suffolk-county" class="lnk">Suffolk</a> counties.</p></div>
 </div>

@@ -4471,3 +4471,334 @@ DAILY-LOG note suggestion: `images: 11 cropped from images/smart-lock-installati
 
 ### De-dup notes
 Compared by meaning against all 739 question headings/FAQs on the 31 smart-lock pages on disk at start, every register in research/smart-lock-installation.md, and the Tottenville and Harlem drafts at finish. Dropped during build: "Do you take away the old locks?" (= New Dorp FAQ), fake-courier "should we unlock from the app" (= Flushing), stoop parcels (= Brooklyn), auto-lock delay length (≈ Nassau mudroom/yard), co-op contractor hours with nobody home (≈ LI/Manhattan), keypad beeps at night (= Rockland), landmark approval (= Bed-Stuy/BH/HV). Partial overlaps left for the main run to judge: Q3 scheduled nightly lock-up vs Rockland "app tell us at bedtime which doors are unlocked" (mine = lock acts by itself) and Westchester "front door left unlocked on purpose for a party" (mine = overriding a forgotten hold-open); Q4 date-range code vs Bayside "code that works only once" and Washington Heights "one-time code for relative at GWB bus station" (mine = multi-week, date-bounded); Q5 inactivity alert vs Queens "dementia — opens door at night" (mine = absence of activity); Q10 staff-code curfew vs Greenpoint "after Franklin Street restaurant burglaries, what does an electronic lock add on a back door" (mine = time-restricted credentials); FAQ 7 tenant seeing owner's log vs Brooklyn "As the owner, can I see when my tenant comes and goes" (reverse direction, account roles).
+
+
+<!-- merged from smart-lock-installation.williamsburg.part.md (batch 2026-10-17) -->
+## Williamsburg, Brooklyn (smart-lock-installation-williamsburg-brooklyn-ny)
+
+Built 2026-10-17 by the Williamsburg builder subagent (batch: Williamsburg BK, Forest Hills QN, Pelham Bay BX). Up-link /smart-lock-installation-brooklyn; phone (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn). Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "WebSearch"/"WebFetch" = built-in tools; "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only). Shell curl blocked.
+
+**Thesis / lane:** in Williamsburg most doors are doing a job they were not built for — factory/warehouse doors that became Loft Law (IMD) apartment doors (hasps, surface bolts, no bore, heavy/sagging, thickness outside lock ranges, fire labels, Loft Board egress rule incl. lithium-charger rule), post-1903 tenement doors shared by a rotating cast of tenants (credential register), shopfronts that become bar/venue entrances after dark (crew codes, three roles of a venue door), regulated retail (cannabis 9 NYCRR 125.3), and South Williamsburg doors that must work without electronics on Shabbat (mechanical push-button door kept available; LeFrak City precedent; MDL 51-c). Kept away from: Greenpoint (shared street door/closer), Brooklyn (brownstone vestibule/two-family), Bed-Stuy (custody/estates), Rockland (Shabbat split door plan as household Q&A — here Shabbat is handled as building/legal/hardware prose, not repeated Rockland intents).
+
+### Local research (new this run)
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| W1 | https://en.wikipedia.org/wiki/Williamsburg,_Brooklyn · WebFetch | same | ZIPs 11211 (most), 11206 (SE), 11249 (river); 90th Pct 211 Union Ave, 94th covers northernmost; Grand St separates North Side/South Side; L (Bedford Ave), J/M/Z along Broadway, G east; Graham Ave "Avenue of Puerto Rico", Via Vespucci; Havemeyer St; after bridge 1903 most densely populated neighbourhood in NYC; ~3,000 artists 1996; Gretsch → lofts; Austin, Nichols warehouse → apartments 2010s; May 11 2005 rezoning, 2-mile esplanade. | §5 paras 1–3, §5.5 bullets 1,3,6; §8 Graham Ave card; §7 cards; riverfront section |
+| W2 | `Williamsburg Brooklyn Hasidic Shabbat electronic lock keypad door apartment building` · WebSearch → `South Williamsburg Satmar Hasidic community large families housing Lee Avenue population` · WebSearch → WebFetch https://en.wikipedia.org/wiki/South_Williamsburg,_Brooklyn | same | Bounded Division Ave N, Broadway NE, Flushing Ave S, East River W; Hasidic community centred on Lee & Bedford Aves south of Division; largely Satmar, settled late 1940s; synagogues etc. built 1950s–60s revitalising abandoned housing; UJA-Federation 2023: 21,000 households in Williamsburg, 36,000 Jewish adults, 32,000 children; Los Sures between Grand St and bridge, Puerto Rican + Dominican + Mexican; Southside United HDFC (Los Sures) 1972, 1975 first Brooklyn CBO to manage city-owned properties; Moore Street Market 1941 at 110 Moore St; Williamsburgh Library first Carnegie library in Brooklyn, cornerstone 1903, 26,000 sq ft; Williamsburg Houses 1938 PWA, NYCHA. | §5 para 3, §5.5 bullet 5, §7 Hasidic card, §13 Moore St + Library cards, Shabbat section |
+| W3 | `Loft Law interim multiple dwelling Article 7-B fire safety requirements doors self-closing loft board` · WebSearch → WebFetch | https://www.nyc.gov/assets/loftboard/downloads/pdf/fire_egress_rule.pdf | 29 RCNY §2-04(b)(11)(ii)(C): "The door leading to indoor Stairs must be a self-closing door" (+ AC 28-315.10, 27-2041.1); (i)(E): no bars/grilles on fire-escape windows (exceptions); (iii)(C): "Lithium battery charging devices may not be stored in or near the front door of an IMD unit." | §9 Q3 (lithium), Q5 (stair door), Sources |
+| W4 | `Williamsburg Brooklyn package theft lobby door burglary 90th Precinct 2026` · WebSearch → WebFetch | https://www.cbsnews.com/amp/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say (updated Dec 13 2023) | Oct 18: Bedford Ave building — "went in through the main entrance and into the mail room"; Dec 6: Kent Ave building, "numerous" packages; e-bike. | §5 para 5, §10.5 H3 3, Sources |
+| W5 | `Williamsburg Brooklyn burglary apartment building front door 2025 police Bedford Avenue` · WebSearch → WebFetch | https://abc7ny.com/post/nyc-crme-burglary-spree-brooklyn-williamsburg/12673159/ (Jan 8 2023) | Six burglaries, three on Kent Ave, others nearby; suspects "cut through the metal locks on the front door" (12 Chairs); door struck with a sledgehammer (Misi); >$16,000. Businesses not named on page. | §5 para 5, §8 intro, §10.5 H3 5 |
+| W6 | same search → WebFetch | https://brooklyn.news12.com/nypd-3-separate-burglary-incidents-on-bedford-ave-3-suspects-wanted | Aug 6 & Aug 14 2023 break-ins at a Bedford Ave store (366 Bedford) while closed; Plantia Cannabis Shop, 265 Bedford Ave. Businesses not named on page. | §8 intro |
+| W7 | `reddit r/williamsburg building front door lock broken packages stolen landlord` · FC search | https://www.reddit.com/r/williamsburg/comments/18qxn3y/stolen_packages/ (excerpt only) | "Yeah we got our packages jacked a few weeks ago because our front door lock is broken" | §5 para 5 |
+| W8 | same FC search | https://www.nytimes.com/2024/11/02/realestate/stolen-packages-lobby-apartment-building.html (excerpt only) | "Landlords are not legally required to provide delivery lockers, or concierges, if these are not already provided services in your building." | §10.5 H3 3, Sources |
+| W9 | same FC search → WebFetch | https://www.brickunderground.com/live/realty-bites-dealing-with-package-delivery-theft-landlords-nyc (Apr 19 2022) | Property manager: "updated front door locks, installed security cameras" … "none of it has completely stopped theft." | Sources only (background) |
+| W10 | `Williamsburg Brooklyn Hasidic Shabbat electronic lock…` · WebSearch → WebFetch | https://www.jewishpress.com/news/breaking-news/orthodox-residents-suing-lefrak-city-over-electric-doors/2015/08/02/ (date from URL) | Orthodox residents of LeFrak City (Corona, Queens) sued in Brooklyn federal court (Fair Housing Act) after lobby doors went to electronic key; asked for one door per building with a regular lock + Shabbat elevators. Outcome not in article. | §9 Shabbat Q1, Shabbat section para 3 |
+| W11 | `smart lock "Shabbat mode" OR "Sabbath mode" keypad door lock mechanical key override` · WebSearch → WebFetch | https://jewishlink.news/are-smart-locks-shabbat-compatible/ (Dov Pavel, Oct 26 2017) | Keypad lock logs even when opened with its own code; key "is only a viable solution, of course, for those living in an area with an eruv"; option: inside-mounted August + mechanical push-button outside; bridge on a schedule; "I am not a halachic authority". | §10 equipment para, Shabbat section para 2, Sources |
+| W12 | `Williamsburg eruv Brooklyn carrying keys Shabbat` · WebSearch → WebFetch | https://pluralism.org/news/crowded-new-york-williamsburg-hasidic-community-struggles-build-eruv (Maariv, Oct 3 2003) | Describes Williamsburg as lacking an eruv in 2003 ("last anti-eruv bastion"). Too old/contested → research only; page makes no eruv claim about Williamsburg. | research only |
+| W13 | `New York OCM adult-use cannabis dispensary security requirements commercial grade locks doors regulation 9 NYCRR 125` · WebSearch → WebFetch | https://www.law.cornell.edu/regulations/new-york/9-NYCRR-125.3 | Secure all entrances; lock perimeter doors; codes/passwords not accessible to unauthorised; locks in full operating order, tested ≤30 days, records 5 years; visitor log 5 years (consumers excluded). | §8 rules bullet 1, FAQ 4, Sources |
+| W14 | `Amazon Key for Business apartment building lobby door access…` · WebSearch → WebFetch butterflymx.com | — | Fetched page returned the homepage, no content → not used. EMPTY. | — |
+| W15 | `Williamsburg Brooklyn Loft Law tenants building freight elevator door lock IMD loft 2024 OR 2025` · FC search | https://www.nyc.gov/site/buildings/industry/project-requirements-design-professional-alt-loft-law.page (excerpt) | DOB: existing freight elevator that is the only elevator serving IMD units must be converted to a code-compliant passenger elevator. Background only. | research only (FAQ 2 framed generally) |
+
+### Reused from earlier repo research (not re-fetched; sources as logged)
+| Finding | Source (as logged) | Page section |
+|---|---|---|
+| Loft Law = MDL Art. 7-C 1982, IMD class, Loft Board, IBZ exclusion with Greenpoint/Williamsburg exceptions | nyc.gov/site/loftboard/about (soundbar + cat6-repair Williamsburg sections) | §5 para 2, §5.5 bullet 2, §7, §9 Q2 |
+| Rezoning ~175 blocks; 41% population growth 2010–2020 | cbsnews.com Williamsburg-Greenpoint rezoning 20 years later (cat6-repair W3) | §5 para 1, §5.5 |
+| Council approval May 11 2005 | nyc.gov DCP greenpointwill.pdf (cat6-repair W2) | §5.5 |
+| Domino 1856–2004; landmark 2007; 325 Kent 2017, Park 2018, One South First & Ten Grand 2019, One Domino Square 2024; Refinery offices | en.wikipedia.org/wiki/Domino_Sugar_Refinery (cat6-repair W4) | §5 para 1, §7 tower card, §13 Domino card |
+| Wythe Hotel 1901 cooperage | wythehotel.com/about (soundbar, cat6) | §5 para 2, §8 Kent/Wythe card |
+| Williamsburgh Savings Bank 175 Broadway, 1875, ext. landmark May 17 1966, interior 1996, Weylin 2014 | Wikipedia / LPC LP-1910 (soundbar, cat6 W7) | §13 card, §8 rules bullet 4 |
+| Gretsch 60 Broadway, 1916, converted 2003–05, 130 apts, 12–13 ft ceilings | cityrealty.com (soundbar) | §5 para 2, §7 card, §13 card |
+| Williamsburg Houses 1938, 20 four-storey bldgs, 23.3 acres, landmark 2003, Maujer/Scholes/Leonard/Bushwick Ave | LPC 2135.pdf (soundbar); Wikipedia | §7 card, §13 card |
+| Music Hall of Williamsburg 66 N 6th St; Baby's All Right 146 Broadway | bowerypresents.com; Wikipedia (cat6 W8) | §8 cards |
+| Grand St & Metropolitan Ave = two major commercial strips | forgotten-ny.com 2021 (cat6 W11) | §8 card |
+| North Brooklyn IBZ study 1,066 acres, 19,500 jobs | nyc.gov North Brooklyn Industry Plan (cat6 W9) | §8 East Williamsburg card |
+| Dining Out NYC roadway cafés seasonal; attachments on building | diningoutnyc.info (cat6 W14/W15) | §8 rules bullet 3 |
+| One South First 435 ft, 330 rentals; Domino ~2,800 rentals across four buildings | 6sqft May 21 2019 (soundbar) | riverfront section |
+| RentHop: North Side–South Side 3,746 noise complaints Mar 1–Jun 14 2021, most in Brooklyn | renthop.com (soundbar) | §5 para 4 |
+| CD1 population 218,831 (ACS 2024 1-yr) | censusreporter.org (soundbar) | §5 para 4 |
+| Homeownership 16.6% (2024) Greenpoint/Williamsburg | furmancenter.org (silo Greenpoint G3) | §5 para 4 |
+| Graham Avenue BID, Grand Street BID in SBS directory | nyc.gov SBS BID directory (silo Brooklyn B11) | §8 cards |
+| MDL 51-c (≤3 in., duplicate key, excludes housing authority/hotels/dorms); HMC 27-2043; HPD double-cylinder illegal; TDPA LL63/2021; LPC hardware vs door | silo N1, N3, N4, N6, B4 | §9 Shabbat Q2, §9 Q5, walk-up section, §8 rules, FAQ |
+| Lock door-thickness ranges: Schlage Encode 1-3/8–1-3/4 in.; Kwikset Z-Wave 700 1-3/8–2 in.; Yale Assure 2 1-3/8–2-1/4 in.; August retrofit single-cylinder only; August Connect 10–15 ft; Fixr $250–$400 avg $300 (Jan 2025); Bob Vila screwdriver/~30 min | silo S1–S4, LI/HV sections | §9 Q4, §10.5 H3s 1,2,4,6, cost section |
+
+### Prices (Brooklyn ×1.00, copied from smart-lock-installation-brooklyn.html — none invented)
+$1,500–$2,500 keypad/fob reader + electric strike installed; $250–$450 new electric strike; $295–$485 failed strike repair; $195 first hour then 30-min blocks (setup visit — same flag for Anwar as the Brooklyn page); $195/hr 3-hour minimum ($585) callback; private-door lock "quoted flat at free walkthrough"; Fixr national $250–$400 / ~$300 labelled third-party.
+
+### EMPTY (not accessible in build env)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 says so and uses published cost-guide/manufacturer claims.
+- Yelp 1–3★ Williamsburg locksmith/smart lock: EMPTY (not accessible in build env).
+- Reddit thread bodies (r/williamsburg): excerpt only; full thread EMPTY.
+- NYT Nov 2 2024 article body: excerpt only (EMPTY beyond search snippet).
+- Amazon Key for Business (W14): EMPTY.
+- Local news on smart locks specifically in Williamsburg (Brooklyn Paper, Greenpointers, BK Reader, Hamodia/Yiddish press): none found → EMPTY.
+- Field Notes: no sourced Williamsburg install anecdote → written as a working routine and labelled so.
+
+### Images (11) — permanent image rule
+Drive folder "AESS Website Photos/Smart Lock Installation" EMPTY (main run); CompanyCam not connected. Every candidate viewed; each crop re-cut from the source to remove faces, a house number ("128"), a unit sign ("4A"), a customer and the toll-free number printed on a shirt. All sources have been used (as other crops/copies) on earlier smart-lock pages — the library has few distinct door photos; these library photos look AI-rendered (same note as earlier pages) → needs Anwar's review / real photos. WebP q80.
+
+| New file (images/smart-lock-installation/) | Source | Crop |
+|---|---|---|
+| smart-lock-installation-williamsburg-keypad-deadbolt-dark-glass-door-latch.webp (hero, eager) | images/smart-lock-installation/aess-smart-lock-installation-office-glass-door-smart-lock.webp | right side, tech face removed |
+| -gloved-hands-keypad-lever-latch-screw.webp | aess-smart-lock-installation-office-lever-smart-lock-install.webp | right side, face removed |
+| -keypad-deadbolt-wood-panel-door-stone-jamb.webp | aess-smart-lock-installation-keypad-smart-deadbolt-brownstone-door.webp | right 70% |
+| -interior-unit-ribbon-cable-connection.webp | aess-smart-lock-installation-connecting-interior-unit-cable.webp | hands/lock only |
+| -video-doorbell-beside-keypad-deadbolt.webp | aess-smart-lock-installation-video-doorbell-and-smart-lock.webp | house number "128" and face removed |
+| -phone-app-unlocked-beside-keypad.webp | aess-smart-lock-installation-showing-customer-app-unlock.webp | customer and tech faces removed |
+| -maglock-terminal-block-12vdc-label.webp | images/low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | face removed |
+| -card-reader-screwdriver-glass-door-pull.webp | images/low-voltage/low-voltage-installation-dutchess-county-12-access-control-reader-wiring.jpg | head removed |
+| -maglock-wiring-at-door-header.webp | images/low-voltage/low-voltage-installation-long-island-maglock-install.jpg | header only (phone number on shirt, plates removed) |
+| -corridor-unit-door-keypad-and-app.webp | aess-smart-lock-installation-apartment-door-smart-lock-app.webp | "4A" sign and face removed |
+| -tape-measure-old-bore-backset.webp | aess-smart-lock-installation-measuring-door-bore-for-deadbolt.webp | hands/bore only |
+
+## Question register — smart-lock-installation-williamsburg-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 10) — under non-question H2s "Lofts and Loft Law buildings" · "South Williamsburg households and Shabbat" · "Shops, venues and short leases" · "Tenement walk-ups"
+1. Our loft door still carries the surface bolt and padlock hasp from its factory days — do those come off when a smart lock goes on?
+2. Our building is partway through Loft Board legalisation — should a smart lock wait until the fire-safety work reaches our unit?
+3. The Loft Board's fire rule keeps lithium battery chargers away from an IMD unit's front door — does that limit where a smart lock or its charger can go?
+4. Our loft entry is an oversized, very heavy door — will a smart deadbolt cope with it?
+5. Our loft's back door opens onto the old freight stair — can it be locked from the stair side and still let us out in one motion?
+6. Our landlord wants to make the building door fob-only, and several families here keep Shabbat — has that been fought over before?
+7. Can a mechanical push-button lock we use on Shabbat count as the extra lock a tenant is allowed to add?
+8. We run a music venue — can a touring crew get in for load-in without a staff member standing at the stage door?
+9. Our pop-up on Bedford is only leased for three months — is keyless entry worth it, and what happens when we leave?
+10. Our smart lock keeps telling us the door is open when it is shut, and our walk-up shakes whenever trucks pass on Broadway — are the two connected?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Our loft door was custom-made by a metal fabricator and has no lock preparation at all — can a smart lock still go on it?
+2. Our building's only lift is a freight elevator that needs an operator — can you work around that?
+3. Can the auto-lock delay be stretched long enough to wheel a bike, a cello case or a double stroller through the door?
+4. Does a licensed cannabis shop need anything particular from its door locks?
+5. Our recording studio uses heavy sound-isolation doors with compression seals — can a smart lock go on one?
+6. Our shop's door is set back in a deep recessed entry off the sidewalk — does that change where the keypad goes?
+7. Our loft gets almost no mobile signal indoors — will the phone app still open the door?
+8. The street door of our walk-up slams and its strike buzzes loudly at night — can a new setup be quieter for the ground-floor flat?
+
+### Other question-form headings
+- H2 "Williamsburg Loft Door Won't Lock, or the Keypad Has Gone Dark?" (repair capture)
+
+### De-dup notes
+Checked by meaning against every register in research/smart-lock-installation.md (668 lines grepped by keyword) and the Forest Hills / Pelham Bay pages on disk. Dropped during build: mezuzah/keypad placement (= Rockland Q3), vibration loosening hardware under elevated train (= Jackson Heights Q10; Q10 here reframed to false door-open alerts — partial overlap for main run to judge), Shabbat feature switch-off / Friday booking / big-household codes (= Rockland), roommate code cancel (= Kingsbridge), student code turnover (= Dutchess), thick door (= HV Q10), keypad on brick (= Brooklyn Heights / Ulster), mailroom keypad (= Jackson Heights), roof door keypad (= Bronx), storage cages (= UES), entry-log privacy (= Westchester/Brooklyn), building sale codes (= LI/Orange). Partial overlaps left for the main run: Q6 (residential lobby + Shabbat, legal precedent) vs Rockland Q11 (shul front door on Shabbat); Q7 (push-button lock under MDL 51-c) vs Rockland FAQ "Do you fit purely mechanical push-button locks"; FAQ 3 (auto-lock delay for bikes/strollers) vs HV "mudroom relocks while ajar" / Westchester "auto-lock shut me out"; FAQ 7 (no mobile signal, Bluetooth at door) vs HV "property with no internet at all".
+
+### Flags for Anwar
+- Setup-visit rate $195 first hour then 30-min blocks — same flag as Brooklyn page (rate published for TV/device setup).
+- Installer practice stated without a source: thread-locker on vibrating doors; hinge upgrade/fourth hinge on sagging loft doors; DC strike quieter than old AC strike; recessed-entry keypad placement; studio isolation-door advice; credential-register / two-administrator handover; filling old bolt holes (plug/weld on steel). All framed as our practice.
+- LeFrak City suit dated 2015 from The Jewish Press URL; outcome unknown (page says so).
+- Shabbat content: page explicitly defers religious questions to the family's rabbi and legal ones to a lawyer; Jewish Link quote used verbatim; no eruv claim about Williamsburg.
+- Library photos appear AI-rendered; replace with real smart-lock photos when available.
+
+
+<!-- merged from smart-lock-installation.forest-hills.part.md (batch 2026-10-17) -->
+## Forest Hills, Queens (smart-lock-installation-forest-hills-queens-ny)
+
+Built 2026-10-17 by the Forest Hills subagent (batch with smart-lock-installation-williamsburg-brooklyn-ny and smart-lock-installation-pelham-bay-bronx-ny). Neighbourhood spoke · up-link `/smart-lock-installation-queens` (also links `/smart-lock-installation-nyc`, all 16 area/hub pages, every live smart-lock neighbourhood page plus the two batch siblings) · Bronx GBP (`#bronx`, 460 E Fordham Rd, Bronx NY 10458) · direct line (347) 434-6392 in body/CTAs/schema; (800) 486-0943 only in the shared header chrome · Queens ×1.05, no neighbourhood surcharge. To be merged into research/smart-lock-installation.md by the main run.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "WS" = WebSearch; "WF" = WebFetch. "(reused)" = finding reached by the sonos/soundbar Forest Hills builders and logged in research/sonos-installation.md or research/soundbar-installation.md `## Forest Hills, Queens`; not re-fetched this run.
+
+**Thesis — "approved outside, last line inside":** in Forest Hills the outside face of a door answers to someone other than the owner (the Gardens' Declaration No. 3 and FHGC Architecture Committee guidelines on doors/hardware/conduit; co-op boards on the Queens Blvd corridor side), while the space in front of it is shared with strangers who have already passed the first barrier (Oct 2025 daylight lobby walk-in near 112th St & 73rd Ave; 112th Pct burglaries +44.3%; FHGC private streets carrying 13,000-person concert crowds on 30+ show days). So each lock is chosen to look approvable from outside (inside-only retrofits, compact keyed keypads, application packs) and to act as the last barrier inside (auto-lock, door-position alerts, show-night schedules, concrete-set strikes). Distinct from: Bayside (door itself / back of house / inherited locks), Jackson Heights (permission-first board packet), Kingsbridge (lobby door repair as a two-door job), Bed-Stuy/Chelsea (LPC), Todt Hill (gate inward), Queens page (multigenerational / basements). Sonos Forest Hills ("indoors by design") and soundbar Forest Hills ("three plans") are other silos — no wording reused.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | FC search excerpts only (F12, F13). Reddit threads not scraped. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are claims from cost guides/retail/product pages, stated as such on the page. |
+| 6 | Landmarks | F1, F14–F19 (reused) |
+| 7 | Building stock / use cases | F1–F3, F15–F22 (reused) |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | QNS (F5, F7, F9), NY Post via AOL (F6), Patch (F10), ABC7 (F11), CBS (F8, research only) |
+| 10 | Hyperlocal | Queens Ledger (reused F18). Forest Hills Post / Queens Chronicle: search titles only, not opened → EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| F1 | `Forest Hills Gardens Corporation architectural guidelines exterior alterations approval front door` · FC search → FC scrape (pdf, directQuote) | https://www.fhgc.org/wp-content/uploads/2017/11/FHGC-Architectural-Guidelines.pdf | Declaration No. 3: no building/fence/wall erected "nor any change or alteration made therein" unless plans showing "nature, kind, shape, height, material, color-scheme and location" approved in writing by the Homes Company / FHGC as successor. Architecture Committee oversees review of all exterior construction/alteration. VI DOORS: entry doors panel type (incl. divided lights), wood unless approved; replacements replicate original; "many original entry doors in the Gardens are all glass with divided lights"; row/attached consistency "a significant architectural feature and must be preserved"; flush doors not permitted. SECURITY DOORS: not heavily ornamented, simple designs. HARDWARE: "of a type appropriate to the style of the building", finishes match/compatible. EXTERIOR LIGHTS: plans for all exterior lighting incl. security must be submitted; exterior conduits not permitted unless approved, painted/hidden. Search excerpt: applications "submitted four days before the scheduled FHGC Architecture Committee". | §5 para 2, §7 cards (row groups) + glass-door para + camera/lighting note, §9 Q1–Q3, Hardware Notes, Glass-door table, Gardens Application Pack, §10.5 H3 5, Block by Block (Gardens), FAQ 1 & 4 |
+| F2 | same search (excerpt) | https://www.fhgc.org/community/architectural-regulations/ | "all exterior work, whether new or a restoration, does require submission of an application." | §9 Q1 |
+| F3 | `site:fhgc.org security patrol OR safety OR parking contractors` · FC search → FC scrape (directQuote) | https://www.fhgc.org/community/parking/ | Gardens is a private community; contractors/service orgs may park "while performing services" with decal or properly worded note; unidentified vehicles booted/towed; Station Square "No Parking/No Tolerance Zone". Excerpts: FHGC home page — FHGC responsible for maintenance of streets/sidewalks/parks; Sept 2025 newsletter — "Knights agents" contractor enforce resident parking rules. | §8 Station Square card, Block by Block (Gardens) |
+| F4 | `Forest Hills Queens burglary 112th Precinct 2025 apartment door` · WS → WF | https://qns.com/2025/10/suspect-wanted-burglary-forest-hills/ | QNS, Bill Parry, Oct 10 2025: Tue Oct 7 ~4:15 p.m., apartment building near 112th St & 73rd Ave; suspect entered through building's front door, filmed "sitting on a couch in the lobby", walked toward an apartment, took $600 phone, fled through courtyard west on 73rd Ave toward Queens Blvd. 112th Pct: 114 burglaries through Oct 5 2025, +44.3% vs 2024. (Method of entry into the unit not stated → page does not claim one.) | §5 para 4, §5.5 bullet 5, Hardware Notes ("lobby is not a lock"), Block by Block (apartment belt) |
+| F5 | `Forest Hills Gardens Corporation private streets security patrol rules homeowners` · WS → WF | https://www.aol.com/articles/fed-forest-hills-residents-sue-100000994.html | NY Post (Katherine Donlevy) via AOL, Oct 14 2025: FHGC, "homeowner group with nearly 4,000 members", sued city in federal court; NYPD took control of FHGC private streets on >30 concert days; homeowners blocked from driveways; resident cites 13,000 attendees; 10 pm curfew; dozens of residents spend concert nights elsewhere. | §5 para 4, §9 Q5, Concert plan intro + last para |
+| F6 | same search → WF | https://qns.com/2026/04/forest-hills-stadium-lawsuit-settled/ | QNS, Shane O'Brien, Apr 9 2026: FHGC v. city settled for $150,000 without admission of liability; NYPD keeps final say but considers "reasonable requests"; NYPD and 112th Pct to work with residents on planned security; 20 events planned for 2026, June 6 – Sept 29. | §5.5 bullet 6, §9 Q5, Concert plan intro |
+| F7 | (see F4 search) · WF | https://www.cbsnews.com/newyork/news/rash-of-break-ins-rocks-forest-hills-queens | CBS NY Apr 1 2013: nine homes between Metropolitan Ave & Fleet St and 69th & Continental Aves; most entered via back door or window; mostly daylight. | Research only (old; not used on page) |
+| F8 | `Austin Street Forest Hills store burglary break-in 2025 OR 2026 qns OR foresthillspost` · FC search → FC scrape (directQuote) | https://patch.com/new-york/foresthills/forest-hills-fish-shop-loses-2-5k-burglary-police-say | Patch, Apr 16 2021: Forest Hills Fishery, 7164 Austin St, 50+ years in neighbourhood; burglar broke in through back window, cutting a metal bar; $2,500 cash. | §8 intro, §8.5 "back doors and windows first" |
+| F9 | same search → FC scrape (directQuote) | https://abc7ny.com/post/string-of-forest-hills-stores-restaurants-hit-by-burglars/557966/ | ABC7, Mar 14 2015: Jan–Mar business burglaries; "suspects broke in through the skylight of Rainbow on Austin Street"; others on Queens Blvd and 63rd Drive (Key Food). | §8 intro |
+| F10 | same search (excerpt) | https://qns.com/2026/01/suspect-gunpoint-robberies-forest-hills/ | Jan 2026 gunpoint robbery of a man on Austin St (street robbery, not a door issue). | Not used |
+| F11 | `reddit r/ForestHills package theft lobby door building lock co-op` · FC search (excerpt) | https://www.reddit.com/r/ForestHills/comments/1hph9f1/my_buildings_packages_were_stolen_a_few_days/ | "Two people came into the basement at 3:30 AM last week … stole everybody's packages"; title: stolen a few days before Christmas. | §10.5 H3 6 |
+| F12 | (reused, sonos FC search) | https://www.reddit.com/r/ForestHills/comments/1t4d430/hello_neighbors/ | Excerpt: most apartment buildings in Forest Hills, especially above Yellowstone & Queens Blvd, are co-ops. | §5 para 3 |
+| F13 | (reused, sonos FC scrape of Wikipedia) | https://en.wikipedia.org/wiki/Forest_Hills,_Queens | Cord Meyer 1906 purchase, renamed after Forest Park; Sage bought 142 acres 1908; Olmsted Jr. + Atterbury; Tudor Revival, stucco, red Ludowici clay tile roofs; houses mostly 1910–1917; ~170 precast panels set by crane; late-1920s zoning change for apartment buildings ahead of subway; stations opened 1936; Austin St ~1 mile Yellowstone Blvd–Ascan Ave, Ascan named 1909 by Frederick Backus for his father; Metropolitan Ave antique shops; 108th St runs to East Elmhurst; Cord Meyer teardowns replaced by larger houses; ZIP 11375, 112th Pct; LIRR station 1906. | §5 para 1, §5.5 bullet 2, §7 cards, §8 cards, §13 cards, Block by Block, North of the Boulevard |
+| F14 | (reused) | https://www.nps.gov/places/sage-foundation-forest-hills.htm | 1909, Olmsted Jr. + Atterbury, Russell Sage Foundation, 142 acres. | §13 Gardens card |
+| F15 | (reused) | https://foresthillsgardensfoundation.org/article/the-apartment-buildings-of-forest-hills-gardens/ | Gardens multi-unit buildings all co-ops except 150 Greenway Terrace; Forest Hills Inn opened May 1 1912; Inn Apartments 20 Continental Ave 1931; 11 buildings ≈650 of ≈1,600 Gardens homes. | §5.5 bullet 1, §7 Station Square card, Block by Block |
+| F16 | (reused) | https://www.acsa-arch.org/proceedings/International%20Proceedings/ACSA.Intl.1996/ACSA.Intl.1996.54.pdf | Atterbury wall panels hollow, concrete each face separated by air space, ribbed. (Air-space width not stated on page.) | §7.5 concrete para, §9 Q4 context, Field Notes |
+| F17 | (reused) | https://en.wikipedia.org/wiki/West_Side_Tennis_Club | Stadium built 1923; national championships to 1977; concerts; 10 p.m. curfew. | §13 stadium card |
+| F18 | (reused) | https://queensledger.com/2022/07/27/perlman-reviving-the-chimes-in-station-square/ | Chimes revived 2022; Station Square restoration 2018. | §13 Station Square card |
+| F19 | (reused) | https://queenseagle.com/all/mario-cuomo-forest-hills-compromise | 840 units in three 24-storey planned (1972) → halved to 432 units. | §7 card, §13 card |
+| F20 | (reused) | https://therealdeal.com/2018/09/11/blackstone-buys-jack-parkers-parker-towers-for-500m | Parker Towers 1,327 units, three 20-storey towers, 104-20 Queens Blvd; Blackstone purchase 2018. | §7 card, §13 card |
+| F21 | (reused) | https://www.cityrealty.com/nyc/forest-hills/68-10-108th-street/87401 | Co-op built 1931, 6 floors, 50 apartments. | §7 pre-war card |
+| F22 | (reused) | https://www.brownstoner.com/queens/forest-hills/listing-of-the-day-60-greenway-north | 1928 Tudor, "leaded glass windows throughout". | §7 Gardens Tudor card |
+| F23 | (reused) | https://www.furmancenter.org/neighborhoods/rego-park-forest-hills/ | Homeownership 49.8% (2024) vs 32.7% citywide. | §5.5 bullet 3 |
+| F24 | (reused) | https://andesite-api.datausa.io/profile/geo/79500US3604406 | QN CD6 (ACS 2022): median age 43.6; 61.2% households primarily non-English. | §5.5 bullet 4 |
+| S | carried from silo file (not re-fetched) | Fixr (S1), SmartThings mortise thread (S7), August retrofit (S3), August Connect 10–15 ft (S4), Yale Matter/Thread (S5), HPD fire-safety double-cylinder (N6), LL111/2018 self-closing (N5), MDL 51-c (N1), Cooperator duplicate key (N2), Tenant Data Privacy Act (N4), Schlage Encode Plus temperature ranges (Bayside B20) | as logged in research/smart-lock-installation.md | §7.5, §9 Q7, §10 equipment, Hardware Notes, Glass-door section, §10.5, §14, Co-op checklist |
+
+### Prices used (all copied from live smart-lock-installation-queens.html; none invented)
+| Figure | Scope |
+|---|---|
+| $1,575–$2,625 | single-door keypad/fob reader + electric strike (Queens; $1,500–$2,500 × 1.05) |
+| $263–$473 | new electric strike on entrance door |
+| $310–$509 | failed electric strike repair |
+| $195 first hour, then 30-min blocks | setup-only visit, Queens |
+| $195/hr, 3-hr minimum ($585) | service/callback |
+| quoted flat at walkthrough | house / co-op / condo smart lock |
+| $250–$400 (avg $300) | NATIONAL third-party (Fixr Jan 2025), labelled as such |
+| Worked sums | 2 × keypad+strike = $3,150–$5,250; keypad+strike + strike repair = $1,885–$3,134; one setup hour = $195 |
+
+## Images (11)
+Drive folder `AESS Website Photos/Smart Lock Installation` empty (main run); CompanyCam not connected → permanent image rule. The only photos in the repo that actually show smart locks are the 18 `images/smart-lock-installation/aess-smart-lock-installation-*` files (all viewed); low-voltage/commercial-security clusters show commercial access control only (contact sheets viewed; not chosen). All aess-* sources have been used by earlier siblings, so every file here is a NEW crop (different framing from Bayside's crops) made with Pillow, face-free, verified by viewing. Rejected: `showing-customer-app-unlock` (customer's face), `suburban-front-door-smart-lock-van` (van logo/face; not needed). `apartment-door-smart-lock-app` cropped to y≥330 so the "4A" unit sign is excluded; `video-doorbell-and-smart-lock` cropped to x≥990 so house number "128" is excluded. Captions describe only what is visible; none claims a Forest Hills job, customer or building.
+**Flag (carried):** the aess-* set looks AI-rendered (uniform logo artwork, stylised lighting) though supplied as AESS photos — Anwar to confirm; replace with real Forest Hills photos when available.
+
+| New file (images/smart-lock-installation/) | Source (aess-smart-lock-installation-…) | Crop box (x0,y0,x1,y1) |
+|---|---|---|
+| smart-lock-installation-forest-hills-keypad-deadbolt-stained-panel-door.webp (hero, eager) | keypad-smart-deadbolt-brownstone-door | 560,0,1400,1050 |
+| smart-lock-installation-forest-hills-keypad-lock-dark-apartment-unit-door.webp | apartment-door-smart-lock-app | 900,330,1400,933 |
+| smart-lock-installation-forest-hills-inside-thumb-turn-by-hand.webp | keypad-exterior-thumbturn-interior-view | 720,0,1400,760 (overlay text excluded) |
+| smart-lock-installation-forest-hills-video-doorbell-beside-keypad-deadbolt.webp | video-doorbell-and-smart-lock | 990,250,1400,933 |
+| smart-lock-installation-forest-hills-keypad-lock-aluminum-glass-door.webp | office-glass-door-smart-lock | 800,0,1400,933 |
+| smart-lock-installation-forest-hills-keypad-lever-lock-glass-office-door.webp | office-lever-smart-lock-install | 820,0,1400,933 |
+| smart-lock-installation-forest-hills-keypad-deadbolt-beside-iron-grille-glass.webp | drilling-keypad-lock-brownstone-stoop | 980,0,1400,933 |
+| smart-lock-installation-forest-hills-removing-brass-deadbolt-cylinder.webp | removing-old-brass-deadbolt | 780,200,1400,1050 |
+| smart-lock-installation-forest-hills-checking-latch-plate-door-edge.webp | checking-latch-bolt-alignment | 780,0,1400,1050 |
+| smart-lock-installation-forest-hills-loading-aa-batteries-inside-unit.webp | replacing-smart-lock-batteries | 820,0,1400,933 |
+| smart-lock-installation-forest-hills-adding-access-code-on-phone.webp | programming-access-code-app | 760,250,1400,1050 |
+
+## Question register — smart-lock-installation-forest-hills-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 7; under H2s: The Gardens · Concrete, masonry and the frame · Concert season · Co-op apartments on the Boulevard)
+1. Does a keypad deadbolt count as exterior work that the Gardens Corporation's Architecture Committee has to approve?
+2. Our house is one of an attached group whose front doors are meant to match — can ours go keyless if the neighbours' doors stay as they are?
+3. Is a steel security door in front of our Gardens entrance worth it, or does the money do more in the lock and the frame?
+4. Our door frame sits in a concrete wall with no wooden stud behind it — how does the strike get anchored?
+5. On Forest Hills Stadium concert nights thousands of people walk past our house — what should the locks be set to do on those evenings?
+6. When we sell our co-op apartment, does the smart lock go with us, stay for the buyer or belong to the corporation?
+7. Can the board or the managing agent see our lock's activity log if the lock is our own?
+
+### §17 FAQ (visible == FAQPage, 4)
+1. Why is there no fixed price for a smart lock on a Gardens house door when business entrances have one?
+2. Do your Queens crews also cover Kew Gardens, Rego Park and the Cord Meyer blocks north of Queens Boulevard?
+3. Will the bolt motor be loud enough for the family on the other side of our attached-house wall to hear at night?
+4. If the Architecture Committee asks us to change the hardware after it is installed, what does the swap involve?
+
+### Other question-form headings
+- None. Repair captures and CTAs are statements ("Forest Hills Smart Lock Stuck, Dark or Offline", "Shut Out Between the Gardens and the Boulevard Tonight", "Send the Door Before You Buy the Lock", "Approved From the Street, Locked Behind You").
+
+### De-dup notes
+- Checked by meaning against all 738 question headings/FAQs on the 31 smart-lock pages on disk plus the in-progress Williamsburg and Pelham Bay drafts. Moved to statement sections because the intent is already asked elsewhere: lobby already passed (Manhattan "talks their way past the lobby", Kingsbridge lobby propped/pried) → Hardware Notes "The lobby is not a lock"; glass panes / reach-through (Nassau sidelights, Brooklyn glass panels, West Brighton narrow rail) → Glass-door section table; finish matching (Queens, SI) → Hardware Notes; bulky inside housing (Westchester) → Hardware Notes; co-op board approval / duplicate key / mortise corridor (NYC hub) → Co-op checklist; contractor van on private roads (Todt Hill, Bayside, Flushing parking) → Block by Block body; oversized/multipoint doors (Westchester multipoint Q, Todt Hill pivot, Williamsburg heavy door) → North-of-the-Boulevard bullets; packages (Brooklyn, Greenpoint, Bed-Stuy) → §10.5 body.
+- Partial overlaps for the main run to judge: §9 Q1 (Gardens covenant review) vs HV "historic-district approval … Kingston's Stockade" and Bed-Stuy LPC mounting Q (different authority: private covenant, not LPC); §9 Q7 (board seeing log) vs Brooklyn "owner see tenant comes and goes" / Morris Park "lock maker … police" (different party); FAQ 3 (motor noise through party wall) vs Throgs Neck "drilling disturb the family on the other side of the party wall" (ongoing operation vs installation day); FAQ 4 vs Bed-Stuy "keypad removed later without new holes" (approval-driven swap vs removal).
+
+### Similarity (simcheck.py, masked, block ≥25 words, vs every smart-lock-installation-*.html incl. Williamsburg/Pelham Bay drafts)
+Page-level max 0.115 (vs upper-east-side). Content blocks: none ≥ 0.65 after one rewrite round (first draft had 13 blocks 0.66–1.0 vs Bayside/Jackson Heights: NAP line, warranty paragraph, process steps 5–6, packages copy, worked example, captions, all-areas intro, legal note — all rewritten). Remaining >0.65: neighbourhood link list 0.934 vs Pelham Bay (exempt) and the shared mobile-nav chrome 0.672 vs Bayside (template chrome, not page content).
+
+### Flags for Anwar
+- Images: aess-* library appears AI-rendered; all 11 are new crops of already-used sources (no unused real smart-lock photos exist).
+- Installer practice stated without a source (house policy): no inside-keyed/coded locks on any home; jamb anchored before strike; no blind drilling into hollow precast panels; signal test before pairing; paper template through full swing; dark exit test; two-adult admin; show-night settings table (auto-lock ~1 minute, pause service codes); application pack contents; "we do not file on anyone's behalf"; motor noise "quieter than a door closing" (FAQ 3); arrival windows 8 AM–8 PM daily (copied from Queens page).
+- General statements without a specific source: many modern entry sets combine handle and deadbolt in one plate; multipoint motor kits depend on the maker's gearbox; laminated glass slows break-and-reach; unheated vestibules reduce battery capacity (Schlage range cited only as an example); national brands' packages (ADT/Ring/SimpliSafe) described generically.
+- §9 Q6 (who owns the lock on a co-op sale) and Q7 (board access to logs) are framed as "decided by your contract/lease/house rules; take advice" — please confirm the wording is acceptable.
+- Page links /smart-lock-installation-williamsburg-brooklyn-ny and /smart-lock-installation-pelham-bay-bronx-ny (batch siblings; resolve once those files exist).
+- check_page.py: all content checks PASS; remaining FAILs are main-run wiring only (sitemap, _redirects ×2, Queens hub link-down, 16 area/hub pages link back).
+
+
+<!-- merged from smart-lock-installation.pelham-bay.part.md (batch 2026-10-17) -->
+## Pelham Bay, Bronx (smart-lock-installation-pelham-bay-bronx-ny)
+
+Page: `/smart-lock-installation-pelham-bay-bronx-ny` · neighbourhood spoke of `/smart-lock-installation-bronx` (+ `/smart-lock-installation-nyc`) · phone (646) 490-0629 (body, CTAs, schema; (800) 486-0943 only in shared header chrome) · GBP Bronx (460 E Fordham Rd, schema `#bronx`) · Bronx ×1.00; every price copied from smart-lock-installation-bronx.html. Built 2026-10-17 by batch subagent (batch: Williamsburg, Forest Hills, Pelham Bay).
+
+**Thesis:** *The house between trains.* Pelham Bay is a detached-house neighbourhood (DCP: ~72% detached, ~17% semi-detached) built around the 6-line terminal, whose households commute out (CD10 commute 45.5 min) and leave the house empty all day — so the lock's job is to run the empty house: one scheduled code per daytime visitor (cleaner, contractor, dog walker, children, aides), auto-lock behind them, alerts trimmed to the events that matter, remote reachability from the train, and a "retire the code" habit. Distinct from Morris Park (driveway side door / shift workers & carers), Throgs Neck (three kinds of land under the door / waterside) and Kingsbridge (apartment buildings).
+
+Tools: "WebSearch" = Claude WebSearch; "WebFetch" = Claude WebFetch (page converted + summarised). All fetched 2026-10-17. Silo-wide facts reused without re-fetching: MDL 51-c (B6), HMC 27-2043/27-2041 (B7), HPD fire-safety free-exit guidance (B8), TDPA LL63/2021 (B11), Admin Code 26-521 lockout (N9), MDL multiple dwelling = 3+ families (Morris Park M-section), August Connect 10–15 ft (S4), Matter/Thread border router + feature support varies by app (S5/S6, LI §9), ADA 404.2.7 34–48 in (LI), Schlage door prep 2-1/8 bore, 2-3/8 / 2-3/4 backset (LI), LawnStarter national $330/$200–$460/labor $50–$110 (LI section), Ring Alarm arm/disarm by lock code (LI).
+
+### Local research matrix
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| PB1 | `Pelham Bay Bronx neighborhood housing attached row houses two-family homes Buhre Avenue` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx | CD10; bounded by Pelham Pkwy (N), New England Thruway/I-95 (E), Bruckner Expwy (S), Hutchinson River Pkwy (W); Country Club east of I-95; commercial streets Westchester, Buhre, Middletown, Crosby (Crosby/Middletown main intersection); longstanding Italian American + sizable Greek population; USPS Pilgrim Station 1545 Crosby Ave; 45th Pct 2877 Barkley Ave (Throggs Neck), 2022: 108 burglaries, all crime −67% 1990–2022; NYPL Pelham Bay 3060 Middletown Rd, one-story brick, 1976; PS 71, PS 14; Greek American Institute; St. Theresa schools; transit 6 at Middletown Rd, Buhre Ave, Pelham Bay Park; BxM8 to Midtown; *Taking of Pelham One Two Three* hijacked train leaves Pelham Bay Park station. | §5 paras 1, 5; §5.5 bullet 5; §8 Crosby + Middletown cards; §9 snow-day Q (PS 71/PS 14); §13 station + library cards |
+| PB2 | `NYC City Planning rezoning Pelham Bay Bronx one- and two-family attached semi-detached houses R4A` · WebSearch → WebFetch | https://www.nyc.gov/assets/planning/download/pdf/plans/pelham-bay/pelham_bay.pdf | Adopted by City Council March 22, 2006 (CPC Feb 8, 2006; CB10 Nov 17, 2005; C 060179 ZMX); area Pelham Pkwy South → Middletown Rd, Bruckner Expwy → Hutchinson River Pkwy; detached ~72% of housing stock, semi-detached ~17% of residential structures, attached ~6.6%, multifamily ~4.5% of lots, apartment buildings line wider avenues; IRT arrival spurred development around a rail terminal; R5 → R5A (detached one- and two-family only, 30-ft min lot width, 35-ft height); C1-2→C1-4 on Crosby/Westchester, C2-2→C2-4 on Westchester/Buhre, overlay depth 150→100 ft, commercial parking 1/300 → 1/1,000 sq ft; purpose "to better preserve the existing character of large detached homes". (Block counts inconsistent in source — not used.) | §5 paras 1–2; §5.5 bullets 1–2; §7 intro + Large Detached + Two-Family cards; §8 intro; Two-Families section intro |
+| PB3 | `Pelham Bay Park station 6 train terminal history Westchester Avenue elevated` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Pelham_Bay_Park_station | Opened Dec 20, 1920 as terminal; northern terminus of Pelham Line (6/<6>); elevated; elevators Dec 1989, renovated June 2015–April 2016; at Bruckner Blvd & Westchester Ave by Bruckner Expwy; pedestrian bridge over expressway to park; buses Bx5, Bx12, Bx12 SBS, Bx24, Bx29, Bx23, Q50, BxM8, Bee-Line 45; 2024 ridership 1,136,845. | Hero; §5 para 1; §5.5 bullet 4; §13 station card |
+| PB4 | same search · WebFetch | https://en.wikipedia.org/wiki/Buhre_Avenue_station | Opened Dec 20, 1920; elevated, at Buhre & Westchester; closed July 5, 2014–April 27, 2015 (part of $109M five-station rehab); 2024 ridership 766,190. | §5 para 1; §5.5 bullet 4 |
+| PB5 | `Bronx Community District 10 commute mean travel time to work public transit share profile` · WebSearch → WebFetch | https://comptroller.nyc.gov/wp-content/uploads/documents/Neighborhood_Economic_Profiles_2018_Bronx.pdf | "BX10 Co-op City, Pelham Bay & Schuylerville": commute time 41.0 min (2010) → 45.5 min (2016, ACS 2012–2016), +11%; public-transit workers 17,701 → 22,680 (+28%); car/taxi 25,490 → 23,639 (−7%); population 112,744 → 122,430. | §5 para 3 (thesis); §5.5 bullet 3 |
+| PB6 | `Pelham Bay Bronx burglary 45th Precinct 2025 house` · WebSearch | https://www.bxtimes.com/category/news/neighborhoods/pelham-bay (WebFetch) | Pelham Bay section headlines: first Restaurant Week; Orchard Beach Pavilion $114M; 11-unit lottery; 36-unit permits; shelter permits; e-bike corral. **No burglary/lock/door story found → EMPTY for the service category.** | §8 (restaurants on avenues, general), §7 new-building card (via PB8) |
+| PB7 | `bxtimes Orchard Beach Pavilion restored $114M renovation reopen` · WebSearch → WebFetch | https://www.nyc.gov/mayors-office/news/2026/05/mayor-mamdani-reopens-orchard-beach-pavilion-after--114-million- | Reopened May 20, 2026; $114M; fully closed since 2009 (~17 yrs); 140,000 sq ft, built 1936 (WPA), LPC landmark 2006; Marvel Architects / Gilbane; Orchard Beach 115 acres, 1.1 miles. | §13 Orchard Beach card |
+| PB8 | `bxtimes housing lottery 11 units Pelham Bay building rent starts at $2,040` · WebSearch → WebFetch | https://www.bxtimes.com/housing-lottery-11-units-pelham-bay-rent-2040/ | Jan 8, 2026: 3217 Westchester Ave, 11 new units (rents not used), amenities incl. "intercommunication devices", security cameras, covered parking/garages, elevator, accessible entrance; steps from Pelham Bay Park station. No smart-lock/keyless mention. | §7 "New Buildings by the Terminal" card |
+| PB9 | (direct) · WebFetch | https://en.wikipedia.org/wiki/Pelham_Bay_Park | 2,772 acres, largest public park in NYC, slightly >3× Central Park (843); acquired 1887, opened 1888; Orchard Beach opened June 25, 1937; Bartow-Pell Mansion 1842 Greek Revival, NHL 1975; Split Rock 1935, Pelham Bay golf 1901; Hunter Island 166 acres; Kazimiroff Nature Trail 1986; Bronx Victory Column & Memorial Grove, Crimi Road, 1933, 947 Bronx WWI dead. | §5.5 bullet 6; §13 park, Bartow-Pell, Victory Column cards |
+| PB10 | (direct) · WebFetch | https://en.wikipedia.org/wiki/Country_Club,_Bronx | Country Club east of New England Thruway/Pelham Bay; ZIP 10465; nearest stations Pelham Bay Park and Buhre Ave. | §13 "we also serve" line |
+| PB11 | `NCC Group Bluetooth Low Energy relay attack smart lock Kwikset Kevo 2022` · WebSearch → WebFetch | https://www.nccgroup.com/newsroom/ncc-group-uncovers-bluetooth-low-energy-ble-vulnerability-that-puts-millions-of-cars-mobile-devices-and-locking-systems-at-risk/ | 16 May 2022: first link-layer BLE relay attack; successful exploits on Tesla Model 3/Y and Kwikset/Weiser Kevo smart lock; not fixable by ordinary patch; advice: disable passive unlock features without explicit approval / require user-presence tap. | §9 radio-gadget Q; §10.5 auto-unlock H3 |
+| PB12 | `Amazon Key in-garage delivery how it works compatible garage door smart lock` · WebSearch → WebFetch | https://digprjsurvey.amazon.com/csad/help/node/GCDL25VJ6YTBTY78 (Amazon help page mirror) | In-Garage Delivery: compatible smart garage linked to Amazon Key; driver scans package, Amazon verifies package + driver location, garage opens; notifications at each step; optional camera; Prime required; $1.99/order or free with Amazon Day In-Garage (price not used). | §9 delivery-program Q |
+| PB13 | reused from research/soundbar-installation.md (Pelham Bay section; not re-fetched) | https://citylandnyc.org/two-bronx-neighborhoods-down-zoned ; https://api.datausa.io/profile/geo/co-op-city-pelham-bay-schuylerville-puma-ny | Down-zoning ~45 blocks, overlay depth cut, CB10 unanimous; PUMA homeownership 45.7% (2021). | Background only (homeownership figure **not** used on page) |
+
+### Sources not reachable / EMPTY
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: `EMPTY (not accessible in build env)`. §10.5 headings are claims from published cost guides / product material (LawnStarter, NCC Group, Matter maker guidance), stated as such on the page.
+- Reddit r/bronx / r/AskNYC Pelham Bay: query `reddit Pelham Bay Bronx living commute 6 train last stop` · WebSearch → no reddit.com results (only Wikipedia, RentHop, NY1 "end of the line" feature not opened) → `EMPTY`.
+- Local news on locks/break-ins in Pelham Bay: query `"Pelham Bay" Bronx burglaries homes police warn residents pattern` · WebSearch → only Pelham Gardens 2012 (DNAinfo) and Westchester-suburb stories → `EMPTY` for Pelham Bay; nothing quoted. Query `Pelham Bay Bronx Times burglary home break-in Westchester Avenue 2026` → no Pelham Bay burglary story → `EMPTY`.
+- Yelp 1–3★ Pelham Bay locksmith / smart-lock installers: `EMPTY (not accessible in build env)`.
+- Census 2020 NTA counts (population, renter share) for Pelham Bay: query `"Pelham Bay-Country Club-City Island" 2020 census population housing units renter occupied` → no usable 2020 table returned → `EMPTY`; page uses no 2020 census figure.
+- Middletown Road station page (structurae): fetch error → `EMPTY (not accessible)`; not used.
+- Google Drive `AESS Website Photos/Smart Lock Installation`: EMPTY (checked by main run); CompanyCam not connected.
+
+### Installer practice / general knowledge (NOT sourced to a document — flag for Anwar)
+- Alert-tuning recommendations, daily weekday schedule table (illustrative, labelled "your times will differ"), "one person per code", seasonal user-list review, privacy/vacation mode cautions, one-touch locking behaviour, DST/time-zone drift explanation for scheduled codes, shared-login advice, factory master code advice, keypad cleaning, painting timing, strike-plate replacement, padlocks for sheds, restaurant side-door rider advice, appraisal answer ("no published data found"), three-swing latch test in Field Notes (written as general practice, not an anecdote), emergency power contact "9-volt or USB-C depending on model".
+- BYOE "labor-only" callout wording and "we stop before opening the box so it can go back" — confirm this matches AESS practice.
+
+### Prices used (no new prices; Bronx ×1.00 — all copied from smart-lock-installation-bronx.html)
+$1,500–$2,500 single-door keypad/fob reader with electric strike · $250–$450 new electric strike · $295–$485 failed strike repair · $225 setup-only first hour then 30-min blocks (carries the Bronx page's existing flag: TV setup-only rate reused for smart-lock app visits) · $195/hr, 3-hr min ($585) service/callback · worked example $1,795–$2,985 = sum of two published lines · LawnStarter national $330 / $200–$460 / labor $50–$110 (third-party, labelled). House doors: "Quoted flat at free walkthrough".
+
+### Images (11) — permanent image rule (Drive empty, CompanyCam not connected)
+Source = `images/smart-lock-installation/aess-smart-lock-installation-*` (the whole aess set looks AI-rendered — flag for Anwar). Each viewed with Read; cropped with Pillow so no face, house number ("128" source skipped), unit plate ("4A" source skipped) or readable document appears; crops differ from Morris Park / West Brighton crops; saved WebP q82.
+| New file (images/smart-lock-installation/smart-lock-installation-pelham-bay-…) | Source (aess-smart-lock-installation-…) | Crop box | Section |
+|---|---|---|---|
+| keypad-deadbolt-above-black-handleset.webp | keypad-smart-deadbolt-brownstone-door | (450,0,1150,1050) | hero (eager) |
+| inside-thumb-turn-hand-close-up.webp | keypad-exterior-thumbturn-interior-view | (720,0,1400,780) — "Exterior/Interior View" captions cropped out | instant action |
+| add-access-code-screen-at-keypad.webp | programming-access-code-app | (720,260,1400,1050) | §5 |
+| fingerprint-unlocked-on-phone.webp | fingerprint-unlock-demo-app | (700,180,1400,1050) | §6 |
+| tape-across-worn-deadbolt-bore.webp | measuring-door-bore-for-deadbolt | (880,250,1400,820) | §7 |
+| finger-on-latch-at-door-edge.webp | checking-latch-bolt-alignment | (620,100,1400,1050) | Empty-house section |
+| keypad-deadbolt-glass-office-door.webp | office-glass-door-smart-lock | (680,200,1400,933) | §8 |
+| keypad-pulled-to-check-wiring.webp | servicing-keypad-wiring | (780,150,1400,933) | §9 |
+| four-aa-cells-inside-unit.webp | replacing-smart-lock-batteries | (880,180,1400,933) | §10 |
+| brass-cylinder-out-red-driver.webp | removing-old-brass-deadbolt | (700,320,1400,1050) | §10.5 |
+| keypad-lever-latch-screwdriver.webp | office-lever-smart-lock-install | (620,220,1400,933) | §13 |
+DAILY-LOG note: `images: 11 reused from images/smart-lock-installation/aess-* (cropped; no real smart-lock photos yet)`.
+
+### Similarity
+`simcheck.py` masked-geo: page-level max 0.184 vs Morris Park. All content blocks < 0.65 vs every sibling (incl. Williamsburg and Forest Hills drafts). Only blocks ≥ 0.65 are exempt constants: the verbatim warranty sentence, the shared mega-nav chrome, and the neighbourhood link list.
+
+## Question register — smart-lock-installation-pelham-bay-bronx-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 13)
+1. Our phones buzz every time anyone opens the door — can the lock tell us only about the openings that matter?
+2. Our cleaner's Tuesday code started and stopped an hour off after the clocks changed — why would that happen?
+3. Our children's after-school code is set for weekdays — what happens on snow days and school holidays?
+4. We spend several weeks a year with family abroad — can we add and delete codes from overseas, or only on our home network?
+5. Could someone standing outside with a radio gadget trick a smart lock into opening?
+6. The whole family logs in to the lock app with one shared email and password — what is wrong with that?
+7. The keypad locks when anyone touches the logo — could a passer-by or a child lock someone out by mistake?
+8. At night we would like the door to stay shut even to someone who has a valid code — is that possible?
+9. Our family is half iPhone and half Android — will one lock work well for everyone?
+10. Should we sign up for one of the delivery programs that let a courier open the garage while we are at work?
+11. Can the lock's entry history line up with our camera recordings so we can see who used each code?
+12. Delivery riders collect orders at our restaurant's side door all evening — should they get a code, or should the door stay staffed?
+13. Does a smart lock add anything to what a Pelham Bay house appraises for?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. If the lock we bought online turns out to be wrong for our door, will you help us sort out a return or exchange?
+2. We are repainting the front door next month — should the smart lock go on before or after?
+3. Do you also fit app-controlled padlocks for a backyard shed or a side gate?
+4. Is there a smart lock we can use without creating an online account with the manufacturer?
+5. Our keypad came with a factory master or programming code — should it be changed?
+6. How should we clean a keypad or fingerprint reader without damaging it?
+7. Does a smart deadbolt need a different strike plate from the one already on our door frame?
+8. How often should we change the codes on our door?
+
+### Other question-form headings
+- Need Smart Lock Repair in Pelham Bay? (repair capture H2)
+
+### De-dup notes
+Checked by meaning against all 738 question headings/FAQ items on the 33 live/draft smart-lock pages. Closest neighbours and why they differ: alert tuning vs "can the lock warn us about wrong codes" (Kingsbridge/New Dorp — single feature, not notification management); snow-day schedule exceptions vs "school bus mid-afternoon" (Westchester — arrival alert, not schedule exceptions); overseas code management vs "batteries die while out of the country" (Manhattan — power, not remote admin); relay attack vs "someone gets into our email" (Westchester — account takeover); shared login vs "who should hold the administrator account" (Queens — which person, not shared credentials); delivery programs vs "packages to the desk" (Manhattan — doorman building); factory master code vs "seller's lock master code unknown" (Bayside — reset, not changing a default).

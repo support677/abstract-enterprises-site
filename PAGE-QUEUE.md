@@ -176,9 +176,9 @@ LIVE | smart-lock-installation-astoria-queens-ny | Smart Lock Installation | Ast
 LIVE | smart-lock-installation-riverdale-bronx-ny | Smart Lock Installation | Riverdale, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | smart-lock-installation-st-george-staten-island-ny | Smart Lock Installation | St. George, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | smart-lock-installation-tribeca-manhattan-ny | Smart Lock Installation | Tribeca, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T16:51Z | smart-lock-installation-williamsburg-brooklyn-ny | Smart Lock Installation | Williamsburg, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T16:51Z | smart-lock-installation-forest-hills-queens-ny | Smart Lock Installation | Forest Hills, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T16:51Z | smart-lock-installation-pelham-bay-bronx-ny | Smart Lock Installation | Pelham Bay, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | smart-lock-installation-williamsburg-brooklyn-ny | Smart Lock Installation | Williamsburg, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | smart-lock-installation-forest-hills-queens-ny | Smart Lock Installation | Forest Hills, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | smart-lock-installation-pelham-bay-bronx-ny | Smart Lock Installation | Pelham Bay, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | smart-lock-installation-tottenville-staten-island-ny | Smart Lock Installation | Tottenville, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | smart-lock-installation-harlem-manhattan-ny | Smart Lock Installation | Harlem, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | smart-lock-installation-bay-ridge-brooklyn-ny | Smart Lock Installation | Bay Ridge, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
