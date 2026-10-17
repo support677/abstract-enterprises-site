@@ -124,7 +124,7 @@ BUILDING 2026-10-17T11:19Z | fiber-optic-installation-midtown-manhattan-ny | Fib
 BUILDING 2026-10-17T11:35Z | fiber-optic-installation-downtown-brooklyn-ny | Fiber Optic Installation | Downtown Brooklyn, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:35Z | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T11:35Z | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:36Z | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
