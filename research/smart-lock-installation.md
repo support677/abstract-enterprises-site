@@ -2290,3 +2290,340 @@ DAILY-LOG note: `images: 11 reused from images/smart-lock-installation/ library 
 - Library images look AI-rendered (see Images).
 - The Upper East Side link resolves only once that sibling page is on disk; at time of build both sibling files existed.
 - Size: page is 178,676 B, placed below the Ulster page (181,242 B) because every gap above it is taken by siblings (Brooklyn Heights ~184.2 KB, Upper East Side 187.5–189.1 KB during build). If a sibling's size changes, re-run the cluster check.
+
+# Smart Lock Installation — research part: Bedford-Stuyvesant, Brooklyn (smart-lock-installation-bedford-stuyvesant-brooklyn-ny)
+
+Built 2026-10-17 by the Bed-Stuy builder subagent. Main run merges this into research/smart-lock-installation.md.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+Silo-wide research (Fixr, August bridge distance, HPD double-cylinder rule, Admin Code §26-521, Tenant Data Privacy Act, Multiple Dwelling Law 3-family line, ADA 34–48 in., Bob Vila DIY claim) reused from the existing silo sections — not re-fetched.
+
+**Thesis:** Bed-Stuy = custody of the house. Long-held and inherited family brownstones (homeownership 19.7%) under deed-theft and tangled-title pressure, often standing empty between owners, inside three historic districts where the LPC confines devices to the door opening. Smart locks are sold as proof of who holds access: old keys retired, one credential per person, two administrators for heirs, entry logs and alerts on empty houses — plus landmark-compliant placement, foyer parcel fixes and rear-door hardening.
+
+## Bedford-Stuyvesant, Brooklyn (smart-lock-installation-bedford-stuyvesant-brooklyn-ny)
+
+| # | Query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| B1 | `Bedford-Stuyvesant deed theft homeowners Brooklyn DA brownstone` · Firecrawl search → scrape | https://www.npr.org/transcripts/nx-s1-5893647 | NPR Code Switch, 2026-07-21 (Chi Ossé, WNYC/Gothamist's David Brand): deed theft "rampant in gentrifying neighborhoods like Bed Stuy, where brownstones that redlining once made cheap now sell for millions"; AG complaints +240% 2023–2025; ~3,500 complaints 2014–2023; >500 in 2025; tactics: door-knocking, calls, leaflets, distant relatives; heirs without wills. | §5 Neighborhood, §5.5 stats, §9 Q "people keep knocking", Timeline |
+| B2 | same search · Firecrawl scrape | https://bronx.news12.com/2025/12/04/bed-stuy-woman-claims-shes-a-victim-of-deed-theft-facing-eviction-from-new-homeowner/2cBt06rbsHWBSGOp4eVZKG | Dec 4 2025: Bed-Stuy woman, 54, paid-off brownstone in family 60 years; man "rang the doorbell… 'I'm here to evict you.'" | §5 Neighborhood |
+| B3 | same search (excerpt only) | https://www.nysenate.gov/newsroom/in-the-news/2019/velmanette-montgomery/1m-bed-stuy-brownstone-stolen-80-year-old-woman-da | 2019: $1M Bed-Stuy brownstone allegedly stolen from 80-year-old woman (DA). | research only |
+| B4 | same search (excerpt only) | https://www.bklynlibrary.org/calendar/%E2%80%9Cthey-stole-my-home%E2%80%9D-deed-bedford-library-20260507-0600pm | BPL Bedford Library event 2026-05-07 "They Stole My Home": deed theft up 240% 2023–2025. | §5.5 stats |
+| B5 | `Stuyvesant Heights Historic District designated 1971 Landmarks Preservation Commission buildings` · Firecrawl search | https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/stuyvesant_heights.pdf ; https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/ | Stuyvesant Heights HD designated Sept 14 1971 (LP-0695); Bed-Stuy/Expanded Stuyvesant Heights HD ≈825 buildings (2013, per parent page). | §5, §5.5, §13 landmarks, Historic District Checklist |
+| B6 | `Bedford Historic District Brooklyn designated 2015 …` · Firecrawl search → scrape | https://www.citylandnyc.org/bedford-historic-district-unanimously-designated/ ; https://hdc.org/buildings/bedford/ | Dec 8 2015, ≈800 buildings, bounded roughly by Bedford, Nostrand, Putnam, Tompkins, Marcy Aves and Monroe, Fulton, Halsey Sts; built 1870–1900, rowhouses + small apartment buildings; HDC quotes designation report "a rare showcase for the rapid changes in row house fashion". | §5, §7 Building Specialists, Timeline |
+| B7 | `NYC Landmarks Preservation Commission rules rowhouse intercom doorbell security camera facade …` · Firecrawl search → scrape (PDF, freeform query) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf | "Light fixtures and intercom panels, as well as doorbells, must be installed within or adjacent to a door opening." "A maximum of two light fixtures and one intercom panel can be installed per door opening." "An intercom can also be installed on a fence or wall in front of the entranceway." No permit list: "Repairing or replacing hardware such as hinges, knobs, pulley chains, locks and handles"; "Replacing … broken window and door hardware in kind". (Keypads not named — page says we apply the intercom logic and advises speaking to LPC staff.) | §9 three landmark Qs, §10.5 H3 4, Historic District Checklist, §8.5 |
+| B8 | `Bedford-Stuyvesant community district 3 profile housing owner-occupied population Furman Center` · Firecrawl search → scrape | https://www.furmancenter.org/neighborhoods/bedford-stuyvesant/ | (Updated 05/06/2026) population 181,949 (2024); homeownership 19.7% (2024); 11,644 new units 2010–2025 (4+ unit buildings); public housing 9,802 units = 12.0% of rentals (2025); serious crime 11.6/1,000 (2025) vs 23.6 (2006). | §5, §5.5, Timeline |
+| B9 | `NYC Department of Finance Property Fraud Alert ACRIS sign up free deed fraud` · Firecrawl search → scrape | https://www.nyc.gov/site/finance/taxes/deed-fraud.page | Mayor's Office of Deed Theft Prevention; "Sign up for property and deed alerts" (ACRIS NRD); hotline 1-855-HOME-456; make a will or transfer-on-death deed; heirs should update the deed. | §9 Qs entry history / knocking, FAQ deed help, Estate Door Plan |
+| B10 | scrape of AG page linked from News 12 | https://ag.ny.gov/publications/deed-theft | Targets: "abandoned or empty properties", "properties where the homeowner is deceased and the heirs do not legally transfer title"; "Do not abandon your property. Take care of it yourself or ask someone else to look after it."; never transfer deed without own attorney; housing-court stay of 90 days to challenge ownership; HOPP. | §5, §9 estate/squatter/knocking Qs, §10.5 H3 3, Estate Door Plan |
+| B11 | `Center for NYC Neighborhoods tangled title heirs property Bed-Stuy homeowners inherited` · Firecrawl search → scrape | https://nypost.com/2026/06/11/real-estate/nyc-homes-worth-a-staggering-400m-at-risk-of-deed-theft/ | Center for NYC Neighborhoods (Apr 2026 report): ~350 lawsuits/yr citywide against homes in inherited-ownership disputes; ≥$400M at risk yearly; Central Brooklyn & Southeast Queens singled out. | §5.5, §9 heirs admin Q |
+| B12 | `New York squatters law 2024 budget squatter not tenant 30 days change locks` · Firecrawl search → scrape | https://www.fox5ny.com/news/new-york-new-squatter-laws ; https://www.nysenate.gov/legislation/bills/2025/S2366 (excerpt) | Fox 5, 2024-04-25: 2024 budget signed — "a tenant should not include a squatter"; Queens homeowner arrested when she tried to change the locks. S2366 (2025) further bill. | §9 Q "found someone living…", §10.5 H3 3, Timeline |
+| B13 | `reddit r/BedStuy package theft brownstone door lock intercom` · Firecrawl search (excerpts only; threads not opened) | https://www.reddit.com/r/BedStuy/comments/1gau7ch/repeated_breakins_on_lexington_ave/ ; https://www.reddit.com/r/BedStuy/comments/1n9550d/stealing_packages_in_broad_daylight/ ; https://www.reddit.com/r/BedStuy/comments/1sb217y/beware_package_thief/ ; https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/ | Lexington Ave: someone breaking in for months stealing packages from the foyer, "I've had 3"; Lafayette & Throop, 7am: "Guy politely opens my gate, steals my package & politely closes gate"; Myrtle & Marcy: two packages in 10 days; r/Brooklyn non-doorman building added a keypad deadbolt to package room door, "Stopped most thieves." | §9 gate Q and foyer Q |
+| B14 | `Bed-Stuy burglary brownstone break-in vestibule door 81st precinct 79th precinct 2025 2026` · Firecrawl search (excerpts) | https://www.bkreader.com/news/the-week-in-crime-spotlight-on-bed-stuy-8-6548761 ; https://www.facebook.com/NYPD79PCT/posts/crime-pattern-noticethe-bedstuy-area-has-seen-a-rise-in-both-residential-commerc/2721556447982727/ | Bed-Stuy covered by 79th and 81st Precincts; 79th Pct crime-pattern notice: rise in residential & commercial burglaries, "Please remember to lock your doors & windows" (post undated). | §9 squatter Q (precincts), §9 rear-door Q |
+| B15 | `NYCHA developments in Bedford-Stuyvesant Marcy Houses Tompkins Sumner Roosevelt Brevoort units` · Firecrawl search (Wikipedia NYCHA table excerpt) | https://en.wikipedia.org/wiki/New_York_City_Housing_Authority ; https://www.nyc.gov/site/nycha/about/developments/brooklyn.page | Marcy 27 bldgs/1,705 apts/1949; Brevoort 894/1955; Sumner 1,098/1958; Tompkins 1,048/1964; Roosevelt 762/1964, Roosevelt II 342/1966; Armstrong I/II; Stuyvesant Gardens; 303 Vernon. | §7 Building cards, Timeline |
+| B16 | `Magnolia Grandiflora Hattie Carthan Lafayette Avenue landmark Bedford-Stuyvesant` · Firecrawl search → scrape | https://hdc.org/buildings/magnolia-grandiflora/ | 679 Lafayette Ave; designated May 12 1970; grown from seedling by William Lemken mid-1880s; Hattie Carthan campaign from 1950s. (Instagram excerpt said 1977/678 — HDC used.) | §13 landmark, Timeline |
+| B17 | `Boys High School Marcy Avenue landmark Romanesque Revival …` · Firecrawl search | https://hdc.org/buildings/boys-high-school/ ; https://southofunionsq.villagepreservation.org/city/ny/lo/fd14bd5a-fb84-44f0-83a7-028ac3ff6a92 | 832 Marcy Ave; designated Sept 23 1975; Romanesque Revival; built 1891–92. | §13, Timeline |
+| B18 | `Alhambra Apartments Nostrand Avenue Montrose Morris landmark …` · Firecrawl search | https://hdc.org/buildings/alhambra-apartments/ ; https://en.wikipedia.org/wiki/Alhambra_Apartments | 500–518 Nostrand Ave, between Halsey and Macon; Montrose W. Morris; 1889–90. | §7, §8, §13, Timeline |
+| B19 | `Herbert Von King Park Tompkins Park Bedford-Stuyvesant oldest park Olmsted Vaux` · Firecrawl search | https://www.nycgovparks.org/parks/herbert-von-king-park ; https://www.tclf.org/landscapes/herbert-von-king-park | Marcy & Tompkins Aves; originally Tompkins Park; Olmsted & Vaux design; built 1870–71. | §13, Timeline |
+| B20 | `Restoration Plaza Fulton Street Bedford Stuyvesant Restoration Corporation founded 1967 Robert Kennedy` · Firecrawl search | https://restorationplaza.org/about/history/ ; https://www.linkedin.com/company/bedford-stuyvesant-restoration-corporation | Founded 1967 with RFK; 1368 Fulton St. | §8, §13, Timeline |
+| B21 | `Bed-Stuy Gateway BID Fulton Street boundaries Nostrand Avenue Tompkins Avenue merchants` · Firecrawl search | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=64 ; https://www.blockbyblock.com/cities/bed-stuy-gateway-bid-nyc/ ; https://ourtimepress.com/bed-stuy-gateway-bid-a-giftway/ | BID at 1368 Fulton St 3rd fl; ~400 businesses, nearly 500,000 sq ft retail; mile-long Fulton Street corridor. | §5, §8, §13 |
+| B22 | Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ (Bed-Stuy smart lock) | — | EMPTY (not accessible in build env). §10.5 headings are claims from cost guides/retailers, stated as such on page. | — |
+| B23 | Local news specifically on smart locks in Bed-Stuy (Patch/BK Reader/Brownstoner) | — | EMPTY — no smart-lock-specific story found; deed-theft, burglary and package items above used instead. | — |
+| B24 | Licensing / permits | — | Reused silo findings (LPC hardware no-permit; MDL multiple-dwelling line; HPD double-cylinder; Admin Code §26-521; TDPA). No Bed-Stuy-specific lock licensing found → nothing new claimed. | §7.5, §8.5, §9 |
+
+### Prices used (Brooklyn ×1.00 — no new figures; all from the parent page / silo prices table)
+- $1,500–$2,500 single-door keypad or fob reader with electric strike; $250–$450 new electric strike; $295–$485 failed strike repair; $195 first hour then 30-min blocks (programming visit); $195/hr, 3-hr minimum ($585) callback; Fixr national $250–$400 avg $300 (third-party, labelled). House/unit smart locks: quoted flat at walkthrough.
+
+## Images (11)
+All copied (cp, WebP unchanged) from real AESS photos in images/smart-lock-installation/; looked at each before naming. Excluded: video-doorbell photo (house number "128" visible), customer-app-unlock (customer face), suburban van, office glass/lever, apartment 4A door, exterior/interior composite with text overlays.
+
+| File | Source photo | Alt |
+|---|---|---|
+| smart-lock-installation-bedford-stuyvesant-finished-keypad-deadbolt-brownstone-door.webp | aess-smart-lock-installation-keypad-smart-deadbolt-brownstone-door.webp | Finished black keypad smart deadbolt and lever handle on a stained wood door beside brownstone and iron stoop railings, smart lock installation in Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-adding-access-code-app.webp | aess-smart-lock-installation-programming-access-code-app.webp | AESS technician entering a new access code on a door keypad while the phone app shows the Add Access Code screen, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-keypad-deadbolt-drilling-stoop-door.webp | aess-smart-lock-installation-drilling-keypad-lock-brownstone-stoop.webp | AESS installer driving screws into a keypad deadbolt on a wood stoop door with ornamental iron glass grille and a row of brownstone stoops behind, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-keypad-wiring-service.webp | aess-smart-lock-installation-servicing-keypad-wiring.webp | Technician in gloves holding an opened smart lock keypad with its wiring exposed while working on the interior unit, smart lock repair in Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-measuring-old-bore-wood-door.webp | aess-smart-lock-installation-measuring-door-bore-for-deadbolt.webp | Installer measuring an old worn lock bore on the edge of a stained wood door with a yellow tape measure before fitting a smart lock, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-removing-brass-deadbolt.webp | aess-smart-lock-installation-removing-old-brass-deadbolt.webp | Technician holding a removed brass deadbolt cylinder and using a drill driver on the old lock chassis of a wood front door, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-interior-unit-cable-connection.webp | aess-smart-lock-installation-connecting-interior-unit-cable.webp | Technician plugging the keypad cable into the interior unit of a smart deadbolt on a wood door, with an open tool case below, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-lock-status-phone-app-wood-door.webp | aess-smart-lock-installation-checking-lock-status-in-app.webp | Installer with locs holding a phone showing the smart lock as locked while pointing to the keypad deadbolt on a wood door, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-strike-plate-check-wood-door.webp | aess-smart-lock-installation-checking-latch-bolt-alignment.webp | Installer pressing on the strike plate in the door frame to check alignment beside a newly fitted keypad deadbolt on a wood door, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-fingerprint-unlock-app-confirmation.webp | aess-smart-lock-installation-fingerprint-unlock-demo-app.webp | A fingertip on the sensor of a keypad smart deadbolt while the installer holds a phone showing Fingerprint Unlocked, Bedford-Stuyvesant, Brooklyn |
+| smart-lock-installation-bedford-stuyvesant-smart-lock-battery-change.webp | aess-smart-lock-installation-replacing-smart-lock-batteries.webp | Technician sliding fresh AA batteries into the interior battery compartment of a smart lock on a dark entry door, Bedford-Stuyvesant, Brooklyn |
+
+## Question register — smart-lock-installation-bedford-stuyvesant-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 10)
+1. Our late mother's brownstone is empty while the estate goes through Surrogate's Court — what should happen to the keys and codes right now?
+2. Several of us inherited the house and none of us lives there — whose phone should hold the admin account?
+3. How can a lock's entry history help show that nobody was let into an empty house without the family's say-so?
+4. We found someone living in our relative's vacant house — can we just change the code or the lock?
+5. People keep knocking with offers to "help" with the house — how should an older owner decide who gets the door opened?
+6. Our row is in the Bedford or Stuyvesant Heights historic district — where may a keypad or reader be mounted beside the front doors?
+7. There is already an intercom panel at our door opening — can a separate keypad still be added on a landmarked facade?
+8. Can the keypad for our front-yard gate go on the iron fence at the sidewalk instead of on the house?
+9. Parcels go missing from our building's shared foyer even though the street door locks — how are people getting in, and what fixes it?
+10. A house on our block was entered through the back — what should the rear garden door of a rowhouse get?
+
+### §17 FAQ (visible == FAQPage, 6)
+1. Do you need to see proof that I am the owner or executor before changing the locks on a house?
+2. Will you photograph the doors before and after the work for our landmarks records?
+3. Can you fit a smart lock at a house where the electricity has been shut off?
+4. Where can a Bed-Stuy homeowner get help if they think someone is trying to steal their deed?
+5. Can relatives who live out of state join the planning meeting by video?
+6. Can a keypad lock be removed later without leaving new holes in an original door?
+
+### Other question-form headings
+- Need Smart Lock Repair in Bed-Stuy Today?
+- Who Can Open Your Bed-Stuy House Today?
+- Bed-Stuy Door Won't Lock or Won't Open Tonight?
+
+### De-dup notes
+- Avoided intents already on siblings: owner-landlord code plans, stoop parcel theft, vestibule-vs-outer door, garden areaway exit, replacement door in HD (Brooklyn); elderly/carer/dementia codes (Queens, SI, Suffolk, Westchester); remote monitoring of a weekend/beach house (HV, LI) — Q3 is framed as evidentiary record for an estate, not convenience monitoring; previous owners' keys on purchase (SI) — Q1 is estate custody; realtor/contractor temporary codes (Orange, Westchester, Manhattan); street-door relock responsibility (Kingsbridge) — Q9 is foyer parcel diagnosis; mailroom keypad by co-op board (Jackson Heights).
+- Masked paragraph similarity vs all 18 siblings: only exempt constants (warranty sentence, NAP, licence line, freshness stamp) ≥ 0.5; all body paragraphs < 0.5.
+
+# Smart Lock Installation — research part: Jackson Heights, Queens (smart-lock-installation-jackson-heights-queens-ny)
+
+Built 2026-10-17 (batch: Bedford-Stuyvesant / Kingsbridge / Jackson Heights). For the main run to merge into research/smart-lock-installation.md.
+
+## Jackson Heights, Queens (smart-lock-installation-jackson-heights-queens-ny)
+
+Neighbourhood spoke page. Up-link /smart-lock-installation-queens. Phone (347) 434-6392 (Queens line) in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359 (plus "WhatsApp (718) 679-0359" text in the NAP block, as on the parent). GBP Bronx (460 E Fordham Rd, @id #bronx). Price multiplier Queens ×1.05 (no new prices).
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. "Silo file" = finding already logged in research/smart-lock-installation.md by an earlier run (not re-fetched).
+
+**Thesis / lane:** In Jackson Heights the door is rarely the occupant's alone. The neighbourhood is where the Queensboro Corporation launched one of the first US co-op plans (Linden Court, 1919), the 1980s added 60+ conversions, and the LPC landmarked ~36 blocks in 1993. So a smart lock job is "permission-first": board/managing-agent approval packet, house rules (weekday contractor hours, contractor screening, alarm-system approval, self-closing doors), the corporation's duplicate key, 1920s unit doors with paint build-up / old mortise pockets / closers; and the shared doors only a board can change — mailroom (2025 serial mailroom burglar at 83-10 35th Ave), lobby package theft (34th Ave co-op 2020), interior-garden fire door, laundry, service entrance, historic entrances under LPC. Plus 82nd St / 37th Ave / 74th St–Diversity Plaza / Roosevelt Ave shops. Deliberately avoids the Queens page's lanes (multigenerational households, app languages, dementia, arthritis, Ida basements, storm doors, LIC towers, chair-rental salon) and the NYC hub's (renter rights, board approval yes/no, mortise hallway match, duplicate-key insistence, self-closer interference).
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | FC search `reddit JacksonHeights co-op board locksmith lock change apartment door` → only r/AskNYC / r/NYCapartments excerpts (not JH-specific; threads not opened). FC search `reddit jackson heights building front door buzzer packages stolen lobby intercom` → excerpts from r/crownheights, r/Brooklyn, r/AskNYC, r/nyc and a Facebook "jacksonheights" group post (packages stolen at 81/80 37 Ave — excerpt only, not used). r/JacksonHeights itself: EMPTY (no thread surfaced; Reddit not scraped in build env). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are recurring marketing/cost-guide claims, stated as such on the page. |
+| 6 | Landmarks | J1, J8, J9, J10, J11 |
+| 7 | Building stock | J1, J4 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Queens Daily Eagle (J2), QNS (J3), THE CITY (J5), DNAinfo excerpt (J12), Queens Chronicle excerpt (not opened, not used) |
+| 10 | Hyperlocal | JHBG (J1); Jackson Heights Post: only a Facebook excerpt surfaced → EMPTY; Queens Chronicle/Ledger: EMPTY beyond excerpt |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| J1 | `Jackson Heights Historic District designation report garden apartments Queensboro Corporation Edward MacDougall` · FC search → FC scrape | https://www.jhbg.org/history-of-jackson-heights | JHBG history (adapted from Daniel Karatzas, *Jackson Heights: A Garden in the City*): Queensboro tract 70th–92nd St, Roosevelt Ave–Northern Blvd; Laurel Court 1914 first apartment building; Oban, Penrhyn (1914), Plymouth, Willow Courts, Colonials (1915–16) on 80th/82nd/83rd St; elevated subway on Roosevelt Ave 1917; Garden Apartments 1917 (renamed Greystones 1925); Linden Court (84th–85th St between Roosevelt & 37th Aves) announced May 1919 as first under Cooperative Ownership Plan, block-long garden, garages; 1920–25 Hampton, Elm, Hawthorne, Laburnum, Cambridge Courts (George H. Wells, attached 4–5 storey around interior garden), The Chateau 1923 (slate mansards, limestone entrances), The Towers 1924 (80th St & 34th Ave, 96 apts, MacDougall's duplex), Spanish Gardens (Andrew J. Thomas); Hayes, Ivy, Cedar Courts; all apartments through 1921 walk-ups; Elm Court 1922 first button-control automatic elevator; English Garden Homes from 1924 on 87th St, 15+ streets in 4 years, brick, rear garages; main commercial district planned on 82nd St & 37th Ave; Queensboro HQ 82nd St & 37th Ave opened May 1929; 1930s Fillmore Hall (132 units), Georgian Hall, Oak Halls, Buckingham Hall, Mount Vernon; Towers/Laburnum/Cambridge co-ops failed 1932–34 → rentals; Post Office opened 1937 (WPA mural); Travers Park 77th–78th St 34th Ave to Northern Blvd; 38 apartment buildings completed 1950, end-block gardens on 34th/35th Aves built over; 1980s ≥60 buildings converted, 5,000+ new tenant-owned units on ≥5,000 existing co-op units; LPC 1993 ~36 blocks, bounded 76th St, 88th St, Roosevelt Ave, Northern Blvd. | §5 paras 1–3, §5.5 bullets 1–3, §7 cards + 7.5, §8 82nd St/37th Ave/Roosevelt cards, §13 Linden Court/The Towers/Travers Park cards, Across JH |
+| J2 | `Jackson Heights Post burglary apartment building Jackson Heights 115th Precinct` · FC search → FC scrape | https://queenseagle.com/all/jackson-heights-residents-say-package-thefts-are-on-the-rise | Queens Daily Eagle, David Brand, Oct 30 2020: burglar entered a 34th Ave co-op ~3 a.m., stole from ~a dozen packages in lobby; second burglary there since July; resident at 79th St & 37th Ave: thefts a minute or two after UPS/FedEx drop-offs; "Many residents, particularly seniors, tend to buzz people into the building without seeing who they are"; 115th Pct tweeted warning Oct 26 2020. | §5 para 4, §9 courier/service-entrance Q, §10.5 H3 4, Across JH (34th Ave) |
+| J3 | same search → FC scrape | https://qns.com/2025/04/serial-burglar-hits-mail-rooms-in-five-queens-neighborhoods-nypd/ | QNS, Bill Parry, Apr 16 2025: lone burglar entered mailroom at 83-10 35th Ave Mar 8 (package, $500 jewelry), forced entry Mar 12 and Mar 14 (documents); 115th Pct 47 burglaries through Apr 13 2025 vs 65 (−27.7%, CompStat). | §5 para 4, §5.5 bullets 5–6, §9 mailroom Q, §10.5 H3 4, Across JH (35th/37th Aves) |
+| J4 | `Jackson Heights co-op "alteration agreement" OR "house rules" locks keys managing agent garden apartment` · FC search → FC scrape (pdf parser) | http://www.olr.com/Pictures/OtherBuildingDocs/10112_34-24_82nd%5Bhouserules%5D.pdf | Allendale Apartments, Inc., 34-24 82nd St house rules: construction/installation noise only weekdays 8:30 AM–5 PM (r.5); apartment alarm systems need written approval of Management/Managing Agent (r.7); messengers/trades use service entrance on south side (r.10); deliveries 8:30–5 Mon–Fri, 9–12 Sat (r.11); laundry 7 AM–9 PM (r.17); apartment entrance doors self-closing per FDNY (r.26); contractors screened and approved by Management (r.28); garden 9 AM–sundown (r.29); garden fire door must remain closed at all times, front-door key gives access (r.31); subletting not endorsed, case-by-case (r.33). | §5 para 2, §9 courier, garden-door, laundry, sublet Qs, Board Packet table, §10.5 H3 1 |
+| J5 | same search as J2 → FC scrape | https://www.thecityreporter.nyc/2022/03/07/after-fire-thieves-ransacked-apartments-cops-wont-help-queens-tenants/ | THE CITY, Gabriel Sandoval, Mar 7 2022: Apr 6 2021 electrical fire at six-floor, 133-unit building, 34th Ave & 89th St (89-07 34th Ave); 21 injured; >140 households displaced; tenant association says ≥50 apartments burglarized while access held by guards/contractors; tenants struggled to file reports at the 115th Pct (92-15 Northern Blvd area). | §9 post-fire Q, Across JH (34th Ave) |
+| J6 | `Landmarks Preservation Commission permit replace entrance door intercom historic district rules doors security` · FC search (excerpts) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf ; https://nylandmarks.org/news/technical-tips-preserve-your-historic-windows-and-doors/ | LPC Permit Guidebook ch. 2 Windows and Doors (LPC Rules §2-14); assessment of deteriorated conditions required to replace historic front doors; staff permits for entrance infill where no significant historic material; door actuators/push plates "as small as possible", no exposed conduit. NYLC: all modifications to exterior windows and doors in historic districts require LPC approval. | §8.5 bullet 2, §9 entrance-strike Q, §10.5 H3 3, Board Packet, shared-door checklist |
+| J7 | `Queens Community District 3 Jackson Heights East Elmhurst profile population foreign-born households Furman Center` · FC search (excerpts) | https://www.nyc.gov/assets/planning/newest-new-yorkers-2026/Ch3.html ; https://en.wikipedia.org/wiki/Jackson_Heights ; https://datausa.io/profile/geo/nyc-queens-community-district-3-jackson-heights-east-elmhurst-puma-ny | DCP *Newest New Yorkers* 2026: Jackson Heights >50,000 immigrants, nearly 60% of population; Colombians, Ecuadorians, Mexicans ≈43% of foreign-born; 3,500 Bangladeshi immigrants, strong Bangladeshi commercial presence around Diversity Plaza near Roosevelt Ave–74th St. (Wikipedia ~11% severely overcrowded 2017; Data USA 57.2% foreign-born CD3 2024 — noted, not used on page.) | §5 para 5, §5.5 bullet 4, §8 74th St card |
+| J8 | `34th Avenue open street Paseo Park Jackson Heights Diversity Plaza 37th Road 74th Street` · FC search (excerpts) | https://www.nyc.gov/html/dot/html/about/34ave.shtml ; https://www.paseopark.org/ | DOT: 34th Ave between 69th St and Junction Blvd to become city's first permanent Open Street; launched 2020; Paseo Park 26 blocks; materials in Bangla, Hindi, Nepali, Spanish, Tibetan, Chinese. | §13 Paseo Park card, Across JH, FAQ coverage answer |
+| J9 | `Diversity Plaza Jackson Heights 37th Road 74th Street pedestrian plaza Little India` · FC search (excerpts) | https://www.nyc.gov/site/cecm/permitting/diversity-plaza.page ; https://www.nycstreetdesign.info/studies/diversity-plaza | Diversity Plaza on 37th Road between 73rd and 74th Sts, at the Jackson Heights transit hub. | §8 74th St card, §13 card |
+| J10 | `Travers Park Jackson Heights 78th Street play street Jackson Heights post office mural 1937 landmark` · FC search (excerpts) | https://www.nycgovparks.org/parks/travers-park ; https://en.wikipedia.org/wiki/United_States_Post_Office_(Jackson_Heights,_Queens) ; https://livingnewdeal.org/locations/jackson-heights-station-post-office-flushing-ny/ | Travers Park: 34 Ave between 77 and 78 St. Post office: original section built 1936–37; 1940 mural "Development of Jackson Heights" by Peppino Mangravite. 78th St play street: Facebook post title only. | §13 Travers Park + Post Office cards |
+| J11 | `82nd Street Partnership business improvement district Jackson Heights 37th Avenue Roosevelt Avenue businesses` · FC search (excerpts) | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=18 ; https://www.dnainfo.com/new-york/20121218/jackson-heights/82nd-street-historic-district-has-cash-help-businesses-get-up-code | 82nd Street Partnership, 37-06 82nd St Suite 309; DNAinfo Dec 18 2012: Partnership using city grant money to help historic-district businesses on 82nd St get up to code. | §8 82nd St card, Across JH |
+| J12 | same as J2 (excerpt) | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/115th-precinct.page ; https://www.facebook.com/nypd115pct/ | 115th Precinct, 92-15 Northern Blvd, Jackson Heights. | §8 Northern Blvd card |
+| J13 | `HPD self-closing doors requirement apartment entrance doors Local Law 2022 multiple dwellings` · FC search (excerpt) | https://www.nyc.gov/site/hpd/services-and-information/self-closing-doors.page | Apartment and hallway doors must swing closed and latch by themselves; LL71/2022 — HPD proactively inspects 300 class A multiple dwellings a year for self-closing doors. | §7.5 paint/closer para, §9 propped-door Q, shared-door checklist |
+| S1 | silo file N2 | https://cooperatornews.com/article/the-shareholder-versus-the-board | 111 Tenants Corp. v. Stromberg: shareholder ordered to surrender duplicate key; proprietary leases require duplicate of new keys. | §7.5 "key the corporation keeps", §10.5 H3 5 |
+| S2 | silo file N1 | https://www.nysenate.gov/legislation/laws/MDW/51-C | MDL §51-c: tenant may add own lock, must provide duplicate key on request. | §10.5 H3 5 |
+| S3 | silo file N4 | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | Tenant Data Privacy Act (LL63/2021): limits on smart-access data; may not require smart access to enter unit. | §8.5, §9 mailroom + board-policy Qs, §10.5 H3 7, checklist |
+| S4 | silo file N6 | https://www.nyc.gov/site/hpd/services-and-information/fire-safety.page | Double-cylinder locks illegal on apartment doors. | §7.5 "one motion out" |
+| S5 | silo file Q12 | https://www.nyc.gov/mayors-office/news/2025/06/mayor-adams-major-crime-reductions-roosevelt-avenue-queens-following-targeted | Operation Restore Roosevelt (Oct 2024); burglaries −48% start of year to mid-June 2025. | §8 Roosevelt Ave card |
+| S6 | silo file S3 | https://www.fixr.com/costs/smart-lock-installation | National $250–$400 (Jan 2025), labelled national third-party. | §14 pricing |
+| — | 7-train vibration and door hardware | — | No manufacturer/study source found → page says so explicitly and describes only installer practice. | §9 Roosevelt Ave Q |
+
+Not used (unverified or off-thesis): r/AskNYC co-op lock excerpt; Wikipedia overcrowding figure; Data USA 57.2%; Facebook package-theft post at 80/81 St & 37 Ave; Jackson Heights Post (no article reached).
+
+### Prices used (Queens ×1.05, round half-up; all from research/smart-lock-installation.md prices table — none invented)
+| Figure | Scope |
+|---|---|
+| $1,575–$2,625 | single-door keypad/fob reader + electric strike ($1,500–$2,500 × 1.05) |
+| $263–$473 | new electric strike ($250–$450 × 1.05) |
+| $310–$509 | failed electric strike repair ($295–$485 × 1.05) |
+| $195 first hour, then 30-min blocks | setup-only visit (Queens) |
+| $195/hr, 3-hr minimum ($585) | service/callback, not on initial install |
+| quoted flat at walkthrough | any individual apartment/house door smart lock (no AESS figure exists) |
+
+## Images (11)
+Real AESS smart-lock photos from images/smart-lock-installation/ (Drive folder had nothing new). Each viewed before naming; alt/title/caption describe only what is visible; no customer, named building or local project claimed. Not used: suburban-front-door-van, office-glass-door, drilling-brownstone-stoop, video-doorbell, replacing-batteries, showing-customer-app-unlock (customer's face). DAILY-LOG note: images are real AESS smart-lock photos (11 of 18), copied under Jackson Heights filenames — not borrowed from another silo.
+
+| New file (images/smart-lock-installation/) | Source photo | Alt |
+|---|---|---|
+| smart-lock-installation-jackson-heights-keypad-test-on-apartment-unit-door.webp (hero, eager) | aess-smart-lock-installation-apartment-door-smart-lock-app.webp | AESS technician testing a keypad smart deadbolt on an apartment unit door with the phone app in a Jackson Heights, Queens hallway |
+| smart-lock-installation-jackson-heights-checking-bolt-and-strike-alignment.webp | aess-smart-lock-installation-checking-latch-bolt-alignment.webp | Technician checking deadbolt and strike alignment at the door edge before finishing a smart lock installation in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-measuring-bore-on-wood-entry-door.webp | aess-smart-lock-installation-measuring-door-bore-for-deadbolt.webp | Gloved technician measuring the old lock bore on a wood entry door before fitting a smart lock in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-opening-keypad-to-check-wiring.webp | aess-smart-lock-installation-servicing-keypad-wiring.webp | Technician opening a smart lock keypad to check its wiring and harness during a repair visit in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-removing-old-brass-deadbolt.webp | aess-smart-lock-installation-removing-old-brass-deadbolt.webp | Technician removing an old brass deadbolt with a cordless driver to prepare a wood door for a smart lock in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-keypad-outside-thumb-turn-inside.webp | aess-smart-lock-installation-keypad-exterior-thumbturn-interior-view.webp | Side-by-side views of a keypad smart deadbolt from outside and its interior thumb-turn for Jackson Heights, Queens doors |
+| smart-lock-installation-jackson-heights-keypad-lever-lock-on-office-door.webp | aess-smart-lock-installation-office-lever-smart-lock-install.webp | Technician fitting the strike for a keypad lever smart lock on a dark-framed office door in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-adding-access-code-in-app.webp | aess-smart-lock-installation-programming-access-code-app.webp | Technician adding a new access code in the smart lock app while testing it on the keypad in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-fingerprint-unlock-with-app-confirmation.webp | aess-smart-lock-installation-fingerprint-unlock-demo-app.webp | A fingerprint unlocking a keypad smart deadbolt while the technician's phone app confirms access in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-seating-interior-unit-ribbon-cable.webp | aess-smart-lock-installation-connecting-interior-unit-cable.webp | Technician seating the ribbon cable between keypad and interior unit of a smart deadbolt during installation in Jackson Heights, Queens |
+| smart-lock-installation-jackson-heights-confirming-locked-status-in-app.webp | aess-smart-lock-installation-checking-lock-status-in-app.webp | Technician confirming the locked status of a keypad smart deadbolt in the mobile app at a front door in Jackson Heights, Queens |
+
+Flag for Anwar: the aess-* library photos (same files used on every smart-lock page) look AI-rendered on close inspection (as earlier runs also noted for other libraries). Used here because the task treats them as AESS photos; worth confirming.
+
+## Question register — smart-lock-installation-jackson-heights-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. A burglar got into the mailroom of a 35th Avenue building three times in one week — can our board put a keypad or fob reader on the mailroom door?
+2. Couriers are supposed to use our building's service entrance — can that door take a code that only works during delivery hours?
+3. Our house rules keep the door to the interior garden shut at all times — can residents open it with a code instead of the front-door key?
+4. Contractors keep propping the garden or service door open — can the door itself tell the super?
+5. The laundry room is only open certain hours under our house rules — can its door follow that schedule on its own?
+6. Can an electric strike go into the old wood or stone jamb of our building's original entrance without spoiling it?
+7. Our board is drafting a smart-lock policy for shareholders — what should it cover?
+8. The board approved a one-year sublet of our apartment — how do we hand the door to the subtenant without giving away our own access?
+9. After a fire emptied part of our building, how do residents keep their apartments secured while contractors have the run of it?
+10. Our Roosevelt Avenue storefront sits under the elevated 7 train — does the constant vibration loosen a keypad or strike?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What would a keypad and electric strike on our co-op's mailroom or lobby door cost?
+2. Do you also work in East Elmhurst, North Corona and the blocks west of 76th Street?
+3. How far ahead of the installation should we send the request to our managing agent?
+4. Is a smart lock worth it on a studio in a walk-up where only one person lives?
+5. Decades of paint have built up on our door edge and frame — will that stop a motorised bolt?
+6. Can the keypad's backlight be dimmed so it doesn't glow across the courtyard at night?
+7. Do you work in the 1950s apartment buildings along 34th and 35th Avenues as well as the prewar co-ops?
+8. How much noise does the installation make in a shared stairwell?
+
+### Other question-form headings
+- H2 "Locked Out of a Jackson Heights Apartment, Lobby or Shop?" (repair capture)
+- H2 "Need the Board Packet Before the Next Meeting?" (mid-page CTA)
+- H2 "Want the Jackson Heights Price in Writing?" (mid-page CTA)
+- H2 "Keypad Dead on a Garden Co-op Door Tonight?" (final repair capture)
+
+### De-dup notes
+- Checked by meaning against all 16 area pages' questions and the two batch siblings on disk (Bedford-Stuyvesant, Kingsbridge). Deliberately NOT asked (already owned elsewhere): co-op board approval yes/no, board insisting on a key, mortise hallway match, self-closer interference (NYC); historic-district keypad permit (Hudson Valley/Brooklyn/Bed-Stuy); install duration (SI/Rockland); contractor hours & COI (NYC); scope letter (Manhattan); JH chair-rental salon, garden co-op courtyard door weather (Queens). Dropped during build: FAQ "replace a worn peephole on the same visit" (≈ Kingsbridge "digital door viewer replace the peephole").
+- Partial overlaps for the main run to judge: Q10 (7-train vibration) vs Kingsbridge "1 train … signal trouble" (different intent: mechanical loosening vs radio signal); Q4 (propped common door alert to super) vs Kingsbridge "lobby door often propped — what should my apartment door do" (board-side alert vs tenant-side lock); Q2 (delivery-hour courier code) vs Bed-Stuy "parcels go missing from shared foyer — how are people getting in"; FAQ 1 cost vs Queens/NYC cost FAQs (geo-specific by design).
+- Masked similarity (visible paragraphs ≥20 words, geo names masked): 5-gram Jaccard 0.027 vs Queens parent, ≤0.018 vs every other smart-lock page, 0.004 vs LIC soundbar model. Highest single-paragraph 3-gram Jaccard excluding protected boilerplate (warranty sentence, NAP, consent text): 0.59 vs NYC hub and ≤0.57 vs Queens parent and every other page (the "not legal advice" note and pricing lines, both excluded from the verdict per v2.3 §2); every content paragraph < 0.65.
+
+# Smart Lock Installation — research part: Kingsbridge, Bronx (smart-lock-installation-kingsbridge-bronx-ny)
+
+Built 2026-10-17 by the Kingsbridge builder subagent (batch with Bedford-Stuyvesant and Jackson Heights). Main run merges this into research/smart-lock-installation.md.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used.
+Up-link /smart-lock-installation-bronx · phone (646) 490-0629 · Bronx GBP (460 E Fordham Rd, #bronx) · pricing Bronx ×1.00.
+
+**Thesis:** in Kingsbridge the weak door is usually the shared one downstairs (crowbarred lobby door on Corlear Ave/W 231st St in 2024; CB8 FY2027: main doors without working locks and buzzers at Marble Hill Houses), so every Kingsbridge smart lock is planned as a two-door job — make the lobby/street door shut and relock (owner/housing company/NYCHA responsibility, priced from published Bronx strike/access figures) and then fit a keyed, auto-locking, logging smart lock on the resident's own door. Secondary local threads: Amalgamated/Park Reservoir limited-equity co-ops (reversible retrofits), roommate/student apartments near Manhattan University, one-in-five 65+ residents up hills and stair streets (aide/family codes), shops under the 1 train in the Kingsbridge BID, Marble Hill (Manhattan) edge.
+
+## Kingsbridge, Bronx (smart-lock-installation-kingsbridge-bronx-ny)
+
+### Boundaries, streets, landmarks
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| K1 | `Kingsbridge Bronx neighborhood boundaries Broadway 231st Street history` · Firecrawl search (excerpt) | https://en.wikipedia.org/wiki/Kingsbridge,_Bronx | Boundaries Manhattan College Pkwy (N), Major Deegan/Bailey Ave (E), W 230th St (S), Irwin Ave (W); CB8; ZIP 10463; 50th Precinct; King's Bridge 1693 (Philipse), buried under filled Spuyten Duyvil Creek; St. John's RC Church on Kingsbridge Ave near 231st St + two schools (Godwin Terrace, Kingsbridge Ave); Visitation Church & School W 239th St; Our Lady of Angels Church & School on Sedgwick Ave; Manhattan University; Stella D'Oro factory left 2009; 231st Street station (1). | §8 houses-of-worship card, §13 Marble Hill card (creek), cross-checks |
+| K2 | same search | https://cityneighborhoods.nyc/kingsbridge (Firecrawl scrape) | Alternate boundaries (Broadway E, W 230th S, Riverdale Ave W, W 238th/W 240th N); Broadway corridor under the 1 train; prewar apartment buildings, small row houses; 1 train extension 1908 → six-story apartment buildings along Kingsbridge Ave, Heath Ave, Sedgwick Ave with courtyard entrances; Armory built 1912–1917 (Pilcher & Tachau); Major Deegan 1956; Kingsbridge Heights Community Center. | §5 para 1, §7 prewar card, §7.5 courtyard entry |
+| K3 | `Kingsbridge Heights Bronx neighborhood Kingsbridge Road Armory Jerome Park Reservoir apartment buildings` · Firecrawl search (excerpt) | https://cityneighborhoods.nyc/kingsbridge-heights | Bounded by Grand Concourse, Kingsbridge Rd, Broadway, W 231st/Albany Crescent/Kingsbridge Terrace/Jerome Park Reservoir; 1910–1935 six-story brick apartment houses, Tudor Revival rowhouses, Art Deco residences; 1920s–30s apartment houses on Kingsbridge Terrace and Heath Ave; rowhouses, detached homes, walk-ups. | §7 row-house card, Houses section |
+| K4 | `Kingsbridge Bronx step street stairs West 231st Street Kingsbridge Terrace hill` · Firecrawl search → Firecrawl scrape | https://onfootonwheels.squarespace.com/the-stair-streets-of-new-york-city/the-kingsbridge-trio-2-northwest-bronx | Five stair streets from the 231 St station (fully accessible): Naples Terrace 60 steps, Godwin Terrace 32, W 229th St 187 (Heath Ave → Kingsbridge Terrace → Sedgwick Ave, two blocks), W 231st St 70, W 230th St 72; Albany Crescent cantilevered over the Deegan. | §5 para 4, §13 W 229th St card, §13 231st St card |
+| K5 | `Van Cortlandt Park acres third largest park Bronx Van Cortlandt Park South` · Firecrawl search (excerpts) | https://www.nycgovparks.org/parks/vancortlandtpark ; https://vancortlandt.org/visit/ | 1,146 acres; third-largest park in NYC. | §13 Van Cortlandt Park card |
+| K6 | `Marble Hill Houses NYCHA development buildings apartments …` · Firecrawl search → Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Marble_Hill_Houses | 11 buildings of 14–15 stories; first 9 between W 225th–230th Sts, Broadway–Exterior St; tenants from Aug 1951, completed March 1952. | §7 public-housing card |
+
+### Housing stock, co-ops, statistics
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| K7 | `Amalgamated Housing Cooperative Van Cortlandt Park South history 1927 apartments buildings` · Firecrawl search → Firecrawl scrape | https://en.wikipedia.org/wiki/Amalgamated_Housing_Cooperative | 98 Van Cortlandt Park South; organized 1927 for the Amalgamated Clothing Workers; Tudor-style clusters 1927–32, Building 10 1941, 1947 building, concrete high-rises 1949–51, two towers early 1970s; 303 → 1,468 units in 11 buildings; core of Van Cortlandt Village; sister co-op Park Reservoir = state's first Mitchell-Lama co-op, 273 units, buildings on Sedgwick and Orloff Aves. | §5.5 stat 4, §7 co-op card, §13 Amalgamated card |
+| K8 | same search (excerpt) | https://amalgamated-bronx.coop/ | "Founded in 1927, Amalgamated is the oldest limited equity housing cooperative in the United States." | §5.5 stat 4 |
+| K9 | `Amalgamated Housing Cooperative house rules alterations apartment locks shareholders Bronx` · Firecrawl search → Firecrawl scrape (pdf) | https://amalgamated-bronx.coop/wp-content/uploads/2022/08/Amalgamated-FAQ-as-of-7-29-2022.pdf | FAQ 7/29/2022: "We are supervised by New York State Homes and Community Renewal (NYSHCR)"; apartments subject to NYSHCR prior approval; apartments shown "pre-restoration or restored and ready for occupancy"; mandatory painting fee; towers at 3975 & 3965 Sedgwick Ave. **No lock/door rule published** → page says so and tells cooperators to ask management in writing. | §7 co-op card, §7.5 co-op restoration, Two-door table, §9 co-op Qs, §14 building costs |
+| K10 | `Mitchell-Lama regulations 9 NYCRR 1727 cooperator alterations apartment written consent housing company` · Firecrawl search (gov category, excerpts) | https://hcr.ny.gov/mitchell-lama ; https://nyc.gov/assets/hpd/downloads/pdfs/services/mitchell-lama-rules.pdf | HCR: 22 limited-dividend developments (Mitchell-Lama precursor) with 10,000+ apartments; supervision by DHCR. HPD rules excerpt did not cover door alterations → not used for a lock claim. | Research only (supports "state oversight" wording) |
+| K11 | `Furman Center Riverdale Fieldston Kingsbridge community district 8 …` · Firecrawl search → Firecrawl scrape (query, directQuote) | https://www.furmancenter.org/neighborhoods/riverdale-fieldston/ | 2024: population 95,283; 65+ 23.3% (14.8% in 2010); homeownership 38.4%; serious housing code violations 222.4 per 1,000 privately owned rental units; median rent $1,720 (2025$); severely rent-burdened 27.9%. | §5 para 5, §5.5 stats 2–3 |
+| K12 | Firecrawl scrape (query, directQuote) | https://www.furmancenter.org/neighborhoods/kingsbridge-heights-bedford/ | 2024: homeownership 4.0%; serious violations 283.6 per 1,000 private rental units; 65+ 11.0%; population 128,210. | §5 para 5, §5.5 stat 3 |
+| K13 | `Bronx Community Board 8 Statement of Needs Fiscal Year 2027 security locks buzzers Kingsbridge` · Firecrawl search → Firecrawl scrape (pdf, query) | https://cbbronx.cityofnewyork.us/cb8/wp-content/uploads/sites/3/2026/02/FY2027_Statement_BX08.pdf | CD8 = 3.3 sq mi; Spuyten Duyvil, Kingsbridge, Kingsbridge Heights, Fieldston, Riverdale, Marble Hill, Van Cortlandt Village; "one in five residents is aged 65 or older"; over 45,000 housing units; housing types co-ops, condos, one-family, 2–4 family, multi-family; Marble Hill is Manhattan but served by the Bronx; Marble Hill Houses 3,222 residents, Fort Independence 482; quote: "There are security concerns as main doors to buildings do not have proper entry security such as working locks and buzzers."; step-street upgrade request W 238th St Waldo–Irwin (crumbling cement, cracking steps); grab bars, wheelchair-accessible buses for older adults. | Hero, §5 paras 2/4, §5.5 stats 1–2, §13 Marble Hill card, Older Neighbors section, Houses section, §9 Marble Hill Q |
+| K14 | `Manhattan College renamed Manhattan University 2024 Riverdale Bronx campus students` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Manhattan_University ; https://manhattan.edu/news/archive/2024/08/manhattan-university-announcement | Renamed Manhattan University in 2024 (Regents approval Aug 1); in Riverdale since 1922/1923; Manhattan College name from 1863 charter. | §5 para 4, Shared Apartments section |
+
+### Commercial corridors
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| K15 | `Kingsbridge BID Broadway West 231st Street merchants business improvement district` · Firecrawl search → Firecrawl scrape | https://www.kingsbridgebidnyc.org/about | BID area: Broadway W 230th–W 236th; W 231st from Major Deegan west to Corlear Ave; signed into law mid-2001; homepage: "our 200 merchants". Annual report lists office 3109 Kingsbridge Ave. | §5 para 4, §5.5 stat 6, §8 corridor cards |
+| K16 | same search → Firecrawl scrape | https://www.norwoodnews.org/business-beat-bolstering-the-once-sleepy-bid-in-kingsbridge/ | Jan 2015: L-shaped BID under the elevated 1 train ("It's All Under the Bridge"); nearly 200 businesses; Williams Funeral Home, Robert E. Hill Real Estate, Aaron Plum Insurance each 50+ years; "There're no vacancies"; Target mall at 225th & Broadway. | §8 intro, Broadway-south card |
+| K17 | reused, re-fetched: `Kingsbridge Armory …` · Firecrawl scrape (query) | https://edc.nyc/press-release/city-council-approves-historic-vision-kingsbridge-armory-bronx | Phase 1: 180,000 sq ft column-free Drill Hall, groundbreaking 2026, completion 2030; 125,000 sq ft community-owned manufacturing and community space; Phase 2: ~500 permanently affordable rental units on adjacent National Guard site, 2032; Armory opened 1917, military until 1994, city landmark 1974, National Register 1982. | §7 new-buildings card, §8 Armory card, §13 Armory card |
+
+### Local news / incidents
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| K18 | `Riverdale Press Kingsbridge burglary apartment building lobby door package theft 2025` · Firecrawl search → Firecrawl scrape | https://www.norwoodnews.org/kingsbridge-man-sought-in-identified-burglary-pattern/ | Apr 18 2024: NYPD burglary pattern; Mar 25 (~3 a.m.) and Apr 5 (~2:52 a.m.) someone used a crowbar to pry open the front door of the lobby of the same residential building near Corlear Ave & W 231st St, fled north on Corlear; no property taken, no injuries. | Hero, §5 para 2, §5.5 stat 5, Two-door section, §9 Q1, §10.5 H3 3 |
+| K19 | same search → Firecrawl scrape | https://www.riverdalepress.com/stories/police-beat,28861 | May 22 2008 Police Beat: four burglaries in a week in the 50th Precinct, thieves entering through victims' front doors; a Riverdale victim believed to have forgotten to lock her door; at 2850 Claflin Ave burglars broke off a key in the lock to stop anyone entering, technique used in several Kingsbridge Heights burglaries. | Two-door section, §9 Q4 |
+| K20 | `Riverdale Press Kingsbridge tenants key fob building entry landlord` · Firecrawl search → Firecrawl scrape | https://www.riverdalepress.com/stories/landlord-values-security-at-home,49858 | Feb 1 2012: at a Waldo Ave building the front-door lock "is often broken, according to both residents and" HPD. Not quoted on page (named landlord/harassment allegations) — research context only. | Research only |
+| K21 | `Marble Hill Houses NYCHA …` · Firecrawl search → Firecrawl scrape | https://www.riverdalepress.com/stories/nycha-sees-crime-drop-but-marble-hill-houses-residents-cite-security-concerns,241342 | Aug 14 2026: Marble Hill Houses on Broadway between W 225th–230th; residents describe entrance doors propped open or with broken locks, key failing to open a recently repaired entrance door at 4 a.m.; NYCHA cites funding and vandalism; NYCHA Customer Contact Center 718-707-7771 / MyNYCHA; 2023 $24.1M security investment across 23 developments incl. Marble Hill (layered access control, steel doors); CB8 FY2027 quote. | Hero, §5 para 2, Two-door table (NYCHA row) |
+
+### Laws / rules (reused from silo research; not re-fetched)
+- N1/B6 MDL §51-c (tenant's own lock, ≤3" circumference, duplicate key on request; excludes municipal housing authority) → Two-door table, §10.5 H3 2/7, Shared Apartments, §9 Marble Hill Q.
+- N3/B7 HMC §27-2043 (owner's key lock + one key; class A heavy-duty deadbolt) and §27-2041 (viewer) → Two-door table, Owners section, §10.5 H3 7, FAQ door viewer.
+- B9 MDL §50-a (self-closing/self-locking entrances for class A built/converted after 1/1/1968; intercom 8+ units; pre-1968 on majority written request) → Two-door table, §9 Q2, Owners section.
+- B10 DHCR Fact Sheet #14 (entrance door security incl. lock and buzzer = required service) → Two-door section, §9 Q2.
+- N4/B11 Tenant Data Privacy Act (LL63/2021) → §8.5, Owners section, FAQ TDPA.
+- N6/B8 HPD fire safety (self-closing doors, open from inside without a key, no double-cylinder) → §10.5 H3 6.
+- N9 Admin Code §26-521 (unlawful to change a tenant's lock without a key) → Owners section.
+- B1 NYCHA handbook (bottom lock stays; additional lock is resident's responsibility; may be broken in emergency; $47.25 / +$50; drill-out not replaced; written consent for alterations) → Two-door table, §9 Marble Hill Q, §14, final repair capture.
+- N18 NY1 roll-down gate repeal (Council passed, sent to mayor) → §8.5.
+- S1 Fixr, LI-section LawnStarter, S2 Bob Vila, S4 August Connect 10–15 ft, S5 Yale Matter/Thread → §10.5, §14.
+- 2010 ADA door-hardware reach range (as used on parent page) → §8.5.
+
+### EMPTY (not accessible in build env)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: `EMPTY (not accessible in build env)`. §10.5 says so and uses claims from national cost guides/retail/marketplaces instead.
+- Reddit: `reddit r/bronx Kingsbridge apartment building door lock super buzzer` · Firecrawl search returned excerpts only (r/bronx "Locksmiths in Bedford/kingsbridge": resident asks for a locksmith "who won't just completely destroy my door"; r/bronx "Safety tips for living in Kingsbridge": couple just bought a co-op in the area; r/bronx "Applying for an apartment on Kingsbridge Ave between 233rd…"). Thread pages: `EMPTY (not accessible in build env)` (Firecrawl: site not supported). Nothing quoted on the page.
+- Yelp 1–3★ Kingsbridge locksmith / smart-lock installers: `EMPTY (not accessible in build env)`.
+- Kingsbridge-specific smart-lock / keyless-entry news story: none found (searches K18–K21 returned burglary and building-security items only) → `EMPTY` for the service category itself.
+- Published Amalgamated / Park Reservoir lock rule: not found → page says so.
+- Google Drive `AESS Website Photos/Smart Lock Installation`: nothing new (per batch brief); real AESS photos used from images/smart-lock-installation/.
+
+### Prices used (Bronx ×1.00; none invented — same figures as smart-lock-installation-bronx.html)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,500–$2,500 installed | single-door keypad or fob reader with electric strike | access-control-installation-bronx.html (via parent page) |
+| $250–$450 | new electric strike on a lobby door | door-buzzer-repair-allerton-bronx-ny.html (via parent) |
+| $295–$485 | failed electric strike repair | door-buzzer-repair-bruckner-bronx-ny.html (via parent) |
+| $225 first hour, then 30-min blocks | setup-only visit (app/bridge/codes) | research/tv-mounting-prices/BRIEF.md (Bronx), as on parent — same flag as parent |
+| $195/hr, 3-hr min ($585) | service/callback, not initial install | blueprint v2.3 §9 |
+| $47.25 / +$50 | NYCHA's own lockout lock charge (not AESS) | B1 |
+| $250–$400, avg ~$300 (Fixr); avg $330, $200–$460 (LawnStarter) | NATIONAL third-party | S1; LI section |
+| Own-door smart lock | no AESS figure → "Quoted flat at free walkthrough" | — |
+
+## Images (11)
+
+Real AESS photos from images/smart-lock-installation/aess-smart-lock-installation-*.webp (all 11 viewed), copied (cp, WebP kept) under Kingsbridge names. Rejected after viewing: video-doorbell-and-smart-lock (house number "128" visible), showing-customer-app-unlock (customer's face), suburban-front-door-smart-lock-van (suburban street, wrong context); connecting-interior-unit-cable, keypad-smart-deadbolt-brownstone-door, office-lever-smart-lock-install, programming-access-code-app not needed. These same source photos are also used on the parent Bronx page under their aess-* names.
+
+| File (images/smart-lock-installation/) | Source photo | Alt (as on page) |
+|---|---|---|
+| smart-lock-installation-kingsbridge-apartment-hallway-keypad-app-test.webp (hero, eager) | aess-smart-lock-installation-apartment-door-smart-lock-app.webp | AESS technician pressing the keypad of a smart deadbolt on apartment door 4A while checking the lock app, smart lock installation in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-locked-status-phone-check.webp | aess-smart-lock-installation-checking-lock-status-in-app.webp | Technician reading a Locked status on a smart lock app beside a keypad deadbolt on a wood door, smart lock check in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-latch-bolt-strike-alignment.webp | aess-smart-lock-installation-checking-latch-bolt-alignment.webp | Technician pointing at the latch on the edge of a wood door below a black keypad deadbolt during smart lock alignment check in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-keypad-wiring-repair.webp | aess-smart-lock-installation-servicing-keypad-wiring.webp | Gloved technician holding an opened keypad smart lock with its circuit board and wires exposed during a smart lock repair visit in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-measuring-old-bore-backset.webp | aess-smart-lock-installation-measuring-door-bore-for-deadbolt.webp | Gloved technician measuring from the old deadbolt bore to the door edge with a yellow tape measure before smart lock installation in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-keypad-outside-thumbturn-inside.webp | aess-smart-lock-installation-keypad-exterior-thumbturn-interior-view.webp | Two-panel view of a keypad smart deadbolt from outside and its thumb-turn from inside on a dark door, smart lock installation in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-glass-office-door-keypad-strike.webp | aess-smart-lock-installation-office-glass-door-smart-lock.webp | Technician fastening the strike plate beside a keypad deadbolt on a black aluminum-framed glass office door, business smart lock in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-fingerprint-unlock-app-log.webp | aess-smart-lock-installation-fingerprint-unlock-demo-app.webp | Finger on the fingerprint pad of a keypad smart lock while the technician shows a Fingerprint Unlocked screen in the app, Kingsbridge, Bronx smart lock setup |
+| smart-lock-installation-kingsbridge-removing-brass-deadbolt.webp | aess-smart-lock-installation-removing-old-brass-deadbolt.webp | Technician removing an old brass deadbolt from a wood door with a red drill driver before smart lock installation in Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-drilling-keypad-deadbolt-stoop-door.webp | aess-smart-lock-installation-drilling-keypad-lock-brownstone-stoop.webp | Technician in gloves driving a screw beside a keypad smart deadbolt on a wood front door at the top of a stoop with iron railings, Kingsbridge, Bronx |
+| smart-lock-installation-kingsbridge-battery-swap-interior-unit.webp | aess-smart-lock-installation-replacing-smart-lock-batteries.webp | Technician sliding fresh AA batteries into the interior unit of a smart lock on a dark apartment door, smart lock service in Kingsbridge, Bronx |
+
+Captions describe only what is visible; no customer, named building or completed local project is claimed. DAILY-LOG note: `images: 11 real AESS smart-lock photos (aess-*), copied under Kingsbridge names; same sources as the Bronx parent page`.
+
+## Question register — smart-lock-installation-kingsbridge-bronx-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. Someone pried our lobby door open with a crowbar — is a smart lock on my own door still worth it if the street door can be forced?
+2. The street door in our Kingsbridge building won't relock behind people — whose job is it to fix, and how do tenants report it?
+3. If the lobby door is often propped open, what should my apartment door do differently?
+4. Burglars have jammed apartment locks by snapping a key off inside them — can that be done to a smart lock?
+5. Amalgamated and Park Reservoir answer to a state housing agency — who has to approve a new lock on a co-op apartment door?
+6. Is a retrofit or a new keypad deadbolt the better fit for an Amalgamated or Park Reservoir apartment?
+7. A roommate moved out of our Kingsbridge apartment but still knows the code — can we cancel it without involving the landlord?
+8. Mom's aide has to get through the lobby and then her apartment door — can one code cover both?
+9. Can a fingerprint or a phone tap open the door when my hands are full after the climb up from Broadway?
+10. Marble Hill is legally part of Manhattan — which rules apply to a smart lock on a Marble Hill door?
+11. For a small Broadway shop, is a keypad deadbolt or a reader with an electric strike the better choice?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Can a digital door viewer replace the peephole when the smart lock goes in?
+2. Our building fronts one of the Kingsbridge step streets — how does your crew get tools to the door?
+3. Does the city's tenant data privacy law cover a smart lock I put on my own apartment door?
+4. Our apartment door has a strong closer that pulls it hard against the frame — will a motorized bolt still lock it?
+5. Do the smart locks you fit in Kingsbridge always keep a physical key?
+6. Will the lock alert me if someone keeps trying wrong codes or tampers with it?
+7. Will you install a cheap smart lock I ordered online from a brand I have never heard of?
+8. Can I unlock the door by voice through Alexa or Google, and should I?
+
+### Other question-form headings
+- None. CTA and repair-capture headings are statements ("Two Doors, One Visit, One Written Price", "Start With Two Photos From Your Building", "Kingsbridge Smart Lock Dead, Jammed or Off the App"), except the final capture "Locked Out on a Kingsbridge Hill? Call Before Anyone Drills" (not a question heading — does not end in "?").
+
+### De-dup notes
+Compared by meaning against every question on the 16 live smart-lock pages and the two batch siblings on disk (Bedford-Stuyvesant, Jackson Heights). Dropped during build: a door-ajar alert FAQ (same intent as Jackson Heights "Contractors keep propping the garden or service door open — can the door itself tell the super?"), an elevated-train signal Q (too close in framing to Jackson Heights' 7-train vibration Q — kept as a non-question H3 "Signal under the elevated tracks"), a language/instructions FAQ (Queens app-language Q), an employee-open-up audit Q (Suffolk), a roommate-own-codes Q (Manhattan), an auto-relock Q (Manhattan), a technician-travel-time FAQ (Manhattan), a pricing-parity FAQ (Bronx parent), a keep-original-hardware FAQ (Brooklyn). Partial overlaps left for the main run: Q7 roommate code removal vs Dutchess "wipe every old code between May move-out and move-in" (tenant vs landlord, mid-lease vs between leases); Q8 aide two-door access vs Queens "home attendant code only on those days" (lobby + apartment vs schedule); FAQ 3 TDPA (tenant's own lock) vs NYC hub "What does the TDPA change for an owner adding fob or app entry?" (different actor); Q2 entrance-door reporting vs Bronx Q6 DHCR rent cut (reporting route vs rent reduction).
+
+Masked-geo similarity (own check, paragraph-level difflib after removing geo names, warranty sentence, SMS consent and NAP/trust lines): highest pair vs any sibling 0.63 (vs Bronx parent); 5-gram Jaccard vs every sibling ≤ 0.024.
