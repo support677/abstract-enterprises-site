@@ -76,3 +76,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-rockland-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-orange-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-putnam-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nassau-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-suffolk-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-westchester-county | QUEUED
