@@ -2940,3 +2940,323 @@ Final build: 240,565 B, 13,105 rendered words; max non-constant masked similarit
 
 ### EMPTY (not accessible in build env)
 Google PAA, PASF, Answer the Public, AI Overview, Bing & DDG, Yelp 1–3★; r/astoria threads on failing Cat6; Astoria news on network-cable failures; Astoria-specific gas shut-off news; "Fedders"-type building source for Astoria; Kaufman Arts District founding date.
+
+# Merged from batch 2026-10-17 (cat6-repair-flushing-queens-ny)
+
+## Flushing, Queens (cat6-repair-flushing-queens-ny)
+
+Batch run 2026-10-17 (neighbourhood page). Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd, #bronx, copied from cat6-repair-queens.html) · up-link /cat6-repair-queens · hub /cat6-repair-nyc. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. "Silo" = source already logged in research/cat6-repair.md (not re-fetched).
+
+**Thesis (different from cat6-repair-queens and every sibling):** Downtown Flushing is a 24/7, nearly fully occupied district stacked vertically — basement and upper-level food courts, multi-level malls, upper-floor clinics and offices, and podium complexes (One Fulton Square, Tangram, Sky View Parc, Flushing Commons) with garages under them — and it re-tenants constantly. Cat6 fails at the seams between tenants and layers (shared ceilings, landlord switches, garage levels, previous tenants' splices) and in below-grade spaces that flash-flood. The repair is about proving whose run it is, working clean above food and patients, rating replacement cable for the space (plenum/garage), and leaving labels/port maps in the wording the staff actually use. Queens parent's angles (kitchen heat, mop water, roll-down gates, POS vendor stops at the wall, basement-apartment program, rowhouse masonry, LIC media panels) were avoided as questions.
+
+### Reddit (local)
+- `site:reddit.com flushing queens apartment ethernet port not working` · Firecrawl search (excerpts only; reddit not scrapeable in build env) →
+  - https://www.reddit.com/r/Flushing/comments/1spiap6/experience_with_internet_services_around_flushing/ — excerpt: "Just find a dock with Ethernet port and use it as often as you can. If you can't get FiOS get cable and avoid 5g for now." → background for the wired-over-wireless position (§10.5 H3 5); not quoted on page.
+  - https://www.reddit.com/r/Flushing/comments/1jgok85/best_karaoke_spots_in_flushing/ (from karaoke query below) — confirms KTV venues are a local business type → §8 business table (karaoke row); not quoted.
+- Flushing-specific Reddit threads about failing Cat6 in malls/clinics: EMPTY (none returned).
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on the page that the AI Overview could not be viewed; each H3 is framed as a commonly repeated assumption and corrected with the sources below. (Yelp appeared only as search-result excerpts for venue facts, not as 1–3★ reviews.)
+
+### Commercial district / business mix
+- `Downtown Flushing Transit Hub BID Main Street pedestrians busiest` · Firecrawl search → scrape (pdf parser) https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-flushing.pdf (NYC SBS Neighborhood 360° Commercial District Needs Assessment, Downtown Flushing, fieldwork Jan–Jun 2016, with Greater Flushing Chamber + Downtown Flushing Transit Hub BID): corridors Main St, Roosevelt Ave, Northern Blvd, Union St, 39th Ave, College Point Blvd; "active, 24/7 district"; "mix of mid-rise and new high-rise buildings"; "Nearly 100% commercial storefront occupancy rate"; "Active upper floor uses with a wealth of healthcare and professional services"; "home to 60+ commercial banks district-wide"; merchants "relocate to different storefronts within the district as new shopping centers and spaces become available"; 85% of surveyed merchants rent; "Merchants experience language and cultural barriers…"; Union Street "traditionally … center of the Korean American community … extended eastward … along Northern Boulevard"; College Point Blvd "home furnishing wholesalers and warehouses despite the recent introduction of new mixed-use shopping centers"; "Multi-Level Shopping Centers"; One Fulton Square, New York Food Court, Shops at SkyView Center pictured; population 68,902, density 50,663/sq mi, foreign-born 71%; Flushing–Main St avg weekday subway ridership 60,226 (2015); pedestrian count weekday morning 3,485 on Main St between 37th and 38th Aves. → §5 paras 1–2, §5.5 bullets 1–3, §6/§7 cards, §8 corridor cards, §10.5 H3 4/6/7, Block by Block section.
+- `New World Mall Flushing food court stalls Main Street` · Firecrawl search → scrape https://www.newworldmallnyc.com/food-court : "With 32 diverse brands" → §5 para 3, §5.5 bullet 4, §10.5 H3 5 ("thirty-odd vendors").
+  - Yelp excerpt "over 30 food stalls" and Tripadvisor excerpt "a dozen vendors" — user-generated, NOT used.
+- `Golden Shopping Mall Flushing basement food stalls 41-28 Main Street` · Firecrawl search → https://ny.eater.com/2024/4/19/24132546/golden-mall-flushing-reopening-best-dishes (excerpt): Golden Mall, 41-28 Main Street; basement food court opened 1990; "finally closed in 2019"; revamped/reopened (Eater, Apr 19 2024) → §5 para 3.
+- `Flushing Queens karaoke KTV private rooms Main Street` · Firecrawl search → https://www.9plusktv.com/ (excerpt: "over 20 uniquely themed private rooms"); Yelp search excerpt (Wave KTV, 40-33 Main St Fl 2); https://singkaraok3.com/ (excerpt: 156-16B Northern Blvd, hours to 2am / 4am Fri–Sat) → §8 Union St/Northern Blvd card ("open into the small hours"), §8 business table karaoke row. No venue named on page.
+- `Flushing leaders bash Main Street busway plan` · scrape https://queenseagle.com/all/flushing-leaders-bash-main-street-busway-plan (David Brand, July 17 2020): Main St busway 0.3 mile Northern Blvd to Sanford Ave/Kissena Blvd; BID survey >200 vendors opposed → background only (access/crowds); NOT used on page.
+
+### Building stock / developments
+- `Tangram Flushing mixed-use development apartments office retail 39th Avenue` · Firecrawl search → scrape https://newyorkyimby.com/2016/12/construction-underway-on-tangrams-13-story-192-unit-residential-building-at-133-27-39th-avenue-flushing.html (Reid Wilson, Dec 5 2016): four-building, 1.2M sq ft mixed-use on block bound by College Point Blvd, Prince St, 37th and 39th Aves; 13-storey 192-unit condo at 133-27 39th Ave; "four-level, 377-car underground parking garage"; 14-storey office building at 37-12 Prince St; hotel planned; ~30 shops and 24,000 sq ft food hall → §5 para 3, §7 podium card, §9 garage Q, Block by Block.
+- `One Fulton Square Flushing Hyatt Place 39th Avenue Prince Street mixed-use` · Firecrawl search → scrape https://www.qchron.com/editions/north/new-hotel-opens-in-downtown-flushing/article_7de80dc7-aef3-5fca-846e-40685d4261a7.html (Liz Rhoades, June 26 2014): 168-room Hyatt Place; $125M, 330,000 sq ft; "retail and medical space and luxury condos"; entrances on Prince St, 39th and Roosevelt Aves; "underground parking for 299 cars"; F&T Group → §5 para 3, §8 39th Ave card, §9 garage Q.
+- `Shops at SkyView Center Flushing College Point Boulevard Skyview Parc apartments towers` · Firecrawl search → https://www.homes.com/building/sky-view-parc-flushing-ny/b-c7gxr21kcbr8l/ (excerpt: "A 448-unit condo atop a busy mall in Flushing designed by Perkins Eastman"); https://thegrandsvp.com/ (excerpt: direct access to The Shops at SkyView; 40-26 College Point Blvd) → §5 para 3, §7 podium card, §8 College Point Blvd card.
+- Scrape https://newyorkyimby.com/2026/09/two-tower-second-phase-of-flushing-commons-breaks-ground-in-flushing-queens.html (Michael Young & Matt Pruznick, Sept 17 2026): phase two broke ground at 37-10 138th St; F&T Group + NYCEDC + YMCA; tallest building 18 storeys; 156 condos, ~132,000 sq ft retail/dining, 123,000 sq ft office, 63,000 sq ft YMCA; phase one completed 2017 with 148 condos, 90 office condominiums, ~30,000 sq ft retail and 982 parking spaces; site formerly surface parking; completion expected June 2029 → §5 para 3, §7 office-condo card, §8 37th Ave/138th St card, §10.5 H3 2, §13 Flushing Commons card, §9 garage Q.
+  - Reader comment (David of Flushing) on the same page: retail being replaced by medical clinics; whole third floor at 39th Ave & Union St medical — user comment, NOT quoted; page relies on the SBS upper-floor-healthcare finding instead.
+- `Queens Crossing Flushing 136-20 38th Avenue office medical condos retail` · Firecrawl search → LoopNet/MyStateMLS excerpts (office/medical condo units) → background only; NOT used.
+- `Special Flushing Waterfront District rezoning approved 2021 apartments Flushing Creek` · Firecrawl search → excerpts (zr.planning.nyc.gov ch. 7; flushingwaterfront.com "1,725 units proposed"; advocacy sites) → contested/advocacy figures; NOT used.
+
+### Demographics / language
+- `Flushing Queens Chinese language spoken at home percent limited English proficiency community district 7` · Firecrawl search → https://www.aafederation.org/research/asian-languages-in-new-york-city/ (excerpt): "Queens Community District 7 (Flushing, Murray Hill & Whitestone) had the largest Chinese-speaking population, at 82,588 speakers" → §5.5 bullet 5, §9 labels Q context. Data USA excerpt (36.8% of CD7 households speak Chinese at home) — not used.
+
+### Landmarks
+- `Flushing Town Hall 1862 Northern Boulevard landmark history` · Firecrawl search → https://en.wikipedia.org/wiki/Flushing_Town_Hall (excerpt: built 1862; NYC Landmark 1968) and https://www.flushingtownhall.org/mission-and-history (excerpt: 1862 landmark owned by the City; 9-year $8M restoration from 1990; 308-seat theater) and NYC DDC Facebook excerpt (Northern Boulevard at Linden Place) → §8.5 landmark bullet, §13 card.
+- `Bowne House Flushing Quaker Meeting House oldest house of worship Queens` · Firecrawl search → https://flushingfriends.org/history/40-2/ (excerpt: "Built in 1694 by John Bowne and other early Quakers, the Old Quaker Meeting House is, by all known accounts, the oldest house of worship in New York State"); https://www.bownehouse.org/nearby (excerpt: Quakers had met in the Bowne House for 30 years; land acquired 1692); nylandmarks Facebook excerpt (Bowne House, 37-01 Bowne Street; Meeting House on Northern Boulevard) → §8.5 landmark bullet, §13 cards.
+- `Queens Public Library Flushing branch Main Street busiest library building` · Firecrawl search → https://www.queenslibrary.org/about-us/locations/flushing (41-17 Main Street) and http://www.queenslibrary.org/about-us/news-media/blog/6609 (excerpt: closes ~5 weeks from Monday April 27 2026 for essential safety improvements) → §13 card.
+- `NewYork-Presbyterian Queens hospital Flushing beds Main Street` · Firecrawl search → https://www.nyp.org/locations/queens/nyp-queens (56-45 Main Street, Flushing NY 11355) → §13 card, Block by Block (Kissena Blvd).
+
+### Local news / hyperlocal / flooding
+- `Hurricane Ida Flushing flooding basements College Point Boulevard 2021` · Firecrawl search →
+  - https://ny1.com/nyc/all-boroughs/news/2026/07/19/flushing-residents-deal-with-flash-flooding-aftermath (NY1, July 19 2026; full excerpt in result): Saturday flash flooding submerged basements and garages in Flushing; blocked drains; water overflowed "from their toilet and bathtub, flooding their basement"; same area had severe flooding that killed multiple people during Ida (2021); OEM commissioner Christina Farrell cites topography; pumps distributed → §5 para 4, §5.5 bullet 6, §9 sewer-backup Q, §10.5 H3 3, After the Storm section.
+  - https://www.nyc.gov/site/cdbgdr/hurricane-ida/hurricane-ida.page (excerpt): "only 6.9% of Ida-impacted buildings are in the 100-year floodplain, and 13.7% are in the 500-year floodplain" → §10.5 H3 3.
+- Queens Chronicle / QNS / Patch items on Cat6 or network-cable repair in Flushing specifically: EMPTY.
+
+### Technical / code (new this page)
+- `NEC 800.154 plenum cable CMP required ceiling space used for environmental air communications cable` · Firecrawl search → https://forums.mikeholt.com/threads/plenum-rated-cable-in-emt.64549/ (excerpt quoting code: "Cables installed in ducts, plenums, and other spaces used for environmental air shall be Type CMP"); https://winnieindustries.com/resources/knowledge_center/frequently-asked-questions/air_handling_faq/ (excerpt: CMP required in plenum spaces, e.g. above a suspended ceiling used for air handling) → §8.5 plenum bullet, §9 plenum Q, equipment card, repair table.
+- `sewage backup flooded basement cleanup Category 3 black water porous materials discard electrical cables` · Firecrawl search → https://www.belfor.com/us/en/resources/category-3-water-damage-guide/ (excerpt: sewer backup = Category 3; porous materials discarded) and https://northwestarkansas.pauldavis.com/blog/what-to-do-when-sewage-backs-up-into-your-nwa-home-a-step-by-step-emergency-guide/ (excerpt: "The IICRC standard for Category 3 water is removal, not cleaning") → §9 sewer-backup Q (paraphrased as restoration-industry practice), After the Storm checklist.
+- Silo sources reused: NYC Electrical Code (2020 NEC + amendments, full effect Dec 21 2025); NEC abandoned-cable rule; DOB post-Ida advice; NYC Health restaurant grades (29,000 restaurants, letter grades) → §9 health-inspection Q; Toast network-cable troubleshooting article → §10.5 H3 5; Fixr Jan 2025 national figures → §14.
+- Lead-lined imaging rooms and bullet-resistant teller partitions: described as general construction practice with no numeric claims and no Flushing-specific source; answers commit only to not penetrating the assembly. Flag for review.
+
+### Prices used (live AESS pages only; no new prices)
+- $195/hr, 3-hour minimum ($585) — cat6-repair-queens.html / network-cable-repair-queens.html.
+- Replacement drop from $175 — cat6-repair-queens.html table (network-cable-repair-queens figure).
+- Exterior/garage entry from $194 per penetration — as published on cat6-repair-queens.html.
+- Comparison only: Cat5e $233 / Cat6 $272 / Cat6A $388 — cat6-installation-queens (as quoted on cat6-repair-queens.html).
+- Fixr Jan 2025 $125–$250/drop, $45–$75/hr — national, labelled.
+- No neighbourhood premium applied; warranty sentence verbatim.
+
+### Images (11) — Drive "AESS Website Photos/Cat6 Repair" EMPTY (checked by main run); library images/cat6-repair/ used (cp, WebP unchanged, all md5-distinct, each viewed before naming)
+| images/cat6-repair/ | copied from | section |
+|---|---|---|
+| cat6-repair-flushing-pos-counter-switch-cords.webp (hero) | aess-cat6-repair-pos-counter-cable-repair.webp | hero |
+| cat6-repair-flushing-nicked-jacket-ceiling-grid-edge.webp | cat6-repair-nassau-county-nicked-jacket-on-metal-edge.webp | §5 |
+| cat6-repair-flushing-wall-jack-open-no-link.webp | cat6-repair-nassau-county-wall-jack-no-link-test.webp | §6 |
+| cat6-repair-flushing-replacement-run-from-cat6-carton.webp | cat6-repair-nassau-county-ceiling-replacement-feed.webp | §7 |
+| cat6-repair-flushing-dome-camera-no-poe-reading.webp | cat6-repair-nassau-county-poe-dome-camera-no-power.webp | §8 |
+| cat6-repair-flushing-data-voice-plate-punch-down.webp | cat6-repair-nassau-county-data-voice-plate-retermination.webp | §9 |
+| cat6-repair-flushing-tone-probe-labelled-patch-cords.webp | cat6-repair-suffolk-county-tone-probe-labelled-cords.webp | §10 |
+| cat6-repair-flushing-wire-map-fail-crossed-open.webp | cat6-repair-nassau-county-wire-map-crossed-open-pair.webp | §10.5 |
+| cat6-repair-flushing-partition-outlet-row-retermination.webp | cat6-repair-suffolk-county-outlet-row-retermination.webp | §12 |
+| cat6-repair-flushing-ceiling-bundle-flashlight.webp | cat6-repair-nassau-county-ceiling-run-flashlight-inspection.webp | §13 |
+| cat6-repair-flushing-desk-data-ports-labelled.webp | cat6-repair-nassau-county-desk-outlet-identification.webp | §15 |
+DAILY-LOG note: `images: 11 reused from images/cat6-repair/ library (Nassau/Suffolk/aess sets; no Flushing-specific photos)`. Review note: library photos appear AI-generated (same caveat as earlier pages); none shows a Flushing location; captions describe only what is visible; the hero photo shows a technician's face in profile (AESS uniform), no customer.
+
+### Keyword notes (five layers, Flushing geo)
+- Service: Cat6 repair Flushing, Cat6 cable repair Flushing Queens, food court POS cable repair, kiosk Ethernet repair, clinic network jack repair, plenum Cat6 replacement, Cat6 certification, port mapping/labelling.
+- Problem: stall register offline, shared-ceiling damage by neighbour fit-out, kiosk relocation, non-plenum cable in return-air ceiling, garage camera corrosion, flash-flood/sewer-backup basement, unlabelled turnover cable.
+- Technology: Cat6/Cat6A, CMP/CMR ratings, keystone/punch-down, certification tester, fault distance, toner, PoE load test, conduit/metal raceway, firestop.
+- Industry: food-court vendors, malls, banks and money-transfer counters, medical/dental suites, accounting/travel/insurance offices, hotels, karaoke lounges, wholesalers, office-condo owners, condo associations.
+- Geographic: Flushing; Main St, Roosevelt Ave, 39th Ave, Prince St, Union St, Northern Blvd, College Point Blvd, 37th Ave/138th St, 40th/41st Rd, Kissena Blvd; Murray Hill, Broadway–Flushing, Auburndale, Kissena Park, Queensboro Hill, Pomonok, Kew Gardens Hills, Fresh Meadows, College Point, Whitestone, Bayside, Corona, Willets Point.
+
+## Question register — cat6-repair-flushing-queens-ny
+
+§9 "Questions Answered" (H3):
+1. Does opening the ceiling above our food-court stall put our health inspection at risk? (Food courts)
+2. The mall wants to move our island kiosk further along the concourse — can the existing Cat6 follow it, or does a new run have to come from the closet? (Malls)
+3. Does the cable above a mall's drop ceiling have to be plenum-rated, and what happens if our old run isn't? (Malls/offices)
+4. Our Cat6 runs through the underground garage beneath the building — what does garage air and traffic do to it? (Podium buildings)
+5. Our dental office's X-ray room has shielded walls — can a dead Cat6 run to the imaging computer be repaired without compromising the shielding? (Clinics)
+6. Our counter sits behind a bullet-resistant partition — how is the Cat6 to the window terminal repaired without disturbing the partition? (Financial counters)
+7. Our patch panel was labelled in Chinese by the last installer and our new office manager reads only English — can the labels be redone in both languages? (Labels)
+8. Sewer water backed up into our basement during the storm — should the cleanup company or the cabling contractor go in first? (Flooding)
+
+FAQ (§17, = FAQPage schema):
+F1. Can you repair the Cat6 that feeds a self-order kiosk or a table-ordering screen?
+F2. Do you repair the network cable to a staff time clock or attendance terminal?
+F3. Can the test results go to both our business and the mall or building management?
+F4. Do you repair the Cat6 behind a hotel front desk?
+F5. Do you repair the Cat6 that feeds supermarket checkout lanes and scales?
+F6. Do you repair the Cat6 in a karaoke lounge's private rooms?
+F7. Do you need floor plans or building drawings before a repair?
+F8. How can we confirm that the technician who arrives is licensed?
+F9. Can you repair the Cat6 at a pharmacy counter without holding up prescriptions?
+F10. Will a cable repair change our network settings or IP addresses?
+
+Other "?" headings: "Need Repair in Flushing Before the Dinner Crowd Arrives?" (repair capture), "A Flushing Stall, Desk or Camera Offline Right Now?" (closing).
+
+De-dup notes: every question compared by meaning against all 383 questions/question-headings on the 16 live cat6-repair-*.html pages and the registers in research/cat6-repair.md (and against cat6-repair-riverdale-bronx-ny / -new-dorp-staten-island-ny as on disk during the build). Rejected as too close: shared-closet ownership (Orange #213 "which runs are whose"), adjacent-tenant ceiling (SI two-family ceiling), Wi-Fi instead of cable (Queens F3), inherited tenant cable (Queens F7), off-hours/before-opening scheduling (Orange, LI), pre-season testing (SI), acoustic panels (Ulster), riser/base-building responsibility (Manhattan), two-sites-one-visit (Orange/Westchester), parking charge (would need an unpublished price policy). Replaced after reading the batch siblings on disk: dental-chair floor-box FAQ (New Dorp asks what damages the dental-chair Cat6), floor-cord FAQ (Riverdale rug patch cord; New Dorp flat cable under carpet), clinic patient-information FAQ (New Dorp patient-records question), and the licence FAQ narrowed to licence verification only (Riverdale asks about same-day certificates of insurance). Borderline, flagged for review: F3 (results to two parties) vs Queens F4 (keeping results) — different intent (recipients vs retention); §9 Q8 (sewer backup sequencing) vs NYC "cellar closet took on water — can the Cat6 dry out and be reused?" — different intent (contamination and order of trades vs reuse).
+
+### Build checks (2026-10-17)
+- tools/check_page.py cat6-repair-flushing-queens-ny --no-registration: only remaining failures are the 16 "live sibling … doesn't link back" lines (sibling/parent wiring is the main run's job). 12,347 rendered words; 180,294 bytes; title 58; meta 157; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10.
+- Masked-geo similarity (simcheck.py vs cat6-repair-queens.html): MAX 0.641. Parallel run vs all 17 other cat6-repair pages (incl. riverdale + new-dorp as on disk): every paragraph < 0.65 after rewrites (one 20-word home-link sentence that hit 0.66–0.74 was cut below the 20-word threshold).
+- Size window: siblings in flux during the batch (riverdale ~176.2K, new-dorp ~233.0K at last check); this page sits between riverdale+2 KB and brooklyn−2 KB — re-check after the batch settles.
+
+# Merged from batch 2026-10-17 (cat6-repair-riverdale-bronx-ny)
+
+## Riverdale, Bronx (cat6-repair-riverdale-bronx-ny)
+
+Batch run 2026-10-17. Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx; LocalBusiness block copied from cat6-repair-bronx.html with url/image set to this page) · up-link /cat6-repair-bronx, hub /cat6-repair-nyc. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. Silo-wide technical sources (Fluke NEXT, TSB-155/184, NEC 800.25, NYC Electrical Code, Fixr, CCA vendor blog) reused from the silo section of research/cat6-repair.md.
+
+**Thesis (different from cat6-repair-bronx and the Flushing/New Dorp batch pages):** Riverdale's Cat6 is owner-added — retrofitted by co-op shareholders, homeowners and integrators, not by developers — so the person at the dead jack usually owns the wall, pays for the repair, and works under somebody else's rules: the co-op's proprietary lease/house rules/alteration agreement, Fieldston's private streets and landmark district, and the Special Natural Area District that protects the ridge's slopes, rock and trees. Failures follow the owner's shortcuts (terrace sliders, AC sleeves, rugs, combination/duplex joins, shallow outdoor runs over rock and roots, integrator wiring in plaster). Parent's angle (new-building defects vs pre-war retrofit, agent-run rentals) avoided.
+
+### Building stock / housing
+- `Furman Center Riverdale Fieldston Kingsbridge BX08 homeownership rate units built` · Firecrawl search → scrape https://www.furmancenter.org/neighborhoods/riverdale-fieldston/ (directQuote; last updated 05/06/2026): "In 2024, the homeownership rate in Riverdale/Fieldston was 38.4%, which is higher than the citywide share of 32.7%"; "Between 2010 and 2025, 2,087 units in 4+ unit buildings were built in Riverdale/Fieldston"; population 95,283 (2024) → §5 para 1–2, §5.5 bullets 1–2. (Bronx 19.7% / 63,066 from the Bronx section of the silo file.)
+- `Riverdale Bronx co-op apartment buildings high-rise postwar Henry Hudson Parkway housing stock` · Firecrawl search → scrape https://cooperatornews.com/article/a-river-runs-through-it (The Cooperator, Annette Hall, May 2010, directQuote): "The post World War II building boom hit Riverdale with multi-family dwellings and large apartment buildings, many of which eventually became co-ops"; "co-ops tend to predominate in Riverdale"; broker: "a prewar building east of the highway" → §5 para 1, §7 cards 1–2.
+  - Same search, excerpts: https://www.compass.com/building/windsor-north-bronx-ny/293528534956157461/ — "Henry Hudson Pkwy W … Co-op in Riverdale 133 Units, Built in 1961, Post-war Elevator" → §7 card 1 (building-type example only; no claim of work there). https://www.nybits.com/apartments/bronx_coop_buildings.html ("A post-war high-rise building. The Fountain Garden Apartments (4499 Henry Hudson Parkway)") and https://streeteasy.com/building/3701-henry-hudson-pkwy-w-bronx/4c ("The Georgian … a postwar co-op") → background, not used.
+- `Association of Riverdale Cooperatives and Condominiums ARC member buildings apartments` · Firecrawl search → https://www.riverdalepress.com/stories/riverdale-cooperatives-association-re-elects-board-continues-community-advocacy,151840 (excerpt): "more than 100 co-operatives and condominiums part of the membership"; https://arc-riverdale.com/join-arc/ (excerpt): "ARC represents all of the co-ops and condominiums in Riverdale, Bronx, NY — essentially buildings in the 10463 and 10471 zip codes" → §5.5 bullet 3, sources list.
+- `co-op alteration agreement minor alteration low voltage wiring board approval contractor insurance certificate New York co-op` · Firecrawl search → https://www2.nycbar.org/RealEstate/Forms/Coop_Condo_%20Form_Alteration_Agreement_Coops_Commentary10.pdf (NYC Bar model alteration agreement, excerpt): contractors' insurance "shall name the Corporation"; Shareholder to deliver certificates → "House Rules" section para 2, §10.5 H3 7, FAQ F2. (myhomeus.com / gallerykbny / miltoncoste excerpts — background, not used.)
+
+### Landmarks / protected ground
+- `Special Natural Area District Riverdale zoning steep slopes trees rock outcrops NA-2` · Firecrawl search → https://zr.planning.nyc.gov/article-x/chapter-5 (excerpt): §105-942 SNAD-2 "Riverdale, Spuyten Duyvil and Fieldston … This ridge contains steep slopes, rock outcrops, ponds, brooks, swampy areas and mature trees", last amended 5/21/1975; steep slope = incline of 25% or greater; site plans show trees of six-inch caliper or more; §105-50(c) filling, excavating, grading "shall avoid creation of steep slopes or conditions causing erosion" → "Outdoor Cat6 on the Riverdale Ridge" para 1 & 3, §5.5 bullet 5, §9 Q6/Q7.
+  - scrape https://www.riverdalenature.org/planning-and-zoning-in-nyc (Riverdale Nature Preservancy, directQuote): protected features — mature trees 6" caliper or greater; steep slopes (≥25%), natural topography, topsoil; rock outcrops and erratic boulders; wetlands; botanic environments → ridge section para 1.
+- `Fieldston Historic District Landmarks Preservation Commission privately owned streets houses Riverdale` · Firecrawl search → https://en.wikipedia.org/wiki/Fieldston,_Bronx (excerpt): privately owned; streets and common areas owned by the Fieldston Property Owners' Association, which plows streets, does sewer repair, cares for about 1000 trees, runs a security patrol; parking restricted to residents and guests; LPC designated the Fieldston Historic District January 10, 2006, 252 houses and related structures; Baum designed 62 houses, Gregory 42; bounded by Manhattan College Parkway, Henry Hudson Parkway, 250th Street and Broadway; Horace Mann and Ethical Culture Fieldston in Fieldston, Riverdale Country just north → §5 para 3, §5.5 bullet 4, §7 card 3, ridge para 4, §9 Q8, §13 card 3, FAQ (parking item later replaced, see register notes).
+  - https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf (LPC designation report, excerpt): roads follow natural contours, Delafield Estate retained ownership of roads; houses in "picturesque styles following the strict design guidelines of the Fieldston Property Owners Association"; examples incl. "hipped tile roof, stone base"; 1960s–70s houses incl. 4660 Waldo Ave "with a bridge over a … ravine to reach the building" → §7 cards 3 and 5, §13 intro.
+- `Riverdale Historic District Landmarks Preservation Commission 1990 designated villas Independence Avenue` · Firecrawl search → scrape https://www.nypap.org/preservation-history/riverdale-historic-district/ (directQuote): 100-acre parcel purchased in 1852; divided into seven estates; five original homes survive; "earliest known railroad suburb of New York City"; designated October 16, 1990 → §5.5 bullet 5, §7 card 4, §13 card 2.
+- `Wave Hill public garden Riverdale 28 acres Hudson River Palisades history` · Firecrawl search → https://en.wikipedia.org/wiki/Wave_Hill (excerpt): 28-acre estate in Hudson Hill; Wave Hill House 1843 gray fieldstone; given to the City in 1960; about 65,000 visitors a year → §13 card 1.
+
+### Corridors / commercial
+- `Riverdale Avenue Johnson Avenue shopping strip small businesses Riverdale Bronx merchants Riverdale Press` · Firecrawl search → scrape https://www.riverdalepress.com/stories/the-heart-of-our-communities,47105 (Pearl Korn, Oct 21 2010, directQuote): Johnson Avenue "perhaps four blocks of 35 stores, 4 banks, a supermarket, a CVS Pharmacy … a Kosher butcher, a shoe maker"; Riverdale Avenue "about 50 stores on this two-block shopping area" → §8 card 1.
+  - scrape https://www.riverdalepress.com/stories/study-explores-retail-challenges-and-development-patterns-in-northwest-bronx-neighborhoods,230746 (Michelle Mullen, May 2026, directQuote): CB8 study by Kahdija Jabbi; CD8 includes Riverdale, Kingsbridge, Marble Hill, Kingsbridge Heights, Spuyten Duyvil, Fieldston; storefront vacancy "about 6.9 percent"; North Riverdale eateries, salons, specialty businesses around Mosholu Avenue and Riverdale Avenue; broker: Riverdale Avenue "one of the strongest retail corridors in the district" → §8 cards 2–3 and closing para, FAQ F5.
+- `Riverdale Bronx neighborhood Wikipedia Manhattan College Horace Mann Riverdale Country School Hebrew Home Henry Hudson Parkway Metro-North` · Firecrawl search → https://en.wikipedia.org/wiki/Riverdale,_Bronx (excerpt): Riverdale Avenue primary north–south thoroughfare; ZIPs 10463/10471 (10471 north of Manhattan College Parkway and 239th St; 10463 shared with Kingsbridge and Marble Hill); sections Central Riverdale, Fieldston, Hudson Hill, North Riverdale, Mosholu, Spuyten Duyvil/South Riverdale (incl. business district at W 231st St and Broadway), Villanova Heights; Hill Schools; Manhattan University; University of Mount Saint Vincent; SAR, Kinneret; many synagogues and churches → §7 card 6, §8 cards 4–5, §13, "Section by Section", FAQ F4/F5.
+
+### Local news / hyperlocal
+- `Riverdale Press internet outage Optimum Verizon Fios Riverdale building residents` · Firecrawl search → scrape https://www.riverdalepress.com/stories/verizons-fiber-optic-network-nears-completion-in-riverdale,54591 (Shant Shahrigian, July 10 2014, directQuote): 13 miles of underground and aerial fiber; buildings need only "lateral" street-to-building cables; "Co-ops lead the way"; board member at 3935 Blackstone Ave. → House Rules checklist bullet 5.
+  - Same search → scrape https://bronx.news12.com/5000-con-edison-customers-in-the-bronx-without-power-amid-heat-wave (July 3 2026, directQuote): "about 1,000 customers in Riverdale are without electricity"; Con Edison "reduced voltage by 8% in parts of northern Manhattan and the northwest Bronx, including Riverdale, Marble Hill, Kingsbridge and Van Cortlandt Park" → §5.5 bullet 6, FAQ F3.
+  - Optimum outage pages / Downdetector / CBS Optimum outage (excerpts) → not Riverdale-cabling specific, not used.
+- Riverdale Press / Bronx Times items about building data cabling or Cat6 specifically: EMPTY.
+
+### Reddit
+- `site:reddit.com Riverdale Bronx apartment ethernet OR internet OR wiring co-op` · Firecrawl search → results were housing threads only (r/bronx https://www.reddit.com/r/bronx/comments/1e1i0sq/is_the_apartment_search_doomed/ "These co-ops are so expensive now"; r/NYCapartments https://www.reddit.com/r/NYCapartments/comments/1r7bwtf/why_dont_more_people_look_to_woodlawn_bronx_or/ "Spent 10 years in Riverdale … quiet, nice parks, and surprisingly green"; r/AskNYC co-op purchase thread) → background only (co-op ownership), not quoted. Riverdale threads about Ethernet/cabling faults: EMPTY.
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on the page that the AI Overview was not visible; each H3 is a commonly repeated claim (Fixr cost range, re-crimp, mesh Wi-Fi, "anyone can do it", indoor cable outdoors, link light = pass, "no permission needed in a co-op") corrected with sourced facts.
+
+### Local licensing / permits / code
+- NYC Electrical Code = 2020 NEC + NYC amendments, full effect Dec 21 2025 (nyc.gov, silo) → §8.5 bullet 1.
+- NEC 800.25 abandoned cable (EC&M, silo) → §8.5 bullet 2.
+- LPC permit for exterior work in historic districts (nyc.gov LPC applications page, silo Bronx section) → ridge para 4, §8.5 bullet 4, §9 Q8.
+- SNAD rules (ZR 105-942, 105-50) → above.
+- Firestopping of rated penetrations: general practice, no Riverdale-specific source.
+
+### Prices used (Bronx §9 multiplier 1.00×; figures exactly as published on cat6-repair-bronx.html)
+- $195/hr, three-hour minimum ($585); additional time $195/hr.
+- Replacement run from $175 per drop.
+- Exterior entry sealed and bonded from $185 per penetration.
+- New-install comparison Cat5e $233 / Cat6 $272 / Cat6A $388 per drop to 100 ft.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — labelled third-party.
+- Insurance certificate at no charge — process statement (no price), not a new price.
+
+### Images (11) — Drive "AESS Website Photos/Cat6 Repair" EMPTY (checked by main run); library images/cat6-repair/ used, md5-unique, each viewed before naming
+| images/cat6-repair/ | Source (same folder) |
+|---|---|
+| cat6-repair-riverdale-dome-camera-no-poe.webp (hero) | cat6-repair-putnam-county-poe-dome-no-power-reading.webp |
+| cat6-repair-riverdale-wall-jack-open-result.webp | cat6-repair-westchester-county-wall-jack-no-link-test.webp |
+| cat6-repair-riverdale-abraded-bundle-on-metal-edge.webp | cat6-repair-westchester-county-crushed-bundle-over-duct.webp |
+| cat6-repair-riverdale-panel-punch-down-labelled.webp | cat6-repair-westchester-county-panel-port-reterminate.webp |
+| cat6-repair-riverdale-split-jacket-at-steel-edge.webp | cat6-repair-westchester-county-split-jacket-exposed-pairs.webp |
+| cat6-repair-riverdale-corroded-plug-block-wall.webp | cat6-repair-putnam-county-corroded-plug-block-wall.webp |
+| cat6-repair-riverdale-wire-map-fail-tester.webp | cat6-repair-westchester-county-wire-map-fail-screen.webp |
+| cat6-repair-riverdale-rj45-plug-crimper.webp | cat6-repair-putnam-county-rj45-plug-and-crimper.webp |
+| cat6-repair-riverdale-tone-probe-labelled-patch-panel.webp | cat6-repair-westchester-county-tone-probe-labelled-panel.webp |
+| cat6-repair-riverdale-flashlight-ceiling-bundle.webp | cat6-repair-rockland-county-flashlight-ceiling-bundle-check.webp |
+| cat6-repair-riverdale-ceiling-access-point-cable.webp | cat6-repair-rockland-county-ceiling-access-point-cable-end.webp |
+Captions/alts describe only what is visible; none claims a Riverdale location, customer, named building or completed project. Captions rewritten after simcheck flagged similarity to the Westchester/Rockland/Putnam captions of the same photos. Note: these library photos appear AI-generated (uniform branding, idealised scenes), as already noted in the Bronx section.
+
+## Question register — cat6-repair-riverdale-bronx-ny
+
+§9 "Questions Answered" (H3), clusters "Inside co-op and condo apartments" / "Houses on the ridge":
+1. We combined two apartments into one — why do the jacks on the side that used to be the other unit never join our network?
+2. The Cat6 to our terrace camera was run under the sliding door and has gone dead — what replaces a cable pinched in a door track?
+3. A previous owner pushed our Cat6 through the through-wall air-conditioner sleeve — is that why the link fails every summer?
+4. Where does the Cat6 linking the two floors of a duplex apartment usually fail?
+5. Under a co-op proprietary lease, is the Cat6 inside our apartment walls the shareholder's to repair or the corporation's?
+6. Our house is inside the Special Natural Area District — does that change how a failed buried Cat6 run can be replaced?
+7. Roots from a mature tree have lifted the path over our buried Cat6 — is the cable underneath likely to be damaged?
+8. Fieldston's streets are privately owned — does a repair that has to cross the curb or the roadway involve the property owners' association?
+9. A wall touch panel for our home-automation system has gone blank — could the Cat6 behind it be the cause?
+
+FAQ (§17, = FAQPage schema):
+F1. What will one dead jack in a Riverdale co-op apartment cost to put right?
+F2. Our managing agent wants a certificate of insurance naming the co-op before any work — can you send it the same day?
+F3. During a heat wave Con Edison lowered the voltage in Riverdale — can that harm our Cat6 or the cameras on it?
+F4. Can you repair the Cat6 that feeds livestream cameras in a synagogue or church sanctuary?
+F5. Do you also repair Cat6 in Spuyten Duyvil, Kingsbridge and Marble Hill?
+F6. The integrator who wired our house has closed — can you look after the cabling from now on?
+F7. Can a Cat6 repair be finished inside the hours a co-op allows for contractor work?
+F8. How far is Riverdale from your base, and how soon can a technician arrive?
+
+Other "?" headings: "Wired Link Gone Dark Between Spuyten Duyvil and the Yonkers Line?" (repair capture), "Riverdale Jack Still Dead After Dinner?" (closing).
+
+De-dup notes: compared by meaning against every question register in research/cat6-repair.md and every question/question-heading on the cat6-repair-*.html pages on disk (738 lines extracted), including the same-batch Flushing and New Dorp pages. Avoided: co-op board approval (Westchester F6), courtyard-wall repair from inside (Queens Q12), historic review board (Putnam Q10) — kept as body text only; ledge trenching (Putnam), wetland/watershed permits (Putnam), Lake Mahopac dock, buried-conduit ice, falling limb aerial run, rodents, steam riser, dumbwaiter chase, provider-moved router, "test before closing", "match existing plates", "Saturday" and "home for the visit" questions. Replaced after reading New Dorp's page: parking on private streets (New Dorp asks where the technician parks) → livestream sanctuary cameras; patch cord under the rug (New Dorp asks about flat cable under carpet) → integrator-gone ongoing care. Related-but-distinct: F1 (one-jack all-in cost) vs Bronx F2 (is the Bronx priced differently) and NYC F1 (is the minimum charged for a 20-minute fix); Q5 (ownership/responsibility under the proprietary lease) vs Westchester F6 (board approval) and Queens F7 (invoice the landlord for base-building cable); Q6 (SNAD) vs Putnam wetland/watershed (different regulation, different features); F3 (voltage reduction) vs Suffolk "power came back but links never did" (cause and equipment-vs-cable framing differ).
+
+Masked paragraph similarity (scratchpad simcheck.py, plus fastsim.py = same masking/difflib with a 0.59 prefilter): final max 0.630 vs cat6-repair-bronx (NYC Electrical Code bullet). All other siblings < 0.61 after rewrites (nyc 0.557, staten-island 0.550, manhattan 0.566, dutchess 0.599, queens 0.607, westchester 0.594, rockland 0.580, putnam 0.594, long-island 0.587, hudson-valley 0.596, nassau 0.598, orange 0.594, ulster 0.572, flushing 0.565, new-dorp 0.595; brooklyn 0.609, suffolk 0.606 before later caption rewrites). Captions of shared-source photos and the silo link card were rewritten after first-pass hits of 0.66–0.75.
+
+# Merged from batch 2026-10-17 (cat6-repair-new-dorp-staten-island-ny)
+
+## New Dorp, Staten Island (cat6-repair-new-dorp-staten-island-ny)
+
+Built 2026-10-17 (batch: Flushing QN, Riverdale BX, New Dorp SI). Neighbourhood spoke; up-link /cat6-repair-staten-island, silo hub /cat6-repair-nyc. Direct line (347) 934-8335 in body, CTAs and schema; (800) 486-0943 only in the shared header chrome; WhatsApp only as https://wa.me/17186790359. GBP Brooklyn (1282 Troy Ave, #brooklyn) copied from the parent page's LocalBusiness block. Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Rows marked "reused" were taken from research/soundbar-installation.md (New Dorp section, ND-S#) or the Staten Island section of research/cat6-repair.md and were not re-fetched.
+
+**Thesis:** New Dorp's Cat6 splits along Hylan Boulevard and the Lane. Inland (New Dorp Heights and the central blocks) it lives in 1960s–70s high ranches, semi-attached and attached houses whose networks were extended by owners — switches chained room to room, flat cable under carpets, runs tied to basement pipes, jacks behind furniture. On New Dorp Lane it lives in two-storey mixed-use buildings full of dental offices, clinics, pharmacies and shops — operatory links, PCs daisy-chained through desk phones, counter links, patient-record privacy. Below Hylan, in New Dorp Beach, it lives in converted bungalows and raised rebuilt houses on blocks that only got storm sewers in 2025 — enclosure rules and flood openings decide where cable may go. Different from the parent (borough-wide water-line thesis), and from every other Cat6 area page.
+
+### Local research log
+
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| CND-1 | `New Dorp Beach sewer storm drainage project DEP Staten Island flooding` · FC search → FC scrape (markdown) | https://www.nyc.gov/site/dep/news/25-020/city-completes-84-million-street-drainage-project-new-dorp-beach-area-hit-hard-by | DEP/DOT/DDC release, May 20 2025: $84 million project; 8,701 ft of new storm sewers "in an area that had none before"; 101 new catch basins, 50 replaced; Milton, Finley and Cedar Grove Avenues raised by over a foot, Hett Avenue lowered about 10 in; DDC worked with more than 880 homeowners on driveways/front yards; construction began spring 2019; 3.32 miles of water main, 3.19 miles of sanitary sewer replaced; more than 40 blocks. | §5 para 4; §5.5 bullets 4–5; Three New Dorps table (below Hylan); §10.5 H3 "storm sewers"; Landmarks card 6 |
+| CND-2 | same search · FC search (excerpt only) | https://www.nysenate.gov/newsroom/press-releases/2019/andrew-j-lanza/77-million-project-improve-drainage-and-streets-new | 2019 announcement ($77m at the time, 9,500 ft planned). Background only; page uses the 2025 completion figures. | research only |
+| CND-3 | `NEC 800.133(C) communications cables shall not be strapped taped attached to exterior of conduit raceway as means of support` · FC search (excerpts) | https://www.ecmweb.com/national-electrical-code/code-basics/article/20897736/the-nec-and-communications-circuits ; https://www.electricallicenserenewal.com/Electrical-Continuing-Education-Courses/NEC-Content.php?sectionID=549 | EC&M: "Support exposed cables with supports that fasten to frame members, securing the cables with straps, staples, hangers, cable ties, or similar fittings [800.24]" and "Don't strap, tape, or attach communication wires or cables to raceways as a means of support." Second source: exposed cables "shall be supported by the building structure in such a manner that the cable will not be damaged by normal building use." | §9 Q3 (pipes); §8.5 compliance bullet; Equipment card (hangers); §10.5 H3 "cable ties" |
+| CND-4 | `FEMA Technical Bulletin 1 flood openings must not be blocked obstructed enclosure below elevated building` · FC search → `FEMA TB 1 "Requirements for Flood Openings…" pdf` · FC search → FC scrape (pdf parser, directQuote) | https://www.norfolk.gov/DocumentCenter/View/64828/Flood-Openings---FEMA-TB-1-sec-8 | FEMA TB-1 section 8 (hosted by Norfolk): "Every enclosed area is required to have at least two flood openings on exterior walls"; installed on at least two sides "to decrease the chance that all openings will be blocked by floating debris"; openings "allow water to automatically enter and exit"; bottom no higher than 1 ft above grade. (Page states only that openings exist to let water in and out freely and that we do not route cable through them; no claim that a specific code section bans a cable.) | §9 Q8; §8.5 bullet; Building card (raised houses) |
+| CND-5 | same · FC scrape (floods.org TB 1/5 news) | https://www.floods.org/news-views/fema-news/fema-out-with-the-old-in-with-the-updated-nfip-technical-bulletins-1-5/ | Query answer empty (directQuote returned nothing). Not used. | — |
+| CND-6 | `IP phone PC port pass-through computer loses network when phone unplugged or rebooted` · FC search (excerpts) | https://community.cisco.com/t5/ip-telephony-and-phones/ip-phone-reboot/td-p/2969509 | Cisco Community: "When a phone reboots, the computer loses connection because the PC port of the phone doesn't have a 'bypass' functionality." (Spiceworks thread says some phones pass traffic during reboot — page says "many" phones, not all.) | §9 Q6; Services card "desk phone and PC" |
+| CND-7 | `New Dorp Lane dentist dental offices Chinese businesses Staten Island 2025` · FC search (excerpts) | https://acenterfordentalexcellence.com/dentist-in-staten-island/ ; https://www.mapquest.com/us/new-york/defeo-louis-dds-278422461 ; https://www.zocdoc.com/dentists/new-dorp-staten-island-ny-1904pm | Directory/practice listings place dental offices on New Dorp Lane itself (97 New Dorp Lane) and on Hylan Boulevard "near the intersection with New Dorp Lane" (2749 Hylan). Practices are NOT named on the page; used only to say dental offices sit on the Lane and on Hylan at the Lane. | §8 commercial card (Hylan near the Lane); §9 Q5 intro |
+| CND-8 | `site:reddit.com statenisland New Dorp internet wiring house` · FC search | — | Only r/AskNYC threads (Ethernet in NYC apartments; Spectrum advice "Check your speeds with a wired connection"), nothing on r/statenisland or New Dorp. r/statenisland: EMPTY (not accessible in build env / no matching thread). | — |
+| CND-9 | `silive New Dorp Lane businesses 2026` · FC search → FC scrape (directQuote) | https://www.silive.com/topic/New%20Dorp/ | SI Advance topic page: 2011 post "Builder eyes New Dorp parking spaces" — "New Dorp Lane, a great little commercial strip of mostly old fashioned mom 'n pop stores" and "New Dorp Lane municipal parking lot"; Feb 4 2015: SIEDC and New Dorp Merchants Group shopper's guide "Featuring Nearly 100 Different Local Businesses". No Cat6/network-cable story. Hyperlocal news on Cat6 faults in New Dorp: EMPTY. | §8 Lane card (2011 quote). Parking lot NOT used on the page (2011 item; current status unverified). |
+| CND-10 | reused (cat6 SI research) · FC scrape | https://www.silive.com/news/2025/07/severe-flash-flooding-cripples-major-staten-island-roads-during-storm-monday.html | Scott R. Axelrod, July 14 2025: "Hylan Boulevard, in the vicinity of New Dorp Lane, was nearly impassable … as if it was a river". | §5 para 4; §5.5 bullet 6; §8 Hylan card |
+| CND-11 | reused (cat6 SI research) | https://www.citymd.com/urgent-care-locations/ny/new-dorp | CityMD New Dorp urgent care at 2710 Hylan Blvd. | §8 Hylan medical card |
+| CND-12 | reused ND-S1 | https://en.wikipedia.org/wiki/New_Dorp,_Staten_Island | Nieuw Dorp, 1671; ZIP 10306; NTA 2020 pop 29,083 (27,623 in 2010); five 1960s Hylan Blvd shopping centres, largest Hylan Plaza (1966); New Dorp HS; Staten Island Tech; Miller Field; library at 309 New Dorp Lane. | §5 para 1; §5.5 bullet 1; §8 card; Landmarks cards |
+| CND-13 | reused ND-S3 | https://s-media.nyc.gov/agencies/lpc/lp/1696.pdf | Lane Theater, 168 New Dorp Lane, opened Feb 10 1938, interior landmark Nov 1 1988; development from the 1880s; by 1917 a commercial strip on the Lane facing the railroad. | §5 para 2; Landmarks card 1 |
+| CND-14 | reused ND-S4 | https://www.citylandnyc.org/council-approved-staten-island-commercial-districts/ | Dec 2005 rezoning: commercial-only buildings max two floors; residential barred from ground floor; mixed-use max 35 ft. | §5 para 2; §5.5 bullet 2; Building card (Lane mixed-use) |
+| CND-15 | reused ND-S5 | https://citylandnyc.org/city-council-approves-new-dorp-bid | BID approved Apr 5 2017: 146 properties, about 180 businesses on the Lane and adjacent streets between Hylan Blvd and Richmond Rd. | §5.5 bullet 2; §8 Lane card |
+| CND-16 | reused ND-S6 | https://documentedny.com/2026/07/30/chinese-immigration-staten-island-boom/ | Carol Chen (The City Reporter via Documented), Jul 30 2026: Chinese businesses concentrated around New Dorp Lane — restaurants, pharmacies, dentist offices, clinics; adult day-care centres; Staten Island Chinese School in New Dorp (since 1972). | §5 para 2; §8 cards (practices; schools card: SI Chinese School enrolment up sharply 2023–2024); FAQ F2 (adult day centre) |
+| CND-17 | reused ND-S7 | https://www.defalcorealty.com/?p=7298 | DeFalco Realty, Sep 17 2026: high ranches / raised ranches common in 10306; semi-attached and two-family homes; New Dorp Heights toward Richmond Rd/Todt Hill; central blocks around Edison St, Rose Ave, Clawson St; flood risk "can differ by elevation and block". | §5 para 3; Three New Dorps table; Building cards 1–2 |
+| CND-18 | reused ND-S8 | https://www.point2homes.com/US/Neighborhood/NY/Staten-Island/New-Dorp-Demographics.html | ACS 2019–2023 (Point2's small New Dorp boundary): 41.4% 1-unit detached, 25.3% 1-unit attached, 17.7% two units; median year built 1968; 69.3% owner-occupied. | §5 para 3; §5.5 bullet 3; Building cards |
+| CND-19 | reused ND-S9, ND-S10 | https://www.dnainfo.com/new-york/20140411/new-dorp-beach/state-will-add-no-more-neighborhoods-sandy-buyout-program/ | Apr 11 2014: state added no more neighbourhoods to the Sandy buyout; New Dorp Beach not added (Oakwood Beach and Ocean Breeze were). | §5 para 4; Three New Dorps table |
+| CND-20 | reused ND-S11 | https://theneighborhoods.substack.com/p/new-dorp-staten-island | May 22 2025: Sandy left parts of New Dorp Beach under about six feet of water; city auctioned damaged lots with resilient-building requirements; rebuilt homes raised above their foundations. | §5 para 4; Building card (raised rebuilds) |
+| CND-21 | reused ND-S13 | https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-001.pdf | DOB Buildings Bulletin 2022-001: wet-floodproofed space below the DFE limited to "parking of vehicles, storage and building access". | §9 Q8; §8.5 bullet; Building card |
+| CND-22 | reused ND-S14, ND-S15 | https://new.mta.info/press-release/mta-announces-opening-of-elevators-staten-island-railway-new-dorp-station ; https://en.wikipedia.org/wiki/New_Dorp_station | Sep 19 2023: New Dorp first SIR station with elevators; station opened 1860, open cut at New Dorp Lane, rebuilt 1965–68; north exit New Dorp Lane, south exit Rose Ave. | Landmarks card 2; §5.5 |
+| CND-23 | reused ND-S16, ND-S17 | https://www.nps.gov/gate/learn/historyculture/miller-field.htm | Miller Field: sold to the federal government 1919, Air Coast Defense Station completed 1921, part of Gateway since 1972, entrance via New Dorp Lane. | Landmarks card 3 |
+| CND-24 | reused ND-S19, ND-S2 | https://spectrumlocalnews.com/nys/central-ny/news/2026/05/21/new-york-city-summer-events-pools-beaches-2026 ; https://en.wikipedia.org/wiki/New_Dorp_Beach,_Staten_Island | Cedar Grove Beach listed for 2026 at Ebbitts St and Cedar Grove Ave; New Dorp Beach "Most houses are converted beach houses, with many attached homes"; flooding between Marine Way and Tysens Lane. | Landmarks card 6; Building card (bungalows) |
+| CND-25 | reused ND-S21 | https://en.wikipedia.org/wiki/Staten_Island_Technical_High_School | Staten Island Tech, 485 Clawson St, in the former New Dorp HS building (vacated 1982). | §8 schools card; Landmarks card 4 |
+| CND-26 | reused ND-S22 | https://www.apartments.com/tysens-park-apartments-staten-island-ny/m0xq0tj/ | Tysens Park Apartments, 30 Ebbitts St / Mill Rd. | Building card (garden apartments) |
+| CND-27 | Silo technical sources reused, not re-fetched (research/cat6-repair.md silo + SI sections): Fluke NEXT/untwist & time-domain location; BICSI-style study guide (crush/kink → return loss, stranded cable → insertion loss); Belden TSB-184-A PoE bundles; EC&M NEC 800.25 abandoned cable; NYC Electrical Code = 2020 NEC amendments, full effect Dec 21 2025; 29 CFR 1910.308 2-in separation; NYC BC Appendix G (LL 77 of 2023); Fixr Jan 2025 national figures. | as recorded there | as recorded there | §7.5, §8.5, §9 answers, §10, §10.5, §14 |
+| CND-28 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 H3s are framed on the page as commonly repeated claims, not as quoted AI Overview text. | §10.5 |
+
+### Prices used (copied only from cat6-repair-staten-island.html; no multiplier, no new lines)
+$195/hr with a three-hour minimum ($585); additional time $195/hr; replacement or extension run from $175 per drop; exterior/below-house entry made good from $185 per penetration; comparison new-install drop $296 (Cat5e $254, Cat6A $424); no separate bridge/travel charge; Fixr Jan 2025 national $125–$250 per drop and $45–$75/hr (labelled third-party). Packages: Starter $585; Standard $195/hr after the first three hours; Premium repair time + from $175 per run (+ from $185 per penetration).
+
+### Images (11) — Step C, library images/cat6-repair/ (Drive folder "AESS Website Photos/Cat6 Repair" empty per main run)
+Copied unchanged (cp, WebP kept); each viewed before naming; md5-unique; sources from the Brooklyn / Manhattan / Dutchess / Ulster sets only.
+
+| New file (images/cat6-repair/) | Source | What is visible |
+|---|---|---|
+| cat6-repair-new-dorp-wire-map-fail-crossed-open-pair.webp (HERO) | cat6-repair-dutchess-county-wire-map-crossed-open-pair.webp | handheld tester screen "FAIL", pins 1–2 crossed pair, pin 6 open pair, blue cord on top, rack behind |
+| cat6-repair-new-dorp-corroded-plug-at-block-wall.webp | cat6-repair-ulster-county-corroded-plug-block-wall.webp | gloved hand holding RJ45 plug with green corrosion, flashlight, surface box on concrete block |
+| cat6-repair-new-dorp-dome-camera-no-poe-test.webp | cat6-repair-ulster-county-dome-camera-no-poe-reading.webp | technician on stepladder, tester reading "NO PoE / NO LINK" at a white dome camera on a wall |
+| cat6-repair-new-dorp-fish-tape-into-wall-conduit.webp | cat6-repair-brooklyn-fish-tape-emt-conduit-block-wall.webp | technician feeding a red 240 ft fish tape into metal conduit on a block wall |
+| cat6-repair-new-dorp-access-cut-beside-wall-box.webp | cat6-repair-brooklyn-wall-access-cut-oscillating-tool.webp | oscillating tool cutting a small panel in drywall beside a blue box with blue cable |
+| cat6-repair-new-dorp-register-counter-jack-no-link.webp | cat6-repair-dutchess-county-checkout-jack-no-link.webp | tester "NO LINK" plugged into a jack under a checkout counter, POS screen "NETWORK OFFLINE" |
+| cat6-repair-new-dorp-printer-jack-rework.webp | cat6-repair-brooklyn-printer-data-jack-rework.webp | technician working at a wall plate labelled PRINTER DATA beside a large office copier |
+| cat6-repair-new-dorp-j-hooks-above-ceiling-grid.webp | cat6-repair-brooklyn-j-hook-support-above-grid.webp | blue cables laid in J-hooks above an open ceiling grid, Cat6 550MHz CMR carton |
+| cat6-repair-new-dorp-patch-panel-port-repunch.webp | cat6-repair-manhattan-patch-panel-port-repunch.webp | punch-down tool on a patch panel labelled OFFICE 214 – DATA, labelled cable |
+| cat6-repair-new-dorp-split-jacket-at-desk-frame.webp | cat6-repair-dutchess-county-split-jacket-desk-frame.webp | gloved hands holding a blue cable with split jacket and exposed pairs at a metal desk frame |
+| cat6-repair-new-dorp-data-voice-plates-at-desk.webp | cat6-repair-ulster-county-data-voice-plate-check.webp | technician pointing at DATA 1 / DATA 2 / VOICE plates under a desk with an IP desk phone |
+
+DAILY-LOG note: `images: 11 reused from images/cat6-repair/ library (brooklyn/manhattan/dutchess/ulster sets; no real Cat6 Repair photos yet)`.
+
+### Flags for Anwar
+1. Installer practices stated as policy: we do not route cable through flood openings; we do not open or log into computers holding patient records; ladders/cable kept clear in occupied adult day centres; chained switches replaced by home runs or one central switch where routes allow. Confirm.
+2. No Field Notes story: no documented New Dorp Cat6 job; changelog says so.
+3. Partial question overlaps for the main run to judge: Q4 (furniture pressing on jack → angled/recessed hardware) vs Brooklyn "jack ripped out when furniture was moved — fix without re-pull" (one-time damage vs recurring pressure); Q6 (PC through desk phone) vs NYC "patch cord, jack or cable?" (device-chain vs cable diagnosis); Q7 (patient-record privacy) vs Rockland/Westchester "do you need our Wi-Fi password" (credentials vs PHI scope); Q9 (evening-only lag) vs NYC "worked for years, now drops intermittently" (time-of-day ISP congestion vs physical fault); FAQ F3 (reuse satellite hole) vs HV "indoor Cat6 along the outside of the house" (entry point vs cable rating).
+
+### Build checks (2026-10-17)
+- check_page.py --no-registration: 12,572 rendered words; title 54; meta 157; 11 figures; 6 JSON-LD blocks; FAQ 5 = FAQPage 5; 2 forms. Only failures: 16 area/hub pages not yet linking back to /cat6-repair-new-dorp-staten-island-ny (main-run wiring; sitemap/_redirects/parent link-down also pending).
+- File 232,966 B (JSON-LD indent 2, page body lines indented 103 spaces — whitespace only). Nearest cat6 siblings: Manhattan 222,470; Rockland 216,848; Flushing ~180K and Riverdale ~176K at build time. Re-check after wiring.
+- simcheck.py masked paragraph similarity (final): parent 0.644; NYC 0.630; Brooklyn 0.586; Queens 0.558; Bronx 0.592; Manhattan 0.599; LI 0.578; Nassau 0.568; Suffolk 0.592; HV 0.560; Westchester 0.565; Rockland 0.565; Orange 0.561; Putnam 0.583; Dutchess 0.536; Ulster 0.600; Flushing 0.541; Riverdale 0.592.
+- LocalBusiness block: Brooklyn GBP fields (@id #brooklyn, 1282 Troy Ave, +1-347-934-8335, geo, rating, sameAs, Person) copied from the parent; url = this page and areaServed = New Dorp / New Dorp Beach / Staten Island, following the soundbar New Dorp neighbourhood convention.
+
+## Question register — cat6-repair-new-dorp-staten-island-ny
+
+§9 "Questions Answered" (H3):
+1. Three small switches are chained from room to room through our high ranch — can one bad Cat6 between them take the whole upper floor offline? (Inland houses)
+2. A flat Ethernet cable was run under the living-room carpet to the TV and keeps losing its link — can it stay under there? (Inland houses)
+3. The old Cat6 across our basement ceiling is zip-tied to the copper water line and the gas pipe — does it have to come off them? (Inland houses)
+4. A headboard or sofa keeps pressing on the wall jack and the plug keeps snapping — is there a repair that stops it happening? (Inland houses)
+5. What usually damages the Cat6 that feeds the computer and X-ray sensor at a dental chair? (The Lane)
+6. Our office computers plug into the back of the desk phones, and when a phone is unplugged the computer drops too — is that a cabling fault? (The Lane)
+7. Can the Cat6 at a medical or dental office be repaired without anyone opening the computers that hold patient records? (The Lane)
+8. Can the Cat6 for the camera under our raised house leave through one of the flood vents in the enclosure wall? (Below Hylan)
+9. Our son's wired gaming PC lags only on weekday evenings — is the Cat6 in the wall to blame? (Not the cable)
+
+FAQ (§17, = FAQPage schema):
+F1. Where will the technician park for a job on New Dorp Lane, or on a block where every driveway is shared?
+F2. Our adult day centre is open every day — how are ladders and loose cable kept away from members while a ceiling run is repaired?
+F3. The old satellite dish is gone — can its hole through the wall be reused for the Cat6 to an outdoor camera?
+F4. Which lights on the router or switch should we look at before calling about a dead wired connection?
+F5. What can the printing along a cable's jacket tell you before any testing starts?
+
+Other headings: none end in a question mark (repair-capture and CTA headings are statements).
+
+### Batch wiring notes (main run, 2026-10-17, flushing / riverdale / new-dorp)
+- Question re-check vs the 10 neighbourhood pages that went live while this batch was building: Flushing FAQ "staff time clock or attendance terminal" (same intent as St. George) reworded to the missed-punches diagnostic question; Flushing Q&A headings on shielded X-ray rooms and bullet-resistant counters (same intent as Fordham) turned into statement headings; Riverdale CTA heading reworded to a statement.
+- Riverdale: two paragraphs (NYC Electrical Code bullet, AI-Overview intro) rewritten after scoring 0.718 / 0.684 masked similarity vs Long Island City.
+- File sizes separated from siblings by whitespace indentation only (no rendered change).
