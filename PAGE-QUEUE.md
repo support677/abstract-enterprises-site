@@ -200,9 +200,9 @@ LIVE | fiber-optic-installation-gowanus-brooklyn-ny | Fiber Optic Installation |
 LIVE | fiber-optic-installation-college-point-queens-ny | Fiber Optic Installation | College Point, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | fiber-optic-installation-riverdale-bronx-ny | Fiber Optic Installation | Riverdale, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | fiber-optic-installation-charleston-staten-island-ny | Fiber Optic Installation | Charleston, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T17:58Z | sonos-installation-tribeca-manhattan-ny | Sonos Installation | Tribeca, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T17:58Z | sonos-installation-brooklyn-heights-brooklyn-ny | Sonos Installation | Brooklyn Heights, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T17:58Z | sonos-installation-long-island-city-queens-ny | Sonos Installation | Long Island City, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | sonos-installation-tribeca-manhattan-ny | Sonos Installation | Tribeca, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | sonos-installation-brooklyn-heights-brooklyn-ny | Sonos Installation | Brooklyn Heights, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-long-island-city-queens-ny | Sonos Installation | Long Island City, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Neck, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx

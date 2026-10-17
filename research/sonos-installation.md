@@ -3705,3 +3705,355 @@ Partial overlaps for the main run to judge: Q1 (speaker placement before furnitu
 ### Flags
 - Joist clear width "roughly 14½ inches" is arithmetic (16 in o.c. minus a 1½-in joist), labelled "roughly" on page.
 - The exterior-wall answer relies on forum excerpts (r/hometheater, AVS Forum) for the vapor-barrier concern; stated as installers' experience, no code claim.
+
+## Tribeca, Manhattan (sonos-installation-tribeca-manhattan-ny)
+
+Built 2026-10-17 (batch with Brooklyn Heights + Long Island City). Child of /sonos-installation-manhattan · direct line (929) 560-0737 · 800 in shared header only · GBP Bronx (460 E Fordham Rd, #bronx).
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Silo-wide findings (Sonos product facts, PAA/PASF/ATP/AIO/Bing/DDG/Yelp status) reused from research/sonos-installation.md "Silo-wide findings" — not re-fetched.
+
+**Thesis:** a Tribeca loft is one big room built for goods, not rooms — so the Sonos job is making listening areas on an open floor (aim along areas, furniture/column lines as breaks, caps per area, wired backbone down a long floor), mounting only on what can safely carry a speaker (brick mortar joints, post-conversion stud partitions, stands — never cast-iron columns, never sprinkler pipes, light touch on timber), visible cable done deliberately, and keeping sound out of the loft below.
+
+### Sources searched (research matrix)
+
+| # | Exact query | Platform | URL | Finding | Used on page |
+|---|---|---|---|---|---|
+| 1 | `Tribeca historic districts Landmarks Preservation Commission warehouse loft buildings designated 1991` | Firecrawl search → Firecrawl scrape | https://www.nypap.org/preservation-history/tribeca-historic-districts/ | Washington Market; earliest cast-iron buildings; 1970s artists; name TriBeCa; Committee for the Washington Market HD 1984; CB1 resolution 1988; Tribeca West May 7 1991; East Dec 2 1992; North & South Dec 8 1992; South Extension Nov 19 2002; 55 White St tower fight 1986 | §5 paras 1, 4; §5.5 bullet 1; Sources |
+| 1b | same | Firecrawl search excerpt | https://architecturaltrust.org/wp-content/uploads/2013/06/Report_LPC_Tribeca_West.pdf | Excerpt: "The most prevalent building type within the district is the store and loft building"; "five- and six-story store and loft buildings". Full PDF scrape (435 pp) FAILED (query generation failed) — only the excerpt used | §7 intro; Sources (marked excerpt) |
+| 2 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Tribeca | Full article body read (references list not read). Name = Triangle Below Canal; bounded by Canal, West St, Broadway, Chambers; 0.35 sq mi; pop 21,305 (2020); census 1950 782 / 1960 382 / 1970 370 / 1980 5,949 / 1990 8,386 / 2000 10,395 / 2010 17,056; ZIPs 10013/10007; CD1; 1st Precinct 16 Ericsson Pl; Washington Market opened 1813 as "Bear Market", butter/cheese/eggs; dry goods & textiles centre; store-and-loft buildings along Broadway 1850s–60s; Holland Tunnel 1920–27, entrances NW corner around St. John's Park; West Side Hwy closed 1973; market to Hunts Point 1960s; Independence Plaza 1975; BMCC 1980; Washington Market Park 1981, 1.61 acres; Tribeca Film Festival (Festival) co-founded 2002; Hook & Ladder 8 at 14 N Moore St (Ghostbusters); 401 Greenwich birthplace of modern bowling; Verizon Building condos 2016; Textile Building 1901; 1 White St 1805–1825; NYLS along Worth; 388 Greenwich (Citigroup); 56 Leonard, 111 Murray; four HDs + extension | Hero; §5 paras 1–2; §5.5; §7 cards; §8 cards; §13 cards + transit para; Festival sub-section |
+| 3 | `Tribeca West Historic District wikipedia store and loft buildings` | Firecrawl search (with scrape) | https://en.wikipedia.org/wiki/Tribeca_West_Historic_District | 17 blocks, ~220 buildings, mostly 1860–1910; boundaries Greenwich St (W), Reade (S) to Hubert (N), West Broadway (E); includes Duane Park, Bogardus Plaza (2020), former NY Mercantile Exchange, Powell Building, Tribeca Film Center, 401 Greenwich; nav template lists galleries (Postmasters, Art Projects International, Artists Space), theatres (The Flea, Soho Rep), restaurants (The Odeon, Tribeca Grill, Frenchette), subway stations | §5 para 4; §5.5 bullet 2; §8 cards; §13 Tribeca West card |
+| 4 | `Landmarks Preservation Commission interior alterations historic district building permit required Certificate of No Effect interior work` | Firecrawl search → scrape | https://www.nyc.gov/site/lpc/applications/permit-types.page | LPC permit needed for: any exterior work (even not visible from street, even if no DOB permit); interior work that requires a DOB permit; interior work affecting exterior (HVAC louvers, vents); designated interior landmarks. 95% of approvals staff-level; CNE, Permit for Minor Work | §5 para 4; §8.5 compliance bullet 2; Q&A "DOB permit + CNE"; Q&A restaurant; §10.5 assumption 4; FAQ 2 |
+| 4b | same | Firecrawl search excerpt | https://fontanarchitecture.com/nyc-landmark-permits-lpc-application-types/ ; https://shermanarchitects.com/navigating-the-landmarks-preservation-commission/ | CNE = for DOB-permit work with no effect on protected features; interior renovations in HDs needed CNEs | background only (not cited) |
+| 5 | `Tribeca loft law interim multiple dwelling loft board buildings Tribeca residents` | Firecrawl search excerpt | https://www.nyc.gov/site/buildings/dob/loft-board.page | MDL Art. 7-C (Loft Law) created IMD classification | Sources only (Loft Law Q dropped — intent overlaps soundbar Tribeca page) |
+| 6 | `Tribeca Citizen loft renovation noise neighbor sound speakers ceiling joists` | Firecrawl search → scrape | https://tribecacitizen.com/2026/06/16/the-quiet-luxury-upgrade-more-tribeca-homeowners-are-making/ | SPONSORED (Innovation Shades), June 16 2026: oversized loft windows "among the neighborhood's greatest luxuries", source of privacy/glare challenges; motorization wiring easier during construction | "Old windows" sub-section (labelled sponsored) |
+| 7 | `Tribeca Citizen 2026 construction renovation loft building news` | Firecrawl search → scrape | https://tribecacitizen.com/2021/10/29/loft-peeping-the-restoration-of-51-53-white/ | 51–53 White built 1858 by A.C. Kingsland, textile/dry goods; Tuckahoe marble; cast-iron columns encased in block by 1920s; restoration exposed brick walls and timber beams; 7 apartments | §7 card 1 |
+| 7b | (scrape) | Firecrawl scrape | https://tribecacitizen.com/ (front page, Oct 16 2026) | "Construction Update: 65 Franklin — The construction of the 24-story, 300-foot condo on the corner of Broadway will take two years, until summer 2028." | §7 card 4; "Construction next door" |
+| 8 | `Brick Underground Tribeca loft buying guide timber beams columns soundproofing co-op board alteration` | Firecrawl search excerpts | https://barnes-newyork.com/blog/loft-living-in-tribeca-architecture-light-and-space ; https://anablepodell.com/blog/what-its-like-to-live-in-a-tribeca-loft | Exposed brick, timber/steel beams, columns, plank floors; original single-glazed windows & thin partitions transmit noise; "Open volume … can also amplify sound… reduce echo with acoustic panels, area rugs, fabric window treatments, insulated partitions. Sliding doors and glass walls help create private zones"; boards set contractor insurance, work hours, elevator use; popular upgrades incl. glass-partitioned bedrooms, soundproofing floors/ceilings | §5 para 3; zones section; Q&A glass boxes, co-op agreement; §10.5 assumptions 3 & 7; FAQ 2 |
+| 9 | `drilling cast iron column structural loft building NYC mounting clamp do not drill` | Firecrawl search → scrape (directQuote) | https://www.structuremag.org/article/casting-some-light-on-renovations-with-cast-iron-columns/ | 315 Hudson St (Hudson Square, 1896 Henry Heide Candy Factory), ten-storey cast-iron-column building; cast iron "low tensile capacities"; bending 16,000 psi compression / 3,000 psi tension; "behaves brittlely", no yield plateau; welding difficult; connections only via engineered drilled-and-tapped bolts | §5.5 bullet 4; "Cast-iron columns" sub-section |
+| 10 | `NFPA 13 sprinkler piping shall not be used to support nonsystem components cables hanging from sprinkler pipe` | Firecrawl search excerpts | https://www.controlbooth.com/threads/codes-dealing-with-hanging-from-sprinkler-pipes.35035/ ; https://www.fhca.org/focusonflorida/entry/cabling_on_sprinkler_piping ; https://www.sprinklerage.com/building-structure-versus-shared-support/ | NFPA 13-2002 9.1.1.7 "Sprinkler piping or hangers shall not be used to support non-system components"; NFPA 25 (2023) 5.2.2.2 same principle; Sprinkler Age notes 2013 edition permitted some shared support (not stated on page) | "Sprinkler pipes" sub-section; Q&A sprinkler pipes |
+| 11 | `Landmarks Preservation Commission rules anchor into mortar joints not masonry units historic brick installation` | Firecrawl search excerpt | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-89958 | LPC rule (signage/banner armature): installed on plain masonry, wood or metal pier "but not including cast iron", "mechanically fastened … into the mortar joints of a plain masonry pier" | "Brick" sub-section |
+| 12 | `Hudson River Park Pier 26 Pier 25 Tribeca opened science playground` | Firecrawl search excerpts | https://hudsonriverpark.org/locations/pier-26/ ; https://hudsonriverpark.org/activities/pier-26-science-playground/ ; https://newyorkyimby.com/2024/01/pier-26-science-playground-opens-in-tribeca-manhattan.html | Pier 26 opened 2020, 2.5-acre ecologically themed; Science Playground 4,000 sq ft, sturgeon structures, designed by OLIN; YIMBY Jan 2024 opening | §13 Pier 26 card |
+| 13 | `Hudson River Park rules regulations amplified sound portable speaker permit 21 NYCRR 751` | Firecrawl search excerpt | https://www.law.cornell.edu/regulations/new-york/21-NYCRR-751.5 | Special events need trust permit; sound reproduction device needs permit except regular customary use of portables outside quiet zones; none 10 p.m.–8 a.m. unless headphones/permit; no commercial sound | §8.5 bullet 5; "By the river" |
+| 14 | `Duane Park oldest park Tribeca history butter egg district Staple Street skybridge` | Firecrawl search excerpt (long) | https://www.duanepark.org/history/ | Second-oldest public park after Bowling Green; bought 1797 from Trinity; Vaux redesign; 1940 paved; butter, pickle, cheese warehouses; Friends of Duane Park 1994; Signe Nelson redesign | §13 Duane Park card; §7 card 2 |
+| 15 | `56 Leonard Street Herzog de Meuron stories units cantilevered Anish Kapoor Tribeca completed 2016` | Firecrawl search excerpts | https://www.herzogdemeuron.com/projects/305-56-leonard-street/ ; https://world-architects.com/en/architecture-news/found/anish-kapoor-at-56-leonard | H&dM 2016; 57 levels; 831 ft; Kapoor "bean-like" sculpture at base | §7 card 4; §13 card |
+| 16 | `Holland Tunnel traffic noise Varick Street Canal Street Tribeca residents horns` | Firecrawl search excerpt | https://tribecatrib.com/content/theyre-sounding-against-horn-honking-hudson-street | Residents above Hudson St campaign vs honking; Beach & Hudson where tunnel-rotary exits cross tunnel-bound traffic; "This intersection on Friday afternoons will be a constant din of horns honking…" (article undated in excerpt) | "The tunnel traffic" sub-section |
+| 17 | `Tribeca Festival 2026 dates June Spring Studios screenings street fair` | Firecrawl search excerpt | https://tribecafilm.com/festival | June 3–14 2026, 25th anniversary | "Festival weeks" |
+| 18 | `Tribeca loft noise neighbors complaint downstairs footsteps music reddit` | Firecrawl search excerpts | r/AskNYC threads (generic NYC, not Tribeca); NYC311 noise-from-neighbor page | Generic downstairs-noise complaints — not Tribeca-specific; NOT used | — |
+| 19 | `reddit living in Tribeca loft echo high ceilings sound` | Firecrawl search excerpts | r/howto, r/hometheater, r/Architects (generic high-ceiling echo) | Generic echo advice (soft surfaces); not Tribeca; NOT quoted | background for zones section only |
+| 20 | `Tribeca loft conversion cast iron columns timber beams ceiling height history warehouses butter eggs` | Firecrawl search excerpts | Instagram/Facebook reels (coconut-factory loft), barnes-newyork.com | Social posts not used; Barnes used (row 8) | — |
+
+**EMPTY (not accessible in build env):** Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG, Yelp 1–3★ (per silo file; not re-attempted). Local Reddit (r/Tribeca / r/AskNYC Tribeca loft audio): EMPTY — only generic NYC noise threads came back. Tribeca Trib / Tribeca Citizen / amNY items about Sonos or home audio in Tribeca: EMPTY (none found). LPC Tribeca West designation report full text: EMPTY (435-page PDF scrape failed; excerpt only).
+
+### Local facts NOT used (and why)
+- Wikipedia notable-residents list (celebrity names) — irrelevant / privacy.
+- Powell Building date (1890 in TW-HD article vs 1892 in Tribeca article) — conflict, date omitted.
+- 56 Leonard unit count (145, Instagram only) — weak source, omitted.
+- Honking complaints down 69% under congestion pricing (West Side Spirit excerpt) — not Tribeca-specific, omitted.
+
+### Prices (copied from /sonos-installation-manhattan only)
+$125 setup · $150 Manhattan parking · $129 wall-mount · $79 console · $84.99 Sanus · $169 in-wall · $59 cord cover · $99 cable ≤25 ft · $129 A/V receiver · $99 remote · $49 streaming · $350 full HT · $265 first hour setup-only then 30-min blocks ($415 with parking) · walls $0/+$30/+$45/+$65/+$75/+$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · $150 return trip · packages $275 / $488.99 / $657.99 · $800–$2,500 per zone (quoted). Worked totals are sums only: $354, $553.99, $628.99, $711.99, $518.99, $415.
+
+### Images (11 — permanent image rule; Drive "AESS Website Photos/Sonos Installation" EMPTY per main run 17:59Z; CompanyCam not connected)
+images: 11 reused from images/low-voltage/ (no real Sonos photos yet). Each cropped to exclude faces and the 800 number printed on shirts/van; converted to WebP q80; all ≤ 880 px wide. Library photos look AI-rendered — needs Anwar's review.
+
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Crop box | Section |
+|---|---|---|---|
+| sonos-installation-tribeca-ceiling-speaker-raised-over-brick-walled-dining-room.webp | low-voltage-installation-queens-14-restaurant-ceiling-speaker.jpg | 580,0,1400,1120 | hero |
+| sonos-installation-tribeca-blue-cable-dropped-from-black-painted-ceiling.webp | low-voltage-installation-nyc-retail-store-ceiling-pull.jpg | 520,0,1400,640 | §5 |
+| sonos-installation-tribeca-twin-screens-on-dark-wood-slat-wall.webp | low-voltage-installation-nyc-18-video-wall-installation.jpg | 400,0,1060,600 | §6 |
+| sonos-installation-tribeca-steel-stud-framing-with-blue-cable-run.webp | low-voltage-installation-queens-hero-metal-stud-rough-in.jpg | 950,0,1400,1120 | §7 |
+| sonos-installation-tribeca-ceiling-speaker-lifted-beside-glass-partitioned-room.webp | low-voltage-installation-long-island-ceiling-speaker-install.jpg | 700,0,1400,700 | zones section |
+| sonos-installation-tribeca-access-point-pressed-into-ceiling-tile.webp | low-voltage-installation-nyc-10-ceiling-access-point-drop.jpg | 700,0,1400,600 | structure section |
+| sonos-installation-tribeca-recessed-wall-box-behind-mounted-tv.webp | low-voltage-installation-suffolk-county-display-recessed-box.jpg | 760,60,1400,1120 | §9 Q&A |
+| sonos-installation-tribeca-blue-patch-cords-seated-in-rack-switches.webp | low-voltage-installation-queens-06-idf-rack-patching.jpg | 640,0,1340,1050 | §10 |
+| sonos-installation-tribeca-handheld-tester-on-wall-jack-lead.webp | low-voltage-installation-queens-08-fluke-certification-pass.jpg | 740,180,1400,1050 | §12 |
+| sonos-installation-tribeca-work-van-shelves-with-ladders-and-cable-reels.webp | low-voltage-installation-nyc-van-load-out.jpg | 480,120,990,760 | §13 |
+| sonos-installation-tribeca-screwdriver-at-wall-plate-network-jack.webp | low-voltage-installation-queens-09-keystone-wall-plate-termination.jpg | 760,150,1400,933 | §14 |
+
+Note: the low-voltage library repeats the same scenes under every area name, so several of these scenes also appear (as different crops/area copies) on BPC/UES/Greenwich Village/Manhattan pages. Source files chosen are area copies not used on any Manhattan Sonos page.
+
+Two inline SVG illustrations (labelled "Illustration, not a real client plan"): loft floor split into three listening areas; which loft surfaces can carry a speaker.
+
+### Question register — sonos-installation-tribeca-manhattan-ny
+
+§9 Questions Answered (H3)
+1. Our loft is a single open floor of about 2,000 square feet — how do you decide where one listening area ends and the next begins?
+2. Can the kitchen end of the loft play the news while the sofa end plays music, without the two blurring together?
+3. The bedrooms in our loft are glass boxes built inside the open space — how much music gets through their walls?
+4. When everyone is in one zone for a party, how do you keep the far end from sounding thin compared with the speakers near the sofa?
+5. Our ceiling is open to the sprinkler pipes and ductwork — can cable or a speaker hang from them?
+6. With no hollow walls and no dropped ceiling, how does speaker cable cross a 90-foot loft?
+7. Could the cable run beneath our wide-plank floorboards instead of along the walls?
+8. Is a floor-standing speaker on a stand a real alternative to fixing anything in a loft?
+9. Our renovation already has a DOB permit and an LPC Certificate of No Effect — can the speaker wiring be added to that job?
+10. Our co-op's alteration agreement was written for a gut renovation — does a Sonos install need to go through it at all?
+11. The loft below has asked us to keep it down — how do we find out which part of our sound system they are hearing?
+12. Our gallery rehangs its walls every month — how do speakers stay out of the way of the art?
+13. Our Franklin Street restaurant opens its front doors in summer — how do we keep the music inside the room?
+
+§17 FAQ (visible == FAQPage, 3)
+1. Will a tall bookcase or a freestanding divider help keep music inside one zone of the loft?
+2. Our loft still has its original single-pane windows — will closing them actually keep the music off the street at night?
+3. Can you mock up the speaker positions with stands before anything is fixed to a wall or a partition?
+
+Other question-form headings: none.
+
+**De-dup check:** all Sonos-silo questions (604, incl. LIC + Brooklyn Heights drafts present at 18:07Z) grepped by theme; avoided: Manhattan "loft 12-ft ceilings cast-iron columns in-ceiling", Ulster "ceiling is floorboards on exposed beams", Dutchess mezzanine, NYC hub "historic district LPC approve speakers", Greenwich LPC roof-deck, Cobble Hill bare-brick harsh, BPC park portable hours / construction-wait, Greenwich basement bar bass, Ditmas Sub through joists, congregation/club microphone, radiator covers, rearranging furniture/re-tune, shop music schedule. Also avoided the soundbar-installation-tribeca page's question intents (mortar vs brick, column fixing, up-firing under exposed beams, Loft Law, keyed elevator). Partial overlaps to note: Q4 (party evenness) vs Long Island "music stay in sync when grouped" (different intent: level evenness vs sync); Q10 co-op agreement vs Manhattan "prepare the layout the board asks for" (different: whether agreement applies); Q12 gallery mentions schedules in its answer (shop-schedule question exists elsewhere).
+
+### Checks
+- `python3 tools/check_page.py sonos-installation-tribeca-manhattan-ny --no-registration --stats` → only failures: 16 × "live sibling … doesn't link back" (main-run wiring). With back-links simulated in a temp root: PASS. Words 12,589; title 40; meta 159; 11 figures; 6 JSON-LD blocks; FAQ 3 = 3; 2 forms.
+- Masked-geo similarity (paragraph/li/td/caption blocks ≥ 8 masked words, vs all 33 Sonos pages incl. LIC + Brooklyn Heights drafts): max prose 0.636 (BPC building-table cell "Steel-stud walls and bulkheads…"); only price-formula cells exceed 0.65 (excluded as pricing numbers). Fixed headings ("What AI Gets Wrong About…") excluded.
+- File size padded with trailing whitespace to 249,400 B (gap between Astoria 245,126 and LIC 253,763).
+
+### FLAGS for Anwar / main run
+- Installer-practice statements unsourced: no drilling cast-iron columns, mortar-joint anchoring indoors (LPC rule cited is an exterior signage rule), ~15 ft / 30 ft area-separation rules of thumb, "Sonos speech enhancement" mention, mock-up visit billed at setup-only rate if no install follows (policy — needs OK).
+- STRUCTURE magazine example building (315 Hudson St) is in Hudson Square, just north of Canal — page says so.
+- Tribeca Trib honking article undated (excerpt only); Barnes/Anable Podell are broker blogs (excerpts); Tribeca Citizen windows piece is sponsored (labelled on page).
+- NFPA 13 wording from trade-site excerpts (2002 edition); later editions allow some shared support — page states the rule as "long-standing", not as current text.
+- Kapoor sculpture described as "mirrored" (common knowledge; excerpt says "bean-like").
+- Shared scratchpad collision: the Brooklyn Heights builder's build.py/sim.py overwrote same-named files in the shared scratchpad at ~18:23Z; my files moved to scratchpad/tribeca_only/. No effect on the repo page (verified by rebuild).
+
+## Brooklyn Heights, Brooklyn (sonos-installation-brooklyn-heights-brooklyn-ny)
+
+Built 2026-10-17 by a batch subagent (neighbourhood page; up-link /sonos-installation-brooklyn, hub /sonos-installation-nyc). Brooklyn GBP (#brooklyn, 1282 Troy Ave), direct line (347) 934-8335 in body/CTAs/schema; (800) 486-0943 only in the shared mega-nav header chrome. Built in parallel with sonos-installation-tribeca-manhattan-ny and sonos-installation-long-island-city-queens-ny (both linked from the #sonos-nbhd block). To be merged into research/sonos-installation.md by the main run.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query/directQuote mode unless noted). Shell curl blocked; Reddit threads not opened (excerpts only).
+
+**Thesis:** "built for something else" — a large share of Heights homes are conversions (1920s hotels: St. George, Leverich Towers, Bossert; the 1928 Furman Street warehouse; mews stables/carriage houses; single-family brownstones split into floor-throughs/small co-ops; plus timber Federal houses), and the building's first use decides the Sonos plan (sprinkler heads, rated corridor walls, hotel outlet layouts, concrete columns and slabs, soft lime-mortar brick, garage below a hayloft, a ceiling that is the neighbour's floor, small-co-op approval, out-of-level walls). Different from Cobble Hill (restraint/scale), Park Slope (family rooms that change jobs), Brooklyn hub (house & households), Ditmas Park (porches), Great Kills (renovation schedule), Riverdale (co-op tower board tiers).
+
+### 1. Reddit / forums (excerpts only)
+- `reddit brooklyn heights apartment noise BQE OR wifi OR "floor-through" brownstone` · FC search →
+  - https://streeteasy.com/talk/discussion/30046-experience-of-owning-and-living-in-a-brownstone · excerpt "Loved my Brooklyn Heights brownstone floor-through. Lived there for 10 years." · Thesis section ("Single houses that became several homes"), quoted.
+  - https://www.reddit.com/r/Brooklyn/comments/1rtp9jf/living_above_the_bqe_in_carroll_gardens/ · excerpt "constant very low background noise" (Carroll Gardens, not the Heights) · NOT used.
+  - r/brooklynheights / Sonos-specific Heights threads: EMPTY (none returned).
+- Silo-wide r/sonos "$500 all-in" excerpt (research/sonos-installation.md silo §1) · §10.5 claim seven.
+
+### 2–5, 8, 11. Google PAA · PASF · Answer the Public · Google AI Overview · Bing/DDG · Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 says on the page that the AI Overview could not be viewed; claims used are published ones (Angi $500–$1,000/room and $50–$100/h; Sonos blog in-ceiling "special installation"; Sonos system requirements; Sonos wireless settings; Sonos legacy page; Sonos in-ceiling manual; LPC permits page; r/sonos).
+
+### 6. Landmarks / building histories
+- `Hotel St. George Brooklyn Heights history converted apartments condominium student housing` · FC search →
+  - https://en.wikipedia.org/wiki/Hotel_St._George (excerpt): eight attached structures around a courtyard before a 1995 fire destroyed two; Augustus Hatfield 10-storey design; Montrose Morris additions 1898 and 1913; completed March 21, 1930; four of eight buildings converted to apartments 1978–1984; student dorms since late 1990s; laundry building → loft apartments · §5 para 2, thesis "Hotel rooms that became apartments", §7 card, sources.
+  - https://stgeorgetower.com/history/ (excerpt): Tower and Grill buildings = the co-op; co-op proposal 1982, reality 1984; 120-foot salt-water pool; current entrance a late addition made at conversion; new student-housing building where one structure stood · §5, thesis, §13 card.
+  - https://www.nps.gov/articles/000/hotel-st-george-salsa-performance-hub.htm (excerpt): New York's largest hotel for several years; 100 Henry St; co-op in the 80s; now apartments and student housing · §13 card.
+  - https://www.studenthousing.org/buildings/st-george-towers/ (excerpt "Once the largest hotel in New York") · §5.
+- `Jehovah's Witnesses Watchtower sold Brooklyn Heights buildings converted residential Bossert Standish Leverich Towers` · FC search → results incl. Brooklyn Eagle, 6sqft →
+  - https://brooklyneagle.com/62504/jehovahs-witnesses-sell-the-towers-a-storied-brooklyn-heights-hotel/ (FC scrape, Nov 1 2017, Lore Croghan): Leverich Towers Hotel built 1920s, colonnaded towers on four corners; 16-storey, 313,768 sq ft, 21 Clark St; Watchtower residence/dining hall for >1,000; bought 1975 for $1,992,229.08; sold ~$200M (WSJ) to Kayne Anderson → "The Watermark at Brooklyn Heights" seniors housing; Kushner Cos. ~$1B on Heights/DUMBO Watchtower purchases · thesis, §13 card.
+  - https://www.6sqft.com/luxury-senior-housing-set-to-open-in-brooklyn-heights-former-leverich-towers-hotel/ (FC scrape): built 1928; ~1,000 volunteers; $200M 2017 + $130M renovation; 275 apartments (29 IL / 204 AL / 42 memory care), 78 configurations; original wood trim kept; Watchtower replaced plumbing + electrical in 1995 · §5.5 bullet, thesis, §13 card.
+- `Hotel Bossert Montague Street Brooklyn Heights reopening 2024 OR 2025 OR 2026` · FC search →
+  - https://www.brownstoner.com/interiors-renovation/hotel-bossert-98-montague-street-condo-conversion-plan/ (FC scrape, July 20 2026, Anna Bradley-Smith): 61 condos + commercial; SomeraRoad bought May 2025 for $100M; completion targeted 2028; June 23 LPC hearing on rooftop and courtyard additions, rooftop mechanicals, new window in blind arch at Remsen St; Chetrit lost it to foreclosure 2024; built 1909 · §5 para 2, thesis, §13 card.
+  - https://newyorkyimby.com/2026/07/lpc-reviewing-proposal-for-bossert-hotels-residential-conversion-at-98-montague-street-in-brooklyn-heights-brooklyn.html (title only) · corroboration.
+  - Wikipedia Brooklyn Heights: Bossert "once the seasonal home of many Dodgers players", restored by the Watchtower · §13 card.
+- `One Brooklyn Bridge Park 360 Furman Street former warehouse converted condominium history` · FC search →
+  - https://www.cityrealty.com/nyc/brooklyn-heights/one-brooklyn-bridge-park-360-furman-street/39821 (excerpt): built 1928 as a shipping center for Jehovah's Witnesses printing operations; converted 2008 to 449 condos by RAL; architect Vincent Cangelosi; added two floors; exterior corner staircases moved inside; entrances on Furman, Joralemon, Atlantic · §5.5 bullet, thesis, §7 card.
+  - https://www.theroeblingteam.com/buildings/360-furman-street-one-brooklyn-bridge-park (excerpt, brokerage research from offering plan): RAL (Robert Levine) acquired 1928 warehouse from Watch Tower in 2004; fee conveyed to Brooklyn Bridge Park Development Corp with 99-year ground lease; "qualified leasehold condominium" needing state legislation; block-long 12-storey reinforced-concrete warehouse, deep floor plates; conversion filed 2007, closings from 2008 · thesis, §9 ground-lease Q, glossary.
+  - https://parvizrealestate.com/blog/brooklyn-iconic-building-series-one-brooklyn-bridge-park (excerpt): New York Dock Company warehouse, architect William Higginson · thesis.
+  - https://streeteasy.com/building/one-brooklyn-bridge-park (excerpt): 435 units, 12 stories, 1928 · §5.5 bullet (unit-count discrepancy stated).
+- `Pierhouse Brooklyn Bridge Park condominium 90 Furman Street units 1 Hotel Brooklyn Bridge` · FC search → https://www.cityrealty.com/nyc/brooklyn-heights/pierhouse-brooklyn-bridge-park-90-furman-street/56091/N1006 (excerpt: 10-story, 106-unit condo, access to 1 Hotel rooftop pool) · thesis "always apartments", §7 card, §8 card.
+- `Brooklyn Heights library One Clinton Street new branch opened 2022 condo tower` · FC search → https://www.bklynlibrary.org/locations/brooklyn-heights/reconstruct (excerpt "The new library opened on June 8, 2022"); https://www.nycurbanism.com/one-clinton (excerpt: 38-storey, 409-ft tower, 134 condos, Clinton St & Cadman Plaza West) · §13 card, thesis.
+- `Brooklyn Heights carriage houses mews Grace Court Alley Hunts Lane Love Lane stables converted homes` · FC search →
+  - https://www.brownstoner.com/brooklyn-life/carriage-houses-of-brooklyn-heights/ (excerpt, 06/12/2013): Hunts Lane, 181 & 165 Columbia Heights, 43 Love Lane, 30–33 College Place, 14 Grace Court Alley, 291–293 Hicks; reader comment: more on Middagh, Pineapple, Willow and Henry south of Joralemon · thesis, §7 card.
+  - https://nypost.com/2026/04/24/real-estate/rare-brooklyn-carriage-house-lists-for-5-8m-on-a-hidden-street/ (FC scrape): 28 College Place, private mews off Love Lane, c.1899 former stable, two storeys, 2,640 sq ft, tin ceilings, hardwood floors, cast-iron radiators, hay doors, transoms, ground floor garage/studio, skylights · thesis.
+  - https://inhabit.corcoran.com/get-comfy-in-this-classic-brooklyn-heights-carriage-house/ (FC scrape): 4 Hunts Lane built 1899; hayloft turned living room, exposed beams, whitewashed brick, arched windows; private garage · thesis.
+- `24 Middagh Street oldest house Brooklyn Heights Federal frame wood 1824` · FC search → https://www.6sqft.com/brooklyn/brooklyn-heights/24-middagh-street/ (FC scrape): built 1824, wood-frame Federal, oldest home in the neighbourhood; separate two-storey carriage house, private courtyard; "reports date construction between 1790 and 1829" · thesis, §7 card, §13 card. https://inhabit.corcoran.com/peek-inside-the-oldest-house-in-brooklyn-heights/ (excerpt: "likely going up in 1824") · §13.
+- `Brooklyn Heights brownstone floor-through co-op apartment converted from single-family house listing parlor floor` · FC search → https://www.6sqft.com/turn-this-6-9m-brooklyn-heights-three-family-townhouse-into-an-urban-mansion-with-original-details-galore/ (excerpt: 261 Hicks St, five-storey Italianate brownstone converted in 1969 to a three-family residence) · §5 para 2, thesis.
+- `Brooklyn Heights` · FC scrape https://en.wikipedia.org/wiki/Brooklyn_Heights: boundaries (Old Fulton St, Cadman Plaza W, Atlantic Ave, BQE/East River); ferry 1814; brownstones mostly pre-Civil War; Columbia Heights six blocks by the Promenade; BQE re-routed along the bluff creating the Promenade; 1965 first historic district; 235.86 acres, 97/acre; CD2; ZIP 11201; 84th Precinct 301 Gold St; Engine 205/Ladder 118 at 74 Middagh, Engine 224 at 274 Hicks; fruit streets; Saint Ann's School 129 Pierrepont; Watchtower restored buildings incl. Bossert, began selling 2010 · §5, §5.5, §8, §13, sources.
+- `Brooklyn Heights Historic District designation 1965 number of buildings LPC designation report` · FC search → LPC Facebook excerpt (60th anniversary; first historic district 1965); thebha.org excerpt · corroboration. Designation date Nov 23 1965 carried from silo research (HDC, NYC hub section) · §5.5 bullet 1.
+
+### 7. Use cases / commercial
+- `Montague Street BID Brooklyn Heights businesses number shops restaurants` · FC search → https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=40 (excerpt: Retail Businesses: 100); https://www.montaguebid.com/businesses (excerpt: Barry's 200 Montague, Good Vets 125 Montague, Halstead 122 Montague) · §5.5 bullet 6, §8 card.
+
+### 9/10. Local news / hyperlocal
+- `Brooklyn Heights Promenade BQE triple cantilever repair plan 2026 news` · FC search →
+  - https://gothamist.com/news/mamdani-plans-to-build-temporary-highway-in-brooklyn-heights-to-fix-crumbling-part-of-bqe (excerpt, Aug 24 2026): $4B; temporary roadway from 2030 between Atlantic Ave and Sands St; triple-cantilever repairs from 2032; restored by 2040; Promenade sections closed but at least one portion open; ~70-year-old structure · §13 Promenade card.
+  - https://www.nyc.gov/html/dot/html/infrastructure/bqecentral.shtml (excerpt): Promenade is part of the triple-cantilever structure; bypass over Furman Street · §13 card, sources.
+  - http://brooklynheightsblog.com/archives/103328 (excerpt, Aug 25 2026): Columbia Heights overpass reconstruction among early work; Promenade rebuilt in segments · sources (corroboration).
+  - https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html (title only) · not used.
+- Brooklyn Paper / Brooklyn Eagle / Patch news on Sonos or home audio in Brooklyn Heights: EMPTY.
+
+### Local licensing / permits / rules
+- `LPC rules rooftop additions rear yard historic district "visible from a public thoroughfare" staff level permit mechanical equipment` · FC search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-112877 (excerpt, RCNY §2-15(f)(1): rear yard additions in historic districts — staff may approve if "not visible from a public thoroughfare"); https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf (excerpt) · §5 para 4, §10.5 claim four, glossary. (The page does NOT assert that the Promenade legally counts as a public thoroughfare for every house; it says Commission staff decide.)
+- LPC "Permits and Making Alterations" (silo research, NYC hub + Cobble Hill entries): most exterior changes to front and rear facades in historic districts need review; interior permit when interior work affects the exterior · §8.5, §10.5 claim four.
+- DEP noise code fact sheet 42 dBA; Admin Code §24-244(b); NEC 640.25 via Tenmat FAQ — carried from silo research (NYC hub / Park Slope) · §8.5 callouts, §9 corridor-wall Q, §10.5 claim six.
+
+### Sonos / product facts (NEW to silo unless noted)
+- `Sonos WiFi 6E 6 GHz support router compatibility Sonos products` · FC search + FC scrape https://support.sonos.com/en-us/article/recommended-settings-for-using-sonos-on-wireless-networks: enable all modes/bands up to and incl. WiFi 6; 2.4 GHz auto channel, 20 MHz width; 5/6 GHz "All or Auto"; Wi-Fi 5+ router recommended; >5 rooms simultaneous → hardwire; guest networks incompatible; ISP box in bridge mode with own router · FAQ 2, §10.5 (Claim three context), network section.
+- `support.sonos.com legacy products end of software updates what happens continue to work` · FC scrape https://support.sonos.com/en-us/article/legacy-product-update: as of Aug 2025 legacy S2 devices (Boost, Connect, Connect:Amp, Play:1, Play:3, Play:5 Gen 2, Playbar, Playbase, Sub Gen 1/2, SYMFONISK Gen 1) keep working, group, same app, stability updates · §10.5 claim five, glossary.
+- `garage door opener remote frequency 315 MHz 390 MHz Security+ 2.0 LiftMaster Chamberlain frequencies` · FC search → https://support.chamberlaingroup.com/... (excerpt: Security+ 2.0 315 MHz, 2022); https://www.liftmaster.com/894lt-remote-control/p/894LTMC (excerpt: Security+2.0, 315 MHz, 390 MHz); https://community.home-assistant.io/t/esphome-and-liftmaster-security-2-0-receiver/938715 (excerpt: tri-band 310/315/390 MHz) · §9 garage-opener Q.
+- Reused from silo research (not re-fetched): system requirements (extenders/EoP/guest unsupported; mesh wired to primary node; 65,000-song library); supported Wi-Fi modes (2.4/5 GHz); interference guide (18 in; wood/glass low, brick/marble medium, plaster/concrete high, metal very high; cameras, hubs, baby monitors…); in-ceiling cut-outs 8.25 in / 10.125 in, manual obstruction survey + building codes; Amp three pairs, 125 W/ch into 8 ohms and ~8.54 in square (TechHive), RCA in, 32–104°F; Port 2 in clearance, analog line-in, 12V trigger, away from radiators; Era 300 mount stud-only; Arc Ultra ~46.38 in, auto EQ when wall-mounted; Beam ARC/eARC; Ray optical; Sonos blog in-ceiling special installation; Angi $500–$1,000/room, $50–$100/h.
+
+### Pricing used (Brooklyn ×1.00 — lines copied from sonos-installation-brooklyn.html; no new prices)
+Sonos setup $125 · wall-mount $129 · console $79 · Sanus $84.99 · in-wall $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming device $49 · full home theater $350 · setup-only $195 first hour then 30-min blocks · TV from $179.99 · metal +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · return trip $150 · free reschedule with 24 h notice · NYC AV page $800–$2,500/zone (as on parent).
+Packages = parent's: Starter $125 · Standard $338.99 · Premium $507.99. Worked sums: $253 (79+125+49), $388 (125+75+129+59), $438 (129+45+40+125+99), $478.99 (129+84.99+65+75+125), $254 (129+125), $195 setup-only.
+
+### Images (11) — Step A: Drive folder "AESS Website Photos/Sonos Installation" EMPTY (checked by main run 17:59Z); Step B: CompanyCam not connected; permanent image rule from images/low-voltage/
+Each source viewed; cropped (Pillow) to remove faces/profiles and the 800 number on shirts; WebP q80, ≤1400 px. Four sources not previously used on any Brooklyn Sonos sibling (warehouse cable tray, IDF patch panel build, Cat6 punchdown, crew cable pull); the rest reuse library scenes with new crops.
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Crop box | Section |
+|---|---|---|---|
+| sonos-installation-brooklyn-heights-ceiling-speaker-and-wall-speaker.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | 470,0,1400,560 | Hero (eager) |
+| …-high-steel-ceiling-cable-tray-and-column.webp | low-voltage-installation-bronx-hero-warehouse-cable-tray.jpg | 640,0,1400,1000 | §5 |
+| …-cables-dressed-up-concrete-column.webp | low-voltage-installation-bronx-idf-patch-panel-build.jpg | 880,0,1400,760 | Thesis section |
+| …-cable-bundles-in-ceiling-hooks.webp | low-voltage-installation-bronx-02-jhook-pathway-bundle.jpg | 600,0,1400,560 | Reading-the-building section |
+| …-dining-room-brick-wall-below-ceiling-work.webp | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg | 760,250,1400,900 | §8 |
+| …-enclosures-and-conduit-on-brick-wall.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg | 830,0,1400,1120 | §9 |
+| …-recessed-wall-box-behind-screen.webp | low-voltage-installation-bronx-display-recessed-box.jpg | 900,0,1400,760 | §10 |
+| …-technician-on-ladder-at-open-ceiling.webp | low-voltage-installation-bronx-03-crew-cable-pull.jpg | 0,0,560,933 | §12 |
+| …-network-rack-and-laptop.webp | low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg | 700,0,1400,1120 | §13 |
+| …-patch-panel-punchdown.webp | low-voltage-installation-bronx-06-cat6-patch-panel-punchdown.jpg | 300,0,1400,933 | §15 |
+| …-cable-tester-at-wall-jack.webp | low-voltage-installation-bronx-07-fluke-certification-pass.jpg | 780,250,1400,1050 | Network section |
+Flag (as on every Sonos page): the images/low-voltage/ library looks AI-rendered (uniform logo shirts, synthetic lighting). Brand names visible on equipment (Fluke/LinkIQ-style tester, rack gear) and "ABSTRACT" logo shirts from behind. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real Sonos photos yet)`.
+
+### Keyword layers
+Service: Sonos installation Brooklyn Heights, Sonos installer, soundbar mounting, Sonos Amp ceiling speakers, Sonos setup. Problem: dropouts in concrete/hotel units, sprinkler heads, rated corridor wall, no closet for Amp, old brick anchoring, out-of-level walls, extenders unsupported, 6 GHz, legacy speakers. Technology: Arc Ultra, Beam, Ray, Era 100/300, Sub 4/Mini, Amp, Port, Roam 2/Move 2, Trueplay, access points. Industry: Montague St shops/restaurants/fitness/vet, Borough Hall law offices, 1 Hotel/condo amenity spaces, schools, churches, senior residence. Geographic: Brooklyn Heights, Montague, Henry, Hicks, Clark, Pineapple, Middagh, Columbia Heights, Furman St, Hunts Lane, Grace Court Alley, College Place, Love Lane, Promenade, Cadman Plaza West, Atlantic Ave, 11201, 84th Precinct, CB2.
+
+### Flags for Anwar / main run
+- Size slot: every gap between 162,891 and 245,126 B is <4 KB, so the page was built lean to land at 159,985 B (below the smallest sibling, 162,891): CSS minified, JSON-LD compact, HTML indentation stripped, named entities converted to UTF-8, ImageObject captions and Service offers dropped from JSON-LD. If a batch-mate also lands below 160.8 KB the main run must separate them.
+- check_page FAIL lines are only the 16 "live sibling … doesn't link back" lines (16 area/hub pages) — main-run wiring; everything else passes with --no-registration.
+- LocalBusiness block mirrors the parent's (url /sonos-installation-brooklyn), as Park Slope did.
+- Unsourced installer practice stated on page (confirm): sprinkler clearance asked of building / never touch sprinkler; surface-only on corridor walls; anchors into sound brick not lime joints, hammer action off; scan before drilling columns; probe hole for studs in frame house; "won't do" list (FAQ 4); fireplace-opening advice (FAQ 5); small-co-op "talk to the owner upstairs"; ground-lease answer labelled general info, not legal advice.
+- One Brooklyn Bridge Park: 449 units (CityRealty/Roebling) vs 435 (StreetEasy); 12 storeys (Roebling/StreetEasy) vs 14 after two added floors (CityRealty) — page says "twelve-storey" quoting the brokerage research page and that the conversion "added two storeys" per CityRealty.
+- Hotel St. George "once the largest hotel in New York" (EHS/NPS wording "for several years").
+- 24 Middagh date: 1824 per 6sqft; Corcoran notes reports range 1790–1829 — both stated.
+- Promenade-as-public-thoroughfare: page says Commission staff decide; it does not state the legal test is met.
+- "Hotel rooms typically open off corridors whose walls were built to resist fire" and outlet-layout observations are general installer knowledge, not sourced to a specific building.
+
+## Question register — sonos-installation-brooklyn-heights-brooklyn-ny
+
+§9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s "Apartments in former hotels" · "The concrete warehouse on Furman Street" · "Carriage houses on the mews" · "Split brownstones and timber houses":
+1. Our apartment was put together from old hotel rooms, so the outlets are wherever the hotel wanted lamps — how do we place Sonos when we can't easily add power?
+2. Our converted-hotel apartment has sprinkler heads in the ceilings — how close to one can a ceiling speaker go?
+3. Can we mount the TV and soundbar on the wall we share with the building's public hallway?
+4. There's no spare closet anywhere in our former hotel unit — where can the Sonos Amp live?
+5. A concrete column stands in the middle of our living room — can the TV, soundbar or a speaker be mounted on it?
+6. Our condominium sits on a ground lease from Brooklyn Bridge Park — does that change who approves work inside our apartment?
+7. The ground floor of our carriage house is still a garage — will the door opener's remote interfere with the Sonos upstairs?
+8. Our carriage house walls are old brick laid in crumbly mortar — how do you fix a bracket without damaging them?
+9. Our brownstone co-op has four shareholders and no managing agent — who signs off before ceiling speakers go in?
+10. Nothing in our 1820s frame house is level — how do you hang a TV and soundbar so they don't look crooked?
+
+§17 FAQ (visible == FAQPage, 5):
+1. Can we live with one Sonos speaker for a while before deciding whether our apartment should have ceiling speakers?
+2. We are upgrading to a Wi-Fi 7 router — will our Sonos speakers use its 6 GHz band?
+3. We kept a shelf of CDs and a CD player — what is the simplest way to play them through Sonos?
+4. Is there anything you will refuse to do in a landmarked or converted Heights building?
+5. Our parlor has a decorative fireplace that no longer works — can a speaker sit inside the opening?
+
+Other question-form headings: none (repair captures are "Need Your Brooklyn Heights Sonos Fixed Today?" and "Brooklyn Heights Sonos Gone Quiet After a Building Change?").
+
+### De-dup notes (meaning-level, against all ~620 question headings on the 33 Sonos pages on disk incl. the parallel Tribeca and LIC drafts)
+- Dropped while drafting because another page owns the intent: "inherited Playbar/Play:1 worth keeping?" (Queens: inherited older Sonos works with new); senior-residence pre-move setup (Staten Island: set up before moving in); hotel-room sound through sealed connecting door (Greenwich Village flue/party wall); Promenade portable (BPC esplanade, Park Slope Long Meadow); BQE construction wait (BPC flood-wall construction); wood-frame Wi-Fi (Todt Hill rubble walls, Douglaston stucco); COI request (Hudson Valley); separate carriage house on the system (Suffolk/Putnam cottage).
+- Partial overlaps to judge: Q9 vs NYC "Does cutting ceiling speaker holes count as an alteration in my co-op?" and Cobble Hill "tell the neighbours before drilling the party wall" (Q9 is who approves in a tiny self-managed co-op); Q3 vs Park Slope rated-ceiling Q (Q3 is surface vs recessed on a corridor wall); Q4 vs Manhattan steam-riser closet / Nassau built-in bookcase (Q4 is no closet at all, console placement and the cable route); FAQ 3 vs Ulster network-drive library (FAQ 3 is a physical CD player into Port/Amp line-in); FAQ 5 vs Cobble Hill mantel shelf with a working fire (FAQ 5 is inside a dead firebox).
+
+### Masked-geo similarity
+Blocks (p/li/td/h2/h3/figcaption ≥12 words after MEGA-NAV END), checker mask() + Brooklyn Heights/Park Slope/Cobble Hill/Ditmas Park + digits removed, difflib SequenceMatcher on pairs sharing ≥40% vocabulary, vs all 33 sonos-installation-*.html on disk (incl. Tribeca and LIC drafts). Two rewrite rounds. Highest non-constant block: 0.644 (AI claim-six paragraph vs Westchester); next 0.638 (AI intro vs Todt Hill). Constants at 1.000 excluded per blueprint: NAP/licence/rating line, freshness stamp, and the verbatim "Brooklyn TV mounting base…" price note from the parent. Final file 159,985 B, 13,214 rendered words.
+
+## Long Island City, Queens (sonos-installation-long-island-city-queens-ny)
+
+Built 2026-10-17 (batch: Tribeca / Brooklyn Heights / Long Island City). Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd, #bronx) · up-link /sonos-installation-queens · prices = Queens Sonos lines copied exactly from sonos-installation-queens.html (flat, as published there; no new figures).
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC" = Firecrawl (mcp__Fire_Crawl__firecrawl_search / firecrawl_scrape), "WS" = WebSearch.
+
+**Thesis (distinct from Astoria "system must outlive the lease", Battery Park City "state-planned managed towers / glazing / flood wall", Forest Hills "indoors by design", Douglaston "inside yours, outside reviewed"):** in Long Island City most homes are new, compact and open, so one room does four jobs a day (office, dining room, cinema, bedroom). The Sonos plan is made by the hour, not by the room: an anchor soundbar plus movable "floater" speakers, Sub kept away from the bed, desk speaker kept out of video calls, Night Sound / sleep timer / TV Audio Swap for the late shift. Then the tower's limits: slab overhead (some post-tensioned — no drilling without the building's scan), dropped soffits, router inside a metal closet media panel, glass walls, through-wall heating/cooling units. Older LIC (Hunters Point HD rowhouses, Dutch Kills walk-ups, converted lofts, NYCHA Queensbridge/Ravenswood) and LIC businesses (Vernon Blvd, Jackson Ave/Court Square, Queens Plaza, Dutch Kills industrial, Silvercup, Center Blvd) as secondary sections.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only via FC search (reddit.com pages not scraped). See R1–R3. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 states so on the page; claims tested are ones circulating generally, with Sonos support / Angi / Penhall sources |
+| 6 | Landmarks | L1–L9 (reused from research/smart-lock-installation.md LIC section, sources listed there) + MoMA PS1 Warm Up (N6) |
+| 7 | Use cases / building stock | L1, L2, N1, N2, N3, R1 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Multifamily Dive (N2), 6sqft (L2), CityRealty (N1) |
+| 10 | Hyperlocal | EMPTY for the Sonos/home-audio category (no LIC Post / Queens Chronicle item found on home audio) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix — new this page
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| N1 | `Skyline Tower 3 Court Square 802 units tallest building Queens condo completed` · FC search (excerpts) | https://en.wikipedia.org/wiki/Skyline_Tower_(Queens) ; https://www.cityrealty.com/nyc/market-insight/features/future-nyc/skyline-tower-50-sold-queens039-tallest-selling-lic-condos-gorgeous-views-660k/49483 | Completed July 2021; 802 condos; tallest building in Queens (Wikipedia excerpt says 762 ft at topping out; CityRealty says 778 ft, 67 stories, glass-sheathed) | §5.5 bullet 3, §7 condo card, §13 Court Square card (height not stated on page) |
+| N2 | `Long Island City apartment building wifi included building-wide internet amenity tower residents` · FC search → FC scrape (summary) | https://www.multifamilydive.com/news/grubb-apartment-long-island-city-queensboro-subway/746782/ | Apr 30 2025: Link Apartments QPN, 26-storey, 417 units, rents $4,195–$7,695, new accessible entrance to adjacent Queensboro (Plaza) subway station; 35,000 sq ft amenities incl. coworking spaces (excerpt). Search did NOT surface any LIC building-wide Wi-Fi source → no building-Wi-Fi claim made. | §5.5 bullet 4 |
+| N3 | same search (excerpt) | https://tfc.com/apartments/4545-center-blvd | "Studios to 3BRs at 4545 Center Blvd" | background for unit-mix statements (not quoted) |
+| N4 | `site:support.sonos.com night sound speech enhancement home theater settings` · FC search → FC scrape | https://support.sonos.com/en/article/reduce-loud-tv-audio-with-night-sound ; https://support.sonos.com/en/article/make-dialogue-easier-to-hear-with-speech-enhancement (excerpt) | Night Sound "reduces the intensity of loud sounds while increasing the level of quieter sounds, making dialogue clearer without having to turn up the volume"; Speech Enhancement levels on Arc Ultra | By-the-hour section (quoted), §9 through-wall-unit Q, §10 Beam card |
+| N5 | `site:support.sonos.com alarms sleep timer Sonos app` · FC search (excerpts) | https://support.sonos.com/en/article/set-a-sleep-timer-on-sonos ; https://support.sonos.com/en/article/set-an-alarm-on-sonos | Sleep timer and alarms are app features | By-the-hour table + "last tap", §9 alcove Q, HowTo step 7 |
+| N6 | `site:support.sonos.com AirPlay delay video lip sync line-in Era 100 Bluetooth` · FC search → FC scrape | https://support.sonos.com/en/article/stream-airplay-audio-to-sonos | AirPlay 1 system audio from macOS "may experience a delay or audio interruptions"; "Sonos speakers cannot be used to play AirPlay audio while the source device is on a phone call"; AirPlay not available on speakers set up as surrounds; compatible product list | By-the-hour "work hours", §9 desk/video-call Q, §10.5 H3 4 |
+| N7 | `site:support.sonos.com Era 100 line-in adapter USB-C turntable connect` · FC search (excerpts) | https://support.sonos.com/en/article/play-line-in-on-your-era-100 ; https://support.sonos.com/en/article/listen-to-your-turntable-on-sonos | Era 100 needs the Sonos Line-In Adapter on its USB-C port; Era 100/Era 300/Move 2 accept line-in via the adapter | §9 desk Q, §10 Era card, §10.5 H3 4 |
+| N8 | `site:support.sonos.com Sonos Ace TV Audio Swap soundbar compatible` · FC search (excerpts) | https://support.sonos.com/en/article/listen-to-your-tv-with-sonos-headphones-tv-audio-swap | Sonos Ace / Ace Ultra take home-theater audio from a compatible soundbar (TV Audio Swap) | By-the-hour "last tap", §9 alcove Q, §10 headphones card |
+| N9 | `MoMA PS1 Warm Up summer music series courtyard Long Island City history since 1997` · FC search (excerpt) | https://www.momaps1.org/en/programs/800-warm-up-2026 | Warm Up 2026 = 28th season, six Fridays in July and August, courtyard; "Since 1998" | §13 MoMA PS1 card |
+| N10 | `post-tensioned concrete slab drilling danger tendons condo apartment owners New York scan before drilling` · FC search (excerpt) | https://www.penhall.com/post-tension-vs-rebar/ | PT slabs not dangerous to occupy but dangerous to drill without locating cables; GPR scan prevents it; "A PT cable under tension carries approximately 30,000 pounds of load in a single 0.5-inch strand" | Concrete-box section 1, §9 post-tensioned Q, §10.5 H3 3 |
+| N11 | `NYC Department of Buildings temporary pressurized walls apartments permit flex bedroom rules` · FC search (excerpt) | https://www.brickunderground.com/blog/2011/12/From_1_room_to_2_an_insider_guide_to_building_a_wall_in_NYC | DOB press secretary: DOB "doesn't differentiate between pressurized or temporary walls and 'regular' walls for permitting purposes"; landlord approval needed | §9 flex-wall Q |
+| R1 | `reddit r/longislandcity noise neighbors thin walls new building soundproofing` · FC search (excerpt) | https://www.reddit.com/r/longislandcity/comments/1989ncs/soundproof_buildings_in_lic/ | "any luxury high rise will have much better soundproofing than older buildings simply because they need to build it with concrete and ..." | §5 para 3 (quoted fragment) |
+| R2 | `Long Island City apartment building wifi included …` · FC search (excerpt) | https://www.reddit.com/r/longislandcity/comments/1buyegb/comprehensive_list_of_lic_queensboro_plaza_luxury/ | "Skyline tower is excellent … Noise could be an issue." | background only (not quoted) |
+| R3 | `reddit r/longislandcity internet provider building fios spectrum only option wifi` · FC search (excerpts) | https://www.reddit.com/r/longislandcity/comments/1pt8ihp/spectrum_astound_or_fios/ ; https://www.reddit.com/r/longislandcity/comments/1wzblta/internet_services/ ; https://www.reddit.com/r/longislandcity/comments/1j2liwd/how_much_are_you_paying_for_internet/ | Residents choose among Spectrum, Astound and Fios; "fios has been very inconsistent. Have to restart"; promo pricing talk | repair-capture para (provider switches after promo; not quoted) |
+| W1 | `Long Island City rental tower studio one-bedroom unit mix Skyline Tower Court Square apartments studios` · WS | (titles only: cityrealty, nestseekers, bondnewyork, 6sqft) | Studio condos listed in Skyline Tower | background only |
+| W2 | `Sonos AirPlay latency delay video calls computer audio support.sonos.com` · WS | (Sonos community titles only) | owner threads on line-in/AirPlay delay | not used (N6 used instead) |
+
+### Reused (sources recorded in research/smart-lock-installation.md, LIC section, and research/sonos-installation.md silo section) — not re-fetched this run
+- L1 OSC Report 12-2026 (https://www.osc.ny.gov/files/reports/pdf/report-12-2026.pdf): 26,177 units LIC–HP end 2024, +308.1% since 2010; renters ≈ three-quarters (2023); Queens West 4,757 units / 11 buildings; Hunters Point South 5,255 units 2013–2024; 4,909 businesses LIC/Sunnyside/Woodside +19.5% 2013–23, LIC-HP 36.2% → §5 para 1, §5.5 bullets 1–2, §8 intro, §10.5 H3 7.
+- L2 6sqft OneLIC (https://www.6sqft.com/14700-homes-long-island-city-rezoning-approved/): 54 blocks, 14,700 homes, approved Nov 2025 → §5 para 4, §5.5 bullet 6.
+- L3/L4 Hunters Point HD (6tocelebrate; LPC report 0450.pdf): designated May 15, 1968; 45th Ave 21st–23rd Sts; ~47 buildings; built 1871–1890; Italianate, Second Empire, neo-Grec → §5 para 4, §5.5 bullet 5, §7 card, §13 card.
+- L7 Queensbridge Houses (Wikipedia): 1939, 96 six-storey buildings, 3,142 units, largest housing project in North America → §5 para 4, §7 card, §13 card.
+- L9 Gantry Plaza SP (opened 1998, 12 acres after 2009, 1925 transfer bridges), Pepsi-Cola sign (1940, 4-09 47th Rd, landmark 2016), MoMA PS1 (22-01 Jackson Ave, 1892 Romanesque Revival school), Silvercup Studios (former Silvercup bakery) → §13 cards, §8 Silvercup card.
+- L10 Forgotten NY Dutch Kills (Arris Lofts in former printing plant; Queens Plaza/Jackson Ave) → §5 para 4, §7 loft card.
+- Silo: Sonos system requirements (2.4 GHz all products, 5 GHz-only routers unsupported, no extenders/powerline/guest networks, mesh primary-node rule); supported Wi-Fi modes (2.4/5 GHz lists); interference article (metal "Very High", plaster/concrete "High", restart router for new channel, interference sources); Trueplay (quiet room, ~3 min/room); Sub guide (wall/corner/behind furniture, front clear); Arc Ultra wall-mount EQ; Ray optical; Beam Gen 2 HDMI ARC/eARC; Amp 125 W/ch @8 Ω (TechHive); NYC DEP noise fact sheet 42 dBA commercial music; Angi $500–$1,000 per added room; Sonos blog: in-ceiling speakers "require special installation" → §9, §10, §10.5, §8.5.
+
+### Prices used (all copied from sonos-installation-queens.html pricing + packages; none invented)
+$125 setup · $129 wall-mounted · $79 console · $84.99 Sanus · $169 in-wall concealment · $59 cord cover · $99 cable ≤25 ft · $129 A/V receiver · $99 universal remote · $49 streaming device · $350 full home theater · $800–$2,500 per zone (walkthrough) · walls $0/+$30/+$45/+$65/+$75/+$95, backer $85, high mount $75, walk-up $40, COI free, no Queens parking · setup-only $195 first hour then 30-min blocks · Queens TV mount base $179.99 · $150 return trip, free reschedule 24 h · packages $125 / $224 / $507.99 (identical to parent). Example sums shown on page are arithmetic of these lines only: $204 (79+125), $368.99 (129+84.99+30+125), $224, $507.99 (+$30 metal studs).
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos/Sonos Installation" EMPTY (main run, 17:59Z); CompanyCam not connected. All 38 distinct photos in images/low-voltage/ already appear on earlier pages, so new crops were cut (PIL, WebP q82, all ≤1120 px) that exclude every face, the shirt phone numbers, the "Community Center"/school signage. Every source and crop viewed. Alt/title/captions describe only what is visible; none claims an LIC job, customer or building.
+
+| New file (images/sonos-installation/) | Source (images/low-voltage/) ← crop box | Section |
+|---|---|---|
+| sonos-installation-long-island-city-ceiling-speaker-raised-to-opening.webp (hero, eager, og:image) | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg ← 600,0,1050,440 | Hero |
+| …-ceiling-access-point-and-cable.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg ← 760,0,1400,290 | §5 |
+| …-recessed-tv-box-and-tool-bag.webp | low-voltage-installation-bronx-display-recessed-box.jpg ← 820,100,1400,1120 | §6 |
+| …-cable-loops-between-metal-studs.webp | low-voltage-installation-bronx-04-metal-stud-rough-in.jpg ← 1000,0,1400,1120 | §7 |
+| …-wall-plate-jack-and-tools.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg ← 800,200,1400,933 | concrete-box section |
+| …-rack-switches-and-laptop.webp | low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg ← 640,0,1400,1120 | §8 |
+| …-patch-panel-punch-down-close.webp | low-voltage-installation-bronx-06-cat6-patch-panel-punchdown.jpg ← 500,0,1400,933 | §9 |
+| …-conduit-and-junction-box-pull.webp | low-voltage-installation-nassau-county-riser-conduit-pull.jpg ← 760,200,1400,1120 | §10 |
+| …-ceiling-and-wall-speakers-glass-room.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg ← 470,0,1400,1120 | §13 |
+| …-tone-tracer-at-wall-opening.webp | low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg ← 700,0,1400,1120 | §15 |
+| …-cable-tester-at-wall-jack.webp | low-voltage-installation-bronx-07-fluke-certification-pass.jpg ← 740,200,1400,1050 | §17 |
+FLAG: the low-voltage library looks AI-rendered (uniform logo shirts, idealised scenes) — same caveat as every Sonos page; replace when real Sonos photos are uploaded. Several source photos are the same scenes used (in other crops) on Queens/Douglaston/Astoria pages. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real Sonos photos yet)`.
+
+### Question register — sonos-installation-long-island-city-queens-ny
+Checked by meaning against all 604 question headings/FAQ items on the 33 Sonos pages on disk at build time (incl. batch-mates). Avoided because already taken: sleep-timer-for-child, Night Sound late-night settings, soundbar-to-headphones, video calls vs music in home office, company VPN, roommates' accounts, Sub Mini vs Sub 4 in studio, building-provided Wi-Fi, concrete ceiling, glass walls/rear speakers, soundbar in front of window, balcony, shared roof deck, developer Ethernet jacks, hallway soffit, volume cap, moving apartments, elevated-train dialogue.
+
+§9 YOUR QUESTIONS ANSWERED (H3)
+1. In a studio where the bed sits a few feet from the TV, where can a Sub go so the bass doesn't come up through the mattress?
+2. One of us sleeps in the alcove while the other is up late at the desk — how can the kitchen end have music without reaching the bed?
+3. Can the Era 100 on my desk be the speaker for video calls on my laptop?
+4. Our flex bedroom was made with a pressurized temporary wall — can a speaker or soundbar be mounted on it?
+5. My roommate games and streams all evening on the same router — will that make the Sonos stutter?
+6. The building manual says our floor slabs are post-tensioned — can anything be drilled into the ceiling or floor?
+7. The internet arrives in a metal panel inside our coat closet — is that why the Wi-Fi is weak, and can the router come out?
+8. Our building just received its temporary certificate of occupancy and punch-list crews are still on our floor — should the Sonos wait?
+9. The through-wall heating and cooling unit under our window is loud — where should the speakers sit, and does it matter for tuning?
+10. Can the sponsor add speaker wiring to our unit before we close on a new-construction condo?
+11. Our converted-factory loft has exposed conduit and sprinkler pipes across a concrete ceiling — can speaker cable run in the open too?
+12. Our 45th Avenue rowhouse is split into apartments — can the owner's floor have ceiling speakers without disturbing the tenants below?
+13. Our front room near Queensboro Plaza looks onto the elevated tracks — should the speakers face the window or away from it?
+14. Our taproom has a concrete floor, brick walls and a steel roof deck — how do we keep the music from turning to mush in all that echo?
+
+§17 FAQ (visible == FAQPage, 5)
+1. Our TV faces the bed rather than a sofa — does a soundbar still work from that angle?
+2. Our new router puts 2.4, 5 and 6 GHz under one network name — will Sonos connect to it?
+3. Can the Sonos visit be booked for the same day the movers come?
+4. In an apartment under 600 square feet, is a wired Sonos connection ever worth it?
+5. Will our music carry into the corridor through the apartment door?
+
+Partial overlaps to review: Q13 is near "Our windows face an elevated train line — can the soundbar keep dialogue clear when a train goes by?" (Astoria) — different intent (speaker orientation vs dialogue); Q12 touches "Where does the Amp for the garden speakers live if the garden level is someone else's apartment?" (Cobble Hill/Park Slope) — different intent (ceiling speakers over tenants); Q4 desk speaker vs "Will music in the rest of the house interfere with video calls in my home office?" — different (computer audio routing vs whole-house interference).
+
+### Keyword layers (placement)
+Service: Sonos installation Long Island City (title, H1, H2s, schema), Sonos setup, soundbar install, Sub placement, ceiling speakers on Amp. Problem: Sonos dropping out in tower, router in closet panel, Sub through the bed, video-call delay. Technology: Arc Ultra, Beam, Ray, Sub 4/Mini, Era 100/300, Roam 2/Move 2, Amp, Port, Ace/TV Audio Swap, Night Sound, Speech Enhancement, Trueplay, 2.4/5/6 GHz, AirPlay, Line-In Adapter. Industry: studios, offices, taprooms, galleries, production studios, cafes, renters, condo owners. Geographic: Long Island City, Hunters Point, Court Square, Queens Plaza, Dutch Kills, Center Boulevard, Vernon Boulevard, Jackson Avenue, 45th Avenue, Queensbridge, Ravenswood, Queens.
+
+### FLAGS for review
+- Installer-practice statements unsourced: "we don't fix anything to pressurized walls", Sub on a firm stand vs pad, door-gap corridor answer, taproom "more speakers lower volume", punch-list timing, sponsor-request answer (labelled not legal advice), loft conduit separation, return-air cable rating, sprinkler/detector rule.
+- "Consumer streaming plans are sold for listening at home" (business music line) — unsourced, same caveat Astoria flagged.
+- 6 GHz: page says Sonos's supported-modes list covers 2.4/5 GHz only (sourced) and so "the 6 GHz band does nothing for Sonos" — inference from that list.
+- Beam Ultra HDMI ARC/eARC not separately sourced (Beam Gen 2 is).
+- "Elevated trains run at the window line of many Dutch Kills and Queens Plaza homes" — general description (N/W/7 are elevated at Queensboro Plaza), no source.
+- Silvercup "in and around the former Silvercup bakery" from reused L9 Wikipedia note.
+- Package card names on page ("Wired Anchor") differ from parent ("Two-Floor Link"); prices/lines identical.
+- Field Notes = installer routine, no client story.
