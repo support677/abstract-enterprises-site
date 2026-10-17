@@ -1080,3 +1080,383 @@ Also on the page (not images, not figures): three inline SVG diagrams (door-prep
 No question-form CTA headings (repair captures are "When a Nassau Smart Lock Stops Behaving" and "Same-Day Help for a Failed Nassau Smart Lock").
 
 De-dup notes: checked by meaning against the NYC, LI and HV registers and against the Bronx and Staten Island pages on disk at ~07:15. Replaced during the build: "Smart Lock Acting Up in Nassau County?" (masked-identical to Bronx/SI repair H2); dock-gate shared code (vs SI side-yard gate keypads); outswing-door FAQ (vs SI outside-hinge side door); door planing/rehanging FAQ (vs SI dropped-hinge door); removing old locks/packaging FAQ (vs LI remove-and-patch FAQ); "keypad without full access control" wording (vs HV office-suite Q). Close neighbours left for the main run to judge: Q4 sidelight reach-through vs NYC double-cylinder legality (different intent); Q12 Hempstead rental legality vs LI fortnight-rental codes and HV registry; Q14 router swap vs HV internet-down; "Taking Over a House That Already Has Smart Locks" (non-question H2) vs SI "previous owners can't still open the doors" question.
+
+
+## Suffolk County (smart-lock-installation-suffolk-county)
+
+Built 2026-10-17 (batch: Suffolk / Westchester / Rockland smart-lock area pages). Area page, up-link /smart-lock-installation-long-island. GBP Brooklyn (1282 Troy Ave, #brooklyn). Direct line (631) 407-2884 (800 only in shared header chrome). Suffolk ×1.20.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+
+Thesis / lane: in Suffolk the lock answers to the town and the water before the app — ten towns with their own rental-permit, accessory-apartment and fire-marshal (Knox-Box) rules; Sandy-raised South Shore houses where the enclosure below the flood line takes no electronics; Fire Island cottages reached only by ferry/water taxi; pool-deck doors that need a UL 2017 alarm, not just a lock; bulkhead cellar doors; Hauppauge/Route 110/Ronkonkoma commercial doors (Knox-Box key swaps, flex-unit bay doors, HIPAA records rooms, congregation security grants).
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit longisland smart lock Suffolk keypad deadbolt recommendation` · Firecrawl search → only generic r/Locksmith / r/HomeImprovement keypad-deadbolt threads (no Suffolk content). Not used. Suffolk-specific Reddit: EMPTY. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are recurring claims from product/cost-guide/how-to content, stated as such on the page. |
+| 6 | Landmarks | L1–L6 below |
+| 7 | Use cases / building stock | T1–T5, F1–F3, P1, B1 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Newsday/FEMA Sandy tally (via NY Sea Grant PDF), Long Island Advocate (Sandy, July 2026), ABC7 (West Islip burglaries, 2016 — research only), Governor's office (Station Yards) |
+| 10 | Hyperlocal | Long Island Advocate used. Patch/News12 Suffolk smart-lock stories: none found → EMPTY. Suffolk PD Facebook "lock your car" posts (excerpts) — vehicle-only, not used. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| T1 | `Town of Islip rental permit inspection checklist locks smoke detectors requirements` · Firecrawl search → Firecrawl scrape (pdf) | https://islipny.gov/community-and-services/documents/departments/code-enforcement/82-rental-occupancy-permits-application-1-2-family/file | Rental occupancy permit (1–2 family) affidavit: no outstanding violations; permit not transferable; not to be used as transient rental (Ch. 68 Art. L); permit suspended if a later violation is issued; smoke alarms outside/in each sleeping area and every storey incl. basements; CO alarms. No lock/door item. | §9 Islip Q, §10.5 H3 2, Across Suffolk (Islip) |
+| T2 | same search (excerpt) | https://ecode360.com/11752146 | Islip Code Art. L Rental Dwelling Units: CO alarm certificate/affidavit for permit. Background only. | research only |
+| T3 | `Property Maintenance Code of New York State 304.18.1 doors rented leased deadbolt …` · Firecrawl search → Firecrawl scrape | https://up.codes/s/building-security | IPMC (2024, GSA edition) 304.18.1: rented dwelling-unit door with a deadbolt — readily openable from egress side without keys, special knowledge or effort; min 1-inch throw; installed per manufacturer; sliding bolt not acceptable. Page calls it "the model version New York's code is built on" (NYS PMC text itself not opened: dos.ny.gov 2025 PMCNYS PDF excerpt only). | §5 para 2, §9 Islip Q, §10.5 H3 2, pricing drivers, rental section |
+| T4 | `Town of Brookhaven accessory apartment permit requirements owner occupied separate entrance` · Firecrawl search (excerpt of eCode) | https://ecode360.com/8597617 | Brookhaven Art. XIV: owner occupancy required (owner may occupy either unit); one accessory apartment per dwelling; no one may create/occupy without Chief Building Inspector approval and a provisional accessory apartment licence. Separate-entrance rule not shown in excerpt → not claimed. | §9 Brookhaven Q, Across Suffolk (Brookhaven) |
+| T5 | `Suffolk County New York ten towns villages list …` · Firecrawl search | https://www.ny.gov/counties/suffolk ; https://en.wikipedia.org/wiki/Suffolk_County,_New_York ; https://www.zippboxx.com/blog/suffolk-county-towns ; https://www.suffolkcountyny.gov/Visiting/Towns-and-Villages | Ten towns (Babylon, Brookhaven, East Hampton, Huntington, Islip, Riverhead seat, Shelter Island, Smithtown, Southampton, Southold) + village list by town (Ocean Beach/Saltaire in Islip; Dering Harbor; West Hampton Dunes etc.); 86 mi long; 912 sq mi land / 1,461 water (62%); most county offices in Hauppauge; Brookhaven largest town; Brookhaven only town spanning South to North Shore (zippboxx); Hauppauge shared by Islip and Smithtown (zippboxx); CDP/hamlet names; Riverhead County Center. | §5 paras 1/3, §5.5 bullets 1–2, §7 cards, Across Suffolk, also-serve list, schema areaServed |
+| T6 | carried from research/smart-lock-installation.md (LI hub, Census QuickFacts) | census.gov QuickFacts Suffolk | Owner-occupied 82.2%; housing units 583,777 (July 1 2025). | §5 para 2, §5.5 bullet 3 |
+| F1 | `FEMA enclosures below base flood elevation limited to parking building access storage …` · Firecrawl search (excerpts) | https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf ; https://agents.floodsmart.gov/sites/default/files/media/document/2025-07/fema_nfip-p-348-protecting-building-utility-systems-from-flood-damage-2017.pdf | TB5: "The NFIP limits the use of enclosures under elevated buildings to parking of vehicles, building access, and storage." P-348: components below required elevation must be designed to resist flood loads / elevated. | §5 para 3, §7.5 enclosure para, §9 Lindenhurst Q, flood-line checklist |
+| F2 | `Lindenhurst homes elevated after Superstorm Sandy NY Rising …` · Firecrawl search → Firecrawl scrape | https://longislandadvocate.com/superstorm-sandy-still-haunts-suffolk-residents-today/ | July 15 2026 (Marissa Di Vita): NY Rising bought flood-zone houses to demolish or paid to raise them; Lindenhurst "now full of empty lots". | §5 para 3 |
+| F3 | `Suffolk County Superstorm Sandy homes damaged destroyed number …` · Firecrawl search → Firecrawl scrape (pdf) | https://www.seagrant.sunysb.edu/media/sandy12/Newsday-Sandy010713.pdf | Newsday (Jan 2013) FEMA tally: Suffolk 20,798 flooded/damaged/destroyed structures; 8,153 >50% damage; 65 destroyed (Nassau 74,736). | §5 para 3, §5.5 bullet 4 |
+| P1 | `New York residential code pool barrier where wall of dwelling serves as part of barrier doors direct access pool alarm` · Firecrawl search → Firecrawl scrape (pdf) | https://dos.ny.gov/tb-1014-uc-pool-summary (→ tb-1014-uc-pool-summary-rev-1.pdf) | DOS summary (2020 RCNYS/BCNYS): dwelling wall as barrier → doors with direct pool access need UL 2017 alarm, manual deactivation ≤15 s per opening; where dwelling wholly inside enclosure, alarms at every such door; alternative approved means (self-closing/self-latching) if equal protection; gates self-closing, self-latching, pedestrian gates open outward, latch inside enclosure ≥40 in, lock when unsupervised. (Shelter Island 2025 pool code PDF found in search but scrape failed → EMPTY.) | §5 para 4, §6 card, §7.5 sliders, §9 pool Q, §10 equipment, §10.5 H3 3 |
+| B1 | `Bilco basement door egress code openable from inside without keys bulkhead …` · Firecrawl search (excerpts) | https://www.bilco.com/ProductDetail/Basement-Door-Keyed-Lock-Kit-87 ; http://boman-kemp.com/IRC-Code-R310-Emergency-Escape-and-Rescue-Required.htm | Bilco keyed lock kit: lock from outside, slide bar from inside. IRC R310: basements and sleeping rooms need an emergency escape and rescue opening operational from inside without keys, tools or special knowledge (model code; page says "model residential code"). | §7.5 bulkheads, §9 bulkhead Q |
+| I1 | `Fire Island National Seashore driving permit contractors vehicles ferry only communities` · Firecrawl search → Firecrawl scrape | https://www.nps.gov/fiis/planyourvisit/off-road-vehicle-permit-faqs.htm | Only year-round residents and contractors/businesses can apply; contractor permits authorise driving only to communities where holder has work; summer residents/renters not eligible ("adequate ferry service"); winter access by ferry, water taxi or private boat. | §9 Fire Island Q, §7 card, pricing drivers |
+| K1 | `Suffolk County fire marshal Knox box key box requirement commercial buildings town code Brookhaven Islip` · Firecrawl search → Firecrawl scrape (pdf) | https://islipny.gov/community-and-services/documents/departments/fire-prevention-bureau/207-knox-box-technical-bulletin/file | Islip Knox-Box bulletin: NYS Fire Code + Islip Town Code let Fire Marshal require a Knox-Box where access restricted (other than 1–2 family); every building with any fire protection system must have one; mounted within 6 ft of main entrance, 4–6 ft high; generally keys to all spaces; owners don't get box keys — Fire Marshal visit to lock keys in; Town keeps master list; only marshal + local responding FD can open; when locks change, call the marshal to swap keys or responders may force entry. | §5 para 5, §6 card, §8 card + compliance bullet, §9 Knox Q, §10.5 H3 4, process step 4, handover table |
+| K2 | same search → Firecrawl scrape | https://www.brookhavenny.gov/309/Fire-Department-Official-Use | Scrape returned no body text → EMPTY (search excerpt only: non-compliant Knox Boxes not part of Town system). Page says "other towns run their own programs". | — |
+| C1 | `Long Island Innovation Park at Hauppauge number of businesses employees …` · Firecrawl search → Firecrawl scrape | https://www.hia-li.org/li-iph/ | "2nd largest industrial park in the nation after Silicon Valley"; 1,350 companies; 55,000 employees; $13B output. (RPA/Flexible IT give 1,300/1,400 companies — HIA-LI figure used.) | §5 para 5, §5.5 bullet 5, §8 card, §13 card |
+| C2 | `Long Island MacArthur Airport Ronkonkoma Hub transit-oriented development apartments built` · Firecrawl search → Firecrawl scrape | https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more | Oct 22 2024: Station Yards (Ronkonkoma Hub) 53 acres around Ronkonkoma LIRR station; 1,450 residential units on completion; phase 1 489 units in 2020; phase 2 388 homes; near LIE Exit 60 and MacArthur Airport; Ronkonkoma = Suffolk's busiest station, 17,000 daily commuters. | §5.5 bullet 6, §7 card, §8 card, §13 card |
+| C3 | `HHS HIPAA security rule physical safeguards facility access controls 164.310 …` · Firecrawl search (excerpts) | https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.310 ; https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/physsafeguards.pdf | 164.310(a)(1) facility access controls; addressable specs: facility security plan, access control & validation, maintenance records "(for example, hardware, walls, doors, and locks)"; HHS guidance example: re-keying/changing combination when a workforce member is terminated. | §9 HIPAA Q, §10.5 H3 5 |
+| C4 | `New York Securing Communities Against Hate Crimes grant eligible security costs access control door locks nonprofit` · Firecrawl search → Firecrawl scrape | https://www.governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program | DCJS administers; nonprofits at risk of hate crimes because of ideology, beliefs or mission; grants fund interior/exterior security improvements "such as alarms, panic buttons, fences, shatter-resistant glass and public address systems, among other items"; door locks not named → page tells readers to confirm with DCJS. | §9 congregation Q |
+| C5 | `Suffolk County Department of Labor Licensing and Consumer Affairs license categories …` · Firecrawl search (excerpt) | https://www.suffolkcountyny.gov/Departments/Consumer-Affairs/Type-of-License ; https://ecode360.com/14947320 | Consumer Affairs licenses 15,000+ vendors; >50% of licences issued/renewed yearly are home improvement; HI list incl. "Storms & Screens" (locksmith not listed); Ch. 563 HI licensees may be required to show $500,000 liability insurance / bond ≤$100,000. | §8.5 compliance bullet |
+| C6 | carried from silo research (LI hub) | https://idighardware.com/2023/07/accessibility-requirements/ | ADA 404.2.7: no tight grasping, pinching or twisting; 34–48 in. | §8.5 compliance bullet |
+| N1 | `Suffolk County police burglaries unlocked doors homes Patch 2025` · Firecrawl search → Firecrawl scrape | https://abc7ny.com/post/exclusive-suspect-wanted-in-li-burglary-could-be-connected-to-recent-string/1642569/ | Dec 6 2016: eight West Islip homes burglarised in November; one family found back sliding door unlocked, screen slit on unlocked second-storey window. Too old → research only, not on page. | research only |
+| L1 | `Fire Island Lighthouse height built 1858 …` · Firecrawl search → Firecrawl scrape | https://en.wikipedia.org/wiki/Fire_Island_Lighthouse | 168-ft stone tower, began operation 1858 (replacing 1826 tower); in FINS just east of Robert Moses State Park; operated by Fire Island Lighthouse Preservation Society. | §13 card |
+| L2 | `Big Duck Flanders built 1931 …` · Firecrawl search → Firecrawl scrape | https://en.wikipedia.org/wiki/Big_Duck | Built 1931 by duck farmer Martin Maurer as a shop on West Main St, Riverhead; moved to Flanders ranch 1937; returned to Flanders Oct 6 2007; NRHP Apr 28 1997. | §13 card |
+| L3 | `Vanderbilt Museum Centerport Eagle's Nest estate …` · Firecrawl search (excerpts) | https://www.vanderbiltmuseum.org/about-us/history/ ; https://www.vanderbiltmuseum.org/about-us/ | 43-acre waterfront estate; built in stages 1910–1936; Spanish Revival; above Northport Bay; deeded to Suffolk County on Vanderbilt's death 1944; opened to public 1950. | §13 card |
+| L4 | `Brookhaven National Laboratory Upton founded 1947 acres employees` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory ; https://www.bnl.gov/about/history/ | DOE lab in Upton, hamlet of Town of Brookhaven; formally established 1947 at former Camp Upton. | §13 card |
+| L5 | = C2 | Station Yards | §13 card |
+| L6 | = C1 | LI Innovation Park | §13 card |
+| S1 | silo research (Fixr, Jan 31 2025) | https://www.fixr.com/costs/smart-lock-installation | National $250–$400 — labelled national third-party. | §14 |
+
+### Prices used (Suffolk ×1.20, round half-up; no new prices)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,800–$3,000 | single-door keypad/fob reader + electric strike | $1,500–$2,500 Brooklyn base (silo prices table) × 1.20 — same as LI hub's Suffolk row |
+| $300–$540 | new electric strike | $250–$450 × 1.20 |
+| $354–$582 | failed strike repair | $295–$485 × 1.20 |
+| $250 first hour, then 30-min blocks | setup-only visit | research/tv-mounting-prices/BRIEF.md line 15 (Suffolk) |
+| $195/hr, 3-hr min ($585) | service/callback | blueprint §9 |
+| quoted flat at walkthrough | residential/rental/cottage smart lock | no AESS figure |
+**Conflicts for Anwar:** (1) live access-control-installation-suffolk-county.html says "Suffolk County pricing is Brooklyn base plus 10% surcharge" (lobby fob reader $1,600–$2,800; single gate/door $1,600–$5,500) — conflicts with §9 ×1.20 used here and on the LI hub. (2) Setup-only $250 rate is published for TV/device setup; used for code/app visits (same flag as LI/Brooklyn/Queens).
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+All viewed before use. Perceptual hash: of the 37 pool files only 4 are photos not already used on a smart-lock sibling (lpr-gate, two near-identical ceiling-speaker shots, video wall); the speaker/video-wall shots show no door hardware, so 10 of the 11 below are the same photos already used (under other names) on NYC/LI/HV/Brooklyn/Queens/Rockland smart-lock pages — door-hardware relevance was preferred over uniqueness. Rejected: access-reader (named "Pinnacle Business Center" on glass), credential-programming (readable cardholder names on screen). Cropped: lpr-gate (left 260 px, removes building number "1000" and a sign), video-intercom (left 250 px, removes "Riverfront Business Center … Riverfront Drive" address sign).
+| New file (images/smart-lock-installation/) | Source |
+|---|---|
+| smart-lock-installation-suffolk-county-electric-strike-glass-door.webp (hero) | commercial-security/commercial-security-systems-suffolk-county-electric-strike.jpg |
+| …-gate-barrier-camera-install.webp | commercial-security/commercial-security-systems-suffolk-county-lpr-gate.jpg (cropped) |
+| …-reader-mounting-door-frame.webp | low-voltage/low-voltage-installation-suffolk-county-12-access-control-reader-wiring.jpg |
+| …-keypad-intercom-granite-entrance.webp | commercial-security/commercial-security-systems-suffolk-county-video-intercom.jpg (cropped) |
+| …-loading-dock-door-contact-keypad.webp | commercial-security/commercial-security-systems-suffolk-county-panic-button.jpg (file actually shows loading-dock composite) |
+| …-reception-desk-panic-button.webp | commercial-security/commercial-security-systems-suffolk-county-glass-break.jpg (file actually shows a panic button) |
+| …-intercom-keypad-terminal-wiring.webp | low-voltage/low-voltage-installation-suffolk-county-13-video-intercom-entry-wiring.jpg |
+| …-crew-van-unload.webp | commercial-security/commercial-security-systems-suffolk-county-hero-crew-van.jpg |
+| …-two-tech-keypad-camera-entry.webp | commercial-security/commercial-security-systems-suffolk-county-alarm-keypad.jpg |
+| …-lobby-exit-door-reader-intercom.webp | commercial-security/commercial-security-systems-suffolk-county-secured-lobby.jpg |
+| …-storefront-glass-break-sensor.webp | commercial-security/commercial-security-systems-suffolk-county-entrance-crew.jpg (file actually shows glass-break sensors) |
+DAILY-LOG note: `images: 11 reused from images/commercial-security/ and images/low-voltage/ (no real smart-lock photos yet)`.
+
+### Question register — smart-lock-installation-suffolk-county
+
+#### §9 YOUR QUESTIONS ANSWERED (H3)
+Town rental rules and second units
+1. Our Islip rental permit is up for renewal — will the town look at the lock on the tenant's door?
+2. We are licensing an accessory apartment in Brookhaven — how should its entrance be locked compared with ours?
+Flood zones, barrier beaches and islands
+3. Our Lindenhurst house was lifted after Sandy — can the door into the space under it have a smart lock?
+4. Can a smart lock be installed at a Fire Island house that is reached only by ferry or water taxi?
+Backyards, pools and cellars
+5. Our back slider opens straight onto the pool deck — does a smart lock on it take care of the pool alarm rule?
+6. Our cellar has an outside bulkhead door — can it go keyless, and what if someone sleeps down there?
+7. If Dad falls at home and can't reach the door, how does the ambulance crew get in?
+Industrial parks, practices and congregations
+8. We are moving our Hauppauge building to keyless entry — what happens to the keys in our Knox-Box?
+9. Our flex unit has a roll-up bay door and a steel man door — which one gets the keypad?
+10. Does a keypad with an audit trail on our records room help a Suffolk dental practice with HIPAA?
+11. Can a Suffolk church, synagogue or mosque use the state's security grant toward keyless doors?
+
+#### §17 FAQ (visible == FAQPage, 10)
+1. What does a keypad and electric strike on a Suffolk business door cost?
+2. We are building a new house in Suffolk — at what stage should the smart locks go in?
+3. Can a smart lock go on a fibreglass or insulated steel entry door?
+4. Can the narrow aluminium door on our strip-centre shop take a keypad?
+5. Our front door opens outward — can it take a smart deadbolt?
+6. Our house is on the bay and the salt air pits everything outside — which smart lock will hold up? (main run replaced handleset question: same intent as Nassau Q1)
+7. Can a sliding patio door be locked and checked from an app?
+8. Can the owner see which employee unlocked the shop each morning?
+9. What should we do with the smart locks before a coastal storm?
+10. How do you protect our floors and door finish while you work?
+
+#### Other question-form headings
+None. (Repair capture H2 "Smart Lock Dead or Drifting Somewhere in Suffolk?" and final H2 "Shut Out of a Suffolk House, Shop or Bay Door Tonight?"; mid CTA "Ready to Sort the Doors That Should Go Keyless?")
+
+#### De-dup notes
+Planned against the full register (NYC, LI, HV, Manhattan, Brooklyn, Queens). Avoided LI intents (garage-to-house door, side door same code, alarm panel, Z-Wave/Matter, re-drilled door, storm-door clearance, salt finish, Isaias outage, Hamptons rental codes, closed-up beach house, Nassau/Suffolk licence, Nassau vs Suffolk price), HV (STR registry, cold, barn range, no internet, historic district, cleaner per building, winery), Queens (gate keypad, frame too soft, finish match, re-key after closing, low battery, dementia/arthritis), Manhattan (roommate codes, deposit, relock for walker, suite card system), Brooklyn (two-family tenant rules, owner seeing tenant logs, glass/mail slot), NYC (cut off former tenant code, warranty, COI). Partial overlaps for the main run to judge: Q2 (accessory-apartment entrance) vs Brooklyn Q7/Q9 (two-family owner-landlord) — here town-licensed unit and separate admin account; Q4 Fire Island install logistics vs LI "closed-up beach house" (remote checking, different intent); FAQ 1 cost (geo-specific by design); FAQ 8 employee log vs Queens "Bell Blvd per-employee codes" card text (not a question there). Page section "Running Smart Locks on a Suffolk Rental Between Tenants" (non-question heading) touches NYC Q13's code-cut-off topic as practice, not as a question.
+
+
+## Westchester County (smart-lock-installation-westchester-county)
+
+Built 2026-10-17 (batch: Suffolk / Westchester / Rockland smart-lock area pages). Area page; up = /smart-lock-installation-hudson-valley; phone (914) 877-2578; GBP Bronx (460 E Fordham Rd, #bronx); Westchester ×1.25. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+**Thesis / lane:** Westchester smart locks are about who gets in while the house is empty and who can get in when the owner can't reach the door: commuter houses empty all day with a long list of non-family visitors (cleaner, sitter, walker, landscaper, pool service, contractors); burglary patterns that use rear sliders, second-floor doors and shared garage keypad codes; owners aged 65+ living alone (first-responder key boxes); co-ops and two-families just over the NYC line (Multiple Residence Law, RPAPL 768, not NYC rules); pool-gate barriers; medical practices (HIPAA physical safeguards), congregations (state hate-crimes security grant) and offices under the 2025 NYS Uniform Code. Deliberately avoids hub/sibling lanes (second homes, cold/battery, rural range, historic thick doors, county licensing Q, renter MDL rights, co-op board approval, basement/flood, multigenerational, garage-to-kitchen code rules, outage behaviour).
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit Westchester smart lock OR keypad deadbolt OR "smart lock" r/Westchester` · FC search → https://www.reddit.com/r/Westchester/comments/1pzqpx4/costs_of_westchester/ (excerpt only: "I have their deadbolt/camera lock for $400ish, pricey, but very worth it.") → §10.5 H3 1 (quoted, brand not named). No other Westchester smart-lock threads surfaced. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so; headings are claims from cost guides/marketing. |
+| 6 | Landmarks | L1–L6 below |
+| 7 | Building stock / use cases | W1–W4 below + repo research (soundbar Westchester section) |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Patch (Rye), News 12 Westchester, NYS Police, Scarsdale10583 (below) |
+| 10 | Hyperlocal | Scarsdale10583 police log; lohud smart-lock search returned nothing Westchester-specific → EMPTY for the service category |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env; FC search returned only a Yelp locksmith listing page, not reviews) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| X1 | `Westchester County NY police burglary pattern homes Scarsdale Harrison Rye 2025 lohud` · FC search → FC scrape | https://patch.com/new-york/rye/police-say-tourist-burglars-are-targeting-hudson-valley-homes | Patch (Rye), Apr 25 2023: Greenwich PD secured 8 arrest warrants for burglary crews operating in Fairfield and Westchester County towns; Greenwich >70 residential burglaries since Oct 2021; crews hit high-end properties in evening after sunset while residents not home; enter through second-floor window or door; flee if alarm; earlier (January) arrest of two suspected SATG members by Harrison PD with DHS and Nassau PD via federal warrant in Queens. | §5 para 3, §9 balcony Q, §10.5 H3 3, Across (Rye/Harrison) |
+| X2 | same search → FC scrape | https://scarsdale10583.com/section-table/107-todays-news/5104-woman-arrested-for-dwi-150-000-in-jewels-stolen-from-home-on-clarence-road | Scarsdale10583, Nov 11 2015 police report: burglaries matching patterns in Bronxville, Rye, Rye Brook, Greenwich; burglar piled lawn furniture to force second-storey window (Tory Lane, Fox Meadow), alarm sounded; smash-and-grab via rear window or sliding glass door (Hillview Rd); ladder from a garage reachable only with door keypad code found by damaged second-floor windows (Church Lane South) — police investigating people with access to the code; advice: lights on timers, keep exterior doors locked with deadbolts, garage closed and locked. Same log: Dell Road landlord changed locks on tenants; police advised eviction process, tenants let back in. | §5 para 3, §9 Metro-North Q, §9 balcony Q, §9 garage-code Q, §9 slider Q, §10.5 H3 3, landlord section |
+| X3 | `New York State Police public safety alert targeted residential burglaries Dutchess Westchester Putnam counties` · FC search → FC scrape | https://troopers.ny.gov/news/public-safety-alert-targeted-residential-burglaries-hudson-valley-region | NYSP Jan 29 2025: three residential burglaries targeting Asian American residents in Dutchess/Westchester/Putnam; advice incl. lock all doors and windows "including second-floor entry points", timed interior lights, don't post absences. | §5 para 3, §5.5 bullet 5, §9 Metro-North Q, §9 balcony Q |
+| X4 | `Westchester police "lock your doors" burglaries unlocked doors 2025 OR 2026 Westchester news12` · FC search → FC scrape | https://westchester.news12.com/2024/09/17/pelham-manor-residents-concerned-after-an-increase-of-home-break-ins/4Lu8IKohOrd4md72MYFBWX | News 12, Sep 17 2024: Pelham Manor, Grant Ave home broken into ~4:45 a.m. Monday; two suspects used a crowbar on the back sliding door; took handbag and car keys and the car; multiple reports over 10 days; deputy mayor/police commissioner: "Lock your doors, take the fobs inside…". | §5 para 3, §9 slider Q, §10.5 H3 3, Across (New Rochelle/Pelham) |
+| X5 | `Westchester County NY residential Knox box seniors fire department program …` · FC search → FC scrape | https://www.elmsfordfd.com/knox-box/ | Elmsford FD: Residential Knox-Box lets first responders "let themselves in"; department-held Knox Master Key; aimed at seniors living at home. | §6 card, §9 Elmsford Q, §10 card, §10.5 H3 4, Living Alone checklist |
+| X6 | `New York Multiple Residence Law applies cities less than 325,000 …` · FC search | https://ag.ny.gov/resources/individuals/tenants-homeowners/legal-services-and-code-enforcement | NY AG: MDL applies to cities of 325,000+; Multiple Residence Law to cities under 325,000 and all towns and villages. | §5 para 6, §9 Yonkers Q, §10.5 H3 5 |
+| X7 | `New York RPAPL 768 unlawful eviction changing locks class A misdemeanor statewide 2019` · FC search | https://ag.ny.gov/resources/government-organizations/law-enforcement-guidance/unlawful-evictions ; https://www.nysenate.gov/legislation/laws/RPA/768 | Unlawful to change the lock on the entrance door without supplying the occupant a key; class A misdemeanor; any person who assists is liable. | §9 Yonkers Q, §10.5 H3 5, landlord section |
+| X8 | `Securing Communities Against Hate Crimes grant Westchester recipients access control locks 2025` · FC search → FC scrape | https://www.governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program | DCJS administers; nonprofits at risk because of ideology, beliefs or missions; funds interior/exterior security improvements "such as alarms, panic buttons, fences, shatter-resistant glass and public address systems, among other items"; training, cybersecurity; RFPs on DCJS site. Locks/access control NOT named → page says the RFP/budget decides. Westchester recipient list: EMPTY (not found). | §8 para, §9 congregation Q |
+| X9 | `HIPAA security rule 164.310 facility access controls …` · FC search | https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.310 ; https://www.hhs.gov/sites/default/files/ocr/privacy/hipaa/administrative/securityrule/physsafeguards.pdf | 164.310(a)(1) facility access controls; (iii) access control and validation by role incl. visitor control; (iv) maintenance records "(for example, hardware, walls, doors, and locks)"; HHS guidance mentions door locks relying on card/badge reader. | §9 Platinum Mile Q |
+| X10 | `2020 Building Code of New York State 1010.2.12 sensor release …` · FC search | https://up.codes/s/door-operations ; https://up.codes/s/sensor-release-of-electrically-locked-egress-doors | Model IBC text: door hardware release — operation directly interrupts power and unlocks immediately; loss of power unlocks. Sensor release — egress-side sensor; manual unlocking device 40–48 in, within 5 ft, "PUSH TO EXIT", unlocked ≥30 s; fire alarm activation unlocks. (Viewer is IBC model text, stated as "model code" on page.) | §8.5 bullets, §9 2025-code Q, §10.5 H3 6 |
+| X11 | `"2025 Building Code of New York State" effective date 2024 International Building Code` · FC search | https://codes.iccsafe.org/codes/new-york ; https://dos.ny.gov/notice-adoption ; https://www.harrison-ny.gov/building-department/news/new-code-effective-12312025 | 2025 Uniform Code effective Dec 31 2025; 2025 BCNYS based on 2024 IBC; Harrison building department posted "New Code Effective 12/31/2025" (Oct 3 2025). | §5.5 bullet 6, §8.5, §9 2025-code Q, §10.5 H3 6 |
+| X12 | `New York State residential swimming pool barrier gate self-closing …` · FC search → FC scrape (pdf, directQuote) | https://dos.ny.gov/tb-1014-uc-pool-summary (rev pdf 2024/08) | Code effective date for bulletin May 12 2020 (2020 Uniform Code); gates self-closing; pedestrian gates open outward; self-latching, latch handle within enclosure ≥40 in above grade, extra conditions under 54 in; "All gates must be securely locked with a key, combination, or another child-proof lock…". | §6 card, §9 pool Q, §10 card, §10.5 H3 7 |
+| X13 | `Westchester County locksmith license required consumer protection` · FC search | https://consumer.westchestercountyny.gov/ | Plumbers/electricians need county trade licence; NO Westchester locksmith licence found → EMPTY; page makes no locksmith-licence claim. | — |
+| X14 | `lohud smart lock keyless entry Westchester …` · FC search | — | No Westchester smart-lock news → EMPTY. | — |
+| X15 | `sliding patio door smart lock options …` · FC search | product/retail listings (gokeyless, amazon, theconnectedshop) | Keyless locks made for sliders exist (no specs used). | §9 slider Q, §10 card (generic) |
+| L1 | `Philipse Manor Hall Yonkers built 1682 …` · FC search | https://en.wikipedia.org/wiki/Philipse_Manor_Hall_State_Historic_Site ; https://www.philipsemanorhall.com/about | Getty Square, 29 Warburton Ave; oldest part c.1682; NHL 1961; built in three stages from the 1680s. | §13 card |
+| L2 | `Jay Heritage Center Rye …` · FC search | https://en.wikipedia.org/wiki/Jay_Estate | 23-acre park and historic site, 1838 Peter Augustus Jay House; Boston Post Road. | §13 card |
+| L3 | `Kensico Dam Valhalla completed 1917 …` · FC search | https://parks.westchestercountyny.gov/kensico-dam-plaza ; tripadvisor excerpt | 307 ft high, 1,843 ft long; completed 1917 (completion year from tripadvisor/blog excerpts). | §13 card |
+| L4 | `Untermyer Gardens Yonkers …` · FC search | https://www.untermyergardens.org/ ; FB Garden Conservancy excerpt | Conservancy restoring the gardens in collaboration with City of Yonkers; walled garden. | §13 card |
+| L5 | `Sunnyside Washington Irving home Irvington Historic Hudson Valley` · FC search | https://hudsonvalley.org/historic-sites/washington-irvings-sunnyside/ ; https://www.hudsonrivervalley.com/sites/Washington-Irving-s-Sunnyside-/details | Historic Hudson Valley site; house and grounds restored to look much as in the 1850s. | §13 card |
+| L6 | reused (research/soundbar-installation.md, Westchester) | https://www.heritagehills.com/about-heritage-hills.php | 2,600 condos in 30 condo groups, 1,100+ acres, 55+. | §7 card, §13 card, Across (north) |
+| W1 | reused (soundbar Westchester, FC scrape) | https://www.census.gov/quickfacts/fact/table/westchestercountynewyork/PST045224 | ~1,015,743 pop; 399,598 housing units (2025); owner-occupied 61.8% (2020–24); median value $663,200; 2.61 persons/household; 65+ 19.7%. | §5 paras 2 & 5, §5.5, Living Alone |
+| W2 | reused (soundbar Westchester) | https://cooperatornews.com/article/westchester-county | ~42,000 co-ops, 25,000 condos, ~53,000 rentals across 6 cities, 14 towns, 22 villages. | §5 para 6, §5.5 |
+| W3 | reused (soundbar Westchester) | https://www.governing.com/magazine/getting-ahead-of-the-nimby-energy-an-older-city-learns-to-build ; https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster | >4,500 new New Rochelle units online (2025); rezoning Dec 2015. | §5 para 6 |
+| W4 | reused (soundbar Westchester) | https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors ; https://www.yonkersny.gov/DocumentCenter/View/14753/Home-Improvement-License-Application-052825 | County HI licence required + licence search; plumbers/electricians separate; Yonkers HI application. (No claim AESS holds either.) | §8.5, §10.5 H3 2, Across (Yonkers) |
+| W5 | reused (soundbar Westchester) | https://914inc.com/westchesters-platinum-mile-is-making-a-serious-comeback/ ; Patch White Plains Mamaroneck Ave ; Capitol Theatre history | Platinum Mile repositioning to medical, 3030 Westchester Ave; Mamaroneck Ave bars/restaurants; Capitol Theatre opened 1926. Central Park Ave / Tarrytown Main St / downtown New Rochelle named only. | §8 corridor cards |
+| S1 | silo file (research/smart-lock-installation.md) | fixr.com (Jan 2025 $250–$400 avg $300); homewyse (Jan 2026 $94.71–$227/lock); Schlage Encode (2.4 GHz, −31°F–150.8°F); Kwikset Z-Wave 700 (250 codes); Yale Matter/Thread border router; August Connect 10–15 ft; Chamberlain myQ 2023; Allegion Schlage door prep (1-3/8"–2", backset 2-3/8/2-3/4, bore 1-1/2 or 2-1/8, 1" throw); Yale Assure 2 sheet (door to 2-1/4"); IRC R311.2 egress | as logged there | §10, §10.5 H3 1, §9 garage Q, connectivity, measure table, §7.5 |
+
+### Prices used (all from approved sources; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,875–$3,125 | single-door keypad/fob reader + electric strike | $1,500–$2,500 base × 1.25 (silo prices table; HV hub Westchester row) |
+| $313–$563 | new electric strike | $250–$450 × 1.25 (312.5→313, 562.5→563) |
+| $369–$606 | failed strike repair | $295–$485 × 1.25 (368.75→369, 606.25→606) |
+| $235 first hour, then 30-min blocks | setup-only visit | research/tv-mounting-prices/BRIEF.md line 15 (TV/device setup rate — same flag as hubs) |
+| $195/hr, 3-hr min ($585) | service/callback | blueprint §9 |
+| quoted flat at walkthrough | residential smart lock | no AESS figure |
+**Conflict for Anwar:** live access-control-installation-westchester-county.html shows "$1,500 to $2,500 for a single-door lobby system" (unscaled) and other ranges; this page uses §9 ×1.25 ($1,875–$3,125), matching the HV hub Westchester row.
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+Every pool photo is a perceptual-hash duplicate of an image already on a smart-lock sibling (pool is small); picks avoid the Rockland batch page's sources where possible. Photos look AI-rendered (same flag as earlier builders). Rejected: lpr-lot (building number "1000"), credential-programming (readable names on screen), crew-van (website/phone on van), video-wall/ptz/fiber/crew-pull/jhook/ceiling-grid (not door-relevant), alarm-keypad/electric-strike/integration-rack/secured-lobby/keystone-wall-plate (same photos as the Rockland batch page). panic-button is shared with Rockland's door-contact image by hash (unavoidable with this pool).
+| New file (images/smart-lock-installation/) | Source | Crop |
+|---|---|---|
+| smart-lock-installation-westchester-county-keypad-reader-office-entrance.webp (hero) | commercial-security/commercial-security-systems-westchester-hero-access-reader.jpg | top 27.5% removed (named "business center" sign on glass) |
+| -electric-strike-terminal-wiring.webp | low-voltage/low-voltage-installation-westchester-county-12-electric-strike-wiring.jpg | — |
+| -keypad-intercom-granite-entrance.webp | commercial-security/commercial-security-systems-westchester-video-intercom.jpg | left 19% removed (sign with business name + street address) |
+| -lobby-entry-panel-install.webp | low-voltage/low-voltage-installation-westchester-county-13-lobby-video-intercom.jpg | right 23% removed ("123 Main Street" directory) |
+| -reception-desk-panic-button.webp | commercial-security/commercial-security-systems-westchester-panic-button.jpg | — |
+| -shop-window-sensor-mounting.webp | commercial-security/commercial-security-systems-westchester-glass-break.jpg | — |
+| -tone-trace-wall-plate.webp | low-voltage/low-voltage-installation-westchester-county-08-tone-generator-trace.jpg | — |
+| -ceiling-wifi-access-point.webp | low-voltage/low-voltage-installation-westchester-county-10-access-point-lift-install.jpg | right 16% removed ("community center" sign) |
+| -laptop-network-rack-setup.webp | low-voltage/low-voltage-installation-westchester-county-hero-rack-switch-config.jpg | — |
+| -poe-switch-recorder-rack.webp | commercial-security/commercial-security-systems-westchester-nvr-poe-rack.jpg | left 19% removed (diagram sheet + laptop) |
+| -wall-plate-cable-test.webp | low-voltage/low-voltage-installation-westchester-county-06-fluke-certification-pass.jpg | — |
+DAILY-LOG note: `images: 11 reused from images/commercial-security/ and images/low-voltage/ (no real smart-lock photos yet)`.
+
+## Question register — smart-lock-installation-westchester-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Houses that are empty all day
+1. We're on Metro-North from early morning until after dark — what should the locks be doing while the house sits empty?
+2. Police warnings keep mentioning second-floor doors — should the balcony door upstairs get a smart lock too?
+3. The landscaper, the cleaner and two contractors all know our garage keypad code — does that undercut the smart locks on the house?
+4. Our kids get off the school bus mid-afternoon while we're at work — can the lock tell us each one is home?
+Back doors, sliders and the way burglars come in
+5. The door we all use is a sliding patio door onto the deck — can a slider get a smart lock?
+Owners who live alone
+6. My father lives on his own in Elmsford — if he falls, how would paramedics get through a smart-locked door without breaking it?
+Co-ops, two-families and the city line
+7. Does New York City's apartment-lock law reach our Yonkers or New Rochelle apartment?
+Pools and outdoor gates
+8. Can the gate in our pool fence take a keypad lock without breaking the state's pool-barrier rules?
+Practices, offices and congregations
+9. Our practice on the Platinum Mile keeps patient records on site — what does HIPAA expect of our door locks?
+10. Our congregation was awarded a state security grant — can it cover keyless doors, and what paperwork will the grant office want from you?
+11. Our office landlord says the 2025 state code now applies — does that change what can go on our suite door?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. Is the price you quote at the walkthrough the price on the invoice?
+2. Should we turn on the auto-unlock feature that opens the front door as we pull into the driveway? (main run replaced handleset question: same intent as Nassau Q1)
+3. Our back door has a multipoint lock that throws hooks top and bottom when the handle is lifted — can it go keyless?
+4. Can the lock's entry history be saved for a police report or an insurance claim after a break-in?
+5. Can the front door be left unlocked on purpose for a party or a graduation open house?
+6. What stops someone who gets into our email from opening the front door?
+7. Can a realtor's showings run on temporary codes instead of a lockbox on the front door?
+8. Can one app run the locks at our house and at my mother's house in the next town?
+9. Will the inside of the lock look bulky on our older door?
+
+### Other question-form headings
+- H2 "Smart Lock Misbehaving Somewhere in Westchester?" (repair capture)
+- H2 "Locked Out of a Westchester House or Office Tonight?" (final repair capture)
+
+### De-dup notes
+Dropped during build: "two-family in Mount Vernon — shared front door code separation" (≈ Brooklyn Q8/Q9/Q10; content moved to a non-question Landlords section); "How soon can an installation be booked?" (≈ Manhattan FAQ 8); "Do you remove the old lock / keep keys working?" (≈ Brooklyn FAQ 9 + Queens FAQ 2); cost FAQ by county (≈ HV FAQ 1). Partial overlaps for the main run to judge: Q7 (NYC law across the city line) vs NYC Q1 / Brooklyn Q7 — here the intent is jurisdiction (MDL vs MRL), not renter rights; Q6 (paramedic access) vs Queens grandma/dementia Qs — here first-responder entry; FAQ 8 (one app, two houses) vs Queens FAQ 5 (who holds admin) — different intent; Q2/Q5 vs LI Q1 (which doors deserve a smart lock) — here specific door types named in police reports.
+
+
+## Rockland County (smart-lock-installation-rockland-county)
+
+Built 2026-10-17 (batch: Suffolk, Westchester, Rockland smart-lock area pages). Area page; up = /smart-lock-installation-hudson-valley; phone (845) 640-3835 (800 only in shared header chrome); GBP Bronx (460 E Fordham Rd, #bronx); Rockland multiplier 1.30.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpt only unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. "Carried" = finding reached by the soundbar-installation-rockland-county builder (research/soundbar-installation.md, Rockland section) or by earlier smart-lock builders (research/smart-lock-installation.md); not re-fetched.
+
+**Thesis / lane:** Rockland doors are decided by who has to get through them and when electronics are off-limits: large, often observant households (3.22 persons/household; ~a third of the county Jewish) in post-1955 raised ranches and split-levels, so a split door plan (mechanical Shabbat door + electronic weekday doors), code capacity for big families, mezuzah-aware frame work, deck sliders with thumb latches, rented rooms/accessory units under active county code enforcement, and shuls/yeshivas/nonprofits hardening doors with state Securing Communities Against Hate Crimes grants since the 2019 Monsey attack; plus Route 59 / Route 303 / Main Street businesses closing early on Fridays.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | FC search `reddit r/Rockland smart lock OR keypad lock OR locksmith` → no r/Rockland smart-lock thread (results: r/AskALocksmith, r/FirstTimeHomeBuyer, Yelp listing, locksmith ads). Rockland-specific: EMPTY. Silo Reddit (r/Judaism excerpt) see R2. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are claims from cost guides / product pages / articles, stated as such on the page. |
+| 6 | Landmarks | L1–L6 |
+| 7 | Use cases / building stock | B1–B5 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Spectrum News (2019), NBC NY (2013, 2022), ABC7 (2023), Patch New City (2024), Governor's office (2026) |
+| 10 | Hyperlocal | Patch New City/Ramapo (N4). Rockland Times / Nyack News & Views / lohud on smart locks specifically: none found → EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env); FC search returned only the Yelp locksmith listing page (no review text) — not used. |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| R1 | `smart lock Shabbat Shabbos keypad lock observant Jewish home Monsey` · FC search → FC scrape | https://www.chabad.org/library/article_cdo/aid/7077643/jewish/What-You-Need-to-Know-About-Unlocking-Doors-on-Shabbat.htm | (Oct 21 2025, Rabbi Yehuda Shurpin) "generally no issue with using an old-fashioned conventional lock and key (or combination locks that are entirely mechanical)"; "Doors that open with electronic key cards, fobs, or keypads may not be used on Shabbat"; smart locks: auto-lock creates an electrical impulse; "most smart locks record every use, sending signals to an app"; "Practically, you should ideally disable smart locks before Shabbat"; Shabbos belt (key forms part of the belt); arrange a door with a standard key or staff to open. | §5 para 3, §6 cards, §9 Q1/Q2/Q11, §10.5 H3 2–3, Shabbat door plan |
+| R2 | same search → FC scrape | https://tribeautomation.com/2017/10/26/are-smart-locks-shabbat-compatible/ | (Oct 26 2017) Orthodox home-automation installer tested Schlage Connect: illuminated touchpad an issue; 30-second auto-lock timer and activity log issues even when opened by inside lever; "A Shabbat-mode feature would certainly be a game changer"; option to sever battery connection; he put it on "my entrance from the garage to the house since I don't go to the garage on Shabbat". | §9 Q1/Q2, §10.5 H3 2 |
+| R3 | same search (excerpts only) | https://www.reddit.com/r/Judaism/comments/1dr8xg1/deadbolt_locks_and_the_sabbath/ ; https://www.amazon.com/Bravex-Keyless-Deadbolt-Sabbath-Mechanical/dp/B0B8NQN96L | Reddit excerpt: entering a code on a keypad to unlock is not permissible on the Sabbath for observant Jews (not quoted). Amazon listing title "Bravex Keyless Deadbolt ... Sabbath ... Mechanical"; "100% Mechanical (No risk of low battery)". | §9 Q1 ("some online listings even put 'Sabbath' in the product name") |
+| R4 | `mezuzah placement right doorpost upper third shoulder height how to affix chabad` · FC search (excerpts) | https://chicagomitzvahcampaign.org/mezuzah-faq/ ; https://www.chabad.org/library/article_cdo/aid/225405/jewish/Mezuzah-Placement.htm | Right-hand side as one enters; lower part of the upper third; not higher than four inches below the lintel (Chicago Mitzvah Campaign). Chabad: doorway ~90 in+ → shoulder height. | §7.5 mezuzah para, §9 Q3, §6 card |
+| R5 | `Rockland County Jewish population study Orthodox percent Ramapo Monsey New Square Kaser` · FC search; FC scrape of JVL (metadata) | https://jewishvirtuallibrary.org/rockland-county ; https://forward.com/news/439665/rockland-county-hasidic-anti-semitic-east-ramapo/ (excerpt) | JVL description: "a significant Jewish community of 92,000"; search excerpt "At 31% of the total population". Forward excerpt: villages like Monsey, Kaser and New Square "more than 90% Hasidic". (lohud Facebook post "Nearly a third of Rockland County's population identifies as Jewish" — scrape refused, not cited.) | §5 para 3, §5.5 bullet 2 |
+| R6 | `Monsey Hanukkah attack 2019 synagogues security grants Rockland County access control doors` · FC search → FC scrape | https://spectrumlocalnews.com/news/2019/12/31/rockland-county-unveils-new-security-plan-after-monsey-stabbing-attack | Dec 30 2019: county + Brosnan Security volunteer armed patrol for synagogues; Gillibrand roundtable at Ramapo Town Hall urged leaders to apply for grant funding (Nonprofit Security Program) for schools and places of worship. | §5 para 4 |
+| R7 | same search → FC scrape (query) | https://en.wikipedia.org/wiki/2019_Monsey_Hanukkah_stabbing | Dec 28 2019, seventh night of Hanukkah; masked man with large knife/machete invaded a Hasidic rabbi's home in Monsey; almost 100 gathered; five injured; 72-year-old man in coma 59 days, died March 2020. | §5 para 4 |
+| R8 | `Securing Communities Against Hate Crimes grant Rockland County synagogues yeshivas awarded 2025 access control` · FC search → FC scrape (query) | https://www.governor.ny.gov/news/ahead-jewish-high-holidays-governor-hochul-announces-distribution-record-70-million-protect | Sept 8 2026: record $70M to 290 nonprofits; max request $250,000 each; funds "lighting, locks, alarms, panic buttons, fencing, barriers, access controls, shatter-resistant glass..."; Mid-Hudson: 99 grants totaling $24,187,697. | §5 para 4, §5.5 bullet 5, §8.5, §9 Q10, community-building checklist |
+| R9 | `Rockland County illegal rooming house locks on bedroom doors code enforcement Spring Valley Ramapo fire` · FC search → FC scrape | https://www.nbcnewyork.com/news/local/more-than-100-violations-found-at-spring-valley-apartment-building-that-burned/3606594/ | Mar 18 2022: >100 violations after Mar 9 Spring Valley apartment fire incl. "doors that closed improperly"; Buildings and Codes Director Ed Markunas: "To contain the fire, you need self-closing doors and fireproof doors..."; county had just taken over Spring Valley code enforcement. | §5 para 5, §8.5 bullet 3, rooms checklist |
+| R10 | same search → FC scrape | https://abc7ny.com/post/spring-valley-house-fire-landlord-violations/12925408/ | Mar 7 2023: five died in Spring Valley house fire; inspectors cited buildings owned by same landlord for electrical issues, missing smoke/CO detectors, "illegal single-room occupancies", illegal conversions; "Last year, the state ordered the county to take over in Spring Valley following the arrest of the village's former inspector." Landlord NOT named on page. | §5 para 5, §9 Q9, §10.5 H3 6, rooms checklist |
+| R11 | same search → FC scrape (query) | https://www.rocklandcountyny.gov/departments/health/center-for-rockland-codes-investigations/housing-mdrr | "RCDOH performs annual inspections and permitting of all Rooming Houses in the County"; subject to Rockland County Sanitary Code; "specific requirements regarding bathroom facilities, cooking and dining restrictions, door locks, sleeping area floor space, smoke detector and carbon monoxide detector location, and compliance with local ordinances". | §5 para 5, §9 Q9, §10.5 H3 6, rooms checklist |
+| R12 | `smart lock for sliding patio door options manufacturer compatible sliding glass door keyless` · FC search → FC scrape (query) | https://lockeyusa.com/product/c150/ | Lockey C150: "Mechanical, keyless, hook bolt"; throw 3/8″; door 1-3/16″–2″; "For Exterior & Interior Use"; "Weather Resistant"; for sliding glass patio doors. | §9 Q6, §10 card, §10.5 H3 4 |
+| R13 | `Clarkstown OR Orangetown OR Ramapo police burglaries unlocked doors homes warning residents lock doors 2025` · FC search → FC scrape | https://patch.com/new-york/newcity/lock-houses-cars-ramapo-police-warn-after-sunday-night-incidents | Apr 9 2024 (Patch, Lanning Taliaferro): Ramapo PD — individuals burglarizing unlocked homes in search of car keys and valuables; one incident in Airmont; in New Hempstead attempted to enter vehicles "as well as attempting to open a sliding door"; "Remember to lock doors, secure windows, and if you have an alarm system, ensure it's set". | §9 Q5, Q6, §10.5 H3 4 |
+| R14 | same search → FC scrape | https://www.nbcnewyork.com/news/local/nanuet-new-city-burglaries-break-ins-rockland-county/2076526/ | Mar 18 2013: Clarkstown police investigating daytime burglaries of unoccupied homes in Nanuet and New City during working hours; advice: lock all windows and doors. | §10.5 H3 7, commuter section |
+| R15 | same search (excerpt only) | https://www.facebook.com/RamapoPD/posts/... | Ramapo PD excerpt: lock the door immediately behind you; keep all exterior doors locked. Background only. | — |
+| R16 | `Palisades Center West Nyack opened 1998 square feet largest mall` · FC search (excerpt) | https://en.wikipedia.org/wiki/Palisades_Center | Opened March 4, 1998; as of Dec 2022 twelfth-largest US mall by gross leasable space. | §8 card |
+| R17 | `Edward Hopper House Nyack birthplace 1882 museum North Broadway` · FC search (excerpts) | https://www.edwardhopperhouse.org/hours-tours-admission.html ; Facebook post (Edward Hopper House) | 82 North Broadway, Nyack; Hopper born in Nyack 1882, grew up in the house; museum & study center. | §13 card |
+| R18 | `Monsey Route 59 shopping district kosher stores Main Street Monsey businesses` · FC search (excerpts) | https://www.yelp.com/search?cflt=kosher&find_loc=Monsey%2C+NY+10952 ; Facebook group excerpt (Evergreen Kosher Market, Town Square, Route 59) | Yelp listing shows kosher restaurants at Route 59 Monsey addresses (e.g., 59 Rt 59; 110 NY-59). No business named on page. | §8 card ("Yelp's Monsey listings place several at Route 59 addresses") |
+| B1 | carried (soundbar Rockland, FC scrape) | https://www.rocklandhistory.org/a-brief-history-of-rockland | By 1950 fewer than 150 farms; 1950s homes built >1,000/year; Tappan Zee Bridge 1955, Palisades Parkway and Thruway same decade. | §5 para 1, §5.5 bullet 3 |
+| B2 | carried (soundbar Rockland, FC scrape) | https://www.census.gov/quickfacts/fact/table/rocklandcountynewyork/PST045224 | Pop 357,397 and housing units 109,999 (July 1 2025); owner-occupied 67.9%; 3.22 persons/household; language other than English 44.2%. Nassau 2.99 / Suffolk 2.93 from LI hub QuickFacts. | §5 para 2, §5.5 bullets 1 and 4 |
+| B3 | carried (soundbar Rockland) | https://www.oddsandendsny.com/areas/new-city ; research/tv-mounting-prices/rockland-county.json (Pearl River capes/colonials; Pomona raised ranches; Route 303 office parks; New City courthouse 1 South Main St) | Split-level / raised ranch stock in New City 1960s–70s; capes/colonials in Pearl River. Used descriptively; no statistic drawn. | §7 cards, Across Rockland |
+| B4 | carried (soundbar Rockland, FC scrape) | https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits ; .../frequently-asked-questions ; https://longisland.news12.com/2026/04/15/tempers-flare-tuesday-night-as-rockland-county-re-writes-contractor-licensing-rules/5PDORDgg6n88VIk8Oa0c0F | Chapter 286 effective May 14, 2026; HIC licence required for residential home improvement; online database; unlicensed may lack liability/disability/workers' comp insurance; licensed since 1986. | §5.5 bullet 6, §8.5, §10.5 H3 5 |
+| B5 | carried (HV smart-lock hub) | https://www.rocklandcountyny.gov/home/showpublisheddocument/6348/639026169869900000 | Ch. 286 classifications include 19 "Locksmiths: Locks, Security gates, Home Safes, Security Screens" and 02 low voltage; HI licence ≠ electrical licence. | §5.5, §8.5, §10.5 H3 5 |
+| L1 | carried (soundbar Rockland) | https://www.hudsonrivervalley.com/sites/DeWint-House-/details | Built 1700, stone and brick, oldest surviving building in Rockland; Washington's temporary HQ. | §13 card |
+| L2 | carried (soundbar Rockland) | https://en.wikipedia.org/wiki/Tappan_Zee_Bridge_(2017%E2%80%93present) | Mario M. Cuomo Bridge, South Nyack–Tarrytown; spans opened Aug 2017 / Sept 2018; replaced 1955 bridge. | §13 card, commuter section |
+| L3 | carried (soundbar Rockland) | https://www.haverstrawbrickmuseum.org/click-a-brick | 1883: 41 brickyards, ~2,400 men, world's largest brick producer. | §13 card |
+| L4 | carried (soundbar Rockland) | https://parks.ny.gov/visit/historic-sites/stony-point-battlefield-state-historic-site | Stony Point Lighthouse 1826, oldest on the Hudson, operated 99 years. | §13 card |
+| L5 | carried (soundbar Rockland) | https://piermonthistoricalsociety.org/world-war-ii/ ; https://historynet.com/camp-shanks-last-stop-u-s-a/ | "Last Stop USA"; >1 million service members; mile-long pier. | §13 card |
+| L6 | carried (soundbar Rockland) | https://en.wikipedia.org/wiki/Nanuet_Town_Centre ; Rockland County Government post + explorerocklandny.com (Pearl River parade) | Shops at Nanuet debuted 2013 on former Nanuet Mall site; Pearl River St. Patrick's parade "second largest in New York State". | §8 cards |
+| S1 | silo (LI hub) | https://kc.allegion.com/kb/article/what-are-the-required-door-preparation-specifications-for-the-schlage-arrive | Door 1-3/8″–2″; cross bore 2-1/8″ or 1-1/2″; edge bore 1″; backset 2-3/8″/2-3/4″. | §7.5, §9 Q7 |
+| S2 | silo (HV hub / LI hub) | https://www.schlage.com/en/home/products/BE489WBCAMFFF.html ; Kwikset Z-Wave 700 PDF (perryhomes cloudinary) | Schlage Encode 100 codes; Kwikset Z-Wave 700 model 250 user codes (PDF doesn't name model — page says "Kwikset's Z-Wave 700 locks"). | §9 Q4 |
+| S3 | silo (LI hub) | https://idighardware.com/2010/11/double-cylinder-deadlocks-residential/ | IRC R311.2: egress doors readily openable from inside without key or special knowledge (page says "model residential code"). | §7.5 |
+| S4 | silo (NYC hub S1) | https://www.fixr.com/costs/smart-lock-installation | National $250–$400, avg $300 (Jan 2025). Labelled national third-party. | §10.5 H3 1, §14 |
+
+### Prices used (all from approved AESS sources; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,950–$3,250 | single-door keypad/fob reader + electric strike (Rockland) | $1,500–$2,500 base (access-control-installation-bronx.html / silo prices table) × 1.30 — matches HV hub's Rockland row |
+| $325–$585 | new electric strike on entrance door | $250–$450 × 1.30 |
+| $384–$631 | failed electric strike repair | $295–$485 × 1.30 (383.5→384, 630.5→631, round half-up) |
+| $235 first hour, then 30-min blocks | setup-only visit, Rockland | research/tv-mounting-prices/BRIEF.md; tv-mounting-prices-rockland-county.html; HV hub |
+| $195/hr, 3-hr minimum ($585) | service/callback, not on initial install | blueprint v2.3 §9 (verbatim) |
+| quoted flat at walkthrough | house-door smart lock / mechanical keypad / slider lock | no AESS figure exists |
+| $250–$400, avg $300 | NATIONAL third-party (Fixr, Jan 2025) | S4 |
+**Conflicts for Anwar:** (1) live access-control-installation-rockland-county.html uses "Brooklyn base + 15% HV surcharge" and a "SINGLE DOOR / GATE $1,700 – $5,000" card, plus "$1,500 to $2,500 plus the 15% surcharge" for a lobby fob reader — conflicts with §9 ×1.30 ($1,950–$3,250) used here and on the HV hub. (2) live door-buzzer-repair-rockland-county.html: $250 service call and "Electric strike replacement + alignment $450–$950" — differs from ×1.30 strike figures. (3) Setup-only $235 rate is published for TV/device setup; used for code/app/bridge visits (same flag as LI/Brooklyn/Queens). (4) access-control-installation-rockland-county.html contains a "Spring Valley landlord ... saved $4,000/year" testimonial that looks unsourced — not reused here; worth a review under Hard Rule 11.
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+All viewed before use. Assigned pool only. Perceptual-hash check: 9 of the 11 sources are the same photos as images already used on sibling smart-lock pages (the Rockland-named library files are geo-renamed copies); only the gate camera (lpr-gate) and the access-point lift crop differ. Library photos look AI-rendered (same note as earlier builders) — needs Anwar's review.
+| File (images/smart-lock-installation/) | Source | Same photo on a sibling? |
+|---|---|---|
+| smart-lock-installation-rockland-county-electric-strike-glass-entry-door.webp (hero, eager) | images/commercial-security/commercial-security-systems-rockland-electric-strike.jpg | yes (nyc-electric-strike-lobby-door) |
+| smart-lock-installation-rockland-county-keypad-reader-and-entry-camera.webp | commercial-security-systems-rockland-alarm-keypad.jpg | yes (long-island-keypad-and-camera-entry) |
+| smart-lock-installation-rockland-county-reader-mounting-aluminum-door-frame.webp | images/low-voltage/low-voltage-installation-rockland-county-12-access-control-reader-wiring.jpg | yes (nyc-fob-reader-mounting) |
+| smart-lock-installation-rockland-county-wall-plate-jack-termination.webp | low-voltage-installation-rockland-county-07-keystone-wall-plate.jpg | yes (hudson-valley-wall-plate-termination) |
+| smart-lock-installation-rockland-county-lobby-intercom-reader-glass-doors.webp | commercial-security-systems-rockland-secured-lobby.jpg | yes (hudson-valley-secured-lobby-entry) |
+| smart-lock-installation-rockland-county-door-contact-keypad-loading-dock.webp | commercial-security-systems-rockland-panic-button.jpg | yes (hudson-valley-door-contact-keypad-panels) |
+| smart-lock-installation-rockland-county-video-intercom-keypad-stone-pillar.webp | commercial-security-systems-rockland-video-intercom.jpg (cropped: left 240 px removed — "Riverfront Business Center / … Riverfront Drive" sign) | yes (hudson-valley-keypad-intercom-stone-pillar) |
+| smart-lock-installation-rockland-county-access-rack-installation-checklist.webp | commercial-security-systems-rockland-hero-integration-rack.jpg | yes (brooklyn-rack-patching-checklist) |
+| smart-lock-installation-rockland-county-gate-camera-barrier-arm.webp | commercial-security-systems-rockland-lpr-gate.jpg (cropped: left 260 px removed — building number "1000" and a sign) | no |
+| smart-lock-installation-rockland-county-exterior-enclosure-brick-wall-conduit.webp | low-voltage-installation-rockland-county-11-exterior-enclosure-install.jpg | yes (long-island-exterior-enclosure-brick) |
+| smart-lock-installation-rockland-county-ceiling-wifi-access-point.webp | low-voltage-installation-rockland-county-10-access-point-lift-install.jpg (cropped: right 190 px removed — "Community Center" wall sign) | same photo as manhattan-ceiling-wifi-access-point-lift but cropped differently |
+Rejected after viewing: rockland-credential-programming (readable cardholder names on screen and checklist), rockland-access-reader (named "Pinnacle Business Center" on glass), 13-lobby-video-intercom ("123 Main Street" directory, "ABC Property Management"), rockland-crew-van (van shows a phone number and "abstractenterprises.com", not the site domain).
+DAILY-LOG note: `images: 11 reused from images/commercial-security/ and images/low-voltage/ (no real smart-lock photos yet)`.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG, Yelp 1–3★ review text; r/Rockland smart-lock threads (none found); Rockland local news on smart locks specifically (Patch/lohud/Rockland Times/Nyack News & Views: none found); lohud Facebook post (FC refused the site); Field Notes — no sourced Rockland install anecdote, written as standing routine and labelled so.
+
+## Question register — smart-lock-installation-rockland-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Observant households and Shabbat
+1. We keep Shabbat — what kind of lock lets the family get in and out from Friday evening until Saturday night?
+2. Our smart lock auto-locks and logs every opening — can those features be switched off for Shabbat and Yom Tov without removing the lock?
+3. Will a keypad deadbolt or a reader on the frame crowd the mezuzah on our doorpost?
+Large households
+4. With ten or more people living in the house, how many codes can a smart lock hold, and how do we keep them straight?
+5. Can the app tell us at bedtime which doors in the house are still unlocked?
+Raised ranches, split-levels and their doors
+6. The sliding door from our raised ranch's kitchen to the deck only has a thumb latch — can it be made keyless and properly locked?
+7. Our 1960s front door already has a knob hole and a deadbolt hole — can a smart lock reuse them without new drilling?
+8. Our front door swings outward onto the step — does that rule out a smart deadbolt?
+Rented rooms and accessory apartments
+9. We let rooms in our house to boarders — what does Rockland expect of the locks on those bedroom doors?
+Shuls, yeshivas and community buildings
+10. Our shul is applying for a state security grant — can keypads or fob readers on the doors be part of the request?
+11. How do we keep a shul's front door controlled on Shabbat, when many of the people coming in can't use a keypad or a fob?
+Shops and offices
+12. Our Route 59 store closes before Shabbat and the closing time moves every week with sunset — can the door's schedule keep up?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Do your installers work in Monsey, New Square and Kaser as well as Nyack, Pearl River and Stony Point?
+2. Can an installation be booked for a Friday morning before Shabbat, or for a Sunday?
+3. Do you fit purely mechanical push-button locks as well as electronic smart locks?
+4. Can the other locks in the house be re-keyed to match the key of the new smart lock?
+5. How long will our front door be out of action on installation day?
+6. Can you work at a yeshiva or school building during the school day?
+7. Can the keypad's beeps and voice prompts be turned down so they don't wake the children?
+8. What happens if we move house within Rockland — can the smart lock come with us?
+
+### Other question-form headings
+- H2 "Keypad Dead or Bolt Stuck at a Rockland Door?" (repair capture)
+- H2 "Ready to Plan Every Door in the House?" (mid CTA)
+- H2 "Locked Out on a Weeknight Anywhere From Tappan to Stony Point?" (final repair capture)
+
+### De-dup notes
+Checked by meaning against every question in the NYC, LI, HV, Manhattan, Brooklyn and Queens registers, and against the Suffolk and Westchester pages on disk at ~build end (check_page: no duplicated question or FAQ answer). Deliberately avoided: garage-to-house door rules and "which of the doors deserve a smart lock" (LI), alarm-panel pairing (LI), storm door (LI/Queens), outage/battery-cold/remote-house/rental guest codes/historic district/county licensing/county price comparison (HV), multigenerational/no-smartphone/caregiver schedules/app language (Queens), two-family owner rules and double doors (Brooklyn), auto-relock for walkers (Manhattan FAQ), self-closing door interference (NYC hub), cost-per-county FAQ and setup-visit cost FAQ (HV hub — Rockland prices kept in §14 body), "do you supply the lock" (Queens), selling the house/codes (LI FAQ 10 — this page's FAQ 8 is about physically moving the lock to a new house; partial overlap for main run to judge), coverage FAQ (geo-specific by design, as on every sibling). Licensing and pricing handled in body text, not as repeat questions. Partial overlaps for main run: Q5 bedtime door-status check vs LI Q12 "check the locks on a closed-up beach house from the city" (here: occupied house, nightly status); Q11/Q12 Shabbat schedules vs HV "door schedules" generally; Q9 rented rooms vs Manhattan Q11 "guest bedroom smart lock under LL18" (here: Rockland rooming-house permit/code enforcement).
+
+### Flags for Anwar
+1. Religious content: Q1–Q3, Q11, the Shabbat door plan and §10.5 H3 2–3 describe Shabbat/mezuzah practice only from cited published guidance (Chabad.org, Chicago Mitzvah Campaign, Tribe Home Automation) and repeatedly defer to "your rabbi". Worth a skim by someone from the community before shipping.
+2. Monsey 2019 attack and Spring Valley fatal fires are cited factually (victims/landlord not named). Skim for tone.
+3. Pricing conflicts listed above (access-control and door-buzzer Rockland pages).
+4. Images are geo-renamed copies of photos already on sibling pages and look AI-rendered.
+5. File size 203,730 B sits 3.5 KB above Manhattan and 3.9 KB below Westchester; re-check after the main run's wiring edits change sibling sizes.
