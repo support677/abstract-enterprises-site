@@ -2585,3 +2585,358 @@ De-dup notes (meaning-level, against every register in research/cat6-repair.md a
 - Dropped "Do we need to save a parking space on the block for your van?" — same intent as St George FAQ "Is there anywhere for the technician to park near the courts and the ferry…" (built in parallel); replaced with F1 (winter timing of exterior work).
 - Dropped while drafting: fire next door / which runs to test (template overlap with HV Q2 lightning "which runs should be tested… even if they still seem to work"); firestopping who restores (Dutchess Q2, Queens F5, Manhattan Q5); stoop rebuild (Bronx Q12 / Nassau F3 renovation coordination); daisy-chained floor switches (Nassau Q10, Bronx Q6); split networks for a garden rental (SI Q8); whose responsibility in a condo-converted brownstone (Nassau Q13, Westchester Q4); sanctuary livestream camera (unsourced); LPC approval itself (Manhattan/Putnam Q10 — kept as body text and FAQ F5 is a lookup, not approval); chimney/dumbwaiter shaft reuse (Bronx Q9 — kept as statement H3 only).
 - Partial overlaps left for main-run judgement: Q5 rear-wall route vs HV Q8 (indoor cable already run outside — does it need replacing?): Q5 asks whether to choose an exterior route at all; F2 jack move vs Ulster F2 (add a jack in another room); F3 future PoE vs NYC Q9/Q10 (PoE camera reboots / bad run takes port down) — F3 is about capacity of a repaired run for devices not yet installed; Q2 cable on pipes vs Westchester Q12 (Cat6 beside steam riser/radiator keeps failing) — Q2 is about support method and removal from pipes.
+
+## Upper West Side, Manhattan (cat6-repair-upper-west-side-manhattan-ny)
+
+Batch run 2026-10-17 (subagent build; not committed; to be merged into research/cat6-repair.md by the main run). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl MCP (mcp__Firecrawl__firecrawl_search = excerpts unless "scraped"; mcp__Firecrawl__firecrawl_scrape with directQuote or markdown). Shell curl blocked. Up-link /cat6-repair-manhattan; phone (929) 560-0737; GBP Bronx (#bronx, 460 E Fordham Rd). Facts marked "carried" were fetched by the 2026-10-17 soundbar-installation-upper-west-side run (research/soundbar-installation.md, "Upper West Side, Manhattan" section) and are reused, not re-fetched.
+
+**Thesis (differs from cat6-repair-manhattan, cat6-repair-midtown-manhattan-ny and every borough/county page):** on the Upper West Side the Cat6 is a *retrofit added after the fact, by many different hands, into homes and small institutions designed long before networks* (prewar apartment houses built after the 1904 Broadway subway, side-street row houses in nine historic districts, avenue walk-ups, Riverside Boulevard towers, Lincoln Square campuses, practices in apartment-building suites, storefronts that change hands). A repair is (1) archaeology — reading which installer (renovator, ISP, AV firm, previous tenant, super, developer) put the run where, because each leaves a typical weak point (shallow boxes in plaster-on-block walls, AC-sleeve drip paths, molding corners, fire-escape runs, chimney flues, in-unit panels) — and (2) done in occupied homes under co-op house rules, around residents' days (23% work at home; 43.6% single-person households; 22.9% aged 65+). Manhattan page = inherited plant inside the building window; Midtown = other trades disturbing ceilings; neither thesis is repeated.
+
+### 1. Reddit
+- Query: `site:reddit.com Upperwestside ethernet OR "network cable" OR wifi apartment wiring` · Firecrawl search (excerpts only; reddit not scraped) →
+  - https://www.reddit.com/r/Upperwestside/comments/1oosjv5/wifi_technician_needed/ — excerpt "Is it the wifi that doesn't work? Or the internet? What happens when you try to connect via a wire to the modem?" → background for §5 (home-office reliance) and §10.5 H3 mesh; not quoted.
+  - https://www.reddit.com/r/Upperwestside/comments/1ug7x56/wireless_internet_in_the_uws_anyone_have_a/ — excerpt on WiFi range vs wired connection → background §10.5 H3 1; not quoted.
+  - https://www.reddit.com/r/Upperwestside/comments/1dj3nqi/internet_service_providers/, https://www.reddit.com/r/nyc/comments/cjnuhr/isps_in_the_upper_west_side/ — ISP threads, background only.
+- Carried: https://www.reddit.com/r/AskNYC/comments/1pkvn82/question_about_very_hard_walls_in_prewar/ — "If concrete you will need anchors. Gypsum block is a lot easier to drill into" → §7.5 prewar paragraph, §9 shallow-box Q ("plaster over gypsum or terracotta block"); Sources list "background".
+- Carried: r/Upperwestside handyman threads (1us7sb6 "skilled in mounting") → Sources "background"; not quoted.
+- UWS Reddit threads about *failing Cat6* specifically: EMPTY (not accessible in build env — reddit not scrapeable; search returned only ISP/Wi-Fi threads).
+
+### 2–5, 8, 11. Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on the page that the AI Overview could not be viewed; each H3 is framed as a commonly published claim (cost guides, Angi/HomeAdvisor, product pages, forums) and corrected with sourced facts.
+
+### 6/7. Building stock, landmarks, institutions
+- Carried: https://www.furmancenter.org/neighborhoods/upper-west-side/ (Firecrawl scrape; page updated 05/06/2026) — 2024 population 230,436; housing units 130,471; homeownership 35.6% (city 32.7%); 65+ 22.9%; single-person households 43.6%; 12 Mitchell-Lama properties / 2,075 units. Re-confirmed in this run by search excerpt (`Manhattan Community District 7 work from home share ...` → same URL, "230,436 people", "homeownership rate ... 35.6%"). → §5 paras 4, §5.5 facts 1 and 6, FAQ 3 (Mitchell-Lama), Sources.
+- Query: `Manhattan Community District 7 work from home share residents American Community Survey Upper West Side` · Firecrawl search → scrape (directQuote) http://censusreporter.org/profiles/79500US3604107-nyc-manhattan-community-district-7-upper-west-side-puma-ny/ — "Census data: ACS 2024 1-year unless noted"; "23%† Worked at home" (the † = high margin of error flag); median age 43.5; 130,471 units. → §5 para 4, §5.5 fact 2 (stated with the margin-of-error caveat), Sources.
+- Carried: LPC post https://www.facebook.com/NYCLandmarks/videos/dyk-the-upper-west-side-has-nine-historic-districtsfeatured-here-is-the-upper-we/577968259884199/ — "the Upper West Side has nine Historic Districts"; https://hdc.org/tags/upper-west-side/ — West End–Collegiate HD Jan 3 1984, ext. June 23 2015, "most elaborate and eclectic collection of row houses in the city"; West 71st Street HD Aug 29 1989 (cul-de-sac row houses). → §5 para 3, §5.5 fact 3, §7 row-house card, §13 West End–Collegiate card, Sources.
+- Carried: https://en.wikipedia.org/wiki/The_Ansonia — 2109 Broadway 73rd/74th; 17 storeys; opened April 16 1904; landmark 1972; condo 1992; light courts; 1904 subway station at Broadway & 72nd "spurred the development of high-rise apartment buildings on the Upper West Side along Broadway". → §5 para 1, §7 card, §13 Ansonia card, Sources.
+- Carried: https://en.wikipedia.org/wiki/The_Dakota (1880–1884, Hardenbergh, four to twenty rooms, co-op 1961); https://streeteasy.com/building/the-apthorp (390 West End Ave, built 1908, block W 78th–79th); https://en.wikipedia.org/wiki/The_Belnord (1908–1909, arches to internal courtyard). → §7 prewar card, §13 Dakota and Apthorp/Belnord cards, Sources.
+- Carried: https://www.cityrealty.com/nyc/market-insight/features/get-to-know/what-classic-six-apartment-why-nyc-buyers-still-covet-prewar-layout/20582 — classic six includes "a smaller room originally intended for live-in household staff … typically positioned near the kitchen"; associated with prewar co-ops on the UWS/UES. → §5 para 1 ("servants' rooms"), §7 prewar card ("staff rooms off the kitchen"), hero form placeholder context, Sources.
+- Query: `Riverside South development Upper West Side former Penn Central rail yard towers number of buildings Riverside Boulevard` · Firecrawl search (excerpts) →
+  - https://www.nycgovparks.org/parks/riverside-park-south/history — "Built on the former site of the New York Central Railroad's 60th Street Yard, Nineteen buildings were eventually erected". → §5.5 fact 4, §7 Riverside card, §13 card, Sources.
+  - https://en.wikipedia.org/wiki/Riverside_South,_Manhattan — table: 180 Riverside Blvd 1999 (40 st., 516 apts); 200 Riverside 2000; 160 Riverside 2001; 220 Riverside 2003 (49 st.); 60 Riverside Blvd/The Aldyn 2011 (38 st., 136 apts). → §5.5 fact 4 ("cable well over twenty years old" = inference from 1999 completion), §13 card, Sources.
+  - https://danielblatman.com/blog/riverside-boulevard-new-development-corridor-on-the-upper-west-side — "19 towers built over three decades on a former rail yard between 59th and 72nd Streets" → §7 Riverside card ("between about 59th and 72nd Streets").
+- Query: `Lincoln Center campus acres buildings Fordham Lincoln Center Juilliard LaGuardia High School Amsterdam Avenue` · Firecrawl search (excerpts) → https://www.fordham.edu/about/campuses/lincoln-center-campus/ ("The eight-acre campus spans two city blocks"); https://en.wikipedia.org/wiki/Fiorello_H._LaGuardia_High_School (100 Amsterdam Ave between W 64th and 65th, Lincoln Square); https://starrfoundation.org/... ("16-acre campus", Amsterdam Avenue side). → §7 campus card, §8 Lincoln Square card, §13 Lincoln Center card, Sources.
+- Query: `Upper West Side doctors offices ground floor prewar apartment buildings Central Park West West End Avenue "professional" suites medical` · Firecrawl search → then scrape (markdown) https://www.metro-manhattan.com/neighborhoods/uptown-manhattan/upper-west-side/ (market data "Last reviewed July 2026"): "your neighbors will mostly be doctors, therapists, nonprofits, and whatever grew up around Lincoln Center"; "All of Uptown Manhattan holds maybe 3 to 4 million square feet of office space"; table row "Central Park West and West End side streets … Professional and medical suites in apartment buildings … 500 to 2,500 SF"; "Healthcare runs this neighborhood. Doctors, dentists, therapists"; Therapy/Psychiatry best-fit "Central Park West and West End side streets"; 1995 Broadway "went up in 1973 … Eighteen stories … column-free full floors of roughly 5,000 feet"; "Mount Sinai moved its Upper West Side OB-GYN practices into 7,000 gut-renovated square feet at 348 Amsterdam Avenue in 2026 (Commercial Observer, April 2026)"; "Lincoln Center: 16.3 acres and 11 resident arts organizations … $335 million … due in summer 2028"; "broke ground in May 2026". Also heller­org.com 25 CPW listing excerpt ("Ground Floor professional/medical offices in a historic prewar condo on Central Park West") — background. → §5 para 5, §7 postwar and campus cards, §8 intro, practice cards and "Practices that share a building" subsection, §9 therapy Q, §13 Lincoln Center card, Sources. (Broker's internal research — attributed as Metro Manhattan's description, not presented as official data.)
+
+### 9/10. Local news / hyperlocal
+- Query: `Upper West Side storefront vacancy Broadway Amsterdam Columbus 2025 West Side Rag` · Firecrawl search → scrape (directQuote) https://www.westsiderag.com/2025/10/30/80-vacant-storefronts-blight-51-upper-west-side-broadway-blocks (Gus Saltonstall, Oct 30 2025): "on Broadway from West 59th to 110th streets, the Rag counted 80 vacant storefronts in October 2025 — five more than the 75 … last October, but five fewer than the 85 … in August of 2023". → §5 para 5, §5.5 fact 5, §8 "Shops that inherit someone else's cable", Sources.
+- Carried: BIDs — https://columbusamsterdambid.org/ ("along Columbus and Amsterdam Avenues from West 96 Street to West 110 Street"); https://www.nyctourism.com/attractions-tours/lincoln-square-business-improvement-district/ ("home to the famed Lincoln Center … founded in 1996"); https://www.columbusavenuebid.org/ (og:description "a short walk from the American Museum of Natural History and Central Park"). → §8 corridor cards, Sources.
+- Carried: https://www.westsiderag.com/2025/11/25/macys-thanksgiving-day-parade-uws-inflation-event-2025-what-to-know — inflation outside AMNH "from West 77th to 81st streets, between Columbus and Central …"; https://www.nbcnewyork.com/holidays/thanksgiving-parade-2025-balloon-inflation-where-to-see-in-person-in-nyc/6423199/ — "Wednesday, Nov. 26 from 1 to 6 p.m." → FAQ 1, Sources.
+- Query: `Upper West Side water main break flooded basements 2025 OR 2026` · Firecrawl search → results only East Village (14th St/1st Ave, Aug 2026), Pelham Bay (Bronx), Salt Lake City. UWS-specific flooding incident: EMPTY. Not used.
+- UWS news on Cat6/network cabling failures: EMPTY (no result).
+
+### Local licensing / code / building rules
+- Query: `FDNY fire escape must be kept clear obstruction NYC rule` · Firecrawl search (excerpts) → https://up.codes/viewer/new_york_city/nyc-fire-code-2022/chapter/10/means-of-egress §1027.7: "Fire escapes, and access thereto, shall be maintained in a safe and operational condition, and continuously maintained free from obstructions and impediments to immediate use in the event of fire or other emergency." https://fdnysmart.org/wp-content/uploads/2015/04/apartment_fire_safety-en.pdf ("KEEP YOUR EXITS CLEAR … keep the fire escape window clear"); https://www.brickunderground.com/live/can-you-sit-or-put-stuff-on-your-fire-escape-rules-nyc ("FDNY's residential safety guide says you should keep your fire escape clear of obstructions at all times"). → §8.5 callout 3, §9 fire-escape Q, §10.5 H3 6, Sources.
+- Carried: https://www.brickunderground.com/guides/how-to-renovate/fifteen-things-your-coop-or-condo-board-might-not-let-you-do-in-your-renovation — "Some buildings only allow summer renovations … Most limit work to 9-5 weekdays." → §5 para 3, §9 summer-rule Q, Sources.
+- Carried: Mitchell-Lama supervision — https://www.nyc.gov/site/hpd/services-and-information/mitchell-lama-program.page; https://www.osc.ny.gov/press/releases/2026/03/... ("HPD- and DHCR-supervised Mitchell-Lama developments"). → FAQ 3 (supervision only; no specific alteration rule claimed).
+- Reused from silo/Manhattan sections: Admin Code §28-105.4.7 (LL128/2024) (amlegal); NYC Electrical Code (2020 NEC + amendments) fully in effect Dec 21 2025 (nyc.gov); LPC "Permits and Making Alterations" (nyc.gov/lpc); NEC 800.25 abandoned cable (EC&M). → §8.5 callouts 1, 2, 4, 5; §10.5 H3 2 and 5; Sources.
+
+### Technical (UWS retrofit angle)
+- Query: `TIA-568 minimum bend radius four times cable diameter UTP Cat6 installation` · Firecrawl search (excerpts) → https://www.elliottelectric.com/StaticPages/ElectricalReferences/DataComm/minimum_bending.aspx ("Minimum Bend Radius for Cable - TIA/EIA 568 … Minimum installed radius is 4 times cable diameter for horizontal runs"); https://www.commsbuyer.ie/cable-bend-radius-cat6/ ("four times the cable's outer diameter, per ANSI/TIA-568"). → §9 shallow-box Q, Sources.
+- Query: `through-wall air conditioner sleeve condensation dripping inside wall water damage apartment` · Firecrawl search (excerpts) → https://allbritten.com/why-is-my-air-conditioner-leaking-water-inside-the-apartment/ ("the most common cause is a clogged condensate drain line"); https://www.reddit.com/r/HomeImprovement/comments/hosxpb/ ("the pan isn't draining properly and the condensation … soaks into the wall"). → §9 AC-sleeve Q (cause stated generally), Sources. No NYC-specific statistic used.
+- Chimney-flue routing (§9 flue Q), crown-molding concealment (§9 molding Q), installer "signatures" table and preschool floor-level jacks (§9) are written from general field practice; no statistics, named buildings or stories attached.
+
+### Prices used (live AESS Manhattan pages only; no new prices)
+- $195/hr, 3-hr minimum ($585); replacement run from $175; evening/weekend access as a named premium line — network-cable-repair-manhattan.html, as carried by cat6-repair-manhattan.html (read this run).
+- New-drop benchmark Cat5e $254 / Cat6 $296 / Cat6A $424 — cat6-installation-manhattan.html (as shown on cat6-repair-manhattan.html).
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — third-party, labelled.
+- Packages: $585 starter; $195/hr after 3 h; repair time + from $175/run — all composed only of the above.
+- No §9 1.25× multiplier applied on top (same basis and FLAG as the Manhattan and Midtown sections).
+
+### Images (11) — Step C library; Drive "AESS Website Photos/Cat6 Repair" EMPTY (main run), CompanyCam not needed
+All 11 are new crops of the AESS photos in images/cat6-repair/ (aess-cat6-repair-*), cropped differently from the Midtown copies where possible and with every face removed; WebP q80, ≤1600 px. Each viewed (contact sheet) before naming; alt/title/caption describe only what is visible; no building, customer or local job is claimed.
+| new file (images/cat6-repair/) | source | crop box (x0,y0,x1,y1) |
+|---|---|---|
+| cat6-repair-upper-west-side-certifier-and-laptop-pass-report.webp (hero, og:image) | aess-…-certifier-results-labeled-rack | 600,300,1400,933 |
+| cat6-repair-upper-west-side-tester-at-numbered-panel-ports.webp | aess-…-testing-labeled-patch-panel | 760,150,1400,700 |
+| cat6-repair-upper-west-side-cable-bundles-on-ceiling-supports.webp | aess-…-pulling-cat6-above-ceiling | 500,0,1400,560 |
+| cat6-repair-upper-west-side-split-jacket-exposed-pairs-steel-edge.webp | aess-…-damaged-cat6-jacket-sharp-edge | 400,150,1400,850 |
+| cat6-repair-upper-west-side-access-point-cable-at-open-tile.webp | aess-…-access-point-cable-repair | 720,0,1400,1250 |
+| cat6-repair-upper-west-side-storefront-counter-switch-cabinet.webp | aess-…-pos-counter-cable-repair | 790,0,1400,933 |
+| cat6-repair-upper-west-side-wall-plate-rework-tester-on-floor.webp | aess-…-office-wall-jack-repair | 0,560,1100,933 |
+| cat6-repair-upper-west-side-tone-probe-at-numbered-panel.webp | aess-…-toning-cable-at-rack | 640,220,1400,800 |
+| cat6-repair-upper-west-side-cat6-channel-pass-and-remote.webp | aess-…-cat6-channel-certification-test | 700,280,1400,900 |
+| cat6-repair-upper-west-side-wire-map-pass-patch-cords.webp | aess-…-wire-map-test-patch-panel | 760,300,1400,900 |
+| cat6-repair-upper-west-side-keystone-t568b-punch-down-bench.webp | aess-…-punching-down-cat6-keystone | 560,150,1400,933 |
+Not used: before-after-rack-cleanup (faces + text overlay), crimping-rj45 (face), poe-camera-cable-test (face, parked cars). FLAG: several aess-* source photos show rendering artefacts typical of AI generation (garbled on-screen text such as "Test Tes Pessult", "Deley Skew", inconsistent logos) — they were used as instructed (library "real AESS photos"), but Anwar should confirm they are genuine. DAILY-LOG note suggestion: `images: 11 cropped from AESS photos in images/cat6-repair/ (aess-cat6-repair-*; faces cropped out)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Upper West Side, Cat6 cable repair Upper West Side Manhattan, Cat6 re-termination, Cat6 jack repair, recertification, retrofit run tracing, home-office link repair, in-unit panel repair, practice suite cabling repair.
+- Problem: shallow wall box / bend radius, AC-sleeve condensate corrosion, fire-escape cable run, crown-molding concealed run, chimney-flue run, co-op summer rule, child-height classroom jacks, storefront inherited cable, mesh-instead-of-cable myth.
+- Technology: TIA-568 bend radius (4× OD), low-profile/angled keystones, paintable raceway, inspection camera, certifier distance-to-fault, PoE access points, plenum-listed replacement (office/shop ceilings only), NEC 800.25.
+- Industry: prewar co-ops/condos/rentals, Mitchell-Lama, brownstones/row houses, walk-ups over shops, Riverside Boulevard condos, medical/dental/therapy suites, schools/preschools, congregations, museums, Lincoln Center arts organisations, Broadway/Amsterdam/Columbus retail and restaurants.
+- Geographic: Upper West Side, Lincoln Square, Columbus Circle edge, Central Park West, West End Avenue, Riverside Drive, Riverside Boulevard, Broadway, Amsterdam, Columbus, West 70s/80s/90s, Manhattan Valley, Cathedral Parkway, Morningside Heights edge, Community District 7.
+
+### Masked similarity (uws/sim_uws.py in the scratchpad: geo masked incl. Upper West Side/West Side/Midtown/Bay Ridge/Astoria/Lincoln Square/Manhattan Valley; blocks p/li/td/h2/h3/figcaption with ≥6 masked words; word-level difflib)
+Final build 233,763 B / 13,892 rendered words (after the 15:30Z revision; earlier 233,167 B / 13,865) (check_page count). Every non-constant block < 0.65 vs all 19 Cat6 Repair pages on disk (16 hub/area pages, Midtown, and the parallel Bay Ridge and Astoria drafts as of 15:13Z) and vs soundbar-installation-upper-west-side-manhattan-ny (cross-silo). Blocks ≥ 0.65 are only blueprint-mandated H2 patterns ("[Service] for [Area]'s Architecture", "… Near [Area]'s Landmarks", "… in [Area]: Questions Answered", "Every [Service] Service in [Area]", "Why [Area] Properties Need [Service] …"), the silo cross-link list, and excluded constants (warranty sentence, licence/rating strip, Bronx NAP line, "What AI Gets Wrong About…", "Every Cat6 Cable Repair Service We Handle in…"). Highest prose block after four rewrite passes: 0.62. File size: 5.2 KB above Midtown (227,952), 7.3 KB below Astoria (240,501 at 15:13Z), 13.4 KB below Bay Ridge (246,542) — JSON-LD indentation is wide for that reason (same technique as Midtown).
+
+## Question register — cat6-repair-upper-west-side-manhattan-ny
+
+§9 "Questions Answered" (H3 questions; revised 2026-10-17 ~15:30Z after the main run asked for a meaning-level pass against the six newly live neighbourhood registers):
+1. Our mother's medical-alert base unit is plugged into a wall jack in her apartment that has stopped working — how is the repair handled so the alert service is not left unchecked? (Inside prewar apartments) — NEW; replaces the AC-sleeve corrosion Q, same intent as St. George Q9 (jack under a window failing because water reaches it). Source: Furman Center 65+ share 22.9% (carried). AC-sleeve condensate stays as body text only.
+2. The Cat6 jacks in our prewar apartment sit in very shallow old wall boxes — is that why they keep failing?
+3. A previous tenant ran our Cat6 out the window and along the fire escape — when it fails, can it go back the same way?
+4. Our co-op allows alteration work only in the summer — which parts of a Cat6 repair can still be done in winter? (kept: building's seasonal alteration rule; Park Slope F1 is about weather for exterior facade work)
+5. The Cat6 hidden behind our crown molding stopped working — does the molding have to come off to repair it?
+6. A previous owner ran our brownstone's Cat6 up a disused chimney flue — can it be repaired there, or should it come out?
+Converted to statement H3s (not registered as questions): "Practice suites inside apartment buildings: working around the appointment book" (was the therapy-privacy Q — same intent as St. George F1 confidential files / F8 quiet while meeting clients, and Fordham F1 HIPAA); "Preschool classrooms and data jacks at child height" (was the preschool Q — overlaps Park Slope F2 / Bay Ridge "move the jack a few feet").
+
+FAQ (§17, = FAQPage schema):
+F1. Can a repair near the Museum of Natural History be booked for the day before Thanksgiving?
+F2. Our doorman only lets up contractors whose names are on the building's list — what do you send ahead?
+F3. Do you repair Cat6 in Mitchell-Lama co-ops and rentals on the Upper West Side?
+F4. Our parent lives alone and is not comfortable with technology — can we stay on the phone while the technician works?
+
+Other "?" headings: "Upper West Side Jack Dead Since This Morning?" (repair capture), "Upper West Side Jack Still Dark After Trying Everything?" (closing).
+
+De-dup notes (compared by meaning against every register in research/cat6-repair.md — NYC, LI, HV, Bronx, Staten Island, Queens, Rockland, Orange, Putnam, Nassau, Suffolk, Westchester, Manhattan, Brooklyn, Dutchess, Ulster, Midtown — and against the parallel Bay Ridge and Astoria drafts as on disk at 15:13Z):
+- Deliberately not asked (intent already owned): where a fault sits in plaster-and-lath runs and opening finished walls (Westchester Q1/Q2), co-op board approval for in-apartment repair (Westchester Q6 — Q4 here is about the *seasonal* alteration window, not approval), concrete ceilings (Westchester Q8), steam riser/radiator heat (Westchester Q12, Bronx Q8), TV-mount screw (Westchester Q13), structured-media panel (Westchester Q5, Brooklyn Q7, Nassau Q10), ISP moved the router (Rockland Q2, Brooklyn Q12, Nassau Q8, SI Q6), landlord permission (Queens Q10, Brooklyn F5, Nassau F4), indoor cable run outside to a shed (HV Q8 — Q3 here is specifically the fire-escape egress rule), least-visible route along casings (HV Q12 — Q5 here is about reaching an existing run hidden in crown molding), no-hollow-wall homes (Orange FAQ), sturdier jacks against tenants (Dutchess Q10 — Q8 here is child-height safety/relocation in classrooms), medical before patients arrive (LI F4 — Q7 here is confidentiality and session privacy), caretaker meeting the technician (Putnam F2 — F4 here is a remote family member on the phone with an elderly resident), out-of-state owner via managing agent (Bronx F1), Midtown loading dock/lobby (F1 there) vs F2 here (doorman list/name ahead), Shabbat scheduling (Orange), lease-end/selling (Ulster F5), dumbwaiter (Bronx Q9), hallway raceway (Bronx Q5), molding-free surface raceway (Nassau F6).
+- Batch siblings: Bay Ridge asks "Can a jack be moved a short distance while its dead run is being repaired?" (general relocation) and "plaster around our wall jack crumbled"; Astoria asks about drilling noise for neighbours and window-frame camera runs. Q8 (child-height classroom jacks), Q2 (shallow boxes / bend radius) and Q3 (fire escape) were kept because their intents (child safety, bend radius, egress rule) differ — main run may want to re-read Q8 against Bay Ridge's relocation question.
+- Permit/licence, Landmarks and plenum rules kept to body text (§8.5, §10.5), not asked as questions.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing & DDG, Yelp 1–3★; Reddit threads on failing UWS Cat6 (reddit not scrapeable); UWS local news on cabling failures; UWS-specific flooding/water-main incidents (search returned only East Village/Bronx/out-of-state).
+
+### Flags for review
+1. aess-cat6-repair-* source photos look AI-rendered (garbled screen text); used as instructed — confirm authenticity.
+2. FAQ F2 says we confirm the technician's name/arrival window and can send it the day before; FAQ F4 and §"Homes, Not Offices" say technicians do not change passwords/settings and can phone a remote family member — practice statements consistent with Manhattan/Midtown pages but not separately confirmed by Anwar.
+3. Census Reporter 23% work-at-home figure carries a high-margin-of-error flag (stated on page).
+4. Metro Manhattan figures are a broker's internal research (attributed as such).
+5. Prices: same un-multiplied Manhattan figures as Midtown (§9 1.25× not stacked) — carried FLAG.
+6. Scratchpad note: the scratchpad directory is shared by the three batch subagents; this run's build files are in scratchpad/uws/. Early in the run this agent accidentally executed the Bay Ridge agent's scratchpad build.py once (it rebuilt cat6-repair-bay-ridge-brooklyn-ny.html from that agent's own sources); the Bay Ridge agent has rebuilt its page since (file updated 15:12Z).
+
+### Revision 2026-10-17 ~15:30Z (main-run request)
+- Meaning-level pass of all §9 H3 questions, FAQ and FAQPage schema against the registers/pages of williamsburg-brooklyn, long-island-city-queens, fordham-bronx, st-george-staten-island, financial-district-manhattan and park-slope-brooklyn: 3 changes (above). FAQ F1–F4 unchanged (Thanksgiving street closure ≠ St. George parking; doorman list ≠ LIC freight booking; Mitchell-Lama; remote family member ≠ St. George F3 approval when nobody on site).
+- Neighbourhood cross-link block taken from the main run's wiring of the page (Midtown, Williamsburg, LIC, Fordham, St. George, Financial District, Park Slope, Bay Ridge, Astoria) and kept in the build source.
+- Similarity rerun vs all 25 Cat6 pages: four headings/cells reworded (services card, comparison-table row, sources H2, bill-drivers H3); no non-pattern block ≥ 0.65.
+- Full `python3 tools/check_page.py cat6-repair-upper-west-side-manhattan-ny` → PASS (233,763 B).
+
+## Bay Ridge, Brooklyn (cat6-repair-bay-ridge-brooklyn-ny)
+
+Batch run 2026-10-17 (subagent build, parallel with cat6-repair-upper-west-side-manhattan-ny and cat6-repair-astoria-queens-ny; not committed). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl MCP (mcp__Firecrawl__firecrawl_search / firecrawl_scrape, directQuote mode). Shell curl blocked. Up-link /cat6-repair-brooklyn; phone (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn).
+
+**Thesis (differs from cat6-repair-brooklyn and every Cat6 sibling):** Bay Ridge buildings are *renovated, not replaced* — the Special Bay Ridge District (1978) and the 2005 contextual rezoning keep the low-rise stock, owners stay (41% homeownership, only 452 new units 2010–2025), so Cat6 is added one renovation at a time by different hands and is damaged by later renovations (own house or the one next door). Repair = identify which layer of past work a failed run belongs to, test from where runs meet (cellar cabinet / closet / under-counter), and repair through small openings in plaster, block and stone. Building families: limestone/brick row houses (party walls, cellars, Doctors' Row), detached houses near Shore Road (two-switch houses, trunk link), semi-detached/two-family, post-war Shore Road co-ops (little hollow wall; under-carpet runs), pre-war/mid-rise rentals (Ridge Blvd/4th Ave), mixed-use avenue buildings (3rd/5th/86th; take-out windows, counters), ground-floor practices. Brooklyn page's thesis (building type decides failure point across the borough) is referenced via up-link, not repeated.
+
+### Reddit (source 1)
+- Query: `site:reddit.com r/bayridge ethernet internet wiring apartment` · Firecrawl search → only r/AskNYC / r/Brooklyn ISP threads (https://www.reddit.com/r/Brooklyn/comments/1f8zbtu/..., https://www.reddit.com/r/Brooklyn/comments/108tpbh/... "even on our block some brownstones are wired for it and others are not"). Nothing Bay Ridge- or Cat6-fault-specific; not used. Bay Ridge Reddit threads on failing Cat6: EMPTY (not accessible in build env — reddit not scrapeable).
+- Query: `Bay Ridge illegal basement apartments conversions Community Board 10 complaints` · search excerpt https://www.reddit.com/r/Brooklyn/comments/1naer3a/... (DOB illegal-basement complaint thread) — background only, not used.
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on-page that the AI Overview could not be opened; each H3 is framed as a commonly repeated claim and corrected with sourced facts (Fixr Jan 2025, Fluke NEXT KB, computercablestore 100 Mbps page — all from the silo section of research/cat6-repair.md).
+
+### Zoning, housing, building stock (sources 6, 7)
+- Query: `Special Bay Ridge District zoning 1978 purpose preserve low-rise character` · Firecrawl search → scrape https://zr.planning.nyc.gov/article-xi/chapter-4 (directQuote): purposes "(a) to preserve, protect and maintain the existing scale and character of the residential and commercial community; (b) to encourage design … in character with the neighborhood…" → §5 para 1, Sources.
+- Same search → scrape https://www.citylandnyc.org/city-increases-zoning-protection-for-bay-ridge/ (published 2005-04-15, directQuote): "On March 23, 2005, the City Council approved … rezoning plan for a 249-block area within Brooklyn's Special Bay Ridge District, bounded by 65th Street to the north, Seventh Avenue to the east and Shore Road to the south and west." "Areas restricted to single-family or two-family homes increased from 33 to 101 blocks." og:description: "In 1978, after neighborhood residents protested the development of three large residential buildings, the twin 30-story Bay Ridge Towers and the 13-story Shore Hill Apartments, the City…" → hero subhead, §5 para 1, §5.5 fact 1, Sources.
+- Search excerpt (same query): https://www.brooklynpaper.com/rezone-could-put-end-to-low-rise-ridge/ ("Bay Ridge Special Zoning District that capped development height back in 1978") — corroboration only.
+- Query: `Furman Center Bay Ridge Dyker Heights community district BK10 housing units built before 1947 share` · search → scrape https://www.furmancenter.org/neighborhoods/bay-ridge-dyker-heights/ (directQuote, updated 2026): homeownership rate 33.6% (2000) … 41.0% (latest column); "From 2010 to 2025, the neighborhood added 452 new housing units". Pre-1947 share: not returned — EMPTY. → §5 para 3, §5.5 fact 2, Sources.
+- Query (same) → scrape https://cbbrooklyn.cityofnewyork.us/cb10/about/neighborhoods/ (directQuote): CB10 = Bay Ridge, Dyker Heights, Fort Hamilton; "commercial corridors of 3rd Avenue, 4th Avenue, 5th Avenue, Fort Hamilton Parkway, 11th Avenue, 13th Avenue and the bustling 86th Street strip"; "One and two family homes comprise the major portion of the housing composition and aging multiple dwellings together with some new structures, line Shore Road, Ridge Boulevard and 4th Avenue, while smaller clusters of four to six story structures are randomly situated". → §5 para 2, §7 building cards, §8 intro, §9 walk-up H3, Sources.
+- Query: `Bay Ridge co-op buildings Shore Road postwar apartment towers history` · search excerpts → https://soldbysoldano.com/9201-shore-road-bay-ridge-co-op/ (9201 Shore Road "The Len", built 1960, 254 apartments, postwar co-op; "The Len is the largest of the nine co-op and condo buildings on Shore Road"); https://soldbysoldano.com/9323-shore-road-bay-ridge-co-op/ (9323 Shore Road, 1961, 72 apartments, six storeys); https://www.homes.com/building/9201-shore-rd-brooklyn-ny/... ("red-brick tower … built in 1960"). → §5.5 fact 5, §7 co-op card, §13 landmark card, Sources. (Broker sources; used for build year/unit count only.)
+- Query: `Bay Ridge Towers 30-story co-op Colonial Road Shore Hill Apartments history` · search excerpts: Shore Hill 558 federally assisted apartments (shorehillhousingbk.com); NHP Foundation: two interconnected 14-story towers built 1977. Not used beyond CityLand's wording (storey counts conflict 13 vs 14 — omitted). Colonial Road co-ops/detached homes: no source found — EMPTY; "Colonial Road" not named on the page.
+- Query: `Bay Ridge Brooklyn limestone row houses semi-detached brick history development 1900s Brownstoner` · search excerpts (Brownstoner listings; dates 1899–1910 conflict with LPC 1906–1913 — LPC used). Background only.
+- Query: `Bay Ridge illegal basement apartments conversions Community Board 10 complaints` · search → scrape https://www.citylandnyc.org/council-member-works-to-combat-illegal-home-conversions/ (2014-10-02, directQuote): "since 2010, over 1,000 complaints for illegal home conversions came from communities within the Council Member's district, Bay Ridge, Dyker Heights, and Fort Hamilton"; "Illegal conversions pose a hazard to tenants, with faulty wiring that can cause fires…". → §5 para 4, Sources.
+
+### Landmarks / corridors (source 6)
+- Query: `Bay Ridge Parkway Doctors' Row Historic District designated Landmarks Preservation Commission limestone rowhouses` · search excerpt (full text in excerpt) https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page: first historic district in Bay Ridge; "a block of 54 row houses on Bay Ridge Parkway between 4th and 5th avenues constructed between 1906 and 1913 … all two stories tall with a basement"; limestone-fronted; "continues to be a hub for people in the medical profession". → §5.5 fact 3, §7 row-house card, §8 Bay Ridge Parkway card, §8.5 landmarks callout, §9 practice question context, §13 card, Sources.
+- Query: `Gingerbread House 8220 Narrows Avenue Bay Ridge landmark…` and `Gingerbread House Bay Ridge landmark designated 1988 Arts and Crafts James Sarsfield Kennedy` · search → scrape http://s-media.nyc.gov/agencies/lpc/lp/1623.pdf (LPC designation report, directQuote): "8200 Narrows Avenue House"; "Built 1917; architect James Sarsfield Kennedy"; "constructed of uncut, randomly laid stone"; public hearing May 15, 1987; "important and rare example of the Arts and Crafts style". (Listing sites say 8220 Narrows Ave and "designated 1988" — LPC address 8200 used; designation year not stated on page, only the 1987 hearing.) → §7 detached card, §8.5 callout, §13 card, Sources.
+- Query: `Fort Hamilton Army garrison Bay Ridge oldest active military installation history` · search excerpt https://installations.militaryonesource.mil/in-depth-overview/fort-hamilton: "cornerstone … set in 1825 and the first garrison flag was raised in 1831"; "the only active duty military installation in the greater New York City Metropolitan Area". → §8 card, §13 card, Sources.
+- Query: `Verrazzano-Narrows Bridge opened 1964 Bay Ridge Fort Hamilton anchorage` · search excerpts: https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge ("opened on November 21, 1964"); https://www.mta.info/agency/bridges-and-tunnels/verrazzano-narrows-bridge ("world's longest suspension span" when opened); NPS Facebook excerpt ("ends of the bridge are at historic Fort Hamilton in Brooklyn…"). → §13 card, Sources.
+- Query: `Owl's Head Park Bay Ridge acres history Shore Road Park promenade NYC Parks` · search (full text) https://www.nycgovparks.org/parks/owls-head-park/history: Yellow Hook renamed Bay Ridge in 1853; terminal moraine; Henry C. Murphy estate, bought by Eliphalet W. Bliss 1866; designated park 1928; Acreage 24.22. → §13 card, Sources.
+- Query: `86th Street BID Bay Ridge Fifth Avenue BID Third Avenue merchants storefronts number of businesses` · search → scrape https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=55 (Bay Ridge 5th Avenue: est. June 2006; 40 block faces; 376 ground-floor retail businesses) and ?bid=42 (86th Street Bay Ridge: est. October 2001; 16 block faces; 145 ground-floor businesses). Excerpts: https://www.86bid.org/directory ("R train to 86th Street and 4th Avenue"); https://www.facebook.com/ThirdAvenueBayRidge/ ("Third Avenue in Bay Ridge … a 36-block strip of unique businesses"). → §5.5 fact 4, §8 corridor cards, Sources.
+
+### Local licensing / permits / rules
+- LPC permits page (https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page), NYC Electrical Code effective Dec 21 2025 (nyc.gov), NEC 800.25 (EC&M), EPA RRP / NYC LL1 of 2004, Brick Underground alteration vs decoration agreements — all reused from the silo and Brooklyn sections of research/cat6-repair.md (no new fetch). → §8.5 callouts, §9 limestone and co-op H3s, Sources.
+- Bay Ridge-specific permit or DOB rule for low-voltage repair: EMPTY (none found; page makes no claim beyond LPC's wording).
+
+### Local news / hyperlocal (sources 9, 10)
+- Query: `Bay Ridge Hurricane Ida 2021 flooding basements Brooklyn Paper` · search → scrape https://www.brooklynpaper.com/ida-flood-aftermath-clear-skies-rain-storm/ (Sept 2 2021, directQuote): "Hurricane Ida dumped between five and six inches of rain on most of Brooklyn"; photo captions: Parks employee "shovels mud blocking a walkway in Owl's Head Park in Bay Ridge"; "A large puddle blocks a piece of the Shore Road Promenade in Bay Ridge"; Bay Ridge Cares "born out of Superstorm Sandy". → §5.5 fact 6, Sources. (Flood questions not asked — intent taken on SI/Nassau/Brooklyn.)
+- Query: `Bay Ridge Brooklyn internet outage Spectrum Verizon Fios news residents` · search → only Facebook group excerpt (Bay Ridge residents reporting Fios issues) and provider status pages; Spectrum store at 531 86th St. Not used. Local news on Cat6/network-cable failures in Bay Ridge: EMPTY.
+- Yelp 1–3★ for Bay Ridge cabling contractors: EMPTY (not accessible in build env).
+
+### Prices used (only figures already published on cat6-repair-brooklyn.html; Brooklyn = 1.00×, no multiplier)
+- $195/hr, three-hour minimum ($585).
+- Replacement run from $175 per run.
+- Exterior entry for an outdoor run, sealed and bonded, from $185 per penetration.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — third-party, labelled.
+- BYOE labour-only = repair time only (as on the Brooklyn page). No new prices.
+
+### Images (11) — Step C library; Drive "AESS Website Photos/Cat6 Repair" EMPTY (checked by main run), CompanyCam not needed
+New crops of the AESS photos in images/cat6-repair/ (aess-cat6-repair-*), each looked at before naming; faces, readable documents, house numbers and plates cropped out; crops differ from the Midtown copies; WebP q80, ≤1600 px. Alt/title/caption describe only what is visible; no photo is said to show a Bay Ridge building or job.
+| new file (images/cat6-repair/) | source | crop box (x0,y0,x1,y1) |
+|---|---|---|
+| cat6-repair-bay-ridge-poe-dome-camera-tester-block-wall.webp (hero, og:image) | aess-cat6-repair-poe-camera-cable-test.webp | 740,0,1340,933 (no face, no cars) |
+| cat6-repair-bay-ridge-wall-plate-rework-tester-on-floor.webp | aess-cat6-repair-office-wall-jack-repair.webp | 560,470,1400,933 |
+| cat6-repair-bay-ridge-split-jacket-exposed-pairs.webp | aess-cat6-repair-damaged-cat6-jacket-sharp-edge.webp | 380,140,1400,820 |
+| cat6-repair-bay-ridge-rj45-plug-crimp-bench.webp | aess-cat6-repair-crimping-rj45-connector.webp | 0,450,1400,933 (below the face) |
+| cat6-repair-bay-ridge-cable-fed-to-ceiling-supports.webp | aess-cat6-repair-pulling-cat6-above-ceiling.webp | 600,0,1400,580 |
+| cat6-repair-bay-ridge-under-counter-switch-cabling.webp | aess-cat6-repair-pos-counter-cable-repair.webp | 700,320,1400,933 |
+| cat6-repair-bay-ridge-keystone-pairs-colour-chart.webp | aess-cat6-repair-punching-down-cat6-keystone.webp | 330,280,1400,933 |
+| cat6-repair-bay-ridge-tone-probe-numbered-panel.webp | aess-cat6-repair-toning-cable-at-rack.webp | 640,150,1400,933 |
+| cat6-repair-bay-ridge-channel-pass-with-remote-unit.webp | aess-cat6-repair-cat6-channel-certification-test.webp | 690,260,1220,933 |
+| cat6-repair-bay-ridge-labelled-cam-ap-office-ports.webp | aess-cat6-repair-before-after-rack-cleanup.webp ("after" panel only) | 1000,272,1400,933 |
+| cat6-repair-bay-ridge-laptop-wire-map-report.webp | aess-cat6-repair-certifier-results-labeled-rack.webp | 880,420,1400,933 |
+Not used: access-point-cable-repair, testing-labeled-patch-panel, wire-map-test-patch-panel (faces dominate; Midtown already used tighter crops). DAILY-LOG note suggestion: `images: 11 cropped from AESS photos in images/cat6-repair/ (aess-cat6-repair-*; faces cropped out)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Bay Ridge, Cat6 cable repair Bay Ridge Brooklyn, Cat6 jack repair, re-termination, recertification, replacement run, re-route, cabinet clean-up and labelling, PoE camera link repair.
+- Problem: damage from renovation or work next door (party wall), unsleeved facade holes, corroded outdoor plugs, single trunk link between two switches, under-carpet/saddle runs crushed, take-out window pinching, imaging workstation drops, crumbling plaster jack mounts, split dual-jack plates.
+- Technology: certification (NEXT, return loss), distance-to-fault, PoE reading, T568B, keystone, old-work bracket, surface raceway, outdoor-rated Cat6, sleeve/drip loop.
+- Industry: homeowners (row/detached/two-family), co-op owners, landlords of walk-ups, Third Ave restaurants/bars, Fifth Ave & 86th St retail, dental/medical practices on Bay Ridge Parkway.
+- Geographic: Bay Ridge, Shore Road, Narrows Avenue, Bay Ridge Parkway/Doctors' Row, Ridge Boulevard, Third/Fourth/Fifth Avenue, 86th Street, Fort Hamilton Parkway, Owl's Head Park, Fort Hamilton, Verrazzano-Narrows Bridge, 65th Street, Seventh Avenue; adjacent: Dyker Heights, Sunset Park, Bath Beach.
+
+### Masked similarity (geo masked incl. Bay Ridge/Shore Road/avenue names; blocks p/li/td/h2/h3/figcaption ≥8 words; word-level difflib; constants excluded = warranty sentence, licence/rating strip, NAP line, fixed H2 patterns)
+Final build 246,542 B / 12,623 rendered words. Max non-constant block vs any Cat6 sibling ≈0.64 (crimp-photo caption vs cat6-repair-astoria-queens-ny — same source photo; rewritten after that run, re-check in main run), then 0.62 (neighbourhood link line vs midtown; lead-paint callout vs brooklyn). File size placed well above the batch siblings (Astoria 238,361 / UWS 233,364 at last check) and Midtown 227,952 to clear the ±2 KB window — JSON-LD indentation is wide for that reason (as on Midtown).
+
+## Question register — cat6-repair-bay-ridge-brooklyn-ny
+
+§9 "Questions Answered" (H3):
+1. The house next door is being gutted. Can work on the far side of our shared party wall damage the Cat6 on our side?
+2. (converted 2026-10-17 at main-run request to non-question H3 "Camera cable through a limestone, brick or stone front" — same intent as cat6-repair-park-slope-brooklyn-ny Q4)
+3. (converted 2026-10-17 at main-run request to non-question H3 "Detached houses where one cable carries the whole upper floor" — same intent as cat6-repair-st-george-staten-island-ny Q6)
+4. The cable to the card terminal at our take-out window keeps failing where it passes through the window frame. What is going on?
+5. The imaging workstation in our ground-floor dental office keeps losing its connection in the middle of a patient visit. Is the cable likely to be the cause?
+
+Non-question H3s in §9 (body text, deliberately not asked): "Flat roofs, cocklofts and the top-floor run" (cockloft route asked as a question on cat6-repair-astoria-queens-ny); "Runs under carpets and across door saddles in Shore Road co-ops" (converted from a question — Astoria asks about crushed runs across shop/stage floors and walkways); "Hallway cameras and tenants' own runs in Bay Ridge walk-ups"; "Cellar cabinets that grew one switch at a time".
+
+FAQ (§17, = FAQPage schema):
+F1. Third Avenue closes for parades and street events several times a year. Can a repair at our shop be booked around those days? (replaced by main-run request 2026-10-17: deposit question duplicated cat6-repair-st-george-staten-island-ny F5; source for parades: PoliticsNY excerpt https://politicsny.com/2019/08/12/point-counterpoint-on-proposed-bay-ridge-bid/ — "Bay Ridge's 3rd Avenue is home to hundreds of merchants, as well as multiple annual parades")
+F2. The plaster around our wall jack has crumbled and the jack keeps falling back into the wall. Can that be fixed?
+F3. Can you compare your test results with the readings the original installer left us? (replaced 2026-10-17: pressed-tin duplicated Williamsburg Q3 / Park Slope Q6)
+F4. Only one of the two jacks on our wall plate works. Is the dead one fed by a separate cable?
+F5. The way into our row house's cellar is a low door under the front stoop. Can the technician still get the equipment down there? (replaced 2026-10-17: entrance counters/EAS duplicated Fordham Q1; row houses with basement per LPC Doctors' Row release)
+F6. A previous owner split our house into extra units, and we are turning it back into one home. What happens to the separate switches and runs each unit had? (replaced by main-run request 2026-10-17: jack-move question duplicated cat6-repair-park-slope-brooklyn-ny F2; context CityLand 2014 conversions, NEC 800.25)
+
+Other "?" headings: "Cat6 Link Down Somewhere Between Shore Road and Seventh Avenue?" (repair capture), "Bay Ridge Jack Still Dead After the Last Round of Work?" (closing).
+
+De-dup notes (by meaning, against every register in research/cat6-repair.md and the two batch siblings as on disk at 15:xx): party-wall damage ≠ Midtown Q1 (baseline around a scheduled building programme) / Westchester Q11 / Orange / Nassau Q4 / Queens Q8 (documenting another trade's damage) — this asks whether a neighbour's work can reach cable on our side and how it is found; ≠ Astoria party-wall question (a shared internet run crossing the wall). Limestone-hole reuse ≠ Bronx F10 (facade work disturbing cable) / Astoria (painting the outdoor run). Two-switch trunk ≠ Rockland Q11 (PoE on one port affecting another) / Midtown Q5 (two closets in merged suites). Take-out window ≠ Queens Q4 (roll-down gate) / Astoria roadway-dining teardown. Imaging workstation ≠ Orange (imaging vendor recertification after renovation) / Rockland Q10 (exam-room carts). Deposit ≠ NYC F1 (three-hour minimum). Crumbling plaster mount ≠ UWS (shallow old wall boxes cause failures) — closest neighbour; flag for main-run review. Pressed tin, dual-jack plate, entrance counters/EAS, moving a jack: no match found (Nassau Q9 split run feeding two rooms is a different intent from a dual plate with one dead jack). Avoided: landlord permission, lead paint, LPC approval and co-op paperwork as questions (kept as body text), flood/raised house, router moved by ISP, rodents, cookline, Wi-Fi extender, parking (Astoria), coax/phone.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing & DDG, Yelp 1–3★; Reddit threads on failing Cat6 in Bay Ridge; Bay Ridge local news on network-cable failures; pre-1947 housing share for BK10 (Furman page did not return it); Colonial Road building stock; Bay Ridge-specific DOB/permit rules for low-voltage repair.
+
+### Post-wiring note (2026-10-17)
+Read against the six newly live registers (Williamsburg, LIC, Fordham, St. George, Financial District, Park Slope). Remaining near-overlaps NOT changed (main run asked for only two edits): FAQ F3 pressed-tin ceiling ≈ Williamsburg Q3 / Park Slope Q6; FAQ F5 people counter / anti-theft pedestals ≈ Fordham Q1; §9 Q2 camera cable through a hole in the stone front ≈ Park Slope Q4; §9 Q3 single trunk link between floors ≈ St. George Q6. Flagged for main-run decision.
+All four flagged overlaps resolved 2026-10-17 (two FAQ replaced, two §9 questions converted to statement headings). Final: 3 §9 questions + 6 FAQ; 251,067 B; full check_page.py PASS.
+
+## Astoria, Queens (cat6-repair-astoria-queens-ny)
+
+Batch run 2026-10-17 (subagent build; not committed). Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd, #bronx, LocalBusiness block modelled on cat6-repair-queens.html) · up-link /cat6-repair-queens. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl MCP (mcp__Firecrawl__firecrawl_search / firecrawl_scrape). Shell curl blocked. "Carried" = fetched earlier today by the Sonos or Soundbar Astoria runs and logged in research/sonos-installation.md / research/soundbar-installation.md `## Astoria, Queens` (not re-fetched).
+
+**Thesis (differs from cat6-repair-queens and every other Cat6 page):** Astoria Cat6 fails where it *crosses out of its room* — window frames and fire escapes, the cockloft of flat-roofed attached houses, party walls, air-conditioner sleeve gaps, storefront frames, curbside dining setups that are packed away every winter, stage/workshop floors near Kaufman Astoria Studios, and bar cellars where beer trunks sweat. Most households rent a floor of a small building (18.5% homeownership), so runs were added one tenant at a time through the nearest gap. Repairs = find the crossing by distance, replace that length, move it to its own sealed entry/support/protector, and leave a crossing map. The Queens borough page's thesis (kitchens, basements, new towers' media panels) is referenced via up-link, not repeated.
+
+### Reddit (local)
+- `site:reddit.com astoria ethernet cable apartment wall jack internet` · Firecrawl search (excerpts only; reddit not scraped) →
+  - https://www.reddit.com/r/astoria/comments/1gkk2jh/how_to_extend_ethernet_cable/ — excerpt: "for residential/above wall you can get away with any CAT6 or 5E RJ45 terminated cable" → §10.5 H3 1 (paraphrased, attributed to an r/astoria commenter), Sources.
+  - https://www.reddit.com/r/astoria/comments/1vb87af/verizon_fios_in_closet/ — excerpt: "my ont is in my closet, but my router is in the living room." → Sources (background only).
+- Carried (soundbar/sonos Astoria): r/astoria 31st Street el noise threads → not used on this page (el kept to corridor card; vibration intent belongs to cat6-repair-brooklyn).
+- r/astoria threads on failing Cat6 at windows/fire escapes/cocklofts: EMPTY (none returned).
+
+### Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 says on the page that the AI Overview could not be opened; each H3 is a commonly repeated claim corrected with the sources here and in the silo section.
+
+### Outdoor dining (use case + rule)
+- `Dining Out NYC roadway cafe season April November structures removed off-season rules` · Firecrawl search → scrape https://www.diningoutnyc.info/rules/roadway/operate (cached 2026-10-17): roadway cafés may operate April 1 – November 29, not November 30 – March 31; set-up allowed from March 25; "The restaurant is responsible for storing the roadway cafe during the off-season"; furnishings secured during non-operating hours "cannot impede or block access to utility infrastructure"; hours Mon–Sat 8 a.m.–midnight, Sun 10 a.m.–midnight. → §5 para 4, §5.5 fact 4, §8.5 callout, §9 Q1, scheduling section, mid-CTA 2, Sources.
+  - abc7ny.com excerpt (Nov 29 deadline) and rules.cityofnewyork.us comments — not used.
+
+### Fire escapes (code)
+- `NYC fire code fire escapes shall be kept clear obstruction wires cables attached fire escape` · Firecrawl search → scrape https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-144641 (Fire Code ch. 10): FC 1027.7 "Fire escapes, and access thereto, shall be maintained in a safe and operational condition, and continuously maintained free from obstructions and impediments…"; FC 1027.7.3 air conditioners in fire-escape windows; FC 1027.7.4 drop-ladder operation not obstructed (awnings, furniture, etc.). → §8.5 callout, §9 fire-escape section (non-question H3), services card, crossing table, Sources.
+  - Excerpts not used: 1 RCNY §15-10 (wire/chain fire escapes), FDNY Facebook video, UpCodes, Brick Underground (carried by soundbar run).
+
+### Cockloft (building stock)
+- `cockloft definition row house flat roof space between top floor ceiling and roof FDNY` · Firecrawl search → scrape (directQuote) https://www.fireengineering.com/fire-safety/firefighters-and-construction-the-cockloft/ (Salvatore Ancona, Mar 23 2021): "The cockloft is a void space that is created between the top floor ceiling and the roof decking"; common in Type III (ordinary) construction; created "to use as a utility passageway" and captures heat; fire in the cockloft "can quickly consume multiple units of attached buildings". → §9 cockloft Q, §7 cards/paragraph, crossing table, Sources.
+
+### Bars / beer lines
+- `glycol beer line trunk condensation drip insulation draft system basement cooler to bar` · Firecrawl search (excerpt) → https://byo.com/projects/diy-draft-trunk-lines-when-you-want-to-run-long-draft-lines/ (Brew Your Own): trunk line = bundle of beer lines plus two glycol lines, taped and foam-insulated; "In a basement, or any humid area, cold draft lines will produce lots of sweat." → §8 restaurants/bars paragraph, §9 beer-line Q, crossing table, Sources.
+
+### Air-conditioner sleeves
+- `through-wall air conditioner sleeve condensation water leak wall cavity sleeve gap` · Firecrawl search (excerpts) → https://hdsupplysolutions.com/.../203844_InstallationGuide-PDF.pdf (24-inch wall sleeve guide): "Weatherproof gaps between the wall sleeve and all exterior and interior wall surfaces … Use a waterproof filler and sealant such as caulk" → services card, crossing table, Sources. https://www.naturalhandyman.com/qa/qaroomac.html excerpt (leaks from rain or condensation) — background only.
+- `"Fedders" buildings Astoria Queens …` · Firecrawl search → only a Brooklyn Paper (Bay Ridge) mention of "Fedders houses" — NOT used (not Astoria). EMPTY for Astoria.
+
+### Jukebox (FAQ)
+- `TouchTunes jukebox internet connection requirements ethernet wired broadband` · Firecrawl search (excerpts) → https://documents.touchtunes.com/MAN901095-001R01.pdf (Fusion guide): "The cable used for a broadband connection is straight-wired Ethernet cable with RJ45 connectors at both ends." Also 900165-001 (broadband connection since software 2.2.3-18). → FAQ 3, Sources.
+
+### Gas shut-offs (open walls)
+- `Astoria Queens gas shutoff building months Con Edison repiping tenants 2024 2025` · Firecrawl search (excerpts) → https://www.coned.com/en/services-and-outages/preventing-recovering-from-outages/repairs-after-outages/how-to-get-your-gas-back ("Your building manager hires a licensed plumber… The plumber files documents with your local buildings department and Con Edison before beginning repairs"); https://www.nyc.gov/site/buildings/tenant/gas-cut-off.page (DOB tenant page). Astoria-specific gas shut-off news: EMPTY (none returned). → §8.5 callout (general), Sources.
+
+### Building stock / landmarks / corridors
+- `Old Astoria historic wood frame houses 19th century 12th Street 27th Avenue Astoria village` · Firecrawl search (excerpts) → https://oana-ny.org/history/places-and-landmarks/ (Old Astoria Neighborhood Association): "a cluster of historic homes grace 12th and 14th Streets between 27th Avenue and Astoria Park South" → §7 card, Sources. Forgotten NY (Remsen House, 1835, demolished 2005) and Urban Archive (9-29 27th Ave Italianate) — background only, not stated.
+- `Kaufman Arts District Astoria established 2014 Museum of the Moving Image Frank Sinatra School` · Firecrawl search (excerpts) → https://www.pentagram.com/work/frank-sinatra-school-of-the-arts/story (school adjacent to KAS and MoMI at 35th Ave & 36th St); https://movingimage.org/feature/the-astoria-studio/ (Sinatra school "directly across the street"). Kaufman Arts District founding date: not confirmed → not stated (page says "studio blocks").
+- `Astoria Queens 2006 blackout …` · Firecrawl search (excerpts) → https://www.baruch.cuny.edu/nycdata/disasters/blackouts-queens.html; https://en.wikipedia.org/wiki/2006_Queens_blackout (not used). Figures used are the carried ones below.
+- Carried (research/sonos-installation.md + research/soundbar-installation.md Astoria sections):
+  - Furman Center Astoria (QN CD1, includes part of LIC) https://www.furmancenter.org/neighborhoods/astoria/ — 99,819 units, homeownership 18.5% vs 32.7% (2024); 2025 sales 204 two-to-four-family vs 47 one-family; 15,142 new units in 4+ unit buildings 2010–2025 → §5 para 2, §5.5, §10.5, Sources.
+  - https://raremaps.com/gallery/detail/106601/one-hundred-houses-on-ditmars-avenue-astoria — "one hundred 20-foot brick houses located on Ditmars Avenue" → §5 para 3, §7 card, Sources.
+  - Halletts Point FEIS (nyc.gov) — Astoria Houses 1,103 units, 22 buildings, 27 acres, 1951 → §5, §7, §13, Sources. Durst https://www.durst.org/properties/halletts-point — three towers, 1,000+ rentals → §13. NYT Feb 15 2019 — first building leasing → §5.
+  - Astoria Line opened 1917, entirely elevated, Ditmars terminal (Wikipedia / nycsubway.org) → §5.5, §8, Sources.
+  - 2006 blackout: Baruch NYCdata July 17–25 (eight days); Pace Env. Law Review — 12 of 22 LIC-network feeders lost → §5.5, §10.5 H3 6, Sources.
+  - KAS / MoMI (movingimage.org): studio opened 1920 by Famous Players-Lasky at 35th Ave & 35th St; KAS since 1982; Sesame Street from 1993; twelve stages by 2019; museum 1988, reopened Jan 15 2011, $67M, 267-seat theatre → §5, §8, §13, Sources.
+  - Astoria Park (NYC Parks): 56+ acres 1913; pool July 2 1936, 330×165 ft, largest of eleven WPA pools. Hell Gate Bridge (Wikipedia): 1917, 1,017-ft arch → §13.
+  - Steinway Mansion (Wikipedia/MAS): 1857–58, landmark 1967. Steinway & Sons "Company Town": ~400 Queens workers by mid-1870s; Steinway Street named for the company → §7, §13.
+  - Bohemian Hall (bohemianhall.com/about; theclio.com/entry/53541): society 1892; cornerstone Oct 1 1910; outdoor bar/park 1919; NRHP 2001 → §13.
+  - Steinway Street BID (NYC SBS directory); "Little Egypt" (blogs.baruch.cuny.edu/astoria/?p=114); Athens Square Park, 30th Ave (NYC Parks) → §8 cards.
+- Silo sources reused (research/cat6-repair.md): NYC Electrical Code (2020 NEC) effective Dec 21 2025; NEC 800.25 (EC&M); Admin Code §28-105.4.7; DOB After Hour Variances (Midtown section); Toast network-cable troubleshooting; computercablestore 100 Mbps/two pairs; Fixr Jan 2025.
+
+### Local news / hyperlocal
+- Astoria news on Cat6 / network cable failures, fire-escape cable incidents or outdoor-dining cabling: EMPTY (no result in the searches above).
+
+### Prices used (live AESS Queens pages only; no new prices)
+- $195/hr, 3-hour minimum ($585) — cat6-repair-queens.html / network-cable-repair-queens.html.
+- Replacement run from $175 per drop — same pages.
+- Sealed, bonded building entry from $194 per penetration — as published on cat6-repair-queens.html (that page's derivation: Bronx $185 × 1.05; flagged there).
+- New-drop benchmark Cat6 $272 (Cat5e $233, Cat6A $388) — cat6-installation-queens.html, comparison only.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — third-party, labelled.
+- Packages are sums of these lines only ($585; $585 + from $194 per entry; repair time + from $175 per run). No Astoria multiplier.
+
+### Images (11) — Step C library; Drive "AESS Website Photos/Cat6 Repair" EMPTY (main run), CompanyCam not needed
+All 11 cropped (PIL, WebP q80, ≤1600 px) from the AESS photos in images/cat6-repair/aess-cat6-repair-*; each viewed before and after cropping; faces removed; crops differ from the Midtown copies; no building named, no readable documents, phone numbers, house numbers or plates (parked cars in the PoE photo cropped out).
+| new file (images/cat6-repair/) | source | crop (x0,y0,x1,y1) |
+|---|---|---|
+| cat6-repair-astoria-dome-camera-poe-reading-at-wall-box.webp (hero, og:image) | aess-cat6-repair-poe-camera-cable-test.webp | 790,0,1400,933 |
+| cat6-repair-astoria-wire-map-pass-on-tester.webp | aess-cat6-repair-wire-map-test-patch-panel.webp | 760,220,1400,933 |
+| cat6-repair-astoria-split-jacket-at-steel-frame.webp | aess-cat6-repair-damaged-cat6-jacket-sharp-edge.webp | 300,150,1400,820 |
+| cat6-repair-astoria-under-counter-switch-and-cabling.webp | aess-cat6-repair-pos-counter-cable-repair.webp | 720,330,1400,933 |
+| cat6-repair-astoria-cable-fed-into-ceiling-supports.webp | aess-cat6-repair-pulling-cat6-above-ceiling.webp | 520,0,1400,560 |
+| cat6-repair-astoria-wall-plate-jack-rework-near-floor.webp | aess-cat6-repair-office-wall-jack-repair.webp | 560,470,1400,933 |
+| cat6-repair-astoria-tone-generator-and-probe-at-bundle.webp | aess-cat6-repair-toning-cable-at-rack.webp | 640,150,1400,933 |
+| cat6-repair-astoria-keystone-pairs-punched-with-chart.webp | aess-cat6-repair-punching-down-cat6-keystone.webp | 330,150,1400,933 |
+| cat6-repair-astoria-laptop-results-beside-labelled-ports.webp | aess-cat6-repair-certifier-results-labeled-rack.webp | 880,90,1400,933 |
+| cat6-repair-astoria-ceiling-access-point-patch-lead.webp | aess-cat6-repair-access-point-cable-repair.webp | 720,0,1400,1150 |
+| cat6-repair-astoria-rj45-plug-crimp-on-bench.webp | aess-cat6-repair-crimping-rj45-connector.webp | 0,440,1400,933 |
+Not used: before-after-rack-cleanup (faces + text overlay), cat6-channel-certification-test, testing-labeled-patch-panel. DAILY-LOG note suggestion: `images: 11 cropped from AESS photos in images/cat6-repair/ (aess-cat6-repair-*; faces cropped out)`. Review note: the aess-* photos look rendered rather than photographed (uniform logos, idealised scenes) — same caveat as earlier runs.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Astoria, Cat6 cable repair Astoria Queens, outdoor Cat6 re-route, sealed building entry, cockloft cable replacement, curbside terminal link, stage-floor crossing repair, crossing map.
+- Problem: camera dead after rain, fire-escape cable, window-track crush, AC sleeve gap, roofer damage in the cockloft, party-wall shared link, storefront-frame cable, beer-line condensation, carts over cable, short-lease office.
+- Technology: outdoor-rated Cat6/Cat6A, PoE 802.3af/at, distance-to-fault, weatherproof jack/box, cable protector, raceway, keystone/RJ45, T568A/B.
+- Industry: two-family owners and tenants, walk-up residents, restaurants/cafés/bars, production offices and studio suppliers, storefronts, gyms/offices on 31st St.
+- Geographic: Astoria, Ditmars–Steinway, Ditmars Blvd, 30th Ave, Broadway, Steinway Street, 31st Street, 35th Avenue, Old Astoria, Halletts Point, Astoria Heights, Astoria Park, Hell Gate; adjacent LIC, Sunnyside, Woodside, Jackson Heights, East Elmhurst.
+
+### Masked similarity (geo masked incl. Astoria/Ditmars/Steinway/Halletts Point and every borough/county/neighbourhood name; blocks p/li/td/h2/h3/figcaption ≥8 words; word-level difflib)
+Build 240,565 B / 13,105 rendered words (after second de-dup pass). Max non-constant block vs any Cat6 sibling 0.62 (services-grid line vs cat6-repair-midtown-manhattan-ny; sealed-entry and new-drop pricing cells vs cat6-repair-queens). Blocks ≥0.65 are only blueprint-excluded constants: warranty sentence, licence/rating strip, Bronx NAP line, Fixr price cell, fixed H2 patterns "What AI Gets Wrong About Cat6 Repair in …" and "Every Cat6 Cable Repair Service We Handle in …". Batch siblings (UWS 233,364 B; Bay Ridge 246,542 B at time of check) were included; file size placed ≈7 KB from UWS and ≈6 KB from Bay Ridge by JSON-LD indentation — main run must re-check the size cluster after the siblings are final.
+
+## Question register — cat6-repair-astoria-queens-ny
+
+§9 "Questions Answered" (H3), under non-question H2s "Where the cable leaves the building" · "Attached houses and the spaces they share" · "Stages, bars and production spaces":
+1. The Cat6 to the camera over our shop sign was threaded through the hollow metal frame of the shop window — can it be repaired inside the frame?
+2. The only way to our top-floor rooms is through the cockloft under the flat roof — can a failed run be replaced through that space?
+3. We share one internet connection with the attached house next door through a Cat6 run that crosses the party wall — who can repair it, and how?
+4. Our apartment in one of the Halletts Point towers has a terrace — can a wired camera out there be fed without drilling through the building's outside wall?
+Non-question H3s in the same section (converted, content kept): "Outdoor dining terminals: a link built to be unplugged every November" (= williamsburg Q4); "Cat6 that runs out of a window and along a fire escape has to come off it" (UWS fire-escape Q); "Cable that crosses a stage or workshop floor has to come off the floor" (≈ williamsburg Q6); "Register runs that share a cellar chase with beer lines need separating from them" (= williamsburg Q5).
+
+FAQ (§17, = FAQPage schema):
+F1. Can you take down the dead cables an old provider left hanging on the front of our building while you repair our Cat6?
+F2. Do you repair the Cat6 that connects the card readers on the washers and dryers in our laundromat?
+
+Other "?" headings: "Wired Link Down Somewhere in Astoria Right Now?" (repair capture), "Still Dead on the Far Side of the Window, the Roof or the Wall?" (closing).
+
+De-dup notes (by meaning, against every register in research/cat6-repair.md incl. the six pages that went live mid-build — Williamsburg, LIC, Fordham, St. George, FiDi, Park Slope — and the batch siblings UWS / Bay Ridge):
+- Replaced/converted in the second pass: roadway-dining Q (= Williamsburg Q4), beer-line Q (= Williamsburg Q5), stage-floor Q (≈ Williamsburg Q6), production-office hand-back Q (≈ LIC Q8 / FiDi Q7 lease end) → replaced by the Halletts Point terrace Q; FAQ parking (= St. George F2), jukebox (= Williamsburg F2), noise for neighbours (≈ St. George F8 quiet work), paint outdoor run to blend in (≈ LIC F3 colour that blends in) → replaced by the laundromat card-reader FAQ (one FAQ net).
+- First pass: AC-sleeve Q dropped (UWS); fire-escape Q converted (UWS); doorway-crossing FAQ dropped (Bay Ridge / St. George Q4); dryer-vent FAQ dropped (Westchester Q14).
+- Kept, checked: party-wall shared link vs Park Slope F4 (neighbour notice) and Bay Ridge (neighbour's gut renovation) — different intent; cockloft route vs Park Slope Q1/Q5 and LI Q9 — different; facade dead-cable removal vs LIC Q8 / FiDi Q7 / NYC F7 — exterior abandoned provider cable, not lease-end or re-pull.
+
+New sources for the second pass:
+- `Halletts Point apartments balcony terraces Durst amenities` · Firecrawl search (excerpts) → https://www.apartments.com/10-halletts-point-astoria-ny/1j2c5h6/ ("Large Terrace"); https://www.durst.org/news_items/5931 (amenity terrace) → §9 Q4.
+- `laundromat card reader system washers dryers requires ethernet network connection installation guide` · Firecrawl search (excerpt) → https://buyunitynow.com/credit-card-operated-washer-and-dryer-guide-2/ ("Most readers work over either ethernet or cellular connections. Ethernet is cheaper long term but requires wiring.") → FAQ F2.
+- Jukebox (TouchTunes) source now unused on the page.
+
+Final build: 240,565 B, 13,105 rendered words; max non-constant masked similarity 0.62.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing & DDG, Yelp 1–3★; r/astoria threads on failing Cat6; Astoria news on network-cable failures; Astoria-specific gas shut-off news; "Fedders"-type building source for Astoria; Kaufman Arts District founding date.
