@@ -121,9 +121,9 @@ LIVE | fiber-optic-installation-jamaica-queens-ny | Fiber Optic Installation | J
 LIVE | fiber-optic-installation-port-morris-bronx-ny | Fiber Optic Installation | Port Morris, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | fiber-optic-installation-st-george-staten-island-ny | Fiber Optic Installation | St. George, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | fiber-optic-installation-midtown-manhattan-ny | Fiber Optic Installation | Midtown, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T11:35Z | fiber-optic-installation-downtown-brooklyn-ny | Fiber Optic Installation | Downtown Brooklyn, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T11:35Z | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T11:35Z | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | fiber-optic-installation-downtown-brooklyn-ny | Fiber Optic Installation | Downtown Brooklyn, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:45Z | sonos-installation-upper-east-side-manhattan-ny | Sonos Installation | Upper East Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T11:45Z | sonos-installation-park-slope-brooklyn-ny | Sonos Installation | Park Slope, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn

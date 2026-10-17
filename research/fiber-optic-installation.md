@@ -331,6 +331,96 @@ De-dup notes: two draft questions were replaced after comparing with the concurr
 - Is armoured fiber required in a Midtown riser?
 - Can the backbone go in before the landlord finishes its base-building work on our floor?
 
+### fiber-optic-installation-downtown-brooklyn-ny
+§9 Questions Answered:
+- Can one fiber cable run from the cellar to the top floor of a 40-storey tower, or does it have to be broken into sections?
+- Our tower has post-tensioned concrete floors — how does a new hole get made through a slab without hitting a tendon?
+- How does fiber reach a gym, lounge or roof deck that sits dozens of storeys above the main telecom room?
+- Our upper floors have poor mobile coverage — can the building's fiber feed an in-building cellular system?
+- Our company owns the commercial condominium unit at the base of a residential tower — whose approval do we need to run fiber up to our floors?
+- Our rental building bundles one provider's internet into every lease — can management still add its own fiber for cameras, doors and amenity Wi-Fi?
+- We run a co-working floor where members change every month — how should the fiber be laid out so a new member doesn't mean new cable?
+- Our shop is on a below-grade concourse of a mixed-use complex — how does fiber get down to a cellar-level storefront?
+- We are planning video walls and digital signage on several floors of a flagship store — does that content need fiber?
+- Our stall in a food hall needs a reliable wired line for card terminals — can fiber reach a single stall?
+- Does a new Downtown Brooklyn high-rise need fiber for the FDNY's in-building radio system, and can it share our backbone?
+Other headings (no "?"): "Same-Day Fiber Repair Across Downtown Brooklyn" (repair capture); "Have the Shaft Checked Before You Commit" (CTA); "A Downtown Brooklyn Floor Offline Right Now" (final repair).
+§17 FAQ:
+- Do you cover the blocks around Downtown Brooklyn — Brooklyn Heights, DUMBO, Fort Greene and Boerum Hill?
+- Can you work inside a building that also houses a public school while classes are in session?
+- We own one condominium apartment — can fiber be run between rooms inside it without the board's permission?
+- Can the security desk in our lobby see cameras on every podium and garage level over the new fiber?
+- Do electric-vehicle chargers in a tower's garage need a network connection, and can fiber provide it?
+- Our new suite has glass partitions and an open ceiling — can fiber reach each room without visible cable?
+- Does a very tall tower's movement in the wind put strain on a fiber riser?
+- Can a student residence give every room its own wired port over a fiber backbone?
+- Our building changed its street address — do the fiber records and provider orders need updating?
+- Can fiber feed Wi-Fi or cameras on a privately owned public plaza in front of our building?
+- Is fiber needed before a new Downtown Brooklyn building can get its certificate of occupancy?
+
+### fiber-optic-installation-flushing-queens-ny
+fiber-optic-installation-flushing-queens-ny
+§9 Questions Answered (and other question headings):
+- Flushing Office Floor Lost Its Uplink? (repair capture heading)
+- We own one office condo unit in a Main Street building — does the board of managers have to approve fiber work, or can we hire an installer ourselves?
+- Can a handful of unit owners pay for a fiber backbone that the whole condominium will end up owning?
+- When an office condo unit is sold, do the fiber strands assigned to it go with the unit or stay with the building?
+- We rent our office from the person who owns the condo unit — whose signature does a fiber installer need?
+- Does new fiber count as replacing old wiring or as an improvement when a condo board sets its budget?
+- Our board just took over from the sponsor — what fiber and cabling records should we ask for at turnover?
+- Our offices sit above a retail podium owned by a different entity — how does the fiber reach us without crossing their space?
+- A mall stall has no wall or ceiling of its own — how does a vendor get a wired connection from the mall's network room?
+- A carrier ran its cable through our condominium's hallway ceiling without asking the board — what should the board do now?
+- Can the lobby intercom, garage cameras and elevator phones all go on the condominium's fiber, or should building systems stay apart from owners' service?
+- Who Owns the Riser? Fiber in Flushing's Condominium Buildings (section heading)
+- Need a Number for the Next Board Meeting? (CTA heading)
+§17 FAQ:
+- Do you work in Murray Hill, Queensboro Hill, Auburndale and East Flushing as well as downtown?
+- Who should receive the closeout file when a building has a board, a managing agent and individual unit owners?
+- Can you plan the work from the condominium's original architectural drawings?
+- Will you present the fiber proposal at a condo board meeting?
+- Do we need the garage operator's permission before work on a parking level?
+- Why label enclosures and ports with unit numbers instead of business names?
+- Should we wait until the garage's Local Law 126 repairs are finished before installing fiber?
+- Can spare strands be held for units whose owners have not signed up yet?
+- Can the plant be extended to a later phase of the same development?
+- How long does a walkthrough of a condominium tower usually take?
+- Can the board see a sample strand map and test report before signing?
+- Can a unit owner be shown only the strands that serve their own unit?
+
+De-dup notes: checked by meaning against the full register. Deliberately avoided: per-tenant service in subdivided building (Queens), mixed-use separation (Queens), coax replacement (Queens), warranty and COI FAQs (Queens), garage-run question (Westchester), developer-timing question (Westchester), parking/deliveries (Rockland), medical imaging (Manhattan), non-adjacent floors (Manhattan), flood/cellar room (Manhattan/Brooklyn), seller-claims testing (Rockland), staged rollout (Rockland). Closest calls for a human read: "spare strands for units not yet signed up" vs Westchester "lease spare strands to another tenant"; "later phase of the same development" vs Rockland "start with one building and reach others later"; "carrier ran cable through hallway ceiling" vs Orange "stop every provider drilling a new hole".
+
+### fiber-optic-installation-fordham-bronx-ny
+fiber-optic-installation-fordham-bronx-ny
+§9 Questions Answered (and other question headings):
+- Fordham Storefront or Office Offline Mid-Shift? (repair capture heading)
+- With the new offset bus lanes on Fordham Road, where does a fiber crew stop to unload reels and ladders?
+- What hours can drilling happen in a building where people live above the shops?
+- How do you keep shoppers and vendors clear when a cellar hatch or ceiling is open on a busy block?
+- Our cellar runs out under the sidewalk into a vault — can fiber equipment live down there?
+- Can an old bank vault or safe-deposit room become a building's telecom room?
+- How does fiber reach a mezzanine or balcony built inside a double-height banking hall or showroom?
+- Can fiber run up the stairwell of an older building that has no other vertical path?
+- What does a student residence need from its fiber backbone that an ordinary apartment building doesn't?
+- Do dorm rooms still need wired ports when every floor has Wi-Fi?
+- What does a reopened theatre need wired before its first season?
+- Tell Us What the Building Used to Be (CTA heading — not a question)
+- Shop Dark on Fordham Road Right Now? (final repair heading)
+§17 FAQ:
+- Do you cover Belmont, Bedford Park, University Heights and Kingsbridge Heights as well as Fordham itself?
+- Should a Fordham Road retailer avoid scheduling fiber work during the holiday shopping season?
+- Will opening the ceiling set off our store's burglar alarm?
+- Can fiber feed the digital screens and LED signs in a storefront window?
+- Can fiber cable be hung from the sprinkler pipes in a ceiling?
+- Why does a quote for a small building list so much more cable than the distance we measured?
+- Our stockroom is in the cellar, two floors below the sales floor — copper or fiber?
+- What should a store manager do in the first ten minutes when the network goes down?
+- Is fiber harder to tap than copper for a clinic, bank or check-cashing office?
+- Who pays if an internet provider's technician damages fiber you installed?
+- Does adding fiber change our building's certificate of occupancy?
+
+De-dup notes: checked against every question on the 16 live fiber pages (385 headings/FAQ items) and the full register. Deliberately avoided: landmark/historic-district entry (Manhattan) — landmark interiors handled in prose only; mixed-use stores-below-apartments separation (Queens); move-in lead time (Queens/Westchester); sidewalk closure (Orange); night/weekend availability (NYC hub) — the noise question is about the legal hours, not availability; old shafts for fiber (Dutchess) — stairwell question is about exit-stair code limits; medical imaging (Manhattan); hoistway (Bronx). Closest calls for a human read: dorm "wired ports vs Wi-Fi" vs NYC "Do we need fiber to every desk?"; "cellar stockroom copper or fiber" vs Brooklyn "How far can a camera sit from the rack before fiber is needed?"; "provider technician damages fiber" vs Brooklyn "fix a fiber cable a renovation crew cut".
+
 ## NYC (hub) — local research
 - Area scope: five boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island). Local facts used on the page: Verizon fiber footprint figures (end-2013), NYC Council broadband-subscription gaps (24.5% no broadband subscription; Mott Haven CD01 44%), Big Apple Connect (220 developments / ~330,000 residents, through June 2028), ConnectNYC 2013 (unwired commercial buildings), 60 Hudson Street carrier hotel (Western Union Building, Tribeca), 32 Avenue of the Americas, 111 Eighth Avenue, Industry City (16 buildings, DataVerge meet-me room), HPD broadband guidance (basement entry point requirement).
 - Local Reddit: see source 1 (r/verizon, r/AskNYC excerpts).
@@ -3127,3 +3217,189 @@ Service: fiber optic installation Stapleton, fiber riser, storefront fiber fit-o
 - Our alarm still dials out over an old phone line — will it keep working once the building moves to fiber?
 
 De-dup notes: checked by meaning against all 16 fiber pages' questions (401 headings/FAQ). Dropped before drafting: historic-district/Landmarks entry (≈ Manhattan "landmarked or historic-district building"), cellar main-room-in-flood (≈ Manhattan), flood-damaged fiber (≈ Brooklyn underwater), reach second floor without passing through shop (≈ Orange), party wall (≈ Orange/Nassau), per-tenant provider holes (≈ Orange/Queens), mixed-use backbone keeping store and apartments apart (≈ Queens), elevated-train (≈ Queens), rack location (≈ Bronx/Orange), warranty (≈ SI/Queens), COI (≈ Queens), nights/weekends (≈ NYC hub). Closest remaining intents for the main run to judge: "vanilla box sleeve" vs Long Island "vacant office building near Route 110 — what fiber before move-in" (unit-level tenant fit-out vs whole-building move-in); "redevelopment — recover fiber" vs Orange "worth adding to a building we might sell" (salvage vs resale value); "test results before final payment" vs NYC hub "how do you prove a new link is good" (payment timing vs test method). Masked paragraph similarity (word-level difflib, ≥12-word body paragraphs, exempt warranty/licence/consent/NAP/stamp and shared nav) below 0.63 after rewrites (was 0.807 vs SI borough "who does what" paragraph; process step 4 rewritten from 0.632).
+
+## Downtown Brooklyn, Brooklyn — local research (2026-10-17 batch, fiber-optic-installation-downtown-brooklyn-ny)
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources and the Brooklyn section are reused where noted. Thesis: Downtown Brooklyn is the borough's vertical exception — fiber climbs towers and crosses ownership lines (retail podium / commercial unit / condo or rental floors / schools) inside one building, so the job is governed by who controls each riser and closet, not distance.
+
+### Reddit (local) — excerpts only (reddit.com not scrapable)
+- Query: `reddit Downtown Brooklyn apartment building internet options Fios not available new tower` · Firecrawl search → https://www.reddit.com/r/Brooklyn/comments/13w39r3/moving_apartments_and_choosing_new_internet/ (excerpt: "Verizon not … hooked up in the building to continue with FiOS") → §5. Same query → https://www.verizon.com/home/internet/near-me/new-york-ny/ (FAQ: in buildings "not yet wired for Fios: Verizon coordinates with the property manager/owner to wire and install the service") → §5, §10.5 H3 5.
+- Query: `reddit Downtown Brooklyn building only one internet provider exclusive Spectrum luxury rental bulk` · Firecrawl search → https://www.reddit.com/r/nyc/comments/qxk36v/ (excerpt: "A lot of buildings and neighborhoods in NYC only have one option for internet") → §5; https://www.reddit.com/r/AskNYC/comments/go1pjg/ (excerpt: "There are buildings with exclusive contracts … Legal AFAIK, tons of buildings in NYC do that." — commenter opinion, corrected with silo HPD/FCC source) → §10.5 H3 3; https://www.reddit.com/r/Apartmentliving/comments/1f6og70/ (bulk-billing excerpt) → §9 bulk-internet Q context only.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitute §10.5 claims (quoted as published): lowvoltagenewyork.com ("$7–$12" per foot finished walls/packed risers — silo source); https://www.broadbandsearch.net/service/new-york/brooklyn (Sep 2026 excerpt: fiber "concentrated in DUMBO, Williamsburg and Downtown Brooklyn"); r/AskNYC exclusive-contract comment; quantumfiber multifamily stages (silo source); verizon.com FAQ (above); atlantech 15-month wait (silo source); https://cooperatornews.com/article/get-a-little-fiber-in-your-diet (Firecrawl query scrape: Victor Cruz of Time Warner Cable: "We'll install and upgrade a building at no cost as long as it's a normal installation" — older article, presented as such). Yelp: EMPTY (not searched separately; silo Yelp search returned nothing usable).
+
+### Landmarks, buildings, corridors
+- `Brooklyn Tower 9 DeKalb Avenue height stories Dime Savings Bank tallest Brooklyn` · Firecrawl → https://www.shoparc.com/projects/9-dekalb/ (1,066 ft, tallest in borough); https://en.wikipedia.org/wiki/Brooklyn_Tower (first supertall in Brooklyn) → §5.5, §7, §13.
+- `MetroTech Center Downtown Brooklyn office campus acres buildings history` · Firecrawl → https://www.6sqft.com/with-50m-redevelopment-metrotech-center-will-become-brooklyn-commons/ (scrape, Feb 8 2022: rebrand to Brooklyn Commons, $50M, 1/2/15 MetroTech renovations, 3.6-acre park, 16-acre 12-building property built in 1980s as office park for data-processing centres and financial back offices, near 13 subway lines, tenants NYU Tandon, Slate Media, JPMorgan Chase). Same page's related items: Brooklyn Tower 93 storeys, condos from 53rd floor (Mar 2022), relaunch as 85 Fleet Street (Jun 2025), Silverstein takeover $672M (Jul 2024), pools around Dime Savings Bank dome; 100 Flatbush 44 storeys, NYC's first all-electric skyscraper, Alloy Block 850 apts/200,000 sf office/two public schools (Jan 2023); The Brook 589 Fulton 600 ft/591 apts; One Boerum Place 22 storeys/138 rentals; BKX at 422 Fulton, 440,000 sf, five floors, "largest block of retail space available in NYC" (Jul 2026); Macy's 422 Fulton sold for $23M (Jan 2025). https://therealdeal.com/new-york/2022/09/14/nyu-buys-3-metrotech-center-office-building-for-122m/ (excerpt: NYU bought 3 MetroTech $122M). → §5.5, §7, §8, §13, Vertical Work, Block by Block, Conversions, Retail Podiums, Institutions.
+- `Downtown Brooklyn office to residential conversion 2025 2026 Court Street Montague building` + `Brooklyn office tower completed 2023 never leased $208 million loan…` · Firecrawl → https://www.multihousingnews.com/capstone-bh3-obtain-208m-for-rare-office-to-residential-project-in-brooklyn/ (141 Willoughby: 24 storeys, 355,000 sf, 239 apts floors 8–23, floors 1–7 commercial); https://finance.yahoo.com/real-estate/articles/northwind-group-provides-208-million-140000640.html (delivered 2023, never occupied, Class A spec, commercial rebranded 385 Gold) → §5, §5.5, §7, §8, §13, Conversions, SVG 6.
+- `Borough Hall Skyscraper Historic District designated…` · Firecrawl → https://www.citylandnyc.org/borough-hall-skyscraper-historic-district-approved/ (scrape: LPC approved Sept 13 2011; 21 buildings on Court/Montague/Remsen/Joralemon/Livingston; Borough Hall, Temple Bar Building, 32 Court St "Brooklyn's first true skyscraper"; became Brooklyn's commercial core); https://www.nyc.gov/assets/lpc/newsletters/may-2017.html (181 Montague and 185 Montague designated) → §5, §5.5, §7, §8.5, §13, Block by Block.
+- `Brooklyn Paper Downtown Brooklyn 2026 construction tower Livingston Street…` · Firecrawl → https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Brooklyn (75 Livingston 1926, 32 floors, office converted to co-op 1981; 111 Livingston 1969, 22 floors mixed office/residential); https://www.brooklynpaper.com/proposed-downtown-brooklyn-tower-blocks-views-landmark-row/ (Duffield St tower 323 ft, healthcare facility in cellar/1st/2nd floors); https://brooklyneagle.com/58635/downtown-brooklyn-construction-checklist/ (333 Schermerhorn 610 ft) → §7, §8, Block by Block, Conversions, Institutions.
+- `City Point Brooklyn Albee Square Dekalb Market Hall…` · Firecrawl → https://en.wikipedia.org/wiki/City_Point_(Brooklyn) (summary: three towers 2015–2020, largest mixed-use project in city by sq ft, City Point III 720 ft second tallest in Brooklyn, Target, Trader Joe's); https://www.citypointbrooklyn.com/ (445 Albee Square West; DeKalb Market Hall, Alamo Drafthouse) → §7, §8, §13.
+- `NYU Tandon City Tech Brooklyn Tech Triangle…` · Firecrawl → https://brooklyntechtriangle.com/57000-students-8-colleges-and-universities-1-tech-triangle/ (57,000 students, 8 colleges); https://en.wikipedia.org/wiki/New_York_City_College_of_Technology (seven buildings in Tech Triangle, 14,000+ students) → §5.5, Block by Block, Institutions.
+- Silo Brooklyn source reused: Downtown Brooklyn Partnership storymap (32M+ sf, 144 projects since 2004; 1 Willoughby Square first new office tower) → §5, Block by Block.
+
+### Local news / hyperlocal / data
+- `Fulton Mall Downtown Brooklyn history pedestrian shopping street…` · Firecrawl → https://therealdeal.com/new-york/2026/10/06/fulton-mall-proposed-for-downtown-brooklyn-mega-bid/ (excerpt, Oct 6 2026: DBP proposes mega-BID merging Fulton with MetroTech, Court-Livingston-Schermerhorn; 25,000+ housing units since 2004 rezoning; retail vacancy ~22% vs 11% citywide; 212 chain stores; upper floors of many Fulton Mall storefronts underutilized; Restler quote "one of the most successful commercial corridors"); https://prattcenter.net/our_work/fulton_street_mall_new_strategies_for_preservation_and_planning (late-19th/early-20th-c department-store buildings, upstairs vacant) → §5, §5.5, §8, Block by Block, Retail Podiums.
+- `Downtown Brooklyn Partnership office vacancy 2025 2026 report` · Firecrawl → DBP Q1/Q2 2026 market report pages scraped: Issuu embed only, no figures retrievable = EMPTY (not accessible in build env). Colliers Q1 2026 Brooklyn excerpt not used.
+- `Downtown Brooklyn Partnership free public WiFi…` · Firecrawl → technical.ly Fulton Mall Wi-Fi, Brooklyn Eagle LinkNYC items — found, not used.
+- `Brooklyn Fiber OR "Downtown Brooklyn" fiber internet provider…` · Firecrawl → https://bkfiber.com/buildings/310-livingston-st (The Guild listed as served) — recorded, not used on page.
+
+### Local licensing / permits / codes
+- `FDNY auxiliary radio communication system ARCS required high-rise…` · Firecrawl → https://nyc-business.nyc.gov/nycbusiness/description/auxiliary-radio-communication-system-application (BC §403.4.4, §907.2.13.2: ARCS required in all newly built high-rises and existing buildings with major changes) → §8.5, §9 ARCS Q, glossary, SVG 1.
+- `post-tensioned concrete slab coring scanning tendons GPR…` · Firecrawl → https://www.penhall.com/post-tension-vs-rebar/ (GPR "the only reliable method" to confirm PT cable location; typical 24–48 in spacing); https://www.reddit.com/r/StructuralEngineering/comments/13xzm1i/ (excerpt: scan and get engineer approval) → §8.5, §9 PT Q.
+- Silo sources reused: HPD broadband guidance/FCC exclusivity ban; LPC exterior-only rule; site statement sub-50 V no DOB permit.
+
+### Pricing used (Brooklyn 1.00× — copied verbatim from fiber-optic-installation-brooklyn.html; no new prices)
+$35/termination; $40/strand OTDR; $350 MM drop; $400 SM drop; $4,500–$7,000 12-strand OM4; $8,000–$15,000+ 24-strand OS2; from $2,400 second telecom room; $195/hr 3-hr min ($585). Starter package $700 = 2 × $350 MM drops (arithmetic only).
+
+### Images (11) — permanent image rule; Drive folder empty (main run 11:40Z), CompanyCam not connected
+Reused from images/low-voltage/ (10) and images/network/ (1), converted to WebP, chosen for back-of-head/hands-only views with no readable phone numbers: lv nyc-02-ceiling-grid-bundle-pull → tower-floor-ceiling-bundle-pull (eager); lv nyc-01-crew-ceiling-cable-pull → office-fitout-crew-overview; lv nyc-06-idf-rack-patching → floor-closet-rack-patching; lv nyc-05-cat6-patch-panel-punchdown → panel-punchdown-closeup; lv nyc-04-keystone-wall-plate-termination → suite-wall-outlet-termination; lv nyc-10-ceiling-access-point-drop → ceiling-access-point-mount; lv nyc-15-conference-room-display-cabling → conference-display-cabling; lv manhattan-11-video-wall-installation → video-wall-mounting; network nyc-network-rack-cleanup-before-after → closet-rebuild-before-after (same photo as Brooklyn page's telecom-closet-cleanup); lv nyc-07-fluke-certification-pass → link-certification-tester (partial side profile); lv nyc-08-storefront-camera-cabling → storefront-canopy-camera. DAILY-LOG note: images: 11 reused from images/low-voltage/ and images/network/ (no real fiber-optic-installation photos yet).
+
+### Keyword plan (Downtown Brooklyn page)
+Service: fiber optic installation Downtown Brooklyn, tower riser fiber, fiber backbone, commercial-unit fiber, OTDR testing, fusion splicing. Problem: riser access, condo board approval, post-tensioned slab coring, amenity-floor coverage, below-grade retail, bulk-internet buildings, conversions. Technology: OS2, OM4, OFNR/OFNP, innerduct, floor enclosures, OTDR. Industry: residential/condo towers, office campus, law/professional offices, retail podiums/food halls, colleges, clinics, schools in mixed-use. Geographic: Downtown Brooklyn, Fulton Mall, Court/Montague/Remsen, MetroTech/Jay St, Albee Square/Flatbush Ave Ext, Livingston/Schermerhorn/Boerum Pl, Willoughby/Gold/Duffield, Brooklyn Heights, DUMBO, Fort Greene, Boerum Hill.
+
+## Flushing, Queens — local research (2026-10-17 batch, fiber-optic-installation-flushing-queens-ny)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources above are reused where noted; only Flushing research is added here.
+Page thesis: downtown Flushing is owned in slices — office/medical condominiums, podium-and-tower complexes with retail, hotel and parking sections, indoor malls with basement food halls — so fiber is a condominium common-element decision made by a board of managers, the carrier often lands on a parking level (now in the Local Law 126 inspection window for Queens), and the route has to bypass separately owned retail. Fix: a condo-owned backbone, passive entry room below / active room above, strands labelled by unit number.
+
+### Reddit (local)
+- `site:reddit.com/r/Flushing internet Fios building` · Firecrawl search (excerpts only; reddit threads not opened).
+  - https://www.reddit.com/r/Flushing/comments/1kn99t8/verizon_fios_available_on_my_street_in_north/ — excerpt: "Some coop building has contracts with optium. Some small commercial buildings are landlocked by other buildings, so Verizon doesn't care." → §5 para 3; §10.5 H3 1.
+  - https://www.reddit.com/r/Flushing/comments/1spiap6/experience_with_internet_services_around_flushing/ — excerpt: "Move to a different building." (also in Queens section) → §5 para 3.
+  - https://www.reddit.com/r/Flushing/comments/1gamoe7/ (new ISP excerpt, vague) — not used.
+- `reddit Flushing Queens building internet only one provider landlord wiring` · Firecrawl search → only non-Flushing threads (r/Apartmentliving, r/nyc, r/Landlord). Not used.
+
+### Forums (co-op / condo boards)
+- `reddit r/flushing internet fiber building condo Fios Spectrum` · WebSearch → https://www.habitatmag.com/Board-Talk/Building-wide-internet (WebFetch; posted Dec 15 2018, comments Jan–Mar 2019): "Normally each subscriber has to find a place to put those big boxes that convert the fiber to copper."; "Spectrum will do bulk packages @ 50$ish per participating shareholder." → §10.5 H3 2 and 3.
+  - Same query → community.verizon.com "impossible to get fios at new construction condominium" — redirects to Verizon support (community sunset). EMPTY (not accessible in build env).
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+§10.5 substitutes (quoted as published): Reddit and Habitat above; silo sources thenetworkinstallers.com (FBA 2025 underground median $18.00/ft, aerial $8.00/ft; fusion splice $30–$75, mechanical $15–$40 citing Ring and Ping) → H3 4, 5; HPD Broadband in Affordable Housing (broadband required in new construction; basement entry point; FCC bans exclusive / sale-leaseback) → H3 3, 6 and §9 turnover answer; Atlantech (customer waited 15 months, no fiber) → H3 7. Angi/HomeAdvisor/Fixr: none returned (silo finding).
+- `Flushing Queens 2025 news broadband internet fiber small businesses Main Street` · WebSearch → no usable local news item (ISP-comparison and unrelated pages). EMPTY.
+
+### Building stock, developments, corridors
+- `Special Flushing Waterfront District rezoning approved 2021 towers Flushing Creek units` · WebSearch → https://www.6sqft.com/nyc-rezoning-flushing-waterfront-district/ (WebFetch, Dec 10 2020): Council approval; 13 towers; 29 acres; 1,725 units (up to 90 affordable); 879 hotel keys; ~400,000 sq ft office; ~287,000 sq ft retail; FWRA LLC = F&T Group, United Construction and Development Group, Young Nian Group; bounded by Van Wyck Expwy, College Point Blvd, Roosevelt Ave; new walkway and plaza. → §5 para 4, facts table, waterfront section, schema citation.
+- `Tangram Flushing mixed-use towers condo hotel mall opened` · WebSearch → https://www.gmsllp.com/portfolio/tangram-two-fulton-square/ (WebFetch): Prince St & 39th Ave; 1,403,500 sq ft; four towers of 15–16 storeys; two-level retail podium; three below-grade parking levels; hotel/office/residential; F&T Group. → §7 card, garage section.
+- `One Fulton Square Flushing Hyatt Place hotel retail building 39th Avenue Prince Street opened` · WebSearch → https://newyorkyimby.com/2014/08/construction-update-one-fulton-square.html (WebFetch): Roosevelt Ave & Prince St; twin 12-storey towers; 168-key Hyatt Place (opened end of May 2014); three-level glass retail podium; 43 residential condos; separate office condominium of 22 professional and medical offices; 300 parking spaces; F&T Group. → §5 para 1, facts table, §7 card, garage section, medical section.
+- `Flushing Commons Main Street 39th Avenue former municipal parking lot development completed units` · WebSearch → https://newyorkyimby.com/2026/09/two-tower-second-phase-of-flushing-commons-breaks-ground-in-flushing-queens.html (WebFetch, Sept 17 2026): phase two groundbreaking Sept 16 2026 at 37-10 138th St; 156 condos; ~132,000 sq ft retail; 123,000 sq ft office; 63,000 sq ft YMCA; completion June 2029; phase one 2017 = 148 condos, 90 office condominiums, ~30,000 sq ft retail, 982 parking spaces; phase three pre-development 2027; F&T Group, NYCEDC, YMCA. → §5 paras 1 & 4, facts table, street section, garage section, FAQ phases.
+- `Sky View Parc Flushing condominium towers Skyview Center mall parking units` · WebSearch → https://www.multihousingnews.com/30-percent-of-sky-view-parc-sold/ (WebFetch, Mar 25 2008): six towers, 448 condos phase 1, 800,000 sq ft retail, 14-acre site at College Point Blvd & Roosevelt Ave, Muss Development. → §7 card ("announced with 800,000 sq ft").
+- `Flushing commercial condominium office units medical condo building downtown Flushing` · WebSearch → https://loopnet.ca/Listing/36-09-Main-St-Flushing-NY/35395439 (WebFetch): Main Street Tower, 36-09 Main St, 10 floors, built 1988, Class B, 33,247 sq ft, typical floor 3,324 sq ft, atrium, elevator; unit 8A 628 sq ft office/medical condo for "investment or owner-user". → §5 para 1, §7 card, medical section.
+  - https://www.crexi.com/lease/properties/1209972/new-york-queens-crossing (WebFetch) — no content returned. EMPTY.
+- `New World Mall Flushing food court basement stalls Main Street` · WebSearch → https://theinfatuation.com/new-york/reviews/new-world-mall-food-court (WebFetch): 136-20 Roosevelt Ave; basement food court ~30 stalls; "largest Asian indoor mall in New York City". → §7 card, landmarks card.
+- `Downtown Flushing Transit Hub Business Improvement District established blocks Main Street Roosevelt` · WebSearch → flushingpost.com redirect → https://qns.com/2020/04/city-council-approves-expansion-of-the-flushing-business-improvement-district/ (WebFetch, Apr 23 2020): Council vote Apr 22 2020; budget ~$380,000 → ~$1M; old and new boundaries (Main St, 40th Rd, Roosevelt Ave, Kissena Blvd, 39th Ave; added 37th Ave, Union St, 138th St, Prince St, 38th Ave, 41st Rd, 41st Ave). → facts table, §8 corridor cards, street-by-street section.
+- `Flushing–Main Street station 7 train ridership busiest outside Manhattan` · WebSearch → https://en.wikipedia.org/wiki/Flushing%E2%80%93Main_Street_station_(IRT_Flushing_Line) (WebFetch): opened Jan 21 1928; 14,592,853 riders 2024; 10th of 423; underground; 20+ bus routes; connection to LIRR Port Washington Branch. → facts table, landmarks card. (untappedcities.com 2017 "busiest outside Manhattan (2015)" fetched but not used — dated.)
+- `Flushing Creek flood zone downtown Flushing Ida flooding College Point Boulevard 2021` · WebSearch → https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flushing-west/032515_presentation.pdf (WebFetch, DCP, Mar 25 2015): 30+ acre brownfield opportunity area along Flushing Creek; flood zones & wetlands map; airport height limitations; possible soil contamination on nearly all lots; M1-1/M3-1 zoning. → §7 waterfront card, waterfront section.
+- Ida: silo/Queens source reused — https://qns.com/2021/09/queens-storm-death-toll-rises-to-11-after-three-bodies-found-in-flooded-flushing-basement-nypd/ (10 of 11 Queens deaths in basement apartments, incl. East Flushing near Kissena Park). → street section (Kissena), waterfront section.
+
+### Landmarks
+- `Flushing Town Hall 1862 Northern Boulevard landmark history` · WebSearch → https://en.wikipedia.org/wiki/Flushing_Town_Hall (WebFetch): 137-35 Northern Blvd; 1862; Rundbogenstil; NYC Landmark July 30 1968; performing arts centre run by Flushing Council on Culture and the Arts. → §8.5 callout, landmarks card.
+- `Bowne House Flushing 1661 Quaker Meeting House 1694 Northern Boulevard landmark` · WebSearch → https://en.wikipedia.org/wiki/Old_Quaker_Meeting_House_(Queens) (WebFetch): 137-16 Northern Blvd; built 1694, enlarged 1716–1719; NHL Dec 24 1967; NYC Landmark Aug 18 1970. → §8.5, landmarks card. (Bowne House date not obtained — not used.)
+- `Queens Botanical Garden Main Street Flushing acres history 1939 World's Fair` · WebSearch → https://planning.org/greatplaces/spaces/2009/queensbotanicalgarden.htm (WebFetch): 39 acres; 43-50 Main St; "Gardens on Parade" at 1939 World's Fair; Visitor & Administration Building opened 2007, first LEED Platinum facility in NYC. → landmarks card.
+- `NewYork-Presbyterian Queens hospital Flushing Main Street beds campus` · WebSearch → https://en.wikipedia.org/wiki/NewYork-Presbyterian_Queens (WebFetch): 56-45 Main St; 535 beds; formerly New York Hospital Queens; renamed July 1 2015. → landmarks card, medical section.
+
+### Local licensing / permits / building rules
+- `New York Real Property Law 339-e common elements definition condominium board of managers` · WebSearch → https://www.nysenate.gov/legislation/laws/RPP/339-E (WebFetch): common elements (unless declaration provides otherwise) include basements, cellars, yards, parking areas, halls, corridors, "central and appurtenant installations for services such as power, light…", "all apparatus and installations existing for common use"; "wiring" appears in the capital-replacement definition (subd. 1-a(e)). → §5 para 2, §8.5 callout, condo section + table, §9 answers (budget, funding). Stated on page as general description, not legal advice.
+- `NYC Local Law 126 of 2021 parking structure periodic inspection requirement Queens deadline` · WebSearch → https://www.thorntontomasetti.com/local-law-126-nyc-parking-structure-inspections (WebFetch): LL126 (2021), DOB Article 323; six-year cycle; QPSI engineer; Queens all CDs Sub-Cycle 1C, Jan 1 2026–Dec 31 2027; SAFE / SREM / UNSAFE (repair within one year). → facts table, §8.5 callout, garage section, FAQ.
+- Silo sources reused: sub-50 V no DOB permit + firestopping; OFNR/OFNP listings (cablinginstall); HPD/FCC fair access.
+- Local news (Queens Chronicle / QNS / Flushing Post) on fiber-installation contractors in Flushing 2026: EMPTY.
+
+### Pricing used (existing AESS Queens prices, copied verbatim from fiber-optic-installation-queens — no new prices)
+$37 termination; $42 OTDR/strand; $391 MM drop; $447 SM drop; $4,725–$7,350 12-strand OM4; $8,400–$15,750+ 24-strand OS2; from $2,520 second room; $195/hr 3-hr min ($585); packages $1,392 / $4,725–$7,350 / $8,400–$15,750+. (Inherits the Queens drop-price conflict already logged.)
+
+### Images (11) — permanent image rule; Drive folder empty (main run 11:40Z), CompanyCam not connected
+images: 11 reused from images/low-voltage/ (10) and images/network/ (1) (no real Fiber Optic Installation photos yet). Each cropped (no generation) to exclude faces and the phone numbers printed on shirts, and the lobby crop excludes a "123 Main Street" directory sign. Sources chosen by perceptual hash as least-used on fiber pages (6 scenes never used before).
+| File (images/fiber-optic-installation/) | Source | Shows |
+|---|---|---|
+| fiber-optic-installation-flushing-fusion-splicer-patch-rack.webp (hero) | low-voltage/low-voltage-installation-brooklyn-fiber-splice-tray.jpg | fusion splicer, IPA bottle, strippers, yellow fiber, patch rack |
+| fiber-optic-installation-flushing-stud-wall-patch-panel-cables.webp | low-voltage/low-voltage-installation-bronx-idf-patch-panel-build.jpg | patch panel between metal studs |
+| fiber-optic-installation-flushing-cable-box-staging-open-floor.webp | network/network-installation-bronx-cat6-cable-box-staging-fitout.webp | cable boxes staged on concrete floor |
+| fiber-optic-installation-flushing-lobby-video-intercom-panel.webp | low-voltage/low-voltage-installation-long-island-lobby-video-intercom.jpg | video intercom panel on stone wall |
+| fiber-optic-installation-flushing-storefront-entrance-camera-mount.webp | low-voltage/low-voltage-installation-nassau-county-storefront-camera-install.jpg | bullet camera on soffit over glass entrance |
+| fiber-optic-installation-flushing-door-strike-keypad-exit-button.webp | low-voltage/low-voltage-installation-long-island-electric-strike-keypad.jpg | electric strike, keypad, push-to-exit |
+| fiber-optic-installation-flushing-tone-tracer-wall-jack-rack.webp | low-voltage/low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg | tone probe at wall jack, rack |
+| fiber-optic-installation-flushing-recessed-display-box-patch-cable.webp | low-voltage/low-voltage-installation-bronx-display-recessed-box.jpg | recessed box behind display, testers |
+| fiber-optic-installation-flushing-ceiling-access-point-scissor-lift.webp | low-voltage/low-voltage-installation-bronx-access-point-lift-install.jpg | access point into ceiling from scissor lift |
+| fiber-optic-installation-flushing-corridor-ceiling-cable-bundle.webp | low-voltage/low-voltage-installation-hudson-valley-10-school-corridor-cable-pull.jpg | cable bundle in corridor ceiling over lockers |
+| fiber-optic-installation-flushing-conference-display-wall-mount.webp | low-voltage/low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | display being mounted in meeting room |
+Review note: library photos look AI-generated (same caveat as Queens/Long Island); only the hero shows fiber specifically.
+
+### Keyword plan (Flushing page)
+Service: fiber optic installation Flushing, condominium fiber backbone, building fiber riser, fusion splicing, OTDR testing, strand map. Problem: carrier drops through common ceilings, landlocked buildings, carrier entry on parking level, retail podium in the way, sponsor turnover records, LL126 garage repairs, flood-prone cellars. Technology: OS2, OM4, OFNR/OFNP, armoured cable, innerduct, LC/SC/MPO, zone cabinets, media converters. Industry: condo boards/managing agents, office and medical condo owners, malls/food halls, hotels in podiums, developers. Geographic: Flushing, downtown Flushing, Main Street, Roosevelt Ave, 39th Ave, Prince St, 40th Rd, 37th Ave, Union St, 138th St, College Point Blvd, Kissena Blvd, Sanford Ave, Northern Blvd, Murray Hill, Broadway–Flushing, East Flushing, Queensboro Hill, Auburndale, Flushing Creek, Willets Point.
+
+## Fordham, Bronx — local research (2026-10-17 batch, fiber-optic-installation-fordham-bronx-ny)
+
+Neighbourhood page; up = /fiber-optic-installation-bronx; phone (646) 490-0629 (800 only in shared header); GBP Bronx (#bronx, 460 E Fordham Rd — the GBP office is inside this neighbourhood). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide sources already in research/fiber-optic-installation.md are reused only where noted.
+
+Page thesis: Fordham is the Bronx's busiest shopping-and-transit crossroads, where old buildings keep changing jobs (a 1930s bank becomes a supermarket and a dormitory, a 1929 movie palace becomes a 4,000-seat arts centre, storefronts turn over, office floors fill with clinics, schools and agencies). Fiber here is re-planned every time a building's use changes, and the work is scheduled around a curb that never empties (new offset bus lanes, delivery windows, vendors, crowds). Different from the Bronx parent (site-wide backbones for big complexes/cold chain).
+
+### Reddit (local)
+- Query: `reddit Fordham Bronx apartment internet fiber Fios building` · FC search → https://www.reddit.com/r/Fios/comments/1oz9xcz/1_gb_fios_installion_in_a_5thfloor_apt_bronx_nyc/ (excerpt: "The technician did, in fact, bring the ONT box"; Bronx, exact neighbourhood not stated) — not used. https://www.reddit.com/r/verizon/comments/1u083m9/how_do_i_get_fiber_in_my_building_nyc/ (excerpt: "Fios service is available in your neighborhood just not in your building right now. Equipping your building with Fios may take up to 6-12 months") → §10.5 H3 2. https://www.reddit.com/r/rva/comments/70xglo/if_you_have_fios_and_live_in_an_apartment/ (excerpt, Richmond VA thread: "Verizon provides fiber to the building, but it is the landlord's responsibility to provide connectivity from the point where Verizon terminates") → §10.5 H3 6 (attributed as an out-of-area forum claim).
+- Query: `reddit r/bronx Fordham Road living internet slow building old apartment` · FC search → https://www.reddit.com/r/howislivingthere/comments/1wa3g7e/how_is_life_in_the_bronx/ (excerpt: "Fordham road is probably one of the most chaotic shopping area in the country.") → "Working the Curb" section para 1. Other r/bronx results (lease/safety threads) not about wiring — not used.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substitutes for the §10.5 reality check (claims quoted as the pages state them):
+- Query `reddit Fordham Bronx apartment internet fiber Fios building` · FC search → https://www.verizon.com/home/internet/near-me/new-york-ny/ (excerpt: "Bronx Fios is widely available across the Bronx") → §10.5 H3 1. https://www.cnet.com/home/internet/best-internet-providers-in-the-bronx-ny/ (excerpt: "Verizon Fios is the best internet service provider in the Bronx, with speeds up to 2000Mbps and prices starting at $50 per month") → §10.5 H3 3.
+- Query `reddit r/bronx Fordham Road living internet slow building old apartment` · FC search → https://newyorkcomputerhelp.com/how-to-fix-slow-wifi-in-your-nyc-apartment-2026-edition/ (excerpt: "Most slow WiFi problems in NYC apartments stem from three culprits: terrible router placement, building interference, and outdated equipment.") → §10.5 H3 4.
+- Query `does a small business need fiber optic cabling or is Cat6 enough office 100 meters` · FC search → https://igtech365.com/cat6-vs-cat6a-fiber/ (excerpt: "Cat6 is sufficient for standard office use, fiber is the best choice for connecting multiple sites.") → §10.5 H3 5; https://www.clawcomm.com/... (Cat6 1 Gbps at 100 m, 10 Gbps to ~55 m; Cat6A 10 Gbps at 100 m) → §10 table. https://www.wirednm.com/wired-blog/cat6-vs-cat6a-vs-fiber ("You need fiber when runs stretch past 100 meters or when you connect multiple floors or buildings") → §10.5 H3 5.
+- Silo source reused: T-Mobile "can take up to 4 hours" (research/fiber-optic-installation.md §2) → §10.5 H3 7.
+- Yelp 1–3★: Query `yelp low voltage cabling contractor Bronx Fordham reviews` · FC search → only Yelp search pages for electricians in Throgs Neck, Norwood, Edenwald, Westchester Square; no fiber/cabling reviews. EMPTY.
+
+### Commercial district, demographics, transit (primary source)
+- Query `Fordham Road Business Improvement District businesses shoppers retail corridor Bronx` · FC search → https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ (excerpt: "almost 300 specialty stores ranging from nationwide chains to locally owned independent shops"); https://fordhamroadbid.org/ (excerpt: BID formed 2005) → §5 para 1, §8 intro.
+- Same query → https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-fordham.pdf (FC scrape, SBS Commercial District Needs Assessment, Sept 2021–June 2022, with Fordham Road BID): 756 surveys; 657 storefronts analysed along Fordham Rd (Andrews Ave–Southern Blvd), Jerome Ave and Grand Concourse (E 184th–Kingsbridge Rd), Webster Ave (E 188th–E 194th), E 188th St, Third Ave; 80 vacant storefronts; 40 doctors/dentists/medical, 46 cell-phone/electronics, 20 schools/educational, 26 government/social services/nonprofits/houses of worship, 12 banks; 21% storefronts in poor condition; 43% of merchants have 0–2 full-time employees; 188 street vendors, "largest street vending scene in the Bronx"; 118,076 residents; 86,189 per sq mi; car ownership 23.7%; "fourth busiest Metro-North station"; 4, B, D lines; Fordham Plaza reconstructed 2016 for nearly $34 million; Bronx Night Market on the plaza since 2018 (April–October); Bryan Park opened 1933, renovated 2015, hosts "Sparkling the Heart of Fordham" each December; NYC DOT Oct 2021 pedestrian count E Fordham Rd Valentine–Tiebout 7,296 weekday afternoon; NYS DOT 2019 AADT E Fordham Rd Webster Ave–Bronx River Pkwy 32,103; Bx12-SBS average monthly ridership 875,152 (2021); 46% of jobs located in Fordham are in education, health care and social assistance; St. John's College (Fordham University) opened 1841; "iconic office buildings" housing agencies, healthcare, nonprofits. → hero, §5 paras + §5.5 list, §8 cards, Curb section, Clinics section, §13, regional notes.
+
+### Street redesign (local news + DOT)
+- Query `Fordham Road bus lanes DOT redesign 2025 Bronx Times Norwood News merchants` · FC search → https://www.nyc.gov/html/dot/downloads/pdf/fordham-rd-sedgwick-ave-bronx-river-pkwy-cb6-may2026.pdf (FC scrape, DOT to CB6, May 14, 2026): buses as slow as 5 mph, 130,000 average daily riders; top 10% most dangerous Bronx corridors; April 2026 DOT visited 217 businesses, 60% receive deliveries in the curbside bus lane; offset bus lanes + new loading zones; curb rules tailored per block (e.g. 60 ft commercial-vehicle parking); ACE bus cameras since 2022, stationary cameras since 2011; "Fordham Road will remain open" during implementation; lanes operational late summer/fall. → Curb section, §9 curb Q, §12 step 3.
+- Same query → https://ny1.com/nyc/all-boroughs/traffic_and_transit/2026/07/22/city-announces-redesign-of-bus-lanes-on-fordham-road (FC scrape, NY1, July 22, 2026): groundbreaking; offset bus lanes Sedgwick Ave to Boston Road; 130,000 daily riders; 62% of households without a car; completion by end of year; Belmont BID concern quoted. → Curb section.
+- Norwood News https://www.norwoodnews.org/update-feliz-critical-of-fordham-road-redesign-investment-scope/ (excerpt: redesign underway in Fordham Manor/Kingsbridge Heights, July 27, 2026) → Curb section (date only).
+
+### Broadband
+- Query `Bronx Community District 5 OR 7 Fordham households without broadband subscription percent` · FC search → https://www.osc.ny.gov/files/reports/pdf/report-20-2025.pdf (excerpt, Figure 8): PUMA 4207 Fordham, Bedford Park & Norwood — 47.8% of households without broadband, 33.2% cellular data only, 32.9% below poverty (State Comptroller definition). → §5.5 list (attributed, definition noted). https://www.thecityreporter.nyc/2025/07/08/bronx-internet-access-laptop-affordable-broadband/ (excerpt: "In the Fordham, Bedford Park and Norwood neighborhoods… more than 30% of households lack broadband") → §5 para 2.
+
+### Buildings that changed use (thesis)
+- Query `Dollar Savings Bank building Grand Concourse Fordham landmark redevelopment` · FC search + FC scrape https://en.wikipedia.org/wiki/Dollar_Savings_Bank_Building: 2516–2530 Grand Concourse, block bounded by Grand Concourse, Fordham Rd, Valentine Ave, E 192nd; built 1932–1952; banking hall with basement safe-deposit lobby and steel vaults; NYC landmark (exterior and interior) July 19, 1994; NRHP; bank closed 2014; banking hall became Fine Fare supermarket 2024; Lehman College 184-bed dorm "Lehman Grand" opened Aug 2026. → "When a Fordham Building Changes Jobs", §13 card, §9 vault Q.
+- FC scrape https://www.norwoodnews.org/bedford-park-the-lehman-grand-lehman-colleges-first-dorm-opens/ (Norwood News, Aug 6, 2026): ribbon cutting Aug 5, 2026; "more than 180 beds"; 58 furnished rooms with private bathrooms and free WiFi; Fine Fare on ground floor; 10-story office block and 50-foot clock tower added early 1950s; Lehman campus less than a mile away; MADDD also redeveloping Kingsbridge Armory. → same sections + Residence Halls section.
+- Query `Loew's Paradise Theater Grand Concourse 188th Street opened 1929 seats today` · FC search + FC scrape https://secretnyc.co/bronx-historic-paradise-theater-reopening/ (Sept 22–23, 2026): opened 1929, John Eberson; closed nearly 30 years; becoming Paradise Performing Arts Center, 4,000 seats, "second-largest theater in New York City"; new rooftop outdoor stage, restaurant, bar; 2403 Grand Concourse; preview/community event Nov 10. Opening date Sept 7, 1929 from https://en.wikipedia.org/wiki/Paradise_Theater_(Bronx) excerpt. → Changes-Jobs section, §9 theatre Q, §13 card.
+- Query `"One Fordham Plaza" office building Bronx square feet tenants` · FC search → https://www.nytimes.com/2007/07/11/realestate/commercial/11bronx.html (excerpt only; FC refuses nytimes.com): "One Fordham Plaza, a 557,000-square-foot office and retail building"; headline "A Bronx Retailing Hub Is Getting Offices, Too". LoopNet/realbird excerpts: suites on 9th and 10th floors (1,700–17,928 SF) listed. → §8 card, Clinics section.
+- Query `Webster Avenue Fordham new affordable housing development 2025 2026 Bronx building units` · FC search → https://newyorkyimby.com/2026/07/rendering-revealed-for-2740-webster-avenue-in-fordham-the-bronx.html (excerpt): 2740 Webster Ave, 12-storey dormitory, 215,129 sq ft, 162 units, 600 students, at E 197th St, completion July 2028 for 2029 academic year; next door 2768 Webster Ave planned 13 storeys, 510 residential units. https://thenyhc.org/projects/2850-webster-avenue/ (excerpt: 12-storey, 188 senior affordable units). → Residence Halls section, §5 para 4.
+
+### Campuses, institutions, landmarks
+- Query `Monroe College Bronx campus buildings Jerome Avenue Fordham residence halls` · FC search (excerpt: Bronx campus "a fixture since 1967 of the lively Fordham section", commuter campus) + FC scrape https://www.monroeu.edu/sites/default/files/documents/2023/09/13/BXCampusMap_091123.pdf: King Hall 2501 Jerome Ave, Jerome Hall 2468 Jerome Ave, Monroe Hall 29 E Fordham Rd, Ustin Hall 2375 Jerome Ave. → Clinics/schools section, §7 card.
+- Query `Fordham University Rose Hill campus acres buildings founded 1841 students` · FC search → https://www.fordham.edu/about/campuses/rose-hill-campus/ (excerpt: 85 acres, Gothic architecture, est. 1841). → §13 card.
+- Query `Bronx Library Center Kingsbridge Road square feet opened 2006 largest library Bronx` · FC search → https://www.nypl.org/locations/bronx-library-center (excerpt: opened January 17, 2006; $50 million; 78,000 sq ft; NYPL's first green library). → §13 card.
+- Query `Poe Park Visitor Center Grand Concourse Kingsbridge Road Poe Cottage opened` · FC search → https://www.nycgovparks.org/parks/poe-park (excerpt: park opened 1902; cottage opened to public at present site 1913); https://urbanomnibus.net/2012/07/field-trip-poe-park-and-cottage/ (Visitor Center opened May 2012); https://tmarch.com/poe (2,700 sq ft). → §13 card.
+- Query `Fordham Hill Owners Corporation co-op buildings apartments Sedgwick Avenue history` · FC scrape https://fordhamhill.com/living-at-fordham-hill/history: built 1950 by Equitable Life as rentals, co-op 1982, nine high-rises, 1,130 apartments. → §7 card.
+- Query `St. Barnabas Hospital SBH Health System Bronx Third Avenue 183rd Street beds` · FC search → https://www.sbhny.org/locations/ (excerpt: St. Barnabas Hospital 4422 Third Ave; ambulatory care 4487 Third Ave; wellness 4507 Third Ave). Bed counts from third-party sites NOT used. → Clinics section (named only).
+
+### Codes / rules used in Q&A
+- Query `NYC construction noise permitted hours weekdays 7 a.m. 6 p.m. after hours variance DOB DEP` · FC search → https://www.nyc.gov/site/dep/environment/construction-noise-rules-regulations.page (excerpt: construction allowed 7am–6pm weekdays); https://www.nyc.gov/site/buildings/industry/after-hour-variances.page (AHV required before 7 am, after 6 pm, Sat/Sun). → §9 noise Q.
+- Query `exit stair enclosure penetrations limited equipment serving the stairway building code 1023.5` · FC search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-174119 (NYC BC 1023.5: penetrations into/through interior exit stairways prohibited except listed items). → §9 stairwell Q.
+- Query `NFPA 13 sprinkler piping shall not be used to support non-system components cables` · FC search → https://up.codes/s/support-of-non-system-components; https://www.meyerfire.com/daily/any-contact-allowed-with-sprinkler-pipe ("Sprinkler piping or hangers shall not be used to support non-system components") → FAQ sprinkler.
+- Query `Landmarks Preservation Commission permit required interior landmark work cabling alterations FAQ` · FC search → https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (excerpt: LPC permit for interior work required when the interior is a designated interior landmark, when DOB permit needed, or when interior work affects exterior) → §8.5 callout, Changes-Jobs section.
+- Silo sources reused: sub-50 V DOB statement (existing site content), firestopping, OFNR/OFNP, bend radius (FOA) → §8.5, §10.
+
+### Local news on Fordham fiber-installation contractors 2026 — EMPTY (none retrieved).
+
+### Pricing used (existing AESS Bronx prices copied verbatim from fiber-optic-installation-bronx — no new prices)
+$35/termination; $40/strand OTDR; $391 MM drop; $447 SM drop; 12-strand OM4 $4,500–$7,000; 24-strand OS2 $8,000–$15,000+; second telecom room from $2,400; $195/hr, 3-hr min ($585). Packages: Starter $894 (2 × $447), Standard $4,500–$7,000, Premium $8,000–$15,000+ (same as parent; Bronx 1.00×).
+
+### Images (11) — permanent image rule; Drive folder empty (checked by main run 11:40Z), CompanyCam not connected
+Each photo viewed before use. Where the source showed a face, a shirt/cap/sign with a phone number, or a readable paper document, the photo was CROPPED (PIL, no generation or retouching) so the saved WebP shows none of them; alt/title/caption describe only what is in the crop.
+| File | Source | Crop | What it shows |
+|---|---|---|---|
+| fiber-optic-installation-fordham-bronx-fusion-splicer-bench-rack.webp (hero, eager) | low-voltage/low-voltage-installation-brooklyn-fiber-fusion-splice.jpg | x780–1400 | gloved hands at a lit fusion splicer, yellow jumpers on rack, IPA bottle, cleaver, strippers |
+| fiber-optic-installation-fordham-bronx-sc-adapter-panel-jumpers.webp | low-voltage/low-voltage-installation-brooklyn-fiber-splice-tray.jpg | x880–1400, y0–560 | two rows of blue SC adapters with yellow jumpers |
+| fiber-optic-installation-fordham-bronx-retail-fitout-ceiling-cable.webp | low-voltage/low-voltage-installation-brooklyn-retail-store-ceiling-pull.jpg | x560–1290 | blue cable dropped from open black ceiling into a clothing store being fitted out |
+| fiber-optic-installation-fordham-bronx-inherited-rack-before-after.webp | network/network-installation-bronx-network-rack-cleanup-before-after.webp | none | before/after rack cleanup (no people) |
+| fiber-optic-installation-fordham-bronx-jhook-pathway-office-floor.webp | low-voltage/low-voltage-installation-bronx-02-jhook-pathway-bundle.jpg | none | installer from behind seating bundles in J-hooks over an open-plan floor (no phone number) |
+| fiber-optic-installation-fordham-bronx-ceiling-grid-drop-pull.webp | low-voltage/low-voltage-installation-bronx-10-ceiling-grid-bundle-pull.jpg | none | installer from behind on a ladder pulling drops through ceiling grid |
+| fiber-optic-installation-fordham-bronx-ceiling-access-point-mount.webp | low-voltage/low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | none | installer from behind mounting a ceiling access point |
+| fiber-optic-installation-fordham-bronx-corridor-ceiling-bundle-ap.webp | low-voltage/low-voltage-installation-hudson-valley-10-school-corridor-cable-pull.jpg | x600–1400, y0–820 | gloved hand on a cable bundle above a corridor ceiling, round access point, wall banner |
+| fiber-optic-installation-fordham-bronx-tracing-unlabeled-cable.webp | network/network-installation-bronx-network-cable-toner-tracing.webp | x0–770 | tone probe and tester on a labelled patch field (hands only) |
+| fiber-optic-installation-fordham-bronx-metal-stud-fitout-spool.webp | low-voltage/low-voltage-installation-bronx-04-metal-stud-rough-in.jpg | x0–640 | metal-stud fit-out, installer on ladder seen from behind at distance, cable spool |
+| fiber-optic-installation-fordham-bronx-riser-bundle-corridor.webp | network/network-installation-long-island-idf-riser-cable-bundle.webp | x640–1448 | large blue bundle rising into ceiling beside a corridor, cable box |
+Overlap note: the splicer, adapter-panel and riser-bundle scenes also appear (uncropped) on earlier fiber pages; the other eight scenes had no recorded fiber-silo use. FLAG (same as earlier builders): the library photos appear AI-rendered (garbled small text on tools/labels) — Anwar to review; replace with real AESS photos when uploaded.
+
+### Keyword plan (Fordham page)
+Service: fiber optic installation Fordham, fiber backbone Fordham Road, storefront fiber, office-floor riser, residence hall fiber, fusion splicing, OTDR testing. Problem: building changing use, inherited unlabeled cabling, curb/bus-lane access, crowds and vendors, noise hours, exit-stair restrictions, sprinkler pipes, landmark interiors. Technology: OS2, OM4, OFNR/OFNP, armored, MPO/LC, splice enclosures, PoE switches/APs. Industry: retail chains and independents, clinics, social-service agencies, colleges/dorms (Lehman Grand, Monroe, Fordham University), theatre/venue (Paradise PAC), supermarkets, banks. Geographic: Fordham, Fordham Road, Grand Concourse, Webster Avenue, Jerome Avenue, Kingsbridge Road, E 188th St, Third Avenue, Fordham Plaza, Fordham Manor, Fordham Heights, University Heights, Belmont, Bedford Park, Kingsbridge Heights.
