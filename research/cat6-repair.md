@@ -1612,3 +1612,138 @@ Similarity (geo-masked, digits stripped; 5-word shingle Jaccard on full visible 
 
 Main-run edits 2026-10-17 (size/dup fixes): removed from "What AI Gets Wrong" the Wi-Fi-mesh myth (incl. the Brick Underground paragraph), the BICSI-style tester paragraph, the DIY/bargain-cable paragraph; those sources are no longer used on the page. CSS minified and JSON-LD compacted (no content change) to clear the ±2 KB clone-size check.
 Final FAQ count 7. Markup whitespace compacted and duplicate ImageObject url fields dropped (contentUrl kept) to clear the size check.
+
+## Dutchess County (cat6-repair-dutchess-county)
+
+Built 2026-10-17 (batch with cat6-repair-ulster-county). Area page, up-link /cat6-repair-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx), copied from the hub. Direct line (845) 640-3835 in body, CTAs and schema; (800) 486-0943 only in the shared header chrome. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Fire_Crawl__/mcp__Firecrawl__ firecrawl_search (excerpts only unless "scraped"); "FC scrape" = firecrawl_scrape (query mode, direct quotes). Shell curl blocked. To be merged into research/cat6-repair.md by the main run.
+
+**Thesis (differs from NYC = access/risers/pre-war; LI = environment/heat/distance/storms; HV hub = weather, outbuildings, distance, rodents):** Dutchess is a county of institutions and industry — a regional hospital, the East Fishkill fab and former IBM campuses, IBM South Road, four colleges, a culinary college, Route 9 retail — so a Cat6 repair is governed by **the rules of the room it runs through**: infection-control permits above clinical ceilings, firestop on rated walls, cleanroom/gowning and badge/escort rules, EMI from plant machinery and shielded-cable bonding, HDBaseT and multi-gig margin on campuses, kitchen heat/grease, asbestos (ICR 56) and lead (RRP / City of Poughkeepsie rental registry) in older buildings, and a repair record facilities/compliance teams can file.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | FC search `site:reddit.com Poughkeepsie OR Beacon ethernet cable wall jack not working` → only generic r/wifi, r/homelab, r/eero, r/HomeNetworking threads, none Dutchess → EMPTY (no Dutchess cabling thread). Not used. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 states this on page; its 7 H3 claims are framed as claims repeated in generic how-to/product/cost content and corrected with the sources below. |
+| 6 | Landmarks | D1–D10 below |
+| 7 | Use cases / building stock | D1–D12, reused R1–R9 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Poughkeepsie Journal (Oct 1 2019 Verizon fiber cut; Jul 14 2021 IBM East Fishkill campus), WAMC (Jan 9 2021 VBMC pavilion), Westfair (iPark East Fishkill). |
+| 10 | Hyperlocal | Poughkeepsie Journal used; Daily Freeman / Mid-Hudson News / Highlands Current on Cat6 or cabling faults: none found → EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix — new for this page
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| D1 | `onsemi East Fishkill fab acquisition GlobalFoundries completed 300mm Dutchess` · FC search → FC scrape | https://investor.onsemi.com/news-releases/news-release-details/onsemi-commemorates-transfer-ownership-east-fishkill-new-york | Feb 10 2023 release: acquisition of GF's 300 mm East Fishkill site "effective December 31, 2022"; "added more than 1,000 world-class technologists and engineers"; "The EFK fab is the largest onsemi manufacturing facility in the U.S." (ATREG excerpt: $430M, 2019 agreement — not used.) | §5.5 bullet 2; §7 card; §8 Route 52 card; §13 card 2; Across Dutchess (Fishkill) |
+| D2 | `iPark East Fishkill former IBM campus Hopewell Junction redevelopment tenants 2025` · FC search | http://ipark84.com/ (excerpt) | "The former IBM East Campus in East Fishkill, New York, iPark 84 is situated on 300-acres of land with over two million square feet of buildings" | §5.5 bullet 3; §8 card; §13 card 2 |
+| D3 | same search | https://westfaironline.com/economic-development/national-resources-plans-mixed-use-ipark-for-former-ibm-east-fishkill-site/ (excerpt, Ryan Deffenbaugh; year not shown in excerpt) | IBM East Fishkill campus "developed by the company in the 1960s and was once home to more than 10,000 employees"; National Resources iPark; "corridor along Route 52"; "access to Interstate 84"; IBM/eMagin leased "offices, laboratories and clean rooms" (dated → not used) | §8 card heading "Route 52 and I-84"; Across Dutchess (Fishkill) — corridor names only |
+| D4 | same search → FC scrape | https://www.poughkeepsiejournal.com/story/news/local/2021/07/14/ibm-east-fishkill-evolution-former-campus-shows-economic-shift-ipark-amazon/7396416002/ (Geoffrey Wilson, Jul 14 2021) | "iPark comprises 300 acres and two million square feet in buildings"; "Amazon has taken over 124 acres of the former plant"; "Amazon aims to open a 629,186-square-foot warehouse"; "roughly 2,000 employed on the east campus" | §5.5 bullet 3 |
+| D5 | same search | https://extapps.dec.ny.gov/data/DecDocs/314054/Report.HW.314054.2025-07-31.IAQ%20Testing%20Plan%20B220(B310).pdf (excerpt) | "Building 220 (B310) is owned by iPark East Fishkill LLC … OGS is leasing approximately 305,000 square feet of space for warehouse" | §8 Route 52 card |
+| D6 | `Vassar Brothers Medical Center patient pavilion square feet opened Poughkeepsie` · FC search | https://www.walshgroup.com/news/2021/walshconsiglicompletes545millionpatientpavilionatvassarbrothersmedicalcenter.html ; https://www.wamc.org/hudson-valley-news/2021-01-09/new-patient-pavilion-opens-at-vassar-brothers-medical-center ; https://www.northwell.edu/locations/vassar-brothers-medical-center (excerpts) | Walsh/Consigli completed Nuvance Health's "752,610-square-foot patient pavilion", "$545 million"; WAMC Jan 9 2021: "752,000 square-foot, eight-level addition"; hospital now listed on northwell.edu | §5 para 1; §5.5 bullet 1; §7 card; §8 hospital card; §13 card 1 |
+| D7 | `Culinary Institute of America Hyde Park campus acres students restaurants Route 9` · FC search | https://www.ciachef.edu/cia-new-york/ ; https://en.wikipedia.org/wiki/The_Culinary_Institute_of_America_at_Hyde_Park (excerpts) | CIA: "170-acre riverside main campus in Hyde Park", student-run restaurants; Wikipedia: between the Hudson and U.S. Route 9, ~2,300 students, four public restaurants, grounds "70 acres" (conflicts with CIA's 170 — page uses the college's own figure, attributed) | §8 Route 9 North card; §13 card 3 |
+| D8 | `Dutchess County Fairgrounds Rhinebeck acres buildings events year-round` · FC search | https://dutchessfair.com/ ; https://dutchessfair.com/schedule-and-map/ ; https://dutchessfair.com/fair-features/ (excerpts) | Map: "Buildings A,B,C – Commercial Exhibits & Vendors", horse/dairy barns, "Rhinebeck Bank Main Stage"; "The 6-day Dutchess County Fair"; events e.g. Octoberfest Oct 10–11 2026 | §13 card 6; shops/venues section para 4 |
+| D9 | `Poughkeepsie Galleria Route 9 square feet stores Town of Poughkeepsie mall 2025` · FC search | https://www.poughkeepsiegalleriamall.com/ (excerpt); https://en.wikipedia.org/wiki/Poughkeepsie_Galleria (excerpt) | Mall: "the largest and most dominant enclosed shopping center in Dutchess County … 110 national and local stores"; Wikipedia 1,100,000 sq ft, 123 shops (not used — conflicts with mall's count) | §7 retail card; §8 Route 9 card; shops section |
+| D10 | `Dutchess Community College Pendell Road campus buildings acres Poughkeepsie` · FC search | https://www.sunydutchess.edu/about/facts/locations/poughkeepsie.html (excerpt) | "Our Poughkeepsie campus spans 130 acres … eleven buildings"; 53 Pendell Road | §5.5 bullet 5 |
+| D11 | `Bard College Annandale-on-Hudson campus acres buildings students` · FC search | https://en.wikipedia.org/wiki/Bard_College (excerpt) | "more than 70 buildings with a total gross building space of 1,167,090 sq ft"; 2,303 students (2025); Montgomery Place 380 acres bought Jan 2016; total "1260 acres" | §5.5 bullet 5 |
+| D12 | `Beacon NY Main Street converted factory buildings Fishkill Creek mills offices lofts history` · FC search | https://www.loftsatbeacon.com/about/history.html ; https://www.roundhousebeacon.com/about/ (excerpts) | Groveville Carpet Mill: A.T. Stewart acquired 1876, "employed over 700 people in the 1880s", "Groveville Mill Dam … tallest on Fishkill Creek" with operating hydro; Roundhouse buildings "part of the Matteawan Manufacturing Company in the early 1800s", "corner of Main and East Main Streets" | §13 card 5; Across Dutchess (Beacon) |
+| D13 | `Dutchess County network outage cable cut internet down businesses Poughkeepsie news 2025` · FC search → FC scrape | https://www.poughkeepsiejournal.com/story/news/local/2019/10/01/internet-phone-outages-dutchess-county/3830205002/ (Oct 1 2019) | "A cut fiber in the Poughkeepsie area caused Internet and phone outages for Verizon customers in Dutchess County"; "some areas of Hyde Park and Wappingers Falls … individual reports of outages in Beacon and Cold Spring"; restored for majority by 4:15 p.m. | Across Dutchess (Poughkeepsie); FAQ F10 context |
+| D14 | `Dutchess County home improvement contractor license required county OR town building permit low voltage` · FC search → FC scrape (page returned metadata only) | https://www.townofpoughkeepsie-ny.gov/203/Permit-Applications-Submittal-Requiremen (search excerpt); https://www.dutchessny.gov/Departments/DBCH/Building-Permits-Certificates-Occupancy-Lot-Approval.htm (excerpt) | Town of Poughkeepsie lists "Electric and Low Voltage Permit 2022 (PDF)" and "Contractors List 2026"; county DBCH page: "Contact the local municipality" for building permits. County-level contractor licence for Dutchess: EMPTY (no county source found; page makes no licensing claim). | §8.5 local-permits bullet; FAQ F6 |
+| T1 | `infection control risk assessment ICRA above ceiling work telecommunications cabling hospital dust containment` · FC search | https://www.ashe.org/system/files/media/file/2022/08/ICRA%202.0%20Tool%20%2B%20Permit.pdf (excerpt) | ICRA 2.0 Type B includes "Work conducted above the ceiling (e.g., … installation of conduit and/or cabling…)"; Type C includes "Non-existing cable pathway or invasive electrical work above ceilings"; precautions incl. HEPA, polyethylene containment, adhesive mats | §8.5 bullet 1; §9 Q1; §10 containment card; process step 2 |
+| T2 | same search | https://www.hfmmagazine.com/articles/4693-protecting-patient-spaces-when-working-overhead (Michael Huff, Mar 30 2023, excerpt) | Low-voltage cabling above ceilings "can consist of network, nurse call, security, building automation, telemetry, infant abduction, fire alarm and even tube system communication cabling"; should be "properly supported by either a cable tray or J hooks"; 360-degree inspection list (stained tiles, gaps, debris, abandoned cabling) | Healthcare Ceilings section |
+| T3 | `firestop penetration communications cable fire-rated wall …` · FC search; `NEC 800.26 spread of fire …` · FC search | https://www.mikeholt.com/newsletters.php?action=reply&inResponseTo=18041&letterID=1308 (excerpt) | "Use firestop methods approved by the authority having jurisdiction to maintain the fire-resistance rating of the fire-rated assembly [800.26]" | §8.5 bullet 2; §9 Q2; §10.5 H3 7; decision table |
+| T4 | `IEEE 802.3bz 2.5GBASE-T 5GBASE-T Cat5e Cat6 100 meters access points alien crosstalk downshift` · FC search → FC scrape | https://archive.nbaset.ethernetalliance.org/wp-content/uploads/2017/05/NBASET-Downshift-WP-1217.pdf | 2.5 Gb/s uses Cat5e's 100 MHz, 5 Gb/s up to 200 MHz; "The worst-case happens when you have a dense bundle … running over a long distance"; "As noise increases and the link fails, Downshift selects the next lower speed" | §6 card; §9 Q9; §10.5 H3 3 |
+| T5 | `variable frequency drive VFD interference Ethernet cable separation shielded Cat6 grounding industrial noise errors` · FC search → FC scrape | https://www.controldesign.com/connections/connectors/article/11297404/shielded-and-grounded-industrial-ethernet (Jan 7 2021) | "in an industrial environment with 480-Vac conductors and especially variable-frequency-drive (VFD) output cables … it can need some help"; "shielded eight-position-eight-contact (8P8C) connectors are needed for termination of shielded twisted pair"; author recommends grounding shield at the "source" end only | §9 Q4, Q5; §10.5 H3 2, 4 |
+| T6 | `HDBaseT Cat6 cable length 100 meters flicker no signal termination shielded cable recommended classroom projector` · FC search → FC scrape | https://support.atlona.com/hc/en-us/articles/360054843994-HDBaseT-Cabling-A-Guide | home-run "with no keystones, couplers, or punch-downs"; 70 m product: Cat6 4K "130' (40 m)"; "Shielded Cat 6A is ideal"; zip ties not recommended; "typical cable testers cannot determine whether a cable will pass HDBaseT" | §6 card; §9 Q8; §10.5 H3 3 |
+| T7 | `cleanroom cabling low outgassing cable jacket ISO 14644 contractor gowning protocol network cable installation cleanroom` · FC search | https://ringandping.com/cleanroom-cabling-for-medical-device-manufacturing/ (vendor blog excerpt) | "Cleanroom cabling requires protocol compliance at every stage: gowning, tool preparation, material selection, penetration sealing, and post-work…" | §9 Q6 (attributed as vendor guidance) |
+| T8 | `Cat6 cable temperature rating 60°C 75°C kitchen heat …` · FC search | https://infinity-cable-products.com/blogs/performance/ethernet-cable-temperature-range (excerpt) | "Cat6 riser cables … -20°C to 60°C (-4°F to 140°F) for operation" | §9 Q11; §10.5 H3 6 (stated as "common riser Cat6 … about 60 °C") |
+| T9 | `New York Industrial Code Rule 56 asbestos survey required before renovation building owner minor repair ceiling tiles` · FC search | https://dol.ny.gov/system/files/documents/2023/12/icr56.pdf ; https://www.atlantictesting.com/new-york-state-department-of-labor-industrial-code-rule-56-asbestos-survey-exemption-clarifications/ ; https://www.cnsenviro.com/post/asbestos-operations-and-maintenance-plans (excerpts) | Part 56 applies throughout NYS; survey required "Prior to commencement of any demolition, renovation, remodeling or repair"; Atlantic Testing: "there really are no exceptions to an asbestos survey in New York State" | §8.5 bullet 4; §10.5 H3 5; FAQ F4; "What to send" list |
+
+### Reused from earlier research in this repo (sources reached by earlier runs; not re-fetched)
+| # | Finding | Source (as logged) | Page section |
+|---|---|---|---|
+| R1 | IBM quantum facility, 2455 South Road, ~300,000 sq ft + Building 416 renovation, construction start Sept 2026 | thinkdutchess.com IDA summary (research/fiber-optic-installation.md) | §5.5 bullet 4; §8 South Road card |
+| R2 | Vassar ~1,000 acres, founded 1861 | en.wikipedia.org/wiki/Vassar_College (research/fiber-optic-installation.md) | §5.5 bullet 5 |
+| R3 | Marist 180 acres on US 9; 6,382 students | marist.edu / Wikipedia (research/smart-lock-installation.md D9) | §5.5 bullet 5; §13 card 4 |
+| R4 | Dutchess median year built 1971; 22,056 homes (18.0%) built 1939 or earlier | stacker.com (research/soundbar/sonos/smart-lock) | §5.5 bullet 6; home-office section |
+| R5 | City of Poughkeepsie rental registry: 2+ units, 12601, pre-1980 → lead safety certificate | dutchessny.gov Rental-Registry-Program (smart-lock D2) | §5.5 bullet 6; §8.5 bullet 5; §9 Q10; FAQ F5 |
+| R6 | EPA RRP: ≤6 sq ft interior = minor repair and maintenance | epa.gov FAQ (smart-lock D3) | §8.5 bullet 5; §10.5 H3 5; FAQ F5 |
+| R7 | Census QuickFacts Dutchess: broadband 93.5%, mean commute 31.2 min | census.gov (smart-lock D1) | §5.5 bullet 7; home-office section |
+| R8 | Poughkeepsie station on Metro-North Hudson Line | Wikipedia Hudson Line (smart-lock D21) | home-office section ("Hudson Line out of Poughkeepsie and Beacon") |
+| R9 | Dia:Beacon 1929 Nabisco box-printing factory | diaart.org (research/soundbar-installation.md) | §8 Beacon card; Across Dutchess (Beacon) |
+| R10 | NEC 800.25 abandoned cable (EC&M); Fixr Jan 2025 national $125–$250/drop, $45–$75/hr | research/cat6-repair.md silo sources | §8.5 bullet 3; §14 |
+| R11 | Corridor names Route 9, I-84, Route 44, Route 55, Taconic and the town list | parking-lot-camera-installation-dutchess-county-research-matrix.md (names only, no figures) | §7, §8, §13 "we also repair", Across Dutchess |
+
+### Prices used (live AESS pages only; nothing invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $195/hr, 3-hr minimum ($585); further hours $195 | repair time | cat6-repair-hudson-valley.html table; network-cable-repair-dutchess-county.html ("$195 Hourly Specialty Rate") |
+| From $175 per drop | replacement Cat6 run | cat6-repair-hudson-valley.html; network-cable-repair-dutchess-county.html ("Replacement Cat6 drops from $175 per drop") |
+| $333 Cat6 / $286 Cat5e / $477 Cat6A per drop to 100 ft | new-install comparison only | cat6-installation-dutchess-county.html table |
+| Quoted by port count / per run / for the site | closet mapping, fiber or re-route, containment/firestop/after-hours | cat6-repair-hudson-valley.html conventions |
+| $125–$250/drop, $45–$75/hr | national third-party, labelled | Fixr Jan 2025 (silo) |
+**Conflicts / flags for Anwar:** (1) Blueprint §9 Dutchess 1.53× was NOT applied to the $175 replacement drop (would be $268): the live HV hub and the live Dutchess network-cable-repair page both publish $175 un-multiplied for Dutchess, and $195/hr is protected verbatim. (2) network-cable-repair-dutchess-county.html also publishes a "$250 service call + on-site diagnosis" model and ranges (termination $250–$425, splice $350–$700 etc.) that conflict with the $195/hr 3-hr minimum; this page follows the hub and does not mention the $250 service call. (3) cat6-installation-dutchess-county.html's $333 Cat6 drop = 1.224× NYC $272, not the §9 1.53× ($416).
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos/Cat6 Repair" empty (caller), CompanyCam not connected. Perceptual-hash check: images/network-cable-repair/ (224 files) and images/cat6/ collapse to 31 distinct photos, and all 31 are already used by cat6-repair-nyc / -long-island / -hudson-valley. Chose 11 used on NYC or LI but **none used on the HV up-link hub**. Each viewed before naming; byte-identical copies (already WebP, 1536×1024). Note: the library photos look AI-rendered (as the smart-lock Queens/Dutchess builders also noted) — real Cat6 repair photos should replace them.
+| images/cat6-repair/ | Source |
+|---|---|
+| cat6-repair-dutchess-county-link-down-tester-core-switch.webp (hero) | network-cable-repair/network-closet-troubleshooting-bronx.webp |
+| cat6-repair-dutchess-county-ceiling-bundle-flashlight-check.webp | network-cable-repair/network-cable-inspection-bronx.webp |
+| cat6-repair-dutchess-county-panel-port-repunch.webp | network-cable-repair/patch-panel-repair-bronx.webp |
+| cat6-repair-dutchess-county-nicked-jacket-ceiling-grid.webp | network-cable-repair/crushed-network-cable-repair-bronx.webp |
+| cat6-repair-dutchess-county-checkout-jack-no-link.webp | network-cable-repair/pos-network-cable-repair-bronx.webp |
+| cat6-repair-dutchess-county-wire-map-crossed-open-pair.webp | network-cable-repair/network-cable-fault-detection-bronx.webp |
+| cat6-repair-dutchess-county-tone-probe-labelled-panel.webp | network-cable-repair/network-cable-tracing-bronx.webp |
+| cat6-repair-dutchess-county-wall-jack-open-reading.webp | network-cable-repair/network-jack-repair-bronx.webp |
+| cat6-repair-dutchess-county-ceiling-access-point-lead.webp | network-cable-repair/access-point-cable-repair-bronx.webp |
+| cat6-repair-dutchess-county-wall-plate-keystone-repunch.webp | network-cable-repair/keystone-jack-replacement-bronx.webp |
+| cat6-repair-dutchess-county-split-jacket-desk-frame.webp | network-cable-repair/damaged-ethernet-cable-repair-bronx.webp |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (no real cat6-repair photos yet)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Dutchess County, Cat6 cable repair Poughkeepsie, shielded Cat6 repair, Cat6 re-termination, Cat6 certification after repair, firestop restoration, HDBaseT link repair, multi-gig access point cable repair.
+- Problem: link down, multi-gig downshift to 1 Gb/s, projector flicker over Cat6, errors when drives run, broken rental jacks, kitchen-heat damage, mixed T568A/T568B, crushed/nicked jacket, provider outage vs inside cabling.
+- Technology: Cat6/Cat6A, F/UTP shielded, 8P8C shielded connectors, 2.5GBASE-T/5GBASE-T (802.3bz), HDBaseT, plenum/riser, NEC 800.25/800.26, ICRA 2.0, ICR 56, EPA RRP.
+- Industry: hospitals/outpatient, semiconductor/manufacturing, labs, colleges/schools, restaurants/commercial kitchens, retail/malls, event venues, rentals/student housing, home offices.
+- Geographic: Dutchess County; City/Town of Poughkeepsie, Arlington, Beacon, Fishkill, East Fishkill, Hopewell Junction, Wappingers Falls, LaGrange, Hyde Park, Rhinebeck, Red Hook, Annandale-on-Hudson, Millbrook, Pleasant Valley, Pawling, Amenia, Millerton; Route 9, Route 52, I-84, Route 44, Route 55.
+
+### Masked-geo similarity (difflib, p/li/td/h3/figcaption ≥8 words, geo names masked)
+vs cat6-repair-hudson-valley mean 0.42 · vs cat6-repair-nyc 0.42 · vs cat6-repair-long-island 0.41 · vs network-cable-repair-dutchess-county 0.38 · vs cat6-installation-dutchess-county 0.38. Every block ≥0.65 is an excluded constant (freshness stamp, licence/rating strip, warranty sentence, NAP) or a pricing-table row quoting the price source. cat6-repair-ulster-county not on disk at build time — main run to re-check.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG, Yelp 1–3★; Dutchess Reddit cabling threads; Daily Freeman / Mid-Hudson News / Highlands Current cabling stories; Dutchess county-level contractor licence; Town of Poughkeepsie permit page body (metadata only); Field Notes anecdote (no sourced Dutchess job → written as general practice and labelled so).
+
+## Question register — cat6-repair-dutchess-county
+
+§9 "Questions Answered" (H3):
+1. Our failed Cat6 is above the ceiling of a patient floor — what has to happen before a tile can come down? (Hospitals, clinics, labs)
+2. When a replacement Cat6 run passes through a fire-rated corridor wall, who restores the firestop — and how do we prove it? (Hospitals, clinics, labs)
+3. A lab instrument depends on one Cat6 link that cannot drop mid-run — how is a repair scheduled around it? (Hospitals, clinics, labs)
+4. Ethernet errors on our production line climb whenever the drives and motors are running — is the Cat6 the problem? (Production floors)
+5. Someone repaired our shielded Cat6 with ordinary unshielded jacks — does that matter? (Production floors)
+6. Can a Cat6 fault inside a cleanroom or gowned area be repaired without breaking the room's protocol? (Production floors)
+7. The Cat6 patch cords on our moving machinery keep breaking every few months — what lasts longer? (Production floors)
+8. A classroom projector fed over Cat6 (HDBaseT) flickers or goes black — is it the cable, the wall plate or the extender? (Campuses)
+9. We installed new multi-gig access points, but they only link at 1 Gb/s on the existing Cat6 — can the cable be fixed? (Campuses)
+10. Tenants keep breaking the wall jacks in our rental units — is there a sturdier repair? (Campuses/rentals)
+11. The Cat6 to our kitchen order screens keeps failing — what in a commercial kitchen damages it? (Kitchens, shops, inherited plant)
+12. Some jacks in our building are wired T568A and some T568B — is that why certain links fail? (Kitchens, shops, inherited plant)
+
+FAQ (§17, = FAQPage schema):
+F1. Can your technician work under badge, escort and safety-orientation rules on a secured manufacturing campus?
+F2. Our plant runs three shifts. How do you repair a Cat6 link that can never be down for long?
+F3. Can a Cat6 fault at a wedding or event venue be fixed before a booked weekend?
+F4. Do you repair Cat6 in older buildings where the ceiling tiles or pipe wrap might contain asbestos?
+F5. Is a Cat6 repair in a pre-1978 Poughkeepsie house or rental done lead-safe?
+F6. Does a Cat6 repair in a Dutchess town need a permit?
+F7. Our Cat6 runs under a raised computer-room floor. Can it be repaired without powering anything down?
+F8. Is it worth repairing Cat6 in a building we plan to renovate next year?
+F9. Our electrician is already on site for other work. Can you coordinate the Cat6 repair with them?
+F10. After a provider outage, how do we know whether our own Cat6 was damaged too?
+
+Other "?" headings: "Cat6 Down at a Dutchess Plant, Practice or Campus?" (repair capture), "A Dutchess Link Failing Before Tomorrow's Shift?" (closing).
+
+De-dup notes (compared by meaning against all 26 NYC, 23 LI and 25 HV register entries, plus network-cable-repair-dutchess-county and cat6-installation-dutchess-county headings/FAQ): avoided COI/managing-agent approval (NYC Q14 — mentioned in body only for mall landlords), medical office before patients arrive (LI F4 — Q1 is about infection-control permits, not timing), remote IT provider (LI F10), school/library break (LI F3), mall tenant space (LI F5 — retail covered in body only), shared telecom room without touching neighbour (HV Q11), least-visible route in brick (HV Q12), match jacks and plates (HV F5), test before purchase (LI F2), Cat6A parts on van (NYC F5), 10G errors (NYC Q12 — Q9 is 2.5/5G downshift on APs), 100 Mb/s pair fault (NYC Q1 — mentioned in body list only), "is a tester enough" (network-cable-repair-dutchess — §10.5 H3 3 is a body claim about HDBaseT/multi-gig, not an FAQ), construction damage (network-cable-repair-dutchess), licensing "who is allowed" (cat6-installation-dutchess — F6 is about municipal permits, not licensing). Heat: LI Q1 (attic pass-March/fail-July) vs Q11 here (kitchen grease/steam/wash-down/temperature rating) — different setting and cause set; main run may judge. F2 (three-shift temporary bypass) and Q3 (lab instrument idle window) both use a temporary link — different contexts (continuous plant vs batch instrument). cat6-repair-ulster-county (same batch) was not on disk when this register was written — main run to compare.

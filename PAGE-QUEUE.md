@@ -77,8 +77,8 @@ LIVE | cat6-repair-westchester-county | Cat6 Repair | Westchester | up /cat6-rep
 LIVE | cat6-repair-rockland-county | Cat6 Repair | Rockland | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-orange-county | Cat6 Repair | Orange | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T09:34Z | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T09:34Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
 LIVE | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
