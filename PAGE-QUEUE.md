@@ -44,9 +44,9 @@ LIVE | smart-lock-installation-dutchess-county | Smart Lock Installation | Dutch
 LIVE | smart-lock-installation-ulster-county | Smart Lock Installation | Ulster | up /smart-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | fiber-optic-installation-queens | Fiber Optic Installation | Queens | up /fiber-optic-installation-nyc | (347) 434-6392 | GBP Bronx
 LIVE | fiber-optic-installation-bronx | Fiber Optic Installation | Bronx | up /fiber-optic-installation-nyc | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T07:31Z | fiber-optic-installation-staten-island | Fiber Optic Installation | Staten Island | up /fiber-optic-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T07:31Z | fiber-optic-installation-nassau-county | Fiber Optic Installation | Nassau | up /fiber-optic-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-10-17T07:31Z | fiber-optic-installation-suffolk-county | Fiber Optic Installation | Suffolk | up /fiber-optic-installation-long-island | (631) 407-2884 | GBP Brooklyn
+LIVE | fiber-optic-installation-staten-island | Fiber Optic Installation | Staten Island | up /fiber-optic-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | fiber-optic-installation-nassau-county | Fiber Optic Installation | Nassau | up /fiber-optic-installation-long-island | (516) 346-5778 | GBP Brooklyn
+LIVE | fiber-optic-installation-suffolk-county | Fiber Optic Installation | Suffolk | up /fiber-optic-installation-long-island | (631) 407-2884 | GBP Brooklyn
 LIVE | fiber-optic-installation-westchester-county | Fiber Optic Installation | Westchester | up /fiber-optic-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE | fiber-optic-installation-rockland-county | Fiber Optic Installation | Rockland | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | fiber-optic-installation-orange-county | Fiber Optic Installation | Orange | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx

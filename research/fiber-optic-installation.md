@@ -1112,3 +1112,402 @@ fiber-optic-installation-orange-county
 - Can you install fiber in a bank branch or credit union on a village main street? — fiber-optic-installation-orange-county
 
 De-dup notes: checked by meaning against the full register (NYC, Manhattan, Brooklyn, Long Island, Hudson Valley) and the Westchester/Rockland pages on disk at 07:56. Removed during the build: a shared-entrance cost-split Q&A and a "quote broken out per owner" FAQ (overlapped Rockland's "How is the cost of shared fiber divided when a Rockland campus has several owners?"); cost split now appears only as body text in the ownership subsection. Avoided by design: coverage of historic/landmark districts as a question (Manhattan owns it — ARC covered in body/callouts), provider-arrival prep (HV), carrier landing at the wrong end (LI), building permits (NYC), area price difference (LI), flood (Brooklyn/Manhattan), timing/cutover (NYC). Partial-overlap notes for the main run: my firehouse strand-separation Q vs Westchester "tenants sharing a building backbone without sharing a network" (different parties: one organisation's systems vs separate tenants); my former-hospital suite Q vs Westchester office-park medical-suite Q (independence from landlord network vs move-in readiness).
+
+## Staten Island — local research (2026-10-17 batch, fiber-optic-installation-staten-island)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md are reused where noted; only Staten Island research is added here. Page thesis: Staten Island is the city's low-rise, overhead-wired borough — detached and two-family houses, strip retail, west-shore logistics and campus-style institutions — so fiber jobs here are mostly short private links between separate structures on one lot, aerial-versus-buried decisions, flood-elevated houses, and ground that can be protected (Special Natural Area District) or shared (driveways, strip centres), rather than risers.
+
+### Reddit (local)
+- Query: `reddit statenisland fiber internet Fios building wiring` · WebSearch → no reddit.com results returned (ISP-comparison pages and Verizon community forum only). r/statenisland: EMPTY.
+- Query: `reddit r/statenisland fiber internet house ethernet basement Fios Spectrum` · Firecrawl web search (excerpts only) → no r/statenisland threads; r/Fios excerpts not Staten Island-specific:
+  - https://www.reddit.com/r/Fios/comments/pzhs03/renovating_a_basement_with_ethernetfios/ — excerpt: "Renovating a basement, all open foundation currently. Is a Verizon Fios rep need to be called in or an electrician is sufficient." → not quoted; background for §9 elevated-house question (who places equipment where).
+  - https://www.reddit.com/r/Fios/comments/1ojj61o/ethernet_to_basement/ — excerpt: "Install router in basement via Ethernet port from ONT. WiFi will be much better throughout home." → background only, not quoted.
+  - Same search → https://www.allconnect.com/local/ny/staten-island (excerpt): "The fastest internet option in Staten Island is Verizon Fios, which offers fiber speeds up to 5,300 Mbps for $100.00/mo." → §10.5 H3 6 (quoted claim). https://broadbandnow.com/New-York/Staten-Island (excerpt): Fios "downloads up to 2 Gbps for $49.99 per month" → not used. https://www.spectrum.com/locations/internet-wifi-service/staten-island-ny-i325 (excerpt) "Spectrum Fiber-Powered Internet in Staten Island" → §5 para 4 (both national providers advertise service; owner-side wiring still needed); FAQ coax question.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for the §10.5 reality check — claims quoted from published cost guides/listings (each quoted as published):
+- Query: `fiber optic installation Staten Island contractor cost` · Firecrawl web search (excerpts):
+  - https://ringandping.com/how-much-does-fiber-optic-cable-installation-cost-in-2026/ — "Residential projects typically range from $1,500 to $6,000, while commercial fiber optic cabling services can scale into six figures for complex builds." → §10.5 H3 1.
+  - https://www.gokinetic.com/blog/fiber-internet-cost-guide — "new fiber installation can cost anywhere from $1,500 to $7000" … "activation fee of roughly $99" → §10.5 H3 2 (consumer ISP connection cost confused with private cabling).
+  - https://www.reddit.com/r/FiberOptics/comments/v43z6d/study_of_costs_of_aerial_fiber_optic_installs/ — "a typical install will be around $30K per mile for overlash" (commenter opinion) → §10.5 H3 4 (quoted as a forum comment).
+  - https://www.quora.com/How-much-would-it-cost-to-install-fiber-at-a-residential-address — "The cost to install a fiber optic network in an apartment building typically ranges from $500 to $1,500 per unit" → §10.5 H3 7 (quoted as a Q&A-site answer).
+  - https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-staten-island (own site) — not used as a claim.
+  - https://www.facebook.com/groups/canandaiguachronicles/... (upstate Facebook group, Spectrum drop length anecdote) → not used (not local, anecdote).
+- Silo source reused: thenetworkinstallers.com (FBA 2025: aerial median $8.00/ft, underground $18.00/ft) → §10.5 H3 3.
+- Silo source reused: Verizon NYC fiber page (https://espanol2.verizon.com/about/node/141763), premises passed at end of 2013, "Staten Island virtually all" → §5.5 facts, §10.5 H3 5.
+- Yelp 1–3★ for Staten Island fiber/cabling contractors: no yelp.com result in any query. EMPTY.
+
+### Utility lines / storms (local data)
+- Query: `Staten Island overhead utility poles telephone cable aerial lines more than other boroughs` · WebSearch → https://www.nyc.gov/html/planyc2030/downloads/pdf/power_lines_study_2013.pdf (WebFetch): Mayor's Office of Long-Term Planning and Sustainability, "Utilization of Underground and Overhead Power Lines in the City of New York", December 2013, Table 1: Staten Island 7,140 miles of overhead wire, 72% of installed wire overhead (Bronx 20%, Brooklyn 12%, Queens 22%, Manhattan 0%). → §5 para 2, §5.5 facts, aerial-vs-buried section, §10.5 H3 3/4, landmark intro.
+- Same query → https://www.cbsnews.com/newyork/news/staten-island-residents-frustrated-with-new-utility-pole-placement/ (WebFetch, Apr 9 2014): Con Edison pole placed mid-sidewalk in Grymes Hill/West Fingerboard Rd area — NOT used (not relevant to private fiber).
+- Query: `Tropical Storm Isaias Con Edison Staten Island customers lost power 2020 overhead` · WebSearch → https://coned.com/about-us/media-center/news/2020/08-04/storm-isaias-outage-is-second-largest-in-con-edisons-long-history (WebFetch): 257,000 customers out, "second largest" in Con Edison's history; 29,000 on Staten Island; damage to the "overhead electric-delivery system", trees and branches brought down lines; Sandy + following nor'easter record 1.1 million. → §5.5 facts, aerial-vs-buried section.
+
+### Flooding
+- Query: `Hurricane Sandy Staten Island deaths Midland Beach Oakwood Beach flooding homes damaged statistics` · WebSearch → https://www.nyc.gov/site/sirr/rebuilding/east-and-south-shore-staten-island.page (WebFetch, NYC SIRR): 23 storm-related deaths on Staten Island, all but one on the East and South Shores; more than 11,700 buildings in areas that experienced inundation; Hylan Boulevard and Oakwood Beach WWTP named as affected assets. No neighbourhood list, no flood height. → §5 para 3, §5.5, flood/elevated-house section, §9 elevated-house question.
+
+### Land use / natural areas / permits
+- Query: `Special Natural Area District Staten Island excavation restrictions trees rock outcrops NYC Planning` · WebSearch → https://www.nyc.gov/assets/planning/download/pdf/plans/special-natural-area-district/snad.pdf (WebFetch, SNAD update; CPC approval Jan 5 2005, Council Feb 2 2005): Staten Island portion covers the Greenbelt (NA-1) and Shore Acres (NA-3), "more than 3,500 acres (2420 lots)", Community Districts 1 and 2; protected features "rock outcroppings, trees and forests, wetlands and water features, and steep slopes"; CPC authorization required to modify a significant natural feature such as steep slope topography or rock outcroppings; tree removal and topography change reviewed. Document does not use the word "excavation". → §8.5 compliance, §9 SNAD question, trench section, §9 tree question.
+- Query: `St. George Historic District New Brighton Staten Island Landmarks Preservation Commission designated` · WebSearch → https://hdc.org/?p=11672 (WebFetch): St. George/New Brighton Historic District designated 1994, "only the second designated district in the entire borough"; suburban residences 1830s–1930s; Colonial Revival, Queen Anne, Shingle Style. → §7 building card, §8.5, §13 coverage.
+- Query: `Staten Island housing stock one- and two-family detached homes share percent NYC Furman Center` · WebSearch → https://chpcny.org/visualization/housing-stock-visualization/ (WebFetch, CHPC, Oct 2024, 2023 NYC HVS data): "in Staten Island, 83 percent of units are in one- or two-family homes"; Staten Island ~5% of the city's housing units. → §5 para 2, §5.5, §7.
+- Query: `Bay Street Corridor rezoning approved 2019 Staten Island North Shore Stapleton Tompkinsville` · WebSearch → https://citylimits.org/2019/06/26/council-approves-bay-street-rezoning-the-sixth-under-de-blasios-housing-plan/ (WebFetch): Council approved June 26 2019, 44–2; ~1,800 new units incl. 1,300 income-targeted; 20 blocks centred on Stapleton and Tompkinsville. → §8 North Shore card, §5.5.
+
+### Commercial, logistics, campuses, landmarks
+- Query: `Staten Island Teleport fiber optic Bloomfield history` · WebSearch → https://en.wikipedia.org/wiki/Teleport_(Staten_Island) (WebFetch): 100-acre business park east of Route 440, west of Bulls Head; developed mid-1980s by NYC and the Port Authority; five buildings, 700,000 sq ft; satellite and fiber connectivity; AT&T moved 4,000 employees out in 2001; buildings sold 2009 to Nicotra Group (Corporate Commons). → §8 Teleport card, §13 card.
+  - https://clui.org/ludb/site/staten-island-teleport (WebFetch): satellite antennas removed; redeveloped for data processing/storage; NYIIX has one of five NYC connection points there. → §8, §13.
+  - https://knowledge.digitaledge.net/white-papers/redundant-access-to-telehouse-facility/ (WebFetch, dated Oct 19 2007): Telehouse Center at 7 Teleport Drive; OCG added a diverse underground dark-fiber entry path; carriers reach 25 Broadway, 60 Hudson St and 111 Eighth Ave. → §8 Teleport card (stated as a 2007 report), §10 equipment context.
+- Query: `Matrix Global Logistics Park Staten Island Bloomfield square feet warehouse` · WebSearch → https://commercialobserver.com/2020/01/amazon-expands-its-staten-island-distribution-center-to-1-3m-sf (WebFetch, Jan 28 2020): Amazon 855,000 sq ft facility opened 2018 in the 200-acre Bloomfield industrial complex, Gulf Avenue near the Goethals Bridge, 2,000+ workers; additional 450,000 sq ft lease; IKEA 975,000 sq ft fulfilment centre in the same Matrix complex. → §5, §5.5, §8 West Shore card, §13 card.
+- Query: `GCT New York Howland Hook Marine Terminal Staten Island acres container terminal` · WebSearch → https://www.bisnow.com/news/new-york/land/nyc-acquires-122-acre-waterfront-sites-eyeing-port-redevelopment-124262 (WebFetch, May 14 2024): city's 225 acres at Howland Hook Marine Terminal transferred to the Port Authority in a land swap for Red Hook (not final at publication). → §8 West Shore card.
+- Query: `College of Staten Island Willowbrook campus 204 acres buildings former Willowbrook State School` · WebSearch → https://en.wikipedia.org/wiki/College_of_Staten_Island (WebFetch): 204-acre Willowbrook campus, largest campus by area in NYC; on part of former Willowbrook State School site (closed 1987); at Willowbrook since 1993; Innovation Hub at Lighthouse Point, St. George. → §7 campus card, §13 card.
+- Query: `Snug Harbor Cultural Center 83 acres buildings Staten Island historic` · WebSearch → https://en.wikipedia.org/wiki/Snug_Harbor (WebFetch): 83 acres at 1000 Richmond Terrace, Randall Manor, facing the Kill Van Kull; more than two dozen architecturally significant buildings; Building C completed August 1833 (Greek Revival); NYC landmarks 1965 (A–E and chapel); National Historic Landmark District 1976. → §13 card, §7.5.
+- Query: `Staten Island University Hospital campuses Ocean Breeze Prince's Bay beds Northwell` · WebSearch → https://en.wikipedia.org/wiki/Staten_Island_University_Hospital (WebFetch): North Campus 475 Seaview Ave (South Beach/Ocean Breeze); South Campus renamed SIUH Prince's Bay (Aug 2021); 668 beds; Northwell Health; founded 1861. → §8 medical card, §13 card.
+- Query: `Staten Island Mall square feet Richmond Avenue New Springville redevelopment` · WebSearch → https://en.wikipedia.org/wiki/Staten_Island_Mall (WebFetch): opened August 9 1973; 1,370,000 sq ft; New Springville; owner GGP/Brookfield; second-largest shopping centre in NYC. → §8 retail card, §13 card.
+- Query: `Lighthouse Point St. George Staten Island Empire Outlets opened development` · WebSearch → https://www.triangleequities.com/real-estate-development-press/lighthouse-point-phase-one-completes-construction-in-st-george-staten-island (WebFetch, June 6 2025): Lighthouse Point Phase One complete at 5 Bay Street, steps from the ferry terminal; 115 units; 60,000 sq ft commercial; CSI Tech Incubator tenant. https://rebusinessonline.com/bfc-partners-breaks-ground-on-empire-outlets-on-staten-island/ (WebFetch, Apr 17 2015): Empire Outlets 340,000 sq ft, 100 outlet stores, near the ferry terminal. → §8 St. George card, §13 card.
+- Query: `Freshkills Park 2,200 acres former landfill Staten Island NYC Parks` · WebSearch → https://en.wikipedia.org/wiki/Freshkills_Park (WebFetch): ~2,200 acres; landfill closed March 22 2001; North Park Phase 1 opened October 15 2023; full build-out 2035–2037; almost three times Central Park. → §13 card.
+- Not researched / EMPTY: Hylan Boulevard, Richmond Avenue, Forest Avenue, Victory Boulevard and Arthur Kill Road are named only as corridors/streets (real streets, no statistics attached); Staten Island community-district broadband-subscription figures not retrieved (EMPTY); Staten Island fiber-installation local news (SI Advance/silive) — no article retrieved, EMPTY.
+
+### Local licensing / permits
+- Silo sources reused: DOB low-voltage permit statement (site's own structured-cabling-pricing page), firestopping (nyflnerds/unifinerds), street-opening permit claim (lowvoltagenewyork), LPC permit guidebook. → §8.5.
+- SNAD and St. George/New Brighton HD above. → §8.5.
+- 811 one-call: New York 811 serves NYC + Nassau/Suffolk (silo HV source https://newyork-811.com/excavators/) → trench section, process step 3 ("call 811 before digging").
+
+### Pricing used (existing approved prices × blueprint §9; no new prices)
+Base (Brooklyn 1.00×, research/fiber-optic-installation.md Pricing; fiber-optic-installation-brooklyn.html): $35 termination, $40 OTDR/strand, $350 MM drop, $400 SM drop, $4,500–$7,000 12-strand OM4, $8,000–$15,000+ 24-strand OS2, from $2,400 second telecom room; $195/hr 3-hr min ($585) protected, unchanged.
+Staten Island 1.10× (round half-up): $39 termination, $44 OTDR/strand, $385 MM drop, $440 SM drop, $4,950–$7,700 OM4 backbone, $8,800–$16,500+ OS2 link, from $2,640 second room. Packages (built only from these lines, same structure as the Brooklyn page): Starter 2 × $440 = $880; Standard $4,950–$7,700; Premium $8,800–$16,500+.
+CONFLICT for review: live structured-cabling-pricing-staten-island.html configurator lists fiber drops at $411 multimode / $470 single-mode (≈1.175×, not §9's 1.10×); that page's meta description also says "Brooklyn" and shows (718) 957-1295. This page follows blueprint §9 as the LI/HV fiber hubs did. Needs Anwar's call.
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+All copied into images/fiber-optic-installation/ as WebP (q80). Printed phone numbers on technicians' shirts/caps were blurred (pixelate + blur) because the page rule forbids visible phone numbers; the storefront photo was cropped above the store-hours sign. No other edits.
+| New file | Source |
+|---|---|
+| fiber-optic-installation-staten-island-exterior-wall-enclosure-conduit.webp | low-voltage/low-voltage-installation-staten-island-exterior-enclosure-install.jpg |
+| fiber-optic-installation-staten-island-sfp-switch-rack-mount.webp | network/network-installation-staten-island-managed-poe-switch-rack-install.webp |
+| fiber-optic-installation-staten-island-link-tester-rack-and-jack.webp | network/network-installation-staten-island-fluke-dsx-certification-pass.webp |
+| fiber-optic-installation-staten-island-ceiling-tile-cable-feed.webp | network/network-installation-staten-island-ceiling-tile-cable-drop-occupied-office.webp |
+| fiber-optic-installation-staten-island-corridor-riser-bundle-dress.webp | network/network-installation-long-island-idf-riser-cable-bundle.webp |
+| fiber-optic-installation-staten-island-block-wall-conduit-box-pull.webp | low-voltage/low-voltage-installation-staten-island-riser-conduit-pull.jpg |
+| fiber-optic-installation-staten-island-retail-fitout-ceiling-pull.webp | low-voltage/low-voltage-installation-staten-island-retail-store-ceiling-pull.jpg |
+| fiber-optic-installation-staten-island-metal-stud-cable-routing.webp | low-voltage/low-voltage-installation-hudson-valley-stud-rough-in-boxes.jpg |
+| fiber-optic-installation-staten-island-storefront-canopy-camera-mount.webp | low-voltage/low-voltage-installation-nassau-county-storefront-camera-install.jpg (cropped) |
+| fiber-optic-installation-staten-island-wall-fish-tape-retrofit.webp | network/network-installation-staten-island-retrofit-wall-fish-data-drop.webp |
+| fiber-optic-installation-staten-island-ceiling-access-point-mount.webp | network/network-installation-staten-island-wireless-access-point-ceiling-install.webp |
+Overlap note: retail ceiling pull, metal-stud routing and storefront camera scenes were not on any fiber page; the other 8 scenes appear once or twice elsewhere in the fiber silo (no fiber-specific scene was left unused). The library photos look AI-rendered (garbled text on boxes/logos) — flagged again for Anwar.
+
+### Keyword plan (Staten Island page)
+Service: fiber optic installation Staten Island, building-to-building fiber, outdoor/aerial vs buried fiber, house-to-outbuilding fiber, strip-centre fiber, fusion splicing, OTDR testing. Problem: overhead lines and storms, flood-elevated houses, SNAD trees/slopes/rock, shared driveways, HOA approvals, landlord demarc at one end of a strip, moving office trailers, corporate cabling specs, party walls. Technology: OS2, OM4, armored indoor/outdoor, all-dielectric self-supporting aerial, innerduct, HDPE conduit, pull boxes, media converters, SFP. Industry: logistics/warehousing, retail strips and malls, medical offices, schools/churches, contractors' yards, home offices, townhouse communities. Geographic: Staten Island, St. George, Stapleton, Tompkinsville, Bay Street, New Brighton, Port Richmond, Bloomfield, Travis, Bulls Head, New Springville, Willowbrook, Todt Hill, Grymes Hill, South Beach, Midland Beach, New Dorp, Great Kills, Eltingville, Annadale, Prince's Bay, Charleston, Rossville, Tottenville, Hylan Blvd, Richmond Ave, Forest Ave, Victory Blvd.
+
+### Question register additions
+fiber-optic-installation-staten-island
+§9 Questions Answered:
+- Our house was raised above the flood line after Sandy — where should the incoming fiber and the network equipment go now?
+- Our townhouse community's HOA controls the outside walls and the grounds — how do we get a fiber run approved?
+- Who has to sign off before fiber work on a lot in the Special Natural Area District?
+- A mature tree stands between our two buildings — can fiber get past it without harming the roots?
+- The route to our back building crosses a driveway we share with the neighbour — whose permission do we need?
+- Our strip unit's fiber would have to pass through the next tenant's ceiling — how is that handled without disrupting their business?
+- Our contractor's yard runs from an office trailer that may be moved — can fiber still reach it?
+- A national logistics tenant has sent its own cabling specification — can a local installer build to it?
+- The warehouse racking will be rearranged next year — how should the fiber be routed so it isn't in the way?
+- Our pad-site restaurant on Richmond Avenue needs its drive-through order point and menu boards online — is fiber worth it out there?
+- Will city sidewalk or curb work in front of the property disturb fiber we own?
+§17 FAQ:
+- Does your Staten Island coverage include Tottenville, Charleston and the rest of the South Shore?
+- Does adding fiber raise what a Staten Island home is worth?
+- Can a fiber link reach a detached building that has no electricity yet?
+- Can fiber pass through the fire-rated wall between an attached garage and the house?
+- Will a fiber job need Con Edison to shut off our power?
+- Does the heat in an uninsulated attic harm fiber cable?
+- Can the old satellite-dish cable route into the house be reused for fiber?
+- What warranty applies to the fiber you install?
+- Can exterior conduit be matched to vinyl or aluminium siding?
+- Our building is wired only with cable-company coax — does fiber replace it or run alongside?
+- If we build an addition later, can the fiber be extended without starting over?
+- What should we do to get the property ready for installation day?
+
+De-dup notes: after comparing with the batch siblings (Nassau, Suffolk) five questions were replaced — the SNAD trench question reworded to an approvals question (Suffolk asks about trenching in the Central Pine Barrens); strip-tenant shared run (Nassau/Suffolk shared-link intents), party-wall link between two owners (Nassau "two neighbouring buildings with different owners"), fire alarm over fiber (Nassau Fire Marshal question), lawn restoration (Suffolk), rodents (Suffolk burrowing animals) and third-party fiber testing (Nassau) were all removed. Remaining closest intents for the main run to judge: elevated-house equipment placement vs Suffolk "splice enclosure height on a bayfront lot"; SNAD sign-off vs Suffolk "who licenses and permits fiber work"; no-electricity outbuilding vs HV "what equipment sits at each end".
+Pricing/content notes: masked paragraph similarity (difflib, ≥12-word paragraphs, exempt NAP/warranty/stamp/pricing cells/form text) max 0.588 vs Brooklyn and Suffolk; file 203,438 B.
+
+### Question register additions (final, as shipped — main run 2026-10-17)
+fiber-optic-installation-staten-island
+§9 Questions Answered:
+- Our house was raised above the flood line after Sandy — where should the incoming fiber and the network equipment go now?
+- Our townhouse community's HOA controls the outside walls and the grounds — how do we get a fiber run approved?
+- Who has to sign off before fiber work on a lot in the Special Natural Area District?
+- A mature tree stands between our two buildings — can fiber get past it without harming the roots?
+- The route to our back building crosses a driveway we share with the neighbour — whose permission do we need?
+- Our strip unit's fiber would have to pass through the next tenant's ceiling — how is that handled without disrupting their business?
+- Our contractor's yard runs from an office trailer that may be moved — can fiber still reach it?
+- A national logistics tenant has sent its own cabling specification — can a local installer build to it?
+- The warehouse racking will be rearranged next year — how should the fiber be routed so it isn't in the way?
+- Our pad-site restaurant on Richmond Avenue needs its drive-through order point and menu boards online — is fiber worth it out there?
+- Will city sidewalk or curb work in front of the property disturb fiber we own?
+§17 FAQ:
+- Does your Staten Island coverage include Tottenville, Charleston and the rest of the South Shore?
+- Does adding fiber raise what a Staten Island home is worth?
+- Can a fiber link reach a detached building that has no electricity yet?
+- Can fiber pass through the fire-rated wall between an attached garage and the house?
+- Will a fiber job need Con Edison to shut off our power?
+- Does the heat in an uninsulated attic harm fiber cable?
+- Can the old satellite-dish cable route into the house be reused for fiber?
+- What warranty applies to the fiber you install?
+- Can exterior conduit be matched to vinyl or aluminium siding?
+- Our building is wired only with cable-company coax — does fiber replace it or run alongside?
+- If we build an addition later, can the fiber be extended without starting over?
+- What should we do to get the property ready for installation day?
+
+## Nassau County — local research (2026-10-17 batch, fiber-optic-installation-nassau-county)
+
+Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources and the Long Island hub section are reused only where noted; nothing below is inferred to fill a gap. Page thesis: **carrier fiber already reaches almost every Nassau address (and Verizon's Town of Hempstead build dates from 2006–2007), so the Nassau problem is not getting fiber to the property — it is the owner-side gap inside older, built-out, often re-tenanted buildings (1950s–1970s office stock, village Main Street mixed-use, school districts, medical and retail), plus legacy fiber and copper already in the ceilings.** The LI hub's thesis (crossing open ground between buildings) is deliberately not repeated.
+
+### Reddit (local)
+- `reddit r/longisland Nassau fiber internet office building Garden City Mineola Lake Success` · Firecrawl web search (excerpts only; Firecrawl does not scrape reddit.com):
+  - https://www.reddit.com/r/longisland/comments/1jba48u/best_internet_only_providers/ — excerpt: "In Nassau county what internet only providers do you guys like to use? What's the going rate these days for gig up/gig down?" → §5 Neighborhood para 2 (residents compare providers, not whether fiber exists). Quoted as a resident question only.
+  - https://www.reddit.com/r/longisland/comments/1t32xvr/what_are_the_proscons_to_live_in_mineola_garden/ — excerpt about Mineola/Garden City/Hempstead living; NOT used (not about wiring).
+  - https://www.verizon.com/home/internet/near-me/long-island-new-york/ (same search, excerpt): "Central Nassau: Hempstead, Garden City, Mineola" listed under where Verizon home internet is available → §5 para 1 (context only).
+  - r/longisland threads on Nassau office fiber or building wiring: EMPTY (none returned).
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted as published):
+- bestneighborhood.org (below) "Verizon Fiber: 99.32%" → H3 1.
+- unio.digital (silo source) "$300 to $800 per fiber drop" → H3 2.
+- lowvoltagenewyork.com (silo source, Manhattan section) "nobody publishes a flat per-strand rate" → H3 3; "singlemode glass is now cheaper than OM4" / SM optics 1.5–5× → H3 4; "Plenum rating adds 15–25%" → H3 5.
+- quantumfiber multifamily timeline (silo source) 30 + 30 + 40–60 days → H3 6.
+- Verizon Town of Hempstead release (below) "Full town coverage within five years" → H3 7.
+- Yelp: no yelp.com result in any query. EMPTY.
+
+### Carrier fiber availability and history (core of thesis)
+- `Verizon Fios Nassau County availability where available Central Nassau Hempstead Garden City Mineola` · WebSearch → https://bestneighborhood.org/fiber-tv-and-internet-nassau-county-ny/ (WebFetch): Optimum Fiber 96.57% (~1,347,927 people), EarthLink Fiber 99.32%, Verizon Fiber 99.32% (~1,386,296 people); FCC update dated Sept 3 2026 reflecting Broadband Data Collection as of Dec 31 2025. → §5 para 1, §5.5 facts, §10.5 H3 1. (Third-party aggregator of FCC data; attributed as such. EarthLink resells — not named on page.)
+- Same search → https://verizon.com/about/node/117859 (WebFetch): Verizon release (undated; references "end of 2007" targets, so ~2006): ~65% of Town of Hempstead by year-end, up to 87% by end of 2007, full coverage within five years under the franchise; already served Lakeview, Valley Stream, Hicksville, Plainview; 2006 build Freeport, Roosevelt, Baldwin, Merrick, Elmont, Franklin Square; 2007 build Village of Hempstead, Uniondale, West Hempstead, Long Beach. → §5 para 2 (early-generation installs now ~20 years old), §5.5, §9 Q1, §10.5 H3 7. Stated as "Verizon said at the time".
+
+### Building stock, corridors, landmarks
+- `Lake Success Marcus Avenue office market 2026 vacancy Nassau County office` · WebSearch → https://2001marcusavenue.sharplaunch.com (WebFetch): 2001 Marcus Avenue, Lake Success — ~212,000 RSF (fact sheet; overview says 214,000), 3 floors, typical floor 70,621 RSF, completed 1979 (overview says 1978), steel frame/curtain wall, recent upgrades incl. energy management system, elevator modernisation, fire alarm; near LIE, Cross Island and Northern State. → §7 office card, §8 Lake Success card, §13 landmark card, FAQ building-controls. (Range given as "about 212,000"; year "1978–79".)
+- Same search → https://rebusinessonline.com/northwell-health-signs-lease-renewals-totaling-32413-sf-in-lake-success-new-york (title only, not fetched): Northwell lease renewals 32,413 SF in Lake Success → NOT used (not fetched).
+- `Roosevelt Field mall square feet Garden City largest mall Long Island` · WebSearch → https://en.wikipedia.org/wiki/Roosevelt_Field_(shopping_mall) (WebFetch): 2,372,053 sq ft; 630 Old Country Road, East Garden City section of Uniondale; opened 1956; Simon since 1998; built on Roosevelt Field airfield where Lindbergh's 1927 transatlantic flight took off; airfield closed 1951. → §8 Old Country Road card, §13 card.
+- `Nassau Community College campus acres Mitchel Field Garden City buildings` · WebSearch → https://www.ncc.edu/aboutncc/fastfacts.shtml (WebFetch): founded 1959, opened 1960 with 632 students in the old county courthouse in Mineola; 1962 moved to 135 acres of former Mitchel Air Force Base; now 225 acres and 50 buildings; 17,000+ students. → §7 campus card, §13 card.
+- `NYU Langone Hospital Long Island Mineola beds campus` · WebSearch → https://en.wikipedia.org/wiki/NYU_Langone_Hospital_%E2%80%93_Long_Island (WebFetch): 259 First Street, Mineola; 591 beds; founded 1896 as Nassau Hospital; Winthrop-University Hospital name 1985; NYU affiliation 2017, merger 2019, renamed Nov 2020. → §8 Mineola card, §13 card.
+- `Grumman Bethpage plant history acres former aerospace site redevelopment` · WebSearch → https://en.wikipedia.org/wiki/Naval_Weapons_Industrial_Reserve_Plant,_Bethpage (WebFetch): 605 acres, Town of Oyster Bay, Bethpage; Navy plant est. 1941; Grumman founded 1936; manufacturing stopped 1996; groundwater plumes (shallow 1986, deeper 2009); state Superfund cleanup plans. → §8 Bethpage card, §13 card, (restricted-ground Q&A later removed for overlap with Suffolk; Bethpage now used in §8 card and §13 landmark only).
+- `LIRR Third Track completed Floral Park Hicksville` · WebSearch → https://www.cbsnews.com/newyork/news/long-island-rail-road-completes-long-awaited-3rd-track-project-increasing-service-by-40/ (WebFetch, updated Oct 3 2022): 10 miles Floral Park–Hicksville; ~5 years construction; officials cite 40% more service. → §5.5 facts, §8 Main Line villages card. (No claim made about TOD apartment counts — not sourced.)
+- `Nassau County number of school districts` · WebSearch → https://www.nassauboces.org/fs/pages/3706 (WebFetch): "across all 56 school districts" (Nassau). → §5.5, §7 schools card, §9 Q6.
+- `Nassau County fiber optic network news 2025 2026 village school district fiber` · WebSearch → https://patch.com/new-york/mineola/mineola-board-of-ed-notebook-nov-3 (WebFetch, Patch Dec 6 2011): Mineola board approved a five-year agreement with Nassau BOCES "for fiber optic connectivity" (WAN, internet and voice), $176,905. → §9 Q6 (example of the BOCES-provided WAN model; dated as 2011).
+- Nassau municipal structure (2 cities, 3 towns, 64 villages) and population: LI hub source https://www.ny.gov/counties/nassau reused → §5 para 3 (short reference only).
+- `Nassau County housing stock median year built homes census` · WebSearch → no primary census page returned (tophap/redfin/HUD archive listings only). EMPTY — page gives no median-year figure.
+- `Nassau Hub Coliseum redevelopment 2026 plan after casino` · WebSearch → news12/bisnow/CBS/YIMBY results about the Las Vegas Sands proposal; outcome not verified. NOT used (status unclear).
+
+### Storms / flood (South Shore)
+- `Superstorm Sandy Nassau County homes damaged number South Shore Long Beach Island Park Freeport` · WebSearch → https://www.cbsnews.com/newyork/news/more-than-2000-long-island-homes-uninhabitable-after-sandy (WebFetch, Dec 11 2012, AP): more than 2,000 Long Island homes destroyed or uninhabitable; Town of Hempstead "more than 1,000 residences destroyed"; Nassau "hit harder than Suffolk"; 71,000+ Nassau households applied for FEMA help. → §5.5, South Shore section.
+
+### Licensing / permits / regulation (local)
+- `Nassau County Office of Consumer Affairs home improvement license who needs license trades` · WebSearch → https://archive.nassaucountyny.gov/agencies/OCA/Licensing/FAQ.html (WebFetch): licence needed by "Contractors who perform remodeling on RESIDENTIAL homes in Nassau County"; "Anyone who works only on COMMERCIAL buildings does NOT need a license"; licensed electricians/plumbers etc. exempt in their field. No mention of low voltage or cabling. → §8.5 callout, §9 Q4. Page states the commercial exemption and that the FAQ is silent on low-voltage; says homeowners can ask OCA and that AESS holds NYS licence #12000287431. **Does not claim AESS holds a Nassau HIC licence — needs Anwar's confirmation.**
+- Same search → https://nassaucountyny.gov/1563/Licensing (WebFetch): OCA licence list (home improvement 21-11, home services, locksmiths, electronic/home appliance repair, etc.); no low-voltage, alarm or cabling category. → §8.5 callout.
+- `Nassau County Fire Marshal permit plans required commercial occupancy fire alarm low voltage plan review` · WebSearch → https://northhempsteadny.gov/filestorage/16281/32216/32218/Commercial_Plan_Review_Checklist.pdf (WebFetch): Town of North Hempstead commercial checklist — modifying/installing a fire alarm "requires the filing of a Fire Alarm application with the Nassau County Fire Marshal"; sprinkler changes likewise; no mention of data/telecom cabling. → §8.5 callout, §9 Q5. Stated as one town's checklist.
+- `New York Industrial Code Rule 56 asbestos survey required before renovation building owner` · WebSearch → https://dol.ny.gov/new-york-state-asbestos-survey-requirements (WebFetch): owner must obtain a survey by a certified NYS Asbestos Inspector before demolition, renovation, remodel or repair; post-1973 buildings exempt under 56-5.1(b) from that section but page says "surveys are required for all demolitions, renovations, remodels, or repairs regardless of construction date". → FAQ asbestos question, §8.5. **Wording for Anwar's skim.**
+- Village/town low-voltage permit rules: EMPTY (no village page retrieved); page says to check per address, consistent with LI hub.
+
+### Technical (new for this page)
+- `OM1 OM2 10GBASE-SR maximum distance 33 m 82 m` · WebSearch → https://foa.org/tech/Linkspec.htm (WebFetch): 10GBASE-S: OM1 33 m, OM2 82 m, OM3 300 m, OM4 450 m; 1000BASE-SX: OM1 275 m, OM2 550 m, OM3 800 m, OM4 880 m. → §7.5 methods, FAQ legacy multimode question, §10 equipment, §10.5 H3 4.
+- Silo sources reused: FOA install guide (bend radius), cablinginstall OFNR/OFNP listings, ampcom SM/MM.
+
+### Local news / hyperlocal (Newsday, Herald, Patch, News12) on Nassau fiber installation contractors — EMPTY beyond the 2011 Mineola Patch item.
+
+### Pricing used (existing approved prices only — mirrors the LI hub Nassau column; no new prices)
+Base Brooklyn 1.00× × blueprint §9 Nassau 1.15×, rounded half-up, exactly as live on fiber-optic-installation-long-island: $40/termination, $46/strand OTDR, $403 multimode drop, $460 single-mode drop, 12-strand OM4 backbone $5,175–$8,050, 24-strand OS2 $9,200–$17,250+, second telecom room from $2,760; $195/hr 3-hr minimum ($585) unchanged (protected). Worked packages are arithmetic on those lines only: two SM drops $920; 24 terminations + 12 OTDR = $1,512.
+CONFLICT (carried from LI hub): live structured-cabling-pricing-nassau-county configurator shows fiber drops $411/$470 — not used.
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+All images/network/ scenes are already used on a live fiber page and every network/ photo shows a printed phone number (844-386-7238) on the technician's shirt, so all 11 come from images/low-voltage/ Nassau-named files with no visible phone number. 5 of the 11 scenes are on no other fiber page; 6 repeat scenes used on the HV/Manhattan fiber pages from different source files.
+| File (images/fiber-optic-installation/) | Source (images/low-voltage/) |
+|---|---|
+| fiber-optic-installation-nassau-county-idf-rack-patching.webp (hero, eager) | low-voltage-installation-nassau-county-06-idf-rack-patching.jpg |
+| fiber-optic-installation-nassau-county-jhook-bundles-open-office.webp | low-voltage-installation-nassau-county-04-jhook-pathway-bundle.jpg |
+| fiber-optic-installation-nassau-county-certification-tester-wall-jack.webp | low-voltage-installation-nassau-county-07-fluke-certification-pass.jpg |
+| fiber-optic-installation-nassau-county-wall-plate-termination-office.webp | low-voltage-installation-nassau-county-hero-keystone-wall-plate.jpg |
+| fiber-optic-installation-nassau-county-ceiling-access-point-cable.webp | low-voltage-installation-nassau-county-08-ceiling-access-point-drop.jpg |
+| fiber-optic-installation-nassau-county-school-corridor-ceiling-pull.webp | low-voltage-installation-nassau-county-school-corridor-ceiling-tile.jpg |
+| fiber-optic-installation-nassau-county-crew-fitout-cable-reels.webp | low-voltage-installation-nassau-county-03-crew-cable-pull.jpg |
+| fiber-optic-installation-nassau-county-hardhat-stud-wall-pull.webp | low-voltage-installation-nassau-county-09-metal-stud-rough-in.jpg |
+| fiber-optic-installation-nassau-county-patch-panel-punchdown-hands.webp | low-voltage-installation-nassau-county-02-cat6-patch-panel-punchdown.jpg |
+| fiber-optic-installation-nassau-county-ceiling-grid-bundle-feed.webp | low-voltage-installation-nassau-county-04-ceiling-grid-bundle-pull.jpg |
+| fiber-optic-installation-nassau-county-conference-room-cable-box.webp | low-voltage-installation-nassau-county-11-conference-room-display-cabling.jpg |
+Note: the photos show copper (blue Cat6) work, not fiber; captions describe only that. Several look AI-rendered (garbled tester screen text) — for Anwar's review.
+
+### Keyword plan (Nassau page)
+Service: fiber optic installation Nassau County, fiber backbone, fiber riser, legacy fiber re-termination, OTDR testing, fusion splicing, demarc extension. Problem: carrier fiber at the curb but old copper inside, 2006-era carrier install, OM1/OM2 legacy multimode, return-air plenum ceilings, asbestos-era ceilings, split suites, shared closets, fire alarm on fiber, flood-rebuilt South Shore. Technology: OS2, OM4, OM1/OM2, LC/SC, OFNP/OFNR, splice enclosures, media converters. Industry: 1970s office parks, medical, schools (BOCES), retail/malls, village Main Street mixed-use, home-based businesses. Geographic: Nassau County, Lake Success, Garden City, Mineola, Uniondale, Hicksville, Bethpage, Valley Stream, Freeport, Long Beach, Great Neck, Port Washington, Glen Cove, Rockville Centre, Massapequa, Westbury, Syosset, Oyster Bay, Hempstead, North Hempstead.
+
+### Question register additions — fiber-optic-installation-nassau-county
+fiber-optic-installation-nassau-county
+§9 Questions Answered:
+- The Fios equipment in our basement went in around 2007 — should anything on our side of it be replaced now?
+- Our building has fiber service at the wall, but the wiring to the desks is decades-old phone cable — where should the money go first?
+- Can a shop and the apartments above it share one fiber cable while keeping their networks completely separate?
+- We're handing back half our floor to the landlord — what happens to the fiber that crosses the space we're giving up?
+- Does Nassau County's home improvement licence cover fiber work in a private house?
+- If our fire alarm panel will report over the new fiber, does the Nassau County Fire Marshal get involved?
+- Our school district's internet arrives over a BOCES connection — where does district-owned fiber take over?
+- Our office is upstairs from a restaurant kitchen — does the heat and grease in the shared ceiling affect fiber?
+- I run a business from my house — can my office get its own wired, documented connection separate from the family network?
+- The space above our ceiling tiles carries the building's return air — what fiber is allowed up there?
+§17 FAQ:
+- Do you cover the North Shore, the South Shore and the incorporated villages in between?
+- Can multimode fiber installed in the 1990s carry today's network speeds?
+- Is it safe to install fiber in an older building that may contain asbestos?
+- What happens to our fiber when the landlord replaces the drop ceiling?
+- Will you test fiber another company installed before we accept their work?
+- How is payment handled on a Nassau fiber job?
+- Can a fiber link carry a separate network for our building's heating, cooling and energy controls?
+- Will a new fiber backbone work with the network switches we already own?
+- Can the phone company's dead boxes and old cables on our wall be removed during the fiber job?
+
+De-dup notes: compared by meaning with the NYC/Manhattan/Brooklyn/LI/HV register and the concurrent Staten Island and Suffolk pages. Replaced: neighbour-owned-buildings FAQ (overlap with SI shared-driveway permission Q) and former-industrial-site digging Q (overlap with Suffolk Pine Barrens trench Q). Judged different: Nassau HIC-licence Q vs Suffolk permit Q (contractor licence vs work permit); existing-switches FAQ vs NYC 'Do you supply the switches and optics' and HV 'What equipment sits at each end' (compatibility of owned switches) — main run to confirm. No question-form repair headings used.
+
+### Question register additions (final, as shipped — main run 2026-10-17)
+fiber-optic-installation-nassau-county
+§9 Questions Answered:
+- The Fios equipment in our basement went in around 2007 — should anything on our side of it be replaced now?
+- Our building has fiber service at the wall, but the wiring to the desks is decades-old phone cable — where should the money go first?
+- We own two attached storefronts and are merging them into one business — can fiber join the two networks through the shared wall?
+- We're handing back half our floor to the landlord — what happens to the fiber that crosses the space we're giving up?
+- Does Nassau County's home improvement licence cover fiber work in a private house?
+- If our fire alarm panel will report over the new fiber, does the Nassau County Fire Marshal get involved?
+- Our school district's internet arrives over a BOCES connection — where does district-owned fiber take over?
+- Our office is upstairs from a restaurant kitchen — does the heat and grease in the shared ceiling affect fiber?
+- I run a business from my house — can my office get its own wired, documented connection separate from the family network?
+- The space above our ceiling tiles carries the building's return air — what fiber is allowed up there?
+§17 FAQ:
+- Do you cover the North Shore, the South Shore and the incorporated villages in between?
+- Can our Wi-Fi access points run straight off the new fiber backbone?
+- Can fiber be added to a finished office without opening the walls?
+- What happens to our fiber when the landlord replaces the drop ceiling?
+- Will you test fiber another company installed before we accept their work?
+- How much downtime should we plan for when the new backbone goes live?
+- Can a fiber link carry a separate network for our building's heating, cooling and energy controls?
+- Will a new fiber backbone work with the network switches we already own?
+- Can the phone company's dead boxes and old cables on our wall be removed during the fiber job?
+
+## Suffolk County — local research (2026-10-17 batch, fiber-optic-installation-suffolk-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources and the Long Island hub section are reused where noted and are NOT repeated on the page (hub already uses Hauppauge 1,350 businesses, Route 110/Melville, Stony Brook 1,454 acres, BNL 5,265 acres, Optimum ~900k passings, Brookhaven Verizon franchise, Isaias, Long Beach Sandy, ny.gov 2,373 sq mi / 1.52M / 10 towns). Page thesis: Suffolk is a long county where the fiber job changes with the ground and the calendar — sandy outwash and septic systems in the west, the Central Pine Barrens in the middle, farms, vineyards and seasonal/rented houses on the East End, and flood-exposed South Shore canal lots — and much of the East End has had one wired provider, so private owner-side fiber has to be built to last through provider changes.
+
+### Reddit (local)
+- Query: `reddit r/longisland Suffolk barn OR outbuilding OR detached garage ethernet fiber run internet` · Firecrawl web search (excerpts only; reddit.com not scraped). Results were r/HomeNetworking threads, not r/longisland → r/longisland local: EMPTY. Topical excerpts already in the HV register (barn) were not reused on this page.
+  - https://www.reddit.com/r/HomeNetworking/comments/1p0wdhv/should_i_run_fiber_cable_networking_to_a_separate/ — excerpt: "If they're on different grounds you really need to run fiber or current between the two can be a problem." → background only (not quoted; HV page owns this intent).
+- Query: `reddit longisland Suffolk fiber internet Optimum only option East End North Fork` · WebSearch → no reddit.com results. EMPTY.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for §10.5 reality check: claims as published by silo sources already in research/fiber-optic-installation.md (thenetworkinstallers.com FBA 2025 medians; unio.digital trenching $15–$35/ft, boring $20–$30/ft, aerial $8–$12/ft; lowvoltagenewyork "Plenum rating adds 15–25%"; newtechcabling "Small projects can take a day or two"; ampcom OS2 10 km+) plus the Verizon East End item below. Each H3 on the page quotes the claim as published and corrects it with Suffolk field conditions.
+
+### Carriers / provider history
+- Query: `Verizon Fios East End Southampton East Hampton fiber expansion 2025 2026 North Fork internet` · WebSearch → https://suffolktimes.timesreview.com/?p=53616 (WebFetch; undated Suffolk Times item about a rally at Riverhead Town Hall): Verizon spokesperson John Bonomo — "It's a simple no"; no new FiOS build-outs on the East End; preliminary talks with eastern Suffolk towns in the mid-2000s; towns named Riverhead and Southold; PSC cannot require Verizon to build in a particular area; CWA Local 1108's Michael Gendron: "Having one provider in this area is not working out"; Supervisor Sean Walter: "competition is always better." → §5 para 3 (stated as an older, undated report; page notes Brookhaven's 2026 franchise vote from the hub is a separate later development), §10.5 H3 1, §9 seasonal/rental Q context.
+
+### Development, corridors, landmarks
+- Query: `Ronkonkoma Hub transit-oriented development apartments square feet Brookhaven 2025` · WebSearch → https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more (WebFetch, Oct 22 2024): Station Yards, 53 acres around Ronkonkoma LIRR; 1,450 units at completion; 360,000 sq ft office; 195,000 sq ft retail; Phase 1 489 units (2020), Phase 2 388 units; $1.2B; near LIE Exit 60 and MacArthur Airport; Ronkonkoma station Suffolk's busiest, ~17,000 daily commuters. → §5.5 facts, §8 Ronkonkoma card, §13 landmark card.
+- Query: `Long Island MacArthur Airport acres Islip town owned terminal 2025` · WebSearch → https://politicsny.com/2026/07/20/town-of-islip-names-developer-for-long-island-macarthur-airport-terminal-project/ (WebFetch, July 20 2026): Town of Islip named Fly Long Island (RXR + Avports JV) to build a new terminal and link to the Ronkonkoma LIRR station; RFQ issued 2025. → §8 Ronkonkoma card, §13 card (no acreage/passenger figures used — not in source).
+- Query: `Enterprise Park at Calverton EPCAL acres Riverhead 2025` / `EPCAL Calverton Enterprise Park subdivision 2025 Riverhead Town Board acres industrial lots` · WebSearch → https://riverheadnewsreview.timesreview.com/?p=94143 (WebFetch; undated, Riverhead News-Review): Planning Board approved a preliminary plat dividing ~2,107 acres at EPCAL into eight lots; lets Calverton Aviation & Technology buy 1,643 acres for ~$40M; ~292 acres protected Pine Barrens; Grumman memorial; Calverton Sewer District recharge area. → §8 Calverton card, §13 card (stated as "preliminary plat", no completion claim).
+- Query: `Gabreski Airport Westhampton business park fiber OR Shirley Brookhaven Calabro airport industrial park` · WebSearch → https://www.27east.com/southampton-press/new-business-park-continues-to-take-shape-in-westhampton-1406404 (WebFetch, Aug 26 2016): Hampton Business District (Rechler) at Francis S. Gabreski Airport, 55 acres of county-owned land, 40-year lease signed 2009, 10 buildings planned; Building 1 60,000 sq ft; Building 2 67,000 sq ft offices/medical; tenants incl. Tate's Bake Shop 37,141 sq ft. → §8 Westhampton card, §13 card (dated 2016 on page).
+- Query: `Brookhaven National Laboratory Electron-Ion Collider construction 2025 Upton` · WebSearch → https://www.bnl.gov/newsroom/news.php?a=221812 (WebFetch, Apr 2 2024): EIC with Jefferson Lab; CD-3A long-lead procurements; cost $1.7–2.8B; 2.4-mile circumference; most components fit in existing RHIC tunnel. → §8 research card (different from hub's BNL acreage/staff), §13 card.
+- Query: `Suffolk County Community College campuses Selden Brentwood Riverhead ...` · WebSearch → https://sunysuffolk.edu/about-suffolk/campus-information/ (WebFetch): Ammerman Campus Selden 156 wooded acres, 13,000+ students; Grant Campus Brentwood 10,000+ students; Eastern Campus 121 Speonk-Riverhead Road, Riverhead. → §7 campus card, §13 card.
+- Query: `Patchogue downtown revitalization apartments ...` · WebSearch → results only (nyrej, patch, ny.gov NYF4 application PDF) — not fetched. NOT used.
+- Query: `Republic Airport Farmingdale Route 110 ...` · WebSearch → Wikipedia NY 110 etc. Not fetched; NOT used (hub owns Route 110).
+- Query: `Suffolk County New York 10 towns 33 incorporated villages hamlets` · WebSearch → https://www.newyorkfamilyhistory.org/knowledgebase/suffolk-county-new-york-cities-towns-and%C2%A0villages (WebFetch): ten towns named — Babylon, Brookhaven, East Hampton, Huntington, Islip, Riverhead, Shelter Island, Smithtown, Southampton, Southold. Village count not given → page does not state a village count. → §5, Ten towns table, FAQ coverage.
+
+### Agriculture, wineries, land
+- Query: `Suffolk County 2022 Census of Agriculture number of farms acres market value` · WebSearch → https://shelterislandreporter.timesreview.com/2025/02/02/suffolk-closeup-the-farming-county/ (WebFetch; column citing the NYS Comptroller's "A Profile of Agriculture in New York State"): 578 farms in 2022, up 18 (3%) from 2017 while the state lost 8%; 33,821 acres of farmland; 79 wineries in Suffolk (Long Island 85); Suffolk first in state aquaculture sales; Farmland Preservation Program approved 1974, 11,000+ acres preserved. → §5.5 facts, §7 farm/vineyard card, Farms & vineyards section, §9 farmland Q.
+- Query: `Central Pine Barrens Long Island 105,000 acres core preservation area towns ...` · WebSearch → https://pb.state.ny.us/public-information/faqs/ (WebFetch, Central Pine Barrens Commission FAQ): ~105,000 acres; eastern Brookhaven, western Southampton, southern Riverhead; Long Island Pine Barrens Protection Act 1993; in the Core Preservation Area "new construction or development" prohibited/redirected; clearing or material alteration of vegetation counts as development; Core development requires a Commission hardship waiver with public hearing. → §9 Pine Barrens Q, §8.5 callout, Pine Barrens section.
+
+### Flood / coast
+- Query: `Suffolk County Long Island hurricane Sandy Fire Island Mastic Beach Lindenhurst flooding homes damaged numbers` · WebSearch →
+  - https://www.weather.gov/media/okx/coastalflood/Lindenhurst%20impacts.pdf (WebFetch, NWS Upton impact table): peak 7.7 ft NGVD on 10/29/2012 10 pm; "much of the area south of Montauk Highway" fully inundated with 2 to 5 feet of water in Lindenhurst, Amityville and Babylon; repeated moderate flooding at ~4 ft (2016, 2017, 2018 events). → §5 para 4, §5.5, §9 enclosure-height Q, South Shore section.
+  - https://amp.claimsjournal.com/news/east/2012/11/01/216552.htm (WebFetch, AP, Nov 1 2012): 12 Fire Island houses swept out to sea; Fire Island National Seashore superintendent Chris Soller: 80% of remaining houses damaged; worst since 1938. → South Shore section.
+
+### Seasonal population
+- Query: `East Hampton OR Southampton seasonal homes percent housing units vacant seasonal use census` and a second variant · WebSearch → https://www.census.gov/library/stories/2023/05/vacant-seasonal-housing.html (WebFetch): no Suffolk figures. https://www.danspapers.com/2021/09/2020-census-east-end-population-shift (WebFetch, ~2021): 2010→2020 East Hampton +6,928 (32%), Shelter Island +861 (36%), Southampton +21.5%, Riverhead +2,396 (7.2%); Suffolk +2.2% to 1.5M; Southampton supervisor's estimate of off-season effective population "probably over 100,000" (an estimate, not used). Seasonal housing-unit share: EMPTY (no source retrieved) — page gives no seasonal-housing percentage. → §5.5 (East End growth figures), seasonal section.
+
+### Licensing / permits
+- Query: `Suffolk County Chapter 563 license low voltage electrician home improvement Consumer Affairs requirement` · WebSearch →
+  - https://suffolkcountyny.gov/Departments/Consumer-Affairs/Licensing (WebFetch): Master Electricians and Restricted Electricians, continuing education under "Suffolk County Code, Chapter 563, Article XI"; Home Improvement License Law; no mention of low-voltage/alarm/telecom.
+  - https://ecode360.com/14947436 (WebFetch): Chapter 563 Article II Home Improvement Contractors; §563-16 definition of home improvement contracting excludes "work in the electrical and plumbing fields as defined by § 563-126"; residential property = one- or two-family houses; §563-23 exemptions. No low-voltage/communications exemption text.
+  → §8.5 callout, §9 licensing Q. Page states what Chapter 563 contains and that we confirm county/town requirements per job; it does NOT claim fiber is exempt or covered. FLAG for Anwar: confirm AESS's Suffolk County license position for residential work.
+- Query: `Town of Southampton building permit required low voltage wiring OR "data cabling" OR "communications cable" permit` · WebSearch →
+  - https://ePermits.southamptontownny.gov/eElectrical (WebFetch): Town of Southampton "Electrical ePermits Portal"; no low-voltage rule stated.
+  - https://www.westhamptonbeach.gov/frequently-asked-questions-faq (WebFetch): "you must obtain a permit when you change any structural, electrical, plumbing, gas in your dwelling"; village answer that an Electrical Permit "from the Town of Southampton as well" is needed (question not shown).
+  → §8.5, §9 licensing Q (stated as: towns and villages run their own permit desks; Southampton has its own electrical e-permit system; we check per address). Low-voltage permit rules per town: EMPTY.
+- Broadband/municipal: `Suffolk County broadband fiber initiative 2025 county government fiber network` · WebSearch → only UK Suffolk results. EMPTY. `Shelter Island OR Southold OR East Hampton town broadband committee fiber internet 2025 2026` · WebSearch → no relevant NY results. EMPTY.
+- `North Fork winery tasting room wifi point of sale internet outage ...` · WebSearch → travel listings only. EMPTY.
+
+### Local news / hyperlocal on fiber installation contractors in Suffolk — EMPTY (none retrieved beyond the items above).
+
+### Pricing used (existing approved prices × blueprint §9 Suffolk 1.20×; identical to the LI hub's Suffolk column)
+$42 termination · $48 OTDR/strand · $420 MM drop · $480 SM drop · $5,400–$8,400 12-strand OM4 · $9,600–$18,000+ 24-strand OS2 · from $2,880 second room · $195/hr 3-hr min ($585) unchanged (protected). Package arithmetic on this page: Starter = 2 SM drops (2 × $480 = $960); Standard = OM4 backbone $5,400–$8,400; Premium = OS2 link $9,600–$18,000+; "re-terminate an existing 12-strand cable" example = 24 × $42 + 12 × $48 = $1,584 (same arithmetic as hub, used in body text only).
+CONFLICT (unchanged, for Anwar): live structured-cabling-pricing-suffolk-county.html shows fiber drops $453 MM / $517 SM; this page follows blueprint §9 like the LI hub.
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+Every images/network/ scene is already on a live fiber page (average-hash comparison against all files in images/fiber-optic-installation/), so all 11 come from images/low-voltage/. Photos showing a phone number (shirts, caps, van) or a street address were rejected or CROPPED so the number is out of frame (crop = framing only, no other edit). Six first-choice photos were swapped out mid-build because the parallel Nassau builder had already copied the same source photos (identical bytes).
+| File (images/fiber-optic-installation/) | Source (crop box if cropped) |
+|---|---|
+| fiber-optic-installation-suffolk-county-recessed-wall-box-patching.webp (hero, eager) | low-voltage/low-voltage-installation-suffolk-county-display-recessed-box.jpg, crop 600,150,1400,1120 |
+| fiber-optic-installation-suffolk-county-van-cable-reels-ladders.webp | low-voltage/low-voltage-installation-orange-county-10-van-load-out.jpg, crop 470,140,1000,880 |
+| fiber-optic-installation-suffolk-county-conference-camera-mount.webp | low-voltage/low-voltage-installation-suffolk-county-ptz-camera-mount.jpg, crop 520,40,1400,1120 |
+| fiber-optic-installation-suffolk-county-storefront-bullet-camera-mount.webp | low-voltage/low-voltage-installation-suffolk-county-storefront-camera-install.jpg |
+| fiber-optic-installation-suffolk-county-video-wall-panel-alignment.webp | low-voltage/low-voltage-installation-suffolk-county-video-wall-install.jpg |
+| fiber-optic-installation-suffolk-county-door-reader-mounting.webp | low-voltage/low-voltage-installation-suffolk-county-12-access-control-reader-wiring.jpg |
+| fiber-optic-installation-suffolk-county-electric-strike-terminal-wiring.webp | low-voltage/low-voltage-installation-nassau-county-electric-strike-wiring.jpg |
+| fiber-optic-installation-suffolk-county-video-intercom-entry-wiring.webp | low-voltage/low-voltage-installation-suffolk-county-13-video-intercom-entry-wiring.jpg |
+| fiber-optic-installation-suffolk-county-ceiling-speaker-conference-room.webp | low-voltage/low-voltage-installation-suffolk-county-ceiling-speaker-conference.jpg, crop 380,0,1400,1120 |
+| fiber-optic-installation-suffolk-county-restaurant-ceiling-speaker.webp | low-voltage/low-voltage-installation-suffolk-county-14-restaurant-ceiling-speaker.jpg |
+| fiber-optic-installation-suffolk-county-maglock-terminal-wiring.webp | low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg |
+None of these show fiber; the library's only fiber scenes (fusion splicer, splice tray) are each on 4 fiber pages already. Captions describe only what is visible and the page frames them as devices at the end of a fiber-fed network. The set leans heavily toward AV/door hardware — weak fit; replace with real Suffolk fiber photos when available. Library looks AI-rendered (flagged by earlier builders) — for Anwar to review.
+
+### Keyword plan (Suffolk page)
+Service: fiber optic installation Suffolk County, buried fiber, farm/vineyard fiber, estate fiber, campus/business-park fiber, fusion splicing, OTDR testing. Problem: Pine Barrens clearing limits, septic/leaching pools and wells, sandy trench walls, plows and posts, rodents, flood-prone canal lots, empty seasonal houses, summer renters on the owner's network, single wired provider. Technology: OS2 loose-tube, armoured/rodent-resistant cable, HDPE conduit, tracer wire, warning tape, hardened enclosures, VLANs on separate strands, remote power cycling. Industry: vineyards/farms, estates and rental houses, marinas, business parks (Ronkonkoma, Calverton, Westhampton), research campuses, colleges, retail. Geographic: Suffolk County, ten towns, Ronkonkoma, Islip/MacArthur, Calverton/EPCAL, Riverhead, Westhampton/Gabreski, Upton, Selden, Brentwood, Lindenhurst/Babylon/Amityville, Fire Island, North Fork, South Fork, Shelter Island.
+
+### Question register additions
+fiber-optic-installation-suffolk-county
+§9 Questions Answered (and other question headings):
+- Fiber Link Down Somewhere in Suffolk? (repair capture heading)
+- Our land is inside the Central Pine Barrens — can a fiber trench still be dug?
+- How is buried fiber kept away from plows, trellis posts and drainage on land we farm?
+- How does a fiber trench get past a septic tank, leaching pools and a private well?
+- Does Suffolk's sandy ground make a fiber trench easier or harder?
+- Do mice, voles or other burrowing animals chew buried fiber, and how is it protected?
+- How long can one fiber run across a big property be before it needs a splice or electronics partway?
+- The house is empty from fall until late spring — how does the link between buildings stay healthy with nobody there?
+- Guests change every week all summer — how do we stop them unplugging or resetting the network out at the pool house?
+- Our marina's gates, fuel dock and boat sheds sit on ground that floods — how does fiber reach them without the connections ending up underwater?
+- Does fiber work on a Suffolk property need a permit from the town, the village or the county?
+- Cameras Dark at the Far Building Today? (final repair heading)
+§17 FAQ:
+- Can you take on jobs that need a ferry, such as Shelter Island?
+- How can I tell whether a cable in my yard or basement is fiber, coax or old phone wire?
+- Who puts the lawn, irrigation and plantings back after a fiber trench?
+- Can your crew work under a research or industrial site's own safety and badge rules?
+- Can you look at a property before we close on it?
+- What happens to the fiber records if we sell the property?
+- Will a fiber trench interfere with our dog's buried electric fence?
+- Is there a charge for a site walk on the North or South Fork?
+De-dup notes: intents checked against the full register (NYC, Manhattan, Brooklyn, LI hub, HV hub) and against the in-progress batch siblings (Nassau, Staten Island). Dropped or re-angled because a sibling owns the intent: neighbours sharing a link (Nassau), testing another company's fiber (Nassau), owner/guest network separation (Nassau shop/apartments → re-angled to guest tampering), raised-house flood equipment placement (Staten Island → re-angled to marina facilities that cannot be raised), county licence question (Nassau → re-angled to permits), second provider/diverse path (Manhattan), provider arriving soon (HV), gatehouse/outbuilding worth it (LI), boathouse/dock (HV), seasonal scheduling and owner-on-site (HV), area pricing (LI), shared trench (LI), frost (HV), one feed for many units (Brooklyn).
+
+### Build checks (this builder)
+check_page --no-registration: only "live sibling X doesn't link back" lines remain (NYC, Manhattan, Brooklyn, LI, HV — main-run wiring). Full run adds sitemap, _redirects and hub-link-down lines. 12,491 rendered words; 181,034 bytes (≥3.1 KB from every fiber sibling incl. Nassau 204,444 / SI 202,088 at time of check). Masked block similarity max 0.620 (Staten Island), Brooklyn 0.608, NYC 0.599, Nassau 0.595 (difflib on geo-masked p/li/td/h3/figcaption blocks ≥12 words; stamp/warranty/consent/NAP excluded).
+
+### Question register additions (final, as shipped — main run 2026-10-17)
+fiber-optic-installation-suffolk-county
+§9 Questions Answered:
+- Our land is inside the Central Pine Barrens — can a fiber trench still be dug?
+- How is buried fiber kept away from plows, trellis posts and drainage on land we farm?
+- How does a fiber trench get past a septic tank, leaching pools and a private well?
+- Does Suffolk's sandy ground make a fiber trench easier or harder?
+- Do mice, voles or other burrowing animals chew buried fiber, and how is it protected?
+- How long can one fiber run across a big property be before it needs a splice or electronics partway?
+- The house is empty from fall until late spring — how does the link between buildings stay healthy with nobody there?
+- Guests change every week all summer — how do we stop them unplugging or resetting the network out at the pool house?
+- Our marina’s gates, fuel dock and boat sheds sit on ground that floods — how does fiber reach them without the connections ending up underwater?
+- Does fiber work on a Suffolk property need a permit from the town, the village or the county?
+§17 FAQ:
+- Can you take on jobs that need a ferry, such as Shelter Island?
+- How can I tell whether a cable in my yard or basement is fiber, coax or old phone wire?
+- Who puts the lawn, irrigation and plantings back after a fiber trench?
+- Can your crew work under a research or industrial site's own safety and badge rules?
+- Can fiber serve a greenhouse where the air stays hot and humid?
+- What happens to the fiber records if we sell the property?
+- Will a fiber trench interfere with our dog's buried electric fence?
+- Is there a charge for a site walk on the North or South Fork?
+
+Main-run de-dup notes (2026-10-17 batch staten-island/nassau/suffolk): replaced after collisions with pages shipped concurrently — Nassau "1990s multimode" (Queens/Rockland), "shop and apartments share one cable" (Queens), "payment handled" (Bronx deposit), "asbestos in older building" (Westchester/Bronx); Suffolk "look at a property before closing" (Bronx audit before buy/lease, Rockland pre-close test). Several captions/paragraphs rewritten to keep masked similarity < 0.65 vs Queens/Bronx/Westchester/Rockland/Orange.
