@@ -166,3 +166,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-douglaston-queens-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-country-club-bronx-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-great-kills-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-riverdale-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-todt-hill-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-greenwich-village-manhattan-ny | QUEUED
