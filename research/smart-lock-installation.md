@@ -2627,3 +2627,322 @@ Captions describe only what is visible; no customer, named building or completed
 Compared by meaning against every question on the 16 live smart-lock pages and the two batch siblings on disk (Bedford-Stuyvesant, Jackson Heights). Dropped during build: a door-ajar alert FAQ (same intent as Jackson Heights "Contractors keep propping the garden or service door open — can the door itself tell the super?"), an elevated-train signal Q (too close in framing to Jackson Heights' 7-train vibration Q — kept as a non-question H3 "Signal under the elevated tracks"), a language/instructions FAQ (Queens app-language Q), an employee-open-up audit Q (Suffolk), a roommate-own-codes Q (Manhattan), an auto-relock Q (Manhattan), a technician-travel-time FAQ (Manhattan), a pricing-parity FAQ (Bronx parent), a keep-original-hardware FAQ (Brooklyn). Partial overlaps left for the main run: Q7 roommate code removal vs Dutchess "wipe every old code between May move-out and move-in" (tenant vs landlord, mid-lease vs between leases); Q8 aide two-door access vs Queens "home attendant code only on those days" (lobby + apartment vs schedule); FAQ 3 TDPA (tenant's own lock) vs NYC hub "What does the TDPA change for an owner adding fob or app entry?" (different actor); Q2 entrance-door reporting vs Bronx Q6 DHCR rent cut (reporting route vs rent reduction).
 
 Masked-geo similarity (own check, paragraph-level difflib after removing geo names, warranty sentence, SMS consent and NAP/trust lines): highest pair vs any sibling 0.63 (vs Bronx parent); 5-gram Jaccard vs every sibling ≤ 0.024.
+
+
+## Throgs Neck, Bronx (smart-lock-installation-throgs-neck-bronx-ny)
+
+Page: `/smart-lock-installation-throgs-neck-bronx-ny` · neighbourhood spoke of `/smart-lock-installation-bronx` · phone (646) 490-0629 (body, CTAs, schema; (800) 486-0943 only in shared header chrome) · GBP Bronx (460 E Fordham Rd, schema `#bronx`) · Bronx ×1.00, prices copied from the Bronx page as-is.
+
+Thesis: **one peninsula, three kinds of ground under the door** — owned lots on the street grid (Schuylerville / central Throgs Neck / Locust Point), Edgewater Park co-op land (single zoning lot, co-op enforces own building guidelines) and Silver Beach leased sites (proprietary leases requiring permission for alterations) — plus waterside exposure (Edgewater floodplain vs Silver Beach bluff), storm doors in wind off the Sound, side doors on 2–5 ft side yards, basements, crowded 2.4 GHz Wi-Fi on 30×50 lots, owner/tenant/relative code plans, East Tremont Avenue shop rear/cellar doors.
+
+Tools: "Firecrawl search" = mcp__Firecrawl__firecrawl_search; "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query format, directQuote mode unless noted). All fetched 2026-10-17.
+
+### Local research log
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| TN1 | (direct) · Firecrawl scrape (markdown) | https://en.wikipedia.org/wiki/Throggs_Neck,_Bronx | Peninsula bounded by East River/LI Sound S+E, Westchester Creek W, Baisley Ave + Bruckner Expwy N; CD10; ZIP 10465; 45th Pct at 2877 Barkley Ave; one-G/two-G spelling (Moses legend); 1920s estates → row homes + densely built bungalow lots; Silver Beach Garden summer colony later year-round, residents owned houses but rented land; Hammond mansion later offices of Silver Beach Garden Corporation; streets named for flowers/trees of Hammond estate; Edgewater Park from church youth campsite; Throggs Neck Houses 1953, one of first low-income projects, expanded twice; up-market waterfront condominiums; several beach clubs; 45th Pct 2022: 108 burglaries, crime −67% 1990–2022; FDNY Engine 89/Ladder 50 at 2924 Bruckner Blvd, Engine 72 at 3929 E Tremont Ave; Throggs Neck post office 3630 E Tremont Ave; Bx8 to Locust Point via Williamsbridge Rd; Throgs Neck Landing ferry Dec 28 2021. | §5 paras 1–2, §5.5 (precinct), §7 Throggs Neck Houses + condo cards, §8 station-block card, beach clubs card, Q&A Q10 (burglary), §13 Silver Beach + Locust Point cards |
+| TN2 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx) | 60-acre co-op of 675 single-family homes near Throgs Neck Bridge, north of I-95, beaches on LI Sound; bungalow colony from campsites; co-op 1988; Edgewater Park Volunteer Fire Department one of nine volunteer FDs in NYC; ~40% in 1% floodplain; "Resiliency Neighborhood"; sister communities Silver Beach (south of I-95) and Harding Park. | §5 para 3, §13 Edgewater card (volunteer FD), Field Notes (which side of I-95) |
+| TN3 | `"Edgewater Park" Resilient Neighborhoods Department of City Planning Bronx bungalows zoning report` · Firecrawl search → scrape | https://www.nyc.gov/content/planning/pages/our-work/plans/bronx/edgewater-park | Private co-op, 55 acres, 675 single-family residences, ~3,000 residents; ~278 homes (just over 40%) in 1% floodplain; substantial number in V Zone (waves ≥3 ft); just under 100 in Coastal A; 167 in A Zone; most built before floodplain regulations; defined as a single zoning lot; co-op has own mechanisms regulating built environment. | §5 paras 3–4, §5.5 bullets 1–2, §7 Edgewater card, Ground Rules table, Q&A Q4, AI H3 2, flood-zone section, §13 card |
+| TN4 | same search · Firecrawl scrape (pdf) | https://www1.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/summary-report-edgewater-park.pdf | Side yards often 2–5 ft; eaves abut; considerable number of homes have basements; co-op strictly enforces own renovation guidelines; old height cap 25 ft above Bronx Datum / 27 ft above grade, amended; leadership removed bylaw prohibitions on covered porches, stair turns, plantings; case study roadbed width 12 ft; R4A. | §5 para 5, §5.5 bullet 3, Q&A Q1/Q2, door-by-door section (porch, side door, basement), Ground Rules caveat |
+| TN5 | same search · Firecrawl scrape | https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/ | Dec 4 2015: DCP report released Oct 29; co-op est. 1988, 55 acres, 675 homes on uniform lots typically 30×50 ft; built out to water's edge with small concrete promenade; bylaw height amendment; (states ~111 homes in flood zone — conflicts with DCP 278; DCP figure used). | §5 para 5, §5.5 bullet 3, Q1, §13 Edgewater card, Sources |
+| TN6 | same search · Firecrawl scrape | https://citylimits.org/sandy-resiliency-retrofits-nyc/ | Jul 1 2019: Edgewater impacted by Sandy; homes tightly packed, narrow roads; ~40% mandated to buy flood insurance; co-op removed bylaw stipulations on covered porches, planting, stair turns; DOB: since Sandy just one Edgewater property obtained elevation permits. | Flood-zone section intro, door-by-door (porch para) |
+| TN7 | `Silver Beach Gardens Corporation Bronx homes land lease shareholders bungalows number of homes` · Firecrawl search → scrape (pdf) | https://www.dta.ny.gov/pdf/archive/stc/Corp/1983/_0066.pdf | NYS Tax Commission decision (1983): Silver Beach Gardens incorporated Aug 30 1972; promontory ~100 ft above East River at confluence with LI Sound near Throgs Neck Bridge; summer colony of bungalows from turn of century, some first on stilts, now permanent, with basements, sewer-connected, winterized, year-round; historically ground rent; private system of roads; proprietary leases: bungalows "cannot be changed, modified or altered without the permission of Silver Beach Gardens"; maintenance fee. | §5 paras 2–4, §5.5 bullet 1, §7 Silver Beach card, Ground Rules table + caveat, AI H3 6, door-by-door (basements), flood-zone closing para, §13 card |
+| TN8 | `Throgs Neck Bronx neighborhood housing bungalows attached houses Silver Beach Edgewater Park Locust Point` · Firecrawl search → scrape | https://cityneighborhoods.nyc/silver-beach | Narrow curved lanes; Silver Beach Association manages maintenance/security (weak, unsourced site; also conflicts with Wikipedia on ownership) — **not used on page**. | Research only |
+| TN9 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Locust_Point,_Bronx | Small peninsular neighbourhood bounded by Harding Ave N, Throgs Neck Bridge E, Eastchester Bay; single-family houses; Locust Point Yacht Club occupies outermost block; formerly Locust Island, waterway filled; part of fill for bridge's northern ramp and toll plaza. | §7 Locust Point card, §8 beach/yacht club card, §13 Locust Point + bridge cards |
+| TN10 | `Furman Center Throgs Neck Co-op City` · Firecrawl scrape | https://www.furmancenter.org/neighborhoods/throgs-neck-co-op-city/ | Last updated 05/06/2026; latest homeownership 44.7%, population 65+ 19.2% (table year alignment ambiguous — page says "a little under half" and "roughly one in five"). District includes Co-op City. | §5.5 bullet 4, two-households section |
+| TN11 | `Throggs Neck Business Improvement District East Tremont Avenue businesses blocks` · Firecrawl search → scrape | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=76 | Throggs Neck BID: 3800 East Tremont Ave Suite 2F; established January 2019; 27 block faces; 281 ground-floor retail businesses. | §5.5 bullet 6, §8 East Tremont card |
+| TN12 | `Throggs Neck burglary 45th Precinct Bronx Times homes break-in back door 2025` · Firecrawl search → scrape | https://bronx.news12.com/2025/11/04/caught-on-camera-teens-break-down-door-of-throgs-neck-home/Sqf1zBv08mPKOUyVEUJYX | Nov 3 2025: teens caught on camera breaking down door of a Throgs Neck home (YouTube description: "kicking in his front door"); family reported to 45th Pct and shared video on the Ring app; neighbours said same teens targeted other homes. | Q&A Q9 (Ring), Q10 (security vs keys), AI H3 7 |
+| TN13 | same search · Firecrawl scrape | https://www.bxtimes.com/thieves-steal-over-7k-from-throggs-neck-deli/ | May 12 2020: Phillips Gourmet Deli, 45th Pct, ~3:50 a.m. May 1, two burglars forced open a basement door, ~$7,200 from two safes. | Q&A Q11 (cellar door) |
+| TN14 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Fort_Schuyler | Begun 1833, dedicated 1856; transferred to state 1934, dedicated to Maritime academy 1938; college founded 1874, one of 29 original SUNY schools 1948; NRHP 1976; Maritime Industry Museum 1986. | §13 Fort Schuyler card |
+| TN15 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Throgs_Neck_Bridge | Opened Jan 11 1961; six-lane suspension bridge by Othmar Ammann; 1,800 ft centre span; connects to Bay Terrace, Queens. | §13 bridge card |
+| TN16 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Ferry_Point_Park | 413.8 acres; west part opened 1940 after Bronx–Whitestone Bridge; east side landfill (1952–1970), golf course opened 2015; NYC Ferry service Dec 28 2021. | §13 Ferry Point card |
+| TN17 | `smart lock fingerprint reader wet fingers not recognized manufacturer support dry finger` · Firecrawl search (excerpt) | https://www.kwikset.com/support/answers/why-isn-t-my-fingerprint-pad-working | "Remove any excess lotion, sweat, or debris from your fingers. If your fingers are very dry, try rubbing them together or lightly moisturizing before use." | Q&A Q7, AI H3 4 |
+| TN18 | `NEMA evaluating water-damaged electrical equipment flood replace electronic devices exposed to water` · Firecrawl search (excerpts) | https://www.nema.org/docs/default-source/secure-document-library/nema-gd-1-2016-evaluating-water-damaged-electrical-equipment-guide.pdf ; https://www.esfi.org/water-damaged-electrical-equipment/ | NEMA GD-1: saltwater residue particularly damaging (corrosive and conductive); electronic products incl. signaling/protection systems damaged by water → replace components or return to manufacturer. ESFI: batteries among water-damaged equipment that must be replaced. | Q&A Q4 (post-surge), flood-zone section |
+| TN19 | `FEMA homeowner's guide to retrofitting flood shields doorways dry floodproofing residential removable` · Firecrawl search (excerpts) | https://basc.pnnl.gov/information/design-and-retrofit-flood-protection ; https://www.cedengineering.com/userfiles/S06-005%20-%20A%20Guide%20to%20Dry%20Floodproofing%20Homes%20-%20US.pdf | DOE Building America Solution Center: dry floodproofing strategy "Install shields to cover openings such as doors and windows". CED: dry floodproofing not allowed by FEMA for new or substantially improved/damaged residential structures in floodplain. | Q&A Q5 (flood-shield tracks) |
+| TN20 | `Ring Neighbors app posting videos is optional user chooses to share; smart lock events shared` · Firecrawl search (excerpts) | https://ring.com/neighbors ; https://ring.com/privacy | "Only content that a Neighbors user chooses to share on the Neighbors App is publicly accessible"; Shared Users share device access without sharing login credentials. | Q&A Q9 |
+| TN21 | `NYC Department of Buildings work not requiring a permit ordinary repairs replacement of door hardware locks 28-105.4` · Firecrawl search (gov) → scrape | https://nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-alt-1-2-family-mixed-use.page ; https://nyc.gov/site/buildings/property-or-business-owner/do-i-need-a-permit.page | Minor alterations/ordinary repairs (AC 28-105.4.2) exempt from permit; no explicit mention of door locks; DOB notes home-improvement contractors must hold DCWP HIC licence. **Not used on page** (would raise a licensing question — see FLAGS). | Research only |
+
+Reused from research/smart-lock-installation.md (not re-fetched): Schlage Encode 2.4 GHz requirement + factory reset removes all codes/virtual keys (O5); August Connect within 10–15 ft; Yale Smart Keypad IP55; 2022 NYC BC §1010.1.9 (SI6); 2010 ADA operable parts 34–48 in; HMC §27-2043 key lock + one key (B7); MDL §4 (3+ families = multiple dwelling) (SI11); Tenant Data Privacy Act / HPD page (B11); LawnStarter national $330 avg / $200–$460 / labor $50–$110; Fixr Jan 2025 $250–$400 avg ~$300.
+
+### EMPTY (not accessible in build env / not found)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: `EMPTY (not accessible in build env)`. §10.5 says so and corrects published national/retail claims instead.
+- Reddit (r/bronx, Throgs Neck locks): query `reddit Throgs Neck Bronx smart lock OR keypad OR locksmith house` · Firecrawl search → only locksmith ad sites and a Yelp search page; no Reddit threads. `EMPTY`.
+- Yelp 1–3★ for Throgs Neck locksmiths/smart-lock installers: search page excerpt only (https://www.yelp.com/search?find_desc=24+Hour+Locksmith&find_loc=Throgs+Neck...), no reviews readable → `EMPTY (not accessible in build env)`.
+- NYT 2009 "Living In: Edgewater Park and Silver Beach Gardens": Firecrawl scrape refused ("we do not support this site") → `EMPTY (not accessible in build env)`; NYT 1973 "A Bronx Neighborhood Turns Co-op" excerpt only (400 homeowners, 30×60 plots) — not used.
+- Wikipedia "Silver Beach, Bronx" redirects to Throggs Neck; "Throggs Neck Houses" article 404 → `EMPTY`.
+- Published Edgewater Park or Silver Beach rule naming door locks: not found → page says so explicitly.
+- Local news on smart locks in Throgs Neck specifically: none found → `EMPTY`.
+- Google Drive `AESS Website Photos/Smart Lock Installation`: EMPTY (per batch brief); CompanyCam not connected.
+
+### Prices used (copied from smart-lock-installation-bronx.html as-is; Bronx ×1.00; none invented)
+| Figure | Scope |
+|---|---|
+| $1,500–$2,500 installed | single-door keypad or fob reader with electric strike |
+| $250–$450 | new electric strike on an entrance door |
+| $295–$485 | failed electric strike repair |
+| $225 first hour, then 30-min blocks | setup-only visit (app/bridge/codes) — carried over from the Bronx page, which flagged it for confirmation |
+| $195/hr, 3-hr min ($585) | service/callback, never on the install visit |
+| House-door smart lock | no AESS figure → "Quoted flat at free walkthrough" |
+| LawnStarter / Fixr | national third-party, labelled as such |
+
+## Images (11)
+Step C (library): 11 of the 18 real AESS photos in `images/smart-lock-installation/aess-smart-lock-installation-*.webp`, each viewed, copied with `cp` (already WebP). Rejected after viewing: `video-doorbell-and-smart-lock` (house number "128" visible), `showing-customer-app-unlock` (customer's face in profile). Note: several of these library photos look AI-rendered (perfect logos, staged light) — same caveat as earlier smart-lock and soundbar runs; flag for Anwar.
+
+| Source (aess-smart-lock-installation-…) | New file (smart-lock-installation-throgs-neck-bronx-…) | What is visible | Section |
+|---|---|---|---|
+| suburban-front-door-smart-lock-van | fastening-strike-keypad-deadbolt-van | Tech in AESS cap/polo driving a screw at the strike edge of a dark front door with black keypad deadbolt + handleset; AESS van and houses behind | Hero (eager) |
+| checking-lock-status-in-app | checking-locked-status-in-app | Tech holding phone showing "Locked" beside keypad deadbolt on wood door | Instant action block |
+| removing-old-brass-deadbolt | removing-old-brass-deadbolt | Tech unscrewing old brass deadbolt from wood door, bore exposed | §5 Neighborhood |
+| measuring-door-bore-for-deadbolt | measuring-door-bore-backset | Tech measuring backset with tape at an empty bore | §6 Services |
+| checking-latch-bolt-alignment | checking-latch-bolt-alignment | Tech pointing at latch/strike on wood door with keypad deadbolt | §7 Architecture |
+| keypad-exterior-thumbturn-interior-view | keypad-outside-thumbturn-inside | Split image: exterior keypad entry / interior thumb-turn | Ground Rules |
+| connecting-interior-unit-cable | connecting-interior-unit-cable | Tech connecting ribbon cable into interior unit | §8 Commercial |
+| fingerprint-unlock-demo-app | fingerprint-unlock-app-confirmation | Finger on reader, tech holding phone "Fingerprint Unlocked" | Q&A |
+| replacing-smart-lock-batteries | replacing-smart-lock-batteries | Tech loading AA batteries into interior unit | AI Reality Check |
+| programming-access-code-app | programming-access-code-app | Tech entering code on keypad with "Add Access Code" in app | §13 Landmarks |
+| servicing-keypad-wiring | servicing-keypad-wiring | Tech with lock halves open, keypad wiring exposed | §14 Pricing |
+
+DAILY-LOG note: `images: 11 real AESS smart-lock photos from images/smart-lock-installation/ (library, renamed copies; Drive empty, CompanyCam not connected)`.
+
+## Question register — smart-lock-installation-throgs-neck-bronx-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 12)
+1. With a dozen neighbors' Wi-Fi networks packed into our bungalow lane, will the lock keep dropping offline?
+2. Our side door opens onto a passage barely two feet wide — is a keypad even sensible there?
+3. Does a keypad on the front door tell people walking the lanes that there is something worth taking?
+4. Salt water reached our lock in a storm surge — can it be dried out, or does it have to be replaced?
+5. We fitted tracks for removable flood shields either side of the front door — will a keypad and handle still clear the barrier?
+6. Wind off the Sound keeps slamming our storm door — will that knock the smart lock out of adjustment?
+7. The kids come back from the beach with wet, sandy hands — will a fingerprint reader still let them in?
+8. Mom set up the smart lock and has since passed away — how do we take control of it without her password?
+9. Neighbors post doorbell clips on the Ring Neighbors app — if our lock is linked to the same account, what do they see?
+10. Burglary is fairly low in the 45th Precinct — is a smart lock about security here, or about keys?
+11. A Throggs Neck deli was burgled through a forced basement door — what should our shop do about its own cellar door?
+12. Our shop's steel back door has a push bar on the inside — can a keypad go on the outside without taking the bar off?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Is a Throgs Neck job priced any differently from the rest of the Bronx?
+2. If a code leaks while we are out at work, can we change it from the phone?
+3. If a coastal storm is forecast for our appointment day, will you reschedule?
+4. Will drilling our door disturb the family on the other side of the party wall?
+5. Our front door has a dog flap cut into it. Does that weaken a smart lock?
+6. How many physical keys do we end up with, and where should they go?
+7. Do you fix smart locks that a handyman or another company installed?
+8. Will you help register the lock's manufacturer warranty in our name?
+
+### Other question-form headings
+- H2 "Ready to Price Your Throgs Neck Door?" (mid CTA 2)
+- Repair captures are non-question headings ("Throgs Neck Smart Lock Dead, Jammed or Crusted With Salt"; "Locked Out of a Throgs Neck House or Shop? Call Before Anyone Drills" — the latter ends in "Drills", not "?").
+
+### De-dup notes
+- Checked by meaning against all 16 area/hub pages and the batch-mates on disk (Todt Hill, Chelsea). Replaced during build: FAQ "Can your van get into the private lanes…" (same intent as Todt Hill "Our road is private and gated — what do you need from us so the van reaches the house?") → remote code change FAQ; Q "alarm company responders used to carry a key" (close to Todt Hill "private patrol … hold a code?") → panic-bar exit-device Q.
+- Deliberately not asked (already in register): co-op permission for a lock (Bronx Q13), storm door which-door/clearance (Queens Q12, LI Q8), salt finish (LI, Suffolk, SI), raised house after Sandy (SI), kick-in frame (Nassau), volunteer fire company entry (Ulster), summer-bungalow thin door (Putnam), tenant two-family law (Bronx, Brooklyn), DCWP/HIC licence (LI analogue).
+- Partial overlaps for the main run to judge: Q7 wet-finger fingerprint vs Todt Hill "children unlock with a fingerprint instead of a code" (different intent: reliability with wet/sandy hands vs credential choice); Q4 post-surge replacement vs Chelsea "controller … in a space that took water in 2012" (placement vs recovery); FAQ 1 pricing vs other geo pricing FAQs (by design).
+- Max masked paragraph similarity (difflib, ≥20-word blocks, protected warranty/consent text excluded): 0.514 vs smart-lock-installation-nyc; 0.51 vs -bronx; 0.50 vs -chelsea-manhattan-ny.
+
+
+## Todt Hill, Staten Island (smart-lock-installation-todt-hill-staten-island-ny)
+
+Built 2026-10-17. Up-link /smart-lock-installation-staten-island; direct line (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn). Prices copied as-is from smart-lock-installation-staten-island.html (×1.10 already applied there): $1,650–$2,750 keypad/fob reader + strike; strike $275–$495; strike repair $325–$534; setup-only $225 first hour; callback $195/hr 3-hr min ($585). Residential locks "quoted flat at walkthrough". No new prices.
+
+Thesis: "plan from the gate inward" — serpentine-ridge estates on private, unlit roads behind gates; heavy/mortise/multipoint/pivot entry doors; houses stepping down steep SNAD lots (garage/walk-out levels, pool houses, carriage houses far from the router); large households with staff, service companies and patrols needing per-door, per-person codes; landmark houses (Flagg, Gillett-Tyler) where inside-only retrofits come first; 2026 crowbar/key-fob burglary warnings (lock ≠ armour; door-position sensors, strikes, fob storage).
+
+### Local research log (exact query · platform · URL · finding · page+section used)
+
+| # | Query · platform | URL | Finding | Used on page |
+|---|---|---|---|---|
+| T1 | (direct fetch) · WebFetch | https://en.wikipedia.org/wiki/Todt_Hill,_Staten_Island | 401 ft (Wikipedia figure); most streets incl. Todt Hill Rd lack sidewalks; buses S74/S76/S84/S86 + SIM15 on Richmond Road; Ernest Flagg houses; Moravian Cemetery 1740; Staten Island Academy moved to hill 1960s; census tract SI0203 (Todt Hill–Emerson Hill–Lighthouse Hill–Manor Heights) 2020: pop 32,822, 10,623 households, 32.7% with children <18, largest age group 55–74 (24.9%), 30.3% renter-occupied. Notable-resident/mob/Godfather content deliberately NOT used. | §5 neighbourhood paras 2, §5.5 stats (households, children, age, renter → 69.7% owner-occupied derived), Sources |
+| T2 | `Todt Hill Staten Island Special Natural Area District zoning large lots homes` · WebSearch → Firecrawl scrape | https://zoningresolution.planning.nyc.gov/node/20953 | ZR §105-941 SNAD-1: "Emerson Hill, Dongan Hills, Todt Hill and Lighthouse Hill … central, serpentine, hilly spine … steep slopes, rock outcrops, erratic boulders and ponds … many trees". | §5 para 3, §5.5, "Gate Keypads on the Serpentine Ridge" section, Sources |
+| T3 | same · WebFetch | https://www.nyc.gov/assets/planning/download/pdf/plans/special-natural-area-district/snad.pdf | SNAD created 1975; protects rock outcrops, trees/forests, wetlands/water, steep slopes; CPC authorisation "when the applicant seeks to modify a significant natural feature". Driveways not named as requiring authorisation by themselves. Page says AESS is not the authority, owner should check. | Ridge/gate section para 2–3, Sources |
+| T4 | `"Special Natural Area District" NA-1 Staten Island Greenbelt Todt Hill Emerson Hill Grymes Hill` · WebSearch | https://www.nyc.gov/site/planning/zoning/districts-tools/special-purpose-districts-citywide.page | EMPTY (redirect page, no content). | — |
+| T5 | `Ernest Flagg Estate Todt Hill Landmarks Preservation Commission designation Stone Court Flagg Place cottages` · WebSearch → WebFetch | https://hdc.org/buildings/ernest-flaggs-todt-hill-cottages-wallcot/ | Wallcot, 285 Flagg Place, 1918–21, mosaic rubblestone, designated individual landmark; Flagg built small stone houses on Stone Court grounds. | §7 Flagg-era card, Landmark Doors section, §13 card, Sources |
+| T6 | same · WebFetch | https://hdc.org/buildings/stone-court-site-of-the-ernest-flagg-house/ | Stone Court, 209 Flagg Place; mansion, gatehouse and gate fieldstone; designated individual landmark (page gives inconsistent dates — no date used). | §7, Landmark Doors, §13 card |
+| T7 | `Landmarks Preservation Commission permit required work on designated individual landmark exterior …` · WebSearch → WebFetch | https://zh.nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property/apply | LPC permit "before doing any work"; CNE / PMW (no fee, e.g. replacing windows or doors) / CofA; simple repairs & maintenance need no review. | Landmark Doors section, AI reality H3 6, Sources |
+| T8 | `"Todt Hill" Staten Island living in neighborhood homes acre gated estates …` · WebSearch → WebFetch | https://s-media.nyc.gov/agencies/lpc/lp/2231.pdf | Gillett-Tyler House, 103 Circle Road, built c.1846 Enfield MA, moved 1931, designated Oct 30 2007; Todt Hill summit 409.8 ft, highest natural point on eastern seaboard Maine–Florida; Cromwell and Flagg estates later subdivided. | Hero ("about 410 feet"), §5 para 1, §5.5, §7, §13 card, Landmark section, Sources |
+| T9 | same query · WebFetch | https://www.brickunderground.com/buy/todt-hill | Apr 24 2017: median $1.725M (Jonathan Miller); 13,155 sq ft house on Benedict Rd pictured; "gargantuan cast iron gates"; private roads; "most streets on Todt Hill do not have sidewalks or street lights"; no buses up the hill; Richmond County Country Club. Castellano/Godfather lines not used. | §5 para 2, §5.5, §9 gate Q2, §13 club card, Sources |
+| T10 | `R1-1 district "Todt Hill" 9,500 square feet lot 100 feet wide` · Firecrawl search | https://www.realestatesiny.com/new-york-city-residential-zoning-code-r-1-1.php (excerpt) ; https://zr.planning.nyc.gov/article-ii/chapter-3 (excerpt: "lot area of at least 9,500 square feet and lot width of at least 100 feet") | Broker page names Todt Hill as R1-1 example; ZR excerpt gives 9,500 sq ft / 100 ft benchmark. Excerpts only — page words it as "the usual example given" and "benchmark", not a statement that every lot is R1-1. | §5 para 3, Sources |
+| T11 | `Todt Hill burglary homes Staten Island police 2024 OR 2025 silive` · WebSearch → WebFetch | https://www.statenislandusa.com/news/be-vigilant-borough-president-fossella-law-enforcement-detail-spate-of-luxury-car-home-break-ins | Feb 12 2026: Feb 1–9 pattern in Todt Hill and Dongan Hills; suspects allegedly use crowbars on windows to enter homes and vehicles; advice: take keys out of vehicles, lock vehicles. | §5 para 6, §9 break-in Qs, §10.5 H3 4, Sources |
+| T12 | same · WebFetch | https://hoodline.com/2026/02/nypd-hunts-for-trio-suspected-in-staten-island-burglary-spree/ | Feb 1 2026 New Dorp/Dongan Hills/Todt Hill: crowbar on window frame; Range Rover key fob + ~$60 taken, car stolen; back door approached with crowbar. | §5 para 6, §9 fob Q, Sources |
+| T13 | same · WebFetch | https://www.cbsnews.com/newyork/news/new-burglarly-patterns-hit-wealthy-staten-island-neighborhoods/ | Oct 13 2011 burglary pattern Todt Hill, Emerson Hill, Grymes Hill; no entry method detailed. | §5 para 6, Sources |
+| T14 | (reused from borough page research) CBS New York June 2022 Todt Hill break-in, stone through back-door glass | (see research/smart-lock-installation.md Staten Island section) | Mentioned in one clause only. | §5 para 6, §10.5 H3 4 |
+| T15 | (direct fetch) · WebFetch | https://en.wikipedia.org/wiki/Moravian_Cemetery | 2205 Richmond Road; opened 1740; 113 acres; Vanderbilt mausoleum by Richard Morris Hunt (1885–86), Olmsted landscaping; designated 2016 (mausoleum + portions). | §13 card, Landmark section |
+| T16 | (direct fetch) · WebFetch | https://en.wikipedia.org/wiki/Staten_Island_Greenbelt | 2,800 acres; second-largest park after Pelham Bay; High Rock, LaTourette, Willowbrook parks; Nature Center 700 Rockland Ave. (Greenbelt article gives 410 ft for Todt Hill; LPC 409.8 used.) | §5.5, §13 card |
+| T17 | (direct fetch) · WebFetch | https://en.wikipedia.org/wiki/Staten_Island_Academy | Chartered 1884; 715 Todt Hill Road; 14-acre campus. | §13 card |
+| T18 | `Alexa unlock door voice code required smart lock unlock by voice PIN Google Assistant` · WebSearch → WebFetch | https://service.eufy.com/article-description/Smart-Lock-C34-E30-How-to-Use-Voice-Commands-to-Unlock-Smart-Lock-with-Amazon-Alexa-or-Google-Assistant | Google Assistant: 4-digit security code mandatory for every voice unlock; Alexa "may" require a voice PIN. | §9 voice Q, §10.5 H3 7 |
+| T19 | Silo-wide technical sources reused (not re-fetched): Schlage Encode/Encode Plus specs (door 1-3/8–1-3/4", 2.4 GHz Wi-Fi), Yale Assure Lock 2 spec sheet (door to 2-1/4"), Allegion door-prep, August Connect 10–15 ft, Yale Matter FAQ (border router ~50 ft / 25 ft), Bold Thread explainer, Ring lock/alarm article (Ring-app codes only, subscription), August mortise kit (SlashGear 2017), Fixr national $250–$400 avg $300, Homewyse, NYC BC 2022 §1010.1.9 / §1010.1.9.5, New Dorp BID facts | research/smart-lock-installation.md silo sections | as recorded there | §7.5, §9, §10, §10.5, §14, §8 |
+| T20 | Reddit (r/statenisland) / Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are claims published by cost sites/manufacturers, stated as such on the page. | — |
+| T21 | Local news on smart locks specifically on Todt Hill (SI Advance/silive, Patch) | — | EMPTY — no smart-lock-specific local item found; burglary reports used instead (T11–T14). | — |
+| T22 | Door hardware specific to Todt Hill houses (mortise/multipoint/pivot prevalence) | — | No source found → page describes these only as door types we check for, no prevalence statistic claimed. | §7, §9 |
+
+## Images (11)
+
+Source: Step C library (`images/smart-lock-installation/aess-smart-lock-installation-*.webp`); Drive folder empty and CompanyCam not connected (per main run). Each image viewed before use. Two suggested photos swapped out: `video-doorbell-and-smart-lock` (house number "128" visible) and `showing-customer-app-unlock` (customer's face in profile) → replaced by `checking-lock-status-in-app` and `servicing-keypad-wiring`. Library images look AI-rendered (identical uniform patches, generic suburban settings) — needs Anwar's review.
+
+| Source file | New file | What is visible |
+|---|---|---|
+| aess-…-suburban-front-door-smart-lock-van.webp | smart-lock-installation-todt-hill-staten-island-keypad-deadbolt-front-door-van.webp | Technician driving a strike screw beside a black keypad deadbolt on a black glass-panel door; AESS van at curb |
+| aess-…-programming-access-code-app.webp | …-adding-access-code-in-app.webp | Technician entering a 6-digit code in app, finger on backlit keypad, wood-grain door |
+| aess-…-fingerprint-unlock-demo-app.webp | …-fingerprint-unlock-app-confirmation.webp | Finger on fingerprint pad; phone shows "Fingerprint Unlocked" |
+| aess-…-servicing-keypad-wiring.webp | …-opening-keypad-harness-repair.webp | Gloved technician holding removed keypad, probing harness; batteries in tool bag |
+| aess-…-measuring-door-bore-for-deadbolt.webp | …-measuring-bore-wood-door.webp | Tape measure from door edge to empty bore on thick stained wood door |
+| aess-…-removing-old-brass-deadbolt.webp | …-removing-old-brass-deadbolt.webp | Technician unscrewing worn brass deadbolt; two brass faceplates on edge |
+| aess-…-checking-latch-bolt-alignment.webp | …-checking-strike-bolt-alignment.webp | Technician pointing at bolt/strike on frame; black keypad + lever on wood-grain door |
+| aess-…-keypad-exterior-thumbturn-interior-view.webp | …-keypad-outside-thumbturn-inside.webp | Two-panel image: outside keypad / inside thumb-turn |
+| aess-…-checking-lock-status-in-app.webp | …-checking-locked-status-app.webp | Phone showing "Locked" beside backlit keypad on wood door |
+| aess-…-connecting-interior-unit-cable.webp | …-seating-interior-unit-cable.webp | White ribbon cable pressed into interior unit connector, indoors |
+| aess-…-replacing-smart-lock-batteries.webp | …-replacing-lock-batteries.webp | AA batteries going into interior unit on dark door |
+
+Alt/title/caption describe only what is visible + "Todt Hill, Staten Island"; none claims a local customer, named house or completed local job.
+
+## Question register — smart-lock-installation-todt-hill-staten-island-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Can a guest's code open the driveway gate and the front door, or do they need two?
+2. When nobody is home, how should a courier or guest get from the closed gate to the front door?
+3. If the power fails, does an electric gate stay locked or swing free, and how does the car get in?
+4. Our front door has a mortise lockset where one handle works both the latch and the deadbolt — can a motor drive that?
+5. We have a tall pivot front door with no room for a standard deadbolt — what goes on it?
+6. Can a smart lock take a high-security key cylinder so the override key can't be copied at a hardware counter?
+7. Our mesh Wi-Fi uses one network name for both bands — why won't the lock join, and what fixes it?
+8. How many locks can one bridge or Thread network carry in a house with eight or nine doors?
+9. Should a voice assistant ever be allowed to unlock our doors?
+10. Should staff use the service door rather than the front door — and can the locks enforce that?
+11. Our private patrol checks the house while we travel — should the patrol company hold a code?
+12. Should unlocking the mudroom door also disarm the alarm?
+13. Thieves on the hill have pried at back doors with crowbars — will a smart lock warn us if a door is forced?
+14. Where should the car key fobs live now that break-ins here have targeted them?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. Does a big house on the hill cost more per door than a smaller house elsewhere on the island?
+2. How far ahead should we book when the property has eight or more doors and a gate?
+3. Our road is private and gated — what do you need from us so the van reaches the house?
+4. Can the pool house or cabana get a keypad so guests can use it without going through the main house?
+5. Can our children unlock with a fingerprint instead of remembering a code?
+6. Is there a way to pause staff and service codes while we are away and turn them back on when we return?
+7. Will fitting a lock mark or scratch a stained hardwood door?
+8. Can you take down an old keypad or intercom box that a previous owner left on the gate pillar?
+9. What do you leave behind so a house manager can run the system without calling us?
+
+### Other question-form headings
+- Gate Keypad Dark or Entry Lock Jammed on Todt Hill? (repair capture)
+- Shut Out at Your Own Gate or Door on Todt Hill? (final repair block)
+
+### De-dup notes
+Avoided as questions because siblings already hold the intent: thick door beyond listed range (HV), historic-district approval for a keypad (HV/Brooklyn — covered as body text in "Landmark Doors" section instead), cable to driveway keypad under land rules (Putnam — covered as body text in ridge section), multipoint lock (Westchester — body text only), shared garage code among contractors (Westchester), caretaker leaving (Dutchess), elderly-parent emergency entry, insurance history export, garage-door app.
+
+
+## Chelsea, Manhattan (smart-lock-installation-chelsea-manhattan-ny)
+
+Built 2026-10-17 by the Chelsea builder subagent (batch: Chelsea, Throgs Neck, Todt Hill). Neighbourhood spoke of /smart-lock-installation-manhattan. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (929) 560-0737; (800) 486-0943 only in the shared header chrome. Prices copied as-is from smart-lock-installation-manhattan.html (no new multiplier, nothing invented).
+
+Thesis / lane: Chelsea's door stock changes block by block — (1) 1830s–50s Greek Revival/Italianate rowhouses in the Chelsea HD (1970) and Extension (1981), where LPC rules allow a historic door to be replaced only when beyond reasonable repair, so the lock must suit the existing door (door survey, reuse bores, inside-only retrofit, owner's LPC file); (2) tenement walk-ups on the avenues; (3) very large complexes — London Terrace (1930, co-op + rental under one roofline) and Penn South (limited-equity co-op, 2,820 units); (4) NYCHA Fulton/Elliott-Chelsea redevelopment; (5) West Chelsea HD warehouses (2008), galleries (Tue–Sat hours, Thursday/Friday openings), keyed-elevator lofts, frameless glass doors, fail-secure strikes, Sandy flood height for electronics; (6) scaffolding/FISP periods. Deliberately avoids the borough page's lanes (doorman platforms, pied-à-terre, LL18 short stays, Midtown suites, W 21st St lockboxes, cast-iron SoHo storefronts) and other silo pages' intents (see De-dup notes).
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (markdown or query/directQuote mode).
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| C1 | `Chelsea Historic District Extension Landmarks Preservation Commission designated rowhouses West 20th 21st 22nd Street` · Firecrawl search → Firecrawl scrape | https://www.hmdb.org/m.asp?m=135160 | Marker (434 W 23rd St): Chelsea developed 1830s–1850s largely by Clement Clarke Moore; "unusually uniform and elegant residential neighborhood in Greek Revival and Italianate styles"; General Theological Seminary built 1825–1902 (Ninth Ave facade 1960), full block Ninth–Tenth Aves, W 20th–21st, land donated by Moore; Cushman Row 406–418 W 20th; photo caption "The former General Theological Seminary, now apartments." | §5 para 2, §7 cards, §13 GTS card, sources, schema mentions |
+| C2 | same search (excerpt) | http://s-media.nyc.gov/agencies/lpc/lp/1088.pdf | Extension report excerpt: only Second Empire rowhouses in the Extension are 305–311 W 22nd St. Not used beyond confirming the Extension. | background |
+| C3 | same search → Firecrawl scrape (query) | https://chelseacommunitynews.com/2020/07/03/save-chelsea-plan-proceeding-determines-to-extend-the-chelsea-historic-district/ | July 3 2020: Save Chelsea proposal; original 1970 designation, 1981 extension, 2008 West Chelsea; of 113 buildings proposed, 67 rowhouses, 17 tenements. | §5, sources (tenement/rowhouse mix) |
+| C4 | Firecrawl scrape (query) of https://en.wikipedia.org/wiki/Chelsea_Historic_District (redirects to Chelsea, Manhattan) | https://en.wikipedia.org/wiki/Chelsea,_Manhattan | Boundaries ~14th St to upper 20s/34th St, Sixth Ave to Hudson; HD designated 1970, extension 1981 (NRHP 1977/1982); "mix of tenements, apartment blocks, two city housing projects, townhouses, and renovated rowhouses"; over 200 galleries; CD4/CD5; 10th Precinct. | §5 para 1, stats, sources, schema about |
+| C5 | `Cushman Row 406-418 West 20th Street Greek Revival 1839-40 iron pineapples Chelsea` · Firecrawl search → Firecrawl scrape (query) | https://villagepreservation.org/2021/03/14/beyond-the-village-and-back-cushman-row-408-418-west-20th-street/ | Cushman began 1839, done by 1840; houses set 10 ft back, iron fences and gates with anthemia/palmettes; stoops with candelabrum newels; basement entrances recessed under steps; "deep brownstone temple-like entryway enframements"; noted with Washington Square North as finest Greek Revival row. | §5 para 2, §13 Cushman card, door survey section, glossary |
+| C6 | `Landmarks Preservation Commission rules 63 RCNY 2-11 entrance doors intercom buzzer panel installation criteria` · Firecrawl search (gov) → Firecrawl scrape (query) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-90026 | 63 RCNY §2-14(e): new windows/doors may be approved if they match original/historic in details, materials, operation, configuration, finish; "Historic doors may be replaced only if they are deteriorated beyond reasonable repair, as described in a condition assessment." | §5 para 2, §7.5, §9 Q1, §10.5 H3 1–2, glossary, sources |
+| C7 | `nyc.gov LPC permit types "Permit for Minor Work" "Certificate of No Effect" "Certificate of Appropriateness" staff level 95 percent` · Firecrawl search (excerpt) | https://www.nyc.gov/site/lpc/applications/permit-types.page | Three permit types; "95% of LPC's permit approvals are issued at staff level and do not require full review by the Commission at a public hearing." | §8.5, §9 Q2, glossary, sources |
+| C8 | `LPC "do I need a permit" ordinary repairs maintenance hardware intercom …` · Firecrawl search (excerpt) | https://precisionwindowsnj.com/blog/lpc-window-replacement-nyc-landmark-districts | Secondary: PMW vs CNE distinction (DOB permit), PMW 20 working days / CNE 30. Background only; not cited on page. | background |
+| C9 | reused from silo research (Manhattan M11) | https://noho.nyc/wp-content/uploads/2025/07/Storefronts_in_HD_Flyer_Updated.pdf | Repairing/replacing hardware (knobs, hinges, handles) does not need LPC approval; most door work does. | §9 Q2, §10.5 H3 2, sources |
+| C10 | `West Chelsea Historic District 2008 designation warehouses galleries High Line …` · Firecrawl search → Firecrawl scrape (query) | https://www.citylandnyc.org/landmarks-considers-west-chelsea-district/ | Seven blocks W 25th–28th Sts, West Side Hwy to Tenth Ave; brick industrial buildings from 1885 (Otis Elevator, Cornell Iron Works); NY Terminal Warehouse Co. Central Stores = 25 interconnected brick buildings, 1.2M sq ft, full block W 27th–28th; designated unanimously July 15 2008. | §5 para 4, stats, §8 Terminal card, §13 card, sources, schema mentions |
+| C11 | same search (excerpt) | https://www.facebook.com/nylandmarks/videos/terminal-warehouse-261-11th-avenue-manhattanwest-chelseas-terminal-warehouse-has/1342289067841934/ | NY Landmarks Conservancy: Terminal Warehouse, 261 11th Ave, "converted from storage space into a work and retail…" | §8 Terminal card |
+| C12 | `London Terrace Chelsea 1930 apartments …` · Firecrawl search → Firecrawl scrape (query) | https://en.wikipedia.org/wiki/London_Terrace ; https://www.cityrealty.com/nyc/chelsea/london-terrace-towers-465-west-23rd-street/3714 ; https://londonterracetowers.com/about/ | ~1,700 apartments, 14 contiguous buildings of 17–19 stories, Olympic-sized pool; first buildings opened May 1930; run as two organisations — London Terrace Towers (co-op, Douglas Elliman) and London Terrace Gardens (rental, Rose Associates), internal connections largely closed off; whole block Ninth–Tenth Aves, 23rd–24th Sts (CityRealty); "1665 apartments" (LTT site). | §5 para 3, stats, §7 card, §9 Q6, §13 card, sources |
+| C13 | `Penn South co-op Chelsea 2,820 apartments limited-equity ILGWU 1962 …` · Firecrawl search → Firecrawl scrape | https://www.pennsouth.coop/faq-general-information-about-penn-south.html ; https://www.pennsouth.coop/penn-south-history.html (excerpt) | Eighth–Ninth Aves, 23rd–29th Sts; limited-equity co-op under HPD supervision; no profit on resale; 2,820 units, close to 5,000 residents; 15 buildings, 21 residential floors, two elevators each; own co-generation plant (electricity, heat, cooling); history excerpt "May 19, 1962". (Wikipedia says ten 22-storey buildings — official site used.) | §5 para 3, stats, §7 card, glossary, §13 card |
+| C14 | https://www.pennsouth.coop/security.html · Firecrawl scrape | — | EMPTY (not accessible in build env — redirects to resident login). Penn South lock/door rules not found; page states none. | — |
+| C15 | `"Penn South" apartment door lock key fob shareholders rules alteration` · Firecrawl search → Firecrawl scrape (query) | https://www.pennsouth.coop/uploads/8/2/7/5/82753010/ps-annual-reports-2023.pdf | Capital-projects table lists "Door Lock Monitoring System" with $0 in FY2022–24. Not used (no usable rule). | — |
+| C16 | same search → Firecrawl scrape (query) | https://chpcny.org/wp-content/uploads/2021/04/Fulton-Elliott-Chelsea-RFP.pdf | 2021 NYCHA PACT RFP: Chelsea Houses 425, Chelsea Addition 96, Elliott 608, Fulton 944 = 2,073 units. Not cited (superseded by C17 figures). | background |
+| C17 | `Fulton Elliott-Chelsea Houses demolition rebuild Related Essence 2026 news tenants` · Firecrawl search (excerpts) | https://www.nyc.gov/site/nycha/about/pact/chelsea-fulton.page ; https://www.thecityreporter.nyc/2026/09/21/nycha-fulton-elliott-chelsea-holdouts-manhattan/ | NYC.gov: "All 2,056 existing NYCHA apartments at Fulton and Elliott-Chelsea will be replaced with new, permanently affordable homes." The City Reporter, Sept 21 2026: NYCHA with Related and Essence plans to take down 18 buildings in three developments (Fulton, Elliott, Chelsea Houses) and replace them with six towers; relocation of Fulton 11 and Chelsea Addition first. | §5 para 3, stats, §9 Q8, sources, schema mentions |
+| C18 | `Chelsea art galleries how many galleries …` · Firecrawl search → Firecrawl scrape (query) | https://away.mta.info/articles/exploring-chelsea-manhattan-gallery-district/ | "More than 300 contemporary art galleries" in West Chelsea, 10-block area between Tenth and Eleventh (excerpt); galleries open Tue–Sat 10 a.m.–6 p.m. most of the year, Saturdays closed in summer; openings Thursday or Friday evenings at 6 p.m. (Fall '22 guide.) | §5 para 4, stats, §8 card, §9 Q9, gallery calendar, FAQ 3, sources |
+| C19 | same search (excerpts) | https://agora-gallery.com/chelsea-galleries-itinerary/ ; https://www.nyc-arts.org/collections/38592/chelsea-galleries-walking-tour/ | 200+ galleries between W 18th and W 28th along 10th/11th Aves; Gagosian at 522 W 21st St. Background (W 18th–28th extent used in §8 card). | §8 card |
+| C20 | `Hurricane Sandy flooded Chelsea galleries …` · Firecrawl search → Firecrawl scrape (query) | https://artlyst.com/new-york-galleries-destroyed-by-hurricane-sandy-flooding/ | Nov 2 2012: three to five feet of flooding inside galleries; Paula Cooper and Gagosian on W 21st St affected; Postmasters tweeted "Chelsea is flooded up to tenth avenue"; water 5 ft indoors at Zach Feuer. | §5 para 5, stats, §9 Q12, §10.5 H3 7, flood section, sources |
+| C21 | `Chelsea loft "key-locked elevator" OR "keyed elevator" opens directly into the apartment …` · Firecrawl search → Firecrawl scrape (query) | https://www.brickunderground.com/buy/buy-curious-apartments-with-private-elevators | (Aug 2026) Key-locked elevator won't move without key in car lock or resident ringing visitor up; front door of elevator locked; Medeco keys common in older buildings; key systems that bounce back to locked (older Hudson Yards building); newer construction uses cards, keypads, codes, biometrics; historically in warehouse conversions (Village, SoHo, Tribeca); some lofts have a separate entrance door between elevator and apartment; steel gates outside elevator; "a key-locked apartment is as safe as, or even safer than, having a doorman"; security depends on the building's entire system. Not Chelsea-specific — page says "lofts of the type Brick Underground describes". | §5 para 4, §6 card, §9 Q4/Q5, §10.5 H3 6, glossary, sources |
+| C22 | `NYC DOB elevator work must be performed by licensed elevator agency director …` · Firecrawl search (excerpts) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-160334 ; https://dol.ny.gov/elevator-licensing-information ; https://www.nyc.gov/site/buildings/industry/elevator-licenses-and-helper-card.page | Admin Code Art. 425: "unlawful to perform elevator work … unless that work is performed by or under the direction of an elevator agency director"; NYS DOL: all individuals who work on an elevator must be licensed as an Elevator Mechanic. | §8.5, §9 Q5, sources |
+| C23 | `NYC Building Code 1010.1.9.4 locks and latches key-operated locking device "THIS DOOR TO REMAIN UNLOCKED…"` · Firecrawl search (excerpts) | https://up.codes/s/door-operations ; https://codes.iccsafe.org/content/NYSBC2020P1/chapter-10-means-of-egress | IBC and 2020 NYS Building Code allow key-operated locks on main doors of B/M occupancies (and A ≤300) with a sign "THIS DOOR TO REMAIN UNLOCKED WHEN THIS SPACE IS OCCUPIED". Page labels these as model codes and says NYC has its own code. | §8.5, §9 Q9 |
+| C24 | `idighardware fail safe vs fail secure electric strike definition …` · Firecrawl search (full excerpt) | https://idighardware.com/2023/10/decoded-fail-safe-vs-fail-secure-when-and-where/ ; https://allegion.ca/en/resources/education/leading-the-industry/decoded/fail-safe-vs-fail-secure.html | Fail safe = unlocked on access side when power removed; fail secure = locked; strikes leave free egress regardless; strikes on fire doors must be fail secure (NFPA 80 listings); maglocks only fail safe; fail secure more common for security. | §7.5, §8.5, §9 Q9/Q11, §10, §10.5 H3 4, glossary, sources |
+| C25 | `frameless glass door electric lock options patch fitting electric bolt maglock U-bracket …` · Firecrawl search (excerpts) | https://ngteco.com/blogs/workforce-insights/magnetic-locks-vs-electric-bolt-locks-office-glass-doors ; https://www.youtube.com/watch?v=oL7n8ZDQzY4 | NGTECO: electric bolt locks on glass hide in a top rail, floor box, or surface patch clamped to the glass. Ubiquiti install video: U-bracket for outward-swinging glass door maglock. | §9 Q10, §10, §10.5 H3 5 |
+| C26 | `Furman Center Chelsea Clinton Midtown neighborhood profile …` · Firecrawl search → Firecrawl scrape (query) | https://www.furmancenter.org/neighborhoods/clinton-chelsea/ | 2024 homeownership rate Clinton/Chelsea 19.2% vs citywide 32.7% (excerpt confirms); public housing 4.0% of rental units; other table columns misaligned in scrape → not used. | §5 para 5, stats, sources |
+| C27 | `Starrett-Lehigh Building 601 West 26th Street …` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Starrett%E2%80%93Lehigh_Building ; https://starrett-lehigh.com/wp-content/uploads/sites/25/2025/07/RXR_CRE_25028_Starrett-Lehigh_Generic-Brochure-V12.pdf | Built 1931, linked rail freight, trucks, manufacturing, storage; entrances on 26th and 27th Sts; tenants incl. Canada Goose, Club Monaco, Diller Scofidio + Renfro. | §8 card, schema mentions |
+| C28 | `Chelsea Market Nabisco factory 75 Ninth Avenue Google bought 2018 $2.4 billion …` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Chelsea_Market ; https://www.nytimes.com/2018/02/07/nyregion/google-chelsea-market-new-york.html | Food hall, shopping mall, office building and TV production facility; NYT Feb 7 2018: $2.4 billion deal, Google; "former factory building". | §8 card, sources |
+| C29 | `High Line park opened 2009 …` · Firecrawl search (excerpts) | https://www.thehighline.org/faq/ ; https://en.wikipedia.org/wiki/High_Line ; https://www.thehighline.org/history/ | 1.45-mile park on former New York Central spur, Gansevoort to 34th St; first section Gansevoort–20th St opened June 8 2009; phases 2009/2011/2014. | §7 card, §13 card, sources |
+| C30 | `NYC DOB Facade Inspection Safety Program FISP …` · Firecrawl search (excerpts) | https://www.nyc.gov/site/buildings/safety/facade-local-law.page | Owners of buildings higher than six stories must have exterior walls inspected every five years and file a report. | §9 Q13, glossary, sources |
+| C31 | `Chelsea gallery burglary break-in stolen artwork …` · Firecrawl search → Firecrawl scrape (query) | https://patch.com/new-york/midtown-nyc/burglar-climbs-midtown-gallery-steals-digital-art-cops | Dec 29 2021: burglar scaled scaffolding outside EFA studio/gallery, W 39th St (Midtown, not Chelsea), entered via unlocked second-storey window. Page labels it Midtown. | §9 Q13, sources |
+| C32 | `10th Precinct Chelsea burglaries apartment building break-ins 2026 …` · Firecrawl search | (excerpts: patch.com/new-york/chelsea-ny/police-fire; amny 10th Precinct; NY1 FB video, undated) | No dated, Chelsea-specific residential burglary story usable → EMPTY for local crime; no crime stat stated. | — |
+| C33 | `reddit Chelsea Manhattan apartment smart lock landlord walk-up OR London Terrace OR Penn South keys` · Firecrawl search (excerpts) | https://www.reddit.com/r/AskNYC/comments/121qvhi/apartment_building_uses_the_same_keys_for/ (and r/AskNYC, r/NYCapartments, r/smarthome threads) | Excerpts only, citywide (not Chelsea): a building using the same keys for multiple units; leases require giving management a key. Used only as "New Yorkers on r/AskNYC have described buildings where one key opens several units". Chelsea-specific Reddit → EMPTY. | §9 Q7 |
+| C34 | reused silo research (NYC hub N1) | https://www.nysenate.gov/legislation/laws/MDW/51-C | MDL §51-c: tenant may add a lock ≤3 inches in circumference; duplicate key to owner on request. | §7.5 walk-ups, §9 Q6/Q7, sources |
+| C35 | reused silo research (Manhattan M15, M30; silo S1) | NYC BC 1010.1.9.9 (amlegal); Admin Code §28-105.4.7; https://www.fixr.com/costs/smart-lock-installation | Maglock release rules; <50 V permit exemption wording; Fixr national $250–$400, avg ~$300 (Jan 2025), handyman $50–$100/hr. | §8.5, pricing comparison |
+| C36 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are paraphrased general claims, stated as such on the page. | — |
+| C37 | Local news on smart locks specifically in Chelsea (Chelsea Community News, Patch Chelsea, amNY) | — | No Chelsea smart-lock story found → EMPTY. | — |
+| C38 | Penn South / London Terrace unit-door lock rules; Mitchell-Lama/HPD alteration rules | — | Not found / login-gated → EMPTY; page states no building's lock policy. | — |
+
+### Prices used (copied from smart-lock-installation-manhattan.html, no change)
+- Single-door keypad or fob reader with electric strike: $1,875–$3,125.
+- New electric strike: $313–$563. Failed strike repair: $369–$606.
+- Setup-only visit: $265 first hour, then 30-minute blocks.
+- Service/callback: $195/hr, 3-hour minimum ($585), never on initial install.
+- Rowhouse/apartment-door smart lock: no AESS figure → quoted flat after free walkthrough/door survey.
+- National comparison only: Fixr $250–$400, avg ~$300 (Jan 2025).
+
+## Images (11)
+
+Step C (Drive folder empty, CompanyCam not connected — per main run). All 11 viewed before use; copied (cp, already WebP) from images/smart-lock-installation/aess-smart-lock-installation-*.webp. Alt/title/caption describe only what is visible + "Chelsea, Manhattan"; none claims a local customer, named building or completed local job. NOTE: the library photos look AI-rendered (uniform logo patches, synthetic app screens) — flagged in earlier DAILY-LOG lines too; needs Anwar's confirmation that they are real.
+
+| Source (images/smart-lock-installation/) | New file | What is visible |
+|---|---|---|
+| aess-smart-lock-installation-keypad-smart-deadbolt-brownstone-door.webp | smart-lock-installation-chelsea-manhattan-keypad-smart-deadbolt-brownstone-door.webp (hero, eager) | Black keypad deadbolt with key override and black lever on a panelled wood door; stone steps and iron railings behind |
+| aess-smart-lock-installation-programming-access-code-app.webp | smart-lock-installation-chelsea-manhattan-programming-access-code-app.webp | Technician adding an access code in an app while touching a keypad on a wood door |
+| aess-smart-lock-installation-drilling-keypad-lock-brownstone-stoop.webp | smart-lock-installation-chelsea-manhattan-drilling-keypad-lock-brownstone-stoop.webp | Technician with drill at a keypad deadbolt on a wood stoop door; ironwork, row of stoops behind |
+| aess-smart-lock-installation-apartment-door-smart-lock-app.webp | smart-lock-installation-chelsea-manhattan-apartment-door-smart-lock-app.webp | Technician testing keypad deadbolt with phone on a unit door ("4A" sign) in a hallway |
+| aess-smart-lock-installation-measuring-door-bore-for-deadbolt.webp | smart-lock-installation-chelsea-manhattan-measuring-door-bore-for-deadbolt.webp | Tape measure across an existing bore on a wood door, brass latch plates on edge |
+| aess-smart-lock-installation-office-glass-door-smart-lock.webp | smart-lock-installation-chelsea-manhattan-office-glass-door-smart-lock.webp | Technician fastening strike plate beside keypad deadbolt on black-framed glass door, office behind |
+| aess-smart-lock-installation-removing-old-brass-deadbolt.webp | smart-lock-installation-chelsea-manhattan-removing-old-brass-deadbolt.webp | Technician removing brass deadbolt with drill driver from wood door |
+| aess-smart-lock-installation-office-lever-smart-lock-install.webp | smart-lock-installation-chelsea-manhattan-office-lever-smart-lock-install.webp | Technician screwing latch plate of keypad lever lock on framed glass office door |
+| aess-smart-lock-installation-fingerprint-unlock-demo-app.webp | smart-lock-installation-chelsea-manhattan-fingerprint-unlock-demo-app.webp | Fingerprint unlock on keypad lock; phone app shows "Fingerprint Unlocked" |
+| aess-smart-lock-installation-checking-lock-status-in-app.webp | smart-lock-installation-chelsea-manhattan-checking-lock-status-in-app.webp | Technician checking "Locked" status in app beside keypad deadbolt |
+| aess-smart-lock-installation-servicing-keypad-wiring.webp | smart-lock-installation-chelsea-manhattan-servicing-keypad-wiring.webp | Keypad removed, wiring inside being checked; batteries and tools in bag |
+
+## Question register — smart-lock-installation-chelsea-manhattan-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Landmarked rowhouse doors
+1. If drilling for a smart lock splits our original 1840s front door, can we simply order a new one?
+2. Who files with the Landmarks Preservation Commission for a keypad — the owner, the architect or the installer?
+3. Our rowhouse used to be four apartments and is one home again — what should happen to the old apartment doors and their locks?
+Lofts, freight landings and keyed elevators
+4. Our loft's elevator opens straight into the apartment on a key — where does a smart lock go?
+5. Can the key switch inside our loft elevator be swapped for a keypad or a phone?
+Big complexes and the city's housing
+6. Half our block is a co-op and half is a rental under one roofline — whose rules decide what goes on my door?
+7. My old apartment key turned out to open a neighbour's door — will a smart deadbolt fix that?
+8. Our household is moving into one of the new Fulton or Elliott-Chelsea towers — is it worth fitting a smart lock before the move?
+Gallery doors on the West 20s
+9. Hundreds of people come through on an opening night — should the gallery door be locked, unlocked or on a schedule?
+10. Our gallery door is frameless glass with nothing to cut a strike into — what can lock it electronically?
+11. Should the electric strike on our gallery entrance be fail-safe or fail-secure?
+12. Where should the lock controller and battery backup go in a ground-floor space that took water in 2012?
+While the building is being worked on
+13. Scaffolding is going up on our building for facade work — which doors need attention while it is there?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What does a keyless gallery or studio door with an electric strike cost in Chelsea?
+2. Do you cover all of Chelsea, from 14th Street to the edge of Hudson Yards and from Sixth Avenue to the river?
+3. Can the installation happen on a Monday, when most Chelsea galleries are closed?
+4. How long does the door survey on a landmarked rowhouse take?
+5. Can the gallery be alerted if the loading door is left propped open after a delivery?
+6. Can one visit cover both our Chelsea apartment and our studio a few blocks away?
+7. Can the wiring left from an old buzzer or strike on our loft door be reused for the new lock?
+8. Can you work in the gallery while a show is on the walls without putting the art at risk?
+
+### Other question-form headings
+- H2 "Chelsea Smart Lock Stuck, Silent or Off the App?" (repair capture)
+
+De-dup notes: avoided HV "historic-district approval for a keypad" (Q2 is about who files and what documentation, not whether approval is needed), Brooklyn stoop/vestibule/double-door/areaway/original-hardware intents, Manhattan "reader behind glass on cast-iron facade", doorman/platform/LL18/suite intents, NYC hub renter/co-op approval intents, Dutchess/Rockland/Ulster "same key for whole building" intents, Westchester/Dutchess "second-floor doors" (Q13 is about the temporary scaffold period). Partial overlaps for the main run to judge: Q11 fail-safe/fail-secure gallery strike vs Todt Hill "If the power fails, does an electric gate stay locked or swing free" (same physics, different device); Q12 controller height after Sandy vs Throgs Neck "salt water reached our lock — dry out or replace?" (placement vs repair); FAQ 1/2 cost and coverage are geo-specific by design.
+
+> Main-run note (2026-10-17, Todt Hill): to clear the 2 KB size-cluster rule against Brooklyn Heights, the main run minified this page's inline CSS/JSON-LD and removed four sentences: the Wikipedia sidewalk/Richmond Road bus line, the CBS June 2022 back-door break-in clause, the Hoodline key-fob clause, and the R1-1 9,500 sq ft lot benchmark. Those log entries are no longer used on the page.
