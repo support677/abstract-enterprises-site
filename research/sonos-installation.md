@@ -1963,3 +1963,249 @@ Partial overlaps for main-run judgment: FAQ 3 (one app, two separate systems) vs
 HV 0.021 · Nassau 0.017 · Bronx 0.014 · SI 0.013 · LI 0.013 · NYC 0.013 · Manhattan 0.011 · Brooklyn 0.011 · Queens 0.011. Paragraph-level (3-gram) max: 1.0 only on the required constants (freshness stamp, licence line, NAP line, warranty sentence); next highest 0.50 (the $169 in-wall line description from the shared price list).
 
 Main-run edits 2026-10-17: JSON-LD re-indented (no content change) to clear the ±2 KB clone-size check; /free-quote stand-ins for Westchester/Rockland/Orange/Putnam/Dutchess/Suffolk flipped to the live pages.
+
+
+## Cobble Hill, Brooklyn (sonos-installation-cobble-hill-brooklyn-ny)
+
+Built 2026-10-17 by the Cobble Hill subagent (batch with Astoria and City Island). To be merged into research/sonos-installation.md by the main run.
+Format: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide Sonos product facts (system requirements, interference/plaster High/18 in, Trueplay, Amp 32–104°F + three pairs, Port heat/ventilation, Sub guide, Era 300 stud-only mount, Arc Ultra wall-EQ, Arc Ultra/Beam dimensions, Ray optical, Move 2 IP56 + indoor base, Roam 2 IP67, alarms, volume limit, Angi $500–$1,000/room, r/sonos "$500 all-in", DEP 42 dBA, Admin Code §24-244) are reused from existing sections of research/sonos-installation.md and not re-listed.
+
+**Thesis:** Cobble Hill is small, old and quiet, so the Sonos plan is about restraint and scale — fewer, better-placed products sized to 11½–25 ft-wide houses, 8 ft 3 in courtyard apartments and converted churches, plaster ceilings treated as off-limits by default in parlors, and sound kept on your side of party walls and courtyards.
+
+### Historic district / building stock
+- `Cobble Hill Historic District designated 1969 Landmarks Preservation Commission rowhouses` · FC search →
+  - https://en.wikipedia.org/wiki/Cobble_Hill_Historic_District (FC scrape): ~60 acres; bounded roughly by Atlantic Ave, Court, Degraw, Hicks; 796 contributing buildings 1830s–1920s; Greek Revival/Italianate/Queen Anne; NYCL designated Dec 1969 (infobox Dec 20, ref Dec 30 — page says "December 1969"), extension June 7, 1988; NRHP 1976; Christ Church (Upjohn 1841–42), Strong Place Baptist (Lafever 1851–52) now apartments · §5 paras 1, §5.5 bullets 1–2, §13 cards, Sources.
+  - https://cobblehill.nyc/knowledge_base/landmarking-cobble-hill/ (excerpt: 1969, 796 buildings 1830s–1920s) · Sources.
+  - https://s-media.nyc.gov/agencies/lpc/lp/0320.pdf (LPC designation report, excerpt only) · not quoted.
+- `Cobble Hill Park Verandah Place history Clinton Street Congress Street` · FC search →
+  - https://cobblehill.nyc/knowledge_base/cobble_hill_history/ (long excerpt): styles Greek Revival 1830s–40s, Gothic Revival/Italianate/early Romanesque 1850s–60s, brick and brownstone; rows built singly or in short groups; 122 Pacific St (1832) oldest house; "50-foot height limitation" + landmark law preserving "nineteenth-century scale, feeling, and quality"; Cobble Hill Park became city property Mar 7 1963, dedicated July 14 1965, city's first "vest pocket" park, reconstructed 1989 (bluestone, cast iron, granite, herringbone brick); Upjohn home 296 Clinton St; Middle Eastern restaurants on Atlantic from 1930s; Independence Savings Bank building now Trader Joe's; Court Street Merchants Association; "Fix the Ditch" BQE trench proposal · §5 paras 1–2, §5.5, §8 Court St card, §13 cards, Sources.
+  - https://www.nycgovparks.org/parks/cobble-hill-park (excerpt): Clinton St between Verandah Pl and Congress St; Punkiesberg; 1776 redoubt "Smith's Barbette" · §13 card + name paragraph.
+- `Cobble Hill, Brooklyn` · FC scrape (query) https://en.wikipedia.org/wiki/Cobble_Hill,_Brooklyn: boundaries Atlantic/Court/Degraw/BQE; name from "Cobleshill"/"Ponkiesbergh" at Atlantic/Pacific/Court; Thomas Wolfe on Verandah Place 1930s; Upjohns at 296 Clinton; CD6; ZIPs 11201/11231 · §13 card, name paragraph.
+- `Warren Place mews workingmen's cottages Alfred Tredway White Cobble Hill Towers Home Buildings` · FC search →
+  - https://cobblehill.nyc/knowledge_base/the-tower-and-home-buildings-cobble-hill-towers/ (FC scrape): Home Buildings Hicks & Baltic 1876–77 (L around courtyard); Tower Buildings Hicks between Warren & Baltic 1878–79 (U around courtyard); exterior staircases, open balconies; fireplaces/mantels in every sitting room; ceiling height 8 ft 3 in; cottages 1878–79, two storeys, 11½ ft wide × 32 ft deep, end houses three storeys/16 ft; 1975 purchase, restoration 1978–1986 to 188 apartments; Hudson partnership 1998, non-eviction condo conversion · §5, §5.5, §7 cards/table, sizing section, §9 Q (8 ft 3), §13 cards, quiet-blocks section.
+  - Bowery Boys Facebook excerpt / Instagram excerpt: "34" cottages · §7 card ("thirty-odd").
+  - https://www.hudsoninc.com/projects/cobble-hill-towers/ (excerpt): 188 units, 6 stories, non-evict condo conversion · §7, §13. https://streeteasy.com/building/cobble-hill-towers (excerpt: nine 6-story buildings) · cross-check only.
+- `brownstoner Cobble Hill townhouse listing parlor floor original details ceiling height…` · FC search → https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-cobble-hill-historic-district-225-kane-street-fireplace/ (FC scrape, 2019-03-06): Greek Revival, 25-ft width, 11-ft ceilings, "elaborate foliate cornice and ear moldings", six mantels, pier mirror, scenic wallpaper in dining room, sunroom · §5 para 2, §9 wallpaper Q, Sources.
+- `Strong Place Baptist Church Minard Lafever converted condominiums…` · FC search → https://www.cityrealty.com/nyc/cobble-hill/the-landmark-strong-place-58-strong-place/51892 (excerpt): Lafever, corner Strong Pl & Degraw; converted to 23 condos in 2010 · §5, §5.5, §7, §13. (Wikimedia Commons excerpt confirms 2010 conversion.)
+- `Long Island College Hospital redevelopment River Park Cobble Hill Fortis towers units` · FC search → https://thebha.org/issue/fortislich-development-plan/ (FC scrape, query): renovated Polhemus Building, eight townhouses on Amity St, five towers; 1 River Park 350 Hicks 15 stories; 2 River Park 95 Pacific 36 stories; 5 River Park 15 stories; LICH closed May 22 2014 · §5 para 5, §5.5, §7. Other results (archpaper, cityrealty 354 Hicks, riverpark press) excerpt only, not used.
+- `Cobble Hill Cinemas Court Street theater history` · FC search → https://en.wikipedia.org/wiki/Cobble_Hill_Cinemas (excerpt: opened 1926 as Lido Theater, twinned Sept 24 1982); https://www.hk-cinemas.com/... (excerpt: 265 Court Street) · §8 Court St card, §13 card.
+
+### Permits / LPC
+- `LPC permit interior work historic district "interior" alterations…` · FC search → https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (excerpt, current text): no permit for ordinary repairs/maintenance; interior-work permit required when interior work affects the exterior, or for designated interior landmarks · §10.5 claim 2, §8 compliance. (Silo NYC research recorded an older version of this page that also listed "requires a DOB permit" — page wording now lists two cases.) Other results (shermanarchitects, fontanarchitecture "interior renovations require LPC permits even when no exterior work", havardcooper "interior work generally doesn't require LPC review") conflict with each other → not used; LPC's own page used.
+- `martinez-team.com` LPC blog → FC scrape failed (DNS) → EMPTY.
+
+### Local news / noise / Reddit
+- `reddit Cobble Hill brownstone wifi OR speakers OR noise BQE Hicks Street` · FC search →
+  - https://www.reddit.com/r/Brooklyn/comments/1uk1rly/anyone_live_a_block_from_the_bqe_in_carroll/ (excerpt): "I lived on Hicks in Cobble Hill. Agreed on the air purifier, for sure. I found the consistent traffic sounds soothing." · §5 para 4, quiet-blocks section.
+  - https://www.reddit.com/r/Brooklyn/comments/o98hjx/hicks_street_in_cobble_hill/ and /1zbnp1/ (titles/excerpts only) · not quoted.
+  - https://www.brownstoner.com/development/cobble-hill-brooklyn-lich-fortis-347-henry-street-5-river-park-balcony-defect-wind-noise-disturbs-locals/ (FC scrape, 2021-03-31, Kevin Duggan): 15-story 347 Henry St (5 River Park), balcony railings whistling in wind since at least December; quotes "It's like fingernails on a blackboard", "It wakes us up" · §5 para 4, hero.
+  - https://abc7ny.com/post/weird-noise-cobble-hill-henry-street-347/10469282/ (excerpt) · corroboration only.
+- r/CobbleHill / Reddit on Sonos or home audio in Cobble Hill: EMPTY (none returned).
+- Local news on Sonos/home audio in Cobble Hill (Brooklyn Paper, Patch, Brownstoner): EMPTY.
+
+### Commercial corridors
+- `Atlantic Avenue BID Court Street Smith Street Cobble Hill shops…` · FC search →
+  - https://atlanticavebid.org/ (excerpt): "over 300 businesses" Fourth Ave to waterfront, Brooklyn Heights/Boerum Hill/Cobble Hill · §8 Atlantic card, §5.5-context.
+  - https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=65 (excerpt: Retail Businesses 338) · not used.
+  - https://6tocelebrate.org/neighborhoods/atlantic-avenue/ (excerpt: Middle Eastern shops mostly between Court and Clinton) · §8 Atlantic card.
+  - https://www.nyctourism.com/itineraries/cobble-hill-shopping-guide/ (excerpt: Smith and Court lined with "indie boutiques and locally owned specialty") · §8 Smith card.
+
+### Sources that are EMPTY
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 built from published claims (Angi, r/sonos, Sonos marketing/support pages, LPC page) and says so on the page.
+- Yelp 1–3★ Cobble Hill AV/Sonos installers: EMPTY (not accessible in build env).
+- Field Notes: no real Cobble Hill install anecdote available → written as installer walkthrough notes, explicitly "not a story about any one customer".
+
+### Pricing used (Brooklyn base 1.00×, copied from sonos-installation-brooklyn.html — no new prices)
+Sonos setup $125 · wall-mount $129 · console $79 · Sanus bracket $84.99 · in-wall $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming device $49 · full home theater $350 · setup-only $195 first hour then 30-min blocks · TV mount from $179.99 · metal +$30 / plaster +$45 / brick +$65 / concrete +$75 / tile +$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · return trip $150 · free reschedule 24 h · $800–$2,500/zone attributed to NYC AV page. Packages $125 / $338.99 / $507.99 (sums, as on Brooklyn page). Worked totals: $204 (79+125), $383.99 (129+84.99+45+125), $462.99 (129+84.99+65+59+125), $329 (129+75+125), $195.
+- Era 100 wall mount (FAQ 1): no AESS price line exists → "itemised in your written quote"; no number stated.
+
+### Images (11; Drive folder EMPTY, CompanyCam not connected → Step C; library photos cropped to remove faces and the readable 800 number on shirts/van; WebP q80)
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Crop | Section |
+|---|---|---|---|
+| sonos-installation-cobble-hill-ceiling-speaker-hands-and-wall-cabinet-speaker.webp | low-voltage-installation-long-island-ceiling-speaker-install.jpg | 500,0,1400,560 | Hero |
+| …-cable-bundle-beside-ceiling-access-point.webp | low-voltage-installation-hudson-valley-10-school-corridor-cable-pull.jpg | 560,0,1400,470 | §5 |
+| …-speaker-lifted-to-round-ceiling-cutout.webp | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg | 590,0,1400,700 | §6 |
+| …-blue-cable-through-steel-stud-to-box.webp | low-voltage-installation-bronx-stud-rough-in-boxes.jpg | 640,120,1400,1120 | §7 |
+| …-amplifier-cart-speaker-and-copper-wire.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | 760,740,1400,1120 | Sizing section |
+| …-display-panels-on-slatted-wall.webp | low-voltage-installation-manhattan-11-video-wall-installation.jpg | 330,30,1060,830 | §8 |
+| …-wall-plate-jack-and-tool-bag.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg | 820,250,1400,933 | §9 |
+| …-recessed-wall-box-beside-screen.webp | low-voltage-installation-bronx-display-recessed-box.jpg | 790,160,1400,1110 | §10 |
+| …-van-shelves-ladders-cable-spools.webp | low-voltage-installation-brooklyn-van-load-out.jpg | 480,180,970,900 | §12 |
+| …-access-point-pressed-into-ceiling-tile.webp | low-voltage-installation-bronx-access-point-lift-install.jpg | 570,0,1400,430 | §13 |
+| …-cable-fed-into-open-ceiling-grid.webp | low-voltage-installation-long-island-02-school-ceiling-pathway.jpg | 560,0,1400,470 | §15 |
+**Flag:** the whole images/low-voltage/ library looks AI-rendered (text glitches on gloves, a non-existent "abstractsecurity.com" on the van, synthetic lighting). Used because DAILY-RUN Step C / permanent image rule leaves no alternative; replace when real photos arrive. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-cobble-hill-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s (Narrow houses, small rooms · Original parlors and old fittings · Apartments, courtyards and new buildings · Shops on the avenue)
+1. What is the smallest set of Sonos products that covers a two-storey Warren Place cottage?
+2. Are rear surround speakers worth it in a living room that narrow?
+3. Can one portable Sonos follow us between the cottage's two floors and the garden instead of buying three speakers?
+4. We still burn wood in the parlor fireplace — is the mantel shelf a safe place for Sonos speakers?
+5. Will an Era 100 tucked into a bookcase shelf sound muffled?
+6. Our dining room has hand-painted scenic wallpaper — how does music reach it without a single hole in the paper?
+7. The parlor still has its original two-prong outlets — can Sonos products plug into them?
+8. With 8-foot-3 ceilings in our Cobble Hill Towers apartment, will in-ceiling speakers feel too close to our heads?
+9. The only wall for the TV in our condo is bare brick — will the soundbar sound harsh bouncing off it?
+10. What should we check for Sonos during a house viewing, before we make an offer?
+11. Can our Atlantic Avenue shop point a speaker out the front door to draw people in?
+
+### §17 FAQ (visible == FAQPage, 6)
+1. Can an Era 100 go high on the wall of a child's bedroom, out of reach of small hands?
+2. If we rearrange the parlor furniture later, do we need you back, or can we re-tune the speakers ourselves?
+3. We're staging the house for sale. Can a Sonos setup go in for showings and leave with the furniture?
+4. Do we have to tell the neighbours before you drill into the party wall?
+5. Will the power have to be shut off in the house while you work?
+6. Can the rooms in the Sonos app be named the way we talk about the house, like front parlor or garden floor?
+
+### Other question-form headings
+- H2 "Sonos Silent on a Cobble Hill Block Tonight? We Can Help" (final repair capture). Early repair capture and CTAs are statements.
+
+### De-dup notes
+Checked by meaning against every register in research/sonos-installation.md (NYC, LI, HV, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess, Ulster) and the Astoria page on disk (~12:40). Avoided/owned elsewhere: renter no-holes (NYC Q18), LPC approval (NYC Q10 → body only, §10.5), Sub bothering downstairs (NYC Q12 → body only), Arc/Beam/Ray choice (NYC Q14), low-ceiling Atmos (Suffolk Q11), tall-room echo (Orange Q7/Q9), pocket doors (Rockland Q7), medallion/cornice (Dutchess Q1), shared courtyard speaker (Queens Q15), different music per room (Queens Q5/Bronx Q14), cost-per-area FAQ (every hub/borough). Replaced during build because Astoria (same batch) owns the intent: "older TV without HDMI ARC" FAQ (Astoria Q) → Era 100 child's-room mount FAQ; "how many speakers per floor in an 11½-ft house" reworded to whole-cottage minimum product set (Astoria owns "stereo pair in a 10-ft room"). Partial overlap for main-run judgment: my Q11 (shop speaker aimed out the door, Admin Code §24-244(b)) vs Astoria "Can a speaker go on the windowsill facing the street?" (residential vs commercial-advertising intent). City Island page not on disk at check time — not compared.
+
+### Masked-geo similarity (paragraphs ≥12 words, geo + digits masked, difflib) vs Brooklyn/NYC/Manhattan/Queens
+All body paragraphs < 0.65 except required constants (licence/rating line 1.0; warranty sentence 0.71–0.84). Package-card prose rewritten after first pass (was 0.67–0.76 vs Brooklyn). Whole-page 5-gram Jaccard vs every Sonos sibling 0.005–0.014.
+
+
+## Astoria, Queens (sonos-installation-astoria-queens-ny)
+
+Builder notes · 2026-10-17 · neighborhood page · up = /sonos-installation-queens (and /sonos-installation-nyc) · Bronx GBP (#bronx, 460 E Fordham Rd, Bronx NY 10458, as on sonos-installation-queens.html) · phone (347) 434-6392.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Reddit threads were not opened (excerpts only). Entries marked "(reused)" come from research/soundbar-installation.md `## Astoria, Queens` or earlier sections of research/sonos-installation.md and were not re-fetched this run.
+
+**Thesis:** an Astoria Sonos system has to outlive the apartment it starts in. With 18.5% homeownership, the job is split into two lists — what moves with the renter (freestanding speakers, soundbar, Sub, surrounds) and what stays with the building (ceiling speakers, Amp, in-wall cable, done only on owners' floors or with written consent) — and every room near the 31st Street el is placed, fixed and Trueplay-tuned with the trains in mind. Differs from the Queens borough page (vertical multi-household plan: basements, attics, planes, languages) and from the Astoria soundbar page (who owns the wall / lease reality for a single bar).
+
+### 1. Reddit
+- `reddit astoria apartment shakes when N train passes vibration 31st street` · FC search
+  - https://www.reddit.com/r/astoria/comments/1qv8yz3/have_i_lost_my_mind/ — excerpt: "Lived just off of 31st st for years and my apartment always shook when the trains went by" → §5 para 2, el section.
+  - https://www.reddit.com/r/astoria/comments/10l3knb/nw_train_on_31st_street_noise/ — excerpt: "IMO if possible you want to be at least one block away from 31st…" → el section intro (paraphrased).
+  - https://www.reddit.com/r/astoria/comments/adxp1c/how_close_is_too_close_to_the_nw_line_noise/ — excerpt: "…rear apartment facing the train with regular crappy windows and I keep my AC's in all year round" → el section intro (paraphrased).
+  - https://www.reddit.com/r/astoria/comments/seeetj/noise_level_for_apartments_on_31st_street/ (reused) — "You will not be able to hear your TV when the train goes by." → §5 para 2 (paraphrased).
+- `reddit r/astoria apartment wifi speakers sonos` · FC search → no r/astoria Sonos thread; r/sonos results only.
+  - https://www.reddit.com/r/sonos/comments/13d9tlp/apartment_new_setup_question/ — excerpt: "Sonos is great for apartments because you can put a speaker in every room to listen everywhere without turning it up loud enough to bother your neighbours." → §5 para 4 (quoted in paraphrase, attributed to r/sonos).
+  - https://www.reddit.com/r/sonos/comments/atlatz/sonos_in_an_apartment/ — excerpt: "The 5ghz connection has a much shorter range - around 50ft only." → §10.5 H3 7 (claim tested).
+- r/astoria Sonos-specific threads: EMPTY (none found).
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+§10.5 says so on the page and tests published claims instead: Sonos ceiling-speaker guide "require special installation" (silo §2); "add an extender" vs Sonos system requirements (silo §8); Angi $500–$1,000 per room / $50–$100 h / $100–$500 modifications (silo §5); Trueplay ~3 min + minimise noise (scraped below); Sonos stereo pair 8–10 ft (below); Sonos community "Beam on a cabinet shelf should be ok" (below); r/sonos "5 GHz ~50 ft" (above) + Sonos interference table (silo §8).
+### 8. Bing / DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env). (Yelp listing pages for Bohemian Hall and Athens Square appeared in search results; no reviews read or used.)
+
+### 6. Landmarks (§13, six cards — none duplicated from the Astoria soundbar page's card set except Astoria Park/Hell Gate, combined here)
+- `Bohemian Hall and Beer Garden Astoria history 24th Avenue landmark` · FC search
+  - https://www.bohemianhall.com/about — Bohemian Citizens' Benevolent Society formed 1892; cornerstone laid October 1, 1910; outside bar and park finished 1919; Society owns and manages the hall → §13 card.
+  - https://theclio.com/entry/53541 (FC scrape, directQuote) — built 1910; listed on the National Register of Historic Places in 2001 → §13 card. (Street address not confirmed in reached text — not stated.)
+- `Steinway Mansion Astoria 41st Street landmark history` · FC search
+  - https://en.wikipedia.org/wiki/Steinway_Mansion — built 1857–1858 by Benjamin Pike Jr.; NYC Landmark 1967; National Register → §13 card.
+  - https://www.mas.org/events/the-legendary-steinway-mansion/ — built 1858 on a hilltop overlooking Bowery Bay; one of the first NYC designated landmarks → §13 card.
+- `Athens Square Park Astoria 30th Avenue Greek statues` · FC search
+  - https://www.nycgovparks.org/parks/athens-square — NYC Parks property on 30 Ave; statue of Sophocles dedicated → §13 card, §8 30th Ave card.
+  - https://www.queensscene.com/articles/discover-athens-square-park/ — Sophocles sculpture "the fourth and final sculpture to be installed" → §13 card.
+  - https://events.musicofourdesire.com/venue/athens-square — bronze statues of ancient Greek figures; at 30th Avenue and 30th Street → §13 card.
+- `Steinway & Sons factory Astoria Queens Steinway Place 19th Avenue piano factory tours` · FC search
+  - https://www.steinway.com/about/factory-tour — "We are no longer conducting public factory tours" → §13 card.
+  - https://www.steinway.com/news/features/inside-the-new-york-city-factory — Steinway "since 1853" → §13 card.
+  - (reused) https://www.steinway.com/news/features/Company-Town — about 400 workers in Queens by the mid-1870s; Steinway Street named for the company → §13 card.
+- (reused) Astoria Park history https://www.nycgovparks.org/parks/astoria-park/history (56+ acres, 1913; pool 1936) and highlights/8892 (largest of the eleven WPA pools) → §13 card.
+- (reused) Hell Gate Bridge https://en.wikipedia.org/wiki/Hell_Gate_Bridge (dedicated 1917; 1,017-ft steel arch; Amtrak) → §13 card, el section.
+- (reused) Kaufman Astoria Studios https://movingimage.org/feature/the-astoria-studio/ (1920, 35th Ave & 35th St, KAS since 1982) and MoMI https://movingimage.org/about/museum-history/ (1988; reopened 2011) → §13 card, §8 studios card.
+
+### 7. Building stock / use cases (§5, §5.5, §7)
+- (reused) https://www.furmancenter.org/neighborhoods/astoria/ — Astoria CD1 2024: homeownership 18.5% vs 32.7% citywide; single-person households 38.5%; population 198,608; 99,819 units; 15,142 new units in 4+ unit buildings 2010–2025, 82% market rate; 2025 sales 204 two-to-four-family vs 47 one-family → §5, §5.5 stats, two-lists section, lease-ends section.
+- (reused) https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/halletts_point/03_feis.pdf — Astoria Houses 1,103 units, 22 buildings, 27 acres, 1951 → §7 card.
+- `Hallets Point Durst Astoria towers 2024 2025 second building opened apartments` · FC search
+  - https://www.durst.org/news_items/5456 — "The 647-unit, mixed use buildings now rise. Construction is expected to be completed in 2025. Halletts Point represent the second major phase…" → background for §5/§7 waterfront (page names Halletts Point towers without unit counts).
+  - https://www.6sqft.com/41-middle-income-apartments-available-at-huge-development-on-astoria-waterfront-from-3261-month/ — 10 Halletts Point two-tower development, 400 apartments → background only.
+- `Astoria Cove development Astoria waterfront 26th Avenue apartments rezoning 2014` · FC search
+  - https://www.cityrealty.com/nyc/astoria-lic/astoria-cove-4-34-26th-avenue/194195 — "Mid-rise waterfront residence at Astoria Cove featuring 138 contemporary studios to two-bedrooms" → §7 waterfront card.
+  - https://www.nyc.gov/assets/planning/download/pdf/about/cpc/140323a.pdf — CPC report C 140323(A) ZSQ Astoria Cove Development (excerpt: new segment of 4th Street from 26th Avenue to the waterfront esplanade) → background; not stated on page.
+- (reused) https://en.wikipedia.org/wiki/Astoria%E2%80%93Ditmars_Boulevard_station and https://www.nycsubway.org/wiki/BMT_Astoria_Line — elevated line opened 1917, entirely elevated, terminal Ditmars Blvd → §5, §5.5, el section.
+
+### 9. Local news / power history
+- `2006 Astoria blackout Con Edison Long Island City network feeders days without power` · FC search
+  - https://www.baruch.cuny.edu/nycdata/disasters/blackouts-queens.html — "It began on July 17th and continued for eight days until power was restored on July 25th." → §5.5 stat.
+  - https://digitalcommons.pace.edu/cgi/viewcontent.cgi?article=1010&context=pelr — "On the worst outage days, Con Edison lost twelve of the twenty-two feeders in the Long Island City network." → §5.5 stat.
+  - https://www.nytimes.com/2006/07/22/nyregion/22astoria.html — headline "Queens Blackout Persists, Leaving 100,000 Without Power, or Answers" → not used (headline figure not stated on page).
+- Queens Chronicle / Astoria Post / QNS on Sonos or home-audio installs: EMPTY (not found).
+
+### 10. Hyperlocal / commercial corridors / rules (§8, §8.5)
+- (reused) https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=20 — Steinway Street BID (Steinway Astoria Partnership), office 25-69 38th Street → §8 card.
+- (reused) https://blogs.baruch.cuny.edu/astoria/?p=114 — part of Steinway Street known as "Little Egypt" → §8 card.
+- `Dining Out NYC rules amplified sound outdoor dining music prohibited roadway sidewalk cafe` · FC search
+  - https://www.diningoutnyc.info/rules/sidewalk/operate — "No musical instruments or amplified sound unless authorized by a Street Activity Permit." → §8.5 bullet.
+- (reused, silo NYC hub) https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf — commercial music ≤42 dBA in any dwelling receiving it → §8.5 bullet.
+- (reused, silo Manhattan) https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 — §28-105.4.7 no electrical permit for <50 V signaling/communication/alarm/data wiring by a licensed master/special electrician or qualified person → §8.5 bullet (stated neutrally; page does not claim AESS is a "qualified person").
+- (reused, soundbar Astoria) https://fdnysmart.org/wp-content/uploads/2015/04/apartment_fire_safety-en.pdf — keep exits and the fire-escape window clear → §8.5 bullet, §9 stairway Q.
+
+### Sonos product facts used for this page's new questions (primary sources)
+- `Sonos AirPlay 2 group Sonos speakers with other AirPlay speakers support` · FC search → https://support.sonos.com/en-us/article/stream-airplay-audio-to-sonos (FC scrape, directQuote): AirPlay product list (Amp…Arc Ultra, Beam Gen 1/2, Beam Ultra, Era 100/300, Five, Move 2, Port, Ray, Roam 2…); "When an AirPlay-compatible Sonos product is playing AirPlay audio, you can group it with any other Sonos product in your system"; "AirPlay is not available on Sonos speakers that are set up as surround speakers"; company-issued iOS devices may have MDM settings that restrict AirPlay → §9 roommate Q, §9 VPN Q.
+- `support.apple.com play audio on multiple AirPlay 2 speakers at the same time iPhone` · FC search → https://support.apple.com/en-bn/guide/iphone/iph315e0d58d/ios excerpt: "With AirPlay 2 and iPhone, you can play audio on multiple AirPlay 2-enabled devices connected to the same Wi-Fi network." → §9 roommate Q.
+- `Sonos Ace TV audio swap compatible soundbars Arc Ultra Beam` · FC search → https://support.sonos.com/en-us/article/listen-to-your-tv-with-sonos-headphones-tv-audio-swap (FC scrape): supported: Arc, Arc SL, Arc Ultra, Beam Gen 1, Beam Gen 2, Beam Ultra, Ray; max two Sonos headphones per session; Wi-Fi must be enabled on the home theater speaker; content key press-and-hold; spatial audio, dynamic head tracking → §9 headphones Q, §10 Ace card.
+- `support.sonos.com TV autoplay setting soundbar automatically play TV audio` · FC search → https://support.sonos.com/en-us/article/enable-or-disable-tv-autoplay excerpt ("allows for Sonos home theater products to automatically start playing TV content when the television is turned on"; via Optical or HDMI when an audio signal is detected); https://en.community.sonos.com/home-theater-229129/arc-tv-autoplay-function-not-working-as-expected-6903082 excerpt ("TV Autoplay is only triggered when the TV is initially turned on"); https://en.community.sonos.com/home-theater-229129/tv-autoplay-ungroup-on-autoplay-check-boxes-6795522 (title: "TV Autoplay & Ungroup on Autoplay check boxes") → §9 café Q.
+- `support.sonos.com turn off status light disable touch controls Sonos speaker` · FC search → https://support.sonos.com/en-us/article/enable-or-disable-the-status-light (FC scrape: on by default; toggle under Settings > room > Hardware; still lights when updating or muted) → FAQ 3; https://support.sonos.com/en-us/article/using-touch-controls-on-sonos-products (FC scrape: Touch Controls toggle under Hardware; disabling also disables Bluetooth button; tap-and-hold play/pause groups with a room that is playing, hold to cycle) → FAQ 4, §9 railroad Q.
+- `support.sonos.com guest access Sonos app control without account same network setting` · FC search → https://support.sonos.com/en-us/article/adjust-connection-security-settings excerpt: Guest access "controls whether devices connected to the same WiFi network as your Sonos system can control playback, volume, and grouping as guests without access to administrative features" → §9 shop-tablet Q.
+- `Sonos optical audio adapter connect soundbar TV without HDMI ARC support` · FC search → https://support.sonos.com/en-us/article/tv-requirements-for-sonos-home-theater-speakers excerpt (no HDMI ARC → optical output via optical audio adapter, "only included with Arc and Beam"); https://en.community.sonos.com/home-theater-229129/sonos-ray-optical-to-non-optical-tv-6904682 excerpt (Sonos adapter is Optical → HDMI-ARC; HDMI-ARC→optical converter needed otherwise) → §9 older-TV Q.
+- `Sonos stereo pair placement how far apart Era 100 support article` · FC search → https://support.sonos.com/en-us/article/create-a-stereo-pair excerpt ("8-10 feet apart … listening position 8-12 feet … less distance increases bass, more distance improves stereo imaging"); https://www.sonos.com/en-us/guides/era100 excerpt (2.5–3 m apart); https://en.community.sonos.com/speakers-228992/era-100-speaker-placement-6930802 excerpt ("Era100's play stereo from the one speaker") → §9 stereo-pair Q, §10.5 H3 5, §10 Era 100 card.
+- `Sonos Ray front-firing designed to fit in TV console cabinet placement` · FC search → https://www.sonos.com/en-us/guides/ray excerpt ("Place horizontally on a stable and level surface at least 2" (50mm) from the TV. If put on a shelf, place at the front and keep 2" (minimum) clearance…"); https://en.community.sonos.com/home-theater-228993/beam-or-ray-on-a-cabinet-shelf-6870356 excerpt ("Although the Beam is 65 cm wide… it should be ok.") → FAQ 2, §10 Ray card, §10.5 H3 6.
+- `support.sonos.com prepare Sonos product for sale reset remove from account before selling` · FC search → https://support.sonos.com/en-us/article/reset-your-sonos-product (title only); https://en.community.sonos.com/speakers-228992/what-to-do-when-selling-or-giving-a-sonos-product-to-someone-else-6833219 excerpt ("You should factory reset all of your Sonos devices. If they've already gone to the new owner, ask them to do the reset…") → FAQ 1.
+- https://support.sonos.com/en-us/article/tune-your-sonos-speakers-with-trueplay (FC scrape, directQuote): measures reflections; most products need iOS; ~3 minutes per room; "Minimize noise … talking, footsteps, and loud appliances"; re-tune after moving or creating/separating a stereo pair → el section, §9 stereo Q, §10.5 H3 4, lease-ends section, process step 6.
+- Reused silo facts (not re-fetched): Sonos system requirements (same subnet, 2.4 GHz, no guest network/extender/EoP, VPNs blocking local resources unsupported); interference table (plaster/concrete High, brick/water Medium); Era 300 wall mount stud-only, 2.5 in; Arc Ultra 46.38 in / 13.01 lb / ≥4 in from TV; Beam Gen 2 25.63 in / 6.35 lb; Sub Mini 12.01 × 9.06 in, fits under desk/table, pairs with Beam/Ray/Era 100; Amp three pairs in parallel, 125 W/ch @8 Ω (TechHive); in-ceiling cut-outs 8.25 / 10.125 in, depth 4.73 / 5.32 in; in-ceiling manual obstruction survey; Port 2 in clearance, away from radiators; humidity-resistant list (Era 100, Era 300, Move 2, Roam 2); Move 2 32–104 °F; Sonos ceiling guide "require special installation"; Angi cost figures.
+
+### Pricing (published AESS lines only — copied from sonos-installation-queens.html; no multiplier applied, as on that page)
+Sonos setup $125 · soundbar console $79 · wall-mounted $129 · Sanus bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming device $49 · full home theater $350 · metal +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up 3rd fl+ $40 · COI free · no parking charge in Queens · setup-only first hour $195 then 30-min blocks · Queens TV base $179.99 · $150 return trip · free reschedule with 24 h · whole-home audio $800–$2,500 per zone (walkthrough).
+Packages (sums of published lines only): Starter $204 = console $79 + setup $125 · Standard $397.99 = wall-mount $129 + Sanus $84.99 + setup $125 + cord cover $59 · Premium $606.99 = setup $125 + cable run $99 + wall-mount $129 + Sanus $84.99 + in-wall $169. Same flat-vs-1.05 conflict as flagged in the Queens section (soundbar-installation-queens applies 1.05; Sonos Queens page does not) — this page follows the Sonos Queens page.
+
+### Images (11) — Step C, library reuse (Drive folder EMPTY, CompanyCam not connected)
+All 176 files in images/sonos-installation/ are copies/crops of ~49 distinct photos, all already used on a sibling page; chose the least-used (single-use Dutchess/Putnam/Orange crops) plus one NYC-hub photo, re-cropped (PIL, WebP q80) to new byte-distinct files. Each viewed before writing alt/title/caption; no faces, no readable phone numbers or documents.
+| New file | Source | Crop / note |
+|---|---|---|
+| sonos-installation-astoria-ceiling-speaker-pressed-into-round-cutout.webp (hero) | dutchess-county-ceiling-speaker-pressed-into-cutout | top 780 px |
+| sonos-installation-astoria-screen-hung-over-recessed-wall-box.webp | dutchess-county-tv-wall-recessed-box-cable | technician from behind, no face |
+| sonos-installation-astoria-ceiling-speaker-lift-with-amplifier-cart.webp | dutchess-county-round-ceiling-speaker-lifted-to-tile | bottom trimmed |
+| sonos-installation-astoria-cable-fished-through-steel-stud-to-box.webp | dutchess-county-cable-fished-through-stud-to-box | trimmed |
+| sonos-installation-astoria-brick-wall-weatherproof-enclosure.webp | dutchess-county-brick-wall-weatherproof-box-conduit | trimmed |
+| sonos-installation-astoria-storefront-ceiling-cable-drop.webp | nyc-retail-store-ceiling-cable-run | cropped to exclude technician's face and the 800 number printed on his hoodie |
+| sonos-installation-astoria-recessed-media-box-behind-screen.webp | putnam-county-tv-wall-recessed-box | trimmed |
+| sonos-installation-astoria-tone-probe-tracing-wall-jack-cable.webp | dutchess-county-tone-probe-tracing-wall-cable | trimmed |
+| sonos-installation-astoria-network-rack-patch-cable-dressing.webp | orange-county-network-rack-patch-cables | trimmed |
+| sonos-installation-astoria-rack-switch-laptop-configuration.webp | putnam-county-rack-switch-laptop | laptop screen unreadable |
+| sonos-installation-astoria-conduit-pull-box-on-block-wall.webp | putnam-county-conduit-box-cable-pull | trimmed |
+Rejected after viewing: ulster corridor/ceiling AP and long-island AP lift (faces; "Community Center"/school signage; 800 number on shirt), hudson-valley tracing/block-wall/stud photos (faces, phone number on shirt). FLAG: the whole library looks AI-rendered (uniform logo shirts/gloves with "ABSTRACT" lettering, glossy generic scenes, regenerated near-duplicates) — replace with real AESS Sonos photos when uploaded. DAILY-LOG note: `images: 11 reused from images/sonos-installation/ (library originally from images/low-voltage/; no real Sonos photos yet)`.
+
+### Flags for Anwar
+- Furman "Astoria" = Queens Community District 1 (includes part of Long Island City); page says "Astoria community district".
+- 2006 blackout figures are from Baruch NYCdata and a Pace law-review article; page says "parts of northwest Queens".
+- §8.5 permit sentence restates NYC Admin Code §28-105.4.7 neutrally; it does not claim AESS is a "qualified person".
+- Business-music licensing bullet is general ("a personal streaming account is generally licensed for personal use") — no legal source cited; review or remove.
+- Steinway Mansion / Bohemian Hall / Athens Square facts are from the sources above; Bohemian Hall street address was not confirmed and is not stated.
+
+## Question register — sonos-installation-astoria-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s "Narrow rooms and railroad layouts" · "Roommates, laptops and the devices people bring" · "Cafés, bars and shops on the avenues" · "Owners of Astoria two-families"
+1. How far apart should a stereo pair sit in a front room only ten feet wide?
+2. In a railroad apartment, can the kitchen speaker join whatever is playing in the front room without anyone opening the app?
+3. Can our Sonos soundbar send the TV's sound to headphones?
+4. My roommate has a different-brand smart speaker — can it play in sync with our Sonos?
+5. My work laptop is on a company VPN — why can't it find the Sonos speakers, and what can be done?
+6. Our TV is an older model with no HDMI ARC port — can a Sonos soundbar still get its sound?
+7. In our Steinway Street café, can the TV's sound take over the speakers when a match starts and hand back to the playlist afterward?
+8. Can staff change the music from a shop tablet without anyone's personal phone being on the system?
+9. We own the house — can a speaker go in the stairway we share with our tenant?
+10. Should we install Sonos in the rental apartment as something the tenant gets with the lease?
+
+### §17 FAQ (visible == FAQPage, 5)
+1. We're selling a couple of our Sonos speakers before we leave Astoria — what has to happen so the buyer can use them?
+2. Our TV console has an open cubby under the screen — which Sonos soundbar can actually live inside it?
+3. Can the white light on the bedroom speaker be switched off for good?
+4. Our cat walks across the Era 100 and keeps pausing the music — can the buttons be locked?
+5. Can a speaker go on the windowsill facing the street?
+
+### Other headings
+- Repair captures are statements: "Sonos Dropping Out in an Astoria Apartment", "Astoria Sonos Gone Quiet — Same-Day Visits". Mid CTAs: "Set Up Once, Moved Every Lease", "Find Out What Your Rooms Will Cost".
+
+### De-dup notes (meaning-level, against every register in research/sonos-installation.md and the parallel Cobble Hill draft)
+- Deliberately NOT asked (intent owned elsewhere): moving apartments (NYC Q19 — covered as body section "When the Lease Ends"), renter no-holes setup (NYC Q18), landlord written OK (Bronx Q1), dropouts/building Wi-Fi (NYC Q1–Q2), elevated-train dialogue (Bronx Q11 — vibration and Trueplay-between-trains are body text, not questions), late-night quiet settings (Rockland Q3 — headphones Q framed as a capability question), restaurant patio music (Staten Island Q8 — Dining Out rule kept as §8.5 bullet), office/restaurant Sonos (NYC FAQ 9 — dropped), DOA units (LI FAQ 12 — dropped), music following you with one portable (Cobble Hill — railroad Q reframed to press-to-join), narrow room rears (Cobble Hill — stereo-pair spacing Q kept distinct), cabinet Amp (Dutchess FAQ 5 — FAQ 2 is an open soundbar cubby), buying a departing tenant's Sonos (Brooklyn Q5 — FAQ 1 is the seller's side), tenant on owner's Wi-Fi (Brooklyn Q4 — Q10 is owner-supplied Sonos as a lease amenity), balcony/terrace speaker (Queens FAQ 8 — FAQ 5 is an indoor windowsill).
+- Masked-geo 5-gram Jaccard (main content, hero→footer, geo names masked) vs every sonos-installation-*.html sibling incl. Cobble Hill draft: max 0.020 (sonos-installation-queens); vs soundbar-installation-astoria-queens-ny 0.020.
