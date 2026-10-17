@@ -143,9 +143,9 @@ BUILDING 2026-10-17T12:20Z | sonos-installation-great-kills-staten-island-ny | S
 BUILDING 2026-10-17T12:28Z | soundbar-installation-upper-east-side-manhattan-ny | Soundbar Installation | Upper East Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T12:28Z | soundbar-installation-brooklyn-heights-brooklyn-ny | Soundbar Installation | Brooklyn Heights, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T12:28Z | soundbar-installation-flushing-queens-ny | Soundbar Installation | Flushing, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | soundbar-installation-throgs-neck-bronx-ny | Soundbar Installation | Throgs Neck, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | soundbar-installation-todt-hill-staten-island-ny | Soundbar Installation | Todt Hill, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | soundbar-installation-chelsea-manhattan-ny | Soundbar Installation | Chelsea, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T12:29Z | soundbar-installation-throgs-neck-bronx-ny | Soundbar Installation | Throgs Neck, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T12:29Z | soundbar-installation-todt-hill-staten-island-ny | Soundbar Installation | Todt Hill, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T12:29Z | soundbar-installation-chelsea-manhattan-ny | Soundbar Installation | Chelsea, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | soundbar-installation-greenpoint-brooklyn-ny | Soundbar Installation | Greenpoint, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | soundbar-installation-bayside-queens-ny | Soundbar Installation | Bayside, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | soundbar-installation-kingsbridge-bronx-ny | Soundbar Installation | Kingsbridge, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
