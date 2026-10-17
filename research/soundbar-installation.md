@@ -821,3 +821,400 @@ Non-question headings that are repair captures (deliberately no "?"): "Soundbar 
 §10.5 claim headings (quoted claims, not questions): spackle holes; concealed wiring $75–$300; nobody needs to approve unless electrical/structural; labor $50–$200/hr; surround $241–$1,350; installer adds outlet cheaply; bass travels so skip the sub.
 
 De-dup notes (checked by meaning against NYC/LI/HV registers and the Brooklyn and Queens pages on disk at ~05:20): dropped my radiator-under-TV-wall Q (Queens has Forest Hills radiator Q), bowing-walls-straight-bar Q (Brooklyn has it), "do I have to be home" Q (Queens has it), baby-asleep low-volume Q (overlaps Brooklyn night-mode Q / Queens private-listening Q), move-apartment-in-same-building FAQ (Brooklyn has moving Q), damaged-outlet FAQ (near Queens two-prong outlet Q). Partial overlap left for main-run judgment: my Spanish *menus/captions* Q vs Queens' Spanish *audio-track* Q (different intent: menu language vs soundtrack language).
+
+
+## Westchester County (soundbar-installation-westchester-county)
+
+Built 2026-10-17 (batch: Westchester, Rockland, Orange). Area page; up = /soundbar-installation-hudson-valley; phone (914) 877-2578; GBP Bronx (460 E Fordham Rd, #bronx). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide findings (cost guides, eARC, Sonos specs, Sanus brackets, ADA 307.2) are reused from earlier sections of this file and are not repeated except where used.
+
+**Thesis (distinct from the HV hub's old-stock/stone/rural thesis):** Westchester is four housing markets inside one county — (1) interwar brick elevator co-ops and garden apartments in the southern cities (≈42,000 co-ops / 25,000 condos), (2) new steel-stud transit towers in downtown New Rochelle and White Plains, (3) 1920s–30s railroad-suburb Tudors and colonials, (4) northern country houses and 55-plus condo communities — plus an older audience (19.7% aged 65+), so dialogue clarity and hearing-aid streamer compatibility are part of the job.
+
+### 1. Reddit (FC search excerpts only; Firecrawl does not scrape reddit.com; threads not opened)
+- Query: `reddit Westchester soundbar install TV mount` · FC search
+  - https://www.reddit.com/r/Westchester/comments/vpemk1/tv_wall_mount_hide_wires/ — excerpt: "Looking for a professional to mount TV's, a sound bar and speakers to walls in home and hide all wires in the wall." → §5 THE NEIGHBORHOOD para 5 (quoted).
+  - https://www.reddit.com/r/Westchester/comments/1h4ae4b/someone_to_mount_a_tv/ — excerpt: "Do you have cement walls or ..." (75″ mount). → §5 para 5 (paraphrase + "cement walls").
+  - https://www.reddit.com/r/Westchester/comments/1rcy9l0/tv_mounting_westchester/ — excerpt on a Samsung Frame above a fireplace. → background only.
+  - https://www.reddit.com/r/Westchester/comments/1que94f/tv_mounting/ — excerpt names a competitor and "cables hidden in the walls". → background only; competitor not named.
+- Query: `reddit Westchester co-op neighbor noise TV bass Yonkers apartment` · FC search
+  - https://www.reddit.com/r/Westchester/comments/1jlly3b/if_you_want_to_have_a_neighbor_go_be_neighborly/ — excerpt: neighbour across the back yard "plays music late into the night on weekends with loud bass so we hear the thumping in our bedroom". → §5 para 5 (quoted).
+  - r/Apartmentliving and r/hometheater bass threads — not Westchester; not used.
+- r/Yonkers / r/NewRochelle on soundbars: EMPTY (none surfaced).
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted (stated on page as such, §10.5): Thumbtack national TV wall-mount average $121–$234; Angi soundbar bracket/mount $30–$100, concealed wiring $75–$300, permits only for electrical/structural — all from silo research above. Accessory-maker claim on single TV audio output from Feintech (below). → §10.5 H3s 1–4, 6.
+
+### 6. Landmarks (§13, six cards; none used by the HV hub — Kykuit deliberately avoided)
+- `Hudson River Museum Glenview mansion 1877 Warburton Avenue Yonkers` · FC search → https://www.hrm.org/glenview/ — "1877 Gilded Age home on the National Register… designed by architect Charles W. Clinton… currently closed" (restoration, per https://www.hrm.org/events/glenview-historic-home-tour/); https://en.wikipedia.org/wiki/Glenview_Mansion — Warburton Avenue, Yonkers. → §13 card 1.
+- `Lawrence Park Historic District Bronxville houses built artists colony National Register` · FC search → https://en.wikipedia.org/wiki/Lawrence_Park_Historic_District — added to NRHP 1980, early suburban growth; https://theclio.com/entry/157425 — emphasis on attracting artists / art colony. → §13 card 2; "Across the County" Bronxville para.
+- `Westchester County Center White Plains opened 1930 Art Deco arena` · FC search → https://en.wikipedia.org/wiki/Westchester_County_Center — 5,000-seat arena, opened 1930, Art Deco. → §13 card 3.
+- `Playland Rye amusement park opened 1928 …` · FC search → https://en.wikipedia.org/wiki/Playland_(New_York) — built 1928, 280 acres, owned by Westchester County; NRHP nomination https://npgallery.nps.gov/GetAsset/4b8e2d7e-4c98-4de8-b57d-076a47f61853 — "the first totally planned amusement park in the country". → §13 card 4.
+- `Capitol Theatre Port Chester Thomas Lamb 1926 capacity concert venue` · FC search → https://www.thecapitoltheatre.com/history — Thomas Lamb, opened Wednesday August 18, 1926; https://en.wikipedia.org/wiki/Capitol_Theatre_(Port_Chester,_New_York) — 1,800-seat concert venue. → §13 card 5, §8 Port Chester card.
+- `Caramoor Katonah Rosen House Venetian Theater grounds acres` · FC search → https://caramoor.org/ — "81-acre property is the legacy of Walter and Lucie Rosen… established… as a center for music and art in 1945". → §13 card 6.
+- `Heritage Hills Somers condominium community number of homes` · FC search → https://www.heritagehills.com/about-heritage-hills.php — "2600 condos, clustered into 30 Condo groups… over 1,100 acres"; https://www.55places.com/new-york/communities/heritage-hills — 55+ community. → §5 para 6, §7 card 8, co-op paper-trail section, "Across the County" northern para.
+
+### 7. Building stock / use cases
+- (direct) https://www.census.gov/quickfacts/fact/table/westchestercountynewyork/PST045224 · FC scrape (query) → population 1,015,743 (July 1, 2025); housing units 399,598 (July 1, 2025); owner-occupied rate 61.8% (2020–2024); median owner-occupied value $663,200; median gross rent $1,951; persons/household 2.61; persons 65+ 19.7%; households 372,883; broadband 93.7%. → §5 paras 1 & 6, §5.5 stats 1, 4, 5; §10.5 H3 6.
+- (direct) https://cooperatornews.com/article/westchester-county · FC scrape (query, directQuote) → "close to 42,000 co-ops in the county; 25,000 condominiums and about 53,000 rental units spread out among the county's six cities, 14 towns, and 22 villages, according to the planning department's statistics." (article undated in scrape). → §5 para 1, §5.5 stat 2, paper-trail section.
+- Query: `New Rochelle downtown rezoning 2015 new apartments built Governing` · FC search + FC scrape https://www.governing.com/magazine/getting-ahead-of-the-nimby-energy-an-older-city-learns-to-build (Fall 2025, published 2025-10-20) → "More than 4,500 new units are already online, with another 6,500 on the way". https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster — zoning approved December 8, 2015. → §5 para 2, §5.5 stat 3, §7 tower card.
+- (direct) https://www.habitatmag.com/Archive2/201-May-2004/The-80-Percent-Carpet-Rule · FC scrape (query) → *Fraken Builders Inc. v. Ciccone*, apartment at 773 Pelham Road, New Rochelle; downstairs neighbour's repeated complaints incl. New Rochelle Police; co-op relied on the 80% rug/carpet house rule; court ruled for the co-op, judgment for possession. → §5 para 4 (street named, unit number NOT used), checklist "Floor rules".
+- Tudor / Fox Meadow / Lawrence Park building descriptions, interwar co-op wall types (plaster over block/clay tile), Platinum Mile and Central Park Ave corridor descriptions: reused from prior AESS research research/tv-mounting-prices/westchester-county.json (sources listed there: housearchitectureandconstruction.com Scarsdale Tudor page, scarsdale10583.com, NYT, lohud). Not re-fetched this run except where noted. → §7 cards, wall table.
+- Fire-rated corridor/unit-separation walls in multifamily buildings: general building-code knowledge, stated as "typically" with no statistic; not fetched. → §9 corridor-wall Q, §10.5. Flag for review.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Licensing / official sources
+- Query: `Westchester County Department of Consumer Protection home improvement license required contractor` · FC search + FC scrape https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors (modified 2026-04-21) → "Westchester law requires that home improvement contractors have a county license"; licensed-contractor list; renegade renovators list; separate licensing laws for plumbers and electricians; EPA lead-safe certification for renovation disturbing paint in homes/child-care/schools built before 1978; link to compilation of local noise laws. Licence search: https://consumerlicenseweb.westchestergov.com/. → §5.5 stat 6, §8.5 callouts (licensing, electricians, noise, EPA RRP), §10.5 H3s 4 & 7.
+- Query: `Westchester County home improvement license law Chapter 863 …` · FC search → https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIIRUREDEENFA_CH863COPRCO (Ch. 863 Art. XVI, exemptions section exists — text NOT opened; no threshold or exemption claimed on page).
+- Query: `City of Yonkers home improvement license contractor …` · FC search → https://www.yonkersny.gov/DocumentCenter/View/14753/Home-Improvement-License-Application-052825 — "CITY OF YONKERS HOME IMPROVEMENT APPLICATION. 20 South Broadway, 10th Floor". → §5.5 stat 6, §8.5, §10.5, "Across the County" Yonkers para.
+- Query: `Westchester Consumer Protection unlicensed home improvement contractor arrested sting 2025 OR 2026` · FC search → only a 2007 NYT Yorktown sting and an undated ABC7 archive page; nothing recent. Not used. Local news on soundbars/TV mounting: EMPTY.
+
+### 10. Hyperlocal / commercial corridors
+- Query: `Mamaroneck Avenue White Plains bars restaurants watch game Patch` · FC search → https://patch.com/new-york/whiteplains/places-watch-big-game-near-white-plains — lists a venue at 1 Mamaroneck Ave; https://thebrazenfox.com/ — "located in the heart of downtown White Plains on Mamaroneck Avenue". → §8 card 1 (businesses not named as customers; Brazen Fox not named on page).
+- Query: `914inc Westchester Platinum Mile comeback Westchester Avenue office medical` · FC search → https://914inc.com/westchesters-platinum-mile-is-making-a-serious-comeback/ — corridor repositioned toward medical; Westmed at 3030 Westchester Avenue (Purchase). → §8 card 4.
+- Port Chester N. Main St, Tarrytown Main St/Broadway, Central Park Ave, downtown New Rochelle: from prior AESS research (westchester-county.json, sources visitsleepyhollow.com, riverjournalonline.com, lohud 2018, haven-portchester.com). → §8 cards 2, 3, 5, 6.
+- Lohud / Patch / News12 Westchester stories on soundbars: EMPTY (none found).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Technical sources used on this page
+- Query: `hearing aid TV streamer use with soundbar optical output TV Connector Auracast how it works` · FC search → https://forum.hearingtracker.com/t/what-is-your-setup-to-watch-tv-dual-audio-output/106776 (streamer via TV optical port); https://www.reddit.com/r/HearingAids/comments/1vk9ec4/tv_streamer/ (background). FC scrape https://feintech.eu/en/blogs/know-how/hearing-aids-soundbar-simultaneously-tv → "Most TVs only output sound through a single output at a time… internal speakers are deactivated as soon as audio is output via HDMI-ARC, the headphone jack, or the optical output"; "Some televisions offer a feature for simultaneous audio output in their accessibility settings"; "only stereo sound is output". → §9 hearing-aid Q, §10 equipment card + connection table, §10.5 H3 6, Dialogue First section.
+- Query: `Westchester County cable TV franchise providers Optimum Verizon Fios municipalities` · FC search → Verizon franchise PDFs (New Castle 2007, Lewisboro 2018) and a Yelp listing — provider names NOT used on page (cable-box Q kept provider-neutral).
+- Sonos Ray/Beam/Arc Ultra figures, Sanus SASB1 "up to 20 lbs" — silo research above. → §10.
+
+### Sources added for replaced FAQs (2026-10-17)
+- Knee-wall FAQ: Dolby Atmos speaker-setup guide (silo research, https://www.dolby.com/about/support/guide/dolby-atmos-speaker-setup/) — ceiling "should be flat (not angled or vaulted)". No other external fact used.
+- CEC FAQ: general HDMI-CEC behaviour (one-touch play from source devices); no statistic or brand claim; not fetched.
+- Rejected candidates after grepping all 10 soundbar-installation-*.html pages: historic-district approval (Brooklyn), selling the house (Rockland), wallpaper and kitchen bars (Queens), child-proofing (Orange), router far from TV (Rockland/Brooklyn), bar wider than TV (Bronx). NPS FAQ (https://www.nps.gov/subjects/nationalregister/faqs.htm — listing places no restrictions on non-federal owners) was gathered for the historic-district idea but not used.
+
+### Pricing used (published AESS numbers only — nothing new)
+Sources: research/tv-mounting-prices/BRIEF.md (verified price list); research/tv-mounting-prices/westchester-county.json; tv-mounting-prices-westchester-county.html; soundbar-installation-hudson-valley.html (Westchester setup-only $235).
+- Soundbar wall-mounted $129 · placed $79 · Sanus soundbar bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · A/V receiver $129 · universal remote $99 · streaming $49 · full home theater $350.
+- Walls: metal studs +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up $40 · remove old bracket $45 · box removal $25 · COI free.
+- Westchester: TV base $219.99 (32–55″), 56–65″ +$30, TV on stand $144.99, setup-only $235 first hour then 30-min blocks, no parking charge, $150 return-trip fee, free reschedule with 24 h notice.
+- All totals on the page are sums of those lines (e.g. $129 + $84.99 + $45 = $258.99; 65″ TV + bar + bracket = $249.99 + $129 + $84.99 = $463.98).
+
+### Flags for Anwar
+1. **Images look AI-rendered (blocker-level).** Every images/low-voltage photo (38 distinct shots behind 310 files) shows identical "ABSTRACT Enterprise LLC" uniforms, generic offices, a "123 MAIN STREET" directory, "abstractsecurity.com" on a van. The brief says never AI-generated images. 11 were copied per the permanent image rule so the page is testable; please confirm these are real AESS photos, or replace them. Same issue on all live soundbar pages (Manhattan flag 4).
+2. §9 Westchester multiplier 1.25× NOT applied — published Westchester menu keeps soundbar add-ons at the same $79/$129/$84.99 and expresses the area difference in the TV base ($219.99) and setup hour ($235). Same approach as Manhattan. Confirm.
+3. Payment wording: BRIEF says TV jobs are paid in full online at booking; mandatory warranty sentence says 50% deposit. Page carries only the mandatory sentence; no payment Q.
+4. Page does not claim AESS holds a Westchester County or Yonkers home improvement licence; it tells readers to check the county licence search. Confirm AESS's county licence status — if held, add the number.
+5. Fire-rated corridor-wall statement is general code knowledge, phrased "typically", not fetched.
+6. FAQ 1 (worked Tudor-plaster cost) overlaps in broad intent with every hub's cost FAQ and Manhattan FAQ 1 (worked plaster total) — kept as a Westchester-specific worked total; main run to judge.
+7. Coverage-type and parking questions deliberately NOT asked as Q&A (owned by LI/Manhattan/NYC); "no parking charge" appears only in body/pricing.
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per main run). Copied from images/low-voltage/ → images/soundbar-installation/ as WebP q80, 1400 px wide. Sources compared to all soundbar pages by perceptual hash (dHash, ≤12 bits = same photo).
+| New file | Source | Already on another soundbar page? |
+|---|---|---|
+| soundbar-installation-westchester-county-crew-mounting-wall-display.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | yes |
+| soundbar-installation-westchester-county-recessed-box-beside-screen.webp | low-voltage-installation-bronx-display-recessed-box.jpg | yes |
+| soundbar-installation-westchester-county-ceiling-speaker-meeting-room.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | yes |
+| soundbar-installation-westchester-county-ceiling-speaker-cart-and-amp.webp | low-voltage-installation-long-island-ceiling-speaker-install.jpg | yes |
+| soundbar-installation-westchester-county-two-techs-video-wall-panels.webp | low-voltage-installation-manhattan-11-video-wall-installation.jpg | yes |
+| soundbar-installation-westchester-county-rack-patching-av-network.webp | low-voltage-installation-bronx-05-idf-rack-patching.jpg | no |
+| soundbar-installation-westchester-county-patch-panel-punchdown.webp | low-voltage-installation-bronx-06-cat6-patch-panel-punchdown.jpg | no |
+| soundbar-installation-westchester-county-ceiling-device-drop-cable.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | no |
+| soundbar-installation-westchester-county-lift-ceiling-device-install.webp | low-voltage-installation-bronx-access-point-lift-install.jpg | no |
+| soundbar-installation-westchester-county-column-patch-panel-build.webp | low-voltage-installation-bronx-idf-patch-panel-build.jpg | no |
+| soundbar-installation-westchester-county-cable-tray-pathway-highbay.webp | low-voltage-installation-bronx-hero-warehouse-cable-tray.jpg | no |
+Skipped (readable text): van with phone/URL, "123 MAIN STREET" lobby directory, school corridor signage. All AV-relevant photos (displays, speakers) are already used by other soundbar pages; the 6 unused ones are network/ceiling low-voltage work. Rockland/Orange builders in this batch also drew from the same pool (overlap with their rack/punchdown/recessed-box picks is likely).
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+### Keyword notes (five layers)
+- Service: soundbar installation Westchester County, soundbar mounting, soundbar under TV, TV and soundbar installation, hide soundbar wires, soundbar setup, soundbar repair.
+- Problem: can't hear dialogue, soundbar no sound / dropping out, lip-sync, hearing-aid streamer silent with soundbar, bass reaching neighbours, plaster/block/steel walls won't hold, corridor wall can't be opened.
+- Technology: HDMI eARC/ARC, CEC, optical, HDMI audio extractor, optical splitter, wireless subwoofer, rear surrounds, centre channel, Dolby Atmos, Sanus bracket, in-wall power kit, cord cover, Ethernet/mesh.
+- Industry: co-ops/condos, rental towers, 55-plus communities, restaurants/bars (Port Chester, Tarrytown, White Plains), Platinum Mile medical/offices, Central Park Ave retail/gyms, home offices.
+- Geographic: Westchester County; Yonkers, Mount Vernon, New Rochelle, White Plains, Port Chester, Rye, Peekskill, Scarsdale, Bronxville, Pelham, Larchmont, Mamaroneck, Harrison, Eastchester, Tuckahoe, Hartsdale, Rivertowns, Ossining, Croton, Chappaqua, Mount Kisco, Armonk, Katonah, Bedford, Pound Ridge, Somers, Yorktown, North Salem; Warburton Ave, Mamaroneck Ave, North Main St, Westchester Ave (Platinum Mile), Central Park Ave, Pelham Road.
+
+## Question register — soundbar-installation-westchester-county
+(Q&A = §9 YOUR QUESTIONS ANSWERED, H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 12:
+1. The only wall our sofa faces in our co-op is an outside wall — can the soundbar be fixed to it?  (Co-ops, condos and the new towers)
+2. The TV wall in our new downtown rental backs onto the building corridor — can the wires go inside it?  (same)
+3. Our Tudor living room is panelled in old oak — can a bracket go on it without ruining the wood?  (Tudors, colonials and the railroad villages)
+4. The fireplace sits off-centre on the wall — should the TV and soundbar line up with the chimney or with the sofa?  (same)
+5. Is a soundbar all right in an enclosed sunporch that isn't heated in winter?  (same)
+6. We still have in-ceiling surround speakers from an older system — can a soundbar replace them, and what happens to the old ones?  (Bigger houses up county)
+7. Can the family room and the primary bedroom each get a soundbar on the same visit?  (same)
+8. I work from home — can the soundbar double as the speaker for video calls on the TV?  (same)
+9. Does the cable box plug into the soundbar or into the TV?  (Connections and listening)
+10. Can a parent's hearing-aid TV streamer work alongside the soundbar?  (same)
+11. Our restaurant wants game sound in the bar but quiet in the dining room — can soundbars do that?  (Westchester businesses and communities)
+12. Can you set up a soundbar for a relative in a senior or 55-plus community?  (same)
+
+FAQ (§17) — 7:
+1. What does a soundbar on Tudor plaster come to in Westchester, bracket included?  (partial overlap with hub/Manhattan cost FAQs — flag 6)
+2. The TV is being delivered by a store — should I book you for the same day or the day after?
+3. We moved up from the city — can the bracket from our old apartment be reused?
+4. Our TV room is a finished attic with low knee walls — where can the soundbar go?  (replaced 2026-10-17: "Does someone need to stay home…" duplicated Queens)
+5. The walls were painted last week. Is it too soon to mount the soundbar?
+6. Will you show us how to use it, and what if we forget a setting later?
+7. Since the soundbar went in, the TV keeps switching inputs or turning itself on — what causes that?  (replaced 2026-10-17: projector Q duplicated Queens/Orange. Partial-overlap note: Rockland asks whether a waiting-room bar can switch on/off with the TV — that is the wanted CEC feature; this FAQ is the unwanted CEC side-effect)
+
+Other question-form headings (repair capture, not Q&A/FAQ): "Soundbar Dropping Out in a Westchester Living Room?", "Bar Lost Its Voice Somewhere in Westchester?"
+
+De-dup notes: checked by meaning against every question in the NYC, Long Island, Hudson Valley and Manhattan registers. Deliberately avoided (owned elsewhere): board approval, COI contents, freight/contractor hours, plaster cracking, brick party wall, concrete anchoring, sub vs neighbours below, sub placement, noise code, renter wire hiding, deposit, room size, dialogue clarity (as such — this page asks only the hearing-aid-streamer intent), couch distance, walk-up, parking, permits, licences, outlets, patch & paint, reschedule, warranty, one remote, hours, coverage extent, price differences between areas, Atmos/vaulted ceilings, fireplace heat/mantel, built-ins, basement sub, rear-speaker outlets, slab/high-ranch, patio/pool house, salt air, closing a summer house, horsehair plaster, finding framing, stone walls, log walls, big-room thin sound, ARC dropouts, rural internet, storms, weekend house, travel distance, alcove, factory loft, brewery, conference room, metal-stud office wall, TV over hearth price, wall turns out to be stone, above-TV mounting, no-ARC TV, packaging, Sonos setup, doorman, package room, moving-in timing, pressurized walls, glass walls, lead paint, office conversions, free-standing loft TV, radiator cover, harsh sound, L-shaped studio, Wi-Fi congestion, One Connect, commercial music limits, fixed-volume waiting rooms, repaint takedown, previous tenant's bracket, amenity rooms, adding sub/rears, TV on stand. Rockland and Orange pages were built in parallel and were not on disk at check time — main run should compare.
+
+
+## Rockland County (soundbar-installation-rockland-county)
+
+Built 2026-10-17 (batch subagent; area page, up = /soundbar-installation-hudson-valley). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless scraped); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide sources (eARC, Sonos/Sanus specs, Dolby ceiling guidance, Angi/Thumbtack cost claims, Crutchfield Q990D, Netflix bandwidth) are reused from the silo sections above and marked "(silo)".
+
+**Thesis (distinct from HV hub, Westchester, Orange):** Rockland was built out in one post-1955 burst (Tappan Zee Bridge, Palisades Parkway, Thruway) of split-levels and raised ranches for big households (3.22 persons/household). The soundbar job is governed by half-level geometry — open stairwells carrying sound to bedrooms, lower-level walls that are foundation block below and framing above, paneling on furring strips, ducts from the adjoining furnace room, low soffits — plus multi-household two-family houses in Ramapo/Haverstraw and a county home-improvement licensing law rewritten in 2026 (Chapter 286).
+
+### 1. Reddit (Firecrawl search excerpts only; threads not opened)
+- Query: `reddit r/Rockland Optimum vs Fios Rockland internet` · Firecrawl search
+  - https://www.reddit.com/r/Rockland/comments/1i0qwu0/optimum_vs_fios_in_rockland/ — excerpt: "Optimum - at least, in Nanuet - is a disaster. It's a DOCSIS 3.1 cable service, so the upload is asymmetric." → §9 Q "router a floor away" (paraphrased).
+  - https://www.reddit.com/r/Rockland/comments/1j9ppev/fiosoptimum/ — excerpt: Fios "is synchronous bandwidth". → same Q.
+- Query: `reddit r/Rockland licensed contractor home improvement scam warning` · Firecrawl search
+  - https://www.reddit.com/r/Rockland/comments/1smf4xk/no_more_licensed_rockland_contractors/ — excerpt: "apparently I can register myself as a Home Improvement Contractor without any training?" → §5 para 5 (quoted fragment).
+  - https://www.reddit.com/r/Rockland/comments/16dhrjt/home_improvement_contractor_scam_a_warning/ — excerpt about a driveway contractor; background only, not used.
+- Query: `reddit r/Rockland soundbar OR "surround sound" OR "home theater" installer` · Firecrawl search → no r/Rockland soundbar thread (results were AESS's own pages, Yelp listing, unrelated subs). Rockland-specific soundbar Reddit: EMPTY.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted with claims ranking pages publish (§10.5):
+- (direct) https://www.homeyou.com/ny/tv-mounting-service-nyack-costs · Firecrawl scrape (directQuote) — "Typical Range: $207 - $970"; "average is $230 to $500"; "In most of Nyack, tv mounting service typically requires a permit…" → §10.5 H3 1 and H3 2 (claim corrected).
+- (direct) https://rocklandhandymanservices.com/services/tv-mounting · Firecrawl scrape — "$150/hour with a one-hour minimum, then billed in 15-minute increments" → §10.5 H3 3 (business not named on page).
+- Angi bracket add-on $30–$100; Angi surround sound $241–$1,350 (silo). Dolby flat ceiling 7.5–14 ft (silo). Crutchfield HW-Q990D rears need AC (silo). → §10.5 H3 4–6.
+
+### 6. Landmarks (§13, six cards; none used by the HV hub, which used Palisades Center)
+- Query: `DeWint House Tappan George Washington headquarters built 1700` · Firecrawl search → https://www.hudsonrivervalley.com/sites/DeWint-House-/details — "Built in 1700, the stone and brick house… is the oldest surviving building in Rockland County"; Wikipedia: Washington's temporary HQ. → §13 card.
+- Query: `Piermont Pier mile long Camp Shanks "Last Stop USA" Piermont` · Firecrawl search → https://piermonthistoricalsociety.org/world-war-ii/ — "Nicknamed 'Last Stop USA', the pier was the last place over a million service men and women touched American soil"; https://historynet.com/camp-shanks-last-stop-u-s-a/ — "A mile-long wooden pier". → §13 card.
+- Query: `Rockland Lake State Park Knickerbocker Ice Company history Valley Cottage Congers` · Firecrawl search → https://en.wikipedia.org/wiki/Knickerbocker_Ice_Company — "founded in 1831 on the eastern bank of Rockland Lake in the hamlets of Congers and Valley Cottage". → §13 card.
+- Query: `Haverstraw Brick Museum brickmaking history Haverstraw brickyards` · Firecrawl search → https://www.haverstrawbrickmuseum.org/click-a-brick — "By 1883— with 41 brickyards operating in Haverstraw, employing an estimated 2,400 men, Haverstraw became the world's largest producer of bricks." → §13 card; brick-hearth wall bullet.
+- Query: `Stony Point Lighthouse 1826 oldest lighthouse Hudson River Stony Point Battlefield State Historic Site` · Firecrawl search → https://parks.ny.gov/visit/historic-sites/stony-point-battlefield-state-historic-site — "The Stony Point Lighthouse, built in 1826, is the oldest lighthouse on the Hudson River, and operated for ninety-nine years." → §13 card.
+- Query: `Lafayette Theatre Suffern single screen 1924 Lafayette Avenue` · Firecrawl search → https://en.wikipedia.org/wiki/Lafayette_Theatre_(Suffern) — "built in 1923"; https://lafayettetheatersuffern.com/ — 97 Lafayette Avenue. → §13 card, §8 Suffern card. (Instagram says "Circa 1924"; page uses 1923 per Wikipedia.)
+- Query: `Mario M. Cuomo Bridge opened replaced Tappan Zee Bridge South Nyack Tarrytown` · Firecrawl search → https://en.wikipedia.org/wiki/Tappan_Zee_Bridge_(2017%E2%80%93present) — connects South Nyack and Tarrytown; westbound span opened Aug 26, 2017, eastbound Sept 11, 2018; replaced 1955 bridge. → §5 para 3.
+
+### 7. Building stock / use cases
+- Query: `Rockland County NY housing raised ranch split level homes built 1960s Clarkstown Ramapo suburban growth Tappan Zee Bridge` · Firecrawl search → https://www.rocklandhistory.org/a-brief-history-of-rockland · Firecrawl scrape (directQuote): "By 1950, fewer than 150 farms remained in Rockland. In 1950s, homes were built at a rate of more than one thousand per year. Much of this growth was brought about by the opening of Tappan Zee Bridge in 1955 and the completion of the Palisades Interstate Parkway and the New York State Thruway during the same decade." → §5 para 1, §5.5 stat 1.
+- Query: `"raised ranch" Rockland County NY New City Pomona homes built 1960s 1970s split level` · Firecrawl search → https://www.oddsandendsny.com/areas/new-city · Firecrawl scrape: "The housing stock in New City is predominantly split-level and raised ranch homes built in the 1960s–70s". → §5 para 2, §7 cards, town-by-town Clarkstown. (Source is a handyman's service page — cited as such, no statistic drawn.)
+- Stacker (silo, HV hub research): Rockland median year built 1970; 11.5% (12,523) built 1939 or earlier → §5 para 1, §5.5 stat 2.
+- (direct) https://www.census.gov/quickfacts/fact/table/rocklandcountynewyork/PST045224 · Firecrawl scrape (query): population 357,397 (July 1, 2025); housing units 109,999 (July 1, 2025); owner-occupied 67.9% (2020–2024); persons/household 3.22; language other than English at home 44.2%; broadband subscription 87.8%; land area 173.44 sq mi (2020). → §5 paras 3–4, §5.5 stats 3–5.
+- (direct) https://censusreporter.org/profiles/05000US36087-rockland-county-ny/ · Firecrawl scrape (query): single-unit structures 64%. → §5 para 4, §5.5 stat 4.
+- Comparison figures Nassau 2.99 / Suffolk 2.93 persons per household (silo, LI hub QuickFacts). → §5 para 4.
+- Prior AESS research reused as background (research/tv-mounting-prices/rockland-county.json, sources list): Pearl River capes/colonials 1920s–1960s (JMR Construction), Pomona raised ranches/splits on wooded lots (TOCR), Route 303 office parks (LoopNet 300 Corporate Dr), New City courthouse at 1 South Main St (nycourts.gov). → §7 cards, §8 cards, town-by-town section. Not re-fetched this run.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- Query: `Rockland County home improvement license Office of Consumer Protection contractor requirement` · Firecrawl search → https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/frequently-asked-questions · Firecrawl scrape: "Any person or business that performs home improvement work on residential property in Rockland County must have a valid Home Improvement Contractor License"; online database to verify; unlicensed contractors "may not carry liability, disability, or workers' compensation insurance"; office also licenses electricians and electrical inspection agencies. → §8.5 bullets 1–2, §5 para 5, glossary.
+- (direct) https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits · Firecrawl scrape: "Under Chapter 286 of the Rockland County Home Improvement Law, all individuals performing home improvement work must obtain a Home Improvement License"; "Laws of Rockland County Chapter 286 – Effective May 14, 2026"; "Contractors must be lead-safe certified." → §5.5 stat 6, §8.5 bullets 1 and 3, glossary. **Note: the queue brief/older AESS pages say "Ch. 250"; the county's current page says Chapter 286 — page uses 286.**
+- Query: `Rockland County legislature home improvement contractor licensing board dissolved director 2026 News12 lohud` · Firecrawl search →
+  - https://longisland.news12.com/2026/04/15/tempers-flare-tuesday-night-as-rockland-county-re-writes-contractor-licensing-rules/5PDORDgg6n88VIk8Oa0c0F · Firecrawl scrape: legislators voted to scale back HIC licensing; editor's note: Consumer Protection director now approves licences, licensing board advisory; "Home improvement contractors in Rockland County have been required to be licensed since 1986." → §5 para 5.
+  - https://www.lohud.com/story/news/local/rockland/2026/04/15/rockland-county-ny-general-contractor-rules-overhauled/89621352007/ · Firecrawl scrape (paywalled; only metadata/lede): "The Legislature voted 14-1 to make the changes." → §5 para 5.
+- Query: `rocklandtimes OBC issues 51 violations $42K fines property owner Spring Valley` · Firecrawl search → https://rocklandtimes.com/2026/01/29/obc-issues-51-violations-42k-in-fines-to-property-owner/ — 51 violations incl. "Alterations without required permits", "Electrical safety hazards"; "One and two-family houses are not subject to routine inspections". → §5 para 4 (property owner not named on page).
+- Query: `Orange and Rockland Utilities power outage customers storm Rockland 2026` · Firecrawl search → https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k — 47,000+ customers affected since July 1, 2026. → not used (HV hub owns the storm/surge intent).
+
+### 10. Hyperlocal / commercial corridors
+- Query: `The Shops at Nanuet open-air mall Route 59 opened 2013 replaced Nanuet Mall` · Firecrawl search → https://en.wikipedia.org/wiki/Nanuet_Town_Centre — "Built on the site of the former Nanuet Mall, the Shops at Nanuet debuted in 2013." → §8 Route 59 card.
+- Query: `Pearl River St. Patrick's Day parade second largest New York State Central Avenue` · Firecrawl search → https://www.facebook.com/rocklandgov/posts/... (Rockland County Government post) — "second largest in New York State"; https://explorerocklandny.com/event/rockland-county-st-patricks-day-parade-2026/ — 62nd annual parade, Sunday March 22, 2026, Pearl River. → §8 Central Avenue card.
+- Query: `Nyack Main Street Broadway restaurants bars downtown village Nyack shops` · Firecrawl search → https://m.yelp.com/search?cflt=restaurants&find_loc=Main+St%2C+Nyack%2C+NY+10960 — listing excerpt: "The Hudson House · 134 Main St, Nyack". → §8 Nyack card (named as an example only, not a customer).
+- Patch / Nyack News & Views / Rockland Times on soundbars or TV audio: EMPTY (none found).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Technical sources used on this page (all silo, not re-fetched)
+Sonos Arc Ultra 46.38 in / 13.01 lb and ≥4 in gap below TV (sonos.com guide); Beam Gen 2 25.63 in / 6.35 lb; Ray ~56 cm / 1.95 kg optical (WhatHiFi, Gear Patrol); Sanus SASB1 up to 20 lb; Dolby up-firing ceiling flat 7.5–14 ft; Crutchfield Q990D rears need AC; ARC vs eARC (awolvision); Netflix 4K 15 Mbps; ADA 2010 §307.2 (silo, LI builder).
+
+### Pricing used (published AESS numbers only — no new prices)
+Sources: research/tv-mounting-prices/BRIEF.md; research/tv-mounting-prices/rockland-county.json; tv-mounting-prices-rockland-county.html (live repo page: "No parking or travel charge applies anywhere in Rockland", setup-only $235 first hour, TV on stand $144.99); soundbar-installation-hudson-valley.html (Rockland $235 / $219.99 rows).
+- Soundbar wall-mounted $129 · placed $79 · Sanus bracket $84.99 · in-wall $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350.
+- Walls: metal studs +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up $40 · remove old bracket $45 · box removal $25 · COI free · travel/parking $0.
+- Rockland: setup-only $235 first hour then 30-min blocks; TV base $219.99 (32–55″ on stud drywall); TV on stand $144.99; $150 return-trip fee; free reschedule with 24 h notice.
+- Totals on page are sums of those lines only ($213.99, $263, $278.99, $298.99, $308.99, $347.99, $382.99, $427.98, $427.99, $433.98, BYOE $129 / $204).
+- §9 Rockland multiplier (1.30×) NOT applied — silo convention (as Manhattan flag 1): published menu keeps add-ons flat and expresses the area premium in the TV base/setup rate.
+
+### Flags for Anwar
+1. **Licensing wording.** County page cites Chapter 286 (effective May 14, 2026), not "Ch. 250". The page states the county rule neutrally and does NOT claim AESS holds a Rockland Home Improvement License — please confirm whether AESS holds one; if yes, it could be added to the trust row.
+2. **Images.** All 11 are from images/low-voltage/ (permanent image rule). Like the Manhattan builder noted, the library photos look rendered (uniform shirts, crisp logos); several show technicians in side profile (faces partly visible). I chose back/three-quarter-rear views where possible; please confirm these are real AESS photos, otherwise they conflict with "never AI-generated".
+3. Westchester/Orange siblings built concurrently: I removed my questions that overlapped theirs (two-room visit, cable box into TV/bar, hearing-aid streaming, old surround removal, basement pre-wire, offices & shops). Main run should re-check after their registers are final.
+4. FAQ 1 is a worked cost total (block wall + cord cover) — partial overlap with every hub's cost FAQ, as on Manhattan.
+
+## Question register — soundbar-installation-rockland-county
+(Q&A = §9 YOUR QUESTIONS ANSWERED, H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 14:
+1. In our split-level the TV faces a half-wall that drops to the stairs — where does the sound go, and can we aim it better?  (Split-levels, raised ranches and sound on half-levels)
+2. The bedrooms are a half-flight above the family room — how do we keep a late movie from waking the house?  (same)
+3. The lower-level TV wall is foundation block at the bottom and wood framing on top — which part carries the bracket?  (same)
+4. Our 1960s family room still has wood paneling over furring strips — what holds a soundbar on that?  (same)
+5. There's a heating duct inside the wall behind our TV — can the cables still be hidden?  (same)
+6. Can drilling anchor holes into a block foundation wall let water into the basement?  (Finishing, buying and selling Rockland houses)
+7. We just bought a raised ranch with old speaker wire and a mystery wall plate behind the TV — can any of it be used?  (same)
+8. We're selling — should the soundbar and its bracket stay with the house?  (same)
+9. Is a damp lower level a bad place for a soundbar and subwoofer?  (same)
+10. With a seven-foot lower-level ceiling and a soffit over the TV wall, how do the TV and the bar both fit?  (Low ceilings, shared walls and the network)
+11. Our townhouse association won't allow drilling into the party wall — where can the TV and bar go instead?  (same)
+12. Our router is a floor away from the TV — will a Wi-Fi soundbar hold its connection?  (same)
+13. We rent the lower unit of a two-family house — what do we need from the owner before a bracket goes up?  (Two-family homes and Rockland offices)
+14. Can a soundbar in an office waiting room switch on and off with the TV by itself?  (same)
+
+FAQ (§17) — 8:
+1. What would a soundbar on a painted block basement wall cost in Rockland, with the wires covered?
+2. Our basement wet bar has a tiled wall where the TV goes — can the soundbar be mounted on tile?
+3. Can you fix a soundbar another installer put up that has since stopped working?
+4. Can you move the TV and soundbar from the upstairs living room down to the lower-level den?
+5. We are moving within Rockland — can you take the soundbar down at the old house and put it up at the new one?
+6. Will you run the soundbar's room-calibration routine before you leave?
+7. Does the soundbar have to be the same brand as the TV?
+8. Does the price change if the soundbar goes on the lower level instead of upstairs?
+
+Other question-form headings (repair capture, not Q&A/FAQ): "Soundbar Cutting Out in Rockland County?", "Want Your Rockland Soundbar Price on Paper?", "Soundbar Trouble Anywhere From Tappan to Stony Point?"
+
+De-dup notes: checked by meaning against every question in the NYC, Long Island, Hudson Valley and Manhattan registers, and against the in-progress Westchester and Orange pages on disk at build time. Deliberately avoided (owned elsewhere): COI contents, board approval, plaster cracking, concrete high-rise anchoring, sub vs neighbour below, noise code, renter wire hiding, deposit, dialogue clarity, high-ranch den vs upstairs (LI), basement wire routing (LI), Atmos under vaulted/cathedral ceilings (LI/HV), fireplace heat, outdoor/patio, surge/storms (HV), rural internet (HV), dense-building Wi-Fi (Manhattan), conference room bar vs ceiling speakers (HV), outlet add/move, patch & paint, reschedule, warranty, one remote, hours, licence checks (LI Q16 — licensing covered only in body §5/§8.5), travel charge (Orange FAQ), two rooms one visit / cable-box routing / hearing-aid streaming / old in-ceiling surround (Westchester), new-build pre-wire / offices & shops (Orange).
+
+## Images (11) — permanent image rule
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per main run). 11 chosen from the second third (files 104–207) of the alphabetical images/low-voltage/ listing, each viewed before use; converted with PIL to WebP q80, 1400 px wide. Perceptual-hash comparison against images/soundbar-installation/ before copying: 4 of 11 are photos no soundbar page uses.
+| New file | Source | Used by another soundbar page? |
+|---|---|---|
+| soundbar-installation-rockland-county-two-techs-aligning-wall-display.webp | low-voltage-installation-manhattan-11-video-wall-installation.jpg | yes (same photo on a hub) |
+| soundbar-installation-rockland-county-recessed-box-beside-wall-display.webp | low-voltage-installation-manhattan-display-recessed-box.jpg | yes |
+| soundbar-installation-rockland-county-ceiling-speaker-amp-cart-office.webp | low-voltage-installation-manhattan-ceiling-speaker-conference.jpg | yes |
+| soundbar-installation-rockland-county-ceiling-wifi-access-point.webp | low-voltage-installation-manhattan-09-ceiling-access-point-drop.jpg | no |
+| soundbar-installation-rockland-county-patch-panel-punch-down.webp | low-voltage-installation-nassau-county-02-cat6-patch-panel-punchdown.jpg | no |
+| soundbar-installation-rockland-county-network-rack-patching.webp | low-voltage-installation-nassau-county-06-idf-rack-patching.jpg | no |
+| soundbar-installation-rockland-county-wall-plate-jack-termination.webp | low-voltage-installation-nassau-county-hero-keystone-wall-plate.jpg | yes |
+| soundbar-installation-rockland-county-jhook-cable-bundle-ceiling.webp | low-voltage-installation-manhattan-hero-jhook-pathway.jpg | yes |
+| soundbar-installation-rockland-county-open-framing-cable-rough-in.webp | low-voltage-installation-nassau-county-09-metal-stud-rough-in.jpg | yes |
+| soundbar-installation-rockland-county-ceiling-grid-cable-drop.webp | low-voltage-installation-nassau-county-03-ceiling-grid-bundle-pull.jpg | yes |
+| soundbar-installation-rockland-county-lift-access-point-community-room.webp | low-voltage-installation-orange-county-02-access-point-lift-install.jpg | no |
+Skipped after viewing: tone-generator trace (clear face), school-corridor shots (clear face, school signage), IDF patch-panel build (readable floor-plan document), NYC van load-out (shows "abstractsecurity.com", not the site domain).
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+
+## Orange County (soundbar-installation-orange-county)
+
+Built 2026-10-17 (batch: Westchester, Rockland, Orange). Area page, up = /soundbar-installation-hudson-valley, phone (845) 640-3835, GBP Bronx (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts unless scraped); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query/directQuote mode). Silo-wide findings (PAA/PASF/ATP/AI Overview EMPTY, eARC, Sonos specs, Sanus brackets, Angi/Thumbtack figures, ADA §307.2) reused from the existing silo research above; not repeated except where used.
+
+**Thesis (distinct from the HV hub's old-walls/rural/weekend-house angle and from the Westchester/Rockland siblings):** Orange County is the region's *moving* county — steady population growth, large new-construction communities (Tuxedo Reserve 1,600+ homes), city households arriving on the Port Jervis Line, and Army households at West Point/Stewart on short tours. The soundbar job is shaped by *where the house is in its life*: pre-wire while walls are open, respect townhome separation walls / HOA / landlord / on-post rules, and set the system up to survive (and be reconnected after) the next move. Plus Orange-specific licensing (county electrical licence for outlets) and no travel charge county-wide.
+
+### 1. Reddit
+- Query: `reddit hudsonvalley OR OrangeCountyNY moving to Orange County NY from NYC new build TV mount soundbar` · Firecrawl search → https://www.reddit.com/r/hudsonvalley/comments/1jdsba8/what_is_the_deal_with_orange_county/ — excerpt "I moved to Orange County a couple of years ago…" (newcomer thread; context only, not quoted). No soundbar/TV-mount Orange thread found. → background for §5 (newcomers); not quoted.
+- Query: `reddit westpoint OR army PCS West Point off-post housing Highland Falls Cornwall rent` · Firecrawl search → https://www.reddit.com/r/army/comments/1psat9r/pcsing_to_west_point_without_ever_being_there/ — excerpt "I PCS to West Point this summer with my wife and kids… I have heard there are all kinds of rules and traditions." → §5 para 4 (quoted).
+- Reddit threads could not be opened (Firecrawl: "we do not support this site"). Local Reddit on soundbars specifically: EMPTY.
+- Prior AESS research (research/tv-mounting-prices/orange-county.json research_notes, not re-opened): r/hudsonvalley trade-recommendation threads (Campbell Hall electrician, Orange contractor), r/OrangeCountyNY revived with no TV threads, r/newburgh no TV threads. Background only.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted with published cost-page claims (stated on page as such, §10.5):
+- Homeyou West Point TV-mounting cost page (https://www.homeyou.com/ny/tv-mounting-service-west-point-costs) — average $400–$535, typical $206–$962 — from prior AESS research (orange-county.json, Oct 2026), not re-fetched this run. → §10.5 H3 1.
+- Thumbtack Middletown (https://www.thumbtack.com/ny/middletown/tv-wall-mount-install) — sample $119 mount / $139 with in-wall wires — prior AESS research, not re-fetched. → §10.5 H3 2.
+- Angi surround sound $241–$1,350, avg ~$794 (https://www.angi.com/articles/how-much-does-it-cost-install-surround-sound.htm) — from silo research (HV builder). → §10.5 H3 5.
+
+### 6. Landmarks (§13, six cards — Storm King avoided because the HV hub uses it)
+- Query: `LEGOLAND New York Goshen opened 2021 acres; Woodbury Common Premium Outlets Central Valley number of stores` · Firecrawl search → https://en.wikipedia.org/wiki/Legoland_New_York — 150 acres, opened May 20, 2021; https://www.legoland.com/new-york/ — Goshen, "60 miles northwest of New York City". → §13 card.
+- Firecrawl scrape https://en.wikipedia.org/wiki/Woodbury_Common_Premium_Outlets — Central Valley (Woodbury); opened late 1985; 220 stores; 845,000 sq ft; Route 32 north of Route 17, west of Thruway Exit 16. → §13 card, §8 card.
+- Firecrawl scrape https://en.wikipedia.org/wiki/East_End_Historic_District_(Newburgh,_New_York) — 445 acres, 2,217 buildings, NRHP 1985, two-/three-storey brick Italianate townhouses, includes Washington's Headquarters. → §5, §5.5, §13 card.
+- Firecrawl scrape https://en.wikipedia.org/wiki/New_York_Stewart_International_Airport — Towns of Newburgh and New Windsor; 105th Airlift Wing NY ANG; Port Authority (rebranded 2018); built 1930s for West Point cadet aviation. → §5 para 4, §13 card.
+- USMA West Point + West Point Family Homes (see §7 below). → §13 card.
+- Tuxedo Reserve (see §7). → §13 card.
+
+### 7. Building stock / use cases
+- Query: `Orange County New York fastest growing county population 2025 census estimate` · Firecrawl search + scrape https://usafacts.org/answers/is-the-population-growing-or-shrinking/county/orange-county-ny/ — "It grew by 2,600 between 2024 and 2025"; "between 2015 and 2025… grew by 11.1%"; "increased 23 out of 25 years" since 2000; 0.62% annual increase driven mainly by births outpacing deaths. → §5 para 1, §5.5.
+- Firecrawl scrape https://censusreporter.org/profiles/05000US36071-orange-county-ny/ — 411,767 population; 152,422 housing units; owner-occupied 66%; single unit 69%; median owner-occupied value $426,900; 2.8 persons/household; mean travel time to work 35.3 min; 91% same house a year ago, 2% from different county, 2% different state. → §5 paras 1 & 3, §5.5.
+- Query: `new construction homes Orange County NY communities Chester Monroe Montgomery Middletown builder 2026` · Firecrawl search; scrape https://www.newhomesource.com/communities/ny/orange-county-area/montgomery — Orange communities listed: Tuxedo Reserve (Lennar: Terraces at Upland Park, Townes at Upland Park, Classic/Pershing/Brookton at West Terrace), Ridgebury Estates (Slate Hill), Grandview Estates (New Hampton), Palisades Ridge at Woodbury Junction (Central Valley, The Carteret Group, from $399,990), Blackburne Homes (Campbell Hall, Rieger Homes). (Hudson Valley entries outside Orange ignored.) → §5 para 2, §7, town-by-town.
+- Query: `Tuxedo Reserve Lennar homes Tuxedo NY Upland Park number of homes approved` · Firecrawl search → https://www.zillow.com/community/tuxedo-reserve-pershing-at-west-terrace/31713792_plid/ — "Pershing… is a three-story townhome"; https://www.recordonline.com/story/news/local/2022/10/05/tuxedo-farms-board-nears-approval-1600-home-development-orange-county-real-estate/69522696007/ (excerpt) — revised breakdown 755 townhouses, 411 apartments, 269 single-family. Firecrawl scrape https://www.ocpartnership.org/news/details.aspx?id=2a80ecf6-8331-4654-9fe9-eb5bfc66f994 — Lennar + Related broke ground; "more than 1,600-unit community"; formerly Tuxedo Farms, 1,200 acres between Harriman State Park and Sterling Forest; The Village at Tuxedo Reserve town centre; 93 apartments in four mixed-use buildings; home sales from 2025, rental leasing 2026. → §5 para 2, §5.5, §7, §13, town-by-town.
+- Query: `Residential Code of New York State townhouse separation wall fire-resistance R302.2 electrical boxes penetrations two-hour` · Firecrawl search → https://codes.iccsafe.org/s/IRC2021P2/chapter-3-building-planning/IRC2021P2-Pt03-Ch03-SecR302.2.2 and https://co.routt.co.us/DocumentCenter/View/15197 (IRC commentary excerpt) — townhouse units separated by two 1-hour walls (R302.2.1) or a common 2-hour wall (R302.2.2); electrical outlet box penetrations per R302.4 (steel boxes ≤16 sq in, aggregate ≤100 sq in per 100 sq ft, annular space ≤1/8 in). Statement that NY's Residential Code is based on the IRC = builder knowledge, not fetched. → §7 card + methods, §9 townhome Q, glossary.
+- Port Jervis Line: Firecrawl search `Port Jervis Line Metro-North stations…` → https://en.wikipedia.org/wiki/Port_Jervis_Line — operated by NJ Transit under contract with Metro-North; Harriman "the busiest station on the line"; Campbell Hall serves Goshen, Montgomery, Walden; Tuxedo has the original 1883 building; mile-long tunnel near Otisville. https://www.mta.info/schedules/metro-north/port-jervis — station list (Port Jervis, Otisville, Middletown/Town of Wallkill, Campbell Hall, Salisbury Mills, Harriman, Tuxedo → Hoboken). → §5 para 3, town-by-town.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- West Point housing: Firecrawl search `West Point Family Homes resident guide mounting TV wall holes move-out` → Firecrawl scrape (pdf) https://home.army.mil/westpoint/2117/2261/9593/Community_Guidelines.pdf — "Only small nails or 'J' hooks should be used for hanging items on walls"; "Attaching or removing fixtures or appliances also requires prior approval"; alterations via "Request for Alterations form to Community Management"; "Authorization may include a requirement to restore the alteration to its original condition"; Landlord paints off-white before move-in; satellite dishes ≤1 m on separate pole with addendum. Firecrawl search `West Point Family Homes operated by…` → https://www.westpointfamilyhomes.com/ — "Professionally managed by Balfour Beatty Communities". → §5 para 4, §5.5, §9 on-post Q, §10.5 H3 4, glossary, §13.
+- Licensing: Firecrawl search `Orange County NY Department of Consumer Affairs home improvement license…` → https://www.orangecountyny.gov/255/Licenses (page body did not render in scrape; search excerpt: "For Electricians · Electrician Application (PDF)… Orange County License Requirements"); https://www.orangecountyny.gov/242/Consumer-Affairs-Weights-Measures (255 Main Street, Goshen). Firecrawl search `orangecountyny.gov electrician license…` → https://www.orangecountyny.gov/DocumentCenter/View/317/Electrician-Application-PDF (excerpt: "any person wishing to work as an electrician in Orange County must possess a county-issued license"); Firecrawl scrape (pdf) https://www.orangecountyny.gov/DocumentCenter/View/31419/2024-Local-Laws-PDF — Local Law No. 1 of 2024 restating LL 8 of 2007 establishing the Orange County Electrical Licensing Board; exemption for "Persons engaged solely in selling or solely in the attachment of ordinary electric appliances to existing circuits where no jointing or splicing of electrical conductors are required". → §8.5 callout, §10.5 H3 6, pricing "Outside our scope".
+- Home improvement contracts: Firecrawl scrape (pdf) https://www.orangecountyny.gov/DocumentCenter/View/951/Consumer-Law-Help-Manual---Home-Improvements-PDF — contract (contractor earning >$1,500/yr; work >$500) must be written, plain English, signed; include name/address/phone/licence number if any, dates, description incl. makes/models, progress-payment schedule; complaints to local licensing agency, else local consumer agency / NYS AG / Consumer Protection Board. → §8.5, §10.5 H3 6, FAQ 3.
+- **Whether Orange County requires a county home-improvement contractor licence: NOT verified** (licences page body didn't render; Facebook excerpt "Several counties surrounding Orange County have contractor licensing requirements" suggests it may not). Page makes no claim either way. MANIFEST-187 mentions "Orange (Consumer Affairs, Goshen)" licensing — flag.
+- Electronics recycling: Firecrawl scrape https://www.orangecountyny.gov/1561/Electronics-Recycling — Newburgh and New Hampton transfer stations; TVs $10/unit, no size restriction; other listed electronics free (cables/wires, DVD players, VCRs, digital music players…); soundbars not named. → checklist, FAQ 5.
+- Short-term rentals: Firecrawl search `Goshen NY short-term rental law Airbnb LEGOLAND town of Goshen permit` → https://www.chroniclenewspaper.com/news/local-news/town-bans-short-term-rentals-KK4840378 (excerpt: Town of Goshen banned STRs, unanimous vote, citing noise, parking, trash, septic); https://www.airbnb.com/help/article/4204 (excerpt: Village of Goshen — registration/permit, R-2/R-3 zones, single-family only, notify village 24 h–30 days before each stay). Article date not captured. → §9 STR Q, town-by-town.
+- Warehouses: Times Herald-Record 2018 (https://www.recordonline.com/story/business/2018/01/31/massive-warehouse-proposed-in-newburgh/15355982007/) — 565,320 sq ft on 69 acres off 17K — from prior AESS research (orange-county.json), not re-fetched. → §8 card.
+- Searched `Times Herald-Record Orange County housing construction new apartments townhomes approvals 2026` · Firecrawl search → results were Orange County, California only. EMPTY for 2026 NY housing news beyond the 2022 Tuxedo Farms story.
+
+### 10. Hyperlocal / commercial corridors (§8)
+- From prior AESS research (orange-county.json corridors + sources, not re-fetched this run): Front Street Newburgh waterfront restaurants (hvmag.com), Route 211 East / Wallkill Plaza (brixmor.com), North Street Middletown, Railroad Avenue Warwick (warwickinfo.net), Goshen Government Center 255 Main St (confirmed this run via orangecountyny.gov/242), Galleria at Crystal Run opened April 1, 1992 (Wikipedia). Page names corridors only — no individual businesses named.
+- Mid-Hudson News / Patch Orange soundbar stories: EMPTY (none found).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+- Firecrawl search surfaced https://m.yelp.com/search?cflt=tvmounting&find_loc=Orange+County%2C+NY (listing excerpt only, 4.9★ aggregate); no low-star review text. Not used.
+
+### Pricing used (existing approved AESS numbers only)
+Sources: research/tv-mounting-prices/BRIEF.md; tv-mounting-prices-orange-county.html (live repo page: "No travel or parking charge", setup-only $250 first hour); soundbar-installation-hudson-valley.html (Orange setup $250, TV base $229.99).
+- Soundbar wall-mounted $129 · placed $79 · Sanus soundbar bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · A/V receiver $129 · universal remote $99 · streaming $49 · full home theater $350.
+- Walls: metal +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up $40 · remove old bracket $45 · box removal $25 · COI free.
+- Orange: setup-only $250 first hour then 30-min blocks; TV base $229.99 (32–55", wood-stud drywall); 56–65" +$30; above fireplace +$130; travel $0; $150 return-trip fee; free reschedule with 24 h notice.
+- Worked totals are sums of those lines only: $213.99, $382.99, $278.99, $253, $263, $612.98.
+- **§9 Orange multiplier (1.40×) NOT applied** — same convention as the Manhattan page/HV hub (soundbar add-ons are flat across areas; the area premium shows in the TV base and setup hour). Plaster-on-brick priced as brick (+$65), following orange-county.json.
+- TV-on-stand price deliberately not used: BRIEF says $152.99 for Orange, the live tv-mounting-prices-orange-county page says $153.99 — conflict flagged.
+
+### Keyword layers
+- Service: soundbar installation Orange County NY, soundbar mounting, soundbar wall mount under TV, TV and soundbar installation, hide soundbar wires, soundbar pre-wire, soundbar reconnect after move.
+- Problem: soundbar lost subwoofer after move, soundbar won't connect to new Wi-Fi, no sound after new TV (eARC/CEC), builder outlet in wrong place, can't drill in rental/on-post housing, wires on outside wall.
+- Technology: HDMI eARC/ARC/CEC, optical, Ethernet via structured-wiring/media panel, in-wall power kit, recessed box, conduit, blocking, TV-attached bracket, Sanus bracket, projector + soundbar.
+- Industry: new construction/townhome HOAs, military housing, two-family landlords, short-term rentals, warehouses/logistics, county/legal offices, restaurants, retail.
+- Geographic: Orange County; Newburgh, New Windsor, Vails Gate, Cornwall, Salisbury Mills, Highland Falls, Fort Montgomery, West Point, Monroe, Harriman, Highland Mills, Central Valley, Woodbury, Tuxedo, Greenwood Lake, Warwick, Florida, Chester, Sugar Loaf, Goshen, Campbell Hall, Washingtonville, Blooming Grove, Montgomery, Walden, Maybrook, Middletown, Town of Wallkill, Slate Hill, New Hampton, Otisville, Port Jervis; Route 17K, Route 300, I-84, Route 211, Route 32, Route 17, Main Street Goshen, Front Street Newburgh.
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per main run). 11 copied from images/low-voltage/ (all from the last third of the alphabetical listing) → images/soundbar-installation/, WebP q80, 1400 px wide (sources are 1400 px). Photos were viewed before choosing; ones with a clear face, a readable address sign (queens-lobby-video-intercom shows "123 MAIN STREET") or a readable whiteboard (suffolk-05-idf-rack) were skipped. Perceptual-hash check: every usable AV scene in the library is already used (as another filename variant) by at least one soundbar page — the library holds only ~38 distinct scenes.
+| New file | Source |
+|---|---|
+| soundbar-installation-orange-county-three-techs-hanging-wall-display.webp | low-voltage-installation-staten-island-hero-conference-room-cabling.jpg |
+| soundbar-installation-orange-county-two-techs-aligning-display-panels.webp | low-voltage-installation-suffolk-county-video-wall-install.jpg |
+| soundbar-installation-orange-county-recessed-box-cabling-beside-display.webp | low-voltage-installation-suffolk-county-display-recessed-box.jpg |
+| soundbar-installation-orange-county-patch-panel-punchdown-closeup.webp | low-voltage-installation-suffolk-county-06-cat6-patch-panel-punchdown.jpg |
+| soundbar-installation-orange-county-crew-pulling-cable-open-ceiling.webp | low-voltage-installation-ulster-county-03-crew-cable-pull.jpg |
+| soundbar-installation-orange-county-ceiling-grid-cable-drop.webp | low-voltage-installation-ulster-county-09-ceiling-grid-bundle-pull.jpg |
+| soundbar-installation-orange-county-jhook-cable-bundle-overhead.webp | low-voltage-installation-staten-island-03-jhook-pathway-bundle.jpg |
+| soundbar-installation-orange-county-handheld-tester-at-wall-jack.webp | low-voltage-installation-westchester-county-06-fluke-certification-pass.jpg |
+| soundbar-installation-orange-county-wall-plate-jack-termination.webp | low-voltage-installation-ulster-county-07-keystone-wall-plate.jpg |
+| soundbar-installation-orange-county-ceiling-speaker-fit-meeting-room.webp | low-voltage-installation-ulster-county-14-ceiling-speaker-conference.jpg |
+| soundbar-installation-orange-county-dining-room-ceiling-speaker-fit.webp | low-voltage-installation-staten-island-14-restaurant-ceiling-speaker.jpg |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+### Flags for Anwar
+1. The images/low-voltage library looks AI-rendered (garbled small text on boxes/ladders, uniform "Abstract Enterprise LLC" shirts, "abstractsecurity.com" on a van). Most frames show a technician's profile from behind; none chosen shows a full face. The rule says skip AI-looking photos — that would leave zero; same flag as the Manhattan page.
+2. §9 Orange 1.40× multiplier not applied (see Pricing).
+3. Orange County home-improvement contractor licence: unverified; page avoids the claim (LI-style "which licences should I check" question avoided because LI owns that intent).
+4. "No travel charge" comes from the live tv-mounting-prices-orange-county page; confirm it also applies to soundbar-only visits.
+5. FAQ 1 is a worked cost total (partial overlap in intent with the hub cost FAQs, as on Manhattan).
+6. Homeyou/Thumbtack-Middletown figures in §10.5 come from prior AESS research (orange-county.json), not re-fetched this run.
+
+## Question register — soundbar-installation-orange-county
+(Q&A = §9 YOUR QUESTIONS ANSWERED, H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 12:
+1. Our house is still being framed — what should we ask the builder to leave behind the TV wall for a soundbar?  (While the walls are still open)
+2. The builder put a media panel in the basement — does that help the soundbar at all?  (same)
+3. In a new townhome, can wires be hidden in the wall we share with the neighbours?  (same)
+4. Can a soundbar bracket go into the manufactured stone the builder put around the fireplace?  (same)
+5. Our TV wall is an outside wall — can wires still be hidden inside it?  (same)
+6. We live in on-post housing at West Point — can a soundbar go on the wall at all?  (Moving in, moving out)
+7. Can the system be set up so it comes off the wall and packs quickly when orders arrive?  (same)
+8. After the move, why won't our soundbar find its subwoofer or the new Wi-Fi?  (same)
+9. We own a two-family in Newburgh and rent out the other unit — can you install a soundbar for our tenant?  (same)
+10. We want satellite TV in our on-post West Point home — does that change how the TV and soundbar are wired?  (Rooms Orange County households actually use) — replaced the projector question 2026-10-17 (Queens/Westchester own the projector intent). Source: West Point Family Homes Community Guidelines PDF (dish ≤1 m, prior approval + Satellite Dish Addendum, separate pole in back/side yard, removed before move-out, may not connect into the home's cable TV system).
+11. We host a permitted short-term rental near LEGOLAND — how do we stop guests resetting the soundbar?  (same)
+12. Is a soundbar the right choice for a warehouse break room off Route 17K, with fans and forklifts nearby?  (Orange County businesses)
+
+FAQ (§17) — 8:
+1. With a new 55-inch TV and an in-wall kit, what does the whole Orange County visit come to?  (worked total — partial overlap with hub cost FAQs, flag 5)
+2. Is there a travel charge for Port Jervis, Greenwood Lake or the other far corners of the county?
+3. Will the job be written up before work starts, the way New York home improvement rules expect?
+4. Do you install soundbars for warehouses, offices and shops as well as homes?
+5. What can we do with the old soundbar or TV once the new one is up?
+6. In a playroom, how do you stop small children from pulling the soundbar down?
+7. If an Orange County electrician is adding the outlet behind the TV, when should we book the soundbar visit?  — replaced the brands question 2026-10-17 (Brooklyn owns it). Source: Orange County Electrician Application PDF (county-issued licence) + Local Law No. 1 of 2024 (where a building permit is required, electrical work inspected by a certified electrical inspector).
+8. Will the Sanus bracket fit our soundbar, or do we need the one from the box?
+
+Other question-form headings (repair capture, not Q&A/FAQ): "Soundbar Cutting Out Since the Move?", "Lost Sound Anywhere in Orange County?"
+
+De-dup notes: checked by meaning against every question in the NYC, Long Island, Hudson Valley and Manhattan registers. Deliberately avoided (already owned): board/COI/freight (NYC), plaster/brick/concrete anchoring (NYC/HV), sub vs neighbours (NYC), renter wire hiding & deposit (NYC), outlets/patch & paint/reschedule/warranty/one remote/hours (NYC), two-storey great room/overhead sound/fireplace heat/basement sub/rear-speaker outlets/attic-basement routing/patio/salt air/permit/which-licences (LI), horsehair plaster/stone mortar/timber/big-room/sub in great room/ARC dropouts/rural internet/storm protection/weekend house/travel up the valley/niche/loft/tasting room/conference room (HV), doorman/package room/move-in timing/flex wall/glass/lead paint/conversion/loft TV/radiator/harsh room/L-studio/Wi-Fi congestion/One Connect/bar noise limits/fixed volume (Manhattan). Licensing, outlets, timing and coverage on this page are handled in body text, not as repeat questions. check_page.py reported no duplicated question or answer against the Westchester and Rockland drafts on disk at ~06:05. After Brooklyn/Queens/Bronx went live, the main run flagged the projector (Queens/Westchester) and brands (Brooklyn) intents; both were replaced and every soundbar-installation-*.html page plus this research file was re-checked by meaning.
