@@ -147,9 +147,9 @@ LIVE | soundbar-installation-throgs-neck-bronx-ny | Soundbar Installation | Thro
 LIVE | soundbar-installation-todt-hill-staten-island-ny | Soundbar Installation | Todt Hill, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-chelsea-manhattan-ny | Soundbar Installation | Chelsea, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T12:54Z | soundbar-installation-greenpoint-brooklyn-ny | Soundbar Installation | Greenpoint, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T13:20Z | soundbar-installation-bayside-queens-ny | Soundbar Installation | Bayside, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T13:20Z | soundbar-installation-kingsbridge-bronx-ny | Soundbar Installation | Kingsbridge, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T13:20Z | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation | New Dorp, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-bayside-queens-ny | Soundbar Installation | Bayside, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | soundbar-installation-kingsbridge-bronx-ny | Soundbar Installation | Kingsbridge, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation | New Dorp, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T13:25Z | soundbar-installation-greenwich-village-manhattan-ny | Soundbar Installation | Greenwich Village, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T13:25Z | soundbar-installation-dumbo-brooklyn-ny | Soundbar Installation | DUMBO, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T13:25Z | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation | Jackson Heights, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
