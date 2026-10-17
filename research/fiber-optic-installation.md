@@ -233,6 +233,104 @@ Substituted with the claims cost-guide and competitor pages actually make (these
 - Does each end of a fiber link need a dedicated electrical outlet? — fiber-optic-installation-orange-county
 - Can you install fiber in a bank branch or credit union on a village main street? — fiber-optic-installation-orange-county
 
+### fiber-optic-installation-port-morris-bronx-ny
+fiber-optic-installation-port-morris-bronx-ny
+§9 Questions Answered (and other question headings):
+- Port Morris Fiber Link Down This Morning? (repair capture heading)
+- The provider's cable reaches our building through an old sidewalk vault that takes on water — can the entrance be moved?
+- Before we sign a lease on an older industrial building, how can we find out which carriers can already serve it?
+- Our lease may end when the owner redevelops the site — which parts of a fiber installation can a tenant take along when it moves?
+- Can the fiber equipment share the main electrical room in a building with very large power service?
+- Our stage has to stay silent during takes — will fiber enclosures and switches add noise the microphones pick up?
+- We rent our loft for events a few nights a month — can visiting vendors get a network connection without touching ours?
+- Our delivery fleet parks on the ground floor and the warehouse is upstairs — how does fiber get from dispatch to the upper bay?
+- The electric-van chargers in our fleet garage need a network connection — is fiber worth running to them?
+- Can fiber run through a metal fabrication or welding shop where sparks and hot slag fly?
+- Does fiber get stolen for scrap the way copper cable does?
+- We sublease from a company that itself leases the land from the State — how many sign-offs does a new fiber entrance need?
+- Will exterior conduit on our street wall get tagged or broken, and how is it protected?
+- Is there any help for industrial businesses in the Port Morris Industrial Business Zone that are planning a network upgrade?
+- Our new building sits on a cleaned-up brownfield with a vapour barrier under the slab — can fiber conduit pass through it?
+- Our new tower has post-tensioned concrete floors — how do you core through them without hitting a tendon?
+- Our rental building has a resident co-working lounge — should it run on the building's own fiber or on a resident's internet account?
+- Port Morris Studio, Loft or Warehouse Offline? (final repair heading)
+§17 FAQ:
+- Do you also take fiber jobs on Randall's Island, across the Bronx Kill?
+- Can the labels and the closeout paperwork be in Spanish as well as English?
+- What happens if the ceiling or attic space we need is fouled with pigeon droppings?
+- Can fiber work go ahead while the building is still on temporary construction power?
+- Our loft building has no working elevator — does carrying materials up the stairs change the price?
+- Our construction lender pays out in draws — can your proposal be broken into the line items its inspector checks?
+- Can fiber carry the monitoring link for rooftop solar panels or a battery system?
+- Can fiber be pulled in an unheated building during a cold snap?
+- Do you supply the hybrid fiber cables that broadcast cameras plug into?
+- Can we see a sample test report before we hire you?
+- Can the old fiber enclosures and patch panels a previous tenant left behind be reused?
+- Do we need to tell our property insurer before fiber work starts?
+
+De-dup notes: checked by meaning against the full register and the 16 live fiber pages plus the concurrent Midtown and St. George neighbourhood drafts. Two FAQs were replaced after the concurrent pages appeared (dust control while drilling — St. George; digital signage over fiber — Midtown). Sprinkler-pipe supports and exit-stair penetrations appear only as §8.5 compliance bullets, not as questions (Midtown asks both as questions). Post-tensioned-slab and brownfield items are answered once, in §9 only.
+
+### fiber-optic-installation-st-george-staten-island-ny
+fiber-optic-installation-st-george-staten-island-ny
+§9 Questions Answered:
+- Our house is built into the hillside, with the cellar at street level on one side and underground on the other — which level should the network start from?
+- Does the Landmarks Preservation Commission care about conduit on the back of a historic-district house, where nobody on the street can see it?
+- Can fiber follow the old radiator pipe chases up through a Victorian house?
+- Would fiber to the top floor fix Wi-Fi that fades on the stairs of a four-storey house, or is a mesh kit enough?
+- Our converted Victorian has no common hallway — every stair belongs to one apartment — so where can a building-wide fiber riser run?
+- We're turning a three-family house back into a single home — what happens to the three sets of provider wiring, and where should the new fiber go?
+- Our condo is in a 1930s poured-concrete factory building on the waterfront — how does fiber get through slabs and columns like that?
+- Our co-op's alteration agreement asks for a scope of work — how much detail should the fiber section contain?
+- The old telephone closet in our co-op is locked and nobody on the board knows who has the key — can fiber work start without it?
+- We're a small law office near the courthouses with a records room in the basement — can scanning stations down there run over fiber without putting a server in the cellar?
+- We're fitting out a shop or studio unit in a brand-new building by the ferry — what does the developer's telecom room give us, and what do we have to build ourselves?
+- Our nonprofit shares an older building on Richmond Terrace with other tenants — can we have fiber of our own without paying for a whole-building system?
+§17 FAQ:
+- Do you work in the neighbourhoods next to St. George — Tompkinsville, New Brighton, Fort Hill and Randall Manor?
+- How do you keep dust down when drilling through old plaster in a lived-in house?
+- Can the small fiber box at each end be painted to match period woodwork?
+- How tight can fiber bend around the corners of a narrow Victorian stair?
+- Can the building's video intercom use the same fiber as the internet?
+- Does fiber give off any radiation or signal that could bother people living next to it?
+- If we change internet providers, does the fiber you installed still work?
+- How are the strands labelled when each one serves a different apartment?
+- Do we have to warn the neighbours in the attached house before you drill near the shared wall?
+- Can fiber reach a turret room or attic studio at the very top of the house?
+Other headings: none end in "?" (repair headings worded as statements).
+
+De-dup notes: two draft questions were replaced after comparing with the concurrent Port Morris and Midtown drafts — "only entrance up a long flight of outdoor steps" (≈ Port Morris "no working elevator — carrying materials up the stairs") and "nonprofit … who has to sign off" (≈ Port Morris State-sublease sign-offs and SI SNAD sign-off). Closest remaining intents for the main run to judge: radiator-chase route vs Midtown "Con Edison steam beside the telecom entrance — will the heat harm fiber" (mine = route, theirs = heat proximity); FAQ bend radius vs Midtown "Is bend-insensitive single-mode worth paying for" (mine = limit, theirs = value); co-op scope-of-work vs Manhattan "drawings the landlord's engineer can review"; video intercom vs NYC-hub-family "phone system over the same fiber".
+
+### fiber-optic-installation-midtown-manhattan-ny
+§9 Questions Answered:
+- Our floors are served by a different elevator bank from the building's telecom room, with a mechanical floor in between — what route does fiber take?
+- The riser closets in our pre-war tower stop lining up above the setback floors — how does a backbone jog sideways to stay in a shaft?
+- Can a backbone run up a fire stair when the riser closets are full?
+- Can cable be hung from the sprinkler pipes that Local Law 26 added above our office ceiling?
+- What should we check about a brand-new Midtown tower's telecom rooms before our fit-out drawings are final?
+- The building's FDNY radio system or a carrier's in-building cellular system needs fiber to every floor — can that share our backbone?
+- Two tenants on our stack want the last spare sleeve — how do buildings decide, and how do we avoid losing out?
+- Does a trading floor need its fiber routed for low latency, or is that a myth inside one building?
+- Our building's freight elevator is out of service for modernisation this year — can a riser job still go ahead?
+- Our Times Square frontage has to keep its signs lit — can fiber feed the sign controllers and media players from the building's network room?
+- Can fiber be installed in a Broadway theatre without disturbing a landmarked interior?
+- Our jewellery business on 47th Street keeps its stock in a vault room — how does fiber reach the back office without creating a new way in?
+- Con Edison steam enters our cellar right beside the telecom entrance — will the heat harm fiber, and how far away should it run?
+- Riser cable or distribution cable: which suits a Midtown tower? (§10 EQUIPMENT table heading)
+- Fiber Down Between Two Midtown Floors? (repair capture heading)
+- Want the Transfer Floor Found Before Pricing? (mid-page CTA heading)
+- Midtown Backbone Dark Before the Morning Rush? (final repair heading)
+§17 FAQ:
+- Does your Midtown coverage include Turtle Bay, Murray Hill, Koreatown and Hell's Kitchen as well as the office core?
+- How is a long vertical fiber run supported so it does not hang on its own weight over dozens of floors?
+- Do we need OM5 multimode for a new Midtown fit-out?
+- Is bend-insensitive single-mode worth paying for in shallow Midtown closets?
+- Can private fiber link the rooms of a full-floor condominium in a 57th Street residential tower?
+- Do you work inside Grand Central or other transit-owned property?
+- Does the building's chief engineer have to be with you for the whole job?
+- Can our suite get a fiber path with no splice points or patch panels in any shared closet?
+- Is armoured fiber required in a Midtown riser?
+- Can the backbone go in before the landlord finishes its base-building work on our floor?
+
 ## NYC (hub) — local research
 - Area scope: five boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island). Local facts used on the page: Verizon fiber footprint figures (end-2013), NYC Council broadband-subscription gaps (24.5% no broadband subscription; Mott Haven CD01 44%), Big Apple Connect (220 developments / ~330,000 residents, through June 2028), ConnectNYC 2013 (unwired commercial buildings), 60 Hudson Street carrier hotel (Western Union Building, Tribeca), 32 Avenue of the Americas, 111 Eighth Avenue, Industry City (16 buildings, DataVerge meet-me room), HPD broadband guidance (basement entry point requirement).
 - Local Reddit: see source 1 (r/verizon, r/AskNYC excerpts).
@@ -2612,3 +2710,324 @@ fiber-optic-installation-long-island-city-queens-ny
 - Could drilling for the fiber set off our building's fire alarm?
 
 De-dup notes: checked against the full silo register and the parallel FiDi and DUMBO drafts. Removed during build: "What does the installation warranty cover?" (Queens/Staten Island exact intent) and "Do you work alongside the carrier's own technicians on installation day?" (= Brooklyn "Will you coordinate with the internet provider…"). Closest calls for a human read: post-tension coring (mine) vs FiDi "core risers through clay-tile floor arches" (different structural hazard, same coring family); DAS strands (mine) vs FiDi "Fire Department radio system competes for riser space" (cellular vs public-safety radio); fire-alarm/drilling-dust FAQ (mine) vs DUMBO "noise and dust coring in occupied loft"; LIC-vs-Nassau rates FAQ vs FiDi "priced differently from Midtown"; coworking strands vs FiDi "sublease part of a floor — own fiber to entry room". Masked-geo paragraph similarity (difflib, ≥12-word blocks, constants excluded) is < 0.65 against every fiber sibling incl. the two drafts; max 0.644 (ADT/Ring paragraph vs Queens).
+
+## Port Morris, Bronx — local research (2026-10-17 batch, fiber-optic-installation-port-morris-bronx-ny)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources (top of research/fiber-optic-installation.md) and the Bronx section are reused where noted; only Port Morris research is added here. Up-link /fiber-optic-installation-bronx · phone (646) 490-0629 · Bronx GBP (460 E Fordham Rd, #bronx).
+
+Page thesis: almost every Port Morris building is on its second or third life (piano factories → lofts, a 1916 bakery warehouse → creative offices, a warehouse → sound stages, rail-yard land → distribution, lots → towers and a last-mile depot). Fiber here follows the change of use: the carrier entrance moves, ownership splits among many occupants, and inherited cable has to be traced and either salvaged or removed. Distinct from the Bronx page (scale / multi-building complexes).
+
+### Reddit (local)
+- Query: `reddit Port Morris Bronx internet OR fiber OR Fios OR warehouse loft` · Firecrawl web search (excerpts only; reddit.com threads not opened).
+  - https://www.reddit.com/r/bronx/comments/14poru5/are_port_morris_and_mott_haven_actually/ — title "Are Port Morris and Mott Haven actually gentrifying or is it just locals renovating the area?"; excerpt mentions "abandoned industrial or commercial buildings". → §5 THE NEIGHBORHOOD para 2; Sources table.
+  - https://www.reddit.com/r/nyc/comments/1bco3hh/so_this_is_the_south_bronx_now_is_this_the_new/ — excerpt: "The appeal is that it offers luxury apartments at a lower price compared to say, Manhattan or LIC." → §5 para 2 (paraphrased, attributed to r/nyc).
+  - https://www.reddit.com/r/Fios/comments/1oz9xcz/1_gb_fios_installion_in_a_5thfloor_apt_bronx_nyc/ and /r/Fios/comments/1rkb228/ — already logged in the Bronx section. Not used again.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substitute for §10.5 reality check — claims quoted from published sources:
+- Silo/Bronx sources reused: Angi ($4,500 average, $1,500–$7,000), Ring and Ping (residential $1,500–$6,000; commercial "six figures"), Unio (single-mode $0.09–$1.49/ft; OM3/OM4 $1.50–$6.00/ft), AT&T "four to six hours", T-Mobile "up to 4 hours", CUF 99.8% wired + "individual buildings not yet wired", buildinghealthx 5G "no landlord or co-op board approval required" → §10.5 Claims 1, 2, 3, 5, 6, 7.
+- Query: `Port Morris Bronx data center OR fiber network OR broadband` · Firecrawl web search → https://lightyear.ai/tips/dark-fiber-the-bronx (Firecrawl scrape, dated Feb 5, 2026): "an estimated 31 available" dark fiber providers in the Bronx; connectivity score "High"; availability "depends on fiber infrastructure near a specific address"; names Verizon, Windstream, Optimum, Spectrum, Lightpath, Zayo, Crown Castle, etc. → §10.5 Claim 4.
+- Same query → https://council.nyc.gov/data/internet-access/ (excerpt): "Melrose-Mott Haven-Port Morris: 44% (The Bronx – CD01)" households without broadband (silo source re-confirmed). → §5 para 3, §5.5 facts, §10.5 Claim 5.
+- Fixr: no Fixr fiber page found (silo record). Stated on page as "our research turned up no comparable Fixr page".
+
+### Yelp 1–3★ — EMPTY
+- Query: `yelp fiber optic cabling contractor Bronx reviews` · Firecrawl web search → only Yelp search-result pages and one 4.0★ single-review listing ("New York Network Cabling & Fiber Optic Wiring"); no 1–3★ fiber-contractor reviews for the Bronx/Port Morris. Not used.
+
+### Building stock, zoning, history
+- Query: `Port Morris Bronx industrial buildings warehouses conversion lofts Bruckner Boulevard rezoning` · Firecrawl web search → https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf (Firecrawl scrape, DCP, 7 pp.): 1997 CPC created the city's first mixed-use district (Port Morris Special Mixed Use District), five blocks along Bruckner Blvd, CD1; 2005 extension to eleven blocks bounded by Park Ave, Willow Ave, E 134th St and the Harlem River/Harlem River Yards; CPC approval Jan 31, 2005, Council adoption Mar 9, 2005; 129 lots: industrial 38 (29%), residential 44 (34%), more than one-third vacant or underutilized; industrial/commercial uses in "large brick and concrete industrial buildings ranging from one to six stories", mainly along Bruckner; two- and three-story rowhouses on E 133rd/134th near Willow Ave, three- to five-story multifamily on Bruckner; ~42 rowhouses rehabilitated; 50 lofts in the former Estey Piano Factory converted, 100 more expected by end-2004; history: Gouverneur Morris II seaport plan, piano and furniture manufacturing, Third Avenue Bridge 1898, Willis Avenue Bridge three years later, Harlem River train yards 1906, 1950s clearance for the Triborough Bridge and Bruckner/Major Deegan expressways; "Antique Row" on Bruckner; former New Haven passenger station building on Willis Ave south of 132nd St. → hero, §5 paras 1–2, §5.5, §7 cards, §8 Bruckner card, Change-of-use table, Streets table.
+- Query: `reddit Port Morris Bronx internet OR fiber OR Fios OR warehouse loft` (same search) → https://en.wikipedia.org/wiki/Port_Morris,_Bronx (Firecrawl scrape): boundaries (Major Deegan/Bruckner, E 149th St, East River, Bronx Kill, Harlem River), ZIPs 10451/10454, 40th Precinct, CB1; Oak Point Yard; Hell Gate Bridge northern approach concrete arches (1917) north from E 132nd St between Willow & Walnut Aves; Randall's Island Connector opened Nov 2015; Dec 2017 Special Harlem River Waterfront District expansion; Union Crossing (825 E 141st St); The Arches at 224–228 E 135th St, "first market-rate high-rise rental development in Port Morris" (renting 2020); 101 Bruckner (55 units, 2021); Bankside (>1,350 units); Maven 2413 Third Ave (27 storeys, 200 apts); 188 E 135th St in brownfield cleanup; Port Morris IBZ in the eastern half; Alexander Ave–Bruckner Blvd main commercial corridor; Estey factory ("Clock Tower") at Lincoln & Bruckner; Bronx Grit Chamber (1937, McKim, Mead & White, E 132nd St & St. Ann's Ave, DEP, protected landmark); Per Scholas at 804 E 138th St; 6 train at Cypress Ave and E 143rd St–St. Mary's St; Bx17/Bx33/M125; 2010 census Mott Haven + Port Morris 52,413 residents, 72.3% Hispanic or Latino. NOT used: NY Post printing-plant dates (conflict between Wikipedia articles: 1998 vs 2001–2021), the Revolutionary War gold-ship story, Bluestone's $44M 2016 price (conflicts with The Real Deal's $39M). → §5, §7, §8, Change of use, Streets table, Landmarks, FAQ (Spanish labels: census figure), schema `mentions`.
+- Query: `Harlem River Yard Port Morris FreshDirect rail yard warehouse distribution` · Firecrawl web search → https://en.wikipedia.org/wiki/Harlem_River_Yards (Firecrawl scrape): 96 acres total, 28-acre intermodal portion, rail limited to municipal solid waste; 99-year state lease (1991) to Harlem River Yard Ventures (Galesi Group); FedEx distribution centre (2007); FreshDirect construction began Dec 2014; Oak Point Link opened 1998. → §5.5, §7 rail-yard card, §8 Harlem River Yards card, Q&A sublease question, Landmarks, Streets table.
+- Query: `Port Morris Bronx new rental towers waterfront Bankside Third Avenue Bridge 2025` · Firecrawl web search →
+  - https://www.6sqft.com/new-rental-buildings-in-the-bronx/ (excerpt): Bankside $950M, seven towers, Brookfield, spans the Third Avenue Bridge; Bankside Park opened 2024; Third at Bankside 2401 Third Ave, three towers 17–25 storeys, 458 units; Maven 2413 Third Ave, 200 units, CetraRuddy. → §7 towers card, §8 Third Ave card, Streets table.
+  - https://www.brickunderground.com/rent/what-renters-can-get-mott-haven-bronx-new-rental-developments (excerpt): Third at Bankside 324 market + 134 affordable (opened March 2022); Lincoln at Bankside four towers, 644 market + 277 affordable; Maven 60 rent-stabilized middle-income units. → Sources table only.
+  - https://rent.brookfieldproperties.com/property/third-at-bankside/ (excerpt): 2385 3rd Ave, Bronx NY 10451. Not used (marketing/rents).
+- Query: (first search) → https://newyorkyimby.com/2026/08/construction-nears-completion-on-307-bruckner-boulevard-in-port-morris-the-bronx.html (Firecrawl scrape, Aug 9, 2026): 307 Bruckner Blvd, two-storey last-mile logistics facility, ~100,000 sq ft, 59 ft tall, ~46,000 sq ft covered fleet parking/storage at ground level, 46,000 sq ft high-bay warehouse with 36-ft clear heights, 8,200 sq ft mezzanine, four loading docks, two drive-in doors, ESFR, 4,000 amps; scheduled to open Q3 2026; Sterling Organization / AO Architects; Cypress Ave 6 station two blocks south; under a mile from RFK, Willis and Third Ave bridges. Related-article titles: permits filed for 132 Brown Place (Oct 2025), 20 Brook Ave (Apr 2026), 521 E 132nd St (May 2026); housing lottery 132 Brown Place (Aug 2026). → §5 para 2, §5.5, §7 logistics card, Studios & Depots section, Streets table, Siting (bridges).
+- Query: `Union Crossing 825 East 141st Street Bronx office studios tenants` · Firecrawl web search → https://therealdeal.com/new-york/2023/03/22/maddd-equities-sobro-buy-empty-bronx-office-building-for-44m/ (Firecrawl scrape, Mar 22, 2023): seven-storey former warehouse built 1916 as an A&P baking facility; bought 2016 for $39M, ~$45M renovation into flex offices, retail and studio space; sold 2023 to Maddd Equities and SoBro for $44M (with adjacent lot at 804/825 E 141st); Westhab 8,000 sq ft lease (2019); banner advertising 300,000 sq ft available. Excerpts: 6sqft/CityRealty "275,000 square feet of office and studio space" — NOT used (conflicting size). → hero, §5, §7 warehouse card, §8 E 138th–141st card, Change of use, Streets table.
+- Query: `Silvercup North 295 Locust Avenue Bronx studio Port Morris` · Firecrawl web search →
+  - https://www.silvercupstudios.com/north/ (Firecrawl scrape): North Lot, 295 Locust Ave; four sound stages 8,030–16,220 sq ft, "52-Foot Ceilings" (stage spec tables list 50 ft height); 33,900 sq ft office, 63,940 sq ft support; North Lot totals 148,140 sq ft; on-lot parking for 60+ vehicles; 4,800 amps per stage. → §5.5, Studios & Depots section, §8 Locust card, Landmarks card, Streets table.
+  - https://www.nyc.gov/site/mome/news/070115_silvercup_bronx_expansion.page (excerpt, July 6, 2015): expansion to 295 Locust Ave. → Landmarks card.
+- Query: `Estey Piano Company Factory landmark designation Lincoln Avenue Bruckner Boulevard clock tower lofts` · Firecrawl web search → https://hdc.org/buildings/estey-piano-company-factory/ (excerpt: brick facades, corner clock tower); https://urbanarchive.org/... (excerpt: 112–128 Lincoln Ave, A. B. Ogden & Sons, 1885, oldest known piano factory still standing in the borough); https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=446255&GUID=E21ED519-1DAB-41FF-B7E5-89EA2A435952 (Res 0484-2006 affirming LPC designation); https://www.citylandnyc.org/... (excerpt: "The 1886 Estey Piano Factory, at 112 Lincoln Avenue"). → §5.5 (1885–86), §8, Landmarks card.
+- Query: `Per Scholas Bronx 804 East 138th Street tech training campus` · Firecrawl web search → https://www.perscholas.org/locations/new-york/ (excerpt: 804 E 138th St #2, Bronx 10454). → §8 E 138th–141st card, Streets table.
+- Query: `Port Morris Industrial Business Zone IBZ Bronx businesses` · Firecrawl web search → https://www.sobro.org/industrial (excerpt: SoBro is the Industrial Business Solutions Provider for all five Bronx IBZs: Bathgate, Port Morris, Eastchester, Zerega, Hunts Point); https://edc.nyc/industry/industrial-and-manufacturing (excerpt: Bronx IBZs list); City Record "Port Morris Industrial Business Zone Ratified Boundaries September 2013" (PDF, excerpt only). → §8 Locust card, Q&A IBZ question.
+- Query: `Bronx Brewery East 136th Street Port Morris taproom OR "Port Morris Distillery"` · Firecrawl web search → Facebook group excerpt about Port Morris Distillery closing after 12 years; unioncrossingbronx "Your Neighbors" excerpt (brewery at 856 E 136th St). NOT used (unverified status).
+- Query: `Port Morris Bronx last-mile warehouse Amazon delivery station Oak Point Bruckner 2025` · Firecrawl web search → results were Hunts Point (Viele Ave) and 1055 Bronx River Ave, not Port Morris. EMPTY for Port Morris; not used.
+
+### Flooding, waterfront, air quality
+- Query: `Port Morris Bronx flooding Hurricane Sandy flood zone waterfront industrial resiliency` · Firecrawl web search →
+  - https://www.southbronxunite.org/community-managed-waterfront (Firecrawl scrape): after Sandy the waterfront was "upwards of 3.5 feet underwater"; waterfront uses: waste transfer stations (5,000 and 2,000 tons/day), peaker power plants, abandoned WSJ/NY Post printing presses, FreshDirect ~1,000 daily diesel truck trips; 96-acre NYSDOT land leased 1991 to Harlem River Yard Ventures; Phase 1 sites Lincoln Ave street end and E 132nd St Pier. → Siting section paras 1 & 3, §5.5, Streets table (Lincoln Ave street end).
+  - https://www.motthavenherald.com/2023/03/26/federal-coastal-resiliency-plan-south-bronx-flooding-climate-change/ (Firecrawl scrape, Mar 26, 2023): USACE $52B NY & NJ HATS study; tentatively selected plan with flood walls and deployable gates roughly from Yankee Stadium to the RFK Bridge; Port Morris walls are an "induced" measure; final proposal likely not built until at least 2044; heavy rainfall (Hurricane Ida) noted as a separate risk. → Siting section para 1.
+
+### Local codes / technical (new for this page)
+- Query: `NFPA 13 sprinkler piping shall not be used to support non-system components cables hangers` · Firecrawl web search → https://www.meyerfire.com/daily/any-contact-allowed-with-sprinkler-pipe (excerpt quoting NFPA 13: "Sprinkler piping or hangers shall not be used to support non-system components."); https://up.codes/s/support-of-non-system-components; https://www.nfpa.org/news-blogs-and-articles/blogs/2022/04/18/hangers-and-support-of-sprinkler-system-piping. → §8.5 bullet, §10.5 Claim 3, Process step 5.
+- Query: `building code interior exit stairway penetrations limited to items serving the stairway 1023.5` · Firecrawl web search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-174119 (excerpt, 2022 NYC BC 1023.5: "Penetrations into or through interior exit stairways and ramps are prohibited except for equipment and ductwork necessary for independent ventilation or…"). → §8.5 bullet.
+- Silo sources reused: OFNR/OFNP (cablinginstall), FOA bend radius/pulling, DOB sub-50 V statement (site content), NEC 620.37 hoistway (Bronx section). → §8.5, §10, Process.
+- General practice, no citation (flag for Anwar if a citation is wanted): post-tensioned slab GPR scanning before coring; brownfield vapour-barrier/sub-slab penetration sealing per environmental engineer; minimum installation temperature of cable; pigeon-dropping clean-up before work; electrical-room working clearances.
+- Local news on Port Morris fiber-installation contractors 2026: EMPTY (none retrieved).
+
+### Pricing used (existing AESS prices only — no new prices; same lines as /fiber-optic-installation-bronx)
+- $35/termination · $40/strand OTDR · $391 MM drop · $447 SM drop (Bronx structured-cabling configurator) · 12-strand OM4 $4,500–$7,000 · 24-strand OS2 $8,000–$15,000+ · second telecom room with fiber link from $2,400 · $195/hr, 3-hr min ($585).
+- Worked examples (sums of published lines only): Starter $527 = $447 + 2×$40; Standard from $3,741 = $2,400 + 3×$447; Premium $6,300–$8,800 = $4,500–$7,000 + 24×$35 ($840) + 24×$40 ($960); hypothetical warehouse-floor example $4,128 = 48×$40 + 12×$35 + 4×$447 (+ optional room from $2,400).
+- Same open conflict as the Bronx section: §9 says Bronx 1.00× but the live Bronx configurator publishes $391/$447.
+
+### Images (11) — Step C; Drive folder `AESS Website Photos/Fiber Optic Installation` empty this run, CompanyCam not connected
+All copied from images/fiber-optic-installation/ and cropped (to exclude faces and shirt/van phone numbers), saved as WebP q80 under new names. Each viewed before captioning; alt/title/caption describe only what is visible.
+| File (images/fiber-optic-installation/) | Source file | Crop | Shows |
+|---|---|---|---|
+| fiber-optic-installation-port-morris-fusion-splicer-bench-fiber-panel.webp (hero) | …-manhattan-fusion-splicer-patch-rack.webp | right side | splicer, SC panel, IPA, cleaver, tray |
+| fiber-optic-installation-port-morris-tangled-closet-before-cleanup.webp | …-rockland-county-inherited-closet-before-after.webp | "before" half | tangled closet |
+| fiber-optic-installation-port-morris-ceiling-grid-bundle-feed.webp | …-dutchess-county-ceiling-grid-cable-feed.webp | right side | hands feeding bundle into grid |
+| fiber-optic-installation-port-morris-core-bit-block-wall-penetration.webp | …-westchester-county-block-wall-drill-penetration.webp | right side | core bit, cable through hole, Cat 6 box |
+| fiber-optic-installation-port-morris-emt-pull-box-cable-feed.webp | …-ulster-county-conduit-box-pull-block-wall.webp | right side | hands at EMT pull box |
+| fiber-optic-installation-port-morris-high-bay-basket-tray-dome-camera.webp | …-ulster-county-high-bay-tray-dome-camera.webp | right/top | basket tray, dome camera, racking |
+| fiber-optic-installation-port-morris-crew-open-ceiling-cable-reels.webp | …-dutchess-county-crew-reel-pull-open-floor.webp | none (backs only) | crew, reels, rack |
+| fiber-optic-installation-port-morris-sc-adapter-panel-yellow-jumpers.webp | …-nyc-splice-tray-patching.webp | panel only | SC adapters, yellow jumpers |
+| fiber-optic-installation-port-morris-brick-wall-outdoor-enclosure-conduit.webp | …-ulster-county-exterior-enclosure-brick-wall.webp | right side | enclosure, EMT, brick |
+| fiber-optic-installation-port-morris-shop-open-ceiling-cable-drop.webp | …-ulster-county-retail-shop-open-ceiling-pull.webp | right side | open-ceiling shop, cable drop |
+| fiber-optic-installation-port-morris-van-shelves-cable-reels-ladders.webp | …-ulster-county-service-van-cable-reels.webp | van interior | reels, ladders, tool cases |
+Note: same scenes appear (uncropped) on sibling pages; library photos look AI-rendered (garbled small text, repeated faces across "different" jobs) — flagged for Anwar as on every earlier fiber page. Log line: `images: 11 reused from images/fiber-optic-installation/ (cropped; no real fiber photos yet)`.
+
+### Keyword plan (Port Morris page)
+Service: fiber optic installation Port Morris, fiber riser converted loft, warehouse fiber link, studio fiber backbone, fiber audit/inherited fiber, fusion splicing, OTDR testing. Problem: change of use, entrance in sidewalk vault, no riser in factory building, tenant split, abandoned cable, vehicles/forklifts, hot work, scrap theft, brownfield vapour barrier, post-tensioned slabs, flooding, dust/soot. Technology: OS2, OM4, armored, indoor/outdoor loose-tube, OFNP/OFNR, MPO, enclosures, media converters/SFP. Industry: lofts/live-work, creative offices, film/TV studios, last-mile logistics/fleet depots, distribution (Harlem River Yards), fabrication shops, new rental towers, rowhouses, training campuses. Geographic: Port Morris, Bruckner Boulevard, Alexander Ave, Lincoln Ave, Third Ave, E 132nd–E 141st Streets, Locust/Willow/Walnut Aves, Harlem River Yards, Bronx Kill, Randall's Island, Mott Haven, Hunts Point, Bronx.
+
+### Question register additions
+fiber-optic-installation-port-morris-bronx-ny
+§9 Questions Answered (and other question headings):
+- Port Morris Fiber Link Down This Morning? (repair capture heading)
+- The provider's cable reaches our building through an old sidewalk vault that takes on water — can the entrance be moved?
+- Before we sign a lease on an older industrial building, how can we find out which carriers can already serve it?
+- Our lease may end when the owner redevelops the site — which parts of a fiber installation can a tenant take along when it moves?
+- Can the fiber equipment share the main electrical room in a building with very large power service?
+- Our stage has to stay silent during takes — will fiber enclosures and switches add noise the microphones pick up?
+- We rent our loft for events a few nights a month — can visiting vendors get a network connection without touching ours?
+- Our delivery fleet parks on the ground floor and the warehouse is upstairs — how does fiber get from dispatch to the upper bay?
+- The electric-van chargers in our fleet garage need a network connection — is fiber worth running to them?
+- Can fiber run through a metal fabrication or welding shop where sparks and hot slag fly?
+- Does fiber get stolen for scrap the way copper cable does?
+- We sublease from a company that itself leases the land from the State — how many sign-offs does a new fiber entrance need?
+- Will exterior conduit on our street wall get tagged or broken, and how is it protected?
+- Is there any help for industrial businesses in the Port Morris Industrial Business Zone that are planning a network upgrade?
+- Our new building sits on a cleaned-up brownfield with a vapour barrier under the slab — can fiber conduit pass through it?
+- Our new tower has post-tensioned concrete floors — how do you core through them without hitting a tendon?
+- Our rental building has a resident co-working lounge — should it run on the building's own fiber or on a resident's internet account?
+- Port Morris Studio, Loft or Warehouse Offline? (final repair heading)
+§17 FAQ:
+- Do you also take fiber jobs on Randall's Island, across the Bronx Kill?
+- Can the labels and the closeout paperwork be in Spanish as well as English?
+- What happens if the ceiling or attic space we need is fouled with pigeon droppings?
+- Can fiber work go ahead while the building is still on temporary construction power?
+- Our loft building has no working elevator — does carrying materials up the stairs change the price?
+- Our construction lender pays out in draws — can your proposal be broken into the line items its inspector checks?
+- Can fiber carry the monitoring link for rooftop solar panels or a battery system?
+- Can fiber be pulled in an unheated building during a cold snap?
+- Do you supply the hybrid fiber cables that broadcast cameras plug into?
+- Can we see a sample test report before we hire you?
+- Can the old fiber enclosures and patch panels a previous tenant left behind be reused?
+- Do we need to tell our property insurer before fiber work starts?
+
+De-dup notes: checked by meaning against the full register and the 16 live fiber pages plus the concurrent Midtown and St. George neighbourhood drafts. Two FAQs were replaced after the concurrent pages appeared (dust control while drilling — St. George; digital signage over fiber — Midtown). Sprinkler-pipe supports and exit-stair penetrations appear only as §8.5 compliance bullets, not as questions (Midtown asks both as questions). Post-tensioned-slab and brownfield items are answered once, in §9 only.
+
+## St. George, Staten Island — local research (2026-10-17 batch, fiber-optic-installation-st-george-staten-island-ny)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md are reused where noted; only St. George research is added here. Up-link /fiber-optic-installation-staten-island; phone (347) 934-8335; Brooklyn GBP.
+
+Page thesis: St. George is the one part of Staten Island where fiber goes **up and through** rather than across a yard — hillside Queen Anne/Shingle houses in the St. George/New Brighton Historic District (cellar at grade on the downhill side), houses divided into two- and three-family homes with no common hallway, pre-war co-ops and a 20-storey tower, a 1930s poured-concrete factory turned lofts, new mixed-use buildings at the terminal, and small offices around Borough Hall and the courts. So the work is vertical routes in old finishes, board/landlord/LPC paperwork, inherited wiring from earlier conversions, and scheduling around a neighbourhood that runs on the ferry. (Parent Staten Island page = lateral yard/aerial/buried links; not repeated.)
+
+### Reddit (local)
+- Query: `reddit statenisland St. George internet fiber apartment building Fios` · Firecrawl web search (excerpts only; Firecrawl does not scrape reddit.com) → no r/statenisland thread returned. r/statenisland: EMPTY.
+  - https://www.reddit.com/r/Fios/comments/lfhywy/if_an_apartment_complex_says_theyre_wired_for/ — excerpt: "The term "wired for fios" means the infrastructure is in the building. The apartments are wired per order." → §10.5 H3 3 (quoted as a Reddit answer; not St. George-specific).
+  - https://www.reddit.com/r/Fios/comments/1u2ndd4/getting_fios_installed_at_a_brooklyn_apartment/ — excerpt "the building still has to be setup… FAST ticket for engineering" → background only, not quoted.
+  - https://www.verizon.com/home/internet/near-me/new-york-ny/ (same search, excerpt): "In apartment buildings or homes not yet wired for Fios: Verizon coordinates with the property manager/owner to wire and install the service." → §10.5 H3 2 (paraphrased + "not yet wired for Fios" quoted).
+  - https://www.broadbandsearch.net/service/new-york/staten-island (same search; WebFetch): "Fiber service is concentrated in St. George, Tompkinsville and parts of the North Shore," "while the South Shore and many inland suburban blocks remain served primarily by cable." No source cited by the site. → §10.5 H3 1 (quoted claim, flagged as unsourced).
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted/summarised as published): broadbandsearch and Verizon FAQ (above); Reddit r/Fios (above); silo sources reused — streamlinetelecom.com "$1-6 per linear foot" (H3 4), thenetworkinstallers.com citing FBA 2025 underground median $18/ft, aerial $8/ft (H3 5), multifamilyresources.quantumfiber.com stages 30 days off-site / 30 on-site / 40–60 days activation (H3 6, summarised, not quoted), t-mobile.com "can take up to 4 hours" and att.com four to six hours (H3 7). Yelp 1–3★ for St. George fiber/cabling: no query returned yelp.com results. EMPTY.
+
+### Landmarks, civic buildings, transit
+- Query: `St. George Historic District Staten Island Landmarks Preservation Commission designation report boundaries St. Marks Place` · WebSearch → https://s-media.nyc.gov/agencies/lpc/lp/1883.pdf (WebFetch): St. George/New Brighton Historic District, designated July 19, 1994 (LP-1883); "some 78 buildings"; portions of St. Marks Place, Carroll Place, Westervelt Ave, Hamilton Ave, Phelps Place cul-de-sac, short stretches of Richmond Terrace; earliest house 404 Richmond Terrace c.1835, peak 1880s–90s, last house 1926–28; styles Greek Revival → Queen Anne/Shingle (predominant) → Colonial Revival, Craftsman, Art Deco; "three crescent-shaped streets ascending a steep hillside"; "taking advantage of the hilly topography"; "Most houses are larger than they appear from the street due to the sloping terrain"; "terraced landscape". → §5 para 3, §5.5 facts 1–2, §7 cards, "On the Hill" section, Sources.
+- Query: `St. George Staten Island Borough Hall 10 Richmond Terrace built 1906 Carrère and Hastings` · WebSearch → https://en.wikipedia.org/wiki/Staten_Island_Borough_Hall (WebFetch): 1906, Carrère and Hastings, 10 Richmond Terrace, brick and limestone, Beaux-Arts/French Renaissance, NYC landmark March 23, 1982, NRHP 1983, 13 WPA murals by Frederick Charles Stahr. → §5 para 1, §8 Richmond Terrace card, §13 card.
+- Query: `Richmond County Supreme Court new courthouse 26 Central Avenue St. George opened` · WebSearch → https://en.wikipedia.org/wiki/Richmond_County_Courthouse_(Staten_Island) (WebFetch): 18 Richmond Terrace, opened Nov 3 1919, Carrère and Hastings, NYC landmark 1982; most Supreme Court parts moved to 26 Central Avenue, opened Sept 28 2015; Matrimonial Parts and Surrogate's Court remain. → §5 para 1, §8 Central Ave card, §13 card, civic-centre section.
+- Query: `St. George Ferry Terminal Staten Island ferry annual riders terminal renovation` · WebSearch → https://en.wikipedia.org/wiki/St._George_Terminal (WebFetch): ferry terminal opened 1886; 1946 fire; city-built facility opened June 8 1951; four bus ramps A–D; 22 NYCT routes listed; northern terminus of Staten Island Railway. → §5 para 1, Ferry Time section, §13 card.
+  - https://malliotakis.house.gov/media/press-releases/malliotakis-announces-575-million-st-george-ferry-terminal-upgrades (WebFetch): June 9 2025 release, $5,750,000 FTA Passenger Ferry Grant for replacing bus ramp passageways and terminal chillers (headline "575 million" is a typo for $5.75M). → §13 terminal card.
+- Query: `Staten Island Ferry daily riders trips per day NYC DOT facts 5.2 miles 25 minutes` · WebSearch → https://en.wikipedia.org/wiki/Staten_Island_Ferry (WebFetch): 16,692,900 riders in calendar 2025; 5.2 miles; ~25 minutes; 24/7; nine boats. → §5.5 fact 3, Ferry Time section. (NYC DOT's own facts page not fetched.)
+- Query: `St. George Theatre 35 Hyatt Street opened 1929 seats Staten Island` · WebSearch → https://en.wikipedia.org/wiki/St._George_Theatre (WebFetch): 35 Hyatt St, opened Dec 4 1929, 1,903 seats today, architect Eugene De Rosa (with James Whitford), interiors Nestor Castro; landmark status not stated. → §8 Hyatt St card, §13 card.
+- Query: `Curtis High School Hamilton Avenue St. George landmark 1904 C.B.J. Snyder` · WebSearch → https://hdc.org/buildings/curtis-high-school/ (WebFetch): 105 St. Marks Pl, 1902–04 with additions 1922/1925/1937, C.B.J. Snyder, Collegiate Gothic, "Designated Individual Landmarks" (year not stated). → §13 card.
+- Query: `SIUH Community Park 75 Richmond Terrace FerryHawks ballpark St. George opened 2001` · WebSearch → https://en.wikipedia.org/wiki/SIUH_Community_Park (WebFetch): 75 Richmond Terrace, opened June 24 2001, capacity 7,171, Staten Island FerryHawks, formerly Richmond County Bank Ballpark. → §8 Richmond Terrace card, §13 card, Ferry Time para 3.
+- Query: `Empire Outlets Staten Island opened 2019 square feet St. George ferry terminal` · WebSearch → https://en.wikipedia.org/wiki/Empire_Outlets (WebFetch): grand opening May 15 2019; ~350,000 sq ft; next to St. George Terminal; built by BFC Partners, SHoP Architects; Goldman Sachs acquired at Sept 2023 foreclosure auction (not used); garage figure conflicting 1,200/1,250 (not used); hotel component not confirmed built (not used). → §8 waterfront card, waterfront section.
+- Query: `St. George Library Center 5 Central Avenue Staten Island NYPL` · WebSearch → https://gopher.nypl.org/locations/st-george-library-center (search result title/URL only: "5 Central Avenue … Staten Island, NY 10301"). → §8 Central Ave card.
+- Query: `National Lighthouse Museum St. George Staten Island address 200 The Promenade Lighthouse Service depot` · WebSearch → https://ohny.org/place/national-lighthouse-museum-and-us-lighthouse-service-super-depot/ (WebFetch returned only a loading shell). EMPTY — museum not used on the page.
+
+### Building stock / housing
+- Query: `St. George Staten Island neighborhood guide renters housing types Victorian homes converted apartments` · Firecrawl web search → https://www.defalcorealty.com/neighborhood-guide/st-george-staten-island/ (excerpt, 2026 guide): ~8,600 residents (20,500 incl. New Brighton); ~70% of housing units renter-occupied (St. George–New Brighton area); two- and three-family properties common on the streets climbing south of Richmond Terrace; historic homes on streets above Fort Hill and along Daniel Low Terrace; "The 20-story Castleton Park Apartments on St. Marks Place ranks among the tallest structures on Staten Island." → §5 para 1/3, §5.5 facts 4–5, §7 cards, FAQ 1 (Fort Hill).
+  - https://ranolarealestate.com/living-in-st-george-staten-island-2026/ (Firecrawl scrape, May 16 2026): four housing tiers — condo/co-op towers near the ferry, pre-war loft and apartment conversions near Bay Street, brownstones/multi-family townhouses (many legal 2–3 family), restored Victorian/Queen Anne houses on the hill (St. Marks Pl, Westervelt, Carroll Pl, Hamilton Ave); "Bay Street and Stuyvesant Place are full-on walkable retail corridors with bars, coffee shops, restaurants … galleries". Real-estate prices NOT used. → §7, §8 Bay St / Stuyvesant Pl cards.
+  - Same search → apartments.com local guide (excerpt "2,800 seat St. George Theatre") — NOT used (conflicts with Wikipedia's 1,903 current seats).
+- Query: `Castleton Park St. George Staten Island towers Hamilton Avenue apartments CAMBA` · WebSearch → https://rebusinessonline.com/stellar-management-camba-housing-ventures-acquire-castleton-park-on-staten-island/ (WebFetch, July 24 2015): 454 apartment units, "40-year-old development"; storeys not stated (20-storey from DeFalco). → §5.5 fact 5, §7 tower card.
+- Query: `Bay Street Landing St. George Staten Island warehouse conversion condos history` · WebSearch → https://scaranoarchitect.com/project/bay-street-landing/ (WebFetch): 1930s waterfront factory building of poured-in-place concrete, converted to residential lofts with new addition; unit count not stated. → §5 para 3, §7 loft card, §9 concrete-loft Q.
+- Lighthouse Point: Query `Lighthouse Point St. George 2026 phase two tower hotel YIMBY` · WebSearch → https://newyorkyimby.com/2025/06/lighthouse-point-phase-one-finishes-construction-at-5-bay-street-in-st-george-staten-island.html (WebFetch): 5 Bay Street, 115 units, ~60,000 sq ft commercial; tenants CSI Tech Incubator, The Learning Experience, Club Pilates; Cooper Carry / Triangle Equities; site of U.S. Lighthouse Service General Depot 1863–1966. Future phases not mentioned. (Silo SI research also has Triangle Equities June 6 2025 release.) → §5 para 3, §5.5 fact 6, §7 new-building card, waterfront section.
+
+### Local news / hyperlocal / planning
+- Query: `silive St. George 2026 new apartment towers waterfront development Staten Island` · WebSearch →
+  - https://www.defalcorealty.com/blog/staten-island-multifamily-development-pipeline/ (WebFetch; Jan 27 2026, mod. Apr 29 2026): North Shore Action Plan ~2,400 potential homes; Lighthouse Point 115 units 2025; other projects in Stapleton (not used). → waterfront section para 1.
+  - https://www.nyc.gov/assets/statenislandcb1/downloads/pdf/2026/Land-Use-Meeting-Agenda-March-3-j2026.pdf (WebFetch): CB1 Land Use agenda Mar 3 2026 — 198-208 Richmond Terrace, zoning amendments sought for a 14-storey mixed-use building. → waterfront section para 1 (described as "on Richmond Terrace", no outcome claimed).
+  - YIMBY "Liberty Towers" (2020) and Bisnow results — not opened, not used.
+- Query: `silive St. George Staten Island internet outage fiber Verizon Spectrum 2025 2026` · Firecrawl web search → irrelevant results. Query `silive St. George Staten Island news October 2026` · WebSearch → no relevant SI Advance item. SI Advance/silive fiber or internet news for St. George: EMPTY.
+- Broadband statistics by community district: https://council.nyc.gov/data/internet-access/ (WebFetch) gives no Staten Island CD figures on the page. EMPTY (not used).
+
+### Local licensing / permits / building rules
+- Query: `Landmarks Preservation Commission permit guidebook historic district interior work no permit unless exterior conduit wiring visible` · WebSearch → https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Introduction.pdf (WebFetch): permit generally needed for work affecting the exterior "including parts not visible from the street" (paraphrased on page, not quoted), and work in front/side/rear yards; interior work needs an LPC permit when it needs a DOB permit; HVAC louvers/vents count as exterior; PMW (exterior work not needing DOB permit), CNE, Certificate of Appropriateness. → §8.5 Landmarks bullet, §9 LPC rear-wall Q, nonprofit Q, renovation section, Sources.
+  - https://www.nyc.gov/site/lpc/applications/permits-and-making-alterations.page — WebFetch blocked (permission request not answered in build env). EMPTY (not accessible in build env); guidebook used instead.
+- Silo sources reused: DOB sub-50 V statement (site's structured-cabling-pricing page), firestopping (nyflnerds/unifinerds), OFNR/OFNP (cablinginstall.com), FOA bend radius 10×/20×, NEC 770 abandoned optical cable (mikeholt.com). → §8.5, §10, FAQ bend question, inherited-wiring section.
+- Fios footprint: silo source https://espanol2.verizon.com/about/node/141763 — Staten Island "virtually all" premises passed at end-2013. → §5 para 4, §10.5 H3 1.
+
+### Pricing used (existing approved prices × blueprint §9 Staten Island 1.10×; identical to the live Staten Island fiber page table — no new prices)
+$39 termination · $44 OTDR/strand · $385 MM drop · $440 SM drop · $4,950–$7,700 12-strand OM4 backbone · $8,800–$16,500+ 24-strand OS2 · from $2,640 second telecom room · $195/hr, 3-hr min ($585) protected.
+Worked examples (sums of published lines only): 2 × $440 = $880; 3 × $385 = $1,155; 24 × $39 + 12 × $44 = $936 + $528 = $1,464; $4,950–$7,700 + from $2,640 = from $7,590.
+Packages: Starter $1,464 (re-terminate + OTDR a 12-strand riser) · Standard $4,950–$7,700 · Premium from $7,590 (backbone + second closet) · BYOE $195/hr, 3-hr min. (Open CONFLICT from SI research still applies: structured-cabling-pricing-staten-island.html shows $411/$470 drops ≈1.175×.)
+
+### Images (11) — Step C library; Drive folder `AESS Website Photos/Fiber Optic Installation` empty this run, CompanyCam not connected
+Copied within images/fiber-optic-installation/ as WebP q80. Looked at each before choosing; skipped every image with a frontal/readable face, a readable document (cable map sheet, IDF floor-plan sheet) or a visible street number. Printed phone numbers on shirts/caps were pixelated + blurred (844-386-7238 is not an approved number; 800 also blurred for consistency). Back-turned or cropped-profile shots only.
+| New file | Source | Edit |
+|---|---|---|
+| fiber-optic-installation-st-george-fusion-splicer-sc-panel.webp | fiber-optic-installation-brooklyn-splice-tray-enclosure.webp | shirt number blurred |
+| fiber-optic-installation-st-george-brick-wall-enclosure-conduit.webp | fiber-optic-installation-staten-island-exterior-wall-enclosure-conduit.webp | (already blurred) |
+| fiber-optic-installation-st-george-ceiling-tile-coil-feed.webp | fiber-optic-installation-staten-island-ceiling-tile-cable-feed.webp | (already blurred) |
+| fiber-optic-installation-st-george-rack-patch-cord-dressing.webp | fiber-optic-installation-manhattan-idf-rack-patching.webp | none |
+| fiber-optic-installation-st-george-jhook-bundles-above-ceiling.webp | fiber-optic-installation-orange-county-jhook-pathway-open-ceiling.webp | shirt number blurred |
+| fiber-optic-installation-st-george-recessed-media-box-tester.webp | fiber-optic-installation-suffolk-county-recessed-wall-box-patching.webp | none |
+| fiber-optic-installation-st-george-rack-laptop-switch-setup.webp | fiber-optic-installation-ulster-county-rack-switch-laptop-setup.webp | hoodie + cap numbers blurred |
+| fiber-optic-installation-st-george-lift-ceiling-access-point.webp | fiber-optic-installation-long-island-scissor-lift-ceiling-access.webp | shirt number blurred |
+| fiber-optic-installation-st-george-soffit-camera-drill-mount.webp | fiber-optic-installation-staten-island-storefront-canopy-camera-mount.webp | none |
+| fiber-optic-installation-st-george-conference-display-recessed-box.webp | fiber-optic-installation-nassau-county-conference-room-cable-box.webp | none |
+| fiber-optic-installation-st-george-van-reels-ladders-tool-bag.webp | fiber-optic-installation-suffolk-county-van-cable-reels-ladders.webp | none |
+Flag for Anwar: the whole library still looks AI-rendered (garbled box text, invented logos, a fake "844-386-7238" number on shirts). Rule says real photos only; these were the only fiber-folder images available. Several scenes now appear on 2–4 fiber pages.
+
+### Keyword plan (St. George page)
+Service: fiber optic installation St. George, fiber riser, building backbone, house fiber riser, co-op fiber backbone, fusion splicing, OTDR testing, fiber termination. Problem: Wi-Fi fades upstairs, no common hallway, locked telephone closet, inherited/abandoned wiring, landmark permits, concrete slabs, alteration agreements. Technology: OS2 bend-insensitive, OM4, OFNR/OFNP, micro-cable, wall enclosures, splice panels, SFP/media converters, surface raceway. Industry: hillside houses, two/three-family conversions, co-ops/condos, lofts, law offices/nonprofits, new-building tenants. Geographic: St. George, Staten Island, Bay Street, Richmond Terrace, Stuyvesant Place, Central Avenue, Hyatt Street, St. Marks Place, Hamilton Avenue, Westervelt Avenue, Carroll Place, Tompkinsville, New Brighton, Fort Hill, Randall Manor, Stapleton, West Brighton.
+
+### Question register additions
+fiber-optic-installation-st-george-staten-island-ny
+§9 Questions Answered:
+- Our house is built into the hillside, with the cellar at street level on one side and underground on the other — which level should the network start from?
+- Does the Landmarks Preservation Commission care about conduit on the back of a historic-district house, where nobody on the street can see it?
+- Can fiber follow the old radiator pipe chases up through a Victorian house?
+- Would fiber to the top floor fix Wi-Fi that fades on the stairs of a four-storey house, or is a mesh kit enough?
+- Our converted Victorian has no common hallway — every stair belongs to one apartment — so where can a building-wide fiber riser run?
+- We're turning a three-family house back into a single home — what happens to the three sets of provider wiring, and where should the new fiber go?
+- Our condo is in a 1930s poured-concrete factory building on the waterfront — how does fiber get through slabs and columns like that?
+- Our co-op's alteration agreement asks for a scope of work — how much detail should the fiber section contain?
+- The old telephone closet in our co-op is locked and nobody on the board knows who has the key — can fiber work start without it?
+- We're a small law office near the courthouses with a records room in the basement — can scanning stations down there run over fiber without putting a server in the cellar?
+- We're fitting out a shop or studio unit in a brand-new building by the ferry — what does the developer's telecom room give us, and what do we have to build ourselves?
+- Our nonprofit shares an older building on Richmond Terrace with other tenants — can we have fiber of our own without paying for a whole-building system?
+§17 FAQ:
+- Do you work in the neighbourhoods next to St. George — Tompkinsville, New Brighton, Fort Hill and Randall Manor?
+- How do you keep dust down when drilling through old plaster in a lived-in house?
+- Can the small fiber box at each end be painted to match period woodwork?
+- How tight can fiber bend around the corners of a narrow Victorian stair?
+- Can the building's video intercom use the same fiber as the internet?
+- Does fiber give off any radiation or signal that could bother people living next to it?
+- If we change internet providers, does the fiber you installed still work?
+- How are the strands labelled when each one serves a different apartment?
+- Do we have to warn the neighbours in the attached house before you drill near the shared wall?
+- Can fiber reach a turret room or attic studio at the very top of the house?
+Other headings: none end in "?" (repair headings worded as statements).
+
+De-dup notes: two draft questions were replaced after comparing with the concurrent Port Morris and Midtown drafts — "only entrance up a long flight of outdoor steps" (≈ Port Morris "no working elevator — carrying materials up the stairs") and "nonprofit … who has to sign off" (≈ Port Morris State-sublease sign-offs and SI SNAD sign-off). Closest remaining intents for the main run to judge: radiator-chase route vs Midtown "Con Edison steam beside the telecom entrance — will the heat harm fiber" (mine = route, theirs = heat proximity); FAQ bend radius vs Midtown "Is bend-insensitive single-mode worth paying for" (mine = limit, theirs = value); co-op scope-of-work vs Manhattan "drawings the landlord's engineer can review"; video intercom vs NYC-hub-family "phone system over the same fiber".
+
+### Build checks (this builder)
+- `python3 tools/check_page.py fiber-optic-installation-st-george-staten-island-ny --no-registration --stats`: 12,343 words, title 52, meta 157, 11 figures, 6 JSON-LD blocks, FAQ 10 = schema 10, 2 forms, tel 347 + 800 (header only), 168,924 bytes. Only remaining failures: 16 × "live sibling … doesn't link back" (area pages must link down — main-run wiring; not touched by this builder).
+- Masked paragraph similarity (difflib, word level, ≥12-word paragraphs, exempt warranty/NAP/licence line/freshness stamp/consent text/quoted source claims): max 0.623 vs fiber-optic-installation-staten-island (final repair paragraph); all other siblings ≤ 0.571.
+- Cross-link block contains the comment `<!-- NEIGHBOURHOOD SIBLINGS: … -->` where the main run adds neighbourhood sibling links.
+- Rendered at 1440 and 390 px (Playwright): no horizontal scroll.
+
+## Midtown, Manhattan — local research (2026-10-17 batch, fiber-optic-installation-midtown-manhattan-ny)
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources (top of research/fiber-optic-installation.md) and the Manhattan section are reused where noted; only Midtown-specific research is new here. Thesis: Midtown fiber is a vertical-stack problem — elevator-bank changes, mechanical floors and pre-war setbacks (not distance) decide the route — with sub-district rules layered on (East Midtown rezoning towers, Plaza District, Sixth Ave slabs, Times Square signage, landmarked theatre interiors, Diamond District security, Garment District lofts under the 2025 MSMX rezoning, Con Ed steam in the cellars). Kept clear of FiDi and Chelsea topics (no carrier hotels, no Sandy/flood material, no 111 Eighth Ave).
+
+### Reddit (local / topical)
+- Query: `reddit Midtown Manhattan office building internet fiber riser landlord slow` · Firecrawl web search (excerpts only; reddit.com threads not opened).
+  - https://www.reddit.com/r/networking/comments/26uymj/i_own_an_office_building_how_can_i_provide_my/ — excerpt: owner of an office property wants "to install a system where I can provide my tenants with internet access through fiber." → §5 THE NEIGHBORHOOD (paraphrased, not Midtown-specific).
+  - https://www.reddit.com/r/sysadmin/comments/1k5et51/do_you_cut_all_your_cabling_when_moving_office/ — excerpt: "We've had to tear out tons of copper and fiber, otherwise the landlord will charge to remove it." → §5 (quoted).
+  - https://www.reddit.com/r/verizon/comments/1u083m9/how_do_i_get_fiber_in_my_building_nyc/ — already in silo research; not reused.
+- No Midtown-specific Reddit thread retrieved: EMPTY beyond the above.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitute for §10.5 reality check: claims published by carrier pages and cost guides already in the silo research, quoted as published (none of these seven claims is an H3 on the Manhattan page):
+- AT&T "four to six hours" (https://www.att.com/support/article/internet/KM1066216/) and T-Mobile "up to 4 hours" (https://www.t-mobile.com/home-internet/fiber/fiber-optic-installation) → §10.5 H3 1.
+- Ampcom OM4 ~400–550 m at 10G, ~150 m at 40/100G SR4; OS2 10 km+ (https://www.ampcom.com/blogs/industry-insights/how-to-choose-the-right-fiber-type-singlemode-vs-multimode) → §10.5 H3 2 and the "Reading the Stack" note (with One Vanderbilt 1,401 ft ≈ 427 m from the Manhattan section).
+- Low Voltage New York cost guide (July 2026) fusion splices "$50–$150 each" (https://lowvoltagenewyork.com/resources/fiber-optic-cabling-cost-new-york/); The Network Installers $30–$75 citing Ring and Ping (https://thenetworkinstallers.com/blog/fiber-optic-installation-cost/) → §10.5 H3 3.
+- The Network Installers citing FBA 2025: underground median $18.00/ft, aerial $8.00/ft → §10.5 H3 4; testing/documentation ≈5% citing Automation World → §10.5 H3 5.
+- Quantum Fiber multifamily stages 30 / 30 / 40–60 days (https://multifamilyresources.quantumfiber.com/fiber-installation-journey/) → §10.5 H3 6.
+- Atlantech commercial timeline, one customer waited 15 months (https://www.atlantech.net/blog/install-fiber-optic-internet-timeline) → §10.5 H3 7, with Verizon 94% Manhattan premises passed end-2013 (https://espanol2.verizon.com/about/node/141763, silo source).
+
+### Office market / building stock
+- Query: `Midtown Manhattan office availability rate 2026 report Avison Young OR CBRE OR Colliers Midtown submarket` · Firecrawl web search (PDF excerpts).
+  - https://www.colliers.com/-/media/files/unitedstates/markets/new-york-city/research/new-york-city/2026/q2-2026-manhattan-office-market-quarterly-report_v2.ashx — Q2 2026: Midtown inventory 233,215,500 sf, availability 12.3%; Plaza District 84,670,506 sf, 11.0%; Times Square 58,221,381 sf, 13.2%; U.N. Plaza 4,059,924 sf, 2.1%; Manhattan 13.0%. → §5 para 1, §5.5 facts, District section (Plaza 11.0%).
+  - https://www.avisonyoung.us/documents/d/new-york/manhattan-office-report-2q-2026 — Midtown 41.90% of the conversion pipeline (sf); Midtown South 8.20%; Midtown Total inventory 308.7 msf at 13.3% (AY definition, not used). → §5.5 facts.
+- Query: `East Midtown rezoning 2017 adopted blocks new office space transit improvements` · Firecrawl web search → https://www.nyc.gov/content/planning/pages/our-work/plans/manhattan/greater-east-midtown (Firecrawl scrape): adopted by City Council August 9, 2017; area generally bounded by Fifth Ave, Third Ave, E 39th, E 57th; >60 million sf office, >quarter million jobs; iconic buildings named: Lever House, Seagram Building, 550 Madison, 601 Lexington, Chrysler Building; many older buildings built under pre-1961 rules with more floor area than now permitted; Vanderbilt Corridor 2015 text amendment; One Vanderbilt 30 FAR, 1.3 msf, ~$225 million of Grand Central improvements; LPC designated 12 buildings as individual landmarks; FAR 18–27 near Grand Central/Park Ave. → §5 para 3, §5.5, §7 cards, §13 landmark cards (Grand Central, One Vanderbilt, Chrysler, Seagram/Lever House), District section (pre-1961 note). Also excerpt https://www.skyscraper.org/programs/assessing-east-midtown-rezoning/ ("78-block district", not used).
+- Query: `270 Park Avenue JPMorgan Chase headquarters opened 2025 height floors employees` · Firecrawl web search →
+  - https://www.jpmorganchase.com/newsroom/press-releases/2025/grand-opening-270-park — opened October 21, 2025; 60 storeys; 10,000 employees; 2.5 million sf. → §5, §5.5, §13 card.
+  - https://www.fosterandpartners.com/projects/270-park-avenue — lifted ~80 ft off the ground; eight trading floors. → §5.5, §13 card.
+  - https://en.wikipedia.org/wiki/270_Park_Avenue_(2025%E2%80%93present) — HQ since October 21, 2025 (confirms date; schema mention).
+- Query: `Midtown South Mixed-Use Plan approved City Council 2025 Garment District homes blocks` · Firecrawl web search →
+  - https://council.nyc.gov/press/2025/08/14/2940/ (Firecrawl scrape): approved August 14, 2025; "largest neighborhood, residential rezoning plan in two decades"; 9,500+ units, 2,800+ permanently affordable; >$448 million community/infrastructure; >$120 million for Garment District fashion/garment businesses. → §5, §5.5, "What the Midtown South Plan Means" section, §10.5 H3 6.
+  - https://www.midtownsouthplan.nyc/ (excerpt): 42 blocks of Midtown South. → same sections.
+- Query: `Garment District loft buildings 1920s built for garment manufacturing converted offices history Seventh Avenue` · Firecrawl web search → https://garmentdistrict.nyc/history (excerpt): district settled between 9th Avenue and Broadway, 34th–42nd Street; Co-Operative Garment Center Buildings at 494 and 500 Seventh Ave built 1920; fastest-growing construction site by 1926; Ely Jacques Kahn designed ten district buildings, first the Arsenal Building on Seventh Ave at 35th. → §7 Garment card, District section, §13 card.
+- Query: `Diamond District West 47th Street between Fifth and Sixth Avenues number of businesses jewelry` · Firecrawl web search → https://en.wikipedia.org/wiki/47th_Street_(Manhattan) (excerpt): Diamond District between Fifth and Sixth Avenues ("Diamond Jewelry Way"). → §8 card, §9 vault question, §13 card. (A jeweller's blog claim of "over 2,600 businesses" was NOT used — weak source.)
+- Query: `Grand Central Madison LIRR terminal opened January 2023` · Firecrawl → https://www.mta.info/press-release/icymi-governor-hochul-celebrates-grand-central-madisons-inaugural-year — opened to the public January 25, 2023. → §13 card.
+
+### Codes / rules used for Q&A
+- Query: `NYC Building Code interior exit stairway penetrations prohibited except equipment serving the stairway 1023.5` · Firecrawl → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-174119 (excerpt): "Penetrations into or through interior exit stairways and ramps are prohibited except for equipment and ductwork necessary for independent ventilation or…". → §8.5 callout, §9 fire-stair question.
+- Query: `FDNY auxiliary radio communication system ARCS required high-rise building fire code section 510 in-building` · Firecrawl → https://nyc-business.nyc.gov/nycbusiness/description/auxiliary-radio-communication-system-application (scrape summary): ARCS for FDNY use; required in all new high-rise buildings and those undergoing major changes per BC 403.4.4 and 907.2.13.2; licensed design professional; $585 fee (fee not used). → §9 ARCS/DAS question.
+- Query: `Local Law 26 of 2004 sprinklers office buildings 100 feet or higher deadline July 2019 NYC` · Firecrawl → https://www.nyc.gov/assets/buildings/pdf/ll26of2004_reminder.pdf (excerpt): full sprinklers in office buildings over 100 ft, completed by July 1, 2019. → §8.5, §9 sprinkler question.
+- Query: `NFPA 13 sprinkler piping shall not be used to support nonsystem components cables` · Firecrawl → https://up.codes/s/support-of-non-system-components (excerpt: non-system components must not be supported by sprinkler piping or hangers); https://www.fhca.org/focusonflorida/entry/cabling_on_sprinkler_piping (NFPA 25 5.2.2.2 wording). → §8.5, §9 sprinkler question.
+- Query: `Times Square zoning signage requirement Special Midtown District illuminated signs minimum LUTS` · Firecrawl → https://zr.planning.nyc.gov/article-viii/chapter-1/81-732 and https://zr.planning.nyc.gov/article-viii/chapter-1 (excerpts): Special Times Square signage requirements in the Theater Subdistrict; illuminated signs required on Seventh Ave/Broadway frontages; "All required illuminated signs shall at a minimum remain lit from dusk until 1:00 a.m. daily." → §9 Times Square question, District section.
+- Query: `Landmarks Preservation Commission Broadway theater interiors designated 1987 number of theaters` · Firecrawl → https://www.nypap.org/preservation-history/theater-district/ (excerpt: "By 1987, 25 Broadway theaters had been designated New York City Landmarks"); http://s-media.nyc.gov/agencies/lpc/lp/1343.pdf (excerpt: Imperial Theater first-floor interior, designated November 17, 1987); https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-90685 (scrape summary of RCNY LPC § 4-01: production-related work on designated theatre interiors needs no application if guidelines followed and reversible; permanent alterations go to LPC). → §8.5, §9 theatre question, §13 card.
+- NEC listing hierarchy (OFNP may substitute for OFNR): silo source cablinginstall.com → §8.5 callout.
+
+### Steam / street infrastructure
+- Query: `Con Edison steam system Manhattan miles of mains buildings served 2007 Lexington Avenue 41st Street steam pipe explosion` · Firecrawl →
+  - https://en.wikipedia.org/wiki/2007_New_York_City_steam_explosion (excerpt): July 18, 2007; 24-inch steam pipe installed 1924; 41st St and Lexington Ave near Grand Central. → §5.5, §9 steam question, §13 Chrysler/Lexington card.
+- Query: `Con Edison steam system customers Manhattan miles of pipe coned.com steam operations` · Firecrawl → https://www.coned.com/en/commercial-industrial/steam (excerpt: southern tip of Manhattan to 96th Street); https://www.coned.com/en/about-us/media-center/news/2022/03-23/con-edisons-steam-system-will-become-nycs-hottest-new-clean-energy-solution (excerpt: 105 miles of steam mains, six generating stations). → §5.5, §9 steam question.
+- Query: `congestion pricing began January 5 2025 Manhattan below 60th Street toll trucks` · Firecrawl → https://portal.311.nyc.gov/article/?kanumber=KA-03612 (excerpt: toll for vehicles entering Manhattan south of and including 60 Street); https://en.wikipedia.org/wiki/Congestion_pricing_in_New_York_City (began January 5, 2025). → District section (Sixth Avenue para: deliveries consolidated). No pricing consequence stated.
+
+### Local news / hyperlocal on Midtown fiber-installation contractors 2026 — EMPTY (none retrieved).
+
+### Pricing used (published lines from fiber-optic-installation-manhattan.html only — no new prices)
+$44/termination · $50/strand OTDR · $453 MM drop · $517 SM drop · $5,625–$8,750 12-strand OM4 backbone · $10,000–$18,750+ 24-strand OS2 · from $3,000 second telecom room · $195/hr 3-hr min ($585). Worked examples are sums only: Starter $828 = 12×$44 + 6×$50; Standard $6,225–$9,350 = OM4 backbone + 12×$50; Premium $13,000–$21,750+ = OS2 backbone + second room; sign link 2×$517 = $1,034; re-terminate 24-strand both ends + trace = 48×$44 + 24×$50 = $3,312.
+
+### Images (11) — Step C (Drive folder `AESS Website Photos/Fiber Optic Installation` empty this run, CompanyCam not connected)
+Copied from images/fiber-optic-installation/ (each a single-use file in that folder; 10 are the face-free crops first used on the Putnam page, 1 is a new crop of fiber-optic-installation-long-island-scissor-lift-ceiling-access.webp cut to 800×600 to remove the technician's face and the printed phone number): midtown-rack-yellow-uplinks-ups, midtown-corridor-bundle-open-ceiling, midtown-switch-seated-in-rack, midtown-emt-sweep-block-wall, midtown-hammer-drill-dust-extraction, midtown-jhooks-above-ceiling-grid, midtown-tone-probe-trace, midtown-patch-panel-punchdown, midtown-certifier-pass-outlet, midtown-ceiling-access-point-tile, midtown-patch-cord-label. Alt/title/caption describe only what is visible (mostly copper Cat6 panels, racks, conduit, J-hooks); no building, customer or project claimed. Candidates skipped for readable faces: westchester two-tech corridor pull, staten-island corridor bundle, staten-island link tester, orange finished rack, orange J-hook, rockland reel boxes, westchester port labels, staten-island block-wall conduit, rockland switch, rockland punchdown, hudson-valley access point; suffolk video wall skipped (shows a Lower Manhattan skyline on screen).
+REVIEW: several library photos show tell-tale rendering artefacts (garbled patch-panel numbering such as "1 12 13 4 16 12 8", box text "H50 MHz", logo variations) — Anwar should confirm these are real AESS photos.
+
+### Keyword plan (Midtown page)
+Service: fiber optic installation Midtown Manhattan, tower riser backbone, fusion splicing, OTDR. Problem: elevator-bank change, mechanical floor, setback offset, full sleeve, sprinkler-pipe support, steam heat, sign uptime. Technology: OS2, OM4/OM5, bend-insensitive, armoured, high-count distribution cable, MPO. Industry: banks/trading floors, law firms, theatres, Times Square signage, jewellers, missions, Garment showrooms, condo towers. Geographic: Midtown, East Midtown, Grand Central, Plaza District, Sixth Avenue, Rockefeller Center, Times Square, Theater District, Diamond District, Garment District, Penn Plaza, Turtle Bay, Murray Hill, Koreatown, Hell's Kitchen.
+
+### Question register additions (fiber-optic-installation-midtown-manhattan-ny)
+§9 Questions Answered:
+- Our floors are served by a different elevator bank from the building's telecom room, with a mechanical floor in between — what route does fiber take?
+- The riser closets in our pre-war tower stop lining up above the setback floors — how does a backbone jog sideways to stay in a shaft?
+- Can a backbone run up a fire stair when the riser closets are full?
+- Can cable be hung from the sprinkler pipes that Local Law 26 added above our office ceiling?
+- What should we check about a brand-new Midtown tower's telecom rooms before our fit-out drawings are final?
+- The building's FDNY radio system or a carrier's in-building cellular system needs fiber to every floor — can that share our backbone?
+- Two tenants on our stack want the last spare sleeve — how do buildings decide, and how do we avoid losing out?
+- Does a trading floor need its fiber routed for low latency, or is that a myth inside one building?
+- Our building's freight elevator is out of service for modernisation this year — can a riser job still go ahead?
+- Our Times Square frontage has to keep its signs lit — can fiber feed the sign controllers and media players from the building's network room?
+- Can fiber be installed in a Broadway theatre without disturbing a landmarked interior?
+- Our jewellery business on 47th Street keeps its stock in a vault room — how does fiber reach the back office without creating a new way in?
+- Con Edison steam enters our cellar right beside the telecom entrance — will the heat harm fiber, and how far away should it run?
+- Riser cable or distribution cable: which suits a Midtown tower? (§10 EQUIPMENT table heading)
+- Fiber Down Between Two Midtown Floors? (repair capture heading)
+- Want the Transfer Floor Found Before Pricing? (mid-page CTA heading)
+- Midtown Backbone Dark Before the Morning Rush? (final repair heading)
+§17 FAQ:
+- Does your Midtown coverage include Turtle Bay, Murray Hill, Koreatown and Hell's Kitchen as well as the office core?
+- How is a long vertical fiber run supported so it does not hang on its own weight over dozens of floors?
+- Do we need OM5 multimode for a new Midtown fit-out?
+- Is bend-insensitive single-mode worth paying for in shallow Midtown closets?
+- Can private fiber link the rooms of a full-floor condominium in a 57th Street residential tower?
+- Do you work inside Grand Central or other transit-owned property?
+- Does the building's chief engineer have to be with you for the whole job?
+- Can our suite get a fiber path with no splice points or patch panels in any shared closet?
+- Is armoured fiber required in a Midtown riser?
+- Can the backbone go in before the landlord finishes its base-building work on our floor?
