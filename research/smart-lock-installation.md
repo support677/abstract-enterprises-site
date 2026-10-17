@@ -1460,3 +1460,373 @@ Checked by meaning against every question in the NYC, LI, HV, Manhattan, Brookly
 3. Pricing conflicts listed above (access-control and door-buzzer Rockland pages).
 4. Images are geo-renamed copies of photos already on sibling pages and look AI-rendered.
 5. File size 203,730 B sits 3.5 KB above Manhattan and 3.9 KB below Westchester; re-check after the main run's wiring edits change sibling sizes.
+
+
+## Orange County (smart-lock-installation-orange-county)
+
+Built 2026-10-17 (batch: Orange, Putnam, Dutchess). Area page, up-link /smart-lock-installation-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (845) 640-3835 in body/CTAs/schema; (800) 486-0943 only in the shared header chrome. Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts unless scraped); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+Thesis / lane: **the handover.** Orange County is a growing county where doors constantly change hands — new-construction closings (construction keys, builder keypads), resale purchases (seller codes/app accounts), Army households at West Point/Stewart (on-post lock rules; off-post rentals for a tour), landlord turnovers in Newburgh/Middletown/Port Jervis (RPAPL 768 statewide), sellers' showings — plus logistics (I-84/17K), Goshen appointment offices. Distinct from the HV hub (remote/second homes, cold, radio range, historic doors), the NYC/borough pages, and the batch siblings (Putnam: lakes, rural, commuters; Dutchess: students, STRs).
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| O1 | (direct) West Point community guidelines · Firecrawl scrape (pdf, directQuote: locks/keys/alterations) | https://home.army.mil/westpoint/2117/2261/9593/Community_Guidelines.pdf | "Residents can request permission to alter existing locks or install additional locks by submitting a Request for Alterations form to Community Management. If approved, the replacement lock must be from the same manufacturer as the existing lock and the Community Management Office must receive a copy of the new key." Lost keys → lock changed, $50 fee. Lockouts: first business-hours no charge, second $25, after-hours/weekend $50; resident on lease present with ID. Exterior/doorbell cameras only aimed at resident's own entry/yard. | §5 para 3, §5.5 bullet 6, §6 card, §7 card+methods, §9 West Point Q (quoted), §9 "short stay worth it" Q, §10.5 H3 3, Military section, Handover register row, Glossary |
+| O2 | reused from research/soundbar-installation.md (Orange section) | https://www.westpointfamilyhomes.com/ | "Professionally managed by Balfour Beatty Communities". | §5 para 3, §13 card |
+| O3 | `New York RPAPL 768 unlawful eviction changing locks 2019 Housing Stability Tenant Protection Act statewide` · Firecrawl search | https://www.nysenate.gov/legislation/laws/RPA/768 ; https://ag.ny.gov/resources/government-organizations/law-enforcement-guidance/unlawful-evictions ; https://nysba.org/nys-housing-stability-and-tenant-protection-act-of-2019-part-iii-what-lawyers-must-know/ | RPAPL 768: unlawful to evict occupant of 30+ consecutive days or with a lease by, inter alia, "changing the lock on such entrance door without supplying the occupant with a key"; class A misdemeanor; civil penalty $1,000–$10,000 per violation; HSTPA 2019 made it statewide (NYSBA). | §5 para 4, §8.5 bullet, §9 rental-portfolio Q (quoted), §10.5 H3 4 |
+| O4 | `builder construction keys new home rekey after closing construction core master key homeowners` · Firecrawl search | https://www.reddit.com/r/homeowners/comments/ptjttn/question_about_changing_locks/ (excerpt) ; https://www.facebook.com/KingdomKeysLocks/videos/... (excerpt) ; https://a-1locksmith.com/should-you-change-your-locks-if-moving-into-a-new-construction-home/ (excerpt) | Reddit: "New builds should be using construction cores and swapping out to an owners core that only you get the copies for." Locksmith post: rekeyed a new-construction home "that still had master pins in the locks". A-1: owner's key should permanently lock out construction keys. | §9 construction-keys Q (Reddit quoted), §10.5 H3 1, Glossary |
+| O5 | `Schlage Encode factory reset removes all access codes previous owner new homeowner support` · Firecrawl search | https://schlage-res.zendesk.com/hc/en-us/articles/34130652492436-Factory-Reset-a-Schlage-Encode-Lock | "Factory default reset will remove all codes and virtual keys that have been programmed to your lock." | §9 construction-keys Q (quoted), Glossary |
+| O6 | `New York General Business Law 777-a housing merchant implied warranty new home one year two years six years` · Firecrawl search | https://www.nysenate.gov/legislation/laws/GBS/777-A ; https://codes.findlaw.com/ny/general-business-law/gbs-sect-777-a/ | Warranty survives passing of title; 1 yr workmanship/materials; 2 yrs plumbing, electrical, heating, cooling (ventilation); 6 yrs material defects. | §9 builder-warranty Q |
+| O7 | (direct) · Firecrawl scrape (directQuote) | https://censusreporter.org/profiles/05000US36071-orange-county-ny/ | ACS 2024 1-yr: 411,767 pop; owner-occupied 66%; single unit 69%; mean travel time 35.3 min (NY 33.2). | §5 paras 1 & 5, §5.5 bullets 1 & 5 |
+| O8 | (direct) · Firecrawl scrape (directQuote) | https://censusreporter.org/profiles/16000US3650034-newburgh-ny/ | City of Newburgh, ACS 2024 5-yr: 28,519 pop; 11,794 housing units; renter-occupied 65%; multi-unit 64%. | §5 para 4, §5.5 bullet 4 |
+| O9 | (direct) · Firecrawl scrape (directQuote) | https://censusreporter.org/profiles/16000US3647042-middletown-ny/ | City of Middletown, ACS 2024 5-yr: 30,289 pop; 10,633 units; owner-occupied 52%; single unit 56%. | §5 para 4, §5.5 bullet 4 |
+| O10 | `Orange County NY police burglary unlocked door residents reminded lock doors 2025 …` · Firecrawl search → Firecrawl scrape | https://www.townofnewburghny.gov/cn/webpage.cfm?tpid=8555 | Town of Newburgh PD "Preventing Burglaries While on Vacation": vacant-looking house is a target "during the work day when everyone may be at work or school"; give a neighbour a key; free police house-check notification; "Make sure that a 'Charley bar' is secure on sliding doors"; "Make sure the last person out locks the door." (Wallkill PD car break-in posts were Facebook excerpts only — not used.) | §5 para 5 (quoted), §7.5 sliding doors, §10.5 H3 5 |
+| O11 | `New York OCFS how old must a child be to be left home alone guidance latchkey` · Firecrawl search | https://ocfs.ny.gov/programs/cps/faq.php (excerpt) | "Some children are responsible, intelligent, and independent enough to be left alone at 12 or 13 years of age." "A child of 12 might be fine alone for two hours in an afternoon." | Researched for an after-school Q; Q removed in de-dup (Putnam owns that intent). Not on page. |
+| O12 | `HIPAA security rule facility access controls 164.310(a)(1) physical safeguards locks` · Firecrawl search | https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.310 | Facility access controls; role-based access validation; maintenance records "(for example, hardware, walls, doors, and locks)". | Researched for a medical-office Q; Q removed in de-dup (Putnam owns that intent). Not on page. |
+| O13 | `Orange County NY warehouse distribution center boom I-84 Route 17K Montgomery Newburgh square feet 2024 OR 2025` · Firecrawl search | https://www.ocpartnership.org/news/details.aspx?id=97f4dd69-cd99-4386-b218-d39a13c46799 ; https://re-nj.com/ridgecut-road-kicks-off-construction-for-146000-sq-ft-logistics-project-in-orange-county/ ; https://www.loopnet.com/Listing/Rte-17k-Newburgh-NY/29957577/ ; https://www.hgar.com/walmart-pursues-plans-for-major-distribution-center-in-orange-county | Ridgecut Road broke ground: I-84 Orange County Logistics Center, 146,075 sq ft, Montgomery. Matrix I-84 Distribution Center, Rte 17K Newburgh, 595,900 SF (listing). HGAR: Walmart seeking Town of Wallkill approval for ~1.5M sq ft DC on ~200 acres near Rte 17K and I-84. (Newburgh South Logistics Center 422,983 sq ft — Facebook excerpt only, not used.) | §8 card, §9 driver-room & dock-keypad Qs (context), Across Orange (Wallkill/Montgomery) |
+| O14 | `City of Newburgh Architectural Review Commission historic district certificate of appropriateness doors East End` · Firecrawl search | https://www.cityofnewburgh-ny.gov/DocumentCenter/View/460/Architectural-Review-Commission-Application-Packet-PDF (excerpt) ; https://www.cityofnewburgh-ny.gov/267/Architectural-Review-Commission | Alterations in Historic or Architectural Design Districts require a COA from the ARC; excerpt lists doors among items. East End Historic District Design Guidelines exist. | §7 card (East End), Across Orange (Newburgh). Not used as a Q (HV hub owns the historic-district-keypad intent). |
+| O15 | `Washington's Headquarters State Historic Site Newburgh Hasbrouck House first publicly owned historic site 1850` · Firecrawl search | https://parks.ny.gov/visit/historic-sites/washingtons-headquarters-state-historic-site ; https://en.wikipedia.org/wiki/Washington%27s_Headquarters_State_Historic_Site | Nation's first publicly owned historic site, opened July 4, 1850; Washington's HQ for more than 16 months; NHL 1961; ~7 acres. | §13 card |
+| O16 | `Storm King Art Center New Windsor Cornwall acres founded 1960 outdoor sculpture` · Firecrawl search | https://stormking.org/about/ ; https://en.wikipedia.org/wiki/Storm_King_Art_Center | 500-acre outdoor museum; since 1960. | §13 card |
+| O17 | `Goshen Historic Track oldest harness racing track National Historic Landmark 1838` · Firecrawl search | https://goshenhistorictrack.com/ ; https://en.wikipedia.org/wiki/Historic_Track | Established 1838; National Historic Landmark; half-mile harness track; 44 Park Place, Goshen. | §13 card |
+| O18 | `Orange County NY town code Knox box required commercial buildings …` · Firecrawl search | (results were New Castle, Islip, West Orange NJ etc.) | No Orange County NY source found → EMPTY; Knox-box content not used. | — |
+| O19 | `manufactured home exterior door thickness 1-1/4 inch smart lock …` · Firecrawl search | (Amazon, YouTube, homeoutlet) | No authoritative source → EMPTY; manufactured-home Q not written. | — |
+| O20 | `reddit hudsonvalley OR OrangeCountyNY smart lock OR keypad lock OR "change the locks" new house Orange County` · Firecrawl search | (Lowe's, Level, Orange CA results) | No local Orange County NY Reddit thread on locks → EMPTY. | — |
+| O21 | reused from research/soundbar-installation.md Orange section (Firecrawl, 2026-10-17; not re-fetched) | usafacts.org (Orange growth); ocpartnership.org (Tuxedo Reserve); newhomesource.com (Ridgebury Estates, Grandview Estates, Palisades Ridge at Woodbury Junction, Blackburne Homes); zillow (Pershing three-story townhome); en.wikipedia.org Port_Jervis_Line (Harriman busiest station; Hoboken); en.wikipedia.org Stewart airport (Towns of Newburgh/New Windsor; 105th Airlift Wing; built 1930s for West Point cadet aviation); en.wikipedia.org East End Historic District (445 acres, 2,217 buildings, NRHP 1985); Woodbury Common (late 1985, 220 stores); LEGOLAND NY (150 acres, May 20 2021, 60 mi NW of NYC); Galleria at Crystal Run (April 1, 1992); orangecountyny.gov Consumer Affairs 255 Main St Goshen; Electrician licence application + 2024 Local Laws (county Electrical Licensing Board); Consumer Law Help Manual – Home Improvements; chroniclenewspaper.com (Town of Goshen STR ban, excerpt) | As logged in that file. | §5, §5.5, §7, §8, §8.5, §13, Across Orange |
+| O22 | silo research (research/smart-lock-installation.md) | Fixr national $250–$400, avg $300 (Jan 2025) | National third-party, labelled. | §10.5 H3 2, §14 |
+| O23 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are published claims, stated as such on page. | — |
+| O24 | Local news on smart locks specifically in Orange County (Times Herald-Record, Mid-Hudson News, Patch) | — | None found → EMPTY. | — |
+| O25 | Field Notes | — | No sourced Orange County install anecdote → written as standing routine and labelled so. | Field Notes |
+
+### Prices used (all from live AESS pages; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $2,100–$3,500 | single-door keypad/card reader + electric strike, installed | live smart-lock-installation-hudson-valley.html Orange row ($1,500–$2,500 × 1.40) |
+| $350–$630 | new electric strike | same HV hub row |
+| $413–$679 | failed electric strike repair | same HV hub row |
+| $250 first hour, then 30-min blocks | setup-only visit, Orange | HV hub; soundbar-installation-orange-county.html; research/tv-mounting-prices/BRIEF.md |
+| $195/hr, 3-hr minimum ($585) | service/callback, never on initial install | blueprint §9 |
+| quoted flat at walkthrough | residential smart lock / closing-day handover | no AESS figure exists |
+**Conflicts for Anwar:** (1) live access-control-installation-orange-county.html: "Single-door lobby fob reader: $1,500 to $2,500 plus the 15% surcharge" (= $1,725–$2,875) and elsewhere "$1,500 to $2,500 installed" flat — vs the HV smart-lock hub's Orange $2,100–$3,500 (×1.40) used here for silo consistency. (2) live door-buzzer-repair-orange-county-new-york.html: "Electric strike replacement + alignment $450–$950" — vs $350–$630 / $413–$679 used here (HV hub). (3) Setup-only $250 rate is published for TV/device setup; used for smart-lock app/code/reset visits (same flag as other smart-lock pages).
+
+## Images (11)
+Permanent image rule (Drive "AESS Website Photos/Smart Lock Installation" empty; CompanyCam not connected). All viewed before use; WebP q80. None of the source photos is used on smart-lock-installation-hudson-valley (perceptual-hash checked). Sources prefer the *orange*-named library files; claims sent to the Putnam/Dutchess builders. Several were also used (as other filename copies) on the NYC/LI hubs. Crops remove faces in clear profile, a "Community Center" wall sign, a named business ("Pinnacle Business Center") and a readable cardholder-name screen. Library photos look AI-rendered (uniform "Abstract Enterprise LLC" shirts with the company's own 800 number) — same flag as earlier pages.
+
+| New filename (images/smart-lock-installation/) | Source file | Crop |
+|---|---|---|
+| smart-lock-installation-orange-county-keypad-strike-push-to-exit.webp (hero, eager) | images/low-voltage/low-voltage-installation-long-island-electric-strike-keypad.jpg | none |
+| smart-lock-installation-orange-county-proximity-reader-glass-door-frame.webp | images/low-voltage/low-voltage-installation-orange-county-12-access-control-reader-wiring.jpg | none |
+| smart-lock-installation-orange-county-ceiling-wifi-access-point-lift.webp | images/low-voltage/low-voltage-installation-orange-county-02-access-point-lift-install.jpg | right 16% removed ("Community Center" sign) |
+| smart-lock-installation-orange-county-maglock-header-glass-entrance.webp | images/low-voltage/low-voltage-installation-orange-county-13-maglock-install.jpg | left 24% removed (shirt/cap phone text) |
+| smart-lock-installation-orange-county-keypad-reader-employee-door-stone.webp | images/commercial-security/commercial-security-systems-orange-access-reader.jpg | left 62% removed (face, business name) |
+| smart-lock-installation-orange-county-keypad-and-camera-entrance-pair.webp | images/commercial-security/commercial-security-systems-orange-alarm-keypad.jpg | centre strip (faces, door signage removed) |
+| smart-lock-installation-orange-county-fob-card-programming-station.webp | images/commercial-security/commercial-security-systems-orange-credential-programming.jpg | left 68% removed (face, cardholder names on monitor) |
+| smart-lock-installation-orange-county-crew-van-unload-equipment.webp | images/commercial-security/commercial-security-systems-orange-crew-van.jpg | none (faces turned away/small) |
+| smart-lock-installation-orange-county-electric-strike-door-frame-prep.webp | images/commercial-security/commercial-security-systems-orange-electric-strike.jpg | left 52% removed (face) |
+| smart-lock-installation-orange-county-employee-entrance-keypad-reader.webp | images/commercial-security/commercial-security-systems-bronx-hero-loading-dock.jpg | left 52% removed (face) |
+| smart-lock-installation-orange-county-video-intercom-keypad-entry-wiring.webp | images/low-voltage/low-voltage-installation-bronx-11-video-intercom-entry-wiring.jpg | none (back view) |
+Rejected after viewing: none other needed. DAILY-LOG note: `images: 11 reused from images/low-voltage/ and images/commercial-security/ (no real smart-lock photos yet)`.
+
+## Question register — smart-lock-installation-orange-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+New houses and the builder's keys
+1. Could the builder's construction keys still open the front door of our new house in Chester or Monroe?
+2. The house is still open framing — is anything worth running to the front door before the drywall goes up?
+3. Will swapping the builder's lock for a smart lock affect our new-home warranty?
+Army households at West Point and Stewart
+4. We live in on-post family housing at West Point — are we allowed to put a smart lock on our quarters?
+5. Our off-post landlord in Cornwall won't allow any drilling — is there still a keyless option?
+6. We'll only be at Stewart or West Point for two or three years — is a smart lock worth buying for such a short stay?
+Selling and renting
+7. We're selling our house in Warwick — should showings go through the realtor's lockbox or a temporary code on our smart lock?
+8. We own a dozen rental houses spread from Port Jervis to Newburgh — can one app run all the locks?
+Businesses
+9. Truck drivers check in at our Montgomery distribution building — how do we let them into the drivers' room without letting them into the warehouse?
+10. Forklifts keep clipping the keypad beside our Wallkill dock door — where should it go instead?
+11. Our Goshen office sees clients by appointment only — can staff let a visitor in from their desk?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. How much more does a wired keypad door cost in Orange County than in the city?
+2. Do your crews go as far as Port Jervis, Greenwood Lake and Highland Falls?
+3. Can you change the locks on closing day, before the moving truck arrives?
+4. Can you schedule around a PCS date or a housing move-out inspection?
+5. Can you work in our new house before it closes, if the builder agrees?
+6. Can the locks be set up before the internet is connected at our new house?
+7. Will we get a written record of what was changed on each door?
+8. Can the outdoor garage-door keypad be reset at the same visit?
+9. Do you install smart locks for buyers relocating from out of state who can't be here for closing?
+
+### Other question-form headings
+- H2 "Keypad Stuck Somewhere Between Newburgh and Port Jervis?" (repair capture)
+- H2 "Closing, Lease or Moving Day on the Calendar?" (mid CTA)
+- H2 "Ready to Know Who Can Still Open Your Door?" (mid CTA)
+- H2 "Door Refusing Codes on Moving Day or at Shift Change?" (final repair capture)
+
+### De-dup notes
+- Removed during build after comparing with the Putnam and Dutchess pages on disk (same batch): after-school "kids off the bus — can the lock tell us they're home" (= Putnam), "parent alone — how does the ambulance crew get in" (= Putnam), medical-office records room/HIPAA (= Putnam), FAQs sliding patio door (= Putnam slider Q), keyed-alike cylinders (= Putnam/Dutchess FAQs), builder-installed lock service (≈ Putnam FAQ), install duration (= Putnam FAQ), new-door bore (≈ Putnam pre-bored doors FAQ).
+- Avoided by design: board/HOA approval (NYC co-op Q), historic-district keypad approval (HV Kingston Q; Newburgh ARC mentioned in body only), short-term rental questions (Manhattan/HV/Dutchess), landlord cutting off a former tenant (NYC Q13; RPAPL 768 used only inside the portfolio Q), admin-holder FAQ (Queens), temporary worker access (Manhattan), garage-to-house door (LI).
+- Partial overlaps for the main run to judge: Q1 construction keys vs Brooklyn Q12 (sponsor-installed condo lock admin takeover) and Queens FAQ 2 (re-key after closing on a resale); Q5 no-drill retrofit vs NYC Q1 (renter installing without asking the landlord — different: landlord has refused drilling); FAQ 3 closing-day scheduling vs Dutchess "walkthrough before student move-out"; FAQ 1/2 cost & coverage geo-specific by design.
+
+
+## Putnam County (smart-lock-installation-putnam-county)
+
+Built 2026-10-17 (batch: Orange / Putnam / Dutchess smart-lock area pages). Area page, up-link /smart-lock-installation-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (845) 640-3835 (800 only in shared header chrome). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless scraped); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+Thesis / lane: Putnam = converted 1930s lake bungalows (thin/hollow doors, moving frames), lake associations and park districts, NYC watershed land between the house and the driveway gate, lightning on long gate runs, bulkhead cellar access for oil/propane/well service, bears trying door handles, commuter households (phone-dies credential fallback), volunteer fire/EMS Knox-box access, antique rim locks on Highland farmhouses, church side doors shared by several groups, community halls rented on weekends; Cold Spring HDRB review and Putnam Ch. 135 registration in body text only.
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| P1 | `Putnam County New York QuickFacts census housing units owner-occupied` · Firecrawl search → Firecrawl scrape (directQuote) | https://www.census.gov/quickfacts/putnamcountynewyork | Pop 99,028 (Jul 1 2025); housing units 38,713 (Jul 1 2025); owner-occupied 83.8% (2020–24); median value $471,300; 65+ 21.3%; mean travel time to work 39.3 min; persons/household 2.68; broadband 94.8%. | §5 para 1, 4, 5; §5.5 bullets 1, 4, 5 |
+| P2 | `Putnam Lake Patterson NY history summer community Smith developed bungalows` · Firecrawl search → Firecrawl scrape | https://www.historicpatterson.org/Exhibits/ExhPutLake.php | Smadbeck brothers (Home Guardian) with McGolrick Realty and the NY Daily Mirror; three communities built beginning 1928: Lake Carmel (Kent), Lake Peekskill (Putnam Valley), Putnam Lake (Patterson), as summer bungalow communities; Putnam Lake: 1,111 acres, ~200-acre lake from dammed Morlock Brook, 11,000 lots mapped, 20'×100' lots sold for $50, room for bungalow + outhouse; deserted after Labor Day. | §5 para 2, §5.5 bullet 2, §7 card, §9 Q1, cottage checklist |
+| P3 | same search (excerpt) | https://www.nytimes.com/2005/06/26/realestate/singing-the-praises-of-country-life.html | Excerpt: smaller Putnam Lake houses "built as summer homes but have since been winterized and now serve residents year-round". | §5 para 2 ("many … year-round") |
+| P4 | same search → Firecrawl scrape | https://www.pattersonny.org/PLPD_2.php | Putnam Lake Park District created after 2011 community petition; facilities reserved for residents owning or renting homes in the district; Warren & Jackson beaches; boats on parkland Mar 1–Dec 1. | §9 Q3 lake association |
+| P5 | `Lake Carmel NY history summer bungalow colony developed 1920s year-round homes` · Firecrawl search | https://www.homes.com/local-guide/lake-carmel-ny/ ; https://www.townofcarmelny.gov/253/About-Our-Town | Excerpts only (dam late 1920s, summer cottages; Mahopac hotels from 1834). Not cited on page (P2 used instead). | research only |
+| P6 | `Knox box residential lock box program fire department Putnam County NY seniors emergency access` · Firecrawl search → Firecrawl scrape | https://www.kentvfd.com/content/knoxbox/ | Kent VFD uses Knox Box for businesses and homes; responding vehicle carries secured key safe unlocked by Putnam County 911 dispatch code only in emergency, access recorded; 2024 incidents 359 (109 fire, 250 EMS); meta: Fahnestock SP 14,086 acres, White Pond MUA 276 acres, Croton watershed, Chuang Yen Monastery, 3.4 mi of Taconic. | §5 para 5, §5.5 bullet 6, §9 Q4 key box, §10.5 H3 3, responder plan, §13 Fahnestock card, Across Putnam (Kent) |
+| P7 | same search (excerpt) | https://www.nhfd21.org/content/knoxbox/ | North Highlands FD: Knox access requested through Putnam County Dispatch Center. | background (corroborates P6) |
+| P8 | `black bear opened door lever handle entered home Putnam County NY` · Firecrawl search | https://www.facebook.com/PCSDSheriff/posts/... (excerpt) | Sheriff post excerpt — agency/county unclear; NOT used. | — |
+| P9 | `NYSDEC black bear tips lock doors lever handles bears entering homes New York` · Firecrawl search → Firecrawl scrape | https://portal.ct.gov/deep/wildlife/bears/the-basics-of-living-with-black-bears | CT DEEP: open/unlocked doors and windows let bears in; lock ground-floor doors/windows; locking screen doors does little; bears open most unlocked car doors. | §9 Q6 bears |
+| P10 | same search (excerpts) | https://www.kunc.org/environment/2013-04-27/6-ways-to-bear-proof-your-home ; https://townofridgway.colorado.gov/sites/g/files/lrnvjt1246/files/bearproofing%20your%20home.pdf | Colorado guidance: replace exterior lever handles with round knobs bears can't push/pull open. | §9 Q6 (as "wildlife agencies in western bear country") |
+| P11 | same search → Firecrawl scrape (query) | https://dec.ny.gov/nature/animals-fish-plants/black-bear/management/bearwise | Query scrape returned no door-specific text → EMPTY for door tips; not cited. | — |
+| P12 | `bear sightings Putnam Valley Mahopac Carmel 2025 police warn residents` · Firecrawl search | https://www.facebook.com/CarmelPoliceNY/posts/our-headquarters-has-been-receiving-calls-for-bear-sightings-in-the-areas-of-dai/1002028455771488/ ; https://www.lohud.com/story/news/2017/05/30/bears-sighted-hudson-valley/356477001/ | Excerpts: Carmel PD warning re bear sightings (Daisy Ln, Dixon Rd); Lohud May 30 2017: bear spotted in Mahopac. | §9 Q6 |
+| P13 | `Village of Cold Spring Historic District Review Board certificate of appropriateness doors exterior changes` · Firecrawl search → Firecrawl scrape | https://www.coldspringny.gov/faq.aspx?TID=19 | COA required for exterior changes in local or national historic district; $30 fee; photos + catalog cuts; five-member HDRB, 2nd Wednesday 8 pm; building permit applications list contractors' Putnam County licence numbers. | §8.5 callouts 3–4, §10.5 H3 7 |
+| P14 | `NYC DEP watershed Putnam County percent of county land reservoirs Croton system …` · Firecrawl search | https://www.nyc.gov/site/dep/water/west-branch-reservoir.page | West Branch Reservoir: Kent & Carmel, 8 billion gallons, in service 1895, two basins separated by Route 301, 20 sq mi basin; connected to Lake Gleneida (controlled lake). | §5 para 3, §5.5 bullet 3 |
+| P15 | same search → Firecrawl scrape (pdf, directQuote) | https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf | Nine municipalities (6 towns, 3 villages), over 240 sq mi; Croton watershed; Croton Falls Reservoir (Carmel & Southeast, 5.2 bn gal, 1891); Boyds Corner (Kent); Kirk Lake controlled lake (Kent); Lake Gleneida off Route 52; most rugged terrain Philipstown, Putnam Valley, western Kent (peaks >1,000 ft); commercial along Routes 6, 9, 22, 52 + I-84 at Route 312 and Ludingtonville Rd; wetlands 6.1% (2011); 2010 pop by town (Carmel 34,305 largest); NYS Police 1672 Route 22 Southeast; fire/EMS list; seven Metro-North stops, busiest Brewster Village, Southeast, Cold Spring, Garrison. | §5 paras 1, 3, 4, 5; §8 intro + corridor cards; Across Putnam |
+| P16 | `Putnam County NY home improvement license consumer affairs` (silo HV run) re-verified · Firecrawl scrape (directQuote) | https://putnamcountyny.gov/laws/item/local-law-no-10-of-2013-amend-chapter-135-code-of-putnam-county-entitled-contractors | "No person shall maintain, conduct, operate or engage in a home improvement business within the County of Putnam … unless such person is registered pursuant to this chapter." Page does NOT claim AESS is registered; tells readers to check. | §8.5 callout 4, §10.5 H3 7 |
+| P17 | `Putnam County Historic Courthouse Carmel built 1814 oldest courthouse New York` · Firecrawl search | https://www.hmdb.org/m.asp?m=37288 ; https://en.wikipedia.org/wiki/Putnam_County_Courthouse_(New_York) | Built 1814, renovated 1847, jail added 1855, one hanging 1844; marker: second oldest working courthouse in NY. | §13 card |
+| P18 | `Tilly Foster Farm Brewster Southeast Putnam County history acres` · Firecrawl search | https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2022/August/minutes/Phys-08-25-22-Presentation-Tilly-Foster-Overview-2022.pdf | ~199 acres in Town of Southeast; dairy, then horse breeding; county purchased 2002. | §13 card, Across Putnam |
+| P19 | `Manitoga Russel Wright Garrison NY house Dragon Rock National Historic Landmark` · Firecrawl search | https://www.visitmanitoga.org/dragon-rock-house-studio | 75-acre woodland garden, NHL; Wright hired architect David Leavitt in 1958 for Dragon Rock. | §13 card |
+| P20 | `West Point Foundry Preserve Cold Spring Scenic Hudson acres history` · Firecrawl search | https://www.scenichudson.org/explore-the-valley/scenic-hudson-parks/west-point-foundry-preserve/ ; https://www.hudsonrivervalley.com/sites/West-Point-Foundry-Preserve-/details | 90 acres; West Point Foundry Archeological Site NHL 2021; Parrott guns in Civil War. | §13 card |
+| P21 | `Chuang Yen Monastery Kent NY Great Buddha Hall statue height founded` · Firecrawl search | https://en.wikipedia.org/wiki/Chuang_Yen_Monastery | Great Buddha Hall houses the largest indoor Buddha statue in the Western Hemisphere. | §13 card, Across Putnam (Kent) |
+| P22 | `Putnam Hospital Carmel NY Stoneleigh Avenue Northwell beds` · Firecrawl search | https://www.northwell.edu/locations/putnam-hospital | Putnam Hospital, 670 Stoneleigh Ave, Carmel — Northwell. (165-bed figure from practicelink not used.) | §8 Stoneleigh card, Across Putnam |
+| P23 | `Highlands Current Philipstown burglary house unlocked doors police advise lock` · Firecrawl search → Firecrawl scrape | https://highlandscurrent.org/2024/09/10/police-investigating-philipstown-burglaries/ | Sept 5 2024 break-ins on Old Albany Post Rd and Indian Brook Rd, Philipstown; Sheriff reminded residents to keep doors/windows locked and not post when away. | §10.5 H3 5 |
+| P24 | `Putnam County sheriff burglary unlocked door house Carmel Mahopac Patterson 2025 2026` · Firecrawl search | putnamsheriff.com; facebook excerpts | No lock-specific item found → EMPTY beyond P23. | — |
+| P25 | `site:reddit.com Putnam County NY smart lock OR keypad OR "lake house" Mahopac OR Carmel OR Brewster` · Firecrawl search | r/hudsonvalley, r/upstate_new_york etc. (excerpts) | No smart-lock-relevant Putnam thread → Reddit EMPTY for the service category. | — |
+| P26 | `smart lock for sliding patio door keypad retrofit manufacturer compatible sliding glass door` · Firecrawl search | https://lockeyusa.com/product/c150/ ; https://www.yalehome.com/ae/en/products/smart-door-locks/code-handles/smart-code-handle | Lockey C150 hook-bolt keyless lock for sliding glass patio doors; Yale Smart Code Handle for terrace doors (UAE site, not cited). | §6 card, §7 card, §10 equipment card (slider Q dropped in de-dup, see register) |
+| P27 | `Bilco basement door security interior slide lock keyed lock kit outside entry` · Firecrawl search | https://www.bilco.com/ProductDetail/Basement-Door-Keyed-Lock-Kit-87 | Keyed lock kit lets Classic Series basement doors be locked/unlocked from outside with a key. | §9 Q5 bulkhead |
+| P28 | `HIPAA security rule facility access controls 164.310(a)(1) physical safeguards hhs.gov` · Firecrawl search | https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-C/section-164.310 | Facility access controls; role-based access control/validation; maintenance records of repairs/modifications to security-related physical components "(for example, hardware, walls, doors, and locks)". | §8.5 callout 5 (records-room Q removed in de-dup) |
+| P29 | silo/other research reused (not re-fetched) | research/smart-lock-installation.md (Allegion door prep 1-3/8"–2", backset 2-3/8/2-3/4; Fixr Jan 2025 $250–$400); research/fiber-optic-installation.md + research/cat6-repair.md (NYC DEP watershed regulations Dec 2019 covering communities in Ulster, Orange, Putnam, Westchester; Central Hudson Dig Safely/811) | as listed | §7.5, §9 Q1/Q8, §10.5, §14 |
+| P30 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are recurring published claims, stated as such on page. | — |
+| P31 | Local news on smart locks specifically in Putnam (Highlands Current, Mahopac News, Patch, Mid-Hudson News, Lohud) | — | None found → EMPTY. | — |
+| P32 | Field Notes | — | No sourced Putnam smart-lock job anecdote → written as general routine and labelled as such. | Field Notes |
+
+### Prices used (all from live AESS pages; none invented)
+- Single-door keypad or fob reader with electric strike $2,175–$3,625; new electric strike $363–$653; failed strike repair $428–$703 — Putnam figures as published on live smart-lock-installation-hudson-valley.html (= silo base × 1.45).
+- Pedestrian gate keypad $1,500–$2,000 — live access-control-installation-putnam-county.html (FAQ text).
+- Setup-only first hour $250, then 30-min blocks — hub page / research/tv-mounting-prices/BRIEF.md line 15.
+- $195/hr, 3-hour minimum ($585) service/callback, verbatim.
+- House/cottage/slider/cellar smart lock: no AESS figure → quoted flat at walkthrough.
+- National comparison only: Fixr $250–$400 (Jan 2025).
+- **Conflicts for Anwar:** access-control-installation-putnam-county.html shows "SINGLE DOOR / GATE $1,900–$6,000" and "Putnam = Brooklyn base + 25% HV surcharge" (vs hub's ×1.45 $2,175–$3,625); door-buzzer-repair-putnam-county-new-york.html shows "Electric strike replacement + alignment $450–$950" and a $250 service call; door-buzzer-installation-putnam-county-ny.html shows a $300 service call. Page uses the smart-lock hub's published Putnam figures.
+
+## Images (11)
+Drive folder empty, CompanyCam not connected → permanent image rule. Each viewed; 9 cropped with Pillow to remove faces, readable phone numbers (800-486-0943 on shirts/caps/lift sign) and a building number ("1000"). Library photos look AI-rendered (garbled logo text) — same note as Queens; needs Anwar's review. No source cluster is used on the Hudson Valley hub; clusters claimed by the Orange and Dutchess builders were avoided. Several clusters are also used on NYC/LI/Manhattan/Queens pages (library has ~80 distinct photos; only ~6 unused, none of them door hardware).
+
+| New filename (images/smart-lock-installation/) | Source file | Crop |
+|---|---|---|
+| smart-lock-installation-putnam-county-gate-fingerprint-keypad-wiring.webp (hero, eager) | images/commercial-security/commercial-security-systems-nyc-gate-reader-install.jpg (also LI) | left 540 px (face removed) |
+| smart-lock-installation-putnam-county-exterior-enclosure-brick-conduit.webp | images/low-voltage/low-voltage-installation-nassau-county-exterior-enclosure-install.jpg (cluster also LI) | x≥700 (face, cap/shirt phone removed) |
+| smart-lock-installation-putnam-county-electric-strike-terminal-wiring.webp | images/low-voltage/low-voltage-installation-putnam-county-12-electric-strike-wiring.jpg (cluster also NYC hub) | x≥400 (partial face removed) |
+| smart-lock-installation-putnam-county-gated-entrance-post-camera.webp | images/commercial-security/commercial-security-systems-putnam-lpr-driveway.jpg (unused cluster) | x≥900 (face, phone, building number removed) |
+| smart-lock-installation-putnam-county-door-controller-boards-power-supply.webp | images/commercial-security/commercial-security-systems-nyc-access-control-panels.jpg (also LI) | x≥650 (face, phone removed) |
+| smart-lock-installation-putnam-county-laptop-network-rack-setup.webp | images/low-voltage/low-voltage-installation-putnam-county-11-rack-switch-config.jpg (cluster also Manhattan) | x≥660 (face, phone removed) |
+| smart-lock-installation-putnam-county-ceiling-wifi-access-point.webp | images/low-voltage/low-voltage-installation-putnam-county-10-access-point-lift-install.jpg (Manhattan used a cropped variant) | x≥570, y≤600 (face, phone, "community center" sign removed) |
+| smart-lock-installation-putnam-county-ceiling-grid-cable-pull.webp | images/low-voltage/low-voltage-installation-putnam-county-09-ceiling-grid-bundle-pull.jpg (cluster also Manhattan) | none (back view, no phone) |
+| smart-lock-installation-putnam-county-jhook-cable-pathway.webp | images/low-voltage/low-voltage-installation-putnam-county-04-jhook-pathway-bundle.jpg (cluster also Manhattan) | none (back view, no phone) |
+| smart-lock-installation-putnam-county-wall-cameras-conduit-block-wall.webp | images/commercial-security/commercial-security-systems-putnam-warehouse-cameras.jpg (cluster also Queens) | x≥930 (face, phone, lift sign removed) |
+| smart-lock-installation-putnam-county-fiber-splicer-patch-rack.webp | images/low-voltage/low-voltage-installation-putnam-county-05-fiber-splice-tray.jpg (unused cluster) | x≥680 (face, shirt phone removed) |
+
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ and images/commercial-security/ (no real smart-lock photos yet)`.
+
+## Question register — smart-lock-installation-putnam-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Lake cottages and lake-side doors
+1. Our Lake Carmel cottage began as a 1930s summer bungalow and its front door is thinner than modern doors — can it take a smart deadbolt at all?
+2. Neighbours on our Putnam Lake street keep spare keys for each other — is a code better than the key under the planter?
+3. Our lake association wants a keypad on the beach gate or clubhouse — how should members' codes be handed out and taken back each season?
+Service visits, emergencies and wildlife
+4. We already have a fire-department key box at our Kent house — what has to change when the front door gets a smart lock?
+5. The oil delivery driver and the well-pump technician both need our basement — can the outside bulkhead door go keyless?
+6. Bears around our Putnam Valley house have learned to try door handles — does a smart lock change anything?
+Commuter households
+7. If my phone dies on the late train home, how do I get into the house?
+Gates, long driveways and the watershed
+8. We want a keypad at the foot of a 600-foot driveway — do reservoir and wetland rules affect running a cable there?
+9. Lightning on our hilltop took out a doorbell last summer — does a wired gate keypad need surge protection?
+Old farmhouses and village houses
+10. Our Garrison farmhouse still has an antique rim lock on the front door — can a smart lock go on without taking it off?
+Churches and community halls
+11. The youth group, the food pantry and an evening meeting all use our Brewster church's side door — can one lock give each group its own nights?
+12. Our community hall in Putnam Valley is rented for parties most weekends — how do renters get in without being handed a key?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. What does a keyless business entrance or gate keypad cost in Putnam County?
+2. Will a smart lock keypad work when we're wearing winter gloves?
+3. Can a smart deadbolt go on a door that swings outward onto a deck or porch?
+4. Will the walkthrough cover the gate, the garage and the outbuildings, or only the house?
+5. We're ordering new exterior doors — should they come pre-bored for a particular smart lock?
+6. Do you cover Philipstown and Putnam Valley as well as Carmel, Brewster and Patterson?
+7. Will a smart lock lower our homeowners insurance premium?
+8. Can the lock's alerts also go to a neighbour or caretaker who checks on the house?
+9. Can a gate keypad go on a post beside the drive instead of on the gate itself?
+
+### Other question-form headings
+- H2 "Smart Lock Dead or Stubborn Somewhere in Putnam County?" (repair capture)
+- H2 "Ready to Lock Up Before the Morning Train?" (mid CTA)
+- H2 "Locked Out of the Cottage, the Mudroom or the Gate?" (final repair capture)
+
+### De-dup notes
+- Replaced after comparing with the concurrently built Orange and Dutchess pages on disk: kids-off-the-school-bus arrival alert (= Orange), parent-falls ambulance access (= Orange; reframed to "key box already installed — what changes"), medical-office records room/HIPAA (= Orange; HIPAA kept only as a §8.5 callout), lake-side slider (≈ Orange FAQ sliding patio door; slider kept only in body/cards), church taking back volunteers' keys (≈ Dutchess caretaker take-back; reframed to group schedules on one door), FAQs keyed-alike (= Orange/Dutchess), builder-installed lock service (= Orange), remove smart lock at sale (= Dutchess), how long one deadbolt takes (= Orange).
+- Avoided hub/LI/NYC intents: STR registry, remote check of closed-up house, outage behaviour, cold/battery, barn range, no internet, historic-district approval for a keypad (Cold Spring HDRB kept as §8.5 body callout), county licensing Q (Ch. 135 kept as body callout), storm door, glass panel/mail slot, garage-to-kitchen door.
+- Partial overlaps for the main run to judge: Q4 key box vs Orange "Mom … ambulance crew get through a locked door?" (different intent: keeping the Knox key valid after a lock change); FAQ 8 alerts to neighbour/caretaker vs Dutchess "Red Hook local contact … what does that person need from the lock?"; FAQ 5 order new doors pre-bored vs Orange "new door only has a knob — can you add the bore?"; FAQ 1 cost and FAQ 6 coverage are geo-specific by design.
+
+## Dutchess County (smart-lock-installation-dutchess-county)
+
+Built 2026-10-17 (batch: Dutchess / Orange / Putnam smart-lock area pages). Area page, up-link /smart-lock-installation-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (845) 640-3835 (800 only in shared header chrome). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+
+Thesis / lane: Dutchess is the county where keys change hands on a calendar — student houses near Marist, Vassar and Bard that turn over every May and August; owner-hosts renting their own homes under town-by-town short-term rental laws (Beacon primary-residence/100-day law, Town of Rhinebeck permit with floor plan of exits and fire-inspector access, Red Hook local contact within 15 air miles); pre-1980 City of Poughkeepsie multi-family houses where drilling a painted door meets the lead rules; historic villages (Rhinebeck overlay, Poughkeepsie HDLPC) and river estates with caretakers whose keys must be handed over; State Police/Sheriff advice on second-floor entry points and keys/fobs left in cars; Beacon Main Street shops with apartments above and Hyde Park/Rhinebeck restaurants with seasonal staff. Statewide RPAPL 768 lockout law (not the NYC Admin Code) governs landlords here.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Firecrawl search `site:reddit.com r/hudsonvalley OR r/Poughkeepsie smart lock OR keypad OR lockbox Airbnb house` → only r/hudsonvalley thread titles (Airbnb saturation; "Couple charged in Airbnb blaze that killed mother, baby in Dutchess…" https://www.reddit.com/r/hudsonvalley/comments/1jfzcj7/…). Thread bodies EMPTY (not accessible in build env); the news story itself was sourced from CBS (D12). Firecrawl search `site:reddit.com Poughkeepsie landlord locks keys tenant OR "smart lock" OR keypad` → generic r/Tenant / r/Landlord threads, none Dutchess-specific → not used. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are claims from cost guides / rental marketing / product pages, stated as such on page. |
+| 6 | Landmarks | L1–L7 |
+| 7 | Use cases / building stock | D1–D8 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | CBS New York (Salt Point fire), Highlands Current (Beacon STR registration), Poughkeepsie Journal (Red Hook STR law, 2021, excerpt), NYS State Police alert, Dutchess Sheriff release. |
+| 10 | Hyperlocal | Highlands Current used; Daily Freeman / Mid-Hudson News smart-lock stories: none found → EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| D1 | `Dutchess County QuickFacts housing units owner-occupied population 2025 census` · Firecrawl search → Firecrawl scrape | https://www.census.gov/quickfacts/dutchesscountynewyork | Pop 300,708 (July 1 2025); housing units 124,843 (July 1 2025); owner-occupied rate 69.2% (2020–2024); median owner-occupied value $400,600; persons 65+ 21.1%; persons per household 2.40; median gross rent $1,582; broadband subscription 93.5%; mean travel time to work 31.2 min. | §5 para 1–2, §5.5 bullets, Across Dutchess |
+| D2 | `City of Poughkeepsie rental registry inspection program landlords` · Firecrawl search → Firecrawl scrape | https://www.dutchessny.gov/Departments/DBCH/Rental-Registry-Program.htm | NYS Public Health Law 1377 rental registry: residential rental property with two or more units in the City of Poughkeepsie with a 12601 zip code, built before 1980 → must register and obtain a lead safety certificate; lead inspection per unit; visual check for deteriorated paint and bare soil, dust wipe sampling. | §5 para 4, §5.5 bullet, §7.5, §9 lead Q, §10.5 H3, landlord checklist |
+| D3 | `EPA RRP rule minor repair 6 square feet interior 20 square feet exterior pre-1978 renovation` · Firecrawl search | https://www.epa.gov/lead/if-project-disturbs-six-square-feet-or-less-interior-surface-or-20-square-feet-or-less (excerpt is the full EPA FAQ text) | Disturbing ≤6 sq ft interior or ≤20 sq ft exterior painted surface is "minor maintenance and repair", not a "renovation" under RRP, provided no prohibited work practice, window replacement or demolition. | §9 lead Q, §7.5, §10.5 H3 |
+| D4 | `City of Beacon short-term rental law registration Airbnb` · Firecrawl search → Firecrawl scrape | https://highlandscurrent.org/2026/02/20/registration-lax-on-short-term-rentals/ | Feb 20 2026: Inside Airbnb counted 133 Beacon units listed July 2025; FOIL files show only 33 registered; 2020 law allows homeowners and tenants to rent up to 30 days at a time, max 100 days/year; must be host's primary residence; accessory dwelling units cannot be rented; 2% occupancy tax from Jan 1 2025. | §5 para 3, §5.5, §9 Beacon Q, FAQ ADU, §10.5 |
+| D5 | same search | https://beaconny.gov/index.php/departments/building-department/ (excerpt) | §223-26.5 Code of the City of Beacon: unlawful to operate a short-term rental without first obtaining a short-term rental permit. | §9 Beacon Q |
+| D6 | `Town of Rhinebeck short-term rental law permit` · Firecrawl search | https://www.rhinebeckny.gov/uploads/3/9/4/4/39447425/ll_2_of_2025_-_short_term_rental_-_dos_filing.pdf ; https://www.rhinebeckny.gov/uploads/3/9/4/4/39447425/str_application_final_2.pdf (excerpts carry the law text) | Town LL 2 of 2025, Ch. 125 Art. XV: STR ≤30 consecutive days; not permitted in condominium apartments; application authorises Code Enforcement Officer and Fire Inspector to inspect; contact person responds within 24 hours; floor plan per level showing bedrooms, windows, exits; CEO inspects within 30 days; Rhinecliff hamlet districts also need Planning Board special use permit; liability certificate naming the Town; permits valid two years. Village of Rhinebeck accepts its own STR permit applications at Village Hall (https://villageofrhinebeck.gov/announcements-public-notices/national-dea-takeback-day-4rjtn-ggmke, excerpt). | §5 para 3, §9 Rhinebeck Q, FAQ inspection timing, §10.5, host checklist |
+| D7 | `Town of Hyde Park short-term rental law OR Red Hook short-term rental law Dutchess 2025` · Firecrawl search | https://ecode360.com/38104626 (excerpt) ; https://www.poughkeepsiejournal.com/story/news/local/2021/12/23/red-hook-airbnb-short-term-rental-rules-approved/9009869002/ (excerpt) | Red Hook Ch. 112: designated local contact if owner not staying within 15 air miles; registered primary residence may be rented once per calendar year (<30 days) without an annual operating permit. PJ Dec 23 2021: Red Hook Town Board unanimously passed STR law; one-bedroom rentals permitted in all districts, limited to 210 days/year. Hyde Park: only aggregator (strprofitmap) → not used. palisadestays.com aggregator → not used. | §5 para 3, §9 Red Hook Q, §10.5 |
+| D8 | `RPAPL 768 unlawful eviction change locks New York statewide 2019 Housing Stability Tenant Protection Act` · Firecrawl search | https://www.nysenate.gov/legislation/laws/RPA/768 (excerpt of statute) ; https://nysba.org/nys-housing-stability-and-tenant-protection-act-of-2019-part-iii-what-lawyers-must-know/ (excerpt) ; https://ag.ny.gov/resources/government-organizations/law-enforcement-guidance/unlawful-evictions (excerpt) | RPAPL 768: unlawful to remove/plug/render inoperable the entrance-door lock or change it without supplying the occupant a key; HSTPA 2019 made unlawful eviction a Class A misdemeanor throughout the state; AG guidance: unlawful evictions are criminal matters. | §5 para 4, §9 late-rent Q, §10.5, landlord checklist |
+| D9 | `Marist College Poughkeepsie Route 9 campus acres students enrollment` · Firecrawl search | https://www.marist.edu/about (excerpt) ; https://en.wikipedia.org/wiki/Marist_University (excerpt) | 6,382 total student population (Marist); main campus 180 acres on the east bank of the Hudson on US 9, Town of Poughkeepsie (Wikipedia). Name now "Marist University". | §5 para 2, §5.5, §13 |
+| D10 | `Marist College off-campus housing students Poughkeepsie houses landlords Fairview neighborhood` · Firecrawl search | https://www.marist.edu/admission/intl/orientation/rental-housing (excerpt) ; https://www.facebook.com/groups/1788836064844398/ (excerpt) | Marist: graduate students must live off campus; apartments in complexes and in private homes throughout Poughkeepsie. FB group excerpt names "Cedar, Sunset/Fairview, or Fulton area" for student housing. | §5 para 2, §9 student Qs, Across Dutchess |
+| D11 | `Bard College students off-campus housing Red Hook Tivoli rentals village` · Firecrawl search | https://www.bard.edu/reslife/offcampus/ (excerpt) | "The majority of off-campus students choose to live close to the College in Red Hook, Tivoli, or Rhinebeck." | §5 para 2, §9 student Q, Across Dutchess |
+| D12 | `couple charged Airbnb fire killed mother baby Dutchess County no working smoke detectors` · Firecrawl search → Firecrawl scrape | https://www.cbsnews.com/newyork/news/airbnb-hosts-charged-manslaughter-dutchess-county-fire/ | (March 2025) Fire Oct 2024 at an Airbnb in Salt Point; investigators allege the hosts falsely claimed a smoke alarm; property lacked a required local permit mandating smoke/CO detectors and extinguishers on each floor; manslaughter charges (allegations). Hosts not named on page. | §10.5 H3 (host safety beyond the lock), host checklist |
+| D13 | `Dutchess County sheriff burglary unlocked doors homes warning residents lock 2025` · Firecrawl search → WebFetch | https://troopers.ny.gov/news/public-safety-alert-targeted-residential-burglaries-hudson-valley-region | Jan 29 2025 State Police alert: targeted residential burglaries in Dutchess, Westchester, Putnam; advice "Ensure all doors and windows are securely locked, including second-floor entry points." (Entry method not stated → not claimed.) Firecrawl scrape query failed; WebFetch used. | §5.5, §9 second-floor Q |
+| D14 | same search → Firecrawl scrape | https://www.dutchessny.gov/Departments/Sheriff/Recent-Thefts-and-Attempted-Burglary-in-North-Eastern-Dutchess.htm | Apr 26 2021: larcenies from vehicles, three vehicle thefts, attempted burglary at a jewelry store on Route 44 in Millerton (fled when alarm sounded), Amenia/Millerton; advice: lock vehicles, never leave valuables or keys/fob inside. | §9 key-in-car Q, Across Dutchess (Harlem Valley) |
+| D15 | `Village of Rhinebeck historic district review board certificate of appropriateness doors exterior alterations` · Firecrawl search → Firecrawl scrape | https://villageofrhinebeck.gov/historic-district | Listed Aug 8 1979; expanded Jan 15 2021; listing gives no automatic protection; Chapter 64 and zoning Art. VIII §120-39 Historic District Overlay (2009, amended June 27 2023): new construction or major exterior additions/modifications get heightened Village Planning Board scrutiny. (Door hardware not mentioned — page says so.) | §7 card, §9 historic-look Q, §13 |
+| D16 | `City of Poughkeepsie historic district and landmarks preservation commission certificate of appropriateness doors hardware` · Firecrawl search → Firecrawl scrape (metadata only) | https://www.cityofpoughkeepsie.gov/320/Historic-District-Landmark-Preservation- | HDLPC reviews plans for exterior construction, alteration or repair, or any change in exterior appearance of landmarks and buildings within historic districts. List of districts not retrieved → not stated. | §9 historic-look Q, §8.5 |
+| D17 | `Locust Grove Samuel Morse…` · Firecrawl search | https://www.lgny.org/ ; https://en.wikipedia.org/wiki/Locust_Grove_(Poughkeepsie,_New_York) (excerpts) | Italianate mansion; 200 acres; carriage house, ice house; bluff over the Hudson; Samuel Morse. | §13 |
+| D18 | `Wilderstein Historic Site Rhinebeck Queen Anne mansion Suckley` · Firecrawl search | https://wilderstein.org/ ; https://wilderstein.org/history/ (excerpts) | Rhinebeck house museum; Italianate home by John Warren Ritch 1852, remodelled/enlarged 1888; Margaret (Daisy) Suckley, FDR's cousin and confidante, died there 1991; "most important example of Victorian architecture" (site's claim). | §13, §7 |
+| D19 | `Innisfree Garden Millbrook acres Walter Beck` · Firecrawl search | https://www.innisfreegarden.org/about (excerpt) | 185-acre garden in Millbrook, developed by Walter and Marion Beck as private home. | §13 |
+| D20 | `Montgomery Place Bard College Annandale-on-Hudson estate acres history` · Firecrawl search | https://www.bard.edu/montgomeryplace/ (excerpt) | 380+ acre historic site between Bard's Annandale and Massena campuses; federal-style mansion, houses, cottages, barns; Livingston family 1805–1986. | §13, §7 estate card |
+| D21 | `Poughkeepsie station northern terminus Hudson Line Metro-North Beacon station commuters` · Firecrawl search | https://en.wikipedia.org/wiki/Hudson_Line_(Metro-North) (excerpt) ; https://www.governor.ny.gov/news/governor-hochul-announces-mta-metro-north-railroad-super-express-trips-between-poughkeepsie (excerpt) | Poughkeepsie station on the Hudson Line (milepost 73.5, opened 1850, Amtrak connections); "super-express" Hudson Line trains between Poughkeepsie and NYC announced by the Governor. | §5 para 5 (commuters), Across Dutchess |
+| D22 | `Culinary Institute of America Hyde Park campus students` · Firecrawl search | https://www.ciachef.edu/cia-new-york/ (excerpt) | Student-run restaurants on the Hyde Park, NY campus. | §8 card, §9 restaurant Q |
+| D23 | `Wassaic station northern terminus Harlem Line Metro-North` · Firecrawl search | https://en.wikipedia.org/wiki/Wassaic_station (excerpt) | Wassaic station, Harlem Line, in the town of Amenia; northern terminal of the line. | Across Dutchess (Harlem Valley) |
+| D24 | `Vassar College students off-campus housing Arlington Poughkeepsie rentals` · Firecrawl search | https://www.forrentuniversity.com/Vassar (excerpt) | Off-campus listings near Vassar include Springside Ave, Arlington NY 12603. | §5 para 2, Across Dutchess (Arlington) |
+| D25 | Rhinebeck street names | https://villageofrhinebeck.gov/historic-district (D15) | Benner House (1 Mill Street), Post Office (6383 Mill Street), Delamater House (6433 Montgomery Street) → "Mill Street and Montgomery Street" used for the village commercial card. | §8 Rhinebeck card |
+
+### Reused from earlier research in this repo (sources reached by earlier runs; not re-fetched)
+| Finding | Source (as logged) | Page section |
+|---|---|---|
+| Dutchess median year built 1971; 18.0% (22,056) of homes built 1939 or earlier | stacker.com counties-oldest-homes-new-york (research/soundbar-installation.md, research/sonos-installation.md) | §5.5, §7 |
+| Walkway Over the Hudson: opened 1888 as rail bridge, 212 ft tall, 1.28 miles, Poughkeepsie–Highland | hudsonrivervalley.com (research/soundbar-installation.md) | §13 |
+| Dia:Beacon: 1929 Nabisco box-printing factory, nearly 300,000 sq ft | diaart.org (research/soundbar-installation.md) | §13, §7 |
+| Beacon Main Street almost a mile long | thebeaconbeaconny.com (research/soundbar-installation.md) | §8 |
+| Vassar: ~1,000 acres, founded 1861, Main Building 1865 by James Renwick Jr. | en.wikipedia.org/wiki/Vassar_College (research/fiber-optic-installation.md) | §13 |
+| IBM Quantum facility 2455 South Road, Town of Poughkeepsie, ~300,000 sq ft, construction start Sept 2026 | thinkdutchess.com IDA project summary (research/fiber-optic-installation.md) | §8 |
+| USDA 2022: Dutchess 620 farms, average 161 acres | nass.usda.gov cp36027.pdf (research/fiber-optic-installation.md) | §5.5 |
+| Times Union June 27 2024: ~10,000 Dutchess Central Hudson outages in a storm | timesunion.com (research/cat6-repair.md) | §9 (power) / connectivity section |
+| Mount Gulian c.1730 Dutch-style barn, Beacon | mountgulian.org (research/sonos-installation.md) | Across Dutchess |
+| Town of Pleasant Valley STR law, ENB June 11 2025 | dec.ny.gov (silo HV section) | §10.5 |
+| NYS STR registry, Chapter 99 of Laws of 2025 | nysac.org (silo HV section) | §9 Rhinebeck Q |
+| August Connect 10–15 ft; Schlage Encode 4 AA / "up to six months"; Fixr national $250–$400 (Jan 2025) | silo S1/S4, HV section | §10, §14, connectivity |
+| parking-lot-camera-installation-dutchess-county-research-matrix.md (Route 9/Taconic/I-84/Route 44 corridors, town list) | in repo; that matrix carries no URLs → corridor names only, no figures | §8, Across Dutchess |
+
+### Prices used (all from the live HV hub page smart-lock-installation-hudson-valley.html, Dutchess row; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $2,295–$3,825 | single-door keypad or fob reader with electric strike (Dutchess) | HV hub table/FAQ ($1,500–$2,500 × 1.53) |
+| $383–$689 | new electric strike | HV hub table ($250–$450 × 1.53) |
+| $451–$742 | failed electric strike repair | HV hub table ($295–$485 × 1.53) |
+| $275 first hour, then 30-min blocks | setup-only visit, Dutchess | HV hub table; research/tv-mounting-prices/BRIEF.md line 15 |
+| $195/hr, 3-hr minimum ($585) | service/callback, not on initial install | blueprint v2.3 §9 (verbatim) |
+| quoted flat at walkthrough | residential smart lock | no AESS figure |
+| $250–$400 (Fixr, Jan 2025) | national third-party, labelled | silo S1 |
+**Conflicts for Anwar:** (1) live access-control-installation-dutchess-county.html prices the same single-door scope as "$1,500 to $2,500 plus the 25% surcharge" ("Dutchess County = Brooklyn base + 25% HV surcharge") and its card shows "SINGLE DOOR / GATE $1,900 – $6,000" — this page follows the smart-lock HV hub's §9 1.53× Dutchess figures ($2,295–$3,825) so the silo stays internally consistent. (2) door-buzzer-repair-dutchess-county-new-york.html, network-cable-repair-dutchess-county.html and intercom-installation-dutchess-county-ny.html use a $250 service-call model (door-buzzer-installation-dutchess-county-ny.html: $300), and the buzzer-repair page prices "Electric strike replacement + alignment $450 – $950" — this page follows the HV hub ($195/hr 3-hr minimum callback; strike $383–$689 / repair $451–$742) and does not mention the $250 service call. (3) Setup-only $275 is published for TV/device setup (same flag as LI/Brooklyn/Queens). (4) Travel: FAQ says Dutchess travel is built into the quote, per door-buzzer-installation-dutchess-county-ny.html comparison table ("Travel built into quote — Yes").
+
+### EMPTY (not accessible in build env)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG, Yelp 1–3★.
+- Reddit thread bodies (r/hudsonvalley, r/Poughkeepsie): titles/excerpts only.
+- Daily Freeman / Mid-Hudson News / Poughkeepsie Journal smart-lock stories: none found.
+- City of Poughkeepsie historic district list; Hyde Park STR law (only aggregators); Dutchess county-level home-improvement licence (as on HV hub).
+- Field Notes: no sourced Dutchess install anecdote → written as general working practice and labelled so.
+
+## Images (11)
+
+Permanent image rule (Drive "AESS Website Photos/Smart Lock Installation" empty, CompanyCam not connected). Library = 71 distinct photos by perceptual hash; all door-hardware clusters were already used by the six live smart-lock pages, so these 11 reuse clusters used on the NYC hub / Manhattan / Brooklyn / Queens / LI pages — **none used on the Hudson Valley hub**, and none of the clusters claimed by the Orange County builder (claims exchanged by message with the Orange and Putnam builders). Every source was viewed; 9 were cropped (Pillow) to remove technicians' faces, shirt phone numbers and a readable checklist; 1 was cropped to remove a "RECEPTION" sign. Note for Anwar: like the Queens builder, the library photos look AI-rendered; real smart-lock photos should replace them.
+
+| New filename (images/smart-lock-installation/) | Source file | Crop |
+|---|---|---|
+| smart-lock-installation-dutchess-county-push-to-exit-beside-keypad-reader.webp (hero) | images/commercial-security/commercial-security-systems-nyc-rex-exit-button.jpg | left 54% removed (face, shirt phone) |
+| smart-lock-installation-dutchess-county-wave-to-exit-sensor-door-header.webp | images/commercial-security/commercial-security-systems-nyc-request-to-exit-sensor.jpg | left 47% removed |
+| smart-lock-installation-dutchess-county-door-contact-glass-door-frame.webp | images/commercial-security/commercial-security-systems-nyc-door-contact-install.jpg | left 45% removed |
+| smart-lock-installation-dutchess-county-three-door-controller-card-readers.webp | images/commercial-security/commercial-security-systems-nyc-door-controller-enclosure.jpg | left 43% removed (face, checklist with phone) |
+| smart-lock-installation-dutchess-county-maglock-armature-glass-door.webp | images/commercial-security/commercial-security-systems-manhattan-maglock.jpg | left 43% removed |
+| smart-lock-installation-dutchess-county-desk-release-button-mounting.webp | images/commercial-security/commercial-security-systems-dutchess-glass-break.jpg | left 46%, top 18% removed |
+| smart-lock-installation-dutchess-county-patch-rack-gloved-termination.webp | images/commercial-security/commercial-security-systems-dutchess-integration-rack.jpg | left 47% removed |
+| smart-lock-installation-dutchess-county-tone-probe-wall-box-trace.webp | images/low-voltage/low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg | left 50% removed |
+| smart-lock-installation-dutchess-county-poe-switch-rack-recorder.webp | images/commercial-security/commercial-security-systems-dutchess-nvr-poe-rack.jpg | left 47% removed |
+| smart-lock-installation-dutchess-county-crew-ceiling-cable-pull.webp | images/low-voltage/low-voltage-installation-dutchess-county-03-crew-cable-pull.jpg | none (crew seen from behind/far) |
+| smart-lock-installation-dutchess-county-wall-plate-cable-certification.webp | images/low-voltage/low-voltage-installation-dutchess-county-02-fluke-certification-pass.jpg | left 52% removed |
+
+Rejected after viewing: commercial-security-systems-dutchess-lpr-lot.jpg (building number "1000" on facade, face). DAILY-LOG note: `images: 11 reused from images/low-voltage/ and images/commercial-security/ (no real smart-lock photos yet)`.
+
+## Question register — smart-lock-installation-dutchess-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Student houses near Marist, Vassar and Bard
+1. We let a house near Marist to a new group of students every August — how do we wipe every old code between May move-out and move-in?
+2. Can each student in a shared Poughkeepsie rental have a keypad lock on their own bedroom door?
+3. A student tenant in our Arlington house is behind on rent — can we switch off their code?
+Hosting under Dutchess town rules
+4. Beacon only lets us host in the home we actually live in — how do we give guests the house and still lock away our own things?
+5. Rhinebeck's short-term rental application asks for a floor plan showing every exit — should the lock plan follow it?
+6. Red Hook wants a local contact within 15 air miles when we're away — what does that person need from the lock?
+Older houses, estates and historic villages
+7. Our Poughkeepsie two-family was built before 1980 — does drilling the door for a smart lock raise a lead-paint problem?
+8. Which smart locks look right on a Victorian or Federal-style front door in Rhinebeck or Poughkeepsie's historic districts?
+9. The caretaker who has looked after our river estate for years is leaving — how do we take back every key, code and app login?
+Break-ins and habits the police warn about
+10. The State Police told Dutchess residents to lock second-floor entry points too — does an upstairs deck or balcony door need a smart lock?
+11. Should we stop keeping a house key or garage remote in the car parked in our Millbrook or Amenia driveway?
+Shops and restaurants
+12. Our shop on Beacon's Main Street shares a back stair with the apartment upstairs — how do we keep shop codes off the tenant's door?
+13. Our Hyde Park restaurant hires culinary students for the season — how should kitchen-door codes work when they leave in the fall?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. What does a keypad with an electric strike cost on a Dutchess County shop or building door?
+2. Do you come out to Pine Plains, Millerton and the Harlem Valley, or only along Route 9?
+3. Can you do the walkthrough before our student tenants move out in May?
+4. Can the locks go in the week before our Rhinebeck short-term rental inspection?
+5. Can the smart locks take the same key as the rest of our Poughkeepsie building?
+6. Is there a separate travel charge for the far north and east of the county?
+7. Can you come in the evening, after we get home on the train from the city?
+8. If our buyer doesn't want the smart lock, can you put a plain deadbolt back before closing?
+9. Can the accessory apartment behind our Beacon house get its own keypad for a year-round tenant?
+
+### Other question-form headings
+- H2 "Smart Lock Dead at a Dutchess Rental, House or Shop?" (repair capture)
+- H2 "Ready to Take Back Control of Every Key?" (mid CTA)
+- H2 "Locked Out Somewhere Between Beacon and Millerton Tonight?" (final repair capture)
+
+Batch-sibling check (Orange/Putnam pages on disk at 07:40): no exact or meaning duplicates found; closest = Putnam FAQ "Can the lock's alerts also go to a neighbour or caretaker who checks on the house?" vs this page's Q6 (Red Hook local contact's own credential) — different intent (alerts vs access), left for the main run to judge.
+
+De-dup notes: compared by meaning against the NYC/LI/HV/Manhattan/Brooklyn/Queens registers and the six live pages. Deliberately avoided: HV "historic-district approval for a keypad in Kingston" (here the Q is which lock style suits the door, approval mentioned only in body); HV "cleaner's code opens cottage not barn" (here: retiring caretaker handover); HV "why Dutchess costs more than Westchester" (no pricing Q in §9); NYC "cut off a former tenant's code without breaking the lockout law" (here: current tenant behind on rent, statewide RPAPL 768); Brooklyn "can I see when my tenant comes and goes"; Manhattan "doorman/dog walker/cleaner"; Queens "who holds the admin account" and "front-yard gate keypad"; LI "storm door", "garage door to kitchen". Partial overlaps for the main run to judge: Q1 (annual student turnover reset) vs HV FAQ 9 (STR checkout-to-check-in service) and NYC Q4 (renter moving out); Q8 (lock style on historic doors) vs Queens FAQ 10 (match finish); FAQ 1 cost (geo-specific by design); FAQ 8 (restore plain deadbolt for sale) vs LI FAQ 10 (codes/app when selling).

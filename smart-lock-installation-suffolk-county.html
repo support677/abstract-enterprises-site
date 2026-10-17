@@ -132,7 +132,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
    MEGA-NAV v1.0 — Abstract Enterprises Security Systems
    Self-contained. Overrides all page template nav styles.
    ═══════════════════════════════════════════════════════════════ */
-
 /* ── Reset: kill any inherited nav styles from any template ── */
 .mn-wrap, .mn-wrap *, .mn-wrap *::before, .mn-wrap *::after {
   box-sizing: border-box;
@@ -141,7 +140,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 }
 .mn-wrap a { text-decoration: none; color: inherit; }
 .mn-wrap ul, .mn-wrap li { list-style: none; }
-
 /* ── Variables ── */
 :root {
   --mn-font: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
@@ -159,7 +157,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   --mn-mega-max-w: 1120px;
   --mn-z: 99999;
 }
-
 /* ── Sticky wrapper ── */
 .mn-wrap {
   position: fixed;
@@ -172,13 +169,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   font-family: var(--mn-font);
   height: var(--mn-height);
 }
-
 /* ── Spacer (pushes page content down) ── */
 .mn-spacer {
   height: var(--mn-height);
   display: block;
 }
-
 /* ── Inner bar ── */
 .mn-bar {
   max-width: 1320px;
@@ -190,14 +185,12 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   padding: 0 24px;
   gap: 16px;
 }
-
 /* ── Logo ── */
 .mn-logo img {
   height: 42px;
   width: auto;
   display: block;
 }
-
 /* ── Desktop nav links ── */
 .mn-links {
   display: flex;
@@ -205,14 +198,12 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   gap: 0;
   height: 100%;
 }
-
 .mn-link-item {
   position: relative;
   height: 100%;
   display: flex;
   align-items: center;
 }
-
 .mn-link-item > a,
 .mn-link-item > button {
   display: flex;
@@ -231,13 +222,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   transition: color 0.15s;
   white-space: nowrap;
 }
-
 .mn-link-item > a:hover,
 .mn-link-item > button:hover,
 .mn-link-item.mn-open > button {
   color: var(--mn-red);
 }
-
 /* Chevron */
 .mn-chev {
   width: 10px; height: 10px;
@@ -246,7 +235,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-link-item.mn-open .mn-chev {
   transform: rotate(180deg);
 }
-
 /* ── Mega panel (shared) ── */
 .mn-mega {
   position: absolute;
@@ -265,23 +253,19 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   transition: opacity 0.18s, visibility 0.18s;
   z-index: calc(var(--mn-z) + 1);
 }
-
 .mn-link-item.mn-open .mn-mega {
   opacity: 1;
   visibility: visible;
   pointer-events: auto;
 }
-
 /* ── Services mega (split layout) ── */
 .mn-mega--services {
   width: 680px;
   left: 50%;
 }
-
 .mn-mega--areas {
   width: 620px;
 }
-
 .mn-mega-split {
   display: flex;
   gap: 0;
@@ -312,7 +296,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   -webkit-column-span: all;
   margin-bottom: 8px;
 }
-
 .mn-svc-trigger,
 .mn-area-trigger,
 .mn-price-trigger {
@@ -336,7 +319,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   color: var(--mn-red);
   border-right-color: var(--mn-red);
 }
-
 .mn-mega-right a {
   display: block;
   font-size: 13.5px;
@@ -350,13 +332,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: var(--mn-hover-bg);
   color: var(--mn-red);
 }
-
 .mn-area-group {
   font-size: 9px !important;
   margin-top: 8px;
   padding-bottom: 2px;
 }
-
 .mn-mega-col-head {
   font-size: 10.5px;
   font-weight: 800;
@@ -366,7 +346,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   padding-bottom: 6px;
   margin-bottom: 4px;
 }
-
 .mn-mega-cta {
   margin-top: 12px;
   padding-top: 12px;
@@ -389,7 +368,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   margin-top: 4px;
   padding: 6px 8px;
 }
-
 /* ── Pricing/Tools mega ── */
 .mn-mega--tools {
   width: 680px;
@@ -399,7 +377,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   grid-template-columns: 1fr 1fr;
   gap: 0 28px;
 }
-
 /* ── Company mega ── */
 .mn-mega--company {
   width: 320px;
@@ -417,7 +394,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: var(--mn-hover-bg);
   color: var(--mn-red);
 }
-
 /* ── Right side CTA button ── */
 .mn-cta-wrap {
   display: flex;
@@ -425,7 +401,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   gap: 12px;
   flex-shrink: 0;
 }
-
 .mn-cta-phone {
   font-size: 14px;
   font-weight: 700;
@@ -436,7 +411,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-cta-phone:hover {
   color: var(--mn-red);
 }
-
 .mn-cta-btn {
   display: inline-flex;
   align-items: center;
@@ -454,7 +428,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: var(--mn-red-hover);
   transform: translateY(-1px);
 }
-
 /* ── Hamburger (mobile) ── */
 .mn-hamburger {
   display: none;
@@ -479,7 +452,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-hamburger.mn-active span:nth-child(1) { top: 17px; transform: rotate(45deg); }
 .mn-hamburger.mn-active span:nth-child(2) { opacity: 0; }
 .mn-hamburger.mn-active span:nth-child(3) { top: 17px; transform: rotate(-45deg); }
-
 /* ── Mobile drawer ── */
 .mn-mobile {
   display: none;
@@ -495,11 +467,9 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-mobile.mn-active {
   display: block;
 }
-
 .mn-mobile-section {
   border-bottom: 1px solid var(--mn-border);
 }
-
 .mn-mobile-toggle {
   display: flex;
   align-items: center;
@@ -522,7 +492,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-mobile-section.mn-open .mn-mobile-toggle .mn-chev-m {
   transform: rotate(180deg);
 }
-
 .mn-mobile-panel {
   display: none;
   padding: 0 24px 16px;
@@ -530,7 +499,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 .mn-mobile-section.mn-open .mn-mobile-panel {
   display: block;
 }
-
 .mn-mobile-col-head {
   font-size: 10px;
   font-weight: 800;
@@ -541,7 +509,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   border-bottom: 1px solid var(--mn-border);
   margin-bottom: 2px;
 }
-
 .mn-mobile-panel a {
   display: block;
   font-size: 14px;
@@ -554,7 +521,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: var(--mn-hover-bg);
   color: var(--mn-red);
 }
-
 .mn-mobile-link {
   display: block;
   padding: 16px 24px;
@@ -563,7 +529,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   color: var(--mn-text);
   border-bottom: 1px solid var(--mn-border);
 }
-
 .mn-mobile-cta {
   display: block;
   margin: 16px 24px 8px;
@@ -575,7 +540,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   padding: 14px;
   border-radius: 10px;
 }
-
 .mn-mobile-phone {
   display: block;
   text-align: center;
@@ -584,7 +548,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   color: var(--mn-text);
   padding: 12px;
 }
-
 /* ── Mobile funnel steps ── */
 .mnm-step { display: none; padding: 8px 0 100px; }
 .mnm-step.mnm-active { display: block; }
@@ -689,39 +652,33 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   text-decoration: none;
 }
 .mnm-area-link:active { background: var(--mn-hover-bg); color: var(--mn-red); }
-
 /* ═══ RESPONSIVE ═══ */
 @media (max-width: 1100px) {
   .mn-link-item > a, .mn-link-item > button { padding: 0 10px; font-size: 13.5px; }
   .mn-mega--services { width: 720px; }
   .mn-mega--areas { width: 560px; }
 }
-
 @media (max-width: 960px) {
   .mn-links, .mn-cta-phone { display: none !important; }
   .mn-hamburger { display: block; }
   .mn-cta-btn { font-size: 12.5px; padding: 9px 14px; }
   .mn-bar { padding: 0 16px; }
 }
-
 @media (max-width: 480px) {
   :root { --mn-height: 64px; }
   .mn-logo img { height: 36px; }
   .mn-cta-btn { padding: 8px 12px; font-size: 12px; }
 }
-
 /* ═══ EMERGENCY DRAWER FIX — Hide mnm-drawer/overlay by default on all screens ═══
    Bug: legacy .mnm-drawer and .mnm-overlay elements had no CSS rules,
    so they rendered visible on every page load, covering hero sections.
    Fix: hide by default, show only when .mnm-active class is added via hamburger. */
-
 .mnm-drawer,
 .mnm-overlay,
 #mnmDrawer,
 #mnmOverlay {
   display: none !important;
 }
-
 .mnm-drawer.mnm-active {
   display: block !important;
   position: fixed;
@@ -736,7 +693,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   padding: 20px 0 100px;
   box-shadow: -10px 0 40px rgba(0,0,0,0.2);
 }
-
 .mnm-overlay.mnm-active {
   display: block !important;
   position: fixed;
@@ -744,7 +700,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: rgba(0,0,0,0.5);
   z-index: 9998;
 }
-
 /* Never show mobile drawer on desktop, even if something accidentally adds .mnm-active */
 @media (min-width: 961px) {
   .mnm-drawer,
@@ -756,8 +711,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     display: none !important;
   }
 }
-
-
 /* === REPAIR TAB — RED ACCENT (industry-best-practice urgency signaling) === */
 .mn-link-item[data-mega="repair"] > button {
   position: relative;
@@ -806,7 +759,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   background: linear-gradient(135deg, #b91c1c, #991b1b);
   color: #fff !important;
 }
-
 </style>
 <style>
 /* page-scoped additions — inherit template palette */
@@ -851,11 +803,9 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </head>
 <body>
 <!-- ═══ MEGA-NAV START ═══ -->
-
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-
 <div class="mn-spacer"></div>
 <nav class="mn-wrap" role="navigation" aria-label="Main navigation">
   <div class="mn-bar">
@@ -1085,7 +1035,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
   <a href="/free-quote" class="mn-mobile-cta">Get a Free Quote</a>
     <a href="tel:+18004860943" class="mn-mobile-phone">(800) 486-0943</a>
   </div>
-
   <!-- STEP 1A: Service list -->
   <div class="mnm-step" id="mnmServices">
     <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
@@ -1109,7 +1058,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🎶 AV Sound<span class="mnm-badge">Quote</span></a>
     <a href="/free-quote" class="mnm-svc-btn mnm-svc-soon">🔑 Access Control<span class="mnm-badge">Quote</span></a>
   </div>
-
   <!-- STEP 2A: Area picker (after service picked) -->
   <div class="mnm-step" id="mnmServiceAreas">
     <button class="mnm-back" onclick="mnmShowStep('mnmServices')">← Back</button>
@@ -1117,7 +1065,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <div class="mnm-picked" id="mnmPickedSvc"></div>
         <div id="mnmSvcAreaList"></div>
   </div>
-
   <!-- STEP 1B: Area list -->
   <div class="mnm-step" id="mnmAreas">
     <button class="mnm-back" onclick="mnmShowStep('mnmHome')">← Back</button>
@@ -1140,7 +1087,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <button class="mnm-svc-btn" onclick="mnmPickArea('dutchess')">Dutchess<span class="mnm-path-arrow">›</span></button>
     <button class="mnm-svc-btn" onclick="mnmPickArea('ulster')">Ulster<span class="mnm-path-arrow">›</span></button>
   </div>
-
   <!-- STEP 2B: Services in that area -->
   <div class="mnm-step" id="mnmAreaServices">
     <button class="mnm-back" onclick="mnmShowStep('mnmAreas')">← Back</button>
@@ -1148,7 +1094,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
     <div class="mnm-picked" id="mnmPickedArea"></div>
     <div id="mnmAreaSvcList"></div>
   </div>
-
   <!-- PRICING -->
   <div class="mnm-step" id="mnmPricing">
     <button class="mnm-back" onclick="mnmShowStep('mnmHome')">&larr; Back</button>
@@ -1233,7 +1178,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 <div class="stats rv" style="transition-delay:.3s"><div class="st"><div class="stn">25+</div><div class="stl">Years Experience</div></div><div class="st"><div class="stn">&#x2713;</div><div class="stl">Same-Day Estimates</div></div><div class="st"><div class="stn">100%</div><div class="stl">Licensed &amp; Insured</div></div><div class="st"><div class="stn">4.7&#x2605;</div><div class="stl">201 Google Reviews</div></div></div>
 </div></section>
-
 <section class="sg" style="padding:46px 0"><div class="cx" style="max-width:900px">
 <div class="rv" style="display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between">
 <div><p class="bt" style="margin:0"><strong>Got a door in Suffolk that should open with a code, or one that has stopped doing it?</strong> Our Suffolk line is <a href="tel:+16314072884" class="lnk">(631) 407-2884</a>, and the 60-second form reaches the same desk. A licensed installer reads every request and, before anyone drives out, tells you whether the door, the town's rules and the setting around it suit a smart lock at all.</p>
@@ -1241,7 +1185,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="br"><a href="tel:+16314072884" class="bp">Call Now</a><a href="#quick-form" class="bo">Quote in 60 sec</a></div>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">The Neighborhood</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Why Suffolk County Properties Need Smart Lock Installation Matched to Town and Shoreline</h2></div>
@@ -1264,13 +1207,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-gate-barrier-camera-install.webp" alt="Technician on a stepladder tightening a camera bracket on a black steel gate post beside a red-and-white barrier arm and a private property sign, entry control work in Suffolk County" title="Gate post camera and barrier arm &mdash; Suffolk County entry control" width="1142" height="1122" loading="lazy" decoding="async"><figcaption>A technician in gloves stands on an orange stepladder and tightens the bracket of a white camera on a black steel gate post, with a red-and-white barrier arm, a &ldquo;Private Property &mdash; Authorized Vehicles Only&rdquo; sign and a low office building behind.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg" style="padding:60px 0"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Repair Capture</span></div></div>
 <div class="rv"><h2>Smart Lock Dead or Drifting Somewhere in Suffolk?</h2></div>
 <div class="rv"><p class="bt">A keypad that stopped lighting after a salty nor'easter, a deadbolt that no longer lines up because a raised house is still settling onto its new piers, a lock that dropped off the network when the router was swapped, a cellar-door keypad that took on water, or a shop lock that the morning shift can't open &mdash; we book those as service calls into the next open 2-hour window, and most power, pairing and alignment faults are cleared in one to two hours once a technician is at the door. If the trouble is an electric strike on a building entrance that hums but won't release, that repair runs $354&ndash;$582 at our Suffolk rate. Ring <a href="tel:+16314072884" class="lnk">(631) 407-2884</a> and say it's a smart lock fault, or see our <a href="/door-buzzer-repair-suffolk-county-new-york" class="lnk">door buzzer repair in Suffolk County</a> for lobby buzzers and strikes.</p></div>
 </div></section>
-
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">What We Install</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation Services in Suffolk County</h2></div>
@@ -1290,7 +1231,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-reader-mounting-door-frame.webp" alt="Technician in a cap and safety glasses screwing a black proximity reader onto a grey door frame beside a glass door, keyless entry reader installation in Suffolk County" title="Proximity reader going onto a door frame &mdash; Suffolk County keyless entry" width="1050" height="1400" loading="lazy" decoding="async"><figcaption>A technician in a navy &ldquo;Low Voltage Division&rdquo; shirt and black cap holds a slim black proximity reader against a grey door frame and drives its fixing screw, the handle of a dark glass door at his side.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Building Specialists</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation for Suffolk County's Architecture</h2></div>
@@ -1316,7 +1256,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-keypad-intercom-granite-entrance.webp" alt="Technician kneeling at a dark granite pier to fasten a stainless keypad and video intercom panel beside a glass entrance door in Suffolk County" title="Stainless keypad intercom on a granite pier &mdash; Suffolk County entrance" width="1152" height="1122" loading="lazy" decoding="async"><figcaption>A technician in a navy AESS polo kneels beside a glass entrance and tightens the bottom screw of a stainless keypad panel with a camera, speaker grille and small &ldquo;Welcome&rdquo; screen, set into dark granite cladding.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Commercial Smart Locks</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Business Smart Lock Installation in Suffolk County</h2></div>
@@ -1344,67 +1283,55 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-loading-dock-door-contact-keypad.webp" alt="Four-panel view of a loading dock install with a technician mounting a camera, fitting a door contact and wiring a keypad by a steel door, Suffolk County industrial keyless entry" title="Loading dock door contact and keypad &mdash; Suffolk County industrial doors" width="1536" height="1024" loading="lazy" decoding="async"><figcaption>A four-panel composite: a technician on a ladder drills a camera mount beside a &ldquo;Loading Dock 3&rdquo; roll-up door, then fits a door contact to a steel frame, wires a keypad next to an &ldquo;Employees and Deliveries Only&rdquo; sign, and the finished dock with its camera, keypad and steel man door.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Your Questions Answered</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation in Suffolk County: Questions Answered</h2></div>
 <div class="rv" style="transition-delay:.1s">
 <p class="bt">These are the questions Suffolk owners, landlords, practice managers and building operators ask before a smart lock goes on a door, grouped by the situation behind them: town rental rules and second units, flood zones and barrier beaches, backyards and cellars, and commercial doors. Price, scheduling and door-type questions are in the FAQ near the end of the page. Where a law, code or program is mentioned we name it so you can read it yourself; none of this is legal advice.</p>
-
 <h2 style="font-size:1.45rem;margin-top:36px">Town rental rules and second units</h2>
 <h3 class="pg-h3">Our Islip rental permit is up for renewal &mdash; will the town look at the lock on the tenant's door?</h3>
 <p class="bt">Not directly, going by the town's own paperwork. The Town of Islip's rental occupancy permit application for one- and two-family dwellings asks the owner to swear to a short list of things: that there are no outstanding violations on the property, that the unit won't be used as a transient rental, that smoke alarms are installed outside and inside every sleeping area and on every storey including basements, and that carbon monoxide alarms are in place where the code requires them. Door hardware isn't on that list. A permit can also be suspended if any federal, state or town violation is issued later, which is the part that should make an owner think about the lock.</p>
 <p class="bt">The standard the lock has to meet comes from the property maintenance code. The model version New York's code is built on says that where a door into a rented dwelling unit has a deadbolt, the deadbolt must open from the side people leave by without keys, special knowledge or effort, must throw at least an inch, must be installed to the maker's instructions and must be kept in working order &mdash; and it says a sliding bolt doesn't count. A keypad deadbolt with a plain thumb-turn inside and a full one-inch bolt meets that comfortably. A double-cylinder deadbolt, a lock that needs a code to leave, or a cheap retrofit whose bolt throws short does not.</p>
 <p class="bt">So before a renewal we check three things on every rented door: the inside turn, the bolt throw, and the strike, because a bolt that only half-enters a loose strike is a lock in name only. Then we set the codes up so the tenant has their own, the owner can retire a former tenant's code the day a lease ends, and the tenant keeps a working key. If you rent in Babylon, Brookhaven, Huntington or another town, its permit form will differ in detail; send it to us with your request and we will read it with you.</p>
-
 <h3 class="pg-h3">We are licensing an accessory apartment in Brookhaven &mdash; how should its entrance be locked compared with ours?</h3>
 <p class="bt">As a separate home with its own front door, because that is what it is. The Town of Brookhaven's code ties an accessory apartment to owner occupancy &mdash; the owner has to live in the house, in either the main unit or the apartment &mdash; and requires a provisional accessory apartment licence before anyone moves in. That means two households under one roof, each entitled to a door that the other can't simply open, and an owner who is both neighbour and landlord.</p>
 <p class="bt">In practice we give the apartment's entrance its own lock with its own administrator account, held by the tenant, rather than adding it as one more door in the owner's app. The owner keeps a mechanical key for the access the lease allows, kept somewhere sensible rather than on a hook by the kitchen door. If the apartment and the main house share an interior door &mdash; a basement stair, a door off a shared laundry &mdash; that door is locked from both sides with ordinary keyed hardware or a privacy set, never with a code only one household knows, and it must still open from the apartment side if it is part of the tenant's way out.</p>
 <p class="bt">Two details save arguments later. Keep the tenant's entrance on a separate Wi-Fi network or at least a separate app account, so a change to the owner's router doesn't knock the tenant's lock offline. And put the arrangement in the lease: which doors the tenant controls, how the owner gets in for repairs, and what happens to the tenant's codes on move-out. The lock then enforces an agreement both sides have already signed.</p>
-
 <h2 style="font-size:1.45rem;margin-top:36px">Flood zones, barrier beaches and islands</h2>
 <h3 class="pg-h3">Our Lindenhurst house was lifted after Sandy &mdash; can the door into the space under it have a smart lock?</h3>
 <p class="bt">It can have a lock; it shouldn't have electronics that depend on staying dry. FEMA's technical bulletins describe the flood-insurance rule that an enclosure below an elevated building may be used only for parking vehicles, getting into the building and storage, with flood openings so water can pass through rather than push the walls in. FEMA's guidance on building utility systems expects electrical components below the required elevation to be designed to resist flood loads or be moved above it. A powered smart lock and its bridge, sitting at grade on the South Shore, are exactly the kind of thing that guidance is about.</p>
 <p class="bt">Our usual answer is a strong mechanical deadbolt or a battery-free push-button keypad on the enclosure door, with the house's smart locks on the doors at the top of the stair. If you want to know when the enclosure door opens, a wireless door contact can report to the same app; it is inexpensive, and if salt water ruins it the loss is small. The hub, bridge or router that the upstairs locks rely on goes upstairs too, on an interior wall above the flood line.</p>
 <p class="bt">It is also worth checking your elevation certificate and any flood-plain conditions attached to the work permit before adding anything to the enclosure, because finishing or equipping that space as if it were living area can affect both compliance and the flood insurance premium. We stay out of that decision and fit hardware that keeps the enclosure looking and working like what it is supposed to be: parking, storage and a way in.</p>
-
 <h3 class="pg-h3">Can a smart lock be installed at a Fire Island house that is reached only by ferry or water taxi?</h3>
 <p class="bt">Yes, but it is planned as a one-trip job, because a forgotten part is a lost day. Driving on Fire Island is by federal permit only. The National Park Service's permit FAQs say contractor permits authorise driving only to communities where the holder has work, that summer residents and renters can't get permits because ferry service is considered adequate in season, and that in winter people reach their houses by ferry, water taxi or private boat. For most car-free communities, that means the tools and the lock go over the way the owner does, and nothing is driven to the door.</p>
 <p class="bt">So the walkthrough is done from photographs and a call: the door's thickness, backset and condition, the strike, the cottage's Wi-Fi or lack of it, and how exposed the door is to wind-blown sand and spray. We bring the lock, a second set of fixings, a spare strike, batteries and the tools to re-drill if the old preparation is rotten, and we take the old lock away or leave it with you as a spare. Locks with published outdoor ratings and a mechanical key are the default, because a cottage door on a boardwalk sees more salt than almost any door on the mainland.</p>
 <p class="bt">Plan the codes for the way the house is actually used: an owner's code, codes for family and guests with end dates, and one for whoever checks the house out of season. If the cottage has no reliable internet, choose a lock that can create time-limited codes without a connection, and keep a key with a neighbour or caretaker in the community, because getting a locksmith across the bay after the last ferry isn't realistic.</p>
-
 <h2 style="font-size:1.45rem;margin-top:36px">Backyards, pools and cellars</h2>
 <h3 class="pg-h3">Our back slider opens straight onto the pool deck &mdash; does a smart lock on it take care of the pool alarm rule?</h3>
 <p class="bt">No. They do different jobs, and the pool rule is about the alarm. The New York State Department of State's summary of the residential pool requirements says that where a wall of the house is part of the pool barrier, every door with direct access to the pool through that wall needs an alarm listed to UL 2017, with a touch pad or switch that silences it for a single opening for no more than 15 seconds; where the house sits wholly inside the pool enclosure, every door with direct access needs one. Other approved means, such as self-closing and self-latching devices, are allowed only if they protect at least as well.</p>
 <p class="bt">A smart lock can't stand in for that alarm. It secures the door against someone outside; the alarm warns that a child inside has opened it. We fit the two together: a slider lock or a hinged-door smart lock that reports locked and unlocked, plus the listed door alarm mounted where the code wants it and where adults can reach the pass-through switch but a small child can't. If the pool door is a hinged French door, the smart lock's auto-lock can be set so the door relocks soon after it closes, which helps, but it is still not the alarm.</p>
 <p class="bt">The pool gate has its own rules in the same summary: self-closing, self-latching, opening outward away from the pool for a pedestrian gate, with the latch handle inside the enclosure and at least 40 inches above grade, and a lock to keep it shut when the pool is not supervised. A keypad lock can be fitted to many gates, but only one that doesn't defeat the self-latching hardware; the town inspects the barrier, not the app. Pool installers handle the barrier itself; we fit the lock and the alarm and coordinate with them.</p>
-
 <h3 class="pg-h3">Our cellar has an outside bulkhead door &mdash; can it go keyless, and what if someone sleeps down there?</h3>
 <p class="bt">The bulkhead itself is a poor place for a smart lock, and if anyone sleeps in the basement it is also part of their way out. Steel bulkheads normally lock from inside with a slide bar. Bilco sells a keyed lock kit for its basement doors that adds an outside key while keeping the slide bar for locking from inside, and that is usually the right level of hardware for the bulkhead leaf. Motorised locks struggle with doors that move as much as a bulkhead does with heat, frost and settling, and the leaf is exposed to rain and snow lying on it.</p>
 <p class="bt">If there is a door at the foot of the bulkhead stairs into the basement, that door is the better candidate for a keypad, since it sits sheltered under the steel. Whatever goes on it must open from the basement side with a single turn and no key. The model residential code requires a basement, and every sleeping room, to have an emergency escape and rescue opening that works from inside without keys, tools or special knowledge, and many Suffolk basements rely on that stair for it.</p>
 <p class="bt">So our usual plan is a keyed kit on the bulkhead, a keypad deadbolt with a plain thumb-turn on the inner door if there is one, and a door contact on the bulkhead so the app tells you when it opens. If the basement is, or will be, a bedroom or an accessory apartment, the town's building department decides what the escape opening must be; we make sure the lock never gets in its way.</p>
-
 <h3 class="pg-h3">If Dad falls at home and can't reach the door, how does the ambulance crew get in?</h3>
 <p class="bt">Plan it before it happens, because a responder at a locked smart door has the same options as at any locked door: someone opens it, or they force it. There is no master code that fire or EMS crews carry for consumer smart locks. What a smart lock does offer is a way for a family member to open the door remotely, from anywhere, the moment they know help is at the step &mdash; which only works if the lock is connected, the family member has the app and the notifications reach them.</p>
 <p class="bt">The most reliable set-up we fit for an older parent living alone is layered. The front door gets a connected smart lock with a doorbell camera beside it, so the person who gets the call can see the crew and unlock. A neighbour or nearby relative holds a code of their own. And a mechanical key sits in a key safe or with that neighbour, because a phone, an app and a home network are three things that can fail on a bad night. Ask your local fire district or ambulance company whether it offers or recommends a residential key-box arrangement, and follow its advice on where to mount one.</p>
 <p class="bt">Two settings matter. Turn on notifications for the door being unlocked or opened, sent to two family members rather than one. And make sure the inside of the door opens with a single, easy turn, so your parent can let people in on a good day and nobody is held up by the lock on a bad one.</p>
-
 <h2 style="font-size:1.45rem;margin-top:36px">Industrial parks, practices and congregations</h2>
 <h3 class="pg-h3">We are moving our Hauppauge building to keyless entry &mdash; what happens to the keys in our Knox-Box?</h3>
 <p class="bt">They have to change too, and you can't do it yourself. The Town of Islip's Fire Prevention Bureau explains that property owners are not given keys to their own Knox-Box: the fire marshal's office schedules a visit to lock the keys inside, keeps a master list of every box and its key inventory, and only the marshal's office and the local responding fire department can open it. Its bulletin is explicit that whenever you change your locks, you must call the fire marshal to swap the keys, or responders may have to force entry and cause damage. Generally, keys to all spaces in the building go in the box.</p>
 <p class="bt">Going keyless doesn't mean going keyless for the fire department. Every door we convert keeps a mechanical override &mdash; a key cylinder on the lock or a keyed bypass on the strike &mdash; and the new keys are what go into the box. Where the system uses cards or fobs, a credential can go in too if the marshal asks for it, but a key that works with the power off is the one that matters. We plan the cylinder change, hand you a labelled key set for the marshal's visit, and keep the old keys working until the box has been updated.</p>
 <p class="bt">Hauppauge straddles Islip and Smithtown, and the rest of Suffolk's industrial streets fall under other towns and fire districts with their own procedures. We check which office covers your address before the old cylinders come out, so the building is never left with a box full of keys that no longer fit.</p>
-
 <h3 class="pg-h3">Our flex unit has a roll-up bay door and a steel man door &mdash; which one gets the keypad?</h3>
 <p class="bt">The man door, almost always. It is the door staff use to arrive, leave and step out for a break, it is usually the unit's required exit, and it hangs in a steel frame that takes a commercial keypad lever or a strike and reader well. A coded lever that relocks automatically means the last person out can't leave it on the latch, and each employee's code shows up in the log.</p>
 <p class="bt">The roll-up door is a different machine. A motorised bay door is opened by its operator, and controlling it means working with the operator's own inputs and safety devices, which is a job for the door company. A manual roll-up is secured with its own slide locks or padlock hasps from inside. What we can add is a door contact on the bay door, so the same app that logs the man door also reports when the bay goes up after hours. That gives an owner one timeline for both openings without touching the operator.</p>
 <p class="bt">If the unit has an office front with an aluminium storefront door as well, that door gets its own keypad or reader and its own schedule, often a later unlock than the shop floor. And whatever you choose, the new keys go into the Knox-Box, as described above.</p>
-
 <h3 class="pg-h3">Does a keypad with an audit trail on our records room help a Suffolk dental practice with HIPAA?</h3>
 <p class="bt">It helps you do what the rule asks, but it is not compliance on its own. The HIPAA Security Rule's physical safeguards, at 45 CFR 164.310, include a facility access controls standard: limit physical access to electronic information systems and the facilities that house them, while making sure authorised access is allowed. Its implementation specifications cover a facility security plan, procedures to control and validate a person's access based on role, and maintenance records documenting repairs and changes to security-related parts of the facility, which the regulation itself illustrates with hardware, walls, doors and locks.</p>
 <p class="bt">A keypad or card lock with individual codes and a log fits that well. Each staff member gets a credential tied to their role, the server or records room opens only for the people who need it, and when someone leaves you delete one code instead of re-keying the room &mdash; the example HHS's own guidance gives of a physical change worth documenting. The lock's log, kept with your maintenance records, shows who had access and when it changed.</p>
 <p class="bt">What it doesn't do is write your policies, train your staff or cover the technical safeguards on the computers themselves. A practice is better off treating the lock as one line in its security plan. We supply a written description of each door, the hardware and the credential list for that plan, and we never need access to patient information to do the work.</p>
-
 <h3 class="pg-h3">Can a Suffolk church, synagogue or mosque use the state's security grant toward keyless doors?</h3>
 <p class="bt">Possibly; check with the program before you count on it. New York's Securing Communities Against Hate Crimes program, administered by the Division of Criminal Justice Services, gives grants to nonprofit organisations at risk of hate crimes or attacks because of their ideology, beliefs or mission. The Governor's application page says grants can fund interior or exterior security improvements, such as alarms, panic buttons, fences, shatter-resistant glass and public address systems, among other items. Door locks and access control aren't named on that page, so confirm with DCJS whether they are eligible in the round you apply to.</p>
 <p class="bt">If they are, the doors that matter most for a congregation are usually the ones used outside service times: the office entrance, the school or hall door, the kitchen and delivery door. Coded or card access there lets clergy, staff and volunteers in on a schedule, while the main doors stay on ordinary keyed hardware with panic exit devices for crowds. Every exit still opens from inside with one push.</p>
@@ -1412,7 +1339,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-reception-desk-panic-button.webp" alt="Technician kneeling under a reception desk to wire a red panic button, front-desk security work alongside smart locks in Suffolk County" title="Panic button under a reception desk &mdash; Suffolk County front-desk security" width="1402" height="1122" loading="lazy" decoding="async"><figcaption>A technician in a navy AESS polo kneels under a wood-panelled reception desk and screws a white panic button with a red push cap to the underside, a &ldquo;Reception&rdquo; sign and a monitor on the counter above.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Equipment</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Types of Smart Locks We Install</h2></div>
@@ -1432,56 +1358,46 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-intercom-keypad-terminal-wiring.webp" alt="Technician in safety glasses terminating colour-coded wires behind a stainless keypad and camera door station on a stone wall, Suffolk County keyless entry wiring" title="Keypad door station wiring &mdash; Suffolk County keyless entry" width="1050" height="1400" loading="lazy" decoding="async"><figcaption>A technician in a navy shirt, cap and safety glasses holds a stainless keypad door station with a camera lens away from its back box and works on a bundle of red, yellow and blue conductors, a &ldquo;Visitors press button for assistance&rdquo; plaque below on the stone wall.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">AI Overview Reality Check</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>What AI Gets Wrong About Smart Lock Installation in Suffolk County</h2></div>
 <div class="rv" style="transition-delay:.1s">
 <p class="bt">A note on method: the tools used to research this page could not open Google's AI Overview, so the seven headings below are not quotations from it. They are claims that recur in product listings, cost-guide sites such as Angi, HomeAdvisor and Fixr, and how-to articles, which answer engines tend to repeat. After each one is what we find on Suffolk doors.</p>
-
 <h3 class="pg-h3">&ldquo;A smart lock will fit any exterior door&rdquo;</h3>
 <p class="bt">Product pages list the door thicknesses and backsets a lock fits, and most ordinary front doors qualify. Fitting the door's preparation is not the same as suiting the door.</p>
 <p class="bt">In Suffolk, plenty of exterior doors are poor homes for electronics: the enclosure door under a raised South Shore house, a steel bulkhead over cellar stairs, a slider onto a pool deck, a cottage door facing the ocean on Fire Island. Each has a better answer, and it is usually mechanical.</p>
 <p class="bt">We sort the doors before choosing locks: which ones get a smart lock, which get a battery-free keypad, which get a keyed kit and a sensor, and which should be left alone.</p>
-
 <h3 class="pg-h3">&ldquo;Add a keypad and the rental is ready&rdquo;</h3>
 <p class="bt">Landlord blogs present keyless entry as the finishing touch on a rental. Suffolk's towns see it differently. Islip's permit form, for instance, is about smoke alarms, carbon monoxide alarms, open violations and a ban on transient rentals.</p>
 <p class="bt">A keypad doesn't touch any of those, and the wrong keypad can create a problem: a lock that needs a code to get out, or a bolt that throws short of the inch the model maintenance code calls for, is a violation in waiting.</p>
 <p class="bt">Get the permit basics right first, then fit a lock that opens freely from inside and lets you retire a former tenant's code the day they leave.</p>
-
 <h3 class="pg-h3">&ldquo;A smart lock makes the pool door safe for children&rdquo;</h3>
 <p class="bt">Child-safety roundups sometimes list smart locks and auto-lock among pool precautions. New York's residential pool code asks for something else on a house door that opens onto the pool: a UL 2017-listed alarm, or an approved alternative that protects at least as well.</p>
 <p class="bt">The difference is direction. A lock keeps people out; the alarm tells the adults that someone inside has opened the door. A toddler who can work a thumb-turn will open a smart-locked door from inside as easily as any other.</p>
 <p class="bt">We fit both and explain which does what, and we leave the barrier and gate to the pool contractor and the town inspector.</p>
-
 <h3 class="pg-h3">&ldquo;Go keyless and you can throw the keys away&rdquo;</h3>
 <p class="bt">Commercial access-control marketing promises an end to key management. The fire marshal disagrees. Islip's Knox-Box bulletin requires keys to all spaces in the box and an appointment to change them whenever the locks change.</p>
 <p class="bt">A card or a phone credential is useless to a crew at a dark building with the power off, which is exactly when they need to get in.</p>
 <p class="bt">Every Suffolk business door we convert keeps a mechanical override, and the new keys go to the marshal's office before the old ones stop working.</p>
-
 <h3 class="pg-h3">&ldquo;An audit log makes the practice HIPAA compliant&rdquo;</h3>
 <p class="bt">Some access-control sellers describe their logs as a HIPAA feature. The Security Rule's facility access controls do ask for access to be limited and changes to doors and locks to be documented, and a log helps with both.</p>
 <p class="bt">But the rule is a set of policies and procedures across a whole practice, from workstations to backups. No lock satisfies it on its own, and a log nobody reviews protects nothing.</p>
 <p class="bt">We set up role-based codes, give you the door and credential records for your security plan, and leave compliance decisions to your privacy officer.</p>
-
 <h3 class="pg-h3">&ldquo;A keypad on the door secures the whole unit&rdquo;</h3>
 <p class="bt">Small-business guides picture a single front door. A Suffolk flex unit has two openings, and the bigger one is the roll-up bay.</p>
 <p class="bt">A keypad on the man door does nothing about a bay door left up after a delivery, or a manual roll-up whose slide locks were never thrown.</p>
 <p class="bt">We put the keypad on the man door, a contact on the bay door, and both on one timeline, so the owner sees every opening.</p>
-
 <h3 class="pg-h3">&ldquo;Emergency crews can get through any smart lock&rdquo;</h3>
 <p class="bt">It is widely assumed that police, fire and EMS have some way past consumer smart locks. There is no master code they carry for them.</p>
 <p class="bt">A crew at a locked house door has the options it has always had: someone opens it, a key is found, or the door is forced. For an older person living alone, that is a reason to plan, not to avoid smart locks.</p>
 <p class="bt">Remote unlock by a family member, a camera at the door, a neighbour's code and a key in safe keeping together give responders a quick way in without anyone breaking the door.</p>
 </div>
 </div></section>
-
 <section class="sd" style="text-align:center;padding:70px 0"><div class="cx" style="max-width:820px">
 <div class="rv"><h2>Plan Every Suffolk Door Once</h2></div>
 <div class="rv"><p class="bt" style="color:rgba(255,255,255,.75)">Tell us the town, the doors and what sits outside them &mdash; a pool, a flood enclosure, a bay door, a Knox-Box. We will tell you which doors should go keyless, what each lock must do, and the price.</p></div>
 <div class="rv br" style="justify-content:center"><a href="tel:+16314072884" class="bp">Call Now &mdash; (631) 407-2884</a><a href="#quick-form" class="bo" style="color:#fff;border-color:rgba(255,255,255,.4)">Fast Quote</a><a href="tel:+16314072884" class="bo" style="color:#fff;border-color:rgba(255,255,255,.4)">Speak to a Tech</a></div>
 </div></section>
-
 <section class="qf-section" id="quick-form"><div class="cx"><div class="qf-wrap">
 <div class="rv" style="text-align:center"><div class="lb" style="justify-content:center"><div class="lbr"></div><span class="lbt">Get In Touch</span><div class="lbr"></div></div></div>
 <div class="rv" style="text-align:center;transition-delay:.08s"><h2>Request a <span class="ac">Free Quote</span></h2></div>
@@ -1503,7 +1419,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </form>
 <div class="qf-success" id="qf-ok"><div style="font-size:48px;margin-bottom:16px">&#x2705;</div><h3>We Got Your Request!</h3><p>Thanks &mdash; a licensed installer will phone you before the end of the business day. Something urgent? Ring <a href="tel:+16314072884" class="lnk">(631) 407-2884</a>.</p></div>
 </div></div></div></section>
-
 <section class="sd"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">How It Works</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Our Installation Process</h2></div>
@@ -1520,7 +1435,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-crew-van-unload.webp" alt="Two technicians unloading tool cases from a white AESS service van parked outside a stone and glass office entrance in Suffolk County" title="Crew unloading the service van &mdash; Suffolk County smart lock visit" width="1402" height="1122" loading="lazy" decoding="async"><figcaption>One technician reaches into the open rear doors of a white AESS van stocked with cable reels and cases while a second walks toward the building entrance with a tool bag and a rolling case, an &ldquo;Another System Secured&rdquo; sign on the pavement.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Coverage Area</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation Near Suffolk County's Landmarks</h2></div>
@@ -1538,7 +1452,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-two-tech-keypad-camera-entry.webp" alt="Two technicians at a glass storefront entrance, one wiring a keypad on the frame and one mounting a camera above it, Suffolk County business keyless entry" title="Keypad and camera at a glass entrance &mdash; Suffolk County business door" width="1402" height="1122" loading="lazy" decoding="async"><figcaption>One technician in a navy AESS hoodie drills a white camera bracket onto the frame of a glass entrance while a second, crouched below, works on the wiring of a black keypad with a green light; lettering on the glass directs employees, visitors and deliveries to the main entrance.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:960px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Pricing</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation Cost in Suffolk County</h2></div>
@@ -1564,7 +1477,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt"><strong>National cost guides for comparison.</strong> Cost-guide sites publish national averages for a single smart lock installed on an ordinary house door; Fixr's January 2025 figure is $250&ndash;$400. That is national third-party data, not an AESS price, and it assumes one door, one owner and none of the pool, flood, rental or fire-marshal questions a Suffolk door often brings.</p>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Shop Our Systems</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation Packages &amp; Pricing</h2></div>
@@ -1579,13 +1491,11 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-lobby-exit-door-reader-intercom.webp" alt="Building lobby with glass entrance doors under an exit sign, a wall intercom, a card reader, an interior glass door and a reception desk, Suffolk County keyless lobby entry" title="Lobby with intercom, reader and exit doors &mdash; Suffolk County keyless entry" width="1536" height="1024" loading="lazy" decoding="async"><figcaption>A lobby with double glass entrance doors under a red exit sign, a grey intercom panel and a small card reader on the wall, a floor directory, an interior glass door with its own reader, ceiling dome cameras and a reception desk with a camera monitor.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sd" style="text-align:center;padding:70px 0"><div class="cx" style="max-width:820px">
 <div class="rv"><h2>Ready to Sort the Doors That Should Go Keyless?</h2></div>
 <div class="rv"><p class="bt" style="color:rgba(255,255,255,.75)">Send a photo of each door from outside and one of what lies beyond it &mdash; the deck, the stair, the bay, the boardwalk. We will tell you what the walkthrough will cover and what it is likely to recommend.</p></div>
 <div class="rv br" style="justify-content:center"><a href="tel:+16314072884" class="bp">Call Now &mdash; (631) 407-2884</a><a href="#quick-form" class="bo" style="color:#fff;border-color:rgba(255,255,255,.4)">Fast Quote</a><a href="tel:+16314072884" class="bo" style="color:#fff;border-color:rgba(255,255,255,.4)">Speak to a Tech</a></div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Across Suffolk</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>How Smart Lock Jobs Change From Town to Town</h2></div>
@@ -1613,7 +1523,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt">An island town with the village of Dering Harbor, where every visit includes a ferry crossing. Cottages and houses that are closed for part of the year, where a job is planned to finish in a single crossing.</p>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Shoreline Doors</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>A Flood-Line Checklist for Smart Locks on Raised and Bay-Front Houses</h2></div>
@@ -1631,7 +1540,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <figure class="pg-fig rv"><img src="/images/smart-lock-installation/smart-lock-installation-suffolk-county-storefront-glass-break-sensor.webp" alt="Technician drilling to mount a white glass-break sensor beside a shop window, with inset views of the finished sensor and a second install in a clothing store, Suffolk County storefront security" title="Glass-break sensor beside a shop window &mdash; Suffolk County storefront" width="1402" height="1122" loading="lazy" decoding="async"><figcaption>A three-panel image: a technician in a navy polo drills a white glass-break sensor into the wall beside a shop window with posted store hours, the finished sensor under a &ldquo;Glass Break Detector&rdquo; sign, and the same technician fixing a second sensor in a clothing store.</figcaption></figure>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Business Handover</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Converting a Suffolk Business to Keyless: The Handover Plan</h2></div>
@@ -1648,7 +1556,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt">Review the user list every quarter and after every departure. If something changes and you would rather not do it yourself, our Suffolk setup-only visit is $250 for the first hour.</p>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Rented Doors</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Running Smart Locks on a Suffolk Rental Between Tenants</h2></div>
@@ -1664,7 +1571,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt">Owners who manage several rented doors across Suffolk often ask us to handle the change-over visit. Without new hardware, that is our setup-only rate of $250 for the first hour; where a cylinder needs replacing or a strike needs re-setting, we quote it before we start.</p>
 </div>
 </div></section>
-
 <section class="sd"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Complete Services</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Every Smart Lock Installation Service in Suffolk County</h2></div>
@@ -1685,7 +1591,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Field Notes</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Field Notes on Suffolk Doors</h2></div>
@@ -1699,7 +1604,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 </div>
 </div></section>
-
 <section class="sw"><div class="cx" style="max-width:900px">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">FAQ</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Suffolk County Smart Lock Installation FAQ</h2></div>
@@ -1718,7 +1622,6 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 </div>
 </div>
 </div></section>
-
 <section class="sg"><div class="cx">
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">All Areas Served</span></div></div>
 <div class="rv" style="transition-delay:.06s"><h2>Smart Lock Installation Across Long Island and New York</h2></div>
@@ -1727,17 +1630,15 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="sgrid">
 <div class="sc"><h3>Long Island</h3><p><a href="/smart-lock-installation-long-island" class="lnk">Long Island smart lock installation</a> &middot; <a href="/smart-lock-installation-nassau-county" class="lnk">Nassau County</a> &middot; Suffolk County (this page)</p></div>
 <div class="sc"><h3>New York City</h3><p><a href="/smart-lock-installation-nyc" class="lnk">Smart lock installation in NYC</a> &middot; <a href="/smart-lock-installation-manhattan" class="lnk">Manhattan smart locks</a> &middot; <a href="/smart-lock-installation-brooklyn" class="lnk">Brooklyn smart lock installation</a> &middot; <a href="/smart-lock-installation-queens" class="lnk">Queens smart locks</a> &middot; <a href="/smart-lock-installation-bronx" class="lnk">Bronx smart lock installation</a> &middot; <a href="/smart-lock-installation-staten-island" class="lnk">Staten Island smart locks</a></p></div>
-<div class="sc"><h3>Hudson Valley</h3><p><a href="/smart-lock-installation-hudson-valley" class="lnk">Smart lock installation in the Hudson Valley</a> &middot; <a href="/smart-lock-installation-westchester-county" class="lnk">Westchester County smart locks</a> &middot; <a href="/smart-lock-installation-rockland-county" class="lnk">Rockland County smart lock installation</a> &mdash; with Orange, Putnam, Dutchess and Ulster served from the regional page.</p></div>
+<div class="sc"><h3>Hudson Valley</h3><p><a href="/smart-lock-installation-hudson-valley" class="lnk">Smart lock installation in the Hudson Valley</a> &middot; <a href="/smart-lock-installation-westchester-county" class="lnk">Westchester County smart locks</a> &middot; <a href="/smart-lock-installation-rockland-county" class="lnk">Rockland County smart lock installation</a> &mdash; with county pages for <a href="/smart-lock-installation-orange-county" class="lnk">Orange</a>, <a href="/smart-lock-installation-putnam-county" class="lnk">Putnam</a> and <a href="/smart-lock-installation-dutchess-county" class="lnk">Dutchess</a>, and Ulster served from the regional page.</p></div>
 </div>
 <p class="bt">For cameras, alarms, intercoms and cabling across both counties, start at the <a href="/" class="lnk">Abstract Enterprises Security Systems home page</a>, and meet the licensed team on our <a href="/about-us" class="lnk">about page</a>.</p>
 </div>
 </div></section>
-
 <section class="sw" style="padding:70px 0"><div class="cx" style="max-width:900px">
 <div class="rv"><h2>Shut Out of a Suffolk House, Shop or Bay Door Tonight?</h2></div>
 <div class="rv"><p class="bt">If a keypad has gone dark, the app can't reach the lock, or a bolt won't throw on a stair-top, side or man door, call our Suffolk line at <a href="tel:+16314072884" class="lnk">(631) 407-2884</a>. We book the next open 2-hour window, and most battery, pairing and alignment faults are cleared in one to two hours once a technician is at the door. Keep the mechanical key within reach meanwhile &mdash; it is the one credential that needs no battery, no network and no app.</p></div>
 </div></section>
-
 <section class="sd" style="padding:80px 0"><div class="cx" style="max-width:900px">
 <div class="rv"><h2>Smart Lock Installation Suffolk County &mdash; Licensed, Insured, Town-Aware</h2></div>
 <div class="rv">
@@ -1747,11 +1648,8 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <p class="bt" style="color:rgba(255,255,255,.6);font-size:.85rem">Town codes, flood rules, pool requirements and fire-marshal programs are summarised here for planning only and are not legal advice; check the current text with the issuing office. Page reviewed and updated October 17, 2026. Changelog: first publication of the Suffolk County smart lock installation page.</p>
 </div>
 </div></section>
-
 <footer><div class="fti"><div><img src="/images/logo.png" alt="Abstract Enterprises" style="height:56px;width:auto;border-radius:10px;background:#fff;padding:6px 10px"><div class="fts">SECURITY SYSTEMS &middot; SUFFOLK COUNTY</div></div><div class="ftc">&copy; 2026 Abstract Enterprises LLC &middot; <a href="/privacy-policy" style="color:rgba(255,255,255,.35);text-decoration:none">Privacy Policy</a> &middot; <a href="/sms-consent" style="color:rgba(255,255,255,.35);text-decoration:none">SMS Consent</a> &middot; NYS Lic. #12000287431 &middot; Smart Lock Installation Suffolk County</div></div><div style="text-align:center;padding:12px 0;font-size:.85rem;color:#9ca3af;border-top:1px solid rgba(255,255,255,.06)">Rental &amp; Accessory-Unit Doors &middot; Flood-Line Hardware &middot; Pool-Door Locks &amp; Alarms &middot; Knox-Box Business Doors</div>
 </footer>
-
-
 <a href="https://wa.me/17186790359?text=Hi%2C%20I%27m%20interested%20in%20your%20services.%20Can%20you%20help%3F" target="_blank" class="wa-float" aria-label="Chat on WhatsApp"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
 <script>
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
