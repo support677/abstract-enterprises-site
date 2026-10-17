@@ -78,7 +78,7 @@ LIVE | cat6-repair-rockland-county | Cat6 Repair | Rockland | up /cat6-repair-hu
 LIVE | cat6-repair-orange-county | Cat6 Repair | Orange | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-17T12:54Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
 LIVE | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -133,7 +133,7 @@ BUILDING 2026-10-17T11:46Z | sonos-installation-todt-hill-staten-island-ny | Son
 BUILDING 2026-10-17T11:46Z | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T12:54Z | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T12:04Z | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T12:04Z | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T12:04Z | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -146,7 +146,7 @@ BUILDING 2026-10-17T12:28Z | soundbar-installation-flushing-queens-ny | Soundbar
 BUILDING 2026-10-17T12:29Z | soundbar-installation-throgs-neck-bronx-ny | Soundbar Installation | Throgs Neck, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T12:29Z | soundbar-installation-todt-hill-staten-island-ny | Soundbar Installation | Todt Hill, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T12:29Z | soundbar-installation-chelsea-manhattan-ny | Soundbar Installation | Chelsea, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
-TODO | soundbar-installation-greenpoint-brooklyn-ny | Soundbar Installation | Greenpoint, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T12:54Z | soundbar-installation-greenpoint-brooklyn-ny | Soundbar Installation | Greenpoint, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | soundbar-installation-bayside-queens-ny | Soundbar Installation | Bayside, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | soundbar-installation-kingsbridge-bronx-ny | Soundbar Installation | Kingsbridge, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation | New Dorp, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
