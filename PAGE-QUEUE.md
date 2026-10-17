@@ -137,9 +137,9 @@ BUILDING 2026-10-17T12:19Z | sonos-installation-city-island-bronx-ny | Sonos Ins
 BUILDING 2026-10-17T12:04Z | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T12:04Z | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T12:04Z | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | sonos-installation-douglaston-queens-ny | Sonos Installation | Douglaston, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-country-club-bronx-ny | Sonos Installation | Country Club, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | sonos-installation-great-kills-staten-island-ny | Sonos Installation | Great Kills, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T12:20Z | sonos-installation-douglaston-queens-ny | Sonos Installation | Douglaston, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T12:20Z | sonos-installation-country-club-bronx-ny | Sonos Installation | Country Club, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T12:20Z | sonos-installation-great-kills-staten-island-ny | Sonos Installation | Great Kills, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
