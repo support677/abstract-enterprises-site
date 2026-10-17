@@ -31,3 +31,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-manhattan | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-brooklyn | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-queens | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-staten-island | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nassau-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-suffolk-county | QUEUED
