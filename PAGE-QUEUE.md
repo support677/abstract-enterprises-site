@@ -95,6 +95,21 @@ BUILDING 2026-10-17T10:03Z | soundbar-installation-bay-ridge-brooklyn-ny | Sound
 BUILDING 2026-10-17T10:09Z | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T10:09Z | soundbar-installation-mott-haven-bronx-ny | Soundbar Installation | Mott Haven, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T10:09Z | soundbar-installation-great-kills-staten-island-ny | Soundbar Installation | Great Kills, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T10:20Z | smart-lock-installation-upper-east-side-manhattan-ny | Smart Lock Installation | Upper East Side, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T10:20Z | smart-lock-installation-brooklyn-heights-brooklyn-ny | Smart Lock Installation | Brooklyn Heights, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T10:20Z | smart-lock-installation-flushing-queens-ny | Smart Lock Installation | Flushing, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | smart-lock-installation-throgs-neck-bronx-ny | Smart Lock Installation | Throgs Neck, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | smart-lock-installation-todt-hill-staten-island-ny | Smart Lock Installation | Todt Hill, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | smart-lock-installation-chelsea-manhattan-ny | Smart Lock Installation | Chelsea, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | smart-lock-installation-bedford-stuyvesant-brooklyn-ny | Smart Lock Installation | Bedford-Stuyvesant, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | smart-lock-installation-jackson-heights-queens-ny | Smart Lock Installation | Jackson Heights, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | smart-lock-installation-kingsbridge-bronx-ny | Smart Lock Installation | Kingsbridge, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | smart-lock-installation-new-dorp-staten-island-ny | Smart Lock Installation | New Dorp, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | smart-lock-installation-washington-heights-manhattan-ny | Smart Lock Installation | Washington Heights, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | smart-lock-installation-greenpoint-brooklyn-ny | Smart Lock Installation | Greenpoint, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | smart-lock-installation-bayside-queens-ny | Smart Lock Installation | Bayside, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | smart-lock-installation-morris-park-bronx-ny | Smart Lock Installation | Morris Park, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | smart-lock-installation-west-brighton-staten-island-ny | Smart Lock Installation | West Brighton, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
