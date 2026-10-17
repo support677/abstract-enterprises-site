@@ -156,6 +156,82 @@ Substituted with the claims cost-guide and competitor pages actually make (these
 - Is it safe to run fiber next to the electrical wiring in an old house?
 - Do you work with schools, churches and community organisations on tight budgets?
 - Do you do the splicing and testing yourselves?
+- Fiber Link Dead in a Westchester Building? — fiber-optic-installation-westchester-county
+- We're re-letting a former corporate headquarters off I-287 floor by floor — should the landlord own the backbone, or should each tenant bring its own? — fiber-optic-installation-westchester-county
+- The old corporate data centre in our building is being torn out — what happens to all the fiber that ran to it? — fiber-optic-installation-westchester-county
+- Can tenants on different floors of one Westchester office building share a building-owned fiber backbone without sharing a network? — fiber-optic-installation-westchester-county
+- The departed company's telephone room is still full of its old equipment — can it become the entrance room for our new tenants' carriers? — fiber-optic-installation-westchester-county
+- Should the office-era fiber in a building being converted to apartments be reused, re-terminated or stripped out? — fiber-optic-installation-westchester-county
+- Our office building is becoming self-storage — does it still need fiber, and where? — fiber-optic-installation-westchester-county
+- When should a developer building under New Rochelle's downtown overlay bring in a fiber contractor? — fiber-optic-installation-westchester-county
+- Our village offices connect to the county's Westchester Telecom Network — who is responsible for the fiber after the county's handoff? — fiber-optic-installation-westchester-county
+- Our medical practice is moving into a suite in a Harrison or Purchase office park — what has to be in place before the clinical systems move? — fiber-optic-installation-westchester-county
+- We're choosing between a downtown White Plains tower and an I-287 campus building — how does fiber change the comparison? — fiber-optic-installation-westchester-county
+- Who owns the fiber after a building changes hands? (§10 EQUIPMENT table heading) — fiber-optic-installation-westchester-county
+- Westchester Tenant Offline Right Now? (final repair heading) — fiber-optic-installation-westchester-county
+- Do you cover northern Westchester towns such as Somers, North Salem and Pound Ridge, or only the southern cities? — fiber-optic-installation-westchester-county
+- When one tenant expands onto a neighbour's floor, can its strands in the shared backbone be reassigned? — fiber-optic-installation-westchester-county
+- Can fiber work start while the outgoing corporate tenant is still moving out? — fiber-optic-installation-westchester-county
+- Can you work in an older Yonkers or Mount Vernon building that has no drawings at all? — fiber-optic-installation-westchester-county
+- Can fiber be run through the parking garage under an office or apartment building? — fiber-optic-installation-westchester-county
+- How much notice do you need before a Westchester tenant's move-in date? — fiber-optic-installation-westchester-county
+- Can one tenant lease its spare strands to another tenant in the same building? — fiber-optic-installation-westchester-county
+- Will you meet our broker and a prospective tenant at the building to answer fiber questions? — fiber-optic-installation-westchester-county
+- What happens if we find asbestos-containing material in the ceilings or risers of an older building? — fiber-optic-installation-westchester-county
+- Who do we call if a Westchester fiber link fails outside business hours? — fiber-optic-installation-westchester-county
+- Can you remove the old corporate cabling without disturbing the fiber we're keeping? — fiber-optic-installation-westchester-county
+- Do you install fiber for a business run from a house in Westchester? — fiber-optic-installation-westchester-county
+- On our Pearl River campus the main fiber room is inside a building leased to another company — what happens when our strands need work there? — fiber-optic-installation-rockland-county
+- Part of our Rockland office complex is being turned into apartments — how do we keep the offices' fiber out of the residential building? — fiber-optic-installation-rockland-county
+- Nobody can tell us where the fiber on our newly bought Rockland property runs — how do you trace it from end to end? — fiber-optic-installation-rockland-county
+- The seller kept one building on our campus and still rides the same fiber — how do we separate the two networks without cutting them off? — fiber-optic-installation-rockland-county
+- Our two buildings face each other across a county road — what does it take to get private fiber from one side to the other? — fiber-optic-installation-rockland-county
+- We have one site in Rockland and another a few miles over the line in Bergen County — can a single private fiber link serve both? — fiber-optic-installation-rockland-county
+- Our building sat half-empty for years — is the fiber that was left in it still usable? — fiber-optic-installation-rockland-county
+- Our inherited backbone is orange-jacketed multimode from decades ago — can it carry today's network? — fiber-optic-installation-rockland-county
+- The parking-lot cameras at our Route 59 plaza ride on fiber that runs through a tenant's unit — how do we take them back? — fiber-optic-installation-rockland-county
+- Between tenants in our Blauvelt or Orangeburg industrial building, what fiber should we leave in place for the next one? — fiber-optic-installation-rockland-county
+- Our school or congregation uses neighbouring houses in Ramapo that belong to different owners — what agreement does a fiber link between them need? — fiber-optic-installation-rockland-county
+- Our offices sit on both sides of the Hudson — can our own fiber cross between Rockland and Westchester? — fiber-optic-installation-rockland-county
+- The shopping centre where we lease is being sold — what happens to our fiber and our carrier's fiber during the handover? — fiber-optic-installation-rockland-county
+- Which parts of Rockland do you cover — every town, the river villages and Monsey? — fiber-optic-installation-rockland-county
+- Can you test the fiber a seller says is included before we close on a Rockland building? — fiber-optic-installation-rockland-county
+- Will you document and label an existing Rockland fiber plant without installing anything new? — fiber-optic-installation-rockland-county
+- What licence and insurance paperwork can you hand a Rockland property manager before work starts? — fiber-optic-installation-rockland-county
+- Can fiber work be done inside the lab and manufacturing buildings on Rockland's research campuses? — fiber-optic-installation-rockland-county
+- What does it cost to have an inherited fiber plant tested and mapped in Rockland? — fiber-optic-installation-rockland-county
+- How do you handle parking and deliveries in Nyack, Piermont and the other river villages? — fiber-optic-installation-rockland-county
+- How is the cost of shared fiber divided when a Rockland campus has several owners? — fiber-optic-installation-rockland-county
+- Can you supply fiber routing drawings for an Orangetown or Clarkstown site-plan application? — fiber-optic-installation-rockland-county
+- Can a construction trailer or sales office on a Rockland redevelopment site get a temporary fiber link? — fiber-optic-installation-rockland-county
+- Can the work start with one building on a split campus and reach the others later? — fiber-optic-installation-rockland-county
+- Can our own consultant witness the acceptance tests on a Rockland fiber job? — fiber-optic-installation-rockland-county
+- Shop or Office Link Dead on an Orange County Main Street? (repair capture heading) — fiber-optic-installation-orange-county
+- Each tenant in our Newburgh building orders internet on its own — how do we stop every provider from drilling a new hole through the brick? — fiber-optic-installation-orange-county
+- The only place for a rack in our Front Street building is the attic — is that a bad idea for fiber equipment? — fiber-optic-installation-orange-county
+- We own two adjoining buildings on a village main street that share a party wall — can one network serve both? — fiber-optic-installation-orange-county
+- The provider wants to mount its terminal on our storefront facade — can we ask for it somewhere else? — fiber-optic-installation-orange-county
+- Our building used to be a church school — are the old intercom and telephone pathways in its walls usable for fiber? — fiber-optic-installation-orange-county
+- Our practice moved into part of a large former hospital building — can we get fiber to our suite without depending on the landlord's old network? — fiber-optic-installation-orange-county
+- Our restaurant near a Route 17 interchange is adding a second building on the lot — should it get its own internet service or a fiber link from the first? — fiber-optic-installation-orange-county
+- The state plans a third lane on Route 17 — should a business near the highway hold off on buried fiber until the road work is done? — fiber-optic-installation-orange-county
+- Our village hall, police desk and highway garage are in separate buildings — can fiber replace the leased lines between them? — fiber-optic-installation-orange-county
+- Can fiber keep our firehouse's alerting equipment and cameras separate from the members' Wi-Fi? — fiber-optic-installation-orange-county
+- Does Orange County's electrician licence apply to the people installing our fiber? — fiber-optic-installation-orange-county
+- Our property in Warwick is a long drive from your Bronx office — how do you keep the job from stretching into extra trips? — fiber-optic-installation-orange-county
+- Will a busy Newburgh or Middletown sidewalk have to be closed while the fiber comes in? — fiber-optic-installation-orange-county
+- Do you take fiber work in western Orange County — Port Jervis, Otisville and the Deerpark side? — fiber-optic-installation-orange-county
+- What should we send so a quote can come back before anyone visits the building? — fiber-optic-installation-orange-county
+- Is fiber worth adding to a building we might sell in a few years? — fiber-optic-installation-orange-county
+- Can fiber reach a second-floor office over a storefront without running through the shop? — fiber-optic-installation-orange-county
+- Will trains on the Port Jervis Line next to our building disturb a fiber link? — fiber-optic-installation-orange-county
+- Can fiber be added to a hotel or motel along Route 17 without taking rooms out of service? — fiber-optic-installation-orange-county
+- Do outlet-center and shopping-plaza leases usually let a tenant hire its own fiber installer? — fiber-optic-installation-orange-county
+- Can new fiber sit alongside an older alarm or fire-alarm panel in the same closet? — fiber-optic-installation-orange-county
+- Our landlord lives outside New York — how do approvals work when the owner can't come to the building? — fiber-optic-installation-orange-county
+- Do tenants have to be home when fiber is run through an occupied apartment in a two- or three-family house? — fiber-optic-installation-orange-county
+- Does each end of a fiber link need a dedicated electrical outlet? — fiber-optic-installation-orange-county
+- Can you install fiber in a bank branch or credit union on a village main street? — fiber-optic-installation-orange-county
 
 ## NYC (hub) — local research
 - Area scope: five boroughs (Manhattan, Brooklyn, Queens, Bronx, Staten Island). Local facts used on the page: Verizon fiber footprint figures (end-2013), NYC Council broadband-subscription gaps (24.5% no broadband subscription; Mott Haven CD01 44%), Big Apple Connect (220 developments / ~330,000 residents, through June 2028), ConnectNYC 2013 (unwired commercial buildings), 60 Hudson Street carrier hotel (Western Union Building, Tribeca), 32 Avenue of the Americas, 111 Eighth Avenue, Industry City (16 buildings, DataVerge meet-me room), HPD broadband guidance (basement entry point requirement).
@@ -702,3 +778,337 @@ fiber-optic-installation-bronx
 - Will you give a fixed price, or is the work charged by the hour?
 
 De-dup notes: after the concurrent Queens page appeared, four Bronx questions were replaced because Queens covers the same intent (provider offering free wiring, fiber into freezer rooms, vibration from elevated trains, installation warranty), plus the FAQ on routine maintenance (Queens asks about an annual fiber check). The repair heading was reworded because it masked to the same text as Queens' ("Fiber Link Down Somewhere in …?").
+
+## Westchester — local research (2026-10-17 batch, fiber-optic-installation-westchester-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md are reused where noted. To be merged into research/fiber-optic-installation.md by the main run.
+
+**Page thesis:** Westchester isn't short of carrier fiber; its problem is re-tenanting. Buildings and campuses wired for one corporate occupant (I-287 headquarters campuses, 1960s downtown towers) are being split among several tenants, converted to apartments or self-storage, or replaced by new downtown towers. The work is surveying inherited fiber and dividing or re-planning it so each new owner, tenant or household has its own tested, documented handoff. (Distinct from Manhattan = riser approvals, Brooklyn = warehouses/flood, LI = horizontal campuses, HV hub = distance and ground potential between scattered buildings.)
+
+### Reddit (local)
+- `reddit Westchester fiber internet Fios Optimum apartment building` · Firecrawl web search (excerpts only; reddit.com threads not opened).
+  - https://www.reddit.com/r/Westchester/comments/1exqjsk/internet_only_providers/ — excerpt: "Optimum has fiber service now in several Westchester towns, including Briarcliff and Ossining." → §10.5 H3 7 (attributed to commenters).
+  - https://www.reddit.com/r/Westchester/comments/1mbil21/optimum_vs_verizon/, /155gx0f/optimum_verizon/, /k4rfqc/optimum_vs_fios_for_internet/, /1w1kvlz/wifi_optimum_or_verizon/ — residents comparing Optimum and Verizon → §5 para 4 ("compare the two in thread after thread").
+- `Westchester County office building converted to apartments former corporate headquarters 2025` · Firecrawl → https://www.reddit.com/r/Westchester/comments/13a9nda/whats_everyones_take_on_conversion_of_office/ (title only: "What's everyone's take on conversion of office buildings into rental housing?") → §5 para after facts list (no year claimed).
+- `White Plains 1960s AT&T office building converted rentals apartments` · Firecrawl → https://www.reddit.com/r/Westchester/comments/1oo8vf0/white_plains_beats_houston_tx_in/ — excerpt: "White Plains added 468 new apartments after converting a 1960s AT&T office building". **NOT used**: conflicts with the 245-unit approval reported by The Journal News (could be a later revised count; unverified).
+- `Westchester fiber optic cabling contractor cost office building yelp reviews` · Firecrawl → https://www.reddit.com/r/Westchester/comments/1ihhuks/handyman_contractor/ — excerpt: "he had great reviews online … 6 months of absolute nightmare contractor insanity" → §14 pricing, national-vs-local paragraph.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+### Yelp 1–3★ — EMPTY. Query `Westchester fiber optic cabling contractor cost office building yelp reviews` (Firecrawl) returned only out-of-area Yelp search pages (San Francisco, Westminster CA, Merrick, Los Angeles); no Westchester fiber reviews.
+§10.5 substitutes (silo sources reused, quoted as published): unio.digital ($300–$800 per drop; 100–200 drops $15k–$30k; "orientation ranges") → H3 1; newtechcabling.com ("Small projects can take a day or two"; copper ~100 m) → H3 2, 3; lowvoltagenewyork.com (single-mode glass cheaper than OM4, SM optics 1.5–5×; OTDR $75–$150/hr, ~5%) → H3 4, 5; thenetworkinstallers.com (FBA 2025 $18.00/ft underground, $8.00 aerial) → H3 6; Westchester Telecom Network + Reddit Optimum excerpt → H3 7.
+
+### Office market (building stock)
+- `Westchester County office market report 2026 vacancy square feet` · Firecrawl search, then Firecrawl scrape (query) of https://lpc.com/wp-content/uploads/WCC_Office_MarketReport_Q2_2026.pdf — Lincoln Property Co. Q2 2026: overall vacancy 24.09%; inventory 22.66+ MSF; White Plains CBD 23.73% (1,254,200 SF vacant); East I-287 23.01% (2,009,500 SF vacant); West I-287 30.34%; Northern 16.21%; Southern 8.44%; Hudson Valley submarket 70.42%. Leases: Summit Health 86,991 SF renewal at 210 Westchester Ave (White Plains); Atlas Air 64,607 SF renewal at 1 North Lexington; Central National 62,888 SF renewal at 3 Manhattanville Rd, Purchase (East I-287); Jackson Lewis 45,868 SF new lease at 1 North Lexington; Cuddy & Feder 26,356 SF at 445 Hamilton Ave. → hero, §5 para 2 + facts, §8 cards, Q&A medical, "Reading Westchester's Office Numbers" section.
+- Same search, excerpts only: https://www.colliers.com/en/research/new-york/westchester-county-office-market-snapshot-q1-2026 ("net absorption swung positive by 48,861 square feet, reducing the market's availability rate to 20.7%. The 'flight to quality' trend…") → office numbers section. https://rmfriedland.com/market_report/2026-q1-westchester-office-leasing/ ("tracks 26,445,018 square feet of office space … Class A and B buildings of 50,000 …") → office numbers section.
+- Submarket geography (which towns fall in West vs East I-287) was NOT sourced; the page avoids assigning towns to West I-287 and only says East I-287 "takes in Purchase" (LPC lists 3 Manhattanville Rd, Purchase under East I-287).
+
+### Conversions / redevelopment
+- `Westchester County office building converted to apartments former corporate headquarters 2025` · Firecrawl search →
+  - https://westchestermagazine.com/home/ginsburg-white-plains-1-martine/ (Firecrawl scrape, July 7 2021): former office building, 188 loft-style apartments, Ginsburg Development; "the county's first major office-to-residential redevelopment". → §5, §7 card, landmarks, conversions section.
+  - https://www.multifamilyexecutive.com/design-development/corporate-park-converted-to-multifamily-real-estate-in-new-yorks-westchester-county_c (Firecrawl scrape, May 17 2021): Carraway, 421 units at 103 and 105 Corporate Park Drive, West Harrison; Toll Brothers and J.P. Morgan Global Alternatives; Platinum Mile "has seen a number of its former office sites demolished". → §5, landmarks, Campus Subdivision section, Q&A site selection.
+  - https://westfaironline.com/construction/plan-to-covert-office-building-into-self-storage/ (excerpt): "540 WPR LLC, which owns an office building at 504 White Plains Road" plan to convert to self-storage. → Q&A self-storage (municipality not stated on page).
+- `White Plains 1960s AT&T office building converted rentals apartments` · Firecrawl → https://www.lohud.com/story/news/local/westchester/white-plains/2017/03/09/white-plains-office-building-approved-apartments/98950974/ (scrape metadata, Mar 9 2017: "former AT&T building at 440 Hamilton Ave. will be converted into 245 luxury rental apartments"; search excerpt "12-story 1960s building"); https://dailyvoice.com/article/white-plains-reviews-plan-to-convert-old-att-building-to-apartments/ (excerpt: "boxy 12-story building at the corner of Hamilton Avenue and North Broadway"); https://westfaironline.com/economic-development/white-plains-common-council-approves-residential-conversion-for-former-att-building/ (excerpt: 245 units approved). → §5 facts, §7, landmarks, conversions section.
+- `New Rochelle downtown development apartments towers number of units since 2015 rezoning` · Firecrawl →
+  - https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster (search excerpt: "permits construction of up to 12 million square feet of new development, 6,370 housing units and 1,200 hotel rooms"; scrape returned no body text). → §5, facts, landmarks.
+  - https://www.pew.org/en/research-and-analysis/articles/2024/11/13/how-more-housing-revitalized-a-suburban-downtown (scrape, Nov 13 2024): zoning adopted late 2015; generic environmental review for the whole plan, later projects need lighter assessment; "only between a sixth and a fifth has been completed and fully occupied"; ~40-minute train to NYC. → §5 facts, Q&A New Rochelle.
+  - https://www.governor.ny.gov/news/governor-hochul-announces-completion-more-200-affordable-apartments-new-rochelle (excerpt: Highgarden Tower, 219-unit affordable building completed). → §8 card, landmarks.
+
+### Carrier / county fiber context
+- `Westchester County broadband study fiber network county government Westchester 2023 2024` · Firecrawl →
+  - https://www.intelligentcommunity.org/westchester_county_new_york (scrape, undated): Westchester Telecom Network, multi-gigabit backbone "over 800 miles … into every corner of the county"; county pooled budgets of 43 local governments, a library system, hospitals, school and water districts ($50M over five years) so Cablevision Lightpath built it; 3,500+ companies connected; more than half of municipal agencies; all schools, libraries and hospitals. → §5 para 4, facts, County Network section, Q&A village offices, Public Sector section, §10.5 H3 7.
+  - https://doit.westchestercountyny.gov/images/stories/DoIT%20Annual%20Report%202023-2024%20WEB%20ADA.pdf (scrape): "expanded in 2001 when DoIT contracted with Cablevision Lightpath to build the countywide fiber-optic network known as the 'Westchester Telecom Network'"; county-negotiated pricing for municipalities. → same sections.
+- `Optimum fiber Westchester towns available expansion Altice announcement` · Firecrawl → https://investors.optimum.com/news-events/press-releases/detail/202/optimum-reaches-500000-customers-on-100-fiber-internet (scrape, Nov 21 2024): 500,000 fiber customers; over 2.9 million homes passed across NY, NJ, CT; no Westchester mention. → County Network section.
+- Hub source reused, not re-fetched: communitynetworks.org 2016 four-city gigabit compact — NOT used on this page (already on the HV hub).
+
+### Storms / flooding
+- `Hurricane Ida 2021 flooding Westchester Mamaroneck basements businesses damage` · Firecrawl → https://abc7ny.com/post/flooding-brooklyn-nj-nyc-flooded/10994078/ (Sept 2 2021, full excerpt): Mamaroneck "as much as 14 feet of water" in some neighbourhoods; 3 dead in Westchester County; basements filling, water rising to first floors; cars abandoned. → §5 facts, Storm and Flood section. https://www.townofmamaroneckny.gov/CivicSend/ViewMessage/message/153573 (excerpt, Sept 2021 newsletter) — background only.
+- `Tropical Storm Isaias Westchester Con Edison customers without power 2020 Westchester` · Firecrawl → https://abc7ny.com/post/widespread-destruction-hundreds-of-thousands-still-in-the-dark/6345637/ (excerpt: "ConEd said 260,000 customers were left without power … throughout New York City and Westchester County"); https://www.lohud.com/story/weather/2020/08/12/eight-days-after-isaias-many-without-power-wednesday-morning-hudson-valley/3352805001/ (excerpt: "Eight days after … Con Edison still has 1,357 customers without power"). → Storm and Flood section.
+
+### Landmarks / municipal structure
+- `Westchester County Airport HPN terminal acres Harrison Purchase` · Firecrawl → https://en.wikipedia.org/wiki/Westchester_County_Airport (scrape): county-owned; North Castle, Harrison, Rye Brook; 702 acres; opened 1942; runways 16/34 6,549 ft and 11/29 4,451 ft; three-level terminal built 1995 ($35M), six gates; NY–CT border on eastern perimeter; ~33 miles north of Midtown. → landmarks card.
+- `Purchase College SUNY campus acres buildings Anderson Hill Road` · Firecrawl → https://www.purchase.edu/about/our-campus/ (scrape: 500-acre former estate, Edward Larrabee Barnes); https://www.purchase.edu/ (excerpt: "only four-year SUNY in Westchester County … 735 Anderson Hill Road"). → landmarks card.
+- `Ridge Hill Yonkers mixed-use square feet opened 2011 Cross County Parkway` · Firecrawl → https://maps.apple.com/place?place-id=I5370BAFC6F56FF0E (excerpt: "located between Interstate 87 and the Sprain Brook Parkway in Yonkers … grand opening in 2011"); https://en.wikipedia.org/wiki/Ridge_Hill_Mall (excerpt). → §8 Yonkers card.
+- `Westchester County cities towns villages number ny.gov counties westchester population` · Firecrawl → https://www.ny.gov/counties/westchester (excerpt: 48 municipalities, White Plains county seat, population 990,817 (2023), full municipal list) → §5 facts, §8.5, Public Sector section, LocalBusiness areaServed list; https://en.wikipedia.org/wiki/Westchester_County,_New_York (excerpt: six cities, 19 towns, 23 villages; 450 sq mi; Yonkers 211,569 in 2020) → §5 facts, §8 Yonkers card.
+
+### Licensing / permits / digging
+- Hub sources reused (not re-fetched): https://consumer.westchestergov.com/trades/home-improvement-contractors ("Westchester law requires that home improvement contractors have a county license"; no low-voltage mention) → §8.5 county licensing callout. https://www.cenhud.com/en/my-energy/safety/dig-safely (811, at least two and no more than 10 days before digging) → §8.5, Campus Subdivision section.
+- Westchester municipal building-department rules for low-voltage work: EMPTY (not researched per municipality; page says only that low-voltage work within a filed renovation follows that job's permit, and that each of the 48 municipalities has its own building department).
+- Asbestos FAQ: no legal source fetched; the answer states only practice (stop and ask for the owner's survey), no legal claim.
+
+### Local news on Westchester fiber-installation contractors 2026 — EMPTY (none retrieved).
+
+### Pricing used (blueprint §9, Westchester 1.25×; same table as HV hub research)
+$44 termination · $50 OTDR/strand · $438 MM drop · $500 SM drop · $5,625–$8,750 12-strand OM4 · $10,000–$18,750+ 24-strand OS2 · from $3,000 second room · starter $1,656 (24×$44 + 12×$50) · $195/hr 3-hr min ($585) protected. DISCREPANCY for review (already flagged by HV hub): structured-cabling-pricing-westchester-county configurator shows fiber drops at different figures; this page follows §9 as instructed.
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected); every third file of `ls images/network` starting at position 1
+| File (images/fiber-optic-installation/) | Source (images/network/, position) |
+|---|---|
+| fiber-optic-installation-westchester-county-port-labels-cable-map.webp | network-installation-bronx-cable-labeling-port-map.webp (1) |
+| fiber-optic-installation-westchester-county-block-wall-drill-penetration.webp | network-installation-bronx-core-drill-cmu-wall-penetration.webp (4) |
+| fiber-optic-installation-westchester-county-jhook-open-ceiling-pathway.webp | network-installation-bronx-jhook-ceiling-pathway-bundles.webp (7) |
+| fiber-optic-installation-westchester-county-emt-conduit-riser-pull.webp | network-installation-bronx-network-drop-conduit-emt-riser.webp (10) |
+| fiber-optic-installation-westchester-county-two-tech-corridor-pull.webp | network-installation-bronx-two-tech-corridor-cable-pull.webp (13) |
+| fiber-optic-installation-westchester-county-closet-before-after.webp | network-installation-brooklyn-network-rack-cleanup-before-after.webp (25) |
+| fiber-optic-installation-westchester-county-finished-rack-ups.webp | network-installation-dutchess-county-finished-network-rack-firewall-ups.webp (34) |
+| fiber-optic-installation-westchester-county-corridor-bundle-lift.webp | network-installation-long-island-idf-riser-cable-bundle.webp (61) |
+| fiber-optic-installation-westchester-county-ceiling-tile-cable-feed.webp | network-installation-westchester-county-ceiling-tile-cable-drop-occupied-office.webp (223) |
+| fiber-optic-installation-westchester-county-certification-tester-wall-jack.webp | network-installation-westchester-county-fluke-dsx-certification-pass.webp (226) |
+| fiber-optic-installation-westchester-county-tone-probe-panel-trace.webp | network-installation-westchester-county-network-cable-toner-tracing.webp (229) |
+Note: all of these library photos show copper (Cat6 boxes, blue patch cable), not fiber; alts and captions describe only what is visible. Several look AI-generated (rendered logos and box text, "844-386-7238" printed on shirts) — same concern already logged for the LI page; for Anwar's review.
+
+### Keyword plan (Westchester page)
+Service: fiber optic installation Westchester County, multi-tenant fiber backbone, carrier demarc extension, conversion fiber, campus fiber, fusion splicing, OTDR testing, inherited fiber survey. Problem: single-tenant building re-let, old corporate data centre, telephone room full of old equipment, undocumented fiber, campus split into parcels, office-to-residential conversion, flooded basement telecom room, storm power loss. Technology: OS2, OM4, OFNR/OFNP, indoor/outdoor, armoured, lockable tenant enclosures, meet-me panel, innerduct. Industry: office landlords, property managers, developers, medical tenants, self-storage, municipalities, mixed-use towers. Geographic: Westchester, White Plains, Platinum Mile, Purchase, Harrison/West Harrison, Rye Brook, Elmsford, Tarrytown, Yonkers, Ridge Hill, Mount Vernon, New Rochelle, Mamaroneck, Port Chester, Ossining, Peekskill, Mount Kisco, Armonk, Somers, North Salem, Pound Ridge.
+
+### Question register additions
+fiber-optic-installation-westchester-county
+§9 Questions Answered (and other question headings):
+- Fiber Link Dead in a Westchester Building? — fiber-optic-installation-westchester-county
+- We're re-letting a former corporate headquarters off I-287 floor by floor — should the landlord own the backbone, or should each tenant bring its own? — fiber-optic-installation-westchester-county
+- The old corporate data centre in our building is being torn out — what happens to all the fiber that ran to it? — fiber-optic-installation-westchester-county
+- Can tenants on different floors of one Westchester office building share a building-owned fiber backbone without sharing a network? — fiber-optic-installation-westchester-county
+- The departed company's telephone room is still full of its old equipment — can it become the entrance room for our new tenants' carriers? — fiber-optic-installation-westchester-county
+- Should the office-era fiber in a building being converted to apartments be reused, re-terminated or stripped out? — fiber-optic-installation-westchester-county
+- Our office building is becoming self-storage — does it still need fiber, and where? — fiber-optic-installation-westchester-county
+- When should a developer building under New Rochelle's downtown overlay bring in a fiber contractor? — fiber-optic-installation-westchester-county
+- Our village offices connect to the county's Westchester Telecom Network — who is responsible for the fiber after the county's handoff? — fiber-optic-installation-westchester-county
+- Our medical practice is moving into a suite in a Harrison or Purchase office park — what has to be in place before the clinical systems move? — fiber-optic-installation-westchester-county
+- We're choosing between a downtown White Plains tower and an I-287 campus building — how does fiber change the comparison? — fiber-optic-installation-westchester-county
+- Who owns the fiber after a building changes hands? (§10 EQUIPMENT table heading) — fiber-optic-installation-westchester-county
+- Westchester Tenant Offline Right Now? (final repair heading) — fiber-optic-installation-westchester-county
+§17 FAQ:
+- Do you cover northern Westchester towns such as Somers, North Salem and Pound Ridge, or only the southern cities? — fiber-optic-installation-westchester-county
+- When one tenant expands onto a neighbour's floor, can its strands in the shared backbone be reassigned? — fiber-optic-installation-westchester-county
+- Can fiber work start while the outgoing corporate tenant is still moving out? — fiber-optic-installation-westchester-county
+- Can you work in an older Yonkers or Mount Vernon building that has no drawings at all? — fiber-optic-installation-westchester-county
+- Can fiber be run through the parking garage under an office or apartment building? — fiber-optic-installation-westchester-county
+- How much notice do you need before a Westchester tenant's move-in date? — fiber-optic-installation-westchester-county
+- Can one tenant lease its spare strands to another tenant in the same building? — fiber-optic-installation-westchester-county
+- Will you meet our broker and a prospective tenant at the building to answer fiber questions? — fiber-optic-installation-westchester-county
+- What happens if we find asbestos-containing material in the ceilings or risers of an older building? — fiber-optic-installation-westchester-county
+- Who do we call if a Westchester fiber link fails outside business hours? — fiber-optic-installation-westchester-county
+- Can you remove the old corporate cabling without disturbing the fiber we're keeping? — fiber-optic-installation-westchester-county
+- Do you install fiber for a business run from a house in Westchester? — fiber-optic-installation-westchester-county
+
+De-dup notes: checked against the register and the parallel Rockland/Orange drafts. Replaced this page's county-licence FAQ (Orange asks the same about its electrician licence), its COI, sale-documentation, phasing and spec-suite FAQs (Rockland covers those intents), and reworded two §9 questions to avoid Rockland's "strands of our own from a one-owner backbone" and Orange's "stop every provider drilling a new hole". Rockland's thesis (single-owner pharma/corporate campuses being split) overlaps this page's re-tenanting theme; Westchester's angle is downtown towers, conversions, the county network and office-market data. The main run should re-check meaning-level overlap after all three are final.
+
+## Rockland — local research (2026-10-17 batch, fiber-optic-installation-rockland-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md are reused where noted; only Rockland research is added here. To be merged into research/fiber-optic-installation.md by the main run.
+
+**Page thesis:** Rockland fiber work is inheritance work. The county's big commercial sites were built for one owner in the 1960s–70s growth years and are now being split, sold and converted (Hudson Valley iCampus from the Pfizer/Lederle site, Blue Hill Plaza's proposed partial residential conversion, Palisades Center's 2026 foreclosure sale, Nanuet Town Centre's apartments, Bradley Corporate Park and 108 Route 303 changing hands). The fiber inside them has to be found, tested, divided between owners and documented, and new links cross Orange & Rockland poles, county roads and the New Jersey line. Not a lightning/distance thesis (hub), not a riser thesis (Manhattan), not a warehouse thesis (Brooklyn/Orange).
+
+### Reddit (local)
+- Query: `reddit Rockland County internet fiber Fios Optimum Nanuet Pearl River` · Firecrawl web search (excerpts only; reddit.com threads not opened — Firecrawl does not scrape reddit).
+  - https://www.reddit.com/r/Rockland/comments/1i0qwu0/optimum_vs_fios_in_rockland/ — excerpt: "Optimum - at least, in Nanuet - is a disaster. It's a DOCSIS 3.1 cable service, so the upload is asymmetric." → §10.5 H3 1 (quoted as one resident's opinion).
+  - https://www.reddit.com/r/Rockland/comments/1ts3qhm/wifi_router_in_pearl_river/ — excerpt: "Fios vs Optimum is very town-dependent. I've had both for a few years each. In Pearl River Fios is better than Optimum…" → §5 para 4; §10.5 H3 1.
+  - https://www.reddit.com/r/Rockland/comments/1ejr3em/optimum_fiber_outage/ — excerpt: "Is there a large optimum outage in Rockland? … I just got fiber yesterday and then it's out today" → §10.5 H3 1 (carrier fiber ≠ owner fiber; recorded as a resident post only).
+  - https://www.reddit.com/r/Rockland/comments/1n447ip/nanuet_mall_rockland_county/ — excerpt: "Opened as an enclosed mall in 1969, it was redeveloped into an outdoor lifestyle center called 'The Shops at Nanuet', opening in 2013." → §8 Route 59 card (1969 stated as the poster's claim; 2013 corroborated by https://en.wikipedia.org/wiki/Nanuet_Town_Centre excerpt "Shops at Nanuet debuted in 2013").
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted as published):
+- Query: same Reddit query → https://ispreports.org/internet-service-providers-rockland-county-ny/ (search excerpt): "Optimum offers Fiber service to 91.5% of Rockland County homes." → §10.5 H3 1 (attributed to the comparison site, not stated as fact).
+- Silo sources reused: unio.digital ($300–$800 per drop; aerial needs attachment rights) → §10.5 H3 3; newtechcabling.com ("Small projects can take a day or two") → §10.5 H3 5; lowvoltagenewyork.com (indoor $1–$6/ft) → §10.5 H3 4; thenetworkinstallers.com (FBA aerial median $8.00/ft) → §10.5 H3 3.
+- Query: `OM1 62.5/125 multimode legacy fiber orange jacket bandwidth distance 10 gigabit 33 meters` · Firecrawl search → https://www.fs.com/blog/multimode-fiber-types-om1-vs-om2-vs-om3-vs-om4-vs-om5-1090.html (excerpt: OM1 62.5/125 µm, orange jacket, 10 GbE up to 33 m); https://www.truecable.com/blogs/cable-academy/guide-to-multimode-fiber-types (excerpt: "OM1 typically comes with an orange jacket · Core size of 62.5 micron · Supports 10 Gigabit Ethernet, but only up to 33 meters"). → §9 legacy-multimode question; §10.5 H3 2; §10 equipment.
+
+### Yelp 1–3★ — EMPTY
+- Query: `yelp network cabling fiber contractor Rockland County Nanuet Spring Valley reviews` · Firecrawl search → Yelp search-result pages only (e.g. https://www.yelp.com/search?find_desc=Telecommunications&find_loc=Spring+Valley%2C+NY+10977 — one "Cabling & Fiber Optic Wiring" listing at 51 Rockland Ctr, Nanuet, 4.0 from 1 review). No 1–3★ review text retrieved. Not used.
+
+### County facts
+- Query: `Rockland County five towns villages square miles population ny.gov` · Firecrawl search →
+  - https://www.ny.gov/counties/rockland (excerpt): area 199 sq miles; established 1798; population 340,807 (2023); municipalities list (Clarkstown, Haverstraw, Orangetown, Ramapo, Stony Point and their villages; Spring Valley shared Clarkstown/Ramapo; Nyack shared Orangetown/Clarkstown; Pomona shared Ramapo/Haverstraw). → §5 facts, §13, FAQ coverage.
+  - https://en.wikipedia.org/wiki/Rockland_County,_New_York (excerpt): land 173.55 sq mi; 2020 pop 338,329; census table 1950 89,276 → 1960 136,803 → 1970 229,903; Ramapo 148,919 (2020), Stony Point 14,655. → §5 para 1 (growth 1950–1970), §5 facts.
+  - https://explorerocklandny.com/about/communities/ (excerpt): five towns, 19 incorporated villages, 16 hamlets. → §5 facts.
+
+### Building stock, campuses, corridors (redevelopment thesis)
+- Query: `Pfizer Pearl River campus sold redevelopment buildings acres` · Firecrawl search →
+  - https://www.industrialrealtygroup.com/portfolio/icampus/ (scrape): Hudson Valley iCampus, Pearl River; ~2 million sq ft of laboratory, pharmaceutical manufacturing, office and support buildings; 200-acre campus; 20 miles north of Manhattan; Pfizer leased back ~1.26 million sq ft and will retain and operate 507,263 sq ft and 25 acres on the south side; future vision "mixed-use, multi-tenant campus". → §5 para 2, §5.5, thesis section, §8 card, §13 card.
+  - https://www.lohud.com/story/news/local/rockland/2015/11/18/pfizer-sells-200-acres-pearl-river-campus/76005650/ (scrape, Nov 18 2015): Pfizer sold about 200 acres to Industrial Realty Group; 2 million sq ft and "about 38 buildings"; Pfizer retains about 25 acres including three buildings. → §5 para 2, thesis section.
+  - https://hvicampus.com/meetings-underway-on-pfizer-470m-rockland-expansion/ (scrape, Aug 15 2022, reprinting Westchester & Fairfield County Business Journals): Pfizer in Rockland since acquiring Wyeth in 2009; 2015 sale of 207 acres and 25 buildings at 401 N. Middletown Road to IRG; Pfizer continues to own 33 acres, ~850,000 sq ft; $470M plan incl. new 260,000 sq ft lab building for 370 colleagues, "connected buildings". (Building/acre counts differ between sources; page attributes each figure to its source.) → §8 card, §13 card.
+- Query: `Blue Hill Plaza Pearl River office complex square feet` · Firecrawl search →
+  - https://en.wikipedia.org/wiki/Blue_Hill_Plaza (scrape): 21-storey tower + 8-storey building on 90 acres; nearly 1.2M sq ft; "about 40 percent of the office space leasing market in Rockland County" (citing Pearl River Patch, 2011); designed by Skidmore, Owings & Merrill; completed 1972; ~3,000 parking spaces; "fiber available from two central offices, entering two separate telephone equipment rooms"; on-site O&R substation; borders Bergen County NJ. (Article tagged as promotional in places — figures used are attributed.) → §5, §7 card, §8 card, §13 card, thesis.
+  - https://rcbizjournal.com/2025/09/24/blue-hill-plaza-struggling-with-vacancies-proposes-partial-conversion-to-luxury-rental-apartments/ (search excerpt only; scrape failed — all engines blocked): "The proposal calls for changing 2 Blue Hill Plaza offices to 341 luxury units"; "two-building, 1.2 million square-foot office complex, situated on 90 acres along Route 304". → §5 para 2, §9 partial-conversion question, §13 card. Stated as a proposal.
+- Query: `Palisades Center West Nyack Black Diamond foreclosure 2026 plans` · Firecrawl search → https://spinosoreg.com/resources/black-diamond-capital-management-palisades-center-long-term-ownership-operational-plans/ (excerpt, Feb 13 2026): Black Diamond funds plan to be long-term owners of the 2.3 million sq ft West Nyack property, operated by Spinoso; https://hudsonvalley.news12.com/2026/02/06/palisades-center-mall-foreclosure-auction-goes-for-175-million/5TQCf7BHIIywOsEqXQfQcj (excerpt): auction went for $175 million, no higher bids. → §5 facts, §8 card, §9 retail-handover question, §13 card.
+- Query: `Shops at Nanuet former Nanuet Mall redevelopment opened 2013 Route 59` · Firecrawl search → https://www.lohud.com/story/news/local/rockland/2025/05/28/nanuet-town-centre-mall-could-add-280-apartments-in-rockland-county-new-york/83648817007/ (scrape, May 28 2025): new owners of Nanuet Town Centre (aka the Shops at Nanuet) embracing "live-work-play", adding apartments; outdoor mall along Route 59; Alexander Property Holdings. Apartment count only in URL slug — not used. → §8 Route 59 card.
+- Query: `Orangeburg Route 303 industrial park warehouses Rockland Corporate Park Blauvelt Tappan` · Firecrawl search →
+  - https://re-nj.com/onyx-angelo-gordon-acquire-1-2-million-sq-ft-industrial-park/ (scrape, May 9 2019): Bradley Corporate Park, 500 Bradley Hill Road, Blauvelt; 16 buildings across 180 acres; 1.2M sq ft; "about 90 percent occupied"; new owners "plan to upgrade the existing building infrastructure and lease up the current vacancies"; access to I-287, Thruway, Palisades Parkway, Route 303. → §8 card, §9 industrial-landlord question, §13 card.
+  - https://rocklandnews.com/major-property-sales-drive-investment-across-rockland-county/ (scrape, July 8 2026): 54-acre industrial property at 108 Route 303, Tappan, bought by a PDI affiliate for ~$79M, associated with plans for a 337,000 sq ft industrial facility; Monsey Center (Route 59 & Saddle River Road) sold ~$10M; a Spring Valley strip center ~$2.9M; combined nearly $97M. → §5 facts, §8 cards, §9 strip-plaza question.
+- Query: `Rockland Psychiatric Center Orangeburg campus redevelopment Orangetown acres buildings` · Firecrawl search → https://www.lohud.com/story/news/local/rockland/2017/02/02/rockland-psych-center-data-hub/97309060/ (scrape, Feb 2 2017): Orangetown Town Board considering selling 60 town-owned acres at the former Rockland Psychiatric Center to a not-yet-named data-center developer. Outcome not researched — stated only as a 2017 proposal. https://www.orangetown.com/wp-content/uploads/Chapter_2_Description_of_Proposed_Action.pdf (excerpt: rezoning ~97 acres of town-owned RPC land, 575 mostly age-restricted units) — undated, NOT used. → §8 Orangeburg card (2017 item only).
+- Query: `Rockland Community College Suffern campus acres buildings Viola` · Firecrawl search → https://www.suny.edu/campuses/rockland/ (excerpt): 145 College Road, Suffern; 175-acre campus. → §13 card.
+- Query: `Montefiore Nyack Hospital campus expansion building Route 9W Nyack` · Firecrawl search → https://montefiorenyackfoundation.org/the-transformation-project-building-the-future-of-care/ (scrape, Fall 2025 newsletter): multi-year Transformation Campaign; Phase III Reception Center incl. "Integrated Emergency Communication and Response Systems"; front door to welcome "more than 180,000 patients and visitors each year"; "130-year history". Facebook excerpt "$125 million capital transformation since 2017" — NOT used (social post only). → §7 healthcare card, §13 card.
+- Query: `Nyack Main Street Broadway historic downtown buildings 19th century commercial district` · Firecrawl search → https://visitnyack.org/itinerary-historical-nyack/ (excerpt): "The Vanilla Factory is one of the earliest brick structures in Nyack, built in 1839". → §7 river-village card.
+
+### Utility poles, county roads, state line
+- Query: `Orange and Rockland Utilities pole attachment fiber third party attacher application` · Firecrawl search → https://www.oru.com/en/small-medium-sized-businesses/project-center/utility-pole-attachements-private-lighting (scrape): Joint Use Facilities handles projects "constructing a new communications line between buildings, installing security cameras, or running new fiber optics"; two License Agreements "for the appropriate state" (New York, New Jersey); Pole Attachment Survey Sheet, power supply, insurance certificates, tagging samples, application + pre/post-survey fees; fees: $350 initial agreement processing; make-ready labour $163.82/h overhead, $154.11/h underground; survey $8.40/pole pre-walk, $6.30/pole post-walk, $6.30 periodic inspection; attachment rate NY $26.55, NJ $12.96. → "Poles, Roads and the State Line" section, §10.5 H3 3, §9 NJ question.
+- Same query → https://www.oru.com/en/community-affairs/community-issues/eruv (scrape): eruv attachments on O&R and Rockland Electric poles installed "consistent with practices used for all other pole attachments such as security cameras, Christmas lighting and private communication lines"; owned by the Rockland Eruv Association; rates filed with NYS PSC or NJ BPU. → poles section (context: poles already carry many private attachments).
+- Query: `Rockland County Highway Department permit work within county right-of-way highway work permit utility` · Firecrawl search → https://www.rocklandcountyny.gov/departments/highway/permits-division (scrape): permits required for "Installing any utilities or other excavations within a County Road Right-of-Way"; permit types incl. "Road Work Utility Permit (Private)"; applications processed by permit technicians, reviewed by a Licensed Professional Engineer, approved by the Superintendent of Highways; "Typical Trench Restoration Detail" specification. → §9 county-road question, §8.5 callout, process step 3.
+- Query: `Rockland County news 2026 fiber optic broadband installation Clarkstown Orangetown Ramapo` · Firecrawl search → https://www.rocklandcountyny.gov/departments/highway/highway-drainage-projects-construction/annual-paving (excerpt: 2026 Paving Program, e.g. Old Middletown Rd and Little Tor Rd in Clarkstown) → §9 county-road question (coordinate crossings with paving); https://documents.dps.ny.gov/public/Common/SearchResults.aspx?MC=1&CN=4135 (excerpt: 08/04/2026 petition of Cablevision of Rockland/Ramapo, LLC to renew its franchise with the Village of Chestnut Ridge) → §5 para 4 (cable franchises are granted municipality by municipality). Local news on fiber-installation contractors: EMPTY.
+- Query: same county-permit query → https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/traffic-operations-section/highway-permits (search excerpt only): "Who needs a highway work permit? Developers, utility companies, municipalities, residents, and others desiring to conduct activity within the right of way." → poles/roads section (state routes 59, 303, 9W). That those routes are state highways is stated from their NY route numbering, not from a fetched NYSDOT jurisdiction list — flag for review.
+- New Jersey adjacency: Blue Hill Plaza Wikipedia (borders Bergen County; power from a Montvale NJ substation) and re-nj (Bradley Corporate Park "about six miles north of Bergen County"). → §9 NJ question, §8.
+
+### Storm history
+- Query: `Piermont Hurricane Sandy flooding storm surge businesses Rockland 2012` · Firecrawl search → https://rocklandtimes.com/2012/11/02/the-impact-of-hurricane-sandy/ (scrape, Nov 2 2012): O&R called Sandy "the worst storm in company history"; 230,000 outages vs Snowtober 134,000 and Irene 120,000; 80% of customers lost power; Piermont business district dark, basements pumped; Nyack closed streets to the riverfront; Stony Point Bar-Mar trailer park evacuated; Route 59 traffic lights out in Nanuet. → §5 facts, §7 river-village card, §9 (equipment placement in the empty-building question).
+- Silo/hub source reused: Earth Networks 2020 NY lightning report (in research file, HV hub section): Rockland 64,575 pulses, 28 thunder days — lowest of the six HV counties. → §5 para 3 (why Rockland's problem is not mainly lightning).
+- Query: `Rockland County Hurricane Ida 2021 flooding Spring Valley Suffern damage` · Firecrawl search → excerpts only (lohud live blog, ABC7 Facebook post on Spring Valley flash flooding). Not used (no fetched article). EMPTY.
+
+### Local licensing / permits
+- Query: `Rockland County home improvement license Chapter 250 low voltage electrician license requirement` · Firecrawl search → https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits (scrape): Master Electrician Licence and Electrical Inspection Agency under Chapter 250 Articles I and II; Home Improvement Licence under Chapter 286 ("all individuals performing home improvement work must obtain a Home Improvement License"), three application types (experience, out-of-jurisdiction, surety bond); Chapter 286 version "Effective May 14, 2026"; renewals online only since April 2025. → §8.5 callout, FAQ licence/paperwork.
+- https://ecode360.com/9665912 (Firecrawl query mode): Chapter 250 page returned no text on low-voltage / communications / fiber exemptions. → page makes NO claim that either county licence does or doesn't cover fiber; it tells owners to ask and says AESS confirms in writing which applies.
+- https://www.businesslicenses.com/... (excerpt: lists "low voltage" among activities needing licences) — third-party aggregator, NOT used.
+
+### Pricing used (existing AESS prices × blueprint §9 Rockland 1.30; same table as HV hub research)
+$46/termination · $52/strand OTDR · $455 multimode drop · $520 single-mode drop · 12-strand OM4 backbone $5,850–$9,100 · 24-strand OS2 building-to-building $10,400–$19,500+ · second telecom room with fiber link from $3,120 · starter = 24 terminations + 12 OTDR = $1,728 · $195/hr, 3-hr minimum ($585) protected. DISCREPANCY (as noted in HV research): live structured-cabling-pricing-rockland-county configurator shows $453/$517 per drop; page follows blueprint §9.
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+Taken only from `ls images/network` positions 2,5,8,11,… (every third from 2). Each viewed before use.
+| File (images/fiber-optic-installation/) | Source (images/network/, position) |
+|---|---|
+| fiber-optic-installation-rockland-county-inherited-closet-before-after.webp | network-installation-bronx-network-rack-cleanup-before-after.webp (11) |
+| fiber-optic-installation-rockland-county-finished-rack-firewall-ups.webp | network-installation-bronx-finished-network-rack-firewall-ups.webp (5) |
+| fiber-optic-installation-rockland-county-switch-sfp-rack-mount.webp | network-installation-bronx-managed-poe-switch-rack-install.webp (8) |
+| fiber-optic-installation-rockland-county-reel-boxes-fitout-staging.webp | network-installation-bronx-cat6-cable-box-staging-fitout.webp (2) |
+| fiber-optic-installation-rockland-county-ceiling-access-point-office.webp | network-installation-bronx-wireless-access-point-ceiling-install.webp (14) |
+| fiber-optic-installation-rockland-county-ceiling-tile-cable-feed.webp | network-installation-rockland-county-ceiling-tile-cable-drop-occupied-office.webp (164) |
+| fiber-optic-installation-rockland-county-corridor-bundle-idf.webp | network-installation-rockland-county-idf-riser-cable-bundle.webp (167) |
+| fiber-optic-installation-rockland-county-emt-conduit-block-wall.webp | network-installation-long-island-network-drop-conduit-emt-riser.webp (65) |
+| fiber-optic-installation-rockland-county-patch-panel-punchdown.webp | network-installation-nyc-patch-panel-punchdown-rack.webp (113) |
+| fiber-optic-installation-rockland-county-hammer-drill-block-wall.webp | network-installation-long-island-core-drill-cmu-wall-penetration.webp (59) |
+| fiber-optic-installation-rockland-county-certification-tester-pass.webp | network-installation-dutchess-county-fluke-dsx-certification-pass.webp (35) |
+Note for Anwar: every library photo shows a technician's face and an 844-386-7238 number on shirts/signs, and several show garbled box/label text typical of generated images (e.g. "H50 MHz", "TRUENET"). None shows fiber itself. Flagged for review; captions describe only what is visible and never claim a Rockland job.
+
+### Keyword plan (Rockland page)
+Service: fiber optic installation Rockland County, campus fiber, fiber re-termination, fiber audit/inventory, fusion splicing, OTDR testing, building-to-building fiber, fiber documentation. Problem: inherited/unmapped fiber, campus split between owners, partial office-to-residential conversion, empty buildings brought back, legacy OM1 multimode, county-road crossing, NJ state line, pole attachment paperwork, retail centre ownership change. Technology: OS2, OM4, OM1 legacy, MPO, splice enclosures, locking trays, OTDR, light source/power meter, armored, indoor/outdoor. Industry: research/pharma campuses, suburban office towers, malls and strip plazas, flex/industrial parks, hospitals, colleges, schools and congregations on adjoining lots, river-village storefronts. Geographic: Rockland County, Clarkstown, Orangetown, Ramapo, Haverstraw, Stony Point, Pearl River, Orangeburg, Blauvelt, Tappan, Nanuet, West Nyack, Nyack, Piermont, Spring Valley, Monsey, Suffern, New City, Route 59, Route 303, Route 304, Veterans Memorial Drive.
+
+### Question register additions
+fiber-optic-installation-rockland-county
+§9 Questions Answered:
+- On our Pearl River campus the main fiber room is inside a building leased to another company — what happens when our strands need work there? — fiber-optic-installation-rockland-county
+- Part of our Rockland office complex is being turned into apartments — how do we keep the offices' fiber out of the residential building? — fiber-optic-installation-rockland-county
+- Nobody can tell us where the fiber on our newly bought Rockland property runs — how do you trace it from end to end? — fiber-optic-installation-rockland-county
+- The seller kept one building on our campus and still rides the same fiber — how do we separate the two networks without cutting them off? — fiber-optic-installation-rockland-county
+- Our two buildings face each other across a county road — what does it take to get private fiber from one side to the other? — fiber-optic-installation-rockland-county
+- We have one site in Rockland and another a few miles over the line in Bergen County — can a single private fiber link serve both? — fiber-optic-installation-rockland-county
+- Our building sat half-empty for years — is the fiber that was left in it still usable? — fiber-optic-installation-rockland-county
+- Our inherited backbone is orange-jacketed multimode from decades ago — can it carry today's network? — fiber-optic-installation-rockland-county
+- The parking-lot cameras at our Route 59 plaza ride on fiber that runs through a tenant's unit — how do we take them back? — fiber-optic-installation-rockland-county
+- Between tenants in our Blauvelt or Orangeburg industrial building, what fiber should we leave in place for the next one? — fiber-optic-installation-rockland-county
+- Our school or congregation uses neighbouring houses in Ramapo that belong to different owners — what agreement does a fiber link between them need? — fiber-optic-installation-rockland-county
+- Our offices sit on both sides of the Hudson — can our own fiber cross between Rockland and Westchester? — fiber-optic-installation-rockland-county
+- The shopping centre where we lease is being sold — what happens to our fiber and our carrier's fiber during the handover? — fiber-optic-installation-rockland-county
+§17 FAQ:
+- Which parts of Rockland do you cover — every town, the river villages and Monsey? — fiber-optic-installation-rockland-county
+- Can you test the fiber a seller says is included before we close on a Rockland building? — fiber-optic-installation-rockland-county
+- Will you document and label an existing Rockland fiber plant without installing anything new? — fiber-optic-installation-rockland-county
+- What licence and insurance paperwork can you hand a Rockland property manager before work starts? — fiber-optic-installation-rockland-county
+- Can fiber work be done inside the lab and manufacturing buildings on Rockland's research campuses? — fiber-optic-installation-rockland-county
+- What does it cost to have an inherited fiber plant tested and mapped in Rockland? — fiber-optic-installation-rockland-county
+- How do you handle parking and deliveries in Nyack, Piermont and the other river villages? — fiber-optic-installation-rockland-county
+- How is the cost of shared fiber divided when a Rockland campus has several owners? — fiber-optic-installation-rockland-county
+- Can you supply fiber routing drawings for an Orangetown or Clarkstown site-plan application? — fiber-optic-installation-rockland-county
+- Can a construction trailer or sales office on a Rockland redevelopment site get a temporary fiber link? — fiber-optic-installation-rockland-county
+- Can the work start with one building on a split campus and reach the others later? — fiber-optic-installation-rockland-county
+- Can our own consultant witness the acceptance tests on a Rockland fiber job? — fiber-optic-installation-rockland-county
+
+De-dup notes: no question on pole attachment permission (LI §9 covers it — O&R process is in a body section instead), flooding/cellar placement (Manhattan/Brooklyn), removal of a previous tenant's fiber (Manhattan), property managers with several parks (LI), working nights/weekends (NYC), coordinating with the ISP (Brooklyn), conversion planning from scratch (Manhattan — this page's conversion question is about separating two uses inside a partly converted complex), area pricing (LI/Manhattan — explained in body only). After reading the parallel Westchester and Orange drafts: reframed the campus-tenant question (Orange has 'own fiber in a former hospital without the landlord's network') to access to a main room inside another tenant's building; reframed the plaza question (Orange has 'stop every provider drilling') to taking landlord cameras back from a tenant's path; reframed the adjoining-houses question (Orange has 'two adjoining buildings share a party wall') to the cross-owner agreement; sharpened the unmapped-fiber question (Westchester has 'building with no drawings') to tracing method.
+
+## Orange — local research (2026-10-17 batch, fiber-optic-installation-orange-county)
+
+Area page; up = /fiber-optic-installation-hudson-valley; phone (845) 640-3835 (800 only in shared header); GBP Bronx (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "WS" = WebSearch; "WF" = WebFetch. Silo-wide sources already in research/fiber-optic-installation.md are reused where noted and not repeated.
+
+**Thesis (distinct from the HV hub's scattered-outbuildings / lightning / warehouse-belt thesis):** Orange County is a county of main streets — 3 cities and 20 villages with 19th-century mixed-use cores, plus reused institutional buildings, civic clusters and Route 17 retail/hospitality. New provider fiber is arriving village by village (Greenlight 2023→2026) and stops at the outside wall; the owner-side job is one planned shared entrance + enclosure per multi-tenant building, tenant extensions through common areas, civic links between a village's own buildings, and backbones in reused schools/hospitals/mills. Hub topics deliberately avoided: lightning/ground potential, barns/outbuildings, Stewart/Montgomery warehouses, grant-funded provider arrival.
+
+### 1. Reddit
+- `reddit Newburgh OR Middletown OR "Orange County NY" fiber internet Greenlight Spectrum business` · FC search → no Orange County NY reddit thread returned (r/Rochester Greenlight threads, and https://www.reddit.com/r/orangecounty/comments/1elllat/… which is very likely Orange County, **California** — not used). Local Reddit on fiber: **EMPTY**.
+- Substitute local social source, same query → https://www.facebook.com/groups/717097027718808/posts/1022228077205700/ (FC search excerpt, Newburgh group post "What is the contact information for Newburgh's internet provider…"): "Bringing the fiber optic cable inside your home and setting up the electronics and wiring necessary to provide a WiFi (wireless) signal" → §5 THE NEIGHBORHOOD para after facts list (quoted as a group reply excerpt).
+- Prior AESS research (research/soundbar-installation.md, Orange section): r/hudsonvalley "what is the deal with orange county" newcomer thread — background only, not used.
+
+### 2–5, 8, 11. PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+- Angi / HomeAdvisor / Fixr fiber-installation pages: EMPTY (silo searches returned none; stated on page in §10.5 intro).
+- Yelp: the FC search above returned only a Yelp Orange County **CA** listing — not used. EMPTY.
+- §10.5 substitutes (claims quoted as published):
+  - `fiber optic installation Orange County NY Newburgh Middletown contractor cabling` · FC search → https://fischsolutions.com/solutions/structured-wiring/ (FC scrape; competitor HQ 3188 Route 9W, New Windsor; page published 2026-05-12): "Low-voltage cabling under 50 volts typically does not require an electrical permit in Hudson Valley municipalities"; "For most single-floor Hudson Valley offices under 30,000 square feet, Cat6A copper is enough"; OS2 "cost per meter is similar to multi-mode"; "A 30-drop office fit-out in Orange or Dutchess County usually takes 2-4 days". → §10.5 H3 1, 2, 5, 7 (attributed as "a structured-wiring firm based in New Windsor", not named).
+  - Silo sources reused: streamlinetelecom "$1-6 per linear foot" → H3 3; unio.digital "$300 to $800 per fiber drop" / "orientation ranges, not quotes" → H3 4; lowvoltagenewyork (SM glass cheaper than OM4; SM optics ~1.5–5×) → H3 5; T-Mobile "up to 4 hours", AT&T "four to six hours" → H3 6.
+
+### 6/7. Landmarks, building stock, corridors
+- `Orange County NY cities towns villages number ny.gov counties orange` · WS → https://citypopulation.de/en/usa/places/newyork/36071__orange/ (WF): 3 cities — Middletown 30,348, Newburgh 28,863, Port Jervis 8,763 (2020); 20 villages; 17 CDPs; county 401,312 (2020). → §5 para 1, §5.5 facts.
+- `Orange County New York "20 towns" "3 cities" villages county government` · WS → https://en.wikipedia.org/wiki/Orange_County,_New_York (WF): county seat Goshen; 401,310 (2020); 840 sq mi total; I-84, I-87, NY 17 "Future Interstate 86"; only NY county bordering both NJ and PA; SUNY Orange (Middletown), Mount Saint Mary College (Newburgh), Touro COM (Middletown); town count not given (historic "20 town supervisors" only — page does NOT state a town count). → §5.5 facts, town-by-town intro ("roughly 840 square miles").
+- `Newburgh East End Historic District number of buildings largest historic district New York` · WS → https://en.wikipedia.org/wiki/East_End_Historic_District_(Newburgh,_New_York) (WF): 445 acres; 2,217 buildings (article also says 2,239 resources — inconsistent, page uses "more than 2,200"); with Montgomery-Grand-Liberty ~4,000 contributing properties; city recognised 1973; NRHP 1985; Italianate 2–3-storey brick townhouses, Second Empire, Gothic Revival; commercial on Liberty Street, Broadway, William Street. → §5 para 4, §5.5, §7 card 2, §8 Newburgh card, §13 card 1, town-by-town.
+- `Orange County Government Center Goshen Paul Rudolph renovation reopened new building square feet` · WS → https://en.wikipedia.org/wiki/Orange_County_Government_Center (WF): Rudolph, designed 1963, completed 1967; Irene 2011 flood damage, closed; centre section demolished by Dec 2015; renovated, reopened 2017. → §5 para 4, §13 card 2.
+- `Touro College of Osteopathic Medicine Middletown campus former Middletown Psychiatric Center building` · WS → https://blog.randrealty.com/2014/09/touro-medical-college-opens-their-new-horton-campus-in-middletown/ (WF, dated Sept 8 2014): Horton Campus = former Horton Hospital; complex 375,000 SF (200,000+ special-purpose); 135 incoming students; opening Aug 31 2014. → §5 para 4, §7 card 3, §8 Middletown card, §13 card 3.
+- `SUNY Orange Newburgh campus Kaplan Hall former Masonic building Newburgh renovation` · WS → https://en.wikipedia.org/wiki/SUNY_Orange (WF): Middletown campus 37 acres, 12 buildings, former Webb Horton House property; Newburgh campus two buildings on the Hudson. → §13 "we also work in".
+- `LEGOLAND New York Goshen opened 2021 acres` · WS → https://en.wikipedia.org/wiki/Legoland_New_York (WF): Goshen; opened May/July 2021; ~150 acres themed within 500-acre property; 250-room hotel (Aug 2021); NY 17 exit 125 ramp moved ~4,000 ft, built to Interstate standards, $40M ($10M state, $30M Merlin); DEC fine $346,000 (not used). → §13 card 5, §7 card 5, §8 Goshen card.
+- `Woodbury Common Premium Outlets number of stores Central Valley NY` · WS → https://en.wikipedia.org/wiki/Woodbury_Common_Premium_Outlets (WF): Central Valley section of Woodbury; opened 1985; 220 stores; 845,000 sq ft; "one of the largest contiguous outlet centers in the world"; Simon. → §5.5, §13 card 4, §8 card 4.
+- Port Jervis: https://en.wikipedia.org/wiki/Port_Jervis,_New_York (WF; URL reached from the county article): Tri-States Monument 1882 under I-84 viaduct; Delaware at Neversink confluence; Erie Railroad division centre; Front Street small businesses; Pike Street (youth centre); pop. 8,775 (2020). → §5.5, §8 Port Jervis card, §13 card 6, town-by-town.
+- Port Jervis Line (FAQ 5): prior AESS research (research/soundbar-installation.md Orange section, https://en.wikipedia.org/wiki/Port_Jervis_Line) — line exists and runs through Orange County; not re-fetched. FAQ answer is technical (fiber immune to EMI), no local statistic.
+- `Route 17 Interstate 86 conversion Orange County NYSDOT 2025 2026 project Harriman Middletown` · WS → https://hgar.com/gov-hochul-earmarks-up-to-1-billion-for-route-17-expansion (WF, Apr 18 2022): up to $1B; third lane Exit 131 Harriman → Exit 103 Monticello; greatest need Exits 120 (NY 211, Wallkill) to 131 (Woodbury), ~22 miles; conversion to I-86. → §5.5, §9 Route 17 third-lane Q, Route 17 retail section.
+- Galleria at Crystal Run (Town of Wallkill): named in the Greenlight July 2025 release below. → §8 Middletown card, town-by-town.
+
+### 9/10. Local news / hyperlocal (fiber providers)
+- `Greenlight Networks Orange County New York 2026 expansion Newburgh Monroe Warwick fiber` · FC search; FC scrape https://www.greenlightnetworks.com/greenlight-networks-fuels-regional-growth-with-continued-expansion-across-orange-county/ (July 24 2025, provider press release): began building in region 2023; $4M Port Jervis build (downtown first; network equipment hosted by City of Port Jervis Police Department); construction in Goshen, Middletown, Wallkill; $24M+ to reach additional 16,200 homes in 12 months; Village of Goshen >1,000 homes connected; Middletown 6,000 homes in 12 months; Wallkill hamlets Circleville and Mechanicstown; Orange County Fair Speedway 8-gig business service; Galleria at Crystal Run. → §5 para 2, §8 Port Jervis card, §9 civic-link Q, town-by-town (Middletown, Goshen, Port Jervis).
+- FC scrape https://www.greenlightnetworks.com/greenlight-networks-expands-to-highland-falls-bringing-100-fiber-internet-to-thousands-more-local-homes-and-businesses/ (June 11 2026): Highland Falls build >$2M; >$26M invested in Orange County to date; $3.4M Village of Walden; Washingtonville under construction. → §5 para 2, §5.5, town-by-town (Walden, Highland Falls).
+- `Greenlight Walden Washingtonville fiber construction 2026 village` · FC search → https://www.greenlightnetworks.com/faster-more-reliable-fiber-internet-arrives-in-walden-as-greenlight-networks-continues-orange-county-expansion-construction-underway-in-washingtonville/ (excerpt: "Construction in Washingtonville is currently underway, with plans to connect nearly 2,300 homes by the end of 2026") → recorded; page only says construction was under way (number not used).
+- `Orange County New York broadband fiber network county government 2025 2026` · WS → results were Orange County **Virginia** (REC partnership) — not used. Orange County NY government fiber network: EMPTY.
+- `Orange County NY data center proposal 2025 2026 town fiber` · WS → results are Orangetown (Rockland) / Orange County NC — not used. EMPTY for Orange County NY.
+- Times Herald-Record / Mid-Hudson News / News12 Hudson Valley on fiber installation contractors: EMPTY (none retrieved).
+
+### Local licensing / permits
+- `Newburgh Architectural Review Commission certificate of appropriateness East End historic district exterior changes` · FC search → https://ecode360.com/30538879 (City of Newburgh Code Art. VI Historic Overlay District, excerpt): "No person shall carry out any exterior alteration, restoration, reconstruction, demolition, new construction, or move of a designated historic landmark or property within a designated historic district without first obtaining a certificate of appropriateness… from the City of Newburgh ARC"; https://www.cityofnewburgh-ny.gov/267/Architectural-Review-Commission (excerpt: ARC empowered by City Code §300-38). → §7 card 2, §8.5 callout 1, §9 facade-terminal Q, §10.5 H3 1, town-by-town.
+- `orangecountyny.gov electrician license county-issued license requirement Electrical Licensing Board exemption low voltage` · FC search → https://www.orangecountyny.gov/DocumentCenter/View/317/Electrician-Application-PDF (excerpt: "According to Local Law No. 8 of 2007, any person wishing to work as an electrician in Orange County must possess a county-issued license"); https://www.orangecountyny.gov/DocumentCenter/View/311/Local-Law-No-1-of-2024-Electrical-Licensing-PDF (excerpt). → §8.5 callout 2, §9 licence Q, FAQ 11, §10.5 H3 1. Page does NOT claim the county licence exempts or covers low-voltage work explicitly; it says fiber is low-voltage under the NYS licence and outlets are done by a licensed electrician.
+- Orange County home-improvement contractor licence: NOT verified (see soundbar research flag) — page makes no claim.
+- 811 / Dig Safely (2–10 working days): silo HV source https://www.cenhud.com/en/my-energy/safety/dig-safely reused → §8.5 callout 5. (Orange & Rockland Utilities' own page not fetched.)
+- NEC 770 listings OFNR/OFNP: silo source (cablinginstall) reused → §8.5 callout 4, Equipment.
+
+### Pricing used (blueprint §9 Orange 1.40× on silo base; no new prices)
+$35→$49 termination; $40→$56 OTDR/strand; $350→$490 MM drop; $400→$560 SM drop; $4,500–$7,000→$6,300–$9,800; $8,000–$15,000+→$11,200–$21,000+; $2,400→from $3,360; Starter 24×$49 + 12×$56 = $1,848; $195/hr 3-hr min ($585) unchanged. (Same as HV hub table. Live structured-cabling-pricing-orange-county configurator shows $494/$564 drops — discrepancy already flagged by the hub builder.)
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+Source = `ls images/network`, positions that are multiples of 3 only. All viewed before use.
+| File (images/fiber-optic-installation/) | Source (position) |
+|---|---|
+| fiber-optic-installation-orange-county-finished-rack-yellow-jumpers.webp | network-installation-orange-county-finished-network-rack-firewall-ups.webp (123) |
+| fiber-optic-installation-orange-county-core-drill-block-wall-sleeve.webp | network-installation-nyc-core-drill-cmu-wall-penetration.webp (102) |
+| fiber-optic-installation-orange-county-emt-conduit-sweep-pull.webp | network-installation-queens-network-drop-conduit-emt-riser.webp (156) |
+| fiber-optic-installation-orange-county-two-tech-hallway-cable-pull.webp | network-installation-queens-two-tech-corridor-cable-pull.webp (159) |
+| fiber-optic-installation-orange-county-ceiling-tile-cable-feed-ladder.webp | network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp (3) |
+| fiber-optic-installation-orange-county-toner-probe-panel-trace.webp | network-installation-nassau-county-network-cable-toner-tracing.webp (93) |
+| fiber-optic-installation-orange-county-switch-mounting-rack.webp | network-installation-westchester-county-managed-poe-switch-rack-install.webp (228) |
+| fiber-optic-installation-orange-county-certification-tester-pass-screen.webp | network-installation-nassau-county-fluke-dsx-certification-pass.webp (90) |
+| fiber-optic-installation-orange-county-jhook-pathway-open-ceiling.webp | network-installation-orange-county-jhook-ceiling-pathway-bundles.webp (126) |
+| fiber-optic-installation-orange-county-closet-before-after-cleanup.webp | network-installation-orange-county-network-rack-cleanup-before-after.webp (129) |
+| fiber-optic-installation-orange-county-patch-label-cable-map.webp | network-installation-rockland-county-cable-labeling-port-map.webp (162) |
+Note for Anwar: the network library holds only 16 distinct scenes (same photo under many area names), so Westchester/Rockland siblings necessarily show the same scenes from different files. These photos show copper/Cat6 work (alt/captions say so implicitly — no claim of fiber in frame), show technicians' faces and an 844-386-7238 shirt number, and look AI-generated (garbled box text) — same concern as the LI builder raised. DAILY-LOG note: `images: 11 reused from images/network/ (no real fiber-optic-installation photos yet)`.
+
+### Keyword plan (Orange County page)
+Service: fiber optic installation Orange County NY, shared building entrance, tenant fiber extension, civic/municipal fiber link, fusion splicing, OTDR testing. Problem: every provider drilling its own hole, terminal on historic facade, rack in attic, party-wall buildings, old institutional pathways, landlord's legacy network, long retail rows over 100 m, leased lines between village buildings. Technology: OS2, OM4, indoor/outdoor, riser/plenum, armoured, wall-mount enclosure, LC/SC, SFP/media converter, sleeves/raceway/conduit. Industry: mixed-use main-street buildings, historic rowhouses, reused schools/hospitals/mills, village halls/police/firehouses, retail/outlets, restaurants, hotels, banks, medical. Geographic: Orange County; Newburgh (East End, Liberty St, Broadway), Middletown, Wallkill (Galleria at Crystal Run, Circleville, Mechanicstown), Goshen, Central Valley/Woodbury, Monroe, Harriman, Chester, Warwick, Greenwood Lake, Florida, Walden, Montgomery, Maybrook, Washingtonville, Cornwall, New Windsor, Highland Falls, Port Jervis, Deerpark, Otisville, Mount Hope; Route 17 / I-86, Route 211.
+
+### Question register additions
+fiber-optic-installation-orange-county
+§9 Questions Answered (and other question headings):
+- Shop or Office Link Dead on an Orange County Main Street? (repair capture heading) — fiber-optic-installation-orange-county
+- Each tenant in our Newburgh building orders internet on its own — how do we stop every provider from drilling a new hole through the brick? — fiber-optic-installation-orange-county
+- The only place for a rack in our Front Street building is the attic — is that a bad idea for fiber equipment? — fiber-optic-installation-orange-county
+- We own two adjoining buildings on a village main street that share a party wall — can one network serve both? — fiber-optic-installation-orange-county
+- The provider wants to mount its terminal on our storefront facade — can we ask for it somewhere else? — fiber-optic-installation-orange-county
+- Our building used to be a church school — are the old intercom and telephone pathways in its walls usable for fiber? — fiber-optic-installation-orange-county
+- Our practice moved into part of a large former hospital building — can we get fiber to our suite without depending on the landlord's old network? — fiber-optic-installation-orange-county
+- Our restaurant near a Route 17 interchange is adding a second building on the lot — should it get its own internet service or a fiber link from the first? — fiber-optic-installation-orange-county
+- The state plans a third lane on Route 17 — should a business near the highway hold off on buried fiber until the road work is done? — fiber-optic-installation-orange-county
+- Our village hall, police desk and highway garage are in separate buildings — can fiber replace the leased lines between them? — fiber-optic-installation-orange-county
+- Can fiber keep our firehouse's alerting equipment and cameras separate from the members' Wi-Fi? — fiber-optic-installation-orange-county
+- Does Orange County's electrician licence apply to the people installing our fiber? — fiber-optic-installation-orange-county
+- Our property in Warwick is a long drive from your Bronx office — how do you keep the job from stretching into extra trips? — fiber-optic-installation-orange-county
+- Will a busy Newburgh or Middletown sidewalk have to be closed while the fiber comes in? — fiber-optic-installation-orange-county
+§17 FAQ:
+- Do you take fiber work in western Orange County — Port Jervis, Otisville and the Deerpark side? — fiber-optic-installation-orange-county
+- What should we send so a quote can come back before anyone visits the building? — fiber-optic-installation-orange-county
+- Is fiber worth adding to a building we might sell in a few years? — fiber-optic-installation-orange-county
+- Can fiber reach a second-floor office over a storefront without running through the shop? — fiber-optic-installation-orange-county
+- Will trains on the Port Jervis Line next to our building disturb a fiber link? — fiber-optic-installation-orange-county
+- Can fiber be added to a hotel or motel along Route 17 without taking rooms out of service? — fiber-optic-installation-orange-county
+- Do outlet-center and shopping-plaza leases usually let a tenant hire its own fiber installer? — fiber-optic-installation-orange-county
+- Can new fiber sit alongside an older alarm or fire-alarm panel in the same closet? — fiber-optic-installation-orange-county
+- Our landlord lives outside New York — how do approvals work when the owner can't come to the building? — fiber-optic-installation-orange-county
+- Do tenants have to be home when fiber is run through an occupied apartment in a two- or three-family house? — fiber-optic-installation-orange-county
+- Does each end of a fiber link need a dedicated electrical outlet? — fiber-optic-installation-orange-county
+- Can you install fiber in a bank branch or credit union on a village main street? — fiber-optic-installation-orange-county
+
+De-dup notes: checked by meaning against the full register (NYC, Manhattan, Brooklyn, Long Island, Hudson Valley) and the Westchester/Rockland pages on disk at 07:56. Removed during the build: a shared-entrance cost-split Q&A and a "quote broken out per owner" FAQ (overlapped Rockland's "How is the cost of shared fiber divided when a Rockland campus has several owners?"); cost split now appears only as body text in the ownership subsection. Avoided by design: coverage of historic/landmark districts as a question (Manhattan owns it — ARC covered in body/callouts), provider-arrival prep (HV), carrier landing at the wrong end (LI), building permits (NYC), area price difference (LI), flood (Brooklyn/Manhattan), timing/cutover (NYC). Partial-overlap notes for the main run: my firehouse strand-separation Q vs Westchester "tenants sharing a building backbone without sharing a network" (different parties: one organisation's systems vs separate tenants); my former-hospital suite Q vs Westchester office-park medical-suite Q (independence from landlord network vs move-in readiness).
