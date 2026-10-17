@@ -125,6 +125,21 @@ BUILDING 2026-10-17T11:35Z | fiber-optic-installation-downtown-brooklyn-ny | Fib
 BUILDING 2026-10-17T11:35Z | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T11:35Z | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T11:36Z | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:45Z | sonos-installation-upper-east-side-manhattan-ny | Sonos Installation | Upper East Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T11:45Z | sonos-installation-park-slope-brooklyn-ny | Sonos Installation | Park Slope, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:45Z | sonos-installation-forest-hills-queens-ny | Sonos Installation | Forest Hills, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | sonos-installation-riverdale-bronx-ny | Sonos Installation | Riverdale, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | sonos-installation-todt-hill-staten-island-ny | Sonos Installation | Todt Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | sonos-installation-douglaston-queens-ny | Sonos Installation | Douglaston, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | sonos-installation-country-club-bronx-ny | Sonos Installation | Country Club, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | sonos-installation-great-kills-staten-island-ny | Sonos Installation | Great Kills, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
