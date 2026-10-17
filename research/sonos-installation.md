@@ -791,3 +791,357 @@ Checked by meaning against the existing register (NYC hub, LI, HV) and against t
 8. Can a Sonos speaker live on a balcony or terrace in a Queens high-rise?
 9. Can the ceiling speaker grilles be painted to match our ceiling?
 10. Can the backyard speaker wiring go in before the patio or deck is built?
+
+
+## Bronx (sonos-installation-bronx)
+
+Built 2026-10-17 by the Bronx subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes unless noted). Silo-wide product facts reuse the Sonos sources already recorded above (NYC hub, LI and HV sections); only new sources are listed here. Nothing was inferred to fill a gap.
+
+Page: `sonos-installation-bronx` (child of /sonos-installation-nyc, Bronx GBP #bronx, 460 E Fordham Rd, (646) 490-0629; 800 only in shared header chrome).
+
+**Thesis:** the Bronx is a renter borough (20.1% owner-occupied) of masonry buildings with landlords, Riverbay, Parkchester boards and NYCHA rules, and three of the city's five noisiest neighborhoods — so a Bronx Sonos plan starts with who has to say yes and with the neighbors downstairs: no-drill wireless layouts first, brackets only with written consent, neighbor-aware bass and volume limits, built-in Amp speakers for owners and houses (Fieldston, Throgs Neck, City Island).
+
+### Sources not reachable / empty
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG — EMPTY (not accessible in build env). §10.5 is built from claims found in print (Angi, xtenAV, Airtasker, Sonos, noise-law summary sites, r/AskNYC), stated as such on the page.
+- Reddit thread pages (reddit.com) — FC scrape returns "we do not support this site"; only search excerpts used. r/bronx Sonos-specific thread: EMPTY (query `reddit bronx sonos OR "ceiling speakers" OR "home theater" apartment installer` returned no r/bronx Sonos thread).
+- Yelp 1–3★ for Bronx Sonos installers — EMPTY (not searched further; Yelp search page only, query above returned m.yelp.com/search?find_desc=Audio&find_loc=Bronx — no reviews).
+- Local news on Sonos/home audio in the Bronx — EMPTY. Local news used is on noise complaints and internet providers (below).
+- Co-op City construction material (concrete) — query `Co-op City buildings reinforced concrete construction piles landfill Herman Jessor architect` · FC search → no material stated → page does NOT say Co-op City is concrete (hedged "typically" language for post-war high-rises only).
+
+### Housing / stats (§5, §5.5)
+- `census quickfacts Bronx County New York owner-occupied housing unit rate housing units broadband subscription` · FC search → FC scrape https://www.census.gov/quickfacts/bronxcountynewyork : owner-occupied rate 2020–2024 20.1%; housing units July 1 2025 (V2025) 583,114; households 2020–2024 534,100; persons/household 2.53; computer 93.4%; broadband 86.8%; building permits 2025 6,032; language other than English at home 57.0%. → hero ("four out of five rented"), §5 para 1, §5.5 stats (20.1%, 583,114, 534,100, 86.8%), network section. censusreporter excerpt "Renter occupied 80%" (http://censusreporter.org/profiles/05000US36005-bronx-county-ny/) cross-check.
+- `Co-op City Bronx number of apartments buildings Riverbay Corporation construction concrete` · FC search → https://www.coopcity.com/aboutus/ (15,372 units, 35 high-rises, seven townhouse clusters); https://www.coopcity.com/apartments (10 chevron 24 stories 414 apts; 15 tower 33 stories 384; 10 triple-core 26 stories 500). FC scrape https://en.wikipedia.org/wiki/Co-op_City,_Bronx: Freedomland 1960–64; construction began 1966, first residents Dec 1968, completed 1973; 24–33 floors; built on landfill; RiverBay board of 15; 43,752 residents (2010 census), "largest housing cooperative in the world"; partially in Baychester and Eastchester; bounded by I-95 and Hutchinson River Parkway. → §5 para 2, §5.5 stat, §7 card, §13 card.
+- `Co-op City buildings reinforced concrete …` · FC search → https://www.lehman.edu/public-art-bronx/Co-op-City/ excerpt: "Architect Herman Jessor favored their cross-shaped floor plans" → §7 Co-op City card.
+- `Grand Concourse Historic District Art Deco …` · FC search; FC scrape https://hdc.org/buildings/grand-concourse-historic-district/ (designated Oct 25 2011; opened Nov 25 1909; Louis Risse; majority built 1916–1941). FC scrape https://s-media.nyc.gov/agencies/lpc/lp/2403.pdf (LPC designation report): 78 properties, one-mile stretch between E 153rd and 167th Streets; 61 apartment houses built 1917–1959; Bronx County Courthouse and Andrew Freedman Home; five- and six-story apartment house dominant; "largely brick and terra-cotta"; 27 apartments built 1935–1945 in Art Deco/Moderne; Bronx Art Deco marked by "curving walls … wrap-around corner window openings … steel-and-glass casement windows"; large light courts; Emery Roth 888 Grand Concourse; Thomas Garden Apartments. → §5 paras 2 & 4, §5.5 stat "61 and 27", §7 card, §9 Q corner window, §13 card.
+- `Fieldston Historic District Bronx designated 2006 …` · FC search (https://hdc.org/events/… — streets and common areas owned by the Fieldston Property Owners' Association; NYC LPC FB excerpt ~257). FC scrape https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf: "approximately 257 houses and related structures"; Delafield estate 1909; Wheeler layout 1914; Medieval, English Tudor, Mediterranean, Dutch, Georgian Colonial; clapboard, brick, stucco, fieldstone, slate; designated January 10, 2006 (search excerpt). → §7 card, §13 card.
+- `Parkchester condominium alterations rules …` · FC search → https://www.parkchestersouth.com/ (PSC "oversees the nearly 8,000 apartments in the east, west and south quadrants"); https://www.parkchesternorth.com/About/Management-Services ("Condominium Unit Owners are responsible for most interior apartment repairs"); Parkchester North Rules and Regulations PDF (rackcdn URL in search results, "Updated January 2009"): Rule Eleven (no stereo/TV/loudspeaker preventing quiet enjoyment; no vocal/instrumental practice 10 PM–9 AM); Rule Nine (equipment must comply with NY Board of Fire Underwriters); Rule Twenty-Nine (rugs/carpet over 80% of floors except kitchen/bath); Rule Seven (nothing hung/projected from windows). Parkchester build dates 1939–1942 from NYC hub research (Wikipedia). → §5 para 2, §7 card, §9 Q Parkchester, §10.5 quiet-hours H3.
+- `Riverdale Bronx co-op buildings postwar high-rise …` · FC search → https://www.homes.com/bronx-ny/riverdale-neighborhood/co-ops-for-sale/ ("post-war high-rise building … 4499 Henry Hudson Parkway"); https://www.nybits.com/apartments/bronx_coop_buildings.html (2500 Johnson Avenue co-op); https://cooperatornews.com/article/a-river-runs-through-it ("The post World War II building boom hit Riverdale with multi-family dwellings"). → §5 para 2, §7 card. (Construction material not sourced → hedged "typically".)
+- `Mott Haven Melrose new apartment towers Third Avenue …` · FC search → https://www.6sqft.com/new-rental-buildings-in-the-bronx/ (Maven, 2413 Third Ave, 200 units; Third at Bankside 2401 Third Ave, three towers 17–25 stories, 458 units); https://newyorkyimby.com/2022/10/… (Maven 27 stories, RXR, CetraRuddy); https://www.cityrealty.com/… (three towers 25/17/25 on eight-story podium); Brookfield page (Harlem River). → §7 card, §13 card, §5 para 4 (hedged materials).
+- `City Island Bronx history seaport …` · FC search → https://cityislandchamber.org/about-city-island/ (named after Benjamin Palmer's unsuccessful seaport-city plan; boat building, America's Cup yachts; restaurants, galleries); https://www.gonomad.com/… ("quaint Victorian houses"); TripAdvisor excerpt (City Island Avenue main street; streets busy at night). → §7 card, §8 card, §13 card.
+
+### Rules (co-op, NYCHA, tenants, DOB, noise, fire)
+- `Riverbay Co-op City apartment alteration request form …` · FC search; FC scrape https://www.coopcity.com/Pdf/FAQs_Updated.pdf: "an apartment renovation form, which can be secured from your CSO, must be completed beforehand. There is an approximate response time of five (5) business days"; CSO = Cooperator Services Office; "Outgoing shareholders are responsible for restoring their unit to its original standard or else Riverbay will deduct the cost … from their equity"; "Cables in the closets – These cables are riser cables used for telephone service and cannot be removed"; door cameras must be battery powered, no drilling. → §5 para 2, §9 Qs (Riverbay timing, riser closet, Co-op City restoration), process step 2.
+- `NYCHA tenant alterations permission …` · FC search; FC scrape https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf: noise appropriate for time of day; "Using sound amplification devices, except by NYPD permit" (prohibited conduct, common areas); no holes/alterations to door, frame or walls for cameras/video doorbells. → §9 Q NYCHA.
+- same search → https://legalaidnyc.org/get-help/housing-problems/what-you-need-to-know-about-repair-and-service-rights/ excerpt: "most leases prohibit tenants from making alterations … without the landlord's prior permission. You should get the landlord's authorization and consent (preferably in writing)". → §5 para 1, §9 Q landlord OK.
+- `NYC DOB low voltage wiring speaker cable permit …` · FC search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 (§28-105.4.7: no electrical permit for wiring <50 V for signaling, communication, alarm and data when performed by a licensed master electrician, special electrician or qualified person). → §8.5 bullet.
+- `NYC noise code sound reproduction device …` · FC search → https://nycadmincode.readthedocs.io/t24/c02/sch06/ (§24-244 commercial sound reproduction outside premises/through apertures prohibited); FC scrape https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-44210 (§24-218(b): 7 dB(A) above ambient 10 PM–7 AM, 10 dB(A) 7 AM–10 PM, measured within a receiving property; impulsive 15 dB(A)). 42 dBA commercial-music limit reused from NYC hub research (DEP fact sheet). → §8.5, §9 Q "How does the city measure…", §10.5 quiet-hours H3.
+- `reddit r/bronx neighbor loud music bass apartment 311 noise complaint` · FC search → r/AskNYC excerpts (311 response times, bass complaints; not quoted), https://portal.311.nyc.gov/article/?kanumber=KA-01017 (noise from neighbor incl. loud music). Background for neighbor cluster.
+- `Bronx noise complaints 311 most residential loud music …` · FC search → https://www.norwoodnews.org/residents-say-loud-music-is-public-enemy-number-one/ (title/excerpt, not quoted); FC scrape https://nypost.com/2026/04/20/us-news/nyc-noise-complaints-soar-and-city-has-a-plan-for-cracking-down/ (Apr 20 2026): 636,000 noise complaints in 2025, 463,349 residential; "Wakefield, The Bronx, is an epicenter"; "Rounding out the top five spots were Williamsbridge and Highbridge, both in The Bronx, and Ridgewood, Queens". → §5 para 3, §5.5 stat.
+- `"quiet hours" NYC apartment "10 p.m." …` · FC search → https://www.localnoiselaws.com/ordinance/ny/new-york/ ("New York's quiet hours: 10 PM to 7 AM"), https://www.reddit.com/r/AskNYC/comments/skxaz2/ ("Quiet hours are typically 10 pm to 7 am"), https://citiquiet.com/noise-laws-nyc/. → §10.5 H3 6 (claim quoted, corrected with §24-218).
+- `FDNY fire escape must be kept clear …` · FC search → https://fdnysmart.org/wp-content/uploads/2015/04/apartment_fire_safety-en.pdf ("keep the fire escape window clear of all obstructions such as furniture, plants and air…"); FDNY Facebook video excerpt ("Fire escapes should be 100% clear and free from obstructions"); https://www.nyc.gov/assets/buildings/rules/1_RCNY_15-10.pdf ("A clear space of at least twenty-one inches (21") must be maintained as a passageway between any fixtures and the side of an opening leading to fire escapes"). → §9 Q fire escape.
+
+### Commercial corridors (§8)
+- `Fordham Road Business Improvement District …` · FC search → https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ ("almost 300 specialty stores"). → §8 card.
+- `The Hub 149th Street Third Avenue BID …` · FC search → https://en.wikipedia.org/wiki/The_Hub,_Bronx (convergence of E 149th, Willis, Melrose, Third; "oldest major shopping locale in the Bronx"; BID est. 1990, Bronx's first BID); https://www.instagram.com/thirdavenuebidhub/ bio excerpt ("200,000+ daily visitors"). → §8 card, §13 card.
+- `Arthur Avenue Belmont …` · FC search → https://www.arthuravenuebronx.com/ (Arthur Avenue Retail Market "Mayor Fiorello LaGuardia spear-headed"); https://bronxlittleitaly.com/ (Belmont BID). → §8 card, §13 card.
+- Mott Haven Bruckner Blvd: Brickunderground excerpt (housing lottery 138 Bruckner Blvd, Mott Haven) → §8 card name only.
+- Parkchester North office address 1970 East Tremont Avenue (rules PDF) → §8 "East Tremont Avenue by Parkchester".
+- Licensed music: `Spotify terms of use personal non-commercial …` · FC search → https://support.spotify.com/us/article/spotify-public-commercial-use/ ("Spotify is only for personal, non-commercial use … can't broadcast or play Spotify publicly from a business, such as bars, restaurants, schools, stores, salons"); https://www.soundtrack.io/blog/can-you-play-spotify-in-a-business/ (same for Apple Music etc.). → §8.5 bullet.
+
+### Internet providers (network section)
+- `reddit r/bronx internet provider wifi apartment Optimum Fios Co-op City Parkchester` · FC search → https://www.reddit.com/r/bronx/comments/15bxozc/any_alternative_to_optimum/ excerpt: "I have Verizon on the concourse and it works very well. I also consistently get ads for Tmobiles 5G home service". → network section (quoted).
+- `Verizon Fios comes to Co-op City …` · FC search → https://www.bxtimes.com/co-op-city-wants-fiosverizon-ignores-call/ (headline "Co-op City Wants FiOS;Verizon Ignores Call"); https://issuu.com/cctimes/docs/cct_070823 (Co-op City Times 07/08/2023: from July 17 2023 Optimum subscribers in Buildings 3, 4, 5A and 5B can migrate to Optimum's newer service); https://www.facebook.com/groups/42786081273/posts/10160822111736274/ (post "Verizon Service Comes to Co-op City, Ending Optimum Monopoly"; excerpt: Verizon using cellular service for home internet). → network section.
+
+### Sonos features (new to silo)
+- `support.sonos.com set volume limit …` · FC search → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products ("limit the maximum volume for each one of your Sonos products … Use the slider"); https://www.reddit.com/r/sonos/comments/l4zu55/volume_limit/ excerpt (100 steps up to the new max). → §5 para 3, §9 Parkchester & neighbor-complaint Qs, process step 6.
+- `Sonos Night Sound speech enhancement …` · FC search → https://support.sonos.com/en-us/article/reduce-loud-tv-audio-with-night-sound ("reduces the intensity of loud sounds while increasing the level of quieter sounds"); https://www.youtube.com/watch?v=zox2Zu9ft0k (Sonos: Speech Enhancement makes dialogue clearer). → §10.5 H3 5, §9 elevated-train Q.
+- `Sonos Voice Control languages Spanish …` · FC search → https://en.community.sonos.com/controllers-and-music-services-229131/when-will-spanish-be-available-for-sonos-voice-control-svc-6931744 (owners asking when Spanish will arrive; "only available in the US and France right now"); FC scrape https://www.sonos.com/en-us/sonos-voice-control ("availability varies by country and language"; "processed locally … not recorded, transcribed, or sent to the cloud"). → §9 Q Spanish (hedged; no promise).
+- `support.sonos.com add multiple accounts same music service …` · FC search → https://support.sonos.com/en-us/article/use-multiple-accounts-for-the-same-content-service; Sonos community excerpt (Settings > Services > Add a service). → §9 Q roommates.
+- Elevated line: `elevated subway Bronx 4 train Jerome Avenue elevated line …` · FC search → https://en.wikipedia.org/wiki/IRT_Jerome_Avenue_Line ("mostly along Jerome Avenue in the Bronx"); FB group post title "1970 NYC subway train on Jerome Avenue elevated line". → §9 Q elevated train (named only).
+
+### Prices used (no new prices)
+research/tv-mounting-prices/BRIEF.md + live tv-mounting-prices-bronx.html (Bronx: setup-only $225 first hour then 30-min blocks; TV base $209.99) + §9 Bronx ×1.00: Sonos setup $125; soundbar placed $79 / wall-mounted $129; Sanus bracket $84.99; cord cover $59; in-wall concealment $169; cable run ≤25 ft $99; A/V receiver $129; universal remote $99; streaming device $49; full home theater $350; remove old bracket $45; take down old TV $85; walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile-marble +$95; backer $85; high mount $75; walk-up 3rd fl+ $40; box removal $25; COI free; $150 return-trip; free reschedule with 24 h notice; Manhattan-only parking line (so none for Bronx). Whole-home audio $800–$2,500 per zone (av-sound-installation-nyc.html, as on the NYC hub). Packages are sums of these lines: $263 (125+79+59), $383.99 (125+129+84.99+45), $606.99 (125+129+84.99+169+99).
+
+### Images (11, permanent image rule — images/low-voltage/ → images/sonos-installation/, WebP q80, 1400 px; no real Sonos photos yet)
+| New file | Source (images/low-voltage/) | Section | Other Sonos pages using same photo |
+|---|---|---|---|
+| sonos-installation-bronx-ceiling-speaker-beside-wall-speaker.webp (hero, eager) | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | Hero | NYC hub, HV |
+| sonos-installation-bronx-wall-jack-cable-termination.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg | §5 | NYC hub |
+| sonos-installation-bronx-tv-wall-flush-box-cabling.webp | low-voltage-installation-bronx-display-recessed-box.jpg | §6 | NYC, LI, HV |
+| sonos-installation-bronx-metal-stud-cable-feed.webp | low-voltage-installation-bronx-04-metal-stud-rough-in.jpg | §7 | none |
+| sonos-installation-bronx-dining-room-ceiling-speaker-fit.webp | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg | §8 | NYC, LI, HV |
+| sonos-installation-bronx-jhook-cable-bundle-overhead.webp | low-voltage-installation-bronx-02-jhook-pathway-bundle.jpg | §8 | none |
+| sonos-installation-bronx-ceiling-access-point-cable-feed.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | §9 | NYC hub |
+| sonos-installation-bronx-three-techs-hanging-wall-screen.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | §10 | NYC, LI |
+| sonos-installation-bronx-patch-panel-punch-down-hands.webp | low-voltage-installation-bronx-06-cat6-patch-panel-punchdown.jpg | §12 | none |
+| sonos-installation-bronx-crew-pulling-cable-open-ceiling.webp | low-voltage-installation-bronx-03-crew-cable-pull.jpg | §13 | none |
+| sonos-installation-bronx-ceiling-grid-cable-drop.webp | low-voltage-installation-bronx-10-ceiling-grid-bundle-pull.jpg | network section | NYC, LI |
+Rejected after viewing: bronx-idf-patch-panel-build (readable "3RD FLOOR IDF CLOSET IDF-3A" sign), bronx-05-idf-rack-patching (whiteboard with handwritten list), video-wall, van, school, access-point-lift (signage). DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-bronx
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Do I need my landlord's written OK before you drill for a Sonos bracket?
+2. What do NYCHA's house rules mean for a Sonos system in a public-housing apartment?
+3. How long does Riverbay take to answer a renovation form, and should the install be booked before the approval comes back?
+4. The only closet that fits a Sonos Amp has the building's telephone riser cables in it — can they share the space?
+5. Parkchester's house rules mention loudspeakers — what do they actually restrict?
+6. If I leave Co-op City one day, do the holes from Sonos brackets have to be put back?
+7. How does the city measure whether music from my apartment is too loud for the people next door?
+8. A neighbor has already complained once — what can change without losing the sound?
+9. The only free wall has a steam radiator under the window — can the Sonos gear sit on the radiator cover?
+10. Our Art Deco living room has a wrap-around corner window — where do the soundbar and rear speakers go?
+11. Our windows face an elevated train line — can the soundbar keep dialogue clear when a train goes by?
+12. Can a speaker sit out on the fire escape on summer evenings?
+13. Can Sonos voice control understand requests in Spanish?
+14. Can roommates each play music from their own Spotify or Apple Music account on one Sonos system?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What is the least a Bronx renter can spend on a properly set-up Sonos system?
+2. I live on the fifth floor of a walk-up off the Concourse. What gets added?
+3. Do you cover my part of the Bronx?
+4. Can you take down the old surround speakers and bracket before the Sonos goes up?
+5. Does someone need to be home for the whole visit?
+6. Is the written quote free?
+7. Will my cable box remote still turn the volume up and down once the soundbar is in?
+8. Will you also adjust the TV's picture settings?
+
+### Other question-form headings
+- H2 "Music Cutting Out in a Bronx Apartment?" (repair capture)
+- H2 "Want a Bronx Sonos Price in Writing Today?" (mid CTA)
+- H2 "Lease, Board or House — Which Bronx Plan Fits You?" (mid CTA)
+
+_Dropped during build to avoid meaning overlap with same-batch siblings: two-family separate systems (Nassau/SI), salt-air outdoor speakers (SI), volume cap (SI), no-smartphone elderly use (Nassau), payment/deposit (Nassau/SI), parking/travel charge (Nassau/SI), same-day (NYC hub)._
+
+
+## Staten Island (sonos-installation-staten-island)
+
+Page: `sonos-installation-staten-island` · child of /sonos-installation-nyc · direct line (347) 934-8335 in body/CTAs/schema ((800) 486-0943 only in the shared mega-nav header) · Brooklyn GBP (1282 Troy Ave, schema @id #brooklyn). Built 2026-10-17 by the batch subagent (parallel with Bronx and Nassau County). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Unreachable = `EMPTY (not accessible in build env)`. Nothing inferred to fill a gap.
+
+**Thesis:** On Staten Island a Sonos system has to work inside a multi-level house (hi-ranch, colonial, two-family/mother-daughter, townhouse, raised shore house) AND outside on a deck, patio or pool — so the job is distance and levels (router by the garage → main floor → back door → yard), the outside wall (vinyl siding, brick, block; sealed penetrations; salt air), and the neighbors (aim, spacing, volume limit, NYC noise code). North Shore rentals (Lighthouse Point, Bay Street corridor) get the apartment approach. Kept distinct from NYC hub (apartments/boards/plaster), LI hub (suburban zoning/new-build/pool code distance), HV hub (old houses/barns/second homes), Bronx (rentals/NYCHA/co-ops) and Nassau (village rules/era houses).
+
+### 1. Reddit (r/statenisland)
+- `site:reddit.com/r/statenisland neighbors music loud backyard speakers` · FC search →
+  - https://www.reddit.com/r/statenisland/comments/1tz49n3/loud_music_bass_every_saturday_night/ — excerpt: "Seeking help regarding the recurring loud bass on Saturday nights in Willowbrook." → §5 para 4 (paraphrased).
+  - https://www.reddit.com/r/statenisland/comments/ufrfnr/incredibly_loud_musicbass_westerleigh_area/ — excerpt: "Is anyone in the Westerleigh neighborhood hearing incredibly loud bass, sounding like its coming from an outdoor..." → §5 para 4 (paraphrased).
+- `site:reddit.com/r/statenisland wifi router whole house mesh Fios Spectrum dead spots` · FC search → no results. EMPTY.
+- Threads not opened (Firecrawl excerpts only).
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 states this on the page and uses published claims instead: Angi whole-home stereo ($500–$1,000 per room; $50–$100/h; $100–$500 modifications — silo research, NYC hub entry); Sonos ceiling/in-wall guide excerpts (silo §2); Sonos system requirements (extenders/EoP/guest unsupported, 18 in, interference list — silo §8); Move 2 32–104°F, charging base indoor only, IP56/24 h, Roam 2 IP67/10 h (HV entry); Trueplay article (silo §8); app-on-same-network (HV entry, Sonos community + r/sonos excerpts); app v80.0 May 7 2024, CE Pro apology, PCWorld Jan 2025 (silo §8 / LI entry).
+### 8. Bing / DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ (Staten Island, Sonos/AV installers) — EMPTY (not searched further; earlier SI runs got only listing pages).
+
+### 6. Landmarks (§13 COVERAGE, six cards) — reused from sourced SI entries in research/soundbar-installation.md and research/smart-lock-installation.md, not re-fetched this run unless noted
+- Snug Harbor Cultural Center — https://en.wikipedia.org/wiki/Snug_Harbor_Cultural_Center (smart-lock SI20: 83 acres, Kill Van Kull, Randall Manor, 1801 Randall bequest) + https://www.nyctourism.com/attractions-tours/snug-harbor-cultural-center-botanical-garden/ (historic buildings, botanical gardens). → §13 card 1.
+- St. Paul's Avenue–Stapleton Heights Historic District — https://6tocelebrate.org/site/st-pauls-avenue-stapleton-heights-historic-district/ (silo NYC entry: 2004, ~92 freestanding houses, mid-1830s). → §7 card, §13 card 2.
+- Lighthouse Point — `URBY Staten Island Stapleton apartments units Lighthouse Point St. George residential tower` · FC search (NEW): https://newyorkyimby.com/2026/02/housing-units-still-available-at-lighthouse-point-in-st-george-staten-island.html ("15-story residential building at 35R Bay Street in St. George"); https://streeteasy.com/building/residences-at-lighthouse-point ("115-unit collection of studio, one-, and two-bedroom rentals ... on New York Harbor"); https://edc.nyc/project/lighthouse-point ("Directly adjacent to the St. George Ferry Terminal"). → §5 para 6, §7 card, §13 card 3, North Shore rentals section.
+- Staten Island Greenbelt — https://en.wikipedia.org/wiki/Staten_Island_Greenbelt (smart-lock SI22: ~2,800 acres; Todt Hill 410 ft). → §13 card 4.
+- Freshkills Park — Brick Underground (soundbar SI §6: 2,200 acres, completion 2038). → §13 card 5.
+- Conference House — https://en.wikipedia.org/wiki/Conference_House (smart-lock SI21: c.1675, Ward's Point, Sept 11 1776). → §13 card 6.
+- "We also install in" neighborhood list: real SI neighborhoods named as service areas only, no facts claimed.
+
+### 7. Building stock / use cases
+- CHPC https://chpcny.org/visualization/housing-stock-visualization/ (smart-lock SI1): 83% of SI units in one- or two-family homes. → §5 para 1, §5.5.
+- Point2Homes ACS (soundbar SI §7): detached 62,455; attached 45,778; 2-unit 22.2%; median year built 1973. → §5 para 1, §5.5, §7.
+- Census QuickFacts https://www.census.gov/quickfacts/richmondcountynewyork (smart-lock SI2): owner-occupied 67.7% (2020–24). → §5.5.
+- Brick Underground New Springville (soundbar SI §7): attached/semi/detached high ranches built 1960s–70s. → §7 hi-ranch card.
+- `Staten Island hi-ranch high ranch home layout garage lower level den split entry` · FC search (NEW): https://prodigyre.com/blog/mother-daughter-high-ranch-value-staten-island-2026 (excerpt: mother-daughter "typically a high ranch with a finished lower level, separate entry, and second kitchen"); https://www.defalcorealty.com/blog/540-steuben-st-luxurious-hi-ranch-home-in-staten-island-ny-10305/ ("split-level layout, a hallmark of Hi-Ranch homes"). → §7 two-family card, hi-ranch method para.
+- DeFalco Arden Heights (soundbar SI §7): townhome communities Village Greens, Aspen Knolls. → §7 townhouse card.
+- `Staten Island backyard swimming pools number homes silive` · FC search (NEW): https://www.zillow.com/staten-island-new-york-ny/with-pool/ — excerpt "Homes for Sale in Staten Island NY with Pool 168 results" (snapshot, Oct 2026). Stated on page as "when we checked Zillow in October 2026 there were 168 ... listed with a pool". → §5 para 3. No borough-wide pool/deck statistic found → none stated.
+- Bay Street corridor (soundbar SI §9, MAS): 20-block, 45-acre, ~2,560 units. NY4P "most diverse and dense". → §5 para 6.
+
+### 8. Sandy / raised houses / outages
+- Build It Back https://www.nyc.gov/site/housingrecovery/disaster-recovery/single-family-program.page (soundbar SI §8): repair with elevation; "over 110 attached homes ... elevated or reconstructed". → §5 para 5, §7 card, Shore Homes section.
+- PBS NewsHour 2015 (soundbar SI §8): >2,100 SI homes destroyed. → §5 para 5, §5.5.
+- SILive Sept 2026: 1,663 SI Con Ed outages (nor'easter), 431 outages / Midland Beach & Grasmere (soundbar SI §8). → §5.5, §10.5 H3 7, Shore Homes section ("another SILive report that month" — relative order of the two storms not asserted).
+
+### 9. Commercial corridors (§8)
+- Hylan Blvd — https://en.wikipedia.org/wiki/Hylan_Boulevard (SI15/soundbar §9): ~14 mi Rosebank→Tottenville; longest street in a single borough.
+- New Dorp BID — silive 2017 / citylandnyc (180 businesses, 146 properties, mile-long).
+- Staten Island Mall — Wikipedia (1973, New Springville, only indoor mall).
+- Forest Avenue — silive opinion piece (soundbar §9): "home to a number of saloons over the years".
+- Victory Blvd / West Shore — https://www.siedc.org/neighborhoods (SI17, names only).
+
+### 10. Codes / compliance (NEW this run unless noted)
+- `NYC noise code personal audio device sound reproduction device plainly audible 25 feet residential backyard music` · FC search → https://nycadmincode.readthedocs.io/t24/c02/sch06/ (excerpt with full text): §24-244(a) no sound reproduction device "in such a manner as to create unreasonable noise"; §24-244(b) no device for commercial advertising/attracting attention outside premises abutting a public street, park or place; §24-233 personal audio device plainly audible at 25 ft in public right-of-way / from vehicle. Also https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-209196. → §8.5 bullet 2, §9 noise-code note, restaurant patio Q.
+- DEP noise fact sheet (silo NYC entry): commercial music ≤42 dBA inside dwelling; complaints via 311. → §8.5, noise note, patio Q.
+- `Staten Island noise complaints 311 loud music ...` · FC search → https://www.vitalcitynyc.org/nyc-noise-regulation-history/ (excerpt: "Residential noise — music, parties, banging, a television through the wall — accounts for half of every 311 noise complaint in the city.") → §5 para 4. Also https://www.facebook.com/statenislandadvance/posts/.../939576018208443/ (excerpt: "Of the nearly 6000 residential noise complaints on Staten Island, more than half were for loud music/partying") — undated → NOT used. https://www.silive.com/news/2023/05/... (vehicle noise) → not used.
+- `Staten Island deck permit NYC DOB backyard deck requirements homeowners` · FC search + FC scrape https://www.nyc.gov/site/buildings/property-or-business-owner/decks-porches-swimming-pools.page: decks need DOB-approved plans/permits by PE/RA; depth up to 8 ft into rear yard; ≥3 ft from property lines; railings ≥42 in; pools need work permits (exceptions incl. some above-ground), BC §3109 incl. "Electrical precautions". → §9 deck-posts Q (permits, 42 in), pricing "pool bonding ... electrician".
+- Party wall as fire separation: general statement ("usually"), not sourced to a code section. **Flag.**
+
+### 11. Sonos product facts — all from silo-wide research (support.sonos.com / sonos.com / reviews) already in research/sonos-installation.md, plus NEW:
+- `support.sonos.com play TV audio in other rooms group home theater speakers` · FC search → https://en.community.sonos.com/home-theater-228993/playing-tv-in-other-rooms-6819748 (excerpt: group speakers with the TV room via the group button); https://www.reddit.com/r/sonos/comments/12kgne1/ (excerpt: "You can use grouped playback to hear TV sound on all your other Sonos speakers"); https://support.sonos.com/en-us/article/group-and-ungroup-rooms (title). → §9 "game on the TV, sound on the deck" note. (A Facebook excerpt claiming tech support said it isn't supported — not used; lag described generically, no figure.)
+- `support.sonos.com set volume limit Sonos room maximum volume` · FC search → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products (excerpt: "Settings tab, select System. Select the name of the product ... Under Sound, select Volume Limit. Use the slider to set the maximum volume"). → §9 volume-ceiling note, Outdoor Zone Planner step 5.
+- Night Sound and sleep timer mentioned as Sonos app/soundbar features without a fetched source this run. **Flag (low risk).**
+
+### 12. Local news / hyperlocal (Sonos/home audio on Staten Island) — EMPTY (no SI news item about Sonos or home audio found). SILive items used only for outages.
+
+### Pricing used (no new prices)
+From research/tv-mounting-prices/BRIEF.md, live tv-mounting-prices-staten-island.html and the Sonos hub: Sonos setup $125 · soundbar wall-mounted $129 / placed $79 · Sanus bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming device $49 · full home theater $350 · walls metal +$30 / plaster +$45 / brick-stone +$65 / block +$75 / tile +$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · SI setup-only $225 first hour then 30-min blocks · SI TV base $209.99 (32–55") +$30 (56–65) +$60 (66–75) · outdoor TV mount +$90 · $150 return trip · free reschedule 24 h. Per-zone range $800–$2,500 (av-sound-installation-nyc.html, as used on the NYC hub) for outdoor and in-ceiling zones, exact figure at walkthrough. Sonos Combo Adapter $39 = Sonos's retail price (HV entry), labelled as such. No-toll/travel statement from live tv-mounting-prices-staten-island.html. §9 SI ×1.10 is already embedded in the SI base/hourly lines; add-on lines are flat across areas on the live price pages (same convention as soundbar-installation-staten-island). Derived totals: $224 (125+99), $413.99 (125+129+84.99+75), $338.99 (125+129+84.99), $732.99 (350+129+84.99+169), $493.99 (209.99+30+129+125).
+Not used: av-sound-installation-staten-island.html ranges ($12K–$30K; page carries 4.6/190 — inconsistent with current conventions).
+
+### Images (permanent image rule — Drive folder empty, CompanyCam not connected)
+11 copied from images/low-voltage/ → images/sonos-installation/, converted to WebP q80 (1400 px wide, sources ≤1600):
+| New file | Source (images/low-voltage/) | Section |
+|---|---|---|
+| sonos-installation-staten-island-restaurant-dining-ceiling-speaker.webp (hero, eager) | low-voltage-installation-staten-island-14-restaurant-ceiling-speaker.jpg | Hero |
+| …-brick-exterior-conduit-box.webp | low-voltage-installation-staten-island-exterior-enclosure-install.jpg | §5 |
+| …-ceiling-speaker-amp-on-cart.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | §6 |
+| …-metal-stud-cable-feed.webp | low-voltage-installation-bronx-stud-rough-in-boxes.jpg | §7 |
+| …-three-techs-wall-display.webp | low-voltage-installation-staten-island-11-conference-room-display-cabling.jpg | §8 |
+| …-recessed-tv-box-cabling.webp | low-voltage-installation-bronx-display-recessed-box.jpg | §9 |
+| …-wall-jack-termination.webp | low-voltage-installation-nyc-04-keystone-wall-plate-termination.jpg | Outdoor planner |
+| …-ceiling-access-point.webp | low-voltage-installation-staten-island-09-ceiling-access-point-drop.jpg | §10 |
+| …-rack-laptop-network-config.webp | low-voltage-installation-nyc-rack-switch-config.jpg | §10.5 |
+| …-patch-panel-punch-down.webp | low-voltage-installation-nyc-05-cat6-patch-panel-punchdown.jpg | §12 |
+| …-open-framing-cable-pull.webp | low-voltage-installation-staten-island-10-metal-stud-rough-in.jpg | §13 |
+Not previously on a Sonos page: patch-panel punch-down, open-framing (metal-stud rough-in). The other nine photos also appear (under other names) on NYC/LI/HV Sonos pages and on the parallel Bronx/Nassau drafts — the low-voltage library has only ~38 distinct photos and only a handful show speakers/AV. Several show technicians' side profiles and the (800) number printed on shirts; no customers, house numbers, readable plates or documents. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real Sonos Installation photos yet)`.
+
+## Question register — sonos-installation-staten-island
+
+### §9 YOUR QUESTIONS ANSWERED (H3 questions)
+1. The back of the house is vinyl siding — what do the outdoor speaker brackets actually hold onto?
+2. Can the speakers mount on the deck's posts or a pergola instead of the house wall?
+3. How does the wire get from an Amp in the basement to the back of the house without showing?
+4. We're re-siding the house next spring — should the speaker wire go in now or wait?
+5. Do outdoor speakers belong up by the gutter or down under the deck roof?
+6. Whose sign-off do we need before an outdoor speaker goes on an association-maintained facade?
+7. Is it a mistake to cut in-wall speakers into a townhouse party wall?
+8. Our restaurant on Hylan Boulevard has a back patio — does patio music need anything beyond the indoor system?
+
+Non-question H3 notes inside §9 (deliberately not phrased as questions because the Bronx/Nassau drafts hold those intents): "Salt air near the East and South Shore" (≈ Bronx City Island salt-air Q); "The game on the TV, the sound on the deck" (≈ Nassau TV-sound-on-deck Q); "What the city's noise code says about a private yard" (≈ Bronx legal noise limit / Nassau backyard music time); "A volume ceiling for the yard" (≈ Bronx volume-limit Q); "Owner upstairs, tenant downstairs" (≈ Bronx/Nassau two-family Qs); "What can stay at ground level in a lifted house" (≈ Nassau Freeport raised-house Q).
+
+### §17 FAQ (visible == FAQPage, 7)
+1. Can you set up Sonos in a house we are closing on, before we move in?
+2. What happens if it rains on the day the outdoor speakers are booked?
+3. Can a guest at our barbecue play their own music through the speakers?
+4. Can speaker wire be buried across the lawn to the far end of the yard?
+5. When old outdoor speakers come down, who fills the holes they leave?
+6. Do you mount outdoor TVs for the deck, too?
+7. Can a restaurant or shop install happen before we open, so customers are not disturbed?
+
+### Other question-form headings (CTA / repair capture)
+- H2 "Yard Speakers Gone Quiet on Staten Island?"
+- H2 "Want a Written Number for Your House?"
+
+De-dup notes: checked against the NYC/LI/HV registers and the Bronx and Nassau drafts on disk at ~08:45. Dropped during build because a sibling holds the intent: toll/travel charge FAQ (Bronx + Nassau), deposit/payment FAQ (Bronx + Nassau), walkthrough-vs-phone pricing FAQ (Nassau), electrician same-day FAQ (Nassau), moving-house FAQ (NYC Q19). Partial overlaps for the main run to judge: Q2 deck posts vs LI patio-neighbors Q (different intent: structure); Q5 mounting height vs LI "Will patio speakers bother the neighbors on a quarter-acre lot?"; Q6 HOA approval vs Nassau "Long Beach condo board won't allow anything on the balcony"; FAQ 6 outdoor TV vs HV "TV mounted on the same visit as the soundbar"; FAQ 7 restaurant before opening vs NYC FAQ 5 hours.
+
+
+## Nassau County (sonos-installation-nassau-county)
+
+Built 2026-10-17 by the Nassau subagent of batch `sonos-installation-bronx, sonos-installation-staten-island, sonos-installation-nassau-county`. Page: child of /sonos-installation-long-island · phone (516) 346-5778 (body, CTAs, schema; (800) 486-0943 only in the shared mega-nav header) · Brooklyn GBP 1282 Troy Ave, schema @id #brooklyn.
+Format: exact query · platform · URL · finding · page + section used. "FC search/scrape" = Firecrawl MCP; "WS/WF" = WebSearch/WebFetch.
+
+**Thesis:** in Nassau the route for the wire, not the speaker, decides the Sonos system. Five house families (Levitt-era slab ranches/Capes, pre-war Tudors/Colonials, Gold Coast estates, raised South Shore canal houses, Long Beach concrete condos + new station-area rentals) each have one workable route; equipment stays above the flood line and outdoor zones are designed for tight lots and town/village noise chapters.
+
+### Building stock
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| N1 | `Levittown 17,447 houses built 1947 1951 Cape Cod ranch expansion attic unfinished` · FC search | https://kerimurrayarchitecture.com/levittown-ny/ (excerpt) | 17,447 homes 1947–1951; Capes 750 sq ft with unfinished attic; ranches on concrete slabs, expandable attic, no garage, hot-water radiant heating pipes; 1951 partially finished attic | §5 para 2, §5.5 bullet 1, §9 slab Q, §10.5 H3 4 |
+| N2 | carried from research/smart-lock-installation.md L11 / soundbar research (not re-fetched) | https://omeka.hofstra.edu/exhibits/show/levittown--the-birthplace-of-s/the-levitt-home | "built atop a concrete slab with embedded heating pipes instead of a costlier excavated basement" | §5 para 2, §5.5 bullet 1 |
+| N3 | `Gold Coast mansions Long Island North Shore number of estates 1920s wikipedia` · FC search → FC scrape (directQuote) | https://www.thirteen.org/program-content/a-guide-to-long-islands-gold-coast-mansions/ | "In a forty-year period that spanned from the 1890s through the 1930s, more than 1,200 mansions were built on the Long Island's North Shore – the Gold Coast"; "Of the more than 1,000 grand estates that once existed, today less than a third remain." | §5 para 3, §5.5 bullet 2 |
+| N4 | `Garden City NY Estates section Tudor colonial homes 1920s architecture history village` · FC search | https://www.gardencityny.net/228/Village-History (excerpt: "One of America's earliest planned villages… sixty well-built homes on spacious lots"; FC scrape returned empty answer); https://yadlynd.com/blog/classic-garden-city-home-styles-and-what-they-offer (realtor blog: "brick Georgians, custom Tudors and newer Neo-Colonial homes appear in the Estates and The Hill areas"); https://www.redfin.com/city/7197/NY/Garden-City/vintage (listing excerpts: Tudor and Colonial in the Estates section) | §5 para 3, §6 card, §7 card. Realtor sources — flag. Founding 1869 / A.T. Stewart / Cathedral 1885 carried from smart-lock L12 (Wikipedia Garden City) |
+| N5 | `Long Beach NY oceanfront condominium buildings Shore Road high-rise condos concrete` · FC search → FC scrape | https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/long-beach-residents-ny-officials-call-stricter-inspections | 2021 (after Surfside): "Long Beach is the only area on Long Island with oceanfront high-rises. The city has about 43 high-rises between six and 10 stories tall"; "sea air, blowing sand and corrosive salt water"; Kemins: "All our buildings get sandblasted every day…"; engineer: balcony steel "looked like Swiss cheese" | §5 para 4, §5.5 bullet 3, §9 Long Beach Q, §10.5 H3 5, §13 card |
+| N6 | carried from research/soundbar-installation.md (Long Beach Herald, not re-fetched) | https://liherald.com/stories/long-beach-homeowners-struggle-to-pay-for-house-raising,47188 | FEMA found 860 Long Beach homes substantially damaged → raised or demolished (Building Commissioner Scott Kemins) | §5 para 4 |
+| N7 | `Westbury Mineola new apartment buildings near LIRR station units transit-oriented development Nassau 2025` · FC search | https://libn.com/2026/09/04/westbury-approves-100m-transit-oriented-development/ (excerpt); https://greaterlongisland.com/industrial-site-to-become-187-unit-apartment-complex-in-westbury/ ; https://praxisinc.us/westbury-a-model-for-smart-pro-housing-development-in-new-york-state/ ; r/longisland https://www.reddit.com/r/longisland/comments/1koazwc/ (title only) | Westbury Village Board unanimously approved $100M TOD on former MTA lot (Sept 2026), roof terrace, resident lounge; 2019 downtown zoning, 50-acre area; $97M 187-unit Alpine Residential project | §5 para 5, §5.5 bullet 6, condo/rental section |
+| N8 | carried from soundbar research (LIBN 2023, not re-fetched) | https://libn.com/2023/08/01/85m-transit-oriented-development-advances-in-mineola/ | 119 apartments across from Mineola LIRR | §5 para 5 ("Mineola" named only generally) |
+| N9 | `Freeport Massapequa canals South Shore Nassau waterfront homes bulkhead canal miles` · FC search | homes.com / robyngoldowski.com / iaquintarealestate.com (excerpts: Massapequa Grand Canal; canal homes "closer neighbor proximity") | General only — no statistic used; canal houses described generally | §5 para 4, outdoor section |
+
+### Codes, permits, licensing
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| N10 | `Town of North Hempstead noise code sound reproduction device plainly audible property line` · WS → WF | https://www.nonoise.org/lawlib/cities/ordinances/North%20Hempstead,%20New%20York.pdf | Ch. 38, L.L. 13-2003 (10-21-2003): §38-3(2)(a) radio/TV/sound amplifier "between the hours of 10:00 p.m. and 8:00 a.m." creating a noise disruption across a real property boundary; no residential dB limit; OCR-garbled source | §5 para 6, §5.5 bullet 5, §8.5, outdoor section |
+| N11 | `Town of Hempstead noise ordinance amplified sound residential hours decibel` · WS → WF | https://ecode360.com/7217567 | This is the **Village** of Hempstead Ch. 95 Art. VI: §95-8.3B 45 dB(A) inside neighbouring building; §95-8.3N 65 dBA day / 50 dBA night at residential property line (equipment); §95-8.3L PA permit from Board of Trustees, 150 W cap | §5 para 6, §8.5, outdoor section |
+| N12 | `Town of Oyster Bay noise ordinance radio amplifier night hours chapter` · WS | no Oyster Bay code returned | EMPTY — page says other towns/villages have their own wording, not quoted | — |
+| N13 | (direct) · WF | https://nassaucountyny.gov/3465/Who-Must-Be-Licensed | DCA home improvement definition (≤3-family residence); list includes carpentry, drywall, painting, swimming pool, solar, etc.; electrical, low-voltage, audio, speakers, TV, antenna, alarm, wiring NOT named | §9 licence Q, §10.5 H3 7 |
+| N14 | carried from smart-lock research L2 (not re-fetched) | https://archive.nassaucountyny.gov/agencies/OCA/Licensing/FAQ.html | licence number must be on contracts | §9 licence Q |
+| N15 | `Town of Hempstead Department of Buildings permit required list electrical work deck pool` · FC search | https://permitnotebook.com/new-york/town-of-hempstead/electrical-permit/ (third-party summary citing Town Code 86-11C(1)); https://www.gardencityny.net/168/Building-Department ("When Do I Need to Apply for a Building Permit?", electrical permit form); https://villageofwestbury.gov/building | Town of Hempstead permits for electrical, deck, pool (third-party — FLAG); villages run own building departments | §9 permit Q, §8.5 |
+| N16 | no source found for a Nassau rule requiring a permit for speaker wire | — | EMPTY — page says "we have not found a rule… and we don't claim one exists" | §9 permit Q, §10.5 H3 7 |
+| N17 | carried from smart-lock L3 | https://nassaucountyny.gov/3406/Cities-Towns-Villages | 2 cities, 3 towns, 64 villages | §9 permit Q |
+
+### Flood / power
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| N18 | `FEMA "below the BFE" utilities equipment elevated above flood elevation homeowner guide…` · FC search (excerpts) | https://agents.floodsmart.gov/sites/default/files/media/document/2025-07/fema_nfip-p-348-protecting-building-utility-systems-from-flood-damage-2017.pdf ("Preferably, the meter, service disconnect, and main service panel… should all be placed above the required flood elevation"); https://www.ruidosodowns.us/fema_nfip-homeowners-guide-retrofitting-2014.pdf (FEMA P-312: service equipment originally in basement must be raised above flood protection elevation); https://www.slcinsure.com/wp-content/uploads/2018/03/FEMA.pdf (Sandy Recovery Advisory 7: "every part of a building that is below the BFE is susceptible to flooding during the base flood") | §5 para 4, §9 raised-house Q, raised-house checklist, §10.5 H3 6 |
+| N19 | carried from soundbar research | https://flood.nc.gov/NCFLOOD_BUCKET/NFIP/Attached%20Garages%20Fact%20Sheet_October2024.pdf | enclosure = parking, limited storage, building access | §9 raised-house Q |
+| N20 | `PSEG Long Island Isaias 2020 customers lost power Nassau days restoration` · FC search → FC scrape (PDF) | https://www.lipower.org/wp-content/uploads/2020/09/LIPA-Isaias-30-Day-Report-Final.pdf | Aug 4, 2020; "approximately 645,000 customer outages. Full restoration took eight days" | §5.5 bullet 4, §9 storm Q |
+| N21 | `support.sonos.com power outage surge protector…` · FC search | https://en.community.sonos.com/speakers-229128/connectivity-issues-after-power-cut-6933055 (excerpt: older devices take longer to reboot; be patient) | No Sonos support article on surge protection found — surge strip advice stated as installer practice | §9 storm Q |
+| N22 | `EPA vermiculite attic insulation asbestos do not disturb guidance homeowners` · FC search | https://www.epa.gov/asbestos/protect-your-family-asbestos-contaminated-vermiculite-insulation | "YOU SHOULD ASSUME THE VERMICULITE CONTAINS ASBESTOS AND DO NOT DISTURB IT!"; use trained professional for removal | §9 attic-insulation Q |
+
+### Internet providers
+| N23 | `Optimum Altice Long Island Nassau Suffolk cable franchise Verizon Fios…` · FC search | https://www.verizon.com/home/internet/near-me/long-island-new-york/ (excerpt: Fios across Nassau/Suffolk, compares with Optimum HFC; speeds to 4.5–5.3 Gbps) | §9 gateway Q, §10.5 H3 3 |
+| N24 | `reddit longisland Optimum router Sonos OR "whole house audio"…` · FC search | https://www.reddit.com/r/sonos/comments/10lthhk/optimum_xfinitiy_router_settings_for_sonos/ (excerpt only) | r/longisland Sonos threads: EMPTY. r/sonos Optimum-router excerpt as context only (not quoted) | — |
+
+### Corridors and landmarks
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| N25 | (direct) · FC scrape | https://en.wikipedia.org/wiki/New_York_State_Route_24 | Hempstead Tpke: Belmont Park, UBS Arena, Elmont, Franklin Square, West Hempstead, Fulton Ave through Village of Hempstead, Hofstra, East Meadow, Levittown | §8 card |
+| N26 | (direct) · FC scrape | https://en.wikipedia.org/wiki/Old_Country_Road | shopping centres in Carle Place and Westbury incl. Roosevelt Field and The Mall at the Source; through Hicksville | §8 card |
+| N27 | `Roosevelt Field mall Old Country Road Garden City largest mall…` · FC search | https://en.wikipedia.org/wiki/Roosevelt_Field_(shopping_mall) | largest shopping mall on Long Island | §8 card |
+| N28 | carried (soundbar/smart-lock research) | Wikipedia Americana Manhasset (2060 Northern Blvd, Miracle Mile); Mineola (Jericho Tpke main street, NYU Langone Hospital–Long Island, Old Country Rd southern border); NY 27 (Sunrise Hwy villages, LI hub research); Nassau Coliseum (1255 Hempstead Tpke); iloveny.com Freeport Nautical Mile | §8 cards, §13 |
+| N29 | `Jones Beach Theater … opened 1952 capacity` · FC search | https://en.wikipedia.org/wiki/Jones_Beach_Theater (opened June 26, 1952; capacity 15,000); https://jonesbeach.com/... (1998 expansion to 15,000) | §13 card |
+| N30 | `Tilles Center … opened 1981 concert hall seats` · FC search | https://www.tillescenter.org/about/history ("seated 2,250 people, with no audience member more than 125 feet from the stage"); https://upperbrookville.gov/tillescenter-for-the-performing-arts-at-liu-post/ | §13 card |
+| N31 | `Sands Point Preserve Hempstead House Falaise…` · FC search | https://www.businessinsider.com/tour-falaise-long-island-mansion-modeled-on-medieval-french-castle-2024-9 (216-acre; given to Nassau County; Hempstead House Tudor-style completed 1912, bought by Guggenheims 1917; 50,000 sq ft) | §13 card |
+| N32 | carried from smart-lock L10/L12 | Wikipedia Long Beach (boardwalk 2.2 mi, reopened Oct 25 2013); Wikipedia Garden City (Cathedral of the Incarnation 1885, tallest building, height limits) | §13 cards |
+
+### §10.5 published claims (AI Overview itself EMPTY)
+- https://www.taskrabbit.com/locations/hempstead/wall-mount-tv · FC scrape · "TV mounting in Hempstead starts at $45 per hour and will vary from Tasker to Tasker." → H3 1.
+- https://www.thumbtack.com/ny/massapequa-park/tv-wall-mount-install · FC scrape · "TV wall mount with wires hidden inside wall: $139"; national average "$100 and $130" → H3 2.
+- Verizon LI page (N23) → H3 3; Levittown (N1) → H3 4; NY Senate Long Beach (N5) + Sonos outdoor spec → H3 5; FEMA (N18) + Sonos Amp 32–104°F → H3 6; DCA (N13) → H3 7.
+
+### Sonos product facts — reused from silo research (no new fetches)
+System requirements (32 products, same network, 2.4 GHz, no guest networks/extenders/EoP, WPA2/3 Personal); interference article (plaster/concrete high, metal very high); Amp guide (125 W/8 Ω, ≥3 in clearance, 32–104°F, 2 per 2U / 4 per 3U, up to 3 pairs Architectural); Port guide (2 in clearance, away from radiators); in-ceiling manual (obstruction survey, pilot hole, Roto-Lock 1-1/4 / 1-7/8 in; cut-outs 8.25 / 10.125 in; depth 4.73 / 5.32 in); ceiling guide (pair ~150 sq ft); outdoor pair (IP66, Mil Spec 810, −13–149°F, 16 ga); Sub placement (front opening clear, ≥1 in under furniture); Arc Ultra (46.38 in, 13 lb, eARC, Wi-Fi 6, wall EQ, ≥4 in gap, Alexa/Sonos Voice Control); Era 300 mount stud-only 15°; Move 2 IP56 24 h, charging base indoor only, 32–104°F; Roam 2 IP67 10 h; Era 100 Pro PoE+; Ray optical; wired-network recommended settings.
+Not sourced, stated generally (flag): Sonos app room volume limit, Sub level/night sound settings, sleep timer/alarms, soundbar grouping with other rooms, lip-sync as TV setting.
+
+### EMPTY sources
+Google PAA · Google PASF · Answer the Public · Google AI Overview · Bing/DuckDuckGo · Yelp 1–3★ — EMPTY (not accessible in build env). r/longisland Sonos/home-audio threads — EMPTY (only a Westbury apartments thread title). Local news (Newsday/Patch/LI Herald/News12) for Sonos or home audio in Nassau — EMPTY. Town of Oyster Bay / Town of Hempstead noise code text — EMPTY. Nassau permit rule for speaker wire — EMPTY. Field Notes: no sourced Nassau job anecdote → written as general practice, labelled.
+
+### Prices used (no new numbers)
+Source: research/tv-mounting-prices/BRIEF.md verified list (Nassau rates) + live tv-mounting-prices-nassau-county.html (no parking/travel charge in Nassau): Sonos setup $125; soundbar placed $79 / wall-mounted $129; full home theater $350; A/V receiver $129; in-wall concealment $169; cord cover $59; cable run ≤25 ft $99; streaming $49; universal remote $99; TV base Nassau $209.99, size adds +$30/+$60/+$100; above fireplace +$130; walls metal +$30, plaster +$45, brick/stone +$65, concrete/block +$75, tile/marble +$95; backer $85; high mount $75; walk-up 3rd fl+ $40 (mentioned, not priced in an example); box removal $25; COI free; setup-only Nassau $225 first hour then 30-min blocks; Queens comparison $195 setup-only and $179.99 TV base (FAQ 1); $150 return trip; free reschedule 24 h. Packages $204 / $353 / $731.99 and worked examples $204, $668.99 (+$59 = $727.99), $597.99, $254 (+$99) are sums of those lines. Ceiling/in-wall/outdoor speakers, Amp zones, Ethernet runs = written quote after walkthrough. §9 ×1.15 multiplier not applied separately (BRIEF already lists Nassau-specific rates). "Fixed-price lines paid in full online at booking" extends BRIEF's "TV jobs paid in full online at booking" to Sonos add-ons — FLAG.
+
+### Images (11 — permanent image rule; Drive folder empty, CompanyCam not connected)
+All from images/low-voltage/, converted to WebP q80 (1400 px, no upscaling), viewed before use. The low-voltage library looks AI-rendered in style (as earlier silo notes say). Worker side profiles are visible in several (company staff, no customers); the tone-generator photo with a full face was skipped; the near-duplicate conference ceiling-speaker photo was skipped. AESS's own 800 number appears printed on some shirts.
+| File (images/sonos-installation/) | Source (images/low-voltage/) | Section |
+|---|---|---|
+| sonos-installation-nassau-county-ceiling-speaker-amplifier-cart.webp (hero, eager) | low-voltage-installation-long-island-ceiling-speaker-install.jpg | Hero |
+| …-tv-wall-recessed-box-ethernet.webp | low-voltage-installation-bronx-display-recessed-box.jpg | §5 |
+| …-crew-hanging-screen-recessed-outlet.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | §6 |
+| …-open-framing-low-voltage-box.webp | low-voltage-installation-bronx-stud-rough-in-boxes.jpg | §7 |
+| …-dining-room-ceiling-speaker-wire-lead.webp | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg | §8 |
+| …-ethernet-wall-plate-termination.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg | §9 |
+| …-rack-patch-cables-switches.webp (new to silo) | low-voltage-installation-bronx-05-idf-rack-patching.jpg | §10 |
+| …-network-rack-laptop-setup.webp | low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg | §12 |
+| …-brick-wall-weatherproof-enclosure.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg | §13 |
+| …-ceiling-access-point-mount.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | §15 |
+| …-block-wall-conduit-cable-feed.webp | low-voltage-installation-nassau-county-riser-conduit-pull.jpg | outdoor section |
+Plus one inline SVG diagram (four house cross-sections, wire routes) in §7.5 — not a figure image.
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-nassau-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Our Levittown ranch sits on a slab with radiant heat in the floor — how does speaker wire get anywhere without a basement?
+2. Our Cape was dormered years ago and there's no attic left over the bedrooms — can the upstairs still get ceiling speakers?
+3. The attic over our 1950s Cape has loose, pebbly insulation — can speaker wire still be run through it?
+4. Can outdoor speakers be mounted on the stucco and half-timbering of our Garden City Tudor without cracking it?
+5. Can a Sonos Amp or Port live inside the built-in bookcases beside our fireplace?
+6. The TV in our Colonial hangs over the fireplace — where do the Sonos soundbar and Sub go?
+7. We want Sonos in more than thirty places across the house, pool house and terrace — is there a limit?
+8. On our raised canal house, how does wire reach the deck speakers without going through the flood vents?
+9. Our Long Beach condo board won't allow anything fixed to the balcony or the facade — how do we get music outside?
+10. Can Sonos run on the gateway Optimum or Verizon installed, or do we need our own router?
+11. Storms knock our power out every few years — how do we protect the Sonos Amps and the network gear?
+12. Does a Nassau village or town need to issue a permit for speaker wire and a Sonos install?
+13. Does whoever installs our Sonos need a Nassau County home improvement licence?
+
+### §17 FAQ (visible == FAQPage, 10)
+1. Why does Sonos installation cost more on the Nassau side of the city line than in Queens?
+2. Our house is about to be lifted — at what stage of the project should the Sonos wiring go in?
+3. Which parts of a Sonos job can you price over the phone, and which need a walkthrough?
+4. Will ceiling speaker cut-outs in a ranch ceiling let heat escape into the attic?
+5. How far ahead should we book Sonos for a summer party or a graduation?
+6. Will a Sonos soundbar work with the Optimum or Fios TV box we already have?
+7. What happens if a ceiling speaker location turns out to sit on a joist or a duct?
+8. What does your written quote for a wired Sonos zone actually list?
+9. Can the Sonos Sub be hidden inside a cabinet or behind the sofa?
+10. The TV sound from our Sonos is out of step with people's lips — can that be fixed?
+
+### Other question-form headings
+- H2 "Need Your Sonos Fixed in Nassau County Today?" (repair capture)
+- H2 "Sonos Quiet After the Storm?" (final repair capture)
+
+### De-dup notes (checked 2026-10-17 against NYC/LI/HV registers and the on-disk Bronx and Staten Island pages)
+Dropped during build because Bronx/SI (built in parallel) hold the intent: two-family/tenant separate Sonos (Bronx, SI); backyard legal noise limit (SI decibel Q) — Nassau noise-code facts kept in body only; travel/parking charge (Bronx, SI); elderly parent without smartphone (Bronx grandparents); payment/deposit (Bronx, SI); electrician same day (SI); soundbar TV sound on deck/kitchen (SI). Reframed: raised-house Q from "equipment in the enclosure?" to wire routing past flood vents (SI holds "is any gear safe at ground level after lifting"). Partial overlaps for the main run to judge: raised-house routing vs SI lifted-house Q; house-being-lifted timing FAQ vs LI #10 new-build walkthrough; storm protection Q vs HV power-cut recovery Q; cost FAQ (every page has one, framed here as Nassau vs Queens).
