@@ -150,9 +150,9 @@ BUILDING 2026-10-17T12:54Z | soundbar-installation-greenpoint-brooklyn-ny | Soun
 BUILDING 2026-10-17T13:20Z | soundbar-installation-bayside-queens-ny | Soundbar Installation | Bayside, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T13:20Z | soundbar-installation-kingsbridge-bronx-ny | Soundbar Installation | Kingsbridge, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T13:20Z | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation | New Dorp, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | soundbar-installation-greenwich-village-manhattan-ny | Soundbar Installation | Greenwich Village, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
-TODO | soundbar-installation-dumbo-brooklyn-ny | Soundbar Installation | DUMBO, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation | Jackson Heights, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T13:25Z | soundbar-installation-greenwich-village-manhattan-ny | Soundbar Installation | Greenwich Village, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T13:25Z | soundbar-installation-dumbo-brooklyn-ny | Soundbar Installation | DUMBO, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T13:25Z | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation | Jackson Heights, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
