@@ -182,9 +182,9 @@ BUILDING 2026-10-17T16:51Z | smart-lock-installation-pelham-bay-bronx-ny | Smart
 BUILDING 2026-10-17T16:53Z | smart-lock-installation-tottenville-staten-island-ny | Smart Lock Installation | Tottenville, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T16:53Z | smart-lock-installation-harlem-manhattan-ny | Smart Lock Installation | Harlem, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T16:53Z | smart-lock-installation-bay-ridge-brooklyn-ny | Smart Lock Installation | Bay Ridge, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | smart-lock-installation-long-island-city-queens-ny | Smart Lock Installation | Long Island City, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | smart-lock-installation-mott-haven-bronx-ny | Smart Lock Installation | Mott Haven, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | smart-lock-installation-great-kills-staten-island-ny | Smart Lock Installation | Great Kills, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T17:02Z | smart-lock-installation-long-island-city-queens-ny | Smart Lock Installation | Long Island City, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T17:02Z | smart-lock-installation-mott-haven-bronx-ny | Smart Lock Installation | Mott Haven, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T17:02Z | smart-lock-installation-great-kills-staten-island-ny | Smart Lock Installation | Great Kills, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
