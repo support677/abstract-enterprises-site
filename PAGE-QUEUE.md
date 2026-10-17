@@ -128,9 +128,9 @@ LIVE | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Install
 LIVE | sonos-installation-upper-east-side-manhattan-ny | Sonos Installation | Upper East Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-park-slope-brooklyn-ny | Sonos Installation | Park Slope, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-forest-hills-queens-ny | Sonos Installation | Forest Hills, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T15:19Z | sonos-installation-riverdale-bronx-ny | Sonos Installation | Riverdale, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T15:19Z | sonos-installation-todt-hill-staten-island-ny | Sonos Installation | Todt Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T15:19Z | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | sonos-installation-riverdale-bronx-ny | Sonos Installation | Riverdale, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | sonos-installation-todt-hill-staten-island-ny | Sonos Installation | Todt Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
