@@ -110,6 +110,21 @@ BUILDING 2026-10-17T10:56Z | smart-lock-installation-greenpoint-brooklyn-ny | Sm
 BUILDING 2026-10-17T11:05Z | smart-lock-installation-bayside-queens-ny | Smart Lock Installation | Bayside, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T11:05Z | smart-lock-installation-morris-park-bronx-ny | Smart Lock Installation | Morris Park, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T11:05Z | smart-lock-installation-west-brighton-staten-island-ny | Smart Lock Installation | West Brighton, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:14Z | fiber-optic-installation-financial-district-manhattan-ny | Fiber Optic Installation | Financial District, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T11:14Z | fiber-optic-installation-dumbo-brooklyn-ny | Fiber Optic Installation | DUMBO, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:14Z | fiber-optic-installation-long-island-city-queens-ny | Fiber Optic Installation | Long Island City, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | fiber-optic-installation-hunts-point-bronx-ny | Fiber Optic Installation | Hunts Point, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | fiber-optic-installation-chelsea-manhattan-ny | Fiber Optic Installation | Chelsea, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | fiber-optic-installation-brooklyn-navy-yard-brooklyn-ny | Fiber Optic Installation | Brooklyn Navy Yard, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | fiber-optic-installation-jamaica-queens-ny | Fiber Optic Installation | Jamaica, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | fiber-optic-installation-port-morris-bronx-ny | Fiber Optic Installation | Port Morris, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | fiber-optic-installation-st-george-staten-island-ny | Fiber Optic Installation | St. George, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | fiber-optic-installation-midtown-manhattan-ny | Fiber Optic Installation | Midtown, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | fiber-optic-installation-downtown-brooklyn-ny | Fiber Optic Installation | Downtown Brooklyn, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
