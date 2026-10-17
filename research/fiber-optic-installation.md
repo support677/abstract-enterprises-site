@@ -3031,3 +3031,99 @@ Service: fiber optic installation Midtown Manhattan, tower riser backbone, fusio
 - Can our suite get a fiber path with no splice points or patch panels in any shared closet?
 - Is armoured fiber required in a Midtown riser?
 - Can the backbone go in before the landlord finishes its base-building work on our floor?
+## Stapleton, Staten Island — local research (2026-10-17 batch, fiber-optic-installation-stapleton-staten-island-ny)
+
+Neighbourhood page under /fiber-optic-installation-staten-island (Brooklyn GBP #brooklyn, 1282 Troy Ave; phone (347) 934-8335). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. Silo-wide and Staten Island borough sources are reused only where noted.
+
+**Thesis:** Stapleton stacks three building generations inside a ten-minute walk — 1830s–1930 hillside houses (St. Paul's Avenue–Stapleton Heights HD), two-to-four-storey stores-with-apartments around Tappen Park on Bay/Canal/Water Streets, and post-2016 waterfront rentals plus 2019-rezoning mid-rises with required ground-floor retail — on a slope that runs down to a waterfront Sandy flooded. So Stapleton fiber is vertical and inside-out: get the line from a low, sometimes wet cellar entry to the first dry floor unspliced, run small risers through single stair halls, and secure building pathways in store ceilings before fit-outs close them. (Borough page = lot-to-lot outdoor links/aerial vs buried; St. George sibling expected civic/ferry; Bloomfield sibling expected West Shore industrial.)
+
+### Reddit (local)
+- Query: `reddit statenisland Stapleton internet Fios Spectrum apartment Bay Street` · Firecrawl search (excerpts only; reddit not scraped):
+  - https://www.reddit.com/r/statenisland/comments/1gnpbct/1st_building_completed_since_the_bay_street/ — title "1st building completed since the Bay Street Rezoning" (excerpt only, building not identified) → background for §8 rezoned-Bay-Street card; not quoted.
+  - https://www.reddit.com/r/statenisland/comments/1glwm5e/spectrum/ — "my Fios service is pretty awful" (excerpt, not Stapleton-specific) → not used.
+- Stapleton-specific resident threads on in-building wiring: EMPTY.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for §10.5 (all new claims, none used on the borough page):
+- Query: `cost to run fiber optic cable to a retail store or small business building per drop` · Firecrawl search (excerpts):
+  - https://unio.digital/blog/fiber-optic-installation-cost — "Fiber optic installation costs $1 to $6 per foot and $300 to $800 per drop for commercial buildings." → §10.5 H3 1.
+  - https://www.clawcomm.com/fiber-optic-installation-cost-in-the-bay-area-what-commercial-projects-actually-pay-and-what-impacts-price — "For a small office build-out under 5,000 square feet, budget at least $10,000–$15,000." → §10.5 H3 2.
+  - https://tssusa.net/blog/commercial-data-cabling/ — "Eyewear retail rollout (36 Cat6 drops per store): $8K–$12K per location" → §10.5 H3 7.
+- Query: `fiber optic cable lifespan years fragile myth bend installation small business` · Firecrawl search:
+  - https://www.lindenphotonics.com/debunking-common-myths-about-fiber-optic-cables — "Fiber optic installation is straightforward and efficient"; most providers offer professional installation; bend-insensitive fibers "allow the cable to bend around corners or fit into tight spaces without causing signal loss or damage" (article also says bend radius should not be exceeded) → §10.5 H3 3 and 4.
+  - https://www.facebook.com/Cailabs/videos/myth-the-lifespan-of-fiber-optic-cables-is-10-to-25-years-false-the-lifespan-of-/393152399604171/ — "can exceed 150 years" (excerpt) → §10.5 H3 5.
+  - https://www.quora.com/What-is-the-lifespan-of-fiber-optic-cable-when-laid-in-the-ground — "typically around 20-25 years" (excerpt) → §10.5 H3 5.
+- Query: `fiber internet installation how long does it take mixed-use building landlord permission tenant` · Firecrawl search:
+  - https://fcconnexion.com/upgrade-your-rental-to-fiber-internet-in-fort-collins-colorado/ — "The total timeline is typically 2–4 weeks from sign-up to activation"; "Does fiber installation damage the property? No." (excerpt) → §10.5 H3 6.
+
+### Neighbourhood facts, streets, landmarks
+- Query: `Urby Staten Island Stapleton former Navy homeport units opened Front Street` · WebSearch → https://en.wikipedia.org/wiki/Stapleton,_Staten_Island (WebFetch): bounds Tompkinsville at Grant St, Clifton at Vanderbilt Ave, west St. Paul's Ave/Van Duzer St (Grymes Hill); ZIP 10304; laid out 1830s by William J. Staples and Minthorne Tompkins; German breweries (last closed 1963); Seaman's Retreat 1832 (later Bayley Seton); incorporated as village of Edgewater 1884; SIR stop 1884; Navy homeport selected 1983, cancelled 1993; Urby opened 2016; Sandy (Oct 29 2012) threw tanker John B. Caddell onto Front St; 132 Canal St Carnegie library (1907, renovated 2011–13); NTA SI0102 2020 pop 19,027 (+17.5% from 16,192), 71.2% renter-occupied. → §5 paras 1/4, §5.5 (renter share, growth), §13 cards, block-by-block bounds, FAQ 1.
+- Same search → https://edc.nyc/project/new-stapleton-waterfront (WebFetch): 35-acre stretch; Phase 1 (Ironstate, fall 2011) opened 2016 with six-acre park; "nearly $200 million" public improvements; bioswales, tidal wetlands cove; esplanade; Bay Street Corridor rezoning approved 2019. → §5.5, §13 waterfront card, flood section.
+- Same search → https://www.fieldcondition.com/blog/2016/8/23/urby-staten-island (WebFetch): two buildings, "four and five story", 571 apartments, 115 affordable, Ironstate, completed 2016. → §5 para 3, §5.5, §7 card.
+- Query: `St. Paul's Avenue–Stapleton Heights Historic District designated Landmarks Preservation Commission` · WebSearch → https://6tocelebrate.org/site/st-pauls-avenue-stapleton-heights-historic-district/ (WebFetch): designated 2004; 92 freestanding houses; St. Paul's, Cebra, Marion Aves, Beach St; mid-1830s Greek Revival to 1906–1930 (about a third); styles Italianate, Second Empire, Queen Anne, Shingle, Colonial Revival; St. Paul's Memorial Church 1866–70. → §5.5, §7 card, §8.5, §13 card, historic-interiors section, block-by-block.
+- Query: `Tappen Park Stapleton Staten Island village hall Edgewater Hall history` · WebSearch → https://en.wikipedia.org/wiki/Edgewater_Village_Hall_and_Tappen_Park (WebFetch): built 1889, Paul Kuhne, Romanesque Revival; bounded by Wright, Water, Bay and Canal Sts; NRHP May 19 1980. → §5 para 1, §13 card, schema mentions.
+- Query: `Stapleton Houses NYCHA Staten Island buildings apartments completed` · WebSearch → https://en.wikipedia.org/wiki/Stapleton_Houses (WebFetch): six buildings, eight storeys, 693 units, 16.87 acres, completed May 31 1962; Tompkins Ave, Broad, Hill, Warren, Gordon Sts. → §5.5, §7 card, §13 card. https://www.nyc.gov/site/nycha/about/pact/stapleton.page (WebFetch): selected for PACT/RAD, first resident meeting Oct 20 2025; no unit count or timeline. → §5.5, §13.
+- Query: `Stapleton Staten Island Railway station Prospect Street ...` · WebSearch → https://en.wikipedia.org/wiki/Stapleton_station (WebFetch): Bay St & Prospect St; opened July 31 1884; elevated; rebuilt 1936 grade-crossing elimination; exits Prospect St and Water/Bay Sts. → §13 card.
+- Query: `John B. Caddell tanker Front Street Stapleton Sandy storm surge` · WebSearch → https://en.wikipedia.org/wiki/John_B._Caddell (WebFetch): 184.6 ft, driven onto Front Street, Stapleton, Oct 29 2012. → hero subhead, §5 para 4, flood section.
+- Query: `Stapleton Staten Island flood zone Bay Street Front Street Hurricane Sandy flooding waterfront` · WebSearch → https://www.dnainfo.com/new-york/20160502/stapleton/35m-waterfront-park-opens-stapleton (WebFetch): $35M, 6-acre park, bioswales and drainage to reduce neighbourhood flooding; on former Navy Homeport; next to Urby on Front St. → §5 para 4, flood section.
+- Query: `North Shore Action Plan Staten Island 2023 ...` · WebSearch → https://www.6sqft.com/nyc-releases-staten-island-north-shore-revitalization-plan-for-waterfront-access-and-housing/ (WebFetch): Sept 2023, $400M, 2,400 units, two-mile esplanade St. George–Stapleton by 2027. → background only (esplanade "under construction" wording); figures not quoted.
+
+### Bay Street Corridor rezoning / new buildings
+- Query: `Bay Street Corridor rezoning Stapleton Tompkinsville Canal Street Van Duzer Street mixed-use special district` · WebSearch → https://citylandnyc.org/major-staten-island-project-approved-by-city-planning-despite-significant-opposition-city-council-up-next (WebFetch): ~20 blocks / ~45 acres; 14 blocks of Bay St, two of Canal St; Special Bay Street Corridor District; Bay St was M1-1 (no residential); R6/C2-3, C2-4, R6B on Van Duzer; "required non-residential uses on ground floors within 50 feet of Bay Street"; ground-floor commercial optional on parts of Van Duzer St; some sites 12 storeys. Council approval June 26 2019 (citylimits, silo source). → §5 para 3, §5.5, §8 cards, fit-out section, block-by-block.
+- Same search → https://commercialobserver.com/2019/04/the-bay-street-rezoning-could-be-a-boon-to-the-area-or-a-migraine-for-residents (WebFetch): "half-mile stretch"; empty lots, auto shops, gas stations; buildings mainly one to four storeys; 475 Bay St BFC plan 214 units. → fit-out section para 1.
+- Same search → https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/bay-street-corridor/00-feis.pdf (WebFetch): Stapleton town center uses "generally mixed‐use developments with ground floor retail and residential uses above". → §8 Bay Street card. Floodplain text: EMPTY in this excerpt. Appendix C (block/lot list) has no flood text: EMPTY.
+- Query: `silive Stapleton Bay Street new building apartments retail 2025 construction` · WebSearch → https://blog.marketproof.com/new-building-permit-filed-for-541-bay-st-in-stapleton-staten-island/ (WebFetch): seven storeys, 92 units, ~6,589 sq ft commercial, filed June 2, 2025. https://blog.marketproof.com/new-building-permit-filed-for-490-bay-st-in-stapleton-staten-island/ (WebFetch): five storeys, 26 units, filed June 12, 2026. → §5 para 3. (https://www.pincusco.com/... 274-unit BFC filing, paywalled, address not stated → not used.)
+
+### Flood / code
+- Query: `NYC Building Code Appendix G flood-resistant construction utilities equipment above design flood elevation` · WebSearch → https://www.nyc.gov/assets/buildings/pdf/presentations/bsls22-flood_resistant_construction.pdf (WebFetch): flood hazard area = 1-percent-or-greater annual chance; installing new equipment below the design flood elevation where not previously present treated as increase in noncompliance (alterations). → §8.5 callout, flood section, building-terms list.
+- Stapleton lot-level FEMA/PFIRM zone status: EMPTY (no source retrieved; page tells owners to check the city flood map rather than asserting a zone).
+
+### Carriers / local news
+- Query: `Stapleton Staten Island 10304 fiber internet providers Verizon Fios availability` · WebSearch → only national ISP-listing sites, several for other "Stapleton"s; nothing Stapleton-NY-specific usable. EMPTY. Page relies on borough research (Verizon "virtually all" SI premises passed, Spectrum advertising) only as "Fios and cable service reach Bay Street" — FLAG: general, not address-verified.
+- SI Advance / silive articles on Stapleton fiber or cabling contractors: EMPTY (none retrieved).
+- Yelp 1–3★ Stapleton cabling contractors: EMPTY.
+
+### Pricing used (copied exactly from fiber-optic-installation-staten-island.html; no new prices)
+$39 termination; $44 OTDR/strand; $385 MM drop; $440 SM drop; $4,950–$7,700 12-strand OM4; $8,800–$16,500+ 24-strand OS2/building-to-building; from $2,640 second telecom room; $195/hr 3-hr min ($585). Packages: Starter $880 (2 × $440), Standard $4,950–$7,700, Premium $8,800–$16,500+; BYOE labour $195/hr, 3-hr min.
+
+### Images (11) — permanent image rule; Drive folder empty (checked by main run), CompanyCam not connected
+Copied to images/fiber-optic-installation/ as WebP q80. Printed phone numbers on shirts/caps/van side and the van's web address were pixelated + blurred; the floor-plan sheet in the patch-panel photo was blurred; the lobby photo was cropped to remove the building directory sign ("123 Main Street", apartment list). Sources chosen by perceptual hash as least-used in the fiber silo (most 0–2 prior fiber uses). Faces are visible (profile or partial) in most — the library has almost no face-free photos; flagged.
+| New file | Source |
+|---|---|
+| fiber-optic-installation-stapleton-fusion-splicer-rack.webp | low-voltage/low-voltage-installation-brooklyn-fiber-fusion-splice.jpg |
+| fiber-optic-installation-stapleton-block-wall-core-drill.webp | network/network-installation-nyc-core-drill-conduit-rough-in.webp |
+| fiber-optic-installation-stapleton-stud-wall-patch-panel.webp | low-voltage/low-voltage-installation-bronx-idf-patch-panel-build.jpg |
+| fiber-optic-installation-stapleton-wall-plate-tone-trace.webp | low-voltage/low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg |
+| fiber-optic-installation-stapleton-scissor-lift-access-point.webp | low-voltage/low-voltage-installation-bronx-access-point-lift-install.jpg |
+| fiber-optic-installation-stapleton-van-cable-reels.webp | low-voltage/low-voltage-installation-brooklyn-van-load-out.jpg |
+| fiber-optic-installation-stapleton-lobby-entry-panel.webp | low-voltage/low-voltage-installation-long-island-lobby-video-intercom.jpg (cropped) |
+| fiber-optic-installation-stapleton-rack-laptop-config.webp | low-voltage/low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg |
+| fiber-optic-installation-stapleton-gutted-floor-cable-staging.webp | network/network-installation-bronx-cat6-cable-box-staging-fitout.webp |
+| fiber-optic-installation-stapleton-entrance-intercom-wiring.webp | low-voltage/low-voltage-installation-bronx-11-video-intercom-entry-wiring.jpg |
+| fiber-optic-installation-stapleton-storefront-door-maglock.webp | low-voltage/low-voltage-installation-long-island-maglock-install.jpg |
+
+### Keyword plan (Stapleton page)
+Service: fiber optic installation Stapleton, fiber riser, storefront fiber fit-out, cellar-to-upper-floor fiber, fusion splicing, OTDR testing. Problem: wet cellar entry, store ceiling closing over building cables, services through neighbour's cellar, facade cable clutter, vanilla-box retail units, historic plaster, balloon framing, retaining walls, neighbour excavation, weak indoor cell signal, POTS alarm dialers. Technology: OS2, OM4, riser/plenum ratings, indoor/outdoor water-blocked cable, sealed sleeves, listed firestop, media converters/SFP. Industry: storefront retail, restaurants, mixed-use landlords, new rental buildings, churches/halls, NYCHA-area community organisations. Geographic: Stapleton, Stapleton Heights, Tappen Park, Bay St, Canal St, Water St, Wright St, Front St, Van Duzer St, Tompkins Ave, Broad St, St. Paul's Ave, Cebra Ave, Marion Ave, Beach St, Grant St, Vanderbilt Ave, Tompkinsville, Clifton, Grymes Hill, Rosebank, St. George.
+
+### Question register additions — fiber-optic-installation-stapleton-staten-island-ny
+§9 Questions Answered:
+- The tenant fitting out our ground-floor store wants to close the ceiling — what should be left in it for the floors above?
+- Can the fiber come into our storefront through the header above the roll-down gate instead of through the cellar?
+- Our retail unit was handed over as a vanilla box with only an empty sleeve to the building's telecom room — what do we still need?
+- Our building's phone and cable lines arrive through the cellar of the building next door — can our new fiber get its own way in?
+- A new mid-rise is going up next door — how do we protect our fiber entrance while they excavate?
+- Our lot is slated for redevelopment in a few years — can fiber installed now be recovered and reused?
+- Does the old balloon framing in our house make a cellar-to-attic fiber run easier, and does the cavity need fire-blocking afterwards?
+- A stone retaining wall separates our house from the garage below it — can fiber get through or over the wall without weakening it?
+- Cell signal is weak inside our new concrete building — can fiber help bring coverage indoors?
+§17 FAQ:
+- Do you work up in Stapleton Heights and out to the Clifton and Tompkinsville edges, or only near Bay Street?
+- How much dust and noise does a core-drilled entrance make inside an open shop?
+- Could drilling or cutting set off our building's smoke detectors?
+- Can a fiber link serve the network connection for electric-vehicle chargers in our lot or garage?
+- Does fiber cable add fire load inside the walls of a wood-frame house?
+- Do we see the test results before the final payment is due?
+- Can fiber feed a digital menu or sign screen in the shop window?
+- Our alarm still dials out over an old phone line — will it keep working once the building moves to fiber?
+
+De-dup notes: checked by meaning against all 16 fiber pages' questions (401 headings/FAQ). Dropped before drafting: historic-district/Landmarks entry (≈ Manhattan "landmarked or historic-district building"), cellar main-room-in-flood (≈ Manhattan), flood-damaged fiber (≈ Brooklyn underwater), reach second floor without passing through shop (≈ Orange), party wall (≈ Orange/Nassau), per-tenant provider holes (≈ Orange/Queens), mixed-use backbone keeping store and apartments apart (≈ Queens), elevated-train (≈ Queens), rack location (≈ Bronx/Orange), warranty (≈ SI/Queens), COI (≈ Queens), nights/weekends (≈ NYC hub). Closest remaining intents for the main run to judge: "vanilla box sleeve" vs Long Island "vacant office building near Route 110 — what fiber before move-in" (unit-level tenant fit-out vs whole-building move-in); "redevelopment — recover fiber" vs Orange "worth adding to a building we might sell" (salvage vs resale value); "test results before final payment" vs NYC hub "how do you prove a new link is good" (payment timing vs test method). Masked paragraph similarity (word-level difflib, ≥12-word body paragraphs, exempt warranty/licence/consent/NAP/stamp and shared nav) below 0.63 after rewrites (was 0.807 vs SI borough "who does what" paragraph; process step 4 rewritten from 0.632).
