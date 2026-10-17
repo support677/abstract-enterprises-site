@@ -58,3 +58,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-staten-island | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nassau-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-suffolk-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-bronx | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-staten-island | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nassau-county | QUEUED
