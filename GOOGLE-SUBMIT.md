@@ -52,3 +52,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-westchester-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-rockland-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-orange-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-manhattan | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-queens | QUEUED
