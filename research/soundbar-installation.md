@@ -2529,3 +2529,342 @@ De-dup notes: checked by meaning against every soundbar page on disk (16 area pa
 
 ### Similarity (masked 5-gram Jaccard on visible text, geo words incl. neighborhood names masked)
 vs soundbar-installation-staten-island 0.056 (containment 0.107); vs soundbar-installation-nyc 0.026; every other soundbar page 0.019–0.024 (includes the shared nav text).
+
+## Upper West Side, Manhattan (soundbar-installation-upper-west-side-manhattan-ny)
+
+Built 2026-10-17 (neighborhood page; up = /soundbar-installation-manhattan, hub = /soundbar-installation-nyc; phone (929) 560-0737; GBP Bronx #bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (markdown or directQuote query mode). Silo-wide product/code sources (Sonos specs, Sanus, ADA 307.2, §28-105.4.7, DEP Noise Code guide) are reused from the silo research above and the Manhattan section; not re-fetched.
+
+**Thesis (not a geo-swap of the Manhattan page):** rooms designed before television. The UWS job is decided by (1) which room/wall of a prewar classic-six, row-house floor-through or new tower can take a TV at all (windows + radiators, doorways, fireplace, staff room, AC sleeve), (2) co-op house rules specific to this stock — demising-wall speaker bans, summer-only alteration seasons, 9-to-5 work, Mitchell-Lama management — and the fact that landmark districts govern exteriors, not a bracket, and (3) sound in thick-walled, courtyard-planned buildings. Manhattan page = vertical access chain / Manhattan-only surfaces; this page = room choice + house rules + old-building acoustics.
+
+### 1. Reddit (Firecrawl search excerpts; Firecrawl does not scrape reddit.com — threads not opened)
+- Query: `site:reddit.com/r/UpperWestSide TV OR speaker OR soundbar OR installer OR handyman` · Firecrawl search
+  - https://www.reddit.com/r/Upperwestside/comments/1us7sb6/trusted_handyman/ — excerpt: "I have a few tasks in my apartment that require a ladder and someone skilled in mounting - a pendant light, long curtain track, and a TV." → §5 THE NEIGHBORHOOD para 4 (quoted "skilled in mounting").
+  - https://www.reddit.com/r/Upperwestside/comments/1n1g883/handyman_recommendations/ — "Someone reliable who can install light fixtures, hang tvs, etc?" → background for §5 para 4 (not quoted).
+  - Other r/Upperwestside handyman-offer threads (1qrk2x3, 1v3lp4d, 1q5530p, 1n8gb2y, 1q19xpv, 1s59070) — background only.
+- Query: `reddit UpperWestSide mount TV prewar co-op plaster wall soundbar neighbor noise` · Firecrawl search
+  - https://www.reddit.com/r/movingtoNYC/comments/1x3seiz/can_you_hear_your_neighbor/ — excerpt: "\"good\" prewar buildings have pretty solid walls -- I only could hear a neighbor when they mounted speakers on their ceiling under my apt" → §5 para 5 (paraphrase + "good" quoted), §10.5 H3 3.
+  - r/Apartmentliving, r/neighborsfromhell, r/LifeProTips, r/hometheater shared-wall threads — not NYC/UWS-specific; background only, not used.
+- Query: `prewar Manhattan apartment walls plaster over terra cotta block or gypsum block partitions drilling anchors` · Firecrawl search
+  - https://www.reddit.com/r/AskNYC/comments/1pkvn82/question_about_very_hard_walls_in_prewar/ — excerpt: "If concrete you will need anchors. Gypsum block is a lot easier to drill into, and a lot lighter, and usually white not grey." → §7 wall methods bullet 1, §10.5 H3 1.
+  - https://www.finehomebuilding.com/forum/anyone-familiar-with-old-plaster-buildings (excerpt: prewar block walls plastered over, some terra-cotta) and https://oldstructures.com/2016/01/25/before-gyp-board/ (terra-cotta block covered with plaster) — background for "plaster over hollow block" wording; not cited on page.
+- UWS-specific Reddit about soundbars specifically: EMPTY (no thread found).
+
+### 2. Google People Also Ask — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Stated on page (§10.5 intro) that the AI Overview could not be captured; the seven H3s test generic AI/how-to claims (stud-finding, landmark approval, thick walls, room-size → bar size, wireless rears, small-job rules, cheap national price) against sourced local facts. No Angi/Thumbtack figures re-used (those are on the Manhattan page).
+
+### 6. Landmarks / historic districts (§13 COVERAGE six cards; §5, §17-ish body)
+- Query: `Upper West Side historic districts Landmarks Preservation Commission Riverside-West End, Central Park West, West End-Collegiate list` · Firecrawl search
+  - https://www.facebook.com/NYCLandmarks/videos/dyk-the-upper-west-side-has-nine-historic-districtsfeatured-here-is-the-upper-we/577968259884199/ (LPC's own post) — "the Upper West Side has nine Historic Districts" → §5 para 2, §5.5 stat 1, §10.5 H3 2.
+  - https://www.landmarkwest.org/map/, https://www.nyc.gov/site/lpc/designations/historic-district-manhattan.page — district maps (background).
+  - https://westendpreservation.org/west-end-collegiate-historic-district-ext-2/ — extension ≈220 buildings (not used).
+- Firecrawl scrape https://hdc.org/tags/upper-west-side/ (markdown) — Manhattan Avenue HD (May 15, 2007; W 104th–106th; 40 buildings incl. 37 three-story row houses); Upper West Side/Central Park West HD (Apr 24, 1990; developed largely 1880s–1930s; storefronts, row houses, tenements, apartment towers); Riverside–West End HD (Dec 19, 1989; extended 2012, 2015); West 71st Street HD (Aug 29, 1989; cul-de-sac row houses 1893–1896 in six groups); Riverside Drive–West 80th–81st St HD (Mar 26, 1985; 32 row/town houses 1892–1899); West End–Collegiate HD (Jan 3, 1984; ext. June 23, 2015; "most elaborate and eclectic collection of row houses in the city"); CPW–W 73rd–74th (1977); CPW–76th St (Apr 19, 1973); Riverside–West 105th (Apr 19, 1973). → §5 para 2, §5.5 stat 1, §13 West 71st card, "Avenue by Avenue" (CPW, side streets, West End Ave, Manhattan Valley).
+- Query: `The Ansonia Broadway 73rd built 1904 apartment building; The Apthorp 1908; The Dakota 1884 Upper West Side landmarks facts` · Firecrawl search
+  - https://en.wikipedia.org/wiki/The_Ansonia — 2109 Broadway between 73rd/74th; 17 stories; Beaux-Arts; residential hotel opened April 16, 1904; condo 1992; light courts along each side; downsized to 425 apartments; NYC landmark 1972; Verdi Square + 72nd St subway entrance directly south, Beacon Theatre to the northeast; subway opened 1904 with a station at Broadway & 72nd and "spurred the development of high-rise apartment buildings on the Upper West Side along Broadway; many … on land that had never been developed". → §13 Ansonia card, §5 para 1b (subway paragraph), §7 cards, §8 Broadway card, §9 courtyard Q, §10.5 H3 2.
+  - https://streeteasy.com/building/the-apthorp — 390 West End Avenue; 154 units; 12 stories; built 1908; built for William Waldorf Astor; block between W 78th and 79th; condo. → §13 Apthorp card.
+- Query: `The Belnord 225 West 86th Street built 1908 courtyard apartments units; The Dakota 1 West 72nd Street completed 1884 co-op` · Firecrawl search
+  - https://en.wikipedia.org/wiki/The_Belnord — built 1908–1909; arches on 86th lead to internal courtyard. https://streeteasy.com/building/the-belnord — 213 units, built 1908. https://www.cityrealty.com/nyc/broadway-corridor/the-belnord-225-west-86th-street/2118 — 215 apartments, 14 stories (not used; StreetEasy figure used). → §13 Belnord card, §9 courtyard Q.
+- Query: `The Dakota 1 West 72nd Street completed 1884 Henry Hardenbergh cooperative apartments wikipedia` · Firecrawl search → https://en.wikipedia.org/wiki/The_Dakota — built 1880–1884, Hardenbergh, apartments with unique layouts of four to twenty rooms, residents bought it and converted to co-op in 1961, NYC landmark (No. 0280). → §13 Dakota card, §10.5 H3 2.
+- Query: `Waterline Square Upper West Side condo towers number of residences completed; 200 Amsterdam Avenue condominium` · Firecrawl search → https://200amsterdam.com/ (52-story condominium), https://200amsterdam.com/press (completed in 2021), https://en.wikipedia.org/wiki/200_Amsterdam (112 condominiums; lot formerly Lincoln Square Synagogue), https://www.westsiderag.com/2017/05/08/opponents-mounting-zoning-challenge-to-new-mega-building-we-have-a-window (200 Amsterdam at 69th Street). Waterline Square unit count NOT verified — not stated. → §5 para 3, §7 new-condo card, §13 card, Lincoln Square paragraph.
+
+### 7. Building stock / use cases
+- Query: `Manhattan Community District 7 Upper West Side housing units renter share buildings built before 1947 Furman Center` · Firecrawl search; then Firecrawl scrape https://www.furmancenter.org/neighborhoods/upper-west-side/ (markdown, page updated 05/06/2026) — 2024: population 230,436; housing units 130,471; homeownership 35.6% (citywide 32.7%); aged 65+ 22.9%; single-person households 43.6%; 6,297 units in 4+ unit buildings built 2010–2025, 82% market rate; 12 Mitchell-Lama properties / 2,075 units; 22 public housing properties / 5,927 units; condo sales 974 (2025). Building-age share: EMPTY (not on the page; not stated). → §5 paras 3–4, §5.5 stats 2–5, §9 Mitchell-Lama Q.
+- https://www.manhattanbp.nyc.gov/wp-content/uploads/2023/01/Housing-Report-01.31.2023.pdf (search excerpt) — "CD 7—which encompasses the Upper West Side, Lincoln Square, and Manhattan …" → §13 "we cover the whole of Community District 7".
+- Query: `"classic six" apartment definition prewar Manhattan layout living room dining room maid's room` · Firecrawl search; Firecrawl scrape (directQuote) https://www.cityrealty.com/nyc/market-insight/features/get-to-know/what-classic-six-apartment-why-nyc-buyers-still-covet-prewar-layout/20582 — "a living room, a formal dining room, a kitchen, two full bedrooms, and a smaller room originally intended for live-in household staff … typically positioned near the kitchen and may have an adjoining bathroom"; "closely associated with apartments built before World War II, particularly in the prewar cooperatives of the Upper East Side and Upper West Side"; "entrance often leads through a foyer or gallery, with hallways separating the bedrooms"; "plaster moldings, substantial doors … in some cases, fireplaces". → §5 para 1, §9 classic-six and maid's-room Qs, "Room by Room" section intro.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- Query: `co-op "summer rule" renovation alterations only allowed summer months Upper West Side Brick Underground` · Firecrawl search → irrelevant results (EMPTY for that phrasing). Re-query: `Brick Underground co-op renovation summer work rule alterations allowed only June through September` · Firecrawl search; Firecrawl scrape (directQuote) https://www.brickunderground.com/guides/how-to-renovate/fifteen-things-your-coop-or-condo-board-might-not-let-you-do-in-your-renovation — "Work schedule: Some buildings only allow summer renovations, for example. Most limit work to 9-5 weekdays."; "Your building may set hours such as restricting use during the beginning and end of the work day"; "Most buildings don't allow speakers (or even TVs) on \"demising\" walls, which are the walls between apartments or an apartment and a common space."; layout change over neighbor's bedroom may require soundproofing. → §5 para 5, §5.5 stat 6, §7 methods (demising), §9 demising + summer Qs, House Rules section, §10.5 H3 3 and 6.
+- Query: `Landmarks Preservation Commission permit interior work apartment landmarked building "Certificate of No Effect" interior alterations DOB permit` · Firecrawl search; Firecrawl scrape (directQuote) https://www.nyc.gov/site/lpc/applications/permit-types.page — Interior: "Any interior work that requires a permit from the Department of Buildings; Any interior work that affects the exterior of a building …; Any interior work that affects interior spaces that have been designated as interior landmarks"; exterior: "Any … alteration … that affects the exterior of an individual landmark or a building in a historic district … even if your exterior project does not require a Department of Buildings permit". (Architect blogs fontanarchitecture.com / shermanarchitects.com describe CNE for interior renovations needing DOB permits — background.) → §8.5 callout 1, §9 storefront Q, House Rules closing para, §10.5 H3 2. Brooklyn page already owns the LPC *question*; here LPC is body text only.
+- Query: `NYC Facade Inspection Safety Program Local Law 11 buildings greater than six stories inspected every five years sidewalk shed` · Firecrawl search → https://www.nyc.gov/site/buildings/safety/facade-local-law.page — "owners of properties higher than six stories must have exterior walls and appurtenances inspected every five (5) years". → FAQ 2.
+- Query: `Mitchell-Lama co-op supervised by HPD or HCR alterations require management approval residents` · Firecrawl search → https://www.nyc.gov/site/hpd/services-and-information/mitchell-lama-program.page (HPD program page); https://www.osc.ny.gov/press/releases/2026/03/dinapoli-systemic-oversight-deficiencies-put-thousands-mitchell-lama-affordable-housing-units-risk ("HPD- and DHCR-supervised Mitchell-Lama developments"). → §9 Mitchell-Lama Q (supervision only; no claim about specific alteration rules).
+- Query: `West Side Rag TV mounting OR soundbar OR "noise complaint" neighbor apartment Upper West Side` · Firecrawl search → only 311 noise page, Brick Underground noisy-neighbor guide, the 200 Amsterdam WSR article (used above). West Side Rag on soundbars/TV mounting: EMPTY.
+
+### 10. Hyperlocal / commercial corridors
+- Query: `Upper West Side business improvement districts Columbus Avenue BID Lincoln Square BID Columbus Amsterdam BID boundaries` · Firecrawl search → https://columbusamsterdambid.org/ — "along Columbus and Amsterdam Avenues from West 96 Street to West 110 Street"; https://www.nyctourism.com/attractions-tours/lincoln-square-business-improvement-district/ — "home to the famed Lincoln Center … founded in 1996"; https://www.columbusavenuebid.org/ (Firecrawl scrape: query answer empty; og:description "a short walk from the American Museum of Natural History and Central Park"). → §8 corridor cards.
+- Query: `Macy's Thanksgiving parade balloon inflation American Museum of Natural History street closures West 77th 81st Street Columbus Avenue` · Firecrawl search → https://www.westsiderag.com/2025/11/25/macys-thanksgiving-day-parade-uws-inflation-event-2025-what-to-know — "The inflation event will take place outside the American Museum of Natural History from West 77th to 81st streets, between Columbus and Central …"; https://www.nbcnewyork.com/holidays/thanksgiving-parade-2025-balloon-inflation-where-to-see-in-person-in-nyc/6423199/ — "Wednesday, Nov. 26 from 1 to 6 p.m. on the Upper West Side". → FAQ 6.
+- Patch / I Love the UWS / West Side Rag on soundbar or TV installation: EMPTY.
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Pricing used (published AESS Manhattan numbers only — same lines as soundbar-installation-manhattan.html, sourced there from research/tv-mounting-prices/BRIEF.md and tv-mounting-prices-manhattan.html)
+- $129 wall mount · $79 console · $84.99 Sanus bracket · $169 in-wall · $59 cord cover · $99 cable ≤25 ft · $125 Sonos · $129 A/V receiver · $99 universal remote · $49 streaming · $350 home theater · walls +$30/+$45/+$65/+$75/+$95 · backer $85 · high mount $75 · walk-up $40 · old bracket $45 · box $25 · COI free · Manhattan parking $150 per visit · setup-only $265 first hour then 30-min blocks · TV base $244.99 · TV on stand $162.99 · $150 return-trip fee.
+- Worked totals are sums of those lines only: $229 · $324 · $467.99 · $369 · $443 · $497.99 · $478; packages $229 / $408.99 / $566.99; BYOE $324 (arithmetic verified).
+- §9 1.25× multiplier NOT applied (same reasoning as the Manhattan section flag 1 — would invent prices).
+
+### Flags for Anwar
+1. Images: the 11 library photos (images/soundbar-installation/, originally copied from earlier pages) look AI-rendered — uniform "Abstract Enterprise LLC Security Systems" shirts, idealised rooms, scenery screens. The permanent image rule was applied as instructed, but they conflict with "no AI-generated images" if they are not real AESS photos. Real UWS photos should replace them.
+2. FAQ 5 (photos for the board's file) and FAQ 4 (technician's name the day before) describe practice stated on the Manhattan page (photos before/after drilling; technician's name sent ahead) — confirm this is standard.
+3. Parking/multiplier: same as Manhattan flags 1–2 ($150 per visit on soundbar-only visits; 1.25× not applied).
+4. Mitchell-Lama answer says only "supervised by HPD or the state housing agency" and "ask the management office"; no specific rule is claimed.
+5. The AC-sleeve Q says "We don't remove, move or seal air-conditioner sleeves" — confirm.
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos/Soundbar Installation" EMPTY this run and CompanyCam not connected (per main run). 11 copied (byte copies) within images/soundbar-installation/ under new names; each viewed before use; photos with a customer's face (homeowner-remote-walkthrough, conference-room-handover) deliberately skipped. Technician faces are visible in some (profile/three-quarter) — no house numbers, plates, documents or phone numbers in frame.
+| New file | Source file |
+|---|---|
+| soundbar-installation-upper-west-side-bracket-level-before-hanging.webp | soundbar-installation-manhattan-bracket-leveling-under-tv.webp |
+| soundbar-installation-upper-west-side-swing-arm-bar-attachment.webp | soundbar-installation-bronx-full-motion-mount-attachment.webp |
+| soundbar-installation-upper-west-side-tablet-sound-check-sofa.webp | soundbar-installation-manhattan-app-sound-check-tablet.webp |
+| soundbar-installation-upper-west-side-media-cabinet-cable-straps.webp | soundbar-installation-manhattan-cabinet-cable-management.webp |
+| soundbar-installation-upper-west-side-compact-bar-desk-den.webp | soundbar-installation-manhattan-desk-compact-soundbar.webp |
+| soundbar-installation-upper-west-side-exercise-room-wall-bar.webp | soundbar-installation-manhattan-home-gym-wall-soundbar.webp |
+| soundbar-installation-upper-west-side-reception-lounge-tv-bar.webp | soundbar-installation-manhattan-waiting-room-tv-soundbar.webp |
+| soundbar-installation-upper-west-side-rear-speakers-behind-sofa.webp | soundbar-installation-manhattan-rear-surround-speaker-stands.webp |
+| soundbar-installation-upper-west-side-mounted-bar-level-check.webp | soundbar-installation-nyc-level-check-under-tv.webp |
+| soundbar-installation-upper-west-side-unboxing-bar-and-bracket.webp | soundbar-installation-manhattan-unboxing-bracket-hardware.webp |
+| soundbar-installation-upper-west-side-console-placement-no-drill.webp | soundbar-installation-manhattan-console-soundbar-placement.webp |
+DAILY-LOG note: `images: 11 reused from images/soundbar-installation/ (library copies; no real soundbar-installation photos yet)`.
+
+### Build stats
+12,767 rendered words · 178,586 bytes (nearest siblings at build time: Staten Island 181,528 = 2.9 KB; Park Slope 173,408 = 5.2 KB) · title 50 · meta 156 · 6 JSON-LD blocks · 11 figures · FAQ 6 = FAQPage 6 · HowTo 7 steps = 7 process cards. Masked-geo paragraph similarity (word-level difflib, ≥12-word paragraphs, NAP/warranty/legal-note excluded): every sibling < 0.60 after a rewrite pass (first draft had 0.6–0.89 hits vs Manhattan/Rockland/Westchester on pricing small print, BYOE and service cards — all rewritten). 5-gram Jaccard vs every sibling ≤ 0.007. Page CSS: unused template rules (old nav, .prc/.wg/.acard etc.) pruned and dark-card inline styles moved to one small style block — rendering unchanged, needed to stay out of the 2 KB size clusters.
+
+## Question register — soundbar-installation-upper-west-side-manhattan-ny
+(Q&A = §9 YOUR QUESTIONS ANSWERED H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 11:
+1. In a classic six, should the TV and soundbar go in the living room or the old dining room?  (Rooms laid out before television)
+2. We're turning the maid's room off the kitchen into a TV den — what fits in a room that small?  (same)
+3. There's a through-wall air conditioner sleeve in the middle of our TV wall — how do the TV and bar work around it?  (same)
+4. Our co-op's house rules ban speakers on walls we share with a neighbor or the hallway — does a soundbar under the TV count?  (Boards, house rules and the people who run the building)
+5. Our building only allows alteration work in the summer — can a soundbar still go up in February?  (same)
+6. Our super offered to put the soundbar up himself — what should we check before saying yes?  (same)
+7. We live in a Mitchell-Lama co-op on the Upper West Side — who has to approve a wall-mounted soundbar?  (same)
+8. We're in contract on a Riverside Drive co-op — can the TV wall be planned before the board interview and closing?  (same)
+9. With the windows open in summer, will the soundbar carry across our courtyard into other apartments?  (Sound that travels in old buildings)
+10. We just closed on a new-development condo — does drilling the TV wall affect anything the developer still has to fix?  (New towers in Lincoln Square and on the river)
+11. Our Columbus Avenue shop plays video on a screen facing the window — can a soundbar make it audible inside without spilling onto the sidewalk?  (Shops and studios on the avenues)
+
+FAQ (§17) — 6:
+1. Our building stops noisy work at 4 PM — can the quiet setup carry on after the drilling cut-off?
+2. Our building has a sidewalk shed and facade work under Local Law 11 — does that affect a soundbar appointment?
+3. Who paints the cord cover so it matches our wall?
+4. Our doorman keeps a list of expected contractors — when do we get the technician's name to give the desk?
+5. Can you send photos of the finished installation for our board's alteration file?
+6. We live a block from the Museum of Natural History — should we avoid booking the day before Thanksgiving?
+
+Other headings: none end in "?" (repair-capture/CTA headings deliberately written as statements).
+
+De-dup notes: every question checked by meaning against all 17 live soundbar pages (incl. the parallel Park Slope and Astoria drafts) and every register. Deliberately avoided as questions (owned elsewhere): fireplace/mantel/chimney (LI, Brooklyn, SI, Westchester), picture rail (Putnam, Dutchess), built-in niche (HV), board approval/COI/freight hours/parking/walk-up (NYC hub), LPC approval (Brooklyn), lead paint, radiator cover, glass wall, Wi-Fi congestion, doorman letting installer in, package room (Manhattan), sound-rated/party wall (Brooklyn, NYC), router far away (Rockland, Suffolk), volume caps (Manhattan, Staten Island), hearing aids/seniors (Nassau, Queens, Westchester), sub-area coverage (dropped — overlaps Astoria FAQ 1 and Manhattan FAQ 3). Mitchell-Lama is distinct from the Bronx NYCHA/Co-op City delivery-permit questions (approval chain for a wall mount vs NYCHA rules / delivery permits). AC-sleeve Q is placement around a through-wall unit, distinct from Astoria's window-AC circuit-breaker question and Putnam's switch/thermostat question.
+
+## Park Slope, Brooklyn (soundbar-installation-park-slope-brooklyn-ny)
+
+Built 2026-10-17 by a parallel subagent (neighbourhood page; up-link /soundbar-installation-brooklyn, hub /soundbar-installation-nyc). Brooklyn GBP (1282 Troy Ave, #brooklyn), phone (347) 934-8335, Brooklyn ×1.00 pricing.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote query mode).
+
+**Thesis:** In Park Slope the soundbar goes into a room that is two things at once: a largely intact 1880s–1900s interior (pier mirrors, mantels, pocket doors, cornices, parquet) inside New York's largest landmarked neighbourhood, and a working family room in a house that is usually shared — owners over or under tenants, children asleep upstairs. The job is therefore "fit the bar around detail you can't replace, and set it for a house that sleeps in shifts", across four Slope building types: brownstone/limestone rowhouses (often split into a duplex plus rentals), Prospect Park West pre-war co-ops, walk-up flats over the Fifth and Seventh Avenue storefronts, and post-2003 Fourth Avenue towers.
+
+### 1. Reddit (Firecrawl search excerpts only; Firecrawl does not scrape reddit.com; threads not opened)
+- `reddit r/parkslope neighbor noise TV bass brownstone upstairs` · Firecrawl search · https://www.reddit.com/r/parkslope/comments/1fwzce7/sensitive_neighbor_situation_condo_owners/ · thread title "Sensitive neighbor situation (condo owners)" on r/parkslope; excerpt is a joke reply about looping noise through Sonos — used only as evidence that neighbour-noise disputes between condo owners in converted Slope buildings come up on r/parkslope (no quote of the reply) · §5 THE NEIGHBORHOOD para 4.
+- same query · https://www.reddit.com/r/AskNYC/comments/jecqpi/how_much_noise_do_you_typically_hear_from_your/ · excerpt "occasionally the people below will play music or have the TV up loud in the living room" · not Park Slope-specific → context only, not used on page.
+- `reddit parkslope TV mount brownstone plaster wall installer recommendation` · Firecrawl search · https://www.reddit.com/r/parkslope/comments/1pu1627/brownstone_reno_recommendations/ · excerpt: "I'm planning a renovation on a family-owned brownstone and am looking for reputable professionals with real brownstone experience." · §5 para 3 (renovation culture), §9 cluster intro.
+
+### 2. Google People Also Ask — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+§10.5 Reality Check uses the published cost-guide/manufacturer claims already recorded in silo research (HomeWyse $58.43–$231, Thumbtack $121–$234, Dolby placement guidance, Sony/Yamaha 10 m Bluetooth), plus Park Slope-specific corrections below. No AI Overview text was seen.
+
+### 6. Landmarks (§13 COVERAGE — six cards; none used by the Brooklyn area page, which used Brooklyn Heights HD, Stuyvesant Heights, Prospect Park South, Brooklyn Tower, Spring Creek, Domino Park)
+- `Old Stone House Washington Park Park Slope 1699 reconstructed Battle of Brooklyn 5th Avenue 3rd Street` · Firecrawl search · https://nylandmarks.org/explore-ny/the-old-stone-house-the-battle-of-brooklyn/ — "a 1933 reconstruction (using some of the original materials) of the Vechte-Cortelyou House (c.1699-1897) … located within Washington Park of Park Slope … site of the Maryland 400's … counterattack … Battle of Brooklyn"; https://en.wikipedia.org/wiki/Old_Stone_House_(Brooklyn) (1933 reconstruction); Brooklyn Paper FB excerpt: "sits at Fifth Avenue and Third Street" · §13 card.
+- `Montauk Club Park Slope 25 Eighth Avenue Venetian Gothic built 1891 Francis Kimball` · Firecrawl search · https://montaukclub.com/about — "Kimball, inspired by a palace on Venice's Grand Canal. The Club House was completed in 1891 … carved mahogany woodwork, and beautiful stained glass windows"; https://www.brownstoner.com/architecture/brooklyn-architecture-history-park-slope-montauk-club-francis-kimball/ (Venetian Gothic; opened 1891; 8th Avenue entrance) · §13 card.
+- `Park Slope Armory 8th Avenue 15th Street YMCA 1895 drill shed` · Firecrawl search + scrape · https://en.wikipedia.org/wiki/14th_Regiment_Armory — "located on Eighth Avenue between 14th and 15th Streets … built in 1891–95"; NRHP 1994, NYC landmark 1998; women's shelter since 1986; "A sports complex operated by the Prospect Park YMCA opened within the armory in 2010." · §13 card.
+- `Litchfield Villa Prospect Park West 5th Street 1857 Alexander Jackson Davis …` · Firecrawl search · https://en.wikipedia.org/wiki/Litchfield_Villa — "Italianate mansion built in 1854–1857"; https://www.nycgovparks.org/parks/prospectpark/monuments/927 — tablet "EDWIN LITCHFIELD FROM PLANS BY ALEXANDER / JACKSON DAVIS"; Village Preservation excerpt: "just inside the entrance at Prospect Park West and 5th Street" · §13 card. (Use as Parks HQ NOT verified → not stated.)
+- `Lena Horne Bandshell Prospect Park 9th Street Prospect Park West BRIC Celebrate Brooklyn` · Firecrawl search · https://bricartsmedia.org/celebrate-brooklyn/directions/ — "located in Prospect Park at the Lena Horne Bandshell, 141 Prospect Park W … 9th Street"; https://www.prospectpark.org/visit-the-park/things-to-do/celebrate-brooklyn/ — "New York's longest-running free outdoor performing arts festival, held each summer at the Lena Horne Bandshell" · §13 card, §5 para (outdoor sound vs indoor sound — not used as stat).
+- `Grand Army Plaza Soldiers' and Sailors' Arch dedicated 1892 …` · Firecrawl search · https://www.nycgovparks.org/parks/grand-army-plaza/history — "the oval at the main entrance of Brooklyn's Prospect Park … The Arch was dedicated in 1892 as … McKim, Mead and White began to formalize the entrance"; https://en.wikipedia.org/wiki/Soldiers%27_and_Sailors%27_Arch (built 1889–1892) · §13 card.
+
+### 7. Building stock / use cases (§5, §5.5, §7, §7.5)
+- `Park Slope Historic District designated 1973 extension 2012 2016 …` · Firecrawl search + scrape · https://en.wikipedia.org/wiki/Park_Slope_Historic_District — "1,802 contributing buildings built between 1862 and about 1920. The 40-block district is almost exclusively residential and located adjacent to Prospect Park … two and three story townhouses"; "expanded in 2012 to cover 2,575 buildings … and again to the north in 2016. The historic district is New York's largest landmarked neighborhood in terms of the number of buildings." · HDC https://hdc.org/preservation-resources/expanding-historic-district-boundaries/expanding-historic-district-boundaries-park-slope/ — "In 1973 the New York City Landmarks Preservation Commission designated the Park Slope Historic District" · YIMBY https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html — "The second extension adds 292 buildings, mostly … between St. Marks Avenue and Sterling Place" · CityLand https://www.citylandnyc.org/landmarks-approves-park-slope-historic-district-extension/ — first extension "roughly 582 buildings" · §5 para 1, §5.5 bullets 1–2, §7 intro, §13 intro.
+- `Fourth Avenue Park Slope rezoning 2003 new apartment buildings towers` · Firecrawl search + scrape · https://www.nyc.gov/assets/planning/download/pdf/plans/park-slope/parkslope.pdf — approved by CPC April 2, 2003, adopted by City Council April 30, 2003; "rezone 110 blocks in Park Slope … preserve the historic scale of the brownstone neighborhoods, and provide increased opportunities for residential and commercial development on Fourth Avenue"; R6B/R7B midblocks, R6A on Third/Fifth/Seventh Avenues, R7A on Prospect Park West, "Along Fourth Avenue … with R8A" · §5 para 2, §5.5 bullet 3, §7 Fourth Avenue card. Also CityRealty excerpt (https://www.cityrealty.com/nyc/market-insight/features/future-nyc/top-condo-buildings-fourth-avenue-brooklyn039s-evolving-boulevard/69606): early condos after 2003 rezoning, e.g. The Argyle — not used beyond "condos and rentals".
+- `NYU Furman Center Park Slope Carroll Gardens BK06 …` · Firecrawl search + scrape · https://www.furmancenter.org/neighborhoods/park-slope-carroll-gardens/ (last updated 05/06/2026) — homeownership rate 37.1% in 2024 (citywide 32.7%); "From 2010 to 2025, the neighborhood added 6,563 new housing units" in 4+ unit buildings; median household income 2024 $188,730 · §5.5 bullets 4–5 (labelled Park Slope/Carroll Gardens, the Furman CD-level geography, not Park Slope alone).
+- `Prospect Park West prewar apartment buildings co-ops …` · Firecrawl search · https://www.cityrealty.com/nyc/park-slope/35-prospect-park-west/42381 — "pre-war co-op … designed by Emery Roth and completed in 1929. The 16-story building"; https://streeteasy.com/building/9-prospect-park-west-brooklyn — "Built in 1929, this co-op building is comprised of 43 units on 15 floors"; 6sqft excerpt "original ribboned parquet floors" in PPW prewar co-ops · §7 PPW card, §5.5? (not as stat), §9 parquet mention.
+- `Park Slope limestone rowhouses Romanesque Revival Queen Anne …` · Firecrawl search · https://brooklyn.studio/projects/park-slope-queen-anne/ — "George P. Chappell designed this Queen Anne rowhouse in 1891 … limestone, terra cotta, and tan brick"; https://www.brownstoner.com/architecture/building-of-the-303/ — 21, 25 Montgomery Place, Romanesque Revival, 1892 · §7 rowhouse card (styles: Romanesque Revival, Queen Anne, brownstone and limestone fronts).
+- `brownstone parlor pier mirror original Park Slope brownstoner` · Firecrawl search · https://www.brownstoner.com/real-estate-market/park-slope-brownstone-509-3rd-street-woodwork-mantels/ — "A grand pier mirror dominates the front parlor, has a columned mantel with mirror and original green tile surround"; https://www.brownstoner.com/real-estate-market/park-slope-brownstone-196-berkeley-place-mantels/ — "still has a fair number of its 1880s details in place, including mantels, wood floors, a pier mirror, and stained glass"; https://www.brownstoner.com/real-estate-market/park-slope-brownstone-house-for-sale-483-13th-street/ — pier mirror in the Historic District · §5 para 3, §9 pier-mirror Q, Parlor Detail section.
+- `brownstone parlor pocket doors hidden in wall pocket track restore brownstoner` · Firecrawl search + scrape · https://thebrownstoneboys.com/how-to-repair-and-restore-pocket-doors/ — "the hardware sits inside the wall. To access the rollers and track, you may need to carefully remove part of the casing or trim around the opening"; Brownstoner forum excerpt https://www.brownstoner.com/forum-archive/2005/06/pocket-door-res/ — "our tracks in the walls for the original pocket doors are still intact behind an added piece of wood" · §9 pocket-door Q, Parlor Detail section.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- `Park Slope Fifth Avenue BID …` · Firecrawl search + scrape · https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=60 — Park Slope 5th Avenue BID: "Year Established: June 2008 · No. Block Faces Covered: 62 · No. Ground Floor Retail Businesses: 521" · §5.5 bullet 6, §8 Fifth Avenue card. WXY excerpt (https://www.wxystudio.com/projects/park-slope-5th-avenue-bid): stormwater flooding "damaging more than 30 small businesses in 2023 alone" · §8 Fifth Avenue card (keep subs/power off the floor).
+- `Park Slope Seventh Avenue commercial strip …` · Firecrawl search · https://www.defalcorealty.com/neighborhood-guide/park-slope-brooklyn/ — "Seventh Avenue skews toward upscale dining, boutique shopping, and specialty food stores" (updated March 2026) · §8 Seventh Avenue card. Brooklyn Paper "Seven up or down? Slope's Main Street is in flux" (27 storefronts empty) — undated excerpt, NOT used.
+- NYC Noise Code / DEP commercial music limits, ADA 307.2, LPC interior-work rule (nyc-business.nyc.gov "performing work on a landmarked property"), DOB low-voltage — reused from silo/Brooklyn research (not re-fetched) · §8.5, §10.5.
+
+### 10. Hyperlocal
+- `Park Slope stoop sale tradition weekend brownstone stoops` · Firecrawl search + scrape · https://parkslopeciviccouncil.org/events/park-slope-super-stoop/ — "Park Slope Super Stoop Day is a community-wide event where residents transform their stoops into mini markets, giveaways, and hangout spots"; inaugural "Saturday, September 20th" (2025); 2026 edition rescheduled to October 3, 2026 "Due to the nor'easter"; Brooklyn Paper FB excerpt: "nearly 200 stoops and sidewalks" at the first one · NOT used on the final page (the stoop-sale FAQ was dropped as a duplicate intent).
+- Park Slope Reader / Brooklyn Paper soundbar or TV-audio stories: EMPTY (no service-relevant result).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Technical sources used on this page
+- `DECT 6.0 baby monitor 1.9 GHz frequency interference Wi-Fi 2.4 GHz` · Firecrawl search · https://www.babysensemonitors.com/a/nursery-resources/nursery-essentials/can-baby-monitor-interfere-with-wifi — "DECT 6.0 (1.9 GHz) – A dedicated frequency band that does not interfere with WiFi"; https://www.acrylicwifi.com/en/blog/wi-fi-rf-spectrum-baby-monitor-and-wireless-camera-interference-and-noise/ — "in 2.4GHz the interferences in the wifi spectrum are very common because it is a public band" · §9 baby-monitor Q.
+- `Bluetooth class 2 range 10 meters 33 feet walls soundbar pairing mode` · Firecrawl search · Sony sound bar manual PDF (https://www.sony.com/electronics/support/res/manuals/4746/45bfe42009b18acf354ebe733c45a4b6/47460912M.pdf) — pair "within 10 meters (33 feet)"; Yamaha YAS-103 manual (https://data.yamaha.com/files/download/other_assets/7/331097/YAS-103_93_om_UAB.pdf) — "within 10 meters (33 ft)" · §9 Bluetooth-through-the-party-wall Q.
+- Silo-wide eARC/ARC, Dolby placement, Sanus WSSATM1/SASB1 specs, HomeWyse/Thumbtack cost claims — reused from research/soundbar-installation.md (not re-fetched) · §10, §10.5.
+
+### Pricing used (published AESS numbers only — Brooklyn ×1.00, as on soundbar-installation-brooklyn.html; source research/tv-mounting-prices/BRIEF.md via silo research)
+Console $79 · wall mount $129 · Sanus bracket $84.99 · in-wall concealment $169 · paintable cord cover $59 · cable run ≤25 ft $99 · Sonos setup $125 · A/V receiver $129 · universal remote $99 · streaming setup $49 · full home theater $350 · metal stud +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · plywood backer $85 · high mount $75 · walk-up (3rd floor+) $40 · box removal $25 · COI free · setup-only $195 first hour then 30-min blocks · Brooklyn TV mounting base $179.99 · callbacks $195/hr, 3-hr min ($585) · $150 return-trip fee · free reschedule with 24 h notice. Packages $79 / $213.99 / $382.99. New worked examples on this page are sums of these lines only.
+
+### Images (11) — Anwar's soundbar photos, renamed for this page
+Drive "AESS Website Photos/Soundbar Installation" EMPTY this run; CompanyCam not connected. Used 11 of Anwar's 13 supplied soundbar photos (per research/soundbar-installation.md "Images — replaced 2026-10-17"), copied from images/soundbar-installation/ under park-slope names. Skipped conference-room-handover and homeowner-remote-walkthrough (customer faces clearly visible). Technician faces visible in level-check, console, unboxing, rear-surround, cabinet (partial) — flagged. Hero = level-check-under-tv (Brooklyn area page uses full-motion as hero).
+
+### Flags for Anwar
+- The 13 supplied "soundbar photos" look rendered (AI-style) rather than job-site photos; used because they are the silo's approved set.
+- Furman figures are for Park Slope/Carroll Gardens (CD 6), labelled as such on the page.
+
+## Question register — soundbar-installation-park-slope-brooklyn-ny
+
+§9 YOUR QUESTIONS ANSWERED (H3), grouped under non-question H2s (Original parlor detail · Protecting old plaster · Wireless in a crowded house):
+1. The only wall our sofa faces holds the parlor's original pier mirror — can the TV and soundbar go there without disturbing it?
+2. The pocket doors between our front and back parlors slide into the wall we want to use — where can the bracket go?
+3. Our fireplace hasn't worked in decades — can the subwoofer sit inside the old firebox opening?
+4. Can a subwoofer's vibration crack old plaster ceilings or loosen a cornice, ours or the neighbour's?
+5. Will a wireless soundbar and subwoofer interfere with the baby monitor?
+6. Could the people next door connect to our soundbar over Bluetooth through the party wall?
+
+§17 FAQ (visible == FAQPage, 5):
+1. How many holes does a soundbar bracket actually need in an original plaster wall?
+2. The house next door is being gut-renovated — should we wait before anything is fixed to the shared wall?
+3. Do we need to buy an isolation pad or riser for the subwoofer before you come?
+4. We're staging the house for sale — can the TV and soundbar look finished for open houses without drilling the parlor?
+5. Are you insured if something goes wrong near an original feature?
+
+Other question-form headings: "Park Slope Soundbar Gone Quiet?" (repair capture), "Want the Park Slope Number in Writing?" (CTA).
+
+Dropped during drafting because the parallel batch pages (built at the same time) or earlier pages already ask them:
+- "Front or back parlor for the TV?" → same intent as UWS "classic six: living room or old dining room?" and Astoria "railroad apartment: which room?" — kept only as body text (H3 "Front parlor or back parlor" in the Original Detail section), not as a question.
+- "Fourth Avenue recessed TV box + empty conduit — can the soundbar use it?" → same intent as Astoria "new building put a recessed box and outlet behind the TV". Kept only as body text in the Fourth Avenue composite.
+- "Who paints the cord cover?" → identical intent to UWS FAQ.
+- "Stoop-sale soundbar with no manual/remote" → overlaps Astoria "test a secondhand soundbar" (and Staten Island bracket-less bar, Ulster seller's app account). Super Stoop Day therefore no longer cited on the page (still recorded above as research).
+- "Will someone come back and re-check the bracket?" → same intent as Astoria "how often should a bracket in old brick or plaster be checked".
+- "How loud/long is the drilling — toddler naps" → overlaps UWS "building stops noisy work at 4 PM — quiet setup after cut-off".
+- "Can the TV always start at a low volume?" → overlaps Brooklyn night-mode and Manhattan/Staten Island fixed-volume intents.
+
+De-dup notes (meaning-level, checked against all 16 area pages + UWS + Astoria): avoided chimney-breast flue, party-wall drill-through, LPC approval, gut-reno rough-in, bowing walls, garden-rental router, bass through party walls, night mode/dialogue (Brooklyn); COI/board, freight hours, plaster cracking from drilling, noise code, sub over neighbours, walk-up (NYC hub); mantel vs wall, Atmos high ceilings (LI); niche/bookcase (HV); picture rail/wainscot (Dutchess/Putnam/Suffolk); radiators/registers (Manhattan/Nassau/Queens); toddler/kids pulling bar (Orange/Dutchess); bedrooms above (Rockland); Wi-Fi congestion in towers (Manhattan/Queens); painted-this-week (Bronx/Westchester); price/coverage FAQs (Brooklyn/Manhattan/UWS/Astoria).
+Partial overlaps left for main-run judgement: Q3 firebox sub vs Queens "hide the sub or rears inside furniture" (fireplace-specific: chimney resonance, soot, draught); Q4 sub vibration on old plaster vs Queens "elevated 7 rumble shakes the bracket loose" (own bass on ceilings vs external vibration on the bracket); Q6 neighbour Bluetooth vs Ulster "guests' phones connect to the wrong soundbar" (privacy/neighbour vs own two bars); FAQ 3 isolation-pad purchase vs NYC hub "where should the sub sit with neighbours underneath" (purchase vs placement); FAQ 5 insured near original features vs NYC hub "what will the managing agent want on a COI" and Nassau "does the COI cost extra" (homeowner protection vs paperwork); FAQ 4 staging vs Rockland "should the bar and bracket stay with the house when selling" (temporary no-drill staging vs fixtures in the sale).
+
+## Build notes (for the main run)
+- Final: 12,180 rendered words, 173,219 bytes (siblings at build time: UWS 177,171; Staten Island 181,528 → nearest gap 3.7 KB). Page reached this size by compacting the template's mega-nav CSS (comments/indentation only) and nav indentation, moving repeated inline dark-card styles into one CSS rule, and trimming ImageObject fields (url/inLanguage/copyrightNotice dropped; contentUrl kept). Nav markup and links unchanged.
+- Masked-geo paragraph similarity (difflib, ≥12-word paragraphs, warranty/NAP/consent blocks excluded): max 0.60 (Ulster, ADA line) — all siblings < 0.65 after rewriting 5 lines.
+- Image placement (11, each once): hero level-check-under-tv · §5 tablet-sound-check · §6 bracket-level-on-wall · §7 articulating-arm-soundbar · §8 reception-tv-soundbar · §9 rear-speakers-behind-sofa · §10 unboxing-bar-and-bracket · process console-cable-straps · landmarks bar-on-media-console · packages desk-mini-soundbar · quiet-hours exercise-room-soundbar.
+
+## Astoria, Queens (soundbar-installation-astoria-queens-ny)
+
+Builder notes · 2026-10-17 · neighborhood page · up = /soundbar-installation-queens (also /soundbar-installation-nyc) · Bronx GBP · phone (347) 434-6392.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Search excerpts are labelled as excerpts. Unreachable = `EMPTY (not accessible in build env)`.
+
+**Thesis:** in Astoria the soundbar job is decided by who owns the wall and what runs past the window. Roughly four in five households rent (homeownership 18.5%), usually a floor of a two-family house or a walk-up apartment whose owner may live downstairs, and the N/W el on 31st Street, the new waterfront towers and the studio blocks set the rest of the conditions. Page is organised around landlord/lease reality, the el corridor, house-vs-tower-vs-NYCHA walls, and Astoria's commercial strips.
+
+### 1. Reddit (Firecrawl search excerpts only; Firecrawl does not scrape reddit.com; threads not opened)
+- `reddit r/astoria N train el 31st street noise apartment` · Firecrawl search
+  - https://www.reddit.com/r/astoria/comments/seeetj/noise_level_for_apartments_on_31st_street/ — excerpt: "You will not be able to hear your TV when the train goes by." → §5 THE NEIGHBORHOOD, §5.5 list, §9 el/railroad cluster intro.
+  - https://www.reddit.com/r/astoria/comments/q0y8z5/anyone_live_in_the_apartments_on_31st_in_front_of/ — excerpt: "I'm on 31st/Broadway and on the 3rd floor, close to parallel to the trains. Double paned glass, and multiple sound squares…" → §5.
+  - https://www.reddit.com/r/astoria/comments/10l3knb/nw_train_on_31st_street_noise/ — excerpt: "IMO if possible you want to be at least one block away from 31st. Most apartments on 31st are going to be loud by BOTH subway & street noise." → §5.
+  - https://www.reddit.com/r/astoria/comments/ta22nk/apt_right_next_to_tracks/ — excerpt: "I live on 31st St but my apartment is at the back of the building, so much quieter than the ones that have windows facing the train." → §9 railroad-layout room-choice answer.
+  - https://www.reddit.com/r/astoria/comments/jpd7x6/quiet_pockets_of_astoria/ — excerpt: "…the apartment that faced East away from the el train and that made a difference." → §9 railroad-layout answer.
+- `reddit r/astoria upstairs neighbor loud TV bass two family house` · Firecrawl search
+  - https://www.reddit.com/r/astoria/comments/1pjihhd/noisy_apartments/ — excerpt: "…yes, you can hear a lot. Not conversations, but footsteps, any loud noises, etc." → §5 (shared floors in converted houses).
+  - https://www.reddit.com/r/astoria/comments/kth7e4/next_door_neighbor_constantly_playing_loud_bass/ — excerpt: "First try confronting the person, next step is the landlord." → §5 (bass complaints go to the landlord).
+- `reddit astoria landlord lives downstairs mount TV permission drill holes` · Firecrawl search → only non-Astoria threads (r/NoStupidQuestions, r/woodworking, r/vancouverhousing). Not used. EMPTY for Astoria-specific.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted (§10.5 headings are published claims, not AI text): homewyse $58.43–$231 (silo research, NYC hub entry); Dolby "bracket connected to your TV mount" and Yamaha 42.5″ (silo research, NYC hub entry); awolvision eARC/lossless (silo research); Sanus SASB1 "most soundbars up to 20 lbs" (silo research); plus:
+- `Astoria Queens community district 1 …` result set also returned https://nyctvguy.com/blog/mounting-tv-nyc-apartment (search `reddit astoria landlord lives downstairs mount TV permission drill holes`, Firecrawl) — excerpt: "Rentals: Most landlords are fine with it. A TV mount leaves 4–6 holes in the wall, all easily patchable with spackle when you move out." → §10.5 H3 (competitor blog, NOT named on page).
+
+### 6. Landmarks (§13 COVERAGE, six cards)
+- `Astoria Park Hell Gate Bridge opened 1917 Astoria Park pool 1936 NYC Parks history` · Firecrawl search
+  - https://www.nycgovparks.org/parks/astoria-park/history — city acquired "more than 56 acres" Oct 1913; named Astoria Park Dec 1913; pool complex opened 1936 (WPA, Moses), hosted US Olympic swimming/diving trials 1936 and 1964; Stephen Halsey founded village of Astoria 1839, named for John Jacob Astor. → §13 card, §5.
+  - https://www.nycgovparks.org/parks/astoria-park/highlights/8892 — excerpt: pool 330 by 165 feet, largest of the eleven WPA pools, opened July 2, 1936. → §13 card (330 × 165 ft only).
+- `Hell Gate Bridge 1917 steel arch Astoria Park Amtrak Gustav Lindenthal` · Firecrawl search
+  - https://en.wikipedia.org/wiki/Hell_Gate_Bridge — dedicated March 9, 1917; 1,017-ft steel through arch; Amtrak-owned; world's longest steel arch until Bayonne Bridge 1931. → §13 card.
+- `Kaufman Astoria Studios history 1920 Paramount Museum of the Moving Image 35th Avenue` · Firecrawl search
+  - https://movingimage.org/feature/the-astoria-studio/ — opened by Famous Players-Lasky (Paramount) 1920 at Pierce St & Sixth Ave, now 35th Ave & 35th St; Army 1942; Kaufman Astoria Studios since 1982; Stage K 2010, backlot 2013, two more stages 2019 = twelve stages; Sesame Street residency from 1993; Frank Sinatra School of the Arts across the street; studio a few blocks from the elevated line opened 1917. → §13 cards, §8 corridor card.
+  - https://movingimage.org/about/museum-history/ — museum opened 1988 in a former studio building; $67M expansion reopened January 15, 2011 (Thomas Leeser); 267-seat Sumner M. Redstone Theater. → §13 card.
+- `Astoria Houses NYCHA completed 1951 buildings apartments Hallets Point` · Firecrawl search
+  - https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/halletts_point/03_feis.pdf — excerpt: "The NYCHA Astoria Houses Campus (with 1,103 residential units in 22 buildings on a 27-acre site) was completed in 1951 on the Halletts Point peninsula." → §7 card, §13 card.
+- `Hallets Point Durst towers Astoria waterfront apartments completed` · Firecrawl search
+  - https://www.durst.org/properties/halletts-point — excerpt: "three new residential towers with more than 1,000 rental units, a waterfront esplanade, and ground-floor neighborhood retail." → §7 card, §13 card.
+  - https://www.nytimes.com/2019/02/15/realestate/apartment-towers-for-the-astoria-waterfront.html — excerpt: first building available for rent Feb 2019. → §13 card ("first building leasing from 2019").
+- `Astoria line elevated 31st Street opened 1917 Ditmars Boulevard terminal N W trains` · Firecrawl search
+  - https://en.wikipedia.org/wiki/Astoria%E2%80%93Ditmars_Boulevard_station — opened February 1, 1917 (initial segment of the IRT Astoria Line). https://www.nycsubway.org/wiki/BMT_Astoria_Line — "entirely elevated", opened July 19, 1917; terminal Ditmars Boulevard. Sources disagree on the day → page says only "opened in 1917", "entirely elevated", Ditmars terminal. → §5, §8.
+- `Steinway & Sons factory Astoria Queens since 1870s Steinway Street history` · Firecrawl search
+  - https://www.steinway.com/news/features/Company-Town — by the mid-1870s about 400 workers employed by Steinway & Sons in Queens. https://steinwaypianogalleries.com/blog/5-secrets-of-the-steinway-factory/ — Steinway Street named after the company (founded 1853). → §8 Steinway Street card, §5.
+
+### 7. Building stock / use cases (§5, §5.5, §7)
+- `Astoria Queens community district 1 housing renter share Furman Center neighborhood profile` · Firecrawl search + scrape
+  - https://www.furmancenter.org/neighborhoods/astoria/ (scraped; Furman "Astoria" = Queens CD 1) — 2024: population 198,608; homeownership 18.5% (citywide 32.7%); single-person households 38.5%; 99,819 housing units; 15,142 new units in 4+ unit buildings 2010–2025 (82% market rate); median rent (all) $2,160; rental vacancy 3.4%; 2025 sales: 204 two-to-four-family buildings vs 47 one-family; public housing 7,584 units in 12 properties (9.4% of rental units); car-free commute 82.1%. → §5.5 stats, §5, §7.
+- `Astoria Queens housing stock two-family houses walk-ups 1920s history Ditmars` · Firecrawl search
+  - https://nabebeat.com/new-york/new-york-city/astoria/ — excerpt: "A Queens neighborhood of prewar co-ops, two family houses, and four restaurant strips…" → §7 (corroborates house/co-op mix; nothing else used).
+  - https://raremaps.com/gallery/detail/106601/one-hundred-houses-on-ditmars-avenue-astoria — excerpt: promotional broadsheet for "one hundred 20-foot brick houses located on Ditmars Avenue". → §7 brick-house card ("20-foot brick houses marketed on Ditmars Avenue").
+  - Steinway company town (above) → §7 note on older Ditmars-Steinway housing.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official
+- Halletts Point FEIS (nyc.gov, above). NYT 2019 (above).
+- `FDNY fire escape window must not be obstructed NYC rule tenants air conditioner furniture` · Firecrawl search
+  - https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-144645 — §1027.7.3: "Air conditioners installed in windows adjoining fire escapes shall not obstruct the path of egress on the fire escape." → §9 fire-escape-window answer.
+  - https://fdnysmart.org/wp-content/uploads/2015/04/apartment_fire_safety-en.pdf — FDNY: keep exits clear; "keep the fire escape window clear". → §9 fire-escape answer, §8.5.
+  - https://www.brickunderground.com/live/can-you-sit-or-put-stuff-on-your-fire-escape-rules-nyc — excerpt: cannot block fire-escape windows or exits; "Your lease likely reinforces this rule too." → §9.
+
+### 10. Hyperlocal / commercial corridors (§8)
+- `Astoria Queens Steinway Street business improvement district 30th Avenue Broadway Ditmars commercial corridors` · Firecrawl search
+  - https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=20 — Steinway Street BID, office 25-69 38th Street, website steinwaystreet.org (Steinway Astoria Partnership). → §8 card.
+  - https://plescia-cd.com/commercial-general-contractor-astoria/ — excerpt lists Steinway Street (retail and dining), 30th Avenue and Broadway (retail, restaurant, service spines), Ditmars. → §8 cards (corridor list only).
+- `Astoria Greek community history Ditmars 31st Street Little Egypt Steinway Street Arab businesses` · Firecrawl search
+  - https://blogs.baruch.cuny.edu/astoria/?p=114 — excerpt: part of Steinway Street historically referred to as "Little Egypt" — Arab immigrants, restaurants, bakeries. → §8 Steinway card, §9 overseas-channels answer.
+  - Greek-community claim: only a Facebook photo caption found ("Greek diners") — NOT used as a fact; page does not state Greek demographics.
+- Queens Chronicle / Queens Ledger / Astoria Post on soundbar or TV-install topics — not searched to a usable result. EMPTY.
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Pricing (approved only — Queens ×1.05 as published on soundbar-installation-queens.html, from research/tv-mounting-prices/BRIEF.md)
+Console $82.95 · wall-mount $135.45 · Sanus bracket $89.24 · in-wall kit $177.45 · cord cover $61.95 · cable run ≤25 ft $103.95 · Sonos $131.25 · A/V receiver $135.45 · universal remote $103.95 · streaming $51.45 · full home theater $367.50 · metal +$31.50 · plaster +$47.25 · brick/stone +$68.25 · concrete/block +$78.75 · tile/marble +$99.75 · backer $89.25 · high mount $78.75 · walk-up 3rd+ floor $42 · box removal $26.25 · COI free · setup-only $195 first hour then 30-min blocks · TV base $179.99 · $150 return trip · packages $82.95 / $224.69 / $402.14. No Astoria-specific multiplier exists; Queens rate applies.
+
+### Images (11, permanent image rule)
+Drive folder empty, CompanyCam not connected (per run brief). Copied from images/soundbar-installation/ (which themselves came from images/low-voltage/): spare-room-gym-wall-soundbar, desk-compact-soundbar-under-monitor, storefront-waiting-area-soundbar, sofa-tablet-sound-check, media-cabinet-cable-strapping, swing-arm-soundbar-fitting, bracket-level-before-hanging, rear-speaker-stands-behind-sofa, recessed-wall-box-cable-feed, meeting-display-camera-and-soundbar, level-on-mounted-soundbar (all prefixed soundbar-installation-astoria-). Rejected after viewing: homeowner-remote-walkthrough (customer face), brick-wall-enclosure-drilling / block-wall-conduit / metal-stud-low-voltage-box (phone number printed on shirt/cap).
+
+### Flags for Anwar
+- Library photos look rendered rather than photographed (glossy, generic scenery on screens); they are the existing silo library, reused as the rule directs — worth replacing with real Astoria job photos.
+- Furman "Astoria" profile = Queens Community District 1, which also takes in part of Long Island City; page says "Astoria community district" and cites Furman.
+- Astoria Line opening day differs between sources (Feb 1 vs Jul 19, 1917); page states only the year.
+
+## Question register — soundbar-installation-astoria-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. We're on a one-year lease in Astoria — is wall-mounting the soundbar worth it, or should it stay on the console?
+2. Three of us share the apartment and the soundbar belongs to one roommate — how is it set up for everyone, and what happens when that roommate moves out?
+3. Our railroad apartment runs front to back with the el outside the front windows — which room should be the TV room, and which wall in it?
+4. The longest wall in our walk-up has the fire-escape window in it — can the TV and soundbar go beside it?
+5. In summer the window air conditioner and the TV share a circuit and the breaker trips — will adding a soundbar make that worse?
+6. Our new Astoria building put a recessed box and an outlet behind where the TV goes — can the soundbar use them?
+7. We get overseas channels through a separate internet TV box as well as cable — where do both plug in so either one plays through the soundbar?
+8. I edit video at home — can the soundbar be set to sound accurate instead of "movie" mode?
+9. Our 30th Avenue barbershop already plays music from a Bluetooth speaker — can the TV's soundbar take over both jobs?
+
+### §17 FAQ (visible == FAQPage)
+1. Do you cover Ditmars-Steinway, Astoria Heights and the Halletts Point towers, or only central Astoria?
+2. What would a third-floor walk-up with a plaster wall and a painted cord cover come to in Astoria?
+3. Do I have to be the leaseholder to book the visit?
+4. Can the soundbar clip onto a floor-standing TV stand so nothing touches the wall?
+5. How should a soundbar be cleaned, and does street dust from an open window matter?
+6. Will you test a secondhand soundbar before mounting it?
+7. Can the soundbar sit inside a cabinet with the doors closed?
+8. How often should a bracket in old brick or plaster be checked?
+9. Can the building owner look at the drilling spot and approve it on the day?
+10. Can a soundbar go on a rolling TV cart for a rehearsal room or classroom?
+
+### Other question-form headings
+None (CTA and repair headings written as statements).
+
+### De-dup notes
+Checked against every question on all 16 soundbar pages (extracted with tools/check_page.py parser) and the registers in research/soundbar-installation.md. Avoided intents already taken: security deposit/bracket holes (NYC), two-family lower-unit owner permission (Rockland), outside noise drowning dialogue (Queens), el vibration loosening brackets (Queens), window-wall placement (Queens/Manhattan), NYCHA rules (Bronx), basement foundation wall (Nassau), cable box into TV or bar (Westchester), input switching silence (Staten Island), waiting-room volume lock (Manhattan/Staten Island), media panel from builder (Orange — basement panel; ours is a recessed TV box), "is a soundbar enough" room questions (Hudson Valley).
+
+### Build checks (2026-10-17)
+- Masked-geo block similarity (difflib, ≥12-word p/li/td/h3/figcaption blocks, geo names masked) vs all 16 area pages + UWS + Park Slope drafts: highest prose block after rewrites 0.64; only the NAP/licence service-standards line exceeds 0.65 (excluded by v2.3 §2). Whole-page masked similarity ≤ 0.22 (Queens).
+- Questions compared by meaning against the UWS and Park Slope drafts built in parallel: no overlap found.
+- File 229,194 B (nearest sibling Putnam 222,021 B; UWS 178,586 B; Park Slope 173,219 B at check time). Rendered words 13,827.

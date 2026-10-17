@@ -80,9 +80,9 @@ LIVE | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson
 BUILDING 2026-10-17T09:34Z | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-17T09:34Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
-BUILDING 2026-10-17T09:55Z | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T09:55Z | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T09:55Z | soundbar-installation-astoria-queens-ny | Soundbar Installation | Astoria, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-astoria-queens-ny | Soundbar Installation | Astoria, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | soundbar-installation-riverdale-bronx-ny | Soundbar Installation | Riverdale, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | soundbar-installation-st-george-staten-island-ny | Soundbar Installation | St. George, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-tribeca-manhattan-ny | Soundbar Installation | Tribeca, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
