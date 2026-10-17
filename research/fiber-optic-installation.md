@@ -464,3 +464,241 @@ fiber-optic-installation-hudson-valley
 - Do you need us on site the whole time at a second home we visit only occasionally?
 
 De-dup notes: questions were rewritten after comparing with the parallel Long Island page (removed this page's utility-pole, shared-trench, power-outage, armored-vs-dielectric, area-pricing and town-permit questions because LI or the existing register already covers those intents).
+
+## Queens — local research (2026-10-17 batch, fiber-optic-installation-queens)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md are reused where noted; only Queens research is added here.
+Page thesis: Queens is the borough of shared buildings — subdivided commercial buildings (Flushing, Jamaica), mixed-use strips (Steinway St, Roosevelt Ave, Northern Blvd), multi-building garden-apartment co-ops (Jackson Heights, Sunnyside), LIC factories turned offices/studios beside new towers, and long cargo buildings around JFK. An owner backbone with per-tenant / per-building strands, locked enclosures and a strand map is the fix; active equipment kept out of flood-prone basements (Ida).
+
+### Reddit / forums (local)
+- `reddit r/Queens OR r/astoria OR r/flushing fiber internet building only Spectrum co-op` · Firecrawl search (excerpts only; reddit.com threads not opened).
+  - https://www.reddit.com/r/astoria/comments/1iimex5/what_is_the_worst_internet_provider_in_astoria/ — excerpt: "I can get Spectrum, Fios or Astound in my building -- the key is your landlord or co-op board has to let them wire the place up." → §5 para 3.
+  - https://www.reddit.com/r/astoria/comments/1lvsgmm/wifi_options_in_astoria/ — excerpt: "If the building doesn't have FiOS then you can't have FiOS. Simple as that." → §5 para 3; §10.5 H3 1.
+  - https://www.reddit.com/r/Flushing/comments/1spiap6/experience_with_internet_services_around_flushing/ — excerpt: "Move to a different building. FIOS is the only OK option in Flushing if you want stability." → §10.5 H3 1 (quoted as a commenter's advice).
+  - https://www.reddit.com/r/astoria/comments/94a2kn/ and /168cunt/ and /1o1cira/ — Spectrum price/outage complaints. Not used (consumer ISP pricing).
+- `reddit Queens Astoria Fios not available building fiber internet landlord` · WebSearch → https://forums.verizon.com/t5/Fios-Internet/Bring-FIOS-service-in-my-building-Astoria-NYC/m-p/915574 (WebFetch; undated posts): Astoria tenant's request at "phase 2 which is reaching out to the landlord"; Community Leader: "you will need the owner to sign an easement form prepared by VZ regional operation center." → §5 para 3; §10.5 H3 1.
+  - Same query → stopthecap.com 2013 "Your Landlord May Be the Problem" (title only, not fetched). Not used.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitute for §10.5 reality check (claims quoted as published):
+- `fiber optic installation Queens NY contractor cost` · Firecrawl search →
+  - https://ringandping.com/how-much-does-fiber-optic-cable-installation-cost-in-2026/ (excerpt): "Residential projects typically range from $1,500 to $6,000, while commercial fiber optic cabling services can scale into six figures for complex builds." → §10.5 H3 2.
+  - https://www.streamlinetelecom.com/fiber-optic-services-for-new-york-city (excerpt): "Fiber-optic cable costs anywhere from $1-6 per linear foot to install" (silo source) → §10.5 H3 3.
+  - https://lowvoltagenewyork.com/resources/fiber-optic-cabling-cost-new-york/ (silo source): $1–$6/ft indoor, up to $12; "singlemode glass is now cheaper than OM4"; SM transceivers "roughly 1.5–5×"; "Any fiber that leaves the building in NYC needs a street-opening permit"; Manhattan/Bronx rent underground conduit → §10.5 H3 3, 4, 5.
+  - https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-queens (AESS's own page, excerpt + repo grep): "$150 to $300 per network connection point" → §10.5 H3 6.
+  - https://www.facebook.com/groups/lowvoltagenation/posts/3612186332404503/ (excerpt; a contractor asking for Queens fiber subcontractors). Not used.
+  - https://www.reddit.com/r/HomeNetworking/comments/8qcawt/ (Spectrum ~$6,000 pole quote, private land). Not used.
+- Silo sources reused: unio.digital ($300–$800 per fiber drop, 2–3× Cat6) → §10.5 H3 6; T-Mobile "up to 4 hours", AT&T "four to six hours", Quantum Fiber multifamily 30/30/40–60 days → §10.5 H3 7; ampcom (OM4 ~400–550 m at 10G) → §9 legacy-multimode answer; cablinginstall (OFNR/OFNP) → §8.5; HPD broadband guidance (FCC bans exclusive / graduated revenue share / sale-leaseback of inside wiring) → §8.5, §9 "free wiring offer" question; Verizon end-2013 Queens 90% premises passed → §5.5.
+- Angi / HomeAdvisor / Fixr: no fiber cost page returned (silo finding) — stated on page, not quoted. Yelp 1–3★: EMPTY.
+
+### Landmarks, buildings, corridors
+- `Long Island City rezoning 2001 Court Square office towers Hunters Point residential growth units` · WebSearch → https://www.nyc.gov/assets/planning/download/pdf/plans/long-island-city-mixed-use/lic.pdf (WebFetch, DCP summary updated Oct 2 2001): adopted July 26 2001; 37 blocks bounded roughly by 23rd St, 41st Ave and Sunnyside Yards; low-density manufacturing replaced with higher-density commercial/mixed use; large-floor-plate offices as of right; EIS projected ~5.0M sq ft office + 300 units; Court Square 1986 rezoning enabled the 1.25M sq ft Citibank tower. → §5 para 4, §5.5, LIC section para 1.
+- `One Court Square Citigroup building Long Island City floors height tallest Queens Skyline Tower` · WebSearch → https://en.wikipedia.org/wiki/One_Court_Square (WebFetch): 673 ft, 50 storeys, completed 1989 for Citigroup, 2501 Jackson Ave above Court Square–23rd St station; tallest in Queens until Skyline Tower topped out 2019. → §8 card, §13 card.
+- `Hunters Point South Long Island City housing units completed waterfront towers` · WebSearch → https://newyorkyimby.com/2021/12/tf-cornerstone-completes-1194-unit-residential-complex-in-hunters-point-south-queens.html (WebFetch, Dec 4 2021): 52-03 and 52-41 Center Blvd; 1,194 rentals incl. 719 affordable; 46 and 56 storeys. → §5 para 4, §8 card.
+- `Silvercup Studios Long Island City former bakery stages history Silvercup sign` · WebSearch → https://en.wikipedia.org/wiki/Silvercup_Studios (WebFetch): former Silvercup Bakery, 42-25 21st St, built 1929–30 by Gordon Baking Co., closed 1975; studio founded 1983 by Alan and Stuart Suna; Sopranos, Sex and the City, 30 Rock, Mad Men etc. → §7 card, §8 card, §13 card.
+- `Silvercup Studios Kaufman Astoria Studios Queens film studio stages square feet` · WebSearch → https://www.hollywoodreporter.com/business/business-news/kaufman-astoria-studios-original-home-of-paramount-sold-to-hackman-square-mile-1235045598/ (WebFetch): opened 1920, original home of Paramount; 11 soundstages; 325,000 sq ft production offices; buyers Hackman Capital Partners and Square Mile Capital (bids March 2021; Bloomberg URL dated 2021-11-10); same buyers acquired Silvercup Sept 2020. → §8 card, §13 card.
+- `Long Island City data center colocation Queens building fiber carrier` · WebSearch → https://inflect.com/building/23-10-43rd-avenue-long-island-city (WebFetch): data-centre building listing at 23-10 43rd Ave, Zayo and Lumen shown in-building; operator/size not stated. → LIC section para 4 (as "industry directories list").
+  - Same query → https://investor.conedison.com/news-releases/news-release-details/con-edison-communications-signs-15000-sq-ft-lease-long-island (WebFetch): 29-76 Northern Blvd lease, 15,000 sq ft; year not stated. NOT used (undated).
+- `JFK airport New Terminal One Terminal 6 redevelopment cost opening 2026` · WebSearch → https://www.6sqft.com/works-begins-on-final-jfk-airport-project-terminal-6/ (WebFetch, Feb 24 2023): $18B JFK transformation; T6 $4.2B, ~1.2M sq ft, 10 gates, first gates 2026, completion 2028; New Terminal One $9.5B, 2.4M sq ft, largest international terminal. → §13 card, airport section para 1 ("reported at about $18 billion").
+- `JFK airport cargo area air cargo warehouses Springfield Gardens Rockaway Boulevard logistics Queens` · WebSearch → https://www.stattimes.com/air-cargo/270-million-consolidated-cargo-handling-center-opened-at-jfk-airport-1355091 (WebFetch, Apr 25 2025): $270M, 350,000 sq ft, north cargo area, PANYNJ + Realterm, WFS operator, first new JFK cargo facility in 25 years, temperature-controlled space (2–8°C, 15–25°C); JFK 1.67M tonnes cargo 2024, 8th-busiest US cargo airport, ~25% of inbound low-value e-commerce. → §5.5, §8 card, §9 cold-room question, §13 card, airport section.
+- `LaGuardia Airport Terminal B new terminal cost completed $8 billion redevelopment` · WebSearch → https://www.portauthoritybuilds.com/redevelopment/us/en/lga.html (WebFetch via redirect from anewlga.com fact sheet): $8B, "first complete rebuild of a U.S. airport in over 25 years", completed 2024, 78 gates; Terminal B 1.3M sq ft, phases 2018–2022. → §13 card, airport section.
+- `Queens College campus acres buildings Flushing CUNY` · WebSearch → https://en.wikipedia.org/wiki/Queens_College,_City_University_of_New_York (WebFetch): 83 acres off Kissena Blvd, founded 1937, 40+ buildings incl. six early-20th-c. Spanish-style buildings. → §13 card.
+- `Jackson Heights Historic District designated 1993 garden apartments buildings Landmarks Preservation Commission` · WebSearch → https://hdc.org/borough/jackson-heights/ (WebFetch): designated Oct 19 1993; built mainly 1914–1939; "first and largest garden-apartment community" in the US. → §8.5 landmark callout, neighbourhood section.
+- `Willets Point redevelopment soccer stadium Queens opening 2027 housing units` · WebSearch → https://www.cbsnews.com/newyork/news/new-york-city-football-club-stadium-willets-point-queens/ (WebFetch, Nov 16 2022): 25,000 seats, expected 2027, 2,500 affordable units. → §5 para 4.
+- `Downtown Jamaica rezoning 2007 368 blocks Jamaica Plan AirTrain commercial` · WebSearch → https://citylandnyc.org/jamaica-rezoning-approved-with-modifications (WebFetch, Sept 15 2007): Council approved Aug 22 2007; upzone downtown core / downtown shopping district; urban renewal near AirTrain/LIRR station; block count inconsistent (378 vs 368) — no block count used. → §8 card, neighbourhood section.
+- `Flushing Main Street commercial district busiest intersection Queens business improvement district` · WebSearch → https://old.nyc.streetsblog.org/2019/12/10/flushing-hopes-for-its-own-miracle-on-main-street (WebFetch, ~Dec 2019): Chamber's Choe — pedestrian count "only second to Times Square"; ~200,000 daily bus passengers on Main St (DOT); 15+ bus lines. → §8 card.
+- `Queens industrial business zones Maspeth JFK Steinway Long Island City IBZ number of businesses` · WebSearch → https://www.nycctp.com/ibzs/ (WebFetch): seven Queens IBZs — Jamaica, JFK, Long Island City, Maspeth, Ridgewood/SoMA, Steinway, Woodside; no business counts. → §5.5.
+- `7 train elevated Roosevelt Avenue Queens Boulevard Flushing Line viaduct history` · WebSearch → https://en.wikipedia.org/wiki/52nd_Street_station_(IRT_Flushing_Line) (WebFetch): elevated station on a steel viaduct above Roosevelt Ave; line curves onto a concrete viaduct above Queens Blvd west of the station; opened April 21 1917. → §9 elevated-train question, neighbourhood section.
+- `Queens housing stock share one- and two-family homes Queens co-op apartments garden apartment complexes statistic` · WebSearch → https://www.furmancenter.org/wp-content/uploads/ee-legacy/Queens%202010.pdf (WebFetch): 835,127 housing units (2010), rental vacancy 2.7%; no building-type shares. NOT used on page (no building-type split available). Building-type share for Queens: EMPTY.
+
+### Local news / hyperlocal
+- `Hurricane Ida 2021 Queens basement apartments deaths flooding` · WebSearch → https://queenspost.com/... → redirect https://qns.com/2021/09/queens-storm-death-toll-rises-to-11-after-three-bodies-found-in-flooded-flushing-basement-nypd/ (WebFetch, QNS Sept 3 2021): Queens toll 11 (citywide 13); 10 died in flooded basement apartments — East Flushing (153-10 Peck Ave near Kissena Park), Woodside, Jamaica, Forest Hills, Elmhurst. → §5 para 4, §5.5, "After Ida" section. (Street address not used on page.)
+- NYC Council internet-access page (silo source) re-queried for Queens → https://council.nyc.gov/data/internet-access/ (WebFetch): "Jamaica-St. Albans-Hollis (Queens CD12): 41%" households without broadband subscription; no other Queens district named. → §5.5, neighbourhood section (Jamaica).
+- Queens Chronicle / Queens Ledger / Patch / QNS items on fiber-installation contractors 2026: EMPTY (none retrieved).
+
+### Local licensing / permits / building rules
+- No new Queens-specific permit source. Silo sources reused: sub-50 V cabling generally no DOB permit (site's existing structured-cabling-pricing statement) + firestopping (unifinerds/nyflnerds) → §8.5; LPC permit for exterior work in historic districts (silo LPC sources) + Jackson Heights HD designation → §8.5; HPD/FCC fair-access → §8.5, §9.
+- Port Authority / airport tenant alteration rules: not researched; page states we do not work inside terminals and makes no claim about airport approvals. EMPTY.
+
+### Pricing used (existing AESS prices — no new prices)
+- Drops from the live Queens configurator, repo file structured-cabling-pricing-queens.html: fiber_mm $391, fiber_sm $447.
+- Remaining items = silo base (Brooklyn 1.00×) × blueprint §9 Queens 1.05×, rounded half-up: $35→$37 termination; $40→$42 OTDR/strand; $4,500–$7,000→$4,725–$7,350 (12-strand OM4); $8,000–$15,000+→$8,400–$15,750+ (24-strand OS2); $2,400→from $2,520 (second room). $195/hr, 3-hr minimum ($585) protected, unchanged.
+- Starter package = 24 × $37 + 12 × $42 = $1,392.
+- CONFLICT for review: §9 1.05× would make the drops $368 / $420; the live Queens configurator shows $391 / $447 (≈1.12×, same as the Bronx configurator). This page follows the Manhattan sibling's precedent (configurator drop prices + §9 multiplier for the rest), whereas the Long Island and Hudson Valley pages applied §9 to the drops too.
+
+### Images (11) — permanent image rule; Drive folder `AESS Website Photos/Fiber Optic Installation` empty, CompanyCam not connected
+images: 11 reused from images/low-voltage/ (no real Fiber Optic Installation photos yet). Scene check: all but the fusion-splice scene are scenes not used on any earlier fiber page (perceptual-hash comparison); source files taken from the first half of the alphabetical list (bronx/brooklyn/dutchess/long-island) to avoid the Bronx builder.
+| File (images/fiber-optic-installation/) | Source (images/low-voltage/) | Shows |
+|---|---|---|
+| fiber-optic-installation-queens-fusion-splicer-cleaver-rack.webp | low-voltage-installation-dutchess-county-05-fiber-fusion-splice.jpg | fusion splicer, cleaver, pigtail tray, IPA bottle, fiber rack (scene also on earlier fiber pages, different source file) |
+| fiber-optic-installation-queens-open-ceiling-jhook-bundle.webp | low-voltage-installation-bronx-02-jhook-pathway-bundle.jpg | blue cable bundle into J-hooks, open office ceiling |
+| fiber-optic-installation-queens-wall-outlet-certification-pass.webp | low-voltage-installation-bronx-07-fluke-certification-pass.jpg | handheld certification tester showing PASS at a wall outlet |
+| fiber-optic-installation-queens-keystone-wall-plate-punchdown.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg | keystone jack termination at a wall plate |
+| fiber-optic-installation-queens-ceiling-access-point-cable.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | ceiling access point with cable from open grid |
+| fiber-optic-installation-queens-entry-video-intercom-wiring.webp | low-voltage-installation-bronx-11-video-intercom-entry-wiring.jpg | video intercom panel wiring at an entrance |
+| fiber-optic-installation-queens-door-card-reader-wiring.webp | low-voltage-installation-bronx-14-access-control-reader-wiring.jpg | card reader at a glass door |
+| fiber-optic-installation-queens-conference-camera-display-mount.webp | low-voltage-installation-bronx-ptz-camera-mount.jpg | video-conference camera mounted above a wall display |
+| fiber-optic-installation-queens-metal-stud-cable-fish.webp | low-voltage-installation-bronx-stud-rough-in-boxes.jpg | cable threaded through metal studs, outlet box |
+| fiber-optic-installation-queens-retail-ceiling-cable-pull.webp | low-voltage-installation-brooklyn-retail-store-ceiling-pull.jpg | cable pull across an open retail-store ceiling |
+| fiber-optic-installation-queens-school-corridor-ceiling-pull.webp | low-voltage-installation-long-island-02-school-ceiling-pathway.jpg | cable pull through a school corridor ceiling |
+Review note: these library photos look AI-generated (garbled small text, uniform branding) and several show partial faces in profile and an 800-486-0943 number on shirts — same caveat already logged for the Long Island page. Only 3 of 11 show fiber specifically (splicer; the rest are general cabling/low-voltage scenes captioned as such).
+
+### Keyword plan (Queens page)
+Service: fiber optic installation Queens, building fiber backbone, multi-tenant fiber, co-op fiber, fusion splicing, OTDR testing, strand mapping, temporary/tactical fiber. Problem: provider won't wire building, landlord easement, hallway coax, unknown legacy multimode, flooded basement (Ida), cold-room penetration, elevated-train EMI/vibration, subdivided commercial buildings, preferred-vendor lease rules. Technology: OS2, OM4, OM1 legacy, indoor/outdoor, armoured, OFNR/OFNP, MPO/LC/SC, lockable enclosures, media converters, pre-terminated/tactical cable. Industry: co-ops/garden apartments, mixed-use landlords, subdivided commercial buildings, film/TV studios and post houses, cargo/forwarders/cold chain, office towers, schools/campuses. Geographic: Queens, Long Island City, Court Square, Queens Plaza, Hunters Point, Dutch Kills, Astoria, Steinway, Sunnyside, Woodside, Maspeth, Jackson Heights, Elmhurst, Corona, Flushing, College Point, Whitestone, Forest Hills, Rego Park, Kew Gardens, Jamaica, Hollis, St. Albans, Springfield Gardens, Ozone Park, Howard Beach, Bayside, Fresh Meadows, Rockaways, Broad Channel, JFK, LaGuardia, Willets Point.
+
+### Question register additions
+fiber-optic-installation-queens
+§9 Questions Answered (and other question headings):
+- Has a Queens Fiber Link Gone Dark? (repair capture heading)
+- Our Flushing building has dozens of small shops and offices — how does each tenant get its own internet service without a new hole for every one?
+- In a mixed-use building with stores below and apartments above, can one backbone serve both while keeping them apart?
+- Can the coaxial cable a cable company left running through our hallways be replaced with fiber the building owns?
+- A provider has offered to wire our building at no charge — what should an owner check before signing?
+- Our Long Island City landlord has a preferred telecom contractor — can we still bring in our own fiber installer?
+- Our co-op is several walk-up buildings around a shared garden — can one fiber plant serve every building from a single basement room?
+- Do you need to get into individual apartments or offices to run a building backbone, and how is that arranged with shareholders?
+- Our building has old multimode fiber from the 1990s — can it carry today's speeds or does it need replacing?
+- We have fiber between floors but nobody knows which strands are in use — can you sort it out without taking the network down?
+- We rent a stage or production space for a season — can temporary fiber go in and come out cleanly when the show wraps?
+- Can fiber run into a refrigerated or freezer room in a warehouse near JFK?
+- The elevated 7 train runs right past our building — will vibration or electrical noise from the trains affect fiber?
+- Owner fiber, the provider's wiring, or more Wi-Fi: which fixes a Queens building? (§10 EQUIPMENT comparison heading)
+§17 FAQ:
+- Do you cover the Rockaways, Broad Channel and the neighbourhoods along the Nassau border?
+- How far ahead of a move-in or lease date should we book fiber work?
+- Can you issue a certificate of insurance that our property manager or co-op will accept?
+- Is pre-terminated fiber faster to install than splicing on site?
+- Can our phone system run over the same fiber as our data?
+- Can the fiber enclosures be locked so other tenants cannot get into them?
+- How much wall space does a fiber enclosure need?
+- Is it safe for staff to handle fiber patch cords?
+- Can existing fiber be rerouted when we renovate a floor or a basement?
+- Do you offer an annual check of a building's fiber plant?
+- What does the installation warranty cover?
+- What should we have ready when we call for a Queens quote?
+
+De-dup notes: checked against the register (NYC, Manhattan, Brooklyn, Long Island, Hudson Valley) and the parallel Bronx page. Deliberately avoided: cellar/flood-room question (Manhattan has it — Ida is covered in prose only), studio production-video question (Brooklyn), landmark-district question (Manhattan), cutover-downtime question (NYC hub), coverage-pricing question. Closest calls with the parallel Bronx page for a human read: my co-op-around-a-garden question vs Bronx "courtyard building with several wings … own riser?" (multi-building vs multi-wing); my unit-access question vs Bronx "notice residents need before hallway work"; my strand-mapping question vs Bronx "audit existing fiber before we buy or lease". The repair heading was changed from "Fiber Link Down Somewhere in Queens?" because the Bronx page uses the same masked wording.
+
+## Bronx — local research (2026-10-17 batch, fiber-optic-installation-bronx)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources above are reused where noted; only Bronx research is added here. Page thesis: the Bronx builds big — fiber here is a site plan for many buildings/wings (Co-op City, Parkchester, courtyard apartment houses on the Concourse) and for 24-hour cold-chain operations at Hunts Point, not one cable between two closets.
+
+### Reddit (local)
+- Query: `reddit Bronx apartment building fiber internet Fios not available` · Firecrawl web search (excerpts only; reddit.com threads not opened).
+  - https://www.reddit.com/r/Fios/comments/1rkb228/fios_available_to_all_my_neighbors_but_not_me/ — title "Fios available to all my neighbors but not me - Bronx Tremont area"; excerpt: "FiOS unavailable at my address, but available directly behind me and across the street." → §5 THE NEIGHBORHOOD para 2.
+  - https://www.reddit.com/r/Fios/comments/1oz9xcz/1_gb_fios_installion_in_a_5thfloor_apt_bronx_nyc/ — title only ("1 GB Fios Installion in a 5th-Floor APT, Bronx NYC"). Not used.
+- Query: `reddit bronx co-op building internet wiring old building ethernet landlord riverdale OR "grand concourse"` · Firecrawl web search.
+  - https://www.reddit.com/r/Fios/comments/1s6zslh/coop_city_bronx_what_am_i_looking_at_here/ — title "Coop city Bronx - what am I looking at here?"; excerpt: "Incoming fiber and 2 distribution hubs." → §5 para 2.
+  - https://www.buildinghealthx.com/services/internet-providers/riverdale — excerpt: "The advantage of 5G Home for Riverdale: no landlord or co-op board approval required, no wiring, plug-and-play setup in 15 minutes." → §10.5 H3 5.
+  - https://www.verizon.com/home/internet/near-me/new-york-ny/ — excerpt: "In apartment buildings or homes not yet wired for Fios: Verizon coordinates with the property manager/owner to wire and install the service." → §10.5 H3 4.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitute for §10.5 reality check — claims quoted from published sources:
+- Query: `fiber optic cable installation cost 2026 homeguide OR angi OR forbes per foot business building` · Firecrawl web search (excerpts):
+  - https://www.angi.com/articles/fiber-optic-cable-installation-cost.htm (dated May 3, 2026 in excerpt): "Fiber optic cable installation costs average $4,500 for most homeowners, with most installations ranging from $1,500 to $7,000." → §10.5 H3 1.
+  - https://ringandping.com/how-much-does-fiber-optic-cable-installation-cost-in-2026/ : "Residential projects typically range from $1,500 to $6,000, while commercial fiber optic cabling services can scale into six figures for complex builds." → §10.5 H3 2.
+  - https://unio.digital/blog/fiber-optic-installation-cost : "single-mode fiber is cheap at roughly $0.09 to $1.49 per foot, while multimode OM3/OM4 runs about $1.50 to $6.00 per foot"; interior $1–$6/ft. → §10.5 H3 3.
+  - Silo source reused: lowvoltagenewyork.com ("In Manhattan and the Bronx, you rent the underground… Empire City Subway, a franchise dating to 1891") → §10.5 H3 6.
+  - CUF report (below) 99.8% figure → §10.5 H3 7.
+- Yelp: not searched directly; no yelp.com results in any Bronx query. EMPTY.
+
+### Broadband / digital divide (Bronx)
+- Query: `Bronx broadband fiber internet news 2025 2026 NYCHA buildings Bronx Times` · Firecrawl web search →
+  - https://nycfuture.org/research/understanding-and-overcoming-the-bronx-digital-divide (Firecrawl scrape, report dated July 2025): 22.4% of Bronx households lack home broadband (lowest adoption); 44% of households enrolled in ACP when it ended in 2024 (243,275 at peak); one in three households (184,000+) lack a computer; 113,000+ (19.2%) smartphone-only; "nearly 99.8 percent of the Bronx is now wired for high-speed internet"; "problems remain—including individual buildings not yet wired for broadband and limited competition in some areas"; broadband = 1.1% of household income in the Bronx vs 0.53% Manhattan. → §5 para 1, §5.5 facts, §10.5 H3 7, Affordable Housing section para 1.
+  - https://www.bxtimes.com/mayor-mamdani-ritchie-torres-high-speed-internet/ (Bronx Times, May 4, 2026): $2M expansion of Neighborhood Internet; announced at St. John's House II near the Melrose Library; "microtrenching, rooftop network equipment installation, dedicated internet access systems and in-unit connectivity across approximately 50 buildings"; programme launched 2025. → Affordable Housing section para 2; "Across the Borough" Mott Haven H3.
+  - https://www.osc.ny.gov/files/reports/pdf/report-20-2025.pdf (excerpt): Bronx 36.7% households with no broadband access (2023, different metric). NOT used (conflicting definition vs CUF/Council).
+- Silo sources reused: council.nyc.gov internet-access (Melrose–Mott Haven–Port Morris 44%, highest district) → "Across the Borough" Mott Haven H3; nyc.gov Big Apple Connect (Sept 2025; ~220 NYCHA developments; extended through June 2028) → Affordable Housing para 2.
+
+### Building stock, complexes, landmarks
+- Query: `Co-op City Bronx buildings apartments number towers largest cooperative housing` · Firecrawl web search →
+  - https://www.coopcity.com/ (excerpt): "Mitchell-Lama housing cooperative in the northeast Bronx with 15,372 residential units in 35 high-rise buildings and seven (7) townhouse clusters".
+  - https://www.coopcity.com/apartments (excerpt): "world's largest housing cooperative"; ten chevron buildings 24 storeys/414 apts; fifteen towers 33 storeys/384; ten triple-core 26 storeys/500.
+  - https://en.wikipedia.org/wiki/Co-op_City,_Bronx (excerpt): constructed 1966–73. → §5.5, Large Residential Sites section, §13 card, hero.
+- Query: `Parkchester Bronx 171 buildings apartments complex history` · Firecrawl web search →
+  - https://www.parkchesternyc.com/about-us/history/ (excerpt): MetLife, 129 acres, central heating plant, 51 building clusters, Richmond H. Shreve; 12,271 apartments; Macy's first branch.
+  - https://www.parkchesternyc.com/about-us/ (excerpt): "171 buildings located on 129 landscaped acres".
+  - https://en.wikipedia.org/wiki/Parkchester,_Bronx (excerpt): built 1939–1942; "51 groups of buildings were planned to house 12,000 families"; 171 brick buildings, eight or 13 storeys; Macy's branch 1941. → §5.5, Large Residential Sites, §13 card, regional H3.
+- Query: `Grand Concourse Historic District art deco apartment buildings designated` · Firecrawl web search → https://hdc.org/buildings/grand-concourse-historic-district/ (excerpt): "Designated October 25, 2011 … incomparable concentration of Art Deco and Art Moderne apartment buildings … built between 1916 and 1941 in styles ranging from neo-Renaissance to … Art Deco." → §5.5, §7 cards, §13 card, regional H3.
+- Query: `Hunts Point Food Distribution Center acres businesses jobs Bronx` · Firecrawl web search → https://huntspointcoopmkt.com/ (excerpt: ~2,400 employees in the Coop Market — not used, conflicts with EDC 2,000); https://www.nycfoodpolicy.org/hunts-point-food-distribution-center/ (excerpt: 103 acres — not used); https://edc.nyc/project/hunts-point-peninsula (Firecrawl scrape): FDC >100 wholesalers/distributors/manufacturers incl. Terminal Produce Market, Meat Market, Fulton Fish Market; 4.5 billion lbs/yr; 8,500 direct jobs; 12% of food distributed to NYC; Produce Market opened 1967, >100 acres, four primary warehouses, 26 merchants, ~2,000 employees; Dec 2025 Aurora-Primus conditional selection, NYCEDC's largest design-build; peninsula >12,600 residents. → §5.5, §8 card, Hunts Point section, §13 card, regional H3, New Construction section.
+- Query: `Hunts Point Produce Market redevelopment new building NYCEDC 2025` · Firecrawl web search → https://edc.nyc/press-release/historic-agreement-advance-redevelopment-hunts-point-produce-market (excerpt: $405M; intermodal facility; nearly 13,000 residents); https://www.nyc.gov/mayors-office/news/2025/12/mayor-adams--nycedc-announce-historic-agreement-to-advance-redev (excerpt: "Construction is expected to begin in late 2026"). → Hunts Point section para 1, §13 card.
+- Query: `Hunts Point resiliency flood risk peninsula energy project coastal storm Bronx` · Firecrawl → https://edc.nyc/project/hunts-point-resiliency (Firecrawl scrape): Hunts Point Energy Resiliency Project; HUD Rebuild by Design $20M; total budget $71M; microgrid/back-up power to FDC food businesses; solar + storage at MS 424 and PS 48; Sandy (Oct 2012) highlighted waterfront vulnerability. → Hunts Point section para 4.
+- Query: `Kingsbridge Armory redevelopment 2025 plan Bronx square feet` · Firecrawl → https://edc.nyc/press-release/city-council-approves-historic-vision-kingsbridge-armory-bronx (Firecrawl scrape): 180,000 sq ft column-free Drill Hall; phase 1 groundbreaking 2026, completion 2030; ~500 permanently affordable units on adjacent National Guard site, 2032; $216M city/state/federal; ~3,600 jobs. → §5 para 4, §5.5, §9 high-ceiling Q, §13 card, New Construction section.
+- Query: `Penn Station Access Metro-North new Bronx stations Hunts Point Parkchester Morris Park Co-op City opening` · Firecrawl →
+  - https://www.nyc.gov/content/planning/pages/our-work/plans/bronx/bronx-metro-north-area (excerpt): four stations; plan approved by City Council August 2024 (~7,000 new homes per linked release); "MTA anticipates that the new stations will open in 2027".
+  - https://www.cityandstateny.com/politics/2025/07/mtas-metro-north-penn-station-access-project-snags-another-delay/406937/ (excerpt, July 2025): "won't be completed until at least 2028." → §5 para 4, New Construction section, regional H3s. Both dates stated with attribution.
+- Query: `Bronx Terminal Market Gateway Center retail square feet Major Deegan` · Firecrawl → https://en.wikipedia.org/wiki/Bronx_Terminal_Market (excerpt: just under 1M sq ft retail on 17-acre site south of Yankee Stadium); https://www.related.com/our-company/properties/bronx-terminal-market (excerpt: parking for 2,600 cars). → §8 card, regional H3.
+- Query: `Hutchinson Metro Center Bronx office campus square feet tenants` · Firecrawl → https://www.hutchinsonmetrocenter.com/atrium.html (excerpt: Metro Center Atrium 360,000 sq ft, three floors Class A office and medical, retail, 125-room Residence Inn); https://simonedevelopment.com/... (excerpt: 1200 Waters Place). Secondary "1.4 million sq ft" figure (nancyjkelley.com case study) NOT used. → §8 card, regional H3.
+- Query: `Montefiore Medical Center Moses campus Bronx beds hospitals number` · Firecrawl → ahd.com profile (excerpt: 1,499 staffed beds) — NOT used (third-party figure); Moses campus named only. → §8 card, regional H3.
+- Query: `Jacobi Medical Center campus Pelham Parkway NYC Health + Hospitals Bronx beds Lincoln Hospital` · Firecrawl → https://www.nychealthandhospitals.org/locations/jacobi/ (excerpt): 1400 Pelham Parkway South; 457 beds; Level 1 trauma; "Only Burn Center in the Bronx or Southern Westchester". → §8 card, regional H3.
+- Query: `Fordham University Rose Hill campus acres Bronx buildings` · Firecrawl → https://www.fordham.edu/about/campuses/rose-hill-campus/ (excerpt): 85 acres, Gothic architecture, north Bronx. → §13 card, §8 card.
+- Query: `Lehman College campus acres Bedford Park Bronx Jerome Park Reservoir` · Firecrawl → https://www.lehman.edu/admissions/maps-and-directions/ (excerpt): 37-acre campus between Kingsbridge and Bedford Park along the Jerome Park Reservoir; neighbours Bronx High School of Science, Walton HS, DeWitt Clinton HS. → regional H3 (Fordham/Bedford Park).
+- Query: `Manhattan College Riverdale campus acres Bronx; New York Botanical Garden 250 acres Bronx Park` · Firecrawl → https://en.wikipedia.org/wiki/New_York_Botanical_Garden (excerpt: 250 acres, Bronx Park, est. 1891). Manhattan College: no fact retrieved (named only). → §13 Fordham card.
+- Query: `Port Morris Mott Haven industrial lofts Bruckner Boulevard warehouses converted offices Bronx waterfront development` · Firecrawl → https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf (Firecrawl scrape): Port Morris/Bruckner Boulevard rezoning adopted by City Council March 9, 2005; industrial/commercial uses in "large brick and concrete industrial buildings ranging from one to six stories" mainly along Bruckner Blvd; 50 lofts in the former Estey Piano Factory converted; "warehouse space is already being converted into lofts". → §7 card, §8 card, regional H3.
+
+### Local codes / programmes used for Q&A
+- Query: `NEC 620.37 wiring in elevator hoistway only elevator wiring permitted communication cables` · Firecrawl → https://up.codes/s/wiring-in-hoistways-machine-rooms-control-rooms-machinery-spaces-and-control-spa (excerpt: wiring "associated with elevators and dumbwaiters are allowed in hoistways"); https://www.electriciantalk.com/threads/elevator-pit-circuits-how-you-interpe-620-37.294313/ (excerpt quoting 620.37(A) "Only such electrical wiring, raceways, and cables used directly in connection with the elevator…"). → §8.5 callout, §9 hoistway Q.
+- Query: `E-Rate Category Two internal connections cabling eligible schools libraries USAC` · Firecrawl → https://www.usac.org/e-rate/applicant-process/before-you-begin/eligible-services-overview/ (excerpt: C2 includes "routers, switches, wireless access points, and cabling" within instructional buildings of a school campus or non-administrative library buildings); https://www.usac.org/e-rate/get-started/ (excerpt: "discounts of up to 90 percent"). → §9 E-Rate Q, Medical & Education section.
+- Silo sources reused: DOB sub-50 V permit statement (existing site content), firestopping (unifinerds/nyflnerds), OFNR/OFNP (cablinginstall), HPD/FCC exclusivity ban → §8.5 callouts, §10.
+- Asbestos (FAQ) and sidewalk-shed/facade (Q&A) answers state general practice only — no statute, number or agency deadline cited. Flag for Anwar if a citation is wanted.
+- Local news on Bronx fiber-installation contractors 2026: EMPTY (only the Neighborhood Internet item above).
+
+### Pricing used (existing AESS prices only — no new prices)
+- structured-cabling-pricing-bronx.html (live configurator): fiber_mm $391, fiber_sm $447 per drop.
+- research "Pricing" (silo) + Brooklyn/Manhattan pages, Bronx = 1.00× (blueprint §9): $35/termination, $40/strand OTDR, 12-strand OM4 $4,500–$7,000, 24-strand OS2 $8,000–$15,000+; network-installation-bronx.html: "Additional zone room with fiber link back — from $2,400" (matches base); $195/hr 3-hr min ($585) protected.
+- Packages: Starter $894 (2 × $447 SM drops), Standard $4,500–$7,000, Premium $8,000–$15,000+.
+- CONFLICT for review: §9 says Bronx 1.00× (would give drops $350/$400), but the live Bronx configurator publishes $391/$447 (≈1.12×). Followed the Manhattan sibling's precedent (drops taken from that borough's live configurator, everything else at the §9 multiplier).
+
+### Images (11) — permanent image rule; Drive folder `AESS Website Photos/Fiber Optic Installation` empty, CompanyCam not connected
+All saved to images/fiber-optic-installation/ as WebP (q80, ≤1600 px). Sources taken from the second half of the alphabetical candidate lists (Rockland→Westchester names).
+| File | Source | What it shows |
+|---|---|---|
+| fiber-optic-installation-bronx-fusion-splicer-fiber-patch-panel.webp (hero) | low-voltage/low-voltage-installation-rockland-county-hero-fiber-splice-tray.jpg | fusion splicer under rack of blue fiber adapters/yellow jumpers |
+| fiber-optic-installation-bronx-splicer-screen-yellow-patch-cords.webp | low-voltage/low-voltage-installation-westchester-county-05-fiber-fusion-splice.jpg | splicer screen, yellow cords, cleaver, IPA |
+| fiber-optic-installation-bronx-conduit-pull-box-block-wall.webp | low-voltage/low-voltage-installation-ulster-county-hero-riser-conduit-pull.jpg | pull box on EMT, block wall |
+| fiber-optic-installation-bronx-corridor-bundle-ceiling-pull.webp | network/network-installation-suffolk-county-idf-riser-cable-bundle.webp | bundle pulled into open corridor ceiling |
+| fiber-optic-installation-bronx-emt-conduit-sweep-pull.webp | network/network-installation-ulster-county-network-drop-conduit-emt-riser.webp | EMT sweep on block wall |
+| fiber-optic-installation-bronx-idf-rack-patching-floor-closet.webp | low-voltage/low-voltage-installation-staten-island-hero-idf-rack.jpg | IDF rack patching, UPS |
+| fiber-optic-installation-bronx-crew-open-ceiling-fitout.webp | low-voltage/low-voltage-installation-suffolk-county-03-crew-cable-pull.jpg | four-person crew, open ceiling, reels |
+| fiber-optic-installation-bronx-service-van-reels-ladders.webp | low-voltage/low-voltage-installation-staten-island-van-load-out.jpg | service van with ladders/reels (no plate visible) |
+| fiber-optic-installation-bronx-exterior-enclosure-brick-conduit.webp | low-voltage/low-voltage-installation-ulster-county-02-exterior-enclosure-install.jpg | outdoor enclosure on brick wall, EMT |
+| fiber-optic-installation-bronx-warehouse-lift-cable-tray.webp | low-voltage/low-voltage-installation-orange-county-hero-warehouse-cable-tray.jpg | scissor lift, basket tray, dome camera, racking |
+| fiber-optic-installation-bronx-core-drill-cmu-wall.webp | network/network-installation-westchester-county-core-drill-cmu-wall-penetration.webp | core drilling block wall |
+Note: the same scenes exist under other area filenames and several overlap scenes on sibling fiber pages (splicer, EMT sweep, core drill, exterior enclosure, warehouse tray) because the library has few fiber scenes. Every library photo shows a technician's face in profile and shirts/van print a phone number (800-486-0943 or 844-386-7238); several look AI-rendered (garbled small text) — same flag as earlier builders, for Anwar's review. Photos with full frontal faces (toner-tracing, labeling) were rejected.
+
+### Keyword plan (Bronx page)
+Service: fiber optic installation Bronx, fiber backbone Bronx, multi-building complex fiber, courtyard building riser, cold storage fiber, fusion splicing, OTDR testing, fiber audit. Problem: building not wired, wings with separate stair halls, no riser/elevator hoistway off limits, freezer/cooler entries, forklifts, rodents, asbestos in cellars, sidewalk sheds, phased budgets. Technology: OS2, OM4, interlocking armor, indoor/outdoor, OFNR/OFNP, innerduct, splice trays, media converters/SFP. Industry: co-ops/Mitchell-Lama/NYCHA-adjacent affordable housing, food distribution/cold chain, hospitals/medical offices, colleges/schools/libraries (E-Rate), retail corridors, new construction, venues. Geographic: Bronx, Co-op City, Parkchester, Grand Concourse, Hunts Point, Port Morris, Mott Haven, Melrose, Fordham, Bedford Park, Norwood, Riverdale, Kingsbridge, Morris Park, Pelham Parkway, Westchester Square, Throgs Neck, City Island, Williamsbridge, Wakefield.
+
+### Question register additions
+fiber-optic-installation-bronx
+§9 Questions Answered (and other question headings):
+- Bronx Fiber Link Cut or Gone Dark? (repair capture heading)
+- On a site with dozens of high-rises, which building should host the main fiber room?
+- Can a complex's fiber be installed in phases over several budget years?
+- Can fiber be run through an old steam or utility tunnel between buildings?
+- In a courtyard building with several wings and stairwells, does each wing need its own fiber riser?
+- How is fiber routed through an Art Deco lobby without harming the original finishes?
+- Is the elevator hoistway ever allowed as the route for fiber between floors?
+- What notice do residents need before fiber work starts in the hallways of an occupied building?
+- How is fiber protected from forklifts and pallet jacks on a busy market or warehouse floor?
+- Our building has a sidewalk shed up for facade work — can fiber work still go ahead?
+- How do you keep rats and mice from chewing fiber in a basement or warehouse?
+- Which fiber items belong on the architect's drawings for a new building, and which can wait for the fit-out?
+- How is fiber supported across a hall with a very high, column-free ceiling?
+- Can a Bronx school or library use E-Rate funding for internal fiber?
+- How Many Buildings? Where Does Service Land? That's Our Starting Point. (CTA heading, no "?" at end — not a question)
+- Bronx Building Offline Right Now? (final repair heading)
+§17 FAQ:
+- Can fiber connect our boiler-room controls or building management system to the office?
+- Do you carry fiber materials on the truck, or does everything have to be ordered?
+- What deposit is needed before a Bronx fiber job is scheduled?
+- Can you audit an existing fiber installation before we buy or lease a building?
+- Can the network rack sit in the super's office or a closet instead of a dedicated room?
+- Who handles firestopping on the holes you make — you or the building's contractor?
+- Do you patch and paint the walls and ceilings you open?
+- What happens if our cellar has old pipe insulation or floor tile that might contain asbestos?
+- Can you run fiber to a laundry room or package room for card readers and lockers?
+- Can fiber run near the gas meters and gas piping in a cellar?
+- Do we need an electrician as well as you?
+- Will you give a fixed price, or is the work charged by the hour?
+
+De-dup notes: after the concurrent Queens page appeared, four Bronx questions were replaced because Queens covers the same intent (provider offering free wiring, fiber into freezer rooms, vibration from elevated trains, installation warranty), plus the FAQ on routine maintenance (Queens asks about an annual fiber check). The repair heading was reworded because it masked to the same text as Queens' ("Fiber Link Down Somewhere in …?").

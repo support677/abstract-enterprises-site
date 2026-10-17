@@ -1830,3 +1830,126 @@ Shops and restaurants
 Batch-sibling check (Orange/Putnam pages on disk at 07:40): no exact or meaning duplicates found; closest = Putnam FAQ "Can the lock's alerts also go to a neighbour or caretaker who checks on the house?" vs this page's Q6 (Red Hook local contact's own credential) — different intent (alerts vs access), left for the main run to judge.
 
 De-dup notes: compared by meaning against the NYC/LI/HV/Manhattan/Brooklyn/Queens registers and the six live pages. Deliberately avoided: HV "historic-district approval for a keypad in Kingston" (here the Q is which lock style suits the door, approval mentioned only in body); HV "cleaner's code opens cottage not barn" (here: retiring caretaker handover); HV "why Dutchess costs more than Westchester" (no pricing Q in §9); NYC "cut off a former tenant's code without breaking the lockout law" (here: current tenant behind on rent, statewide RPAPL 768); Brooklyn "can I see when my tenant comes and goes"; Manhattan "doorman/dog walker/cleaner"; Queens "who holds the admin account" and "front-yard gate keypad"; LI "storm door", "garage door to kitchen". Partial overlaps for the main run to judge: Q1 (annual student turnover reset) vs HV FAQ 9 (STR checkout-to-check-in service) and NYC Q4 (renter moving out); Q8 (lock style on historic doors) vs Queens FAQ 10 (match finish); FAQ 1 cost (geo-specific by design); FAQ 8 (restore plain deadbolt for sale) vs LI FAQ 10 (codes/app when selling).
+
+## Ulster County (smart-lock-installation-ulster-county)
+
+Built 2026-10-17 by the Ulster County builder subagent. Area page, up-link /smart-lock-installation-hudson-valley. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (845) 640-3835 in body/CTAs/schema; (800) 486-0943 only in the shared header chrome. Ulster ×1.53.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+
+Thesis / lane: Ulster = the oldest doors in the valley (Dutch stone houses in the Kingston Stockade, Hurley, New Paltz; plank doors with surface box/rim locks, Dutch doors, masonry reveals — preserve, retrofit or use the later wing door) + Catskill-town cabins and rentals where phone signal fails at the porch (Route 28/212 dead zones; keypad codes stored in the lock as the primary credential) + town-by-town rental rules (Kingston STR cap/inspections and rental registration, Woodstock local host within 10 miles, New Paltz rental registration/inspection) + family camps shared by several households + river-town commerce (Uptown Kingston, New Paltz Main St with student staff, Woodstock Tinker St, iPark 87) + lightning/outage resilience.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only (U27, U28); Ulster-specific Reddit threads: EMPTY (not accessible in build env — no r/hudsonvalley / r/Catskills smart-lock thread returned). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are recurring marketing/cost-guide claims, stated as such on the page. |
+| 6 | Landmarks | U13–U18 |
+| 7 | Use cases / building stock | U1, U10, U11, U12, U25, U26 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Hudson Valley One (U8, U21), Radio Catskill/WJFF (U3), Times Union (U20, carried) |
+| 10 | Hyperlocal | Hudson Valley One used; Daily Freeman: only Facebook excerpts returned (not used). Ulster smart-lock-specific news: EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| U1 | (direct) Firecrawl scrape, query mode | https://www.census.gov/quickfacts/fact/table/ulstercountynewyork/PST045224 | Pop 183,330 and housing units 87,657 (July 1, 2025, V2025); owner-occupied 69.9% (2020–2024); 65+ 23.5%; persons/household 2.26; households 74,278; broadband subscription 92.4%; median owner value $352,500. | §5 para 4, §5.5 bullets 1–2 |
+| U2 | carried from silo HV research (Comptroller STR report 2025) | https://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/FINAL-STR-Report-2025.pdf | 2,827 STR units May 2025 = 3.28%; Shandaken 9.76%; Shandaken, Woodstock, Gardiner, Denning >7%; ≥16 municipalities regulate. | §5 para 3, §5.5 bullet 4, Town by Town (Gardiner, Shandaken), Rental Rules table |
+| U3 | `Ulster County seasonal recreational occasional use housing units second homes share comptroller report` · Firecrawl search → Firecrawl scrape | https://wjffradio.org/short-term-rental-surge-threatening-ulster-countys-housing-stock-comptroller-finds/ (redirects to radiocatskill.org; Sept 25, 2025, Kimberly Izar) | STRs up 220% over a decade; 942 (2015) → 3,310; Comptroller March Gallagher; ≥16 municipalities regulate; at least six villages/towns cap STRs or require owner-occupancy. (Seasonal-home % for Ulster: EMPTY — not found.) | §5 para 3, Rental Rules table ("Other towns") |
+| U4 | `Town of Woodstock NY short-term rental law permit requirements local contact` · Firecrawl search → Firecrawl scrape (PDF) | https://www.townofmarlboroughny.gov/DocumentCenter/View/3354/Short-Term-Rentals---Town-of-Woodstock-Local-Law (Woodstock Local Law No. 1 of 2019); also https://woodstockny.gov/departments/building-department | Non-owner-occupied STR needs a designated Host: "A designated adult who lives within a 10 mile distance … available to promptly deal with emergencies"; owner and Host address renter issues within 24 hours; safety/egress plan posted in unit and on back of each bedroom door; yearly fire/safety inspection; STRs must register with Ulster County (LL #5 of 1991). | §5 para 3, §9 Q7 (local host), §10.5 H3 3 & 7, Town by Town (Woodstock), Rental Rules table |
+| U5 | `City of Kingston NY short-term rental law owner-occupied permit 2023` · Firecrawl search → Firecrawl scrape (PDF) | https://kingston-ny.gov/filestorage/8399/8469/48370/STR_Fact_Sheet_-_City_of_Kingston_Form-Based_Code.pdf ; https://kingston-ny.gov/news/?FeedID=1957 (Aug 15, 2023) | Form-based code passed Aug 2, 2023; STR-F capped at 1% of housing units — 112 as of September 2026; cap reached March 4, 2024 (waitlist); STR-RO and STR-L uncapped; one STR per property; fees $650/$125/$125; inspection before permit, then every two years; STR-F only in T4/T5. | §5 para 3, §5.5 bullet 5, §10.5 H3 3, Town by Town (Kingston), Rental Rules table |
+| U6 | same search (result 5) | https://ecode360.com/12699947 (Kingston Code Ch. 332 Rental Properties, excerpt) | Owner must register rental units; no occupancy without a valid rental permit; owner not residing in Ulster County must designate a managing agent. | §9 Q11 (Uptown Kingston shop + apartments), Town by Town (Kingston) |
+| U7 | `Village of New Paltz rental permit law inspection landlord SUNY New Paltz enrollment students off-campus` · Firecrawl search | https://www.villageofnewpaltz.gov/rental-property-registration-and-inspection-forms/ ; https://www.villageofnewpaltz.gov/registered-rental-properties-list/ | Rental registration incl. STRs; must pass inspection within 30 days to be registered; tenants "comforted knowing that a building codes official has examined their home within the previous 12 months". | §5 para 3, §9 Q12, §10.5 H3 3, Town by Town (New Paltz), Rental Rules table |
+| U8 | `Ulster County cell phone service dead zones Catskills study coverage gaps` · Firecrawl search → Firecrawl scrape | https://hudsonvalleyone.com/2016/12/29/dead-zones-more-than-a-decade-into-the-cell-phone-era-much-of-ulster-county-still-has-no-service/ (Paul Smart, Dec 29 2016 / updated Jan 11 2017) | "gaps show up along Routes 212 and 28, where mountains block cellular access"; worst dead-zone ZIPs 12464 (Phoenicia), 12452 (Lexington and Shandaken), 12477 (Saugerties), 12458 (West Hurley); T-Mobile almost no coverage in Olive and Shandaken; Verizon map showed much of Woodstock without coverage. Page states it is a 2016 review. | §5 para 2, §9 Q5, §10.5 H3 1, Town by Town (Saugerties), building card (cabins) |
+| U9 | `SUNY New Paltz enrollment fall 2025 total students` · Firecrawl search | https://www.newpaltz.edu/about/glance.html | Undergraduates 6,197; graduate 1,036. | §9 Q12 ("more than 6,100 … about 1,000") |
+| U10 | carried from research/sonos-installation.md + research/soundbar-installation.md (Ulster County newsroom, Sept 25 2025) | https://www.ulstercountyny.gov/Government/News/Newsroom/2025/09/2025-09-25-Funding-for-Broadband-Expansion | $20.8M ConnectALL award; nearly 1,300 unserved homes, businesses and community facilities. | §5 para 2, §5.5 bullet 6 |
+| U11 | carried from research/sonos-installation.md (Stacker, Sept 25 2025, Census data) | https://stacker.com/stories/new-york/counties-oldest-homes-new-york | Ulster: median year built 1966; 25.3% (21,829) built 1939 or earlier. | §5 para 1, §5.5 bullet 3 |
+| U12 | `Hurley NY stone houses historic district Main Street number of stone houses` · Firecrawl search | https://www.hurleyheritagesociety.org/hurley-tours/ ; https://visitulstercountyny.com/plan-your-visit/things-to-do/hurleys-historic-district-walking-tour-2/ | Self-guided tour map of 27 historic sites in and around Hurley; Main Street private residences from late 1600s to late 1800s. | §5 para 1, §13 Hurley card |
+| U13 | carried from research/fiber-optic-installation.md / cat6-repair.md | https://en.wikipedia.org/wiki/Kingston_Stockade_District | Colonial Dutch stone houses at all four corners of Crown & John Streets. | §5 para 1, §7 card |
+| U14 | `Senate House State Historic Site Kingston stone house 1676 first New York State Senate 1777` · Firecrawl search | https://parks.ny.gov/visit/historic-sites/senate-house-state-historic-site ; https://www.hudsonrivervalley.com/sites/Senate-House-and-Museum-/details | 1777 first NY Senate met in home of merchant Abraham Van Gaasbeek; originally a single-story Dutch stone dwelling built 1676; on Fair Street. | §5 para 1, §13 card |
+| U15 | `Ashokan Reservoir Ulster County completed 1915 …` · Firecrawl search | https://dec.ny.gov/places/ashokan-reservoir ; https://en.wikipedia.org/wiki/Ashokan_Reservoir | 14 miles west of Kingston; created 1915 by 5½ miles of dams and dikes in the Esopus Creek drainage; oldest NYC-owned Catskill reservoir. | §13 card, §5 para 4 (mention) |
+| U16 | `Saugerties Lighthouse built 1869 …` · Firecrawl search | https://www.saugertieslighthouse.com/overview | Constructed 1869 at mouth of the Esopus Creek; aid to navigation. | §13 card, §8 Saugerties card (location only) |
+| U17 | `Byrdcliffe Arts Colony Woodstock founded 1902 …` · Firecrawl search | https://www.woodstockguild.org/about-us/ ; https://en.wikipedia.org/wiki/Byrdcliffe_Colony | Ralph Radcliffe Whitehead; seven farms, 1,500 acres; founded 1902 (completed 1903). | §13 card, §7 card |
+| U18 | `Opus 40 Saugerties Harvey Fite bluestone quarry sculpture` · Firecrawl search | https://opus40.org/about/ | 6.5-acre bluestone earthwork by Harvey Fite in an abandoned quarry at the foot of Overlook (Mountain). | §13 card |
+| U19 | carried from research/fiber-optic-installation.md | https://get.earthnetworks.com/hubfs/2021%20State%20Lightning%20Reports/Lightning_Report_NewYork.pdf | 2020: Ulster 182,760 lightning pulses, 49 thunder days. | §9 Q10 (lightning) |
+| U20 | carried from research/cat6-repair.md | https://www.timesunion.com/hudsonvalley/news/article/hudson-valley-thunderstorms-damage-outages-19542886.php (June 27 2024) | >35,000 Central Hudson customers reported outages in NE Orange, Dutchess and Ulster. | §9 Q10 |
+| U21 | `TechCity Kingston former IBM campus tenants iPark 87 businesses 2025` · Firecrawl search → Firecrawl scrape | https://hudsonvalleyone.com/2025/12/19/ipark87-owners-asked-to-hand-over-west-campus-after-failure-to-pay-6-8-million-mortgage/ ; https://extapps.dec.ny.gov/data/DecDocs/356002/... (300 Enterprise Drive) | Former IBM Kingston campus; east campus houses Ulster BOCES center and Archtop Fiber; county seized 82 west acres in 2019. | §6 card, §8 iPark 87 card, §10 card |
+| U22 | `Uptown Kingston Stockade District shops restaurants Wall Street North Front Street …` · Firecrawl search | https://www.goloveny.com/blog/exploring-kingston ; https://www.tripadvisor.com/Attraction_Review-g48003-d4808894-... | Wall Street and North Front lined with shops, restaurants and wine bars. | §8 Uptown card, §9 Q11 |
+| U23 | `Woodstock NY Tinker Street shops galleries; Saugerties village …` · Firecrawl search | https://visitulstercountyny.com/blog/ultimate-guide-woodstock-new-york-holly-habeck/ ; https://www.thenotsoinnocentsabroad.com/blog/weird-and-wonderful-woodstock-new-york | Tinker Street and Mill (Hill) Road: locally owned shops, restaurants, galleries. Saugerties-village street detail: EMPTY (not returned) → card kept generic. | §8 Tinker St card |
+| U24 | `New Paltz Main Street Route 299 shops restaurants downtown village business` · Firecrawl search | https://www.iloveny.com/listing/new-paltzs-main-street/44377/ ; https://www.mainstreetbistro.com/ | New Paltz Main Street: village shopping and restaurants. | §8 Main St card |
+| U25 | carried from research/fiber-optic-installation.md | https://nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/New_York/cp36111.pdf | Ulster 486 farms (2022). | §8 closing para |
+| U26 | `Ulster County home improvement contractor license required consumer fraud bureau district attorney` · Firecrawl search → Firecrawl scrape | https://legislature.ulstercountyny.gov/sites/default/files/documents/ILL%20No.%2011%20of%202009.pdf | Introductory Local Law No. 11 of 2009 proposed county commercial-construction and home-improvement licensing (B licence for jobs > $1,000). No evidence found that it was adopted / is in force → page says a law was introduced in 2009 but no record of adoption found; check with the town. | §8.5 licensing bullet |
+| U27 | `Knox HomeBox residential key box fire department access homeowners` · Firecrawl search | https://www.knoxbox.com/products/residential-knoxboxes | Residential boxes for fire/EMS entry; master key system managed by local fire departments; access limited to authorised FD personnel; HomeBox holds one key. Whether Ulster fire companies run Knox programs: EMPTY → page tells owners to ask their company. | §6 card, §9 Q9, §10 card, Storms & Signal list |
+| U28 | `Dutch door split door Hudson Valley stone house original 18th century hardware strap hinges` · Firecrawl search (scrape of hmvarch.org returned empty) | https://www.philipsemanorhall.com/architecture/doors ; https://hmvarch.org/news2/hvvanews7-5pt2.htm (excerpt) | Dutch doors split in the middle for air/light, "keeping small children inside and farm animals out"; "people of The Valley are proud of their old Dutch doors and hardware. The hinges and latches are usually painted black". | §9 Q4 |
+| U29 | `reddit Catskills Airbnb cabin keypad lock no cell service guests locked out` · Firecrawl search | https://www.reddit.com/r/AirBnB/comments/1p66bfi/let_the_key_go_to_hell_seriously_i_mean_it_usa/ ; https://www.reddit.com/r/airbnb_hosts/comments/1tpgewn/had_guests_come_back_after_checkout_what_lock_are/ (excerpts) | "we have a keypad lock but have a lockbox with a key in it just in case"; Schlage Encode code sent in advance, active from 4 pm. Not Ulster-specific; used only as "hosts on national forums". | §9 Q5 |
+| U30 | `smart lock for sliding patio door manufacturer keyless sliding door lock` · Firecrawl search | https://www.reddit.com/r/homeautomation/comments/1nqhqb4/smart_lock_for_sliding_door/ (excerpt) ; https://www.gokeyless.com/collections/keyless-sliding-door-locks | Retrofit slider gadget "strong enough to unlock but not strong enough to lock"; mechanical keyless sliding-door locks with no batteries exist. | §9 Q8, §6 card |
+| U31 | `Ulster County sheriff burglaries unoccupied seasonal homes camps arrested` · Firecrawl search | https://www.ulstersheriffny.gov/ ; Facebook/Instagram excerpts | Only social-media excerpts of individual arrests; no pattern article → EMPTY; nothing used. | — |
+| U32 | silo file (research/smart-lock-installation.md) | Fixr; Schlage Encode (BE489) specs; August Connect 10–15 ft; Energizer Ultimate Lithium −40°F to 140°F; igloohome offline PINs; ADA 404.2.7; Ulster County Finance STR registration (sonos file) | As listed in the silo file. | §7.5, §9 Q5, §10.5, §14, Storms & Signal, Rental Rules table |
+
+### Prices used (Ulster ×1.53, round half-up; all from existing approved AESS figures — none invented)
+- Single-door keypad or fob reader with electric strike: $1,500–$2,500 base → **$2,295–$3,825** (matches HV hub's Ulster row).
+- New electric strike: $250–$450 → **$383–$689**. Failed strike repair: $295–$485 → **$451–$742**.
+- Setup-only visit: **$275 first hour**, then 30-min blocks (research/tv-mounting-prices/BRIEF.md line 15, Dutchess/Ulster).
+- Service/callback: **$195/hr, 3-hour minimum ($585)**, not on initial install.
+- Residential smart lock: no AESS figure → "quoted flat at the free walkthrough".
+- National comparison only: Fixr $250–$400, avg $300 (Jan 2025).
+- **Conflict for Anwar:** live access-control-installation-ulster-county.html shows "SINGLE DOOR / GATE $2,100 – $6,500" (and lobby fob reader $2,000–$3,400), which differs from the §9 ×1.53 figures. This page follows the HV hub (§9 multiplier). Same setup-only-rate flag as earlier pages ($275 is published for TV/device setup).
+
+## Images (11) — permanent image rule (Drive folder `AESS Website Photos/Smart Lock Installation` empty; CompanyCam not connected)
+Perceptual-hash check (dHash) of images/low-voltage + images/commercial-security: 71 distinct photos, only ~10 not already used on a smart-lock page, and those are ceiling speakers, fiber trays, video walls, an LPR lot with a building number, a client-face dashboard shot, the dual-entrance address photo and the reception-face photo — none fits a door lock. So the 11 below favour door-hardware relevance; most are the same photos (other filenames) as images on the NYC/LI/HV/Manhattan/Brooklyn smart-lock pages. All viewed before naming; captions describe only what is visible; none claims a customer or Ulster project. Rejected after viewing: ulster-access-reader ("Pinnacle Business Center" on glass), ulster-video-intercom ("Riverfront Business Center" + street address), ulster-lpr-lot (building number "1000"), ulster-credential-programming (readable programming list).
+| New filename (images/smart-lock-installation/) | Source file |
+|---|---|
+| smart-lock-installation-ulster-county-electric-strike-glass-door-frame.webp (hero, eager) | images/commercial-security/commercial-security-systems-ulster-electric-strike.jpg |
+| smart-lock-installation-ulster-county-enclosure-on-brick-wall.webp | images/low-voltage/low-voltage-installation-ulster-county-02-exterior-enclosure-install.jpg |
+| smart-lock-installation-ulster-county-keypad-and-camera-glass-entry.webp | images/commercial-security/commercial-security-systems-ulster-alarm-keypad.jpg |
+| smart-lock-installation-ulster-county-push-to-exit-button.webp | images/commercial-security/commercial-security-systems-nyc-rex-exit-button.jpg |
+| smart-lock-installation-ulster-county-strike-terminal-wiring.webp | images/low-voltage/low-voltage-installation-ulster-county-12-electric-strike-wiring.jpg |
+| smart-lock-installation-ulster-county-door-contact-sensor.webp | images/commercial-security/commercial-security-systems-nyc-door-contact-install.jpg |
+| smart-lock-installation-ulster-county-wall-box-cable-trace.webp | images/low-voltage/low-voltage-installation-ulster-county-08-tone-generator-trace.jpg |
+| smart-lock-installation-ulster-county-crew-van-unloading.webp | images/commercial-security/commercial-security-systems-ulster-crew-van.jpg |
+| smart-lock-installation-ulster-county-ceiling-access-point-lift.webp | images/low-voltage/low-voltage-installation-ulster-county-10-access-point-lift-install.jpg (cropped: right 14% removed to drop a "Community Center" wall sign) |
+| smart-lock-installation-ulster-county-finished-secured-lobby.webp | images/commercial-security/commercial-security-systems-ulster-secured-lobby.jpg |
+| smart-lock-installation-ulster-county-request-to-exit-sensor.webp | images/commercial-security/commercial-security-systems-nyc-request-to-exit-sensor.jpg |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ and images/commercial-security/ (no real smart-lock photos yet)`. The library photos look AI-rendered (as noted on the Queens/soundbar pages) — needs Anwar's review.
+
+## Question register — smart-lock-installation-ulster-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Stone houses and the oldest doors
+1. Our stone house still has a box lock screwed to the inside face of a plank door — can it go keyless without boring the door?
+2. Is it wiser to leave the original front door untouched and put the smart lock on the kitchen-wing door instead?
+3. How do you fasten a keypad or a bridge to a stone wall without damaging the masonry?
+4. Can a Dutch door, split into top and bottom halves, take a smart lock?
+Mountain cabins, family camps and rental cottages
+5. Guests reach our cabin near Phoenicia with no phone signal — what should they use to open the door?
+6. Three siblings share the family camp — can each household keep its own codes private from the others?
+7. Woodstock asks for a local host within ten miles — what should that person be able to do at the door?
+8. Can the sliding glass door onto our deck be put on the same keyless system?
+9. If the house is empty and the alarm goes off, how does the volunteer fire company get through a smart-locked door?
+10. Ulster sees a lot of summer thunderstorms — can lightning take out a smart lock or its bridge?
+Kingston, New Paltz and the river towns
+11. Our Uptown Kingston building has a shop on the ground floor and apartments above — should they share one entry system?
+12. We rent a house near SUNY New Paltz to a new group of students each year — does a smart lock beat re-keying between leases?
+13. Our New Paltz shop hires students who leave every May — what is the quickest way to manage staff codes through each semester?
+14. Our manufactured home's door swings outward — can it still take a smart deadbolt?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What does a keypad with an electric strike cost on an Ulster County door?
+2. Do your crews reach Pine Hill, Shandaken and the Ellenville end of the county as well as Kingston?
+3. Should we shovel the walk and clear the steps before a winter appointment?
+4. Can the house's other keyed doors be set up so one key opens them all?
+5. Does a smart lock lower what we pay for homeowners insurance?
+6. Is there a minimum job size for a trip out to Ulster County?
+7. Can a smart lock replace only the deadbolt on a door that also has a separate keyed knob?
+8. Do you weather-seal the outside of the lock where it meets an old, uneven door?
+
+### Other question-form headings
+- H2 "Keypad Silent at an Ulster County Door?" (repair capture)
+- H2 "Ready to Map Every Door on the Property?" (mid-page CTA)
+- H2 "Stuck Outside a Stone House or Mountain Cabin Tonight?" (final repair capture)
+
+### De-dup notes
+Planned against the NYC/LI/HV/Manhattan/Brooklyn/Queens registers. Deliberately avoided: HV hub intents (remote rental codes from the city, STR registry, internet-outage behaviour, logs without monitoring, cold limits, batteries in cold, ice/swelling, barn 200 ft range, no-internet property, thick 19th-c door, Kingston historic-district keypad approval, detached garage with no power, cleaner code for cottage only, county pricing/licensing, office suite, winery; FAQ generator, closed-for-winter install, weekend work, second lock same visit, who programs guest codes, rental turnover service); NYC mortise/pre-war door and former-tenant code; Brooklyn sponsor admin handover and glass/mail-slot door; Queens front-yard gate keypad, re-key-on-purchase, "bring the lock or buy one", family administrator, low-battery warning; LI garage/alarm/storm-door/sell-the-house; Manhattan roommate codes, interior doors, deposit. Partial overlaps for the main run to judge: Q6 (several households' admins at a shared camp) vs Queens FAQ "Who should hold the administrator account when a whole family shares the lock?" (here: privacy between households); Q12 (student-lease turnover economics) vs NYC "small landlord cut off a former tenant's code"; FAQ 4 (keyed-alike) vs Queens FAQ re-key-first; FAQ 2/1 coverage and cost are geo-specific by design. Masked paragraph similarity vs every live smart-lock page: max 0.63 outside standard blocks (licence/warranty/stamp lines and the NAP line "Abstract Enterprises Security Systems · 460 E Fordham Rd … (845) 640-3835 … WhatsApp" at 0.74 vs Manhattan/HV NAP lines — protected NAP content).
