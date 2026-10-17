@@ -1145,3 +1145,333 @@ DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-insta
 
 ### De-dup notes (checked 2026-10-17 against NYC/LI/HV registers and the on-disk Bronx and Staten Island pages)
 Dropped during build because Bronx/SI (built in parallel) hold the intent: two-family/tenant separate Sonos (Bronx, SI); backyard legal noise limit (SI decibel Q) — Nassau noise-code facts kept in body only; travel/parking charge (Bronx, SI); elderly parent without smartphone (Bronx grandparents); payment/deposit (Bronx, SI); electrician same day (SI); soundbar TV sound on deck/kitchen (SI). Reframed: raised-house Q from "equipment in the enclosure?" to wire routing past flood vents (SI holds "is any gear safe at ground level after lifting"). Partial overlaps for the main run to judge: raised-house routing vs SI lifted-house Q; house-being-lifted timing FAQ vs LI #10 new-build walkthrough; storm protection Q vs HV power-cut recovery Q; cost FAQ (every page has one, framed here as Nassau vs Queens).
+
+## Suffolk County (sonos-installation-suffolk-county)
+
+Built 2026-10-17 (batch: Suffolk / Westchester / Rockland Sonos area pages). Area page, up-link /sonos-installation-long-island. GBP Brooklyn (1282 Troy Ave, #brooklyn). Direct line (631) 407-2884 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. Suffolk ×1.20.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes). "Carried" = a source already recorded with URL and finding in another repo research file on 2026-10-17 and not re-fetched by this run.
+
+**Thesis:** in Suffolk the house decides the Sonos plan before the speakers do — the county's 1950–79 ranches, Capes and splits (no basement; slab/crawlspace; low insulated attics; knee-wall voids; block den walls) set the wire path from above; salt air, Sandy-era raised houses and FEMA enclosure limits decide where electronics may live; East End second homes need a close/reopen routine; Suffolk licenses audio/home-theater cabling as its own Communications Cabling category, separate from line-voltage work.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit r/longisland sonos speakers house wifi Suffolk` · FC search → r/longisland ISP threads only (excerpt https://www.reddit.com/r/longisland/comments/1lubawq/who_do_you_use_for_home_internet_and_how_much/ : "In Suffolk county, using optimum ・ 500mbps…") → context for the Optimum gateway Q (not quoted). No r/longisland Sonos thread → Sonos-specific local Reddit EMPTY. r/OPTIMUM and r/smarthome excerpts used (rows N2, N3). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so on the page and uses claims published by cost guides, forums and installer marketing instead. |
+| 6 | Landmarks | L1–L6 |
+| 7 | Use cases / building stock | H1–H3, W1–W3 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Newsday "Long Island: Our Story" (H1); Newsday/FEMA Sandy tally (carried W2); Governor's office Station Yards (carried C2). Newsday/Patch/News12 Sonos- or home-audio-specific Suffolk story: none found → EMPTY for the service category. PSEG LI storm releases found (https://www.psegliny.com/en/Newsroom/2025/092826-StormUpdate0800, excerpt) — not used. |
+| 10 | Hyperlocal | No Suffolk hyperlocal item on home audio → EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| H1 | `Suffolk County housing built after World War II ranch Cape Cod houses 1950s development history` · FC search → FC scrape | https://www.newsday.com/long-island/history/the-new-frontier-l25269 | Newsday (David Behrens, "Long Island: Our Story" ch. 8): "A split-level, a ranch, a Cape Cod."; "In Suffolk, the 1960 figure of 666,784 was more than three times the prewar total of 197,255."; Long Island's growth rate highest in nation by the 1950s. | §5 para 1, §5.5 bullet 1 |
+| H2 | `Suffolk County population growth 1950 1960 1970 census postwar boom` · FC search (excerpt) | https://www.nytimes.com/1978/04/16/archives/postwar-growth-of-nassau-is-over-planners-citing-first-population.html | NYT 1978 (Lilco figures): 1950 Census 276,129; 1960 666,784; 1970 1,127,030. | §5 para 1 ("1970 census put it past 1.1 million") |
+| H3 | `Suffolk County NY median year structure built housing units built 1950 to 1969 percent` · FC search → FC scrape | https://www.point2homes.com/US/Neighborhood/NY/Suffolk-County-Demographics.html | Point2Homes summary of Census survey data: median construction year 1970; built 1950–59 17.2%, 1960–69 19.7%, 1970–79 17.8% (sum 54.7%); pre-1940 9.1%; 1940s 4.5%; 2000–09 8.3%; 2010–19 3.7%; 2020+ 0.7%. Labelled on page as Point2Homes' summary (third party). | §5 para 1, §5.5 bullet 2 |
+| H4 | carried from research/sonos-installation.md (LI hub, Census QuickFacts Suffolk) | https://census.gov/quickfacts/fact/table/suffolkcountynewyork/PST045223 | Housing units 583,777; owner-occupied 82.2%; building permits 2025: 1,399. | §5.5 bullets 3–4; pre-wire section intro |
+| W1 | carried from research/soundbar-installation.md (Suffolk, ny.gov) | https://www.ny.gov/counties/suffolk | Ten towns; surrounded by water on three sides; 980 miles of coastline. | §5 para 3, §5.5 bullet 5, schema areaServed (10 towns) |
+| W2 | carried from research/smart-lock-installation.md (F3) | https://www.seagrant.sunysb.edu/media/sandy12/Newsday-Sandy010713.pdf | Newsday Jan 2013 FEMA tally: Suffolk 20,798 structures flooded/damaged/destroyed. | §5 para 3 |
+| W3 | carried from research/smart-lock-installation.md (F1) | https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf ; https://agents.floodsmart.gov/sites/default/files/media/document/2025-07/fema_nfip-p-348-protecting-building-utility-systems-from-flood-damage-2017.pdf | TB5: enclosures under elevated buildings limited to "parking of vehicles, building access, and storage"; P-348: components below required elevation designed for flood loads / elevated. | §5 para 3, §7 raised-house card + method para, §9 raised-house Q, §10.5 H3 4, pre-wire checklist |
+| W4 | carried from research/smart-lock-installation.md (T5) | https://www.zippboxx.com/blog/suffolk-county-towns ; https://en.wikipedia.org/wiki/Suffolk_County,_New_York | County about 86 miles long; Brookhaven the largest town. | §5 para 4; §13 BNL card |
+| L1 | `Suffolk County Consumer Affairs home improvement license required contractors Chapter 563` · FC search → FC scrape | https://ecode360.com/14947425 | Ch. 563 Art. II: "home improvement contracting" = repair/remodeling/alteration etc. of residential property "Excluding work in the electrical and plumbing fields as defined by § 563-126"; §563-17 license required (search excerpt). | §8.5 compliance bullet 2 (Consumer Affairs), §9 outlet/cabling Q, §10.5 H3 1 |
+| L2 | `Suffolk County electrician license required low voltage wiring exemption Article XI master electrician` · FC search → FC scrape (pdf) | https://www.suffolkcountyny.gov/Portals/0/formsdocs/labor/code.pdf | Suffolk rules governing restricted licensed electricians: "Only the holder of a Suffolk County Master Electrician's License shall do direct line-voltage connections…"; Communications Cabling Systems category: "Furnish and/or install, repair, maintain, alter or erect all cabling systems of 90 volts or less, for computer networking, telecommunications, cable TV, fiber optics, audio and video systems and home theater systems." Page does NOT claim AESS holds a Suffolk restricted licence; it states the NYS licence and tells readers to check with Consumer Affairs. | §5.5 bullet 6, §8.5 bullets 1–2, §9 outlet/cabling Q, §10.5 H3 1 |
+| N1 | `support.sonos.com double NAT two routers different subnet Sonos app can't find system ISP gateway` · FC search (excerpts) | https://www.reddit.com/r/sonos/comments/1hakvzx/how_i_fixed_my_broken_sonos_system/ ; https://en.community.sonos.com/components-and-architectural-228999/frustrating-experience-trying-to-connect-to-new-wifi-network-6869899 ; https://en.community.sonos.com/speakers-229128/connecting-existing-system-to-a-different-router-6883911 | "Double NAT will always cause problems if you have some devices on one subnet and others on another subnet"; community: "are you using double NAT?"; Sonos must be on the same subnet as the device. Plus silo-wide Sonos system requirements (same subnet). | §9 Optimum Q, §10.5 H3 6, network list ("One subnet") |
+| N2 | `Optimum gateway Sonos not connecting bridge mode own router` · FC search (excerpt) | https://www.reddit.com/r/OPTIMUM/comments/1gx0j0i/just_put_the_modem_into_bridge_mode/ | "When using your own Router remember to use 'Bridge Mode'"; "Make sure your network is plugged into port 1 on their modem/router." | §9 Optimum Q |
+| N3 | `NuTone intercom radio system 1960s 1970s homes built-in speakers replace convert` · FC search (excerpts) | https://www.homecontrols.com/pages/nutone-intercom-replacement ; https://www.reddit.com/r/smarthome/comments/1kh8kot/anyone_ever_upgrade_or_reuse_these_old_nutone/ | Home Controls: IST intercoms are the "drop-in replacement — built to work with the exact same low-voltage wiring NuTone installed decades ago"; r/smarthome reply: "a simple mod to add a Bluetooth receiver in place of the tape deck or radio". No claim made that NuTone systems are common in Suffolk specifically. | §6 card, §9 NuTone Q, ranch-attic checklist |
+| A1 | `attic temperature summer can reach 150 degrees Department of Energy OR building science` · FC search (excerpt) | https://www.retrofoamofmichigan.com/blog/cool-down-fix-hot-attic | Insulation contractor blog: "A hot attic can reach temperatures of 130 to 150 degrees during the summer." Labelled on page as an insulation contractor's guide. | §10.5 H3 2, ranch-attic checklist (heat) |
+| A2 | `Sonos speaker crawl space or attic installation in-ceiling insulation contact Sonance rough-in bracket` · FC search (excerpts) | https://www.sonos.com/en-us/blog/guide-to-ceiling-speakers ; https://www.bhphotovideo.com/lit_files/685190.pdf | Sonos: in-ceiling speakers practical "as most homes have an attic or crawl space"; manual: L/R 6–10 ft apart. | §9 Cape slope Q (6–10 ft) |
+| S1 | silo-wide (research/sonos-installation.md) Sonos sources, not re-fetched | support.sonos.com system requirements; reduce-wireless-interference; Trueplay article; sonos.com Amp guide (32–104°F); ceiling-speaker pair page (cut-outs 8.25/10.125 in, depth 4.73/5.32 in, paintable grilles, up to three pairs per Amp); outdoor speaker pair (IP66, salt spray, −13°F–149°F); Arc Ultra shop page + guide (≥4 in gap, auto EQ on mount); Sub 4; Era 300 mount (studs only); Port; Era 100 Pro (PoE+); Combo Adapter ($39); Move 2 guide (IP56, 32–104°F, charging base indoor only); Roam 2 / Sonos Play IP67; Adorama In-Ceiling manual (obstruction survey; consult local codes); TechHive/Adorama Amp (125 W @ 8 Ω, HDMI ARC, line in, 2 Ethernet); Facebook low-voltage group (45 min–1 h per speaker) | as recorded in the silo file | §6, §7.5, §9 (insulation, Cape, recessed lights, salt/seal, unplug, beach portable, sunroom), §10 equipment + network list, §10.5, packages, FAQ grilles/cut-outs |
+| C1 | carried from research/smart-lock-installation.md (C1) | https://www.hia-li.org/li-iph/ | LI Innovation Park at Hauppauge: "2nd largest industrial park in the nation"; 1,350 companies; 55,000 employees. | §8 card |
+| C2 | carried from research/smart-lock-installation.md (C2) | https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more | Station Yards: 1,450 residential units; Ronkonkoma = Suffolk's busiest station. (Retail/office from Newsday excerpt in soundbar research.) | §8 card |
+| C3 | carried from research/soundbar-installation.md (Southampton Ch. 235) | https://ecode360.com/8696771 ; https://ecode360.com/8696730 | Exterior amplifiers/speakers = noise pollution except §235-4; §235-4A(17) small outdoor speakers within §235-3 standard 7 a.m.–7 p.m.; §235-3A residential 65 dBA day / 50 dBA night at lot line. | §8.5 bullet 4 |
+| C4 | carried from research/soundbar-installation.md (Southampton rentals) | https://www.southamptontownny.gov/faq.aspx?TID=75 ; https://www.southamptontownny.gov/DocumentCenter/View/500/Rental-Permit-Application-2-YR-PDF | <14-day stays = transient; rental permit renewed every two years. | Seasonal-house section closing paragraph |
+| C5 | carried from research/smart-lock-installation.md (I1) | https://www.nps.gov/fiis/planyourvisit/off-road-vehicle-permit-faqs.htm | Contractor permits only to communities where holder has work; summer residents/renters not eligible; winter access by ferry, water taxi or private boat. | §9 Fire Island Q, pricing "no travel surcharge" bullet, §10.5 H3 7 |
+| C6 | carried from research/soundbar-installation.md (nyctvguy via suffolk-county.json) | https://nyctvguy.com/tv-mounting-suffolk-county | City-based installers price Suffolk by distance from Midtown; travel fee may apply in the Hamptons (competitor not named). Live soundbar-installation-suffolk-county.html states no travel surcharge with AESS. | §10.5 H3 7, FAQ 2 |
+| L-1 | carried (smart-lock L3 / soundbar landmarks) | https://www.vanderbiltmuseum.org/about-us/history/ ; https://www.vanderbiltmuseum.org/about-us/ | Eagle's Nest, 43 acres, Centerport, above Northport Bay, built 1910–1936, Spanish Revival, deeded to county 1944, opened 1950; 147-seat Reichert Planetarium. | §13 card |
+| L-2 | carried (soundbar landmarks) | https://huntingtonny.gov/heckscher-park | Prime Ave & Route 25A; 18 acres; gift of August and Nannie Heckscher; to town 1954; Chapin Rainbow Stage; Summer Arts Festival since 1966. | §13 card |
+| L-3 | carried (smart-lock L2 / soundbar) | https://en.wikipedia.org/wiki/Big_Duck ; https://suffolkcountyny.gov/Departments/Parks/Historic-Sites/The-Big-Duck | 20-ft building, 1931, duck farmer Martin Maurer, shop on West Main St Riverhead, moved to Flanders 1937, NRHP 1997; county parks historic site. | §13 card |
+| L-4 | carried (smart-lock L4) | https://en.wikipedia.org/wiki/Brookhaven_National_Laboratory ; https://www.bnl.gov/about/history/ | DOE lab in Upton (Town of Brookhaven), established 1947 at former Camp Upton. | §13 card |
+| L-5 | carried (soundbar landmarks) | https://archive.northforker.com/2018/05/10-historic-destinations-to-check-out-on-the-north-fork/ | Horton Point Lighthouse commissioned 1790, built 1857. | §13 card |
+| L-6 | carried (soundbar landmarks) | same northforker article | The Old House, Cutchogue, believed c.1649, NHL 1962. | §13 card |
+
+Hamlet/village names in the "We also install throughout" line, the three-band table and the commercial corridor cards (Route 110, village main streets, Route 25/48, Montauk Highway) are real place names used only as service areas; no facts claimed beyond what is sourced above.
+
+### Prices used (Brooklyn base × 1.20, round half-up; no new prices)
+Base = sonos-installation-nyc.html pricing table (Brooklyn). Sonos setup 125→150 · wall-mounted bar 129→155 · placed 79→95 · in-wall kit 169→203 · cord cover 59→71 · cable run ≤25 ft 99→119 · A/V receiver 129→155 · universal remote 99→119 · streaming device 49→59 · full home theater 350→420 · metal studs +30→+36 · plaster +45→+54 · brick/stone +65→+78 · concrete/block +75→+90 · tile/marble +95→+114 · backer 85→102 · high mount 75→90 · box removal 25→30 · COI free · setup-only first hour Brooklyn 195→234, then 30-min blocks · whole-home audio $800–$2,500 per zone (av-sound-installation-nyc) → $960–$3,000. Packages: $150 / $305 / $508. Not used: Sanus bracket $84.99 (product), $150 return-trip fee, walk-up fee, $195/hr callback rate.
+**Conflicts for Anwar / main run:** (1) the live LI hub says its add-on lines "are the same in Nassau and Suffolk" ($125 Sonos setup etc.) and quotes Suffolk setup-only at $250; live tv-mounting-prices-suffolk-county.html also lists "Sonos / wireless surround $125" and setup-only $250. This page follows the batch instruction (base × 1.20 → $150 and $234). (2) Same pattern flagged by the soundbar Suffolk builder (who kept lines flat) and the smart-lock Suffolk builder (who used $250).
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+Chosen only from pool_00 (images/low-voltage/; 105 files = 33 distinct photos by md5). All viewed before use. Rejected: tone-generator trace (full face), stud-rough-in-boxes (face in profile), IDF rack patching (readable whiteboard "NETWORK RACK FLOOR 3 IDF"), retail store pull (readable slogan signage), access-point lift (readable "Community Center" sign), door/lock/intercom/camera photos (not AV). The technicians' faces are partly visible in profile in the two speaker shots (hero, amp cart), the recessed-box and the wall-jack certifier shots — no customers appear. Converted with PIL to WebP q80 (all ≤1400 px wide).
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | On Sonos hub? |
+|---|---|---|
+| sonos-installation-suffolk-county-restaurant-ceiling-speaker-fit.webp (hero, eager) | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg | yes (same photo on NYC/LI/HV) |
+| …-recessed-media-box-tv-wall.webp | low-voltage-installation-bronx-display-recessed-box.jpg | yes |
+| …-ceiling-speaker-amp-cart-office.webp | low-voltage-installation-bronx-ceiling-speaker-conference.jpg | yes (NYC) |
+| …-metal-stud-framing-cable-pull.webp | low-voltage-installation-bronx-04-metal-stud-rough-in.jpg | no |
+| …-drop-ceiling-cable-bundle-pull.webp | low-voltage-installation-bronx-10-ceiling-grid-bundle-pull.jpg | yes |
+| …-three-techs-mounting-display.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | yes |
+| …-cable-certifier-wall-jack-pass.webp | low-voltage-installation-bronx-07-fluke-certification-pass.jpg | yes |
+| …-patch-panel-punch-down.webp | low-voltage-installation-bronx-06-cat6-patch-panel-punchdown.jpg | no |
+| …-crew-pulling-cable-open-floor.webp | low-voltage-installation-bronx-03-crew-cable-pull.jpg | no |
+| …-ceiling-access-point-tile.webp | low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg | yes |
+| …-jhook-cable-pathway-open-ceiling.webp | low-voltage-installation-bronx-02-jhook-pathway-bundle.jpg | no |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+### Field Notes
+No real, sourced Suffolk Sonos job story available → written as general practice and labelled as such on the page.
+
+## Question register — sonos-installation-suffolk-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 15)
+1. Our Cape's knee-wall storage is packed with boxes — does it all have to come out before you wire the bedrooms?
+2. The upstairs bedrooms in our Cape have sloped ceilings — will a speaker cut into the slope sound right?
+3. Our ranch already has recessed lights in every ceiling — can speakers fit between them without looking cluttered?
+4. The den in our raised ranch is panelling over a block wall — can in-wall speakers go there?
+5. Our house was raised after Sandy — can the network and Sonos gear go in the enclosure underneath?
+6. A hurricane is in the forecast — should the deck speakers come down?
+7. Our cottage is on Fire Island — is a Sonos installation practical there?
+8. Should we unplug the Sonos system when we close the house for the winter?
+9. Our Hauppauge flex unit has an office up front and a warehouse behind — can one Sonos system serve both?
+10. Our guest cottage has its own internet service — can its speakers join the main house's Sonos system?
+11. Our split-level's den is half below ground with a low ceiling — will an Arc Ultra's upward-firing sound still work there?
+12. Can we take a Sonos portable to the beach at Smith Point or Robert Moses without ruining it?
+13. Our sunroom has glass on three sides — will Sonos speakers sound good in there?
+14. The Amp shelf needs a new outlet — who installs it, and who does the speaker cable?
+15. Our North Fork tasting room plays music for visitors — can it run on the owner's personal streaming account?
+
+### §17 FAQ (visible == FAQPage, 10)
+1. Does the Suffolk rate apply to the Sonos products themselves, or only to the labour?
+2. Do you charge extra to come out to Montauk or Orient Point?
+3. Can outdoor speakers be installed in winter, or should we wait for spring?
+4. Is it worth adding Sonos before we put the house on the market?
+5. Where cable can't go inside the wall, can the cover be painted to match the trim?
+6. Can we add a second Sub or more rear speakers later without redoing the install?
+7. Can you install in a seasonal house while it is closed for the winter?
+8. How is payment handled on a large multi-room job?
+9. Our house is in a gated community on a private road — what do you need from us?
+10. Can you take the Sonos gear down for a painter or a roofer and put it back afterwards?
+
+### De-dup notes
+Checked by meaning against the NYC, LI and HV registers and the on-disk Westchester and Rockland drafts (2026-10-17 08:45). Dropped/replaced during the build because the batch siblings had the same intent: price-vs-Brooklyn, installing while the owner is out, record of wire runs, removing old ceiling speakers, builder/GC pre-wire, soundbar over a fireplace, county-licence-for-installer, plus the "Cutting Out" repair heading. Other question-form headings: none (repair-capture H2s are statements).
+
+### Follow-up pass (main run request, 2026-10-17, after wiring)
+Re-checked by meaning against the new Manhattan/Brooklyn/Queens/Bronx/Staten Island/Nassau registers; 5 Q&A and 4 FAQ replaced (above). Duplicates removed: loose-fill attic insulation (Nassau Q3/FAQ4), wall-penetration sealing (Brooklyn Q7), tenant control without the account (Brooklyn Q4), ISP gateway vs own router (Nassau Q10, Brooklyn Q1), intercom wire reuse (Queens Q11), painted grilles (Queens FAQ9), no-attic ceiling speakers (Nassau Q2), joist/duct conflict (Nassau FAQ7), booking for a summer party (Nassau FAQ5). Content that moved with them (NuTone, Optimum/double-NAT, sealing) was removed from the Q&A; N1–N3 rows now feed only §10.5 H3 6 and the network list (N1), and nothing (N2, N3).
+New sources for the replacements (all carried, URLs recorded in repo research files):
+- Hurricane Q: https://riverheadlocal.com/2020/08/09/isaias-wallops-long-island (research/soundbar-installation.md): Isaias, PSEG LI >420,000 customers without electricity, >2,600 in Riverhead; Sonos outdoor IP66 (silo).
+- Low-ceiling Arc Ultra Q: https://www.dolby.com/about/support/guide/dolby-atmos-speaker-setup/ (flat ceiling, 7.5–14 ft) and https://www.polkaudio.com/en-us/blog/how-to/ultimate-guide-to-dolby-atmos-setting-up-your-system (rigid reflective ceiling, avoid acoustic tiles, clear path) — research/soundbar-installation.md.
+- Hauppauge flex Q: HIA-LI (C1). Guest-cottage Q: Sonos same-subnet requirement (silo). Second Sub FAQ: sonos.com/en-us/guides/sub (dual-sub options, silo). Seasonal install FAQ: Amp 32–104°F (silo).
+Size padding (to clear the 2 KB cluster with Staten Island): §5.5 bullets added — Sandy 20,798 structures (W2); LI Innovation Park 1,350 companies / 55,000 employees / $13B output (C1); Station Yards 1,450 homes, 53 acres, $1.2B, first 489-unit phase 2020, ~17,000 daily commuters (C2 + Newsday excerpt in soundbar research); Three-Suffolks paragraph with Point2Homes age shares 9.1% pre-1940, 4.5% 1940s, 8.3% 2000–09, 3.7% 2010–19, 0.7% 2020+ (H3).
+Final: 192,002 B, 13,560 words, check_page.py (full) PASS.
+
+## Westchester County (sonos-installation-westchester-county)
+
+Built 2026-10-17 by the batch subagent for `sonos-installation-westchester-county` (child of /sonos-installation-hudson-valley; phone (914) 877-2578; Bronx GBP #bronx; §9 multiplier 1.25). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "WS" = WebSearch; "WF" = WebFetch. Silo-wide Sonos product facts are reused from the silo sections above (NYC, LI, HV) and not repeated here.
+
+**Thesis (distinct from NYC = apartments/co-ops; LI = suburban zoning/pre-wire for new builds; HV hub = stone/barns/weekend houses):** in Westchester a Sonos plan is set by the approval chain and the renovation calendar — who has to sign off (county licensing, town/village building departments, co-op boards/managing agents, landlords of new downtown towers, HOAs) and when the walls are open (rough-in, spray foam, inspection, drywall). Two Westchesters: southern-city apartments vs. pre-war railroad-suburb Tudors/colonials and larger up-county houses.
+
+### Housing / stats
+- WF https://www.census.gov/quickfacts/fact/table/westchestercountynewyork/PST045224 (QuickFacts, Westchester County): population 1,015,743 (V2025); housing units 399,598 (V2025); owner-occupied rate 61.8% (2020–2024); median owner-occupied value $663,200 (not used); households 372,883; persons/household 2.61; broadband subscription 93.7% (2020–2024); building permits 996 (2025). → §5 para 2, §5.5 stats list (61.8%, 93.7%), Renovation Timing intro (996).
+- Stacker county housing-age ranking (Sep 25 2025, Census data), reused from HV hub research: Westchester #19, median year built 1958, 28.0% (109,608) built 1939 or earlier. → §5 para 2, §5.5.
+- WS `Westchester County co-ops number of co-op apartments Yonkers White Plains New Rochelle co-op market` → WF https://cooperatornews.com/article/westchester-county (The Cooperator, Feb 2003, Hannah Fons): county planning dept (as of 2000) ~42,000 co-ops, ~25,000 condos, ~53,000 rentals; 1980s conversions mostly southern Westchester; post-WWII high-rises in Yonkers, White Plains. (Article's count of towns/villages not used — looks wrong.) → §5.5 stats, §7 co-op card.
+- Same WS → WF https://costar.com/article/953271941/westchester-county-new-york-on-verge-of-record-apartment-construction (CoStar, Sep 19 2024): "About 3,700 apartment units set to open by year-end"; downtowns of Yonkers, New Rochelle, White Plains; record. → §5.5.
+- FC search `New Rochelle downtown apartments units built since 2015 rezoning lohud`: https://www.lohud.com/story/news/2023/05/03/new-rochelle-ny-housing-apartment-housing-boom-brings-affordability-concerns/69933320007/ (excerpt) "Fourteen apartment buildings built since 2018 have added 2,456 new units" → "Across the County" southern cities para. https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster (excerpt) City Council approved new downtown zoning Dec 8 2015 → §8 Downtown New Rochelle card ("2015 downtown zoning"). https://www.lohud.com/…/encore… (Encore 29-storey, 95% occupancy, Apr 2025) → not used.
+- FC search `Scarsdale Tudor Revival homes 1920s housing stock history Fox Meadow` → https://www.scarsdalehistoricalsociety.org/brief-history-of-scarsdale (excerpt): "Fox Meadow and Crane-Berkley were developed in 1928. Many of the Tudor-style houses and business fronts date from this period." → §7 Tudor card, Across the County (central). Real-estate listing excerpts (homes.com, Zillow, Facebook) → not used.
+
+### Licensing / permits
+- WS `Westchester County Consumer Protection home improvement license requirement contractor` → WF https://consumer.westchestergov.com/trades/home-improvement-contractors: "Westchester law requires that home improvement contractors have a county license"; county list of licensed contractors + contractors to avoid; check judgments/liens; (914) 995-2155; separate licensing laws for plumbers and electricians; no low-voltage/audio mention. → §5 para 3, Approvals section, §9 Q1.
+- Same WS → WF https://www.westchestercountyny.gov/all-press-releases/westchester-county-consumer-protection-department-warns-residents-as-spring-contracting-season-approaches: "almost 9,000 licensed contractors"; green sticker on rear bumper showing licence expiration; verify licence before any payment; "Renegade Renovators" list; (914) 995-2155. → §5 para 3, §5.5, Approvals.
+- WS `Westchester village building permit required low voltage wiring speakers exempt "low voltage" building department Scarsdale OR "White Plains" OR "New Rochelle"` → WF https://greenburghny.com/DocumentCenter/View/220/Electrical---Low-Voltage-Permit-Application-PDF (Town of Greenburgh "Electrical or Low Voltage Permit Application"): low-voltage contractors submit liability, NYS workers' comp and NYS disability insurance naming the Town as additional insured/certificate holder; WC/disability "cannot be submitted on an Acord form"; NYS Alarm Installer Licence if applicable; NYEIS application; fee "$15.00 / $1,000 of the cost of work (rounded up)"; separate fire-alarm application. → §5 para 3, §8.5 compliance, Approvals, §9 Q2, pricing note.
+- Same WS → WF https://www.crotononhudson-ny.gov/engineering/files/electrical-inspections: "In Westchester County, all electricians (with some exceptions e.g.: Con Edison) must be licensed by the County"; certificate of electrical inspection for electrical work associated with a building permit before CO; inspection by approved agency. No low-voltage mention. → §8.5, Approvals.
+- Other results (Yonkers electrical permit PDF, Sleepy Hollow FAQ, Briarcliff "Do I need a building permit", permitmint Bronxville, ecode360) → not opened, not used.
+- Co-op alteration practice: no Westchester-specific alteration-agreement source found; page describes it generally ("commonly ask", "many boards") consistent with the NYC-hub Cooperator source. Local-specific: EMPTY.
+
+### Landmarks (§13) — none shared with the HV hub (Caramoor) or other Sonos pages
+- FC search `Capitol Theatre Port Chester history opened 1926 Thomas Lamb` → https://www.thecapitoltheatre.com/history (excerpt: Thomas Lamb, opened Wed Aug 18 1926); https://westchestermagazine.com/partner/capitol-theatre-august-2026/ (first presentation silent film The Sea Wolf; since 2012 reopening every artist invited to sign guest books). Seat count conflicts (2,000 vs Wikipedia 1,800) → not used. → §13 card.
+- FC search `Jacob Burns Film Center Pleasantville history opened 2001 Rome Theater` → https://burnsfilmcenter.org/about/history/ (1925 Rome Theater, Spanish mission–style; opened June 2001 with three screens; two theatres added March 2015; Media Arts Lab Jan 2009); https://www.theinsidepress.com/the-jacob-burns-film-center-turns-25/ (Media Arts Lab has recording studio, sound stage). → §13 card.
+- FC search `Rye Playland amusement park opened 1928 National Historic Landmark Westchester County` → https://en.wikipedia.org/wiki/Playland_(New_York) (excerpt: Long Island Sound, Rye, built 1928); https://npgallery.nps.gov/GetAsset/4b8e2d7e-… (NRHP nomination excerpt: "the first totally planned amusement park in the country"); https://www.hudsonrivervalley.com/sites/Playland-Amusement-Park-/details (seven original rides incl. Dragon Coaster, Derby Racer). Ownership wording truncated → not used. → §13 card.
+- FC search `Lyndhurst mansion Tarrytown Alexander Jackson Davis 1838 Gothic Revival` → https://lyndhurst.org/ (designed 1838 by A.J. Davis, Gothic Revival, overlooking Hudson in Tarrytown); https://decorativeartstrust.org/lyndhurst-post/ (Davis returned 1867). → §13 card.
+- FC search `Untermyer Gardens Yonkers Walled Garden Samuel Untermyer history` → https://www.untermyergardens.org/untermyer-history.html (Samuel Untermyer b. 1858; North Broadway Yonkers); https://en.wikipedia.org/wiki/Untermyer_Park_and_Gardens (excerpt: NRHP 1974); https://www.bi-gardenantiques.com/newsletter/untermyer-gardens/ (1858–1940); conservancy founded 2011 (untermyergardens.org excerpt). → §13 card.
+- FC search `Lawrence Park Bronxville historic district artists colony houses William Van Duzer Lawrence` → https://villageofbronxville.gov/184/Books-About-Bronxville (Lawrence Park developed by W. V. D. Lawrence beginning in 1890); https://westchestermagazine.com/life-style/crafting-westchesters-historic-artists-colony/ (artists' colony and weekend retreat); https://theclio.com/entry/157425/tour/1/reverse ("Lawrence Park Historic District"). Facebook excerpt (Lawrence Hospital 1909, Sarah Lawrence 1926) → not used. → §13 card.
+
+### Commercial corridors (§8)
+- Mamaroneck Ave (White Plains), Central Park Ave (Yonkers–Greenburgh/Hartsdale–Scarsdale), I-287 (White Plains, Harrison, Purchase, Rye Brook), village main streets: named as service geography only; no statistics or business names claimed. No source query beyond general knowledge of the road network → flagged for review if strict sourcing of road alignments is required.
+
+### Sonos product facts added this run (support.sonos.com)
+- FC search `support.sonos.com bought used Sonos product registered to previous owner remove from account factory reset` → FC scrape https://support.sonos.com/en-us/article/transfer-your-sonos-system-to-a-new-account: "Transfer System Ownership" in Settings; if unable to sign in, reset each product, reset the app, set up a new system; voice services must be removed and re-added; Sonos Radio HD subscription transferred separately. → §9 Q (previous owners), §6 inherited-system card.
+- FC search `support.sonos.com multiple Sonos systems on the same network two households` → FC scrape https://support.sonos.com/en-us/article/connect-to-multiple-sonos-systems (app connects to more than one system); community excerpt https://en.community.sonos.com/controllers-music-services-228995/need-multiple-sonos-accounts-on-1-system-6887739 ("Sonos supports multiple Sonos Households on one network") → §9 Q (in-law suite), attributed as a community-forum answer.
+- FC search `support.sonos.com set volume limit room Sonos app` → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products (limit max volume per product); https://www.sonos.com/en-us/guides/sonosapp (0–100 scale) → §9 Q (staff volume), §6 business card.
+- FC search `support.sonos.com create alarm Sonos app wake up music schedule` → https://support.sonos.com/en-us/article/set-an-alarm-on-sonos (Time, Room, Music, Frequency, Volume) → §9 Q (staff volume, schedules), FAQ 10.
+
+### Local Reddit / news / other surfaces
+- FC search `reddit r/westchester sonos OR "whole house audio" OR "ceiling speakers" installer` → only https://www.reddit.com/r/Westchester/comments/1el835m/home_reno_quote_question/ (excerpt: renovation quote comparison, no audio content) and an r/sonos post mentioning a Sam's Club in Elmsford. Not used. r/westchester for Sonos/home audio: EMPTY.
+- Local news (Lohud, Patch, Westchester Magazine, News12 Westchester) for Sonos/home-audio installs: none found → EMPTY for the service category. Lohud housing story used for building stock only.
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo: EMPTY (not accessible in build env). §10.5 built from published cost-guide/manufacturer/press claims recorded in the silo sections (Angi, Sonos blog, CE Pro/PCWorld/The Verge).
+- Yelp 1–3★ (Westchester AV/Sonos installers): EMPTY (not accessible in build env).
+- Google Drive "AESS Website Photos/Sonos Installation": EMPTY (checked by main run); CompanyCam not connected.
+
+### Pricing (no new prices)
+- Brooklyn base from the Sonos hubs (sonos-installation-nyc / -hudson-valley, sourced to research/tv-mounting-prices/BRIEF.md) × 1.25, round half-up only when non-integer: Sonos setup 125→$156; soundbar wall-mounted 129→$161; placed 79→$99; full home theater 350→$438; A/V receiver 129→$161; in-wall concealment 169→$211; cord cover 59→$74; cable run 99→$124; universal remote 99→$124; streaming 49→$61; backer 85→$106; high mount 75→$94; walk-up 40→$50; box removal 25→$31; surcharges metal 30→$38, plaster 45→$56, brick/stone 65→$81, block 75→$94, tile 95→$119; per-zone in-ceiling range $800–$2,500 (NYC Sonos hub) → $1,000–$3,125. Packages: $156 / $401.99 / $810.
+- Not multiplied: Sanus bracket $84.99 (hardware at street price, §9 equipment rule); setup-only first hour $235 (already a published Westchester rate, tv-mounting-prices-westchester-county / HV hub); $195/hr 3-hr min ($585) protected service rate; $150 return-trip fee (posted policy).
+- **Open for main run:** live tv-mounting-prices-westchester-county.html and soundbar-installation-westchester-county.html show Sonos setup $125 / soundbar mount $129 unmultiplied for Westchester, so the site now shows two prices for the same item in this county.
+
+### Images (11, permanent image rule, pool_01 only → images/sonos-installation/, WebP q80, 1400 px)
+| Page file | Source (images/low-voltage/) | Also used on another Sonos page? |
+|---|---|---|
+| …-ceiling-speaker-drop-ceiling-amp-cart.webp (hero) | low-voltage-installation-manhattan-ceiling-speaker-conference.jpg | yes (NYC hub, same photo) |
+| …-restaurant-ceiling-speaker-fitting.webp | low-voltage-installation-nyc-14-restaurant-ceiling-speaker.jpg | yes |
+| …-recessed-media-box-beside-screen.webp | low-voltage-installation-manhattan-display-recessed-box.jpg | yes |
+| …-crew-mounting-flat-screen.webp | low-voltage-installation-nyc-15-conference-room-display-cabling.jpg | yes |
+| …-wall-plate-ethernet-termination.webp | low-voltage-installation-nyc-04-keystone-wall-plate-termination.jpg | yes |
+| …-ceiling-access-point-fitting.webp | low-voltage-installation-nyc-10-ceiling-access-point-drop.jpg | yes |
+| …-network-rack-laptop-setup.webp | low-voltage-installation-nyc-rack-switch-config.jpg | yes |
+| …-patch-panel-punch-down.webp | low-voltage-installation-nyc-05-cat6-patch-panel-punchdown.jpg | no (hubs) |
+| …-j-hook-cable-pathway.webp | low-voltage-installation-nyc-03-jhook-pathway-bundle.jpg | no (hubs) |
+| …-crew-ceiling-cable-pull.webp | low-voltage-installation-nyc-01-crew-ceiling-cable-pull.jpg | no (hubs) |
+| …-open-stud-wall-cable-rough-in.webp | low-voltage-installation-nyc-17-metal-stud-rough-in.jpg | no (hubs) |
+Rejected after viewing: idf-patch-panel-build (readable printed floor-plan sign), idf-rack-patching (readable whiteboard), riser-conduit-pull and tone-generator-trace (face clearly in profile), access-point-lift (signage), video wall, van, school photos (per silo notes). Every speaker/AV photo in pool_01 was already used on a hub, so 7 of 11 repeat hub photos. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-westchester-county
+
+Revised 2026-10-17 after main-run wiring, checked by meaning against the Manhattan, Brooklyn, Queens, Bronx, Staten Island and Nassau registers.
+
+### §9 YOUR QUESTIONS ANSWERED — question-form H3s
+1. The attic is about to be spray-foamed — what needs to be run before the insulation crew arrives?
+2. Our general contractor says his crew can run the speaker wire — what should we check first?
+3. How should ceiling speakers be laid out in a beamed or coffered ceiling so the room still looks planned? (reframed from grille appearance; Queens FAQ 9 covers painting grilles)
+4. Will music in the rest of the house interfere with video calls in my home office?
+
+### §9 — statement H3s (answers kept; turned into statements because a sibling holds the question intent)
+- County licences and what to ask any installer for (≈ Nassau Q13 licence)
+- Village and town permits for low-voltage wiring (≈ Nassau Q12 permit)
+- What goes in the scope letter for a Yonkers co-op's managing agent (≈ Manhattan FAQ 7 board documents)
+- Patio speakers when the townhouse association owns the walls (≈ Staten Island Q6 association facade)
+- Kitchen gut renovations: the rough-in window (≈ Nassau FAQ 2 project-stage timing)
+- Soundbars under TVs on stone and brick chimney breasts (≈ Nassau Q6 TV over fireplace)
+- The 32-product limit in large houses (≈ Nassau Q7 product limit)
+- An in-law suite over the garage: shared system or its own (≈ Queens Q4 one system or one each)
+- Speakers the previous owners left behind (≈ Brooklyn Q5 / Queens Q8 inherited Sonos)
+- Volume limits and schedules for shops and restaurants (≈ Manhattan Q6 volume cap)
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Why do Westchester prices run higher than the Bronx or Brooklyn?
+2. What deposit do you take, and when is the balance due?
+3. Can we pay for the pre-wire now and buy the Sonos speakers later? (new)
+4. Can a projector in a basement media room play its sound through Sonos? (new)
+5. Who supplies the speaker wire, Ethernet and mounting hardware? (new)
+6. Can you help us choose which Sonos products to buy before we order?
+7. Is Sonos the right choice over a dedicated whole-house audio system?
+8. Can music start by itself in the morning or when the shop opens?
+
+Removed FAQs (sibling intent): "Do you charge to come and look before quoting?" (Bronx FAQ 6), "Can the work happen while we're at the office in the city?" (Manhattan FAQ 6, Bronx FAQ 5), "Will you coordinate with our contractor, architect or interior designer?" (Manhattan FAQ 5), "Do you leave a record of where the speaker wire runs?" (Brooklyn FAQ 6), "Will you take out the old ceiling speakers we're replacing?" (Brooklyn FAQ 3, Bronx FAQ 4).
+
+### Other headings
+- Repair captures are statements, not questions: "When Sonos Acts Up in a Westchester House", "Same-Day Sonos Repair Across Westchester".
+- Note: FAQ 1 (Westchester vs Bronx/Brooklyn pricing) is the area-pricing question every page carries (cf. Nassau FAQ 1, Queens FAQ 1); left for main-run judgment.
+
+## Rockland County (sonos-installation-rockland-county)
+
+Built 2026-10-17 (batch subagent). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query/markdown). Silo-wide Sonos product facts reused from the silo sections above (system requirements, interference, Trueplay, Amp, ceiling/outdoor speakers, Sub, surround, wired setup, Combo Adapter, Angi/XTEN-AV cost claims) — not re-fetched.
+
+Thesis (distinct from NYC = apartments/co-ops, LI = suburban whole-home zoning, HV = old stone/plaster, barns, weekend homes): Rockland's post-Tappan-Zee split-levels and raised ranches — a router on one half-floor, signal and bass travelling up open half-stairs, lower-level dens against block under bedrooms, deck/pool audio on suburban lots under measurable town noise codes (Orangetown dB limits vs Clarkstown reasonable-person test), plus river-village Victorians, Haverstraw two-families and large households (3.3 per household).
+
+### Local history / building stock
+- Query `Rockland County split-level raised ranch homes postwar suburban growth Tappan Zee Bridge 1955 population` · FC search → https://www.rocklandhistory.org/a-brief-history-of-rockland (FC scrape, markdown): smallest county in NYS outside NYC, 176 sq mi; 1950s homes built at >1,000/yr after Tappan Zee Bridge (1955), Palisades Interstate Parkway and Thruway; Route 59 roughly follows the Nyack Turnpike (Nyack–Suffern); Haverstraw brick-making centre of the East from 1817, >42 brickyards, ~75 years supplying NYC; DeWint House Tappan built 1700, Washington received Sir Guy Carleton May 5, 1783; Wayne's attack on Stony Point July 1779. → §5 para 1, §5.5 list, §8 Route 59 card, five-towns Haverstraw para, §13 DeWint + Brick Museum + Stony Point cards.
+- Same search → https://www.lohud.com/story/news/local/tappan-zee-bridge/2016/05/26/tappan-zee-bridge-rockland/84786904/ (excerpt: "Rockland County's population had jumped by 53 percent, from 89,276 in 1950 to 136,203"; FC scrape gave only the article opening, May 26 2016, Matt Coyne). → §5 para 1 (attributed to The Journal News; end year not stated on page because excerpt omits it).
+- Reused from HV hub research: Stacker Sep 2025 (Census data) Rockland median build year 1970, 11.5% (12,523) built 1939 or earlier. → §5.5.
+- Query `Rockland County New York census quickfacts housing units owner-occupied persons per household` · FC search → http://censusreporter.org/profiles/05000US36087-rockland-county-ny/ (FC scrape): ACS 2024 1-year: 104,597 households, 3.3 persons/household, 109,671 housing units, owner-occupied 66%, single-unit structures 64%. (QuickFacts excerpt 67.9% owner-occupied 2020–2024 — not used, to keep one source.) → §5 para 5, §5.5, §9 Q "different music at the same time".
+- Query `Nyack historic district Victorian houses architecture village history` · FC search → https://en.wikipedia.org/wiki/Edward_Hopper_Birthplace_and_Boyhood_Home (excerpt: built 1858 by the artist's maternal grandfather John Smith); https://www.edwardhopperhouse.org/hours-tours-admission.html (82 North Broadway, Nyack); https://www.edwardhopperhouse.org/about.html. → §5 para 5, §13 card.
+- Query `"Western Highway" Blauvelt Orangeburg Tappan; New York State Route 304 New City Bardonia` · FC search → https://www.orangetown.com/wp-content/uploads/2022/07/04-Transportation_Otown-Comp-Plan-7.pdf (Western Highway runs Clarkstown–Tappan; NY 303/304/9W arterials); https://www.rocklandcountyny.gov/departments/highway/county-routes-listing (N Main Street New City / Old Route 304). → §5 para 1 road names.
+- Split-level/raised-ranch prevalence: no statistic found → described qualitatively only, no number claimed.
+
+### Internet / local Reddit
+- Query `reddit RocklandCounty internet provider Optimum Verizon Fios wifi` · FC search → https://www.reddit.com/r/Rockland/comments/1i0qwu0/optimum_vs_fios_in_rockland/ (excerpt only; FC scrape refused reddit.com): "Optimum - at least, in Nanuet - is a disaster. It's a DOCSIS 3.1 cable service, so the upload is asymmetric." → §9 Q "slow upload speed" (quoted). Also https://www.reddit.com/r/Rockland/comments/1knobd0/good_internet_providers_for_valley_cottage/ and /1j9ppev/fiosoptimum/ (excerpts, not used). r/RocklandCounty itself: no results — local sub is r/Rockland.
+- Query `Rockland County noise complaint loud music backyard neighbors lohud OR "Rockland County Times"` · FC search → https://www.reddit.com/r/Rockland/comments/1jy5sp9/need_advice_neighbor_continues_to_violate_rules/ (excerpt, not used).
+
+### Noise codes / local news
+- Query `Clarkstown town code noise ordinance sound reproduction device hours` · FC search → https://ecode360.com/6706979 (FC scrape markdown): Ch. 205 adopted 2-23-1993; "unreasonable noise" = sound from "any mechanical or electronic device" that "threatens to or actually annoys, disturbs ... any reasonable person of normal sensitivities"; no dB figure, no music hours (hours only for mowers, construction, pumps); first offence fine up to $2,500, escalating within 18 months; enforced by Clarkstown PD; applies to unincorporated Clarkstown. → §5 para 4, noise section, AI H3 6, §9 property-line Q.
+- Query `Town of Orangetown code noise chapter radio phonograph sound amplifier plainly audible` · FC search → https://ecode360.com/26880151 (FC scrape directQuote): Ch. 22 (adopted 1981, amended incl. 2025); TV/music/audio playback device/loudspeaker/sound amplifier: 7am–11pm 80 dB (<50 ft) / 70 dB (≥50 ft) from source property line; 11pm–7am 60 dB / 40 dB. → §5.5, noise section table, §8.5, AI H3 6.
+- Same search → https://rcbizjournal.com/2026/06/08/from-swim-parties-to-houses-of-worship-neighbors-just-want-peace-quiet-in-their-leafy-enclaves/ (Rockland County Business Journal, June 8 2026, FC scrape): Blauvelt (Hobbs Drive) swim-party dispute; police found no noise over allowable decibel levels on May 31; hosts paid $10,000 in fines in 2025 and agreed to limit outdoor gatherings 9 am–11 pm through Dec 31, 2027. → §5 para 4 (no names or street used).
+- https://www.lohud.com/story/news/local/rockland/stony-point/2019/10/08/stony-point-loud-money-making-parties/3896589002/ (excerpt only) → not used.
+- lohud / Rockland County Times: no Sonos- or home-audio-installation story found → EMPTY for the service category.
+- Reused from HV hub research: O&R July 6 2026 update — >47,000 customers affected from July 1; outages open in Clarkstown, Ramapo (and Orange County towns). → §5.5.
+
+### Licensing / contracts
+- Query `Rockland County Consumer Protection home improvement license requirement contractors` · FC search → https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits (FC scrape): "Under Chapter 286 ... all individuals performing home improvement work must obtain a Home Improvement License"; Chapter 286 "Effective May 14, 2026". https://ecode360.com/9666538 (FC scrape): Ch. 286 adopted 4-14-2026 by L.L. No. 4-2026; licence required to engage in home improvement business; exclusions include plumbing, electrical, architectural/engineering, new home construction, alarm work by County-licensed alarm business; contracts in writing, legible, plain English, signed copy before work, comply with GBL §771; additional work over $500 needs written change order. News12 excerpt (Facebook) on lawmakers scaling back licensing — not used. → §5.5, §9 "Chapter 286" (statement H3) and "written agreement" Q, process step 2. Page does NOT claim AESS holds a Rockland HI licence (not verified); it tells owners to check the county Licensed Businesses dashboard.
+
+### Landmarks (§13) — none shared with HV hub (Bear Mountain) 
+- `Edward Hopper House` (above). 
+- Query `Stony Point Battlefield State Historic Site lighthouse 1826 oldest Hudson River` · FC search → https://parks.ny.gov/visit/historic-sites/stony-point-battlefield-state-historic-site (lighthouse built 1826, oldest on the Hudson, operated 99 years). 
+- Query `Piermont Pier mile long Erie Railroad terminus Piermont village` · FC search → https://www.rocklandaudubon.org/new-page-1 ("one mile long pier was built in 1841 as the eastern terminus of the Erie Railroad. The pier is owned by the village"); https://www.piermont-ny.gov/201/History-of-the-Village ("almost a mile"). 
+- Query `Rockland Lake State Park Valley Cottage ice industry Knickerbocker Ice Company` · FC search → https://southstreetseaportmuseum.org/the-business-of-cold/ (three companies merged 1855; "white gold"; last harvest 1924); https://www.facebook.com/TownOfClarkstown/posts/... (Knickerbocker Ice Festival Jan 24–25, 2026). 
+- Query `Haverstraw village brick downtown Main Street historic Haverstraw Brick Museum` · FC search → https://www.haverstrawbrickmuseum.org/ (12 Main Street, Haverstraw). 
+- DeWint House: History Society page (above).
+
+### Commercial (§8)
+- Query `Palisades Center mall West Nyack opened 1998 size square feet` · FC search → https://en.wikipedia.org/wiki/Palisades_Center (opened March 4, 1998; 2,217,322 sq ft); https://www.facebook.com/metrotrails/posts/... ("2.2 million square foot, four-level"); http://shoppingmallmuseum.blogspot.com/2010/10/palisades-center-routes-59-and-303.html (title: Routes 59 and 303). → §8 card.
+- Query `Spotify terms of use personal non-commercial use playing music in a business store restaurant` · FC search → https://support.spotify.com/us/article/spotify-public-commercial-use/ ("Spotify is only for personal, non-commercial use ... can't broadcast or play Spotify publicly from a business, such as bars, restaurants, schools, stores, salons, dance studios"). → §8 note.
+
+### Sonos features verified this run
+- Query `support.sonos.com Night Sound Speech Enhancement soundbar volume limit room settings` · FC search → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products (limit 0–100, Sound > Volume Limit); https://www.sonos.com/en-us/guides/beam (Night Sound "Enhances quiet sounds and reduces the intensity of loud sounds"); https://www.youtube.com/watch?v=zox2Zu9ft0k (Sonos: Speech Enhancement and Night Sound). → §9 late-night and deck-cap Qs, glossary, noise section.
+- Query `support.sonos.com sub bonded to one home theater product ... multiple systems same network` · FC search → https://support.sonos.com/en-us/article/set-up-your-sonos-sub (Sub 4 compatible with all home theater speakers except Playbar/Playbase); https://en.community.sonos.com/home-theater-229129/two-independent-systems-6886292 (community, two systems) → §9 two-TV Sub Q, two-family Q (separate networks recommended; no unsourced specifics).
+
+### Unreachable / empty
+- Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG, Yelp 1–3★ for Rockland Sonos: EMPTY (not accessible in build env).
+- reddit.com thread bodies: EMPTY (not accessible in build env — Firecrawl refuses reddit.com); excerpts only.
+- lohud/Rockland County Times Sonos-specific news: EMPTY.
+- Nyack/Piermont village noise codes and architectural review rules: not searched → page tells village residents to check their own code (no claim made).
+
+### Pricing (§14/§15) — base × 1.30, rounded to the dollar (half-up)
+Base list from research/tv-mounting-prices BRIEF as used on the Sonos hubs: Sonos setup 125→163; soundbar wall-mount 129→168; placed 79→103; Sanus bracket 84.99→110; full home theater 350→455; A/V receiver 129→168; in-wall concealment 169→220; cord cover 59→77; cable run ≤25 ft 99→129; universal remote 99→129; streaming device 49→64; backer 85→111; high mount 75→98; box removal 25→33; wall surcharges metal 30→39, plaster 45→59, brick/stone 65→85, concrete/block 75→98, tile 95→124. Setup-only first hour $235 = the separately published Rockland rate (not multiplied, as on smart-lock-installation-rockland-county). Service/callback $195/hr, 3-hr min ($585) protected verbatim. Packages: $163 / $441 (168+110+163) / $843 (168+220+455). Worked example $616 (168+110+98+77+163). Return-trip fee amount not stated (no Rockland-multiplied figure published). NOTE for main run: soundbar-installation-rockland-county and the HV hub show the same items un-multiplied ($125/$129…); this page follows the caller's instruction (×1.30).
+
+### Images (11; Drive empty, CompanyCam not connected → permanent image rule, pool_02 only, images/low-voltage/)
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Section | On a Sonos hub already? |
+|---|---|---|---|
+| sonos-installation-rockland-county-ceiling-speaker-ladder-cart.webp (hero, eager) | low-voltage-installation-suffolk-county-ceiling-speaker-conference.jpg | Hero | yes (NYC hero) |
+| …-crew-cable-pull-open-ceiling.webp | low-voltage-installation-rockland-county-03-crew-cable-pull.jpg | §5 | no |
+| …-three-techs-wall-display.webp | low-voltage-installation-queens-13-conference-room-display-cabling.jpg | §6 | yes |
+| …-recessed-media-box-beside-screen.webp | low-voltage-installation-suffolk-county-display-recessed-box.jpg | §7 | yes |
+| …-ceiling-access-point-drop.webp | low-voltage-installation-staten-island-09-ceiling-access-point-drop.jpg | split-level section | yes |
+| …-dining-room-ceiling-speaker.webp | low-voltage-installation-queens-14-restaurant-ceiling-speaker.jpg | §8 | yes |
+| …-brick-wall-enclosure-conduit.webp | low-voltage-installation-rockland-county-11-exterior-enclosure-install.jpg | noise-code section | yes |
+| …-cable-tester-wall-jack.webp | low-voltage-installation-rockland-county-06-fluke-certification-pass.jpg | §9 | yes |
+| …-rack-switch-laptop.webp | low-voltage-installation-queens-rack-switch-config.jpg | §10 | yes |
+| …-patch-panel-punchdown.webp | low-voltage-installation-staten-island-04-cat6-patch-panel-punchdown.jpg | §12 process | no |
+| …-drop-ceiling-cable-bundle.webp | low-voltage-installation-staten-island-05-ceiling-grid-bundle-pull.jpg | §14 | yes |
+Converted with PIL to WebP q80 at native 1400 px width. Skipped: AP lift (Community Center signage), IDF rack (readable whiteboard), school corridor shots (slogan banners), video wall (rendered skyline), van (wrong domain lettering), tone tracer / keystone / stud shots (faces clearly visible). Note: the pool photos have the same rendered look flagged in the NYC hub notes; technicians' faces appear only in partial profile/back views. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-rockland-county
+
+### §9 Questions Answered (H3) and other question-form headings
+1. Sonos Cutting Out Somewhere Between Piermont and Suffern? (H2, repair capture)
+2. Our split-level's living room opens up the half-stairs to the bedrooms — how do we keep the music from filling the bedroom hall?
+3. Which Sonos settings keep late-night movies quiet without losing the dialogue?
+4. Our raised ranch has a TV on each floor — can one Sub serve both, or does each room need its own?
+5. Orangetown's limits drop at 11 p.m. — can the deck music switch itself off? (source: https://support.sonos.com/en-us/article/set-a-sleep-timer-on-sonos — "music automatically turns off after a specified time period"; FC search `support.sonos.com sleep timer set Sonos app stop playing after time`)
+6. Our tenant has their own Sonos — can the yard speakers belong to both households?
+7. Our Victorian's double parlour has pocket doors — do we tune Sonos with them open or shut?
+8. Our bedrooms sit over the garage — is the garage ceiling a good route for Sonos speaker wire?
+9. Does a slow upload speed on our cable internet affect Sonos?
+10. If we add a room halfway through the job, how is the extra work approved? (Chapter 286 change-order rule)
+11. Rockland Sonos Gone Quiet Before the Weekend? (H2, final repair capture)
+Statement headings (not questions): "Measuring at the property line", "A volume ceiling for the deck", "Keeping two households' speakers apart", "Different music in different rooms", "An Arc Ultra on a painted block wall", "Older Sonos products and the current app", "What the written agreement spells out", "Chapter 286: Rockland's contractor law and the person you hire".
+
+### §17 FAQ (visible == FAQPage, 6)
+1. Do Sonos prices change from one Rockland town or village to another?
+2. Where should our technician park?
+3. Can we watch the work and ask questions while you install?
+4. Can the bookshelf speakers from our old stereo be powered by a Sonos Amp?
+5. Do you price Sonos work per room or per job?
+6. Will you show us where every hole goes before drilling?
+
+### De-dup notes (2026-10-17, follow-up after main-run wiring)
+Checked by meaning against all registers in research/sonos-installation.md (NYC, LI, HV, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Nassau) and on-disk Westchester/Suffolk pages.
+- Turned into statement headings (intent already owned elsewhere): deck volume cap (Manhattan Q6), two-family tenant/network (Brooklyn Q4, Brooklyn FAQ1), different music per room (Queens Q5, Bronx Q14), older Sonos joining new system (Queens Q8), property-line measuring (Queens Q14 / Bronx Q7), Arc Ultra on masonry wall (Brooklyn Q9), written agreement contents (Nassau FAQ8).
+- FAQs removed: "Do we need to be home for the whole visit?" (Bronx FAQ5), "Will a Sonos soundbar work with our Fios or Optimum TV box?" (Nassau FAQ6, Bronx FAQ7), "What do you leave behind when the job is finished?" (Brooklyn FAQ6), "Can you work alongside the contractor renovating our kitchen or basement?" (Manhattan FAQ5), "Which photos should we send before the visit?" (close to LI FAQ10 / Nassau FAQ3).
+- Earlier replacements vs Westchester (area multiplier, deposit, free look-before-quote, in-law separate system) and county-licence question → statement, as noted before.
+- New: Q5, Q6, Q8, Q10 and FAQ 3 above.
