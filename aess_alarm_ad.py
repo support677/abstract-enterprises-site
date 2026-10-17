@@ -16,6 +16,26 @@ N = 1800
 RED = (230, 50, 60)
 GREEN = (40, 200, 120)
 IMGS = os.path.join(AA.SITE, "images")
+G2 = os.environ.get("AESS_2GIG", "/home/user/aess/2gig")
+GEAR = [("panel_edge.png", "SMART PANEL"), ("contact_dw20.png", "DOOR & WINDOW"), ("motion.jpg", "MOTION DETECTOR"),
+        ("smoke.png", "SMOKE & HEAT"), ("glass.jpg", "GLASS-BREAK"), ("fob.jpg", "KEY FOB")]
+_cards = {}
+def gear_card(i):
+    if i in _cards: return _cards[i]
+    fn, label = GEAR[i]; w, h = 460, 400
+    card = Image.new("RGBA", (w, h), (0, 0, 0, 0)); d = ImageDraw.Draw(card)
+    d.rounded_rectangle((0, 0, w - 1, h - 1), radius=40, fill=WHITE + (255,))
+    path = os.path.join(G2, fn)
+    if os.path.exists(path):
+        im = Image.open(path).convert("RGBA")
+        bb = im.getbbox()
+        if bb: im = im.crop(bb)
+        im.thumbnail((380, 270), Image.LANCZOS)
+        card.alpha_composite(im, ((w - im.width) // 2, 24 + (270 - im.height) // 2))
+    t = A.txt(label, 50, NAVY, F_BLACK, .86)
+    if t.width > w - 30: t = A.txt(label, 40, NAVY, F_BLACK, .86)
+    card.alpha_composite(t, ((w - t.width) // 2, h - t.height - 22))
+    _cards[i] = card; return card
 
 def fine(cv, s, y=1830):
     words, lines, cur = s.split(), [], ""
@@ -202,8 +222,15 @@ class AlarmAd:
             place(cv, pill("WE PROVIDE YOUR ALARM CERTIFICATE", 56, NAVY, WHITE), W / 2, 1320 + 60 * (1 - e_out(t2)), 1, clamp(t2 * 2))
             fine(cv, "Discounts vary by insurer and policy. Ask your insurance company.", 1720)
             wipe(cv, lf, 114, BLACK); return cv
-        if f < 1320:  # installed stamp
-            lf = f - 1200; cv = A.frame(240 + min(lf, 53)); wipe(cv, lf, 114, NAVY); return cv
+        if f < 1320:  # WHAT YOU GET: real 2GIG equipment
+            lf = f - 1200; cv = bg(NAVY)
+            place(cv, txt("WHAT YOU GET", 170, WHITE), W / 2, 260, *slam(lf, 0))
+            place(cv, txt("PRO-GRADE EQUIPMENT", 70, SKY, F_BLACK, .9), W / 2, 400, 1, clamp(prog(lf, 6, 6) * 2))
+            for i in range(6):
+                t = prog(lf, 12 + i * 6, 9)
+                cx = W / 2 + (-245 if i % 2 == 0 else 245); cy = 700 + (i // 2) * 430
+                place(cv, gear_card(i), cx, cy + 50 * (1 - e_out(t)), e_back(t, 1.7) if t > 0 else 0, clamp(t * 3))
+            wipe(cv, lf, 114, NAVY); return cv
         if f < 1440:  # coverage
             lf = f - 1320; cv = bg(NAVY)
             place(cv, txt("WE COVER", 170, WHITE), W / 2, 330, *slam(lf, 0))
@@ -227,6 +254,7 @@ class AlarmAd:
             place(cv, pill("8 AM – 8 PM", 96, BLACK, WHITE, pad=(60, 28)), W / 2, 1210 + 60 * (1 - e_out(t)), 1, clamp(t * 2))
             t2 = prog(lf, 32, 9)
             place(cv, pill("2-HOUR ARRIVAL WINDOWS", 64, WHITE, BLUE), W / 2, 1380 + 60 * (1 - e_out(t2)), 1, clamp(t2 * 2))
+            place(cv, txt("LICENSED & INSURED", 70, GREY, F_BLACK, .9), W / 2, 1530, 1, clamp(prog(lf, 40, 8) * 2))
             wipe(cv, lf, 114, BLUE); return cv
         if f < 1680:  # close
             lf = f - 1560; cv = bg(BLUE); sx, sy = shake(lf, 20, 8, 14)
