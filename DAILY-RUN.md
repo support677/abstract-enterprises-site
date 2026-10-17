@@ -1,6 +1,12 @@
-# DAILY-RUN — three new pages per day
+# DAILY-RUN — three pages at a time, batch after batch, all day
 
-One run = one page; the scheduled task fires three times a day (Anwar, 2026-10-16: "three at a time"), so three pages ship daily. Read this file, then `BLUEPRINT.md` and `blueprint-v2_3-full.md` (v2.3 is the consolidated spec; where they differ, v2.3 wins), then the newest `MANIFEST-site-rebuild-*.md` for current build conventions. Nothing below overrides the blueprint; it only fixes the daily order of work.
+One run = one **batch of three pages built at the same time** (Anwar, 2026-10-16: "write three pages at a time … once you're done with three, on to the next three, until you're finished"). The scheduled task fires every hour around the clock, so a new batch starts every hour. Order: all hub pages first, then the area pages, then neighborhood pages (see step 1).
+
+**Batch flow:**
+- **Claim.** Pull, take the first three `TODO` lines (skip lines marked `BUILDING`, unless their timestamp is more than 3 hours old — then they're abandoned and can be retaken). Change each to `BUILDING <ISO time>`, commit `Claim: <slug1>, <slug2>, <slug3>` and push immediately. If the push is rejected, pull and claim the next free three. This is what stops two overlapping runs from building the same page. If no TODO is free, exit quietly.
+- **Build in parallel.** Start three subagents, one per page. Each does steps 2–3 for its page (research, page HTML, its 11 images, its research section) and runs `tools/check_page.py` on its own page. Subagents do NOT touch `sitemap.xml`, `_redirects`, hub/sibling pages, `PAGE-QUEUE.md`, `DAILY-LOG.md` or `GOOGLE-SUBMIT.md`, and do not commit.
+- **Wire, check and ship once.** When all three finish, the main run does step 4 wiring for all three (siblings built in the same batch link to each other too), re-runs the similarity check across the three new pages, re-runs `check_page.py` on each, then ships the pages that pass in one commit `Batch: <slug1>, <slug2>, <slug3>` (steps 6–7). Each passing line goes BUILDING → LIVE. A page that can't pass goes back to `TODO` with its FAIL logged (step 8); the others still ship.
+- **Submit** each shipped page (step 7b), then log one DAILY-LOG line per page. Read this file, then `BLUEPRINT.md` and `blueprint-v2_3-full.md` (v2.3 is the consolidated spec; where they differ, v2.3 wins), then the newest `MANIFEST-site-rebuild-*.md` for current build conventions. Nothing below overrides the blueprint; it only fixes the daily order of work.
 
 **Working copy:** `C:\Users\opene\Documents\GitHub\abstract-enterprises-site` (outside OneDrive — OneDrive sync corrupts reads). Netlify deploys automatically from `main`, so a push is a deploy. Never drag a zip into Netlify.
 
@@ -14,8 +20,8 @@ One run = one page; the scheduled task fires three times a day (Anwar, 2026-10-1
 1. `git pull --ff-only` on `main`. If it fails, stop and log it. Someone else (GitHub Desktop at `C:\dev\abstract-enterprises-site`) may have pushed.
 2. `git status`. If there are uncommitted changes from a previous failed run for the same page, continue that page. If they're for anything else, stop and log it — never commit files you didn't make in this run.
 
-### 1. Take the first TODO
-Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHOODS heading.
+### 1. Take the next TODOs
+Open `PAGE-QUEUE.md`, take the next free `TODO |` lines above the NEIGHBORHOODS heading (three per batch — see Batch flow).
 **Neighborhood phase:** when no `TODO` is left above the heading, move the next 15 neighborhood lines up (generate them first if none are waiting): for the silo whose 16 area pages went LIVE earliest and has the fewest neighborhood pages, list real neighborhoods per borough/county (from existing neighborhood pages and research files, e.g. `NETWORK-CABLE-REPAIR-BROOKLYN-NEIGHBORHOODS.txt`), slug `<silo>-<neighborhood>-<borough-or-county>-ny`, up-link = that area page, phone/GBP = that area page's. Every neighborhood page still meets the full blueprint: genuinely local research (streets, building stock, landmarks), masked-geo similarity < 0.65 to every sibling, no repeated questions. If an area can't support a genuinely different page, skip it — thin near-duplicate pages hurt rankings. Its fields give the slug, silo, area, up-link, approved phone and GBP. If `<slug>.html` already exists, mark the line LIVE only if `tools/check_page.py <slug>` passes; otherwise log it and take the next TODO.
 
 ### 2. Research — once per silo, then local only
@@ -62,7 +68,7 @@ Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHO
 - **Do NOT touch `js/mega-nav.js`, the nav triggers or the cache version on weekdays.**
 
 ### 5. Sundays only — nav + cache (batch the week)
-On Sunday runs, after the day's page passes:
+Only the first batch that runs on a Sunday after 6 AM does this, after its pages pass (check DAILY-LOG for a `Weekly nav` line dated today first):
 1. `js/mega-nav.js` — add every page that went LIVE since the last Sunday under its silo key (new key for a new silo); `node --check js/mega-nav.js`.
 2. Add the desktop + mobile nav triggers for any new silo site-wide (as in manifest 186).
 3. Bump the site-wide cache version once (the `mega-nav.js?v=` string, currently `wifi17` on most pages) on every page — count-guarded replace: grep, assert the count, then replace.
@@ -73,8 +79,8 @@ Never do this on any other day.
 `python tools/check_page.py <slug>` → fix every failure → re-run. Repeat until it prints `PASS`. The tool is mechanical: also confirm by reading that local facts are real and questions are genuinely different in meaning, not just wording (v2.3 §12.3).
 
 ### 7. Ship
-1. In `PAGE-QUEUE.md` change only this line's `TODO` to `LIVE`.
-2. Commit the page, its images, `sitemap.xml`, `_redirects`, the edited hub/sibling pages, `research/<silo>.md` and `PAGE-QUEUE.md`: `git commit -m "Daily page: <slug>"`.
+1. In `PAGE-QUEUE.md` change only this line's `BUILDING …` to `LIVE`.
+2. Commit the page, its images, `sitemap.xml`, `_redirects`, the edited hub/sibling pages, `research/<silo>.md` and `PAGE-QUEUE.md`: `git commit -m "Batch: <slug1>, <slug2>, <slug3>"`.
 3. `git push origin main`.
 
 ### 7b. Submit to search engines (every PASS)
