@@ -70,3 +70,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-queens | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bronx | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-staten-island | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-putnam-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dutchess-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-ulster-county | QUEUED
