@@ -165,9 +165,9 @@ BUILDING 2026-10-17T14:14Z | cat6-repair-park-slope-brooklyn-ny | Cat6 Repair | 
 BUILDING 2026-10-17T14:19Z | cat6-repair-flushing-queens-ny | Cat6 Repair | Flushing, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T14:19Z | cat6-repair-riverdale-bronx-ny | Cat6 Repair | Riverdale, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T14:19Z | cat6-repair-new-dorp-staten-island-ny | Cat6 Repair | New Dorp, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | cat6-repair-upper-west-side-manhattan-ny | Cat6 Repair | Upper West Side, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
-TODO | cat6-repair-bay-ridge-brooklyn-ny | Cat6 Repair | Bay Ridge, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | cat6-repair-astoria-queens-ny | Cat6 Repair | Astoria, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T14:45Z | cat6-repair-upper-west-side-manhattan-ny | Cat6 Repair | Upper West Side, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T14:45Z | cat6-repair-bay-ridge-brooklyn-ny | Cat6 Repair | Bay Ridge, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T14:45Z | cat6-repair-astoria-queens-ny | Cat6 Repair | Astoria, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
 TODO | cat6-repair-mott-haven-bronx-ny | Cat6 Repair | Mott Haven, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
 TODO | cat6-repair-tottenville-staten-island-ny | Cat6 Repair | Tottenville, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
 
