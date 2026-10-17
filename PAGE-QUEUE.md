@@ -78,7 +78,7 @@ LIVE | cat6-repair-rockland-county | Cat6 Repair | Rockland | up /cat6-repair-hu
 LIVE | cat6-repair-orange-county | Cat6 Repair | Orange | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-TODO | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-17T11:14Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
 LIVE | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -89,7 +89,7 @@ LIVE | soundbar-installation-tribeca-manhattan-ny | Soundbar Installation | Trib
 LIVE | soundbar-installation-williamsburg-brooklyn-ny | Soundbar Installation | Williamsburg, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-forest-hills-queens-ny | Soundbar Installation | Forest Hills, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | soundbar-installation-pelham-bay-bronx-ny | Soundbar Installation | Pelham Bay, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:14Z | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-harlem-manhattan-ny | Soundbar Installation | Harlem, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-bay-ridge-brooklyn-ny | Soundbar Installation | Bay Ridge, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
