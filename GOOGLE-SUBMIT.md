@@ -157,3 +157,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-upper-west-side-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bay-ridge-brooklyn-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-astoria-queens-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-grymes-hill-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-battery-park-city-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ditmas-park-brooklyn-ny | QUEUED
