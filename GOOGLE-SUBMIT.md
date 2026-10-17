@@ -82,3 +82,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ulster-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-manhattan | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-brooklyn | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-riverdale-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-st-george-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tribeca-manhattan-ny | QUEUED
