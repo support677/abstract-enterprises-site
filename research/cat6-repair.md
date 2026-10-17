@@ -1382,3 +1382,233 @@ F10. Can one visit cover both our home office and a small office we run in town?
 Other "?" headings: "Home Office or Apartment Link Down in Westchester?" (repair capture), "Dead Jack Somewhere Between Yonkers and Peekskill?" (closing).
 
 De-dup notes: compared by meaning against the full register in research/cat6-repair.md (NYC 26, LI 23, HV 25). Dropped from first plan because a sibling already holds the intent: plaster tracing without opening (NYC Q15) → replaced with opening size/who patches (Q2); cellar water dry-out (NYC Q16) and flood insurance documentation (LI Q5) → replaced with moving the network corner above the flood line (Q9); seasonal reopening (LI Q10) and garage-cold (HV Q4) → not used; knob-and-tube (HV F1), matching plates (HV F5), labelling, licensing questions → body only or not used; school summer work (LI F3), medical before patients (LI F4) → not used. Re-check against cat6-repair-nassau-county / -suffolk-county once final (same batch).
+
+
+## Manhattan (cat6-repair-manhattan)
+
+Batch run 2026-10-17 (subagent build; to be merged into research/cat6-repair.md by the main run). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. Silo-wide technical sources already in research/cat6-repair.md (Fluke NEXT KB, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, NYC Electrical Code effective Dec 21 2025, Fixr Jan 2025) are reused only in general terms.
+
+**Thesis (differs from the NYC hub, the LI/HV hubs, network-cable-repair-manhattan and cat6-installation-manhattan):** Manhattan Cat6 is *inherited plant repaired inside someone else's window*. Most links on a Manhattan floor were installed by somebody other than the current occupant (a landlord pre-built, a previous tenant, an IT or AV vendor, a conversion developer), on pathways specific to Manhattan building types (raised floors, slab poke-throughs, power poles, glass-front rooms, consolidation points, shielded Cat6A in new towers, sidewalk vaults under cast-iron storefronts). The repair is planned so that diagnosis happens before the building's work window and the fix, certification and labelling finish inside it. NYC hub thesis (access/risers/pre-war plaster generally) and cat6-installation-manhattan thesis (access governs new drops) are not reused; NCR Manhattan's tenant-vs-base-building blame question is not reused.
+
+### Reddit (local)
+- Query: `site:reddit.com AskNYC ethernet apartment wall jack not working landlord pre-war building` · Firecrawl search (excerpts only; reddit not scraped) →
+  - https://www.reddit.com/r/AskNYC/comments/p8myp8/do_all_nyc_apartments_have_ethernet_ports/ — excerpt "Ethernet wall ports don't work in apartment complex. What can I do?" → background for §9 Q1 (converted-office apartments) and FAQ F6 framing; not quoted.
+  - https://www.reddit.com/r/AskNYC/comments/jdljwa/who_is_responsible_for_internetcable_wiring_in/ — excerpt "I'm having trouble with my built in wall Ethernet" → background only (ownership question NOT used: already on network-cable-repair-manhattan).
+  - https://www.reddit.com/r/AskNYC/comments/1tez8o2/incorrectly_wired_internet_cables_in_building/ — excerpt: building "wired for cable (coax) and not internet" → §9 Q1 body (some "data" jacks in residential conversions are not what they look like); not quoted.
+  - https://www.reddit.com/r/AskNYC/comments/9ezss5/ — excerpt "typically a small prewar in the boroughs kind of thing" → not used.
+- Manhattan-specific Reddit threads on failing Cat6 in offices: EMPTY (not accessible in build env — reddit not scrapeable; search returned only residential threads).
+
+### Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on the page that the AI Overview could not be viewed; each H3 is framed as a commonly published claim (vendor, cost-guide, forum) and corrected with the sourced facts below.
+
+### Local licensing / code / building rules
+- Query: `NYC Department of Buildings low voltage telecommunications cabling permit not required limited energy` · Firecrawl search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 (scrape, directQuote): §28-105.4.7 "An electrical permit shall not be required for the installation, alteration, maintenance, or repair of electrical wiring that is designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person as defined in the New York city electrical code." Exceptions: life-safety systems, hazardous locations, intrinsically safe systems, connection to control circuits that activate light/heat/power. "(L.L. 2024/128, 12/21/2024, eff. 12/21/2025)". → §8.5 compliance callout 1; §5.5 fact 4; §10.5 H3 "any handyman"; body only (no question — "Do I need a permit" is already on cat6-installation-manhattan).
+- Query: `Landmarks Preservation Commission permit interior alterations not required unless interior landmark or affects exterior` · Firecrawl search → https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (scrape, directQuote): "You do not need a permit from the Landmarks Commission to perform ordinary repairs or maintenance chores"; "An LPC permit for interior work is required in the following cases: when the work requires a permit from the Buildings Department or, when work on the interior affects the exterior, when the interior has been designated by the Landmarks Commission as an interior landmark." → §8.5 callout 2; §7.5 lofts paragraph; §10.5 H3 "landmarked building". (Not used as a question: cat6-repair-brooklyn asks the LPC question.)
+- Query: `brickunderground co-op alteration agreement wiring ethernet board approval contractor insurance Manhattan` · Firecrawl search → https://www.brickunderground.com/guides/how-to-renovate/what-is-an-alteration-agreement (search result carried full page text): "A decoration agreement can sometimes be approved by the managing agent without a full board review, meaning you can have it authorized in less than a week"; "your board will generally require your contractor to be licensed and insured up to a certain dollar amount and the building named on the insurance policy"; alteration agreements "impose (often stiff) daily penalties … if the contractor works outside of authorized hours"; "Most buildings also have their own house rules". → "Building Window" section (decoration vs alteration agreement, body only); §7 co-op card; §8.5 callout 3.
+- Query: `Manhattan office building "contractor rules and regulations" pdf certificate of insurance freight elevator riser access low voltage cabling` · Firecrawl search → only SEC lease exhibits / Federal Register — no Manhattan building rules document retrievable. EMPTY. Page describes building rules only in general terms supported by Brick Underground.
+- NYC Electrical Code (2020 NEC + NYC amendments) effective Dec 21 2025; NEC 800.25 abandoned cable — silo research (reused) → §8.5.
+
+### Building stock / corridors / landmarks
+- Query: `Manhattan office inventory million square feet pre-war Class B buildings share built before 1950` · Firecrawl search →
+  - https://comptroller.nyc.gov/reports/spotlight-new-york-citys-office-market/ (scrape, directQuote; May 14 2024, CoStar data): NYC "nearly 730 million square feet of office space … The vast majority (82% or ~600M) is in Manhattan, predominantly in the prime business districts, south of 59th Street"; Manhattan column: total 594,309,799; Class A 361,054,636; Class B 172,960,516; Class C 59,340,112. → §5 para 2, §5.5 fact 1, §8 intro.
+  - https://www.metro-manhattan.com/blog/nyc-office-market-401-buildings-full-availability-shrinks/ (scrape, directQuote; Alan Rosinsky, published Oct 14 2025): of 401 fully leased buildings, "The median one was built in 1931 but renovated in 2011. Prewar bones with modern systems…" → §5 para 3, §5.5 fact 2, §7 pre-war tower card.
+  - CHPC "Taking Stock" excerpt (citywide housing, "Over half of units, about 2 million, were constructed before 1947") — citywide, already covered by NYC hub's RGB figure; not used.
+- Query: `25 Water Street office to residential conversion largest in country units square feet Financial District` · Firecrawl search → https://en.wikipedia.org/wiki/25_Water_Street (scrape): completed 1969 as 4 New York Plaza; office 1969–2022; redevelopment began 2023; ~1,300 apartments, "the largest such office-to-residential property conversion in the United States"; plan to add 10 floors to existing 22; leasing began January 2025, first residents the next month. Also newyorkyimby.com Feb 2025 excerpt (1,300 apartments). → §5.5 fact 3; §7 conversion card; §9 Q1; §13 landmark card.
+- Query: `SoHo-Cast Iron Historic District designated 1973 number of buildings blocks` · Firecrawl search → https://villagepreservation.org/2024/08/14/the-soho-cast-iron-historic-district-a-1973-designation-that-helped-shape-nycs-cultural-legacy/ (excerpt): "approximately 26 blocks, covering nearly 500 buildings"; corroborated by https://sohobroadway.org/soho-castironhistoricdistrict-landmarks/ excerpt ("26 city blocks … approximately 500 buildings"). → §13 card; §8 SoHo corridor card; §7 loft card.
+- Query: `SoHo sidewalk vaults vault lights cast iron buildings under sidewalk cellar space history` · Firecrawl search → https://sohobroadway.org/let-there-be-light-the-vaulted-sidewalks-of-soho-broadway/ (scrape, directQuote; Yukie Ohta, Nov 28 2018): vault lights "tiny skylights that diffuse sunlight into the vault below the sidewalk"; "Invented by Thaddeus Hyatt in 1854"; "Costly to maintain and replace, many vault lights were neglected and consequently corroded"; many "filled in with concrete or stone or replaced completely by diamond plate steel"; buildings post "HOLLOW SIDEWALK" or "VAULTED SIDEWALK" signs. 6sqft excerpt (https://www.6sqft.com/soho-and-tribecas-windowed-sidewalks-provided-light-to-basement-factory-workers-before-electricity/) confirms SoHo and Tribeca. → §9 Q7 (storefront vault); §8 SoHo card.
+- Ladies' Mile — https://en.wikipedia.org/wiki/Ladies%27_Mile_Historic_District (scrape): designated May 1989 by LPC; "440 buildings on 28 blocks and parts of blocks, from roughly 15th Street to 24th Street and from Park Avenue South to west of the Avenue of the Americas"; "mostly multi-story store and loft buildings"; department stores between the Civil War and WWI. → §13 card; §8 Flatiron card.
+- Hudson Yards — https://en.wikipedia.org/wiki/Hudson_Yards,_Manhattan (scrape): 28-acre development by Related and Oxford built over the West Side Rail Yard; 10 Hudson Yards groundbreaking Dec 4 2012, opened 2016; Phase 1 opened March 15 2019; Manhattan West (Brookfield) over the rail yard west of Ninth Ave, 31st–33rd. → §13 card; §8 Far West Side card; §9 Q6 (shielded Cat6A in newer towers — no claim that any named tower uses it).
+- Rockefeller Center — https://en.wikipedia.org/wiki/Rockefeller_Center (scrape): 19 commercial buildings on 22 acres between 48th and 51st Streets; 14 original Art Deco buildings between Fifth and Sixth Avenues; construction started 1931, first buildings opened 1933, core complete 1939; NYC landmark 1985, NHL 1987. → §13 card; §8 Midtown card.
+- Columbia Manhattanville — Query `Columbia University Manhattanville campus 17 acres West Harlem 125th Street opened 2017` · Firecrawl search → https://neighbors.columbia.edu/news/columbia-university-dedicates-its-17-acre-manhattanville-campus-establishing-its-academic-and (excerpt): "Its 17-Acre Manhattanville Campus … October 24, 2016 … along Broadway immediately above West 125th Street". Wikipedia page for the campus returned 404 (not used). → §13 card; §8 Harlem card (stated with the excerpt's facts only).
+
+### Local news / hyperlocal
+- Query: `Manhattan water main break flooded basements businesses SoHo 2025 OR 2024` · Firecrawl search → https://abc7ny.com/post/water-main-break-floods-streets-inwood-manhattan/17791596/ (scrape, directQuote; Sept 11 2025): "A 20-inch water main break in Upper Manhattan sent water gushing down the streets and into some basements"; break "just after 11:30 p.m. Wednesday on Dyckman Street and Nagle Avenue". → §5.5 fact 5; §8 Upper Manhattan card. (News12 Bronx Pelham Bay result — Bronx, not used.)
+- Manhattan news specific to Cat6/network cabling failures: EMPTY (no result).
+- Hyperlocal (Tribeca Citizen, West Side Rag, Our Town, amNY) on cabling: EMPTY (no relevant result in searches above).
+
+### Technical (Manhattan-pathway angle)
+- Query: `HDBaseT cable requirements Cat6 solid core 100 meters avoid patch panels couplers troubleshooting flicker` · Firecrawl search (excerpts) → https://support.atlona.com/hc/en-us/articles/360054843994-HDBaseT-Cabling-A-Guide: "Stranded cables dramatically reduce signal quality and distance. If you want 4K signals to reach 100 m, you must use shielded Cat 6A."; https://support.pulse-eight.com/support/solutions/articles/30000053197-...: "Cat cabling is the most common cause of HDBaseT signal problems … Always use solid core cable"; https://cn.control4.com/docs/product/av-cables/cabling-guide/english/latest/: "Wall plates, joiners, patch panels, and leads must be CAT6/6a/7 rated. Use no more than two patch cables resulting in a three-segment installation". → §9 Q8 (conference display).
+- Query: `TIA-568 consolidation point 15 meters from telecommunications room requirement open office zone cabling` · Firecrawl search → https://www.cablinginstall.com/home/article/16469148/another-look-at-zone-cabling (excerpt): "As defined under TIA/EIA-568-B.1, a CP is a passive interconnection point in the horizontal cabling located at least 15 meters from the TR." → §9 Q11 (consolidation point).
+- Query: `shielded Cat6A F/UTP shield continuity bonding both ends test failure troubleshooting` · Firecrawl search → https://www.zion-communication.com/UTP-vs-F-UTP-vs-U-FTP-vs-S-FTP-Shielding-Grounding-Thermal-Rules-id49063765.html (vendor excerpt): "Most 'shielded cable failures' are actually system failures: shield continuity breaks at patching, racks are not bonded, or PoE bundles trap heat". → §9 Q6 (attributed as a vendor's guidance).
+- Raised-floor, poke-through, power-pole and glass-partition pathway descriptions (§9 Q2–Q5) are written from general field practice; no statistics or named buildings are attached to them.
+
+### Prices used (only from live AESS Manhattan pages; no new prices)
+- $195/hr, three-hour minimum ($585) — network-cable-repair-manhattan.html ("$195 an hour against a three-hour minimum — $585 for the opening block").
+- Replacement Cat6 run from $175 per drop — network-cable-repair-manhattan.html ("A run needing full replacement is priced from $175 per commercial Cat6 drop"; "evening freight windows appear as a named premium line").
+- New-install comparison Cat5e $254 / Cat6 $296 / Cat6A $424 per drop — cat6-installation-manhattan.html.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — third-party, labelled.
+- Basis: blueprint §9 gives Manhattan 1.25×; as on cat6-repair-nyc, the multiplier is NOT applied separately because the live Manhattan pages already publish these figures for Manhattan (applying 1.25× again would contradict them). FLAG (carried from NYC hub): $175 and $195 are un-multiplied on every live borough page; cat6-installation-manhattan's $296 is 1.088× the NYC $272, not 1.25× ($340).
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Manhattan, Cat6 cable repair Manhattan, Cat6 re-termination, Cat6 recertification, Cat6 jack repair, patch panel repair, Cat6A repair, shielded Cat6A repair, HDBaseT cable repair, consolidation point repair.
+- Problem: failed certification, inherited/undocumented Cat6, power-pole furniture feed failure, raised-floor crush, poke-through damage, glass-front room run, vault-cellar corrosion, conference display blanking, shield discontinuity, CP failure, flood-damaged cellar link.
+- Technology: TIA-568 permanent link/channel, consolidation point (≥15 m from TR), F/UTP shield bonding, HDBaseT, PoE, firestopped poke-through, plenum/riser listing, NEC 800.25, NYC Admin Code §28-105.4.7.
+- Industry: Class A/B/C offices, trading floors, law/finance suites, medical suites (UES), SoHo/Flatiron retail and showrooms, co-ops/condos, office-to-residential conversions, universities (Manhattanville).
+- Geographic: Manhattan; Midtown, Rockefeller Center, Plaza District, Hudson Yards/Manhattan West, Financial District/Water Street, SoHo, Tribeca, Flatiron/Ladies' Mile, Union Square, Upper East Side, Upper West Side, Harlem/125th Street, Manhattanville, Washington Heights, Inwood (Dyckman St).
+
+### Images (11) — permanent image rule; Drive folder empty (main run), CompanyCam not connected
+Only 16 distinct photos exist in images/network-cable-repair/; all 16 are already used on a cat6-repair sibling (NYC used 11 as re-encoded copies, LI/HV the rest). Chosen: the 9 whose exact hashes are not in images/cat6-repair/, plus 2 (access point, RJ45) already used once by LI. Each looked at before naming; alt/title/caption describe only what is visible.
+| images/cat6-repair/ | Source (images/network-cable-repair/) |
+|---|---|
+| cat6-repair-manhattan-tester-fail-crossed-open-pair.webp (hero) | network-cable-fault-detection-manhattan.webp |
+| cat6-repair-manhattan-ceiling-tile-flashlight-inspection.webp | network-cable-inspection-manhattan.webp |
+| cat6-repair-manhattan-jacket-scuffed-on-ceiling-grid-edge.webp | crushed-network-cable-repair-manhattan.webp |
+| cat6-repair-manhattan-split-jacket-at-workstation-leg.webp | damaged-ethernet-cable-repair-manhattan.webp |
+| cat6-repair-manhattan-keystone-punch-down-at-wall-plate.webp | keystone-jack-replacement-manhattan.webp |
+| cat6-repair-manhattan-tone-probe-labelled-patch-cords.webp | network-cable-tracing-manhattan.webp |
+| cat6-repair-manhattan-link-down-at-core-switch.webp | network-closet-troubleshooting-manhattan.webp |
+| cat6-repair-manhattan-wall-jack-no-link-open.webp | network-jack-repair-manhattan.webp |
+| cat6-repair-manhattan-patch-panel-port-repunch.webp | patch-panel-repair-manhattan.webp |
+| cat6-repair-manhattan-ceiling-access-point-plug.webp | access-point-cable-repair-manhattan.webp |
+| cat6-repair-manhattan-rj45-plug-crimp-check.webp | rj45-connector-replacement-manhattan.webp |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (no real cat6-repair photos yet)`.
+
+## Question register — cat6-repair-manhattan
+
+§9 "Questions Answered" (H3):
+1. Why do Cat6 jacks fail in apartments carved out of a converted Manhattan office building?
+2. Our desks get their Cat6 down power poles from the ceiling — why do those links fail after the furniture is moved?
+3. The Cat6 link to a glass-walled meeting room died — where does that cable actually run, and how is it reached?
+4. Can Cat6 under a raised access floor be repaired without lifting the whole floor?
+5. What happens to the fire-rated poke-through fitting when a Cat6 run up through the slab is replaced?
+6. Does a repair on shielded Cat6A have to keep the shield bonded from end to end?
+7. Why do Cat6 links that pass through the vault under a SoHo or Tribeca storefront keep failing?
+8. Why does a conference-room display fed over Cat6 blank out or flicker?
+9. Can a failing link on a trading desk or reception desk be moved to a spare run tonight and repaired properly later?
+10. If testing shows the fault is in the building’s riser rather than our suite, what do you hand the building’s vendor? (main run 2026-10-17: replaced the approved-vendor question — same intent as cat6-repair-queens)
+11. Why do the Cat6 links that pass through a zone box above an open-plan ceiling fail together?
+
+FAQ (§17, = FAQPage schema):
+F1. Can you repair Cat6 in a sublet or co-working suite where the main tenant controls the telecom closet?
+F2. Do you bring the ladders or lifts needed for double-height loft and lobby ceilings?
+F3. Our floor is mid-renovation under a general contractor — can you repair the Cat6 other trades damaged before the ceilings are closed?
+F4. Do you cover Upper Manhattan — Harlem, Washington Heights and Inwood — as well as Midtown and downtown?
+F5. Will your technician work alongside our building engineer or super on the day?
+F6. Can you repair the Cat6 that feeds a lobby desk, concierge station or package room in a residential building?
+F7. Can the landlord or managing agent be invoiced directly when the failed Cat6 is base-building cable?
+F8. Can we get a written scope of the repair to submit to the managing agent before the visit is approved?
+
+Other "?" headings: "Is a Manhattan Desk, Register or Boardroom Offline Right Now?" (repair capture), "Manhattan Cat6 Link Failing Before Your Building Window Closes?" (closing).
+
+Avoided (by meaning): all 26 cat6-repair-nyc questions, 23 cat6-repair-long-island, 25 cat6-repair-hudson-valley questions; network-cable-repair-manhattan (cost, repair-vs-replace, COI, after-hours, prove landlord's fault, dead jack, slow vs Wi-Fi, PoE reboot, certified reports, four-tenant ceiling, warranty, other boroughs, who repairs, causes, scheduling speed); cat6-installation-manhattan (cost, building requirements, pre-war install, after-hours, permit, inclusions, drop count, 10G, plenum, full riser, Cat5e upgrade, apartments/co-ops/townhouses). Three first-draft FAQs were replaced after reading the parallel cat6-repair-brooklyn draft (09:30): co-op decoration-vs-alteration, Landmarks approval and who patches plaster/ceilings — all same intent as Brooklyn FAQs; the facts stay in body text. Permit/licence rules (§28-105.4.7) answered in §8.5 body only, not as a question. HV Q14 ("what can we send so the first visit finishes") intent avoided — pre-visit preparation is body text in "The Building Window" section, not a question. HV Q11 (shared telecom room with neighbour) avoided; §9 Q10 (riser-vendor) is about exclusive-vendor rules, not neighbour equipment.
+
+Masked similarity (geo names and phones masked; blocks = p/li/td/h2/h3/figcaption ≥8 words; difflib per block + 5-word shingle Jaccard over the whole page), final build 190,043 B / 13,479 rendered words: vs cat6-repair-nyc Jaccard 0.009, whole-text 0.007, mean block 0.43; vs cat6-repair-long-island 0.008 / 0.008 / 0.43; vs cat6-repair-hudson-valley 0.007 / 0.011 / 0.43; vs cat6-repair-brooklyn (parallel draft) 0.006 / 0.008 / 0.42; vs network-cable-repair-manhattan 0.001 / 0.001 / max block 0.59. Blocks ≥0.65 are only blueprint-excluded constants (licence/rating strip, warranty sentence, freshness stamp, Bronx NAP line, the fixed "What AI Gets Wrong About…" H2 pattern, pricing-table item lines).
+File size sits between the NYC hub (+2,048 B bound 189,548) and the HV hub (−2,048 B bound 190,644): margins ~495 B and ~600 B — wiring edits to those hubs should stay small (a link or two).
+
+Main-run edits 2026-10-17: JSON-LD re-indented (no content change) to clear the ±2 KB clone-size check; sibling links to Queens/Bronx/Staten Island/Rockland/Orange/Putnam added.
+
+
+## Brooklyn (cat6-repair-brooklyn)
+
+Batch run 2026-10-17 (parallel with cat6-repair-manhattan). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl MCP (mcp__Firecrawl__firecrawl_search / firecrawl_scrape). Shell curl blocked. Silo-wide technical sources in research/cat6-repair.md (Fluke NEXT KB, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, nyc.gov Electrical Code page, Fixr Jan 2025, computercablestore 100 Mbps page, ipsecuritydepot CCA) are reused in general terms only.
+
+**Thesis (differs from the NYC hub, the LI/HV hubs and the parallel Manhattan page):** in Brooklyn the building type decides where a Cat6 link failed and which repair route the building allows. Seven building families, each with its own failure point and its own route: the rowhouse belt (renovation-era runs, coupler plates, bends where runs leave the floor, LPC only when the exterior is touched), Victorian Flatbush wood-frame houses, co-ops (alteration vs decoration agreement), post-2004/2005 rezoning towers (developer-installed Cat6 now ~15-20 years old, structured-media enclosures, conduit in slabs), mill-construction warehouses (DUMBO), waterfront industrial campuses (Navy Yard, Sunset Park District) and the low-lying/flood-exposed blocks (Sea Gate/Coney Island, Red Hook, Gowanus). Manhattan page leans on high-rise/riser/building management; this page avoids riser/managing-agent framing except for co-op paperwork.
+
+### Reddit / forums (source 1)
+- Query: `site:reddit.com r/Brooklyn ethernet wiring apartment brownstone cat6` · Firecrawl search (excerpts only; Firecrawl refuses to scrape reddit.com — "we do not support this site") →
+  - https://www.reddit.com/r/Brooklyn/comments/1k56guy/brooklyn_renovation_wiring_for_wifi_and_future/ — excerpt: "You should have a minimum of 2 cat6 drops in each room from the network cabinet. run 4 Ethernet cables to each room (future proof)." → background for §5 para 2 (renovation-era home runs to a cabinet). Not quoted.
+  - https://www.reddit.com/r/homeautomation/comments/12q87ww/advice_for_a_gut_renovation_lighting_lock_wifi/ — excerpt: "gut renovating a Brooklyn brownstone. Ethernet drops. Planning to have one in every room, plus wiring for the ceiling mounted WAPs." → background §5 para 2. Not quoted.
+  - https://www.reddit.com/r/lowvoltage/comments/1o0rlwj/msp_looking_for_a_reliable_professional_partner/ — excerpt: "4 family apartment building in Brooklyn Heights NY needs the following 6 to 8 CAT6+ cable drops" → background only.
+  - Fault-specific r/Brooklyn threads (failing Cat6, dead jacks): EMPTY (not accessible in build env — reddit not scrapeable, no fault thread in results).
+- Query: `Brownstoner Brooklyn brownstone renovation ethernet wiring plaster walls networking` · Firecrawl search → scrape https://www.brownstoner.com/forum/home-entertainment-systems/wiring-a-house-with-ethernet-hdmi-speakers-etc/ (directQuote; reply timestamp "14 years and 5 months ago"): owner of "very old very neglected house" asks about wiring while walls are open; reply: "The easiest route may be to buy pre-terminated cables (with connectors) of the appropriate lengths and use wall plates with integrated female connectors on the box (rear) side."; "you might just want to put conduit in the walls with strategically located access boxes"; "pull multiple Cat5e or Cat6 data runs from each location to a central location … near a Demarc". → §9 Q1 (coupler plates), §5 para 2, FAQ F2 (pull string/conduit), §10.5 H3 "couplers".
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on-page that the AI Overview could not be viewed and frames each H3 as a commonly published claim (forum/how-to/cost-guide), corrected with sourced facts.
+
+### Building stock / landmarks / corridors (sources 6, 7)
+- Query: `Brooklyn rowhouses brownstones share of housing stock built before 1940 Brooklyn` · Firecrawl search → scrape https://urbanomnibus.net/2016/05/how-many-row-houses-are-there-in-new-york-city/ (Neil Freeman, May 4 2016, directQuote): "there are 217,000 row houses in New York. With 761,000 residential properties total, that's more than a quarter of the residential building stock!"; "there's a solid row house belt running across Brooklyn, from Bay Ridge up through Park Slope, Bed-Stuy, and Bushwick. Southern Bushwick is home to a tract of wood frame row houses, another rarity."; "The largest row houses are in Manhattan and Bedford-Stuyvesant, Brooklyn." → §5 para 1, §5.5 bullet 1, §7 rowhouse + frame cards, neighbourhood section.
+- Query: `Victorian Flatbush free-standing wood frame houses Prospect Park South historic district number of houses` · Firecrawl search → scrape https://6tocelebrate.org/neighborhoods/victorian-flatbush/ (Historic Districts Council, directQuote): "Victorian Flatbush is known for being the largest concentration of wooden Victorian-style homes in the country. The area presently has five New York City Historic Districts"; comprised of 11 neighbourhoods developed after Flatbush joined Brooklyn in 1894, "yards, freestanding homes". → §5.5 bullet 2, §7 frame-house card, §9 Q4, §13 landmark card.
+- Query: `2005 Greenpoint Williamsburg rezoning waterfront towers number of units built since` · Firecrawl search → scrape https://greenpointers.com/2025/05/13/a-walking-tour-looks-back-on-the-legacy-of-the-2005-greenpoint-williamsburg-waterfront-rezoning/ (Pamela Rafalow Grossman, May 13 2025, directQuote): rezoning of "approximately 180 blocks" of former industrial/maritime waterfront; "As of May 2024, Greenpoint and Williamsburg had added 26,253 housing units in the previous 13 years." → §5.5 bullet 3, §7 tower card, §8 corridor card, §9 Q7.
+- Query: `Downtown Brooklyn 2004 rezoning residential towers units built since office` · Firecrawl search → excerpts: Pratt Center PDF "In June of 2004, the New York City Council formally approved a large-scale rezoning of Downtown Brooklyn"; https://storymaps.arcgis.com/stories/fd7bebf0949e4a7f96615a9b41e91dfe "Core Downtown Brooklyn experienced a 10x increase in housing units." Scrape of https://www.downtownbrooklyn.com/dtbk20/ returned no body text — EMPTY. Used only: June 2004 rezoning approval (Pratt excerpt) and "tenfold increase in housing units in the core" (storymap excerpt, attributed). → §5.5 bullet 3, §8 Downtown card.
+- Query: `Brooklyn Navy Yard 2025 tenants businesses jobs acres Building 77` · Firecrawl search → scrape https://www.brooklynnavyyard.org/brooklyn-navy-yard-fy25-impact-report/ (Jan 8 2026, directQuote): "Spanning more than 300 acres along Brooklyn's waterfront, the Brooklyn Navy Yard is now home to over 550 businesses supporting more than 13,000 jobs and generating more than $2.5 billion in annual economic impact." → §5.5 bullet 5, §8 Navy Yard card, §13 card.
+- Query: `Brooklyn Army Terminal Sunset Park square feet tenants buildings NYCEDC` · Firecrawl search → scrape https://edc.nyc/project/sunset-park-district (directQuote): Sunset Park District "spans 200 acres of the South Brooklyn waterfront and includes four major industrial campuses—the Brooklyn Army Terminal (BAT), South Brooklyn Marine Terminal (SBMT), MADE Bush Terminal, and the Brooklyn Wholesale Meat Market"; "BAT's 4 million-square-foot waterfront industrial campus"; "the 36-acre MADE Bush Terminal". → §8 Sunset Park card, §13 BAT card.
+- Carried from research/cat6-repair.md (NYC section, Brooklyn Eagle Apr 8 2025): Industry City 650+ businesses, 35 acres, ~6 million sq ft, 16 buildings. → §8 Sunset Park card.
+- Query: `DUMBO historic district designated 2007 warehouse factory buildings tech companies offices` · Firecrawl search → scrape https://s-media.nyc.gov/agencies/lpc/lp/2279.pdf (LPC designation report, directQuote): designated "December 18, 2007"; "The approximately 91 buildings in the historic district reflect important trends in the development of industrial architecture"; "The earliest of these buildings are representative of the slow-burning mill construction popular in the mid-to-late nineteenth century." Search excerpt: Arbuckle warehouse at 20 Jay Street (1908) erected by Turner Construction Company (excerpt only, not used). → §7 mill card, §8 DUMBO card, §13 card.
+- Query: `Brooklyn Heights Historic District 1965 first historic district New York City designated` · Firecrawl search → excerpts: https://hdc.org/buildings/brooklyn-heights-historic-district/ "Designated November 23, 1965. The first designated New York City Historic District"; https://thebha.org/neighborhood/ same. → §13 landmark card, §8.5 LPC callout.
+- Query: `Gowanus rezoning 2021 approved flooding canal housing units` · Firecrawl search → scrape https://www.nyc.gov/content/planning/pages/our-work/plans/brooklyn/gowanus (directQuote): "The City Council adopted the Gowanus Neighborhood Plan on November 23, 2021."; goals include "resilience in the face of climate change" and canal clean-up. → §8 Gowanus card, neighbourhood section.
+- Query: `Ocean Parkway Midwood prewar co-op elevator buildings Brooklyn cooperative apartments history` · Firecrawl search → only listing sites (streeteasy, homes.com). Not used as sources. Co-op building specifics: EMPTY (listing data not used).
+
+### Local licensing / permits / rules
+- Query: `Landmarks Preservation Commission permit interior work historic district rowhouse not required exterior only` · Firecrawl search → scrape https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (directQuote): "You do not need a permit from the Landmarks Commission to perform ordinary repairs or maintenance chores."; "An LPC permit for interior work is required in the following cases: when the work requires a permit from the Buildings Department or, when work on the interior affects the exterior, when the interior has been designated by the Landmarks Commission as an interior landmark." → §9 Q3, §8.5 callout 1, §10.5 H3.
+- Query: `co-op alteration agreement low voltage wiring contractor insurance board approval Brooklyn brickunderground` · Firecrawl search → https://www.brickunderground.com/guides/how-to-renovate/what-is-an-alteration-agreement (search excerpt, full guide text in excerpt): alteration agreement = "contract between you and your co-op or condo board"; "A decoration agreement can sometimes be approved by the managing agent without a full board review, meaning you can have it authorized in less than a week"; "your board will generally require your contractor to be licensed and insured up to a certain dollar amount and the building named on the insurance policy"; "If you are not sure where your planned work falls, play it safe by running it by the managing agent". → §9 Q6, §8.5 callout 3.
+- Query: `EPA Renovation Repair and Painting rule pre-1978 housing 6 square feet interior lead-safe certified firm` · Firecrawl search → excerpts: https://www.epa.gov/lead/lead-renovation-repair-and-painting-program "requires that anyone paid to perform work that disturbs painted surfaces in homes, childcare facilities and preschools built before 1978 be certified"; https://www.dshs.texas.gov/... summary "triggered when a renovation, repair or a painting job disturbs more than 6 square feet of interior surface space in a room". → FAQ F4, §8.5 callout 4.
+- Query: `NYC Local Law 1 2004 lead paint pre-1960 buildings contractor work practices HPD` · Firecrawl search → excerpt https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page: "Local Law 1 of 2004 requires owners of buildings built before 1960 … to presume that the paint is lead-based paint". → FAQ F4, §8.5 callout 4.
+- NYC Electrical Code (2020 NEC + NYC amendments, full effect Dec 21 2025) and NEC 800.25 abandoned cable — reused from research/cat6-repair.md silo section. → §8.5 callout 2.
+- AESS NYS licence #12000287431 (site constant).
+- DOB permit thresholds for low-voltage repair work: EMPTY (no source found; page makes no claim beyond LPC's own wording).
+
+### Local news / hyperlocal / flood (sources 9, 10)
+- Query: `Hurricane Sandy Red Hook flooding businesses basements electrical damage Brooklyn` · Firecrawl search → scrape https://www.nyc.gov/html/sirr/downloads/pdf/final_report/Ch_1_SandyImpacts_FINAL_singles.pdf (SIRR report ch. 1, directQuote): "Near Sea Gate, on the Coney Island peninsula in Brooklyn, the water reached 11 feet above ground level"; "flood damage at critical facilities in Southern Manhattan, Red Hook, and the Rockaways disrupted landline and Internet service throughout the neighborhoods they served for up to 11 days"; "In coastal areas, flood damage to building telecommunications equipment and cabling caused long-term outages"; "floodwaters filled basements and ruined electrical and other building systems"; "more than half of all buildings … in the area flooded by Sandy were outside of FEMA's 100-year floodplain"; "almost 30 supermarkets and 50 bodegas" in Coney Island and Brighton Beach affected. → §5 para 4, §5.5 bullets 4 and 6, §9 Q11, §10.5 H3 flood, §13 Coney Island card.
+- Query: `Hurricane Ida September 2021 Brooklyn basement flooding deaths Brooklyn neighborhoods flooded` · Firecrawl search → scrape https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/flooding-and-health/ (NYC DOHMH, directQuote): "Record-breaking 3.5 inches per hour of rainfall fell in some areas, exceeding NYC's sewer capacity of 1.75 inches per hour"; "Unlike the flooding that happened during Sandy, which mostly affected coastal areas, rainfall (or pluvial) flooding can happen anywhere in the city." → §5 para 4, §5.5 bullet 6, §9 Q11, §10.5 H3 flood.
+- Query: `Brooklyn rats chewed internet cable outage building Brooklyn news` · Firecrawl search → scrape https://brooklyn.news12.com/2026/07/30/crown-heights-residents-stuck-caging-rats-in-infested-apartment-building/3VsqzqOxLSVDmE57mzrtg2 (News 12 Brooklyn, July 30 2026, directQuote): resident of a Crown Heights building trapped two large rats; "golf ball-sized holes beneath her kitchen cabinets where she believes the rats are entering"; "You can hear the rats in the walls."; HPD issued violations. → §9 Q5 (context, attributed). Brooklyn news on rodent-damaged data cable specifically: EMPTY.
+- BK Paper / Brooklyn Eagle / Bklyner / Brownstoner news on Cat6 or network-cable faults specifically: EMPTY.
+
+### Prices used (Brooklyn = 1.00× per blueprint §9 — identical to cat6-repair-nyc, no new prices)
+- $195/hr, three-hour minimum ($585) — cat6-repair-nyc.html / network-cable-repair-brooklyn.html.
+- Replacement Cat6 run from $175 per drop — cat6-repair-nyc.html / network-cable-repair-brooklyn.html ($175/drop).
+- Outdoor run entry sealed and bonded from $185 per penetration — as on cat6-repair-nyc.html (source network-cable-repair-bronx.html); 1.00× Brooklyn.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — labelled third-party.
+- NOT used: cat6-installation-brooklyn.html per-drop figures ($247 Cat6 etc.) — differ from the $272 the NYC hub quotes as comparison; omitted rather than introduce a second comparison figure. FLAG for Anwar.
+
+### Keyword notes (five layers, Brooklyn geo)
+- Service: Cat6 repair Brooklyn, Cat6 cable repair Brooklyn, Cat6 jack repair, Cat6 re-termination, Cat6 recertification, Cat6 re-pull, Cat6 tracing.
+- Problem: coupler-plate runs, bend-radius failure at floor-to-wall transition, rodent-chewed Cat6, structured-media panel faults, conduit-in-slab damage, vibration-loosened terminations, cookline heat/grease, flood-exposed cellar closets, router/demarc moved by ISP.
+- Technology: keystone, punch-down, inline coupler, structured media enclosure, Cat6/Cat6A, permanent link vs channel, time-domain fault location, EMT/ENT conduit, pull string.
+- Industry: brownstone home offices, two-family houses, co-ops/condos, restaurants/storefronts, manufacturers at the Navy Yard and Sunset Park, creative offices in DUMBO, medical/professional practices.
+- Geographic: Brooklyn, Park Slope, Bed-Stuy, Bushwick, Bay Ridge, Flatbush/Victorian Flatbush/Prospect Park South, Ditmas Park, Crown Heights, East Flatbush, Downtown Brooklyn, DUMBO, Brooklyn Heights, Williamsburg, Greenpoint, Gowanus, Red Hook, Sunset Park, Coney Island/Sea Gate, Brighton Beach, Sheepshead Bay, Canarsie.
+
+### Images (11) — permanent image rule; Drive "AESS Website Photos/Cat6 Repair" empty (main run), CompanyCam not connected
+All 15 unique photos in images/cat6/ are already used (by cat6-repair-long-island / -hudson-valley); none by cat6-repair-nyc. 11 chosen by fit; Manhattan agent uses images/network-cable-repair/.
+| images/cat6-repair/ | Source (images/cat6/) |
+|---|---|
+| cat6-repair-brooklyn-labelled-patch-cords-network-rack.webp (hero) | cat6-patch-panel-installation-bronx-network-room.webp |
+| cat6-repair-brooklyn-ceiling-tile-replacement-pull.webp | cat6-cable-installation-bronx-ceiling-drop.webp |
+| cat6-repair-brooklyn-open-ceiling-corridor-pull.webp | cat6-cable-installation-dutchess-county-corridor-pull.webp |
+| cat6-repair-brooklyn-fish-tape-emt-conduit-block-wall.webp | cat6-wiring-bronx-fish-tape-conduit.webp |
+| cat6-repair-brooklyn-wall-access-cut-oscillating-tool.webp | cat6-retrofit-installation-bronx-drywall-cut-in.webp |
+| cat6-repair-brooklyn-keystone-punch-down-partition.webp | cat6-keystone-termination-brooklyn-outlet.webp |
+| cat6-repair-brooklyn-data-voice-jack-retermination.webp | cat6-voice-data-outlet-installation-bronx.webp |
+| cat6-repair-brooklyn-printer-data-jack-rework.webp | office-cat6-installation-bronx-printer-data-jack.webp |
+| cat6-repair-brooklyn-j-hook-support-above-grid.webp | cat6-installer-bronx-jhook-pathway.webp |
+| cat6-repair-brooklyn-metal-stud-bundle-reroute.webp | commercial-cat6-installation-bronx-stud-rough-in.webp |
+| cat6-repair-brooklyn-floor-box-keystone-service.webp | cat6-floor-box-installation-brooklyn-conference-room.webp |
+DAILY-LOG note: `images: 11 reused from images/cat6/ (no real cat6-repair photos yet)`.
+
+## Question register — cat6-repair-brooklyn
+
+§9 "Questions Answered" (H3):
+1. The Cat6 from our brownstone renovation ends on wall plates with snap-in couplers instead of punched-down jacks. Is that why it is unreliable? (Rowhouses)
+2. Why do Cat6 runs fished through a rowhouse so often fail right where they leave the floor and turn up into the wall? (Rowhouses)
+3. (converted to non-question H3 "Landmark rules and a Cat6 run inside a brownstone" — LPC intent also asked on cat6-repair-manhattan)
+4. Is a dead Cat6 run easier to replace in a Flatbush wood-frame house than in a brick rowhouse? (Frame houses)
+5. Rats got into the walls and chewed through a Cat6 run. Once it is replaced, how do we stop it happening again? (Frame houses / pests)
+6. (converted to non-question H3 "Co-op house rules and a small Cat6 repair" — decoration-vs-alteration intent also asked on cat6-repair-manhattan)
+7. Every Cat6 run in our condo ends in a white structured-media box in a closet. Can that box be repaired, or does it have to be replaced? (Co-ops, condos, towers)
+8. Our Cat6 runs in conduit buried in the concrete floor of a newer tower. If the cable inside is damaged, does the slab have to be cored? (Co-ops, condos, towers)
+9. Can machine vibration in a converted factory loosen Cat6 terminations over time? (Industrial / commercial)
+10. The Cat6 behind our restaurant's cookline keeps failing. Is that heat, grease or the cable? (Industrial / commercial)
+11. We are raising our network equipment above the flood line. Can the existing Cat6 be extended to the new height, or does every run need replacing? (Flood-exposed blocks)
+12. After the internet provider moved the router to the front of the house, half our Cat6 wall jacks went dead. What happened? (Homes / home offices)
+
+FAQ (§17, = FAQPage schema):
+F1. (removed by main run 2026-10-17 — "Can you repair Cat6 that runs behind built-in bookcases or kitchen cabinets?" duplicated cat6-repair-westchester-county)
+F2. Can you leave a pull string or conduit so the next Cat6 repair is easier?
+F3. (removed by main run 2026-10-17 — "Does the electricity have to be shut off…" duplicated cat6-repair-staten-island; its replacement duplicated F8 and cat6-repair-rockland-county)
+F4. Our house is more than a century old. What about lead paint when a wall is opened?
+F5. I rent my apartment. Do I need the landlord's permission for a Cat6 repair?
+F6. Can the old telephone wiring in the walls stand in for a failed Cat6 run?
+F7. A jack was ripped out of the wall when furniture was moved. Can it be fixed without re-pulling the cable?
+F8. (removed by main run 2026-10-17 — "Will the rest of our network stay up…" duplicated cat6-repair-rockland-county)
+F9. In a two-family house, do you need to get into the other apartment to repair our Cat6?
+F10. Can you tell whether a renovation damaged our Cat6 or whether it failed on its own?
+
+Other "?" headings: "Need Cat6 Repair in Brooklyn Today?" (repair capture), "Still Fighting a Bad Cat6 Link in Brooklyn?" (closing).
+
+De-dup notes: compared by meaning against the NYC (26), Long Island (23) and Hudson Valley (25) registers in research/cat6-repair.md, and read against network-cable-repair-brooklyn and cat6-installation-brooklyn headings. Deliberately not asked: water-damaged closet reuse (NYC Q16) — Brooklyn flood angle is relocation above the flood line instead; riser/neighbour approval (NYC Q14) — Brooklyn co-op angle is the alteration-vs-decoration paperwork class only; tracing in pre-war plaster (NYC Q15); stapled cable salvage (LI Q9); least-visible replacement route (HV Q12); rodent extent of damage (HV Q7) — Brooklyn rodent question is about protecting the repaired run; travel charge (LI F1); test before closing (LI F2); intercom/gate (HV F3); another contractor's work (NYC F3); remote IT provider (LI F10); evenings/weekends, plenum, 10G, CCA, cost, Cat5e upgrade (cat6-installation-brooklyn / NCR Brooklyn).
+
+Final de-dup vs cat6-repair-manhattan (built in parallel, read at 09:2x): Manhattan asks LPC approval, co-op decoration agreement and who patches openings; Brooklyn removed those as questions (body text kept). Remaining Brooklyn questions share no intent with Manhattan's 21 questions.
+
+Similarity (geo-masked, digits stripped; 5-word shingle Jaccard on full visible text; difflib per p/li/td/h3/figcaption block >=8 words): Jaccard vs nyc 0.023, long-island 0.021, hudson-valley 0.019, manhattan 0.021. Blocks >=0.65 are only excluded constants (licence/rating strip, warranty sentence, freshness stamp, NAP line).
+
+Main-run edits 2026-10-17 (size/dup fixes): removed from "What AI Gets Wrong" the Wi-Fi-mesh myth (incl. the Brick Underground paragraph), the BICSI-style tester paragraph, the DIY/bargain-cable paragraph; those sources are no longer used on the page. CSS minified and JSON-LD compacted (no content change) to clear the ±2 KB clone-size check.
+Final FAQ count 7. Markup whitespace compacted and duplicate ImageObject url fields dropped (contentUrl kept) to clear the size check.
