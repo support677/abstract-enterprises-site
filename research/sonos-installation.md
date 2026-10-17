@@ -1475,3 +1475,354 @@ Checked by meaning against all registers in research/sonos-installation.md (NYC,
 - FAQs removed: "Do we need to be home for the whole visit?" (Bronx FAQ5), "Will a Sonos soundbar work with our Fios or Optimum TV box?" (Nassau FAQ6, Bronx FAQ7), "What do you leave behind when the job is finished?" (Brooklyn FAQ6), "Can you work alongside the contractor renovating our kitchen or basement?" (Manhattan FAQ5), "Which photos should we send before the visit?" (close to LI FAQ10 / Nassau FAQ3).
 - Earlier replacements vs Westchester (area multiplier, deposit, free look-before-quote, in-law separate system) and county-licence question → statement, as noted before.
 - New: Q5, Q6, Q8, Q10 and FAQ 3 above.
+
+
+<!-- batch 2026-10-17: sonos-installation-orange-county -->
+## Orange County (sonos-installation-orange-county)
+
+Built 2026-10-17 by the Orange subagent (batch with Putnam and Dutchess). Area page, up-link /sonos-installation-hudson-valley, direct line (845) 640-3835 (800 only in shared header chrome), Bronx GBP (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "Census API" = Firecrawl Alexandria provider census-gov (equivalent api.census.gov URL given). Silo-wide Sonos facts are reused from the existing sections of research/sonos-installation.md and listed only where this page relies on them for a new use.
+
+**Thesis (distinct from HV hub = old houses/outbuildings/weekend homes; Putnam = lake houses/long runs; Dutchess = historic houses/estates):** Orange is the Hudson Valley county with the largest share of post-2000 housing (20.3%, ACS B25034). A Sonos job here is usually in a builder-finished house: use what the builder left (coax → network adapters, jacks, media panel, builder ceiling speakers with wall knobs, TV-wall conduit), respect what the newer house relies on (attic air barrier, engineered I-joists, townhouse fire-separation walls, builder warranty under GBL 777-a), and plan for a growing household (nursery, kids' settings, basement finish, bonus room, saltwater pool, HOA). Contrast case: City of Newburgh (49.4% pre-1940) and Port Jervis (54.2% pre-1940).
+
+### Housing age, households (§5, §5.5, §7, Across the County, §13)
+- Census API · `acs/acs5` 2023, group(B25034), county 36071 · https://api.census.gov/data/2023/acs/acs5?get=group(B25034)&ucgid=0500000US36071 · Orange total 148,460; 2020+ 1,109; 2010–19 10,815; 2000–09 18,207 (→ 30,131 = 20.3% post-2000); 1990s 14,286; 1980s 19,738; 1970s 18,626; 1960s 14,501; 1950s 15,306; 1940s 5,881; ≤1939 29,991 (20.2%) · §5 para 1, §5.5 bullet 1, §7 intro + raised-ranch card (1970s–90s = 52,650).
+- Census API · same table, `county subdivision:*` in state 36 county 071 · post-2000 / pre-1940 shares: Wallkill 26.4% post-2000; New Windsor 25.0%; Town of Newburgh 22.8%; Chester 20.2%; Monroe 18.4%; Montgomery 17.8%; City of Newburgh 49.4% ≤1939, 4.0% post-2000; Port Jervis 54.2% ≤1939, 8.5% post-2000; Middletown city 32.3% ≤1939, 18.1% post-2000; Warwick town 22.3% ≤1939; Cornwall 26.4% ≤1939. (Palm Tree town 63.7% post-2000 — not named on page; claims phrased "among municipalities with more than 10,000 homes" so Wallkill's "highest" is accurate.) · §5 paras 1 & 5, §13 Galleria card, Across the County.
+- Census API · same table, counties 027/071/079/087/111/119 · post-2000 shares: Orange 20.3, Ulster 14.1, Dutchess 13.8, Rockland 13.3, Putnam 11.1, Westchester 9.6 · §5 para 1 ("most likely"), §5.5 bullet 1.
+- Census API · `acs/acs5/profile` 2023, group(DP04)+group(DP02), county 36071 · 1-unit detached 62.4%, attached 6.8%; 9+ rooms 14.9%; median rooms 6.0; 4 bedrooms 22.6%; 5+ bedrooms 6.2%; owner-occupied 68.4%; avg household 2.86; broadband 88.6% · §5 para 4 (median six rooms, ~3 in 10 with 4+ bedrooms), §5.5 bullet 4.
+- FC scrape (query) · https://www.census.gov/quickfacts/fact/table/orangecountynewyork/PST045225 · housing units 154,492 (V2025); building permits 2025: 1,668; persons per household 2.84 (2020–2024); broadband 89.3%; mean travel time 34.1 min · §5.5 bullets 2, 3, 5, 6. FC search excerpt same URL: owner-occupied 67.8% (2020–2024) · §5.5 bullet 3.
+- Reused (research/soundbar-installation.md Orange): usafacts.org growth (+2,600 2024→25; +11.1% 2015–2025) · §5 para 4. Tuxedo Reserve (ocpartnership: Lennar + Related, 1,600+ units, 1,200 acres between Harriman SP and Sterling Forest; THR 2022 excerpt 755 townhouses / 411 apartments / 269 single-family; Zillow Pershing three-story townhome) · §7 card, §13 card. newhomesource (Palisades Ridge at Woodbury Junction, Ridgebury Estates Slate Hill, Blackburne Homes Campbell Hall) · §13, Across the County. Port Jervis Line (Harriman busiest; Campbell Hall serves Goshen/Montgomery/Walden) · §13. West Point Community Guidelines PDF (Request for Alterations form to Community Management) · Across the County.
+- Reused (research/fiber-optic-installation.md Orange): Greenlight releases (began 2023; >$26M invested by June 2026; Village of Goshen >1,000 homes; Middletown 6,000 homes in 12 months; $4M Port Jervis downtown first; $3.4M Walden; Washingtonville under construction; Highland Falls >$2M) · §5.5 bullet 5, Across the County. East End HD (445 acres, 2,217 buildings, NRHP 1985) · §7, §13. Newburgh ARC certificate of appropriateness (ecode360 excerpt) · §8.5, §9 row-house Q. Orange County electrician licence (LL 8 of 2007 / LL 1 of 2024) · §8.5. Woodbury Common (1985, 220 stores, 845,000 sq ft, Route 32 north of Route 17), LEGOLAND (May 20 2021, ~150 acres, relocated Route 17 ramp), Galleria at Crystal Run (April 1 1992), Goshen Historic Track (1838, NHL, Park Place), Tri-States Monument (1882, under I-84 viaduct), Government Center 255 Main St · §8, §13.
+
+### New housing in the pipeline (§7, Across the County)
+- `Orange County NY new housing development approved townhouses 2025 Chester OR Montgomery OR "New Windsor" OR Wallkill planning board homes` · FC search → FC scrape https://www.hgar.com/orange-county-ida-approves-incentives-for-124-unit-wallkill-apartment-development (Aug 28 2026) · Silverlake Ridge, 124 rental apartments, Town of Wallkill; first housing project to receive an OCIDA incentive package; "the county's housing shortage" · §7 rental card, Across the County.
+- Same search → FC scrape (pdf) https://www.orangecountyny.gov/AgendaCenter/ViewFile/Minutes/_03032026-2738 (OC Planning Board, March 3 2026) · riverfront project: 5 mixed-use buildings, 172 apartments, 25,000 sq ft office (municipality not in the extracted text) · NOT used on page.
+
+### Builder wiring / connected-home packages (§7.5 table, Builder section, §9 cluster A, §10.5 H3 1)
+- `Tuxedo Reserve Lennar home features included smart home Wi-Fi Ring Alexa` · FC search → FC scrape https://ring.com/lennar · Lennar by Ring: wired video doorbell, smart lock ("keyless access"), Honeywell T6 Pro thermostat, Alarm Security Kit 5-piece · Builder section para 1. (investors.lennar.com 2017 Wi-Fi CERTIFIED/Alexa release seen as excerpt; not used.)
+- `site:en.community.sonos.com MoCA` · FC search (excerpts) · https://en.community.sonos.com/home-theater-229129/connecting-to-internet-using-lan-port-on-playbar-6853907 ("switched to MoCa for this location (using my TV coax cabling to deliver Ethernet) and that works really well"); https://en.community.sonos.com/advanced-setups-229000/32-device-sonos-system-with-constant-drop-outs-6810755 ("used … MoCA coax adapters to then hardwire the Sonos speakers"); https://en.community.sonos.com/advanced-setups-229000/can-t-group-or-pair-sonos-speakers-when-using-ubiquiti-unifi-network-with-wireless-uplinks-mesh-6837575 (Actiontec MoCA adapters) · §9 coax Q, Builder section para 2. Sonos itself does not list MoCA (silo: system requirements rule out EoP, extenders) — page says exactly that.
+- `Sonos Amp wall volume control knob impedance matching in-ceiling speakers community` · FC search (excerpts) · https://en.community.sonos.com/components-and-architectural-228996/volume-control-with-6-in-ceiling-speakers-and-amp-6837058 ("volume control to match your speaker impedance"); https://en.community.sonos.com/components-and-architectural-228996/sinks-connect-amp-in-wall-volume-controls-6811175 ("Impedance matching for 2, 4 or 8 pairs") · §9 volume-knob Q (context). Limits quoted from silo HV research (sonos.com/en-us/guides/amp: <4 ohm no; two pairs 8-ohm parallel; no series).
+
+### Builder warranty (§9 Q3)
+- (direct) FC scrape https://www.nysenate.gov/legislation/laws/GBS/777-A · housing merchant implied warranty "shall survive the passing of title"; 1 yr skillful construction; 2 yrs plumbing, electrical, heating, cooling and ventilation; 6 yrs material defects; does not extend to defects that are not builder's workmanship/materials/design; written notice no later than 30 days after period · §9 warranty Q.
+
+### Framing, air seal, separation walls (§9 cluster B, §10.5 H3 3)
+- `Weyerhaeuser TJI joist allowable holes chart never cut flanges web hole` · FC search → FC scrape https://www.techsupport.weyerhaeuser.com/hc/en-us/articles/201758810-Repair-Detail-for-TJI-Joists-with-Holes-Too-Close-to-Bearing · "This chart allows holes 1 ½” and smaller to be drilled anywhere in the web outside of the hatched zone near bearing. All holes larger than 1 ½” must be spaced at least 12” from the edge of the hole to the inside face of bearing." (uniformly loaded joists) · §9 I-joist Q. ICC-ES ESR-1153 excerpt (holes in TJI web per Figure 2) · background. Weyerhaeuser blog page scrape returned no text (video page) → not used. "No flange cuts" stated as AESS practice, not quoted.
+- `IECC R402.4.1.1 air barrier ceiling attic penetrations sealed …` · FC search → FC scrape https://up.codes/s/installation-mandatory (IECC 2021 Table R402.4.1.1) · Ceiling/attic: "The air barrier in any dropped ceiling/soffit shall be aligned with the insulation and any gaps in the air barrier sealed"; Recessed lighting: "air tight, IC rated, and sealed to the drywall" · §9 attic-air Q. Page applies the logic to speakers as AESS practice (code text is for lights).
+- `IRC R302.2 townhouse separation common 2-hour wall electrical outlet boxes R302.4 penetrations membrane` · FC search (excerpts) · https://co.routt.co.us/DocumentCenter/View/15197 (IRC commentary), https://codes.iccsafe.org/s/IRC2021P2/chapter-3-building-planning/IRC2021P2-Pt03-Ch03-SecR302.2.2 · two 1-hour walls (R302.2.1) or common 2-hour wall (R302.2.2); outlet-box membrane penetrations per R302.4: steel boxes ≤16 sq in, aggregate ≤100 sq in per 100 sq ft, annular space ≤1/8 in · §9 townhouse Q. "NY residential code is based on the IRC" = builder knowledge, not fetched.
+- `Sonos in-ceiling speakers insulation attic top floor ceiling back box installation guide` · FC search → FC scrape (pdf) https://www.bhphotovideo.com/lit_files/685190.pdf (Sonos In-Ceiling by Sonance manual) · only 6–10 ft spacing and wire-prep text extracted; nothing on insulation → back-box/sealing stated as AESS practice. 
+
+### Tall rooms, echo (§9 cluster C, FAQ 1)
+- (direct) FC scrape https://www.sonos.com/en-us/blog/guide-to-ceiling-speakers · "Speakers project sound outward in a V shape … in-ceiling speakers can cover more area in a space with 14-foot ceilings than they would in a space with 8-foot ceilings"; pair ≤150 sq ft; ≥6 speakers ≤500 sq ft; L/R 6–10 ft; theater 2–6 ft behind listener; manual gives spacing by ceiling height · §9 two-story Q, FAQ 1 (recessed-light alignment).
+- Trueplay "measures how sound reflects off walls, furnishings and other surfaces" — silo NYC research (support.sonos.com/article/tune-your-sonos-speakers-with-trueplay) · §9 foyer-echo Q.
+
+### Fireplace (§10.5 H3 7 only — the fireplace Q was dropped to avoid overlap with the Dutchess page)
+- (direct) FC scrape (query) https://www.sonos.com/en-us/guides/arcultra · "Don’t enclose Arc Ultra in a cabinet or in a corner"; 4 in min between soundbar and TV; ends ≥1 ft from wall/obstructions · §10 Arc card, §10.5 H3 7.
+- `Sonos Arc Ultra operating temperature specifications above fireplace` · FC search (excerpts) · https://en.community.sonos.com/home-theater-229129/arc-mounted-above-a-gas-fireplace-6901982 ("The Arc's operating temperature is listed as between 32°F to 104°F"); https://en.community.sonos.com/home-theater-229129/sonos-arc-above-fireplace-6863861 · §10.5 H3 7 (attributed to Sonos community answers; Arc, not Arc Ultra).
+
+### Kids, nursery (§9 cluster F, Room-by-Room table, §10.5 H3 6)
+- `support.sonos.com sleep timer …` · FC search → FC scrape https://support.sonos.com/en-us/article/set-a-sleep-timer-on-sonos · sleep timer from Now Playing screen; "music automatically turns off after a specified time period" · §9 nursery Q.
+- `support.sonos.com explicit content filter Sonos app parental controls` · FC search → FC scrape https://support.sonos.com/en-us/article/filter-explicit-content-on-sonos · filter "applies to your entire Sonos system"; "password-protected"; supported services Amazon Music (US only), Apple Music, YouTube Music · §9 explicit Q, §10.5 H3 6.
+- Guest Access default ON (silo Brooklyn research, support.sonos.com/en-us/article/adjust-connection-security-settings) · Room-by-Room para.
+
+### Permits / local rules (§8.5, §9 basement and pool Qs, FAQ)
+- `Town of Wallkill OR Town of Monroe OR Town of Chester NY building permit finished basement inspections framing insulation` · FC search → FC scrape https://villageofchesterny.gov/Village-Hall/Building-Department · permit required for "Additions / Alterations / Conversions", "Decks and porches, including decks around pools", "Electrical Upgrade", "Generator", "Pools (above and in-ground) / Hot Tubs"; applications must include "Electrician’s Orange County License – if applicable"; no permit for kitchen/bath remodel without electrical/plumbing · §8.5 bullets 1–2, §9 basement Q, §9 pool Q. Town of Wallkill / Monroe / Chester building pages: excerpts only (contact info) → not used.
+- `Orange County NY homeowners association architectural review committee exterior changes approval townhouse …` and a second HOA query · FC search → results were Village of Woodbury Planning Board ARB code (building exteriors, not HOA), out-of-state HOAs, Orange County CA → **EMPTY** for an Orange County NY HOA rule. HOA Q written as practical advice only, no rule claimed.
+
+### Power (body only; generator FAQ dropped to avoid overlap with Dutchess)
+- `Orange and Rockland Utilities outage Orange County customers restored 2025 storm …` · FC search (excerpt) · https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k ("Orange County: 462" still out at update) · NOT used on final page.
+
+### Sources that came back empty
+- Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG: EMPTY (not accessible in build env). §10.5 says the AI Overview could not be viewed and answers commonly repeated claims (Angi $500–$1,000 per room from silo research; Sonos statements).
+- Yelp 1–3★ Orange County Sonos installers: EMPTY (not accessible in build env).
+- Local Reddit: `reddit hudsonvalley new construction house Orange County NY builder wifi OR "low voltage" OR "speaker wire" OR sonos` · FC search → only builder sites and an r/hudsonvalley affordability thread (https://www.reddit.com/r/hudsonvalley/comments/1revg0c/…) → EMPTY for Sonos/low-voltage; not used.
+- Local news (Times Herald-Record, Mid-Hudson News, News12 HV) on Sonos/home audio: EMPTY (none found).
+- ACS year-built via oaktend.com search result was Orange County **CA** → not used.
+- Field Notes: no sourced Orange County job anecdote → written and labelled as general installer practice.
+
+### Prices used (published AESS lines only; HV hub + tv-mounting-prices-orange-county + research/tv-mounting-prices/BRIEF.md via silo/soundbar research)
+Sonos setup $125 · soundbar wall-mounted $129 / placed $79 · Sanus bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · box removal $25 · walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile-marble +$95 · backer $85 · high mount $75 · walk-up $40 · COI free · Orange setup-only $250 first hour then 30-min blocks · Orange TV mounting base $229.99 (32–55", drywall/wood studs) · no travel/parking/fuel charge (tv-mounting-prices-orange-county.html) · $150 return trip · free reschedule 24 h. Packages = sums: $125; $338.99 (129+84.99+125); $737.98 (229.99+129+84.99+169+125). Ceiling/outdoor/coax/AP/new cable = quoted at walkthrough. §9 Orange 1.40× multiplier NOT applied (same convention as HV hub and soundbar-installation-orange-county).
+**Not used / conflicts:** av-sound-installation-orange-county.html publishes large estate ranges ($1,200–$5,000 entry up to $140,000–$450,000) — not cited; the NYC $800–$2,500 per-zone range (av-sound-installation-nyc) not applied to Orange. Walk-up $40 is on the NYC/BRIEF list but not shown on the HV hub table — flag for Anwar.
+
+### Images (11) — permanent image rule (Drive folder EMPTY, CompanyCam not connected); index set i % 3 == 0 of `ls images/low-voltage | sort`
+All viewed before use. Rejected: tone-generator-trace (clear face), riser-conduit-pull (clear face), idf-patch-panel-build (readable floor-plan document), shirts/caps with a readable 800 number (ceiling-speaker-install, recessed-box, rack-switch-config, access-point-lift, retail pull), video-wall (rendered NYC skyline), school corridor (slogans), warehouse/maglock/intercom/PTZ (off-topic). Two frames cropped to remove a readable whiteboard / shirt number. Every frame in the library shows a uniform rendered look (likely AI-generated); flagged as on earlier Sonos pages. Perceptual-hash check: no unused AV-relevant scene exists in my index set, so the scenes below also appear (as other files) on earlier Sonos pages; the J-hook, metal-stud and crew-pull scenes are among the least used.
+| New file (images/sonos-installation/) | Source (index) |
+|---|---|
+| sonos-installation-orange-county-ceiling-speaker-into-round-cutout.webp (hero, eager) | low-voltage-installation-brooklyn-12-restaurant-ceiling-speaker.jpg (30) |
+| …-ceiling-access-point-on-network-cable.webp | low-voltage-installation-hudson-valley-06-ceiling-access-point-drop.jpg (60) |
+| …-crew-hanging-tv-over-recessed-box.webp | low-voltage-installation-nassau-county-11-conference-room-display-cabling.jpg (129) |
+| …-open-framing-cable-rough-in.webp | low-voltage-installation-long-island-10-metal-stud-rough-in.jpg (84) |
+| …-wall-plate-jack-termination.webp | low-voltage-installation-bronx-08-keystone-wall-plate-termination.jpg (6) |
+| …-cable-feed-through-ceiling-grid.webp | low-voltage-installation-nassau-county-04-ceiling-grid-bundle-pull.jpg (120) |
+| …-j-hook-cable-bundle-overhead.webp | low-voltage-installation-orange-county-14-jhook-pathway-bundle.jpg (183) |
+| …-exterior-enclosure-conduit-brick.webp (cropped to remove shirt/cap number) | low-voltage-installation-nyc-exterior-enclosure-install.jpg (165) |
+| …-network-rack-patch-cables.webp (cropped to remove whiteboard) | low-voltage-installation-bronx-05-idf-rack-patching.jpg (3) |
+| …-cable-certifier-pass-at-wall-jack.webp | low-voltage-installation-queens-08-fluke-certification-pass.jpg (207) |
+| …-crew-pulling-cable-open-ceiling.webp | low-voltage-installation-brooklyn-hero-crew-cable-pull.jpg (36) |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+### Keyword layers
+- Service: Sonos installation Orange County NY, Sonos installer, Sonos setup, Sonos ceiling speakers, Sonos Amp, Arc Ultra/Beam installation, outdoor/pool speakers, Sonos pre-wire, builder wiring audit.
+- Problem: speaker missing from app, bonus room dropouts, Sonos after fiber/router swap, builder volume knob, attic air leak at speaker, I-joist drilling, townhouse shared wall, echo in two-story foyer, explicit lyrics in kids' rooms.
+- Technology: coax network adapters (MoCA), media panel/structured enclosure, wired access point, mesh primary node, Trueplay, sleep timer, Parental Controls, Guest Access, IP66 outdoor, Era 100 Pro PoE+, Port 12V trigger.
+- Industry: new-construction buyers, townhouse/HOA communities, builders' model homes and sales centers, retail (Galleria, Woodbury Common), Goshen offices, Newburgh/Warwick restaurants.
+- Geographic: Orange County; Monroe, Harriman, Woodbury, Central Valley, Tuxedo, Chester, Goshen, Florida, Warwick, Greenwood Lake, Middletown, Town of Wallkill, Slate Hill/Wawayanda, Newburgh, New Windsor, Vails Gate, Cornwall, Montgomery, Walden, Maybrook, Washingtonville, Campbell Hall, Port Jervis, Deerpark, Otisville, Mount Hope, Highland Falls, Fort Montgomery, West Point; Route 17, I-84, Route 211, Route 32, Route 300.
+
+## Question register — sonos-installation-orange-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under H2 clusters (What the builder left behind the walls · Joists, insulation and the wall you share · Tall rooms, bonus rooms and echoes · Finishing the basement · The patio, the pool and the association · As the family grows · The older house in the river city)
+1. Our builder ran coax to every bedroom — can that cable give the upstairs Sonos a wired connection?
+2. The builder put a volume knob on the wall beside the kitchen ceiling speakers — will it work with a Sonos Amp?
+3. Will cutting speaker holes in a house that's two years old affect the builder's warranty?
+4. The basement ceiling shows engineered I-joists — can speaker wire be drilled through them?
+5. Will speaker openings in the top-floor ceiling let attic air into the bedrooms?
+6. Can a speaker be recessed into the wall we share with the townhouse next door?
+7. Our family room is open to the second floor — where do speakers go when the ceiling is eighteen feet up?
+8. Is the bonus room over the garage a good place for the Arc and Sub?
+9. Our two-story foyer and hardwood floors make every sound echo — will Sonos sound harsh in there?
+10. We're finishing the basement this winter — at what point does the speaker wire need to be in?
+11. We have a saltwater pool — will the salt and chlorine damage the outdoor speakers?
+12. Our homeowners' association must approve exterior changes — what should we bring them for patio speakers?
+13. Can the nursery speaker play white noise all night without the rest of the house hearing it?
+14. Can we stop explicit lyrics playing in the kids' rooms?
+15. We moved from a new Wallkill subdivision to an 1890s Newburgh row house — what changes for Sonos?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Can the ceiling speakers line up with the recessed lights the builder installed?
+2. Will a ceiling speaker interfere with the smoke alarms nearby?
+3. Is the router our internet provider installed good enough for Sonos?
+4. Do you need our Wi-Fi password, and what happens to it after the visit?
+5. Can you come while the house is still under construction, if the builder allows it?
+6. What happens if a planned ceiling speaker spot lands on a joist or a duct?
+7. Do you install Sonos in model homes and sales offices for builders?
+8. Can the ceiling speakers you wire be used with a different amplifier by a future owner?
+
+### Other question-form headings
+- H2 "Ready to Use the Wiring Your Builder Left?" (mid CTA)
+- (Repair captures use non-question headings: "Sonos Speaker Missing From the App in Orange County", "Sonos Gone Silent Tonight in Orange County".)
+
+De-dup notes: checked by meaning against the NYC, LI, HV, Manhattan, Brooklyn and Queens registers and against the Putnam and Dutchess drafts on disk (~08:55). Replaced during the build because the batch siblings own the intent: travel-charge FAQ (Putnam + Dutchess both have one), high-mount/loft surcharge FAQ (Dutchess), generator FAQ (Dutchess; Putnam has battery backup), soundbar-over-fireplace Q (Dutchess fieldstone fireplace; kept only as a §10.5 claim). Partial overlaps left for main-run judgment: my two-story family room Q vs Dutchess "Beacon loft mezzanine — even sound on both levels" (placement height vs level balance); my coax-adapter Q vs NYC Q3 "Should one Sonos be wired to the router…" (coax as the route vs whether to wire); my under-construction FAQ vs LI Q10 "Building on Long Island this year — what should the electrician's walkthrough include" (access during build vs walkthrough checklist); my basement-finish timing Q vs Brooklyn Q10 phased renovation (cable timing vs later floors joining).
+
+
+<!-- batch 2026-10-17: sonos-installation-putnam-county -->
+## Putnam County (sonos-installation-putnam-county)
+
+Built 2026-10-17 by the Putnam subagent (batch with Orange and Dutchess). Area page, up-link /sonos-installation-hudson-valley, direct line (845) 640-3835 (800 only in shared header chrome), Bronx GBP (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote / markdown). Silo-wide Sonos facts (system requirements, interference table, Amp 32–104°F and 125 W, three pairs per Amp, outdoor pair IP66 −13°F–149°F, Move 2 IP56 / 24 h, Era 300 stud-only, Era 100 Pro PoE+, Sub 4 placement, in-ceiling cut-outs and obstruction survey, Arc Ultra wall EQ, Beam/Ray connections, Angi $500–$1,000 per room, Sonos "not waterproof … outside for extended periods") are reused from earlier sections of research/sonos-installation.md and not re-listed.
+
+**Thesis (distinct from Orange = builder pre-wire/new subdivisions, Dutchess = historic houses/plaster/estates/barns, and the HV hub = old houses, outbuildings 150 ft, cold, remote control, rentals, power-cut recovery, rural internet down):** Putnam = lakes and long lots. The plan is measured in distance: deck → lawn → dock → boathouse/garage, so the page is built on Sonos's wire-gauge-by-distance chart, the 100 m copper Ethernet limit and fiber where an outbuilding has its own panel, dock electrical (NEC 555 → electrician), sound carrying over water at night + Carmel/Putnam Valley noise codes, surge/lightning on long outdoor runs, UPS for storm flickers (NYSEG/Central Hudson outages), seasonal open/close of lake houses, winterized 1928 lake bungalows (no attic, crawlspace, added-on cottages), split-level commuter houses; Cold Spring/Garrison river villages as the contrast case.
+
+### Research matrix
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| P1 | `Putnam County New York QuickFacts` · FC scrape (directQuote) | https://www.census.gov/quickfacts/putnamcountynewyork | Pop 99,028 (V2025); housing units 38,713 (Jul 1 2025); owner-occupied 83.8% (2020–24); persons/household 2.68; broadband 94.8%; 65+ 21.3%; land 230.20 sq mi | §5 para 5, §5.5 bullet 6 |
+| P2 | ACS 2019–2023 B25004/B25001, Putnam (36079) · FC alexandria census-gov census/data | https://api.census.gov/data/2023/acs/acs5?get=group(B25004)&ucgid=0500000US36079 | Total housing units 38,369; vacant 3,315; seasonal/recreational/occasional use 1,757 | §5 para 5, §5.5 bullet 4 |
+| P3 | `Lake Mahopac largest lake Putnam County acres Town of Carmel` · FC search → FC scrape | https://en.wikipedia.org/wiki/Mahopac,_New_York | Hamlet encircles 587-acre Lake Mahopac; three privately owned islands (Fairy, Petre, Canopus); 19th-c. summer resort via Harlem RR / rail spur; year-round after last Putnam Division passenger service 1959 | §5 para 2, §5.5 bullet 1, §13 card |
+| P4 | same search (excerpt) | https://www.townofcarmelny.gov/253/About-Our-Town | Lake Mahopac "became a popular vacation spot for city dwellers" | background |
+| P5 | `Lake Oscawana Putnam Valley lake acres largest lake` · FC search (excerpts) | https://lakeoscawana.net/our-lake ; https://www.putnamvalley.gov/districts-pv/lake-oscawana-management-improvement-district/ ; https://en.wikipedia.org/wiki/Lake_Oscawana | Association: 364 acres, ~2 mi long, ½ mi wide, ~7 mi shoreline. Town: "natural freshwater lake and the largest of several lakes and ponds in the Town of Putnam Valley". (Wikipedia says 386 acres — conflict; page uses the association figure, attributed.) | §5 para 2, §13 card |
+| P6 | historicpatterson.org Putnam Lake exhibit · FC scrape (directQuote, re-verified this run) | https://www.historicpatterson.org/Exhibits/ExhPutLake.php | Smadbeck brothers + McGolrick Realty; three communities beginning 1928: Lake Carmel (Kent), Lake Peekskill (Putnam Valley), Putnam Lake (Patterson); summer bungalows; Morlock Brook dammed → 200-acre lake; 11,000 lots mapped; 20'×100' lots for $50; 2,000 homes by 1932; deserted after Labor Day | §5 para 2, §5.5 bullet 2, §10.5 H3 7, §13 cards (Putnam Lake, Lake Carmel) |
+| P7 | `Lake Peekskill Putnam Valley hamlet history bungalow community lake` · FC search (excerpts) | https://www.reddit.com/r/upstate_new_york/comments/1lp6ktt/lake_peekskill_weekend_house/ ; https://putnamvalleyhistory.org/historic-lake-peekskill/ | r/upstate_new_york: "LP was mostly converted summer bungalows on very small lots." (quoted, attributed); historical society: once called Cranberry Pond (not used) | §5 para 3 (local Reddit) |
+| P8 | `Lake Carmel Park District rules beach Kent NY residents lake` · FC search → FC scrape | https://www.townofkentny.gov/446/Beach-Rules-and-Information (PDF) | Beaches open 11 am–7 pm daily; residents-only with Park District photo ID; "The use of motorboats is prohibited on the waters of Lake Carmel"; boats off district property Nov 1–Mar 15; address Kent Lakes, NY | §13 card, Across the County (Kent) |
+| P9 | `Town of Carmel NY noise ordinance amplified sound hours code chapter` · FC search → FC scrape | https://ecode360.com/5068047 | Ch. 104: residential districts ≤65 dB(A) 8 am–6 pm, ≤55 dB(A) 6 pm–8 am; "No person shall operate … a sound-reproduction device that produces unnecessary noise"; fine ≤$250 | From the House to the Water (sound section), §8.5, §10.5 H3 5 |
+| P10 | same · FC scrape | https://www.townofcarmelny.gov/DocumentCenter/View/404/Sound-Amplification-Permit-Application-and-Fee-Schedule-PDF | Loudspeakers prohibited before 10 am / after 8 pm Sun–Thu, before 10 am / after 11:59 pm Fri–Sat; no permit within 500 ft of school, courthouse or place of worship during their hours, or hospital at any time; fees residential $50/day, commercial $100/day | sound section, §8.5 |
+| P11 | `Town of Putnam Valley noise law amplified sound ecode360` · FC search → FC scrape | https://ecode360.com/9473556 | Ch. 82 (L.L. 2-1999, amended 2007): radio and recording sounds audible more than 100 ft from source prohibited 10 pm–7 am weekdays, 11 pm–9 am weekends | sound section, §10.5 H3 5, Across the County |
+| P12 | `why sound travels farther over water lake temperature inversion acoustics` · FC search (excerpts) | https://www.acs.psu.edu/drussell/Demos/refract/refract.html ; https://www.reddit.com/r/askscience/comments/39p70z/why_does_sound_travel_farther_on_water/ | Penn State Graduate Program in Acoustics: temperature inversion (coolest near the ground) refracts sound back down; r/askscience: cooler water cools the air nearest it → inversion carries sound far | sound section, §9 Q3, §10.5 H3 5 |
+| P13 | `Putnam County NYSEG power outage storm customers without power` / `NYSEG Brewster division …` · FC search → FC scrape | https://www.nyseg.com/w/nyseg-refines-estimated-restoration-times-5-pm | April 14, 2020: 3,800 Brewster-division customers out after wind storm — 2,700 Putnam, 900 Westchester, 200 Dutchess | §5 para 4, §5.5 bullet 3 |
+| P14 | same · FC scrape | https://www.nyseg.com/w/brewster-nyseg-continues-restoration-effort-6-pm | Dec 25, 2020: 27,375 Brewster-division customers impacted (division = Dutchess, Putnam, Westchester); 7,990 still out at 6 pm; gusts to 71 mph; 175 downed wires, 11 broken poles | §5 para 4, §5.5 bullet 3, Storm Season |
+| P15 | same · FC scrape | https://www.nyseg.com/w/nyseg-making-steady-progress-restoring-service-in-westchester-putnam-and-dutchess-counties-final | Undated: ~4,400 of 86,000 Brewster-division customers out after violent storms | background only (no date) |
+| P16 | `Highlands Current Philipstown power outage Central Hudson …` · FC search → FC scrape | https://www.lohud.com/story/weather/2026/08/03/cold-spring-garrison-power-outage-affects-hundreds-of-customers/91156240007/ | Aug 3, 2026: 740 Central Hudson customers in Cold Spring/Garrison out from ~11:16 a.m.; Route 9D closures and flooding in Garrison | §5 para 4, Storm Season, Across the County (Philipstown) |
+| P17 | `ConnectALL award Putnam County locations broadband Comcast unserved 2025` · FC search → FC scrape | https://www.governor.ny.gov/news/governor-hochul-announces-broadband-projects-totaling-more-636-million-achieve-universal | Sept 17, 2025: $11,498,589 to Comcast with $5,033,776 match to serve 390 Putnam County locations with fiber | §5 para 5, §5.5 bullet 5 |
+| P18 | Putnam hazard mitigation plan Section 4 · FC scrape (re-verified) | https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf | Nine municipalities (6 towns, 3 villages), >240 sq mi; Philipstown, Putnam Valley, western Kent most rugged, many peaks >1,000 ft. (Commercial corridors Routes 6/9/22/52 + I-84, and Carmel largest town by 2010 pop, reused from smart-lock research P15, same PDF) | §5 para 1, §8 intro, Across the County (Carmel) |
+| P19 | `Village of Cold Spring historic district review board certificate of appropriateness exterior` · FC search → FC scrape | https://www.coldspringny.gov/DocumentCenter/View/2074/Certificate-of-Appropriateness-PDF ; https://www.coldspringny.gov/242/Historic-District-Review-Board | Not subject to review: regular maintenance, "Work which is not visible from the street", dangerous conditions, colour of exterior elements; HDRB reviews exterior changes in the district | §5 para 6, §7 card, §8.5, §13 card |
+| P20 | `Cold Spring NY village historic district Main Street 19th century houses West Point Foundry` · FC search (excerpts) | https://en.wikipedia.org/wiki/Cold_Spring_Historic_District ; https://www.iloveny.com/listing/cold-spring-historic-district/131424/ | "one of the best-preserved 19th century townscapes in the Hudson River region"; most buildings pre-Civil War when West Point Foundry was at peak | §5 para 6, §13 card |
+| P21 | `Clarence Fahnestock State Park Canopus Lake …` · FC search → FC scrape | https://en.wikipedia.org/wiki/Clarence_Fahnestock_State_Park | 22.4 sq mi, Putnam & Dutchess; spans parts of Putnam Valley, Kent, Carmel; ~2,400-acre donation in 1929; Canopus Lake beach | §13 card |
+| P22 | Putnam County communities · FC scrape | https://en.wikipedia.org/wiki/Putnam_County,_New_York | Hamlet / CDP lists per town (Patterson, Putnam Valley, Southeast hamlets; CDPs Brewster Heights, Brewster Hill, Carmel, Lake Carmel, Mahopac, Peach Lake, Putnam Lake, Dykemans, Farmers Mills, Garrison, Gayville, Lake Peekskill, Ludingtonville, Milltown, Sodom, Tompkins Corners); Manitou station in Philipstown | §13 "we also install" line, LocalBusiness areaServed |
+| P23 | `Sonos Amp speaker wire gauge distance long run recommendation support` · FC search → FC scrape | https://support.sonos.com/en-us/article/choosing-a-speaker-wire-gauge ; https://support.sonos.com/en-us/article/set-up-your-sonos-amp (excerpt) | <80 ft 16 AWG; 80–200 ft 14 AWG; 200–300 ft 12 AWG; runs over 300 ft not recommended; Amp setup: 12–16 gauge recommended | From the House to the Water table, §9 Q1, §10.5 H3 2, FAQ 8 |
+| P24 | `Ethernet cable maximum length 100 meters 328 feet Cat6 TIA` · FC search (excerpts) | https://en.wikipedia.org/wiki/Category_6_cable ; https://www.comms-express.com/infozone/article/cable-distance/ | 10/100/1000BASE-T max 100 m (328 ft) | network subsection, §9 Q5, §10.5 H3 3 |
+| P25 | `NEC Article 555 private residential docks boathouses GFPE …` · FC search → FC scrape | https://www.mikeholt.com/files/PDF/FREE_PDF_Marinas_and_Docks_2023.pdf | 555.1: Article 555 covers wiring and equipment for marinas, boatyards and docking facilities; shore power receptacles need GFPE ≤30 mA. (Page states only "covers docking facilities, strict ground-fault rules; electrician's work" — no claim on exact private-dock applicability.) | water/power subsection, §9 Q2, §10.5 H3 4 |
+| P26 | `reddit sonos lake house dock speakers boathouse wifi` · FC search → FC scrape | https://en.community.sonos.com/what-to-get-228989/recommendations-for-best-sonos-product-for-dock-that-has-power-and-wifi-6888237 | Community answers: "Actual WiFi extenders aren't supported by Sonos"; "WiFi meshes are supported, as are hard-wired access points"; all on same IP subnet; Move 2 / Roam suggestion; single mesh across house, dock and property | network subsection (paraphrased, attributed), §10.5 H3 1 |
+| P27 | `support.sonos.com automatic updates …` · FC search (excerpt) | https://support.sonos.com/en-us/article/update-your-sonos-speakers | "To schedule when you'd like your Sonos system to automatically update, you can select one of the following two-hour periods by selecting Scheduled." | §9 Q11 (seasonal), process step 6 |
+| P28 | `Sonos Roam 2 Bluetooth away from WiFi battery IP67` · FC search (excerpts) | https://www.sonos.com/en-us/guides/roam2 ; https://www.sonos.com/en-us/shop/roam-2 | Roam 2 IP67, "can be submerged in water up to 3 ft (1 meter) for several minutes"; WiFi + Bluetooth; 10 h battery | equipment card, FAQ 7, distance table |
+| P29 | Dig Safely / 811 (reused from research/fiber-optic-installation.md, not re-fetched) | https://www.cenhud.com/en/my-energy/safety/dig-safely | 811; at least two and no more than ten days' notice; free; utilities mark their lines | "Before anyone digs", FAQ 3 |
+| P30 | Putnam Ch. 135 contractor registration (reused from research/smart-lock-installation.md P16, not re-fetched) | https://putnamcountyny.gov/laws/item/local-law-no-10-of-2013-amend-chapter-135-code-of-putnam-county-entitled-contractors | Home improvement businesses must register in Putnam. Page does NOT claim AESS is registered; tells readers to ask. | §8.5 bullet 4 — **flag for Anwar: confirm AESS's Putnam registration** |
+| P31 | Optimum / BroadbandNow Putnam Valley · FC search (excerpts) | https://broadbandnow.com/New-York/Putnam-Valley | Fiber 53.4% / cable 93.6% availability claims (third-party) | not used (third-party estimates) |
+| P32 | `reddit Putnam County NY internet Optimum outage Mahopac Carmel Brewster` · FC search | — | No results → EMPTY | — |
+| P33 | `NYSEG list of electricity outages` · FC scrape | https://www.nyseg.com/w/list-of-electricity-outages | Live page; search excerpt showed 39,551 Putnam customers, scrape returned no answer → not used | — |
+
+### Sources that came back EMPTY
+- Google PAA / PASF / Answer the Public / AI Overview — EMPTY (not accessible in build env); §10.5 says so and uses common assumptions + Angi (silo) instead.
+- Bing / DuckDuckGo — EMPTY (not accessible in build env).
+- Yelp 1–3★ for Putnam Sonos/AV installers — EMPTY (not accessible in build env).
+- Local news (Lohud, Highlands Current, Mahopac News, Patch) on Sonos/home audio specifically — EMPTY for the service category; Lohud used for the outage only.
+- Local Reddit on Sonos in Putnam — EMPTY; only the r/upstate_new_york Lake Peekskill housing excerpt used.
+- Field Notes — no sourced Putnam job anecdote; written as general installer practice and labelled.
+
+### Pricing used (published AESS lines only)
+tv-mounting-prices-putnam-county.html (read 2026-10-17) + HV hub county lines: Sonos / wireless surround $125; soundbar wall-mounted $129 / placed $79; Sanus bracket $84.99; in-wall concealment $169; cord cover $59; cable run ≤25 ft $99; A/V receiver $129; universal remote $99; streaming device $49; full home theater $350; walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile +$95; backer $85; high mount $75; walk-up $40; box removal $25; COI free; setup-only first hour $250 then 30-min blocks; TV base $229.99; return trip $150; free reschedule 24 h; "No travel or parking charge" (Putnam list). Packages $125 / $254 / $606.99 = sums of lines. Outdoor zones, links, ceiling speakers, UPS/surge = quoted at walkthrough. Bigger systems: av-sound-installation-putnam-county.html package ranges ($1,200–$5,000 entry; $12,000–$35,000 whole-home Sonos + Atmos), cited as that page's published ranges.
+**Conflicts for Anwar:** (1) av-sound-installation-putnam-county.html labels its entry package "Includes +30% Putnam County markup" — inconsistent with the blueprint §9 Putnam 1.45× multiplier. (2) tv-mounting-prices-putnam-county.html shows "Haul away old TV / remove boxes $79 / $25"; page uses box removal $25 only. (3) Lake Oscawana acreage: association 364 vs Wikipedia 386 (page uses 364, attributed).
+
+### Images (11, permanent image rule — Drive folder EMPTY, CompanyCam not connected; index set i % 3 == 1 of sorted images/low-voltage/)
+All viewed; cropped with Pillow to remove technicians' faces (profiles), a "Community Center" sign and a readable "3RD FLOOR IDF CLOSET / IDF-3A" sheet; WebP q80 (≤1600 wide). Library photos look AI-rendered (uniform "Abstract Enterprise LLC" shirts printed with the 800 number, perfect lighting) — same flag as earlier pages; replace with real AESS photos when available.
+| New file (images/sonos-installation/) | Source (images/low-voltage/, index) | Crop | Prior Sonos use of same photo |
+|---|---|---|---|
+| sonos-installation-putnam-county-ceiling-speaker-lift-amp-cart.webp (hero, eager) | low-voltage-installation-putnam-county-hero-ceiling-speaker-conference.jpg (199) | x≥450 | yes (NYC/Manhattan/Brooklyn/HV) |
+| …-outdoor-enclosure-conduit.webp | low-voltage-installation-rockland-county-11-exterior-enclosure-install.jpg (232) | x≥630 | yes (Queens/HV/LI) |
+| …-tv-wall-recessed-box.webp | low-voltage-installation-suffolk-county-display-recessed-box.jpg (274) | x≥790 | yes |
+| …-steel-stud-cable-feed.webp | low-voltage-installation-suffolk-county-stud-rough-in-boxes.jpg (280) | x≥580 | yes (LI/HV/NYC) |
+| …-conduit-box-cable-pull.webp | low-voltage-installation-nassau-county-riser-conduit-pull.jpg (139) | x≥640, y≥230 | HV only |
+| …-rack-switch-laptop.webp | low-voltage-installation-rockland-county-05-rack-switch-config.jpg (226) | x≥640 | yes (HV/LI/NYC) |
+| …-dining-ceiling-speaker.webp | low-voltage-installation-suffolk-county-14-restaurant-ceiling-speaker.jpg (271) | x≥560 | yes |
+| …-fiber-fusion-splicer.webp | low-voltage-installation-brooklyn-fiber-fusion-splice.jpg (34) | x≥720 | **not on any Sonos page** |
+| …-access-point-ceiling-tile.webp | low-voltage-installation-dutchess-county-10-access-point-lift-install.jpg (49) | x 570–1230, y≤700 | LI only |
+| …-wall-patch-panel-build.webp | low-voltage-installation-dutchess-county-04-idf-patch-panel-build.jpg (43) | x≥660, y≤730 | **not on any Sonos page** |
+| …-tone-probe-wall-cable.webp | low-voltage-installation-nyc-tone-generator-trace.jpg (169) | x≥610 | yes (HV/LI) |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-putnam-county
+Checked by meaning against the NYC, LI, HV, Manhattan, Brooklyn, Queens registers and the Orange and Dutchess pages on disk (2026-10-17). Deliberately avoided (owned elsewhere): barn/garage 150 ft network (HV), Amp in unheated barn (HV), outdoor speakers in freezing winters (HV), Move 2 vs wired for porch/dock (HV), weekend-house remote control / power-cut recovery / rental guests / rural internet down / satellite (HV), patio neighbours / pool distance / backyard on Wi-Fi (LI), noise code backyard (Queens), LPC/historic approval (NYC; Cold Spring HDRB kept in body text only), generator Q (Dutchess), siding mounts (Queens), shared roof deck (Brooklyn), coverage-by-area FAQ (Manhattan), caretaker contact (Dutchess).
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s (The lawn, the deck and the dock · Garages, boathouses and the far end of the drive · Lake bungalows and cottages · The seasonal house and storm season · Commuter houses on the ridge roads)
+1. How far down the lawn can a wired speaker go before the Amp has to move closer to the water?
+2. Can speakers on the dock run off the dock's existing outlet?
+3. Why does the music sound louder from across the lake at night than it does on our own deck?
+4. Can outdoor speakers be fixed to dock posts or the boathouse instead of the house wall?
+5. When does the run to the boathouse or garage need fiber instead of network cable?
+6. Our detached garage has its own electrical panel — does that change how the music gets out there?
+7. Lightning struck a tree near the house last summer — can a surge travel in on the outdoor speaker wire?
+8. Our winterized Putnam Lake bungalow has low ceilings and no attic — where can speakers go?
+9. The cottage has been added onto three times — why does Wi-Fi die past the old part of the house?
+10. There's only a crawlspace under the cottage — can speaker wire run beneath the floor?
+11. We close the lake house from Labor Day to Memorial Day — what should happen to the Sonos system over the winter?
+12. Is a battery backup worth adding for the router and the Sonos Amp?
+13. Our split-level has half-flights between every room — can one Sonos zone cover the stair hall and the rooms off it?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Is there a travel charge for Sonos work at a Putnam lake house?
+2. Can the deck pair and the dock pair on one Amp play at different volumes?
+3. Who digs the trench for the cable to the dock or garage?
+4. Is a screened porch indoors or outdoors as far as a Sonos speaker is concerned?
+5. Our property has a main house and a guest cottage with separate internet. Can they share one Sonos system?
+6. Can you do outdoor work in winter when the ground is frozen?
+7. Can we take a Sonos speaker out on the boat?
+8. What kind of cable goes to the dock? Will ordinary speaker wire do?
+
+### Other question-form headings
+- H2 "Lake-House Sonos Gone Silent After a Storm?" (repair capture)
+- H2 "Ready to Measure the Run to the Water?" (CTA)
+- H2 "Deck or Dock Speakers Quiet Tonight in Putnam?" (final repair capture)
+
+Partial overlaps left for main-run judgment: Q12 battery backup vs HV "recover by itself after a power cut while nobody is there" (UPS for flickers while occupied vs unattended recovery); Q5/Q6 fiber-vs-copper vs HV "music to a barn 150 ft" (link medium/threshold vs getting music there at all); FAQ 7 boat vs Queens balcony portable (boat/Bluetooth/IP67 vs high-rise balcony fixture rules).
+
+Masked paragraph similarity (difflib, ≥12-word blocks, NAP/pricing/forms excluded): all paragraphs < 0.65 vs every Sonos page incl. Orange/Dutchess drafts and vs smart-lock/soundbar/tv-mounting Putnam pages, except standardized price-table cells and the NAP line.
+
+
+<!-- batch 2026-10-17: sonos-installation-dutchess-county -->
+## Dutchess County (sonos-installation-dutchess-county)
+
+Built 2026-10-17 by the Dutchess subagent (batch with Orange and Putnam). Area page, up-link /sonos-installation-hudson-valley, direct line (845) 640-3835 (800 only in shared header chrome), Bronx GBP (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote query mode). Silo-wide Sonos facts (system requirements, interference table, Amp 125 W / 32–104°F / 3 in clearance, Port 2 in / radiators, in-ceiling 8.25 in cut-out, three pairs per Amp, outdoor pair IP66 −13°F–149°F, Move 2 IP56 / indoor base, Roam 2 IP67, Era 300 stud-only mount, Era 100 Pro PoE+, Combo Adapter $39, Trueplay, guest access, volume limit, alarms, Angi $500–$1,000/room) are reused from earlier sections of research/sonos-installation.md and not re-listed.
+
+**Thesis (distinct from Orange = newer subdivisions/builder pre-wire, Putnam = lake houses/long drives, HV hub = plaster/stone + outbuildings + second homes):** Dutchess's old-house audio problem — plaster-and-lath, balloon frames, fieldstone, original ornament that cannot be cut → a room-by-room no-cut wireless plan, one wired anchor routed basement-up/attic-down with fireblocking, Class 2 separation from knob-and-tube, vermiculite left alone; historic rules that govern the street view, not the interior (Beacon HDLO definition, NPS National Register FAQ, Rhinebeck listing); Beacon mill lofts with mezzanines; Main Street mixed-use with pressed-tin ceilings and licensed business music; estates/farms with barns (dust IP digit, chore alarms, DJ line-in); Central Hudson outages and generator power quality.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | FC search `reddit Poughkeepsie OR Beacon OR Rhinebeck old house plaster speakers wiring sonos` → https://www.reddit.com/r/sonos/comments/1b5r5z2/old_house_plaster_walls_cant_get_through_a_song/ (thread title "Old house, plaster walls, can't get through a song cleanly"; excerpt "consider wiring your oldest Sonos product to one of the wireless Deco hubs" — advice NOT repeated, conflicts with Sonos guidance) → §5 para 3 (title quoted). r/hudsonvalley / r/Poughkeepsie Sonos threads: EMPTY. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 written as assumptions in circulation, stated so on page |
+| 6 | Landmarks | L1–L6 below |
+| 7 | Use cases / building stock | D1–D16 below |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Central Hudson releases (D14); Sonos/home-audio Dutchess news: EMPTY |
+| 10 | Hyperlocal | Poughkeepsie Public Library District (L4); Highlands Current / Daily Freeman / Mid-Hudson News Sonos stories: EMPTY |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix — new this page
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| D1 | `City of Beacon historic district landmark overlay zone exterior alterations certificate of appropriateness Planning Board` · FC search → FC scrape (pdf) | https://beaconny.gov/wp-content/uploads/2024/12/Attachment-G-City-of-Beacon-Code-Chapter-134-re-Historic-District-and-Landmark-Overlay-Zone.pdf | Ch. 134: ALTERATION = act changing identified historical features "visible from a public street, public sidewalk or public park"; "alteration excludes maintenance, repair or replacement … as well as plumbing and/or electrical work and any minor, accessory, utility or security-related changes that do not substantially detract from the historic property"; in HDLO zone a building permit and certificate of appropriateness (Planning Board) required for an alteration. | §8.5 bullet 2, §9 Beacon porch Q, §10.5 H3 3, Across (Beacon) |
+| D2 | `Beacon NY loft apartments converted factory mill building exposed brick timber` · FC search → FC scrape | https://www.loftsatbeacon.com/ | "originally built in 1870 as a brick textile mill"; "89 lofts and penthouses range from 685 to 2112 square feet most featuring a mezzanine loft"; "exposed brick, 15-20' ceilings and mezzanine loft flex space"; 18 Front Street, Beacon 12508. | §5 para 4, §5.5 stat, §7 card, §13 card, §9 mezzanine Q |
+| D3 | `pressed tin ceiling Main Street Beacon OR Poughkeepsie storefront restored historic building` · FC search → FC scrape (pdf) | https://www.nps.gov/orgs/1739/upload/preservation-brief-49-metal-ceilings-walls.pdf | NPS Preservation Brief 49: "tin ceilings" widely used "in such diverse structures as Main Street shops, offices, restaurants…"; pressed steel laid over lathing strips nailed to joists; "Plumbing pipes, electrical fixtures, and other apertures over time cannot only affect the structural soundness of the ceiling, but also destroy the visual continuity of the ceiling pattern"; "character-defining interior finishes"; lead paint likely. No Beacon/Poughkeepsie-specific tin-ceiling source found → page says Main Street buildings "many with pressed-metal ceilings of the kind the NPS describes" (general). | §5 para 4, §7.5 table, §8 cards, §9 tin Q, glossary |
+| D4 | `Staatsburgh State Historic Site Mills Mansion rooms Beaux-Arts McKim Mead White 1895` · FC search | https://millsfriends.org/mansion/ (excerpt); https://www.hudsonrivervalley.com/sites/Staatsburgh-State-Historic-Site-/details (excerpt says 79 rooms — conflict) | Friends of Mills: "After completion in 1896, the house had been transformed into a Beaux-Arts mansion of 65 rooms and 14 bathrooms"; work began 1895 (FB excerpt); McKim, Mead & White. Page attributes 65/14 to the Friends; 79-room figure not used. | §13 card |
+| D5 | `Howland Cultural Center Beacon 1872 Richard Morris Hunt library building concerts` · FC search | https://www.howlandculturalcenter.org/ (excerpt) | "established in 1979 … historic 1872 Richard Morris Hunt building, originally designed as a circulating library"; Howland Chamber Music Circle. | §13 card |
+| D6 | `Old Rhinebeck Aerodrome Red Hook airshows museum Cole Palen hangars` · FC search | https://oldrhinebeck.org/about-cole-and-rita-palen/ (excerpt); https://oldrhinebeck.org/airshows/ (excerpt); https://m.yelp.com/biz/old-rhinebeck-aerodrome-red-hook-2 (locality "Red Hook" from URL) | runway "hewn from three rocky fields and hangars built from rough lumber"; air shows Saturday and Sunday. | §13 card |
+| D7 | `Millbrook village historic district Franklin Avenue National Register Dutchess` · FC search → FC scrape | https://villageofmillbrookny.gov/Government/ | Village in Town of Washington; 1697 Nine Partners Patent (~150,000 acres Hudson to Connecticut); name from 1860s; railroad station unified hamlets; incorporated 1895; "maintained its traditional streetscape, architectural heritage". (Franklin Ave not confirmed → not named.) | §8 card, §13 card |
+| D8 | (direct) Poughkeepsie Cast Iron Building · FC search result → FC scrape | https://poklib.org/poughkeepsie-architecture-the-cast-iron-building/ | Dec 26 1870 fire at 301 Main St spread through block at Garden and Main; rebuilt by architect/builder James S. Post; ~$36,000; ready for tenants 1872; 54 ft; cast-iron facade by Ætna Iron Works of NYC. | §8 card, §13 card |
+| D9 | `National Register of Historic Places listing private owner restrictions "no restrictions" private funds own property NPS` · FC search | https://www.nps.gov/subjects/nationalregister/faqs.htm (excerpt) | "Under Federal Law, the listing of a property in the National Register places no restrictions on what a non-federal owner may do with their property up to and including destruction, unless the property is involved in a project that receives Federal assistance, usually funding or licensing/permitting." | §9 National Register Q, §10.5 H3 3 |
+| D10 | `EPA vermiculite attic insulation asbestos do not disturb homeowners guidance` · FC search | https://www.epa.gov/asbestos/protect-your-family-asbestos-contaminated-vermiculite-insulation (excerpt) | "assume that vermiculite insulation is from Libby and treat the material as if it contained asbestos by not disturbing it or by using a trained professional if it needs to be removed"; "Leave vermiculite insulation undisturbed in your attic or in your walls." | Wire-routes section, §9 vermiculite Q, §10.5 H3 2, glossary |
+| D11 | `New York State Residential Code R302.11 fireblocking balloon frame stud spaces penetrations wires` · FC search → FC scrape | https://codes.iccsafe.org/s/NYSRC2020P1/chapter-3-building-planning/NYSRC2020P1-Pt03-Ch03-SecR302.11 | 2020 RCNYS R302.11: fireblocking to cut off vertical and horizontal concealed draft openings; item 4 "At openings around vents, pipes, ducts, cables and wires at ceiling and floor level, with an approved material to resist the free passage of flame and products of combustion." | Wire-routes section, §8.5, §9 fire Q, process step 5, glossary |
+| D12 | `NEC 725.136 Class 2 cables separation from electric light power conductors same raceway enclosure` · FC search | https://forums.mikeholt.com/threads/class-2-separation-from-power.2590886/page-2 (excerpt quoting 2023 NEC 725.136(I)(1): "Conductors of Class 2 circuits shall be separated by at least (2 in.) from conductors of any electric light, power, …"); https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-232840 (NYC code 725.136 excerpt) | 2 in separation of Class 2 from power conductors (attributed on page to the NEC's Class 2 rules; source is a forum quoting the code — flag). | Wire-routes section, §9 knob-and-tube Q |
+| D13 | `old house knob and tube wiring Hudson Valley homes inspection insurance Dutchess` · FC search | https://windsorrealtysvs.com/2026/09/21/home-inspectors-hudson-valley-buyers/ (excerpt: "Older homes … buyers should expect some quirks. Knob-and-tube wiring, ungrounded outlets, older electrical panels…"); FB / NY electrician excerpts on insurers (not used beyond "insurers frequently ask") | Hudson Valley home-inspection guidance lists knob-and-tube among old-house quirks. | Wire-routes section, §9 knob-and-tube Q |
+| D14 | `Central Hudson outage Dutchess County customers 2026 storm restoration` · FC search | https://www.cenhud.com/en/news/2026/central-hudson-restoration-efforts-continue/ (excerpt: Sept 27 2026, restored power to "more than 20,000 customers affected by the powerful, slow-moving nor'easter"; Dutchess 95% target Sun Sept 27 8 p.m.); July 4 2026 storm ~50,000 at height (soundbar research, excerpt) | §5.5 stat ("more than 20,000 … restored within a day" — wording follows the release timing), §10.5 H3 7 ("tens of thousands"), §9 generator Q |
+| D15 | `inverter generator clean power sensitive electronics total harmonic distortion less than 3% home standby` · FC search | https://support.generac.com/s/article/Which-Generac-portable-generators-have-TruePower-technology (excerpt) | "All Generac portable inverters feature TruePower™ technology capable of producing Clean Power THD < 3%" (title: "safe for sensitive electronics"). | §9 generator Q, §10.5 H3 7 |
+| D16 | `Spotify terms of use personal non-commercial use business background music license restaurant store` · FC search | https://support.spotify.com/us/article/spotify-public-commercial-use/ (excerpt) | "Spotify is only for personal, non-commercial use. This means you can't broadcast or play Spotify publicly from a business, such as bars, restaurants, schools, stores, salons…". soundtrack.io excerpt (other consumer services similar) used only as "other consumer services carry similar terms". | §8.5 bullet 1, §9 shop Q, §10.5 H3 5 |
+| D17 | `IP rating explained first digit dust 5 dust protected 6 dust tight IEC 60529` · FC search | https://www.iec.ch/ip-ratings (excerpt: first numeral 0–6, 6 = no ingress of dust); https://en.wikipedia.org/wiki/IP_code (5 dust protected, 6 dust-tight) | §9 dust Q, glossary |
+| D18 | `fiber optic link between buildings lightning protection …` · FC search | https://www.reddit.com/r/HomeNetworking/comments/nvc4zs/surge_protection_on_ethernet_running_between/ (excerpt: fiber "inherently resistant to surges"); https://community.spiceworks.com/t/in-need-of-surge-protection-lightning-got-em-good/414986 (excerpt: "use non-conductive connections between the buildings (ie, fibre)"); truecable.com (SPD at entry) | §9 barn lightning text (statement heading), §10 network table, SVG 2, repairs list |
+| D19 | `sonos.com Era 100 weight dimensions lb` · FC search | https://www.sonos.com/en-us/shop/era-100 (excerpt 7.22 in tall, 4.45 lb); https://www.sonos.com/en-us/guides/era100 (excerpt 7.18 in, 4.85 lb, operating 32–104°F) | Weights conflict → page says "under 5 pounds", "a little over 7 inches"; Era 100 operating to 104°F. | §9 picture-rail Q, §10 card, FAQ radiator/fireplace |
+| D20 | Sonos alarms (reused, Brooklyn section) | https://support.sonos.com/en-us/article/set-an-alarm-on-sonos | time, room, music, volume, repeat, duration; max 32 alarms | §9 chore-alarm Q |
+| D21 | EPA RRP minor repair ≤6 sq ft (reused, research/smart-lock-installation.md D3) | https://www.epa.gov/lead/if-project-disturbs-six-square-feet-or-less-interior-surface-or-20-square-feet-or-less | ≤6 sq ft interior = minor maintenance/repair, not renovation | FAQ dust/lead |
+
+### Reused from earlier repo research (not re-fetched)
+Stacker 18.0% (22,056) pre-1940, median 1971 (silo HV) · Census QuickFacts Dutchess 124,843 units, 69.2% owner-occupied, 93.5% broadband (research/soundbar-installation.md / smart-lock D1) · USDA 2022 620 farms avg 161 acres (smart-lock reuse table) · Union Street HD NRHP Dec 1971, Academy Street HD NRHP 1982 (soundbar Dutchess) · Wappingers Historical Society IBM-era suburbanization (soundbar Dutchess) · Village of Rhinebeck HD listing gives no automatic protection / overlay (smart-lock D15) · City of Poughkeepsie HDLPC reviews exterior changes (smart-lock D16) · CIA Hyde Park student-run restaurants (smart-lock D22) · tv-mounting-prices-dutchess-county "no travel charge from Beacon to Pine Plains" (repo page).
+
+### EMPTY
+Google PAA/PASF/ATP/AI Overview, Bing/DDG, Yelp 1–3★ (not accessible in build env); r/hudsonvalley, r/Poughkeepsie, r/Beacon Sonos threads; Dutchess Sonos/home-audio local news; Beacon/Poughkeepsie-specific pressed-tin source; Dutchess wedding-barn venue source (not searched — page speaks generally); Field Notes: no sourced Dutchess job → written as labelled general practice.
+
+### Prices (published AESS lines only)
+Sonos setup $125 · soundbar wall-mounted $129 / placed $79 · Sanus bracket $84.99 · cord cover $59 · in-wall concealment $169 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · Dutchess TV base $254.99 · Dutchess setup-only $275 first hour then 30-min blocks · walls +$30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · return trip $150 · free reschedule 24 h · no travel charge in county. Sources: sonos-installation-hudson-valley.html price table; tv-mounting-prices-dutchess-county.html. Packages = sums: $125; $383.99 (129+84.99+45+125; $204 on console); $652.98 (254.99+129+84.99+59+125). Ceiling/in-wall/outdoor/Amp zones, cable routes, outbuilding links = quoted at walkthrough. §9 1.53× NOT applied (follows HV hub + Dutchess price list, as the soundbar Dutchess page flagged).
+**Conflicts / flags:** (1) tv-mounting-prices-dutchess-county says full payment online at booking; mandatory terms sentence says 50% deposit (silo-wide flag). (2) av-sound-installation-dutchess-county ranges not used. (3) NEC 2-in Class 2 separation sourced via a forum quoting the code (D12) — confirm acceptable. (4) Staatsburgh room count conflict (65 vs 79) → Friends' 65 used with attribution.
+
+### Images (11 — permanent image rule; Drive folder EMPTY, CompanyCam not connected; source index set i % 3 == 2 of sorted images/low-voltage/)
+All viewed. Every source shows the uniform AI-rendered look (logo shirts printed with "800-486-0943", misspelled "LOW VOLTAGE DIVISON" on the crew photo) — flag. All 11 cropped with Pillow to remove faces/profiles, shirt phone numbers, a readable "3RD FLOOR IDF CLOSET IDF-3A" sheet and "Community Center" signage; WebP q80, ≤1080 px wide.
+| New file (images/sonos-installation/) | Source (images/low-voltage/, index) | Crop box | Also on a Sonos sibling (same photo, other crop)? | Section |
+|---|---|---|---|---|
+| sonos-installation-dutchess-county-round-ceiling-speaker-lifted-to-tile.webp (hero, eager) | low-voltage-installation-bronx-ceiling-speaker-conference.jpg (14) | 450,0,1400,1120 | HV hub | Hero |
+| …-ceiling-access-point-gloved-hands.webp | low-voltage-installation-putnam-county-10-access-point-lift-install.jpg (194) | 600,0,1400,560 | LI | §5 |
+| …-tv-wall-recessed-box-cable.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg (29) | 400,0,1180,1120 | NYC/LI/Manhattan | §6 |
+| …-cable-fished-through-stud-to-box.webp | low-voltage-installation-hudson-valley-stud-rough-in-boxes.jpg (74) | 640,0,1400,1120 | NYC | §7 |
+| …-tone-probe-tracing-wall-cable.webp | low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg (47) | 720,0,1400,1120 | LI | Wire routes |
+| …-ceiling-speaker-pressed-into-cutout.webp | low-voltage-installation-bronx-13-restaurant-ceiling-speaker.jpg (11) | 590,0,1400,1120 | Queens hero etc. | §8 |
+| …-fiber-fusion-splicer-building-link.webp | low-voltage-installation-dutchess-county-05-fiber-fusion-splice.jpg (44) | 770,0,1400,1120 | not on a Sonos page | §9 barn |
+| …-brick-wall-weatherproof-box-conduit.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg (134) | 700,0,1400,1120 | LI, Queens | §9 barn |
+| …-patch-panel-terminations-on-studs.webp | low-voltage-installation-bronx-idf-patch-panel-build.jpg (17) | 770,0,1400,720 | not on a Sonos page | §10 |
+| …-crew-pulling-cable-open-ceiling.webp | low-voltage-installation-hudson-valley-14-crew-ceiling-cable-pull.jpg (68) | 0,0,1080,933 | Manhattan | §12 |
+| …-cable-basket-tray-high-roof.webp | low-voltage-installation-brooklyn-05-warehouse-cable-tray-highbay.jpg (23) | 660,0,1400,700 | not on a Sonos page | §13 |
+Rejected after viewing: storefront-camera-cabling (camera job, readable store-hours sign), keystone wall plate (not needed), brooklyn fiber-splice-tray (duplicate subject). DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+Also on page: four inline SVG schematics drawn for this page (old-house wire routes cross-section; no-cut parlor plan; mill loft with mezzanine; estate/barn network plan) — labelled "schematic, not to scale"; no photos, no AI imagery.
+
+## Question register — sonos-installation-dutchess-county
+Checked by meaning against NYC, LI, HV, Manhattan, Brooklyn, Queens registers and the Orange and Putnam pages on disk (~09:40). Replaced during build to avoid overlap: travel-charge FAQ (Putnam has the same intent → replaced with radiator-cover FAQ), barn-lightning Q (Putnam lightning/fiber Qs → kept as a statement heading in body text, new chore-alarm Q added), loft 15-ft-ceiling Q (Manhattan 12-ft loft Q → reframed as mezzanine), historic-district approval Q (NYC LPC → reframed as keeping porch wire out of street view + National Register Q).
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s (Plaster, lath and old framing · Historic districts and listed houses · Beacon lofts and Main Street buildings · Estates, farms and barns · Storms, outages and generators)
+1. Our Poughkeepsie Victorian has plaster cornices and a ceiling medallion in the parlor — where can speakers go without touching them?
+2. Can speakers hang from the picture rail so the walls are never drilled?
+3. Do the holes drilled for speaker wire have to be sealed for fire safety?
+4. We found knob-and-tube wiring in the walls — can speaker cable share those cavities?
+5. There's loose vermiculite insulation in our attic — can ceiling speaker wire still come down through it?
+6. Our house is on the National Register — does that restrict what we install inside?
+7. Can the wire for porch speakers on a Beacon house in the historic overlay stay out of sight from the street?
+8. The TV wall is original plaster we won't open — how do the soundbar's cables disappear?
+9. Our Beacon loft has a mezzanine over the living area — how do we keep the sound even on both levels?
+10. Can Sonos speakers be fitted into a pressed-tin ceiling in a Main Street shop?
+11. Can the shop downstairs play licensed business music while we stream our own playlists upstairs?
+12. Will dust from a hay barn or riding arena ruin a speaker?
+13. Our barn hosts parties and the odd wedding — how can a guest or a DJ plug in without changing our Sonos setup?
+14. Can the barn speakers switch themselves on for morning chores and off again?
+15. Will the Sonos keep playing on generator power when Central Hudson is out?
+(Statement heading, not a question: "Lightning and the cable out to the barn".)
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Can a Sonos speaker sit on a radiator cover?
+2. Is there an extra charge for a speaker or soundbar mounted high on a loft wall?
+3. Our house was built before 1978 — how do you keep plaster and paint dust under control when drilling?
+4. Who pays if old plaster cracks while you are drilling?
+5. Can the Sonos Amp sit inside a closed antique cabinet or built-in?
+6. Can the soundbar go under a TV mounted over a fieldstone fireplace?
+7. Can you leave a pull string so more speakers can be added later without opening the walls again?
+8. Can our estate manager or caretaker be the contact for the visit?
+
+### Other question-form headings
+- H2 "Music Breaking Up Behind the Plaster?" (repair capture)
+- H2 "Want the Wireless and Wired Rooms Marked on Your Floor Plan?" (CTA)
+- H2 "Dutchess Sonos Gone Quiet Tonight? We Can Help" (final repair capture, no "?")
+
+Partial overlaps left for main-run judgment: FAQ 3 (lead-safe dust practice) vs Manhattan §9 Q3 (building-required lead/asbestos testing) — different intent (installer work practice vs board requirement); FAQ 4 (plaster crack liability) — answer points to the service agreement, no new policy stated; §9 Q15 generator vs Putnam "battery backup for router and Amp" (generator power quality vs UPS).
