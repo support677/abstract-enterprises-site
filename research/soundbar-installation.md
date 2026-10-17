@@ -3702,3 +3702,322 @@ FAQ (§17) — 5:
 Other question-form headings (repair capture, not Q&A/FAQ): "Bar Went Quiet Between Eighth Avenue and the River?", "Soundbar Down on a Game Night or Before an Opening?"
 
 De-dup notes: compared by meaning against all 644 question headings/FAQs on the 31 live soundbar pages. Dropped during build: a structural-steel-brace question (same intent as Tribeca's cast-iron column question) and a free-COI FAQ (same intent as Nassau's COI-cost FAQ). Deliberately avoided: board approval in general, COI contents/cost, freight-elevator hours, co-op weekday hours (UWS/Riverdale), NYCHA consent in general (Bronx), moving between apartments in general (Brooklyn/Nassau/Rockland), condo mostly glass (Manhattan), sidewalk-level window sound (Harlem), sub vs neighbours (NYC), night mode, radiator cover, AC sleeve, LPC approval (Brooklyn/St. George), gallery hidden speaker (Dutchess), cast-iron column (Tribeca), rolling cart, alteration application documents (LIC).
+
+
+## Upper East Side, Manhattan (soundbar-installation-upper-east-side-manhattan-ny)
+
+Built 2026-10-17 by a batch subagent (neighbourhood page; up = /soundbar-installation-manhattan, hub = /soundbar-installation-nyc; phone (929) 560-0737; GBP Bronx #bronx, 460 E Fordham Rd). Batch-mates: soundbar-installation-brooklyn-heights-brooklyn-ny, soundbar-installation-flushing-queens-ny. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (markdown or directQuote query mode). Silo-wide technical sources (ADA 307.2, LMEs for outlets, Sanus bracket, Manhattan price menu) reused from the silo research and the Manhattan section; not re-fetched.
+
+**Thesis (not a geo-swap of the Manhattan or Upper West Side pages):** the finished room and the building's paperwork. On the UES the living room is usually already decorated (upholstered walls, hung art, lacquer/decorative plaster, joinery) and the building runs a formal contractor regime (decoration vs alteration agreements, service entrances, operator-run elevators, maisonettes and ground-floor professional units). Building eras: Gilded Age townhouses in the UES/Park Ave/Carnegie Hill/Henderson Place districts; 1910s–30s Park/Fifth co-ops (Carpenter, Candela); Yorkville walk-ups; postwar white-brick towers; post-2017 Second Avenue Subway towers. UWS page = rooms planned before TV + house rules + courtyard acoustics; Manhattan page = vertical access chain; this page = finished interiors + approval tier + access route.
+
+### 1. Reddit (Firecrawl search excerpts; Firecrawl does not scrape reddit.com — threads not opened)
+- Query: `reddit UpperEastSide mount TV co-op alteration agreement handyman soundbar` · Firecrawl search
+  - https://www.reddit.com/r/uppereastside/comments/1nhuxek/looking_for_a_reliable_contractor_for_small_jobs/ — "Most, if not all co-ops will need you to fill out an Alteration Agreement or something similar before you start anything." → §9 decoration/alteration statement H3 (paraphrased + quoted).
+  - https://www.reddit.com/r/AskNYC/comments/rv9tht/getting_approval_for_renovating_a_coop/ — "many coops will have renovation 'alteration' agreements which are more complex, and 'decoration agreements' which are much simpler." → background for §9 / §10.5 H3 3 (not quoted).
+- Query: `site:reddit.com/r/uppereastside TV mount OR soundbar OR handyman OR "alteration agreement"` · Firecrawl search
+  - https://www.reddit.com/r/uppereastside/comments/1g8f2ci/looking_to_mount_tv_on_cinder_block_wall_approved/ — "I've used task rabbits for these tasks before but they are usually only capable if there's wood studs or something super basic." → §5 para 6 (quoted), §10 comparison.
+  - https://www.reddit.com/r/uppereastside/comments/1rdoohe/costco_coi/ — "I wouldn't assume they use the same contractors for a TV wall mounting as an appliance installation." → §5 para 6, §10 comparison (paraphrased).
+  - https://www.reddit.com/r/uppereastside/comments/1o99z3r/..., /1d6ga27/..., /1q8rgrv/... (handyman/TV-mount requests) — background only.
+  - https://www.reddit.com/r/uppereastside/comments/1t4ui9a/... (515 E 86th, building-supplied TV/internet) — background only; not used (building-Wi-Fi intent owned by St. George/Mott Haven).
+- Query: (via Hudson Valley/LI silo research) r/handyman "Hanging TVs" — https://www.reddit.com/r/handyman/comments/1ikmr2b/hanging_tvs/ — "$300/tv to hang and hide the wires … +$100 for a sound bar." → §10.5 H3 7 (paraphrased with figures).
+- UES Reddit specifically about soundbars: EMPTY (no thread found).
+
+### 2. Google People Also Ask — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Stated on page (§10.5 intro). Seven H3s test generic AI/how-to claims (one-hour install, box hardware, board approves everything, in-wall wiring default, ear-level mounting, corner subwoofer, soundbar as cheap add-on) against sourced local facts.
+
+### 6. Landmarks / historic districts (§13 six cards; §5)
+- Query: `Upper East Side historic districts Landmarks Preservation Commission Park Avenue Historic District 2014 Upper East Side Historic District 1981 Carnegie Hill` · Firecrawl search; Firecrawl scrape https://friends-ues.org/category/historic-districts/ues-historic-district/ (markdown) — meta description: "Designated in 1981, this district stretches along Fifth Avenue from 59th Street to 78th Street, and at certain points, as far east as Third Avenue … modest brownstone row houses, opulent town houses, mansions, and imposing apartment houses." → §5 para 2, §5.5 stat 4.
+- Firecrawl scrape https://www.dnainfo.com/new-york/20140429/upper-east-side/upper-park-avenue-designated-historic-district (markdown) — Park Avenue HD designated April 29, 2014; 64 buildings, East 79th–91st; "mid-rise residential buildings constructed during the 1910s and '20s … J.E.R. Carpenter and Rosario Candela"; St. Ignatius Loyola at Park & 84th (1898). → §5 para 2, §5.5 stat 4, §13 card 5, §7 card 1.
+- Query: `Carnegie Hill Historic District designated 1974 extended 1993 …` · Firecrawl search → https://hdc.org/buildings/carnegie-hill-expanded-historic-district/ — "Designated July 23, 1974. Expanded December 21, 1993." → §5 para 2.
+- Query: `Henderson Place Historic District East 86th Street East End Avenue Lamb and Rich 1881 Queen Anne houses` · Firecrawl search; Firecrawl scrape https://friends-ues.org/about/henderson-place-hd/ (meta) — "Designated in 1969 … Of the 32 houses originally built in 1881-82 by developer John C. Henderson for 'persons of moderate means,' 24 survive … Lamb & Rich." → §13 card 3.
+- Query: `Gracie Mansion built 1799 Carl Schurz Park East End Avenue 88th Street mayor residence` · Firecrawl search → https://en.wikipedia.org/wiki/Gracie_Mansion (built 1799, Carl Schurz Park at East End Ave & 88th St, Yorkville); https://www.nycgovparks.org/parks/carl-schurz-park/facilities/historichouses; https://nylandmarks.org/... ("official residence of New York City's mayors since 1942"). → §13 card 2.
+- Query: `Park Avenue Armory 643 Park Avenue Seventh Regiment built 1880 Wade Thompson Drill Hall 55,000 square feet` · Firecrawl search → https://www.armoryonpark.org/about/about-the-building/ — "Built between 1877 and 1881 … 55,000-square-foot Wade Thompson Drill Hall, with an 80-foot-high barrel vaulted roof … executed in 1880 by Associated Artists … led by Tiffany". Query: `Park Avenue Armory address 643 Park Avenue between 66th and 67th Streets` → https://www.armoryonpark.org/plan-your-visit/directions-visitor-information/ — "643 Park Avenue between 66th and 67th Streets." → §13 card 1, Avenue section.
+- Query: `Solomon R. Guggenheim Museum 1071 Fifth Avenue Frank Lloyd Wright opened 1959 spiral rotunda` · Firecrawl search → https://en.wikipedia.org/wiki/Solomon_R._Guggenheim_Museum — "took 15 years to design and build; it was completed in 1959"; https://www.guggenheim.org/about-us/architecture/timeline (1071 Fifth Avenue). → §13 card 4.
+- Query: `Second Avenue Subway opened January 1 2017 stations 72nd 86th 96th Street Q train` · Firecrawl search → https://www.mta.info/project/second-avenue-subway-phase-1 ("opened for service on January 1, 2017 … 72 St and 86 St … 96 St"); https://en.wikipedia.org/wiki/Second_Avenue_Subway (Q train; stations 72nd/86th/96th). → §5 para 4, §5.5 stat 6, §13 card 6, Avenue section.
+- Query: `Rosario Candela Upper East Side co-op buildings Park Avenue Fifth Avenue 1920s … 740 Park 770 Park` · Firecrawl search → https://www.740-parkavenue.com/ — "Year Built: 1930 … oversized apartments - often spanning entire floors … wood-burning fireplaces, elegant crown moldings". (stevencohenteamny.com, cityrealty.com, elevatedadvisement.com, theroeblingteam.com — background only.) → §5 para 3.
+
+### 7. Building stock / use cases
+- Query: `Upper East Side Furman Center neighborhood profile Manhattan Community District 8 population homeownership` · Firecrawl search → https://www.furmancenter.org/neighborhoods/upper-east-side/ (excerpt, page updated 05/06/2026) — 2024: 224,027 people; 4th largest of 59 neighbourhoods by population; 4th highest median income; 6th most expensive rents; homeownership 37.9% vs 32.7% citywide, +5.2 pts since 2010; 4,025 units in 4+ unit buildings built 2010–2025, 85% market rate; 550 new CO units in 2025. → §5 paras 4–5, §5.5 stats 1–3, Before-the-Visit renters para.
+- https://datausa.io/profile/geo/nyc-manhattan-community-district-8-upper-east-side-roosevelt-island-puma-ny ("Community District 8 -- Upper East Side & Roosevelt Island") → §13 coverage paragraph (CD8 incl. Roosevelt Island in census profile).
+- Query: `Yorkville Manhattan history tenements walk-up German Hungarian Czech immigrants East 86th Street …` · Firecrawl search → https://theneighborhoods.substack.com/p/yorkville-manhattan (Rob Stephenson, Oct 3, 2024) — Yorkville 72nd–96th; "Czechs clustered around 72nd Street, the Hungarians around 79th and the Germans on 86th Street, aka Sauerkraut Boulevard … drawn by job opportunities at Yorkville's two massive breweries"; Gracie Mansion 1799. https://www.boweryboyshistory.com/2020/06/welcome-to-yorkville-german-life-on-the-upper-east-side.html — "cafes and dance halls". → §5 para 4, §8 86th Street card.
+- Query: `manually operated elevators elevator operator Park Avenue Fifth Avenue co-op Upper East Side buildings still have` · Firecrawl search; Firecrawl scrape (directQuote) https://nypost.com/2025/06/17/real-estate/meet-one-of-the-last-elevator-operators-in-nyc/ — "863 Park Ave." operator; "The city Department of Buildings estimates only about 50 hand-operated elevators remain across Manhattan, including a few in Brooklyn, mostly in older co-ops and historic hotels." (https://www.nytimes.com/2017/12/15/nyregion/manual-elevators-operators.html — "A few dozen of New York's passenger elevators are still manually operated" — excerpt, background.) → §5.5 stat 5, §9 Q3.
+- Query: `maisonette apartment definition private street entrance Park Avenue co-op ground floor duplex Brick Underground` · Firecrawl search → https://robertkhederian.substack.com/p/666-park-ave-maisonette-history-photos — "a ground-floor apartment with a dedicated street entrance … the privacy of a separate entrance without sacrificing the convenience of building services and staff"; https://www.cityrealty.com/... ("first-floor apartments, private entrance to the street"); Brick Underground and StreetEasy definition pages (titles only). → §7 card 6, FAQ 2.
+- Query: `"professional unit" OR "professional apartment" doctor's office ground floor residential co-op Park Avenue Upper East Side` · Firecrawl search → https://www.medicalrealestate.com/medical-office-space-for-sale/property-details/100076/655-park-avenue-ground-medical-space ("ground floor pre-war medical co-op featuring a spacious waiting room"); https://www.retail-officespace.com/listings/medical-office-space/medical-office-gallery-live-work-coop-condo-for-sale-ues/ ("The ground floor space has a private street entrance on Park Avenue … full-service cooperative on Park Avenue"). → §7 card 6, FAQ 3.
+- Query: `upholstered walls fabric stretched over batting track system how installed hanging artwork TV through fabric wall` · Firecrawl search; Firecrawl scrape (directQuote) https://vethoman.com/wall-upholstery-101/ — strip around perimeter, padding layer, fabric stapled to the slat, trim glued to hide staples. (fabric-wall.com — track/fabric/core; avsforum furring+staples — background.) → §9 Q1.
+- Prewar partition types (plaster over gypsum/terra-cotta block) — reused from silo research (UWS section: r/AskNYC 1pkvn82 gypsum block; finehomebuilding; oldstructures). Metal-lath and anchor practice = installer knowledge (unsourced) → §7.5, §9 statements.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- Query: `Brick Underground co-op "decoration agreement" vs alteration agreement small work hang TV mount` · Firecrawl search → https://www.brickunderground.com/guides/how-to-renovate/six-extras-your-co-op-or-condo-board-may-insist-on-when-you-renovate — "A decoration agreement can sometimes be approved by the managing agent without a full board review, meaning you can have it authorized in less than a week."; https://www.brickunderground.com/improve/when-to-tell-your-board-about-renovations — "decoration agreement … paint and floor work and minor …". → §9 statement H3, §10.5 H3 3, Before-the-Visit list.
+- Query: `NYC DEP asbestos minor project small project ACP-5 co-op alteration agreement asbestos survey before renovation apartment` · Firecrawl search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-23433 (15 RCNY §1-02 "Minor project … 25 linear feet or less … or 10 square feet or less"; §1-23(a) owner responsible for survey by DEP-certified investigator; ACP-5 with $47 fee); https://www.nyc.gov/site/dep/environment/asbestos-abatement-forms.page (ACP-5 description); habitatmag.com (Local Law 76/85; background). → FAQ 1, §10.5 H3 4.
+- DNAinfo Park Ave HD (above). NY Post elevator operator (above).
+- Query: `Museum Mile Festival Fifth Avenue closed 82nd to 105th Street June 2026` · Firecrawl search → https://thejewishmuseum.org/press/48th-annual-museum-mile-festival/ (Tuesday, June 9, 6–9 PM); https://www.neuegalerie.org/programs/museum-mile-festival-2026 ("6 to 9 p.m. … Fifth Avenue between 82nd Street …"); Facebook group says closed 82nd–110th, Instagram reel says 82nd–105th (conflict → page says "from 82nd Street northward"). → Avenue section (Fifth Avenue), Before-the-Visit list.
+- West Side Rag-equivalent UES hyperlocal (Patch UES, Upper East Site, Our Town) on soundbars/TV mounting: EMPTY (not searched separately; no result surfaced in the queries above).
+
+### 10. Hyperlocal / commercial corridors
+- Query: `Madison Avenue BID boundaries 57th to 86th Street retail boutiques galleries …` · Firecrawl search → https://madisonavenuebid.org/about/overview/ ("extends from East 57th to East 86th Street on Madison Avenue and also encompasses the commercial areas of its adjacent side streets"); https://madisonavenuebid.org/ (Fall Gallery Walk, Oct 3: "42 participating galleries along Madison Avenue and its side streets, from East 57th to East 86th Streets"). → §8 cards 1–2.
+- Query: `York Avenue hospital corridor NewYork-Presbyterian Weill Cornell Hospital for Special Surgery Memorial Sloan Kettering Rockefeller University Upper East Side` · Firecrawl search → https://www.nyp.org/locations/manhattan/nyp-weill-cornell-medical-center ("862-bed hospital … 525 East 68th Street"); https://www.hss.edu/about/accreditations-and-affiliations (cooperates with NYP/Weill Cornell, MSK, Rockefeller). → §8 card 6, Avenue section.
+- Lexington/Third, East 86th, Second Avenue corridor cards: descriptive only (no figures); 86th = Sauerkraut Boulevard (Stephenson/Bowery Boys).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Sources searched but NOT used
+- Sonos region / voltage (https://en.community.sonos.com/home-theater-229129/region-specific-devices-not-working-together-6930938 — customer quoting Sonos L2 support on EU products' limited 5 GHz bands; https://en.community.sonos.com/speakers-229128/sonos-equipment-from-america-but-used-in-spain-6902613 — "All but the absolute oldest Sonos players … power supply that can handle 110v to 240v"). A "soundbar bought in Europe" FAQ was drafted, then removed because batch-mate Flushing asks the same intent ("We bought our soundbar in China or Korea — will it work in a New York apartment?").
+
+### Pricing used (published AESS Manhattan numbers only — the lines on soundbar-installation-manhattan.html; §9 1.25× NOT applied, same as the Manhattan/UWS/Harlem/Tribeca pages)
+- $129 wall mount · $79 console · $84.99 Sanus bracket · $169 in-wall · $59 cord cover · $99 cable ≤25 ft · $125 Sonos · $129 A/V receiver · $99 universal remote · $49 streaming · $350 home theater · Manhattan parking $150 per visit · walls +$30/+$45/+$65/+$75/+$95 · backer $85 · high mount $75 · walk-up $40 · old bracket $45 · box $25 · COI free · setup-only $265 first hour then 30-min blocks · TV base $244.99 · TV on stand $162.99 · $150 return-trip fee.
+- Worked totals are sums of those lines only (arithmetic verified by script): $229 · $408.99 · $453.99 · $507.99 · $453 · $562.99 · $458.99 · $533.99; setup-only hour $415 ($265 + $150); packages $229 / $408.99 / $592.99; BYOE $324 (plaster) / $344 (brick).
+
+### Flags for Anwar
+1. Images: 11 new face-free crops of the existing images/soundbar-installation/ library photos (Step C). These library photos look AI-rendered (idealised rooms, uniform logo shirts, landscape screens) — earlier runs flagged the same; they conflict with "never AI-generated" if they are not real AESS photos. Replace with real UES job photos when available.
+2. Policy statements written as practice (please confirm): technicians do not take down/rehang valuable art ("equipped and insured for brackets, screens and cables, not for handling works of art"; light prints/mirrors on ordinary hooks lifted down on request); small cross-cuts through upholstered fabric with a spacer, no cable runs inside padding, nothing fixed to the upholstery track alone; long cartons opened in the service area only with the client's agreement; in-wall part of a job held until an asbestos survey is in place, bar hung meanwhile with a cord cover; runner laid from service door to room.
+3. FAQ 1 (asbestos): states the owner's survey duty and the minor-project threshold from 15 RCNY §1-02/§1-23, and says whether a building requires a survey for two kit openings is the building's decision — not legal advice; confirm tone.
+4. FAQ 3 (professional unit): says co-op house rules still govern a ground-floor medical/professional suite; generic, no HIPAA or code claims.
+5. Museum Mile Festival closure: sources disagree on the northern end (105th vs 110th); page says "from 82nd Street northward".
+6. Parking/multiplier: same as the Manhattan flags ($150 per visit on soundbar-only visits; 1.25× not applied).
+
+### Images (11) — Step C (images/soundbar-installation/ library; Drive folder "AESS Website Photos/Soundbar Installation" empty per main run; CompanyCam not connected)
+Each source viewed with the Read tool; new crops made with PIL (WebP q80) so that no face appears (technician faces cropped out; the two library photos showing customers' faces — homeowner-remote-walkthrough, conference-room-handover — not used). No house numbers, plates or readable documents in frame. Alt/title/caption describe only what is visible.
+| New file | Source file | Crop box (x0,y0,x1,y1) |
+|---|---|---|
+| soundbar-installation-upper-east-side-tablet-sound-check-facing-wall-bar.webp | soundbar-installation-manhattan-app-sound-check-tablet.webp | 700,0,1600,900 |
+| soundbar-installation-upper-east-side-gloved-level-across-bar-bracket.webp | soundbar-installation-manhattan-bracket-leveling-under-tv.webp | 760,200,1536,1024 |
+| soundbar-installation-upper-east-side-cables-strapped-through-cabinet-grommet.webp | soundbar-installation-manhattan-cabinet-cable-management.webp | 450,150,1600,900 |
+| soundbar-installation-upper-east-side-bar-set-on-walnut-console.webp | soundbar-installation-manhattan-console-soundbar-placement.webp | 0,250,1010,900 |
+| soundbar-installation-upper-east-side-level-on-hung-bar-tool-bag-below.webp | soundbar-installation-nyc-level-check-under-tv.webp | 0,160,1080,900 |
+| soundbar-installation-upper-east-side-rear-speaker-stands-behind-sofa.webp | soundbar-installation-manhattan-rear-surround-speaker-stands.webp | 0,0,1290,900 |
+| soundbar-installation-upper-east-side-bar-bracket-remote-and-tools-unpacked.webp | soundbar-installation-manhattan-unboxing-bracket-hardware.webp | 0,380,1600,900 (resized to 1400 w) |
+| soundbar-installation-upper-east-side-reception-lounge-wall-tv-and-bar.webp | soundbar-installation-manhattan-waiting-room-tv-soundbar.webp | 560,60,1600,900 |
+| soundbar-installation-upper-east-side-compact-bar-under-desk-monitor.webp | soundbar-installation-manhattan-desk-compact-soundbar.webp | 280,140,1600,800 |
+| soundbar-installation-upper-east-side-exercise-room-wall-bar-under-tv.webp | soundbar-installation-manhattan-home-gym-wall-soundbar.webp | 420,0,1600,900 |
+| soundbar-installation-upper-east-side-bar-fixed-under-swing-arm-tv.webp | soundbar-installation-tribeca-manhattan-full-motion-mount-attachment.webp | 580,0,1536,1024 |
+DAILY-LOG note: `images: 11 new crops of images/soundbar-installation/ library photos (no real UES soundbar photos yet; library looks AI-rendered — needs Anwar's review)`.
+
+### Keyword notes (five layers)
+Service: soundbar installation, soundbar wall mounting, TV and soundbar mounting, cord cover, in-wall kit · Problem: no sound / lip-sync / subwoofer won't pair / bracket loosening, co-op approval, finished walls · Technology: HDMI eARC/ARC, CEC device control, Sonos, Atmos height channels, night/dialogue mode · Industry: co-op/condo boards, managing agents, galleries, boutiques, medical practices · Geographic: Upper East Side, Lenox Hill, Carnegie Hill, Yorkville, Park/Fifth/Madison/Lexington/York Avenues, East 86th Street, Second Avenue Subway.
+
+### Build stats
+12,792 rendered words · 247,911 bytes (silo window 246,000–249,500; nearest siblings Great Kills 241,529, batch-mates Brooklyn Heights 254,289 / Flushing 258,329 at build time) · title 50 · meta 154 · 6 JSON-LD blocks · 11 figures · FAQ 3 = FAQPage 3 · HowTo 7 steps = 7 process cards. Size reached with real content plus whitespace only: JSON-LD indent 12, CSS lines indented 6 spaces; JSON-LD also carries real Offer descriptions (from the visible price table), source citations (the visible Sources list) and ImageObject location/keywords. Masked-geo paragraph similarity (word-level difflib, paragraphs/list items ≥12 words, NAP/licence/warranty/form text excluded, borough + neighbourhood names masked) vs all 33 soundbar siblings incl. both batch-mates: max 0.569 (UWS setup-only paragraph); first draft had 0.6–0.93 hits vs UWS/Manhattan/Tribeca small print and service cards, all rewritten. check_page.py --no-registration: only "live sibling … doesn't link back" lines remain (main run wires #sb-nbhd).
+
+## Question register — soundbar-installation-upper-east-side-manhattan-ny
+(Q&A = §9 YOUR QUESTIONS ANSWERED H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 3:
+1. Our living-room walls are upholstered in fabric stretched over padding — can a soundbar bracket go through it?  (Rooms someone has already finished)
+2. There are framed paintings on the wall where the TV and soundbar will go — who takes them down and puts them back?  (same)
+3. Our building's elevator is still run by an operator — how does that change the visit?  (Getting in and up the building)
+
+FAQ (§17) — 3:
+1. Our co-op wants an asbestos survey before any wall is opened — does a soundbar job trigger that?
+2. Our maisonette has its own door onto the street — can the technician come in that way instead of through the lobby?
+3. Our practice owns a ground-floor professional unit in a Park Avenue co-op — whose rules apply to a waiting-room soundbar?
+
+Other headings: none end in "?" (repair-capture, CTA, AI-claim and statement H3s written as statements: lacquer/grasscloth/decorative plaster finishes; built-in bookcases and joinery; decoration vs alteration agreement; service entrances and the desk; in-wall kit vs channel; Yorkville walk-ups; postwar and new towers).
+
+De-dup notes: every question checked by keyword and meaning against all 33 soundbar pages, including the in-progress batch-mates Brooklyn Heights and Flushing. Deliberately not asked as questions (owned elsewhere): board approval / COI / freight hours / parking (NYC hub), "does a soundbar count as an alteration" (Bay Ridge), contractor packet / approved list / combined units (Riverdale), lead paint and doorman letting the installer in (Manhattan), demising walls / summer-only rules / super doing the job / Mitchell-Lama / Thanksgiving balloon closures (UWS), wallpaper (Queens), skim-coat cracking (LIC), paneled library / millwork (Nassau), picture rail (Putnam, Dutchess), built-in niche (HV), dumbwaiter cable route and gas-light pipes (Brooklyn Heights), soundbar bought abroad (Flushing — removed from this page), waiting-room privacy (Bay Ridge), waiting-room volume lock (Manhattan, Staten Island), sub-area coverage (Astoria, Manhattan). Upholstered-wall Q is about fixing through a padded track system (distinct from Queens wallpaper and LIC skim coat); art Q is about who moves hung artwork (distinct from Harlem piano/bookcase and Tribeca art-style TV); operator-elevator Q is about timing with a hand-run car (distinct from Tribeca keyed elevator and NYC hub freight hours); maisonette/professional-unit FAQs are entry route and governing rules for those unit types (distinct from Parkchester/NYCHA/Mitchell-Lama approval-chain questions).
+
+
+## Brooklyn Heights, Brooklyn (soundbar-installation-brooklyn-heights-brooklyn-ny)
+
+Built 2026-10-17 by a parallel subagent (batch with soundbar-installation-upper-east-side-manhattan-ny and soundbar-installation-flushing-queens-ny). Neighbourhood page; up-link /soundbar-installation-brooklyn, hub /soundbar-installation-nyc. Brooklyn GBP (1282 Troy Ave, #brooklyn), phone (347) 934-8335 (800 only in the shared header), Brooklyn ×1.00 pricing.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "WebSearch" = Claude WebSearch (result titles/URLs only); "WebFetch" = page fetched and read; "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only).
+
+**Thesis:** Brooklyn Heights is the city's first historic district (LPC, November 23, 1965) and holds more than 600 pre-Civil War houses. A soundbar here goes onto the oldest walls we work on — Flemish-bond brick, 1820s hand-framed timber, lime plaster on lath or straight on brick — in rooms full of irreplaceable detail (marble mantels, plasterwork, 14-ft parlors), across six building types (1820s Federal survivors, Greek Revival rowhouses, 1850s Italianate brownstones, carriage houses on the mews, pre-war co-ops by the Promenade, converted hotels — St. George, Bossert), with hidden hazards in the walls (capped gas-light pipe, dumbwaiter shafts as chases), an LPC regime that does NOT reach interior low-voltage work but does reach anything on the exterior, and on the western streets an expressway (BQE triple cantilever under the Promenade) that shakes houses and faces a 2030–2040 rebuild.
+
+### 1. Reddit (FC search excerpts only; reddit.com not scraped)
+- `reddit Brooklyn Heights apartment brownstone mount TV brick wall landlord` · FC search · https://www.reddit.com/r/AskNYC/comments/1v72dwl/mounting_tv_in_exposed_brick/ · excerpt: "Most leases don't even allow you to drill in drywall. at a minimum ask the landlord, but 99.9% chance they say no." · Shared Houses section ("If you rent" paragraph), paraphrased.
+- same query · https://www.reddit.com/r/nyc/comments/f6n5c1/has_anyone_wall_mounted_their_tv_in_a_prewar/ (plaster, no studs found) · context only, not quoted.
+- Brooklyn Heights-specific Reddit threads on TV/soundbar: none surfaced → EMPTY for neighbourhood-level Reddit.
+- `Brooklyn Heights reddit noise neighbor brownstone apartment upstairs TV bass` · WebSearch → Brownstoner forum archive results only (brownstones-noi, tv-noise-from-a), no reddit.com. Not used.
+
+### 2. Google People Also Ask — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+§10.5 Reality Check uses published claims already recorded in silo research (Homewyse $58.43–$231; Thumbtack $121–$234; Dolby placement; AWOL eARC; Polk Atmos 7.5–12 ft) plus Heights corrections below. No AI Overview text was seen.
+
+### 6. Landmarks (§13 COVERAGE — six cards; the Brooklyn area page used Brooklyn Heights HD as one card, so the district itself is not a card here)
+- `Brooklyn Heights Promenade length Remsen Street Orange Street views Lower Manhattan nycgovparks` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Brooklyn_Heights_Promenade · 1,826 ft (557 m); southern half opened October 7, 1950, northern half December 7, 1951; west end of Remsen St to west end of Orange St; triple cantilever after Furman St warehouse demolition from fall 1946 · §5.5 bullet, §13 card, BQE section.
+- `Brooklyn Heights Promenade built 1950 BQE cantilever triple` · WebSearch → WebFetch https://www.tclf.org/brooklyn-heights-promenade-faces-uncertain-future (Dec 2018) · "Opened in 1950"; 1,826-ft platform "integrated with and cantilevered over the Brooklyn-Queens Expressway"; designed by Clarke & Rapuano 1946 · BQE section.
+- `Plymouth Church Orange Street Brooklyn Heights built 1849 Henry Ward Beecher landmark` · WebSearch → WebFetch https://www.brownstoner.com/?p=52298 (Building of the Day: 75 Hicks Street) · church 1849 (Joseph C. Wells), parish house/arcade 1914 (Woodruff Leeming); Beecher pastor until death 1887; anti-slavery, Underground Railroad; official address 75 Hicks St at Orange · §13 card, schema mentions.
+- `Church of St. Ann and the Holy Trinity Montague Clinton Street 1847 Minard Lafever stained glass` · WebSearch → WebFetch https://en.wikipedia.org/wiki/St._Ann_%26_the_Holy_Trinity_Church · NW corner Montague/Clinton (157 Montague); 1844–1847; Minard Lafever; Gothic Revival; William Jay Bolton glass 1845–48, among first complete sets of figural stained glass in North America; NHL December 23, 1987; leases school/office/rehearsal/concert space; The Forum at St. Ann's series since 2012 · §13 card, §8 church card, schema.
+- `Center for Brooklyn History 128 Pierrepont Street building 1881 George B. Post Long Island Historical Society` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Center_for_Brooklyn_History · 128 Pierrepont (corner Clinton); built 1878–1881; George B. Post; part of BPL since 2020 · §13 card, schema.
+- `Grace Court Alley Hunts Lane Love Lane Brooklyn Heights carriage houses mews` · WebSearch → WebFetch https://citylore.org/places/grace-court-alley/ · one-block dead end off Hicks St; 2- and 3-storey mid-19th-c. carriage houses serving mansions on Joralemon and Remsen; nearly all keep hay cranes; named for Grace Church built across the street 1847; converted to garages/chauffeurs' quarters then apartments; completely residential · §13 card, §7 carriage-house H3, §6.5 card.
+- `Hotel St. George Brooklyn Heights Clark Street largest hotel history student housing` · WebSearch → WebFetch https://www.nyclgbtsites.org/site/st-george-hotel/ · 51 Clark St (43 Clark for athletic club); eight buildings 1885–1930, tower by Emery Roth 1929–30; once "the largest hotel in New York City"; now student housing, co-op apartments and commercial spaces; gym in part of old pool area · §5, §6.5 card, §8 card, §13 card, composite. "Beside the Clark Street subway station": WebSearch result titles (untappedcities "Clark Street in Brooklyn Heights" subway entrance; Gothamist "building above Brooklyn Heights subway station") — titles only.
+
+### 7. Building stock / use cases (§5, §5.5, §6.5, §7)
+- `Brooklyn Heights Historic District 1965 first historic district Landmarks Preservation Commission rowhouses` · WebSearch → WebFetch https://hdc.org/?p=34123 (Historic Districts Council) · designated November 23, 1965, "first designated New York City Historic District"; 19th-century brownstone and brick homes, churches and carriage houses; Federal, Gothic Revival, Anglo-Italianate, Greek Revival ("particularly notable") · §5 para 2.
+- same · WebFetch https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/brooklyn_heights.pdf · LP-0099, hearing November 17, 1965, designation November 23, 1965 · §5 para 2, §5.5, sources.
+- same · WebFetch https://viewing.nyc/the-precedent-setting-history-of-how-brooklyn-heights-became-the-citys-first-historic-district · first landmarked district; 24 Middagh St 1824 Federal oldest survivor · research only (Brownstoner list used instead).
+- `Brooklyn Heights Association founded 1910 history` · WebSearch → WebFetch https://www.nypap.org/preservation-history/brooklyn-heights-association/ · BHA founded 1910, oldest ongoing neighbourhood association in five boroughs; April 1959 "Historic Zoning" resolution with CCIC; Promenade built 1950; BHA opposed Moses's wider expressway → double-decker covered by Promenade · §5 para 2, BQE section.
+- WebFetch https://en.wikipedia.org/wiki/Brooklyn_Heights · bounds Old Fulton St (N), Cadman Plaza West (E), Atlantic Ave (S), BQE/East River (W); "over 600 pre-Civil War houses, one of the largest ensembles of such housing in the nation"; "first commuter suburb"; mansions along Pierrepont St and Pierrepont Place; 2020 population 25,092; ZIP 11201; Community District 2; 84th Precinct; bank buildings on Montague St · §5 para 1, §5.5, §8 Montague card, composite (Pierrepont).
+- `Brooklyn Heights Greek Revival rowhouse 1820s 1850s brick party wall Federal style Willow Street Middagh` · WebSearch → WebFetch https://www.brownstoner.com/history/the-five-oldest-houses-in-brooklyn-heights · 84 Willow (≥1822, brick Flemish bond, Federal); 68 Hicks (≥1822, 2½-storey wood frame); 43 Willow (1824, Flemish bond); 30 Middagh (1824, 3-storey frame); 24 Middagh (1824, 2½-storey clapboard frame) · §5 para 3, §6.5 Federal card, §7, composites.
+- `Brooklyn Heights brownstone parlor floor plaster ceiling medallion marble mantel listing Remsen Street` · WebSearch → WebFetch https://www.brownstoner.com/?p=473809 (Nov 23, 2022) · 20 Remsen St, Greek Revival origins, in place by 1857; original plasterwork, curving stair, pierced plasterwork in entry/dining room, marble mantels throughout · §5 para 4.
+- WebFetch https://www.brownstoner.com/real-estate-market/co-op-of-the-day-42-remsen-street-1/ (Sept 10, 2014) · 26-ft half-brownstone, parlor coffered ceilings · not used.
+- `"Brooklyn Heights" "interior shutters" Greek Revival house parlor` · WebSearch → WebFetch https://www.brownstoner.com/real-estate-market/brooklyn-heights-townhouse-for-sale-116-pierrepont-street (July 12, 2023) · 1840s Greek Revival, 25 ft wide, black marble mantels in parlor and dining room, crown molding in front parlor · §5 para 4. Interior shutters NOT confirmed by any source → shutters question dropped.
+- WebFetch https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-brooklyn-heights-143-willow-street/ (Oct 10, 2018) · c.1840s two-family, three wood-burning fireplaces · not used.
+- WebFetch https://www.brownstoner.com/real-estate-market/brooklyn-heights-house-for-sale-10-pineapple-street (Apr 12, 2023) · c.1820–1829, 27.25 ft wide, three wood-burning fireplaces · not used.
+- `Brooklyn Heights townhouse dumbwaiter original listing brownstoner` · WebSearch → WebFetch https://www.6sqft.com/stunningexquisiteclassicwere-running-out-of-adjectives-for-this-16m-brooklyn-heights-townhouse/ (Aug 19, 2014) · 192 Columbia Heights, built 1859, 25 ft wide, 14-ft parlor ceilings, "operable dumbwaiter to the parlor level" · §5 para 4, §6.5 Italianate card, §9 dumbwaiter Q.
+- `Grace Court Alley Hunts Lane Love Lane ...` · WebFetch https://www.brownstoner.com/?p=115359 (June 12, 2013) · carriage houses pictured on Hunts Lane, Grace Court Alley, Love Lane, College Place, Hicks St, Columbia Heights · §6.5 card, composites.
+- `Brooklyn Heights former Watchtower buildings converted condos Hotel Bossert Hotel St. George history` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Hotel_Bossert · 98 Montague St, 1909, 14 storeys, Helmle & Huberty; Watchtower 1983/1988–2012; sold May 2025 to SomeraRoad ($100M) for apartments; conversion work began July 2026, residential completion planned 2028; Sept 2026 Ritz-Carlton Residences rebrand · §5 para 5, §6.5 card. (Infobox inconsistency noted on Wikipedia — dates used as stated in body.)
+- WebFetch https://www.brooklynpaper.com/watchtower-buildings-where-are-they-now · only Bossert in the Heights; not used.
+- `NYU Furman Center Brooklyn Heights Fort Greene BK02 homeownership rate 2024` · WebSearch → WebFetch https://furmancenter.org/neighborhoods/view/fort-greene-brooklyn-heights (updated 05/06/2026) · homeownership 31.2% (2024) vs 32.7% citywide; median household income $143,880; population 138,226; rental vacancy 4.4% · §5.5 bullet, Shared Houses section (labelled as district-wide BK02).
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- `BQE triple cantilever Brooklyn Heights 2025 2026 plan repair update` · WebSearch → WebFetch https://www.nyc.gov/mayors-office/news/2026/08/after-decades-of-delay--mayor-mamdani-moves-to-fix-the-city-owne (Aug 24, 2026) · ~$4B, 10-year rehab of city-owned BQE incl. triple cantilever; groundbreaking 2030; temporary two-level bypass on Furman St "will not block the promenade"; CEQR this fall; EIS summer 2028 · §5.5 bullet, BQE section.
+- `brooklynheightsblog.com noise BQE residents Columbia Heights windows` · WebSearch → WebFetch https://brooklyneagle.com/articles/2019/09/10/bqe-vibrations-create-nightmare-for-brooklyn-heights-residents/ (Sept 10, 2019) · vibration near Middagh and Willow; >150,000 vehicles daily; shaking, bangs, rattling shutters, broken glasses, cracked walls; ~4–5 a.m. to 8 p.m.; BHA asked DOT to diagnose · §5 para 6, §9 rattle Q, BQE section, composite.
+- same · WebFetch https://brooklyneagle.com/251002/noisy-nighttime-bqe-jackhammering-to-begin-july-24/ (undated; mentions June 29/July 20 meetings) · nighttime jackhammering on triple cantilever, Clark Street Fan Plant (Span 34), deck at Grace Court (Span 4), Joralemon St garage foundation; 7–8 weeks · BQE section (cited as undated notice).
+- `Montague Street Business Improvement District Brooklyn Heights established block faces` · WebSearch → WebFetch https://www.nyc.gov/html/dot/downloads/pdf/montague-st-design-concept-oct2024.pdf · Open Street since 2020 managed by Montague St BID; 2023 DOT survey >2,000 responses, 71% support pedestrian enhancements · §8 Montague card. (BID founding year/block faces: not found → not stated.)
+- `nyc.gov LPC FAQ "interior" work historic district ...` · WebSearch → WebFetch https://home4.nyc.gov/site/lpc/about/permits-and-making-alterations.page · interior permit needed only when work requires DOB permit, affects the exterior, or interior is a designated interior landmark; Preservation Department can advise · §5 para 3, §9 LPC Q, §10.5, Shared Houses.
+- `Landmarks Preservation Commission interior work historic district permit "Certificate of No Effect" ...` · WebSearch → WebFetch https://es.nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property · permit needed for any work needing a DOB permit; interior renovations needing DOB permit = CNE example · §9 LPC Q.
+- NYC noise code §24-218 (7 dB(A) over ambient 10 PM–7 AM), DEP commercial music summary (42 dB / 7 dB / bass rule), 311 Noise from Neighbor (TV listed), NY Post 2026-04-20 (636,000 noise complaints, 463,349 residential, 2025), ADA §307.2 (flagged in silo research as builder knowledge) — reused from research/soundbar-installation.md, not re-fetched · §8 rules, Party Walls section.
+
+### 10. Hyperlocal
+- `old brownstone abandoned gas lighting pipes in walls gasolier capped renovation brownstoner` · WebSearch → WebFetch https://www.brownstoner.com/interiors-renovation/historic-lighting-victorian-19th-century-brownstone-early-electric-restoration-gas (Cate Corcoran, Aug 20, 2019) · "When electricity arrived, the gas pipes were capped and left in place." "In many Brooklyn homes the gas pipes are still active even though they are capped and not in use."; gasolier from centre of medallion; sconces in halls/back rooms · §9 gas Q, §10.5, checklist.
+- same · WebFetch https://www.brownstoner.com/forum-archive/2006/10/live-gas-lines (Oct 20–24, 2006) · owners finding live lines when installing ceiling fixtures; advice "Get a plumber to check it out" · §9 gas Q (paraphrased).
+- Brooklyn Heights Blog / Brooklyn Paper soundbar or TV-audio stories: EMPTY (no service-relevant result).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Technical sources used on this page
+- `FCC audio description requirement TV settings visually impaired how to turn on audio description TV` · WebSearch → https://Fcc.gov/sites/default/files/audio_description.pdf: EMPTY (fetch error) → WebFetch https://dcmp.org/learn/702 · audio description = "secondary audio track with additional narration"; turned on via SAP or device/app accessibility menus; CVAA quarterly minimums; providers pass through secondary audio · FAQ 1.
+- Silo-wide (reused, not re-fetched): Homewyse $58.43–$231; Thumbtack $121–$234; Dolby placement; AWOL Vision eARC/ARC; Polk Atmos 7.5–12 ft ceilings; Sanus SASB1 (most bars up to 20 lb); Sonos Beam 6.35 lb / Arc Ultra ~46 in, ~5.9 kg · §10, §10.5.
+
+### Pricing used (published AESS numbers only — Brooklyn ×1.00, copied from soundbar-installation-brooklyn.html; no new lines)
+Console $79 · wall mount $129 · Sanus bracket $84.99 · in-wall concealment $169 · paintable cord cover $59 · cable run ≤25 ft $99 · Sonos setup $125 · A/V receiver $129 · universal remote $99 · streaming setup $49 · full home theater $350 · drywall $0 · metal stud +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · plywood backer $85 · high mount $75 · walk-up (3rd floor+, no elevator) $40 · box removal $25 · COI free · setup-only $195 first hour then 30-min blocks · Brooklyn TV mounting base $179.99 · callbacks $195/hr, 3-hr min ($585) · $150 return trip · free reschedule with 24 h notice. Packages $79 / $213.99 / $382.99. Worked examples (sums only): $253, $258.99, $382.99, $269, $204; FAQ two-room $253 + $174 = $427 (or $467 with walk-up line).
+
+### Images (11) — Step C, new crops of Anwar's soundbar photos
+Drive "AESS Website Photos/Soundbar Installation" EMPTY (checked by main run); CompanyCam not connected. 11 new WebP crops (q80) cut from the existing per-area copies of Anwar's 13 photos so that no face is in frame (brooklyn-* copies; bay-ridge copy for level-check), viewed with Read before writing alt/title/caption:
+hero bar-on-wall-above-fluted-console (from level-check-under-tv) · §5 wall-tv-and-slim-bar-on-grey-wall (home-gym) · §6.5 bar-clamped-under-swing-arm-tv (full-motion) · §6 yellow-level-on-bar-bracket (bracket-leveling) · §7 bar-bracket-remote-in-open-box (unboxing) · §8 reception-desk-and-wall-tv-bar (waiting-room) · §9 cable-straps-and-grommet-in-cabinet (cabinet) · §10 bar-on-walnut-console-under-stand-tv (console) · process tablet-sound-check-facing-wall-bar (app-sound-check; back of head cropped out) · packages compact-bar-under-monitor-arm (desk) · street-by-street rear-speaker-stands-beside-sofa (rear-surround; technician's head cropped out, hand visible). Conference-room-handover and homeowner-remote-walkthrough not used (faces). All filenames prefixed soundbar-installation-brooklyn-heights-.
+
+### Flags for Anwar
+- The 13 supplied soundbar photos look AI-rendered (garbled logo text, "BOSE"-like mark on one bar); used because they are the silo's approved set. No faces in these crops.
+- Walk-up $40 line applied to a top floor (3rd+) of an owner's own townhouse in the FAQ two-room example — the line's wording ("Walk-up, 3rd floor and above, no elevator") seems to cover it; confirm.
+- ADA §307.2 wording reused from silo research (builder knowledge, not fetched).
+- Furman figures are BK02 Fort Greene/Brooklyn Heights, labelled as district-wide.
+- "Offices near Borough Hall/Court Street" and "Atlantic Avenue edge" commercial cards are general descriptions (no specific business named, no stat).
+- No Field Notes block (no real local install story available).
+
+## Question register — soundbar-installation-brooklyn-heights-brooklyn-ny
+
+§9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s (Inside the walls of a pre-Civil War house · Already in front of the Landmarks Commission · Living over the expressway):
+1. A disused dumbwaiter shaft runs beside our parlor — can the soundbar's cables drop down it to the equipment in the cellar?
+2. There may be old gas-light pipes in the wall where the TV goes — how do you drill safely?
+3. Our renovation is already filed with the Landmarks Preservation Commission — can the TV-wall wiring be added to that approval, or does it need its own?
+4. Trucks on the expressway make our house shake — how do we tell a rattle from the soundbar from one in the building?
+
+§17 FAQ (visible == FAQPage, 3):
+1. Can the soundbar play the narrated audio-description track for a family member who is blind or has low vision?
+2. We're subletting our apartment for the summer. What should be signed out of the soundbar before the subtenant arrives?
+3. What would bars in both the parlor and a top-floor den of a Heights townhouse add up to?
+
+Other question-form headings: "Heights Soundbar Quiet Since the Last Update?" (repair capture), "Want the Brooklyn Heights Figure on Paper?" (CTA), "Bar Gone Silent Somewhere Between the Promenade and Borough Hall?" (final repair capture).
+
+Dropped while drafting (meaning already on a sibling page):
+- Interior folding shutters across the TV wall → no source confirming Heights shutters; also near Bay Ridge "French doors swing across TV wall".
+- Carriage-house garage below living room / equipment in garage → Putnam "bonus room over garage", Putnam "closet behind TV wall for boxes".
+- BQE construction — should we wait? → Park Slope "house next door gut-renovated — should we wait".
+- Plasterer restoring cornices — come before or after? → Orange "electrician adding outlet — when to book", Putnam "cable box swap — wait", Westchester/Bronx "painted last week".
+- Promenade-side glare / west windows → Putnam afternoon sun, Manhattan glass living room (kept as body text only).
+- Wood-burning fireplace under TV → Long Island gas insert heat, Tottenville direct-vent (not asked).
+Partial overlaps left for main-run judgement: §9 Q4 (diagnosing rattle: house vs system) vs Queens "elevated 7 rumble shakes the bracket loose" and LIC "balcony door buzzes when sub plays"; FAQ 2 (sign accounts out for a sublet) vs Astoria "roommate who owns bar moves out", Ulster "voice assistant in a rental" / "seller's app account"; §9 Q3 (LPC filing already open — add wiring to it) vs Brooklyn "Does LPC have to approve a soundbar in a historic-district house?" (general approval) and Brooklyn "gutting the parlor — what to rough in"; FAQ 3 (two-room townhouse total) is a priced-example question like Harlem/Tribeca/Astoria single-wall totals but for two rooms.
+
+## Build notes (for the main run)
+- Final: 12,750 rendered words (checker), 254,289 bytes (window 251,500–255,000; nearest siblings Flushing 258,329, Great Kills 241,529). Size reached with JSON-LD indentation only (json.dumps indent=24); CSS copied from the Great Kills pattern unchanged; no padding text.
+- Masked-geo paragraph similarity (difflib, ≥12-word p/li/h3/figcaption/td, nav/forms/stamp/warranty/NAP excluded): max 0.633 (Brooklyn area page, setup-only paragraph); the neighbourhood link list was restructured by borough.
+- check_page.py --no-registration: only "live sibling … doesn't link back" lines remain (16 area/hub pages), which the main run wires via #sb-nbhd.
+
+
+# Builder notes — soundbar-installation-flushing-queens-ny (batch 2026-10-17, DRAFT for merge into research/soundbar-installation.md)
+
+## Flushing, Queens (soundbar-installation-flushing-queens-ny)
+
+Neighbourhood page; up = /soundbar-installation-queens; phone (347) 434-6392 (800 header only); GBP Bronx (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "WebSearch"/"WebFetch" = Claude web tools. Silo-wide findings (DEP noise-code summary, ADA 2010 §307.2) reused from research/soundbar-installation.md, not re-fetched.
+
+Thesis: one TV shared by three generations and two or three languages (IPTV boxes, karaoke, holiday crowds) — and the wall decided by building type: podium condo towers on 39th Ave/College Point Blvd (Sky View Parc, Tangram House, Flushing Commons), 1950s six-storey co-ops (Linden Hill / Mitchell Gardens), houses (Murray Hill, Broadway–Flushing, Waldheim) — plus outside noise from the Tennis Climb and the Main St/Roosevelt Ave core.
+
+### 1. Reddit
+- `site:reddit.com r/Flushing apartment noise neighbors TV` · FC search · results were r/Apartmentliving, r/NYCapartments etc., none Flushing-specific (https://www.reddit.com/r/NYCapartments/comments/1girh2g/downstairs_neighbor_constantly_complaining_about/) · not used. **EMPTY for Flushing** (no Flushing thread found; Firecrawl excerpts only).
+- `Flushing condo noise neighbors thin walls reddit r/flushing` · WebSearch · only r/askTO (Toronto) mirrors · not used. EMPTY.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 uses published cost-guide/manufacturer claims instead (below), stated as such on the page.
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### 6/7. Landmarks, building stock, demographics
+- `Flushing Queens neighborhood history Wikipedia demographics Main Street Chinatown` · WebSearch → FC scrape https://en.wikipedia.org/wiki/Flushing,_Queens · Main St × Roosevelt Ave third-busiest pedestrian intersection; fourth-largest CBD; 853.06 acres (2010 census); Murray Hill developed from nurseries from 1889, 150th–160th St, Korean and Chinese families moved in; Union Street Koreatown 35th–41st Ave incl. karaoke (noraebang); Korean restaurant street around Murray Hill LIRR station; Linden Hill: 41 six-storey buildings / 3,146 apts in Linden Hill, Mitchell Gardens, Linden Towers, Embassy Arms, early 1950s, Section 213, for WWII/Korean War veterans; Waldheim bounds (Sanford/Franklin–45th Ave, Bowne–Parsons); Queensboro Hill incl. NewYork–Presbyterian/Queens, bordered N by Kissena Park; malls (Sky View Center 2010 with condos on top, New World Mall Roosevelt Ave east of Main, One Fulton Square 2014, Queens Crossing 2017, Flushing Commons 2017, Tangram 2022); Bowne House c.1661, Remonstrance 1657, Kingsland Homestead 1785 (Queens Historical Society), Freedom Mile; Queens Botanical Garden 39 acres, current site since 1963; library branches; 7 terminal at Main St; LIRR Port Washington Branch stations · §5 paras 1–4, §5.5, §7 cards, §8 corridors, §13 cards, street-by-street, schematic map.
+- `Broadway-Flushing Historic District Rickert-Finlay covenant single-family homes National Register 2006` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Broadway%E2%80%93Flushing,_Queens · Rickert-Finlay 1906; covenants (no front fences/front garages/flat roofs) enforced by HOA (inc. 1964); state listing 18 Mar 2006, NR 12 May 2006; 1,790 contributing buildings; R1-2A/R2A 2009; LPC denied 2009 · §5.5 bullet 6, §7 card, Approvals section, street-by-street.
+- `Data USA Flushing ... PUMA Queens Community District 7` · WebSearch → WebFetch https://datausa.io/profile/geo/79500US3604407 · 2024: pop 249,029; median age 47.6; median HH income $72,104; 50.4% owner-occupied; 58.2% foreign-born; 71.7% of households non-English primary language; Chinese 36.8%, Spanish 15.5%, Korean 6.48%; median property value $808,900 · §5 para 1, §5.5 bullets 1–3. (PUMA = Flushing, Murray Hill & Whitestone — labelled as such.)
+- `Lewis Latimer House museum Flushing ...` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Lewis_H._Latimer_House · 34-41 137th St; built 1887–89; Latimer 1903–1928; moved 1988; LPC 1995 · §13 card, schema about.
+- `Flushing Town Hall 1862 ...` · WebSearch → WebFetch https://www.brownstoner.com/history/queenswalk-flushing-town-hall-137-35-northern-boulevard · 1862, early Romanesque Revival, courthouse 1902–1960s, FCCA restoration, 308-seat Great Hall Theater · §13 card.
+- `Queens Public Library Flushing branch ... Polshek` · WebSearch → WebFetch https://6tocelebrate.org/site/flushing-branch-qbpl-queens/ · current building 1998 (Polshek Partnership); Carnegie building 1906 (Lord & Hewlett) · §13 card.
+
+### 9/10. Local news / hyperlocal
+- `Skyview Parc Flushing condominium towers above Skyview Center mall` · WebSearch → WebFetch https://www.multihousingnews.com/flushings-sky-view-parc-passes-half-way-mark/ · 448 condos, three buildings above Sky View Center (May 2012) · §5 para 2, §7 card.
+- `Tangram Flushing condo tower mixed-use Main Street apartments` · WebSearch → WebFetch https://skyrisecities.com/news/2019/08/tangram-tower-soon-become-part-mega-development-queens (12-storey office tower, hotel, 4DX cinema, 275,000 sf retail, 1.2M sf total) and https://www.architectmagazine.com/?p=200112 (Tangram House: 324 residences in two towers) · §5 para 2, §7, §8 39th Ave card.
+- `Flushing Commons Union Street 39th Avenue residential units condo F&T completed` · WebSearch → WebFetch https://qns.com/2026/09/flushing-commons-housing-mixed-use-development/ · Phase I (2017) 148 residential condos, 90 office condos; Phase II groundbreaking 16 Sep 2026: 18-storey, 156 units, YMCA · §5 para 2, §5.5 bullet 4.
+- `Special Flushing Waterfront District approved city council 2021 ...` · WebSearch → WebFetch https://www.6sqft.com/nyc-rezoning-flushing-waterfront-district/ · approved 10 Dec 2020; 13 towers, 1,725 units, 29 acres, bounded by Flushing Creek, College Point Blvd, Roosevelt Ave · §5.5 bullet 4.
+- `LaGuardia flights over Flushing Queens noise complaints residents runway 13 Flushing` · WebSearch → WebFetch https://www.cityandstateny.com/articles/policy/energy-environment/us-opens-legacy-northeast-queens-airplane-noise.html (City & State, 18 Sep 2020) · TNNIS/Tennis Climb est. 1993, year-round 2012; Maria Becce "drive you crazy"; Ron Kim: buildings shake; John Cho (Flushing Chamber): outdoor events nearly impossible · §5 para 4, Tennis Climb section.
+- Hyperlocal (Queens Chronicle/Flushing Post) on soundbar/TV topics — none found. EMPTY for the service category.
+
+### Technical / claim sources (§10.5, FAQ, equipment)
+- `Angi soundbar installation cost average` · FC search · https://www.angi.com/articles/how-much-does-buying-and-repairing-tv-cost.htm (soundbar bracket $30–$100, 2026) and https://www.angi.com/articles/how-much-does-it-cost-install-surround-sound.htm ($241–$1,350, avg $794, Oct 8 2026) · §10.5 H3 1–2.
+- `Sonos Arc placement do not place in enclosed cabinet ...` · FC search · https://www.sonos.com/en-us/guides/arcultra · "Don't enclose Arc Ultra in a cabinet or in a corner" · §10.5 H3 3.
+- `Dolby Atmos enabled speakers upward firing ...` · FC search · https://www.dolby.com/about/support/guide/dolby-atmos-speaker-setup/ · flat ceiling 7.5–14 ft, reflective material · §10.5 H3 4.
+- `Samsung Q-Symphony soundbar TV speakers play together explained` · FC search · https://www.samsung.com/us/support/answer/ANS10004507/ · §10.5 H3 5.
+- `connect soundbar to TV via Bluetooth ... lip sync` · FC search · https://www.samsung.com/us/support/troubleshoot/TSG10002313/ · "sync feature is not available when using Bluetooth or USB as a source" · §10.5 H3 6.
+- `LG soundbar AI Room Calibration ...` · FC search · https://www.lg.com/us/support/help-library/lg-tv-setting-up-ai-room-calibration-sound--20154713289014 · §10.5 H3 7.
+- `HDMI-CEC names Anynet+ SimpLink BRAVIA Sync ...` · WebSearch → WebFetch https://asurion.com/connect/tech-tips/what-is-hdmi-cec · Anynet+ (Samsung), Simplink (LG), BRAVIA Sync, VIERA Link · FAQ 4.
+- `China 220V 50Hz South Korea 220V 60Hz United States 120V 60Hz ...` · WebSearch → WebFetch https://www.wpowerproducts.com/power-generation-resources/voltages-and-frequencies-by-country/ · US 120 V/60 Hz; China 220 V/50 Hz; South Korea 220 V/60 Hz · FAQ 6.
+- DEP noise-code summary (42 dB / 7 dB / bass) and ADA 2010 §307.2 — reused from silo research · §8.5 bullets 1–2.
+- Installer know-how (no source, worded generally): mini-split line sets in walls, grease/smoke on grilles, karaoke mic latency, crowd absorption, stereo upmixing on IPTV boxes, hearing changes at high frequencies.
+
+### Pricing used (published Queens lines only — soundbar-installation-queens.html §14/§15; §9 Queens ×1.05 already in the list)
+$82.95 console · $135.45 wall mount · $89.24 Sanus · $177.45 in-wall · $61.95 cord cover · $103.95 cable run · $131.25 Sonos · $135.45 AVR · $103.95 universal remote · $51.45 streaming · $367.50 full theater · wall lines $0/+31.50/+47.25/+68.25/+78.75/+99.75, $89.25 backer, $78.75 high mount, $42 walk-up, $26.25 box removal, COI free · packages $82.95/$224.69/$402.14, BYOE $135.45 + wall · setup-only $195 first hour then 30-min blocks · TV base $179.99 · $150 return trip. Worked totals are sums only: $270.90, $333.89, $557.54, $324.44.
+
+### Images (11) — Step C, Anwar's soundbar photo set re-cropped (Drive folder EMPTY per main run; CompanyCam not connected)
+New WebP q80 crops in images/soundbar-installation/, each viewed; no faces, plates, house numbers or documents in frame:
+level-laid-on-wall-mounted-bar ← queens-level-check-under-tv (0,0,1060,900) hero · rear-speaker-stands-behind-sofa ← queens-rear-surround-speaker-stands (0,0,1290,900) · bar-set-on-walnut-console ← queens-console-soundbar-placement (0,340,1600,900) · bracket-leveled-above-boxed-bar ← queens-bracket-leveling-under-tv (700,240,1536,1024) · reception-tv-with-wall-bar ← bronx-waiting-room-tv-soundbar (300,0,1600,900) · bar-mounted-under-swing-arm-tv ← queens-full-motion-mount-attachment (620,60,1536,1000) · tablet-sound-check-screen ← queens-app-sound-check-tablet (640,0,1600,900) · compact-bar-under-desk-monitor ← queens-desk-compact-soundbar (100,60,1600,900) · bar-and-bracket-kit-unboxed ← queens-unboxing-bracket-hardware (0,220,1600,900) · cables-strapped-to-grommet ← queens-cabinet-cable-management (480,150,1600,900) · wall-bar-in-exercise-room ← queens-home-gym-wall-soundbar (700,0,1600,900). (All prefixed soundbar-installation-flushing-.) Not used: homeowner-remote-walkthrough, conference-room-handover (customer faces). Same 13 source scenes appear on sibling pages, differently cropped. FLAG: source photos look AI-rendered (garbled "Enterprise LLC" logos, idealised rooms) — as flagged on earlier soundbar pages.
+
+### Flags for Anwar
+- Library photos look AI-rendered (see above).
+- Six inline SVG schematics (wall sections, signal chain, seat height, room plan, price build-up, section map — "not to scale") added as real content; they also bring the file into the assigned 257–261 KB size window, with JSON-LD indent 5 and expanded CSS (whitespace only).
+- "We cannot promise a technician who speaks Mandarin, Cantonese or Korean" — states no staff-language capability; confirm or replace if AESS does have speakers.
+- Karaoke, KBBQ grease, mini-split, food-court approval answers are installer know-how, unsourced, worded generally.
+- Data USA PUMA = Flushing + Murray Hill + Whitestone (labelled on page).
+
+## Question register — soundbar-installation-flushing-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. My parents speak Mandarin and very little English — can they be the ones at home while the installer works?
+2. Our living room fills with relatives at Lunar New Year and other holidays — how should the soundbar be set for a crowded room?
+3. Will family karaoke nights work through the soundbar, or do we need the karaoke machine's own speakers?
+4. Most of what we watch comes from an overseas IPTV box that only sends stereo — will the soundbar's surround and height speakers do anything?
+5. A ductless mini-split head sits high on our TV wall and its lines run inside the wall — where is it safe to drill for the soundbar?
+6. Our Korean barbecue restaurant on Union Street has grills at every table — will smoke and grease ruin a soundbar on the wall?
+7. Our counter is a stall in an indoor food court — who has to approve a soundbar on the wall behind it?
+8. Our banquet hall already has a DJ and microphone system — can the TV's soundbar feed into it for slideshows and videos?
+
+### §17 FAQ (visible == FAQPage, 7)
+1. What do the numbers like 3.1 or 5.1.2 on a soundbar box mean?
+2. Can the same soundbar play sound from a desktop computer as well as the TV?
+3. If the soundbar freezes or stops responding to the remote, what should we try before calling?
+4. Our TV's menu never mentions HDMI-CEC — does the TV lack it?
+5. Can the soundbar's built-in voice assistant understand Mandarin, Cantonese or Korean?
+6. We bought our soundbar in China or Korea — will it work in a New York apartment?
+7. Our family uses both iPhones and Android phones — does that change which soundbar to buy?
+
+### Other headings
+No other question-form headings (repair headings written without "?").
+
+### De-dup notes
+Checked by meaning against all 644 question headings/FAQs on the 33 soundbar pages on disk (incl. draft UES and Brooklyn Heights as of build time). Deliberately avoided (owned elsewhere): LaGuardia jets (Queens), language tracks/Spanish menus/Russian dialogue (Queens/Bronx/Forest Hills), hearing aids, private late listening, Main St restaurant two screens (Queens), mic toasts (Dutchess), intercom chime (Mott Haven), condo alteration/sponsor warranty (LIC/UWS), moving before/after movers (Manhattan), LPC approval (Brooklyn/St. George), co-op paperwork (Forest Hills/Riverdale), height trials, upside-down mounting, app accounts on several phones (Pelham Bay), freeze-after-outage recovery (Putnam — FAQ 3 is a general freeze/unresponsive check, closest neighbour; review). Closest-meaning items for review: FAQ 3 vs Putnam outage recovery; §9 Q3 karaoke vs Dutchess microphone toasts; §9 Q7 food-court approval vs residential "whose permission" questions (Parkchester/PACT).
