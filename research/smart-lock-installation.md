@@ -740,3 +740,343 @@ Drive folder empty, CompanyCam not connected → permanent image rule. Every sou
 ### De-dup notes
 - Replaced after comparing with batch siblings on disk: restaurant alley back-door exit Q (= Brooklyn café back-door Q) → Jamaica Ave keypad shoulder-surfing Q; Glen Oaks Q reframed from auto-lock (≈ Manhattan FAQ "relock itself") to smart lock vs door sensor; FAQ "doorbell camera same visit" (= Brooklyn FAQ) → "Do you bring the lock…"; MDL three-family paragraph removed (≈ Brooklyn two-family tenant-rules Q).
 - Partial overlaps for the main run to judge: Q2 (caregiver scheduled code) vs Manhattan "How should the doorman, the dog walker and the cleaner get in…"; FAQ 6 (low-battery warning) vs Manhattan "If the batteries die while we are out of the country…"; Q11 (LIC building lock ↔ Google/Apple Home) vs Brooklyn/Manhattan "building runs lobby on an app — will a separate unit lock work alongside it"; FAQ 1 cost vs NYC/Brooklyn/Manhattan cost FAQs (geo-specific pricing by design); storm-door Q12 (which door) vs LI Q8 (clearance between storm door and keypad deadbolt).
+
+
+# Research — smart-lock-installation-bronx (batch 2026-10-17)
+
+Page: `/smart-lock-installation-bronx` · silo Smart Lock Installation · up-link `/smart-lock-installation-nyc` · phone (646) 490-0629 (body, CTAs, schema; (800) 486-0943 only in shared header chrome) · GBP Bronx, 460 E Fordham Rd, schema `#bronx` · pricing multiplier 1.00.
+
+Thesis: **who controls the door in the Bronx.** NYCHA keeps the bottom lock; Parkchester North owns the bottom cylinder and files every unit key; Riverbay/Co-op City expects restoration on move-out; private co-ops expect a duplicate key or code; private landlords owe a key lock (HMC 27-2043) while tenants may add one (MDL 51-c, which excludes housing-authority buildings); two-family owners owe their tenant a key lock and a key. Plus: steel/mortise pre-war doors, building-entry (MDL 50-a street door, roof door, intercom) vs apartment-door locks, self-closing doors after Twin Parks (LL71/2022), owner-occupied two-family and row houses.
+
+Tools: "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote query mode). Silo-wide findings (August Connect 10–15 ft, LawnStarter/Fixr national costs, ADA 404.2.7, Matter/Thread) reused from research/smart-lock-installation.md — not re-fetched. Some Bronx housing facts reused from research/soundbar-installation.md (Bronx section, fetched 2026-10-17) — marked "reused".
+
+## Bronx (smart-lock-installation-bronx)
+
+### Lock law and building rules
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| B1 | `NYCHA resident handbook change locks apartment door permission key` · Firecrawl search → Firecrawl scrape (pdf) | https://www.nyc.gov/assets/nycha/downloads/pdf/pp/nycha-public-housing-resident-handbook-2024.pdf | "The front door of your apartment has been equipped with a lock ('bottom lock'). NYCHA does not allow tenants to replace this lock; however, you may buy an additional lock. You will be responsible for its installation, care, and maintenance. In case of an emergency, NYCHA reserves the right to break the lock…"; lockout: work order, "$47.25 charge … for the new lock and keys"; "$50 fee" after hours; "NYCHA will drill out resident-installed locks, but is not responsible for replacing them"; self-closing door must "completely close and latch by itself", inspected periodically; residents responsible for carpet/mat blocking closer; "Residents are not allowed to alter their apartments or add any fixtures or fittings … without prior written consent from their property management office". | Hero, §5 paras 1/3, §5.5 stat 5, §7 NYCHA card, Keyholder Map row, §9 Q1–Q2, §10.5 H3 1–2, §14 building costs, FAQ "Will you drill a NYCHA…", FAQ "one key", final repair capture |
+| B2 | same search | https://designguidelines.nycha.info/apartment-entrance-doors/ | NYCHA design guideline: heavy-duty latch set, heavy-duty deadbolt key outside/thumb-turn inside, chain guard, viewer; closer 90°→12° ≥5 s. | Research only (not on page) |
+| B3 | `Parkchester condominium apartment entrance door lock rules unit owner change lock key management` · Firecrawl search → Firecrawl scrape (pdf) | https://083d840ddfd5c6063e01-d068e497715423d630add53cb355c226.ssl.cf5.rackcdn.com/1128/39/LPDOC1/11288339/11288339-Rules_and_Regulations.pdf | "RULES AND REGULATIONS FOR THE PARKCHESTER NORTH CONDOMINIUM Updated January 2009": "Unit owners or their tenants may not change the bottom lock cylinder, as the bottom lock is the property of The Parkchester North Condominium. A second lock cylinder may be added or changed but all unit door keys must be filed with the Management Office." | Hero, §5 paras 1/3, §5.5 stat 4, §7 Parkchester card, Keyholder Map, §9 Q4–Q5, §10.5 H3 1/4, FAQ "one key", §13 card |
+| B4 | `Co-op City Riverbay apartment lock change shareholder duplicate key rules` · Firecrawl search (excerpt) | https://www.coopcity.com/Pdf/Resources_FAQ.pdf | "Outgoing shareholders are responsible for restoring their unit to its original standard or else Riverbay will deduct the cost to complete the restoration from their equity." No Riverbay lock/key rule found. (Delivery-permit detail reused from research/soundbar-installation.md.) | Hero, §5 para 3, §7 card, Keyholder Map, §9 Q3, §14 building costs |
+| B5 | `Co-op City Riverbay locksmith apartment door lock change shareholder Riverbay key policy` · Firecrawl search | https://guzovllc.com/precarious-co-op-rules/ | Excerpt: "Typically a shareholder cannot change the locks on the door providing access to the apartment unless they give duplicate keys for the locks or combination codes". Also https://cooperatornews.com/article/the-shareholder-versus-the-board (proprietary lease duplicate-key clause). | Keyholder Map (private co-op row), §10.5 H3 4 |
+| B6 | `New York Multiple Dwelling Law 51-c` · Firecrawl scrape | https://www.nysenate.gov/legislation/laws/MDW/51-C | Full text: tenant of a multiple dwelling (except one under supervision/control of a municipal housing authority; except hotel/motel/dormitory) may install a lock "separate and apart from any lock installed … by the owner", "not more than three inches in circumference", duplicate key to landlord/agent on request; lease charges for the right void. | §5 para 3, Keyholder Map + para, §9 Q1/Q5, §10.5 H3 2 |
+| B7 | HMC Article 11 · Firecrawl scrape | https://nycadmincode.readthedocs.io/t27/c02/sch02/art11/index.html | §27-2043: owner of a dwelling provides key lock in each dwelling-unit entrance door + at least one key; class A: heavy-duty latch set + heavy-duty deadbolt (key outside, thumb-turn inside); chain door guard. §27-2041: peephole; not required in tenant-occupied one/two-family home where visitor visible; not applicable to owner-occupied units in one- and two-family homes. | §5 para 2, §7.5 "whose lock", Keyholder Map, §9 two-family Q, two-family guide |
+| B8 | HPD fire safety · Firecrawl scrape | https://www.nyc.gov/site/hpd/services-and-information/fire-safety.page | "All residential buildings with 3 or more apartments must have self-closing doors… make sure your apartment door opens from the inside without a key." "It is illegal to install key-locked window gates on fire escapes and double-cylinder locks on apartment doors…" | §7.5 "what is on the inside", §9 police-lock Q, §10.5 H3 5, Keyholder Map |
+| B9 | MDL §50-a · Firecrawl scrape | https://www.nysenate.gov/legislation/laws/MDW/50-A | Class A built/converted after 1/1/1968: entrances automatic self-closing + self-locking; roof door "self-closing door which shall not be self-locking … a lock which does not require a key to open from inside"; 8+ apartments: intercom at self-locking lobby door with release from apartment; pre-1968 buildings: doors + intercom required when tenants occupying a majority request/consent in writing; willful damage/jamming = misdemeanor. | §8.5 roof bullet, §9 Q street door pre-1968, roof door, vestibule/buzzer, §10.5 H3 5–6, street-vs-apartment table |
+| B10 | `DHCR rent stabilized required services intercom door lock key fob replacement decrease in services complaint` · Firecrawl search → Firecrawl scrape (pdf) | https://hcr.ny.gov/system/files/documents/2023/11/fact-sheet-14-11-2023.pdf | Fact Sheet #14: required services include "maintenance of front or entrance door security (including, but not limited to, lock and buzzer)". Also https://hcr.ny.gov/living-conditions-and-essential-services (RA-81 form). | §9 rent-stabilized Q, §10.5 H3 6, street-vs-apartment table |
+| B11 | `Tenant Data Privacy Act Local Law 63 2021 smart access amended 2023 2024 2025 NYC tenants physical key` · Firecrawl search | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | LL63/2021 (Int 1760-2019) still current per HPD page: owners using smart access must provide a data retention and privacy policy. No later amendment found. (Consent / no-required-use details from silo research N4.) | §9 Fordham shop Q, street-vs-apartment table |
+| B12 | `Landmarks Preservation Commission rules doors hardware intercom keypad historic district permit staff-level` · Firecrawl search (excerpt) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf | LPC Permit Guidebook 2025: "If the existing door is original or historic — All historic fabric, such as sidelights, doors, transoms, framing, and door surround detailing must be retained." | Two-family guide "Landmarked fronts", §13 Longwood card |
+
+### Fire / self-closing doors
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| B13 | `Twin Parks North West fire Bronx January 2022 apartment door failed to close self-closing 17 dead` · Firecrawl search → Firecrawl scrape | https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire | Jan 9, 2022 ~10:55 a.m.; defective space heater; "Smoke spread through the building as a result of two malfunctioning self-closing doors"; 19-story, 120 apartments, 333 East 181st Street near Tiebout Avenue; building conformed to 2018 self-closing law. Deaths "17" from search excerpts (PBS headline, NYT "Left 17 Dead"). | §5 para 5, §7.5 closer test, §9 HPD inspector Q, §10.5 H3 5 |
+| B14 | `after Twin Parks fire City Council local laws 2022 self-closing doors inspection HPD notice law number` · Firecrawl search → Firecrawl scrape (pdf) | https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf | HPD report: LL71/2022 "passed in the wake of the Twin Parks fire" → program to identify high-risk buildings for proactive inspection; began Sept 2023 in 300 multiple dwellings; ~17,946 apartments + 3,351 public doors = 21,297 doors; 3,151 violations; Bronx row: 853 violations, 27%, 66 buildings. (First table's column alignment is ambiguous — only the borough-violations table used.) | §5 para 5, §5.5 stat 6, §9 HPD inspector Q |
+
+### Building stock / neighborhoods
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| B15 | `Bronx housing stock one- and two-family homes share percent Bronx buildings built before 1947 Furman Center` · Firecrawl search → Firecrawl scrape | https://unhp.org/blog/how-will-bronx-buildings-survive-as-they-age/ | Oct 10, 2014, UNHP: "Here in the Bronx, the median age of multifamily apartment buildings is 87 years"; nearly 8,000 multifamily (5+ units) buildings in Building Indicator Project database. | §5 para 4, §5.5 stat 2, §10.5 H3 7 |
+| B16 | `Edgewater Park Silver Beach Throggs Neck Bronx cooperative bungalows homeowners lease land` · Firecrawl search → Firecrawl scrape | https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx) ; https://www.nytimes.com/2009/08/02/realestate/02living.html (excerpt) | 60-acre waterside co-op of 675 single-family homes in Throggs Neck near the Throgs Neck Bridge; co-op in 1988; sister communities Silver Beach, Harding Park. NYT excerpt: "Residents own their homes but lease the land". | §7 waterfront card, §9 Edgewater Q, §13 card |
+| B17 | City Island · Firecrawl scrape | https://en.wikipedia.org/wiki/City_Island,_Bronx | ~1.5 mi × 0.5 mi; population 4,417 (2020); New City Island Causeway Bridge opened Oct 29, 2017. | §13 card |
+| B18 | `Longwood Historic District Bronx row houses semi-detached designated 1980 Landmarks Preservation Commission` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Longwood_Historic_District_(Bronx) ; https://www.nyc.gov/site/lpc/about/pr2026/lpc-unveils-new-historic-district-markers-commemorating-longwood-and-bronx.page ; https://www.lehman.edu/public-art-bronx/Longwood-Historic-District-/ | Semi-detached rowhouses; designated 1980, extension 1983. | §7 row-house card, §13 card, two-family guide |
+| B19 | SBS BID directory · Firecrawl scrape | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page | Bronx BIDs: 161st Street, Belmont, Castle Hill, Fordham Road, HUB Third Avenue, Jerome-Gun Hill, Kingsbridge, Morris Park, Southern Boulevard, Throggs Neck, Westchester Square, White Plains Road (12). | §8 cards + intro + closing line |
+| B20 | reused from research/soundbar-installation.md (Bronx) | furmancenter.org/neighborhoods/the-bronx ; coopcity.com + en.wikipedia.org/wiki/Co-op_City,_Bronx ; parkchesternyc.com/about-us/history + simple.wikipedia Parkchester ; hdc.org Grand Concourse HD ; en.wikipedia NYCHA (Edenwald, Patterson) ; cooperatornews / nybits Riverdale co-ops ; norwoodnews.org (Fordham Road 175 storefronts) ; thirdavenuebid (oldest commercial district) ; publicmarkets.nyc Arthur Avenue (Oct 1940) ; en.wikipedia Yankee Stadium | Homeownership 19.7% (2024); Co-op City 1966–1973, Freedomland site, 35 towers + 7 townhouse clusters, 15,372 units, 24–33 floors, Riverbay board, I-95/Hutchinson River Pkwy; Parkchester 1938, 129 acres/27% built, 171 buildings, 12,271 apartments, North/South condos; Grand Concourse HD designated Oct 25 2011, majority built 1916–1941; Edenwald 40 buildings 2,034 apts largest in borough, Patterson Mott Haven; Riverdale apartment buildings that became co-ops. | §5, §5.5 stats 1/3/4, §7 cards, §8 cards, §13 cards |
+
+### Sources not reachable / EMPTY
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: `EMPTY (not accessible in build env)`. §10.5 says so and uses published national/retail claims instead (LawnStarter national average from silo research).
+- Reddit r/bronx (smart lock / keypad / landlord): query `reddit bronx smart lock apartment landlord keypad` · Firecrawl search → no Bronx threads (only r/homeautomation, r/Landlord US-NY, r/AskNYC, r/NYCapartments Queens two-unit). `EMPTY` for Bronx; nothing quoted.
+- Bronx local news on smart locks / keyless entry: query `Bronx tenants keyless entry key fob system lawsuit landlord building 2023 OR 2024 OR 2025` · Firecrawl search → only Hell's Kitchen Latch (already on NYC hub). `EMPTY` for Bronx.
+- Bronx Times / Norwood News / Riverdale Press smart-lock stories: `EMPTY` (not found).
+- Yelp 1–3★ Bronx locksmith/smart-lock installers: `EMPTY (not accessible in build env)`.
+- Riverbay/Co-op City lock or key policy: not found → page says only what the restoration FAQ says.
+- Edgewater Park lock rules: not found → page says "we have not seen a published lock rule there".
+- Parkchester South rules: not found → page asks owners to send their rules.
+- Google Drive `AESS Website Photos/Smart Lock Installation`: EMPTY (per batch brief); CompanyCam not connected.
+
+### Prices used (no new prices; Bronx ×1.00)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,500–$2,500 installed | single-door keypad or fob reader with electric strike | access-control-installation-bronx.html ("SINGLE DOOR $1,500 – $2,500 … Keypad or fob reader with electric strike"; "Bronx pricing is Brooklyn base — no surcharge") |
+| $250–$450 | new electric strike on lobby door | door-buzzer-repair-allerton-bronx-ny.html |
+| $295–$485 | failed electric strike repair | door-buzzer-repair-bruckner-bronx-ny.html |
+| $225 first hour, then 30-min blocks | setup-only visit (apps/bridge/codes, no hardware) | research/tv-mounting-prices/BRIEF.md line 15 (Bronx) — same use as NYC/LI hubs; **flag: confirm this TV setup-only rate may be used for smart-lock app visits** |
+| $195/hr, 3-hr min ($585) | service/callback, not on initial install | blueprint v2.3 §9 |
+| $47.25 / +$50 after hours | NYCHA's own lockout lock charge (not AESS) | B1 |
+| $330 avg, $200–$460, labor $50–$110 | NATIONAL third-party (LawnStarter) | research/smart-lock-installation.md (LI section) |
+| Apartment-door smart lock | no AESS figure → "Quoted flat at free walkthrough" | — |
+
+## Images (11) — permanent image rule
+Drive folder empty and CompanyCam not connected (batch brief). Copied from `images/low-voltage/` and `images/commercial-security/`, converted to WebP q80 (all ≤1402 px wide, so no resize). All were viewed. Almost every door/lock photo in both libraries is already used (same photo, other filename) by one of the three hubs; four sources below are not used by any hub (marked *new*). The library photos look AI-rendered; the least obviously rendered door-relevant shots were chosen, avoiding fake business names (Summit/Pinnacle/Riverfront), the "123 Main Street" directory, readable name lists and customer faces.
+
+| File (images/smart-lock-installation/) | Source | Also on hub? |
+|---|---|---|
+| smart-lock-installation-bronx-electric-strike-glass-entry.webp (hero, eager) | commercial-security/commercial-security-systems-nyc-electric-strike-install.jpg | NYC (lobby strike) |
+| smart-lock-installation-bronx-keypad-push-to-exit-strike.webp | low-voltage/low-voltage-installation-queens-electric-strike-keypad.jpg | NYC hero / LI |
+| smart-lock-installation-bronx-maglock-header-glass-door.webp | low-voltage/low-voltage-installation-queens-maglock-install.jpg | LI |
+| smart-lock-installation-bronx-maglock-terminal-label.webp | low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | HV |
+| smart-lock-installation-bronx-keypad-camera-entry-pair.webp | commercial-security/commercial-security-systems-nyc-alarm-keypad-install.jpg | LI |
+| smart-lock-installation-bronx-reader-door-frame-wiring.webp | low-voltage/low-voltage-installation-queens-12-access-control-reader-wiring.jpg | NYC |
+| smart-lock-installation-bronx-intercom-keypad-panel-wiring.webp | low-voltage/low-voltage-installation-queens-11-video-intercom-entry-wiring.jpg | NYC |
+| smart-lock-installation-bronx-van-tool-load-out.webp | low-voltage/low-voltage-installation-staten-island-van-load-out.jpg | NYC |
+| smart-lock-installation-bronx-exterior-junction-boxes-block-wall.webp | commercial-security/commercial-security-systems-manhattan-exterior-enclosures.jpg | *new* |
+| smart-lock-installation-bronx-riser-conduit-cable-feed.webp | low-voltage/low-voltage-installation-queens-riser-conduit-pull.jpg | *new* |
+| smart-lock-installation-bronx-crew-ceiling-cable-pull.webp | low-voltage/low-voltage-installation-bronx-03-crew-cable-pull.jpg | *new* |
+Rejected after viewing: nyc-lobby-dome-camera ("Summit Enterprises" sign), nyc-access-reader-install ("Pinnacle Business Center"), nyc-video-intercom-install ("Riverfront Business Center"), queens-lobby-video-intercom ("123 Main Street" directory), nyc-credential-programming (readable lists), nyc-intercom-reception-test (face), nyc-dual-entrance-design (address).
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ + images/commercial-security/ (no real smart-lock photos yet)`.
+
+## Question register — smart-lock-installation-bronx
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 14)
+1. NYCHA says the bottom lock stays — where does a smart lock fit on a public-housing door?
+2. If NYCHA staff drill out a lock I added during a lockout, who puts it back?
+3. Does a Co-op City shareholder have to undo a smart lock when the apartment goes back to Riverbay?
+4. Parkchester North won't let owners touch the bottom cylinder — what smart options are left?
+5. I rent my Parkchester apartment from an individual owner — who files the key for the second lock?
+6. If the building's front-door lock or buzzer breaks, can a rent-stabilized tenant ask the state for a rent cut?
+7. Our door still has an old brace-bar police lock — can it stay alongside a keypad deadbolt?
+8. After the Twin Parks fire, what will an HPD inspector check on my apartment door?
+9. Our six-family building's street door predates 1968 — does the law require it to self-lock at all?
+10. Can the roof door get a keypad so only the super can open it?
+11. Can a keypad on the vestibule door replace the buzzer tenants use for visitors?
+12. I live downstairs and rent out the upstairs of our two-family — what does the law make me give my tenant?
+13. In Edgewater Park the land belongs to the co-op — does it get a say in my front-door lock?
+14. A Fordham Road shop shares a stair door with the apartments upstairs — whose code opens it?
+
+### §17 FAQ (visible == FAQPage, 10)
+1. Is Bronx pricing for keyless entry the same as Brooklyn pricing?
+2. Do I have to buy the smart lock myself, or can you supply one?
+3. Do you work for Bronx property managers looking after several buildings at once?
+4. Will you meet the super at the door so he can see the bottom lock is left alone?
+5. Can the keypad go at a height a wheelchair user can reach?
+6. Can the visit be on a Sunday or in the evening after work?
+7. Will you drill a NYCHA or co-op door before the building has said yes?
+8. Can the smart lock work with a doorbell camera so I see who I am letting in?
+9. Can one key open both my new smart lock and the bottom lock?
+10. Is there an extra charge for a fifth-floor walk-up?
+
+### Other question-form headings
+- H2 "Ready to Add a Smart Lock the Right Way?" (mid CTA)
+- Repair captures are non-question headings: "Bronx Smart Lock Beeping, Blank or Offline" and "Bronx Lockout With a Smart Lock: Call Before Anyone Drills".
+
+### De-dup notes
+Dropped during build after comparing with the hubs and the two batch siblings on disk: a TDPA "what should tenants ask before fobs" Q (overlaps NYC hub Q14), a Longwood historic-district keypad Q (same intent as HV Q11), a steel-door drilling Q (overlaps SI FAQ "Will drilling … damage a fibreglass or steel door?" and LI Q7), a finish-matching FAQ (same as SI FAQ), a coverage FAQ (pattern on NYC/LI), a WhatsApp-photos FAQ (HV FAQ3), and an aide-code / family-admin FAQ (answered in the page's own Families section). Partial overlaps left for the main run to judge: Q3 Co-op City move-out vs NYC Q4 rental move-out (different obligation and actor); Q5 Parkchester key filing vs NYC Q2 landlord key (condo two-tier filing); Q8 HPD inspection vs NYC Q8 self-closing interference; FAQ 5 wheelchair reach vs Nassau "older parent with arthritis or weak eyesight".
+
+
+# Smart Lock Installation — research part: Staten Island (smart-lock-installation-staten-island)
+
+Built 2026-10-17 by the Staten Island builder subagent (batch with -bronx and -nassau-county). Main run merges this into research/smart-lock-installation.md.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used.
+Thesis: on Staten Island the house is the building — owner-controlled, multi-door households (front, side, garage-to-house, basement/lower-unit, upper-unit stair door), exterior/waterfront exposure, family/caregiver code planning, two-family owner-occupant + tenant setups.
+Silo-wide sources reused from research/smart-lock-installation.md (not re-fetched): S1 Fixr, S2 Bob Vila, S4 August Connect 10–15 ft, S5 Yale Matter/Thread, N4 Tenant Data Privacy Act, N9 Admin Code §26-521, N17 LL18 date, N19 SBS BID directory (Forest Avenue BID); LI part: Schlage door prep (1-3/8"–2"), Schlage Encode temps (−31°F to 150.8°F), IRC R302.5.1 garage door (buildingcodetrainer.com), CBS 2016 Hauppauge garage-remote burglaries; prices table (access-control $1,500–$2,500; strike $250–$450; strike repair $295–$485; setup-only SI $225; $195/hr 3-hr min).
+
+## Staten Island (smart-lock-installation-staten-island)
+
+| # | Query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| SI1 | `Staten Island housing stock one- and two-family homes share percent NYC Department of City Planning` · WebSearch → WebFetch | https://chpcny.org/visualization/housing-stock-visualization/ | CHPC "Design & Housing Typologies", Oct 2024: "In Staten Island, 83 percent of units are in one- or two-family homes"; SI ≈5% of city housing; 16% studios/1BR. No detached/semi split. | §5 para 1, §5.5 stat 1 |
+| SI2 | `QuickFacts Richmond County New York owner-occupied housing unit rate 2020-2024` · WebSearch → WebFetch | https://www.census.gov/quickfacts/richmondcountynewyork | Pop. 501,290 (V2025, July 1 2025); owner-occupied 67.7% (2020–24); housing units 186,310 (V2025); persons/household 2.85; broadband 91.1%; median value $675,500 (not used). | §5, §5.5 |
+| SI3 | `Verrazzano-Narrows Bridge 1964 opened Staten Island population boom development` · WebSearch → WebFetch | https://eportfolios.macaulay.cuny.edu/seminars/bellamy10/articles/t/h/e/Staten_Island%7E_Then_and_Now_134c.html | Bridge 1964; pop. 191,555 (1950) → 443,728 (2000); largest decade jump 1960–70 (~73,000). No housing counts. | §5 para 2, §5.5, §7 cards (stated only as "decades after the bridge") |
+| SI4 | `Hurricane Sandy Staten Island deaths 24 of 43 New York City` · WebSearch → WebFetch | https://www.cbsnews.com/newyork/news/nypd-sandy-related-death-toll-rises-to-43-in-nyc/ | Nov 11 2012: 43 Sandy-related deaths in NYC, 23 on Staten Island (NYPD). | §5.5 |
+| SI5 | `Hurricane Sandy Staten Island homes destroyed Build It Back elevated homes Midland Beach Oakwood Beach buyout` · WebSearch → WebFetch | https://www.ny1.com/nyc/all-boroughs/build-it-broke/2015/10/29/idea-to-return-land-to-natural-state-after-sandy-transforms-staten-island-shore | Oct 29 2015: Oakwood Beach, Ocean Breeze, Graham Beach buyouts (state, Gov. Cuomo / GOSR); 513 SI buyout offers (> $188M), ~400 closed; 81 Oakwood Beach houses demolished. | §13 Oakwood Beach card |
+| SI6 | `NYC Building Code 1010.1.9 egress door readily openable…` → `nyc.gov 2022 NYC Building Code Chapter 10 means of egress pdf…` · WebSearch → WebFetch | https://www.nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_Chapter10_EgressWBwm.pdf | OFFICIAL. 2022 NYC BC §1010.1.9: egress doors "readily openable from the egress side without the use of a key or special knowledge or effort"; §1010.1.9.3 item 3 (main entrances B/M/S per 1010.1.4.4), item 4 (Group R dwelling/sleeping unit doors, occupant load ≤10, may have night latch/dead bolt/security chain "openable from the inside without the use of a key or tool"); §1010.1.9.5 unlatching ≤ one operation (exceptions incl. item 4). Group R-3 / double-cylinder not named. | §8.5 compliance bullets; §9 basement Q; §10.5 H3 6 (double cylinder) |
+| SI7 | same search | https://idighardware.com/2026/04/decoded-locks-on-dwelling-units-and-sleeping-units/ | Model-code commentary only (UL 294 not required for dwelling-unit electromechanical locks if readily openable; AHJ decides). Background, not cited on page. | research only |
+| SI8 | `NYC Office of Special Enforcement short-term rental registration host must be present…` · WebSearch → WebFetch | https://www.nyc.gov/site/specialenforcement/stay-in-the-know/information-for-hosts.page | OFFICIAL. Host must be present for stays < 30 days; up to two paying guests; registration; "every guest has free and unobstructed access to every room and each exit"; "Internal doors cannot have key locks that allow guests to leave and lock their room behind them"; Class A (3+ units) <30-day ads prohibited, fines $1,000–$7,500. | §9 STR bedroom-locks Q; §10.5 H3 7; owner/tenant section |
+| SI9 | same | https://www.nyc.gov/site/specialenforcement/registration-law/registration.page | Registration required; ≥30-day rentals and Class B exempt; enforcement phase from Sept 5 2023. | §9 STR Q |
+| SI10 | same | https://en.wikipedia.org/wiki/Local_Law_18_of_2022 | LL18 signed Jan 9 2022; host presence; 2 guests; "prohibits internal door locks"; Intro 1107 (proposed) would ease rules for 1–2 family homes — NOT used on page (proposed only). | §9 STR Q (date only) |
+| SI11 | `New York Multiple Dwelling Law definition` · WebFetch | https://www.nysenate.gov/legislation/laws/MDW/4 | MDL §4(7) multiple dwelling = 3+ families; §4(6) private dwelling = not more than two families. | §9 two-family Q |
+| SI12 | `smart lock finish warranty coastal salt air corrosion within miles of ocean exclusion…` · WebSearch → WebFetch | https://download.securityrussia.com/mt-qtm-lock-finish-application-definitions--april-2021-.pdf | dormakaba Lodging lock-finish definitions (Apr 2021): ocean-front = exterior application AND property within 3 miles (5 km) of saltwater; wrong finish in ocean environment voids warranty; gasket must be fitted at install or warranty invalidated; weekly salt wipe in salt-mist areas. (dormakaba.rokka.io 2024 version: fetch error → EMPTY.) | §5 para 4; §9 raised-house and maintenance Qs; §10.5 H3 4 |
+| SI13 | `silive Staten Island burglary unlocked door garage police warn residents lock doors 2025` · WebSearch → WebFetch | https://www.cbsnews.com/newyork/news/staten-island-break-ins-caught-on-video | Updated June 23 2022: Todt Hill home invasion — suspects threw a large stone through back-door glass while family slept; pattern linked to Tottenville, Prince's Bay, Lighthouse Hill; Lighthouse Hill car-key theft. No police prevention tips. | Door-by-door section; §10.5 H3 5 |
+| SI14 | same search | https://www.nbcnewyork.com/news/local/staten-island-burglaries-lighthouse-hill-jewelry/1972960/?amp=1 | Feb 29 2012: four Lighthouse Hill burglaries via rear second-floor windows. Not used (windows, old). | research only |
+| SI15 | `Hylan Boulevard` · WebFetch | https://en.wikipedia.org/wiki/Hylan_Boulevard | ~13.86 mi, Rosebank to Tottenville (Conference House Park); longest street in a single NYC borough; >44,000 vehicles/day. | §8 Hylan card |
+| SI16 | `Staten Island business improvement districts list Forest Avenue BID New Dorp Lane…` · WebSearch → WebFetch | https://citylandnyc.org/city-council-approves-new-dorp-bid | Council approved New Dorp BID 50–0 on Apr 5 2017; New Dorp Lane + adjacent streets between Hylan Blvd and Richmond Rd; 146 properties, 180 businesses. | §8 New Dorp card |
+| SI17 | same | https://www.siedc.org/neighborhoods | SIEDC neighbourhood programmes: West Shore, New Dorp Lane, Victory Boulevard, Richmond Road, Rosebank, Graniteville/Mariners Harbor, North Hylan, Richmond Avenue. No further detail. | §8 Victory Blvd + West Shore cards (names only) |
+| SI18 | `Staten Island Mall Richmond Avenue Heartland Village opened 1973 stores` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Staten_Island_Mall | New Springville; opened Aug 9 1973; ~1,370,000 sq ft. | §8 Richmond Ave card, §13 card |
+| SI19 | `Historic Richmond Town` · WebFetch | https://en.wikipedia.org/wiki/Historic_Richmond_Town | Richmondtown, near geographic centre; 25-acre main campus of 100-acre site; Staten Island Historical Society with City. | §13 |
+| SI20 | `Snug Harbor Cultural Center` · WebFetch | https://en.wikipedia.org/wiki/Snug_Harbor_Cultural_Center | North Shore on Kill Van Kull, Randall Manor; 83 acres; 1801 bequest of Capt. Robert Richard Randall; NHL district 1976. | §13 |
+| SI21 | `Conference House` · WebFetch | https://en.wikipedia.org/wiki/Conference_House | Tottenville, Conference House Park; built c.1675 (before 1680) near Ward's Point, southernmost tip of NYS, Raritan Bay; Sept 11 1776 Howe–Franklin/Adams/Rutledge. | §13 |
+| SI22 | `Staten Island Greenbelt` · WebFetch | https://en.wikipedia.org/wiki/Staten_Island_Greenbelt | ~2,800 acres, central hills; Todt Hill 410 ft. | §13 |
+| SI23 | Reddit (r/statenisland), Google PAA/PASF, Answer the Public, AI Overview, Bing/DDG, Yelp 1–3★ (SI) | — | EMPTY (not accessible in build env). §10.5 headings are claims from national cost guides/manufacturers, stated as such on page. | — |
+| SI24 | SI Advance (silive.com) smart-lock / garage-entry stories; hyperlocal | — | EMPTY — no silive result returned for smart locks or garage-entry burglary; replaced by CBS (SI13). | — |
+| SI25 | NYC-specific attached-garage door separation rule | `NYC building code door between private garage and dwelling self-closing…` · WebSearch | No NYC code text reached → EMPTY. Page cites the "model residential code" (IRC R302.5.1, LI research) only. | §7.5, §9 garage Q |
+| SI26 | DOB permit requirement for residential smart lock | — | Not searched/confirmed → no claim made on page. | — |
+
+### Prices used (SI multiplier 1.10, round half-up; no new figures)
+- Single-door keypad or fob reader with electric strike: $1,500–$2,500 base → **$1,650–$2,750** (§14, §15 Premium, FAQ, gate FAQ, Service schema).
+- New electric strike: $250–$450 → **$275–$495** (§14, schema).
+- Failed electric strike repair: $295–$485 → $324.50→**$325**–$533.50→**$534** (§14, schema).
+- Setup-only first hour: **$225** SI (research/tv-mounting-prices/BRIEF.md via silo table) (repair capture, §14, BYO card).
+- Service/callback $195/hr, 3-hr min ($585) (§14).
+- Residential smart locks: "quoted flat at free walkthrough" (no AESS figure).
+- Fixr national $250–$400 / avg $300, labelled national third-party (§10.5, §14).
+
+## Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+All library photos are rendered/AI-looking with AESS logos (the whole library looks like this — flag). Chose back-view/close-up shots where possible; no house numbers/plates/readable docs; some partial faces unavoidable.
+| File (images/smart-lock-installation/) | Source | Also used by hub? |
+|---|---|---|
+| smart-lock-installation-staten-island-keypad-strike-glass-door.webp (hero) | low-voltage/low-voltage-installation-queens-electric-strike-keypad.jpg | yes (same photo as NYC/LI hero) |
+| smart-lock-installation-staten-island-exterior-enclosure-brick-wall.webp | low-voltage/low-voltage-installation-staten-island-exterior-enclosure-install.jpg | yes (LI) |
+| smart-lock-installation-staten-island-keypad-reader-door-frame-wiring.webp | low-voltage/low-voltage-installation-staten-island-12-access-control-reader-wiring.jpg | yes (NYC) |
+| smart-lock-installation-staten-island-strike-terminal-closeup.webp | low-voltage/low-voltage-installation-queens-electric-strike-wiring.jpg | yes (NYC) |
+| smart-lock-installation-staten-island-maglock-label-wiring-closeup.webp | low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | yes (HV) |
+| smart-lock-installation-staten-island-entry-panel-back-box-wiring.webp | low-voltage/low-voltage-installation-staten-island-13-video-intercom-entry-wiring.jpg | yes (NYC) |
+| smart-lock-installation-staten-island-ceiling-wifi-access-point.webp | low-voltage/low-voltage-installation-staten-island-09-ceiling-access-point-drop.jpg | no |
+| smart-lock-installation-staten-island-wall-plate-termination.webp | low-voltage/low-voltage-installation-staten-island-07-keystone-wall-plate-termination.jpg | yes (HV) |
+| smart-lock-installation-staten-island-van-load-out-tool-bag.webp | low-voltage/low-voltage-installation-staten-island-van-load-out.jpg | yes (NYC, HV) |
+| smart-lock-installation-staten-island-tone-tracer-wall-jack.webp | low-voltage/low-voltage-installation-staten-island-tone-generator-trace.jpg | yes (LI) |
+| smart-lock-installation-staten-island-network-rack-laptop-setup.webp | low-voltage/low-voltage-installation-queens-rack-switch-config.jpg | no |
+Only 3 door-relevant unique photos in low-voltage/ + commercial-security/ were unused by the hubs (by md5), so reuse was unavoidable. Rejected: nyc-exterior-junction-boxes (clear face), nassau storefront camera (readable store-hours sign), lobby dome camera (named business logo).
+
+## Question register — smart-lock-installation-staten-island
+
+### §9 Questions Answered (H3)
+1. Should the door from our garage into the house lock itself every time it shuts?
+2. Our basement apartment has its own door down a stairwell — how do we lock it securely without anyone getting trapped?
+3. Our side door's hinges are on the outside — is a smart lock on it worth having?
+4. We raised the house after Sandy and the front door is now at the top of a long stair — does that change which lock we should choose?
+5. Our front door faces south with no overhang — does direct sun and rain matter for a keypad?
+6. Should a smart lock that faces the water get regular maintenance, and what does that involve?
+7. What should happen to the codes when a grown child moves out or a relative stops visiting?
+8. Does everyone in the house need the app, or can some people just use a code?
+9. Our teenager keeps leaving the side door unlocked — what can the lock actually do about it?
+10. If an elderly parent lives alone, how do we plan for emergency entry around a smart lock?
+11. In a two-family with one shared side door, should owner and tenant share a code or have separate ones?
+12. Is it fair to keep entry logs on the door my tenant uses?
+13. Can I put smart locks on bedroom doors if I host short-term guests in my house?
+14. We just bought a house on the South Shore — how do we make sure the previous owners can't still open the doors?
+15. We're replacing the front door itself — should the new door and the smart lock be chosen together?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. Why are Staten Island prices 10 percent above the Brooklyn base?
+2. Will drilling for a new lock damage a fibreglass or steel door?
+3. Will the lock still work properly if the door has dropped on its hinges?
+4. Can the new smart lock match the brushed nickel or bronze hardware already on the house?
+5. Do you fit keypads on side-yard gates as well as house doors?
+6. Do smart locks need a monthly subscription?
+7. Can our house and our parents' house nearby use the same codes?
+8. How long does a whole-house smart lock installation take?
+9. Can you set the locks up before we move in, while the house is still empty?
+
+### Other question-form headings
+- H2 "Smart Lock Acting Up on Staten Island?" (repair capture)
+- H2 "Can't Get In Through Your Own Door on Staten Island?" (final repair capture)
+
+De-dup notes: checked against the NYC/LI/HV registers and the Bronx/Nassau drafts on disk at ~07:10. Replaced during build: home-health-aide scheduled code (= Bronx FAQ), outswing-door fit (= Nassau), renovation timing (= Nassau), router swap (= Nassau), deposit (= Nassau), glass sidelight (≈ Nassau), video doorbell same visit (≈ Bronx), "other areas too?" (= NYC FAQ 10), cost-in-area (= NYC FAQ 1). Partial overlaps left for the main run to judge: Q1 garage auto-lock vs Nassau "mudroom door relocks while ajar"; Q4 raised Sandy house vs Nassau "ground-level door below flood line"; Q8 app-vs-code vs Nassau "easiest locks for older parent with arthritis"; Q11 two-family shared door vs Bronx "downstairs owner — what does the law make me give my tenant"; Q14 buyer reset vs LI FAQ "codes and app account when we sell".
+
+
+# Smart Lock Installation — Nassau County (batch part, 2026-10-17)
+
+Page: smart-lock-installation-nassau-county · up-link /smart-lock-installation-long-island · phone (516) 346-5778 (body, CTAs, schema; (800) 486-0943 only in shared mega-nav header) · GBP Brooklyn, 1282 Troy Ave, schema @id #brooklyn.
+The main run merges this into research/smart-lock-installation.md.
+
+Thesis: Nassau is 3 towns, 2 cities, 64 villages. Its doors cover every housing era (1869 Garden City planning, Gold Coast estates, 1920s–30s Colonials/Tudors, 1947–51 Levitt Capes/ranches, 1950s–60s split-levels/high ranches, newer Colonials, South Shore canal houses raised after Sandy, garden apartments/co-ops near LIRR stations, Main Street storefronts). Match the lock to each era's door: handleset doors, never-bored doors, split-level landing clearance, sidelights, frame strength, mudroom auto-lock, flood-line doors, narrow-stile shop doors.
+
+## Nassau County (smart-lock-installation-nassau-county)
+
+Format: exact query · platform · URL · finding · page section used.
+
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| L1 | `Nassau County Office of Consumer Affairs home improvement license who needs a license` · WebSearch → WebFetch | https://nassaucountyny.gov/3465/Who-Must-Be-Licensed | DCA licenses contractors doing home improvement in Nassau; "home improvement" = repair/replacement/remodeling etc. of a residence used by not more than three families. 29 listed trades include "doors, windows, awnings" and "carpentry work"; locks, locksmiths, security, alarms, electrical and low-voltage NOT named. No penalties stated. | §8.5 licensing note; §10.5 H3 "Who fits it doesn't matter" |
+| L2 | same search · WebFetch | https://archive.nassaucountyny.gov/agencies/OCA/Licensing/FAQ.html | "Contractors who perform remodeling on RESIDENTIAL homes" need a licence; "Anyone who works only on COMMERCIAL buildings does NOT need a license"; plumbers/electricians etc. exempt within their licensed field; $500/2 yrs + $50 restitution fund; licence must be displayed and its number put on contracts. | §8.5 licensing note (no claim that AESS holds a Nassau HI licence) |
+| L3 | `Nassau County towns cities villages number of incorporated villages …` · WebSearch → WebFetch | https://nassaucountyny.gov/3406/Cities-Towns-Villages | 2 cities (Glen Cove, Long Beach), 3 towns, 64 incorporated villages (Hempstead 22, North Hempstead 27, Oyster Bay 15), "over 100 unincorporated areas". | Hero badge/subhead, §5.5, towns section |
+| L4 | `Town of Hempstead short-term rental law Airbnb ban 30 days` · WebSearch → WebFetch | https://www.cbsnews.com/newyork/news/hempstead-air-bnb | June 19, 2017: town proposed banning rentals < 28 days; >1,000 Airbnb-style listings; registry, inspections, permits; hearing July 11. | §8.5 rental note; §9 Lido Beach/Point Lookout Q; towns section |
+| L5 | same search · WebFetch | https://longislandweekly.com/news/town-hempstead-votes-ban-short-term-rentals/ | Board unanimously voted July 11 (2017 per L4) to set a 28-day minimum; rental permit and registry with fire/zoning/building inspections; $500 two-year permit, $200 renewal. Article does not state whether villages are covered. | same as L4 (page tells readers to check their own town/city/village) |
+| L6 | `City of Long Beach NY short-term rental permit law registration` · WebSearch | — | Results were for Long Beach, California only. EMPTY for Long Beach NY. | not used |
+| L7 | `2020 Residential Code of New York State R311.2 egress door "readily openable from inside"` · WebSearch → WebFetch | https://aibd.org/egress-doors/ | Summary only: egress door "Easily openable from the inside without keys or special knowledge"; IRC, no NY edition named. | §8.5 free-egress note (worded as model-code requirement) |
+| L8 | `dos.ny.gov 2020 Residential Code of New York State based on 2018 International Residential Code effective May 12 2020` · WebSearch → WebFetch | https://dos.ny.gov/2020-04-nycrr-changes-2020-codes | NYS-specific code books "based on the 2018 International Code Council books"; effective May 12, 2020. | §8.5 free-egress note |
+| L9 | `Superstorm Sandy Nassau County homes damaged number …` · WebSearch → WebFetch | https://www.jlconline.com/projects/disaster-resistant-building/sandy-damaged-95-534-buildings-on-long-island-says-fema_o/ | Jan 11, 2013: 95,534 buildings damaged in Nassau + Suffolk combined (no Nassau split). | research only (not used — no Nassau-only figure) |
+| L10 | (direct from L9 search results) · WebFetch | https://en.wikipedia.org/wiki/Long_Beach,_New_York | Village 1913, city 1922; barrier island; boardwalk 2.2 mi; Sandy Oct 29, 2012, damage est. >$250M, no power/running water two weeks, boardwalk destroyed, reopened Oct 25, 2013; "City by the Sea"; <40% detached houses; 16,771 housing units (2020). | §5.5, §10.5 outage H3, §13 card, towns section |
+| L11 | `Levittown houses Cape Cod 1947 ranch 1949 models history` · WebSearch → WebFetch | https://omeka.hofstra.edu/exhibits/show/levittown--the-birthplace-of-s/the-levitt-home | Cape Cod first model; 1949 ranch restyled with living room to rear, kitchen at front (watch children, shorter grocery carry); slab with radiant heat pipes, no basement. No door/garage details. | §5 para 1, §5.5, §7 table, timeline SVG |
+| L12 | `Garden City New York village founded Alexander Turney Stewart 1869 …` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Garden_City,_New_York | Stewart bought Hempstead Plains land 1869; village inc. 1919; Franklin Avenue former department stores now office/medical; Cathedral of the Incarnation completed 1885, tallest building, village law caps heights; Adelphi 1929; post-war split-levels and ranches. (Seventh Street not in source — used only as a corridor name.) | §5, §5.5, §8 card, §13 card, timeline SVG |
+| L13 | `Old Westbury Gardens wikipedia mansion acres Phipps` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Old_Westbury_Gardens | Completed 1906 for John Shaffer Phipps; George A. Crawley with Grosvenor Atterbury; NRHP Nov 8, 1976; acreage conflicts (100 vs 160) — not used. | §13 card, timeline SVG |
+| L14 | `Planting Fields Arboretum State Historic Park Oyster Bay Coe Hall acres wikipedia` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Planting_Fields_Arboretum_State_Historic_Park | >400 acres, Upper Brookville, Town of Oyster Bay; Coe Hall 1918–1921 Tudor Revival, 67 rooms, Walker & Gillette; Olmsted Brothers landscapes. | §13 card, timeline SVG |
+| L15 | `Freeport Nautical Mile Woodcleft Avenue wikipedia` · WebSearch → WebFetch | https://www.iloveny.com/listing/freeport-nautical-mile/127241/ | Waterfront strip along Woodcleft Canal; dozens of restaurants, bars, shops; daily charter fishing boats; nightlife. | §5 para 4, §8 card, §13 card |
+| L16 | (from L12 search family) · WebFetch | https://en.wikipedia.org/wiki/Glen_Cove,_New_York | City since Jan 1, 1918 (never a village); Gold Coast estates (Pratt, Morgan, Woolworth); mansions mostly converted from single-family use by mid-century; post-war development on former farms. | towns section, timeline SVG |
+| L17 | · WebFetch | https://en.wikipedia.org/wiki/Mineola,_New_York | County seat since 1900; village inc. 1906; Jericho Turnpike is its commercial main street; Mineola Blvd; Old Country Road on southern border; NYU Langone Hospital–Long Island. | §8 card, towns section |
+| L18 | · WebFetch | https://en.wikipedia.org/wiki/Great_Neck,_New_York | Nine incorporated villages on the peninsula; Middle Neck Road runs along its centre; Port Washington Branch LIRR. | §8 card, towns section |
+| L19 | `Nassau County police burglaries rear door unlocked residents warned 2026` · WebSearch → WebFetch | https://www.pdcn.org/CivicAlerts.asp?AID=11519 | June 15, 2023 ~4:38 a.m., Circle Drive, Syosset: two masked men tried car doors, tested a rear sliding door and basement window; police urge residents to "lock their vehicles and their residence doors"; "locked doors can help to prevent crimes." | §5 para 3, §10.5 hacking H3 |
+| L20 | same search · WebFetch | https://www.cbsnews.com/newyork/news/nassau-county-distraction-burglaries/ | June 1, 2015: Nassau police warn of distraction burglars posing as contractors/utility workers while a partner enters an unsecured entry; keep doors locked even when home. | §5 para 3, §10.5 hacking H3 |
+| L21 | `site:reddit.com r/longisland smart lock keypad Nassau door` · Firecrawl search | (excerpts only) | No relevant Nassau smart-lock threads. EMPTY. | — |
+| L22 | Reddit (local), Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG, Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are paraphrases of claims in national cost guides / maker pages (stated on the page). | — |
+| L23 | Local news on smart locks in Nassau (Newsday, Patch, LI Herald, News12) | — | None found beyond L19/L20. EMPTY for the service category. | — |
+| L24 | Village building-permit rules for swapping a lock on an existing door | — | No source found; page makes no permit claim (only says door replacement/carpentry falls in a licensed trade and to check with the village/town). EMPTY. | — |
+| L25 | HOA / co-op rules specific to Nassau | — | No source fetched; page speaks generally ("many co-op and rental buildings require management keeps a working key or code") without a statistic. EMPTY. | §9 garden-apartment Q (general) |
+
+Carried from earlier silo / repo research (sources reached by earlier runs, not re-fetched):
+- Census QuickFacts Nassau: 480,591 housing units (July 1, 2025), owner-occupied 81.9% (2020–2024), 2.99 persons/household — research/soundbar-installation.md, research/sonos-installation.md → §5.5.
+- Eisenhower Park 930 acres, East Meadow, three courses, Nassau 9/11 Memorial — research/sonos-installation.md (Wikipedia via Firecrawl) → §13 card.
+- Fixr ($250–$400, avg $300, Jan 2025), LawnStarter ($330 avg, $200–$460, 2025), Schlage door-prep (1-3/8–2 in, 2-1/8 cross bore, 2-3/8/2-3/4 backset), Yale Matter FAQ (border router, app limits), Ring Alarm Z-Wave lock arming (Ring-app codes only, subscription), 2010 ADA 404.2.7 (no tight grasping; 34–48 in), August bridge distance — silo research in research/smart-lock-installation.md → §8.5, §10, §10.5, §14.
+- Hours 8 AM–8 PM, 7 days — research/tv-mounting-prices/BRIEF.md → LocalBusiness openingHours.
+
+### Prices used (no new figures)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,725–$2,875 | single-door keypad or card reader with electric strike, installed (Nassau) | $1,500–$2,500 Brooklyn base (access-control pages, silo table) × 1.15 |
+| $288–$518 | new electric strike on existing door | $250–$450 base × 1.15, round half-up |
+| $339–$558 | failed electric strike repair | $295–$485 base × 1.15 |
+| $225 first hour, then 30-min blocks | setup-only visit (app/pairing/codes, no hardware) | research/tv-mounting-prices/BRIEF.md (Nassau rate) — same use as LI hub, still flagged for Anwar |
+| $195/hr, 3-hr min ($585) | service call after the job, not on initial install | blueprint v2.3 §9 |
+| Residential smart deadbolt / handleset / retrofit / BYO labour | no AESS figure → "quoted at walkthrough" | — |
+| $250–$400 avg $300; $330 avg | national third-party only, labelled | Fixr, LawnStarter |
+
+CONFLICT for Anwar (not used): live `access-control-installation-nassau-county.html` publishes "Standalone smart lock with code management: $400-$900", "Single-door networked keypad system: $800-$1,500 installed" and "Standard commercial card reader or keypad: $1,500-$4,500 per door installed" — these disagree with the silo's $1,500–$2,500 × 1.15 basis used by the LI hub and this page.
+
+## Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected)
+All copied to images/smart-lock-installation/ as WebP q80 (max 1600 px). Photos in the library look AI-rendered in style, as does the whole low-voltage/commercial-security library; no alternative real photos exist. No readable addresses, plates or named businesses in the chosen frames (rejected: lobby-video-intercom "123 Main Street" directory, access-reader "Pinnacle Business Center", lobby-dome-camera "Summit Enterprises", dashboard-training client face).
+
+| File | Source | Already used by another smart-lock page? |
+|---|---|---|
+| smart-lock-installation-nassau-county-strike-terminal-wiring.webp (hero) | low-voltage/low-voltage-installation-nassau-county-electric-strike-wiring.jpg | same photo as NYC hub strike-terminal-wiring-closeup |
+| smart-lock-installation-nassau-county-video-intercom-entry-panel.webp | low-voltage/low-voltage-installation-bronx-11-video-intercom-entry-wiring.jpg | same photo as NYC hub video-intercom-keypad-wiring |
+| smart-lock-installation-nassau-county-reader-glass-door-wiring.webp | low-voltage/low-voltage-installation-bronx-14-access-control-reader-wiring.jpg | same photo as NYC hub fob-reader-mounting |
+| smart-lock-installation-nassau-county-maglock-terminal-block.webp | low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | same photo as HV hub maglock-terminal-wiring |
+| smart-lock-installation-nassau-county-storefront-header-maglock.webp | low-voltage/low-voltage-installation-long-island-maglock-install.jpg | same photo as LI hub maglock-header-wiring |
+| smart-lock-installation-nassau-county-strike-glass-door-crouch.webp | commercial-security/commercial-security-systems-bronx-electric-strike.jpg | same photo as NYC hub electric-strike-lobby-door |
+| smart-lock-installation-nassau-county-door-contact-keypad-panels.webp | commercial-security/commercial-security-systems-bronx-panic-button.jpg | same photo as HV hub door-contact-keypad-panels |
+| smart-lock-installation-nassau-county-network-rack-laptop-setup.webp | low-voltage/low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg | not used by hubs |
+| smart-lock-installation-nassau-county-retail-entrance-sensor-crew.webp | commercial-security/commercial-security-systems-dutchess-entrance-crew.jpg | same photo as HV hub storefront-frame-sensor |
+| smart-lock-installation-nassau-county-main-entrance-camera-ladder.webp | low-voltage/low-voltage-installation-nassau-county-storefront-camera-install.jpg | not used by hubs |
+| smart-lock-installation-nassau-county-exterior-junction-boxes-block-wall.webp | commercial-security/commercial-security-systems-manhattan-exterior-enclosures.jpg | not used by hubs |
+Nearly every door/lock photo in the two source folders was already used by a hub (71 distinct photos by perceptual hash); 3 of 11 are new to the silo. Overlap with the Bronx/Staten Island batch pages not coordinated.
+
+Also on the page (not images, not figures): three inline SVG diagrams (door-prep dimensions, Nassau door-era timeline with sourced dates, split-level landing clearance) and inline SVG card icons.
+
+## Question register — smart-lock-installation-nassau-county
+
+§9 Questions Answered (H3):
+1. Can a keypad deadbolt be added above the thumb-latch handleset on our Colonial or Tudor front door without replacing the whole set?
+2. What if our front door has never been bored for a deadbolt at all?
+3. The front door on our split-level opens onto the landing between two half-flights — will the inside of a smart lock hit the railing?
+4. Our center-hall Colonial has glass sidelights beside the front door — how do we stop someone reaching through and turning the lock?
+5. How do we stop the door from being kicked in at the frame once the smart deadbolt is on?
+6. The mudroom door is where everyone kicks off their boots — what happens if it relocks while the door is still ajar?
+7. Can the lock tell us which of our children got home and at what time?
+8. Which smart locks are easiest for an older parent with arthritis or weak eyesight to use?
+9. We have a kitchen renovation starting — can the lock show when the contractor's crew actually arrives and leaves?
+10. Will auto-lock shut me out when I step into the yard to let the dog out?
+11. Should a smart lock go on a ground-level door that sits below the flood line in a canal-front house?
+12. We would like to let our Lido Beach or Point Lookout house to weekend visitors with keypad check-in — does the Town of Hempstead allow that?
+13. Our garden-apartment unit door opens straight to the outdoors rather than onto a hallway — does that change which lock suits it?
+14. When Optimum or Verizon swaps our router, do the smart locks stop working?
+15. What goes on a narrow-stile aluminium shop door, since a residential smart deadbolt won't fit it?
+16. Our landlord at a village strip centre won't let us cut into the storefront frame — what are the options?
+17. Can a supplier get in our back door at 5 a.m. without anyone from the restaurant there?
+18. Can staff be locked in after closing if the back door uses a keypad?
+
+§17 FAQ (visible == FAQPage, 10):
+1. Do you work in every Nassau village, including Glen Cove and Long Beach, which are cities rather than towns?
+2. Can you leave our existing doorknob or lever in place and replace only the deadbolt with a smart one?
+3. Our front door has a mail slot and a knocker near the lock — will they get in the way?
+4. Is a deposit required to book the installation?
+5. Do you need to touch our electrical panel or turn off power for a smart lock?
+6. We are in the middle of a renovation — when should the smart locks go on?
+7. Is there a smart option for the sliding glass door out to the deck?
+8. Is the electric strike for a shop door priced separately from the keypad?
+9. Will you protect our floors and painted trim while you bore and chisel the door?
+10. Will the quote list each door separately so we can phase the work?
+
+No question-form CTA headings (repair captures are "When a Nassau Smart Lock Stops Behaving" and "Same-Day Help for a Failed Nassau Smart Lock").
+
+De-dup notes: checked by meaning against the NYC, LI and HV registers and against the Bronx and Staten Island pages on disk at ~07:15. Replaced during the build: "Smart Lock Acting Up in Nassau County?" (masked-identical to Bronx/SI repair H2); dock-gate shared code (vs SI side-yard gate keypads); outswing-door FAQ (vs SI outside-hinge side door); door planing/rehanging FAQ (vs SI dropped-hinge door); removing old locks/packaging FAQ (vs LI remove-and-patch FAQ); "keypad without full access control" wording (vs HV office-suite Q). Close neighbours left for the main run to judge: Q4 sidelight reach-through vs NYC double-cylinder legality (different intent); Q12 Hempstead rental legality vs LI fortnight-rental codes and HV registry; Q14 router swap vs HV internet-down; "Taking Over a House That Already Has Smart Locks" (non-question H2) vs SI "previous owners can't still open the doors" question.
