@@ -185,9 +185,9 @@ LIVE | smart-lock-installation-bay-ridge-brooklyn-ny | Smart Lock Installation |
 BUILDING 2026-10-17T17:02Z | smart-lock-installation-long-island-city-queens-ny | Smart Lock Installation | Long Island City, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T17:02Z | smart-lock-installation-mott-haven-bronx-ny | Smart Lock Installation | Mott Haven, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T17:02Z | smart-lock-installation-great-kills-staten-island-ny | Smart Lock Installation | Great Kills, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T17:08Z | fiber-optic-installation-hudson-square-manhattan-ny | Fiber Optic Installation | Hudson Square, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T17:08Z | fiber-optic-installation-sunset-park-brooklyn-ny | Fiber Optic Installation | Sunset Park, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T17:08Z | fiber-optic-installation-astoria-queens-ny | Fiber Optic Installation | Astoria, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | fiber-optic-installation-hudson-square-manhattan-ny | Fiber Optic Installation | Hudson Square, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | fiber-optic-installation-sunset-park-brooklyn-ny | Fiber Optic Installation | Sunset Park, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | fiber-optic-installation-astoria-queens-ny | Fiber Optic Installation | Astoria, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T17:27Z | fiber-optic-installation-mott-haven-bronx-ny | Fiber Optic Installation | Mott Haven, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T17:27Z | fiber-optic-installation-port-richmond-staten-island-ny | Fiber Optic Installation | Port Richmond, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T17:27Z | fiber-optic-installation-flatiron-manhattan-ny | Fiber Optic Installation | Flatiron, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
