@@ -106,3 +106,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-throgs-neck-bronx-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-todt-hill-staten-island-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-chelsea-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bayside-queens-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-morris-park-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-west-brighton-staten-island-ny | QUEUED
