@@ -50,9 +50,9 @@ LIVE | fiber-optic-installation-suffolk-county | Fiber Optic Installation | Suff
 LIVE | fiber-optic-installation-westchester-county | Fiber Optic Installation | Westchester | up /fiber-optic-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE | fiber-optic-installation-rockland-county | Fiber Optic Installation | Rockland | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | fiber-optic-installation-orange-county | Fiber Optic Installation | Orange | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T07:40Z | fiber-optic-installation-putnam-county | Fiber Optic Installation | Putnam | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T07:40Z | fiber-optic-installation-dutchess-county | Fiber Optic Installation | Dutchess | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T07:40Z | fiber-optic-installation-ulster-county | Fiber Optic Installation | Ulster | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | fiber-optic-installation-putnam-county | Fiber Optic Installation | Putnam | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | fiber-optic-installation-dutchess-county | Fiber Optic Installation | Dutchess | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE | fiber-optic-installation-ulster-county | Fiber Optic Installation | Ulster | up /fiber-optic-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | sonos-installation-manhattan | Sonos Installation | Manhattan | up /sonos-installation-nyc | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-brooklyn | Sonos Installation | Brooklyn | up /sonos-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-queens | Sonos Installation | Queens | up /sonos-installation-nyc | (347) 434-6392 | GBP Bronx

@@ -1511,3 +1511,316 @@ fiber-optic-installation-suffolk-county
 - Is there a charge for a site walk on the North or South Fork?
 
 Main-run de-dup notes (2026-10-17 batch staten-island/nassau/suffolk): replaced after collisions with pages shipped concurrently — Nassau "1990s multimode" (Queens/Rockland), "shop and apartments share one cable" (Queens), "payment handled" (Bronx deposit), "asbestos in older building" (Westchester/Bronx); Suffolk "look at a property before closing" (Bronx audit before buy/lease, Rockland pre-close test). Several captions/paragraphs rewritten to keep masked similarity < 0.65 vs Queens/Bronx/Westchester/Rockland/Orange.
+
+
+## Putnam County — local research (2026-10-17 batch, fiber-optic-installation-putnam-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources and the HV hub section are reused where noted. Page thesis: in Putnam the fiber problem is land and licence — trees (two-thirds forest), Highlands rock (9/10 of land), NYC watershed (3/4 of county) and a county-level low-voltage licence that names fiber optics — on a building stock that is ~80% detached houses with outbuildings, plus small Route 6/22/312 commercial sites and civic buildings.
+
+### County profile (primary source)
+- `Putnam County New York percent of county in New York City watershed reservoirs Croton` · Firecrawl search → https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf (Firecrawl scrape/query): >240 sq mi; six towns (Carmel, Kent, Patterson, Philipstown, Putnam Valley, Southeast) + villages Brewster, Cold Spring, Nelsonville; ~three-quarters in NYC watershed; >nine-tenths Hudson Highlands, gneiss/schist/granite; forest 67.9% (2006) / 66.9% (2011); 79.2% single-family detached (30,215 units, 2012 ACS); reservoirs Bog Brook 4.4, Croton Falls 14.2, Diverting 0.9, East Branch 5.2, Middle Branch 4.1, Boyds Corner 1.7, West Branch 8 billion gal (sum ≈38.5); rail stops Brewster, Brewster North, Patterson, Cold Spring, Garrison, Breakneck Ridge, Manitou; one hospital in Carmel; 2,829 establishments / 20,519 employees; lakes list incl. Lake Mahopac, Lake Carmel, Lake Gleneida, Putnam Lake, Lake Peekskill, Oscawana Lake, Roaring Brook. → §5 paras 1–2 + facts list; §7 lake-community card; §8 intro; §13 Croton Falls & Brewster cards; Town by Town; hero subhead.
+- Note: page calls Brewster North the "Southeast Metro-North station" (renamed; builder's knowledge, not from the PDF) — flag if a citation is wanted.
+
+### Licensing / permits
+- `Putnam County Department of Consumer Affairs home improvement license electrician license requirement` · Firecrawl search → https://www.putnamcountyny.gov/consumer-affairs (scrape/query): licenses Master, Special & Reciprocal Electricians, "Limited Data Communication Technicians", Journeymen, Helpers; publishes "List of Licensed Low Voltage Technicians (as of August 11, 2026)"; "Electrical permit applications for locations in the Towns of Carmel, Patterson, and Putnam Valley must be filed directly with those Building Departments." → §8.5 callouts 1–3; §9 Q1, Q3; Town by Town (Carmel, Patterson, Putnam Valley).
+- Same search → https://ecode360.com/6607815 (Chapter 145 Electricians, scrape/query): low-voltage/limited-data communications technician = 8,000 hours + exam; covers computer networking, telecom, CATV, intercom, A/V, fiber optics, video surveillance, ≤90 V and ≤5 A, "where such work commences at an outlet receptacle or connection previously installed by a person holding the proper electrical license"; master electrician qualifies; no one may carry on the trade in the county unless licensed/registered; exemptions incl. utilities and telecom companies up to demarcation; continuing education from 2019. → §5 para 4; §8.5; §9 Q1–Q2; §10.5 H3 1; FAQ "electrician/generator".
+- Same search → https://adaptdigitalsolutions.com/articles/new-york-contractor-license-requirements/ (excerpt; title "New York Contractor License Requirements: None Statewide") → §10.5 H3 1 (quoted claim).
+- NOT claimed on page: that AESS holds a Putnam county low-voltage licence (not verified) — page tells owners to ask installers, "including us", and to check the county list. FOR ANWAR TO CONFIRM.
+
+### Watershed / stormwater / City land
+- `NYC DEP watershed regulations stormwater pollution prevention plan land disturbance threshold square feet East of Hudson Putnam` · Firecrawl search → https://www.townofkentny.gov/DocumentCenter/View/2280/Stormwater-Management-Plan (scrape/query): ≥1 acre generally, ≥5,000 sq ft in East of Hudson watershed; Town of Kent reviews SWPPPs. → §8.5 callout 4; §9 Q4; Town by Town (Kent).
+- Same search → https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-27250 (excerpt: NYC Ch. 19.1 "covered development project" 20,000 sq ft / 5,000 sq ft impervious — NYC sewer-system rule) → NOT used (NYC-only).
+- `NYC DEP land use permit crossing City-owned watershed land utility cable Putnam` · Firecrawl search → https://www.nyc.gov/site/dep/environment/opportunities-on-city-lands.page (excerpt: "Land Use Permits to applicants who request the temporary use of City-owned water-supply lands for specific proposed activities") → §8.5 callout 5; §9 Q5.
+- https://www.nyc.gov/site/dep/water/diverting-reservoir.page (excerpt: Diverting connected to Croton Falls via channel and dividing weir) → §13 Croton Falls card.
+- `NYC DEP owns acres of land in Putnam County` · Firecrawl → only Kensico (Westchester) purchase news. EMPTY for Putnam acreage (no figure on page).
+
+### Weather / outages
+- Lightning: HV hub source reused (Earth Networks 2020: Putnam 75,093 pulses, 35 thunder days) → §5 facts; Storm Season section.
+- `Putnam County power outages storm NYSEG Central Hudson percent customers without power trees` · Firecrawl search → https://www.lohud.com/story/weather/2018/03/05/storm-monday-power-outage/394304002/ (search excerpt: "NYSEG: 18,525 customers without power in Putnam County"; scrape returned page metadata only, figure not in scraped body) → §5 facts; §10.5 H3 3. Stated as the Journal News's March 5, 2018 report.
+
+### Providers / broadband
+- `Highlands Current Philipstown internet broadband fiber Garrison Optimum Verizon` · Firecrawl → https://highlandscurrent.org/2023/05/05/fiber-optic-coming-to-highlands/ (scrape/query, May 5 2023): Optimum installing fiber throughout Philipstown (up to 5 Gbps, later 8); Verizon building in Beacon; Verizon "reviewing a FiOS build in Cold Spring but cannot commit to a timeframe." → §10.5 H3 2; Town by Town (Philipstown).
+- Same search → https://broadbandnow.com/New-York/Garrison (excerpt: Verizon Fios "covers 40.5% of the area") → §10.5 H3 2 (quoted as aggregator claim).
+- `reddit Putnam Valley OR Patterson OR Kent NY internet options home office slow` · Firecrawl → https://broadbandnow.com/New-York/Putnam-Valley (search content): "most widely available internet in Putnam-Valley … is EarthLink Fiber"; Viasat "spans 100.0%"; Mint Mobile 5G "57.6%". → §10.5 H3 2 (aggregator claims, shown as contradictory).
+- `Putnam County NY broadband fiber expansion 2025 unserved homes Philipstown Putnam Valley` · Firecrawl → no Putnam-specific programme found (Sullivan/Madison/WV results). EMPTY.
+- Optimum Mahopac page (excerpt: "speeds up to 8 Gig in Mahopac") → not used (marketing).
+
+### Landmarks / corridors
+- `Putnam County Historic Courthouse Carmel built 1814` · Firecrawl → https://en.wikipedia.org/wiki/Putnam_County_Courthouse_(New_York) (excerpt: built 1814, renovated 1847, hamlet of Carmel, county seat); https://www.hmdb.org/m.asp?m=37288 (excerpt: "second oldest working court house") → §13 card ("one of the oldest working courthouses in the state"); Civic section; §5 para 3.
+- `Tilly Foster Farm Brewster county-owned acres buildings` · Firecrawl → https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2022/August/minutes/Phys-08-25-22-Presentation-Tilly-Foster-Overview-2022.pdf (excerpt: county-owned, ~199 acres, Town of Southeast, originally dairy); https://www.tpl.org/media-room/tilly-foster-farm-protected-environmental-resource (excerpt: dairy and thoroughbred farm) → §13 card; Town by Town (Southeast).
+- `Putnam Hospital Carmel NY beds Stoneleigh Avenue Nuvance Northwell` · Firecrawl → https://www.northwell.edu/locations/putnam-hospital (excerpt: 670 Stoneleigh Avenue, Carmel) → §8 card; §13 card. Bed count: EMPTY (not stated).
+- `Clarence Fahnestock Memorial State Park acres` · Firecrawl → https://parks.ny.gov/visit/state-parks/fahnestock-state-park-clarence-fahnestock (excerpt: 15,000-acre park in Putnam and Dutchess); reserveamerica excerpt (Route 301) → §13 card.
+- `Mt Ebo Corporate Center Brewster Southeast NY office park Route 312` · Firecrawl → https://southeast-ny.gov/DocumentCenter/View/2436/1b (excerpt: Route 312, "3-story, 50,000 sq. ft. medical facility"); https://www.c21alliancegroup.com/... (excerpt: 15 Mount Ebo Road S, office/medical/educational space); brewsterchamber.com (excerpt: 16 Mount Ebo Road South address) → §8 card 1; §9 Q10; Typical Designs #3.
+- `Putnam County Brewster Carmel Route 6 22 business corridor` (HV hub run) → EMPTY; corridor cards for Route 6/22/52/311/Route 9 describe road names only (from county profile road list), no business facts claimed.
+
+### Reddit / PAA / PASF / ATP / AI Overview / Bing & DDG / Yelp
+- `reddit Putnam County NY internet Optimum only fiber Mahopac Carmel` · Firecrawl → only r/longisland, r/OPTIMUM, r/Rockland, r/Westchester threads; no Putnam thread. Reddit (Putnam): EMPTY.
+- PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp: EMPTY (not accessible in build env). §10.5 uses published claims instead: adaptdigitalsolutions (H3 1), BroadbandNow (H3 2), unio.digital aerial $8–$12/ft and trenching $15–$35/ft, boring $20–$30/ft, drop $300–$800 (silo/HV source; H3 3–5), thenetworkinstallers FBA 2025 $18.00/ft median (silo; H3 4), T-Mobile "up to 4 hours" (silo; H3 6), Central Hudson/Dig Safely NY 811 2–10 days, utilities mark their lines (HV source; H3 7, §8.5 callout 6).
+
+### Pricing used (blueprint §9, Putnam 1.45× — HV hub table row, no new prices)
+$51 termination · $58 OTDR/strand · $508 MM drop · $580 SM drop · $6,525–$10,150 12-strand OM4 · $11,600–$21,750+ 24-strand OS2 · from $3,480 second room · Starter $1,920 (24×$51 + 12×$58) · $195/hr 3-hr min ($585) protected.
+DISCREPANCY (already logged by HV hub): structured-cabling-pricing-putnam-county configurator shows fiber drops $494 / $564.
+
+### Images (11) — permanent image rule, pool = images/network/ sorted lines 1–117
+All source photos show staff faces and an 844-386-7238 number on shirts/signs; each was CROPPED so no face and no phone number is in frame (checked visually). Subjects in the pool are all also used on other fiber pages from other source files; least-used subjects (idf bundle, core-drill rough-in, rack before/after) preferred.
+| File (images/fiber-optic-installation/) | Source (images/network/) | Crop |
+|---|---|---|
+| fiber-optic-installation-putnam-county-tester-pass-wall-outlet.webp | network-installation-bronx-fluke-dsx-certification-pass.webp | x0–960 |
+| fiber-optic-installation-putnam-county-rack-before-after-rebuild.webp | network-installation-bronx-network-rack-cleanup-before-after.webp | none |
+| fiber-optic-installation-putnam-county-emt-sweep-cable-pull.webp | network-installation-bronx-network-drop-conduit-emt-riser.webp | x560–1448 |
+| fiber-optic-installation-putnam-county-hammer-drill-block-entry.webp | network-installation-nyc-core-drill-conduit-rough-in.webp | x590–1448 |
+| fiber-optic-installation-putnam-county-jhook-bundles-above-grid.webp | network-installation-bronx-jhook-ceiling-pathway-bundles.webp | x500–1448 |
+| fiber-optic-installation-putnam-county-tone-probe-panel-trace.webp | network-installation-bronx-network-cable-toner-tracing.webp | x0–800 |
+| fiber-optic-installation-putnam-county-sfp-switch-seated-rack.webp | network-installation-bronx-managed-poe-switch-rack-install.webp | x0–840 |
+| fiber-optic-installation-putnam-county-patch-cord-label-applied.webp | network-installation-bronx-cable-labeling-port-map.webp | x0–900, y0–860 (cable-map sheet cropped out) |
+| fiber-optic-installation-putnam-county-punchdown-panel-hands.webp | network-installation-nyc-patch-panel-punchdown-rack.webp | x815–1448 |
+| fiber-optic-installation-putnam-county-bundle-lift-open-ceiling.webp | network-installation-nyc-idf-riser-cable-bundle.webp | x600–1448 |
+| fiber-optic-installation-putnam-county-rack-yellow-patch-ups.webp | network-installation-bronx-finished-network-rack-firewall-ups.webp | x0–630 |
+DAILY-LOG note: `images: 11 reused from images/network/ (no real fiber-optic-installation photos yet; cropped to remove faces and shirt phone numbers)`. Captions describe copper network gear honestly (no claim the cable shown is fiber).
+
+### Keyword plan (Putnam page)
+Service: fiber optic installation Putnam County, house-to-garage fiber, outbuilding fiber, conduit-only, fusion splicing, OTDR testing, provider extension. Problem: cable strung through trees, storm/branch damage, wireless bridge blocked by leaves, rock near surface, tree roots, watershed erosion rules, City reservoir land, shared private lanes, missing outlet at far building. Technology: indoor/outdoor OS2, all-dielectric loose-tube, rodent-resistant jacket, OM4, HDPE conduit, tracer wire, splice enclosures, SFP switches/media converters, UPS. Industry: commuter homes/home offices, lake communities, estates/farms, medical suites, village main streets, town halls/libraries/fire companies/schools. Geographic: Putnam County; Carmel, Mahopac, Southeast, Brewster, Patterson, Kent, Lake Carmel, Putnam Valley, Lake Peekskill, Philipstown, Cold Spring, Nelsonville, Garrison, Putnam Lake; Routes 6, 9, 22, 52, 301, 311, 312; Croton Falls Reservoir; Tilly Foster Farm; Stoneleigh Avenue; Fahnestock.
+
+### Question register additions
+fiber-optic-installation-putnam-county
+§9 Questions Answered (and other question headings):
+- Putnam Fiber Link Cut or Dark? (repair capture heading) (fiber-optic-installation-putnam-county)
+- Our house is inside the New York City watershed — does a short fiber trench need a stormwater plan? (fiber-optic-installation-putnam-county)
+- Our property backs onto reservoir land owned by New York City — can the cable cross it? (fiber-optic-installation-putnam-county)
+- The ground between our buildings slopes down toward a lake or a brook — what keeps a fresh fiber trench from washing out? (fiber-optic-installation-putnam-county)
+- The only spot with a clear view of the sky for our satellite dish or wireless antenna is far from the house — can fiber bring that signal in? (fiber-optic-installation-putnam-county)
+- Can fiber join a historic main building to a newer annex without changing the old facade? (fiber-optic-installation-putnam-county)
+- Branch Down on the Line to the Studio? (final repair heading) (fiber-optic-installation-putnam-county)
+(Statement sub-headings, not questions, in the same section: How Putnam's county low-voltage licence works · Where the cabling licence ends and the electrician's work begins · Electrical permits: Carmel, Patterson and Putnam Valley file with the town · Protecting the big oaks and maples between the buildings · Crossing a lake community's private lane · A garage office that holds a video call · A tenant's own path in a shared Route 312 building · Buying a house with a link already in the yard)
+§17 FAQ:
+- Do you work in the river hamlets of Philipstown as well as the Route 6 towns? (fiber-optic-installation-putnam-county)
+- Will our private fiber interfere with the provider's own fiber terminal on the house? (fiber-optic-installation-putnam-county)
+- Can a fiber link cross a gravel driveway that gets plowed all winter? (fiber-optic-installation-putnam-county)
+- Will any trees have to be cut down or trimmed for the fiber route? (fiber-optic-installation-putnam-county)
+- Can you install just the conduit now and pull the fiber later? (fiber-optic-installation-putnam-county)
+- Can a fiber link serve a detached workshop full of power tools and sawdust? (fiber-optic-installation-putnam-county)
+- Can the trench be dug by hand where a lot is too steep for a machine? (fiber-optic-installation-putnam-county)
+- Can fiber reach a gate or camera at the bottom of a long Putnam driveway? (fiber-optic-installation-putnam-county)
+- Do we need the property line staked before you dig near it? (fiber-optic-installation-putnam-county)
+- Is there anything to do to a fiber link before a big storm is forecast? (fiber-optic-installation-putnam-county)
+- Is there a distance below which fiber isn't worth it for an outbuilding? (fiber-optic-installation-putnam-county)
+- Can you photograph the open trench for our records before it is backfilled? (fiber-optic-installation-putnam-county)
+
+Second-pass de-dup (vs queens, bronx, staten-island, nassau, suffolk, westchester, rockland, orange): turned into statement headings — county licence (≈ Orange "Does Orange County's electrician licence apply…"), electrician outlet (≈ Bronx "Do we need an electrician as well as you?", Orange/SI outlet questions), permit office (≈ Suffolk town/village/county permit), tree roots (≈ SI mature tree), lake lane permission (≈ SI shared driveway), garage home office (≈ Nassau home business), tenant suite path (≈ Orange former-hospital suite, Queens tenant service), buying a house with a link (≈ Rockland/Bronx pre-purchase test/audit). Replaced FAQs — landline/alarm (≈ Queens phone system), guest-apartment network (≈ Nassau separate network), rodents (≈ Suffolk/Bronx rodents), neighbour sharing (≈ Rockland Ramapo houses), electrician/generator (≈ Bronx electrician), separate internet account (≈ Orange second building). Added Q: slope washout toward lake/brook.
+### Second-pass additions (main-run request, 2026-10-17)
+- New visible section "Seven Reservoirs, Dozens of Lakes and Two Rail Lines" — sources: county profile PDF (reservoir capacities, lake list, Harlem/Hudson line stops) already logged above; no new facts.
+- JSON-LD enriched only with content visible on the page: areaServed towns (Town-by-Town text) and hamlets named; WebPage.mentions = landmark and corridor cards; OfferCatalog = full Putnam price table + 3 packages + $195/hr service rate; HowTo supplies, step images (page figures) and directions.
+- Result: 225,478 bytes, 13,939 words; full check_page PASS; max masked paragraph similarity 0.59 (hudson-valley / ulster-county) across all 15 fiber siblings.
+
+De-dup notes: avoided register intents already used — utility poles, shared trench, power-outage campus, frost/ledge rock, stream crossing, boathouse, stone-wall route, old copper disposal, finding buried fiber, public-job paperwork, new subdivision house, second-home presence, area-pricing, cutover downtime, duration. Masked word-level paragraph similarity vs every fiber page (incl. new Dutchess/Ulster drafts): max 0.59 (HV hub), page-level ≤0.13.
+
+
+## Dutchess County — local research (2026-10-17 batch, fiber-optic-installation-dutchess-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Fire_Crawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Fire_Crawl__firecrawl_scrape (directQuote query mode). Silo-wide sources in research/fiber-optic-installation.md reused where noted.
+
+Thesis: Dutchess fiber is *inherited* fiber. IBM-era single-owner campuses (Poughkeepsie, East Fishkill → iPark 84) are now multi-tenant; Fishkill Creek mills and the Nabisco plant (Dia Beacon) have been converted; hospitals/colleges grew in layers. Jobs = audit legacy glass (OM1 reach limits, ST connectors, abandoned cable), tenant separation on re-let campuses, exposed-route mill backbones, new-wing tie-ins, last-hundred-feet from new BEAD fiber. Deliberately distinct from the HV hub (distance / ground potential / lightning between scattered buildings) — no lightning, frost, barns or stream crossings on this page.
+
+### Reddit (local)
+- `reddit Poughkeepsie fiber internet Beacon Fios Optimum Spectrum only` · FC search → https://www.reddit.com/r/hudsonvalley/comments/qh9rat/who_has_the_best_high_speed_internet_in_the/ (excerpt "Verizon Fios is the best, Spectrum is...") → not used (opinion).
+- `site:reddit.com Poughkeepsie OR Beacon OR Fishkill OR Rhinebeck fiber internet Verizon not available` · FC search →
+  - https://www.reddit.com/r/hudsonvalley/comments/1g3u51x/verizon_fios_down/ (excerpt: "FiOS unavailable at my address, but available directly behind me and across the street.") → §10.5 H3 1.
+  - https://www.reddit.com/r/hudsonvalley/comments/cgv6gr/moving_to_beacon_next_month_any_recommendations/ (excerpt: "When I lived in Beacon, … I lived in a corner of town without fiberoptic service.") → §10.5 H3 1.
+  (Threads not opened; Firecrawl excerpts only.)
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Angi / HomeAdvisor / Fixr fiber cost pages: EMPTY (not retrieved; page says so). §10.5 substitutes, quoted as published:
+- https://broadbandnow.com/New-York/Poughkeepsie (FC search excerpt, same query as Reddit above): "Fiber internet is 83.3% available in Poughkeepsie." → §10.5 H3 1.
+- Silo: streamlinetelecom.com "$1-6 per linear foot"; lowvoltagenewyork.com ($1–$6 indoor; "singlemode glass is now cheaper than OM4"; SM optics "roughly 1.5–5×"; "Plenum rating adds 15–25%") → §10.5 H3 2, 4, 7.
+- `OM1 62.5 micron multimode fiber 10GBASE-SR maximum distance 33 meters 1000BASE-SX 275 meters` · FC search → https://www.hello-signal.com/is-om1-fiber-obsolete-speed-distance-wavelength-specs-comparison/ (excerpt: "Can I run 10G on OM1 fiber? A: Only up to 33 meters with 10GBASE-SR. Beyond that, links fail.") → §10.5 H3 3; https://www.fiber-mart.com/news/understanding-distance-limits-with-multimode-fiber-a-6008.html (excerpt: OM1 275 m 1000BASE-SX, 33 m 10GBASE-SR) → "Reading the fiber" section table, §9 OM1 Q; https://blog.fluxlight.com/2017/05/25/... (33 m ≈108 ft) → corroboration.
+- Silo: unio.digital "$300 to $800 per fiber drop" → §10.5 H3 5; T-Mobile "can take up to 4 hours" → §10.5 H3 6; ampcom OM3/OM4 ~300/400 m at 10G → table.
+
+### Building stock, campuses, landmarks
+- `iPark 84 East Fishkill former IBM campus Hopewell Junction tenants square feet` · FC search →
+  - http://ipark84.com/ (excerpt: "former IBM East Campus … 300-acres … over two million square feet") → recorded; page uses the newer trade-press figure.
+  - https://cicbca.org/450m-re-trade-includes-ipark-84-complex-in-dutchess-county/ (FC scrape, published Aug 25–26 2026): Lincoln Property Co./Waterfall Asset Management/Saber-Hightower JV acquired portfolio incl. iPark 84 from National Resources for $450M; "270-acre business park comprising approximately 1.8 million square feet originally built for IBM's flagship semiconductor manufacturing plant"; tenants "IBM and Samsung subsidiary eMagin, as well as agricultural firm Cal-Maine"; room for 1.5M+ sq ft more. → §5 para 2, facts list, §8 card, §13 card, WebPage schema.
+  - https://extapps.dec.ny.gov/data/DecDocs/314054/Report.HW.314054.2025-07-31.IAQ%20Testing%20Plan%20B220(B310).pdf (excerpt): B220 owned by iPark East Fishkill LLC; OGS leasing ~305,000 sq ft as warehouse. → §5 para 2.
+- `IBM Poughkeepsie z17 mainframe built Poughkeepsie plant 2025` · FC search → https://clui.org/ludb/site/ibm-poughkeepsie (FC scrape): main plant begun 1948, wings 1952; "more than fifty buildings on 423 acres"; East Fishkill made semiconductors Poughkeepsie assembled; "many of the buildings are unused"; employment now <3,000. → §5 para 1–2, facts, §13 card. https://www.facebook.com/PoughkeepsieJournal/posts/... (excerpt: "IBM's Poughkeepsie site is where the z16 mainframe is tested and manufactured") → §8 card, §13 card ("still tests and builds its mainframes").
+- IBM head count 30,700 (1985) → 13,800 (1993): https://www.latimes.com/archives/la-xpm-1993-09-06-mn-32215-story.html — REUSED from research/soundbar-installation.md Dutchess section (search excerpt, not re-fetched this run). → §5 para 2, facts.
+- `Vassar Brothers Medical Center new patient pavilion opened 2021 square feet Poughkeepsie` · FC search → https://www.walshgroup.com/news/2021/walshconsiglicompletes545millionpatientpavilionatvassarbrothersmedicalcenter.html (excerpt: 752,610 sq ft; ED opened Jan 9 2021, rest Jan 11); WAMC excerpt "752,000 square-foot, eight-level addition". → §5 para 4, facts, §13 card.
+- `Dia Beacon former Nabisco box printing factory 1929 square feet Beacon NY` · FC search → https://diaart.org/about/press/dia-art-foundation-opens-new-museum-to-house-renowned-collection (excerpt: three buildings and a train shed, nearly 300,000 sq ft, built 1929 for Nabisco, donated 1999 by International Paper). → §5 para 3, facts, §13 card.
+- `Beacon NY former factory mill converted lofts Matteawan Groveville Mill Roundhouse Fishkill Creek` · FC search + FC scrape https://www.loftsatbeacon.com/about/history.html: Groveville Carpet Mill employed 700+ in the 1880s, closed on the eve of the Panic of 1893 and relocated to Yonkers; owners bought 2012; hydroelectric dam "tallest on Fishkill Creek"; management building now Beacon Lofts & Storage with gallery/community space; 18 Front Street. → §5 para 3, §13 card. Roundhouse excerpts (https://www.roundhousebeacon.com/about/, Archello "9,000 square foot mill building") → background only ("a hotel and event spaces" in §7 card).
+- `Marist College IBM partnership data center Hancock Center Poughkeepsie campus` · FC search + FC scrape https://www.marist.edu/data-center-operations: data centre "in the lower part of Donnelly Hall … the primary hub for the campus computer network"; institution now "Marist University". → §5 para 4, "we also cover".
+- `Bard College Annandale-on-Hudson campus acres buildings historic estates Blithewood Montgomery Place` · FC search → https://en.wikipedia.org/wiki/Bard_College (excerpt: 70+ buildings; Montgomery Place 380 acres bought Jan 2016, mansion + ~20 smaller buildings; 260 acres Barrytown bought late 2023); https://www.bard.edu/montgomeryplace/ (380+ acre site, mansion, houses, cottages, barns; Livingston family 1805–1986). → §5 para 4 ("absorbed two historic estates in a decade"), §7 colleges card, §13 card.
+- `Culinary Institute of America Hyde Park campus acres former St. Andrew-on-Hudson Jesuit Roth Hall` · FC search → https://www.ciachef.edu/cia-new-york/ ("170-acre riverside main campus"); Wikipedia says 70 acres — CONFLICT, no acreage used; https://www.ciachef.edu/blog/ghost-hunters-... (Roth Hall = former St. Andrew-on-Hudson Jesuit seminary; moved 1972) → "we also cover" line only.
+- `Fishkill office park Westage Business Center Route 9 I-84 office building square feet` · FC search → https://www.bottiniproperties.com/commercial-dynamic/300-westage-llc (excerpt: 4-story, 122,038 SF Class A at Route 9 and I-84). → §7 Route 9 card, §8 Fishkill card.
+- `Metro-North Hudson Line Harlem Line stations Dutchess County …` · FC search → https://destinationdutchess.com/listingsv/metro-north-railroad (excerpt: Hudson Line Beacon, New Hamburg, Poughkeepsie; Harlem Line Wassaic, Tenmile River …); https://en.wikipedia.org/wiki/Harlem_Line (excerpt: Wassaic "northernmost station in the system"). → §8 northern/eastern card, §9 railroad Q.
+
+### Broadband / providers / local news
+- `Dutchess County broadband fiber expansion 2025 2026 unserved ConnectALL` · FC search + FC scrape https://www.governor.ny.gov/news/governor-hochul-us-senators-schumer-and-gillibrand-and-us-representative-tonko-announce-more (April 27, 2026): $542M BEAD implementation; "$11,437,665 to Reasnor Telephone Company, LLC … to serve 795 locations in Dutchess County"; "$23,728,734 to Archtop Fiber, LLC … 1,638 locations in four counties (Columbia, Dutchess, Orange and Sullivan)". → §5 para 6, facts, §6 provider card.
+- `Poughkeepsie Journal fiber optic network installed Dutchess 2026 town fiber line Central Hudson` · FC search + FC scrape (pdf) https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7BEC2DC9E8-D582-4406-95A4-39BAEE6C61DD%7D: Dutchess County Central Labor Council resolution (undated in filed copy): "Verizon is refusing to complete and expand the installation of its fiber-optic cable in remaining portions of Dutchess County…". → §5 para 6 ("years earlier" — date not stated on page).
+  - Same search: westfaironline Archtop Kingston (Ulster — left for the Ulster page); cityofpoughkeepsie.gov newsflash on July 4 2026 storm restoration → not used.
+- Local news (Poughkeepsie Journal / Mid-Hudson News / Highlands Current) on fiber installation contractors: EMPTY.
+
+### Licensing / permits / code
+- https://www.dutchessny.gov/Departments/Aging/Docs/OFA-Aging-News-May-11-2026.pdf (FC scrape, pdf; first found in soundbar research, re-verified this run): "New York State does not license home improvement contractors. Check with your town, city, and/or village government as to what licensing and permits may be required…" → §8.5 bullet 1.
+- `Dutchess County Department of Public Works highway work permit utility installation county road right-of-way` · FC search → https://www.dutchessny.gov/Departments/Public-Works/Public-Works-Forms.htm (excerpt: Highway Work Permit Application "whenever work is being performed within the County right-of-way"); https://www.dutchessny.gov/Departments/Public-Works/Policies-Applications.htm (excerpt: permit review covers "access and utility construction work on County highways"; FC scrape returned no body text). https://www.dot.ny.gov/divisions/operating/oom/transportation-systems/traffic-operations-section/highway-permits (excerpt: "Beginning in September 2025 … apply online through the PermiTrack HWP System"). → §8.5 bullets 2–3, §9 road-crossing Q.
+- `NEC 770.25 abandoned optical fiber cables accessible portion shall be removed` · FC search → https://www.mikeholt.com/newsletters.php?action=display&letterID=219 (excerpt: remove accessible portion of optical fiber cable not terminated and not tagged for future use); Quizlet NEC 770 excerpt corroborates. → §8.5 bullet 5, §9 unlabelled-cable Q, cutover section.
+- 811 one-call: stated generically (silo/HV hub sources: cenhud Dig Safely). Asbestos caution: general practice statement, no statistic or rule cited. Railroad-crossing: general statement that railroad agreement is needed; no MTA source retrieved — EMPTY for a specific MTA permit process.
+- Jacket colour conventions (orange OM1/OM2, aqua OM3/OM4, violet OM4 sometimes, yellow single-mode) and ST/SC/LC connector history: stated as industry convention, no source fetched — flag for review if a citation is wanted.
+
+### Pricing used (blueprint §9 / HV-hub table, Dutchess 1.53× row only — no new prices)
+$54 termination · $61 OTDR/strand · $536 MM drop · $612 SM drop · $6,885–$10,710 12-strand OM4 · $12,240–$22,950+ 24-strand OS2 · from $3,672 second room · $195/hr 3-hr min ($585). Worked sums: 12 × $61 = $732; 24 × $54 = $1,296; Starter $2,028 (= hub's D/U starter).
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+Every photo viewed; photos showing the 800-486-0943 number on a shirt (several dutchess-county/hudson-valley files incl. 05 fusion splice, 08 tone generator, 10 AP lift, hero rack-switch, splice tray, van) were skipped.
+| images/fiber-optic-installation/ | source (images/low-voltage/) |
+|---|---|
+| fiber-optic-installation-dutchess-county-idf-rack-patch-cord-dressing.webp | low-voltage-installation-hudson-valley-hero-idf-rack.jpg |
+| fiber-optic-installation-dutchess-county-crew-reel-pull-open-floor.webp | low-voltage-installation-dutchess-county-03-crew-cable-pull.jpg |
+| fiber-optic-installation-dutchess-county-high-bay-tray-lift-work.webp | low-voltage-installation-dutchess-county-09-warehouse-cable-tray.jpg |
+| fiber-optic-installation-dutchess-county-stud-wall-rough-in-crew.webp | low-voltage-installation-hudson-valley-02-metal-stud-rough-in.jpg |
+| fiber-optic-installation-dutchess-county-jhook-bundle-open-office.webp | low-voltage-installation-dutchess-county-14-jhook-pathway-bundle.jpg |
+| fiber-optic-installation-dutchess-county-handheld-tester-wall-jack-pass.webp | low-voltage-installation-dutchess-county-02-fluke-certification-pass.jpg |
+| fiber-optic-installation-dutchess-county-patch-panel-punchdown-closeup.webp | low-voltage-installation-hudson-valley-07-cat6-patch-panel-punchdown.jpg |
+| fiber-optic-installation-dutchess-county-corridor-ceiling-cable-feed.webp | low-voltage-installation-long-island-02-school-ceiling-pathway.jpg |
+| fiber-optic-installation-dutchess-county-ceiling-grid-cable-feed.webp | low-voltage-installation-dutchess-county-07-ceiling-grid-bundle-pull.jpg |
+| fiber-optic-installation-dutchess-county-wall-plate-termination.webp | low-voltage-installation-dutchess-county-06-keystone-wall-plate.jpg |
+| fiber-optic-installation-dutchess-county-ceiling-access-point-drop.webp | low-voltage-installation-hudson-valley-06-ceiling-access-point-drop.jpg |
+Overlap note: crew pull, high-bay tray, metal stud, ceiling grid, patch-panel punchdown and ceiling AP are the same scenes as images on the HV hub (different source files). Library photos look AI-generated (for Anwar to review).
+
+### Keyword plan (Dutchess page)
+Service: fiber optic installation Dutchess County, fiber backbone, existing fiber audit, OTDR testing, fusion splicing, re-termination, abandoned cable removal. Problem: OM1 10G reach, ST connectors, unlabelled cable, landlord-owned campus fiber, tenant separation, spin-off, new wing tie-in, special-construction charges, railroad/county-road crossing. Technology: OS2, OM4, OM1/OM2, LC/ST/SC, interlocking armour, OFNR/OFNP, splice enclosures, optics/media converters. Industry: re-tenanted corporate campuses, mills/lofts, Route 9 offices, hospitals, colleges, Main Street mixed-use. Geographic: Dutchess County, Poughkeepsie, Beacon, Fishkill, East Fishkill/Hopewell Junction, Wappinger, Hyde Park, Rhinebeck, Red Hook, Annandale-on-Hudson, Millbrook, Pawling, Amenia, Wassaic.
+
+### Question register additions
+fiber-optic-installation-dutchess-county
+§9 Questions Answered (and other question headings):
+- Dutchess Backbone Down Since This Morning? (fiber-optic-installation-dutchess-county)
+- What can an OTDR trace show about an old cable that a simple light test cannot? (fiber-optic-installation-dutchess-county)
+- Do long-reach multimode optics make sense instead of pulling new cable past an OM1 riser? (fiber-optic-installation-dutchess-county)
+- Our old fiber uses round ST connectors — do we have to replace the cable to use modern switches? (fiber-optic-installation-dutchess-county)
+- Our backbone dates from the 1990s — which parts of it have actually aged, and which are still fine? (fiber-optic-installation-dutchess-county)
+- Our 62.5-micron and 50-micron cables end up in the same rack — does it matter if someone patches one to the other? (fiber-optic-installation-dutchess-county)
+- A fire-alarm or building-control network still runs on the old campus fiber to our building — can we take the building over without disturbing it? (fiber-optic-installation-dutchess-county)
+- Our lab tenant on a former semiconductor campus needs fiber into a cleanroom — what changes inside a controlled environment? (fiber-optic-installation-dutchess-county)
+- Can old line-shaft openings or freight-chute shafts in a mill carry new fiber between floors? (fiber-optic-installation-dutchess-county)
+- How does fiber travel through a converted mill where every floor is open timber and nothing can be hidden? (fiber-optic-installation-dutchess-county)
+- How does a hospital or school keep a new wing connected if the one link back to the old building is cut? (fiber-optic-installation-dutchess-county)
+- A provider has quoted us special-construction charges to reach our building — what part of that work can we do ourselves? (fiber-optic-installation-dutchess-county)
+- The railroad tracks split our property in two — is there any lawful way to link the halves with our own cable? (fiber-optic-installation-dutchess-county)
+- How do ten-gigabit and faster links change the loss budget an old cable has to meet? (fiber-optic-installation-dutchess-county)
+- Old Fiber Failing in Your Dutchess Building Today? (fiber-optic-installation-dutchess-county)
+§17 FAQ:
+- Do you cover the Harlem Valley towns as well as the river towns? (fiber-optic-installation-dutchess-county)
+- How long does an audit of existing fiber take in a typical office building? (fiber-optic-installation-dutchess-county)
+- Will you give us the audit report even if we decide not to hire you for the upgrade? (fiber-optic-installation-dutchess-county)
+- Can the audit results go straight to our landlord or campus IT office? (fiber-optic-installation-dutchess-county)
+- Can old multimode and new single-mode fiber live in the same building? (fiber-optic-installation-dutchess-county)
+- Can a broken strand be found without opening every panel in the building? (fiber-optic-installation-dutchess-county)
+- Do you clean and inspect the connectors on links you are keeping but not otherwise touching? (fiber-optic-installation-dutchess-county)
+- Can spare strands in an old backbone be given a new job, such as a separate camera or door-control link? (fiber-optic-installation-dutchess-county)
+- Can you test fiber that passes through a room we cannot get into? (fiber-optic-installation-dutchess-county)
+- Do you haul away the abandoned cable you pull out of ceilings and risers? (fiber-optic-installation-dutchess-county)
+- Can you supply patch cords and labels to our own IT standard? (fiber-optic-installation-dutchess-county)
+- Are the old test printouts a previous installer left in the telecom room worth keeping? (fiber-optic-installation-dutchess-county)
+
+De-dup notes (revised 2026-10-17 after 8 more fiber pages went LIVE): replaced overlaps with Queens/Rockland (old multimode carrying today's speeds; strands in use; label existing plant; inherited fiber usable), Westchester (tenants sharing a backbone without sharing a network; who owns fiber after sale; repair heading), Rockland (county-road crossing; seller-kept building separation), Queens (mixed-use backbone), Bronx/Rockland (pre-purchase audit), Staten Island/Putnam/Rockland (neighbour permission/easement), Bronx (rodents; asbestos), Suffolk (badge rules). Earlier: avoided Brooklyn campus conduit, HV grant-provider prep and campus department fiber, LI Route 110 move-in, Manhattan landmark and smallest job, NYC termination lifespan and shared sleeve.
+
+
+## Ulster County — local research (2026-10-17 batch, fiber-optic-installation-ulster-county)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md reused where noted; only Ulster research added here.
+**Page thesis:** provider fiber has reached the curb in Ulster (Archtop, Planet Networks, MTC, Spectrum, Verizon BEAD), so Ulster jobs are owner-side work — demarc extensions, dual-provider entrances, risers in reused/old buildings (iPark 87, Kingston's three districts, Lace Mill) and segmented networks for rental/inn/retreat compounds — distinct from the HV hub's outdoor/ground-potential thesis.
+
+### Reddit (local)
+- `reddit Kingston NY Ulster County internet fiber Spectrum only Woodstock Saugerties` · Firecrawl web search (excerpts only; reddit threads not opened).
+  - https://www.reddit.com/r/hudsonvalley/comments/11tsdnz/archtop_fiber_coming_to_kingston_saugerties/ — "Archtop Fiber is starting to connect homes in Kingston and Saugerties to fiber" → §5 para 1 context; dual-provider Q (overlap of providers).
+  - https://www.reddit.com/r/Spectrum/comments/16fifqe/is_there_any_hope_for_fiber_service_in_ulster/ — "Archtop (archtopfiber.com) is deploying to many areas… Planet Networks in Saugerties is another one." → §6 Dual-Provider card; dual-provider Q.
+  - https://www.reddit.com/r/hudsonvalley/comments/1d6c7m7/other_internet_service_providers_besides_spectrum/ — "Using Planet Networks in & around the Saugerties/Kingston area. Archtop Fiber is also up & running." → same.
+  - https://www.reddit.com/r/hudsonvalley/comments/1unfmxq/kingston_internet_options/ — excerpt on symmetrical gigabit in Saugerties (price) → not used (consumer pricing).
+- `fiber internet installation to house long driveway cost who pays drop from road private property provider charges per foot` · Firecrawl → https://www.reddit.com/r/HomeNetworking/comments/1eng3n3/ (excerpt "ISP quoted $10k to run fiber down driveway") → background only, not quoted.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted as published):
+- `fiber internet installation … provider charges per foot` · Firecrawl → https://www.gokinetic.com/blog/fiber-internet-cost-guide (Firecrawl query scrape): cites Angi "$1,500 to $7000"; "many providers offer free or discounted installation for a new fiber order… activation fee of roughly $99" → §10.5 H3 6.
+- Angi (followed from Kinetic): https://www.angi.com/articles/fiber-optic-cable-installation-cost.htm (Firecrawl directQuote scrape, "[2026 Data]"): "Fiber optic cable installation costs between $1,500 and $7,000"; "$1 to $12 per linear foot"; aerial $1,000–$5,000 / underground $2,000–$10,000; "Aerial installations are less expensive because they require less digging"; "Labor costs can range from $50 to $150 per hour"; "Most fiber optic installations require permits… Permit fees… $50 to $500"; DIY "Materials cost $1 to $3 per linear foot" → §10.5 H3 1–5. (First Angi page retrieved for the silo; earlier pages recorded Angi as EMPTY.)
+- Archtop quote in Hudson Valley One (below): "Long gone are the days of frequent outages or spotty connections." → §10.5 H3 7.
+- Yelp: `fiber optic cabling contractor Kingston NY Ulster County business fiber installation` · Firecrawl → https://www.yelp.com/search?find_desc=Network+Cabling&find_loc=Kingston%2C+NY+12401 (listing excerpt only, no 1–3★ text) → EMPTY.
+
+### Providers / broadband
+- `Ulster County broadband fiber Margaretville Telephone MTC Phoenicia Shandaken fiber 2025 2026` · Firecrawl → https://broadbandnow.com/New-York/Phoenicia (excerpt: MTC fiber plans in Phoenicia); Town of Shandaken FB post on MTC fiber coverage map → §5 para 1, Town-by-town (Shandaken). https://mtctelcom.com/mtc-announces-new-broadband-expansion-projects/ → 404, EMPTY.
+- Same search family → https://hudsonvalleyone.com/2024/05/15/spectrum-planet-networks-and-archtop-fiber-explain-their-local-operations/ (Firecrawl scrape, May 16 2024, Crispin Kott): Village of Saugerties renewed 15-yr Spectrum franchise; Planet Networks (Newton NJ) "Our construction uses existing utility poles"; "expanding across the county from Saugerties and Kingston to smaller, underserved communities"; member of Saugerties Chamber; Archtop: HQ in Kingston, "14 MOUs with communities in Ulster County", "In March 2024, we turned on… Kingston area… speeds up to 10 Gig. In April 2024… town and village of Saugerties… official tech partner"; Spectrum: multi-gig "expected… across our entire service area in 2026". → §5 para 1 + facts; §8 Providers section; §9 dual-provider Q; §10.5 H3 2 & 7; Town-by-town.
+- `Archtop Fiber Ulster County homes passed …` · Firecrawl → https://archtopfiber.com/blog/2024/10/01/archtop-fiber-begins-construction-on-state-of-the-art-fiber-network-in-woodstock/ (Firecrawl query scrape, Oct 1 2024): construction started in Woodstock; Kingston, Saugerties named → §5 para 1; Town-by-town. https://www.sullivanny.gov/news/new-website-shares-info-map-major-broadband-expansion (excerpt: Archtop Sullivan build "220+ miles… nearly 100% of which will be buried") → Providers section para 2.
+- `fiber optic cabling contractor Kingston NY Ulster County business fiber installation` · Firecrawl → https://www.ulstercountyny.gov/Government/News/Newsroom/2026/05/2026-05-01-Federal-Approval-Clears-Way-for-Countywide-Fiber-Optic-Broadband-Buildout-in-Ulster-County (Firecrawl scrape, May 1 2026): BEAD approved; all 1,293 unserved locations to get fiber; Verizon BEAD ISP; $17.3M federal to Ulster + $41.7M Verizon = $59M; 29%/71%; Ulster 31% of Verizon BEAD total across 14 counties; next steps: state contracts, environmental review, disbursement. → hero; §5 para 1; facts list; Providers section last para; Town-by-town. (Hub used the Sept 2025 ConnectALL figure; this page uses the newer May 2026 BEAD figures.)
+
+### Building stock, campuses, landmarks
+- `iPark 87 former IBM Kingston Tech City Town of Ulster redevelopment 2025` · Firecrawl →
+  - https://www.ulstercountyny.gov/Government/News/Newsroom/2026/02/2026-02-27-UCEDA-iPark-Foreclosure (scrape, Feb 27 2026): UCEDA foreclosure on two West Campus parcels (former Bank of America bldg, 101-899 Enterprise Dr; vacant lot 605-695 Boices Ln); East Campus has Ulster BOCES CTC and Archtop Fiber; county acquired complex by foreclosure 2019; $10M Restore NY grant; East Campus remediation complete. → facts list; §8 iPark card; §9 conduit Q; §13 card.
+  - https://spectrumlocalnews.com/nys/hudson-valley/news/2026/02/27/ulster-county-moves-to-foreclose-on-2-ipark-87-west-parcels (excerpt): "200 acres with over 1 million square feet of buildings… Enterprise Drive" → §7 card, facts.
+  - https://www.ipark87.com/think-about.html (excerpt): former IBM Kingston facility; 200 acres; >1M sq ft; East Campus four buildings incl. warehouses, manufacturing, a data center, an office building → §7 card.
+  - https://www.townofulster.ny.gov/…DSEIS… (excerpt: 128.47-acre East Campus, 880 multifamily units proposed) → NOT used (proposal-stage).
+- `Ulster BOCES Career and Technical Center iPark 87 …` · Firecrawl → https://www.ulsterboces.org/…/ulster-boces-cuts-ribbon-on-career-academies-at-ipark-87… (scrape, Oct 20 2025): opened Sept 2025 to >1,400 juniors/seniors; ribbon-cutting Oct 3; Archtop "scaled to 130 employees"; partners SUNY New Paltz, SUNY Ulster. → facts; §8 card; §7 institutions card.
+- `IBM Kingston plant history …` · Firecrawl → https://nyheritage.org/collections/kingston-ibm-years (excerpt: main plant dedicated Nov 2 1956 on 200 acres, Town of Ulster); https://omeka.hrvh.org/exhibits/show/kingston-the-ibm-years/ibm-in-kingston-timeline (query scrape: 1954 construction; 1955 typewriter assembly; 1959 >5,000 employees; 1995 closes) → §13 iPark card; §7 card.
+- `Hutton Brickyards Kingston …` · Firecrawl → https://www.huttonbrickyards.com/ (excerpt: riverfront hotel + venue, 100 riverfront acres, private cabins, historic mansion); https://careers.waterfordhotelgroup.com/… (excerpt: 132 Lindsley Ave Kingston, 43 rooms) → §5 para 3; §7 hotels card.
+- `Mohonk Mountain House acres guest rooms …` · Firecrawl → https://en.wikipedia.org/wiki/Mohonk_Mountain_House (query scrape): 1869; 259 rooms; 1,325 acres; towns New Paltz/Marbletown/Rochester; NRHP + NHL; built 1869–1910 → §7 card; §13 card.
+- Kingston: https://en.wikipedia.org/wiki/Kingston,_New_York (query scrape): pop 24,069 (2020); first capital 1777; burned Oct 16 1777; Stockade/Midtown Broadway/Rondout-West Strand NRHP districts; Midtown early-20th-c industries, UPAC, City Hall, Kingston HS, HealthAlliance; Rondout = D&H Canal tidewater terminus, artists' community → §5 para 3; Kingston Up Close section; §13 cards.
+- `Kingston Rondout waterfront flooding …` · Firecrawl → https://www.timesunion.com/hudsonvalley/news/article/kingston-waterfront-flooding-grant-19373867.php (query scrape, Mar 29 2024): $1.5M federal DOT to raise East Strand/North Street; frequent tidal flooding; 2022 waterfront plan. https://www.kingston-ny.gov/…East_Strans_Street_Flooding… (excerpt: "redevelopment… hindered by intermittent floodwater inundation") → Kingston Up Close (Rondout); §13 card.
+- `Lace Mill Kingston RUPCO …` · Firecrawl → https://rupco.org/property/the-lace-mill/ (excerpt: 55 affordable apartments, artist preference); https://thelacemillarts.com/about-the-lace-mill/ (excerpt: 100+-year-old lace curtain mill); FB post (165 Cornell St) → §5 para 3; Kingston Up Close (Midtown).
+- `Kingston Midtown Arts District Broadway UPAC 1927` · Firecrawl → https://www.vividseats.com/… (excerpt: 601 Broadway, Midtown Arts District, restored 1927 theater); https://hudsonvalleyone.com/2017/11/30/renovated-upac-reopens-under-new-ownership/ (excerpt: 1,500 seats, built 1927) → Kingston Up Close; §13 card.
+- `HealthAlliance Hospital Mary's Avenue …` · Firecrawl → https://www.wmchealth.org/press-releases/wmchealth-announces-continued-investment-in-healthalliance-hospital (query scrape, Nov 19 2025): new HealthAlliance Hospital at 105 Mary's Ave opened 2022; >32,000 patients/yr; Medical Village next phase; https://www.wmchealth.org/locations/healthalliance-hospital-mary-s-avenue (excerpt: Medical Village on Broadway) → §7 card; §8 card; Kingston Up Close.
+- `SUNY New Paltz campus acres …` · Firecrawl → https://www.suny.edu/campuses/newpaltz/ (257 acres); https://www.usnews.com/best-colleges/suny-new-paltz-2846 (6,113 undergrads fall 2025) → §8 card; §13 card; §7 card.
+- https://www.ny.gov/counties/ulster (Firecrawl scrape): 1,161 sq mi; founded 1683; pop 182,333 (2023); Catskill Park & Forest Preserve >¼ million acres forever-wild; SUNY Ulster in Stone Ridge; list of city, 20 towns, 3 villages → facts; §8.5; Forest Preserve Q&A section; Town-by-town.
+- `Ashokan Reservoir capacity …` · Firecrawl → https://www.nyc.gov/site/dep/water/ashokan-reservoir.page (excerpt: two basins, 122.9B gallons, in service 1915) → facts; §13 card; Forest Preserve section.
+- `Tropical Storm Irene 2011 Esopus Creek Phoenicia …` · Firecrawl → http://catskillstreams.org/wp-content/uploads/2018/02/SA_LFA_Report_Final.pdf (excerpt: Irene "extensive flooding and devastation in the upper Esopus Creek watershed") → background only (repair capture mentions "a wet spring in the Esopus valley" generically; no Irene figure on page).
+
+### Short-term rentals / lodging
+- `Ulster County short-term rental study …` · Firecrawl → https://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/FINAL-STR-Report-2025.pdf (PDF query scrape): 942 (2015) → 3,013 avg (2024), +220%; peak Oct 2023 3,310 (3.84%); May 2025 2,827 = 3.28% of 86,178 units; 98% entire homes; town table (Shandaken 267/9.98% [report also cites 261/9.76%], Woodstock 378/8.81%, Gardiner 136/7.96%, Denning 7.64%, Rochester 238/5.61%, Saugerties town 384, Marbletown 4.67%, Olive 4.62%, New Paltz town 4.01%, Kingston city 150 of 11,049, Lloyd/Marlborough/Plattekill/Shawangunk all <2%) → §5 para 4; facts; Q&A (guest network); Hospitality section; Town-by-town. Page says "nearly one in ten" for Shandaken to avoid the 261/267 inconsistency.
+- https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Occupancy-Tax/HotelMotelSTR-Registration (Firecrawl scrape): register within 3 days; no cost; 4% occupancy tax → §8.5 callout 3.
+- `Ulster County short-term rental registry … Woodstock …` · Firecrawl → wonderguest.app / str.haus / bnbcalc (secondary excerpts: Woodstock annual permit, 180-day cap) → only "several towns, Woodstock among them, run their own permit systems" used.
+
+### Licensing / permits
+- `Ulster County electrical license board low voltage contractor licensing requirement` · Firecrawl → https://ecode360.com/35131702 (Ulster County Code Ch. 185, L.L. 3-2019, amended 10-21-2025; Firecrawl directQuote scrapes): "Electrical work" includes wiring "for… signaling, communication, alarm or data transmission"; no person may engage in the business of electrical work unless licensed or supervised by a licensee; exemptions A–G (appliance sales, elevators, heating repair, manufacturers, public service company employees, homeowners in own single-family home, municipal employees) — no low-voltage/data exemption listed. https://www.wawarsingny.gov/DocumentCenter/View/274/Electrical-Licensing-Board-PDF (PDF scrape): Board at 317 Shamrock Lane, Kingston; Master Electrician license required to obtain building permits for electrical work (L.L. 3 & 8 of 2019), enforced from Jan 1 2022. → facts list; §8.5 callout 1; Q&A licensing section; §10.5 H3 4. Page states fiber itself carries no current and that line-voltage parts are done/permitted by a county-licensed master electrician; whether low-voltage-only work needs a county license is NOT asserted (the law's text is broad; flagged for Anwar's review).
+- Town/village building permits for low-voltage work: EMPTY (not researched per town); page says the municipality's building department decides.
+- 811: silo/hub source (Central Hudson Dig Safely) reused → §8.5 callout 6, process step 3.
+
+### Local news / hyperlocal
+- Hudson Valley One, Times Union, Spectrum News (above). Daily Freeman: https://www.dailyfreeman.com/2025/09/22/ulster-county-short-term-rentals-eating-up-housing-market-comptrollers-report-shows/ (excerpt only) → corroborates STR report, not cited separately. Other Ulster fiber-contractor news: EMPTY.
+
+### Pricing used (blueprint §9, Ulster 1.53× — row copied from research/fiber-optic-installation.md HV table; no new prices)
+$54 termination · $61 OTDR/strand · $536 MM drop · $612 SM drop · $6,885–$10,710 12-strand OM4 · $12,240–$22,950+ 24-strand OS2 · from $3,672 second room · Starter (24 term + 12 OTDR) $2,028 · $195/hr 3-hr min ($585) protected. Same discrepancy as hub note: live structured-cabling-pricing-ulster-county configurator shows $535/$611 drops; this page follows §9.
+
+### Images (11) — permanent image rule; Drive folder empty, CompanyCam not connected
+| File (images/fiber-optic-installation/) | Source |
+|---|---|
+| fiber-optic-installation-ulster-county-fusion-splicer-patch-cabinet.webp | low-voltage/low-voltage-installation-ulster-county-05-fiber-splice-tray.jpg |
+| fiber-optic-installation-ulster-county-exterior-enclosure-brick-wall.webp | low-voltage/low-voltage-installation-ulster-county-02-exterior-enclosure-install.jpg |
+| fiber-optic-installation-ulster-county-retail-shop-open-ceiling-pull.webp | low-voltage/low-voltage-installation-ulster-county-13-retail-store-ceiling-pull.jpg |
+| fiber-optic-installation-ulster-county-conduit-box-pull-block-wall.webp | low-voltage/low-voltage-installation-ulster-county-hero-riser-conduit-pull.jpg |
+| fiber-optic-installation-ulster-county-high-bay-tray-dome-camera.webp | low-voltage/low-voltage-installation-orange-county-hero-warehouse-cable-tray.jpg |
+| fiber-optic-installation-ulster-county-door-strike-terminal-wiring.webp | low-voltage/low-voltage-installation-ulster-county-12-electric-strike-wiring.jpg |
+| fiber-optic-installation-ulster-county-rack-switch-laptop-setup.webp | low-voltage/low-voltage-installation-ulster-county-11-rack-switch-config.jpg |
+| fiber-optic-installation-ulster-county-service-van-cable-reels.webp | low-voltage/low-voltage-installation-nyc-van-load-out.jpg |
+| fiber-optic-installation-ulster-county-conference-camera-above-display.webp | low-voltage/low-voltage-installation-orange-county-hero-ptz-camera-mount.jpg |
+| fiber-optic-installation-ulster-county-wall-jack-certification-tester.webp | low-voltage/low-voltage-installation-ulster-county-06-fluke-certification-pass.jpg |
+| fiber-optic-installation-ulster-county-keystone-wall-plate-termination.webp | low-voltage/low-voltage-installation-nyc-04-keystone-wall-plate-termination.jpg |
+Note: every photo in the assigned pool shows technicians (side/rear views) and most show the AESS (800) 486-0943 number on shirts/van; none chosen shows the 844-386-7238 number, a plate, house number or readable document. Several look AI-generated — for Anwar to review.
+
+### Keyword plan (Ulster page)
+Service: fiber optic installation Ulster County, demarc extension, fiber riser, dual-provider entrance, fusion splicing, OTDR testing. Problem: multi-gig not reaching rooms, no riser in old buildings, tangle of provider drops, dead cable in reused plants, guest/owner network separation, Wi-Fi mesh bottlenecks, outages at remote rentals. Technology: bend-insensitive OS2, OFNR/OFNP, indoor/outdoor drop, hybrid fiber-power, LC panels, SFP+, VLAN switches, dual-WAN firewall, UPS. Industry: short-term rentals, inns/retreats, Main Street mixed-use, reused industrial (iPark 87), campuses/BOCES/hospital, studios. Geographic: Ulster County, Kingston (Stockade/Uptown, Midtown/Broadway, Rondout/East Strand), Town of Ulster/Enterprise Drive, Saugerties, Woodstock, New Paltz, Gardiner, Shandaken/Phoenicia/Pine Hill/Big Indian, Olive/Ashokan, Stone Ridge, Ellenville, Highland/Marlboro, Route 9W/28/32/209.
+
+### Question register additions
+fiber-optic-installation-ulster-county
+§9 Questions Answered:
+- Can a building in Kingston take service from two different internet providers for backup, and how should both be wired? (fiber-optic-installation-ulster-county)
+- Is a cellular backup still worth having once a property has fiber service? (fiber-optic-installation-ulster-county)
+- After you leave, can our own staff or a BOCES-trained technician look after the fiber, and what do they get from you? (fiber-optic-installation-ulster-county)
+- Groups at our retreat all stream and video call at once — is the bottleneck the internet line or the wiring between the lodge and the cabins? (fiber-optic-installation-ulster-county)
+(Statement headings, not questions: "What has to change inside before a multi-gig plan shows up in the rooms"; "Reusing the steel conduit and cable tray in former IBM-era buildings"; "Untangling years of separate provider drops in an Uptown cellar"; "A cellar-level link through the common wall of two attached buildings"; "Walling off locks, cameras and thermostats from guest devices"; "Hybrid fiber-and-power cable on Ulster properties"; "Properties next to Forest Preserve land in the Catskill Park"; "How Ulster County's electrical licensing law treats a fiber job"; repair headings "Same-Day Fiber Repair Across Ulster County", "Network Down at the Cottages Tonight".)
+§17 FAQ:
+- Do you travel to the Catskill hamlets west of the Ashokan, such as Pine Hill and Big Indian? (fiber-optic-installation-ulster-county)
+- Will the new network work with the smart TVs and streaming boxes already in our cabins? (fiber-optic-installation-ulster-county)
+- Can fiber be installed in a log home or a cabin with exposed log walls? (fiber-optic-installation-ulster-county)
+- Will a stone patio or slate walkway have to come up for a fiber trench? (fiber-optic-installation-ulster-county)
+- Can you give us a speed report for each cabin or tenant space when the work is done? (fiber-optic-installation-ulster-county)
+- How long will the network keep running in a power cut, and can it run from our generator? (fiber-optic-installation-ulster-county)
+- What happens if a tree comes down on an overhead fiber run across our property? (fiber-optic-installation-ulster-county)
+- Can the same crew install keypad or smart locks for rental check-in while the fiber goes in? (fiber-optic-installation-ulster-county)
+- Can guest Wi-Fi show a welcome page with our house rules before guests connect? (fiber-optic-installation-ulster-county)
+- Can fiber feed outdoor Wi-Fi for an event lawn, orchard or campground? (fiber-optic-installation-ulster-county)
+
+De-dup notes: first pass (vs Putnam/Dutchess) dropped rodent, private-road, county-licensing, adjoining-public-land and old-fiber-reuse questions. Second pass (vs queens, bronx, staten-island, nassau, suffolk, westchester, rockland, orange): converted to statement headings the multi-gig (≈ Nassau "fiber at the wall, old phone wiring — where should money go first"), old-pathway reuse (≈ Orange church-school pathways), tenant-drop cleanup (≈ Orange/Queens per-tenant provider holes), shared-wall (≈ Orange party wall, Nassau attached storefronts), guest/lock segmentation (≈ Orange firehouse alerting vs members' Wi-Fi) and hybrid cable (≈ Staten Island detached building with no electricity); replaced FAQ "Does the power have to be shut off…" (≈ Staten Island Con Edison shutoff) and "Can our property manager… see from home…" (≈ Suffolk empty-house monitoring); added the staff-handover question. Page "Larger inns, camps and retreat centers" paragraph and one Field Notes paragraph removed for word count.
