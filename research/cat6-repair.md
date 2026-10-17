@@ -1018,3 +1018,367 @@ F10. Our builder used shielded Cat6 — does that change how a repair is done?
 Other "?" headings: "Dead Cat6 Jack Somewhere Between Cold Spring and Brewster?" (repair capture), "Lake House or Garage Link Dark Since Last Weekend?" (closing).
 
 De-dup notes: compared by meaning against the NYC, Long Island and Hudson Valley registers in research/cat6-repair.md and against cat6-repair-rockland-county.html as built at 09:36 (parallel batch). Three draft questions were replaced because Rockland asks the same intent: mesh node on wireless backhaul despite Cat6 jack; internet installer moved the box and jacks died; where to put terminations when the network wall floods (→ garage-to-house penetration, EV-charger garage drop, telephone-grade cable in a converted-house office). Avoided: HV storm/strike/post-outage/cold/buried-ice/rodent/indoor-cable-outdoors/pole-plug/stone-wall/remote-site/weekend-house/gate/well-house/barn/crawlspace/knob-and-tube/Starlink/retest-after-storm/jack-matching; LI attic heat, over-length, garage water, flood insurance, salt air, landscaper-cut buried run, slab ranch, stapled attic cable, seasonal reopening, campus links, long PoE camera run, dock scanners, travel charge, pre-closing test, school/library breaks, medical before hours, mall tenants, re-insulation, surge protection, garage conversion, HOA, remote IT; NYC 100 Mbps, intermittent, cord/jack/cable, NEXT, return loss, which end, re-pull, splice-or-replace (ours asks route alternatives / renovation puncture location, not "can it be spliced"), PoE night reboot, PoE port damage, Cat6A parts, 10G errors, CCA, riser approval, pre-war trace, cellar water reuse, three-hour minimum, recertify floor, other contractor's cable, port mapping, Cat6A on van, 24-port time, old cable fate, reroute around wall, ceiling APs, two buildings on a lot. Watch: Q5 (generator transfer) is adjacent to HV Q3 (links dead after power return) — different intent (momentary transfer reboot vs permanent failure).
+
+
+---
+
+# Merged from batch 2026-10-17 (cat6-repair-nassau-county)
+
+## Nassau County (cat6-repair-nassau-county) — local research, 2026-10-17 batch
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. Silo-wide technical sources (Fluke NEXT KB incl. "female couplers should not be used", computercablestore 4-pair/100 Mbps, EC&M NEC 800.25, Fixr Jan 2025) reused from research/cat6-repair.md. Hub-research items reused: ny.gov "two cities, three towns, 64 incorporated villages"; Nassau Consumer Affairs HIC licensing + fingerprinting (nassaucountyny.gov/1563 excerpt).
+
+**Thesis (distinct from LI hub heat/length/weather, NYC access/risers, HV outside-in):** Nassau is a built-out, owner-occupied county of pre-1960 housing renovated repeatedly; Cat6 was retrofitted into finished rooms and is most often damaged by the *next* trade (drywall screws, flooring nails, kitchen/basement remodels, attic/roof/solar crews, HVAC, provider equipment moves, office refits, post-Sandy house raising). Repair = locate by distance from both ends, open one patchable hole, plate the studs, keep terminations above flood level in raised/flood-zone homes, check the municipality (3 towns/2 cities/64 villages) only when new pathways are needed.
+
+### Housing stock / demographics
+- `Nassau County median year structure built housing units owner-occupied census` · Firecrawl search →
+  - https://www.census.gov/quickfacts/nassaucountynewyork (excerpt): 480,591 housing units (July 1 2025); owner-occupied rate 81.9% (2020–2024); median value owner-occupied $684,700; 48,718 employer establishments (2023). → §5 para 2, §5.5 bullets 3 and 5.
+  - https://www.point2homes.com/US/Neighborhood/NY/Nassau-County-Demographics.html (excerpt, ACS-derived): median construction year 1955; 33.9% built 1950–59; 19.2% built 1939 or earlier; 76.1% 1-unit detached. → §5 para 1, §5.5 bullets 1–2, §10.5 H3 1 (attributed "ACS figures as republished by Point2 Homes").
+
+### Sandy / house raising / flood guidance
+- `Nassau County NY Rising home elevation Superstorm Sandy number of homes elevated South Shore` · Firecrawl search →
+  - https://projects.newsday.com/long-island/sandy-by-the-numbers/ (scrape): "nearly 3,500" LI homes elevated or slated, "mostly in flood zones, where raising is required to qualify for flood insurance and to rebuild in accordance with local and state building codes"; 361 storm homes resold at auction (199 Nassau). Sources FEMA, GOSR. → §5 para 4, §5.5 bullet 4.
+  - https://www.nysenate.gov/newsroom/in-the-news/2019/todd-kaminsky/7-years-after-sandy-most-are-back-their-homes-theyre-not (scrape, Newsday reprint 2019): GOSR "78% of 3,310 elevations were completed"; Island Park home raised 8 ft; Freeport split-level took 5 ft of water. → §5 para 4, §5.5 bullet 4 (3,310 only; personal stories not used).
+- `FEMA P-348 protecting building utility systems from flood damage elevate electrical equipment above base flood elevation telecommunications` · Firecrawl search → https://agents.floodsmart.gov/sites/default/files/media/document/2025-07/fema_nfip-p-348-protecting-building-utility-systems-from-flood-damage-2017.pdf (excerpt): "Electrical devices and wiring should be located above the required flood elevation"; "Primary components like modems, video switches, splitters, and routers should be elevated." → §5 para 4, §7.5 raised houses, §8.5 bullet 4, §9 raised-house Qs, §10.5 H3 6.
+
+### Licensing / permits
+- `Nassau County Office of Consumer Affairs electrician license master electrician low voltage exemption` · Firecrawl search → nassaucountyny.gov/1563 (excerpt only; licensing phone/hours). qualifyingagents.com excerpt says the county DCA list does not include electricians — not used. Detail of who needs a HIC licence: EMPTY (page JS shell, as on hub run).
+- `Town of Hempstead building permit low voltage wiring required data cable` · Firecrawl search →
+  - https://hempsteadny.gov/191/Building-Department + /622/Online-Permit-Center (excerpts): town building department, online permit centre. → §8.5 bullet 2, Towns section.
+  - https://ehhaineselectric.com/resource/do-i-need-a-permit-for-electrical-work-in-nassau-county/ (scrape, directQuote): "Low-voltage systems (security, data, A/V) may not require a permit, but running new wiring through walls or attics often does."; "Electrical permits must be pulled by a licensed master electrician registered in the specific township or village." → §8.5 bullets 2–3, §10.5 H3 5 (attributed to "an electrical contractor's published guide").
+- Village-specific low-voltage permit rules: EMPTY (not searched per village; page says check by address).
+
+### Landmarks / corridors
+- `Marcus Avenue Lake Success office buildings Northwell headquarters...` · Firecrawl search → https://libn.com/2016/06/06/northwell-health-relocates-hq/ (excerpt: HQ relocated to 100,000 sf building at 2000 Marcus Ave, New Hyde Park); https://www.bskyre.com/news/2018/5/10/northwell-closes-on-36m-acquisition (excerpt: 103,000 sf office building, ~20 acres, 1 Marcus Ave). → §8 card 1, §13 card 4.
+- `Mineola transit-oriented development apartments near LIRR station...` · Firecrawl search → https://www.burmanre.com/work/residential (excerpt: The Bridge at Mineola, 101 units, $130M, "In Construction", across from Mineola LIRR); https://www.harrisbeachmurtha.com/news/mineola-apartment-project-approved-in-one-meeting/ (The Royal Blue, $45M, 54 units, ¼ mile from station — not used); libn.com 2023 $85M TOD (excerpt, not used). → §7 card "New transit-oriented buildings", §9 Mineola rental Q, §13 card 2.
+- `NYU Langone Hospital Long Island Mineola beds; NUMC...` · Firecrawl search → https://en.wikipedia.org/wiki/NYU_Langone_Hospital_%E2%80%93_Long_Island (591 beds, moved to Mineola 1900); https://www.numc.edu/about/centers-of-care/nassau-university-medical-center/ (530-bed teaching hospital, 2201 Hempstead Tpke) + /news-events/media-kit/ (began 1935 as Meadowbrook Hospital). → §8 cards 2–3, §13 card 2.
+- `Garden City New York planned village Alexander Turney Stewart 1869...` · Firecrawl search → https://www.nytimes.com/1998/11/15/nyregion/an-immigrant-s-vision-created-garden-city.html (excerpt: acquired pasture from Town of Hempstead in 1869 for $55 an acre); gardencityny.net/228 scrape returned no text (EMPTY), excerpt only. → §13 card 1.
+- `Nassau Hub Uniondale Nassau Coliseum redevelopment...` · Firecrawl search → https://libn.com/2022/09/20/county-extends-rxr-deadline-for-nassau-hub-project-payment/ (excerpt: RXR $1.5B plan, ~70 acres); https://www.nassaucoliseum.com/about (excerpt: 77 acres of property); nassaucountyny.gov/4670 scrape empty (EMPTY). → §8 card 4, §13 card 5.
+- `Nassau Community College Mitchel Field campus...` · Firecrawl search → https://www.ncc.edu/aboutncc/fastfacts.shtml (excerpt: 1962 expanded to 135 acres at former Mitchel AFB); https://preservationlongisland.org/preservation-in-progress-tourmitchel-field-air-base-and-flight-line/ (scrape: Army closed Mitchel Field 1961, 1,117-acre airbase; Cradle of Aviation restoration team in Hangar 5; Georgian Revival officers' houses). → §8 card 5, §13 card 3.
+- `Freeport Nautical Mile Woodcleft Avenue restaurants Sandy flooding businesses` · Firecrawl search → https://www.ottosseagrillny.com/ourstory (excerpt: Village of Freeport reinventing Woodcleft Ave into The Nautical Mile; Irene Aug 2011 ~3 ft of water; brass plate marking Sandy flood line). CBS/LI Advocate excerpts not used. → §8 card 6, §13 card 6.
+
+### Reddit / hyperlocal
+- `site:reddit.com longisland Nassau ethernet cable contractor drilled through OR damaged OR "cat6" house` · Firecrawl search → https://www.reddit.com/r/longisland/comments/1hcuoly/is_verizon_internet_better_than_optimum/ (excerpt about provider tech running line and drilling) and r/OPTIMUM excerpt — background for the provider-move angle only; not quoted. Nassau-specific Reddit threads on damaged Cat6: EMPTY.
+- `drywall screw nail through ethernet cable wall intermittent network fault nail plate low voltage` · Firecrawl search → r/HomeNetworking "Likelihood of me nailing though a data cable in drywall?" (title only) — background; not quoted.
+- Newsday/Patch/Herald on Cat6 or network-cable faults in Nassau: EMPTY.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 says on-page that the AI Overview could not be opened; claims framed as commonly published (Fixr Jan 2025 $45–$75/hr, $125–$250/drop from silo research).
+
+### Prices used (no new prices)
+- $195/hr, 3-hour minimum ($585); replacement Cat6 drop from $175; plenum "add per drop"; after-hours/weekend "premium applies"; closet audit "quoted by port count" — network-cable-repair-nassau-county.html pricing table (same $195/$175 on cat6-repair-long-island hub).
+- Comparison: Cat5e $254 / Cat6 $296 / Cat6A $424 per drop to 100 ft — cat6-installation-nassau-county.html.
+- FLAG: blueprint §9 Nassau 1.15× would make the $175 drop $201 (and $195/hr → $224); hub and the live Nassau NCR page publish un-multiplied $175/$195, so this page follows the hub. $296 Cat6 install = 1.088× NYC $272, not 1.15× ($313) — quoted as published.
+
+### Images (11) — permanent image rule
+Drive folder empty / CompanyCam not connected (main run). All 31 unique base photos in images/network-cable-repair/ (16) and images/cat6/ (15) were already used once on cat6-repair-nyc/-long-island/-hudson-valley, so reuse was unavoidable; chosen mostly from NYC-used bases (furthest from the parent hub). 10 of 11 cropped to remove technicians' faces; none show house numbers, plates or readable documents.
+| images/cat6-repair/ | Source |
+|---|---|
+| cat6-repair-nassau-county-nicked-jacket-on-metal-edge.webp (hero) | network-cable-repair/crushed-network-cable-repair-*.webp (full frame) |
+| …-ceiling-run-flashlight-inspection.webp | network-cable-repair/network-cable-inspection-* (crop) |
+| …-wall-jack-no-link-test.webp | network-cable-repair/network-jack-repair-* (crop) |
+| …-open-stud-wall-cable-pull.webp | cat6/commercial-cat6-installation-*-stud-rough-in (crop) |
+| …-data-voice-plate-retermination.webp | cat6/cat6-voice-data-outlet-installation-* (crop) |
+| …-wire-map-crossed-open-pair.webp | network-cable-repair/network-cable-fault-detection-* (crop) |
+| …-rack-link-down-tester.webp | network-cable-repair/network-closet-troubleshooting-* (crop) |
+| …-ceiling-replacement-feed.webp | cat6/cat6-cable-installation-*-ceiling-drop (crop) |
+| …-patch-panel-punch-down.webp | network-cable-repair/patch-panel-repair-* (crop) |
+| …-desk-outlet-identification.webp | cat6/cat6-data-drop-installation-*-workstation-outlets (crop) |
+| …-poe-dome-camera-no-power.webp | network-cable-repair/poe-camera-cable-repair-* (crop) |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (7) and images/cat6/ (4), 10 cropped to remove faces (no real cat6-repair photos yet)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Nassau County, Cat6 cable repair, Cat6 jack repair, Cat6 re-termination, Cat6 fault location, Cat6 certification after renovation.
+- Problem: drywall screw through cable, nail through Ethernet, buried coupler/splice, finished-basement run failure, attic damage by roofers/solar, router moved by provider, split Cat6 run, media panel failure, office refit dead desks, raised-house rewiring.
+- Technology: distance-to-fault, certification, steel nail plates, old-work brackets, borescope, surface raceway, FEMA P-348, NEC 800.25.
+- Industry: homeowners/home offices, landlords/managing agents, office suites (Marcus Ave), medical suites (Mineola/East Meadow), main-street mixed use, restaurants (Nautical Mile), new TOD rentals.
+- Geographic: Nassau County, Towns of Hempstead/North Hempstead/Oyster Bay, Glen Cove, Long Beach, Mineola, Garden City, Lake Success, Uniondale, East Meadow, Freeport, South Shore (Island Park, Oceanside, Baldwin, Massapequas) + "we also repair" town list.
+
+## Question register — cat6-repair-nassau-county
+
+§9 "Questions Answered" (H3):
+1. Our Cat6 jack died the week the drywall was hung. How do you find where a screw went through the cable without opening the whole wall?
+2. A kitchen remodel closed up the wall where our Cat6 had a splice. Is that link worth saving?
+3. We finished the basement and the new ceiling now covers every Cat6 run. What happens when one of them fails?
+4. How do you show that a roofing or solar crew damaged the Cat6 in our attic?
+5. Every time a jack is re-terminated it loses a few inches. What happens when there is no slack left in the wall?
+6. Our house was raised after Sandy and the router moved upstairs. Do the old Cat6 runs from the ground floor still make sense?
+7. In a flood-zone house, where should repaired Cat6 jacks and junctions go?
+8. The internet company moved our modem to another room and now the Cat6 to the office is dead. What did they disturb?
+9. A previous contractor split one Cat6 run to feed two rooms. Can that be repaired, or does each room need its own run?
+10. Our Cat6 all lands in a structured media panel in a closet. Can one bad connection there take out several rooms?
+11. Our suite was re-carpeted and re-furnished over a weekend and on Monday six desks had no network. Where do we start?
+12. We bought a downtown building with a store below and offices above. Can you tell which Cat6 runs still serve anyone?
+13. The wall jack in our new apartment in a Mineola rental building has never worked. Is that ours to fix or the building's?
+
+FAQ (§17, = FAQPage schema):
+F1. Do we need to be home for the whole Cat6 repair visit?
+F2. Can you patch the drywall after opening a wall to fix the Cat6?
+F3. Will you work alongside our general contractor while the renovation is still going?
+F4. Can you repair Cat6 in a house we rent in Nassau, and does the landlord have to agree?
+F5. Can you come on a Saturday so we do not lose a workday at home?
+F6. Can surface raceway be used instead of opening a finished wall?
+F7. Is it a problem that our Cat6 runs right beside the electrical panel and power cables?
+F8. Can you check the Cat6 behind a TV that someone else wall-mounted?
+F9. Do you repair Cat6 in Glen Cove and Long Beach as well as the towns?
+F10. Can you fix the coax or phone wiring during the same visit?
+
+Other "?" headings: "Nassau Cat6 Link Down Since the Contractors Left?" (repair capture), "Cat6 Dead Somewhere Between Elmont and Massapequa Park?" (closing).
+
+De-dup notes: compared by meaning against the NYC, LI and HV registers. Deliberately avoided: NYC Q8 splice-in-general (ours is a buried splice after a remodel), NYC Q15 tracing in pre-war plaster (ours is locating a fastener puncture), NYC F7 old cable after re-pull, NYC Q16/LI Q4–5 water dry-out/insurance (ours: where to place terminations in flood-zone houses; contractor-damage documentation rather than insurance), LI Q8–9 slab access/stapled attic cable, LI F2 pre-closing test, LI F6 attic re-insulation, LI F8 garage conversion, HV Q6 addition joint, HV Q8 indoor cable outside, HV Q11 shared telecom room, HV F1 knob-and-tube, HV F3 gate/intercom post, HV F5 matching plates. Licensing and permits are answered in body (§8.5, Towns section, §10.5) only, because cat6-installation and fiber Nassau pages already ask licence questions.
+
+Masked paragraph similarity (difflib, geo-masked, p/li/td/h3/figcaption ≥8 words): vs cat6-repair-long-island mean 0.41, vs -nyc 0.40, vs -hudson-valley 0.40, vs -suffolk-county 0.42, vs -westchester-county 0.41, vs network-cable-repair-nassau-county 0.37. Blocks ≥0.65 are excluded constants (freshness stamp, warranty sentence, licence/rating strip, NAP, form success line, pricing-table item names/sources, silo cross-link list); captions of photos shared with the Suffolk/Westchester pages were rewritten to fall below 0.65.
+
+
+---
+
+# Merged from batch 2026-10-17 (cat6-repair-suffolk-county)
+
+<!-- part file for research/cat6-repair.md — written by the cat6-repair-suffolk-county builder, 2026-10-17 batch; the main run merges it -->
+## Suffolk County (cat6-repair-suffolk-county)
+
+Batch run 2026-10-17. Area page, up-link /cat6-repair-long-island. GBP Brooklyn (1282 Troy Ave, #brooklyn). Direct line (631) 407-2884 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: WebSearch (titles/URLs), WebFetch (page read + summary), Firecrawl search (mcp__Firecrawl__firecrawl_search, excerpts). Shell curl blocked. Silo-wide technical sources (Fluke NEXT KB, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, Fluke temperature/insertion-loss KB, Mike Holt 800.90(B), computercablestore four-pair gigabit) are reused from research/cat6-repair.md and cited on the page only in general terms.
+
+**Thesis (distinct from the LI hub and from the Nassau page):** Suffolk Cat6 is *inherited* cable — it was installed for a building, a tenant or a floor plan that has since changed. Flex buildings in the Hauppauge / Central Islip / Bay Shore industrial node are carved into smaller bays for new tenants; South Shore houses were lifted after Sandy and their runs lengthened or rerouted through enclosures that may hold only parking, access and storage; farm buildings became tasting rooms and offices; summer rentals get re-patched by guests; hospital and college campuses grow wing by wing; new construction at Station Yards hands over jacks nobody has tested. The repair skill is reading what changed since the cable went in, then repairing to the building as it is now. The county's length (86 miles, ten towns, island and ferry communities) means the visit is planned to finish in one trip. LI hub owns heat/length/storm/seasonal-reopening as its thesis; this page uses those only as background.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Query `site:reddit.com r/longisland ethernet OR cat6 Suffolk house previous owner wiring` · Firecrawl search (excerpts; reddit not scraped) → https://www.reddit.com/r/longisland/comments/1l9fokf/ (excerpt "Looking for a Company that will Run Cat6 cables"; already in hub research — background only); https://www.reddit.com/r/longisland/comments/1g51via/best_wifi_provider_smithtown_pines_area/ (excerpt: "if your husband works from home I'd highly recommend hard wiring his computer to your router via an Ethernet cable") → background for §5 para on home offices, not quoted; https://www.reddit.com/r/longisland/comments/vxk1bd/ (excerpt: Verizon FIOS "not available where I live (NW Suffolk)") → background only. Fault-specific Suffolk threads: EMPTY. Query `reddit longisland Suffolk ethernet cable wall jack not working house wired` · WebSearch → no r/longisland result (generic r/HomeNetworking mirrors only) → EMPTY. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 states this on the page; each H3 is framed as a claim commonly published by how-to sites, retailers and cost guides (Angi/HomeAdvisor/Fixr named generically; Fixr Jan 2025 figures from silo research). |
+| 6 | Landmarks | L1–L6 below |
+| 7 | Use cases / building stock | C1–C6, F1–F4, B1–B3 below |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | CoStar (Aug 2024), CBS New York (July 2015), 27east/Sag Harbor Express (Jan 2024), RiverheadLOCAL (2019, 2020), Fire Island News (May 2025), Long Island Advocate (July 2026, carried) |
+| 10 | Hyperlocal | Fire Island News, RiverheadLOCAL, 27east, Suffolk Times/Riverhead News-Review (carried). Hyperlocal stories about Cat6/network-cable faults in Suffolk: EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix — new sources fetched for this page
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| C1 | `Long Island industrial flex buildings subdivided smaller tenants Hauppauge vacancy 2025` · WebSearch → WebFetch | https://www.costar.com/article/131430884/hauppauge-leads-long-island-metropolitan-area-in-available-industrial-space/ | Aug 16 2024, CoStar Analytics: Hauppauge node is Long Island's largest, "over 26.1 million square feet of space clustered predominantly around Hauppauge, Central Islip and Bay Shore"; "contending with the most available space on Long Island", "driven by a mismatch between property sizes and occupiers' space preferences"; headline: tenant preference for small-bay space. (Rest paywalled.) | §5 para 2, §5.5 bullet, §7 re-tenanted flex card, §8 Hauppauge/Central Islip/Bay Shore card, §9 subdivided-bay Q |
+| C2 | same search · WebFetch | https://www.cbre.com/insights/figures/long-island-industrial-figures-q4-2025 | Page returned no data → EMPTY, not used | — |
+| B1 | `Mastic Beach OR Lindenhurst homes raised elevated after Sandy number NY Rising Suffolk` · WebSearch → WebFetch | https://www.cbsnews.com/amp/newyork/news/l-i-open-foundations-ban | July 30 2015, CBS New York, Lindenhurst dateline: Long Island towns and villages banning open pilings for elevated homes, "requiring a closed foundation with water vents"; Legislator Kevin McCaffrey: closed foundations protect "the mechanical structure of the house; the pipes from freezing"; NY Rising elevation grants "have averaged over $100,000". No count of homes. | §5 para 3, §5.5 bullet, §7 lifted-house card, §9 lifted-house Qs |
+| B2 | same search · WebFetch | https://www.npr.org/2013/10/27/241222083/to-avoid-flooding-coastal-homeowners-lift-themselves-up | ROBOTS_DISALLOWED → EMPTY, not used | — |
+| H1 | `Stony Brook Southampton Hospital new campus Southampton College site` · WebSearch → WebFetch | https://27east.com/southampton-press/still-a-campus-cornerstone-new-stony-brook-southampton-hospital-aims-for-2030-opening-date-2226594 | Jan 17 2024 (Michael Wright): new hospital on 15 acres at the NE end of the 85-acre Stony Brook Southampton campus in Shinnecock Hills; current hospital on 19 acres in Southampton Village; preliminary plan 275,000 sq ft; target 2030 ("realistic best case scenario"); cost $365M originally, "probably north of $400 million". | §8 medical card, §7 medical card |
+| H2 | `Peconic Bay Medical Center Riverhead Corey Critical Care Pavilion opened square feet` · WebSearch → WebFetch | https://riverheadlocal.com/2020/01/10/pbmc-dedicates-new-critical-care-pavilion | Jan 10 2020 (URL date): $67.8M Corey Critical Care Pavilion dedicated; rooftop helipad; 16-bed ICU/cardiac unit; Kanas Regional Heart Center with two cardiac cath labs; "roughed-out space for future cardiac surgical suites"; unfinished space for a future expanded ED; three years' construction. | §8 medical card, §5.5 bullet |
+| R1 | `Tanger Outlets Riverhead Route 58 number of stores square feet` · WebSearch → WebFetch | https://brixmor.com/re-development/completed-projects/the-shops-at-riverhead | The Shops at Riverhead: "115,000-square-foot center … across from the Tanger Outlets"; Costco anchor; PetSmart, Marshalls/HomeGoods, HomeSense, Ulta; separate 12,000 sq ft building facing Old Country Road (Sleep Number, T-Mobile). Year not stated. | §8 Route 58 card |
+| I1 | `Fire Island Ocean Beach ferry Bay Shore contractors materials barge how work gets done` · WebSearch → WebFetch | https://www.fireislandnews.com/communities/kismet/fire-island-ferries-freight-service-stalled/ | May 19 2025 (Linda Leuzzi): Fire Island Ferries freight normally via Town of Islip's Maple Avenue site in Bay Shore; disrupted from March 14 by town construction; using Saltaire terminal; company serves eight communities "As far west as Kismet and to the east, Point O'Woods". | §9 Fire Island Q, §7 barrier-island card |
+| D1 | `Dig Safely New York Long Island call 811 notice working days excavation homeowner` · WebSearch → WebFetch | https://newyork-811.com/homeowners/ | New York 811 serves "the five boroughs of New York City and Nassau and Suffolk Counties on Long Island"; call "at least 48 hours but no more than 10 working days (excluding weekends and legal holidays)" before digging. | §8.5 bullet, §9 811 Q |
+| W1 | `North Fork farm barn converted winery tasting room Southold Riverhead agritourism building code` · WebSearch → WebFetch | https://suffolktimes.timesreview.com/?p=71857 | Undated (Nov 7 hearing, year not given): Southold Planning Board hearings on winery buildings — Sannino 2,800 sq ft winery with production/retail/education; Surrey Lane 3,610 sq ft winery/retail; Purita 2,600 sq ft addition to 6,400 sq ft production building. Undated → NOT stated as current; used only as background that North Fork winery buildings combine production, retail and storage under one roof. Not quoted. | background for §9 winery Q |
+
+### Carried, verified Suffolk sources (fetched by earlier 2026-10-17 runs; see research/fiber-optic-installation.md and research/smart-lock-installation.md Suffolk sections)
+| # | URL | Finding | Page section used |
+|---|---|---|---|
+| T1 | https://www.ny.gov/counties/suffolk ; https://www.suffolkcountyny.gov/Visiting/Towns-and-Villages ; https://en.wikipedia.org/wiki/Suffolk_County,_New_York (smart-lock T5) | Ten towns (Babylon, Brookhaven, East Hampton, Huntington, Islip, Riverhead, Shelter Island, Smithtown, Southampton, Southold); 86 miles long; 912 sq mi land / 1,461 water; most county offices in Hauppauge; Brookhaven largest town and the only one spanning South Shore to North Shore. | §5 para 1, §5.5, Ten Towns section, schema areaServed |
+| F1 | https://www.fema.gov/sites/default/files/2020-07/fema_tb5_free_obstruction_requirements.pdf (smart-lock F1) | TB5: "The NFIP limits the use of enclosures under elevated buildings to parking of vehicles, building access, and storage." P-348: components below required elevation must resist flood loads or be elevated. | §7.5 lifted houses, §9 equipment-under-house Q, §8.5 bullet |
+| F2 | https://longislandadvocate.com/superstorm-sandy-still-haunts-suffolk-residents-today/ (smart-lock F2) | July 15 2026: NY Rising bought flood-zone houses to demolish or paid to raise them; Lindenhurst "now full of empty lots". | §5 para 3 |
+| F3 | https://www.seagrant.sunysb.edu/media/sandy12/Newsday-Sandy010713.pdf (smart-lock F3) | Newsday Jan 2013 FEMA tally: Suffolk 20,798 structures flooded/damaged/destroyed; 8,153 with >50% damage. | §5.5 bullet |
+| F4 | https://www.weather.gov/media/okx/coastalflood/Lindenhurst%20impacts.pdf (fiber Suffolk) | NWS: Sandy peak 7.7 ft NGVD 10/29/2012; much of the area south of Montauk Highway inundated 2–5 ft in Lindenhurst, Amityville, Babylon; repeated moderate flooding ~4 ft (2016–2018). | §5 para 3, Ten Towns (Babylon) |
+| I2 | https://www.nps.gov/fiis/planyourvisit/off-road-vehicle-permit-faqs.htm (smart-lock I1) | Only year-round residents and contractors/businesses can apply for driving permits; contractor permits authorise driving only to communities where the holder has work; winter access by ferry, water taxi or private boat. | §9 Fire Island Q |
+| P1 | https://pb.state.ny.us/public-information/faqs/ (fiber Suffolk) | Central Pine Barrens ~105,000 acres (eastern Brookhaven, western Southampton, southern Riverhead); 1993 Act; in the Core, clearing or material alteration of vegetation counts as development; Core development needs a Commission hardship waiver with public hearing. | §9 Pine Barrens Q, §8.5 bullet |
+| A1 | https://shelterislandreporter.timesreview.com/2025/02/02/suffolk-closeup-the-farming-county/ (fiber Suffolk) | 578 farms in 2022; 33,821 acres; 79 wineries in Suffolk; Farmland Preservation Program 1974. | §5.5, §7 farm card, Ten Towns (Southold/Riverhead) |
+| S1 | https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more (fiber/smart-lock) | Oct 22 2024: Station Yards, 53 acres at Ronkonkoma LIRR; 1,450 units at completion; Phase 1 489 units (2020); Phase 2 388; near LIE Exit 60 and MacArthur. | §7 new-build card, §9 new-construction Q, §13 card |
+| E1 | https://riverheadnewsreview.timesreview.com/?p=94143 (fiber Suffolk) | Undated: preliminary plat dividing ~2,107 acres at EPCAL into eight lots; Calverton Aviation & Technology to buy 1,643 acres; ~292 acres protected Pine Barrens. | §8 Calverton card, §13 card (stated as preliminary plat) |
+| G1 | https://www.27east.com/southampton-press/new-business-park-continues-to-take-shape-in-westhampton-1406404 (fiber Suffolk) | Aug 26 2016: Hampton Business District at Gabreski Airport, 55 acres county land, 40-year lease 2009, 10 buildings planned; Building 2 67,000 sq ft offices/medical. | §8 Westhampton card |
+| U1 | https://sunysuffolk.edu/about-suffolk/campus-information/ (fiber Suffolk) | Ammerman Campus, Selden, 156 wooded acres, 13,000+ students; Grant Campus, Brentwood, 10,000+; Eastern Campus, Riverhead. | §7 campus card, §13 card |
+| K1 | https://riverheadlocal.com/2019/06/25/should-jobs-being-done-by-unlicensed-contractors-be-slapped-with-stop-work-orders/ (smart-lock research) | County home improvement licence for residential repairs/alterations; written test + liability and workers' comp insurance; civil penalty up to $750 first / $1,500 subsequent; 9,107 licences countywide (2018). | §8.5 licensing bullet |
+| K2 | https://suffolkcountyny.gov/Departments/Consumer-Affairs/Licensing ; https://ecode360.com/14947436 (fiber Suffolk) | Consumer Affairs licenses Master and Restricted Electricians under Ch. 563 Art. XI; Art. II home improvement; §563-16 excludes electrical/plumbing work as defined in §563-126. No low-voltage text. | §8.5 licensing bullet (page states what the code contains; no exemption claimed) |
+| K3 | https://ePermits.southamptontownny.gov/eElectrical (fiber Suffolk) | Town of Southampton runs its own electrical e-permit portal. Low-voltage rule not stated. | §8.5 permits bullet |
+| L1 | https://en.wikipedia.org/wiki/Big_Duck (smart-lock L2) | Built 1931 by duck farmer Martin Maurer as a shop; moved to Flanders 1937; back in Flanders Oct 6 2007; NRHP 1997. | §13 card |
+| L2 | https://en.wikipedia.org/wiki/Fire_Island_Lighthouse (smart-lock L1) | 168-ft tower, operating 1858; in FINS east of Robert Moses State Park. | §13 card |
+| L3 | https://www.vanderbiltmuseum.org/about-us/history/ (smart-lock L3) | 43-acre waterfront estate, built 1910–1936, above Northport Bay; deeded to Suffolk County 1944; public 1950. | §13 card |
+
+### Local licensing / permits summary (page §8.5)
+Suffolk Ch. 563 (Art. II home improvement; Art. XI electricians, with town/village carve-out already on hub) · RiverheadLOCAL 2019 licence numbers/penalties · Southampton e-permits · New York 811 notice window · FEMA TB5 enclosure use · NEC 800.25 abandoned cable / 800.90 primary protector (silo) · Central Pine Barrens Core clearing rule. Town-by-town low-voltage permit rules: EMPTY (page says we check per address).
+
+### Prices used (live AESS Suffolk pages only; no new prices)
+| Figure | Source |
+|---|---|
+| $195/hr, three-hour minimum ($585); additional time $195/hr | network-cable-repair-suffolk-county.html pricing table (and LI hub) |
+| Replacement Cat6 drop from $175 (cable, keystone, plate, panel punch-down, testing, both-end labelling, patch cord) | network-cable-repair-suffolk-county.html; same figure on cat6-repair-long-island.html |
+| Over-length re-route — quoted per run; closet audit, mapping and labelling — quoted by port count; plenum (CMP) — add per drop; after-hours/weekend — premium applies | network-cable-repair-suffolk-county.html |
+| No East End surcharge; eastern work planned into scheduled windows | network-cable-repair-suffolk-county.html (table note) |
+| Comparison only: new Cat6 drop $296 (Cat5e $254, Cat6A $424) to 100 ft | cat6-installation-suffolk-county.html |
+| Third-party national (labelled): Fixr Jan 2025 $125–$250 per drop, $45–$75/hr | silo research |
+**FLAG for Anwar (pricing):** blueprint §9 Suffolk 1.20× applied to the $175 replacement drop would be $210, and other silos' Suffolk pages (fiber, Sonos, smart lock) publish ×1.20 figures. The LI hub and network-cable-repair-suffolk-county.html both publish $175 un-multiplied for Suffolk, so this page follows the hub's published figure, per the build instruction, and states that the figure is the one already published for Suffolk. The $195/hr rate is protected verbatim (not multiplied) on every silo. The $296 Cat6 install drop (1.088× NYC $272) is quoted as published.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Suffolk County, Cat6 cable repair Suffolk, Cat6 re-termination, Cat6 recertification, Cat6 reroute, Cat6 jack repair, patch panel repair, tenant fit-out cable acceptance testing, raised-house Cat6 reroute.
+- Problem: inherited/previous-tenant Cat6, subdivided flex bay wired to neighbour's closet, failed floor jacks on slab, roof-deck runs damaged by reroofing, splices/couplers added during house lift, equipment in flood enclosure, guests re-patching a rental's network, untested new-construction jacks, buried run in Pine Barrens, wash-down area.
+- Technology: permanent link vs channel, certification tester, wire map, NEXT, return loss, insertion loss, couplers, keystones, 110 punch-down, PoE, NEC 800.25/800.90, CMR/CMP, outdoor/direct-burial cable, sealed enclosures.
+- Industry: flex/industrial tenants, distribution, wineries/farms, hospitals and medical offices, colleges, retail on Route 58, summer rentals/estates, barrier-island cottages, new apartments, municipal.
+- Geographic: Suffolk County; ten towns; Hauppauge, Central Islip, Bay Shore, Islandia, Ronkonkoma, Station Yards, Calverton/EPCAL, Riverhead/Route 58, Westhampton/Gabreski, Shinnecock Hills/Southampton, Selden, Brentwood, Lindenhurst, Babylon, Amityville, Mastic Beach, Fire Island (Kismet–Point O'Woods, Ocean Beach, Saltaire), Flanders, Centerport, Montauk, Orient, Shelter Island.
+
+### Images (11) — permanent image rule; Drive folder empty and CompanyCam not connected (checked by main run)
+Every photo in images/network-cable-repair/ and images/cat6/ (31 distinct scenes by perceptual hash) is already used on at least one cat6-repair page, and 30 of 31 show a technician's face. Per the batch brief (reject any photo showing a face), each source below was CROPPED (framing only, no other edit) so no face is in frame, then saved as WebP q82. Sources chosen from scenes not used on the parent LI hub. The parallel Nassau and Westchester builds copied some of the same scenes uncropped/under other names — the crops here differ in framing.
+| images/cat6-repair/ | Source (crop box px) |
+|---|---|
+| cat6-repair-suffolk-county-wire-map-fail-crossed-open-pair.webp (hero) | network-cable-repair/network-cable-fault-detection-suffolk-county.webp (150,220,880,1024) |
+| cat6-repair-suffolk-county-torn-jacket-on-ceiling-grid.webp | network-cable-repair/crushed-network-cable-repair-suffolk-county.webp (no crop; no face) |
+| cat6-repair-suffolk-county-split-jacket-at-steel-frame.webp | network-cable-repair/damaged-ethernet-cable-repair-suffolk-county.webp (0,440,1100,1024) |
+| cat6-repair-suffolk-county-ceiling-tile-flashlight-inspection.webp | network-cable-repair/network-cable-inspection-suffolk-county.webp (660,0,1536,600) |
+| cat6-repair-suffolk-county-tone-probe-labelled-cords.webp | network-cable-repair/network-cable-tracing-suffolk-county.webp (790,0,1536,1024) |
+| cat6-repair-suffolk-county-patch-panel-reterminate-labelled-run.webp | network-cable-repair/patch-panel-repair-suffolk-county.webp (140,0,990,1024) |
+| cat6-repair-suffolk-county-link-down-rack-test.webp | network-cable-repair/network-closet-troubleshooting-suffolk-county.webp (0,440,820,1024) |
+| cat6-repair-suffolk-county-wall-jack-no-link-open-pair.webp | network-cable-repair/network-jack-repair-suffolk-county.webp (0,440,900,1024) |
+| cat6-repair-suffolk-county-replacement-run-from-carton.webp | cat6/cat6-installation-suffolk-county-ceiling-drop.webp (520,0,1402,1122) |
+| cat6-repair-suffolk-county-reroute-through-steel-studs.webp | cat6/commercial-cat6-installation-suffolk-county-stud-rough-in.webp (640,0,1402,1122) |
+| cat6-repair-suffolk-county-outlet-row-retermination.webp | cat6/office-cat6-installation-suffolk-county-outlet-bank.webp (560,300,1402,1122) |
+DAILY-LOG note: `images: 11 reused (cropped to remove faces) from images/network-cable-repair/ (8) and images/cat6/ (3) (no real cat6-repair photos yet)`. The library looks AI-rendered (flagged by earlier builders) — for Anwar to review.
+
+## Question register — cat6-repair-suffolk-county
+
+§9 "Questions Answered" (H3):
+1. Our bay in a subdivided Hauppauge flex building has jacks that still run back to a closet on the other tenant's side. Can the repair bring them to our own panel?
+2. Our lease says the landlord hands over working data cabling. What test results should we ask for before accepting the space?
+3. Floor jacks in our slab-on-grade office keep failing after the floors are washed or after heavy rain. What is happening under there?
+4. The building was reroofed and now the Cat6 runs to the rooftop cameras and units fail. Who fixes what?
+5. Our South Shore house was lifted after Sandy and the rooms fed through the new crawl space keep dropping. Why?
+6. The network equipment used to sit in the enclosure under our raised house. Where can it go, and how do the runs get rerouted?
+7. Our winery's Cat6 runs through the same building as the wash-down area. How is it kept working when the floor is hosed?
+8. Summer guests at our rental re-patched the network cabinet and now half the house is offline. How do you put it back and stop it happening again?
+9. Can a Cat6 repair be done in a Fire Island community where contractors need a driving permit or a ferry?
+10. Our failed buried Cat6 crosses woodland inside the Pine Barrens. Can it be dug up and replaced?
+11. Does anyone have to mark utilities before a failed buried Cat6 run is dug up?
+12. We bought a new apartment at a Suffolk development and some jacks have never worked. Is that a builder issue or a repair?
+
+FAQ (§17, = FAQPage schema):
+F1. Will you send photos of what you found inside the wall or ceiling?
+F2. Can one Cat6 run be split to feed two devices instead of pulling a second cable?
+F3. Can you fix a Cat6 jack that was painted over or caulked during a repaint? (replaced TV/soundbar question in batch de-dup vs Westchester)
+F4. Will a Cat6 repair interrupt our alarm or camera monitoring?
+F5. Can you repair the Cat6 that connects an EV charger in a garage or carport to the network? (narrowed in batch de-dup vs Staten Island solar/battery question)
+F6. Does someone need to be at the property for the whole visit?
+F7. Can a Cat6 repair be done while a house elevation or renovation crew is still on site?
+F8. Can you repair Cat6 in a unit we rent out year-round while the tenant is living there?
+
+Other "?" headings: "Suffolk Cat6 Link Down Before the Doors Open?" (repair capture), "Inherited Somebody Else's Cat6 Somewhere in Suffolk?" (closing).
+
+De-dup notes: checked by meaning against the full register (NYC 26, LI 23, HV 25) and against network-cable-repair-suffolk-county (cost, back-of-unit drops, joining a damaged run, extended drop when wall moved, warehouse AP hot afternoons, mezzanine handrail, dead jack, three previous tenants/labelling, East End charge, certified reports, cover, Nassau) and cat6-installation-suffolk-county FAQ (cost, county differences, licensing, flex buildings, distance, inclusions, drop count, 10G, CCA, plenum, Cat5e upgrade, evenings/seasonal). Dropped during drafting: inline couplers after reconfiguration (NCR Suffolk owns "extended a drop when the wall moved"), previous-tenant labelling (NCR Suffolk) → reframed to lease acceptance test results; one-trip planning for distant sites (HV Q14); converted barn office (HV F7); travel charge East End (LI F1); licence question (cat6-installation-suffolk-county; licensing kept in §8.5 body only); before-closing house test (LI F2); attic re-insulation (LI F6). Parallel Nassau/Westchester drafts were not on disk when this register was written — main run to re-check.
+
+### Addendum (size fix, same day)
+Added section "Cat6 Below the Flood Line on Suffolk's South Shore" (no new questions) using only sources already in this file: F4 NWS Lindenhurst impact table (7.7 ft peak 10/29/2012; 2–5 ft south of Montauk Highway; ~4 ft moderate flooding 2016–2018), F1 FEMA TB5 / P-348, B1 CBS New York 2015 (closed foundations with water vents; McCaffrey quote), F2 Long Island Advocate July 2026 (NY Rising buyouts or elevation; Lindenhurst empty lots). Service JSON-LD gained a description and the remaining published Suffolk price lines from network-cable-repair-suffolk-county.html (additional time, re-route quoted per run, closet audit by port count, plenum added per drop, after-hours premium).
+
+
+---
+
+# Merged from batch 2026-10-17 (cat6-repair-westchester-county)
+
+## Westchester County — local research (2026-10-17 batch, cat6-repair-westchester-county)
+
+Area page; up = /cat6-repair-hudson-valley; direct line (914) 877-2578; GBP Bronx (460 E Fordham Rd, #bronx); Westchester ×1.25. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape; "Census API" = Firecrawl Alexandria census-gov census/data. Shell curl blocked. Silo-wide technical sources (Fluke NEXT KB, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, Fixr Jan 2025) are reused from research/cat6-repair.md in general terms only. Sources marked "(reused: <file>)" were fetched and verified by earlier runs and are not re-fetched here. To be merged into research/cat6-repair.md by the main run.
+
+**Thesis (different from the NYC, LI and HV hubs):** Westchester Cat6 mostly lives behind *finished, occupied, owner-maintained surfaces* — home offices in pre-1960 plaster houses (53.1% of the county's housing units were built before 1960; 28.0% before 1940), apartments, co-ops and condos (24.8% of units are in buildings of 20+ units), and a new generation of downtown rental towers pre-wired with in-unit Cat6 and small per-unit switches — with 17.3% of the county's workers working from home. So a Westchester repair is decided by (1) reaching the fault through plaster, concrete and cabinetry with the least disturbance, (2) the ownership line between ISP equipment (ONT/router), building, board/landlord and occupant, and (3) where the network corner sits relative to flood-prone lower floors in Sound-shore and river-valley neighbourhoods. NYC = risers/pre-war access/managing agents; LI = heat, horizontal distance, outdoor environment; HV hub = weather, outbuildings, distance, office parks. Avoided on purpose: storms/lightning, outbuildings, barns, attics, slab ranches, warehouses, office-park shared telecom rooms (all hub/sibling lanes).
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit r/Westchester ethernet wiring house cat6 home office plaster walls` · FC search → https://www.reddit.com/r/Westchester/comments/105v2vv/peekskill_area_need_my_house_wired_for_ethernet/ (excerpt: "Need my house wired for ethernet, any recommendations? … Any recs on someone who can come in and run cables for my…") → §5 para 3 (residents asking for wired runs, not quoted verbatim). Same search returned r/HomeNetworking plaster-and-lath threads (https://www.reddit.com/r/HomeNetworking/comments/fmiznk/running_cat6a_in_100_year_old_house/ — "my house is super old with plaster and lathe") → background for §9 plaster cluster only, not Westchester-specific, not quoted. r/Westchester co-op thread https://www.reddit.com/r/Westchester/comments/mjisio/westchester_coops_condos/ (excerpt: co-ops let buyers live in towns like Bronxville and Scarsdale "without having to pay condo or house money") → §7 co-op card context. Fault-specific r/Westchester threads: EMPTY. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 states this on the page; each H3 is framed as a commonly published claim, not as AI Overview wording. |
+| 6 | Landmarks | L1–L6 below |
+| 7 | Building stock / use cases | W1–W6 below |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | lohud (Journal News) N1–N2; ABC7 (reused) |
+| 10 | Hyperlocal | Patch / News 12 Westchester on Cat6 or network-cable faults: EMPTY (no relevant result in the searches above). |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| W1 | Census API: acs/acs5/profile 2023, DP04 year built + units in structure, DP03 worked from home, county:119 state:36 | https://api.census.gov/data/2023/acs/acs5/profile?get=group(DP04)&ucgid=0500000US36119 (and group(DP03)) | Westchester County, ACS 2019–2023 5-year: 391,861 housing units; built 1939 or earlier 28.0%; 1940–49 7.1%; 1950–59 18.0%; 1960–69 14.0%; 1970–79 9.9%; 1980–89 8.4%; 1990–99 5.1%; 2000–09 5.2%; 2010–19 3.8%; 2020+ 0.5% (→ 53.1% before 1960; 4.3% since 2010); 1-unit detached 43.5%; 10–19 units 4.9%; 20+ units 24.8%; workers 16+ who worked from home 17.3%. | Hero subhead, §5 paras 1–2, §5.5 facts list (bullets 1–3), §7 intro, §9 cluster intros, §13 |
+| W2 | `Westchester County median year structure built housing units 1939 or earlier census` · FC search | https://planning.westchestercountyny.gov/census-housing | County Planning publishes "Year Structure Built" and "Median Year Home Built (ACS)" tables (excerpt only; PDFs not opened). | Cited in research only (W1 used for numbers) |
+| W3 | `New Rochelle new apartment building amenities "Cat6" wiring units` · FC search | https://properties.lefigaro.com/rental/apartment-westchester-new+york-united+states/?ville=new+rochelle&option=terrasse | Listing excerpt (New Rochelle luxury rental): "The kitchen is also wired with Cat6. Each unit has its own Network Switch in mechanical room and has its own Two Access Points for WIFI access…" | §5 para 3, §5.5 bullet 5, §7 new-tower card, §9 Q7 (closet switch heat) |
+| W4 | same search | https://www.apartments.com/517-walnut-st-mamaroneck-ny-unit-a/0wsf1l2/ (also Zillow / RentHop copies) | Mamaroneck rental listing excerpt: "Cat6 hard wiring from your ONT hookup to each room … with cable pass-throughs in each…" (address NOT used on page). | §5 para 3, §5.5 bullet 5, §9 Q4 (ONT boundary) |
+| W5 | (reused: research/smart-lock-installation.md W2, from research/soundbar-installation.md) | https://cooperatornews.com/article/westchester-county | ~42,000 co-ops, ~25,000 condos, ~53,000 rentals across the county's cities, towns and villages. | §5.5 bullet 3, §7 co-op card |
+| W6 | (reused: research/fiber-optic-installation.md Westchester + smart-lock W3) | https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster ; https://www.governing.com/magazine/getting-ahead-of-the-nimby-energy-an-older-city-learns-to-build ; https://www.pew.org/en/research-and-analysis/articles/2024/11/13/how-more-housing-revitalized-a-suburban-downtown | New Rochelle downtown overlay adopted late 2015; permits up to 6,370 housing units; more than 4,500 new units online by 2025 (Governing). | §5 para 3, §5.5 bullet 4, §8 card, §13 "also serve" context |
+| W7 | (reused: research/fiber-optic-installation.md Westchester) | https://westchestermagazine.com/home/ginsburg-white-plains-1-martine/ ; https://www.lohud.com/story/news/local/westchester/white-plains/2017/03/09/white-plains-office-building-approved-apartments/98950974/ | 1 Martine, White Plains: 188 loft apartments, "the county's first major office-to-residential redevelopment"; former AT&T building at 440 Hamilton Ave approved for 245 rental apartments (2017). | §8 White Plains card, §9 Q10 context |
+| W8 | (reused: research/smart-lock-installation.md W5) | https://914inc.com/westchesters-platinum-mile-is-making-a-serious-comeback/ | Platinum Mile repositioning toward medical use (3030 Westchester Ave named). | §8 Platinum Mile card, §9 Q10 |
+| N1 | `Westchester flash flooding basements 2025 Mamaroneck OR Yonkers OR "White Plains" storm lohud` · FC search → FC scrape | https://www.lohud.com/story/news/local/westchester/mamaroneck/2023/10/02/mamaroneck-assessing-storm-and-flood-damage-from-the-weekend/71031010007/ | lohud, Alexandra Rivera, Oct 2 2023: severe torrential rain Thursday–Friday (Sept 28–29, 2023); "Places like New Rochelle, Yonkers and Mamaroneck got hit the hardest with over six inches of rain." | §5 para 4, §5.5 bullet 6, §9 Q9 (network corner above flood line), flood table |
+| N2 | same search → FC scrape | https://www.lohud.com/story/news/local/westchester/2025/04/11/up-to-12300-westchester-county-ny-homes-could-be-lost-to-flooding-by-2040-regional-plan-report/83025329007/ | lohud, Michael P. McKinney, Apr 11 2025, on a Regional Plan Association report: 6,800 to more than 12,300 Westchester homes could be lost to "permanent, chronic, and coastal" flooding by 2040. | §5 para 4, §5.5 bullet 6 |
+| N3 | same search (excerpt only) | https://www.lohud.com/story/news/local/westchester/mamaroneck/2025/02/26/westchester-ny-sound-shore-saw-floods-trapped-people-rescues-in-2007-mamaroneck-rye-port-chester/78025939007/ | Excerpt: 2007 winter storm dumped 4 inches of rain on lower Westchester; "nowhere to go but basements in Mamaroneck, Rye, New Rochelle and Port…". | §5 para 4 (Sound-shore basements pattern; 2007 named) |
+| N4 | (reused: research/cat6-repair.md HV section) | https://abc7ny.com/post/flooding-brooklyn-nj-nyc-flooded/10994078/ | Ida, Sept 2021: Mamaroneck up to 14 ft of water in some neighbourhoods; basements filling. | §5 para 4 (mentioned in passing only; already a hub fact) |
+| X1 | `Westchester County electrician license required low voltage Department of Consumer Protection licensed trades` · FC search → FC scrape | https://consumer.westchestercountyny.gov/trade-licenses | "Plumbers and Electricians must obtain a trade license from Westchester County in order to work in the county"; consumers should ask to see the county licence card; online licence search. No mention of low-voltage/data cabling (page makes no claim either way). | §8.5 licensing bullet, §10.5 H3 on licensing-free myth avoided; FAQ none |
+| X2 | (reused: research/smart-lock-installation.md W4 / fiber HV) | https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors ; https://www.yonkersny.gov/DocumentCenter/View/14753/Home-Improvement-License-Application-052825 | County home-improvement contractor licence; Yonkers issues its own home-improvement licence application. No claim that AESS holds either. | §8.5 licensing bullet |
+| X3 | (reused: research/smart-lock-installation.md X11) | https://dos.ny.gov/notice-adoption ; https://www.harrison-ny.gov/building-department/news/new-code-effective-12312025 | 2025 Uniform Code (2025 Building Code of NYS, based on 2024 IBC) effective Dec 31, 2025; Harrison building department notice. | §8.5 rated-wall/firestop bullet |
+| X4 | (reused: research/fiber-optic-installation.md Westchester) | https://www.ny.gov/counties/westchester ; https://en.wikipedia.org/wiki/Westchester_County,_New_York | 48 municipalities (six cities, 19 towns, 23 villages); White Plains county seat. | §5.5 bullet 2 context, §8.5 permits bullet |
+| T1 | silo (research/cat6-repair.md) | EC&M NEC 800.25 ; Fluke NEXT KB ; BICSI study guide | Abandoned accessible cable removed unless tagged; NEXT mostly from untwist at terminations; return-loss causes (kinks, staples, crush, water); fault location by distance. | §7.5, §9 answers, §10, §10.5 |
+| L1 | `Lawrence Park Historic District Bronxville artists colony houses built National Register` · FC search | https://en.wikipedia.org/wiki/Lawrence_Park_Historic_District ; https://www.villageofbronxville.gov/DocumentCenter/View/243/An-Illustrated-History-of-Bronxville-PDF | NRHP 1980; "primarily residential and representative of early suburban growth"; Bronxville history PDF: narrow meandering streets, irregular building plots, eclectic mix of houses. | §13 card 1 |
+| L2 | `Rye Playland opened 1928 Art Deco National Historic Landmark county-owned amusement park` · FC search | https://en.wikipedia.org/wiki/Playland_(New_York) ; https://npgallery.nps.gov/GetAsset/4b8e2d7e-4c98-4de8-b57d-076a47f61853 | Rye; opened 1928; owner Westchester County; 280 acres; NRHP nomination: "the first totally planned amusement park in the country". Art Deco Music Tower (FB excerpt — not used). | §13 card 2 |
+| L3 | `Westchester County Center White Plains Art Deco opened 1930 arena` · FC search | https://en.wikipedia.org/wiki/Westchester_County_Center ; https://countycenter.biz/ | Opened 1930 (grand opening May 22, 1930), Art Deco, renovated 1988; 198 N Central Ave, White Plains. | §13 card 3 |
+| L4 | `Hudson River Museum Glenview mansion Yonkers built 1877 Trevor Park` · FC search | https://www.hrm.org/glenview/ ; https://en.wikipedia.org/wiki/Glenview_Mansion | Glenview: 1877 Gilded Age home on the National Register, built for financier John Bond Trevor; became home of the Hudson River Museum in 1924. | §13 card 4 |
+| L5 | `Lyndhurst mansion Tarrytown Gothic Revival 1838 Alexander Jackson Davis National Trust` · FC search | https://lyndhurst.org/ ; https://savingplaces.org/places/lyndhurst | Gothic Revival mansion in Tarrytown designed in 1838 by Alexander Jackson Davis; National Trust Historic Site. | §13 card 5 |
+| L6 | `Caramoor Katonah Rosen house Mediterranean villa built 1930s estate acres` · FC search | https://caramoor.org/our-story/rosen-house-and-collection ; https://www.hudsonrivervalley.com/sites/Rosen-House-at-Caramoor/details | Rosen House, Mediterranean Revival villa at Caramoor, Katonah; "took ten years to complete". (FB excerpt 25,000 sf / 1920s–30s — not used.) | §13 card 6 |
+
+### Prices used (live AESS pages only; no new prices)
+- $195/hr, three-hour minimum ($585); additional time $195/hr — network-cable-repair-westchester-county.html pricing table (same as cat6-repair-hudson-valley hub).
+- Replacement Cat6 drop from $175 (cable, keystone, plate, panel punch-down, testing, both-end labelling, patch cord) — network-cable-repair-westchester-county.html; hub publishes the same $175 for Westchester.
+- New-install comparison Cat5e $265 / Cat6 $309 / Cat6A $441 per drop to 100 ft — cat6-installation-westchester-county.html (= Brooklyn base ×1.25 rounded; matches §9 Westchester multiplier).
+- Closet audit "quoted by port count"; plenum (CMP) "add per drop"; after-hours/weekend "premium applies"; arranged access windows in multi-tenant buildings "no labour premium" — network-cable-repair-westchester-county.html.
+- Fixr Jan 2025 national figures — labelled third-party only.
+- FLAG (carried from hub): $195 and $175 carry no §9 multiplier on any live Westchester/HV page; this page follows the hub's published Westchester figures, as instructed.
+
+### Images (11) — permanent image rule (Drive folder empty, CompanyCam not connected per main run)
+All 31 distinct source photos in images/network-cable-repair/ (16) and images/cat6/ (15) are already used at least once on cat6-repair-nyc / -long-island / -hudson-valley (perceptual-hash check). Every source shows a technician's face, so each was **cropped to the work area to remove faces**, which also makes these files visually distinct from the earlier uses. Brand logos on shirts/tool are visible in some crops; no house numbers, plates or readable documents.
+| images/cat6-repair/ | Source | Crop (fraction x0,y0,x1,y1) |
+|---|---|---|
+| cat6-repair-westchester-county-wall-jack-no-link-test.webp (hero) | network-cable-repair/network-jack-repair-westchester-county.webp | 0,0.35,0.50,1 |
+| -split-jacket-exposed-pairs.webp | network-cable-repair/damaged-ethernet-cable-repair-westchester-county.webp | 0,0.45,0.70,1 |
+| -keystone-punch-at-plate.webp | network-cable-repair/keystone-jack-replacement-westchester-county.webp | 0.46,0.46,1,1 |
+| -drywall-access-cut-at-box.webp | cat6/cat6-retrofit-installation-bronx-drywall-cut-in.webp | 0.30,0.40,1,1 |
+| -crushed-bundle-over-duct.webp | network-cable-repair/crushed-network-cable-repair-westchester-county.webp | none (no face) |
+| -wire-map-fail-screen.webp | network-cable-repair/network-cable-fault-detection-westchester-county.webp | 0,0.25,0.75,1 |
+| -tone-probe-labelled-panel.webp | network-cable-repair/network-cable-tracing-westchester-county.webp | 0.53,0.15,1,1 |
+| -fish-tape-conduit-feed.webp | cat6/cat6-wiring-bronx-fish-tape-conduit.webp | 0,0.32,1,1 |
+| -data-voice-plate-rework.webp | cat6/cat6-voice-data-outlet-installation-bronx.webp | 0.45,0.40,1,1 |
+| -panel-port-reterminate.webp | network-cable-repair/patch-panel-repair-westchester-county.webp | 0,0.15,0.62,1 |
+| -switch-port-flashlight.webp | network-cable-repair/switch-port-troubleshooting-westchester-county.webp | 0,0,0.55,1 |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (8) + images/cat6/ (3), cropped to remove faces (no real cat6-repair photos yet)`. Photos look AI-rendered (same flag as earlier builders). Finishing pass: -fish-tape-conduit-feed (top 70 px) and -wire-map-fail-screen (top 40 px) re-cropped to remove a visible chin/mouth; captions corrected to what is visible (no cord on the FAIL tester; "metal post" not "desk leg"; shirt logo not sleeve patch; "blue line" from the fish-tape reel).
+Finishing pass (size/clone fix): removed the "Where Cat6 Faults Hide" and "Renovating?" sections (repeated Q&A content), the AI-section items "Powerline or coax adapters" and "A $20 tester" (unsourced $20; repeated the equipment note), an unsourced Verizon/Optimum forum sentence, "best-known" (Lyndhurst), and an implied work-history sentence. No questions removed.
+
+### Keyword notes (five layers, Westchester geo)
+- Service: Cat6 repair Westchester County, Cat6 cable repair Westchester, Cat6 jack repair, home office Cat6 repair, apartment Cat6 repair, Cat6 re-termination, structured media panel repair, Cat6 recertification.
+- Problem: dead wall jack, Cat6 behind plaster, punctured Cat6 (nail/screw/TV mount), Cat6 near steam riser/radiator, Cat6 in duct chase, failed run in concrete co-op, hot unit closet switch, ONT-to-router link down, flooded basement network corner, damage by another trade.
+- Technology: Cat6, Cat6A, keystone, 110 punch-down, structured media enclosure, ONT, PoE, wire map, NEXT, return loss, fault location by distance, CMR/CMP, firestop.
+- Industry: homeowners with home offices, co-op and condo owners, renters in new towers, landlords/managing agents, medical practices in converted offices, village storefronts, small professional offices.
+- Geographic: Westchester County, Yonkers, Mount Vernon, New Rochelle, White Plains, Scarsdale, Bronxville, Larchmont, Mamaroneck, Rye, Port Chester, Harrison, Hartsdale, Tarrytown, Sleepy Hollow, Ossining, Peekskill, Mount Kisco, Katonah, Bedford, Chappaqua, Pelham, Platinum Mile, Central Park Avenue, Mamaroneck Avenue.
+
+## Question register — cat6-repair-westchester-county
+
+§9 "Questions Answered" (H3):
+1. Where along a run fished through plaster-and-lath walls does a Cat6 fault usually sit?
+2. If a Cat6 repair does need an opening in a finished wall, how big is it and who puts the wall back?
+3. The previous owner's Cat6 all ends in a basement corner full of coax splitters and an old phone block — can that be sorted out without rewiring the house?
+4. Our Cat6 runs from the fiber or cable box in the basement to the office upstairs — whose problem is it when that link stops working?
+5. One room's jack died and every run goes back to a white panel in a closet — does the panel have to be replaced?
+6. Does our co-op board have to approve a Cat6 repair that stays inside our own apartment?
+7. Our new rental has a small network switch in the unit's utility closet — why do some rooms drop out when that closet runs hot?
+8. Our 1960s apartment building has concrete ceilings and no drop ceiling — how is a failed Cat6 run replaced there?
+9. The router and switch sit on the basement floor in a part of town that floods — how should the Cat6 be re-terminated when they move upstairs?
+10. Our practice moved into a converted office on the Platinum Mile and the exam-room jacks fail certification — is it the cable or the conversion?
+11. An electrician's lighting retrofit went through our ceiling and now four desks are dead — how is damage by another trade documented and repaired?
+12. Why does the Cat6 that runs beside an old steam riser or radiator keep failing?
+13. A picture hook or a TV-mount screw went into the wall — can a punctured Cat6 run be found and fixed?
+14. Our 1950s split-level has Cat6 running through the forced-air duct chase — can it be repaired there, or does it have to move?
+
+FAQ (§17, = FAQPage schema):
+F1. Can the repair be scheduled so a home office is offline for as short a time as possible?
+F2. Do you need our Wi-Fi or router password to repair the Cat6?
+F3. Will you work with our superintendent if the switch is in a locked basement room?
+F4. Can a dead jack behind a built-in bookcase or kitchen cabinet be repaired without removing the cabinetry?
+F5. Can you repair the Cat6 behind a wall-mounted TV without taking the TV down?
+F6. Do you repair Cat6 in a two-family house where each unit has its own internet service?
+F7. Will a Cat6 repair interrupt the building's intercom or door-entry system?
+F8. Can you repair the Cat6 that feeds a generator, solar inverter or battery monitoring gateway?
+F9. Do you protect floors and clean up plaster dust after the work?
+F10. Can one visit cover both our home office and a small office we run in town?
+
+Other "?" headings: "Home Office or Apartment Link Down in Westchester?" (repair capture), "Dead Jack Somewhere Between Yonkers and Peekskill?" (closing).
+
+De-dup notes: compared by meaning against the full register in research/cat6-repair.md (NYC 26, LI 23, HV 25). Dropped from first plan because a sibling already holds the intent: plaster tracing without opening (NYC Q15) → replaced with opening size/who patches (Q2); cellar water dry-out (NYC Q16) and flood insurance documentation (LI Q5) → replaced with moving the network corner above the flood line (Q9); seasonal reopening (LI Q10) and garage-cold (HV Q4) → not used; knob-and-tube (HV F1), matching plates (HV F5), labelling, licensing questions → body only or not used; school summer work (LI F3), medical before patients (LI F4) → not used. Re-check against cat6-repair-nassau-county / -suffolk-county once final (same batch).
