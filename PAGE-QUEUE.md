@@ -32,9 +32,9 @@ BUILDING 2026-10-17T06:06Z | soundbar-installation-ulster-county | Soundbar Inst
 BUILDING 2026-10-17T06:20Z | smart-lock-installation-manhattan | Smart Lock Installation | Manhattan | up /smart-lock-installation-nyc | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T06:20Z | smart-lock-installation-brooklyn | Smart Lock Installation | Brooklyn | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T06:20Z | smart-lock-installation-queens | Smart Lock Installation | Queens | up /smart-lock-installation-nyc | (347) 434-6392 | GBP Bronx
-TODO | smart-lock-installation-bronx | Smart Lock Installation | Bronx | up /smart-lock-installation-nyc | (646) 490-0629 | GBP Bronx
-TODO | smart-lock-installation-staten-island | Smart Lock Installation | Staten Island | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | smart-lock-installation-nassau-county | Smart Lock Installation | Nassau | up /smart-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-17T06:48Z | smart-lock-installation-bronx | Smart Lock Installation | Bronx | up /smart-lock-installation-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T06:48Z | smart-lock-installation-staten-island | Smart Lock Installation | Staten Island | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T06:48Z | smart-lock-installation-nassau-county | Smart Lock Installation | Nassau | up /smart-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | smart-lock-installation-suffolk-county | Smart Lock Installation | Suffolk | up /smart-lock-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | smart-lock-installation-westchester-county | Smart Lock Installation | Westchester | up /smart-lock-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | smart-lock-installation-rockland-county | Smart Lock Installation | Rockland | up /smart-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
