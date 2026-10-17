@@ -125,9 +125,9 @@ LIVE | fiber-optic-installation-downtown-brooklyn-ny | Fiber Optic Installation 
 LIVE | fiber-optic-installation-flushing-queens-ny | Fiber Optic Installation | Flushing, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | fiber-optic-installation-fordham-bronx-ny | Fiber Optic Installation | Fordham, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | fiber-optic-installation-stapleton-staten-island-ny | Fiber Optic Installation | Stapleton, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T15:12Z | sonos-installation-upper-east-side-manhattan-ny | Sonos Installation | Upper East Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T15:12Z | sonos-installation-park-slope-brooklyn-ny | Sonos Installation | Park Slope, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T15:12Z | sonos-installation-forest-hills-queens-ny | Sonos Installation | Forest Hills, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | sonos-installation-upper-east-side-manhattan-ny | Sonos Installation | Upper East Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | sonos-installation-park-slope-brooklyn-ny | Sonos Installation | Park Slope, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-forest-hills-queens-ny | Sonos Installation | Forest Hills, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T15:19Z | sonos-installation-riverdale-bronx-ny | Sonos Installation | Riverdale, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T15:19Z | sonos-installation-todt-hill-staten-island-ny | Sonos Installation | Todt Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T15:19Z | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
