@@ -453,3 +453,341 @@ Images (11, borrowed from images/low-voltage/, no real Sonos photos yet): see fi
 
 _Main run 2026-10-17: three Long Island questions reworded to avoid meaning overlap with the Hudson Valley hub (wired-to-router, buy-your-own, warranty)._
 _Main run, after sonos-installation-nyc went live: five LI/HV questions reworded to avoid meaning overlap with the NYC hub (visit length, soundbar choice, warranty, customer-supplied gear, wired setup)._
+
+
+<!-- batch 2026-10-17 07:57Z: sonos-installation-manhattan -->
+## Manhattan (sonos-installation-manhattan)
+
+Built 2026-10-17 by the sonos-installation-manhattan subagent (batch with Brooklyn and Queens). Area page, up-link /sonos-installation-nyc, direct line (929) 560-0737, Bronx GBP (#bronx, 460 E Fordham Rd, Bronx NY 10458). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Fire_Crawl__firecrawl_search (excerpts only); "FC scrape" = mcp__Fire_Crawl__firecrawl_scrape (directQuote query mode); "WS" = WebSearch; "WF" = WebFetch. Silo-wide product facts (Sonos system requirements, interference table, Amp/Port/in-ceiling specs, Trueplay, Ethernet settings, Amp operating temperature, Amp clearance) are reused from research/sonos-installation.md and not re-listed except where this page relies on them for a new question.
+
+**Thesis (differs from the NYC hub's Manhattan paragraph, which is about access and structure — COI, service elevator, weekday hours, ceiling types, Wi-Fi):** Manhattan Sonos work is small-apartment, shared-structure work for a borough that mostly rents. Three in four homes are rented (25.1% owner-occupied), households average 2.00 people and 97% of units sit in buildings of six or more units, so the plan has to be (1) reversible for renters, (2) documented the way a board's approval process actually runs for owners (decoration vs alteration agreement, the board's own architect review, lead/asbestos rules, fees and deposits), and (3) quiet by design — sized to small rooms (Sub Mini rather than Sub 4), capped with Sonos's per-product volume limit, and compliant with house rules such as the 80 percent rug rule — with the Amp hidden in whatever closet exists, often one shared with a steam riser.
+
+### Housing / demographics (§5, §5.5)
+- `census quickfacts New York County` · WF · https://www.census.gov/quickfacts/fact/table/newyorkcountynewyork/PST045224 · population 1,664,862 (July 1, 2025, V2025); housing units 938,554 (July 1, 2025); owner-occupied housing unit rate 25.1% (2020–2024); persons per household 2.00; median gross rent $2,197; households 778,281; households with broadband 92.4% · §5 paras 1–2, §5.5 stats 1–3, §9 rental Q.
+- `Manhattan share of housing units in buildings six or more units` · FC scrape · https://chpcny.org/visualization/housing-stock-visualization/ (CHPC "Taking Stock") · "In Manhattan, nearly all units (97 percent) are in buildings of six or more units"; "Manhattan, with just 7.5 percent of the city's land, contains a quarter of its housing units." · §5 para 1, §5.5 stat 4.
+- `counties oldest homes New York stacker` · FC scrape · https://stacker.com/stories/new-york/counties-oldest-homes-new-york (Stacker, Sep 25 2025, U.S. Census Bureau data) · "#3. New York County — Median year homes built: 1951 — Homes built 1939 or earlier: 42.7% (392,000 homes)" · §5.5 stat 5, §7 intro.
+
+### Co-op / condo approval process (§5, §9 paperwork cluster, glossary, §10.5)
+- `what is an alteration agreement` · FC scrape · https://www.brickunderground.com/guides/how-to-renovate/what-is-an-alteration-agreement · decoration agreement "can sometimes be approved by the managing agent without a full board review, meaning you can have it authorized in less than a week"; alteration approval "at least a month if your board and property manager are efficient and do not ask for changes, and up to a year for more extensive work like combining apartments"; "You'll also have to pay for the building's architect or engineer to review the plans and inspect the work"; security deposit "a flat fee of $5,000 or 10 to 15 percent of your total cost"; "Most limit work to 9-5 weekdays"; "Some buildings require an environmental testing firm to monitor lead levels and the presence of asbestos before you can begin work"; COI naming board and managing agent as additional insureds; some buildings need no notice for work not involving major systems · §5 para 3, §9 Q1–Q3, Q10, glossary, §10.5 H3 2, process step 3, FAQ "board documents".
+- `co-op alteration agreement "low voltage" speakers wiring Manhattan board approval habitat` · WS → https://habitatmag.com/Publication-Content/Legal-Financial/2016/2016-July/Reworked-Wiring (WF, Habitat, Aug 1 2016) · Chelsea co-op sconce case; Manhattan lawyer: "Most proprietary leases require board approval for alterations, which usually includes wiring." Article does not mention low-voltage or speakers · §5 para 3, §9 Q4 (context, quoted with attribution).
+- `co-op proprietary lease 80 percent carpet rule floors covered rugs New York` · FC search · https://www.habitatmag.com/Archive2/201-May-2004/The-80-Percent-Carpet-Rule (excerpt: typical house rule "at least 80 percent of the floor area of each room excepting only kitchens, pantries, bathrooms and hallways"; court called it "noise abatement for the benefit of other shareholders"); https://alblawfirm.com/articles/carpeting-requirements/ (excerpt: "Rule, but No Law") · §9 Q7, §5.5 stat 6, §10.5 H3 4.
+
+### Permits (§8.5, §9 Q4)
+- (direct) https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 · FC scrape · §28-105.4.7: "An electrical permit shall not be required for the installation, alteration, maintenance, or repair of electrical wiring that is designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person as defined in the New York city electrical code." (First found by the soundbar-installation-manhattan builder; re-scraped this run.) · §9 Q4, §8.5. Page states the rule neutrally and does NOT claim AESS is a "qualified person" under the NYC Electrical Code — flag for Anwar. Page also does not claim speaker-level wiring is a "signaling/communication/data" circuit; it says the building or DOB has the final word.
+
+### Sonos product facts specific to this page
+- `Sonos support set volume limit speaker app` · WS → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products (WF) · "You can use the Sonos app to limit the maximum volume for each one of your Sonos products"; path Settings → product → Sound → Volume Limit; with a 50% limit the full slider outputs 50%; limit also applies to line-in autoplay and alarms; article silent on TV audio, groups, voice · §9 Q6, §10.5 H3 5, glossary, process step 7.
+- (direct) https://www.sonos.com/en-us/shop/sub-mini · FC scrape · 12.01 in tall, 9.06 in diameter, 14 lb; dual 6-in force-canceling woofers, sealed cabinet, down to 25 Hz; pairs with Beam, Ray, Era 100, One, One SL (page also lists Arc/Arc Ultra under compatibility — inconsistent, NOT used); Wi-Fi, 10/100 Ethernet; "easily fits under a desk or table"; operating 32–104°F; Sonos list price $499 (NOT used) · §9 Q5, §10 card. Sub 4 dimensions (15.31 × 15.83 × 6.22 in, 25.99 lb) from silo LI research · §9 Q5.
+- Reused silo facts: Amp operating temperature 32–104°F (https://www.sonos.com/en-us/guides/amp, HV research); Amp ≥3 in clearance, 2.52 × 8.54 × 8.54 in (Sonos Amp product guide PDF, LI research); Port "keep away from radiators" and 2 in clearance (https://www.sonos.com/en-us/guides/port, NYC research); Ethernet "hardwired back to a router or switch only" (https://support.sonos.com/en-us/article/recommended-settings-for-using-sonos-with-ethernet-networks, HV research); ceiling pair covers ~150 sq ft, L/R 6–10 ft apart (https://www.sonos.com/en-us/blog/guide-to-ceiling-speakers, LI research); Amp drives up to three pairs (NYC research); system requirements / interference table (NYC research) · §9 Q8, Q11, Q12, §7.5, network section.
+
+### Landmarks / building-type cards (§13) — none shared with the NYC hub's Manhattan card (The Dakota)
+- `Stuyvesant Town Peter Cooper Village built 1947 buildings apartments history` · WS → https://en.wikipedia.org/wiki/Stuyvesant_Town%E2%80%93Peter_Cooper_Village (WF) · MetLife; first building opened 1947 (first tenants Aug 1, 1947); 11,250 apartments; red brick; ~80 acres; First Ave to Avenue C, 14th to 23rd St; building count inconsistent on page (110 vs 55/110 addresses) → page says "110 street addresses" not building count · §13 card 1.
+- `Tudor City` · WF · https://en.wikipedia.org/wiki/Tudor_City · Fred F. French Co.; H. Douglas Ives; first 12 built Oct 1927–late 1930; 13 buildings (11 co-ops); ~2,800 original apartments; Tudor Revival; east of Second Ave, 40th–43rd St; LPC district May 17, 1988 · §13 card 2.
+- `London Terrace Chelsea apartment complex 1930 history` · WS → https://en.wikipedia.org/wiki/London_Terrace (WF) · built late 1929–Nov 1930; Farrar & Watmough; 14 contiguous buildings, 17–19 stories, ~1,700 apartments; full block Ninth–Tenth Ave, 23rd–24th St; original pool, gym, "internal dial telephone system"; today co-op (London Terrace Towers) + rental (London Terrace Gardens) · §13 card 3.
+- `Westbeth Artists Housing former Bell Telephone Laboratories conversion 1970` · WS → https://en.wikipedia.org/wiki/Westbeth_Artists_Community (WF) · Bell Labs HQ 1898–1966; converted 1968–1970 under Richard Meier; 13 buildings; block bounded by West, Bethune, Washington and Bank Streets; LPC landmark Oct 25, 2011; unit count not stated (384 artists figure ambiguous → NOT used) · §13 card 4.
+- `Manhattan House 200 East 66th Street 1950 white brick postwar` · WS → https://en.wikipedia.org/wiki/Manhattan_House (WF) · first residents Oct 1950, completed 1951; Gordon Bunshaft (SOM) with Mayer & Whittlesey; 21 stories; ~582 units; white glazed brick; Second–Third Ave, 65th–66th St; LPC landmark Oct 30, 2007; condo sales from Nov 2007 · §13 card 5, §7 postwar card.
+- `SoHo Cast Iron Historic District designated 1973 buildings loft` · WS → https://hdc.org/borough/soho/ (WF) · designated Aug 14, 1973; extension May 11, 2010; most cast-iron fronts from the 1870s; residential loft apartments alongside commercial buildings · §13 card 6, §7 loft card, §9 Q11.
+
+### Local Reddit (excerpts only — threads not opened)
+- `reddit AskNYC sonos apartment neighbors noise ceiling speakers` · FC search · https://www.reddit.com/r/sonos/comments/j5ysh8/question_about_sub_and_neighbors/ — excerpt "You can control output via night mode and the other settings in-app" · §9 Q6 (paraphrased, attributed to r/sonos); https://www.reddit.com/r/AskNYC/comments/oidirc/neighborfriendly_soundbars/ — excerpt "insulate them from the floor/wall to minimize acoustic energy transfer through hard surfaces" · §9 Q7 (quoted, attributed to r/AskNYC); https://www.reddit.com/r/AskNYC/comments/js7ai9/does_everyone_hear_their_upstairs_neighbors/ — not used.
+- `reddit NYCapartments speakers neighbor complaint bass co-op board Manhattan` · FC search · https://www.reddit.com/r/AskNYC/comments/1e2qcfo/nyc_noise_level_in_coops_and_condos/ — excerpt "Loud music is something that the front desk person should be able to address if you complain" · §5 para 4 (quoted, attributed); https://www.habitatmag.com/Publication-Content/Legal-Financial/2023/2023-January/Here-s-the-Wrong-Way-to-Handle-a-Noise-Complaint-in-a-Co-op — excerpt "noise complaints are common in co-ops and condos" · §5 para 4 (paraphrased). Others (r/NYCapartments dog noise, NYT 2025 noisy neighbors) not used.
+
+### Sources that came back empty
+- Google People Also Ask — EMPTY (not accessible in build env)
+- Google PASF — EMPTY (not accessible in build env)
+- Answer the Public — EMPTY (not accessible in build env)
+- Google AI Overview — EMPTY (not accessible in build env); §10.5 says so and uses national cost-guide figures (Angi, NYC hub research) and common assumptions instead.
+- Bing / DuckDuckGo — EMPTY (not accessible in build env)
+- Yelp 1–3★ for Manhattan Sonos installers — EMPTY (not accessible in build env)
+- Local news (Patch, AMNY, THE CITY, West Side Rag, Our Town) for Sonos / home-audio installs in Manhattan — EMPTY (no service-category story found; not substituted)
+- `Sonos support night sound speech enhancement soundbar` · WS → retailer pages only → EMPTY for a Sonos support source; night/speech features mentioned only generically (as the NYC hub does).
+- Manhattan Wi-Fi congestion statistic — EMPTY (none found; none stated).
+
+### Pricing used (existing AESS lines only)
+- From the NYC hub pricing section (research/tv-mounting-prices/BRIEF.md verified list): Sonos setup $125; soundbar wall-mounted $129; placed $79; Sanus bracket $84.99; in-wall concealment $169; cord cover $59; cable run ≤25 ft $99; A/V receiver $129; universal remote $99; streaming device $49; full home theater $350; wall adds metal +$30, plaster +$45, brick/stone +$65, concrete/block +$75, tile/marble +$95; backer $85; high mount $75; walk-up 3rd fl+ $40; box removal $25; COI free; return trip $150; reschedule free with 24 h notice; Manhattan setup-only first hour $265 then 30-min blocks; ceiling/wall speakers "quoted at walkthrough" within the $800–$2,500 per zone range published on av-sound-installation-nyc.
+- Manhattan-only line from the same verified list (BRIEF.md line 8) and live tv-mounting-prices-manhattan / soundbar-installation-manhattan: flat $150 parking charge per Manhattan visit (setup-only hour + parking = $415, as published on tv-mounting-prices-manhattan).
+- §9 multiplier (Manhattan 1.25×) NOT applied to the flat lines, because neither the hub nor any live Manhattan TV/soundbar page applies it to these lines (the Manhattan difference is carried by the $265 hourly rate and the $150 parking line). Packages = hub packages + $150 parking: $275 / $488.99 / $657.99. Flag for Anwar.
+
+### Images (11, permanent image rule — no real Sonos photos yet)
+Source folder images/low-voltage/ (only files named "manhattan"). Every source is a byte-identical copy of a photo that also exists under other area names; several of the same photos appear on the NYC/LI/HV Sonos pages under other names (noted). Faces: no frontal faces; three photos show a technician's partial side profile with safety glasses (recessed box, wall plate, tester) as on the hub.
+
+| New file (images/sonos-installation/) | Source | Also on a Sonos sibling? |
+|---|---|---|
+| sonos-installation-manhattan-ceiling-speaker-tile-and-amp-cart.webp (hero) | low-voltage-installation-manhattan-ceiling-speaker-conference.jpg | NYC hub hero (same photo) |
+| sonos-installation-manhattan-dining-room-ceiling-speaker.webp | low-voltage-installation-manhattan-14-restaurant-ceiling-speaker.jpg | NYC, LI, HV |
+| sonos-installation-manhattan-recessed-media-box-behind-display.webp | low-voltage-installation-manhattan-display-recessed-box.jpg | NYC, LI, HV |
+| sonos-installation-manhattan-three-techs-display-and-wall-box.webp | low-voltage-installation-manhattan-10-conference-room-display-cabling.jpg | NYC, LI |
+| sonos-installation-manhattan-ceiling-access-point-cable-feed.webp | low-voltage-installation-manhattan-09-ceiling-access-point-drop.jpg | NYC, HV |
+| sonos-installation-manhattan-drop-ceiling-cable-bundle.webp | low-voltage-installation-manhattan-03-ceiling-grid-bundle-pull.jpg | NYC, LI |
+| sonos-installation-manhattan-open-ceiling-crew-and-rack.webp | low-voltage-installation-manhattan-02-crew-ceiling-cable-pull.jpg | not on a Sonos page |
+| sonos-installation-manhattan-j-hook-cable-pathway.webp | low-voltage-installation-manhattan-hero-jhook-pathway.jpg | not on a Sonos page |
+| sonos-installation-manhattan-wall-plate-jack-termination.webp | low-voltage-installation-manhattan-08-keystone-wall-plate-termination.jpg | NYC, HV |
+| sonos-installation-manhattan-handheld-tester-wall-jack.webp | low-voltage-installation-manhattan-07-fluke-certification-pass.jpg | NYC, LI |
+| sonos-installation-manhattan-metal-stud-cable-rough-in.webp | low-voltage-installation-manhattan-04-metal-stud-rough-in.jpg | not on a Sonos page |
+
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-manhattan
+
+### §9 Questions Answered (H3)
+1. How long does board approval for ceiling speakers usually take in a Manhattan co-op?
+2. Will the board's own architect or engineer have to review a speaker plan, and who pays for that?
+3. Our building requires lead and asbestos testing before any cutting — does a speaker opening trigger it?
+4. Does New York City require a permit to run speaker wire inside an apartment?
+5. Is a Sub Mini a better fit than a Sub 4 in a studio or one-bedroom?
+6. Can we cap the volume so a party never turns into a noise complaint?
+7. Does the co-op's 80 percent rug rule affect where the speakers and Sub can sit?
+8. Is a closet beside a steam riser too warm for a Sonos Amp?
+9. When the lease ends, can speaker openings be patched so the security deposit isn't at risk?
+10. Two apartments were combined into one — can a single Sonos system cover both halves?
+11. In a loft with 12-foot ceilings and cast-iron columns, do in-ceiling speakers still make sense?
+12. The developer put Ethernet jacks in every room of our condo — can the Sonos speakers use them?
+
+### §17 FAQ (visible == FAQPage)
+1. What does a Sonos visit in Manhattan add up to once the parking line is included?
+2. Why is there a $150 parking line on Manhattan visits?
+3. How is a setup-only Sonos visit billed in Manhattan?
+4. Do you protect the hallway, the elevator cab and the apartment floor on the way in?
+5. Can you work alongside our general contractor during a gut renovation?
+6. Can the installation happen while we're at work and the doorman lets you in?
+7. Will you prepare the speaker layout and product sheets the board asks for?
+8. Which parts of Manhattan do your Sonos crews cover?
+
+### Other question-form headings
+- H2 "Sonos Cutting Out in Manhattan?" (repair capture)
+- H2 "Sonos Gone Quiet in Manhattan Tonight?" (final repair capture)
+
+De-dup notes: checked by meaning against every question in the NYC, Long Island and Hudson Valley registers. Deliberately avoided (owned elsewhere): dropouts, building Wi-Fi, wired-to-router, router by the door, plaster ceiling, concrete ceiling, cable route to Amp, Era 300 mount, "is it an alteration", LPC, doorman scheduling hours, Sub vs downstairs, ceiling speakers vs upstairs, Arc/Beam/Ray choice, Amp vs Port, Amp speaker count, Trueplay Android, renter no-holes, moving, Amp location in a new house, COI for managed property, cost/hours/reschedule/warranty/boxes/coverage-outside-NYC generic FAQs. Brooklyn and Queens builders running in parallel: these questions are Manhattan-specific (board process, permit rule, small-unit sub, volume cap, rug rule, steam riser, lease-end patching, combined apartments, cast-iron lofts, developer Ethernet, parking line).
+
+
+<!-- batch 2026-10-17 07:57Z: sonos-installation-brooklyn -->
+## Brooklyn (sonos-installation-brooklyn)
+
+Built 2026-10-17 by the Brooklyn subagent (batch with Manhattan and Queens). To be merged into research/sonos-installation.md by the main run.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Fire_Crawl__firecrawl_search (excerpts only unless "scraped"); "FC scrape" = mcp__Fire_Crawl__firecrawl_scrape; "WS" = WebSearch; "WF" = WebFetch. Silo-wide product facts (Sonos system requirements, interference table, 18 in spacing, Amp 32–104°F, outdoor pair IP66 −13°F–149°F, Move 2 IP56 / indoor charging base, Era 300 stud-only mount, Arc Ultra/Beam dimensions, Trueplay, 8.25 in cut-out, three pairs per Amp, May 2024 app) are reused from the silo-wide sections of research/sonos-installation.md and are not re-listed here.
+
+**Thesis (distinct from the NYC hub's Brooklyn paragraph, which says "brownstones need a wired link per floor; towers bring building Wi-Fi"):** a Brooklyn Sonos system is designed around the house *and the households in it* — (1) the tall, narrow rowhouse (≈20 ft × 40–50 ft per floor, internet landing in the cellar) needs a cellar-up wired riser with an access point per floor; (2) two-/three-family houses where owner and tenant share one internet line need separate networks, because Sonos Guest Access (on by default) lets any device on the same Wi-Fi control playback/volume/grouping, and two systems on one network behave unpredictably; (3) the rear garden / roof deck is the extra Sonos room (passive outdoor pair → indoor Amp → sealed hole through a brick rear wall, neighbours, LPC rear-facade check, condo common-element roofs); waterfront/Downtown towers are the counter-case.
+
+### Building stock, house shape, households
+- `Brooklyn brownstone typical width 20 feet depth rowhouse floor-through parlor floor` · FC search →
+  - https://www.havardcooper.com/articles/brownstone-renovation-guide-nyc (excerpt): footprint "almost always 20 feet wide and 40 to 50 feet deep" · §5 para 1, §5.5 bullet 1.
+  - https://www.brownstoner.com/forum-archive/2007/06/brownstone-size/ (excerpt): "20 foot is thought of as a standard width. Less than 20 foot is considered narrow. 25 foot or more is considered side [wide]" · §5 para 1, §10.5 claim 5.
+  - https://thebrownstoneboys.com/living-in-the-living-room/ (excerpt, 18–20 ft wide, 40–45 deep) · cross-check only, not used.
+- `Brooklyn one- to four-family homes share of housing stock two-family owner-occupied rental unit` · FC search → https://comptroller.nyc.gov/reports/spotlight-new-york-citys-homeowner-housing-market/ (excerpt): "approximately 225,000 two-family structures, where the homeowner typically (but not always) lives in one unit and rents out the other" (citywide) · §5 para 3, §5.5 bullet 3. https://chpcny.org/visualization/housing-stock-visualization/ (excerpt; Manhattan/SI shares only) → no Brooklyn-only small-building share obtained → none stated.
+- Kings County QuickFacts (housing units 1,141,824 July 1 2025; owner-occupied 29.5% 2020–2024) — reused from research/soundbar-installation.md Brooklyn section (Firecrawl scrape of https://www.census.gov/quickfacts/fact/table/kingscountynewyork/PST045224 by the soundbar builder) · §5.5 bullet 2.
+- Downtown Brooklyn "close to 27,000 new housing units" since 2004 rezoning (https://www.planetizen.com/news/2025/08/135887-brooklyn-built-3700-homes-6-months-and-its-nowhere-near-done) and 2005 Greenpoint–Williamsburg rezoning (greenpointers.com / Rutgers report) — reused from research/soundbar-installation.md Brooklyn section · §5 para 5, §5.5 bullet 4.
+
+### Wi-Fi in tall narrow houses (local forums)
+- `brownstoner where does internet cable enter brownstone basement router wifi top floor mesh` · FC search →
+  - https://www.brownstoner.com/forum/general-discussion/seeking-fios-install-tips-and-timing/ (excerpt): "So ONT goes in the cellar, and then use the cat6 to connect mesh access points around the house." · §5 para 2 (quoted), §9 Q1, §10.5 claim 1.
+  - https://www.brownstoner.com/forum/general-discussion/wifi-recommendations-including-outdoors/ (excerpt): "Wiring the access points with ethernet wire is ideal. Wireless meshing can work well … through some of the floors." · §10.5 claim 1 (paraphrased).
+- `reddit r/Brooklyn wifi brownstone four floors mesh router dead zone` · FC search → https://www.reddit.com/r/HomeNetworking/comments/ho9t6m/mesh_network_for_4floor_nyc_brownstone/ (excerpt): "the router is on the least busy channel for 2.4 and 5ghz, the problem is really that it doesn't reach far enough through the house." · §5 para 2 (quoted, attributed to r/HomeNetworking). r/Brooklyn itself: EMPTY (no r/Brooklyn thread on Sonos/Wi-Fi returned).
+
+### Sonos — households, guest access, alarms, volume limits (primary sources)
+- `Sonos support multiple Sonos systems same home network separate households` · WS → https://en.community.sonos.com/controllers-music-services-228995/one-house-2-different-sonos-systems-1-app-6788424 (WF): community members (not Sonos staff): controller registered to both systems "could pick either of the systems to latch onto"; "Results will be frustratingly unpredictable." · §6b two-households para 3, §10.5 claim 3.
+- `support.sonos.com guest access Sonos app let guests control speakers same WiFi` · FC search → https://support.sonos.com/en-us/article/adjust-connection-security-settings (FC scrape): Guest access "controls whether devices connected to the same WiFi network as your Sonos system can control playback, volume, and grouping as guests without access to administrative features. The default setting for Guest Access is ON." Set under Account > Privacy & Security > Connection Security. · §5 para 3, §5.5 bullet 5, two-households section, §9 Q4, §10.5 claim 2.
+- same search → https://support.sonos.com/en-us/article/connect-to-multiple-sonos-systems (FC scrape): connecting the app to "another Sonos system in a different location … your home and a friend or family member's home" · two-households para 3, §10.5 claim 3.
+- `Sonos Shabbat Shabbos mode alarm timer speakers observant` · FC search → https://support.sonos.com/en-us/article/set-an-alarm-on-sonos (FC scrape): set time, room, music, volume, repeat and how long the alarm sounds; max 32 alarms. · §8 "Music that opens and closes with the shop", How It Works step 6. Orthodox/Hasidic-specific Sonos use: no Brooklyn or Sonos-specific source found (only generic Shabbat alarm apps) → EMPTY; not mentioned on page.
+- `support.sonos.com set volume limit room Sonos app maximum volume` · FC search → https://support.sonos.com/en-us/article/setting-a-volume-limit-on-sonos-products (excerpt): "You can use the Sonos app to limit the maximum volume for each one of your Sonos products." · two-households list, outdoor section, §8.5, FAQ 10.
+- `Sonos outdoor speakers by Sonance wire gauge 16 Amp powers outdoor pair installation guide` · FC search → https://www.sonos.com/pdfs/productguides/en-us/sonos_outdoor_by_sonance.pdf (excerpt: FastMount brackets; "Run the speaker wires from the amplifier to the speaker"); https://www.sonos.com/en-us/blog/guide-to-outdoor-speakers (excerpt: pairing outdoor speakers with Amp "extends from your house to your garden") · outdoor section, §10.5 claim 4.
+
+### Historic districts / landmarks (§13 cards, §5.5)
+- `hdc.org Park Slope Historic District designated 1973 extension 2012 2016 buildings` · FC search → https://hdc.org/hdc-across-nyc/brooklyn/deserving-designated/park-slope/ (1973; mansions, rowhouses); https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html ("second extension adds 292 buildings", April 2016); https://www.citylandnyc.org/landmarks-approves-park-slope-historic-district-extension/ (first extension ~600 buildings) · §13 card, §5.5 bullet 6.
+- `Carroll Gardens Historic District designated 1973 deep front gardens …` · FC search → https://brooklyncb6.cityofnewyork.us/wp-content/uploads/resources/lpc-carroll-gardens.pdf (LPC map: "Designated September 25, 1973"); https://en.wikipedia.org/wiki/Carroll_Gardens_Historic_District (excerpt: rowhouses built 1860s–1880s); villagepreservation excerpt ("distinctive front gardens") · §13 card.
+- `Fort Greene Historic District designated 1978 rowhouses Italianate hdc` · FC search → https://hdc.org/buildings/fort-greene-historic-district/ (Italianate, Queen Anne, Neo-Grec brownstone and brick row houses built 1855–1875; Fort Greene Park); landmarksofny excerpt (wood-framed row houses mid-1850s, designated 1978) · §13 card, §5.5 bullet 6.
+- Brooklyn Heights HD 1965 — silo NYC hub research (hdc.org) · §5.5 bullet 6 only (not a card; hub owns the card).
+- `Ditmas Park Historic District designated 1981 freestanding Victorian houses wood frame` · FC search → https://www.brownstoner.com/architecture/flatbush-proposed-historic-districts-lpc-ditmas-park-west-beverly-square-west/ (excerpt: Prospect Park South and Ditmas Park HDs "designated in 1979 and 1981, respectively"; detached wood-frame houses); https://6tocelebrate.org/neighborhoods/victorian-flatbush/ (excerpt: Victorian Flatbush known for concentration of wooden Victorian-style homes) · §13 card.
+- `Sunset Park Historic District designated 2016 rowhouses largest Brooklyn LPC` · FC search → https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-four-historic-districts-in-sunset-park.page (LPC designates four HDs, 2019); https://hdc.org/buildings/sunset-park-north-historic-district/ ("one of the earliest and most extensive concentrations of two-family masonry rowhouses in the city. Mostly built between 1885 and 1912") · §13 card, §7 two-family card.
+- `Greenpoint Landing towers waterfront apartments number of units Brooklyn development` · FC search → https://handelarchitects.com/project/greenpoint-landing-master-plan (~5,500 units; One Blue Slip 30-story / 349 units; Two Blue Slip 40-story / 421 units); https://www.nyc.gov/site/hpd/news/018-24/374-new-affordable-homes-open-greenpoint-landing (5,500 units, five acres open space); https://newyorkyimby.com/2025/08/… (22-acre master plan) · §13 card.
+- LPC rear-facade review: silo NYC hub research (https://home4.nyc.gov/site/lpc/about/permits-and-making-alterations.page: "Most exterior changes to the front and rear facades of buildings in historic districts require review by LPC") · §5 para 4, outdoor section, §9 brick-wall Q.
+
+### Noise / commercial
+- `NYC noise code sound reproduction device residence plainly audible 25 feet 7 am 10 pm DEP` · FC search → https://nycadmincode.readthedocs.io/t24/c02/sch06/ (Admin Code §24-244(a) no sound reproduction device "in such a manner as to create unreasonable noise"; (b) no device for commercial advertising/attracting attention outside or through an aperture abutting a public street) · outdoor section ("the neighbors"), §8.5 bullet 2. DEP fact sheet 42 dBA commercial music (silo NYC hub research) · §8.5 bullet 1.
+- `Brooklyn business improvement districts list …` · FC search → https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page (Brooklyn BIDs incl. 86th Street Bay Ridge, Atlantic Avenue, Bay Ridge 5th Avenue, Court-Livingston-Schermerhorn, DUMBO, Fulton Mall, Graham Avenue, Grand Street, MetroTech, Montague Street, Myrtle Avenue Brooklyn Partnership, Park Slope 5th Avenue, Sunset Park); https://www.facebook.com/NYCBusiness/posts/… (excerpt: "Brooklyn is home to 24 Business Improvement Districts") · §8 intro + six corridor cards.
+
+### Searched, not used / EMPTY
+- `NYC zoning resolution rear yard minimum depth 30 feet …` · FC search → https://zr.planning.nyc.gov/article-ii/chapter-3 (rear-yard rules for new buildings; 20/30 ft) → not used (applies to new construction, not existing rowhouse yards).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG: EMPTY (not accessible in build env). §10.5 built from published claims listed above (Brownstoner, Sonos support, Sonos community, r/sonos "$500 all-in" anecdote from silo research https://www.reddit.com/r/sonos/comments/1nnxgaz/worth_paying_for_professional_install_of_sonos/).
+- Yelp 1–3★ Brooklyn Sonos installers: EMPTY (not accessible in build env).
+- Local news (Brooklyn Paper, Brooklyn Eagle, Patch, Brownstoner news) on Sonos / home audio: EMPTY (nothing service-relevant returned).
+- Hasidic/Orthodox neighbourhoods (Williamsburg, Borough Park): no respectful, sourced Sonos-specific angle found → EMPTY; not on page.
+
+### Pricing used (all existing AESS lines; Brooklyn = §9 base 1.00×)
+Sonos setup $125 · soundbar wall-mounted $129 / placed $79 · Sanus soundbar bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · A/V receiver $129 · universal remote $99 · streaming device $49 · full home theater $350 · setup-only first hour Brooklyn $195 then 30-min blocks · walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile-marble +$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · return trip $150 · free reschedule 24 h — all from sonos-installation-nyc.html pricing section; TV mounting base $179.99 (32–55″ drywall/wood studs) from tv-mounting-prices-brooklyn.html. Packages $125 / $338.99 / $507.99 = hub sums. Worked examples: $423.99, $319, $537.99 (sums of the above lines). $800–$2,500 per zone attributed to av-sound-installation-nyc.html (as on the hub). **Conflict:** av-sound-installation-brooklyn.html publishes different, much larger whole-home ranges ("$12K–…") and is not used.
+
+### Images (11, permanent image rule — no real Sonos photos yet; Drive folder EMPTY, CompanyCam not connected)
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Section |
+|---|---|---|
+| sonos-installation-brooklyn-ceiling-speaker-drop-tile.webp (hero, eager) | low-voltage-installation-long-island-ceiling-speaker-conference.jpg | Hero |
+| sonos-installation-brooklyn-ceiling-access-point.webp | low-voltage-installation-brooklyn-10-ceiling-access-point-drop.jpg | §5 |
+| sonos-installation-brooklyn-tv-wall-recessed-box.webp | low-voltage-installation-dutchess-county-hero-display-recessed-box.jpg | §6 |
+| sonos-installation-brooklyn-open-stud-prewire.webp | low-voltage-installation-brooklyn-03-metal-stud-rough-in.jpg | §7 |
+| sonos-installation-brooklyn-network-rack-patching.webp | low-voltage-installation-brooklyn-06-idf-rack-patching.jpg | Two households |
+| sonos-installation-brooklyn-jhook-cable-pathway.webp | low-voltage-installation-brooklyn-02-jhook-pathway-bundle.jpg | Garden/deck |
+| sonos-installation-brooklyn-restaurant-ceiling-speaker.webp | low-voltage-installation-brooklyn-12-restaurant-ceiling-speaker.jpg | §8 |
+| sonos-installation-brooklyn-ethernet-wall-plate.webp | low-voltage-installation-brooklyn-09-keystone-wall-plate-termination.jpg | §9 |
+| sonos-installation-brooklyn-crew-hanging-display.webp | low-voltage-installation-brooklyn-11-conference-room-display-cabling.jpg | §10 |
+| sonos-installation-brooklyn-cable-tester-wall-jack.webp | low-voltage-installation-brooklyn-08-fluke-certification-pass.jpg | §12 |
+| sonos-installation-brooklyn-ceiling-grid-cable-pull.webp | low-voltage-installation-brooklyn-04-ceiling-grid-bundle-pull.jpg | §13 |
+Note: several of these are byte-identical to photos used under other names on the NYC/LI/HV Sonos pages (the low-voltage library is ~32 distinct photos under many names). DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-brooklyn
+
+### §9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s (The tall, narrow house · Owners, tenants and shared houses · Decks, roofs and rear walls · Towers and new construction)
+1. The provider's router sits in our cellar — should its own Wi-Fi stay switched on once each floor has an access point?
+2. Our joists run side to side between the party walls — does that limit where ceiling speakers can go?
+3. Can a cable reach the top floor through the stacked closets, the old dumbwaiter shaft or a disused flue?
+4. Can a tenant on our Wi-Fi turn our Sonos up without ever being added to our account?
+5. We bought the departing tenant's Sonos speakers — how do they move onto our system?
+6. Where does the Amp for the garden speakers live if the garden level is someone else's apartment?
+7. How does speaker wire get from the kitchen through a brick rear wall to the garden without letting water in?
+8. Can speakers go on the shared roof deck of our condo conversion?
+9. The TV wall in our Downtown Brooklyn condo is solid concrete — how does the Arc Ultra get mounted and connected?
+10. We're renovating our brownstone one floor at a time over two years — how do we make sure the later floors can join the Sonos system?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. What does it cost to split an owner's and a tenant's Wi-Fi so the Sonos systems stay apart?
+2. Do you charge extra when the apartment is up several flights with no elevator?
+3. Can you take out old wall speakers and dead wiring a previous owner left in the house?
+4. Can our tenant book their own Sonos setup for the same day as ours?
+5. Our restaurant already has ceiling speakers from the last tenant. Can Sonos run them?
+6. Will we get a record of where the cables, access points and Amps are in the house?
+7. Should we wait until the Sonos products are delivered before booking?
+8. We just closed on a house and the internet isn't connected yet. Can the Sonos work still go ahead?
+9. Can the garden speakers play something different from the parlor at the same time?
+
+### Other question-form headings
+- H2 "Top-Floor Sonos Cutting Out in Your Brooklyn House?" (repair capture)
+- H2 "Want the Price for Your Floors in Writing?" (CTA)
+- H2 "Brooklyn Sonos Gone Quiet Tonight? We Can Help" (final repair capture, no "?" at end)
+
+De-dup notes (by meaning, vs NYC/LI/HV registers): avoided router-by-the-door-behind-plaster (NYC — mine is cellar-to-fourth-floor vertical distribution and wired-product placement), mesh far rooms (LI — mine is not a mesh-dropout question), speaker-wire-to-Amp (NYC — my joist Q is about speaker placement vs joist direction, my riser Q about vertical routes), LPC approval (NYC — LPC handled in body text only), patio neighbours (LI), backyard on Wi-Fi (LI), Move 2 vs wired outdoor (HV — handled as a body table, not a question), rough-in walkthrough for a new build (LI — mine is phased multi-year renovation), takeover of another installer's system / account ownership (LI/HV — mine is merging a tenant-floor system after a two-family conversion), cost FAQ (NYC/LI/HV — mine asks whether $195 is the Brooklyn setup-only rate), reschedule (NYC — mine is booking before delivery; reschedule rule stated in answer), voice/music services, boxes, hours, outside five boroughs (NYC). Second pass at ~08:25 after the Manhattan and Queens drafts appeared on disk: replaced/reworded items that overlapped them by meaning — setup-only billing FAQ (Manhattan), coverage FAQ (Manhattan/Queens), GC/renovation FAQ (Manhattan), volume-cap FAQ (Manhattan), price-by-location FAQ (Queens), Ethernet-jacks/media-panel Q (Manhattan), glass-wall surrounds Q (Queens), cellar-internet-to-top-floor Q (Queens; mine now asks whether the cellar router's own Wi-Fi should stay on), tenant-share Q (Queens; mine is specifically Guest Access control), two-family merge Q (Manhattan combined-apartment Q; mine is now moving purchased tenant speakers between systems). Partial overlaps left for main-run judgment: my stacked-closet/dumbwaiter riser Q vs Queens basement-to-top-floor Q (cable route vs network reach); my brick-rear-wall cable penetration Q vs Queens 'outdoor speakers on the brick back wall of an attached house' (water-tight wire entry vs speaker mounting); my Amp-location-when-garden-is-a-rental Q vs Queens 'work around a tenant's schedule when cable passes through their unit'.
+
+
+<!-- batch 2026-10-17 07:57Z: sonos-installation-queens -->
+## Queens (sonos-installation-queens)
+
+Built 2026-10-17 by the Queens subagent (batch with Manhattan and Brooklyn). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "WS" = WebSearch, "WF" = WebFetch. Silo-wide Sonos technical findings are reused from research/sonos-installation.md (NYC hub, LI and HV sections) and are not repeated here except where a new Queens use is made of them. Nothing below was inferred to fill a gap; unreachable sources are marked EMPTY.
+
+**Thesis (different from the NYC hub's Queens paragraph, which describes Queens as "almost every building type" and two-family houses as "the easiest homes in the city"):** a Queens Sonos job is a vertical, multi-household plan. Water below (basements that flooded in Ida), heat above (attics past the Amp's rated range), planes overhead (LGA/JFK departure paths over yards), and two or three households in between (owner + tenant, grandparents + kids, several languages). The installation decision that matters most is where each piece of equipment lives and whose system each speaker belongs to, not just whether the ceiling can be cut.
+
+### Housing, households, language (§5, §5.5, multigenerational section, §9 household cluster)
+- `census quickfacts Queens County` · WF · https://www.census.gov/quickfacts/fact/table/queenscountynewyork/PST045224 · population 2,358,182 (V2025); housing units 934,750 (V2025); owner-occupied rate 44.9% (2020-2024); persons per household 2.72; foreign-born 47.6%; language other than English at home (5+) 55.4%; broadband subscription 92.3%; households 841,003 · §5.5 stats list (six figures), §5 para 3, multilingual section, §10.5 H3 5.
+- `Queens multigenerational households share census borough doubled-up families` · WS → https://streeteasy.com/blog/doubled-up-crowding-in-nyc/amp/ (WF, StreetEasy, Feb 18 2016, 2013 ACS 5-yr): "9.4 percent of all households were crowded in 2013"; Corona, East Elmhurst and Jackson Heights each above 20 percent crowding. No multigenerational figure → none stated · §5 para 3 (crowding, attributed to StreetEasy's reading of 2013 Census data).
+- Multigenerational-household share for Queens: EMPTY (no Queens figure found; Pew/Census national pages only). Page says "many Queens homes" without a number.
+- `Queens most linguistically diverse languages spoken foreign-born percent census` · WS → https://dos.ny.gov/snapshot-new-americans-communities-2025-new-york-city (WF): region-level only (36% foreign-born region 2023); "Queens 48%" under an undefined "Regional English Speaking Ability" heading → NOT used (measure undefined). Babbel/blog results not opened → not used.
+- `Queens one- and two-family homes share of housing stock borough detached houses` · WS → neighborhoodscout / DOF rolling-sales PDFs only → no citable share. EMPTY (page describes two-family houses without a percentage).
+
+### Basements and Ida (§5, vertical-map section, §9 basement cluster, FAQ 4, §10.5 H3 2)
+- `Hurricane Ida 2021 Queens basement apartments deaths flooding` · WS → https://qns.com/2021/09/queens-storm-death-toll-rises-to-11-after-three-bodies-found-in-flooded-flushing-basement-nypd/ (WF; reached via queenspost.com redirect): published Sept 3 2021; toll "13 citywide — including 11 fatalities in Queens"; ten involved stormwater flooding basement apartments (East Flushing — Peck Ave near Kissena Park; Woodside; Jamaica; Forest Hills; Elmhurst); storm "brought with it the greatest single-hour rainfall in New York City history" · §5 para 2, §5.5 stat, vertical-map section intro.
+- `Queens basement apartments number estimated illegal basement units Ida Woodside Flushing report` · WS → https://citylimits.org/2022/07/18/green-design-could-prevent-ida-style-flooding-in-40k-queens-basements-report/ (WF): Regional Plan Association report "Preventing Another Ida"; "more than 40,000 buildings with basement units" in Central Queens (Jackson Heights, Woodside, Elmhurst, Corona, Rego Park); "Just three acres in Central Queens are designed to handle stormwater runoff" · §5.5 stat, vertical-map section.
+- `NYC basement flood guidance elevate electrical equipment above flood level homeowners Queens Ida` · WS → https://www.nyc.gov/assets/dep/downloads/pdf/climate-resiliency/flood-preparedness-flyer.pdf (WF, NYC DEP flyer): raise critical equipment (boilers, electrical panels, heaters, generators, utilities, meters) "either to a higher floor or off the ground above the level of flooding"; backwater valve "can prevent sewer water from backing up"; flyer gives no electronics guidance · vertical-map section (DEP's logic applied to network/audio gear, stated as our practice, not DEP's), §9 Q basement Amp, §10.5 H3 2.
+
+### Heat above: attics, boiler rooms (vertical-map section, §9 attic/boiler Qs)
+- Reused silo source (HV section): https://www.sonos.com/en-us/guides/amp — Amp operating temperature 32° to 104° F · §9 attic Q, vertical-map table.
+- Reused silo source (NYC hub section): https://www.sonos.com/en-us/guides/port — Port: at least 2" all around on a shelf, don't block ventilation, keep away from radiators/heat sources · §9 boiler-room Q, vertical-map table.
+- Attic summer temperatures in Queens: EMPTY (no source searched/found) → page gives no attic temperature, only the Amp's rated ceiling.
+
+### Humidity (kitchens, baths, basements)
+- `Sonos Amp humidity operating environment product guide basement damp location` · WS → https://support.sonos.com/article/selecting-a-location-for-your-sonos-speakers (WF): some models are "humidity-resistant", allowing bathroom use (Era 100, Era 300, Five, Move 2, Roam 2 and others listed); "Sonos speakers that are not waterproof may be damaged if exposed directly to water or left outside for extended periods." · §9 Q humid kitchen/bath, FAQ 8 balcony, §10 cards. Community threads (en.community.sonos.com Amp humidity) listed, not opened → not used.
+
+### Aircraft noise (§5, §9 yard cluster, §13 card)
+- `Queens aircraft noise LaGuardia JFK residents complaints Port Authority noise study` · WS → https://www.cbsnews.com/newyork/news/queens-residents-fed-up-with-noisy-planes-following-change-in-flight-patterns-at-jfk-laguardia/ (WF, Sept 14 2014): rally at Cunningham Park, Oakland Gardens; Queens Quiet Skies president Janet McEneaney: "You cannot have a conversation in your living room." "People's walls shake, you can't hear the TV." "Forget about sitting out in your back yard in the summer." · §5 para 4 (quoted), §9 Q planes over yard.
+- `Queens Quiet Skies flight paths neighborhoods Bayside Flushing noise LaGuardia` · WS → https://cityandstateny.com/policy/2020/09/the-us-opens-legacy-in-northeast-queens-airplane-noise/175631 (WF, Sept 18 2020): "Tennis Climb" route created 1993 for the U.S. Open; FAA "permanently began to use the Tennis Climb" after the 2012 NextGen rollout; routes planes over residential Northeast Queens; FAA "did not find a significant environmental impact"; Port Authority NY Community Aviation Roundtable 2014 · §13 Flushing Meadows card, §9 planes Q.
+- JFK-specific south Queens flight-path source: EMPTY (not searched further) → page names LaGuardia's Tennis Climb only, and says JFK approaches affect south Queens only in general terms ("both airports").
+
+### Garden co-ops and historic districts (§7, §9 courtyard Q, §13)
+- `Jackson Heights historic district garden apartments co-op designated 1993` · WS → https://hdc.org/borough/jackson-heights/ (WF): designated October 19, 1993; "built primarily between 1914 and 1939"; "the first and remains the largest garden-apartment community in the United States"; low-rise garden apartments and houses · §7 card, §13 card.
+- `Jackson Heights co-op alteration agreement board approval renovations garden co-op rules` · WS → https://www.blockrenovation.com/guides/jackson-heights-queens-remodeling-local (WF, renovation-company guide): "Most of the neighborhood is garden apartment complexes and pre-war co-ops"; alteration packages through monthly board meetings; many agreements cap active construction at 90 or 120 days; work weekdays roughly 9 a.m.–5 p.m.; exterior-facing work through the board and LPC; units "typically pre-war, with plaster walls" · §7 card, §9 courtyard Q (attributed to "a Jackson Heights renovation guide").
+- `Douglaston Hill historic district designated houses Queens LPC` · WS → https://en.wikipedia.org/wiki/Douglaston_Hill_Historic_District (WF): NYC landmark Dec 14, 2004 (extended Jan 30, 2007); 83 contributing buildings; majority 1890–1940; Queen Anne, Shingle Style, Colonial Revival; laid out with very large lots in 1853; 22.5 acres · §7 detached-house card, §13 card.
+- Forest Hills Gardens (used on the NYC hub §13) → mentioned by name only; Forest Hills Gardens Corporation rules: query `Forest Hills Gardens Corporation architectural review exterior changes approval homeowners deed restrictions` · WS → only 1924 newspaper scans and unrelated HOAs → EMPTY; page says only that owners there should ask the community's own rules before exterior work (no rule stated).
+
+### Detached houses, Bayside, Fort Totten (§7, §13)
+- `Bayside Queens housing detached homes Tudor Colonial attic Bayside history neighborhood` · WS → https://thesciencesurvey.com/top-stories/2021/03/18/a-historical-tour-of-a-nyc-neighborhood-bayside/ (WF, student newspaper of Bronx Science, Mar 18 2021): Tudor-style houses with "steeply-pitched, gabled roofs, and half-timbering" common; Tudor popularity peaked 1920s–1940s; Bayside developed rapidly late 1800s–early 1900s with railroads; Fort Totten bought by U.S. 1857, construction began 1862, now "a U.S. Army Reserve post and a recreational park"; Willets farmhouse oldest building; Bell Boulevard renamed from Bell Avenue in 1916; "most often associated with the many restaurants on Bell Boulevard" · §7 card, §13 Fort Totten and Bell Boulevard cards.
+
+### LIC towers (§7, §13)
+- `Long Island City Court Square One Court Square concrete towers residential growth units since 2010 Queens` · WS → https://commercialobserver.com/2013/05/rockrose-building-queens-tallest-residential-building/ (WF, May 21 2013): 43-25 Hunter Street, Court Square, Rockrose; planned 50 stories, 500 ft, 975 units, "the most of any residential building in Queens" at the time; completion scheduled 2016 · §13 card (stated as planned figures in 2013).
+- Hunters Point South (NYC hub §13) not repeated.
+
+### Commercial corridors (§8)
+- `Queens business improvement districts list Steinway Street 82nd Street Partnership Bayside Village BID Flushing Jamaica Center` · WS → https://citymeetings.nyc/city-council/2024-02-29-0100-pm-committee-on-small-business/chapter/which-business-improvement-districts-bids-exist-in-queens-and-what-efforts-are-being-made-to-revitalize-certain-areas (WF, Council Committee on Small Business, Feb 29 2024 transcript summary): Queens BIDs named incl. 82nd Street Partnership, Bayside Village, Downtown Flushing, Gateway JFK, Jamaica Center, Long Island City Partnership, Myrtle Avenue (transcript unclear); Council Member Paladino: "Bell Boulevard is very lengthy, and it consists mostly of restaurants these days." · §8 corridor cards (six corridors named by BID).
+- Steinway Street BID: not in the retrieved list → not used as a BID.
+
+### Noise code (§8.5, §9 Q backyard volume)
+- `NYC noise code sound reproduction device "plainly audible" 25 feet personal audio backyard music rules DEP guide` · WS → https://nycadmincode.readthedocs.io/t24/c02/sch06/index.html (WF, mirror of NYC Admin Code Title 24 ch. 2 subch. 6): §24-244(a) no person shall operate a sound reproduction device "in such a manner as to create unreasonable noise"; §24-233(b)(1) personal audio devices in a public right-of-way "plainly audible ... at a distance of 25 feet or more"; no residential dB limit for music · §9 Q noise code backyard, §8.5. Commercial 42 dBA figure reused from silo (NYC hub, DEP fact sheet).
+
+### Voice and language (§9 multilingual cluster, multilingual section, §10.5 H3 5)
+- `Sonos voice control languages supported Sonos app languages support article` · WS → https://support.sonos.com/en-us/article/change-the-amazon-alexa-language (WF): "The language can be changed to any of Alexa's supported languages on Sonos"; set per speaker, repeat for each speaker.
+- `"Alexa's supported languages on Sonos"` · WS → https://support.sonos.com/en-us/article/amazon-alexa-availability-on-sonos (WF): languages listed — English (US, UK, CA, AU, IN), French (FR, CA), German, Hindi, Italian, Japanese, Portuguese, Spanish (ES, MX, US) · as above.
+- https://en.community.sonos.com/amazon-alexa-and-sonos-229102/language-setting-6828098 (WF): owner whose Alexa kept speaking French; community answers point to the Sonos app voice settings / Alexa app device language · §9 Q per-speaker language (not quoted).
+- Sonos Voice Control language list: `support.sonos.com "Sonos Voice Control" availability languages regions` · WS → titles only (factsheet PDF not opened) → EMPTY; page makes no claim about Sonos Voice Control languages.
+- Sonos app interface languages: EMPTY (no support article found) → no claim.
+
+### S1 / S2 (§9 Q older products)
+- `support.sonos.com S1 and S2 products in the same system split system compatible older products` · WS → https://support.sonos.com/en/article/known-limitations-with-separate-s1-and-s2-sonos-systems (WF): S2 devices "can't be grouped together with Sonos products that appear in the S1 Controller app"; both apps needed; single-stream services play on one system at a time; same voice service on both systems "not recommended" · §9 Q older Sonos from a previous owner.
+
+### Local Reddit / hyperlocal / Yelp
+- r/Queens or r/AskNYC Sonos threads: EMPTY (not searched separately; silo Reddit findings reused).
+- Queens Chronicle / Queens Ledger on home audio: EMPTY for the service category. Queens Chronicle plane-noise articles appeared in results (qchron.com) but were not opened → not used.
+- Yelp 1–3★ Queens: EMPTY (not accessible in build env).
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG: EMPTY (not accessible in build env). §10.5 is written as assumptions in common circulation, labelled as such; the only printed figure quoted there is the xtenav in-ceiling cost line already recorded in the LI section.
+
+### Prices (published AESS lines only — no multiplier applied)
+- Source: live tv-mounting-prices-queens.html (AESS's Queens price list, read 2026-10-17) + sonos-installation-nyc.html pricing section: Sonos setup $125 ("Sonos / wireless surround $125" on the Queens list); soundbar wall-mounted $129 / placed $79; Sanus soundbar bracket $84.99; in-wall concealment $169; paintable cord cover $59; cable run up to 25 ft $99; A/V receiver $129; universal remote $99; streaming device $49; full home theater $350; walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile-marble +$95; plywood backer $85; high mount $75; walk-up 3rd floor+ $40; COI free; setup-only first hour Queens $195 then 30-min blocks; Queens TV mounting base $179.99; $150 return trip; free reschedule with 24 h notice; Manhattan-only parking charge ("Only Manhattan carries the $150 ..." on the Queens list). Whole-home audio $800–$2,500 per zone from av-sound-installation-nyc.html (as on the hub).
+- **Conflict flagged for Anwar:** soundbar-installation-queens.html applies the §9 1.05 Queens factor to the soundbar menu (Sonos setup $131.25, wall-mounted $135.45, etc.), while tv-mounting-prices-queens.html and the Sonos hub publish the same lines flat ($125, $129). This page follows the Queens price list and the hub (flat), per "apply the multiplier only as the blueprint/hub do". Box removal: hub lists $25, the Queens list shows "Haul away old TV / remove boxes $79" → not used on this page.
+
+### Images (permanent image rule — 11 from images/low-voltage/, Queens/Nassau source files only)
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Section |
+|---|---|---|
+| sonos-installation-queens-ceiling-speaker-into-cutout.webp (hero, eager) | low-voltage-installation-queens-14-restaurant-ceiling-speaker.jpg | Hero |
+| sonos-installation-queens-ceiling-access-point-mount.webp | low-voltage-installation-queens-10-ceiling-access-point-drop.jpg | §5 |
+| sonos-installation-queens-display-wall-recessed-box.webp | low-voltage-installation-queens-13-conference-room-display-cabling.jpg | §6 |
+| sonos-installation-queens-metal-stud-cable-rough-in.webp | low-voltage-installation-queens-hero-metal-stud-rough-in.jpg | §7 |
+| sonos-installation-queens-j-hook-cable-pathway.webp | low-voltage-installation-queens-04-jhook-pathway-bundle.jpg | vertical-map section |
+| sonos-installation-queens-drop-ceiling-cable-feed.webp | low-voltage-installation-queens-02-ceiling-grid-bundle-pull.jpg | §8 |
+| sonos-installation-queens-brick-wall-exterior-enclosure.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg | §9 yard cluster |
+| (table order above is not page order; patch-panel image sits in §9 household cluster) | | |
+| sonos-installation-queens-patch-panel-punchdown.webp | low-voltage-installation-queens-07-cat6-patch-panel-punchdown.jpg | §10 |
+| sonos-installation-queens-handheld-tester-wall-jack.webp | low-voltage-installation-queens-08-fluke-certification-pass.jpg | §12 |
+| sonos-installation-queens-network-wall-plate-termination.webp | low-voltage-installation-queens-09-keystone-wall-plate-termination.jpg | households section (appointment checklist) |
+| sonos-installation-queens-crew-cable-spools-open-ceiling.webp | low-voltage-installation-queens-03-crew-cable-pull.jpg | §13 |
+Skipped for a readable face: tone-generator-trace, rack-switch-config, riser-conduit-pull, idf-rack-patching, HV stud-rough-in-boxes, HV fiber-splice-tray; skipped for signage: school corridor; skipped as off-topic: warehouse tray, video intercom, door hardware. Note: several chosen photos still show a technician's cheek or profile from behind (no frontal face). The library has a uniform rendered look (see NYC hub note) — replace with real AESS Sonos photos when uploaded. DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-queens
+
+Checked by meaning against the existing register (NYC hub, LI, HV) and against the Manhattan and Brooklyn pages built in parallel (read 2026-10-17 ~08:16). Replaced during the build to avoid overlap: owner/tenant control (Brooklyn), cellar-router-to-top-floor (Brooklyn), brick-wall wire entry (Brooklyn), heat-near-heating-equipment closet (Manhattan steam riser), borough coverage FAQ (Manhattan/Brooklyn), parking FAQ (Manhattan), post-flood check FAQ (duplicated the page's own post-storm subsection).
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Our basement took water in Ida — should the Amp, router and Port stay down there?
+2. Is a finished basement that might flood again a sensible place for in-ceiling speakers?
+3. How should cable cross a basement that has flooded before?
+4. Our adult son's family lives on the second floor — one Sonos system for the whole house, or one each?
+5. Can the grandparents' floor and the kids' floor play different music without fighting over the app?
+6. Can one speaker answer in Spanish while another answers in English?
+7. Grandma doesn't use a smartphone — how does she put music on?
+8. We inherited an older Sonos from the previous owner — will it work alongside new speakers?
+9. Can the Amp sit up in the attic next to the bedroom speakers it powers?
+10. Is the attic the easiest way to add ceiling speakers to our top-floor bedrooms?
+11. Can the old intercom or doorbell wiring in our house be reused for speakers?
+12. Planes roar over our yard every few minutes — do the outdoor speakers just need to be louder?
+13. Which part of an attached house's back wall should outdoor speakers go on?
+14. Does the city's noise code put a limit on music in our backyard?
+15. Our garden co-op shares a courtyard — can a speaker face it from our window or terrace?
+16. In a Long Island City apartment with glass walls and a concrete ceiling, where do the rear speakers go?
+17. Which Sonos speakers cope with a steamy kitchen or bathroom?
+
+### Other question-form headings
+- H2 "Music Cutting Out Between Floors?" (early repair capture)
+- H2 "Sonos Quiet on One Floor Tonight?" (final repair capture)
+
+### §17 FAQ (visible == FAQPage, 10)
+1. Is Sonos installation priced differently in Queens than elsewhere in the city?
+2. Can we use the ceiling speakers the same day, or does the ceiling need patching first?
+3. Can you leave written instructions for relatives who missed the setup?
+4. Can Sonos speakers powered over the network cable simplify a shop installation? (Era 100 Pro PoE+ — source reused from HV section: sonos.com/en-us/shop/era-100-pro, sonos.com/en-us/guides/era100pro)
+5. Can you work around a tenant's schedule when cable has to pass through their unit?
+6. Can outdoor speakers be mounted on aluminum or vinyl siding?
+7. Will a Sonos system interfere with our Wi-Fi security cameras?
+8. Can a Sonos speaker live on a balcony or terrace in a Queens high-rise?
+9. Can the ceiling speaker grilles be painted to match our ceiling?
+10. Can the backyard speaker wiring go in before the patio or deck is built?
