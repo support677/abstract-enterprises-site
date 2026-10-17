@@ -25,3 +25,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-queens | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bronx | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-westchester-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-rockland-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-orange-county | QUEUED
