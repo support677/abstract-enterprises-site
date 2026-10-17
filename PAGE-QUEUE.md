@@ -59,9 +59,9 @@ BUILDING 2026-10-17T07:57Z | sonos-installation-queens | Sonos Installation | Qu
 BUILDING 2026-10-17T08:20Z | sonos-installation-bronx | Sonos Installation | Bronx | up /sonos-installation-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T08:20Z | sonos-installation-staten-island | Sonos Installation | Staten Island | up /sonos-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T08:20Z | sonos-installation-nassau-county | Sonos Installation | Nassau | up /sonos-installation-long-island | (516) 346-5778 | GBP Brooklyn
-TODO | sonos-installation-suffolk-county | Sonos Installation | Suffolk | up /sonos-installation-long-island | (631) 407-2884 | GBP Brooklyn
-TODO | sonos-installation-westchester-county | Sonos Installation | Westchester | up /sonos-installation-hudson-valley | (914) 877-2578 | GBP Bronx
-TODO | sonos-installation-rockland-county | Sonos Installation | Rockland | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-17T08:24Z | sonos-installation-suffolk-county | Sonos Installation | Suffolk | up /sonos-installation-long-island | (631) 407-2884 | GBP Brooklyn
+BUILDING 2026-10-17T08:24Z | sonos-installation-westchester-county | Sonos Installation | Westchester | up /sonos-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+BUILDING 2026-10-17T08:24Z | sonos-installation-rockland-county | Sonos Installation | Rockland | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | sonos-installation-orange-county | Sonos Installation | Orange | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | sonos-installation-putnam-county | Sonos Installation | Putnam | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | sonos-installation-dutchess-county | Sonos Installation | Dutchess | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
