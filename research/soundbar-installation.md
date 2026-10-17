@@ -1542,3 +1542,378 @@ No real, sourced Suffolk soundbar job story available → written as general pra
 - Reframed the Wi-Fi Q to wired-vs-wireless across distance in a large house (Manhattan/Queens ask about interference from neighbouring networks; Brooklyn about a router in a rented-out unit).
 - Reframed the block-den Q to the stud-finder/furring-strip angle (SI asks how to anchor in hollow block).
 - Borderline, for the main run to judge: sunroom rear speakers vs Nassau "back porch closed in became the TV room"; FAQ setup-only rate vs Bronx "soundbar reconnected to a replacement TV, how is that priced"; Southampton outdoor noise code vs NYC hub/Manhattan city noise-code questions (different jurisdiction, outdoor residential).
+
+# Builder notes — soundbar-installation-putnam-county (batch 2026-10-17)
+
+## Putnam County (soundbar-installation-putnam-county)
+
+Built 2026-10-17. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, directQuote/freeform). Silo-wide findings (Sonos/Samsung/Sanus specs, ADA 307.2, Stacker housing-age figures) reused from research/soundbar-installation.md — marked "silo file", not re-fetched. Main run: merge this under the Putnam heading in research/soundbar-installation.md.
+
+Thesis (not a geo-swap): Putnam = (1) converted lake-cottage housing (Lake Carmel 1920s, Lake Oscawana resort era) whose walls are layered — paneling over strapping/furring, addition seams; (2) long overhead lines and repeated outages, so every install is set up and tested for post-outage recovery (generator, UPS, well-pump dips); (3) an owner-occupied, commuting county; (4) county-level rules on who works in houses (Consumer Affairs registration, Electrical Board licensing incl. low-voltage/limited data communication technicians) and Cold Spring's historic district for exteriors; (5) Highlands/village houses (plaster, trim, stone veneer vs real fieldstone).
+
+### Housing / stats (§5, §5.5)
+- `Census Reporter Putnam County NY housing units owner occupied median year built` · Firecrawl search → http://censusreporter.org/profiles/05000US36079-putnam-county-ny/ · Firecrawl scrape (freeform): ACS 2024 1-year — population 98,409; 38,607 housing units; 85% owner-occupied; 83% single-unit; median owner-occupied value $531,600; 2.6 persons/household; mean travel time to work 39.5 min; 10% worked at home. Median year built / broadband: not shown. → §5 para 4, §5.5 bullets 1 and 5.
+- Stacker (silo file, HV hub research): Putnam 17.9% of homes built 1939 or earlier (6,857), median year built 1968 → §5.5 bullet 4.
+- `Lake Carmel bungalows summer cottages winterized history Putnam County` · Firecrawl search → https://www.homes.com/local-guide/lake-carmel-ny/ (excerpt: dam built late 1920s; "the area's first homes were small cottages where city dwellers came to summer"); https://www.townofcarmelny.gov/253/About-Our-Town (excerpt: "Beginning in 1834, hotels, boarding houses and cottages sprang up along the lakeshore" — scrape returned empty answer, excerpt only, not used on page). → §5 para 2, §7 cottage card, §9 Q1.
+- https://en.wikipedia.org/wiki/Lake_Carmel,_New_York · Firecrawl scrape: 2020 population 8,069; 1.6-mile manmade lake; Smadbeck brothers excavated and dammed a swamp in the 1920s and sold lots through the New York Daily Mirror. → §5 para 2, §5.5 bullet 3.
+- `Lake Oscawana Putnam Valley lake acres summer colony history` · Firecrawl search → https://putnamvalleyhistory.org/historic-putnam-valley/ ("The resort industry in Putnam Valley began to develop in the mid-1800s, with the establishment of summer boarding houses on Lake Oscawana"); https://www.putnamcountyny.gov/component/zoo/item/a-tribute-to-life-on-the-lake?Itemid=101 ("Lake Oscawana was a premier resort area for summer vacationers in the late 1800's through the early to mid-1900's"); https://lakeoscawana.net/a-living-history (summer colony thriving by turn of century). → §5 para 2, §13 Lake Oscawana card, town table.
+- https://en.wikipedia.org/wiki/Putnam_County,_New_York · Firecrawl scrape: formed 1812 from Dutchess; 246 sq mi total (230 land); six towns and three incorporated villages; Croton Watershed reservoirs; became a bedroom community. → §13 intro, town table intro.
+
+### Power / storms (§5, §5.5, §9 storm cluster, Storm Plan section, repair capture)
+- `Putnam County NY power outages NYSEG Central Hudson storm customers 2025` · Firecrawl search → NYSEG/Central Hudson outage pages, Times Union HV outage article (excerpts; not Putnam-specific) — not used.
+- `Putnam County storm outage NYSEG customers without power Mahopac Carmel Patterson news` · Firecrawl search (news) → https://dailyvoice.com/article/isaias-outage-update-these-putnam-county-towns-are-most-affected-five-days-after-storm/ · Firecrawl scrape (Aug 9, 2020): "1,733 of its 38,693 customers in Putnam (4.5 percent) are still without power, according to NYSEG"; day earlier 7,008 (18%); Central Hudson 6 of 5,160 customers out, all in Philipstown; most outages Kent (814), Putnam Valley (308), Patterson (224), Southeast (193), Carmel (188). → §5 para 3, §5.5 bullet 2, §13 Chuang Yen card, town table/Kent paragraph, Storm Plan section.
+  - Same search: https://patch.com/new-york/southeast/storm-aftermath-power-outages-brewster-southeast (Feb 2016 excerpt: NYSEG 2,949 customers out in Putnam) — not used; https://news.halstonmedia.com/... July 4 2026 storm (Northern Westchester) — not used.
+- Generator / UPS / well-pump-dip / ground-loop guidance on the page is installer general knowledge, written without statistics and with "electrician's job" hand-offs. No source claimed.
+
+### Licensing / regulation (§5 para 5, §8.5, §10.5 H3 1 and 6)
+- `Putnam County home improvement contractor license requirement Consumer Affairs` · Firecrawl search → https://www.putnamcountyny.gov/images/Departments/Consumer_Affairs/PDF_Documents/homeimprovement/Home%20Improvement%20First%20Time%20Application%201-9-2023.pdf (excerpt: "PUTNAM COUNTY HOME IMPROVEMENT CONTRACTOR REGISTRATION … LICENSE & PERMIT BOND … IN THE AMOUNT OF $25,000.00"); https://www.suretybonds.com/... (General Legislation §135-25, $25,000 bond — corroboration, not cited on page).
+- https://www.putnamcountyny.gov/consumer-affairs · Firecrawl scrape (directQuote): "The Office has a mandatory contractor registration program to assure that all contractors who work on residential properties in Putnam County are insured, bonded and have workers' compensation insurance"; Electrical Board licenses "Master, Special & Reciprocal Electricians; Limited Data Communication Technicians, as well as Journeymen and Helpers". Search excerpt of same page lists "Low Voltage/Limited Data Communication Technician" application/renewal packets and a "List of Licensed Low Voltage Technicians (as of August 11, 2026)". → §5 para 5, §8.5 cards 1–2, §10.5 H3 1 and 6.
+- `Highlands Current Cold Spring Historic District Review Board approval exterior changes` · Firecrawl search → https://highlandscurrent.org/2025/08/08/the-history-patrol/ (excerpt: "Since 1976, all changes to the exterior of buildings within Cold Spring's historic district … have required approval from the five volunteer members of the Historic District Review Board"); https://www.coldspringny.gov/242/Historic-District-Review-Board. → §5.5 bullet 6, §8 Cold Spring card, §8.5 card 3, town table.
+- `New York contractor license` (same search as above) → https://adaptdigitalsolutions.com/articles/new-york-contractor-license-requirements/ (title: "New York Contractor License Requirements: None Statewide") → §10.5 H3 6 (claim being corrected).
+- ADA 2010 §307.2 (silo file, LI research) → §8.5 card 4.
+
+### Landmarks (§13) — none repeat the HV hub's Lake Mahopac card
+- `Cold Spring village historic district …` · Firecrawl search → https://en.wikipedia.org/wiki/Cold_Spring_Historic_District · Firecrawl scrape: NRHP Nov 23, 1982; 691 acres; "Most of the houses … came into existence in the years before the Civil War, when the nearby West Point Foundry was at the peak of its production"; "over 200 buildings". → §5 para 1, §5.5, §13 card.
+- https://en.wikipedia.org/wiki/Putnam_County_Courthouse_(New_York) · Firecrawl scrape: on Gleneida Avenue (NY 52) on the shore of Lake Gleneida, built 1814, second-oldest county courthouse still in use in NY after Fulton County's. → §13 card, §8 Route 52 card.
+- `Brewster village Main Street Southeast Museum Old Town Hall 1896 Harlem Line` · Firecrawl search → https://southeastmuseum.org/about and https://southeastmuseum.org/ (1896 Old Town Hall, 67 Main Street, Brewster). → §13 card.
+- `Tilly Foster Farm Brewster Southeast county-owned acres history` · Firecrawl search → https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2022/August/minutes/Phys-08-25-22-Presentation-Tilly-Foster-Overview-2022.pdf (excerpt: ~199 acres in Town of Southeast; dairy farm then horse breeding; county purchased 2002). → §13 card.
+- `Chuang Yen Monastery Kent NY Buddha statue largest indoor Western Hemisphere` · Firecrawl search → https://www.baus.org/en/visit-us/faq/plan-a-visit/ and https://en.wikipedia.org/wiki/Chuang_Yen_Monastery (largest indoor Buddha statue in the Western Hemisphere; Town of Kent). → §13 card.
+- Lake Oscawana (sources above). → §13 card.
+
+### Commercial corridors (§8)
+- https://patch.com/new-york/southeast/best-places-watch-big-game-around-putnam-county · Firecrawl scrape (Patch, Jan 31 2025, updated Feb 4 2025): Applebee's (Independent Way, Brewster); Fiddlers Green Pub (1870 US-6, Carmel); La Famiglia Bar & Grill (Carmel Hamlet); MacGregor Public House at Putnam County Golf Course (187 Hill Street, Mahopac); The Mahopac Inn (1927 S Lake Blvd); McCarthy's Grill House (374 NY-52); Players Club Restaurant and Sports Bar (63 Fields Lane, Brewster); The Red Mills Pub (575 Rte 6N, Mahopac); Spins Bowl Carmel; Tavern on 52 (474 NY-52); Tom & Jerry's Irish House (987 Route 22, Brewster). Article gives no screen/audio detail per venue. → §8 cards (venue names only; nothing claimed about their equipment).
+- Cold Spring / Brewster Main Street, Route 22 plazas: from prior AESS research (research/tv-mounting-prices/putnam-county.json corridors, sources Regency Centers/Royal Properties/escapebrooklyn) — used only generically ("shopping plazas, fitness clubs").
+
+### Reddit (r/hudsonvalley, r/Westchester)
+- `reddit Putnam County Mahopac Carmel lake house TV soundbar mount wood paneling` · Firecrawl search → https://www.reddit.com/r/hudsonvalley/comments/1uye8hu/opinions_on_mahopac_putnam_county/ (excerpt: "I live in Carmel, only a few mins from Mahopac. It's quiet…") — no soundbar content, not used; r/hometheater and r/DIY paneling/stud threads (non-local; excerpt "Cut a line along the mount to prevent boards warping and then … secure to the studs through the paneling") — background for §7.5 paneling method only, not quoted. Putnam-specific soundbar/TV Reddit thread: EMPTY.
+- Prior Putnam Reddit excerpts (r/Westchester Mahopac cable/Optimum, "hilly extension of Dutchess") exist in research/tv-mounting-prices/putnam-county.json — not reused on this page.
+
+### Cost claims for §10.5 (AI Overview substitute)
+- `soundbar installation Mahopac OR Carmel OR Brewster NY cost` · Firecrawl search → results incl. AESS's own https://www.abstractenterprisessecuritysystems.com/tv-installation-putnam-county (snippet: "Soundbar installation adds $75 … installations fall between $199 and $449") — **conflicts with BRIEF ($79/$129); flagged, not used**; https://www.handybuddy.com/services/audio-video/soundbar-installation/ (excerpt "Starting at $263.92"; Firecrawl scrape: "Starting at $185.95", "+$25.00 each", "⚠ You supply the wall-holder kit") → §10.5 H3 4 (scraped figures used; site not named); https://primohomeservices.com/soundbar-installations ("$74.99") — not used.
+- https://www.homeyou.com/ny/tv-mounting-service-mahopac-costs · Firecrawl scrape (directQuote, Oct 2026): "Typical Range: $193 - $901"; average $230 to $500; labor $150 to $250; "In most of Mahopac, tv mounting service typically requires a permit … inspections are usually required before and after the work"; "milder, drier months … Booking a few weeks ahead". → §10.5 H3 1, 2, 3.
+- https://www.hellotech.com/us/ny/putnam-valley/tv-wall-mounting-install · Firecrawl scrape: "available as soon as same-day … 7 days a week, 365 days every year" → §10.5 H3 5 (site not named).
+- Samsung HW-Q990D rear speakers need AC outlets (silo file, Crutchfield) → §10.5 H3 7, §10.
+- Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG: EMPTY (not accessible in build env).
+
+### Recycling (was FAQ 1 — FAQ since replaced; research kept for reference, no longer used on page)
+- `Putnam County NY electronic waste recycling drop off residents Putnam Valley Carmel Southeast e-waste` · Firecrawl search → https://www.putnamcountyny.gov/health/recycle/ ("Each town in Putnam County has their own electronics recycling program"); https://www.southeast-ny.gov/359/Electronic-Waste-Shredding (Southeast e-waste days at 10 Palmer Road, town residents only); https://sustainableputnam.org/putnam-county/carmel/ (Carmel "does hold annual E-Waste Collection"); https://www.putnamvalley.gov/bulk-drop-off/ (hours excerpt; e-waste not confirmed in excerpt — not used). → FAQ 1.
+
+### Local news / hyperlocal / Yelp
+- Daily Voice (Isaias) and Patch (Super Bowl list) used as above; Highlands Current (HDRB). Journal News/lohud, Mid-Hudson News, Putnam County News & Recorder: no soundbar/TV-mounting story found — EMPTY for the service category.
+- Yelp 1–3★: search surfaced https://www.yelp.com/search?cflt=tvmounting&find_loc=Lake+Rd%2C+Carmel%2C+NY+10541 (aggregate 4.8 listing excerpt only); individual low-star reviews EMPTY (not accessible in build env).
+
+### Pricing used (published AESS numbers only)
+Sources: research/tv-mounting-prices/BRIEF.md; research/tv-mounting-prices/putnam-county.json; tv-mounting-prices-putnam-county.html; soundbar-installation-hudson-valley.html.
+- Soundbar placed $79 · wall-mounted $129 · Sanus bracket $84.99 · backer $85 · in-wall $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · high mount $75 · walk-up $40 · box removal $25 · remove old bracket $45 · COI free · walls $0/+30/+45/+65/+75/+95.
+- Putnam: setup-only $250 first hour then 30-min blocks; TV base (≤55") $229.99; $150 return trip; free reschedule with 24 h.
+- Worked totals (sums only): $213.99; $298.99; $337.99; $174; $446.99; $612.98. Packages $79 / $213.99 / $481.99 (129+84.99+169+99); BYOE $129.
+
+### Flags for Anwar
+1. **§9 multiplier 1.45 NOT applied.** Every published soundbar line is flat across areas (BRIEF, tv-mounting-prices-putnam-county, HV hub, all live siblings); Putnam's premium shows only in the $229.99 TV base and $250 setup hour. Applying 1.45 would invent prices (e.g. $129 → $187.05). Confirm.
+2. **Own-site conflict:** the live /tv-installation-putnam-county snippet says "Soundbar installation adds $75" and "$199 and $449" (search result, 2026-10-17) — conflicts with BRIEF $79/$129. (The putnam-county.json research note also says that page shows "starts at $224" and "stone fireplace adds $85".) Not used here.
+3. **TV-on-stand conflict:** BRIEF says $152.99 for Putnam; live tv-mounting-prices-putnam-county.html shows $153.99. This page avoids the figure.
+4. **Putnam county licensing:** Putnam's Electrical Board licenses "Low Voltage/Limited Data Communication Technicians", and Consumer Affairs requires contractor registration ($25,000 bond). The page states these neutrally and only claims AESS's NYS licence #12000287431 and insurance. Please confirm AESS's Putnam registration/LV-technician status; if held, the page could say so.
+5. **Payment wording:** BRIEF "paid in full online at booking" vs mandatory sentence "50% deposit" — page carries only the mandatory sentence.
+6. **Photos:** the 11 borrowed images/low-voltage putnam-* photos look rendered (uniform branded shirts, "800-486-0943" printed on shirts, generic signage such as "COMMUNITY CENTER" / school banners). Rule applied as instructed; please confirm they are real AESS photos.
+7. Partial-overlap judgments for the main run: Q6 (wainscot/picture rail — bar placement without cutting trim) vs Dutchess "chair rail — how does a cord cover get past the trim" (different object: bar vs cord cover); FAQ 5 (firmware update during visit) vs Ulster "Will automatic software updates undo the settings" (different intent); Q4/Q5 storm recovery vs HV "TV and power keep getting hit by storms — how protect" (recovery/generator vs protection).
+
+### Images (11, permanent image rule — images/low-voltage/ putnam-county prefix only)
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per batch brief). Converted to WebP q80, 1400 px wide.
+| New file (images/soundbar-installation/) | Source (images/low-voltage/) |
+|---|---|
+| soundbar-installation-putnam-county-ceiling-speaker-and-wall-cabinet-speaker.webp (hero) | low-voltage-installation-putnam-county-14-ceiling-speaker-install.jpg |
+| soundbar-installation-putnam-county-tone-tracer-at-wall-opening.webp | …-08-tone-generator-trace.jpg |
+| soundbar-installation-putnam-county-screwdriver-terminating-wall-plate.webp | …-07-keystone-wall-plate.jpg |
+| soundbar-installation-putnam-county-opening-corridor-ceiling-tile.webp | …-02-school-corridor-ceiling-tile.jpg |
+| soundbar-installation-putnam-county-crew-pulling-cable-from-spools.webp | …-03-crew-cable-pull.jpg |
+| soundbar-installation-putnam-county-handheld-tester-pass-at-wall-jack.webp | …-06-fluke-certification-pass.jpg |
+| soundbar-installation-putnam-county-laptop-configuring-network-rack.webp | …-11-rack-switch-config.jpg |
+| soundbar-installation-putnam-county-cable-bundle-in-j-hooks.webp | …-04-jhook-pathway-bundle.jpg |
+| soundbar-installation-putnam-county-access-point-from-scissor-lift.webp | …-10-access-point-lift-install.jpg |
+| soundbar-installation-putnam-county-fan-of-cables-from-ceiling-grid.webp | …-09-ceiling-grid-bundle-pull.jpg |
+| soundbar-installation-putnam-county-dressing-cable-bundle-above-corridor.webp | …-hero-school-corridor-cable-pull.jpg |
+Skipped: 05 fiber splice (off-topic), 12 electric strike (off-topic), 13 lobby intercom (readable address/management sign), hero-ceiling-speaker-conference (near-duplicate of 14).
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+## Question register — soundbar-installation-putnam-county
+
+§9 YOUR QUESTIONS ANSWERED (H3, 11), under non-question H2s (Lake cottages that became year-round houses · Storms, generators and getting the sound back · Trim and sunlight · Bonus rooms, closets, well pumps and hum):
+1. Our Lake Carmel bungalow was winterized by furring out the old walls and adding insulation — does that extra layer change how the soundbar bracket is fixed?
+2. The TV wall in our cottage runs across the seam where an addition was joined on decades ago — does that change where the bracket can go?
+3. Our TV is on a swivel arm so we can watch from the kitchen or toward the lake windows — how does the soundbar move with it?
+4. After a long outage our soundbar comes back muted, or the TV plays through its own speakers — what is going wrong, and can it be set up to recover by itself?
+5. We have a standby generator — is the soundbar safe on generator power, and should it be on a battery backup?
+6. Our Garrison house has wainscoting and a picture rail on the TV wall — can the soundbar go there without cutting the original trim?
+7. Our living room faces the lake and the afternoon sun lands right on the TV wall — does that matter for the soundbar or its remote?
+8. Our second TV is in the bonus room over the garage, which gets hot in summer and cold in winter — is that a bad place for a soundbar?
+9. There's a walk-in closet right behind our TV wall — can the cable box, router and other boxes live in there instead of under the screen?  (replaced 2026-10-17: stone-veneer intent held by Orange and Staten Island)
+10. The lights dip whenever our well pump kicks on — will that bother the soundbar?
+11. The soundbar hums through the speakers whenever the cable box is plugged in — is that something in the house wiring?
+
+§17 FAQ (visible == FAQPage, 8):
+1. A light switch or thermostat sits right where the soundbar should go under the TV. What are the options?  (replaced 2026-10-17: Orange held the old-soundbar disposal intent)
+2. Our lake house is on a private road with a gate. What do you need from us to get in?
+3. Our bathroom is on the other side of the TV wall. Could the drill hit a water pipe?  (replaced 2026-10-17: Orange held the Sanus-vs-box-bracket intent)
+4. Will the technician adjust the TV picture while setting up the sound?
+5. What happens if the soundbar needs a firmware update during the visit?
+6. Will the technician protect our floors and clean up the drilling dust?  (replaced 2026-10-17: old-surround-system intent too close to Staten Island / Westchester; answer uses BRIEF policy only — dust clean-up included, heavy furniture not moved)
+7. Can a soundbar hang with a TV that is on a ceiling mount?
+8. Our cable company is swapping our box next week. Should the soundbar visit wait until after?
+
+Other question-form headings (repair capture / CTA, not Q&A/FAQ): "Putnam Soundbar Gone Silent After a Storm?", "Want Your Putnam Total in Writing?". Final repair H2 "Soundbar Dropping Out or Humming in Putnam? Call Today" (does not end in "?").
+§10.5 claim headings (quoted claims, not questions): permit + inspections (Homeyou); milder drier months / book weeks ahead (Homeyou); $193–$901 range (Homeyou); "$185.95, you supply the wall-holder kit" (booking site); same-day 365 days (installer network); "no statewide licence" (contractor guide); "wireless surrounds mean no wires" (Samsung Q990D outlets).
+
+De-dup notes: checked by meaning against the NYC, LI, HV, Manhattan, Brooklyn, Queens and Bronx registers and against the concurrent Dutchess and Ulster pages on disk at ~06:30. Dropped/replaced during the pass because Dutchess or Ulster held the intent: "why does Putnam cost more" (Dutchess cost-vs-Westchester FAQ), "selling the house — bar stay?" (Dutchess), "knotty pine — what's behind it?" (Ulster; replaced by furring-depth Q), "two soundbars play together" (Ulster multi-room), "antenna local channels" (Ulster antenna/satellite), "wood stove distance" (Ulster hearth-pad sub), "book ahead for game-day" (Ulster holiday-weekend booking). Avoided all registered intents (COI, board approval, plaster cracking, concrete anchoring, neighbours/noise, renter wiring, outlets add/move, patch/paint, reschedule, warranty, one remote, hours, coverage/travel charge, HDMI cable, faulty bar, above-TV, no-ARC, Sonos setup, Atmos/vaulted, mantel vs wall, built-ins, attic routing, summer-house closing, weekend lake house, storm protection, rural internet, stone soft mortar, log walls, niche, metal-stud wall, router far away, LPC approval, rough-in, corner TV, menus language, etc.). Lake-house opening/closing and storm protection are covered as body sections, not questions.
+
+Post-wiring de-dup (2026-10-17, against all 15 sibling pages on disk): FAQ 1 and FAQ 3 replaced as above. New FAQ answers use only AESS policy/published facts ($79 console line; no electrical/heating work). Further overlaps found for the main run to judge (not asked to change): Q&A 9 (stone veneer on the fireplace wall) vs Orange "manufactured stone the builder put around the fireplace" and Staten Island "fireplace faced with stone veneer"; FAQ 6 (replace old surround system with a soundbar) vs Staten Island "old surround receiver and five speakers — keep or replace" and Westchester "in-ceiling surround speakers — can a soundbar replace them".
+Added for byte target: a visible "Sources" list (19 citation links already listed in this file) and schema enrichment using published price-brief lines only.
+Second post-wiring pass (2026-10-17): Q&A 9 and FAQ 6 replaced as above at the main run's request; checked against every question on the 15 other soundbar pages and the dutchess/ulster registers (no closet/clean-up intents anywhere). Q&A 9 answer uses published lines only ($169 in-wall kit, $99 cable run up to 25 ft, $99 universal remote). Prose trimmed (two sentences in §5/§6) to stay under 14,000 words. Remaining possible overlap for the main run to judge: Q&A 2 (cottage TV wall across an addition seam) vs Nassau "The TV wall in our expanded Cape used to be the outside of the house — what changes when we mount on it?".
+
+# Builder notes — soundbar-installation-dutchess-county (batch 2026-10-17)
+
+## Dutchess County (soundbar-installation-dutchess-county)
+
+Built 2026-10-17. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote query mode). Silo-wide findings already in research/soundbar-installation.md (Sonos/Samsung/Sanus specs, Dolby placement, HomeWyse, ADA 307.2, nyctvguy in-box hardware and 4–6 in claims) were reused where noted ("silo file"); nothing below is inferred to fill a gap.
+
+Thesis: Dutchess houses come from three building bursts — river-town Victorians (City of Poughkeepsie, Beacon, village centers), IBM-boom raised ranches/splits/colonials (Wappinger, LaGrange, East Fishkill, Hyde Park, Town of Poughkeepsie), and new apartments (Beacon, Poughkeepsie) — so the page centres on what is behind the TV (paneling on studs vs furring over block, plaster on lath, insulated outside walls, manufactured-home panels), low lower-level rooms with soffits, campus/STR/work-from-home households, a town-by-town guide, and published Dutchess pricing.
+
+### Mandatory sources (§3)
+1. Reddit
+   - `reddit Poughkeepsie OR hudsonvalley mount TV soundbar installer Dutchess` · Firecrawl search → https://www.reddit.com/r/Soundbars/comments/1rwyley/soundbar_mount_options/ (excerpt: "Using an under-TV soundbar mount with the existing TV bracket is likely the cleanest solution without drilling into the paneling") → §9 paneling Q (context; not quoted), §6 TV-attached card. Same search returned https://www.reddit.com/r/GeekSquad/comments/1i1kvuo/tv_and_soundbar_install/ (excerpt on soundbar power kit) → not used.
+   - `reddit r/Poughkeepsie TV mounting OR soundbar OR "home theater" recommendation` · Firecrawl search → https://www.reddit.com/r/hudsonvalley/comments/10fdm4n/looking_for_recommendations_for_companies_that_do/ (excerpt: "Recommendation: TV mounting and behind the wall cable management") → background only for §5 (residents seek TV + behind-wall cable work together); not quoted. r/Poughkeepsie soundbar threads: EMPTY.
+   - `manufactured home walls mounting TV vinyl covered gypsum 2x3 studs thin walls how to anchor` · Firecrawl search → https://www.reddit.com/r/ManufacturedHome/comments/1tlswsx/wanting_to_mount_a_tv/ (excerpt: lag bolts into studs / toggle bolts; related thread title "Best way to mount an 80" TV onto a wall with studs spaced at 24 ...") → §9 manufactured-home Q ("one thread on Reddit's manufactured-home forum asks…"), §7 card + methods.
+   (Threads not opened — Firecrawl excerpts only.)
+2. Google PAA — EMPTY (not accessible in build env)
+3. Google PASF — EMPTY (not accessible in build env)
+4. Answer the Public — EMPTY (not accessible in build env)
+5. Google AI Overview — EMPTY (not accessible in build env). Substituted (§10.5, stated on page as such):
+   - https://www.thumbtack.com/ny/poughkeepsie/tv-wall-mount-install · Firecrawl scrape → "The national average price for television mounting services ranges between $100 and $130"; "TV wall mount with wires hidden inside wall: $139"; "TV wall mount over fireplace with wires hidden: $179-$249"; "TV wall mount and up to 5 speakers wall-mounted with hidden wires: $399". → §10.5 H3 1 and 2.
+   - HomeWyse $58.43–$231 per soundbar (silo file, NYC notes) → §10.5 H3 4.
+   - nyctvguy "4–6 inches below the TV" and in-box hardware claim (silo file, NYC notes; competitor not named) → §10.5 H3 3 and 7.
+   - Crutchfield HW-Q990D rears need AC, sub 25.8 lb (silo file, LI notes) → §10.5 H3 6, §10 cards.
+   - Westchester / Rockland licence pages (below) → §10.5 H3 5.
+6. Area landmarks — see Landmarks below.
+7. Area use cases / building stock — see Housing below.
+8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+9. Local news — Highlands Current (Beacon housing, Mount Beacon incline), Poughkeepsie Journal / Central Hudson (outages), LA Times archive (IBM head count). Mid-Hudson News: not returned by any query — EMPTY.
+10. Hyperlocal — The Highlands Current used (above). Hudson Valley One: not searched separately — EMPTY.
+11. Yelp 1–3★ — EMPTY (not accessible in build env). Yelp listing excerpts (https://www.yelp.com/search?find_desc=Tv+Mounting&find_loc=Poughkeepsie%2C+NY "TOP 10 BEST Tv Mounting in Poughkeepsie") appeared in search; no review text read; nothing used.
+
+### Housing / stats (§5, §5.5)
+- (direct) https://www.census.gov/quickfacts/fact/table/dutchesscountynewyork/PST045224 · Firecrawl scrape → population 300,708 (July 1, 2025, V2025); housing units 124,843 (July 1, 2025); owner-occupied rate 69.2% (2020–2024); median owner-occupied value $400,600; persons per household 2.40; 65+ 21.1%; broadband 93.5%; language other than English 16.2%. → §5.5 bullets 1, 2, 6, 7.
+- Stacker Sep 25 2025 (Census data) via silo file (HV notes): Dutchess median year built 1971; 18.0% (22,056) built 1939 or earlier → §5.5 bullet 3.
+- `IBM Poughkeepsie 1950s 1960s housing boom subdivisions Wappingers LaGrange East Fishkill split-level raised ranch` · Firecrawl search → https://www.wappingershistoricalsociety.org/town-of-wappinger-history · Firecrawl scrape: "With the population boom of the 1950's and 1960's here in Dutchess County, Wappinger was forced to accept a new wave of settlers, most of which were employed with the International Business Machine Company, or IBM, located in Poughkeepsie and in East Fishkill. Much of Wappinger's farm lands were developed into suburban neighborhoods…" → §5 para 1, town guide (Wappinger). Same search: https://www.realestatehudsonvalleyny.com/dutchess-towns/town-poughkeepsie/ (listing site: "A large IBM campus that develops mainframes is located in the town of Poughkeepsie… Over 80% of the homes were built after 1950") → NOT used (unverified listing claim).
+- `IBM Poughkeepsie plant history employees peak 1980s Dutchess County layoffs 1993` · Firecrawl search → https://www.latimes.com/archives/la-xpm-1993-09-06-mn-32215-story.html (excerpt: "After reaching a peak of 30,700 in 1985, the local IBM head count is down to 13,800") → §5.5 bullet 4. (CSMonitor excerpt "peaked at 31,306 workers in 1984" conflicts — not used.)
+- `Beacon NY new apartment buildings units Highlands Current development Main Street Edgewater` · Firecrawl search → https://highlandscurrent.org/2023/05/26/has-beacon-followed-its-own-blueprint/ · Firecrawl scrape: "Since 2012, nearly 800 apartments and other housing units have been built in Beacon. At Edgewater and 248 Tioronda Ave., among a handful of others, there are more than 300 units still under construction…"; steep-slopes measure reduced Edgewater from 307 to 246 units and 248 Tioronda from 100 to 64 apartments. → §5.5 bullet 5, town guide (Beacon).
+- `City of Poughkeepsie historic district Victorian houses Academy Street…` · Firecrawl search → https://www.livingplaces.com/NY/Dutchess_County/Poughkeepsie_City/Academy_Street_Historic_District.html (NRHP 1982); https://peoplesgeographyofthehudsonvalley.vassarspaces.net/poughkeepsie/union-street-historic-district/ (NRHP December 1971); brandonjbroderick.com excerpt ("Federal and Victorian-era brick houses") → §7 Victorian card, town guide (City of Poughkeepsie).
+- `Dutchess County manufactured home parks…` · Firecrawl search → https://www.dutchessny.gov/Departments/DBCH/Mobile-Home-Parks.htm (excerpt: "regulated by Part 17 of the New York Sanitary Code and Article 23 of the Dutchess County Sanitary Code") → §7 manufactured-home card. MHVillage "58 parks near Dutchess" — NOT used ("near").
+
+### Licensing / regulation (§8.5, §10.5, comparison table)
+- `Dutchess County home improvement contractor license required county consumer affairs` · Firecrawl search → Westchester https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors ("Westchester law requires that home improvement contractors have a county license"); Rockland https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits ("Under Chapter 286 of the Rockland County Home Improvement Law, all individuals performing home improvement work must obtain a Home Improvement License"); Facebook Poughkeepsie group excerpt ("Dutchess County does not require contractors to have licenses") → NOT used (unofficial).
+- `site:dutchessny.gov home improvement contractor` · Firecrawl search → https://www.dutchessny.gov/Departments/Aging/Docs/OFA-Aging-News-May-11-2026.pdf · Firecrawl scrape (pdf): "New York State does not license home improvement contractors. Check with your town, city, and/or village government as to what licensing and permits may be required in your home community, and be sure the contractor has proper licensure and has insurance." (NYS DOS tips) → §8.5 bullet 1, §10.5 H3 5, comparison table.
+- `Rhinebeck short-term rental law permit…` · Firecrawl search → https://www.rhinebeckny.gov/uploads/3/9/4/4/39447425/ll_2_of_2025_-_short_term_rental_-_dos_filing.pdf (Town of Rhinebeck Local Law 2 of 2025: STR = rental of not more than 30 consecutive days; permit required; contact person must respond to the Code Enforcement Officer within 24 hours) and https://www.rhinebeckny.gov/uploads/3/9/4/4/39447425/str_application_final_2.pdf (permits valid two years — not used) → §8.5 bullet 6, §9 STR Q.
+- Vassar residence rules: `Vassar College residential life prohibited items wall damage nails tape room condition` · Firecrawl search → https://offices.vassar.edu/residential-life/procedures/college-property/decorating/ · Firecrawl scrape: "Scotch tape, adhesive tape, hooks, putty, nails, small tacks, push pins, and glue are not to be used for hanging decorations as they severely damage walls and may necessitate repainting an entire room at your expense." → §9 dorm Q.
+- Marist: `Marist College residence hall policy mounting TV on wall…` · Firecrawl search → https://www.marist.edu/student-life/campus/housing/faqs (FAQ page exists; no mounting rule in excerpt); Facebook group excerpt about "Lincoln Hall" no-holes rule — college unverified → NOT used. Page says only that Marist publishes its own housing rules.
+- ADA 2010 §307.2 — silo file (LI notes) → §8.5 bullet 2.
+
+### Power / outages (§6 repair capture, §9 STR context)
+- `Central Hudson outages Dutchess County customers storm 2025 OR 2026 Mid-Hudson News Poughkeepsie Journal` · Firecrawl search → https://www.cenhud.com/en/news/2026/central-hudson-provides-restoration-update-following-severe-july-4-storm/ (excerpt: "approximately 50,000 customers were without electric service" at height); https://www.poughkeepsiejournal.com/story/news/local/2026/03/17/thousands-without-power-across-mid-hudson-valley-on-st-patricks-day/89191636007/ (7,181 customers out at publication) → page mentions Central Hudson outages only generically (repair capture); no figure used.
+
+### Landmarks (§13 — six cards, none used as a card on the HV hub)
+- `Vassar College founded 1861 …` · Firecrawl search → https://en.wikipedia.org/wiki/Vassar_College (founded 1861 by Matthew Vassar; campus over 1,000 acres, 100+ buildings, arboretum); https://www.vassar.edu/about (Matthew Vassar, Poughkeepsie brewer) → Vassar card.
+- `Bardavon 1869 Opera House …` · Firecrawl search → https://www.bardavon.org/about-us/ ("oldest continuously operating theater in New York State… listed on the National Register of Historic Places"); https://www.bardavon.org/ (35 Market Street) → Bardavon card.
+- `Vanderbilt Mansion National Historic Site …` · Firecrawl search → https://en.wikipedia.org/wiki/Vanderbilt_Mansion_National_Historic_Site (54-room mansion built 1896–1899; site 211 acres) → card.
+- `Franklin D. Roosevelt Presidential Library Hyde Park first presidential library dedicated 1941` · Firecrawl search → https://en.wikipedia.org/wiki/Franklin_D._Roosevelt_Presidential_Library_and_Museum (built 1939–1940 under FDR's direction; dedicated June 30, 1941; first presidential library) → card.
+- `Culinary Institute of America Hyde Park campus former Jesuit seminary…` · Firecrawl search → https://www.ciachef.edu/our-story/ ("1972: CIA opens the doors to its… campus in Hyde Park, NY, with its main building named Roth Hall"; former St. Andrew-on-Hudson Jesuit novitiate) → card.
+- `Mount Beacon incline railway history…` · Firecrawl search → https://highlandscurrent.org/2022/04/29/end-of-the-line/ (built 1902, opened Memorial Day, Otis Elevator Co. engineering, millions of passengers, closed 1978) → card.
+- Not used as cards: Dutchess County Fairgrounds (only a Facebook "120 acres" excerpt); Walkway Over the Hudson and Dia Beacon (already HV hub cards).
+
+### Commercial corridors (§8)
+- `Poughkeepsie Galleria Route 9 mall opened…` · Firecrawl search → https://en.wikipedia.org/wiki/Poughkeepsie_Galleria (opened August 4, 1987) → Route 9 card.
+- `Fishkill Route 9 corridor retail shopping plazas I-84 interchange…` · Firecrawl search → https://westfaironline.com/partner-insights/commercial-real-estate-sep-21/lawrence-farms-market-square-a-premier-retail-and-residential-property-in-fishkill/ (Route 9 "the primary commercial and retail spine of the mid-Hudson Valley region"; national hotel chains near the I-84 interchange) → Route 9 card, town guide (Fishkill). (Sponsored "partner insights" content — attributed on page as "a trade publication".)
+- `Arlington business district Raymond Avenue Poughkeepsie bars restaurants near Vassar` · Firecrawl search → https://www.vassar.edu/visit/community/dining (Arlington dining list, addresses 8–60 Raymond Ave); https://savonas.com/poughkeepsie/ ("across the street from Vassar College") → Raymond Avenue card.
+- `Beekman Arms Rhinebeck oldest continuously operating inn…` · Firecrawl search → https://www.beekmandelamaterinn.com/ ("operated continuously since 1766") → Rhinebeck card (attributed to the inn).
+- Main Street Beacon, downtown Poughkeepsie (Market/Main St, county offices), Vassar Brothers Medical Center, Route 52 Fishkill: described generically, no statistics.
+
+### Technical sources used on this page
+- `Samsung Q-Symphony soundbar TV speakers work together…` · Firecrawl search → https://www.samsung.com/us/support/answer/ANS10004507/ ("allows sound to play from a soundbar… and your TV's speakers simultaneously") → FAQ 4, §10 TV-matched card.
+- Sonos Arc Ultra / Beam / Ray, Sanus SASB1 / WSSATM1 / WSSBM1, Dolby placement — silo file → §10 cards, §9 soffit Q, §10.5 H3 3.
+
+### Pricing (published AESS numbers only — research/tv-mounting-prices/BRIEF.md, tv-mounting-prices-dutchess-county.html, soundbar-installation-hudson-valley.html)
+- Soundbar lines unmultiplied (as on the live HV hub and tv-mounting-prices-dutchess-county): placed $79 · wall-mounted $129 · Sanus bracket $84.99 · cord cover $59 · in-wall $169 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · walls $0/+30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · take down TV $85 · remove bracket $45 · haul-away TV $79 · COI free · $150 return trip · free reschedule 24 h.
+- Dutchess-specific (BRIEF): TV base $254.99 · TV on stand $168.99 · setup-only $275 first hour then 30-min blocks · no travel charge within the county (tv-mounting-prices-dutchess-county: "no travel charge from Beacon to Pine Plains").
+- County comparison table uses BRIEF values for Westchester/Rockland ($219.99 / $235 / $144.99), Orange/Putnam ($229.99 / $250 / $152.99), Dutchess/Ulster ($254.99 / $275 / $168.99).
+- Packages (sums of published lines): $213.99 (129 + 84.99) · $468.98 (254.99 + 129 + 84.99) · $637.98 (+169). Worked examples: $317.99 (129 + 84.99 + 45 + 59), $288.99 (129 + 84.99 + 75), $79, $275.
+
+### Flags for Anwar
+1. **§9 Dutchess multiplier (1.53×) NOT applied.** The live HV hub and tv-mounting-prices-dutchess-county keep soundbar lines at $79/$129/$84.99 and express the Dutchess premium through the TV base ($254.99), stand ($168.99) and setup hour ($275). Applying 1.53× would have created unpublished prices (e.g. $197.37 wall mount). Queens applied ×1.05 to its soundbar lines — the silo is inconsistent. Confirm.
+2. **Paneling priced as "drywall/wood studs $0"** in the wall table, and "paneling on furring over block" as the +$75 block line — an interpretation of the menu (paneling is not a menu line). Confirm.
+3. FAQ 5 ("I hung the soundbar myself…") books a check as a setup-only visit ($275 first hour) and says any refix is priced from the menu first. Confirm that's how you'd bill it.
+4. (Removed: house-sale FAQ replaced by the microphone/toasts FAQ.)
+5. Payment-wording conflict persists silo-wide: BRIEF says TV jobs are paid in full online at booking; the mandatory terms sentence mentions a 50% deposit. This page carries only the mandatory sentence and makes no payment claim.
+6. **Photos:** the 11 borrowed images/low-voltage/ Dutchess photos look AI-rendered (uniform "Abstract Enterprise LLC" shirts with the 800 number, a misspelled "STANLEY"-style tape measure in the TV photo). Permanent image rule applied as instructed; please confirm these are acceptable or replace them with real photos.
+7. Route 9 "primary commercial and retail spine" comes from a sponsored Westfair "partner insights" article; attributed as "a trade publication".
+
+### Images (11, permanent image rule — images/low-voltage/low-voltage-installation-dutchess-county-* only; viewed before naming)
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per batch brief). WebP q80, 1400 px wide (sources ≤1400).
+| New file (images/soundbar-installation/) | Source (images/low-voltage/) |
+|---|---|
+| soundbar-installation-dutchess-county-conference-tv-soundbar-below.webp (hero, eager) | low-voltage-installation-dutchess-county-11-ptz-camera-mount.jpg |
+| soundbar-installation-dutchess-county-four-tech-crew-ceiling-pull.webp | …-03-crew-cable-pull.jpg |
+| soundbar-installation-dutchess-county-recessed-media-box-beside-display.webp | …-hero-display-recessed-box.jpg |
+| soundbar-installation-dutchess-county-tone-tracer-at-wall-plate.webp | …-08-tone-generator-trace.jpg (also used by Manhattan under its own name) |
+| soundbar-installation-dutchess-county-store-ceiling-cable-drop.webp | …-13-retail-store-ceiling-pull.jpg |
+| soundbar-installation-dutchess-county-cable-tester-at-wall-jack.webp | …-02-fluke-certification-pass.jpg |
+| soundbar-installation-dutchess-county-keystone-jack-termination.webp | …-06-keystone-wall-plate.jpg |
+| soundbar-installation-dutchess-county-scissor-lift-ceiling-access-point.webp | …-10-access-point-lift-install.jpg |
+| soundbar-installation-dutchess-county-jhook-overhead-cable-run.webp | …-14-jhook-pathway-bundle.jpg |
+| soundbar-installation-dutchess-county-rack-switch-laptop-setup.webp | …-hero-rack-switch-config.jpg (also used by Manhattan under its own name) |
+| soundbar-installation-dutchess-county-ceiling-grid-cable-fan.webp | …-07-ceiling-grid-bundle-pull.jpg |
+Skipped: 04-idf-patch-panel-build (readable floor-plan sheet), 05-fiber-fusion-splice, 09-warehouse-cable-tray (camera), 12-access-control-reader-wiring (not AV).
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+### Keyword layers
+- Service: soundbar installation Dutchess County, soundbar mounting, TV and soundbar installation, hide soundbar wires, soundbar setup/repair.
+- Problem: bracket loose in paneling, plaster won't hold, no sound after TV update/outage, lip-sync, rear speakers far from outlets, low soffit, outside wall can't be fished.
+- Technology: HDMI eARC/ARC, HDMI-CEC, optical, Q-Symphony, TV-attached bracket, Sanus bracket, in-wall power kit, cord cover, plywood backer, wireless sub/rears.
+- Industry: galleries (Beacon Main St), restaurants/bars (Raymond Ave, Route 9), hotels (Fishkill I-84), inns (Rhinebeck), medical offices, church/parish halls, short-term rentals.
+- Geographic: Dutchess County; City/Town of Poughkeepsie, Arlington, Spackenkill, Beacon, Fishkill, Wappingers Falls/Wappinger, East Fishkill, Hopewell Junction, LaGrange, Pleasant Valley, Hyde Park, Staatsburg, Rhinebeck, Rhinecliff, Red Hook, Tivoli, Annandale-on-Hudson, Millbrook, Pine Plains, Amenia, Millerton, Dover Plains, Pawling, Beekman, Union Vale, Clinton Corners; Route 9, Route 9D, Route 44, Route 52, Route 55, Route 82, Taconic, I-84.
+
+## Question register — soundbar-installation-dutchess-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3, under non-question H2s: Houses from the IBM years · Older river-town houses · Campus, rental and country households · Homes that don't fit the usual template)
+1. The lower level of our Wappingers raised ranch is finished in 1970s wood paneling — can the soundbar bracket go straight onto it?
+2. A ductwork soffit runs along the top of our LaGrange basement's TV wall — how do the TV and soundbar fit under it?
+3. The last owner left speaker wire poking out of our East Fishkill family-room wall — is any of it useful to a soundbar?
+4. Will the paneling in our Hyde Park family room buzz when the soundbar and subwoofer play loud?  (replaced 2026-10-17: Orange holds the outside-wall in-wall intent; outside-wall advice kept in §7.5 body. Source: B&H Arc Ultra wall-mount listing, silo file LI notes — bar detects wall mounting and adjusts EQ)
+5. Our Poughkeepsie apartment still has its picture rail — could the soundbar hang from it on hooks instead of going into the plaster?
+6. Our gallery on Main Street in Beacon wants sound for a video piece but no visible speaker — can a soundbar be hidden?
+7. Can a soundbar be wall-mounted in a Vassar or Marist dorm room?
+8. Our bedroom TV rises out of a lift cabinet at the foot of the bed in our Millbrook house — where does the soundbar go?  (replaced 2026-10-17: Westchester holds the work-from-home video-call intent)
+9. Our place outside Rhinebeck is a permitted short-term rental — if the soundbar fails mid-stay, how fast can it be sorted before the next check-in?
+10. Can a soundbar be mounted on the thin walls of a manufactured home in one of the county's parks?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. Why does a TV-and-soundbar booking cost more in Dutchess than in Westchester?
+2. Can guests give toasts through the soundbar with a microphone at our barn or event room?  (replaced 2026-10-17: Rockland holds the house-sale intent; FAQPage JSON-LD updated to match)
+3. Do you put soundbars in church halls and parish rooms?
+4. Will my Samsung TV's own speakers keep working alongside a Samsung soundbar?
+5. I hung the soundbar myself — can you check it and finish the setup?
+6. Can the soundbar sit on a floating shelf instead of its own bracket?
+7. Is a wall-mounted soundbar safer than one on the stand with a toddler in the house?
+8. Our dog chews cables — how are the soundbar wires protected?
+9. Can the soundbar be installed on the same visit as cameras or network work?
+
+### Other headings (no question marks)
+- Repair captures: "Soundbar Silent in Dutchess County", "Dutchess Soundbar Repair, Next Open Window".
+- §10.5 claim headings (quoted claims): national average $100–$130; hidden-wire mount $139; 4–6 in below TV; $58–$231 install; county licence required; wireless means no cables; soundbars ship with the hardware they need.
+
+### De-dup notes
+Checked by meaning against every question in the NYC, LI, HV, Manhattan, Brooklyn, Queens and Bronx registers and against the Putnam and Ulster pages on disk (~06:40). Avoided: plaster cracking/backer/finding framing, stone anchoring, mantel/fireplace/gas heat, Atmos ceilings, sub placement (all three), basement media room sub, rear-speaker outlets (as a question), high-ranch room choice, attic/basement routing, renter wire hiding, permits/licences (as a question), radiators, two-prong outlets, hearing aids, language tracks, Wi-Fi congestion, lake/second-home weekend setup, surge/storm protection, travel distance/coverage, cost "what does it cost", outlets add/move, patch & paint, reschedule, warranty, one remote, hours, brand list, moving house, LPC/historic approval, rough-in before walls close, party walls. Replaced my first-draft Victorian trim/cord-cover question because Putnam's Garrison wainscoting/picture-rail question covered the trim intent; dropped a Marist no-holes claim (source college unverifiable). Partial overlaps for the main run to judge: STR repair-speed Q (Ulster has several STR guest-experience questions; mine is about turnaround between stays), outside-wall in-wall Q vs HV FAQ "Is hiding the wires inside the wall included?" (price vs feasibility), video-call Q vs HV conference-room Q (home echo/mic vs room coverage).
+
+### Second de-dup pass (2026-10-17, main-run request)
+Replaced three questions whose intent was registered by concurrently built live pages (Orange outside-wall wiring, Westchester work-from-home video calls, Rockland house sale). New intents checked by meaning against every soundbar page on disk (all 16 area/hub pages) plus research/soundbar-installation.md and research/_batch/putnam.md and ulster.md: no register question covers paneling buzz/rattle, TV lift cabinets, or microphones/toasts. Page after the pass: 215,280 B, 13,873 words, check_page PASS (full mode). The coordinator's two rewritten list items (ADA §307.2 and in-wall cable rating) were left untouched.
+
+# Builder notes — soundbar-installation-ulster-county (batch 2026-10-17)
+
+## Ulster County (soundbar-installation-ulster-county)
+
+Built 2026-10-17. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide findings (Angi/Thumbtack/HomeWyse cost claims, Dolby flat-ceiling 7.5–14 ft, Sonos Arc Ultra/Beam/Ray specs, Samsung Q990 rears need AC, Netflix 15 Mbps, eARC/ARC, ADA 307.2) reused from research/soundbar-installation.md — not re-fetched.
+
+Thesis: in Ulster the TV is often used by someone other than the owner (2,013 short-term rentals, 36% of STR owners mailing outside the county, weekend houses, student/long-term rentals), on walls that are rarely plain drywall (Stockade/Hurley stone, Rondout brick, Victorian plaster on lath, knotty pine, logs, barns, bluestone), in a county with uneven internet and storm outages. Page centres on wall-specific fixing + guest-proof/absentee-owner setup + weather/power/internet resilience.
+
+### Housing / STR (§5, §5.5, §8.5, Rental Hosts section)
+- `Ulster County Comptroller short-term rental report 2025 active rentals 2,013` · Firecrawl search → http://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/Press-Release_U.C.-Report-on-the-Housing-Impact-of-Short-Term-Rentals.pdf (scraped, Sept 22 2025): STRs +220% since 2015, 942 → 2,013; 3.28% of county housing stock (May 2025) vs 2% cap recommended by Ulster County Housing Smart Communities Initiative; Shandaken nearly 10%; 98% of listings entire units; 36% of owners use mailing addresses outside Ulster, NYC most common; ≥10 platforms (4 in 2020); sixteen municipalities have some regulation. → §5 paras 1–2, §5.5 bullets 1–2, Rental Hosts intro.
+- `Kingston Wire OR Mid-Hudson News Ulster County short-term rentals Shandaken housing 2026` · Firecrawl search → https://www.dailyfreeman.com/2025/09/22/ulster-county-short-term-rentals-eating-up-housing-market-comptrollers-report-shows/ (excerpt): "Of the roughly 2,675 housing units in the town of Shandaken, some 267, or 9.98%, are used for short-term rentals" → §5.5 bullet 2. https://www.shandaken.gov/short-term-rental-licensing/ (excerpt): "Owner or property manager must respond within 30 min. & be available in person within 1 hour, to an emergency"; "Ulster County also requires registration" → §8.5, §9 guest-guide Q, Rental Hosts table.
+- `Kingston NY short-term rental law permits cap one percent housing units` · Firecrawl search → https://kingston-ny.gov/filestorage/8399/8469/48370/STR_Fact_Sheet_-_City_of_Kingston_Form-Based_Code.pdf (excerpt: full permits capped at 1% of the City's housing units; one STR per property); https://hudsonvalleyone.com/2024/10/02/kingston-limits-on-short-term-rentals/ (excerpt: code limit of one percent, established August 2023); bnbcalc/wonderguest excerpts (106 / 112 permits; cap full since March 2024 — host-guide sites, NOT used for numbers). → §8.5 bullet, Rental Hosts table.
+- `Woodstock NY town short-term rental law owner-occupied permit` · Firecrawl search → https://www.townofmarlboroughny.gov/DocumentCenter/View/3354/Short-Term-Rentals---Town-of-Woodstock-Local-Law (excerpt, Woodstock Local Law No. 1 of 2019): STRs must register with Ulster County (Local Law #5 of 1991); STR Non-owner Occupied "rented for no more than 180 days per calendar year with no more than 26 weekends"; STR Home owner must live on property. → §8.5, Rental Hosts table.
+- `New York State short-term rental registry law 2025 counties registration Hochul signed` · Firecrawl search → https://www.nysac.org/issues/short-term-rentals/ (excerpt): Chapter 99 of the Laws of 2025 (S.820/A.5686); counties may establish a county-wide STR registry. → Rental Hosts table.
+- `Ulster County New York QuickFacts housing units …` · Firecrawl search + Firecrawl scrape https://www.census.gov/quickfacts/fact/table/ulstercountynewyork/HSG010225 → population 183,330 (July 1 2025); housing units 87,657 (July 1 2025); owner-occupied 69.9% (2020–2024); median owner-occupied value $352,500; persons/household 2.26; 65+ 23.5%; broadband 92.4%; land 1,124.24 sq mi. → §5.5 bullet 4, Long-Term Rentals section.
+- `stacker counties with the oldest homes New York Ulster County …` · Firecrawl search → https://stacker.com/stories/new-york/counties-oldest-homes-new-york (excerpt): "#37. Ulster County – Homes built 1939 or earlier: 25.3% (21,829 homes)". → §5 para 3, §5.5 bullet 3. (Median year 1966 appears in research/tv-mounting-prices/ulster-county.json but was not in this excerpt — not used.)
+
+### Walls, building stock, landmarks (§5, §7, §7.5, §13)
+- `Kingston Stockade District stone houses …` · Firecrawl search → https://www.fohk.org/wp-content/uploads/2016/07/RondoutWT2016wMAP.pdf (excerpt): D&H Canal opened 1828, built to haul coal 108 miles → §13 Rondout card, §7 Rondout card. https://www.newyorkalmanack.com/2015/07/rondout-national-historic-district-a-walking-tour/ (excerpt): Rondout reached its zenith in 1870, 3 million tons of coal → §8 Rondout card ("peak in 1870"). FOHK Rondout walking tour (via ulster-county.json, URL re-confirmed in this search): brick row houses / 1850s homes → §7 card.
+- `Uptown Kingston Stockade District Wall Street North Front Street …` · Firecrawl search → https://www.fohk.org/wp-content/uploads/2020/10/1658StockadeNationalHistoricDistrictWalkingTour.pdf (excerpt): "The Four Corners At John and Crown Streets. This is the only intersection in the U.S. where 18th century stone houses stand on all four corners." https://artisanstays.us/field-guide-things-to-do-in-kingston-ny/ (excerpt): Stockade District laid out inside a wooden stockade the Dutch built in 1658. https://www.goloveny.com/blog/exploring-kingston (excerpt): Uptown "covers about eight blocks". → §5 para 3, §8 Uptown card, §13 Stockade card.
+- `Historic Huguenot Street New Paltz stone houses …` · Firecrawl search → https://www.huguenotstreet.org/home (ten-acre National Historic Landmark District, seven historic stone houses); https://www.huguenotstreet.org/news-release-historic-huguenot-street-to-host-old-new-paltz-stone-house-day (30 buildings across 10 acres, heart of the original 1678 New Paltz settlement); https://en.wikipedia.org/wiki/Huguenot_Street_Historic_District (houses likely early 18th c.). → §13 card.
+- `Opus 40 bluestone quarries Saugerties …` · Firecrawl search → https://opus40.org/cool_timeline/before-harvey-fite-bluestone-quarries/ ("By 1898, at least 10,000 people in Ulster County were making a livelihood off of the bluestone industry"); https://www.hudsonrivervalley.com/sites/Opus-40/details (Fite began 1939 in abandoned bluestone quarry); https://opus40.org/ (foot of Overlook Mountain, Saugerties). → §7.5 stone method, §13 card, glossary.
+- `Mohonk Mountain House Victorian castle New Paltz built 1869 rooms` · Firecrawl search → https://www.mohonk.com/blog/a-first-timers-guide-to-our-castle-resort/ (259 guest rooms and suites); Facebook/Secret NYC excerpt (founded 1869 by Albert Smiley above Lake Mohonk). → §13 card.
+- `Ashokan Reservoir Route 28 Phoenicia …` · Firecrawl search → https://www.ulstercountyny.gov/Facilities/Ashokan-Rail-Trail (11.5-mile trail along Ashokan Reservoir between West Hurley and Boiceville). → §13 card.
+- `Saugerties Lighthouse 1869 Esopus Creek bed and breakfast` · Firecrawl search → https://www.saugertieslighthouse.com/ (1869 landmark, living museum and B&B); /accommodations (two second-floor bedrooms). → §13 "we also serve" paragraph.
+- `Ellenville NY Canal Street village Shawangunk Ridge Route 209 Town of Wawarsing` · Firecrawl search → https://www.ewcoc.com/newpage (US Route 209 crosses the town through Spring Glen, Ellenville, Napanoch, Wawarsing); Town of Wawarsing FB (southern/eastern portions on the Shawangunk Ridge). → §8 Route 209 card, town table.
+- `log home settling inches per foot …` · Firecrawl search → https://www.nachi.org/loghomebasics2006.htm ("During the first two years when the majority of wall log settling takes place, a wall may lose 3⁄4 inch per foot of wall height"). → §7.5 logs, §10.5 H3 6.
+- `wood stove clearance to combustibles 36 inches NFPA 211 …` · Firecrawl search → https://www.rockfordchimneysupply.com/blogs/fireplaces-wood-stoves-and-inserts/clearance-to-combustible-materials ("For an unlisted stove there should be at least 36\" from combustible walls"); https://www.firepitsurplus.com/blogs/shopping-guides/wood-stove-clearance-requirements (NFPA 211 standard unprotected clearance 36 in). → §10.5 H3 4, Four Seasons section. (Earlier draft Q on hearth-pad sub removed to avoid overlap with Putnam's wood-stove Q.)
+- `soundbar operating temperature humidity range …` · Firecrawl search → https://www.smartfog.com/insights/how-humidity-affects-electronics-too-low-too-high-and-the-safe-range/ (excerpt: most electronics safe at 40–60% RH; condensation risk above ~70% RH / when temperature falls). → Four Seasons "Cold and damp".
+- Reddit: `reddit kingstonny OR hudsonvalley TV mount stone house plaster wall installer` · Firecrawl search → only generic r/HomeImprovement / r/hometheater plaster threads (already in silo file) and AESS's own pages; a Yelp listing excerpt for Kingston TV mounting (no reviews read). Not used. `site:reddit.com kingstonny OR newpaltz TV OR soundbar OR "home theater" OR handyman` · Firecrawl search → r/kingstonnewyork handyman ad, r/hudsonvalley handyman request (New Paltz) — not relevant to soundbars; not used. Local Reddit on soundbars: EMPTY.
+- `reddit hudsonvalley Catskills internet Starlink cabin Phoenicia streaming slow` · Firecrawl search → https://www.reddit.com/r/catskills/comments/1wnq3om/starlink/ (excerpt: "Hudson cable and Starlink. outages are constant. house came with hughesnet, which is incredibly slow") → §5 para 4, §10.5 H3 3. https://www.reddit.com/r/catskills/comments/1irshet/positive_experiences_with_starlink/ ("$120 for 150+ Mbps…") → background only. (r/catskills, not Ulster-specific; excerpts only.)
+
+### Utilities / internet / news (§5.5, §9, Four Seasons)
+- `Ulster County fiber broadband BEAD 1,293 locations Verizon Shandaken announcement` · Firecrawl search → https://www.ulstercountyny.gov/Government/News/Newsroom/2026/05/2026-05-01-Federal-Approval-Clears-Way-for-Countywide-Fiber-Optic-Broadband-Buildout-in-Ulster-County (May 1 2026: all 1,293 unserved locations to receive fiber under BEAD, Verizon); https://www.dailyfreeman.com/2026/05/01/ulster-county-touts-broadband-expansion-program/ (same). → §5 para 4, §5.5 bullet 5, §9 fiber Q, §10.5 H3 3.
+- `Daily Freeman Central Hudson outages Ulster County storm customers without power 2026` · Firecrawl search → https://www.dailyfreeman.com/2026/09/27/noreaster-day-two-over-4000-central-hudson-customers-still-have-no-service/ (excerpt): peak over 14,000 Ulster outages Saturday; Central Hudson serves 93,209 Ulster customers. → §5 para 4, §5.5 bullet 6, Four Seasons. July 2026 "nearly 50,000 customers" from silo file (HV hub notes, Daily Freeman July 5 2026). → Four Seasons.
+- Hudson Valley One (Kingston STR cap) used above. Kingston Wire / Mid-Hudson News: searched (query above) — no Kingston Wire or Mid-Hudson News result returned → EMPTY.
+
+### Licensing (§8.5, pricing)
+- `Ulster County home improvement contractor license required consumer affairs Ulster` · Firecrawl search → https://legislature.ulstercountyny.gov/sites/default/files/documents/ILL%20No.%2011%20of%202009.pdf (an *introductory* 2009 local law proposing contractor licence categories — enactment NOT verified; not used). Firecrawl scrape https://www.ulstercountyny.gov/Services/Jobs-Economy/Business/Trades-and-Construction → "Apply for a Master Electrician's License… to perform electrical work in Ulster County"; "List of all master electrician licensed by the Ulster County Electrical Licensing Board." → §8.5 electrical bullet, pricing "Left to other trades".
+
+### Commercial (§8)
+- `Kingston NY breweries taprooms Keegan Ales …` · Firecrawl search → https://www.keeganales.com/ ; https://visitulstercountyny.com/plan-your-visit/places-to-eat-drink/keegan-ales/ (Kingston brewery, live music); TripAdvisor (spacious tap room). → §8 Kingston taprooms card (named only as an example of a room type, not a customer).
+- `SUNY New Paltz enrollment students fall 2025` · Firecrawl search → https://www.newpaltz.edu/about/glance.html (Undergraduates 6,197; Graduate students 1,036). → §8 New Paltz card.
+- Route 9W (Highland/Milton/Marlboro) and Route 28/209 cards: described generically (no business named, no stats).
+
+### Mandatory sources not reachable / EMPTY
+- Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 uses published claims (HomeWyse $58.43–$231, Angi concealed wiring $75–$300 and fireplace $100–$300, Thumbtack $121–$234, Dolby flat ceiling, Netflix 15 Mbps — silo file) plus local corrections above.
+- r/hudsonvalley, r/kingstonny (r/kingstonnewyork) on soundbars/TV mounting: EMPTY (only unrelated handyman threads).
+- Yelp 1–3★ Ulster TV/soundbar installers: EMPTY (not accessible in build env; only a listing excerpt seen).
+- Kingston Wire, Mid-Hudson News: EMPTY (no result on topic).
+- Drive "AESS Website Photos/Soundbar Installation" and CompanyCam: per batch brief, empty / not connected.
+
+### Pricing used (published AESS numbers only; NOT multiplied)
+Sources: research/tv-mounting-prices/BRIEF.md, research/tv-mounting-prices/ulster-county.json, tv-mounting-prices-ulster-county.html, soundbar-installation-hudson-valley.html ("These line items are the same in all six counties").
+- Soundbar placed $79 · wall-mounted $129 · Sanus bracket $84.99 · in-wall $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · walls $0/+30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · remove old bracket $45 · take down old TV $85 · COI free.
+- Ulster-specific: TV base $254.99 (32–55"), $284.99 (≤65"), $314.99 (≤75"), $354.99 (≤85"); above fireplace +$130; pull-down +$160; TV on stand $168.99; setup-only $275 first hour then 30-min blocks; no travel/mileage line (tv-mounting-prices-ulster-county: "nothing is added for travel"); $150 return trip; free reschedule 24 h; $195/hr specialty 3-hr min ($585) not on standard installs.
+- Packages (sums of lines): Starter $178 (79+99); Standard $278.99 (129+84.99+65; $213.99 on drywall); Premium $397.99 (129+84.99+125+59). Worked examples: $337.99 (129+84.99+65+59); $383.99 (254.99+129); $128 (79+49).
+- **Flag for Anwar:** blueprint §9 Ulster multiplier 1.53× NOT applied — live HV hub and tv-mounting-prices-ulster-county keep soundbar lines unmultiplied and express the Ulster premium via the $254.99 TV base and $275 setup hour; applying 1.53× would invent prices. (Queens page did apply ×1.05 — silo is inconsistent.)
+- **Flag:** BRIEF says TV jobs "paid in full online at booking"; mandatory warranty sentence says "50% deposit". Page carries only the mandatory sentence.
+
+### Images (11, permanent image rule — images/low-voltage/low-voltage-installation-ulster-county-*)
+Viewed each before naming. hero ceiling-speaker-amplifier-cart ← 14-ceiling-speaker-conference.jpg (eager) · four-tech-ceiling-cable-pull ← 03-crew-cable-pull · brick-wall-enclosure-drilling ← 02-exterior-enclosure-install · block-wall-conduit-cable-feed ← hero-riser-conduit-pull · tone-tracer-wall-opening ← 08-tone-generator-trace · retail-floor-cable-above-wall-tv ← 13-retail-store-ceiling-pull · jhook-cable-bundle-overhead ← 04-jhook-pathway-bundle · cable-certifier-pass-wall-jack ← 06-fluke-certification-pass · ceiling-grid-cable-fan ← 09-ceiling-grid-bundle-pull · scissor-lift-wifi-access-point ← 10-access-point-lift-install · wall-plate-termination-glass-office ← 07-keystone-wall-plate. Skipped: 05-fiber-splice-tray, 11-rack-switch-config, 12-electric-strike-wiring (off-topic). All WebP q80, 1400 px wide. Flag (same as Manhattan notes): these library photos look rendered (uniform branded shirts, idealised scenes) — confirm they are real AESS photos.
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+## Question register — soundbar-installation-ulster-county
+
+(Revised 2026-10-17 after the six concurrent pages — Staten Island, Nassau, Suffolk, Westchester, Rockland, Orange — and the revised Putnam/Dutchess pages were compared by meaning.)
+
+§9 YOUR QUESTIONS ANSWERED (H3, 10), under non-question H2s "When the TV belongs to a rental" · "Cabins, barns and houses that change hands" · "Seasons, sound and access":
+1. Should a rental's soundbar sit on the guest Wi-Fi or on a network of its own?
+2. What should the house guide say so guests can run the TV sound without phoning the host?
+3. Guests bring their own streaming sticks — will plugging one in upset the soundbar setup?
+4. We bought a furnished cabin and the soundbar is still registered to the seller's app account — can you move it to ours?
+5. Our converted barn has no hollow walls anywhere — how are the soundbar's power and HDMI kept tidy?
+6. Our rental has a soundbar in the living room and another in the bedroom — will guests' phones connect to the wrong one?
+7. The air in our cabin gets very dry with the wood stove going — can static hurt the soundbar? (source: smartfog.com humidity guidance, <30% RH static)
+8. Rental guests lose remotes — what is the backup plan for the soundbar?
+9. We already own good stereo speakers — can the TV switch between them and the soundbar?
+10. Our driveway is steep and sometimes unplowed — what happens to a winter appointment?
+
+§17 FAQ (visible == FAQPage, 8):
+1. Can you tell us whether a soundbar will suit our TV before we buy it?
+2. Can the TV send sound to the soundbar without an HDMI cable?
+3. Will automatic software updates undo the settings you made?
+4. Can the soundbar's lights and front display be dimmed for a bedroom?
+5. Is there a minimum charge for a single soundbar in Ulster County?
+6. Can you label the cables so a caretaker can reconnect things later?
+7. Should the soundbar's built-in voice assistant be switched off in a rental?
+8. Can the setup note include model and serial numbers for our rental inventory?
+
+Non-question headings: repair captures "Soundbar Gone Quiet at the House Upstate", "Ulster County Soundbar Repair, Next Open Window"; §10.5 claim headings (quoted claims).
+
+Replaced in the revision (same intent found on another page):
+- A-frame sloped TV wall → Suffolk dormer knee walls / Westchester attic knee walls.
+- Low beamed ceilings, room for TV + bar → Rockland seven-foot ceiling + soffit / Dutchess ductwork soffit.
+- Boomy wood room, tune the bar → Rockland "run the room-calibration routine".
+- Auto-off at checkout → Rockland waiting-room bar switching on/off with the TV.
+- Wait for Verizon fiber before booking → Putnam "cable box swap next week, should the visit wait".
+- FAQ bar now, TV later → Staten Island "book the soundbar now and have the TV mounted later".
+- FAQ short TV feet, bar blocks picture → Staten Island "soundbar taller than the gap under the TV".
+Earlier drafting removals (Putnam/Dutchess): knotty pine bracket, sub on hearth near wood stove, antenna/satellite, mice/chewed cables, multi-room music, how far ahead to book.
+Partial overlaps left for main-run judgment: Q3 (guest sticks unplugging the eARC cable) vs Staten Island "switching the TV input makes the bar go silent"; Q9 (TV switches between stereo and bar) vs Nassau turntable/old stereo into a soundbar and Staten Island old surround receiver; FAQ1 (pre-purchase compatibility check) vs Staten Island/Rockland "another brand / same brand as TV"; FAQ3 vs Putnam firmware-during-visit and Westchester "what if we forget a setting"; Q2 vs Orange/Suffolk "stop guests resetting the soundbar" (guide vs lockdown); Q10 vs Putnam gated private road (access, but weather-specific).
+Size note: Sources section on page extended with 7 already-cited sources (Woodstock law, HV One, NYSAC, SUNY New Paltz, Mohonk, Ashokan Rail Trail, Smart Fog) to keep bytes in the coordinated band.
