@@ -56,9 +56,9 @@ BUILDING 2026-10-17T07:40Z | fiber-optic-installation-ulster-county | Fiber Opti
 BUILDING 2026-10-17T07:57Z | sonos-installation-manhattan | Sonos Installation | Manhattan | up /sonos-installation-nyc | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T07:57Z | sonos-installation-brooklyn | Sonos Installation | Brooklyn | up /sonos-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T07:57Z | sonos-installation-queens | Sonos Installation | Queens | up /sonos-installation-nyc | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-bronx | Sonos Installation | Bronx | up /sonos-installation-nyc | (646) 490-0629 | GBP Bronx
-TODO | sonos-installation-staten-island | Sonos Installation | Staten Island | up /sonos-installation-nyc | (347) 934-8335 | GBP Brooklyn
-TODO | sonos-installation-nassau-county | Sonos Installation | Nassau | up /sonos-installation-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-17T08:20Z | sonos-installation-bronx | Sonos Installation | Bronx | up /sonos-installation-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T08:20Z | sonos-installation-staten-island | Sonos Installation | Staten Island | up /sonos-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T08:20Z | sonos-installation-nassau-county | Sonos Installation | Nassau | up /sonos-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | sonos-installation-suffolk-county | Sonos Installation | Suffolk | up /sonos-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | sonos-installation-westchester-county | Sonos Installation | Westchester | up /sonos-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 TODO | sonos-installation-rockland-county | Sonos Installation | Rockland | up /sonos-installation-hudson-valley | (845) 640-3835 | GBP Bronx
