@@ -153,9 +153,9 @@ LIVE | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation |
 LIVE | soundbar-installation-greenwich-village-manhattan-ny | Soundbar Installation | Greenwich Village, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-dumbo-brooklyn-ny | Soundbar Installation | DUMBO, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation | Jackson Heights, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T14:06Z | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T14:06Z | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T14:06Z | cat6-repair-midtown-manhattan-ny | Cat6 Repair | Midtown, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | cat6-repair-midtown-manhattan-ny | Cat6 Repair | Midtown, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T14:05Z | cat6-repair-williamsburg-brooklyn-ny | Cat6 Repair | Williamsburg, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T14:05Z | cat6-repair-long-island-city-queens-ny | Cat6 Repair | Long Island City, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T14:05Z | cat6-repair-fordham-bronx-ny | Cat6 Repair | Fordham, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx

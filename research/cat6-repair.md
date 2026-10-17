@@ -1884,3 +1884,101 @@ F9. What warranty comes with a Cat6 repair?
 Other "?" headings: "Ulster Link Down Since the Fiber Went In?" (repair capture), "Bought the House, Inherited the Wiring?" (CTA), "Taking Over an Ulster Property? What to Check in Its Cat6" (checklist section), "A Kingston-to-Catskills Link Still Dead Tonight?" (closing).
 
 De-dup notes (continuation run, compared by meaning against all 14 earlier registers in this file — NYC, LI, Bronx, Staten Island, Queens, Rockland, Orange, Putnam, Nassau, Suffolk, Westchester, Manhattan, Brooklyn, Dutchess): Q1 vs Rockland multi-gig ceiling and Dutchess multi-gig AP downshift — Q1 is where testing starts when a gigabit-or-less fiber plan is slow in one room; Q2 vs Westchester previous-owner basement corner, Orange new-build dead jacks, Suffolk never-worked apartment jacks, Brooklyn/Nassau provider moved router — Q2 is the missing central switch after a sale; Q3 (Cat5e behind a Cat6 plate) and Q4 (plugs on solid in-wall cable; Brooklyn's snap-in couplers is a different defect) have no match; Q5 Dante has no match. F1 vs Dutchess provider-outage damage and Putnam generator/PoE camera drop — F1 is why wired rooms die while the terminal stays up; F2 vs Rockland spare cable pulled alongside — F2 is a new jack in another room; F3 vs NYC Cat6A repaired with Cat6 parts / Cat6A on the van — F3 is choosing the replacement category; F4 vs Manhattan and Dutchess raised floors — F4 is acoustic treatment; F5 vs LI test before purchase — F5 is the seller's side; F6 vs Brooklyn rats in the walls — F6 is pet damage at the outlet; F7 no match; F8 vs Putnam/Suffolk photos and Queens keeping test results — F8 is the jack-to-port map; F9 no warranty question in any register.
+
+
+## Midtown, Manhattan (cat6-repair-midtown-manhattan-ny) — first Cat6 Repair neighbourhood page
+
+Batch run 2026-10-17 (subagent build; not committed). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl MCP (mcp__Firecrawl__firecrawl_search / firecrawl_scrape with directQuote). Shell curl blocked. Up-link /cat6-repair-manhattan; phone (929) 560-0737; GBP Bronx.
+
+**Thesis (differs from cat6-repair-manhattan and every borough/county page):** Midtown Cat6 rarely wears out — it is *disturbed by other people's work above the ceiling*. Density (GCP 76M sf / Times Square 31M sf offices) plus building-wide legal programmes (LL26 sprinklers, LL88 lighting + sub-metering, LL97 emissions retrofits) plus tenant churn (Comptroller flight-to-quality data) put lighting, mechanical, sprinkler, furniture and fit-out crews in the same ceiling band as tenant Cat6. Repairs are therefore post-trade sweeps with before/after certification, plenum-listed replacement lengths and independent re-support; plus Midtown-specific floor types (hot desks/docks, merged suites with two closets, pods over floor boxes, closets turned into pantries, landlord smart-building cable in new East Midtown towers, Garment District workrooms, MSMX conversions). The Manhattan page's thesis (inherited plant repaired inside the building window) is referenced via up-link, not repeated.
+
+### Reddit (local)
+- Query: `site:reddit.com Midtown office ethernet ports dead building IT cabling NYC` · Firecrawl search (excerpts only, reddit not scraped) → https://www.reddit.com/r/lowvoltage/comments/1pbz8dk/recommendation_needed_to_run_ethernet_in_midtown/ (excerpt: 17 ethernet runs for a commercial building, 3 rooms, Midtown); https://www.reddit.com/r/sysadmin/comments/7nop3w/cabling_contractor_for_100person_office_midtown/ (excerpt: recommendation for low-voltage contractor for a new 100-user Midtown office). → Sources section "forum context" only; nothing quoted. Midtown threads about *failing* Cat6: EMPTY (not accessible in build env).
+
+### Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 says on the page that the AI Overview could not be opened; each H3 is framed as a commonly published claim and corrected with sourced facts.
+
+### Office market / districts / building stock
+- Query: `Grand Central Partnership district office space square feet workers ...` · Firecrawl search → scrape https://www.grandcentralpartnership.nyc/about (directQuote): founded mid-1980s; ~70 blocks, 35th–54th St, Second–Fifth Ave; 76 million sq ft commercial/residential/retail; "more than a quarter million office workers". → §5 para 2, §5.5 fact 1, §13 Grand Central card, Sources.
+- Query: `Times Square hotels number of hotel rooms Midtown Times Square Alliance office space square feet` · search → scrape https://www.timessquarenyc.org/business-community/market-research-data (directQuote): 0.1% of city land; ~10% of jobs; "nearly 180,000 workers, 19,000+ hotel rooms, and 31 million SF of office space". → §5 para 2, §5.5 fact 2, §8 retail/hospitality para, §13 Times Square card, Sources.
+- Query: `Midtown Manhattan office occupancy 2025 Kastle return to office Midtown leasing record sublease` · search → scrape https://comptroller.nyc.gov/reports/nycs-office-market-doom-loop-or-boom-loop/ (directQuote; Nov 13 2025, CoStar): FY2025 net change in occupied space 5-star +3,348,666 sf, 1–4 star −1,092,097 sf; 5-star ≈10% of NYC office space, almost all in Manhattan CBD south of 59th St; Manhattan CBD availability 14.3% 2025 Q4. → §5 para 4, §5.5 fact 5, Sources. (Avison Young / Colliers / JLL excerpts in same search not used.)
+- Query: `Midtown South Mixed-Use Plan approved City Council 42 blocks Garment District residential conversions` · search (excerpts) → https://council.nyc.gov/press/2025/08/14/2940/ (approved Aug 14 2025; largest residential neighbourhood rezoning in two decades; 9,500+ units); https://sitemaps.cb5.org/blog/project/midtown-south-mixed-use-rezoning/ (≈42 blocks, W 23rd–W 40th, Fifth–Eighth Ave); https://newyorkyimby.com/2025/08/city-council-approves-midtown-south-mixed-use-plan.html (introduces residential zoning to an area previously limited to commercial and industrial uses). Scrape of https://www.midtownsouthplan.nyc/ returned only "42 blocks of Midtown South". → §5.5 fact 6, §9 Q (showroom during conversion), §8 Garment card, Sources.
+- Query: `Garment District Alliance district boundaries square feet office space businesses about` · search (excerpt) → https://garmentdistrict.nyc/history: district settled between 9th Ave and Broadway, 34th–42nd St; Special Garment Center District 1987 restricted ~8 million sq ft to manufacturing. → §8 Garment card, Sources.
+- Query: `Garment Center historic district Landmarks Preservation Commission designated loft buildings Seventh Avenue` · search → scrape https://www.nyc.gov/site/lpc/about/pr2025/lpc-designates-five-garment-industry-related-buildings.page (directQuote; Aug 12 2025): five buildings designated (Barbey Building 1908–09; Fashion Tower 135 W 36th, 20 storeys, 1924–25, Emery Roth; Furcraft; 29th Street Towers; Lefcourt Clothing Center 275 Seventh Ave, 27 storeys, designed 1927, Ely Jacques Kahn). → §8.5 Landmarks callout, §13 card, Sources.
+- Query: `East Midtown rezoning 2017 new office towers One Vanderbilt 270 Park Avenue Grand Central` · search (excerpts) → https://www.nyc.gov/content/planning/pages/our-work/plans/manhattan/greater-east-midtown (One Vanderbilt special permit for extra floor area in return for ~$225M of Grand Central improvements); https://slgreen.com/sl-green-celebrates-the-historic-opening-of-one-vanderbilt-avenue/ (terracotta façade echoing Grand Central ceiling tiles; SL Green gives 1.7M sf — NOT used because DCP gives 1.3M sf zoning floor area; conflict avoided by omitting the size). → §7 New towers card, §13 card, §9 Q (landlord smart-building cable), Sources.
+- Query: `270 Park Avenue JPMorgan Chase headquarters opened 2025 employees floors` · search (excerpt of press release) → https://www.jpmorganchase.com/newsroom/press-releases/2025/grand-opening-270-park and /newsroom/stories/jpmc-celebrates-new-global-hq-at-270-park-ave: opened Oct 21 2025; 60 storeys; 2.5M sf; 10,000 employees; State Sen. Liz Krueger's statement: "the first new office tower built under the East Midtown Rezoning" (attributed on page). → §7 card, §13 card, Sources.
+- Rockefeller Center (19 buildings, 22 acres, 48th–51st, from 1931, core 1939) — carried from the Manhattan section above (Wikipedia scrape by earlier run). → §8 Sixth Ave card, §13 card.
+
+### Local licensing / code / building rules
+- Query: `Local Law 88 lighting upgrades deadline January 1 2025 buildings over 25,000 square feet NYC` · search → scrape https://www.nyc.gov/site/buildings/codes/ll88-lighting-system-upgrades-sub-meter-installation.page (directQuote): covered buildings >25,000 gsf; covered tenant spaces >5,000 gsf; lighting compliance and sub-metering on and after Jan 1 2025; reports due May 1 2025 ($115 fee). → §5 para 3, §5.5 fact 3, §9 Q1, trades table, Sources.
+- Query: `Local Law 26 of 2004 sprinklers office buildings 100 feet or higher deadline July 1 2019 NYC` · search (excerpt) → https://www.nyc.gov/assets/buildings/pdf/ll26of2004_reminder.pdf: full sprinklers in office buildings over 100 ft, complete on or before July 1 2019. → §5 para 3, §5.5 fact 4, trades table, Sources. (Fiber Midtown page already asks a LL26/sprinkler-hanging question — not used as a question here.)
+- Query: `Local Law 97 office building retrofits Midtown HVAC electrification 2030 emissions limits buildings over 25,000 square feet` · search (excerpt) → https://www.nyc.gov/site/buildings/codes/ll97-greenhouse-gas-emissions-reductions.page: most buildings >25,000 sf, limits from 2024, stricter 2030. → §5 para 3, §9 Q2, Sources.
+- Query: `NYC after hours variance AHV construction work weekdays 7 a.m. 6 p.m. noise code interior work exemption DOB` · search → scrape https://www.nyc.gov/site/buildings/industry/after-hour-variances.page (directQuote): AHV required for construction activity before 7:00 am, after 6:00 pm, or Sat/Sun; filed ≥3 business days before first work day; 14-day window. Page does NOT say whether no-permit low-voltage repair is "construction activity" — the page therefore applies AHV only to work that grows into construction (e.g. coring) and otherwise defers to building rules. → §8.5 after-hours callout, "Quiet Work, Loud Work" section, Sources.
+- Query: `NEC 2020 800.113 CMP plenum cable "other spaces used for environmental air" ceiling cavity communications cable requirement` · search → scrape https://www.cablinginstall.com/standards/cabling-standards/article/16465916/data-communications-cables-in-air-ducts-and-plenums (directQuote; Sept 2011): ceiling cavity plenum = NEC "other spaces used for environmental air"; Chapter 8 permits Types CMP and CATVP there. → §8.5 cable-listing callout, §10.5 H3 "any Cat6", equipment card, Sources. (NYC-amendment text on plenum cable: EMPTY — not retrieved; page cites the NEC framing plus the nyc.gov electrical-code effective date already in this file.)
+- Reused from silo/Manhattan sections: Admin Code §28-105.4.7 (LL128/2024); NYC Electrical Code (2020 NEC) effective Dec 21 2025; NEC 800.25 abandoned cable; LPC permits page. → §8.5 callouts.
+
+### Local news / hyperlocal
+- Query: `Midtown Manhattan water main break flooding basements 2025` · search → only Inwood (ABC7, already used on Manhattan page), Pelham Bay (Bronx) and 14th St/1st Ave (EV Grieve, Aug 2026 — East Village, not Midtown). Midtown-specific incident relevant to cabling: EMPTY. Not used.
+- Midtown news on Cat6/network cabling failures: EMPTY (no result).
+
+### Prices used (live AESS Manhattan pages only; no new prices)
+- $195/hr, 3-hr minimum ($585); replacement run from $175; evening freight-window premium as a named line — network-cable-repair-manhattan.html (as carried by cat6-repair-manhattan.html).
+- New-drop benchmark Cat5e $254 / Cat6 $296 / Cat6A $424 — cat6-installation-manhattan.html.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — third-party, labelled.
+- No §9 multiplier applied on top (same basis and FLAG as the Manhattan section above).
+
+### Images (11) — Step C library; Drive "AESS Website Photos/Cat6 Repair" EMPTY (main run 14:07Z), CompanyCam not connected
+All 11 are crops of the AESS photos already in images/cat6-repair/ (aess-cat6-repair-*), cropped to remove technicians' faces (and, for the access-point photo, the head/hard hat), resized ≤1600 px, WebP q80. Each looked at before naming; alt/title/caption describe only what is visible; no building is named.
+| new file (images/cat6-repair/) | source | crop |
+|---|---|---|
+| cat6-repair-midtown-manhattan-certifier-pass-laptop-labelled-rack.webp (hero) | aess-cat6-repair-certifier-results-labeled-rack.webp | right 53% |
+| cat6-repair-midtown-manhattan-tester-at-numbered-panel.webp | aess-cat6-repair-testing-labeled-patch-panel.webp | right 52% |
+| cat6-repair-midtown-manhattan-cable-coil-fed-above-ceiling.webp | aess-cat6-repair-pulling-cat6-above-ceiling.webp | right 55% |
+| cat6-repair-midtown-manhattan-torn-jacket-on-steel-edge.webp | aess-cat6-repair-damaged-cat6-jacket-sharp-edge.webp | full (no face) |
+| cat6-repair-midtown-manhattan-ceiling-access-point-cable.webp | aess-cat6-repair-access-point-cable-repair.webp | right 58%, top 34% |
+| cat6-repair-midtown-manhattan-checkout-counter-switch-ports.webp | aess-cat6-repair-pos-counter-cable-repair.webp | right 50% |
+| cat6-repair-midtown-manhattan-desk-wall-jack-retermination.webp | aess-cat6-repair-office-wall-jack-repair.webp | right 70%, bottom 55% |
+| cat6-repair-midtown-manhattan-tone-probe-trace-at-rack.webp | aess-cat6-repair-toning-cable-at-rack.webp | right 55% |
+| cat6-repair-midtown-manhattan-channel-test-pass-at-rack.webp | aess-cat6-repair-cat6-channel-certification-test.webp | right 55% |
+| cat6-repair-midtown-manhattan-wire-map-pass-at-patch-panel.webp | aess-cat6-repair-wire-map-test-patch-panel.webp | right 50% |
+| cat6-repair-midtown-manhattan-keystone-punch-down-t568b.webp | aess-cat6-repair-punching-down-cat6-keystone.webp | right 78% |
+Not used: before-after-rack-cleanup (faces in both panels), crimping-rj45 and poe-camera-cable-test (faces; the camera photo also shows parked cars). DAILY-LOG note suggestion: `images: 11 cropped from AESS photos in images/cat6-repair/ (aess-cat6-repair-*; faces cropped out)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Midtown, Cat6 cable repair Midtown Manhattan, Cat6 re-termination, recertification, post-trade ceiling sweep, before-and-after certification, plenum replacement run, re-support, port map.
+- Problem: links lost after lighting/duct/sprinkler/furniture work, hot desk offline, dock vs cord vs link, merged-suite two-closet faults, pod over floor box, hidden punch block after closet removal, landlord cable in tenant ceiling, workroom lint/heat/traffic damage.
+- Technology: CMP plenum cable, "other spaces used for environmental air", 90 m permanent link, consolidation point, PoE room panels, PoE lighting, J-hooks/independent support, T568A/B.
+- Industry: Class A/B offices, finance/law HQs, media on Sixth Ave, Plaza District firms, Garment District showrooms and workrooms, Times Square hotels/theatres, restaurants/retail, U.N.-area missions/NGOs.
+- Geographic: Midtown, Grand Central, East Midtown, Plaza District, 57th St, Sixth Ave, Rockefeller Center, Times Square, Theater District, Garment District, Penn Plaza, Turtle Bay, Murray Hill, Bryant Park, Herald Square, Koreatown, NoMad, Hell's Kitchen, Columbus Circle.
+
+### Masked similarity (geo masked incl. Midtown/Grand Central/Garment District/Times Square; blocks p/li/td/h2/h3/figcaption ≥8 words; word-level difflib)
+Final build 227,952 B / 13,814 rendered words. Max non-constant block vs any Cat6 sibling 0.61 (pricing-table benchmark line vs cat6-repair-staten-island; ADT/Ring line and AI-method note vs cat6-repair-manhattan). Blocks ≥0.65 are only blueprint-excluded constants: warranty sentence, licence/rating strip, Bronx NAP line, fixed H2 patterns "What AI Gets Wrong About Cat6 Repair in …" and "Every Cat6 Cable Repair Service We Handle in …". Vs fiber-optic-installation-midtown-manhattan-ny (cross-silo): only constants ≥0.65 after rewrite. File size placed above 224.5 KB to clear the ±2 KB clone window of every sibling (nearest: cat6-repair-manhattan 222,470 B; margin ≈5.5 KB) — JSON-LD indentation is wide for that reason.
+
+## Question register — cat6-repair-midtown-manhattan-ny
+
+§9 "Questions Answered" (H3):
+1. The building's Local Law 88 lighting upgrade is moving floor by floor — what should we test before and after the electricians reach us?
+2. The mechanical contractor is replacing ductwork and air boxes above our ceiling for the building's emissions work — should our Cat6 be moved first or repaired afterwards?
+3. Since prefabricated phone booths and focus pods went onto our floor, the desks beside them keep losing network — how are those two things connected?
+4. Our booking system shows hot desks as "offline" even when people are sitting at them — is that the dock, the desk cord or the Cat6 in the floor?
+5. Our suite was combined with the one next door, and the two old telecom closets were never merged — why do some desks fail whenever the other closet's switch is restarted?
+6. In our last renovation the small telecom closet on the floor became a pantry — where did its Cat6 go, and can it still be repaired?
+7. In our new East Midtown tower the landlord's smart-building network runs through the same ceiling — how do we know which Cat6 is ours before anything is cut?
+8. Our showroom stays open while the floors above are converted to apartments under the Midtown South rezoning — how do we keep our Cat6 working through the construction?
+9. Our Garment District workroom still cuts, sews and presses on the same floor as the office — what does that do to the Cat6, and how should it be repaired?
+
+FAQ (§17, = FAQPage schema):
+F1. Do you need the building's loading dock booked, or can a repair technician come in through the main lobby?
+F2. Some Midtown buildings only allow union contractors — can you work in those?
+F3. Do you repair the Cat6 behind the room-booking panels outside our meeting rooms?
+F4. Our floor has blue, yellow and grey Cat6 — does the colour matter when a run is repaired?
+F5. Will lifting ceiling tiles set off the smoke detectors or the building's fire alarm?
+F6. Our new floor uses PoE-powered lighting on Cat6 — do you repair those links as well?
+F7. Can a Midtown repair visit cover our office and our second suite in another building on the same day?
+
+Other "?" headings: "Network Jack Dead on a Midtown Floor This Morning?" (repair capture), "Midtown Desks Still Offline After the Trades Went Home?" (closing).
+
+Avoided (by meaning): Westchester "electrician's lighting retrofit … how is damage by another trade documented" (Q1 here is pre/post baseline planning around a scheduled building programme, not documenting damage already done); Suffolk/Queens lease-acceptance and inherited-storefront testing; Manhattan power-pole, glass room, raised floor, poke-through, zone box, riser vendor, sublet/co-working, written scope, building engineer; fiber Midtown LL26 sprinkler-hanging and Times Square sign questions; Orange hotel guest-room and restaurant-before-opening; Dutchess three-shift and badge/escort; Rockland/Westchester password; NYC 100 Mbps, PoE port, re-pull; HV "what can we send"; LI travel charge; Ulster labelling list; Bronx/Westchester boiler/steam-riser heat. Plenum kept to body text (cat6-installation-manhattan asks a plenum question). Permit/licence and AHV kept to body text.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing & DDG, Yelp 1–3★; Reddit threads on failing Midtown Cat6; Midtown local news on cabling failures or Midtown-specific flooding; NYC-amendment text on plenum cable; Manhattan building contractor-rule documents (carried EMPTY from Manhattan section).
