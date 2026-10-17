@@ -124,3 +124,4 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-morris-bronx-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-st-george-staten-island-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-midtown-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-stapleton-staten-island-ny | QUEUED
