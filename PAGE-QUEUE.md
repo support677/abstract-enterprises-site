@@ -153,8 +153,23 @@ LIVE | soundbar-installation-new-dorp-staten-island-ny | Soundbar Installation |
 BUILDING 2026-10-17T13:25Z | soundbar-installation-greenwich-village-manhattan-ny | Soundbar Installation | Greenwich Village, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T13:25Z | soundbar-installation-dumbo-brooklyn-ny | Soundbar Installation | DUMBO, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T13:25Z | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation | Jackson Heights, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T14:06Z | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T14:06Z | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T14:06Z | cat6-repair-midtown-manhattan-ny | Cat6 Repair | Midtown, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
+TODO | cat6-repair-williamsburg-brooklyn-ny | Cat6 Repair | Williamsburg, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | cat6-repair-long-island-city-queens-ny | Cat6 Repair | Long Island City, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
+TODO | cat6-repair-fordham-bronx-ny | Cat6 Repair | Fordham, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
+TODO | cat6-repair-st-george-staten-island-ny | Cat6 Repair | St. George, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | cat6-repair-financial-district-manhattan-ny | Cat6 Repair | Financial District, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
+TODO | cat6-repair-park-slope-brooklyn-ny | Cat6 Repair | Park Slope, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | cat6-repair-flushing-queens-ny | Cat6 Repair | Flushing, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
+TODO | cat6-repair-riverdale-bronx-ny | Cat6 Repair | Riverdale, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
+TODO | cat6-repair-new-dorp-staten-island-ny | Cat6 Repair | New Dorp, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | cat6-repair-upper-west-side-manhattan-ny | Cat6 Repair | Upper West Side, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
+TODO | cat6-repair-bay-ridge-brooklyn-ny | Cat6 Repair | Bay Ridge, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | cat6-repair-astoria-queens-ny | Cat6 Repair | Astoria, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
+TODO | cat6-repair-mott-haven-bronx-ny | Cat6 Repair | Mott Haven, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
+TODO | cat6-repair-tottenville-staten-island-ny | Cat6 Repair | Tottenville, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
