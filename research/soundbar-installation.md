@@ -3140,3 +3140,258 @@ Other question-form headings: "Bay Ridge Soundbar Silent, Laggy or Hanging Crook
 De-dup notes: checked by meaning against every question on the 16 area pages and the two batch sisters as on disk. Deliberately avoided: COI/board approval (NYC), freight elevator hours (NYC), plaster cracking (NYC), party-wall drilling/chimney breast/nogging (Brooklyn), sub below neighbours (NYC), noise code (NYC), picture rail hanging (Dutchess) and picture-rail trim (Putnam) — handled only in body text, wallpaper (Queens) — Lincrusta in body only, radiator under TV (Queens/Manhattan/Nassau), window-wall glass (Queens/Manhattan), external noise masking dialogue (Queens LaGuardia) — Belt Parkway not used, Atmos under special ceilings (Staten Island/HV) — coffered ceiling not used, router floors away (Brooklyn/Rockland/Suffolk), salt air (LI), on-post military housing (Orange), moving between apartments (Brooklyn/Nassau/Rockland), TV-too-high lowering and co-op written note and move-in timing (answered once in body, so dropped from FAQ), parking/travel charge (NYC/Brooklyn), demonstration before leaving (Brooklyn), hearing aids (Nassau/Queens/Westchester), waiting-room volume lock (Manhattan/Staten Island) — Q11 is speech privacy, not volume lock. Closest masked heading match on disk: Q2 vs Westchester "TV wall … backs onto the building corridor — can the wires go inside it?" (0.615 word similarity; different intent: fire-rated shaft and bracket vs in-wall wiring in a corridor wall).
 Masked paragraph similarity (difflib on geo-masked paragraphs ≥12 words, boilerplate NAP/licence/warranty/consent excluded): max 0.615 vs any sibling.
 Re-dedup 2026-10-17 (after riverdale-bronx-ny, st-george-staten-island-ny, tribeca-manhattan-ny went live): 5 questions replaced as marked above (2 flagged by main run, 3 more found on recheck: curved wall, mirror wall, booking lead time). Page edited in place (no rebuild); the elevator-shaft and curved-wall material remains only in body text, the SVG and price-table wording, not as questions.
+
+
+## Williamsburg, Brooklyn (soundbar-installation-williamsburg-brooklyn-ny)
+
+Built 2026-10-17 (batch with forest-hills-queens-ny and pelham-bay-bronx-ny; first neighbourhood pages in the silo). Up-link /soundbar-installation-brooklyn; phone (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing = Brooklyn base (1.00×), lines copied exactly from soundbar-installation-brooklyn.html (itself from research/tv-mounting-prices/BRIEF.md). No new prices.
+Format: exact query · platform · URL · finding · page+section used. "WebSearch"/"WebFetch" = built-in tools; "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only).
+
+**Thesis:** Williamsburg rooms were mostly not built as living rooms — heavy-timber and concrete factory lofts (Loft Law), boutique/landmark conversions (Gretsch, Wythe), post-2005 waterfront/Domino towers, and tenement railroad flats. The hard part is the room (structure to fix into, echo/scale of lofts, partial-height partitions, long listening distances) and the loud outdoor background (J/M/Z elevated, bridge, nightlife), not the party wall (Brooklyn page's thesis).
+
+### 1. Reddit
+- `r/Williamsburg OR r/Brooklyn Williamsburg apartment neighbor bass soundbar noise loft echo` · Firecrawl search · https://www.reddit.com/r/williamsburg/comments/1sg8taq/north_williamsburg_noise_in_the_summer/ (excerpt only, thread not opened) · "If your bedroom faces the street it's going to be pretty loud." · §5 para 5.
+- `reddit Williamsburg apartment thin walls new construction hear neighbors bass` · WebSearch · no Reddit result; nearest: https://streeteasy.com/talk/discussion/2850-opinions-on-new-devs-in-williamsburg (WebFetch; posts dated only "over 18 years ago") — "the walls are all so thin she can hear every conversation her neighbors have" · background only, NOT quoted on page.
+
+### 2–5, 8. Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG
+- EMPTY (not accessible in build env). §10.5 uses the silo's published cost-guide claims (HomeWyse, Thumbtack, Angi, Dolby) already recorded in this file — not re-fetched.
+
+### 6. Landmarks (§13 cards; none reuse the Brooklyn page's Domino card wording — Domino card here is paired with One South First)
+- `Williamsburgh Savings Bank 175 Broadway Driggs Avenue landmark dome 1875 George B. Post` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Williamsburgh_Savings_Bank_Building_(175_Broadway) · NW corner Broadway & Driggs Ave; George B. Post; opened 1875; exterior landmark May 17, 1966, interior June 25, 1996; banking hall = Weylin event venue since Feb 2014 · §13 card, §8.5 landmark bullet.
+- `Gretsch Building 60 Broadway Williamsburg guitar factory converted condos` · WebSearch → WebFetch https://www.cityrealty.com/nyc/williamsburg/the-gretsch-60-broadway/33801 · 1916 musical instrument factory; converted 2003–2005; 130 apartments; "12-13 foot ceilings" (floor count conflicts 10/14 — not used) · §5 para 3, §7 card, §13 card.
+- `Wythe Hotel 1901 factory building Williamsburg converted hotel N 11th Street` · WebSearch → WebFetch https://www.wythehotel.com/about · 1901 cooperage by Theobald Engelhardt; later textile factory; conversion began 2008; "heavy Southern Yellow Pine timbers" · §5 para 3, §7 card, §13 card.
+- `Williamsburg Brooklyn tenement buildings walk-up history Southside Northside housing stock` · WebSearch → WebFetch https://s-media.nyc.gov/agencies/lpc/lp/2135.pdf (LPC designation report, Williamsburg Houses, June 24, 2003) · built 1935–38 (PWA/NYCHA); 20 four-storey walk-ups; reinforced concrete walls faced with tan brick; 1,620 (or 1,622) apartments; bounded Bushwick Ave/Leonard St/Maujer St/Scholes St; "one of the earliest public housing developments in the United States" with modern architecture · §13 card, pricing table (concrete line).
+- `Domino Park Williamsburg six acres opened June 2018 ...` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Domino_Park · opened June 10, 2018; quarter mile along East River; James Corner Field Operations (acreage conflicts 5 vs 6 — not used) · §13 card.
+- `Domino Sugar refinery redevelopment Williamsburg towers One South First 325 Kent apartments units` · WebSearch → WebFetch https://www.6sqft.com/williamsburgs-tallest-tower-tops-out-at-domino-sugar-factory-development/ (May 21, 2019) · One South First (260 Kent Ave) 435 ft; 330 rentals; Domino plan 2,800 rentals across four buildings · §5 para 4, §13 card.
+- `McCarren Park Williamsburg Greenpoint acres pool 1936 ...` · WebSearch → WebFetch https://en.wikipedia.org/wiki/McCarren_Park · 36 acres; bordered by Nassau Ave, Bayard St, Lorimer St, N 12th St; pool opened July 31, 1936; reopened June 28, 2012 · §13 card.
+- `Marsha P. Johnson State Park Williamsburg renamed East River State Park Kent Avenue N 7th` · WebSearch → WebFetch https://gaycitynews.com/brooklyn-park-east-river-marsha-p-johnson/ · renamed from East River State Park, announced by Gov. Cuomo on Aug 24 (Johnson's 75th birthday; year not stated in article — not used); main gate N 8th St on Kent Ave · §13 card. (parks.ny.gov press-release URL returned only a headline list — EMPTY.)
+- `Williamsburg Bridge opened 1903 longest suspension bridge ...` · WebSearch → WebFetch https://en.wikipedia.org/wiki/Williamsburg_Bridge · opened Dec 19, 1903; carries J/M/Z (two tracks) and eight traffic lanes; longest suspension span until 1924; main span 1,600 ft · §5 para 5, §5.5 bullet.
+
+### 7. Building stock / use cases / regulation
+- `Williamsburg Brooklyn Loft Law interim multiple dwelling buildings North Brooklyn 2010 amendment` · WebSearch → WebFetch https://www.nyc.gov/site/loftboard/about/about.page · Loft Law = MDL Art. 7-C, 1982, Loft Board; IMDs; 2010 expansion (3+ families, 12 consecutive months between Jan 1, 2008 and Dec 31, 2009); further amendments 2013, 2015; 2019 (2015–2016 window); units generally not in an IBZ, with exceptions incl. Greenpoint, Williamsburg, parts of North Brooklyn · §5 para 2, §5.5 bullet, §7 card, Q&A legalization question.
+- `Greenpoint-Williamsburg rezoning 2005 NYC City Planning 175 blocks ...` · WebSearch → WebFetch https://therealdeal.com/2005/05/03/massive-w-burg-greenpoint-rezone-flies/ · "a 175-block area of Greenpoint and Williamsburg" (May 3, 2005; Council vote "next week") · §5 para 4, §5.5 bullet.
+- Greenpointers 2025 (2,306 units in 2023 in CB1) — reused from the Brooklyn section of this file (https://greenpointers.com/2025/05/13/a-walking-tour-looks-back-on-the-legacy-of-the-2005-greenpoint-williamsburg-waterfront-rezoning/) · §5 para 4, §5.5 bullet.
+- `Brooklyn Community District 1 Greenpoint Williamsburg population housing units community district profile` · WebSearch → WebFetch https://censusreporter.org/profiles/79500US3604301-nyc-brooklyn-community-district-1-williamsburg-greenpoint-puma-ny · ACS 2024 1-year: population 218,831; housing units 92,627 (±5,327); tenure/year-built not on page (not used) · §5.5 bullet 1.
+
+### 9. Local news
+- `Williamsburg Brooklyn noise complaints 311 most neighborhood nightlife` · WebSearch → WebFetch https://www.renthop.com/research/new-york-city-is-getting-louder-and-louder/ (June 29, 2021) · NTA "North Side-South Side" (commonly Williamsburg): most complaints in Brooklyn, 3,746 (Mar 1–Jun 14, 2021), up 70.7% · §5 para 5, §5.5 bullet.
+- same query → WebFetch https://new.patch.com/new-york/bushwick/these-are-brooklyn-s-noisiest-bars (July 26, 2018, Localize.city data) · Union Pool, 484 Union Ave: 110 complaints on 65 days (June 2017–June 2018). Other bars listed (Grant St, Broadway 580, Flushing Ave) not used — locations doubtful for Williamsburg · §8.5 bullet.
+- `J M Z elevated train Broadway Williamsburg noise residents apartments` · WebSearch → WebFetch https://www.brickunderground.com/buy/how-above-ground-trains-affect-housing-prices (Aug 2, 2016) · agent: "The impact of traffic or a train nearby is much less in new construction because of soundproofing"; triple-paned windows "typical in rentals" · "Sound Outside" section.
+
+### 10. Hyperlocal (Greenpointers, Brooklyn Paper, BK Reader)
+- Soundbar/TV-audio specific hyperlocal items for Williamsburg: none found (Brooklyn Paper "whine connoisseurs"/"crime is down but noise still nettles" surfaced in search, not opened, not used). EMPTY for the service category.
+
+### 11. Yelp 1–3★
+- EMPTY (not accessible in build env).
+
+### Technical / silo sources reused (not re-fetched)
+- Sonos Beam Gen 2 / Ray / Arc Ultra specs; Crutchfield HW-Q990D; Sanus WSSATM1/SASB1; Dolby 7.5–14 ft ceiling; eARC vs ARC; DEP Noise Code summary (42 dB / 7 dB / 6 dB(C) over 62 dB(C), 10 PM–7 AM); ADA 2010 §307.2 4-inch rule; HomeWyse $58.43–$231 (Sept 2026), Thumbtack $121–$234, Angi bracket $30–$100 and permits claim — all as recorded earlier in this file.
+
+### Images (11) — real AESS soundbar photos (Anwar 2026-10-17 set), NOT low-voltage reuses
+Drive "AESS Website Photos/Soundbar Installation" empty at 10:05Z; CompanyCam not connected. images/soundbar-installation/ already holds Anwar's 13 real soundbar photos (DAILY-RUN Step C + his instruction "use these not the others"), so 11 of the 13 were used. Excluded conference-room-handover and homeowner-remote-walkthrough (customer faces). Technician faces cropped out; WebP q80, ≤1600 px. Source → new name:
+level-check-under-tv (crop top) → williamsburg-level-check-on-mounted-bar (hero, eager) · waiting-room-tv-soundbar → williamsburg-lobby-tv-slim-soundbar · home-gym-wall-soundbar → williamsburg-home-gym-tv-and-bar · desk-compact-soundbar → williamsburg-desk-compact-bar-setup · rear-surround-speaker-stands (crop right) → williamsburg-rear-speaker-stand-adjust · console-soundbar-placement (crop right) → williamsburg-console-bar-in-front-of-tv · cabinet-cable-management (crop left) → williamsburg-cabinet-cable-strapping · app-sound-check-tablet (crop left) → williamsburg-tablet-sound-check-app · bracket-leveling-under-tv (crop left) → williamsburg-bracket-level-under-screen · unboxing-bracket-hardware (crop top) → williamsburg-unboxed-bar-and-bracket · full-motion-mount-attachment (crop left) → williamsburg-articulating-arm-bar-attach. (All prefixed soundbar-installation-, .webp.)
+
+## Question register — soundbar-installation-williamsburg-brooklyn-ny
+
+§9 YOUR QUESTIONS ANSWERED (H3), under non-question H2s "Factory lofts and Loft Law buildings" · "Open plans, giant screens and long rooms" · "Tenement flats and new buildings":
+1. Our loft's TV wall is a run of heavy timber posts with brick between them — can the bracket bolt into a post?
+2. When the brick in a loft stays exposed, do the anchors go into the mortar joints or the face of the brick?
+3. Our ceiling is bare concrete with sprinkler pipe and surface conduit — can the soundbar cable come down from overhead?
+4. Our building is still going through Loft Board legalization — should the soundbar wait until that work is done?
+5. We're hanging a 98-inch TV — is any soundbar wide enough to look right under a screen that big?
+6. Our sofa sits about twenty-five feet from the TV in an open loft — will a soundbar carry that far?
+7. The bedroom in our loft is a glass partition that stops short of the ceiling — how do we keep late-night sound out of it?
+8. Our apartment is a railroad flat with every room in a line — which room should hold the TV so the sound doesn't travel straight to the back?
+9. The developer left an empty conduit from the TV spot to a closet — can the soundbar cable go through it?
+
+§17 FAQ (visible == FAQPage, 8):
+1. We run a business out of our live/work loft. Is the soundbar priced as residential or commercial?
+2. Can a soundbar be clamped to a steel beam or column without drilling it?
+3. Can a TV and soundbar hang on a partition that stops short of the ceiling?
+4. Our raw space has plywood walls. Does that make mounting easier or harder?
+5. Our TV sits on a floor-standing easel in front of the brick. Where does the soundbar go?
+6. Can you set up a soundbar on a rolling TV cart for an event space or studio?
+7. Will you note where every anchor went so we can show the landlord at move-out?
+8. Do you work with stagers or designers getting a Williamsburg condo ready to photograph or sell?
+
+Other question-form headings: H2 "Williamsburg Soundbar Lost Its Voice or Its Grip?" (repair capture). Final repair H2 "Williamsburg Soundbar Silent Tonight? We Can Sort It" (no terminal "?").
+
+De-dup notes (checked by meaning against every register in this file): avoided external-noise-drowns-dialogue (Queens LaGuardia Q), elevated-train rumble on bracket (Queens 7 train), which wall vs traffic (Queens Blvd), loft brick + high ceilings general (existing register), big windows harsh / high-ceiling thin sound, Wi-Fi congestion, glass window-wall placement, converted office building, TV standing away from wall, private headphone listening as a question (Bronx/HV), rent-stabilized lease, COI/board approval, freight elevator, deposit holes, moving, travel charge within Brooklyn, hours, outlets, patch & paint, brick party wall problem, soft mortar stone, hollow clay tile, concrete post-war anchoring, previous-owner speaker wire (distinct from developer conduit), music-limit compliance for bars, storefront tamper, gallery, brewery, rooms same visit.
+
+
+## Forest Hills, Queens (soundbar-installation-forest-hills-queens-ny)
+
+Neighborhood page, built 2026-10-17. Up-link /soundbar-installation-queens · phone (347) 434-6392 · Bronx GBP (#bronx, 460 E Fordham Rd) · Queens price list (×1.05) copied exactly from soundbar-installation-queens.html.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Excerpt-only results are labelled as excerpts.
+
+**Thesis:** Forest Hills was built to three plans (Cord Meyer 1906 lots; Russell Sage / Olmsted Jr. / Atterbury Gardens 1909; the 1936-subway apartment belt and later towers). Each plan left a different wall (precast concrete panels with hollow chambers, plaster co-op partitions, tower concrete) and a different party with a say (the Gardens Corporation for exteriors, co-op managing agents, management offices). Acoustics run the opposite way from the Queens page: in a quiet neighborhood the bar's bass is the noise, except in concert season near Forest Hills Stadium.
+
+### 1. Reddit (Firecrawl search excerpts only; threads not opened)
+- `reddit r/ForestHills apartment noise neighbors TV sound co-op` · Firecrawl search
+  - https://www.reddit.com/r/ForestHills/comments/1gg26dq/coop_living_information_request/ — excerpt: "I've complained about my upstairs neighbor ignoring the noise ordinance. is still loud at all hours, blasting their terrible music, their TV" → §5 THE NEIGHBORHOOD para 4.
+  - https://www.reddit.com/r/ForestHills/comments/19ckip0/renting_in_a_coop/ — excerpt: "Our upstairs neighbors our needlessly noisy" → §5 para 4 ("needlessly noisy").
+  - https://www.reddit.com/r/Queens/comments/zdwjg8/loud_neighbors/ — co-op shareholder, TV very loud 11pm–2am (excerpt; not used on page).
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 uses published claims instead:
+- `how to wall mount a soundbar use a stud finder drywall anchors included hardware guide` · Firecrawl search
+  - https://nyctvguy.com/blog/how-to-mount-soundbar — excerpt "Find your studs. Soundbars are light (5–15 lbs), so drywall anchors can work — but at least one screw into a stud is better." → §10.5 H3 1 (competitor not named).
+  - https://hangsmart.com/blogs/hangsmart-blog/how-to-install-a-soundbar-without-a-stud-finder — excerpt "DIY no-stud mounting system makes setup quick, safe, and damage-free" → §10.5 H3 2 (mechanism not described; only "check the maker lists your wall type").
+  - https://www.samsung.com/au/support/tv-audio-video/installing-wall-mount-soundbar/ — excerpt "Align the Paper Template's Centre Line with the centre of your TV" → §10.5 H3 3.
+- `soundbar subwoofer placement corner bass louder apartment neighbors guide "corner"` · Firecrawl search
+  - https://www.polkaudio.com/en-us/polklore/how-to/perfect-subwoofer-placement.html — excerpt "Avoid placing a subwoofer directly against a wall (left) or in the corner, where bass reflections can build up." → §10.5 H3 4.
+- Silo sources reused (recorded in NYC hub notes, not re-fetched): Dolby placement article (bar on bracket connected to adjustable TV mount) → §10.5 H3 5; Yamaha hub (closest to 42.5″ off the ground, seated ear height) → §10.5 H3 6; Homewyse ($58.43–$231 per soundbar, Sept 2026) → §10.5 H3 7; DEP noise-code summary (42 dB inside residences; 7 dB over ambient 10 PM–7 AM; bass limit) → §8.5, Q&A restaurant answer; ADA 2010 §307.2 (4 in between 27–80 in, flagged in silo notes as builder knowledge) → §8.5.
+### 6. Landmarks / history
+- `Forest Hills Gardens Atterbury precast concrete panel houses construction` · WebSearch → https://swhpl.digitalarchive.us/items/show/8847 (Southampton Historical Museum archive, Grosvenor Atterbury) — "each house was built from approximately 170 standardized precast concrete panels"; cast off-site with hollow insulation chambers; set by crane; Gardens commission began 1909 under Russell Sage Foundation → §5, §5.5, §7 cards + method paras, Q&A precast Q, planner, field notes.
+- `Cord Meyer Forest Hills history 1906 purchased farmland named Forest Hills` · WebSearch → https://en.wikipedia.org/wiki/Forest_Hills,_Queens — Cord Meyer bought ~600/660 acres 1906, renamed after Forest Park; Sage bought 142 acres (1908); houses 1910–1917 from ~170 precast panels; stucco Tudors with red Ludowici clay tile roofs; WSTC moved 1914, stadium 1923 (~13,000 seats), US Open there 1915–1977; Austin Street = mile from Yellowstone Blvd to Ascan Ave; 71st Av/Continental; subway stations (E F M R) opened 1936; Forest Hills Co-op Houses at 62nd Dr/108th St, proposed 1972 as three 24-storey, halved by Cuomo; Parker Towers 1,300 units; ~36% Jewish, many Bukharian around 108th St; 1,328 acres; Forest Park 507 acres → §5, §7, §8 (108th St card), §13, street-by-street.
+- `Forest Hills Gardens history 142 acres private streets Station Square Forest Hills Inn LIRR Olmsted` · WebSearch → https://www.tclf.org/landscapes/forest-hills-gardens — Olmsted Jr. + Atterbury general plan; 1909 sale of 142 acres; curvilinear streets to discourage through traffic; Station Square town center; 800+ homes; masonry or concrete with red-tile or slate roofs → §5, §7, street-by-street.
+- https://6tocelebrate.org/neighborhood-items/forest-close-queens/ (fetched) — Forest Close 1927, 38 neo-Tudor houses around shared green (Austin St between 75th & 76th Aves per link title); Arbor Close 1925; Tappan & Patterson designed Cord Meyer houses; 1936 IND → six-storey buildings; post-war houses demolished for Queens Blvd apartments; stadium 14,000 seats, 1923 → §5, §7 cards, §13, street-by-street.
+- https://www.6sqft.com/forest-hills-gardens-a-hidden-nyc-haven-of-historic-modernity/ (2014, fetched) — 800+ houses, 11 apartment buildings, ~4,500 residents; FHGC run by owners, oversees streets/parking/security; 1913 covenant "prevents exterior alterations to homes without express approval"; visitors can't park without a guest sticker → §5, §5.5, Q&A Gardens-rules Q, How It Works step 3.
+- `Forest Hills Long Island Rail Road station Station Square Burns Street Continental Avenue trains Main Line` · WebSearch → https://en.wikipedia.org/wiki/Forest_Hills_station_(LIRR) — station above 71st (Continental) Ave between Austin & Burns Sts, opened 1906, TR "Unification Speech" July 4, 1917 → §13 card, §8 Station Square card.
+- https://forgotten-ny.com/?p=123556 — 71st Ave becomes Continental inside the Gardens; reader comment that FHGC owns its streets (reader comment only → page says "looks after its own streets and parking").
+- `Forest Hills Co-op Houses 108th Street 1972 controversy Mario Cuomo towers` · WebSearch → https://queenseagle.com/all/mario-cuomo-forest-hills-compromise — 840 units in three 24-storey planned; Cuomo halved to 432 units in three 12-storey; later publicly owned co-op → §5.5, §7, §13.
+- `Parker Towers Forest Hills 104-40 Queens Boulevard built year floors apartments three towers` · WebSearch → https://therealdeal.com/2018/09/11/blackstone-buys-jack-parkers-parker-towers-for-500m — 1,327 units, three 20-storey towers, 104-20 Queens Blvd (year built not stated → not claimed) → §5.5, §7, §13.
+### 7. Building stock / use cases
+- `Forest Hills Queens prewar co-op apartment buildings 1930s Queens Boulevard 108th Street six-story elevator buildings alteration agreement` · WebSearch → https://www.cityrealty.com/nyc/forest-hills/68-10-108th-street/87401 — co-op, built 1931, 6 floors, 50 apartments, pre-war → §5.5 bullet 4.
+- https://www.defalcorealty.com/property/494119-6837-108th-street-5h-queens-new-york-11375/ — 1939 pre-war co-op, elevator, live-in superintendent → §5 para 3 (superintendent, elevator).
+- `Forest Hills Gardens Tudor house leaded glass casement windows beamed ceilings interior original details` · WebSearch → https://www.brownstoner.com/queens/forest-hills/listing-of-the-day-60-greenway-north — 1928 Tudor, "leaded glass windows throughout", gas fireplace → §7 Tudor card, Q&A leaded-window Q; https://www.6sqft.com/forest-hills-gardens-tudor-can-be-your-enchanted-hideaway-for-1-9m/ — 45 Markwood Place, 1920, exposed ceiling beams in sunroom, wood-burning fireplace → §7 card, fireplace para, room-by-room para.
+- Sunken living rooms / parquet: searched (`Forest Hills co-op "sunken living room" prewar 108th Street OR Queens Boulevard`) — NOT verified in listings opened → not used.
+- `Forest Hills Queens Community Board 6 housing co-ops percent renters population profile NYC Planning community district 406` · WebSearch → https://andesite-api.datausa.io/profile/geo/79500US3604406 (Data USA, QN CD6 Forest Hills & Rego Park PUMA, ACS 2022) — pop 122,344; median age 43.6; median HH income $96,845; homeownership 48.4%; 61.2% of households primarily non-English → §5.5 bullets 1–2.
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 9. Local news
+- `Forest Hills Stadium concert noise complaints neighbors curfew Forest Hills Gardens` · WebSearch
+  - https://queenseagle.com/all/2025/10/2/forest-hills-stadium-racks-up-noise-violations-during-music-festival — 9 DEP violations in 2025 from 12 inspected concerts; 55 dB measured inside a nearby home (Sept 20 concert) vs code 42 dB; 10 p.m. curfew; FHGC lawsuit on appeal → §5 para 5, §5.5 bullet 6, Q&A concert-day Q, concert section.
+  - https://columbianewsservice.com/2025/01/10/neighbors-try-to-curb-concerts-at-famed-forest-hills-stadium/ — up to 14,000 attendees, 37 performances in 2024, rebuilt as music venue 2013, FHGC president Anthony Oprisiu: concerts send "vibrations through residents' houses for hours at a time"; street closures and reduced parking on show days → §5 para 5, Q&A concert-day Q.
+- `Austin Street Forest Hills shops restaurants bars commercial corridor news 2025` · WebSearch
+  - https://www.brownstoner.com/queens/forest-hills/is-austin-street-the-main-drag-of-forest-hills-losing-its-character/ (Mar 2014) — "medical center row" (urgent care, clinics replacing shops); no Austin Street BID → §8 intro, waiting-room Q.
+  - https://qns.com/2026/09/austin-street-open-street/ — Sunday Open Streets (Open Plans + Neighbors for a Safer Austin Street), 71st Ave–71st Rd, 10–5, four Sundays from Aug 30 2026 → §8 Austin St card, restaurant Q.
+- `"Forest Hills Gardens Corporation" contractors work hours parking sticker rules homeowners` · WebSearch → https://www.nationalgridus.com/media/construction-projects/pdfs/ny/forest-hills/ng_foresthills_residentialdrivewayimpactnotice_aug2026.pdf — Forest Hills Reliability Project, excavation on Metropolitan Ave, eastbound only, paused Nov 15 2026, resumes winter 2027 → §8 Metropolitan Ave card. No FHGC contractor-rules page found (EMPTY for contractor hours).
+### 10. Hyperlocal (Queens Chronicle / Forest Hills Post) — Queens Chronicle result (qchron "Forest Hills vs. Mayor John Lindsay") and foresthillspost Parker Towers result surfaced but not opened; not used. Soundbar-specific Forest Hills news: EMPTY.
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Pricing (no new prices)
+All figures copied from soundbar-installation-queens.html (Queens ×1.05 of research/tv-mounting-prices/BRIEF.md): $82.95 / $135.45 / $89.24 / $177.45 / $61.95 / $103.95 / $131.25 / $135.45 / $103.95 / $51.45 / $367.50; walls +$31.50 / +$47.25 / +$68.25 / +$78.75 / +$99.75; backer $89.25; high mount $78.75; walk-up $42; box $26.25; COI free; $195 first hour then 30-min blocks; TV base $179.99; $150 return trip; packages $82.95 / $224.69 / $402.14. Worked examples on page are sums of these lines only ($365.39, $244.65, $533.39). Gardens precast-concrete walls priced on the existing "concrete or cinder block" line (+$78.75) — flag for Anwar.
+
+### Images (11)
+Drive "AESS Website Photos/Soundbar Installation" empty (checked 10:05Z per main run); CompanyCam not connected. Used Step C: /images/soundbar-installation/ already holds Anwar's 13 soundbar photos (supplied in chat 2026-10-17, "use these not the others") — 11 copied via Pillow to WebP q80 under forest-hills names; desk-compact-soundbar and home-gym-wall-soundbar left out. Source → new: queens-level-check-under-tv → forest-hills-technician-level-on-wall-soundbar (hero, eager); queens-homeowner-remote-walkthrough → remote-handover-on-sofa; queens-console-soundbar-placement → soundbar-set-on-media-console; queens-bracket-leveling-under-tv → bracket-level-before-hanging; bronx-waiting-room-tv-soundbar → reception-area-tv-and-soundbar; queens-rear-surround-speaker-stands → rear-speaker-on-stand-behind-sofa; queens-full-motion-mount-attachment → soundbar-fitted-to-articulating-arm; queens-app-sound-check-tablet → tablet-sound-check-from-sofa; queens-unboxing-bracket-hardware → soundbar-kit-laid-out-on-blanket; queens-cabinet-cable-management → cables-strapped-in-media-cabinet; bronx-conference-room-handover → meeting-room-soundbar-demo.
+
+## Question register — soundbar-installation-forest-hills-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 10; under H2s: Houses in Forest Hills Gardens · Garden courts and older houses · Co-ops and towers · Households that watch in more than one language · Concert nights · Austin Street businesses)
+1. Our Gardens house is one of Atterbury's precast concrete houses — what actually holds a soundbar bracket in a panel wall with hollow chambers inside?
+2. We live inside Forest Hills Gardens — which parts of a soundbar job touch the Corporation's rules on exterior changes?
+3. Will a subwoofer make the leaded glass windows in our Tudor living room rattle?
+4. Before you drill, should we photograph the hairline cracks already in our 1920s plaster?
+5. Our co-op's managing agent wants a written description of the work before approving it — what should it say for a soundbar?
+6. The TV wall in our tower apartment is solid concrete — could the drill hit electrical conduit buried inside it?
+7. Our parents watch Russian-language channels through an internet TV box — does the soundbar's dialogue mode work as well for Russian as for English?
+8. Is it a problem to book the installation on a day when the stadium has a concert?
+9. Can the soundbar in our waiting room help keep conversations at the reception desk from carrying to patients in the chairs?
+10. When our Austin Street restaurant opens its front for the Sunday open street, can the soundbar's sound stay inside?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Will mounting the soundbar on the wall void the manufacturer's warranty on the bar or the TV?
+2. Can a soundbar go on a mirrored wall?
+3. How should a wall-mounted soundbar be cleaned?
+4. Does a wall-mounted soundbar need space behind it for air? (replaced "Can a soundbar be painted to match the wall?" — exact duplicate of bay-ridge-brooklyn-ny, 2026-10-17)
+5. Should I set up the soundbar maker's app account before you arrive?
+6. If I decide the soundbar is wrong after it's mounted, can it still go back to the store?
+7. Our TV is on a rolling floor stand — can the soundbar travel with it?
+8. Can the soundbar be mounted upside down or on its side to fit the space? (replaced fireplace-opening question at ship time — meaning duplicated soundbar-installation-harlem-manhattan-ny)
+
+### Other headings (CTA, no question intent beyond repair/price)
+- Forest Hills Soundbar Misbehaving? (repair capture) · A Silent Bar on a Forest Hills Evening? (final repair CTA) · Your Forest Hills Total, Line by Line (price CTA, no "?")
+
+### De-dup notes (checked against all 18 soundbar pages on disk incl. Williamsburg and Pelham Bay drafts)
+- Dropped during drafting: Atmos up-firing under sunroom beams (≈ Staten Island "Atmos under basement drop ceiling"); stadium bass vs dialogue (≈ Queens LaGuardia jets); trackside/LIRR vibration (≈ Queens 7-train bracket); guest-sticker parking as its own Q (≈ NYC "parking for a Manhattan appointment" — folded into Q2 answer); sunken living room and parquet (not verifiable).
+- Closest remaining neighbors, judged distinct: Q2 vs Brooklyn "Does the LPC have to approve…" (private covenant on exteriors vs city landmarks); Q5 vs NYC "What will the managing agent want on a COI" (scope description vs insurance); Q6 vs Putnam "drill hit a water pipe" (cast-in conduit in concrete vs pipe in stud bay); Q10 vs Manhattan "game-day TVs under commercial music limits" (placement for an open frontage vs level limits); FAQ1 vs NYC "What warranty comes with the bracket and the install" (voiding the maker's warranty vs AESS warranty); FAQ5 vs Ulster "registered to the seller's app account" (own account before visit vs transfer); FAQ8 vs Brooklyn "chimney breast / old flue" (inside a dead firebox vs mounting on the breast).
+- Masked similarity (3-gram Jaccard per paragraph, constants excluded): max 0.25 vs any sibling; whole-page SequenceMatcher 0.03–0.11.
+
+
+## Pelham Bay, Bronx (soundbar-installation-pelham-bay-bronx-ny)
+
+Built 2026-10-17 (batch: Williamsburg, Forest Hills, Pelham Bay — the first neighbourhood pages in the silo). Neighbourhood page; up = /soundbar-installation-bronx; phone (646) 490-0629; GBP Bronx (460 E Fordham Rd, #bronx), copied from soundbar-installation-bronx.html. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "WebSearch" = Claude WebSearch tool; "WebFetch" = Claude WebFetch tool (page converted and summarised). Silo-wide findings (Homewyse/Thumbtack figures, Yamaha/Dolby placement, r/AskNYC bass excerpt, nyctvguy in-box-screws excerpt, awolvision ARC/eARC, Sonos/Sanus specs, DEP Noise Code commercial limits, ADA 307.2, Furman Bronx 19.7%, Co-op City 35 towers/24–33 storeys, $ menu) are reused from earlier sections of research/soundbar-installation.md and were not re-fetched.
+
+**Thesis:** Pelham Bay is the detached-house pocket of the Bronx (City Planning: ~72% detached, ~17% semi-detached), so — unlike the borough page's permission-first thesis — the owner usually controls the wall and the job is about using the house: which room/floor, hidden wiring in framed partitions, cable drops through the basement, two households in a two-family, and keeping bass from crossing a driveway (News 12 Pelham Bay bass-noise story) against a background of the elevated 6 and the ring of parkways/expressways.
+
+### Housing stock / zoning
+- `Pelham Bay rezoning City Planning one- and two-family semi-detached attached homes Bronx` · WebSearch → https://www.nyc.gov/assets/planning/download/pdf/plans/pelham-bay/pelham_bay.pdf · WebFetch: adopted by City Council March 22, 2006; bounded by Pelham Pkwy South, Bruckner Expwy, Middletown Rd, Hutchinson River Pkwy; detached ≈72% of housing stock, semi-detached ≈17%, attached ≈6.6%, multifamily ≈4.5% with apartment buildings along wider avenues; R5→R5A; R6/R7-1 corridors along Westchester, Crosby, Buhre; C1/C2 overlays on Westchester, Crosby, Buhre; R5A min lot width 30 ft. (Page gives two block counts, 36 vs 32 partial blocks — not used.) → §5 paras 1, 4; §5.5 stats 1–2; §7 semi-detached card; §8 intro + Buhre card; AI-check H3 1; Two-Family section intro.
+- Same search → https://citylandnyc.org/two-bronx-neighborhoods-down-zoned · WebFetch: CPC hearing Jan 11, 2006, approval Feb 8, 2006 (C 060179 ZMX); about 45 blocks; R5A limits new construction to one- and two-family detached homes with 35-ft height limit; commercial overlay depth cut 150→100 ft on Westchester, Crosby, portions of Buhre; prevents commercial uses on residential side streets; CB10 unanimous. → §5 para 1, §5.5 stat 2, §8 Buhre card, Two-Family intro.
+- `Pelham Bay Bronx neighborhood housing attached houses Westchester Avenue Buhre Avenue history` · WebSearch → https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx · WebFetch: CD10; ZIP 10461; boundaries Pelham Pkwy (N), New England Thruway/I-95 (E), Bruckner/I-95 (S), Hutchinson River Pkwy (W); Country Club east of I-95; named for Pelham Bay Park and the bay; not part of historical Town of Pelham; commercial streets Westchester, Buhre, Middletown, Crosby (Crosby/Middletown main intersection); Italian American + sizeable Greek population, Puerto Ricans most of Hispanic minority, newer Hispanic and Asian residents; CD10 rent burden 45% vs Bronx 58%; St. Theresa schools, Greek American Institute; NYPL Pelham Bay branch 3060 Middletown Rd (opened 1976); Pilgrim Station PO 1545 Crosby Ave; stations Middletown Rd, Buhre Ave, Pelham Bay Park, Westchester Sq on border. → §5 para 5, §8 cards (Crosby, Middletown, Westchester Sq), §9 Pelham-vs-Pelham Q, §13 library card, Street Sound intro, AI-check H3 1.
+- Same search → https://www.cityneighborhoods.nyc/pelham-bay · WebFetch: mentions single-family homes, small apartment buildings, two-story mid-century rowhouses, brick two-family homes after 1920 subway. Boundaries and "Pelham Bridge (1815)" look unreliable → NOT used on page.
+- `Bronx Community District 10 homeownership rate Furman Center Throgs Neck Co-op City Pelham Bay` · WebSearch → https://api.datausa.io/profile/geo/co-op-city-pelham-bay-schuylerville-puma-ny · WebFetch: 2021 population 125,789; median age 41.7; median household income $65,224; median property value $416,900; homeownership 45.7%; 39.7% of households non-English primary shared language. → §5 para 5, §5.5 stats 3–4. (Furman CD10 2010 PDF in results not opened.)
+
+### Transit / landmarks
+- `Bronx Times Pelham Bay 6 train elevated Westchester Avenue noise residents` · WebSearch → https://en.wikipedia.org/wiki/Pelham_Bay_Park_station · WebFetch: opened December 20, 1920 as line terminal; elevated, two tracks; at Bruckner Expwy/Westchester Ave; northern terminus of the 6; 2024 ridership 1,136,845. → §5.5 stat 5, §8 Westchester Ave card, §13 station card.
+- Same search → https://citylandnyc.org/dot-cuts-ribbon-on-completed-improvements-outside-pelham-bay-park-station-in-the-bronx · WebFetch: Jan 23, 2023 DOT/MTA ribbon-cutting; new eastbound Bx12 SBS stop on south side of Westchester Ave; bus lane on Wilkinson Ave; buses around the station carried ~64,000 riders/day pre-pandemic; CM Marjorie Velazquez quote (not used). → §8 station-area card.
+- Same search → https://bronx.news12.com/residents-fed-up-with-slow-moving-mta-construction-34807212 and https://www.bxtimes.com/6-irt-station-facelift/ (titles only, not opened) → not used.
+- `Pelham Bay Park largest park New York City acres Orchard Beach NYC Parks` · WebSearch → https://en.wikipedia.org/wiki/Pelham_Bay_Park · WebFetch: 2,772 acres, largest public park in NYC, slightly more than 3× Central Park's 843 acres; Orchard Beach (Moses, 1930s) 1.1 mi, 115 acres, opened June 25, 1937, inspired by Jones Beach; Bartow-Pell Mansion 1842 Greek Revival, NHL since 1975; Pelham Bay Golf Course 1901, Split Rock 1935, shared Art Deco clubhouse; I-95 moved a few feet north in the 1950s to save Split Rock; Hunter Island 166 acres; Hutchinson River into Eastchester Bay; Pelham Bridge over Eastchester Bay. → §5.5 stat 6, §13 cards (park, Orchard Beach, Bartow-Pell, golf courses).
+
+### Local news / hyperlocal / Reddit
+- `reddit Pelham Bay Bronx living in Pelham Bay houses neighbors noise` · WebSearch → https://longisland.news12.com/blasting-music-irks-residents-in-pelham-bay-but-whos-to-blame · WebFetch: April 28, 2025; Pelham Bay residents woken by loud bass music late at night, especially Sundays/warm months; resident Isaac Maldonado: "all we hear is boom, boom, boom, boom"; suspected sources Ferry Point Park meetups and Tremont Ave restaurants turned clubs; Councilwoman Kristy Marmorato urging 311 complaints, meeting with 45th Pct. → §5 para 4, §9 subwoofer Q, Street Sound section (implicit).
+- Reddit r/bronx / r/AskNYC Pelham Bay soundbar or TV-mounting threads: EMPTY (no reddit.com results returned for the Pelham Bay queries).
+- Bronx Times / Patch Pelham Bay articles on TV, soundbar or home AV: EMPTY (only station-facelift and construction titles surfaced; not relevant).
+
+### Competitor / AI-claim inputs
+- `soundbar installation Pelham Bay Bronx` · WebSearch (Bing/DDG-style cross-check substitute) → results dominated by https://www.instaservice.com/service-areas/new-york-pelham/service/soundbar-mounting · WebFetch: page is for Pelham, NY (Westchester, ZIP 10803, villages of Pelham and Pelham Manor); claims "Quick service across all Pelham neighborhoods", "4.8 Rating", no prices. Also airtasker NY soundbar listing (not opened). → §10.5 H3 1 (competitor not named on page), §9 Pelham-vs-Pelham Q.
+
+### Sources not reachable / EMPTY
+- Google PAA, PASF, Answer the Public, Google AI Overview: EMPTY (not accessible in build env). §10.5 uses published claims (Instaservice Pelham page, Homewyse, Thumbtack, Yamaha/Dolby, r/AskNYC, nyctvguy, the eARC-for-Atmos claim per awolvision/r/sonos from silo research).
+- Bing & DuckDuckGo: EMPTY as separate surfaces (WebSearch results only).
+- Yelp 1–3★ Pelham Bay / Bronx TV-soundbar installers: EMPTY (not accessible in build env).
+- Reddit Pelham Bay: EMPTY (see above).
+- Google Drive "AESS Website Photos/Soundbar Installation": EMPTY at 10:05Z per batch brief; CompanyCam not connected.
+
+### Installer general knowledge (NOT sourced to a document — flag for review)
+- Detached-house interior partitions usually framed/hollow; fire blocking in older frame walls; stair stringers behind living-room walls; furring strips on basement foundation walls; plaster-on-lath identification by pilot hole; bass passing through windows/siding more than speech; semi-detached shared wall often masonry. Written conditionally ("usually", "often", "in a framed wall") — no stats attached.
+
+### Pricing (approved, Bronx ×1.00 — identical to soundbar-installation-bronx.html / research/tv-mounting-prices/BRIEF.md)
+Soundbar placed $79 · wall-mounted $129 · Sanus soundbar bracket $84.99 · cord cover $59 · in-wall concealment $169 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · walls $0/+30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up (3rd floor+) $40 · box removal $25 · COI free · Bronx setup-only $225 first hour then 30-min blocks · Bronx TV base $209.99 · TV on stand $137.99 · take down old TV $85 · remove old bracket $45 · haul-away $79 · $150 return trip · $195/hr specialty, 3-hr min ($585) stated as not applying to standard installs. Packages $79 / $213.99 / $382.99. New worked examples (sums of published lines only): plaster + bracket + cord cover $317.99 (129+84.99+45+59); brick + bracket + cord cover $337.99 (129+84.99+65+59); stand + streaming $128 (79+49); TV + bar + bracket + in-wall $592.98 (209.99+129+84.99+169).
+
+### Images (11 of Anwar's 13 real soundbar photos — copied from the soundbar-installation-bronx-*.webp set, cropped so no faces show, WebP q80; an earlier low-voltage reuse set was deleted before shipping)
+| Source (soundbar-installation-bronx-…) | New file (soundbar-installation-pelham-bay-…) |
+|---|---|
+| console-soundbar-placement | bar-on-wood-console.webp (hero, eager) |
+| homeowner-remote-walkthrough | wall-tv-bar-over-credenza.webp (people cropped out) |
+| bracket-leveling-under-tv | bracket-level-below-screen.webp |
+| full-motion-mount-attachment | bar-on-swing-arm-tv.webp |
+| level-check-under-tv | level-on-mounted-bar.webp |
+| conference-room-handover | meeting-room-tv-and-bar.webp (people cropped out) |
+| waiting-room-tv-soundbar | reception-tv-and-bar.webp |
+| app-sound-check-tablet | tablet-sound-check.webp |
+| unboxing-bracket-hardware | bar-bracket-unboxed.webp |
+| cabinet-cable-management | cables-strapped-in-cabinet.webp |
+| rear-surround-speaker-stands | rear-speakers-behind-sofa.webp |
+
+### Similarity
+Masked-geo paragraph similarity (difflib, paragraphs ≥12 words, excluding NAP/licence/warranty/consent constants) after one rewrite pass: max 0.566 vs any sibling (Bronx 0.556, NYC 0.566, Dutchess 0.565, Ulster 0.564, Queens 0.559, Williamsburg 0.358, Forest Hills 0.510). Whole-page ratio ≤ 0.20.
+
+## Question register — soundbar-installation-pelham-bay-bronx-ny
+
+§9 YOUR QUESTIONS ANSWERED (H3, 10):
+1. We own the house — is in-wall wiring worth paying for over a cord cover?
+2. What can stop a hidden cable run inside the wall of an older frame house?
+3. How do you tell a framed partition from a solid brick wall before the drill goes in?
+4. The staircase climbs behind our TV wall — does that change where the bracket and cables can go?
+5. In a detached house with nobody living below, is there any reason to keep the subwoofer turned down?
+6. Our side windows look straight at the neighbour's house across a narrow driveway — does the soundbar's sound leave through the glass more than through the walls?
+7. Can the living-room soundbar double as music for a backyard party?
+8. Our tenant and we share the house's Wi-Fi — can each floor's soundbar be kept out of the other household's app?
+9. I rent in one of the apartment buildings on Westchester Avenue — what's different from a soundbar job in a house?
+10. We're in Pelham Bay, not the village of Pelham — which AESS office and price list covers us?
+
+§17 FAQ (visible == FAQPage, 8):
+1. Is there a stairs charge when the soundbar goes into the second-floor unit of a Pelham Bay two-family?
+2. Does the price change if the bracket lands on a wood stud rather than between studs?
+3. If I bought my own soundbar bracket online, what does the labour-only mount cost?
+4. Could the subwoofer sit in the basement and play up through the living-room floor?
+5. We're closing on a Pelham Bay house next month — can you price the soundbar from the listing photos before we have the keys?
+6. Will a soundbar bracket on a framed wall need tightening after a few months?
+7. Our TV wall has a through-the-wall air-conditioner sleeve — can the soundbar go near it?
+8. Can the soundbar's app be set up on several phones in the family?
+
+Non-question headings (deliberately no "?"): repair captures "Pelham Bay Soundbar Gone Silent", "Soundbar Trouble in Pelham Bay, Sorted Today"; CTAs "One Visit, the Right Room, Sound That Stays Home", "Get a Pelham Bay Soundbar Price in Writing".
+§10.5 claim headings (quoted claims, not questions): "Quick service across all Pelham neighbourhoods" (Westchester-village page); Homewyse $58.43–$231; Thumbtack TV mounting $121–$234; Yamaha 42.5 in; "Bass travels easily, so skip the subwoofer"; "The screws in the box often won't work in NYC walls"; "You need eARC for Dolby Atmos".
+
+De-dup notes (checked by meaning against all 16 area-page registers and the Williamsburg/Forest Hills pages on disk at ~10:55): avoided party-wall Qs (Brooklyn, Staten Island), elevated-train rumble/bracket Q (Queens 7 train) and outside-noise-drowning-dialogue Q (Queens LaGuardia) — train/parkway noise handled in body text only; avoided basement/attic routing Q (Long Island), two-family placement/permission Qs (Brooklyn garden apartment, Rockland lower unit, Orange Newburgh), router-floors-away Qs (Brooklyn, Rockland, Suffolk), parking Q (NYC), multi-room-same-visit Qs (Westchester, Nassau). Partial overlaps left for main-run judgment: my FAQ 8 (app on several phones) vs Forest Hills "set up the app account before you arrive?" and Ulster "move seller's app account" — different intents (multiple users vs timing vs account transfer); my §9 Q8 (two households' apps separated) vs Ulster "guests' phones connect to the wrong one" — different setting (two resident households vs short-term rental guests).
