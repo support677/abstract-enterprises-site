@@ -388,3 +388,146 @@ De-dup notes (checked against soundbar-installation-nyc.html and soundbar-instal
 - Replaced HV "Can a soundbar go on a fieldstone fireplace, and where do the wires go?" (overlapped LI chimney-wiring Q) with the stone-house/soft-mortar anchoring Q.
 - Replaced HV FAQs that matched NYC/LI intents: add/move outlet; patch & paint; reschedule; one remote; bracket included?; same-day/how soon. Renamed H3 "TV-attached or wall bracket?" to a non-question heading (NYC asks the same).
 - Remaining partial overlaps for the main run to judge: plaster Q (NYC = cracking pre-war plaster; HV = load path/backer on horsehair plaster); a cost FAQ on all three hubs; subwoofer placement on all three (NYC = neighbours below; LI = basement media room; HV = open great room); weekend lake house (HV) vs closing a summer house for winter (LI).
+
+
+---
+<!-- merged from batch build soundbar-installation-manhattan, 2026-10-17 -->
+# Research — soundbar-installation-manhattan (area page, up = /soundbar-installation-nyc)
+
+Built 2026-10-17. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes). Silo-wide findings (PAA/PASF/ATP/AI-Overview EMPTY, cost guides, eARC, Sonos specs, Sanus brackets) are reused from research/soundbar-installation.md and not repeated here except where re-used on this page. Main run: merge this under a `## Manhattan` heading in research/soundbar-installation.md.
+
+Thesis (not a geo-swap of the hub): Manhattan is the most vertical housing market — the apartment is one box in a stack, so the job is governed by (1) the building's access chain (desk, package room, service elevator, super, COI, contractor hours), (2) Manhattan-only surfaces (pressurized flex walls, glass-tower window walls, office-to-residential conversions, lofts with free-standing TVs, radiators under prewar windows, pre-1960 lead-paint presumption), (3) sound in hard small rooms and crowded Wi-Fi, and (4) a published Manhattan price with one flat parking line.
+
+## Manhattan — local research matrix
+
+### 1. Reddit (Firecrawl search excerpts only; Firecrawl will not scrape reddit.com; threads not opened)
+- Query: `reddit Manhattan apartment soundbar mount TV prewar wall downstairs neighbor` · Firecrawl search
+  - https://www.reddit.com/r/Soundbars/comments/1cxgb3j/small_nyc_apartment_soundbar_suggestions_to_pair/ — excerpt: "Neighbors behind the couch wall. I mounted the speakers at the top of the walls pointing downward. LG soundbar under TV + Sub to the side of TV". → §5 THE NEIGHBORHOOD para 5 (paraphrased, not quoted beyond the setup).
+  - https://www.reddit.com/r/AskNYC/comments/oidirc/neighborfriendly_soundbars/ — excerpt: "insulate them from the floor/wall to minimize acoustic energy transfer through hard surfaces." → §5 para 5 (quoted).
+  - https://www.reddit.com/r/neighborsfromhell/comments/1cos6iy/soundbar_in_apartments_why/ and https://www.reddit.com/r/Apartmentliving/comments/1qx46k3/if_you_must_mount_your_tv_on_a_shared_wall/ — not NYC-specific; background only, not used.
+- Query: `Manhattan apartment WiFi congestion too many networks 2.4GHz interference reddit AskNYC` · Firecrawl search
+  - https://www.reddit.com/r/techsupport/comments/1t41ir/nyc_apartment_unreliable_wifi_could_it_be_too/ — title "could it be too many wifi signals in my building/area?"; excerpt "Interference from other WiFi signals on the same channel can hamper performance." → §5 para 5; §9 Q "dozens of Wi-Fi networks".
+  - https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-manhattan — AESS's own page (70+ networks claim) — NOT used (own site, unsourced number).
+- Query: `reddit AskNYC soundbar install doorman building super approval mount soundbar under TV` · Firecrawl search → only generic threads (r/sonos above-TV, r/techsupportmacgyver TV-arm soundbar mount, r/LGOLED installer recommending mounting to the TV). r/AskNYC accsge (high-rise metal studs, toggle bolts) seen. → background for TV-attached bracket card; no quote used. Manhattan-specific Reddit on soundbar + doorman: EMPTY.
+- Prior AESS research reused (research/tv-mounting-prices/manhattan.json, sources list): r/uppereastside COI expectation, r/AskNYC prewar plaster, r/AskNYC metal studs — background only, not quoted.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted (stated on page as such, §10.5): Thumbtack national TV wall-mount average $121–$234 (https://www.thumbtack.com/p/tv-wall-mount-install-cost, from silo research); Angi soundbar bracket/mount add-on $30–$100, concealed wiring $75–$300, permits "only for electrical work or structural changes, $30–$100" (https://www.angi.com/articles/how-much-does-buying-and-repairing-tv-cost.htm, from silo research). → §10.5 H3s 1–4.
+
+### 6. Landmarks (§13 COVERAGE — six cards, none used by the NYC hub)
+- Query: `Tudor City Manhattan apartment complex built 1927 number of apartments historic district` · Firecrawl search
+  - https://en.wikipedia.org/wiki/Tudor_City — excerpt: "Construction commenced in 1926, the first 12 structures were completed in phases between October 1927 and late 1930." (Firecrawl scrape query failed — "Query generation failed"; unit count NOT verified, not stated.)
+  - https://www.cityrealty.com/nyc/market-insight/features/great-listings/tudor-city-100-rich-history-attractive-listings-309k-turtle-bay-city-within-a-city/61988 — "a 13-building complex located in the Turtle Bay neighborhood on Manhattan's East Side". → §13 card.
+- Query: `London Terrace Chelsea apartment complex 1930 buildings number of apartments` · Firecrawl search → https://en.wikipedia.org/wiki/London_Terrace — "about 1,700 apartments in 14 contiguous buildings of 17 to 19 stories", opened 1930; https://www.cityrealty.com/nyc/chelsea/london-terrace-towers-465-west-23rd-street/3714 (465 West 23rd Street); londonterracetowers.com says 1,665. → §13 card ("about 1,700"), Chelsea paragraph.
+- Query: `Penn South Chelsea cooperative number of apartments buildings built 1962 Mitchell-Lama` · Firecrawl search → https://en.wikipedia.org/wiki/Penn_South — "2,820 units in ten 22-story buildings", southwest of Penn Station; https://www.pennsouth.coop/penn-south-history.html (2,820 units). Build year NOT verified, not stated. → §13 card.
+- Query: `Audubon Park Historic District Washington Heights apartment buildings designated 2009` · Firecrawl search + Firecrawl scrape https://hdc.org/buildings/audubon-park-historic-district/ — "Designated May 12, 2009 … comprised of 19 large apartment houses and one free-standing duplex house … 'The Sutherland' at 611 West 158th Street designed by Emery Roth". LPC report http://s-media.nyc.gov/agencies/lpc/lp/2335.pdf excerpt: apartment houses "constructed between 1905 and 1931". → §13 card; Inwood/Washington Heights paragraph.
+- Query: `Riverside-West End Historic District Upper West Side designated buildings LPC` · Firecrawl search → https://www.citylandnyc.org/riverside-drive-west-end-historic-district-extension-i-designated/ — "approximately 194 buildings between West 87th Street, West 79th Street, Broadway, and Riverside Drive"; https://westendpreservation.org/riverside-west-end-avenue-historic-district-i/ — "residential, institutional, and commercial buildings". → §13 card.
+- Query: `Hudson Yards residential towers condos glass curtain wall 15 Hudson Yards 35 Hudson Yards apartments` · Firecrawl search → https://streeteasy.com/building/35-hudson-yards-manhattan — 143 units, 92 stories, built 2019, "Bavarian limestone and glass tower", residences "starting on the 53rd floor"; https://www.15hudsonyards.com/ — 88-story tower, "arcs of the glass tower". → §13 card; glass-tower building card; §9 glass-living-room Q.
+
+### 7. Building stock / use cases
+- Query: `Manhattan New York County housing units built before 1940 percent renter occupied census` · Firecrawl search → https://chpcny.org/visualization/housing-stock-visualization/ (excerpt, second query `Manhattan share of housing units built before 1940 …`): "In Manhattan, nearly all units (97 percent) are in buildings of six or more units". → §5 para 1, §5.5 stat 1.
+- (direct) https://www.census.gov/quickfacts/fact/table/newyorkcountynewyork/PST045224 · Firecrawl scrape (query) → New York County: housing units 938,554 (July 1, 2025); owner-occupied rate 25.1% (2020–2024); persons per household 2.00; median gross rent $2,197; households 778,281; population 1,664,862 (July 1, 2025). → §5 para 2, §5.5 stats 2–3.
+- Manhattan-specific prewar share: EMPTY (no Manhattan-only figure found; Furman/RGB give citywide only). Not stated.
+- Query: `Manhattan office-to-residential conversion apartments 2025 2026 number of units converted Midtown Financial District` · Firecrawl search → https://comptroller.nyc.gov/reports/office-to-residential-conversions-in-nyc-economics-and-fiscal-estimates/ — "There are 16,400 apartments in the pipeline of office conversions in Manhattan"; 25 Water St. 1,320 units; conversions at 2/100/111 Wall St, 55/85 Broad St, 77/160 Water St, 675/750/767/830/845 3rd Ave. → §5 para 4, §5.5 stat 6, §7 conversion card, §9 conversion Q, FiDi paragraph.
+- Query: `pressurized wall temporary wall Manhattan apartment rules DOB building allow mount TV` · Firecrawl search + Firecrawl scrape https://www.brickunderground.com/blog/2011/12/From_1_room_to_2_an_insider_guide_to_building_a_wall_in_NYC — "around five inches thick … can support up to 25 or 30 pounds; you can usually pay extra to have the wall reinforced for mounting a flat-screen TV"; "not permanently attached to other walls or the floor"; DOB may require permits if layout changes; "many (some might say most) landlords and management companies prohibit the use of temporary walls". Also https://temporarywallsnyc.com/faq/ (excerpt: TVs up to 30 lb — company claim, not used). → §5 para 4, §7 flex card + methods, §9 pressurized-wall Q, §10.5 H3 7, glossary.
+- Query: `NYC lease 80 percent carpet rule floors covered rugs noise apartment` · Firecrawl search + Firecrawl scrape https://streeteasy.com/blog/80-percent-rule-carpet-floor-covering/ — "there is no 'NYC law' regulating carpet or rug coverage, leases and co-op agreements will often have a clause stipulating residents cover 80% of their floors … to prevent noise". Habitat Magazine 2004 (https://www.habitatmag.com/Archive2/201-May-2004/The-80-Percent-Carpet-Rule) — court enforced the house rule (New Rochelle case; not cited on page). → §9 harsh-sound Q, checklist "Floor-covering rule".
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Local news / official sources
+- Query: `NYC Local Law 1 lead paint pre-1960 buildings drilling work practices tenant apartment dust` · Firecrawl search → https://www.nyc.gov/site/hpd/services-and-information/lead-based-paint.page — Local Law 1 of 2004: owners of buildings built before 1960 must presume paint is lead-based; tenants: "If dust is being created during construction work, ensure your child is not in the work area and ensure that the workers are keeping that area separated". → §5 para 3, §5.5 stat 4, §9 lead-paint Q, Field Notes, glossary.
+- Brick Underground alteration agreements · Firecrawl scrape https://www.brickunderground.com/guides/how-to-renovate/what-is-an-alteration-agreement — "Most limit work to 9-5 weekdays"; "Service elevator requirements: Your building may set hours such as restricting use during the beginning and end of the work day"; "Some buildings require an environmental testing firm to monitor lead levels and the presence of asbestos". → §5 para 3, §5.5 stat 5, checklist, §10.5 H3 6, glossary.
+- Query: `NYC DEP construction noise permitted hours weekdays 7 AM 6 PM residential renovation apartment` · Firecrawl search → https://portal.311.nyc.gov/article/?kanumber=KA-01091 — "Residential Construction is allowed between 7 AM and 6 PM on weekdays"; https://www.nyc.gov/site/dep/environment/construction-noise-rules-regulations.page. → §5.5 stat 5, §8.5, §10.5 H3 6.
+- Query: `NYC electrical work requires licensed master electrician Department of Buildings low voltage exemption under 30 volts` · Firecrawl search → https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page — "No installation and modification to any electrical systems can be performed without a permit and a Licensed Master Electrician." Firecrawl scrape https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 — §28-105.4.7: no electrical permit for wiring "designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person as defined in the New York city electrical code" (L.L. 2024/128, eff. 12/21/2025). → §8.5, §10.5 H3 4, pricing "Not included". (Page does NOT claim AESS is a "qualified person" under the NYC electrical code — flag for Anwar.)
+- Query: `NYC landlord must paint apartment every three years Housing Maintenance Code 27-2013 HPD` · Firecrawl search → https://www.nyc.gov/site/hpd/services-and-information/tenants-rights-and-responsibilities.page — "the landlord must paint occupied apartments in multiple dwellings (buildings with three or more apartments) every three years." → FAQ 4.
+- Query: `Brick Underground certificate of insurance contractor co-op additional insured managing agent what's a COI` · Firecrawl search → https://www.brickunderground.com/live/whats-a-certificate-of-insurance-nyc — "A COI is proof of insurance—it means that your contractor or supplier has an insurance policy that covers liability and loss."; https://cooperatornews.com/article/insurance-and-your-contractor — "Co-op buildings routinely require contractors to provide a Certificate of Insurance before any work is started". → glossary, §8.5.
+- Commercial noise limits (DEP Noise Code guide, 42 dB / 7 dB / 6 dB(C)) — from silo research (https://www.nyc.gov/assets/dep/downloads/pdf/air/noise/noise-code-guide-summary.pdf). → §8.5, §9 bar Q.
+- ADA 2010 Standards §307.2 (4 in max projection, 27–80 in) — verified in silo research (LI builder). → §8.5, §9 waiting-room Q.
+
+### 10. Hyperlocal / commercial corridors
+- Query: `nyctourism watch NFL college football NYC bars Hibernia Hell's Kitchen 401 W 50th` · Firecrawl search → https://www.nyctourism.com/articles/watch-nfl-and-college-football-at-these-nyc-bars/ — Hibernia, 401 W. 50th St., Hell's Kitchen; Overlook, 225 E. 44th St., Midtown East; https://hiberniabar.com/ — at 401 W 50th St since 2008, just off 9th Ave. → §8 cards (named only as examples from the tourism guide; not customers).
+- Downtown Alliance list of Lower Manhattan bars showing World Cup matches — https://downtownny.com/news/where-to-watch-world-cup-bars-downtown-nyc/ (from prior AESS research, research/tv-mounting-prices/manhattan.json; not re-opened this run). → §8 FiDi card.
+- Patch Manhattan / West Side Rag / I Love the UWS on soundbars: EMPTY (none found; prior AESS research also EMPTY).
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Technical sources used on this page
+- Query: `Samsung Frame One Connect box soundbar HDMI eARC port connect soundbar to One Connect` · Firecrawl search → https://en.community.sonos.com/home-theater-229129/sonos-arc-ultra-and-samsung-one-connect-box-6929350 — "One of the SAMSUNG HDMI ports is marked 'eARC'. This is the port to be connected to the SONOS ARC ULTRA. Use the other HDMI ports for the input…"; https://us.community.samsung.com/t5/Home-Theater/Best-way-to-connect-soundbar-with-a-TV-that-has-One-Connect/td-p/2841829 — "The One Connect has an eARC HDMI port". → §9 One Connect Q, §6 card, glossary, connection table.
+- Query: `Sonos Arc Ultra Beam ethernet port wired connection WiFi 5GHz requirements` · Firecrawl search → https://en.community.sonos.com/home-theater-229129/network-question-when-using-older-and-newer-components-6933647 — "The Beam gen2 is only able to connect to the router over 2.4GHz or via SonosNet"; https://support.sonos.com/en-us/article/switch-sonos-between-a-wireless-and-wired-setup — wired setup via Ethernet to router; https://www.reddit.com/r/sonos/comments/1gghj0i/arc_ultra_initial_thoughts_and/ — Arc Ultra has a 10/100 Ethernet port (not stated on page). → §9 Wi-Fi Q, §10.5 H3 5.
+- Sonos Arc Ultra 46.38 in / 13.01 lb; Beam Gen 2 25.63 in / 6.35 lb (sonos.com); Ray ~56 cm / 1.95 kg, optical (WhatHiFi / Gear Patrol); Sanus SASB1 "most soundbars up to 20 lbs", WSSATM1 for Arc — all from silo research. → §10 EQUIPMENT.
+
+## Pricing used (published AESS numbers only)
+Sources: research/tv-mounting-prices/BRIEF.md; tv-mounting-prices-manhattan.html (live repo page); soundbar-installation-nyc.html.
+- Soundbar wall-mounted $129 · placed $79 · Sanus soundbar bracket $84.99 · in-wall concealment $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · A/V receiver $129 · universal remote $99 · streaming $49 · full home theater $350.
+- Walls: metal studs +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer $85 · high mount $75 · walk-up $40 · remove old bracket $45 · box removal $25 · COI free.
+- Manhattan: flat $150 parking per visit (tv-mounting-prices-manhattan: "flat on every Manhattan visit, including TV-on-stand jobs and setup-only visits"); setup-only $265 first hour then 30-min blocks; TV base $244.99; TV on stand $162.99; $150 return-trip fee; free reschedule with 24 h notice.
+- Totals on page are sums of those lines only (e.g. $129 + $84.99 + $45 + $150 = $408.99).
+
+### Flags for Anwar
+1. **§9 Manhattan multiplier (1.25×) is NOT applied.** The published Manhattan menu (tv-mounting-prices-manhattan, BRIEF) keeps soundbar add-ons at the same $79/$129/$84.99 everywhere and expresses the Manhattan premium as a higher TV base ($244.99 ≈ 1.36× Brooklyn $179.99), a $265 setup hour (≈1.36× $195) and the $150 parking line. Applying 1.25× would have invented new prices, so the page uses the published Manhattan numbers. Confirm.
+2. **$150 parking on a soundbar-only visit.** The NYC hub only says the parking charge rides on the TV-mounting price; tv-mounting-prices-manhattan says it applies to every Manhattan visit. This page charges it once per Manhattan visit, including soundbar-only and setup-only visits. Confirm.
+3. **Payment wording conflict (not on this page as a question):** BRIEF says TV jobs are "paid in full online at booking"; the mandatory warranty sentence mentions a "50% deposit". The page carries only the mandatory sentence.
+4. **Photos:** the 11 borrowed images/low-voltage photos look rendered (uniform "Abstract Enterprise LLC" shirts, "abstractsecurity.com" on a van in the library, generic signage). The permanent image rule was applied as instructed, but please confirm these library photos are real AESS photos; if not, they conflict with "never AI-generated".
+5. FAQ 1 is a cost question; all three hubs also carry a cost FAQ (intent "what does it cost"). This one is a specific worked total (plaster + parking), which the main run may judge as a partial overlap.
+6. §28-105.4.7 permit exemption applies to work by "a licensed master electrician, special electrician, or qualified person as defined in the NYC electrical code" — the page states the rule neutrally and does not claim AESS qualifies.
+
+## Keyword notes (five layers)
+- Service: soundbar installation Manhattan, soundbar mounting Manhattan, soundbar wall mount under TV, TV and soundbar installation, hide soundbar wires, soundbar setup, soundbar repair.
+- Problem: soundbar cutting out on Wi-Fi, no sound after TV update, lip-sync, bass reaching downstairs neighbor, harsh/echoey sound, wall won't hold anchors, building won't allow drilling, doorman won't send installer up.
+- Technology: HDMI eARC / ARC, HDMI-CEC, optical, Samsung Frame One Connect box, Ethernet/wired soundbar, 2.4 GHz vs 5 GHz, wireless subwoofer, Dolby Atmos up-firing, TV-attached bracket, Sanus bracket, in-wall power kit, cord cover, backer board.
+- Industry: co-ops/condos/rental towers (amenity rooms), bars (Hell's Kitchen/Ninth Ave), Midtown/FiDi offices, UES medical waiting rooms, SoHo/Flatiron showrooms.
+- Geographic: Manhattan; Inwood, Washington Heights, Harlem, East Harlem, Upper West Side, Upper East Side, Yorkville, Midtown, Midtown East, Hell's Kitchen, Murray Hill, Chelsea, Flatiron, Gramercy, Greenwich Village, East Village, Lower East Side, SoHo, NoHo, Tribeca, Financial District, Battery Park City, Hudson Yards, Turtle Bay; Riverside Drive, West End Ave, Central Park West, Park/Fifth/Madison, Ninth Ave, Water/Wall/Broad Streets, Third Ave.
+
+## Question register — soundbar-installation-manhattan
+(Q&A = §9 YOUR QUESTIONS ANSWERED, H3; FAQ = §17 accordion = FAQPage schema)
+
+Q&A (§9) — 15:
+1. Can the doorman let your installer in while I'm at work?  (Doormen, package rooms and getting upstairs)
+2. The soundbar is waiting in the package room — will you bring it up and unbox it?  (same)
+3. We're moving into a new Manhattan apartment next month — should the soundbar go up before or after the movers?  (same)
+4. Can a soundbar go on a temporary pressurized wall in a flex apartment?  (Walls you mostly find in Manhattan)
+5. Our condo's living room is mostly glass — which wall can take the TV and soundbar?  (same)
+6. Is drilling bracket holes in a pre-1960 apartment a lead-paint risk?  (same)
+7. What changes when the apartment is in a converted office building?  (same)
+8. The TV in our loft stands away from any wall — how do power and audio reach the soundbar?  (same)
+9. Is it safe to put the soundbar on a radiator cover beneath the TV?  (same)
+10. Why does my soundbar sound harsh in an apartment with big windows and bare floors?  (How a soundbar sounds in a Manhattan room)
+11. Can one soundbar fill an L-shaped studio where the bed and sofa face different ways?  (same)
+12. Our building has dozens of Wi-Fi networks — will a wireless soundbar and subwoofer keep dropping out?  (Wi-Fi, TVs and boxes in dense buildings)
+13. Our Samsung Frame's One Connect box lives in a cabinet — where does the soundbar plug in?  (same)
+14. Will soundbars on a bar's game-day TVs keep us under the city's commercial music limits?  (Manhattan businesses)
+15. Can a soundbar in a waiting room or showroom stay at a fixed volume staff can't turn up?  (same)
+
+FAQ (§17) — 8:
+1. What would a wall-mounted soundbar on prewar plaster total in Manhattan, parking included?  (partial overlap with hub cost FAQs — see flag 5)
+2. When is a Manhattan soundbar visit billed by the hour instead of by the item?
+3. Do you cover upper Manhattan as well as Midtown and downtown?
+4. My landlord is repainting the apartment — can you take the soundbar down and put it back afterwards?
+5. Will you remove the old bracket a previous tenant left on the wall?
+6. Can you install soundbars in a building's lounge, gym or screening room?
+7. Can you add a subwoofer or rear speakers to a soundbar that is already up?
+8. My TV stays on its stand — can the soundbar still go on the wall?
+
+Other question-form headings (repair capture, not Q&A/FAQ): "Manhattan Soundbar Gone Silent?", "Soundbar Acting Up Somewhere in Manhattan?"
+
+De-dup notes: checked by meaning against every question in the NYC, Long Island and Hudson Valley registers. Deliberately avoided (already owned by a hub): board approval, COI contents, freight-elevator hours, plaster cracking, brick party wall, concrete anchoring, sub vs downstairs neighbor, sub placement, noise code, renter wire hiding, deposit, studio size, dialogue clarity, couch distance, walk-up, Manhattan parking, permits, outlets, patch & paint, reschedule, warranty, one remote, hours, conference-room soundbar vs ceiling speakers, niche/alcove, metal-stud office wall. Weekend/contractor-hours and parking are covered only in body text (§10.5 H3 6, pricing) on this page, not as questions.
+
+## Images (11) — permanent image rule
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (per main run). 11 copied from images/low-voltage/ → images/soundbar-installation/ as WebP q80 (1400 px wide or less). Sources compared to the three hubs' images by perceptual hash; 8 of 11 are photos no soundbar hub uses.
+| New file | Source | Used by a hub? |
+|---|---|---|
+| soundbar-installation-manhattan-three-techs-mounting-flat-screen.webp | low-voltage-installation-manhattan-10-conference-room-display-cabling.jpg | yes (same photo on NYC/LI/HV) |
+| soundbar-installation-manhattan-recessed-box-behind-screen.webp | low-voltage-installation-manhattan-display-recessed-box.jpg | yes (NYC/LI/HV) |
+| soundbar-installation-manhattan-dining-room-ceiling-speaker.webp | low-voltage-installation-manhattan-14-restaurant-ceiling-speaker.jpg | yes (NYC/LI/HV) |
+| soundbar-installation-manhattan-riser-conduit-cable-feed.webp | low-voltage-installation-nassau-county-riser-conduit-pull.jpg | no |
+| soundbar-installation-manhattan-wall-plate-jack-termination.webp | low-voltage-installation-manhattan-08-keystone-wall-plate-termination.jpg | LI/HV only |
+| soundbar-installation-manhattan-tone-probe-cable-trace.webp | low-voltage-installation-dutchess-county-08-tone-generator-trace.jpg | no |
+| soundbar-installation-manhattan-cable-tester-at-wall-jack.webp | low-voltage-installation-manhattan-07-fluke-certification-pass.jpg | no |
+| soundbar-installation-manhattan-network-switch-laptop-config.webp | low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg | no |
+| soundbar-installation-manhattan-retail-showroom-ceiling-cable.webp | low-voltage-installation-brooklyn-retail-store-ceiling-pull.jpg | no |
+| soundbar-installation-manhattan-office-ceiling-grid-cable.webp | low-voltage-installation-manhattan-03-ceiling-grid-bundle-pull.jpg | no |
+| soundbar-installation-manhattan-entry-intercom-panel-wiring.webp | low-voltage-installation-manhattan-13-video-intercom-entry-wiring.jpg | no |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
