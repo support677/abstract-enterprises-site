@@ -2,9 +2,9 @@
 LIVE | fiber-optic-installation-nyc | Fiber Optic Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | fiber-optic-installation-manhattan | Fiber Optic Installation | Manhattan | up /fiber-optic-installation-nyc | (929) 560-0737 | GBP Bronx
 LIVE | fiber-optic-installation-brooklyn | Fiber Optic Installation | Brooklyn | up /fiber-optic-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T02:25Z | soundbar-installation-nyc | Soundbar Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-17T02:25Z | soundbar-installation-long-island | Soundbar Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-17T02:25Z | soundbar-installation-hudson-valley | Soundbar Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | soundbar-installation-nyc | Soundbar Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | soundbar-installation-long-island | Soundbar Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | soundbar-installation-hudson-valley | Soundbar Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | smart-lock-installation-nyc | Smart Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | smart-lock-installation-long-island | Smart Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | smart-lock-installation-hudson-valley | Smart Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
