@@ -131,9 +131,9 @@ BUILDING 2026-10-17T11:45Z | sonos-installation-forest-hills-queens-ny | Sonos I
 BUILDING 2026-10-17T11:46Z | sonos-installation-riverdale-bronx-ny | Sonos Installation | Riverdale, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T11:46Z | sonos-installation-todt-hill-staten-island-ny | Sonos Installation | Todt Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:46Z | sonos-installation-greenwich-village-manhattan-ny | Sonos Installation | Greenwich Village, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-TODO | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T12:01Z | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T12:01Z | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T12:01Z | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
