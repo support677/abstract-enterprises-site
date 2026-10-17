@@ -133,3 +133,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-throgs-neck-bronx-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-todt-hill-staten-island-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-chelsea-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-upper-east-side-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn-heights-brooklyn-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-flushing-queens-ny | QUEUED
