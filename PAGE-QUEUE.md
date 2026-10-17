@@ -11,9 +11,9 @@ LIVE | smart-lock-installation-hudson-valley | Smart Lock Installation | Hudson 
 LIVE | fiber-optic-installation-long-island | Fiber Optic Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | fiber-optic-installation-hudson-valley | Fiber Optic Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | sonos-installation-nyc | Sonos Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-17T04:21Z | sonos-installation-long-island | Sonos Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-17T04:21Z | sonos-installation-hudson-valley | Sonos Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-10-17T04:21Z | cat6-repair-nyc | Cat6 Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | sonos-installation-long-island | Sonos Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | sonos-installation-hudson-valley | Sonos Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | cat6-repair-nyc | Cat6 Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | cat6-repair-long-island | Cat6 Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | cat6-repair-hudson-valley | Cat6 Repair | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | soundbar-installation-manhattan | Soundbar Installation | Manhattan | up /soundbar-installation-nyc | (929) 560-0737 | GBP Bronx

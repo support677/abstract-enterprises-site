@@ -180,3 +180,276 @@ Every FAQ / Q&A question used on a page of this silo, with its page. New pages m
 8. Will you take the Sonos boxes away?
 9. Can you put Sonos in an office or restaurant as well as at home?
 10. Do you install Sonos outside the five boroughs?
+
+---
+
+## Long Island + Hudson Valley hubs (batch 2026-10-17 04:21Z)
+
+Built 2026-10-17 by the batch run for sonos-installation-long-island and sonos-installation-hudson-valley. The NYC hub run may add its own sections.
+
+# Research — Sonos Installation silo · Long Island hub (sonos-installation-long-island)
+
+Built 2026-10-17. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Unreachable sources are written `EMPTY (not accessible in build env)`. Nothing inferred to fill a gap. "FC search" = Firecrawl (Fire_Crawl MCP) web search; "FC scrape" = Firecrawl scrape; "WS" = WebSearch; "WF" = WebFetch.
+
+Thesis (kept distinct from NYC hub = apartments/co-ops and HV hub = plaster/stone, second homes, outbuildings): suburban single-family Nassau/Suffolk houses — whole-home zoning, finished basements and attic rooms, patio/deck/pool audio, new-construction pre-wire, family-room Arc/Sub/surround theaters, Wi-Fi across larger footprints, Alarm.com / smart-home integration.
+
+## (a) Silo-wide findings
+
+### 1. Reddit (excerpts only — Firecrawl search returns snippets; threads not scraped)
+- Query `reddit sonos installer long island whole home audio ceiling speakers` · FC search:
+  - https://www.reddit.com/r/sonos/comments/197jeww/ — "install ceiling speakers in rooms that don't have tv's" → context for §6 / zone plan (not quoted).
+  - https://www.reddit.com/r/sonos/comments/1vmkw58/new_construction_whole_home_audio_sanity_check/ — new-construction whole-home audio planning → context for pre-wire sections (not quoted).
+  - https://www.reddit.com/r/sonos/comments/neea1t/ — "9 pairs of in-ceiling speakers … 3 different zones" → context for zoning Q&A (not quoted).
+- Query `reddit r/longisland sonos OR "whole house audio" OR "ceiling speakers" installer` · FC search:
+  - https://www.reddit.com/r/Ubiquiti/comments/1pmyeka/long_island_ny_recommendations/ — excerpt: "powering a bunch of in-ceiling speakers the original owners installed and never hooked up." → §9 Q "pre-wired ceiling speakers never connected" (paraphrased, attributed to r/Ubiquiti Long Island poster); §6 "Rescue of Pre-Wired Speakers" card.
+  - https://www.reddit.com/r/sonos/comments/uc8enz/go_home_sonos_youre_drunk/ — software/AirPlay reliability complaints → context for §10.5 app H3 (not quoted).
+  - https://www.reddit.com/r/sonos/comments/1t22yj4/ — prewired house, amps in utility room → context only.
+- Local r/longisland thread specifically about Sonos: none found. EMPTY for r/longisland on this topic.
+
+### 2. Google People Also Ask — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted with claims national cost guides/retail pages publish (feeds §10.5 Reality Check):
+- Query `angi OR homeguide whole house audio system cost per room installation 2025` · FC search:
+  - https://www.angi.com/articles/how-much-does-it-cost-install-surround-sound.htm — "Most homeowners pay between $241 and $1,350"; add-on "Additional zones or multi-room audio $500–$1,000 per room". → §10.5 H3 1 and H3 2.
+  - https://www.angi.com/articles/home-theater-wiring-cost.htm — "$2 to $5 per linear foot" → not used.
+- Query `Sonos installation cost whole home audio cost per room in-ceiling speaker installation cost guide` · FC search:
+  - https://xtenav.com/blog/how-much-does-it-cost-to-install-ceiling-speakers/ — "Basic in-ceiling speaker installation (1-2 speakers): $200-$500. The average cost … $1,000 to $2,000" → §10.5 H3 5.
+  - https://www.facebook.com/groups/lowvoltagenation/posts/3076596735963468/ (excerpt) — "45 minutes to 1 hour per speaker" → §10.5 H3 5 (attributed to "a low-voltage installers' Facebook group thread").
+  - https://www.sonos.com/en-us/shop/ceiling-speaker-pair — list $1,099 (excerpt) → not used (product price not needed).
+- Query `Sonos app redesign May 2024 problems missing features CEO Patrick Spence steps down January 2025` · WS → https://www.pcworld.com/article/2575403/sonos-ceo-is-out-following-disastrous-app-revamp-that-enraged-customers.html (WF): app relaunched May 2024 "hobbled by poor performance", queue editing and local media access missing; Spence stepped down Jan 13, 2025; Tom Conrad interim. → §10.5 H3 7.
+
+### 6/7. Landmarks / use cases — see Long Island section.
+
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+
+### 9. Technical / manufacturer sources (silo-wide)
+- Query `Sonos support system requirements network Wi-Fi mesh router wired setup SonosNet` · WS → https://support.sonos.com/en/article/sonos-system-requirements (WF): 802.11b/g 2.4 GHz baseline; one or more products wired to router recommended for wired setup; router must support STP; wired product on primary mesh node; mesh router recommended to extend; unsupported: range extenders, EoP, guest/portal networks, WPA Enterprise, 5 GHz-only routers, satellite/LTE; same subnet; up to 32 products. → §5, §6 Wi-Fi card, §9 Wi-Fi cluster, §10.5 H3 3, Wi-Fi section, glossary, fixing-earlier-installs.
+- Query `Sonos Amp specifications 125W per channel …` · WS → https://www.adorama.com/col/productManuals/SOAMPG1USBLK.pdf (WF, Sonos Amp product guide): 125 W/ch @ 8 ohms; one pair or two pairs of 8-ohm in parallel; 4-ohm minimum; HDMI ARC, line in, 2 Ethernet, sub out; 2 Amps per 2U, 4 per 3U; ≥3 in clearance; 2.52×8.54×8.54 in, 4.6 lb. → §9 Amp location Q, pre-wired speakers Q, §10 Amp card, glossary, fixing-earlier-installs.
+- Query (direct) https://www.sonos.com/en-us/blog/guide-to-ceiling-speakers · FC scrape: Amp powers up to three pairs of Architectural speakers in parallel; pair covers up to ~150 sq ft, 6+ speakers up to ~500 sq ft; L/R 6–10 ft apart; home-theater in-ceiling 2–6 ft behind listener; all speakers on one Amp same size for DSP/Trueplay. → §9 zoning Q2, §10 in-ceiling card, §10.5 H3 4.
+- Query `Sonos Architectural by Sonance in-ceiling outdoor speakers Amp how many pairs specifications` · WS → https://en.community.sonos.com/announcements-228985/sonos-architectural-now-available-6821147 (WF): designed for Amp; staff: "Up to 3 pairs … of the same type"; Trueplay on in-wall/in-ceiling. → §10 cards.
+- Query `Sonos Trueplay Android Arc Ultra Quick Tune support article` · WS → https://support.sonos.com/article/tune-your-sonos-speakers-with-trueplay (WF): most products need iOS; Arc Ultra, Beam Ultra, Era 100/100 Pro/300 quick tuning on iOS or Android; advanced iOS only; re-tune after moving. (Model-specific article https://support.sonos.com/en/article/tune-your-arc-ultra-era-100-or-era-300-with-trueplay → fetch error, EMPTY.) → §10 connections, §10.5 H3 6, glossary, fixing list.
+- Query `Sonos support "add surround speakers" …` · WS → https://support.sonos.com/article/surround-sound-guidelines-and-limitations (WF): surrounds = two of same model, same orientation; behind and left/right of listening position; second Amp can drive surrounds, can't be networked alone; Era surrounds can't use Ethernet if main is wireless; AirPlay/Bluetooth/line-in/sub-out disabled on surrounds. → §9 theater Qs, §10 Era card, glossary.
+- https://www.sonos.com/en-us/shop/arc-ultra · FC scrape: 46.38×2.95×4.35 in, 13.01 lb, 14 drivers incl. Sound Motion woofer, HDMI eARC, Wi-Fi 6, BT 5.3, Trueplay iOS/Android, Alexa + Sonos Voice Control, "for large rooms and TVs", 9.1.4 spatial claim. → §9 Arc vs Beam Q, voice assistants Q, §10 card.
+- https://www.sonos.com/en-us/shop/sub-4 · FC scrape: 15.31×15.83×6.22 in, 25.99 lb, 10/100 Ethernet; compatible Arc Ultra, Arc, Beam (Gen 1/2), Ray, Five, Era 300, Era 100; lie flat under sofa; pair two with Arc Ultra/Arc. → §9 sub placement Q, §10 cards.
+- https://www.sonos.com/en-us/shop/port · FC scrape: analog RCA + coax digital out, auto 12V trigger, dual 10/100 Ethernet, rack/shelf. → §6 card, §10 card.
+- https://www.sonos.com/en-us/shop/outdoor-speaker-pair · FC scrape: IP66, Mil Spec 810 humidity/salt spray/temperature/UV, −13°F to 149°F, Amp-optimised, 16 ga+ wire, FastMount brackets. (Price shows both $999 and $879 — not used.) → §9 outdoor Q, §10 card, county section, pre-wire checklist.
+- Query `Sonos works with Control4 Crestron Savant Alarm.com integration …` · FC search → https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Audio/Sonos/Sonos_Integration_-_Installation_Guide (FC scrape): play favorites, play/pause, volume, mute from Alarm.com app; Scenes; one Sonos household per account; audio must be in My Sonos. → §6 card, §9 alarm Q, FAQ 8 (context).
+- Query `NEC 680.22 receptacles swimming pool distance …` · FC search → https://up.codes/s/receptacle-outlets (excerpt, IRC E4203.1 / NEC 680.22(A)(3)): other receptacles ≥6 ft from inside walls of pools; https://www.electricallicenserenewal.com/… (680.22(A)(1) receptacle 6–20 ft). → §9 pool Q (stated as residential code's pool section, electrician's responsibility).
+
+### 10. Local news / hyperlocal (service category)
+- No Sonos/home-audio-specific Long Island news found in searches above. EMPTY for the service category. (Newsday/Patch/News12 not separately searched for Sonos — EMPTY.)
+
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Pricing (approved AESS prices only — no new prices)
+- Source: live repo page tv-mounting-prices-long-island.html (read 2026-10-17) + research/tv-mounting-prices/BRIEF.md: Sonos setup $125; full home theater hookup $350; soundbar wall-mounted $129 / placed $79; in-wall concealment $169; cord cover $59; cable run ≤25 ft $99; A/V receiver $129; streaming device $49; universal remote $99; walls metal +$30, brick/stone +$65, block +$75, tile +$95; backer $85; high mount $75; box removal $25; COI free; setup-only $225 Nassau / $250 Suffolk; TV base $209.99 Nassau / $229.99 Suffolk; return trip $150; reschedule free 24h. → §14 Pricing, §15 Packages ($125 / $254 / $423), FAQ 1, repair captures.
+- Not used: av-sound-installation-long-island.html project ranges ($12K–$30K etc.) — inconsistent with current conventions (4.6/190 rating), so multiroom wiring, ceiling/outdoor speakers and pre-wire are stated as "written quote after walkthrough".
+
+## (b) ## Long Island (sonos-installation-long-island)
+
+### Housing / stats (§5.5, Wi-Fi section, county section)
+- WF https://www.census.gov/quickfacts/fact/table/nassaucountynewyork,suffolkcountynewyork/PST045224 → permission timeout (blocked URL; not used).
+- WS `census quickfacts Nassau County New York broadband internet subscription building permits households` → WF https://www.census.gov/quickfacts/fact/table/nassaucountynewyork/ : housing units 480,591 (V2025); owner-occupied 81.9%; median value $684,700 (not used); households 458,166; persons/household 2.99; computer 96.5%; broadband 94.8%; building permits 2025: 821. → §5.5, county section, Wi-Fi section.
+- WS `census quickfacts Suffolk County New York` → WF https://census.gov/quickfacts/fact/table/suffolkcountynewyork/PST045223 : housing units 583,777; owner-occupied 82.2%; households 512,565; persons/household 2.93; computer 96.5%; broadband 93.2%; building permits 2025: 1,399. → §5.5, county section, Wi-Fi section.
+
+### Commercial corridors (§8)
+- FC scrape https://en.wikipedia.org/wiki/New_York_State_Route_25 : Jericho Turnpike through Nassau and western Suffolk; Main Street in Smithtown; Middle Country Road central Suffolk; Main Street Riverhead; Main Road eastern Suffolk; Mineola, Jericho, Syosset, NY 110 in South Huntington, Commack; ends Orient Point Ferry. → §8 cards 1, 2, 4, 5.
+- FC scrape https://en.wikipedia.org/wiki/New_York_State_Route_27 : Sunrise Highway through Valley Stream, Lynbrook, Rockville Centre, Merrick, Wantagh, Seaford, East Massapequa; Montauk Highway to Montauk Point State Park. → §8 cards 3, 6.
+- FC scrape https://en.wikipedia.org/wiki/Smith_Haven_Mall : Lake Grove; opened March 12, 1969; main building 119 shops and restaurants. → §8 card 4.
+
+### Landmarks (§13)
+- FC scrape https://en.wikipedia.org/wiki/Eisenhower_Park : 930 acres, larger than Central Park, three 18-hole courses, Nassau 9/11 Memorial, Harry Chapin Lakeside Theatre (summer concerts and movies). Location East Meadow confirmed via FC search excerpt (nassaucountyny.gov "heart of Nassau County"; Facebook excerpt "Eisenhower Park in East Meadow"). → §13.
+- FC scrape https://en.wikipedia.org/wiki/Bethpage_State_Park : 1,477 acres on Nassau–Suffolk border, five golf courses, Black Course: 2002 & 2009 U.S. Opens, 2019 PGA, 2025 Ryder Cup; located in Old Bethpage. → §13.
+- FC scrape https://en.wikipedia.org/wiki/Planting_Fields_Arboretum_State_Historic_Park : 400+ acres, Upper Brookville, Town of Oyster Bay; W. R. Coe bought 1913; 353-acre estate deeded to NYS 1949. → §13.
+- FC scrape https://en.wikipedia.org/wiki/Sunken_Meadow_State_Park : 1,287 acres, Town of Smithtown, 3 mi Sound beach, ¾-mile boardwalk, 27-hole golf. → §13 (Kings Park as locality: common usage; park is accessed via Sunken Meadow State Parkway — review if strict).
+- FC scrape https://en.wikipedia.org/wiki/Heckscher_State_Park : 1,600 acres, Great South Bay, East Islip, opened February 1929, disc golf in Heckscher Forest. → §13.
+- FC scrape https://en.wikipedia.org/wiki/Fire_Island_Lighthouse : 168 ft; first lit 1858; FILPS raised >$1.2M; returned to service May 25, 1986. → §13.
+
+### Licensing / permits
+- FC search `Nassau County Office of Consumer Affairs home improvement license …; Suffolk County Consumer Affairs home improvement license` → https://www.nassaucountyny.gov/1547/Consumer-Affairs, https://www.suffolkcountyny.gov/Departments/Consumer-Affairs (excerpts: both counties license home improvement businesses). → background only (not stated on page beyond licence/insurance chips).
+
+### Local news / hyperlocal (Newsday, Patch, News12 LI, TBR) for Sonos/home audio — EMPTY (nothing found / not searched further).
+### Local Reddit — see (a)1: one r/Ubiquiti Long Island excerpt used; r/longisland EMPTY.
+### Yelp 1–3★ (LI) — EMPTY (not accessible in build env).
+
+## Images (11, borrowed from images/low-voltage/, no real Sonos photos yet)
+| New file (images/sonos-installation/) | Source (images/low-voltage/) | Section |
+|---|---|---|
+| sonos-installation-long-island-ceiling-speaker-amp-cart.webp (hero, eager) | low-voltage-installation-long-island-ceiling-speaker-install.jpg | Hero |
+| …-tv-wall-recessed-media-box.webp | low-voltage-installation-suffolk-county-display-recessed-box.jpg | §5 |
+| …-three-techs-hanging-flat-screen.webp | low-voltage-installation-suffolk-county-11-conference-room-display-cabling.jpg | §6 |
+| …-dining-room-ceiling-speaker.webp | low-voltage-installation-suffolk-county-14-restaurant-ceiling-speaker.jpg | §8 commercial |
+| …-metal-stud-prewire-box.webp | low-voltage-installation-suffolk-county-stud-rough-in-boxes.jpg | §7 building |
+| …-drop-ceiling-cable-bundle.webp | low-voltage-installation-nassau-county-03-ceiling-grid-bundle-pull.jpg | §7 building |
+| …-tone-tracing-existing-wire.webp | low-voltage-installation-nassau-county-tone-generator-trace.jpg | §9 |
+| …-network-rack-laptop-config.webp | low-voltage-installation-nassau-county-rack-switch-config.jpg | §10 |
+| …-cable-test-wall-jack.webp | low-voltage-installation-nassau-county-07-fluke-certification-pass.jpg | §12 process |
+| …-wifi-access-point-ceiling-lift.webp | low-voltage-installation-bronx-access-point-lift-install.jpg | Wi-Fi section |
+| …-exterior-brick-enclosure-conduit.webp | low-voltage-installation-nassau-county-exterior-enclosure-install.jpg | §13 coverage |
+DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real sonos-installation photos yet)`.
+
+## Question register — sonos-installation-long-island
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. How do we decide which rooms of a colonial get their own Sonos zone and which ones share?
+2. Can one Sonos Amp run the kitchen and the dining room as separate zones?
+3. Will music stay in sync when the whole first floor is grouped for a party?
+4. Should the Arc and Sub go in the finished basement or the main-floor family room?
+5. Our basement has a drop ceiling — can Sonos in-ceiling speakers go into the tiles?
+6. The converted attic bedroom never gets Wi-Fi — what's the fix before adding a speaker there?
+7. What actually survives a Long Island summer and winter outdoors — Sonos's outdoor pair or a Move?
+8. How far from the pool can the outdoor speakers and their power go?
+9. Will patio speakers bother the neighbors on a quarter-acre lot?
+10. Building on Long Island this year — what should the electrician's walkthrough include for Sonos?
+11. Where should the Sonos Amps live in a new house — a closet, the basement or a rack?
+12. Under a 65-inch TV in an open-plan family room, does an Arc Ultra beat a Beam plus a Sub?
+13. Where do the Sub and surrounds go when the sectional floats in the middle of the room?
+14. Can ceiling speakers on an Amp be the rear surrounds instead of two Era speakers?
+15. Our mesh system covers the house — why does Sonos still drop in the far rooms?
+16. In a five-to-eight-zone house, which Sonos products should be plugged into the network by cable?
+17. Can the backyard zone run on Wi-Fi from a router at the front of the house?
+18. Can the alarm system's app control the Sonos speakers?
+19. Which voice assistants work with a Sonos system in our house?
+20. Our house was pre-wired with ceiling speakers that were never connected — can they join Sonos?
+
+### §17 FAQ (visible == FAQPage, 12)
+1. What does a Sonos family-room setup cost on Long Island, start to finish?
+2. Do you check that the Amps, surrounds and mounts we picked actually match before install day?
+3. Can a multi-room wired system be split into a wiring day and a setup day?
+4. Will you have to open our ceilings to wire in-ceiling speakers?
+5. Can you take over a Sonos system another installer put in?
+6. What happens to our Sonos system if we switch internet providers or routers?
+7. Can everyone in the family control the system from their own phone?
+8. Is there a monthly fee for a Sonos system you install?
+9. Do you install in both counties, including evenings and weekends?
+10. What should we have ready before the technician arrives?
+11. If we sell the house, do in-ceiling speakers stay or go?
+12. How do you catch a dead-on-arrival Sonos unit before it goes into a ceiling?
+
+### Other question-form headings
+- H2 "Sonos Dropping Out on Long Island?" (repair capture)
+- H2 "Ready to Map Your Zones?" (CTA)
+- H2 "Sonos Gone Silent Tonight?" (final repair capture)
+
+
+# Research — Sonos Installation silo · Hudson Valley hub (sonos-installation-hudson-valley)
+
+Built 2026-10-17 by the HV-hub subagent. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes unless noted). Anything that could not be opened is written `EMPTY (not accessible in build env)`. Nothing was inferred to fill a gap.
+
+Thesis for this hub (kept distinct from NYC + Long Island Sonos hubs built in parallel): old/historic valley housing (plaster and lath, stone, balloon framing) pushes a wireless-first plan; outbuildings, barns, detached garages and long property runs need a network plan (wired backhaul / SonosNet / mesh), not just more speakers; weekend and second homes need a system that recovers on its own because the Sonos app can't control the house from away; cold-weather limits on Amp and portables vs outdoor architectural speakers; rural internet limits.
+
+## (a) Silo-wide Sonos product / technical findings (usable by every Sonos page)
+
+### 1. Reddit
+- Query `Sonos app control system when away from home not on same network support` · FC search → https://www.reddit.com/r/sonos/comments/1kp78so/control_sonos_far_from_home/ — excerpt: "Sonos doesn't allow this on their native app" (third-party apps suggested). Also https://en.community.sonos.com/speakers-228992/putting-sonos-speakers-on-different-wifi-network-than-the-sonos-controller-app-6932319 — excerpt: "Sonos documentation states that Sonos speakers must be on the same network as the device that runs the Sonos controller app." And https://en.community.sonos.com/controllers-music-services-228995/controlling-sonos-from-outside-the-wifi-network-6859050 — excerpt: limited control from outside the network only via some third-party smart-home apps such as Amazon's. → §9 Q "Can we start or stop the music at the weekend house from our apartment in the city?"; §10.5 claim 4.
+- Query `reddit hudsonvalley sonos wifi barn outbuilding ethernet run` · FC search → no r/hudsonvalley result (EMPTY for r/hudsonvalley). r/HomeNetworking excerpts: https://www.reddit.com/r/HomeNetworking/comments/1j3miyh/best_way_to_get_internet_to_a_barn_250ft_outdoor/ ("either trench fiber (and use media converters) or put up point to point directional antennas"); https://www.reddit.com/r/HomeNetworking/comments/13vuvgj/running_120_network_cable_to_barn_have_questions/ (fiber-optic jumper between buildings); https://www.reddit.com/r/HomeNetworking/comments/1tqn0pg/running_internet_to_barn/ ("Ubiquiti ethernet surge protection equipment for outbuildings"). → §9 barn/outbuilding Q; §7 outbuildings card; Field Notes.
+- https://www.reddit.com/r/sonos/comments/1693ewb/outdoor_speakers_by_sonos_and_sonance_in_high_heat/ excerpt (Move operating range quoted). Not used beyond cross-check.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 is built from claims that manufacturer pages, forums and press actually publish (listed below), not from invented AI text.
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### Manufacturer / technical sources
+- Query `Sonos support wired setup SonosNet ethernet connect Sonos product to router` · FC search → https://support.sonos.com/en-us/article/choose-between-a-wireless-and-wired-sonos-setup (FC scrape): in a wired setup one product is wired to the router and "creates a dedicated wireless network specifically for your Sonos system"; products that do NOT use the dedicated network and must be on home WiFi or Ethernet: Arc Ultra, Era 100, Era 100 Pro, Era 100 SL, Era 300, Move, Move 2, Roam, Roam 2, Roam SL, Sonos Play, Sub 4; surrounds/subs can't be the first wired product. → §9 SonosNet Q; §10 equipment; §10.5 claim 2.
+- https://support.sonos.com/en-us/article/recommended-settings-for-using-sonos-with-ethernet-networks (FC scrape): "Sonos recommends a wireless setup for most homes and small businesses"; "hardwired back to a router or switch only. Do not use open Ethernet connections on WiFi access points or extenders unless those devices are also connected back to the network via Ethernet. Do not use Ethernet-over-Power (EoP) devices." Router WiFi and Sonos wireless network on separate channels. → §9 barn Q, powerline Q; §10.5 claim 3; How It Works.
+- Query `Sonos system requirements WiFi 2.4 GHz 5 GHz WPA2 router support article` · FC search → https://support.sonos.com/en-us/article/sonos-system-requirements — unsupported: "Routers that only provide 5 GHz WiFi", WPA/WPA2 Enterprise; all products connect to 802.11b/g 2.4 GHz. https://support.sonos.com/en-us/article/supported-wifi-modes-and-security-standards-for-sonos-products — Era 100 Pro, Era 100 SL, Era 300, Move 2 support WiFi 5/6; Five, Port support 802.11n/a (5 GHz). → §9 mesh/2.4 GHz Q; §10.
+- Query `Sonos Amp specs 125 watts per channel ethernet ports HDMI eARC` · FC search → https://www.sonos.com/en-us/shop/amp (125 W per channel; HDMI eARC/ARC; dual 10/100 Ethernet). https://www.sonos.com/en-us/guides/amp (FC scrape): operating temperature 32° to 104° F; speakers rated ≥125 W at 8 ohm / ≥200 W at 4 ohm; don't connect <4 ohm; two pairs of 8-ohm in parallel supported; don't wire in series; sub output auto crossover; dual Ethernet. → §9 cold-barn Amp Q; §10; §7.5.
+- Query `Sonos Architectural by Sonance outdoor speakers operating temperature weather` · FC search + FC scrape https://www.sonos.com/en-us/shop/outdoor-speaker-pair: "engineered for humidity, water, salt spray, heat, UV rays, and freezing temperatures"; IP66; -13°F to 149°F; 5 W min / 130 W max; optimized for Sonos Amp. Price on page inconsistent ($999 in body, 879 in metadata) → NOT used. Cross-check ListenUp listing (https://listenup.com/products/sonos-outdoor-speakers-by-sonos-sonance) same -13°F to 149°F, IP66. → §9 outdoor Q; §10; §5.5.
+- Query `Sonos Move 2 battery life IP56 Roam 2 IP67 specs` · FC search → https://www.sonos.com/en-us/guides/move2 (IP56, up to 24 h battery); https://www.sonos.com/en-us/guides/roam2 (up to 10 h); https://www.sonos.com/en-us/blog/guide-to-sonos-portable-speakers (Roam 2 and Sonos Play IP67; Move 2 IP56). → §10; §9 portable Q.
+- Query `Sonos Move 2 operating temperature range user guide charging cold` · FC search → https://www.sonos.com/en-us/guides/move2: operating 32°–104°F, storage -13°–158°F, "The charging base is for indoor use only." → §9 cold/portable Q; §5.5.
+- Query `Sonos Era 100 ethernet port adapter line-in USB-C combo adapter` · FC search → https://www.sonos.com/en-us/shop/sonos-combo-adapter: "$39 … allows you to hardwire Beam Ultra, Sonos Play, Era 100, Era 100 SL, Era 300, Move 2…" (manufacturer retail price, labelled as Sonos's). → §9 wired Era Q; §10.
+- Query `Sonos Era 100 Pro PoE installer speaker ceiling` · FC search → https://www.sonos.com/en-us/shop/era-100-pro: "Designed for professional installation … with PoE+ and zone capability"; https://www.sonos.com/en-us/guides/era100pro: auto DSP for portrait, landscape or ceiling orientations. → §10; §9 barn/PoE mention.
+- Query `Sonos app redesign May 2024 problems missing features apology The Verge` · FC search → https://www.theverge.com/2025/1/13/24342282/sonos-app-redesign-controversy-full-story: new app released May 7 (2024), CEO formal apology, features restored gradually. → §10.5 claim on "set-and-forget"; §9 updates Q.
+
+## (b) Hudson Valley section (Westchester, Rockland, Orange, Putnam, Dutchess, Ulster)
+
+### Housing age (§5, §5.5, §7)
+- Query `counties oldest homes New York stacker` (re-reached this run) · FC scrape https://stacker.com/stories/new-york/counties-oldest-homes-new-york (Stacker, Sep 25 2025, U.S. Census Bureau data): Westchester #19, median 1958, 28.0% (109,608) built 1939 or earlier; Ulster #37, median 1966, 25.3% (21,829); Putnam #41, median 1968, 17.9% (6,857); Rockland #46, median 1970, 11.5% (12,523); Dutchess #50, median 1971, 18.0% (22,056); Orange not listed. → §5.5 stats; §5.
+
+### Rural internet (§5.5, §9)
+- Query `Hudson Valley rural broadband … Ulster` → FC scrape https://www.ulstercountyny.gov/Government/News/Newsroom/2025/09/2025-09-25-Funding-for-Broadband-Expansion: $20.8M ConnectALL award; nearly 1,300 unserved households, businesses and community facilities in remote areas; total $61,799,320 incl. $40,938,790 Verizon match; point-to-point fiber under federal BEAD. → §5.5; §9 rural internet Q.
+- Query `Dutchess County broadband unserved addresses…` · FC search → https://www.dutchessny.gov/CMSPrint/Molinaro-Urges-Dutchess-Residents-Businesses-to-Take-Internet-Speed-Survey.htm (title only: county internet-speed survey using ARP funds). Not quoted on page beyond "Dutchess has surveyed internet speeds" — NOT used (excerpt too thin). EMPTY for a Dutchess figure.
+
+### Power (§9)
+- Query `Orange and Rockland Utilities customers without power storm 2026` · FC search + FC scrape https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k (O&R, July 6 2026): "Since Wednesday, July 1, more than 47,000 customers have been impacted"; more than 45,000 restored; ~1,500 still out, incl. Rockland and Orange towns. → §5.5; §9 power-cut recovery Q.
+
+### Climate (§5.5, §9)
+- Query `Poughkeepsie climate January average low temperature NWS normals` · FC search → https://weatherspark.com/y/24832/Average-Weather-in-Poughkeepsie-New-York-United-States-Year-Round — "coldest month … January, with an average low of 19°F and high of 35°F" (third-party climate summary, labelled as WeatherSpark on page). NWS CLI page returned only today's report — EMPTY for an NWS normal. → §5.5; §9 cold barn Q.
+
+### Second homes / short-term rentals (§8 commercial, §9)
+- Query `Ulster County short-term rental registry law registration requirement` · FC search → https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Occupancy-Tax/HotelMotelSTR-Registration — "Operators of hotels, motels, and short-term rentals in Ulster County are required by County Law to register with the Department of Finance." https://www.str.haus/blog/ulster-county-ny-short-term-rental-regulation-by-town/ — Town of Woodstock: annual permit plus county registration, permits capped townwide (Chapter 260, Local Law No. 1 of 2019). → §8 commercial card (rentals); §9 guest-proofing Q.
+- Query `Ulster County seasonal recreational occasional use housing units percent second homes census` · FC search → no Ulster figure returned (Saugerties village PDF excerpt only). EMPTY — no second-home percentage used on page.
+
+### Barns / outbuildings (§7, §13)
+- Query `New World Dutch barns Hudson Valley surviving barns Dutchess Ulster timber frame` · FC search → https://hmvarch.org/news2/hvvaspecial1.htm (Hudson Valley Vernacular Architecture: Saugerties Dutch barn, "one of about 6 surviving examples … with a major/minor rafter system"); https://mountgulian.org/the-grounds/the-house/ — "restored circa 1730 Dutch-style barn, original to the Verplanck family, brought from a nearby property and rebuilt on site." → §7 barns card; §13 landmark.
+
+### Landmarks (§13) — six, none shared with the soundbar HV hub
+- `Caramoor Katonah outdoor music venue…` · FC search + FC scrape https://caramoor.org/visit-us/our-grounds — Venetian Theater "largest and signature music venue … fully tented space"; Spanish Courtyard in the Rosen House; former Rosen country estate. (Westchester)
+- `Bear Mountain State Park…` · FC search → https://parks.ny.gov/visit/state-parks/bear-mountain-state-park — "Perkins Memorial Drive and Tower are open from April through late November, weather permitting"; Rockland County gov FB excerpt places Perkins Drive in Stony Point. (Rockland) Acreage excerpt ambiguous → not used.
+- `Washington's Headquarters State Historic Site Newburgh…` · FC search → https://parks.ny.gov/visit/historic-sites/washingtons-headquarters-state-historic-site — nation's first publicly owned historic site, opened July 4 1850; Hasbrouck House built 1750, closed for restoration; https://www.hudsonrivervalley.com/sites/Washington-s-Headquarters-State-Historic-Site-/details — "fieldstone farmhouse". (Orange)
+- `Boscobel House and Gardens Garrison…` · FC search → https://en.wikipedia.org/wiki/Boscobel_(mansion) — moved 15 miles upriver to save it; https://www.boscobel.org/ — demolished in the 1950s, fragments reassembled. (Putnam)
+- `Mount Gulian Historic Site Beacon Dutch barn…` · FC search → mountgulian.org (c.1730 Dutch-style barn rebuilt on site); https://www.hudsonrivervalley.com/sites/Mount-Gulian-Historic-Site/details (English garden planted 1804). (Dutchess)
+- `Historic Huguenot Street New Paltz stone houses…` · FC search → https://www.huguenotstreet.org/news-release-historic-huguenot-street-to-host-old-new-paltz-stone-house-day — National Historic Landmark District, 30 buildings across 10 acres, original 1678 New Paltz settlement, seven stone houses from the early 18th century. (Ulster)
+- `Vanderbilt Mansion…` · FC search → https://en.wikipedia.org/wiki/Vanderbilt_Mansion_National_Historic_Site — built 1896–1899, Beaux-Arts, Hyde Park. → "we also serve" line only.
+
+### Local news / hyperlocal
+- Lohud / Daily Freeman / Poughkeepsie Journal / Mid-Hudson News: no Sonos- or whole-home-audio-specific story found in this run → EMPTY for the service category. O&R release (above) used as the power-reliability source.
+
+### Field Notes
+No sourced, real HV Sonos job anecdote available → written as general installer practice, labelled as such (no customer story).
+
+### Prices (AESS published only)
+Source: research/tv-mounting-prices/BRIEF.md (verified list, used live on tv-mounting-prices-hudson-valley and soundbar-installation-hudson-valley): Sonos setup $125; soundbar placed $79 / wall-mounted $129; Sanus soundbar bracket $84.99; A/V receiver $129; universal remote $99; streaming device $49; full home theater $350; in-wall concealment kit $169; paintable cord cover $59; cable run to cabinet up to 25 ft $99; plywood backer $85; high mount $75; box removal $25; COI free; wall surcharges metal stud +$30 / plaster +$45 / brick-stone +$65 / concrete +$75 / tile +$95; setup-only first hour Westchester/Rockland $235, Orange/Putnam $250, Dutchess/Ulster $275 then 30-min blocks; TV mounting base Westchester/Rockland $219.99, Orange/Putnam $229.99, Dutchess/Ulster $254.99; $150 return-trip fee; outdoor TV mount add +$90 (not used). Package ranges quoted from av-sound-installation-hudson-valley.html ("Entry — TV Mount + Sonos Starter $1,200 — $5,000"; "Mid-Range — Whole-Home Sonos + Atmos $12,000 — $35,000") cited as that page's published ranges. Everything else (in-ceiling speakers, Amp zones, outdoor speakers, Ethernet drops, outbuilding links) = quoted at walkthrough. Sonos retail prices named only where Sonos publishes them (Combo Adapter $39), labelled as Sonos's.
+
+## Keyword layers
+- Service: Sonos installation Hudson Valley, Sonos setup, Sonos multi-room audio, Sonos Amp installation, Sonos outdoor speakers, Sonos in-ceiling speakers, Sonos Arc / Beam setup.
+- Problem: Sonos dropping out, speaker not found, Sonos in barn/garage, no ethernet near router, slow rural internet, Sonos after power cut, can't control Sonos away from home.
+- Technology: SonosNet (dedicated Sonos wireless network), wired setup, Ethernet backhaul, mesh WiFi, PoE+ (Era 100 Pro), Combo Adapter, Amp 125 W/ch, Trueplay, AirPlay 2.
+- Industry: short-term rentals (Ulster registration, Woodstock permits), tasting rooms, inns, offices.
+- Geographic: Hudson Valley; Westchester, Rockland, Orange, Putnam, Dutchess, Ulster; Katonah, Stony Point, Newburgh, Garrison, Beacon, New Paltz, Woodstock, Kingston, Hyde Park.
+
+## Question register — sonos-installation-hudson-valley
+(filled in after the page was written; see end of file)
+
+### §9 Q&A (H3) and other question-form headings
+- Sonos Dropping Out in the Hudson Valley?
+- Can a Sonos system work in a plaster-and-lath farmhouse without opening the walls?
+- How does balloon framing change the way speaker wire gets pulled in an old valley house?
+- In a room with stone walls, are free-standing Era speakers better than in-ceiling speakers?
+- Our Wi-Fi barely reaches the kitchen — is that a speaker problem or a network problem?
+- Which Sonos products can't use the dedicated Sonos network created by a wired setup?
+- Can we wire Sonos through powerline adapters or the Ethernet port on a mesh satellite?
+- Can a Wi-Fi-only speaker such as an Era 100 be wired with Ethernet?
+- How do you get music to a barn or detached garage 150 feet from the house?
+- Can a Sonos Amp live in an unheated barn or garage through a valley winter?
+- Are Sonos outdoor speakers safe to leave up through freezing winters?
+- Is a Move 2 or Roam 2 better than wired outdoor speakers for a porch or a dock?
+- Can we start or stop the music at the weekend house from our apartment in the city?
+- How do we set up Sonos so it recovers by itself after a power cut while nobody is there?
+- We rent the house out on weekends — how do we keep guests from changing the Sonos setup?
+- Does Sonos keep playing when the rural internet goes down?
+- Does a satellite or fixed-wireless internet plan cause problems for Sonos?
+- Sonos Gone Silent? Need It Fixed in the Hudson Valley?
+
+### §17 FAQ (visible == FAQPage)
+- What does Sonos installation cost in the Hudson Valley?
+- Will you check that a bracket we bought fits the Sonos speaker it has to carry?
+- Can you add new speakers to the Sonos system we already have?
+- Can the TV be mounted on the same visit as the Sonos soundbar?
+- How much is a visit to fix a Sonos system that keeps dropping out?
+- Whose Sonos account is the system registered to?
+- Can a turntable or an older stereo play through Sonos?
+- Do you work evenings and weekends?
+- Can you provide a certificate of insurance for an inn, rental or managed property?
+- Do products you supply carry different warranty cover from products we buy ourselves?
+
+Images (11, borrowed from images/low-voltage/, no real Sonos photos yet): see final report.
+
+
+_Main run 2026-10-17: three Long Island questions reworded to avoid meaning overlap with the Hudson Valley hub (wired-to-router, buy-your-own, warranty)._
+_Main run, after sonos-installation-nyc went live: five LI/HV questions reworded to avoid meaning overlap with the NYC hub (visit length, soundbar choice, warranty, customer-supplied gear, wired setup)._
