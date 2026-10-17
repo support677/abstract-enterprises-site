@@ -156,9 +156,9 @@ LIVE | soundbar-installation-jackson-heights-queens-ny | Soundbar Installation |
 LIVE | soundbar-installation-morris-park-bronx-ny | Soundbar Installation | Morris Park, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | soundbar-installation-west-brighton-staten-island-ny | Soundbar Installation | West Brighton, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | cat6-repair-midtown-manhattan-ny | Cat6 Repair | Midtown, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T14:05Z | cat6-repair-williamsburg-brooklyn-ny | Cat6 Repair | Williamsburg, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T14:05Z | cat6-repair-long-island-city-queens-ny | Cat6 Repair | Long Island City, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T14:05Z | cat6-repair-fordham-bronx-ny | Cat6 Repair | Fordham, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
+LIVE | cat6-repair-williamsburg-brooklyn-ny | Cat6 Repair | Williamsburg, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | cat6-repair-long-island-city-queens-ny | Cat6 Repair | Long Island City, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
+LIVE | cat6-repair-fordham-bronx-ny | Cat6 Repair | Fordham, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T14:14Z | cat6-repair-st-george-staten-island-ny | Cat6 Repair | St. George, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T14:14Z | cat6-repair-financial-district-manhattan-ny | Cat6 Repair | Financial District, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T14:14Z | cat6-repair-park-slope-brooklyn-ny | Cat6 Repair | Park Slope, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
