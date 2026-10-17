@@ -151,3 +151,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-williamsburg-brooklyn-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island-city-queens-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-fordham-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-st-george-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-financial-district-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-park-slope-brooklyn-ny | QUEUED
