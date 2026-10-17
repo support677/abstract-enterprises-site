@@ -64,3 +64,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-suffolk-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-westchester-county | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-rockland-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-orange-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-putnam-county | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-dutchess-county | QUEUED
