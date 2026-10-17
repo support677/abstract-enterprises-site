@@ -78,7 +78,7 @@ LIVE | cat6-repair-rockland-county | Cat6 Repair | Rockland | up /cat6-repair-hu
 LIVE | cat6-repair-orange-county | Cat6 Repair | Orange | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-putnam-county | Cat6 Repair | Putnam | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T11:14Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
 LIVE | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -114,7 +114,7 @@ BUILDING 2026-10-17T11:14Z | fiber-optic-installation-financial-district-manhatt
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-dumbo-brooklyn-ny | Fiber Optic Installation | DUMBO, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-long-island-city-queens-ny | Fiber Optic Installation | Long Island City, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-hunts-point-bronx-ny | Fiber Optic Installation | Hunts Point, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T11:15Z | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | fiber-optic-installation-chelsea-manhattan-ny | Fiber Optic Installation | Chelsea, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | fiber-optic-installation-brooklyn-navy-yard-brooklyn-ny | Fiber Optic Installation | Brooklyn Navy Yard, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | fiber-optic-installation-jamaica-queens-ny | Fiber Optic Installation | Jamaica, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
