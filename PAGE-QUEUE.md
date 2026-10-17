@@ -188,9 +188,9 @@ BUILDING 2026-10-17T17:02Z | smart-lock-installation-great-kills-staten-island-n
 BUILDING 2026-10-17T17:08Z | fiber-optic-installation-hudson-square-manhattan-ny | Fiber Optic Installation | Hudson Square, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T17:08Z | fiber-optic-installation-sunset-park-brooklyn-ny | Fiber Optic Installation | Sunset Park, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T17:08Z | fiber-optic-installation-astoria-queens-ny | Fiber Optic Installation | Astoria, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | fiber-optic-installation-mott-haven-bronx-ny | Fiber Optic Installation | Mott Haven, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | fiber-optic-installation-port-richmond-staten-island-ny | Fiber Optic Installation | Port Richmond, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | fiber-optic-installation-flatiron-manhattan-ny | Fiber Optic Installation | Flatiron, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T17:27Z | fiber-optic-installation-mott-haven-bronx-ny | Fiber Optic Installation | Mott Haven, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T17:27Z | fiber-optic-installation-port-richmond-staten-island-ny | Fiber Optic Installation | Port Richmond, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T17:27Z | fiber-optic-installation-flatiron-manhattan-ny | Fiber Optic Installation | Flatiron, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | fiber-optic-installation-williamsburg-brooklyn-ny | Fiber Optic Installation | Williamsburg, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | fiber-optic-installation-maspeth-queens-ny | Fiber Optic Installation | Maspeth, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | fiber-optic-installation-parkchester-bronx-ny | Fiber Optic Installation | Parkchester, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
