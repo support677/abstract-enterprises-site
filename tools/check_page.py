@@ -79,6 +79,7 @@ AREAS = {
     "ulster-county":      (("Ulster",), "child", "hudson-valley", "bronx", "8456403835", CHILD),
 }
 BOROUGHS = ("staten-island", "manhattan", "brooklyn", "queens", "bronx")
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COMPANY_PHONES = {a[4] for a in AREAS.values()} | {p for a in AREAS.values() for p in a[5]} | {
     TOLL_FREE, WHATSAPP, SECONDARY_DOMAIN_PHONE}
 GEO_WORDS = sorted({w for a in AREAS.values() for w in a[0]} | {
@@ -266,10 +267,21 @@ def identify(slug):
     for suffix in sorted(AREAS, key=len, reverse=True):
         if slug.endswith("-" + suffix):
             return slug[: -len(suffix) - 1], suffix
-    m = re.match(r"^(.*?)-[a-z0-9-]+-(" + "|".join(BOROUGHS) + r")-ny$", slug)
+    m = re.match(r"^(.*)-(" + "|".join(BOROUGHS) + r")-ny$", slug)
     if m:
-        return m.group(1), m.group(2)
+        # silo = the longest prefix that has a live borough page (multi-word silos like
+        # soundbar-installation); falls back to the shortest prefix (legacy behaviour)
+        parts, borough = m.group(1).split("-"), m.group(2)
+        for i in range(len(parts) - 1, 0, -1):
+            cand = "-".join(parts[:i])
+            if os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{borough}.html")):
+                return cand, borough
+        return parts[0], borough
     return None, None
+
+
+def is_neighbourhood(slug):
+    return bool(re.match(r"^.*-(" + "|".join(BOROUGHS) + r")-ny$", slug))
 
 
 def silo_pages(root, silo, slug):
@@ -516,6 +528,8 @@ def check(root, slug, registration=True, stats=False):
                 fail(f"live sibling {sslug} doesn't link back to /{slug}")
 
     # --- hub and spoke
+    if is_neighbourhood(slug):                       # neighbourhood spoke: up-link = its borough page
+        parent = area
     if kind == "child":
         up = f"/{silo}-{parent}"
         if up not in hrefs:
