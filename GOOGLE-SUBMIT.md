@@ -7,3 +7,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-14 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nyc | QUEUED
 2026-10-15 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-manhattan | QUEUED
 2026-10-16 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-brooklyn | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nyc | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-hudson-valley | QUEUED
