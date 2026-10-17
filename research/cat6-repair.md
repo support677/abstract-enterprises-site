@@ -325,3 +325,362 @@ F10. What should we have ready for a technician arriving at a remote site?
 Other "?" headings: "A Hudson Valley Cat6 Link Down Since the Storm?" (repair capture), "Outbuilding or Yard Camera Offline This Week?" (closing).
 
 De-dup notes: compared by meaning against the NYC register (research/cat6-repair.md) and the parallel cat6-repair-long-island page as built at 05:11. Removed/rewritten from first draft because LI covered the same intent: hot-attic pass-in-spring/fail-in-summer (→ expansion-joint Q), surge protector on outdoor run (→ well-house FAQ), stapled cable salvage (→ least-visible replacement route in masonry), seasonal building reopening (→ converted barn FAQ), travel/area charge (→ knob-and-tube FAQ). Storm Qs reworded to pattern (outdoor vs desk ports) and hidden-damage triage, distinct from LI's single-camera cable-or-port and "what gets damaged" questions. NYC F10 (run between two buildings) intent avoided: outdoor runs are handled as weather/plug/cable-rating questions, not "can you repair between buildings".
+
+
+---
+<!-- appended by batch build cat6-repair-queens, 2026-10-17 -->
+## Queens
+
+Batch run 2026-10-17 (cat6-repair-queens). Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd, #bronx, as on network-cable-repair-queens / fiber-optic-installation-queens / sonos-installation-queens) · up-link /cat6-repair-nyc. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. "Carried" = finding fetched earlier today by another silo's Queens run and logged in that research file (not re-fetched); the file is named.
+
+**Thesis (different from NYC hub, LI, HV and from network-cable-repair-queens):** in Queens the Cat6 is worn out by how the building is *used*, not by risers (NYC hub), heat/distance/weather (LI) or outside-in storms (HV). Three engines: (1) working storefronts and kitchens on the BID corridors — heat over the line, mop water at low jacks, roll-down gates, POS vendors who stop at the wall; (2) the borough's houses and basements being re-renovated and re-occupied — Ida and the 2023 floods, the 2024 basement program, brick rowhouses and Mathews flats where cable is surface-run on masonry, drywall screws and other trades' drills; (3) new LIC/Hunters Point/Sunnyside towers whose in-unit jacks run to a media panel that was never patched. network-cable-repair-queens's angles (shared riser tracing, Maspeth over-length, machinery vibration, other tenants' work, afternoon ceiling heat, Rockaway corrosion, office above a restaurant) were read and avoided as questions.
+
+### Reddit (local)
+- `site:reddit.com Queens ethernet wall jack not working apartment house cat6` · Firecrawl search (excerpts only; Firecrawl scrape of reddit.com refused: "we do not support this site") →
+  - https://www.reddit.com/r/longislandcity/comments/1hw6agf/does_your_apartment_have_ethernet_available/ — excerpt: "Any cat5 wiring in your apartment walls would be connected to a patch panel somewhere. Each port on the panel would then have to be patched…" → §5 para 4 (towers), §9 Q "Every jack in our new LIC apartment is dead", §10.5 H3 5 (paraphrased, attributed to a commenter in r/longislandcity).
+  - https://www.reddit.com/r/HomeNetworking/comments/1q38rgl/ (renovated house, "the only keystone that was terminated is this one. All the other just had a loose cat6 behind…") — not Queens; background only for §9 renovation Q. Not quoted.
+- `Long Island City apartment tower in-unit ethernet jack structured media panel not connected renter` · Firecrawl search → https://www.reddit.com/r/Apartmentliving/comments/1lfi4m4/wall_ethernet_not_working_who_is_responsible/ (excerpt: "none of the ethernet ports in the wall are connected to eachother") — not Queens; background only for §9 rental Q. Not quoted.
+- Queens-specific Reddit threads on failing Cat6 in restaurants/basements: EMPTY (none returned; reddit not scrapeable in build env).
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 says on the page that the AI Overview could not be viewed; each H3 is framed as a commonly repeated claim and corrected with the sources below.
+
+### Restaurant / storefront (use case)
+- `number of restaurants in Queens NYC DOHMH inspection data borough` · Firecrawl search → https://www.nyc.gov/site/doh/services/restaurant-grades.page (excerpt): "health inspection results for New York City's 29,000 restaurants on ABCEats" → §5.5 bullet. (nycdatascience.com student analysis "Queens 4540" — undated student work, NOT used. data.lohud.com list of closed Queens restaurants — not used.)
+- `restaurant kitchen ethernet cable heat grease POS network problems cable rated temperature 60C` · Firecrawl search →
+  - scrape https://support.toasttab.com/en/article/Network-Cable-Troubleshooting-1492723816122 (last updated Sep 17 2026): stationary devices "should use Ethernet rather than Wi-Fi … more stable than Wi-Fi and is not affected by wireless interference"; quick fix for dropping connection = "Reseat or replace the cable"; "If the cable runs into a wall jack and the jack appears to be the problem, the jack may need repair. Repairs to in-wall cabling may require an outside resource such as an electrician, as Toast does not provide service for intensive cable work."; hardware uses "Cat5e and Cat6". → §5 para 2, §9 Q "POS company says it's in the wall", §10.5 H3 1 and 2, §6 card.
+  - scrape https://f3tech.com/2025/03/5-things-you-shouldnt-do-with-ethernet-cables-in-restaurants/ (F3 Technologies, Mar 5 2025): restaurant cable mistakes include "placing cables too close to heat and water", "leaving them exposed or tangled into messy 'rat's nests'". → §5 para 2, §7.5 kitchen paragraph (attributed to a restaurant IT firm).
+  - specgravity.com "28% of POS errors trace back to connectivity issues" (excerpt only, vendor blog, method unknown) — NOT used.
+  - Silo source reused: Fluke / ISO/IEC 11801 insertion-loss derating 0.4 %/°C (20–40 °C) — research LI section → §9 kitchen-display Q (heat over the line).
+
+### Building stock / landmarks / corridors
+- `Queens one- and two-family homes share of housing stock attached rowhouses statistic` · Firecrawl search → scrape https://chpcny.org/visualization/housing-stock-visualization/ (CHPC "Taking Stock", Oct 2024, 2023 NYCHVS): "about 3.7 million housing units"; "Half of all NYC's housing is found in Brooklyn and Queens"; "garden apartments in Sunnyside"; small homes "over a quarter of all housing units"; over half of units built before 1947. No Queens-only building-type split → Queens split EMPTY. → §5 para 1, §5.5.
+  - Urban Omnibus 2016 excerpt (217,000 row houses citywide) — not used (citywide, methodology).
+- `Ridgewood Queens historic districts brick rowhouses tenements Mathews Flats number of buildings Landmarks` · Firecrawl search (excerpts) →
+  - http://s-media.nyc.gov/agencies/lpc/lp/2319.pdf (LPC Ridgewood North HD report): 96 buildings, "primarily three-story brick tenements"; G.X. Mathews Company "built and sold over 300 tenements in Ridgewood between 1909 and 1912"; Mathews also built "over 300 buildings, including its model flats, smaller, two-story apartment buildings, and one- and two-family houses" in Woodside, and "250 one-family brick homes with garages in the Elmhurst section". → §5 para 3, §5.5, §7 card, §13 card.
+  - https://hdc.org/buildings/central-ridgewood-historic-district/ : "approximately 990 buildings and sites, most of which are brick row houses"; Paul Stier built "over 2,000 houses in the area". → §7 card, §13 card.
+  - Wikipedia Mathews Model Flats excerpt ("more than 3,000 buildings in Queens", garbled) — NOT used.
+- Carried from research/smart-lock-installation.md (Queens rows C1, C3, C4, Q1, Q7, Q8, Q13): Census QuickFacts Queens pop 2,358,182, 934,750 housing units (July 1 2025), owner-occupied 44.9% (2020–2024); OSC report 24-2025 LIC/Sunnyside/Woodside housing +~42% 2010–2023 to ~66,700 units; Glen Oaks Village 2,904 garden apartments in 134 buildings; Local Law 126 of 2024 basement/cellar program (Queens CD2 in program area; pre-April 20 2024 units; apply by April 20 2029; water sensors/alarms within 3 months; sprinkler within 2 years); Fresh Meadows 140-building complex (NYT 1972); Jackson Heights HD designated Oct 19 1993; Queens BIDs (11: 180th Street, 82nd Street Partnership, Bayside Village, Downtown Flushing Transit Hub, Downtown Jamaica Partnership, GatewayJFK, Long Island City Partnership, Myrtle Avenue (Queens), Steinway Street, Sunnyside Shines, Woodhaven). → §5.5, §7, §8, §9 basement Q, §13.
+- Carried from research/fiber-optic-installation.md (Queens section): LIC 2001 rezoning (adopted July 26 2001, 37 blocks); One Court Square 673 ft, 50 storeys, completed 1989, tallest in Queens until 2019; Hunters Point South 1,194 rentals (Dec 2021); Silvercup Studios (former bakery, 1929–30; studio 1983); Kaufman Astoria (1920, 11 stages); JFK $270M 350,000 sq ft cargo centre (Apr 2025, temperature-controlled space); LaGuardia $8B, Terminal B; Queens College 83 acres; Flushing Main St pedestrian count "only second to Times Square" (Streetsblog ~Dec 2019, Chamber's Choe); seven Queens IBZs; 7 train viaduct (not used — fiber page's angle). → §8 cards, §13 cards.
+
+### Local news / hyperlocal
+- `Queens flash flooding September 29 2023 businesses basements damage Queens` · Firecrawl search → scrape https://queenseagle.com/all/2023/9/29/floods-engulf-queens (Ryan Schwach, Sept 29 2023): remnants of Tropical Storm Ophelia; "Countless basement apartments in the borough were flooded"; "the wettest day in New York City since Hurricane Ida"; at LaGuardia "Terminal A was shut down due to heavy flooding inside the building"; East Elmhurst severely flooded incl. 23rd Street; Elmhurst Hospital 30-year-old roof leaked; Beach 67th St, Arverne flooded. → §5 para 3, §5.5, §9 basement Q context, §10.5 H3 4.
+  - https://en.wikipedia.org/wiki/September_2023_New_York_floods (excerpt: damage ~$100M; one basement "flooded again, after it was previously flooded during … Ida") — supporting only, not quoted.
+- Carried (smart-lock / soundbar files): Queens Daily Eagle — 11 of 12 confirmed Ida dead from Queens, 10 lived in basement apartments; DOHMH flooding-and-health data story. → §5 para 3, §5.5.
+- `Queens rats rodents chewed wires restaurant building news qns.com OR qchron.com` · Firecrawl search → scrape https://qns.com/2021/07/rat-complaint-in-queens-have-jumped-nearly-30-percent-during-the-first-half-of-2021/ (Allie Griffin, July 22 2021): 1,812 Queens rat complaints Jan 1–June 30 2021 vs 1,424 in H1 2020 (311 data); rise "in part … attributed to the reopening of restaurants"; Ridgewood 221 vs 103; Woodside 180 vs 89; Astoria (11105) 106; Corona 86; Briarwood 81. (Article labels Ridgewood "11358" — zip typo; page uses neighbourhood names only.) → §5.5, §6 rodent card, §10.5 H3 4.
+  - PIX11 excerpt (rats chewing car wiring, soy-based coating theory) — not used (vehicles).
+  - qchron.com Forest Hills rats excerpt — not used.
+- `July 14 2025 flash flood Queens basements subway flooding rainfall inches` · Firecrawl search → NWS OKX event page https://www.weather.gov/okx/20250714 (excerpt: 4–6.5 in in hardest-hit areas) — regional, not Queens-specific → NOT used.
+- Queens Chronicle / QNS / Patch items on Cat6 or network-cable repair specifically: EMPTY.
+
+### Local licensing / permits / code (reused silo sources; no new Queens-specific permit source)
+- NYC Electrical Code = 2020 NEC + NYC amendments, full effect Dec 21 2025 (nyc.gov, silo) → §8.5.
+- NEC 800.25 abandoned cable (EC&M, silo) → §8.5, process step 5.
+- DOB post-Ida advice (CityLand Sept 2 2021, silo): never operate breakers standing in water; extensive repairs may need registered contractors/permits → §8.5, §9 basement Q.
+- Local Law 126 of 2024 basement program (carried) → §8.5, §9 basement Q (no legal advice; page says the program's inspection items are the owner's/architect's matter).
+- LPC: Jackson Heights HD and Ridgewood HDs designated → §8.5 (exterior work on designated buildings may need LPC approval — silo/fiber LPC sources).
+- Firestopping at rated penetrations: stated as general practice, no Queens-specific source.
+
+### Prices used (live AESS pages only; no new prices)
+- $195/hr, three-hour minimum ($585); additional time $195/hr — network-cable-repair-queens.html pricing table and FAQ; cat6-repair-nyc.html. Protected rate (v2.3 §9) → not multiplied.
+- Replacement Cat6 drop "From $175/drop" (cable, keystone jack, wall plate, panel punch-down, testing, both-end labelling, patch cord) — network-cable-repair-queens.html table; same figure on cat6-repair-nyc.html. Page uses $175 as published for Queens.
+- New-install comparison: Cat5e $233 / Cat6 $272 / Cat6A $388 per drop to 100 ft — cat6-installation-queens.html (identical to cat6-installation-nyc.html; no Queens multiplier applied on that live page).
+- Outdoor/exterior entry made good, sealed and bonded: Bronx published "from $185 per penetration" (network-cable-repair-bronx.html, quoted on cat6-repair-nyc) × §9 Queens 1.05 = $194.25 → **from $194 per penetration** (no live Queens figure exists for this item).
+- Third-party national (labelled): Fixr Jan 2025 $125–$250 per drop, $45–$75/hr (silo).
+- FLAGS for Anwar: (1) §9 Queens 1.05× would make the replacement drop $183.75 → $184; network-cable-repair-queens.html and the NYC hub publish $175 for Queens, so the page follows the live Queens figure (conflict noted, same choice as NYC/LI/HV hubs). (2) cat6-installation-queens $272 Cat6 drop = NYC figure, no 1.05× (1.05× would be $286); quoted as published, comparison only. (3) $194 exterior-entry figure is a derived §9 number (Bronx base × 1.05), not yet published elsewhere.
+
+### Keyword notes (five layers, Queens geo)
+- Service: Cat6 repair Queens, Cat6 cable repair Queens NY, Cat6 jack repair, POS Cat6 repair, restaurant network cable repair, Cat6 re-termination, Cat6 certification, apartment Ethernet jack repair, media panel repair.
+- Problem: KDS/POS offline, register no link, mop-water corrosion at floor jacks, roll-down gate damage, drywall screw through Cat6, renovation-cut runs, flooded basement Cat6, rodent-chewed Cat6, dead apartment jacks (unpatched panel), crowded media enclosure, third-party drill damage, two-family shared closet.
+- Technology: Cat6, Cat6A, keystone, 110 punch-down, structured media enclosure, patch panel, certification tester, TDR/distance to fault, PoE, surface raceway, firestopping, insertion-loss temperature derating.
+- Industry: restaurants, bakeries, groceries, salons, pharmacies, retail on BID corridors, medical/dental in converted houses, landlords of two-family houses, co-op boards, condo/rental tower residents, studios and lofts, cargo forwarders near JFK.
+- Geographic: Queens; Flushing (Main St), Astoria (Steinway St, 30th Ave), Jackson Heights (37th Ave, 82nd St, Roosevelt Ave), Elmhurst, Corona, Woodside, Sunnyside, LIC (Court Square, Hunters Point), Ridgewood (Myrtle Ave), Glendale, Middle Village, Maspeth, Forest Hills, Rego Park, Kew Gardens, Richmond Hill, Woodhaven, Jamaica (Jamaica Ave, 165th St), Hollis, St. Albans, Bayside (Bell Blvd), Whitestone, College Point, Fresh Meadows, Glen Oaks, East Elmhurst, Howard Beach, Ozone Park, Rockaways (Arverne).
+
+### Images (11) — permanent image rule; Drive "AESS Website Photos/Cat6 Repair" EMPTY (main run), CompanyCam not connected
+Source pool images/network-cable-repair/*-queens.webp (the 11 scenes used on the NYC hub — chosen so the Staten Island builder, drawing on the LI/HV hub scene set, does not overlap). Every source shows a technician's face, so each was cropped with PIL to hands/equipment only (re-viewed after cropping: no faces, house numbers, plates or phone numbers; AESS shirt logos visible). WebP q80, all ≤1600 px. md5-unique within images/cat6-repair/.
+| images/cat6-repair/ | Source (images/network-cable-repair/) | Crop |
+|---|---|---|
+| cat6-repair-queens-wall-jack-open-pair-tester.webp (hero) | network-jack-repair-queens.webp | 0,450,1000,1024 |
+| cat6-repair-queens-nicked-jacket-on-ceiling-grid.webp | crushed-network-cable-repair-queens.webp | 240,280,1536,1024 |
+| cat6-repair-queens-ceiling-bundle-flashlight-check.webp | network-cable-inspection-queens.webp | 630,0,1536,620 |
+| cat6-repair-queens-corroded-plug-block-wall-box.webp | water-damaged-network-cable-repair-queens.webp | 680,380,1536,1024 |
+| cat6-repair-queens-wall-plate-keystone-punch.webp | keystone-jack-replacement-queens.webp | 600,490,1536,1024 |
+| cat6-repair-queens-link-down-tester-at-rack.webp | network-closet-troubleshooting-queens.webp | 0,430,820,1024 |
+| cat6-repair-queens-labelled-panel-punch-down.webp | patch-panel-repair-queens.webp | 0,0,1000,1024 |
+| cat6-repair-queens-dome-camera-no-poe-test.webp | poe-camera-cable-repair-queens.webp | 0,0,900,1024 |
+| cat6-repair-queens-split-jacket-steel-desk-leg.webp | damaged-ethernet-cable-repair-queens.webp | 0,470,1536,1024 |
+| cat6-repair-queens-tone-probe-labelled-cords.webp | network-cable-tracing-queens.webp | 760,0,1536,1024 |
+| cat6-repair-queens-wire-map-crossed-open-pair.webp | network-cable-fault-detection-queens.webp | 0,300,1536,1024 |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (no real Cat6 Repair photos yet)`. Review note: the library photos appear AI-generated (uniform branding, idealised scenes) — same caveat logged on earlier pages; none shows a Queens location, and captions say only what is visible.
+
+
+---
+<!-- appended by batch build cat6-repair-bronx, 2026-10-17 -->
+## Bronx
+
+Batch run 2026-10-17 (cat6-repair-bronx). Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx, LocalBusiness block modelled on network-cable-repair-bronx.html) · up-link /cat6-repair-nyc. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked.
+
+**Thesis (different from NYC hub, LI, HV, Queens, Staten Island and network-cable-repair-bronx):** Bronx Cat6 comes in two ages — young cable in the borough's recent new-construction boom (built-in installation defects, unterminated media-panel runs, other trades, long late-terminated roof/amenity camera runs) and Cat6 retrofitted later into 1920s–40s five- and six-storey apartment houses (hallway surface raceway, light wells/chases/old intercom conduit, cellars beside steam heat, renovations, super's emergency patches). The repair starts by "dating" the failure: built-in defect (often the installer's to answer for) vs later damage (a route problem). Also: most buildings are rented and run by agents/supers, and the Cat6 mostly carries building systems (intercom, cameras, readers, lockers, laundry). network-cable-repair-bronx's angle (cold rooms, yards, wash-down, shared cellar panel, hostile environment) and cat6-installation-bronx's FAQ were read and avoided.
+
+### Reddit
+- `site:reddit.com r/bronx ethernet OR cat6 OR "network cable" apartment building` · Firecrawl search (excerpts only; reddit not scrapeable) →
+  - https://www.reddit.com/r/AskNYC/comments/gmwnwh/is_it_legal_for_me_to_run_an_ethernet_cable_along/ — excerpt: "NYC building code does not require conduit for low voltage cabling." → §10.5 H3 4 (paraphrased, attributed to "a commenter on r/AskNYC", then corrected: listing/firestop/raceway).
+  - https://www.reddit.com/r/Fios/comments/1oz9xcz/1_gb_fios_installion_in_a_5thfloor_apt_bronx_nyc/ — excerpt (Fios install in a 5th-floor Bronx apt; tech brought the ONT into the apartment) → background only, not used.
+  - https://www.reddit.com/r/Fios/comments/1woft3r/need_fios_service_on_harrison_ave_the_bronx/ — excerpt (Verizon/Optimum wires behind properties) → not used.
+- `reddit bronx new building apartment ethernet jacks wall not working cat6 smart panel` · Firecrawl search → no Bronx thread; r/HomeNetworking https://www.reddit.com/r/HomeNetworking/comments/ttcbcp/moved_into_an_apartment_with_ethernet_ports_but/ and r/techsupport https://www.reddit.com/r/techsupport/comments/1qlp8fa/apartment_has_ethernet_jacks_in_each_room_but/ (excerpt: "remove each cable from the punchdown block and re-terminate it to a RJ45 connector") → background for §6 media-panel card and §10.5 H3 2 (forum framing, not quoted). Bronx-specific fault threads: EMPTY.
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on the page that the AI Overview was not visible; each H3 is a commonly repeated claim (Fixr cost guide, r/AskNYC, how-to "re-crimp", mesh Wi-Fi, "indoor cable has no heat problem") corrected with sourced facts.
+
+### Building stock / housing (local)
+- `Bronx renter-occupied housing share multifamily buildings built before 1947 percentage Furman Center Bronx` · Firecrawl search → scrape https://www.furmancenter.org/neighborhoods/the-bronx/ (query, directQuote; page last updated 05/06/2026): "In 2024, the homeownership rate in The Bronx was 19.7%, which is lower than the citywide share of 32.7%."; "Between 2010 and 2025, 63,066 units in 4+ unit buildings were built in The Bronx." → §5.5 bullets 3 and 5. (Housing-unit row with unlabelled year columns — NOT used.)
+- `Bronx new housing construction permits led city units Bronx building boom 2023 2024` · Firecrawl search → https://www.osc.ny.gov/files/reports/pdf/report-24-2025.pdf (OSC "Housing Production in New York City", excerpt): "In 2023, the Bronx's share of net new units citywide reached 35 percent, surpassing Brooklyn's share of 34 percent"; "In 2023, 11 very large buildings were completed on or close to the rezoned waterfront, totaling 3,270 housing units … Another 1,019 housing units … were built in the Jerome Avenue Neighborhood Plan area in four 100+ unit buildings"; "In 2024, the Bronx maintained higher-than-average production with 8,093 new units"; Bronx 570,439 units in 2023. → §5 para 1, §5.5 bullets 1–2.
+  - https://newyorkyimby.com/2026/05/new-york-yimbys-2026-first-quarter-construction-report-tallies-a-dramatic-increase-in-development.html (excerpt): Bronx residential/hotel units filed 3,677 → 7,344 Q1 2026 — not used on page (filings, not completions).
+- `Grand Concourse Historic District Art Deco apartment buildings landmarked number of buildings` · Firecrawl search → https://s-media.nyc.gov/agencies/lpc/lp/2403.pdf (LPC designation report, excerpt): 78 properties along one mile of the Grand Concourse between East 153rd and 167th Streets; 61 apartment houses constructed 1917–1959; "the five- and six-story apartment house became the dominant building type along the Grand Concourse and within the Bronx"; Jerome Avenue subway completed 1918. → §5.5 bullet 4, §7 pre-war card, §13 card 1.
+- `Co-op City Bronx 35 buildings 15,372 apartments Riverbay largest cooperative housing` · Firecrawl search → https://www.coopcity.com/aboutus/ (excerpt): "15,372 residential units in 35 high-rise buildings and seven (7) townhouse clusters". → §5.5 bullet 6, §13 card 6, borough section.
+
+### Corridors / landmarks
+- `Jerome Avenue rezoning 2018 approved housing units Bronx City Council` · Firecrawl search → https://www.sobro.org/jeromeavenue (excerpt): "In 2018 the New York City Council approved the rezoning of a 92-block stretch of the Bronx's Jerome Avenue"; https://council.nyc.gov/land-use/plans/jerome-avenue-neighborhood-plan/ (excerpt, ~95-block area — differing count; page uses SoBRO/City Limits "92-block"). → borough section (Highbridge/Concourse).
+- `Lower Concourse rezoning Mott Haven waterfront Bronx Point new towers Harlem River` · Firecrawl search → https://edc.nyc/project/lower-concourse-infrastructure-investment-strategy (excerpt): "In 2009, this 30-block stretch along the Harlem River was rezoned"; https://bronxpoint.nyc/ (excerpt): "approximately 530,000 square feet … adjoining the Harlem River waterfront", adjacent to Mill Pond Park; https://danieltrubman.substack.com/p/the-apartments-are-ready-the-waterfront (Sep 17 2026, excerpt): One River Park at 355 Exterior Street, two towers, "north of 700 apartments", affordable lottery opened Sept 2026. → borough section (Mott Haven), §13 card 2. (700-apartment figure not used on page.)
+- `Fordham Road Business Improvement District number of businesses stores Fordham Road` · Firecrawl search → https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=49 (excerpt): "No. Block Faces Covered: 35. No. Ground Floor Retail Businesses: 333." (nyctourism.com "almost 300 specialty stores" — not used). → §8 card 1.
+- `"The Hub" Third Avenue 149th Street Bronx BID retail corridor busiest intersection` · Firecrawl search → https://en.wikipedia.org/wiki/The_Hub,_Bronx (excerpt): 2/5 at Third Avenue–149th Street; BID = Hub-Third Ave Merchants District Management Association. → §8 card 2, §13 card 4.
+- `Bronx Terminal Market Gateway Center square feet retail Major Deegan 149th Street` · Firecrawl search → https://en.wikipedia.org/wiki/Bronx_Terminal_Market (excerpt): 913,000 sq ft GLA; 17-acre site south of Yankee Stadium; https://www.related.com/our-company/properties/bronx-terminal-market (excerpt) parking for 2,600 cars (not used). → §8 card 3.
+- `Bay Plaza Shopping Center Co-op City square feet mall Bronx opened 2014` · Firecrawl search → https://en.wikipedia.org/wiki/Bay_Plaza_Shopping_Center (excerpt): opened August 14, 2014; Hutchinson River Parkway and I-95; grew to ~2,000,000 sq ft. → §8 card 5, §13 card 6.
+- `Fordham University Rose Hill campus acres Bronx` · Firecrawl search → https://www.fordham.edu/about/campuses/rose-hill-campus/ (excerpt): "85 acres". → §8 card 6, §13 card 3.
+- Hunts Point 329 acres, 155+ wholesalers — silo NYC section (nycfoodpolicy.org) → §8 card 4, §13 card 5.
+- Neighbourhood names in §13 "we also repair" and the borough section are place names only (no claims).
+
+### Local news / hyperlocal
+- `Bronx Times OR Norwood News building internet cables cut vandalism tenants outage apartment Bronx` · Firecrawl search → results were fire/elevator/collapse stories (cbsnews.com Norwood fire; CBS 15-storey elevator outage; News12 3160 Webster Ave) and an abc7 Spectrum fiber-vandalism story in Brooklyn/Queens — none about Bronx building data cabling → NOT used. Bronx Times / Norwood News / Riverdale Press items on Cat6 or building network cabling: EMPTY.
+- `September 29 2023 flash flooding Bronx basements rainfall record New York City` · Firecrawl search → https://en.wikipedia.org/wiki/September_2023_New_York_floods (excerpt: wettest September since 1882, 14.25 in) — Bronx-specific damage not in excerpt → NOT used (cellar water is covered by NCR Bronx/NYC hub).
+
+### Local licensing / permits / code
+- NYC Electrical Code = 2020 NEC + NYC amendments, full effect Dec 21 2025 (nyc.gov, silo) → §8.5 bullet 1.
+- NEC 800.25 abandoned cable (EC&M, silo) → §8.5 bullet 2, §9 chase/conduit Qs.
+- `Landmarks Preservation Commission permit required exterior work buildings in historic district nyc.gov` · Firecrawl search → https://www.nyc.gov/site/lpc/applications/applications.page (excerpt): "The City's Landmarks Law requires owners to obtain permits from the Landmarks Preservation Commission before doing work that affects the exterior and, in some …" → §8.5 bullet 4, §10.5 H3 4.
+- Firestopping of rated penetrations: stated as general practice, no Bronx-specific source.
+- Insertion-loss temperature derating (Fluke / ISO/IEC 11801, silo LI section) → §9 boiler Q, §10.5 H3 7.
+
+### Prices used (live AESS Bronx pages only; Bronx §9 multiplier = 1.00×, so no conversion)
+- $195/hr, three-hour minimum ($585); additional time $195/hr — network-cable-repair-bronx.html pricing table (same on cat6-repair-nyc.html). 
+- Replacement Cat6 drop from $175 (cable, keystone, plate, panel punch-down, testing, both-end labelling, patch cord) — network-cable-repair-bronx.html.
+- Exterior entry made good, sealed and bonded, from $185 per penetration — network-cable-repair-bronx.html (its original source).
+- New-install comparison Cat5e $233 / Cat6 $272 / Cat6A $388 per drop to 100 ft — cat6-installation-bronx.html.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — labelled third-party (silo).
+- No conflict between the hub and the Bronx pages. FLAG for Anwar: the shared JS price-chip widget on network-cable-repair-bronx.html shows "$250 Service Call", "Cat6A from $250/drop" and "Min. Job $500" — these conflict with the published $195/hr × 3 h ($585) model and were NOT used.
+
+### Keyword notes (five layers, Bronx geo)
+- Service: Cat6 repair Bronx, Cat6 cable repair Bronx NY, Cat6 jack repair, Cat6 re-termination, Cat6 certification/recertification, apartment Ethernet jack repair, media panel termination, intercom/camera cable repair, hallway raceway repair.
+- Problem: new-building jacks never worked, failed at handover, unterminated home runs, move-in damage (TV mounts, drills), roof/amenity camera link faults, raceway pulled/crushed, upper-floor intercom stations dead, taped/coupled splices, winter-only cellar failure (steam heat), renovation-cut common cable, facade/sidewalk-shed disturbance.
+- Technology: Cat6, Cat6A, permanent link/channel, time-domain fault location, keystone, 110 punch-down, structured media panel, surface raceway, CMR/CMP, firestop, PoE, insertion-loss temperature derating, CCA.
+- Industry: rental towers, pre-war apartment houses, co-ops/complexes, managing agents/supers, storefronts (Fordham Road, The Hub), big-box retail (Bronx Terminal Market, Bay Plaza), medical offices, campuses, one-/two-family houses.
+- Geographic: the Bronx; Mott Haven, Port Morris, Lower Concourse, Highbridge, Concourse, Mount Eden, Morris Heights, Jerome Avenue, Fordham, Belmont (Arthur Avenue), University Heights, Bedford Park, Norwood, Kingsbridge, Riverdale, Spuyten Duyvil, Parkchester, Castle Hill, Soundview, Unionport, Co-op City, Pelham Bay, Throgs Neck, Country Club, City Island, Hunts Point, Longwood, West Farms, Wakefield, Williamsbridge, Woodlawn, Allerton, White Plains Road, Westchester Square.
+
+### Images (11) — permanent image rule; Drive "AESS Website Photos/Cat6 Repair" EMPTY (main run), CompanyCam not connected
+Primary pool images/cat6/ (180 files = only 15 distinct photos by md5; all 15 had already been reused on the LI/HV hubs). Chose 11 of the 15; the 4 not chosen (conference-table grommet, floor box, outlet row, voice/data plate) are the scenes the Staten Island page uses, so no scene overlaps with SI or Queens (Queens used images/network-cable-repair/). Every source shows a technician's face, so each was cropped with PIL to hands/equipment only (re-viewed after cropping: no faces, house numbers, plates or phone numbers; AESS shirt logos visible on some). WebP q80, ≤1600 px. md5-unique.
+| images/cat6-repair/ | Source (images/cat6/) | Crop (on 800-px-wide preview scale) |
+|---|---|---|
+| cat6-repair-bronx-ceiling-tile-replacement-feed.webp (hero) | cat6-cable-installation-bronx-ceiling-drop.webp | 340,0,800,640 |
+| cat6-repair-bronx-new-building-corridor-repull.webp | cat6-cable-installation-dutchess-county-corridor-pull.webp | 0,250,800,640 |
+| cat6-repair-bronx-cubicle-keystone-retermination.webp | cat6-keystone-termination-brooklyn-outlet.webp | 400,280,800,640 |
+| cat6-repair-bronx-fish-tape-masonry-conduit.webp | cat6-wiring-bronx-fish-tape-conduit.webp | 0,300,800,640 |
+| cat6-repair-bronx-printer-jack-cord-test.webp | office-cat6-installation-bronx-printer-data-jack.webp | 360,250,800,640 |
+| cat6-repair-bronx-metal-stud-cable-bundle.webp | commercial-cat6-installation-bronx-stud-rough-in.webp | 330,200,800,640 |
+| cat6-repair-bronx-drywall-access-cut.webp | cat6-retrofit-installation-bronx-drywall-cut-in.webp | 330,300,800,640 |
+| cat6-repair-bronx-workstation-plate-punch-down.webp | cat6-network-drop-installation-nyc-workstation-outlet.webp | 380,280,800,640 |
+| cat6-repair-bronx-labelled-rack-bundle.webp | cat6-patch-panel-installation-bronx-network-room.webp | 430,0,800,640 |
+| cat6-repair-bronx-desk-data-jacks-identified.webp | cat6-data-drop-installation-bronx-workstation-outlets.webp | 290,300,800,640 |
+| cat6-repair-bronx-j-hook-cable-support.webp | cat6-installer-bronx-jhook-pathway.webp | 300,0,800,420 |
+DAILY-LOG note: `images: 11 reused from images/cat6/ (no real Cat6 Repair photos yet)`. Review note: the library photos appear AI-generated (uniform branding, idealised scenes); none shows a Bronx location; captions describe only what is visible.
+
+## Question register — cat6-repair-bronx
+
+§9 "Questions Answered" (H3), clusters "Cable from the building boom" / "Cable retrofitted into older apartment houses" / "Public halls, shafts and renovations":
+1. Our Bronx building opened last year and some jacks never worked — is that a repair job or the builder's punch list?
+2. Links in our new building passed at handover but started failing once tenants moved in — what changed?
+3. Why do the cameras on our new building's roof and amenity floors fail more often than the apartment jacks?
+4. The developer handed over the building with no Cat6 test results — can installation defects be told apart from later damage?
+5. In a 1920s apartment house, what usually breaks the Cat6 running in surface raceway along the public hallway?
+6. Only the upper-floor video intercom stations lost picture — is the riser Cat6 to blame?
+7. Our super patched a broken Cat6 run with tape and a coupler — what has to be undone?
+8. Why would a cellar Cat6 run start failing only once the boiler is on for the winter?
+9. Can a damaged Cat6 run that shares an old pipe chase or abandoned dumbwaiter shaft be replaced in the same space?
+10. Can the old intercom or buzzer conduit in our building carry a replacement Cat6 run?
+11. Tenants keep pulling at the Cat6 to a hallway camera — what kind of repair holds up in a public corridor?
+12. A gut renovation in one apartment cut the Cat6 that serves the whole floor's cameras — is it best fixed before the new walls close?
+
+FAQ (§17, = FAQPage schema):
+F1. Can you handle a repair for an owner who lives out of state and leaves everything to a managing agent?
+F2. Is Cat6 repair priced any differently in the Bronx than elsewhere in the city?
+F3. Will you tell us if a failure is the original installer's workmanship so we can send it back to them?
+F4. Can you repair Cat6 in a building that is still under construction, before it has a certificate of occupancy?
+F5. Can you repair the Cat6 feeding a camera inside an elevator cab?
+F6. Do you take on one- and two-family houses in the Bronx, or only larger buildings?
+F7. Do you repair the Cat6 behind package lockers and smart mailroom equipment?
+F8. What should we do to an occupied apartment before a technician repairs a jack inside it?
+F9. Can you repair the Cat6 that crosses our roof to the rooftop cameras?
+F10. Can you repair camera or intercom cable disturbed by facade work or a sidewalk shed?
+
+Other "?" headings: "Cat6 Link Down Somewhere in the Bronx?" (repair capture), "Bronx Cat6 Link Still Failing Tonight?" (closing).
+
+De-dup notes: compared by meaning against the NYC, LI and HV registers above and against the Queens and Staten Island pages as built at ~09:25 (their registers were not yet in this file). Removed from the first draft because Queens/SI cover the same intent: "every jack in a new apartment is dead / never connected" (Queens) → kept only as body text (§6 card, §10.5 H3 2), replaced by the move-in damage Q; "drywall screwed over Cat6" (Queens) → replaced by roof/amenity camera Q; "roll-down gate near the Cat6" (Queens) and "register drops when cooler/compressor kicks on" (SI) → gate-motor interference moved to §7.5 body text, replaced by the old intercom conduit Q; "does the super/landlord need to be there" (Queens) → replaced by the out-of-state owner/managing-agent FAQ; "Wi-Fi extender instead of repair" (Queens) → replaced by the under-construction FAQ; "show our staff how to tell cable from device faults" (Queens) → replaced by the facade/sidewalk-shed FAQ (the superintendent checks stay as a table, not a question). Related-but-distinct: F3 (attributing a fault to the installer) vs NYC F3 (will you repair another contractor's Cat6); Q8 (heating-season failure) vs LI Q1 (summer attic) and HV Q4 (cold garage). cat6-installation-bronx and network-cable-repair-bronx FAQs avoided (cost, pre-war masonry, cold storage, storefronts, CCA, plenum, riser full, Cat5e upgrade; yard camera, cellar flood, dead jack, 100 Mbps, certified reports, Bronx-based).
+
+Masked paragraph similarity (difflib on geo-masked p/li/td/h3/figcaption ≥8 words, Jaccard-prefiltered): no block ≥0.65 vs cat6-repair-nyc, -long-island, -hudson-valley, -queens, -staten-island, cat6-installation-bronx or network-cable-repair-bronx except excluded constants (freshness stamp, warranty sentence, licence/rating strip, NAP, "parts you supply" line, silo link list).
+
+
+---
+<!-- appended by batch build cat6-repair-staten-island, 2026-10-17 -->
+## Staten Island
+
+Batch run 2026-10-17 (cat6-repair-staten-island, up-link /cat6-repair-nyc, phone (347) 934-8335, GBP Brooklyn 1282 Troy Ave as on network-cable-repair-staten-island.html). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. Silo-wide technical sources above (Fluke, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, Fixr Jan 2025, CityLand/DOB Ida advice) reused in general terms only.
+
+**Thesis (differs from NYC hub / LI / HV / Queens / Bronx):** Staten Island Cat6 lives in houses (83% of units in 1–2 family homes) and much of it sits at or below a water line — Sandy surge zone on the East Shore, raised/rebuilt/modular post-Sandy homes, flash-flooded and chronically damp block-wall basements. The repair decision is "where should each connection live relative to the water line" (relocate panel/switch/terminations above it; only continuous cable below; NYC BC Appendix G), plus house-specific faults: two-family runs through the other unit, data cable sharing bored holes with power, provider-relocated routers orphaning home runs, house-to-office splits. Commercial: Hylan Blvd medical/retail, Seaview Ave (SIUH), Richmond Ave/New Springville, St. George/Bay St, West Shore logistics.
+
+### Reddit
+- `site:reddit.com r/statenisland ethernet cable wiring house internet` · Firecrawl search · results were r/HomeNetworking, r/smarthome, r/Spectrum, r/Fios threads, none on r/statenisland → r/statenisland: EMPTY (not accessible in build env / no matching thread). Not used.
+- `reddit statenisland "ethernet" OR "cat6" OR "wired" house basement` · Firecrawl search · no r/statenisland result (generic r/HomeNetworking, r/smarthome finished-house threads) → EMPTY. Not used.
+
+### Google PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on-page that AI Overview could not be viewed; the seven H3 claims are framed as commonly published claims (flood recovery, powerline adapters, ISP inside wiring, Fixr cost, "raise the outlets", "pre-wired house", "clean corroded connectors") and corrected with the sourced facts below.
+
+### Building stock
+- `Staten Island one- and two-family homes share of housing units NYC Planning Furman Center borough profile` · Firecrawl search →
+  - https://chpcny.org/visualization/housing-stock-visualization/ (CHPC "Taking Stock", Oct 2024, excerpt): "in Staten Island, 83 percent of units are in one- or two-family homes"; "Staten Island contains just five percent of the city's housing"; "small homes in Midland Beach". → §5 para 1, §5.5 bullet 1.
+  - https://www.osc.ny.gov/files/reports/pdf/report-24-2025.pdf (NYS Comptroller, Housing Production in NYC, March 2025, excerpt): SI 185,196 units in 2024; new-building units in SI: 1 unit 33.1%, 2 units 49.1% ("a third of units from new buildings were single family homes and another almost half were in two-unit buildings"). → §5.5 bullet 2 (82% combined).
+  - https://prodigyre.com/blog/the-two-family-wealth-engine… (realtor blog, 83% claim) — not used (CHPC is the primary).
+- `Build It Back Staten Island homes elevated rebuilt number Sandy` · Firecrawl search + scrape https://www.nyc.gov/site/housingrecovery/disaster-recovery/build-it-back.page (directQuote): "8,319 homeowners served citywide"; "Staten Island – 1,982"; "838 homes repaired and elevated above base flood elevation"; "492 completely rebuilt homes, including 103 modular homes". → §5 para 2, §5.5 bullet 4, §7 cards (raised, rebuilt/modular), FAQ modular.
+  - https://www.dnainfo.com/new-york/20170921/midland-beach/build-it-back-modular-homes-installation (excerpt: modular homes arriving Midland Beach, 137 Freeborn St) — background only.
+- https://rebuildbydesign.org/wp-content/uploads/2022/03/floodplain-by-numbers.pdf (excerpt; SI floodplain building counts by "below grade/above grade" — category labels ambiguous in excerpt) — NOT used.
+
+### Flood history / local news
+- `Hurricane Sandy Staten Island deaths storm surge Midland Beach Oakwood Beach damage homes` · Firecrawl search →
+  - https://www.silive.com/topic/hurricane-sandy/posts.html (excerpt): "storm surge … claimed the lives of 24 Staten Islanders — more victims than any other borough". → §5 para 2, §5.5 bullet 3.
+  - https://storymaps.arcgis.com/stories/10787fbc706440f587425d69e3239c57 (excerpt): "the east shore of Staten Island, from South Beach to Oakwood Beach, was flooded by the storm surge and many houses were destroyed". → §5 para 2.
+  - https://www.dvidshub.net/news/482917/seawall-will-raise-quality-life-shore-communities-staten-island-new-york (scrape, directQuote, dated 10.10.2024): "the approximate 5-mile-long seawall, with an elevation of 21 feet will be constructed … from the edge of Fort Wadsworth in the north, that's just south of the Verrazzano-Narrows Bridge, to Oakwood Beach in the south"; excerpt: "20-foot storm surge" (not used). → §5.5 bullet 5, §13 Fort Wadsworth card, Shore-by-shore East Shore.
+  - Facebook group posts in results — not used.
+- `Oakwood Beach buyout New York State homes purchased returned to nature Staten Island` · Firecrawl search + scrape https://urbanomnibus.net/2015/02/leaving-the-sea-staten-islanders-experiment-with-managed-retreat/ (Elizabeth Rush, Feb 11 2015, directQuote): "Of the 326 properties the State plans to purchase in Oakwood Beach, it currently owns 296 and has demolished 60. In Ocean Breeze 52 of the 109 planned purchases have been completed". → background for East Shore context; figures NOT placed on page (dated 2015).
+- `Staten Island flash flooding July 2025 OR 2023 basements Mid-Island neighborhoods silive` · Firecrawl search + scrape https://www.silive.com/news/2025/07/severe-flash-flooding-cripples-major-staten-island-roads-during-storm-monday.html (Scott R. Axelrod, July 14 2025, directQuote): SIR "not running between the Huguenot and Tottenville stations due to flooding"; "Hylan Boulevard, in the vicinity of New Dorp Lane, was nearly impassable … as if it was a river"; "Richmond Avenue near Nome Avenue in New Springville"; "Amboy Road near Clarke Avenue"; "the basements of several homes on the block were flooded" (Poplar & Rossville avenues). → §5 para 3, §5.5 bullet 6, §8 Hylan card, Shore-by-shore Mid-Island and South Shore.
+- `Staten Island internet outage businesses Verizon Spectrum silive 2025` · Firecrawl search → silive Jan 15 2026 Verizon bill-credit outage story (excerpt), Downdetector, Facebook — NOT used (carrier outage, not cabling). Hyperlocal news on Cat6/network-cable faults on SI: EMPTY.
+
+### Local codes / permits
+- `NYC Building Code Appendix G flood-resistant construction electrical equipment above design flood elevation Staten Island` · Firecrawl search + scrape https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction (directQuote): "Utilities and attendant equipment shall be located at or above the design flood elevation … or … constructed so as to prevent water from entering or accumulating within the components during conditions of flooding"; "Only flood-damage-resistant materials and finishes shall be utilized below the design flood elevation"; coastal high-hazard: space below lowest horizontal member "Free of obstructions; or Enclosed with breakaway walls providing unconditioned space useable solely for parking of vehicles, building access, storage or crawl space"; "Appendix G was amended by Local Law 77 of 2023 … effective date of June 10, 2023". → §5 para 4, §8.5 bullets 1–2, §9 Qs (flood-zone code, relocation), flood-line table.
+- `NYC elevation certificate flood zone homeowners FloodHelpNY design flood elevation Staten Island` · Firecrawl search → https://www.nyc.gov/site/housingrecovery/programs/elevation-certificate.page (excerpt): "An Elevation Certificate (EC) is a document that identifies the elevation of your home in relation to the Flood Zone and the Base Flood Elevation". → FAQ F1. https://www.floodhelpny.org/en/elevation-certificates (excerpt) — background.
+- `NEC 800.133(A)(2) communications cables separated at least 50 mm 2 in from electric light power conductors` · Firecrawl search → https://www.law.cornell.edu/cfr/text/29/1910.308 (excerpt): "Indoor communications wires and cables shall be separated at least 50.8 mm (2 in.) from conductors of any electric light, power, Class 1, nonpower-limited …"; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-233133 (NYC Electrical Code Art. 805 excerpt, network-powered broadband 2 in.) — background; Mike Holt forum excerpt quoting NEC — background. → §7.5 bullet, §8.5 bullet 3, §9 bored-holes Q (exceptions referred to generally, not listed).
+- NEC 800.25 abandoned cable (silo source, EC&M) → §8.5 bullet 4, FAQ tidy basement.
+- DOB/CityLand Ida advice (silo source): "Never attempt to turn off the power or operate a circuit breaker while standing in water" → Before-you-call table row 1.
+
+### Landmarks / corridors / commercial
+- `Matrix Global Logistics Park Staten Island Bloomfield Amazon fulfillment center square feet` · Firecrawl search (excerpts): https://www.dnainfo.com/new-york/20170619/bloomfield/matrix-global-logistics-park-gulf-avenue-amazon — "200-acre Matrix Global Logistics Park, at a former oil tank storage facility"; https://www.margulieshoelzli.com/projects/matrix-global-logistics-park/ — "Building 1 is a 975,000 square foot facility consisting of a single story, 40-foot clear height structure"; "four buildings totaling up to 3.5 million square feet". → §8 Bloomfield card, Shore-by-shore West Shore.
+- `Staten Island University Hospital North campus Seaview Avenue …` · Firecrawl search (excerpts): https://siuh.northwell.edu/ and /about — 475 Seaview Avenue; "668-bed specialized teaching hospital … two main campuses"; "1979: … moved from the Castleton Avenue complex to the new facility at 475 Seaview Avenue"; https://rumcsi.org/ — RUMC "440+-bed teaching hospital" (not used). → §8 Seaview card.
+- `Staten Island Advance Hylan Boulevard New Dorp Lane medical offices …` · Firecrawl search (excerpts): https://rumcsi.org/locations/rhn-primary-walk-in-immediate-care-center-hylan-boulevard/ (4360 Hylan Blvd walk-in); https://www.orlincohen.com/location/staten-island-3311-hylan/ (3311 Hylan orthopedic office); https://www.citymd.com/urgent-care-locations/ny/new-dorp (2710 Hylan). → §8 Hylan card.
+- `Empire Outlets St. George Staten Island opened square feet stores` · Firecrawl search (excerpt) https://en.wikipedia.org/wiki/Empire_Outlets — "350,000-square-foot retail complex in the St. George neighborhood"; steps from the ferry (empireoutlets.nyc). → §8 St. George card, §13 card.
+- `Staten Island Mall New Springville Richmond Avenue square feet stores opened 1973` · Firecrawl search (excerpts): https://www.silive.com/news/erry-2018/03/05c8690920/10_things_to_know_about_the_st.html — "opened its doors on Aug. 9, 1973, with Macy's and Sears as its two anchor tenants"; https://www.nytimes.com/1973/08/10/archives/… — "on Richmond Avenue at Richmond Hill Road". → §8 Richmond Ave card, §13 card.
+- `College of Staten Island Willowbrook campus acres …` · Firecrawl search (excerpt) https://www.csi.cuny.edu/about-csi/csi-glance — "Completed in 1994, the 204-acre landscaped Willowbrook campus of CSI, the largest in NYC". → §13 card.
+- `Snug Harbor Cultural Center 83 acres 26 buildings …` · Firecrawl search (excerpt) https://en.wikipedia.org/wiki/Snug_Harbor — "83-acre … campus containing more than two dozen architecturally significant buildings set along the Kill Van Kull on the North Shore". → §13 card.
+- `Freshkills Park acres former Fresh Kills landfill Staten Island NYC Parks` · Firecrawl search (excerpts): https://www.nycgovparks.org/park-features/freshkills-park — "Formerly the world's largest landfill"; https://freshkillspark.org/the-park/faqs — "At 2,200 acres, Freshkills Park is the largest landfill-to-park project in the world"; https://freshkillspark.org/ — "restoring 360 acres of wetlands". → §13 card.
+- `Bay Street corridor Stapleton Staten Island rezoning Homeport Urby mixed-use buildings` · Firecrawl search (excerpts): nyc.gov Bay Street Corridor Neighborhood Plan page (no body text in excerpt); prodigyre realtor blog (~1,800 homes legalised by 2019 rezoning) — NOT used as a figure; corridor named only. → §8 St. George/Bay Street card.
+- The Teleport (silo NYC source) — mentioned in hub; not repeated as a card here.
+- Neighbourhood list in §13 "we also repair" = place names only.
+
+### Prices used (live AESS pages only; no new prices)
+- $195/hr, three-hour minimum ($585); additional time $195/hr — network-cable-repair-staten-island.html pricing table (also the cat6-repair-nyc hub).
+- Replacement Cat6 drop from $175 (cable, keystone, plate, panel punch-down, testing, both-end labelling, patch cord) — network-cable-repair-staten-island.html; same $175 on cat6-repair-nyc ("in every borough").
+- Exterior entry made good (sleeved, sealed, bonded, drip loop) from $185 per penetration — network-cable-repair-staten-island.html.
+- "No separate travel charge" for the bridge — network-cable-repair-staten-island.html FAQ/body.
+- New-install comparison Cat5e $254 / Cat6 $296 / Cat6A $424 per drop to 100 ft — cat6-installation-staten-island.html.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — labelled third-party.
+- FLAG for Anwar: blueprint §9 gives Staten Island 1.10× (Verrazzano surcharge), which would make the replacement drop $192.50 → $193; but the live SI network-cable-repair page and the cat6-repair-nyc hub both publish $175 un-multiplied (hub says "$175 per drop in every borough"), and the SI page publishes "no separate travel charge". No conflict between hub and SI page, so the page follows both live sources and applies no multiplier. cat6-installation-staten-island's $296 Cat6 drop = 1.088× NYC $272 (not 1.10×; 1.10× would be $299) — quoted as published, comparison only.
+
+### Keyword notes (five layers, SI geo)
+- Service: Cat6 repair Staten Island, Cat6 cable repair, Cat6 re-termination, relocating network equipment above flood level, Cat6 recertification, network split for two-family/house-office, Cat6 tracing.
+- Problem: corroded basement jacks, flood-damaged Cat6, block-wall corrosion, runs under raised houses, dead pre-wired jacks, provider-moved router, data cable sharing holes with power, register drops when compressor starts, counter jack damage, PoE camera/AP faults.
+- Technology: Cat6/Cat6A, permanent link, certification margins, time-domain fault location, sealed surface boxes/standoffs, NYC BC Appendix G design flood elevation, elevation certificate, 2-in separation from power (29 CFR 1910.308), NEC abandoned cable, PoE.
+- Industry: homeowners, two-family landlords, medical/dental and professional offices in converted houses, strip-mall retail/POS, restaurants, West Shore warehouses, hospital-area practices.
+- Geographic: Staten Island, North/Mid-Island/East/South/West Shore, St. George, Bay Street, Hylan Boulevard, New Dorp Lane, Seaview Avenue, Richmond Avenue/New Springville, Bloomfield, Forest Ave, Victory Blvd, Rossville, Tottenville, Midland Beach, Oakwood Beach, Fort Wadsworth; §13 list.
+
+### Images (11) — permanent image rule; Drive folder "AESS Website Photos/Cat6 Repair" empty (main run), CompanyCam not connected
+All cropped with PIL to remove faces and the printed phone number on shirts (network/ originals show "844-386-7238" on uniforms — cropped out), saved WebP q80 ≤1600px; md5-unique within page. Scenes chosen to avoid the scenes used by cat6-repair-queens (NCR set) and cat6-repair-bronx (cat6 set) in this batch; originally drafted crops of the corroded-plug, PoE-dome, drywall-cut, fish-tape and labelled-bundle scenes were dropped after the sibling pages showed they used the same scenes.
+| images/cat6-repair/ | Source (crop box) |
+|---|---|
+| cat6-repair-staten-island-rack-tester-wire-map-check.webp (hero) | cat6-repair/cat6-repair-long-island-rack-cable-tester-reading.webp (470,385,1536,864) |
+| cat6-repair-staten-island-block-wall-core-drill-entry.webp | network/network-installation-staten-island-core-drill-cmu-wall-penetration.webp (600,280,1448,1086) |
+| cat6-repair-staten-island-outlet-row-plate-termination.webp | cat6-repair/cat6-repair-hudson-valley-outlet-row-low-wall.webp (0,350,1448,1086) |
+| cat6-repair-staten-island-data-voice-plate-punch-down.webp | cat6-repair/cat6-repair-hudson-valley-data-voice-plate-retermination.webp (590,0,1402,1122) |
+| cat6-repair-staten-island-pos-counter-jack-test.webp | cat6-repair/cat6-repair-long-island-pos-counter-jack-no-link-test.webp (0,500,1536,1024) |
+| cat6-repair-staten-island-ceiling-access-point-cable.webp | cat6-repair/cat6-repair-long-island-ceiling-access-point-cable.webp (0,0,850,1024) |
+| cat6-repair-staten-island-floor-box-keystone-service.webp | cat6-repair/cat6-repair-hudson-valley-floor-box-jack-service.webp (0,410,1402,1122) |
+| cat6-repair-staten-island-switch-port-led-inspection.webp | cat6-repair/cat6-repair-long-island-switch-port-flashlight-check.webp (0,0,830,1024) |
+| cat6-repair-staten-island-conference-table-grommet-cable.webp | cat6-repair/cat6-repair-hudson-valley-conference-table-cable-pull.webp (0,450,1402,1122) |
+| cat6-repair-staten-island-toner-probe-panel-tracing.webp | network/network-installation-staten-island-network-cable-toner-tracing.webp (0,0,850,1086) |
+| cat6-repair-staten-island-rj45-plug-and-crimper.webp | cat6-repair/cat6-repair-long-island-rj45-plug-recrimp.webp (0,410,1536,1024) |
+DAILY-LOG note: `images: 11 reused (9 from images/cat6-repair LI/HV hub crops, originally images/network-cable-repair + images/cat6; 2 from images/network/) (no real Cat6 Repair photos yet)`.
+
+## Question register — cat6-repair-staten-island
+
+§9 "Questions Answered" (H3):
+1. Our house was raised after Sandy — why do the Cat6 runs that cross the space underneath keep failing? (Water line)
+2. Should the router, switch and patch panel come up out of a basement that has flooded before, and what happens to the Cat6 if they move? (Water line)
+3. What does a flood-zone building's code allow below the design flood elevation when a Cat6 run is repaired? (Water line)
+4. Why does a jack screwed straight onto the foundation block fail when the same kind of jack on a stud wall nearby keeps working? (Water line)
+5. The upstairs unit's Cat6 passes through the downstairs apartment's ceiling — can the fault be pinned down before anyone opens the tenant's ceiling? (Houses)
+6. The internet provider moved our router to a new spot during an upgrade, and the wired rooms stopped working — how do the runs get re-pointed? (Houses)
+7. Our Cat6 goes through the same drilled holes as the house's electrical cable — could that explain the errors? (Houses)
+8. We are turning the ground floor into an office and renting out the upstairs — can the existing Cat6 be split into two separate networks? (Houses)
+9. When a Cat6 run inside a two-storey island house has to be replaced, what routes avoid opening finished walls? (Houses)
+10. A register at our shop drops off whenever the walk-in cooler or the air compressor kicks on — is the Cat6 to blame? (Shops)
+11. Why do the Cat6 links at a strip-mall counter fail more often than the ones in the back office? (Shops)
+
+FAQ (§17, = FAQPage schema):
+F1. Do you need to see the house's elevation certificate before moving network equipment out of the basement?
+F2. Can the basement links be tested before storm season so we know which ones are weak?
+F3. Can you repair the network cable to a standby generator or a heating system controller?
+F4. Do you repair the Cat6 that connects a solar inverter or battery system to the home network?
+F5. Can you repair a network cable that runs out to an EV charger in the driveway or garage?
+F6. Does the power to the house have to be shut off while you work on the Cat6?
+F7. Do you repair Cat6 in a modular home?
+F8. Can a repair at a home office be booked on a Saturday?
+F9. Can you leave the basement wall looking tidy after moving the panel upstairs?
+
+Other "?" headings: "Wired Link Dead on Staten Island This Morning?" (repair capture), "Want Every Jack in the House Working and Labelled?" (CTA), "Island Network Link Failing Today?" (closing).
+
+De-dup notes (by meaning): checked against NYC (26), LI (23), HV (25) registers above and the Queens and Bronx pages as built at ~09:25. Rewritten/removed from the first draft because a sibling already held the intent: "house sold as wired for Ethernet, half the jacks dead" (Queens "every jack in our new LIC apartment is dead"; Bronx "jacks never worked — repair or punch list") → replaced by Q6 provider-moved router; FAQ "can a tenant book a repair or must the owner" (Queens "repair in a rented apartment without the landlord's permission") → replaced by F3 generator/heating controller; FAQ "will a dehumidifier/sump protect basement Cat6" (Queens "will a damp basement keep damaging a run after repair") → replaced by F2 pre-storm baseline test; Q4 reframed from "why do basement jacks corrode" to the mounting-surface comparison; Q5 reframed to fault location before opening the tenant's ceiling (Queens holds "shared closet — repair one without cutting off the other"). Avoided intents: NYC Q15 trace without opening plaster (Q9 is replacement routing), NYC Q16 dry-out/reuse, LI Q5 insurance documentation, HV Q2 test-after-strike (F2 is pre-storm baseline), HV Q8 indoor cable on house exterior, HV Q14 one-trip prep (one-trip scoping kept in body only), LI F1 travel charge (no-bridge-charge stated in pricing body only), LI F2 pre-purchase test, LI F9 multi-unit visit, NYC F7 old cable on re-pull (F9 is about finish, abandoned cable mentioned in passing), HV F5 matching plates, HV F3 gate/intercom post. AI-check H3s chosen to avoid the LI "mesh" and "any electrician" H3s.
+
+Masked paragraph similarity (difflib, geo-masked, p/li/td/h3/figcaption ≥8 words, prefiltered by bigram overlap): every block ≥0.65 vs cat6-repair-nyc, -long-island, -hudson-valley, -queens, -bronx is an excluded constant (freshness stamp, warranty sentence, licence/rating strip, NAP line, "parts you supply" warranty line, not-advice footer note, silo-nav link row, price-table item/source cells); vs network-cable-repair-staten-island only price-table cells.
+
+
+---
+<!-- appended by batch build cat6-repair-queens, 2026-10-17 -->
+## Question register — cat6-repair-queens
+
+§9 "Questions Answered" (H3):
+1. Why does the kitchen display screen lose its connection when the line is busiest? (Counters/kitchens)
+2. Mop water reaches the floor box under our register every night — is that what keeps killing the link? (Counters/kitchens)
+3. Our POS company says the problem is "in the wall" and they don't repair wiring — what happens next? (Counters/kitchens)
+4. Our roll-down gate housing has a Cat6 run beside it — could the gate be what keeps damaging it? (Storefronts)
+5. Our basement is being brought up to the city's basement-apartment rules — what happens to the Cat6 running across its ceiling? (Houses/basements)
+6. A contractor screwed new drywall over our Cat6 and now two rooms are dead — can it be fixed without tearing the wall off again? (Houses/renovation)
+7. In our two-family house the tenants' Cat6 and ours share one closet — how do you repair one without cutting off the other? (Houses)
+8. An installer drilled through our Cat6 while bringing in new internet service — can you document the damage as well as fix it? (Houses)
+9. The room jacks in our Long Island City rental all run to a media panel in the hall closet — what has to happen in that panel before they work? (Towers)
+10. Can a Cat6 jack in a rented apartment be repaired without the landlord's permission? (Apartments)
+11. The builder's media panel in our condo closet is so crowded the door won't shut — can the Cat6 in it be repaired without rewiring the apartment? (Towers)
+12. Our Jackson Heights co-op won't let contractors open the courtyard-side walls — how is a dead Cat6 run repaired from inside the apartment? (Co-ops)
+13. Management says only their vendor can touch the telecom room — can you still fix the Cat6 inside our unit? (Towers)
+
+FAQ (§17, = FAQPage schema):
+F1. Can you leave a spare Cat6 run in place when you repair a kitchen or counter link?
+F2. Does the building's super or landlord need to be there while you work?
+F3. Would a Wi-Fi extender do the same job as repairing a dead Cat6 jack?
+F4. How long should we keep the test results you give us?
+F5. Can you repair a Cat6 run that passes through a fire-rated wall or floor?
+F6. Do you repair the Cat6 that feeds digital menu boards?
+F7. We just leased a Queens storefront and the last tenant left Cat6 everywhere — can you tell us what is usable?
+F8. Do you give a written estimate before replacing any cable?
+F9. Does a repaired Cat6 link come back at the same speed it had before?
+F10. Can you show our staff how to tell a cable fault from a device fault next time?
+
+Other "?" headings: "Register or Kitchen Screen Offline in Queens Right Now?" (repair capture), "A Queens Cat6 Link Down Before Tonight's Service?" (closing).
+
+De-dup notes: compared by meaning against the NYC, LI and HV registers above and against the Bronx and Staten Island pages as on disk at ~09:30 (their registers appended in parallel). Changes made: LIC dead-jacks question re-angled from "broken or never connected" to the media-panel patching step (Bronx asks the building-wide punch-list version); a "damp basement keeps damaging the repair" FAQ was replaced with the post-repair speed FAQ because Staten Island asks whether to move equipment out of a flood-prone basement. Avoided on purpose: LI attic heat/stapled cable/garage conversion/pre-closing test/mall tenant/remote IT provider; HV rodents-in-barn ("how much chewed cable to replace" — rodents covered in body and §10.5 only), cold-weather, storm; NYC splice-vs-whole-run (drywall Q is about access, not splicing), riser approval, flooded cellar reuse, three-hour minimum; network-cable-repair-queens (office above restaurant, afternoon heat, shared riser tracing, PoE reboot, dead jack, before-opening scheduling). Borderline, flagged for review: F7 (inheriting a previous tenant's cabling) is close in spirit to LI F2 (testing a house before closing) and NYC F3 (repairing another contractor's Cat6).
+
+Masked paragraph similarity (difflib, geo-masked, p/li/td/h3/figcaption ≥8 words): mean 0.42–0.43 vs each of cat6-repair-nyc, -long-island, -hudson-valley, -bronx, -staten-island. Blocks still ≥0.65 are excluded constants only: freshness stamp, warranty sentence, licence/rating line, BYOE warranty line, NAP, shared silo-nav sentence, pricing-source cells and the not-legal-advice note.
