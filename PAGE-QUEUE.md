@@ -29,9 +29,9 @@ LIVE | soundbar-installation-orange-county | Soundbar Installation | Orange | up
 BUILDING 2026-10-17T06:06Z | soundbar-installation-putnam-county | Soundbar Installation | Putnam | up /soundbar-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-17T06:06Z | soundbar-installation-dutchess-county | Soundbar Installation | Dutchess | up /soundbar-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-17T06:06Z | soundbar-installation-ulster-county | Soundbar Installation | Ulster | up /soundbar-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-17T06:20Z | smart-lock-installation-manhattan | Smart Lock Installation | Manhattan | up /smart-lock-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T06:20Z | smart-lock-installation-brooklyn | Smart Lock Installation | Brooklyn | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T06:20Z | smart-lock-installation-queens | Smart Lock Installation | Queens | up /smart-lock-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE | smart-lock-installation-manhattan | Smart Lock Installation | Manhattan | up /smart-lock-installation-nyc | (929) 560-0737 | GBP Bronx
+LIVE | smart-lock-installation-brooklyn | Smart Lock Installation | Brooklyn | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | smart-lock-installation-queens | Smart Lock Installation | Queens | up /smart-lock-installation-nyc | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T06:48Z | smart-lock-installation-bronx | Smart Lock Installation | Bronx | up /smart-lock-installation-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T06:48Z | smart-lock-installation-staten-island | Smart Lock Installation | Staten Island | up /smart-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T06:48Z | smart-lock-installation-nassau-county | Smart Lock Installation | Nassau | up /smart-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
