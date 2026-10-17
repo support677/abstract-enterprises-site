@@ -14,9 +14,9 @@ LIVE | sonos-installation-nyc | Sonos Installation | NYC hub | up / | (800) 486-
 LIVE | sonos-installation-long-island | Sonos Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | sonos-installation-hudson-valley | Sonos Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | cat6-repair-nyc | Cat6 Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | cat6-repair-long-island | Cat6 Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | cat6-repair-hudson-valley | Cat6 Repair | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | soundbar-installation-manhattan | Soundbar Installation | Manhattan | up /soundbar-installation-nyc | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T04:58Z | cat6-repair-long-island | Cat6 Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-10-17T04:58Z | cat6-repair-hudson-valley | Cat6 Repair | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-10-17T04:58Z | soundbar-installation-manhattan | Soundbar Installation | Manhattan | up /soundbar-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | soundbar-installation-brooklyn | Soundbar Installation | Brooklyn | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | soundbar-installation-queens | Soundbar Installation | Queens | up /soundbar-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | soundbar-installation-bronx | Soundbar Installation | Bronx | up /soundbar-installation-nyc | (646) 490-0629 | GBP Bronx
