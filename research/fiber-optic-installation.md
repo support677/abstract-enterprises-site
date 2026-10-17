@@ -3933,3 +3933,240 @@ Service: fiber optic installation Parkchester, fiber backbone, building standard
 - Will you keep spare enclosures and connectors that match our standard for future repairs?
 - If the work pauses between buildings, is anything left exposed in the hallways?
 De-dup notes (checked by meaning against all 722 question headings/FAQs on the 33 sibling files): avoided board-approval/unit-owner intents (Flushing), hallway-notice (Bronx), unloading-on-a-curb (Fordham), excavation-baseline (LIC), Spanish labels (Port Morris), phases over budget years (Bronx — mentioned in body only). Closest remaining intents for the main run to judge: Q "Verizon equipment on backboard — own enclosure beside it" vs Jamaica "move the provider's terminal out of our wet cellar" (mine = co-location, theirs = relocation); Q "pilot building" vs Rockland "start with one building on a split campus and reach the others later" (mine = survey before pricing, theirs = phasing); FAQ "pause between buildings" vs Bronx "phases over several budget years" (mine = site left safe, theirs = whether phasing is possible); Q "ground-floor apartment → office" vs Fordham change-of-use theme (body, not a question).
+
+## New Springville, Staten Island — local research (2026-10-17 batch, fiber-optic-installation-new-springville-staten-island-ny)
+
+Thesis: New Springville was built after the 1964 bridge for the car — the 1973 mall on a former airfield, the eight-lane Richmond Avenue strip, pad sites, strip centres, small medical/office buildings and Heartland Village two-family houses. Fiber work here is horizontal and on the ground (across parking fields, along strips, over flat roofs, house to garage), not vertical risers or wet cellars (Stapleton) or warehouses (Bloomfield).
+
+Format: exact query · platform · URL · finding · page + section used.
+
+### 1. Reddit (local) — EMPTY
+- Query: `reddit statenisland New Springville internet Verizon Fios Optimum availability` · WebSearch → no reddit.com results (only ISP-comparison and unrelated "Springville NY 14141" pages). EMPTY. Not used.
+
+### 2–5, 8, 11. PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+Substituted for the §10.5 Reality Check with claims published pages actually make (quoted verbatim on the page):
+- Query: (silo source, re-fetched) WebFetch https://thenetworkinstallers.com/blog/fiber-optic-installation-cost/ → "the typical underground deployment costs $18.00 per foot and the typical aerial deployment costs $8.00 per foot"; "Laying fiber directly in the ground instead of installing new conduit is about 40% cheaper". → §10.5 H3 1 and H3 2.
+- Query: `retail store network fiber not necessary Cat6 100 meters small business "fiber" overkill guide` · WebSearch → https://ifeeltech.com/blog/cat6-vs-fiber-business-guide (WebFetch): "No—business fiber internet does not require internal fiber cabling."; "Cat6A supports 10Gbps over the full 328-foot distance, covering most office requirements."; "Unlike Cat6A, you can't easily add drops or modify fiber runs after installation". → §10.5 H3 3, 4, 6.
+- Query: `point-to-point wireless bridge cheaper than fiber between buildings "wireless bridge" business parking lot` · WebSearch → https://bridgeheadit.com/understanding-it/wireless-bridges-for-business-connectivity (WebFetch): bridges "are not affected by weather conditions or other environmental factors"; "often less expensive than running fiber optic cable"; same page later advises a weatherproof bridge if exposed to the elements. → §10.5 H3 5.
+- Silo source (already in register research): https://www.t-mobile.com/home-internet/fiber/fiber-optic-installation — in-home install "can take up to 4 hours". → §10.5 H3 7.
+
+### 6/7. Landmarks, building stock, corridors
+- Query: `New Springville Staten Island neighborhood history Richmond Avenue Staten Island Mall` · WebSearch → https://en.wikipedia.org/wiki/Richmond_Avenue (WebFetch): Richmond Ave ~7.05 mi, Tennyson Dr (Eltingville) to Forest Ave (Graniteville); passes between the mall and Freshkills Park, intersects Rockland Ave/Draper Pl in New Springville, edge of Willowbrook Park; widened after the mall opened; Rockland Ave–Forest Hill Rd section is eight lanes (four each way). → §5 para 2, §8 cards, block-by-block "eight-lane stretch".
+- Same search → https://en.wikipedia.org/wiki/Mid-Island,_Staten_Island (WebFetch): mall opened 1973 on a former airport site; Richmond Ave corridor became "the island's liveliest commercial strip"; farms until the 1960s; bridge 1964 spurred construction. → §5 para 2.
+- Query: `Heartland Village New Springville Staten Island history townhouses built` · WebSearch → https://en.wikipedia.org/wiki/Heartland_Village,_Staten_Island (WebFetch): development within New Springville; square bounded by Richmond Ave, Rockland Ave, Richmond Hill Rd, Forest Hill Rd; construction late 1960s to early 1980s; mostly two-family houses; P.S. 69 and I.S. 72 opened 1976; bus routes on Richmond Ave. → §5, §5.5 fact 4, §7 house cards, landmarks card, block-by-block.
+- Same search → https://theneighborhoods.substack.com/p/new-springville-staten-island (WebFetch): early name Karle's Neck; Springville after freshwater springs; Lemnos Greek truck farms ~WWI; Decker Farm on Richmond Hill Rd; cul-de-sacs with one/two-family homes and garages; developers built 200–300 buildings at a time after 1964; matching porticos with thin white columns; Staten Island Airport opened 1941 (closed 1964); city's first drive-in opened 1948 next door; Petticoat Lane = Rockland Ave (lore); Freshkills East Mound along Richmond Ave; Latourette Park SE border; Willowbrook Park north border. → §5 para 1, Heartland Village section, block-by-block (Petticoat Lane).
+- Query: (follow-up) WebFetch https://en.wikipedia.org/wiki/New_Springville,_Staten_Island: 2020 NTA "New Springville-Willowbrook-Bulls Head-Travis" population 42,871 (+9.1% from 39,310); 33.4% renter-occupied; Yukon depot early 1980s, 380 buses; second-largest transit hub (note: mall article says third-largest — page uses the mall article's "third-largest"); LaTourette House NRHP 1982. → §5.5 facts 5 and 6, block-by-block (Yukon).
+- Query: `Staten Island Mall expansion 2019 square feet food district Brookfield redevelopment plan 2025` · WebSearch → https://en.wikipedia.org/wiki/Staten_Island_Mall (WebFetch): opened August 9, 1973 with Macy's and Sears; site of Staten Island Airport (1941), sold 1955; 1,370,000 sq ft; owner GGP/Brookfield; only indoor mall in the borough; 2016–2019 expansion +242,000 sq ft incl. Food District, AMC dine-in, Dave & Buster's; Sears closed, The Container Store opened on an outparcel; third-largest transit hub after St. George and Eltingville. → §5 para 2/4, §8 mall card, landmarks card, schema mentions.
+- Same search → https://commercialobserver.com/2024/10/brookfield-staten-island-mall-expansion (WebFetch): Oct 2024 filing with DCP; ~41,000 sq ft in seven one-storey retail buildings of 2,000–8,000 sq ft; removes 246 parking spaces; ULURP; anticipated opening 2030. → §5 para 4, §5.5 fact 3, §10.5 H3 2. Follow-up query `Staten Island Mall seven new retail buildings parking lot City Council approval 2025` · WebSearch → no approval article found; page says only "filed … entering land-use review". Status after 2024: EMPTY.
+- Same search → https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/staten_island_mall/final_scope.pdf (WebFetch): 2655 Richmond Ave, Block 2400; 84.95-acre site bounded by Richmond Hill Rd, Marsh Ave, Platinum Ave, Richmond Ave; C4-1; parking 5,844 → 5,477 with a new three-level 1,413-space garage; Freshkills Park ~2,200 acres across Richmond Ave. → §5.5 facts 1–2, block-by-block "mall and ring road", schema.
+- Query: `Decker Farm Richmond Hill Road Historic Richmond Town 1810 farm` · WebSearch → https://www.nyctourism.com/places/decker-farm (WebFetch): 435 Richmond Hill Rd, 10314; ~11 acres; one of four Historic Richmond Town sites; "said to be New York City's oldest continuously working example of its type". → landmarks card, §5 para 1, schema.
+- Query: `Asbury Methodist Episcopal Church New Springville Richmond Avenue landmark 1849` · WebSearch → https://forgotten-ny.com/2024/03/ichabods-grave-new-springville/amp (WebFetch): former Asbury Methodist church (now SON Rise Charismatic Interfaith Church), Richmond Ave just south of Signs Rd opposite Willowbrook Park; walls 1849, interior remodelled 1878; Washington Cemetery first interments 1804; grave of Col. Ichabod Crane. → landmarks card, schema.
+- Query: `Freshkills Park 2,200 acres East Park Richmond Avenue opening landfill closed 2001` · WebSearch → https://en.wikipedia.org/wiki/Freshkills_Park (WebFetch): ~2,200 acres; landfill 1948–2001; New Springville Greenway along Richmond Ave completed 2015; North Park Phase 1 opened Oct 15, 2023. → landmarks card, schema.
+- Silo research (existing entry, Staten Island section): College of Staten Island 204-acre Willowbrook campus, largest by area in NYC. → landmarks card.
+
+### 9/10. Local news / hyperlocal / filings
+- Query: `silive New Springville Richmond Avenue new development 2025 2026 shopping center construction` · WebSearch → https://blog.marketproof.com/new-building-permit-filed-for-1358-forest-hill-rd-in-new-springville-staten-island/ (WebFetch): filed March 27, 2026; three-storey mixed-use, residential + commercial floor area. → §8 Forest Hill Road card. Also 51 Sloane Ave (Dec 31, 2023, four-storey mixed-use) and 2086 Richmond Ave, Bulls Head (Mar 17, 2025, one-storey) — read, not used on page.
+- SI Advance / silive articles on New Springville fiber or broadband — none retrieved. EMPTY.
+
+### Building stock — medical/office
+- Query: `medical office building Richmond Avenue New Springville Staten Island 10314 Northwell OR RUMC OR ambulatory` · WebSearch → https://www.cityfeet.com/cont/10314-staten-island-ny/medical-offices-for-lease (WebFetch): Richmond Ave office/medical listings at 1550 (built 1996), 2066 (2009), 2555 (1977). → §8 "Richmond Avenue north" card, medical suites section (years only; no addresses or tenants named).
+
+### Technical / practice statements (not sourced this run — written from trade practice; flagged for review)
+- Lead-lined X-ray room penetrations need the shielding designer/physicist's approval (Q&A).
+- PCI DSS: cable type doesn't change obligations; separation and physical access to network jacks/equipment matter (Q&A).
+- Fire lanes kept passable; trench crossed in same-day sections or bored (Q&A).
+- Provider owns curb pedestal and buried drop to its terminal (Q&A).
+- Builder media panels as fiber landing points (Q&A).
+- Roofing manufacturer warranties usually require approved roofer for penetrations (Q&A roof route).
+- All-dielectric fiber needs no pool bonding; armoured cable armour grounded at entry (FAQ).
+- TIA-598 jacket colour code yellow/aqua/orange/lime (FAQ).
+- Outdoor cable temperature tolerance under asphalt (FAQ, no figures quoted).
+
+### Pricing used (copied from fiber-optic-installation-staten-island.html, 1.10×; no new prices)
+$39 termination · $44 OTDR/strand · $385 MM drop · $440 SM drop · $4,950–$7,700 12-strand OM4 · $8,800–$16,500+ 24-strand OS2 · from $2,640 second telecom room · $195/hr, 3-hr min ($585) · packages $880 / $4,950–$7,700 / $8,800–$16,500+.
+
+### Images (11) — Drive folder `AESS Website Photos/Fiber Optic Installation` empty (main run 17:45Z), CompanyCam not connected; library crops
+New files in images/fiber-optic-installation/ (each a re-cropped WebP of a library image not referenced by any fiber page; faces not visible):
+fiber-optic-installation-new-springville-fusion-splicer-bench-below-patch-rack (from …-port-morris-fusion-splicer-bench-fiber-panel) · -sc-adapter-panels-yellow-jumpers (…-port-morris-sc-adapter-panel-yellow-jumpers) · -brick-wall-enclosure-conduit-drops (…-port-morris-brick-wall-outdoor-enclosure-conduit) · -core-bit-block-wall-entry (…-port-morris-core-bit-block-wall-penetration) · -retail-unit-open-ceiling-cable-drop (…-port-morris-shop-open-ceiling-cable-drop) · -bullet-camera-bracket-conduit-mount (…-flushing-storefront-entrance-camera-mount) · -emt-pull-box-cable-feed (…-port-morris-emt-pull-box-cable-feed) · -stud-wall-patch-panel-dressing (…-flushing-stud-wall-patch-panel-cables) · -tangled-wiring-closet-before-cleanup (…-port-morris-tangled-closet-before-cleanup) · -tone-probe-wall-jack-trace (…-flushing-tone-tracer-wall-jack-rack) · -metal-stud-fitout-ladder-cable-pull (…-fordham-bronx-metal-stud-fitout-spool).
+Seven of the eleven show copper (blue) cable/pathway work; alts describe only what is visible.
+
+### Keyword plan (New Springville page)
+Service: fiber optic installation New Springville Staten Island, pad/outparcel fiber, strip-centre backbone, building-to-building fiber, fusion splicing, OTDR testing. Problem: copper 328 ft limit across lots, surge between buildings, tenant turnover, landlord approvals, fire lanes, roof routes, shielded rooms. Technology: OS2, OM4, indoor/outdoor water-blocked, armoured, Schedule 40/80 conduit, traffic-rated pull boxes, media converters/SFP. Industry: mall/retail, restaurants and banks on pads, medical/dental suites, two-family homes, townhouse/condo. Geographic: New Springville, Heartland Village, Staten Island Mall, Richmond Avenue, Forest Hill Road, Richmond Hill Road, Rockland Avenue, Travis Avenue, Bulls Head, Willowbrook, Freshkills.
+
+### Question register additions — fiber-optic-installation-new-springville-staten-island-ny
+Q&A (§9):
+- Our new pad building will open before the provider has run service to it — can the store start out on a fiber connection from the main building?
+- The landlord plans to put a new pad building on top of the spot where our buried fiber crosses the lot — who pays to move it?
+- Plowed snow and road salt end up piled over our parking-lot handhole every winter — does that harm the fiber?
+- Does trenching across our parking lot mean closing the fire lane, and who has to sign off on that?
+- Our strip centre's units are joined only by a flat roof — can fiber run across the roof from one unit to another?
+- Our X-ray room has lead-lined walls — can fiber pass through the shielding?
+- Does running our card terminals over fiber change anything for PCI compliance?
+- Our provider's line comes from a pedestal at the curb rather than a pole — who looks after the stretch from the pedestal to the house?
+- Our townhouse came with a builder-installed media panel in a closet — can new fiber land there?
+FAQ (§17):
+- Do you take jobs in Heartland Village, Bulls Head, Travis and Willowbrook as well as around the mall?
+- Our office is in a converted house on Richmond Avenue — which cable ratings apply, house or commercial?
+- Can fiber be laid temporarily across a parking lot for a few weeks of seasonal events?
+- Will summer heat from the blacktop damage fiber buried under a parking lot?
+- Can fiber run to our backyard pool equipment without bonding or grounding problems?
+- Does the colour of a fiber cable's jacket mean anything?
+
+## Harlem, Manhattan — local research (2026-10-17 batch, fiber-optic-installation-harlem-manhattan-ny)
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources (cost guides, AT&T install time, FBA medians, Empire City Subway, FOA, Ampcom) are reused from the silo sections above and not repeated except where the page quotes them.
+
+Thesis: Harlem is owned and used in clusters (churches + community houses, schools/clinics/arts groups in neighbouring rowhouses, owners buying the house next door) on blocks of attached 1870s–1920s masonry, so the fiber job is joining neighbouring buildings — through party walls, along roof lines, across rear yards and gated alleys, or by carrier circuit across streets — under LPC rules, while 125th Street is rebuilt (rezonings, Manhattanville, Second Avenue Subway Phase 2). Different from Midtown (vertical stack), Chelsea (galleries/terminals), FiDi (conversions), and from the smart-lock Harlem page (resident-run buildings).
+
+### 1. Reddit (local) — excerpts only (Firecrawl refuses reddit.com scrapes)
+- `reddit r/Harlem internet provider building fiber` · Firecrawl search →
+  - https://www.reddit.com/r/Harlem/comments/1ey6vvf/what_internet_is_the_best/ — "Supposedly, fiber isn't available at my house." → §5 para (Reddit), §10.5 H3 "about a third of New York City".
+  - https://www.reddit.com/r/Harlem/comments/1n0p6ts/spectrum_or_verizon_better_in_harlem/ — "Not every block/building has Verizon but if you can get it, do. I had spectrum for 8 years until Verizon came to my building around 4 years ago." → §5 para (Reddit), §10.5.
+  - https://www.reddit.com/r/nyc/comments/qxk36v/ever_moved_into_a_building_and_realized_you_only/ — "a signal for NYC Mesh at one building in Harlem". → §9 Q "Neighbouring owners … share one internet connection".
+  - Firecrawl scrape of the r/Harlem thread: EMPTY (not accessible in build env — "we do not support this site").
+- `reddit Harlem internet fiber Verizon Fios not available brownstone building` · WebSearch → only spam/aggregator pages and a 2008 Brownstoner forum archive. EMPTY (nothing usable).
+
+### 2–5, 8. PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substitutes for the §10.5 reality check (claims as published):
+- `Harlem broadband fiber 2025 2026 news building internet East Harlem` · Firecrawl search → https://broadbandnow.com/New-York/New-York (excerpt: "Fiber internet is 37.4% available in New York City (NYC)") → §10.5 H3 1; https://ispreports.org/internet-service-providers-east-harlem-manhattan-ny/ (excerpt: "Spectrum offers Fiber service to 58.1% of East Harlem homes") → §10.5 H3 7. Both excerpts only, not opened.
+- Remaining §10.5 claims reuse silo sources: lowvoltagenewyork.com ($1–$6/ft, splices $50–$150), thenetworkinstallers.com (FBA $18/ft underground, $8 aerial; testing ≈5%), AT&T support (4–6 hours).
+
+### 11. Yelp 1–3★ — EMPTY
+- `yelp fiber optic cabling contractor Harlem Manhattan reviews` · Firecrawl search → only Yelp search-result pages with aggregate ratings and positive excerpts (East Harlem cable installation 4.5; Harlem internet providers 3.3 aggregate). No 1–3★ fiber-contractor reviews retrieved.
+
+### 6/7. Landmarks, building stock, corridors
+- `Mount Morris Park Historic District designated 1971 extension 2015 rowhouses Landmarks Preservation Commission` · WebSearch → WebFetch https://www.nyc.gov/assets/lpc/downloads/pdf/press/archive/2015/092215-mount-morris-park-extension-approved.pdf: approved Sept 22, 2015; 276 buildings (250+ row houses, ~12 apartment buildings) on six blocks west of the 1971 district; row houses built mostly as single-family after rapid transit reached the area around 1880, many later rooming houses/small apartment buildings; oldest = three c.1870 Second Empire houses at 124–128 W 123rd St; Queen Anne row at 133–143 W 122nd St. → §5 paras 1, facts list, §7 cards, landmarks card, sub-districts.
+- `St. Nicholas Historic District Strivers' Row …` · WebSearch → WebFetch https://en.wikipedia.org/wiki/St._Nicholas_Historic_District: W 138th & 139th Sts between ACP Jr. Blvd and Frederick Douglass Blvd; built 1891–93 by David H. King Jr.; architects James Brown Lord, Bruce Price & Clarence S. Luce, Stanford White (McKim, Mead & White); designated 1967; gated rear alleys, some "Walk Your Horses" signs. → §5, facts, §9 alley Q, landmarks card, sub-districts.
+- `125th Street rezoning 2008 Harlem office space Adam Clayton Powell State Office Building` · WebSearch → WebFetch https://www.nyc.gov/assets/planning/download/pdf/about/press-releases/pr043008.pdf: approved April 30, 2008; >1 million sq ft office, >7,000 jobs expected; first height limits on corridor; arts bonus. → §5 para 4, facts.
+- WebFetch https://en.wikipedia.org/wiki/Adam_Clayton_Powell_Jr._State_Office_Building: 163 W 125th St, nineteen storeys, completed 1973. → §7 card, landmarks card.
+- `East Harlem rezoning approved November 2017 City Council blocks Park Avenue` · WebSearch → WebFetch https://council.nyc.gov/press/2017/11/21/1549/: $222M commitments; Park Ave north of 118th 275 ft cap; Second Ave 175 ft; Third Ave (122nd–124th) 235 ft; full Council vote scheduled Nov 30, 2017. → §5 para 4, §8 East 116th card, sub-districts.
+- `Columbia University Manhattanville campus acres …` · WebSearch → WebFetch https://neighbors.columbia.edu/node/1006 (Oct 2016): 17 acres, 125th–133rd Sts along Broadway; 75,000 sq ft central energy plant; loading below grade; 6.8M sq ft planned; adaptive reuse of Studebaker plant, Sheffield Farms (Prentis Hall). Wikipedia campus page: EMPTY (URL not found). → facts, landmarks card, sub-districts.
+- `Columbia Business School Manhattanville Geffen Hall Kravis Hall opened 2022 …` · WebSearch → WebFetch https://dsrny.com/press-release/columbia-business-school-opens-two-new-buildings-completing-the-first-phase-of-the-university-s-17-acre-manhattanville-campus: Feb 2022, Kravis (11 storeys) + Geffen (8), 492,000 sq ft, completes first phase of 17-acre campus. → §5, facts.
+- `Studio Museum in Harlem new building opened November 2025 …` · WebSearch → WebFetch https://www.studiomuseum.org/press/studio-museum-in-harlem-opening-date-and-community-day: 144 W 125th St, 82,000 sq ft, seven floors, opened Nov 15, 2025, Adjaye Associates. → §9 arts-org Q, landmarks card.
+- `Apollo Theater Victoria Theater Apollo Stages opened 2024 …` · WebSearch → WebFetch https://www.governor.ny.gov/news/governor-hochul-unveils-complete-restoration-and-redevelopment-harlems-historic-victoria (Mar 7, 2024): 211-room hotel, ~200 homes (100+ affordable), two Apollo stages, 27,000 sq ft cultural space. → §9 arts-org Q, landmarks card.
+- `National Black Theatre new building 2 East 125th Street opened tower` · WebSearch → WebFetch https://rebusinessonline.com/lmxd-tops-out-21-story-residential-civic-project-in-harlem/ (Oct 11, 2023): 21 storeys, 222 apartments, 27,000 sq ft NBT home, commercial along 125th St; theatre opening planned early 2026. designboom page: EMPTY (fetch error). → §9 arts-org Q.
+- `Harlem Hospital Mural Pavilion …` · WebSearch → WebFetch https://www.nychealthandhospitals.org/pressrelease/mayor-bloomberg-deputy-mayor-gibbs-and-hhc-president-alan-d-aviles-open-new-harlem-hospital-patient-pavilion/: six-storey, 195,000 sq ft, $325M pavilion on Lenox Ave; restored murals (Hayes, Crimi, Alston; Seabrooke 1937). Page shows conflicting dates (2012/2016) — no opening year used. → landmarks card, §7 card.
+- WebFetch https://en.wikipedia.org/wiki/Harlem: boundaries; CD9/10/11; Central Harlem = CD10; East Harlem 96th–138th. → sub-districts intro, FAQ coverage.
+- `Furman Center Central Harlem MN10 …` · WebSearch → WebFetch https://www.furmancenter.org/?p=1571 (updated 05/06/2026): homeownership 15.3% (2024); public housing 13.6% of rental units, 7,766 units (2025); 1,412 properties with subsidized units. → §5 para 2, facts.
+
+### 9/10. Local news / hyperlocal
+- `Second Avenue Subway Phase 2 construction 125th Street Harlem 2026 progress` · WebSearch → WebFetch https://www.governor.ny.gov/news/governor-hochul-announces-mta-advances-final-construction-contract-second-avenue-subway-phase (Sept 14, 2026): final (fourth) contract RFQ; stations 106/116/125; Q 96th–125th ~1.5 mi; Park Ave entrance; Contract 2 to Sept 2029; full completion fall 2032; $6.968B; Contract 1 utility relocation at 106 St ~60% complete; 125 St entrance shaft excavation begun, TBM under construction. → facts, §9 subway Q, Construction Watch section.
+- WebFetch https://www.amny.com/nyc-transit/second-avenue-subway-extension-east-harlem/ (Aug 18, 2025): $1.97B tunnelling contract to Connect Plus Partners; west on 125th to Park Ave; connection to Lexington line and Metro-North. → Construction Watch.
+- `Harlem broadband fiber 2025 2026 news …` (above) → https://edc.nyc/press-release/nycedc-issues-rfp-redevelop-east-125th-street-site-new-housing-project (Firecrawl summary): B-East site, Second Ave between E 125th–126th, ~140 homes. → Construction Watch.
+- `Harlem free Wi-Fi 110th to 138th Street …` · WebSearch → WebFetch https://www.nyc.gov/assets/fund/downloads/pdf/press_releases/press-release-harlem-wifi-12-10-2013.pdf (Dec 10, 2013): 95 blocks 110th–138th, Frederick Douglass Blvd–Madison Ave, ~80,000 residents. Listed in sources/citation only (not used in body copy beyond sources). The nyc.gov mayor news URL returned the index page: EMPTY.
+- `Big Apple Connect NYCHA free internet developments Harlem St. Nicholas Houses` · WebSearch → WebFetch https://www.cb11m.org/harlem-nycha-complexes-get-free-internet-cable-through-city-program/ (Aug 1, 2023): Jefferson Houses (E 115th), Manhattanville Houses (Broadway–Amsterdam, 129th–133rd), St. Nicholas Houses (FDB–ACP, 127th–131st) added. → landmarks card (St. Nicholas Houses), sub-districts (Jefferson).
+- `Link5G kiosks Harlem …` · WebSearch → only CB2/CB8/Brooklyn resolutions, nothing Harlem-specific. EMPTY.
+- `Harlem church owns several buildings … Abyssinian Development Corporation` · WebSearch → WebFetch https://citylimits.org/sacred-ground/ (2002): ADC est. 1989; Convent Avenue Baptist Church ~six properties, some on landmarked blocks. https://communitydevelopmentarchive.org/abyssinia-development-corporation/: founded 1989, "rebuild Harlem brick by brick, block by block". → §5 para 2 (labelled 2002 on Sources).
+- `GreenThumb community gardens Harlem …` · WebSearch → WebFetch https://www.dnainfo.com/new-york/20130819/west-harlem/volunteer-gardeners-set-sights-on-vacant-harlem-lots (Aug 19, 2013): 69 of Manhattan's 77 City-owned vacant lots in Harlem (HPD); GreenThumb agreements temporary. → §9 community-garden Q (dated 2013 on page).
+
+### Local licensing / permits
+- `LPC rules interior work historic district rowhouse permit …` · Firecrawl search → Firecrawl scrape https://www.nyc.gov/site/lpc/applications/permit-types.page: permits required for exterior work "even parts of the building that are not visible from the street"; interior work only if DOB permit needed, affects exterior, or designated interior; 95% of approvals at staff level; filed via Portico; fees for certain work. → §8.5 callouts, §9 LPC Q, roof Q, alley Q, FAQ LPC paperwork, pricing note on fees.
+- LPC Permit Guidebook PDF and NYCEDC page via WebFetch: EMPTY (not accessible in build env — permission request timed out); EDC page then read via Firecrawl summary.
+
+### Installer-practice statements without an external source (flag for Anwar)
+Party-wall coring/sleeving/firestop both faces and photo; avoid bowed/damp walls; roof route in UV innerduct with non-penetrating supports and roofer's detail; no cable on fire escapes; flue reuse only after confirming sealed/unconnected; joists span party wall to party wall and holes only in middle third; volunteers not allowed to pull; church scheduling; easement advice on sale; roofer-warranty answer; ISP terms usually forbid sharing service; Columbia buildings run to their own contractor rules; "two to five days" physical work for a cluster link; P21D HowTo totalTime.
+
+### Pricing used (parent Manhattan page lines only; no new prices)
+$44/termination, $50/OTDR strand, $453 MM drop, $517 SM drop, $5,625–$8,750 12-strand OM4, $10,000–$18,750+ 24-strand OS2, from $3,000 second room, $195/hr 3-hr min ($585). Packages are sums: $552 (8×44+4×50), $1,234 (2×517+4×50), $11,034–$19,784+ (OS2 range + 2×517). Worked examples: $517; $828 (12×44+6×50).
+
+### Images (11) — Drive folder empty (main run 17:45Z), CompanyCam not connected
+New crops (faces removed) of the existing real-library set images/fiber-optic-installation/aess-fiber-optic-installation-*:
+wall-enclosure-sc-adapters (hero), splicer-open-enclosure-bench, red-light-fault-locator-wall, riser-panel-yellow-cable-stack, sidewalk-handhole-conduit-pull, ceiling-tray-fiber-coil, fusion-splicer-screen-bench, otdr-trace-building-labels, power-meter-light-source-pair, labelled-backbone-panels-floor, inspection-tablet-pass-rack (all `fiber-optic-installation-harlem-*.webp`). The aess-* source set looks AI-rendered — needs Anwar's review. Gowanus (same batch) cropped some of the same source frames.
+
+### Keyword plan (Harlem page)
+Service: fiber optic installation Harlem, building-to-building fiber, rowhouse fiber riser, fusion splicing, OTDR testing. Problem: buildings not linked, provider serves one building only, party wall, landmark district, no riser, subway construction. Technology: OS2 indoor/outdoor, bend-insensitive, OFNR/OFNP, armoured, innerduct, wall-mount enclosures, media converters. Industry: churches, cultural institutions, schools, clinics, small landlords, 125th Street mixed-use. Geographic: Harlem, Central Harlem, East Harlem/El Barrio, Manhattanville, Hamilton Heights, Sugar Hill, Mount Morris Park, Strivers' Row, 125th Street, Frederick Douglass Blvd, Lenox/Malcolm X Blvd.
+
+### Question register additions — fiber-optic-installation-harlem-manhattan-ny
+Q&A (§9):
+- We own both of two attached Harlem rowhouses — can a hole go through the party wall between their cellars, and how is it closed up?
+- Can fiber cross from one rowhouse roof to the next instead of going through the cellars?
+- Strivers' Row houses back onto shared gated alleys — can fiber run along the alley to link houses on the same row?
+- Why does the direction of the floor joists matter when routing fiber across a Harlem rowhouse?
+- Is a Landmarks Preservation Commission permit needed for fiber that stays entirely inside a historic-district house? (near Manhattan's landmark Q and St. George's rear-conduit Q — interior-only intent; review)
+- Can cable be fixed to the fire escape on the front or back of a Harlem walk-up?
+- Can a disused fireplace flue carry fiber between the floors of a brownstone? (related to DUMBO/Dutchess/St. George "reuse old shaft/chase" Qs; review)
+- How do you get fiber to camera positions in a church sanctuary or balcony for livestreaming without cable across the nave?
+- Our arts organisation is moving into a new building on the same street but keeping the old one — should the two be linked by fiber or run as separate networks? (partial overlap with Navy Yard "second subscription vs linking two spaces"; review)
+- Neighbouring owners on our block want to share one internet connection over fiber we would install between the houses — is that allowed?
+- Should a fiber project on or near East 125th Street wait until the Second Avenue Subway construction is finished?
+- A community garden on a City-owned lot sits between two of our buildings — can fiber cross it?
+FAQ (§17):
+- Do you cover East Harlem, Manhattanville, Hamilton Heights and Sugar Hill as well as Central Harlem?
+- Can installation in a church building be scheduled around services, funerals and weddings?
+- Can volunteers from our congregation or block association help pull the cable to keep the cost down?
+- If we sell one of the linked buildings, does the buyer have to let our cable keep crossing into the others?
+- Do you take work inside Columbia University's Manhattanville buildings?
+- Will you prepare the work description and photos our Landmarks Preservation Commission application needs?
+- How far apart can two of our Harlem buildings be for a single fiber link?
+- Our roof is still under the roofer's warranty — will a fiber crossing on the roof affect it?
+CTA headings ending "?": Link Between Your Harlem Buildings Gone Dark? · Want the Route Drawn Before You Ask the Neighbours? · One Harlem Building Online and the Other Not?
+
+## Gowanus, Brooklyn — local research (2026-10-17 batch, fiber-optic-installation-gowanus-brooklyn-ny)
+
+**Page thesis:** Gowanus fiber has to respect three lines — the flood line (2021 rezoning towers in/near the canal floodplain under NYC BC Appendix G: utilities and attendant equipment at/above the DFE, so provider entrance + main room go up, only sealed passive pathway stays low), the slab (brownfield lots with vapour barriers / sub-slab depressurization; fiber comes in through walls and gets its own sleeve beside vent risers), and the property line between old buildings (19th-century factory complexes of joined wings with mismatched floor levels, studios/makers, individual landmarks). Distinct from Downtown Brooklyn (tower ownership lines), DUMBO (Gair concrete/bridge vibration), Navy Yard (BNYDC campus rules).
+
+Up-link: /fiber-optic-installation-brooklyn · phone (347) 934-8335 (800 only in shared header) · GBP Brooklyn (1282 Troy Ave) · prices = Brooklyn parent lines verbatim (1.00×).
+
+### 1. Reddit (local) — EMPTY (not accessible in build env)
+- Query `reddit Gowanus apartment internet Verizon Fios Spectrum new building` · WebSearch → no reddit.com result returned (only Verizon community threads about other buildings, not Gowanus). Not used.
+
+### 2–5, 8, 11. Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+- §10.5 substitutes (claims quoted as published, see below).
+
+### 6/7. Landmarks, building stock, corridors (verified)
+- `Gowanus rezoning 2021 approved City Council units canal` · WebSearch → https://www.6sqft.com/nyc-council-approves-sweeping-gowanus-rezoning/ (WebFetch, article Nov 24, 2021): upzones 82 blocks; "nearly 8,500 units of housing", "roughly 3,000" affordable; towers up to 30 storeys around canal, 17 on 4th Ave; $174M sewer upgrades; $200M nearby NYCHA; four acres waterfront open space → §5 para 2, §5.5 facts (8,500; 30/17), hero subhead.
+- `Gowanus Canal Superfund cleanup dredging status 2025` · WebSearch → https://www.epa.gov/newsreleases/epa-reaches-new-milestone-cleanup-gowanus-canal-superfund-site-cleanup (WebFetch, July 1, 2024): RTA1 dredging/capping started late 2020; RTA2 initial work late June 2024, full-scale est. $369M over several years; RTA3 after; overall plan "over $2 billion" incl. CSO controls; two CSO tanks being built by the City → §5.5 ($2B+), "Working Over Cleaned-Up Ground", "Fiber Work Next to an Active Canal Cleanup".
+- `Gowanus canal 2026 dredging middle segment RTA2 update EPA` · WebSearch → https://gowanussuperfund.com/ (WebFetch): latest update week of July 6, 2026 — RTA2 (3rd St to Hamilton Ave) bulkhead support system installation; Huntington St east of Smith St closed for GRT staging; bridge openings can close roadways/detours → brownfield section para 1, block-by-block (crossings, south end), cleanup section.
+- `Gowanus flood zone resiliency rezoning requirements elevated ground floor waterfront esplanade` · WebSearch → https://www.nyc.gov/assets/planning/download/pdf/plans-studies/gowanus/canal-corridor-flood-resiliency.pdf (WebFetch, DCP): floodplain buildings must meet FEMA/BC Appendix G; residential above flood elevation; non-residential at-grade dry-floodproofed or elevated; mechanical/critical systems allowed on roofs; waterfront access plan raises waterfront yards toward future daily tide; bi-level esplanade encouraged → §5 para 3, "Keeping Gowanus Fiber Above the Water", Q&A A1/A3.
+- `NYC Building Code Appendix G flood-resistant construction utilities and equipment above design flood elevation telecommunications` · WebSearch → https://www.nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_AppendixG_FloodResistantWBwm.pdf (WebFetch): G102.1 applies in SFHAs and shaded X-zones; G304.1.1 item 5 "Utilities and attendant equipment shall be located at or above the design flood elevation specified in ASCE 24, Table 7-1" (or built to keep water out) → §5, compliance callouts, Q&A A1, Terms. NOTE: Appendix G does not name telecom specifically; the page states our conservative reading as practice.
+- `"Special Gowanus Mixed Use District" zoning resolution article XIII chapter 9` · WebSearch → https://zr.planning.nyc.gov/node/22003 (WebFetch): purposes (mixed use, canal access); 139-212 "Gowanus mix" FAR bonus with Notice of Restrictions + annual reports by June 30; 139-51 shore public walkway min 10-ft clear path, 20% of lot as waterfront public access; 139-52 30-ft walkways on some parcels; 139-43 sidewalks 17 ft Third Ave, 15 ft Nevins, 13 ft Fifth St → corridors (Third Ave), Q&A A3, Studios and Makers section, Terms.
+- `Gowanus new rental tower 2025 opens Bond Street canal units leasing` · WebSearch → https://hoodline.com/2026/07/brick-beauty-on-the-canal-maison-bond-wraps-up-in-gowanus/ (WebFetch): Maison Bond, 335 Bond St at Carroll, 14 storeys, 73 rentals, ~10,911 sf ground-floor commercial + ~4,644 sf manufacturing; Brownfield Cleanup Program incl. sub-slab depressurization system → §5 para 4, block-by-block (canal blocks).
+- `365 Bond Street Lightstone Gowanus units opened flood Hurricane Sandy` · WebSearch → https://www.6sqft.com/?p=123692 (WebFetch, Mar 1, 2016): 363–365 Bond total 700 rentals; buildings sit higher than post-Sandy floodplain; only new residential developments under way due to restrictive zoning; canal 1.8 miles, Superfund 2010 → §5 para 1, §10.5 H3 6.
+- `Gowanus rezoning pipeline units under construction 2026 cityrealty buildings list` · WebSearch → https://www.6sqft.com/best-new-apartments-gowanus-brooklyn/ (WebFetch, Feb 9, 2026): Society Brooklyn 500 Degraw/504 Sackett, 517 units, two 21-storey towers, SCAPE esplanade, 57,000 sf retail, plants to withstand flooding; 420 Carroll 360 units (two towers joined by underground tunnel); 175 Third St 1,100 units / 27 storeys (planned) → §5 para 2, landmarks card (Society Brooklyn), corridors.
+- `Old American Can Factory 232 Third Street Gowanus artists studios` · WebSearch → https://www.nyc.gov/site/lpc/about/pr2019/lpc_designates_five_historic_buildings_in_gowanus_as_individual_landmarks.page (WebFetch): designated Oct 29, 2019 — Somers Brothers Tinware Factory (later American Can) 238–246 3rd St 1884; BRT Central Power Station Engine House 153 2nd St 1901–03; Gowanus Canal Flushing Tunnel Pumping Station & Gate House 196 Butler St 1911; Montauk Paint 170 2nd Ave 1908; ASPCA 233 Butler St 1913 → §5 para 5, building types, landmarks cards, compliance callouts.
+- `Carroll Street Bridge Gowanus retractile 1889 oldest landmark` · WebSearch → https://en.wikipedia.org/wiki/Carroll_Street_Bridge (WebFetch): opened 1889; landmark 1987; oldest of four remaining US retractile bridges; closed 2020/21 for cleanup damage; reopened June 15, 2026 to pedestrians, bikes, emergency vehicles → §5.5 fact, landmarks card.
+- `Gowanus Canal bridges Union Street Third Street Ninth Street bascule bridge list` · WebSearch → https://www.nyc.gov/html/dot/html/infrastructure/bridges-gowanus.shtml (WebFetch): Union St bascule 1905; Carroll St retractile 1889; Third St bascule 1905; Ninth St vertical lift 1999; Hamilton Ave bascule 1942 → corridors (crossings).
+- Same search → https://en.wikipedia.org/wiki/Gowanus_Canal (WebFetch): 1.8 mi, ~100 ft wide; Superfund announced March 4, 2010; flushing tunnel 1911, reactivated 2014 after $177M upgrade; Fourth Street Basin branches east at Fourth St → §5.5 fact, landmarks (pumping station), block-by-block (south end).
+- `Gowanus CSO retention tank Butler Street Nevins 8 million gallon DEP construction Thomas Greene Park` · WebSearch → https://citylimits.org/gowanus-sewage-cleanup-will-clear-out-several-businesses/ (WebFetch, Dec 7, 2017): 8M-gallon tank at head of canal on 234 Butler, 242 & 270 Nevins; 19 businesses displaced; 4M-gallon second tank at DSNY facility 2nd Ave & 5th St → §5.5 fact, corridors, block-by-block.
+- `Gowanus Hurricane Sandy flooding canal overflow basements 2012` · WebSearch → https://brooklyneagle.com/articles/2012/12/05/sandy-pushed-gowanus-delivered-noxious-toxic-punch/ (WebFetch): canal "gushed over its banks", flooding streets and basements; landlords hadn't pumped basements; bacteria and industrial toxins concern → "Keeping Gowanus Fiber Above the Water" para 1.
+- `Gowanus Green Public Place former gas plant site construction affordable housing 2025` · WebSearch → https://www.brownstoner.com/development/gowanus-green-public-place-development-2026/ (WebFetch, Mar 20, 2026): city-owned former Citizens MGP; 950 all-affordable homes, school, park; cleanup stalled since 2024 (National Grid vs DEC dispute) → corridors (south end), brownfield section.
+- `Powerhouse Arts Gowanus 322 Union Street opened 2023 former power station` · WebSearch → https://www.aiany.org/architecture/featured-projects/view/powerhouse-arts/ (WebFetch): 1903 BRT power station; 170,000 sf; fabrication workshops (metal, wood, ceramic, textiles, print) + performance/exhibition; PBDW / Herzog & de Meuron; year 2023 → §5 para 5, landmarks card. (Street address 322 Union St appears only in a search-result title; page uses LPC's 153 Second Street for the engine house.)
+- `Whole Foods Third Street Third Avenue Gowanus opened 2013 rooftop greenhouse Gotham Greens` · WebSearch → https://bkreader.com/2013/12/19/10-things-you-should-know-about-the-new-brooklyn-whole-foods-store/ (WebFetch): 214 3rd St at 3rd Ave; 56,000 sf; 20,000 sf Gotham Greens greenhouse. December 2013 opening per search results (Commercial Observer "Whole Foods Announces December Opening in Gowanus", dnainfo 2013-12-17) → corridors (Third Ave), landmarks card.
+- `Fourth Avenue Park Slope Gowanus 2003 rezoning residential buildings corridor` · WebSearch → https://brooklyneagle.com/articles/2014/09/11/fourth-avenue-undergoes-transformation/ (WebFetch, Sept 11, 2014): 2003 rezoning Warren–15th St, residential to 120 ft; extended to 24th St two years later; 11–13-storey projects; blank ground floors criticised; Special Fourth Avenue Enhanced Commercial District 2011 → building types, corridors, block-by-block.
+- `Gowanus Open Studios artists studios buildings number 2025` · WebSearch → https://www.artsgowanus.org/gowanus-open-studios-2026 (WebFetch): Oct 17–18, 2026; 30th year; "more than 400 artists, businesses, and venues"; organiser Arts Gowanus → §5 para 5.
+- `HPD broadband in affordable housing design guidelines requirements entry point new construction` · WebSearch → https://www.nyc.gov/site/hpd/services-and-information/broadband-development-projects.page (WebFetch): "Fiber is trenched from the nearest telecommunications vault in the street to the building's basement"; risers to each floor; ≥100 Mbps up/down per apartment; no additional cost to tenant; applies to HPD-assisted projects (MIH/VIH-only and 421-a-only excluded) → §10.5 H3 5, FAQ 4.
+- `Gowanus rezoning E-designation hazardous materials OER vapor barrier sub-slab depressurization` · WebSearch → only generic EIS PDFs (a002-epic.nyc.gov) returned; not opened. Page mentions E-designations only generically in compliance callouts.
+
+### 9/10. Local news / hyperlocal on fiber contractors in Gowanus — EMPTY (none retrieved).
+
+### §10.5 substitutes (quoted as published)
+- https://www.angi.com/articles/fiber-optic-cable-installation-cost.htm (WebFetch this run, "Updated May 3, 2026"): "$1,500 and $7,000 for your home"; "$1 to $12 per linear foot"; aerial $1,000–$5,000 vs underground $2,000–$10,000; labour "$50 to $150 per hour", "$1 to $7 per foot" → H3 1–4. ("Aerial installations are less expensive because they require less digging" re-verified by a second WebFetch this run.)
+- HPD broadband page (above) → H3 5. 6sqft 365 Bond (above) → H3 6.
+- thenetworkinstallers.com FBA 2025 underground median $18/ft, aerial $8/ft — silo research entry (line 29), not re-fetched this run → H3 7.
+
+### Pricing used (Brooklyn parent page lines verbatim, 1.00×)
+$35/termination · $40/strand OTDR · $350 MM drop · $400 SM drop · $4,500–$7,000 12-strand OM4 · $8,000–$15,000+ 24-strand OS2 · from $2,400 second telecom room · $195/hr 3-hr min ($585). Packages $800 / $4,500–$7,000 / $8,000–$15,000+ (parent package prices).
+
+### Images (11) — Drive folder `AESS Website Photos/Fiber Optic Installation` empty (main run, 17:45Z), CompanyCam not connected
+Cropped (faces removed) from the 20 `images/fiber-optic-installation/aess-fiber-optic-installation-*` library photos (the set every current fiber page uses; these look AI-rendered — Anwar to review), saved as `fiber-optic-installation-gowanus-<what>.webp`: riser-panel-yellow-jumpers, armored-cable-into-handhole, wall-enclosure-pigtails, splice-enclosure-breakout-strands, fusion-splicer-loading-fiber, red-fault-locator-on-strand, cleaver-and-splicer-bench, distribution-panel-numbered-ports, otdr-trace-building-uplinks, end-face-pass-screen, loss-test-meters-at-rack. Captions/changelog state photos were not taken at a Gowanus site.
+
+### Keyword plan (Gowanus page)
+Service: fiber optic installation Gowanus, fiber backbone Gowanus, riser fiber new building, factory building fiber link, studio fiber drop, fusion splicing, OTDR testing. Problem: flood zone, design flood elevation, flooded cellar, brownfield slab, vapour barrier, vent chase, mismatched floors, crane bay, kiln room, airtight envelope, roof membrane. Technology: OS2, OM4, OFNR/OFNP, armoured cable, duct seals, innerduct, splice enclosures. Industry: developers/GCs, studio landlords, makers, venues, retail on Third Ave, Fourth Ave residential. Geographic: Gowanus, Gowanus Canal, Bond/Nevins Streets, Third Avenue, Fourth Avenue, Union/Carroll/Third St bridges, Butler/Douglass/Degraw, Second–Hamilton Aves, Carroll Gardens, Park Slope, Boerum Hill, Red Hook.
+
+### Question register additions (fiber-optic-installation-gowanus-brooklyn-ny)
+- Which parts of a fiber system can stay below the design flood elevation in a new canal-side building, and which have to go up?
+- Our lot runs from a higher avenue down to a lower street near the canal — which frontage should the provider's fiber come in on?
+- The shore walkway on our lot has to stay open to the public — can conduit for its lights and cameras run underneath it?
+- The vapour-mitigation vent pipe runs up the only chase to our roof — can fiber share that shaft?
+- Can cellar flood sensors, sump-pump alarms and the vapour-mitigation fan alarm report to the super over the building's fiber?
+- Our complex is several old factory buildings joined together and the floors don't line up — how does a backbone cross from one section to the next?
+- Where should fiber run in a fabrication shop with an overhead crane?
+- Our ceramics studio fires kilns for hours at a time — can fiber or network gear go in the kiln room?
+- Our new building is going for Passive House certification — how are cable holes kept from spoiling the airtightness test?
+- Can conduit for rooftop equipment cross a green or blue roof without voiding the membrane warranty?
+- FAQ: Do you also work in Carroll Gardens, Park Slope’s Fourth Avenue blocks, Boerum Hill and Red Hook?
+- FAQ: Does fiber work inside a building beside the Superfund canal need any sign-off from the EPA or the state?
+- FAQ: Our shop ceiling is packed with fume-extraction ducts — where does the fiber go?
+- FAQ: Our affordable building is HPD-assisted — does the city’s broadband guidance decide where the fiber enters?
+- FAQ: Can a fiber link carry DMX lighting control or show control for a performance or event space?
+
+Closest existing intents (judged distinct, please review): A1 vs Manhattan "main fiber room stay in cellar of flood-prone building" / DUMBO "network equipment up to the roof" (ours = what the code lets stay below the DFE); B1 vs Port Morris "vapour barrier under the slab — can conduit pass through it" (ours = sharing the vent-riser chase); B2 vs Bronx/Nassau BMS-over-fiber questions (ours = flood/pump/vapour-fan alarms); FAQ DMX vs Brooklyn "production video and audio between stages".
