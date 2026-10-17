@@ -89,7 +89,7 @@ LIVE | soundbar-installation-tribeca-manhattan-ny | Soundbar Installation | Trib
 LIVE | soundbar-installation-williamsburg-brooklyn-ny | Soundbar Installation | Williamsburg, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-forest-hills-queens-ny | Soundbar Installation | Forest Hills, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | soundbar-installation-pelham-bay-bronx-ny | Soundbar Installation | Pelham Bay, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T11:14Z | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-harlem-manhattan-ny | Soundbar Installation | Harlem, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | soundbar-installation-bay-ridge-brooklyn-ny | Soundbar Installation | Bay Ridge, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
@@ -113,8 +113,8 @@ LIVE | smart-lock-installation-west-brighton-staten-island-ny | Smart Lock Insta
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-financial-district-manhattan-ny | Fiber Optic Installation | Financial District, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-dumbo-brooklyn-ny | Fiber Optic Installation | DUMBO, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:14Z | fiber-optic-installation-long-island-city-queens-ny | Fiber Optic Installation | Long Island City, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T11:14Z | fiber-optic-installation-hunts-point-bronx-ny | Fiber Optic Installation | Hunts Point, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T11:15Z | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | fiber-optic-installation-hunts-point-bronx-ny | Fiber Optic Installation | Hunts Point, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:16Z | fiber-optic-installation-chelsea-manhattan-ny | Fiber Optic Installation | Chelsea, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T11:16Z | fiber-optic-installation-brooklyn-navy-yard-brooklyn-ny | Fiber Optic Installation | Brooklyn Navy Yard, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T11:16Z | fiber-optic-installation-jamaica-queens-ny | Fiber Optic Installation | Jamaica, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx

@@ -1824,3 +1824,210 @@ fiber-optic-installation-ulster-county
 - Can fiber feed outdoor Wi-Fi for an event lawn, orchard or campground? (fiber-optic-installation-ulster-county)
 
 De-dup notes: first pass (vs Putnam/Dutchess) dropped rodent, private-road, county-licensing, adjoining-public-land and old-fiber-reuse questions. Second pass (vs queens, bronx, staten-island, nassau, suffolk, westchester, rockland, orange): converted to statement headings the multi-gig (≈ Nassau "fiber at the wall, old phone wiring — where should money go first"), old-pathway reuse (≈ Orange church-school pathways), tenant-drop cleanup (≈ Orange/Queens per-tenant provider holes), shared-wall (≈ Orange party wall, Nassau attached storefronts), guest/lock segmentation (≈ Orange firehouse alerting vs members' Wi-Fi) and hybrid cable (≈ Staten Island detached building with no electricity); replaced FAQ "Does the power have to be shut off…" (≈ Staten Island Con Edison shutoff) and "Can our property manager… see from home…" (≈ Suffolk empty-house monitoring); added the staff-handover question. Page "Larger inns, camps and retreat centers" paragraph and one Field Notes paragraph removed for word count.
+
+## Bloomfield, Staten Island — local research (2026-10-17 batch, fiber-optic-installation-bloomfield-staten-island-ny)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources and the Staten Island section are reused only where noted. Page thesis: **Bloomfield is the West Shore's commercial/industrial district — very large single-storey distribution buildings on former oil-terminal land, 1980s office complexes and the Teleport campus on South Avenue, and hotels near I-278/the Goethals — so the fiber problem is distance inside one building (zone cabinets beyond the 100 m copper limit), links out to gates/yard poles across truck courts and engineered fill, and office/hotel risers.** The Staten Island borough page's thesis (short links between buildings on residential/strip lots, aerial vs buried, SNAD, flood-raised houses) is deliberately not repeated; the SI page's Teleport/Amazon/IKEA facts are re-stated only briefly with different sources.
+
+### Reddit (local)
+- Query: `reddit statenisland Bloomfield Amazon warehouse Gulf Avenue traffic` · WebSearch → no reddit.com results (CBS, YIMBY, warehouse.ninja only). EMPTY.
+- Query: `reddit statenisland Bloomfield Teleport office internet fiber` · Firecrawl web search (excerpts only) → https://www.reddit.com/r/statenisland/comments/1m1cmz2/staten_island_internet_service_providers/ — excerpt: "glofiber is non existent, and Verizon is hit or miss." → §10.5 H3 7 (quoted as a resident's comment). No Bloomfield-specific thread. Same search → https://broadbandnow.com/New-York/Staten-Island excerpt "Fiber internet is 94.4% available in Staten Island" → §10.5 H3 5. https://ispreports.org/business-internet-providers-bloomfield-staten-island-ny/ (excerpt only, ratings table) → not used.
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted as published, from excerpts):
+- Query: `fiber optic cabling warehouse distribution center installation cost how long does it take` · Firecrawl web search:
+  - https://www.parksidetech.com/network-cabling/fiber-optic-installation/ — "Most fiber installations are retrofits and do not require major construction." → §10.5 H3 1.
+  - https://www.reddit.com/r/FiberOptics/comments/1ipq8ca/how_long_does_construction_take/ — "Construction is usually 6-12 weeks. Cable placement is a week, splicing is 1-2 weeks including testing." (commenter, provider construction) → §10.5 H3 2.
+  - https://ztechcommunications.com/2025/12/10/how-much-does-structured-cabling-installation-cost-in-dallas/ — "Fiber Optic Cabling (Backbone) $3,000-$5,000+ (varies by strand count)" → §10.5 H3 3.
+  - https://community.hubitat.com/t/underground-fiber-optic-cable-installation-cost/139202 — "According to the installer, the directional boring cost is $15K." → §10.5 H3 6 (forum post).
+- Query: `business park fiber "dark fiber" vs "lit" office tenant claim cheaper faster` · Firecrawl web search → https://lightpathfiber.com/articles/what-dark-fiber-dark-fiber-vs-lit-fiber-explained/ — "Dark Fiber: Higher upfront cost, lower ongoing costs" → §10.5 H3 4.
+- Yelp 1–3★ for Bloomfield/West Shore fiber or cabling contractors: no yelp.com result in any query. EMPTY.
+- Bing & DuckDuckGo: EMPTY (not accessible in build env).
+
+### Neighbourhood history, land use, transit
+- Query: `Bloomfield Staten Island neighborhood industrial Gulf Avenue Chelsea Road history` · WebSearch → https://en.wikipedia.org/wiki/Bloomfield,_Staten_Island (WebFetch): West Shore; north of Travis-Chelsea, west of Bulls Head; Prall's Island offshore; formerly Daniell's Neck / Merrell Town, name on a map 1874; few residents in the 20th century, land used to store construction equipment; Gulf Oil terminal 440 acres, built 1936, 82 tanks, 215 million US gallons, closed 1998; Gulf Avenue (West Shore Expressway service road) named after it; commercial (not residential) development accelerated late 1980s with large office buildings; Hilton Garden Inn opened 2001 and Hampton Inn & Suites 2007, both on South Avenue; NASCAR proposal failed; Matrix Global Logistics Park opened fall 2018 for companies incl. Amazon and IKEA, "more than 2,000 jobs"; S46/S96 on South Avenue, S40/S90 serve Matrix on Gulf Avenue. → §5 paras 1–2, §5.5 fact 2, §8 cards (Gulf Ave, South Ave hotels), §13 Hilton card. (1973 TETCo explosion noted, not used.)
+- Query: `silive Bloomfield Staten Island warehouse new development 2025 West Shore` · WebSearch → https://en.wikipedia.org/wiki/West_Shore,_Staten_Island (WebFetch): Travis "only residential neighborhood on the West Shore"; Teleport a high-tech industrial park built early 1980s mostly for communications-industry companies; South Avenue begins in Mariners Harbor, ends in Travis, string of large office complexes built along it in the 1980s; West Shore Expressway principal north–south road; Amazon announced Jan 2020 a 450,000 sq ft lease next to its 855,000 sq ft centre. → §2b offices section para 1, "On the Island" section para 2.
+- Same search → https://www.nyc.gov/assets/planning/download/pdf/plans-studies/west-shore/wsfinalreportchap4_46to49.pdf (WebFetch, DCP "Working West Shore 2030" implementation tables; date not visible): Bloomfield/Teleport zone — EDC to pursue modern industrial/distribution development on vacant Bloomfield sites; expand uses at Staten Island Corporate Park and Teleport campus; truck connections from the Goethals Bridge to industrial sites; drainage plan for the northern West Shore. → "On the Island" section para 3.
+- Same search → https://newyorkyimby.com/2016/05/450000-square-foot-warehouse-filed-at-566-gulf-avenue-bloomfield-staten-island.html (WebFetch, May 4 2016): 566 and 586 Gulf Avenue; vacant tract west of the West Shore Expressway and north of Bloomfield Avenue; ~252 acres permanently preserved as wetlands, ~330 acres industrial; remediation began 2013; development area raised to at least 10 feet above sea level (Emergency Watershed Protection programme); NYS DEC involved in wetland preservation; warehouses 46 ft high. → §5 para 4, §5.5 fact 3, §8 Bloomfield Ave card, "Tank Farm to Truck Court" section, §9 remediated-site Q and fill Q. (Tract acreage 676 here vs 671 in DNAinfo — not stated on page.)
+
+### Logistics park
+- Query: `Matrix Global Logistics Park Staten Island Bloomfield buildings Gulf Avenue` · WebSearch → https://njbiz.com/matrix-breaks-ground-on-staten-island-logistics-park/ (WebFetch, Oct 13 2016): Matrix Development Group broke ground on first two of four buildings, 975,000 and 450,000 sq ft; >3,000 jobs projected. → §5 para 2, §5.5 fact 1.
+  - https://www.dnainfo.com/new-york/20161011/bloomfield/nascar-matric-development-group-distribution (WebFetch, Oct 11 2016): former oil tank storage site off Gulf Avenue; Matrix bought 200 acres in 2016; ISC bought 2004 ($100M) for an 82,500-seat track, sold 2007. → §5 para 2 (200 acres). NASCAR detail not used.
+  - https://www.pincusco.com/matrix-finishes-7-3m-rehab-of-staten-island-warehouse/ — paywalled. EMPTY.
+- Silo/SI-section sources reused: Commercial Observer (Amazon 855,000 sq ft, IKEA 975,000 sq ft) — not repeated as a fact on this page beyond "Amazon and IKEA among tenants".
+- Page-own calculation (no source needed, arithmetic): 975,000 sq ft ≈ 90,580 m²; a square footprint of that area ≈ 301 m a side vs the 100 m copper channel limit → §5 para 2. Stated conditionally ("spread over one level").
+
+### Teleport, offices, data centre
+- Query: `Corporate Commons Three Staten Island Teleport Nicotra building` · WebSearch →
+  - https://forgotten-ny.com/2023/08/teleport-calling-bloomfield/amp (WebFetch): Teleport opened 1983 (article also says 1970s); 17 dishes, 25 ft diameter, 18-acre walled compound, once the world's largest satellite dish farm; AT&T 4,000 jobs, left 2001; satellite/fiber advances made it obsolete; now offices for doctors, lawyers, small businesses, schools; Corporate Commons One–Three (Richard and Lois Nicotra), rooftop farm on Three; Teleport Drive reached only from South Avenue; South Avenue runs 3.5 miles Mariners Harbor–Chelsea; 900 and 1000 South Avenue built in the forest before parcels were restricted; Lois Lane named after Lois Nicotra; Staten Island Industrial Park mapped 1962, now a fenced nature preserve. → §5 para 3, §5.5 fact 5, §8 cards (South Ave, Teleport, Corporate Park/Lois Lane), offices section.
+  - https://www.untappedcities.com/330000-square-foot-office-building-on-staten-islands-teleport-campus-breaks-ground-in-nyc/ (WebFetch, Oct 2017): Corporate Commons Three 330,000 sq ft, LEED-certified, NYCEDC + Nicotra Group, groundbreaking announced Oct 4 2017; ~20% medical tenants, charter school, adult education planned; rooftop farm. No fiber/connectivity details. → §7 card, §13 card.
+- Query: `Telehouse New York Teleport 7 Teleport Drive Staten Island data center` · WebSearch → https://www.datacenterknowledge.com/colocation/telehouse-space-available-at-ny-nj-powered-staten-island-facility (WebFetch, June 24 2021): 7 Teleport Drive, 162,000 sq ft, completed 1989, KDDI-owned; yards from NYIIX; fiber entry points increased to three in 2007 via underground paths. → §5.5 fact 4, §13 card. (Silo source Wikipedia Teleport reused for "Nicotra" context only.)
+
+### Hotels
+- Query: `Hilton Garden Inn Staten Island 1100 South Avenue Hampton Inn 1120 South Avenue` · WebSearch → https://www.timeout.com/newyork/hotels/hilton-garden-inn-new-york-staten-island (WebFetch): 1100 South Ave at Lois Ln; 198 rooms/suites; indoor pool; Lorenzo's restaurant with cabaret; Above Rooftop Lounge; in the Corporate Park within "415 acres of preserved woodland"; minutes from I-278; S46/S96; shuttles to the ferry and Newark Airport. Hampton Inn address NOT confirmed (query's 1120 South Avenue not verified — not used). → §8 hotels card, §13 card, hotels section.
+
+### Bridge, wetlands
+- Query: `new Goethals Bridge opened 2017 cable-stayed Port Authority second span 2018 Staten Island Elizabeth` · WebSearch → https://www.cbsnews.com/newyork/news/new-goethals-bridge-opens/ (WebFetch, June 10 2017): first twin span opened to NY-bound traffic; cable-stayed; $1.5 billion; replaced an 89-year-old bridge; Elizabeth NJ–Staten Island. → §13 card.
+- Query: `Saw Mill Creek wetland mitigation bank Staten Island Chelsea Bloomfield NYCEDC acres` · WebSearch → https://www.stormwater.com/home/news/33045765/new-york-citys-first-mitigation-bank-restores-54-acres-of-wetlands (WebFetch, Oct 10 2019): NYCEDC; 54 acres tidal wetlands, marsh, mudflat in Saw Mill Creek watershed, west shore; >40,000 cubic yards of debris removed; NYC's first mitigation bank. → §5 para 4, §5.5 fact 6, ground section, §13 card.
+
+### Local licensing / permits / technical
+- Silo sources reused: OFNR/OFNP listings (cablinginstall), DOB <50 V statement (site's own structured-cabling-pricing page), firestopping (nyflnerds/unifinerds), New York 811 (newyork-811.com). → §8.5 compliance list, process step 3.
+- Not separately researched (stated as general practice, no figures): sprinkler clearance under high-bay roofs, cable minimum installation temperature (data-sheet value), passive optical LAN, service loops, remote-IT handover. No standard numbers quoted.
+- Local news (SI Advance/silive) on Bloomfield fiber/cabling: none retrieved. EMPTY. Chelsea Road: no source retrieved — not named on the page.
+
+### Pricing used (copied from fiber-optic-installation-staten-island.html; no new prices)
+$39 termination · $44 OTDR/strand · $385 MM drop · $440 SM drop · $4,950–$7,700 12-strand OM4 backbone · $8,800–$16,500+ 24-strand OS2 link · from $2,640 second telecom room · $195/hr, 3-hr min ($585). Packages: Starter 2 × $440 = $880; Standard $4,950–$7,700; Premium $8,800–$16,500+ (same lines as the SI page). The open SI configurator conflict ($411/$470) flagged in the Staten Island section still applies.
+
+### Images (11) — permanent image rule; Drive folder `AESS Website Photos/Fiber Optic Installation` empty (checked this run), CompanyCam not connected
+WebP q80 in images/fiber-optic-installation/. Printed phone numbers on shirts/caps/van side (incl. a non-company "444-386-7238") and the van's printed web address were pixelated + blurred; a wall sign reading "COMMUNITY CENTER" (AP photo) and a whiteboard with handwritten rack notes (rack-patching photo) were blurred. No other edits. Source scenes chosen to avoid the 11 used on the Staten Island fiber page.
+| New file | Source |
+|---|---|
+| fiber-optic-installation-bloomfield-high-bay-lift-tray-dome-camera.webp | low-voltage/low-voltage-installation-bronx-hero-warehouse-cable-tray.jpg |
+| fiber-optic-installation-bloomfield-crew-reels-open-ceiling.webp | low-voltage/low-voltage-installation-bronx-03-crew-cable-pull.jpg |
+| fiber-optic-installation-bloomfield-fusion-splicer-yellow-jumpers.webp | low-voltage/low-voltage-installation-brooklyn-fiber-fusion-splice.jpg |
+| fiber-optic-installation-bloomfield-scissor-lift-access-point.webp | low-voltage/low-voltage-installation-bronx-access-point-lift-install.jpg |
+| fiber-optic-installation-bloomfield-emt-conduit-block-wall-pull.webp | network/network-installation-bronx-network-drop-conduit-emt-riser.webp |
+| fiber-optic-installation-bloomfield-rack-patching-panduit.webp | low-voltage/low-voltage-installation-bronx-05-idf-rack-patching.jpg |
+| fiber-optic-installation-bloomfield-splicer-blue-adapter-panel.webp | low-voltage/low-voltage-installation-brooklyn-fiber-splice-tray.jpg |
+| fiber-optic-installation-bloomfield-van-cable-reels-ladders.webp | low-voltage/low-voltage-installation-brooklyn-van-load-out.jpg |
+| fiber-optic-installation-bloomfield-hammer-drill-block-wall-pull-line.webp | network/network-installation-bronx-core-drill-cmu-wall-penetration.webp |
+| fiber-optic-installation-bloomfield-rack-switch-laptop-config.webp | low-voltage/low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg |
+| fiber-optic-installation-bloomfield-rack-before-after.webp | network/network-installation-bronx-network-rack-cleanup-before-after.webp |
+Note: area-named source files are byte-identical copies of ~20 base scenes, so every scene already appears elsewhere in the fiber silo; the library photos still look AI-rendered (garbled small text) — flagged again for Anwar.
+
+### Keyword plan (Bloomfield page)
+Service: fiber optic installation Bloomfield Staten Island, warehouse/distribution-centre fiber backbone, zone cabinets, dock-wall fiber, gate/guard-booth fiber, yard-pole fiber, office suite riser fiber, hotel fiber backbone, fusion splicing, OTDR testing. Problem: 100 m copper limit in big buildings, scanner dropouts at the far end, remediated land, settling fill, truck traffic over conduit, operating buildings/peak weeks, multi-tenant splits. Technology: OS2, OM4, armored, aerial on messenger, conduit/innerduct, zone cabinets, splice trays, SFP/media converters, passive optical LAN. Industry: logistics/distribution, office parks, medical suites, schools, hotels, data-centre tenants, contractors' yards. Geographic: Bloomfield, West Shore, Gulf Avenue, South Avenue, Teleport Drive, Lois Lane, Bloomfield Avenue, West Shore Expressway, Goethals Bridge, Travis, Chelsea, Bulls Head, Mariners Harbor, Arlington, New Springville.
+
+### Question register additions
+fiber-optic-installation-bloomfield-staten-island-ny
+§9 Questions Answered:
+- Our main network room is in the front office but most of our devices are at the back of the building — should the room move rather than run fiber all that way?
+- The automation vendor installing our conveyors and sorters wants its own network — should it get dedicated strands, and who answers for them?
+- Handheld scanners drop out at the far end of the floor while the office Wi-Fi is fine — is this a wiring problem?
+- Our IT team works from headquarters in another state — what do they need from you to support the fiber without visiting?
+- Can fiber run up our yard light poles to reach cameras mounted high above the trailer lot?
+- Our site was part of a remediated former oil terminal — can we dig through the ground for fiber, and who has to agree?
+- Our building pad sits on deep new fill — will settling ground damage fiber buried between the warehouse and the outbuildings?
+- We're moving our servers into a nearby data centre — what changes for the fiber inside our office?
+- Our hotel's ballroom and meeting rooms host events that need live streaming — can they get capacity separate from guest Wi-Fi?
+- Is passive optical LAN a sensible choice for a hotel's guest floors?
+§17 FAQ:
+- Do you cover Travis, Chelsea, Bulls Head and the rest of the West Shore near Bloomfield?
+- Do you carry out wireless surveys, or only the cabling?
+- How does fiber cross an expansion joint in a large warehouse floor or roof?
+- Can fiber run through a forklift battery-charging room?
+- Will you coordinate with our sprinkler contractor before hanging tray under the roof?
+- Is there a temperature below which fiber cable should not be pulled?
+- Can fiber, cameras and door access be quoted as one project?
+- Can a zone network cabinet go on a mezzanine instead of the warehouse floor?
+- Who takes away the empty reels, boxes and offcuts at the end of the job?
+- Can you work above running conveyors without stopping them?
+- Can fiber reach the staff entrance where time clocks, turnstiles and badge readers sit?
+- How much spare fiber should be left coiled at each zone cabinet?
+
+De-dup notes (checked by meaning against all 17 fiber pages incl. the in-progress Hunts Point page's headings at build time). Five drafted questions were replaced because the concurrent Hunts Point page asks the same intent: dock-door run design, EV truck chargers, own-lift-or-rent, insulated-metal-panel penetrations, slab scanning before coring. Also avoided SI "national logistics tenant spec" and "racking rearranged", LI "gatehouse"/"parking-lot depth"/"repaving", Brooklyn "truck-yard cameras"/"camera distance from rack", Bronx "high column-free ceiling", Queens "train vibration"/"freezer room", Manhattan "carrier hotel"/"second diverse path"/"cellar flood room", HV "busy-season scheduling", Orange "hotel rooms in service", Rockland "Bergen County cross-state", Suffolk "industrial site safety rules"/"run length before splice", Nassau "separate network for building controls". Closest remaining intents for the main run to judge: automation-vendor strands vs Nassau "separate network for heating/cooling controls"; staff-entrance time clocks vs Bronx "laundry/package room card readers"; mezzanine cabinet vs Bronx "rack in the super's office".
+Build checks (this builder): rendered words 12,319; file 170,237 B (siblings 178,211–225,478; Hunts Point in progress 210,275 at check time); masked paragraph similarity (difflib on ≥12-word p/li/h3, boilerplate NAP/warranty/stamp/consent exempt) max 0.617 (vs Hudson Valley intro line); all others < 0.61.
+
+## Hunts Point, Bronx — local research (2026-10-17 batch, fiber-optic-installation-hunts-point-bronx-ny)
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources above are reused where noted (AI reality-check claims: streamlinetelecom $1–6/ft, thenetworkinstallers/FBA $18/ft underground median, AT&T 4–6 h + T-Mobile 4 h, Quantum Fiber multifamily stages, Atlantech 15-month wait, r/AskNYC "Its on the ISP to wire your building/apartment", CUF 99.8%). Page thesis: the peninsula is a 24-hour, refrigerated, truck-dominated food hub beside a small residential core — fiber here is dock-row spines, sealed cooler/washdown entries, truck-lane crossings, converted-factory suites and new-building pathways; distinct from the Bronx area page (multi-building complexes/courtyard risers). Up-link /fiber-optic-installation-bronx; phone (646) 490-0629; Bronx GBP.
+
+### Reddit (local) — EMPTY
+- Query: `reddit Hunts Point Bronx warehouse internet OR fiber OR Fios` · WebSearch → no reddit.com result returned (results were myshyft, Bronx Times, The POINT, a listing). EMPTY (not accessible in build env / no results).
+
+### PAA / PASF / Answer the Public / AI Overview / Bing & DDG — EMPTY (not accessible in build env)
+Substituted for §10.5 with the silo-level published claims listed above (each re-worded/attributed; headings paraphrased so they do not repeat the Bronx/Orange headings).
+
+### Yelp 1–3★ — EMPTY
+- Query: `yelp low voltage cabling contractor Bronx Hunts Point reviews` · WebSearch → no yelp.com results (Bronx Chamber, Thumbtack, BlueBook, directories). EMPTY.
+
+### Traffic, highway, trucks
+- Query: `Hunts Point Interstate Access Improvement Project Bruckner Expressway Oak Point Avenue ramps NYSDOT` · WebSearch → https://dewberry.com/projects/hunts-point-interstate-access-improvement (WebFetch): NYSDOT project, Dewberry/AECOM JV; widens Bruckner, adds interstate access ramps to Hunts Point Market, shifts trucks off local streets; safety work at 20+ Bruckner Blvd intersections; $1.7 billion; three design-build contracts. → §5.5 facts list, Trucks section para 3, Commercial card "Bruckner Boulevard and Edgewater Road".
+- Query: `Hunts Point peninsula industrial business zone truck trips per day Bronx diesel asthma` · WebSearch → https://amny.com/new-york/bronx/hochul-announces-bruckner-expressway-expansion-key-step-to-ease-south-bronx-truck-traffic-right-wrongs-of-robert-moses-era (WebFetch, Aug 21 2023): nearly 80,000 trucks/day to and from the peninsula, ~13,000 on residential side streets; Phase 1 two-way ramp Edgewater Rd–Sheridan Blvd + Bruckner→Edgewater ramp; Phase 2 $518M widening 1.25 mi of Bruckner E 141st St–Barretto St with ramps at Leggett Ave; Phase 3 Bruckner–Sheridan interchange + third lane; Oak Point exit rejected (rail yard, Amtrak/CSX). → hero subhead, §5.5, Trucks section paras 1 & 3.
+- Same query → https://www.governor.ny.gov/news/governor-hochul-announces-significant-congestion-pricing-funded-air-quality-improvement (WebFetch, Apr 1 2026): 20 diesel TRUs at the Hunts Point Produce Market replaced, 75 more in pipeline, $15M for the measure; $20M listed for electric truck charging infrastructure (no location given). → Trucks section para 2 (stated with "without naming where").
+
+### Food Distribution Center, markets, flood/power
+- Query: `Hunts Point peninsula flood zone FEMA 100-year floodplain food distribution center sea level rise study` · WebSearch → https://citylimits.org/2022/10/27/spared-by-sandy-hunts-point-food-market-slow-to-address-flood-risk/ (WebFetch): nearly a third of FDC in current 100-yr floodplain; future floodplain nearly entire hub; Sandy at low tide, water into New Fulton Fish Market parking lot; 2016 feasibility study: power outages main threat to produce and fish markets; produce market's ground-level power stations vulnerable to Bronx River surge; FDC 329 acres, ~4.5bn lb/yr; NYCEDC estimate 25% produce / 35% meat / 45% fish; meat wholesaler quote "almost 700,000 square feet of refrigerated space". → §5 para 1, §5.5, Flood & Power section, §13 FDC card.
+- Query: `Hunts Point Cooperative Market meat buildings square feet merchants Bronx` · WebSearch → https://en.wikipedia.org/wiki/Hunts_Point_Cooperative_Market (WebFetch): opened 1962; ~60 acres; seven refrigerated/freezer buildings; 50+ wholesale businesses. → §5.5. https://newyorkyimby.com/2025/07/renovations-begin-on-building-c-at-hunts-point-cooperative-market-in-hunts-point-the-bronx.html (WebFetch, Jul 24 2025): $18M recladding of Building C (built 1972) with sealed insulated metal façade. → §7 cards, §9 Q "reclad in insulated metal panels".
+- Query: `New Fulton Fish Market Hunts Point building square feet opened 2005` · WebSearch → https://www.nbcnews.com/id/wbna8131908 (WebFetch, 2005): ~400,000 sq ft, building more than four football fields long, climate-controlled at 41°F. https://therealdeal.com/2005/09/01/new-fulton-fish-market-to-open-after-delays/ (WebFetch): 450,000 sq ft — CONFLICT on size, so page states only "more than four football fields long" and "mid-2000s". → §13 FDC card.
+- Query: `Hunts Point Produce Market redevelopment new building square feet Aurora Primus design-build 2026` · WebSearch → https://newyorkyimby.com/?p=1984924 (WebFetch): $405M, Aurora-Primus JV, all-electric intermodal facility on rail-yard site along the Bronx River, more refrigerated space, construction expected late 2026. → §5 para 4, New Construction section.
+- Query: `Hunts Point Wastewater Resource Recovery Facility DEP Ryawa Avenue gallons per day` · WebSearch → https://www.waterandwastewater.com/hunts-point-wastewater-treatment-plant (WebFetch): "600 MGD" — NOT used (implausible/unverified).
+
+### Buildings, streets, landmarks
+- Query: `BankNote building 1201 Lafayette Avenue Hunts Point American Bank Note Company landmark` · WebSearch → https://en.wikipedia.org/wiki/American_Bank_Note_Company_Printing_Plant (WebFetch): 1201 Lafayette Ave; 1909–1911; Kirby, Petit & Green; 405,000 sq ft; nine-storey tower on Lafayette wing; brick on steel frame, glazed arches, concrete floors; LPC 2008; The BankNote (Madison Marquette); Wildcat Academy Charter School floors 4–6; HRA 20-year lease 2013. → §5.5, §7 card, Converted Factories section, §13 card.
+- Query: `Hunts Point Avenue commercial corridor Bronx shops residential blocks Hunts Point Avenue Bruckner Boulevard 6 train station` · WebSearch → https://www.forgotten-ny.com/2009/03/hunts-point-bronx/ (WebFetch, 2009): Hunts Point Ave runs Southern Blvd/E 163rd St to East Bay Ave & Halleck St; auto-glass shops at Hunts Point & Garrison Aves; Lafayette Ave Bridge 1906; Bruckner Expressway built 1956–61 along the railroad; Barry St brick factory c.1900–1910; Oak Point Ave: Midland Steel warehouse at Worthen St, NYCTA Tiffany Street shops; Corpus Christi Monastery 1890; Gilbert Place bowed-front attached houses; Hunts Point station by Cass Gilbert 1908 housing small businesses. → §5 para 1, §7 cards, §8 corridor cards, §13 station card. (2009 source — stated with attribution where it may be dated.)
+- Same query → https://www.newyorkyimby.com/2015/07/construction-begins-on-hunts-point-mall-925-hunts-point-avenue.html (WebFetch): 40,000 sq ft retail centre (The Crossings) at 925 Hunts Point Ave. → §8 Hunts Point Avenue card.
+- Query: `Hunts Point Avenue station Cass Gilbert New Haven Railroad landmark Metro-North Penn Station Access Hunts Point` · WebSearch → https://en.wikipedia.org/wiki/Hunts_Point_station (WebFetch): Cass Gilbert station; new Metro-North station north of Hunts Point Ave, below street level behind the old building; planned 2027; design-build Dec 2021, groundbreaking Dec 2022. Silo/Bronx source reused: cityandstateny.com (July 2025) "won't be completed until at least 2028". → §5 para 4, New Construction section, §13 card.
+- Query: `The Peninsula Spofford juvenile detention redevelopment Hunts Point 1221 Spofford Avenue light industrial affordable housing` · WebSearch → https://edc.nyc/press-release/mayor-opens-affordable-homes-former-site-spofford-juvenile-detention-center-where-he (WebFetch, Jun 22 2022): The Peninsula; 183 homes in first building; ~740 affordable homes planned on five acres; light-industrial building (bakers, coffee roasters, food producers) completed the year before; Gilbane/Hudson/MHANY; WXY + Body Lawson. → §5 para 4, §7 card, New Construction section.
+- Query: `Barretto Point Park Hunts Point Riverside Park Bronx River acres opened` · WebSearch → https://en.wikipedia.org/wiki/Barretto_Point_Park (WebFetch): opened 2006; former sand/gravel and asphalt plant; Floating Pool Lady since 2008. Acreage CONFLICT (12.22 ac vs ~5 ac in Forgotten NY) — acreage not used. → §13 card.
+- Query: `Hunts Point Riverside Park Lafayette Avenue Bronx River Edgewater Road opened 2006` · WebSearch → https://php-cms.nycgovparks.org/parks/X336 (WebFetch): Lafayette Ave between Edgewater Rd and the Bronx River; former illegal dumping ground; fishing pier, kayak/canoe launch; Bronx River Greenway. → §13 card, §8 card.
+- Query: `Longwood Historic District Bronx designated row houses Hunts Point` · WebSearch → https://www.nypap.org/preservation-history/longwood-historic-district/ (WebFetch): designated July 1980, extended 1983, NRHP 1983; mostly two-/three-family houses by Warren C. Dickerson, bay-front twins. → §13 card.
+- Query: `THE POINT CDC 940 Garrison Avenue Bronx 10474` · WebSearch → https://en.wikipedia.org/wiki/The_POINT_Community_Development_Corporation (WebFetch): 940 Garrison Ave, founded 1993. Building origin CONFLICT (bagel factory vs bank-note storage) — not used.
+- Query: `Hunts Point Bronx broadband internet fiber businesses connectivity market wholesalers` · WebSearch → https://www.untappedcities.com/a-green-roof-atop-the-point-in-the-bronx-is-providing-free-internet-to-hunts-point/ (WebFetch, Nov 14 2019): Free Hunts Point Community WiFi, mesh with routers placed by volunteer businesses/residents, launched 2015, base on The POINT's green roof. → §5.5, §9 Q "host a node of the neighbourhood's free Wi-Fi".
+
+### Technical / code (new for this page)
+- Query: `NYC noise code construction hours weekdays 7 a.m. 6 p.m. after hours variance DOB DEP` · WebSearch → https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf (WebFetch): approved construction hours weekdays 7:00 a.m.–6:00 p.m.; after-hours with permit for listed reasons; noise mitigation plan required. → §8.5 callout, §9 Q "noisy drilling at night", scheduling table.
+- Query: `FOA fiber optic safety fiber scraps disposal container cleaved fiber shards eye skin` · WebSearch → https://www.thefoa.org/tech/safety.htm (WebFetch): scraps "very dangerous", dispose in a dedicated container, keep food and drink out of the work area. → §8.5, Cold Rooms section para 4, §9 Q "cleaved fiber scraps".
+- Query: `NEMA 4X enclosure washdown corrosion resistant stainless polycarbonate food processing definition` · WebSearch → https://www.se.com/us/en/faqs/FA350115/ (WebFetch): Type 4 gasketed/clamped for washdowns and directed water; 4X adds corrosion resistance for food processing with caustic cleaners. → Cold Rooms para 3, §9 washdown Q, §10.
+- Query: `insulated metal panel cold storage walls block Wi-Fi signal warehouse freezer wireless coverage` · WebSearch → https://unifinerds.com/warehouse-wifi-dead-zones-top-10/ (WebFetch): "Freezer panels and insulated walls can block signal"; coverage outside ≠ inside; metal racking blocks/reflects. → Cold Rooms para 1, §9 cooler Wi-Fi Q.
+- Query: `copper cable theft telecom fiber no scrap value thieves mistake fiber for copper` · WebSearch → https://fox4kc.com/business/kansas-city-thieves-suspected-of-cutting-more-fiber-cables-looking-for-copper/amp/ (WebFetch, May 16 2023): "The fiber lines do not contain copper and have no scrap metal resell value." → §9 Q "cable thieves".
+
+### Local news / hyperlocal on Hunts Point fiber-installation contractors — EMPTY (none retrieved).
+
+### Pricing used (copied from fiber-optic-installation-bronx.html only — no new prices)
+$35/termination; $40/strand OTDR; $391 MM drop; $447 SM drop; 12-strand OM4 $4,500–$7,000; 24-strand OS2 $8,000–$15,000+; second telecom room from $2,400; $195/hr 3-hr min ($585); packages $894 (2 × $447) / $4,500–$7,000 / $8,000–$15,000+. Same Bronx 1.00× vs $391/$447 configurator conflict as the Bronx page (inherited, flagged there).
+
+### Images (11) — permanent image rule; Drive folder `AESS Website Photos/Fiber Optic Installation` empty (per main run), CompanyCam not connected
+Converted to WebP q80 (≤1600 px) in images/fiber-optic-installation/. Chosen by visual-hash clustering to avoid scenes already on fiber-optic-installation-bronx.html; 9 of 11 scenes are not on the Bronx page (splicer and warehouse-tray scenes overlap Bronx because the library has few fiber/warehouse scenes). Rejected: frames with frontal faces (two-tech corridor pull, cable-box staging, wall-fish, AP-on-ladder, core-drill) and the port-map frame with a readable cable map.
+| File | Source | What it shows |
+|---|---|---|
+| fiber-optic-installation-hunts-point-fusion-splicer-adapter-rack.webp (hero) | low-voltage/low-voltage-installation-brooklyn-fiber-splice-tray.jpg | splicer (READY screen) under blue adapters/yellow jumpers, cleaver, IPA |
+| fiber-optic-installation-hunts-point-switch-seated-in-rack.webp | network/network-installation-westchester-county-managed-poe-switch-rack-install.webp | switch being seated in rack under blue patch cords, firewall, UPS |
+| fiber-optic-installation-hunts-point-jhook-bundles-open-ceiling.webp | network/network-installation-westchester-county-jhook-ceiling-pathway-bundles.webp | blue bundles in J-hooks above open grid |
+| fiber-optic-installation-hunts-point-warehouse-basket-tray-lift.webp | low-voltage/low-voltage-installation-nyc-20-warehouse-cable-tray-highbay.jpg | scissor lift, basket tray, dome camera, racking |
+| fiber-optic-installation-hunts-point-access-point-lift-ceiling.webp | low-voltage/low-voltage-installation-rockland-county-10-access-point-lift-install.jpg | AP pressed into ceiling from lift (back view) |
+| fiber-optic-installation-hunts-point-rack-laptop-switch-setup.webp | low-voltage/low-voltage-installation-nassau-county-rack-switch-config.jpg | laptop on rack shelf, switches |
+| fiber-optic-installation-hunts-point-idf-patch-panel-stud-wall.webp | low-voltage/low-voltage-installation-bronx-idf-patch-panel-build.jpg | wall-mount patch panel on stud wall, reels |
+| fiber-optic-installation-hunts-point-toner-probe-patch-panel.webp | network/network-installation-orange-county-network-cable-toner-tracing.webp | probe + tester at labelled panel |
+| fiber-optic-installation-hunts-point-certification-tester-wall-jack.webp | network/network-installation-rockland-county-fluke-dsx-certification-pass.webp | handheld certifier PASS at wall outlet |
+| fiber-optic-installation-hunts-point-rack-before-after-cleanup.webp | network/network-installation-long-island-network-rack-cleanup-before-after.webp | before/after closet cleanup |
+| fiber-optic-installation-hunts-point-tone-generator-wall-box.webp | low-voltage/low-voltage-installation-westchester-county-08-tone-generator-trace.jpg | tone generator + probe at wall box |
+Flags (same as earlier builders): technicians visible in profile; shirts/hard hats print 800-486-0943 or 844-386-7238; several frames look AI-rendered (garbled small text) — for Anwar's review. Captions describe only what is visible; no customer, named building or local project is claimed.
+
+### Keyword plan (Hunts Point page)
+Service: fiber optic installation Hunts Point, dock-row fiber spine, cooler/freezer fiber entry, washdown enclosure, yard/building-to-building fiber, fusion splicing, OTDR testing. Problem: scanners drop in coolers, copper beyond 100 m on long docks, trailers/forklifts hitting cable, washdown spray, condensation, flood/power loss, cable theft, highway construction, noise-code hours. Technology: OS2, OM4, interlocking armor, aerial messenger, NEMA 4X, hardened switches, cold-rated APs, sealed sleeves, firestop. Industry: food wholesale/distribution, cold storage, meat processing, converted-factory offices/schools, light-industrial food producers, residential/mixed-use. Geographic: Hunts Point, Food Distribution Center, Food Center Drive, Halleck St, Oak Point Ave, Barry St, Tiffany St, Lafayette Ave, Garrison Ave, Hunts Point Ave, Bruckner Blvd, Edgewater Rd, Barretto Point, Longwood, Foxhurst, Soundview, Port Morris, Mott Haven.
+
+### Question register additions
+fiber-optic-installation-hunts-point-bronx-ny
+§9 Questions Answered (and other question headings):
+- Hunts Point Link Down Mid-Shift? (repair capture heading)
+- Fiber is glass — how do you keep cleaved fiber scraps out of a food-handling area?
+- Our processing room is hosed down and sanitised every shift — what fiber hardware survives that?
+- Handheld scanners lose Wi-Fi inside our coolers — how do we get reliable coverage in there?
+- We have a long row of dock doors — is one fiber run with small switches along the dock better than a cable from every door back to the office?
+- Our building is being reclad in insulated metal panels — how should new fiber come through the new wall?
+- If fiber has to cross a truck lane overhead between two of our buildings, how high must it be and what holds it up?
+- Our new electric truck chargers need a network connection — can that come off our fiber?
+- Is fiber a target for cable thieves the way copper is?
+- Which parts of a fiber installation can we take with us when our market unit moves to a new building?
+- Our suite in a converted printing plant has bare concrete ceilings — how is fiber run so it looks deliberate?
+- The floors in our old industrial building are thick reinforced concrete — do you scan before coring?
+- Our warehouse backs onto apartment houses — can the noisy drilling be done at night while the market is quiet?
+- Can a business host a node of the neighbourhood's free Wi-Fi network on its roof and feed it from our fiber?
+- Peninsula Network Down Right Now? (final repair heading)
+§17 FAQ:
+- Do you cover the rest of the peninsula and the blocks north of the Bruckner — Longwood, Foxhurst and Soundview?
+- Is there an industrial or market surcharge on Hunts Point fiber work?
+- How will our warehouse staff recognise the fiber so nobody cuts or reroutes it?
+- Our camera company is separate — can you install the fiber their system rides on?
+- Do we need our refrigeration contractor on site when cable goes into a cold room?
+- Can you run fiber for card terminals and order-entry stations on a wholesale sales floor?
+- How is drilling dust kept off product and packaging?
+- Our provider says its circuit is fine but our far building is still offline — can you find which side the fault is on?
+- Can you give us a written scope and quote to attach to a grant, loan or insurance claim?
+- Do you bring your own lift for high warehouse ceilings, or should we rent one?
+- What does a fiber repair visit to a Hunts Point business cost?
+- How does your crew stay safe and out of the way on a floor where forklifts are running?
+
+De-dup notes: checked by meaning against all 16 area pages and the concurrent Bloomfield page. Deliberately avoided intents already in the register: freezer-room entry (Queens), forklift/pallet-jack cable protection, rats, sidewalk shed, BMS link, high-ceiling support (Bronx), truck-yard cameras, wireless-vs-fiber, flood survival (Brooklyn), flood-prone cellar room, lease wording, non-adjacent floors, landmark entry (Manhattan), trench sharing, overhead-vs-underground choice, gatehouse (Long Island), Route 17 road work (Orange), train vibration/noise (Queens), warranty, COI, nights/weekends, single- vs multimode, strand count. A drafted FAQ on Spanish-language labels was dropped because AESS's language capability is unverified. Closest calls for a human read: my cooler Wi-Fi Q vs Bloomfield "scanners drop out at the far end of the floor" (cause differs: insulated panels vs distance); my overhead truck-lane clearance Q vs Long Island "under the parking lot or overhead?" (clearance/support vs route choice); my "camera company is separate" FAQ vs Bloomfield "fiber, cameras and door access quoted as one project".
+Build checks (this builder): rendered words 13,811; file 236,653 B (deliberately above the 178,211–225,478 sibling band per the size rule; Bloomfield in progress ~170 KB at check time); masked paragraph similarity (difflib, ≥8-word p/li/td/h3, geo + neighbourhood names masked) max < 0.65 against all 17 fiber pages except the standard pricing-line name "24-strand OS2 backbone or building-to-building link" and the protected NAP/warranty/licence/form lines.
