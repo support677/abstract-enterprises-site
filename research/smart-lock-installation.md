@@ -3884,3 +3884,274 @@ Geo-masked (all borough/county/neighbourhood names incl. Astoria/Ditmars/Steinwa
 ### De-dup notes
 - Checked by meaning against all 738 questions on the 33 smart-lock pages on disk (incl. batch-mates UWS/Park Slope drafts). Avoided/dropped: roommates each own code (Manhattan), cancel a departed roommate's code (Kingsbridge), relative not on lease gets a code / leaseholder leaves (Washington Heights), owner sees tenant's entries (Brooklyn), shared two-family door codes (Staten Island), previous owners' access (Staten Island/Bayside), booking lead time (Washington Heights/West Brighton — replaced by FAQ 8), fire-escape windows (UES — kept as non-question narrative), restaurant burglary via windows (West Brighton/Flushing — narrative only), long outage access (Long Island/Hudson Valley/Greenpoint — narrative only), one-time codes (Bayside).
 - Partial overlaps for the main run to judge: §9 Q1 vs Washington Heights "relative … isn't on the lease — can she have her own code" (ours = landlord-notice duty under RPL 235-f); §9 Q2 vs Kingsbridge "roommate moved out … cancel it" (ours = before departure, Admin Code 26-521 timing); §9 Q4 vs Brooklyn/Bronx two-family lock-rule questions (ours = owner refuses to re-key after turnover); FAQ 5 vs NYC "What happens to my smart lock when I move out" (ours = security-deposit damage); FAQ 4 vs Manhattan "Can the super … be there while you work?" (ours = whether landlord presence is required); FAQ 1 cost and FAQ 2 coverage are geo-specific by silo design.
+
+
+<!-- batch 2026-10-17T16:28Z: smart-lock-installation-riverdale-bronx-ny -->
+
+# Research — smart-lock-installation-riverdale-bronx-ny (batch 2026-10-17)
+
+Queue line: Smart Lock Installation | Riverdale, Bronx | up /smart-lock-installation-bronx | phone (646) 490-0629 | GBP Bronx (460 E Fordham Rd, #bronx).
+Silo-wide research reused from research/smart-lock-installation.md (laws MDL §51-c, HMC §27-2043, MDL §50-a, Tenant Data Privacy Act, 2010 ADA door hardware, Fixr Jan 2025 $250–$400 / ~$300, LawnStarter $330 / $200–$460, August bridge 10–15 ft). Only the local section below is new.
+
+**Thesis:** In Riverdale somebody else usually has a say over the door first — a co-op board, managing agent and front desk in the 1960s doorman towers; Landmarks (and a private property owners association that owns the streets) in Fieldston; a Landmarks rule chapter written for the Riverdale Historic District alone on Sycamore/Independence Avenues; the Special Natural Area District under all of it. So every Riverdale job starts as a "permission map" (who must agree, in what order, with what paperwork), then the lock.
+
+## Riverdale
+
+### Research matrix (exact query · platform · URL · finding · page + section used)
+
+| # | Query | Platform | URL | Finding | Used on page |
+|---|---|---|---|---|---|
+| R1 | `Riverdale Bronx co-op buildings Henry Hudson Parkway high-rise co-ops history` | Firecrawl search | https://cooperatornews.com/article/a-river-runs-through-it | Post-WWII boom of multi-family and large apartment buildings, many became co-ops; Henry Hudson Bridge & Parkway 1936 (excerpt only). | Background only |
+| R2 | same | Firecrawl search (excerpt) | https://streeteasy.com/building/3333-henry-hudson-parkway-bronx | Co-op, 439 units, 22 stories, built 1970. | §5.5 fact 2 |
+| R3 | `Riverdale, Bronx` | Firecrawl scrape (query, directQuote) | https://en.wikipedia.org/wiki/Riverdale,_Bronx | Boundaries (Yonkers N, Van Cortlandt Park/Broadway E, Kingsbridge SE, Spuyten Duyvil S, Hudson W); Riverdale Ave main thoroughfare; ZIPs 10463/10471; CD8; sub-areas (Fieldston S of W 250th E of HHP; Hudson Hill above W 246th W of HHP; North Riverdale above W 254th W of Fieldston Rd; Spuyten Duyvil); Fieldston HD 2006; 15-acre Riverdale HD 1990; 1950s six-story brick; early–mid 1960s 10–20-story towers, many full-service doorman, Philip Birnbaum (Skyview, Windsors, Whitehall); by 1980s most rentals converted to co-ops; "mostly owner-occupied" unlike most of Bronx; Spuyten Duyvil greatest concentration of high-rises (Century, 555 Kappock, Winston Churchill); post-2005 Central Riverdale condo boom; Hudson Hill mansions Greyston (1864), Alderbrook (1880), Stonehurst (1861), Oaklawn (1863); 50th Precinct, 3450 Kingsbridge Ave, 126 burglaries 2022; Metro-North Riverdale (W 254th–255th) & Spuyten Duyvil stations; BxM1/BxM2/BxM3/BxM18; Columbia Riverdale shuttle terminus W 238th & Riverdale Ave; 16,000 Jewish adults + 4,000 children in 10,000 households; Hebrew Institute of Riverdale, Riverdale Jewish Center, Riverdale Temple; Wave Hill 20 acres, 1840s William Lewis Morris, Theodore Roosevelt & Mark Twain. | Hero, §5 paras 1–2/5, §5.5 facts 1/6, §7 cards (towers, 1950s, estates, Spuyten Duyvil, new condos), §8 cards (W 238th, congregations), §13 Wave Hill & station cards |
+| R4 | `Fieldston Historic District Bronx Landmarks Preservation Commission private streets Fieldston Property Owners Association` | Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Fieldston,_Bronx ; https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf | FPOA formed 1923; owns streets & common areas, plows, ~1000 trees, runs security patrol; dues from ~250 homeowners; LPC designated Jan 10, 2006; LPC report: privately owned streets maintained by annual assessments. | §5 para 3, §5.5 fact 3, permission table, §9 Fieldston Q, §13 Fieldston card |
+| R5 | `Fieldston Historic District designation report number of buildings …` → scrape | Firecrawl search + scrape | https://www.nypap.org/preservation-history/fieldston-historic-district/ | "257 houses and related structures … 140 acre development"; Delafield Estate; layout finalized 1914 by Albert Wheeler; 1928 handbook of approved architects; styles Colonial Revival, Craftsman, Tudor, Mediterranean, modernist; City Council approved Apr 26, 2006 (Land Use Cttee Apr 11); opponent: "76 different architects … 23 architectural styles". | §5 para 3, §5.5 fact 3, §7 Fieldston card, Historic Houses section + at-a-glance table, §13 card |
+| R6 | `Riverdale Historic District 1990 Landmarks Preservation Commission Independence Avenue Sycamore Avenue houses` → scrape | Firecrawl search + scrape (markdown) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-90749 (63 RCNY Ch. 6) | District: early railroad suburb; 34 buildings; seven estates of the 1850s served by common carriage alley (Sycamore Ave); subdivided from 1935; 4 houses 1935–38; 12 structures 1950–80; pre-1940 buildings = significant architecture; "significant architectural feature" includes type/style of any window, door, light, fixture; post-1939 modifications get CNE/PMW if no damage to significant landscape improvement and compatible materials/finish; LPC regulates walls, steps, paths, drives, railings, fences, gates and gate posts, excavation/fill on slopes >15%; district lies entirely within Riverdale SNAD; application before work, no work until permit. | §5 para 3, §5.5 fact 4, permission table, §9 two Riverdale HD Qs, Historic Houses section, §13 Sycamore card |
+| R7 | same search | Firecrawl search (excerpt) | https://www.nypap.org/preservation-history/riverdale-historic-district/ | Designated Oct 16, 1990. | §5 para 3, at-a-glance table |
+| R8 | `Riverdale Special Natural Area District NA-2 zoning …` | Firecrawl search (excerpt) | https://zr.planning.nyc.gov/article-x/chapter-5 (ZR §105-942) | SNAD-2: "The Riverdale Ridge … composed of part of Riverdale, Spuyten Duyvil and Fieldston. This ridge contains steep slopes, rock outcrops, ponds, brooks, swampy areas and mature trees"; site plans show trees ≥6-inch caliper; steep-slope provisions from Dec 19, 1974. | §5 para 4, §7.5 "Doors on a ridge", Historic Houses gate subsection, FAQ (SNAD) |
+| R9 | `Furman Center Riverdale Fieldston …` (scrape) | Firecrawl scrape (query, directQuote) | https://www.furmancenter.org/neighborhoods/riverdale-fieldston/ | 2,087 units added 2010–2025 (1,462 market, 625 income-restricted); units authorized by new permits 579 (2024), 476 (2025); serious property crime 7.6/1,000 (2024) vs 10.6 (2023); 16 Mitchell-Lama properties. (Homeownership 38.4%, 65+ 23.3%, violations 222.4 deliberately NOT used — already on Kingsbridge page.) | §5 para 5, §5.5 fact 5 |
+| R10 | `Skyview on the Hudson Riverdale co-op units towers Philip Birnbaum garage` | Firecrawl search (excerpts) | https://streeteasy.com/building/skyview-5700-arlington-avenue-bronx ; https://dlc.library.columbia.edu/nyre/cul:1vhhmgqpz5 | Skyview, 5700 Arlington Ave, 437 units; Skyview On The Hudson 5700–5900 Arlington Ave, architect Philip Birnbaum. | §5.5 fact 2, §13 Skyview card |
+| R11 | `Johnson Avenue Spuyten Duyvil shopping strip …` | Firecrawl search (excerpts) | https://www.nytimes.com/2017/05/17/realestate/spuyten-duyvil-the-bronx-crosscurrents-of-suburb-and-city.html ; https://www.compass.com/building/the-winston-churchill-bronx-ny/293529667585983477/ ; https://www.homes.com/building/the-blue-building-bronx-ny/b-42vb61jt9tzk4/ | Winston Churchill 2500 Johnson Ave, 20 stories, built 1967; 555 Kappock St 25 stories; Blue Building 2400 Johnson Ave 13 stories, 130 units. | §7 Spuyten Duyvil card, §13 Johnson/Kappock card |
+| R12 | (scrape) | Firecrawl scrape (query) | https://www.brickunderground.com/buy/buy-curious-spuyten-duyvil-riverdale-bronx-housing-pricing-waterfront | HHP divides Spuyten Duyvil east/west; west = big waterfront co-ops; east = single-family houses 1900s–1920s and townhouses 1960s/70s/early 2000s; Villa Charlotte Brontë 17 units, 1920s; Winston Churchill & Presidential large 1960s–70s co-ops; SNAD limits new development; The Henry, 6-story, 55 units, 2022; Tangiers 1958, 8 stories, 73 units, doorman, indoor parking; Knolls Crescent tiny commercial corner; BxM1/BxM2; Metro-North ~25 min (agent quote). | §7 cards (towers, Spuyten Duyvil, new condos), §8 Knolls Crescent card, Ridge houses section, small prewar co-ops subsection, §13 card |
+| R13 | `Riverdale Bronx private schools Horace Mann Riverdale Country School Ethical Culture Fieldston …` | Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Ethical_Culture_Fieldston_School ; https://www.ecfs.org/locations-bronx-campus/ ; https://www.niche.com/k12/riverdale-country-school-bronx-ny/ | Fieldston, Riverdale and Horace Mann known as "the hill schools", on hilly area above Van Cortlandt Park; ECFS 3901 Fieldston Rd; RCS 5250 Fieldston Rd, founded 1907. | §8 hill schools card |
+| R14 | `Riverdale Press burglary Fieldston house break-in 2025 OR 2026` → scrape | Firecrawl search + scrape | https://www.riverdalepress.com/stories/police-beat,36924 | Burglar broke into a home on 4700 block of Fieldston Road (May 21); 88-year-old resident; entry point a broken window frame at the rear (article year not captured). | §10.5 H3 "safer" |
+| R15 | same → scrape | Firecrawl scrape | https://www.riverdalepress.com/stories/police-focus-on-recidivist-break-in-bandits,51534 | Nov. 30 FPOA letter: Excel Security, the company guarding Fieldston's private streets, reported thefts from unlocked cars in driveways/in front of homes (article year not captured). | §10.5 H3 "safer", Historic Houses "patrol" subsection |
+| R16 | `riverdalepress.com burglary apartment Riverdale Avenue OR Johnson Avenue OR Kappock …` → scrape | Firecrawl search + scrape | https://www.riverdalepress.com/stories/feb-2-2016-crime-round-up,61669 | Police said the door of the apartment at 603 Kappock St. may have been unlocked at the time of a burglary (Jan 2016). | §10.5 H3 "safer" |
+| R17 | `"Burglars hit Riverdale Avenue" Riverdale Press` → scrape | Firecrawl search + scrape | https://www.riverdalepress.com/stories/august-18-2016-crime-round-up,60454 | Aug 2016: two burglaries on Riverdale Ave between W 259th–260th — rock through front window of Subway at 5670 Riverdale Ave ($1,000 from register) and a Verizon Wireless store a block north. | §8 North Riverdale card, §10.5 H3 "safer" |
+| R18 | `Landmarks Preservation Commission FAQ do I need a permit interior work historic district …` | Firecrawl search (excerpt) | https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property | Owners in a historic district need an LPC permit before doing any work; also for any work needing a DOB permit; PMW: no fee. | §9 Fieldston FPOA answer, pricing "Costs that belong to someone else" |
+| R19 | `reddit Riverdale Bronx co-op board smart lock OR keypad OR "door lock" apartment` | Firecrawl search (excerpts only) | https://www.reddit.com/r/AskNYC/comments/zrjotk/do_electronic_locks_make_sense_in_an_apartment/ | Excerpt: an August lock uses the existing deadbolt so the key still works and the super can get in. Not Riverdale-specific; informed the retrofit-first approach, not quoted. | Background only |
+| R20 | `Riverdale Press co-op key fob entry system shareholders building` | Firecrawl search | (results incl. our own access-control-installation-bronx page claiming a 120-unit Riverdale co-op ButterflyMX job) | Unverifiable self-claim — NOT used. | Not used |
+| R21 | `Riverdale Press co-op package theft lobby doorman building security 2025` / `"Riverdale Press" doorman co-op lobby intruder …` | Firecrawl search | — | Only Co-op City / generic results; nothing Riverdale-specific. | EMPTY for Riverdale lobby/package stories |
+
+### Mandatory sources status
+- Reddit (r/bronx, r/AskNYC): only generic excerpts (R19) — no Riverdale smart-lock thread found. Threads not scraped.
+- Google PAA / PASF / Answer the Public / AI Overview: `EMPTY (not accessible in build env)`. §10.5 says so on the page and uses recurring national claims instead.
+- Bing & DuckDuckGo: `EMPTY (not accessible in build env)`.
+- Yelp 1–3★: `EMPTY (not accessible in build env)`.
+- Local news / hyperlocal (Riverdale Press): R14–R17 (older items; dates where captured). Riverdale smart-lock-specific news: `EMPTY` (none found).
+- Landmarks / zoning / permits: R4–R8, R18.
+
+### Prices used (no new prices; Bronx ×1.00, copied from smart-lock-installation-bronx.html)
+Single-door keypad or fob reader + electric strike $1,500–$2,500 · new electric strike $250–$450 · failed strike repair $295–$485 · setup-only visit $225 first hour then 30-min blocks · service/callback $195/hr, 3-hr min ($585). Own door: quoted flat at walkthrough (no published price).
+
+### Images (11) — Step C, real AESS library photos, cropped to remove technicians' faces, the "4A" unit plate and the "128" house number; WebP q82
+| File (images/smart-lock-installation/) | Source | Shows |
+|---|---|---|
+| smart-lock-installation-riverdale-bronx-apartment-hallway-keypad-app-check.webp | aess-…-apartment-door-smart-lock-app.webp (crop) | finger on keypad deadbolt, phone app, dark apartment door (hero) |
+| smart-lock-installation-riverdale-bronx-locked-status-app-wood-door.webp | aess-…-checking-lock-status-in-app.webp | phone "Locked" beside keypad deadbolt, wood door |
+| smart-lock-installation-riverdale-bronx-interior-unit-ribbon-cable.webp | aess-…-connecting-interior-unit-cable.webp | ribbon cable into interior unit |
+| smart-lock-installation-riverdale-bronx-interior-unit-battery-change.webp | aess-…-replacing-smart-lock-batteries.webp | AA batteries into interior unit |
+| smart-lock-installation-riverdale-bronx-measuring-old-bore-wood-door.webp | aess-…-measuring-door-bore-for-deadbolt.webp | tape from old bore to door edge |
+| smart-lock-installation-riverdale-bronx-keypad-outside-thumbturn-inside.webp | aess-…-keypad-exterior-thumbturn-interior-view.webp (caption labels cropped off) | keypad outside / thumb-turn inside |
+| smart-lock-installation-riverdale-bronx-lever-keypad-glass-office-door.webp | aess-…-office-lever-smart-lock-install.webp | latch plate + lever keypad, glass office door |
+| smart-lock-installation-riverdale-bronx-adding-access-code-keypad.webp | aess-…-programming-access-code-app.webp | keypad + "Add Access Code" screen |
+| smart-lock-installation-riverdale-bronx-video-doorbell-beside-keypad-deadbolt.webp | aess-…-video-doorbell-and-smart-lock.webp | video doorbell beside keypad deadbolt |
+| smart-lock-installation-riverdale-bronx-strike-screw-keypad-deadbolt-house-door.webp | aess-…-suburban-front-door-smart-lock-van.webp (van cropped out) | drill on latch plate under keypad deadbolt |
+| smart-lock-installation-riverdale-bronx-latch-strike-alignment-check.webp | aess-…-checking-latch-bolt-alignment.webp | finger on latch under keypad deadbolt |
+
+### Question list on this page (add to the silo register)
+**§9 Your Questions Answered (H3, 11)**
+1. Our co-op's garage has an elevator that comes straight up into the building, past the doorman — does that change what my apartment door needs?
+2. The doorman's key cabinet holds a sealed spare for every apartment so staff can get in for a leak — what goes in our envelope once the door has a keypad?
+3. Our house rules say every visitor is announced from the desk — does giving the housekeeper a door code break that rule?
+4. With a doorman downstairs around the clock, what does a smart lock on our apartment actually add?
+5. We're buying into a Riverdale co-op — can the lock request go in with the board package, or should it wait until after closing?
+6. In our co-op, is the apartment entry door the corporation's property or ours, and who pays if it's damaged?
+7. Fieldston's streets belong to the property owners association — does the association get a say on a keypad, separate from Landmarks?
+8. Our house is inside the Riverdale Historic District but was built after 1940 — does Landmarks treat a keypad on it any differently?
+9. We want a keypad on the stone gate post at the foot of our drive in the historic district — does Landmarks regulate the post itself?
+10. Every shareholder who has ever parked in our garage still has a copy of the key to the door from it into the lobby — what does going keyless fix, and what must stay?
+11. Our toddler has learned to turn the thumb-turn — can the smart lock stop him opening the door without breaking the fire rules?
+
+**§17 FAQ (visible == FAQPage, 3)**
+1. Do your installers cover Spuyten Duyvil, Hudson Hill, North Riverdale and Fieldston as well as Central Riverdale?
+2. If our board turns the lock down after we have already bought it, what happens to the money?
+3. Does the Special Natural Area District have any say over a smart lock?
+
+**Other question-form headings:** Locked Out Twenty Floors Up or at a Fieldston Door?
+
+**De-dup notes:** dropped during build because they matched batch siblings in meaning — "keypad switched off at night" (St George has it) and "inside-half-only retrofit on a landmarked house needs Landmarks?" (St George / Tribeca historic-district door questions); the latter's facts were folded into answer 7 as prose.
+
+
+<!-- batch 2026-10-17T16:28Z: smart-lock-installation-st-george-staten-island-ny -->
+
+## St. George, Staten Island (smart-lock-installation-st-george-staten-island-ny)
+
+Built 2026-10-17 by the St. George builder subagent (batch with -riverdale-bronx-ny and -tribeca-manhattan-ny). Main run merges this into research/smart-lock-installation.md.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used.
+Thesis: St. George is a hillside, not a flat block. Landmark-district houses step down the slope, so many have a street door above and a garden or service door a storey below. Commuter households leave on foot for the free 24-hour ferry. New waterfront rentals sit by the terminal, and offices work beside Borough Hall and the courts. So the lock plan is about levels (a connection point per floor), what can be seen from the street front and back (LPC), codes timed to the ferry clock, and controlled file-room doors (Rule 1.6(c)).
+Silo-wide sources reused (not re-fetched): S1 Fixr ($250–$400, avg $300, Jan 2025), S2 Bob Vila (screwdriver/≈30 min), S3 August retrofit (single-cylinder only), S4 August Connect 10–15 ft, S5 Yale Matter/Thread border router same ecosystem, N1 MDL §51-c (tenant's own lock, ≤3" circumference, duplicate key; excludes municipal housing authority), N3 HMC §27-2043, N4 Tenant Data Privacy Act, N6 HPD fire safety (self-closing 3+ units; double-cylinder illegal on apartment doors), 2022 NYC BC §1010.1.9 egress, WB12 nyc-business LPC page (door replacement = PMW; hardware not addressed), WB16 Schlage Arrive 1-3/8"–2", backset 2-3/8"/2-3/4", prices table (SI ×1.10).
+
+| # | Query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| SG1 | `St. George Staten Island neighborhood history housing ferry terminal St. George Historic District` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/St._George,_Staten_Island | NE tip of SI; "most densely developed neighborhood on Staten Island"; 0.412 sq mi; ZIP 10301; CD1. Named St. George in the 1880s after George Law (Erastus Wiman). Terminal opened 1886, chosen as nearest point to Manhattan (~5 mi), last renovated 2005; served by SI Ferry, SIR, NYC Ferry, nearly all buses. Borough Hall 2–10 Richmond Terrace, 1906, Carrère and Hastings. Former courthouse 12–24 Richmond Terrace, 1919. Family Court 100 Richmond Terrace, 1931. Supreme Court 26 Central Ave, opened 2015. 120th Pct at 78 Richmond Terrace (1920–23 building, landmark 2000). St. George/New Brighton HD designated 1994: 78 houses plus St. Peter's. Curtis HS opened 1904, first HS on SI, landmark. St. George Theatre: 2,800 seats, 1929, renovated 2004. Library Center: 5 Central Ave, 1906–07. Ballpark: 7,171 seats, 2001, FerryHawks. National Lighthouse Museum opened 2015. Many older houses converted to small apartment buildings in the 1930s. Ambassador Apartments: 30 Daniel Low Terrace, Art Deco, 1932. Castleton Park: 165–185 St. Marks Pl, 20 storeys. 2020 NTA SI0101: 20,549 residents (+9.5% from 18,774), 7,732 households, 31.1% with children <18, 70.2% renter-occupied. 120th Pct 2022: 124 burglaries; crime −83.3% 1990–2022. | Hero; §5 paras 1, 3–5; §5.5 bullets 1, 2, 5, 6; §7 cards (commuter buildings, divided houses); §8 cards (Richmond Terrace, Central/Hyatt); §13 all 6 cards; apartment-residents section |
+| SG2 | `St. George/New Brighton Historic District Landmarks Preservation Commission designated 1994 houses St. Marks Place Westervelt` · WebSearch → WebFetch | https://hdc.org/?p=7732 | Designated July 19, 1994. New Brighton Association formed 1834, ended by Panic of 1837. Later houses in Shingle, Colonial Revival and Italianate styles. Several by Edward Alfred Sargent. Hillsides overlooking the harbour; original street plan survives. | §5 para 3; §5.5 bullet 1; historic-district section |
+| SG3 | same search · WebFetch | https://preserve.org/stgeorge/stgeorgedistrict.htm | About 78 buildings on parts of St. Marks Pl, Carroll Pl, Westervelt Ave, Hamilton Ave, the Phelps Place cul-de-sac and short stretches of Richmond Terrace. Part of New Brighton (Thomas E. Davis, 1834–35); 1835 plan of crescent streets climbing a steep hillside. Styles: Greek Revival (404 Richmond Terrace, c.1835), Italianate (97 St. Marks Pl), Second Empire (Westervelt and the north side of St. Marks), Queen Anne, Shingle and Colonial Revival (the majority), 1920s–30s terra-cotta commercial buildings on Westervelt. **North-side St. Marks houses sit on narrow, deep lots running downhill to Carroll Place, with extra storeys at the rear.** | §5 paras 2–3; §7 cards (Greek Revival/Italianate, Second Empire, Queen Anne); two-levels section; §8 Westervelt card; Q&A rear-door/Carroll Place Q; historic-district section |
+| SG4 | `St. George Staten Island neighborhood…` · WebFetch | https://cityneighborhoods.nyc/st-george | Steep hills above the harbour, historically "Signal Hill or Fort Hill". Bounded by Victory Blvd, St. Marks Pl, Fort Pl, Belmont Pl. Multi-storey apartments built for ferry commuters. Ambassador Apartments "Apthorp-like". St. George Theatre: Beaux-Arts, by Eugene De Rosa, reopened 2004 after a community campaign. Empire Outlets and North Shore Esplanade part of 21st-century waterfront redevelopment. Ferry free since 1997. | §5 para 2; §8 waterfront card; §13 theatre card |
+| SG5 | `Lighthouse Point St. George Staten Island apartments opened residential tower` · WebSearch → WebFetch | https://newyorkyimby.com/2025/06/lighthouse-point-phase-one-finishes-construction-at-5-bay-street-in-st-george-staten-island.html | Phase One at 5 Bay St completed (June 6 2025 article): 115 units, studios–2BR; ~60,000 sq ft commercial (CSI Tech Incubator, The Learning Experience, Club Pilates); 274 parking; Triangle Equities; Cooper Carry; site was U.S. Lighthouse Service General Depot 1863–1966. | §5.5 bullet 4; §8 Lighthouse Point card; §13 museum card |
+| SG6 | same search · WebFetch | https://commercialobserver.com/?p=509626 | Residences at Lighthouse Point: 115 units, 12 storeys, 75% market / 25% affordable (40–130% AMI), rents $2,000–$4,000, leasing expected early 2025; construction began 2016, stalled after the construction manager's bankruptcy, resumed late 2022. | §5.5 bullet 4; §5 para 4 |
+| SG7 | `Castleton Park apartments St. Marks Place…` · WebSearch → WebFetch | https://rebusinessonline.com/stellar-management-camba-housing-ventures-acquire-castleton-park-on-staten-island/ | July 24 2015: Castleton Park, 454 affordable units, about 40 years old, bought by Stellar Management/CAMBA; $30M renovation (facade, parking, elevators, common areas, kitchens/baths). Doors and entry not mentioned. | §5.5 bullet 4 |
+| SG8 | `Bay Street Landing St. George…` · WebSearch → WebFetch | https://scaranoarchitect.com/project/bay-street-landing/ | Poured-in-place concrete 1930s factory building, converted, with added floors (project year 2004). Search results show "BSL One Owners Corp" (co-op). Not used on the page (no question built on it). | research only |
+| SG9 | `Staten Island Ferry runs 24 hours every 30 minutes…` · WebSearch → WebFetch | https://www.6sqft.com/full-24-hour-staten-island-ferry-service-resumes-today/ | Aug 16 2021: full 24-hour service restored; 15-min peak (7–9 a.m., 5:30–7:30 p.m.), half-hourly otherwise; ~70,000 weekday riders and ~22M a year (2019); ~25-min crossing; free; LL88/2013 requires half-hourly 24/7 service. | §5 para 1; §5.5 bullet 3 (labelled "as of the 2021 restoration") |
+| SG10 | `reddit St. George Staten Island living ferry commute apartment hill` · Firecrawl search (excerpts only, threads not opened) | https://www.reddit.com/r/howislivingthere/comments/1qefgv5/what_is_it_like_living_in_this_part_of_staten/ ; https://www.reddit.com/r/statenisland/comments/16druix/how_safedangerous_is_st_george/ | Excerpt: "I literally walk uphill both ways" (St. George/North Shore resident). Second thread excerpt: people take a cab home from the terminal because streets can be deserted (not used). | §5 para 4 (quote, attributed to a Staten Island Reddit commenter) |
+| SG11 | `St. George Staten Island burglary OR "package theft" OR break-in silive 2025 OR 2026` · Firecrawl search → scrape | https://www.silive.com/news/2019/04/sources-helicopter-hovering-over-st-george-linked-to-search-for-suspects.html | Apr 1 2019 (Maura Grunlund): reported attempted burglary ~10:30 a.m. near Fort Place; large police response including the NYPD Aviation Unit; a person of interest was questioned. | §10.5 H3 7 |
+| SG12 | same search · scrape | https://www.silive.com/crime-safety/2026/07/i-was-bored-staten-island-felon-charged-in-burglary-spree.html | Jul 30 2026: burglaries in **Mariners Harbor** (not St. George); mentions Criminal Court in St. George. NOT used (wrong neighbourhood). | — |
+| SG13 | `New York Rules of Professional Conduct Rule 1.6(c)…` · WebSearch → WebFetch | https://www.courtrules.net/new_york/new-york-professional-conduct/rule-1-6 | Rule 1.6(c): "A lawyer shall make reasonable efforts to prevent the inadvertent or unauthorized disclosure or use of, or unauthorized access to, information protected by Rules 1.6, 1.9(c), or 1.18(b)." No physical-security commentary. | §8.5 bullet; §9 law-office Q |
+| SG14 | `Landmarks Preservation Commission rules work not visible from street…` · WebSearch → WebFetch | https://habitatmag.com/layout/set/amphtml/Publication-Content/Legal-Financial/2015/2015-February/Managing-the-Landmarks-Process | Three LPC permits: CNE (needs a DOB permit, no effect on protected features), PMW (affects protected features, no DOB permit; e.g. door replacement), C of A (DOB permit plus protected features; public hearing). Work off the front facade can need a permit if visible from a side street; some interior work too. | §9 Q1, Q2; §10.5 H3 3; historic-district section |
+| SG15 | `NYC Department of Buildings ordinary repairs no permit required…` · WebSearch → WebFetch | https://www.nyc.gov/site/buildings/property-or-business-owner/do-i-need-a-permit.page | No-permit categories include "Minor alterations and ordinary repairs" (Admin Code §28-105.4.2). Door/lock hardware not named; no LPC note. | FAQ 2 |
+| SG16 | `smart lock rechargeable batteries not recommended…` · WebSearch → WebFetch | https://www.kwikset.com/support/answers/can-i-use-rechargeable-batteries-for-my-smart-lock | Rechargeables "will not harm" the lock but are "not recommended": flatter discharge curve, so the battery % may be inaccurate. Alkaline recommended. | FAQ 3 |
+| SG17 | `kc.allegion.com where is the programming code…` · WebSearch → WebFetch | https://kc.allegion.com/kb/article/how-to-locate-the-programming-sticker-on-schlage-keypad-and-touch-locks | Default codes are in the box documentation and on a sticker on the back of the outside keypad/touchscreen assembly (visible only with the keypad off the door). | FAQ 4 |
+| SG18 | `Schlage Encode "vacation mode" OR Yale "privacy mode"…` · WebSearch → WebFetch | https://support.google.com/googlenest/answer/9208436 | Nest × Yale Privacy Mode disables the keypad so passcodes can't unlock; on/off from the app or by holding the white button; the inside thumb-turn turns it off; "does not provide an extra layer of security". | §9 night-keypad Q; §10.5 H3 6 |
+| SG19 | same search · WebFetch | https://kc.allegion.com/kb/article/how-to-enable-disable-vacation-mode-on-schlage-keypad-and-touch-locks | Schlage Vacation Mode (BE365/BE375/BE369/FE575/FE595/FE695/FE599): "User Codes will not unlock the lock"; set with the 6-digit programming code + Schlage button + 4. | §9 night-keypad Q |
+| SG20 | `Google Home help "multi-admin" Matter…` · WebSearch → WebFetch | https://support.google.com/googlenest/answer/13127223?hl=en | Matter Multi-Admin lets a device be used in several Matter-certified apps at once; each app needs its own compatible hub; "only one platform can actively control the device at a given moment"; status syncs. | §9 iPhone/Android Q |
+| SG21 | `August smart lock activity feed shows unlocked manually…` · WebSearch → WebFetch | https://community.webcore.co/t/august-smart-lock-pro-accessing-how-it-was-locked/5363 | Forum user: August passes the unlock method into SmartThings logs, e.g. "Unlocked with keypad", method:keypad. (Forum source, not a manufacturer source.) | §9 inside/outside history Q |
+| SG22 | `NYC Local Law 18 short-term rental…` · WebSearch → WebFetch | https://www.skybriz.com/resources/nyc-short-term-rental-regulations-local-law-18-state-law/ | Host present, max 2 guests, guests need access to common areas. NOT used (the short-term-rental intent is already on the SI/Manhattan/Brooklyn pages). | — |
+| SG23 | `Empire Outlets St. George…` · WebSearch | (results only; not fetched) | Named on the page only as part of the waterfront redevelopment, per SG4; no dates or facts taken from the unfetched results. | §8 waterfront card |
+| SG24 | Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo / Yelp 1–3★ (St. George) | — | EMPTY (not accessible in build env). §10.5 claims come from national cost guides (Fixr, Bob Vila), manufacturers and general advice, and the page says so. | — |
+| SG25 | SI Advance / local news stories on smart locks in St. George | — | EMPTY: none found. Only crime items surfaced (SG11 used, SG12 rejected). | — |
+
+Statements without a dedicated source (installer practice / general tech, flagged): one connection point per level on two-level houses; testing on cellular data; "start at the lowest door" field routine; handing back original hardware labelled; suggested alert set (left unlocked / off-hours / wrong codes); Bluetooth-only locks can't be edited remotely; data use of smart locks is small (FAQ 6); history retention varies by brand (FAQ 5); district attorney office in St. George (statenislandda.org address snippet only).
+
+### Prices used (SI ×1.10 — copied from the published Staten Island lines, identical to the West Brighton page; no new figures)
+- Single-door keypad or fob reader with electric strike: $1,650–$2,750. New electric strike: $275–$495. Failed strike repair: $325–$534. Setup-only first hour: $225. Service/callback: $195/hr, 3-hr min ($585). Residential smart locks quoted flat at walkthrough. Fixr national $250–$400 (avg ~$300), labelled as national.
+- Worked total: two single-door systems = $3,300–$5,500.
+
+## Images (11)
+Drive folder `AESS Website Photos/Smart Lock Installation` was empty (checked by main run); CompanyCam not connected. Source = `images/smart-lock-installation/aess-smart-lock-installation-*`. Each one viewed; faces cropped out with Pillow; the apartment crop drops the "4A" unit plate (y≥300). Not used: video-doorbell (house number "128"), showing-customer-app-unlock (customer face), suburban-van, office-glass-door, drilling-brownstone, keypad-exterior/interior pair, servicing-keypad-wiring. NOTE: the aess-* set looks AI-rendered. Flag for Anwar.
+| File (images/smart-lock-installation/smart-lock-installation-st-george-staten-island-…) | Source (aess-smart-lock-installation-…) | Crop box | Section |
+|---|---|---|---|
+| keypad-deadbolt-panelled-wood-door.webp | keypad-smart-deadbolt-brownstone-door | (250,0,1400,1050) | hero |
+| phone-app-locked-status-check.webp | checking-lock-status-in-app | (830,0,1400,1050) | instant action |
+| tape-across-deadbolt-bore.webp | measuring-door-bore-for-deadbolt | (820,80,1400,1050) | §5 |
+| battery-pack-swap-interior-unit.webp | replacing-smart-lock-batteries | (620,0,1400,933) — torso/logo visible, no face | repair capture |
+| fingerprint-sensor-app-confirm.webp | fingerprint-unlock-demo-app | (730,0,1400,1050) | §6 |
+| unscrewing-brass-deadbolt.webp | removing-old-brass-deadbolt | (830,0,1400,1050) | §7 |
+| latch-edge-alignment-test.webp | checking-latch-bolt-alignment | (830,0,1400,1050) | two-levels section |
+| office-keypad-lever-glass-door.webp | office-lever-smart-lock-install | (660,0,1400,933) | §8 |
+| keypad-cable-through-mounting-plate.webp | connecting-interior-unit-cable | (820,0,1400,1050) | §10 |
+| adding-user-code-in-app.webp | programming-access-code-app | (720,0,1400,1050) | §14 |
+| apartment-door-keypad-app-unlocked.webp | apartment-door-smart-lock-app | (760,300,1400,933) | apartment residents |
+
+## Question register — smart-lock-installation-st-george-staten-island-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 9)
+1. Our house is in the St. George/New Brighton Historic District and we only want to change the lock, not the door — does that need a Landmarks permit?
+2. The back of our St. Marks Place house looks down on Carroll Place — does a keypad on the rear door need approval if people can see it from that street?
+3. Our house is a storey taller at the back than at the front — where should the hub go so locks on both levels stay connected?
+4. We're about to sign a lease in one of the new buildings by the ferry terminal — what should we ask about the apartment door before signing?
+5. Our sitter's code only works until 6 p.m. — if we're stuck on a late boat, can we stretch it from the terminal?
+6. Our law office near the courthouse keeps client files on site — does a keypad with an access log help with our duty to protect client confidences?
+7. Can the keypad be shut off at night while we're home, so no code works from outside?
+8. Will the lock's history show whether the door was opened from inside or by someone coming in?
+9. My partner has an iPhone and I have an Android phone — can we both manage the same lock?
+
+(9 question H3s; the section also has non-question cluster H2s.)
+
+### §17 FAQ (visible == FAQPage, 6)
+1. Do you work all over St. George, from Richmond Terrace up to Fort Hill and across to Tompkinsville and New Brighton?
+2. Does fitting a smart lock need a Department of Buildings permit?
+3. Can we use rechargeable batteries in a smart lock?
+4. Our keypad lock has no app — does it come with a factory programming code we should know about?
+5. How far back does a smart lock's history go, and can we keep a copy?
+6. Does a smart lock use much internet data or slow down our home Wi-Fi?
+
+### Other question-form headings
+- H2 "Lock Jammed or Keypad Blank in St. George?" (repair capture)
+- H2 "Shut Out Somewhere Between the Ferry Terminal and Fort Hill?" (final repair capture)
+
+De-dup notes: checked by meaning against all 33 smart-lock pages on disk (the full register, plus the Riverdale and Tribeca batch drafts). Closest neighbours for the main run to judge:
+- Q1 (lock-only LPC permit) vs Tribeca "Do Tribeca's historic district rules reach the door inside my loft?" and Riverdale "post-1940 house keypad". Different door and trigger: an exterior facade lock swap, against an interior loft door and a building-age rule.
+- Q1/Q2 vs Chelsea "who files with LPC" and Bed-Stuy "where may a keypad be mounted". Those are about filing role and mounting position; these are about whether a permit is triggered at all, and rear visibility from a lower street.
+- Q3 vs West Brighton plaster/outlet Qs. That intent is wall materials and a missing outlet; this one is floor-to-floor distance on a two-level hillside house.
+- Q5 vs Throgs Neck "change a leaked code from the phone". That is revoking a code; this is extending a time window.
+- Q7 vs Todt Hill "pause staff codes while away". That is a schedule while travelling; this is a keypad-off privacy mode while home.
+- Q8 vs Bed-Stuy/Morris Park entry-history Qs. Those use the log as evidence of who entered an empty house; this is reading inside versus outside unlock methods.
+- FAQ 4 vs Bayside "seller's keypad master code wiped". That is an inherited lock; this is the default programming code on a new standalone keypad lock.
+- FAQ 5 vs Morris Park "can the lock maker see our comings and goings". That is privacy and police access; this is how long history is kept and how to export it.
+Avoided on purpose: short-term rental guest locks (SI/Manhattan/Brooklyn), packages, auto-unlock/geofence (New Dorp/Westchester), gate keypads, salt air and flood, front-desk spare keys (Riverdale/Manhattan), concrete fixing (Ulster).
+
+
+<!-- batch 2026-10-17T16:28Z: smart-lock-installation-tribeca-manhattan-ny -->
+
+# Research — smart-lock-installation-tribeca-manhattan-ny (batch 2026-10-17)
+
+Queue line: slug smart-lock-installation-tribeca-manhattan-ny | Smart Lock Installation | Tribeca, Manhattan | up /smart-lock-installation-manhattan | phone (929) 560-0737 | GBP Bronx (460 E Fordham Rd, #bronx).
+Thesis: in Tribeca the front door is usually a labelled fire door in a converted warehouse (or the stair door of a keyed-elevator full floor), so the lock is chosen from the label, thickness, closer and second doors first, and the app second; plus staffed-condo privacy and ground-floor galleries/showrooms/kitchens/cellars.
+Silo-wide technical/product sources reused from research/smart-lock-installation.md (S1 Fixr, S3 August retrofit, S4 August Connect 10–15 ft, S5/S6 Thread/Matter, S9 kalamein/Fire Engineering, Schlage Encode specs incl. door 1-3/8–1-3/4 in and "up to six months", Yale Assure Lock 2 door 1-3/8–2-1/4 in, Schlage Arrive prep 1-3/8–2 in, Ring subscription/Ring-app codes). Not re-fetched.
+
+## Tribeca
+
+### Research matrix (exact query · platform · URL · finding · page section)
+
+| # | Query · platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| T1 | (scrape) · Firecrawl scrape | https://en.wikipedia.org/wiki/Tribeca | Bounded by Canal St, West St, Broadway, Chambers St; Manhattan CD1; 1st Precinct at 16 Ericsson Place; ZIPs 10013/10007; 2020 pop 21,305; Washington Market history, store-and-loft buildings on Broadway 1850s–60s; market to Hunts Point 1960s; artists in lofts; four LPC districts 1991–92 + 2002 extension; Washington Market Park 1.61 acres (1981); Hook & Ladder 8 at 14 North Moore St (Ghostbusters); Verizon Building (1923–27) converted to condos 2016; 388 Greenwich (Citigroup CIB HQ); New York Law School on Worth St; BMCC between Chambers and N. Moore; New York Academy of Art; "popular filming location"; Hudson River Park from West Side Highway replacement after Westway. | §5 Neighbourhood, §5.5 stats, §7 building types, §8 commercial cards, §13 landmarks, FAQ film-location |
+| T2 | `Furman Center Financial District Battery Park City Tribeca MN01 neighborhood profile population` · Firecrawl search → scrape | https://www.furmancenter.org/neighborhoods/financial-district/ | CD1 ("Financial District" profile, updated 05/06/2026): pop 160,189 (2024); highest median HH income $208,970; single-person HH 47.3%; HH with children 15.5%; homeownership 34.0% vs 32.7% city; 677 condo sales 2025; 4,428 new units 2010–2025; serious crime 15.8/1,000 (2025), property 11.4, vs 12.3 citywide. | §5.5 stats |
+| T3 | `Tribeca historic districts Landmarks Preservation Commission Tribeca West East North South designated` · Firecrawl search | https://www.nypap.org/preservation-history/tribeca-historic-districts/ (excerpt) | Tribeca West 5/7/1991; East 12/2/1992; North and South 12/8/1992; South Extension 11/19/2002. | §5, §5.5 |
+| T4 | `Tribeca loading dock platforms canopies historic district Landmarks guidelines` · Firecrawl search | https://architecturaltrust.org/wp-content/uploads/2013/06/Report_LPC_Tribeca_West.pdf (excerpt) | "The loading platform, one of the most common warehouse-associated features in the Tribeca West Historic District, appears to have been a turn-of-the-century addition, erected over stepped vaults"; folding iron shutters and wood doors historically filled loading bays. | §5, Q&A loading-bay question, glossary |
+| T5 | same search | https://www.nyc.gov/assets/lpc/downloads/pdf/Rules/Revised_Rules_of_the_NYC_Landmarks_Preservation_Commission_08-21-2023.pdf (excerpt) | §2-12 storefront rules (infill, doors, security gates); Appendix A lists Tribeca East, North and West among "Historic Districts Having Continued Sidewalk Regulation". | §8.5 Landmarks bullet |
+| T6 | (scrape) · Firecrawl scrape | https://6tocelebrate.org/neighborhood-items/tribeca-manhattan/ | Grid off Greenwich St and diagonal off Broadway; store/loft/warehouse buildings c.1860–1910 "still dominate the character of the neighborhood today"; four districts 1991–92, extension 2002; The Odeon, 145 West Broadway (photo). | §5, §8 cards |
+| T7 | (scrape) | https://6tocelebrate.org/site/staple-street-alley-67-hudson-street9-jay-street/ | Skybridge shuttled patients between New York Hospital's House of Relief (67 Hudson, Cady, Berg & See, 1893) and Ambulance Annex (9 Jay, Robertson & Potter, 1907–08); both in Tribeca West HD. | §13 landmarks |
+| T8 | (scrape) | https://6tocelebrate.org/site/23-25-27-29-31-33-37-39-and-41-harrison-street/ | Nine Federal houses 1796–1828; three moved from Washington St late 1960s; individual landmarks 1969. | §7 building types, §13 |
+| T9 | `Duane Park Tribeca history ...` · Firecrawl search → scrape | https://www.duanepark.org/history/ | Second-oldest public park after Bowling Green; set aside 1797 where Duane St widens to meet Hudson St; butter/egg/pickle warehouses shutting down by 1994. | §13 |
+| T10 | `Hudson River Park Pier 25 Pier 26 Tribeca opened` · Firecrawl search | https://hudsonriverpark.org/locations/pier-26/ ; https://hudsonriverpark.org/activities/pier-26-science-playground/ | Pier 26: 2.5-acre ecologically themed pier in Tribeca; opened 2020. | §13 |
+| T11 | `Tribeca Citizen burglary loft apartment door` · Firecrawl search → scrape | https://www.cbsnews.com/newyork/news/burglar-sneaking-through-terrace-doors-at-upscale-tribeca-apartments/ | Burglar entered Tribeca penthouses (72 and 77 Reade St) through terrace doors apparently left unlocked; Duane, Leonard, Warren St apartments also hit. Article date not shown on page (image path dated 2015-04-29) → page gives no year. | §5, AI H3 7, survey "second doors" |
+| T12 | same search → scrape | https://abc7ny.com/post/man-charged-with-breaking-into-taylor-swifts-apartment----again/5174269/ | 7 Mar 2019: police said a man climbed a ladder and used a brick to break into the second-floor patio door of a Franklin Street townhouse (empty, under renovation); third break-in at the building. Page does not name the owner. | §5, survey "second doors" |
+| T13 | `Tribeca Citizen package thefts lobby building 2025` · Firecrawl search → scrape | https://tribecacitizen.com/2021/10/01/thefts-of-lockboxes-are-the-latest-petty-crime-epidemic/ | 1 Oct 2021: at least nine cases of lockbox break-ins; mail carriers' lockboxes (key opens building + mailboxes) pried open/stripped on Chambers, Warren, Murray; a Murray St building replaced all cylinders. | §5 |
+| T14 | same search → scrape | https://www.tribecatrib.com/content/nypd-releases-images-suspects-tribeca-fidi-package-thefts | 9 Mar 2022: man entered lobby of 40 Harrison St (Independence Plaza) Jan 11 ~8:50 pm, approached security desk, took two packages. | §5 |
+| T15 | `galleries moving to Tribeca art district Walker Street Franklin Street` · Firecrawl search | https://www.cristintierney.com/news/291-...-49-walker-street... ; https://www.jamescohan.com/news/james-cohan-announces-expansion-with-new-tribeca-location ; https://www.facebook.com/hyperallergic/posts/... (Marian Goodman quote) ; https://tribecaartsdistrict.org/ (all excerpts) | Cristin Tierney ground-floor space 49 Walker; James Cohan 2nd floor 52 Walker beside 48 Walker, opening Oct 7, 2021; Marian Goodman to 54 Franklin St, late autumn 2023, historic district, 1891 site; arts district: galleries on Broadway and Walker, design houses on White and Franklin. | §8 cards, Q&A art-handler question |
+| T16 | `Loft Law interim multiple dwelling Tribeca buildings Loft Board legalization` · Firecrawl search → scrape | https://www.nyc.gov/site/buildings/dob/loft-board.page ; https://www.lfaa.nyc/loft-legalization (excerpt) | Article 7-C MDL created IMD class; Loft Board tracks legalisation, registers buildings, adjudicates disputes; IMDs become subject to Rent Stabilization after legalisation. No Tribeca-specific IMD list found. | §7 card, Q&A Loft Law, glossary |
+| T17 | `NYC Local Law 111 of 2018 self-closing doors ...` · Firecrawl search | https://www.nyc.gov/site/hpd/services-and-information/self-closing-doors.page | Apartment and hallway doors must "swing closed and latch by themselves"; inspectors check every self-closing door; proactive programme selects buildings. | §5, AI H3 5, glossary |
+| T18 | `NYC Building Code stairway doors re-entry ... 1010.1.9.12` · Firecrawl search → scrape | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-173526 | BC 1010.1.9.11 Stairway doors (text quoted, incl. ≤4-storey exception and 403.5.3 reference); BC 1010.4.1 entrance doors; 1010.4.2 dwelling-unit doors (heavy-duty deadbolt key outside/thumb-turn inside, chain guard, viewer); 1010.4.4 intercom for 8+ units. | §5, §8.5, Q&A stair-door question, AI H3 4 |
+| T19 | `fire door label hinge edge painted over how to identify rating NFPA 80 ...` · Firecrawl search | https://www.nfpa.org/news-blogs-and-articles/blogs/2025/04/11/fire-doors-faqs ; https://www.select-hinges.com/blog/... (excerpt) | Label contents; labels not to be removed/defaced/illegible; may be painted if readily visible; if illegible, verify "through other means acceptable to the AHJ". Leaf label on hinge edge below top hinge or top edge. | §7.5, Q&A label question, survey table |
+| T20 | `NYC sidewalk cellar doors rules DOT ...` · Firecrawl search | https://portal.311.nyc.gov/article/?kanumber=KA-02292 (excerpt) | DOT investigates cellar doors left open and unprotected; may be open during a delivery if someone guards the opening. | §8.5, Q&A cellar question, schedule list |
+| T21 | `Landmarks Preservation Commission interior work historic district ... Certificate of No Effect` · Firecrawl search | https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property (excerpt) | LPC permit needed for work needing a DOB permit; CNE when work needs DOB permit but doesn't change protected features. | FAQ historic-rules question, glossary |
+| T22 | `Tribeca loft "keyed elevator" opens directly into full-floor loft listing` · Firecrawl search | https://michaelbhagwandin.com/blog/your-own-private-entrance-... (excerpt); https://www.instagram.com/p/Dd67vIZmTuf/ (excerpt) | Buyer's guide: "the keyed elevator serves full-floor lofts in converted warehouses" (excerpt, neighbourhood referent not visible); listing: full-floor loft in Tribeca's Hall Building with private keyed elevator opening directly in. | §7 card (FLAG: guide excerpt only) |
+
+### EMPTY (not accessible in build env)
+- Reddit r/TriBeCa — search `reddit r/TriBeCa locksmith OR package theft OR building door` returned only general NYC threads (r/AskNYC, r/Brooklyn) → EMPTY for Tribeca.
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DuckDuckGo, Yelp 1–3★ — EMPTY (not accessible in build env). §10.5 headings are paraphrased published claims, stated on page.
+- Local news on smart locks specifically in Tribeca — none found → EMPTY.
+- Tribeca-specific IMD/Loft Law building list — not found → page states the Loft Law framework only.
+
+### Prices used (Manhattan ×1.25, copied from parent page; none invented)
+Reader/keypad + electric strike $1,875–$3,125 (base $1,500–$2,500); new strike $313–$563 ($250–$450); strike repair $369–$606 ($295–$485); programming $265 first hour then 30-min blocks; service $195/hr 3-hr min ($585); Fixr national $250–$400 avg $300, handyman $50–$100/hr (third-party, labelled). Home-door locks: quoted flat at walkthrough (no published figure, as on parent).
+
+### Images (11) — Step C library (Drive empty, CompanyCam not connected)
+Cropped from images/smart-lock-installation/aess-smart-lock-installation-*.webp to remove all faces and the "4A" unit plate; each viewed before writing alt/title/caption:
+corridor-unit-door-keypad-app (from apartment-door-smart-lock-app), keypad-outside-thumbturn-inside-pair (keypad-exterior-thumbturn-interior-view, caption overlays cropped), tape-measure-old-deadbolt-bore (measuring-door-bore), keypad-opened-wiring-repair (servicing-keypad-wiring), glass-office-door-keypad-deadbolt-screwdriver (office-glass-door), brass-deadbolt-removal-drill (removing-old-brass-deadbolt), keypad-lever-glass-door-latch-screws (office-lever), access-code-entry-phone-app (programming-access-code-app), interior-unit-ribbon-cable-connection (connecting-interior-unit-cable), aa-battery-pack-interior-housing (replacing-smart-lock-batteries), fingerprint-unlock-app-confirmation (fingerprint-unlock-demo-app). All saved as images/smart-lock-installation/smart-lock-installation-tribeca-manhattan-<what>.webp.
+
+### Questions on this page (add to the silo register)
+
+§9 YOUR QUESTIONS ANSWERED (H3)
+1. The label on our loft door's edge is buried under paint — how do you find out what rating the door carries before choosing a lock?
+2. Our building's architect says the new loft entry door must stay "labelled" — does that narrow which smart locks we can buy?
+3. Our building was legalised under the Loft Law — does its interim multiple dwelling past change who decides what goes on our door?
+4. The fire stair doors in our loft building lock behind us on every floor — is that allowed, and could a keypad let residents back in?
+5. When the keyed elevator is shut for inspection, how do we get into our full-floor loft — and should the smart lock plan cover that day?
+6. We'd prefer the front desk can't see when we come and go — who actually reads a smart lock's entry log in a staffed condo?
+7. Our condo's ground-floor maisonette has its own street door and a door into the lobby — which should be smart, and whose rules cover each?
+8. Our architect is specifying a new entry door for the loft renovation — what should the door order include so a smart lock fits without cutting on site?
+9. Our loft door is far thicker than a standard apartment door — will an off-the-shelf smart lock fit it?
+10. Our restaurant's cellar is reached through steel doors in the sidewalk — can they be locked electronically on a schedule?
+11. Steam and grease coat our kitchen's back door — which kinds of lock hardware hold up there?
+12. Our showroom takes deliveries through a loading bay behind historic iron shutters — where does an electronic lock belong?
+13. Art handlers deliver to our Walker Street gallery after hours — can they open the door without learning the staff code?
+
+§17 FAQ (visible == FAQPage, 8)
+1. Do you also work in SoHo, Hudson Square, the Financial District and Battery Park City, around Tribeca?
+2. What do you hand the managing agent after fitting a smart lock to a rated loft door?
+3. Do Tribeca's historic district rules reach the door inside my loft?
+4. If the building loses power, does a battery smart lock on our loft door keep working?
+5. Can the lock on our loft and the lock on our shop downstairs live in one app without sharing codes?
+6. Do you fit locks in Tribeca's big rental towers as well as in converted lofts?
+7. What does a return visit to add, remove or reschedule codes cost?
+8. Our loft is being rented as a film location for a few days — how should the crew get in?
+
+Other question-form headings: "Smart Lock Jammed Somewhere Between Canal and Chambers?", "Shut Out on a Tribeca Landing Tonight?"
+
+De-dup notes: avoided Chelsea's keyed-elevator questions (where the lock goes / swapping the key switch), Chelsea's 2012-flood controller question, UES service-door and terrace/balcony themes (Dutchess/Westchester), Bronx police-lock, Kingsbridge closer and lobby-breach questions, Hudson Valley quote-from-photos.
+
+
+## Batch 2026-10-17 (Riverdale / St. George / Tribeca) — cross-batch notes
+Partial question overlap judged acceptable: St. George Q1 (lock-only change on a historic-district house exterior) vs Tribeca FAQ 3 (historic-district rules and the door inside a loft) vs Riverdale Q8 (post-1940 house inside Riverdale HD). Tribeca captions (backset tape, battery change) and H2 rewritten after 0.68–0.71 masked similarity with Riverdale captions.
