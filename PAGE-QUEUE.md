@@ -80,6 +80,22 @@ BUILDING 2026-10-17T09:20Z | cat6-repair-putnam-county | Cat6 Repair | Putnam | 
 BUILDING 2026-10-17T09:34Z | cat6-repair-dutchess-county | Cat6 Repair | Dutchess | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-17T09:34Z | cat6-repair-ulster-county | Cat6 Repair | Ulster | up /cat6-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 
+BUILDING 2026-10-17T09:55Z | soundbar-installation-upper-west-side-manhattan-ny | Soundbar Installation | Upper West Side, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-17T09:55Z | soundbar-installation-park-slope-brooklyn-ny | Soundbar Installation | Park Slope, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T09:55Z | soundbar-installation-astoria-queens-ny | Soundbar Installation | Astoria, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | soundbar-installation-riverdale-bronx-ny | Soundbar Installation | Riverdale, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | soundbar-installation-st-george-staten-island-ny | Soundbar Installation | St. George, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | soundbar-installation-tribeca-manhattan-ny | Soundbar Installation | Tribeca, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | soundbar-installation-williamsburg-brooklyn-ny | Soundbar Installation | Williamsburg, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | soundbar-installation-forest-hills-queens-ny | Soundbar Installation | Forest Hills, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | soundbar-installation-pelham-bay-bronx-ny | Soundbar Installation | Pelham Bay, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | soundbar-installation-harlem-manhattan-ny | Soundbar Installation | Harlem, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
+TODO | soundbar-installation-bay-ridge-brooklyn-ny | Soundbar Installation | Bay Ridge, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | soundbar-installation-mott-haven-bronx-ny | Soundbar Installation | Mott Haven, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | soundbar-installation-great-kills-staten-island-ny | Soundbar Installation | Great Kills, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
 Add neighborhood spokes here when a silo's 16 area pages are LIVE, same line format, slug pattern <silo>-<neighborhood>-<borough>-ny (up-link = the borough page).
