@@ -1,6 +1,6 @@
-# DAILY-RUN — one new page per day
+# DAILY-RUN — three new pages per day
 
-One run = one page. Read this file, then `BLUEPRINT.md` and `blueprint-v2_3-full.md` (v2.3 is the consolidated spec; where they differ, v2.3 wins), then the newest `MANIFEST-site-rebuild-*.md` for current build conventions. Nothing below overrides the blueprint; it only fixes the daily order of work.
+One run = one page; the scheduled task fires three times a day (Anwar, 2026-10-16: "three at a time"), so three pages ship daily. Read this file, then `BLUEPRINT.md` and `blueprint-v2_3-full.md` (v2.3 is the consolidated spec; where they differ, v2.3 wins), then the newest `MANIFEST-site-rebuild-*.md` for current build conventions. Nothing below overrides the blueprint; it only fixes the daily order of work.
 
 **Working copy:** `C:\Users\opene\Documents\GitHub\abstract-enterprises-site` (outside OneDrive — OneDrive sync corrupts reads). Netlify deploys automatically from `main`, so a push is a deploy. Never drag a zip into Netlify.
 
@@ -15,7 +15,8 @@ One run = one page. Read this file, then `BLUEPRINT.md` and `blueprint-v2_3-full
 2. `git status`. If there are uncommitted changes from a previous failed run for the same page, continue that page. If they're for anything else, stop and log it — never commit files you didn't make in this run.
 
 ### 1. Take the first TODO
-Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHOODS heading. Its fields give the slug, silo, area, up-link, approved phone and GBP. If `<slug>.html` already exists, mark the line LIVE only if `tools/check_page.py <slug>` passes; otherwise log it and take the next TODO.
+Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHOODS heading.
+**Neighborhood phase:** when no `TODO` is left above the heading, move the next 15 neighborhood lines up (generate them first if none are waiting): for the silo whose 16 area pages went LIVE earliest and has the fewest neighborhood pages, list real neighborhoods per borough/county (from existing neighborhood pages and research files, e.g. `NETWORK-CABLE-REPAIR-BROOKLYN-NEIGHBORHOODS.txt`), slug `<silo>-<neighborhood>-<borough-or-county>-ny`, up-link = that area page, phone/GBP = that area page's. Every neighborhood page still meets the full blueprint: genuinely local research (streets, building stock, landmarks), masked-geo similarity < 0.65 to every sibling, no repeated questions. If an area can't support a genuinely different page, skip it — thin near-duplicate pages hurt rankings. Its fields give the slug, silo, area, up-link, approved phone and GBP. If `<slug>.html` already exists, mark the line LIVE only if `tools/check_page.py <slug>` passes; otherwise log it and take the next TODO.
 
 ### 2. Research — once per silo, then local only
 - `research/<silo>.md` doesn't exist → do the full silo research (blueprint v2.3 §3, all 11 sources) and save it there:
@@ -34,8 +35,11 @@ Open `PAGE-QUEUE.md`, take the first line starting `TODO |` above the NEIGHBORHO
 - Pricing per the §9 area multipliers — never invent prices.
 - Written from scratch for this area. Masked-geo similarity to any sibling < 0.65. No FAQ/Q&A question may repeat any question in the silo's question register (add this page's questions to the register).
 
-**Images — 11 per page.**
-- `/images/<silo>/` has 11 or more photos for this silo → use 11 of them.
+**Images — 11 per page. Real AESS photos first (Anwar, 2026-10-16: "your pictures be trash").**
+- **Step A — Google Drive intake.** In Anwar's Google Drive, open the folder `AESS Website Photos/<Silo>` (e.g. `AESS Website Photos/Soundbar Installation`). Any photo there that is not yet in `/images/<silo>/` gets downloaded, converted to WebP (max 1600px wide, quality ~80), renamed `<silo-slug>-<area>-<what-it-shows>.webp`, and saved to `/images/<silo>/`. Then move the Drive file into the folder's `used/` subfolder so it isn't imported twice. Look at each photo before naming it; alt/title/caption describe only what is visible. Never use a photo showing a customer's face, a house number, a license plate or a readable document.
+- **Step B — CompanyCam.** If Step A gave fewer than 11 for this silo, check CompanyCam (Composio) for AESS project photos whose description or tags match the service, and import them the same way.
+- **Step C — library.** `/images/<silo>/` now has 11 or more real photos for this silo → use 11 of them (prefer ones not used on a sibling page).
+- **Never AI-generated or drawn images.** Stock or manufacturer photos only through the permanent image rule below.
 - Otherwise apply the **permanent image rule** (as practiced in manifests 186/187): copy 11 photos from the closest silo into `/images/<silo>/` under new keyword + geo filenames (e.g. `fiber-optic-installation-bronx-riser-pull.webp`), WebP. Alt, title and caption are rewritten for this page and describe only what is visible — pick photos whose content genuinely fits the service. Never claim an image shows a customer, a named building, a completed local project, or equipment that isn't in the frame. Each file is used once per page, alt and title unique. When real photos for the silo are uploaded to `/images/<silo>/`, they replace the reuses (as in manifest 186).
 - Closest silo to borrow from (by what the photos show):
 
@@ -72,6 +76,12 @@ Never do this on any other day.
 1. In `PAGE-QUEUE.md` change only this line's `TODO` to `LIVE`.
 2. Commit the page, its images, `sitemap.xml`, `_redirects`, the edited hub/sibling pages, `research/<silo>.md` and `PAGE-QUEUE.md`: `git commit -m "Daily page: <slug>"`.
 3. `git push origin main`.
+
+### 7b. Submit to search engines (every PASS)
+1. Wait until the page is live: WebFetch `https://www.abstractenterprisessecuritysystems.com/<slug>` until it returns the new page (Netlify deploy, usually under 3 minutes; give up after 10).
+2. **IndexNow (Bing, DuckDuckGo, Yahoo, Yandex, Seznam, Naver):** WebFetch `https://api.indexnow.org/indexnow?url=https://www.abstractenterprisessecuritysystems.com/<slug>&key=a7f3e9c2d8b54f61a0c4e7d2b9f8a3c5` (the key file is live at the site root). 200 or 202 = accepted (an empty or "binary" body with no error text also means accepted). If WebFetch returns an error, retry once through the Composio remote bash tool with a curl GET to the same URL. Also ping the hub and every sibling that got a new link today.
+3. **Google:** append `<date> | https://www.abstractenterprisessecuritysystems.com/<slug> | QUEUED` to `GOOGLE-SUBMIT.md`. Google has no submit API for normal pages; the evening task on Anwar's desktop requests indexing in Search Console (about 10 a day, Google's cap) and resubmits the sitemap.
+4. Note the IndexNow status in the DAILY-LOG line (`indexnow 202`).
 
 ### 8. If it can't reach PASS
 Don't commit to `main` and don't push. Leave the work uncommitted for the next run and write the reason (the failing check lines, and what blocks fixing them) to `DAILY-LOG.md`. Stop after three full fix rounds, or at once if a fix would need a rule decision (Open decisions below) or invented content.
