@@ -134,9 +134,9 @@ BUILDING 2026-10-17T15:19Z | sonos-installation-greenwich-village-manhattan-ny |
 LIVE | sonos-installation-cobble-hill-brooklyn-ny | Sonos Installation | Cobble Hill, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-astoria-queens-ny | Sonos Installation | Astoria, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-city-island-bronx-ny | Sonos Installation | City Island, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T15:21Z | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T15:21Z | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T15:21Z | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-grymes-hill-staten-island-ny | Sonos Installation | Grymes Hill, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-battery-park-city-manhattan-ny | Sonos Installation | Battery Park City, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | sonos-installation-ditmas-park-brooklyn-ny | Sonos Installation | Ditmas Park, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T15:41Z | sonos-installation-douglaston-queens-ny | Sonos Installation | Douglaston, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T15:41Z | sonos-installation-country-club-bronx-ny | Sonos Installation | Country Club, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T15:41Z | sonos-installation-great-kills-staten-island-ny | Sonos Installation | Great Kills, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
