@@ -2946,3 +2946,302 @@ While the building is being worked on
 De-dup notes: avoided HV "historic-district approval for a keypad" (Q2 is about who files and what documentation, not whether approval is needed), Brooklyn stoop/vestibule/double-door/areaway/original-hardware intents, Manhattan "reader behind glass on cast-iron facade", doorman/platform/LL18/suite intents, NYC hub renter/co-op approval intents, Dutchess/Rockland/Ulster "same key for whole building" intents, Westchester/Dutchess "second-floor doors" (Q13 is about the temporary scaffold period). Partial overlaps for the main run to judge: Q11 fail-safe/fail-secure gallery strike vs Todt Hill "If the power fails, does an electric gate stay locked or swing free" (same physics, different device); Q12 controller height after Sandy vs Throgs Neck "salt water reached our lock — dry out or replace?" (placement vs repair); FAQ 1/2 cost and coverage are geo-specific by design.
 
 > Main-run note (2026-10-17, Todt Hill): to clear the 2 KB size-cluster rule against Brooklyn Heights, the main run minified this page's inline CSS/JSON-LD and removed four sentences: the Wikipedia sidewalk/Richmond Road bus line, the CBS June 2022 back-door break-in clause, the Hoodline key-fob clause, and the R1-1 9,500 sq ft lot benchmark. Those log entries are no longer used on the page.
+
+## New Dorp, Staten Island (smart-lock-installation-new-dorp-staten-island-ny)
+
+Page: smart-lock-installation-new-dorp-staten-island-ny · up-link /smart-lock-installation-staten-island · phone (347) 934-8335 (body, CTAs, schema; (800) 486-0943 only in shared mega-nav header) · GBP Brooklyn, 1282 Troy Ave, schema @id #brooklyn. Built 2026-10-17.
+
+Thesis: New Dorp is three door problems under one name, split by Hylan Boulevard — (1) the Lane: mixed-use storefronts with flats above and rear doors onto parking (who may open which door; glass shopfront strikes; schedules; landlord access); (2) the inland blocks: detached/semi-attached houses where a reported crowbar attempt makes strike/frame reinforcement the priority; (3) New Dorp Beach below Hylan: post-Sandy elevated "candlestick" homes where Appendix G puts living space at the DFE and only parking/storage/access below, so electronics stay at living level and lower doors get mechanical hardware.
+
+| # | Query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| ND1 | `New Dorp, Staten Island` · WebFetch | https://en.wikipedia.org/wiki/New_Dorp,_Staten_Island | Boundaries Mill Rd / Tysens Ln / Amboy & Richmond Rds / Bancroft Ave; New Dorp Beach Mill Rd to Lower NY Bay, usually counted part of New Dorp; 2020 NTA pop. 29,083 (27,623 in 2010, +5.3%); Hylan Plaza opened 1966, largest of five 1960s Hylan centres; Tysens Park Apartments; SIR New Dorp station at New Dorp Lane/New Dorp Plaza; ZIP 10306; 122nd Pct; Lane Theater opened Feb 10 1938, landmarked 1988. (70.2% renter figure NOT used — implausible/unverified.) | §5 paras 1 and 3, §5.5 stat 3, §7 strip-centre card, §8 Hylan card, §13 station card, hero badge |
+| ND2 | `New Dorp BID City Council` · Firecrawl scrape | https://citylandnyc.org/city-council-approves-new-dorp-bid | Council 50–0 on Apr 5 2017; New Dorp Lane + adjacent commercial streets between Hylan Blvd and Richmond Rd; 146 properties, 180 businesses, mostly small/family-owned. | §5 para 2, §5.5 stat 1, §8 card 1 |
+| ND3 | `silive New Dorp Lane municipal parking lot behind stores` · Firecrawl search → scrape (query) | https://www.nyc.gov/html/dot/html/motorist/parkinglist.shtml | NYC DOT: New Dorp Municipal Parking Field, 98 New Dorp Lane at New Dorp SIR station, Mon–Sat 7 AM–10 PM except Sunday. (WebFetch of same URL: permission not answered → used Firecrawl.) | §5 para 2, §5.5 stat 2, §8 station card, §13 station card |
+| ND4 | same search | https://www.silive.com/eastshore/newdorp/2011/06/builder_eyes_new_dorp_parking.html | 2011 SI Advance community blog: New Dorp Lane "a great little commercial strip of mostly old fashioned mom 'n pop stores"; municipal lot above the station. Background only. | research only |
+| ND5 | `New Dorp burglary 122nd precinct unlocked door break-in silive 2025` · Firecrawl search → scrape | https://www.cbsnews.com/newyork/news/staten-island-home-burglaries-stolen-range-rover/ | CBS New York (Feb 2026): "On Feb. 1, three male suspects used a crowbar to try and break into a home near Benedict Road and Circle Road in New Dorp" (122 Precinct). | §5 para 3, Three New Dorps (inland), §9 crowbar Q, §10.5 H3 7 |
+| ND6 | same search | https://www.silive.com/crime-safety/2025/03/glass-shattered-at-restaurant-nypd-probes-reported-burglary-on-staten-island.html | Mar 3 2025: glass front doors smashed at Max's Es-Ca, 1559 Richmond Rd, Dongan Hills; CompStat: SI burglaries +84% (72 vs 39 as of Feb 23); "122nd Precinct in New Dorp, where burglaries have escalated 150% to 25 vs. 10 last year." | §5 para 3, §5.5 stat 4, §9 smashed-glass Q (Dongan Hills named), §10.5 H3 7 |
+| ND7 | `Resilient Neighborhoods East Shore Staten Island New Dorp Beach…` · Firecrawl search → scrape (PDF query) | https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/east-shore/summary-report-east-shore.pdf | DCP East Shore report: ~4 sq mi study area; thousands of homes in Oakwood Beach, New Dorp Beach, Midland Beach, South Beach severely damaged/destroyed by Sandy; photo "privately-funded home elevation in New Dorp Beach"; 1% floodplain V / Coastal A / A zones; Appendix G: living space at/above DFE, enclosed space below wet-floodproofed; commercial in floodplain above DFE or dry floodproofed; "candlestick home" = very narrow tall detached home; recommends rules to fit "small bungalows and cottages". | §5 para 4, §5.5 stat 5, Three New Dorps (beach), §7 cards, §8.5 flood bullet, §10.5 H3 6, Below Hylan section |
+| ND8 | `NYC Building Code Appendix G enclosed areas below design flood elevation…` · Firecrawl search → scrape (PDF query) | https://www.nyc.gov/assets/buildings/bldgs_bulletins/bb_2022-001.pdf | DOB Buildings Bulletin 2022-001 (Jan 10 2022): use of wet-floodproofed spaces "limited to parking of vehicles, storage and building access". | §5 para 4, §5.5 stat 6, §9 enclosure-stair Q, Below Hylan section |
+| ND9 | `New Dorp Beach Hurricane Sandy flooding homes rebuilt elevated` · Firecrawl search | https://www.nyonlinerealty.com/nyc/new-dorp-beach | Realty page: surviving bungalows mixed with newer raised construction; flood zone. Corroboration only. | research only |
+| ND10 | `New Dorp Beach bungalows Sandy damage Cedar Grove Beach Club…` · Firecrawl search → scrape | https://citylimits.org/this-memorial-day-a-lost-world-at-cedar-grove-beach/ | City Limits (May 2011): Cedar Grove Beach Club founded 1911, bungalows removed by the city the previous year for a planned park. | §13 New Dorp Beach card, Below Hylan section |
+| ND11 | same search | https://www.newyorkalmanack.com/tags/cedar-grove-beach-club/ (search excerpt) ; https://www.facebook.com/classicstatenisland/videos/... (excerpt) | 41 historic bungalows largely built 1920–1940 in New Dorp; "In 2010, the City of New York took control of the property". | §7 bungalow card, §13 card |
+| ND12 | same search · Reddit (via Firecrawl search result) | https://www.reddit.com/r/statenisland/comments/1hc217e/bungalows_at_cedar_grove_beach_club_in_ruins/ | r/statenisland post (Dec 2024): "32 years ago today twenty eight bungalows at the Cedar Grove Beach Club in New Dorp Beach are in ruins after the storm of December 11, 1992" (SI Advance photo). Thread itself not scraped. | Below Hylan section |
+| ND13 | `Miller Field Gateway National Recreation Area…` · Firecrawl search → scrape | https://www.nps.gov/gate/learn/historyculture/miller-field.htm | Vanderbilt bought New Dorp farmland from 1836; heirs sold to federal govt 1919; Air Coast Defense Station completed 1921; part of Gateway NRA since 1972; entrance via New Dorp Lane. | §13 Miller Field card, §8 lower Lane card |
+| ND14 | `Lane Theater New Dorp Lane interior landmark designation 1988…` · Firecrawl search → scrape (query) | https://imjustwalkin.com/2015/03/02/the-lane-on-the-lane/ | Opened Feb 10 1938; 1988 LPC report: interior "one of the last surviving pre-World War II movie theater interiors on Staten Island… Art Moderne"; Crossroads Church moved in 2012. | §13 Lane Theater card |
+| ND15 | `Moravian Cemetery Staten Island Richmond Road…` · Firecrawl search; `Moravian Cemetery` · WebFetch | https://en.wikipedia.org/wiki/Moravian_Cemetery | 2205 Richmond Rd, New Dorp; 113 acres; founded 1740; Vanderbilt mausoleum by Richard Morris Hunt (1885–86) in private family cemetery. | §13 card, Three New Dorps (inland), §8 Richmond Rd card |
+| ND16 | `New Dorp Library 309 New Dorp Lane renovation closed NYPL reopening` · Firecrawl search | https://www.silive.com/news/2026/10/staten-island-library-branch-closed-since-early-2025-to-reopen-monday.html ; https://www.nypl.org/locations/new-dorp | Branch at 309 New Dorp Lane closed since January 2025 for HVAC replacement led by DDC, reopening Monday in October 2026 (exact day not used). | §13 library card |
+| ND17 | `Tysens Park Apartments New Dorp…` · Firecrawl search | https://www.apartments.com/tysens-park-apartments-staten-island-ny/m0xq0tj/ ; https://www.apartmenthomeliving.com/apartment-finder/Tysens-Park-Apartments-Staten-Island-NY-10306-1903536 | Rental complex, 30 Ebbitts St / Mill Rd, studios–2BR, 450–906 sq ft. (Ratings content not used.) | §5 para 3, §7 garden-apartment card, §9 renter Q |
+| ND18 | `reddit r/statenisland New Dorp apartment above store landlord door lock` · Firecrawl search → scrape | https://www.silive.com/news/2016/02/tips_from_nyc_civil_court_for.html | SI Advance Feb 15 2016 (NYC Civil Court tips): illegal basement apartments; landlord cannot legally change locks in retaliation for non-payment. Background only (not cited on page). | research only |
+| ND19 | `ANSI/BHMA A156.40 residential deadbolt grade…` · Firecrawl search | https://buildershardware.com/ANSI-BHMA-Standards/Hardware-Highlights/A15640-2015-Residential-Deadbolts ; https://blog.ansi.org/ansi/bhma-certified-secure-home-label-door-hardware/ | A156.40 residential deadbolts: security, durability, finish tests; finish via ASTM B117 salt spray; A156.39 for locksets; BHMA certified program. (Cycle counts not used.) | §9 BHMA Q |
+| ND20 | `NYC DCP New Dorp Lane rezoning…` · Firecrawl search → scrape | https://www.bjhadvisors.com/projects/speedwell-ave-e29zh | 2021 New Dorp Lane District planning study for SIEDC (TOD, parking sharing). Background only. | research only |
+| ND21 | Reused from silo research (SI section) | SI6 (2022 NYC BC §1010.1.9 PDF), SI17 (SIEDC corridors incl. Richmond Road), S1 Fixr, S2 Bob Vila, N4 Tenant Data Privacy Act | Egress/one-motion rules; Richmond Road SIEDC corridor; national cost and DIY claims; tenants can't be forced to app-only entry in multiple dwellings. | §8.5, §8 Richmond Rd card, §10.5, §14, §9 renter Q |
+| ND22 | Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ (New Dorp) | — | EMPTY (not accessible in build env). §10.5 headings are claims from national cost guides/product reviews, stated as such on page. | — |
+| ND23 | Local smart-lock-specific news for New Dorp (silive/Patch) | — | EMPTY — none found; replaced by burglary items ND5/ND6. | — |
+| ND24 | https://www.nyc.gov/html/dot/html/motorist/parkinglist.shtml · WebFetch | — | EMPTY via WebFetch (permission request not answered) — obtained via Firecrawl instead (ND3). | — |
+
+### Prices used (SI multiplier 1.10, round half-up; copied from smart-lock-installation-staten-island.html, no new figures)
+- Single-door keypad/fob reader with electric strike: **$1,650–$2,750** (§14, §15 Premium, FAQ 1, Service schema, §10.5).
+- New electric strike: **$275–$495**; failed strike repair: **$325–$534** (§14, schema).
+- Setup-only first hour: **$225** (repair capture, §14, BYO card, FAQ admin-phone).
+- Service/callback $195/hr, 3-hr min ($585) (§14).
+- Residential locks: "quoted flat at walkthrough". Fixr national $250–$400 / avg $300 labelled national.
+
+## Images (11)
+Permanent image rule (Drive folder empty, CompanyCam not connected). Sources per assignment preference: commercial-security staten-island/long-island first, then low-voltage. All looked at before naming; library photos look rendered/AI-style with AESS logos (same caveat as SI section). Rejected: access-reader and video-intercom (fictional named business-centre signs), racks (not door-relevant), warehouse/LPR cameras (not door-relevant).
+| File (images/smart-lock-installation/) | Source | What it shows |
+|---|---|---|
+| smart-lock-installation-new-dorp-two-techs-keypad-glass-shop-door.webp (hero) | commercial-security/commercial-security-systems-staten-island-alarm-keypad.jpg | Two techs at glass shop entrance: keypad on frame, camera above door |
+| smart-lock-installation-new-dorp-strike-wiring-keypad-exit-button.webp | low-voltage/low-voltage-installation-long-island-electric-strike-keypad.jpg | Tech wiring strike in glass door frame; keypad + push-to-exit on wall |
+| smart-lock-installation-new-dorp-electric-strike-glass-door-frame.webp | commercial-security/commercial-security-systems-staten-island-electric-strike.jpg | Kneeling tech fitting strike in glass entrance frame, reader on wall |
+| smart-lock-installation-new-dorp-crew-van-unloading-tools.webp | commercial-security/commercial-security-systems-staten-island-crew-van.jpg | AESS van at entrance, tech at side door, another wheeling tool case |
+| smart-lock-installation-new-dorp-conduit-cable-pull-block-wall.webp | commercial-security/commercial-security-systems-long-island-conduit-pull.jpg | Blue cable fed through conduit into box on block wall |
+| smart-lock-installation-new-dorp-credential-programming-desk.webp | commercial-security/commercial-security-systems-staten-island-credential-programming.jpg | Tech enrolling cards/fobs at a computer desk |
+| smart-lock-installation-new-dorp-door-contact-keypad-panel.webp | commercial-security/commercial-security-systems-staten-island-panic-button.jpg | 3-panel: camera by loading door, door contact, keypad by steel door |
+| smart-lock-installation-new-dorp-glass-entry-lobby-reader.webp | commercial-security/commercial-security-systems-staten-island-secured-lobby.jpg | Glass double-door lobby, wall reader, dome cameras, reception desk |
+| smart-lock-installation-new-dorp-panic-button-under-counter.webp | commercial-security/commercial-security-systems-staten-island-glass-break.jpg | Tech wiring red button under reception counter |
+| smart-lock-installation-new-dorp-sensor-install-shop-entrance.webp | commercial-security/commercial-security-systems-staten-island-hero-entrance-crew.jpg | Tech drilling sensor high beside shop entrance; glass-break detector insets |
+| smart-lock-installation-new-dorp-maglock-terminal-wiring-closeup.webp | low-voltage/low-voltage-installation-hudson-valley-13-maglock-wiring-detail.jpg | Gloved hands at maglock terminal block on aluminium frame |
+
+## Question register — smart-lock-installation-new-dorp-staten-island-ny
+
+### §9 Questions Answered (H3, 14)
+1. Staff hauling deliveries in from the lot behind us keep wedging the rear door — how do we make it easier to use shut than open?
+2. If someone smashes the glass in our shop's front door, does a smart lock on it still do anything?
+3. Can our shop's front door unlock itself at opening time and lock again at closing?
+4. Our commercial landlord wants a key to the store — do we still have to give one if we go keyless?
+5. Can the cash office or stockroom have a code that only managers know, separate from the staff door?
+6. Police reported a crowbar attempt on a house near Benedict Road — what part of a door actually stops prying, the lock or the frame?
+7. Can the lock warn us when someone keeps trying wrong codes or forces the bolt?
+8. Should the lock use my phone's location to lock up after I've walked to the train?
+9. Should we let a voice assistant unlock the front door?
+10. Is a fingerprint reader any harder to get past than a keypad code?
+11. Is a BHMA-graded lock worth paying more for on the front door?
+12. Wind-blown sand gets into everything on our block — will grit jam a keyway or a keypad?
+13. Our ground floor is wet-floodproofed storage under the house — should the inside door from that space up into the living area be locked too?
+14. We rent in one of the garden-apartment complexes off Mill Road — can we ask management to put a smart lock on our unit, and who pays?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Is New Dorp priced differently from the rest of Staten Island?
+2. Do you also work in Oakwood, Grant City, Dongan Hills and Midland Beach?
+3. Our deadbolt hole sits farther from the door edge than usual — will a smart lock fit?
+4. Do smart locks need firmware updates, and do you come back to do them?
+5. What happens if the only phone with admin rights is lost or broken?
+6. Can unlocking the front door switch on the porch or hallway light?
+7. Do you take the old locks away when you replace them?
+8. Can we check the lock history from a computer instead of a phone?
+
+### Other question-form headings
+- H2 "Lock Stuck, Dark or Offline in New Dorp?" (repair capture)
+- H2 "Locked Out of a New Dorp Shop, Flat or House Tonight?" (final repair capture)
+
+De-dup notes: checked by meaning against all 16 live area pages and batch-mates Greenpoint / Washington Heights (as on disk 11:19). Avoided: raised-house lower door (Suffolk Lindenhurst), pre-storm prep (Suffolk), 1930s thin bungalow door (Putnam), renter no-drill (Orange), kick-in frame (Nassau — mine is prying + strike screws, kept), propped-door alert (Greenpoint — reworded mine to closer/convenience). Partial overlaps left for the main run: Q7 tamper alerts vs Greenpoint "alert when street door is propped"; FAQ1 neighbourhood price vs SI FAQ "why SI prices 10% above Brooklyn" and WH "priced at full Manhattan rate".
+
+## Washington Heights, Manhattan (smart-lock-installation-washington-heights-manhattan-ny)
+
+Built 2026-10-17. Neighborhood page, up-link /smart-lock-installation-manhattan. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (929) 560-0737 (800 only in shared header chrome). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+Thesis / lane: long-tenure, multi-generational rental households (12.3% homeownership, 19.3% aged 65+, 37.9% single-person households) in pre-war walk-ups and elevator buildings. The smart lock is ADDED beside the owner's lock (MDL 51-c), and the household — not the lease or a management office — decides who holds a code (anchor: 765 Riverside Drive leaseholder-only fob story, 2018). Planned around painted century-old doors/strikes, night-shift arrivals (168th St hospital campus), Hudson Heights co-op conversions, and LPC rules on the Jumel Terrace / Audubon Park blocks.
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| WH1 | `Washington Heights Manhattan Community District 12 rent stabilized units share pre-war buildings housing profile` · Firecrawl search → Firecrawl scrape | https://furmancenter.org/neighborhoods/view/washington-heights-inwood (resolved to https://www.furmancenter.org/neighborhoods/washington-heights-inwood/, updated 05/06/2026) | MN12 (Washington Heights/Inwood) 2024: population 182,736; homeownership 12.3% vs 32.7% citywide; aged 65+ 19.3% (9.9% in 2000); single-person households 37.9%; housing units 82,310; Hispanic 62.6%; car-free commute 84.4%; serious housing code violations 238.7 per 1,000 privately owned rental units (2025); 235 subsidized properties; public housing 1.8% of rental units (21 properties, 2,167 units); Mitchell-Lama 7 properties / 1,410 units. | §5 paras 1, 4, 5 + stats list; §7 "Newer and Subsidized Buildings" card; §10.5 H3 3 |
+| WH2 | same search | https://www.furmancenter.org/publication/understanding-different-segments-of-new-york-citys-rent-stabilized-housing-stock/ | "an estimated 16,000 rent-stabilized units" sit in co-ops that converted from rental (citywide). | §9 co-op conversion Q |
+| WH3 | same search | https://www.nyc.gov/site/mayorspeu/programs/rent-stabilization.page | Rent-stabilized apartments are most often in buildings of 6+ units built before 1974; right to a renewal lease. | Glossary "Rent-stabilized" |
+| WH4 | `Audubon Park Historic District Washington Heights designated Landmarks Preservation Commission apartment buildings` · Firecrawl search → Firecrawl scrape (query mode) | https://en.wikipedia.org/wiki/Audubon_Park,_Manhattan | Bounded 155th–158th St, Broadway/Edward M. Morgan Pl to Riverside Dr; apartment buildings 5–13 stories; LPC district = 19 apartment buildings + one pair of duplex houses across five blocks; much of area added to NRHP August 2024. | §7 elevator-building card; §13 Audubon Park card |
+| WH5 | same search | http://s-media.nyc.gov/agencies/lpc/lp/2335.pdf | LPC designation report — query on first 4 pages returned nothing usable → EMPTY (designation date not stated on page). | — |
+| WH6 | `Sylvan Terrace wooden row houses 1882 Jumel Terrace Historic District Washington Heights` · Firecrawl search → Firecrawl scrape (query mode) | https://en.wikipedia.org/wiki/Jumel_Terrace_Historic_District | District = 50 rowhouses built 1890–1902 + one 1909 apartment building; NYC Landmark 1970, NRHP 1973; streets: W 162nd St, Jumel Terrace, Sylvan Terrace, W 160th St; Sylvan Terrace = 20 wooden houses 1882–83 on the Morris estate carriage drive, restored 1979–81. | §7 rowhouse card; §13 Sylvan Terrace card; hero |
+| WH7 | `Morris-Jumel Mansion oldest house in Manhattan built 1765 Washington headquarters` · Firecrawl search | https://en.wikipedia.org/wiki/Morris%E2%80%93Jumel_Mansion ; https://morrisjumel.org/ ; https://www.facebook.com/nylandmarks/videos/… | Oldest extant house in Manhattan, built 1765 by Roger Morris; on W 160th St at Edgecombe Ave. | §13 card |
+| WH8 | `Hudson Heights Fort Washington Avenue art deco co-op buildings Cabrini Boulevard` · Firecrawl search → Firecrawl scrape (query mode) | https://en.wikipedia.org/wiki/Hudson_Heights,_Manhattan | Mostly 1920s–1940s apartment buildings, many co-ops; Art Deco and Tudor Revival; Hudson View Gardens opened 1924 (Tudor co-op, NRHP 2016); Castle Village five buildings finished 1939, co-op 1985; rentals converting to co-ops/condos from the 1980s; Bennett Park = highest natural point in Manhattan, 265 ft; Fort Tryon Park 67 acres, given 1931, holds The Cloisters. | §5 para 4; §7 co-op card; §9 co-op conversion Q; §13 cards |
+| WH9 | same search | https://streeteasy.com/building/350-cabrini-boulevard-new_york ; http://nyjournal.squarespace.com/journal/2007/3/16/the-co-op-chronicles-cabrini-boulevard.html | 350 Cabrini Blvd Art Deco co-op with P/T doorman and live-in super; most buildings on Cabrini 181st–192nd are co-ops/condos. Background only; not cited. | background |
+| WH10 | Neighborhood facts · Firecrawl scrape (query mode, 93k chars read via python) | https://en.wikipedia.org/wiki/Washington_Heights,_Manhattan | Bounded by Dyckman St (Inwood), 155th St (Harlem), Harlem River/Coogan's Bluff, Hudson; "high residential density despite the lack of modern construction"; IRT stations 157th/168th/181st/Dyckman built 1904–06; 1920s boom north of 181st; IND stops 175th/181st/190th on Fort Washington Ave (1932); elevators at 181st St IND and 190th St stations; public stairs Fort Washington Ave–Overlook Terrace at 187th; CUMC on Hilltop Park site 1928; Yeshiva University Wilf Campus 184th–186th east of Broadway, founded 1928; United Palace 1930 as Loew's 175th Street Theater; ZIPs 10032/10033/10040; Little Red Lighthouse, High Bridge Water Tower, Cloisters. | §5 paras 1, 5; §8 corridor cards; logistics section |
+| WH11 | `"Washington Heights" building "key fob" OR "keyless" tenants entry system 2024 OR 2025 OR 2026` · Firecrawl search → Firecrawl scrape | https://patch.com/new-york/harlem/uptown-landlord-harassing-tenants-through-key-fob-policy-reports | Patch, Nov 16 2018 (citing CBS2): 765 Riverside Drive, six-story building near W 155th St; electronic fob for lobby door; fobs only for residents named on a lease; $50 security deposit; resident Kazu Hano (50 years in building) had to show a marriage certificate for his wife; CM Mark Levine: landlords must provide two keys per apartment and may not charge; next step a DHCR complaint. | §5 para 3 + stat; §9 Q2; §13 Audubon Park card |
+| WH12 | `Washington Heights tenants landlord key fob Latch smart lock building entry lawsuit` · Firecrawl search | https://www.cbsnews.com/newyork/news/hells-kitchen-latch-system-keyless-entry-lawsuit/ etc. | All results are the Hell's Kitchen Latch case already in silo research (N10) — not Washington Heights; not reused. | — |
+| WH13 | `Washington Heights burglary apartment break-in package theft lobby door broken 2025 2026` · Firecrawl search (web+news) | — | No Washington Heights lock/door story returned (results were DC/MD) → EMPTY. | — |
+| WH14 | `"Washington Heights" landlord changed locks illegal lockout tenant news` · Firecrawl search → Firecrawl scrape | https://www.amny.com/politics/nyc-council-bill-tenants-illegal-evictions/ | AMNY Nov 13 2024 on Council illegal-eviction bills; only WH content is a photo caption (709 W 170th St in disrepair since 2007). Not used. | — |
+| WH15 | `Manhattan Times Washington Heights tenants front door intercom broken lock building repairs HPD` · Firecrawl search → Firecrawl scrape | https://www.lawhelpny.org/resource/hpd-violations-checklist ; https://portal.311.nyc.gov/article/?kanumber=KA-01074 | LawHelpNY: class A = no peephole in entrance door; class B = entrance door lock/knob defective, entrance door should be self-closing; class C = no lock on entrance door to building (24 hours to correct). 311: Apartment / Public Area Maintenance Complaint covers doors and locks broken, missing or not self-closing. (Manhattan Times itself: no matching story → EMPTY.) | §9 Q5, Q7; §10.5 H3 4; FAQ peephole; glossary |
+| WH16 | `Washington Heights BID 181st Street business improvement district St. Nicholas Avenue retail corridor` · Firecrawl search | https://gouptownnyc.wixsite.com/gouptownnyc/whbid-181 ; https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=9 ; https://www.instagram.com/whbid/ | WHBID supports 250 commercial storefronts in a 29-block district along 181st St; office 560 W 181st St; BID bio lists St. Nicholas Ave (181st–185th St). | §8 corridor cards |
+| WH17 | `George Washington Bridge Bus Station 178th Street Washington Heights renovation opened 2017` · Firecrawl search | https://en.wikipedia.org/wiki/George_Washington_Bridge_Bus_Station | Renovated station reopened May 16, 2017. | §8 Broadway card; FAQ one-time code |
+| WH18 | `High Bridge oldest standing bridge New York City opened 1848 reopened 2015 Highbridge Park water tower` · Firecrawl search | https://www.nycgovparks.org/parks/highbridge-park/pressrelease/22082 ; https://en.wikipedia.org/wiki/High_Bridge_(New_York_City) | Opened 1848 as part of the Old Croton Aqueduct; oldest standing bridge in NYC; rises 140 ft over the Harlem River. | §13 card |
+| WH19 | `Landmarks Preservation Commission rules rowhouse front door hardware replacement permit not required doors historic district` · Firecrawl search | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-90092 (LPC Rules §2-14) | Ordinary repair (no permit) includes "Repairing or replacing window or door hardware, such as hinges, knobs and handles, but excluding ornate historic exterior hardware on special doors". | §7.5 rowhouse method; §8.5 landmark callout; §10.5 H3 7; glossary "Special door" |
+| WH20 | `Yale Assure Lock 2 keypad voice guidance languages Spanish setting` · Firecrawl search | https://www.yalehome.com/ae/download-center/smart-products/assure-lock%C2%AE-sl/Yale%20Assure%20Manual.pdf | Yale Assure manual: language setting — English (1), Spanish (2) or French (3) for voice prompts. | §10 features list |
+| WH21 | `New York Multiple Dwelling Law section 4 definition multiple dwelling three or more families living independently` · Firecrawl search | https://www.nysenate.gov/legislation/laws/MDW/4 | "multiple dwelling" = occupied as the residence or home of three or more families living independently of each other. | Glossary |
+| WH22 | `reddit washingtonheights front door lock building super apartment keys` · Firecrawl search | https://www.reddit.com/r/AskNYC/comments/1vqeebn/key_broke_in_the_main_apartment_door_super_not/ ; https://www.reddit.com/r/AskNYC/comments/xkl22e/… | Excerpts only, citywide (not Washington Heights): when the super is unreachable call 311 for the building's 24/7 emergency contact / MDR; supers normally hold spare keys. Informed §9 Q5 wording ("call the building's emergency contact first, and if no one answers, 311"). Washington Heights-specific Reddit → EMPTY (not accessible in build env). | §9 Q5 (background) |
+| WH23 | Reused from silo research (research/smart-lock-installation.md) | N1 MDL 51-c; N3 HMC 27-2043; N4 Tenant Data Privacy Act; N6 HPD fire-safety (no double-cylinder); N9 Admin Code 26-521/26-523; S1 Fixr $250–$400 avg $300; S2 Bob Vila ~30 min; S3 August retrofit; S4 August Connect 10–15 ft; S5/S6 Thread border router; S9 kalamein; M7 Latch→DOOR Aug 12 2025; M14 NFPA 80 / iDigHardware; M15 NYC BC 1010.1.9.9; M28 311 7 AM–6 PM; M30 Admin Code 28-105.4.7; M31 Ring Z-Wave subscription + Ring-app codes | As listed in silo file. | §5, §8.5, §9, §10, §10.5, §14, FAQ, glossary, logistics |
+| WH24 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 H3 headings are claims published by cost sites/manufacturers, stated as such on the page. | — |
+| WH25 | Hyperlocal (Manhattan Times, Uptown Collective, Patch Washington Heights-Inwood) smart-lock stories | — | Only WH11 (Patch 2018) found → otherwise EMPTY. | — |
+| WH26 | NYCHA in Washington Heights | — | Only Furman aggregate (1.8% public housing, 21 properties) used; no NYCHA development named → no NYCHA claims on page. | §7 subsidized card (aggregate only) |
+
+### Prices used (Washington Heights = Manhattan ×1.25; copied exactly from smart-lock-installation-manhattan.html)
+- Apartment-door smart lock: no AESS figure → "Quoted flat at free walkthrough".
+- Single-door keypad or fob reader with electric strike: **$1,875–$3,125** ($1,500–$2,500 × 1.25).
+- New electric strike: **$313–$563** ($250–$450 × 1.25).
+- Failed electric strike repair: **$369–$606** ($295–$485 × 1.25).
+- Setup-only / programming visit: **$265 first hour**, then 30-minute blocks.
+- Service/callback: **$195/hr, 3-hour minimum ($585)**, not on initial install.
+- National comparison only: Fixr $250–$400, avg $300 (Jan 2025).
+
+## Images (11)
+
+Permanent image rule (Drive folder `AESS Website Photos/Smart Lock Installation` empty; CompanyCam not connected). Sources from images/commercial-security/ and images/low-voltage/ with "manhattan"/"bronx" in the name; each viewed before use; dHash-checked against the batch-mates' images on disk (Greenpoint's 11) — none of these 11 source photos is used by Greenpoint or New Dorp at build time. Several are also used (under other names) on earlier area pages — unavoidable, nearly every library photo is already used somewhere in the silo. Alt/title/caption describe only what is visible.
+
+| New filename (images/smart-lock-installation/) | Source file | What it shows |
+|---|---|---|
+| smart-lock-installation-washington-heights-keypad-reader-glass-entry-door.webp (hero, eager) | images/commercial-security/commercial-security-systems-manhattan-access-reader.jpg (business-name sign "Pinnacle Business Center" on the glass blurred) | Technician mounting a keypad/prox reader on a stone pier beside a glass entry door; "Employees and authorized personnel only" plaque |
+| smart-lock-installation-washington-heights-credential-enrollment-desk.webp | images/commercial-security/commercial-security-systems-manhattan-credential-programming.jpg | Technician enrolling cards/fobs at an access-management workstation; card trays labelled Employees/Managers |
+| smart-lock-installation-washington-heights-video-intercom-panel-stone-entry.webp | images/commercial-security/commercial-security-systems-manhattan-video-intercom.jpg (cropped: left 245 px removed to drop a building-name/street-address sign) | Technician fixing a stainless video intercom with keypad to a granite wall beside glass doors |
+| smart-lock-installation-washington-heights-secured-lobby-reader-intercom.webp | images/commercial-security/commercial-security-systems-manhattan-secured-lobby.jpg | Lobby with glass entry doors, intercom panel, small reader beside an inner door, ceiling cameras, reception desk |
+| smart-lock-installation-washington-heights-maglock-header-glass-office-door.webp | images/commercial-security/commercial-security-systems-manhattan-maglock.jpg | Technician wiring a magnetic lock on the header of a glass office door; reader on the wall |
+| smart-lock-installation-washington-heights-door-contact-keypad-collage.webp | images/commercial-security/commercial-security-systems-manhattan-panic-button.jpg | Three-panel collage: door contact install, keypad beside a steel service door, finished loading-dock entrance |
+| smart-lock-installation-washington-heights-access-rack-install-checklist.webp | images/commercial-security/commercial-security-systems-bronx-integration-rack.jpg | Technician terminating in a network rack; wall checklist (cameras, door contacts, electric locks, REX buttons, card readers) |
+| smart-lock-installation-washington-heights-ceiling-wifi-access-point-mount.webp | images/low-voltage/low-voltage-installation-manhattan-09-ceiling-access-point-drop.jpg | Technician mounting a ceiling Wi-Fi access point |
+| smart-lock-installation-washington-heights-data-jack-wall-plate-termination.webp | images/low-voltage/low-voltage-installation-manhattan-08-keystone-wall-plate-termination.jpg | Technician terminating a data jack in a wall plate |
+| smart-lock-installation-washington-heights-cable-tester-wall-jack-pass.webp | images/low-voltage/low-voltage-installation-manhattan-07-fluke-certification-pass.jpg | Handheld cable tester showing a pass at a wall jack |
+| smart-lock-installation-washington-heights-crew-ceiling-cable-pull-open-floor.webp | images/low-voltage/low-voltage-installation-manhattan-02-crew-ceiling-cable-pull.jpg | Crew pulling cable through an open office ceiling, reels on floor, rack at back |
+
+DAILY-LOG note: `images: 11 reused from images/commercial-security/ and images/low-voltage/ (no real smart-lock photos yet)`. Flag for Anwar: the library source photos look AI-rendered (garbled/fictional signage such as "Pinnacle Business Center", "Riverfront Business Center"); they were used under the permanent image rule as instructed, with named signage removed.
+
+## Question register — smart-lock-installation-washington-heights-manhattan-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+Codes for everyone who really lives here
+1. A relative lives with us but isn't on the lease — can she have her own code on a lock we put in?
+2. Our building gives lobby fobs only to people named on the lease — does a unit smart lock have to follow that rule?
+3. If the leaseholder moves out or passes away, how does the rest of the household keep control of the lock?
+The owner's lock and the owner's duties
+4. Our door already has two locks of different ages — which one should the smart lock replace?
+5. The landlord's lock on our apartment door is broken — should we just swap in a smart lock ourselves?
+6. Can the landlord bill us, or raise the rent, because we added a lock of our own?
+7. The street door downstairs no longer latches — is that ours to fix or the owner's?
+Old doors and changed buildings
+8. Decades of paint have built up on our door and frame — does that matter for a new lock?
+9. I rent a stabilized apartment in a building that went co-op — whose rules apply to my door, the board's or the law's?
+Coming and going on a working day
+10. I come home from a night shift at 3 a.m. — what is the quickest way in that doesn't depend on fishing for keys or a phone?
+11. I already carry keys for the street door, the inner door and the mailbox — is a keypad on the apartment worth it?
+People, trust and technology
+12. Someone who used to stay with us still has a key — can we change the lock to keep them out?
+13. What happens to our lock if the company behind its app stops supporting it?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Do we have to register a lock we add to our apartment door with the landlord or the city?
+2. Our building is about to get a new lobby entry system — should we wait before fitting a lock on our apartment?
+3. Can we send a one-time code to a relative arriving at the George Washington Bridge Bus Station before we get home?
+4. Can you fit a door viewer or digital peephole at the same visit?
+5. The building handyman offered to put our smart lock in — what should we check first?
+6. How far ahead should we book a Washington Heights installation?
+7. Is there anything you won't install on a rental apartment door?
+8. How do we know the person at the building door is really your installer?
+
+### Other question-form headings
+- H2 "Smart Lock Acting Up Above 155th Street?" (repair capture)
+- H2 "Ready to Stop Copying Keys for the Family?" (mid CTA)
+- H2 "Locked Out on a Washington Heights Landing Tonight?" (final repair capture)
+- H3 "National alarm brands or a local installer?" (equipment comparison table)
+
+De-dup notes: deliberately avoided register intents — renter adding lock without asking (NYC Q1), landlord gets code/key (NYC Q2), app-only entry (NYC Q3), move-out (NYC Q4), board approval (NYC Q5), grandma without smartphone / app language / home attendant schedule (Queens), elderly parent alone / ambulance entry (SI, Suffolk, Westchester), fifth-floor walk-up surcharge and meet-the-super (Bronx), historic-district approval for a keypad (Ulster), area-rate pricing question (Bronx/SI/Manhattan pattern — replaced by a registration question), Bronx "rent cut when building door lock breaks" (Q7 here is about who is responsible and how to report). Partial overlaps for the main run to judge: Q3 (household control after the leaseholder leaves) vs New Dorp "only phone with admin rights lost" (different trigger, both recommend a second administrator); Q6 (charge/rent for the tenant's own added lock) vs Greenpoint "rent-stabilized — landlord raise rent for a new street-door keypad" (different payer/door); Q7 (street door not latching — whose job) vs Greenpoint "what makes a walk-up street door stop short of latching" (responsibility vs mechanical cause).
+
+## Greenpoint, Brooklyn (smart-lock-installation-greenpoint-brooklyn-ny)
+
+Built 2026-10-17 by the Greenpoint builder subagent (batch: New Dorp SI, Washington Heights MN, Greenpoint BK). Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless scraped); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, directQuote).
+
+Thesis / lane: in Greenpoint the door that matters is shared — the walk-up street door (closer/latch first, then keypad + electric strike, buzzer and USPS arrow lock kept on the same strike), the second hall door of a railroad flat, the side door to the flats beside a Manhattan Ave / Franklin St shop, restaurant back doors (Sept 2026 crowbar burglaries), shared freight doors in maker buildings (GMDC), cellar bike rooms; plus sided shipwright-era frame houses, the Greenpoint Historic District, small self-managed condos, rent-stabilized MCI rules, waterfront towers (prose only) and creek-side cellar doors (prose only).
+Silo-wide findings reused, not re-fetched: Fixr $250–$400 / avg $300 (S1), Bob Vila "only a Phillips screwdriver" (S2), August retrofit single-cylinder only (S3), August Connect 10–15 ft (S4), Thread border router same ecosystem (S5/S6), MDL 51-c (N1), TDPA LL63/2021 (N4), Admin Code 26-521 (N9), LPC Permit Guidebook hardware (Brooklyn B4), MDL §4 three families (Brooklyn B8), SafeWise/NY Post 7.8M packages (Brooklyn B1).
+
+### Local research
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| G1 | `Greenpoint Historic District Landmarks Preservation Commission 1982 designation rowhouses Milton Street` · FC search → FC scrape (pdf) | https://s-media.nyc.gov/agencies/lpc/lp/1248.pdf | Designated September 14, 1982. Streets in report: Greenpoint Ave, Milton, Calyer, Clifford Pl, Franklin, Guernsey, Kent, Lorimer, Manhattan Ave, Noble, Oak. "Many of the frame houses on Milton Street and Noble Street were erected to house the workers employed in the shipyards, and some of the houses were actually built by shipwrights and ship carpenters." "Franklin Street has buildings from the early 1850s with shops on the ground floor and flats above making it the area's first commercial center." Flathouses "originally designed with two stores on the ground floor and apartments for two families on each of the three upper stories." Repeated notes of "original double wooden doors" retained or replaced; frame houses "now covered with asphalt siding", "sheathed in aluminum siding". "Most of the houses are brick, dating from between 1870 and 1892, and are designed in the Italianate or neo-Grec styles." | §5 paras 1–3, §5.5 bullet 1, §7 cards + §7.5, §8.5 landmark bullet, §10.5 H3 5, §13 card 1, Sources |
+| G2 | same search | https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/dil-bk-greenpoint/ (excerpt) | HDC: Greenpoint HD "Designated September 14, 1982." Corroboration. | research only |
+| G3 | `Furman Center Greenpoint Williamsburg community district homeownership rate housing units` · FC search → FC scrape | https://www.furmancenter.org/neighborhoods/greenpoint-williamsburg/ | 2024 homeownership 16.6% vs 32.7% citywide; 2010–2025 added 27,675 units (21,190 market, 6,485 income-restricted); sales 2025: 1-family 13, 2–4 family 101, 5+ family 79. (Population row misaligned in scrape → not used.) | §5 para 4, §5.5 bullets 2–4, §10.5 H3 7 |
+| G4 | `Greenpoint Brooklyn package theft OR burglary 94th Precinct 2025 Greenpointers` · FC search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/94th-precinct.page (excerpt) | 94th Precinct serves "the northernmost portion of Brooklyn, consisting of, primarily, the neighborhood of Greenpoint." | research only (precinct named via Wikipedia G9) |
+| G5 | `Greenpointers package thief arrested OR stolen packages Greenpoint 2026` · FC search → FC scrape | https://greenpointers.com/2026/09/24/burglary-spree-targets-multiple-greenpoint-restaurants-on-the-same-day/ (Jennifer Rosini-Gentile, Sept 24 2026) | Sept 12 2026: Franklin St restaurant — "They forced open our back door with a crowbar"; NYPD: rear door, ~$13,000 cash + liquor; Greenpoint Ave restaurant entered "though a hatch" (~$2,000 + blank checks); attempted crowbar entry at another Franklin St address "failed to gain entry"; a bar burglary ~1 a.m. Businesses not named on page. | §5 para 5, §6 card, §8 Franklin card, §9 back-door Q, door plan (roof hatch), Sources |
+| G6 | same search | https://brooklyn.news12.com/police-urge-greenpoint-residents-to-be-on-the-lookout-for-package-thieves-34780323 (FC scrape; body empty, metadata only) | Nov 11 2015 (og:url date): police warned Greenpoint residents about a man and woman "caught on camera stealing packages from" apartment buildings. | §10.5 H3 4 |
+| G7 | `reddit r/greenpoint packages stolen building front door lock` · FC search | https://www.reddit.com/r/Greenpoint/comments/1izv285/be_alert_apartment_theft_near_mcgolrick_park/ ; https://www.reddit.com/r/Greenpoint/comments/1kcti4r/psa_i_opened_the_door_to_a_delivery_guy_that/ ; https://www.reddit.com/r/Greenpoint/comments/1srvgjt/package_stolen_again/ (excerpts only) | McGolrick: "it's a very secure double door, Someone recently picked the lock … to steal packages"; PSA: "Less than 45 seconds later, he walks out with a trash bag full of packages … They showed up in under two minutes"; "Package stolen AGAIN" (police: "these things happen"). Thread bodies not retrieved. | §5 para 5, §9 lock-picking Q, §9 "delivery" buzz-in Q, §10.5 H3 4 |
+| G8 | `reddit Greenpoint railroad apartment two doors hallway kitchen door` · FC search | https://www.reddit.com/r/Greenpoint/comments/1moo1rj/apartment_inspo/ ; https://www.reddit.com/r/NYCapartments/comments/1mwxva6/question_about_doors/ (excerpts) | r/Greenpoint: "Usually a door into the kitchen and one into the front bedroom. 2 apartments on each floor with a hallway in the middle. That's a railroad"; r/NYCapartments: "two doors from my unit leading to the hallway/stairs. Both doors are flimsy hollow core doors". | §5 para 3, §7 railroad card, §9 railroad Q |
+| G9 | https://en.wikipedia.org/wiki/Greenpoint,_Brooklyn · FC scrape | same | Northernmost Brooklyn neighbourhood; borders Newtown Creek/LIC, East River, McCarren Park/Bushwick Inlet Park, BQE; "Little Poland"; CD1; ZIP 11222; 94th Precinct, 100 Meserole Ave; industries shipbuilding, porcelain, glassworks; Monitor built at Continental Ironworks; "by the 1880s the neighborhood housed 18 of the 20 glass makers in the city of Brooklyn"; Greenpoint Landing "ten residential towers containing 5,500 units", construction began 2015, completion expected before 2027. | §5 para 1, §8 Manhattan Ave card, §13 towers section, Sources |
+| G10 | `Greenpoint Landing towers units Blue Slip Eagle + West Greenpoint waterfront apartments 2025` · FC search | https://newyorkyimby.com/2022/12/eagle-west-waterfront-towers-debut-at-1-eagle-street-in-greenpoint-brooklyn.html (excerpt) ; https://streeteasy.com/building/eagle-west (excerpt) | Eagle + West, 745 units, 1 Eagle Street, OMA, towers 30 and 40 storeys; master plan ~22 acres, 5,500 apartments; "fourth and final residential project Brookfield Properties and Park Tower Group have developed together". | §5 para 4, §5.5 bullet 5, §13 card 5, towers section |
+| G11 | `Eberhard Faber Pencil Company Historic District designated 2007 Greenpoint Kent Street West Street` · FC search | https://en.wikipedia.org/wiki/Eberhard_Faber_Pencil_Factory ; https://www.citylandnyc.org/council-oks-eberhard-faber-pencil-hist-dist/ ; NYC Landmarks Facebook post (excerpts) | Designated as an LPC historic district in 2007; Greenpoint Avenue and Kent and West Streets; buildings "dating from the 1880s to the 1920s" (CityLand). | §13 card 3 |
+| G12 | `Astral Apartments Franklin Street Greenpoint 1886 Charles Pratt landmark designation` · FC search | http://s-media.nyc.gov/agencies/lpc/lp/1194.pdf ; https://en.wikipedia.org/wiki/Astral_Apartments (excerpts) | Built 1885–86 by Charles Pratt "for workers in the Greenpoint area"; "block-long brick and terra cotta building"; for employees of Astral Oil Works. | §13 card 2 |
+| G13 | `Transmitter Park Greenpoint WNYC opened 2012 McGolrick Park Monsignor McGolrick` · FC search | https://en.wikipedia.org/wiki/McGolrick_Park ; https://mcgolrick.org/home-1 ; Apple Maps listing (excerpts) | Land acquired 1889, open by 1891; "ten acres of London Plane-lined walkways"; between Driggs Ave, Russell St, Nassau Ave. (Transmitter Park: no result → not used.) | §13 card 4 |
+| G14 | `Greenpoint Manufacturing and Design Center GMDC tenants buildings Manhattan Avenue Greenpoint small businesses` · FC search | https://gmdconline.org/gmdc_buildings/1155-1205-manhattan-avenue/ ; https://gmdconline.org/about-2/ (excerpts) | 1155–1205 Manhattan Ave complex "has 76 small business and artisan tenants, and 360 employees"; about page: 360,000 sq ft complex, "more than 70 small businesses". | §5.5 bullet 6, §8 card, §13 card 6 |
+| G15 | `Greenpoint Little Poland Nassau Avenue Manhattan Avenue Polish businesses history` · FC search | https://en.wikipedia.org/wiki/Greenpoint,_Brooklyn (excerpt: "Manhattan Avenue is the heart of what residents call Little Poland") ; manhattanwalkingtour.com (excerpt) | Manhattan Ave = heart of Little Poland; Nassau Ave commercial corridor. | §8 cards |
+| G16 | `Greenpoint Hurricane Sandy flooding Newtown Creek basements flood zone Greenpoint` · FC search | https://www.newtowncreekalliance.org/what-does-hurricane-sandy-reveal-about-newtown-creek/ ; https://www.reddit.com/r/Greenpoint/comments/1japkp4/superstorm_sandy_flooding_question/ ; https://firststreet.org/neighborhood/greenpoint-ny/7600_fsid/flood (excerpts) | NCA: storm drains "lack tide gates, allowing the creek water to creep up behind properties"; Reddit: "several houses further east on the same street had water in their basements"; First Street: "925 properties in Greenpoint that have risk of flooding over the next 30" years. | Cellar & rear doors section |
+| G17 | `USPS arrow lock key apartment building entrance mail carrier access postal lock intercom` · FC search | https://en.wikipedia.org/wiki/Arrow_lock ; https://butterflymx.com/blog/usps-key-keeper/ ; https://www.intercomsonline.com/obtain-usps-access-master-lock (excerpts) | Key keepers secured with an arrow lock let carriers into unstaffed multifamily lobbies; carrier opens keeper with master key to get the building key; intercoms with a USPS key lock exist as an alternative. | §9 postal-key Q, §10 comparison table |
+| G18 | `HCR major capital improvement MCI intercom door entry system eligible rent stabilized 2019 HSTPA rules` · FC search → FC scrape (pdf) | https://hcr.ny.gov/fact-sheet-24 (fact-sheet-24-04-2025.pdf) ; https://hcr.ny.gov/apartment-iai-and-building-mci-improvements | MCI must be new installation not repair; prohibited where 35% or fewer units rent-regulated; capped 2%/yr; written DHCR order; temporary, removed after 30 years; tenants 60 days to respond; lobby doors need no other agency approval. IAI needs tenant written consent if occupied. | §9 rent-stabilized Q, Sources |
+| G19 | https://hcr.ny.gov/fact-sheet-33 · FC scrape (pdf) | same (fact-sheet-33-09-2019.pdf) | Useful life schedule: "Intercom System 15"; "Television Security 10". | §9 rent-stabilized Q |
+| G20 | `NYC apartment building bicycles stored in hallway fire code obstruction means of egress HPD FDNY` · FC search | https://hpdsigns.nyc/maintenance-of-the-means-of-egress-ny-fc-1027/ ; https://up.codes/s/personal-property ; https://www.nyc.gov/assets/fdny/downloads/pdf/about/Chapter-10.pdf (excerpts) | NYC FC 1027 (1027.4.5/1027.4.6 per source): "Bicycles, baby strollers, shall not be stored in building hallway corridors, except as may be authorized or allowed by the department." Section number differs between sources → page says "section 1027". | §9 bike-room Q, Sources |
+| G21 | NYC SBS BID directory (Brooklyn B11 in silo file, not re-fetched) | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page | Brooklyn BID list contains no Greenpoint BID. | §8 sentence ("none of Greenpoint's own avenues appears among the borough's BIDs") |
+
+### Prices used (Brooklyn ×1.00 — none invented; same sources as the Brooklyn section)
+- Single-door keypad or fob reader with electric strike $1,500–$2,500 installed (access-control-installation-brooklyn.html) — §10.5 H3 1, §14, §15 Premium, Service schema.
+- New electric strike $250–$450; failed strike repair $295–$485 (door-buzzer pages) — repair capture, §14, §15 Standard, schema.
+- Setup-only visit $195 first hour then 30-min blocks (research/tv-mounting-prices/BRIEF.md) — §14 (same flag for Anwar as the Brooklyn page).
+- $195/hr, 3-hour minimum ($585) — blueprint §9 — §14.
+- Private-door smart lock — no AESS figure → "quoted flat at free walkthrough".
+- Fixr national $250–$400, avg $300 — labelled third-party — §10.5 H3 1, §14.
+
+### EMPTY (not accessible in build env)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 states this and uses published cost-guide/manufacturer claims.
+- Yelp 1–3★ Greenpoint locksmith / smart-lock: EMPTY (not accessible in build env).
+- Reddit thread bodies: excerpts only (G7, G8, G16); full text EMPTY.
+- News 12 Brooklyn 2015 article body: EMPTY (metadata/description only).
+- Transmitter Park / WNYC: search returned no Transmitter Park page → not used.
+- Local news on smart locks specifically in Greenpoint (Greenpointers, Brooklyn Paper, BK Reader): none found → EMPTY.
+- Field Notes: no sourced Greenpoint install anecdote → written as a working routine and labelled so.
+
+## Images (11)
+
+Permanent image rule (Drive folder `AESS Website Photos/Smart Lock Installation` empty; CompanyCam not connected). Sources chosen from brooklyn/queens-named files in images/low-voltage and images/commercial-security per batch assignment; every photo viewed before naming. Most are the same photographs (by appearance) as files used on the hubs/Bronx/SI pages — the library has few distinct door-hardware photos. The library photos look AI-rendered (same note as earlier smart-lock and soundbar pages) — needs Anwar's review; real smart-lock photos should replace them. Captions/alt describe only what is visible; none claims a Greenpoint address or customer.
+
+| New file (images/smart-lock-installation/) | Source | What it shows |
+|---|---|---|
+| smart-lock-installation-greenpoint-electric-strike-glass-door-fitting.webp (hero, eager) | images/commercial-security/commercial-security-systems-brooklyn-electric-strike.jpg | Tech kneeling, fitting an electric strike in an aluminium glass door frame; small reader and "Employees and visitors please use main entrance" sign |
+| smart-lock-installation-greenpoint-entry-panel-back-box-wiring.webp | images/low-voltage/low-voltage-installation-brooklyn-13-video-intercom-entry-wiring.jpg | Tech wiring the open back box below a stainless keypad video entry panel; "Visitors press button for assistance" sign |
+| smart-lock-installation-greenpoint-keypad-and-camera-two-tech-entrance.webp | images/commercial-security/commercial-security-systems-brooklyn-alarm-keypad.jpg | Two techs: one mounting a camera above a glass door, one fitting a slim keypad on the frame |
+| smart-lock-installation-greenpoint-keypad-strike-push-to-exit-door.webp | images/low-voltage/low-voltage-installation-queens-electric-strike-keypad.jpg | Tech wiring a strike on a glass door with wall keypad and "Push to Exit" button |
+| smart-lock-installation-greenpoint-strike-terminal-wiring-closeup.webp | images/low-voltage/low-voltage-installation-queens-electric-strike-wiring.jpg | Close-up of gloved hands on electric strike terminals with a 12/24 V wiring label |
+| smart-lock-installation-greenpoint-maglock-header-storefront-door.webp | images/low-voltage/low-voltage-installation-queens-maglock-install.jpg | Tech fitting a maglock to a glass storefront door header, street visible through glass |
+| smart-lock-installation-greenpoint-card-reader-aluminum-door-frame.webp | images/low-voltage/low-voltage-installation-brooklyn-14-access-control-reader-wiring.jpg | Tech pressing a card reader onto a narrow aluminium door frame |
+| smart-lock-installation-greenpoint-maglock-terminal-block-wiring.webp | images/low-voltage/low-voltage-installation-brooklyn-hero-door-lock-wiring.jpg | Gloved hands wiring a terminal block on a door-frame lock housing beside a maglock body |
+| smart-lock-installation-greenpoint-metal-stud-framing-cable-rough-in.webp | images/low-voltage/low-voltage-installation-brooklyn-03-metal-stud-rough-in.jpg | Two techs in hard hats pulling blue cable through open metal-stud framing |
+| smart-lock-installation-greenpoint-crew-van-unloading-tool-cases.webp | images/commercial-security/commercial-security-systems-brooklyn-crew-van.jpg | Two techs unloading tool cases from a white AESS van at a building entrance |
+| smart-lock-installation-greenpoint-tone-tracer-wall-jack.webp | images/low-voltage/low-voltage-installation-queens-tone-generator-trace.jpg | Tech tracing a cable at a wall plate with a tone probe and generator, rack to one side |
+
+Rejected after viewing: commercial-security-systems-brooklyn-credential-programming (readable cardholder names on screen — same reason the NYC hub rejected it; converted then deleted), -brooklyn-video-intercom (named business centre sign + address), -brooklyn-access-reader (named business centre on glass), low-voltage-installation-queens-lobby-video-intercom ("123 Main Street" directory).
+
+## Question register — smart-lock-installation-greenpoint-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. What makes a walk-up street door stop just short of latching, and how is that fixed?
+2. Someone picked the lock on our building's double front door to get at the parcels — would an electronic lock have been harder to beat?
+3. A stranger said "delivery" over the intercom and walked out with a bag of parcels — what at the door would have changed that?
+4. The mail carrier opens our street door with a postal key — will that still work after a keypad goes in?
+5. Our railroad flat has two doors onto the stair hall — should both get smart locks?
+6. Can the cellar bike room in our walk-up get a keypad so bikes stop crowding the hallway?
+7. Our frame house was covered in aluminium siding decades ago — does that change how a keypad or doorbell camera is mounted by the door?
+8. After the Franklin Street restaurant burglaries of September 2026, what does an electronic lock add on a back door that a plain deadbolt does not?
+9. Four small manufacturers share one freight door in our converted factory — can each have codes and a record of who opened it?
+10. Our six-unit condo has no managing agent — who decides on a street-door keypad, and who holds the admin login?
+11. We are rent-stabilized — can the landlord raise our rent to pay for a new keypad on the street door?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. Does a lock used by a dozen households a day drain its batteries faster — should a busy street door be wired instead?
+2. Does wiring a keypad on our street door mean opening the walls of the stair hall?
+3. Can tenants tap a phone instead of punching in a code at the street door?
+4. Can the owner get an alert when the street door is propped open?
+5. Can the old intercom be replaced at the same visit as the street-door keypad?
+6. Can the street door open itself for a resident who uses a wheelchair?
+7. During a blackout, does an electric-strike street door stay locked or swing free?
+8. If someone vandalises the keypad on our street door, do all the codes have to be entered again?
+
+### Other question-form headings
+- H2 "Street Door Not Latching or Keypad Dead in Greenpoint?" (repair capture)
+- H2 "Ready for a Street Door Everyone Can Use and No One Can Prop?" (mid CTA)
+- H2 "Shut Out of a Greenpoint Walk-Up, Shop or Studio Tonight?" (final repair capture)
+
+### De-dup notes
+Checked by meaning against every register in research/smart-lock-installation.md and against the two batch-mates on disk (Washington Heights, New Dorp) at build time. Changed during build: paint-buildup FAQ (= Washington Heights FAQ "Decades of paint…") → replaced with keypad-vandalism FAQ; bar "unlock for opening hours, relock at closing" Q (= New Dorp "shop's front door unlock itself at opening time…") → moved to non-question prose in §8; crowbar "lock or door is the weak point" Q (= New Dorp "crowbar … lock or the frame?") → rewritten to the different intent "what an electronic lock adds" (logs/alerts/keys); street-door-latching Q reworded to cause/fix to stay clear of Washington Heights "street door no longer latches — ours to fix or the owner's?" (responsibility). Deliberately avoided: Brooklyn Q12 (Greenpoint condo sponsor admin rights) — towers covered as prose only; Queens app-language and basement-flood intents; Bronx Q14 / Dutchess Q12 shop-and-flats shared stair door — covered in prose only; HV Q11 landmark keypad approval — prose only; every area-cost question — no cost question on this page (prices in §14 only).
