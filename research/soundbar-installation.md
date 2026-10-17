@@ -531,3 +531,293 @@ Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not conne
 | soundbar-installation-manhattan-office-ceiling-grid-cable.webp | low-voltage-installation-manhattan-03-ceiling-grid-bundle-pull.jpg | no |
 | soundbar-installation-manhattan-entry-intercom-panel-wiring.webp | low-voltage-installation-manhattan-13-video-intercom-entry-wiring.jpg | no |
 DAILY-LOG note: `images: 11 reused from images/low-voltage/ (no real soundbar-installation photos yet)`.
+
+
+# Builder notes — soundbar-installation-brooklyn (batch 2026-10-17)
+
+## Brooklyn (soundbar-installation-brooklyn)
+
+Built 2026-10-17. Format: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+Thesis: three Brooklyn shells (masonry rowhouse with party wall + chimney breast; 19th-c. wood-frame house with brick nogging; post-2004/2005-rezoning concrete/steel-stud towers) + the shared house (bass through party walls/joists, owner-landlords with tenants).
+Silo-wide findings (pricing, eARC, Dolby ceiling, Sonos/Samsung/Sanus specs, Angi/Thumbtack/HomeWyse claims, DEP Noise Code, ADA 307.2) reused from research/soundbar-installation.md — not re-fetched except where noted.
+
+### Building stock / stats (§5, §5.5)
+- `Kings County` QuickFacts · Firecrawl scrape · https://www.census.gov/quickfacts/fact/table/kingscountynewyork/PST045224 · pop. 2,653,963 (July 1, 2025, V2025); housing units 1,141,824 (July 1, 2025); owner-occupied rate 29.5% (2020–2024); median gross rent $1,833 · §5 para 1 & 5, §5.5 bullets 1–2.
+- `Downtown Brooklyn 2004 rezoning new apartments built since number of units residential towers` · Firecrawl search → https://www.planetizen.com/news/2025/08/135887-brooklyn-built-3700-homes-6-months-and-its-nowhere-near-done (scraped): "Since its rezoning in 2004, downtown Brooklyn has added close to 27,000 new housing units" (Aug 19, 2025, citing New York Post) · §5 para 4, §5.5 bullet 3.
+- `Greenpoint-Williamsburg rezoning 2005 waterfront high-rise towers Kent Avenue residential units` · Firecrawl search → https://greenpointers.com/2025/05/13/a-walking-tour-looks-back-on-the-legacy-of-the-2005-greenpoint-williamsburg-waterfront-rezoning/ (excerpt): "In 2023 alone, 2,306 units were added—the most of Brooklyn's community boards for that year." Also https://rwv.rutgers.edu/wp-content/uploads/2020/08/2007-Rezoning-in-Williamsburg-Report.pdf: rezoning approved May 2005 · §5 para 4, §5.5 bullet 4, §13 Domino card.
+- `brownstone rowhouse construction party wall floor joists bear on party walls brick Brooklyn brownstoner` · Firecrawl search →
+  - https://www.brownstoner.com/forum/other/wall-thickness/ (scraped): "There's a myth that brownstones and rowhouses have very thick party walls … even if that means an 8″ thick wall, it is frighteningly easy to break through." · §5 para 2, Q&A party-wall drilling.
+  - https://www.brownstoner.com/interiors-renovation/bed-stuy-brooklyn-wood-frame-renovation-level-floors-sister-joists-reinforce-brick-nogging-tips/ (scraped, Dec 22, 2021): Bed-Stuy wood frame — "party and exterior walls were built with brick and mortar between wood timber posts … called 'brick nogging' … By 1882 this practice was no longer common"; joists in wall pockets · §5 para 3, §7 cards + methods, Q&A nogging question, Field Notes.
+  - https://www.brownstoner.com/forum/building-code/rules-regarding-a-party-wall/ (excerpt only): "it is illegal to pocket a floor joist into the masonry chimney breast, not only because of the one-wythe of brick issue" · §7.5 chimney-breast method, Q&A chimney-breast question.
+- `Kings County Brooklyn housing units built before 1940 percent median year structure built ACS` · Firecrawl search → only generic/CD-level results (popfactfinder BK17). Borough-wide year-built figure NOT obtained → not used.
+
+### Landmarks (§13) and districts
+- `Brooklyn Heights Historic District first historic district New York City 1965 rowhouses` · Firecrawl search → https://thebha.org/neighborhood/ : 1965, NYC's first historic district; boundaries Old Fulton St → Atlantic Ave, Cadman Plaza/Court St → Promenade/East River · §5.5 bullet 5, §13 card.
+- `Stuyvesant Heights Historic District Bedford-Stuyvesant brownstones designated 1971 expanded 2013` · Firecrawl search → https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/ : Stuyvesant Heights HD 1971; Bed-Stuy/Expanded Stuyvesant Heights HD designated Apr 16, 2013, ~825 buildings; https://hdc.org/borough/bedford-stuyvesant/ (designated Sept 14, 1971) · §13 card, §5.5 bullet 5.
+- Park Slope HD 1973 — from silo research (hub NYC) · §5.5 bullet 5 ("followed with districts of their own").
+- `Prospect Park South Historic District Victorian Flatbush freestanding houses designated 1979 Dean Alvord` · Firecrawl search → https://cityneighborhoods.nyc/prospect-park-south (freestanding Victorian houses; LPC historic district 1979); https://brooklyneagle.com/80910/victorian-flatbush-photos/ (Dean Alvord bought 50 acres right before the turn of the 20th century) · §7 card, §13 card.
+- `Brooklyn Tower tallest building Brooklyn 1,066 feet DeKalb Avenue apartments` · Firecrawl search → https://en.wikipedia.org/wiki/Brooklyn_Tower (first supertall in Brooklyn; tallest in NYC outside Manhattan); https://www.cityrealty.com/nyc/downtown-brooklyn/the-brooklyn-tower-85-fleet-street/68952 (93 storeys, 1,066 ft, incorporates Dime Savings Bank, alt address 9 DeKalb Ave); 6sqft excerpt: ~150 condos + ~400 rentals · §13 card (condos + rentals, no unit count used).
+- `Spring Creek Towers Starrett City 5,881 apartments 46 buildings Brooklyn` · Firecrawl search → https://twinpinesmgt.com/community-residents/ (46 buildings, 5,881 units, 152 acres); https://en.wikipedia.org/wiki/Starrett_City (11–20 storeys); https://www.springcreektowers.com/ (153 acres, Jamaica Bay) → page says "about 150 acres" · §5.5 bullet 6, §7 card, §13 card.
+- `Domino Sugar Refinery Williamsburg waterfront redevelopment apartments Domino Park opened 2018` · Firecrawl search → https://dominopark.getanchor.io/footer/aboutindex.html (June 2018 opening) · §13 card.
+
+### Commercial corridors (§8)
+- `Fulton Mall Downtown Brooklyn shopping district …` · Firecrawl search → https://en.wikipedia.org/wiki/Fulton_Street_(Brooklyn) : Fulton Mall = pedestrian and transit mall on Fulton St between Flatbush Ave and Adams St · §8 card.
+- `Bay Ridge 86th Street BID Fifth Avenue Third Avenue restaurants bars corridor` · Firecrawl search → https://www.bayridgebid.com/ (5th Ave BID; posts tag @86streetbid, @merchantsof3rdave); https://thevalvoteam.com/blog/bay-ridge-doesnt-have-one-main-street-it-has-three-and-this-summer-finally-showed-why (Third Ave, Fifth Ave, 86th St) · §8 card ("each with its own BID or merchants' group"), Game-Day section.
+- `Industry City Sunset Park 35 acres 16 buildings tenants food hall` · Firecrawl search → https://industrycity.com/ ("6-million-square-foot ecosystem"); Instagram/Facebook excerpts: 16 buildings, 35 waterfront acres · §8 card.
+- Williamsburg/Greenpoint, neighbourhood strips, lobbies: described generically, no stats.
+
+### Regulation
+- `Landmarks Preservation Commission interior work historic district permit …` · Firecrawl search + scrape → https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property : LPC permit needed for any work needing a DOB permit; CNE for interior work needing DOB permit that doesn't change protected features; simple repairs need no review · §8.5 bullet, Q&A LPC question, §10.5 claim six. (https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page — excerpt only: ordinary repairs need no LPC permit.)
+- NYC Noise Code / DEP summary, ADA 307.2, DOB low-voltage — reused from silo research (flagged there).
+
+### Local Reddit / news
+- `Brooklyn 311 noise complaints 2025 borough most complaints residential loud music` · Firecrawl search → https://www.reddit.com/r/Brooklyn/comments/1w7rx8i/loud_music_resolution_help/ (excerpt): "submit the 311 complaints AFTER 10:00pm. You may need to use a noise level meter" · §5 para 5, §10.5 claim five. NY Post Apr 2026 (463,349 residential complaints) known from silo research — not used on this page.
+- `reddit Brooklyn brownstone neighbor bass soundbar subwoofer through wall` · Firecrawl search → only non-Brooklyn threads (r/Apartmentliving, r/AskNYC 17558ob "deep bass travels through", r/neighborsfromhell). Context only, not quoted.
+- Brooklyn-specific local news on soundbars/TV audio (Brooklyn Paper, BK Eagle, Patch): EMPTY (nothing service-relevant returned).
+
+### Not accessible / empty
+- Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 uses cost-guide claims from silo research (Angi, Thumbtack, HomeWyse, Dolby).
+- Yelp 1–3★ Brooklyn: EMPTY (not accessible in build env).
+
+### Images (11, permanent image rule — from images/low-voltage/low-voltage-installation-brooklyn-*)
+display-mount-recessed-media-box ← 11-conference-room-display-cabling.jpg (hero, eager) · crew-office-floor-cable-pull ← hero-crew-cable-pull.jpg · keystone-wall-plate-terminating ← 09-keystone-wall-plate-termination.jpg · metal-stud-cable-rough-in ← 03-metal-stud-rough-in.jpg · jhook-cable-pathway ← 02-jhook-pathway-bundle.jpg · restaurant-ceiling-speaker-fit ← 12-restaurant-ceiling-speaker.jpg · ceiling-wifi-access-point ← 10-ceiling-access-point-drop.jpg · network-rack-patching ← 06-idf-rack-patching.jpg · ceiling-grid-cable-feed ← 04-ceiling-grid-bundle-pull.jpg · cable-certification-tester ← 08-fluke-certification-pass.jpg · patch-panel-punch-down ← 07-cat6-patch-panel-punchdown.jpg. Skipped: fiber splice x2, idf-patch-panel-build (clear face profile / readable floor-plan sheet), access-point-lift, van-load-out, retail-store (face profiles), 05 warehouse camera, 13 intercom, 14 access reader, hero-door-lock (not AV).
+
+## Question register — soundbar-installation-brooklyn
+
+§9 Q&A (H3), grouped under non-question H2s (Masonry, flues and old brick · Sound in a shared house · New towers in Downtown Brooklyn and on the waterfront · Landmark blocks and renovations):
+1. Can the soundbar go on the chimney breast in a brownstone parlor, and does the old flue get in the way?
+2. How do you stop the drill from coming out the other side of a party wall into next door?
+3. The wall in our Bed-Stuy frame house has brick between the studs — how does a bracket get a solid grip?
+4. Can the new soundbar bracket reuse holes the last owner left in the brick?
+5. Our floor-through shares a party wall with the next house — does bass really travel sideways through brick?
+6. What do night mode and dialogue enhancement actually change for late viewing?
+7. We own the brownstone and rent out the garden apartment — where should our living-room soundbar go?
+8. In a new Downtown Brooklyn rental, can you drill the concrete column or only the drywall?
+9. The TV wall is the sound-rated partition between our apartment and the neighbour's — can a bracket go on it without spoiling the soundproofing?
+10. Our router is in the garden apartment we rent out — how does the soundbar on our parlor floor get a reliable connection?
+11. Does the Landmarks Preservation Commission have to approve a soundbar in a historic-district house?
+12. We are gutting the parlor floor — what should be roughed in for the soundbar before the walls close?
+13. The old walls bow and lean — how do you keep the bar looking straight under the TV?
+
+§17 FAQ (visible == FAQPage, 9):
+1. Do you charge extra to come out to Coney Island, Canarsie or Bergen Beach?
+2. We're moving between two Brooklyn apartments. Can you take the bar down at one and put it up at the other?
+3. What if my landlord says no holes after I've already booked a wall mount?
+4. Can the soundbar share the TV's outlet, or does it need its own?
+5. Which soundbar brands do you install?
+6. Do you need the power or water turned off while you work?
+7. How quickly will someone get back to me after I send the form?
+8. Will someone show me how to work the soundbar before you leave?
+9. Can you work from my architect's or designer's drawings for a renovation?
+
+Other question-form headings (repair capture / CTA): "Brooklyn Soundbar Dropping Out or Pulling Off the Wall?", "Want the Brooklyn Price in Writing?", "Brooklyn Soundbar Misbehaving Tonight? We Can Help" (no "?" at end).
+
+De-dup notes: dropped "floor-to-ceiling glass — where can a soundbar go?" and "Wi-Fi soundbar in a tower full of networks" (same intents as Queens LIC window-wall and LIC Wi-Fi questions) and the turntable FAQ (Queens "phone or record player" FAQ). Avoided register intents: COI/board approval, freight elevator, plaster cracking, brick party wall "is it a problem", concrete anchoring, sub below neighbours, noise code, renter wire hiding, deposit, small rooms, dialogue clarity, cost FAQs, outlet add/move, patch & paint, reschedule, warranty, one remote, hours, LI/HV coverage, Atmos/vaulted ceilings, mantel vs wall, attic/basement routing, niche/alcove, loft brick, optical-only TV.
+
+
+# Builder notes — soundbar-installation-queens (batch 2026-10-17)
+
+## Queens (soundbar-installation-queens)
+
+Built 2026-10-17 (batch: Brooklyn / Queens / Bronx borough pages). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape in query/directQuote mode. Silo-wide findings already in research/soundbar-installation.md (NYC/LI/HV builder notes) were reused where noted ("silo file"); nothing below is inferred to fill a gap.
+
+Thesis: in Queens the noise problem often runs inward (LaGuardia departures, the elevated 7, boulevard traffic), the housing is a mix of owner-occupied attached/two-family houses, garden co-ops, Mitchell-Lama/post-war tower complexes and LIC glass towers, and households are unusually multilingual and multigenerational — so the page centres on speech clarity, language tracks, hearing-aid coexistence, masonry/older-wiring realities and basement flood planning.
+
+### Mandatory sources (§3)
+1. Reddit
+   - `reddit r/Queens OR r/astoria mount TV apartment landlord soundbar neighbors noise` · Firecrawl search → no Queens-specific soundbar thread; general excerpts only (r/neighborsfromhell "Soundbar in apartments, why?" https://www.reddit.com/r/neighborsfromhell/comments/1cos6iy/soundbar_in_apartments_why/ ; r/Apartmentliving shared-wall TV https://www.reddit.com/r/Apartmentliving/comments/1qx46k3/if_you_must_mount_your_tv_on_a_shared_wall/). Not quoted on page.
+   - `reddit Queens apartment next to 7 train noise vibration living Roosevelt Avenue` · Firecrawl search:
+     - https://www.reddit.com/r/Queens/comments/fo6z6g/i_want_to_move_into_an_apartment_in_jackson/ — excerpt "The train will be loud. I can hear it from my apartment, it is not bad but if you are right on Roosevelt it could be." → §5 THE NEIGHBORHOOD para 4.
+     - https://www.reddit.com/r/Queens/comments/wd3xo1/how_much_of_a_problem_is_street_music_near/ — excerpt "Living along Roosevelt Ave is going to be super loud because of all the bars and the train" → §5 para 4.
+     - https://www.reddit.com/r/longislandcity/comments/z1hhpi/anyone_live_near_the_7_train_thinking_of_moving/ — excerpt "7 train noise was never an issue. It was always like feint white noise with the window shut." → §5 para 4.
+     (Threads not opened — excerpts only.)
+2. Google PAA — EMPTY (not accessible in build env)
+3. Google PASF — EMPTY (not accessible in build env)
+4. Answer the Public — EMPTY (not accessible in build env)
+5. Google AI Overview — EMPTY (not accessible in build env). Substituted with published claims (feeds §10.5; chosen to avoid claims already used on the hubs and on the Bronx/Brooklyn pages):
+   - `Sonos speech enhancement night sound soundbar support page what it does dialogue` · Firecrawl search → https://support.sonos.com/en-us/article/make-dialogue-easier-to-hear-with-speech-enhancement — "Speech Enhancement to boost the audio frequencies associated with the human voice… make dialogue easier to hear." → §10.5 H3 1.
+   - `hearing aids TV streamer soundbar dialogue Bluetooth LE Audio Auracast TV audio hearing loss tips HLAA` · Firecrawl search → https://www.resound.com/en-us/hearing-aids/auracast-hearing-aids — "Tune into silent TVs in waiting rooms, airports, sports bars, and at the gym"; "TV-Streamer+ sends the sound from the TV directly to the hearing aids"; "With Bluetooth LE Audio, it will be possible to establish direct connections from the television…". https://www.hearingloss.org/technology-and-accessibility/auracast/ — "allows one device to transmit sound wirelessly to multiple…" → §10.5 H3 2; §9 hearing-aid Q; §10 EQUIPMENT card.
+   - Sonos Arc Ultra guide (silo file, HV notes: https://www.sonos.com/en-us/guides/arcultra) + `Sonos Arc Ultra wall mount detects orientation automatically adjusts EQ when wall mounted` · Firecrawl search → guide excerpt "mount Arc Ultra to the wall below (recommended) or above your TV… Keep 4 in (10 cm)"; https://www.reddit.com/r/sonos/comments/1rdh7ox/sonos_arc_ultra_wall_mount/ quoting "Arc Ultra detects when it is mounted and automatically adjusts its EQ to temper bass resonance from the wall" (corroborated by B&H listing in silo file, LI notes). → §10.5 H3 3, 4, 5; §9 boulevard-wall Q (1 ft end clearance).
+   - Best Buy "Advanced Soundbar Installation — We'll mount your soundbar on a wall and connect it to your TV and Wi-Fi." (silo file, HV notes, excerpt) → §10.5 H3 6 (retailer not named).
+   - Thumbtack https://www.thumbtack.com/p/tv-wall-mount-install-cost — national average $117–$227, most pay about $162 (silo file, LI notes) → §10.5 H3 7.
+6. Area landmarks — see Landmarks below.
+7. Area use cases / building stock — see Building stock below.
+8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+9. Local news — see Noise / flood below (NY Post, Gotham Gazette, Queens Daily Eagle).
+10. Hyperlocal — Queens Daily Eagle (Ida) and QNS (Bell Blvd) used; Queens Chronicle / Queens Ledger: not searched separately — EMPTY.
+11. Yelp 1–3★ — EMPTY (not accessible in build env). A Yelp search-listing excerpt (https://m.yelp.com/search?find_desc=Little+Egypt&find_loc=Astoria%2C+Queens%2C+NY) was used only to confirm Steinway Street restaurants exist (§8 card); no reviews read.
+
+### Demographics / housing (§5.5 stats)
+- `Queens County New York QuickFacts foreign born language other than English spoken at home persons per household` · Firecrawl search → Firecrawl scrape https://www.census.gov/quickfacts/queenscountynewyork — population 2,358,182 (July 1, 2025); housing units 934,750 (July 1, 2025); persons per household 2.72; 65+ 18.4%; foreign-born 47.6%; language other than English at home 55.4%; owner-occupied rate 44.9% (2020–2024); broadband 92.3%. → §5 para 3, §5.5 bullets 1–3.
+- `Queens most linguistically diverse place in the world languages spoken Endangered Language Alliance` · Firecrawl search → Firecrawl scrape https://www.weforum.org/stories/industries-in-depth/queens-in-new-york-has-more-languages-than-anywhere-in-the-world/ (Feb 22, 2017) — "as many as 800 languages spoken in New York City, and nowhere in the world has more than Queens, according to the Endangered Language Alliance". → §5.5 bullet 2.
+- `multigenerational households Queens New York share census living with grandparents` · Firecrawl search + scrape https://www.census.gov/library/stories/2023/06/several-generations-under-one-roof.html — national 7.2% of family households; no Queens figure in text. → NOT used (no Queens stat claimed).
+- `Long Island City new apartments built since 2010 number of units high-rise growth report` · Firecrawl search → https://www.osc.ny.gov/files/reports/pdf/report-24-2025.pdf (excerpt) — "Between 2010 and 2023, Long Island City, Sunnyside and Woodside in Queens experienced nearly 42 percent growth, the largest change in any neighborhood, reaching about 66,700 total units." → §5.5 bullet 5. (6sqft "12,533 new units" excerpt — not used, undated.)
+- `Queens housing stock one- and two-family homes share…` / `Queens percent of housing units in one- to four-family buildings…` · Firecrawl search + scrape https://chpcny.org/visualization/housing-stock-visualization/ — only "Half of all NYC's housing is found in Brooklyn and Queens"; no Queens building-size share returned → no small-home percentage claimed.
+
+### Noise (§5, §9, §10.5)
+- `LaGuardia airport aircraft noise Queens neighborhoods Part 150 noise contour residents East Elmhurst Flushing` · Firecrawl search → Firecrawl scrape https://www.gothamgazette.com/city/6654-airport-noise-footprint-exposed-path-to-mitigation-unclear (Dec 6, 2016) — PA estimate 47,843 people in worst-affected areas near the two airports; around LaGuardia 3,655 households / 9,787 people in the 65–70 dB area; contours over East Elmhurst, Jackson Heights, Flushing. → §5.5 bullet 4.
+- Same search → Firecrawl scrape https://nypost.com/2024/07/25/us-news/nyc-airport-noise-assault-tortures-locals-for-over-a-decade-residents-say/ — "Tennis Climb" over Bayside and downtown Flushing; residents report "as much as 18 hours of noise a day"; PA noise tracker up to 81 dB. → §5.5 bullet 4, §9 LaGuardia Q, §11-area guide (Flushing/Bayside).
+- Same search → https://www.federalregister.gov/documents/2022/12/21/2022-27702/approval-of-laguardia-airport-lga-noise-compatibility-program (excerpt: FAA approved LGA NCP Dec 15, 2022, 23 measures) → background only, not on page.
+- `IRT Flushing Line 7 train elevated structure Roosevelt Avenue Queens Boulevard viaduct history` · Firecrawl search → Firecrawl scrape https://en.wikipedia.org/wiki/IRT_Flushing_Line — steel elevated structure above Roosevelt Avenue; at 48th Street in Sunnyside switches to Queens Boulevard on a concrete viaduct; built 1915–1928. → §9 7-train Q, §5 para 1.
+- `vibration loosening of threaded fasteners self-loosening transverse vibration Junker thread locker explanation` · Firecrawl search → https://www.boltscience.com/pages/vibloose.htm (excerpt: loosening needs relative motion in the threads; transverse alternating forces most severe) and https://www.sciencedirect.com/science/article/pii/S1000936120306063 (Junker 1969: transverse vibration main loosening form; critical preload) → §9 7-train Q ("repeated small sideways movement… preload").
+
+### Flood (§5.5, §9 basement Q, §8.5)
+- `Hurricane Ida Queens basement apartment deaths 2021 how many Queens` · Firecrawl search →
+  - https://queenseagle.com/all/unimaginable-loss-eleven-from-queens-die-in-storm — "Of the 12 people confirmed dead… 11 of them were from Queens and 10 lived in basement apartments." → §5.5 bullet 6, §9 basement Q.
+  - https://a816-dohbesp.nyc.gov/IndicatorPublic/data-stories/flooding-and-health/ — "Fourteen people died from causes related to Ida. Most of them (71%, or 10 deaths) by drowning in unregulated (illegal) basement apartments." → §9 basement Q.
+
+### Building stock and landmarks (§7, §13)
+- `Central Ridgewood Historic District brick rowhouses Mathews Flats designated 2010 buildings` · Firecrawl search → https://hdc.org/buildings/central-ridgewood-historic-district/ (excerpt: load-bearing masonry walls of Kreischer brick) + Firecrawl scrape https://www.citylandnyc.org/commission-approves-district-encompassing-almost-1000-buildings/ — LPC approved 990 buildings Dec 9, 2014; masonry due to 1905 fire-code changes; Kreischer brick. → §5 para 2, §7 card, §13 card, Field Notes.
+- `Glen Oaks Village co-op garden apartments Queens number of units…` · Firecrawl search → https://www.glenoaksvillage.com/about — 2,904 garden-style apartments in 134 buildings on 110 acres. → §7 card.
+- `Rochdale Village Jamaica Queens cooperative…` · Firecrawl search → https://rochdalevillage.com/property/ — opened 1963, largest private housing cooperative in the world; 20 thirteen-storey buildings grouped in circles of four; https://www.nyc.gov/html/cchr/justice/downloads/pdf/rochdale_village.pdf — 5,860 apartments. → §7 card, §13 card.
+- `LeFrak City Corona Queens 20 buildings 18 stories 4,605 apartments built 1960s` · Firecrawl search → Firecrawl scrape https://en.wikipedia.org/wiki/LeFrak_City — twenty 17-story towers, 40 acres, 4,605 apartments, built 1962–1971, by the LIE/Junction Blvd. → §7 card, §13 card.
+- `Forest Hills Gardens 1909 Russell Sage Foundation Grosvenor Atterbury Frederick Law Olmsted Jr private community` · Firecrawl search + scrape https://www.nps.gov/places/sage-foundation-forest-hills.htm — 1909, Olmsted Jr. + Atterbury, 142-acre community; Facebook excerpt (https://www.facebook.com/karl.gercens.2025/posts/…) "private enclave… Tudor Revival and Arts and Crafts". → §13 card.
+- `Sunnyside Gardens Historic District designated 2007 Clarence Stein Henry Wright…` · Firecrawl search → https://hdc.org/buildings/sunnyside-gardens-historic-district/ (designated June 2007; first "Garden City" development in the US); https://s-media.nyc.gov/agencies/lpc/lp/2258.pdf (built 1924–1928, twelve courts of townhouses and small apartment buildings). → §13 card.
+- `Skyline Tower Long Island City tallest building in Queens height floors apartments completed` · Firecrawl search → https://en.wikipedia.org/wiki/Skyline_Tower_(Queens) (excerpt: topped out Oct 2019, surpassing One Court Square, tallest in Queens at 762 ft). → §8 card, §13 card.
+
+### Commercial corridors (§8)
+- `Downtown Flushing Main Street busiest commercial district Queens BID number of businesses` · Firecrawl search → https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=45 (excerpt: 30 block faces, 1,500 ground-floor retail businesses); LoopNet Flushing report excerpt (Main Street and Roosevelt Avenue crossroads). → §8 card.
+- `Jamaica Center BID Jamaica Avenue businesses 165th Street Mall Queens` · Firecrawl search → https://jamaicacenter.org/ — "over 400 businesses"; "largest BID in Queens". → §8 card.
+- `Bell Boulevard Bayside bars restaurants Business Improvement District corridor` · Firecrawl search → https://qns.com/2020/07/bell-boulevard-in-bayside-will-open-as-outdoor-dining-corridor/ — outdoor dining corridor Friday nights/weekends from July 4, 2020. → §8 card.
+- `Steinway Street Astoria BID businesses restaurants hookah cafes Little Egypt` · Firecrawl search → Yelp listing excerpt (restaurants on Steinway St, 11103) → §8 card (described only as a commercial street of cafés, restaurants and shops).
+
+### Services / tech (§9, FAQ, §10)
+- `Verizon Fios and Spectrum availability Queens New York cable TV providers borough franchise` · Firecrawl search → https://www.nyc.gov/content/oti/pages/cable-services — three cable franchises (Altice/Optimum, Charter/Spectrum, Verizon); Charter covers Brooklyn, Manhattan, Queens, Staten Island; Verizon covers NYC as a whole. https://www.verizon.com/home/internet/near-me/new-york-ny/ — Fios widely available in Queens. → FAQ 1.
+- `soundbar secondary audio program SAP alternate language audio track HDMI ARC TV language setting soundbar plays` · Firecrawl search → https://www.sony.com/electronics/support/articles/00024315 (SAP = audio tracks in languages other than the native language); https://kqed-helpcenter.kqed.org/… (SAP turned on in TV audio settings). → §9 language-track Q.
+- `two-prong ungrounded outlets older apartments cheater plug adapter risk electrician replace GFCI explanation` · Firecrawl search → https://www.northernmistersparky.com/blog/ungrounded-outlets-older-home/ (excerpt: replace with a GFCI outlet labeled "No Equipment Ground", permitted under the NEC) → §9 two-prong Q.
+- `post-tensioned concrete slab condo drilling prohibited…` · Firecrawl search → only a general explainer (valcourt.group) and competitor blogs → NOT used; no post-tension claim on page.
+- Product specs reused from silo file (no new fetch): Sonos Beam Gen 2 25.63 in / 6.35 lb; Arc Ultra 46.38 in / 13.01 lb, 4 in below TV, ends 1 ft from walls; Sonos Ray optical; Samsung HW-Q990D rears each need AC; Dolby/Polk Atmos ceiling guidance not used on this page as a claim heading.
+
+### Pricing (approved only)
+- research/tv-mounting-prices/BRIEF.md soundbar/accessory menu × §9 Queens multiplier 1.05 (per batch brief): placed $82.95; wall-mounted $135.45; Sanus bracket $89.24 (84.99×1.05=89.2395); in-wall $177.45; cord cover $61.95; cable run $103.95; Sonos $131.25; receiver $135.45; universal remote $103.95; streaming $51.45; full home theater $367.50; metal +$31.50; plaster +$47.25; brick/stone +$68.25; concrete/block +$78.75; tile/marble +$99.75; backer $89.25; high mount $78.75; walk-up $42; box removal $26.25; COI free. Packages: $82.95 / $224.69 / $402.14.
+- Area-specific numbers kept as listed (NOT multiplied, already Queens values in BRIEF): TV mounting base $179.99; setup-only first hour $195 then 30-min blocks. Policy fee $150 return trip kept as is.
+- NOTE for Anwar: live tv-mounting-prices-queens.html shows the soundbar lines unmultiplied ($79 / $129 / $84.99); this page shows ×1.05 per the batch brief.
+
+### Images
+Drive "AESS Website Photos/Soundbar Installation" empty and CompanyCam not connected (main run) → 11 reused from images/low-voltage/low-voltage-installation-queens-* (viewed before choosing; skipped lobby-video-intercom (readable "123 MAIN STREET" directory sign), electric-strike/maglock/access-control/intercom (not AV), rack-switch-config, riser-conduit-pull, tone-generator-trace, school-corridor (faces in profile), warehouse cable tray (not AV)).
+
+## Question register — soundbar-installation-queens
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. Jets on the LaGuardia approach drown out the dialogue every few minutes in our East Elmhurst living room — what can the soundbar setup do about it?
+2. We live right beside the elevated 7 on Roosevelt Avenue — can the rumble shake a soundbar bracket loose over time?
+3. In a Queens Boulevard corner apartment, which wall should the TV and soundbar go on when one side faces the traffic?
+4. The only outlet in our Glendale living room is on the wall opposite the TV — what are the honest options?
+5. Our 1940s garden co-op still has two-prong outlets — can a soundbar and subwoofer plug in safely?
+6. Our Long Island City apartment is mostly window wall — where does a TV with a soundbar go when there's barely any solid wall?
+7. Will the soundbar's streaming and app control be reliable on a high floor of a Long Island City tower with dozens of neighboring Wi-Fi networks?
+8. My mother wears hearing aids — can the soundbar work alongside them, or does she need something separate?
+9. Grandparents watch in Spanish and the kids watch in English — will the soundbar play whichever language track we choose?
+10. A parent sleeps in the room off the living room — can whoever stays up late listen privately while the soundbar stays quiet?
+11. Our den is in the basement of a house in a part of Queens that flooded during Ida — how should the soundbar, subwoofer and power be set up?
+12. Our restaurant on Main Street in Flushing has screens at both ends of the dining room — one soundbar each, or something else?
+13. Our Jamaica Avenue storefront runs the TV all day — what keeps a soundbar from walking off or being fiddled with?
+14. Our Forest Hills co-op's only usable TV wall has a steam radiator under it — is that a problem for the soundbar?
+
+### §17 FAQ (visible == FAQPage)
+1. Will the soundbar work with my Spectrum or Fios cable box?
+2. Can a soundbar go on a wallpapered wall without ruining the paper?
+3. Does somebody need to be home for the whole appointment?
+4. How do you keep the soundbar from blocking the TV's remote sensor?
+5. Can you put a smaller soundbar in a kitchen or bedroom too?
+6. Will a soundbar work with a projector in a basement or den?
+7. Can I play music from my phone or a record player through the soundbar?
+8. Is a soundbar or a pair of bookshelf speakers the better buy for a Queens living room?
+9. Can the subwoofer or rear speakers be hidden inside furniture?
+10. Can you connect a game console without adding lag?
+
+### Other question-form headings
+- H2 "Need a Soundbar Fixed in Queens?" (repair capture)
+- H2 "Soundbar Gone Silent? Need It Sorted in Queens?" (final repair capture)
+- H2 "Ready for a Queens Soundbar Price?" (mid-page CTA)
+
+### De-dup notes
+- Avoided every intent in the NYC/LI/HV register (board approval, COI, freight hours, plaster cracking, brick party wall, concrete anchoring, sub vs neighbours below, noise code, renter wiring, deposit, small studio, hard-to-hear dialogue (generic), bar distance, walk-up, parking, cost, outlets add/move, patch/paint, reschedule, warranty, one remote, hours, coverage, HDMI cable, faulty bar, above TV, no-ARC TV, Sonos/app setup, etc.).
+- Partial-overlap to judge: Q4 (outlet on the opposite wall — options) is adjacent to NYC FAQ "Will you add or move an outlet" (that FAQ = we don't do outlets; Q4 = routing options); Q1 is about external aircraft noise masking speech, distinct from NYC "Why is TV dialogue hard to follow" (TV speakers/mix).
+- §10.5 claims chosen to avoid those already on NYC/LI/HV/Bronx/Brooklyn (Angi labor, concealed wiring, permits, surround $794, Thumbtack $65 outlet, Atmos ceilings, eARC/Atmos, in-box bracket, bigger sub).
+
+
+# Builder notes — soundbar-installation-bronx (batch 2026-10-17)
+
+## Bronx (soundbar-installation-bronx)
+
+Built 2026-10-17. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (directQuote query mode). Silo-wide findings (cost guides, eARC, Sonos/Sanus specs, ADA 307.2, DEP Noise Code, Angi/Thumbtack claims) reused from research/soundbar-installation.md — not re-fetched.
+
+Thesis: tenure/permission first (Bronx is ~80% renters; NYCHA written consent; Riverbay/Co-op City move-out restoration and delivery permits; Parkchester condo owners renting units; rent-stabilized leases), then wall waves (Concourse pre-war plaster/hollow tile, Parkchester brick, towers), steam heat season/radiators/risers, noise (CD12, NYCHA quiet hours), multilingual shared households.
+
+### Housing / tenure
+- `Bronx renter households share rent-stabilized apartments percent Furman Center Bronx` · Firecrawl search → https://www.furmancenter.org/neighborhoods/the-bronx/ · Firecrawl scrape: homeownership rate 19.7% (2024); 35.8% of renter households severely rent burdened (2024); population 1,384,724 (2024). → §5 para 1, §5.5 stats 1–2, Permission Map intro.
+  - Same search: https://www.nyc.gov/assets/hpd/downloads/pdfs/services/rent-regulation-memo-1.pdf (excerpt, 2017 HVS table, Bronx 24.2 rent stabilized row — meaning of row unclear) → NOT used.
+- `NYCHA developments in the Bronx number of apartments borough breakdown` · Firecrawl search → https://en.wikipedia.org/wiki/New_York_City_Housing_Authority (excerpt): Bronx list incl. Edenwald Houses (Edenwald, 40 buildings, 3 and 14 stories, 2,034 apartments, Oct 15 1953, "largest public housing development in the borough"); Patterson Houses (Mott Haven, 1950); stats line "The Bronx has 100 developments with 44,500 apartments" (not used — undated). → §13 Edenwald card, §5 para 4.
+  - https://www.nyc.gov/site/nycha/about/developments.page (excerpt): NYCHA 177,565 apartments citywide → not used.
+- `NYCHA tenant mount TV on wall permission drilling holes resident handbook alterations` · Firecrawl search → https://www.nyc.gov/assets/nycha/downloads/pdf/pp/nycha-public-housing-resident-handbook-2024.pdf (excerpt, Version December 2024): "Residents are not allowed to alter their apartments or add any fixtures or fittings in their apartments without prior written consent from their property management office (and residents will be responsible for any damage that occurs)"; "Keep radios, stereos, and television sets turned low after 10 p.m. on Sunday through Thursday and after 11 p.m. on Friday and Saturday. Sounds from these devices should not be heard outside your door, and speakers should not be put on windowsills."; reasonable-accommodation section for residents with disabilities. → §5 para 3, §5.5 stat 6, §9 Q1, §9 NYCHA quiet-hours Q, §9 wheelchair Q, §10.5 H3 1, Permission Map.
+  - Same search: https://mountingnyc.com/blog/mounting-tv-nyc-rental-lease-rules-wall-repair-deposit/ ("get written permission from your landlord before mounting") and https://nyctvguy.com/blog/mounting-tv-nyc-apartment ("A TV mount leaves 4–6 holes in the wall, all easily patchable with spackle when you move out") → §10.5 H3 1 claim (competitors not named on page).
+- `Co-op City Riverbay alteration contractor insurance certificate shareholder apartment work rules` · Firecrawl search → https://www.coopcity.com/Pdf/Resources_FAQ.pdf · Firecrawl scrape (pdf): furniture/appliance deliveries require permits from the shareholder's CSO, requested ≥24 h ahead; issued Mon–Fri 9 a.m.–8 p.m.; Saturday deliveries 9–8 with permit picked up by Friday close; "Delivery without a permit subjects the shareholder to a $300.00 Community Fine"; elevators padded for larger moves/deliveries; "Vacating shareholders are also responsible for remedying alterations or damages caused to the unit during their occupancy" (deducted from equity per excerpt). → §5 para 3, §7 Co-op City card, §9 Co-op City permit Q, §10.5 H3 1/3, Permission Map.
+  - Same search: https://www2.nycbar.org/RealEstate/Forms/Coop_Condo_%20Form_Alteration_Agreement_Coops_Commentary10.pdf and https://www.havardcooper.com/articles/co-op-alteration-agreements-nyc (COIs naming corporation and managing agent) → background for Riverdale/Concourse co-op rows; no figures used.
+- `Co-op City` · Firecrawl scrape https://en.wikipedia.org/wiki/Co-op_City,_Bronx: marshland then Freedomland U.S.A. 1960–64; construction 1966, completed 1973; 35 high-rise buildings + seven townhouse clusters, 15,372 units; 24 to 33 floors; triple-core/chevron/tower types; RiverBay Corporation, 15-member board; bounded by I-95 and Hutchinson River Parkway. → §5 para 4, §5.5 stat 4, §7 card, §13 card. (Wall construction of Co-op City NOT verified — page avoids claiming it.)
+- `Parkchester Bronx Metropolitan Life 171 buildings 12,271 apartments history` · Firecrawl search → https://www.parkchesternyc.com/about-us/history/ (search + Firecrawl scrape): MetLife announced July 1938; 129-acre site, 27% built on; Richmond H. Shreve (firm designed Empire State Building) created plans; shopping near Hugh Grant Circle; 12,271 apartments fully occupied; Parkchester North and South Condominiums established; modernization incl. "upgraded electrical systems in all 12,271 apartments". https://simple.wikipedia.org/wiki/Parkchester,_Bronx: built 1938–1941, "171 red-brick buildings with 12,271" apartments. → §5 para 4, §5.5 stat 5, §7 card, §9 Parkchester Q, §13 card.
+- `Riverdale Bronx co-op apartment buildings high-rise Henry Hudson Parkway housing stock cooperative` · Firecrawl search → https://cooperatornews.com/article/a-river-runs-through-it (excerpt: mansions and "large apartment buildings, many of which eventually became co-ops"); https://www.nybits.com/bset/?nei=riverdale&btype=coop&bfeature=elevator (14 elevator co-op buildings listed, pre- and post-war) → §7 Riverdale card, §13 Wave Hill card.
+- `Bronx County QuickFacts language other than English spoken at home percent persons per household` · Firecrawl search → https://www.census.gov/quickfacts/bronxcountynewyork (excerpt): Language other than English spoken at home, persons 5+, 2020–2024: 57.0%. → §5.5 stat 3, §9 Spanish menus Q, Shared Households section.
+
+### Grand Concourse
+- `Grand Concourse boulevard length miles Louis Risse 1909 Art Deco apartment buildings` · Firecrawl search → https://hdc.org/buildings/grand-concourse-historic-district/ · Firecrawl scrape: "Designated October 25, 2011"; Risse's boulevard inspired by Paris; "incomparable concentration of Art Deco and Art Moderne apartment buildings"; majority built 1916–1941. Also https://www.lehman.edu/public-art-bronx/Grand-Concourse/ (4½ miles 138th St to Mosholu Parkway) and https://en.wikipedia.org/wiki/Grand_Concourse_(Bronx) (5.2 mi) — lengths conflict, not used. → §5 para 4, §7 Concourse card, §13 card.
+- Interior wall make-up (plaster over brick or hollow clay tile) is installer general knowledge, NOT sourced to a document; written as "often"/what we meet.
+
+### Heat
+- `NYC heat season October 1 May 31 68 degrees 62 degrees landlord HPD requirement` · Firecrawl search → https://www.nyc.gov/site/hpd/services-and-information/heat-and-hot-water-information.page · Firecrawl scrape: heat Oct 1–May 31; 6 a.m.–10 p.m. inside ≥68°F when outside <55°F; 10 p.m.–6 a.m. ≥62°F regardless. → §7.5 radiators para, §9 riser Q, Heat Season section.
+
+### Noise
+- `Bronx Times noise complaints 311 Bronx neighborhoods loud music 2025` · Firecrawl search → https://nypost.com/2026/04/20/us-news/nyc-noise-complaints-soar-and-city-has-a-plan-for-cracking-down/ (excerpt): 636,000 noise complaints in 2025; "Much of NYC's urban din is concentrated in one neighborhood: Community District 12 in The Bronx, which includes areas such as Edenwald and Wakefield"; top five also Williamsbridge and Highbridge (Bronx). https://www.vitalcitynyc.org/nyc-noise-regulation-history/ (excerpt): "Residential noise — music, parties, banging, a television through the wall — accounts for half of every 311 noise complaint in the city." https://www.reddit.com/r/bronx/comments/1sonoom/noise_complaint_ethically/ (excerpt only; neighbour music starting 6 PM on Sundays) — not quoted. Facebook NYPD 48th Pct post (Boston Road/Bronx Park East loud music) — not used. → §5 para 5, §13 Edenwald card.
+- `reddit bronx neighbor loud music bass apartment complaint` · Firecrawl search → r/AskNYC and r/Apartmentliving bass threads (excerpts only, not Bronx-specific) → not used.
+
+### Commercial corridors
+- `Fordham Road Business Improvement District number of stores shoppers Bronx` · Firecrawl search → https://fordhamroadbid.org/ (excerpt: "approximately 30 million visitors per" year); https://www.norwoodnews.org/nyc-urges-bronxites-to-shop-your-city-as-small-business-commissioner-tours-fordham-road/ (excerpt: "Fordham Road with its 175 storefronts, located between Washington and Jerome Avenues"); https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ ("almost 300 specialty stores" — conflicts, not used). → §8 Fordham card.
+- `The Hub 149th Street Third Avenue BID Bronx shopping district retail` · Firecrawl search → https://www.instagram.com/thirdavenuebidhub/ (bio excerpt: "the Bronx's oldest commercial district with 200,000+ daily visitors"); https://www.thirdavenuebid.org/ → §8 Hub card (attributed to the BID).
+- `Arthur Avenue Retail Market opened 1940 La Guardia Belmont Bronx Little Italy` · Firecrawl search → https://publicmarkets.nyc/arthur-avenue-market ("Since October, 1940 … along Belmont's main thoroughfare in the beloved Little Italy district"); https://www.arthuravenuebronx.com/ → §8 Arthur Ave card, §13 card. (LaGuardia/pushcart detail only from a Facebook post — not used.)
+- `Yankee Stadium opened 2009 seating capacity River Avenue 161st Street bars` · Firecrawl search → https://en.wikipedia.org/wiki/Yankee_Stadium (opened April 16, 2009 regular season). River Avenue bars NOT verified → page says "surrounding blocks". → §8 Yankee Stadium card.
+- `City Island Bronx 1.5 miles long seafood restaurants City Island Avenue nautical village` · Firecrawl search → https://www.tripadvisor.com/Attraction_Review-g47369-d109881-Reviews-City_Island-Bronx_New_York.html ("City Island Avenue is where all the shops, galleries and restaurants are located"); https://cilobsterhouse.com/ (seafood restaurant by the bridge). Length not verified, not used. → §8 City Island card.
+- `Wave Hill Riverdale public garden acres overlooking Hudson Palisades history` · Firecrawl search → https://www.wavehill.org/ ("public garden in the northwest Bronx along the Hudson River … cultural center"); 28 acres only from an Instagram excerpt — not used. → §13 card.
+
+### Sources not reachable / EMPTY
+- Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG: EMPTY (not accessible in build env). §10.5 uses published cost-guide/installer/forum claims instead (Angi figures and Thumbtack outlet example from research/soundbar-installation.md; nyctvguy spackle claim; r/AskNYC bass excerpt).
+- Reddit r/bronx soundbar/TV-mounting threads: EMPTY (no relevant results; only one noise excerpt).
+- Yelp 1–3★ Bronx TV/soundbar installers: EMPTY (not accessible in build env; not searched further).
+- Bronx Times / Norwood News / Riverdale Press soundbar-specific news: EMPTY (only Norwood News Fordham Road storefront count found).
+- Google Drive soundbar photos / CompanyCam: per batch brief, empty / not connected.
+
+### Pricing (approved, Bronx ×1.00) — research/tv-mounting-prices/BRIEF.md
+Soundbar placed $79 · wall-mounted $129 · Sanus soundbar bracket $84.99 · cord cover $59 · in-wall concealment $169 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · walls $0/+30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · Bronx setup-only $225 first hour then 30-min blocks · Bronx TV base $209.99 · TV on stand $137.99 · take down old TV $85 · remove old bracket $45 · haul-away old TV $79 · $150 return trip · $195/hr specialty rate, 3-hr min ($585) mentioned as not applying to standard installs. Packages: $79 / $213.99 / $382.99; worked example $347.99 = 129+84.99+75+59.
+
+### Images (11, permanent image rule — images/low-voltage/ Bronx prefix only)
+soundbar-installation-bronx-recessed-wall-box-beside-display.webp ← low-voltage-installation-bronx-display-recessed-box.jpg (hero, eager) · -four-tech-crew-cable-pull ← -03-crew-cable-pull · -wall-plate-termination ← -08-keystone-wall-plate-termination · -steel-stud-cable-feed ← -stud-rough-in-boxes · -hard-hat-stud-wall-pull ← -04-metal-stud-rough-in · -dining-room-ceiling-speaker ← -13-restaurant-ceiling-speaker · -ceiling-speaker-amplifier-cart ← -ceiling-speaker-conference · -jhook-cable-bundle-overhead ← -02-jhook-pathway-bundle · -cable-tester-wall-jack ← -07-fluke-certification-pass · -ceiling-grid-cable-drop ← -10-ceiling-grid-bundle-pull · -ceiling-wifi-access-point ← -09-ceiling-access-point-drop. Skipped: idf-patch-panel-build (readable floor-plan sheet), 05-idf-rack-patching (whiteboard text), 11/12/14 (intercom/lock/reader — off-topic), ptz-camera-mount, access-point-lift, hero-warehouse-cable-tray, 06 punchdown (rack close-up, off-topic).
+
+## Question register — soundbar-installation-bronx
+
+§9 YOUR QUESTIONS ANSWERED (H3, 12):
+1. I live in a NYCHA apartment — what has to happen before a soundbar is screwed to the wall?
+2. I rent a Parkchester condo unit from its owner — whose permission covers the drilling?
+3. Does a rent-stabilized lease change anything about mounting a soundbar?
+4. Co-op City requires permits for deliveries — does a soundbar install need one?
+5. What happens if the drill hits hollow clay tile behind the plaster?
+6. A steam riser climbs the corner of the TV wall — where can the soundbar's cables run?
+7. Our living room's only free stretch of wall is a corner — can the TV and soundbar go there?
+8. NYCHA house rules say TV sound shouldn't carry past the door late at night — how is a soundbar set for that?
+9. Can the TV menus and captions be switched to Spanish for a parent who doesn't read English?
+10. Several people use the TV — how do you stop the settings getting changed every day?
+11. A relative uses a wheelchair — can the soundbar setup make the TV easier for them to control?
+12. Can you speak to my super or managing agent before the appointment?
+
+§17 FAQ (visible == FAQPage, 8):
+1. If all I need is the soundbar reconnected to a replacement TV, how is that priced in the Bronx?
+2. Is there an extra charge when the bar goes high under a tall pre-war ceiling?
+3. Can you haul away the old TV when the soundbar goes under a new one?
+4. Can a landlord book soundbar installs for several Bronx apartments at once?
+5. How do I send photos of the wall before the visit?
+6. Can my landlord or a family member pay for the install instead of me?
+7. The TV wall was painted this week — is it too soon to mount the soundbar?
+8. What if the soundbar is wider than the space under the wall-mounted TV?
+
+Non-question headings that are repair captures (deliberately no "?"): "Soundbar Acting Up in a Bronx Apartment", "Bronx Soundbar Repair, Booked Today".
+§10.5 claim headings (quoted claims, not questions): spackle holes; concealed wiring $75–$300; nobody needs to approve unless electrical/structural; labor $50–$200/hr; surround $241–$1,350; installer adds outlet cheaply; bass travels so skip the sub.
+
+De-dup notes (checked by meaning against NYC/LI/HV registers and the Brooklyn and Queens pages on disk at ~05:20): dropped my radiator-under-TV-wall Q (Queens has Forest Hills radiator Q), bowing-walls-straight-bar Q (Brooklyn has it), "do I have to be home" Q (Queens has it), baby-asleep low-volume Q (overlaps Brooklyn night-mode Q / Queens private-listening Q), move-apartment-in-same-building FAQ (Brooklyn has moving Q), damaged-outlet FAQ (near Queens two-prong outlet Q). Partial overlap left for main-run judgment: my Spanish *menus/captions* Q vs Queens' Spanish *audio-track* Q (different intent: menu language vs soundtrack language).

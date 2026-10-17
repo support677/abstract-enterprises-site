@@ -17,9 +17,9 @@ LIVE | cat6-repair-nyc | Cat6 Repair | NYC hub | up / | (800) 486-0943 | GBP Bro
 LIVE | cat6-repair-long-island | Cat6 Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | cat6-repair-hudson-valley | Cat6 Repair | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | soundbar-installation-manhattan | Soundbar Installation | Manhattan | up /soundbar-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T04:58Z | soundbar-installation-brooklyn | Soundbar Installation | Brooklyn | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T04:58Z | soundbar-installation-queens | Soundbar Installation | Queens | up /soundbar-installation-nyc | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T04:58Z | soundbar-installation-bronx | Soundbar Installation | Bronx | up /soundbar-installation-nyc | (646) 490-0629 | GBP Bronx
+LIVE | soundbar-installation-brooklyn | Soundbar Installation | Brooklyn | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-queens | Soundbar Installation | Queens | up /soundbar-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE | soundbar-installation-bronx | Soundbar Installation | Bronx | up /soundbar-installation-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T05:20Z | soundbar-installation-staten-island | Soundbar Installation | Staten Island | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T05:20Z | soundbar-installation-nassau-county | Soundbar Installation | Nassau | up /soundbar-installation-long-island | (516) 346-5778 | GBP Brooklyn
 BUILDING 2026-10-17T05:20Z | soundbar-installation-suffolk-county | Soundbar Installation | Suffolk | up /soundbar-installation-long-island | (631) 407-2884 | GBP Brooklyn
