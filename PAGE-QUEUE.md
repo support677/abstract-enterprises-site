@@ -170,9 +170,9 @@ LIVE | cat6-repair-bay-ridge-brooklyn-ny | Cat6 Repair | Bay Ridge, Brooklyn | u
 LIVE | cat6-repair-astoria-queens-ny | Cat6 Repair | Astoria, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T16:17Z | cat6-repair-mott-haven-bronx-ny | Cat6 Repair | Mott Haven, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T16:17Z | cat6-repair-tottenville-staten-island-ny | Cat6 Repair | Tottenville, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T16:20Z | smart-lock-installation-upper-west-side-manhattan-ny | Smart Lock Installation | Upper West Side, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T16:20Z | smart-lock-installation-park-slope-brooklyn-ny | Smart Lock Installation | Park Slope, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T16:20Z | smart-lock-installation-astoria-queens-ny | Smart Lock Installation | Astoria, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | smart-lock-installation-upper-west-side-manhattan-ny | Smart Lock Installation | Upper West Side, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | smart-lock-installation-park-slope-brooklyn-ny | Smart Lock Installation | Park Slope, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | smart-lock-installation-astoria-queens-ny | Smart Lock Installation | Astoria, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
 BUILDING 2026-10-17T16:28Z | smart-lock-installation-riverdale-bronx-ny | Smart Lock Installation | Riverdale, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T16:28Z | smart-lock-installation-st-george-staten-island-ny | Smart Lock Installation | St. George, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T16:28Z | smart-lock-installation-tribeca-manhattan-ny | Smart Lock Installation | Tribeca, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
