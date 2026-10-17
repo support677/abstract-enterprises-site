@@ -10,3 +10,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nyc | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-hudson-valley | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nyc | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-hudson-valley | QUEUED
