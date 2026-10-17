@@ -86,9 +86,9 @@ BUILDING 2026-10-17T09:55Z | soundbar-installation-astoria-queens-ny | Soundbar 
 BUILDING 2026-10-17T10:01Z | soundbar-installation-riverdale-bronx-ny | Soundbar Installation | Riverdale, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-17T10:01Z | soundbar-installation-st-george-staten-island-ny | Soundbar Installation | St. George, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T10:01Z | soundbar-installation-tribeca-manhattan-ny | Soundbar Installation | Tribeca, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
-TODO | soundbar-installation-williamsburg-brooklyn-ny | Soundbar Installation | Williamsburg, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | soundbar-installation-forest-hills-queens-ny | Soundbar Installation | Forest Hills, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | soundbar-installation-pelham-bay-bronx-ny | Soundbar Installation | Pelham Bay, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-17T10:02Z | soundbar-installation-williamsburg-brooklyn-ny | Soundbar Installation | Williamsburg, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-17T10:02Z | soundbar-installation-forest-hills-queens-ny | Soundbar Installation | Forest Hills, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+BUILDING 2026-10-17T10:02Z | soundbar-installation-pelham-bay-bronx-ny | Soundbar Installation | Pelham Bay, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | soundbar-installation-harlem-manhattan-ny | Soundbar Installation | Harlem, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | soundbar-installation-bay-ridge-brooklyn-ny | Soundbar Installation | Bay Ridge, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
