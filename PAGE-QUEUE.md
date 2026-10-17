@@ -92,9 +92,9 @@ BUILDING 2026-10-17T10:02Z | soundbar-installation-pelham-bay-bronx-ny | Soundba
 BUILDING 2026-10-17T10:03Z | soundbar-installation-tottenville-staten-island-ny | Soundbar Installation | Tottenville, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T10:03Z | soundbar-installation-harlem-manhattan-ny | Soundbar Installation | Harlem, Manhattan | up /soundbar-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T10:03Z | soundbar-installation-bay-ridge-brooklyn-ny | Soundbar Installation | Bay Ridge, Brooklyn | up /soundbar-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T10:09Z | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-17T10:09Z | soundbar-installation-mott-haven-bronx-ny | Soundbar Installation | Mott Haven, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T10:09Z | soundbar-installation-great-kills-staten-island-ny | Soundbar Installation | Great Kills, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-long-island-city-queens-ny | Soundbar Installation | Long Island City, Queens | up /soundbar-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | soundbar-installation-mott-haven-bronx-ny | Soundbar Installation | Mott Haven, Bronx | up /soundbar-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | soundbar-installation-great-kills-staten-island-ny | Soundbar Installation | Great Kills, Staten Island | up /soundbar-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T10:20Z | smart-lock-installation-upper-east-side-manhattan-ny | Smart Lock Installation | Upper East Side, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
 BUILDING 2026-10-17T10:20Z | smart-lock-installation-brooklyn-heights-brooklyn-ny | Smart Lock Installation | Brooklyn Heights, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-17T10:20Z | smart-lock-installation-flushing-queens-ny | Smart Lock Installation | Flushing, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
