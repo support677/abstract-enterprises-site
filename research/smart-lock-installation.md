@@ -3245,3 +3245,320 @@ Rejected after viewing: commercial-security-systems-brooklyn-credential-programm
 
 ### De-dup notes
 Checked by meaning against every register in research/smart-lock-installation.md and against the two batch-mates on disk (Washington Heights, New Dorp) at build time. Changed during build: paint-buildup FAQ (= Washington Heights FAQ "Decades of paint…") → replaced with keypad-vandalism FAQ; bar "unlock for opening hours, relock at closing" Q (= New Dorp "shop's front door unlock itself at opening time…") → moved to non-question prose in §8; crowbar "lock or door is the weak point" Q (= New Dorp "crowbar … lock or the frame?") → rewritten to the different intent "what an electronic lock adds" (logs/alerts/keys); street-door-latching Q reworded to cause/fix to stay clear of Washington Heights "street door no longer latches — ours to fix or the owner's?" (responsibility). Deliberately avoided: Brooklyn Q12 (Greenpoint condo sponsor admin rights) — towers covered as prose only; Queens app-language and basement-flood intents; Bronx Q14 / Dutchess Q12 shop-and-flats shared stair door — covered in prose only; HV Q11 landmark keypad approval — prose only; every area-cost question — no cost question on this page (prices in §14 only).
+
+
+## Bayside, Queens (smart-lock-installation-bayside-queens-ny)
+
+Built 2026-10-17 (batch: first smart-lock neighborhood pages). Phone (347) 434-6392 (body, CTAs, schema; (800) 486-0943 only in shared header chrome) · GBP Bronx (460 E Fordham Rd, `#bronx`) · up-link `/smart-lock-installation-queens`, link to `/smart-lock-installation-nyc` and all 16 area/hub pages · Queens ×1.05 (no neighborhood surcharge).
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+Thesis / lane: the **door itself** (inter-war Bayside Hills Tudors/Colonials/Mediterraneans, ~century-old doors and frames, arched entries, storm-door heat), the **back of the house** (111th Precinct burglary rise; 2025 rear-slider attempt where the doorbell was rung first), **houses changing hands** (inherited smart locks), Bay Terrace / Oakland Gardens garden co-ops and Bay Club towers, and **Bell Boulevard** late-closing business doors.
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `reddit Bayside Queens package theft porch doorbell camera smart lock` · Firecrawl search → only non-Bayside threads (r/plano, r/homesecurity, r/Brooklyn). **EMPTY for Bayside** (not accessible / nothing local). One r/homeautomation excerpt used generically (B17). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are claims from cost guides / product pages, stated as such on the page. |
+| 6 | Landmarks | B4–B6, B9, B11, B13 |
+| 7 | Building stock | B1–B3, B7, B8, B10, B12 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | QNS (B14), Patch Bayside-Douglaston (B15), QNS/TimesLedger 2015 (B16, research only) |
+| 10 | Hyperlocal | QNS used. Queens Chronicle "Seasonal Burglaries Up In 111th Precinct" — search excerpt only (296 burglaries, +88; article undated, not opened) → **not used**. Facebook "Bayside, Queens" group posts — excerpts only, not used. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| B1 | `Bayside Queens neighborhood history housing stock Tudor colonial detached houses Bayside Hills Bay Terrace Oakland Gardens` · Firecrawl search → Firecrawl scrape (directQuote) | https://en.wikipedia.org/wiki/Bayside,_Queens | Boundaries (Whitestone NW, LI Sound + Little Neck Bay N/NE, Cross Island Pkwy E, Francis Lewis Blvd/Auburndale W; Oakland Gardens and Hollis Hills usually counted). Bayside Gables = privately owned gated community near Bay Terrace shopping center and Little Neck Bay, "some of the area's only single-family homes". Bayside Hills bounded by 48th Ave (N), LIE (S), 211th St (W), Springfield Blvd (E); 33 street malls, gatehouse at Bell Blvd & 48th Ave, street clock at 50th Ave & 214th St. Bay Terrace: Bay Club, Baybridge, Towers at Waters Edge, Kennedy Street Quad, Bayside Townhouse Condominiums, Bay Country Owners, Bell Owners; bounded by Clearview Expwy (W), 26th/28th Ave (S), Little Neck Bay and Little Bay. Bayside–Bayside Hills pop. 43,808 (2010), 1,857.24 acres. QCC est. 1959 (CUNY). | §5 para 1, §5.5 bullets 2 & 6, §7 cards (Bayside Gables, towers), §13 (gatehouse/malls, QCC), Block by Block (Bay Terrace, Bayside Hills) |
+| B2 | same search → Firecrawl scrape (markdown) | https://cityneighborhoods.nyc/bayside-hills | "Construction of detached brick and stucco Tudor, Colonial, and Mediterranean-style homes began in earnest between 1927 and 1935, many featuring slate roofs, leaded-glass windows, and decorative stonework"; "Tudors with half-timbered façades, and Mediterranean villas with arched entryways"; Bayside Hills Civic Association founded 1938; Francis Lewis Blvd "modest commercial strip of family-owned restaurants and shops". (Its boundary — Francis Lewis Blvd W — and developer name conflict with Wikipedia → neither boundary nor developer used.) | §5 para 2, §5.5 bullet 1, §7 cards, §8 Francis Lewis card, Block by Block (Bayside Hills) |
+| B3 | same search (excerpt) | https://www.theericbermanteam.com/communities/bayside-real-estate | "older sections … colonials, Tudors, and brick homes from the 1920s and 1930s. Post-war development added capes, ranches, and split-levels" | §5 para 1, §7 card (post-war Capes/ranches/split-levels) |
+| B4 | `Fort Totten Historic District Landmarks Preservation Commission designated Bayside` · Firecrawl search → Firecrawl scrape | https://hdc.org/hdc-across-nyc/queens/queens-landmarked/fort-totten/ | 100+ buildings 1830s–1960s; Fort at Willets Point est. 1857; now under FDNY, Parks, Historic House Trust; designated June 29, 1999. | §13 card |
+| B5 | `Bayside Historical Society Fort Totten Castle officers club Bayside history` · Firecrawl search (full excerpt returned) | https://www.baysidehistorical.org/about-bhs | BHS founded 1964; at The Castle since 1984; Castle completed 1887 as Army Corps of Engineers officers' mess/club; Gothic Revival; NYC landmark Sept 24, 1974; State/National Registers 1986. | §13 card |
+| B6 | `Bayside LIRR station Port Washington Branch 41st Avenue Bell Boulevard` · Firecrawl search (excerpt) | https://en.wikipedia.org/wiki/Bayside_station_(LIRR) | Station at 213th St & 41st Ave, off Bell Blvd, just north of Northern Blvd, 12.6 miles from Penn Station. | §7 card (Bell Blvd mixed-use), §8 card, §13 card |
+| B7 | `Bay Terrace Bayside garden apartment cooperative …` (re-scrape of Queens Q9 URL) · Firecrawl scrape (directQuote) | https://www.habitatmag.com/Publication-Content/Legal-Financial/2018/2018-May/Land-Lease | Section IV (125 units) bought land for $5.1M; "one of nine Bay Terrace co-ops … built in the 1950s on land owned by Cord Meyer Development. Eight of the nine sections, which total 1,800 garden apartments, are buying out their 99-year land leases, while the ninth is acquiring ownership through a land swap." | §5 para 5, §5.5 bullet 4, §7 card, §13 card |
+| B8 | `Bay Club Bayside condominium towers gated doormen 2 Bay Club Drive built` · Firecrawl search (excerpts) | https://bayclubcondo.com/ ; https://www.onekeymls.com/home-details/2-bay-club-dr-unit-7y-bayside-ny-11360/1Yw3XAnNtMX | "2 towers · 1,000+ homes · Gated + concierge"; unit listing "Condominium built in 1982" (one unit listing — year not used on page). | §5 para 5, §5.5 bullet 5, §7 card |
+| B9 | `Bayside Village BID Bell Boulevard business improvement district businesses restaurants` · Firecrawl search (excerpts) | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=58 ; https://www.facebook.com/baysidevillagebid/ ; https://www.instagram.com/baysidebid/?hl=en | BID office 213-33 39th Ave; BID "represents over 200 Businesses along Bell Boulevard" (its Facebook page); Instagram excerpt names a nail studio and a wines & liquors shop on Bell Blvd. | §8 intro + Bell Blvd card |
+| B10 | `Oakland Gardens Bayside garden apartment co-ops Windsor Oaks Hollis Hills built 1950s` · Firecrawl search → Firecrawl scrape (directQuote) | https://cityneighborhoods.nyc/oakland-gardens | Bell Apartments (later Oakland Gardens Apartments) early 1950s garden-style co-ops; brick Tudors, Cape Cods, ranch homes and garden co-ops; Springfield Blvd and Francis Lewis Blvd commercial/transit spines; private driveways and detached garages; Cunningham Park (1936) and Alley Pond Park. ("Windsor Oaks" seen only in Facebook/Redfin excerpts — not used.) | §5 para 5, §7 card, §8 Springfield card, Block by Block (Oakland Gardens) |
+| B11 | Bayside Hills LPC status · `Bayside Hills historic district Landmarks Preservation Commission request designation civic association` · Firecrawl search | — | No result about Bayside Hills → **EMPTY**. Page does NOT claim Bayside Hills is or isn't landmarked. | — |
+| B12 | `Bayside Queens illegal home conversions basement apartments civic association Community Board 11 complaints` · Firecrawl search → Firecrawl scrape | https://qns.com/2015/01/boro-civics-oppose-legalization-of-basements-apartments/ | Jan 30, 2015: Bayside Hills Civic Association opposed basement legalization ("A basement is no place for someone to live" — Michael Feiner). | Research only (not used — avoided the basement lane already on the Queens page) |
+| B13 | (see B1) | https://en.wikipedia.org/wiki/Bayside,_Queens | QCC established 1959. | §13 card |
+| B14 | `Bayside burglary 111th Precinct 2025 homes entered rear door qns.com OR qchron.com OR patch.com` · Firecrawl search → Firecrawl scrape | https://qns.com/2025/07/neighbors-scare-off-burglary-suspects-bayside/ | QNS, Bill Parry, July 7, 2025: June 28 ~6:45 p.m., near 202nd St & 36th Ave (a few blocks west of the Clearview), two masked suspects worked on a rear sliding glass door of a 65-year-old man's home, failed, rang the doorbell repeatedly; neighbors yelled, suspects fled. 111th Pct: 146 burglaries through June 29, 2025 vs 127 (+15%) per CompStat. | Hero, §5 para 3, §5.5 bullet 3, §9 doorbell Q, Hardware Notes (111th), §10.5 H3 7, Block by Block (west of Clearview), Back-of-house plan |
+| B15 | same search → Firecrawl scrape (directQuote) | https://patch.com/new-york/bayside/burglaries-double-while-overall-crime-drops-bayside-nypd | Patch, Dec 7, 2017: 28 burglaries in a 28-day November period, double the prior year; officers urged residents to lock windows and doors, keep yards illuminated, install a burglary alarm. | §5 para 4, Hardware Notes (111th), §10.5 H3 7, Back-of-house plan |
+| B16 | (precinct address) same search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/111th-precinct.page | 111th Precinct at 45-06 215th St, Bayside. | Research only (supports "111th covers Bayside") |
+| B17 | `Yale Assure Lock 2 key-free touchscreen no key cylinder 9V battery backup emergency power` · Firecrawl search (excerpts) | https://shopyalehome.com/products/yale-assure-lock-2-key-free-touchscreen-with-z-wave-plus ; https://www.reddit.com/r/homeautomation/comments/1st5cnf/yale_assure_2_with_homekey_a_sure_way_to_get/ ; https://www.homedepot.com/p/Yale-Assure-Lock-2-Plus-with-Home-Keys-Satin-Nickel-Single-Cylinder-Deadbolt-YRD450-N-BLE-619/331828343 | Yale sells "Key-Free" Assure Lock 2; Reddit owner had to buy a 9V battery ("the emergency way") after a Home Key lockout; Assure Lock 2-Plus with Home Keys sold at Home Depot. | §9 keyless-only Q, §9 home-key Q, §10 Key-Free card |
+| B18 | `ANSI BHMA grade 1 grade 2 grade 3 deadbolt residential security cycles explained` · Firecrawl search (excerpts) | https://iveise.com/blogs/product-insights/ansi-lock-grades-explained-grade-1-2-and-3-differences ; https://www.pdqlocks.com/blog/a-guide-to-ansi-grade-1-vs.-grade-2-door-hardware | Grade 1 deadbolt 250,000 cycles + 10 hammer strikes; Grade 3 deadbolt 100,000 cycles + 2 strikes (Veise); PDQ also gives Grade 1 deadbolts 250,000 cycles. (doorsforpros' 1,000,000 figure is for latches — not used.) Secondary sources, labelled "summaries … published by hardware suppliers". | Hardware Notes (grades), Back-of-house plan |
+| B19 | `storm door heat buildup warning full glass sun damage door hardware manufacturer` · Firecrawl search → Firecrawl scrape (directQuote) | https://www.stormdoorguy.com/blogs/news/the-hidden-downsides-of-storm-doors-what-you-need-to-know | Full-glass storm doors "can trap heat between the storm door and the entry door … damage to your entry door's paint, warping in wood doors". | §7.5 heat, §9 storm-door Q, Field Notes |
+| B20 | `smart deadbolt operating temperature range specification Yale Assure Schlage Encode degrees Fahrenheit` · Firecrawl search (excerpt) | https://www.schlage.com/en/home/products/BE499WBCENFFF.html | Schlage Encode Plus: outside lock body −31°F to 150.8°F; inside 14°F to 120.2°F. | §7.5 heat, §9 storm-door Q |
+| B21 | `Schlage Encode factory reset requires interior access; keypad lockout after incorrect code attempts` · Firecrawl search → Firecrawl scrape | https://schlage-res.zendesk.com/hc/en-us/articles/37430394837012-Do-Schlage-Encode-Series-Locks-Report-Multiple-Failed-Code-Attempts | 3 wrong codes → keypad disabled 30 s (logged in app); 4 → alarm 30 s; each further → 1 min. | Hardware Notes (wrong-code lockouts), §10.5 H3 6 |
+| B22 | same search (excerpt) | https://nationallocksupply.com/blog/how-to-reset-a-schlage-keypad-lock/ | Schlage keypad factory reset: disconnect battery, press Schlage button… (reset needs interior/battery access). Used only as "on many models … procedure differs". | §9 inherited-lock Q, New Owners checklist |
+| S | carried from silo file (not re-fetched) | Fixr (S1), Bob Vila (S2), August retrofit (S3), August Connect (S4), Yale Matter (S5), Bold Matter (S6), HPD fire safety (N6), LL111/2018 (N5), Yale IP55 (Queens Q15) | as logged in research/smart-lock-installation.md | §7.5, §10.5, §14, Hardware Notes (log) |
+
+### Prices used (all from research/smart-lock-installation.md "Prices used" / live smart-lock-installation-queens.html; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,575–$2,625 | single-door keypad/fob reader + electric strike (Queens) | Queens page / silo prices ($1,500–$2,500 × 1.05) |
+| $263–$473 | new electric strike on entrance door | Queens page ($250–$450 × 1.05) |
+| $310–$509 | failed electric strike repair | Queens page ($295–$485 × 1.05) |
+| $195 first hour, then 30-min blocks | setup-only visit, Queens | Queens page / research/tv-mounting-prices/BRIEF.md |
+| $195/hr, 3-hr minimum ($585) | service/callback | blueprint v2.3 §9 |
+| quoted flat at walkthrough | house / co-op / condo smart lock | no AESS figure |
+| $250–$400, avg $300 | NATIONAL third-party (Fixr) | silo S1 |
+| Worked sums (only sums of lines above) | 2 × keypad+strike = $3,150–$5,250; keypad+strike + strike repair = $1,885–$3,134; new strike + 1 setup hour = $458–$668 | arithmetic on published lines |
+
+## Images (11)
+Drive folder `AESS Website Photos/Smart Lock Installation` empty (main run) and CompanyCam not connected → library set `images/smart-lock-installation/aess-smart-lock-installation-*` (the only photos showing actual smart locks). All 18 were viewed. Every candidate except two shows a technician's face, so 9 were **cropped with Pillow** to the door/hands area (face removed; verified by viewing the crops); 2 used uncropped (no person). Rejected: `apartment-door-smart-lock-app` (unit number "4A" sign + face), `showing-customer-app-unlock` (customer's face), `video-doorbell-and-smart-lock` (house number "128"), `office-glass-door`, `office-lever`, `checking-lock-status-in-app`, `drilling-keypad-lock-brownstone-stoop` (not needed; faces). Captions describe only what is visible; none claims a Bayside job, customer or named building.
+**Flag:** the aess-* set appears AI-rendered (uniform logo artwork, stylised lighting) although supplied as AESS photos — Anwar to confirm they are real; replace when real Bayside photos exist.
+
+| New file (images/smart-lock-installation/) | Source (aess-smart-lock-installation-…) | Crop |
+|---|---|---|
+| smart-lock-installation-bayside-queens-keypad-deadbolt-wood-panel-door.webp (hero, eager) | keypad-smart-deadbolt-brownstone-door | none (no person) |
+| smart-lock-installation-bayside-queens-checking-latch-at-door-edge.webp | checking-latch-bolt-alignment | x 766→1400 |
+| smart-lock-installation-bayside-queens-keypad-outside-thumbturn-inside.webp | keypad-exterior-thumbturn-interior-view | none (hands only) |
+| smart-lock-installation-bayside-queens-measuring-old-deadbolt-bore.webp | measuring-door-bore-for-deadbolt | x 809→1400 |
+| smart-lock-installation-bayside-queens-driving-screws-strike-plate.webp | suburban-front-door-smart-lock-van | x 880→1400 |
+| smart-lock-installation-bayside-queens-adding-user-code-app.webp | programming-access-code-app | x 722→1400 |
+| smart-lock-installation-bayside-queens-fingerprint-reader-test.webp | fingerprint-unlock-demo-app | x 722→1400 |
+| smart-lock-installation-bayside-queens-drilling-out-brass-deadbolt.webp | removing-old-brass-deadbolt | x 722→1400 |
+| smart-lock-installation-bayside-queens-interior-unit-ribbon-cable.webp | connecting-interior-unit-cable | x 831→1400 |
+| smart-lock-installation-bayside-queens-battery-pack-change.webp | replacing-smart-lock-batteries | x 800→1400 |
+| smart-lock-installation-bayside-queens-keypad-wiring-service.webp | servicing-keypad-wiring | x 720→1400 |
+
+## Question register — smart-lock-installation-bayside-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 6)
+1. A full-glass storm door covers our sunny front door all summer — can the heat trapped between the two doors hurt a smart lock?
+2. Would a keyless-only model with no key cylinder at all be safer on our front door, or riskier?
+3. The pair who tried a Bayside back slider in 2025 rang the doorbell first to see if anyone was home — can our doorbell and lock answer for us when the house is empty?
+4. The house we bought near Bell Boulevard came with the seller's keypad lock but nobody knows the master code — can it be wiped and made ours?
+5. Should our family use the phone-tap "home key" feature, or stick with codes?
+6. The last bartender leaves our Bell Boulevard place after midnight — how can I check from home that the front and back doors actually latched?
+
+### §17 FAQ (visible == FAQPage, 7)
+1. What would keypad entry on both the front and back doors of a Bell Boulevard shop cost?
+2. Will you check over a smart lock we installed ourselves and fix whatever is wrong with it?
+3. Is the $195 setup visit the same thing as your $195-an-hour service rate?
+4. Do your Queens crews come to Bay Terrace, Bayside Hills, Oakland Gardens and Hollis Hills, or only central Bayside?
+5. Can a code be set to work only once, for a single delivery or repair visit?
+6. Do we need to save a parking space for your van on our block?
+7. How can we tell the bolt went all the way out and didn't stop half-thrown?
+
+### Other question-form headings
+- H2 "Smart Lock Quit on You in Bayside?" (repair capture)
+- H2 "Locked Out Somewhere Between Bell Boulevard and Little Neck Bay?" (final repair capture)
+
+### De-dup notes
+- Compared against every register in research/smart-lock-installation.md and the live HTML of all 16 area/hub pages plus today's Morris Park and West Brighton pages. Moved to non-question "Hardware Notes" H3s because the intent is already a question on a sibling: arched Tudor door placement (≈ Morris Park "Indian Village Tudor … arched wood door"), lock grades (≈ Morris Park "AAA or Grade 1 ratings"), wrong-code guessing (≈ Morris Park / West Brighton wrong-code Qs), smart lock vs police burglary advice (≈ West Brighton "does a smart lock on the doors help at all?"), entry-log privacy (≈ Morris Park "Can the lock maker see our comings and goings"). Dropped FAQ "How many metal keys should we keep…" (= West Brighton "What should we do with the physical keys…").
+- Partial overlaps for the main run to judge: §9 Q3 (doorbell rung first) vs Morris Park "Burglars … knocked first and then pried a side door — what would a smart lock … have told the owner?" (ours = video doorbell answering to make the house seem occupied); §9 Q4 (reset an inherited lock with no master code) vs Staten Island "make sure the previous owners can't still open the doors" and West Brighton "show us how to factory-reset the lock ourselves"; FAQ 1 (worked two-door cost) vs cost FAQs on other pages (geo-specific pricing by design); FAQ 2 (check our DIY install) vs Queens "Do you bring the lock, or should we buy one".
+
+### Flags for Anwar
+- Images: aess-* library appears AI-rendered (see Images); 9 of 11 cropped to remove technician faces.
+- Stated as AESS practice (no source, house policy): inside one-turn release on every residential door; won't fit inside-keyed/coded models; strike reinforcement with long screws; cardboard-template check; landlord written approval before cutting a leased storefront frame; no subscription required from AESS; jam/position-sensor set-up; two-adult admin rule; arrival windows 8 AM–8 PM seven days (copied from Queens page).
+- General product statements without a specific source: many full-view storm doors have interchangeable glass/screen panels; many locks offer one-time or time-window codes; many lock/doorbell makers share an app/platform; some apps report "locked" when the bolt is thrown against an open door; national-brand (ADT/Ring/SimpliSafe) paragraph kept generic.
+- Grade figures come from supplier summaries of ANSI/BHMA A156 (Veise, PDQ), not the standard itself.
+- Bayside Village BID "200+ businesses" is from the BID's own Facebook page (excerpt).
+- check_page.py: all content checks pass; the 16 remaining FAILs are "live sibling … doesn't link back" (area/hub pages must link down — main-run wiring).
+
+
+## Morris Park, Bronx (smart-lock-installation-morris-park-bronx-ny)
+
+Page: `/smart-lock-installation-morris-park-bronx-ny` · silo Smart Lock Installation · neighborhood spoke · up-link `/smart-lock-installation-bronx` (+ `/smart-lock-installation-nyc`) · phone (646) 490-0629 (body, CTAs, schema; (800) 486-0943 only in shared header chrome) · GBP Bronx, 460 E Fordham Rd, schema `#bronx` · pricing multiplier 1.00. Built 2026-10-17 by batch subagent.
+
+Thesis: **Morris Park is houses, not towers — plan door by door.** Detached/semi-detached one- and two-family homes (R4A / R4-1), the driveway side door as the real front door (March 2025 side-door burglary near Loreto Playground), 65.8% renter-occupied in a house district (owner/tenant two-families: which rules reach a private dwelling vs a multiple dwelling), the hospital cluster on the eastern edge (shift workers, home aides, hospice), Indian Village Tudors, Morris Park Avenue shops and Eastchester Road/Waters Place medical offices, and the 2024 station-area rezoning.
+
+Tools: "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (markdown or directQuote query mode). Silo-wide facts reused without re-fetching from research/smart-lock-installation.md: MDL 51-c (B6/N1), HMC 27-2043 (B7/N3), TDPA LL63/2021 (N4/B11), Admin Code 26-521 (N9), August Connect 10–15 ft (S4), Matter/Thread border router (S5/S6), Fixr national $250–$400 avg $300 (S1), LawnStarter national $330 (LI section), ADA 34–48 in (silo), HPD double-cylinder rule (B8/N6).
+
+### Local research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| M1 | (direct) · Firecrawl scrape | https://en.wikipedia.org/wiki/Morris_Park,_Bronx | Boundaries (Neill Ave/Pelham Pkwy N; Eastchester Rd E; Amtrak NEC & Sackett Ave E/S; Bronxdale Ave/White Plains Rd W); Williamsbridge Rd & Morris Park Ave primary thoroughfares; CD 11; ZIPs 10461 (east of Paulding) / 10462 (west); 49th Pct 2121 Eastchester Rd; 5 train under the Esplanade (Morris Park, Pelham Pkwy stations); racecourse 1889–1910, 1890 Preakness & Belmont, 1910 fire → lots; streets named for 18th/19th-c. mayors (Cruger, Holland, Radcliff, Colden, Paulding, Hone); Aug 2024 rezoning of 46 blocks around Metro-North stations (Morris Park, Van Nest, Parkchester), up to 7,000 units, $500M; mostly one- and two-family homes; Indian Village (Choctaw Pl, Narragansett Ave, Seminole Ave, Pawnee Pl) near Jacobi; BX1102 2020: 25,077 (+9.4% from 22,913), 829.6 acres, 9,173 households, 65.8% renter-occupied; Columbus Day parade since 1977, route & reviewing stand (Williamsbridge Rd between Lydig & Neill); Einstein, Jacobi, Weiler, Bronx Psychiatric Center, Calvary; Loreto Park bounds, Officer Alfred Loreto (1870 Hering Ave, killed July 21 1950), reopened April 2022 after $2M work; FDNY Squad 61/Bn 20 1518 Williamsbridge Rd, Engine 97 1454 Astor Ave, EMS Station 20 on Jacobi grounds; Morris Park Station PO 1807 Williamsbridge Rd; NYPL Morris Park branch 985 Morris Park Ave (2-story, 6,600 sq ft, 2006); 49th Pct 2022: 133 burglaries. | Hero, §5 paras 1/4/5 + facts list, §7 intro + mayors para, Side-door section, §8 Williamsbridge card, §13 landmark cards (Loreto Park, Library, Station/Esplanade, Parade), Carers section (Squad 61, EMS 20), schema areaServed |
+| M2 | `Morris Park Bronx neighborhood history housing semi-detached two-family homes` · Firecrawl search | https://www.nyc.gov/assets/planning/download/pdf/plans/morris-park/morris_park.pdf (scraped, pdf) | DCP "Morris Park Rezoning – Approved!": development began turn of 20th c., accelerated with 1910 streetcar along Morris Park Ave, continued after WWII; "Most of the neighborhood is developed with single- and two-family detached homes and semi-detached housing. Small and medium-sized apartment buildings can be found along Morris Park Avenue, which is also the neighborhood's main commercial corridor, and along Williamsbridge Road"; R4→R4A on 11 full + parts of 19 blocks (detached 1–2 family only; perimeter wall 21 ft, "two-story homes with attics beneath pitched roofs"); R4→R4-1 (Morris Park Ave/Pierce/Bronxdale/Radcliff; detached & semi-detached); C1-4 on 12 Morris Park Ave blockfronts Haight–Bogart; Council adopted Oct 11, 2005. | §5 para 1, facts list, §7 intro + cards (detached, semi-detached, apartment buildings), Side-door section |
+| M3 | same search · Firecrawl scrape | https://www.morrisparkbid.org/history | BID history page mirrors Wikipedia (one- and two-family homes, several apartment buildings, low-lying/flat; Indian Village); links NYT 1983/1985/2018, Bronx Times 2004. | Confirms M1 (no new claim used) |
+| M4 | same search · Firecrawl search (excerpts only) | https://www.zillow.com/morris-park-bronx-new-york-ny/duplex/ ; https://www.redfin.com/neighborhood/61025/NY/New-York/Morris-Park/multi-family-homes-for-sale | Listing excerpts: "Semi-attached brick two family"; "2-story multi-family frame home … two separate units … full basement … 25x95 lot"; "legal 2-family home … Bronx 10461". | §5 para 2 (25-foot lot), §7 "Frame Two-Families" card |
+| M5 | same search · Firecrawl search (excerpt) | https://www.reddit.com/r/bronx/comments/1jyqlh9/morris_park_the_neighborhood_that_pretends_it/ | Title/excerpt only ("Morris Park: The Neighborhood That Pretends It Never Changed… East Bronx enclave of hard-working, mostly Italian-American families"). Firecrawl scrape refused (site not supported). | Not used on page |
+| M6 | `Morris Park Bronx burglary homes 49th Precinct Bronx Times` · Firecrawl search → Firecrawl scrape | https://www.youtube.com/watch?v=6AoQbvQUACc | News 12, uploaded 2025-03-29: two women entered a single-family home in Morris Park near Loreto Playground ~4:30–4:40 p.m. Tuesday through the side door; knocked twice to check no one home; pushed the security camera up; pried the door; ~6 minutes after homeowner's mother left for school pick-up; safe with passports/documents and heirlooms stolen; 49th Pct 13 burglaries YTD vs 17 same time last year; NYPD reward up to $3,500. | §5 para 3 + facts list, Side-door section, §9 Q1, §10.5 H3 6 |
+| M7 | same search · Firecrawl search (excerpt) | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/49th-precinct.page | 49th Precinct serves Allerton, Morris Park…; 2121 Eastchester Road. | §5 para 3, §13 Eastchester card |
+| M8 | (direct) · Firecrawl scrape | https://www.bxtimes.com/category/news/neighborhoods/morris-park/ | Recent Morris Park headlines: 49th Columbus Day Parade (Oct 2026); DRI ten projects (May 2026); Just Home supportive housing at Jacobi; 49th Pct community potluck; "Cops seek four women suspects in Morris Park car robbery"; Haven Charter High School opening; Metro-North delay coverage. | Lead list only (DRI & parade used via M9/M10) |
+| M9 | (direct) · Firecrawl scrape (directQuote) | https://www.bxtimes.com/ten-projects-greater-morris-park-dri/ | May 20 2026: Hochul announced May 13 $19.4M to ten Greater Morris Park DRI projects; $2.75M public plaza connecting the proposed Metro-North Morris Park station entrance to the Hutchinson Metro Center campus and Marconi Street; $750K Morris Park Ave streetscape; $3.5M former St. Francis Xavier School → resource hub; $3.5M Matthews Muliner Playground (recurring flooding). | §8 "Near the Planned Metro-North Station" card |
+| M10 | (direct) · Firecrawl scrape (directQuote) | https://www.bxtimes.com/morris-park-49th-annual-columbus-day-parade/ | Oct 14 2026: 49th annual parade on Sunday despite stormy conditions, hosted and organized by the Morris Park Community Association, kicked off at Bronxdale and Morris Park avenues. | §13 parade card |
+| M11 | `Metro-North Penn Station Access Morris Park station opening date 2027 Bronx` · Firecrawl search | https://www.mta.info/project/penn-station-access (excerpt) ; https://www.nyc.gov/content/planning/pages/our-work/plans/bronx/bronx-metro-north-area (excerpt) | MTA: "Morris Park, construction along Sackett Av (August 2026–January 2027)"; DCP: plan approved Aug 2024, MTA anticipated 2027. | §9 construction-next-door Q, §7 new-buildings card |
+| M12 | same · Firecrawl scrape (directQuote) | https://www.thecityreporter.nyc/2026/05/15/metro-north-bronx-partial-service-mta-timeline/ | May 15 2026 (THE CITY): MTA's hope of limited service by 2027 (temporary Morris Park & Co-op City stations) fading; Amtrak raises possibility of beginning service by early 2029. | §13 station card |
+| M13 | `Calvary Hospital 1740 Eastchester Road…; Jack D. Weiler Hospital 1825 Eastchester Road; Jacobi … 1400 Pelham Parkway South; Albert Einstein College of Medicine 1300 Morris Park Avenue` · Firecrawl search | https://www.calvaryhospital.org/contact/bronx-campus/ ; https://www.jacobimonteem.org/home-1-1-2-2 ; https://www.nychealthandhospitals.org/locations/jacobi/ ; https://en.wikipedia.org/wiki/Jacobi_Medical_Center ; https://www.calvaryhospital.org/wp-content/uploads/2017/03/Jewish_broch_2panels_web_101717.pdf | Calvary 1740 Eastchester Rd 10461; Weiler (Einstein Hospital) 1825 Eastchester Rd, in Morris Park; Jacobi 1400 Pelham Pkwy S, founded 1955 as Bronx Municipal Hospital Center concurrent with Einstein, Bronx's only burn unit and Level I trauma center, 457 beds; Calvary "hospice/home care program". | §5 para 5 + facts list, §8 Eastchester card, §13 cards, Carers section (hospice para) |
+| M14 | `Albert Einstein College of Medicine address 1300 Morris Park Avenue Bronx NY 10461` · Firecrawl search | https://einsteinmed.edu/ | "Jack and Pearl Resnick Campus 1300 Morris Park Avenue Bronx, NY 10461". | §5 para 5, §13 Einstein card |
+| M15 | `Hutchinson Metro Center Bronx Waters Place offices Morris Park` · Firecrawl search | https://www.hutchinsonmetrocenter.com/home.html ; https://www.hutchinsonmetrocenter.com/tower2.html ; https://www.hutchinsonmetrocenter.com/tenants.html | 1250 Waters Place; Tower Two 280,000 sq ft Class A medical office building fully leased to Montefiore; 1200 Waters Place tenants incl. Bronx Chamber of Commerce. | §8 Hutchinson card |
+| M16 | `Morris Park Business Improvement District Morris Park Avenue businesses boundaries` · Firecrawl search | https://www.morrisparkbid.org/ ; https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=75 | BID covers Morris Park Ave properties between Unionport Rd/Amethyst St (W) and Williamsbridge Rd (E); office 966 Morris Park Ave. | §8 BID card |
+| M17 | `Indian Village Morris Park Bronx Tudor style homes Seminole Avenue Pawnee Place` · Firecrawl search (excerpts) | https://www.homes.com/property/1242-pawnee-place-bronx-ny/2mp0f1dcmmch6/ ; https://streeteasy.com/building/1234-pawnee-place-bronx ; https://www.compass.com/homedetails/1232-Pawnee-Pl-Bronx-NY-10461/20ISO7_pid/ | Pawnee Place homes built 1940, "Tudor-style Home"; "all brick, fully detached, single family … tudor style … Indian Village". | §7 Indian Village card, §9 Tudor Q, §10.5 H3 1 |
+| M18 | `NYC basement and cellar apartment legalization program eligible community districts Bronx Community District 11` · Firecrawl search → Firecrawl scrape (directQuote) | https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=7020615 (excerpt) ; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-160650 | Admin Code Art. 507 pilot: program area incl. Bronx CDs 9–12 (15 districts total); units existing before April 20, 2024; apply on or before April 20, 2029; requires smoke + CO detector and "at least 1 means of egress directly to the outdoors … an exterior door that swings inward and is provided with landings on both the interior and exterior sides" (BC 1010.1.6). | Two-family rules table + para |
+| M19 | (direct) · Firecrawl scrape (directQuote) | https://www.nysenate.gov/legislation/laws/MDW/4 | MDL §4: multiple dwelling = occupied by "three or more families living independently of each other"; private dwelling = "not more than two families"; "two-family private dwelling". | §5 para 4, Two-family table, §10.5 H3 5 |
+| M20 | (direct) · Firecrawl scrape (directQuote) | https://www.nysenate.gov/legislation/laws/RPA/768 | RPAPL 768: unlawful to evict an occupant of 30+ consecutive days or leaseholder by, incl., "changing the lock on such entrance door without supplying the occupant with a key"; class A misdemeanor; civil penalty $1,000–$10,000 per violation; up to $100/day. | §9 lease Q, §10.5 H3 5, Two-family table |
+| M21 | `ANSI/BHMA A156.40 residential deadbolt grade AAA security durability finish ratings explained smart lock` · Firecrawl search | https://buildershardware.com/ANSI-BHMA-Standards/Hardware-Highlights/A15640-2015-Residential-Deadbolts ; https://www.schlage.com/en/blog/product_updates/exterior-deadbolt-lock-security-grades.html | A156.40-2025: durability, security, finish tests; operating torque ≤ 9 in-lbf; Grade A residential deadlatch 400,000 cycles; 17 security tests incl. 1,350 lbf door load; salt spray ASTM B117. Schlage: BHMA residential grades C good / B better / A best; AAA best in all three. | §9 ratings Q, §10.5 H3 2, FAQ cheap-lock + lifespan |
+| M22 | `Insteon shutdown April 2022 smart home devices stopped working servers` · Firecrawl search | https://www.theverge.com/23032451/smart-home-troubles-insteon-ihome-shutdown-matter ; https://www.youtube.com/watch?v=8lLQLG0SVLE ; https://community.home-assistant.io/t/june-7-2022-insteon-servers-back-online/428977 | Insteon (and iHome) turned off cloud servers; April 14 2022, parent Smartlabs went out of business; servers back online June 7 2022. | §9 company-goes-under Q, §10.5 H3 4 |
+| M23 | `Yale August smart lock privacy policy law enforcement requests disclose activity log data` · Firecrawl search | https://shopyalehome.com/pages/privacy-center ; https://www.eff.org/deeplinks/2023/04/smart-locks-endanger-tenants-privacy-and-should-be-regulated | Yale: "Lock activity is stored alongside your account information for the duration of your account being active"; deletion requests may be rejected where processing is required by law. EFF (Apr 2023): smart lock data a new stream for law enforcement; calls for warrant requirement and tenant notice. | §9 privacy Q |
+| M24 | `smart lock keypad wrong code attempts lockout period Schlage Encode Yale Assure …` · Firecrawl search | https://schlage-res.zendesk.com/hc/en-us/articles/37430394837012-Do-Schlage-Encode-Series-Locks-Report-Multiple-Failed-Code-Attempts | Encode: 3 wrong codes → keypad disabled 30 s and history reports it; 4 → keypad off + alarm 30 s; each further → 1 min. | Research only (Q dropped — same intent as West Brighton sibling) |
+| M25 | `reddit bronx Morris Park smart lock OR keypad OR "change the locks" landlord two family` · Firecrawl search | https://www.reddit.com/r/Landlord/comments/1e2qnia/landlord_usny_can_i_have_a_smart_lock_on_my_unit/ ; https://www.reddit.com/r/NYCapartments/comments/1p3fnwy/landlord_suddenly_installed_a_smarthome_door_its/ | Excerpts only, none in Morris Park (US-NY landlord asking about smart lock on own unit; Queens two-unit tenant upset by landlord's smart door). **Reddit for Morris Park: EMPTY.** | Not used |
+
+### EMPTY / not accessible
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DDG: `EMPTY (not accessible in build env)`. §10.5 says so and uses published claims (Fixr, BHMA, manufacturers) instead.
+- Reddit r/bronx Morris Park threads: search excerpts only; Firecrawl scrape of reddit.com refused → `EMPTY (not accessible in build env)` for thread content; nothing quoted.
+- NYT 2018 "Morris Park, Bronx: Where Congeniality Flourishes": scrape refused (site not supported) → only the search excerpt seen; not used.
+- Yelp 1–3★ Bronx locksmiths/smart-lock installers: `EMPTY (not accessible in build env)`.
+- Morris Park–specific smart lock / keyless news: none found → `EMPTY`.
+- Google Drive `AESS Website Photos/Smart Lock Installation`: EMPTY (per batch brief); CompanyCam not connected.
+
+### Prices used (no new prices; Bronx ×1.00)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,500–$2,500 installed | single-door keypad or fob reader with electric strike | smart-lock-installation-bronx.html / research "Prices used" (access-control-installation-bronx.html) |
+| $250–$450 | new electric strike on lobby/street door | same (door-buzzer-repair-allerton-bronx-ny.html) |
+| $295–$485 | failed electric strike repair | same (door-buzzer-repair-bruckner-bronx-ny.html) |
+| $225 first hour, then 30-min blocks | setup-only visit (apps/bridge/codes) | smart-lock-installation-bronx.html (research flag carried: TV setup-only rate used for smart-lock app visits) |
+| $195/hr, 3-hr min ($585) | service/callback, not initial install | blueprint v2.3 §9 / Bronx page |
+| $1,795–$2,985 | worked total = $1,500–$2,500 + $295–$485 (shop-door keypad + residential street-door strike repair) | sum of published lines |
+| $250–$400, avg $300 (Fixr); avg $330, $200–$460 (LawnStarter) | NATIONAL third-party, labelled as such | silo research S1 / LI section |
+| House or unit door | no AESS figure → "Quoted flat at free walkthrough" | — |
+
+## Images (11)
+Permanent rule / Step C: Drive folder empty, CompanyCam not connected. All 11 come from the `aess-smart-lock-installation-*` set in images/smart-lock-installation/; each viewed. Every source except two shows a technician's face (and one shows customer's face, one a house number "128"), so nine were **cropped with Pillow** to the hands/lock area (faces, house number excluded) and saved as new WebP (q82). No file overwritten. Skipped: showing-customer-app-unlock (customer face can't be cropped out cleanly). Note: the whole aess set looks AI-rendered (flag for Anwar).
+
+| File (images/smart-lock-installation/) | Source (crop box) | Size | Where |
+|---|---|---|---|
+| smart-lock-installation-morris-park-bronx-black-keypad-deadbolt-handleset-wood-door.webp | aess-…-keypad-smart-deadbolt-brownstone-door (no crop) | 1400×1050 | hero (eager) |
+| smart-lock-installation-morris-park-bronx-app-locked-status-at-door.webp | aess-…-checking-lock-status-in-app (770,240,1400,1050) | 630×810 | Instant action block |
+| smart-lock-installation-morris-park-bronx-drill-driving-latch-screws-keypad-door.webp | aess-…-suburban-front-door-smart-lock-van (820,330,1400,933) | 580×603 | §5 Neighborhood |
+| smart-lock-installation-morris-park-bronx-keypad-outside-thumb-turn-inside-views.webp | aess-…-keypad-exterior-thumbturn-interior-view (no crop; hands only) | 1400×933 | §6 Services |
+| smart-lock-installation-morris-park-bronx-tape-measure-backset-old-bore.webp | aess-…-measuring-door-bore-for-deadbolt (790,330,1400,1050) | 610×720 | §7 Architecture |
+| smart-lock-installation-morris-park-bronx-strike-screws-metal-frame-door.webp | aess-…-office-glass-door-smart-lock (800,280,1400,933) | 600×653 | §8 Commercial |
+| smart-lock-installation-morris-park-bronx-video-doorbell-beside-keypad-deadbolt.webp | aess-…-video-doorbell-and-smart-lock (940,280,1400,933; house number "128" cropped out) | 460×653 | §9 Q&A |
+| smart-lock-installation-morris-park-bronx-brass-deadbolt-coming-off-door.webp | aess-…-removing-old-brass-deadbolt (780,300,1400,1050) | 620×750 | §10.5 AI reality check |
+| smart-lock-installation-morris-park-bronx-gloved-drill-keypad-wood-door.webp | aess-…-drilling-keypad-lock-brownstone-stoop (840,250,1400,933) | 560×683 | §13 Landmarks |
+| smart-lock-installation-morris-park-bronx-keypad-lever-latch-screwdriver.webp | aess-…-office-lever-smart-lock-install (700,250,1400,933) | 700×683 | §15 Packages |
+| smart-lock-installation-morris-park-bronx-aa-batteries-interior-unit.webp | aess-…-replacing-smart-lock-batteries (870,230,1400,933) | 530×703 | Carers section |
+
+Overlap with batch siblings (same source photo, different crop/filename): measuring-door-bore, removing-old-brass-deadbolt, replacing-batteries, keypad-exterior-thumbturn, keypad-smart-deadbolt-brownstone-door (+ possibly office-glass-door / drilling-stoop). Unused by both siblings: checking-lock-status, suburban-front-door-van, video-doorbell, office-lever.
+DAILY-LOG note suggestion: `images: 11 cropped from images/smart-lock-installation/aess-smart-lock-installation-* (faces/house number cropped out; no Drive/CompanyCam photos)`.
+
+## Question register — smart-lock-installation-morris-park-bronx-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. Burglars near Loreto Playground pried a side door open — would a smart lock on that door have warned the owner?
+2. What do the AAA or Grade 1 ratings printed on a smart lock box actually measure?
+3. The lot next door could be rebuilt under the station-area rezoning — how should we plan our locks around a construction site?
+4. A resident doctor wants our upstairs apartment on a one-year lease — what should the lease say about the smart lock?
+5. The visiting nurse service sends whoever is on call that night — should each nurse get a code, or one code for the agency?
+6. Our late mother's house is in probate — how can the executor control who gets in until it is sold?
+7. Our Indian Village Tudor has a heavy arched wood door with a small window in it — where can a smart lock go?
+8. What happens to our smart lock if the company behind the app goes out of business?
+9. Who installs the lock's firmware updates once you have left, and should they run automatically?
+10. Can the lock maker see our comings and goings, and could that record be handed to the police?
+11. Is it safe to text or WhatsApp a door code to the plumber or a relative?
+
+### §17 FAQ (visible == FAQPage, 7)
+1. What does a smart lock on a Morris Park front or side door cost compared with a keypad on a building door?
+2. Do I need a separate hub or bridge, or will the lock talk to my phone directly?
+3. Do you also fit keyless entry for doctors' and dental offices near the hospitals on Eastchester Road?
+4. Is a cheap smart lock from an online marketplace worth installing?
+5. How long should a smart lock last before it needs replacing?
+6. Do you also cover Van Nest, Pelham Parkway, Allerton and the rest of the 10461 and 10462 ZIP codes?
+7. Can I lock or unlock the door from a smartwatch?
+
+### Other headings (no question marks)
+- Mid CTAs: "Put the Side Door on Your Phone", "Know Who Can Open Every Door in the House"
+- Repair captures: "Morris Park Smart Lock Dead, Jammed or Offline", "Shut Out by Your Own Lock in Morris Park Tonight"
+
+### De-dup notes
+Checked every register in research/smart-lock-installation.md and the questions on all 18 smart-lock pages on disk at finish (incl. in-progress bayside-queens and west-brighton-staten-island). Dropped during build because a batch sibling or the register already holds the intent: pick/bump resistance (West Brighton), wrong-code lockout (West Brighton), child fingerprint vs code (West Brighton), voice-assistant unlock (West Brighton), door handing/hinge side (West Brighton), old keys after going keyless (West Brighton, borderline), router/wall signal (West Brighton plaster/lath; HV/NYC), two-family tenant-lock-rules Q (Brooklyn), tenant log-viewing (Brooklyn/SI), basement-door rules (Queens) — those topics stay as body text only (Two-family table, Carers section). Partial overlaps left for the main run to judge: Q1 forced-entry alert vs Bayside "rang the doorbell first … can doorbell and lock answer" and West Brighton "North Shore window burglaries — does a smart lock help" (mine = door-position/forced-entry alerting); Q5 agency nurse codes vs Queens "home attendant three mornings a week" (mine = per-person vs shared agency credential); Q11 texting codes vs Bayside "code that works only once" (mine = channel safety); FAQ 2 hub/bridge need vs West Brighton "no outlet — where does the bridge plug in".
+
+
+## West Brighton, Staten Island (smart-lock-installation-west-brighton-staten-island-ny)
+
+Built 2026-10-17 by the West Brighton builder subagent (batch with -bayside-queens-ny and -morris-park-bronx-ny). Main run merges this into research/smart-lock-installation.md.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used.
+Thesis: West Brighton = old North Shore housing (19th/early-20th-century houses, many divided into 2–3 apartments) — old doors (narrow stiles beside glass, mortise pockets, plugged bores), shared front halls and code roles per household, upper/rear-stair unit doors, plaster-wall signal problems, West Brighton Houses PACT renovation, Forest/Castleton Ave shops and converted-house offices.
+Silo-wide sources reused (not re-fetched): S1 Fixr ($250–$400, avg $300), S2 Bob Vila (screwdriver/30 min), S3 August retrofit (single-cylinder only), S4 August Connect 10–15 ft, S5 Yale Matter/Thread border router same ecosystem, S6 Bold (Nest Hub 2nd gen / HomePod mini), N1 MDL §51-c, N3 HMC §27-2043, N4 Tenant Data Privacy Act (LL63/2021), N6 HPD fire safety (3+ apts self-closing; double-cylinder illegal on apartment doors), N9 Admin Code §26-521 (30+ days lockout), SI6 2022 NYC BC §1010.1.9 / 1010.1.9.5, SI11 MDL §4 (multiple dwelling = 3+ families; private dwelling ≤2), prices table (SI ×1.10).
+
+| # | Query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| WB1 | `West Brighton Staten Island neighborhood history housing Forest Avenue Castleton Avenue` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/West_New_Brighton,_Staten_Island | Formerly "Factoryville"; North Shore, CD1; E New Brighton, W Port Richmond, S Sunnyside/Castleton Corners, N Kill Van Kull; Livingston & Randall Manor near shore; Richmond Terrace shipyards/tugboat companies; Castleton Ave: library (976), post office (1015), Ladder 79 (1189); Broadway: Engine 156 (412); Sunset Hill east of Broadway; West Brighton Houses + Markham Homes post-WWII; St. Peter's Cemetery opened 1848, oldest RC cemetery on SI; Gardiner-Tyler House NRHP; 120th Pct: 2022 = 124 burglaries; crime −83.3% 1990–2022; 2020 NTA pop 37,010, 13,141 households, 32.9% with children <18; 47.4% renter-occupied. | §5 paras 1, 3; §5.5 stats 1–2, 5; §8 Richmond Terrace / Broadway / Castleton cards; §13 library + St. Peter's cards, "we also serve" line; FAQ 1 |
+| WB2 | same search · WebFetch | https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-westbrighton.pdf | SBS Neighborhood 360° CDNA West Brighton (study Dec 2023–Jun 2024; lead SIBOC with Forest Avenue BID, Castleton Avenue Merchants Organization, FRRCA): Forest Ave (Broadway–Hart Blvd) + Castleton Ave (Rector–Hoyt); 293 storefronts; vacancy 11.9% (Castleton 14.4%, Forest 9.7%); merchant survey 120 responses, 72% rent, 15% own; concerns incl. insufficient street lighting; business types (delis, salons, barbershops, clothing, restaurants, professional services, religious orgs); NYCHA PACT 574 apts / 14 bldgs; car ownership 78.3%. | §5 para 5; §5.5 stat 3; §8 intro + Forest/Castleton cards |
+| WB3 | `West Brighton Houses NYCHA Staten Island buildings apartments completed` · WebSearch → WebFetch | https://nychajournal.nyc/332-million-pact-renovation-coming-to-west-brighton/ | June 27 2024: NYCHA closed $332.3M PACT financing June 26 2024; 574 apartments at West Brighton I & II fully rehabilitated; scope incl. new doors, windows, kitchens, baths, Wi-Fi; security cameras + lighting; common-area entrances/lobbies renovated; partners BFC Partners, CB Emmanuel, Catholic Homes; Pinnacle City Living = day-to-day management; ~2-year construction. Intercoms not mentioned. | §5 para 5; §5.5 stat 4; §9 PACT Q; apartment-residents section |
+| WB4 | `West Brighton Staten Island neighborhood history…` · WebFetch | https://forgotten-ny.com/?p=111236 | Forgotten NY, Jan 2022 Forest Ave walk: Sunset Hill planned development with "occasionally picturesque cottages"; Hart Blvd two large apartment complexes; #391 Forest Ave small A-frame house with a pair of law practices; Clove Lakes Park 198 acres, Silver Lake Park 209 acres border Forest Ave; Egger's Ice Cream etc.; Forest Ave runs to Victory Blvd. | §7 Sunset Hill + apartment cards; §8 converted-house offices + Hart Blvd cards; §13 Clove Lakes card |
+| WB5 | same · WebFetch | https://forgotten-ny.com/2007/09/livingstonwest-brighton-staten-island/ | EMPTY (not accessible in build env — JavaScript redirect). | — |
+| WB6 | `West Brighton Houses NYCHA…` · WebFetch | https://derivativeworks.com/?p=1131 | Markham Drive Apartments, 35 Markham Drive, "214 affordable housing rental apartments" under construction (post dated Aug 10 2008). | §5 para 5 (named only); §7 apartment card; residents section |
+| WB7 | `West New Brighton Staten Island Victorian frame houses 19th century architecture Sunset Hill Randall Manor` · WebSearch → WebFetch | https://cityneighborhoods.nyc/west-new-brighton | Tree-lined avenues "lined with Victorian homes"; Queen Anne and Colonial Revival homes beside Italianate rowhouses and late Victorian cottages; Castleton & Bement laid out 1830s–1840s; name on maps mid-19th c.; Forest Ave major shopping corridor by 1910s; Clove Lakes Park completed 1920s; Walker Park home of SI Cricket Club. | §5 para 1; §5.5 stat 6; §7 cards (Victorian, Colonial Revival, Italianate); §8 Forest card; §13 Clove Lakes |
+| WB8 | same · WebFetch | https://en.wikipedia.org/wiki/Randall_Manor,_Staten_Island | Randall Manor: Bard Ave W, Henderson Ave N, Forest Ave S, Lafayette Ave E; named for Capt. Robert Richard Randall; south of Snug Harbor; development largely complete by 1964. | "we also serve" line, FAQ 1 (name only) |
+| WB9 | `Walker Park Staten Island Cricket Club Bard Avenue NYC Parks history` · WebSearch → WebFetch | https://php1-84.nycgovparks.org/parks/R015/history | Opened Aug 1931 as Livingston Park; renamed 1934 for Lt. Randolph Walker Jr. (WWI); cricket club founded 1872, moved to site 1885; clubhouse burned 1932, Tudor-style clubhouse 1934. | §13 Walker Park card |
+| WB10 | `Staten Island Zoo Barrett Park opened 1936 West Brighton Broadway` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Staten_Island_Zoo | 614 Broadway, West New Brighton; officially Barrett Park; opened June 10 1936; 8 acres; Staten Island Chuck, NYC's official Groundhog Day forecaster. | §13 Zoo card |
+| WB11 | `Gardiner-Tyler House Staten Island Clove Road landmark Julia Gardiner Tyler` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Gardiner-Tyler_House | 27 Tyler Ave, West New Brighton; c.1835 Greek Revival; Julia Gardiner Tyler lived there 1868–1874; NYC landmark May 12 1967; NRHP 1984. | §13 Gardiner-Tyler card |
+| WB12 | `NYC Landmarks Preservation Commission permit replace door hardware lock individual landmark house rules doors` · WebSearch → WebFetch | https://ur.nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property | LPC permit needed before work on a landmark/historic-district building; replacing doors = Permit for Minor Work; simple repairs exempt; door hardware not addressed → check with LPC via 311. | §13 Gardiner-Tyler card; checklist "Landmark status" |
+| WB13 | `HPD property registration required one- or two-family house owner does not live there tenant` · WebSearch → WebFetch | https://www.nyc.gov/site/hpd/services-and-information/register-your-property.page | Annual HPD registration for multiple dwellings (3+ units) and for 1–2 family private dwellings where neither owner nor immediate family resides; deadline Sept 1; $13 fee. | §9 three-unit Q; §9 "moved out of two-family" Q |
+| WB14 | `silive West Brighton burglary house break-in 120th Precinct` · Firecrawl search → Firecrawl scrape | https://gothamist.com/news/serial-burglar-giving-staten-island-residents-the-creeps | Feb 24 2007: burglaries at ≥13 homes in West Brighton and Westerleigh since Jan 19; strikes 1–9 p.m. when residents out; unlit homes without alarms/dogs; entry via side or rear window; ~40% rise in 120th Pct burglaries that year. | §9 windows Q; §10.5 H3 7 |
+| WB15 | same Firecrawl search | https://www.facebook.com/statenislandadvance/posts/the-staten-island-neighborhoods-of-west-brighton-and-tompkinsville-experienced-r/1379583600874347/ | SI Advance post excerpt: "56 burglaries … through mid-March, 21 involved a home" (West Brighton + Tompkinsville) — year not visible in excerpt; post not opened. NOT used. | research only |
+| WB16 | `Schlage smart deadbolt door prep backset 2-3/8" or 2-3/4" door thickness…` · WebSearch → WebFetch | https://kc.allegion.com/kb/article/what-are-the-required-door-preparation-specifications-for-the-schlage-arrive | Allegion/Schlage (Arrive): door thickness 1-3/8" to 2"; backset adjustable 2-3/8" or 2-3/4". | §7.5 bullets; §9 narrow-stile Q; §10.5 H3 3; checklist |
+| WB17 | `Clove Lakes Park acres history…` · WebFetch | https://prd2.nycgovparks.org/parks/clovelakespark | EMPTY (fetch error) — acreage taken from WB4, completion decade from WB7. | — |
+| WB18 | `reddit West Brighton Staten Island apartment landlord lock` · WebSearch | — | Reddit: EMPTY (no Reddit results returned; only rental listings). | — |
+| WB19 | Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo / Yelp 1–3★ (West Brighton) | — | EMPTY (not accessible in build env). §10.5 claims are from national cost guides (Fixr, Bob Vila) and manufacturers, stated as such on the page. | — |
+| WB20 | SI Advance (silive.com) smart-lock stories for West Brighton | — | EMPTY — only a 2022 robbery item surfaced (silive.com/crime-safety/2022/04/…); not lock-related, not used. | — |
+
+Technical statement without a dedicated source (general practice, flagged): plaster over metal lath can weaken Wi-Fi/Bluetooth signal (§5 para 4, §9 plaster Q, connectivity section) — no URL retrieved; worded as "can".
+
+### Prices used (SI multiplier 1.10 — copied from smart-lock-installation-staten-island.html / research "Prices used"; no new figures)
+- Single-door keypad or fob reader with electric strike: $1,650–$2,750 (§14 table, §15 Premium, schema).
+- New electric strike: $275–$495 (§14, schema). Failed strike repair: $325–$534 (§14, schema).
+- Setup-only first hour: $225 (repair capture, §14, BYO card). Service/callback $195/hr, 3-hr min ($585) (§14).
+- Residential smart locks: quoted flat at walkthrough. Fixr national $250–$400 / avg $300, labelled national (§10.5, §14).
+- Worked totals (sums of published lines only): two single-door systems = $3,300–$5,500; new strike alone $275–$495; setup-only $225.
+
+## Images (11)
+Drive folder `AESS Website Photos/Smart Lock Installation` empty (checked by main run); CompanyCam not connected. Source = `images/smart-lock-installation/aess-smart-lock-installation-*` (the set on the SI page). Each viewed with Read; technician faces cropped out with Pillow (crop boxes in build notes); skipped: video-doorbell-and-smart-lock (readable house number "128"), showing-customer-app-unlock (customer face), suburban-front-door-van, office-lever, office-glass-door (faces/commercial). apartment-door crop removes the "4A" unit plate. NOTE: the whole aess-* set looks AI-rendered (flag for Anwar).
+| File (images/smart-lock-installation/) | Source (aess-smart-lock-installation-…) | Crop | Section |
+|---|---|---|---|
+| smart-lock-installation-west-brighton-staten-island-keypad-deadbolt-raised-panel-wood-door.webp | keypad-smart-deadbolt-brownstone-door | none | hero |
+| …-keypad-outside-thumb-turn-inside-pair.webp | keypad-exterior-thumbturn-interior-view | none | instant action |
+| …-tape-measure-backset-bore.webp | measuring-door-bore-for-deadbolt | x 780–1400 | §5 |
+| …-keypad-wiring-service-check.webp | servicing-keypad-wiring | x 820–1400 | repair capture |
+| …-fingerprint-reader-app-confirmation.webp | fingerprint-unlock-demo-app | x 720–1400 | §6 |
+| …-old-brass-deadbolt-removal.webp | removing-old-brass-deadbolt | x 760–1400 | §7 |
+| …-latch-strike-alignment-check.webp | checking-latch-bolt-alignment | x 780–1400 | converted houses |
+| …-new-access-code-app-screen.webp | programming-access-code-app | x 720–1400 | §8 |
+| …-interior-unit-ribbon-cable.webp | connecting-interior-unit-cable | x 800–1400 | §10 |
+| …-keypad-mounting-screws-drill.webp | drilling-keypad-lock-brownstone-stoop | x 820–1400 | §14 |
+| …-apartment-door-keypad-app-test.webp | apartment-door-smart-lock-app | (760,280)–(1400,933) | apartment residents |
+
+## Question register — smart-lock-installation-west-brighton-staten-island-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 14)
+1. The wood beside the glass on our old front door is only a few inches wide — what kind of smart lock fits a door like that?
+2. Our walls are old plaster, some of it on metal lath — will that block the lock's Wi-Fi or Bluetooth?
+3. There isn't an electrical outlet anywhere near our front door — where does a Wi-Fi bridge or hub plug in?
+4. Our house was divided into three apartments years ago — what changes for the locks once a building has three units instead of two?
+5. When the upstairs tenants have to leave through the shared front door, what must that door's lock never do?
+6. The upstairs apartment's only door is at the top of an outside wooden stair at the back — can that door take a keypad lock?
+7. Can the mail carrier still get to the mailboxes inside our shared front hall once the street door goes keyless?
+8. We've moved out of our two-family and now rent both floors — what should change on the locks?
+9. Our West Brighton Houses apartment is down for a new front door in the PACT renovation — should we hold off on adding a smart lock?
+10. North Shore burglaries have come in through side and rear windows in the daytime — does a smart lock on the doors help at all?
+11. Our new smart deadbolt still has a key cylinder — is it any harder to pick than the old lock we took off?
+12. What happens if someone stands at our keypad and keeps trying wrong codes?
+13. Our office is on the ground floor of an old house on Forest Avenue — can the front door unlock itself for office hours and relock at closing?
+14. Our storefront landlord keeps a key to the shop — does a new keypad lock have to let the landlord in too?
+
+### §17 FAQ (visible == FAQPage, 10)
+1. Do you cover the whole of West Brighton, including the blocks near Walker Park, Sunset Hill and Richmond Terrace?
+2. Our door is hinged on the left — do we need to order a left-handed smart lock?
+3. Will the buttons we press most wear shiny and give our code away?
+4. How many digits should our door code be?
+5. Do the codes get wiped when the batteries are changed?
+6. Can young children use a fingerprint reader, or is a code better for them?
+7. (removed by main run at wiring — duplicated New Dorp FAQ "Should we let a voice assistant unlock the front door?") ; Q&A heading "National alarm brands or a local installer?" retitled "National alarm brands set against a local installer" (duplicated Washington Heights)
+8. What should we do with the physical keys once the house goes keyless?
+9. Will you show us how to factory-reset the lock ourselves if we ever need to?
+10. How far ahead do we need to book a West Brighton installation?
+
+### Other question-form headings
+- H2 "Keypad Dark or Lock Offline in West Brighton?" (repair capture)
+- H2 "Locked Out Somewhere Between Forest Avenue and the Kill Van Kull?" (final repair capture)
+
+De-dup notes: checked against every register in research/smart-lock-installation.md (16 area pages) and the Bayside and Morris Park drafts on disk at ~11:35. Closest neighbours left for the main run to judge: Q11 picking vs Bayside "keyless-only model safer or riskier?" (different intent: cylinder pick-resistance vs no-cylinder trade-off); Q10 windows vs Morris Park "pried side door — would smart lock have warned?" (windows vs door alerting); FAQ 9 factory reset vs Bayside "seller's keypad master code wiped" (handover know-how vs inherited lock); Q13 office-hours schedule vs Rockland "store schedule moving with sunset"; Q14 landlord key vs Nassau "landlord won't let us cut storefront frame". Avoided on purpose: glass-sidelight reach-through (Nassau), outer vs inner door (Brooklyn), landmark approval (HV/Brooklyn), mortise co-op (NYC), lead paint (Dutchess), cost-in-area (NYC/SI).
