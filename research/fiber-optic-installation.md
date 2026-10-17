@@ -2315,3 +2315,300 @@ De-dup notes: checked by meaning against every question heading/FAQ on the 16 li
 - Jamaica Plan figures (230 blocks, ~11,800 homes, $413M, $78M Jamaica Ave etc.) are from the Council's Oct 9 2025 committee release and Cozen's summary of the Oct 29 vote; final adopted numbers may differ slightly.
 - The Crossing unit/storey counts follow FXCollaborative (539 + 130 units; 28 + 14 storeys; 2021); listing sites disagree.
 - 1898 date for the 161-02 Jamaica Savings Bank is from a NYT City Room excerpt (page not scraped).
+
+## Financial District, Manhattan — neighbourhood research (2026-10-17 batch, fiber-optic-installation-financial-district-manhattan-ny; includes this page's question-register additions)
+
+### Financial District, Manhattan — local research (2026-10-17 batch, fiber-optic-installation-financial-district-manhattan-ny)
+Neighbourhood spoke under /fiber-optic-installation-manhattan. Phone (929) 560-0737, Bronx GBP. Silo-wide findings and the Manhattan section above are reused (Empire City Subway 1891, carrier hotels, Verizon end-2013 premises-passed figures, cost-guide claims, comptroller conversion counts, CBS Verizon/Sandy, structured-cabling prices). Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Platform for every entry below: WebSearch (result list) then WebFetch (page read) unless marked otherwise.
+
+**Thesis:** a Financial District backbone has to be designed to be separated, moved and kept dry — towers change occupancy (two conversion waves), cellars sit behind post-Sandy flood barriers, and the street grid/security perimeter controls access. Not a geo-swap of the Manhattan page (that page's thesis is building rules/riser paperwork).
+
+#### Reddit (local) — EMPTY (not accessible in build env)
+No new Reddit thread was opened for FiDi. Silo-level r/AskNYC excerpt ("It's on the ISP to wire your building…", https://www.reddit.com/r/AskNYC/comments/1tez8o2/incorrectly_wired_internet_cables_in_building/) reused → §10.5 H3 5.
+
+#### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 substitutes: claims published by cost guides / carrier pages already recorded in the silo file (thenetworkinstallers FBA medians $18/ft underground, $8 aerial, ~5% testing; lowvoltagenewyork fusion splices $50–$150; AT&T 4–6 h / T-Mobile up to 4 h; Quantum Fiber multifamily 30/30/40–60 days; Atlantech 15-month wait). Angi/HomeAdvisor/Fixr: EMPTY (silo query returned none; stated on page).
+
+#### Neighbourhood data
+- Query `Downtown Alliance Lower Manhattan real estate market overview 2025 residents office inventory` · https://downtownny.com/research/2025-lower-manhattan-real-estate-year-in-review/ — 2025 leasing 4.75M sf ("most active year since 2019"); vacancy 22.2% (Class A 21.1%); residents passed 70,000 for the first time; Q4 hotel occupancy 90% and record ADR $384.93; 90 retail openings in 2025. → §5 para 4 + §5.5 facts; Mixed-use section (hotel ADR/occupancy, 90 retail openings).
+- Same query · https://downtownny.com/research/lower-manhattan-real-estate-overview-q2-2025/ — largest Q2 2025 deal 193,000 sf at 1 World Trade Center (financial services tenant); vacancy 22.8%. → §8 WTC card; Battery Park City/WTC section.
+- Query `1995 Lower Manhattan revitalization plan 421-g tax incentive office to residential conversions number of units` · https://cbcny.org/research/potential-office-residential-conversions — 1994 Giuliani plan + 1995 state package; 98 office buildings, 12.8M sf, 12,865 units; 28 buildings in first 3 years; permits before June 2006, construction by 2013. → §5 para 1, §5.5, Two Conversion Waves section, FAQ 7.
+- Query `City of Yes for Housing Opportunity office conversions buildings built before 1991 expanded eligibility` · https://www.cozen.com/news-resources/publications/2024/city-of-yes-for-housing-opportunity-approved-by-the-city-council — approved Dec 5 2024; conversion provisions now apply to buildings built before 1991 in most areas (previously pre-1961, parts of Manhattan/Brooklyn/Queens). Also https://www.nyc.gov/assets/planning/download/pdf/plans-studies/city-of-yes/housing-opportunity/housing-opportunity-guide-conversions.pdf (DCP guide). → §5 para 1, Two Conversion Waves section.
+- Query `Financial District office to residential conversion 2025 2026 Broad Street Wall Street Maiden Lane conversion units 467-m` · https://newyorkyimby.com/2026/03/61-broadway-readies-for-796-unit-office-to-residential-conversion-in-financial-district-manhattan.html — 61 Broadway, 33 storeys, 1913 Adams Express (Francis Kimball), National Register; 796 rentals, ~200 affordable under 467-m; work to start March 2026, first units H1 2028. → §5.5, §7 card, §13 landmark card, conversion section.
+- Same query · https://www.6sqft.com/former-home-of-new-york-stock-exchange-in-fidi-to-become-nearly-400-apartments/ — 40 Exchange Place (1893, 20 storeys) 382 apartments; permit filed July 9 2025; still office, vacating date unclear. → §7 card, §9 Q "floors above converted while we stay".
+
+#### Flooding / resilience
+- Query `One New York Plaza Hurricane Sandy flooded basement telecom equipment relocated` · https://therealdeal.com/new-york/2012/11/01/trd-survey-more-than-17-million-sf-of-downtown-office-space-shuttered-in-sandys-wake/ — at least 17.3M sf in at least 15 east-side buildings closed with flooded basements: 55 Water (3.6M sf), 1 NY Plaza, 2 Broadway, 4 NY Plaza, 90 Broad, 60 Broad, 120 Wall, 180 Maiden Lane; water pumped from tunnels under Pearl Street where communications lines flooded. → §5 para 2, §5.5, Floodline section.
+- Query `Lower Manhattan building flood barriers installed after Sandy Water Street office tower deployable flood wall` · https://www.constructiondive.com/news/54-story-nyc-tower-installs-bathtub-flood-protection-system/245538/ — 55 Water St, 54 storeys, 3.8M sf; removable posts-and-panels "bathtub" for 8 ft of water; stored in basement; 30 workers, 8 hours (2014). → §5.5, Floodline section, §13 card. (Page says ">3.5 million sf" in §7 to reconcile 3.6M/3.8M sources.)
+- Same query · https://en.wikipedia.org/wiki/Lower_Manhattan_Coastal_Resiliency — FiDi–Seaport master plan 2021; 15–20 years, $5–7B, funding not secured as of late 2025; BPC resiliency $1.6B; South BPC/Wagner Park reopened July 2025 ($300M); North/West BPC site work late 2025, completion 2031. → Floodline section, BPC/WTC section.
+- Query `dry floodproofing wall penetrations conduit sealing FEMA floodproofing utilities penetrations seals` · https://www.cedengineering.com/userfiles/S06-005%20-%20A%20Guide%20to%20Dry%20Floodproofing%20Homes%20-%20US.pdf — measures "only as good as their weakest link"; identify number/size/location of penetrations below DFE; sealants/membranes reduce seepage. FEMA EMI page https://emilms.fema.gov/is_0280/groups/152.html → EMPTY (file not found). → Floodline section, §9 flood-barrier Q.
+- Query `NYC Building Code Appendix G flood-resistant construction utilities equipment above design flood elevation substantial improvement` · https://www.nyc.gov/assets/buildings/pdf/presentations/bsls22-flood_resistant_construction.pdf — Item 10.2.2.3: new equipment in existing non-residential spaces below DFE must be designed/isolated so as not to affect building components if submerged; no mention of telecom. → §8.5 compliance, §9 entry-room relocation Q.
+- CBS New York Verizon/Broad Street vault quote (silo Manhattan section) reused → Floodline section closing paragraph.
+
+#### Streets, access, landmarks
+- Query `Wall Street security zone NYSE vehicle barriers sally ports restricted vehicle access streets` · https://tribecatrib.com/content/downtown-alliance-targets-street-mess-around-ny-stock-exchange (Jan 31 2017) — fence along Wall St between Broad and Broadway; checkpoints incl. Broad St; installed after 9/11; Downtown Alliance failed to shrink zone; vehicle access rules not described. → §5 para 3, §9 Q1, §13 card. (Page says checkpoint rules are set by police and change — no procedures invented.)
+- Query `Stone Street Financial District one of oldest streets first paved narrow colonial street grid` · https://en.wikipedia.org/wiki/Stone_Street_(Manhattan) — cobbled 1658, first in New Amsterdam; renamed 1794; LPC historic district 1996, NRHP 1999; eastern block pedestrian, closed to vehicles in summer for dining; Greek Revival 1830s buildings after Great Fire of 1835; 1 Hanover Square NHL; 85 Broad St (1983) lobby preserves street path. → §5, §5.5, §7, Oldest Blocks section, §13 card.
+- Query `Equitable Building 120 Broadway 1915 led to 1916 zoning resolution floor area` · https://en.wikipedia.org/wiki/120_Broadway — completed 1915, ~1.2M sf, helped spur 1916 Zoning Resolution. → §7, §13 card.
+- Query `South Street Seaport Historic District designated 1977 blocks buildings Landmarks Preservation Commission` · nyclandmarks.lunaimaging.com result list only — confirms district name; designation year NOT verified, so page names the district without a year.
+- Query `75 Broad Street data center carrier hotel Lower Manhattan colocation` · https://baxtel.com/data-center/epsilon-ny-75-broad — historic ITT carrier hotel; NYI "Broad Street Connect" launched Q4 2023 with JEMB Realty; Verizon colocation on 7th floor. → §9 latency Q, §13 card.
+
+#### Building construction / technical
+- Query `terra cotta flat arch floor construction early New York skyscrapers hollow clay tile coring` · https://en.wikipedia.org/wiki/Structural_clay_tile — flat arches between steel/iron beams; declined after 1910 as reinforced concrete and metal deck spread; no longer manufactured, not replaced. Nothing on drilling. → §7 card + methods, §9 clay-tile Q (page says "many" towers "before about 1910" and that we confirm by inspection; not claimed for any named building).
+- Query `underfloor duct system cellular steel floor deck telephone power 1960s office buildings` · https://www.econline.com/doc/cellular-underfloor-duct-system-0001 — cellular underfloor duct for data, voice, power in separate compartments, hatches. Era not sourced → page does not date it. → §7, §9 underfloor Q.
+- Query `raised access floor cabling NEC Article 645 information technology equipment room underfloor cable requirements` · https://cablinginstall.com/design-install/cabling-installation/article/16468180/raised-floor-cabling-standards — if room meets NEC 645-2, other cable types allowed; otherwise plenum listing rules (800-51/770-51) apply. → §9 raised-floor Q, §10 table.
+- Query `NYC building code auxiliary radio communication system ARCS FDNY requirement high-rise buildings` · https://www.ny-engineers.com/auxiliary-radio-communication-system-design — BC requires in-building radio in all new high-rise buildings since 2015; radiating cable in stairways/corridors/shafts; DAS over fiber; riser diagram to FDNY; licensed master electrician installs; FCC licence for commissioning. → §8.5, §9 ARCS Q.
+- Query `distributed antenna system DAS fiber backbone in-building cellular coverage office tower how it works head-end remote units` · https://www.belden.com/blog/how-in-building-das-works — 600–2700 MHz signals don't travel well through building materials; head-end combines carriers onto single-mode fiber to a remote unit per floor; coax to antennas. → §6 card, §9 (statement H3, not a question — LIC page asks the cellular question).
+- Query `speed of light in optical fiber about 5 microseconds per kilometer latency` · https://www.commscope.com/globalassets/digizuite/2799-latency-in-optical-fiber-systems-wp-111432-en.pdf — 5 µs/km; equipment latency independent of distance; colocation operators equalise link latency. → §9 latency Q.
+- Query `23 NYCRR 500.13 asset inventory requirement November 1 2025 DFS cybersecurity regulation` · https://www.hlc.com/en/publications/nydfs-final-set-of-cybersecurity-requirements-under-amended-part-500-take-effect-november-1-2025 — from Nov 1 2025 written inventory procedures; track owner, location, classification, support expiration date, RTO; kept in one place. → §9 DFS Q (stated as not legal advice).
+
+#### Local news / hyperlocal on fiber contractors in FiDi — EMPTY (none retrieved beyond the items above).
+
+#### Pricing used (existing Manhattan page lines only — no new prices)
+$44 termination · $50 OTDR/strand · $453 MM drop · $517 SM drop · 12-strand OM4 backbone $5,625–$8,750 · 24-strand OS2 $10,000–$18,750+ · second telecom room from $3,000 · $195/hr, 3-hr min ($585). Worked totals on page: Starter $776 = 12×$50 + 4×$44; Standard $6,225–$9,350 = backbone $5,625–$8,750 + 12×$50; Premium from $13,000 (to $21,750+) = OS2 backbone $10,000–$18,750+ + second room from $3,000. Caveat: the Manhattan page's OS2 line already says "OTDR on every strand"; Premium does not add OTDR again.
+
+#### Images (11) — Step C library; Drive folder empty, CompanyCam not connected
+Copied (new names) from existing `/images/fiber-optic-installation/` files; none shares content with the DUMBO or LIC copies. Source files look AI-rendered, not real photos (garbled box text, invented shirt phone numbers such as 844-386-7238, uniform lighting). Most show technicians' faces in profile/three-quarter view (staff, not customers); none shows house numbers, licence plates or readable documents.
+1. fiber-optic-installation-financial-district-corridor-cable-bundle-idf.webp ← staten-island-corridor-riser-bundle-dress (hero)
+2. …-van-shelving-reels-ladders.webp ← suffolk-county-van-cable-reels-ladders (§5)
+3. …-switch-seated-rack.webp ← staten-island-sfp-switch-rack-mount (§6)
+4. …-metal-stud-cable-routing.webp ← staten-island-metal-stud-cable-routing (§7)
+5. …-conduit-pull-box-block-wall.webp ← staten-island-block-wall-conduit-box-pull (Floodline)
+6. …-ceiling-tile-ladder-feed.webp ← staten-island-ceiling-tile-cable-feed (§9)
+7. …-link-tester-pass-screen.webp ← staten-island-link-tester-rack-and-jack (§10)
+8. …-tone-probe-wall-opening.webp ← hudson-valley-tone-probe-wall-jack-trace (§12)
+9. …-retail-ceiling-cable-pull.webp ← staten-island-retail-fitout-ceiling-pull (§13)
+10. …-recessed-wall-box-patching.webp ← suffolk-county-recessed-wall-box-patching (Conversion waves)
+11. …-rack-laptop-switch-setup.webp ← ulster-county-rack-switch-laptop-setup (§16)
+DAILY-LOG note: `images: 11 reused from images/fiber-optic-installation/ (no real Fiber Optic Installation photos yet; library images appear AI-rendered)`.
+
+#### Keyword plan (FiDi page)
+Service: fiber optic installation Financial District, fiber backbone Lower Manhattan, riser fiber Wall Street, fusion splicing, OTDR testing. Problem: flood-proofed cellar, entry room relocation, conversion demolition, restricted delivery/security zone, clay-tile floors, raised floor clean-out, cell dead zones. Technology: OS2, OM4, OFNP/OFNR, armoured, microduct, sealed enclosures, MPO, DAS. Industry: financial firms/trading desks, DFS-regulated firms, law, hotels, conversions/residential, Seaport restaurants, retail. Geographic: Financial District, Wall Street, Broad Street, Water Street, Maiden Lane, Broadway, Stone Street, Seaport, World Trade Center, Battery Park City, Lower Manhattan.
+
+#### Question register additions (fiber-optic-installation-financial-district-manhattan-ny)
+§9 Questions Answered:
+- Our building sits inside the barricaded blocks around the Stock Exchange — how do installers get vans, reels and ladders to the door?
+- Our cellar was rebuilt with a flood wall and drop-in barrier panels — where can new fiber run so it never gets in their way?
+- The landlord is moving the carriers' entry room up out of the cellar — what happens to our circuits and our fiber during the move?
+- Can new risers be cored through the clay-tile floor arches of an early Broadway or Broad Street skyscraper?
+- Our post-war tower has an underfloor duct system — can fiber use it instead of the ceiling?
+- Our old trading floor has a raised access floor — can fiber run underneath it, and what cable is allowed there?
+- The floors above us are being converted to apartments while we stay — how do we keep our riser fiber alive through the demolition?
+- Our building has to add a Fire Department radio system — does it compete with our fiber for riser space?
+- Our trading desk counts microseconds — does the length of the fiber path inside the building matter?
+- We're covered by New York's DFS cybersecurity rules — does a documented fiber plant help with the asset inventory they now require?
+(In-building cellular is covered under a statement heading, "A note on in-building cellular systems", not a question, because the LIC page asks it.)
+§17 FAQ:
+- Do you work in Battery Park City, the Seaport and the World Trade Center blocks as well as the streets around Wall Street?
+- Will you work on the apartment floors of a converted tower, or only the office floors?
+- We sublease part of a floor downtown — can we have our own fiber back to the building's entry room?
+- Is fiber work in the Financial District priced differently from Midtown?
+- How long do you need the freight elevator for a typical downtown riser pull?
+- Can fiber reach the lobby security desk and turnstiles in a downtown tower?
+- Were the towers converted under the 1990s downtown incentive left with usable telecom risers?
+- If our firm moves to a different floor in the same tower, can our backbone move with us?
+- Some downtown towers require union labour — can you work in those buildings?
+Other question headings: Fiber Link Down Between Wall Street and the Battery? · Conversion Starting Above You? · Downtown Link Dark After a Storm Warning?
+
+## DUMBO, Brooklyn — neighbourhood research (2026-10-17 batch, fiber-optic-installation-dumbo-brooklyn-ny; includes this page's question-register additions)
+
+### DUMBO, Brooklyn — local research (2026-10-17 batch, fiber-optic-installation-dumbo-brooklyn-ny)
+
+Neighbourhood spoke under `fiber-optic-installation-brooklyn`. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in `research/fiber-optic-installation.md` are reused where noted (no silo research redone). To be merged into `research/fiber-optic-installation.md` by the main run.
+
+**Thesis:** in DUMBO the cable is cheap and the building is the constraint — century-old Gair reinforced-concrete slabs, brick-and-timber warehouses, a landmark district with newly rebuilt Belgian block streets, Manhattan Bridge trains overhead and a Sandy-flooded river edge decide the route, the enclosure placement and the price.
+
+#### Reddit (local)
+- Query: `Manhattan Bridge subway trains noise vibration DUMBO residents buildings` · Firecrawl web search (excerpt only; Firecrawl does not scrape reddit.com) → https://www.reddit.com/r/DUMBO/comments/1plt5ma/front_streetbridge_street_nonstop_noise_closed/ — excerpt: "Our triple paned windows make the trains crossing sound like a mild, relaxing sigh compared to this ongoing street construction." → §"The Manhattan Bridge Overhead" para 1 (resident voice, quoted as a forum post).
+- Query: `reddit Dumbo internet fiber building office loft provider` · Firecrawl web search → https://www.reddit.com/r/sysadmin/comments/1oni8uz/pilot_fiber_in_nyc/ — excerpt: "The building fiber remains a single point of failure with Pilot/Fios…" → §"Two Carriers, One Cellar Wall" para 2 (presented as a commenter's general NYC opinion, not DUMBO fact). Other results (r/verizon, r/telecom, r/nyc, r/networking) generic NYC — not used.
+- DUMBO-specific Reddit threads about fiber/internet: EMPTY (none returned).
+
+#### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp — EMPTY (not accessible in build env)
+Substitute for §10.5 reality check — claims published by competitor/provider pages, quoted as published:
+- Query: `reddit Dumbo internet fiber building office loft provider` · Firecrawl → https://www.buildinghealthx.com/services/internet-providers/dumbo (search excerpt): "Many converted warehouse lofts have Fios where the landlord granted Verizon access for fiber installation, though coverage is patchier here than in new…" → §10.5 H3 2.
+- Silo sources reused (not re-researched): streamlinetelecom.com "$1-6 per linear foot" → §10.5 H3 1; thenetworkinstallers.com fusion splice $30–$75 (citing Ring and Ping) → H3 3; lowvoltagenewyork.com "OTDR $75–$150/hour; nobody publishes a flat per-strand rate" → H3 4; "Plenum rating adds 15–25%" → H3 5; "singlemode glass is now cheaper than OM4" / transceivers "roughly 1.5–5×" → H3 6; "a 2,000-foot OM4 riser run between IDFs, terminated and tested — lands around $3,000–$5,000" → H3 7.
+- Angi/HomeAdvisor/Fixr DUMBO pages: EMPTY (not searched again; silo search returned none).
+- Query: `business internet providers Dumbo Brooklyn` — https://ispreports.org/business-internet-providers-dumbo-brooklyn-ny/ appeared in results (excerpt only: "Compare 10 business internet providers in Dumbo") — not used.
+
+#### Landmarks, buildings, historic district
+- Query: `DUMBO Historic District designation 2007 Landmarks Preservation Commission buildings warehouses` · Firecrawl search → https://s-media.nyc.gov/agencies/lpc/lp/2279.pdf (Firecrawl scrape, query mode): designated December 18, 2007; "approximately 91 buildings"; bounded by John, Adams, Plymouth, Main, Water Streets, Howard Alley, Front, York, Washington, Pearl, Jay and Bridge Streets; "slow-burning mill construction" / "massive wooden columns, beams"; reinforced concrete; brick; "granite Belgian block paving"; "network of train tracks, running along the streets and in some cases extending into individual buildings, laid out by the Jay Street Connecting Railroad"; "The Manhattan Bridge, which soars over the area"; Robert Gair, Arbuckle Brothers named. → §5 paras 1 & 3, §5.5 fact 1, §8.5 Landmarks callout, "Fiber in a Landmark District" section, glossary.
+- Same search → https://www.citylandnyc.org/landmarks-designates-new-dumbo-historic-district/ (excerpt: Dec 18 2007 vote) and https://www.brownstoner.com/history/breaking-dumbo/ (excerpt: voted 8-0) — corroboration only.
+- Query: same · Firecrawl → https://dumbo.nyc/buildings/ (DUMBO Improvement District, search excerpt): 45 Water St built 1870, 5-storey brick and timber tobacco inspection warehouse, truncated by New Dock Street, "now a city landmark, houses … St. Ann's Warehouse"; Empire Stores 53–83 Water St, western warehouses 1870, eastern 1885, seven brick warehouses; 16 Main St 1906 stable for the Gair Company; 1 Main St reinforced concrete, "tallest reinforced concrete building in the world when it was built in 1914", leased in 1920s to Charles William Stores; 45 Main St 1919, Gair's third and final, designed by William Higginson, erected by Turner; 55 Washington St 1905, "first reinforced concrete building for Gair and the largest of its kind at the time"; 10 Jay St 1897–98 sugar refinery; 68 Jay St 1915, "Brick; steel frame with reinforced concrete floors", tea warehouse; 1 Front St "brought back to life in the late 2000s"; 11 & 15 Old Fulton St. → §5.5, §7 cards, §8 cards, §13 cards, Building Reference table, Q&A Q1.
+- Query: `Gair buildings DUMBO Robert Gair reinforced concrete factory history "Gair"` · Firecrawl → https://www.brownstoner.com/history/robert-gair-dumbo-brooklyn-inventor-gairville-boxes-packaging/ (scrape, Oct 23 2024): "Gairville"; "eight Gair buildings"; Turner Construction; "1904 and 1916"; 1 Main St "tallest reinforced concrete building in the world"; "The Gair name incised on the buildings". https://old.skyscraper.org/EXHIBITIONS/VERTICAL_URBAN_FACTORY/gair.php (excerpt: brick slow-burning 1887–91, "from 1904 on built, with Turner Construction, much larger…"). → §5 para 1, §7 Gair card, landmark section, glossary.
+- Query: `Empire Stores DUMBO redevelopment 2017 office square feet Water Street warehouse restoration` · Firecrawl → https://developingresilience.uli.org/case/empire-stores/ (scrape): "400,000 –square-foot raw space"; "AquaFence, a retractable flood wall that staff can store when the building doesn't need it"; "tuck in a generator on the fifth floor"; Brooklyn Bridge Park redevelops "1.3 miles of former industrial waterfront". https://brooklynbridgepark.org/press-releases/empire-stores-… (excerpt: "500,000-square-foot multipurpose facility") — not used (ULI figure used instead). → §13 Empire Stores card, Q&A flood/mechanicals Q, flood section bullet, Building Reference table.
+- Query: `Dumbo Heights Watchtower buildings 55 Prospect 77 Sands 81 Prospect 117 Adams office conversion Etsy WeWork` · Firecrawl → https://gothamist.com/news/jehovahs-witness-watchtower-buildings-will-become-dumbo-heights-tech-temple (excerpt: 175 Pearl, 77 Sands, 117 Adams, 81 and 55 Prospect); https://www.bizjournals.com/newyork/news/2016/08/05/… (excerpt: "Etsy, which moved its headquarters to 117 Adams St. earlier this summer"); https://www.jrmcm.com/project/dumbo-heights/ (excerpt: "The 1,200,000 SF, $93 Million LEED certified project"); https://www.wework.com/buildings/dumbo-heights-77-sands--new-york-city--NY (excerpt: "a 1962 industrial landmark"; "three WeWork floors"). → §7 Dumbo Heights card, §8 card, §13 card, Building Reference table, Coworking section.
+
+#### Local data (DUMBO Improvement District)
+- Query: `DUMBO Improvement District annual report tech companies employees office square feet` · Firecrawl → https://dumbo.nyc/data/ (scrape): commercial sq ft (2022) 6 million; employees (2022) 11,266; office buildings 15; creative and tech companies 1,000+; retail storefronts 125+; residents (2023) 10,200; residential units (2023) 3,338; F train York St 2024 ridership 3.47 million; Brooklyn Bridge Park 85 acres, avg 613,698 visitors/week, Pier 1 Old Fulton most used entrance; 20+ galleries; 152 artist studios; 107 video art exhibits projected onto the Manhattan Bridge; 13th Annual Photoville (2024); 2 pedestrian plazas; 2,700 hours of open streets; 152,313.5 sq ft Belgian block. (Page notes 2021 data unless indicated.) → §5 para 1, §5.5 fact 2, §8 Front/York card, Tech Triangle section, Lofts section, Arts section, "Working Around" section, Q&A landlord Q.
+- Same search → https://technical.ly/civic-news/dumbo-has-500-tech-firms-10k-employees-in-10-block-radius/ (older excerpt: 500 tech firms) — not used (superseded by BID figure).
+
+#### Local news / hyperlocal
+- Query: `Manhattan Bridge subway trains noise vibration DUMBO residents buildings` · Firecrawl → https://www.mta.info/document/138061 (scrape, "New York City Transit Noise Reduction Report"; DUMBO memo transmitted January 18, 2024): measured homes incl. 135 Plymouth St (357 trains, max Lmax 94.76 dB(A)), 56 Adams St (520, 94.66), 68 Jay St (503, 90.37), 98 Front St (323, 83.93), 133 Water St (472, 80.36); Front St & Pine St at anchorage 94.4 dB(A) vs 68.2 dB(A) background (30-min sample); rail-joint modification judged "infeasible". → §5.5 fact 4, Bridge section table and paras, Q&A rack Q.
+- Same search → https://www.brooklynpaper.com/deaf-in-dumbo/ (scrape, Sept 25 2008): DUMBO Neighborhood Association president moved away over noise; B, D, N, Q trains and truck traffic on the Manhattan Bridge; 33-story J and 23-story Beacon Tower named. → Bridge section para 1, §7 towers card.
+- Query: `DUMBO Hurricane Sandy flooding Water Street basements Brooklyn 2012` · Firecrawl → https://www.nhregister.com/news/article/Hurricane-Sandy-floods-New-York-City-11496317.php (excerpt, AP caption: "Streets are flooded under the Manhattan Bridge in the Dumbo section of Brooklyn, N.Y., Monday, Oct. 29"); https://www.cbsnews.com/pictures/superstorm-floods-new-york-city/ (excerpt: flooded street in Dumbo). → Flood section para 1.
+- Query: `Dumbo Sandy flood businesses Two Trees buildings basement damage Jane's Carousel water` · Firecrawl → https://www.cbsnews.com/newyork/news/janes-carousel-spared-but-electronics-damaged-in-brooklyn-bridge-park/ (scrape): "The basement that houses all the electronics was totally flooded – 5 feet of water" (article undated on page; 2012 storm coverage). → §5.5 fact 6, §13 carousel card, Flood section.
+- Silo source reused: NYC SIRR report — Brooklyn flooded area more than twice the floodplain → Flood section para 1.
+- Query: `NYC DDC DUMBO street reconstruction Belgian block water main sewer Front Street Bridge Street project` · Firecrawl → https://www.nyc.gov/html/dot/html/pr2025/city-completes-historic-street-restoration-dumbo.shtml (search excerpt, full press text): $108 million; 26 blocks; began 2019; Pearl Street Plaza; restored archway; 2,735 ft new storm sewers; 1,300+ ft sanitary sewers replaced; 6,600 ft water mains upgraded; 3,140 ft new; 114 ADA ramps; "additional funding coming from private utilities"; LPC approved restoration "in the DUMBO and Vinegar Hill Historic Districts". https://dumbo.nyc/construction/ (excerpt: "broke ground in April 2019, and was completed in December 2025"). → §5.5 fact 5, Landmark section para 3, Q&A streets Q, §13 archway card.
+- Local news on DUMBO fiber-installation contractors 2025–2026: EMPTY.
+- FEMA flood zone designation for DUMBO blocks: EMPTY (search returned only generic FEMA/First Street pages; no zone claim made on the page).
+
+#### Local licensing / permits / building rules
+- LPC: designation report above → exterior work in the district is LPC territory; routes kept indoors. (Silo LPC sources reused.)
+- DOB sub-50 V permit statement, firestop, cable ratings: silo sources reused (unifinerds, cablinginstall NEC 770).
+- NYC Mesh (silo source, https://www.nycmesh.net/building): works with management companies, helps with lease/insurance paperwork; fiber connections require a fiber lease → Q&A community-network Q.
+
+#### Pricing used (existing approved prices only — no new prices)
+DUMBO = Brooklyn base 1.00× (blueprint §9). Lines copied from `fiber-optic-installation-brooklyn.html`: $35/termination; $40/strand OTDR; $350 MM drop; $400 SM drop; 12-strand OM4 backbone $4,500–$7,000; 24-strand OS2 $8,000–$15,000+; second telecom room with fiber link from $2,400; $195/hr, 3-hr minimum ($585). Worked packages are sums of those lines only: Starter $400+$400+4×$40 = $960; Standard ($4,500–$7,000)+12×$40 = $4,980–$7,480; Premium ($8,000–$15,000+)+(from $2,400) = $10,400–$17,400+.
+
+#### Images (11) — Step C library reuse
+Drive folder `AESS Website Photos/Fiber Optic Installation` empty (main run); CompanyCam not connected. 11 copied from `/images/fiber-optic-installation/` (all library photos are already used on sibling pages; chose single-use, face-free crops; none shared by hash with the FiDi/LIC batch pages). Each viewed before use; alt/title/caption describe only what is visible.
+| New file | Copied from |
+|---|---|
+| fiber-optic-installation-dumbo-hammer-drill-masonry-penetration.webp | …-putnam-county-hammer-drill-block-entry.webp |
+| fiber-optic-installation-dumbo-emt-conduit-sweep-feed.webp (hero) | …-putnam-county-emt-sweep-cable-pull.webp |
+| fiber-optic-installation-dumbo-switch-seated-in-rack.webp | …-putnam-county-sfp-switch-seated-rack.webp |
+| fiber-optic-installation-dumbo-rack-yellow-jumpers-ups.webp | …-putnam-county-rack-yellow-patch-ups.webp |
+| fiber-optic-installation-dumbo-patch-cord-labelling.webp | …-putnam-county-patch-cord-label-applied.webp |
+| fiber-optic-installation-dumbo-tone-probe-panel-trace.webp | …-putnam-county-tone-probe-panel-trace.webp |
+| fiber-optic-installation-dumbo-jhook-bundles-open-deck.webp | …-putnam-county-jhook-bundles-above-grid.webp |
+| fiber-optic-installation-dumbo-corridor-bundle-open-ceiling.webp | …-putnam-county-bundle-lift-open-ceiling.webp |
+| fiber-optic-installation-dumbo-panel-punchdown-hands.webp | …-putnam-county-punchdown-panel-hands.webp |
+| fiber-optic-installation-dumbo-idf-rack-patching-rear-view.webp | …-manhattan-idf-rack-patching.webp |
+| fiber-optic-installation-dumbo-link-tester-pass-wall-jack.webp | …-putnam-county-tester-pass-wall-outlet.webp |
+**Flag:** the library photos appear AI-rendered (garbled small text on equipment and shirts, inconsistent "Abstract Enterprise LLC" logos, blurred patches, a 844-386-7238 number on some uncropped originals). None of the 11 shows a fiber splicer; most show copper/rack work. DAILY-LOG note: `images: 11 reused from images/fiber-optic-installation/ (no real Fiber Optic photos yet; library looks rendered)`.
+
+#### Keyword plan (DUMBO page)
+Service: fiber optic installation DUMBO, fiber backbone DUMBO Brooklyn, loft fiber, slab coring, fusion splicing, OTDR testing. Problem: century-old concrete slabs, timber beams, landmark facade, bridge vibration, waterfront cellar entry, subtenant/coworking access, carrier redundancy through one entry. Technology: OS2, OM4, OFNR small-diameter riser, OFNP, armored indoor/outdoor, duct seal, latched enclosures, OTDR baseline. Industry: tech/creative offices, studios, galleries/venues, residential loft condos, coworking operators, landlords. Geographic: DUMBO, Water St, Front St, York St, Main St, Washington St, Jay St, Adams St, Plymouth St, Pearl St, Sands St, Prospect St, Old Fulton St, Dumbo Heights, Empire Stores, Brooklyn Bridge Park, Manhattan Bridge, Vinegar Hill, Fulton Ferry.
+
+#### Question register additions (fiber-optic-installation-dumbo-brooklyn-ny)
+§9 Questions Answered:
+- Our Gair-era factory floor still has openings left by old freight lifts, chutes and pipes — can new fiber use those instead of fresh cores through the slab?
+- Can fiber follow the heavy timber beams of a Water Street warehouse without being fastened into the wood?
+- How is cable protected where it has to cross rough brick and stone in a Civil War–era warehouse?
+- Where should the rack and splice enclosures go in a loft that shakes every time a train crosses the Manhattan Bridge?
+- After Sandy our building moved its generator and mechanical gear up high — should the network equipment go up to the roof with it?
+- What should we do with our fiber equipment when a coastal storm warning goes up for the DUMBO waterfront?
+- The cobblestone streets around our building were just rebuilt — can a new carrier still bring fiber in?
+- We own a DUMBO loft building and are leasing floors to tech tenants — what should we be able to show prospective tenants about the building's fiber?
+- Our gallery wants a video work on a far wall with no visible cable — can fiber carry the signal from a back room?
+- Can our DUMBO loft building connect to a community network such as NYC Mesh, and what wiring would that take?
+§17 FAQ:
+- Do you need to go through other tenants' spaces to run our fiber?
+- Do you also cover Vinegar Hill, Fulton Ferry and the Dumbo Heights buildings up on Sands Street?
+- Will trains crossing the Manhattan Bridge affect when you can splice or test?
+- Is there any extra charge for working inside the DUMBO Historic District?
+- Will new cable holes weaken the soundproofing our bridge-side office paid for?
+- Can you work inside a gallery or showroom without putting the pieces on the walls at risk?
+- Can one backbone in our loft building carry the lobby cameras, door readers and intercom as well as residents' internet?
+- Can fiber let a recording or podcast studio move noisy computers and storage out of the live room?
+- If our internet plan is the bottleneck, will new fiber inside the office make any difference?
+- How much noise and dust does coring a concrete floor make in an occupied loft building?
+Non-question headings (for reference): "DUMBO Fiber Link Dropped Today" (repair capture), "Studio Offline Between Water Street and Sands Street" (final repair).
+Checked against the silo register and the parallel FiDi / LIC pages: subletting, freight-elevator, pricing-rate, flood-wall entry and "does the building's fiber reach my space" questions were dropped from this page because FiDi/LIC ask them.
+
+## Long Island City, Queens — neighbourhood research (2026-10-17 batch, fiber-optic-installation-long-island-city-queens-ny; includes this page's question-register additions)
+
+### Long Island City, Queens — local research (2026-10-17 batch, fiber-optic-installation-long-island-city-queens-ny)
+
+Neighbourhood spoke of fiber-optic-installation-queens (Bronx GBP, (347) 434-6392). Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Silo-wide sources in research/fiber-optic-installation.md and the Queens section are reused where noted; only LIC-specific research is added here.
+
+**Page thesis:** Long Island City is a neighbourhood people live and work in while it is still being built (2001 rezoning towers, OneLIC 2025 rezoning starting a second cycle). Fiber here has to go in while a building is unfinished (TCO floors, loft re-lets, retail condos) and still be provable after the neighbours finish excavating — phased risers, scanned cores, sealed entrances, dated baselines and a building file.
+
+**Name handling:** the page says early in §5 (and in FAQ 1) that Long Island City is a neighbourhood of western Queens inside NYC, not Nassau or Suffolk, priced as Queens. The silo cross-link block labels the LI group "Long Island (Nassau and Suffolk)". tools/check_page.py: no geo check trips on "Long Island City" (title/alt aliases for queens = "Queens", satisfied; no wrong-area phrase check exists). Only side effect: `mask()` strips "Long Island" from "Long Island City" (leaves "City") in the duplicate-question comparison — harmless.
+
+#### Reddit / forums (local)
+- `reddit LongIslandCity internet building Verizon Fios Spectrum only option apartment` · Firecrawl search (excerpts only; reddit.com not opened)
+  - https://www.reddit.com/r/longislandcity/comments/1pt8ihp/spectrum_astound_or_fios/ — "Not sure where you live but if it is an option for your building, you may want to consider Honest Internet. I pay $50 flat/mo for 1 Gbps" → §5 para 4; §10.5 H3 7.
+  - https://www.reddit.com/r/AskNYC/comments/go1pjg/nyc_apartment_building_only_allowing_one_cable/ — "You can own a building in a FiOS neighborhood and still not be able to convince Verizon to install FiOS in it." → §5 para 4.
+  - https://www.reddit.com/r/AskNYC/comments/1uhxwu9/why_is_it_so_hard_to_get_fios_on_the_uws_im/ — "Verizon tends to want 70% of households in a building to request FIOS before they will wire a building." (UWS thread; quoted as a commenter's claim, page says no published Verizon policy found) → §10.5 H3 4.
+  - https://www.reddit.com/r/AskNYC/comments/155v4gi/moving_into_a_new_apartment_with_spectrum_how_bad/ — "I ended up opting for Verizons 5G home internet instead. It has been 95 percent as good as the wired Verizon connect" → §10.5 H3 5.
+- `reddit Long Island City apartment internet fiber building Verizon Fios not available tower` · WebSearch → community.verizon.com/discussion/1747457 ("impossible to get fios at new construction condominium") — WebFetch redirected to Verizon support (community sunset). EMPTY (not accessible in build env). Not used.
+- Silo source reused: Verizon forum Astoria tenant, moderator "owner to sign an easement form" → §10.5 H3 4.
+
+#### PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+Substitutes for §10.5 (claims quoted as published):
+- `Long Island City NY internet providers fiber availability percent coverage 11101` · Firecrawl search (excerpts)
+  - https://broadbandnow.com/New-York/Long-Island-City — "Fiber internet is 69.7% available in Long Island City. Cable is available to 85.6%" → §5.5, §10.5 H3 1.
+  - https://www.broadbandsearch.net/service/new-york/long-island-city — "Fiber 61.8%" → §5.5, §10.5 H3 1.
+  - https://www.inmyarea.com/internet/new-york/long-island-city — "Verizon Fios … cover a whopping 78.5% of the area" → §10.5 H3 1.
+  - https://www.spectrum.com/locations/internet-wifi-service/long-island-city-ny-i3215 — "Get Spectrum Fiber-Powered Internet in Long Island City, NY with reliable speeds up to 1 Gig" → §10.5 H3 2.
+- `"fiber optic" cables "not affected by water" flooding advantage` · Firecrawl search (excerpt) → https://blog.frontier.com/2020/07/5-reasons-you-want-fiber-internet-service-right-now/ — "It is not affected by water, including flooding" → §10.5 H3 3.
+- `low-E glass blocks cellular signal buildings distributed antenna system attenuation dB` · WebSearch →
+  - https://www.waveform.com/pages/das-in-leed-buildings-with-low-e-glass (WebFetch): low-E glass causes "high signal attenuation"; DAS donor antenna supplies indoor antennas "through media such as optical fiber"; no dB figure → §9 Q3, §10 table.
+  - https://powerfulsignal.com/support/kb/how-much-cell-signal-is-lost-passing-through-building-materials/ (WebFetch): low-e glass "−30 to −34 dB"; concrete 6″ "−10 to −19 dB" → §9 Q3, §10.5 H3 6.
+- Angi / HomeAdvisor / Fixr: no fiber cost page (silo finding) — stated on page, not quoted.
+
+#### Landmarks, buildings, corridors
+- `OneLIC neighborhood plan City Council approved Long Island City rezoning homes jobs` · WebSearch → https://www.6sqft.com/14700-homes-long-island-city-rezoning-approved/ (WebFetch, Nov 13 2025): unanimous Council approval; 14,700 homes, 4,350 permanently affordable; 54 blocks; East River to Crescent St, Queens Plaza North to 47th Ave; 3.5M+ sq ft commercial/industrial; continuous waterfront Gantry Plaza SP → Queensbridge Park; two elementary schools (Hunters Point, Court Square) 1,094 seats; IBZ studies → §5 para 2, §5.5, "Rezoned Twice" section, block-by-block (Ravenswood).
+- `Long Island City Partnership neighborhood snapshot residential units businesses jobs 2025` · WebSearch →
+  - https://www.osc.ny.gov/press/releases/2025/09/dinapoli-lic-sunnyside-and-woodside-are-drivers-economic-growth-queens (WebFetch, Sept 25 2025): LIC–Hunters Point housing units quadrupled 2010–2024 to 26,177; region private-sector jobs +9.3% to 74,972 (2023) led by business services, security services, social assistance, health care, retail → §5 para 2, §5.5.
+  - https://www.nyrej.com/lic-partnership-releases-lic-neighborhood-snapshot (WebFetch; snapshot released 2018): LIC "NYC's fourth-largest central business district"; co-working "five locations" → §8 intro, §9 Q6.
+- Silo/Queens sources reused: DCP 2001 rezoning summary (37 blocks, 23rd St/41st Ave/Sunnyside Yards, large floor plates as of right) → §5 para 2, "Rezoned Twice" para 1; One Court Square (Wikipedia: 673 ft, 50 storeys, 1989, Citigroup, 25-01 Jackson Ave, tallest until Skyline Tower 2019) → §7 card, §13 card; Silvercup Studios (Wikipedia: 42-25 21st St, bakery 1929–30 Gordon Baking Co., studio 1983, Sopranos/Mad Men) → §8 card, §13 card; inflect.com 23-10 43rd Ave data-centre listing, Zayo and Lumen in building → §8 card, §9 Q9; Hunters Point South Center Blvd towers → §7/§8.
+- `Falchi Building 31-00 47th Avenue Long Island City history office conversion` · WebSearch → https://commercialobserver.com/2019/01/under-construction-the-falchi-building-in-long-island-city (WebFetch): built 1922 as Gimbels warehouse; 736,000 sq ft, full block, six storeys; Jamestown bought 2012 ($81.2M) and converted to offices; Savanna bought Dec 2016; tenants TLC, Uber, Lyft etc.; "floor plates of a large warehouse" → §7 card, §8 card, §13 card.
+- `Standard Motor Products building 37-18 Northern Boulevard Long Island City office conversion square feet` · WebSearch → https://6tocelebrate.org/site/standard-motor-products-building/ (WebFetch): built 1921 as S. Karpen & Brothers furniture factory; SMP engine parts 1936–2008; 150,000+ sq ft, six storeys; converted 2010–2014 for small commercial tenants → §7 card, §8 card, block-by-block.
+- `JetBlue headquarters Brewster Building 27-01 Queens Plaza North Long Island City moved 2012` · WebSearch → https://therealdeal.com/new-york/2012/04/04/jetblue-headquarters-opens-today-in-lic/ (WebFetch; URL dated 2012-04-04): Brewster Building, 27-01 Queens Plaza North, 200,000 sq ft, ~970 staff from Forest Hills and Darien → §8 card, block-by-block. (milrose.com page fetched: no building content — not used.)
+- `LaGuardia Community College Thomson Avenue campus former Ford factory buildings students` · WebSearch → https://en.wikipedia.org/wiki/LaGuardia_Community_College (WebFetch): opened Sept 22 1971; campus Thomson Ave–47th Ave, 28th St–Van Dam St; White Motor truck factory (1920), Equitable Paper Bag building, Sunshine Biscuits bakery (1912) etc.; fall 2025 enrollment 25,877 → §7 card, §8 card, §13 card, campus section.
+- `Court Square–23rd Street station complex E M G 7 lines transfer opened` · WebSearch → https://secondavenuesagas.com/2011/06/03/months-late-court-square-entrance-finally-opens (WebFetch): 7–G covered transfer opened June 3 2011, complex renamed Court Square → §8 card.
+- `Sunnyside Yard acres largest rail yard Amtrak Long Island City` · WebSearch → https://en.wikipedia.org/wiki/Sunnyside_Yard (WebFetch): completed 1910; Amtrak owns/operates, NJ Transit and LIRR use; NYCEDC working footprint 180 acres; Skillman Ave (S) to Northern Blvd (N); 2020 master plan deck 12,000 affordable units + 60 acres parks; Feb 2026 revival seeking ~$21B federal funds → §5.5, §13 card, "Sunnyside Yard" section.
+- `Hunters Point Historic District 45th Avenue rowhouses designated 1968 Landmarks` · WebSearch → https://6tocelebrate.org/site/hunters-point-historic-district/ (WebFetch): designated 1968; S/NR 1973; 45th Ave between 21st and 23rd Sts; late-19th-c. stone houses, many subdivided → §7 card, §8.5, §13 card.
+- `Long Island City data center colocation building carrier fiber Queens` · WebSearch → Con Edison Communications lease (undated) — not used; other results are Long Island (Nassau/Suffolk) data centres — not used.
+- Building-type share / tower counts for LIC: EMPTY (no source retrieved; page gives no counts).
+
+#### Local news / hyperlocal
+- `Hurricane Sandy flooding Long Island City Hunters Point Newtown Creek basements 2012` · WebSearch → https://www.dnainfo.com/new-york/20121031/long-island-city/hunters-point-residents-clean-up-after-sandy (WebFetch, Oct 31 2012): parts of LIC flooded up to 11th St; PowerHouse (2-17 51st Ave, 11 storeys) lobby ~5 ft of water, garage lower level submerged, no power; The Foundry (2-40 51st Ave) basement still flooded; CityLights co-op (4-74 48th Ave) water entered, 4 of 5 elevators running Wed → §5.5, §9 Q7, §10.5 H3 3, "What Sandy Taught" section (building names/addresses not used beyond street names).
+- Queens Chronicle / QNS / LIC Post items on fiber installation in LIC: EMPTY (none retrieved).
+
+#### Local licensing / permits / building rules
+- `NYC Local Law 196 Site Safety Training SST card required workers construction sites 40 hours` · WebSearch → https://www.nyc.gov/site/buildings/safety/sst-worker-information.page (WebFetch): SST required on sites needing a Site Safety Plan and designated Construction Superintendent; worker card min. 40 hours → §8.5, §9 Q1, FAQ 3.
+- `post-tensioned concrete slab coring tendons GPR scanning before drilling New York residential towers` · WebSearch → https://www.cmc.com/en-us/what-we-do/america/cable-articles/the-importance-of-understanding-the-depth-of-post (WebFetch; vendor marketing): must know location and depth of PT cables; depth not standardised; accidental cuts risk injury/"catastrophic slab and structure failures"; GPR for tendon depth → §8.5, §9 Q2. (No source for the share of LIC towers that are post-tensioned — page does not claim one.)
+- Silo sources reused: sub-50 V no DOB permit + firestopping; OFNR/OFNP (cablinginstall) → §8.5.
+
+#### Pricing used (existing AESS Queens prices — no new prices)
+Copied from fiber-optic-installation-queens.html: $37/termination; $42/strand OTDR; $391 MM drop; $447 SM drop; $4,725–$7,350 12-strand OM4 backbone; $8,400–$15,750+ 24-strand OS2; second room from $2,520; $195/hr, 3-hr min ($585).
+Worked totals on page: Starter $1,452 = 24×$42 ($1,008) + 12×$37 ($444). Standard $5,619–$8,244 = $4,725–$7,350 + 2×$447 ($894). Premium $10,920–$18,270+ = $8,400–$15,750+ + $2,520.
+Caveat carried from Queens section: the $391/$447 drop prices come from the live Queens configurator (≈1.12×), not §9's 1.05×.
+
+#### Images (11) — Step C library reuse; Drive folder empty, CompanyCam not connected
+All copied from /images/fiber-optic-installation/ (themselves copies of images/low-voltage originals). Every source scene was checked by eye. The photos look AI-generated / rendered (uniform branding, garbled small text, shirts printed with "844-386-7238" or "800-486-0943"), and most show a technician's face in profile — the whole library is like this; back-view/hands-only scenes were preferred. Byte-identical files used by the parallel DUMBO and Financial District pages were avoided (the first pick, an SFP-switch scene, matched the FiDi file and was replaced).
+| File | Source | Shows |
+|---|---|---|
+| …-long-island-city-fusion-splicer-ready-screen.webp | …-bronx-splicer-screen-yellow-patch-cords.webp | fusion splicer READY, cleaver, IPA, yellow patch rack |
+| …-long-island-city-glass-floor-crew-open-ceiling.webp | …-bronx-crew-open-ceiling-fitout.webp | 4-person crew from behind, open ceiling, glass-walled floor |
+| …-long-island-city-splicer-bench-sc-patch-cabinet.webp | …-ulster-county-fusion-splicer-patch-cabinet.webp | splicer bench beside SC adapter cabinet |
+| …-long-island-city-hammer-drill-block-wall-dust-hose.webp | …-brooklyn-hardhat-core-drill.webp | rotary hammer with dust hose on block wall |
+| …-long-island-city-warehouse-basket-tray-lift.webp | …-hudson-valley-warehouse-high-bay-cable-tray.webp | scissor lift, basket tray, warehouse racking |
+| …-long-island-city-meeting-room-display-recessed-box.webp | …-nassau-county-conference-room-cable-box.webp | 3 techs from behind, display + recessed cable box |
+| …-long-island-city-patch-panel-punchdown-hands.webp | …-hudson-valley-patch-panel-termination-hands.webp | hands only, punch-down on numbered panel |
+| …-long-island-city-exterior-enclosure-brick-conduit.webp | …-staten-island-exterior-wall-enclosure-conduit.webp | weatherproof enclosure + conduits on brick |
+| …-long-island-city-conduit-pull-box-block-wall.webp | …-ulster-county-conduit-box-pull-block-wall.webp | cable from conduit pull box beside rack |
+| …-long-island-city-closet-rack-before-after.webp | …-rockland-county-inherited-closet-before-after.webp | before/after closet, no people |
+| …-long-island-city-ceiling-tile-cable-feed.webp | …-westchester-county-ceiling-tile-cable-feed.webp | tech from behind feeding cable through ceiling tile |
+DAILY-LOG note: `images: 11 reused from images/fiber-optic-installation/ (library copies of images/low-voltage/; no real Fiber Optic Installation photos yet)`.
+
+#### Keyword plan (LIC page)
+Service: fiber optic installation Long Island City, tower riser fiber, phased fit-out fiber, retail condo fiber, DAS fiber strands, entrance conduit sealing, baseline OTDR testing. Problem: TCO / unfinished floors, post-tensioned slab coring, low-E glass cellular dead zones, adjacent excavation damage, waterfront flooding (Sandy), carrier "fiber-powered" vs glass to unit, provider blaming inside wiring. Technology: OS2, OM4, OFNR/OFNP, innerduct, armoured, duct seals, LC/SC/MPO, SFP, GPR scanning. Industry: condo/rental towers, office towers, warehouse-to-office conversions, coworking, retail condos, college campus, film studio area. Geographic: Long Island City, Court Square, Jackson Ave, Queens Plaza, Hunters Point, Center Blvd, Vernon Blvd, Dutch Kills, Northern Blvd, Thomson Ave, 47th Ave, 21st St, 43rd Ave, Ravenswood, Queensbridge, Blissville, Newtown Creek, Sunnyside Yard, Skillman Ave.
+
+#### Question register additions
+fiber-optic-installation-long-island-city-queens-ny
+§9 Questions Answered (and other question headings):
+- Fiber Down in a Long Island City Building? (repair capture heading)
+- Our Court Square or Hunters Point tower only has a temporary certificate of occupancy and some floors are still under construction — can tenant or resident fiber go in now?
+- Our tower has post-tensioned concrete floors — how does fiber get between floors without endangering a tendon?
+- Cell signal dies inside our glass-walled tower — can the building's fiber carry an in-building cellular system?
+- We bought the retail condominium at the base of a residential tower — does the residential board control how our fiber gets in?
+- Can I have fiber run to a home office inside my own Long Island City condo, and what will the board ask for?
+- We run a coworking floor in a converted Long Island City factory — should each member company get its own strands, or is that just a network-settings job?
+- Water came in around the provider's conduit where it enters our waterfront basement — how is a fiber entrance sealed so it stays dry?
+- A tower is going up on the lot next door — should we test our fiber before excavation starts, so any damage can be proven?
+- There is a data centre a few blocks away — does that make internet service to our Long Island City building faster or cheaper?
+- Want the Baseline Before the Excavator Arrives? (mid-page CTA heading)
+§17 FAQ:
+- Long Island City is in Queens, not in Nassau or Suffolk — which rates apply to a fiber job here?
+- Which parts of Long Island City do you work in?
+- Do your installers carry SST cards for a tower that is still an active construction site?
+- How do you protect a new building's lobby, elevators and corridors while fiber is being pulled?
+- Our rental listing says the building has fiber — how do we find out whether it actually reaches the apartment?
+- The provider blames our inside wiring for outages — can your test results settle it?
+- Can fiber work start before a new building's telecom rooms have permanent power?
+- Could drilling for the fiber set off our building's fire alarm?
+
+De-dup notes: checked against the full silo register and the parallel FiDi and DUMBO drafts. Removed during build: "What does the installation warranty cover?" (Queens/Staten Island exact intent) and "Do you work alongside the carrier's own technicians on installation day?" (= Brooklyn "Will you coordinate with the internet provider…"). Closest calls for a human read: post-tension coring (mine) vs FiDi "core risers through clay-tile floor arches" (different structural hazard, same coring family); DAS strands (mine) vs FiDi "Fire Department radio system competes for riser space" (cellular vs public-safety radio); fire-alarm/drilling-dust FAQ (mine) vs DUMBO "noise and dust coring in occupied loft"; LIC-vs-Nassau rates FAQ vs FiDi "priced differently from Midtown"; coworking strands vs FiDi "sublease part of a floor — own fiber to entry room". Masked-geo paragraph similarity (difflib, ≥12-word blocks, constants excluded) is < 0.65 against every fiber sibling incl. the two drafts; max 0.644 (ADT/Ring paragraph vs Queens).

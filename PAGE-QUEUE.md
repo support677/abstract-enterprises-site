@@ -110,9 +110,9 @@ LIVE | smart-lock-installation-greenpoint-brooklyn-ny | Smart Lock Installation 
 LIVE | smart-lock-installation-bayside-queens-ny | Smart Lock Installation | Bayside, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | smart-lock-installation-morris-park-bronx-ny | Smart Lock Installation | Morris Park, Bronx | up /smart-lock-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | smart-lock-installation-west-brighton-staten-island-ny | Smart Lock Installation | West Brighton, Staten Island | up /smart-lock-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T11:14Z | fiber-optic-installation-financial-district-manhattan-ny | Fiber Optic Installation | Financial District, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-17T11:14Z | fiber-optic-installation-dumbo-brooklyn-ny | Fiber Optic Installation | DUMBO, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T11:14Z | fiber-optic-installation-long-island-city-queens-ny | Fiber Optic Installation | Long Island City, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
+LIVE | fiber-optic-installation-financial-district-manhattan-ny | Fiber Optic Installation | Financial District, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | fiber-optic-installation-dumbo-brooklyn-ny | Fiber Optic Installation | DUMBO, Brooklyn | up /fiber-optic-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | fiber-optic-installation-long-island-city-queens-ny | Fiber Optic Installation | Long Island City, Queens | up /fiber-optic-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | fiber-optic-installation-hunts-point-bronx-ny | Fiber Optic Installation | Hunts Point, Bronx | up /fiber-optic-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | fiber-optic-installation-bloomfield-staten-island-ny | Fiber Optic Installation | Bloomfield, Staten Island | up /fiber-optic-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | fiber-optic-installation-chelsea-manhattan-ny | Fiber Optic Installation | Chelsea, Manhattan | up /fiber-optic-installation-manhattan | (929) 560-0737 | GBP Bronx
