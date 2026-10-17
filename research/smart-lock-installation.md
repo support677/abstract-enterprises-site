@@ -1953,3 +1953,340 @@ Kingston, New Paltz and the river towns
 
 ### De-dup notes
 Planned against the NYC/LI/HV/Manhattan/Brooklyn/Queens registers. Deliberately avoided: HV hub intents (remote rental codes from the city, STR registry, internet-outage behaviour, logs without monitoring, cold limits, batteries in cold, ice/swelling, barn 200 ft range, no-internet property, thick 19th-c door, Kingston historic-district keypad approval, detached garage with no power, cleaner code for cottage only, county pricing/licensing, office suite, winery; FAQ generator, closed-for-winter install, weekend work, second lock same visit, who programs guest codes, rental turnover service); NYC mortise/pre-war door and former-tenant code; Brooklyn sponsor admin handover and glass/mail-slot door; Queens front-yard gate keypad, re-key-on-purchase, "bring the lock or buy one", family administrator, low-battery warning; LI garage/alarm/storm-door/sell-the-house; Manhattan roommate codes, interior doors, deposit. Partial overlaps for the main run to judge: Q6 (several households' admins at a shared camp) vs Queens FAQ "Who should hold the administrator account when a whole family shares the lock?" (here: privacy between households); Q12 (student-lease turnover economics) vs NYC "small landlord cut off a former tenant's code"; FAQ 4 (keyed-alike) vs Queens FAQ re-key-first; FAQ 2/1 coverage and cost are geo-specific by design. Masked paragraph similarity vs every live smart-lock page: max 0.63 outside standard blocks (licence/warranty/stamp lines and the NAP line "Abstract Enterprises Security Systems · 460 E Fordham Rd … (845) 640-3835 … WhatsApp" at 0.74 vs Manhattan/HV NAP lines — protected NAP content).
+
+
+## Upper East Side, Manhattan (smart-lock-installation-upper-east-side-manhattan-ny)
+
+Built 2026-10-17 by the Upper East Side builder subagent (batch: Upper East Side, Brooklyn Heights, Flushing). Neighbourhood page; up-link /smart-lock-installation-manhattan. GBP Bronx (460 E Fordham Rd, #bronx). Direct line (929) 560-0737 (800 only in shared header chrome). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts unless scraped); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+
+Thesis / lane (kept away from the Manhattan page's doorman-platform / office-tower / pied-à-terre / short-stay lane): three door types on the same blocks — pre-war co-op doors with restricted-key cylinders (keep the board's key; retrofit strength = deadbolt), landmarked townhouses (LPC "ordinary repair" vs ornate exterior hardware on special doors; multi-door households with staff), Yorkville walk-ups (street/vestibule door first, tailgating, fire-escape windows); plus ground-floor practices on Park and galleries on Madison. Older, single-person-heavy population → second administrator, away mode, unplanned absence.
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| U1 | `Upper East Side Manhattan boundaries Lenox Hill Yorkville Carnegie Hill housing stock pre-war co-ops townhouses` · Firecrawl search | kobilahavnyc.com, anablepodell.com, brianklewis.com, homes.com (excerpts) | Realtor excerpts only (co-op-dominated prewar buildings on Fifth/Park/Madison). Not cited — replaced by U2. | background |
+| U2 | Firecrawl scrape (query) of Wikipedia | https://en.wikipedia.org/wiki/Upper_East_Side | Bounded by 96th St, East River, 59th St, Central Park/Fifth Ave; includes Lenox Hill, Carnegie Hill, Yorkville; Manhattan CD8; 19th Precinct; UES HD designated 1981 (59th–78th along Fifth, up to Third Ave at points), expanded 2010 with 74 buildings; Metropolitan Museum HD 1977 (Fifth 79th–86th); Park Avenue HD 2014, 64 properties 79th–91st; Carnegie Hill HD 1974/1993, 400 buildings; Henderson Place HD 1969; Treadwell Farm HD 1967 (E 61st/62nd between Second and Third, former farm of Adam Treadwell); Second Avenue Subway phase 1 opened Jan 1 2017 with three stations; Lenox Hill Hospital, NewYork-Presbyterian, Weill Cornell on the UES. (Wikipedia's "built by John C. Henderson in 1981" is an evident typo — no build year used.) | §5 paras 1, 3, 5.5 stats, §7 cards, §8 cards, §13 landmark cards |
+| U3 | `Landmarks Preservation Commission rules intercom keypad door hardware historic district townhouse permit "intercom"` · Firecrawl search | https://www.nyc.gov/assets/lpc/downloads/pdf/Rules/Revised_Rules_of_the_NYC_Landmarks_Preservation_Commission_08-21-2023.pdf | Found the LPC Rules (Title 63 RCNY), rev. 08-21-2023. | → U4 |
+| U4 | Firecrawl scrape (PDF, query) of U3 | same | Windows/doors rule, "Work for Which No Approval is Required": "(iv) Repairing or replacing window or door hardware, such as hinges, knobs and handles, but excluding ornate historic exterior hardware on special doors". "Special door" definition: distinctive glazing; fine craftsmanship/distinctive materials incl. bronze, brass, nickel silver, cast metal, elaborate carved woodwork (not kalamein, rolled steel, extruded aluminum); unique typology; age (pre-1850). §2-18 barrier-free: historic doors may be altered for swing, hardware, hinges, automatic openers if configuration kept. No text found on intercoms/keypads/cameras (searched "ntercom", "camera", "keypad", "card reader" — none). Exact section number for the windows/doors rule not shown in extraction → page cites "the Commission's rules" without a section number. | §5 para 3, §7.5, §8.5 Landmarks bullet, §9 Q1, glossary "Special door" |
+| U5 | `LPC "Do I need a permit" historic district work types Certificate of No Effect Permit for Minor Work nyc.gov landmarks` · Firecrawl search | precisionwindowsnj.com, brownstone.blog, nyc.gov DOB (excerpts) | Secondary summaries of PMW / CNE / C of A (not cited). | → U6 |
+| U6 | Firecrawl scrape (query) | https://www.nyc.gov/site/lpc/applications/permit-for-minor-work.page | PMW "issued when the proposed exterior work does not require a DOB permit and is found to be restorative or appropriate"; examples: window or door replacement in existing openings; masonry cleaning; through-window HVAC. | glossary "Permit for Minor Work" |
+| U7 | Firecrawl scrape (query) then full markdown | https://www.furmancenter.org/neighborhoods/upper-east-side/ (last updated 05/06/2026) | 2024: 224,027 people, 4th largest of 59 neighbourhoods; aged 65+ 23.9%; single-person households 50.5%; homeownership 37.9% vs citywide 32.7%; housing units 141,670; 4,025 units in 4+ unit buildings built 2010–2025; 338 units permitted in new buildings 2025; serious crime 8.8 per 1,000 (2025) vs 12.3 citywide; rental vacancy 7.0% (2024); median household income $168,780 (2024). | §5 para 2, new-construction para, §5.5 stats |
+| U8 | `Upper East Side burglary townhouse apartment break-in 19th Precinct 2026` · Firecrawl search (web+news) | — | Irrelevant results (Lake Charles etc.) → EMPTY for 2026 UES burglary news. | — |
+| U9 | `site:patch.com upper east side burglary apartment door` · Firecrawl search | patch.com results | Led to U10–U12. | → |
+| U10 | Firecrawl scrape (query) | https://patch.com/new-york/upper-east-side-nyc/geriatric-burglar-snuck-ues-doorman-buildings-prosecutors | Sep 5 2019: Samuel Sabatino, 82, charged with 8 counts burglary, 3 grand larceny (~$139,000 goods); two apartments at 201 E. 79th St while residents on vacation; slipped by a doorman at 215 East 68th St around July 4; arrested Aug 31 after denied entrance at 1623 Third Ave. Page names streets only (no building numbers, no name). | §5 para 4, §9 Q "away … codes paused" |
+| U11 | Firecrawl scrape (query) | https://patch.com/new-york/upper-east-side-nyc/ues-burglar-uses-roofs-fire-escapes-break-ins-police-say | Dec 4 2019: burglar using fire escapes (from street or roof) to enter through unlocked windows; East 80s and 90s between Lexington and First; five burglaries Nov 10–Dec 2; four during work hours. | §5 para 4, §9 fire-escape Q |
+| U12 | Firecrawl scrape (query) | https://patch.com/new-york/upper-east-side-nyc/officers-nab-burglar-trying-kick-yorkville-apartment-door-nypd | Mar 28 2023: 19th Precinct arrested a man inside the vestibule of a Yorkville four-storey walk-up on East 82nd St near East End Ave trying to kick in the door, just after 1 a.m. Sunday. (Name not used.) | §5 para 4, §9 walk-up owner Q |
+| U13 | `reddit Upper East Side apartment lock doorman keys smart lock co-op board` · Firecrawl search | https://www.reddit.com/r/NYCapartments/comments/1nrb1ro/does_your_apartment_building_hold_onto_your_spare/ ; https://www.reddit.com/r/AskNYC/comments/16426hd/ | Excerpts only: co-op key closet with coded keys, board and super hold keys; doorman key drop-off. Background only, nothing quoted. | background |
+| U14 | `reddit r/UpperEastSide locksmith OR lock OR keys OR "package theft" OR burglary` · Firecrawl search | https://www.reddit.com/r/uppereastside/comments/1fbahty/good_locksmith/ ; .../14ecug6/do_not_duplicate_locksmith/ ; .../1x7md8r/e_75th_st_package_thief/ ; .../1w14f5e/man_stealing_packages/ ; .../1wonytl/good_place_to_get_keys_made/ | Excerpts only (threads not opened): Mul-T-Lock locks with security "card", re-key question; "do not duplicate" key copy request; package thief on E 75th St; package theft "rampant". Described on page as forum themes; no quotes beyond the phrase "do not duplicate". | §5 para 5, §9 Q3, §7.5 |
+| U15 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Gracie_Mansion | Built 1799; Carl Schurz Park, East End Ave and 88th St, Yorkville; mayoral residence since 1942. | §13 card |
+| U16 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Museum_Mile,_New_York_City (redirected to Fifth Avenue article) | Museum Mile = Fifth Ave 82nd–110th; Met at 82nd; Guggenheim at 88th (1959). | §13 card |
+| U17 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Henderson_Place_Historic_District | 24 attached brick rowhouses by Lamb and Rich, Queen Anne style; NYCL designated Feb 11 1969. | §7 card, §13 card |
+| U18 | `Madison Avenue Business Improvement District 57th to 86th Street boutiques galleries number of stores` · Firecrawl search | https://www.nyctourism.com/places/madison-avenue-bid/ ; https://nycahc.org/partners/madison-avenue-bid ; https://www.facebook.com/madisonavebid/ | BID covers Madison corridor E 57th–E 86th; Gallery Walk "42 participating galleries" (excerpt, year not shown → page says "has listed"). | §8 card |
+| U19 | `York Avenue Upper East Side hospitals Memorial Sloan Kettering Hospital for Special Surgery Weill Cornell Rockefeller University East 60s` · Firecrawl search | https://www.mskcc.org/locations/directory/memorial-hospital ; https://weill.cornell.edu/our-story/affiliations | MSK main hospital 1275 York Ave between 67th and 68th; HSS founded 1863; Weill Cornell/NYP on the UES. | §8 card, §9 hospital Q (named generically as "York Avenue hospitals") |
+| U20 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Yorkville,_Manhattan | Yorkville = E 79th–E 96th, Third Ave to East River; German enclave, later Czech, Slovak, Hungarian etc.; 86th and 96th St Second Ave Subway stations; Lexington line 77th/86th/96th. | §7 cards, §8 86th St card |
+| U21 | `smart lock retrofit compatible Medeco Mul-T-Lock high security deadbolt keep existing key` · Firecrawl search | https://www.consumerreports.org/home-garden/door-locks/buying-guide/ (excerpt) ; https://www.medeco.com/en (excerpt) | Consumer Reports: "a retrofit smart lock's resistance to kicking, picking, and drilling is entirely dependent on the deadbolt it's paired with." | §7.5, §9 Q4, §10.5 H3 2 |
+| U22 | `Upper East Side townhouse burglars entered through front door East 60s OR East 70s mansion burglary news` · Firecrawl search (news) | — | Irrelevant results → EMPTY. | — |
+| U23 | Silo research reused (research/smart-lock-installation.md, not re-fetched) | S1 fixr.com ($250–$400, avg $300, handyman $50–$100/hr, Jan 2025); S2 bobvila (screwdriver, ~30 min DIY); S3 august.com retrofit ("leaving the outside untouched", single-cylinder only, thumb-turn clearance); S4 August Connect 10–15 ft; S5 Yale Matter (border router same brand as app, Nest Hub for Google); S6 Bold (Thread mesh, up to five ecosystems, HomePod mini); HV research: Schlage Encode "up to six months", "Requires 2.4GHz WiFi"; cultofmac (Encode Plus Thread via HomePod mini/Apple TV 4K); LI research: Schlage Encode Plus Apple Home Key; Ring Alarm Z-Wave (subscription, Ring-app codes only); 2010 ADA 404.2.7 (no tight grasping, 34–48 in); NYC hub: N1 MDL §51-c, N3 HMC §27-2043, N4 Tenant Data Privacy Act, N6 HPD fire-safety (no double-cylinder, no key-locked fire-escape window gates); Manhattan: M14 NFPA 80 field prep, M15 NYC BC 1010.1.9.9 | As listed in the silo file. | §8.5, §9, §10, §10.5, §14, FAQ |
+| U24 | Google PAA / PASF / Answer the Public / Google AI Overview / Bing / DuckDuckGo / Yelp 1–3★ | — | EMPTY (not accessible in build env). §10.5 headings are paraphrased published claims, with the publisher named under each, stated on page. | — |
+| U25 | Local news on smart locks specifically on the UES (Patch UES, West Side Spirit / Our Town, The City) | — | No UES smart-lock story found → EMPTY for the service category. | — |
+| U26 | Hyperlocal UES co-op board rules on unit-door locks / white-glove board policies | — | No sourced board policy found → EMPTY; page states general practice only, no claim about any named building. | — |
+| U27 | Townhouse counts / share of UES doors under LPC | — | No single sourced figure beyond district building counts (U2) → not stated. | — |
+
+### Prices used (Manhattan ×1.25, round half-up; no new figures — all as published on smart-lock-installation-manhattan.html / research "Prices used")
+- Keypad or fob reader with electric strike, one door: $1,500–$2,500 base → **$1,875–$3,125**.
+- New electric strike: $250–$450 → **$313–$563**.
+- Failed electric strike repair: $295–$485 → **$369–$606**.
+- Programming / setup-only visit: **$265 first hour**, then 30-minute blocks (research/tv-mounting-prices/BRIEF.md line 15, as on the Manhattan page).
+- Service/callback: **$195/hr, 3-hour minimum ($585)**, never on the initial install.
+- Apartment / townhouse door smart lock: no AESS figure → "quoted flat at free walkthrough".
+- National comparison only: Fixr $250–$400, avg ~$300, labour $50–$100/hr (Jan 2025).
+
+## Images (11) — permanent image rule (Drive folder empty per main run; CompanyCam not connected)
+
+Chosen from the unused list in images/smart-lock-installation/ (sorted, first third), viewed before use; none is used on smart-lock-installation-manhattan.html. One cropped to remove a partial face, one cropped to remove a face.
+
+| New file (images/smart-lock-installation/) | Copied from (same folder) | Original source per research file | Edit |
+|---|---|---|---|
+| smart-lock-installation-upper-east-side-keypad-strike-push-to-exit.webp (hero, eager) | smart-lock-installation-bronx-keypad-push-to-exit-strike.webp | low-voltage/low-voltage-installation-queens-electric-strike-keypad.jpg | re-saved WebP q80 |
+| smart-lock-installation-upper-east-side-video-intercom-keypad-wiring.webp | smart-lock-installation-bronx-intercom-keypad-panel-wiring.webp | low-voltage/low-voltage-installation-queens-11-video-intercom-entry-wiring.jpg | q80 (installer seen from behind) |
+| smart-lock-installation-upper-east-side-fob-reader-door-frame.webp | smart-lock-installation-bronx-reader-door-frame-wiring.webp | low-voltage/low-voltage-installation-queens-12-access-control-reader-wiring.jpg | q80 (installer from behind) |
+| smart-lock-installation-upper-east-side-maglock-wiring-label-closeup.webp | smart-lock-installation-bronx-maglock-terminal-label.webp | low-voltage/low-voltage-installation-bronx-12-door-lock-wiring-detail.jpg | left 380 px cropped (partial face) |
+| smart-lock-installation-upper-east-side-exit-button-beside-keypad.webp | smart-lock-installation-dutchess-county-push-to-exit-beside-keypad-reader.webp | commercial-security/commercial-security-systems-nyc-rex-exit-button.jpg | q80 |
+| smart-lock-installation-upper-east-side-door-contact-lobby-frame.webp | smart-lock-installation-dutchess-county-door-contact-glass-door-frame.webp | commercial-security/commercial-security-systems-nyc-door-contact-install.jpg | q80 |
+| smart-lock-installation-upper-east-side-maglock-armature-office-door.webp | smart-lock-installation-dutchess-county-maglock-armature-glass-door.webp | commercial-security/commercial-security-systems-manhattan-maglock.jpg | q80 |
+| smart-lock-installation-upper-east-side-keypad-reader-staff-door.webp | smart-lock-installation-brooklyn-keypad-card-reader-employee-door.webp | (not listed in research file) | left 620 px cropped (face) |
+| smart-lock-installation-upper-east-side-maglock-lobby-door-header.webp | smart-lock-installation-bronx-maglock-header-glass-door.webp | low-voltage/low-voltage-installation-queens-maglock-install.jpg | q80 (installer from behind) |
+| smart-lock-installation-upper-east-side-request-to-exit-sensor-header.webp | smart-lock-installation-dutchess-county-wave-to-exit-sensor-door-header.webp | commercial-security/commercial-security-systems-nyc-request-to-exit-sensor.jpg | q80 |
+| smart-lock-installation-upper-east-side-door-controller-panel.webp | smart-lock-installation-dutchess-county-three-door-controller-card-readers.webp | commercial-security/commercial-security-systems-nyc-door-controller-enclosure.jpg | q80 |
+
+Rejected after viewing: dutchess-county-desk-release-button-mounting (button is labelled "PANIC PUSH" — not a door release; a copy was made then deleted), bronx-electric-strike-glass-entry / long-island-keypad-reader-mounting / hudson-valley-keypad-intercom-stone-pillar / long-island-credential-programming-desk / long-island-door-controller-cabinet (faces), hudson-valley-entry-panel-wiring ("123 Main Street" directory), hudson-valley-door-contact-keypad-panels and hudson-valley-secured-lobby-entry (1536×1024 — generator-typical size), long-island-keypad-strike-exit-button and long-island-maglock-header-wiring (near-duplicates of two chosen photos).
+
+DAILY-LOG note: `images: 11 reused from images/smart-lock-installation/ library copies (originally images/low-voltage/ and images/commercial-security/) (no real smart-lock photos yet)`.
+**Flag for Anwar:** the whole library (including the aess-smart-lock-installation-* set) shows signs of being generated images (garbled lettering on caps/gloves, generic "123 Main Street"/"Pinnacle Business Center" signage, 1536×1024 sizes). DAILY-RUN forbids AI-generated images; these were used because the run instructions direct Step C / permanent-image-rule reuse from this folder. Replace with real AESS photos when available.
+
+## Question register — smart-lock-installation-upper-east-side-manhattan-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 13)
+Townhouses in the historic districts
+1. Can the ornate brass knob and escutcheon on our townhouse door stay exactly as they are once the lock goes smart?
+2. We employ a housekeeper, a nanny and a driver — should each of them have the townhouse's main door, or only the service entrance?
+Pre-war co-ops on Fifth, Madison and Park
+3. We had to show a key card to get copies of our high-security key — does going smart weaken that duplication control?
+4. Is a lock that clamps onto the inside of our deadbolt as strong as the deadbolt itself?
+5. Our pre-war apartment has a second door from the kitchen to the service hall — should it be smart as well?
+6. Decades of paint have built up on our pre-war door's edge — does that matter for a motorised bolt?
+Households that are often away
+7. When we tell the front desk we're going away, should the cleaner's and walker's codes be paused too?
+8. If I'm suddenly admitted to one of the York Avenue hospitals, how does a friend get in to feed the cat?
+Yorkville walk-ups and newer towers
+9. As the owner of a small Yorkville walk-up, should the money go on the street door or on each apartment door?
+10. People keep slipping into our walk-up behind residents — can the street door be made to close and lock faster?
+11. Burglars in the East 80s and 90s came in through fire-escape windows — does a smart front door do anything about that?
+Practices and galleries on the ground floor
+12. Our practice occupies the ground floor of a Park Avenue co-op — whose rules govern a keypad on the practice's own street entrance?
+13. Our Madison Avenue gallery keeps borrowed works in a back room — can that door keep its own record of every opening?
+
+### §17 FAQ (visible == FAQPage, 9)
+1. Does an Upper East Side job cost more than the Manhattan rate because of the building?
+2. Do you also work in East Harlem, Midtown East and on Roosevelt Island, just beyond the Upper East Side?
+3. Which licence number should we give the co-op board for its contractor file?
+4. Will you service a smart lock that another company installed in our apartment?
+5. Our elevator opens onto a landing we share with just one neighbour — does our apartment door still need a proper lock?
+6. Can the lock's app account be set up in the name of our estate manager or family office?
+7. Do you install locks that open with a tap of an iPhone or Apple Watch?
+8. What happens to our codes if the lock's maker shuts down its cloud service?
+9. Our building supplies Wi-Fi to every apartment — can the lock use it, or do we need our own?
+
+### Other question-form headings
+- H2 "Smart Lock Misfiring Between 59th and 96th Street?" (repair capture)
+- H2 "Locked Out of a Co-op, Townhouse or Walk-Up East of the Park?" (final repair capture)
+
+### De-dup notes
+Deliberately avoided: NYC-hub intents (renter rights, co-op key to board, board approval, LL63 owner duties, double-cylinder legality, self-closing door, mortise hallway match, lobby+unit same system); Manhattan intents (platform clash/enrolment, scope letter, insurance, desk/walker/cleaner access, packages to desk, talk-past-lobby, batteries abroad, renovation crew, short-stay, lockboxes, suite tower, rated frame strike, maglock fire release, after-hours suite, cast-iron reader); HV "historic-district approval for a keypad" (Q1 is framed on keeping ornate exterior hardware, not on whether approval is needed); Brooklyn "outer vs inner door of a brownstone" and "stoop parcels"; Queens/Nassau/SI/Suffolk/Westchester ageing-parent, arthritis, home-attendant and paramedic-entry intents; Rockland quiet beeps; Brooklyn Heights batch sibling "laundry, bike room and storage cages" (my storage-cage FAQ was replaced by the elevator-landing FAQ). Partial overlaps for the main run to judge: Q7 (pause service codes while away) vs HV "see who came and went at my country house"; FAQ 9 (building-supplied Wi-Fi) vs Flushing "dozens of neighbours' Wi-Fi networks"; FAQ 4 (service another company's lock) vs Flushing "fingerprint reader on our existing lock stopped recognising anyone" — different intents in my reading.
+
+
+## Brooklyn Heights, Brooklyn (smart-lock-installation-brooklyn-heights-brooklyn-ny)
+
+Built 2026-10-17 by the Brooklyn Heights builder subagent (batch: Upper East Side / Brooklyn Heights / Flushing neighbourhood pages). Phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn) · up-link /smart-lock-installation-brooklyn · Brooklyn ×1.00.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes).
+Lane (to stay clear of the Brooklyn area page and the rest of the silo): landmark rules for anything mounted beside the door (LPC Rules §2-20 criteria), carriage houses on the mews, Federal wood houses, rowhouses converted into small self-managed co-ops (board-owned admin, common rooms), pre-war buildings / former hotels, USPS arrow-key access at street doors, film-location access, NYPD security survey, plaster-on-brick cable routes, original etched glass, Montague Street / Atlantic Avenue shop doors (BHMA strength rating), fail-secure vs fail-safe street-door strikes.
+
+### Research matrix
+
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| BH1 | `Brooklyn Heights Historic District first historic district 1965 boundaries rowhouses Federal Greek Revival Italianate` · Firecrawl search | https://hdc.org/buildings/brooklyn-heights-historic-district/ ; https://architecturaltrust.org/.../brooklyn-heights-historic-district/ ; https://www.facebook.com/NYCLandmarks/posts/... (excerpts) | Designated Nov 23, 1965, NYC's first historic district (LPC post); Federal, Greek Revival, Gothic Revival, Italianate / Anglo-Italianate styles; HDC: "it is the Greek Revival style that is particularly notable". | §5 para 3, §5.5 bullet 1, §7 cards (Greek Revival, Gothic Revival, Italianate), architecture intro |
+| BH2 | (same search) → https://thebha.org/neighborhood/ · Firecrawl scrape (markdown) | https://thebha.org/neighborhood/ | Boundaries Old Fulton St–Atlantic Ave, Cadman Plaza/Court St–Promenade/East River; "overwhelmingly low-rise brick and brownstone row houses with a smattering of apartment buildings"; Montague Street the one main shopping street, stores/restaurants on Henry Street; 22,593 housing units, 57% renter-occupied, 40% owner-occupied, 3% vacant; cars available 0.5 (houses/condos) vs 1.8 NYC; after the Brooklyn Bridge (1883) mansions replaced by apartment buildings; after 1929 many homes divided into rooming houses; Promenade built on top of the BQE after mid-1940s testimony; Brooklyn Historical Society building 1878–81, George B. Post. | §5 paras 1–2, §5.5 bullets 2–3, §13 Promenade card, Pre-war section para 1, §10.5 H3 7 |
+| BH3 | `Brooklyn Heights carriage houses mews Hunts Lane Grace Court Alley Love Lane history` · Firecrawl search → scrape | https://www.brownstoner.com/brooklyn-life/carriage-houses-of-brooklyn-heights/ (scraped; 2013-06-12) | Carriage houses pictured: Hunts Lane, 181 & 165 Columbia Heights, 43 Love Lane, 30-33 College Place, Grace Court Alley, 291-293 Hicks Street; reader comment: 43 Love Lane "totally reconstructed"; more on Middagh, Pineapple, Willow, and Henry Street south of Joralemon; one still has horse stalls. | §6 card, §7 card, §9 carriage-house Q, Carriage section para 1 |
+| BH4 | (same search) → https://citylore.org/places/grace-court-alley/ · Firecrawl scrape (query) | https://citylore.org/places/grace-court-alley/ | Unnamed horse-stable alley of the Remsen family; mews for mansions on Remsen and Joralemon; stables became garages and chauffeurs' quarters, later apartments; "tall wooden stable doors, the hay cranes"; 2–3-storey carriage houses. | §7 card, §9 carriage Q, §13 Grace Court Alley card |
+| BH5 | `Brooklyn Heights burglary package theft 84th Precinct 2025 2026` · Firecrawl search | https://thebha.org/resources/city-other-services/ ; https://x.com/NYPD84Pct (excerpts) | 84th Precinct covers Brooklyn Heights; 84 Pct X account: "we offer FREE security assessments … ask for the Crime Prevention Officer". Robbery-pattern and retail-theft items found (Instagram, Brooklyn Eagle) — not used (no smart-lock relevance verified). | §9 NYPD survey Q |
+| BH6 | `NYPD crime prevention officer free security survey home business precinct` · Firecrawl search → scrape | https://www.nyc.gov/site/nypd/services/law-enforcement/security-safety.page (scraped) ; https://portal.311.nyc.gov/article/?kanumber=KA-02993 (excerpt) | "Security Surveys are provided free of charge by precinct crime prevention officers … Officers evaluate locks, doors, lighting, windows, landscaping, and alarm systems"; 311 books appointments. | §9 NYPD survey Q |
+| BH7 | `Landmarks Preservation Commission intercom security camera keypad installation facade historic district permit rules` · Firecrawl search → scrape (pdf, query) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf (2025 edition) | Permit needed for work affecting exterior in a historic district incl. yards; no permit for ordinary maintenance/repair of health-safety-utility equipment; LPC Rules §2-20: equipment not on primary facade unless no alternative; discreet location (beneath band course, under stoop, behind areaway wall); ~10 in. visible conduit, painted, into mortar joints, not decorative surfaces; equipment small and blended; intercom panels/doorbells within or adjacent to door opening, or on fence/wall in front; max two light fixtures + one intercom panel per opening; mailboxes and mail key lockboxes within/adjacent to door opening, on gate/door under stoop, plain stoop wall, areaway fence or post; application needs photos, elevations, manufacturer cut sheets; LPC 212-669-7817 / info@lpc.nyc.gov. Hardware (locks, handles) no-permit rule carried from silo research B4. | §5 para 3, §5.5 bullet 6, §6 card, §8.5 bullet 1, §9 reader-cable Q, §9 postal Q, §10.5 H3 3, LPC section, FAQ cut-sheets |
+| BH8 | `USPS arrow lock key apartment building intercom panel mail carrier access replacement` · Firecrawl search → scrape | https://www.uspsoig.gov/reports/audit-reports/arrow-key-management-controls (scraped) ; https://www.intercomsonline.com/obtain-usps-access-master-lock (excerpt) | OIG: "The Postal Service uses a universal key, known as an arrow key, to access collection boxes, outdoor parcel lockers, cluster box units, and apartment panels"; number of arrow keys in circulation unknown; lost/stolen keys not adequately reported. USPS lock arranged via local post office (IntercomsOnline excerpt). | §9 postal-key Q |
+| BH9 | `Brooklyn Heights film shoots location permits residents filming Mayor's Office of Media and Entertainment Brooklyn Heights Blog` · Firecrawl search → scrape | http://brooklynheightsblog.com/archives/49580 (2012-10-22) ; http://brooklynheightsblog.com/archives/52397 (2012-11-30) | BHA's Judy Stanton "losing count" of shoots; Brooklyn Eagle counted 14+ productions in two weeks; Council Member Stephen Levin asked the film office to put all of Brooklyn Heights on the "hot spot" list. | §5 para 4 (busy with crews), §9 film-shoot Q |
+| BH10 | `Brooklyn Heights film shoot 2025 OR 2026 filming Brooklyn Heights street residents` · Firecrawl search | https://brooklyneagle.com/307074/brooklyn-heights-filming-of-law-order/ (excerpt) | "Law & Order filmed on the Brooklyn Heights Promenade on Tuesday, April 8, 2025." | §9 film-shoot Q |
+| BH11 | https://www.nyc.gov/site/mome/permits/permits.page · Firecrawl scrape (query) | same | EMPTY (page returned no extractable text). Not used. | — |
+| BH12 | `24 Middagh Street oldest house Brooklyn Heights Federal style wood frame 1824` · Firecrawl search | https://www.6sqft.com/brooklyn/brooklyn-heights/24-middagh-street/ ; https://inhabit.corcoran.com/peek-inside-the-oldest-house-in-brooklyn-heights/ (excerpts) | "Built in 1824, 24 Middagh Street is a charming, wood-frame, Federal house"; Corcoran: oldest house in the neighbourhood, "likely going up in 1824". | §7 Federal card, §13 card, Carriage section para 3 |
+| BH13 | `Hotel St. George Brooklyn Heights history largest hotel now co-op apartments student housing Clark Street` · Firecrawl search | https://stgeorgetower.com/history/ ; https://en.wikipedia.org/wiki/Hotel_St._George (excerpts) | Built 1885–1929/30 on block Clark/Hicks/Pineapple/Henry; 2,632 rooms at peak, once city's largest hotel; Tower & Grill became co-op 1984 (St. George Tower and Grill Owners Corp.); other buildings student housing; Clark Street station's sole entrance through hotel ground story; 1995 fire. | §5.5 bullet 5, §7 card, §8 Clark Street card, §13 card, Pre-war section |
+| BH14 | `Bossert Hotel Montague Street 2026 news` · Firecrawl search | https://newyorkyimby.com/2026/08/lpc-to-review-revised-proposal-for-hotel-conversion-at-98-montague-street-...html ; https://en.wikipedia.org/wiki/Hotel_Bossert ; https://larevuedeshotels.com/en/brooklyn-hotel-bossert-become-borough-first-ritz-carlton-residences (excerpts) | 98 Montague St, 14-storey Renaissance Revival landmark; opened 1909; sold for $100M (Crain's, May 2025) to SomeraRoad; residential conversion (Ritz-Carlton Residences) with LPC reviewing revised plans Aug 2026. YIMBY also: demolition complete for a 47-storey tower at 205 Montague St (June 29, 2026) — not used on page. | §7 card, §13 card, Pre-war section |
+| BH15 | `Plymouth Church Orange Street Brooklyn Heights Henry Ward Beecher Underground Railroad national landmark` · Firecrawl search | https://www.plymouthchurch.org/more-history (excerpt); Facebook post excerpt (founded 1847) | Beecher first pastor; Underground Railroad connections; red-brick sanctuary seating 2,800 on Orange Street; National Historic Landmark 1961; founded 1847. | §8 card, §13 card |
+| BH16 | `Montague Street BID Brooklyn Heights businesses …` · Firecrawl search | https://www.montaguebid.com/the-bid (excerpt) | Serves more than 100 businesses; north side of Montague between Court and Hicks; south side 200 to 78 Montague; founded 1998; works with 84th Precinct NCOs. | §5 para 4, §5.5 bullet 4, §8 card |
+| BH17 | `Brooklyn Heights townhouse converted condominium units brownstone condo shared entrance Remsen Street Pierrepont Street` · Firecrawl search | https://www.6sqft.com/charming-brooklyn-heights-duplex-with-versatile-backyard-asks-1-25m/ (excerpt) | "114 Remsen Street is a four-story Italianate brownstone built in 1900. The seven-unit co-op …" | §5 para 2 (example of a rowhouse co-op) |
+| BH18 | `reddit brooklynheights packages stolen stoop lock keys building` · Firecrawl search | https://www.reddit.com/r/Brooklyn/comments/easaq5/rampant_package_theft_in_brooklyn_how_do_you_keep/ (excerpt only) | Excerpt mentions "changing the lock to some kind of smart lock to allow packages to be dropped off behind the stoop gate" with "Hill/Brooklyn Heights neighborhoods". Thread body not retrieved. Not quoted (package intent already on Brooklyn page). | research only |
+| BH19 | `ANSI BHMA A156.40 residential deadbolt grade …` · Firecrawl search | https://buildershardware.com/ANSI-BHMA-Standards/Hardware-Highlights/A15640-2015-Residential-Deadbolts ; https://community.smartthings.com/t/faq-ansi-bhma-lock-grades/282344 (excerpts) | A156.40 (2025) residential deadbolts: durability, operation, security tests; "Seventeen aggressive tests … loading the door against the deadbolt with 1,350 pounds of force"; older grade 1 = commercial, grade 2 residential/light commercial. | §9 Montague shop Q |
+| BH20 | `NYC Facade Inspection Safety Program Local Law 11 buildings greater than six stories sidewalk shed` · Firecrawl search | https://www.nyc.gov/site/buildings/safety/facade-local-law.page (excerpt) | Owners of buildings higher than six stories must have exterior walls inspected every five years and file a report (FISP). | FAQ sidewalk-shed |
+| BH21 | `https://www.brownstoner.com/select-story/brownstone-doors-everything-you-ever-wanted-to-know/` · Firecrawl scrape (query) | same | EMPTY (no extractable article text). Centre-knob statements on the page are general hardware description, no statistic claimed. | — |
+| — | Carried from silo research (not re-fetched) | S1 Fixr; S2 Bob Vila; S3 August retrofit; S4 August Connect 10–15 ft; S5 Yale Matter/Thread; S6 Bold; S7 SmartThings mortise thread; N1 MDL §51-c; N3 HMC §27-2043; N4 LL63/2021; N5 LL111/2018; N6 HPD double-cylinder; N2 co-op duplicate key; B4 LPC hardware no-permit; B11 SBS BID directory (Atlantic Avenue, Court-Livingston-Schermerhorn, Montague Street BIDs) | as logged in research/smart-lock-installation.md | §8, §8.5, §9, §10.5, FAQ |
+
+### Prices used (no new figures; Brooklyn Heights = Brooklyn ×1.00)
+- $1,500–$2,500 single-door keypad or fob reader with electric strike — silo "Prices used" (access-control-installation-brooklyn / bath-beach pages). §14 table, §15 Premium, FAQ 1, Service schema.
+- $250–$450 new electric strike; $295–$485 failed strike repair — silo "Prices used" (door-buzzer pages). §14, §15 Standard, FAQ 1, schema.
+- $195/hr, 3-hour minimum ($585) service call — blueprint v2.3 §9 verbatim. §14.
+- Fixr national $250–$400, average $300 — labelled national third-party (silo S1). §10.5 H3 1, §14.
+- House / unit / carriage-house door smart lock: no AESS figure → "quoted flat at the free walkthrough". The $195 setup-only visit rate was deliberately NOT used (still flagged for Anwar on Brooklyn/LI).
+
+### EMPTY (not accessible in build env)
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DuckDuckGo: EMPTY (not accessible in build env). §10.5 says so and uses cost-guide / manufacturer claims.
+- Yelp 1–3★ Brooklyn Heights locksmith / smart lock: EMPTY (not accessible in build env).
+- Reddit (r/brooklynheights, r/Brooklyn): search excerpts only; thread bodies not retrieved → EMPTY beyond excerpts.
+- NYC MOME permits page and Brownstoner "Brownstone Doors" article: scrape returned no text → EMPTY.
+- Local news on smart locks specifically in Brooklyn Heights (BH Blog, Brooklyn Paper, Brooklyn Eagle, Patch): none found → EMPTY.
+- Field Notes: no sourced Brooklyn Heights install anecdote → written as working practice and labelled so.
+
+## Images (11) — permanent image rule
+Drive folder "AESS Website Photos/Smart Lock Installation" empty (main run); CompanyCam not connected. Source silo: images/smart-lock-installation/ library (unused geo-named copies, taken from the middle third of the sorted unused list; those files were originally reused from images/low-voltage/ and images/commercial-security/). Faces and readable signs cropped out where present. All new files WebP q80.
+
+| New file (images/smart-lock-installation/) | Source file (crop) |
+|---|---|
+| smart-lock-installation-brooklyn-heights-keypad-strike-exit-button-glass-door.webp (hero, eager) | smart-lock-installation-nyc-keypad-electric-strike-glass-door.webp (cropped to right side, face removed) |
+| smart-lock-installation-brooklyn-heights-strike-terminal-wiring-gloved-hands.webp | smart-lock-installation-putnam-county-electric-strike-terminal-wiring.webp |
+| smart-lock-installation-brooklyn-heights-keypad-reader-stone-door-jamb.webp | smart-lock-installation-orange-county-keypad-reader-employee-door-stone.webp (sign cropped out) |
+| smart-lock-installation-brooklyn-heights-enclosure-conduit-brick-wall.webp | smart-lock-installation-putnam-county-exterior-enclosure-brick-conduit.webp |
+| smart-lock-installation-brooklyn-heights-maglock-header-wiring-office-door.webp | smart-lock-installation-nyc-maglock-glass-office-door.webp (face cropped out) |
+| smart-lock-installation-brooklyn-heights-fob-reader-mounting-door-frame.webp | smart-lock-installation-nyc-fob-reader-mounting.webp (head cropped out) |
+| smart-lock-installation-brooklyn-heights-fingerprint-reader-gate-post-wiring.webp | smart-lock-installation-putnam-county-gate-fingerprint-keypad-wiring.webp |
+| smart-lock-installation-brooklyn-heights-strike-pocket-aluminum-door-frame.webp | smart-lock-installation-orange-county-electric-strike-door-frame-prep.webp |
+| smart-lock-installation-brooklyn-heights-door-controller-boards-power-supply.webp | smart-lock-installation-putnam-county-door-controller-boards-power-supply.webp |
+| smart-lock-installation-brooklyn-heights-wave-to-exit-sensor-door-header.webp | smart-lock-installation-nyc-wave-to-exit-sensor.webp (face cropped out) |
+| smart-lock-installation-brooklyn-heights-door-position-contact-frame.webp | smart-lock-installation-nyc-door-position-contact.webp (face and most of sign cropped out) |
+
+Rejected after viewing: nyc-electric-strike-lobby-door (clear face + readable sign), nyc-push-to-exit-button-wiring and nassau door-contact collage (faces), orange-county-fob-card-programming-station (readable programming checklist), putnam gated-entrance-post-camera (not lock-related). Note for Anwar: many library photos (including these) look stylised/possibly AI-generated (logo text varies between "Enterprises" and "Enterprise LLC"); swap for the real aess-* smart-lock photos or new Drive uploads when available.
+
+## Question register — smart-lock-installation-brooklyn-heights-brooklyn-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 10)
+1. Our carriage house on the mews still has its tall wooden stable doors — where does a smart lock actually go?
+2. We want a reader beside the doorway rather than on the door — how does its cable get there without marking the brownstone?
+3. The mail carrier opens our building's street door with a postal key in the old intercom — what happens to that when the door goes keyless?
+4. Our brownstone is a self-managed co-op of six or seven apartments — who decides on a keypad for the shared street door, and who holds the master admin?
+5. The laundry, bike room and storage cages in our co-op all run on one old key everyone has copied — can those doors go keyless too?
+6. Our inner vestibule door still has its original etched glass — how do you fit a lock without putting the glass at risk?
+7. Our walls are original plaster on brick — can a wired reader or door sensor be fished to the doorway without opening the walls?
+8. A production company wants our house for a few days of filming — how should their access work?
+9. Should we book the NYPD's free security survey before or after the smart lock goes in?
+10. Our Montague Street shop carries valuable stock — how does a smart deadbolt's strength rating compare with the lock it replaces?
+
+
+### §17 FAQ (visible == FAQPage, 7)
+1. What does a keypad with an electric strike cost on the street door of a Heights rowhouse co-op?
+2. Do your installers also cover DUMBO, Cobble Hill and Downtown Brooklyn?
+3. If the power goes off, should the electric strike on our co-op's street door stay locked or let the door open?
+4. Our building has a sidewalk shed or scaffold over the entrance for facade work — can the street-door reader still go in?
+5. Can you send cut sheets and marked-up photos for an LPC application or a board approval?
+6. Can the old intercom wire to our street door be reused for a new reader or strike?
+7. Does it matter which way our front door swings or which side the hinges are on?
+
+### Other question-form headings
+- H2 "Keypad Silent on a Heights Stoop or Shop Door?" (early repair capture)
+- H2 "Shut Out on Remsen, Hicks or Joralemon Street Tonight?" (final repair capture)
+- H3 "National brands or a local installer?" (comparison sub-head)
+
+De-dup notes: compared by meaning against every live smart-lock page and the Upper East Side and Flushing pages on disk at build time. Replaced during build: "Parking on our block … hold a space for your van?" (= Flushing FAQ "Do we need to arrange parking or loading space for your van downtown?") → fail-secure/fail-safe strike FAQ. Avoided on purpose: historic-district approval for a keypad (HV), replacement door look (Brooklyn), leave original door and use another door (Ulster), thin/antique doors (Putnam/Ulster), packages (Brooklyn/Manhattan), guest codes, co-op board approval of a unit lock and duplicate key (NYC), entry-log fairness (Brooklyn/SI), previous owners' access (SI), brand list (NYC). Partial overlaps for the main run to judge: §9 Q10 (BHMA strength rating for a shop) vs UES "Is a lock that clamps onto the inside of our deadbolt as strong as the deadbolt itself?" (retrofit strength) and Flushing "no-name smart lock vs Schlage"; FAQ 1/2 cost and coverage are geo-specific by design (as on every silo page); FAQ 3 fail-secure strike vs LI "After a storm … can we still get in?" (here: choosing strike type for a shared street door).
+
+
+## Flushing, Queens (smart-lock-installation-flushing-queens-ny)
+
+Built 2026-10-17 (neighbourhood batch: Upper East Side / Brooklyn Heights / Flushing). Phone (347) 434-6392 · GBP Bronx (460 E Fordham Rd, `#bronx`) · up-link `/smart-lock-installation-queens` · Queens ×1.05 pricing.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpt only unless "scraped"); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape.
+
+Thesis / lane (kept away from the Queens page's multigenerational-house / basement / garden-co-op lane): Flushing = commercial downtown + condo towers + imported hardware + detached Broadway–Flushing houses. Door *construction* decides the lock (mortise push-pull vs bored deadbolt, frameless glass, hollow-metal suite doors), tower radio congestion, business door policy (staff turnover, unlocked side doors, broken-through front doors), and niche business rules (IRS Pub 4557, NYC biometric sign law, interlocked vestibules, children's exit at tutoring centres).
+
+### Mandatory sources (§3)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | r/Flushing package-theft threads found as search excerpts only (F20) — not scraped, not quoted on page. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 headings are recurring marketing/listicle claims, stated as such on the page. |
+| 6 | Landmarks | F8 (Community Board 7 history page), F9 (Wikipedia Flushing–Main St station) |
+| 7 | Use cases / building stock | F3–F7, F10 |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | QNS (F1, F11, F12), 6sqft excerpt (F5), NYT 2017 excerpt (F17) |
+| 10 | Hyperlocal | QNS used; Queens Chronicle (Sky View Parc / Broadway–Flushing) excerpts only, not used; Queens Ledger EMPTY |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix
+| # | Exact query · platform | URL | Finding | Page section used |
+|---|---|---|---|---|
+| F1 | `Flushing Queens burglary 109th Precinct 2025 police` · Firecrawl search → Firecrawl scrape | https://qns.com/2026/10/teen-busted-flushing-home-invasion/ | QNS Oct 12, 2026 (Bill Parry): four masked armed men forced entry into a residence on the Horace Harding Expwy near 150th St ~2:30 a.m. Oct 11; 17-year-old arrested. 109th Pct burglaries 181 through Oct 4, 2026 vs 354 same point 2025 (−48.9%, CompStat). | §5 para 5, §5.5 bullet 6, §9 Q "Horace Harding" |
+| F2 | same search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/109th-precinct.page | 109th Pct covers Downtown Flushing, East Flushing, Queensboro Hill, College Point, Malba, Whitestone, Beechhurst, Bay Terrace. | §5 para 5 |
+| F3 | `Flushing waterfront Tangram Skyview Parc One Flushing condo towers development` · Firecrawl search | https://www.homes.com/building/sky-view-parc-flushing-ny/b-c7gxr21kcbr8l/ | Sky View Parc: 448-unit condo atop a busy mall, designed by Perkins Eastman. | §7 card "Glass Condo Towers" |
+| F4 | `Tangram Flushing mixed-use towers condo hotel 133-36 37th Ave F&T Group` · Firecrawl search | https://www.homes.com/building/tangram-flushing-ny/b-nmz5t4es8fqfs/ ; https://www.fandtgroup.com/news-press/new-model-units-unveiled-at-tangram-house-new-luxury-condominium-in-the-heart-of-flushing-city-realty | Tangram House South opened 2019, Tangram House West (16 storeys) 2022; F&T Group; 1.2 million sq ft mixed-use (hotel, office, retail). | §7 card "Glass Condo Towers" |
+| F5 | `Special Flushing Waterfront District approved City Council 2021 Flushing Creek towers units` · Firecrawl search | https://flushingwaterfront.com/ ; https://www.6sqft.com/nyc-rezoning-flushing-waterfront-district/ ; https://www.guardiansofflushingbay.org/special-flushing-waterfront-district | Developer site: 1,725 residential units proposed, hotel 879 keys. 6sqft: 13-tower mixed-use project, rezoning approved by City Council. (Year: excerpts conflict — takerootjustice says Dec 2020; page gives no year.) | §7 card "Waterfront Redevelopment" |
+| F6 | `Broadway-Flushing historic district National Register detached houses covenants` · Firecrawl search → Firecrawl scrape (broadwayflushing.org/history) | http://broadwayflushing.org/history/ ; https://www.scribd.com/doc/129067918/Broadway-Flushing-Historic-District-National-Register-Application ; https://cityneighborhoods.nyc/broadway-flushing ; https://en.wikipedia.org/wiki/Broadway%E2%80%93Flushing,_Queens | HOA founded Jan 1964 to protect R1-R2 zoning and the Rickert–Finlay Covenant of 1906; State & National Register 2006; register application: 1919–1925 hundreds of detached Dutch Colonial, Colonial, Tudor Revival houses; covenant = detached, set back ≥20 ft; Wikipedia: 1,330 properties. QChron excerpt: DOB doesn't enforce covenant; HOA sues. | §7 card "Detached Houses in Broadway–Flushing", Across Flushing |
+| F7 | `Flushing Queens neighborhood demographics … community district 7` · Firecrawl search → Firecrawl scrape | https://www.furmancenter.org/neighborhoods/flushing-whitestone/ | Furman Center (updated 05/06/2026): 2024 pop 251,983; homeownership 52.5% vs 32.7% citywide; 65+ 23.1% (15.8% in 2000); housing units 101,835; 2025 sales: condo 764 vs 1-family 488 vs 2–4 family 328; 5,142 units in 4+ unit buildings built 2010–2025; serious crime 9.1/1,000 vs 12.3 citywide (2025). | §5 paras 2–3, §5.5 bullets 1–3, Changing Hands section |
+| F8 | same search | https://www.nyc.gov/assets/planning/newest-new-yorkers-2026/Ch3.html | DCP 2026: Flushing–Murray Hill = city's largest immigrant neighbourhood, 95,700 foreign-born, two-thirds of population. | §5 para 2, §5.5 bullet 4 |
+| F9 | `Flushing Town Hall 1862 Bowne House 1661 Quaker Meeting House Flushing landmarks Freedom Mile` · Firecrawl search → Firecrawl scrape | https://www.nyc.gov/site/queenscb7/about/history.page ; https://en.wikipedia.org/wiki/John_Bowne_House ; https://flushingfriends.org/2015/05/15/sacredsites/ | CB7: Flushing Town Hall 1862 Romanesque Revival, cultural centre of Flushing Council on Culture and the Arts; Bowne House 1661 or earlier, oldest surviving house in Queens County; Friends Meeting House begun 1694, members were Underground Railroad conductors; Kingsland House 1785, moved 1968, Queens Historical Society HQ; Lewis Latimer House 1887–1889 Queen Anne; Wikipedia: 1662 Quaker meeting → Bowne arrested by Stuyvesant; Flushing Meeting took part in open house (2015). | §13 landmark cards |
+| F10 | `Flushing-Main Street 7 train station busiest outside Manhattan ridership MTA` · Firecrawl search | https://en.wikipedia.org/wiki/Flushing%E2%80%93Main_Street_station_(IRT_Flushing_Line) ; https://www.mta.info/maps/subway-line-maps/7-line | 2024: second-busiest station outside Manhattan, 10th busiest in system; terminal, entrances at Main St & Roosevelt Ave. | §13 card "Flushing–Main Street Station" |
+| F11 | `qns.com Flushing burglary spree December 20 2025 medical office businesses 109th 107th Precinct` · Firecrawl search → Firecrawl scrape (directQuote) | https://qns.com/2026/01/suspects-wanted-burglaries-flushing-fresh-meadows-bronx/ | Dec 20, 2025 6 a.m.: front door broken at medical business 42-62 Kissena Blvd; pharmacy next door 42-60 Kissena broken into via front door; 6:45 a.m. pharmacy 177-05 Union Tpke; Dec 30 ~5:30 a.m. pharmacy 45-12 Parsons Blvd front door broken. | §5 para 4, §8 card "Kissena and Parsons", §9 Q "front doors of pharmacies", §10.5 H3 1 |
+| F12 | same search → Firecrawl scrape (directQuote) | https://qns.com/2025/08/burglar-flushing-businesses/ | QNS Aug 13, 2025: one suspect, half-dozen businesses May–Aug; rear door forced at 133-38 Sanford Ave; medical office locks manipulated; unlocked doors at 34-20 Linden Place restaurant (Murray Hill), 41-42 College Point Blvd home-furnishing shop, 135-09 Northern Blvd furniture store, Flushing Tower Condominium. | §5 para 4, §8 cards, §9 Q "unlocked doors", §10.5 H3 1 |
+| F13 | `Murray Hill Queens Commercial District Needs Assessment Korean businesses Northern Boulevard 149th Street` · Firecrawl search → Firecrawl scrape (directQuote) | https://qns.com/2022/02/asian-american-federation-assessment-revitalize-murray-hill/ | Corridor near LIRR Murray Hill station: ~70 small businesses, Korean immigrant owners, ~60% restaurants within five-to-six blocks (merchants' association). | §8 card "Murray Hill", Across Flushing |
+| F14 | `Samsung push pull digital door lock SHP-DP609 mortise installation door thickness US door requirements` · Firecrawl search → Firecrawl scrape | https://www.samsungdoorlock.ca/installation-requirements/ | Samsung mortise models: absolute minimum 4.5 in flat space from door edge to glass/panel/moulding; door 1-9/16–3-1/8 in (standard shaft 1-9/16–2-3/8); storm doors need 70 mm clearance. | §7.5, §9 Q push-pull, comparison table, §10.5 H3 3 |
+| F15 | `NYC biometric identifier information law commercial establishments sign posted fingerprint Local Law 3 2021 DCWP` · Firecrawl search | https://rules.cityofnewyork.us/rule/biometric-identifier-information/ ; https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=3704369&GUID=070402C0-43F0-47AE-AA6E-DEF06CDF702A ; https://www.hklaw.com/en/insights/publications/2021/08/nyc-passes-biometric-data-protection-laws-aimed-at-businesses ; https://www.consumerfinancialserviceslawmonitor.com/2021/06/new-york-city-enacts-biometrics-law-for-food-and-drink-establishments-entertainment-venues-and-retail-stores/ | LL3/2021 effective July 9, 2021; commercial establishments (retail, food & drink, entertainment) collecting customers' biometric identifier info (incl. fingerprints) must post sign near all customer entrances in DCWP form; §22-1202(b) bars selling/leasing/trading/sharing for value. | §8.5 bullet 2, §9 Q biometric sign, §10.5 H3 6, privacy section |
+| F16 | `IRS Publication 4557 safeguarding taxpayer data physical safeguards lock doors tax preparers office` · Firecrawl search → Firecrawl scrape (PDF, directQuote) | https://www.irs.gov/pub/irs-pdf/p4557.pdf | Pub 4557 (Rev. 5-2024): under FTC Safeguards Rule tax return preparers "must create and enact security plans"; see Pub 5708; "Limit access to taxpayer data to individuals who need to know"; "Implement a clean desk policy." No door-hardware requirement found. | §9 Q tax office |
+| F17 | `Flushing tutoring centers after-school cram schools Main Street Queens news` · Firecrawl search | https://www.nytimes.com/2017/10/25/magazine/asian-test-prep-centers-offer-parents-exactly-what-they-want-results.html | Excerpt: "On Main Street in Flushing … the GPS Academy building announces itself with a sign printed in both English and Chinese". | §9 Q tutoring centre |
+| F18 | `interlocking doors jewelry store vestibule "interlock" building code egress free exit requirement` · Firecrawl search → Firecrawl scrape (directQuote) | https://www.locksmithledger.com/electronics-access-control/article/21288760/mantraps-one-door-at-a-time ; https://www.thebuildingcodeforum.com/forum/threads/security-interlock-man-trap.1658/ | "you can't trap someone in a mantrap"; fire codes require emergency exit path; free-exiting devices overriding interlock if no other exit; may need to meet special locking arrangement rules (delayed egress); forum excerpt: electromagnetic locks typically used. | §8.5 bullet 3, §9 Q jewellery vestibule |
+| F19 | `frameless glass door patch lock electronic keypad smart lock bottom rail glass door options` · Firecrawl search | https://www.elwinsecurity.com/resources/access-control/keyless-entry-commercial-glass-doors ; https://www.codelocks.us/mediacoverage-hcmnewglassdoorlockoct22 | Frameless glass doors can't be drilled; maglock at header or patch/bottom-rail lock made for the glass system. Codelocks CL4500 GD: medium-duty electronic lock, patch lock for toughened glass, key override, 12-button backlit keypad. | §7.5, §9 Q frameless glass, equipment card |
+| F20 | `site:reddit.com flushing queens lock door apartment package stolen OR break-in OR keypad` · Firecrawl search | https://www.reddit.com/r/Flushing/comments/1pgyw1k/package_stolen_from_my_door_steps/ ; https://www.reddit.com/r/Flushing/comments/1hq58x6/ongoing_package_theft_need_advice/ | Excerpts only: ~$400 of packages stolen from a doorstep; building package theft "for over a year". Not scraped, not used on page (package-theft intent already owned by Brooklyn page). | research only |
+| F21 | `fingerprint smart lock wet dirty fingers not recognized troubleshooting manufacturer support` · Firecrawl search | https://service.eufy.com/article-description/Fingerprint-Recognition-on-eufy-Smart-Lock-Not-Working ; https://www.welock.com/blogs/news/fingerprint-smart-lock-not-recognizing-finger | eufy: sensor "may not be working properly if your hand is wet, moisty, or dirty"; WeLock: wet or overly dry skin, dirty sensor. | §9 Q kitchen staff, §10.5 H3 2 |
+| C1 | carried from research/smart-lock-installation.md (Queens C10) | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=45 | Downtown Flushing Transit Hub BID: ~30 block faces, ~1,500 ground-floor businesses. | §5.5 bullet 5, §8 card Main St |
+| C2 | carried (silo HV/LI) | https://www.schlage.com/en/home/products/BE489WBCAMFFF.html ; https://www.schlage.com/en/home/products/BE499WBCENFFF.html | Encode "Requires 2.4GHz WiFi network"; Encode Plus BHMA A156.40 Grade AAA, doors 1-3/8–1-3/4 in. | §7.5, §9 Wi-Fi + marketplace Qs, §10.5, comparison table |
+| C3 | carried (silo S4) | https://support.august.com/en_us/august-connect-improving-your-wi-fi-and-bluetooth-signals-SyqxvL1Adz.md | Connect bridge within 10–15 ft of lock. | §9 Wi-Fi Q, §10.5 H3 5 |
+| C4 | carried (silo S5/S6) | https://support.shopyalehome.com/en_us/how-to-set-up-your-yale-smart-lock-with-matter-r18U4hgnyg.md ; https://knowledgebase.boldsmartlock.com/en/knowledge/how-does-matter-work-with-bold | Thread needs a border router; Bold: low-power self-healing mesh. | §9 Wi-Fi Q |
+| C5 | carried (silo LI) | https://kc.allegion.com/kb/article/what-are-the-required-door-preparation-specifications-for-the-schlage-arrive ; https://idighardware.com/2023/07/accessibility-requirements/ | Backset 2-3/8 / 2-3/4; ADA hardware no tight grasping/pinching/twisting, 34–48 in. | §7.5, §9 push-pull Q, §8.5 bullet 4 |
+| C6 | carried (silo N8, N4) | https://idighardware.com/2026/04/decoded-locks-on-dwelling-units-and-sleeping-units/ ; https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page | Electrified locks readily openable from egress side, one releasing motion; TDPA. | §8.5 bullets 1 & 5, §9 tutoring Q |
+| C7 | carried (silo S1 + LI) | https://www.fixr.com/costs/smart-lock-installation ; https://lawnstarter.com/blog/?p=79010 | National $250–$400, avg $300 (Fixr Jan 2025); LawnStarter national avg $330. Labelled national third-party. | §14, §10.5 H3 7 |
+
+### Prices used (all already published on live AESS smart-lock pages / silo prices table; none invented)
+| Figure | Scope | Source |
+|---|---|---|
+| $1,575–$2,625 | single-door keypad/fob reader + electric strike, Queens rate | smart-lock-installation-queens.html (= $1,500–$2,500 × 1.05) |
+| $263–$473 | new electric strike | smart-lock-installation-queens.html |
+| $310–$509 | failed electric strike repair | smart-lock-installation-queens.html |
+| $195 first hour, then 30-min blocks | setup-only visit (Queens) | smart-lock-installation-queens.html / research/tv-mounting-prices/BRIEF.md |
+| $195/hr, 3-hr minimum ($585) | service/callback, not on initial install | blueprint v2.3 §9 |
+| $250–$400, avg $300; avg $330 | NATIONAL third-party (Fixr, LawnStarter) | C7 |
+| quoted flat at walkthrough | residential / condo unit locks, push-pull, glass-door hardware | no AESS figure exists |
+Same conflicts the Queens page flagged for Anwar still apply (live access-control-installation-queens.html shows unscaled $1,500–$2,500; setup-only $195 rate is published for TV/device setup).
+
+## Images (11) — permanent image rule (Drive folder "AESS Website Photos/Smart Lock Installation" empty per main run; CompanyCam not connected)
+Chosen from the last third of the sorted list of tracked images/smart-lock-installation/ files not used on any live smart-lock page (all live pages use the 18 `aess-…` photos). Sources whose perceptual hash matched the Upper East Side builder's new files (keypad-strike-glass-door, reader-mounting-aluminum-door-frame, entry-panel-back-box-wiring) were avoided. All were viewed; crops remove faces (only hands/arms/backs of heads remain). **Note for Anwar:** these library photos look AI-rendered, like the rest of the smart-lock library; they should be replaced when real smart-lock photos are uploaded.
+
+| New file (images/smart-lock-installation/) | Source file (same folder) | Crop |
+|---|---|---|
+| smart-lock-installation-flushing-electric-strike-glass-shop-door.webp (hero, eager) | smart-lock-installation-suffolk-county-electric-strike-glass-door.webp | x600–1402 (face removed) |
+| smart-lock-installation-flushing-strike-terminal-wiring-closeup.webp | smart-lock-installation-westchester-county-electric-strike-terminal-wiring.webp | x380–1400 |
+| smart-lock-installation-flushing-keypad-reader-office-door.webp | smart-lock-installation-westchester-county-keypad-reader-office-entrance.webp | x650–1402 |
+| smart-lock-installation-flushing-video-intercom-keypad-stone-entrance.webp | smart-lock-installation-westchester-county-keypad-intercom-granite-entrance.webp | x520–1136 |
+| smart-lock-installation-flushing-lobby-entry-panel-install.webp | smart-lock-installation-westchester-county-lobby-entry-panel-install.webp | x580–1078 |
+| smart-lock-installation-flushing-glass-lobby-reader-entrance.webp | smart-lock-installation-ulster-county-finished-secured-lobby.webp | none (no people) |
+| smart-lock-installation-flushing-weatherproof-enclosure-brick-wall.webp | smart-lock-installation-ulster-county-enclosure-on-brick-wall.webp | x620–1400 |
+| smart-lock-installation-flushing-service-van-tool-load.webp | smart-lock-installation-staten-island-van-load-out-tool-bag.webp | y380–1120 (van shows AESS 800 number) |
+| smart-lock-installation-flushing-cable-tester-wall-jack.webp | smart-lock-installation-westchester-county-wall-plate-cable-test.webp | x760–1400 |
+| smart-lock-installation-flushing-ceiling-wifi-access-point.webp | smart-lock-installation-westchester-county-ceiling-wifi-access-point.webp | none (back view) |
+| smart-lock-installation-flushing-network-rack-switch.webp | smart-lock-installation-westchester-county-poe-switch-recorder-rack.webp | x330–1136 |
+DAILY-LOG note: `images: 11 reused from images/smart-lock-installation/ library (no real smart-lock photos for Flushing yet)`.
+
+## Question register — smart-lock-installation-flushing-queens-ny
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 12)
+1. Our condo is on a high floor downtown and my phone shows dozens of neighbours’ Wi-Fi networks — will a Wi-Fi smart lock keep dropping off?
+2. A relative brought back a push-pull fingerprint lock from Korea — will it fit an ordinary American front door?
+3. A no-name smart lock from an online marketplace costs a fraction of a Schlage — what are we actually giving up?
+4. After October’s armed home invasion near the Horace Harding Expressway, should we stop unlocking our door from the app for people we can’t see?
+5. Our tutoring centre fills with children after school — can the entrance keep strangers out without trapping the kids inside?
+6. We prepare tax returns in an office above Main Street — does a keypad with an audit log help with the IRS’s data-security expectations?
+7. Our jewellery shop wants a buzz-in vestibule where the inner door won’t open until the outer one closes — is that allowed?
+8. Our storefront is a frameless glass door with a lock in the bottom corner fitting — can it go keyless?
+9. If our staff door uses fingerprints, does the city’s biometric law mean we need a sign?
+10. Most of the Flushing businesses hit in last summer’s burglary spree had a door left unlocked — what actually closes that gap during business hours?
+11. Our restaurant’s kitchen staff have wet, floury hands all shift — will a fingerprint reader on the staff door work?
+12. Burglars broke through the front doors of pharmacies on Kissena and Parsons — does a smart lock help when the door itself gives way?
+
+### §17 FAQ (visible == FAQPage, 8)
+1. What will a keypad-and-strike entry cost for a Flushing storefront or office?
+2. Do we need to arrange parking or loading space for your van downtown?
+3. Can young children use the fingerprint reader, or should they have a code?
+4. Will you adjust or replace the door closer so the shop door actually latches?
+5. Do you cover Murray Hill, Queensboro Hill, Auburndale and College Point as well as downtown Flushing?
+6. The fingerprint reader on our existing lock stopped recognising anyone — can it be repaired?
+7. Is a smart lock with a built-in camera worth it at a shop entrance?
+8. Can the staff door’s fingerprint reader double as our time clock?
+
+### Other question-form headings
+- H2 "Keypad Unresponsive on a Flushing Door?" (repair capture)
+- H2 "Push-Pull Mortise Lock or American Keypad Deadbolt?" (comparison section)
+- H2 "Opening a New Shop or Office in Flushing?" (mid-page CTA 2)
+- H2 "Shut Out of a Flushing Shop or Home Right Now?" (final repair capture)
+
+### De-dup notes
+- Avoided by design (intent already on the register): app language, elders without phones, caregiver schedules, dementia, arthritis, basement/Ida, garden-co-op courtyard doors, building-run app locks (Queens); package theft (Brooklyn); storefront roll-down gate (NYC hub); HIPAA (Suffolk/Westchester); shared shop/apartment stair door (Bronx/Ulster/Dutchess); historic-district approval (HV) — Broadway–Flushing covenant kept to body text only; condo resale handover kept as a body section, not a question.
+- Partial overlaps for the main run to judge: Q10 (auto-relock/door-position on business side doors) vs Manhattan FAQ "Can the lock relock itself so a dog walker or cleaner can't leave it open?" — different setting (commercial doors during opening hours, sourced to the 2025 Flushing spree); Q1 (2.4 GHz congestion in a tower) vs NYC hub "Wi-Fi bridge in the public hallway" and HV range questions — different cause (interference, not distance); FAQ 1 cost is geo-specific by design; FAQ 5 coverage geo-specific by design.
+- Paragraph similarity (masked, SequenceMatcher on ≥10-word paragraphs) vs all 18 silo pages on disk: max 0.73, and that one is the NAP line (name/address/WhatsApp — protected content). All other paragraphs < 0.65 after rewrites; boilerplate excluded (stamp, warranty sentence, licence line).
+
+### Flags for Anwar
+- Library images look AI-rendered (see Images).
+- The Upper East Side link resolves only once that sibling page is on disk; at time of build both sibling files existed.
+- Size: page is 178,676 B, placed below the Ulster page (181,242 B) because every gap above it is taken by siblings (Brooklyn Heights ~184.2 KB, Upper East Side 187.5–189.1 KB during build). If a sibling's size changes, re-run the cluster check.
