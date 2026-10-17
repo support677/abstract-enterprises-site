@@ -1921,3 +1921,331 @@ Size note: Sources section on page extended with 7 already-cited sources (Woodst
 ## Images — replaced 2026-10-17 with Anwar's soundbar photos
 Anwar supplied 13 soundbar installation photos in chat on 2026-10-17 ("sound bar installation pictures please use these not the others you put"). All 16 soundbar pages now use 11 of these 13 (per-area WebP copies, 1600px wide, q80, `soundbar-installation-<area>-<what-it-shows>.webp`), rotated so each page has a different hero and mix. Alt/title/caption rewritten to describe only what is visible. The 11 borrowed images/low-voltage/ reuses per page are no longer referenced by any page (files left in images/soundbar-installation/ pending removal).
 The 13: level-check-under-tv, conference-room-handover, waiting-room-tv-soundbar, home-gym-wall-soundbar, desk-compact-soundbar, rear-surround-speaker-stands, console-soundbar-placement, homeowner-remote-walkthrough, cabinet-cable-management, app-sound-check-tablet, bracket-leveling-under-tv, unboxing-bracket-hardware, full-motion-mount-attachment.
+
+
+# Research — soundbar-installation-riverdale-bronx-ny (neighbourhood spoke, up = /soundbar-installation-bronx)
+
+Built 2026-10-17 (batch: Riverdale, St. George, Tribeca). Phone (646) 490-0629 (Bronx direct line); GBP Bronx, 460 E Fordham Rd (#bronx). Pricing = Bronx page, unchanged (no multiplier, no new lines).
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts only unless "scraped"); "FC scrape" = mcp__Firecrawl__firecrawl_scrape. Silo-wide sources (Homewyse, Thumbtack, Yamaha, Dolby, nyctvguy, AWOL Vision, r/sonos, r/AskNYC bass thread, Sonos/Sanus specs, DEP noise-code summary, ADA 307.2) are reused from research/soundbar-installation.md and were not re-fetched.
+
+**Thesis:** Riverdale is a co-op ridge above the Hudson. A soundbar job here is governed by (1) co-op contractor packets — weekday 9–5 hours, service elevator, $1M COI naming corporation and agent, licence copies, superintendent notice (750 Kappock alteration package); (2) living rooms planned around a west-facing river view, which pushes the TV to a side wall; (3) post-war brick/block co-op towers, Spuyten Duyvil high-rises and Central Riverdale condos versus Fieldston/Hudson Hill plaster-on-lath houses; (4) an older, long-tenured population (23.3% aged 65+) and a large Jewish community, including Shabbat-observant households who need a system that never wakes by itself.
+
+## Local matrix
+
+### Building stock / housing / stats (§5, §5.5, §7)
+- `Riverdale Bronx co-op apartment buildings housing stock high-rise Hudson River views neighborhood profile` · FC search · https://cooperatornews.com/article/a-river-runs-through-it (full text returned in search) · boundaries; "winding streets, hilly terrain, and dramatic rocky outcroppings along the river"; "the high, rocky cliffs of the Palisades and the Hudson River"; "Charming, eclectic single-family homes were built by the score in the 1920s"; post-war "large apartment buildings, many of which eventually became co-ops"; "co-ops tend to predominate in Riverdale"; residents "staying within buildings for generations"; people moving from a one-bedroom to larger places; retirees opting to stay; broker Linda Solomon: "People want to get away from the noise, and they get it here." · §5 paras 1, 3, 5; Houses section; Quiet Floors; Long-Tenure; Sources.
+  - Same search: https://www.zillow.com/riverdale-bronx-new-york-ny/hudson-river-view_att/ ("Hudson River View" listing attribute, 92 homes) · §5 para 3. https://www.brickunderground.com/…, https://www.homes.com/local-guide/bronx-ny/riverdale-neighborhood/, https://www.findrealestate.com/…, https://www.movoto.com/… (excerpts only) — not used beyond the Homes.com noise excerpt below.
+- `Riverdale Bronx Community District 8 population age 65 older owner-occupied housing Furman Center` · FC search → https://www.furmancenter.org/neighborhoods/riverdale-fieldston/ · FC scrape (directQuote): population 95,283 (2024); aged 65+ 15.9% (2006) → 23.3% (2024); homeownership 38.4% (2024); foreign-born 30.2% · §5 paras 1, 5; §5.5 stats 1–2; Long-Tenure; Sources. (Furman's Riverdale/Fieldston district also covers Kingsbridge and Marble Hill — stated on page.)
+  - Same search: https://datausa.io/… and https://a816-dohbesp.nyc.gov/IndicatorPublic/neighborhood-reports/kingsbridge_riverdale/housing_and_health/ (40.3% owner-occupied; 22.6% over 65) — corroborating, not quoted. Bronx 19.7% homeownership = Furman Bronx profile, from silo research (Bronx page).
+- Wikipedia · FC scrape (directQuote) https://en.wikipedia.org/wiki/Riverdale,_Bronx · Georgian/Tudor-revival mansions concentrated in Fieldston; pre-war buildings and smaller houses scattered; 1950s low-rise six-storey brick buildings; early-mid 1960s brick towers 10–20 storeys; by the 1980s most landlord-owned apartment buildings converted to co-ops; Spuyten Duyvil greatest concentration of high-rises (the Century, 555 Kappock, Winston Churchill); Central Riverdale condo boom since 2005; Hudson Hill / North Riverdale definitions; Henry Hudson Parkway, Metro-North; "16,000 Jewish adults and 4,000 Jewish children in 10,000 households"; Hebrew Institute of Riverdale, Riverdale Jewish Center, Riverdale Temple; Manhattan University · §5 paras 1, 4, 5; §7 cards; §8 campuses card; Sources.
+- `Skyview on the Hudson Riverdale co-op towers units built` · FC search · https://streeteasy.com/complex/skyview-on-the-hudson (1,309 units, 3 buildings, built 1961); https://www.5700arlington.com/ (units "often boast private balconies"); https://www.compass.com/building/skyview-on-the-hudson-bronx-ny/… (5800 Arlington, North Riverdale) · §5.5 stat; §7 1960s card; §13 card. (Compass says 1960 for one building; page uses StreetEasy's 1961 with attribution.)
+
+### Co-op rules / permits (§5, §8.5, §9, Co-op Packet section, FAQ)
+- `Riverdale co-op alteration agreement house rules contractor work hours weekdays 9 to 5 Riverdale Bronx cooperative` · FC search → https://garthchesterrealty.com/data/750-kappock-apt-corp/750KappockStreetAlterationApplicationJune2024rev.pdf · FC scrape (pdf, first 12 of 34 pages): work only 9:00 a.m.–5:00 p.m. weekdays, none Sat/Sun/holidays, stop 4:30 for clean-up; contractors use service entrance and service elevator only; superintendent notified before work; protection for floors/walls/elevators; rubbish incl. empty packaging removed promptly, building garbage not to be used; no riser relocated; enclosing heat/water pipes at shareholder's expense; electrical work needs letter from licensed electrician/engineer/architect on loads; contractor COI $1,000,000 liability + $1,000,000 property damage naming 750 Kappock Apartments Corp. and Garthchester Realty, 30 days' cancellation notice; "A New York City License is required by all contractors"; combining apartments covered; neighbour notification courtesy; lien waivers from each contractor · §5 para 2; §5.5 stats 3–4; §7.5 riser caution; §9 Q4, Q6, Q3; Co-op Packet table; FAQ 2–3; Sources.
+  - Same search (not used beyond background): nycbar.org form alteration agreement; havardcooper.com; myhomeus.com and monarchcontractingny.com ("most co-ops restrict construction hours to weekdays 9–5" — not quoted); arc-riverdale.com (Association of Riverdale Cooperatives) — FC scrape returned 523, EMPTY (not accessible in build env).
+- `Fieldston historic district Riverdale private streets property owners association designated 2006 Tudor houses` · FC search · https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf (excerpt: "Designated: January 10, 2006. Fieldston Property Owners Association has continued to maintain and repair the private streets"); https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/ (excerpt: ~257 houses, ~140-acre district; title "a Suburb 'In the City and Yet Not of It'"); https://www.nytimes.com/2021/12/08/realestate/fieldston-bronx.html (residents own the streets and pay dues); https://www.nypap.org/… · §5.5 stat; §7 card; §13 card; Houses section; Sources. LPC jurisdiction = exterior work (general rule; 750 Kappock package also ties LPC approval to exterior alterations).
+
+### Local news / hyperlocal
+- `Riverdale Press co-op building noise neighbors apartment Riverdale 2025` · FC search → https://www.riverdalepress.com/stories/riverdale-co-op-residents-seek-relief-from-local-law-compliance-costs,234756 · FC scrape (June 19, 2026): Fairfield Avenue co-op petition (230 signers) on Local Law 97/11 costs; a Riverdale Avenue co-op raised maintenance 12% — $180/month on a one-bedroom — "mostly to cover local law-related capital improvements" · §5.5 stat (budgets); Sources.
+  - Same search: https://www.riverdalepress.com/stories/riverdale-co-op-a-great-place-to-get-started,75837 ("junior-four" co-op listing, 645 W. 239th St.) — not used. NYT 2026 interactive on Riverdale co-ops — FC scrape refused ("we do not support this site"): EMPTY (not accessible in build env).
+- Bronx Times / Norwood News Riverdale soundbar or TV-mounting stories: EMPTY (none found in the searches above).
+
+### Reddit
+- `reddit Riverdale Bronx co-op living apartment TV mount super board` · FC search · https://www.reddit.com/r/bronx/comments/1q31zvt/would_you_buy_a_co_op_or_condo_in_the_bronx_or_nyc/ (excerpt: "We bought co-op in Riverdale 4 years ago and enjoy it here") · background only, not quoted. r/movingtoNYC co-op maintenance excerpt — not used. Firecrawl does not scrape reddit.com; threads not opened. Riverdale-specific soundbar/TV-mount threads: EMPTY.
+- Silo r/AskNYC "neighborfriendly soundbars" excerpt (bass travels; skip sub or choose adjustable) · Quiet Floors section.
+
+### Landmarks / corridors (§8, §13)
+- `Henry Hudson Monument Spuyten Duyvil Henry Hudson Park column statue Kappock Street` · FC search · https://www.nycgovparks.org/parks/henry-hudson-park/monuments/751 (Henry Hudson Parkway and 227th Street; Doric column, statue; architect Walter Cook); https://www.nyc-arts.org/organizations/henry-hudson-park/ (9-acre park on a bluff in Spuyten Duyvil, city's only statue of Hudson); https://en.wikipedia.org/wiki/Henry_Hudson_Park (Kappock Street on the park's southern side) · §13 card. Statue/column heights conflict between sources (16 ft/109 ft vs 17 ft) — not used.
+- `Wave Hill public garden Riverdale acres Hudson Palisades Wave Hill House 1843 Glyndor` · FC search · https://en.wikipedia.org/wiki/Wave_Hill (28-acre estate in Hudson Hill; gardens and cultural center; views to NJ Palisades; Wave Hill House 1843; Glyndor House 1927 with gallery); https://www.wavehill.org/discover/gardens (28 acres) · §13 card.
+- `Van Cortlandt Park acres third largest park New York City Van Cortlandt House Museum` · FC search · https://www.nycgovparks.org/parks/vancortlandtpark ("more than a thousand acres … New York City's third largest park"); https://en.wikipedia.org/wiki/Van_Cortlandt_Park (1,146 acres) · §13 card.
+- `College of Mount Saint Vincent Riverdale campus Fonthill Castle founded Hudson River` · FC search · https://mountsaintvincent.edu/about/the-college/history/ (Academy and Motherhouse moved to Riverdale in 1859, campus overlooking the Hudson); https://en.wikipedia.org/wiki/Fonthill_Castle_and_the_Administration_Building_of_the_College_of_Mount_St._Vincent; Cooperator (Edwin Forrest's Fonthill Castle) · §13 card; §8 campuses card.
+- `Riverdale Avenue Johnson Avenue shopping corridor Riverdale Bronx stores restaurants West 235th Street` · FC search · https://www.bitesofnorthbronx.com/c/riverdale (bakeries, kosher delis, wine bars; Arnaud's at W 235th St & Johnson Ave); https://thejohnsondinerbar.com/ (3533 Johnson Ave); https://www.keyfood.com/stores/1515 (540 W 235th St) · §8 Johnson Ave card.
+- `Riverdale Avenue shopping district … KRVC` · FC search · https://www.krvcdc.org/archive/neighborhood/north-riverdale-merchants-association; https://cityneighborhoods.nyc/north-riverdale (cafés, family restaurants, independent shops on Riverdale Avenue); https://vanbartongroup.com/sample-investments/riverdale-crossing/ (two-building anchored centre serving Riverdale/Kingsbridge); https://www.homes.com/local-guide/bronx-ny/north-riverdale-neighborhood/ · §8 cards.
+
+### Household / Shabbat (§5 para 5, §9 Q7)
+- `Riverdale eruv Bronx Orthodox community Shabbat` · FC search · https://mavcor.yale.edu/material-objects/riverdale-eruv-bronx (Riverdale Eruv, 2012 — FC scrape returned no text), https://www.rjconline.org/ (Riverdale Jewish Center Shabbat programming) · context for §5 para 5 and Q7; eruv not stated on page.
+- `Shabbat timer television set before Shabbat observant Jewish electronics timer permissible Star-K` · FC search · https://aish.com/timers-on-shabbat/ ("Connecting an electrical circuit is deemed a creative activity"); https://www.daat.ac.il/daat/english/journal/broyde_1.htm (Shabbat clocks set before Shabbat common practice per many authorities); YouTube "Is it ok to Watch TV on Shabbat if it is on a Time Switch?" (title only) · Q7 ("authorities differ… belongs with your rabbi"); Sources. No halachic ruling made on page.
+
+### Noise
+- Homes.com Riverdale guide (search excerpt): "Depending on what side of Riverdale one lives but it tends to be very noisy" · Quiet Floors section (attributed as a resident review).
+
+### Mandatory sources not reachable
+- Google PAA, PASF, Answer the Public, Google AI Overview, Bing/DuckDuckGo: EMPTY (not accessible in build env). §10.5 uses published claims (Homewyse, Thumbtack, Yamaha, Dolby, nyctvguy, AWOL Vision, r/sonos) from silo research.
+- Yelp 1–3★ (Riverdale TV/soundbar installers): EMPTY (not accessible in build env).
+- Google Drive "AESS Website Photos/Soundbar Installation": EMPTY (checked by main run); CompanyCam: not connected.
+
+## Pricing used (Bronx page, unchanged)
+Placed $79 · wall-mounted $129 · Sanus bracket $84.99 · cord cover $59 · in-wall $169 · cable run ≤25 ft $99 · Sonos $125 · receiver $129 · universal remote $99 · streaming $49 · full home theater $350 · walls $0/+30/+45/+65/+75/+95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · setup-only $225 first hour then 30-min blocks · TV base $209.99 · TV on stand $137.99 · take down TV $85 · remove bracket $45 · haul-away $79 · $150 return trip · free reschedule 24 h · $195/hr specialty, 3-h min $585 (not for standard installs). Packages $79 / $213.99 / $382.99. Worked totals (sums only): $263, $258.99, $427.99, $194, $79, $347.99.
+
+## Question register — soundbar-installation-riverdale-bronx-ny
+§9 YOUR QUESTIONS ANSWERED (H3, 7):
+1. We'd rather keep the Hudson view clear — can the TV and soundbar go on a side wall and still sound centred for the sofa?
+2. The only long wall in our living room backs onto the elevator shaft — can a soundbar bracket go into it?
+3. Our co-op apartment was combined from two units — can the TV and soundbar go on the wall that used to divide them?
+4. Our co-op only lets contractors on its approved list into the building — how do you get cleared to work there?
+5. A through-the-wall air conditioner sits in the wall where the TV should go — can the soundbar still go underneath?
+6. The living-room circuit in our 1960s co-op trips when the air conditioner runs — will a soundbar and subwoofer make that worse?
+7. Can the TV and soundbar be set up so nothing switches on, lights up or needs touching from Friday evening to Saturday night?
+
+§17 FAQ (visible == FAQPage, 4):
+1. Is there a surcharge for keeping the visit inside a co-op's weekday-only contractor hours?
+2. Our co-op's contractor packet includes a lien waiver and a signed contractor application — will you fill those in?
+3. Our alteration agreement asks for an electrician's letter on electrical work — does the in-wall power kit count?
+4. How far ahead should we get in touch if the managing agent needs paperwork before approving?
+
+Other headings: none end in "?" (repair captures "Riverdale Soundbar Not Behaving", "Riverdale Soundbar Repair, Booked Today"; §10.5 claim headings are quoted claims).
+
+De-dup notes (checked by meaning against every register in research/soundbar-installation.md and every soundbar-installation-*.html on disk, including the St. George and Tribeca drafts): deliberately avoided — board approval (NYC), COI contents/cost (NYC, Nassau), freight-elevator hours (NYC), doorman access while at work (Manhattan), glass-wall condo (Manhattan), radiators (Queens/Manhattan/Nassau), sound-rated partition (Brooklyn), closed-up doorway (Nassau), corridor wall wiring (Westchester), hearing aids (Queens/Nassau/Westchester), senior community (Westchester), one remote (NYC), settings changed (Bronx), moving (Brooklyn/Nassau/Rockland/Manhattan), packaging (HV), coverage of sub-areas (Manhattan), travel charge (Brooklyn/Orange/Suffolk), job length (LI), sun on TV wall (Putnam), swivel arm (Putnam), room calibration (Rockland). Weight on a TV-attached bracket is covered once, in §10.5 body text, not as a question. Partial-overlap notes for the main run: Q7 (system never wakes by itself on Shabbat) vs St. George "switch on by themselves on a timer for the morning news" — opposite intent; Q1 vs Rockland split-level half-wall aiming — Q1 is TV placement to preserve a view, Rockland is acoustic aiming toward stairs.
+
+## Images (11)
+Copied (byte-identical WebP) from existing area copies of Anwar's 13 soundbar photos; each viewed before captioning; alt/title/caption describe only what is visible.
+| File | Source | Alt |
+|---|---|---|
+| soundbar-installation-riverdale-bronx-bracket-leveling-under-tv.webp (hero, eager) | soundbar-installation-bronx-bracket-leveling-under-tv.webp | Soundbar installation Riverdale, Bronx: technician levelling a wall bracket below a mounted TV, soundbar resting on a blanket |
+| soundbar-installation-riverdale-bronx-rear-surround-speaker-stands.webp | soundbar-installation-bronx-rear-surround-speaker-stands.webp | Soundbar installation Riverdale, Bronx: technician setting a rear speaker on a stand behind a sofa, soundbar under the TV |
+| soundbar-installation-riverdale-bronx-unboxing-bracket-hardware.webp | soundbar-installation-bronx-unboxing-bracket-hardware.webp | Soundbar installation Riverdale, Bronx: technician unboxing a soundbar beside its wall bracket, remote, fixings, drill and level |
+| soundbar-installation-riverdale-bronx-level-check-under-tv.webp | soundbar-installation-bronx-level-check-under-tv.webp | Soundbar installation Riverdale, Bronx: technician checking a wall-mounted soundbar with a level under a large TV |
+| soundbar-installation-riverdale-bronx-full-motion-mount-attachment.webp | soundbar-installation-bronx-full-motion-mount-attachment.webp | Soundbar installation Riverdale, Bronx: technician fitting a soundbar under a TV on a full-motion wall arm |
+| soundbar-installation-riverdale-bronx-waiting-room-tv-soundbar.webp | soundbar-installation-bronx-waiting-room-tv-soundbar.webp | Soundbar installation Riverdale, Bronx: waiting-room TV and soundbar on the wall facing armchairs |
+| soundbar-installation-riverdale-bronx-homeowner-remote-walkthrough.webp | soundbar-installation-bronx-homeowner-remote-walkthrough.webp | Soundbar installation Riverdale, Bronx: technician showing a woman on a sofa the TV remote, soundbar under the TV |
+| soundbar-installation-riverdale-bronx-app-sound-check-tablet.webp | soundbar-installation-bronx-app-sound-check-tablet.webp | Soundbar installation Riverdale, Bronx: technician running a tablet-app sound check, wall TV and soundbar ahead |
+| soundbar-installation-riverdale-bronx-console-soundbar-placement.webp | soundbar-installation-bronx-console-soundbar-placement.webp | Soundbar installation Riverdale, Bronx: technician placing a soundbar on a wooden console in front of a TV on its feet |
+| soundbar-installation-riverdale-bronx-cabinet-cable-management.webp | soundbar-installation-bronx-cabinet-cable-management.webp | Soundbar installation Riverdale, Bronx: technician tying cables inside a media cabinet beside a power strip |
+| soundbar-installation-riverdale-bronx-home-gym-wall-soundbar.webp | soundbar-installation-brooklyn-home-gym-wall-soundbar.webp | Soundbar installation Riverdale, Bronx: TV and soundbar on a home-gym wall beside an exercise bike and dumbbells |
+Not used: desk-compact-soundbar, conference-room-handover. Image width/height attributes use the real file dimensions (1536×1024 for bracket-leveling and full-motion; 1600×900 for the rest).
+
+### Flags for Anwar
+1. **750 Kappock contractor application says "A New York City License is required by all contractors."** The page does not claim AESS holds any NYC licence; it says we send the NYS low-voltage licence (#12000287431) and will tell the customer before booking if a packet asks for a credential we don't hold. Confirm what AESS can supply (e.g. a DCWP Home Improvement Contractor licence) for Riverdale co-op packets.
+2. **Lien waivers / contractor applications (FAQ 2):** page commits only to completing "standard contractor items" (company details, COI, licence copy, application agreeing to house rules) and flagging anything unusual before booking. It does not promise to sign a mechanic's-lien waiver. Confirm policy.
+3. **COI limits:** the page says certificates are issued "to the building's exact wording" free, and quotes 750 Kappock's $1M liability / $1M property damage / 30-day notice. Confirm AESS's policy limits meet $1M/$1M.
+4. **In-wall kit description (FAQ 3):** described as a code-compliant kit extending power from an existing outlet to a recessed inlet behind the TV, adding no circuit. Confirm this matches the kit AESS actually installs.
+5. **Elevator shafts "are built as fire-rated enclosures"** (Q2) and the ADA 307.2 / DEP noise-code callouts are general code knowledge or silo research, not re-fetched this run.
+6. **Shabbat Q (Q7):** written to make no halachic ruling ("ask your rabbi"); please confirm the tone is acceptable to you.
+7. **Photos:** same note as earlier silo builders — these 13 library photos look rendered (uniform shirts, generic rooms, skyline screens). Used per your instruction that they are your real soundbar photos.
+8. **Wiring left to the main run:** check_page reports the 16 area siblings and the Bronx parent need a link to /soundbar-installation-riverdale-bronx-ny, plus sitemap/_redirects. Verified in a scratch copy that adding those back-links makes the page PASS.
+
+
+# Research — soundbar-installation-st-george-staten-island-ny (neighbourhood spoke, up = /soundbar-installation-staten-island)
+
+Built 2026-10-17 (batch with Riverdale and Tribeca). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless noted); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query/directQuote). Silo-wide technical sources are reused from research/soundbar-installation.md (cited there, not re-fetched). Nothing was invented to fill a gap.
+
+**Thesis:** St. George is the one part of Staten Island that lives like the rest of the city: 1880s–1930s Queen Anne / Shingle / Colonial Revival houses in the 1994 historic district and on Fort Hill (lath and plaster, balloon framing, pocket doors, overmantels), divided two- and three-families, pre-war elevator buildings (Daniel Low Terrace), the Castleton Park towers, Bay Street Landing warehouse lofts (concrete, no hollow walls) and new harbor-front rentals (Lighthouse Point), with ~70% renters and ferry commuters. So the soundbar job is about reading the wall, respecting leases / landmarks / building rules, and booking around the boat. Different from the Staten Island borough page (hi-ranch dens, block basements, townhouse party walls, Sandy).
+
+## Local matrix
+
+### 1. Landmarks / historic district
+- `St. George Historic District Staten Island Landmarks Preservation Commission designated houses` · FC search → http://s-media.nyc.gov/agencies/lpc/lp/1883.pdf (excerpt: "Designated: July 19, 1994 Landmarks Preservation Commission") → §5 para 2, §5.5 fact 1, FAQ 1, Sources. FC scrape of the PDF returned no query answer ("Query generation failed"); only the search excerpt used.
+- Same search → https://hdc.org/preservation-resources/expanding-historic-district-boundaries/expanding-historic-district-boundaries/ · FC scrape (directQuote): "best-preserved suburban homes from the 1830s to the 1930s … hilly topography"; flourished after the 1880s ferry terminal and SIRT lines, "Colonial Revival, Queen Anne and Shingle Style homes"; district "from the south side of Carroll Place to the north side of St. Mark Place, from Nicholas Street to the west side of Westervelt Avenue"; St. George Civic Association asks for "St. George II" extension at Fort Hill, "roughly south of Hamilton Avenue, north of Fort Place, west of St. Marks Place, and east of Westervelt Avenue". → §5 para 2, §7 cards 1–2, §5.5, §13 Curtis card, FAQ 1, chips.
+- `Landmarks Preservation Commission permit interior work historic district house do I need a permit FAQ` · FC search → https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (excerpt): no permit for ordinary repairs/maintenance; interior LPC permit only when work needs a DOB permit, affects the exterior, or the interior is a designated interior landmark; "Preservation Department staff can tell you whether a permit is needed". → §9 Q "outside of a landmarked house". (LPC phone number deliberately not printed.)
+- `Staten Island Borough Hall St. George built 1906 Carrère and Hastings landmark` · FC search → https://www.statenislandusa.com/borough-hall.html ("designated New York City Landmark … completed in 1906 … Carrere & Hastings … John Carrere, a resident of Staten Island, helped select the dramatic hilltop site"); https://en.wikipedia.org/wiki/Staten_Island_Borough_Hall; https://www.nyc.gov/site/dcas/business/dcasmanagedbuildings/staten-island-borough-hall.page. → §8 civic card, §13 card 1.
+- `Empire Outlets St. George Staten Island opened 2019 outlet mall ferry terminal` · FC search → https://en.wikipedia.org/wiki/Empire_Outlets ("opened on May 15, 2019 … next to the St. George Terminal"); https://www.empireoutlets.nyc/visit/ ("55 Richmond Terrace"); https://www.empireoutlets.nyc/ ("New York City's Only Outlet Shopping Destination"). → §8 card 2, §13 card 3.
+- `Curtis High School Hamilton Avenue St. George landmark 1904 oldest high school Staten Island` · FC search → https://en.wikipedia.org/wiki/Curtis_High_School (founded February 9, 1904, first high school on SI, 105 Hamilton Ave); https://urbanarchive.org/city/ny/post/09846f49-cbd8-48af-ac77-dd4a08a361f0 (C.B.J. Snyder, built 1902–1904). → §8 museums card, §13 card 6.
+- `National Lighthouse Museum St. George Staten Island Lighthouse Depot` · FC search → https://nylandmarks.org/explore-ny/national-lighthouse-museum/ ("one of the buildings of the former lighthouse depot complex that dates back to 1862"); https://lighthousemuseum.org/planyourvisit/ ("short (3-5 minute) walk from the Staten Island Ferry terminal"). → §8, §13 card 4.
+- `Postcards September 11 memorial St. George Esplanade Staten Island Masayuki Sono` · FC search → https://www.fmsp.com/projects/the-staten-island-september-11-memorial-postcards/ (St. George Esplanade, two 40-foot-high white wing-like sculptures, completion 2004, architect Masayuki Sono, framing the former WTC site). → §13 card 5. (Victim counts differ between sources; not used.)
+- `Staten Island Museum St. George 75 Stuyvesant Place building` · FC search → museum now at 1000 Richmond Terrace (Snug Harbor); 75 Stuyvesant Place no longer open. → NOT used as a landmark card (only Stuyvesant Place as a street chip).
+- Reused from research/soundbar-installation.md (Staten Island section, not re-fetched): SIUH Community Park (former Richmond County Bank Ballpark), 75 Richmond Terrace, home of the FerryHawks (https://en.wikipedia.org/wiki/SIUH_Community_Park) → §8 ballpark card; MAS Bay Street Corridor "20-block, 45-acre area in … Tompkinsville, Stapleton, and St. George" (https://www.mas.org/news/bay-street-corridor-rezoning-shows-opportunities-and-challenges/) → §8 Bay Street card.
+
+### 2. Streets / corridors
+Richmond Terrace, St. Marks Place, Westervelt Avenue, Hamilton Avenue, Carroll Place, Nicholas Street, Fort Place (HDC); Daniel Low Terrace (DeFalco, Trulia/Zillow); Bay Street (Corcoran, MAS); Bay Street Landing (Homes.com/StreetEasy); Stuyvesant Place (Urban Archive). → hero, §5, §7, §8, §13 chips, form placeholder. Adjacent areas named only as "we also serve" (New Brighton, Randall Manor, Tompkinsville, Stapleton, Stapleton Heights, Grymes Hill, West Brighton, Livingston) — DeFalco names New Brighton/Tompkinsville/Stapleton as neighbours; the rest are standard North Shore neighbourhood names used without claims.
+
+### 3. Building stock
+- `St. George Staten Island neighborhood guide housing prewar apartment buildings ferry commute` · FC search → https://www.defalcorealty.com/neighborhood-guide/st-george-staten-island/ (2026 guide, full excerpt): 10301, ~0.41 sq mi, "one of the most densely developed areas"; median age ~32; ferry 25 min, 24/7, free; "roughly 70% of housing units are renter-occupied" (St. George–New Brighton); Lighthouse Point newest inventory; co-ops in older buildings; "Two- and three-family properties are common … along the residential streets climbing the hills south of Richmond Terrace"; Ambassador Apartments on Daniel Low Terrace (Paul Newman, Martin Sheen — not used); Castleton Park 20-story; "Street parking near the ferry terminal fills up fast"; "Properties close to the ferry and bus terminal experience higher ambient noise from transit operations"; Borough Hall + courthouses in the neighbourhood; ferry terminal connects SIR and "nearly every local bus route". → §5 paras 1, 3, 5; §5.5 fact 2; §7 cards; Renting section; Rooms With a View noise para. (Population 8,600 vs SILive's 15,000 conflict → no population figure used.)
+- Same search → https://vectormovers.com/blogs/staten-island-moving-guide/ ("Prewar apartments, Victorian rowhouses on steep streets, Walkable to the ferry; parking tightens near the terminal") → background only.
+- `Castleton Park Apartments St. Marks Place Staten Island 20 story built` · FC search → https://www.cambahousingventures.org/development/castleton-park/ ("$91 million partnership features 454 homes and consists of two buildings"); https://www.silive.com/northshore/2015/01/staten_islands_tallest_buildin.html ("Castleton Park Apartments, located at 185 and 165 St. Marks Place, is likley Staten Island's tallest building at 20 stories"); https://www.multihousingnews.com/stellar-management-and-camba-housing-ventures-working-to-preserve-affordability/ ("two 19-story buildings"). → §5 para 3, §5.5 fact 3, §7 tower card.
+- `Ambassador Apartments Daniel Low Terrace St. George Staten Island co-op history` · FC search → https://www.zillow.com/homedetails/30-Daniel-Low-Ter-66-Staten-Island-NY-10301/457602916_zpid/ ("This pre-war building is located on a tree lined street in St. George"); https://www.trulia.com/building/ambassador-apartments-30-daniel-low-ter-staten-island-ny-10301-2750788602. → §5 para 3, §7 pre-war card (co-op status NOT claimed; wall construction stated as "typically").
+- `Bay Street Landing condos St. George Staten Island converted warehouse lofts history` · FC search → https://www.homes.com/building/bay-street-landing-staten-island-ny/b-hjpnbcdmtede1/ ("13-acre gated community … warehouses — once holding dry goods like sugar and cloves — that were converted into loft co-ops and condos in 1984"); https://www.statenislandrealty.com/bay-street-landing-condos-for-sale ("grain and coffee warehouses … 80 Bay St Landing … retained its loft features … raw concrete ceilings and exposed support columns"); https://streeteasy.com/building/10-bay-street-landing-staten_island (128 units, 9 stories). → §5 para 3, §5.5 fact 4, §7 loft card, wall table.
+- `Lighthouse Point St. George Staten Island apartments Bay Street opened` · FC search → https://www.corcoran.com/new-developments/for-rent/st-george/5-bay-street/32912631 ("Cooper Carry Architects this 115-unit collection of studio, one-, and two-bedroom rentals is nestled directly on New York Harbor"); https://newyorkyimby.com/2026/02/housing-units-still-available-at-lighthouse-point-in-st-george-staten-island.html (affordable units still available, 15-story building at 35R Bay Street, Feb 2026); https://edc.nyc/project/lighthouse-point. → §5 para 3, §5.5 fact 5, §7 new-rental card, waterfront section. (Construction of these buildings — "concrete or steel frame with drywall, often on metal studs" — is stated as typical of the type, not as a fact about Lighthouse Point.)
+
+### 4. Local news / hyperlocal
+- `St. George Staten Island news 2026 silive St. George waterfront development` · FC search → https://www.silive.com/news/2026/09/nyc-housing-plan-wants-to-add-2500-units-across-7-towers-to-staten-island-neighborhood.html (NYCEDC draft plan: up to 2,500 units across 7 towers over Empire Outlets and the former New York Wheel site; River North + two adjacent developments ~1,200 units on one block; 99-unit 55+ proposal on Fort Place; 56 units at 40 Bay St; CB1 Waterfront Committee attendee "surprised to see 30-story buildings right on the waterfront next to the ferry terminal"); https://www.silive.com/news/2026/09/neighborhood-residents-look-to-future-as-city-releases-major-staten-island-growth-plan-saying-goodbye-to-status-quo.html (towers of 30, 30, 22, 22, 25, 17, 13 floors; construction begin by 2029, completion 2036; rezoning needed; John Luisi on views/access); Facebook post of SILive: City Council approved a 14-story, 117-unit development with 4 parking spots (SILive link dated 2026/08). → §5 para 6, §5.5 fact 7, waterfront section, §13 Empire Outlets card.
+- `St. George Staten Island ferry horn noise residents complaint silive` · FC search → https://www.silive.com/news/2022/10/heres-when-staten-islands-community-boards-are-meeting-this-week.html (CB1 agenda: "Lights at the Ferry Maintenance Facility all night; Horns of ferries at the Ferry Maintenance Facility during the night") → Rooms With a View noise paragraph, Sources.
+- `Staten Island Ferry 5.2 mile 25 minute ride free 24 hours a day nyc.gov` · FC search → https://www.nyc.gov/html/dot/html/ferrybus/ferry-facts.shtml ("runs 24 hours a day, 365 days a year"); https://www.nyc.gov/html/dot/html/ferrybus/siferryschedule.shtml ("It is free to ride the ferry"); Staten Island Ferry Facebook ("Each ride is approximately 25 minutes long"). → §5.5 fact 6, §13 terminal card.
+- Patch / News12 / other hyperlocal on soundbars or TV installs in St. George: not found. EMPTY for the service category.
+
+### 5. Local Reddit (FC search excerpts only; threads not opened — Firecrawl does not scrape reddit.com)
+- `site:reddit.com/r/statenisland St. George apartment living` · FC search →
+  - https://www.reddit.com/r/statenisland/comments/1qeg5e5/what_is_it_like_living_in_this_part_of_staten/ — "Fairly walkable and pleasant neighborhood for the most part. A lot of nice old style houses with charm and character"; "St George is the closest you can be to the ferry to commute to NYC from SI" → §5 para 5 (paraphrased).
+  - https://www.reddit.com/r/statenisland/comments/1n6103j/likely_going_to_start_working_in_manhattan_next/ — "St George is hands down the best neighborhood to live in. It has a very active and lively community, with neighborhood events" → §5 para 5 (paraphrased).
+  - https://www.reddit.com/r/statenisland/comments/1rtjd2v/a_visit_to_st_george/ (Ganas intentional community), /1x1lqel/ (vacant $3k+ rentals), /49v0g1/ (URBY rents) → seen, NOT used.
+- Soundbar/TV-mount-specific St. George Reddit: EMPTY.
+
+### 6. Permits / building rules
+- LPC permits (above) → §9 Q exterior, FAQ 1.
+- Co-op / managed-building contractor rules, COI: general practice; no building-specific rule claimed.
+- Silo-wide reused (research/soundbar-installation.md): ADA 2010 §307.2 (27–80 in, 4 in max) → §8 rules; NYC DEP noise code guide (42 dB inside residence; 7 dB over ambient 10 PM–7 AM; bass separate) → §8 rules.
+
+### 7. Mandatory silo sources not reachable this run
+- Google PAA — EMPTY (not accessible in build env)
+- Google PASF — EMPTY (not accessible in build env)
+- Answer the Public — EMPTY (not accessible in build env)
+- Google AI Overview — EMPTY (not accessible in build env); §10.5 uses published claims already in the silo research (Instaservice SI soundbar listing; Angi $75–$300; eARC/Atmos claim vs Sonos community; Polk Atmos 7.5–12 ft; Dolby/Yamaha 42.5 in; Crutchfield HW-Q990D outlets; Netflix 15 Mbps; Sonos Beam Gen 2 2.4 GHz/SonosNet).
+- Bing & DuckDuckGo — EMPTY (not accessible in build env)
+- Yelp 1–3★ — EMPTY (not accessible in build env)
+
+### 8. Technical / product (reused from silo research, not re-fetched)
+Sonos Arc Ultra ~46.4 in / ~13 lb, space to TV; Beam Gen 2 ~25.6 in / ~6.4 lb; Ray ~56 cm / ~1.95 kg optical; Sanus SASB1 up to 20 lb; Sanus WSSATM1 for 50–90 in TVs; Samsung HW-Q990D 11.1.4, sub 25.8 lb, rears need outlets (Crutchfield); Samsung One Connect eARC port (Sonos/Samsung community).
+
+## Pricing used (published AESS numbers only; copied from soundbar-installation-staten-island.html, no Manhattan parking line, no multipliers)
+$79 console · $129 wall · $84.99 Sanus bracket · $169 in-wall kit · $59 cord cover · $99 cable run ≤25 ft · $125 Sonos · $129 receiver · $99 universal remote · $49 streamer/console · $350 full home theater · metal studs +$30 · plaster +$45 · brick/stone +$65 · concrete/block +$75 · tile/marble +$95 · backer board $85 · high mount $75 · box removal $25 · COI free · SI TV base $209.99 (+$30/+$60/+$100) · over fireplace +$130 · TV on stand $137.99 · setup-only $225 first hour then 30-min blocks · $150 return trip · free reschedule with 24 h notice.
+Worked sums on page: $174 (129+45), $317.99 (129+84.99+45+59), $343 (129+45+169), $263 (129+75+59), $273 (129+85+59), $453 (129+30+169+125), $648 (129+169+350).
+
+## Question register — soundbar-installation-st-george-staten-island-ny
+§9 YOUR QUESTIONS ANSWERED (H3, under non-question H2s "Old Houses on the Hill", "Landmarks, Landlords and Divided Houses", "Living on Ferry Time"):
+1. Our parlor fireplace still has its original mirrored overmantel — where do the TV and soundbar go so it stays untouched?
+2. The longest wall in our Victorian parlor hides a pair of pocket doors — can the soundbar and its cables use that wall?
+3. Our house is balloon-framed — can the soundbar cables drop down an open stud bay from the attic or come up from the cellar?
+4. Can the rear speakers go high on the wall without cutting into the plaster cornice?
+5. Our TV sits on an antique sideboard — can the cables reach the soundbar without drilling it?
+6. Does a speaker or cable fixed to the outside of a landmarked St. George house need a Landmarks permit?
+7. Our apartment is in a subdivided old house and the TV wall is fibreboard, not plaster — what will hold a bracket?
+8. Can the TV and soundbar switch on by themselves on a timer for the morning news before the boat?
+
+§17 FAQ (visible == FAQPage, 6):
+1. How can I tell whether our house is inside the St. George Historic District?
+2. Our Queen Anne house has a rounded turret room. Can a TV and soundbar go on a curved wall?
+3. Can we try the soundbar at a couple of heights before anything is drilled?
+4. Our living room has a wall of old mirror tiles where the TV would go. Can you mount through them?
+5. Our shop has an old pressed-tin wall. Can a soundbar bracket go through it?
+6. Our building supplies the Wi-Fi and we don't have the router login. Can the soundbar's streaming still be set up?
+
+No other question-form headings (CTA and repair headings are statements).
+
+De-dup notes (checked against every question on the 16 area pages and the Riverdale/Tribeca drafts on disk): avoided Brooklyn "Does the LPC have to approve a soundbar in a historic-district house?" by limiting Q6 to exterior fixings (interior rule stated in body only); avoided NYC hub plaster/COI/freight/hours/parking, Manhattan glass-wall and doorman, Queens jets/wallpaper/language, Bronx clay tile/rent-stabilized/settings-changed, Rockland party-wall/waiting-room auto-on, Dutchess paneling buzz/picture rail, Putnam swivel arm/wainscot, Ulster converted-barn no-hollow-walls and rental Wi-Fi, Suffolk dormer/sunroom/router, Westchester Tudor oak/off-centre fireplace, LI mantel/wireless-rears/great room, Orange builder pre-wire. Partial overlaps for the main run to judge: Q8 timer (TV on-timer) vs Rockland "waiting-room bar switch on and off with the TV by itself" (CEC follow, no timer); FAQ 6 managed building Wi-Fi vs Ulster "rental's soundbar on guest Wi-Fi or its own network" (host choice) and Manhattan crowded Wi-Fi; Q4 rear speakers high vs LI "wireless rears still need outlets" (outlets mentioned only as a side note).
+
+## Images (11) — Step C, Anwar's soundbar photos (viewed before writing alt; describe only what is visible)
+| File (images/soundbar-installation/) | Copied from | Alt |
+|---|---|---|
+| soundbar-installation-st-george-staten-island-console-soundbar-placement.webp (HERO) | soundbar-installation-staten-island-console-soundbar-placement.webp | St. George, Staten Island soundbar installation: technician crouching beside a walnut media console, setting a black soundbar in front of a TV that stands on its own feet, remote in his left hand |
+| …-homeowner-remote-walkthrough.webp | soundbar-installation-staten-island-homeowner-remote-walkthrough.webp | St. George, Staten Island soundbar setup handover: technician in a navy polo pointing at a wall-mounted TV with a soundbar beneath it while a woman on the sofa holds the remote |
+| …-bracket-leveling-under-tv.webp | soundbar-installation-staten-island-bracket-leveling-under-tv.webp | Soundbar bracket being levelled on a Staten Island wall: gloved technician pressing a yellow spirit level onto a black bracket under a wall-mounted TV, the soundbar waiting on a blue moving blanket |
+| …-level-check-under-tv.webp | soundbar-installation-staten-island-level-check-under-tv.webp | Wall-mounted soundbar level check in a Staten Island living room: technician resting a small level on top of a black soundbar under a large TV, tool bag and HDMI cable on a blanket in the foreground |
+| …-unboxing-bracket-hardware.webp | soundbar-installation-staten-island-unboxing-bracket-hardware.webp | Staten Island soundbar unboxing: technician kneeling on a dark moving blanket lifting a soundbar from its carton, with the wall bracket, remote, screw bag, drill, tape measure and level laid out in front |
+| …-conference-room-handover.webp | soundbar-installation-staten-island-conference-room-handover.webp | Office soundbar installation on Staten Island: technician gesturing to a slim soundbar mounted under a meeting-room TV on a blue wall while a woman at the table watches beside her laptop |
+| …-waiting-room-tv-soundbar.webp | soundbar-installation-staten-island-waiting-room-tv-soundbar.webp | Reception-area TV with soundbar for a Staten Island business: wall-mounted screen above a slim black soundbar, three green armchairs, a reception desk and tall windows |
+| …-cabinet-cable-management.webp | soundbar-installation-staten-island-cabinet-cable-management.webp | Staten Island soundbar cable management: technician strapping a bundle of black cables with hook-and-loop ties inside an open wooden media cabinet, power strip and two devices on the shelf |
+| …-full-motion-mount-attachment.webp | soundbar-installation-staten-island-full-motion-mount-attachment.webp | TV-attached soundbar on a full-motion mount, Staten Island install: gloved technician fitting a soundbar beneath a TV held on an articulating wall arm |
+| …-desk-compact-soundbar.webp | soundbar-installation-hudson-valley-desk-compact-soundbar.webp | Compact soundbar on a desk for a Staten Island studio or home office: small black soundbar under a monitor on an arm, keyboard, mouse and game controller on a wooden desk |
+| …-app-sound-check-tablet.webp | soundbar-installation-staten-island-app-sound-check-tablet.webp | Soundbar app sound check from the sofa in a Staten Island home: technician seen from behind holding a tablet showing a Living Room sound-check screen, TV and soundbar on the far wall |
+Not used: rear-surround-speaker-stands, home-gym-wall-soundbar. Plus four inline SVG diagrams drawn as page markup (wall sections, balloon vs platform framing, bar height vs ear height, three wiring routes) — generic schematics labelled "not to scale", not photos and not presented as AESS work.
+DAILY-LOG note: images: 11 of Anwar's soundbar photos reused from images/soundbar-installation/ (Drive folder empty, CompanyCam not connected).
+
+### Flags for Anwar
+1. **No St. George price premium / no multiplier.** Page uses the Staten Island borough page's published lines exactly (TV base $209.99, setup-only $225); soundbar lines flat. No Manhattan-style parking line.
+2. **Photos look AI-rendered** (uniform "Abstract Enterprise LLC" logos, generic landscapes on every screen). They are the 13 photos Anwar supplied on 2026-10-17 and were used as instructed; please confirm they are real AESS photos, since "never AI-generated" is a hard rule.
+3. **Payment wording:** the mandatory warranty sentence mentions a "50% deposit"; other AESS material says TV jobs are paid in full online. Page carries only the mandatory sentence.
+4. **Building rules are generic.** No specific co-op, Castleton Park, Lighthouse Point or Bay Street Landing contractor rule is claimed; readers are told to check their lease / management. Ambassador Apartments' co-op/rental status was not verified, so it is described only as a pre-war elevator building.
+5. **LPC exterior answer** paraphrases LPC's published guidance and says AESS will not fix anything to a district facade until the owner confirms with LPC — a stated practice, please confirm.
+6. **Installer practices stated as policy** (test-drilling, sealing in-wall plates, not drilling mirror glass, "no charge" for trying heights, bass-level and night-mode defaults in divided houses) — confirm these match how AESS works.
+7. **DCWP Home Improvement Contractor licence** (flagged on the SI page) still unresolved; not mentioned on this page.
+8. Population figures conflict (DeFalco ~8,600 vs SILive "about 15,000"); no population number used.
+
+
+# Research — soundbar-installation-tribeca-manhattan-ny (neighbourhood spoke, up = /soundbar-installation-manhattan)
+
+Built 2026-10-17. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts unless noted); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (markdown or directQuote query mode). Silo-wide sources (PAA/PASF/ATP/AI Overview EMPTY, Thumbtack/Angi cost claims, DEP Noise Code, ADA 307.2, §28-105.4.7, DOB LME rule, Local Law 1/HPD, Sonos/Sanus specs) are reused from research/soundbar-installation.md and the Manhattan page and are not re-fetched here except where noted.
+
+**Thesis:** Tribeca homes sit inside 1850s–1910 store-and-loft buildings and brick warehouses (plus Federal row houses, 1970s rental towers and new condo towers). The soundbar job is governed by the shell: solid exposed brick with no cavity and old mortar, cast-iron/timber columns, partitions that stop short of 10–14 ft beamed ceilings, plank floors over the loft below, huge open rooms and long seating distances, keyed direct-entry elevators, Loft Law/IMD buildings and four historic districts — plus Holland Tunnel street noise through old windows.
+
+## Local matrix
+
+### 1. Reddit (FC search excerpts only; threads not opened)
+- `reddit Tribeca apartment mount TV brick wall exposed brick loft column` · FC search · https://www.reddit.com/r/AskNYC/comments/1v72dwl/mounting_tv_in_exposed_brick/ · excerpt: poster viewing places with exposed brick asks "if landlords allow tenants to drill into the ..." · §5 para 5; Q&A brick-vs-mortar para 3.
+- `reddit Tribeca loft noise neighbors wood floors sound travels conversion building` · FC search · r/AskNYC newer-building soundproofing (https://www.reddit.com/r/AskNYC/comments/sm0u1y/...) and others — not Tribeca-specific; background only, not used.
+- Tribeca-specific Reddit on soundbars: EMPTY.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env). §10.5 tests silo-sourced published claims (Thumbtack $121–$234; Angi add-on $30–$100, concealed wiring $75–$300) plus generic advice framed as such (brick is easy, Atmos is best, landmark = city approval, sub in a corner).
+### 8. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 11. Yelp 1–3★ — EMPTY (not accessible in build env); a Yelp "sports bars with TV near Tribeca" listing surfaced in search (Walker's 16 N Moore) — listing only, no review text used.
+
+### 6. Landmarks / history
+- `Tribeca historic districts designated 1991 1992 Tribeca West East North South warehouses LPC` · FC search · https://www.nypap.org/preservation-history/tribeca-historic-districts/ (West May 7, 1991; East Dec 2, 1992; North & South Dec 8, 1992 — HDC gives East as Dec 8, so page says "December 1992" only); https://www.superstructures.com/superscript/this-day-in-history-december-8th-designation-of-the-tribeca-east-historic-district/ ("Encompassing 197 buildings") · §5 para 2, stats list.
+- (direct) https://hdc.org/borough/tribeca/ · FC scrape (markdown) · Washington Market c.1812, moved to Hunts Point 1967; Washington Market Park (Greenwich between Duane and Chambers) designed by Lee Weintraub 1978; warehouses replaced Federal/Greek Revival houses; store-and-loft buildings 1860–1910 "still dominate the character"; "Tribeca" = Triangle Below Canal coined by a realtor in the 1970s after the Special Lower Manhattan Mixed Use District; four districts 1991–92, South extended Nov 19, 2002; Tribeca East "mercantile palaces" 1850s–1880s with cast-iron storefronts; Tribeca North "earliest surviving industrial buildings and largest, late-19th century brick warehouses"; Tribeca South 5-story Italianate cast-iron store-and-loft buildings, primarily 1850s; Harrison St Federal houses (27 Harrison 1791 by John McComb; 31/33 1827; 37–41 1828; "one of six Federal houses which compose a group that is unique"); Western Union Building 60 Hudson exterior + interior landmark · §5 paras 1–2, stats, §7 cards, §13 cards, Block-by-block.
+- FC scrape https://hdc.org/buildings/tribeca-north-historic-district/ (directQuote) — confirms Tribeca North quote above. https://hdc.org/buildings/tribeca-west-historic-district/ — query returned empty; not used.
+- `Duane Park Tribeca oldest park purchased 1797 Trinity Church one dollar` · FC search · https://www.nycgovparks.org/parks/duane-park/history — "In 1797 the City purchased the triangle from Trinity Church for five dollars" · §13 card.
+- `Hudson River Park Pier 25 ...` · FC search · https://hudsonriverpark.org/locations/pier-25/ — "Manhattan's only 18-hole miniature golf course, sand volleyball courts, a popular children's playground with water features ..., a flexible turf field" · §13 card.
+- `Hook and Ladder 8 firehouse 14 North Moore Street Ghostbusters built 1903` · FC search · https://en.wikipedia.org/wiki/Firehouse,_Hook_%26_Ladder_Company_8 (built 1903; filming location); https://www.nyctourism.com/articles/fdny-ladder-company-eight/ (moved from 153 Franklin to 14 North Moore, built 1903) · §13 card, §8 card.
+- `56 Leonard Street Tribeca tower 57 stories 145 residences Herzog de Meuron` · FC search · https://www.dezeen.com/2008/09/14/56-leonard-street-by-herzog-de-meuron/ (145 residences, each with unique floor plan); https://www.jengabuildingnyc.com/ (57 stories, 821 ft, "tallest residential building in Tribeca" — fan/marketing site; height and "tallest" NOT used) · §7 card, §13 card.
+- `33 Thomas Street AT&T Long Lines Building windowless Tribeca 1974` · FC search · https://en.wikipedia.org/wiki/33_Thomas_Street — 550-ft windowless, completed 1974 · §13 closing para.
+- `Tribeca Festival ... founded 2002` · FC search · https://en.wikipedia.org/wiki/Tribeca_Festival — founded 2002 by De Niro, Rosenthal, Hatkoff after 9/11; De Niro bought the theater at 54 Varick (former Screening Room) end of 2003 · §8 card.
+
+### 7. Building stock / use cases
+- `Tribeca census population households ... Community District 1 profile Manhattan` · FC search → FC scrape https://www.furmancenter.org/neighborhoods/view/financial-district (Furman "Financial District" = MN CD1) — 2024: population 160,189; housing units 95,624; homeownership 34.0% (citywide 32.7%); households with children 15.5%; single-person 47.3%; car-free commute 87.0%; median HH income $208,970 (not used) · §5.5 stats. Note: page states CD1 covers Tribeca, FiDi and BPC (standard CB1 geography; not stated on the Furman page).
+- `Tribeca loft cast iron columns timber joists apartment wall brick renovation` · FC search — listing/IG excerpts only (cast-iron columns, exposed brick, wood beams); background.
+- FC scrape https://anablepodell.com/blog/what-its-like-to-live-in-a-tribeca-loft (directQuote) — "exposed brick, heavy timber or steel beams, tall industrial windows, and wide-plank or hardwood floors"; ceilings "about 10 to 14 feet, and some dramatic conversions stretch to 15 feet or more"; mezzanines; "Open volume is inspiring, yet it can also amplify sound." · §5 para 3, stats, Q&A Atmos.
+- FC scrape https://barnes-newyork.com/blog/loft-living-in-tribeca-architecture-light-and-space (directQuote) — "Original single-glazed windows and thin partitions may transmit street or neighbor noise; retrofits improve comfort but can be shaped by building rules and landmark status"; three categories (warehouse conversions, purpose-built loft-style, façade-preserving rebuilds) · §5 para 3, §7 cards.
+- `443 Greenwich Street Tribeca condo conversion former book bindery` · FC search · http://443greenwich.com/press/ — 1880s (1882–1884 per sources) book bindery by Charles C. Haight converted to 53 condos · §7 card.
+- `Independence Plaza North Tribeca ...` · FC search · https://www.crainsnewyork.com/real-estate/tribecas-independence-plaza-cost-waiting-build-new-tower-rises/ ("left Mitchell Lama in 2004"); https://tribecacitizen.com/2023/10/31/independence-plaza-planning-new-tower/ (approx. 9-story blocks along Greenwich) · §7 card, Block-by-block.
+- `Tribeca loft key-locked elevator opens directly into apartment listing` · FC search · https://www.brickunderground.com/buy/buy-curious-apartments-with-private-elevators — direct-entry elevators; 104 Charlton St (Hudson Square) "key-locked elevator opens directly into individual loft apartments" · Q&A keyed elevator.
+- `Tribeca loft building freight elevator contractor rules co-op alteration agreement weekday hours` · FC search · https://www.myhomeus.com/blog/nyc-co-op-renovation-rules/ — "Most NYC co-ops restrict renovation work to Monday-Friday, 9 AM-5 PM" · checklist (stated generally, not quoted).
+
+### 9. Local news / hyperlocal
+- `Tribeca Citizen Holland Tunnel traffic honking Varick Hudson Street noise residents` · FC search → FC scrape https://tribecatrib.com/content/theyre-sounding-against-horn-honking-hudson-street (directQuote) — residents of 135 Hudson St with "No Honking" placards; Jill Godmilow (retired film professor): "All summer, if your windows are open, you get no peace, just constant, constant noise"; Beach & Hudson intersection where tunnel-rotary exits cross tunnel-bound traffic (article date not shown; not stated) · §5 para 4, checklist, Block-by-block.
+- FC scrape https://tribecacitizen.com/2022/09/14/a-new-neighborhood-association-targets-the-holland-tunnel-traffic/ (directQuote) — Tribeca North Neighborhood Association; 10 buildings; boundaries Canal to N. Moore, West St to west side of Varick · §5 para 4, stats.
+- `Tribeca bars to watch the game ...` · FC search · https://tribecacitizen.com/tribeca-restaurants/ (guide lists "All-American sports bar", "Dive bar", cocktail bars, Church St/West Broadway addresses); https://www.walkersbarnyc.com/ (16 N Moore St; bar Mon–Fri 12 pm–3 am); https://www.theinfatuation.com/new-york/guides/best-sports-bars-nyc (Mudville 9 in Tribeca) · §8 cards (named as examples only, not customers).
+- Tribeca soundbar-specific news: EMPTY.
+
+### 10. Permits / building rules
+- `Landmarks Preservation Commission interior alterations do not require permit ...` · FC search → FC scrape https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page (directQuote) — no LPC permit for ordinary repairs/maintenance; interior work needs one only when it requires a DOB permit, affects the exterior, or is a designated interior landmark · §8.5, §10.5 H3 4. (The question "does LPC have to approve" is owned by the Brooklyn page — covered here in body only.)
+- `NYC Loft Law Interim Multiple Dwelling Tribeca lofts Loft Board legalization` · FC search · https://www.nyc.gov/site/buildings/dob/loft-board.page — Article 7-C MDL, IMD, Loft Board oversees legalization to Building Code minimum residential standards · Q&A Loft Law, glossary.
+- Reused (silo): DEP Noise Code 42 dB / 7 dB / 6 dB(C); ADA 307.2; §28-105.4.7; DOB LME; NYC311 7 AM–6 PM; HPD Local Law 1 (pre-1960) · §7.5, §8.5.
+
+## Pricing used (published AESS numbers only — copied from soundbar-installation-manhattan.html; no multiplier applied, Manhattan $150 parking line included)
+$129 wall mount · $79 console · $84.99 Sanus bracket · $169 in-wall · $59 cord cover · $99 cable run ≤25 ft · $125 Sonos · $129 receiver · $99 universal remote · $49 streaming · $350 home theater · $150 Manhattan parking per visit · $265 setup-only first hour then 30-min blocks · $244.99 TV base 32–55" · $162.99 TV on stand · +$30 metal studs · +$45 plaster · +$65 brick/stone · +$75 concrete/block · +$95 tile/marble · $85 backer · $75 high mount · $40 walk-up · $45 old bracket removal · $25 box removal · COI free · $150 return-trip fee · free reschedule with 24 h. All totals on the page are sums of these lines ($229; $363.99; $403; $487.99; $478.99; $562.99; $532.99; $523.99; $279; $344).
+
+## Question register — soundbar-installation-tribeca-manhattan-ny
+Q&A (§9, H3) — 10:
+1. Is it better to anchor into the old brick itself or into the mortar between the bricks?
+2. A cast-iron column stands where the TV ought to go — can anything be fixed to it?
+3. The wall our TV hangs on stops short of the ceiling — is a partition like that solid enough for a bracket?
+4. Our ceiling is exposed joists, beams and pipes — do the bar's up-firing speakers have anything to bounce off?
+5. Our 85-inch screen dwarfs a standard soundbar — does the bar need to match the TV's width?
+6. We sit more than twenty feet from the TV in a long loft — will a soundbar still sound clear that far back?
+7. Our loft is in a building still going through Loft Law legalization — does that limit putting a soundbar up?
+8. The elevator in our building is a small keyed car that opens into the apartment — how do the installer and a long soundbar box get up?
+9. Our loft runs on a Control4, Crestron or Savant system — can a new soundbar be added to it?
+10. We're renting our loft out as a shoot location or for a screening — can a soundbar go up for a few days and come down again?
+
+FAQ (§17 = FAQPage) — 8:
+1. What does a soundbar on an exposed-brick loft wall come to in Tribeca, with a painted channel and parking? (cost intent — partial overlap with every page's worked-total FAQ; specific to brick + channel)
+2. Our open loft has a TV at each end — will one remote end up controlling both soundbars?
+3. Will the remotes still reach the soundbar from a sofa far across the loft?
+4. Can a TV and soundbar be mounted on a sliding barn door or a movable wall panel?
+5. Can the cord cover on our brick wall be painted to blend in?
+6. We rearranged the loft furniture — can you come back to re-aim and re-tune the soundbar?
+7. Our art-style TV hangs flush on the wall like a painting — what are the low-profile soundbar options?
+8. Can a soundbar be fixed to the railing of our loft's mezzanine so people up there can hear?
+
+Other headings: none end in "?" (repair capture "Soundbar Repair Calls in Tribeca", "When a Tribeca Soundbar Goes Quiet"; CTAs "Old Brick, Tall Rooms, Quiet Floors", "Your Tribeca Price, in Writing").
+
+De-dup notes: checked by meaning against all 376 questions on the 16 area pages (registers) and the Riverdale and St. George drafts on disk. Deliberately kept out of question form (owned elsewhere): LPC approval (Brooklyn), brick party wall (NYC), concrete column (Brooklyn), converted-factory loft with high ceilings (HV), loft TV away from walls (Manhattan), sub over neighbors (NYC), harsh sound/big windows (Manhattan), street noise masking dialogue (Queens jets), multi-room bars (Nassau), hide sub in furniture (Queens), timing vs. renovation rough-in (Brooklyn/Orange), price-before-arrival (LI).
+
+## Images (11)
+Drive "AESS Website Photos/Soundbar Installation" EMPTY and CompanyCam not connected (main run). Step C: copied from Anwar's 13 soundbar photos (Bronx area copies, identical files) — each viewed before writing alt/title/caption; hero = full-motion-mount-attachment. Not used: home-gym-wall-soundbar, desk-compact-soundbar.
+| File | Source | Alt |
+|---|---|---|
+| soundbar-installation-tribeca-manhattan-full-motion-mount-attachment.webp (hero) | soundbar-installation-bronx-full-motion-mount-attachment.webp | gloved technician fitting a black soundbar to the underside of a TV on a full-motion wall arm, cables clipped along the arm |
+| soundbar-installation-tribeca-manhattan-level-check-under-tv.webp | soundbar-installation-bronx-level-check-under-tv.webp | technician resting a small level on a wall-mounted soundbar under a large TV, a tool bag and a second soundbar on a moving blanket |
+| soundbar-installation-tribeca-manhattan-conference-room-handover.webp | soundbar-installation-bronx-conference-room-handover.webp | technician gesturing to a soundbar under a wall TV in a blue-walled meeting room while a woman with a laptop listens |
+| soundbar-installation-tribeca-manhattan-bracket-leveling-under-tv.webp | soundbar-installation-bronx-bracket-leveling-under-tv.webp | gloved technician holding a yellow level across a soundbar bracket below a TV, the soundbar on a blue blanket |
+| soundbar-installation-tribeca-manhattan-waiting-room-tv-soundbar.webp | soundbar-installation-bronx-waiting-room-tv-soundbar.webp | reception area with wood-slat desk, wall TV with slim soundbar, green armchairs |
+| soundbar-installation-tribeca-manhattan-console-soundbar-placement.webp | soundbar-installation-bronx-console-soundbar-placement.webp | technician crouching to set a soundbar on a media console in front of a TV on its feet, remote in hand |
+| soundbar-installation-tribeca-manhattan-homeowner-remote-walkthrough.webp | soundbar-installation-bronx-homeowner-remote-walkthrough.webp | technician gesturing toward a wall TV and soundbar while a seated woman holds the remote |
+| soundbar-installation-tribeca-manhattan-rear-surround-speaker-stands.webp | soundbar-installation-bronx-rear-surround-speaker-stands.webp | technician adjusting a rear speaker on a floor stand behind a sofa, TV and soundbar on far wall |
+| soundbar-installation-tribeca-manhattan-cabinet-cable-management.webp | soundbar-installation-bronx-cabinet-cable-management.webp | technician fastening cables with hook-and-loop straps inside a wooden media cabinet |
+| soundbar-installation-tribeca-manhattan-app-sound-check-tablet.webp | soundbar-installation-bronx-app-sound-check-tablet.webp | technician on a sofa holding a tablet with a Living Room sound-check slider marked Connected |
+| soundbar-installation-tribeca-manhattan-unboxing-bracket-hardware.webp | soundbar-installation-bronx-unboxing-bracket-hardware.webp | technician kneeling on a moving blanket lifting a long soundbar from its carton, bracket, remote, screws and tools beside it |
+All alts begin "Soundbar installation Tribeca, Manhattan:" (check_page requires "Manhattan" in each alt). None claims a customer, a named building or a Tribeca project.
+
+### Flags for Anwar
+1. **Manhattan pricing copied, no 1.25× multiplier** (same as the Manhattan page's flag 1) and the $150 parking line is charged on every Tribeca visit, including console-only and setup-only visits (Manhattan flag 2).
+2. **Worked totals are new sums of published lines** (e.g. brick + channel $403 / $487.99; brick + high mount $562.99; TV + bar $523.99) — no new unit prices.
+3. **Photos**: the 13 supplied soundbar photos look rendered (uniform "Abstract Enterprise LLC" shirts, stock-style rooms). Used as instructed ("use these"); please confirm they are real AESS photos, since the rule is "never AI-generated".
+4. **Commercial work**: the page says we do not drill structural cast iron and will not mount on sliding doors or mezzanine railings — confirm that matches AESS practice.
+5. **Control systems**: page says AESS installs/connects the bar and leaves Control4/Crestron/Savant programming to the integrator — confirm AESS doesn't offer that programming.
+6. **Short-term/location installs** priced as two ordinary visits from the menu (each with parking; $45 bracket removal) — confirm.
+7. **§28-105.4.7** stated neutrally; page does not claim AESS is a "qualified person" under the NYC electrical code.
+8. **Back-links**: check_page (with --no-registration) still fails 16 "live sibling … doesn't link back" lines — every area page must link to this page; that is main-run wiring (I did not edit other pages).
+9. Furman Center "Financial District" profile = Manhattan Community District 1; page states CD1 covers Tribeca, FiDi and BPC (standard CB1 geography, not stated on the Furman page itself).
