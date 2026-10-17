@@ -684,3 +684,337 @@ Other "?" headings: "Register or Kitchen Screen Offline in Queens Right Now?" (r
 De-dup notes: compared by meaning against the NYC, LI and HV registers above and against the Bronx and Staten Island pages as on disk at ~09:30 (their registers appended in parallel). Changes made: LIC dead-jacks question re-angled from "broken or never connected" to the media-panel patching step (Bronx asks the building-wide punch-list version); a "damp basement keeps damaging the repair" FAQ was replaced with the post-repair speed FAQ because Staten Island asks whether to move equipment out of a flood-prone basement. Avoided on purpose: LI attic heat/stapled cable/garage conversion/pre-closing test/mall tenant/remote IT provider; HV rodents-in-barn ("how much chewed cable to replace" — rodents covered in body and §10.5 only), cold-weather, storm; NYC splice-vs-whole-run (drywall Q is about access, not splicing), riser approval, flooded cellar reuse, three-hour minimum; network-cable-repair-queens (office above restaurant, afternoon heat, shared riser tracing, PoE reboot, dead jack, before-opening scheduling). Borderline, flagged for review: F7 (inheriting a previous tenant's cabling) is close in spirit to LI F2 (testing a house before closing) and NYC F3 (repairing another contractor's Cat6).
 
 Masked paragraph similarity (difflib, geo-masked, p/li/td/h3/figcaption ≥8 words): mean 0.42–0.43 vs each of cat6-repair-nyc, -long-island, -hudson-valley, -bronx, -staten-island. Blocks still ≥0.65 are excluded constants only: freshness stamp, warranty sentence, licence/rating line, BYOE warranty line, NAP, shared silo-nav sentence, pricing-source cells and the not-legal-advice note.
+
+## Rockland County (cat6-repair-rockland-county)
+
+Built 2026-10-17 (batch subagent). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. "FC search" = mcp__Firecrawl__firecrawl_search (excerpts); "FC scrape" = mcp__Firecrawl__firecrawl_scrape (query/directQuote mode). "Carried" = source already recorded with URL and finding in research/fiber-optic-installation.md (Rockland section), research/sonos-installation.md (Rockland section) or research/cat6-repair.md (silo) on 2026-10-17 and not re-fetched. Silo technical sources (Fluke NEXT KB, BICSI study guide, ICC TSB-155-A, Belden TSB-184-A, EC&M NEC 800.25, Fixr Jan 2025) reused from research/cat6-repair.md in general terms only.
+
+**Thesis (distinct from NYC = risers/pre-war/managing agents; LI = attic heat/length/outdoor; HV hub = storms/outdoor/distance; network-cable-repair-rockland-county = plaza continuous ceilings/neighbour fit-outs/landlord utility rooms; cat6-installation-rockland-county = new drops/campus belt; fiber-optic-installation-rockland-county = campus inheritance; sonos-installation-rockland-county = split-level audio):** Rockland's Cat6 is retrofit Cat6. The county's housing and commercial stock was built in the 1950s–70s boom before data cabling, so every run was added later by ISP installers, previous owners, renovators or IT providers. Faults concentrate at the points the retrofit created (staples, garage-ceiling crossings, hidden couplers/junction boxes above finished lower levels, rushed terminations), and are exposed by (1) multi-gig fiber upgrades, (2) ISP equipment relocations, (3) water on lower levels (July 2023 flash flood, Spring Valley repeated flooding), (4) property/tenant turnover; plus Rockland's new Chapter 286 written-contract rules. Rockland has the fewest lightning pulses of the six HV counties, so storms are de-emphasised versus the hub.
+
+### Reddit (local)
+- `site:reddit.com r/Rockland ethernet wiring house cat6 installer` · FC search · no r/Rockland cabling thread returned (results: r/electricians, r/HeliumNetwork, r/homeautomation, r/Honolulu — irrelevant). r/Rockland Cat6/ethernet fault threads: EMPTY (not accessible in build env — Firecrawl does not scrape reddit.com; search returned no relevant thread).
+- Carried: https://www.reddit.com/r/Rockland/comments/1i0qwu0/optimum_vs_fios_in_rockland/ (excerpt: "Optimum - at least, in Nanuet - is a disaster…"; new excerpt this run: "Optimum fiber is the best if you can get it at your home.") → background for §5 para 3 (fiber upgrades); not quoted on page.
+
+### Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★
+- EMPTY (not accessible in build env). §10.5 states on-page that the AI Overview could not be opened; each H3 is framed as a commonly published claim and corrected with the sourced facts below.
+
+### Local news / hyperlocal / weather
+- `Rockland County Hurricane Ida September 2021 flooding Spring Valley Suffern Haverstraw basements damage` · FC search → lohud live blog https://www.lohud.com/story/weather/2021/09/02/hudson-valley-hurricane-ida-flooding-latest-updates/5692766001/ (FC scrape: only the lede "The remnants of Hurricane Ida hammered parts of the Hudson Valley, flooding much of the region…" — no Rockland-specific text) → NOT used. CBS2 YouTube "Anger grows following flooding of Rockland County apartment complex" (excerpt only) → led to the next query. Rockland-specific Ida facts: EMPTY.
+- `Spring Valley NY apartment complex flooding heavy rain tenants Rockland news` · FC search → FC scrape https://abc7ny.com/post/floodplagued-spring-valley-apartment-complex-faces-uncertain-future-rockland-county/19194893/ (ABC7, Marcus Solis, May 29 2026): 9 Park Avenue, Spring Valley; problems "persisted for years, including a major flood in 2019"; county notices May 7 citing critical violations at the 52-unit complex; ordered "vacated, repaired or demolished"; "Basement apartments have already been deemed off-limits because of flooding" (og description); Ed Markunas, county Office of Buildings and Codes, on foundation cracks. → §5 para 4, §10.5 H3 4, §9 Q "basement units shut… reroute", Five Towns (Ramapo).
+- `Rockland County flash flooding July 2023 OR 2024 OR 2025 Stony Point Haverstraw Sloatsburg roads basements` · FC search → FC scrape https://rocklandtimes.com/2023/07/11/stony-point-swamped-flash-flooding-causes-road-closure-and-property-damage-across-northern-rockland/ (Rockland County Times, Joe Kuhn, July 11 2023): storm "on Sunday" (July 9, 2023) "dumping over 8 inches of rain on the county and causing a flash flood that severely damaged homes, roadways, and state parks in north Rockland"; "Route 9W has suffered severe damage and cannot currently be used to enter or exit the town"; Route 210, Cedar Flats Road, Bulsontown Road closures. → §5 para 4, §5.5 bullet 4, §10.5 H3 4, Five Towns (Stony Point).
+- Same search → FC scrape https://hazardmitigation.ny.gov/assess_risk/presidentially_declared_disasters/dr_4723_severe_storms_and_flooding_july_2023 (MitigateNY): "Declared Counties: Clinton, Dutchess, Essex, Hamilton, Ontario, Orange, Putnam, and Rockland"; "Rockland County: Several roads were washed out near Cedar Brook." → §5 para 4, §5.5 bullet 4, §10.5 H3 4.
+- Stony Point PD / Rockland Report Facebook excerpts (Beach Road, Cricketown Road flooding) → NOT used (social posts).
+- Carried (research/sonos-installation.md HV section): O&R July 6 2026 update https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k — "more than 47,000 customers have been impacted" since July 1; Clarkstown and Ramapo among towns still out. → §5.5 bullet 6.
+- Carried (research/cat6-repair.md HV hub / fiber HV): Earth Networks 2020 NY lightning report — Rockland 64,575 pulses, 28 thunder days (lowest of six HV counties); Orange 275,059. → §5.5 bullet 5, §10.5 H3 5.
+- Carried (fiber Rockland): Rockland Times Nov 2 2012 Sandy article — Piermont business district dark, basements pumped. → §13 Piermont Pier card.
+- Local news on Cat6 / network-cable faults in Rockland specifically: EMPTY.
+
+### Building stock / history / census
+- `rocklandhistory.org a brief history of rockland` · FC scrape https://www.rocklandhistory.org/a-brief-history-of-rockland (re-fetched this run, directQuote): "In 1950s, homes were built at a rate of more than one thousand per year. Much of this growth was brought about by the opening of Tappan Zee Bridge in 1955 and the completion of the Palisades Interstate Parkway and the New York State Thruway during the same decade."; Nyack Turnpike connected Nyack to Suffern; Haverstraw "brick-making center of the East in 1817"; "more than forty-two brickyards"; county 176 sq mi. → §5 para 1, §5.5 bullet 1, §8 Route 59 card, §13 Haverstraw Brick Museum card.
+- `censusreporter Rockland County profile` · FC scrape http://censusreporter.org/profiles/05000US36087-rockland-county-ny/ (re-fetched): 109,671 housing units; owner occupied 66%; single unit 64%. → §5.5 bullet 3.
+- Carried (fiber Rockland): Wikipedia Rockland County census table 1950 89,276 → 1970 229,903; Ramapo 148,919 (2020). → §5 para 1, Five Towns (Ramapo).
+- Carried (sonos HV): Stacker Sep 25 2025 (Census data) Rockland median year built 1970; 11.5% (12,523) built 1939 or earlier. → §5.5 bullet 2, §7 river-village card.
+- Carried (fiber Rockland): https://explorerocklandny.com/about/communities/ five towns, 19 villages, 16 hamlets; https://www.ny.gov/counties/rockland town/village list (Spring Valley, Nyack straddle town lines). → §5.5 bullet 7, Five Towns intro, §13 town list.
+- Split-level / raised-ranch prevalence statistic: none found (also EMPTY in sonos research) → described qualitatively only.
+
+### Internet / fiber upgrades (multi-gig thesis)
+- `Optimum fiber rollout Rockland County Nanuet Spring Valley ONT installation 2025` · FC search → FC scrape https://www.optimum.net/pages/fiber.html (Optimum "About Optimum Fiber Installation"): "Ethernet CAT 6 or higher", "A home network switch with a 10Gb port", "A 2.5Gb or 10Gb Ethernet adapter"; "We'll work with you to find the best location for your new equipment"; "we may need to drill a small hole"; install "may take up to three hours". → §5 para 3, §9 Qs 1–3 (context), §10.5 H3 1.
+- Carried (fiber Rockland): https://ispreports.org/internet-service-providers-rockland-county-ny/ excerpt "Optimum offers Fiber service to 91.5% of Rockland County homes." → §5 para 3 (attributed to "a comparison site").
+- `IEEE 802.3bz 2.5GBASE-T 5GBASE-T Cat5e Cat6 100 meters` · FC search → https://en.wikipedia.org/wiki/2.5GBASE-T_and_5GBASE-T (excerpt): 2.5GBASE-T and 5GBASE-T (802.3bz-2016) "can be deployed at a cable length of up to 100m on Cat 5e or better cables"; table lists Cat5e or Cat6, 100 m. Corroborated by https://resources.l-p.com/products/2-point-5-g-copper-sfp-2-point-5g-base-t-guide excerpt. → §9 Q1, §10.5 H3 1.
+- Silo (ICC TSB-155-A): 10GBASE-T over Cat6 up to 37 m / 37–55 m → "10 gigabits over shorter runs" in §9 Q1 and §10.5 H3 1.
+
+### Corridors / landmarks (all carried from research/fiber-optic-installation.md Rockland section and research/sonos-installation.md Rockland section unless noted)
+- Nanuet Town Centre / Shops at Nanuet debuted 2013 (Wikipedia excerpt) → §8 Route 59 card. (1969 enclosed-mall date was a Reddit poster's claim — NOT used.)
+- Palisades Center auction $175 million, Feb 2026 (News 12 excerpt https://hudsonvalley.news12.com/2026/02/06/palisades-center-mall-foreclosure-auction-goes-for-175-million/5TQCf7BHIIywOsEqXQfQcj) → §5 para 5, §8 Route 59 card.
+- Blue Hill Plaza (Wikipedia): 21-storey + 8-storey, nearly 1.2M sq ft, 90 acres, SOM, completed 1972, ~40% of Rockland office leasing market (2011, citing Pearl River Patch), fiber from two central offices; Route 304 (rcbizjournal excerpt) → §8 Pearl River card, §13 card.
+- Hudson Valley iCampus (industrialrealtygroup.com): ~2M sq ft lab/manufacturing/office, 200 acres, "mixed-use, multi-tenant campus" → §8 card, §13 card.
+- Bradley Corporate Park (re-nj.com May 9 2019): 16 buildings, 180 acres, 1.2M sq ft, Blauvelt → §8 Route 303 card.
+- 108 Route 303 Tappan 54 acres sold 2026; Monsey Center (Route 59 & Saddle River Road) sold (rocklandnews.com July 8 2026) → §8 Route 303 and Suffern/Monsey cards.
+- Montefiore Nyack Hospital foundation newsletter: "more than 180,000 patients and visitors each year" → §8 Nyack card.
+- Rockland Community College, 145 College Road, Suffern, 175 acres (suny.edu excerpt) → §8, §13 card.
+- Edward Hopper House, 82 North Broadway, built 1858 by maternal grandfather (Wikipedia/edwardhopperhouse.org; sonos research) → §13 card.
+- Haverstraw Brick Museum, 12 Main Street (haverstrawbrickmuseum.org; sonos research) → §13 card (street number not used on page).
+- Piermont Pier, 1841, eastern terminus of the Erie Railroad, owned by the village, "almost a mile" (rocklandaudubon.org; piermont-ny.gov; sonos research) → §13 card.
+- New City as county seat, Main Street/North Main Street professional offices; Suffern Lafayette Avenue downtown — from live page cat6-installation-rockland-county.html (AESS page, not an external source) → §8 cards. Flag: treat as AESS-published description.
+
+### Local licensing / permits
+- `Rockland County Chapter 286 home improvement license law 2026 contractors written contract` · FC search → FC scrape https://ecode360.com/9666538 (directQuote): adopted by the Rockland County Legislature 4-14-2026 by L.L. No. 4-2026; "HOME IMPROVEMENT — Means the following being done to a private residence: repair, replacement, remodeling, installation, construction, alteration, conversion, modernization made to, in or upon a private residence, apartment or dwelling place of not more than three units…"; listed examples (waterproofing, siding, decks, windows, roofs, … excavation) — no mention of data/low-voltage cabling; exclusions incl. "(2) Electrical work", "(10) … alarm device or system by a County-licensed alarm business or alarm agent"; "Every home improvement contract in excess of $500, and all amendments thereto, shall be in writing and shall be signed by all the parties"; "Before any work is done, the owner shall be furnished with a copy of the written agreement, signed by the contractor"; "No additional work in excess of $500 shall be performed without prior written authorization … on a contract change-order form"; search excerpt: cancel "prior to 12:00 midnight on the third business day". → §8.5 callout 1, §9 Q "new home improvement law", §10.5 H3 7. Page does NOT claim whether Cat6 repair is covered (directs to Dept of Consumer Protection) and does NOT claim AESS holds a Rockland HI licence.
+- Carried (fiber Rockland): https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits — Master Electrician / inspection agency under Chapter 250; HI licence under Chapter 286. → §8.5 callout 2.
+- `Rockland County Office of Buildings and Codes building permit required low voltage wiring data cabling Clarkstown Orangetown` · FC search → clarkstown.gov/building/building-permits, orangetown.com/when-do-i-need-a-building-permit (excerpts only, no list text), allamericanelectricalservice.com blog excerpt "Permit requirements are set by your municipality — Haverstraw, Stony Point, Clarkstown, Ramapo and Orangetown each run their own building…" (third-party, not cited by name). FC scrape https://www.rocklandcountyny.gov/departments/buildings-codes returned no body text. Whether low-voltage/data repair needs a permit in any Rockland town: EMPTY → page says only that permits are issued by the town or village and that like-for-like repair "rarely" needs one, checked per job. Flag for human review.
+- Silo: NEC 800.25 abandoned cable (EC&M) → §8.5 callout 4.
+
+### Yelp / competitor complaints — EMPTY (not accessible in build env)
+
+### Prices used (live AESS pages only — no new prices)
+- $195/hr, three-hour minimum ($585); additional time $195/hr — network-cable-repair-rockland-county.html ("specialty service rate of $195/hr with a three-hour minimum ($585)"), also HV hub.
+- Replacement Cat6 drop "from $175" — network-cable-repair-rockland-county.html ("priced from $175 for a commercial Cat6 drop") and cat6-repair-hudson-valley.html.
+- New-install comparison Cat5e $265 / Cat6 $309 / Cat6A $441 per drop to 100 ft — cat6-installation-rockland-county.html.
+- Third-party national: Fixr Jan 2025 $125–$250/drop, $45–$75/hr (silo).
+- CONFLICT FLAG: blueprint §9 Rockland multiplier 1.30× would make the replacement drop $228 (175 × 1.30 = 227.5, half-up); the live Rockland NCR page and the HV hub publish $175 un-multiplied, and $195/hr is a protected rate. Page follows the live pages. cat6-installation-rockland-county $309 = HV hub figure (1.136× NYC $272), not a §9 multiplier.
+
+### Images (11) — permanent image rule (Drive folder empty per main run; CompanyCam not connected)
+Library check: images/network-cable-repair/ and images/cat6/ contain only 31 distinct photos (each duplicated across area filenames), and all 31 are already used on the NYC/LI/HV Cat6 Repair hubs, so reuse of a source scene was unavoidable. Sources taken only from the first third (alphabetical) of each folder. Every source shows a technician's face, so each was CROPPED to a face-free region (also making the frame visually distinct from the hub use). Converted to WebP q80, all ≤1600 px wide.
+| images/cat6-repair/ | Source | Crop box |
+|---|---|---|
+| cat6-repair-rockland-county-wire-map-crossed-open-pair.webp (hero) | network-cable-repair/network-cable-fault-detection-rockland-county.webp | (0,290,1536,1024) |
+| cat6-repair-rockland-county-flashlight-ceiling-bundle-check.webp | network-cable-repair/network-cable-inspection-hudson-valley.webp | (680,0,1536,700) |
+| cat6-repair-rockland-county-exposed-pairs-at-desk-leg.webp | network-cable-repair/damaged-ethernet-cable-repair-rockland-county.webp | (0,470,1300,1024) |
+| cat6-repair-rockland-county-nicked-jacket-on-ceiling-grid.webp | network-cable-repair/crushed-network-cable-repair-rockland-county.webp | (250,200,1536,1024) |
+| cat6-repair-rockland-county-keystone-punch-down-wall-plate.webp | network-cable-repair/keystone-jack-replacement-rockland-county.webp | (600,500,1400,1024) |
+| cat6-repair-rockland-county-ceiling-access-point-cable-end.webp | network-cable-repair/access-point-cable-repair-rockland-county.webp | (0,0,860,1024) |
+| cat6-repair-rockland-county-data-outlets-under-desk.webp | cat6/cat6-data-drop-installation-rockland-county-workstation-outlets.webp | (480,380,1402,1122) |
+| cat6-repair-rockland-county-corridor-repull-cable-cart.webp | cat6/cat6-installation-rockland-county-corridor-pull.webp | (0,450,1402,1122) |
+| cat6-repair-rockland-county-solid-copper-box-ceiling-feed.webp | cat6/cat6-cable-installation-rockland-county-ceiling-drop.webp | (560,0,1402,1122) |
+| cat6-repair-rockland-county-floor-box-keystones.webp | cat6/cat6-floor-box-installation-rockland-county-conference-room.webp | (380,400,1402,1122) |
+| cat6-repair-rockland-county-table-grommet-replacement-feed.webp | cat6/cat6-cable-installation-manhattan-conference-table-drop.webp | (660,150,1402,1122) |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (6) and images/cat6/ (5), cropped to remove faces (no real cat6-repair photos yet)`. Note for Anwar: the library photos look AI-generated (company logo patches, stylised labels); the corridor crop still shows a distant figure from the waist down with no face.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Rockland County, Cat6 cable repair, Cat6 re-termination, Cat6 jack repair, Cat6 certification/testing, multi-gig link repair, hidden coupler removal.
+- Problem: dead jack, link stuck at 1 gigabit after fiber upgrade, jacks dead after ISP moved router/ONT, drill strike, staple damage, finished-ceiling fault, junction-box splices, mesh falling back to wireless backhaul, lower-level flood corrosion, PoE budget drops, exam-room jack damage, doorbell PoE run.
+- Technology: Cat6, Cat6A, 802.3bz 2.5G/5G, 10GBASE-T, certification tester, distance-to-fault, tone and probe, keystone, solid-conductor RJ45, PoE, CCA, NEC 800.25 abandoned cable, firestopping.
+- Industry: homeowners (raised ranches, split-levels, colonials, capes, river-village houses), two-family/small multifamily landlords, medical/dental practices, office suites, strip plazas/shopping centres, flex/warehouse, home offices, renters.
+- Geographic: Rockland County; Clarkstown, Orangetown, Ramapo, Haverstraw, Stony Point; New City, Nanuet, West Nyack, Congers, Valley Cottage, Bardonia, Pearl River, Orangeburg, Blauvelt, Tappan, Piermont, Sparkill, Suffern, Monsey, Airmont, Spring Valley, Hillburn, Sloatsburg, Pomona, Garnerville, Thiells, Tomkins Cove, Nyack; Route 59, Route 303, Route 304, Route 9W, Blue Hill Plaza, iCampus, Palisades Center, Nanuet Town Centre.
+
+### Masked similarity (sim.py, 5-word shingle Jaccard, geo-masked)
+vs cat6-repair-nyc 0.029 · cat6-repair-long-island 0.024 · cat6-repair-hudson-valley 0.038 · network-cable-repair-rockland-county 0.018 · cat6-installation-rockland-county 0.014 (shared shingles are mostly the mega-nav, forms and protected strings).
+
+## Question register — cat6-repair-rockland-county
+
+§9 "Questions Answered" (H3):
+1. We moved to a multi-gig fiber plan in Rockland, but the wired office still tops out around one gigabit — is the Cat6 in the wall the limit? (Fiber/multi-gig)
+2. The internet installer put the new box in a different room, and two wall jacks stopped working that same day — what happened to them? (Fiber/multi-gig)
+3. The fiber crew drilled a new entry hole and now one basement run tests short — could the drill have caught it? (Fiber/multi-gig)
+4. The Cat6 from our raised ranch's lower-level den to the bedrooms upstairs failed after we finished the basement ceiling — can it be reached without tearing out the new drywall? (Houses)
+5. Why do the jacks on the half-level above the garage in our split-level fail more than any others in the house? (Houses)
+6. A previous owner left a plastic junction box in our New City basement ceiling with several Cat6 runs joined inside it — can it stay? (Houses)
+7. Our mesh Wi-Fi points are plugged into Cat6 jacks but still show a wireless link back to the router — is the wiring to blame? (Houses)
+8. Our router and switch sit on the same lower-level wall as the sump pump — where should the Cat6 terminations go so the next flood does not reach them? (Water)
+9. The basement units in our Spring Valley building are shut because of flooding, but the Cat6 to the upper floors passes through them — can it be rerouted around? (Water)
+10. Exam-room jacks in our New City practice keep failing after the cleaning crew moves the carts — is there a repair that stops it? (Business)
+11. We added a PoE camera to the small switch in our Clarkstown home office and now the desk connection drops — can PoE on one port affect another port's Cat6? (Business)
+12. Our Suffern office's Cat6 was put in by the internet provider when we opened — when it fails, is the provider responsible or are we? (Business)
+13. Does Rockland's new home improvement law change what our written Cat6 repair quote has to say? (Paperwork)
+14. The alarm panel and our Cat6 share a closet in our Pearl River house — can the network runs be repaired without setting off or disturbing the alarm? (Paperwork)
+
+FAQ (§17, = FAQPage schema):
+F1. Can we send photos of the jack, the network closet and the router by WhatsApp before you come out to Rockland?
+F2. Do you need our Wi-Fi password or internet account details to repair the Cat6?
+F3. Can the old cable be used to pull its replacement through the wall of our split-level?
+F4. If a run is being replaced anyway, can a second Cat6 be pulled alongside it for later use?
+F5. Will the rest of our home network stay up while one Rockland run is being repaired?
+F6. Is there a charge for a second trip if the repair needs a part that was not on the van?
+F7. Can you repair the Ethernet run to a TV or games console behind a wall-mounted TV?
+F8. We rent our Rockland house or apartment. Can we book the repair ourselves, or does the landlord have to?
+F9. Can you repair the Cat6 feeding a wired video doorbell at a Rockland front door?
+F10. What happens if the test shows our Cat6 is fine and the problem is the computer or the router?
+
+Other "?" headings: "A Rockland Cat6 Jack Dead This Morning?" (repair capture), "Is Your Rockland Cat6 Ready for a Faster Internet Plan?" (multi-gig readiness H2), "Wired Connection Gone Quiet Somewhere Between Suffern and Nyack?" (closing).
+
+De-dup notes: compared by meaning against the NYC, LI and HV registers in research/cat6-repair.md, plus the FAQ/headings of network-cable-repair-rockland-county, cat6-installation-rockland-county and the fiber/sonos Rockland registers. Deliberately avoided: NYC Q1 (100 Mbps link light — ours is multi-gig negotiation after an ISP upgrade), NYC Q2 (worked for years, now intermittent), NYC Q3 (cord vs jack vs wall), NYC Q8 (splice a damaged section — ours is an inherited junction box of joins), NYC Q10 (bad run takes PoE port down — ours is switch power budget affecting other ports), NYC Q14 (riser/neighbour approval), NYC Q15 (tracing in pre-war wall), NYC Q16 (cellar water dry-out — ours are relocation above the sump and rerouting around closed units), NYC F7 (old cable after re-pull), LI F2 (test before closing), LI F3 (school/house of worship), LI F9 (HOA), HV Q6 (addition joint), HV Q10 (high-bay damage), HV Q12/13 (brick/stone routes), HV F5 (matching plates), HV F10 (what to have ready — ours F1 is the photo channel), NCR Rockland FAQ (cost, several drops died at once, neighbour's shop, neighbour's contractor, marking, join vs replace, dead outlet, card terminal busy, landlord utility room, test reports, warranty, rest of HV), cat6-installation-rockland FAQ (licensing who may work, historic Nyack, cost), fiber Rockland FAQ (which parts of Rockland covered). Orange/Putnam batch siblings were not on disk when this page was built; all questions name Rockland places or Rockland-specific triggers (Chapter 286, Spring Valley flooding, raised ranch/split-level stock) to keep intent distinct — main run should re-check once those pages exist.
+
+## Orange County (cat6-repair-orange-county)
+
+Batch run 2026-10-17. Area page; up = /cat6-repair-hudson-valley; phone (845) 640-3835 (800 only in shared header chrome); GBP Bronx (#bronx, 460 E Fordham Rd). Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. FC search = mcp__Firecrawl__firecrawl_search; FC scrape = mcp__Firecrawl__firecrawl_scrape. Shell curl blocked.
+
+**Thesis (distinct from HV hub = storms/outdoor/distance; Rockland; Putnam):** most Orange County Cat6 that fails did not wear out — it was damaged by the trades that followed the cabling crew, or never finished/certified, in the county's fast-growth decade (KJ +63%, county +28,000, Route 17K warehouses, Crystal Run medical buildings); second strand: 19th-c. brick main streets with mixed/joined runs; third: lightning and floods (delayed corrosion). Repair = locate by distance, open small, photograph cause (who pays), certify.
+
+### Local research (new this run)
+- `Kiryas Joel Town of Palm Tree population growth 2020 census new construction` · FC search → FC scrape https://www.recordonline.com/story/news/local/2021/08/13/census-kiryas-joel-grew-leads-orange-population/8115187002/ (Times Herald-Record, Chris McKenna, Aug 13 2021): KJ 32,954 (+63%), most populous municipality; Warwick 32,027, town of Newburgh 31,985, Wallkill 30,486, Middletown 30,345, city of Newburgh 28,856, New Windsor 27,805; KJ ≈ half of county's 28,000+ increase; county +7.6% to ~401,000; >3,500 condos built/planned; families moving to Blooming Grove, Woodbury, Monroe; Palm Tree same boundaries. → §5 paras 1, facts list bullets 1–2; §7 card 1; §9 Q1; FAQ 1.
+- `July 9 2023 flash flood Highland Falls Cornwall Orange County damage rainfall inches` · FC search → FC scrape https://abc7ny.com/post/new-york-flooding-hudson-valley-west-point-orange-county/13482914/ (ABC7, Jul 12 2023): Hochul "Nine inches of rain in this community… '1,000 year event'"; Fort Montgomery fatality; West Point garrison HQ inundated; Popolopen Bridge (US 9W) major damage; road closures incl. Route 218, 9, 9W, 9A, 293, 32, 6. → §5 para 4; §9 Highland Falls Q; Weather table; (corridor text cut).
+- `Port Jervis Delaware River flood 2006 downtown damage businesses` / `Port Jervis 2006 flood June …` · FC search → FC scrape https://riveralerts.com/Site/Predicted/01434000 (NWS predicted page, Delaware at Matamoras/Port Jervis): crests 21.47 ft 6/28/2006, 20.52 ft 4/3/2005, 19.52 ft 9/18/2004; record 26.6 ft 2/12/1981 ice jam, damage to 950 structures ($14.7M); at 18 ft river may back up storm drains into Port Jervis between Railroad Ave and Water St; serious backwater near Neversink at 2006 crest. → §5 para 4 + facts bullet 5; Weather table rows 1–2.
+- USGS SIR 2007-5067 (https://pubs.usgs.gov/publication/sir20075067): scrape returned HTTP 500 — EMPTY (not accessible in build env).
+- `Crystal Run Healthcare Middletown campus buildings square feet medical offices` · FC search → FC scrape https://www.crystalrunhealthcare.com/crystal-run-through-years: 155 Crystal Run Rd opened 2002 (Town of Wallkill); 95 Crystal Run Rd 2009 (first 3T MRI, ASC, women's imaging); Newburgh 70,000 sq ft 2015; Monroe 66,000 sq ft 2016; 2,400+ employees. → §5 para 1; §7 medical card; §8 Crystal Run card; §9 imaging-vendor Q.
+- `Orange County NY Department of Consumer Affairs home improvement contractor license requirement` · FC search → https://www.orangecountyny.gov/255/Licenses (FC scrape: page body JS-only — license list EMPTY); FC scrape https://www.orangecountyny.gov/DocumentCenter/View/951/Consumer-Law-Help-Manual---Home-Improvements-PDF: contract >$500 (contractor earning >$1,500/yr) must be written, plain English, signed; name/address/phone/licence number if any; work, materials incl. makes/models; progress payments; hourly payments not progress payments. → §8.5 bullet 1. Whether Orange County licenses home-improvement contractors: EMPTY — page makes no claim.
+- `USDA 2022 Census of Agriculture Orange County New York number of farms average size` · FC search → https://www.nass.usda.gov/Publications/AgCensus/2022/Online_Resources/County_Profiles/New_York/cp36071.pdf (excerpt): 613 farms, 65,706 acres in farms. Average size cut off in excerpt — not used. → facts bullet 6.
+- `Black Dirt Region Warwick Pine Island onion farms acres Orange County NY` · FC search → https://en.wikipedia.org/wiki/Black_Dirt_Region (excerpt: western Town of Warwick, centred on Pine Island). → facts bullet 6; §7 farm card. (Edible Hudson Valley "26,000 acres" excerpt not used.)
+- `Route 17 third lane project Orange County NYSDOT 2026 construction start Exit 120 131` · FC search → excerpts only (ocpartnership.org, cicbca.org Federal Register concept); used only the 2022 HGAR $1B figure from fiber research (corridor section later cut). 
+- `Middletown NY downtown North Street historic commercial buildings 19th century` · FC search → https://www.middletownny.gov/294/Middletown-Architecture (scrape: JS shell, EMPTY); https://northendmiddletownneighborhood.org/ excerpt ("North End … 18th- and 19th-century commercial … buildings") → background for "Middletown's North Street… same vintage" (§5 para 3).
+- `drywall screw through ethernet cable new construction intermittent network fault` · FC search → excerpts only (reddit r/HomeNetworking cut cable; setupteam.ca retrofit) — background only, not quoted. Construction-damage reasoning rests on silo BICSI study guide (crushed by ties/staples, pull tension) and Fluke NEXT KB (couplers should not be used).
+- `site:reddit.com Newburgh OR Middletown OR Goshen OR Warwick NY ethernet cable house wiring` · FC search → no Orange County cabling thread (r/hudsonvalley Kingston electrician only). Local Reddit: EMPTY (not accessible in build env).
+
+### Reused (sources reached by earlier runs, research/fiber-optic-installation.md Orange section / HV hub)
+- Earth Networks 2020 lightning: Orange 275,059 pulses, #1 in NY → §5 para 4, facts bullet 4, §9 Warwick barn Q, weather table.
+- HGAR May 15 2020: Amazon 1,015,740 sq ft at Route 17K/747; Medline 1.2M sq ft; Town of Montgomery; construction began 2020 → facts bullet 3, §8 card 1.
+- Pike County Courier letter (Orange Environment, Nov 2024): 37 warehouse projects, ~15M sq ft (attributed) → facts bullet 3.
+- Wikipedia: East End HD (445 acres, >2,200 buildings, NRHP 1985, Italianate brick, Broadway/Liberty) → §5 para 3, §8 card, §13 card; Orange County Government Center (Rudolph, 1967, Irene 2011, reopened 2017) → §8, §13; Touro Horton campus (randrealty 2014, ~375,000 sq ft) → §7, §13; Woodbury Common (1985, 220 stores, 845,000 sq ft) → §8, §13; LEGOLAND NY (2021, ~150 of 500 acres, 250-room hotel, Exit 125) → §8, §13; Port Jervis (Tri-States Monument 1882, Erie RR, Front St, pop ~8,775) → §8, §13; Stewart Airport 1,552 acres → §8; county 840 sq mi, only NY county bordering NJ and PA → §13.
+- Orange County Local Law No. 8 of 2007 (county electrician licence) and Local Law No. 1 of 2024 → §8.5 bullet 2, §10.5 H3 6.
+- City of Newburgh ARC certificate of appropriateness (ecode360 30538879) → §7.5, §8.5 bullet 3.
+- Greenlight Networks Orange County expansion (2025–2026 releases) → FAQ 6 (provider name only); Galleria at Crystal Run → §8 card.
+- Times Union Jun 27 2024 (~13,000 Orange outages, ~60 mph) and O&R Jul 6 2026 (>47,000 customers affected) → weather table.
+- Silo technical: Mike Holt 800.90(B) primary protector; EC&M NEC 800.25; Fluke NEXT KB (couplers); BICSI study guide (staples/ties); computercablestore (4 pairs for gigabit); Fixr Jan 2025 → §8.5, §10.5, §9.
+
+### PAA / PASF / Answer the Public / Google AI Overview / Bing & DDG / Yelp 1–3★
+EMPTY (not accessible in build env). §10.5 states on-page that AI Overview could not be viewed; claims framed as commonly published.
+
+### Local news/hyperlocal (Times Herald-Record, Mid-Hudson News) on Cat6/network cable faults specifically
+EMPTY (no relevant result).
+
+### Prices used (live AESS pages only; no new prices)
+- $195/hr, 3-hr minimum ($585); additional $195/hr; replacement Cat6 drop from $175 (cable, keystone, plate, punch-down, testing, both-end labels, patch cord); lift hire at cost per day; closet audit by port count; plenum add per drop; after-hours premium — network-cable-repair-orange-county.html pricing table.
+- New-install comparison Cat5e $276 / Cat6 $321 / Cat6A $459 per drop inside 100 ft — cat6-installation-orange-county.html.
+- FLAGS: (1) §9 Orange 1.40× on Brooklyn Cat6 drop $247 = $346, but live cat6-installation-orange-county shows $321 (= Putnam's figure too); quoted as published. (2) $175 replacement drop and $195/hr carry no multiplier on any live Orange page; followed live pages. (3) cat6-installation-orange-county.html still carries the three-year warranty block (not this page's concern; this page uses the one-year sentence only).
+
+### Images (11) — permanent image rule (Drive empty, CompanyCam not connected)
+Middle third (alphabetical) of images/network-cable-repair/ and images/cat6/. Every scene in the library is already used by a hub (files are byte-identical copies per area), so each source was CROPPED to remove technicians' faces (all library photos show faces) and resaved WebP q80; crops differ visually from the hub versions.
+| images/cat6-repair/ | Source |
+|---|---|
+| cat6-repair-orange-county-link-down-tester-switch-rack.webp (hero) | network-cable-repair/network-closet-troubleshooting-orange-county.webp |
+| cat6-repair-orange-county-drywall-access-cut-at-failed-jack.webp | cat6/cat6-retrofit-installation-orange-county-drywall-cut-in.webp |
+| cat6-repair-orange-county-wall-jack-no-link-open-pair-test.webp | network-cable-repair/network-jack-repair-orange-county.webp |
+| cat6-repair-orange-county-cubicle-keystone-reterminate.webp | cat6/cat6-keystone-termination-ulster-county-outlet.webp |
+| cat6-repair-orange-county-labelled-rack-bundles-network-room.webp | cat6/cat6-patch-panel-installation-orange-county-network-room.webp |
+| cat6-repair-orange-county-probe-trace-labelled-patch-panel.webp | network-cable-repair/network-cable-tracing-orange-county.webp |
+| cat6-repair-orange-county-rack-certifier-patch-port-test.webp | network-cable-repair/network-cable-repair-orange-county.webp |
+| cat6-repair-orange-county-replacement-cable-fed-into-ceiling.webp | cat6/cat6-installation-suffolk-county-ceiling-drop.webp |
+| cat6-repair-orange-county-j-hook-support-rehang.webp | cat6/cat6-installer-orange-county-jhook-pathway.webp |
+| cat6-repair-orange-county-patch-panel-port-repunch.webp | network-cable-repair/patch-panel-repair-orange-county.webp |
+| cat6-repair-orange-county-ceiling-tile-flashlight-cable-check.webp | network-cable-repair/network-cable-inspection-orange-county.webp |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (6) and images/cat6/ (5), cropped to exclude faces (no real cat6-repair photos yet)`.
+
+### Keywords (five layers)
+Service: Cat6 repair Orange County, Cat6 cable repair Newburgh/Middletown, Cat6 re-termination, construction-damage repair, handover/punch-list testing, Cat6 certification. Problem: dead jacks new building, drywall screw through cable, staple damage, never-terminated runs, hidden coupler, mixed old cable, delayed flood corrosion, lightning barn link, PoE drops. Technology: certification tester, distance-to-fault, tone probe, category-rated splice, keystone, NEC 800.90/800.25, fiber alternative. Industry: multi-family, new homes, distribution, medical, main-street retail/restaurants, hotels, outlet retail, farms/venues, schools/municipal. Geographic: Orange County NY, Newburgh, New Windsor, Middletown, Wallkill, Goshen, Chester, Monroe, Kiryas Joel, Woodbury/Central Valley, Montgomery, Warwick, Pine Island, Cornwall, Highland Falls, Port Jervis, Route 17K, Route 17, I-84, I-87, Stewart, Crystal Run, Woodbury Common.
+
+## Question register — cat6-repair-orange-county
+
+§9 "Questions Answered" (H3) + other "?" headings:
+- Cat6 Down Somewhere Between Port Jervis and the Hudson?
+- The jacks in several apartments of a new multi-family building in Kiryas Joel or Monroe lost link at the same time — where does the fault usually sit?
+- Our new Montgomery office failed its Cat6 test after the drywall and flooring crews finished — how do you show the general contractor which trade damaged the runs?
+- Our new-build house in Chester was sold with Cat6 in every room, but half the wall jacks are dead and the wiring subcontractor is gone — can the runs be found and finished?
+- A distribution building near Stewart opened with hundreds of Cat6 runs that were never certified — how do you find the bad ones without stopping the operation?
+- Our new Orange County building passed its electrical inspection — why didn’t anyone catch the Cat6 faults?
+- The Cat6 between our ground-floor shop and the upstairs office on Front Street in Port Jervis runs through an old stair chase — can it be repaired without opening the finished ceiling?
+- We found an inline coupler hidden inside the wall behind a Middletown storefront jack — how many more could there be, and how are they found?
+- Our Newburgh building has a shop downstairs and apartments above, and every tenant’s provider ran its own Cat6 — how do you work out which runs are whose before repairing one?
+- After the July 2023 flash flood our building in Highland Falls was cleaned up and the network seemed fine — why are Cat6 links failing now?
+- Our Warwick farm’s Cat6 to the barn has died in a thunderstorm three summers running — should it be rebuilt in copper again or replaced with fiber?
+- Our store near Woodbury Common is refitted for every season, and Cat6 jacks fail after each refit — how do we stop it?
+- Our practice in one of the medical buildings off Crystal Run Road was renovated, and the imaging vendor wants the Cat6 recertified before connecting — what will they want to see?
+- Guest rooms at our hotel near the Route 17 Goshen exit are losing their wired connection one room at a time — is it the cable or the in-room hardware?
+- Orange County Jacks Still Dead After Move-In Week?
+
+FAQ (§17, = FAQPage schema):
+- Can repair visits in Kiryas Joel, Monroe and nearby communities be scheduled around Shabbat and Jewish holidays?
+- Can you repair Cat6 in an Orange County building that is still under construction, before the certificate of occupancy?
+- Can you work under a school-district or municipal purchase order in Orange County?
+- Do you repair Cat6 at Orange County wedding barns and event venues ahead of a booked date?
+- Can you work at a distribution centre near Stewart Airport that requires gate badges and a site safety induction?
+- Greenlight’s installer left the fiber terminal in our garage — can the Cat6 already in our Orange County walls carry the service to other rooms?
+- Can you repair Cat6 in a log or post-and-beam home in Orange County where there are no hollow walls?
+- What happens if the fault turns out to be outside our building, on the utility pole or the provider’s line?
+- Can one visit cover Cat6 faults at two of our Orange County sites — say Newburgh and Middletown — on the same day?
+- Can a Cat6 repair at a Newburgh or Middletown restaurant be finished before opening so the registers are ready for service?
+De-dup notes: compared by meaning with the silo register (NYC, LI, HV) and the parallel Rockland/Putnam pages as on disk. Rewritten after reading them: drywall-screw Q (Putnam asks how to find it) → now "how to show the GC which trade caused it"; spray-foam Q (Putnam asks the same) → "passed electrical inspection, why no one caught Cat6 faults"; telephone-grade mixed run (Putnam Carmel) → "hidden inline couplers, how many and how found"; flood-closet relocation (Rockland sump-pump Q) → "which runs belong to which tenant's provider"; FAQ historic-district approval (Putnam Cold Spring) → wedding-barn/venue FAQ. Avoided NYC water-reuse (Q16), NYC F7/F8 (old cable removal, reroute), LI F2/F5 (pre-closing test, mall tenant), HV storm/outbuilding Qs. Masked 5-gram Jaccard: NYC 0.031, LI 0.027, HV 0.050, Rockland 0.037, Putnam 0.042.
+
+## Putnam County (cat6-repair-putnam-county)
+
+Batch run 2026-10-17. Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page section used. Tools: Firecrawl search/scrape (mcp__Firecrawl__*). Shell curl blocked. Silo-wide technical sources (Fluke, BICSI guide, NEC 800.90 / 800.25, Fixr Jan 2025) reused from research/cat6-repair.md in general terms only.
+
+**Thesis (differs from NYC = riser/pre-war access, LI = heat/length/environment, HV = weather from the outside in, NCR Putnam = power-event vs cable):** in Putnam the cable is cheap and the route is expensive — Highlands bedrock, wetland buffers and NYC watershed land, finished lake-cottage interiors (spray foam), Cold Spring historic-district façades — so the repair is "measure first, open once": locate the fault by distance, repair the termination or damaged length in place, replace only when testing proves the run can't be saved, then choose the route that fights rock/water/walls least.
+
+### Reddit
+- `site:reddit.com Putnam County NY OR Mahopac OR Carmel ethernet OR internet wiring OR "cat6" house` · Firecrawl search · https://www.reddit.com/r/Fios/comments/1qo2vqn/happening_again/ (excerpt only): "If the splice cases are frozen then all the light goes bad. We've been having these problems lately in Putnam Valley, NY." → background only (carrier-side fault, outside our scope); not quoted. Other hits (r/electricians Putnam feeders, r/Homebuilding) irrelevant. Local Reddit on failing Cat6: EMPTY (not accessible in build env — reddit not scrapeable).
+
+### Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ — EMPTY (not accessible in build env)
+§10.5 states on-page that the AI Overview could not be viewed; each H3 is framed as a commonly published claim (cost guides, forums, how-to pages), corrected with sourced facts below.
+
+### Geology / terrain
+- `Hudson Highlands Putnam County bedrock gneiss shallow soils ledge outcrops geology` · Firecrawl search · https://nysm.nysed.gov/sites/default/files/mc11_bedrockgeologyputnamwestchesternyfairfieldct.pdf (excerpt): "The rocks of the Hudson Highlands comprise a Precambrian complex of gneisses, migmatite, marble, granite and granodiorite." → §5 para 1, §5.5 bullet 1. (Southeast "Brewster Yards DEIS" geology excerpt — not used.)
+- `Putnam County power outages storm NYSEG Central Hudson customers without power Carmel Mahopac` · Firecrawl search → scrape https://www.wamc.org/hudson-valley-news/2021-03-11/nyseg-is-upgrading-circuits-in-putnam-county (WAMC, Mar 11 2021): NYSEG circuit upgrades in the Town of Carmel on Horsepound Road and Stebbins Road; "there will be some rock drilling to get them into the ground"; wider, more wind-resistant poles. → §5 para 1, §5.5 bullet 1.
+
+### Water / watershed / wetlands (local licensing & permits)
+- `Putnam County NY reservoirs NYC watershed Croton system West Branch Boyds Corner Middle Branch` · Firecrawl search · https://www.nyc.gov/site/dep/water/west-branch-reservoir.page (excerpt): Towns of Kent and Carmel; ~35 miles from NYC; 8 billion gallons; in service 1895; connected to Lake Gleneida "one of the three controlled lakes"; 20 sq mi drainage basin. → §5 para 2, §5.5, §9 West Branch Q, §13 landmark card.
+- Same search · https://govt.westlaw.com/nycrr/... (excerpt): Croton System reservoirs = Bog Brook, Boyds Corner, Croton Falls, Middle Branch, West Branch, East Branch, Diverting… → §5 para 2.
+- `NYC DEP watershed regulations land disturbance trenching near reservoir watercourse wetland 100 feet limiting distance Putnam` · Firecrawl search · https://www.law.cornell.edu/regulations/new-york/10-NYCRR-128-3.9 (excerpt): "The construction of an impervious surface within the limiting distance of 100 feet of a watercourse or wetland, or within the limiting distance of 300 feet of a reservoir, reservoir stem, or controlled lake, is prohibited"; SWPPP for clearing/grading ≥2 acres within limiting distances. → §5.5, §8.5 card, §9 West Branch Q. Page states a cable trench is not an impervious surface (our reading; flagged below).
+- `Town of Kent OR Town of Carmel NY wetlands permit buffer 100 feet excavation regulated activity` · Firecrawl search → scrape https://www.townofcarmelny.gov/DocumentCenter/View/456/Wetland-Permit-Application-PDF (directQuote): "the Town protects wetlands 1/8 of an acre and larger. In addition, a 100 foot buffer around each wetland is also regulated… if any type of construction or other activity within this area is to be conducted, a wetland permit will be required"; form asks about disturbance "within 100 feet of a wetland? (Including lakes, ponds, streams, etc.)". → §5 para 2, §5.5, §8.5 card, §9 Lake Mahopac Q, glossary, FAQ dock.
+- Same search · https://www.townofkentny.gov/286/Building-permit-requirements (search excerpt only; scrape returned only page chrome): "If your project is 100 feet from wetlands (ponds, streams, and watercourses), more than 5,000 square feet of soil disturbance, Permits generally take 14 - 21…" → §8.5 card, §9 West Branch Q (page names only the 100-ft flag, not timings). Full Kent text: EMPTY (not accessible in build env).
+- Reused (HV hub research): Central Hudson Dig Safely / 811 notice → §8.5 "call before you dig" (page gives no day count).
+- Putnam County / town low-voltage licensing for cable repair: EMPTY — not researched to a primary source; page makes no licensing claim beyond AESS's NYS licence. (Note: cat6-installation-putnam-county.html says "Putnam licenses at county level" — unsourced there; not repeated.)
+
+### Historic district
+- `Cold Spring village Historic District Review Board certificate of appropriateness exterior changes Main Street` · Firecrawl search · https://www.coldspringny.gov/242/Historic-District-Review-Board (excerpt: "reviews exterior changes to buildings") → scrape https://www.coldspringny.gov/DocumentCenter/View/2075/Cold-Spring-Architectural-and-Historic-District-Design-Standards-PDF (directQuote): Board reviews "any change, construction, reconstruction or demolition of exterior architectural features… visible from the street"; typical features include "Exterior features such as air conditioners, commercial trash receptacles, fences, utilities, etc."; not subject to review: "Regular and normal maintenance which does not alter the appearance…" and "Work which is not visible from the street." → §5 para 3, §7 village card/method, §8.5 card, §9 Cold Spring Q, glossary.
+- `Cold Spring Historic District National Register Main Street…` · Firecrawl search → scrape https://en.wikipedia.org/wiki/Cold_Spring_Historic_District: 691 acres; built early 19th c.; NRHP Nov 23 1982; bounded by Main St (NY 301), Cedar (NY 9D), Fair St, Paulding Ave; "over 200 buildings". → §13 card.
+
+### Local news / weather
+- Patch, scrape https://patch.com/new-york/southeast/power-outages-slam-hudson-valley (Lanning Taliaferro, May 15–16 2018): "anecdotal reports were made of tornado-like winds in Newburgh and Carmel"; NYSEG "28,459 in Putnam"; Central Hudson "4,698 in Putnam". → §5 para 4, §5.5, §10.5 H3 7.
+- `Putnam County flooding storm damage roads closed Philipstown Putnam Valley Highlands Current 2023 OR 2024 OR 2025` · Firecrawl search → scrape https://highlandscurrent.org/2023/07/22/elected-officials-and-public-confront-storm-damage/ (directQuote): flooding "caused by more than 8 inches of rain, tore into bridges, dams, roads and buildings… at least 130 homes, severely damaging about 20"; Philipstown roads damaged: Old Manitou Rd (closed), Old Albany Post Rd, Chapman Rd, Avery Rd, Philipse Brook Rd, Indian Brook Rd; county work on Upper and Lower Station Roads, Garrison; "Philipstown and other western Putnam towns suffered the most". → §5 para 4, §5.5, Town-by-town (Philipstown).
+- Same search → scrape https://www.putnamvalley.gov/state-of-emergency-declared-in-the-town-of-putnam-valley-effective-at-4-pm-on-wednesday-july-29-2026/ : State of Emergency effective 4 PM Wed July 29 2026 "due to the flash flooding, torrential rainfall, numerous road and bridge closures"; travel restricted on Cimarron, Horton Hollow, Canopus Hollow, Tinker Hill, Reichert St, Camp Collins Rd. → §5 para 4, §5.5, §10.5 H3 7, Town-by-town (Putnam Valley). (Page spells "Reichert"; Instagram excerpt "Reichart" — page uses only the first four road names.)
+- Reused (fiber HV research): Earth Networks 2020 NY lightning report — Putnam 75,093 pulses, 35 thunder days. → §5.5, §10.5 H3 7.
+- lohud / News12 / Putnam County News & Recorder on Cat6 or network-cable faults specifically: EMPTY. (pcnr.com storm article excerpt — undated in excerpt, not used.)
+
+### Housing / demographics
+- Reused (sonos HV research): Stacker Sep 25 2025 (Census data) — Putnam #41, median year built 1968, 17.9% (6,857) built 1939 or earlier. → §5 para 3, §5.5, §7 card.
+- `Putnam County NY housing units census quickfacts owner-occupied…` · Firecrawl search · https://datausa.io/profile/geo/putnam-county-ny (excerpt): "In 2024, 83.8% of the housing units in Putnam County, NY were occupied by their owner." → §5.5. (Census Reporter 38,607 housing units — not used.)
+- `Lake Mahopac largest lake Putnam County acres…` · Firecrawl search · https://www.putnamvalley.gov/districts-pv/lake-oscawana-management-improvement-district/ (excerpt): Lake Oscawana "the largest of several lakes and ponds in the Town of Putnam Valley". Lake Mahopac acreage conflicts (587 realty vs 583 Tripadvisor) — no acreage used. → lake names only (§5, §7, Town-by-town).
+
+### Landmarks / corridors
+- `Historic Putnam County Courthouse Carmel 1814…` · Firecrawl search · https://en.wikipedia.org/wiki/Putnam_County_Courthouse_(New_York) (excerpt: built 1814, renovated 1847, hamlet of Carmel, county seat); https://www.lohud.com/story/news/local/putnam/2024/03/22/... (excerpt: "built in 1814, and is one of the oldest court houses in New York… on Gleneida Avenue"). → §13 card, §8 Gleneida card.
+- `Tilly Foster Farm Brewster Southeast county-owned acres history` · Firecrawl search · https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2022/August/minutes/Phys-08-25-22-Presentation-Tilly-Foster-Overview-2022.pdf (excerpt): "Approximately 199 Acres in the Town of Southeast… Originally used as a dairy farm, then used for horse breeding… Putnam County purchased in 2002." → §13 card, Town-by-town (Southeast).
+- `Clarence Fahnestock Memorial State Park acres…` · Firecrawl search · https://parks.ny.gov/visit/state-parks/fahnestock-state-park-clarence-fahnestock (excerpt): "This 15,000-acre park, covering land in Putnam and Dutchess counties"; office 1498 Rte 301. (Wikipedia gives 15,731 acres — page uses the NYS Parks figure.) → §13 card.
+- Reused (sonos HV research): Boscobel — moved 15 miles upriver; demolished in the 1950s, fragments reassembled (Wikipedia / boscobel.org). → §13 card.
+- `Brewster Yards Southeast NY transit-oriented development Metro-North Harlem Line Brewster station…` · Firecrawl search · https://en.wikipedia.org/wiki/Brewster_station (excerpt: Harlem Line, 9 Main Street, Brewster); Southeast station/Brewster Yards expansion (DHK, southeast-ny.gov excerpts — not used). → §8 Brewster card, Town-by-town, FAQ Metro-North.
+- Corridors (Route 6, Route 22, Route 52, Route 311, Route 312, I-84, Route 301, Taconic) and hamlet names in "We also repair" = place names only, consistent with network-cable-repair-putnam-county.html coverage list. No business, building or tenant is named as a customer.
+- `Putnam County broadband unserved…` · Firecrawl search: Comcast "$11.4 million … 390 locations in Putnam County" excerpt is Putnam County, **Florida** (palatkadailynews) — NOT used. Putnam NY broadband award data: EMPTY.
+
+### Prices used (live AESS Putnam pages only; no new prices)
+- $195/hr, three-hour minimum ($585); additional time $195/hr; replacement Cat6 drop from $175 (cable, keystone, plate, panel punch-down, testing, both-end labelling, patch cord); battery backup "quoted per position"; closet audit "quoted by port count"; after-hours/weekend "premium applies"; "No travel surcharge" — network-cable-repair-putnam-county.html pricing table. → §14 table, packages, FAQ Saturday.
+- New-install comparison Cat5e $276 / Cat6 $321 / Cat6A $459 per drop to 100 ft — cat6-installation-putnam-county.html. → §14, §10.5 H3 1.
+- Fixr Jan 2025 national $125–$250/drop, $45–$75/hr — labelled third-party. → §14, §10.5.
+- FLAGS: (1) $175 replacement drop and $195/hr carry no §9 1.45× multiplier on any live Putnam page (1.45× of $175 would be ~$254); page follows the live Putnam page. (2) cat6-installation-putnam-county $321 differs from HV hub's $309 HV installation figure; page quotes the Putnam figure. (3) "Cable trench is not an impervious surface" is our reading of 10 NYCRR 128-3.9 wording, worded cautiously and with a not-legal-advice note.
+
+### Images (11) — permanent image rule (Drive folder empty per main run; CompanyCam not connected)
+All 31 distinct photos in images/network-cable-repair/ + images/cat6/ are already used by the three hubs (perceptual-hash check), so sources were taken from the last third of each folder alphabetically and **cropped to exclude every face** (brief rule), which also makes them visually distinct from the hub/sibling uses.
+| images/cat6-repair/ | Source (crop box) |
+|---|---|
+| cat6-repair-putnam-county-counter-jack-no-link-reading.webp (hero) | network-cable-repair/pos-network-cable-repair-putnam-county.webp (600,470,1536,1024) |
+| cat6-repair-putnam-county-corroded-plug-block-wall.webp | network-cable-repair/water-damaged-network-cable-repair-putnam-county.webp (640,300,1536,1024) |
+| cat6-repair-putnam-county-rj45-plug-and-crimper.webp | network-cable-repair/rj45-connector-replacement-putnam-county.webp (0,450,1536,1024) |
+| cat6-repair-putnam-county-data-voice-keystone-rework.webp | cat6/cat6-voice-data-outlet-installation-westchester-county.webp (620,480,1402,1122) |
+| cat6-repair-putnam-county-partition-jack-row-reterminate.webp | cat6/office-cat6-installation-putnam-county-outlet-bank.webp (500,350,1448,1086) |
+| cat6-repair-putnam-county-poe-dome-no-power-reading.webp | network-cable-repair/poe-camera-cable-repair-putnam-county.webp (0,0,900,1024) |
+| cat6-repair-putnam-county-switch-port-link-lights.webp | network-cable-repair/switch-port-troubleshooting-putnam-county.webp (0,0,830,1024) |
+| cat6-repair-putnam-county-fish-tape-conduit-repull.webp | cat6/cat6-wiring-putnam-county-fish-tape-conduit.webp (0,440,1402,1122) |
+| cat6-repair-putnam-county-panel-port-repunch.webp | network-cable-repair/patch-panel-repair-queens.webp (0,0,1000,1024) |
+| cat6-repair-putnam-county-replacement-cable-carton.webp | cat6/office-cat6-installation-nyc-corridor-crew-pull.webp (0,500,760,1122) |
+| cat6-repair-putnam-county-printer-data-jack-retermination.webp | cat6/office-cat6-installation-suffolk-county-printer-data-jack.webp (560,400,1402,1122) |
+DAILY-LOG note: `images: 11 reused from images/network-cable-repair/ (6) and images/cat6/ (5), cropped to exclude faces (no real cat6-repair photos yet)`.
+
+### Keyword notes (five layers)
+- Service: Cat6 repair Putnam County, Cat6 cable repair, Cat6 re-termination, in-line Cat6 repair, Cat6 fault location, Cat6 certification after repair, aerial/outdoor Cat6 repair, PoE camera cable repair.
+- Problem: dead jack, intermittent drop, no link, PoE no power, screw/nail through cable, crushed cable, torn aerial span, corroded plug, flooded basement panel, garage penetration, telephone-grade cable mislabelled as Cat6, kitchen cable damage.
+- Technology: distance to fault, permanent link vs channel, insertion/return loss, split pair, category-rated junction, support wire, drip loop, primary protector (NEC 800.90), abandoned cable (NEC 800.25), shielded Cat6, mesh wired backhaul.
+- Industry: homeowners, lake/second homes, short-term rentals, village retail/restaurants, professional offices in converted houses, practices, trade yards, home businesses, farms.
+- Geographic: Putnam County; Carmel, Mahopac, Kent, Lake Carmel, Southeast, Brewster, Patterson, Putnam Valley, Philipstown, Cold Spring, Nelsonville, Garrison; Route 6/22/52/301/311/312, I-84, Taconic; West Branch Reservoir, Lake Gleneida, Lake Mahopac, Lake Oscawana.
+
+## Question register — cat6-repair-putnam-county
+
+§9 "Questions Answered" (H3):
+1. If trenching a new Cat6 run across our Putnam Valley lot means cutting through ledge, what are the alternatives to digging?
+2. Does replacing a Cat6 run near Lake Mahopac or another lake in the Town of Carmel need a wetland permit?
+3. We are close to the West Branch Reservoir in Kent — do the city's watershed rules limit how a damaged Cat6 run can be replaced?
+4. A falling limb tore down the Cat6 we had strung between the house and the garage — should the aerial run be repaired or put underground?
+5. Our standby generator takes over during Putnam outages — why do the PoE cameras drop when it does, and is the Cat6 to blame?
+6. Our cottage on Lake Carmel was winterized with spray-foam insulation, and the Cat6 inside the walls has failed — can it still be repaired?
+7. A drywall screw or trim nail went through a Cat6 run during our renovation — how do you find the damaged spot without opening every wall?
+8. Where the Cat6 passes from our attached garage into the house in Mahopac, the hole was never sealed — does the repair have to fix that?
+9. Since an EV charger went into our Patterson garage, the Cat6 link out there keeps dropping — can the new circuit cause that?
+10. Does a Cat6 repair on a Main Street building in Cold Spring need approval from the Historic District Review Board?
+11. Our Carmel office is a converted house, and some of its jacks turn out to be wired with telephone-grade cable rather than Cat6 — can those be repaired?
+12. The Cat6 to the kitchen printer and card terminal in our Cold Spring restaurant keeps failing — what about a kitchen kills network cable?
+
+FAQ (§17, = FAQPage schema):
+F1. Can you repair the Cat6 at a short-term rental in Cold Spring or Philipstown between guest stays?
+F2. Our caretaker looks after the lake house while we are away — can the technician meet them instead of us?
+F3. Can you repair Cat6 that runs down to a dock or boathouse on Lake Mahopac?
+F4. Will you protect the plaster and woodwork when repairing Cat6 inside an older Garrison or Cold Spring house?
+F5. We run a business from a home office in Patterson — can a failed link get a temporary fix the same day while the proper repair is planned?
+F6. Our house is up a steep private road in Putnam Valley — can a technician still get there in winter?
+F7. If the problem turns out to involve the electrical side — a generator inlet, a panel or a surge device — do you bring in an electrician?
+F8. Will you photograph a repair that ends up hidden inside a wall or ceiling, so a future owner or contractor can find it?
+F9. We commute on Metro-North from Brewster — can a Cat6 repair be booked for a Saturday or an early morning?
+F10. Our builder used shielded Cat6 — does that change how a repair is done?
+
+Other "?" headings: "Dead Cat6 Jack Somewhere Between Cold Spring and Brewster?" (repair capture), "Lake House or Garage Link Dark Since Last Weekend?" (closing).
+
+De-dup notes: compared by meaning against the NYC, Long Island and Hudson Valley registers in research/cat6-repair.md and against cat6-repair-rockland-county.html as built at 09:36 (parallel batch). Three draft questions were replaced because Rockland asks the same intent: mesh node on wireless backhaul despite Cat6 jack; internet installer moved the box and jacks died; where to put terminations when the network wall floods (→ garage-to-house penetration, EV-charger garage drop, telephone-grade cable in a converted-house office). Avoided: HV storm/strike/post-outage/cold/buried-ice/rodent/indoor-cable-outdoors/pole-plug/stone-wall/remote-site/weekend-house/gate/well-house/barn/crawlspace/knob-and-tube/Starlink/retest-after-storm/jack-matching; LI attic heat, over-length, garage water, flood insurance, salt air, landscaper-cut buried run, slab ranch, stapled attic cable, seasonal reopening, campus links, long PoE camera run, dock scanners, travel charge, pre-closing test, school/library breaks, medical before hours, mall tenants, re-insulation, surge protection, garage conversion, HOA, remote IT; NYC 100 Mbps, intermittent, cord/jack/cable, NEXT, return loss, which end, re-pull, splice-or-replace (ours asks route alternatives / renovation puncture location, not "can it be spliced"), PoE night reboot, PoE port damage, Cat6A parts, 10G errors, CCA, riser approval, pre-war trace, cellar water reuse, three-hour minimum, recertify floor, other contractor's cable, port mapping, Cat6A on van, 24-port time, old cable fate, reroute around wall, ceiling APs, two buildings on a lot. Watch: Q5 (generator transfer) is adjacent to HV Q3 (links dead after power return) — different intent (momentary transfer reboot vs permanent failure).
