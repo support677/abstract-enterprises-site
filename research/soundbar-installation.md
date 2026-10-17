@@ -1218,3 +1218,327 @@ FAQ (§17) — 8:
 Other question-form headings (repair capture, not Q&A/FAQ): "Soundbar Cutting Out Since the Move?", "Lost Sound Anywhere in Orange County?"
 
 De-dup notes: checked by meaning against every question in the NYC, Long Island, Hudson Valley and Manhattan registers. Deliberately avoided (already owned): board/COI/freight (NYC), plaster/brick/concrete anchoring (NYC/HV), sub vs neighbours (NYC), renter wire hiding & deposit (NYC), outlets/patch & paint/reschedule/warranty/one remote/hours (NYC), two-storey great room/overhead sound/fireplace heat/basement sub/rear-speaker outlets/attic-basement routing/patio/salt air/permit/which-licences (LI), horsehair plaster/stone mortar/timber/big-room/sub in great room/ARC dropouts/rural internet/storm protection/weekend house/travel up the valley/niche/loft/tasting room/conference room (HV), doorman/package room/move-in timing/flex wall/glass/lead paint/conversion/loft TV/radiator/harsh room/L-studio/Wi-Fi congestion/One Connect/bar noise limits/fixed volume (Manhattan). Licensing, outlets, timing and coverage on this page are handled in body text, not as repeat questions. check_page.py reported no duplicated question or answer against the Westchester and Rockland drafts on disk at ~06:05. After Brooklyn/Queens/Bronx went live, the main run flagged the projector (Queens/Westchester) and brands (Brooklyn) intents; both were replaced and every soundbar-installation-*.html page plus this research file was re-checked by meaning.
+
+
+<!-- merged from batch build staten-island -->
+## Staten Island
+
+Builder notes — soundbar-installation-staten-island · built 2026-10-17 (batch with Nassau County and Suffolk County). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts only unless noted); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape in query/directQuote mode. Sources that could not be opened are written `EMPTY (not accessible in build env)`. Nothing was inferred to fill a gap.
+
+Thesis (distinct from NYC/LI/HV and the parallel Nassau/Suffolk pages): Staten Island is a borough of owner-occupied houses with several TV rooms each, so the soundbar question is "which room and which wall" — fireplace living room, hi-ranch den with block wall, finished basement (paneling, tile-grid ceiling, slab, Sandy flooding), attached townhouse party wall/HOA, older North Shore frame houses, post-Sandy raised homes. Extra sections: "Room by Room", "Buying Guide", "Storm Season", "North Shore to South Shore".
+
+### 1. Reddit (r/statenisland)
+- Query: `site:reddit.com/r/statenisland TV mount OR "mount my tv" OR handyman` · Firecrawl search (excerpts only; threads not scraped — Firecrawl does not support reddit.com scraping per earlier silo runs).
+  - https://www.reddit.com/r/statenisland/comments/1jcam6j/affordable_contractor_for_home_renovations/ — excerpt: "Just moved to SI too and having difficulty trying to find a good person that can do a nice Tv wall panel (lighting, shelving, wood slats ..." → §5 THE NEIGHBORHOOD para 4 (paraphrased, not quoted verbatim).
+  - https://www.reddit.com/r/statenisland/comments/1k1rkjl/looking_for_reputable_reasonably_priced_movers/ — excerpt: "if you need help with furniture assembly tv mounting window treatments or shelving after the move in feel free to reach out" → §5 para 4.
+- Query: `reddit statenisland soundbar OR "sound bar" TV mount basement` · Firecrawl search → no r/statenisland results (AESS page, Yelp NJ, Instagram, Best Buy). Soundbar-specific Staten Island Reddit: EMPTY.
+- Query: `r/statenisland TV mounting installer recommendation` · WebSearch → no reddit.com results (Airtasker, Bark, TaskRabbit, Instaservice, HomeAdvisor listings only). EMPTY for Reddit.
+
+### 2. Google PAA — EMPTY (not accessible in build env)
+### 3. Google PASF — EMPTY (not accessible in build env)
+### 4. Answer the Public — EMPTY (not accessible in build env)
+### 5. Google AI Overview — EMPTY (not accessible in build env)
+Substituted with claims real pages publish (§10.5 Reality Check, 7 H3):
+- Query: `r/statenisland TV mounting installer recommendation` · WebSearch → https://www.instaservice.com/service-areas/new-york-staten-island/service/soundbar-mounting · Firecrawl scrape: includes "Assessment of mounting location. Secure installation of soundbar bracket or mounting hardware. Mounting and positioning of the soundbar. Clean-up of the installation area."; "The best height for a wall-mounted soundbar is typically just below your TV screen." → §10.5 H3 1 (platform not named on page — "one national booking platform's Staten Island soundbar-mounting page").
+- Angi concealed wiring $75–$300 (silo research, LI/HV entries: https://www.angi.com/articles/how-much-does-buying-and-repairing-tv-cost.htm) → §10.5 H3 2.
+- AWOL Vision eARC vs ARC + r/sonos "eARC is NOT required to have Dolby Atmos" (silo research, NYC/HV entries) → §10.5 H3 3.
+- Polk Audio Atmos guide 7.5–12 ft, flat rigid reflective ceiling, avoid acoustic tiles (silo research, LI entry: https://www.polkaudio.com/en-us/blog/how-to/ultimate-guide-to-dolby-atmos-setting-up-your-system) → §9 Atmos drop-ceiling Q, §10.5 H3 4, Buying Guide.
+- Crutchfield Samsung HW-Q990D: rears each need AC outlet, sub 25.8 lb, 11.1.4 (silo research, LI entry) → §10 card, §10.5 H3 5.
+- Yamaha 42.5 in seated ear level + Dolby "below the TV, near ear level" (silo research, NYC entry) → §10.5 H3 6.
+- Netflix 15 Mbps for 4K (silo research, HV entry: https://help.netflix.com/en/node/306) → §10.5 H3 7.
+- Product specs reused from silo research (§10 EQUIPMENT): Sonos Ray ~56 cm / 1.95 kg, optical (whathifi, gearpatrol); Beam Gen 2 25.63 in / 6.35 lb (sonos.com); Arc Ultra 46.38 in / 13.01 lb, min 4 in to TV (sonos.com guide); Sanus WSSATM1 50–90 in TVs; Sanus SASB1 up to 20 lb.
+
+### 6. Landmarks (§13 COVERAGE — six cards)
+- Query: `St. George Theatre Staten Island opened 1929 seats history` · Firecrawl search → https://stgeorgetheatre.com/our-history/ — "2,800-seat venue … doors officially opened on December 4, 1929"; https://en.wikipedia.org/wiki/St._George_Theatre — 1,903 seats today; "Staten Island's grandest movie and vaudeville house" (stgeorgetheatre.com). → §13 card 1.
+- Query: `Richmond County Bank Ballpark Staten Island FerryHawks capacity St. George` · Firecrawl search + Firecrawl scrape https://en.wikipedia.org/wiki/SIUH_Community_Park — formerly Richmond County Bank Ballpark; opened June 24, 2001; capacity 7,171; home of the Staten Island FerryHawks; 75 Richmond Terrace. → §13 card 2.
+- Query: `Snug Harbor Cultural Center 83 acres Historic Richmond Town 100 acres structures` · Firecrawl search → https://www.nyctourism.com/attractions-tours/snug-harbor-cultural-center-botanical-garden/ — "23 historical buildings, nine botanical gardens and 10 acres of wetlands—set on an 83-acre campus". → §13 card 3.
+- Query: `Historic Richmond Town living history village acres historic buildings` · Firecrawl search → https://www.historicrichmondtown.org/historic-village-structures — "40 historic structures on 100 acres … largest, most complete living history village in New York City". → §13 card 4.
+- Query: `Staten Island Mall opened 1973 Richmond Avenue indoor mall` · Firecrawl search → https://en.wikipedia.org/wiki/Staten_Island_Mall — New Springville, opened 1973, only indoor shopping mall in the borough. → §13 card 5, §8 Richmond Avenue card.
+- Freshkills Park: Brick Underground (below) — "2,200-acre Freshkills Park … being opened in phases and is expected to be completed in 2038". → §13 card 6.
+- Verrazzano-Narrows Bridge: Query `Verrazzano-Narrows Bridge opened 1964 Staten Island population growth development boom` · Firecrawl search → https://en.wikipedia.org/wiki/Verrazzano%E2%80%93Narrows_Bridge — upper deck opened November 21, 1964; https://www.ebsco.com/research-starters/history/verrazano-narrows-bridge-opens/ — excerpt: "Staten Island population almost immediately began to increase at a rate of seventeen hundred people per month". → §5.5 stat 4, §5 para 2.
+
+### 7. Building stock / use cases (§5, §5.5, §7, §7.5, Room by Room, Across the Island)
+- Point2Homes: https://www.point2homes.com/US/Neighborhood/NY/Staten-Island-Demographics.html — WebFetch blocked (`PROVENANCE_REQUIRED`, permission not answered); retrieved via Firecrawl scrape (directQuote): 178,991 units; 1 unit detached 62,455 (34.9%); 1 unit attached 45,778 (25.6%); 2 units 39,781 (22.2%); 50+ units 12,856 (7.2%); median construction year 1973; built 1939 or earlier 31,321 (17.5%); 1970–79 27,816 (15.5%); 1980–89 27,755 (15.5%). → §5 para 2, §5.5 stats 1–2, §7 two-family card, Across the Island apartments para.
+- Query: `Census QuickFacts Richmond County New York owner-occupied housing unit rate median value population` · Firecrawl search → https://www.census.gov/quickfacts/richmondcountynewyork (excerpt) — owner-occupied housing unit rate 2020–2024 67.7%; median value of owner-occupied units $675,500. → §5.5 stat 3.
+- Brick Underground (Firecrawl scrape): https://www.brickunderground.com/buy/buy-curious-new-springville-staten-island-housing-pricing-parking — "Most of the housing stock, comprised of attached, semi-detached, and detached single- and two-family high ranches, was built in the 1960s and 1970s … There are also condos but no co-ops"; Staten Island Mall "the borough's only indoor shopping center"; Freshkills 2,200 acres, completion 2038. → §7 hi-ranch card, §13 cards 5–6, Across the Island Mid-Island para.
+- Query: `Staten Island townhouse complex homeowners association rules exterior satellite dish condo Arden Heights OR Annadale` · Firecrawl search → https://www.defalcorealty.com/neighborhood-guide/arden-heights/ (excerpt) — townhome communities "Village Greens vs. Aspen Knolls"; "Homeowner association fees average $300-400 monthly but cover extensive amenities and exterior maintenance"; main commercial corridors Arthur Kill Road and Arden Avenue; borders Fresh Kills. → §7 townhouse card, §8 Arden Heights card, §9 HOA/deck Q, West Shore para. (HOA fee figure NOT used on page.)
+- St. Paul's Avenue–Stapleton Heights Historic District: reused from research/sonos-installation.md line 121 (https://6tocelebrate.org/site/st-pauls-avenue-stapleton-heights-historic-district/ — designated 2004; ~92 freestanding houses). Not re-fetched this run. → §7 North Shore card, North Shore para.
+- Hi-ranch prevalence on the South Shore (Annadale, Huguenot, Eltingville, Bulls Head) and fireplace-centred living rooms: AESS internal research research/tv-mounting-prices/staten-island.json (sources listed there include https://www.homes.com/staten-island-ny/ranch-style-homes/ and SILive "Home of the Week"); not re-fetched this run. Used only as general characterisation in Room by Room and Across the Island ("leans one way"), no statistic. **Flag for review.**
+
+### 8. Sandy, raised homes, outages (§5, §5.5, §7, §9, Storm Season, FAQ)
+- Query: `Build It Back Staten Island homes elevated number raised homes after Sandy` · Firecrawl search + Firecrawl scrape https://www.nyc.gov/site/housingrecovery/disaster-recovery/single-family-program.page — "Repair with Elevation: If the home was substantially damaged by Hurricane Sandy, Build It Back completed any remaining repairs and also raised the home to comply with flood elevation standards." "…over 110 attached homes that were elevated or reconstructed by the program." → §5 para 5, §7 post-Sandy card, Storm Season para 1. (Citywide figure; page does not claim it is Staten Island only.)
+- Firecrawl scrape https://www.pbs.org/newshour/show/sandy-battered-homeowners-take-buyouts-rather-rebuild (Oct 31, 2015) — "In Staten Island … 24 people died from the storm, and more than 2,100 homes were destroyed"; "the state is planning to spend $200 million to buyout 500 homes mostly in three Staten Island neighborhoods." → §5 para 5, §5.5 stat 5.
+- Query: `Staten Island Con Edison power outages customers storm 2025 OR 2026 silive` · Firecrawl search → https://www.silive.com/news/2026/09/con-ed-gives-updates-on-more-than-1600-storm-related-staten-island-power-outages.html — nor'easter; "a total of 1,663 Staten Island customers had reported outages as of Saturday morning … 111 still out". https://www.silive.com/news/2026/09/more-than-400-without-power-on-staten-island-heres-where-and-how-to-prepare.html — 431 outages; hardest hit Midland Beach (112) and Grasmere (69). → §5 para 5, §5.5 stat 6, Storm Season para 3.
+- Other results seen, not used: https://www.thecityreporter.nyc/2022/05/18/three-houses-a-staten-island-study-post-hurricane-sandy/; https://www.liro.com/projects/build-it-back-program/; https://nysfocus.com/2022/10/29/hurricane-sandy-oakwood-beach-buyout.
+
+### 9. Commercial corridors (§8)
+- Query: `New Dorp Lane business improvement district 180 businesses silive` · Firecrawl search → https://www.silive.com/news/2017/04/new_dorp_business_improvement.html — "The New Dorp BID includes a diverse group of 180 businesses and 146 properties in a mile-long stretch along New Dorp Lane, from Hylan Boulevard…" → §8 New Dorp Lane card.
+- Query: `Forest Avenue West Brighton bars pubs silive history` · Firecrawl search → https://www.silive.com/opinion/j66j-2020/03/0745731bf1139/remember-these-great-forest-avenue-and-west-brighton-bars-from-back-in-the-day-.html (excerpt: "Forest Ave. has been home to a number of saloons over the years"); https://www.sichamber.com/news/jodys-club-forest-celebrates-50-years-of-food-family-and-community (excerpt: born June 1, 1976). → §8 Forest Avenue card (business not named on page).
+- Query: `Bay Street Corridor rezoning Staten Island St. George Tompkinsville Stapleton nyc planning` · Firecrawl search → https://www.mas.org/news/bay-street-corridor-rezoning-shows-opportunities-and-challenges/ — "20-block, 45-acre area in Staten Island's Tompkinsville, Stapleton, and St. George"; "incremental increase of 2,560 housing units". NY4P PDF: area "the most diverse and dense in the borough". → §8 Bay Street card, Across the Island apartments para.
+- Query: `Hylan Boulevard longest street New York City miles Staten Island` · Firecrawl search → https://en.wikipedia.org/wiki/Hylan_Boulevard — "approximately 14 miles (23 km) long, and runs from the North Shore neighborhood of Rosebank, then along the entire East Shore, to the South Shore". → §8 Hylan Boulevard card.
+- Richmond Avenue / Staten Island Mall — see landmarks. Arden Heights corridors — see DeFalco above.
+
+### 10. Codes / compliance (§8.5, §9)
+- ADA 2010 Standards §307.2 (27–80 in, 4 in max) — reused from silo research (LI entry, meyerfire.com quote). → §8.5.
+- NYC DEP Noise Code guide commercial music 42 dB inside residence / 7 dB over ambient 10 PM–7 AM, bass treated separately — reused from silo research (NYC entry, https://www.nyc.gov/assets/dep/downloads/pdf/air/noise/noise-code-guide-summary.pdf). → §8.5.
+- NEC 400.12 (flexible cords not through walls) — from research/tv-mounting-prices/staten-island.json compliance block; not re-fetched. → §8.5 (code section number NOT printed on page).
+- Query: `NYC DCWP home improvement contractor license required who needs license residential` · Firecrawl search → https://www.nyc.gov/site/dca/businesses/license-checklist-home-improvement-contractor.page — "A person or business must have a Home Improvement Contractor license to do construction, repair, remodeling, or other home improvement work to any residential land or building in New York City." **NOT used on page** — whether AESS holds a DCWP HIC licence (or whether soundbar mounting falls under it) is unknown. **Flag for Anwar.**
+
+### 11. Local news / hyperlocal — SILive (Staten Island Advance) items above; no soundbar-specific Staten Island news found. EMPTY for the service category.
+### 12. Bing & DuckDuckGo — EMPTY (not accessible in build env)
+### 13. Yelp 1–3★ — EMPTY (not accessible in build env); search returned only listing pages (Airtasker/Bark/TaskRabbit/HomeAdvisor), no review text.
+
+### Pricing used (no new prices — all from research/tv-mounting-prices/BRIEF.md and live tv-mounting-prices-staten-island.html)
+Soundbar placed $79 · wall-mounted $129 · Sanus soundbar bracket $84.99 · in-wall concealment kit $169 · paintable cord cover $59 · cable run ≤25 ft $99 · Sonos $125 · A/V receiver $129 · universal remote $99 · streaming device/console $49 · full home theater $350 · walls metal +$30 / plaster +$45 / brick-stone +$65 / concrete-block +$75 / tile-marble +$95 · backer board $85 · high mount $75 · box removal $25 · COI free · Staten Island TV base $209.99 (32–55") with size adds +$30/+$60/+$100 · above fireplace +$130 · pull-down fireplace mount +$160 · TV on stand $137.99 (SI) · setup-only $225 first hour (SI) then 30-min blocks · $150 return trip · free reschedule with 24 h notice. Derived totals on page: $213.99 (129+84.99), $204 (129+75), $288.99 (129+84.99+75), $507.99 (129+84.99+169+125), $453.98 (209.99+30+129+84.99). Blueprint §9 multiplier for Staten Island (1.10) is already embedded in the SI TV base/hourly figures; soundbar add-ons are flat across areas on the live price pages.
+
+### Images
+Drive folder empty / CompanyCam not connected (per batch brief) → permanent image rule: 11 copied from images/low-voltage/ to images/soundbar-installation/soundbar-installation-staten-island-*.webp (WebP q80, ≤1600 px). Two were cropped to remove the AESS phone number printed on shirts (tv-wall-soundbar-on-console, tone-tracer-at-wall-plate). Log line for DAILY-LOG: `images: 11 reused from images/low-voltage/ (no real Soundbar Installation photos yet)`.
+
+## Question register — soundbar-installation-staten-island
+Q&A (§9 YOUR QUESTIONS ANSWERED, H3 questions):
+1. Should the soundbar go on the wall we share with the townhouse next door, or on the opposite wall?
+2. Our townhouse association maintains the outside — can a cable run outdoors to a TV on the deck?
+3. Our fireplace is faced with stone veneer — can a soundbar bracket hold in it?
+4. (removed from page at ship — overlapped Suffolk paneling-over-block question; size trim) The back wall of our hi-ranch den is cinder block — what holds in hollow block?
+5. Our basement took water in Sandy — should any part of the system sit on the floor?
+6. Will the up-firing Atmos speakers work under a basement drop ceiling?
+7. The kids game in the basement — will running the console through the soundbar add lag?
+8. Our new soundbar is taller than the gap under the TV on its stand — what are the options?
+9. Does a soundbar need the internet at all to play the TV's sound?
+10. Every time someone switches the TV input, the soundbar goes silent — can that be fixed for good?
+11. We have an old surround receiver and five speakers in the basement — keep them or replace them with a soundbar?
+12. Can a waiting-room soundbar be locked so the volume can't be turned up too far?
+(Non-question H3 topics in §9, deliberately not phrased as questions to avoid overlapping Suffolk/Nassau drafts: "Wood paneling in the basement: what we find behind it"; "Finishing a basement? Plan the TV wall before the drywall"; "Projectors and soundbars in a basement theatre"; "Bars with several screens on different games".)
+
+FAQ (§17 accordion = FAQPage schema, 7):
+1. What does a soundbar on a hi-ranch den's block wall cost?
+2. The soundbar arrived without a wall bracket. Can you supply one?
+3. Can I book the soundbar now and have the TV mounted later?
+4. Can you run the wires inside the walls of a house that was raised or rebuilt after Sandy?
+5. Where does the soundbar go if the TV is on a pull-down mount over the fireplace?
+6. Can the old soundbar we are replacing go on the basement TV during the same visit?
+7. Can a soundbar of another brand run with our TV? (renamed at ship — Rockland page shipped first with the same-brand question)
+
+Other question-form headings (CTA / repair capture): "Soundbar Acting Up on Staten Island?", "Want the Number for Your Wall?", "Soundbar Gone Quiet? Need It Sorted on Staten Island?"
+
+De-dup notes: checked against the NYC/LI/HV registers and against the Nassau and Suffolk drafts on disk (~mid-build). Dropped from this page because Nassau/Suffolk drafts held the intent: toll/travel charge FAQ (Nassau/Suffolk travel FAQs), setup-only visit price FAQ, TV-on-stand FAQ, selling-the-house bracket Q, basement pre-wire Q (Suffolk Manorville), projector Q (Suffolk), multi-screen bar Q (Suffolk Bay Shore), paneling Q (Suffolk paneling-over-block), Wi-Fi/network Q (Nassau four rooms). Toll/travel and setup-only rate remain stated in body copy, not as questions. Remaining partial overlaps for the main run to judge: block-wall anchoring (SI hi-ranch den Q4 vs Suffolk paneling-over-block); waiting-room volume lock (SI) vs Nassau "dental waiting rooms" FAQ; Sandy basement floor (SI) vs Nassau "enclosed area under raised house".
+
+
+<!-- merged from batch build nassau-county -->
+
+To be merged by the main run into research/soundbar-installation.md. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts); "Firecrawl scrape" = mcp__Firecrawl__firecrawl_scrape (query mode, direct quotes). Silo-wide sources (PAA, PASF, ATP, AI Overview substitutes, product specs) are reused from the hub entries already in research/soundbar-installation.md and are cited there.
+
+Page thesis (distinct from the LI hub): Nassau's housing was mostly built around 1955 and has been altered ever since (dormers, additions, opened plans, basement units, post-Sandy lifts), so the soundbar job is about reading a renovated wall; plus shared-wall living (two-families, Great Neck/Long Beach co-ops, new TOD apartments) and a 64-village approvals patchwork. LI hub thesis (great rooms, fireplaces, basements, patios, summer houses) deliberately avoided.
+
+## Nassau County
+
+### Source matrix
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | Excerpts only (Firecrawl search). `reddit longisland soundbar OR "sound bar" mount TV Nassau` → no r/longisland soundbar threads returned (only AESS pages, Facebook groups, retailers). `Great Neck Plaza co-op apartment buildings number of co-ops village` → https://www.reddit.com/r/longisland/comments/1snz0yl/hows_the_coop_in_great_neck/ excerpt "There are many co-ops in Great Neck Plaza so you'd have to specify which building(s)" → corroborates §7 co-op card (no quote used). Earlier Nassau TV research (research/tv-mounting-prices/nassau-county.json research_notes) recorded r/longisland 19cr3bk excerpts; not re-used verbatim. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — substituted with published cost-guide/marketplace claims (see §10.5 rows below) |
+| 6/7 | Landmarks, building stock | see rows below |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Long Beach Herald, News 12 LI, CBS New York, LIBN, Long Island Press — rows below |
+| 10 | Hyperlocal | Long Beach Herald (LI Herald community papers) — row below; Patch not re-fetched this run |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env). A Yelp search-listing excerpt for Long Beach bars appeared in a Firecrawl result; no review text used. |
+
+### Building stock / stats (§5, §5.5, §7)
+- `Levittown 1950 ranch built-in Admiral television living room wall` · Firecrawl search · https://nyheritage.contentdm.oclc.org/digital/collection/p15281coll37/id/33/ · excerpt "The 1950 models included a carport and a twelve and a half inch Admiral TV set built into the staircase." · §5 para 1, §5.5 bullet 2, history section "From a Built-In Admiral…".
+- (direct) https://omeka.hofstra.edu/exhibits/show/levittown--the-birthplace-of-s/the-levitt-home · Firecrawl scrape · "The house was built atop a concrete slab with embedded heating pipes instead of a costlier excavated basement." / "the subsequent 1950 and 1951 models were similar in design, but included new features such as a built-in television set." · §5.5 bullet 2, history section. (WebFetch of the same URL was blocked: PROVENANCE_REQUIRED.)
+- `Nassau County housing year built median 1950s census percent homes built before 1960` · Firecrawl search → https://www.point2homes.com/US/Neighborhood/NY/Nassau-County-Demographics.html · Firecrawl scrape · "In Nassau County, the median construction year is 1955"; table: 1939 or earlier 19.2%, 1940–49 13%, 1950–59 162,333 (33.9%), 2000–09 3.3%, 2010–19 3.2%, 2020+ 0.8% · §5 para 2 ("fewer than one home in thirteen since 2000" = 7.3%), §5.5 bullet 1. (Secondary aggregator of Census data — flag for review.)
+- `Nassau County "64 incorporated villages" two cities three towns` · Firecrawl search · https://www.ny.gov/counties/nassau ("Two cities, three towns, 64 incorporated villages, and more than 60 unincorporated hamlets"); https://nassauida.org/all-local-municipality-websites (same); https://www.nassaucountyny.gov/3406/Cities-Towns-Villages (excerpt "Within the three towns reside the 64 Incorporated Villages") · §5 para 5, §5.5 bullet 3, villages section, FAQ 5. Village names Saddle Rock, Cove Neck from the NY.gov list. (Firecrawl scrape of nassaucountyny.gov returned an empty answer; WebFetch blocked.)
+- `Great Neck Plaza co-op apartment buildings number of co-ops village` · Firecrawl search → https://cooperatornews.com/article/building-community-and-value · Firecrawl scrape · "It also features more than 100 co-ops and condos spread over just 1.4 square miles. In Great Neck Plaza, one of the Great Neck's nine incorporated villages, there are more than 60 condos in less than a third of a square mile." · §5 para 4, §5.5 bullet 4, two-family/co-op section.
+- `Long Beach NY homes elevated after Sandy FEMA raise houses flood zone` · WebSearch → https://liherald.com/stories/long-beach-homeowners-struggle-to-pay-for-house-raising,47188 · Firecrawl scrape · "FEMA conducted 2,755 post-storm home inspections in Long Beach, and determined that 860 homes were 'substantially' — more than 50 percent — damaged, and would have to be raised or demolished, according to Building Commissioner Scott Kemins." / raising costs "around $75,000" on average · §5 para 4, §5.5 bullet 5, raised-house checklist. (Article date not captured by scrape.)
+- (direct) https://longisland.news12.com/2026/08/06/think-the-basement-apartment-is-legal-on-li-it-depends-on-your-town/4ZiHD1qIMDcQ0gkW78Uflk · Firecrawl scrape · "Legal basement apartments are permitted in the towns of Hempstead, Brookhaven, Islip, Shelter Island and Southampton, provided they meet local code requirements and have the proper permits. Several other towns — including Oyster Bay, North Hempstead … — do not allow new legal basement apartments." · §5.5 bullet 6, Q&A basement-apartment answer, two-family section.
+- `Mineola transit-oriented apartment buildings near LIRR station new rental units Newsday OR Herald` · Firecrawl search → https://libn.com/2023/08/01/85m-transit-oriented-development-advances-in-mineola/ excerpt "will bring 119 apartments in an eight-story building to a .64-acre site across from the Mineola Long Island [Rail Road station]" · two-family/co-op section (worded "advancing", per headline).
+- Garden City founded 1869 by A.T. Stewart — carried from research/tv-mounting-prices/nassau-county.json sources (https://en.wikipedia.org/wiki/Garden_City,_New_York), not re-fetched · §7 village card.
+- Levittown ranch 12x19 living room — from silo LI-hub entry (https://en.wikipedia.org/wiki/Levittown,_New_York) · §10 compact-bars card.
+
+### Permits / licensing / codes (§8.5, villages section, AI check, FAQ)
+- `Village of Garden City building permit required work list residents` · WebSearch → https://gardencityny.net/DocumentCenter/View/233/Minor-Building-Permit-Application-PDF · Firecrawl scrape (PDF) · minor permit "for Fences, Pool, Driveway, replacement windows, accessory structures", $150 flat residential-minor fee; requirements list "Permit Applications from licensed plumber, electrician and/or mechanical contractor" · §8.5 bullet 2, AI check H3 7, villages section (fee not quoted on page).
+- `Nassau County Office of Consumer Affairs home improvement license required contractors residential` · Firecrawl search → https://www.nassaucountyny.gov/1547/Consumer-Affairs excerpt "All Licensed Home Improvement Contractors must be fingerprinted"; https://www.nassaucountyny.gov/1563/Licensing-Registrations (Consumer Affairs issues home improvement licenses) · §8.5 bullet 4, villages section.
+- `FEMA enclosures below lowest floor limited to parking, building access, storage flood openings elevated home` · Firecrawl search → https://flood.nc.gov/NCFLOOD_BUCKET/NFIP/Attached%20Garages%20Fact%20Sheet_October2024.pdf excerpt "An enclosure is an enclosed space used primarily for parking, limited storage, or building access"; https://www.fema.gov/pdf/nfip/manual201105/content/07_lfg.pdf (flood openings/vents in enclosures) · Q&A "enclosed area under a raised house", raised-house checklist. (NC state NFIP fact sheet — NFIP definition; flag for review.)
+- ADA 2010 §307.2 (27–80 in, 4 in) — silo entry (meyerfire.com verification) · §8.5 bullet 1, FAQ 9.
+- Garage/house fire separation and sealing penetrations — builder knowledge of residential code (IRC R302.6), NOT fetched this run · Q&A garage-wall answer (worded generally). Flag for review.
+- Two-prong outlets: removed from Q&A (overlap with Suffolk); mention kept only in checklist as "electrician may need to visit".
+
+### Commercial corridors (§8)
+- `Manhasset Miracle Mile Northern Boulevard shopping district luxury stores` · Firecrawl search → https://en.wikipedia.org/wiki/Americana_Manhasset · Firecrawl scrape · 2060 Northern Blvd; opened 1956; "roughly 220,000 square feet … approximately 1,500 feet in length … anchors a stretch of Northern Boulevard commonly referred to as the 'Miracle Mile'" · §8 card, §13 card.
+- Jericho Turnpike (NY 25) Mineola–Syosset; Merrick Road Freeport–Massapequa; Marcus Ave Lake Success with Northwell leases; Hicksville Broadway $6.2M revitalization (Long Island Press, Dec 16 2024); Rockville Centre downtown — carried from research/tv-mounting-prices/nassau-county.json sources (https://en.wikipedia.org/wiki/Jericho_Turnpike, https://en.wikipedia.org/wiki/Merrick_Road, https://rebusinessonline.com/northwell-health-leases-50000-sf-officeindustrial-space-from-nassimi-realty-in-lake-success-n-y/, https://longislandpress.com/2024/12/16/hicksville-set-to-receive-6-2m-for-downtown-revitalization-initiative, https://longislandpress.com/2023/02/09/watch-super-bowl-long-island-2023), not re-fetched · §8 cards. "Medical and dental offices" on Jericho Tpke is a general description from that earlier research — flag for review.
+- `Long Beach West End bars West Beech Street nightlife` · Firecrawl search → https://www.speakeasylb.com/ (1032 West Beech Street), https://www.themerrowlbny.com/ (West End cocktail bar; Facebook excerpt 916 West Beech Street) · §8 card (no business named on page).
+
+### Landmarks (§13)
+- https://en.wikipedia.org/wiki/Eisenhower_Park · Firecrawl scrape · East Meadow; 930 acres, larger than Central Park; three public 18-hole courses; Harry Chapin Lakeside Theatre; Nassau 9/11 memorial · §13.
+- https://en.wikipedia.org/wiki/Nassau_Veterans_Memorial_Coliseum · Firecrawl scrape · 1255 Hempstead Turnpike, Uniondale; opened Feb 11 1972; on 63 acres of Mitchel Field; renovated 2015–17, reopened 2017; Long Island Nets main tenant · §13.
+- `Cradle of Aviation Museum Garden City Mitchel Field opened 1980 hangars` · Firecrawl search → https://www.cradleofaviation.org/ ("Over 75 air and space craft in 8 exhibit galleries"); https://en.wikipedia.org/wiki/Cradle_of_Aviation_Museum ("located on land once part of Mitchel Air Force Base") · §13.
+- `Old Westbury Gardens Westbury House 1906 Phipps Gold Coast estate` · Firecrawl search → https://www.oldwestburygardens.org/history/ ("one of the few remaining intact country houses and gardens"), Facebook/Substack excerpts: Westbury House completed 1906 for the Phipps family · §7 estates card, §13.
+- `Long Beach boardwalk 2.2 miles rebuilt after Sandy reopened 2013` · Firecrawl search → https://www.cbsnews.com/newyork/news/long-beach-boardwalk-is-back-one-year-after-sandy/ excerpt "brand new $42 million boardwalk nearly a year after the original 2.2-mile walkway was completely [destroyed]" · §13.
+- Americana Manhasset as above · §13.
+
+### §10.5 AI Overview reality-check claims (published claims, Nassau-specific ones fetched this run)
+- https://www.taskrabbit.com/locations/hempstead/wall-mount-tv · Firecrawl scrape · "TV mounting in Hempstead starts at $45 per hour and will vary from Tasker to Tasker." · H3 2.
+- https://www.thumbtack.com/ny/massapequa-park/tv-wall-mount-install · Firecrawl scrape · national average "$100 and $130"; "TV wall mount with wires hidden inside wall: $139"; "TV wall mount over fireplace with wires hidden: $179-$249" · H3 3.
+- Homewyse $58.43–$231 per soundbar; Angi concealed wiring $75–$300; Crutchfield HW-Q990D 17 lb; Sanus SASB1 up to 20 lb; Sonos Arc Ultra guide 4 in / 1 ft clearances; AWOL Vision ARC vs eARC — all from existing silo entries (NYC/LI/HV hub notes) · H3 1, 3, 4, 5, 6.
+
+### Pricing used (no new prices)
+research/tv-mounting-prices/BRIEF.md verified list + live tv-mounting-prices-nassau-county.html: soundbar placed $79 / wall-mounted $129; Sanus soundbar bracket $84.99; in-wall concealment $169; cord cover $59; cable run ≤25 ft $99; Sonos/wireless surround $125; A/V receiver $129; full home theater $350; universal remote $99; streaming $49; walls +$30/+$45/+$65/+$75/+$95; backer $85; high mount $75; walk-up $40; take down old TV $85; remove old bracket $45; haul-away $79; box removal $25; Frame/art TV not used after edit; COI free; Nassau TV base $209.99; Nassau TV on stand $137.99; Nassau setup-only $225 first hour then 30-min blocks; $150 return trip; free reschedule 24 h; no parking/travel charge in Nassau (tv-mounting-prices-nassau-county.html FAQ). Worked examples and packages are sums of these lines only.
+Note for review: legacy tv-installation-nassau-county.html still shows older figures ("soundbar $75", "cable concealment $95", "outlet installation behind TV $150") that conflict with the verified list.
+
+### Images
+Drive folder empty, CompanyCam not connected (per batch brief). 11 photos copied from images/low-voltage/ (permanent image rule), converted to WebP q80, renamed soundbar-installation-nassau-county-*.webp; each viewed before use; photos with phone numbers printed on shirts/van or clearly visible faces were rejected (stud-rough-in, van, recessed-box, ceiling-speaker-conference/install, retail pull, rack-switch, AP lift, exterior enclosure, riser conduit, school corridor, tone generator).
+
+## Question register — soundbar-installation-nassau-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3)
+1. The TV wall in our expanded Cape used to be the outside of the house — what changes when we mount on it?
+2. A forced-air register or a baseboard radiator sits right under the TV — is that a problem for the soundbar?
+3. A doorway on the TV wall was closed up years ago — can the bracket go over that patch?
+4. The wall behind the TV backs onto the attached garage — can the cables go through it?
+5. Our ranch faces a long picture window across from the TV — why does the sound seem harsh, and what helps?
+6. I rent a basement apartment in a house — can a soundbar be mounted on the foundation wall?
+7. Our Long Beach oceanfront apartment has concrete walls and ceilings — how does the cable get from the TV to the cabinet?
+8. Our Long Beach house was lifted after Sandy — does the extra flight of stairs change the job?
+9. Can a TV and soundbar go in the enclosed area under a raised house?
+10. How do you add a soundbar in a paneled library or a room with original millwork?
+11. Can soundbars in four different rooms play the same music at once when we have people over?
+12. Can a household member's hearing aids get the TV sound while everyone else hears the soundbar?
+13. Our back porch was closed in and became the TV room — what's different about a soundbar there?
+14. The previous owners left speaker wire coming out of the walls and ceiling — can we use it with a new soundbar system?
+
+### §17 FAQ (visible == FAQPage)
+1. What would a Levittown or Garden City household pay for a wall-mounted soundbar with the wires hidden?
+2. We're moving within Nassau — can you take the soundbar down at the old house and put it up at the new one?
+3. Can you come the same day an electrician adds the outlet behind the TV?
+4. Our TV is mounted across a corner — where does the soundbar go?
+5. Do you work in the incorporated villages as well as the unincorporated hamlets?
+6. Will you take the old TV away when the new one goes up?
+7. Can a turntable or an old stereo be connected to a new soundbar?
+8. Does the certificate of insurance our co-op or HOA wants cost extra?
+9. How high must a TV and soundbar go in a waiting room to stay clear of the ADA projection rule?
+10. Does doing several rooms in one visit cost less per room?
+
+### Other question-form headings
+- H2 "Need a Soundbar Fixed in Nassau County Today?" (repair capture)
+- H2 "Lost the Sound Halfway Through the Game?" (final repair capture)
+
+### De-dup notes (checked 2026-10-17 against NYC/LI/HV registers and the on-disk Suffolk and Staten Island drafts)
+Dropped/replaced during build because a parallel or hub page held the intent: travel/parking charge (SI, Suffolk); setup-only visit price (SI, Suffolk); TV on stand with bar, no wall (SI); Samsung Frame + soundbar (Suffolk One Connect); business/waiting-room "do you install" (SI) → reframed to ADA height; dormer knee-wall bedroom (Suffolk); two-prong outlets (Suffolk); which wall in a shared-wall apartment (SI townhouse); Wi-Fi vs wired for multi-room (SI, Suffolk) → reframed to multiroom grouping; selling the house — bracket stays? (SI); warranty FAQ (NYC). Remaining partial overlaps for the main run to judge: basement-apartment foundation wall (tenant-permission focus) vs SI cinder-block hi-ranch den (anchoring focus); paneled library (preserving millwork) vs SI/Suffolk paneling-over-block (holding power); cost FAQ exists on every page.
+
+
+<!-- merged from batch build suffolk-county -->
+
+For merge into research/soundbar-installation.md. Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Unreachable sources = `EMPTY (not accessible in build env)`. Search-result excerpts are labelled as excerpts. "Firecrawl search" = mcp__Firecrawl__firecrawl_search (excerpts unless stated). Nothing below was inferred to fill a gap.
+
+Page thesis (distinct from the LI hub): Suffolk as three ways of living with one soundbar — year-round west/mid-Suffolk houses (split-level/high-ranch dens, capes, colonials), part-time and rental houses on the East End and North Fork (guest-proof setup, caretakers, town rental and noise rules), and working rooms (Hauppauge/Route 110 offices, village bars, Route 25 tasting rooms). Plus distance (one price list to Orient/Montauk), older North Fork wiring (ungrounded outlets, beadboard) and storm outages.
+
+## Suffolk County
+
+### Silo-wide sources (Reddit / PAA / PASF / ATP / AI Overview / Bing / Yelp)
+- Google PAA — EMPTY (not accessible in build env).
+- Google PASF — EMPTY (not accessible in build env).
+- Answer the Public — EMPTY (not accessible in build env).
+- Google AI Overview — EMPTY (not accessible in build env). §10.5 uses published cost-guide claims instead: Homewyse national $58.43–$231 per soundbar (silo research, NYC hub entry, https://www.homewyse.com/maintenance_costs/cost_to_install_soundbar.html) → §10.5 H3 1.
+- Bing & DuckDuckGo — EMPTY (not accessible in build env).
+- Yelp 1–3★ — EMPTY (not accessible in build env).
+- Reddit: WebFetch of https://www.reddit.com/r/AskElectricians/comments/1x4hdsr/electricians_best_codecompliant_way_to_run_power/ → blocked ("PROVENANCE_REQUIRED", not answered). Thread itself EMPTY (not accessible in build env); the finding (Suffolk split-level owner asking the code-compliant way to run TV power behind beadboard) is taken from research/tv-mounting-prices/suffolk-county.json research_notes.reddit, which recorded the search excerpt. → Q&A "Beadboard wainscot…" (§9).
+- Query: `reddit r/longisland TV mount soundbar wires hide Suffolk` · Firecrawl search:
+  - https://www.reddit.com/r/longisland/comments/1tymcwg/anyone_in_suffolk_using_an_ota_antenna/ — excerpt: "None of the attic antennas worked for anything beyond CBS. It's mounted on the roof and I have clear line of sight to the Empire State Building." → §9 Q "We cut the cable and use an antenna…".
+  - https://www.reddit.com/r/longisland/comments/1i55d14/cable_alternatives/ — excerpt: monthly cable bills "crazy (Verizon)", looking at alternatives → context for the antenna/streaming Q (not quoted).
+  - https://www.reddit.com/r/longisland/comments/19cr3bk/tv_mounting/ — excerpt: mounting with no outlet moves "super simple to do on your own" → context only, not used.
+- Query: `reddit hamptons rental house TV remote guests soundbar setup Airbnb` · Firecrawl search:
+  - https://www.reddit.com/r/AirBnBHosts/comments/1pur722/guests_messing_with_smart_tvs/ — excerpt: "My TV has a code you can enter in the remote… to reset to factory settings. Google if your TV has that as well." → §9 Q "Our Hamptons house rents by the fortnight…" (paraphrased, attributed to hosts on Reddit).
+  - https://www.ownerrez.com/guides/smart-tv-setup-vacation-rental-tips — excerpt: "consider labeling each remote or simply give guests access to the most useful one" → "Setting Up a Soundbar in a Suffolk Rental House" section.
+  - https://www.reddit.com/r/longisland/comments/1n1hjpp/southampton_bans_shortterm_rentals_in_move_that/ — title only ("Southampton bans short-term rentals…"); NOT used — superseded by the town's own FAQ below.
+  - r/hamptons for soundbar/TV threads — EMPTY (no result returned).
+
+### Rental rules (East End)
+- Query: `Southampton Town short-term rental law 2025 minimum stay change 27east` · Firecrawl search → https://www.southamptontownny.gov/faq.aspx?TID=75 (excerpt): "The minimum length of stay under the Southampton Town Code is currently a 14-day rental. Less than that is considered a transient rental." Also https://www.27east.com/southampton-press/news/government-news/article_6ca28de0-a477-501e-91e1-8d95e68b0578.html (excerpt: town "typically prohibits the renting of any home for a period shorter than 14 days"). → §5.5 facts, thesis section, §9 rental Qs, rental-house section.
+- Query: `Southampton Town rental permit chapter 270 rental property permit required inspection` · WebSearch → https://www.southamptontownny.gov/DocumentCenter/View/500/Rental-Permit-Application-2-YR-PDF · WebFetch: Chapter 270 (Rental Properties); permit renewed every two years; standard fee $400 (2-year); safety inspection by Chief Building Inspector/designee/code officer, or certification by licensed architect/engineer. → thesis section, rental-house section (fee not shown on page).
+- Query: `East Hampton Town rental registry law requirements` · WebSearch → https://www.easthamptonstar.com/archive/rental-registry-ins-and-outs · WebFetch (East Hampton Star, Dec 31, 2015): registry adopted Dec 2015; $100 fee, valid two years; enforcement from May 1; notarized inspection checklist. → thesis section, rental-house section ("East Hampton runs/keeps a rental registry" only; fee not stated on page because it may have changed).
+
+### Outdoor sound rules
+- Query: `Southampton Town noise ordinance amplified sound hours residential code` · WebSearch → https://ecode360.com/8696771 and https://ecode360.com/8696730 · WebFetch: Town of Southampton Chapter 235 (Noise). §235-2A: use of amplifiers/speakers "on the exterior of any premises, dwelling or building within the Town shall be considered noise pollution" (except §235-4). §235-4A(17): exemption for amplified sound within the §235-3 standard, "inclusive of small outdoor speakers, between 7:00 a.m. through 7:00 p.m." §235-3A residential at/beyond lot line: 65 dBA 7am–7pm, 50 dBA 7pm–7am; §235-3B commercial: 70 dBA / 55 dBA. §235-1: plainly audible at 50 feet = interference. → §8.5 compliance, thesis section, §9 Q "Is a soundbar on the patio of a Southampton rental allowed…", §10.5 H3 6, seasonal calendar, venue section.
+
+### Power and storms
+- Query: `PSEG Long Island Isaias outage customers Suffolk 2020` · WebSearch → https://riverheadlocal.com/2020/08/09/isaias-wallops-long-island · WebFetch: "more than 420,000 customers without electricity" (PSEG LI, Long Island-wide); "over 2,600 customers" in Riverhead. Date inferred from URL (Aug 9, 2020). → §5 para 4, §5.5, §10.5 H3 5, storms section.
+- Query: `APC OR Tripp Lite surge protector "ungrounded" outlet "will not" protect wiring fault indicator` · WebSearch → https://community.se.com/t5/APC-UPS-for-Home-and-Office-Forum/Does-surge-protector-need-a-grounded-outlet-in-order-to-work/td-p/329794 · WebFetch: community reply "these should be connected to a properly grounded outlet to function 100%" (responder not identified as APC staff — page says "a reply on Schneider Electric's APC community forum"). → §9 Q two-prong outlets, §10.5 H3 5, storms section.
+- Query: `two-prong ungrounded outlets older homes surge protector won't work without ground` · WebSearch → https://www.estesair.com/blog/do-surge-protectors-work-on-ungrounded-outlets (WebFetch: protectors divert surge "to the ground"; work well "when properly installed and grounded") → background only.
+
+### Building stock and places
+- North Fork historic houses — Query: `Southold North Fork historic farmhouses 18th 19th century architecture Town of Southold historic` · WebSearch → https://archive.northforker.com/2018/05/10-historic-destinations-to-check-out-on-the-north-fork/ · WebFetch: The Old House, Cutchogue, believed c.1649, NHL 1962; Horton Point Lighthouse commissioned 1790, built 1857; Orient Village House 1789; Havens House (Shelter Island) 1743. → §13 landmarks (Old House, Horton Point); §7 "North Fork farmhouses" card (described generally; no stat).
+- Split-level/high-ranch prevalence in Brookhaven: Query `Suffolk County split-level high ranch homes Brookhaven Selden Centereach 1960s 1970s built` · WebSearch → listing/aggregator pages only. No prevalence statistic found → **no statistic claimed**; house-type descriptions from research/tv-mounting-prices/suffolk-county.json "buildings" (Brookhaven split-levels and high ranches, paneling over furring/block) as already published on tv-mounting-prices-suffolk-county.html.
+- Station Yards / Ronkonkoma Hub — Query: `Ronkonkoma Hub apartments construction Brookhaven transit-oriented development units Newsday` · Firecrawl search → https://www.newsday.com/long-island/towns/station-yards-project-brookhaven-n0lrgguk (excerpt: "$1.2 billion project is being built in phases on 53 acres stretching from Ronkonkoma Avenue east to Mill Road. The first, a 489-unit…"); https://www.newsday.com/news/brookhaven-town-board-greenlights-ronkonkoma-hub-proposal-x78553 (excerpt: up to 1,450 apartments and 545,000 sq ft retail and office). → §5.5, §7 card, §8 card, access section.
+- Census QuickFacts Suffolk (https://www.census.gov/quickfacts/fact/table/suffolkcountynewyork/PST045224): 911.17 sq mi land; 1,546,090 (July 1, 2025) — values as recorded in the silo file (LI hub entry) and suffolk-county.json why_facts. → §5 para 3, §5.5, §10.5 H3 2.
+- 27east 2010 Census vacancy: https://www.27east.com/east-hampton-press/article_610622df-48d8-5b94-808f-bc8666d4c52f.html — "nearly half of all houses in Southampton Town were marked vacant" (from suffolk-county.json why_facts; not re-fetched) → §5.5.
+- Hauppauge Industrial Park ~1,300 companies: https://rpa.org/work/reports/hauppauge-industrial-park-economic-opportunity-analysis (from suffolk-county.json; not re-fetched) → §5.5, §8 card.
+- 82 Long Island wineries, mostly North Fork on Route 25/48: https://www.discoverlongisland.com/food-drink/wineries-vineyards/ (from suffolk-county.json; not re-fetched) → §5.5.
+- Bay Shore Main Street: https://www.newsday.com/lifestyle/restaurants/best-restaurants-bay-shore-mko7ebas (suffolk-county.json corridors: "Newsday calls downtown Bay Shore a model of a revitalized South Shore town") → §8 card.
+- Suffolk master electricians licensed under County Code Article XI (Consumer Affairs): https://ecode360.com/14948079 and https://www.suffolkcountyny.gov/Departments/Consumer-Affairs/Type-of-License (suffolk-county.json compliance; not re-fetched) → §8.5.
+- ADA 2010 §307.2 (27–80 in, 4 in) — silo file LI hub entry (meyerfire quote) → §8.5, §9 Hauppauge Q.
+
+### Landmarks (§13)
+- Query: `Heckscher Park Huntington 18 acres Heckscher Museum of Art` · Firecrawl search → https://huntingtonny.gov/heckscher-park (full text in result): Prime Avenue and Route 25A; 18 acres; gift of August and Nannie Heckscher; passed to the town 1954; Chapin Rainbow Stage; Summer Arts Festival first presented 1966. → §13.
+- Query: `Vanderbilt Museum Centerport Eagle's Nest estate acres planetarium` · Firecrawl search → https://www.vanderbiltmuseum.org/about-us/ : Eagle's Nest, 43 acres, Centerport; 147-seat Reichert Planetarium. → §13.
+- Query: `Fire Island Lighthouse height built 1858 NPS` · Firecrawl search → https://www.nps.gov/fiis/planyourvisit/fireislandlighthouse.htm (excerpt: completed 1858 … 168 feet) and https://en.wikipedia.org/wiki/Fire_Island_Lighthouse (height 168 ft). → §13.
+- Query: `Big Duck Flanders built 1931 National Register Suffolk County Parks` · Firecrawl search → https://en.wikipedia.org/wiki/Big_Duck (20-foot ferrocement building, built 1931); https://suffolkcountyny.gov/Departments/Parks/Historic-Sites/The-Big-Duck (listed on the National Register); Facebook excerpt: built by duck farmer Martin Maurer as a shop. → §13.
+- Old House (Cutchogue) and Horton Point Lighthouse (Southold): northforker 2018 above. → §13.
+
+### Product / technical sources used on this page
+- Query: `Samsung The Frame One Connect box HDMI eARC port soundbar connect` · WebSearch → https://help.framemytv.com/how-to-connect-a-sonos-arc-to-samsung-frame-tv · WebFetch: "Using the HDMI 3 Arc port on the One Connect Box is the method to be used." → §9 Frame Q.
+- Optimum remotes/HDMI ARC (Query `Optimum Suffolk County cable box HDMI audio setting soundbar Altice remote`, Firecrawl search: optimum.net remote page; JustAnswer excerpt re HDMI ARC volume) → background only, not used.
+- Sonos Beam (Gen 2) 25.63 in, 6.35 lb; Ray optical-only; Arc Ultra 4 in below TV / 1 ft ends — silo file (HV/NYC entries). Dolby flat ceiling 7.5–14 ft — silo file (HV entry, dolby.com). → §10, room-by-room section.
+
+### Pricing (approved AESS numbers only)
+research/tv-mounting-prices/BRIEF.md + suffolk-county.json: soundbar placed $79 · wall-mounted $129 · Sanus soundbar bracket $84.99 · in-wall kit $169 · cord cover $59 · cable run ≤25 ft $99 · Sonos/wireless surround $125 · universal remote $99 · streaming device $49 · A/V receiver $129 · full home theater $350 · walls +$30/+$45/+$65/+$75/+$95 · backer $85 · high mount $75 · walk-up $40 · box removal $25 · COI free · Suffolk TV base $229.99 · 56–65" +$30 · above fireplace +$130 · outdoor +$90 · Samsung Frame/art TV +$70 · Suffolk setup-only $250 first hour then 30-min blocks · $150 return trip · free reschedule with 24 h. Soundbar line items are not multiplied by the §9 Suffolk 1.20× (they are flat across areas on the brief and on the live LI hub); the area difference shows only in the TV base and hourly rate. Package/combination totals on the page are sums of these lines.
+
+- City-based installer travel fee: https://nyctvguy.com/tv-mounting-suffolk-county (from suffolk-county.json sources/why_paras: "Some city-based installers price Suffolk by distance from Midtown and warn that a travel fee may apply in the Hamptons"; competitor not named on page) → §5 para 3, §10.5 H3 1.
+
+### Towns table and schema areaServed (added at the main run's request to reach a clear file size)
+- Query: `Suffolk County New York ten towns Babylon Brookhaven East Hampton Huntington Islip Riverhead Shelter Island Smithtown Southampton Southold` · Firecrawl search → https://www.ny.gov/counties/suffolk (full text in result): divided into 10 towns, listed by name; Riverhead is the county seat; incorporated villages by town (Babylon: Amityville, Babylon, Lindenhurst; Brookhaven: Belle Terre, Bellport, Lake Grove, Old Field, Patchogue, Poquott, Port Jefferson, Shoreham; East Hampton: East Hampton, Sag Harbor (shared with Southampton); Huntington: Asharoken, Huntington Bay, Lloyd Harbor, Northport; Islip: Brightwaters, Islandia, Ocean Beach, Saltaire; Riverhead: none; Shelter Island: Dering Harbor; Smithtown: Head of the Harbor, Nissequogue, Village of the Branch; Southampton: North Haven, Quogue, Sagaponack, Southampton, Westhampton Beach, West Hampton Dunes; Southold: Greenport); surrounded by water on three sides, 980 miles of coastline. Cross-checked against https://www.suffolkcountyny.gov/Visiting/Towns-and-Villages (the county list also shows a Village of Mastic Beach, which the state list omits; not used on the page). → new section "Suffolk's Ten Towns and What Each Means for a Soundbar Job"; schema areaServed (10 towns plus hamlets named on the page, and West Islip and East Northport) in both LocalBusiness and Service.
+- The table's right-hand column only repeats things already sourced elsewhere on the page (house types, Station Yards, Southampton rules, Route 25/48 tasting rooms).
+
+### Field Notes
+No real, sourced Suffolk soundbar job story available → written as general practice, labelled as such.
+
+## Question register — soundbar-installation-suffolk-county
+
+### §9 YOUR QUESTIONS ANSWERED (H3, 11)
+1. Our Hamptons house rents by the fortnight — how do we stop tenants from unpairing or resetting the soundbar?
+2. Can the soundbar be checked or fixed while we are in the city and the house is empty?
+3. Who has to be at the house for the installation if we live outside the county?
+4. Is a soundbar on the patio of a Southampton rental allowed under the town noise code at night?
+5. Why does the stud finder show studs every 16 inches on the paneled wall of our Brookhaven split-level den?
+6. Our cape has the TV in an upstairs dormer room with sloped knee walls — where does the soundbar go?
+7. The sofa in our sunroom backs onto a wall of windows — where do the rear speakers go?
+8. Beadboard wainscot covers the lower wall — how does the soundbar cable get down to the outlet?
+9. The router is two floors away from the TV in our big shingle-style house — should the soundbar be wired to the network instead?
+10. We cut the cable and use an antenna plus streaming — does that change how the soundbar is hooked up?
+11. Our Hauppauge training room runs video calls from a laptop — can a soundbar serve as the room speaker?
+
+### §17 FAQ (visible == FAQPage, 6)
+1. Is there a mileage or travel charge to the East End or the North Fork?
+2. What does the Suffolk setup-only rate cover when a soundbar stops working?
+3. Can you mount a soundbar on cedar shingle or other exterior siding under a porch roof?
+4. Can you replace an old soundbar with a new one on the same wall?
+5. Do you install soundbars for a TV in a garage gym or workshop?
+6. Can a soundbar go on a kitchen wall with a tile backsplash?
+
+### Other question-form headings
+- H2 "Soundbar Acting Up in Suffolk County?" (repair capture)
+- H2 "Lost the Sound Before the Weekend Guests Arrive?" (final repair capture)
+
+### De-dup notes (vs silo registers and the Nassau, Staten Island, Manhattan, Brooklyn, Queens and Bronx pages as on disk after the borough pages shipped)
+- Dropped "With six TVs over a Bay Shore bar, should every screen get its own soundbar?" (SI heading "Bars with several screens on different games").
+- Dropped FAQ "Can a soundbar be set up with a projector instead of a TV?" (SI heading "Projectors and soundbars in a basement theatre").
+- Replaced "We are building in Manorville — what should the builder rough in before drywall?" (SI "Finishing a basement? Plan the TV wall before the drywall") with the sunroom rear-speaker Q.
+- Dropped "Our Samsung Frame sends everything through a One Connect box — where does the soundbar's HDMI go?" (Manhattan has the same One Connect intent). Frame pricing remains in the worked-examples table only.
+- Dropped "Our North Fork farmhouse still has two-prong outlets…" (Queens asks the same about a garden co-op). Ungrounded-outlet guidance remains in the AI reality check and the storms section, not as a question.
+- Dropped FAQ "Can a property manager book soundbar installs for several rental houses at once?" (Bronx: landlord booking several apartments). Covered in body ("Working With Caretakers, Property Managers and Associations").
+- Dropped FAQ "Can the soundbar also play music from our phones?" (Queens FAQ asks the same).
+- Reframed the Wi-Fi Q to wired-vs-wireless across distance in a large house (Manhattan/Queens ask about interference from neighbouring networks; Brooklyn about a router in a rented-out unit).
+- Reframed the block-den Q to the stud-finder/furring-strip angle (SI asks how to anchor in hollow block).
+- Borderline, for the main run to judge: sunroom rear speakers vs Nassau "back porch closed in became the TV room"; FAQ setup-only rate vs Bronx "soundbar reconnected to a replacement TV, how is that priced"; Southampton outdoor noise code vs NYC hub/Manhattan city noise-code questions (different jurisdiction, outdoor residential).

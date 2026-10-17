@@ -20,9 +20,9 @@ LIVE | soundbar-installation-manhattan | Soundbar Installation | Manhattan | up 
 LIVE | soundbar-installation-brooklyn | Soundbar Installation | Brooklyn | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE | soundbar-installation-queens | Soundbar Installation | Queens | up /soundbar-installation-nyc | (347) 434-6392 | GBP Bronx
 LIVE | soundbar-installation-bronx | Soundbar Installation | Bronx | up /soundbar-installation-nyc | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-17T05:20Z | soundbar-installation-staten-island | Soundbar Installation | Staten Island | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-17T05:20Z | soundbar-installation-nassau-county | Soundbar Installation | Nassau | up /soundbar-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-10-17T05:20Z | soundbar-installation-suffolk-county | Soundbar Installation | Suffolk | up /soundbar-installation-long-island | (631) 407-2884 | GBP Brooklyn
+LIVE | soundbar-installation-staten-island | Soundbar Installation | Staten Island | up /soundbar-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | soundbar-installation-nassau-county | Soundbar Installation | Nassau | up /soundbar-installation-long-island | (516) 346-5778 | GBP Brooklyn
+LIVE | soundbar-installation-suffolk-county | Soundbar Installation | Suffolk | up /soundbar-installation-long-island | (631) 407-2884 | GBP Brooklyn
 LIVE | soundbar-installation-westchester-county | Soundbar Installation | Westchester | up /soundbar-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE | soundbar-installation-rockland-county | Soundbar Installation | Rockland | up /soundbar-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE | soundbar-installation-orange-county | Soundbar Installation | Orange | up /soundbar-installation-hudson-valley | (845) 640-3835 | GBP Bronx
