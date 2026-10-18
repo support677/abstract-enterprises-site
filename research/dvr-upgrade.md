@@ -717,3 +717,471 @@ FAQ (visible == FAQPage schema):
 Dedupe vs the new dvr-upgrade-brooklyn.html (rewritten in parallel, checked 2026-10-18 ~04:45): replaced six of my first-draft questions whose intent matched Brooklyn's (recorder lock-away, inherited-password takeover, selling-the-house handover, detective clip hand-over, blurry robbery/register clip, flooded-cellar recorder placement) and the pool-privacy question (overlapped Brooklyn's neighbour-garden question). Borderline pairs left for coordinator review: my "detached garage vs house" recorder placement vs Brooklyn "top-floor closet when runs end in the cellar"; my "battery backup runtime in a multi-day PSEG outage / generator" vs Brooklyn "cellar recorder on a battery backup through summer".
 
 Intents deliberately avoided (already on siblings): generic cost-by-area, DVR vs NVR, drive size for 30 days, footage loss on upgrade, internet-drop recording, DVR lifespan, grainy night driveway, coax reuse, remote-viewing risk (generic), multiple app users, two recorders, keep cameras + add 4K.
+
+
+---
+
+<!-- merged from dvr-upgrade-putnam build (2026-10-18) -->
+
+# DVR Upgrade — Putnam County research (part file for merge into research/dvr-upgrade.md)
+
+Page: `/dvr-upgrade-putnam` (REBUILD in place, was crawled-not-indexed) · queue line `REBUILD | dvr-upgrade-putnam | DVR Upgrade | Putnam County, NY | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx`
+Built 2026-10-18. Up-link `/dvr-upgrade-hudson-valley`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). Direct line (845) 640-3835 in body, CTAs, forms' fallback text and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359. Old page's LocalBusiness used `@id #business` + 460 E Fordham Rd — new page uses `#bronx` (blueprint §8).
+
+Format per v2.3 §12.4: **exact query · platform · URL · finding · page+section used**. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`). Shell curl blocked. "Excerpt" = search snippet only. Rows marked **(reused)** come from sourced Putnam research already in this repo (file named) and were not re-fetched this run; the URL is the original source.
+
+Silo-wide research (Reddit R1–R7, retailer claims, Dahua/Hikvision HD-over-coax T1/T2 + Nassau S1, FortiGuard CVE-2024-3721 S1, NY law G1–G5, silo pricing §1.8) reused from `research/dvr-upgrade.md` — not repeated here.
+
+**Thesis (distinct from Brooklyn = cellars/rowhouses/bodegas, Nassau = detached garage/driveway/pool/PSEG, Queens = two-families/co-ops/shops, Staten Island = Sandy/raised houses/shore):** a Putnam system is spread over acres — house, barn, pump house, dock, foot of a long private drive — on rock, wetland and City watershed land, so the coax already laid is the asset. The upgrade keeps it, protects links between buildings on separate electric services (isolation/fiber), rides out multi-day NYSEG/Central Hudson outages (battery + generator gap), suits seasonal/weekend houses (health alerts, long retention), works on weak cell/rural broadband (substreams, data caps), and keeps wildlife/weather from drowning the alerts.
+
+## Putnam County
+
+### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit (r/hudsonvalley, r/Westchester, Putnam) | No DVR-relevant Putnam thread found (also EMPTY in fiber/cat6/smart-lock Putnam runs). EMPTY. |
+| 2–5 | Google PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 states this on-page and uses sourced published claims instead. |
+| 6 | Landmarks | L1–L6 below. |
+| 7 | Use cases / building stock | H1–H5 below. |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env). |
+| 9 | Local news | Daily Voice, NYSEG, WAMC, Highlands Current, PCNR, NYSP, Lohud (rows P*, W*, N*). |
+| 10 | Hyperlocal | Highlands Current, Putnam County News & Recorder, Town of Putnam Valley, Putnam Sheriff. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env). |
+
+### New this run (Firecrawl, 2026-10-18)
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| N1 | `Putnam County NY cell phone dead zones poor cell service Philipstown Putnam Valley cell tower` · Firecrawl search → scrape (directQuote) | https://www.schumer.senate.gov/newsroom/press-releases/schumer-cell-phone-wireless-carriers-are-wrongly-claiming-quality-reception-on-coverage-maps-for-northern-westchester-and-putnam-counties-in-reality-areas-are-often-dead-zones-schumer-calls-for-feds-to-immediately-investigate-deceptive-coverage-maps | Oct 5, 2015: "There are more cell phone dead zones in Northern Westchester and Putnam Counties than post-winter potholes on the West Side Highway…"; deceptive coverage maps; Camp Smith / Goat Trail crashes. | §10.5 H3 1 (quote); §Sources |
+| N2 | same search → scrape (directQuote) | https://highlandscurrent.org/2016/05/27/new-towers-improve-ems-cell-service-putnam-county/ | May 2016: county plan for towers on county-owned property to improve emergency radio coverage, "may also benefit cell phone users aggravated by dead zones"; possible sites Route 9/301 Philipstown, Cold Spring, Putnam Valley, Mahopac, Carmel, Patterson. | §10.5 H3 1; §Sources |
+| N3 | same search (excerpts) | https://www.facebook.com/groups/482893928468383/posts/25482907198040377/ ; https://www.openspaceinstitute.org/news/philipstown-emergency-comms-tower-agreement | FB group excerpt on Putnam Lake dead spots (unverifiable social post); OSI/Philipstown emergency comms tower excerpt. | Not used |
+| N4 | `Putnam County NY ice storm NYSEG outage customers days without power winter storm Carmel Kent Patterson` · Firecrawl search → scrape (directQuote) | https://dailyvoice.com/article/isaias-new-update-these-putnam-county-communities-most-affected-by-power-outages/ | Aug 5, 2020 10:15 a.m.: NYSEG 34,150 of 38,693 Putnam customers out; Central Hudson 3,621 of 5,160; by municipality Carmel 12,717, Kent 5,815, Southeast 5,220, Putnam Valley 5,088, Patterson 4,422, Brewster 818; Central Hudson Philipstown 2,475, Cold Spring 992, Nelsonville 154. | §5 para 4 + §5.5 bullet 5; §10.5 H3 3; Town-by-town (Kent); §Sources |
+| N5 | same search → scrape | https://www.putnamcountyny.gov/county-executive-articles/item/decade-of-storms | Nov 15, 2022 county exec article; scrape returned only the intro (no outage numbers). | Not used |
+| N6 | same search (excerpts) | https://www.facebook.com/PutnamCountyEM/posts/... ; https://patch.com/new-york/southeast/storm-aftermath-power-outages-brewster-southeast | FB: "After the second storm, NYSEG reports that 14,420 customers are currently out" (undated); Patch 2016 estimates. | Not used |
+| N7 | `Putnam County Sheriff burglary seasonal home vacant lake house break-in Mahopac Putnam Valley` · Firecrawl search → scrape (directQuote) | https://putnamsheriff.com/dark-house-check/ | Sheriff's Dark House Check for residents away an extended period: extra patrols, visual exterior inspection for suspicious activity or forced entry, contact homeowner; "does not guarantee protection"; advises locks, light timers, trusted neighbours. | §5 para 3; §9 Q "Dark House Check"; §Sources |
+| N8 | same search (excerpts) | Sheriff FB/Instagram arrest posts; lohud 2015 Putnam Valley burglary; Patch Peekskill | Individual arrests (names) — not used (no named suspects on page). | Not used |
+| N9 | `Putnam County NY private roads road association maintenance plowing Putnam Valley Kent private road` · Firecrawl search | https://www.putnamvalley.gov/keeping-putnam-valley-safe-this-winter-highway-department-update-reminders/ (excerpt: illegal to plow snow into the roadway) | No primary source on number of private roads. | Background only |
+| N10 | `"private road" Putnam Valley OR Kent OR Patterson NY road association dues plowing lake community` · Firecrawl search | https://www.realtor.com/realestateandhomes-detail/23-Brook-St_Putnam-Valley_NY_10579_M38074-21189 ; https://pattersonny.org/TownBoard/TB111809.htm | Listing excerpt: "Road Frontage Type: Private Road. Road Responsibility: Private Maintained Road… Lake Privileges" (Putnam Valley); Patterson Town Board hearing notice posted along a private road. | Background for §9 private-road Q (no statistic claimed; question/answer about permission only) |
+| N11 | `Putnam County Department of Health private wells homes well water testing Putnam County NY` · Firecrawl search | https://www.putnamcountyny.gov/health (excerpt) ; https://health.ny.gov/environmental/water/drinking/privatewellspilot/ | "Homeowners with private wells are responsible for testing their own water"; NYS private-well PFAS pilot accepting Putnam applications. | Background for pump-house Q (page states no well statistic) |
+| N12 | `bear sightings Putnam County NY 2025 2026 Carmel Mahopac Putnam Valley police warn residents bears` · Firecrawl search → scrape (PCNR) | https://www.pcnr.com/articles/bear-alert/ ; https://hudsonvalleycountry.com/bear-sightings-hudson-valley-ny/ (excerpt); https://www.lohud.com/story/news/2017/05/30/bears-sighted-hudson-valley/356477001/ (excerpt) | PCNR May 21/22, 2024: large bear in a Carmel backyard less than half a mile from the historic Putnam Courthouse; DEC urged residents to secure food sources. Carmel PD warning (Daisy Ln, Dixon Rd) and 2017 Mahopac sighting are excerpts. | §9 bear Q; §10.5 H3 4; §Sources (PCNR only) |
+| N13 | `deer motion false alerts security camera night infrared insects spider webs person detection rural` · Firecrawl search | https://support.swann.com/hc/en-us/articles/22392860080409-Preventing-Insects-from-Triggering-Your-Security-Cameras (excerpt) | "When insects fly close to the camera, they can trigger motion detection sensors, leading to false alerts and recordings." Other hits are vendor blogs (not used). | §9 spider Q; §10.5 H3 4; §Sources |
+
+### Reused sourced Putnam research (not re-fetched)
+| # | Source file · original query | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| H1 | research/fiber-optic-installation.md (Putnam) · `Putnam County New York percent of county in New York City watershed reservoirs Croton` | https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf | >240 sq mi; 6 towns + 3 villages; ~3/4 in NYC watershed; >9/10 Hudson Highlands gneiss/granite; forest 66.9% (2011); reservoirs list; commercial along Routes 6, 9, 22, 52 + I-84 at Route 312 and Ludingtonville Rd (smart-lock P15, same PDF) | §5 para 1, §5.5 bullets 1–2, §8 intro |
+| H2 | research/smart-lock-installation.md P1 · `Putnam County New York QuickFacts census housing units owner-occupied` | https://www.census.gov/quickfacts/putnamcountynewyork | 38,713 housing units (2025); owner-occupied 83.8%; mean travel time 39.3 min; broadband 94.8% | §5 para 2, §5.5 bullet 3, §10.5 H3 6 |
+| H3 | research/sonos-installation.md P2 · ACS B25004 (census-gov provider) | https://api.census.gov/data/2023/acs/acs5?get=group(B25004)&ucgid=0500000US36079 | 1,757 seasonal/recreational/occasional-use units of 38,369 | §5 para 2, §5.5 bullet 4 |
+| H4 | research/smart-lock-installation.md P2 / sonos P6 · `Putnam Lake Patterson NY history summer community…` | https://www.historicpatterson.org/Exhibits/ExhPutLake.php | Smadbeck/Home Guardian; Lake Carmel, Lake Peekskill, Putnam Lake from 1928; 11,000 lots mapped at Putnam Lake, 20'×100' for $50; deserted after Labor Day | §5 para 2; §7 bungalow card |
+| H5 | research/soundbar-installation.md · Isaias follow-up | https://dailyvoice.com/article/isaias-outage-update-these-putnam-county-towns-are-most-affected-five-days-after-storm/ | Aug 9, 2020: 1,733 of 38,693 NYSEG Putnam customers still out | §5 para 4, §5.5 bullet 5, §10.5 H3 3 |
+| W1 | research/sonos-installation.md P14 | https://www.nyseg.com/w/brewster-nyseg-continues-restoration-effort-6-pm | Dec 25, 2020: 27,375 Brewster-division customers impacted (Dutchess, Putnam, Westchester); gusts to 71 mph | §5 para 4 |
+| W2 | research/fiber-optic-installation.md (HV) | https://get.earthnetworks.com/hubfs/2021%20State%20Lightning%20Reports/Lightning_Report_NewYork.pdf | Putnam 2020: 75,093 lightning pulses, 35 thunder days | §5.5 bullet 6; §10.5 H3 2 |
+| W3 | research/cat6-repair.md (Putnam) | https://www.wamc.org/hudson-valley-news/2021-03-11/nyseg-is-upgrading-circuits-in-putnam-county | Mar 2021: NYSEG circuit upgrades on Horsepound and Stebbins roads, Carmel, with rock drilling | Town-by-town (Carmel) |
+| W4 | research/cat6-repair.md (Putnam) | https://www.putnamvalley.gov/state-of-emergency-declared-in-the-town-of-putnam-valley-effective-at-4-pm-on-wednesday-july-29-2026/ | State of emergency 4 PM July 29, 2026 for flash flooding; restrictions on Cimarron, Horton Hollow, Canopus Hollow (+others) | Town-by-town (Putnam Valley) |
+| P1 | research/smart-lock-installation.md X3 | https://troopers.ny.gov/news/public-safety-alert-targeted-residential-burglaries-hudson-valley-region | NYSP Jan 29, 2025 alert: targeted residential burglaries in Dutchess/Westchester/Putnam; secure second-floor entry points, don't post absences | §5 para 3 |
+| P2 | research/smart-lock-installation.md P23 | https://highlandscurrent.org/2024/09/10/police-investigating-philipstown-burglaries/ | Sept 2024 break-ins on Old Albany Post Rd and Indian Brook Rd, Philipstown; Sheriff's lock reminder | §5 para 3 |
+| B1 | research/sonos-installation.md P17 | https://www.governor.ny.gov/news/governor-hochul-announces-broadband-projects-totaling-more-636-million-achieve-universal | Sept 17, 2025: $11,498,589 to Comcast (+$5,033,776 match) for fiber to 390 Putnam locations | §10.5 H3 6 |
+| B2 | research/fiber-optic-installation.md (Putnam) | https://highlandscurrent.org/2023/05/05/fiber-optic-coming-to-highlands/ | May 2023: Optimum fiber through Philipstown; Verizon reviewing a Cold Spring build, no timeframe | §10.5 H3 6; Town-by-town (Philipstown) |
+| R1 | research/fiber-optic-installation.md + smart-lock P16 | https://putnamcountyny.gov/laws/item/local-law-no-10-of-2013-amend-chapter-135-code-of-putnam-county-entitled-contractors ; https://www.putnamcountyny.gov/consumer-affairs ; https://ecode360.com/6607815 | Ch. 135 home-improvement registration; Electrical Board licenses Limited Data Communication Technicians; Ch. 145 covers video surveillance; county list of licensed low-voltage technicians; electrical permits for Carmel, Patterson, Putnam Valley filed with those towns | §8.5 bullets 1–3; §10.5 H3 5 |
+| R2 | research/cat6-repair.md (Putnam) | https://www.townofcarmelny.gov/DocumentCenter/View/456/Wetland-Permit-Application-PDF ; https://www.townofkentny.gov/286/Building-permit-requirements (excerpt) | Carmel regulates wetlands ≥1/8 acre + 100-ft buffer; Kent flags work within 100 ft of ponds/streams/watercourses | §8.5 bullet 5; §9 watershed Q |
+| R3 | research/fiber-optic-installation.md (Putnam) | https://www.nyc.gov/site/dep/environment/opportunities-on-city-lands.page (excerpt) | DEP Land Use Permits for temporary use of City-owned water-supply lands | §9 watershed Q |
+| R4 | research/soundbar-installation.md (Putnam) | https://highlandscurrent.org/2025/08/08/the-history-patrol/ (excerpt) ; https://www.coldspringny.gov/DocumentCenter/View/2074/Certificate-of-Appropriateness-PDF | Since 1976 exterior changes in Cold Spring's historic district need the five-member HDRB's approval; work not visible from the street is not subject to review | §7 village card + §7.5; §8 Cold Spring card; §8.5 bullet 4 |
+| R5 | research/fiber-optic-installation.md | https://adaptdigitalsolutions.com/articles/new-york-contractor-license-requirements/ (excerpt, title) | "New York Contractor License Requirements: None Statewide" | §10.5 H3 5 (claim corrected) |
+| L1 | research/sonos-installation.md P3 | https://en.wikipedia.org/wiki/Mahopac,_New_York | ~587-acre Lake Mahopac, three private islands, 19th-c. resort turned year-round | §13 card |
+| L2 | research/soundbar-installation.md | https://en.wikipedia.org/wiki/Putnam_County_Courthouse_(New_York) | Gleneida Avenue on Lake Gleneida, built 1814, one of the oldest courthouses in use in NY | §8 Route 52 card; §13 card |
+| L3 | research/smart-lock-installation.md P14 / cat6 | https://www.nyc.gov/site/dep/water/west-branch-reservoir.page | Kent & Carmel; 8 billion gallons; in service 1895; two basins separated by Route 301 | §13 card |
+| L4 | research/soundbar-installation.md / cat6 | https://en.wikipedia.org/wiki/Cold_Spring_Historic_District | 691 acres; >200 buildings; mostly pre-Civil War when West Point Foundry peaked; NRHP Nov 23, 1982 | §13 card |
+| L5 | research/fiber/cat6/smart-lock (Putnam) | https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2022/August/minutes/Phys-08-25-22-Presentation-Tilly-Foster-Overview-2022.pdf (excerpt) | ~199 acres, Town of Southeast, dairy then horse breeding, county purchase 2002 | §13 card |
+| L6 | research/fiber/cat6 (Putnam) | https://parks.ny.gov/visit/state-parks/fahnestock-state-park-clarence-fahnestock (excerpt) | 15,000-acre park in Putnam and Dutchess; Route 301 | §13 card |
+| L7 | research/fiber-optic-installation.md | https://southeast-ny.gov/DocumentCenter/View/2436/1b (excerpt) | Mount Ebo / Route 312 office-medical space | §8 Route 312 card (no tenant named) |
+| L8 | research/sonos-installation.md P22 | https://en.wikipedia.org/wiki/Putnam_County,_New_York | Hamlet/CDP lists (Peach Lake, Putnam Lake, Lake Carmel, Lake Peekskill, Ludingtonville, Tompkins Corners, Garrison, etc.) | §13 "we also upgrade" line; Service areaServed |
+
+Not claimed on the page (FLAG for Anwar): that AESS holds Putnam Ch. 135 registration or a Putnam low-voltage licence — page tells owners to ask installers "including us" and check the county lists. The NYS Commercial Security Tax Credit and §52-a / §250.05 bullets are silo rows G1–G5.
+
+House practices stated without an external source (installer knowledge, as on Brooklyn/Nassau): PoC distance "a few hundred feet"; ground-loop/separate-service advice and fiber isolation; UPS runtime "tens of minutes to an hour or two"; substream data use; defog/hood/turret advice; rodent conduit; IR and horses ("most owners report…", framed as experience); two-hour windows 7 days to 8 PM; "recording again within one to two hours of arrival" (blueprint §5 el. 36).
+
+### Pricing used (no new prices)
+Silo recorder table as published on dvr-upgrade-brooklyn / -nassau-county / old -putnam: 4-ch $450–$700 · 8-ch $650–$1,000 · 8-ch hybrid $800–$1,200 · 16-ch $1,200–$2,200 · 32-ch $2,200+ · long-run/outbuilding repair quoted after testing · $195/hr, 3-hr min ($585). Putnam house range "$500 to $1,300 installed" = the figure the old dvr-upgrade-putnam page already published. Packages = 4-ch / 8-ch hybrid / 16-ch tiers. FLAG (same as Nassau): blueprint §9 Putnam 1.45× is not applied on any DVR page; the silo table is identical across areas — left unchanged, not invented.
+
+### Images (11) — Drive has no DVR folder; CompanyCam not connected
+Permanent image rule. 3 real AESS job photos from other jobs (cropped; captions say "example photo from another AESS job (not a Putnam …)") + 8 manufacturer product shots. All viewed with Read before use. Rejected: `images/tech-bucket-truck-install.png` (AI-generated look), `images/buzzer-repair/*` (per silo notes), tiny `lorex-*-putnam-county.jpg` (≤286 px). Real-photo pool is only manhattan-deli / nassau-window-depot / rockland-toyota; `rockland-toyota-showroom.jpeg` had not been used on any DVR page; the other two real sources were used by Nassau with different crops (different region of the frame). None of the product sources is used by Brooklyn or Nassau.
+| Output (images/dvr-upgrade/) | Source | Crop / note | Placement |
+|---|---|---|---|
+| dvr-upgrade-putnam-dark-grey-recorder-with-front-usb-ports-product-photo.webp (500×152) | images/nvr-honeywell-35-series.png | white border trimmed | Hero (eager) |
+| dvr-upgrade-putnam-small-camera-high-on-white-wall-below-windows.webp (415×240) | images/rockland-toyota-showroom.jpeg | crop (345,240,760,480): wall + mezzanine windows; banner text, exit sign, dealer signage, people excluded | §5 |
+| dvr-upgrade-putnam-solar-panel-cellular-ptz-camera-with-sim-card-product-photo.webp (1254×1254) | images/wireless-camera-solar-4g-lte.png | product shot | §6 |
+| dvr-upgrade-putnam-blue-and-white-cable-bundles-above-recorder.webp (740×240) | images/rockland-toyota-nvr-monitor.jpeg | crop (0,0,740,240): ceiling cable bundles only (Nassau used the screen) | §7 |
+| dvr-upgrade-putnam-grey-camera-tile-of-storeroom-and-open-doorway.webp (460×328) | images/nassau-window-depot-monitor.jpeg | crop (780,452,1240,780): bottom-right tile; people tile, house-number tile, timestamp, box text excluded (Nassau used top-right tile) | §8 |
+| dvr-upgrade-putnam-large-white-ptz-camera-on-black-product-photo.webp (400×400) | images/dahua-wizsense-ai-varifocal-bullet-camera-white.png (file shows a PTZ despite its name) | product shot | §9 (driveway cluster) |
+| dvr-upgrade-putnam-white-floodlight-camera-with-twin-lamps-product-photo.webp (746×609) | images/floodlight-swann-4k.png | trimmed | §10 |
+| dvr-upgrade-putnam-recorder-front-and-rear-panels-product-photo.webp (462×357) | images/nvr-swann-advancedx-4k.png | trimmed | §10 (after comparison) |
+| dvr-upgrade-putnam-slim-recorder-with-silver-front-product-photo.webp (500×128) | images/nvr-hikvision-ds7616ni.png | trimmed | §12 Process |
+| dvr-upgrade-putnam-dual-lens-turret-with-red-and-blue-lights-product-photo.webp (894×893) | images/cam-dual-lens-active.jpeg | product shot | §13 |
+| dvr-upgrade-putnam-compact-pan-tilt-camera-with-red-stripe-product-photo.webp (400×400) | images/dahua-sd49-ptz-dome-camera-white.png | product shot | §14 |
+All WebP q80, ≤1600 px. Alt/title unique, each with "Putnam County"; captions describe only what is visible.
+
+### Build notes
+- check_page.py: PASS (full, with registration). 13,839 rendered words; title 53; meta 157; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; 193,929 B.
+- Size cluster at final check: Staten Island (rewritten in parallel) 189,139 B, Queens 183,691 B, Brooklyn 186,554 B → gap ≥4.7 KB. Re-check if SI grows.
+- Masked-geo block similarity (p/li/h2/h3/td/figcaption ≥8 masked words, word-level SequenceMatcher) vs every dvr-upgrade-* page incl. the new Queens/SI: only ≥0.65 blocks are the blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades in [Area]", the protected warranty sentence and the shared mega-nav. First draft had ~40 Nassau-template blocks (pricing cells, packages, process, services, contact lines) at 0.65–1.0; all rewritten.
+- Semantic de-dup: checked by reading the register above + new Queens and Staten Island pages. Changed: FAQ "routine care between visits" (overlapped SI "how often should cameras near the shore be cleaned") → dock/ice remote check; data-cap Q reworded away from SI "slow down our home internet"; comparison H3 "Hybrid recorder or full network system?" de-questioned (DVR-vs-NVR intent exists on Dutchess/Ulster/HV); no cost-by-property FAQ (Nassau FAQ 1 intent); no county-licence FAQ (Nassau FAQ 2 intent — kept in body text only). Borderline pairs for coordinator: my generator-gap Q vs Nassau "battery runtime in a long PSEG outage" and SI "solar panels and home battery"; my bear/person classification Q vs Ulster old "Does a new recorder lower false alerts?" (mine is animal-specific); my long-driveway warning Q vs Nassau "plate at end of a long driveway" (mine = arrival alert, not plate).
+
+## Question register — dvr-upgrade-putnam (21 Q&A H3 + 1 emergency H2 + 10 FAQ) — final
+Q&A (section "DVR Upgrades in Putnam County: Questions Answered"):
+1. The barn is about 400 feet from the house. Is that too far for a high-definition camera on the old coax?
+2. Does a camera on the well pump house need its own power, or can it run off the cable from the house?
+3. The barn has its own electric meter. Does that change how the camera cable should connect to the house?
+4. There is no power and no cable out at the far field gate. Can a solar camera there show up beside the wired cameras?
+5. The dock camera fogs over every morning from late summer into autumn. Is that the camera or the recorder?
+6. We close the lake house from November to April. Should the recorder stay on all winter?
+7. How will we know the recorder at the weekend house has stopped working if nobody is there to look?
+8. Our cell signal at the house is one bar. Can we still pull up the cameras on our phones while we're home?
+9. Our home internet is a capped cellular or satellite plan. Will the cameras eat through the monthly data allowance?
+10. Our standby generator takes about a minute to start after the power fails. Does the recorder still need a battery?
+11. An ice-laden branch brought down the cable to the garage camera that runs on our poles. Is fixing it ours or NYSEG's?
+12. After the power came back, several cameras stayed on "no video" until someone unplugged their power supply. Can the upgrade stop that?
+13. Can a camera at the bottom of our wooded driveway warn us someone is coming before they reach the house?
+14. We share a private road with five other houses. Can we put a camera where it meets the town road?
+15. The town plow keeps knocking over the post with our driveway camera on it. Where else can it go?
+16. The back of our lot meets New York City watershed land. Can we aim a camera that way, and can cable run near the stream?
+17. Can the Sheriff's Dark House Check and our cameras work together while we're away?
+18. Black bears set off the yard camera most nights. Can the system tell a bear from a person standing up?
+19. Spiders spin webs across the night cameras every summer. What actually keeps them off?
+20. Branches have grown into half the camera views since the system went in. Do we move the cameras or trim the trees?
+21. The camera cable in our converted bungalow runs through a crawlspace that gets wet every spring. Does it all need to come out?
+(+ emergency H2 "Putnam Recorder Dead After the Storm, or Beeping in the Basement?")
+
+FAQ (visible == FAQPage schema):
+1. Can you swap the recorder while we're away and walk us through it on a video call afterwards?
+2. Can a camera keep an eye on the propane tank, the oil fill and the generator?
+3. Will a camera's infrared light bother the horses or other animals in the barn?
+4. Can the recorder warn us if the heat fails in the empty house in January?
+5. Should the cameras record around the clock or only when something moves, on a property where the nights are long and quiet?
+6. Can a copy of important clips be kept off the property in case the house itself is broken into?
+7. Mice got into the barn and chewed through a camera cable. What protects the new runs?
+8. Our house has no number visible from the road. What should we tell you so the crew finds it?
+9. Will you take down old cameras we no longer use and seal the holes?
+10. Can a camera let us check the dock and the ice after a winter storm without driving up from the city?
+
+
+---
+
+<!-- merged from dvr-upgrade-queens build (2026-10-18) -->
+
+# DVR Upgrade — Queens research (part file for merge into research/dvr-upgrade.md)
+
+Page: `/dvr-upgrade-queens` (REBUILD in place, was crawled-not-indexed) · queue line `REBUILD | dvr-upgrade-queens | DVR Upgrade | Queens | up /dvr-upgrade-nyc | (347) 434-6392 | GBP Bronx`
+Built 2026-10-18. Up-link `/dvr-upgrade-nyc`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). Direct line (347) 434-6392 in body, CTAs, sticky bar, form error text and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359 (+ footer text).
+Silo research (Part 1 of research/dvr-upgrade.md: T1/T2 penta-brid data sheets, S1 FortiGuard, G2/G3 Penal Law, G4 tax credit) reused, not re-fetched. This file adds only the Queens layer.
+
+Format per blueprint v2.3 §12.4: **exact query · platform · URL · finding · page + section used**. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`, query/directQuote mode, PDF parser), Firecrawl Alexandria provider `census-gov` (census/data). Shell curl blocked. "Excerpt" = read only as a search-result snippet, not opened.
+
+**Thesis (distinct from Brooklyn, Nassau, Staten Island, Putnam):** a Queens recorder has many users — two households in a two-family, a co-op board and super, a multilingual store crew on shifts, an owner abroad — and its footage is regularly requested by precinct detectives and insurers. The upgrade keeps the coax, then sets up who-sees-what (accounts, circuits, internet, board paperwork, languages) and makes footage exportable and preservable on demand.
+
+Page section labels: §Hero, §Quick, §5 Neighborhood (+ §5.5 facts), §Emergency ("first hour after an incident" list), §6 Services, §7 Architecture (+ §7.5), §8 Commercial (+ §8.5 rules list), §9 Q&A (clusters A–F), §10 Equipment, §10.5 AI Reality Check (H3 1–7), §12 Process, §13 Landmarks, §14 Pricing, §15 Packages, §16 Services grid, Field Notes, §17 FAQ, §19 Siblings, §Sources.
+
+## Mandatory sources (§3) — Queens status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | No Queens-specific DVR thread found; generic excerpts only (R-Q1, R-Q2 below). r/Queens: EMPTY (no relevant thread surfaced). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so and uses published claims (A-Q1…A-Q7) |
+| 6 | Landmarks | L-Q1…L-Q4 |
+| 7 | Building stock / use cases | H-Q1, H-Q2, CO-1…CO-4 |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | N-Q1…N-Q6 (QNS, Queens Chronicle, Queens Daily Eagle, Police1/NY Daily News, Queens DA) |
+| 10 | Hyperlocal | QNS, Queens Chronicle, Queens Daily Eagle (above). Queens Ledger: EMPTY (nothing camera-specific surfaced). |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) — not searched to review level; not used. |
+
+## Building stock and languages (H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| H-Q1 | Alexandria `census-gov` census/data · acs/acs5 vintage 2023 · NAME, B25035_001E, B25001_001E, B25024_002E–006E, B25034_010E–011E, B25003_002E–003E · county 081 state 36 | https://api.census.gov/data/2023/acs/acs5?get=NAME,B25001_001E,B25035_001E&for=county:081&in=state:36 | Queens County: 903,598 housing units; median year built **1953**; 1-unit detached 172,141; 1-unit attached **83,924**; 2-unit **175,686**; 3–4 unit 95,066; 5–9 unit 49,166; built 1940–49 127,351; built 1939 or earlier **273,370**; owner-occupied 371,778; renter-occupied **456,452**. | §5 paras 1–2; §5.5 bullets 1–2; §Sources |
+| H-Q2 | Alexandria `census-gov` census/data · acs/acs5 2023 · C16001_001E, 002E, 003E, 005E, 021E, 023E, 024E, 026E, 027E, 029E, 030E · county 081 | same API | Pop. 5+ **2,199,666**; speak only English 984,821 (→ 1,214,845 = 55.2% speak another language); Spanish **510,585** (256,286 speak English less than "very well"); Chinese incl. Mandarin/Cantonese **209,205** (143,225 less than very well); Tagalog 31,150; Vietnamese 3,876; other Asian/Pacific 36,611. Labels verified in the response's variable list. | §5 para 2; §5.5 bullet 3; §Sources |
+| H-Q3 | `NYC DCWP small business language access Queens languages …` · Firecrawl search | https://www.nyc.gov/site/civicengagement/about/language-access-plan.page | Excerpt: 49% of New Yorkers speak a language other than English at home; 23% limited English proficient (DCP / ACS 2018–2022). | §Sources only (context) |
+
+## Co-ops and condos (CO)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| CO-1 | `Queens garden co-op board approval security cameras alteration agreement Glen Oaks Village Bell Park Gardens Jackson Heights co-op cameras` · Firecrawl search → scrape | https://www.glenoaksvillage.com/forms | Glen Oaks Village resident forms list "Alteration Agreement" and "Security Camera Rebate". | §7.5; §13 card; §Sources |
+| CO-2 | (scrape, PDF parser) | https://www.glenoaksvillage.com/_files/ugd/5fd8ec_21939267f36b4570a05b7607dd6badcc.pdf | GOVO Security Camera Registration & Rebate form: board/security dept work with NYPD; rebate up to **$100** for outside-facing cameras (not per camera); **all** outward-facing installations must be registered, unregistered = **$100 house-rule violation**; cameras may face out from inside or outside but not "unreasonably directed towards another apartment"; **not permitted in common hallways**; GOVO inspects from outside; suggests inexpensive window-ledge camera. (PDF title metadata reads "February 13, 2002"; page gives no date for the form.) | §7.5; §9 B Q2; §10.5 H3 3 & 5; FAQ 4; §13 |
+| CO-3 | same search → scrape (directQuote) | https://guzovllc.com/condo-and-coop-rules-of-thumb-security-cameras-and-privacy-concerns/ | Guzov LLC (Aug 15 2023): NYC has no law prohibiting residents' hallway doorbell cameras, but co-op rules may prohibit them in common areas; boards add restrictions on angle, recording, storage time; no reasonable expectation of privacy in common areas; audio recording → Federal Wiretap Act + NY Penal Law art. 250; board can withdraw authorization. | §10.5 H3 5; §Sources |
+| CO-4 | same search → scrape (directQuote) | https://nacmiaslaw.com/practice-areas/closings/building-types/standard-co-op/queens | Queens holds the city's largest concentration of garden co-ops (Jackson Heights, Sunnyside, Forest Hills); elevator co-ops in Forest Hills, Rego Park, Kew Gardens, Bay Terrace; attached two-story co-op rows in Bayside and Whitestone; Jackson Heights & Sunnyside Gardens historic districts bring Landmarks review; garden complexes often no elevator/doorman; complexes of many separate corporations under one managing agent with criteria differing building to building. | §5 para 1; §5.5 bullet 4; §7 cards; §7.5 (several corporations); §Sources |
+| CO-5 | same search (excerpt) | https://cooperatornews.com/article/a-case-study-in-queens | Excerpt: Glen Oaks Village, garden-style co-op "boasting nearly 3,000 units". | §13 card |
+
+## Police, footage and news (N)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-Q1 | `Queens police ask businesses for surveillance video footage canvass robbery pattern Roosevelt Avenue 2025 2026` · Firecrawl search → scrape | https://www.police1.com/police-products/investigation/video-surveillance/nyc-initiative-allows-retail-owners-to-share-live-surveillance-footage-with-nypd-in-effort-to-curb-theft | May 17 2024 (NY Daily News via Police1): Mayor Adams expands initiative letting businesses feed camera footage to NYPD; first unveiled in the **109th Precinct (Queens) "last June"** (= June 2023) with Fusus by Axon; pilot to nine more precincts; businesses **not required**; opt in via New York City Connect portal (newyorkcityconnect.org/camera-integration); can limit cameras and hours; ~$1.5M cost. | §5.5 bullet 5; §8.5 bullet 1; §9 E Q3; §10.5 H3 2; §Sources |
+| N-Q2 | `Queens burglary pattern homes Bayside Fresh Meadows Whitestone NYPD 2025 2026 Queens Chronicle QNS` · Firecrawl search → scrape | https://qns.com/2026/01/suspects-wanted-burglaries-flushing-fresh-meadows-bronx/ | Jan 20 2026: crew of four; Dec 20 2025 6 a.m. medical business 42-62 Kissena Blvd (~$9,800 + meds), pharmacy 42-60 Kissena Blvd (~$3,800), 177-05 Union Tpke at 6:45 a.m.; Dec 30 pharmacy 45-12 Parsons Blvd (~$11,000); 109th & 107th Precincts; NYPD released surveillance images and video; suspects masked and hooded → no descriptions. | §5 para 3 |
+| N-Q3 | same search → scrape | https://qns.com/2026/05/burglars-break-into-fresh-meadows-home/ | May 5 2026: Fresh Meadows home near 67th Ave & 166th St, Mon. April 20, rear door forced 12:17 a.m.; jewelry, purse, ~$39,000 cash; suspects caught on camera casing the rear patio, one on a phone call. | §5 para 3 |
+| N-Q4 | same search → scrape | https://www.qchron.com/editions/queenswide/crime-is-down-citywide-but-mostly-flat-in-queens/article_5b392466-437d-5fe3-b0f7-16628d4d8833.html | Queens Chronicle, July 9 2026 (NYPD H1 2026 data): Queens burglaries −28.9%; robberies +~5.1% Queens; grand larcenies +5.3% Queens; GLA Queens North 1,094 → 1,283 (+17.3%). | §5 para 4 |
+| N-Q5 | `Hurricane Ida deaths Queens basement apartments Hollis Woodside Flushing September 2021 how many died in Queens` · Firecrawl search | https://queenseagle.com/all/unimaginable-loss-eleven-from-queens-die-in-storm (excerpt); https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/Impacts_of_PTC_Ida.pdf (excerpt) | Queens Daily Eagle: of 12 confirmed dead, 11 from Queens, 10 lived in basement apartments. NYCEM: 13 New Yorkers died; 11 by drowning in basement apartment flooding. | §5.5 bullet 6 (fact only — no flood question, Brooklyn owns that intent) |
+| N-Q6 | `JFK airport cargo area warehouses Springfield Gardens Rosedale freight forwarders cargo theft Queens 2025` · Firecrawl search | https://queensda.org/wp-content/uploads/2021/09/lacarriere_david_jfkheists_09_14_2021_plea.pdf (excerpt) | Queens DA (Sept 2021 plea): defendant caught holding $2.5 million of Gucci and Chanel goods from a cargo theft by a crew using forged… (excerpt cut). | §8 JFK card |
+| N-Q7 | same query as N-Q1 | https://qns.com/2026/09/suspects-armed-robbery-corona/ | Excerpt: two suspects wanted for armed robbery of a man on Roosevelt Avenue in Corona. Scrape failed (Service Unavailable) → **not used** on page. | — |
+
+## Corridors and BIDs (C)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| C-Q1 | `Queens business improvement districts list Flushing Jamaica Center Sutphin Steinway Astoria 82nd Street Partnership Jackson Heights` · Firecrawl search | https://www.facebook.com/NYCBusiness/posts/… (excerpt); https://www.bid.nyc/ (excerpt) | "Queens is home to 11 Business Improvement Districts" (NYCBusiness excerpt); bid.nyc lists 82nd Street Partnership, Downtown Flushing Transit Hub, Downtown Jamaica Partnership, LIC Partnership, Myrtle Ave (Queens), Steinway Street, Sunnyside Shines. SBS directory scrape returned no Queens list → count not used on page. | Background |
+| C-Q2 | same | https://steinwaystreet.org/about-us/ | Steinway Street BID: all **300 businesses** on Steinway St from **28th Ave to 35th Ave**; serving since **1991**. | §8 card; §13 card |
+| C-Q3 | same (excerpt) | https://www.thisisqueensborough.com/local-chamber-bid-events-happenings-2/ | 82nd Street Partnership, 37-06 82nd St: "more than 200 businesses"; district on 82nd Street from 37th Avenue to Baxter Avenue. | §8 card |
+| C-Q4 | `Downtown Flushing Transit Hub BID Main Street Roosevelt Avenue busiest intersection businesses` · Firecrawl search | https://www.facebook.com/FlushingBID/ (excerpt); https://www.qchron.com/editions/north/flushing-bid-to-grow-by-nearly-double/article_ca52ffd1-153d-5461-a09d-15be57295230.html (excerpt); LoopNet Flushing business report PDF (excerpt) | Flushing BID formed September 2003; "Over 100,000 people a day are at Roosevelt Avenue and Main Street" (Councilmember Barry Grodenchik, Queens Chronicle); LoopNet report: Main St & Roosevelt Ave = commercial crossroads, "dense and eclectic mix of Chinese small businesses, national retailers". | §8 card; §13 card |
+| C-Q5 | `Jamaica Avenue Downtown Jamaica Partnership 165th Street Mall shopping corridor businesses Queens` · Firecrawl search | https://jamaicacenter.org/ ; https://www.downtownjamaica.org/ (excerpts) | Jamaica Avenue "over 400 businesses"; Jamaica Center = largest BID in Queens; three downtown BIDs (Jamaica Ave, 165th St, Sutphin Blvd) joining forces; Rufus King Park; "hundreds of independent businesses and blue-chip national stores"; "Closer than you think to JFK". | §8 card; §13 card |
+| C-Q6 | `Liberty Avenue Richmond Hill "Little Guyana" businesses Queens corridor` · Firecrawl search | https://www.nytimes.com/video/nyregion/100000002266992/little-guyana-in-queens.html (excerpt); Instagram excerpts (Sybil's Bakery, Singh's Roti Shop) | Liberty Avenue = "the lively commercial corridor that divides Richmond Hill and South Ozone Park" (NYT excerpt); roti shops and bakeries (IG excerpts, not cited on page). | §8 card |
+| C-Q7 | `Dining Out NYC roadway dining season April November rules structures permanent program DOT` · Firecrawl search | https://www.diningoutnyc.info/ ; https://www.diningoutnyc.info/faq (excerpts) | Sidewalk cafés year-round; seasonal roadway cafés April 1–November 29; year-round roadway dining now legal with year-round license; closing hour 11 p.m.; roadway cafés "easy to move, clean, set up, and break down". | §8.5 bullet 4; FAQ 7 |
+
+## Landmarks (L)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| L-Q1 | `Jackson Heights Historic District designated 1993 garden apartments Landmarks Preservation Commission buildings` · Firecrawl search | https://hdc.org/buildings/jackson-heights/ (excerpt); http://s-media.nyc.gov/agencies/lpc/lp/1831.pdf | Designated **October 19, 1993**; LPC report: The Chateau (1922, Andrew J. Thomas) = twelve freestanding U-shaped buildings around a common landscaped garden (Queensboro Corporation garden apartments). | §13 card; §9 B Q1 (landmark review may apply) |
+| L-Q2 | `Unisphere Flushing Meadows Corona Park 1964 World's Fair height stainless steel landmark designated` · Firecrawl search | https://en.wikipedia.org/wiki/Unisphere (excerpt) | Stainless steel globe, **140 ft**, dedicated March 1964, LPC designation May 16, 1995. | §13 card |
+| L-Q3 | C-Q4, C-Q2, C-Q5, CO-5 | (above) | Main St/Roosevelt Ave Flushing; Steinway Street; Jamaica Avenue + Rufus King Park; Glen Oaks Village | §13 cards |
+
+## AI Reality Check claims (A-Q) — Queens page
+| # | Exact query · platform | URL | Claim used | Used |
+|---|---|---|---|---|
+| A-Q1 | `insurance claim security camera footage request how long to keep video retention business insurer adjuster` · Firecrawl search | https://digital-watchdog.com/posts/How-Long-Should-Security-Camera-Footage-Be-Retained-/ (excerpt) | "Thirty days is a common starting point, but the right retention period depends on regulatory requirements, operational risks, storage capacity…" | §10.5 H3 1 |
+| A-Q2 | N-Q1 | (Police1) | "Police can tap into any business's cameras" — corrected with opt-in facts | §10.5 H3 2 |
+| A-Q3 | `reddit r/Queens security cameras two family house tenant upstairs cameras DVR` · Firecrawl search | https://www.reddit.com/r/homesecurity/comments/1boja38/how_many_security_cameras_too_many/ (excerpt) | "I have six Ring Doorbell cams, plus two conventional 24/7 (DVR cameras)." | §10.5 H3 3 |
+| A-Q4 | silo T2 | https://objects.eanixter.com/PD620479.PDF (excerpt) | Penta-brid HDCVI/AHD/TVI/CVBS/IP | §10.5 H3 4; §10 card |
+| A-Q5 | CO-3, CO-2 | (above) | shareholder camera rules | §10.5 H3 5 |
+| A-Q6 | same query as A-Q3 | https://www.reddit.com/r/realestateinvesting/comments/v5kcs5/anyone_use_security_cameras_on_their_rental/ (excerpt) | "I would suggest NVR and not DVR. I have multi and camera are pointing parking lot and front door. All tenants are informed…" | §10.5 H3 6 |
+| A-Q7 | `Hik-Connect app supported languages Chinese Spanish Korean Bengali` · Firecrawl search | https://www.hik-connect.com/ (excerpt) | Website language menu: English, Italiano, Español, Deutsch, Français, Polski, Nederlands, Български, Český, Dansk, Suomi, Magyar, Português, Eesti. Page claims only "when we looked, the website menu listed…"; no claim about in-app languages. | §10.5 H3 7 |
+
+## Licensing / permits (Queens)
+- NYS low-voltage licence #12000287431 (protected).
+- No DOB permit claim made (not researched to a primary source). Landmark review mentioned only as "may apply" for new street-front cameras in the Jackson Heights HD (silo L1 LPC chapter 11 already in register).
+- Tenant notice: no NYC rule found requiring small-landlord notice before common-area video → FAQ 1 says "We are not aware of a New York City rule…" and refers to lease/lawyer.
+
+## House practices stated without an external source (FLAG for Anwar)
+- Recorder on the owner's internet and owner's electric circuit in two-families; written note between semi-detached co-owners; tenant-entrance camera kept out of owner's everyday account.
+- Point-to-point wireless links for rear cameras of attached rows; siding mounting blocks (not used as a question — SI owns siding).
+- Board package contents (scope, camera list, COI, licence, dates, viewing-rights list); named accounts per board role.
+- Kitchen camera placement out of the grease plume; vibration hardening under elevated lines (compression BNC, rubber pad); POS text overlay "depends on register model".
+- Footage export routine (lock clip, two USB copies, native player, written log, clock offset); NTP sync across neighbors' recorders.
+- Lockable ventilated recorder enclosures; guest Wi-Fi separation; public-view monitor; 50% deposit held until board approval (deposit itself is from the protected terms sentence).
+- "First hour after an incident" list (§Emergency) — generic owner steps.
+
+## Pricing
+Silo table as already published on the old Queens page and on Brooklyn/Nassau (no §9 multiplier applied anywhere in this silo): 4-ch $450–$700 · 8-ch $650–$1,000 · 8-ch hybrid $800–$1,200 · 16-ch $1,200–$2,200 · 32-ch $2,200+ · bad runs quoted after testing · $195/hr, 3-hr min ($585). FLAG for coordinator: §9 Queens multiplier (1.05×) not applied, consistent with the rest of the silo; the old Queens page's JS widget chips ($250 service call, $175/drop, $19.99/mo) were NOT carried.
+
+## Images (11) — Drive has no DVR Upgrade folder; CompanyCam not connected
+Step C / permanent image rule. All looked at with Read first. Only one real AESS job photo was unused by Brooklyn/Nassau (rockland-toyota-showroom); three more are **new, different crops** of job photos Brooklyn/Nassau also cropped (different regions). Seven manufacturer product shots not used by any dvr-upgrade page. Rejected as before: images/buzzer-repair/*, images/cat6-repair/aess-* (AI look per research/cat6-repair.md), images/commercial-security/*.
+| Output (images/dvr-upgrade/) | Source | Crop / note | Placement |
+|---|---|---|---|
+| dvr-upgrade-queens-black-and-silver-recorder-with-front-usb-ports-product-photo.webp (500×148) | images/nvr-honeywell-35-series.png | white border trimmed; product shot (maker logo small, not named) | Hero (eager, og:image) |
+| dvr-upgrade-queens-two-small-cameras-high-on-white-wall-below-mezzanine.webp (616×255) | images/rockland-toyota-showroom.jpeg | crop (352,250,968,505): wall, mezzanine windows, exit signs; banner text, dealership signs, car, people excluded | §5 |
+| dvr-upgrade-queens-recorder-front-and-rear-panel-ports-product-photo.webp (462×354) | images/nvr-swann-advancedx-4k.png | trimmed; captioned as a network recorder (not a coax DVR) | §6 |
+| dvr-upgrade-queens-blue-and-white-cable-bundles-above-recorder-rack.webp (800×240) | images/rockland-toyota-nvr-monitor.jpeg | crop (0,0,800,240): ceiling cable only — Nassau used the screen region | §7 |
+| dvr-upgrade-queens-mini-dome-beside-light-panel-in-shop-ceiling.webp (530×340) | images/manhattan-deli-interior-cameras.jpeg | crop (700,60,1230,400): right ceiling only — Brooklyn used a full-width ceiling strip | §8 |
+| dvr-upgrade-queens-flat-black-recorder-with-small-front-buttons-product-photo.webp (500×159) | images/nvr-avycon-avr-nsv16p.png | trimmed product shot | §10 |
+| dvr-upgrade-queens-recorder-tile-of-back-room-and-open-door.webp (400×343) | images/nassau-window-depot-monitor.jpeg | crop (800,452,1200,795): CAM 3 tile only (no people, label, timestamp, house number) — Nassau used the top-right tile | §12 |
+| dvr-upgrade-queens-pair-of-white-turret-cameras-on-one-base-product-photo.webp (329×153) | images/hikvision-colorvu-turret-camera-pair.jpg | product shot (small maker logo on base) | §13 |
+| dvr-upgrade-queens-white-mini-dome-camera-product-photo.webp (225×225) | images/hikvision-acusense-mini-dome-camera.jpg | product shot | §14 |
+| dvr-upgrade-queens-white-turret-camera-with-two-light-lenses-product-photo.webp (480×480) | images/cam-eyeball-white.png | generic unbranded product shot | §15 |
+| dvr-upgrade-queens-turret-camera-side-view-on-black-product-photo.webp (803×1429) | images/cam-turret-side.png | generic unbranded product shot | Field Notes |
+All WebP q80, ≤1600 px, natural size (no upscaling). Alt/title unique, each with "Queens"; job-photo captions say "Example photo from another AESS job (not a Queens …)"; product captions say "Manufacturer product photo, not an installed unit". DAILY-LOG note suggestion: `images: 11 — 4 AESS job-photo crops (other jobs) + 7 product shots, under images/dvr-upgrade/ (no real DVR photos yet)`.
+
+## Question register — dvr-upgrade-queens (REBUILT 2026-10-18) — final
+Q&A (section "DVR Upgrades in Queens: Questions Answered"), emergency H2 first:
+- Queens Recorder Gone Quiet Before a Police or Insurance Request?
+- Upstairs and downstairs in our two-family each pay for their own internet — which connection should the recorder use?
+- The second-floor tenant pays her own electric bill — whose circuit should the recorder and cameras run on?
+- My neighbor and I own the two halves of a semi-detached house in Fresh Meadows — how do we share one recorder and its costs fairly?
+- We rent the basement unit to a family — can the camera at their side entrance be kept off our own live view?
+- Our attached house in Middle Village has no side yard — is a wireless link reliable enough for a camera at the back?
+- Our garden co-op in Jackson Heights wants an alteration agreement before any camera work — what do you send the managing agent?
+- Glen Oaks Village registers shareholders' outward-facing cameras — does replacing our recorder mean registering again?
+- The condo board says the lobby recorder belongs to the association — can a unit owner get a copy of footage from it?
+- Our co-op board wants to know exactly who will be able to watch the courtyard cameras — how is that set up so they can sign off?
+- Grease from the fryer coats our kitchen camera within weeks — where should a camera go in a working restaurant kitchen?
+- We run a small shop under the 7 train on Roosevelt Avenue — does the elevated line's rumble affect the cameras or the recorder?
+- Our Flushing store is open until 2 a.m. with two shifts on the register — can the footage show who was on the register at any moment?
+- Can one recorder cover our two takeout shops six blocks apart on Jamaica Avenue?
+- Half our staff read Chinese and half read Spanish — can the recorder and app be set up so everyone can use them?
+- How do we give the night manager live view without letting him delete or export footage?
+- Our family runs the store but the owner spends months abroad — can he watch the cameras from overseas?
+- A detective from the 109th Precinct asked for a copy of our footage — what format, and how do we hand it over?
+- Half the houses on our Corona block have cameras — can our recorders be linked so one clip follows a car past every house?
+- If we decide later to join the NYPD's business camera-sharing program, what does the upgraded recorder need?
+- An insurer's letter told us to preserve footage of a customer's fall in our store — how do we stop the recorder overwriting it?
+- Our warehouse near JFK has trucks at the dock all night — can the upgraded recorder show trailer numbers and who opened which door?
+
+FAQ (visible == FAQPage schema):
+1. Do we have to tell the tenants in our two-family before the upgraded cameras start recording?
+2. Can you provide a certificate of insurance naming our co-op, condo or managing agent?
+3. Should a store's recorder go inside a lock box, and will it overheat in there?
+4. Our co-op apartment's window faces the street — can a camera behind the glass record clearly at night?
+5. Can the office computer at our other location show the cameras, not only phones?
+6. Is a deposit due before the swap, and when is the balance paid?
+7. Can a camera watch our restaurant's roadway dining setup without being mounted on it?
+8. Our shop's Wi-Fi is shared with customers — should the recorder be on that network?
+9. Can the store's monitor by the door show customers they are on camera?
+10. Can our old analog cameras be moved to better spots during the upgrade, or must they stay where they were?
+
+### De-dup notes (semantic, read by hand)
+- Checked against every question in the register (old templates, Brooklyn, Nassau) and the rewritten Staten Island and Putnam pages as they stood at ~05:35 UTC.
+- Changed during the build because of overlap: siding-mount FAQ (SI "vinyl siding without cracking it or letting water in"); weekend-booking FAQ (SI "Saturday"); kitchen camera "fogging — camera or recorder?" reworded to placement (Putnam "dock camera fogs over… camera or recorder?"); equipment H3 "Hybrid recorder or a full network system?" made a non-question (identical to Putnam's H3; SI has the same intent — coordinator should check SI vs Putnam); "plays back only a day — drive or settings?" removed (old-template "Why does my recorder only keep a few days now?"); drive-lifespan FAQ replaced (old-template "How often should a DVR be replaced?" / Ulster "How do I know if my DVR hard drive is failing?"); NYPD-program question reworded to readiness (Nassau "Garden City registry — access to our recorder?"); semi-detached question reworded to the co-ownership arrangement (Brooklyn FAQ "two adjoining rowhouses — can one recorder cover both?").
+- Borderline pairs left for coordinator review: Queens "owner abroad — watch from overseas?" vs old-template "Does upgrading change how I watch from another borough?"; Queens "detective from the 109th — what format and how to hand over?" vs Ulster old "Can police use footage from my DVR?"; Queens "warehouse — trailer numbers at the dock" vs Nassau "readable licence plate at the end of a long driveway".
+- Intents deliberately avoided (Brooklyn): rowhouse coax reuse, flood cellars (Ida used as a fact only), landmark rules, §52-a/§250 audio, tax credit, botnets (all appear only as facts/list items, never as questions).
+
+### Build notes
+- check_page.py: **PASS** (full, with registration; existing sitemap/_redirects entries already correct). 13,658 rendered words; title 58; meta 156; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; HowTo 7 = 7 process cards.
+- Masked-geo block similarity (p/li/td/h2/h3/figcaption ≥8 masked words, word-level SequenceMatcher, vs all 15 dvr-upgrade-* pages): everything < 0.65 except the blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades in [Area]" (1.0 vs Brooklyn/Nassau/Putnam) and the warranty paragraph (0.71–0.75), which is dominated by the protected verbatim terms sentence. Max otherwise 0.631 (a Putnam figcaption).
+- File size 183,691 B: inside the narrow 182,818–184,506 window between Nassau (180,770) and Brooklyn (186,554); SI 189,767 and Putnam 193,557 at last check. JSON-LD written with indent=1 to land there. **If any sibling's size moves within 2 KB of 183.7 KB at wiring, re-check.**
+- Page built from scratchpad generator (body + data → page); chrome (CSS, mega-nav, footer script) copied from rebuilt dvr-upgrade-brooklyn.html with the script's two error-message phones switched to (347) 434-6392.
+
+
+---
+
+<!-- merged from dvr-upgrade-staten-island build (2026-10-18) -->
+
+# DVR Upgrade: Staten Island research (part file to merge into research/dvr-upgrade.md)
+
+Page: `/dvr-upgrade-staten-island` (REBUILD in place, was crawled-not-indexed), built 2026-10-18. Up-link `/dvr-upgrade-nyc`. GBP Brooklyn (`#brooklyn`, 1282 Troy Ave, Brooklyn NY 11203). Direct line (347) 934-8335 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359.
+
+**Thesis (distinct from NYC hub, Brooklyn, Nassau, Queens and Putnam):** a Staten Island system is a ring of cameras around a detached or semi-attached lot: side yards, driveway, back fence. It also includes shore houses raised after Sandy, where the recorder, cable and camera heights all moved, plus salt air on the outdoor ends and car-theft crews. On the commercial side it covers auto shops, strip stores and contractor yards on the boulevards. The upgrade keeps the coax, redoes the outdoor ends, re-aims or replaces the side-yard and driveway cameras, lifts the recorder above the flood line and is honest about what footage can prove.
+
+Silo research (Part 1 of research/dvr-upgrade.md: R1–R7, A1–A3, T1–T2, S1–S2, G1–G6, Nassau S1–S16) was reused, not repeated. Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: Firecrawl search / scrape (query mode) and the Firecrawl Alexandria `census-gov` provider. Shell curl is blocked. "Excerpt" means the item was read only as a search snippet.
+
+Section labels: §Hero, §Quick, §5 Neighborhood (+ §5.5 list), §Repair1, §6 Services, §7 Architecture (+ §7.5), §8 Commercial (+ §8.5 rules), §9 Q&A, §10 Equipment, §10.5 AI Reality Check, §12 Process, §13 Landmarks, §14 Pricing, §15 Packages, §17 FAQ, §Sources.
+
+## Staten Island
+
+### Mandatory sources (§3), status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit (r/statenisland) | EMPTY for Staten Island-specific DVR/camera threads (query below returned only r/AskNYC, r/SecurityCamera, r/Bushwick). Generic forum excerpts R-SI1/R-SI2 used in §10.5. |
+| 2–5 | Google PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so on the page and uses published cost-guide, manufacturer and forum claims instead. |
+| 6 | Landmarks | L-SI1–L-SI7 |
+| 7 | Building stock / use cases | H-SI1, F-SI1–F-SI5 |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9–10 | Local news / hyperlocal | Staten Island Advance (silive.com) N-SI1, N-SI2; NYPD 122 Pct Facebook excerpt N-SI3 |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env), not searched again (silo Y1 already empty) |
+
+### Housing stock (H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| H-SI1 | Firecrawl Alexandria `census-gov` census/data · acs/acs5 2023 · B25001_001E, B25035_001E, B25024_002E–006E, B25003_002E–003E, B25034_002E–011E, B25044_003E, B25044_010E · county 085 state 36 | https://api.census.gov/data/2023/acs/acs5?get=group(B25001)&ucgid=0500000US36085 | Richmond County: 184,074 housing units; median year built **1974**; 1-unit detached **63,421**; 1-unit attached **47,106**; 2-unit 41,749; 3–4 unit 6,720; 5–9 unit 3,740; owner-occupied **115,534**, renter 54,513 (occupied 170,047, so ~68% owner); built 1970–79 29,712, 1980–89 28,613, 1990–99 19,254, 2000–09 16,871 (1970–2009 = **94,450**), 1960–69 23,568, 1950–59 17,499, 1940–49 7,534, ≤1939 32,820, 2010–19 7,764, 2020+ 439; no vehicle available: owner 7,343 + renter 19,082 = **26,425** (≈84% of households have a vehicle). | §5 para 1; §5.5 bullets 1–3; §Sources |
+
+### Sandy, flooding, buyouts, raised houses (F)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| F-SI1 | `Hurricane Sandy Staten Island deaths 24 Midland Beach New Dorp Beach Tottenville storm surge` · Firecrawl search → scrape (query) | https://www.dvidshub.net/news/482917/seawall-will-raise-quality-life-shore-communities-staten-island-new-york | USACE New York District, 10.10.2024: Sandy caused **24 deaths on Staten Island, more than any other borough**; winds up to 80 mph; **20-foot storm surge** washed away homes on the East coast; seawall of **nearly 5 miles** from the edge of Fort Wadsworth (just south of the Verrazzano) to Oakwood Beach, protecting South Beach, Midland Beach, New Dorp Beach and Oakwood Beach; completion expected within a decade. | §5 para 4; §5.5 bullet 5; §10.5 H3 5; §Sources |
+| F-SI2 | same query (excerpt) | https://www.silive.com/news/2020/10/hurricane-sandy-8-years-later-remembering-24-staten-island-lives-lost.html | Excerpt: 24 Staten Island lives lost (cross-check of F-SI1). | Cross-check only |
+| F-SI3 | `Oakwood Beach buyout Staten Island Sandy homes purchased Ocean Breeze Graham Beach state buyout program` · Firecrawl search → scrape (query) | https://www.nyc.gov/content/planning/pages/our-work/plans/staten-island/east-shore-buyout-area-special-coastal-risk | NYC DCP: after Sandy, NYS Governor's Office of Storm Recovery (GOSR) designated **Oakwood Beach, Ocean Breeze and Graham Beach** as buyout areas; participation voluntary, not all owners participated. The Special Coastal Risk District limits new development to single-family detached houses, requires CPC authorization for new development and horizontal enlargements, and allows elevations and minor repairs as-of-right. No count of homes bought on that page. | §5 para 4; §9 Q&A "lots around us were bought out"; §Sources |
+| F-SI4 | same search (excerpts) | https://www.dnainfo.com/new-york/20140407/ocean-breeze/state-expands-buyout-program-staten-islands-graham-beach ; https://academiccommons.columbia.edu/doi/10.7916/aqb7-9571/download ; https://landscapeclimate.cargo.site/Staten-Island-Buyouts-Primary-Case | Excerpts: program extended to Ocean Breeze (Nov 2013), then Graham Beach (April 2014); one excerpt says 299 properties bought for $255M. Secondary sources only, so **no count or dollar figure used**. | Background only |
+| F-SI5 | `Build It Back elevated homes Staten Island number of homes elevated Sandy NYC report` · Firecrawl search → scrape (query) | https://www.nyc.gov/site/housingrecovery/disaster-recovery/single-family-program.page | Build It Back modular pilot: 103 one- and two-family modular homes, **32 on Staten Island**; >110 attached homes elevated or reconstructed (citywide). Page gives no Staten Island elevation total. LiRO excerpt (https://www.liro.com/projects/build-it-back-program/) says ~4,000 homes required elevation (program-wide). | Background for §7 raised-house card; no number on the page |
+| F-SI6 | `NYC Building Code Appendix G flood-resistant construction design flood elevation freeboard electrical equipment above` · Firecrawl search (excerpt) | https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction | G304.1.1 item 6: "Utilities and attendant equipment shall be located at or above the design flood elevation specified in ASCE 24 … or … constructed so as to prevent water from entering or accumulating"; G304.2 coastal high-hazard version adds wave action. The page applies this as house practice for recorders and says the code does not name camera equipment. | §7.5 raised-house para; §8.5 bullet 1; §9 Q&A "lifted onto piers"; §10.5 H3 5; §Sources |
+
+### News / crime (N)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-SI1 | `Staten Island car break-ins thefts from cars driveways NYPD 2025 silive` (tbs past year) · Firecrawl search → scrape (query) | https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html | SI Advance, Maura Grunlund, **July 24, 2026**: vehicle thefts on SI up roughly **47%** in 2026, **163 incidents through July 19 vs 111** same period 2025; citywide down 11% (6,483 vs 7,324); crews work within minutes and wear **masks, gloves and hooded clothing**; video surveillance "typically of limited value and rarely identifies individuals"; investigators use plate readers, phone/vehicle data, financial records, social media. | §5 para 3; §5.5 bullet 4; §9 Q&A "masks and gloves"; §10.5 H3 4; §Sources |
+| N-SI2 | same search → scrape (query) | https://www.silive.com/crime-safety/2026/02/beware-the-crowbar-crew-nypd-boosting-patrols-amid-staten-island-break-in-pattern.html | SI Advance, Luke Peteley, **Feb 12, 2026**: "Crowbar Crew" pried doors, windows and car windows looking for high-end vehicles and keys; ~10 incidents Feb 1–9; North Shore, Mid-Island, South Shore, Todt Hill, Dongan Hills; officials advised taking keys and locking cars. | §5 para 3; §Sources |
+| N-SI3 | `Staten Island auto repair shop body shop yard catalytic converter theft surveillance video NYPD` · Firecrawl search (excerpts) | https://www.facebook.com/NYPD122pct/posts/-staten-island-residentshelp-protect-your-vehicle… ; https://www.alarminglyaffordable.com/video-surveillance-catches-staten-island-catalytic-converter-thief/ | Excerpt: NYPD Staten Island precincts held free catalytic-converter etching events. A security-company blog excerpt claims 362 SI catalytic-converter thefts by mid-August 2022, citing NYPD. That is a secondary source, so **the number is not used**. | §9 Q&A "catalytic converters"; §Sources (NYPD excerpt only) |
+| N-SI4 | other results of N-SI1 search (excerpts) | Facebook posts (Assembly member Reilly; 10312 community group) | Excerpts: car thefts up 22% (April 2026 silive link); Tottenville car break-ins on Manhattan St / Brighton St posted on Ring app. These are social posts, **not used**. | — |
+
+### Corridors / commercial (C)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| C-SI1 | `Staten Island business improvement districts Forest Avenue BID New Dorp Lane BID Staten Island BID St. George` · Firecrawl search | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page ; https://www.forestavenuebid.com/ ; https://www.downtownsi.nyc/new-index | SBS directory excerpt lists Staten Island BIDs **Forest Avenue, New Dorp Lane, South Shore, West Shore** (4; Downtown SI site also says "4 on Staten Island"); Forest Avenue BID office 686 Forest Ave. | §5.5 bullet 6; §8 corridor cards; §Sources |
+| C-SI2 | `Hylan Boulevard Staten Island length miles longest street Bay Street to Tottenville Wikipedia` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Hylan_Boulevard ; https://en.wikipedia.org/wiki/Staten_Island | Hylan Blvd ≈ **14 miles**, Rosebank → East Shore → South Shore (Tottenville); "the longest street in New York City". Victory Blvd ≈ 8.0 miles. SI population 495,747 (2020). | §8 Hylan card; §Sources |
+| C-SI3 | `Richmond Avenue Staten Island Wikipedia Staten Island Mall Forest Avenue Staten Island commercial thoroughfare` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Richmond_Avenue ; https://en.wikipedia.org/wiki/Staten_Island_Mall ; https://en.wikipedia.org/wiki/Heartland_Village,_Staten_Island | Richmond Ave ≈ **7.0 miles** N–S; Staten Island Mall originally a two-story building with GLA **1,274,000 sq ft**; mall south of Richmond Hill Road. | §8 Richmond Ave card; §13 mall card; §Sources |
+
+### Landmarks (L)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| L-SI1 | `Staten Island Ferry St. George Terminal daily riders Verrazzano-Narrows Bridge opened 1964 Staten Island` · Firecrawl search (excerpt) | https://en.wikipedia.org/wiki/Staten_Island_Ferry | Ferry runs 24/7 from St. George; **16,692,900 riders in 2025**; bridge opening was expected to spur an influx of residents. | §13 St. George card; §13 Verrazzano card |
+| L-SI2 | same | https://www.nycgovparks.org/highlights/verrazano-bridge | Verrazzano-Narrows Bridge opened **November 21, 1964**, connecting Brooklyn and Staten Island. | §13 card; §Sources |
+| L-SI3 | `Freshkills Park 2,200 acres Snug Harbor 83 acres Conference House Tottenville built Historic Richmond Town Staten Island landmarks` · Firecrawl search (excerpts) | https://nylandmarks.org/explore-ny/staten-island-museum-snug-harbor/ | Snug Harbor: **83-acre** campus, once a home for retired seamen; 1000 Richmond Terrace. | §13 card |
+| L-SI4 | same | https://freshkillspark.org/blog/the-greenest-borough ; https://www.nyc.gov/html/dycd/downloads/pdf/2012/SummerFun2012_SI_Ongoing.pdf | Freshkills Park **2,200 acres**, almost three times Central Park; Conference House **built 1680**, site of unsuccessful negotiations to end the Revolutionary War. | §13 cards |
+| L-SI5 | same | https://www.nycgovparks.org/parks/conference-house-park | Conference House Park at the **southernmost point of New York State**. | §13 card |
+
+### Coastal camera hardware (salt air)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| E-SI1 | `anti-corrosion security camera coastal salt spray stainless steel C5-M NEMA 4X marine environment datasheet` · Firecrawl search (excerpts) | https://www.hikvision.com/en/products/IP-Products/Explosion-Proof---Anti-corrosion-Series/Anti-corrosion-Series/ ; https://www.isrmag.com/hikvision-launches-polymer-anti-corrosion-cameras-with-next-level-durability-and-performance/ | Hikvision anti-corrosion cameras "for harsh coastal, marine, and industrial corrosive environments"; ISR: "fully corrosion resistant and **C5-M & NEMA 4X** certified". | §9 Q&A "Midland Beach housings"; §10.5 H3 3; §Sources |
+| E-SI2 | same (excerpt) | https://www.youtube.com/watch?v=Q7KHVihclj4 | Dahua anti-corrosion aluminum-alloy and SUS316L stainless cameras, "can be deployed within 2 km of the [coast]" (snippet truncated). The page says only "markets stainless-steel models for deployment close to the coast". | §9; §10.5 H3 3 |
+
+### Forums used in §10.5 (generic, not Staten Island)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| R-SI1 | `reddit statenisland security cameras recommendation installer DVR package stolen porch` · Firecrawl search (excerpt) | https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/ | "Most building lobbies have cameras, and they still steal… hoods and sunglasses… NYPD will probably not…" | §10.5 H3 4 |
+| R-SI2 | same (excerpt) | https://www.reddit.com/r/SecurityCamera/comments/1u73hpz/camera_worth_it_for_porch_pirates/ | "Porch pirates will follow the amazon driver directly up on your porch…" | §9 Q&A "packages at the side door" ("camera forums describe thieves following delivery vans") |
+| — | Nassau S6/S7/S8 (silo) | homeguide.com; r/SecurityCamera 1eypvng; r/homesecurity 1s697t6 | DVR $100–$350; "just buy a new system"; keeping cameras and swapping the recorder is cheapest at many properties | §10.5 H3 1–2 |
+
+### Licensing / permits (Staten Island)
+- NYS low-voltage license #12000287431 (protected). Liability insurance and certificate wording are house practice.
+- NYC DOB permit rules for low-voltage camera work: EMPTY (not researched to a primary source), so the page makes no DOB claim.
+- Special Coastal Risk District (F-SI3) is described only for what it says about development and elevations. The page makes no claim that zoning regulates cameras.
+
+### House practices stated without an external source (FLAG for Anwar)
+- Recorder on the living floor of raised houses; conduit under raised houses; splices kept high; no party-wall drilling; siding mounting blocks (FAQ removed, see below); camera heights after elevation (8–10 ft becomes 16–18 ft, illustrative); lens choice and corridor view for side yards; tandem-driveway camera layout; headlight glare placement; cleaning cadence near the shore; shop recorder away from bay dust; PTZ as a supplement only; low side camera for catalytic-converter theft; solar and home-battery backed-up circuits (the statement that grid-tied solar without a battery shuts down in an outage is general industry knowledge, not sourced here); flood-height reference camera.
+- Company constants copied from live pages: two-hour windows, seven days to 8 PM, "recording again within one to two hours of arrival", $195/hr with 3-hr minimum ($585), 4.7/201.
+
+### Pricing used (no new prices)
+Silo table exactly as published on the old Staten Island page and on Brooklyn and Nassau: 4-ch $450–$700 · 8-ch $650–$1,000 · 8-ch hybrid $800–$1,200 · 16-ch $1,200–$2,200 · 32-ch $2,200+ · run repair quoted after testing · $195/hr, 3-hr min ($585). **No §9 Staten Island 1.10× multiplier applied.** The silo publishes identical figures for every area, so a 1.10× table would invent new numbers on one page only. Coordinator/Anwar to decide whether the silo should move to multiplied prices.
+
+### Images (11), Step C / permanent image rule (Drive has no DVR folder; CompanyCam not connected)
+Every candidate was viewed with Read first. Rejected as AI-generated: `tech-bucket-truck-install.png`, `home-automation-abstract-van-residential.jpg`, `access-control-gate-reader-installation.jpg` (and by extension the other access-control/home-automation renders). The only real AESS job photo **not** used by the 22 existing silo files is `rockland-toyota-showroom.jpeg`. The second real photo is a **different crop** of `rockland-toyota-nvr-monitor.jpeg`, which Nassau cropped to the screen; this crop is the ceiling cable bundles, with no screen content. The other nine are manufacturer product shots, none used before in images/dvr-upgrade/. After Putnam's images appeared (05:3x), four product shots that duplicated Putnam's sources (cam-dual-lens-active, nvr-swann, cam-floodlight) were swapped for unused ones, and the PTZ was upgraded to a stainless model. The two real-photo crops (showroom wall, ceiling cable bundles) use the same source files as Putnam's `small-camera-high-on-white-wall-below-windows` and `blue-and-white-cable-bundles-above-recorder`, because no other unused real AESS photo exists. Coordinator: pick one page to keep them, or accept them as different crops.
+| Output (images/dvr-upgrade/) | Source | Crop / note | Placement |
+|---|---|---|---|
+| dvr-upgrade-staten-island-black-recorder-with-two-front-lights-product-photo.webp (500×420) | images/nvr-avycon-avr-nsv16p.png | trimmed, padded white for hero mask | Hero (eager) |
+| dvr-upgrade-staten-island-small-cameras-on-high-white-wall-below-mezzanine.webp (665×230) | images/rockland-toyota-showroom.jpeg | crop (345,270,1010,500): wall, mezzanine windows, two small cameras; banner, signage, people, cars, logos excluded | §5 |
+| dvr-upgrade-staten-island-black-recorder-with-vented-front-and-orange-badge-product-photo.webp (490×108) | images/nvr-digital-watchdog-cova.png | trimmed; maker badge visible, not named | §6 |
+| dvr-upgrade-staten-island-long-white-bullet-camera-for-driveways-product-photo.webp (299×142) | images/hikvision-varifocal-bullet-camera.jpg | trimmed; maker logo on body visible, not named in copy | §7 |
+| dvr-upgrade-staten-island-black-camera-under-two-white-floodlight-panels-product-photo.webp (168×140) | images/lorex-dual-floodlight-camera-installation-staten-island.jpg | trimmed; maker logo visible, not named | §9 |
+| dvr-upgrade-staten-island-white-turret-camera-with-two-small-lights-product-photo.webp (480×449) | images/cam-eyeball-white.png | trimmed | §10 |
+| dvr-upgrade-staten-island-cable-bundles-running-above-equipment-rack.webp (700×260) | images/rockland-toyota-nvr-monitor.jpeg | crop (0,0,700,260): ceiling cable bundles and rack top only; monitor/screen, labels excluded | §12 |
+| dvr-upgrade-staten-island-white-turret-with-red-and-blue-warning-lights-product-photo.webp (148×137) | images/uniview-colorhunter-triguard-turret-camera-white.jpg | trimmed; maker logo visible, not named | §13 |
+| dvr-upgrade-staten-island-flat-dark-recorder-for-closet-shelf-product-photo.webp (371×156) | images/nvr-luminys-r5216pa.png | trimmed | §14 |
+| dvr-upgrade-staten-island-white-bullet-camera-on-wall-bracket-product-photo.webp (264×137) | images/dahua-marine-stainless-ptz-dome-camera.png | trimmed (the file name says PTZ dome, but the image shows a bullet on a bracket, and the alt describes only what is visible) | §15 |
+| dvr-upgrade-staten-island-stainless-steel-pan-tilt-zoom-dome-product-photo.webp (238×354) | images/dahua-full-color-compact-bullet-camera-white.png | trimmed (the file name says compact bullet, but the image shows a stainless PTZ dome; the alt describes what is visible) | Field Notes |
+All WebP q80, ≤1600 px. Alt and title are unique and each includes "Staten Island". Captions say "Manufacturer product photo (not an installed unit)" or "Example photo from another AESS job (not a Staten Island property)".
+
+## Question register: dvr-upgrade-staten-island (REBUILT 2026-10-18), final
+
+**Q&A (section "DVR Upgrades on Staten Island: Questions Answered", 19 H3):**
+1. Our detached house has a narrow side yard on each side — can one camera cover a whole alley from the front gate to the back corner?
+2. Our semi-attached house has the driveway on the side we share — how do we get a cable to a camera out there without going through the party wall?
+3. Our two cars park nose to tail in a long driveway — can one camera see what happens to the car at the back?
+4. Our driveway climbs a steep hill in Grymes Hill — how do we stop the camera at the top from being blinded by headlights every night?
+5. Our house was lifted onto piers after Sandy — where should the recorder live now?
+6. Since the house was raised, our cameras see roofs and the tops of heads — can they be re-aimed, or do they have to move?
+7. The camera cables now hang across the open space under our raised house — how should they be protected?
+8. Most of the lots around us were bought out and are empty now — what changes for our cameras?
+9. A surge warning is out and our recorder is still in the basement — what should we do with it before we evacuate?
+10. The crews breaking into cars here wear masks and gloves — is better footage even worth paying for?
+11. Our packages get left at the side door, not the front — can the system show the delivery and whoever picks it up?
+12. Our street lights are dim — will a camera that records in colour at night tell us the colour of a car better than infrared?
+13. Our auto shop's recorder sits in the bay office in dust and fumes — will a new one survive there?
+14. Is one pan-tilt-zoom camera enough to watch a whole contractor's yard?
+15. Thieves cut catalytic converters off cars in our lot — where does a camera have to be to see it happen?
+16. We live a few blocks from the beach in Midland Beach — which camera housings hold up best that close to the water?
+17. How often should cameras near the shore be cleaned, and can we do it ourselves?
+18. We're finishing our basement next month — what should be done about the camera cables before the drywall goes up?
+19. Once the basement is a family room, can the recorder stay down there without the fan noise and heat bothering anyone?
+(Emergency H2 is a statement, not a question: "Recorder Quit, Channels Snowy or Nights Missing? Call the Staten Island Line". The hybrid-vs-NVR and ADT/Ring/SimpliSafe H3s are written as statements.)
+
+**FAQ (visible == FAQPage, 10):**
+1. Can we search the recorder for every time a car pulled into the driveway last week?
+2. Is it worth calling you across the bridge for a single dead camera?
+3. Should outdoor cameras be taken down or covered before a hurricane or a nor'easter?
+4. We have solar panels and a home battery — can the cameras keep recording from them when the grid goes down?
+5. If a storm knocks a camera out of aim after the job is finished, is that covered?
+6. Can a camera go on a fence post or a lamp post at the end of the yard instead of on the house?
+7. Will the recorder slow down our home internet when we watch the cameras from work?
+8. Can a camera record how high the water came if our street floods again?
+9. What should we do before the installer arrives — move the cars, clear the garage?
+10. Our builder ran network cable to the eaves when the house was rebuilt after Sandy but never added cameras — can the new recorder use it?
+
+**De-dup notes:** Checked against the register (all old-template pages, Brooklyn and Nassau) and against the rewritten Putnam (05:32) and Queens (05:33) pages. Three first-draft FAQs were replaced because Queens or Putnam already covers the intent: weekend booking (Queens "do you come on weekends"), vinyl/aluminum siding mounting (Queens), and the empty house over the winter (Putnam lake house / weekend house). The evacuation question was re-scoped to flood protection of a basement recorder, so it no longer means "leave the recorder on while away". The spider-web sentence was removed from the cleaning answer (Putnam has a spider-web question). The "hybrid or network" H3 was turned into a statement because Putnam and Queens both ask "Hybrid recorder or (a) full network system?". Borderline pair left for coordinator review: my FAQ 6 (camera on a fence or lamp post) vs Putnam "the town plow keeps knocking over the post with our driveway camera… where else can it go?" (different intent: whether a post mount is possible vs relocating a struck post).
+
+### Build notes
+- check_page.py: **PASS** (full, with registration). 13,827 rendered words; title 50; meta 154; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10.
+- Masked-geo block similarity (p/li/td/h2/h3/figcaption ≥8 masked words, word-level SequenceMatcher) vs every dvr-upgrade-* page: the only block ≥0.60 is the blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades on/in [Area]" (0.875 vs Brooklyn, Nassau, Putnam, Queens). The verbatim warranty sentence was not scored, because its paragraph prefix was reworded.
+- File size 189,115 B; nearest siblings: Brooklyn 186,554 (+2,561), Putnam 193,557 (−4,442), Queens 184,126 (at 05:3x). If Queens or Putnam change size, re-run the 2 KB cluster check at wiring.
+- Rendered QA (Playwright, 1440 and 390 wide): no JS errors, no horizontal scroll.
