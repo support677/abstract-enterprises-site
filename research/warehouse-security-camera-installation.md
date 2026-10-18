@@ -889,3 +889,161 @@ CONFLICT: old Manhattan page used ~1.16× ($5,200–$8,800; $10,500–$18,500; $
 - "Every floor is a first floor" quote attributed to the building's promoters via Wikipedia/LPC report.
 - Images: 11 real AESS job photos (deli, window-depot office/stock room, car dealership) — none shows a warehouse; captions describe only what is visible.
 - Price conflict with old page (old ~1.16x) — §9 x1.25 used.
+
+
+## Nassau County
+
+Added 2026-10-18 by the batch-15 REBUILD run (warehouse-security-camera-installation-nassau-county). Format: exact query · platform · URL · finding · page+section used. Thesis: Nassau builds almost no new industrial space, so every camera job is a retrofit in a re-used building (old block shops, flex parks, upper floors, former plant/defense land), shaped by landlords, villages, tides, fleets and Nassau police/alarm rules.
+
+### Market and land supply
+- `Long Island industrial market report 2026 Nassau County industrial vacancy square feet` · Firecrawl search → scrape PDF · https://assets.cushmanwakefield.com/-/media/cw/marketbeat-pdfs/2026/q1/us-reports/industrial/li_americas_marketbeat_industrial_q12026.pdf · C&W Q1 2026: LI inventory 136,861,025 sf, vacancy 5.2%; Western Nassau 16,000,620 sf (4.5%), Central 6,861,182 (3.6%), Eastern 22,046,534 (5.5%); Nassau under 5.0% first time since Q4 2024; Gate Gourmet 63,437-sf new lease at 95 Inip Drive, Inwood; transactions at 3 Seaview Blvd Port Washington (H&M USA) and 101 & 121 Dupont St Plainview · hero, Why ¶2, facts list, Business cards, landmarks, sources.
+- same query · scrape · https://www.cushmanwakefield.com/en/united-states/insights/us-marketbeats/new-york-city-area-marketbeats/long-island-industrial · Q2 2026: record 1.7 msf leasing; vacancy 4.9%; "industrial development sites become increasingly scarce in Nassau County and Western Suffolk"; Western Nassau asking rent +1.5% to $23.11 · Why ¶2, AI check #1.
+- same query · scrape PDF · https://nmrk.imgix.net/uploads/fields/pdf-market-reports/2Q26-Long-Island-Standard-Industrial-Market-Report.pdf · Newmark 2Q26: Nassau 280,246 sf leased (23.9% of LI); no new space delivered in five quarters, developable land "has largely run out"; Parts Authority 72,489 sf part of 2nd floor at 12 Harbor Park Drive; Otter Moving & Storage 42,625 sf whole building at 435 First Street; LI vacancy 5.9%, asking $17.99 · hero, Why ¶2, architecture card (upper floors), landmarks, AI check #1.
+- `New Cassel industrial area Westbury warehouses OR "Harbor Park Drive"…` · Firecrawl search (excerpt) · https://www.loopnet.com/search/warehouses/nassau-county-ny/for-sale/ · 47 Nassau warehouses for sale, avg $419/sf, avg size 18,754 sf (snapshot Oct 2026) · Why ¶2, AI check #7, placement-order note.
+- same search (excerpt) · https://www.cushmanwakefield.com/en/united-states/properties/new-york/industrial-for-lease-long-island · Inwood Logistics Center at 41 and 71 Inip Drive · landmarks.
+
+### Re-used plant and defense land
+- `Nassau County IDA warehouse distribution facility approved 2025 OR 2026 Hicksville OR Westbury OR Bethpage OR Inwood` · Firecrawl search → scrape · https://libn.com/2023/07/05/developer-gets-ida-help-for-99-4m-hicksville-warehouse-project/ · July 5, 2023: 125 New South Road, Hicksville; Pictor Nassau Logistics Center LLC (Brookfield affiliate); 207,237 sf warehouse + 12,400 sf office on long-vacant 15.1-acre site; Covestro operated 2000–2002 then demolished; "once tainted"/Superfund site; $99.4M; IDA incentives · Why ¶3, Q&A trenching, landmarks.
+- `600 Grumman Road West Bethpage warehouse 240,200 square feet` · Firecrawl search → scrape · https://melvillechamber.org/news/bethpage-grumman-road-spec-warehouse-nassau-ida/ · Prologis spec warehouse 240,200 sf, 36-ft clear, 51 dock-high + 1 drive-in, 30 trailer stalls, 393 car spaces, 17 acres of former Northrop Grumman land, every foot still marketed; Nassau IDA preliminary vote Sept 24 (2026) · Why ¶3, architecture, landmarks. Corroboration: https://libn.com/2022/04/27/denver-firm-buying-northrop-grumman-site-in-bethpage-for-51-2m/ (excerpt; $51.2M purchase, 17 acres).
+- `Navy Northrop Grumman Bethpage groundwater plume NYSDEC cleanup site Bethpage` · Firecrawl search (excerpt) · https://dec.ny.gov/environmental-protection/site-cleanup/regional-remediation-project-information/region-1/environmental-investigation-cleanup-activities-bethpage-facility-sites · plume ~4.3 miles south toward Southern State Pkwy, ~900 ft deep, ~2.1 miles wide; Jan 16, 2026 update; Grumman on-site groundwater and soil-gas containment · Q&A trenching.
+- `NYSDEC environmental easement site management plan excavation notification…` · Firecrawl gov search (excerpts) · https://extapps.dec.ny.gov/docs/remediation_hudson_pdf/envnoticetemplate.pdf ; https://extapps.dec.ny.gov/docs/remediation_hudson_pdf/516008ismp1.pdf · notice: where contamination remains under an SMP, no disturbance/excavation threatening engineering controls without approval (6 NYCRR 375-1.11(b)(2)); example ISMP: notify DEC at least 15 days before intrusive work · Q&A trenching. Whether 125 New South Rd / 600 Grumman Rd W carry an SMP: NOT verified — page tells owners to check.
+
+### Police, crime, programs
+- `Nassau County police warehouse burglary arrested commercial burglary…` · Firecrawl search → scrape · https://www.pdcn.org/CivicAlerts.aspx?AID=14814 · Jan 30, 2026 2:44 a.m., U-Haul Moving and Storage, 20A Sheridan Blvd, Inwood: front sliding glass doors forced, car keys taken, 2025 Ford van removed from front lot; Fourth Squad/precinct · hero, Why ¶4, Q&A Inwood, Q&A vans.
+- same · https://www.pdcn.org/CivicAlerts.aspx?AID=14973 · Apr 2026: Major Case Squad + BSO + First/Third Squads + Crime Scene + NCDA Major Offense Bureau; commercial burglaries of phone repair shops in Rockville Centre, Uniondale, Baldwin, Hicksville (defendant names not used) · Why ¶4, Q&A smash-and-grab.
+- `reddit longisland warehouse security cameras business break in…` · Firecrawl search (excerpts) · https://longisland.news12.com/2025/12/21/caught-on-camera-thieves-ransack-tech-repair-store-in-hicksville-latest-in-string-of-burglaries/41WCbDcbg3zrmiKZ4733Ua · Dec 21, 2025: three people used a brick to smash glass at front of Hicksville tech repair store, fourth waited in a car; surveillance video · Why ¶4, Q&A smash-and-grab.
+- same search · https://www.reddit.com/r/longisland/comments/1tbxkb0/is_anyone_talking_about_the_flock_cameras_being/ · r/longisland thread (1.3K votes, 574 comments) arguing about Flock plate-reader cameras — opinion only · Q&A plate readers. Reddit for Nassau warehouse cameras specifically: EMPTY (no relevant thread returned).
+- `Nassau County trailer stolen tractor trailer theft cargo Long Island police 2025 2026` · Firecrawl search → scrape · https://www.cbsnews.com/newyork/news/nassau-suffolk-counties-form-task-force-to-target-high-end-thefts/ · Jan 2024: Nassau–Suffolk multijurisdictional burglary and stolen-car task force; crews break into homes for key fobs; "90%" of stolen Nassau cars tracked to Newark · Q&A vans.
+- (reused, uniview research N-C3) https://www.cbsnews.com/newyork/news/metal-thieves-targeting-cars-at-lirr-station-lots-for-pricey-part/ · catalytic converters at Syosset and Hicksville station lots; MTA police with NCPD; undated → page says "has reported" · Q&A box trucks, Q&A railroad.
+- `Nassau County Police Department precincts number village police departments…` · Firecrawl search (excerpts) · https://www.pdcn.org/31/Precincts (8 precincts) ; https://oysterbaytown.com/community-resources/police-precincts-departments/ (2nd Pct Woodbury covers Hicksville/Plainview/Syosset…; 7th Pct Seaford covers Massapequa; 8th Pct 299 Hicksville Rd, Bethpage covers Bethpage/Farmingdale…; village PDs e.g. Brookville, Muttontown, Old Westbury) ; https://www.nassaucountyny.gov/DocumentCenter/View/2827/Police-Departments (directory of village/city police departments) · facts list, Business cards, town-by-town.
+- `Nassau County Police Real Time Crime Center business camera registry…` · Firecrawl search · no Nassau result → EMPTY; Garden City registry + SPIN reused from uniview research N-G6/N-G7 · Q&A registry, town-by-town.
+- (reused, uniview research N-G4/N-G5) Admin Code §8-40 alarm permits/false-alarm penalties ($550–$750 commercial non-permit schedule; 90-day grace with permit); NCPD "over 125,000 false alarms each year" · compliance callouts, Q&A false alarms.
+- (reused, uniview research N-C5) Investigative Post July 17, 2026 (DeFlock): Nassau 331 reported ALPR cameras, most of any NY county · Q&A plate readers, AI check #6.
+
+### Power, flooding, licensing, codes
+- `Freeport Electric municipal utility village of Freeport Rockville Centre electric…` · Firecrawl search (excerpts) · https://dps.ny.gov/location/village-freeport-freeport-electric ; https://www.rvcny.gov/electric-department ; https://www.nyapp.org/village-of-rockville-centre · Freeport Electric (46 North Ocean Ave) serves Nassau; RVC Electric gets ~75% of energy from NYPA hydro and runs village plant engine generators when demand exceeds import capacity and during emergencies · facts list, Business cards, town-by-town, FAQ village power.
+- (reused, uniview research N-W1/N-W2) News 12 Sept 2026 nor'easter: LIRR Long Beach Branch suspended for Island Park flooding, millions of gallons pumped; PSEG LI ~1.2M customers · facts list, Q&A tides, town-by-town.
+- (reused, video-wall research) Admin Code §21-11 / LL 6-1970 home-improvement (dwellings ≤3 families; excludes burglar/fire alarm systems); Town of Hempstead Code ch. 84 and North Hempstead ch. 2 art. IV electrician licensing; Consumer Affairs on Old Country Rd, Mineola; Roosevelt Field 630 Old Country Rd; UBS Arena Nov 19, 2021; Nassau Hub; county 2 cities/3 towns/64 villages/100+ unincorporated · compliance callouts, AI check #3, landmarks, town-by-town.
+- `12 NYCRR Part 56 asbestos survey required before renovation building constructed before January 1, 1974` · Firecrawl gov search (excerpts) · https://dol.ny.gov/new-york-state-asbestos-survey-requirements ; https://dol.ny.gov/new-york-state-asbestos-survey-requirements-building-permit-applicants-p231 · survey by certified inspector before demolition/renovation/remodel/repair; pre-1974 buildings; trades without asbestos license may not disturb ACM · compliance callouts, Q&A asbestos, Field Notes.
+- `NEC plenum rated cable CMP required in air-handling spaces…` · Firecrawl search (excerpts) · https://winnieindustries.com/resources/knowledge_center/frequently-asked-questions/air_handling_faq/ · CMP cable in plenum spaces per NEC 300.22(C), tested to NFPA 262 · FAQ plenum.
+- Census · scrape · https://censusreporter.org/profiles/05000US36059-nassau-county-ny/ · ACS 2024 1-yr: 1,392,438; land 284.5 sq mi; 4,893.6/sq mi; mean commute 37.8 min (not used) · Why ¶1, facts list. Density comparison with Dutchess uses Dutchess figures already in this file.
+
+### EMPTY (not accessible in build env)
+Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG, Yelp 1–3★ — EMPTY. Nassau-specific Reddit on warehouse cameras — EMPTY. NCPD real-time crime center / camera registry — EMPTY. Railroad-adjacent industrial streets: general statement, no source (method only). Whether any named parcel has a DEC site management plan — not verified.
+
+### Pricing used (Nassau page)
+Brooklyn warehouse base × 1.15 (§9; all products integers): 8-cam $5,175–$8,625; 16-cam $10,350–$18,400; 32-cam $20,700–$36,800+; plate lane $1,610–$3,220; PTZ $1,380–$2,990; DVR→NVR $2,070–$7,475; service $195/hr, 3-h min ($585). CONFLICT: old Nassau page showed $5,200–$8,800 / $10,500–$18,500 / $21,000–$38,000+ (≈1.16–1.19×) and a "three-year AESS-product warranty" row (dropped). No published BYOE labor rate.
+
+### Images (11)
+Drive "AESS Website Photos" has no warehouse subfolder (re-listed 2026-10-18: only Cat6 Repair, Sonos, Soundbar, Smart Lock, Fiber Optic); CompanyCam/Composio not connected. Permanent image rule: 3 real AESS job photos — security-camera-maintenance (dome on steel arm, masonry facade; cropped), nvr-installation (mini dome over slatwall shelves), hik-connect-app-support-repair (bullet watching corridor to steel door — NOTE: same photo as video-wall-installation-long-island corridor image, cross-silo) — plus 8 manufacturer product shots (Dahua stainless housing, Hikvision slim NVR, Dahua speed dome, dual-lens warning-light turret, white turret, Dahua bullet, Akuvox keypad door station, solar-cellular PTZ). Five real photos first chosen were dropped because the same scenes were already on the Manhattan/Queens warehouse pages. Real non-AI photo pool is effectively exhausted for this silo.
+
+### FLAGS / unsourced house practices (Nassau page)
+- Method statements (not sourced): door-first placement order, key-cabinet in view, trucks nose-in, labeled runs, head-end height on South Shore, off-site copies before storms, pole placement vs snowplows, VLAN separation, thermal pairing, empty-building kit with cellular router, landlord/tenant view-only logins, recorder-reboot caution after a crime, "most single faults fixed within 1–2 hours", openingHours 08:00–20:00.
+- "Roughly a dozen times the density of Dutchess" = arithmetic from Census figures (4,894 vs ~377/sq mi).
+- Labor Law §203-c wording paraphrased from silo research.
+
+## Question register — warehouse-security-camera-installation-nassau-county (REBUILT 2026-10-18)
+
+| Question | Page | Section |
+|---|---|---|
+| Our building sits on former plant land in Bethpage or Hicksville. Can you trench across the lot to a camera pole? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| The light poles in our lot belong to the landlord and were approved with the site plan. Can cameras go on them? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our unit is in Inwood, right at the Queens line. Do New York City rules apply to the camera work? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our Oceanside or Island Park building takes water on big tides. Where should the recorder and switches go? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Can our cameras help document flood damage for an insurance claim? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our delivery vans park overnight in the front lot and the keys are kept inside. What should cameras cover? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our box trucks sit along the back fence overnight. Can cameras stop catalytic converter and parts theft? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Thieves have been smashing front glass at Nassau shops at night. What should the camera at our counter entrance capture? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| The back of our lot faces the railroad right-of-way. Can a camera watch the fence line along the tracks? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Three businesses on our industrial street were hit the same night. Can we and our neighbors share camera views? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Garden City police run a voluntary camera registry. Should a warehouse sign up, and does it give police access to our system? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Nassau charges for false alarms. Can camera video keep our alarm from costing us? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Nassau has more plate-reader cameras than any county in the state. Do we still need our own on the gate? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our building dates from before 1974. Does running camera cable trigger the state’s asbestos rules? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our electrical panel has no spare breakers. Can cameras still go in? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Our landlord won’t allow any new holes in the roof. How does cable reach cameras on the far wall? | /warehouse-security-camera-installation-nassau-county | Questions Answered |
+| Before we sign a lease on space in a Nassau building, what camera questions should we put to the landlord? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Our building gets its power from Freeport Electric or Rockville Centre’s village system. Does that change anything for the cameras? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Our building is empty while we look for a tenant. What is the least we should run so the vacancy doesn’t invite trouble? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| A delivery driver says he was hurt on our dock. How do we stop the clip from being overwritten? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Snowplow contractors keep hitting poles in our lot. Where should camera poles go? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Our IT company manages our office network. Will the cameras sit on it, or separately? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Our office ceiling is used as a return-air plenum. Does camera cable have to be plenum-rated? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Can a camera watch the sprinkler riser and fire pump room for tampering? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| Would thermal cameras help on the dark back fence behind our building? | /warehouse-security-camera-installation-nassau-county | FAQ |
+| How is a Nassau warehouse camera job billed — is there a deposit? | /warehouse-security-camera-installation-nassau-county | FAQ |
+
+
+<!-- merged from queens builder part file, 2026-10-18 -->
+# warehouse-security-camera-installation — Queens part (for merge into research/warehouse-security-camera-installation.md)
+
+Built 2026-10-18 (batch 15, REBUILD of /warehouse-security-camera-installation-queens). Format: exact query · platform · URL · finding · page+section used. `EMPTY (not accessible in build env)` = surface could not be opened; nothing invented.
+
+## Queens
+
+| # | Exact query | Platform | URL | Finding | Page + section |
+|---|---|---|---|---|---|
+| Q1 | `Queens Industrial Business Zones Maspeth Long Island City Jamaica JFK IBZ NYC` | Firecrawl search | https://edc.nyc/industry/industrial-and-manufacturing | 21 IBZs citywide, entirely manufacturing-zoned land; Queens IBZs: Jamaica, JFK, Long Island City, Maspeth, Ridgewood, Steinway, Woodside | Why §1, facts list, Q&A "IBZ" |
+| Q2 | same | Firecrawl search | https://nyc-business.nyc.gov/nycbusiness/description/industrial-business-zone-relocation-credit | IBZ Relocation Tax Credit, one-time, $1,000 per moved worker | Q&A "IBZ" |
+| Q3 | same → scrape | Firecrawl scrape | https://www.mibanyc.org/ibz | Maspeth IBZ: 850+ industrial businesses, 16,000+ jobs, 80% industrial; industries list (construction, wholesale, transportation & warehousing, food/soft drinks, printing, chemicals, metal, corrugated boxes, plastics, furniture, building materials, perishable food wholesalers, logistics, waste/recycling). No boundaries or security program on page. | Why §1, facts list, landmarks |
+| Q4 | same | Firecrawl search | https://www.longislandcityqueens.com/business/industrial-business-zone/ | LIC Partnership = Industrial Business Service Provider; IBZ zip codes 11101, 11102, 11103, 11104, 11106, 11109, 11120 | Q&A "IBZ", landmarks |
+| Q5 | `Maspeth warehouse last-mile delivery truck traffic Amazon Queens 2025` | Firecrawl search | https://comptroller.nyc.gov/reports/fast-shipping-slow-justice-traffic-worker-and-climate-hazards-in-last-mile-delivery/ | Maspeth crashes near FedEx & Amazon warehouses +53% / +48%; appendix: Amazon DBK1 26-15 Boody Street (Queens), DYN3 66-26 Metropolitan Avenue (Queens) | Why §3, landmarks |
+| Q6 | same → scrape | Firecrawl scrape | https://queenseagle.com/all/2025/11/25/heavy-traffic-and-crashes-abound-around-queens-19-last-mile-warehouses-report-finds | 19 last-mile warehouses in Queens (Amazon, FedEx, UPS); injury crashes +78% where facilities opened; crashes rose near six of Queens' eight newest facilities (Nov 25, 2025) | Why §3, facts list |
+| Q7 | same | Firecrawl search | https://nyc.streetsblog.org/2025/11/18/report-traffic-injuries-increase-near-amazon-last-mile-warehouses | 18 facilities opened since 2015 (11 since 2020) citywide; Maspeth fared worst | research only |
+| Q8 | `JFK airport cargo tons handled 2024 Port Authority air cargo Building 151 cargo area warehouses` | Firecrawl search | https://www.realterm.com/news/port-authority-realterm-and-worldwide-flight-services-celebrate-opening-of-new-270-million-state-of-the-art-consolidated-cargo-handling-center-at-john-f-kennedy-international-airport/ ; https://newyorkyimby.com/2025/04/270-million-cargo-handling-facility-reaches-completion-at-jfk-airport-in-queens.html | JFK handled 1.67M tons of cargo in 2024 (~5% up); $270M consolidated cargo handling center (Realterm/WFS) opened April 2025, first step in North Cargo Area redevelopment | Why §2, facts list, landmarks |
+| Q9 | `Springfield Gardens Rockaway Boulevard freight forwarders JFK cargo warehouses neighborhood trucks` | Firecrawl search | https://www.nyc.gov/html/dot/downloads/pdf/springfield-gardens-jfk-transportation-study-2016.pdf | "Springfield Gardens has the highest off-airport concentration of air cargo facilities in NYC"; industrial/warehousing south of North Conduit Ave and west of Rockaway Blvd depend on trucks; Rockaway Blvd a designated through truck route | Why §2, Q&A vibration, landmarks, buildings |
+| Q10 | `JFK airport cargo theft Queens 2025 arrests warehouse Springfield Gardens` → scrape | Firecrawl search + scrape | https://abc7ny.com/post/david-lacarriere-gary-mcarthur-jfk-cargo-heist-airport/7453005/ | Oct 29, 2020: six charged in two heists from an air cargo importer's receiving office at JFK, ~$6M designer goods (~$804k + >$4.4M); forged documents with correct airway bill and flight details; insider knowledge; tractor-trailer; surveillance video cited; multi-agency investigation | Why §4, Q&A release desk, AI-wrong #1, landmarks para |
+| Q11 | (reused, silo row 17) | — | https://www.cargonet.com/news-and-events/cargonet-in-the-media/2025-theft-trends/ | 2,646 thefts 2025 (+18%), ~$725M, avg $273,990 | Why §4 |
+| Q12 | `2006 Long Island City Queens blackout Con Edison days businesses` → scrape | Firecrawl search + scrape | https://www.baruch.cuny.edu/nycdata/disasters/blackouts-queens.html ; https://documents.dps.ny.gov/public/Common/ViewDoc.aspx?DocRefId=%7B7E49909B-9182-4D26-A8F9-6D1F456450BB%7D | July 17–25, 2006, eight days; est. 175,000 people affected (Con Ed said closer to 8,000); LIC network; $100 credit. Neighborhoods not named on Baruch page. | Why §5, Field Notes |
+| Q13 | `NYC stormwater flood map extreme rainfall Queens industrial areas Maspeth Newtown Creek flooding warehouses` | Firecrawl search | https://nychazardmitigation.com/documentation/hazard-profiles/flooding/ | Sept 29, 2023: ~8 in. at JFK weather station, highest September day since 1960; 28 rescues; just over 600 damage reports (basements/first floors); Ida Sept 1–2, 2021 | Why §5, facts, Q&A flood, AI-wrong #2 |
+| Q14 | same | Firecrawl search | https://rebuildbydesign.org/rainproof-nyc-map/ | Queens CB12: 7,250 flood reports to 311, highest of any board | Why §5, Q&A flood |
+| Q15 | `College Point Queens industrial flooding Hurricane Ida basements warehouses Howard Beach Sandy flood zone businesses` | Firecrawl search | https://www.nan.usace.army.mil/Media/Fact-Sheets/Fact-Sheet-Article-View/Article/2721047/fact-sheet-spring-creek-south-howard-beach-queens-ny/ | Howard Beach record flooding in Sandy (2012); susceptible since to surge and nuisance flooding | Why §5, landmarks |
+| Q16 | `College Point Corporate Park industrial businesses Queens Whitestone warehouse district` | Firecrawl search | https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-collegepoint.pdf ; https://qns.com/2023/03/developers-secure-146-million-to-construct-college-point-logistics-center/ | College Point: Corporate Park, many warehouses and factories; College Point Logistics Center ~81,000 RSF industrial + 160,000 SF enclosed parking, $146M financing (Mar 2023) | Buildings card, landmarks |
+| Q17 | `NYPD Patrol Borough Queens North Queens South precincts list` | Firecrawl search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts-landing.page | Queens precincts 100th–116th (17), addresses incl. 104th 64-2 Catalpa Ave, 108th 5-47 50th Ave, 113th 167-02 Baisley Blvd, 100th 92-24 Rockaway Beach Blvd, 116th 244-04 North Conduit Ave | Landmarks para |
+| Q18 | (reused from research/video-wall-installation.md Queens row) | — | https://www.census.gov/quickfacts/queenscountynewyork | Language other than English at home 55.4% (5+, 2020–24); foreign-born 47.6% | Facts list, Q&A languages |
+| Q19 | (reused, silo/Manhattan rows S2, S4, S5, S3) | — | nysenate.gov LAB/203-C; amlegal NYC Admin Code §22-1202, §28-105.4.7; GBL §69-m | Restroom/locker/changing-room recording ban; biometric sign rule for commercial establishments; <50 V low-voltage permit exception; installer licensing | Q&A IBZ, AI-wrong, FAQ electrician, trust strip |
+| Q20 | `site:reddit.com Maspeth OR "Long Island City" OR Jamaica warehouse theft cameras break-in Queens business` | Firecrawl search | — | Nothing usable (one anonymous r/nyc comment on Lasership Maspeth depot theft; not used) | EMPTY for Queens Reddit |
+| — | Google PAA / PASF / AI Overview / Answer the Public / Bing-DDG / Yelp 1–3★ | — | — | EMPTY (not accessible in build env) | Sources section says so |
+
+Images: Drive "AESS Website Photos" has no warehouse subfolder (rechecked 2026-10-18: Cat6 Repair, Sonos, Soundbar, Smart Lock, Fiber Optic only); CompanyCam not checked. Permanent image rule — 11 files `images/warehouse-security-camera-installation/warehouse-security-camera-installation-queens-*.webp`, md5-unique vs every warehouse and video-wall image, sources: images/dahua-camera-installation/ (2), school-security-camera-installation/ (1), security-camera-maintenance/ (1), dvr-upgrade/ (1), apartment-building-security-camera-installation/ (1), root rockland-toyota-* (4, cropped to remove signage, people and brochure text), root ubiquiti-unifi-g6-bullet-4k-camera-black.jpg (1 manufacturer product shot, captioned as such). Several show the same scenes as photos already on the Dutchess/Manhattan warehouse pages (different files/crops) — real library nearly exhausted.
+
+## Pricing used (Queens page)
+Brooklyn base × Queens 1.05 (§9; all products integer): 8-cam $4,725–$7,875; 16-cam $9,450–$16,800; 32-cam $18,900–$33,600+; LPR lane $1,470–$2,940; PTZ $1,260–$2,730; DVR→NVR $1,890–$6,825; service $195/hr, 3-hr min ($585). CONFLICT: old Queens page showed $4,900–$8,200 / $9,900–$17,500 / $19,800+ / LPR $1,500–$3,000 / PTZ $1,300–$2,800 / DVR→NVR $2,000–$7,000 (~1.09×). No Queens parking fee found in the repo price pages.
+
+## Question register — warehouse-security-camera-installation-queens (REBUILT 2026-10-18)
+
+### Q&A section (H2, "Queens Warehouse Cameras: Questions Answered")
+- Our JFK-area forwarder keeps the paperwork desk and the truck bays in different rooms. How do the cameras tie a release to the truck that loaded?
+- Delivery vans come back to our Maspeth station after dark with parcels that were not delivered. How do cameras help account for what came back?
+- Our crew speaks several languages across three shifts. How do we make the camera system usable for every shift lead?
+- Our building sits inside the Maspeth Industrial Business Zone. Does that change anything about cameras?
+- Our JFK-area crew starts at 2 a.m. to meet overnight flight arrivals. How should cameras be set up for a staffed night shift? (replaced flood recorder-placement Q — overlapped Nassau tidal-flooding Q; flood facts kept in body)
+- Our Maspeth distributor's racking runs nearly to the ceiling with stock on every level. Where do cameras go so the racks don't block them? (replaced no-drilling mounting Q — overlapped Nassau no-roof-holes Q)
+- Our station's busiest hours are the pre-dawn sort and the evening return. Can the system record differently at those times? (replaced landlord-shared-internet Q — overlapped Nassau office-network Q)
+- Our metal building shakes when trucks pass on Rockaway Boulevard. Will that blur the cameras?
+- Our College Point wholesaler takes cash at a will-call window. Can the cameras settle a drawer that comes up short?
+- Pallets wait overnight on our Springfield Gardens floor between the airline handler and the morning truck. How do we prove what was on the floor at closing?
+- We run two Queens warehouses a few blocks apart, one in Maspeth and one in Ridgewood. Should each have its own recorder?
+- The unit next to ours in a Glendale building has been empty for months. Should cameras watch the shared wall?
+
+### FAQ (visible + FAQPage schema)
+- Our Long Island City building has poured-concrete ceilings and no drop ceiling. How does camera cable get run?
+- Remote viewing stopped the week the landlord switched internet providers. Is the system broken?
+- We bought a building in Jamaica that came with someone else's camera system. Who controls the footage and the passwords now?
+- New LED high-bay lights went in and now the camera picture rolls with dark bands. Can that be fixed?
+- Can the recorder keep a copy of key footage away from the building in case of flood or fire?
+- An airline or shipper near JFK wants to see its freight being handled in our building. Can we send clips without giving them access to the system? (replaced dock-injury FAQ — overlapped Nassau injury-clip FAQ)
+- A forklift keeps knocking the camera we mounted low beside a dock door. Where should it go?
+- What should we tell our staff about the cameras?
+- Our recorder sits in a hot mezzanine closet above the docks. Is that a problem?
+- Can a camera see inside a 53-foot trailer while it is being loaded at our door?
+- Do we need our own electrician for a warehouse camera installation?
+- Can the system count trucks or show how long they sit at our doors?
+
+Closest overlaps checked by meaning (after 2026-10-18 batch check vs Nassau register, 4 questions replaced): overnight-staging Q vs Manhattan "warn when freight door opens after close" (primary intent = closing snapshot); release-desk Q vs Manhattan "carrier driver signs for pallet" / "real carrier's name" (intent = linking two rooms by clock/grouping). Old pre-rebuild Queens questions are retired with the old page.
+
+## FLAGS / unsourced house practices (Queens page)
+- Method statements (not sourced): closing snapshot routine, picture-based recorder guide, per-user app language (depends on model), night-shift recording/alert schedules and added yard light, aisle-end camera placement in racked buildings, time-of-day recording schedules, customer clip sharing via time-limited link, vibration/mounting advice, LED anti-flicker fix, POS text overlay (compatibility-dependent), line-crossing/dwell analytics as estimates, 1–2 h repair time, openingHours 08:00–20:00 in schema.
+- "Queens has seventeen precincts" counted from NYPD list (100th–116th); precinct coverage areas not stated beyond station addresses.
+- Port Authority Police not named as such; 2020 case described as "multi-agency investigation" (ABC7).
+- Price conflict with old page (~1.09×) — §9 ×1.05 used.

@@ -304,9 +304,9 @@ LIVE REBUILD | video-wall-installation-ulster-county | Video Wall Installation |
 LIVE REBUILD | video-wall-installation-westchester-county | Video Wall Installation | Westchester | up /video-wall-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE REBUILD | warehouse-security-camera-installation-dutchess-county | Warehouse Security Camera Installation | Dutchess | up /warehouse-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | warehouse-security-camera-installation-manhattan | Warehouse Security Camera Installation | Manhattan | up /warehouse-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-18T16:36Z REBUILD | warehouse-security-camera-installation-nassau-county | Warehouse Security Camera Installation | Nassau | up /warehouse-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-10-18T16:36Z REBUILD | warehouse-security-camera-installation-queens | Warehouse Security Camera Installation | Queens | up /warehouse-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
-BUILDING 2026-10-18T16:36Z REBUILD | wireless-camera-installation-hudson-valley | Wireless Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE REBUILD | warehouse-security-camera-installation-nassau-county | Warehouse Security Camera Installation | Nassau | up /warehouse-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
+LIVE REBUILD | warehouse-security-camera-installation-queens | Warehouse Security Camera Installation | Queens | up /warehouse-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE REBUILD | wireless-camera-installation-hudson-valley | Wireless Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-nassau-county | Wireless Camera Installation | Nassau | up /wireless-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-nyc | Wireless Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-westchester-county | Wireless Camera Installation | Westchester | up /wireless-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
