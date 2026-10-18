@@ -324,3 +324,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-park-slope-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-parkchester-bronx-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-pelham-bay-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-pelham-gardens-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-pelham-parkway-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-prospect-park-south-brooklyn-ny | QUEUED
