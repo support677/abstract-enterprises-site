@@ -151,3 +151,319 @@ Local research for the Long Island hub (Nassau + Suffolk). Thesis used on the pa
 
 ### Images (Long Island hub)
 Drive "AESS Website Photos" has no Video Wall folder; CompanyCam not connected. No video-wall photos exist in the repo. All soundbar-installation "display" images and low-voltage "display" images were inspected and are AI-generated (rendered techs in "Abstract Enterprise LLC" shirts, one even showing a 2×2 wall) — excluded. 11 images made from real AESS job photos and one product shot: `images/rockland-toyota-nvr-monitor.jpeg` (4 crops), `images/manhattan-deli-monitor.jpeg` (2 crops), `images/nassau-window-depot-monitor.jpeg` (1 crop, lower half only — no people, no house number), `images/network-installation/…suffolk-county…` (3), `images/nvr-installation/…exacqvision-rack-mount-server-product-photo` (1). None shows a video wall; captions say so.
+
+
+---
+
+# Part from batch run 2026-10-18 — video-wall-installation-nassau-county
+
+# Video Wall Installation — research part: Nassau County
+
+Page: video-wall-installation-nassau-county (REBUILD, 2026-10-18). Built by subagent; merge into research/video-wall-installation.md.
+Thesis: Nassau video walls go into showrooms, mall/strip-center stores, office-park lobbies, school gyms, operations rooms and single-family homes, spread across 2 cities / 3 towns / 64 villages — so the job starts with the address (which government), the building type (commercial vs. county home-improvement law) and the wall behind the finish.
+
+Format: exact query · platform · URL · finding · page + section used.
+
+## Silo-level sources (this run)
+
+- PAA — EMPTY (not accessible in build env)
+- PASF — EMPTY (not accessible in build env)
+- Answer the Public — EMPTY (not accessible in build env)
+- Google AI Overview — EMPTY (not accessible in build env). Reality-check claims were taken from cost guides below instead (stated on page).
+- Bing / DuckDuckGo suggestions — EMPTY (not accessible in build env)
+- Yelp 1–3★ — EMPTY (not accessible in build env)
+- Reddit (local) · "reddit longisland video wall OR "TV wall" installer Nassau recommendation" · Firecrawl search · https://www.reddit.com/r/longisland/ · no thread about video walls found → EMPTY for local Reddit.
+- Reddit (trade) · "video wall installation cost per panel 2026 Angi OR HomeAdvisor OR Fixr" · Firecrawl search · https://www.reddit.com/r/CommercialAV/comments/1lxhvp0/how_to_quote_led_wall_installation/ · installers quote LED walls per tile or per crew-day (opinion) · AI Reality Check H3 "Any installer can hang a video wall".
+- Cost guides · same query · https://svsolutionsusa.com/how-much-does-led-video-wall-cost/ · "$9,500 entry-level indoor to $200,000+ premium MicroLED" · AI Reality Check H3 "$5,000 to $15,000".
+- Cost guides · same query · https://americanledwall.com/led-video-wall-cost/ · installed LED ~$500–$2,500/sq ft by pitch · AI Reality Check.
+- Cost guides · same query · https://www.crowntv-us.com/blog/led-video-wall-cost/ · kit prices exclude structure, power, install · AI Reality Check.
+- Keywords (5 layers), used on page: Service — video wall installation, LCD video wall, LED wall, video wall repair · Problem — washed-out screen near glass, panel dark, wrong input, content stopped after outage, heat · Technology — narrow-bezel LCD, direct-view LED, pixel pitch, controller, content player, HDMI matrix, pop-out mount, remote power supply · Industry — car showrooms, mall tenants, office lobbies, school gyms, operations rooms, houses of worship, bars, homes · Geographic — Nassau County, Garden City, Old Country Road, Northern Boulevard, Great Neck, Manhasset, Uniondale, Elmont, Mineola, Hempstead.
+
+## Nassau County
+
+- Municipal structure · "Nassau County villages towns cities how many incorporated villages building department" · Firecrawl search · https://www.ny.gov/counties/nassau · 2 cities, 3 towns, 64 incorporated villages, 60+ unincorporated hamlets · Neighborhood ¶2, facts list, QA "village or town", AI check, Field Notes, hero.
+- Same query · https://www.nassaucountyny.gov/3482/Building-and-Zoning-Permits · county page lists local offices for permits · QA "village or town", facts list.
+- Same query · https://nassauida.org/all-local-municipality-websites · 2 cities, 3 towns, 64 villages (corroboration) · Sources.
+- Same query · https://ozgc.com/nassau-village-permits/ · "nearly every [village] runs its own building department" (third-party; used only as basis for "typically") · Neighborhood ¶2, QA.
+- Census · scrape · https://censusreporter.org/profiles/05000US36059-nassau-county-ny/ · ACS 2024 1-yr: pop 1,392,438; 480,668 housing units; 79% single-unit; 81% owner-occupied · Neighborhood ¶1, facts list.
+- Home-improvement law · "Nassau County Administrative Code home improvement definition license…" · Firecrawl gov search · https://archive.nassaucountyny.gov/agencies/OCA/Business/LocalLaw6-1970.html · definition: dwellings of not more than three families; exemption for licensed electricians etc. acting in their craft; licenses expire 2 years · QA "living-room video wall", facts list, FAQ basement, architecture "Nassau houses".
+- https://nassaucountyny.gov/FAQ.aspx?QID=205 · governing law = Admin Code Title D 21-10 to 21-11.16 / Local Law 6-1970 · Sources.
+- https://nassaucountyny.gov/FAQ.aspx?QID=128 · "Contractors who perform remodeling on residential homes in Nassau County" must be licensed · QA.
+- Electrician licensing · "Town of Hempstead electrical license required electricians permit low voltage Building Department" · Firecrawl search · https://ecode360.com/9294021 · Town of North Hempstead Code Ch 2 Art IV: master electrician license issued by Commissioner of Buildings; special/limited license incl. outdoor advertising signs · QA "which licensed trade", compliance callouts.
+- Same query · https://hempsteadny.gov/191/Building-Department · page points to electrician and plumber licensing information · QA "which licensed trade".
+- Sign rules · "Town of Hempstead code electronic message sign…" and "Town of North Hempstead code signs electronic…" · Firecrawl web + gov search · no Nassau sign-code text retrieved → stated generally ("each village and town writes its own sign chapter"); no specific Nassau sign limit claimed. https://www.ledcraftinc.com/permits-zoning-laws-for-led-signage-what-u-s-businesses-need-to-know/ · LED signs fall under NEC Article 600 · QA "sign", compliance callouts.
+- School gym wall · "Nassau County "video wall" installed (police OR county OR Hofstra…)" · Firecrawl search → scrape · https://www.nassaucountyny.gov/CivicAlerts.asp?AID=13743&ARC=14331 · July 27, 2026: Legislator Scott M. Davis secured $66,350 CRP for Hempstead UFSD toward sound system + video wall for Hempstead HS gymnasium; superintendent quote on events/athletics/community · Neighborhood ¶3, facts list, QA "school gymnasium", landmarks.
+- Police operations wall · "Planar Clarity Matrix Nassau County Police Department training video wall case study" · Firecrawl search → scrape PDF · https://www.planar.com/media/sp3dofdg/planar-installation-profile_ncpd-intelligence-center.pdf · opened Oct 2021, David S. Mack Center for Training and Intelligence on Nassau Community College campus, 99,000 sq ft; 8x8 Clarity Matrix G3 LCD ~32 ft × 18 ft; integrator Adwar Video; presets/one-large-or-16-small; Remote Power Supply moves heat/noise/outlets to rack room · Neighborhood ¶3, facts list, QA "operations-room", glossary, corridors, landmarks.
+- Adwar Video location · same search · https://adwarvideo.com/portfolio/ · Farmingdale AV firm; NCPD Intelligence Center (2021) in portfolio · QA "operations-room" ("a Long Island AV firm").
+- UBS Arena · "UBS Arena Elmont Belmont Park center-hung videoboard LED displays" · Firecrawl search · https://investor.daktronics.com/news-releases/news-release-details/ubs-arena-selects-daktronics-install-45-hdr-capable-led-displays and https://www.nasdaq.com/press-release/ubs-arena-selects-daktronics-to-install-45-hdr-capable-led-displays-at-world-class · 45 LED displays; centerhung 12 displays totaling 4,730 sq ft; 5.9 mm pitch · facts list, corridors (Elmont), landmarks.
+- Roosevelt Field · "Roosevelt Field mall Garden City square feet stores largest mall Long Island" · Firecrawl search · https://en.wikipedia.org/wiki/Roosevelt_Field_(shopping_mall) · largest mall on Long Island · https://nassaucountytourism.com/roosevelt-field-mall/ · 630 Old Country Road, Garden City · https://www.tripadvisor.com/Attraction_Review-g47770-d2044340 · anchors + 200+ specialty stores · Neighborhood ¶1, corridors, QA landlord, landmarks.
+- Northern Boulevard · "Northern Boulevard Manhasset "Miracle Mile" car dealerships…" · Firecrawl search → scrape · https://www.longislandpress.com/2026/02/17/great-neck-auto-lot-sold/ · 195 Northern Blvd auto lot sold $3.15M (closed Jan 2026), beside a luxury car dealership; Manhasset Row along Miracle Mile · corridors, landmarks, QA showroom glass.
+- Uniondale / Hub · "Nassau Hub Uniondale development 2026 Coliseum site news" · Firecrawl search → scrape · https://nassauhub.com/ · BSE Global + RXR; Legislature approved Development Plan Agreement Dec 17, 2018; ~70 acres of parking lots around the Coliseum (site content dated 2019; current status not verified, so page says only what the plan described) · landmarks paragraph.
+- RXR Plaza · "Nassau County office market Lake Success Marcus Avenue…" · Firecrawl search · https://www.regus.com/en/us/1176 · RXR Plaza in Uniondale near Roosevelt Field and Eisenhower Park · corridors. (Lake Success office market: no source found → removed from page.)
+- Hofstra · "Hofstra University video wall OR "LED wall" installed Hempstead campus" · Firecrawl search · https://gohofstra.com/news/2023/8/29/hofstra-athletics-unveils-major-fall-facility-upgrades · soccer video board (Nevco, full-color LED) 2023 · https://bulletin.hofstra.edu/content.php?catoid=147&navoid=28223 · lab with wall-mount LCD displays · landmarks.
+- Consumer Affairs location · county licensing search · https://www.nycbar.org/why-all-home-improvement-contractors-need-to-be-licensed-… · Nassau Dept of Consumer Affairs, Old Country Road, Mineola · corridors (Mineola).
+- ADA · "2010 ADA Standards 307.2 protruding objects…" · Firecrawl search · https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ · 27–80 in. leading edge → max 4 in. projection · QA "1970s lobby", compliance callouts.
+- E-waste · "New York State electronic waste disposal ban televisions landfill 2015…" · Firecrawl gov search · https://dec.ny.gov/environmental-protection/recycling-composting/electronic-waste-recycling/recycling-consumer-electronic-waste and https://dec.ny.gov/environmental-protection/recycling-composting/electronic-waste-recycling · disposal ban since Jan 1, 2015; free recycling for individuals, businesses <50 FTE, nonprofits <75 FTE, schools, government; larger may be charged · FAQ "old displays", compliance callouts.
+- Own site: tv-mounting-prices-nassau-county.html · Nassau has no travel surcharge; parking line only Manhattan; 2-hour arrival slots 8 AM–8 PM Mon–Sun; multi-screen / video wall / after-hours quoted in writing · FAQ travel, FAQ after closing, pricing.
+- Local news (Newsday/Patch) beyond the above — not separately searched; EMPTY for this run.
+
+## Prices used (source + rule)
+Brooklyn base from video-wall-installation-brooklyn.html pricing table × Nassau 1.15 (§9), round half-up:
+2x2 LCD $13,800–$20,700 · 3x3 LCD $27,600–$43,700 · 4x4 LCD $48,300–$74,750 · 2.5 mm LED $40,250–$63,250 · 1.9 mm LED $63,250–$97,750 · 1.5 mm LED $97,750–$161,000 · outdoor LED $5,175–$9,775/m² · controller $2,875–$17,250 · 16x16 matrix $5,175–$13,800 · mount/custom frame $1,725–$10,350 · maintenance $2,760–$17,250/yr · CMS software $1,200–$5,000/yr (not multiplied: third-party fee, identical on Brooklyn and old Nassau pages) · service $195/hr, 3-hr min ($585).
+Conflict: the OLD Nassau page listed ranges BELOW Brooklyn (e.g. 2x2 $11,500–$17,000 vs Brooklyn $12,000–$18,000), i.e. not ×1.15; old page also had a "$500 minimum job" and "3-5 year manufacturer warranty" wording — not carried over.
+
+## Images (11; pool images/low-voltage + images/commercial-security; Queens sibling had already used 8 pool photos, so none of those are reused here)
+low-voltage-installation-bronx-display-recessed-box.jpg → video-wall-installation-nassau-county-cable-fed-from-recessed-box-behind-conference-display.webp
+commercial-security-systems-dutchess-secured-lobby.jpg → …-lobby-display-showing-camera-tiles-above-reception.webp
+low-voltage-installation-brooklyn-retail-store-ceiling-pull.jpg → …-ceiling-cable-pull-over-store-floor-with-wall-display.webp
+low-voltage-installation-dutchess-county-hero-rack-switch-config.jpg → …-laptop-on-rack-shelf-configuring-switches.webp
+low-voltage-installation-bronx-idf-patch-panel-build.jpg → …-wall-mount-patch-panel-on-steel-studs.webp
+low-voltage-installation-bronx-stud-rough-in-boxes.jpg → …-cable-pulled-through-stud-beside-low-voltage-box.webp
+low-voltage-installation-bronx-04-metal-stud-rough-in.jpg → …-cable-fed-through-open-steel-stud-framing.webp
+commercial-security-systems-bronx-integration-rack.jpg → …-terminating-rack-cables-under-camera-monitor.webp
+low-voltage-installation-bronx-ceiling-speaker-conference.jpg → …-ceiling-speaker-fitted-outside-glass-conference-room.webp
+low-voltage-installation-bronx-09-ceiling-access-point-drop.jpg → …-cable-drop-through-lifted-ceiling-tile.webp
+low-voltage-installation-bronx-access-point-lift-install.jpg → …-scissor-lift-work-at-high-ceiling-grid.webp
+
+## Question register — video-wall-installation-nassau-county (revised 2026-10-18 after batch overlap check vs Putnam, Queens and the LI hub register)
+Questions Answered (H3):
+1. How do I find out whether my building answers to a village or to the town?
+2. Does Nassau County itself issue a permit for a video wall?
+3. Is a living-room video wall covered by Nassau’s home-improvement license law?
+4. Our building has four apartments — does the county home-improvement law still apply?
+5. Which wall in a glass-fronted showroom should carry the screens?
+6. Do the cables above our drop ceiling need a special rating?
+7. How do we keep a showroom wall from looking dated when the models change every year?
+8. When does a storefront need direct-view LED instead of tiled LCD panels?
+9. Does a high showroom or gym wall need a scissor lift on site?
+10. What does a school gymnasium wall need that a lobby wall does not?
+11. Can the conference-room wall work with Teams or Zoom without an AV technician in the room?
+12. How is an operations-room wall different from a wall built for advertising?
+13. Can head office schedule what plays on walls at several Nassau locations?
+14. Can a Nassau school district put a County Legislature grant toward a gym video wall?
+15. Why does a Nassau wall cost more than the same wall in Queens but less than in Suffolk?
+16. Can one crew handle the wall, the cameras and the door readers in a Nassau showroom?
+(Equipment H3 "Online kit, national AV chain or local installer?" — comparison heading, not a FAQ.)
+FAQ (visible + FAQPage, 10):
+1. Is there a travel charge to reach the North Shore or the South Shore of Nassau?
+2. Can the work be done after closing so a store or showroom opens on time?
+3. Do you work in Glen Cove and Long Beach, which are cities rather than towns?
+4. Can you price a wall from drawings while our Nassau space is still being built out?
+5. Can a home video wall go above a fireplace?
+6. Can you take over a wall that another integrator installed?
+7. Do we need to be on site for the whole installation?
+8. Can you give a rough price over the phone before anyone measures the wall?
+9. What is the payment schedule for a Nassau video wall job?
+10. What happens to the old displays we take down?
+Removed in revision (overlapped batch-mates/hub): FAQ "Will the wall keep playing if the building’s internet goes down?", "Can a video wall go in the basement or family room of a Nassau house?", "Can one wall show the security cameras and the daily content at the same time?", "Can we reuse flat-screen TVs we already own as panels in the wall?", "What should we have ready before the site visit?"; Q&A "Who should own the logins…", "Should we keep a spare panel…", "Does a screen facing out through the shop window count as a sign?", "Which licensed trade connects the wall to power…", "What does a shopping-center landlord usually ask for…", "Will the lobby wall of a 1970s office building hold a nine-panel LCD array?", "How much heat does a wall add to a small conference room?"; showroom-glass question reworded to placement.
+New sources used by revised questions: grant Q (nassaucountyny.gov CivicAlerts AID=13743), four-apartment Q (Local Law 6-1970 definition), county-permit Q (nassaucountyny.gov/3482 + Consumer Affairs), Queens/Suffolk price Q (blueprint §9 multipliers 1.05/1.20), Glen Cove/Long Beach FAQ (ny.gov county page: 2 cities outside the towns).
+
+
+---
+
+# Part from batch run 2026-10-18 — video-wall-installation-putnam-county
+
+# video-wall-installation — Putnam County part (REBUILD 2026-10-18)
+
+Page: `video-wall-installation-putnam-county` (rebuilt in place; was crawled-not-indexed template). Queue line: `REBUILD | video-wall-installation-putnam-county | Video Wall Installation | Putnam | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx`. GBP Bronx (#bronx, 460 E Fordham Rd). Direct line (845) 640-3835 in body, CTAs, sticky bar, form error text and schema; (800) 486-0943 only in the shared mega-nav. WhatsApp only wa.me/17186790359 (+ footer text). Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`). Shell HTTP blocked. "Carried" = fetched by an earlier run in another research file (named), not re-fetched.
+
+**Thesis:** Putnam's video walls are small, public and run by non-specialists — the county 911/EOC floor (two broken video-wall monitors replaced for ~$10,000 in March 2026), a legislature streaming from a Historic Courthouse built for trials, Carmel's streamed town board, school cafetoriums, eight busy libraries, churches and family media rooms — on a grid that goes dark town by town (Isaias: 34,150 of 38,693 NYSEG customers out), under Putnam's own Chapter 145 licensing that names audio/video cabling. So a Putnam wall is sized to the room, built for one-tile swaps with a documented spare, restarts itself after an outage (battery backup on controller/player/switch, auto power-on, power-off test at handover), and works with meeting cameras/livestreams. (Distinct from old template's wedding-venue copy; distinct from Nassau/Queens siblings.)
+
+## Silo-level sources (this run)
+| Source | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| Google PAA / PASF / Answer the Public / AI Overview | — | — | EMPTY (not accessible in build env). Page says so in §10.5 and Sources. | §10.5 intro; Sources |
+| Bing / DuckDuckGo | — | — | EMPTY (not accessible in build env) | Sources |
+| Yelp 1–3★ | — | — | EMPTY (not accessible in build env) | — |
+| Cost guides | `how much does a video wall cost installation per panel 2025 guide` · Firecrawl search (excerpts) | https://americanledwall.com/led-video-wall-cost/ | "most installed walls run about $500 to $2,500 per square foot"; typical indoor $30k–$100k | §10.5 H3 1 |
+| | same | https://www.crowntv-us.com/blog/led-video-wall-cost/ | Online P2.9 10'×5' kits ~$11,000–$15,000, hardware only; installation adds 15–30% on top of hardware | §10.5 H3 2, 3 |
+| | same | https://www.szradiant.com/2025-led-video-wall-cost-guide-price-per-square-foot-installation-tips.html | "Voltage stability (±5% fluctuation max)"; install 15–30% of hardware | §10.5 H3 3, 7 |
+| Reddit | same search | https://www.reddit.com/r/CommercialAV/comments/1bl6fyy/video_wall_pricing/ | "mounting structure alone could be 20k. The wall can range from 15-200 k" | §10.5 H3 5 |
+| Reddit | `video wall bezel width burn-in commercial display 24/7 rated vs consumer TV video wall reddit` · Firecrawl search (excerpts) | https://www.reddit.com/r/CommercialAV/comments/1j9qccf/ ; https://www.reddit.com/r/CommercialAV/comments/zhvx41/ | Consumer TVs "will burn in, lose colors, lose brightness"; "Residential displays are rated to run significantly less time than commercial" | §10.5 H3 4 |
+| Licensing claim | carried: research/fiber-optic-installation.md (Putnam) | https://adaptdigitalsolutions.com/articles/new-york-contractor-license-requirements/ | Title "New York Contractor License Requirements: None Statewide" (excerpt) | §10.5 H3 6 |
+| ADA | `2010 ADA Standards 307.2 protrusion limits 27 inches 80 inches 4 inches wall mounted objects` · Firecrawl search (excerpt) | https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ | Leading edges >27" and ≤80" AFF limited to 4" projection | §8.5 bullet 4; Q&A wheelchair Q (no numbers there) |
+
+Keywords (5 layers) used naturally: Service (video wall installation, LCD video wall, direct-view LED, video wall controller, tile replacement) · Problem (dark tile, no signal after outage, glare, livestream washout) · Technology (narrow-bezel LCD, dvLED pixel pitch, HDBaseT, media player, battery backup/UPS) · Industry (911/EOC, town board, school cafetorium, library, house of worship, home media room) · Geographic (Putnam County, Carmel, Mahopac, Brewster, Southeast, Kent, Patterson, Putnam Valley, Philipstown, Cold Spring, Garrison, Nelsonville, Route 6/22/52/301/311/9).
+
+## Putnam County
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| V1 | `Putnam County Bureau of Emergency Services 911 center Carmel emergency operations center video wall` · Firecrawl search → scrape | https://citizenportal.ai/articles/10229410/new-york/putnam-county/putnam-county-moves-funds-to-replace-911-video-wall-screens-and-improve-backup-dispatch-capacity | Mar 10, 2026: transfers to "replace two broken video-wall monitors at the 911 center (approx. $10,000)" and upgrade equipment at sheriff's backup 911 center; backup "cannot yet host the county's full complement of dispatchers" (summary; body paywalled) | Hero; §5 para 2 + facts; §10.5 H3 4–5; §13 card; Field Notes; Sources |
+| V2 | same search → scrape | https://www.putnamcountyny.gov/pcbes | 112 Old Route 6 Carmel; Enhanced 911; EOC (state, emergency services, law enforcement, highway, utilities reps aid County Executive); 911 center sole PSAP, 8 police / 7 EMS / 13 fire; 114,246 calls in 2022; fire dept addresses (Mahopac 741 Route 6; Lake Carmel 851 Route 52; Kent 2490 Route 301; Patterson; Putnam Lake; Cold Spring; Garrison; North Highlands); links "Stay Informed with Putnam Alert", NY Alert | §5 para 1–2 + facts; §8 cards; §13 card; town by town; Q&A notice Q; Sources |
+| V3 | `Putnam County legislature meetings livestream Historic Courthouse Carmel audio video upgrade` · Firecrawl search → scrape (PDF, directQuote) | https://www.putnamcountyny.gov/images/Departments/Legislature/Meetings/2021/July/Rules-07-20-21.pdf | Jul 20, 2021: Historic Courthouse audio "designed for court proceedings, not for meetings"; upgrades must keep historic status and be approved by the Office of Courts Administration; Town of Carmel invested ~$180,000 in livestream, six cameras, contracted operator (~$1,500/month, $350 per extra meeting); Room #318 AV quote ~$11,000; Historic Courthouse quotes $10,000 video, $11,000 audio | §5 para 3 + facts; §7 card; §8.5 bullet 5; Q&A historic-room Q, YouTube Q; §10.5 H3 3; §13 card |
+| V4 | same search → scrape | https://citizenportal.ai/articles/10125659/new-york/putnam-county/legislature-debates-phased-audio-visual-upgrades-and-procedural-fixes-after-repeated-complaints-about-meeting-audio | May 18, 2026: repeated complaints about meeting audio/livestream; IT director Tom Lannon ~$10,000–$15,000 for room improvements; historic courthouse needs state permission | §5 para 3; Sources |
+| V5 | same search (excerpt) | https://www.putnamcountyny.gov/legislature | County posts legislative meeting videos (YouTube live links) | §5 para 3 |
+| V6 | `Town of Carmel NY town board meetings live stream video channel` · Firecrawl search (excerpts) | https://www.townofcarmelny.gov/agendacenter ; https://www.youtube.com/watch?v=LFVCrydOylw | Town Board meetings with YouTube live video links (weekly-ish 2026); Carmel Town Hall, 60 McAlpin Ave, Mahopac | §5 para 3; §13 card; Hero ("on YouTube every week") |
+| V7 | `Highlands Current Philipstown town hall meeting video livestream equipment OR Haldane auditorium screen` · Firecrawl search (excerpt) | https://www.philipstown.gov/agendas_minutes_video/index.php | Philipstown "Agendas / Minutes / Video" page for Town Board etc. | Town by town (Philipstown) |
+| V8 | `Mahopac OR Carmel OR Brewster school district capital project bond displays interactive panels auditorium AV 2025` · Firecrawl search → scrape | https://www.mahopac.org/page/capital-project/ | Prop 5 ($8,087,000): MHS auditorium lighting and audio systems, draperies, rigging | §7 school card; Sources |
+| V9 | `Brewster Central School District C.V. Starr Cafetorium capital project Brewster Vision` · Firecrawl search (excerpts) | https://www.brewsterschools.org/departments/facilities/brewster-vision-capital-project ; .../cvs-cafetorium-existing-cafeteria-conversion ; https://www.putnampresstimes.com/post/brewster-schools-capital-project-update | Cafetorium + BHS Field House completion late Fall 2026/early Winter 2027; 13,400 sq ft addition; "cafeteria with capacity for an entire grade or as an auditorium"; approved by voters March 2023 | §7 card; Q&A cafetorium Q; §13 card; town by town (Southeast/Brewster) |
+| V10 | `Putnam County NY library renovation meeting room display screens …` · Firecrawl search → scrape (PDF) | https://www.putnamcountyny.gov/images/Departments/County_Exec/sotc/2026/outsideagencies/10%20-%20PCLA%20Annual%20Report%202025.pdf | PCLA 2025: 8 member libraries; visits/programs — Mahopac 151,786/1,839; Kent 74,219/901; Putnam Valley 70,856/740; Butterfield 55,034/1,096; Garrison (Desmond-Fish) 47,927/467; Reed 47,781/495; Brewster 42,075/900; Patterson 35,510/507; "cool spaces in the summer and warm spaces in the winter" | §5 facts; Q&A library Q; Q&A notices Q; §8 cards; §13 cards; town by town |
+| V11 | same search → scrape | https://news.halstonmedia.com/mahopac-news/mahopac-news/stories/reed-memorial-library-completes-historicrenovation,93769 | Aug 29, 2026: Reed Memorial kitchen renovation, $20,000 state aid (no AV content) | Not used on page |
+| V12 | `Census QuickFacts Putnam` · Firecrawl scrape (directQuote) | https://www.census.gov/quickfacts/putnamcountynewyork | Pop 99,028 (V2025); housing units 38,713; owner-occupied 83.8%; median value $471,300 | §5 para 1 + facts |
+| V13 | Daily Voice Isaias · Firecrawl scrape (directQuote) | https://dailyvoice.com/article/isaias-new-update-these-putnam-county-communities-most-affected-by-power-outages/ | Aug 5, 2020 10:15 a.m.: NYSEG 34,150 of 38,693 out; Carmel 12,717, Kent 5,815, Southeast 5,220, Putnam Valley 5,088, Patterson 4,422, Brewster 818; Central Hudson 3,621 of 5,160 (Philipstown 2,475, Cold Spring 992, Nelsonville 154) | §5 para 4 + facts; §10.5 H3 7; town by town |
+| V14 | Chapter 145 · Firecrawl scrape (directQuote) | https://ecode360.com/6607815 | Low-voltage/limited-data communications technician: 8,000 hours + exam; cabling for networking, telecom, CATV, intercom, audio/video, fiber optics, video surveillance, ≤90 V / 5 A, starting at outlet/connection installed by licensed electrician; master electrician qualified; no one may engage in the trade in the county unless licensed or registered | Hero; §5 para 4; §8.5 bullet 1; Q&A licence Q; §10.5 H3 6 |
+| V15 | Consumer Affairs · Firecrawl scrape (directQuote) | https://www.putnamcountyny.gov/consumer-affairs | Electrical Board licenses Master/Special/Reciprocal Electricians, Limited Data Communication Technicians, Journeymen, Helpers; lists of licensed master electricians and low-voltage technicians (as of Aug 11, 2026); electrical permits for Carmel, Patterson, Putnam Valley filed with those building departments; mandatory home-improvement contractor registration (insured, bonded, workers' comp) | §8.5 bullets 1–3; Q&A electrician Q; town by town |
+| C1 | carried: research/intercom-repair.md B5 | putnamcountyny.gov chapter3.pdf | Brewster Main Street with Metro-North station at its terminus | §8 card (Route 22) |
+| C2 | carried: research/intercom-repair.md B9 | putnamcountyny.gov chapter4.pdf | Oregon Corners, Putnam Valley | Town by town (Putnam Valley) |
+| C3 | carried: research/sonos/soundbar Putnam rows | historicpatterson.org; lakeoscawana.net | Lake communities (Putnam Lake, Lake Carmel, Lake Peekskill, Lake Oscawana) | §13 "we also serve"; town by town |
+
+Reddit (Putnam-specific video wall / AV): EMPTY. Local news on Putnam video walls beyond V1: EMPTY.
+
+## Prices used (all from the old video-wall-installation-putnam-county.html table, unchanged)
+2x2 LCD $11,000–$16,500 · 3x3 LCD $22,000–$35,000 · 4x4 LCD $38,000–$58,000 · 2.5mm dvLED $32,000–$50,000 · 1.9mm $50,000–$78,000 · 1.5mm $78,000–$130,000 · 3.9mm $43,000–$90,000 · outdoor $4,500–$8,500/sq m · controller $2,500–$15,000 · historic mounting/fab $2,000–$10,000 · CMS $1,200–$5,000/yr · maintenance $2,800–$9,500/yr · electrical sub-panel coordination $500–$1,500 · service $195/hr, 3-hr min ($585). Spares, cameras, encoders, UPS: "quoted after the site visit".
+CONFLICT: these are ~0.92× the Brooklyn table, not 1.45× (e.g. Brooklyn 2x2 $12,000–$18,000 ×1.45 = $17,400–$26,100). Old page also said "$500 minimum job" and "1-year parts-only warranty on labor; 3-5 year manufacturer warranty" — not carried over.
+
+## Question register (this page)
+Q&A (H3):
+1. If the original monitor model is discontinued, how do you make a replacement tile match the rest of the wall?
+2. How many spare tiles should a public agency buy with the wall, and where should they be kept?
+3. Can one wall show the dispatch map and a training slide deck side by side in a fire district classroom?
+4. Our board meets in a room built for court proceedings. Can displays go in without changing the historic interior?
+5. Will a wall of screens behind the board spoil the livestream picture?
+6. Can the screens in the room show exactly what remote viewers see on YouTube?
+7. Can a cafetorium wall be a lunch-menu board by day and an auditorium screen at night?
+8. Can library staff with no AV training change what the program-room wall shows?
+9. Can the sanctuary wall switch itself on before Sunday service and off afterwards?
+10. What should the wall do when the power drops for two seconds and comes back?
+11. Is a battery backup worth it for the screens themselves, or only for the controller?
+12. Our building switches to a generator during outages. Will the wall survive the changeover?
+13. Does Putnam County require a licence to install video wall cabling?
+14. Who installs the new outlet for the wall, and who files for the electrical permit?
+15. Who should hold the administrator login for the wall’s content system in a town or district office?
+16. Can a lobby wall in a public building carry storm and closure notices?
+17. How do volunteers get their slides onto the wall without plugging in a laptop each time?
+18. Where should displays go so wheelchair users and people in the front row can see them comfortably?
+19. Is a video wall sensible for a basement media room, or is one large TV better?
+20. Can a wall in a seasonal lake house be left unpowered and unheated all winter?
+FAQ (visible == FAQPage):
+1. Can we see a full-size layout on the wall before anything is drilled?
+2. Will the wall’s fans be audible during a quiet library program?
+3. Can we start with four screens and add more later?
+4. Does the wall need the internet to keep showing content?
+5. Do you remove the old projector, screen and ceiling mount?
+6. Can the wall show live captions during a public meeting?
+7. Can you work from a municipal purchase order or a school bid specification?
+8. What should staff check on the wall each month?
+9. Who answers if the wall goes dark the evening before a meeting?
+10. Will a wall work in a room with big windows facing a lake?
+Plus section heading: "How Big Should a Putnam Room’s Wall Be?"
+
+## Images (11) — source → new file (images/video-wall-installation/)
+sonos-installation-cobble-hill-display-panels-on-slatted-wall → video-wall-installation-putnam-county-gloved-hands-aligning-four-panel-display-seams
+sonos-installation-ditmas-park-screen-lifted-onto-wall-bracket → …-technician-lifting-flat-panel-onto-wall-bracket
+sonos-installation-greenwich-village-network-rack-patch-panels-and-ups → …-equipment-rack-with-ups-at-base
+sonos-installation-riverdale-screen-top-edge-gloved-hands → …-gloved-hands-at-top-edge-of-wall-display
+sonos-installation-grymes-hill-flat-screen-lifted-onto-wall-mount → …-large-display-raised-to-wall-mount-under-strip-lights
+sonos-installation-putnam-county-rack-switch-laptop → …-laptop-configuring-switches-in-open-rack
+sonos-installation-putnam-county-wall-patch-panel-build → …-patch-panel-terminations-on-stud-wall
+sonos-installation-putnam-county-tone-probe-wall-cable → …-tone-probe-tracing-cable-at-wall-opening
+sonos-installation-putnam-county-conduit-box-cable-pull → …-cable-pulled-from-conduit-box-on-block-wall
+sonos-installation-battery-park-city-soundbar-under-screen-on-media-console → …-touch-control-panel-on-console-below-screen
+sonos-installation-park-slope-recessed-power-box-below-screen → …-recessed-power-and-data-box-behind-screen
+
+
+---
+
+# Part from batch run 2026-10-18 — video-wall-installation-queens
+
+# Video Wall Installation — Queens (research part, REBUILD 2026-10-18)
+
+Page: `video-wall-installation-queens.html` · up-link `/video-wall-installation-nyc` · phone (347) 434-6392 · Bronx GBP (#bronx, 460 E Fordham Rd) · area multiplier 1.05.
+Thesis: a Queens display wall almost always serves several audiences at once (several scripts, several live feeds, several rule books), so the job is planning text, sources and compliance before panels.
+Research tool: Firecrawl MCP (search + scrape). Shell HTTP not used.
+
+## Silo-level findings used on this page
+
+| Source | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| Google PAA | — | — | EMPTY (not accessible in build env) | — |
+| Google PASF | — | — | EMPTY (not accessible in build env) | — |
+| Answer the Public | — | — | EMPTY (not accessible in build env) | — |
+| Google AI Overview | — | — | EMPTY (not accessible in build env); reality-check section tests vendor cost guides and forum claims instead, and says so on the page | AI Overview Reality Check intro |
+| Bing / DuckDuckGo | — | — | EMPTY (not accessible in build env) | — |
+| Yelp 1–3★ | — | — | EMPTY (not accessible in build env). (A Yelp listing for Tangram Food Hall appeared in search results — 133-27 39th Ave, 3.6★/52 — but reviews were not read or used.) | Address only: "Tangram's food hall is on 39th Avenue" |
+| Reddit | "reddit menu board TVs restaurant install advice commercial display vs consumer TV burn-in" · Firecrawl search | https://www.reddit.com/r/digitalsignage/comments/1t9hnbt/ ; https://www.reddit.com/r/CommercialAV/comments/1j9qccf/ ; https://www.reddit.com/r/CommercialAV/comments/ckpm33/ | Commenters: consumer TVs not built for long static use; commercial displays rated 16/7 or 24/7 recommended; one commenter says makers cut consumer-TV warranty (e.g. to 90 days) in commercial use (unverified opinion) | Reality check H3 "Any 4K TV will do for a menu board" (claim labelled unverified) |
+| Reddit | "video wall cost per panel installation 2026 Angi OR Fixr OR HomeGuide" · Firecrawl search | https://www.reddit.com/r/CommercialAV/comments/1bl6fyy/video_wall_pricing/ | Installer: "Just the mounting structure alone could be 20k" for a large wall | Reality check H3 "Mounting is a minor line item" |
+| Vendor cost guide | same query | https://svsolutionsusa.com/how-much-does-led-video-wall-cost/ | "anywhere from $9,500 for an entry-level indoor wall to $200,000+ for a premium MicroLED" (2026) | Reality check H3 "starts around $9,500" |
+| Vendor cost guide | same query | https://www.crowntv-us.com/blog/led-video-wall-cost/ | P2.9 10'×5' kit ~$11,000–$15,000; table lists what's not in box (structure, power circuits, install, calibration) | Reality check H3 "P2.9 kit" |
+| Vendor cost guide | same query | https://americanledwall.com/led-video-wall-cost/ | Installed per sq ft: P1.5–P1.9 $1,400–$2,400; P2.5–P3 $700–$1,300 | Reality check H3 "Price it by the square foot" |
+| Keywords (5 layers) | derived from sources above, no keyword tool reachable | — | Service: video wall installation Queens, digital menu board, menu wall, LCD video wall, direct-view LED · Problem: menu not updating, panel black, wrong input, feeds out of sync, text unreadable · Technology: HDMI matrix, video wall processor, HDBaseT, video-over-IP, media player, pop-out mount, zoned audio · Industry: restaurants, food halls, sports bars, retail storefronts, LIC offices, studios, campuses, houses of worship · Geographic: Queens, Flushing, Jackson Heights, Astoria, Sunnyside, Long Island City, Jamaica | Throughout; title/meta/H1/alts |
+
+## Queens
+
+| Topic | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| Demographics | "Queens County QuickFacts foreign born persons language other than English…" · Firecrawl search + scrape | https://www.census.gov/quickfacts/queenscountynewyork | Pop. est. July 1 2025: 2,358,182; foreign-born 47.6% (2020–24); language other than English at home 55.4% (5+, 2020–24); employer establishments 2023: 51,188; accommodation & food services sales 2022: $6,121,389k; total retail sales 2022 $23,017,871k ($10,102 per capita) | Neighborhood section paras + "Queens in numbers" list; retail sales in Architecture method para "Retail strips" |
+| Languages | "Queens most linguistically diverse … Endangered Language Alliance 800 languages" · Firecrawl search | https://www.weforum.org/stories/industries-in-depth/queens-in-new-york-has-more-languages-than-anywhere-in-the-world/ | Up to 800 languages in NYC; "nowhere in the world has more than Queens" per ELA | Neighborhood para 1 + numbers list |
+| Sign-language debate | "Flushing store signs English requirement Peter Koo bill…" · Firecrawl search | https://www.nytimes.com/2011/08/02/nyregion/queens-councilman-wants-english-to-dominate-store-signs.html ; https://www.qchron.com/editions/north/two-bills-all-signs-to-include-english/article_e610ae4b-45f1-5289-8b83-47be48f5ca88.html | 2011 proposal (Peter Koo, Flushing) to require signs ≥60% English (proposal only; not stated as law) | Neighborhood para 5 |
+| Calorie rule | "NYC calorie labeling digital menu boards Health Code 81.50…" · Firecrawl search + scrape | https://nyc-business.nyc.gov/nycbusiness/description/calorie-posting ; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-46371 | 15+ locations same name or owner must show calories on menus and menu boards, as noticeable as name or price; <15 not required | Neighborhood para 4; Commercial rules; Q&A calorie cluster |
+| Sodium rule | "NYC sodium warning icon salt shaker…" · Firecrawl search | https://www.nyc.gov/site/doh/health/health-topics/heart-disease-choose-less-sodium.page | Chains 15+ locations: icon next to items ≥2,300 mg sodium + warning message (Board of Health, Sept 9, 2015) | Same sections |
+| Added-sugar rule | "NYC added sugar warning icon chain restaurants…" · Firecrawl search | https://www.nyc.gov/site/doh/about/press/pr2025/new-added-sugars-warning-rule-goes-into-effect-2025.page | In effect Oct 4, 2025; icon + warning for qualifying items (≥50 g added sugars); ~4,000 chain restaurants; $200 summons from Jan 2026 | Same sections |
+| Sign rules | "NYC zoning sign definition signs inside window…" · Firecrawl search + scrape | https://www.nyc.gov/site/buildings/safety/installing-a-sign.page | Chart by district: C1/C2 illuminated 50 sf total; C3 illuminated/flashing not permitted; advertising signs only in C6-5/C6-7/C7/C8/M; footnote: up to 3 illuminated non-flashing window signs ≤8 sf exempt; time/temperature signs not "flashing"; no permit for wall signs ≤6 sf; sign hanger ≤150 sf/300 lb, else RA/PE | Commercial rules; Q&A window cluster; FAQ on paid ads |
+| Low-voltage law | "NYC DOB electrical work must be performed by licensed master electrician…" · Firecrawl search + scrape | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 | §28-105.4.7: no electrical permit for <50 V signaling/communication/data wiring by LME, special electrician or qualified person; exceptions incl. life-safety systems and any connection to a control circuit activating light, heat or power circuits (LME/special electrician only) | Commercial rules; Q&A keypad question; reality check last H3 |
+| Electrical permits | same | https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page | General electrical work by NYC Licensed Master Electrician with permit and DOB inspection | Same |
+| ADA | "2010 ADA Standards 307.2 protrusion limits…" · Firecrawl search | https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ | Leading edge 27–80 in above floor: max 4 in protrusion into circulation path | Commercial rules; (FAQ on accessibility later removed) |
+| Watch parties 2026 | "Queens fan zone 2026 World Cup Flushing Meadows watch party Queens bars" · Firecrawl search; 6sqft scrape | https://www.6sqft.com/where-to-watch-spain-argentina-fifa-world-cup-final-in-nyc/ (July 17, 2026) | Queens Night Market (FMCP) 30-ft LED; Queens Botanical Garden three jumbotrons; Queens Borough Hall 16×9-ft LED; Pig Beach Astoria 28-ft jumbotron, 65 TVs, Soccer Suite | Neighborhood para 3; Coverage cards; Q&A "rent a big LED screen" |
+| Pig Beach | "Pig Beach Astoria Jumbotron 65 TVs…" · Firecrawl search | https://qns.com/2026/07/pig-beach-soccer-suite-world-cup/ ; https://www.cbsnews.com/newyork/news/pig-beach-bbq-queens-world-cup-watch-party/ | QNS: 28-ft jumbotron, 65 TVs; CBS: 28-ft jumbotron, 55 TVs → page says "dozens of televisions" | Neighborhood para 3; Commercial Astoria card |
+| Sunnyside bar | same search | https://www.nyctourism.com/worldcup26/ (search snippet; scrape returned no text) | "Bar 43, known as the 'home of soccer in Queens'… Sunnyside" | Commercial Sunnyside card (bar not named) |
+| Tangram | "Tangram Flushing mall food hall…" · Firecrawl search + Grub Street scrape | https://www.grubstreet.com/article/tangram-mall-best-food-hall-nyc.html (Apr 9, 2026); https://retail.tangramnyc.com/ ; https://m.yelp.com/biz/tangram-food-hall-flushing | Tangram = Flushing's largest mall; second-floor food court booming while other NYC food halls close; food hall at 133-27 39th Ave | Architecture card; Commercial Flushing card; Coverage card |
+| New World Mall | same | https://www.newworldmallnyc.com/food-court | New World Mall has a food court (address not verified → page says "downtown Flushing") | Architecture + Commercial cards |
+| Studios | "Kaufman Astoria Studios Silvercup Studios…" · Firecrawl search | https://www.costar.com/article/346088622/new-york-sharpens-pitch-to-become-major-us-soundstage-hub ; https://movingimage.org/feature/the-astoria-studio/ ; https://www.silvercupstudios.com/ | KAS 34-12 36th St, opened 1920, Sesame Street since 1992/93; Silvercup flagship 42-22 22nd St LIC, opened 1983 on bakery site, two LIC lots + Bronx | Architecture card; Coverage cards; Architecture method para "Studio campuses" (KAS 500,000+ sf, 11 stages/147,000+ sf, only backlot, first US studio on National Register; Silvercup 23 stages, ~558,000 sf, 13 at 22nd St flagship) |
+| LIC offices | "Long Island City office buildings JetBlue headquarters…" · Firecrawl search | https://ir.jetblue.com/news/news-details/2012/JetBlue-New-Yorks-Official-Hometown-AirlineTM-Lands-at-New-Headquarters-in-Long-Island-City-04-04-2012/default.aspx ; https://en.wikipedia.org/wiki/One_Court_Square | JetBlue HQ 27-01 Queens Plaza North (2012); One Court Square 50-story office tower | Architecture + Commercial cards |
+| Jamaica | "downtown Jamaica Queens Jamaica Avenue business improvement district…" · Firecrawl search | https://jamaicacenter.org/ | Jamaica Ave 400+ businesses; Jamaica Center BID "largest BID in Queens"; LIRR Jamaica Station | Numbers list; Commercial + Coverage cards; Jamaica card adds June 2022 legislation merging three downtown BIDs (jamaicacenter.org news, July 31, 2023) |
+| Campuses | "Queens College Flushing Kissena Boulevard…; St. John's University Queens campus Utopia Parkway" · Firecrawl search | https://www.qc.cuny.edu/a/directions/ ; https://www.stjohns.edu/queens-residential-campus | QC 65-30 Kissena Blvd, Flushing; St. John's 8000 Utopia Pkwy, between JFK and LaGuardia | Architecture card; Q&A college question |
+| Local Reddit (r/Queens, r/AskNYC) | — | — | EMPTY (not searched separately; no Queens-specific thread used) | — |
+| Hyperlocal (Queens Chronicle / QNS) | see Pig Beach + sign rows | qchron.com (2011 sign bills), qns.com (Pig Beach) | used only as listed | as listed |
+
+### Prices used
+Brooklyn base from `video-wall-installation-brooklyn.html` / `video-wall-installation-nyc.html` tables × 1.05: 2x2 LCD $12,600–$18,900; 3x3 LCD $25,200–$39,900; 4x4 LCD $44,100–$68,250; 2.5 mm dvLED $36,750–$57,750; 1.9 mm $57,750–$89,250; 1.5 mm $89,250–$147,000; outdoor LED/m² $4,725–$8,925. Add-ons at the site-wide published figures (same on every borough page): controller $2,500–$15,000; 16x16 HDMI matrix $4,500–$12,000; mounting/custom fab $1,500–$9,000; CMS $1,200–$5,000/yr; maintenance $2,400–$9,000/yr. Service $195/hr, 3-hr minimum ($585).
+CONFLICT: the old Queens page showed the Brooklyn/NYC base figures with no 1.05 multiplier (e.g. 2x2 $12,000–$18,000) and a 3.9 mm ballroom row ($46,000–$95,000) with no Brooklyn base to multiply — 3.9 mm row dropped.
+
+## Question register — video-wall-installation-queens
+
+Q&A (H3):
+1. How do we know a Chinese or Bengali line will still be readable from the back of the queue?
+2. Should each language get its own screen, or should every screen carry both?
+3. Who types the menu in each script, and who checks the characters come out right?
+4. Do our dish photos need a professional photographer, or will phone pictures do?
+5. Our franchise has more than fifteen locations nationally — do calories have to appear on the screens too?
+6. Can the salt-shaker or added-sugar icon sit on a slide that rotates away?
+7. We are a single independent restaurant in Queens — do we have to show calories at all?
+8. How large can a window screen get before the Department of Buildings wants a permit?
+9. Can a window display play full-motion video, or will it be treated as a flashing sign?
+10. How bright does a window display have to be on a sunny Queens avenue?
+11. Can one keypad behind the bar switch the lights and the screens together?
+12. Mall operations will not give us their Wi-Fi password — how will the menu update?
+13. Can the cable come up from the cellar in a building with apartments upstairs?
+14. Can each panel show a different match, then all panels join for the big one?
+15. How do customers hear one game while the other screens stay muted?
+16. Why does the same goal show up seconds apart on two screens?
+17. Can the layout change itself when an early match ends and an evening game begins?
+18. How many cable or streaming boxes does a multi-game wall need?
+19. Can a cashier mark a dish sold out without being able to change prices?
+20. Can our three Queens locations share one menu design but keep their own prices?
+21. Can the wall show order-ready numbers from our point-of-sale system?
+22. Can a wall go up if the lease says we may not drill into the walls?
+23. What happens to the wall if we move out when the lease ends?
+24. Should we rent a big LED screen for one tournament instead of building a wall?
+25. Can a backyard or patio screen run in the rain and the August heat?
+26. Can a lobby wall show building notices and a tenant's branding at the same time?
+27. Can a production office route any camera or playback feed to any monitor?
+28. Can a community hall show an interpreter's translation beside the speaker for a mixed-language audience?
+29. Can a college department post to its own lobby screens without filing an IT ticket each time?
+30. Can a wall in a mixed-tenant building be locked so nobody changes the input with a remote?
+
+FAQ (accordion = FAQPage):
+1. Should menu screens hang above the counter or on the side wall facing the queue?
+2. Can the wall show a QR code customers can scan for online ordering or delivery?
+3. Can the menu show halal, kosher, vegan or vegetarian marks?
+4. Can we change a price from a phone when a supplier raises costs?
+5. Is it safe to mount screens above a wok station or fryer?
+6. Can we add another language to the menu later without new screens?
+7. Can one corner of the menu wall carry a live news channel or a game?
+8. Do portrait menu screens need different mounts from landscape ones?
+9. Can the screens carry paid ads for other businesses to earn extra income?
+10. Can the wall run a Lunar New Year, Diwali or Eid promotion without rebuilding the menu?
+
+Other "?" heading: "Need a Video Wall Repaired in Queens Today?" (section H2).
+De-dup notes: removed/rewrote Queens questions that matched the same-batch Nassau/Putnam rebuilds in meaning (internet-down playback, content-login ownership, outlet/electrician trade split, window-screen-as-sign, live captions, old-TV removal, scheduled on/off, landlord pre-drilling requirements, one TV vs wall, wheelchair viewing, reuse old screens, security cameras on the wall, "what to have ready" checklist).

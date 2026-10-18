@@ -295,9 +295,9 @@ LIVE REBUILD | uniview-camera-installation-manhattan | Uniview Camera Installati
 LIVE REBUILD | uniview-camera-installation-nassau-county | Uniview Camera Installation | Nassau | up /uniview-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 LIVE REBUILD | uniview-camera-installation-staten-island | Uniview Camera Installation | Staten Island | up /uniview-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | video-wall-installation-long-island | Video Wall Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-18T14:57Z REBUILD | video-wall-installation-nassau-county | Video Wall Installation | Nassau | up /video-wall-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-10-18T14:57Z REBUILD | video-wall-installation-putnam-county | Video Wall Installation | Putnam | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T14:57Z REBUILD | video-wall-installation-queens | Video Wall Installation | Queens | up /video-wall-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE REBUILD | video-wall-installation-nassau-county | Video Wall Installation | Nassau | up /video-wall-installation-long-island | (516) 346-5778 | GBP Brooklyn
+LIVE REBUILD | video-wall-installation-putnam-county | Video Wall Installation | Putnam | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | video-wall-installation-queens | Video Wall Installation | Queens | up /video-wall-installation-nyc | (347) 434-6392 | GBP Bronx
 REBUILD | video-wall-installation-rockland-county | Video Wall Installation | Rockland | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | video-wall-installation-suffolk-county | Video Wall Installation | Suffolk | up /video-wall-installation-long-island | (631) 407-2884 | GBP Brooklyn
 REBUILD | video-wall-installation-ulster-county | Video Wall Installation | Ulster | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx
