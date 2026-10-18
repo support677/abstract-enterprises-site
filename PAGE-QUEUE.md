@@ -238,9 +238,9 @@ LIVE REBUILD | dvr-upgrade-staten-island | DVR Upgrade | Staten Island | up /dvr
 LIVE REBUILD | dvr-upgrade-ulster | DVR Upgrade | Ulster | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | dvr-upgrade-westchester | DVR Upgrade | Westchester | up /dvr-upgrade-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE REBUILD | floodlight-camera-installation-brooklyn | Floodlight Camera Installation | Brooklyn | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | floodlight-camera-installation-hudson-valley | Floodlight Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-REBUILD | floodlight-camera-installation-orange-county | Floodlight Camera Installation | Orange | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-REBUILD | floodlight-camera-installation-putnam-county | Floodlight Camera Installation | Putnam | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-hudson-valley | Floodlight Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-orange-county | Floodlight Camera Installation | Orange | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-putnam-county | Floodlight Camera Installation | Putnam | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | floodlight-camera-installation-staten-island | Floodlight Camera Installation | Staten Island | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | hik-connect-app-support-repair-manhattan | Hik Connect App Support Repair | Manhattan | up /hik-connect-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
 REBUILD | hikvision-security-camera-installation-long-island-ny | Hikvision Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
