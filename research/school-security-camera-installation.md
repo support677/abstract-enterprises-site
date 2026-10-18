@@ -322,3 +322,703 @@ Notes on near-intents: 'hallway fight clip' is framed on FERPA redaction between
 - Images: 11 = 8 real AESS job photos from other jobs (from images/dvr-upgrade/ and images/apartment-building-security-camera-installation/, several re-cropped) + 3 manufacturer product shots (images/products/a4, d4 crop, f4 crop). No real school photos exist. The underlying job scenes also appear on many other silo pages under other names.
 - check_page.py does NOT compute masked-geo paragraph similarity (only exact/masked duplicate questions/answers and file-size clusters); similarity was measured with a separate script: page 5-gram Jaccard ≤0.010, paragraph max 0.633 (vs new Manhattan page, closing NAP) — all < 0.65.
 
+
+
+---
+<!-- merged from batch 8 (school brooklyn + long-island builds) -->
+# School Security Camera Installation — silo research (v2.3 §3)
+
+Created 2026-10-18 by the Brooklyn rebuild run (first rebuild in this silo). Research tools available in the build env: WebSearch (US web search, results as title+URL), WebFetch (page fetch + summary), Firecrawl search (titles + snippets) and Firecrawl scrape (Reddit is blocked for scrape: "we do not support this site"). Shell curl to the web is blocked. Google PAA / PASF / AI Overview / Answer the Public / Yelp review bodies cannot be opened from this environment.
+
+Format of every entry: **query** · platform · URL · finding · used on (page + section). "excerpt" = only the search snippet was read.
+
+## Silo base prices (from existing pages, Brooklyn = 1.00×)
+
+Source: existing `school-security-camera-installation-brooklyn.html` (pre-rebuild, pricing table + FAQ), read 2026-10-18.
+
+| Line | Brooklyn base |
+|---|---|
+| Commercial IP camera, installed | $450 – $950 each |
+| NVR + storage | $750 – $6,000+ by scale |
+| Daycare / preschool (6–12 cameras) | $4,500 – $8,000 |
+| Single-building school / parochial (16–32) | $12,000 – $30,000 |
+| Multi-wing / yeshiva campus (32–64) | $25,000 – $48,000 |
+| Multi-building campus (64–128) | $40,000 – $95,000+ |
+| College / institutional | quoted per phase; $200,000+ full campus |
+| Service after install (v2.3 §9 protected) | $195/hr, 3-hr minimum ($585) |
+
+Inconsistencies found in the existing silo (FLAG for Anwar): Bronx shows $495–$1,045/camera and $5,000–$8,800 daycare (≈1.10×, but §9 says Bronx = 1.00×); Queens shows the same numbers as Bronx (≈1.10×, §9 says 1.05×); Manhattan, Staten Island and Nassau all show $540–$1,140 (≈1.20×; §9 says 1.25 / 1.10 / 1.15). The NYC hub uses a different tier table ($4,500–$9,500 daycare, $9,000–$16,000 small parochial, …). No BYOE / labor-only price exists anywhere in the silo. Old pages carry the three-year warranty paragraph (must be replaced by the one-year terms sentence on rebuild).
+
+## 1. Reddit
+- **"site:reddit.com school security cameras private school installer"** · Firecrawl search · https://www.reddit.com/r/SecurityCamera/comments/1g0nb3u/researching_options_for_cameras_for_a_small/ (excerpt) · Small private school researching cameras; advice thread mentions using equipment quoted by the alarm company and doing labor themselves. · Brooklyn page: AI Reality Check (DIY vs installed).
+- same query · https://www.reddit.com/r/msp/comments/1de3j08/new_security_cameras_for_school/ (excerpt) · "Many states in the US require that you be a licensed security company with the state in order to sell/install cameras. Look at Verkada or ..." · Brooklyn page: Q&A (licensing), Equipment (cloud-licensed platforms).
+- same query · https://www.reddit.com/r/NYCTeachers/comments/1ba0t6d/is_your_doe_school_getting_cameras/ (excerpt) · NYC teachers discussing DOE installing cameras in their schools; commenter: "It is completely legal for the school to install cameras anywhere they want it is public property". · Brooklyn page: The Neighborhood (DOE schools run their own system).
+- same query · https://www.reddit.com/r/k12sysadmin/comments/q62cqh/what_security_cameras_are_your_schools_using/ (excerpt) · K-12 sysadmins compare on-premise VMS vs cloud. · Equipment section.
+- **"site:reddit.com Brooklyn daycare cameras parents watch live feed"** · Firecrawl search · https://www.reddit.com/r/nycparents/comments/1uxbj39/looking_for_a_daycare_with_cameras_in_nyc_any/ (excerpt) · NYC parents looking for daycares with cameras; one says their daycare has cameras "but they aren't live-streamed for the parents to watch all day". · Brooklyn page: Q&A (parent live view), Building Specialists (daycare).
+- same · https://www.reddit.com/r/nycparents/comments/1w0eguj/daycares_with_cameras/ (excerpt) · "some daycares do use cameras that parents can access, but it's less common than in other places." · Brooklyn page: Q&A (parent live view).
+- same · https://www.reddit.com/r/Greenpoint/comments/1pjevc7/need_help_getting_video_security_footage/ (excerpt) · Greenpoint family seeking footage after a daycare incident: "The daycare hasn't given clear answers, and the Department of Health follow-up has been poor." · Brooklyn page: The Neighborhood (footage-retrieval pain), Q&A (export).
+- Thread bodies: EMPTY (not accessible in build env — Reddit blocked for scrape).
+
+## 2. Google PAA
+EMPTY (not accessible in build env). Substitute: question intents taken from the Reddit/news items above and from the register below.
+
+## 3. Google PASF
+EMPTY (not accessible in build env).
+
+## 4. Answer the Public
+EMPTY (not accessible in build env).
+
+## 5. Google AI Overview
+EMPTY (not accessible in build env). The Reality Check section on each page must therefore not quote an AI Overview verbatim; it addresses the generic claims found in the vendor/marketplace results returned for the same queries (e.g. eufy blog https://www.eufy.com/eu-de/blogs/security-camera/school-security-cameras and charterts.com "3 Questions to Consider When Installing Security Cameras in Schools" https://charterts.com/?p=16637, both excerpt only), and states that it is paraphrasing common summary claims.
+
+## 6/7. Landmarks & use cases — see area sections.
+
+## 8. Bing & DuckDuckGo
+EMPTY (not accessible in build env as separate surfaces; WebSearch backend not identified).
+
+## 9. Local news / 10. Hyperlocal (silo-wide items)
+- **"NYC DOE school safety agents NYPD School Safety Division cameras public schools"** · WebSearch → WebFetch · https://en.wikipedia.org/wiki/New_York_City_Police_Department_School_Safety_Division · NYPD School Safety Division is the law-enforcement agency for DOE schools; ~5,000 School Safety Agents (infobox 5,147); division transferred from the Board of Education to NYPD in 1998. · Brooklyn page: The Neighborhood, facts list.
+- same query · https://citylimits.org/what-do-cameras-cure-system-gets-own-scrutiny/ (City Limits, Jan 21 2008) · DOE + School Construction Authority designed the IPDVS camera system in 2003, first implemented July 2004; authorized by Local Law 52 of 2004; run by DOE Office of School and Youth Development; NYPD school safety agents watch live feeds; ~6,000 cameras in 130 buildings projected by end of 2008; ~$120M. · Brooklyn page: The Neighborhood, facts list, AI Reality Check.
+- **"NYS Nonpublic School Safety Equipment (NPSE) grant cameras 2025 2026"** · WebSearch → WebFetch · https://www.nysed.gov/nonpublic-schools/nonpublic-school-safety-equipment-npse-grant-0 · NPSE = reimbursement program for religious and independent schools; non-competitive, formula-driven, allocated per pupil on prior-year nonpublic enrollment; inaugural year 2013-14; Year 10 = $45 million; Years 11-13 (FY 2023-24 to 2025-26) combined; "Beginning in 2025 there will be a competitive component (RFP application)"; administered by NYSED Office of Religious and Independent School Support (ORISS). Equipment list is in separate guidance (not read). · Brooklyn page: Q&A (funding), Pricing.
+- **"NYC Local Law nonpublic school security guard reimbursement…"** · WebSearch → WebFetch · https://www.nyc.gov/assets/dcas/downloads/pdf/business/local_law_2.pdf · Local Law 2 of 2016 (Admin Code §10-172): city reimburses eligible nonprofit nonpublic schools for security guards — one guard at 300–499 students, two at 500+, one more per additional 500; annual cap $19.8M; guards must be from a qualified provider list. Covers guards, not cameras. · Brooklyn page: Q&A (guard program vs cameras), facts list.
+- **"New York State Education Department facial recognition ban schools 2023"** · WebSearch → WebFetch · https://www.nysed.gov/news/2023/state-education-department-issues-determination-biometric-identifying-technology-schools · Sept 27 2023 Commissioner's determination under State Technology Law §106-b: schools in NYS may not purchase or use facial recognition technology; other biometrics decided locally. Page does not say whether nonpublic schools are covered. · Brooklyn page: Equipment, AI Reality Check (no facial recognition).
+- **"Landmarks Preservation Commission security cameras rules…"** · WebSearch → WebFetch · https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf · LPC staff can approve cameras when: no more than 2 cameras per 25 ft of frontage (small buildings) or 3 per 25 ft (large/institutional); not on primary facade unless no other option; attach at mortar joints/plain masonry/wood/metal, not through cast iron or decorative surfaces; small and painted to blend; ~10 inches max visible conduit; manufacturer cut sheets filed via Portico. · Brooklyn page: Building Specialists, Commercial compliance, Q&A.
+- **"NYC DOB permit required low voltage security camera installation…"** · WebSearch → WebFetch · https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf · Local Law 128 of 2024: low-voltage work (<50 V signaling/communication/alarm/data) exempt from electrical permits when done by a licensed master/special electrician or a "qualified person"; life-safety-connected wiring and control circuits switching light/heat/power need a master or special electrician; fire alarm separately under FDNY. Effective date not confirmed from excerpt. · Brooklyn page: Commercial compliance, Q&A.
+- **"NYC Health Code Article 47 child care … OCFS regulations cameras"** · WebSearch → WebFetch · https://regulations.justia.com/states/new-york/title-18/chapter-ii/subchapter-c/article-2/part-418/subpart-418-1/section-418-1-15 · 18 NYCRR 418-1.15(b)(9): cameras may not substitute for direct supervision; may transmit images of children "in common rooms, hallways and play areas only"; bathrooms and changing areas must be free of video surveillance; parents/staff must be told cameras are in use and where. (Part 418-1 is OCFS's day care center rule; NYC group child care centers are permitted under Article 47 of the NYC Health Code — see CCC testimony title https://archive.cccnewyork.org/data-and-reports/publications/ccc-testimony-regarding-the-proposed-amendments-to-article-47-of-the-new-york-city-health-code-related-to-child-care-services-at-family-shelters, excerpt.) · Brooklyn page: Building Specialists (daycare), Q&A.
+- same · https://nysenate.gov/legislation/bills/2025/A4530 · A4530 (Morinello) would require video recording in day care areas for children ≤3, 90-day retention; in Assembly Children & Families committee, referred Jan 7 2026 — not law. · Brooklyn page: AI Reality Check (no daycare camera mandate yet).
+- **"Securing Communities Against Hate Crimes grant DCJS nonpublic schools…"** · WebSearch → WebFetch · https://www.governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program · SCAHC: DCJS funding for nonprofits at risk of hate crimes because of ideology/beliefs/mission; lists alarms, panic buttons, fences, shatter-resistant glass, PA systems "among other items"; RFP posted by DCJS. Page itself does not name cameras or schools. · Brooklyn page: Q&A (funding).
+- **"Brooklyn yeshiva security cameras grant news"** · WebSearch → WebFetch · https://www.brooklyneagle.com/articles/2017/2/28/cuomo-beef-security-yeshivas · Brooklyn Eagle (Feb 28 2017): $25M state grant program let yeshivas and day care centers improve security, eligible uses incl. camera and monitoring systems and lighting. · Brooklyn page: The Neighborhood.
+- **"Education Law 2801-b"** · WebSearch → WebFetch · https://www.nysenate.gov/legislation/laws/EDN/2801-B · Education Law §2801-b: State School Safety Improvement Teams (DHSES, State Police, DCJS, SED) review safety plans submitted voluntarily by districts under 125,000 inhabitants, BOCES, nonpublic schools and county vocational boards. · Brooklyn page: Q&A (plan review), Commercial compliance.
+- **"FAR 52.204-25 … section 889"** · WebSearch · https://www.acquisition.gov/far/52.204-25 (title only) · FAR clause implementing NDAA FY2019 §889 (covered telecom/video surveillance equipment incl. Hikvision, Dahua, Hytera). · Equipment.
+
+## 11. Yelp 1–3★
+- **"security camera installation Brooklyn yelp reviews school"** · Firecrawl search · https://m.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn%2C+NY (excerpt: listing page only) · Review bodies: EMPTY (not accessible in build env).
+
+## Keyword layers (silo)
+- Service: school security camera installation, school CCTV installation, school surveillance system, classroom camera, school camera upgrade, school camera repair.
+- Problem: break-ins over weekends/holidays, vandalism/graffiti, door propping, unknown visitors at dismissal, missing footage when parents/police ask, analog system failing.
+- Technology: IP cameras, NVR, PoE, fiber link between buildings, video door station/intercom, access control, mass notification (adjacent), NDAA-compliant hardware.
+- Industry: Catholic/parochial academies, yeshivas and Jewish day schools, independent schools, charter schools, 3-K/Pre-K CBOs, daycare centers, after-school programs, colleges.
+- Geographic: per area page.
+
+## Question register
+
+Extracted programmatically on 2026-10-18 from all 16 existing `school-security-camera-installation-*.html` pages with the `tools/check_page.py` parser (every `.faq-question` plus every h2/h3/summary ending in "?"). Pages being rebuilt must not repeat any of these in meaning, and must append their own questions below.
+
+### school-security-camera-installation-bronx (23 questions)
+
+- Need School Camera Repair in the Bronx Today?
+- How many cameras does a Bronx school building need?
+- What does the elevated train actually do to cameras?
+- Does Throggs Neck really need marine-grade cameras?
+- Can a driveway camera record the street beyond our gate?
+- Our charter shares a building with another program. Whose cameras are they?
+- Who watches the building over summer recess?
+- Will new cameras work with our existing buzzer and burglar alarm?
+- Is there dedicated security funding for Bronx religious schools?
+- Who ends up owning the recordings?
+- What does a school camera system cost in the Bronx?
+- How do you decide the camera count for our building?
+- Is facial recognition allowed in any Bronx school?
+- Can cameras go inside classrooms?
+- Which spaces can never be recorded?
+- How long should we keep footage?
+- Can you install while school is in session?
+- Which brands do you install, and why does NDAA §889 matter?
+- What funding can Bronx schools use for cameras?
+- Will you integrate cameras with our buzzer, alarm, and door hardware?
+- Do you repair or take over systems someone else installed?
+- Are your technicians licensed and suited to school settings?
+- Need Repair on a Bronx School System Right Now?
+
+### school-security-camera-installation-brooklyn (23 questions)
+
+- Need School Camera Repair in Brooklyn Today?
+- How many cameras does a Brooklyn school building need?
+- Does the NPSE grant apply to Brooklyn yeshivas and religious schools?
+- Is it legal for our entrance camera to see the sidewalk?
+- Should the rear schoolyard be covered after hours?
+- Can one recorder serve a main building plus an annex across the street?
+- Who watches the building in August?
+- Will new cameras work with the intercom and alarm we already own?
+- Are there special security funds for Jewish schools?
+- Who ends up owning the footage?
+- What does a school camera system cost in Brooklyn?
+- How do you decide how many cameras our building needs?
+- Is facial recognition allowed in any Brooklyn school?
+- Can we put cameras inside classrooms?
+- Which locations are off-limits for cameras?
+- How much footage history should we keep?
+- Can installation happen while classes run?
+- Which brands do you use, and why does NDAA matter?
+- Is grant money available for Brooklyn school cameras?
+- Will you tie cameras into our buzzer, alarm, and door hardware?
+- Do you fix or adopt systems another company installed?
+- Are your technicians licensed and appropriate for school settings?
+- Need Repair on a Brooklyn School System Right Now?
+
+### school-security-camera-installation-dutchess-county (23 questions)
+
+- Dutchess School Camera System Down Right Now?
+- How many cameras does a Dutchess school or campus need?
+- How do you install cameras on a historic or Register-listed building?
+- What actually protects historic copper gutters and downspouts?
+- What do underwriters and placement consultants expect from a boarding campus?
+- What changes on an estate-scale property with a long drive?
+- Can a residential campus lawfully camera its grounds?
+- What does ridge-country winter do to the hardware spec?
+- Is there funding help for Dutchess nonpublic schools?
+- When the project closes, who owns the footage?
+- What does a school camera system cost in Dutchess County?
+- How do you count cameras for a campus with acreage and multiple eras of buildings?
+- Is facial recognition permitted at any Dutchess school?
+- Can cameras go inside classrooms or seminar rooms?
+- Which spaces can never be recorded?
+- How much recorded history should we keep?
+- Can installation work around the academic calendar and historic-building approvals?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Dutchess schools use for camera work?
+- Will the cameras tie into our existing buzzer and alarm?
+- Do you repair or take over systems from other installers?
+- Are your technicians licensed and appropriate for school and residential settings?
+- Need a Dutchess School System Repaired Today?
+
+### school-security-camera-installation-hudson-valley (34 questions)
+
+- Need School Camera Repair in the Hudson Valley Today?
+- How much do school security cameras cost in the Hudson Valley?
+- Who installs school cameras in Westchester?
+- Who installs school cameras in Rockland?
+- Are cameras allowed in private schools in NY?
+- Can daycare parents demand live camera access?
+- What cameras do schools actually use?
+- How long do schools keep camera footage?
+- Do school cameras work in rural darkness?
+- Can school cameras survive Hudson Valley winters?
+- Who repairs school camera systems near me?
+- Do grants pay for school cameras in NY?
+- Is DIY school camera installation legal?
+- How many cameras does a Hudson Valley school campus need?
+- What does the NPSE grant cover for Valley yeshivas and religious schools?
+- Can boarding schools put cameras near dormitories?
+- Should the driveway and carline be covered?
+- What happens to school camera systems during ice storms and outages?
+- Do rural internet connections limit remote school camera viewing?
+- Can cameras integrate with our existing alarm, intercom, or panic system?
+- What about summer camps using our school building?
+- Who owns the footage — the school or the camera company?
+- How much does school security camera installation cost in the Hudson Valley?
+- Is facial recognition legal in Hudson Valley schools?
+- Can cameras be installed in classrooms or near dormitories?
+- Where can school cameras never be installed?
+- How long should a Hudson Valley school keep camera footage?
+- Can you install while school is in session?
+- What camera brands do you install for Hudson Valley schools, and what is NDAA compliance?
+- Can grants pay for school security cameras in the Hudson Valley?
+- Do you integrate cameras with buzzers, intercoms, panic alarms, and access control?
+- Do you repair or take over existing school camera systems in the Hudson Valley?
+- Are your installers licensed and vetted to work in schools?
+- Need Repair on a Hudson Valley School System Right Now?
+
+### school-security-camera-installation-long-island (35 questions)
+
+- Need School Camera Repair on Long Island Today?
+- How much do school security cameras cost on Long Island?
+- Who installs school cameras in Nassau County?
+- Who installs school cameras in Suffolk County?
+- Are cameras allowed in private schools in NY?
+- Can daycare parents demand camera access?
+- What cameras do schools actually use?
+- How long do schools keep camera footage?
+- Do school cameras record audio?
+- Can school cameras be monitored remotely?
+- Who repairs school camera systems near me?
+- Do grants pay for school cameras in NY?
+- Is DIY school camera installation legal?
+- Do Long Island public schools share camera feeds with police?
+- How many cameras does a typical Long Island school need?
+- What does Alyssa’s Law mean for Long Island schools?
+- Can a Long Island school put cameras on athletic fields?
+- Should the bus loop and parent pickup line be covered?
+- Do salt air and coastal weather really affect school cameras?
+- Can cameras integrate with our existing school alarm or intercom?
+- What happens to school camera systems over summer break?
+- Who owns the footage — the school or the camera company?
+- How much does school security camera installation cost on Long Island?
+- How many cameras does a Long Island school campus need?
+- Is facial recognition legal in Long Island schools?
+- Can cameras be installed in classrooms?
+- Where can school cameras never be installed?
+- How long should a Long Island school keep camera footage?
+- Can you install while school is in session?
+- What camera brands do you install for Long Island schools, and what is NDAA compliance?
+- Can grants pay for school security cameras on Long Island?
+- Do you integrate cameras with buzzers, intercoms, panic alarms, and access control?
+- Do you repair or take over existing school camera systems on Long Island?
+- Are your installers licensed and vetted to work in schools?
+- Need Repair on a Long Island School System Right Now?
+
+### school-security-camera-installation-manhattan (34 questions)
+
+- Need School Camera Repair in Manhattan Today?
+- How much do school security cameras cost in Manhattan?
+- Who installs school cameras in Manhattan?
+- Are cameras allowed in private schools in NY?
+- Can NYC daycare parents demand live camera access?
+- What cameras do NYC schools actually use?
+- How long do schools keep camera footage?
+- Do school cameras record audio?
+- Can school cameras be monitored remotely?
+- Who repairs school camera systems near me?
+- Do grants pay for school cameras in NY?
+- Do cameras work on landmarked buildings?
+- Is DIY school camera installation legal?
+- How many cameras does a Manhattan school building need?
+- How do installs work around freight elevators and building rules?
+- Can cameras cover the dismissal scene on a public sidewalk?
+- What about the rooftop play deck?
+- Do co-op or condo neighbors get a say in our camera install?
+- What happens to school camera systems in August?
+- Can cameras integrate with our existing intercom or alarm?
+- Do Jewish day schools have extra funding options for cameras?
+- Who owns the footage — the school or the camera company?
+- How much does school security camera installation cost in Manhattan?
+- Is facial recognition legal in Manhattan schools?
+- Can cameras be installed in classrooms?
+- Where can school cameras never be installed?
+- How long should a Manhattan school keep camera footage?
+- Can you install while school is in session?
+- What camera brands do you install for Manhattan schools, and what is NDAA compliance?
+- Can grants pay for school security cameras in Manhattan?
+- Do you integrate cameras with buzzers, intercoms, panic alarms, and access control?
+- Do you repair or take over existing school camera systems in Manhattan?
+- Are your installers licensed and vetted to work in schools?
+- Need Repair on a Manhattan School System Right Now?
+
+### school-security-camera-installation-nassau-county (23 questions)
+
+- Nassau School Camera System Down Right Now?
+- How many cameras does a Nassau school property need?
+- What makes postwar single-story schools harder to secure?
+- Do Nassau schools really need wildlife-filtered detection?
+- What changes for schools near the water on the South Shore?
+- Can gate cameras at an estate campus record the road beyond?
+- Who watches the building across ten weeks of summer?
+- Will new cameras work with our existing buzzer and alarm?
+- Is there dedicated security funding for Nassau’s religious schools?
+- Who ends up owning the recordings?
+- What does a school camera system cost in Nassau County?
+- How do you set the camera count for our property?
+- Is facial recognition allowed in any Nassau school?
+- Can cameras go inside classrooms?
+- Which spaces can never be recorded?
+- How much recorded history should we keep?
+- Can you install during the school year?
+- Which brands do you install, and why does NDAA §889 matter?
+- What funding can Nassau schools use for camera work?
+- Will you integrate cameras with our buzzer, alarm, and door hardware?
+- Do you repair or take over systems another company installed?
+- Are your technicians licensed and suited to school settings?
+- Need a Nassau School System Repaired Today?
+
+### school-security-camera-installation-nyc (33 questions)
+
+- How much do school security cameras cost?
+- How many cameras does a school need?
+- Can schools put cameras in classrooms?
+- Are cameras allowed in school bathrooms?
+- Who can view school camera footage?
+- How long do schools keep camera footage?
+- Can parents request school video?
+- Do daycares need cameras in New York?
+- What camera brands are banned for schools?
+- Will cameras lower a school’s insurance costs?
+- Can school cameras record audio?
+- Who pays for school security cameras?
+- What is the best security camera system for schools?
+- How much does it cost to install security cameras in a school?
+- Are security cameras effective in schools?
+- Can teachers be recorded in the classroom?
+- Is facial recognition legal in New York schools?
+- How many security cameras does a high school need?
+- Do private schools need security cameras?
+- What is NDAA compliance for school cameras?
+- How long is school camera footage kept?
+- How much does school security camera installation cost in NYC?
+- How many security cameras does a school need?
+- Can cameras be installed in classrooms?
+- Where can school cameras never be installed?
+- How long should a school keep camera footage?
+- Can you install while school is in session?
+- What camera brands do you install for schools, and what is NDAA compliance?
+- Can grants pay for school security cameras?
+- Do you integrate cameras with buzzers, intercoms, and access control?
+- Do you repair or take over existing school camera systems?
+- Are your installers licensed and vetted to work in schools?
+- Questions answered. Building surveyed next?
+
+### school-security-camera-installation-orange-county (23 questions)
+
+- Orange County School Camera System Down Right Now?
+- How many cameras does an Orange County school property need?
+- What does “growth-ready” actually mean in a camera system?
+- How do you protect rooftop HVAC from copper theft?
+- What changes on a farm-adjacent or open-land campus?
+- Who responds to a 2 a.m. alert when the Sheriff is twenty minutes out?
+- Can a boarding school lawfully camera its residential areas?
+- What does mountain weather do to the hardware spec?
+- Is there funding help for Orange County’s nonpublic schools?
+- At the end of the job, who owns the footage?
+- What does a school camera system cost in Orange County?
+- How do you set the camera count for a property with acreage?
+- Is facial recognition allowed in any Orange County school?
+- Can cameras go inside classrooms?
+- Which areas can never be recorded?
+- How much recorded history should we keep?
+- Can installation work around our calendar — school year, break windows, yom tov?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Orange County schools use for camera work?
+- Will the cameras tie into our existing buzzer and alarm?
+- Do you repair or take over systems other companies installed?
+- Are your technicians licensed and appropriate for school settings?
+- Need an Orange County School System Repaired Today?
+
+### school-security-camera-installation-putnam-county (23 questions)
+
+- Putnam School Camera System Down Right Now?
+- How many cameras does a Putnam school actually need?
+- What makes a small-school system different from a scaled-down big one?
+- How do you design around barns, paddocks, and animal areas?
+- What does a wooded quarter-mile driveway change?
+- Who responds at 1 a.m. when the nearest deputy is miles of back road away?
+- Can a residential program lawfully camera its campus?
+- What does watershed-adjacent property change about installation?
+- Is there funding help for Putnam’s nonpublic and residential schools?
+- When the job’s done, who owns the footage?
+- What does a school camera system cost in Putnam County?
+- How do you set the camera count on a wooded property?
+- Is facial recognition allowed in any Putnam school?
+- Can cameras go inside classrooms?
+- Which spaces can never be recorded?
+- How much recorded history should a school keep?
+- Can installation work around the school calendar?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Putnam schools use for camera work?
+- Will the cameras tie into our buzzer and alarm?
+- Do you repair or take over systems from other installers?
+- Are your technicians licensed and suited to school settings?
+- Need a Putnam School System Repaired Today?
+
+### school-security-camera-installation-queens (23 questions)
+
+- Need School Camera Repair in Queens Today?
+- How many cameras does a freestanding Queens campus need?
+- Does salt air really change the camera spec on the Rockaways?
+- Can the parking lot camera legally record the street beyond it?
+- What about modular classrooms and trailer annexes?
+- Can evening sports and rentals be covered without new wiring?
+- Who monitors the building during summer recess?
+- Will new cameras cooperate with our existing buzzer and alarm?
+- Is there dedicated security money for Jewish schools in Queens?
+- Who ends up owning the recordings?
+- What does a school camera system cost in Queens?
+- How is the camera count determined for a freestanding campus?
+- Is facial recognition permitted in any Queens school?
+- Can classrooms be covered?
+- Which spaces can never have cameras?
+- How much video history should we hold?
+- Can work proceed while school is in session?
+- Which brands do you install, and why does NDAA matter here?
+- What funding exists for Queens school cameras?
+- Will you integrate with our buzzer, alarm, and door hardware?
+- Do you repair or adopt systems installed by others?
+- Are your technicians licensed and suitable for school environments?
+- Need Repair on a Queens School System Right Now?
+
+### school-security-camera-installation-rockland-county (22 questions)
+
+- Rockland School Camera System Down Right Now?
+- How many cameras does a Rockland school or campus need?
+- How do you connect cameras across separate buildings?
+- Can installation be scheduled around the yeshiva calendar?
+- What protects a bus yard overnight?
+- Do you handle security for buildings still under construction?
+- What does winter do to exterior cameras here?
+- Will the cameras integrate with our existing buzzer and alarm?
+- Is there dedicated funding for Rockland’s nonpublic schools?
+- At the end of the project, who owns the footage?
+- What does a school camera system cost in Rockland County?
+- How do you count cameras for a multi-building institution?
+- Is facial recognition permitted in any Rockland school?
+- Can cameras go inside classrooms or shiur rooms?
+- Which spaces can never be recorded?
+- How much recorded history should we keep?
+- Can you work around our calendar — Shabbos, yom tov, bein hazmanim?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Rockland schools use for camera work?
+- Do you repair or take over systems from other installers?
+- Are your technicians licensed and suited to our institutions?
+- Need a Rockland School System Repaired Today?
+
+### school-security-camera-installation-staten-island (23 questions)
+
+- School Camera System Down on Staten Island?
+- How many cameras does a typical Staten Island school need?
+- What does “marine-tiered” exterior spec actually mean?
+- Do deer and turkeys really break camera systems here?
+- Our school flooded in 2012. What changes in the camera design?
+- Can driveway cameras at a hilltop school record the street below?
+- Who monitors the building over summer recess?
+- Will new cameras integrate with our existing buzzer and alarm?
+- Is there security funding for Staten Island’s religious schools?
+- Who ends up owning the footage?
+- What does a school camera system cost on Staten Island?
+- How do you determine the camera count for our property?
+- Is facial recognition permitted in any island school?
+- Can cameras be placed inside classrooms?
+- Which areas can never be recorded?
+- How much footage history should we keep?
+- Can installation happen while school is in session?
+- Which brands do you install, and why does NDAA §889 matter here?
+- What funding can island schools use for camera projects?
+- Will you tie cameras into our buzzer, alarm, and door hardware?
+- Do you repair or adopt systems another company installed?
+- Are your technicians licensed and appropriate for school environments?
+- Need a Staten Island School System Repaired Right Now?
+
+### school-security-camera-installation-suffolk-county (23 questions)
+
+- Suffolk School Camera System Down Right Now?
+- How many cameras does a Suffolk school property take?
+- What does Suffolk’s size change about a camera project?
+- Do you handle the deer problem or do we live with false alerts?
+- What’s different about Sound-side versus ocean-side installs?
+- Who responds to an alert on the East End, where police are spread thin?
+- Can a boarding school lawfully camera its residential areas?
+- Will new cameras tie into our existing buzzer and burglar alarm?
+- Is there funding help for Suffolk’s nonpublic schools?
+- At the end of the job, who owns the footage?
+- What does a school camera system cost in Suffolk County?
+- How do you decide camera count on a big property?
+- Is facial recognition allowed at any Suffolk school?
+- Can cameras go inside classrooms?
+- Which areas can never be recorded?
+- How long should our school keep footage?
+- Can you install while school is in session?
+- Which camera brands do you install, and what does NDAA §889 change?
+- What funding can Suffolk schools tap for cameras?
+- Do the cameras integrate with our buzzer, alarm, and door hardware?
+- Do you repair systems or take over ones another installer abandoned?
+- Are your technicians licensed and appropriate for school environments?
+- Need a Suffolk School System Fixed Today?
+
+### school-security-camera-installation-ulster-county (23 questions)
+
+- Ulster School or Camp Camera System Down Right Now?
+- How many cameras does an Ulster school or camp need?
+- What does “winterizing” a camp camera system actually involve?
+- Where can cameras lawfully point at a sleepaway camp?
+- What protects a shuttered camp’s kitchen and equipment buildings all winter?
+- Who responds to a 1 a.m. alert when the deputy is mountain miles away?
+- What changes when a public rail trail borders school ground?
+- What does a Catskills winter do to the hardware spec?
+- Is there funding help for Ulster’s nonpublic schools and camps?
+- When the job’s done, who owns the footage?
+- What does a school or camp camera system cost in Ulster County?
+- How do you count cameras for a property with acreage, buildings, and a gate?
+- Is facial recognition allowed at any Ulster school?
+- Can cameras go inside classrooms?
+- Which spaces can never be recorded — school or camp?
+- How much recorded history should we keep?
+- Can installation work around the school calendar and the camp season?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Ulster schools and camps use?
+- Will the cameras tie into our existing buzzer and alarm?
+- Do you repair or take over systems from other installers?
+- Are your technicians licensed and appropriate for schools and camps?
+- Need an Ulster School or Camp System Repaired Today?
+
+### school-security-camera-installation-westchester-county (23 questions)
+
+- Westchester School Camera System Down Right Now?
+- How many cameras does a Westchester school property need?
+- What does Westchester’s terrain change about camera design?
+- Do you really tune out deer, coyotes — even bears?
+- What does winterization actually involve?
+- How do you handle cameras near property lines and neighbors?
+- Who watches a campus over breaks and summer?
+- Will new cameras integrate with our existing buzzer and alarm?
+- Is there security funding for Westchester’s nonpublic schools?
+- At the end of the project, who owns the footage?
+- What does a school camera system cost in Westchester County?
+- How do you set the camera count on a terraced or wooded property?
+- Is facial recognition permitted in any Westchester school?
+- Can cameras go inside classrooms?
+- Which spaces can never be recorded?
+- How much recorded history should we keep?
+- Can you install during the school year?
+- Which brands do you install, and what does NDAA §889 change?
+- What funding can Westchester schools use for camera work?
+- Will the cameras integrate with our buzzer, alarm, and door hardware?
+- Do you repair or take over systems from other installers?
+- Are your technicians licensed and suited to school environments?
+- Need a Westchester School System Repaired Today?
+
+
+### school-security-camera-installation-brooklyn — REBUILT 2026-10-18 (replaces the pre-rebuild list above for this page)
+
+- School Cameras Dark or Recorder Beeping in Brooklyn? — Q&A / heading
+- Our academy shares a building with the parish. Who has to approve the camera plan — the principal, the pastor or the diocese? — Q&A / heading
+- We rent our classrooms from a church. Can we put cameras in, and what happens when the lease ends? — Q&A / heading
+- Does our 3-K or Pre-K contract with the city require cameras? — Q&A / heading
+- Our school is a 1920s brick building. How does cable reach the fourth floor without opening walls? — Q&A / heading
+- Do we need a Department of Buildings permit for the camera wiring? — Q&A / heading
+- Should the recorder sit in the principal's office? — Q&A / heading
+- Can our old analog cameras and coax be reused, or does everything go? — Q&A / heading
+- We have a city-reimbursed security guard at the door. How should the cameras work with the guard? — Q&A / heading
+- What should the screen at our front desk actually show? — Q&A / heading
+- Who in our school should hold the administrator password? — Q&A / heading
+- What's the right way to give NYPD a clip from our system? — Q&A / heading
+- How do we document the cost for a grant reimbursement? — Q&A / heading
+- Our yeshiva runs Sunday classes and evening programs. Can alerts follow a different schedule on those days? — Q&A / heading
+- Can the cameras become a way for someone to get onto our school network? — Q&A / heading
+- How many exterior cameras will Landmarks allow on a school's street front? — Q&A / heading
+- Our school is in a historic district but the inside isn't landmarked. Do interior cameras need approval? — Q&A / heading
+- Can a state school safety team look at our plan before we spend money? — Q&A / heading
+- Our after-school program uses a public school's gym in the evening. Can we install cameras there? — Q&A / heading
+- What happens to our footage and equipment if the school closes or merges? — Q&A / heading
+- Can one camera system serve the school by day and a weekend congregation or community group? — Q&A / heading
+- Can you name our diocese, network or landlord as additional insured on your certificate? — FAQ
+- Can we spread the project over two school years? — FAQ
+- What training do our staff get when the system is finished? — FAQ
+- How often should school cameras be cleaned and checked? — FAQ
+- Should we post signs that cameras are in use? — FAQ
+- If a yard camera gets smashed, is the replacement covered? — FAQ
+- We're opening a new charter school next September. When should the camera plan start? — FAQ
+- Do you take out the old cameras and cable when you replace a system? — FAQ
+- What happens on the free walkthrough, and how long does it take? — FAQ
+- Do your technicians see student footage, and will they keep it confidential? — FAQ
+
+
+## Brooklyn
+
+Page: `school-security-camera-installation-brooklyn` (REBUILD 2026-10-18). Phone (347) 934-8335, Brooklyn GBP (1282 Troy Ave). Pricing: Brooklyn base 1.00× (silo base table above, used as-is).
+
+**Thesis:** in Brooklyn the DOE's public schools already have a city-built camera network watched by NYPD school safety agents, so the real buyers are the schools and programs outside it — Catholic academies, yeshivas/Jewish day schools, independent schools, charter schools in their own space, CBO 3-K/Pre-K and daycare centres, after-school programs — and the page is organised around who owns/approves the system, the building types they occupy (parish buildings, multi-building yeshivas, landmarked independents, leased charters, storefront/basement centres) and the rules that apply to them (LPC camera criteria, LL128 low-voltage, day care placement rules, NYSED facial-recognition ban, NPSE, LL2 guard program).
+
+### Local research matrix
+| Source | Query | Platform | URL | Finding | Used on |
+|---|---|---|---|---|---|
+| Reddit | "site:reddit.com Brooklyn daycare cameras parents watch live feed" | Firecrawl search | https://www.reddit.com/r/Greenpoint/comments/1pjevc7/need_help_getting_video_security_footage/ (excerpt) | Greenpoint family: daycare "hasn't given clear answers, and the Department of Health follow-up has been poor", seeking neighbours' footage | The Neighborhood ¶4; Sources |
+| Reddit | same | Firecrawl search | https://www.reddit.com/r/nycparents/comments/1uxbj39/looking_for_a_daycare_with_cameras_in_nyc_any/ (excerpt) | NYC daycares that record but do not stream to parents | The Neighborhood ¶4; Building Specialists (3-K/daycare notes) |
+| Reddit | "site:reddit.com school security cameras private school installer" | Firecrawl search | https://www.reddit.com/r/NYCTeachers/comments/1ba0t6d/is_your_doe_school_getting_cameras/ (excerpt) | DOE installs cameras in its own schools | Sources (supports Neighborhood ¶1) |
+| PAA / PASF / ATP / AI Overview / Bing-DDG | — | — | — | EMPTY (not accessible in build env) | Reality Check states it paraphrases common summary claims, not a quoted Overview |
+| Landmarks | "Packer Collegiate Institute Joralemon Street landmark…" | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Packer_Collegiate_Institute | 170 Joralemon St; founded 1845; Minard Lafever building opened Nov 1854; Brooklyn Heights Historic District; PK-12 | Coverage card 1; Neighborhood ¶2 |
+| Landmarks | "Saint Ann's School Brooklyn Heights Bosworth Building…" | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Crescent_Athletic_Club_House | 129 Pierrepont St at Clinton St; completed 1906 (Frank Freeman); Bosworth Building of Saint Ann's School since 1966 purchase | Coverage card 1; Neighborhood ¶2 |
+| Landmarks | "Poly Prep Country Day School Dyker Heights campus acres address" | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Poly_Prep | 9216 Seventh Ave (26 acres); lower school 50 Prospect Park West; founded 1854 | Coverage cards 2–3; Neighborhood ¶2 |
+| Landmarks / news | "Brooklyn private school security news 2025 2026…" | WebSearch → WebFetch | https://patch.com/new-york/parkslope/berkeley-carroll-threatened-school-shooting-documents-show | Berkeley Carroll, 181 Lincoln Place; Feb 7–8 2022 online threat to a ninth-grader; security increased; FBI + NYPD Intelligence investigating, advised against closing | Neighborhood ¶5; Coverage card 2 |
+| Use cases | "Diocese of Brooklyn Catholic academies number of schools…" | WebSearch → WebFetch | https://en.wikipedia.org/wiki/List_of_schools_in_the_Roman_Catholic_Diocese_of_Brooklyn | 7 Brooklyn Catholic high schools (Bishop Loughlin–Fort Greene; Cristo Rey Brooklyn & Nazareth Regional–East Flatbush; Fontbonne Hall–Fort Hamilton; St. Edmund Prep–Homecrest; Saint Saviour–Park Slope; Xaverian–Bay Ridge) + 30 elementary academies | Neighborhood ¶2; facts list; Coverage cards 5–6 |
+| Use cases | "NYC 3-K Pre-K community-based organizations…" | WebSearch → WebFetch | https://www.ibo.nyc.gov/assets/ibo/downloads/pdf/education/2025/2025-may-utilization-up-capacity-down-a-look-at-3k-and-prek-trends-in-nyc.pdf | 2023-24: 3-K 34,900 of 52,373 seats in CBOs vs 8,307 district; Pre-K 40,376 of 74,323 CBO vs 27,134 district (citywide; no Brooklyn split) | Facts list |
+| Use cases | "Borough Park Williamsburg yeshiva enrollment…" | WebSearch | (titles only: Hebrew Institute of Boro Park, Nesivos Hatalmud, JTA 2025 yeshiva standards) | No enrolment figure retrieved → none used | — |
+| Local news | "Brooklyn school break-in burglary caught on camera 2025…" | WebSearch → WebFetch | https://brooklyn.news12.com/burglar-sought-in-series-of-jewish-school-break-ins | News 12 Brooklyn, May 28 2025: Kensington Jewish school — Feb 2025 side window broken with rock; May 15 side door forced, $360 + cards; following weekend fence climbed, wall damaged, $300 — only last incident on camera | Neighborhood ¶3; Commercial (13th Ave bullet) |
+| Local news | same | WebSearch → WebFetch | https://brooklyn.news12.com/man-wanted-in-borough-park-yeshiva-break-in-34776659 | News 12, July 23 2012: man broke into Borough Park yeshiva during Shabbat; seen trying to cover a surveillance camera | Neighborhood ¶3; Commercial (13th Ave) |
+| Local news | "Brooklyn private school security news…" | WebSearch → WebFetch | https://www.cbsnews.com/newyork/news/pilot-program-named-after-leiby-kletzky-to-put-security-cameras-in-borough-park-flatbush | CBS NY May 20 2012: $1M pilot, ~150 community-owned cameras in Borough Park and Flatbush | Not used on page (street cameras, not schools) |
+| Hyperlocal | "Brooklyn yeshiva security cameras grant news 2025" | WebSearch → WebFetch | https://www.brooklyneagle.com/articles/2017/2/28/cuomo-beef-security-yeshivas | Brooklyn Eagle Feb 2017: $25M state grants for yeshivas and day care centres, incl. cameras/monitoring and lighting | Sources (funding) |
+| Hyperlocal | same | WebSearch | https://www.brooklynpaper.com/homeland-grants-shield-jewish-centers (title only) | Federal homeland-security grants to Brooklyn Jewish institutions (not read) | Not used |
+| Licensing/permits | LPC, LL128, Article 47/OCFS (see silo §9) | WebFetch | see silo section | Staff-level LPC camera criteria; LL128 low-voltage permit exemption; day care camera placement rules | Building Specialists; Commercial compliance; Q&A (Landmarks, DOB); FAQ (signs) |
+| Yelp 1–3★ | "security camera installation Brooklyn yelp reviews school" | Firecrawl search | https://m.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn%2C+NY | Listing only; review bodies EMPTY (not accessible in build env) | — |
+
+### Streets / corridors named on the page (descriptive only, no unsourced stats)
+13th Avenue (Borough Park), Lee Ave & Bedford Ave (Williamsburg), Kingston Ave & Eastern Parkway (Crown Heights), Flatbush/Nostrand/Church Aves, Fifth & Third Aves (Bay Ridge), Coney Island Ave & Avenue J (Midwood), Joralemon St, Pierrepont St, Lincoln Place, Prospect Park West, Seventh Ave (Dyker Heights), Troy Ave (AESS office).
+
+### House practices on the page that are NOT externally sourced (flag)
+Brand mix (Uniview / Hanwha Wisenet / Axis, Lorex for small centres); "most systems recording again within 1–2 hours of arrival"; two-hour arrival windows; twice-yearly maintenance rhythm; walkthrough ≈1 hour + plan in a few business days; installer service account disabled after handover; COI/additional-insured handling; signing school confidentiality agreements; labour-only (BYOE) install priced per camera after walkthrough (no BYOE price exists in silo); illustrative 18-camera parish-school plan (explicitly labelled as an illustration, not a project).
+
+## Long Island (hub) — school-security-camera-installation-long-island
+
+Built 2026-10-18 by b8-school-li (REBUILD of the crawled-not-indexed LI hub). Thesis: on Long Island a school camera system is a public-procurement project before it is a wiring job — ~125 separately governed districts, budget/bond votes, GML §103 sealed bids or BOCES cooperative contracts, NYSED Office of Facilities Planning oversight (NYC schools fall outside it), the District 4 Nassau–Suffolk tele-data prevailing wage, Project SAVE plans and Ed Law 2-d — on campuses spread over fields, lots and bus loops rather than stacked on a city block. Brooklyn page owns NYC private/parochial/yeshiva/charter/daycare angles; this page only touches nonpublic schools via LI-specific permit/grant facts.
+
+### Research matrix (exact query · platform · URL · finding · page+section used)
+
+| # | Source type | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|---|
+| 1 | Reddit | "Suffolk County school bus stop-arm camera program BusPatrol tickets Nassau County school bus cameras" | Firecrawl search | https://www.reddit.com/r/longisland/comments/18rfmc1/bye_bye_school_bus_camera_program/ | Thread title "Bye bye school bus camera program" (r/longisland) referencing a Newsday piece on Nassau & Suffolk bus-camera developments. Page itself: EMPTY (not accessible in build env — scraper refuses reddit.com); excerpt only, not quoted on page. | Not used as a fact (context only) |
+| 2 | Google PAA | — | — | — | EMPTY (not accessible in build env) | — |
+| 3 | Google PASF | — | — | — | EMPTY (not accessible in build env) | — |
+| 4 | Answer the Public | — | — | — | EMPTY (not accessible in build env) | — |
+| 5 | Google AI Overview | — | — | — | EMPTY (not accessible in build env). "AI Reality Check" H3s are framed as common generic claims, not quotes of a captured Overview. | §10.5 framing only |
+| 6a | Landmarks / institutions | "Western Suffolk BOCES headquarters address Dix Hills; Eastern Suffolk BOCES Patchogue 201 Sunrise Highway; Nassau BOCES Garden City 71 Clinton Road" | Firecrawl search | https://www.nassauboces.org/ ; https://www.wsboces.org/contact-us-2/ ; https://www.boces.org/regional-boces-directory/ ; https://www.esboces.org/about-us/locations | Nassau BOCES George Farber Administrative Center, 71 Clinton Rd, Garden City; WSBOCES central admin 507 Deer Park Rd, Dix Hills; ESBOCES 201 Sunrise Hwy, Patchogue | District/BOCES section cards; Landmarks section |
+| 6b | Landmarks / districts | "Long Island 124 school districts Nassau 56 Suffolk 69" | WebSearch + WebFetch | https://en.wikipedia.org/wiki/List_of_Long_Island_public_school_districts_and_schools | "125 public school districts, containing a total of 656 public schools" (no per-county split on page) | Why section para 1; numbers list |
+| 7a | Use cases — Smart Schools (Suffolk) | "Smart Schools Bond Act Long Island district investment plan security cameras Nassau Suffolk" | Firecrawl search + scrape (pdf parser) | https://www.islipufsd.org/smart-schools-bond-act-information ; https://files.smartsites.parentsquare.com/7734/26-10-13_smart-schools-investment-plan-2.pdf | Islip UFSD SSIP #2 presented Oct 13, 2026: cameras Wing Elem 29 ($54,763.02), Commack Road Elem 25 ($45,035.18), Sherwood Elem 23 ($39,903.56), Middle School 35 ($58,243.67), High School 22 ($44,031.57) = 134 cameras (plan text elsewhere says "additional 132 cameras"); Genetec Streamvault archiver $46,459.06; 180 APs $266,340.95; access control 5 doors Wing $15,805.19, 1 door Commack Rd $1,269.19; total ≈$571,851.39; process: 30-day website posting → second hearing → board resolution → NYSED portal → NYSED review → Smart Schools Review Board; reimbursement model; quotes valid 30–90 days; Plan #1 636 Chromebooks July 2026, $324,360 reimbursement awaited; comments to 215 Main St, Islip | Why para 3; Q&A Smart Schools cluster; AI check (cost, timeline); Equipment (archiver); Landmarks; FAQ (VMS) |
+| 7b | Use cases — Smart Schools (Suffolk) | same query | Firecrawl scrape | https://www.pmschools.org/departments/technology/smart-schools-bond-act | Patchogue-Medford: preliminary plan approved Apr 24, 2017 meeting that served as public hearing; 30 days community feedback; final board approval June 1, 2017; submit to NYSED | Q&A "What has to happen between…" |
+| 7c | Use cases — state | same | Firecrawl scrape | https://www.nysed.gov/edtech/smart-schools-bond-act | $2B bond approved by voters 2014; Office of Educational Design & Technology reviews SSIPs | Why para 3 |
+| 7d | Use cases — state review threshold | "NYSED Office of Facilities Planning building permit security cameras low voltage project school district submission required" | Firecrawl gov search | https://p12.nysed.gov/mgtserv/smart_schools/docs/Special%20Education%20Guidance%20-%20FINAL%2020241104.pdf | High-tech security not requiring construction or ≤$100,000 capitalized cost → no formal capital-project review by Rate Setting/OSE/OFP, but must be code compliant | Why para 2; Q&A capital-project question |
+| 8 | Bing & DuckDuckGo | — | — | — | EMPTY (not accessible in build env) | — |
+| 9a | Local news — Newsday 2018 | (Firecrawl search) "Long Island school district bond vote security cameras vestibules 2025 OR 2026 Newsday" | Firecrawl scrape | https://www.newsday.com/long-island/education/school-safety-security-w24072 | July 26, 2018: 23 LI districts approved for $10,812,920 SSBA security (Brentwood $4,537,383; Valley Stream Central $1,954,631…); 37 of 124 districts had security items in 2018-19 budgets; capital projects ~9 months at SED (Borges, ASBO); NCPD trained 400+ principals + superintendents of all 56 Nassau districts + private/parochial/yeshivas; 177 on-duty patrol cars visit a school daily; Rave Panic Button Nassau 2016 (44 of 56), Suffolk $2M bond signed that week; Massapequa armed guards; Montauk interior cameras | Why para 2, numbers list, Two Counties, police paragraph, AI check |
+| 9b | Local news — Newsday 2022 | same search | Firecrawl scrape | https://www.newsday.com/long-island/education/school-security-upgrades-dbb7te94 | Dec 17, 2022: Middle Country upgraded 564 cameras in $2M SSBA project incl. card access, booths; SCPD emergency access; Merrick analog→digital ~$200,000 three buildings; Jericho $1.6M cameras+badges+locks; Manhasset ~$44M bond Dec 8 with >$10M safety; Glen Cove $2.2M security in $30.5M bond Dec 6; ≥30 LI school cyber incidents in 3 years | Numbers list; Q&A vote question; FAQ (analog, network); Landmarks; AI check (police) |
+| 9c | Local news — Newsday 2026 | same search | Firecrawl scrape | https://www.newsday.com/long-island/education/east-meadow-school-bond-vote-t1ftuzt4 | East Meadow $71.5M bond approved (Newsday updated Mar 5, 2026) 1,132–462; entrance vestibules, classroom door handles/locks, fire alarms districtwide; turf fields, lighting, bleachers; 20-year bond | Why para 5; Q&A vestibule; Landmarks |
+| 9d | Local news — CBS NY 2013 | "Nassau BOCES cooperative bidding program security cameras districts" | WebSearch + WebFetch | https://www.cbsnews.com/newyork/news/long-island-goes-cutting-edge-on-school-security-live-feeds-to-police-cars | Apr 18, 2013: Nassau BOCES fibre network + command centre; police view feeds in emergencies; 3 districts incl. Roslyn (~80 cameras at Roslyn HS) | District section; AI check (police) |
+| 9e | Local news — ABC7 2024 | bus-camera search above | Firecrawl scrape | https://abc7ny.com/post/suffolk-county-school-bus-camera-tickets-almost-dismissed/14981798/ | June 20–21, 2024: Suffolk dismissed ~90% of 9,000 backlogged bus-camera tickets after appellate ruling; ~3,000 of 8,000 at one Jericho Tpke stop, Smithtown; ~$2M lost | Q&A stop-arm question |
+| 10 | Hyperlocal / county gov | same bus search | Firecrawl scrape | https://www.suffolkcountyny.gov/schoolbus | 2019 law S4524B/A4950B; Suffolk program via BusPatrol (stop-arm + internal cameras, DVR, GPS, LTE) at no cost to schools; long list of participating districts incl. ESBOCES & WSBOCES; 2019 East Meadow 10-bus study 615 illegal passes in a month | Q&A stop-arm question |
+| 11 | Yelp 1–3★ | — | — | — | EMPTY (not accessible in build env) | — |
+
+Additional primary sources (law, wages, guidance):
+
+| Query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| "New York Education Law 2801-a district-wide school safety plan building-level emergency response plan 30 day public comment" | Firecrawl gov search | https://nysenate.gov/legislation/laws/EDN/2801-A ; https://regents.nysed.gov/sites/regents/files/424p12d1.pdf | District-wide plan: 30 days public comment + ≥1 public hearing, filed with commissioner within 30 days; building-level plans confidential (not subject to FOIL), filed with local police + State Police within 30 days; annual review; Reg 155.17 adopt by Sept 1 | Rules list; Q&A building-level plan; FAQ drawing |
+| same gov search (result 8/9) | Firecrawl gov search | https://nysed.gov/sites/default/files/programs/facilities-planning/mps-2026.pdf ; https://nysed.gov/sites/default/files/programs/facilities-planning/safeschoolsbydesign-aguidebynysed-april2025.pdf | MPS 2026 S818: cameras only where no reasonable expectation of privacy; never facing toilets/locker/changing rooms; State Technology Law §106-b bans school facial recognition. Safe Schools by Design (Apr 2025): 4 functions; fully networked IP; video surveillance & use policy; interior cameras face exterior doors; cameras at all exterior doors; perimeter; higher resolution for plates; standardize by use, not manufacturer | Rules list; services; Q&A vestibule & phasing; equipment; FAQ policy & standardise; AI check facial recognition |
+| OFP gov search above | Firecrawl gov search | http://nysed.gov/facilities-planning/about-us ; https://nysed.gov/facilities-planning/authorizing-school-construction | OFP = code enforcement authority for public schools, BOCES, charters chartered after 7/31/10; plans outside NYC reviewed → building permit. Capital projects need voter approval of object & purpose (Ed Law §1718), meetings 45-day notice; BOCES may authorize by board resolution (voter approval only for acquisitions) | Why para 2; Q&A vote, capital project, private school, BOCES |
+| "General Municipal Law section 103 purchase contracts exceeding $20,000 public works contracts exceeding $35,000 cooperative purchasing BOCES 119-o" | Firecrawl gov search | https://p12.nysed.gov/mgtserv/purchasing/handbook.html ; https://ecode360.com/6404113 | School district bids: purchases >$20,000, public works >$35,000; ≥5 days between ad and opening; true leases, state/county contracts excepted from §103 (local §104-b policy) | Numbers; rules; Q&A bid; FAQ lease |
+| "Nassau BOCES "cooperative bidding" OR "cooperative purchasing" program member districts" | Firecrawl search | https://www.nassauboces.org/services-for-districts/business-services/cooperative-bidding ; https://www.esboces.org/programs-services/admin-business/cooperative-bidding/cb | Nassau BOCES Cooperative Bidding & Purchasing: electronic bidding system for participating districts, other BOCES, municipalities; ESBOCES program initiated Aug 1981 | Numbers; District section; Q&A coop |
+| "NYS Department of Labor prevailing wage Nassau Suffolk electrician teledata technician security camera installation public work school district" | Firecrawl gov search | https://apps.labor.ny.gov/wpp/viewOriginalWageSchedule.do?projectId=326149 ; https://dol.ny.gov/wage-theft-bureau-public-work-prevailing-wage-enforcement-laws-and-guidance | District 4 (Nassau, Suffolk) "Telephone and Integrated Tele-Data System Electrician" $42.93 (7/1/2026) / $44.43 (8/1/2026), "applies to ALL Voice, Data & Video work", excludes fire alarm & energy mgmt (regular electrician $66.75 7/1/2026); supplements extra; debarment for willful violations | Why para 4; Q&A prevailing wage x2; pricing note; AI check |
+| "Education Law 2-d third-party contractor data privacy agreement student personally identifiable information video surveillance footage" | Firecrawl gov search | https://nysed.gov/sites/default/files/programs/data-privacy-security/2026-data-privacy-and-security-quick-reference.pdf ; https://nysed.gov/data-privacy-security/frequently-asked-questions-about-data-privacy-and-security ; https://studentprivacy.ed.gov/faq/faqs-photos-and-videos-under-ferpa | 2-d third-party contractor incl. data management/storage; DPA, supplemental info, Parents' Bill of Rights, DPO, breach reporting | Rules; Q&A 2-d; AI check cloud; FAQ lease |
+| "Diocese of Rockville Centre Catholic schools number of elementary and high schools Nassau Suffolk" | Firecrawl search (excerpt) | https://www.drvc.org/about/ | 10,776 students in 35 Catholic elementary schools; 9,857 in nine high schools | Numbers list |
+| "Non-Public School Safety Equipment NPSE grant NYSED…" | Firecrawl gov search | https://nysed.gov/nonpublic-schools/nonpublic-school-safety-equipment-npse-grant-0 | NPSE reimburses religious/independent schools, per-student allocation (Y10 $45M) | Q&A private school; AI check grants |
+| "Securing Communities Against Hate Crimes grant 2026 nonpublic schools…" | Firecrawl search + scrape | https://www.governor.ny.gov/apply-securing-communities-against-hate-crimes-grant-program | DCJS grants to nonprofits at risk of hate crimes; interior/exterior security improvements | Q&A private school; AI check grants |
+
+House practices on the page that are NOT sourced (flag for Anwar): two-hour arrival windows / 1–2 hr restore; drive-health alerts and drive replacement cycles; separate camera VLAN; delivering camera drawings to the building-level team; three-layer quote with named alternates; evening/weekend/break scheduling; checking every camera after dark; face-matching left off and unlicensed (consistent with §106-b); subcontracting to prime contractors; IT checklist; 100 m PoE copper limit (TIA standard, not cited).
+
+### Question register — additions from school-security-camera-installation-long-island (rebuilt 2026-10-18; replaces the 35 old LI questions)
+
+FAQ (visible + FAQPage):
+- Can we see a camera-by-camera drawing before the board votes on the project?
+- Will the new cameras work with the video management software our district already runs?
+- Can a district standardise on one camera brand across all its buildings?
+- Who should manage the camera switches, district IT or the camera contractor?
+- Does a voter-approved camera project count against the district's property tax cap?
+- Can the camera names match the door numbers in our emergency plans?
+- Can a district lease a camera system instead of buying it?
+- What should a district put in its video surveillance and use policy before cameras go live?
+- What do you need from the district's IT department before installation day?
+
+Q&A (H3):
+- How much notice do bidders get when a Long Island district advertises a camera bid?
+- What does a BOCES cooperative award actually cover on a camera job?
+- Does a camera upgrade need a public vote, or can the board of education approve it alone?
+- Does the Wicks Law apply when cameras ride inside a large Long Island bond project?
+- Who sits on the Smart Schools Review Board, and why does its schedule matter?
+- Why does Smart Schools money reach the district only after the installer has been paid?
+- How should an installer’s quote be written so it survives months of state review?
+- Does school camera installation for a public district on Long Island carry prevailing wage?
+- Why can the same camera cost a public district more to install than a private school down the road?
+- Can residents obtain a school’s camera locations through a Freedom of Information request?
+- Does switching to cloud video change what a district must post under Education Law 2-d?
+- Where should cameras sit in a newly built entrance vestibule?
+- Which parts of a big Island campus should get cameras first when the money covers only one phase?
+- How far from the building can a field camera be before copper cable stops working?
+- Who reviews the footage when a Suffolk school bus camera records a car passing?
+- Does a private or parish school on Long Island need the State Education Department’s approval for camera work?
+- Do BOCES buildings follow the same camera rules as the districts they serve?
+
+Near-overlaps to watch (checked against rebuilt Brooklyn, Manhattan and Orange County pages; LI questions on bid threshold, coop purchase, SED trigger, SS sequence, hard drives, architect/CM, stop-arm garage, ERP/camera access, 2-d installer and handover were reworded or replaced to avoid duplicating them): phasing priority (LI) vs "Can we spread the project over two school years?" (BK) — different intent (which first vs whether); LI capital-project threshold vs BK "Do we need a DOB permit" — different authority/intent. Parish-ownership, analog-reuse, walkthrough and network-intrusion questions were removed from LI to avoid duplicating BK.
+
+### Images (11) — source files
+Real AESS job photos (re-cropped, none of a school, captions say so): images/rockland-toyota-ceiling-bullet.jpeg, rockland-toyota-wall-camera.jpeg, rockland-toyota-dome-camera.jpeg, nassau-window-depot-office-camera.jpeg, manhattan-deli-interior-cameras.jpeg, manhattan-deli-exterior-camera.jpeg. Manufacturer product shots (Ubiquiti UniFi): ubiquiti-unifi-g5-dome-ultra-camera-white.jpg, ubiquiti-unifi-g6-entry-doorbell.jpg, ubiquiti-unifi-ai-ptz-precision-4k-camera-white.jpg, ubiquiti-unifi-ai-lpr-bullet-4k-camera-black.jpg, ubiquiti-unifi-g6-turret-4k-camera-white.jpg. Rejected: all images/school-*-long-island-ny.webp and legacy-school-cctv-*.webp (AI-generated "Lincoln High School" crews with phone numbers on shirts).
+
+### Added 2026-10-18 (size/uniqueness pass)
+| Query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|
+| "Wicks Law separate prime contracts threshold Nassau Suffolk Westchester $3 million public work Labor Law General Municipal Law 101" | Firecrawl gov search | https://nysenate.gov/legislation/laws/gmu/101 | Separate prime specs for plumbing, HVAC, electrical above $1.5M in Nassau/Suffolk/Westchester ($3M NYC, $500K elsewhere); sealed subcontractor list below threshold | Q&A Wicks question |
+| "school district property tax levy limit exclusion capital local expenditures voter approved bond debt service tax cap" | Firecrawl gov search | https://p12.nysed.gov/mgtserv/documents/PropTaxCap_SED_Final_1-13-20.pdf ; https://dos.ny.gov/november-18-2020vol-xlii-issue-46 | Capital local expenditures (incl. capital equipment, debt service, voter-approved where required; PPU under Local Finance Law; excludes maintenance/operations) are outside the school tax levy limit (Ed Law 2023-a) | FAQ tax cap |
+| (from Newsday 2018 scrape, row 9a) | — | https://www.newsday.com/long-island/education/school-safety-security-w24072 | Smart Schools Review Board = SED, SUNY, Division of Budget reps; meets when critical mass of projects; full 23-district 2018 security approvals table | Q&A Review Board; numbers table |
