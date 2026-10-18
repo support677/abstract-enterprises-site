@@ -2569,3 +2569,285 @@ Meaning check: compared against all 1,390 questions on access-control-installati
 | mini-dome-and-round-speaker-in-store-ceiling.webp | images/hikvision-security-camera-installation/hikvision-security-camera-installation-westchester-county-mini-dome-and-round-speaker-in-store-ceiling.webp |
 | recorder-view-of-dim-storeroom-and-doorway.webp | images/lorex-camera-installation/lorex-camera-installation-orange-county-recorder-view-of-dim-back-storeroom-and-doorway.webp |
 Every door-station/doorbell product photo in the library was found (perceptual hash) to be already used in the silo, so none was used. Captions: "Photo from the AESS job library, not taken in Pelham Bay". Real access-control photos still needed (Drive "AESS Website Photos/Access Control").
+
+## Pelham Gardens, Bronx (access-control-installation-pelham-gardens-bronx-ny)
+
+Built 2026-10-18 (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629 (direct) + (800) 486-0943 in header chrome. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), same table as Olinville/Laconia (copied from /access-control-installation-brooklyn.html). Batch siblings linked: /access-control-installation-pelham-parkway-bronx-ny, /access-control-installation-prospect-park-south-brooklyn-ny. 13,819 words, 294,000 B (13 inline SVG diagrams + trailing whitespace pad), 11 figures.
+
+Thesis: "the low door". Pelham Gardens is a neighborhood of houses where many one-family homes have lived-in basement studios (Wikipedia) and the land dips into a glacial valley between Eastchester Rd and Laconia Ave, lowest at Seymour Ave (Wikipedia); News 12 reported standing storm water at Tiemann/Waring Aves (Oct 2025) and sewage backing into 10+ Allerton Ave basements between Seymour and Morgan Aves three times in one week (June 2026). So entry is planned from the lowest door up: controllers/lock power supplies/batteries moved upstairs above the reported water line, cable from the ceiling not the floor, stairwell readers mounted high, free-egress inside levers on every below-grade door, fail-safe/fail-secure chosen door by door (no single outage opens the house or traps anyone), separate credentials/call button for the basement occupant, storm mode + water sensor alerts for the person below grade (DEP asks multi-unit owners to plan alerts/evacuation for basement residents; Ida 2021: 11 of 13 NYC deaths in basement apartments), coordination with backwater valve/flood barrier work; rear/side doors out of sight (ABC7 2021 forced rear door); offices in converted houses on Eastchester Rd / E Gun Hill Rd. Different from Pelham Parkway (courtyard Art Deco co-ops), Morris Park (storefront BID), Olinville (R5A side-path route), Laconia (build-before-walls-close), Indian Village (hospital-campus households), Brighton Beach (coastal elevator buildings).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (scrape) Pelham Gardens, Bronx | Firecrawl scrape | https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx | Boundaries Gun Hill Rd N+E, Pelham Pkwy S, Dyre Ave line (5) W ending at Esplanade; Eastchester Rd primary thoroughfare; CB11; ZIP 10469; 49th Pct 2121 Eastchester Rd; Pell purchase June 27, 1654 at Treaty Oak; Westchester County until 1895; oldest house = farmhouse at Woodhull Ave & Fielding St; "dominated by single family homes with some small apartment buildings and 2-3 family homes. Many private homes have basement studio apartments but are classified as one family"; valley between Eastchester Rd and Laconia Ave, low point Seymour Ave, likely glacial; development 1920s, boom 1950s; private medical facilities; 49th Pct crime down 71.7% 1990–2022, 133 burglaries 2022; Engine 97 1454 Astor Ave; Eastchester library 1385 E Gun Hill Rd (1950; current bldg 1985); Baychester PO 1525 E Gun Hill Rd; buses Bx12/SBS, Bx25, Bx26, Bx28, Bx38, Bx31 (Eastchester Rd), BxM10; stations Pelham Pkwy & Gun Hill Rd (5); 0.757 sq mi, 15,388 (2011, City-Data); Allerton–Pelham Gardens NTA 28,903 (2010); NYT 2002 quote (interns/residents rent in 2-3 family houses) | hero, §5 ¶1–3, ¶8, glance list, timeline/valley SVG, commercial, landmarks, sources |
+| 2 | (scrape) | Firecrawl scrape | https://cityneighborhoods.nyc/pelham-gardens | Bounds Gun Hill Rd NE, Stillwell Ave SE, Pelham Pkwy S, Esplanade W; brick & stucco 1- and 2-family + small apt bldgs, most 1930s–1950s; Tudor Revival/Cape Cod/Colonial, pitched roofs, bay windows, private driveways; E Gun Hill Rd commercial corridor (groceries, bakeries, service) | §5 ¶1–2 (conflicts stated), glance list, commercial |
+| 3 | "Pelham Gardens" Bronx houses 1920s 1950s Eastchester Road New York Times "Living In" | Firecrawl search → scrape (query) | https://forgotten-ny.com/2010/10/bronx-greenbelt-mosholu-and-pelham-parkways/ | "Entering Pelham Gardens, we leave the apartment houses ... land of well kept one- and two-family houses"; NYW&B in tunnel under Pelham Pkwy ~1910 (no railroads at grade); Esplanade covers it; Peace Memorial Plaza/Rudy Macina Square (5 memorials) at Pelham Pkwy/Williamsbridge Rd/Laconia/Esplanade | §5 ¶3, commercial (Esplanade), landmarks, timeline |
+| 4 | Pelham Gardens Bronx flooding Seymour Avenue basement | Firecrawl search → scrape | https://bronx.news12.com/2025/10/31/water-overflow-takes-over-pelham-gardens-street/1JXit8rHgvm5W9EsgcuJY0 | Oct 31, 2025: stagnant storm water at Tiemann & Waring Aves whenever it rains; resident uses barriers vs basement flooding; ice in winter; DEP: grade should drain to Tiemann Ave basin, lack of curb reveal + new ped ramp may restrict drainage | hero, §5 ¶4, glance, valley/timeline SVG |
+| 5 | (same search) | Firecrawl scrape | https://bronx.news12.com/2026/06/26/three-sewage-floods-in-one-week-leave-pelham-gardens-homeowners-facing-thousands-in-repairs/C0QtETNXg89BaTojk5d7W | June 26, 2026: 10+ homes flooded, Allerton Ave between Seymour & Morgan Aves, sewage into basements 3rd time that week; never an issue before; plumber blamed city sewer, city said owners' line; DEP crews returned; one owner ~$3,000 pumping (resident names NOT used) | hero, §5 ¶5, AI check #1, Q&A 1, timeline |
+| 6 | NYC DEP stormwater flood map Bronx Community Board 11 Pelham Gardens ... | Firecrawl search → scrape | https://www.nyc.gov/site/dep/whats-new/plan-for-intense-storms.page | Multi-unit owners: identify basement/cellar residents, develop alerts/communication/evacuation plans; survey below-grade openings (exterior stairs, sloped driveways), floor drains; backwater valve via plumber; seal poorly fitted doors; curbs/bulkheads; 1–4 family: most policies exclude flood/sewer backup, consider rider; Notify NYC | §5 ¶6, low-door §, storm Q&A, FAQ 3, FAQ 10 |
+| 7 | (search result) | Firecrawl search excerpt | https://www.floodhelpny.org/ | Backwater valve = device on pipe from fixtures to city sewer reducing sewage backup risk in heavy rain | Q&A backwater valve |
+| 8 | Hurricane Ida New York City 13 deaths 11 in basement apartments report | Firecrawl search excerpt | https://abc7ny.com/post/nyc-flooding-deadly-13-killed-basement-apartments-flood/10995579/ | 13 dead in NYC, 11 in basement apartments (also NYT live excerpt "at least 11 were in basement units") | §5 ¶6, timeline |
+| 9 | Rules for basement/cellar ADU pilot (query) | Firecrawl scrape (query) | https://www.nyc.gov/site/buildings/codes/adu.page | LL126 pilot legalizes some pre-existing basement/cellar units over 10 yrs; pilot area incl. Bronx CD 9,10,11,12; subgrade ADUs barred in FEMA SFHA, Coastal Flood Risk Area, DEP 10-Year Rainfall Flood Risk Area; restricted to existing 1–2 family; applications not accepted until DOB rules issued. Dec 2024 date reused from Laconia #21 | §5 ¶7, glance, below-grade §, Q&A 10-yr flood area, timeline |
+| 10 | 49th Precinct Bronx burglary Pelham Gardens home basement door 2025 OR 2026 | Firecrawl search → scrape | https://abc7ny.com/post/the-bronx-new-york-city-robbery-police-impersonation/10634048/ | May 14, 2021: men forced open rear door of a home on Gabriel Dr & Mace Ave, Pelham Gardens, ~12:30 a.m. Apr 27 (police impersonation; victims not named; page cites only "rear door forced") | §5 ¶8, AI check #7, sources |
+| 11 | Pelham Parkway station Dyre Avenue Line ... | Firecrawl search → scrape (summary) | https://en.wikipedia.org/wiki/Pelham_Parkway_station_(IRT_Dyre_Avenue_Line) | Opened 1912 (NYW&B); 5 train since reopening as subway 1941; only entrance in Esplanade median N of Pelham Pkwy (Forgotten NY says 1940 shuttle — page uses 1941) | commercial, landmarks, timeline |
+| 12 | Holy Rosary Church Eastchester Road Gun Hill Road Bronx parish history | Firecrawl search → scrape (summary) | https://www.bxtimes.com/its-a-miracle-how-vibrant-this-parish-continues-to-be-holy-rosary-church-celebrates-100-years/ | Nov 12, 2025: E Gun Hill Rd & Eastchester Rd; 100 years; ~700 parishioners; original building destroyed by fire 1962 (Bx Times tags it Baychester; current-building date 1968 vs 1970 conflict between sources — not used) | architecture card, commercial, landmarks |
+| 13 | Haffen Park Bronx Hammersley Avenue Ely Avenue history NYC Parks | Firecrawl search → scrape (summary) | https://www.nycgovparks.org/parks/haffen-park/history | Named for Louis F. Haffen, first Bronx BP; land acquired 1958 between Burke, Ely, Hammersley, Gunther Aves; 9.24 acres | landmarks (as "further afield", not placed inside PG) |
+| 14 | Bronx Times Pelham Gardens civic association OR homeowners Eastchester Road 2025 OR 2026 | Firecrawl search → scrape | https://www.pelhamgardensneighborhoodassociation.org/ | PGNA 501(c)(3), tax-exempt since Nov 2025; youth, safer streets, greener parks, civic; forum Nov 14, 2026 at Eastchester Gardens Community Center (names not used) | hero stamp, sources |
+| 15 | site:reddit.com Pelham Gardens Bronx basement flooding OR basement apartment OR package | Firecrawl search | reddit.com/r/bronx (1prg4ce, 1t5sfl1, 1djxnf9, sb76v1) | Excerpts only: basement apts common/"illegal basement or garage apartments"; rents — EMPTY (not accessible in build env), not quoted | sources note |
+| 16 | "Pelham Gardens" New York Times 2011 "Merits of Safe and Sound" | Firecrawl search excerpt (NYT scrape blocked) | https://www.nytimes.com/2011/10/16/realestate/pelham-gardens-the-bronx-living-in-the-merits-of-safe-and-sound.html | Excerpt only: "one of numerous semidetached two-families in Pelham Gardens" | §5 ¶3 (marked as excerpt) |
+| 17 | Pelham Gardens Bronx Hurricane Ida 2021 basement flooding ... | Firecrawl search | norwoodnews.org Ida article (other neighborhoods) | No Pelham Gardens-specific Ida item → EMPTY | — |
+| 18 | Silo law/prices reused | repo + earlier sections | /access-control-installation-brooklyn.html price table (as Olinville #26); MDL / TDPL (LL63/2021) / BC free egress as recorded in Bay Ridge/Bedford Park/Laconia | Single door $1,500–2,500; back door keypad $1,500–2,000; video intercom w/ fob $1,500–3,000; multi-door $4,000–15,000; office readers $4,000–12,000; full bldg $15,000–40,000+; buzzer repair $200–500; $195/hr 3-hr min ($585); 8.875% tax; <$500 upfront, >$500 50% deposit | pricing table, packages, FAQ 1, Service schema. Controller relocation, door/frame rebuild, foundation coring, powered openers "priced after walk-through" (no invented figure) |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — AI Reality Check answers claims "we hear repeated", quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit r/bronx Pelham Gardens threads: EMPTY (excerpts only, not used)
+- NYT 2002 / 2011 "Living In": full text EMPTY (scrape blocked); 2002 quote via Wikipedia footnote, 2011 excerpt only (marked on page)
+- Pelham Gardens-specific package-theft / door news: EMPTY (none found)
+- Google Drive "AESS Website Photos/Access Control": not present (per main run); CompanyCam not connected
+
+### Flags (hedged / unsourced, written as AESS practice on page)
+- Boundary conflict stated: Wikipedia (Gun Hill N+E, Pelham Pkwy S, Dyre line/Esplanade W) vs CityNeighborhoods (adds Stillwell Ave SE).
+- Construction decades conflict stated: 1920s + 1950s boom (Wikipedia) vs 1930s–1950s (CityNeighborhoods); "most houses roughly 70–100 years old" is an inference.
+- Pelham Parkway station subway date 1941 (Wikipedia) vs 1940 shuttle (Forgotten NY) — 1941 used.
+- Ida date (Sept 1, 2021) from general knowledge + ABC7; figures from ABC7 excerpt.
+- News 12 June 2026 resident names and the ABC7 2021 victims omitted; the 2021 incident cited only as "rear door forced"; Country Club page uses a different 2021 impersonation incident near Country Club Rd.
+- Holy Rosary sits at PG's northern edge; Bronx Times tags it Baychester — described as "at the edges of the neighborhood".
+- Haffen Park location relative to PG not sourced — placed as "further afield".
+- Jacobi/Einstein/Calvary "south of the parkway, in and around Morris Park" (Wikipedia).
+- Practices stated as AESS method: equipment above reported water line, cable from ceiling, stairwell reader height, fail-safe/secure door chart, storm mode/storm route, water sensors, credential groups, office after-hours table, post-flood checklist, upkeep calendar, handover record; 13 SVG diagrams are generic AESS schematics (valley SVG labeled schematic, not a survey).
+- Basement-unit legality: page states AESS does not legalize units or present basements as legal apartments; refers owners to architect/DOB.
+
+### Question register
+Q&A (§9, H3):
+1. Our basement floor drain pushed sewage into the room three times in one week. Which parts of a door system can stay in the basement, and which should move upstairs?
+2. Where should a reader or keypad sit on an outside basement stairwell whose drain clogs and fills the bottom steps?
+3. We slide a flood barrier into the basement doorway when heavy rain is forecast. Will it stop an electric lock or a door sensor from working?
+4. We are rebuilding the basement walls after the backups. How should new door wiring be run so the next flood does not ruin it?
+5. Someone lives in our basement studio. Which electric lock is safe on the door at the bottom of the outside stairs if water comes in at night?
+6. If the basement door unlocks when the power fails, how is the rest of the house kept shut during the outage?
+7. Can the basement tenant’s credential also open a door upstairs, so there is a dry way in and out during a storm?
+8. Can the system that runs our doors also send a storm warning to the person living in the basement?
+9. Our block may be inside the city’s 10-year rainfall flood area. Does that affect legalizing our basement studio, and should the door work wait?
+10. Our plumber is putting in a backwater valve next month. Should the door installation come before or after?
+11. Our office occupies the ground floor of a converted house on Eastchester Road, with a rented apartment above. Once the office closes, which doors lock and who still reaches the meters in the basement?
+12. Our basement stays damp all summer. How long will a battery keypad lock last on a door that is always humid?
+Other "?" heading: Basement Door Dead After a Storm in Pelham Gardens? Call Before You Power It Back Up
+
+FAQ (§17 = FAQPage schema):
+1. What does a wired basement entrance cost at Bronx rates compared with a battery keypad lock?
+2. Does an electric strike or a magnetic lock cope better with a damp basement doorway?
+3. Our homeowners policy has no sewer-backup rider. Does that change what you would put in the basement?
+4. Can you work on a basement door in the days right after a sewage backup, before it has been cleaned?
+5. What should a new basement tenant be shown about the doors on the day they move in?
+6. Do you have to drill through the foundation to bring cable to a basement door?
+7. The door at the bottom of our basement stairs swings out into the stairwell. Does that matter for an electric lock?
+8. Our semi-detached house shares a front walk with the house next door. Where should our call station go so the neighbors' visitors don't ring us?
+9. Do you need to go inside the basement studio to install, and how do we arrange that with the tenant?
+10. Our driveway slopes down to a garage under the house and rain runs into it. Can the garage door opener be part of the access system?
+
+Meaning check: compared against all 549 questions on the 161 other access-control pages (extracted at build time) and the batch siblings' question files (Pelham Parkway, Prospect Park South) — no overlap. Deliberately avoided: coastal flood warning prep (Clason Point/Harding Park), after-the-water checks (silo), salt-water basement controller (Brighton Beach), cellar stockroom in a flood, rainwater at gate keypad, basement door at bottom of stairwell vs burglars (Edenwald), legalizing cellar unit door (Laconia), police impersonators at the gate (Country Club), store schedule lock (City Line), battery backup testing, mechanical push-button gate lock (Olinville), medical office waiting room separation.
+
+### Images (11, images/access-control-installation/, WebP q80, each source viewed first; no faces, house numbers, plates or readable documents)
+| New file (access-control-installation-pelham-gardens-…) | Source | Kind |
+|---|---|---|
+| black-house-video-door-station.webp | images/intercom-repair/intercom-repair-staten-island-black-akuvox-house-video-door-station-product-photo.webp | manufacturer (Akuvox) |
+| keypad-and-card-entry-panel.webp | images/door-buzzer-installation/door-buzzer-installation-ulster-county-keypad-entry-panel-with-camera.webp | manufacturer (Akuvox) |
+| indoor-answering-monitor.webp | images/intercom-repair/intercom-repair-putnam-county-white-indoor-answering-monitor.webp | manufacturer (Akuvox) |
+| slim-video-doorbell-lit-ring.webp | images/intercom-repair/intercom-repair-putnam-county-slim-black-video-doorbell-with-ring-button.webp | manufacturer |
+| black-video-door-station-lit-button.webp | images/intercom-repair/intercom-repair-putnam-county-black-video-door-station-with-lit-call-button.webp | manufacturer (Axis; same product as Olinville hero, different source file) |
+| corridor-to-grey-steel-door.webp | images/intercom-repair/intercom-repair-staten-island-corridor-to-grey-door-with-camera-and-wall-plates.webp | AESS job photo |
+| cable-bundles-along-ceiling-pipe.webp | images/intercom-repair/intercom-repair-staten-island-blue-and-white-cable-bundles-along-ceiling-pipe.webp | AESS job photo (scene also used as a crop on Olinville) |
+| camera-and-sensor-on-blue-wall.webp | images/security-camera-maintenance/security-camera-maintenance-bronx-wall-camera-above-motion-sensor.webp | AESS job photo |
+| camera-view-along-brick-wall.webp | images/security-camera-maintenance/security-camera-maintenance-brooklyn-playback-view-along-brick-wall-to-lot.webp | AESS job photo |
+| ceiling-corner-dome-above-sensor.webp | images/security-camera-maintenance/security-camera-maintenance-westchester-county-white-dome-camera-in-ceiling-corner-above-wall-sensor.webp | AESS job photo |
+| dome-under-eave-winter-branches.webp | images/security-camera-maintenance/security-camera-maintenance-putnam-county-dome-camera-on-fascia-beside-bare-winter-branches.webp | AESS job photo (scene also used as a crop on Olinville) |
+Source basenames were unused in the silo's research tables, but several scenes/products repeat under other names elsewhere in the silo. Rejected after viewing: commercial-security/*.jpg (AI-generated — branded shirt, face), products/*.png (camera kits, off-topic), recorder live-view screen (small figures). Captions: "Manufacturer product photo, used as a reference" / "Photo from the AESS job library, not taken in Pelham Gardens". Real access-control photos still needed.
+
+## Pelham Parkway, Bronx (access-control-installation-pelham-parkway-bronx-ny)
+
+Built 2026-10-18 (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629 (direct) + (800) 486-0943 in header chrome. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), same table lines as Olinville/Laconia. Batch siblings linked: /access-control-installation-pelham-gardens-bronx-ny, /access-control-installation-prospect-park-south-brooklyn-ny. 305,683 B, 13,459 words, 16 inline SVG schematics.
+
+Thesis: Pelham Parkway is a compact stretch of late-1920s/1930s speculative six-story elevator apartment houses built back from a park drive (150-ft rule, no bars/hotels), many now co-ops, very few landmarked. Its signature type is the courtyard "garden apartment house" (Alhambra Gardens, 1928: arches from the parkway into a court, six lobbies, elevators serving 3-4 apartments per floor). Access control here = (1) the arch as the first door — lock or not, free exit for fire escapes discharging into the court, directory panel that names the lobby, one release for arch + right lobby, fob scope per lobby, one controller for the court, phasing with controller sized up front; (2) ornament-safe, removable installation on undesignated Deco entrances (BADAHA "Lost Deco"; LPC rarely designates lobbies) — protected-surface clause in the contract, fixings on frames/mortar/posts, removal record; (3) lessons of the 2011 Bronx Times courtyard-building story (cameras dark after sale over unpaid bill, new locks on five front doors for HPD compliance, push-in robbery at an apartment door) — building-owned controller/accounts, apartment-door layer; (4) Lydig Ave / White Plains Rd stores in apartment-building bases (back door into residents' rear hall, sidewalk cellar doors, pharmacy back room). Distinct from Pelham Gardens (basement flooding), Prospect Park South (film shoots/landmark mansions), Morris Park (BID storefronts), Olinville (R5A side path), Laconia (new construction), Indian Village (Tudors by hospital), Bay Ridge (unattended co-op lobbies), Brighton Beach (boardwalk co-ops), Fieldston (historic-district houses).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (scrape) https://en.wikipedia.org/wiki/Pelham_Parkway,_Bronx | Firecrawl scrape | https://en.wikipedia.org/wiki/Pelham_Parkway,_Bronx | Boundaries: Pelham Pkwy South (N), Dyre Ave Line/5 tracks (E), Bronxdale Ave (S), Bronx Park East (W); WPR main commercial street; CD11; ZIPs 10461/10462 (10467/10469 north of road); 49th Pct 2121 Eastchester Rd; road officially Bronx and Pelham Parkway, est. 1911 one lane; nobody within 150 ft of center, no railroads across (NYW&B in tunnel → Dyre line), no bars/hotels; 1930s construction, 2.3 mi, 400 ft; pre-WWII Sunday bicycle racing; bikeway by westbound lanes; part of Mosholu-Pelham Greenway; buildings converted to co-op; WPR & Lydig Ave shops (kosher & Italian butchers/bakeries); 6–7-story elevator apartment & co-op buildings, detached houses, Art Deco & Tudor apartment buildings, new 2–3 unit row houses; Columbia preservation note on speculative six-story elevator apartment house; large co-op owner community, mostly renters; Albanians largest NYC concentration (not used); Bronx House moved 1950s; FDNY E90/L41 1843 WPR; library 2147 Barnes Ave (1912 traveling, 1968 building); Columbus HS closed 2014; stations Pelham Pkwy, Bronx Park East (2,5), Morris Park (5) | hero, §5 ¶2–3, ¶5, ¶7, glance list, building cards, commercial, landmarks, where-SVG |
+| 2 | Pelham Parkway Bronx Art Deco apartment buildings courtyard co-op history | Firecrawl search | (results incl. facebook artdeco1930, lehman.edu, badaha.org, homes.com, NYT 2013) | Excerpts: 601 Pelham Pkwy N 1937 H.I. Feldman lobby mosaic (Facebook excerpt — NOT used); Wade Hampton 1931 (listing — not used) | — |
+| 3 | (scrape) | Firecrawl scrape | https://www.lehman.edu/public-art-bronx/The-Alhambra-Gardens/ | David Bady: Alhambra Gardens, 750-760 Pelham Pkwy S between Holland & Wallace; Springsteen & Goldhammer (Stefan Sajo); 1928, renting Oct 1928; 132 units, six-story U-shaped, entire end-block, $1M; Astor estate tract of 1,000 lots bought 1927, 13 bldgs by spring 1928, plans for 9 more; East European families from LES; six linked buildings around deep courtyard; six entrances; residents pass beneath small arches into court, paths to separate lobbies, elevators serving 3–4 apts/floor; other PP apartment houses shoulder to shoulder with light courts; "garden apartment houses"; 500-foot wide boulevard; PS 105 built 1930 on Wallace Ave (not used) | hero, §5 ¶3–4, glance, timeline, courtyard section, where-SVG |
+| 4 | (scrape) | Firecrawl scrape | https://badaha.org/about/ | 3 individual Art Deco apartment houses + 27 in Grand Concourse HD designated; 350+ addresses; "Lost Deco" entries (insensitive repair, bad renovation); 1929–1941; Classic Bronx Deco: cast-stone entrance portals, terrazzo lobby floors, decorative plaster; LPC rarely includes lobbies; lobby foyer → landing up steps | §5 ¶5, glance, building cards, Lost Deco section, AI check, rules list |
+| 5 | "Pelham Parkway" New York Times "If You're Thinking of Living In" co-op apartment buildings | Firecrawl search | nytimes.com 1982/1988/1999 profiles | Excerpts only; scrape refused ("we do not support this site") → EMPTY | sources note |
+| 6 | (scrape) | Firecrawl scrape | https://www.nycgovparks.org/parks/pelham-parkway/history | Mullaly, NY Park Association 1881; 1884 New Parks Act; parkway condemned 1884, named by Act of Legislature June 14, 1884; purchases 1888–1890; links Bronx Park (Boston Rd) & Pelham Bay Park; boundary between Zoo & Botanical lands; 2.5 mi, about a city block wide; 3 lanes each way, two large center plots, small plot, two marginal streets, bridle path, aqueduct shaft; American elms; zoo opened 1899 | §5 ¶1, glance, timeline, landmarks |
+| 7 | Pelham Parkway Bronx apartment building lobby burglary OR "package" OR "front door" OR intercom (past year) | Firecrawl search | instagram/facebook (Friends of Pelham Parkway, City Boy Times), abc7 | Excerpts only: NYCHA Pelham Pkwy Houses lobby doors complaint; man repeatedly entering/sitting in a lobby; package theft at Bronx Park East buildings; ABC7 grow house (not relevant) → not relied on | sources note |
+| 8 | site:bxtimes.com OR site:norwoodnews.org "Pelham Parkway" co-op building residents | Firecrawl search | bxtimes Wallace Ave co-op/FEGS etc. | Excerpts; Wallace Ave co-op item sensitive (disabled adults services) — not used | — |
+| 9 | reddit Pelham Parkway Bronx building package stolen lobby door | Firecrawl search | reddit r/AskNYC generic threads | Nothing Pelham-Parkway-specific → EMPTY | sources note |
+| 10 | badaha.org Pelham Parkway North Art Deco lobby | Firecrawl search | badaha.org, instagram (BADAHA walking tour PP/Bronx Park East) | Excerpts only — not used beyond #4 | — |
+| 11 | Pelham Parkway Houses NYCHA buildings apartments completed | Firecrawl search → scrape (summary) | https://en.wikipedia.org/wiki/Pelham_Parkway_Houses | 23 six-story buildings, completed June 1950, Rogers & Butler, 22.3 acres; located north of parkway (Mace/Waring/Astor, Bronxwood–Williamsbridge, Wallace); mapquest excerpt 1,263 apts (not used) | §5 ¶7, building card, landmarks, where-SVG, timeline (landmark only) |
+| 12 | Lydig Avenue Pelham Parkway shopping street White Plains Road BID history pelhamparkway.com | Firecrawl search → scrape | https://pelhamparkway.com/history/ | Parkway est. 1911 one lane; 150-ft rule; no railroads/bars/hotels; 1930s, 2.3 mi, 400 ft; Pelham Pkwy station "built in 1916", only station over parkland, cited by NYS OPRHP; Bronx Park 718 acres; Zoo 1899; Morris Park Race Track 1889, fire May 9, 1910; Astor/Pearsall tracts; Colden Ave (Dr. Cadwalder Colden) passes Columbus HS | §5 ¶1–2, timeline, landmarks |
+| 13 | (scrape) | Firecrawl scrape | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=31 | White Plains Road BID: est. Oct 1994, 7 block faces, 105 ground-floor retail businesses, office 2169A WPR | glance, commercial intro, timeline |
+| 14 | (scrape) | Firecrawl scrape | https://www.citylandnyc.org/bronx-rezoning-sent-to-council/ | CPC June 21, 2006: Pelham Parkway/Indian Village rezoning, 75 blocks (67 down, 8 up along Williamsbridge Rd & PPS, R5D), bounded PPS, Rhinelander/Bronxdale/Morris Park Aves, Stillwell Ave & the Esplanade; CB11 34-0-1; related link: Council approved July 19, 2006 | timeline, where-SVG, landmarks note (name used east of 5 tracks) |
+| 15 | (scrape, summary) | Firecrawl scrape | https://en.wikipedia.org/wiki/Pelham_Parkway_station_(IRT_White_Plains_Road_Line) | Opened March 3, 1917; 2 all times, 5 rush; NRHP 2005; renovated 2007; ADA | commercial card, landmarks, timeline, WebPage mentions |
+| 16 | Landmarks Preservation Commission designation Pelham Parkway Bronx apartment house OR "Bronx Park East" | Firecrawl search | nytimes 2007 "To These Preservationists, Ordinariness Is the Charm" (excerpt), hdc.org, cityneighborhoods.nyc | NYT excerpt: proposed historic district of six-story brick apartment houses south of PP and east of Bronx Park East — excerpt only (mentioned in sources note only) | sources note |
+| 17 | (scrape) | Firecrawl scrape | https://cityneighborhoods.nyc/pelham-parkway | Same boundaries as Wikipedia; prewar/postwar apartment houses, brick co-ops (secondary; other claims not used) | sources list, where-SVG label |
+| 18 | "Pelham Parkway" proposed historic district Columbia preservation six-story apartment houses 2007 / 6tocelebrate.org Pelham Parkway Allerton | Firecrawl search → scrape | https://6tocelebrate.org/neighborhood-items/pelham-parkway-allerton-the-bronx/ | HDC Six to Celebrate: Bronx Park East Community Association (Allerton), The Coops — not PP → not used | — |
+| 19 | "Pelham Parkway" Bronx followed into building OR "apartment building" burglary police say 2025 OR 2026 | Firecrawl search → scrape | https://www.bxtimes.com/residents-request-security-cameras-after-robbery/ | Bronx Times, Aug 6, 2011 (Patrick Rocchio): residents of 750-60 PPS (Alhambra Gardens) concerned after June 11 push-in robbery; cameras shut off after May 2010 purchase because previous owner hadn't paid a bill; housing specialist: cameras needed in lobby, roof and courtyard, drug dealing in courtyard as word spread; new locks on all five front doors as old ones didn't comply with HPD regulations. Individuals' and company names omitted on page | §5 ¶6, timeline, courtyard section, "After 2011" section, Q&A push-in, AI check |
+| 20 | NYPD Trespass Affidavit Program building owners enroll nyc.gov | Firecrawl search | nyclu.org, nyc.gov | Contentious program; not used | — |
+| 21 | (scrape, summary) | Firecrawl scrape | https://www.ecfr.gov/current/title-21/chapter-II/part-1301/section-1301.75 | 21 CFR 1301.75 physical security controls for practitioners (controlled-substance storage) | rules list, FAQ 7 |
+| 22 | Silo law reused (verified in earlier sections) | — | nysenate MDL §50-a; HMC (readthedocs); HPD TDPL (LL63/2021); amlegal BC 1010.1.9.8–9 (0-0-0-173513); DASMA TDS #356 | as recorded in Olinville / Laconia / Bay Ridge sections; exit button 40–48 in. | rules list, After-2011 section, Q&A |
+| 23 | Brooklyn/Bronx hub prices | repo | access-control-installation-olinville-bronx-ny.html table (from Brooklyn table) | Single door $1,500–$2,500; keypad back door $1,500–$2,000; video intercom w/ fob $1,500–$3,000; multi-door $4,000–$15,000; office readers $4,000–$12,000; full building $15,000–$40,000+; buzzer repair $200–$500; $195/hr 3-hr min ($585); 8.875% tax; <$500 upfront, >$500 50% deposit | §14 table, packages, FAQ 1, Service schema; arch gate fabrication, parcel lockers, door repairs, gate operators priced after survey |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — AI Reality Check quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit: EMPTY (nothing Pelham-Parkway-specific; generic r/AskNYC package threads only)
+- NYT 1982/1988/1999 "If You're Thinking of Living In" and 2007 historic-district article: EMPTY (not accessible in build env; excerpts only)
+- Facebook/Instagram community posts (Friends of Pelham Parkway, City Boy Times): excerpts only, not relied on
+- Google Drive "AESS Website Photos": no Access Control folder (per main run); CompanyCam not connected
+
+### Flags (hedged / conflicts / AESS practice)
+- Parkway length/width conflict stated: Parks 2.5 mi / city-block wide; BID & Wikipedia 2.3 mi / 400 ft; Lehman "500-foot wide".
+- Parkway dates: Parks (condemned/named 1884) vs BID/Wikipedia ("established in 1911", "constructed in the 1930s") — both given.
+- Pelham Pkwy station: Wikipedia opened March 3, 1917 vs BID "built in 1916" — both given.
+- Alhambra entrances: Lehman six entrances vs Bronx Times five front doors — both given, not settled.
+- Boundaries: Wikipedia/CityNeighborhoods south of road, west of 5 tracks; Pelham Parkway Houses (north of road) described by Wikipedia as "in the Pelham Parkway section"; 2006 rezoning used the name for blocks east of the Esplanade — stated, SVG labeled schematic.
+- Landmark status: page does not assert any specific building is undesignated; says BADAHA's count suggests few are and to check the city's landmark map.
+- Bronx Times 2011: building named (Alhambra Gardens) but no house number on page; names of manager, tenant activist, housing specialist and companies omitted; robbery described only as "push-in".
+- Practices stated as AESS method: arch decision chart, access matrix, call routing, entrance elevation/fixing rules, removal table, four layers, store schedule, mixed-use section, outage table, credential comparison, upkeep calendar, phasing/controller sizing, handover record, weather at the arch, "naming the lobbies" field note. All 16 SVGs are AESS-drawn generic schematics.
+- Removed during review: claim that low-voltage hardware needs no DOB filing (replaced with "question for the architect").
+
+### Question register
+Q&A (§9, H3):
+1. Once the arch gate off the parkway is locked, do the lobby doors around our courtyard still need readers of their own?
+2. A visitor standing at our arch cannot tell which of the lobby doors across the courtyard leads to the apartment they want. How should the call panel at the arch send them to the right entrance?
+3. Each lobby in our building has its own elevator serving a few apartments on each floor. Should a resident's fob open every lobby off the courtyard, or only their own?
+4. Our fire escapes come down into the courtyard. If the arch gate is locked at night, how do people leaving by the fire escapes get out to the street, and how do firefighters get in?
+5. Our arch has stood open since the building went up in the late 1920s. What does adding a gate under it involve?
+6. We have watched other Art Deco buildings lose their lobby character to cheap security work. What should our board write into the installation contract so that does not happen here?
+7. If a future board wants the reader and call panel taken off our entrance, what will be left behind?
+8. After a push-in robbery in a building on our block, neighbors want to see who is standing at their own apartment door before they open it. What helps besides the lobby panel?
+9. Our store on Lydig Avenue has a back door into the apartment building's rear hall. How do we let staff use it without giving them the residents' halls?
+10. Our shop's steel sidewalk cellar doors open onto the avenue for deliveries. Can they be part of the access system?
+Other "?" heading: Arch Gate Stuck or a Lobby Reader Dark in Pelham Parkway?; Arch Gate Open All Night or a Lobby Reader Dead? Call the Pelham Parkway Line
+
+FAQ (§17 = FAQPage schema):
+1. At Bronx rates, roughly what does a courtyard building with one arch gate and five lobby doors cost?
+2. Our building is not a designated landmark. Does anyone outside the co-op or the owner have to approve a reader on the entrance?
+3. Where should parcel lockers go in a building with several lobbies around one courtyard: one bank at the arch, or one in each lobby?
+4. When a resident buzzes a guest in at the arch, does the guest have to be buzzed in again at the lobby door?
+5. Our building has two street numbers for its two halves. Can one controller run both, and does anything have to be kept separately for each?
+6. There is a mosaic in our lobby a few feet from the inner door. Can drilling for the new hardware crack it?
+7. Our pharmacy on White Plains Road keeps medicines in a back room. What should the door to that room do?
+8. If we put a reader on the arch this year and add the lobbies later, should this year's controller be sized for all of them?
+
+Meaning check: compared against all 839 FAQ/"?" headings on the 161 other access-control pages and both batch siblings' question files (Pelham Gardens: basement flooding; Prospect Park South: film shoots/landmark houses). Dropped during drafting as same-intent: pair-of-doors leaf (Fulton Ferry), controller with no closet (City Line), accounts registered to previous owner (Morris Heights), stabilized tenants paying for fobs (Bedford Park), lost fob (Bay Ridge), strike noise (Fulton Ferry/Harding Park), toddlers/children at exits (Edenwald), booked move window (DUMBO), monthly subscription (Nassau/Bay Ridge), concealed hardware (PPS "keypad out of the shot"), restoring door prep (PPS refinishing door), reader on stone (Bay Ridge), cable chase in plaster (Boerum Hill), sponsor control (Cobble Hill), trespass program (contentious). Masked block similarity: no paragraph pair ≥ 0.50 against any silo page (5-word shingle overlap max 0.010, Olinville).
+
+### Images (11, images/access-control-installation/, WebP q80, each source viewed first; no faces, house numbers, plates or readable documents)
+| New file (access-control-installation-pelham-parkway-…) | Source | Kind |
+|---|---|---|
+| directory-panel-for-a-courtyard-arch.webp (hero) | images/intercom-repair/intercom-repair-putnam-county-dark-touchscreen-directory-panel-with-keypad.webp | manufacturer (unused in silo) |
+| keypad-and-card-station-for-an-arch-gate.webp | images/intercom-repair/intercom-repair-putnam-county-steel-keypad-door-station-with-card-reader.webp | manufacturer (unused in silo) |
+| single-button-lobby-door-station.webp | images/intercom-repair/intercom-repair-putnam-county-silver-and-black-door-station-with-card-symbol.webp | manufacturer (unused in silo) |
+| indoor-answering-screen-for-an-apartment.webp | images/intercom-repair/intercom-repair-staten-island-white-akuvox-indoor-touchscreen-monitor-product-photo.webp | manufacturer (unused in silo) |
+| camera-at-bulkhead-over-dark-coffered-ceiling.webp | images/school-security-camera-installation/school-security-camera-installation-orange-county-small-camera-at-bulkhead-edge-above-dark-coffered-ceiling.webp | AESS job photo (unused in silo) |
+| ceiling-camera-beside-lit-exit-sign.webp | images/school-security-camera-installation/school-security-camera-installation-brooklyn-camera-beside-lit-exit-sign-on-tiled-ceiling.webp | AESS job photo (unused in silo) |
+| turret-camera-above-glass-entrance-wall.webp | images/school-security-camera-installation/school-security-camera-installation-brooklyn-turret-dome-on-drop-ceiling-above-glass-wall.webp | AESS job photo (unused in silo) |
+| blue-cable-bundles-across-ceiling-beams.webp | images/school-security-camera-installation/school-security-camera-installation-brooklyn-blue-camera-cable-bundles-across-ceiling-beams.webp | AESS job photo (unused in silo) |
+| cable-bundles-down-equipment-rack.webp | images/school-security-camera-installation/school-security-camera-installation-manhattan-purple-and-white-cable-bundles-down-equipment-rack.webp | AESS job photo (unused in silo) |
+| overhead-view-of-back-room-and-open-door.webp | images/school-security-camera-installation/school-security-camera-installation-orange-county-overhead-camera-view-of-storeroom-and-open-door.webp | AESS job photo, cropped to the right 58% to drop a framed sign (unused in silo) |
+| cameras-high-on-double-height-wall.webp | images/school-security-camera-installation/school-security-camera-installation-manhattan-small-cameras-on-high-wall-of-double-height-room.webp | AESS job photo (unused in silo) |
+Rejected after viewing: Axis narrow station (repeat of Olinville hero source), duplicate Akuvox touchscreen crops, corridor-to-grey-door and paved-yard scenes (same scenes Pelham Gardens/Olinville used), corner turret above wall sensor (same scene claimed by Pelham Gardens). Captions: "Manufacturer product photo, used as a reference" / "Photo from the AESS job library, not taken in Pelham Parkway". Real access-control photos still needed.
+
+## Prospect Park South, Brooklyn (access-control-installation-prospect-park-south-brooklyn-ny)
+
+Built 2026-10-18 (batch 24, REBUILD — was crawled-not-indexed). Direct line (347) 934-8335, Brooklyn GBP (1282 Troy Ave, #brooklyn). Up-link /access-control-installation-brooklyn. Prices: Brooklyn ×1.00 table (same as New Utrecht/hub table). 13,867 rendered words, 320,844 bytes (18 inline SVG diagrams, JSON-LD indent 5), 11 figures.
+
+Thesis: Prospect Park South is ~200 freestanding 1899–1911 Alvord houses set 39 ft back behind open lawns in a city landmark district, and they are routinely lent out by the day — location shoots (association asks $750/shoot day; scouts' flyers; "Pink Palace"/Sophie's Choice), house tours (FDC 2025), restoration trades — so access control here = dated credentials that start at call time and end at wrap, interior rooms locked on a booking schedule (always free exit), a planned "held" state for the door propped by production cables, alert routing to the location manager for booking dates, a wrap check, all on many-doored wood-frame houses (porch/side/kitchen/basement doors, cable from the basement) within the LPC staff criteria (one intercom panel + max two lights per door opening, two cameras per 25 ft). Edges: The Sovereign co-op (1927, 73 units), Church Ave shops, Coney Island Ave corridor under City Planning's 2026 South of Prospect study. Deliberately different from Fieldston (private streets/master plan/concealed hardware), Boerum Hill (rowhouse door repair + LPC), Edenwald/Eastchester (whole-lot perimeter), Gowanus (film code for rentals — question avoided), Park Slope (concurrent).
+
+### Research matrix
+| # | Exact query | Platform | URL | Finding | Page section used |
+|---|---|---|---|---|---|
+| 1 | Prospect Park South Brooklyn historic district Dean Alvord 1899 houses | Firecrawl search | (results list) | Association site, Wikipedia, Brooklyn Eagle, CityNeighborhoods, Brownstoner, NewYorkitecture (50 acres, excerpt) | Matrix |
+| 2 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Prospect_Park_South | Boundaries (Church Ave / BMT Brighton B,Q / Beverley Rd / between Stratford Rd & Coney Island Ave); 47 acres; LPC Feb 8 1979; NYSRHP Jun 13 1983; NRHP Jul 21 1983; 70th Pct; ~60 acres bought 1899; rus in urbe; PPS brick piers; John Aitkin; trees at curb + building line; John J. Petit; >3,500 sq ft & >$5,000; Albanian mosque on Albemarle Rd 1972; Alvord Mansion burned c.1955; notable houses (1900 Swiss chalet Rugby Rd by Nitchie; 1902–03 Japanese house Buckingham Rd Petit & Green; 1904 Tudor Argyle Rd); The Sovereign 1927 across from Parade Grounds | Neighborhood, facts list, timeline SVG, architecture, landmarks, sources |
+| 3 | (scrape) | Firecrawl scrape | https://www.prospectparksouth.org/ | ~200 homes; 206 homes designed 1899; "two blocks long… four blocks wide from Stratford Rd to Buckingham Rd"; take B/Q to Church or Beverley; LPC 1979, NR 1983; association mission | Neighborhood, facts, sources |
+| 4 | Prospect Park South film shoots houses location filming residents Albemarle Road | Firecrawl search | https://www.prospectparksouth.org/about-3 (scraped) | Filming page: productions large and small; Sophie's Choice "Pink Palace" still stands, no longer pink; homes listed on Peerspace/Splacer; scouts drop flyers in mailboxes; $750/shoot-day donation for curb strip mowing, mall landscaping, snow removal; communicate early/late shoot days, respect property lines, support Lark on Church Ave | Hero, neighborhood, Borrowed Days, commercial, sources |
+| 5 | "Prospect Park South" filming Brooklyn neighbors complain shoots … | Firecrawl search | https://brooklyn.news12.com/2026/05/22/city-plans-to-upzone-prospect-park-south-to-add-thousands-of-units/6jlRAuBEoGONnVIiTdhSXv (scraped) | May 22 2026: DCP seeks upzoning of McDonald Ave & Coney Island Ave, potentially thousands of units; 1-year comment period; IBX | Commercial, timeline, sources |
+| 6 | (scrape) | Firecrawl scrape | https://www.nyc.gov/content/planning/pages/our-work/plans/brooklyn/south-of-prospect | South of Prospect plan with CMs Joseph, Hanif, Louis; Sept 15 2026 workshop; walkshops Oct 25 & Nov 14; 1961 zoning kept Victorian Flatbush suburban; Coney Island/McDonald auto/truck corridors; Little Pakistan/Little Bangladesh; 2009 contextual rezoning of 180 blocks | Commercial, timeline |
+| 7 | "Prospect Park South" burglary OR "package theft" OR break-in Brooklyn 70th Precinct | Firecrawl search | https://bklyner.com/suspected-burglary-turns-deadly-in-prospect-park-south/ (scraped) | May 7 2018: 66-year-old homeowner found fatally injured in his basement on Stratford Rd during burglary call; 28-year-old suspect found hiding in a closet (name/house number omitted on page) | Neighborhood para 5, timeline |
+| 8 | (same search) | Firecrawl search excerpt | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page | 70th Pct home to Midwood, Fiske Terrace, Ditmas Park, PPS | Facts, AI check |
+| 9 | (same search) | excerpt | https://www.brooklynpaper.com/at-years-end-violent-crimes-increase-in-more-than-half-of-brooklyns-police-precincts/ | Robberies up 166.7% in 70th Pct (undated excerpt) | NOT used (undated) |
+| 10 | Filming on Flatbush prospect park south area reddit | Firecrawl search | https://www.reddit.com/r/Brooklyn/comments/mixlh8/filming_on_flatbush_prospect_park_south_area/ | Excerpt: residents told to look for pink/orange flyers taped up by crews (excerpt only) | Borrowed Days, sources |
+| 11 | (same) | excerpt | reddit.com/r/Brooklyn/comments/grj6gn/… | "It's not a quiet part of town… on Flatbush Ave" (excerpt) | not used |
+| 12 | Victorian Flatbush House Tour Flatbush Development Corporation Prospect Park South houses | Firecrawl scrape | https://www.fdconline.org/join/prospect-park-south-house-tour/ | Victorian Flatbush House and Garden Tour June 1 2025 10AM, Albemarle & Westminster Rds; FDC 50th; limited tickets sold out; $55/$80 | Neighborhood, timeline |
+| 13 | (same) | excerpt | https://6tocelebrate.org/neighborhoods/victorian-flatbush/ | HDC: nearly uniform size & layout, varied details; Japanese showpiece house; wood moldings, steam heat, electricity (excerpt) | Architecture intro, landmarks |
+| 14 | (scrape) | Firecrawl scrape (pdf) | https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf | No permit for ordinary maintenance; lights/intercoms/doorbells within or adjacent to door opening; max 2 lights + 1 intercom per opening; attach at mortar joints/plain masonry/wood/metal, not cast iron/decorative; conduit concealed, ~10 in visible max; cameras ≤2 per 25 ft frontage small residential | Landmark section, Q&A, FAQ, LPC SVG |
+| 15 | (scrape) | Firecrawl scrape (pdf) | https://s-media.nyc.gov/agencies/lpc/lp/0979.pdf | EMPTY (not accessible in build env — file >50 MiB) | — |
+| 16 | (scrape) | Firecrawl scrape | https://brooklyneagle.com/328977/prospect-park-south-history/ | Jul 27 2025: 40 acres from Dutch Reformed Church of Flatbush + Luther Voorhies estate; 39-ft setbacks; 8 ft planting strip; virtually complete by 1905; ~20-block neighborhood | Neighborhood, Q&A (lawn), facts |
+| 17 | NYC Mayor's Office of Media and Entertainment film permit notice posted 48 hours residential block parking | Firecrawl scrape (pdf) | https://www.nyc.gov/assets/mome/pdf/Code-of-Conduct-accessible-FINAL-2024-01-01.pdf | 48-hr notices; no production vehicles at residential locations before 6 a.m.; quiet before 8/after 10; ID badges; cables matted; catered meals indoors/food truck; no trespass incl. stoops; don't block access | Borrowed Days, Q&A, shoot-day SVG |
+| 18 | Beverley Road station BMT Brighton Line open cut … | Firecrawl search excerpts | https://en.wikipedia.org/wiki/Beverley_Road_station ; https://urbanarchive.org/city/ny/post/7f83a8b6-6bec-4a86-999c-09fb23303b28 | Open-cut station; station house built 1907, renovated 1990s (excerpts) | Facts, landmarks, commercial |
+| 19 | "55 Parade Place" Sovereign apartments 1927 Prospect Park South | Firecrawl search excerpt | https://www.corcoran.com/building/prospect-park-south/64258 | Pre-war co-op, built 1927, 73 units, 6 stories (excerpt) | Architecture, commercial, landmarks |
+| 20 | Prospect Park South Alvord restrictions setback … | Firecrawl search excerpt | https://cb14brooklyn.com/project/south-of-prospect/ | CB14 lists South of Prospect (PPS in study area) | Facts |
+| 21 | — | reused from New Utrecht matrix | Building Code §§1010.1.9.8–9; MDL §50-a; HPD Tenant Data Privacy | rules list | Commercial rules |
+| 22 | PAA / PASF / Answer the Public / AI Overview / Bing / DDG | — | — | EMPTY (not accessible in build env) | AI check states this |
+| 23 | Yelp 1–3★ | — | https://www.yelp.com/topic/new-york-prospect-park-south-brooklyn-is-it-safe | EMPTY (title only seen in search) | — |
+
+EMPTY: PAA, PASF, ATP, AI Overview, Bing/DDG, Yelp reviews, LPC 1979 designation report PDF (>50 MiB). Reddit excerpts only.
+
+### Flags
+- Acreage conflict stated on page: ~60 (Wikipedia) / ~50 (NewYorkitecture excerpt) / 40 (Eagle); district 47 acres (NRHP). Seller conflict (Eagle: Dutch Reformed Church + Voorhies estate vs CityNeighborhoods: Vanderveer estate) stated.
+- Boundary: LPC map (Stratford–Coney Island Ave west) vs association (Stratford to Buckingham) stated.
+- 2018 Stratford Rd homicide described without name/house number; framed as "nothing on a door makes a house immune".
+- HDC, Beverley Rd station 1907, The Sovereign 73 units/6 stories, 70th Pct coverage, CB14, Reddit — search excerpts only.
+- "Pink Palace" not tied to any address (no source linking it to a street).
+- Street order of PPS roads not asserted (no map SVG drawn).
+- Practices (booking templates, held-door state, alert routing, guard credential, plaster/metal-lath signal, vibration near cut — explicitly "no measurements") written as AESS method.
+- One FAQ swapped during build ("Does the PPS Association have to approve…") because Pelham Parkway has a near-intent approval question.
+- Masked paragraph similarity scan vs all 161 silo pages: all non-excluded paragraphs < 0.65 after rewrite pass (remaining ≥0.65 only warranty sentence, price-table label, statute citation line, sibling link lists, nav chrome).
+
+### Question register
+Q&A (H3):
+- During a location shoot the crew needs the parlor rooms and the kitchen but not the bedrooms or the home office. Can interior doors be locked off for the shoot and released again at wrap?
+- Camera and lighting cables run through our front door for the whole shoot day, so it can’t close. How is the house kept secure while that door stands open?
+- The location manager asks to keep a key so the crew can collect gear the morning after wrap. What should we give them instead?
+- Can door alerts go to the production’s location manager on shoot days instead of to us?
+- A set designer wants our new keypad out of the shot. Is there door hardware that doesn’t show on screen?
+- There is no fence or gate in front of our house, only the open lawn. If the front door is the first thing a stranger meets, what does it need that a door behind a gate wouldn’t?
+- Our front door sits at the back of a deep wraparound porch, far from the sidewalk. Where on the porch should the call station, reader and camera go?
+- Our house is wood frame with shingle siding, not brick. Does a strike, reader or camera mount differently on wood?
+- Landmarks staff rules allow one intercom panel per door opening. How do we fit a call button, a camera and a reader into that one panel?
+- Our walls are original plaster on wood lath and the side door is at the far end of a big house. Will a wireless lock stay connected, or does it need a cable?
+- The house is too big to hear a knock at the kitchen door from the third floor. How can someone at a side or back door reach whoever is home?
+- Our restoration contractor is taking the original front door off to strip and refinish it. Should the electric lock prep be done while the door is off its hinges?
+- Our house is on the route of a spring house tour. How do we keep visitors to the rooms on the route while the front door stands open all afternoon?
+FAQ:
+- Some productions leave equipment in the house overnight with a security guard. How do we let a guard stay without giving them the run of the house?
+- Could the production’s electricians, or a breaker they trip, knock out our door locks during a shoot?
+- If something goes missing or gets damaged during a shoot, can the door log show who was in which part of the house?
+- How many separate codes can one keypad lock hold, and what happens when it is full?
+- Our house is near the open subway cut on the east side of the district. Can train vibration knock a strike or a closer out of adjustment?
+- How many cameras can a landmarked freestanding house have on its front, and does a door station’s camera count toward that?
+- Our parlor rooms are divided by sliding pocket doors. Can those be locked electronically?
+- What should we tell a location crew about our doors before the first shoot day?
+- Our house has decades of abandoned alarm and bell wiring from earlier owners. Do you remove it?
+
+### Images (11 in images/access-control-installation/, WebP q80, each viewed; no faces/house numbers/plates/documents)
+| New file (access-control-installation-prospect-park-south-…) | Source | Type |
+|---|---|---|
+| silver-single-button-door-station-with-card-reader.webp (hero, eager) | images/intercom-mini-panel.jpeg | manufacturer |
+| white-indoor-answering-screen.webp | images/intercom-indoor-monitor.png | manufacturer |
+| dark-touchscreen-entry-panel-with-keypad.webp | images/intercom-keypad-dark.png | manufacturer |
+| black-video-entry-doorbell-with-ring-button.webp | images/ubiquiti-camera-installation/ubiquiti-camera-installation-putnam-county-unifi-g6-entry-doorbell-product-photo.webp | manufacturer |
+| white-wired-video-doorbell.webp | images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-video-doorbell-product-photo.webp | manufacturer |
+| turret-camera-in-corner-of-stained-ceiling-room.webp | images/lorex-camera-installation/lorex-camera-installation-hudson-valley-turret-camera-in-corner-of-unfinished-storage-room.webp | AESS job |
+| camera-view-of-cluttered-room-and-open-doorway.webp | images/uniview-camera-installation/uniview-camera-installation-dutchess-county-greyscale-camera-tile-of-storeroom-and-open-doorway.webp | AESS job |
+| recorder-screen-view-of-sidewalk-and-curb.webp | images/uniview-camera-installation/uniview-camera-installation-staten-island-wide-lens-recorder-view-of-sidewalk-and-curb.webp | AESS job |
+| turret-camera-above-stored-lumber.webp | images/uniview-camera-installation/uniview-camera-installation-staten-island-turret-high-in-storage-room-corner-above-stored-boards.webp | AESS job |
+| white-dome-in-ceiling-corner-with-cable-loop.webp | images/uniview-camera-installation/uniview-camera-installation-staten-island-white-dome-in-ceiling-corner-with-cable-loop.webp | AESS job |
+| black-eyeball-camera-below-ceiling-light.webp | images/uniview-camera-installation/uniview-camera-installation-nassau-county-black-eyeball-camera-in-ceiling-corner-below-light-panel.webp | AESS job |
+Notes: source paths new to the silo, but scenes may be crops of scenes used elsewhere (AESS job pool is near-exhausted). Skipped commercial-security/ (clearly AI-generated: branded shirts, faces), smart-lock-installation/, and scenes already claimed by Pelham Gardens/Parkway (eave dome, brick-wall lot, corridor to grey door, cable bundles). No real access-control photos yet.
