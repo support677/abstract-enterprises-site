@@ -310,9 +310,9 @@ LIVE REBUILD | wireless-camera-installation-hudson-valley | Wireless Camera Inst
 LIVE REBUILD | wireless-camera-installation-nassau-county | Wireless Camera Installation | Nassau | up /wireless-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 LIVE REBUILD | wireless-camera-installation-nyc | Wireless Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE REBUILD | wireless-camera-installation-westchester-county | Wireless Camera Installation | Westchester | up /wireless-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-10-18T17:24Z REBUILD | access-control-installation-bay-ridge-brooklyn-ny | Access Control Installation | Bay Ridge, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T17:24Z REBUILD | access-control-installation-bedford-park-bronx-ny | Access Control Installation | Bedford Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T17:24Z REBUILD | access-control-installation-bensonhurst-brooklyn-ny | Access Control Installation | Bensonhurst, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-bay-ridge-brooklyn-ny | Access Control Installation | Bay Ridge, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-bedford-park-bronx-ny | Access Control Installation | Bedford Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-bensonhurst-brooklyn-ny | Access Control Installation | Bensonhurst, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T17:29Z REBUILD | access-control-installation-boerum-hill-brooklyn-ny | Access Control Installation | Boerum Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T17:29Z REBUILD | access-control-installation-brighton-beach-brooklyn-ny | Access Control Installation | Brighton Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T17:29Z REBUILD | access-control-installation-city-line-brooklyn-ny | Access Control Installation | City Line, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
