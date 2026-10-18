@@ -247,9 +247,9 @@ LIVE REBUILD | hikvision-security-camera-installation-long-island-ny | Hikvision
 BUILDING 2026-10-18T07:20Z REBUILD | hikvision-security-camera-installation-ulster-county-ny | Hikvision Security Camera Installation | Ulster | up /hikvision-security-camera-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-18T07:20Z REBUILD | hikvision-security-camera-installation-westchester-county-ny | Hikvision Security Camera Installation | Westchester | up /hikvision-security-camera-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
 BUILDING 2026-10-18T07:20Z REBUILD | intercom-repair-putnam-county | Intercom Repair | Putnam | up /intercom-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-REBUILD | intercom-repair-staten-island | Intercom Repair | Staten Island | up /intercom-repair-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | lorex-camera-installation-brooklyn | Lorex Camera Installation | Brooklyn | up /lorex-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | lorex-camera-installation-hudson-valley | Lorex Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-10-18T07:31Z REBUILD | intercom-repair-staten-island | Intercom Repair | Staten Island | up /intercom-repair-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T07:31Z REBUILD | lorex-camera-installation-brooklyn | Lorex Camera Installation | Brooklyn | up /lorex-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T07:31Z REBUILD | lorex-camera-installation-hudson-valley | Lorex Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 REBUILD | lorex-camera-installation-long-island | Lorex Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 REBUILD | lorex-camera-installation-manhattan | Lorex Camera Installation | Manhattan | up /lorex-camera-installation-nyc | (929) 560-0737 | GBP Bronx
 REBUILD | lorex-camera-installation-orange-county | Lorex Camera Installation | Orange | up /lorex-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
