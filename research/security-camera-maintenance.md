@@ -615,3 +615,425 @@ DAILY-LOG note: `images: 11 reused (9 real AESS job photos from images/nvr-insta
 1. Landlords in New York are required to keep building cameras working · 2. Camera upkeep matters for shops, not for apartment buildings · 3. Sidewalk sheds are temporary, so the cameras can wait · 4. Anyone who appears on a building camera can demand a copy of the footage · 5. If footage keeps going missing, buy a new recorder · 6. Blackouts are the only power problem cameras face · 7. Once cameras are shared with the police, the police look after them.
 
 Checked by meaning against: silo register (old template 12 + Bronx 15 + 9), and the live Brooklyn and Dutchess rebuild pages' questions/claims (their `research/_batch/` files did not exist at finish time).
+
+
+<!-- orange-county REBUILT 2026-10-18 (batch: orange/putnam/queens) -->
+
+## Orange County
+
+Build 2026-10-18 (REBUILD in place of crawled-not-indexed template). Page `security-camera-maintenance-orange-county` · up-link `/security-camera-maintenance-hudson-valley` · direct line (845) 640-3835 (body, CTAs, sticky bar, form JS, schema); (800) 486-0943 only in shared mega-nav header · GBP Bronx (460 E Fordham Rd, `#bronx`) · WhatsApp wa.me/17186790359 only · §9 Orange = 1.40×.
+
+**Thesis:** Orange County camera systems are worn down from above and through their wires, not by the street: the county had the most lightning of any NY county in Earth Networks' 2020 count (275,059 pulses, 41 thunder days), it is served by three utilities (O&R, Central Hudson, NYSEG) with repeated 2026 storm outages, it gets heavy snow (≈18 in Monroe, up to 24 in, Jan 2026), road salt and Wallkill/Delaware flooding, and properties are spread out (barns, gates, yard poles, long drives) — so maintenance is organised around storm seasons (spring pre-storm, fall pre-winter, post-storm sweeps), surge/ground/ride-through tests and remote health alerts for the long gaps between visits.
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. FC = mcp__Fire_Crawl__firecrawl_search / firecrawl_scrape. WF = WebFetch.
+
+### Source matrix
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | FC search `site:reddit.com Orange County NY security cameras lightning OR "power surge" OR "after storm" Newburgh OR Middletown OR Warwick OR Monroe` → no Orange camera/storm thread (Beacon, NJ, Rochester results). EMPTY for topic. Used carried r/hudsonvalley Washingtonville brownouts thread (floodlight research R4). |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so; claims are published installer/maker claims (rows T1–T5). |
+| 6–7 | Landmarks / building stock | rows L1–L8 (mostly carried, cited on page). |
+| 8 | Bing / DDG | EMPTY (not accessible in build env). |
+| 9–10 | Local news / hyperlocal | News 12 HV (W1, P2), Warwick Valley Dispatch (W3), O&R / Central Hudson releases (P1, P3), Poughkeepsie Journal (B4), HGAR (B1), OC Partnership (B2). Times Herald-Record camera-maintenance items: EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env); FC search returned only a Yelp dispensary list page — not used. |
+
+### Lightning / surge (S)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| S1 | `Orange County New York lightning most strikes county Earth Networks lightning report` · FC search; then FC scrape (pdf parser, query mode) | https://get.earthnetworks.com/hubfs/2021%20State%20Lightning%20Reports/Lightning_Report_NewYork.pdf | Appendix: Orange County 275,059 pulses / 41 thunder days; Delaware 261,518 / 45; Suffolk 250,630 / 59; Cattaraugus 216,148; Sullivan 194,514; Ulster 182,760; Chautauqua 179,668 (2020 data). | §5 para 1, §5.5 bullet 1, §9 Q1, §10.5 claim 1, Sources |
+| S2 | same search → FC scrape | https://aem.eco/2025-united-states-lightning-report/ | Interactive 2025 report; no NY county figures extractable → EMPTY (not used). | — |
+| S3 | `PoE camera surge protector lightning grounding outdoor IP camera manufacturer guide Axis OR Hikvision OR Ubiquiti` · FC search (full excerpt) | https://edgebusinesssecuritycameras.com/how-to-protect-your-security-cameras-from-lightning/ | Surge enters via power, Ethernet, conduit; "latent damage: a switch port that fails weeks later, intermittent camera reboots, or corrupted NVR storage"; single-point ground, avoid "island" ground on detached pole; "a UPS without surge rating is not a lightning solution"; protect both ends of runs >50 ft; replace surge modules after major strikes — "consumables, not lifetime accessories"; shielding alone not lightning protection; protector without ground = false safety; indoor-rated protectors outdoors corrode and fail open; fiber to avoid mixing building grounds. | §9 Q2, Q3, Q(fibre); §10.5 claims 1–3; Sources |
+| S4 | same search (excerpts) | https://www.cctvforum.com/topic/46204-outdoor-poe-camera-amp-lightning-protection-best-practices/ ; reddit r/Ubiquiti | Forum background on single-point ground. | not used |
+
+### Power (P)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| P1 | carried (dahua research, FC scrape) | https://www.oru.com/en/about-us/media-center/news/2026/07-06/storm-outage-update-restored-power-to-more-than-45k | >47,000 O&R customers affected Jul 1–6 2026 (heat, thunderstorms, heavy rain); 5 pm Jul 6: 462 out in Orange (Warwick Town 192, Goshen Town 87). | §5 para 2; town-by-town; §10.5 claim 2; Sources |
+| P2 | `Orange & Rockland Utilities outage Orange County customers without power 2026 storm` → `Orange County NY ice storm OR snowstorm power outages …` · FC search → FC scrape | https://hudsonvalley.news12.com/2026/07/07/over-14000-still-without-power-across-hudson-valley-after-holiday-weekend-storms/2VWxEXlyCzI2mKSIBuMaRQ | Jul 7 2026 10:45 am: Orange 1,330 out — O&R 1,102, Central Hudson 228, NYSEG 0; HV total 14,401. | §5.5 bullet 2; Sources |
+| P3 | same search (result list) → FC scrape | https://www.cenhud.com/en/news/2026/central-hudson-restoration-efforts-continue/ | Sep 27 2026: nor'easter; >20,000 restored, ~6,000 still out at 9 am "with the greatest impacts west of the Hudson River in Ulster and Orange counties"; Orange 95% target Sun Sep 27 10 p.m.; ~350 line workers. | §5 para 2; calendar table; §10.5 claim 7; Sources |
+| P4 | carried (floodlight research U1) | https://dps.ny.gov/system/files/documents/2022/10/nys-electric-and-gas-utilities-by-county.pdf | Orange County electric utilities: NYSEG, Central Hudson, O&R. | §5 para 2; Sources |
+| P5 | carried (floodlight research R4) | https://www.reddit.com/r/hudsonvalley/comments/1r76dw0/why_are_there_power_outages_in_my_area_every/ | Feb 17 2026 Washingtonville: "it feels like my house has a brown out every month"; replies: frozen branches on lines, cars hitting poles. | §5 para 2; §9 brownout Q; town-by-town; Sources |
+| P6 | carried (floodlight research U2, FB excerpt, undated) | https://www.facebook.com/OrangeCountyEmergencyManagement/posts/power-outagesorange-county-continues-to-have-significant-power-outages-in-and-ar/1555743324473551/ | Central Hudson outage update naming T. Montgomery, T. Newburgh as primary areas. | town-by-town (not linked in Sources — FB excerpt) |
+| P7 | same P2 search (excerpt only) | https://www.facebook.com/OrangeCountyEmergencyManagement/posts/%EF%B8%8F-storm-damage-and-restoration-update%EF%B8%8Forange-county-continues-to-recover-from-th/1449811993848403/ | "Central Hudson: 4,978 … Down from original 35,011" — undated → not used. | — |
+
+### Winter, salt, water (W)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| W1 | `Orange County NY snowfall totals 2026 winter storm Warwick Monroe Middletown inches News 12 Hudson Valley` · FC search → FC scrape (query) | https://hudsonvalley.news12.com/2026/01/26/orange-county-digging-out-after-one-of-the-heaviest-snowfalls-in-years/5EGxAQpDFUcIljIxmGnlrS | Jan 26 2026: Monroe ~18 in (highest in county per News 12 meteorologists); county officials: up to 24 in in some areas; Route 17 WB crash in Monroe; Cornwall parking lots piled high. | §5 para 3, §5.5, calendar, §9 plough-pile Q, §10.5 claim 4, landmarks card, town-by-town, Sources |
+| W2 | same search (excerpt) | https://abc7ny.com/post/how-snow-winter-storm-12526-snowfall-totals-nyc-ny-nj-ct/18470009/ | 1 WNW Monroe 18.0 in, Monroe 16.0, 1 SSW Middletown 15.1, 3 WNW Warwick 13.7, Middletown 12.5. | not used (News 12 used instead) |
+| W3 | `Orange County New York "Black Dirt" wind erosion dust storm OR "muck" blowing soil Pine Island` · FC search → FC scrape (query) | https://www.wvdispatch.com/2024/01/wallkill-river-flooding-threatens-black-dirt-region-again/ | Jan 2024: Wallkill drains 382 sq mi, nearly half of Orange County, 69 tributaries, 40 miles; floods low-lying Black Dirt; HV counties 29–33 in of rain in 120 days to Sept 30 (NYS Mesonet); Jan 6 2024 >1 ft snow in Warwick. Dust/erosion: EMPTY. | §5 para 3, §5.5, §9 flood-warning Q, Sources |
+| W4 | `NYSDOT road salt tons Hudson Valley Region 8 winter Route 17 I-84 salt usage` · FC search (excerpt) | https://www.dot.ny.gov/news/press-releases/2025/2025-08-201 | 2024–25 statewide average granular salt application reduced to 172 lb per lane-mile. Region-8 / Orange tonnage: EMPTY. | §5 para 3, Sources |
+| W5 | `security camera heater cold weather operating temperature snow ice dome lens condensation manufacturer guidance` · FC search → FC scrape (query) | https://acssystems.ca/how-winter-conditions-affect-commercial-security-cameras/ | Aug 26 2026: heaters draw more power in cold; PoE switch can't supply; too many high-demand devices; undersized midspan; voltage loss on runs; damaged connector; heater disabled by power-saving; backup can't carry winter load; manufacturer warns against sizing to low-power mode. | §9 heater-PoE Q; §10.5 claim 4; Sources |
+| W6 | same search (excerpts) | https://alfred.camera/blog/does-cold-weather-affect-security-cameras/ ; https://www.buffaloalarm.com/best-for/best-cameras-for-cold-weather | Alfred: below −10°C (14°F) "too cold for most cameras to function"; Buffalo Alarm: cold-weather models −40°F to 131°F with built-in lens heater. | §10.5 claim 5; Sources |
+| W7 | carried (dahua research, FC excerpt) | https://www.weather.gov/okx/stormarchive | Feb 8–9 2025 snow, sleet and ice event in NWS OKX archive. | §9 freezing-rain Q; Sources |
+| W8 | carried (cat6 research) | https://abc7ny.com/post/new-york-flooding-hudson-valley-west-point-orange-county/13482914/ ; https://riveralerts.com/Site/Predicted/01434000 | Jul 2023 Highland Falls ~9 in, "1,000 year event", West Point HQ inundated; Delaware at Port Jervis 21.47 ft 6/28/2006; at 18 ft storm drains back up between Railroad Ave and Water St. | §5 para 3, landmark cards, town-by-town, Sources |
+
+### Business / land / programs (B, L, R)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| B1 | `Orange County NY warehouse distribution centers 2025 2026 Town of Montgomery Wallkill Newburgh new warehouse opened` · FC search → FC scrape | https://www.hgar.com/walmart-pursues-plans-for-major-distribution-center-in-orange-county | Jul 16 2026: Walmart application #2025-0069, ~1.5M sq ft on ~200 acres near Route 17K and I-84, Town of Wallkill; early Planning Board review. | §5.5, §8 card, Sources |
+| B2 | same → FC scrape | https://www.ocpartnership.org/news/details.aspx?id=edc5f047-e242-419a-84c1-af84efae9cfa | Stewart Logistics Center, 84 Hawkins Drive, Montgomery: 81,200 sq ft on 7.4 acres (71,643 warehouse). | §8 card, landmarks, Sources |
+| B3 | carried | hgar.com Amazon/Medline (2020); timeshudsonvalley Matrix I-84 DC (116 docks); Wikipedia Woodbury Common (1985, ~220 stores), East End HD (>2,200 bldgs), Port Jervis; Census Reporter (66% owner-occupied, 69% single unit); USDA 2022 (613 farms, 65,706 acres); Edible HV (26,000 acres Black Dirt); pineislandny.com (ditches, farm roads); Crystal Run / Galleria (cat6 + fiber research) | §5, §7, §8, §13, Sources |
+| B4 | `Orange County NY cannabis dispensary opened Newburgh OR Middletown OR Monroe OR Warwick 2025 2026 licensed` · FC search (excerpt); FC scrape returned headline/meta only (locked) | https://www.poughkeepsiejournal.com/story/news/local/2025/04/16/ny-cannabis-industry-22-dispensaries-to-open-in-mid-hudson-valley/83080236007/ | Apr 16 2025 (Nickie Hayes): 22 dispensaries to open mid-HV; excerpt: "Two adult-use Orange County dispensaries have opened in 2025, including Cannabis Huts in Newburgh, as well as Green Leaf in Newburgh". | §8 cannabis card (no store named); Sources |
+| R1 | `Orange County NY police camera registry program residents businesses register surveillance cameras` · FC search → FC scrape (body JS-only; metadata + excerpt) ; WF blocked (permission not answered) | https://www.orangecountyny.gov/1279/Video-Camera-Community-Partnership-Progr ; https://www.recordonline.com/story/news/crime/2019/03/12/screaming-heard-at-scene-fatal/5725905007/ (excerpt) | Program "developed by the District Attorney to create a partnership with the community for video surveillance"; "We encourage businesses and residents to register their camera's using this portal…"; Record 2019: DA Hoovler's office has the program. Details of police access: EMPTY. | §8.5 bullet 2; §9 DA-registry Q; Sources |
+| R2 | carried | 9 NYCRR §125.3 (silo G1); OC Local Law 8 of 2007 + Middletown ELB (K1); OC consumer-law manual (K3); Penal Law 250 (silo G9); Fisch Solutions low-voltage permit claim (fiber A8); New Windsor PD Jan 2025 (N1) | §8.5, §9, §10.5 claim 6, Sources |
+
+### Prices (§9 Orange 1.40× on silo base used in Bronx page; round half-up; no new prices)
+Tune-up $150–$350 → **$210–$490**; plan $200–$500/yr → **$280–$700/yr** (per camera $50–$150 → **$70–$210**); commercial $1,000–$5,000+ → **$1,400–$7,000+**; same-day $190–$900 → **$266–$1,260**; $195/hr 3-hr minimum ($585) unmultiplied. Schema AggregateOffer 210–7000.
+
+### Images (11) — permanent image rule (Drive has no maintenance subfolder; CompanyCam not connected)
+Borrow pool images/lorex-camera-installation/ + images/floodlight-camera-installation/; each viewed; PIL WebP q80 (none needed resizing). Excluded: store-monitor grid (people visible), turret under water-stained tiles + recorder bitrate screen (same scenes as Bronx maintenance page), exit-sign ceiling camera (Bronx scene).
+| New file (images/security-camera-maintenance/) | Source | Kind |
+|---|---|---|
+| …-orange-county-ceiling-dome-camera-facing-glass-entrance-doors.webp (hero, eager) | lorex-…-brooklyn-ceiling-dome-camera-facing-glass-entrance-doors.webp | real job photo |
+| …-dome-camera-under-eave-against-bare-winter-trees.webp | lorex-…-hudson-valley-dome-camera-under-eave-against-bare-winter-trees.webp | real (NB: likely same yellow-fascia scene as Bronx page's fascia crop, different framing) |
+| …-dome-camera-on-long-wall-arm-over-stone-facade.webp | lorex-…-hudson-valley-dome-camera-on-long-wall-arm-over-stone-facade.webp | real |
+| …-bullet-camera-on-ceiling-grid-above-hallway-door.webp | floodlight-…-putnam-county-black-bullet-camera-high-above-grey-hallway-door.webp | real |
+| …-mini-camera-at-ceiling-edge-above-lit-soffit.webp | lorex-…-manhattan-black-mini-camera-above-lit-ceiling-soffit.webp | real |
+| …-network-cable-bundles-above-equipment-rack.webp | floodlight-…-hudson-valley-network-cable-bundles-above-equipment-rack.webp | real |
+| …-recorder-playback-view-of-brick-wall-and-paved-lot.webp | lorex-…-hudson-valley-recorder-playback-view-along-brick-wall-to-paved-lot.webp | real (screen frame) |
+| …-lorex-4k-nvr-front-panel-product-photo.webp | lorex-…-hudson-valley-lorex-4k-nvr-front-panel-product-photo.webp | manufacturer |
+| …-lorex-wifi-pan-tilt-camera-with-antennas-product-photo.webp | lorex-…-hudson-valley-lorex-wifi-pan-tilt-camera-with-two-antennas-product-photo.webp | manufacturer |
+| …-lorex-white-spotlight-bullet-camera-product-photo.webp | lorex-…-hudson-valley-lorex-white-spotlight-bullet-camera-product-photo.webp | manufacturer |
+| …-black-lorex-turret-camera-product-photo.webp | lorex-…-brooklyn-black-lorex-turret-camera-product-photo.webp | manufacturer |
+DAILY-LOG note: `images: 11 = 7 real AESS job photos from other jobs + 4 manufacturer product shots (no real security-camera-maintenance photos yet)`.
+
+### Keywords (Orange geo layer)
+security camera maintenance Orange County NY; CCTV maintenance Newburgh / Middletown / Warwick / Monroe / Goshen / Port Jervis; camera surge protection check; lightning-damaged cameras; battery backup ride-through; pre-winter camera check; pole camera maintenance warehouse yard Route 17K / I-84; barn camera cable test; Black Dirt / Pine Island; O&R, Central Hudson, NYSEG. All 11 alts carry "Security camera maintenance Orange County".
+
+### Similarity / checks (2026-10-18)
+masked-geo difflib (word sequence, paragraphs ≥20 words): page ratio vs Bronx 0.120, Queens (rebuilt) 0.090, Putnam (rebuilt) 0.059, old templates ≤0.016. Paragraphs ≥0.60 only boilerplate (warranty sentence paragraphs, freshness byline). check_page: all content checks pass; 9 FAILs are "live sibling … doesn't link back" (main-run wiring). Size 189,266 B (Queens 185,821, Bronx 180,560 — re-check after sibling rebuilds finish).
+
+## Question register additions — security-camera-maintenance-orange-county
+
+### §9 Q&A (H3)
+1. Lightning struck close by last night but every camera still shows a picture this morning — which parts should be checked anyway?
+2. The surge protectors on our outdoor camera cables were fitted when the system went in years ago — do they ever need replacing?
+3. Some cameras came back after the storm but now reboot every few hours — can storm damage show up weeks later?
+4. Would a fibre link between the house and the barn end the storm losses for good?
+5. We have a whole-house generator — do the cameras still need their own battery backup?
+6. Our lights dip every few weeks even when the power never fully goes out — can those brownouts hurt a recorder?
+7. Our farm's internet drops in most big storms — do the cameras keep recording while it is down?
+8. Every storm the plough leaves a wall of snow at the end of our driveway — where should the camera go so it still sees the road?
+9. Our farm store only opens from late summer through the holidays — what should happen to the cameras when it closes for the season?
+10. Freezing rain coats our outdoor cameras in ice even though they have heaters — what are we missing?
+11. Does a camera with a built-in heater need more from the network switch in winter than it does in summer?
+12. A flood warning is out for the Wallkill and our lower field cameras sit near the river — what should we do with the system before the water arrives?
+13. Our distribution yard has cameras on tall poles — what does a maintenance visit on those involve that a camera on the building does not?
+14. Our barn camera runs on several hundred feet of cable from the house — is that run something a maintenance visit should test, or only the camera?
+15. We registered our cameras with the District Attorney's camera program — does anyone check they are still working?
+
+### §17 FAQ (= FAQPage)
+1. Do you add a travel charge for properties at the far western end of the county, around Port Jervis or Deerpark?
+2. Can part of the check be done remotely before the technician drives out?
+3. What should we arrange before a visit to a working farm or an active truck yard?
+4. Can visits be timed around harvest, the holiday shipping rush or the busy autumn weekends?
+5. If lightning damages cameras between scheduled visits, is the repair part of the plan?
+6. Will a technician come out while a storm is still going on, or only after it passes?
+7. Can you work alongside our electrician when a fix needs line-voltage work?
+8. Can the visit also cover the alarm panel and its backup battery?
+9. Do you sign maintenance agreements for a single season, or only for a full year?
+
+De-dup notes: checked by meaning against the old 12-question template, the Bronx register, and the rebuilt Putnam and Queens pages on disk at build time. Replaced during build: snow-blinded camera (≈ Putnam Feb-2026 white blur), detached-garage grounding (≈ Putnam garage thunderstorm), away-from-property alerts (≈ Putnam lake-house / Queens out-of-state), road-salt corrosion (≈ Queens bay rust), cold-morning fog (≈ Queens milky picture), submerged junction box (≈ Queens flooded recorder), second-home access FAQ (≈ Putnam), insurance-photos FAQ (≈ Queens adjuster), HOA report recipients FAQ (≈ Bronx co-op report), billing FAQ (≈ Bronx payment). Heading "Cameras Dark After a Storm in Orange County" carries no question mark (repair capture, not a question).
+
+## FLAGS / unsourced house practices (Orange page)
+1. House practices stated as AESS practice (unsourced): spring pre-storm + fall pre-winter visit cadence; post-storm sweep booked for the morning after a severe-thunderstorm warning; protector status/ground tracing and age logging; ride-through test by pulling recorder power; alert triggering each visit; remote pre-check with permission; starting the walk-through at the farthest camera (Field Notes — method note in Anwar's voice, not a specific job story); no ladder/pole work during lightning/wind/ice; storm damage billed as repair outside the plan with priority booking; drive-time covered by area factor (no separate travel line — confirm); plough-pile camera placement on fall visit; seasonal-business close/open checks; COI/electrician coordination; "most faults fixed within one to two hours of arrival" (blueprint element 36 wording).
+2. General technical statements without a page-specific source: ~100 m (328 ft) Ethernet channel limit (TIA standard); standby generator transfer gap of "several seconds"; heater not designed for thick glaze ice; line-interactive/double-conversion UPS smoothing sags.
+3. Descriptive geography without a fetched source: "From the Shawangunk side to the Hudson"; Route 17 through Chester/Monroe/Woodbury; village main streets (Goshen, Warwick, Montgomery, Walden, Port Jervis); hamlet names in schema areaServed and the "scheduled visits also run to" list.
+4. Prices: §9 1.40× applied to the Bronx page's silo base (silo FLAG §2.7 still applies: base never re-derived; same-day low end $266 below $585 3-hr minimum — different scopes, Anwar to confirm).
+5. Edge CCTV (lightning guide) and ACS Systems (winter guide) are other integrators' blogs (Edge out of area; ACS Toronto) — cited as industry guidance, not named as competitors in body text except in Sources.
+6. DA camera program page body did not render (JS) and WebFetch permission was not answered → page states only what metadata/excerpts show; says "As far as we know, no" one checks registered cameras.
+7. P6 town attribution (Montgomery / Town of Newburgh) rests on an undated Facebook excerpt (carried).
+8. Image: the winter-eave dome is probably the same scene as the Bronx page's fascia crop (different framing).
+9. Registration: sitemap/_redirects already present; 9 siblings lack a link back (main-run wiring).
+
+## Revision 2 (2026-10-18, after brooklyn / dutchess-county / nyc rebuilds landed)
+
+Reason: size within 2 KB of new nyc (187,995 B); meaning overlaps with rebuilt dutchess/nyc found. Final: check_page PASS · 190,736 B · 13,684 words.
+
+### Questions REMOVED (overlap) → REPLACED
+- §9 "Lightning struck close by last night but every camera still shows a picture…" (≈ dutchess lightning/which-to-check) → "Orange County gets more lightning than anywhere else in New York — how can we tell which of our cameras are most exposed before the summer storms start?"
+- §9 "We have a whole-house generator — do the cameras still need their own battery backup?" (≈ dutchess generator gap) → "Our dispensary has to keep its cameras running through an eight-hour outage — how do we prove the backup can really do that?"
+- §9 brownouts Q (≈ nyc Con Ed voltage cut) → removed
+- §9 farm internet drops Q (≈ dutchess internet vs dead recorder) → removed
+- §9 freezing-rain icing Q (≈ dutchess ice on dome) → removed
+- §9 farm store seasonal close Q (≈ dutchess close house Nov–Apr) → removed
+- added §9 "Our property is on Central Hudson but our store in town is on Orange & Rockland — does it matter to the camera plan which utility feeds each site?"
+- added §9 "A truck clipped one of our yard poles — once it has been straightened, what needs checking besides where the camera points?"
+- FAQ removed: remote pre-check (≈ dutchess upkeep without a truck); farm/yard visit prep (≈ dutchess livestock); storm-day visit (≈ dutchess snowstorm that day); alarm panel (≈ dutchess gate keypad/alarm same trip); season-or-year agreement (≈ nyc pay up front or per visit).
+- FAQ added: "Our floodlights and pole lights went dark in the same storm as the cameras — can they be looked at on the same visit?"; "Will you mark each surge protector with the date it was fitted?"; "When a storm kills one camera, will the replacement match the brand already on the recorder?"
+
+### Final question list for the register
+§9: (1) most-exposed cameras before summer storms; (2) surge protectors ever need replacing; (3) reboot weeks after storm; (4) fibre link house–barn; (5) dispensary eight-hour outage proof; (6) which utility feeds each site; (7) plough wall at driveway end; (8) heater camera PoE in winter; (9) Wallkill flood warning prep; (10) tall yard poles visit; (11) truck clipped yard pole; (12) barn run several hundred feet; (13) DA camera program registration.
+FAQ (7): travel charge Port Jervis/Deerpark; timing around harvest/shipping rush; lightning damage between visits & plan; working alongside electrician; floodlights/pole lights same storm; dated surge-protector labels; brand-matched replacement.
+
+### New sources / content added (all already-retrieved, sourced)
+- Lightning comparison table (S1, Earth Networks 2020: Orange, Delaware, Suffolk, Cattaraugus, Sullivan, Ulster pulses + thunder days) → §5.5.
+- 2026 storm/outage record table (W1, P1, P2, P3) → §5.5.
+- Utility table (P4 DPS; O&R outage map excerpt ~317,010 customers served — https://outagemap.oru.com/ ; PowerOutage.us 110,732 O&R customers tracked in Orange — https://poweroutage.us/area/utility/106 ; Central Hudson ~315,000 electric customers, eight counties, 2,600 sq mi — P3 release) → §9 utility Q; both new URLs added to Sources.
+- Warehouse-scale paragraph (Amazon 1,015,740 sq ft; Matrix 116 docks + 167 trailer spaces [carried dahua research]; Stewart Logistics Center 81,200 sq ft on 7.4 acres [B2]; Walmart ~1.5M sq ft ~200 acres [B1]) → §9 pole Q.
+- Times Herald-Record Mar 12 2019 excerpt (DA Video Camera Community Partnership Program existed by 2019) → §9 DA Q; added to Sources.
+- 9 NYCRR §125.3 eight-hour outage requirement + PJ Apr 2025 Orange dispensaries → §9 dispensary Q.
+
+### Extra FLAGS
+- Dispensary Q: "a typical closet UPS lasts well under an hour" at that load — general reasoning, unsourced.
+- Truck-hit pole Q and protector date labels / brand-matching FAQs are house practice (unsourced).
+- Remaining paragraphs ≥0.60 masked similarity vs nyc/queens/bronx/dutchess are only the warranty-sentence paragraphs (protected boilerplate).
+
+
+<!-- putnam-county REBUILT 2026-10-18 (batch: orange/putnam/queens) -->
+
+## Putnam County
+
+Build 2026-10-18 — REBUILD in place of `security-camera-maintenance-putnam-county` (was crawled-not-indexed as a near-duplicate template). Up-link `/security-camera-maintenance-hudson-valley`. Direct line (845) 640-3835 in body, CTAs, sticky bar, form error text and schema; (800) 486-0943 only in the shared mega-nav header. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). WhatsApp only as wa.me/17186790359 (+ contact-block text). Structure, CSS, nav, schema stack, forms and conventions copied from the rebuilt `security-camera-maintenance-bronx.html`; all text written new. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`). Shell curl blocked. "Carried" = fetched by an earlier run in another research file (file + row named), not re-fetched today.
+
+**Thesis:** In Putnam the costly failure is the one found after the fact — the county's own courthouse cameras captured only portions of the July 4, 2026 Declaration incident because they record on motion — so Putnam maintenance is a seasonal, verify-from-a-distance discipline: play back and fix recording settings first, time two site visits to the county's woods-and-weather calendar (after leaf-out; before winter), and cover the long gaps at empty or far-flung properties with tested health alerts. (Distinct from Bronx = exposure/grime/footage-on-a-clock; distinct from nvr-installation-putnam = local storage vs cloud.)
+
+### Source matrix (§3) — Putnam
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Putnam-specific camera-upkeep threads: **EMPTY**. Generic excerpts only (R-P1). |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | **EMPTY (not accessible in build env)**. §10.5 says so and tests 7 repeated claims. |
+| 6 | Landmarks | carried L1–L6 (dvr-upgrade.md Putnam) + Great Swamp (new P-I3). |
+| 7 | Use cases / building stock | carried H1, H3, H4; property cards are general descriptions (FLAG). |
+| 8 | Bing / DuckDuckGo | **EMPTY (not accessible in build env)**. |
+| 9 | Local news | Mahopac News (new), lohud (new), Mid-Hudson News (carried), Daily Voice (carried), Syracuse.com (new, excerpt). |
+| 10 | Hyperlocal | Mahopac News, Town of Putnam Valley (carried), Highlands Current (search excerpts only). Putnam County Courier article = paywalled (2018) → not used. |
+| 11 | Yelp 1–3★ | **EMPTY (not accessible in build env)**. |
+| — | Drive / CompanyCam | No Security Camera Maintenance Drive folder (per brief); CompanyCam not connected. |
+
+### New this run (Firecrawl, 2026-10-18)
+| ID | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| P-C1 | `Mahopac News OR Putnam County News Recorder security camera footage police 2026` · Firecrawl search → scrape (markdown) | https://news.halstonmedia.com/mahopac-news/mahopac-news/stories/unredacted-police-report-fuels-new-controversy-in-declaration-protest-case,89080 | Mahopac News, Jul 23, 2026 (Bob Dumas): July 4 Declaration replica incident outside the Historic Putnam County Courthouse, Carmel Hamlet; "Hess said surveillance cameras captured portions of the incident but acknowledged the footage was incomplete because the system relies on motion sensors. 'Improvements could have helped'"; Legislator Jake D'Angelo memo requesting countywide assessment of security infrastructure / cameras at county buildings; Byrne: Sybil Ludington statue defaced with spray paint. | Hero sub; §5 para 1–2; §5.5 bullet 1; §9 Q1, Q2; §10.5 Claim 1, 4; §13 courthouse card; Sources |
+| P-W1 | `NYSEG Putnam County power outage 2026 customers Carmel Kent Patterson storm` · Firecrawl search → scrape | https://www.putnamcountyny.gov/county-executive-articles/item/decade-of-storms | Putnam County, Nov 15, 2022: "Fourteen monster storms … have struck Putnam since Superstorm Sandy"; list Sandy 2012 → Ida Sept 1, 2021 incl. "Tornado – Patterson/Kent – 5/15/18". | §5 para 4; Sources |
+| P-W2 | same search (result) → scrape | https://www.putnamcountycourier.com/articles/nyseg-outage-amidst-heat-wave-threatens-elderly/ | Paywalled; dated Jul 2018 (not 2026). Meta: expansion breaker melted on a pole in Drewville. | not used |
+| P-W3 | same search (result) | https://ebiz1.nyseg.com/outagereports/NYSEGPUTNAMPATTERSON_T.html | NYSEG publishes per-town outage lists for Putnam towns (Patterson page, Oct 16, 2026: no outages). | §6.5 repair box bullet 1 ("NYSEG … publish outage information by town") |
+| P-W4 | `Putnam County NY storm trees down power outages 2025 Mid Hudson News NYSEG Central Hudson` · Firecrawl search (past year) → scrape | https://www.lohud.com/story/weather/2026/07/05/storms-leave-thousands-without-power-hudson-valley-ny/90813090007/ | lohud, Jul 5, 2026: storms on evening of July 4 through Westchester and Putnam; search excerpt: "According to NYSEG another 3,670 were without power in Putnam County" (scraped body truncated; figure from excerpt — page says "thousands"). | §5 para 4; §9 Q2; Sources |
+| P-W5 | `Highlands Current Philipstown Cold Spring Central Hudson outage storm 2026` · Firecrawl search → scrape | https://www.lohud.com/story/weather/2026/08/03/cold-spring-garrison-power-outage-affects-hundreds-of-customers/91156240007/ | lohud, Aug 3, 2026: 740 Central Hudson customers in Cold Spring/Garrison out from ~11:16 a.m.; road closures and flooding along Route 9D in Garrison. | §5 para 4; §8 Garrison card; §9 runoff Q; Sources |
+| P-W6 | same search (result) | https://www.cenhud.com/en/outages/ | Central Hudson: text OUT or STAT to 236483 to report/check outages. (Sept 26–27, 2026 nor'easter release scraped: hardest hit = Ulster towns → not used for Putnam.) | repair box bullet 1; Sources |
+| P-S1 | `Putnam County NY winter storm snow totals Carmel Mahopac 2026` · Firecrawl search (excerpts) | https://www.syracuse.com/weather/2026/01/snowfall-totals-for-new-york-state-who-got-the-most-snow-jan-25-26.html (also lohud / Democrat & Chronicle excerpts) | Jan 25–26, 2026: Mahopac 14.8 in; Putnam Valley 14.0 in. | §5 para 4; §5.5 bullet 4; §9 snow Q; Sources |
+| P-S2 | same search → scrape | https://www.putnamcountyny.gov/county-executive-articles/item/byrne-declares-state-of-emergency-in-putnam-ahead-of-winter-storm | Feb 21, 2026: State of Emergency effective Feb 22; 12–18 in forecast, near-whiteout; travel ban; county offices closed Feb 23. | §5 para 4; §5.5 bullet 4; §9 snow Q; Sources |
+| P-I1 | `spongy moth caterpillars Putnam County NY defoliation` · Firecrawl search → scrape | https://www.newyorkalmanack.com/2026/05/2026-spongy-moth-outbreak-new-york/ | May 19, 2026 (DEC figures): HV new defoliation 62,458 ac (2022), 188,313 (2023), 618,765 peak (2024), 66,928 (2025); >10,000 acres oak mortality in HV 2025; 3 consecutive years → mortality esp. stressed trees on rocky ridges; March 2026 egg-mass surveys minimal → DEC does not expect noticeable defoliation in surveyed areas in 2026. | §5 para 3; §5.5 bullet 3; §9 dead-oaks Q; Sources |
+| P-I2 | `spotted lanternfly Putnam County New York found` · Firecrawl search → scrape (PDF) | https://www.putnamcountyny.gov/images/Departments/County_Exec/PDF_Documents/memo/25.8.27%20Letter%20To-%20Richard%20Ball%20Commissioner%20NYS%20Dept%20of%20Ag%20and%20Markets%20Re-%20SLF.pdf | County Executive Byrne to Ag & Markets, Aug 27, 2025: SLF "has taken root in Putnam County"; anecdotal increase since arrival in NYS 2020; 29 NY counties; tree of heaven "abuts many of Putnam County's roadways"; asks about reducing egg masses in "hardwood-dense sections of the Great Swamp in Patterson". | §5 para 3; §9 lanternfly Q; §13 Great Swamp card; Sources |
+| P-I3 | `black bear Putnam County NY 2026 sightings DEC` · Firecrawl search | (DEC, News 12, Scenic Hudson excerpts) | Bear sightings in Dutchess/Putnam/Westchester (excerpts); no camera-damage source → not used. | — |
+| P-L1 | `Putnam County reservoirs NYC DEP Boyd Corners Middle Branch Croton Falls East Branch Bog Brook West Branch` · Firecrawl search (excerpt) | https://www.nyc.gov/site/dep/water/west-branch-reservoir.page | West Branch Reservoir: Kent and Carmel, ~35 mi from NYC, two basins separated by Route 301, 8 billion gallons. (Also nyheritage: Middle Branch, Bog Brook, Diverting, East Branch, Croton Falls dammed 1878–1911 — not used.) | §5.5 bullet 2; §13 card; Sources |
+| P-F1 | `D'Angelo Putnam County security camera assessment county buildings surveillance legislature 2026` · Firecrawl search | (Facebook / YouTube excerpts) | No follow-up article on the county camera assessment → EMPTY. | — |
+| R-P1 | `reddit hudson valley security camera spider webs night vision lake house camera offline` · Firecrawl search (excerpts) | https://www.reddit.com/r/homeassistant/comments/1cyy750/how_do_you_keep_spiders_off_your_exterior_cameras/ ; https://www.reddit.com/r/reolinkcam/comments/vlwewn/spiders_web_on_cameras/ | Excerpts: "Using a separate IR illuminator is best. Or with better camera don't use IR"; "cameras are always warm … attracts spiders … triggers false positive alerts". Not Putnam-specific. | Sources (forum, excerpt); background for §6 night-test card |
+
+### Carried rows used (not re-fetched)
+| ID | From | URL | Finding | Used |
+|---|---|---|---|---|
+| M1 | nvr-installation.md Putnam M1 | https://midhudsonnews.com/2026/09/10/putnam-license-plate-readers-controlled-locally/ | Sept 10, 2026 Sheriff testimony: 27 burglary-crew vehicles; 22 vehicles linked to organized retail-theft rings that travel to Putnam to steal from local stores. | §8 intro; §10.5 Claim 6; Sources |
+| N1 | floodlight N1 | https://news.halstonmedia.com/mahopac-news/mahopac-news/stories/police-warn-mahopac-residents-after-string-ofcar-break-ins,91083 | Aug 7, 2026: seven vehicles entered pre-dawn Aug 5, residents with cameras asked to review footage. | §10.5 Claim 6; Sources |
+| H1 | dvr-upgrade.md H1 | https://www.putnamcountyny.gov/images/Departments/Emergency_Services/mitigation/Section-4-County-Profile-021815.pdf | >240 sq mi; 6 towns + 3 villages; ~3/4 NYC watershed; forest 66.9%; >9/10 Hudson Highlands bedrock; commerce along Routes 6, 9, 22, 52, I-84. | §5 para 3; §5.5; §7 intro + hillside card; §8 intro |
+| H3 | dvr-upgrade.md H3 | https://api.census.gov/data/2023/acs/acs5?get=group(B25004)&ucgid=0500000US36079 | 1,757 seasonal/recreational/occasional-use units. | §5 para 4; §5.5 bullet 6; §7 card; §10.5 Claim 4 |
+| H4 | dvr-upgrade.md H4 | https://www.historicpatterson.org/Exhibits/ExhPutLake.php | Lake colonies from 1928; 11,000 Putnam Lake lots 20×100 ft. | §7 card |
+| N4 | dvr-upgrade.md N4 | https://dailyvoice.com/article/isaias-new-update-these-putnam-county-communities-most-affected-by-power-outages/ | Aug 5, 2020: NYSEG 34,150 of 38,693 Putnam customers out. | §5 para 4; §9 Q2 |
+| W2 | dvr-upgrade.md W2 | https://get.earthnetworks.com/hubfs/2021%20State%20Lightning%20Reports/Lightning_Report_NewYork.pdf | Putnam 2020: 75,093 lightning pulses. | §5.5 bullet 5; §9 garage-surge Q |
+| W4 | dvr-upgrade.md W4 | https://www.putnamvalley.gov/state-of-emergency-declared-in-the-town-of-putnam-valley-effective-at-4-pm-on-wednesday-july-29-2026/ | Flash-flood state of emergency Jul 29, 2026. | §9 runoff Q; §10.5 Claim 3 |
+| E1/E2 | floodlight E1, E2 | https://ecode360.com/6607815 ; https://www.putnamcountyny.gov/consumer-affairs | Ch. 145 low-voltage technician scope incl. video surveillance ≤90 V / ≤5 A from a licensed electrician's outlet; no one may engage in the trade in the county unless licensed/registered; plug-in exemption; licence lists published. | §8.5 bullet 1; §9 Ch.145 Q |
+| R4 | dvr-upgrade.md R4 | https://www.coldspringny.gov/DocumentCenter/View/2074/Certificate-of-Appropriateness-PDF | HDRB approval for visible exterior changes since 1976; not-visible work not reviewed. | §7 village card; §8.5; §9 Cold Spring Q |
+| L1, L2, L4, L5 | dvr-upgrade.md | Wikipedia Mahopac / Putnam County Courthouse / Cold Spring HD; Legislature Tilly Foster PDF | Lake Mahopac ~587 ac, 3 islands; courthouse 1814, Gleneida Ave, Lake Gleneida; Cold Spring HD 691 ac, >200 bldgs, NRHP 1982; Tilly Foster ~199 ac, Southeast, county 2002. | §7; §13 cards |
+| G1/G9/G10 | dvr-upgrade.md G1; silo G9, G10 | https://www.nysenate.gov/legislation/laws/CVR/52-A ; https://www.nysenate.gov/legislation/laws/PEN/250.00 ; https://dos.ny.gov/get-security-or-fire-alarm-installer-license | §52-a backyard video; Penal Law 250; NYS DOS installer licence covers CCTV. | §8.5 bullets |
+| M1–M4, C1 | silo §2.1/§2.3 | Axis / Reolink / Vision Detection / XTEN-AV / HomeAdvisor | Frequency claims; no national maintenance-plan price found. | §10.5 Claims 2, 7 |
+
+### Prices used (§9 Putnam 1.45×, round half-up; silo base §2.7)
+Tune-up $150–$350 → **$218–$508**; plan $200–$500/yr → **$290–$725/yr** ($50–$150/camera → **$73–$218**); commercial $1,000–$5,000+ → **$1,450–$7,250+**; same-day repair $190–$900 → **$276–$1,305**; service after AESS install **$195/hr, 3-hr min ($585)** unmultiplied. Schema AggregateOffer low 218 / high 7250.
+
+### Images (11) — permanent image rule
+All viewed before use; WebP q80 (no resize needed, all <1600 px); no faces, house numbers, plates or readable documents. Real-photo captions say "Example photo from another AESS job (not a Putnam County property)"; product shots say "Manufacturer product photo". Scenes used on the Bronx maintenance page avoided (rejected: stained-ceiling corner dome, mezzanine wall pair, high-wall camera above sensor).
+| images/security-camera-maintenance/security-camera-maintenance-putnam-county-… | Source | Kind | Section |
+|---|---|---|---|
+| dome-camera-on-fascia-beside-bare-winter-branches.webp (crop 110,0,557,480 to remove mural) | apartment-…-hudson-valley-dome-camera-on-yellow-fascia-against-winter-sky.webp | real | Hero (eager) |
+| fisheye-playback-of-brick-wall-and-paved-lot.webp | apartment-…-long-island-fisheye-tile-of-brick-wall-and-asphalt-lot.webp | real | §5 |
+| low-light-playback-of-storeroom-and-open-door.webp | school-…-orange-county-overhead-camera-view-of-storeroom-and-open-door.webp | real | §6 |
+| dome-camera-on-steel-arm-below-stone-window-ledge.webp | apartment-…-brooklyn-stone-facade-with-camera-on-steel-wall-arm.webp | real | §7 |
+| turret-camera-on-ceiling-above-glass-entrance-at-dusk.webp | apartment-…-manhattan-dome-camera-on-ceiling-over-glass-entrance.webp | real | §8 |
+| small-camera-at-bulkhead-edge-above-dark-ceiling.webp | school-…-orange-county-small-camera-at-bulkhead-edge-above-dark-coffered-ceiling.webp | real | §9 cluster 1 |
+| blue-network-cables-bundled-along-ceiling-pipe.webp | apartment-…-brooklyn-blue-network-cable-bundles-along-ceiling-pipe.webp | real | §9 cluster 3 |
+| bullet-camera-on-ceiling-facing-grey-door.webp | apartment-…-brooklyn-black-bullet-camera-on-ceiling-facing-grey-service-door.webp | real | §15 |
+| stainless-bullet-camera-with-illuminator-ring-product-photo.webp | apartment-…-hudson-valley-stainless-bullet-camera-with-illuminator-ring-product-photo.webp | product (Dahua) | §10 |
+| floodlight-camera-with-two-lamp-panels-product-photo.webp | apartment-…-manhattan-floodlight-camera-with-two-lamp-panels.webp | product (Dahua) | §10 |
+| rack-recorder-with-four-drive-bays-product-photo.webp | apartment-…-long-island-1u-rack-recorder-with-four-drive-bays-product-photo.webp | product | §14 |
+DAILY-LOG note: `images: 11 = 8 real AESS job photos from other jobs + 3 manufacturer product shots (no real security-camera-maintenance photos yet)`.
+
+### Keywords (Putnam geo layer)
+security camera maintenance Putnam County (NY); camera maintenance Mahopac / Carmel / Brewster / Kent / Patterson / Putnam Valley / Cold Spring / Garrison / Lake Carmel / Putnam Lake; seasonal camera maintenance; camera re-aim after leaf-out; winterize outdoor cameras; motion vs continuous recording audit; lake house camera alerts; NYSEG / Central Hudson outage; Chapter 145; Route 6, 22, 52, 9/9D, I-84/Route 312. All 11 alts carry "Security camera maintenance Putnam County".
+
+### Question register — security-camera-maintenance-putnam-county (REBUILT 2026-10-18, revised after brooklyn/dutchess/nyc/queens/orange landed)
+§9 Q&A (H3), clusters: What the Recorder Is Really Keeping · Leaves, Insects and the Woods · Cold, Power and the Storm Record · Properties Nobody Visits Midweek · Shops and the Crews the Sheriff Described
+1. The courthouse cameras caught only part of the July 4 incident because they record on motion — how do we find out whether our own system has the same gap?
+2. Can a firmware update or a power cut quietly change what our recorder records?
+3. We only get up to the house every other weekend — how many days of recording does a part-time Putnam property really need on the drive?
+4. Our solar-powered gate camera charged fine in April but runs flat by July — is the summer canopy shading the panel?
+5. Spotted lanternflies cover the side of the house every late summer — do they cause trouble for outdoor cameras?
+6. After the spongy moth years there are dead oaks near our camera cable run — is that our problem or the tree's?
+7. Our recorder sits on a shelf in an unheated garage — will a January cold snap hurt it?
+8. Who should receive the camera health alerts at a weekend lake house — us in the city, a neighbour, or whoever opens the house?
+9. We rent the cottage out for the summer — how do we check after each changeover that guests did not unplug, cover or turn a camera?
+10. The Sheriff says retail-theft crews travel to Putnam to target local stores — which of our shop's cameras deserve the most frequent cleaning and checks?
+Statement H3 (not a question): "Putnam's outage record, town by town" (Isaias table N4 + utility split). "?" H2: Want to Know What Your Recorder Actually Kept Last Week?
+§17 FAQ (visible == FAQPage, 9):
+1. Does the after-dark picture test mean a second trip, or can it happen on the same day?
+2. Can you set up the camera app on every family member's phone while you are there?
+3. Can you add a camera we bought ourselves to the recorder during a maintenance visit?
+4. Are video doorbells and plug-in indoor cameras included in a maintenance visit?
+5. If you find a dead camera on a maintenance visit, do you replace it on the spot or quote it first?
+6. Can you leave a short guide for the house-sitter on what to do when a camera goes offline?
+7. Will you take down old cameras and brackets left behind by a previous system?
+8. If our recorder fails, can the settings you saved be loaded onto a replacement?
+9. Does the house alarm need to be off for the whole visit?
+§10.5 claim H3s: motion detection only skips the boring parts; fixed once/twice-a-year schedule; outdoor-rated = leave alone; live view = working; maintenance is mostly wiping lenses; quiet rural areas need less upkeep; fair price findable online.
+De-dup (revision): checked by meaning against the updated register (old template, Bronx, Brooklyn, Dutchess, NYC) and the live Queens and Orange pages. Dropped/replaced for overlap: leaf-out re-aim (Dutchess Q7 vegetation in view) → solar shade; Feb-storm white blur (Dutchess Q6 ice on dome) → cold-garage recorder; garage camera lightning twice (Dutchess Q5) → removed; runoff junction box (Brooklyn Q3 / Queens porch-cable water) → removed; two visits a year with health alerts (Dutchess Q1) → retail-crew camera priority; Ch.145 for cleaning (Dutchess Q14, NYC Q14) → removed (kept as §8.5 bullet); Cold Spring housing swap (Brooklyn Q7 Landmarks) → removed (kept as §8.5 bullet + town paragraph); utility/battery Q (Queens Astoria battery, Orange utility-per-site) → statement H3; lake-house alerts reframed to who receives them (Queens out-of-state rental). FAQ replaced: be there in person (Dutchess FAQ1, Queens), winter road (Dutchess FAQ2), before-first-visit needs (Brooklyn Wi-Fi FAQ), Saturday (NYC FAQ3, Queens), two properties one trip (Queens, Dutchess FAQ7, NYC), first-visit duration (Queens), caretaker alerts (now covered by Q8), outdoor lights (Orange floodlights). Claim 5 battery/solar replaced (now Q4).
+Sourced material added in revision: Putnam maintenance calendar table (§5; P-S1, P-S2, P-I1, P-I2, P-W1, P-W4, P-W5, W4), Isaias town-by-town utility table (§9; N4, U3 carried from nvr research), spongy moth year table (§9; P-I1, incl. 2021 statewide 682,652 and 2023 188,313), Town-by-town paragraphs (§13; N1, N4, P-S1, E5 Kent no electrical permits, H4, W4, P-W5, R4, P-W1 tornado), cold-garage Q (WD Purple 0 °C lower limit = carried S2 from research/nvr-installation.md HV; FLAG: check data-sheet figure on the page).
+
+### Check results
+FINAL (after coordinator round): `tools/check_page.py security-camera-maintenance-putnam-county` → PASS, 12,821 words, 177,522 B (Dutchess 174,766; Bronx 180,560). Similarity re-run vs brooklyn/dutchess/nyc/queens/orange/bronx: only the fixed AI-Reality-Check H2 ≥0.65; page-level ≤0.116.
+Earlier run: `tools/check_page.py security-camera-maintenance-putnam-county --stats` → 12,700 words, title 55, meta 158, 11 figures, 6 JSON-LD blocks, 9 FAQ = 9 FAQPage, 2 forms, tel 8456403835 + 8004860943 (header), 175,400 B. FAIL (10) = only "live sibling … doesn't link back" (brooklyn, long-island, manhattan, nassau-county, nyc, queens, rockland-county, staten-island, suffolk-county, ulster-county) — main-run wiring. Hub, Bronx, Westchester, Dutchess, Orange already link back.
+Masked similarity (difflib on ≥8-word p/li/td/h2/h3/figcaption blocks, geo masked with check_page.mask, nav excluded): vs Bronx page 0.117, only block ≥0.65 = blueprint-fixed H2 "What AI Gets Wrong About Security Camera Maintenance in [Area]"; vs every other silo page page ≤0.025, block max 0.47; vs nvr-installation-putnam-county page 0.094, only the fixed AI H2 pattern (0.71). Size note: Orange rebuild is 178,914 B (3.5 KB away) — re-check size cluster after the parallel rebuilds land.
+
+### FLAGS for Anwar (Putnam page)
+1. Unsourced AESS house practices stated as practice: playback-first audit; continuous recording on key views + motion with pre-record elsewhere; configuration export after each visit and restart alerts; two season-timed visits (after leaf-out ~late May/early June, fall before snow) + storm follow-ups; reference pictures by day/night; motion-zone redraw around foliage; smart-IR/IR-intensity winter settings; surge-device/grounding approach on outbuilding runs; junction-box relocation above splash height; health-alert trio (camera loss, drive error, recorder offline) incl. cellular backup suggestion; alerts optionally to AESS; caretaker second user; rental-guest guidance (outdoor cameras only, locked recorder); one-page house-sitter guide; quote-before-replace; Saturday appointments; back-to-back trips for two properties; "most faults fixed within one to two hours of arrival" (blueprint el. 36); schema openingHours Mon–Sat 08:00–19:00 (copied from Bronx).
+2. General (unsourced) descriptions: property-type cards, corridor cards ("who operates there"), lakefront glare/fog/insects at lit shorelines, lanternfly residue effects on lenses, snow/frost blur causes, Tilly Foster "typical eastern farmland".
+3. Ch. 145: AESS's own Putnam low-voltage licence / Ch. 135 registration NOT claimed; page asks owners to check any contractor "us included" on the county lists. Confirm status.
+4. lohud Jul 5, 2026 Putnam figure (3,670 NYSEG customers) seen only in a search excerpt; page says "thousands".
+5. Field Notes are installer-voice method (playback before cleaning, walk the property), not a specific Putnam job story.
+6. Inherited silo price flags (research §2.7): $276 same-day floor vs $585 3-hr minimum; whole ranges multiplied.
+7. Putnam County Courier (search result "Sept 10, 2026") was actually a paywalled 2018 article — not used.
+
+
+<!-- queens REBUILT 2026-10-18 (batch: orange/putnam/queens) -->
+
+## Queens
+
+Build 2026-10-18 (REBUILD, was crawled-not-indexed). Page `security-camera-maintenance-queens` · up `/security-camera-maintenance-nyc` · direct line (347) 434-6392 (body, CTAs, schema; (800) 486-0943 only in shared mega-nav header) · Bronx GBP (460 E Fordham Rd, `#bronx`) · §9 Queens = 1.05 × base.
+
+**Thesis:** In Queens the thing that ends most camera systems is water — basement recorders drowned by Ida-type and July 2026 flash floods, groundwater rising under southeast Queens since well pumping stopped in 1996, tidal flooding and salt air around Jamaica Bay and the Rockaway peninsula, rain running down cables into housings — and most systems belong to owner-occupiers or absentee small landlords with no super watching. So Queens maintenance = seals/connectors/stainless hardware, raising the recorder + switch + UPS above the water line, after-storm triage, scaffolding re-aims, and remote health alerts / account handover so an owner who is not on site knows it is recording. (Distinct from Bronx: grime/el/heat/outages/retention clocks.)
+
+Tools: WebSearch (result lists), WebFetch (page read via summariser — figures as it reported them), Firecrawl search (excerpts). Shell curl blocked. "carried" = sourced earlier today in research/parking-lot-camera-installation.md (Queens section), not re-fetched.
+
+### Source matrix (v2.3 §3) — Queens
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | Firecrawl search `reddit r/Queens security cameras landlord basement flooded recorder footage` → only generic NYC basement-flood threads (r/legaladvice Ida, r/AskNYC, r/NYCapartments) as excerpts; nothing Queens-camera-specific → **EMPTY** for Queens camera-maintenance Reddit. reddit.com full threads not opened (blocked earlier today per silo file). |
+| 2 | Google PAA | **EMPTY (not accessible in build env)** |
+| 3 | Google PASF | **EMPTY (not accessible in build env)** |
+| 4 | Answer the Public | **EMPTY (not accessible in build env)** |
+| 5 | Google AI Overview | **EMPTY (not accessible in build env)** — §10.5 says so and tests 7 common claims instead (no AI Overview quoted). |
+| 6 | Landmarks | rows Q-W, Q-B below + carried Q-L rows. |
+| 7 | Use cases / building stock | Census owner-occupancy (carried), LIC towers, Jackson Heights HD (carried), FISP. |
+| 8 | Bing / DDG | **EMPTY (not accessible in build env)** |
+| 9 | Local news | NY1, PIX11, CBS NY, Hoodline, DNAinfo, Queens Eagle, Queens Chronicle. |
+| 10 | Hyperlocal | Queens Chronicle, Queens Eagle, SRIJB, NY Sea Grant. QNS / Queens Ledger maintenance items: **EMPTY**. |
+| 11 | Yelp 1–3★ | **EMPTY (not accessible in build env)** (Yelp unsupported by Firecrawl, per silo file). |
+| — | Airport ultrafine-particle studies (JFK/LGA) | Searched; only non-NYC airport studies (LAX, Sea-Tac) and NYS bill S.966-B (study of JFK/LGA incl. ultrafine particulates, report due Mar 31, 2024 — results not found). PMC article: captcha. ADS abstract (2023AGUFMED33C0957J): WebFetch permission not answered → **EMPTY**. Not used on page (no Queens measurement found). |
+
+### Water, floods, groundwater (Q-W)
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| Q-W1 | carried Q-N2 | https://queenseagle.com/all/unimaginable-loss-eleven-from-queens-die-in-storm | Sept 2, 2021: 11 of NYC's 12 Ida deaths in Queens; Central Park 3.15 in. of rain in one hour. | §5 para 1; §5.5 bullet 1; Sources |
+| Q-W2 | `Hurricane Ida Queens basement apartments deaths flooding southeast Queens` · WebSearch → WebFetch | https://digital-release.pix11.com/news/local-news/queens/trapped-at-least-9-dead-in-ida-flooded-basements-across-queens/amp/ | Sept 2, 2021: at least 9 dead in Queens basements; Woodside (64th St & Laurel Hill Blvd), Jamaica (183rd St near 90th Ave), Flushing (Peck Ave). | §5 para 1 (neighborhoods only); Sources |
+| Q-W3 | `Queens flash flooding 2026 basements flooded News12 OR QNS OR Queens Chronicle` · WebSearch → WebFetch | https://ny1.com/nyc/all-boroughs/news/2026/07/19/flushing-residents-deal-with-flash-flooding-aftermath | NY1 Jul 19, 2026: Saturday flash flood, Flushing basements and garages submerged; quote "This has become a routine. When it's rain, we knew that there's going to be flooding."; "dirty water"; area flooded in Ida; OEM: topography. | §5 para 2; §5.5; §8 Flushing card; §9 H3 2; §10.5 claim 4; §13 card |
+| Q-W4 | same search → WebFetch | https://hoodline.com/2026/07/queens-bravest-haul-family-over-fence-from-swamped-woodside-basement/ | Jul 20, 2026: FDNY Engine 292/Ladder 136 rescued family of four from flooding basement on 69th St, Woodside, over rear-yard fence; no injuries. (house number not printed on page) | §5 para 2; §5.5; Sources |
+| Q-W5 | `southeast Queens groundwater flooding basements high water table Jamaica wells shut down` · WebSearch → WebFetch | https://ny1.com/nyc/all-boroughs/public-safety/2024/03/22/southeast-queens-groundwater-issues | NY1 Mar 21/22, 2024: Jamaica Water Supply stopped pumping in 1996 (contamination); city took over and closed dozens of wells; near-daily basement flooding; Carter Community Center two pumps 24 h, 13,500 gal/hr; DEP $2.6B drainage system; resident claim water table rose ~30 ft (not used — unverified claim). | §5 para 2; §5.5; §7 SE Queens card; §9 H3 1; Sources |
+| Q-W6 | `Rockaway Broad Channel tidal flooding sunny day flooding Jamaica Bay 2025` · WebSearch → WebFetch | https://blog.ucs.org/melanie-fitzpatrick/sea-level-rise-in-jamaica-bay-new-york-688/ | UCS Oct 17, 2014: Broad Channel minor floods "once or twice a month, or more"; Jamaica Bay flood frequency projected ×3 by 2030. | not used (2014, projection) |
+| Q-W7 | `FloodNet sensors Hamilton Beach Broad Channel high tide flooding streets 2025 OR 2026` · WebSearch → WebFetch | https://srijb.org/new-flood-sensors-capture-tidal-flood-data-around-jamaica-bay/ | Jan 13, 2022: five sensors (Hamilton Beach: Hawtree Basin, Russell St & Davenport Ct; Far Rockaway: Marina 59, Beach 84th St); Dec 30–Jan 5 high tides + surge; almost 2 ft on some streets, deepest bayside of Beach 84th St; 16 in. at Davenport Ct; NYC interested in 500 sensors. | §5 para 3; §5.5; §9 H3 5; §13 cards; Sources |
+| Q-W8 | same → WebFetch | https://seagrant.sunysb.edu/articles/r/23497 | NY Sea Grant Aug 10, 2022: photo of tidal flooding in Broad Channel; residents notice high-tide floods deeper and more frequent; 2021 sensors (3 Hamilton Beach, 2 Far Rockaway) sited with Community Flood Watch partners. | §5.5; §13 Broad Channel card; Sources |
+| Q-W9 | same → WebFetch | https://www.cbsnews.com/newyork/news/new-york-city-expanding-floodnet-sensors-in-flood-prone-neighborhoods-like-hamilton-beach-queens | CBS NY Apr 17, 2023: $7.2M to expand FloodNet to 500+ sensors; Hamilton Beach often flooded; New Hamilton Beach Civic Assn president Roger Gendron: Christmas-weekend storm "rivaled Hurricane Irene in 2011". | §13 Hamilton Beach card; Sources |
+| Q-W10 | `Queens Rockaway salt air corrosion Sandy Breezy Point boardwalk 2012 flood homes damaged number` · WebSearch → WebFetch | https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf | NWS: Aug 28, 2011 ~2 ft in middle of Rockaway Beach Blvd; Sandy 2012 ~4–7 ft inundation across peninsula, Arverne-Edgemere/Seaside homes destroyed, boardwalks destroyed; Breezy Point many homes destroyed (Sandy), Dec 1992 nor'easter. | §5 para 3; §8 Rockaway card; §9 H3 6; §13 Rockaway card; Sources |
+| Q-W11 | `Rockaway salt air corrosion streetlights OR electrical equipment rusting Rockaway Queens` · Firecrawl search | (Facebook posts, NYT 2013 excerpt "electrical conduits ... moved out of harm's way") | No Queens-specific source on salt corrosion of electronics → **EMPTY**; page states salt corrosion as house practice + IP-code/IEC facts only. | — |
+
+### Equipment standards (Q-T)
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| Q-T1 | `IP67 IP66 meaning IEC 60529 immersion 1 metre 30 minutes powerful water jets` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/IP_code | IEC 60529; 6 = powerful jets 12.5 mm nozzle, 100 L/min, ≥3 min; 7 = 30 min at 1 m; "protection against other fluids, such as salt water ... is not guaranteed by the rating." | §5 para 3; §9 H3 4; §10.5 claims 1–2; Sources |
+| Q-T2 | `security camera coastal salt mist corrosion stainless steel NEMA 4X IEC 60068-2-52 marine environment` · Firecrawl search (excerpt) | https://keystonecompliance.com/iec-60068-2-52/ | IEC 60068-2-52 cyclic salt-mist test; may indicate deterioration of some non-metallic materials by assimilation of salts. | §10.5 claim 2; Sources |
+| Q-T3 | same (excerpt) | https://ipvm.com/discussions/recommendation-for-salt-water-environment | IPVM forum: Mobotix and Axis held up ~10 years on a Caribbean peninsula with salt spray (forum opinion). | not used |
+
+### Power, air (Q-P)
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| Q-P1 | `2006 Queens blackout Long Island City network Con Edison Astoria days customers` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/2006_Queens_blackout | July 2006 heat wave; from Jul 17; 10 of 22 feeders failed; ~174,000 people, ~100,000 NW Queens in prolonged outage ~a week; Astoria, LIC, Sunnyside, Woodside; LaGuardia and parts of subway lost power. | §5.5; §8 LIC card; §9 H3 7; §13 LIC card; Sources |
+| Q-P2 | `DEC study JFK LaGuardia air quality ultrafine particles results report Queens communities` · WebSearch → WebFetch | https://www.qchron.com/editions/queenswide/queens-to-make-a-plan-for-safer-air/article_2dab3adf-e258-5192-bdff-4327b1101b57.html | Queens Chronicle (Sept 26 edition, year not on page; DEC Queens meeting Sept 24 = 2024 per DEC advisory): Aclima mobile monitoring; Queens most truck traffic of 10 sites; higher diesel along Van Wyck and part of Atlantic Ave (Richmond Hill); Flushing near Van Wyck and Whitestone; BQE/LIE/Clearview carry many trucks, often bound for JFK; higher levels in Jamaica, Flushing, Sunnyside, Corona. No airport-specific measurement. | §8 Queens/Northern Blvd card; Sources |
+| Q-P3 | `DEC community air monitoring initiative Queens results Aclima ...` · WebSearch → WebFetch | https://dec.ny.gov/news/press-releases/2024/8/dec-releases-first-phase-results-of-statewide-community-air-monitoring-initiative | DEC Aug 13, 2024: 10 communities incl. Queens; pollutants incl. fine PM and black carbon (no ultrafine); Queens meeting Sept 24, 2024. | §8 (date of study); Sources |
+| Q-P4 | `LaGuardia JFK air pollution ultrafine particles Queens ...` · WebSearch → WebFetch | https://legislation.nysenate.gov/pdf/bills/2021/S966B | S.966-B (2021–22): DEC study of JFK/LGA noise and air incl. ultrafine particulates, report due Mar 31, 2024. Results not found. | not used |
+
+### Buildings, owners, theft (Q-B)
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| Q-B1 | carried Q-U1 | https://www.census.gov/quickfacts/fact/table/queenscountynewyork | Owner-occupied 44.9% (2020–2024). | §5 para 4; §5.5; §10.5 claim 5 |
+| Q-B2 | carried Q-U2 | https://www.furmancenter.org/neighborhoods/the-bronx/ | Bronx homeownership 19.7% (comparison "far higher than the Bronx"). | §5 para 4 |
+| Q-B3 | `Long Island City Partnership residential units built since 2010 ...` · WebSearch → WebFetch | https://www.6sqft.com/more-apartments-have-been-built-in-long-island-city-than-any-other-u-s-neighborhood-since-2010/ | 6sqft Jun 26, 2017 (RentCafe): 12,533 new units in 41 buildings in LIC since 2010, most of any U.S. neighborhood. | §7 LIC card; §9 H3 16; §13 card; Sources |
+| Q-B4 | `NYC Facade Inspection Safety Program Local Law 11 ...` · WebSearch → WebFetch | https://www.nyc.gov/site/buildings/safety/facade-local-law.page | FISP: buildings higher than six stories, inspection every five years; unsafe → immediate protection e.g. sidewalk shed; repairs within 90 days; sheds need DOB permits. | §7 elevator card; §8.5 bullet; §9 H3 9; §10.5 claim 6; Sources |
+| Q-B5 | `Queens building security cameras not working footage tenants complain Queensbridge ...` · WebSearch → WebFetch | https://www.dnainfo.com/new-york/20130729/long-island-city/queensbridge-tenants-say-long-time-scaffolding-blocks-security-cams.amp | DNAinfo Jul 29, 2013: Queensbridge TA president April Simpson: "Some of the scaffolding actually blocks the cameras"; NYCHA scaffolding since 2010 under Local Law 11. | §9 H3 9; §10.5 claim 6; Sources |
+| Q-B6 | `Queens homeowners doorbell camera footage NYPD ... 2025` · WebSearch → WebFetch | https://www.cbsnews.com/amp/newyork/news/queens-burglary-spree | CBS NY Jan 30, 2017: ~20 burglaries over four months in Hollis, Queens Village, Richmond Hill, South Ozone Park, St. Albans; homeowner identified suspects from own CCTV; at another home "They took the DVR". | §9 H3 12; Sources |
+| Q-B7 | `JFK airport cargo theft warehouse Queens 2025 OR 2026 ...` · WebSearch → WebFetch | https://queensda.org/multi-agency-investigation-takes-down-heists-crew-accused-of-stealing-and-selling-millions-in-designer-goods-from-jfk-defendants-charged-with-conspiracy-larceny-and-other-crimes/ | Queens DA Oct 29, 2020: heists Jan 31 and May 17, 2020, >$6M designer goods from JFK air cargo; surveillance video showed defendants entering a closed salon (Guy R. Brewer Blvd & 147th Ave, Jamaica) used as stash; accusations only. | §8 JFK card; §9 H3 15; Sources (salon not named on page) |
+| Q-B8 | `Queens basement apartment legalization 2024 City of Yes ...` · WebSearch → WebFetch | https://chhayacdc.org/legalize-adus-to-help-our-neighbors-in-their-homes/ | Est. 376,000 basement apartments citywide (Chhaya, Queens Chronicle Aug 29, 2024); no Queens figure. | not used |
+| Q-B9 | carried Q-L3, Q-L12, Q-L13, Q-L14 | Jamaica station; SBS BID list; Jackson Heights; LPC guidebook | Jamaica station weekday >200,000, AirTrain; Downtown Flushing BID, Jamaica Center BID; Jackson Heights HD 1993 ~600 bldgs; LPC camera permit guidance. | §7; §8; §13; Sources |
+| Q-B10 | carried silo G1, G2, G8, G9, G10 | 9 NYCRR 125.3; A.9470-B; Admin Code §22-1202; Penal Law 250; DOS licence | as silo file. | §8.5; §9 H3 7 |
+
+### Prices used (§9 Queens = 1.05 × silo base §2.7, round half-up)
+Tune-up $150–$350 → **$158–$368**; home/small-building plan $200–$500/yr → **$210–$525/yr** (per camera $50–$150 → **$53–$158**); commercial $1,000–$5,000+ → **$1,050–$5,250+**; same-day $190–$900 → **$200–$945**; $195/hr, 3-hr min ($585) unmultiplied. Service schema AggregateOffer low 158 / high 5250. No other prices on the page.
+
+### Keywords (Queens geo layer)
+security camera maintenance Queens; CCTV maintenance Queens NY; camera maintenance plan Queens; flooded recorder Queens; basement DVR Queens; salt air cameras Rockaway / Broad Channel / Hamilton Beach / Howard Beach; St. Albans, Hollis, Jamaica, Flushing, Woodside, Astoria, Long Island City, Ozone Park, Bayside, Jackson Heights, Springfield Gardens / JFK freight. All 11 image alts carry "Security camera maintenance Queens".
+
+### New questions for the silo register — security-camera-maintenance-queens (REBUILT 2026-10-18, revised after brooklyn/dutchess/nyc rebuilds)
+§9 Q&A (H3):
+1. Our St. Albans basement rarely floods outright but stays damp all year from groundwater — what does that do to the recorder and switch?
+2. We want a camera watching the sump pit and floor drain — how should it be set up so a rising water line reaches our phone before it reaches the recorder?
+3. Our co-op's below-grade garage takes water from the ramp drain in heavy storms — what is different about maintaining the garage cameras?
+4. Our Broad Channel house was raised after Sandy and the cameras moved two storeys up — what changes when they sit that high on a house on piles?
+5. Our pan-tilt camera on Rockaway Beach Boulevard grinds when it turns — is blown sand the cause?
+6. Does a stainless steel or marine-rated camera on a Rockaway beach block still need maintenance visits?
+7. Our Astoria building loses power every few summers — how long should a battery backup keep the recorder running, and is it worth having?
+8. After a nor'easter, how can we tell from the phone app whether the storm damaged anything?
+9. Contractors re-pointing our brick disconnected two cameras and put them back crooked — who should check the system after building work?
+10. Our Ozone Park two-family sits empty between tenants — what should be set up so the cameras keep watching a vacant house?
+11. Burglars in Hollis took the DVR along with everything else — how do we keep footage if the recorder itself is stolen?
+12. We are selling our house in Bayside — what should happen to the cameras, the app account and the recordings?
+13. The cameras run on the downstairs tenant's Wi-Fi — what breaks when they change the router password?
+14. Which cameras at a freight building near JFK deserve a longer recording setting than the rest?
+15. The developer handed our Long Island City condo board a camera system with no paperwork — what should the first maintenance visit produce?
+§17 FAQ (accordion = FAQPage, 9):
+1. Can you raise our recorder off the basement floor on the same visit as the tune-up?
+2. Do you need to go inside the tenant's apartment to reach a camera or the router?
+3. On a bayside block, can the visit be timed around high tide?
+4. How long does a typical visit to a Queens two-family house take?
+5. Does someone have to be home for the whole visit?
+6. Will you come while there is still standing water in the basement?
+7. Will you remove old cameras and cable a previous installer left behind?
+8. Will you label the breakers and outlets the camera system uses?
+9. Is there a charge for the written estimate before we decide on a plan?
+§10.5 claims: 1 IP67 on the box means water will never get in · 2 Salt corrosion is only a beachfront problem · 3 Wi-Fi cameras can't be knocked out by a flooded basement · 4 A recorder that powers back up after a flood is fine · 5 A battery backup keeps cameras recording through any outage · 6 Once the floodwater recedes, the outdoor cameras are fine · 7 Moving the recorder upstairs is all the flood protection a system needs.
+Revision (coordinator, after brooklyn/dutchess/nyc landed): dropped for overlap — "dried-out flooded recorder trusted again?" (= Brooklyn Q1), "rain down the cable into porch camera" (= Brooklyn Q3), "Broad Channel screws rusting" (= Brooklyn Q4), "Hamilton Beach camera fogs — water inside?" (= Brooklyn Q2), "sidewalk shed → plywood view" (= NYC Q2) and claim "scaffolding is the contractor's problem" (= NYC claim 3), claim "maintenance plans are for businesses" (≈ NYC claim 2), claim "live picture = recording" (≈ Putnam claim 4), FAQs "Saturday booking" (≈ NYC FAQ3), "van parts" (= Brooklyn FAQ9), "two houses one visit" (≈ Dutchess FAQ7 / NYC multi-site). Q1 reframed from sump/height (NYC Q12 asks where an Ida-flooded recorder should live) to damp-air corrosion; vacant-house Q reframed away from Dutchess remote/offline items. Closest remaining neighbours: Q6 vs Brooklyn Q6 (beach cleaning routine vs whether marine housing removes visits); Q8 vs old "Can I do any maintenance myself?"; Q7 vs Bronx UPS-age; Q14 vs Bronx detective-overwrite — judged distinct.
+
+### Images (11) — permanent image rule
+Drive "AESS Website Photos" has no maintenance folder (per brief); CompanyCam not connected. Borrow pool: images/nvr-installation/, images/hikvision-security-camera-installation/, images/dahua-camera-installation/. Each candidate viewed (contact sheets + full views); compared visually with the 11 Bronx maintenance images and excluded every same-scene file (stained-ceiling corner turret, motion-sensor wall camera, mini-dome + speaker ceiling, painted fascia / mural winter-sky dome, return-air-grille bullet). Excluded store monitor grid (customers visible). PIL → WebP q80 (all ≤1600 px already; no resize).
+| File (images/security-camera-maintenance/) | Source | Section |
+|---|---|---|
+| security-camera-maintenance-queens-recorder-playback-of-paved-lot-along-brick-wall.webp (hero, eager, og) | images/nvr-installation/nvr-installation-bronx-recorder-playback-brick-wall-to-lot.webp | Hero |
+| security-camera-maintenance-queens-network-cable-bundles-above-open-ceiling.webp | images/nvr-installation/nvr-installation-bronx-network-cable-bundles-along-ceiling.webp | §5 |
+| security-camera-maintenance-queens-black-ball-camera-at-drop-ceiling-edge.webp | images/nvr-installation/nvr-installation-long-island-black-ball-camera-at-ceiling-edge.webp | §6 |
+| security-camera-maintenance-queens-dome-camera-on-long-arm-below-stone-cornice.webp | images/nvr-installation/nvr-installation-bronx-camera-on-steel-arm-stone-facade.webp | §7 |
+| security-camera-maintenance-queens-mini-dome-over-wood-slat-wall-near-light-panel.webp | images/hikvision-security-camera-installation/…-westchester-county-mini-dome-at-ceiling-edge-over-wood-slat-wall.webp | §8 |
+| security-camera-maintenance-queens-white-bullet-on-junction-box-product-photo.webp | images/hikvision-security-camera-installation/…-long-island-white-varifocal-bullet-with-junction-box-product-photo.webp (manufacturer) | §9 |
+| security-camera-maintenance-queens-recorder-view-of-crowded-back-storeroom.webp | images/nvr-installation/nvr-installation-bronx-recorder-tile-dim-back-storeroom.webp | §9 |
+| security-camera-maintenance-queens-bullet-camera-aimed-down-white-corridor.webp | images/nvr-installation/nvr-installation-bronx-bullet-camera-down-corridor-to-door.webp | §9 |
+| security-camera-maintenance-queens-stainless-steel-housing-camera-product-photo.webp | images/dahua-camera-installation/…-orange-county-stainless-steel-housing-bullet-camera-product-photo.webp (manufacturer, Dahua logo) | §10 |
+| security-camera-maintenance-queens-black-varifocal-dome-product-photo.webp | images/hikvision-security-camera-installation/…-long-island-black-varifocal-dome-product-photo.webp (manufacturer, Hikvision logo) | §10 |
+| security-camera-maintenance-queens-slim-network-video-recorder-product-photo.webp | images/hikvision-security-camera-installation/…-long-island-network-video-recorder-product-photo.webp (manufacturer) | §14 |
+DAILY-LOG note: `images: 11 = 7 real AESS job photos from other jobs + 4 manufacturer product shots (no real security-camera-maintenance photos yet)`. Note: 5 of the 7 real photos were also used on nvr-installation-bronx (different silo).
+
+### FLAGS (Queens page) — unsourced house practices / for Anwar
+1. Prices: silo §2.7 flags carry over ($200 same-day floor vs $585 three-hour minimum; silo ranges never re-derived).
+2. House practices stated as AESS practice, no external source: drip loops / cable-entry caps / gland re-tightening; fresh-water salt rinse before cleaning; stainless fasteners and avoiding stainless-on-bare-aluminium contact; raising recorder + switch + UPS + power strip above the water line; dehumidifier advice; documenting sump vs camera circuits; camera aimed at sump pit; "do not power a wet recorder", drive to a data-recovery service first; "a recorder that sat in floodwater is usually cheaper to replace than to trust"; battery runtime measured against load, clean-shutdown setting, auto-restart check; scaffold re-aim / temporary camera / before-and-after reference snapshots; remote health alerts tested by unplugging; owner monthly checklist; remote checks "where the owner gives us viewing access"; off-site/cloud copy of key cameras; separate internet line or guest network for cameras; account handover on sale; per-camera priority retention for freight; condo documentation baseline; Saturday visits (relies on Mon–Sat hours in schema copied from Bronx page); tide-timed visits; "a couple of hours" for 4–8 cameras; van stock list; no work in standing water — Con Ed/electrician first; two houses back-to-back each with own quote; free same-day estimates (site-wide copy); "most faults fixed within 1–2 hours of arrival" (blueprint element 36 wording).
+3. ADT/Ring/SimpliSafe comparison table (now 2 rows) is general product knowledge, not sourced this build.
+4. Field Notes ("Find the Water Line First") is installer-voice method in Anwar's name, not a specific Queens job — confirm or replace.
+5. Queens Chronicle air-monitoring article shows no year; dated 2024 from DEC's Aug 13, 2024 release and Sept 24, 2024 Queens meeting advisory.
+6. No Queens source for airport ultrafine-particle deposits or salt-air corrosion of electronics — the page does not claim either; salt facts are IP-code / IEC test-standard only.
+7. Hoodline Woodside rescue: article date Jul 20, 2026 vs embedded FDNY post "Saturday" — page says "two days later" (after NY1's Saturday Flushing floods), consistent with article date.
+8. FINAL check (revision 2): `tools/check_page.py security-camera-maintenance-queens` → **PASS**, 13,047 words, 182,659 bytes (size window 182,620–182,680 set by coordinator; comparison table cut to 2 rows). Earlier check (revision 1) → 13,669 words, title 60, meta 156, 11 figures, 6 JSON-LD blocks, 9/9 FAQ; only failures = 11 × "live sibling … doesn't link back to /security-camera-maintenance-queens" (brooklyn, dutchess-county, hudson-valley, long-island, manhattan, nassau-county, rockland-county, staten-island, suffolk-county, ulster-county, westchester-county) — main-run wiring. Registration (sitemap/_redirects/hub link-down) passed as already present.
+9. Similarity (masked, difflib word sequence over body paragraphs ≥12 words): page vs every silo page ≤0.117 (bronx 0.116, putnam 0.117, orange 0.099, others ≤0.034). Paragraph pairs ≥0.65 only where the verbatim warranty sentence dominates (protected text, excluded per v2.3 §2). Brooklyn, NYC and Dutchess were still old-template files at check time — re-run after the parallel rebuild lands.
+10. Revision 2 similarity (masked paragraph SequenceMatcher vs rebuilt brooklyn, nyc, dutchess-county, orange-county, putnam-county, bronx): no non-boilerplate paragraph ≥0.65; only pairs ≥0.65 are those carrying the protected verbatim warranty sentence. New house practices added in revision 2 (unsourced): sump-pit flood-watch camera with tape mark and area-change alert, bucket test; garage junction boxes raised/re-sealed, domes washed not wiped; raised-house mount/chafe checks and moving under-house equipment up; PTZ sand/preset checks, fixed-camera alternative; recorder shelf on same visit; removing abandoned cameras; labelling breakers; Wi-Fi flood risk via basement modem/router.
