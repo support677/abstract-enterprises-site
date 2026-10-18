@@ -1631,3 +1631,310 @@ Meaning check: compared against the full register (Bay Ridge → Edenwald) and t
 | black-dome-camera-at-drop-ceiling-edge.webp | images/nvr-installation/nvr-installation-westchester-county-black-dome-camera-on-drop-ceiling-above-tall-white-wall.webp | AESS job photo |
 | small-dome-near-track-lights-in-shop-ceiling.webp | images/nvr-installation/nvr-installation-staten-island-dome-camera-beside-track-lights-on-drop-ceiling.webp | AESS job photo |
 First picks (fascia, cornice, rack crops) were pixel-identical to Indian Village's concurrent images and were replaced. Captions: "Manufacturer product photo, used as a reference" / "Photo from the AESS job library, not taken in Laconia". Real access-control photos still needed (Drive "AESS Website Photos/Access Control").
+
+
+## Marine Park, Brooklyn (access-control-installation-marine-park-brooklyn-ny)
+
+Built 2026-10-18 (batch 22, REBUILD of a crawled-not-indexed template page; nothing from the old text reused). Up-link /access-control-installation-brooklyn; phone (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn); prices Brooklyn ×1.00 from /access-control-installation-brooklyn.html (table figures; hub FAQ's $4,000–$10,000 multi-door figure not used). Silo-level legal findings (BC 1010.1.9 / 1010.1.9.8 / 1010.1.9.9, LL63/2021, MDL §50-a, UL 294/UL 325) reused from earlier sections of research/access-control-installation.md.
+
+Thesis: Marine Park has no subway station, so households drive; its housing is mostly 1910s–1940s one- and two-family detached and semi-detached houses with side driveways, rear garages, paved yards and basements that open to the yard, in a neighborhood of city-worker households (police, firefighters, teachers). The daily entrance is the side or back door, reached from a parked car, often before dawn or after dark. Entry is planned from "the minute between the car and the latch": driveway video checked from the car, light along the path, fast credentials at the side/back door, auto-lock with confirmation, garage and basement on the same code list, schedule-aware alerts for rotating shifts, and locks fitted to century-old doors. Sidewalk/car crime is explicitly stated as outside what a door system can stop. Deliberately distinct from Gerritsen Beach (flood), Mill Basin, Bergen Beach, Flatlands, Sheepshead Bay, Madison, Homecrest, and from the Bronx house pages (Edenwald/Country Club/Indian Village: gates, cellar hatches, hospital campus).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Marine_Park,_Brooklyn | Bounded mostly by Gerritsen Ave, Flatbush Ave, Avenue U, Kings Hwy; neighbors; CD18; ZIP 11229/11234; Gerritsen Creek westernmost inlet of Jamaica Bay, creek north of Ave U made a storm drain ~1920; Pratt & White offered ~150 acres 1917, accepted after 7 years; civic association 1926; Lott House 1720; gristmill burned 1935, pilings visible at low tide; 63rd Pct (also Bergen Beach, Mill Basin, part of Flatlands); 2022: 119 burglaries, 135 GLA, crime −82.7% 1990–2022; buses B2, B3, B9, B31, B41, B44, B46, B47, B100, BM4, Q35; no subway, nearest Kings Highway (Brighton) in Midwood; Belt Pkwy at Flatbush Ave exit; park 530 acres; gallery "brick row houses on Gerritsen Avenue"; caption "Gerritsen Avenue, a major traffic corridor" | §5 paras 1, 3, 6; facts list; business (Gerritsen Ave); landmarks (creek, mill); AI check #1; sources |
+| 2 | Marine Park Brooklyn row houses common driveway rear garage | Firecrawl search → scrape | https://www.brickunderground.com/buy/buy-curious-marine-park-pricing-houses-restaurants-backyards-parking | July 13, 2022: generations of city employees (police, firefighters, teachers); no subway, residents take bus; unmetered streets, no alternate-side parking; most housing 1- and 2-family detached/semi-detached 1910s–1940s; frame houses/duplexes ~1,100 sq ft, brick 1,200–2,200; co-ops on south/west borders; few small low-rise condos in center; no rental apartment buildings (renters in 2-family houses or above shops in low-rise mixed-use); buses; Flatbush Ave = commercial corridor; golf course (Robert Trent Jones Sr., 1964, 18 holes, year-round); Snake Park; Lott House; Kings Plaza "right over the border"; restaurant/deli types; Quentin Deli (3420 Quentin Rd); listing 4011 Quentin Rd detached garage with bathroom convertible to guest room/office | hero, §5 paras 2–3, facts list, architecture cards, business section, Q&A B5, landmarks, sources |
+| 3 | (scrape, query mode) | Firecrawl scrape | https://www.brownstoner.com/real-estate-market/marine-park-brooklyn-homes-for-sale-3622-avenue-r-garage-wood-burning-fireplace-parking/ | June 3, 2020: 1920s house at 3622 Avenue R; period ads for "English style"/"brick period" homes with the newly important garage; rear garage; driveway for more cars; back yard paved over; basement reached by stair off kitchen or from rear yard | §5 para 2, architecture, Q&A B1 (landing), sources |
+| 4 | (scrape, query mode) | Firecrawl scrape | https://thevalvoteam.com/blog/marine-park-or-flatlands-choosing-space-and-value-for-your-next-move | May 7, 2026 (local sales team): median lot 1,742 sq ft (vs Flatlands 2,178, "according to the research"); detached/semi-detached homes with modest yards, garages, narrower driveways; 20x100 semi-detached example | §5 para 2 (attributed), sources |
+| 5 | Marine Park Brooklyn burglary OR "package theft" OR "car stolen" 63rd Precinct 2025 | Firecrawl search | https://www.facebook.com/groups/MarineParkBrooklyn/posts/7151350344963924/ | Excerpt only: residents discussing repeated package theft in Marine Park | §5 para 6 (hedged: "trade tips … in a local Facebook group"), sources (excerpt-only line) |
+| 6 | "Marine Park" Brooklyn home break-in OR burglars OR "followed home" OR "door" brooklynpaper OR bkreader OR "Brooklyn Eagle" | Firecrawl search → scrape | https://brooklyn.news12.com/4-people-wanted-in-home-burglary-in-marine-park | Mar 9, 2026: Feb 23 at 4:30 p.m., four people entered a home on East 34th St and Avenue N, removed two smart TVs; entry method not stated | §5 para 4, Q&A C3, sources |
+| 7 | (same search) | Firecrawl scrape | https://brooklyn.news12.com/2026/08/27/group-wanted-in-marine-park-armed-carjacking/7EhnNmuwCdD2GQtLaxMbY | Aug 18, 2026, 4:40 a.m., in front of 1551 E 33 St: six people removed a 66-year-old from his car (sitting inside), two displayed firearms, fled in car | §5 para 4 (house number omitted), thesis section, Q&A A3, sources |
+| 8 | (same search) | Firecrawl scrape | https://brooklyn.news12.com/2026/07/30/man-robbed-at-gunpoint-in-marine-park/2kDYhhrqOPJ3gTMNjsvUwz | Jul 30, 2026, just before 6:30 p.m., 2462 Flatbush Ave: 71-year-old robbed at gunpoint while entering his car (~$780) | §5 para 4, thesis section, sources |
+| 9 | (same search) | Firecrawl scrape | https://www.brooklynpaper.com/two-in-custody-after-violent-marine-park-home-invasion/ | Oct 9, 2018: 5:30 a.m. Oct 8 home invasion on Madison Place; retired police lieutenant (72) and wife (71) attacked; car stolen; couple burglarized previous July (firearm taken — NOT used on page) | §5 para 4, Q&A C2 (how entry happened stated as unknown), sources |
+| 10 | Hendrick I. Lott House 1940 East 36th Street Marine Park history Underground Railroad | Firecrawl search | https://en.wikipedia.org/wiki/Hendrick_I._Lott_House ; https://historichousetrust.org/houses/hendrick-i-lott-house/ ; https://www.nycgovparks.org/parks/hendrick-i-lott-house/facilities/historichouses | 1940 E 36th St between Fillmore Ave and Avenue S; c.1800 house incorporating 1720 homestead; NYCL Oct 3 1989; NRHP 1994; bought by NYC Parks 2001; Feb 2025 reports of conversion to house museum, restoration from 2026; HHT: farm 200+ acres, possible Underground Railroad stop, closed for restoration | facts list, landmarks, mentions schema, sources |
+| 11 | Salt Marsh Nature Center Marine Park Avenue U East 33rd Street NYC Parks | Firecrawl search | https://www.nycgovparks.org/parks/marinepark/facilities/naturecenters ; https://www.nycgovparks.org/parks/marine-park/events/2026/03/28/25-years-of-the-salt-marsh-nature-center ; https://www.marineparkalliance.org/the-park/facilities-map/salt-marsh-nature-center/ | E 33rd St & Avenue U; weekend hours; parking lot off Avenue U; "25 Years of the Salt Marsh Nature Center" event Mar 28 2026; base of Brooklyn Urban Park Rangers, Forever Wild preserve | facts list, business (Avenue U), landmarks |
+| 12 | NYPD 63rd Precinct address 1844 Brooklyn Avenue Marine Park Mill Basin Bergen Beach Flatlands | Firecrawl search | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/63rd-precinct.page | 1844 Brooklyn Avenue, Brooklyn 11210 | facts list, mentions schema |
+| 13 | Brooklyn Community Board 18 office address neighborhoods Marine Park Canarsie Flatlands | Firecrawl search | https://www.nyc.gov/site/brooklyncb18/index.page | 1097 Bergen Ave 11234; serves Amersfort, Bergen Beach, Canarsie, Flatbush, Flatlands, Fraser, Georgetowne, Marine Park, Mill Basin, Mill Island | facts list, mentions schema |
+| 14 | Marine Park Civic Association founded 1926 Brooklyn civic | Firecrawl search | https://www.marineparkcommunityassociation.com/about-us | Civic association officially incorporated January 10, 1926 (excerpt) | §5 para 1, mentions schema |
+| 15 | Marine Park Brooklyn Hurricane Sandy flooding homes basements Gerritsen Avenue | Firecrawl search | (results all about Gerritsen Beach: nyc.gov Resilient Neighborhoods PDF, City Limits, DNAinfo, First Street) | No Marine Park-specific Sandy figures found; flood left to the Gerritsen Beach page | architecture (basement "ask where water has reached"), not stated as a Marine Park fact |
+| 16 | (from search #2) | Firecrawl search | https://www.reddit.com/r/Brooklyn/comments/1alwfe5/marine_park_thoughts/ | Excerpt only: "one of the biggest floodplains of Brooklyn, so definitely avoid basement or 'garden' floor apartments" | architecture (basements, hedged as residents' warning), sources (excerpt-only line) |
+| 17 | Google PAA / PASF / AI Overview for "access control Marine Park Brooklyn" | Google | — | EMPTY (not accessible in build env) | AI section intro says so |
+| 18 | Answer the Public | ATP | — | EMPTY (not accessible in build env) | — |
+| 19 | Bing / DuckDuckGo autocomplete & related | Bing/DDG | — | EMPTY (not accessible in build env) | — |
+| 20 | Yelp 1–3★ locksmith / access control Marine Park | Yelp | — | EMPTY (not accessible in build env) | — |
+| 21 | Reddit thread bodies (r/Brooklyn) | Reddit | — | EMPTY (not accessible in build env — excerpts only via search) | — |
+| 22 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html | Single door $1,500–$2,500 incl. reader, strike, wiring, 10 fobs; keypad personnel door $1,500–$2,000; video intercom w/ fob $1,500–$3,000; card readers multiple office doors $4,000–$12,000; multi-door $4,000–$15,000; full building $15,000–$40,000+; $195/hr 3-hr min ($585); $250 service call; Cat6 from $175/drop, Cat6A $250; tax 8.875%; <$500 full upfront, >$500 50% deposit (per earlier silo sections) | Pricing table, packages, Service schema |
+
+### Keyword layers
+- Service: access control installation Marine Park, keypad deadbolt, side door keypad, garage door keypad, video door station, smart lock installation, driveway camera
+- Problem: dark walk from the car, carjacking/robbery at parked cars, daytime house burglary, doors left unlocked on early departures, copied keys, glass-panel reach-through, weak 100-year-old frames
+- Technology: door position sensor, auto-lock, encrypted fobs, wireless bridge, cellular camera, controller with battery backup, BHMA grade, UL 294
+- Industry: homeowners, two-family owners, shift-working households, Flatbush Avenue restaurants and shops, small co-op/condo boards
+- Geographic: Marine Park, Gerritsen Avenue, Flatbush Avenue, Avenue U, Kings Highway, Avenue R, East 33rd/34th/36th Street, Quentin Road, 11229/11234, CB18, 63rd Precinct
+
+### Unsourced / AESS practice (stated on page as practice or general guidance, not as local fact)
+- "20–40 steps" car-to-door distance is written as a typical-lot estimate in the thesis section and SVG (schematic, not to scale).
+- Split side-door landing (steps up to kitchen, down to basement) described as a common 1920s Brooklyn layout from installer experience; Brownstoner supports the kitchen/yard basement access only.
+- BHMA Grade 1/2/3 description, wrong-code lockout behavior, 9-volt jump contacts on many keypad locks, old bell wire as pull string, steel-door electric hinge — general industry knowledge.
+- "Uniformed city jobs work tours … hospital and transit workers" in the hours section generalizes from Brick Underground's police/firefighter/teacher statement.
+- Recording/notice wording for the 2026 incidents avoids entry methods (not reported).
+
+### Flags
+- 1551 E 33 St house number from News 12 omitted on page (described as "a house on East 33rd Street").
+- 2018 Madison Place: firearm-theft detail from the earlier burglary left off the page.
+- Valvo Team median lot size is the sales team's own research figure; attributed as such.
+- Facebook package-theft post and Reddit floodplain comment are search excerpts only.
+- Golf course location within the park not stated (unsourced).
+- No rendered (Playwright) QA available in the build environment.
+
+### Question register
+Q&A (§9, H3 questions):
+1. We get home from overnight tours around 5 a.m. Can we check the driveway and the side path on a phone before we get out of the car?
+2. Our side door sits halfway down a narrow driveway, out of sight of the street. Which way of unlocking it is quickest in the dark: a phone, a fob, a code or a key?
+3. A man was pulled from his parked car outside a house on East 33rd Street at 4:40 one morning. Can an entry system shorten the time we spend sitting in the car out front?
+4. When we pull away before dawn, can the house confirm every door is locked without anyone walking back to check?
+5. Our garage is at the back of a driveway we share with the house next door. Can the garage side door and our back door use the same code without the neighbors’ code working on either?
+6. Our side door opens onto a small landing, with steps up to the kitchen and steps down to the basement. Where should the lock and the sensors go?
+7. Our carport is open on two sides. Will a keypad mounted beside the door under it get wet?
+8. Our 1920s house still has its original doorbell wire running to the front and side doors. Can a new keypad or door station reuse it?
+9. How do you tell whether a hundred-year-old door frame is strong enough to hold an electric lock?
+10. The detached garage behind our house is now an office with a bathroom. How should its door be controlled compared with an ordinary garage?
+11. We both work rotating tours, so the house is empty at different times every week. Can door alerts follow that kind of schedule?
+12. After a first break-in, what should change at the doors before anything else?
+13. Burglars carried two televisions out of a house near East 34th Street and Avenue N at 4:30 on a February afternoon. What would a door system have recorded that helps afterwards?
+(Other H2/H3 headings with "?": "Need Access Control Repair in Marine Park? Same Day", "Coming Home in the Dark This Winter?", "Locked Out at the Side Door Before Work?" — CTA headings, not Q&A.)
+
+FAQ (§17 = FAQPage schema):
+1. Will a keypad on a door that faces the afternoon sun fade or fail?
+2. What should we keep on paper in case the app, the phone or the lock company stops working?
+3. Will the keypad's light or beeps let a passer-by tell whether we are home?
+4. We have a second-floor deck with stairs down to the yard. Does the deck door need the same lock as the ground-floor doors?
+5. What lock grade should an outside door have?
+6. Is there anything we would need to buy that is not on the quote?
+7. One of us works nights and sleeps until early afternoon. Can you schedule the installation around that?
+8. Is a lever handle or a knob better with a keypad lock when we are carrying things in from the car?
+9. What happens if someone keeps trying wrong codes on our keypad?
+10. Our back door is a steel replacement door a previous owner put in. Can a keypad lock go on it?
+
+Questions dropped during drafting because they repeated register intents: glass panel beside the thumb-turn (Fieldston, Indian Village), lights on with door use (Country Club, Edenwald), old wiring powering a controller (Fieldston), forced-vs-opened detection (Cobble Hill), renovation pre-wiring (Country Club), siding mounting (Edenwald), enclosed porch outer/inner door (Bedford Park), plaster cable route (Boerum Hill).
+
+### Images (11, images/access-control-installation/, WebP q80, ≤1600 px, each source viewed first; no faces, house numbers, plates or readable documents)
+All 11 are manufacturer product photos; captions start "Manufacturer product photo, used as a reference:". No ImageObject contentLocation. Every source was checked by dHash against images/access-control-installation/ (distance >12) and then by eye against the two concurrent batch pages, because crops of one scene defeat dHash. Six job photos first chosen were dropped after viewing because the same scenes (different crops) were already used: dome on steel arm over a masonry facade (Fulton Ferry), dealership exit-sign ceiling and steel-door back corridor (Morris Heights, same batch), recorder/rack cabling (Melrose, same batch), recorder tile of brick wall and paved lot, small camera with wall sensor, storeroom-corner dome (all Morris Heights, same batch). Also rejected on sight: dealership lobby (Toyota signage), "Coffee, ATM, Juice Bar" storefront (readable sign; same storefront family as Gowanus/Melrose), multiview recorder screen (small figures, timestamp). The non-AI AESS job-photo pool is now effectively exhausted for this silo.
+- access-control-installation-marine-park-black-video-intercom-door-station.webp ← images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-brooklyn-black-video-intercom-door-station-product-photo.webp (Axis; hero, eager)
+- access-control-installation-marine-park-video-doorbell-with-bell-button.webp ← images/uniview-camera-installation/uniview-camera-installation-staten-island-unv-black-video-doorbell-product-photo.webp (Uniview)
+- access-control-installation-marine-park-white-compact-indoor-camera.webp ← images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-westchester-county-white-compact-indoor-camera-product-photo.webp (Ubiquiti)
+- access-control-installation-marine-park-black-bullet-camera-on-swivel-mount.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-queens-4k-bullet-camera-product-photo.webp (Ubiquiti)
+- access-control-installation-marine-park-slim-black-desktop-recorder.webp ← images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-slim-black-desktop-recorder-product-photo.webp (Luminys)
+- access-control-installation-marine-park-white-turret-camera-with-twin-illuminators.webp ← images/security-camera-maintenance/security-camera-maintenance-bronx-turret-camera-twin-illuminators-product-photo.webp
+- access-control-installation-marine-park-white-pan-tilt-floodlight-camera-with-antennas.webp ← images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-white-pan-tilt-floodlight-camera-with-two-antennas-product-photo.webp (aosu)
+- access-control-installation-marine-park-floodlight-camera-with-motion-sensor.webp ← images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-white-round-lamp-floodlight-camera-with-motion-sensor-product-photo.webp (Swann)
+- access-control-installation-marine-park-solar-cellular-camera-with-sim-card.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-solar-cellular-ptz-camera-product-photo.webp
+- access-control-installation-marine-park-white-bullet-camera-on-wall-bracket.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-white-bullet-camera-on-wall-bracket-product-photo.webp (Dahua; small source, 264 px)
+- access-control-installation-marine-park-white-indoor-cube-camera-on-stand.webp ← images/lorex-camera-installation/lorex-camera-installation-brooklyn-white-lorex-indoor-cube-camera-on-stand-product-photo.webp (Lorex; small source, 180 px)
+Plus 5 inline SVG schematics drawn for the page (lot plan, cable routes, shift-alert timeline, glass-panel door, who-opens-which-door grid); labeled "Schematic, not to scale" / "Example only".
+
+
+## Melrose, Bronx (access-control-installation-melrose-bronx-ny)
+
+Built 2026-10-18 (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629 (direct) + (800) 486-0943 in header chrome. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), copied from /access-control-installation-brooklyn.html as earlier Bronx pages did (item labels reworded so no table row matches a sibling). Batch siblings linked: /access-control-installation-marine-park-brooklyn-ny, /access-control-installation-morris-heights-bronx-ny. 281,742 B; 13,717 rendered words.
+
+Thesis: Melrose was rebuilt building by building after the community-written Melrose Commons plan (approved 1994) — 2,800+ affordable units in the renewal area (Urban Focused) / 3,500+ new units since 1993 (Welcome2TheBronx 2017), by dozens of mostly nonprofit developers — so most entry systems are the *first* system a developer chose, now 15–30 years old. The page is about the **second system**: surveying an inherited system, staged changeovers in occupied buildings (overlap of old/new credentials, enrollment sessions, switch-off date), desk stations, access groups for owner / managing agent / social-service provider / program operator / venue, DV-survivor apartments, shared NYCHA-campus compactor rooms, Passive House door seals, townhouse rows, Hub storefront roll-down gates. Distinct from Laconia (design before walls close), Eastchester/Edenwald (houses on lots), Cobble Hill (governance of shared entrances), DUMBO (loft conversions). Neighbouring Hub/Mott Haven/Morrisania/Port Morris/Longwood/Concourse pages are old templates.
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | Melrose Bronx neighborhood boundaries Wikipedia Melrose Houses NYCHA | Firecrawl search (full excerpt) | https://en.wikipedia.org/wiki/Melrose,_Bronx | Bounded by St. Anns Ave (E), 149th St (S), Park Ave (W), 163rd St (N); Melrose Ave & Third Ave main streets; adjoins the Hub; CB1; ZIPs 10451/10455/10456; 40th Pct; NYCHA PSA 7 at 737 Melrose Ave; Third Ave El dismantled 1973; housing stock lost by 1980s; Melrose leads borough in LEED-certified apartment buildings, Via Verde largest (2013 Rudy Bruner silver); four pre-1900 churches (790 Elton Ave 1878, 744 Elton Ave 1885, 389 E 150th St 1887, 376 E 156th St 1895); five NYCHA developments, one of highest concentrations in Bronx | §5 ¶1–2, ¶7, glance list, architecture cards, sources |
+| 2 | Melrose Commons urban renewal area Bronx Nos Quedamos history | Firecrawl search → scrape | https://www.nycgovparks.org/parks/melrose-commons-park/history | Morris family grant; sold from 1850s; rapid transit 1908; commercial/entertainment center early 1900s; 1970s–80s disinvestment/arson; late-1980s renewal area to level 30 blocks for middle income without input from 6,000+ low-income residents; Nos Quedamos (chair Yolanda García) formed 1993; revised plan approved 1994; Melrose Commons Park opened 2023 as final piece, 1.38 acres, park ID X350, zip 10451; Yolanda García Park 3 blocks south (younger users); El Coquí Liberation garden new fence/gates | §5 ¶2–3, glance list, landmarks, timeline diagram |
+| 3 | (same search) → scrape | Firecrawl scrape | https://urbanfocused.wordpress.com/case-studies-2/259-2/ | (2014) City owned 71% of needed lots (tax default); 99 lots left to acquire; 168 meetings in one year; La Terraza 10+ funding sources; nonprofit developers took many buildings; 2,800+ affordable units since 1994 by "dozens of (mostly non-profit) developers and architects"; 1990 city plan announced; 1992 Nos Quedamos formed (CONFLICT with NYC Parks 1993 — page says "1992–93"); 2010 LEED-ND Silver | §5 ¶3, glance list, timeline diagram |
+| 4 | (same search) → scrape PDF | Firecrawl scrape (pdf parser) | https://whedco.org/wp-content/uploads/2017/01/01-13-2016-Welcome2TheBronx_23-Years-After-Approval-of-Melrose-Commons-Bronx-Commons-and-Bronx-Music-Hall-Break-Ground-in-Last-Vacant-Parcel.pdf | Ed García Conde, Jan 13, 2017: 3,500+ units of new affordable rentals, 2–3 family townhouses and condos since 1993, $650M+; Via Verde & St. Ann's Terrace just outside the zone; 2010 first LEED-certified neighborhood in NYS; Bronx Commons at Brook Ave & 163rd St last parcel; La Central ~1,000 units south of Via Verde to Westchester Ave; Melrose Commons Park on Melrose Ave between 159th–160th Sts; 2/5 at 3rd Ave–149th, Metro-North | §5 ¶4, architecture (townhouses), landmarks, timeline |
+| 5 | Via Verde Bronx affordable housing Brook Avenue 156th Street building | Firecrawl search → scrape | https://world-architects.com/en/architecture-news/film/the-history-of-via-verde | (Sep 2023) Brook Ave & E 156th St; Jonathan Rose Cos + Phipps Houses; Dattner, Grimshaw; 151 low-income rentals + 71 middle-income co-ops; green roofs | §5 ¶5, architecture (mixed rentals/co-ops), landmarks |
+| 6 | (same search) | Firecrawl search (excerpt) | https://www.dextall.com/blog/via-verde-bronx-prefabricated-building-facade-system | 700 Brook Ave, 222 units, completed 2012 | §5 ¶5 "completed in 2012", glance list (excerpt only) |
+| 7 | Bronx Music Hall Bronx Commons Elton Avenue opened WHEDco 2024 | Firecrawl search → scrape | https://whedco.org/housing/bronx-commons/ | WHEDco + BFC; 305 affordable apts incl. formerly homeless & DV survivors, 30–110% AMI; Bronx Music Hall ~250 seats; 22,000 sf retail on E 163rd St; west side of Elton Ave between E 162nd & E 163rd | §5 ¶6, business cards, Q&A DV/venue context, landmarks |
+| 8 | (same search) | Firecrawl search (excerpts) | https://esd.ny.gov/esd-media-center/press-releases/esd-announces-grand-opening-of-15-million-bronx-music-hall-in-the-south-bronx ; https://bronxmusichall.org/grand-opening-weekend/ | "Fully opened in 2024"; grand opening weekend Oct 18–20, 2024 | landmarks, timeline |
+| 9 | La Central Bronx Westchester Avenue Bergen Avenue YMCA BronxNet affordable housing completed | Firecrawl search → scrape | https://newyorkyimby.com/2021/06/first-two-properties-debut-at-la-central-affordable-housing-complex-in-melrose-the-bronx.html | Jun 18, 2021: 556 & 600 Bergen Ave buildings A & B, nearly 500 income-restricted units (30–100% AMI), YMCA, BronxNet studio, GrowNYC rooftop farm, retail; five buildings, 1,000+ apts; Breaking Ground + Comunilife Building D, 160 supportive/low-income units, 2019; BP Diaz "to The Hub" | §5 ¶6, business cards, landmarks, timeline |
+| 10 | Melrose Houses NYCHA Bronx built 1952 buildings apartments doors locks intercom | Firecrawl search → scrape | https://www.nyc.gov/site/hpd/news/044-24/171-new-100-affordable-homes-arrive-the-south-bronx | Oct 28, 2024 Melrose North: 171 apts on NYCHA Morrisania Air Rights campus; 103 supportive; S:US services; Bronx Pro; on-site super, front desk security, community room, intercoms in each residence; DreamYard arts space; accessible ramp to adjacent Melrose Metro-North station; Passive House certified; new interior garage compactor so NYCHA maintains operations; set-aside for NYCHA residents; $91M | §5 ¶6, architecture cards, Q&A compactor, FAQ Passive House, landmarks |
+| 11 | (same search) → scrape | Firecrawl scrape | https://www.melrosestories.org/exhibits/show/melrosehouses | NYU Gallatin 2017: Melrose Houses completed 1952, 1,000+ apartments, ~2,300 residents; "poor doors" discussion | §5 ¶7, glance list |
+| 12 | (same search) → scrape | Firecrawl scrape | https://www.thecityreporter.nyc/2022/09/21/most-nycha-buildings-have-open-doors-or-busted-locks/ | Sep 21, 2022: Comptroller review of 262 NYCHA developments Aug 3–Sep 8; 57.9% unsecured vs 23.5% in 2018; Bronx 63.5%; letter cites self-closing/self-locking rule; NYCHA will repair | NYCHA lesson section, §5 ¶7 |
+| 13 | Melrose Bronx building break-in OR package theft OR lobby door 40th Precinct 2025 OR 2026 | Firecrawl search (excerpts) | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/40th-precinct.page ; https://www.architecturalrecord.com/articles/17227-bigs-40th-precinct-is-a-big-upgrade-for-the-nypd-in-the-bronx ; Instagram excerpt | 567 E 149th St; 45,000 sf, $85M, BIG design; St. Ann's Ave & E 149th St corner. No Melrose door/package incident found → EMPTY for incidents | §5 ¶1, landmarks |
+| 14 | Hub Third Avenue BID Bronx 149th Street retail corridor stores | Firecrawl search → scrape | https://www.bxtimes.com/third-avenue-bid-outlines-plan-to-improve-safety-spur-growth-in-the-hub/ | Mar 31, 2026: CDNA (Sep 2024–Jun 2025); safety & cleanliness top priorities; ~17.5% storefronts vacant; 600+ businesses; dozens of new cameras (DRI) + 50+ light fixtures (SBS grant); La Central Phase 2 | business section |
+| 15 | (same search) | Firecrawl search (excerpt) | https://en.wikipedia.org/wiki/The_Hub,_Bronx | Hub where E 149th St, Willis, Melrose and Third Aves converge | §5 glance list, business ¶1 |
+| 16 | MTA new elevators Third Avenue-149th Street station 2025 accessible | Firecrawl search (excerpt) | https://www.mta.info/accessibility/stations | 3 Av–149 St accessible; elevators NW and SW corners of 149th & 3rd | landmarks, sources |
+| 17 | Lincoln Hospital Bronx 234 East 149th Street Morris Avenue NYC Health + Hospitals | Firecrawl search (excerpt) | https://www.nychealthandhospitals.org/locations/lincoln/ (+ contact page) | 234 E 149th St between Park & Morris Aves; 665 beds in operation | business card |
+| 18 | Melrose Metro-North station Park Avenue East 162nd Street Harlem Line | Firecrawl search (excerpt) | https://en.wikipedia.org/wiki/Melrose_station | Open cut beneath Park Ave at E 162nd St, Harlem Line | glance list, landmarks |
+| 19 | site:reddit.com Melrose Bronx building door buzzer packages living in Melrose | Firecrawl search | reddit.com/r/bronx (1ncjsgg, oigc78, 1kbh75w, 1jklo60), r/nychousinglottery 1kbijmh | Excerpts only (lottery apartments, new restaurants on 3rd Ave) → EMPTY (not accessible in build env); nothing quoted | — |
+| 20 | Melrose Commons two-family three-family homes homeownership Nos Quedamos townhouses Elton Avenue condos | Firecrawl search | listing sites (homes.com, zillow, redfin) | Listing excerpts only; not used. Townhouses sourced from W2TB (#4) | — |
+| 21 | Silo law reused (verified in earlier sections) | — | codes.findlaw.com MDL §50-a; amlegal BC 1010.1.9.8–9 (0-0-0-173513); HPD Tenant Data Privacy Law page | as recorded in Bay Ridge section | rules list, types table, AI check, FAQ |
+| 22 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html (via Laconia/Bedford Park convention) | $1,500–$2,500 single door; $1,500–$2,000 back-door keypad; $1,500–$3,000 video intercom w/ fob; $4,000–$15,000 multi-door; $4,000–$12,000 office readers; $15,000–$40,000+ full building; $200–$500 buzzer repair; $195/hr 3-hr min ($585); 8.875% tax; <$500 upfront, >$500 50% deposit | cost table, packages, FAQ cost, Service schema. Cable re-pulls, keeping old controller alive, elevator/camera integration, gate operators: "priced after the survey" (no invented figure) |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — "What AI Gets Wrong" answers "claims we hear repeated", attributes nothing to any tool
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit r/bronx Melrose threads: EMPTY (excerpts only, not used)
+- Melrose-specific door / package / break-in news: EMPTY (none found)
+- CB1 district office page: not fetched (CB1 membership from Wikipedia)
+- CompanyCam (Composio): not connected; Google Drive "AESS Website Photos": no Access Control folder
+
+### Flags (hedged / unsourced, written as AESS practice on page)
+- Unit-count figures differ by source and area (2,800+ in renewal area per Urban Focused 2014 vs 3,500+ since 1993 per W2TB 2017) — both quoted, page says why.
+- Nos Quedamos founding 1992 (Urban Focused) vs 1993 (NYC Parks) — page says "1992–93".
+- Via Verde "completed in 2012" from a Dextall search excerpt (World-Architects says Rose/Phipps began operating ~2013).
+- La Central, Lincoln Hospital and Via Verde sit on edges of Melrose; sources label them Melrose, the Hub or Mott Haven — stated on page.
+- Practices stated as AESS method, not local fact: staged changeover table and timeline, what is usually reusable, signs of end-of-life, enrollment logistics, access policy roles, desk alert rules, DV-apartment settings (directory codes, desk confirmation), venue/program door plans, compactor-room arrangement, townhouse group survey, roll-down gate staff door, monthly door check, handover folder, brand-neutral criteria, "ceilings drywall vs lay-in" hedged.
+- 125 kHz credential copyability from silo research (Bay Ridge row); not tested on any Melrose building.
+- Twelve inline SVG diagrams are AESS-drawn schematics (keep/replace door, changeover timeline, eras timeline — dates sourced, equipment bands labelled as AESS observation —, head-end side by side, survey record, enrollment flow, access-group matrix, building section, townhouse entries, credential comparison, monthly door check, desk station); none depicts a real building.
+
+### Question register
+Q&A (§9, H3):
+1. Nobody on our current staff knows where the access controller is or how the doors are wired. What does a survey of an older system involve?
+2. Parts for our lobby panel are no longer made. Can the readers, strikes and cable already in the walls stay when the controller is replaced?
+3. Should an aging system be replaced in one project or door by door as each piece fails?
+4. How do we re-badge a two-hundred-apartment building without residents queuing in the lobby for days?
+5. A nonprofit sponsor owns our building, a management firm runs it and a service provider has offices on the ground floor. Who should be allowed to change door schedules?
+6. Our case managers sometimes need to reach a tenant's floor quickly. How should their credentials differ from the maintenance staff's?
+7. Our front-desk officer can see the main door but not the side and rear entrances. What should the desk station show?
+8. Some apartments are set aside for survivors of domestic violence. What can the entry system do when a resident says a specific person must not get in?
+9. The arts space on our ground floor lets out a few hundred people at once after a show. How do we keep that crowd from following residents through the lobby door?
+10. A youth program uses our community-facility rooms after school. How should that door behave once the program staff leave for the night?
+11. Our building shares a campus with a public housing development, and a compactor room serves both. Who should control that door?
+12. Our asset manager wants the replacement documented for the building's file. What records should an access control project leave behind?
+13. Several of us bought townhouses on the same block when they were new. Is there any advantage to upgrading our doors together?
+14. Our Hub storefront has a roll-down gate over the door. Where does a reader go so opening staff aren't standing on the sidewalk with the gate half up?
+Other "?" headings: Lobby Reader Dead or a Door Stuck Unlocked in Melrose? · Residents Locked Out or a Lobby Door Wide Open Tonight? Call the Melrose Line (no "?" at end)
+
+FAQ (§17 = FAQPage schema):
+1. Will residents need new fobs, or can new readers accept the ones they carry now?
+2. Does replacing an older system mean opening finished walls and ceilings?
+3. Can the new system load the old resident list instead of someone retyping every name?
+4. Does AESS work on NYCHA buildings in Melrose?
+5. Our building is certified Passive House. Will an electric strike or a heavier closer hurt the door's air seal?
+6. Can one broken apartment intercom station be replaced without changing the lobby panel?
+7. Who trains the super and desk staff on the new system, and what do they get to keep afterwards?
+8. What does it cost to replace only a worn-out lobby panel and keep the rest of the system?
+9. Our original system still sends alerts to a company we never hired. How do we cut that link?
+10. How far in advance should tenants be told that the entry system is being replaced?
+
+Meaning check: compared against the full register (Bay Ridge → Laconia) and every access-control page on disk incl. the concurrent batch pages (marine-park, morris-heights) — check_page reports no masked duplicates. Avoided: existing fobs copyable (Bensonhurst?), previous managing agent's fobs, managing agent taking over, app/PMS issuing credentials, lottery vs market amenities, concierge desk still needs readers, 8-unit intercom duty, entry log for managing agent, how long readers last, keys→fobs switch time, home-aide codes, laundry hours, app language, old entry logs, Mitchell-Lama review, developer panel at handover, multiple buildings remotely, open-studios public, stockroom in cellar, cellar hatch. Closest kept: Q4 re-badge logistics vs "How long does it take to switch a lobby from keys to fobs without locking anyone out?" (different: enrollment queue for 200 households vs switch duration).
+
+### Images (11, images/access-control-installation/, WebP q80, each source viewed first; no faces, house numbers, plates or readable documents)
+| New file (access-control-installation-melrose-…) | Source | Kind |
+|---|---|---|
+| video-reader-with-camera-and-call-button.webp | images/avigilon-video-door-entry.jpg (logo reads "openpath") | manufacturer, unused in silo |
+| cable-home-runs-above-rack-and-recorder-screen.webp | images/parking/parking-lot-camera-installation-queens-home-runs-above-equipment-rack.webp | AESS job photo (same rack photo as other silo crops incl. Morris Heights) |
+| camera-monitor-above-shop-shelves.webp | images/warehouse-security-camera-installation/…-manhattan-ceiling-hung-monitor-showing-camera-grid.webp | AESS job photo (also on earlier silo pages) |
+| cameras-under-storefront-fascia.webp | images/lorex-camera-installation/…-long-island-two-cameras-on-yellow-fascia-corner-against-sky.webp | AESS job photo (crop of storefront photo used elsewhere; no sign text) |
+| white-dome-in-ceiling-corner.webp | images/lorex-camera-installation/…-manhattan-white-dome-camera-tucked-into-ceiling-corner.webp | AESS job photo |
+| bullet-camera-over-office-workstation.webp | images/warehouse-security-camera-installation/…-manhattan-ceiling-mounted-bullet-camera-over-workstation.webp | AESS job photo |
+| turret-between-ceiling-light-panels.webp | images/apartment-building-security-camera-installation/…-westchester-county-white-turret-camera-between-ceiling-light-panels.webp | AESS job photo |
+| shop-ceiling-over-stocked-shelves.webp | images/warehouse-security-camera-installation/…-manhattan-drop-ceiling-cameras-over-stocked-shelves.webp (left 90 px cropped to drop a posted paper) | AESS job photo |
+| ball-camera-at-ceiling-edge.webp | images/nvr-installation/nvr-installation-long-island-black-ball-camera-at-ceiling-edge.webp | AESS job photo |
+| turret-above-wall-motion-sensor.webp | images/dahua-camera-installation/…-suffolk-county-turret-camera-in-ceiling-corner-beside-flag.webp | AESS job photo |
+| turret-above-glass-entry-vestibule.webp | images/intercom-repair/intercom-repair-putnam-county-turret-camera-above-glass-entry-vestibule.webp | AESS job photo (same photo as Morris Heights' glass-entrance crop) |
+First picks (corridor to steel door, dealership exit-sign ceiling, masonry facade arm, blue-wall camera, stockroom dome, dome above wall screen) turned out to be crops of photos already on Gowanus/Indian Village/Fieldston and on the concurrent Marine Park / Morris Heights pages, and were replaced. low-voltage/, fiber-optic-installation/, cat6/, cat6-repair/ door/reader photos judged AI-generated (branded gloves/shirts) and NOT used. Captions: "Manufacturer product photo, used as a reference" / "Photo from the AESS job library, not taken in Melrose". Real access-control photos still needed.
+
+
+## Morris Heights, Bronx (access-control-installation-morris-heights-bronx-ny)
+
+Built 2026-10-18 (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629 (direct) + (800) 486-0943 in header chrome. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), copied from /access-control-installation-brooklyn.html as Laconia / Bedford Park did; row labels and uses rewritten. Batch siblings linked: /access-control-installation-marine-park-brooklyn-ny, /access-control-installation-melrose-bronx-ny.
+
+Thesis: Morris Heights is a hillside of rebuilt, largely regulated rental housing. (1) The slope gives buildings street doors on several levels (lobby uphill, cellar/boiler/yard doors on the lower street, side doors on public step streets: W 176th St stairs 71 + 95 steps), so the whole envelope goes on the system at once, with cable routed inside. (2) Owners answer to a regulator or funder (CD5: 7.5% homeownership; 7,527 LIHTC, 6,385 public housing, 2,636 Mitchell-Lama units), and many rehab-era intercoms from the city's post-1970s rehabs are aging out. (3) Public lessons: River Park Towers (Reliant: 30 to 1,600 cameras, displacement between buildings, incidents roughly level → phase campuses by door type, doors before cameras; THE CITY 2026 recertification evictions → keep entry data out of residency files), 1520 Sedgwick (2008 distressed sale, 2011 WHG takeover, $16.8M rehab incl. new building doors). Plus older residents (105 W Tremont senior building), vacate-order sections (Billingsley Terrace), University Ave deli back door pried (ABC7 2024), Jerome Ave body-shop keys. Different from Laconia (new construction), Melrose/Gowanus (lease-up), Cobble Hill (governance), Edenwald/Eastchester (houses).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | Morris Heights Bronx neighborhood history boundaries Harlem River University Avenue Sedgwick Avenue | Firecrawl search | (results list) | Pointed to Wikipedia, Substack, CityNeighborhoods, CB5 | — |
+| 2 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Morris_Heights,_Bronx | Boundaries W Burnside Ave / Jerome Ave / Cross Bronx Expwy / Harlem River; University Ave main thoroughfare; CB5; ZIPs 10452–10453; 46th Pct (2120 Ryer Ave); NYCHA PSA 7; 0.502 sq mi, pop 36,779 (2011); Seabury shipyard on Mathewson Rd; 1970s arson, city rehab from late 1970s, subsidized townhouses on vacant lots; 5–6 story tenements, hills, step streets; 10 NYCHA developments (Sedgwick Houses 7 bldgs 14–16 stories, University Ave Rehab, Morris Heights Rehab etc.); River Park Towers two 38 + two 44 stories, 1975, tallest in Bronx; Sedgwick Library 1701 MLK Blvd (1951 in Sedgwick Houses, 1994 building); Morris Heights Health Center; transit (4, B/D, Bx3/18/32/36/40/42, Metro-North) | §5 all ¶, glance list, §7 cards, §8, landmarks, sources, schema |
+| 3 | (scrape) | Firecrawl scrape | https://theneighborhoods.substack.com/p/morris-heights-the-bronx | May 15 2025: rises steeply from Harlem River past Clemente Park & River Park Towers, slopes to Jerome Ave with muffler/body shops under the 4; Burnside Ave N edge; step streets; 1520 Sedgwick 102-unit (called 18-story); Aug 11 1973 party (Cindy Campbell, DJ Kool Herc); 1920s Irish/Jewish families into 5–6 story buildings on University Ave; 1866 station; 1908 yacht | §5 ¶1, ¶3, §7, §8 Jerome card, lessons, landmarks |
+| 4 | (scrape) | Firecrawl scrape | https://www.nyc.gov/site/bronxcb5/about/our-neighborhoods.page | University Ave a.k.a. Dr. MLK Jr. Blvd; Cross Bronx Expwy "bisects" Morris Heights (conflict with Wikipedia boundary); bus routes; 46th Pct; BCC/Hall of Fame (University Heights) | §5 ¶1, §8 cards |
+| 5 | (search excerpt) | Firecrawl search | https://cityneighborhoods.nyc/morris-heights | Northern boundary W 179th St (conflict); Sedgwick Houses, Morris Heights Houses | §5 ¶1 (named as disagreement) |
+| 6 | 1520 Sedgwick Avenue building Mitchell-Lama tenants sale Workforce Housing Group affordability | Firecrawl search | https://workforcehousinggroup.com/1520-sedgwick-avenue-bronx-ny/ (excerpt full) | 102 low-income units, moderate rehab, leased up Sept 2013; 2008 investor; broken elevators, leaking roof, months without gas/heat; tenants enlisted Kool Herc + UHAB; WHG ownership 2011 | Lessons ¶5–6, landmarks |
+| 7 | (same search) | Firecrawl search (excerpt) | https://archive.nytimes.com/cityroom.blogs.nytimes.com/2008/03/03/city-rejects-sale-of-building-known-as-hip-hops-birthplace/ | Excerpt only: first time HPD rejected sale of a Mitchell-Lama building; scrape refused ("site not supported") | Sources note only (EMPTY for full text) |
+| 8 | (scrape) | Firecrawl scrape (query) | https://communityp.com/preservation-birthplace-hip-hop-bronx/ | Sept 27 2013: rehab ~$16.8M; new building doors, closed-circuit security system, new elevator cabs, new roof; 60–70% AMI | Lessons ¶5 |
+| 9 | River Park Towers Bronx renovation security lobby intercom tenants | Firecrawl search | https://www.pathsco.com/communities/metro-new-york/river-park-towers (excerpt) | 1,654 below-market Mitchell-Lama rentals | §5, §7, landmarks, sources |
+| 10 | (scrape) | Firecrawl scrape (pdf) | https://www.reliantsafety.com/wp-content/uploads/2019/12/river-park-case-study2.pdf | 1,625 units (conflict), ~5,000 tenants; Reliant from Jan 2013 with Omni acquisition; 30 exterior cameras → 1,600 in two years; dealers moved to building without cameras; occupancy ~1,100 → 1,600; incidents ~same, reporting up; 2015 hallway shooting tracked | Lessons ¶2–3, Q&A campus & cameras, AI #1, campus diagram |
+| 11 | (scrape) | Firecrawl scrape (query) | https://brightpower.com/case-study/river-park-towers/ | 1,654 units, owner Omni New York LLC, 1 MW cogeneration, backup power, -41% energy | Sources |
+| 12 | (scrape) | Firecrawl scrape (query) | https://www.thecityreporter.nyc/2026/05/29/river-park-evictions-lawsuit-bronx-lihtc-recertification/ | May 29 2026: Legal Aid suit vs River Park Bronx Apartments Inc., River Park Residences LP and Paths; nearly 500 eviction cases since July 2024 (~30% of units) over LIHTC recertification; no mention of fobs/logs | Lessons ¶4, AI #4 |
+| 13 | Morris Heights Bronx step street Undercliff Avenue stairs | Firecrawl search → scrape | https://onfootonwheels.squarespace.com/the-stair-streets-of-new-york-city/another-personal-best-west-bronx | W 176th St stairs Sedgwick→Undercliff 71 steps, Undercliff→Popham 95; W 175th 96; W 174th 76; Undercliff→Sedgwick 36 (Jan 2022, Michael Cairl) | §5 ¶2, landmarks, schema |
+| 14 | (scrape) | Firecrawl scrape | https://www.nyc.gov/site/ddc/about/press-releases/2019/pr-082819-Reconstruction-Clifford-Place-Step-Street.page | Aug 28 2019: $9.4M Clifford Place rebuild, 78 steps, 7 landings, Walton Ave–Grand Concourse; 64 step streets in Bronx; DDC titles it "in Morris Heights" though east of Jerome Ave | Sources (flagged) |
+| 15 | (scrape) | Firecrawl scrape | https://ephemeralnewyork.wordpress.com/2026/06/15/new-yorks-longest-step-street-is-this-dramatic-three-block-concrete-staircase-in-the-bronx/ | Longest step street is W 230th St (Spuyten Duyvil); background only | not used |
+| 16 | New York YIMBY Morris Heights Bronx permits filed residential building | Firecrawl search → scrape | https://newyorkyimby.com/neighborhoods/morris-heights | 105 W Tremont (Sept 2026), 1884 University Ave (Aug 2026), 1855 Harrison Ave 4-story (Aug 2026), Starhill Phase II 51 Featherbed Ln (Jul 2026), 1686 Davidson Ave 17 residences (May 2026) | §5 ¶5, §7, sources |
+| 17 | (scrape) | Firecrawl scrape (query) | https://newyorkyimby.com/2026/08/permits-filed-for-1884-university-avenue-in-morris-heights-bronx.html | 12-story, 115 ft, 29,204 sf, 53 residences, between W Burnside Ave & Morton Pl, near Burnside Ave (4) | §5, §8 Burnside card, schema |
+| 18 | 105 West Tremont Avenue affordable senior housing Morris Heights plans approved | Firecrawl search → scrape | https://newyorkyimby.com/2026/09/plans-approved-for-affordable-senior-housing-at-105-west-tremont-avenue-in-morris-heights-the-bronx.html | Sept 11 2026: 10-story, 97 affordable homes for older adults; Crown Holdings + The Community Builders; lobby with 24-hour reception, package room, community rooms; completion 2029 | §5, §8, Q&A older residents, schema |
+| 19 | Starhill Phase II 51 Featherbed Lane Morris Heights housing lottery | Firecrawl search → scrape | https://newyorkyimby.com/2026/07/housing-lottery-launches-for-starhill-phase-ii-at-51-featherbed-lane-in-morris-heights-the-bronx.html | Jul 11 2026: 6-story, 169 residences, 60 lottery units, $30,446–$126,240; Bronx Pro Group + SUS; Marvel Architects; on-site super, elevator, intercoms | §5, §7, §8, schema |
+| 20 | Morris Heights Metro-North station Hudson Line history opened Roberto Clemente State Park Harlem River | Firecrawl search → scrape | https://en.wikipedia.org/wiki/Morris_Heights_station | Between Major Deegan and river beside Clemente Park; across from Roland N. Patterson complex; formerly "Morris Docks" until 1890s; one high-level island platform from W Tremont Ave | Landmarks, schema |
+| 21 | (scrape) | Firecrawl scrape (query) | https://www.tclf.org/roberto-clemente-state-park | Opened 1973 as Harlem River Bronx State Park, renamed next year; 25 acres, ¾ mile waterfront along W Tremont Ave & Mathewson Rd; M. Paul Friedberg; bulkhead replacement work began 2015 after Sandy | Landmarks, schema |
+| 22 | (scrape) | Firecrawl scrape (query) | https://furmancenter.org/neighborhoods/view/fordham-university-heights | Updated 05/06/2026 (CD5): homeownership 7.5% (2024) vs 32.7% city; LIHTC 7,527 units; public housing 6,385; Mitchell-Lama 2,636; HUD PBRA 2,187; permits 910 units (2025) vs 3 (2006); serious HMC violations 346.5/1,000 (2025) | §5 ¶4–5, glance list, AI #2 |
+| 23 | Morris Heights Bronx apartment building front door broken intercom tenants package theft news | Firecrawl search → scrape | https://abc7ny.com/post/bronx-collapse-morris-heights-building-billingsley-terrace/14388061/ | Feb 5 2024: partially collapsed Billingsley Terrace building, >100 uprooted, vacate order, Legal Aid suit over repairs | Q&A vacate order, sources |
+| 24 | "Morris Heights" Bronx burglary OR "lobby" OR "front door" OR "intercom" 46th Precinct 2025 OR 2026 | Firecrawl search → scrape | https://abc7ny.com/post/bronx-bodega-robbery-burglary-morris-heights/14396570/ | Feb 7 2024: Los Castillo Mini Market and Deli, University Ave; steel back door pried with crowbar; $100,000 unsecured cash taken from private office; Sunday night, found Monday | §8 University card, Q&A deli |
+| 25 | (same search) | Firecrawl scrape | https://hoodline.com/2026/10/gunman-confronts-teen-inside-morris-heights-affordable-housing-tower-flees-on-foot/ | July 20 2026 robbery inside 1769 Jerome Ave (Jerome Court), fled W on W 176 St (NYPD Crime Stoppers); entry method not stated | not used on page (no door detail) |
+| 26 | (search excerpt) | Firecrawl search | bronx.news12.com 2026/07/28 Morris Heights roof leaks; instagram excerpt 2256 Walton Ave | Address east of Jerome Ave; not used | — |
+| 27 | site:reddit.com Morris Heights Bronx apartment building living | Firecrawl search | reddit.com/r/bronx (several threads) | Excerpts only → EMPTY (not accessible in build env); nothing quoted | Sources note |
+| 28 | Silo law reused | — | nysenate MDL §50-a; HMC §27-2043 (readthedocs); HPD TDPL (LL63/2021); amlegal BC 1010.1.9.8–9 (0-0-0-173513); Brick Underground DHCR fob rulings; HPD Mitchell-Lama page (scraped this run: annual income verification, primary residence) | as recorded in earlier sections | §8 rules list, AI #2/#4, Q&A |
+| 29 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html (via silo research rows) | $1,500–$2,500; $1,500–$2,000; $1,500–$3,000; $4,000–$15,000; $4,000–$12,000; $15,000–$40,000+; buzzer repair $200–$500; $195/hr 3-hr min ($585); 8.875% tax; >$500 50% deposit | §14 table, §15 packages, Service schema; campuses, elevator interfaces, key cabinets, door replacement "priced after survey" |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — AI Reality Check states claims "we hear repeated", quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env) (a Yelp listing for the River Park Towers management office appeared in search, 1.0/4 reviews; not read, not used)
+- Reddit r/bronx Morris Heights threads: EMPTY (not accessible in build env; excerpts only, not used)
+- NYT City Room 2008 (1520 Sedgwick sale rejected): EMPTY (not accessible in build env; scraper refused) — excerpt only, mentioned in sources note
+- Morris Heights door/intercom-specific local news: none found beyond ABC7 deli back door
+
+### Flags
+- Boundaries conflict: Wikipedia (W Burnside Ave N; expressway as S edge) vs CityNeighborhoods (W 179th St N) vs CB5 (expressway bisects) — all stated on page.
+- River Park Towers unit count: 1,654 (Paths, Bright Power) vs 1,625 (Reliant) — both given in sources; ~5,000 residents attributed to Reliant.
+- 1520 Sedgwick "18-story" (Substack) not used; only 102 units.
+- DDC titles Clifford Place step street "in Morris Heights" though it lies east of Jerome Ave — used only in sources with that caveat.
+- Stack-effect door behaviour, cable-inside routing, survey "bottom of the hill" method, phasing by door type, key cabinet practice, landline-calling panels and upkeep calendar stated as AESS practice / general knowledge.
+- Twelve inline SVG diagrams are AESS schematics (hillside section, campus phasing, step-street door plan, call routing, pry-resistant door, intercom routes, takeover week, vacate groups, sample survey sheet, upkeep calendar, door schedules, key cabinet) — generic, not any real building; survey-sheet and key-log entries labelled illustrative.
+- NYCHA (Sedgwick Houses), River Park Towers, 1520 Sedgwick, Starhill, 105 W Tremont named as landmarks/types with "not clients" lines.
+
+### Question register
+Q&A (§9, H3):
+1. Our lobby faces the uphill street and our back door opens a full story lower onto the street behind. How does one controller serve both doors without a cable run on the outside of the building?
+2. A public step street runs along the side of our building, and our side door opens onto one of its landings. What does a door on a public stair need that the lobby door does not?
+3. Our entrance sits at the top of a long flight of outdoor steps above the sidewalk. Should the call panel be at the door or down at the sidewalk gate?
+4. Our boiler room opens straight onto the lower street because of the slope. Who should be able to open it, and how?
+5. The apartment intercom handsets from our building's rehab are no longer made. Must every handset be replaced when the lobby panel is?
+6. Our super looks after several walk-ups on different blocks. How can one person keep track of every front door without walking the route?
+7. We took over a building after a distressed sale, and the door system's accounts are still registered to the previous owner. How do we get control back?
+8. Our complex has several towers that share one campus. If we upgrade one tower's doors at a time, won't trouble just move next door?
+9. We can afford new cameras or new door hardware this year, but not both. Which should come first?
+10. Many of our older residents cannot hear the lobby call or read a small screen. What can an entry panel do for them?
+11. Part of our building is under a vacate order while repairs go on. How do we keep the empty section sealed and still let contractors and inspectors in?
+12. A deli on University Avenue had its steel back door pried open with a crowbar overnight. What makes a back door hold, and what should happen when someone tries?
+13. Customers' car keys hang on a pegboard in our Jerome Avenue body shop. What is a better way to control who takes them?
+Other "?" heading: Lobby Door Stuck Open or an Entry Panel Dead on the Hill in Morris Heights?; Can Nobody Get In, or Nobody Get Out? Same-Day Help on the Hill
+
+FAQ (§17 = FAQPage schema):
+1. Can the lobby panel call residents who have only a landline and no smartphone?
+2. Can our existing electric strike and door closer stay if only the lobby panel is replaced?
+3. How often should a busy lobby door's closer, strike and reader be serviced?
+4. Can a building get temporary entry control while a replacement door is being made?
+5. Can we buy extra fobs from AESS for a system another company installed, or are we tied to that company?
+6. Can the entry panel show a building notice, such as a heat or water shutdown, to residents as they come in?
+7. Will someone show our super how to add and delete credentials, and what happens if he leaves?
+8. Does AESS patch and paint the hallway walls after running cable in a finished building?
+
+Meaning check: compared against all 503 questions on the 161 other access-control pages at build time. Avoided as duplicates: Mitchell-Lama agency review (Bedford Park), fob records vs residency (Bedford Park — kept as body/AI text only), lease-up activation and lottery amenities (Gowanus), 24-hour concierge still needs readers (DUMBO), wind off the river (Fulton Ferry), entrances on two streets exit-only (DUMBO), firefighter access through fob door (Eastchester), old buzzer for older residents (Brighton Beach), lost master code / former remotes (Edenwald/Eastchester), price same as rest of Bronx (Clason Point), lobby downtime (Bay Ridge), cellular in basement (Nassau). Masked-geo similarity max 0.622 (Fulton Ferry hero form card / Laconia changelog), doc 5-gram containment max 0.056 (Laconia).
+
+### Images (11, images/access-control-installation/, WebP q80 ≤1600px, each viewed and cropped to remove signage, logos, certificates and people)
+| New file (access-control-installation-morris-heights-…) | Source (AESS job photo, top-level images/) |
+|---|---|
+| ceiling-dome-over-glass-entrance-wall.webp | rockland-toyota-office-camera.jpeg (top crop) |
+| high-ceiling-room-with-mezzanine-windows-and-exit-sign.webp | rockland-toyota-showroom.jpeg (upper-right crop) |
+| steel-door-at-end-of-tiled-back-corridor.webp | rockland-toyota-hallway-camera.jpeg (right crop; network-installation/ holds another crop of this photo) |
+| cable-bundles-dropping-to-equipment-rack.webp | rockland-toyota-nvr-monitor.jpeg (top-left crop; Laconia used a bottom crop of the same photo via nvr-installation/) |
+| small-domes-spread-across-shop-drop-ceiling.webp | manhattan-deli-interior-cameras.jpeg (ceiling crop) |
+| recorder-views-of-brick-side-path-and-storeroom-door.webp | nassau-window-depot-monitor.jpeg (right half) |
+| dome-camera-in-storeroom-corner-beside-doorway.webp | nassau-window-depot-storage-camera.jpeg |
+| bullet-camera-on-ceiling-mount-above-bare-wall.webp | rockland-toyota-ceiling-bullet.jpeg |
+| camera-and-lit-exit-sign-in-lobby-ceiling.webp | rockland-toyota-active-deterrent.jpeg (top crop) |
+| small-camera-high-on-pale-wall-above-office-ceiling.webp | rockland-toyota-bullet-camera.jpeg (right crop, sign excluded) |
+| camera-at-ceiling-corner-above-wall-screen.webp | rockland-toyota-dome-camera.jpeg (right crop, logo excluded) |
+No manufacturer photos used (all door-station product shots already used in the silo). buzzer-repair/*.jpg and non-"aess" smart-lock files judged AI-generated and not used. Captions: "Photo from the AESS job library, not taken in Morris Heights". Real access-control photos still needed.
