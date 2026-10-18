@@ -267,6 +267,13 @@ def identify(slug):
     for suffix in sorted(AREAS, key=len, reverse=True):
         if slug.endswith("-" + suffix):
             return slug[: -len(suffix) - 1], suffix
+    if slug.endswith("-ny"):
+        # county/hub area pages of the older "-ny" silos (door-buzzer-installation-ulster-county-ny);
+        # borough suffixes stay with the neighbourhood rule below, so nothing else changes
+        base = slug[:-3]
+        for suffix in sorted(AREAS, key=len, reverse=True):
+            if suffix not in BOROUGHS and base.endswith("-" + suffix):
+                return base[: -len(suffix) - 1], suffix
     m = re.match(r"^(.*)-(" + "|".join(BOROUGHS) + r")-ny$", slug)
     if m:
         # silo = the longest prefix that has a live borough page (multi-word silos like
@@ -278,6 +285,15 @@ def identify(slug):
                 return cand, borough
         return parts[0], borough
     return None, None
+
+
+def area_slug(silo, area, root=None):
+    """Slug of a silo's area/hub page: <silo>-<area>, or <silo>-<area>-ny for the older -ny silos."""
+    base = f"{silo}-{area}"
+    if not os.path.isfile(os.path.join(root or REPO_ROOT, base + ".html")) and \
+            os.path.isfile(os.path.join(root or REPO_ROOT, base + "-ny.html")):
+        return base + "-ny"
+    return base
 
 
 def is_neighbourhood(slug):
@@ -526,7 +542,7 @@ def check(root, slug, registration=True, stats=False):
             if mask(a) in my_a:
                 fail(f"FAQ answer duplicated on sibling {sslug}: {my_a[mask(a)][:70]!r}")
         s_silo, s_area = identify(sslug)
-        if s_area in AREAS and sslug == f"{silo}-{s_area}":         # area pages cross-link each other
+        if s_area in AREAS and sslug == area_slug(silo, s_area, root):         # area pages cross-link each other
             if f"/{sslug}" not in hrefs:
                 fail(f"no cross-link to live sibling /{sslug}")
             if f"/{slug}" not in link_set(sp.hrefs):
@@ -536,7 +552,7 @@ def check(root, slug, registration=True, stats=False):
     if is_neighbourhood(slug):                       # neighbourhood spoke: up-link = its borough page
         parent = area
     if kind == "child":
-        up = f"/{silo}-{parent}"
+        up = f"/{area_slug(silo, parent, root)}"
         if up not in hrefs:
             fail(f"no link up to parent hub {up}")
     elif "/" not in hrefs:
@@ -561,7 +577,7 @@ def check(root, slug, registration=True, stats=False):
         if [r[1:3] for r in dot] != [[f"/{slug}", "301!"]]:
             fail(f"_redirects needs exactly one '/{slug}.html /{slug} 301!' rule (live convention)")
         if kind == "child":
-            hub = os.path.join(root, f"{silo}-{parent}.html")
+            hub = os.path.join(root, area_slug(silo, parent, root) + ".html")
             if os.path.isfile(hub):
                 hp, _ = parse(hub)
                 if f"/{slug}" not in link_set(hp.hrefs):
