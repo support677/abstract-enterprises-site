@@ -550,3 +550,309 @@ Checked by meaning against the Manhattan, Queens and Staten Island registers: re
 ### Images (11)
 Real AESS photos (captioned "Example photo from an AESS installation, not a Westchester apartment building"): rockland-toyota-showroom.jpeg (cropped to upper wall: no people, no banners/signage) → …-westchester-county-two-small-cameras-on-tall-white-wall-below-mezzanine-windows.webp (hero/og:image); rockland-toyota-office-camera.jpeg (ceiling only) → …-white-turret-camera-between-ceiling-light-panels.webp; nassau-window-depot-storage-camera.jpeg (top 620px, boxes/labels removed) → …-turret-camera-in-corner-under-stained-ceiling-tiles.webp; rockland-toyota-ceiling-bullet.jpeg (ceiling only, monitors removed) → …-black-bullet-camera-on-ceiling-grid-beside-air-vent.webp.
 Product shots (tight crops, native size, never upscaled): ubiquiti-unifi-g6-pro-turret-camera-white.jpg → …-white-turret-camera-with-blue-ring-product-photo.webp; ubiquiti-unifi-g5-dome-ultra-camera-white.jpg → …-clear-dome-camera-product-photo.webp; uniview-turret-network-camera-white.jpg → …-white-eyeball-turret-camera-product-photo.webp; hikvision-ptz-speed-dome-camera.jpg → …-pendant-ptz-speed-dome-product-photo.webp; nvr-uniview-nvr501.png → …-black-desktop-network-video-recorder-product-photo.webp; ubiquiti-unifi-g6-instant-4k-camera-white.jpg → …-white-compact-indoor-camera-product-photo.webp; dahua-wizsense-ai-varifocal-bullet-camera-white.png (file actually shows a white PTZ speed dome on black, not a bullet) → …-white-speed-dome-on-black-product-photo.webp.
+
+<!-- merged 2026-10-18 from batch research-brooklyn.md (includes that page's questions for the register) -->
+## Brooklyn
+
+Local research for apartment-building-security-camera-installation-brooklyn (REBUILD in place, 2026-10-18). Silo-wide findings reused from research/apartment-building-security-camera-installation.md (NYS DOS 19 NYCRR 195.2 / Art. 6-D, NYC Business portal, tenant-rights.com, FirstService Residential (dummy cameras, 30–90 days), Penal Law 250, MDL 50-a, LPC Permit Guidebook Ch. 11, Angi NY $1,509 / $797–$2,222 / $100–$350 per camera, HomeAdvisor labour 50–70% + Wi-Fi range, Avigilon excerpt). Only Brooklyn-local research below. Format: exact query · platform · URL · finding · page+section used.
+
+### Surfaces not reachable
+- Google PAA / PASF / Answer the Public / Google AI Overview for "apartment building security camera installation Brooklyn" · EMPTY (not accessible in build env — no live SERP surface). Reality Check states this on the page and tests published aggregator/vendor claims instead.
+- Bing / DuckDuckGo · EMPTY (not accessible in build env).
+- Yelp 1–3★ Brooklyn installers · not searched separately; review text not reachable in this env (silo precedent) · EMPTY (not accessible in build env).
+- Reddit full thread text · EMPTY (not accessible in build env); search excerpts only.
+- Local news search `Brooklyn apartment building mailroom burglary caught on camera NYPD Park Slope OR "Crown Heights" OR Flatbush OR Williamsburg` · Firecrawl search (sources: news) · 0 results → EMPTY.
+- `Brooklyn Paper OR Bklyner OR "Brooklyn Eagle" mailroom break-in apartment building surveillance footage …` · Firecrawl search · only unrelated Brooklyn Paper PDFs / out-of-area items → EMPTY for Brooklyn hyperlocal mailroom incidents.
+
+### Building stock / neighbourhoods
+1. `Brooklyn rowhouse brownstone historic districts LPC number of designated historic districts Brooklyn` · Firecrawl search · LPC Facebook excerpt ("Brooklyn has 31 districts") — excerpt only, number NOT used. Then Firecrawl scrape https://hdc.org/borough/brooklyn/ · HDC: Brooklyn the city's most populous borough; range "from the vernacular rowhouses of Boerum Hill to the skyscrapers of downtown Brooklyn"; Brooklyn Heights the city's first historic district, designated 1965; list of Brooklyn HDs (Park Slope + extensions, Fort Greene, Clinton Hill, Cobble Hill, Boerum Hill, Prospect Heights, Crown Heights North I–III, Bed-Stuy/Stuyvesant Heights, Prospect Lefferts Gardens, Ditmas Park, Sunset Park districts, etc.) · §5 para 1 + facts list; Landmark section para 1; Coverage card (Brooklyn Heights); Sources.
+2. `Brooklyn brownstone limestone rowhouse construction brick masonry walls wiring difficult plaster lath Brownstoner` · Firecrawl search → scrape https://www.brownstoner.com/real-estate-market/walkabout-plastered-part-one/ (Suzanne Spellen, Jan 21, 2014) · most brownstones, esp. earlier, had lime-plaster walls/ceilings; exterior-wall scratch coat applied directly to brick, bond hard to break 100+ years later; interior partitions wood studs + lath with plaster "keys"; gypsum replaced lime c.1900 · §7 "Brownstones: work from the cellar up"; Q&A (cellar vs roof; gut renovation); Field notes; Sources.
+3. Same search · https://www.nyc.gov/assets/lpc/downloads/pdf/lp_rhmanual.pdf (LPC Rowhouse Manual) · search excerpt: most NYC rowhouses sandstone/limestone; brownstone set with grain wrong way spalls; limestone rarely spalls · Landmark section para 4; Q&A "brownstone flaking — where to anchor"; Sources (marked excerpt).
+4. `Eastern Parkway Crown Heights prewar apartment buildings 1920s six-story elevator courtyard history` · Firecrawl search → scrape https://www.brownstoner.com/history/eastern-parkway-brooklyn-history-develoment-architecture-olmsted-calvert-vaux/ (Spellen, Jan 31, 2022) · parkway built 1870–1874 by Olmsted & Vaux; 1903 subway announcement spurred limestone rowhouses/flats then 4-story walk-ups; Martinique Apartments 163–169 Eastern Pkwy opened 1916 (six-story limestone elevator bldg); 1929 map wall-to-wall apartment buildings; Turner Towers 135 Eastern Pkwy 1927, 15 stories, four wings, 181 apartments; scenic landmark 1978 · §8 corridor card (Eastern Parkway); Coverage card; Sources.
+5. Same search → scrape https://suzannespellen.substack.com/p/cohn-brothers-prolific-architects (Spellen, Sept 13, 2024; originally Brownstoner) · 1920–1940 four-story walk-ups then (after ~1923) six-story elevator buildings; building code required only first two floors of a six-story building fireproof → "six it was"; rooms faced interior courtyard or street; large corner buildings with 4–5 wings joined by corridors, multiple courtyards, sometimes separate entrances, one central grand lobby; lobbies terrazzo/marble/tile/Gothic; from 1912 two- and three-story tapestry-brick buildings with a store and 1–2 apartments above, common along Nostrand, Flatbush and Rogers Aves south of Eastern Pkwy; St. Marks Ave buildings: Excelsior (1928, 787–803), Carolyn (1929, 770), Betsy Ross (1935–37, 751), 762 St. Marks (1931–32) · §5 facts list (six-story rule); §7 courtyard card + H3; §7 mixed-use H3; §8 corridor card (Nostrand/Flatbush/Rogers); Q&A marble lobby; Coverage card (St. Marks Ave); Sources.
+6. `Ocean Parkway apartment buildings prewar art deco courtyard elevator buildings history Brooklyn` · Firecrawl search · excerpts (CityRealty: 260 Ocean Pkwy 77-unit pre-war co-op 1930, six stories, Art Deco; Brownstoner 1600 Ocean Pkwy CO 1939) — listing excerpts, used only qualitatively ("pre-war co-ops and rentals line its service roads"). Then `Ocean Parkway Eastern Parkway scenic landmark designated Olmsted Vaux Landmarks Preservation Commission` · Firecrawl search → scrape https://www.nycgovparks.org/parks/ocean-parkway-malls/history · Olmsted & Vaux 1866 concept; land acquired 1868; built 1874–1876; 5.5 miles Prospect Park to Coney Island; service roads for local and commercial traffic outside the malls; first US bike path June 15, 1894; scenic landmark 1975; noncommercial zoning restrictions followed; Coney Island Avenue = former Coney Island Plank Road · §8 corridor card (Ocean Pkwy/Coney Island Ave); Coverage card; Sources. HDC excerpt https://hdc.org/buildings/ocean-parkway-scenic-landmark/ "Designated January 28, 1975" (corroboration).
+7. `Downtown Brooklyn rezoning 2004 residential towers units built since rezoning` · Firecrawl search → scrape https://www.downtownbrooklyn.com/dtbk20/ (32 million sq ft new development since 2004) and https://www.cbsnews.com/newyork/news/downtown-brooklyn-rezoning-20-years-later/ (CBS NY, July 30, 2024): Regina Myer (DBP): "nearly 10,000 housing units" now; Fulton Street "a great shopping street"; area once offices, courts, MetroTech, parking lots · §5 facts list; §7 towers H3; §8 Fulton St card; Coverage card; Sources. Pratt Center PDF excerpt (fewer than 800 below-market units) — not used.
+8. `The Brooklyn Tower 9 DeKalb Avenue height floors apartments tallest building in Brooklyn` · Firecrawl search · https://en.wikipedia.org/wiki/Brooklyn_Tower (excerpt): first supertall in Brooklyn, tallest in borough; Brooklyn Eagle citation "tops out at 1,066 feet" · Coverage card (Downtown Brooklyn); Sources (marked excerpt).
+9. `Williamsburg Greenpoint 2005 waterfront rezoning towers Kent Avenue units` · Firecrawl search → scrape https://greenpointers.com/2025/05/13/a-walking-tour-looks-back-on-the-legacy-of-the-2005-greenpoint-williamsburg-waterfront-rezoning/ (May 13, 2025) · ~180 blocks rezoned; as of May 2024 Greenpoint+Williamsburg added 26,253 housing units in previous 13 years; 2,306 in 2023; many on/near waterfront; Bushwick Inlet Park / 50 Kent · §5 para 1 + facts; §7 towers H3; Coverage card; Sources. Also https://www.nyc.gov/assets/planning/download/pdf/plans/greenpoint-williamsburg/feis_exec_sum.pdf (excerpt): rezoning on waterfront side of West Street, Kent Avenue, Commercial Street · §8 Kent Ave card; Sources (excerpt). YouTube excerpt "175 blocks" — not used (conflicts with 180; page says "roughly 180").
+
+### Rent stabilization / tenants / privacy law
+10. `Brooklyn rent stabilized apartments number share borough Rent Guidelines Board housing supply report` · Firecrawl search · https://www.ibo.nyc.gov/assets/ibo/downloads/pdf/housing-and-buildings/2026/2026-may-segments-of-the-rent-stabilized-housing-stock.pdf (excerpt): Brooklyn and the Bronx have the largest numbers of RS apartments, 279,000 and 233,000 · §5 para 4 + facts list ("about 279,000 … largest count of any borough"); Sources (excerpt). RGB 2026 HSR excerpt (Brooklyn violations shares) — not used.
+11. `Atlantic Plaza Towers Brownsville facial recognition tenants DHCR landlord withdrew` · Firecrawl search → scrape https://www.theguardian.com/cities/2019/may/29/new-york-facial-recognition-cameras-apartment-complex (Erin Durkin, May 2019) · Nelson Management Group; facial recognition to open front door instead of keys/fobs; more than 130 tenants filed formal complaint with the state; complex already had cameras on grounds, doorways, elevators, halls, guards, key fobs; tenants say images of alleged rule breaches slid under doors with warnings/fines; rent-stabilized → change must be approved by state HCR, first such application, "under review"; Brooklyn Legal Services represented tenants · §5 para 4; §8 Brownsville card; Q&A rent-stabilized approval + lease-rules worry; AI Reality Check H3 4 & 6; Sources.
+12. `Atlantic Plaza Towers landlord withdraws facial recognition application November 2019` · Firecrawl search · https://www.aryananoroozi.com/atlantic-plaza-towers (excerpt): "November 19, 2019 … landlord, Robert Nelson, announced the withdrawal of his application"; Fast Company excerpt ("More than 300 residents filed a complaint" — not used; page keeps Guardian's 130) · §5 para 4; Reality Check H3 6; Sources (excerpt).
+13. `NYC Tenant Data Privacy Act Local Law smart access building biometric residential passed council` · Firecrawl search → scrape https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page · Local Law 63 of 2021: owners of class A multiple dwellings using smart access (fobs, RFID, app, biometrics) must give tenants a data retention and privacy policy; express consent; minimum data list; destroy authentication data within 90 days unless anonymized; no sale; no location tracking outside; no use beyond access/monitoring entrances; not to harass or evict; private right of action · §5 facts list; §8.5 compliance callout; Q&A Greenpoint fob/LL63; Reality Check H3 4 & 6; Sources. (Hunton excerpt: passed April 29, 2021 — not used.)
+
+### Public housing (NYCHA-adjacent)
+14. `NYCHA Brooklyn developments number of developments borough layered access CCTV cameras installed program` · Firecrawl search → scrape https://nychajournal.nyc/nycha-completes-over-24-million-in-safety-and-security-upgrades-at-23-campuses/ (Nov 28, 2023) · $24.1M upgrades at 23 campuses incl. Farragut, Hughes, Kingsborough, Pink in Brooklyn; cameras at entrances, roof landings, stairwells; fiber-optic framework, security operating center; same VMS as NYPD; 21-day retention; run by Office of Safety & Security; layered access control · §7 NYCHA card + H3; Q&A "shares a block with a NYCHA development"; Reality Check H3 7; Sources. (Saratoga Village 55 cameras / $750,000 — LinkedIn/Facebook excerpts, not used.)
+
+### Local news / Reddit (package & lobby theft)
+15. `Brooklyn apartment building package theft lobby surveillance video police 2025` · Firecrawl search → scrape https://pix11.com/news/local-news/nyc-woman-confronts-package-thief-in-her-building-youre-not-taking-anything/ (PIX11, Jan 30, 2025) · building near Fulton St & Washington Ave, Clinton Hill, ~7:20 a.m. Jan 8 (2025); suspect rang a bell, got through the first door, tried to take packages and mail in lobby; resident recovered packages; suspect fled in gold BMW SUV; NYPD released photo · §5 para 2; Sources. (Resident's first name not used.)
+16. Same search → scrape https://www.cbsnews.com/newyork/news/lobby-packages-stolen-brooklyn/ (CBS NY; article undated on page, image dated 2015) · Bushwick building on Lawton Street, ~7 p.m. July 19; surveillance video shows man taking parcels from lobby floor into a white bag, returning twice for bigger boxes; also suspect in a burglary at 228 Jefferson St · §5 para 2 ("an older CBS New York report"); Sources.
+17. Same search · https://www.reddit.com/r/Brooklyn/comments/us04dr/package_theft_in_apartment/ (excerpt only): "Thieves were entering our building to steal the packages that were left in the main hallway. They would either swipe the main door …" · §5 para 2 (paraphrased, attributed to r/Brooklyn thread); Sources (excerpt). Full thread EMPTY (not accessible in build env).
+18. `site:reddit.com r/Brooklyn brownstone landlord cameras vestibule packages stolen tenants` · Firecrawl search · only r/AskNYC / r/NYCapartments / non-Brooklyn results → EMPTY for additional Brooklyn-specific Reddit.
+19. Instagram excerpt (PIX11): "A dispute over stolen packages from a Brooklyn apartment building left its super dead" — excerpt only, no date/location detail, sensitive → NOT used.
+
+### Local licensing / permits
+- NYS DOS licence + NYC Business portal (silo file) apply in Brooklyn; no separate city installer licence. LPC Guidebook Ch. 11 criteria (silo file) applied to Brooklyn rowhouses (two cameras per 25 ft small residential; mortar joints; ≤~10 in visible conduit; avoid primary facade; Portico filing). No DOB permit statement made on the page (not researched → not claimed).
+
+### Pricing used
+Brooklyn = 1.00 base (blueprint v2.3 §9), figures from the existing Brooklyn page / silo "Silo pricing": $500–$1,500 per camera installed; 4–8 cameras $5,000–$12,000; 12–20 cameras $12,000–$25,000; 24–40 cameras $25,000–$45,000+; labour $75–$150/hr; cloud $20–$80/camera/month (third party). Service $195/hr, 3-hr minimum ($585) per §9. No parking/bridge line for Brooklyn.
+
+### Keywords — five layers
+- Service: apartment building security camera installation Brooklyn; building CCTV; vestibule camera; lobby camera; NVR install; DVR replacement; landmark facade camera.
+- Problem: package theft; lobby intruders; propped/forced doors; dead vestibule camera; full recorder drive; vandalized stairwell camera; tenant-trust disputes.
+- Technology: PoE IP cameras, wide fixed domes, turrets, mini pan-tilt domes, varifocal, video door stations, NVR, Wi-Fi (sparingly), fire-stopping, two-wire extenders, smart search.
+- Industry: brownstone owners, small landlords, co-op/condo boards, managing agents, supers, rent-stabilized building owners, tower management.
+- Geographic: Brooklyn; Park Slope, Brooklyn Heights, Bed-Stuy, Clinton Hill, Fort Greene, Crown Heights (North), Flatbush, Kensington, Midwood, Brownsville, Bushwick, Greenpoint, Williamsburg, Downtown Brooklyn, East Flatbush; Ocean Parkway, Eastern Parkway, Fulton St, Nostrand/Flatbush/Rogers Aves, Kent Ave, St. Marks Ave, Coney Island Ave.
+
+### Images (11) — source → target (images/apartment-building-security-camera-installation/…-brooklyn-…)
+Real AESS job photos (captioned "Example photo from another AESS job, not a Brooklyn building"; signs/numbers cropped):
+- manhattan-deli-exterior.jpeg (crop x0–228, y0–368: stone facade, Greek-key band, camera on steel wall arm; deli sign, street number "3778", people, subway sign removed) → stone-facade-with-camera-on-steel-wall-arm.webp (hero, og:image)
+- rockland-toyota-nvr-monitor.jpeg (crop x150–860, y0–215: ceiling cable bundles only, monitor and rack labels excluded) → blue-network-cable-bundles-along-ceiling-pipe.webp  [NOTE: long-island also claimed this source this batch; my crop shows only the ceiling cables]
+- manhattan-deli-interior-cameras.jpeg (crop x860–1230, y100–400: one dome beside louvered light; people/products/menus removed) → white-dome-camera-beside-ceiling-light-panel.webp
+- rockland-toyota-hallway-camera.jpeg (crop x300–935, y170–770: ceiling bullet, grey door, wall; cabinet with QR poster removed) → black-bullet-camera-on-ceiling-facing-grey-service-door.webp
+Manufacturer product photos (captioned "Manufacturer's image"):
+- hikvision-colorvu-dome-camera-black.jpg → black-varifocal-dome-camera-product-photo.webp
+- akuvox-video-door-station.webp → slim-video-door-station-product-photo.webp
+- axis-i8116-video-intercom.webp → black-video-intercom-door-station-product-photo.webp
+- dahua-mini-pt-dome-camera-black.png (shows white-capped mini PT dome on black) → mini-pan-tilt-dome-camera-product-photo.webp
+- nvr-lorex-4k-16ch.png → 16-channel-desktop-recorder-product-photo.webp
+- hikvision-acusense-indoor-cube-camera.jpg → white-indoor-cube-camera-product-photo.webp
+- hikvision-wifi-wireless-dome-camera.jpg → wifi-dome-camera-with-antenna-product-photo.webp
+
+## Question register — apartment-building-security-camera-installation-brooklyn
+
+### Q&A headings (§9 "Questions Answered", H3)
+1. Our Park Slope brownstone is now four rentals with no lobby — where does the recorder go? — §9
+2. Is it easier to wire a Brooklyn rowhouse from the cellar up or from the roof hatch down? — §9
+3. Our Bed-Stuy rowhouse has the stoop entrance and a separate garden-level door under it — how many cameras does the front need? — §9
+4. Our vestibule is barely four feet deep — what kind of lens can see the whole space? — §9
+5. How does the LPC's limit on cameras per 25 feet of frontage work out on a narrow Brooklyn rowhouse, and does a camera under the stoop count? — §9
+6. The brownstone on the front of our building is flaking — where can a camera bracket be anchored safely? — §9
+7. Is a camera on the back of a landmarked Brooklyn rowhouse treated differently from one on the front? — §9
+8. The terrazzo-and-marble lobby is a selling point in our 1930 Ocean Parkway co-op — how do cameras go in without cutting the stone? — §9
+9. Our 1920s Flatbush six-story still has a sealed dumbwaiter shaft and old gas risers — can they carry camera cable? — §9
+10. The super lives in the basement apartment of our older Brooklyn elevator building — should a camera monitor go in there? — §9
+11. Does the curtain-wall glass of a Downtown Brooklyn tower stop wireless cameras from working? — §9
+12. Our Greenpoint building opens doors with fobs and an app — does Local Law 63's tenant data privacy rule cover the cameras too? — §9
+13. How do front-desk staff find one delivery in a day of footage at a 400-unit Downtown Brooklyn lobby? — §9
+14. Our building is rent-stabilized — do we need state approval before adding cameras, the way the Atlantic Plaza Towers landlord did? — §9
+15. Tenants in our Flatbush rent-stabilized building worry the cameras will be used to catch them on lease rules rather than to stop break-ins — how do we answer that? — §9
+16. Our building shares a block with a NYCHA development that just got new cameras — do our cameras need to be coordinated with theirs? — §9
+17. One owner holds two attached rowhouses next door to each other — can one recorder serve both through the party wall? — §9
+18. Can the old buzzer wiring that runs up our Brooklyn walk-up's stairwell carry camera video? — §9
+19. We're gutting our Brooklyn rowhouse floor by floor — is this the time to wire for cameras even if we install them later? — §9
+20. What does a camera system for a four-unit Brooklyn brownstone conversion typically come to? — §9
+
+### Visible FAQ (§17) = FAQPage schema
+1. How soon after we send the form can someone walk through a Brooklyn building? — §17
+2. Can we buy our own cameras and pay you for labour only? — §17
+3. Do you need to get inside any apartments, or only the common areas? — §17
+4. Can we see a coverage drawing before we commit to anything? — §17
+5. Which office sends the crew for a Brooklyn job, and how do we reach someone after hours? — §17
+6. Can cameras in a Brooklyn hallway be hidden so nobody knows they are there? — §17
+7. Do dummy cameras do any good in a Brooklyn walk-up? — §17
+8. What happens if someone spray-paints or rips down a stairwell camera? — §17
+9. Will the time stamps on our footage hold up if we need it in Housing Court or for an insurer? — §17
+10. Can new cameras be added to the recorder our Brooklyn building already has? — §17
+
+Checked by meaning against the Manhattan, Queens, Staten Island, Suffolk and Westchester registers (avoided: recorder-per-building, vestibule screwdriver angle, Jackson Heights facade-permit intent, courtyard multiple entrances, package drop location, two-family tenant app, coax reuse, takeover of previous vendor's system, retention length, precinct footage requests, install duration, payment schedule, permits, super training, old-camera removal). tools/check_page.py: no verbatim duplicate vs any sibling on disk incl. the new long-island and hudson-valley drafts.
+
+<!-- merged 2026-10-18 from batch research-hudson-valley.md (includes that page's questions for the register) -->
+## Hudson Valley (hub)
+
+Page: apartment-building-security-camera-installation-hudson-valley (REBUILD in place, 2026-10-18). Regional overview, 800-only, Bronx GBP, up-link Home. Silo-wide findings reused from research/apartment-building-security-camera-installation.md (NYS DOS 19 NYCRR 195.2, tenant-rights.com, Penal Law 250, Angi/HomeAdvisor, Avigilon excerpt, r/longisland jammer excerpt). Format: exact query · platform · URL · finding · page+section used.
+
+### Surfaces not reachable
+- Google PAA / PASF / Answer the Public / AI Overview / Bing-DDG · EMPTY (not accessible in build env). Reality Check says so and tests aggregator claims.
+- Yelp 1–3★ HV installers · EMPTY (not accessible in build env).
+- Reddit: `site:reddit.com r/hudsonvalley apartment complex packages stolen cameras landlord` and `site:reddit.com Kingston OR Poughkeepsie OR Newburgh apartment building security camera landlord hallway` · Firecrawl search · no Hudson Valley apartment-camera thread (results out of area, incl. Kingston Ontario) · EMPTY. Ulster excerpt only: reddit.com/r/hudsonvalley/comments/oceb0w/ ("Contractors are not licensed in Ulster County…") — not quoted on page.
+- Poughkeepsie PBA Facebook release (Dec 20, 2024 porch larcenies) · scrape refused · EMPTY (not used).
+- Middletown mailroom video (YouTube s3zwOX7T9O8) · WDRB = Kentucky, not Middletown NY · NOT used. 14news "Newburgh apartment complex" = Newburgh, Indiana · NOT used.
+
+### Rent regulation
+1. `Kingston NY Emergency Tenant Protection Act rent stabilization opt in vacancy study` · Firecrawl search+scrape · https://engagekingston.com/etpa · ETPA effective Aug 1, 2022; pre-1974, 6+ units; administered by HCR; RA-84 decreased building-wide services (entrance, lobby, hall, staircase, elevator); RA-60H lists "security" among services · §5 facts, Q&A ETPA cluster, Reality Check H3 4.
+2. same/next query · https://hcr.ny.gov/rent-stabilization-and-emergency-tenant-protection-act (query scrape) · Kingston upheld (update 06/23/2025); Newburgh adopted Dec 18 2023, voided Apr 19 2024 (Orange Co. Sup. Ct.); Poughkeepsie adopted Jun 18 2024, voided Nov 22 2024 (Dutchess Sup. Ct.); Nyack adopted Nov 9 2023 (25+ units), opted out Jan 11 2024 · §5 facts, county table, Q&A, Reality Check.
+
+### County licensing
+3. `Putnam County Department of Consumer Affairs license home improvement electrician` · Firecrawl search+scrape · https://www.putnamcountyny.gov/consumer-affairs · Electrical Board licenses Master, Special, Reciprocal Electricians and Limited Data Communication Technicians; lists of licensed low-voltage technicians; electrical permits filed with Carmel/Patterson/Putnam Valley building depts, else Consumer Affairs; mandatory HI contractor registration · county cards, Q&A Putnam.
+4. https://ecode360.com/6607815 (query scrape) · Putnam Ch. 145: low-voltage/limited-data communications technician installs cabling for networking, intercom, audio/video, fiber, video surveillance systems, ≤90 V and 5 A, from an outlet installed by a licensed electrician · §5 facts, Q&A, Reality Check H3 3/5.
+5. https://ecode360.com/6607616 · Putnam Ch. 135 HI registration (2019); definition covers building used as private residence apartment or dwelling place · county table.
+6. `Rockland County home improvement license Chapter 250 Consumer Protection contractor` · Firecrawl search+scrape · https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits · electrical (Ch. 250), HI (Ch. 286, effective May 14, 2026) · county cards.
+7. https://ecode360.com/26997705 · Rockland Ch. 250 Art. I: electrical contractor = wiring for light/heat/power or signaling systems on 50 V or more · Q&A Rockland/Ulster.
+8. https://ecode360.com/9666538 · Rockland Ch. 286 (adopted 4-14-2026, L.L. 4-2026): HI = private residence, apartment or dwelling of not more than three units incl. accessory units; excludes electrical work and alarm work by county-licensed alarm business · Q&A Rockland HI.
+9. `Ulster County NY electrical license board OR home improvement license county contractors` · Firecrawl search · https://ecode360.com/35131702 (query scrape) · Ch. 185 Ulster County Electrical Licensing Law (2019, amended 2025): electrical contractor 50 V wording; electrical work includes signaling, communication, alarm or data transmission · Q&A, county card.
+10. `Orange County NY Consumer Affairs home improvement license requirement contractors` · Firecrawl · https://www.orangecountyny.gov/DocumentCenter/View/951/... · "If there is no licensing agency in your city or county, complaints should be made to the local consumer agency, the NYS Attorney General…" · no county licence found → "None found" · county table, Q&A. https://www.orangecountyny.gov/255/Licenses scrape returned no text (EMPTY).
+11. `Dutchess County contractor licensing` · Firecrawl search · no official county licence found; Facebook group excerpt "Dutchess County does not require contractors to have licenses" (not quoted) · "None found" wording only.
+12. `19 NYCRR Part 1203 …` · Firecrawl · https://dos.ny.gov/code/local-government-state-agency-enforcement-programs · Part 1203 applies to every city, village, town and county administering the Uniform Code · compliance callout, Reality Check H3 3.
+
+### Building stock / development
+13. `Newburgh East End Historic District largest…` · Firecrawl search+scrape · https://www.newburghny.org/discover-newburghs-east-end-historic-district/ · "second largest designated historic site in New York State"; Italianate row houses; Broadway "widest Broadway in the US"; Washington's Headquarters oldest property · §5, landmarks, corridors. https://en.wikipedia.org/wiki/East_End_Historic_District_(Newburgh,_New_York) (excerpt): 445 acres, 2,217 buildings · facts list.
+14. `Kingston Stockade District … HLPC` · Firecrawl · https://kingston-ny.gov/hlpc (query scrape) · five historic districts (Stockade 1974 local, Rondout-West Strand 1979, Chestnut St, Fair St, Wilbur); exterior work visible from public right-of-way reviewed by HLPC before building permit; CoA · §5, Q&A Kingston, landmarks.
+15. `Beacon NY Edgewater apartments Metro-North station transit oriented development units` · Firecrawl · https://www.governor.ny.gov/news/governor-hochul-announces-development-partner-build-transit-oriented-housing-beacon-metro · MTA Board approved Jonathan Rose Companies; 265 mixed-income units on lot beside Beacon station; structured garage, no loss of commuter parking; garage for residents and retail customers · §5, landmarks, Q&A new-build.
+16. `Rockland County garden apartment complexes Spring Valley…` · Firecrawl · https://hudsonvalleypropertygroup.com/spring-valley-renovation-220-units-to-be-modernized-kept-affordable-by-ex-residents-firm/ (Oct 15, 2021) · Lakeview Village 144 senior units + Highview 76 family units; $44M redevelopment; "security cameras to be installed throughout the properties" · §5, landmarks, Q&A audit.
+17. `Poughkeepsie waterfront apartments new development…` · Firecrawl (excerpts) · https://thenyhc.org/projects/crannell-square/ (75 affordable apartments, near Metro-North/Amtrak station); https://www.waterclubny.com/new-apartments-rise-along-city-waterfront-poughkeepsie-journal/ (walking distance to station and Walkway Over the Hudson) · corridors, landmarks.
+18. `Brewster village transit oriented development…` · Firecrawl · https://brewstervillage-ny.gov/images/stories/pdfs/1_CHAPTERS_REV_122006.pdf (excerpt) · village 881 housing units (plan's table); Harlem Line platform at Brewster station; PART buses meet trains · landmarks.
+19. `Hudson Valley Pattern for Progress rental housing study…` · Firecrawl (excerpts) · nine-county Out of Reach report · NOT used.
+
+### Local incident
+20. `dailyvoice.com apartment complex packages stolen surveillance Rockland…` · Firecrawl search+scrape · https://dailyvoice.com/article/packages-stolen-from-apartment-complex-found-inside-haverstraw-home-man-35-charged-cops-say/ · Apr 13, 2026: Haverstraw PD investigated packages taken from several buildings within a complex; search warrant Apr 10; packages recovered; 35-year-old suspect (name not used) · §5, Reality Check H3 7.
+21. `Poughkeepsie Journal apartment building packages stolen…` and `Newburgh OR Kingston OR Middletown apartment complex surveillance…` and `Mid-Hudson News apartment complex packages…` · Firecrawl · no usable HV apartment-camera incident beyond #20 · EMPTY.
+
+### Pricing used
+Brooklyn base (research file "Silo pricing") × §9 county multipliers, shown per county: Westchester 1.25 ($6,250–15,000 / 15,000–31,250 / 31,250–56,250+ / $625–1,875 per cam); Rockland 1.30 (6,500–15,600 / 15,600–32,500 / 32,500–58,500+ / 650–1,950); Orange 1.40 (7,000–16,800 / 16,800–35,000 / 35,000–63,000+ / 700–2,100); Putnam 1.45 (7,250–17,400 / 17,400–36,250 / 36,250–65,250+ / 725–2,175); Dutchess & Ulster 1.53 (7,650–18,360 / 18,360–38,250 / 38,250–68,850+ / 765–2,295). Service $195/hr, 3-hr min ($585), not multiplied. Cloud $20–$80/camera/month (silo figure, third-party) used in Reality Check H3 6.
+
+### Question register — apartment-building-security-camera-installation-hudson-valley
+
+#### Q&A headings (§9, H3)
+1. We own buildings in Yonkers, Newburgh and Kingston — can one camera specification work for all three?
+2. Why does the same twelve-camera system price higher in Dutchess or Ulster than in Westchester?
+3. Putnam County licenses low-voltage technicians for video surveillance cabling — what does that mean for a camera job in a Brewster or Carmel building?
+4. Rockland and Ulster license electrical contractors at county level — which parts of a building camera job count as electrical work there?
+5. We could not find a county contractor licence in Orange or Dutchess — does that leave camera work in Newburgh or Poughkeepsie unregulated?
+6. Rockland's new home-improvement law took effect in May 2026 — does it reach a camera job in a Spring Valley apartment complex?
+7. Kingston's rent stabilization survived in court while Newburgh's and Poughkeepsie's were voided — what changes for cameras in a pre-1974 building with six or more units?
+8. If we take out the old lobby cameras in a Kingston ETPA building, could tenants call it a decrease in building-wide services?
+9. How do you run camera cable through a Newburgh East End rowhouse that shares brick party walls with its neighbours?
+10. Which cameras on a Kingston Stockade or Rondout building can stay out of the historic commission's review?
+11. A renovation of our Spring Valley complex promised security cameras throughout — how do we check what was actually delivered?
+12. We are planning a building near a Hudson Valley train station — when should the camera design be done?
+13. Student renters in New Paltz or Poughkeepsie turn over every May — how should camera notices and access be handled?
+14. Parking-lot camera poles on an exposed ridge in Dutchess — what protects the system from lightning?
+15. Motion alerts at our Putnam complex fire all night because of deer and branches — what fixes that?
+16. How do cameras on the north end of the region cope with ice storms and deep cold?
+17. Our management company runs buildings in four Hudson Valley counties — should every building use the same recorder and camera line?
+18. When we sell one building out of the portfolio, how do we separate its cameras from our central account?
+19. How should we compare a Westchester installer's quote with an upstate installer's quote for the same Kingston building?
+20. Can a single footage-request procedure serve our co-ops, condos and rentals across the region?
+
+#### Visible FAQ (§17) = FAQPage schema
+1. Can you walk several of our buildings in different Hudson Valley counties on the same day?
+2. Before anyone drives up to a Saugerties or New Paltz building, can the first look happen by video call?
+3. Do you cover Sullivan, Columbia or Greene County buildings that sit in the same portfolio?
+4. In what order should a management company roll out cameras across a dozen Hudson Valley buildings?
+5. Is the walkthrough still free when the building is in Ulster or Dutchess, far from your Bronx office?
+6. Our older Hudson Valley building already has a few cameras from another brand — can new ones be added to the same recorder?
+7. Will you sign the building's confidentiality agreement covering the camera drawings?
+8. What documents do we get that an insurer or lender can review after installation?
+9. How are the cameras labelled so a covering super from another building can find them?
+10. What happens to the warranty on the system if one of our buildings is sold?
+
+### Images (11) — source → images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-*.webp
+Real AESS job photos (captioned "Example photo from an AESS installation, not a Hudson Valley apartment building"):
+- images/manhattan-deli-exterior-camera.jpeg crop (690,300,1247,780) — sign text excluded; mural edge only → dome-camera-on-yellow-fascia-against-winter-sky (hero, og:image)
+- images/nassau-window-depot-storage-camera.jpeg crop (100,100,935,600) → turret-camera-high-in-corner-of-bare-storage-room
+- images/rockland-toyota-bullet-camera.jpeg crop (200,150,935,700) — leaves, ceiling and dealership sign excluded → small-black-camera-on-bare-white-wall
+- images/rockland-toyota-office-camera.jpeg crop (200,0,935,510) — ceiling only → white-turret-camera-on-ceiling-tile-near-light-panel
+Product photos (native size, described as seen; filenames are often wrong):
+- dahua-tioc-2-active-deterrence-turret-camera.png (shows stainless box housing on bracket) → stainless-box-camera-housing-on-bracket-product-photo
+- dahua-dual-lens-people-counting-camera-white.png (shows stainless bullet with illuminator ring) → stainless-bullet-camera-with-illuminator-ring-product-photo
+- dahua-panoramic-multi-sensor-ptz-camera.png (shows white bullet with red stripe) → white-bullet-camera-with-red-stripe-product-photo
+- dahua-full-color-compact-bullet-camera-white.png (shows stainless pendant PTZ dome) → stainless-pendant-ptz-dome-product-photo
+- uniview-dual-lens-panoramic-dome-camera-white.jpg → white-twin-lens-dome-camera-product-photo
+- ubiquiti-unifi-ai-lpr-bullet-4k-camera-black.jpg → black-hooded-bullet-camera-with-blue-ring-product-photo
+- nvr-luminys-r5216pa.png → slim-black-desktop-recorder-product-photo
+
+<!-- merged 2026-10-18 from batch research-long-island.md (includes that page's questions for the register) -->
+## Long Island (hub)
+
+Page: apartment-building-security-camera-installation-long-island (REBUILD in place, 2026-10-18). Hub: up / (Home), (800) 486-0943 only, GBP Brooklyn (1282 Troy Ave, #brooklyn). Links down to -nassau-county and -suffolk-county. Silo-wide findings reused from research/apartment-building-security-camera-installation.md (NYS DOS 19 NYCRR 195.2(b)(1) CCTV scope; tenant-rights.com common areas; Cooperator board approval; FirstService 30–90 day retention; Penal Law 250 audio; Angi NY $1,509 / $797–$2,222; HomeAdvisor; salt-air weatherproofing guide; cloud platforms $20–$80/camera/month from silo pricing). Suffolk-local facts (Ch. 563, Station Yards, Patchogue, Wyandanch, Riverhead, mail-box thefts, Flock, RPA vacancy, LI Index 1,456/882) are on the rebuilt Suffolk page and were deliberately NOT repeated here except as one-line pointers to that page. Format: exact query · platform · URL · finding · page+section used.
+
+### Unreachable surfaces
+- Google PAA / PASF / Answer the Public / Google AI Overview for "apartment building security cameras Long Island" · EMPTY (not accessible in build env — no live Google SERP surface). Reality Check says so and tests published/common claims instead.
+- Bing / DuckDuckGo autocomplete · EMPTY (not accessible in build env).
+- Yelp 1–3★ Long Island installers · EMPTY (not accessible in build env; silo precedent — review text not reachable).
+- Reddit full threads · EMPTY (not accessible in build env); search excerpts only.
+- Newsday article bodies · paywalled → EMPTY; Newsday content used only via the free Newsday database page and a republished Newsday article (Station Yards site).
+- Nassau County Licensing/Registrations page body: JS-rendered, scrape returned only navigation → EMPTY for body; search-result excerpt used (below).
+
+### Rent stabilization (Nassau vs Suffolk)
+1. `Emergency Tenant Protection Act Nassau County villages opted in rent stabilization list Long Beach Glen Cove Great Neck Plaza` · Firecrawl search → scrape · https://hcr.ny.gov/fact-sheet-8 (resolved to HCR Fact Sheet #8 PDF, Nov 2024) · ETPA covers buildings of six or more units built before Jan 1, 1974 in localities that declared an emergency (vacancy < 5%); some limit to larger buildings; tenants entitled to required services, renewal leases, eviction protection; owners may pass on certain upgrade costs only with DHCR permission; Nassau localities listed: Villages of Baxter Estates, Cedarhurst, Floral Park, Flower Hill, Freeport, Great Neck, Great Neck Plaza, Hempstead, Lynbrook, Mineola, Rockville Centre, Russell Gardens, Thomaston; City of Glen Cove; City of Long Beach; Town of North Hempstead (16 entries). No Suffolk locality listed; HSTPA 2019 removed the geographic restriction. · §5 Neighborhood para 2 + facts list; County comparison table; Rent-stabilized section; Q&A B1; Reality Check H3 2.
+
+### Licensing
+2. `Nassau County Office of Consumer Affairs home improvement license required contractors security systems` · Firecrawl search · https://www.liconstructionlaw.com/construction/licensing-requirements-for-home-improvement-contractors-subcontractors-in-new-york-state/ (excerpt, law-firm blog) · Nassau requires a county home-improvement contractor licence for many classes of residential work; county licence does not remove town/village registration or permit obligations. · Compliance callouts (general framing only).
+3. `Nassau County Administrative Code home improvement "21-11" ...` · Firecrawl search · https://www.nassaucountyny.gov/1563/Licensing-Registrations (official; search excerpt only — scrape returned nav only) · lists "Fingerprinting Requirement. Under the Nassau County Administrative Code ... HOME IMPROVEMENT (21-11) ... HOME SERVICES (21-25) ... LOCKSMITHS (21-12.1)". https://www.nassaucountyny.gov/1547/Consumer-Affairs (excerpt): OCA reviews applications from home improvement contractors under §21-11. · County comparison table; Compliance callouts; Reality Check H3 3.
+4. same search · https://www.nycbar.org/why-all-home-improvement-contractors-need-to-be-licensed-... (excerpt, undated) · HIC licence covers work on buildings used as "a private residence, apartment (rental, cooperative or condominium)"; list of licensing offices includes City of Long Beach City Clerk separately from Nassau. · Compliance; Q&A B3.
+5. `City of Long Beach NY home improvement contractor license city clerk requirement` · Firecrawl search · https://www.longbeachny.gov/?SEC=1A40DC3F-AB22-4EF5-8107-35B30A446295&DE=98A54783-1CA2-4DFB-AEC6-31D412490AFA (official excerpt: "Application for Home Improvement License") and https://www.longbeachny.gov/index.asp?SEC=1A40DC3F-AB22-4EF5-8107-35B30A446295&DE=80089B74-4826-4055-A35F-5AE6951E8725 (official excerpt: "LB Home Improvement Contractors 2027-2028" list) · City of Long Beach licenses home improvement contractors through its City Clerk. · County table; Q&A B3; Compliance.
+6. NYS DOS Article 6-D / 19 NYCRR 195.2(b)(1) CCTV scope — reused from silo file. · Compliance; Reality Check H3 3.
+
+### Accessory apartments
+7. `Town of Hempstead accessory apartment permit requirements owner occupied family member senior "accessory apartment"` · Firecrawl search → scrape · https://projects.newsday.com/databases/long-island/rules-apartments-private-homes-li/ (Newsday database, June 24, 2017; modified Dec 9, 2019; compiled by Long Island Index) · "Long Island has 112 towns, cities and villages with regulations about accessory apartments." Hempstead Town: limited — mother-daughter (siblings may qualify) and senior residence permits where owner or spouse is 62; North Hempstead Town: limited — mother-daughter for parent or child, owner occupied, max 700 sq ft, shared utilities and entrance; Oyster Bay Town: family/domestic staff only; Glen Cove and Long Beach cities: not permitted; Villages incl. Garden City, Great Neck, Great Neck Plaza, Mineola, Rockville Centre, Lynbrook, Freeport, Farmingdale, Patchogue: not permitted; Westbury Village: permitted under rental dwelling permit rules; Suffolk towns Babylon, Brookhaven, Huntington, Islip, Riverhead, Southold permitted with conditions. · §5 para; facts list; Accessory section; county table; Q&A F1; Reality Check H3 4.
+8. same search → scrape · https://www.liherald.com/stories/curbing-illegal-housing-through-accessory-apartments,65361 (Herald, March 25, 2015) · Town of Hempstead accessory policy applies only to immediate family and senior citizens; 1,593 accessory apartments in the Town of Huntington. · Accessory section.
+
+### Building stock / development
+9. `Great Neck co-op apartment buildings Great Neck Plaza ...` · Firecrawl search → scrape · https://greatneckplaza.gov/about (official) · Village incorporated May 3, 1930; one third of a square mile; 90 multiple-family apartment buildings; 148 single-family homes; 260+ stores and service establishments; ~40 office buildings; Great Neck LIRR station. · §5; facts; Building specialists; Landmarks; Q&A B2.
+10. same search · https://www.reddit.com/r/longisland/comments/1bmb1h7/considering_moving_to_great_neck_is_it_as_bad_as/ (excerpt only) · "GNP has a bunch of rent stabilized apartment buildings" · §5 (attributed as an r/longisland comment).
+11. `Long Beach NY oceanfront co-op condo buildings Shore Road boardwalk Hurricane Sandy ...` · Firecrawl search · https://www.nysenate.gov/newsroom/in-the-news/2021/todd-kaminsky/long-beach-residents-ny-officials-call-stricter-inspections (2021, excerpt) · "Long Beach is the only area on Long Island with oceanfront high-rises"; buildings "sandblasted every day between sand and the ocean breeze"; 2016 five balconies collapsed at Sunlit Terrace Apartments on Shore Road; 2010 evacuation of a six-storey boardwalk building over a deteriorated column; Lido Beach Towers evacuated after Sandy. · §5; Oceanfront section; Building specialists; Q&A C1, C2; Reality Check H3 6.
+12. same search → scrape · https://www.habitatmag.com/Publication-Content/Building-Operations/2012/2012-November/Hurricane-Sandy-Long-Beach-Co-op-Condo-Cleanup (Habitat, Nov 7, 2012) · manager John Wolf: at 840 Shore Road ground and first floor flooded; Ocean Club condominium lost first floor, pool, heating systems, gym, lobbies; a Neptune Boulevard building's boiler room under 15 feet of water; portable generators gave lobbies/hallways light for brief intervals. · Oceanfront section; Landmarks.
+13. `Mineola transit-oriented apartments ...` · Firecrawl search · https://www.sbjgroup.com/p-onethirdave.html (excerpt) · One Third Avenue: 11-storey apartment building, Mineola, short walk from LIRR, 500,000 sq ft gross (2016). https://www.onethirdave.com/ (excerpt): one block from Mineola LIRR station. · TOD section; Landmarks.
+14. same → scrape · https://millcreekplaces.com/2019/07/mill-creek-launches-leasing-for-modera-metro-mineola-nassau-countys-newest-luxury-apartment-community/ (July 12, 2019) · Modera Metro Mineola: 192 residences, four-storey buildings, short walk from LIRR, two clubhouses/fitness centres, bike storage, self-service package concierge, controlled-access garage parking, two courtyards incl. pool, rooftop decks. · TOD section; Building specialists; Landmarks.
+15. `Westbury OR Hicksville ... apartments near LIRR` · Firecrawl search → scrape · https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-189-unit-housing-development-hicksville-part-downtown (Dec 12, 2023) · 99 Newbridge Road, Hicksville, next to LIRR station; 189 units, 19 workforce; underground parking; 7,000+ sq ft retail; landscaped public plaza; ~$112 million; DRI. · TOD; Landmarks; Q&A D2.
+16. `Gotham Organization Westbury 184 apartments ...` · Firecrawl search · https://libn.com/2026/09/04/westbury-approves-100m-transit-oriented-development/ (LIBN, Sept 4, 2026, excerpt) and https://www.newsday.com/real-estate/westbury-lirr-apartment-complex-lbfixu73 (excerpt) and https://www.railway.supply/westbury-tod-enters-review-as-mtas-first-on-long-island/ (excerpt) · Village approved site plan Sept 3, 2026; Gotham Organization; 184 apartments; five storeys on 1.92 acres of former MTA lot on Railroad Avenue; 15,000 sq ft ground retail (LIBN bullet says 2,000 — conflict; page uses "ground-floor retail" without a figure); 254 parking spaces; public plaza; opening targeted 2029 (Mayor Peter Cavallaro); described as MTA's first TOD on Long Island. · TOD; Landmarks; Q&A D1.
+17. `... apartments near LIRR` · Firecrawl scrape · https://stationyardsli.com/nyc-houses-too-expensive-apartments-near-lirr-could-be-an-option/ (republished Newsday article by Claude Solnik, Aug 7, 2025) · Farmingdale more than 500 apartments; Hicksville The Lisle 189 units; Westbury Scally Place 187 units; Baldwin The Grand 215 apartments; Mineola, Patchogue, Wyandanch "hotbeds". · TOD; facts list.
+18. `Garvies Point Glen Cove ...` · Firecrawl search · https://rxr.com/rxrs-garvies-point-transforming-glen-cove/ (excerpt) · RXR building more than 1,000 housing units, 75,000 sq ft commercial/retail, 28 acres waterfront promenades and parks. https://glencoveny.gov/wp-content/uploads/2020/12/Market-Study-76-North-Realty-40-Garvies-Point-LLC.pdf (official PDF excerpt, 2018): master plan 1,100 units (569 for rent, 541 for sale), 2,381 parking spaces (450 public). · Building specialists; Landmarks; Q&A E2.
+19. `garden apartment complexes Nassau County ...` · Firecrawl search · https://fairfieldproperties.com/living-style/garden-apartments/ (excerpt) · a Long Island management company describing garden apartments "from Woodmere and Cedarhurst in Western Nassau to Riverhead and Middle Island in Eastern Suffolk County". · Portfolio section (as an example of two-county portfolios; no relationship claimed). Other Nassau garden-apartment history: EMPTY (no sourced history found) → described qualitatively.
+
+### Local news / Reddit
+20. `Nassau County police car break-ins apartment complex parking lot ...` · Firecrawl search → scrape · https://abc7ny.com/post/lock-it-or-lose-it-car-thefts-break-ins-up-on-long-island/5644284/ (ABC7, Oct 24, 2019) · Nassau police: 18% increase in car thefts/break-ins; 97% could have been avoided if the key fob had not been left in the vehicle. · §5 facts; Q&A A3.
+21. same → scrape · https://www.cbsnews.com/newyork/news/nassau-car-break-ins/ (CBS NY, undated) · nearly 600 car break-ins "so far this year" in Nassau; police: areas of concern "usually parking lots and mall parking lots"; Lt. Richard Lebrun. · §5 (with "undated" caveat).
+22. `site:reddit.com r/longisland apartment complex packages stolen cameras management Nassau` · Firecrawl search (excerpts) · https://www.reddit.com/r/longisland/comments/1h8ygon/what_cameraalarm_system_do_you_use_andor/ (excerpt: neighbours hit, "the gangs used the jammers. The cameras didn't record anything") · Reality Check H3 5 (wired vs Wi-Fi, attributed paraphrase). https://www.reddit.com/r/longisland/comments/1tbxkb0/ (excerpt: Nassau used plate readers in Hempstead) — not used. Full threads EMPTY.
+23. `Nassau County apartment building package thefts lobby mailroom ...` · Firecrawl search · only out-of-area apartment results (Long Beach, California; Ballard WA) and a Fox5 Nassau porch-pirate item about homes → EMPTY for Nassau apartment-building package incidents; not used (Long Beach CA explicitly excluded).
+
+### Pricing used
+Silo Brooklyn base (research file "Silo pricing") × 1.15 Nassau / × 1.20 Suffolk (v2.3 §9): per camera $575–$1,725 / $600–$1,800; 4–8 cams $5,750–$13,800 / $6,000–$14,400; 12–20 cams $13,800–$28,750 / $14,400–$30,000; 24–40 cams $28,750–$51,750+ / $30,000–$54,000+; labour $86.25–$172.50/hr / $90–$180/hr (base $75–$150). Service $195/hr, 3-hr minimum ($585), not multiplied. Cloud platforms $20–$80/camera/month (third-party, not multiplied).
+
+### Keywords (five layers)
+- Service: apartment building security camera installation Long Island; building CCTV; co-op camera system; condo/HOA cameras; multi-property camera standard.
+- Problem: car break-ins in lots, lobby/package loss, sand and salt damage, flooded lobbies/boiler rooms, departing-staff access, lease-up traffic.
+- Technology: PoE IP cameras, NVR, varifocal dome, dual-module PTZ, cube camera, fibre/wireless bridges, UPS, role-based accounts.
+- Industry: co-op boards, managing agents, portfolio owners, TOD developers, condo/HOA boards, rent-stabilized (ETPA) landlords, owners of homes with accessory apartments.
+- Geographic: Long Island, Nassau, Suffolk, Great Neck Plaza, Mineola, Hicksville, Westbury, Baldwin, Farmingdale, Rockville Centre, Long Beach (Shore Road, Neptune Boulevard), Glen Cove (Garvies Point), Freeport, Lynbrook, Town of Hempstead, North Hempstead, Oyster Bay.
+
+### Questions used on this page (for the Question register)
+
+#### Q&A headings (§9)
+1. Our company manages co-ops in Nassau and garden complexes in Suffolk — why would the same camera job be priced differently in each county?
+2. If we standardise on one camera model across a dozen Long Island properties, what do we gain and what do we give up?
+3. With twenty Long Island buildings and a limited capital budget, how do we decide which property gets cameras first?
+4. When a superintendent or regional manager leaves our Long Island portfolio, how do we cut off their camera access at every building the same day?
+5. Our Rockville Centre rental is covered by rent stabilization — what should we record before replacing the old lobby camera and intercom?
+6. Great Neck Plaza fits 90 apartment buildings into a third of a square mile — how do cameras work when our side passage is a few feet from the next building?
+7. Our building is in the City of Long Beach, not just Nassau County — whose contractor licence list should the installer be on?
+8. Sand blows against our Shore Road building every day — how do we stop it scouring camera domes and jamming the zoom cameras?
+9. Which surfaces on an ageing oceanfront concrete building should never take a camera bracket?
+10. A rental going up beside the Westbury or Hicksville LIRR station is still in design — what should the camera section of the construction documents say?
+11. The village approval for our station-area building includes a public plaza out front — can plaza light poles carry cameras, and who gets to watch them?
+12. During lease-up our new Mineola building gets dozens of tours a week — how should the cameras and the leasing office work together?
+13. Our Glen Cove building faces a public waterfront promenade — how far out can our cameras look?
+14. Our 1940s Nassau garden co-op has old pipe insulation in the basements — does that stop new camera cable from going through?
+15. Long Island has 112 municipalities with their own accessory-apartment rules — do any of them say where cameras can go on those homes?
+16. Can a Long Island landlord rely on building camera footage in a housing-court case?
+17. Does either Nassau or Suffolk actually require an apartment building to have cameras?
+18. Should You Read This Page, the Nassau Page or the Suffolk Page?
+
+#### Visible FAQ (§17) = FAQPage schema
+1. Does an owner with buildings in both counties get one crew, or separate Nassau and Suffolk teams?
+2. Is the price table on this page the same one used on the Nassau and Suffolk pages?
+3. Can one proposal cover several Long Island properties with a separate price for each?
+4. How early should a Long Island co-op book if it wants cameras running before the holiday delivery season?
+5. Will the cameras keep recording if the building's internet service goes down?
+6. Can the board see each camera's view on a photo of our building before it votes?
+7. Where do your vans and ladders go during a job at a Long Island garden complex with assigned parking?
+8. How many years should a Long Island building expect from its cameras before planning replacements?
+9. Can cameras be installed on a Long Island building in the middle of winter?
+10. Do you keep spare cameras on hand so a failed one can be swapped on the first visit?
+
+### Images (11) — source → target (images/apartment-building-security-camera-installation/)
+Real AESS job photos (claimed in img-claims.txt; captioned as example photos from other AESS jobs, not Long Island apartment buildings; no business names):
+- rockland-toyota-active-deterrent.jpeg (ceiling only: mural, signage, TV, people, ladder cropped out) → …-long-island-camera-beside-exit-sign-and-dome-on-tiled-ceiling.webp (hero, og:image)
+- rockland-toyota-wall-camera.jpeg (tight crop of the wall: ceiling grid removed — differs from Suffolk's crop of the sister photo) → …-long-island-bullet-camera-and-sensor-on-bare-pale-wall.webp
+- rockland-toyota-nvr-monitor.jpeg (vendor sticker at lower left cropped out) → …-long-island-recorder-screen-with-camera-tiles-under-cable-runs.webp
+- nassau-window-depot-monitor.jpeg (single top-right tile only: house number, people, office, monitor brand removed) → …-long-island-fisheye-tile-of-brick-wall-and-asphalt-lot.webp
+Manufacturer product photos (captioned as product photos, native size):
+- hikvision-colorvu-dome-camera-black.jpg → …-black-varifocal-dome-camera-product-photo.webp
+- hikvision-tandemvu-ptz-camera.jpg (side white space trimmed) → …-dual-module-ptz-camera-product-photo.webp
+- ubiquiti-unifi-g5-flex-compact-camera-white.jpg (grey bar at top trimmed) → …-white-flex-mini-camera-on-stand-product-photo.webp
+- nvr-ubiquiti-unvr.png (white margins trimmed) → …-1u-rack-recorder-with-four-drive-bays-product-photo.webp
+- hikvision-acusense-indoor-cube-camera.jpg → …-indoor-cube-camera-product-photo.webp
+- ubiquiti-unifi-g4-dome-camera-white.jpg (downsized to 800 px) → …-white-flat-dome-camera-product-photo.webp
+- ubiquiti-unifi-g5-turret-ultra-camera-black.jpg → …-black-turret-camera-product-photo.webp
