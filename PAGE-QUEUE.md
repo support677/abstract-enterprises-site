@@ -292,9 +292,9 @@ LIVE REBUILD | super-live-plus-app-support-repair-ulster-county | Super Live Plu
 LIVE REBUILD | ubiquiti-camera-installation-putnam-county | Ubiquiti Camera Installation | Putnam | up /ubiquiti-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | uniview-camera-installation-dutchess-county | Uniview Camera Installation | Dutchess | up /uniview-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | uniview-camera-installation-manhattan | Uniview Camera Installation | Manhattan | up /uniview-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-REBUILD | uniview-camera-installation-nassau-county | Uniview Camera Installation | Nassau | up /uniview-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
-REBUILD | uniview-camera-installation-staten-island | Uniview Camera Installation | Staten Island | up /uniview-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | video-wall-installation-long-island | Video Wall Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-10-18T14:40Z REBUILD | uniview-camera-installation-nassau-county | Uniview Camera Installation | Nassau | up /uniview-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-18T14:40Z REBUILD | uniview-camera-installation-staten-island | Uniview Camera Installation | Staten Island | up /uniview-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T14:40Z REBUILD | video-wall-installation-long-island | Video Wall Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 REBUILD | video-wall-installation-nassau-county | Video Wall Installation | Nassau | up /video-wall-installation-long-island | (516) 346-5778 | GBP Brooklyn
 REBUILD | video-wall-installation-putnam-county | Video Wall Installation | Putnam | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | video-wall-installation-queens | Video Wall Installation | Queens | up /video-wall-installation-nyc | (347) 434-6392 | GBP Bronx
