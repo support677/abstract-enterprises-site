@@ -241,3 +241,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-manhattan | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-orange-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/network-installation-suffolk-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-bronx | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-hudson-valley | QUEUED
