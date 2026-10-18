@@ -288,3 +288,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-rockland-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-suffolk-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-ulster-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-westchester-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-dutchess-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-manhattan | QUEUED
