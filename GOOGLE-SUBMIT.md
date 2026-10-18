@@ -235,3 +235,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-ulster-county-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-westchester-county-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-putnam-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-staten-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-brooklyn | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-hudson-valley | QUEUED
