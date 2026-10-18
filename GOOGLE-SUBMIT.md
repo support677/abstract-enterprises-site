@@ -220,3 +220,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-ulster-county-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-brooklyn | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-nassau-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-putnam | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-queens | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-staten-island | QUEUED
