@@ -322,9 +322,9 @@ LIVE REBUILD | access-control-installation-country-club-bronx-ny | Access Contro
 LIVE REBUILD | access-control-installation-dumbo-brooklyn-ny | Access Control Installation | Dumbo, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | access-control-installation-eastchester-bronx-ny | Access Control Installation | Eastchester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-edenwald-bronx-ny | Access Control Installation | Edenwald, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-fieldston-bronx-ny | Access Control Installation | Fieldston, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-fulton-ferry-brooklyn-ny | Access Control Installation | Fulton Ferry, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | access-control-installation-gowanus-brooklyn-ny | Access Control Installation | Gowanus, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T19:06Z REBUILD | access-control-installation-fieldston-bronx-ny | Access Control Installation | Fieldston, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T19:06Z REBUILD | access-control-installation-fulton-ferry-brooklyn-ny | Access Control Installation | Fulton Ferry, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T19:06Z REBUILD | access-control-installation-gowanus-brooklyn-ny | Access Control Installation | Gowanus, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-harding-park-bronx-ny | Access Control Installation | Harding Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-indian-village-bronx-ny | Access Control Installation | Indian Village, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-laconia-bronx-ny | Access Control Installation | Laconia, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
