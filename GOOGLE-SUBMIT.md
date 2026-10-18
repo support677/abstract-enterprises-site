@@ -297,3 +297,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nassau-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-westchester-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bay-ridge-brooklyn-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bedford-park-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-bensonhurst-brooklyn-ny | QUEUED
