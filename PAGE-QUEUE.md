@@ -262,9 +262,9 @@ BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-staten-island | NVR Instal
 LIVE REBUILD | nvr-installation-ulster-county | NVR Installation | Ulster | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | nvr-installation-westchester-county | NVR Installation | Westchester | up /nvr-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE REBUILD | parking-lot-camera-installation-queens | Parking Lot Camera Installation | Queens | up /parking-lot-camera-installation-nyc | (347) 434-6392 | GBP Bronx
-REBUILD | residential-security-camera-installation-nassau-county | Residential Security Camera Installation | Nassau | up /residential-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
-REBUILD | school-security-camera-installation-brooklyn | School Security Camera Installation | Brooklyn | up /school-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | school-security-camera-installation-long-island | School Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-10-18T09:56Z REBUILD | residential-security-camera-installation-nassau-county | Residential Security Camera Installation | Nassau | up /residential-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-18T09:56Z REBUILD | school-security-camera-installation-brooklyn | School Security Camera Installation | Brooklyn | up /school-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T09:56Z REBUILD | school-security-camera-installation-long-island | School Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 REBUILD | school-security-camera-installation-manhattan | School Security Camera Installation | Manhattan | up /school-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
 REBUILD | school-security-camera-installation-orange-county | School Security Camera Installation | Orange | up /school-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | security-camera-maintenance-bronx | Security Camera Maintenance | Bronx | up /security-camera-maintenance-nyc | (646) 490-0629 | GBP Bronx
