@@ -340,9 +340,9 @@ LIVE REBUILD | access-control-installation-pelham-bay-bronx-ny | Access Control 
 LIVE REBUILD | access-control-installation-pelham-gardens-bronx-ny | Access Control Installation | Pelham Gardens, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-pelham-parkway-bronx-ny | Access Control Installation | Pelham Parkway, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-prospect-park-south-brooklyn-ny | Access Control Installation | Prospect Park South, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T22:48Z REBUILD | access-control-installation-ridgewood-brooklyn-ny | Access Control Installation | Ridgewood, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T22:48Z REBUILD | access-control-installation-soundview-bronx-ny | Access Control Installation | Soundview, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T22:48Z REBUILD | access-control-installation-south-williamsburg-brooklyn-ny | Access Control Installation | South Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-ridgewood-brooklyn-ny | Access Control Installation | Ridgewood, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-soundview-bronx-ny | Access Control Installation | Soundview, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-south-williamsburg-brooklyn-ny | Access Control Installation | South Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T22:53Z REBUILD | access-control-installation-starrett-city-brooklyn-ny | Access Control Installation | Starrett City, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T22:53Z REBUILD | access-control-installation-throggs-neck-bronx-ny | Access Control Installation | Throggs Neck, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-18T22:53Z REBUILD | access-control-installation-tremont-bronx-ny | Access Control Installation | Tremont, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
