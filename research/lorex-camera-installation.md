@@ -527,3 +527,505 @@ All WebP q80, ≤1600 px. Alt/title unique, each contains "Brooklyn"; captions s
 - Rendered words 13,566; title 55; meta 154; 6 JSON-LD blocks; FAQ 10 = schema 10; HowTo 7 = process cards 7; 2 Web3Forms forms (hf/qf), landing_page extensionless.
 - simcheck: page-level max 0.067 (vs hudson-valley); paragraph max 0.559 (vs hudson-valley, tax-credit paragraph — both cite the same NYC Business summary).
 - check_page.py: all pass except the 11 sibling back-link lines (main run wiring). File 186 KB vs HV 180 KB (>2 KB apart at time of check — re-check after HV finalises).
+
+
+## Long Island — merged 2026-10-18 from the Long Island build (local section, new silo findings, this page's questions for the register)
+
+## Lorex Camera Installation — Long Island hub research (incoming, for merge into research/lorex-camera-installation.md)
+
+Written 2026-10-18 by the REBUILD of `lorex-camera-installation-long-island` (hub; (800) 486-0943 only; GBP Brooklyn 1282 Troy Ave `#brooklyn`; up-link `/`; down-links `/lorex-camera-installation-nassau-county`, `/lorex-camera-installation-suffolk-county`; silo cross-links to NYC hub + 5 boroughs and HV hub + 6 counties). research/lorex-camera-installation.md was NOT edited — main run merges this file.
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page section used. Tools: Firecrawl search (`mcp__Firecrawl__firecrawl_search`, excerpts), Firecrawl gov search (`mcp__Firecrawl__firecrawl_gov_search`), Firecrawl scrape (`mcp__Fire_Crawl__firecrawl_scrape`, markdown / directQuote). Shell curl blocked. "carried" = fact gathered and sourced by an earlier run in another research file (file + row named); URL not re-fetched today. "excerpt" = search snippet only.
+
+---
+
+### New silo findings (Lorex, usable on every Lorex page)
+
+| ID | Exact query · platform | URL | Finding | LI page section |
+|---|---|---|---|---|
+| LS1 | `Lorex NVR operating temperature humidity specifications recorder` · Firecrawl search (excerpts) | https://content.syndigo.com/asset/dada3fee-616d-44aa-a4a7-c4a1d3171a77/original.pdf ; https://www.lorex.com/products/n910a62-fusion-4k-12mp-16-channel-nvr | N910 4K+ Fusion NVR series: operating temperature 14°–131°F (−10°–50°C); humidity 10–90% RH. | §5.5 intro bullet; §9 A4 (garage/attic); §9 B4 (winter heat down); §10 NVR card; §10.5 H3 3; HowTo step 2; Sources |
+| LS2 | same (excerpt) | https://www.lorextechnology.com/downloads/security-nvr/N881-Series/N881_Series_datasheet_R3.pdf | N881 series data sheet: operating temperature 14°–131°F / −10°–55°C (°C figure as printed), humidity 10–90% RH. | same as LS1 (page says "recent recorders") |
+| LS3 | same (excerpt) | https://www.bestbuy.com/site/questions/lorex-8-channel-8-camera-indoor-outdoor-wired-4mp-2tb-nvr-surveillance-system/5783801/question/b46e7740-9640-39e6-a751-1437203608f5 | Best Buy Q&A title: "The specs state a minimum operating temperature of 60 degrees" (older 4MP kit; not verified) | NOT USED (unverified) |
+| LS4 | `Lorex outdoor camera salt air coastal corrosion IP67 operating temperature -22°F help` · Firecrawl search (excerpt) | https://www.lorex.com/products/lorex-4k-ultra-hd-25x-pan-tilt-zoom-ip-camera | Lorex 4K 25x PTZ: IP67, operating temperature −40°F ~ 158°F, IK10 vandal rating. No Lorex statement on salt/corrosion found → page says IP67 covers water/dust ingress only (definition, not a Lorex claim). | §10 PTZ card; FAQ 8 (heat); §9 B2 (salt rinse) |
+| LS5 | carried silo L8 | https://www.lorex.com/blogs/help/oc101-series-2k-outdoor-wi-fi-battery-camera-frequently-asked-questions | OC101 operating temperature −4°F to 122°F. | FAQ 8 |
+| LS6 | `Lorex Costco Long Island OR "Lorex" sold at Costco BJ's Home Depot security camera system 2026` · Firecrawl search → scrape | https://www.lorex.com/pages/costco | "Lorex is a proud partner of Costco Wholesale. For over a decade, Costco has carried a wide variety of Lorex products, including security cameras and systems." Collections listed incl. Wired Analog (DVR) systems, PoE switches, coax-to-Ethernet adapters. | §6 kit card; §10.5 H3 1; Sources |
+| LS7 | carried silo X5, X6, X9, X2, L9, L11 (Brooklyn/HV rows) | lorex.com FAQ / FCC notice / doorbell transformer / Fusion pro page / apps / compatibility | NDAA disclaimer, FCC restriction notice (July 2026), 16–24 VAC doorbell + older 10 V transformers, ≥6 Mbps upload for remote access, three apps, products not always interchangeable. | §5 para 5; §6 doorbell card; §9 C1–C2; §10 doorbell card; FAQ 7; Sources |
+
+### Long Island
+
+**Thesis (distinct from HV = recorder reach/outages/rural internet; Brooklyn = recorder in a pre-1940 attached masonry house; Hikvision LI = keep/replace after FCC; Dahua LI = brand/legal):** on Long Island a Lorex system is decided by the shape of the post-war single-family house — slab ranch (attic is the only route), cape (knee-wall crawl spaces), split-level (four half-floors), high ranch (ground-floor utility room that may flood), colonial, raised waterfront — and by keeping the recorder in a heated, dry room above flood level and inside Lorex's 14–131°F recorder range (never attic/attached garage/basement floor). Most jobs start from a warehouse-club kit. Overlaid: PSEG LI outages, salt air on waterfront walls, porch/driveway theft, police camera registries, Nassau vs Suffolk licensing split, East End seasonal houses.
+
+#### Mandatory sources (§3) — status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | r/longisland excerpts only (LR1–LR3); reddit.com scrape refused by Firecrawl ("we do not support this site") |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so and tests seven circulating claims instead |
+| 6 | Landmarks | LI-LM1–LM8 |
+| 7 | Use cases / building stock | LI-H1–H5 |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | PSEG LI release, CBS, ABC7, NY Post, News12 (excerpts), East Hampton Star (carried excerpt) |
+| 10 | Hyperlocal | News12 LI (excerpt), 27east (excerpt), East Hampton Star (carried excerpt). Patch / Newsday Lorex-specific: EMPTY (no hit) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) — not re-searched; silo row 1.1 #11 |
+
+#### Building stock / geography (LI-H)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-H1 | carried — research/dahua-camera-installation.md LI hub (Census API ACS 2023 5-yr, B25035/B25001/B25024) | https://api.census.gov/data/2023/acs/acs5 | Nassau 477,860 units, 364,529 one-unit detached, median year built 1955; Suffolk 579,790 units, 463,095 detached, median 1970. | §5 para 1; §5.5 bullets 1–2; two-county cards + table; Sources |
+| LI-H2 | carried — research/fiber-optic-installation.md LI hub | https://www.ny.gov/counties/nassau ; https://www.ny.gov/counties/suffolk | Nassau: 2 cities, 3 towns, 64 villages, 60+ hamlets, ~453 sq mi; Suffolk: 10 towns, ~2,373 sq mi. | §5.5 bullet 3; Sources |
+| LI-H3 | carried — research/cat6-repair.md LI hub | https://kerimurrayarchitecture.com/levittown-ny/ | 17,447 Levittown homes built 1947–1951, many ranches on concrete slabs. | §5.5 bullet 2; §7 slab-ranch card; §13 Levittown card; Sources |
+| LI-H4 | `Southampton OR "East Hampton" seasonal homes percent vacant seasonal use census housing units` · Firecrawl search → scrape (directQuote) | https://www.southamptontownny.gov/DocumentCenter/View/857/Demographics-and-Housing-PDF | "The Town of Southampton has a larger percentage of seasonal housing at 35.2%, while the County, as a whole is much lower at 7.3%." (document "Southampton Document FINAL September 2004" — 2000-era data) | §5.5 bullet 6; §13 Southampton card ("about 35 per cent", "a planning study"); Sources |
+| LI-H5 | same search (excerpt) | https://www.27east.com/east-hampton-press/article_610622df-48d8-5b94-808f-bc8666d4c52f.html | 2010 Census: nearly half of Southampton Town houses marked "vacant"; East Hampton vacant share 58%→60%. | background only |
+| LI-H6 | carried — research/dahua-camera-installation.md (excerpt) | https://www.easthamptonstar.com/police-courts/202021/cops-ask-help-east-hampton-burglaries | Police released a still from a Nest camera inside a burglarised house on Sammy's Beach Road, East Hampton (no date in excerpt). | background only |
+| LI-H7 | carried — dahua LI (excerpt of Newsday FB post) | https://www.facebook.com/newsday/ (post 1540183818152862) | Newsday analysis of ~12,000 2026 home sales: >5,000 built in the 1950s–60s. | NOT USED (excerpt via Facebook) |
+Note: house-type descriptions (cape knee walls, split-level half-floors, high ranch ground floor, blown-in insulation, cedar shakes North Shore→Hamptons, stucco on post-war Nassau houses) are general building knowledge, not statistics — FLAG: no per-type source.
+
+#### Power / storms / flooding (LI-W)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-W1 | `PSEG Long Island outage customers storm 2025 OR 2026` · Firecrawl search → scrape | https://www.psegliny.com/en/Newsroom/2025/092626-StormUpdate1300 | Release dated "(UNIONDALE, N.Y. – Sept. 26, 2026)" (URL folder says 2025): coastal storm, gusts to 55 mph, 13,337 of 1.2 million customers affected at 1 PM; >34,600 restored since 7 AM Friday; hardest hit Huntington Station, Setauket, Bay Shore, Northport, Southampton; 850+ field personnel. | §5 para 4; §10.5 H3 5; Sources |
+| LI-W2 | carried — research/hikvision-security-camera-installation.md W1 | https://www.lipower.org/wp-content/uploads/2020/09/LIPA-Isaias-30-Day-Report-Final.pdf | LIPA 30-day report: Isaias Aug 4 2020 ~645,000 customer outages; full restoration took eight days. | §5 para 4; §5.5 bullet 4; §10.5 H3 5; Sources |
+| LI-W3 | carried — hikvision LI W2 | https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20240823 | Aug 18–19 2024 first-ever flash flood emergency for Suffolk; Stony Brook Mill Pond dam failed; >2,000 residents and business owners flood damage. | §5.5 bullet 5; §10.5 H3 3; §13 Stony Brook card; Sources |
+| LI-W4 | carried — hikvision LI W3 | https://en.wikipedia.org/wiki/Effects_of_Hurricane_Sandy_in_New_York | Long Beach ~$150 million damage. | §13 Long Beach card; Sources |
+| LI-W5 | `Long Island elevated homes flood zone FEMA South Shore raised houses after Sandy Nassau Suffolk number` · Firecrawl search → scrape (directQuote) | https://www.townofbabylonny.gov/faq.aspx?TID=70 | Town of Babylon DPW flooding FAQ: "FEMA has designated most of the area as an AE6 Flood Zone, which means that anything less than six feet above sea level is prone to flooding." | §9 B1 (flood zone recorder); Sources |
+| LI-W6 | same search (excerpt) | https://longislandadvocate.com/superstorm-sandy-still-haunts-suffolk-residents-today/ | "more than 10,000 homes were flooded with one to six feet of water" (Suffolk, Sandy; quote attributed to Schneyer). | NOT USED (excerpt, secondary) |
+| LI-W7 | same search (excerpt) | https://www.reddit.com/r/longisland/comments/1fdif2i/is_it_worth_purchasing_a_home_in_a_flood_zone_area/ | r/longisland: "Our house is waterfront in the highest risk zone. It flooded in Sandy, but that's it." | Sources (anecdote list) |
+Raised-after-Sandy houses (§7 card, §9 B3) — general; no count sourced (FLAG). No source found for elevated-home numbers on LI → EMPTY.
+
+#### Police / crime / local news (LI-N)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-N1 | `Long Island car thefts unlocked cars driveways 2026 police Nassau Suffolk Newsday` · Firecrawl search → scrape (directQuote) | https://www.cbsnews.com/newyork/news/nassau-suffolk-counties-form-task-force-to-target-high-end-thefts/ | CBS NY (image dated Jan 18, 2024): new LI task force vs high-end home break-ins and car thefts; three men arrested, part of a crew of 15–20 who "spot high end cars in driveways then break into homes in search of key fobs"; break-ins and car thefts "spiked on Long Island since 2021". | §5 para 3; §9 D2 (driveway); Sources |
+| LI-N2 | carried — dahua LI / hikvision LN4 | https://abc7ny.com/post/nassau-county-police-task-force-burglaries-long-island/14337932/ | Jan 18 2024 multi-agency task force; burglars "attracted by cars in people's driveways". | §5 para 3; Sources |
+| LI-N3 | carried — hikvision LN5 | https://www.cbsnews.com/newyork/news/suffolk-county-porch-pirate-ring/ | Nov 25 2025: Suffolk DA charged 14 men; >200 phones/tablets from porches in 31 communities incl. Brentwood, Central Islip, Shirley, Deer Park. | §5 para 3; §9 D1 (packages); Sources |
+| LI-N4 | carried — hikvision LN1 | https://www.pdcn.org/CivicAlerts.aspx?AID=15190 | NCPD 2026 news flash: residences across Nassau entered Jul 11 2025–May 23 2026, jewellery taken; arrest in New Hyde Park. | §5 para 3; Sources |
+| LI-N5 | carried — hikvision LN6 | https://scpdshield.org/Initiatives | SCPD Camera Registry Program; retrieval at owner's convenience. | §9 D3 (registry); §10.5 H3 7; Sources |
+| LI-N6 | carried — hikvision LN7 | https://gardencitypolice.net/private-camera-reg | Garden City PD private camera registration "does NOT provide us access". | §9 D3; §10.5 H3 7; Sources |
+| LI-N7 | `"Long Island" Lorex camera footage police OR burglary OR "porch" Patch OR News12 2025 2026` · Firecrawl search (excerpt) | https://nypost.com/2026/08/02/us-news/flock-safety-cameras-vandalized-on-long-island-after-accusations-cop-tracked-lover/ | NY Post headline, Aug 2 2026: "Flock Safety cameras vandalized on Long Island after accusations cop tracked lover" (headline/date only). | §10.5 H3 7 (headline only); Sources |
+| LI-N8 | same (excerpt) | https://longisland.news12.com/suffolk-communities-on-high-alert-following-multiple-car-break-ins | News12: reports of broken windows on Fairfield Circle, Brentwood (undated excerpt). | NOT USED (undated) |
+| LI-N9 | same (excerpts) | Instagram reels (Syosset Flock camera theft; Suffolk bill) | excerpts only | NOT USED |
+| LI-N10 | same search, Lorex-specific LI news | — | No LI news item naming Lorex found → EMPTY | — |
+
+#### Licensing / permits (LI-K)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-K1 | `Nassau County home improvement contractor license definition "home improvement" includes installation burglar alarm security system` · Firecrawl gov search | https://archive.nassaucountyny.gov/agencies/OCA/Business/LocalLaw6-1970.html | Local Law 6-1970: "Home Improvement" shall not include … (e) automatic fire alarm systems, or (f) burglar alarm systems. Cameras not named. | §8.5 Nassau bullet; Sources |
+| LI-K2 | same | https://nassaucountyny.gov/DocumentCenter/View/1638 | Consumer checklist: HI law does NOT apply to fire or burglar alarm systems; "Electricians and Plumbers. (They must be licensed by the towns and villages in Nassau County.)" | §8.5; FAQ 4 (outlet); two-county card/table; Sources |
+| LI-K3 | same | https://nassaucountyny.gov/FAQ.aspx?QID=205 | Commercial-only contractors do not need the HI licence; licensed electricians etc. exempt in their field; $650 / 2-yr licence. | §8.5 (commercial-only clause) |
+| LI-K4 | `Suffolk County Code Chapter 563 "communication cable installer" restricted license 90 volts audio video` · Firecrawl gov search | https://suffolkcountyny.gov/Portals/0/formsdocs/labor/code.pdf | Code of Rules, Communications Cabling Systems (restricted licence): "Furnish and/or install, repair, maintain, alter or erect all cabling systems of 90 volts or less, for computer networking, telecommunications, cable TV, fiber optics, audio and video systems and home theater systems." Rev. 10/2013. | §8.5 Suffolk bullet; two-county card/table; Sources |
+| LI-K5 | carried — hikvision K3 / cat6-repair LI | https://ecode360.com/14948079 | Ch. 563 Art. XI: towns/villages with own licensing carved out. | §8.5; Sources |
+| LI-K6 | carried — hikvision K1 | https://dos.ny.gov/system/files/documents/2024/05/security_0.pdf | 19 NYCRR §195.2(b)(1): licence for work on CCTV/video surveillance used to detect/monitor intrusion, theft. | §8.5 first bullet; Sources |
+| LI-K7 | carried — hikvision K4 | https://newyork-811.com/homeowners/ | Call 811 at least 48 hours before digging. | §8.5; FAQ 6; Sources |
+| LI-K8 | carried — silo HV-G6 / HV-G8 | nysenate CVR 52-A ; nyc-business tax credit | Civil Rights Law §52-a; Commercial Security Tax Credit ≤50 employees, up to $3,000/location. | §8.5; FAQ 3; Sources |
+Whether a Nassau HI licence is needed for camera-only residential work: EMPTY (law silent on cameras) → page tells owners to ask which licence covers the job. AESS's own Nassau/Suffolk licences: NOT CLAIMED on page (FLAG — confirm what AESS holds).
+
+#### Corridors / landmarks (LI-LM) — carried, sources fetched by earlier LI runs
+| ID | URL | Finding | Used |
+|---|---|---|---|
+| LI-LM1 | https://en.wikipedia.org/wiki/Roosevelt_Field_(shopping_mall) | Largest mall on LI, East Garden City/Uniondale | §8 card; §13 card; Sources |
+| LI-LM2 | https://cmmllp.com/hauppauge-industrial-park-update-2017-long-islands-oasis-productivity-innovation/ | ~1,350 businesses, ~11 sq mi (Long Island Innovation Park at Hauppauge) | §8 card; §13 card; Sources |
+| LI-LM3 | https://iraceenterprises.com/route-110-corridor/ | Route 110: Farmingdale, Melville, Huntington Station; office/flex/warehouse | §8 card; Sources |
+| LI-LM4 | https://govmarketnews.com/suffolk-county-master-developer-rfp-ronkonkoma-hub/ | Ronkonkoma Hub by the LIRR station and MacArthur Airport | §8 card; Sources |
+| LI-LM5 | (LI-H3) Levittown | | §13 |
+| LI-LM6 | (LI-W3) Stony Brook Mill Pond | | §13 |
+| LI-LM7 | (LI-W4) Long Beach | | §13 |
+| LI-LM8 | (LI-H4) Southampton | | §13 |
+Route 58 Riverhead, Old Country Road, Jericho Turnpike, village downtowns (Rockville Centre, Mineola, Huntington, Patchogue, Sayville) and the town list in §13 are real place names used without attached facts (FLAG: no per-corridor source this run).
+
+#### Reddit (LI-R)
+| ID | Exact query · platform | URL | Finding (excerpt) | Used |
+|---|---|---|---|---|
+| LR1 | `site:reddit.com r/longisland security cameras Lorex OR "camera system" house` · Firecrawl search | https://www.reddit.com/r/longisland/comments/1kc5ygw/home_security_cameras/ | "ring is a great camera system as long as you pay the yearly subscription I think it's $90." | §10 comparison (labelled as one commenter); Sources |
+| LR2 | same | https://www.reddit.com/r/longisland/comments/1cn1pcu/security_system_suggestions/ | "My previous setup was ADT and Dropcam … considering Reolink as a cheaper option" | background |
+| LR3 | same | https://www.reddit.com/r/longisland/comments/nbmls1/security_camera_installer/ ; …/1edj45z/security_camera_installation/ | Thread titles only (installer requests). | background |
+Scrape of LR1 refused by Firecrawl → full threads EMPTY (not accessible in build env).
+
+#### Published cost claim used in §10.5
+Carried silo A1 (Angi 2026: $100–$200 per camera labour on top of equipment). Used in §10.5 H3 6.
+
+#### Pricing used (§9 — no invented prices)
+Basis identical to the HV hub: Brooklyn labour base from the silo calculator (silo §1.7) = $200 per wired camera ($175 line + $25 box), $150 recorder setup; equipment not multiplied (4-cam kit equipment $845, camera $78, recorder $320). §9 factors on labour only, round half-up.
+| County | × | Labour / wired camera | Recorder setup | 4-camera system | Camera added, from | Recorder with setup, from | BYOE |
+|---|---|---|---|---|---|---|---|
+| Nassau | 1.15 | $230 | $173 | $1,938 | $308 | $493 | $230/camera + $173 setup |
+| Suffolk | 1.20 | $240 | $180 | $1,985 | $318 | $500 | $240/camera + $180 setup |
+Service after install: $195/hr, 3-hr minimum ($585), not multiplied. Recorder relocation, doorbell transformer, trenching, electrician work, waterfront hardware: "quoted after a walk-through" (no price).
+**FLAG:** price calculator pages don't follow §9: lorex-camera-installation-prices-long-island and -prices-nassau-county both show 4 cameras from $1,985 / cameras from $318 (= Suffolk 1.20 figures); -prices-suffolk-county shows $2,069 / $336. Hub text says the calculator "sorts the Island into its own price zones" and the written quote follows the county line in the hub table. Anwar to decide.
+
+#### House practices stated on the page without an external source (FLAG for Anwar)
+- Recorder never in attic / attached garage / basement floor; above highest past water; PoE switch allowed in a heated garage on a shelf.
+- Cable over joists above blown-in insulation, insulation re-levelled; mounting blocks on shakes/vinyl/stucco; stainless fixings on waterfront walls; spring/autumn fresh-water rinse.
+- Doorbell + separate wired porch camera; low first-floor driveway camera + wide eave camera; colour (light) preferred to IR on dark streets.
+- Strip-centre exterior cameras need landlord's written permission (general lease practice, not sourced).
+- Loading-door aim across the dock; tune after dark with a vehicle.
+- Unplug-and-restart test, after-dark check, USB clip export shown to every owner.
+- Two-hour arrival windows, 7 days to 8 PM; "recording again within one to two hours of arrival" (silo convention, blueprint §5 el. 36); one day for 4–6 cameras on an accessible house; video-call walk-throughs.
+- AESS places 811 requests itself when trenching; arranges or coordinates electricians.
+- Field Notes = installer-voice method note (attic hatch / basement / panel first, recorder room, unplug test, after-dark check), no specific job story.
+
+#### Images (11) — Drive: no Lorex folder (per main run); CompanyCam not connected
+Permanent image rule. All looked at with Read before naming; no faces, house numbers, plates or readable documents. Avoided every source file the Brooklyn and HV Lorex pages used. Output folder `images/lorex-camera-installation/`, all WebP q80, ≤1600 px, names contain `-long-island-`.
+| Output (lorex-camera-installation-long-island-…webp) | Source | Crop | Placement |
+|---|---|---|---|
+| black-lorex-video-doorbell-with-blue-ring-product-photo (423×562) | images/lorex-video-doorbell.webp | none — Lorex product shot | Hero (eager) |
+| two-cameras-on-yellow-fascia-corner-against-sky (917×235) | images/floodlight-camera-installation/floodlight-camera-installation-brooklyn-dome-camera-under-fascia-beside-led-strip-lights.webp | (0,0,917,235) — mural and LED strip excluded | §5 |
+| white-lorex-bullet-camera-with-twin-lights-product-photo (275×183) | images/lorex-4k-bullet-camera-installation-long-island.jpg | none — Lorex product shot | §6 |
+| white-dome-camera-in-ceiling-corner-above-wall-sensor (400×620) | images/dahua-camera-installation/dahua-camera-installation-suffolk-county-turret-camera-in-ceiling-corner-beside-flag.webp | (0,0,400,620) — flag excluded | §7 |
+| small-cameras-on-high-wall-under-clerestory-windows (907×440) | images/dahua-camera-installation/dahua-camera-installation-long-island-small-cameras-on-high-wall-of-open-hall.webp | none | §8 |
+| loose-blue-and-white-network-cables-crossing-ceiling-beam (600×255) | images/dahua-camera-installation/dahua-camera-installation-orange-county-recorder-monitor-camera-grid-and-cable-bundles.webp | (0,0,600,255) — monitor and camera tiles excluded | §9 cluster A |
+| black-bullet-camera-on-pole-mount-in-drop-ceiling (685×390) | images/dahua-camera-installation/dahua-camera-installation-long-island-bullet-camera-on-drop-ceiling-tile-mount.webp | (250,170,935,560) | §9 end (business cluster) |
+| black-lorex-floodlight-camera-with-two-white-panels-product-photo (263×192) | images/lorex-dual-floodlight-camera-installation-long-island.jpg | none — Lorex product shot | §10 |
+| mini-dome-cameras-among-ceiling-lights-and-speaker (930×430) | images/dahua-camera-installation/dahua-camera-installation-suffolk-county-mini-dome-cameras-in-drop-ceiling.webp | (300,0,1230,430) | §13 |
+| white-lorex-video-doorbell-product-photo (151×334) | images/lorex-video-doorbell-camera-installation-long-island.jpg | none — Lorex product shot | §14 |
+| small-black-camera-high-on-grey-wall-above-ceiling-lights (900×755) | images/dahua-camera-installation/dahua-camera-installation-orange-county-black-bullet-camera-high-on-painted-wall.webp | (250,180,1150,935) | Field Notes |
+**Library FLAG (new):** images/lorex-dual-lens-dome-camera-installation-*.jpg shows a **Uniview (unv)**-branded dual-lens dome, not Lorex — add to the known-bad list. images/lorex-4k-turret-camera-installation-* and lorex-4k-turret-dome-camera-installation-* and lorex-turret-network-camera-installation-nyc.jpg are byte-identical; lorex-wifi-ptz-hero-camera-installation-long-island.jpg = lorex-wifi-ptz-camera-installation-hudson-valley.jpg; lorex-dual-floodlight-camera-installation-long-island.jpg = lorex-floodlight-camera-installation-hudson-valley.jpg. The bullet-on-drop-ceiling source carries a small non-Lorex logo (unreadable at page size); caption names no brand.
+
+---
+
+### Question register — lorex-camera-installation-long-island (REBUILD 2026-10-18)
+All old-template LI questions removed. Compared by meaning against every question in the silo register (old template, prices pages, HV and Brooklyn rebuilds) and against hikvision/dahua LI FAQ intents (cross-silo). Deliberately NOT asked as questions here (owned elsewhere): cable distance limits, outbuildings, outage recording/restart, licensing-by-county, which app, AG lawsuits, ownership, neighbour's yard, caretaker access, board/HOA permission, doorbell on old wiring, pigeons/animal alerts, payment, old DVR removal, police export, internet speed, adding cameras later.
+
+§9 Questions Answered (H3) — 16 (repair capture H2 is a statement: "Lorex Cameras Offline on Long Island — Same-Day Help"):
+1. Our ranch sits on a concrete slab with no basement. How does Lorex cable get from the recorder to the eaves?
+2. Our cape has a finished upstairs with knee walls. Can cable run behind them to reach the cameras at each end of the house?
+3. In a split-level, which of the half-floors makes the best home for the Lorex recorder?
+4. Can the recorder sit in the attached garage or up in the attic, where the cables are easiest to reach?
+5. How are cameras fixed to cedar shakes, vinyl or stucco without causing a leak?
+6. Our South Shore house is in a FEMA flood zone. Where should the recorder and the network gear go?
+7. How often should cameras on a bay-front or ocean-facing wall be rinsed and checked?
+8. Our house was raised after Sandy. Does the new crawl space or pier foundation change how the cameras are wired?
+9. Can the Lorex recorder stay on all winter in a house where the heat is turned down to the minimum?
+10. We bought a Lorex kit at a warehouse club. What usually has to change before it fits a Long Island house?
+11. Can two Lorex kits bought a year apart run on one recorder?
+12. Packages keep disappearing from our front step. Is a Lorex doorbell enough, or does the porch need its own camera?
+13. Thieves on Long Island go after cars parked in driveways. Where does the camera need to be to see someone trying the door handles at night?
+14. Our police department runs a camera registry. Should we sign up, and what does it give them?
+15. Can a Lorex camera at our strip-centre shop look out over the shared parking lot?
+16. Will a camera watching our loading door be blinded by truck headlights backing in?
+
+§17 FAQ (visible == FAQPage schema) — 10:
+1. Will the crew need to get into our attic or crawl space, and what should we clear beforehand?
+2. Is winter a bad time to have outdoor cameras installed on Long Island?
+3. Can the cameras on the front of the house record the street and the sidewalk?
+4. The closet we picked for the recorder has no outlet. Who adds one?
+5. Can the new camera cables come into the house through the hole the old cable-TV line used?
+6. Can a cable cross our driveway to a camera on the far side, and who checks for buried lines first?
+7. Will wired Lorex cameras slow down our home Wi-Fi or streaming?
+8. Do Lorex cameras keep working on a south-facing wall in a Long Island heat wave?
+9. Can the crew come on a weekend so we can be home for the walk-through?
+10. Can a camera on the house keep watch over our boat at the end of the dock?
+
+### Build notes
+- Rendered words 12,763; title 59 ("Lorex Camera Installation Long Island NY | Nassau & Suffolk"); meta 157; one H1; 6 JSON-LD blocks; FAQ 10 = schema 10; HowTo 6 = process cards 6; 2 Web3Forms forms (hf/qf), landing_page `lorex-camera-installation-long-island`; tel only (800) 486-0943; WhatsApp only wa.me/17186790359 (+ footer text).
+- check_page.py: PASS (incl. registration and sibling back-links — siblings already link to /lorex-camera-installation-long-island). File 177,115 B (HV 180,259; Brooklyn 186,125) — re-check vs the parallel Manhattan/Orange County rebuilds.
+- simcheck: page-level max 0.147 (vs HV); paragraph max 0.649 = changelog byline vs HV (freshness constant); hero freshness stamp 0.631 vs Brooklyn; every body paragraph ≤ 0.592. Cross-silo (hikvision/dahua/apartment LI): body max 0.622 (hikvision DOS-licence bullet rewritten from 0.692); freshness stamp 0.693 vs hikvision LI.
+
+
+## Manhattan — merged 2026-10-18 from the Manhattan build (local section, new silo findings, this page's questions for the register)
+
+## Lorex Camera Installation — Manhattan research (incoming, for merge into research/lorex-camera-installation.md)
+
+Written 2026-10-18 by the REBUILD of `lorex-camera-installation-manhattan` (subagent; research/lorex-camera-installation.md not edited). Format per blueprint v2.3 §12.4: exact query · platform · URL · finding · page section used. Tools: WebSearch, WebFetch, Firecrawl search/scrape. Shell curl blocked. "carried" = fact gathered and sourced by an earlier run in another research file (named); URL not re-fetched today. "excerpt" = only the search snippet was read.
+
+### Manhattan
+
+Page: `lorex-camera-installation-manhattan` (REBUILD in place). Up-link `/lorex-camera-installation-nyc`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). Direct line (929) 560-0737 in body, CTAs, sticky bar, form copy and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359 (+ footer/contact text).
+
+**Thesis (distinct from Brooklyn = recorder placement and cable routes through an attached masonry house; Hudson Valley = distance, outbuildings, outages, rural internet; LI = house construction types/flood/coast; OC = short-term rentals/commuter houses/new builds):** in Manhattan a Lorex system lives inside someone else's building, so the job is governed by permission and boundaries — what the managing agent/board/landlord must approve (COI, hours, elevator, alteration agreement), where the owner's space ends (inside-the-door camera vs shared hallway; inside-the-glass vs façade; LPC on landmarks), what features may legally be switched on (NYC biometric law LL3/2021 for stores/restaurants, eavesdropping/audio, Labor Law §203-c staff areas), and how the recorder joins building-controlled internet in Wi-Fi-congested towers. Lorex is fitted to the part of Manhattan that is genuinely the customer's — apartments, townhouses, lofts, small businesses — not building-wide co-op systems.
+
+#### Mandatory sources (§3) — status for this page
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Firecrawl search excerpts only (M-R1–M-R5); threads not scraped |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so and tests seven circulating claims instead |
+| 6 | Landmarks | M-N1–M-N5, M-L1–M-L3 |
+| 7 | Use cases / building stock | M-H1 (Census, carried) |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | Hoodline (Jun 2026), PIX11 (2017), ABC7 (2024, carried), NYPD 19th Pct (carried) |
+| 10 | Hyperlocal | West Side Rag / amNY / DNAinfo package-theft hits were old (2016–2019) — not used; NYPD 19th Pct Facebook (carried) |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) — not searched again (silo row 1.1 #11) |
+
+#### Building stock (M-H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-H1 | carried from research/hik-connect-app-support-repair.md `## Manhattan` M-H1 (Firecrawl Alexandria census-gov, ACS 2023 5-yr, county 061). Direct re-fetch today: WebFetch → permission timeout; Firecrawl scrape → "Missing Key" page | https://api.census.gov/data/2023/acs/acs5?get=group(B25035)&ucgid=0500000US36061 | New York County 918,806 units; 50+ unit 522,823; 20–49 201,967; 1-unit detached 10,012; 1-unit attached 6,713; renter-occ 583,733 vs owner 191,643; median year built 1951; ≤1939 392,000. | §5 para 1; §5.5 bullets 1–3; Sources |
+
+#### Boards, managing agents, hallways (M-B)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-B1 | `co-op board alteration agreement security camera apartment door hallway Manhattan approval` · WebSearch → WebFetch | https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops | FirstService Residential, Sept 23, 2024 (Christina Forbes, Manhattan Condo/Co-op Division): access via property manager; resident copies need board/counsel approval; retention "generally" 30–90 days; hallway cameras should not capture inside any unit; Labor Law §203-c; audio "could be considered unlawful eavesdropping"; doorbell rules: board approval, no direct facing of another unit, audio disabled. | §5 para 3 fact; §5.5 bullet 6; §9 hallway H3; §10.5 H3 5, 7; FAQ package; Sources |
+| M-B2 | `reddit AskNYC doorbell camera apartment door hallway co-op not allowed` · WebSearch → WebFetch | https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc | Brick Underground, June 23, 2022 (Niki Khindri, Adam Leitman Bailey): board can ban video doorbells/cameras in common areas by resolution/house rule without shareholder vote; camera angled into neighbour's open door, esp. with audio, may invade privacy; apply rules equally; footage useful in Pullman proceedings. | §9 hallway H3; §9 neighbour-doorbell H3; §10.5 H3 2; Sources |
+| M-B3 | `Habitat magazine camera in hallway co-op shareholder installed camera outside door board` · WebSearch → WebFetch | https://www.habitatmag.com/Board-Talk/shareholder-installs-surveillance-camera-over-his-door/Shareholder-installs-surveillance-camera-over-his-door | Habitat Board Talk, Dec 9, 2009 (unnamed poster): "That camera needs to come down immediately." | Sources only (background) |
+| M-B4 | same search → WebFetch | https://www.blockrenovation.com/guides/what-is-an-alteration-agreement-for-buildings-in-new-york-city-and-how-to-read-one?hsLang=en | Alteration agreements: contractors need liability insurance and workers' comp; hours "think 9 a.m. to 5 p.m. on weekdays"; weekend work typically banned; approvals "anywhere from a few weeks to a couple of months"; deposits; does not address low-voltage specifically. | §5 para 2; §9 hours H3; Sources |
+| M-B5 | `HPD peephole chain door guard landlord required multiple dwelling NYC Housing Maintenance Code 27-2043` · WebSearch → WebFetch | https://nycadmincode.readthedocs.io/t27/c02/sch02/art11/index.html | HMC §27-2041: owner shall provide and maintain a peephole in the entrance door of each dwelling unit (exceptions listed); §27-2043(a) key lock, class A heavy-duty latch set + dead bolt; (b) chain door guard in class A. | §5.5 bullet 4; §9 inside-camera H3; Sources |
+
+#### Rules / law (M-G)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-G1 | `NYC biometric identifier information law commercial establishments signage facial recognition cameras Admin Code 22-1202` · WebSearch → WebFetch | https://intro.nyc/local-laws/2021-3 | LL 3 of 2021 (Admin Code ch. 12): commercial establishments = places of entertainment, retail stores, food and drink establishments; sign "near all of the commercial establishment's customer entrances" if collecting/retaining/converting/storing/sharing biometric identifier info; unlawful to sell/lease/trade/profit; private action: $500 per sign violation after 30-day cure notice; $500 negligent / $5,000 intentional sale violations; excludes video not analysed by biometric software and not shared/sold (other than to law enforcement). | §5.5 bullet 5; §8.5 bullet 1; §9 biometric H3; §10.5 H3 4; Sources |
+| M-G2 | `DCWP biometric identifier information sign rule …` · WebSearch → WebFetch | https://rules.cityofnewyork.us/rule/biometric-identifier-information/ | DCWP rule effective January 15, 2022; sign wording/size not in fetched text. | §5.5 bullet 5 (date only); Sources |
+| M-G3 | carried silo G1 (Brooklyn) | https://intro.nyc/local-laws/2024-128 | LL 128/2024 low-voltage <50 V; no electrical permit for qualified person. | §8.5 bullet 5 |
+| M-G4 | carried silo G3 (Brooklyn) | https://www.nysenate.gov/legislation/laws/PEN/250.05 | Eavesdropping class E felony; one-party consent. | §8.5 bullet 3; §9 neighbour-doorbell H3; §10.5 H3 5; FAQ nanny |
+| M-G5 | carried silo G5 / M-B1 | https://nysenate.gov/legislation/laws/pen/250.40 ; FSR (Labor Law §203-c) | Places where a person may reasonably expect to disrobe; employers may not video record employees in restrooms, locker rooms, changing rooms. | §8.5 bullet 2; §9 staff H3; FAQ nanny, office suite |
+| M-G6 | carried silo G6 | https://nyc-business.nyc.gov/nycbusiness/description/nyscommercialsecuritytaxcredit | Up to $3,000 per retail location, ≤50 employees. | §8.5 bullet 6 |
+| M-G7 | carried hik-connect M-B7 / silo L8 | https://nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf | LPC staff-level approval for discreet, well-spaced cameras at mortar joints/plain masonry, minimal painted conduit. | §7.5 townhouses; §8.5 bullet 4; §9 historic-district H3 |
+
+#### Lorex (M-X) — new this run
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-X1 | `Lorex facial recognition face detection known faces feature recorder` · WebSearch → WebFetch | https://www.lorex.com/blogs/help/n910-series-4k-ultra-hd-12mp-16-camera-capable-nvr-face-detection | Meta description only: N910 face detection can "detect and capture faces … while triggering alarms and/or notifications"; Lorex caution: "Facial recording without consent is illegal in certain jurisdictions." Lorex also lists DVRs "with … face recognition" (search titles, lorex.com). | §9 biometric H3; §10.5 H3 4 |
+| M-X2 | `Lorex doorbell apartment door wireless battery doorbell peephole alternative …` · WebSearch → WebFetch | https://www.lorex.com/en-au/blogs/products/b463aj-series | B463AJ "Lorex 2K Battery Video Doorbell"; page carries FCC notice: "Under FCC rules effective July 16, 2026, this product cannot be sold or marketed for use in connection with public safety, security of government facilities, or other national security purposes." | background (§10 doorbell card: battery models) |
+| (silo) | X1, X2, X3, X5, X6, X8, X9, L11, O1, O2 from the silo file | see silo | 328 ft; Fusion 8+8, 6 Mbps upload; three apps (Pro up to 16 multi-view); FAQ NDAA line, 30-day returns, audio caution, no monthly fees; FCC DA 26-635 notice; W881AA near router; 16–24 VAC doorbells; not interchangeable; NE/TX AG suits. | §9, §10, §10.5, FAQ |
+
+#### Local news / programs / landmarks (M-N, M-L)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-N1 | `Manhattan store burglary October 2026 NYPD seeks suspect surveillance` · WebSearch → WebFetch | https://hoodline.com/2026/06/midtown-door-kicker-wanted-after-3-a-m-storefront-scare-nypd-says/ | Hoodline (Bryce Winslow), June 24, 2026: Sun May 10, 2026 ~3 a.m., 349 West 48th Street storefront, Midtown North; man kicked door, didn't get in, ran west; Crime Stoppers posted stills June 23; reward up to $3,500; police asked for door-camera and phone footage. | §5 para 3; §8 West 40s card; §13 card; Sources |
+| M-N2 | `Manhattan burglary 2026 NYPD surveillance video building lobby packages` · WebSearch → WebFetch | https://pix11.com/news/local-news/manhattan/mailroom-burglar-ignores-warning-sign-strikes-same-building-3-times-in-a-week/amp/ | April 15/18/21, 2017 (video released May 17, 2017): basement mailroom, building at Central Park West & Manhattan Avenue; door bore "Warning: Security cameras in use"; card and shoulder; manager David Schorr: latch protectors + new inside steel door. | §5 para 3; §13 card; Sources |
+| M-N3 | carried hik-connect M-N2 (excerpt) | https://www.facebook.com/NYPD19pct/posts/having-a-package-delivered-to-your-home-not-going-to-be-home-there-are-thieves-o/1186393103591192/ | 19th Pct: 3 separate arrests for stealing packages from vestibules/lobbies (undated). | §5 para 3; §8 UES card; §13 card |
+| M-N4 | carried hik-connect M-N3 | https://abc7ny.com/post/nyc-retail-theft-program-mayor-eric-adams-nypd-launch-innovative-technology-initiative-to-combat/14827113/ | May 16, 2024: 125th St voluntary real-time CCTV sharing via Fusus by Axon; "still at the behest or the control of the business owner". | §8 125th card; §9 NYPD-sharing H3; §13 card |
+| M-N5 | `Manhattan townhouse burglary 2026 Upper East Side OR West Village NYPD` · Firecrawl search (excerpts, past year) | various (1010 WINS Gramercy, Patch UES subway booth, Instagram) | Items were a sexually motivated burglary, a subway-booth theft and street robberies — not relevant to residential/storefront camera use → NOT USED. | — |
+| M-N6 | `hoodline Manhattan 2026 package thief lobby NYPD Crime Stoppers` · WebSearch → WebFetch hoodline Manhattan listing p.12 | https://hoodline.com/news/manhattan/crime-emergencies/latest/page/12/ | Listing contained no Manhattan lobby/package items → EMPTY. | — |
+| M-L1 | carried hik-connect M-B5 | https://villagepreservation.org/2024/08/14/the-soho-cast-iron-historic-district-a-1973-designation-that-helped-shape-nycs-cultural-legacy/ | SoHo–Cast Iron HD 1973, ~26 blocks, nearly 500 buildings. | §8 SoHo card; §13 card |
+| M-L2 | carried hik-connect M-B6 | https://www.archpaper.com/2025/12/soma-25-water-street-cetraruddy-office-to-residential-conversion/ | 25 Water Street, 1,320 units, largest O2R conversion in the US. | §13 card |
+| M-L3 | — | — | Corridors named as places only, no attached facts: Lexington/Third/Second/First Aves; Eighth–Tenth Aves; Chinatown/LES; Water Street; neighbourhood lists in §7 cards (descriptive, FLAG: no per-neighbourhood source). | §7, §8 |
+
+#### Reddit / forums (M-R) — excerpts only
+| # | Exact query · platform | URL | Finding (excerpt) | Used |
+|---|---|---|---|---|
+| M-R1 | `site:reddit.com AskNYC OR NYCapartments camera inside apartment door peephole landlord allowed Manhattan` · Firecrawl search | https://www.reddit.com/r/AskNYC/comments/1gjf846/can_you_recommend_a_camera_to_go_on_your/ | "You may not be allowed to install a camera in the hallway. A peephole doesn't record or provide proof in court." | §5 para 2 (quoted first sentence); Sources |
+| M-R2 | same | https://www.reddit.com/r/AskNYC/comments/1959k2t/ring_camera_in_apartment_building_opinions/ | "For NYC common area video, only thing not allowed is if camera can film into someone's apartment." | §9 hallway H3; Sources |
+| M-R3 | same | https://www.reddit.com/r/AskNYC/comments/1uoh3vy/peephole_camera/ | "Having a camera that can look into your apt when your door is open is not legal in nyc. It is also against almost all co-op/condo/rental rules" (commenter claim; not quoted on page as fact). | background |
+| M-R4 | same | https://www.reddit.com/r/AskNYC/comments/ddw3wp/nyc_apartment_security_and_safety_concerns/ | "Your landlord must provide a peephole … must also install a chain door guard" → verified against HMC (M-B5). | background |
+| M-R5 | `site:reddit.com wifi camera high rise apartment too many networks 2.4ghz interference NYC building` · Firecrawl search | https://www.reddit.com/r/techsupport/comments/1t41ir/nyc_apartment_unreliable_wifi_could_it_be_too/ | Title: "NYC apartment unreliable wifi — could it be too many wifi signals in my building/area?" | §9 Wi-Fi H3; §10.5 H3 3; Sources |
+
+#### New silo findings (for Part 1)
+- M-G1/M-G2 (NYC biometric law) applies to every NYC borough page with stores/restaurants (Brooklyn, Queens, Bronx, SI) — not used on Brooklyn yet.
+- M-X1: Lorex caution on face detection without consent.
+- M-B1/M-B2: co-op/condo hallway and video-doorbell rules (useful for all NYC Lorex pages).
+- M-B5: HMC peephole/chain-guard (all NYC multiple dwellings).
+
+#### Pricing used (§9 — no invented prices)
+Basis: Brooklyn base from silo §1.7/§2.5 (lorex-camera-installation-prices-brooklyn calculator: line $175, jbox $25, setup $150; equipment unmultiplied) × Manhattan 1.25 on labour, round half-up: line $218.75→$219, jbox $31.25→$31 → $250 per wired camera; setup $187.50→$188. 4-camera $950→$1,188 labour + $845 equipment = **$2,033**; camera added from $78+$250 = **$328**; recorder with setup from $320+$188 = **$508**; 2-camera CN201U3 kit $529.99 + 2×$250 + $188 = **$1,218**; 6-camera Fusion H12 ($924 equip) → **$2,612**; 8-camera Fusion A4 (~$1,200 equip) → **$3,388**; concealed $200→**$250**/camera; BYOE line $175→**$219**; service $195/hr, 3-h min ($585) not multiplied.
+**FLAG:** lorex-camera-installation-prices-manhattan.html calculator zone uses line $238, jbox $34, setup $204, min visit $795 plus **$150 Manhattan parking** → 4-camera $2,287, camera from $350, recorder from $524 (≈1.36× + parking, not §9 1.25). Page links to the prices page but quotes §9 figures; Anwar to decide whether to re-cut the calculator zone or the page.
+
+#### Question register additions — lorex-camera-installation-manhattan (REBUILT 2026-10-18)
+Q&A H3 (§9):
+1. What will a Manhattan managing agent want from us before a Lorex installer is allowed upstairs?
+2. Do a handful of Lorex cameras that never leave our apartment still need the board's sign-off?
+3. How do a building's permitted hours and the elevator booking change the day of the install?
+4. Can a Lorex camera watch the hallway outside our apartment door?
+5. Is there a way to see who comes to our door using a camera that stays inside the apartment?
+6. A neighbour's video doorbell points straight at our door — what can we reasonably ask for?
+7. Our building supplies internet to every apartment — will a Lorex recorder work on it?
+8. With dozens of neighbours' Wi-Fi networks around us, will a Lorex Wi-Fi camera keep dropping off?
+9. Will a co-op accept camera cable run on the surface of a pre-war wall, or does it have to go inside?
+10. Does New York City's biometric law apply if our restaurant switches on Lorex face detection?
+11. Our store lease says the landlord must approve anything on the storefront — what about a camera over our own door?
+12. Where should cameras stop in a Manhattan restaurant so staff are not recorded where the law forbids?
+13. Can our shop share live Lorex video with the NYPD the way some 125th Street businesses do?
+14. Can a Lorex camera go on the front of a townhouse in a historic district without a Landmarks permit?
+15. In a loft with fourteen-foot ceilings, how high should the Lorex cameras go?
+16. Our company does federal contract work from a Manhattan office — can we use Lorex there?
+17. We run two Manhattan shops — can both Lorex systems be watched in one app?
+Repair H2s: "Manhattan Lorex Recorder Offline or App Gone Blank?"; "Need a Lorex Repair in Manhattan Today?"
+Visible FAQ (§17) = FAQPage:
+1. How much notice should we give before a Manhattan Lorex installation?
+2. Do you carry the equipment up through the lobby or the service entrance?
+3. Will a Lorex camera mounted behind window glass give a usable picture at night?
+4. What happens if the managing agent turns down the camera plan after we have bought the equipment?
+5. Can Lorex cameras go up in a rental without drilling at all?
+6. If a package disappears from our building's lobby, can our own Lorex camera help?
+7. We see clients in a small Manhattan office suite — where can Lorex cameras sensibly go?
+8. Do Lorex cameras cope with steam and grease in a restaurant kitchen?
+9. Can a camera in our apartment keep an eye on the nanny or dog walker while we are out?
+10. Our townhouse has a garden-floor rental unit — can one Lorex system cover both?
+Checked by meaning against the full register, the Brooklyn and HV rebuilds, and the in-progress LI/OC drafts (read ~09:30Z); four draft FAQs were replaced for overlap (payment, internet-down, recorder noise, phone viewing; then customer-footage request and record-schedule vs OC). Closest remaining: Q16 (private federal contractor) vs HV Q11 (public buyers) — different buyer, same NDAA source.
+
+#### House practices stated without an external source (FLAG for Anwar)
+- COI prepared free with the agent's exact wording (Brooklyn page also says free); two-hour windows within building hours; 1–2 h restore (silo convention).
+- Recorder beside the apartment router; painted surface raceway; plaster anchors; cameras at 8–9 ft in lofts; inside-the-glass placement with IR off.
+- Audio and face features off by default in businesses; managers get live view only; owner + one manager playback.
+- "Pre-1960 buildings … lead-safe work rules may come into play" (general, no source fetched — NYC LL1/2004 / EPA RRP not researched this run).
+- Who-signs-off table (§7) is practical guidance, labelled "not legal advice".
+- Field Notes = method note, no job story.
+- ADT/Ring/SimpliSafe comparison qualitative (no source fetched).
+- Neighbourhood lists on §7/§8 cards descriptive, unsourced.
+
+#### Images (11) — Drive has no Lorex folder; CompanyCam not connected
+7 real AESS job photos from other jobs + 4 Lorex manufacturer product shots; every file viewed with Read; only names containing `-manhattan-`; captions say "Example photo from another AESS job (not a Manhattan …)" or "Manufacturer product photo / Lorex catalog image". Avoided all source scenes used by Brooklyn/HV (dome-over-glass, corridor bullet, stone-façade arm, cable bundles, bitrate screen, storage-room turret, 2k doorbell, turret-network, etc.).
+| Output (images/lorex-camera-installation/lorex-camera-installation-manhattan-…webp) | Source | Crop | Placement |
+|---|---|---|---|
+| two-mini-dome-cameras-in-shop-drop-ceiling (980×370) | images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-mini-dome-cameras-in-shop-drop-ceiling.webp | none | Hero (eager) |
+| white-dome-camera-tucked-into-ceiling-corner (430×430) | images/commercial-security-camera-installation/commercial-security-camera-installation-dutchess-county-dome-camera-in-office-ceiling-corner.webp | (0,0,430,430) flag excluded | §5 |
+| white-lorex-bullet-camera-with-twin-spotlights-product-photo (275×183) | images/lorex-4k-bullet-camera-installation-manhattan.jpg | none | §6 |
+| small-cameras-on-tall-wall-below-mezzanine-windows (907×440) | images/dahua-camera-installation/dahua-camera-installation-long-island-small-cameras-on-high-wall-of-open-hall.webp | none | §7 |
+| white-dome-camera-in-stained-back-room-ceiling-corner (935×720) | images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-white-dome-camera-in-storeroom-corner.webp | none | §8 |
+| black-mini-camera-above-lit-ceiling-soffit (605×520) | images/commercial-security-camera-installation/commercial-security-camera-installation-dutchess-county-mini-camera-on-showroom-drop-ceiling.webp | none | §9 cluster 1 |
+| black-camera-and-shadow-on-plain-white-wall (705×510) | images/dahua-camera-installation/dahua-camera-installation-orange-county-bullet-camera-casting-shadow-above-ceiling-line.webp | (40,230,745,740) green edge removed | §9 cluster 2 |
+| monitor-tiles-of-shop-aisles-and-shelving (305×360) | images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-store-monitor-showing-multi-camera-layout.webp | (0,0,305,360) counter/people/street tile excluded | §9 cluster 4 |
+| black-lorex-floodlight-camera-with-two-light-panels-product-photo (263×192) | images/lorex-dual-floodlight-camera-installation-manhattan.jpg | none | §10 |
+| white-lorex-video-doorbell-with-blue-lit-button-product-photo (151×334) | images/lorex-video-doorbell-camera-installation-manhattan.jpg | none | Field Notes |
+| black-lorex-video-doorbell-with-blue-ring-product-photo (423×562) | images/lorex-video-doorbell.webp | none | FAQ |
+Rejected: lorex-dual-lens-dome-camera-installation-manhattan.jpg (Uniview "unv" logo); lorex-4k-turret(-dome)-…-manhattan.jpg (identical to the turret Brooklyn used); lorex-dual-lens-panoramic-dome-…-nyc.jpg (no brand visible — can't confirm Lorex); apartment-building …-manhattan dome-over-glass and corridor-bullet (same scenes as Brooklyn's).
+
+#### Build notes
+- check_page.py: PASS (12,627 rendered words, title 56, meta 159, 6 JSON-LD blocks, FAQ 10 = schema 10, HowTo 7 = process cards 7, 11 figures, 2 Web3Forms forms, 183,247 B).
+- simcheck: page-level max 0.144 (vs Brooklyn); paragraphs ≥0.65 only the NAP/contact line and the freshness byline.
+
+
+## Orange County — merged 2026-10-18 from the Orange County build (local section, new silo findings, this page's questions for the register)
+
+## Lorex Camera Installation — Orange County research (incoming)
+
+Written 2026-10-18 by the REBUILD of `lorex-camera-installation-orange-county` (was crawled-not-indexed). For the main run to merge into `research/lorex-camera-installation.md` (that file was not edited by this run). Format per blueprint v2.3 §12.4: **exact query · platform · URL · finding · page section used**. Tools: Firecrawl search / scrape (`mcp__Firecrawl__*`). Shell curl blocked. "carried" = a fact gathered and sourced by an earlier run in another research file (file + row named); not re-fetched today. Nothing below is invented; "excerpt" = only the search snippet was read.
+
+### Orange County
+
+Page: `lorex-camera-installation-orange-county` (REBUILD in place). Up-link `/lorex-camera-installation-hudson-valley`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). Direct line (845) 640-3835 in body, CTAs, sticky bar, form JS and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359.
+
+**Thesis (distinct from Brooklyn = recorder placement and cable through attached masonry; HV hub = distance/outbuildings, outages, rural upload, county licensing, weekend houses, wildlife):** in Orange County a Lorex system is more and more often built to somebody else's written specification and judged later as evidence. Town short-term-rental laws (Town of Monroe L.L. 1-2022 Ch. 40; Village of Woodbury permit) require outdoor cameras "adequate in number, location and view angle to monitor arrivals and departures", recordings kept 30 days and handed to the Building Inspector, and notice to renters of camera locations and any audio; Airbnb has banned indoor cameras since April 30, 2024; the county proposed its own STR registry (Intro 7 of 2025). Around that: commuter houses empty from the pre-dawn Port Jervis Line train to evening (35.3-min mean commute, 66% drive alone), a fast-growing county (+11.1% 2015–2025; 13% of residents moved in since 2021) full of builder houses that can be pre-wired, river-city and village buildings, and businesses where the break-in video must identify someone (Newburgh restaurant burglary, Dec 2025). So the page is about designing a Lorex system for proof: what each camera must see at arrival points, how long the drive must hold, the recorder clock, who can pull a clip, and what must never be recorded.
+
+#### Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Firecrawl search excerpts only: r/airbnb_hosts (OC-R1, OC-R2), r/hudsonvalley (OC-R3). No Orange-specific Lorex/camera thread found → EMPTY for Orange + Lorex. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so and tests published claims instead (OC-A1, silo L/X rows, OC-P rows). |
+| 6 | Landmarks | OC-T1 (Port Jervis Line / Harriman), carried floodlight L1–L6, C4 |
+| 7 | Use cases / building stock | OC-H1–OC-H3, carried floodlight H1–H4, C1–C3 |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | ABC7 (OC-N1), News 12 (OC-N2), Advertiser News North (OC-N3); carried floodlight N1–N4 |
+| 10 | Hyperlocal | Town of Monroe / Village of Woodbury / Town of Warwick code pages (OC-S1–S4); Orange County notice (OC-S5). Times Herald-Record / Mid-Hudson News Lorex or STR-camera items: EMPTY (none found). |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) — silo row 1.1 #11; not re-run |
+
+#### Short-term rental rules (OC-S) — the core of this page
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| OC-S1 | `homeowners association rules security cameras exterior architectural review "Orange County" NY townhouse community Monroe OR Chester OR "Blooming Grove" OR Woodbury` · FC search → led to `https://www.strprofitmap.com/regulations/NY/monroe` · FC scrape (directQuote) | https://www.strprofitmap.com/regulations/NY/monroe | Third-party summary: Town of Monroe Local Law No. 1 of 2022 added Chapter 40 "Rentals, Short Term"; permit required for every STR; Building Inspector review + inspection; Town Board authorisation, hearing if neighbours within 500 ft object; quiet hours 10 p.m.–9 a.m.; occupancy caps; application lists "Remote digital monitoring cameras and their angles". Used only to find the primary text (OC-S2). | lead only |
+| OC-S2 | `Town of Monroe Chapter 40 "Rentals, Short-Term" digital monitoring cameras ecode360` · FC search → FC scrape (pdf, directQuote) | https://monroeny.org/LinkClick.aspx?fileticket=19qWLs7OZrQ%3D&portalid=10 | **Town of Monroe Local Law No. 1 of the year 2022** (filed text): STR = occupancy "for 29 or fewer consecutive nights"; "Remote digital monitoring of occupancy. Where a short-term rental is rented or intended to be rented for transient occupancy during periods when the manager is not residing on-site, the site shall be digitally monitored by the manager to ensure compliance with the maximum number of allowable guests and visitors entering the premises, and to provide evidence to the Building Inspector … Digital monitoring shall include outdoor cameras adequate in number, location and view angle to monitor arrivals and departures at the property. Digital video recordings shall be taken during times when the property is rented and kept for a minimum of 30 days, and copies shall be provided to the Building Inspector upon request. Notice of locations and purpose of cameras shall be provided to renters as well as disclosure of audio recording if any." Town notice of adoption: https://monroeny.org/Resources/Latest-Town-News/notice-of-adoption-local-law-1-of-2022-rentals-short-term (excerpt: Town Clerk (845) 783-1900). | §5 para 3; §5.5 bullet 1; §6 card; §7 STR card + 7.5; §8.5 bullet 1; §9 cluster 1 (Q1–Q3), cluster 2 Q6, cluster 3 Q8, Q10; §10.5 H3 2, 4; §14; §15 package 2; FAQ; Sources |
+| OC-S3 | same search (excerpt) → FC scrape (pdf, directQuote) | https://villageofwoodbury.com/document-center/building-code-enforcement-forms/residential-permit-applications/5836-short-term-rental-permit-application-2024/file.html | **Village of Woodbury Short-Term Rental Permit Application (2024)**: same wording — site "digitally monitored by the resident agency, landlord or absentee landlord"; "outdoor cameras adequate in number, location and view angle to monitor arrivals and departures"; recordings during rental, kept "a minimum of thirty (30) days", copies to the Building Inspector on request; notice of locations and purpose to renters, "disclosure of audio recording, if any". | §5 para 3; §5.5 bullet 1; §8.5 bullet 1; §9 cluster 1 Q1; Sources |
+| OC-S4 | `short-term rental local law Orange County NY town Warwick OR Woodbury OR "Greenwood Lake" OR Cornwall OR Chester OR Tuxedo cameras OR "digital monitoring" permit` · FC search → FC scrape | https://ecode360.com/45290550 | Town of Warwick Ch. 129 Short-Term Rental Property: adopted 9-10-2018 by L.L. No. 5-2018; amended in its entirety 4-27-2023 by L.L. No. 2-2023; landlords/absentee landlords must register and obtain a permit (excerpt). Scrape returned no camera/monitoring text → page says Warwick requires a permit and does NOT claim a camera rule there. Same search excerpts: Town of Chester STR local law (https://www.chesterwcny.gov/media/5451 — note: chesterwcny = Chester, Warren County? domain unclear → NOT used); Village of Cornwall-on-Hudson proposed STR regulations (https://cornwall-on-hudson.gov/Welcome/Village-Board/Proposed-Laws/Regulations-for-Short-Term-Rentals, excerpt, proposed only → named as "proposed" only); petersisca.com blog (third-party: Village of Warwick STR law Jan 2025; Greenwood Lake permit) → not relied on. | §9 cluster 1 Q1 (Warwick permit, no camera claim); §13; Sources |
+| OC-S5 | `Orange County NY short-term rental registry Article 12-D county law 2025 register hosts` · FC search → FC scrape (pdf, directQuote) | https://www.orangecountyny.gov/DocumentCenter/View/35247/Local-Law-Intro-No-7-of-2025-PDF | Notice of public hearing: Local Law Intro. No. 7 of 2025 amends L.L. 13 of 2009 so Orange County is a "covered jurisdiction" under Real Property Law Article 12-D; establishes an STR unit registration system with the Commissioner of Finance making the regulations under RPL §447-c; hearing Oct 27, 2025, 10:30 a.m., 255 Main Street, Goshen. Adoption status not confirmed in this run → page says "proposed / put to a public hearing". | §9 cluster 1 Q4; §5.5 bullet 2; Sources |
+| OC-S6 | same search (excerpt) | https://www.nysenate.gov/legislation/laws/RPP/447-C | RPL §447-c: short-term rental hosts must register units with the county (or multi-county) registry; text excerpt only. | §9 cluster 1 Q4 (background) |
+| OC-S7 | `Airbnb policy security cameras indoor ban 2024 exterior cameras disclosure noise monitoring devices` · FC search (full excerpts) | https://www.airbnb.com/help/article/3061 ; https://news.airbnb.com/an-update-on-our-policy-on-security-cameras | Airbnb: no security cameras or recording devices that monitor any part of a home's interior "even if these devices are turned off"; hidden cameras prohibited; exterior cameras allowed if disclosed in the listing; not allowed over exterior areas with greater privacy expectation, "such as the inside of an enclosed outdoor shower or in a sauna"; doorbell cameras count as recording devices; noise decibel monitors allowed (disclosed, not in bedrooms/bathrooms); rules took effect April 30, 2024. Newsroom: outdoor cameras "prohibited from monitoring indoor spaces". | §5 para 3; §5.5 bullet 3; §7 STR card; §9 cluster 2 Q5, Q7; §10.5 H3 3; FAQ; Sources |
+| OC-R1 | `reddit Lorex cameras Airbnb host outdoor camera arrivals guests count occupancy short term rental recording 30 days` · FC search (excerpt) | https://www.reddit.com/r/airbnb_hosts/comments/vxt4ll/do_you_check_cameras_for_number_of_guests/ | Host: "I have 2 cameras outside my property and occasionally take a look to make sure things look okay but don't monitor the number of guests." | §9 cluster 1 Q2 (contrast with Monroe's headcount purpose) |
+| OC-R2 | same (excerpt) | https://www.reddit.com/r/airbnb_hosts/comments/1574ogf/security_cams_or_no/ | "Outdoor cameras are really helpful for hosts to catch bad guests who party, smoke, bring people …" | §9 cluster 3 Q8 |
+| OC-N3 | `short-term rental … Greenwood Lake` (OC-S4 search) → FC scrape (directQuote) | https://www.advertisernewsnorth.com/news/local-news/airbnb-rolls-out-new-tools-as-towns-wrangle-with-regulation-IC756082 | Dec 26, 2019: attorney Alfred V. Acquavivia represents several Greenwood Lake residents who object to short-term rentals; Airbnb's new tools aimed at "party houses"; Acquavivia: "the first step is always to try to prevent the problem from occurring". (Article mixes NY and NJ sides of the lake; listing counts are Passaic County NJ → not used.) | §5 para 3 (quote, dated); Sources |
+
+#### Building stock / population / commuting (OC-H, OC-T)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| OC-H1 | (direct) · FC scrape (query, directQuote) | https://censusreporter.org/profiles/05000US36071-orange-county-ny/ | ACS 2024 1-yr: population 411,767; 141,127 households; 152,422 housing units; 93% occupied; 66% owner-occupied; single unit 69%; year moved in: 13% since 2021, 25% 2018–2020, 29% 2010–2017; mean travel time to work 35.3 min; 66% drove alone, 10% carpooled, 6% public transit, 11% worked at home. (Population/units/occupancy also carried in floodlight H1.) | §5 para 1–2; §5.5 bullets 4–5; §9 cluster 4 intro; §13; Sources |
+| OC-H2 | `Orange County New York fastest growing county population estimate 2024 2025 census Hudson Valley` · FC search (excerpt, full table) | https://usafacts.org/answers/is-the-population-growing-or-shrinking/county/orange-county-ny/ | Orange County grew 11.1% 2015–2025; +2,581 (2024–25); +16,023 (2019–20, largest); +4,909 (2023–24); 2024–25 natural change 2,817, immigration 1,150, domestic migration −1,410 (US Census Bureau). | §5 para 2; §5.5 bullet 5; §7 new-build card; Sources |
+| OC-H3 | carried floodlight H2 | https://www.recordonline.com/story/news/local/2021/08/13/census-kiryas-joel-grew-leads-orange-population/8115187002/ | Kiryas Joel 32,954 (+63%), ~half of county growth; families to Blooming Grove, Woodbury, Monroe. | not cited in body (Kiryas Joel named in service-area list and schema only) |
+| OC-T1 | `Port Jervis Line stations Harriman Salisbury Mills-Cornwall Campbell Hall Middletown Otisville Port Jervis Metro-North Orange County commuters` · FC search (full excerpts) | https://www.mta.info/schedules/metro-north/port-jervis ; https://en.wikipedia.org/wiki/Port_Jervis_Line | MTA timetable: earliest weekday inbound leaves Port Jervis 3:44 AM, Middletown/Town of Wallkill 4:15 AM; Orange stations Port Jervis, Otisville, Middletown/Town of Wallkill, Campbell Hall, Salisbury Mills/Cornwall, Harriman, Tuxedo; last outbound arrives Port Jervis 12:35 AM (and later trains); operated by NJ Transit under contract to Metro-North. Wikipedia: Harriman is the busiest station on the line; Campbell Hall serves Goshen, Montgomery, Walden; mile-long tunnel under the Shawangunk Ridge after Otisville. | §5 para 2; §5.5 bullet 4; §9 cluster 4 Q11; §13 card; Sources |
+
+#### Licensing / contracts (OC-K) — county electrician licence
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| OC-K1 | `orangecountygov.gov Consumer Affairs licensing electrician license Orange County New York Goshen "Consumer Affairs"` · FC search (excerpts) | https://www.orangecountyny.gov/255/Licenses ; https://www.orangecountyny.gov/DocumentCenter/View/317/Electrician-Application-PDF ; https://townofmontgomeryny.gov/LinkClick.aspx?fileticket=xVC392-zNw0%3D&portalid=8 | Electrician application/renewal on the county Licenses page; applications go to "OC Dept of Consumer Affairs and Weights & Measures, 255 Main Street, Goshen, NY 10924" and the County of Orange Electrical Licensing Board; Montgomery posts an "Orange County Notification for Electrical Inspector Licensing" from the same department. | §8.5 bullet 3; §10.5 H3 5; Sources |
+| OC-K2 | same search → FC scrape (pdf, directQuote) | https://inspectionsontime.com/images/Laws/Orange_County_Electrical_Law.pdf | Third-party copy of Local Law Intro. No. 13 of 2013 "amending and restating Local Law No. 8 of 2007" — Orange County Electrical Licensing Board; "hands-on experience" defined as wiring "for light, heat, power and signaling purposes"; where a building permit is required, electrical work "must be inspected by a certified electrical inspector"; violation = fine up to $1,000 and/or up to fifteen days. No explicit low-voltage exemption quoted → page does not claim one. | §8.5 bullet 3; §10.5 H3 5; Sources |
+| OC-K3 | carried floodlight K1 | https://www.orangecountyny.gov/DocumentCenter/View/311/Local-Law-No-1-of-2024-Electrical-Licensing-PDF ; https://www.middletownny.gov/259/Electrical-Licensing-Board | L.L. 1 of 2024 revises electrical licensing; City of Middletown has its own Electrical Licensing Board. | §8.5 bullet 3; Sources |
+| OC-K4 | carried floodlight K3 | https://www.orangecountyny.gov/DocumentCenter/View/951/Consumer-Law-Help-Manual---Home-Improvements-PDF | County consumer guide: home-improvement contracts over $500 written, plain English, signed; name/address/phone; work and materials incl. makes/models; progress payments. | §8.5 bullet 4; §12 step 4; Sources |
+| — | Orange County home-improvement contractor licence | carried floodlight K2 | none found → EMPTY; page makes no such licence claim. | — |
+
+#### News / police (OC-N)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| OC-N1 | `Orange County NY police 2026 package theft OR burglary OR "car break-ins" Middletown OR Monroe OR Wallkill OR Newburgh surveillance video residents` · FC search (news, full excerpt) | https://abc7ny.com/post/newburgh-restaurant-burglary-community-rallies-behind-owner-artistic-taste-known-provide-food-need/18295756/ | Dec 17, 2025 (WABC, Marcus Solis): burglary at An Artistic Taste, Newburgh; "Surveillance video shows a burglar behind the bar early Sunday morning, stealing the terminal, a printer, an iPad and the cash register drawer"; video shows crowbar forcing the front door; owner: "There was only $100 in the cash register … The hardware and to repair the door is why the costs really add up"; community raised $3,000. | §8 card (Newburgh); §9 cluster 6 Q17; Sources |
+| OC-N2 | `… road takeovers` (same search family, past year) · FC scrape (directQuote) | https://westchester.news12.com/2026/05/08/crackdown-on-dangerous-illegal-street-activity-in-orange-county/PN7efSB3C0m0MpJPSl5NE | May 8, 2026: police cracking down on late-night street racing, burnouts and reckless driving on Route 97 in the Town of Deerpark; about 30 cars cited; nearly 50 tickets the week before; some drivers from Pennsylvania and Syracuse. | §13 (Port Jervis / Deerpark card); FAQ headlights; Sources |
+| — | Orange County NY package theft / porch-piracy news | OC-N1 search; carried floodlight N6 | EMPTY (only an undated aggregator excerpt) → page cites none. | — |
+| — | City of Middletown PD "9 PM routine" / unlocked-vehicle thefts | `"Town of Wallkill" OR "Town of Monroe" OR … police 2026 thefts from unlocked vehicles …` · FC search (excerpt, Facebook, ~2 yrs old) | Too thin/undated → NOT used. | — |
+| carried | floodlight N1 (New Windsor PD Jan 20 2025, organized theft groups, "Consider installing surveillance cameras"), N3 (Tractor Supply New Windsor/Crawford thefts Nov 2025), N4 (Newburgh ending Flock contract, Sept 25 2026) | see research/floodlight-camera-installation.md `## Orange` | — | §5 para 4 (N1); Sources |
+
+#### Broadband (Orange)
+`Orange County NY broadband unserved homes ConnectALL Warwick OR Deerpark OR Greenville OR Mount Hope internet 2025` · FC search → only Ulster, Sullivan and other counties → **EMPTY for Orange**. Page makes no Orange broadband claim (hub covers rural upload).
+
+#### Silo additions — Lorex (new rows from this run, for Part 1)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| L13 | `Lorex NVR how to back up video to USB flash drive help article export recordings` · FC search (lorex.com, excerpts) | https://www.lorex.com/blogs/help/lhb-series-backing-up-recorded-video-to-a-usb-flash-drive ; https://www.lorex.com/blogs/help/dvr-nvr-how-to-format-your-usb-flash-drive-on-your-recorder ; https://www.lorex.com/pages/security-recorder-programming | Back up one or more clips to a USB flash drive "(not included)" from Playback; format the USB stick on the recorder (Main Menu > Settings > System …); "Insert your USB thumb drive into one of the USB ports of the recorder. From the live view, right-click …". | §9 cluster 3 Q8; §12 step 7; Sources |
+| L14 | `Lorex NVR overwrite when hard drive full setting continuous recording schedule motion recording help` · FC search (lorex.com, excerpts) | https://www.lorex.com/blogs/help/lha-lnk-series-determining-how-long-recordings-will-be-stored ; https://www.lorex.com/pages/security-recorder-programming ; https://www.lorex.com/blogs/help/lha-lnk-series-setting-a-recording-schedule ; https://www.lorex.com/pages/hdd-calculator ; https://www.lorex.com/blogs/help/rd501-series-4k-8-channel-digital-video-recorder-faq-troubleshooting-guide | "Most security recorders are programmed to constantly overwrite the oldest footage"; Continuous vs Motion set at "Main Menu, click Settings > Recording > Recording"; schedule edited per day by dragging; HDD calculator: "upgrading your hard drive will greatly prolong" retention; RD501: "Overwrite replaces the oldest recordings automatically when storage is full". | §9 cluster 1 Q3, cluster 3 Q10; §10.5 H3 2; Sources |
+| A4 | carried floodlight A2 (Orange) | https://www.thumbtack.com/ny/newburgh/security-camera-install | Thumbtack Newburgh: "anywhere from $100 for a single-camera line installation to $1,000-$2,200 for an entire system." | §10.5 H3 1 |
+| Used from Part 1 (not re-fetched) | L1 (328 ft), L5 (HaLow), L8 (battery 4–6 months, cold), L9 (three apps; Lorex Classic works with Google Home/Alexa; shared users), X2 (Fusion: remote access needs wired NVR-to-router, ≥6 Mbps upload), X5 (Lorex FAQ: one-year warranty; NDAA exclusion; audio not always legal), X6 (FCC DA 26-635 notice), X7 (HDD calculator: motion ≈ 120 thirty-second events per hour of recording), X9 (doorbell 16–24 V AC), X10 (person/vehicle detection), G3 (Penal Law 250.05/250.00), G4/HV-G6 (Civil Rights Law 52-a), G6 (NYS tax credit), N2/N3 (TX/NE AG suits — not used on this page) | — | — | as noted in page Sources |
+
+#### Landmarks (carried, not re-fetched) — research/floodlight-camera-installation.md `## Orange` L1–L6, C1–C4
+Washington's Headquarters / Newburgh East End HD (L1, H3); Storm King Art Center (L2, not used); Goshen Historic Track (L3, 1838, NHL); Woodbury Common (L4/C4, 1985, ~220 stores); Black Dirt region, Pine Island (L5); Tri-States Monument, Port Jervis (L6/C4, 1882); LEGOLAND New York (C4, Goshen, 2021); Amazon/Medline at Route 17K/747 Montgomery (C1); ~40 warehouse projects incl. Matrix at Route 300 & I-84 (C2, C3). → §7, §8, §13.
+
+#### Pricing (§9 — no invented prices)
+Basis = Hudson Valley hub Orange row (lorex-camera-installation-hudson-valley.html, read 2026-10-18), which applies §9 Orange 1.40× to the Brooklyn **labour** base from the silo calculator (research Part 1.7: $175 line + $25 box = $200 per wired camera; $150 recorder setup; equipment $845 / $78 / $320 locked, not multiplied). Verified: 4 × $280 + $210 = $1,330 labour + $845 = **$2,175** four-camera system; $78 + $280 = **$358** camera added; $320 + $210 = **$530** recorder with setup; BYOE labour **$280 per wired camera, $210 recorder setup** (as the hub states). Service visits **$195/hr, 3-hr minimum ($585)** — protected, not multiplied. Package arithmetic on the page is shown openly: six cameras = $2,175 + 2 × $358 = **$2,891**; eight cameras = $2,175 + 4 × $358 = **$3,607** (plus $530 if the four-camera recorder lacks free channels). Larger drives, ePoE/wireless links, trenching, electrician work: quoted after the walk-through (no number). **FLAG:** `lorex-camera-installation-prices-orange-county.html` calculator uses the paired Orange/Putnam zone ($247 line / $195 setup) — not §9; same open decision as the hub (research Part 1.7). The page links to it but states the §9 figures.
+
+#### House practices stated on the page without an external source (FLAG for Anwar)
+- Continuous recording on rental-house cameras while booked; drive sized for ≥30 days at that setting with margin; motion schedule when owner is in residence.
+- Recorder clock set to network time and checked at handover and at each daylight-saving change; clip export test to USB at handover.
+- Pre-wire recommendations for houses under construction (Cat6 home runs to eaves, porch, garage, a conditioned closet; pull string; labelled ends) — general practice.
+- Recorder not in an unconditioned garage (also an HV hub house practice).
+- No interior cameras at any rental, even owner-only areas, while listed (follows Airbnb wording); audio off at rentals.
+- Installation between bookings / two-hour arrival windows any day to 8 PM (silo convention); "recording again within one to two hours of arrival" (silo convention, blueprint §5 el. 36).
+- Insurance certificate on request; written contract with makes/models (county consumer guide).
+- Field Notes = installer-voice method note (walk the arrival points at night, count what the town will ask for), no specific job story.
+
+#### Images (11) — Drive: no Lorex folder (per main run); CompanyCam not connected
+Permanent image rule: 7 real AESS job photos from other jobs (re-cropped, none of the crops used by the Brooklyn or HV Lorex pages; several source scenes not used anywhere in the Lorex silo) + 4 Lorex manufacturer product shots not used by Brooklyn/HV (white 4K bullet, white doorbell, dual floodlight, NVR re-cropped to its badge end). All viewed with Read before naming; WebP q80, ≤1600 px; only names containing `-orange-county-`. Avoided: KNOWN BAD list (parking/*, buzzer-repair/*, low-voltage/*video-intercom*, Uniview-branded lorex-* files incl. lorex-dual-lens-dome-* which shows a UNV twin dome); the yellow-fascia/mural dome, brick-wall lot view, cable-bundle, storage-room turret and LG monitor scenes already used by Brooklyn/HV.
+| Output (images/lorex-camera-installation/lorex-camera-installation-orange-county-…webp) | Source | Crop | Placement |
+|---|---|---|---|
+| black-bullet-camera-high-on-tall-wall-above-ceiling-bulkhead (947×685) | images/dahua-camera-installation/dahua-camera-installation-orange-county-black-bullet-camera-high-on-painted-wall.webp (real AESS job photo) | (300,250,1247,935) | Hero (eager) |
+| two-small-cameras-on-tall-wall-under-mezzanine-windows (720×440) | images/dahua-camera-installation/dahua-camera-installation-long-island-small-cameras-on-high-wall-of-open-hall.webp (real) | (0,0,720,440): glass door/reflections at right excluded | §5 |
+| white-lorex-4k-bullet-camera-with-twin-lights-product-photo (275×183) | images/lorex-4k-bullet-camera-installation-orange-county.jpg (Lorex product shot) | none | §6 |
+| white-dome-camera-in-corner-under-water-stained-tiles (600×560) | images/hikvision-security-camera-installation/hikvision-security-camera-installation-long-island-dome-camera-in-corner-under-stained-ceiling-tiles.webp (real) | (0,0,600,560): stored board/box at lower right excluded | §7 |
+| black-bullet-camera-on-short-pendant-from-ceiling-grid (650×390) | images/hikvision-security-camera-installation/hikvision-security-camera-installation-westchester-county-black-bullet-on-pendant-mount-in-office-ceiling.webp (real) | (150,110,800,500) | §8 |
+| recorder-view-of-dim-back-storeroom-and-doorway (460×330) | images/hikvision-security-camera-installation/hikvision-security-camera-installation-ulster-county-recorder-tile-of-dim-back-storeroom.webp (real) | (90,0,550,330): channel label and printed box excluded | §9 shops cluster |
+| lorex-two-panel-floodlight-camera-product-photo (263×192) | images/lorex-dual-floodlight-camera-installation-orange-county.jpg (Lorex product shot) | none | §10 |
+| lorex-4k-nvr-badge-and-playback-buttons-product-photo (680×170) | images/nvr-lorex-4k-16ch.png (Lorex product shot; HV used the full frame) | (20,215,700,385) front-panel strip | §14 |
+| small-white-domes-spread-across-drop-ceiling (720×310) | images/hikvision-security-camera-installation/hikvision-security-camera-installation-long-island-mini-domes-spread-across-shop-drop-ceiling.webp (real) | (0,0,720,310) | §15 |
+| black-mini-camera-at-edge-of-ceiling-bulkhead (605×520) | images/commercial-security-camera-installation/commercial-security-camera-installation-dutchess-county-mini-camera-on-showroom-drop-ceiling.webp (real) | none | Field Notes |
+| white-lorex-video-doorbell-with-blue-ring-product-photo (151×334) | images/lorex-video-doorbell-camera-installation-orange-county.jpg (Lorex product shot) | none | FAQ |
+All WebP q80, ≤1600 px. Alt/title unique and contain "Orange County"; captions say "example photo from another AESS job (not an Orange County …)" or "manufacturer product photo (not an installed …)". DAILY-LOG note: `images: 11 = 7 real AESS job photos from other jobs (re-cropped) + 4 Lorex manufacturer product shots (no real Lorex photos yet)`.
+
+#### Question register additions — lorex-camera-installation-orange-county (REBUILT 2026-10-18)
+Q&A H3 + repair H2 (headings ending in '?'):
+- Orange County Lorex Stopped Recording?
+- Our Monroe rental needs a town permit — what does the camera part of the application actually ask for?
+- Which doors, drives and paths count as “arrivals and departures” when a town requires them on camera?
+- The town wants thirty days of video kept — what does that mean for the recorder's hard drive?
+- Does Orange County's new short-term-rental registry say anything about cameras?
+- Airbnb bans indoor cameras — does that rule out a doorbell camera or an outdoor camera that sees through a window?
+- Do renters have to be told where the cameras are, and what changes if a camera has a microphone?
+- A hot tub, outdoor shower or fire pit is part of the rental — can any camera cover it?
+- A neighbour complained about a party at our rental — how do we show the building inspector who arrived and when?
+- Our recorder's clock is a few minutes off — does that matter if footage ends up with the town or a court?
+- Should the rental's cameras record all the time or only on motion when guests are in?
+- We leave for an early train and get home after dark — which Lorex alerts are worth receiving at work?
+- Can the system let us know the kids got in the door after school?
+- Some mornings the garage door gets left open in the rush to the train — can the cameras catch that?
+- Our house is still being framed — what should go into the walls now so Lorex cameras can be added later?
+- Should the builder's electrician run the camera cable, or someone who installs cameras?
+- Our street is still a construction site — is a camera worth installing before the neighbouring houses are finished?
+- What should a restaurant's cameras see so that a break-in video actually identifies someone?
+- Our landlord's cameras already cover the outside of the building — is a Lorex system inside our unit still worth it?
+
+Visible FAQ (§17) = FAQPage:
+- We are going to stop renting the house and move in ourselves — what should change on the Lorex system?
+- Can the rental's driveway camera also show how many cars guests parked?
+- Headlights sweep across our driveway all night from the county road — will they set off alerts?
+- A guest wants to see our camera footage after a dispute over damage — do we have to share it?
+- Can we see the front-door camera on a kitchen smart display or speaker screen?
+- Can new Lorex cameras use network cable a previous owner ran for another brand's cameras?
+- Can the installation be fitted into the gap between two bookings?
+- Can the cameras confirm the cleaners came and how long they stayed?
+- What happens if a guest covers or unplugs an outdoor camera?
+- Can the old camera system keep recording until the new Lorex system is running?
+
+De-dup notes: checked by meaning against the full register (old template, prices pages, Brooklyn, HV hub) and against the parallel Long Island / Manhattan rebuilds as they stood ~mid-run; replaced two drafts that overlapped LI (porch-packages camera; recorder in the garage) and avoided HV intents (outage restart, licensing map, caretaker access, neighbour's yard, public buyers) and Brooklyn intents (NYPD export, overwrite, co-op approval, install duration, payment).
+
+#### Build notes
+- check_page.py: **PASS** (full, incl. registration — sitemap/_redirects/hub link-down and sibling back-links were already present). 13,780 rendered words; title 57; meta 156; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; HowTo 7 = process cards 7; 2 Web3Forms forms (hf/qf); 195,366 B (Brooklyn 186,125; Manhattan 182,745 and LI 177,115 at check time — re-check after the parallel rebuilds finish).
+- simcheck vs silo: page-level max 0.124 (Brooklyn); paragraphs ≥0.65 only the NAP line (vs Manhattan 0.938, Brooklyn 0.787) and the freshness byline (vs Manhattan 0.730, Brooklyn 0.667). vs floodlight-camera-installation-orange-county: page 0.090, paragraph max 0.629.
