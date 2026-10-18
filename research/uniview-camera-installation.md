@@ -428,3 +428,343 @@ Intents deliberately avoided (already on other silo pages): cost-in-area, offlin
 - Yelp 1–3★ review text for Poughkeepsie installers: EMPTY (not accessible in build env).
 - Village of Rhinebeck historic-district review rules for exterior cameras: not searched to a primary source → not used (no claim made on page).
 - Dutchess package-theft / porch-piracy local news: no Dutchess-specific item surfaced → not used.
+
+---
+
+# Merged from parallel nassau build (batch 2026-10-18T14:40Z)
+
+# Uniview Camera Installation — Nassau part (for merge into research/uniview-camera-installation.md)
+
+Created 2026-10-18 by the subagent rebuilding `uniview-camera-installation-nassau-county` (queue line: `REBUILD | uniview-camera-installation-nassau-county | Uniview Camera Installation | Nassau | up /uniview-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn`). Silo-wide findings (Entity List, FCC Covered List, NDAA §889, UNV-Link replacing EZView with EZView expected to stop in 2027, datasheets, default password, CVE notices, cost claims C1–C6) are reused from `research/uniview-camera-installation.md` (rows F1–F5, U1–U17, C1–C6, L1–L2) and are not repeated here. A parallel agent is building Staten Island in the same run; that page's notes go elsewhere.
+
+Format (v2.3 §12.4): **exact query · platform · URL · finding · page+section used**. Tools: Firecrawl search (`mcp__Firecrawl__firecrawl_search`, web + news), Firecrawl scrape (markdown / query mode / PDF parser), Firecrawl gov search, Firecrawl Alexandria `census-gov`. Shell curl blocked. Reddit pages refused by Firecrawl ("we do not support this site") → Reddit rows are search excerpts only. Nassau County (nassaucountyny.gov) and Nassau Police (pdcn.org) CivicPlus pages render empty to the scraper except the archive site and news flashes → those rows rely on gov-search excerpts where marked.
+
+Page section labels: §Hero, §Quick, §5 Neighborhood (+§5.5 facts), §Repair, §6 Services, §7 Architecture (+§7.5 method), §8 Commercial (+§8.5 rules), §9 Q&A (cluster → H3), §10 Equipment (+ ADT/Ring/SimpliSafe table), §10.5 AI Reality Check (H3 1–7), §11 Form, §12 Process, §13 Landmarks, §14 Pricing (+ worked example), §15 Packages (+ labor-only), §16 Complete services, §FieldNotes, §17 FAQ, §19 Siblings, §Sources.
+
+Thesis: **Nassau is 1.39 million people in mostly owner-occupied, mid-century detached houses split among 3 towns, 2 cities and 64 villages — so a Uniview system here is designed around who answers the call (county police or a village department), the long LIRR day when nobody is home, the strip-center shop with a landlord in the middle, and the South Shore tide and PSEG outages that decide where a recorder can safely live.**
+
+---
+
+## Nassau
+
+### N-P Population, government, building stock
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-P1 | Alexandria `census-gov` `census/data` · dataset acs/acs5, vintage 2023, variables B01003_001E, B25024_001E–_005E, B25035_001E, B25003_001E–_002E, B25034_010E–_011E, geography `{for: county:059, in: [state:36]}` | https://api.census.gov/data/2023/acs/acs5 (table ACSDT5Y2023.B25024 etc., geo 0500000US36059) | Nassau County: population **1,388,138**; housing units **477,860**; **364,529** single-family detached (76.3%); 15,264 attached; **27,124** in 2-unit buildings; 9,003 in 3–4-unit; median year built **1955**; 61,756 units built 1940–49; 93,213 built 1939 or earlier; occupied **456,076**, owner-occupied **373,665** (81.9%). | §5 para 1; §5.5; §7 cards; §Sources |
+| N-P2 | `Nassau County NY 64 villages 2 cities 3 towns Hempstead North Hempstead Oyster Bay` · WebSearch → Firecrawl scrape (query, direct quote) | https://archive.nassaucountyny.gov/website/LW/moving_to_NC/cities_towns&villages.html | "Within Nassau County there are 2 cities, 3 towns, 64 incorporated villages and over 100 unincorporated areas. The entire county is physically divided amongst the 3 towns: Hempstead, North Hempstead, and Oyster Bay, and the two cities, Long Beach and Glen Cove." | Hero; §5 para 2; §5.5; §9 cluster A |
+
+### N-G Licensing, permits, local rules
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-G1 | `Nassau County home improvement contractor license required Office of Consumer Affairs local law` · Firecrawl gov search → scrape (query, direct quote) | https://archive.nassaucountyny.gov/agencies/OCA/Business/LocalLaw6-1970.html | Nassau Admin Code §21-11 (L.L. 6-1970): licence required for a home improvement business. "Home Improvement" covers work on dwellings of not more than three families … but "shall not include … (e) automatic fire alarm systems, or (f) burglar alarm systems." Exception for plumbers/electricians etc. licensed under other law acting within their craft. | §8.5; §9 "Which license…" H3; §10.5 H3 3 |
+| N-G2 | same gov search (excerpts) | https://nassaucountyny.gov/FAQ.aspx?QID=205 ; https://nassaucountyny.gov/1547/Consumer-Affairs ; https://nassaucountyny.gov/DocumentCenter/View/48545 | Law = Admin Code Title D 21-10 to 21-11.16; Consumer Affairs licensing division "administers more than 10 thousand licenses in more than 15 types"; HI application fee $650 + $50 Restitution Fund; two-year licence. | §8.5 (licence count, two-year term) |
+| N-G3 | `Nassau County electrical license master electrician …` · Firecrawl search → scrape ecode360 (query, direct quote) | https://ecode360.com/15509840 ; https://ecode360.com/15509866 | Town of Hempstead Code ch. 84 (L.L. 14-1976): "no person shall engage in the installation and wiring of electrical apparatus in the Town of Hempstead in a professional capacity until such person shall apply for and obtain a master electrician's license"; §84-10 homeowner exception (affidavit). Electrical licensing in Nassau is town-level (excerpt from search results: "Please check with your local municipality for licensing requirements"). | §8.5; §7.5; §FAQ siding/attic answers (120 V by licensed electrician) |
+| N-G4 | `Nassau County alarm permit ordinance false alarm fee police department` · Firecrawl gov search (excerpts) | https://nassaucountyny.gov/DocumentCenter/View/51164 (Admin Code as of Jan 1, 2026, §8-40.x) ; https://nassaucountyny.gov/DocumentCenter/View/17813 | §8-40.0: permits required for alarms called into the Police Department; graduated false-alarm penalties (commercial non-permit holder schedule shows $550–$750); new installs not subject to false-alarm notifications for 90 days up to 3 notifications "provided that an alarm permit has been issued"; "All residential alarm notifications must include an attempted telephone notification with two calls back". (Full PDF scrape returned only the TOC — 741 pages; figures from excerpt.) | §8.5; §9 alarm-permit H3 |
+| N-G5 | (search result excerpt) | https://www.pdcn.org/343/Alarm-Permit-Section-Communication-Burea | "The Nassau County Police are requested to respond to over 125,000 false alarms each year." (Page body would not render to scraper; excerpt only.) | §5.5; §9 alarm-permit H3 |
+| N-G6 | `Nassau County police camera registration program residents businesses register security cameras` · Firecrawl search → scrape (markdown) | https://gardencitypolice.net/private-camera-reg | Garden City PD (Village) voluntary Private Camera Registration Program: register address as a location with cameras; "strictly voluntary and does NOT provide us access to security camera systems"; officers still canvass door to door; "detectives may ask to inspect your surveillance video recorded during a finite period"; Detective Division 349 Stewart Ave, Garden City. | §5 para 2; §9 village-police H3; §10.5 H3 5 |
+| N-G7 | same search (excerpt) | https://www.pdcn.org/143/SPiN | NCPD "SPIN – Nassau County Security/Police Information Network" for residents and businesses, information sharing (page body didn't render). | §9 village-police H3 (named only) |
+| N-G8 | `Nassau County village code security camera neighbor privacy …` · Firecrawl search → scrape (query) | https://abc7ny.com/post/village-considers-residential-surveillance-camera-rule/2524365/ | Oct 12, 2017: Village of Flower Hill considered a local law "to preclude the installation and use of an imaging device with no legitimate purpose other than viewing or recording another person in an area of that person's property where the person would not otherwise be visible"; prompted by two cameras high in a tree aimed at a neighbor's back yard. Enactment NOT verified (gov search found only Flower Hill ch. 121 Filming) → page says "considered", not "passed". | §9 neighbor-yard H3 |
+| N-G9 | same gov search | https://ecode360.com/38072733 | Village of Lake Grove (Suffolk, not Nassau) ch. 161 bars cameras that observe an adjoining yard (amended 2024). Not used on the Nassau page (wrong county). | Not used |
+
+### N-W Storms, flooding, power
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-W1 | `Long Beach NY flooding nor'easter 2025 2026 tidal flooding Island Park Freeport streets` · Firecrawl search → scrape (query) | https://hudsonvalley.news12.com/2026/09/28/live-updates-noreaster-causes-power-outages-downed-trees-and-flooding-on-long-island/3E5kQlwadk8iKvplGZPC8G | Sept 26–28, 2026 nor'easter: LIRR Long Beach Branch suspended from Saturday 8:30 a.m. for flooding in Island Park, restored Sunday night; LIRR President Rob Free: crews "pumped millions of gallons of water", tides kept returning; shuttle buses Valley Stream–Long Beach. PSEG LI restored nearly 112,000 customers; 7,971 of 1.2 million still out Sunday 9 p.m.; "Suffolk County and Oyster Bay were the hardest hit areas"; 1,350+ workers. | §5 para 4; §5.5; §9 storm H3s; §10.5 H3 4 |
+| N-W2 | `PSEG Long Island outage Nassau customers without power storm 2026` · Firecrawl search (excerpts) | https://longisland.news12.com/2026/07/06/thousands-of-long-islands-still-without-power-as-residents-brace-for-more-storms-heavy-rain/2RaQBqZc0KPBsb7jcywA4j ; https://www.psegliny.com/en/Newsroom/2025/060726-StormUpdate1630 | July 6, 2026: PSEG said more than 91% of customers affected by severe thunderstorms restored by 9 a.m. Monday. PSEG LI serves ~1.2 million customers. | §5.5 (context) |
+| N-W3 | `Long Beach NY boardwalk 2.2 miles rebuilt after Hurricane Sandy` · Firecrawl search (excerpt) | https://www.cbsnews.com/newyork/news/long-beach-boardwalk-is-back-one-year-after-sandy/ | Rebuilt boardwalk a year after Sandy: tropical hardwood "supposed to last 50 years", new retaining wall, LED lighting. (Length not confirmed → not stated.) | §13 |
+
+### N-C Crime / police / news (cameras context)
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-C1 | `Nassau County police residential burglaries pattern …` · Firecrawl search → scrape NCPD news flash (query) | https://www.pdcn.org/CivicAlerts.aspx?AID=15190 | Posted July 27, 2026: Major Case Squad arrested a Bethlehem, PA man July 24, 2026; between July 11, 2025 and May 23, 2026 he entered multiple residences throughout Nassau County and removed jewelry; located in New Hyde Park; six counts Burglary 2nd. | §5 para 3; §9 face-at-stoop H3 |
+| N-C2 | same search (excerpt) | http://nassauda.org/m/newsflash/Home/Detail/1418 | Nassau DA: Queens man sentenced to 30 years for pattern of North Shore burglaries; "$1 million in cash and property over five months" (excerpt; date not in excerpt). | §5.5 |
+| N-C3 | `LIRR station parking lot car break-ins catalytic converter theft Nassau commuter lot police` · Firecrawl search → scrape (query) | https://www.cbsnews.com/newyork/news/metal-thieves-targeting-cars-at-lirr-station-lots-for-pricey-part/ | CBS New York: two cars by the Syosset station and one near Hicksville had catalytic converters stolen in two weeks; MTA police working with Nassau County police. Article date not captured (image path 2015) → page says "CBS New York has reported", no year. | §9 catalytic-converter H3 |
+| N-C4 | `Long Island retail theft strip mall …` · Firecrawl search → scrape PDF (query) | https://www.licares.org/wp-content/uploads/Newsday-shoplifting.pdf | Newsday, Sunday April 21, 2024: in Nassau, petit larceny shoplifting incidents grew 27% to 3,819 from 2022 to 2023 (NCPD data via FOIL); grand larceny shoplifting fell 8% to 981. | §8; §5.5; §9 crew H3 |
+| N-C5 | `Nassau County Flock cameras license plate readers Nassau police 2026` · Firecrawl search (news excerpt) | https://investigativepost.org/2026/07/17/license-plate-readers-are-everywhere-in-wny/ | July 17, 2026, citing DeFlock: Nassau County has 331 reported ALPR cameras, the most of any NY county (Queens 307, New York County 299). | §5.5 (context only; plate-reader question deliberately NOT asked — Dutchess owns that intent) |
+| N-C6 | `Nassau County police burglary crews Wi-Fi jammers …` · Firecrawl search (excerpt) | https://bronx.news12.com/police-in-new-jersey-say-burglars-are-using-wi-fi-jammers-to-target-homes-heres-what-you-need-to-know | New Jersey police (News 12): suspect believed to have used a Wi-Fi jammer to knock out cameras and the homeowner's cellphone service. No Nassau-specific jammer report found → page attributes to New Jersey police only. | §9 jammer H3; §10.5 H3 4 |
+
+### N-L Landmarks / corridors
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-L1 | `Roosevelt Field mall Garden City … Green Acres Mall Valley Stream` · Firecrawl search (excerpts) | https://en.wikipedia.org/wiki/Green_Acres_Mall ; https://m.yelp.com/biz/roosevelt-field-garden-city-5 | Green Acres Mall: South Valley Stream off Sunrise Highway near the NYC border, GLA 2,069,000 sq ft; Roosevelt Field described as "Long Island's largest shopping mall"; Roosevelt Field at 630 Old Country Rd, Garden City. | §8; §13 |
+| N-L2 | `Americana Manhasset Northern Boulevard luxury shopping center` · Firecrawl search (excerpts) | https://www.americanamanhasset.com/ ; https://www.americanamanhasset.com/about/ | 2060 Northern Boulevard, Manhasset; "over 60" luxury and contemporary shops; "20 miles from Manhattan". | §8; §13 |
+| N-L3 | `UBS Arena Belmont Park Elmont opened November 2021 Islanders` · Firecrawl search (excerpts) | https://abc7ny.com/post/ubs-arena-new-york-islanders-belmont-park-nassau-coliseum/11253644/ | Ribbon cutting Nov 19, 2021, UBS Arena at Belmont Park, Elmont; home of the NY Islanders. | §13 |
+| N-L4 | `Hofstra University Hempstead campus acres arboretum` · Firecrawl search (excerpt) | https://www.hofstra.edu/facilities-operations/arboretum.html | "The 244-acre campus received official recognition as an Arboretum in 1985". | §13 |
+| N-L5 | N-W3 | https://www.cbsnews.com/newyork/news/long-beach-boardwalk-is-back-one-year-after-sandy/ | Long Beach boardwalk rebuilt after Sandy. | §13 |
+| N-L6 | N-G6 | https://gardencitypolice.net/private-camera-reg | Garden City village, Stewart Ave. | §13 (Garden City card) |
+
+### N-R Reddit / resident voice (excerpts only)
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-R1 | `site:reddit.com r/longisland security cameras Nassau house break-in cameras recommendation` · Firecrawl search | https://www.reddit.com/r/longisland/comments/1h8ygon/what_cameraalarm_system_do_you_use_andor/ | "Eufy cameras … It won't report to the cops or anything, but if you add SD cards you can view…" | §10 comparison context |
+| N-R2 | same | https://www.reddit.com/r/longisland/comments/1cn1pcu/security_system_suggestions/ | Resident prefers Reolink for "smooth experience". | Background |
+| N-R3 | same | https://www.reddit.com/r/longisland/comments/1tbxkb0/is_anyone_talking_about_the_flock_cameras_being/ | High-engagement thread (1.3K votes) worried about Flock cameras on Long Island. Thread body: EMPTY (not accessible in build env). | §5 para 2 context (where footage goes) |
+
+### Nassau sources EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG — EMPTY (not accessible in build env).
+- Yelp 1–3★ for Nassau camera installers — EMPTY (not accessible in build env; not searched further after silo result).
+- Reddit thread bodies (r/longisland) — EMPTY (not accessible in build env); excerpts only.
+- nassaucountyny.gov Licensing page and pdcn.org Alarm Permit / SPiN page bodies — EMPTY (render blank to scraper); facts taken from gov-search excerpts and the archive site.
+- Nassau-specific Wi-Fi-jammer burglary report — none found; jammer facts attributed to New Jersey police.
+- Field Notes: no real AESS Nassau Uniview anecdote supplied → written as a method note, no story.
+
+### Pricing basis (Nassau)
+
+Published engine in `uniview-camera-installation-prices-nassau-county.html` (`var PG`, zone "Nassau": line 210, jbox 30, setup 180, parking 0, min_visit 675; BP engine DRIVE 228.99, CONCEAL 200), run in Node in the scratch dir. Outputs quoted as published: EC-B4F28DL / EC-T4F28DL $449; IPC2128LB-ADF28K-DL and IPC3618LB-ADF28K-DL $559; IPC3638SS-ADF28KMC-I1 Tri-Guard $969; IPC6324LWH-AX5C-VG2 PTZ $1,049; IPC6424SR-X25-VF $1,669; PKC2640@Z28-IR-P $1,759; IPC86CEB-AF18KC-I0 fisheye $2,119; ED-525B-WB doorbell $689; UAC-B122-AF28M analog $329; XVR301-04G3 $359; NVR301-04LS3-P4 $499; NVR301-08LS3-P8 $619; NVR301-16B-LP8-IQ $899; NVR302-16B-P16-IQ $1,219; 4TB drive $229; hidden wiring $200/camera. Packages: 4 × EC-T4F28DL + NVR301-04LS3-P4 + 4TB = **$2,524** (= page's published "4-camera from $2,524"); 6 × EC-T4F28DL + 2 × IPC2128LB + NVR301-08LS3-P8 + 2 × 4TB = **$4,889**; 6 × IPC3618LB + IPC86CEB fisheye + NVR301-08LS3-P8 + 2 × 4TB = **$6,550**; 1-month recording: $2,753 / $5,118 / $7,008. Labor-only: $210 per camera + $30 box + $180 recorder set-up. Service rate $195/hr, 3-hr min ($585) per v2.3 §9.
+**FLAG:** engine zone "Nassau" carries `min_visit: 675` labelled "3-hour minimum visit" in the quote; v2.3 §9 protects $585. Page publishes $585 as the service/callback rate and refers to "the small-job minimum on the published price list" without restating $675. Also the prices page offers extended 1/2/3-year warranty options — the install page uses only the one-year parts-only terms sentence.
+
+---
+
+## Question register — nassau
+
+Page: `uniview-camera-installation-nassau-county` (rebuilt 2026-10-18). Checked by meaning against the silo register (old template questions, Manhattan §9/§17, Dutchess §9/§17) and the other uniview-camera-installation-* pages on disk.
+
+### §9 Q&A (H3)
+1. Our village has its own police department — how do detectives find out we have cameras?
+2. Which license should a Nassau camera installer hold, given how the county's home-improvement law is written?
+3. Our burglar alarm already has a Nassau police permit — what changes if cameras are added to it?
+4. A camera on our side yard can see into the neighbor's back yard — where is the line in Nassau's villages?
+5. We are on the LIRR from 6 a.m. to 7 p.m. — which phone alerts are worth keeping, and which will we mute within a week?
+6. On a Cape Cod with a low front stoop, where does the camera go to record a face rather than the top of a cap?
+7. Thieves have taken catalytic converters near the Syosset and Hicksville stations — can a home camera protect the car in our own driveway overnight?
+8. A school bus stop is at our corner — is it a problem if a camera records the children waiting there?
+9. Can a camera go on the utility pole or the street tree in front of the house for a better angle?
+10. The recorder's clock was wrong after the last outage — does a bad timestamp matter if police need the clip?
+11. Our shop is one unit in a strip center — can our cameras cover the sidewalk and parking field the landlord controls?
+12. The center's owner runs his own cameras — can our Uniview recorder and his system share views?
+13. How do we watch the register without recording customers' card PINs?
+14. When a shoplifting crew hits several stores, which camera view do detectives actually use?
+15. Can a camera cover the back room where staff change before a shift?
+16. How do we keep the accessory apartment's entrance off the main household's phones?
+17. We rent the Long Beach house out for the summer — how do we switch the indoor cameras off for tenants and back on afterwards?
+18. Can a Wi-Fi jammer knock a wired Uniview system offline the way it can a battery camera?
+
+### §17 FAQ (visible == FAQPage schema, 10)
+1. Can the installation be done on a Saturday so nobody has to take a day off?
+2. Do you need to get into the attic, and what if it is floored over or packed with blown-in insulation?
+3. Can a Uniview doorbell at the front door record onto the same recorder as the other cameras?
+4. Will screw holes in vinyl or aluminum siding let water in behind it?
+5. Can the system be finished before we leave for Florida for the winter?
+6. Why does the night picture turn white when a camera sits behind a storm door or under a porch ceiling?
+7. Do you take away the old DVR and cameras, and what happens to the recordings on that old drive?
+8. Can a camera watch the pool gate and alert us when it opens?
+9. What do we pay up front, and when is the rest due?
+10. Can cameras go under a slate or tile roof overhang without anyone walking on the roof?
+
+De-dup note (vs the parallel Staten Island rebuild, read from its in-progress HTML at 15:12): two earlier Nassau drafts — recorder height in a raised Island Park/Freeport house, and a post-nor'easter lens/mount check for Long Beach — overlapped Staten Island's flood-code / evacuation-recorder / lens-cleaning questions and were replaced by #8 and #9 above; flood and PSEG facts remain in Nassau body text only. Masked block similarity (geo-masked, difflib, p/li/td/h3/figcaption blocks ≥12 words, warranty sentence excluded) vs every uniview-camera-installation-* page incl. prices pages and the in-progress Staten Island file: max 0.607.
+
+Intents deliberately avoided (already on other silo pages): cost in area, offline/not recording, legal to install, retention length, work without internet, internet speed, Uniview banned (asked only in §10.5 body, not as a question), upgrade old cameras, multiple viewers (as a yes/no), wired vs wireless (as a yes/no), coastal/winter durability (as a yes/no), neighbor privacy as generic question (ours is village-specific with the Flower Hill item), sign posting, plate reader at own driveway (Dutchess), battery runtime / generator gap (Dutchess), map hand-over (Dutchess), installation duration (Dutchess), EZCloud takeover / managing-agent handover / doorman rights / recorder location in a closet-less building / unplugging recorder / HDD-failure email / TV display / building sale ownership (Manhattan).
+
+### Images (Nassau page)
+images: 11 reused (no real Uniview job photos yet) — 9 real AESS job photos from images/floodlight-camera-installation/ (5), images/hikvision-security-camera-installation/ (1), images/security-camera-maintenance/ (3), and 2 Uniview manufacturer product shots (images/uniview-turret-network-camera-white.jpg, images/uniview-dual-lens-colorhunter-bullet-camera-white.jpg). Source photos checked (dHash + visual) against the Manhattan, Dutchess and in-progress Staten Island picks; one draft pick (white dome in ceiling corner) matched a Staten Island photo and was swapped.
+
+| File (images/uniview-camera-installation/uniview-camera-installation-nassau-county-…) | Source |
+|---|---|
+| white-turret-on-ceiling-tile-between-light-panels.webp | floodlight-camera-installation/…-orange-county-white-dome-camera-on-ceiling-tile-near-light-panel.webp |
+| black-eyeball-camera-in-ceiling-corner-below-light-panel.webp | floodlight-camera-installation/…-hudson-valley-black-eyeball-camera-in-corner-below-ceiling-light.webp |
+| black-bullet-on-short-ceiling-bracket-above-plain-wall.webp | floodlight-camera-installation/…-hudson-valley-black-bullet-camera-on-bracket-under-drop-ceiling.webp |
+| small-camera-high-on-plain-wall-casting-two-shadows.webp | floodlight-camera-installation/…-orange-county-small-camera-on-short-arm-high-on-plain-wall.webp |
+| small-black-camera-on-ceiling-grid-near-recessed-lights.webp | floodlight-camera-installation/…-staten-island-small-black-camera-on-ceiling-grid-between-recessed-lights.webp |
+| mini-dome-and-round-speaker-in-grid-ceiling.webp | hikvision-security-camera-installation/…-westchester-county-mini-dome-and-round-speaker-in-store-ceiling.webp |
+| black-bullet-beside-return-air-grille-and-downlight.webp | security-camera-maintenance/…-bronx-bullet-camera-beside-return-air-grille.webp |
+| recorder-live-view-grid-with-date-and-time-stamp.webp | security-camera-maintenance/…-nyc-recorder-live-view-with-date-and-time-stamp.webp |
+| monitor-grid-of-overhead-store-aisle-views.webp | security-camera-maintenance/…-westchester-county-store-monitor-grid-of-overhead-aisle-camera-views.webp |
+| uniview-tec-white-turret-product-photo.webp | images/uniview-turret-network-camera-white.jpg |
+| unv-dual-lens-colorhunter-bullet-product-photo.webp | images/uniview-dual-lens-colorhunter-bullet-camera-white.jpg |
+
+---
+
+# Merged from parallel staten-island build (batch 2026-10-18T14:40Z)
+
+# Uniview Camera Installation — Staten Island part (for merge into research/uniview-camera-installation.md)
+
+Created 2026-10-18 by the subagent rebuilding `uniview-camera-installation-staten-island` (queue line: `REBUILD | uniview-camera-installation-staten-island | Uniview Camera Installation | Staten Island | up /uniview-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn`). Silo-wide rows (federal status F1–F5, Uniview product/app rows U1–U17, cost claims C1–C6, state/city rules L1–L6) are reused from `research/uniview-camera-installation.md` and not repeated here. This file holds only the Staten Island research, the page's pricing basis and its question register.
+
+Format (v2.3 §12.4): **exact query · platform · URL · finding · page+section used**. Tools actually used: `mcp__Firecrawl__firecrawl_search` (web, news), `mcp__Firecrawl__firecrawl_scrape` (query mode, PDF parser), `mcp__Firecrawl__firecrawl_gov_search`, Firecrawl Alexandria `census-gov` provider. Shell curl blocked. Reddit and Yelp pages are not scrapeable here → Reddit rows are **search excerpts only**; "excerpt" = read only as a search-result snippet.
+
+Page section labels: §Hero, §Quick (instant action), §5 Neighborhood (+§5.5 facts), §Repair, §6 Services, §7 Architecture (+§7.5 method), §8 Commercial (+§8.5 rules), §9 Q&A (cluster → H3), §10 Equipment (+ recorder table, ADT/Ring/SimpliSafe table), §10.5 AI Reality Check (H3 1–7), §11 Form, §12 Process, §13 Landmarks, §14 Pricing, §15 Packages (+ labor-only), §16 Complete services, §FieldNotes, §17 FAQ, §19 Siblings, §Sources.
+
+Thesis: **Staten Island is a borough of houses with driveways — detached, semi-attached and two-family homes, most owner-occupied, many with a car outside overnight and, on the East and South Shore, a basement that flooded in 2012 — so a Uniview system is planned from the ground up: recorder above the flood line, a face camera at the car door, a camera per entrance in two-family houses, neighbors masked out.**
+
+---
+
+## Staten Island
+
+### 1. Mandatory sources (v2.3 §3) — status for this page
+
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only — rows SI-R1–SI-R4 (r/statenisland). Thread bodies: EMPTY (not accessible in build env). |
+| 2 | Google PAA | EMPTY (not accessible in build env). |
+| 3 | Google PASF | EMPTY (not accessible in build env). |
+| 4 | Answer the Public | EMPTY (not accessible in build env). |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 says so on the page and tests claims from ranking pages (silo rows C1–C6) instead. |
+| 6 | Area landmarks | SI-L1–SI-L7. |
+| 7 | Area use cases / building stock | SI-H1–SI-H3. |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) — no Bing/DDG related/autocomplete surface. |
+| 9 | Local news | SI-N1–SI-N9 (Staten Island Advance/silive, ABC7, NY1, PBS, Grist, DNAinfo). |
+| 10 | Hyperlocal | Staten Island Advance/silive (rows SI-N1–N5); DeFalco Realty New Dorp guide (SI-C1). Patch Staten Island: none surfaced → not used. |
+| 11 | Yelp 1–3★ | `yelp security camera installation Staten Island reviews` · Firecrawl search → only listing pages (e.g. https://m.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Staten+Island%2C+NY); no 1–3★ review text → **EMPTY (not accessible in build env)**. Not used. |
+
+### 2. SI-H — Building stock, tenure, vehicles (Census) and housing history
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-H1 | Alexandria `census-gov` `census/data` · dataset acs/acs5, vintage 2023, variables B25024_001E–009E, B25035_001E, B25003_001E–003E, B25034_008E–011E, geography county:085 in state:36 | https://api.census.gov/data/2023/acs/acs5?get=group(B25024)&ucgid=0500000US36085 | Richmond County: **184,074** housing units; **63,421** 1-unit detached; **47,106** 1-unit attached; **41,749** in 2-unit buildings; 6,720 in 3–4; 3,740 in 5–9; 2,584 in 10–19; 4,220 in 20–49; **14,013** in 50+. Median year built **1974**. Built 1960–69: 23,568; 1950–59: 17,499; 1940–49: 7,534; **1939 or earlier: 32,820**. Occupied **170,047**; owner-occupied **115,534**; renter 54,513. (Derived on page: 152,276 = detached + attached + 2-unit, 82.7%; owner share 67.9%.) | §Hero; §5 para 1; §5.5; §7 cards; §Sources |
+| SI-H2 | same provider · variables B25034_001E–007E, B01003_001E, B25044_001E, _003E, _010E, B08301_001E, _016E | https://api.census.gov/data/2023/acs/acs5 (county:085, state:36) | Built 2020+: 439; 2010–19: 7,764; 2000–09: 16,871; 1990–99: 19,254; **1980–89: 28,613**; **1970–79: 29,712** (sum 1970s+1980s = 58,325). Population **492,734**. Households with no vehicle: owner 7,343 + renter 19,082 = 26,425 of 170,047 → **about 84%** have at least one vehicle. (B08301_016E returned taxicab, not ferry → not used.) | §5 para 1–2; §5.5 |
+| SI-H3 | `Staten Island "two-family" semi-attached houses 1970s 1980s building boom after Verrazzano Bridge zoning lower density growth management` · Firecrawl search → Firecrawl scrape (PDF parser, query/direct quote) | https://www.statenislandusa.com/uploads/8/9/8/7/89877849/zoning_poster.pdf | Borough President poster "Staten Island's New Zoning Map": "Between 1970 and 2000, the number of housing units in the Borough increased over 82%, from 89,950 to 163,341. Nearly 27,000 new housing permits were issued in the 1980’s, and 23,000 in the 1990’s." "R3-1 permits both one and two-family detached and semi-detached houses or duplexes. R3X and R3A permit only one and two-family detached houses." 2003 downzoning (areas for detached-only homes 30% → 57%). | §5 para 1; §5.5; §7 card "Semi-attached two-family"; §Sources |
+
+### 3. SI-F — Flooding, Sandy, Build It Back, flood-resistant construction rules
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-F1 | `Hurricane Sandy Staten Island deaths homes destroyed Midland Beach Oakwood Beach buyout` · Firecrawl search (excerpt) | https://www.pbs.org/newshour/show/sandy-battered-homeowners-take-buyouts-rather-rebuild | PBS NewsHour (3 years after Sandy): "In Staten Island, New York, 24 people died from the storm, and more than 2,100 homes were destroyed." Nearly every one of the 180 homeowners in Oakwood Beach took the voluntary state buyout; state planned $200M to buy out 500 homes mostly in three SI neighborhoods. | §5 para 3; §Sources |
+| SI-F2 | same search (excerpt) | https://grist.org/equity/oakwood-beach-staten-island-buyouts-superstorm-sandy/ | "The state acquired 308 properties during the buyouts and almost all of them have been demolished." | §5 para 3; §13 Oakwood Beach card |
+| SI-F3 | `NYC Build It Back Staten Island homes elevated number completed program` · Firecrawl search (excerpt) | https://www.nyc.gov/site/housingrecovery/disaster-recovery/build-it-back.page | Build It Back construction: 8,319 homeowners served citywide; **Staten Island – 1,982**. | §5 para 3; §5.5; §9 Build It Back H3 |
+| SI-F4 | same search (excerpt) | https://www.dnainfo.com/new-york/20170921/midland-beach/build-it-back-modular-homes-installation | DNAinfo, Sept 21, 2017: modular homes program covering 98 one- to four-family homes "mostly in Midland Beach, South Beach, New Dorp Beach, Far Rockaway and Broad Channel". | §5 para 3; §13 FDR Boardwalk card |
+| SI-F5 | `South Shore of Staten Island Coastal Storm Risk Management project seawall Fort Wadsworth to Oakwood Beach miles Army Corps` · Firecrawl search (excerpts) | https://www.nan.usace.army.mil/Missions/Civil-Works/Projects-in-New-York/South-Shore-of-Staten-Island/ ; https://malliotakis.house.gov/media/in-the-news/staten-island-seawall-project-underway-officials-mark-12th-hurricane-sandy | USACE: project area "along the south shore ... from Fort Wadsworth to Oakwood Beach"; PPA executed Feb 15, 2019. Malliotakis page (excerpt): "The Army Corps expects construction on the seawall to start in 2028 on the portion running from Oakwood Beach through Miller Field". | §5 para 3 ("still being built"); §13 Oakwood card; §Sources |
+| SI-F6 | `New York City Building Code Appendix G flood-resistant construction electrical equipment located above design flood elevation` · Firecrawl gov search (excerpts) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-188819 ; https://nyc.gov/assets/buildings/codes-pdf/2025electrical_code.pdf ; https://nyc.gov/assets/planning/downloads/pdf/our-work/plans/citywide/sustainable-communities-climate-resilience/designing_flood_risk.pdf | BC G310.6: "Mechanical, plumbing and electrical systems, including plumbing fixtures, shall be elevated to or above the design flood elevation" (exceptions per G304.1.2). EC 110.11(B): metering equipment, panelboards, load centers, main disconnects, service disconnecting means and circuit breakers "shall be located at or above the design flood elevation"; exception for nonresidential buildings with dry floodproofing. DCP "Designing for Flood Risk": DFE = BFE + freeboard; "On January 31, 2013, the Commissioner of Buildings issued an emergency rule to require one or two feet of freeboard (depending on the building category)". | §7.5 "Flood elevation"; §8.5 flood bullet; §9 flood-code H3; §Sources |
+| SI-F7 | `Con Edison Staten Island customers lost power Isaias 2020 OR nor'easter outage Staten Island customers` · Firecrawl search (excerpts) | https://ny1.com/nyc/all-boroughs/news/2020/08/05/power-outages-in-nyc-today-tropical-storm-isaias-damage ; https://www.coned.com/en/about-us/media-center/news/2023/12-18/con-edison-restoring-customers--as-storm-passes-through-the-region | NY1 Aug 5, 2020: "the utility reported over 32,000 outages on Staten Island". Con Ed Dec 18, 2023: "Staten Island has 2,500 customers without service". | §Sources (NY1); battery-backup advice in §6/§Repair (no number used beyond Sources) |
+
+### 4. SI-N — Local news: cars, burglaries, cameras
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-N1 | `silive.com crime-safety 2026/04 nypd staffing shortage blamed staten island car thefts` · Firecrawl search (page content returned in result) | https://www.silive.com/crime-safety/2026/04/nypd-staffing-shortage-blamed-as-staten-island-car-thefts-spike-22-over-last-year.html | Staten Island Advance (Maura Grunlund), April 2026: 71 vehicles stolen YTD vs 58 (+22%, CompStat through April 19). **120th Pct (St. George) 25 from 15 (+67%)**; 121st (Graniteville, parts of North & West shores) 18 from 20 (−10%); **122nd (portions of East & South shores) 18 from 15**; **123rd (South Shore) 10 from 8**. BP Fossella / DA McMahon quoted on staffing. | §5 para 2; §5.5; §8 Bay Street card; §Sources |
+| SI-N2 | same search (excerpt) | https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html | "Vehicle thefts on Staten Island are up roughly 47% in 2026, with 163 incidents this year through July 19 compared to 111". | §5 para 2; §5.5; §9 driveway-light H3 |
+| SI-N3 | `Staten Island car thefts driveway key fob relay 2025 NYPD silive` · Firecrawl search (full page text in result) | https://abc7ny.com/post/exclusive-video-car-theft-staten-island-key-fob/13546726/ | ABC7: exclusive video of suspects stealing an Infiniti from a Staten Island home — "the whole theft took less than 15 seconds"; NYPD Capt. Glorisel Lee: "Ninety percent of vehicles had their doors unlocked when the crime occurred." (Article date not shown in extract → page gives no date.) | §5 para 2; §9 driveway-light H3; §10.5 H3 6 |
+| SI-N4 | same search (excerpt) | https://www.silive.com/crime-safety/2022/10/inside-staten-islands-shocking-day-of-car-thefts-7-vehicles-reported-stolen-to-nypd-in-24-hours.html | Oct 2022: seven stolen-vehicle reports in one day, "mostly unsecured with keys for the taking". | Background only |
+| SI-N5 | `Hylan Boulevard Forest Avenue Staten Island small business commercial corridor storefronts burglary silive 2026` · Firecrawl search (excerpts) | https://www.silive.com/crime-safety/2023/04/staten-island-commercial-businesses-under-siege-a-timeline-of-burglaries-dating-back-to-september.html ; https://www.facebook.com/statenislandadvance/posts/three-stores-were-burglarized-during-the-early-morning-hours-on-sunday-march-29-/1412446170921423/ ; https://abc7ny.com/post/staten-island-burglaries-serial-burglar-si-robbery-pattern/13041459/ ; https://www.silive.com/news/2020/10/owner-bagel-shop-on-forest-ave-broken-into-by-brick-tossing-burglar.html | silive Apr 2023: "at least 30 burglaries at commercial properties across Staten Island within the last several months" (timeline back to September 2022). SI Advance post: "Three stores were burglarized during the early morning hours on Sunday, March 29, 2026. Windows broken, cash registers stolen at Hylan Boulevard…". ABC7: serial burglar "has also hit at least five businesses along a stretch of Forest Avenue, and in each case always going straight for the registers" (date not in excerpt). silive Oct 2020: bagel and wrap shops on Forest Ave (West Brighton) — smashed glass, stolen money. | §8 intro + Hylan / Forest cards; §9 store-recorder H3; §Sources |
+| SI-N6 | `silive Staten Island surveillance video package thief porch police 2026` · Firecrawl search (news) | https://www.silive.com/news/2024/08/staten-island-barbershop-burglarized-4k-in-cash-hair-products-stolen-nypd-says.html | Aug 3, 2024: barbershop burglarized, $4K cash and hair products; "In security footage provided by the shop's owner, an individual can be seen entering the location and leaving with a box in their hands." | §8 barbershop card; §Sources |
+| SI-N7 | SI-F1 (PBS) | — | see SI-F1 | §5 |
+| SI-N8 | `Staten Island Ferry 5.2 mile 25 minute trip St. George Terminal Whitehall daily riders NYC DOT` · Firecrawl search (excerpts) | https://www.nyc.gov/html/dot/html/ferrybus/ferry-facts.shtml ; https://siferry.com/ ; https://en.wikipedia.org/wiki/Staten_Island_Ferry | NYC DOT: "5.2-mile run between the St. George Terminal in Staten Island and the Whitehall Terminal in Lower Manhattan." siferry.com: "The Ferry runs 24 hours a day/ 7 days a week." Wikipedia: trip about 25 minutes; 16,692,900 riders in 2025. | §13 St. George card; §6 commuter card; §Sources |
+| SI-N9 | `New Dorp Lane Staten Island shopping district merchants Hylan Boulevard to New Dorp station` · Firecrawl search (excerpt) | https://www.defalcorealty.com/neighborhood-guide/new-dorp-staten-island/ | Realty neighborhood guide (secondary): "New Dorp Lane, a dense half-mile of restaurants, bakeries, hardware stores, hair salons, and small offices that runs from Hylan Boulevard down to the Staten Island Railway station." | §8 New Dorp Lane card (attributed "per a local neighborhood guide"); §Sources |
+
+### 5. SI-R — Local Reddit (excerpts only)
+
+| # | Exact query · platform | URL | Finding (excerpt) | Used |
+|---|---|---|---|---|
+| SI-R1 | `site:reddit.com r/statenisland security cameras house recommend` · Firecrawl search | https://www.reddit.com/r/statenisland/comments/18s4hir/any_home_security_recommendations/ | "Lorex 4k cameras mounted around the outside of my house. I found reolink to be a solid camera setup with decent prices." | §Sources (resident opinion) |
+| SI-R2 | same | https://www.reddit.com/r/statenisland/comments/1vlcn52/flock_cameras/ | "The few Flock cameras on Staten Island seem to be on private property." (user claim, unverified) | §Sources only ("privately owned plate readers", as opinion) |
+| SI-R3 | same | https://www.reddit.com/r/statenisland/comments/1wid0ib/new_cameras/ | Commenter says new street cameras are red-light cameras made by EKIN (user claim, unverified) | Not used |
+| SI-R4 | same | https://www.reddit.com/r/statenisland/comments/1et8hav/cheap_backyard_privacy_solutions/ | Thread on backyard privacy from neighbors; replies about trees and peeping neighbors. | §Sources ("nosy neighbors", opinion); context for privacy-mask advice |
+
+### 6. SI-L — Landmarks
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-L1 | SI-N8 | https://www.nyc.gov/html/dot/html/ferrybus/ferry-facts.shtml | St. George Terminal ↔ Whitehall, 5.2 miles, 24/7, ~25 min | §13 |
+| SI-L2 | `Snug Harbor Cultural Center 83 acres Livingston Staten Island OR Freshkills Park 2,200 acres` · Firecrawl search (excerpts) | https://snug-harbor.org/ ; https://www.facebook.com/SnugHarborCCBG/ ; https://www.nycgovparks.org/parks/sailors-snug-harbor/history | "an 83-acre campus on Staten Island"; address 1000 Richmond Terrace; NYC Parks acreage 83.30. | §13 |
+| SI-L3 | `Franklin D. Roosevelt Boardwalk Staten Island 2.5 miles South Beach Midland Beach NYC Parks` · Firecrawl search | https://www.nycgovparks.org/parks/fdr-boardwalk-and-beach | "This 2.5-mile boardwalk and beach area extends southeast from Fort Wadsworth to Miller Field’s Gateway Recreational Area, parallel to Father Capodanno Boulevard." | §13 |
+| SI-L4 | SI-F1/F2 | PBS / Grist | Oakwood Beach buyouts, 308 properties acquired | §13 |
+| SI-L5 | `Great Kills Park Gateway National Recreation Area Staten Island marina Hylan Boulevard` · Firecrawl search | https://www.nps.gov/gate/learn/historyculture/great-kills-park.htm | "a 523 acre park located on the south shore of Staten Island"; part of NPS since 1972 (Gateway NRA); beach, marina, boat launch; entrance from Hylan Boulevard. | §13; §8 Hylan card ("past the entrance to Great Kills Park") |
+| SI-L6 | `Conference House Park Tottenville southernmost point New York State NYC Parks` · Firecrawl search (excerpts) | https://www.nycgovparks.org/parks/conference-house-park ; https://www.nycgovparks.org/parks/conference-house-park/dailyplant/19943 | "Located at the southernmost point of New York State, the 267-acre park". | §13 |
+| SI-L7 | SI-F5 | USACE | Seawall line Fort Wadsworth → Oakwood Beach | §13 Oakwood card |
+
+### 7. SI-G — City rules relevant to cameras on Staten Island
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-G1 | `New York City Electrical Code work exempt from permit low voltage class 2 security camera wiring` · Firecrawl gov search (excerpts) | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-156361 ; https://nyc.gov/assets/buildings/local_laws/ll128of2024.pdf | Admin Code §28-105.4.7: "An electrical permit shall not be required for the installation, alteration, maintenance, or repair of electrical wiring that is designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person…" Exceptions: life safety systems; Class I/II/III hazardous locations incl. "certain areas within commercial garages". (Added by Local Law 128 of 2024.) | §8.5 permits bullet; §9 permit H3 |
+| SI-G2 | same search (excerpt) | https://nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page | DOB: "An electrical permit is required for most electrical work, including handling of electrical wires that is performed in a residential home or business" by DOB-licensed electrical contractors. | §9 permit H3 (new outlet needs electrician) |
+| SI-G3 | Silo L1, L2, L4 (GBL §69-m; Labor Law §203-c; Penal Law §250.45; GBL §395-b; Admin Code §22-1202) | see research/uniview-camera-installation.md | reused | §Quick; §7.5; §8.5; §9 register H3 |
+
+### 8. SI-U — Uniview product fact gathered for this page
+
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-U1 | `Uniview EC-T4F28DL IP67 datasheet operating temperature power consumption PoE` · Firecrawl search (excerpts) | https://ellipsesecurity.com/wp-content/uploads/2026/04/EC-T4F28DL.pdf ; https://cctv.net/uniview-ec-t4f28dl-unv-ec-t4f28dl-4mp-hd-smart-dual-light-fixed-turret-network-camera | EC-T4F28DL (distributor datasheet): microSD "up to 512 GB"; "IP67 protection"; "Power Consumption Max. 4.2 W"; "DC 12 V±25%, PoE (IEEE 802.3af)"; −30 °C to 60 °C. | §9 flood-footage H3 (microSD); §10 card; §10.5 H3 2 |
+
+### 9. Pricing basis (no invented prices)
+
+Source: `uniview-camera-installation-prices-staten-island.html`, its own pricing engine (`var BP`) and data (`var PG`, zone "Staten Island": **line 210, jbox 30, setup 180, parking 0, min_visit 675**), run in Node from my scratch script (no prices typed by hand):
+
+| Item | Staten Island installed price |
+|---|---|
+| 4 × EC-T4F28DL (or EC-B4F28DL) + NVR301-04LS3-P4 + 4 TB | **$2,524** (= page's "4 Cameras from $2,524") |
+| 4 × IPC3618LB-ADF28K-DL 8 MP + NVR301-04LS3-P4 + 4 TB | **$2,964** |
+| 6 × EC-T4F28DL + NVR301-08LS3-P8 + 4 TB | **$3,542** |
+| 8 × EC-T4F28DL + NVR301-08LS3-P8 + 4 TB | **$4,440** (30-day recording: **$4,898**) |
+| 12 × EC-T4F28DL + NVR301-16B-LP8-IQ + NSW2020-6T-POE-IN + 2 × 4 TB | **$6,864** |
+| 16 × EC-T4F28DL + NVR301-16B-LP8-IQ + NSW2020-10T-POE-IN + 2 × 4 TB | **$8,700** (30-day: **$9,387**) |
+| Single cameras | UAC-B122-AF28M $329; EC-T4F28DL / EC-B4F28DL $449; IPC3618LB-ADF28K-DL / IPC2128LB-ADF28K-DL $559; IPC3638SS-ADF28KMC-I1 (Tri-Guard) $969; IPC6424SR-X25-VF (PTZ) $1,669; PKC2640@Z28-IR-P $1,759; IPC86CEB-AF18KC-I0 (fisheye) $2,119; list max $4,779 |
+| Recorders with setup | XVR301-04G3 $359; NVR301-04LS3-P4 $499; NVR301-08LS3-P8 $619; NVR301-16B-LP8-IQ $899; NVR302-16B-P16-IQ $1,219 |
+| Switches / drive / concealment | NSW2020-6T-POE-IN $119; NSW2020-10T-POE-IN $159; 4 TB drive $229; hidden in-wall wiring $200/camera |
+| Service visit | $195/hr, 3-hour minimum ($585) — v2.3 §9 protected rate |
+
+Uniview video doorbells: **not in the published Uniview list** (`D.bells` empty) → page says they are priced at the walk-through; no price shown.
+
+**FLAGS for Anwar (pricing):** (1) the calculator's Staten Island zone carries `min_visit: 675`, while v2.3 §9 protects $195/hr with a 3-hour minimum ($585); the page publishes only $585 and avoids 1–2-camera system quotes (which the engine pads with a "3-hour minimum visit" line computed from 675). (2) The SI prices page FAQ still mentions an extended "1, 2 or 3 years" warranty that "covers the labor"; the install page uses only the one-year parts-only terms sentence.
+
+### 10. Local findings that came back EMPTY or were not used
+- Reddit thread bodies (r/statenisland): EMPTY (not accessible in build env) — excerpts only.
+- Yelp 1–3★ review text for Staten Island installers: EMPTY (not accessible in build env).
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG: EMPTY (not accessible in build env).
+- Patch Staten Island camera items: none surfaced.
+- Salt-air / coastal corrosion data for cameras: not researched to a source → no claim on page (also an existing silo intent).
+- Field Notes: no real AESS Staten Island Uniview anecdote supplied → written as a method note, no story.
+- Hylan Boulevard route, Victory Boulevard / Richmond Avenue strip-center characterizations: not sourced → removed from the page.
+
+### 11. Images (Staten Island page)
+
+images: 11 reused (no real Uniview job photos yet) — 6 real AESS job photos (from images/lorex-camera-installation/ ×2, images/residential-security-camera-installation/ ×1, images/dvr-upgrade/ ×1, images/video-wall-installation/ ×1, images/apartment-building-security-camera-installation/ ×1) + 5 genuine Uniview manufacturer product shots (images/uniview-*.jpg/.webp). Each checked visually; no faces, plates, house numbers or readable documents. No source file is shared with the Manhattan, Dutchess or (in-progress) Nassau Uniview pages.
+
+| # | File (images/uniview-camera-installation/) | Source |
+|---|---|---|
+| 1 | uniview-camera-installation-staten-island-unv-white-video-doorbell-product-photo.webp (hero) | images/uniview-unv-video-doorbell-white.webp |
+| 2 | …-wide-lens-recorder-view-of-sidewalk-and-curb.webp | residential-security-camera-installation/…-nassau-county-wide-lens-recorder-tile-of-sidewalk-and-curb.webp |
+| 3 | …-white-dome-in-ceiling-corner-with-cable-loop.webp | lorex-camera-installation/lorex-camera-installation-manhattan-white-dome-camera-tucked-into-ceiling-corner.webp |
+| 4 | …-unv-black-video-doorbell-product-photo.webp | images/uniview-wifi-video-doorbell.webp |
+| 5 | …-turret-high-in-storage-room-corner-above-stored-boards.webp | apartment-building-security-camera-installation/…-manhattan-turret-camera-in-corner-of-storage-room.webp |
+| 6 | …-camera-monitor-hung-over-deli-shelves.webp | video-wall-installation/video-wall-installation-long-island-ceiling-hung-display-over-shop-shelving.webp |
+| 7 | …-small-black-camera-high-on-wall-above-lowered-ceiling.webp | lorex-camera-installation/lorex-camera-installation-long-island-small-black-camera-high-on-grey-wall-above-ceiling-lights.webp |
+| 8 | …-unv-dual-lens-panoramic-dome-product-photo.webp | images/uniview-dual-lens-panoramic-dome-camera-white.jpg |
+| 9 | …-unv-compact-ptz-dome-product-photo.webp | images/uniview-ptz-positioning-dome-camera-white.jpg |
+| 10 | …-mini-dome-beside-louvered-light-and-air-diffuser.webp | dvr-upgrade/dvr-upgrade-queens-mini-dome-beside-light-panel-in-shop-ceiling.webp |
+| 11 | …-unv-pendant-ptz-dome-product-photo.webp | images/uniview-indoor-ptz-dome-camera-white.jpg |
+
+Note: the real AESS photo library is a small set of scenes cropped many ways; #3 (white dome in corner) and #5 (storage-room turret) are different files/framings of scenes that also appear, differently cropped, on the Nassau (flag-corner dome) and Dutchess (stained-tile corner dome) pages.
+
+---
+
+## Question register — staten-island
+
+Page: `uniview-camera-installation-staten-island` (rebuilt 2026-10-18). Checked by meaning against every question on all other `uniview-camera-installation-*` pages (146 masked old-template questions), the Manhattan and Dutchess registers above, and the Nassau page as it stood on disk at ~15:10 (its 28 questions). Drafts dropped for overlapping a sibling: Saturday scheduling, deposit/payment timing, storm-door infrared glare, removal of the old system, recorder height in a flood zone, "which camera view detectives use", separate alerts for a second unit, a driveway face-shot question, "avoid recording the neighbor", hide-the-wires, a kitchen/TV display, and a neighbors-share-footage question.
+
+### §9 Q&A (H3)
+1. Does the city’s flood code say anything about where camera equipment can go in a flood-zone house?
+2. If the basement floods anyway, is the footage on the recorder simply gone?
+3. Our house was raised under Build It Back — how do the cameras cover the stairs and the open space under the house?
+4. Each unit of our two-family has its own front door — does every door need its own camera?
+5. Our tenant upstairs wants a copy of yesterday’s clip after a package went missing — how do we share it without handing over the recorder?
+6. Can one recorder serve both halves of a semi-attached pair if the two owners split the cost?
+7. Our house sits well above the street with a long flight of outdoor steps — how do cameras cover the steps and the sidewalk below?
+8. Should a driveway camera keep its white light on all night, or stay dark until something moves?
+9. Where should a driveway camera go on a high-ranch with the garage under the living room?
+10. We park at the curb, not in a driveway — can a camera on the house really cover the car out past the sidewalk?
+11. Burglars on Hylan and Forest went straight for the registers — where should the recorder itself be hidden in a small store?
+12. Should the register camera look down at the counter or out at the customer?
+13. Does New York City require an electrical permit to wire cameras into a Staten Island house?
+14. We bought a house in Tottenville that came with a Uniview recorder — what should we do on day one?
+
+### §17 FAQ (visible == FAQPage schema, 10)
+1. Do both the upstairs and the downstairs households need to be home on installation day?
+2. How much dust and mess does the work leave inside the house?
+3. What should we do with the recorder when an evacuation order goes out for our zone?
+4. After installation, can small changes such as a new login or a schedule be made without a visit?
+5. Will drilling through brick on our semi-attached house disturb the neighbor's side of the wall?
+6. Can a camera keep an eye on a boat or trailer parked in the side yard?
+7. Do you need to log in to our home router, and what do you change there?
+8. Can a camera watch the sump pump or the basement floor for water?
+9. Do outdoor camera lenses need cleaning, and how often?
+10. Can a camera be mounted on a fence post at the back of the yard instead of on the house?
+
+Closest neighbors by meaning (kept, judged distinct): Q5 vs Manhattan "Police asked for a clip — how do we export it…" (sharing with a tenant vs export format for police); Q2 vs Dutchess "If the link to the barn drops for an hour, is that hour lost?" (equipment destroyed vs link outage); FAQ 3 vs Nassau "After a nor’easter, what should a Long Beach owner check…" (before evacuation vs after a storm); Q13 vs Nassau "Which license should a Nassau camera installer hold…" (NYC electrical permit vs county licensing).
+
+Masked block similarity (my script, blocks ≥12 words, nav excluded) vs every `uniview-camera-installation-*` page incl. prices pages and the rebuilt Manhattan/Dutchess/Nassau: max 0.63 on content-free form chrome (service drop-down); all prose blocks < 0.60; the mandatory warranty sentence and SMS-consent text are identical by design (excluded by v2.3 §2). Page-level masked similarity max 0.18 (Manhattan).
