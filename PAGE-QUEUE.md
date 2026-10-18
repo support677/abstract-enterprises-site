@@ -283,9 +283,9 @@ HOLD-RULE 2026-10-18 (up-link decision needed, see DAILY-LOG) REBUILD | structur
 BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-bronx | Super Live Plus App Support Repair | Bronx | up /super-live-plus-app-support-repair-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-long-island | Super Live Plus App Support Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-manhattan | Super Live Plus App Support Repair | Manhattan | up /super-live-plus-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-18T12:48Z REBUILD | super-live-plus-app-support-repair-nyc | Super Live Plus App Support Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-18T12:48Z REBUILD | super-live-plus-app-support-repair-orange-county | Super Live Plus App Support Repair | Orange | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T12:48Z REBUILD | super-live-plus-app-support-repair-putnam-county | Super Live Plus App Support Repair | Putnam | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | super-live-plus-app-support-repair-nyc | Super Live Plus App Support Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE REBUILD | super-live-plus-app-support-repair-orange-county | Super Live Plus App Support Repair | Orange | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | super-live-plus-app-support-repair-putnam-county | Super Live Plus App Support Repair | Putnam | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | super-live-plus-app-support-repair-queens | Super Live Plus App Support Repair | Queens | up /super-live-plus-app-support-repair-nyc | (347) 434-6392 | GBP Bronx
 REBUILD | super-live-plus-app-support-repair-staten-island | Super Live Plus App Support Repair | Staten Island | up /super-live-plus-app-support-repair-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | super-live-plus-app-support-repair-ulster-county | Super Live Plus App Support Repair | Ulster | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
