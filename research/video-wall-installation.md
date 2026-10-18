@@ -467,3 +467,347 @@ FAQ (accordion = FAQPage):
 
 Other "?" heading: "Need a Video Wall Repaired in Queens Today?" (section H2).
 De-dup notes: removed/rewrote Queens questions that matched the same-batch Nassau/Putnam rebuilds in meaning (internet-down playback, content-login ownership, outlet/electrician trade split, window-screen-as-sign, live captions, old-TV removal, scheduled on/off, landlord pre-drilling requirements, one TV vs wall, wheelchair viewing, reuse old screens, security cameras on the wall, "what to have ready" checklist).
+
+
+---
+
+# Part from batch run 2026-10-18 (batch 14) — video-wall-installation-rockland-county
+
+# Video Wall Installation — research part: Rockland County (REBUILD 2026-10-18)
+
+Page: `video-wall-installation-rockland-county` (rebuilt in place; was crawled-not-indexed template). Queue line: `REBUILD | video-wall-installation-rockland-county | Video Wall Installation | Rockland | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx`. GBP Bronx (#bronx, 460 E Fordham Rd). Direct line (845) 640-3835 in body, CTAs, sticky bar, form error text and schema; (800) 486-0943 only in the shared mega-nav. WhatsApp only wa.me/17186790359 (+ footer text). Built by subagent; merge into research/video-wall-installation.md.
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page + section used. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`). Shell HTTP not used. "Carried" = fetched by an earlier run and recorded in another research file (named), not re-fetched here.
+
+**Thesis:** Rockland's display walls are calendar-run, unattended walls — shul zmanim/announcement walls that must switch to Shabbat and Yom Tov mode and hold it with nobody touching them (Jewish community ~92,000, ~31% of the county; Monsey 41% Yiddish at home), college and school walls on academic calendars (RCC, STAC, Dominican), Route 59 store walls under changing landlords (Palisades Center $175M foreclosure auction Feb 2026; Nanuet Town Centre redevelopment), and public-safety/training walls bought to strict specs (county RFQ-RC-2019-167, LG 2x2 for Pomona, alternates rejected; Clarkstown PD dispatch wall) — wired under Rockland's Chapter 250 system (master electrician + county-licensed electrical inspection agency whose certificate of approval is sent to Orange & Rockland). So the page is about planning the calendar first, testing it on a moved clock, and lining up the inspection path. Distinct from Putnam (outage restart/spare tile), Nassau (which government/address), Queens (multilingual menus/rules), LI hub (LCD vs LED, first wall), and from same-batch Suffolk (Hauppauge plants, East End sign codes) and Ulster (historic/landmarked buildings).
+
+## Silo-level sources (this run)
+| Source | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| Google PAA / PASF / Answer the Public / AI Overview | — | — | EMPTY (not accessible in build env). Page says so in §10.5 intro and Sources. | §10.5 intro; Sources |
+| Bing / DuckDuckGo | — | — | EMPTY (not accessible in build env) | Sources |
+| Yelp 1–3★ | `Rockland County "video wall"` · Firecrawl search (excerpt) | https://www.yelp.com/search?find_desc=Audio%2Fvisual+Services&find_loc=Rockland+County%2C+NY | Listing page excerpt only; no review text | EMPTY (not used) |
+| Vendor claim (shul signage) | `digital zmanim display board synagogue shabbos mode automatic screen` · Firecrawl search → scrape (query mode) | https://digitalshul.com/free-services.html | "$250 setup fee for the microcomputer, plus $10 shipping"; "$0 per month"; zmanim "calculated from your shul's precise geographic coordinates, in your own time zone"; "any existing internet connection in your shul is enough" | §10.5 H3 1; §9 Q zmanim-by-coordinates; FAQ Hebrew date; thesis section |
+| Same search (excerpts) | same | https://www.beezeesystems.com/ ; https://shulscreens.org/ ; https://www.shulcloud.com/shul-digital-display | Automatic zmanim boards / shul TV displays exist as a product category | Background for §6 card, §10 equipment card |
+| Halachic sources | `Shabbat timer electrical appliances set before Shabbat halacha Shabbos clock` · Firecrawl search (excerpts) | https://halachipedia.com/index.php?title=Electricity_on_Shabbat ; https://www.torahmusings.com/2010/09/timers-on-shabbat-and-yom-tov/ | Halachipedia: "It is permitted before Shabbat to set a timer for lights or other electric appliances to go on or off on Shabbat." Torah Musings: "Rabbi Feinstein writes that use of timers to automatically regulate machines to perform work forbidden to Jews on Shabbat is generally forbidden" | Thesis section H3 Shabbat; §10.5 H3 2 (page defers every halachic decision to the congregation's rav) |
+| Cost guide (silo, carried) | carried from research/video-wall-installation.md §3.3 (CrownTV) | https://www.crowntv-us.com/blog/led-video-wall-cost/ | P2.9 10'×5' kit ~$11k–$15k hardware only; excludes structure, power, install, calibration | §10.5 H3 6 |
+| Reddit (silo, carried) | carried §3.1 | https://www.reddit.com/r/CommercialAV/comments/hvbzp0/replacing_a_single_panel_of_a_video_wall/ | "It's always possible to replace a single panel; it's just up to the end users' tolerance…" | §10.5 H3 7 |
+| Pixel pitch (silo, carried) | carried §2 | https://www.planar.com/blog/2025/what-is-pixel-pitch-and-why-does-it-matter/ | Pitch × 10 ≈ viewing distance in feet | §10 equipment sub-section |
+| LG panel spec (silo, carried) | carried §2 | https://media.us.lg.com/asset/bf2bb65e-9c9f-49a5-9552-d889bf118e4f/55VM5J-H-Spec-Sheet.pdf | 55VM5J-H: typ. 160 W; operating 10–80% humidity | §9 Q older storefront capacity |
+| LG LED spec (silo, carried) | carried §2 | https://www.lg.com/global/business/commercial-display/led-signage/indoor-led/lapa136/ | LAPA136: avg 650 W, max 1,300 W | §9 Q older storefront capacity |
+| ADA (silo, carried) | carried §2 | https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ | 27–80 in leading edge → max 4 in protrusion | §8.5 bullet 5 |
+| Keywords (5 layers) | derived from sources above; no keyword tool reachable | — | Service: video wall installation Rockland, zmanim board, shul display, digital signage wall, LCD video wall, direct-view LED, video wall repair · Problem: wrong zmanim after clock change, board not switching for Shabbat, tile dark, layout lost after power cut, content stopped updating, RTL text reversed · Technology: signage player, time server/NTP, controller, HDBaseT, fiber, pop-out mount, battery backup, induction loop · Industry: shuls/batei midrash, churches, catering halls, colleges, schools, dispatch/training rooms, Route 59 retail, labs/office parks, homes · Geographic: Rockland County, Clarkstown, Ramapo, Orangetown, Haverstraw, Stony Point, New City, Nanuet, West Nyack, Monsey, Spring Valley, Suffern, Pearl River, Orangeburg, Sparkill, Nyack, Pomona, Route 59, Route 303 | Throughout; title/meta/H1/alts |
+
+## Rockland County
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| R1 | `Rockland County "video wall" New City OR Pomona OR Clarkstown OR Nyack OR Suffern` · Firecrawl search → scrape | https://www.bidnetdirect.com/new-york/county-of-rockland/solicitations/Video-Wall-Package-Bundle-LG-55VH7EAW-4P-As-Specified/0000228066 | RFQ-RC-2019-167, County of Rockland, owner org "FTC", delivery point Pomona NY; published 12/09/2019, closed 12/16/2019; LG 55VH7EAW 2x2 bundle w/ Peerless SmartMount Supreme full-service mount DS-VW775; 0.9mm bezel, 700 brightness, 1920×1080, RS232C/RJ45/IR, 86.5 mm deep, VESA 600×400, SuperSign CMS; "The Brand and Item specified is required… an alternate brand… shall be rejected"; quotes < $20,000 may be awarded on best value; insurance within five days of award; Certificate of Experience past 3 years | Hero; §5 para 3 + facts; §8 card New City/Pomona; §8.5 bullet 6; §10 equipment cards (LCD, mounts); §10.5 H3 3; §13 card; Sources |
+| R2 | same search (excerpt only; Facebook not scrapable) | https://www.facebook.com/clarkstownpd/posts/chief-wanamaker-is-pleased-to-announce-the-hiring-of-police-officer-saladino-off/698190832349941/ | Clarkstown PD post: "…view the brand new video wall in our dispatch center" (post date not visible) | §5 para 3; Town by town (Clarkstown); Sources |
+| R3 | `Rockland County Fire Training Center Pomona emergency operations center 911 dispatch video wall` · Firecrawl search → scrape (query) | https://www.rocklandcountyny.gov/departments/fire-emergency/contact-fire-emergency | Fire Training Center: 35 Firemen's Memorial Dr, Pomona, NY 10970 | §5 para 3; §8 card; §13 card; Sources |
+| R4 | same search (excerpt) | https://rocklandsheriffny.gov/communications.html | RCSO Communications Division "the sole dispatch point for fire departments and specialty rescue teams in Rockland County" | Not used on final page (cut for length) |
+| R5 | `Rockland County Jewish population percent Ramapo Monsey Census Yiddish speakers` · Firecrawl search → scrape | https://jewishvirtuallibrary.org/rockland-county | Meta description: "significant Jewish community of 92,000" | §5 para 2 + facts; Sources |
+| R6 | same search (excerpts) | https://enewspaper.latimes.com/infinity/article_share.aspx?guid=f962d6ac-8e7f-4da2-9835-9fc5c9a41857 ; https://www.facebook.com/lohud/posts/nearly-a-third-of-rockland-countys-population-identifies-as-jewish/756825076455768/ | "largest Jewish population per capita of any U.S. county, with 31%, or 90,000 residents" (LA Times excerpt); lohud: 31.4% | §5 para 2 + facts ("press reports… roughly 31 percent") |
+| R7 | same search (excerpt) | https://en.wikipedia.org/wiki/Monsey,_New_York | Monsey: 43.98% English at home, 41.48% Yiddish | §5 para 2 |
+| R8 | `Census QuickFacts Rockland` · Firecrawl scrape (directQuote) | https://www.census.gov/quickfacts/rocklandcountynewyork | Pop. 357,397 (V2025); +5.6% since 2020; under 5 9.6%; under 18 31.1%; households 103,879; persons/household 3.22; language other than English 44.2%; retail sales 2022 $6,688,567k ($19,652 per capita) | §5 paras 1 & 4 + facts; thesis H3 household; Sources |
+| R9 | `Palisades Center foreclosure auction 2026 Black Diamond West Nyack` · Firecrawl search (excerpts) | https://www.lohud.com/story/news/local/rockland/2026/02/04/palisades-center-goes-for-175m-at-foreclosure-auction-who-bought-it/88514352007/ ; https://connecticut.news12.com/2026/02/06/palisades-center-mall-foreclosure-auction-goes-for-175-million/5TQCf7BHIIywOsEqXQfQcj | Feb 4, 2026 auction, $175M; BD Palisades Holdings LLC (includes Black Diamond Management), last plaintiff in the foreclosure and only bidder | §5 para 4 + facts; §8 cards; §9 Q Palisades owner change; §13 card; Sources |
+| R10 | carried: research/smart-lock-installation.md (R16) | https://en.wikipedia.org/wiki/Palisades_Center | Opened March 4, 1998; Routes 59/303 | §8 card; §13 card |
+| R11 | `Nanuet Town Centre former Shops at Nanuet redevelopment apartments 2025 2026 Clarkstown` · Firecrawl search (excerpts) | https://www.lohud.com/story/news/local/rockland/2025/05/28/nanuet-town-centre-mall-could-add-280-apartments-in-rockland-county-new-york/83648817007/ ; Facebook CTWTDWYTK post | Lohud May 28, 2025: Nanuet Town Centre "could add 280 apartments"; plans incl. medical facilities, community spaces, link to Nanuet train station | §5 para 4; §9 Q Nanuet redevelopment; Town by town; Sources |
+| R12 | Firecrawl scrape (query) | https://www.industrialrealtygroup.com/portfolio/icampus/ | Hudson Valley iCampus: ~2M sq ft lab/pharma manufacturing/office; 200 acres; Pfizer leased back ~1.26M sq ft and retains 507,263 sq ft + 25 acres for R&D; future "mixed-use, multi-tenant campus" | §5 para 5; §7 card; §8 card; §13 card; Sources |
+| R13 | `SUNY Rockland Community College Suffern campus…` · Firecrawl search (excerpts) | https://sunyrockland.edu/about/the-college/ | Main campus Suffern; centers in Nyack (Hospitality & Culinary Arts) and Orangeburg (automotive); 5,300+ enrolled; 200,000+ visit yearly for cultural, recreational, commercial events | Thesis H3 academic; §13 card; Town by town; Sources |
+| R14 | `St. Thomas Aquinas College Sparkill new building OR esports OR center 2025 2026` · Firecrawl search (excerpts) | https://stac.edu/st-thomas-aquinas-college-transformational-athletic-facilities-investment/ ; https://stac.edu/investing-in-the-future-st-thomas-aquinas-college-launches-next-phase-of-campus-transformation/ ; https://www.facebook.com/stac.edu/ | New Volleyball Center (near completion Aug 2024), Outdoor Fitness Center; 125 Route 340, Sparkill | Thesis H3 academic; §13 card |
+| R15 | `Dominican University New York Orangeburg renamed university 2022 campus` · Firecrawl search (excerpts) | https://www.duny.edu/ ; https://en.wikipedia.org/wiki/Dominican_University_New_York | 470 Western Highway, Orangeburg; Regents approved name change May 17, 2022 | Thesis H3 academic; §13 card |
+| R16 | Firecrawl scrape | https://www.rocklandcountyny.gov/departments/consumer-protection-weights-measures/for-contractors/licenses-and-permits | Master Electrician licence (Ch. 250 Art. I); Electrical Inspection Agency licence (Ch. 250 Art. II); "Under Chapter 286… all individuals performing home improvement work must obtain a Home Improvement License"; applications A experience / B out-of-jurisdiction 5 yrs no complaints / C surety bond; Ch. 286 "Effective May 14, 2026"; online renewals only since April 2025 | §8.5 bullets 1, 2, 4; §9 Q Ch. 286 change; Sources |
+| R17 | Firecrawl scrape (directQuote) | https://ecode360.com/26997705 | Ch. 250 Art. I (adopted 1967, amended 2012): electrical contractor = business installing wiring "for light, heat or power purposes or for signaling systems operating on 50 volts or more under the supervision of a master electrician"; no person shall engage in the business unless licensed | §8.5 bullet 1; §10.5 H3 4; §9 Q Ch. 286 (electrician) |
+| R18 | Firecrawl scrape (directQuote) | https://ecode360.com/9665912 | Ch. 250 Art. II: electrical inspection businesses licensed by Director of Consumer Protection (1 yr); inspectors certified by nationally recognized program; on conformity with NEC, local ordinances and Orange and Rockland specifications, inspector issues certificate of approval with duplicate for owner and sends written notice to the supplier of electric service as required by O&R | Hero; §8.5 bullet 2; §9 Q inspection agency; §10.5 H3 5 |
+| R19 | `Clarkstown building department permit required low voltage OR "building permit" Orangetown Ramapo Haverstraw Stony Point building inspector` · Firecrawl search (excerpt table) | https://swisny.com/coverage-area/ | State Wide Inspection Services coverage table: Clarkstown "Bldg Required - Electrical varies"; Town of Haverstraw "Elec Required for Elec Work and Bldg Required for Additions/Structural Work"; Village of Haverstraw "Bldg Required Elec May Vary"; Orangetown "Building Permit ONLY Required"; Ramapo "Elec Required and Bldg Required for Deck, depends on Job Details"; Stony Point "Requires a Bldg permit/Elect permit Required for New Work" | §9 Q five towns; Town by town; §10.5 H3 5; Sources (third-party; page says "one inspection agency… publishes a table" and to confirm with the building department) |
+| R20 | carried: research/*.md row RK-C2 (excerpt) | https://www.rocklandcountyny.gov/departments/buildings-codes | County Office of Buildings and Codes administers/enforces the NYS Uniform Code and Energy Code within the Village of Spring Valley | §8.5 bullet 3; §9 Q Spring Valley; Town by town |
+| R21 | carried: research (soundbar Rockland B4 / fiber Rockland) | https://longisland.news12.com/2026/04/15/tempers-flare-tuesday-night-as-rockland-county-re-writes-contractor-licensing-rules/5PDORDgg6n88VIk8Oa0c0F | Legislators scaled back HIC licensing; HICs licensed since 1986 | §9 Q Ch. 286 change; Sources |
+| R22 | carried: research (fiber Rockland) | https://www.reddit.com/r/Rockland/comments/1smf4xk/no_more_licensed_rockland_contractors/ | Excerpt: "apparently I can register myself as a Home Improvement Contractor without any training?" | §9 Q Ch. 286 change (local Reddit) |
+| R23 | carried: research (fiber Rockland, ecode 9666538) | https://ecode360.com/9666538 | Ch. 286 exclusions include electrical work | §9 Q Ch. 286 ("licence does not cover connecting to house wiring") |
+| R24 | `Orange and Rockland Utilities number of customers Rockland County electric` · Firecrawl search (excerpt) | https://www.oru.com/en/about-us/media-center/corporate-facts | O&R and Rockland Electric Co. serve ~300,000 electric customers in NY and northern NJ; 130,000+ gas | §5 facts |
+| R25 | `Nyack village Main Street… Haverstraw village waterfront redevelopment 2026` · Firecrawl search (excerpts w/ content) | https://www.nyack.gov/DowntownRevitalizationInitiative | May 14, 2026: $4.5M Nyack DRI projects; Small Project Fund $540,000 "revitalizing building facades, upgrading building interiors, purchasing permanent equipment or installing public art"; branding/wayfinding $450,000; Hopper House $305,000; waterfront restaurant $1.25M; Village Hall 9 N. Broadway | §8 card Nyack/Haverstraw; §9 Q Nyack grant; Sources |
+| R26 | same search | https://dos.ny.gov/news/13-million-downtown-revitalization-initiative-mixed-use-housing-haverstraw | Oct 7, 2026: groundbreaking of $13M Village Square, 61 units, café and community space, $1.67M DRI; other DRI projects: Chair Factory trail, façade fund, basketball courts at Haverstraw Center, four murals, Haverstraw Brick Museum expansion; Haverstraw = Mid-Hudson DRI winner round five (2022) | §8 card; Town by town (Haverstraw); Sources |
+| R27 | carried: research (fiber Rockland geographic list; ny.gov/counties/rockland) | https://www.ny.gov/counties/rockland ; https://explorerocklandny.com/about/communities/ | Five towns and hamlet/village names (New City county seat, Congers, Valley Cottage, Bardonia, Blauvelt, Tappan, Piermont, Airmont, Hillburn, Sloatsburg, Pomona, Garnerville, Thiells, Tomkins Cove) | §13 "we also serve"; Town by town |
+| — | Local Reddit on video walls / AV in Rockland | — | EMPTY (no Rockland video-wall threads found) | — |
+| — | Local news on Rockland video walls beyond R1/R2 | — | EMPTY | — |
+| — | Garner Arts Center "video wall installation" (art piece, nyacknewsandviews 2021) | https://nyacknewsandviews.com/blog/2021/10/weekly-recommendations-garner-arts-center-fall-art-crawl/ | An artwork, not a display installation | Not used |
+
+## Prices used (rule for this batch: Brooklyn base × Rockland 1.30, round half-up)
+Base = `video-wall-installation-brooklyn.html` pricing table. Wall configurations ×1.30 (all products integers): 2x2 LCD $15,600–$23,400 · 3x3 LCD $31,200–$49,400 · 4x4 LCD $54,600–$84,500 · 2.5mm dvLED $45,500–$71,500 · 1.9mm dvLED $71,500–$110,500 · 1.5mm dvLED $110,500–$182,000 · outdoor LED $5,850–$11,050 per sq m.
+Unmultiplied (same figure on every page / third-party): controller $2,500–$15,000 · 16x16 HDMI matrix $4,500–$12,000 · mounting structure/custom fab $1,500–$9,000 · CMS $1,200–$5,000/yr · maintenance $2,400–$9,000/yr (old Rockland page and NYC hub figure; Brooklyn's $2,400–$15,000 includes an LED-volume SLA, as noted in the LI hub research) · service $195/hr, 3-hr min ($585). Dropped: Brooklyn LED-volume rows (not applicable).
+CONFLICT: old Rockland page showed ~0.92× Brooklyn (2x2 $11,000–$16,500 … 1.5mm $78,000–$130,000), a 3.9mm "riverfront ballroom" row ($43,000–$90,000) with no Brooklyn base (dropped), Rockland-only add-ons with no base ("volunteer tech team training (sanctuary) $800–$2,500", "riverfront IP65 modifier $1,500–$3,500" — dropped), a "$500 minimum job" line (not carried), and a footer CTA showing **(347) 934-8335** (wrong for an HV page; not carried). Maintenance discrepancy: Nassau rebuild multiplied Brooklyn's $2,400–$15,000 row; this page keeps $2,400–$9,000 unmultiplied (LI-hub/Queens convention) — flag for Anwar.
+
+## Images (11) — source → new file (images/video-wall-installation/)
+Pool: images/sonos-installation/ — nearly every display-related shot in it is the same underlying image as one already used on the LI/Nassau/Putnam/Queens/Suffolk pages (checked by ORB feature matching against every file in images/video-wall-installation/ and by eye), so 3 unused sonos shots were taken and the rest topped up from images/network/. Faces cropped out; no readable documents.
+1. sonos-installation/sonos-installation-astoria-brick-wall-weatherproof-enclosure.webp → video-wall-installation-rockland-county-gloved-hands-drilling-weatherproof-enclosure-on-brick-wall.webp
+2. sonos-installation/sonos-installation-putnam-county-fiber-fusion-splicer.webp → …-fusion-splicer-joining-fiber-beside-patch-panel.webp
+3. sonos-installation/sonos-installation-rockland-county-dining-room-ceiling-speaker.webp (cropped right/top) → …-ceiling-speaker-fitted-above-restaurant-dining-room.webp
+4. network/network-installation-hudson-valley-network-drop-conduit-emt-riser.webp (right half) → …-emt-conduit-riser-on-block-wall-beside-doorway.webp
+5. network/network-installation-rockland-county-jhook-ceiling-pathway-bundles.webp (crop) → …-blue-cable-bundles-carried-in-j-hooks-under-open-roof.webp
+6. network/network-installation-long-island-idf-riser-cable-bundle.webp (right part) → …-cable-bundle-dropped-down-corridor-wall-from-ceiling.webp
+7. network/network-installation-rockland-county-core-drill-cmu-wall-penetration.webp (right part) → …-core-drilling-block-wall-for-cable-pass-through.webp
+8. network/network-installation-westchester-county-finished-network-rack-firewall-ups.webp (left part) → …-finished-equipment-rack-with-battery-backup-at-base.webp
+9. network/network-installation-rockland-county-managed-poe-switch-rack-install.webp (left/top) → …-network-switch-slid-into-rack-below-patch-panels.webp (hero)
+10. network/network-installation-rockland-county-retrofit-wall-fish-data-drop.webp (right part) → …-cable-fished-to-wall-opening-from-reel.webp
+11. network/network-installation-rockland-county-workstation-data-outlet-termination.webp (right part) → …-terminating-jack-in-wall-plate-beside-spare-plates.webp
+(All network-installation-<area>-<shot>.webp files of one shot are byte-identical across areas, so the de-dup key is the shot name, not the area.)
+
+## Question register — video-wall-installation-rockland-county
+Q&A (H3, §9, in five H3 cluster headings: Walls That Run Through Shabbat and Yom Tov · Campus, Training and Dispatch Rooms · Route 59 Stores and a Changing Mall · Licensing, Inspection and Paperwork in Rockland · Homes and Families · Nyack, Haverstraw and the River Villages):
+1. Can a shul board switch from weekday times to the Shabbat schedule on its own before candle lighting?
+2. How does the screen know the zmanim for our building rather than for the county as a whole?
+3. What happens to a programmed Shabbat schedule on the weekends the clocks change?
+4. Can a two- or three-day Yom Tov be loaded in advance as one block?
+5. Our sanctuary has a mechitza. How do both sides get a clear view of the screens?
+6. Will Hebrew and Yiddish text come out right-to-left on a signage player, or reversed?
+7. Will your technicians schedule around Shabbat, Yom Tov and the chagim?
+8. Can a campus wall follow the academic calendar without being reprogrammed every term?
+9. Can a training-room wall keep a record of what was on screen during a drill, for the review afterwards?
+10. Can a wall be built in a room that has to stay staffed around the clock?
+11. Our store is in the Palisades Center. Does the 2026 change of owner change who approves our display work?
+12. Can a holiday-season layout be loaded weeks ahead and switch itself on by date?
+13. Our Nanuet unit is part of a center being redeveloped. Should we hold off on a wall?
+14. What is an electrical inspection agency, and why does Orange & Rockland care about it?
+15. Do Rockland's five towns treat a new display circuit the same way?
+16. Our building is in the Village of Spring Valley. Who enforces the building code there?
+17. What did Rockland's 2026 rewrite of its home-improvement law actually change?
+18. Is a wall-mounted screen in a family room safe around young children?
+19. Does Nyack's downtown grant program cover display equipment?
+20. Does an older Nyack or Haverstraw storefront have enough electrical capacity for a video wall?
+FAQ (visible accordion == FAQPage, 10):
+1. Can the screen show the Hebrew date and the weekly parsha automatically?
+2. Should a lobby wall in a building used on Shabbat have a motion sensor that wakes it?
+3. How should staff clean the screens without damaging them?
+4. Can the screen count down to the next minyan or to candle lighting?
+5. What stops someone outside the building from putting their own content on the wall?
+6. Why do some LED walls show lines or flicker when guests film them on a phone?
+7. Can the wall display donor recognition or dedication panels?
+8. Can you work around a school's or a college's exam weeks and quiet periods?
+9. Does our IT person need to be on site on installation day?
+10. Will a video wall interfere with our hearing loop or assistive listening system?
+Other "?" headings: CTA H2 "Planning a Wall Before the Yamim Noraim, a New Term or the Holiday Season?"; final H2 "Wall Showing the Wrong Times or No Picture? Call the Rockland Line".
+De-dup notes (removed during build after comparing with the LI/Nassau/Putnam/Queens registers and the same-batch Suffolk and Ulster drafts): 24/7 panel lifespan (Suffolk has panel lifespan), overflow-room feed (Ulster lobby stage feed), indoor humidity by the river (Suffolk beach-house humidity), hiring-check for HIC licence (Suffolk licence verification), wall sound into existing speakers (Suffolk sound/speakers), hiding a home wall in cabinetry (Suffolk millwork), before/after final inspection sequencing (Ulster pre-ceiling fit-out), simcha slideshow upload (Putnam volunteers' slides).
+
+
+---
+
+# Part from batch run 2026-10-18 (batch 14) — video-wall-installation-suffolk-county
+
+# Video Wall Installation — research part: Suffolk County
+
+Page: `video-wall-installation-suffolk-county` (REBUILD 2026-10-18, rebuilt in place). Queue line: `REBUILD | video-wall-installation-suffolk-county | Video Wall Installation | Suffolk | up /video-wall-installation-long-island | (631) 407-2884 | GBP Brooklyn`. Brooklyn GBP (#brooklyn, 1282 Troy Ave). Direct line (631) 407-2884 in body, CTAs, sticky bar, form error text and LocalBusiness schema; (800) 486-0943 only in the shared mega-nav. WhatsApp only wa.me/17186790359 (+ footer text). Multiplier 1.20.
+Format (v2.3 §12.4): exact query · platform · URL · finding · page + section used. Tool: Firecrawl MCP search/scrape (`mcp__Firecrawl__*`). Shell HTTP not used. "Carried" = fetched by the LI hub / Nassau / Putnam run and recorded in research/video-wall-installation.md, reused, not re-fetched unless noted.
+
+**Thesis:** Suffolk is one county that behaves like three markets — the west (Route 110 / Hauppauge park: plants and office HQs, long-hour walls on IT-managed networks), the middle (Stony Brook, BNL, Yaphank, MacArthur: institutions with in-house trades and purchasing rules) and the East End (seasonal homes and shops under strict town sign codes) — under one exposed PSEG grid and a county electrician licensing article that stops at towns/villages with their own licensing law. So the wall is specified from the hours of use, the season, the network and the approving office before the hardware.
+
+## Silo-level sources (this run)
+| Source | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| Google PAA / PASF / Answer the Public / AI Overview | — | — | EMPTY (not accessible in build env); page §10.5 says so | §10.5 intro; Sources |
+| Bing / DuckDuckGo | — | — | EMPTY (not accessible in build env) | Sources |
+| Yelp 1–3★ | — | — | EMPTY (not accessible in build env) | — |
+| Reddit (local, Suffolk video walls) | — | — | EMPTY (no Suffolk thread found; LI hub run also found none) | Sources |
+| Reddit (trade) — carried | LI hub §3.1 | https://www.reddit.com/r/CommercialAV/comments/1bl6fyy/video_wall_pricing/ ; https://www.reddit.com/r/CommercialAV/comments/1j9qccf/ | "mounting structure alone could be 20k"; consumer TVs' convection cooling only works landscape | §10.5 H3 3, 4 |
+| Cost guides — carried | LI hub §3.3 / Queens | https://americanledwall.com/led-video-wall-cost/ ; https://svsolutionsusa.com/how-much-does-led-video-wall-cost/ ; https://www.crowntv-us.com/blog/led-video-wall-cost/ | $500–$2,500/sq ft; $9,500–$200,000+; P2.9 10'×5' kit ~$11–15k hardware only | §10.5 H3 1, 2 |
+| Pitch rules — carried | LI hub §2 | planar.com blog; christiedigital.com; barco.com | pitch×10 ft; 1 m per mm; distance/2 | §10.5 H3 2, 5 |
+| Samsung consumer vs commercial — carried | LI hub §2 | https://insights.samsung.com/2024/10/21/why-you-shouldnt-use-consumer-tvs-for-commercial-digital-signage/ | ~8 h/day design; commercial use voids warranty | Equipment para; §10.5 H3 4 |
+| LG 55VM5J-H sheet — carried | LI hub §2 | https://media.us.lg.com/asset/bf2bb65e-9c9f-49a5-9552-d889bf118e4f/55VM5J-H-Spec-Sheet.pdf | 0–40 °C, 10–80 % humidity, "Crestron inside" | Q&A plant-floor heat; Q&A beach-house humidity; FAQ Crestron |
+| ADA 307.2 — carried | LI hub §2 | https://www.access-board.gov/ada/guides/chapter-3-protruding-objects/ | 27–80 in → max 4 in protrusion | §8.5 compliance bullet |
+| NYS e-waste — carried | Nassau part | https://dec.ny.gov/environmental-protection/recycling-composting/electronic-waste-recycling | disposal ban since Jan 1 2015 | §8.5 bullet |
+| "No statewide license" claim — carried | Putnam part | https://adaptdigitalsolutions.com/articles/new-york-contractor-license-requirements/ | title "None Statewide" (excerpt) | §10.5 H3 6 |
+
+Keywords (5 layers) used naturally: Service — video wall installation Suffolk County, LCD video wall, direct-view LED wall, video wall repair, production/data wall · Problem — dust and heat on plant floors, seams through charts, window-sign violation, damp unheated houses, surge on cable lines, compressor flicker, dark tile · Technology — 24/7 vs extended-hours panels, native-resolution processor, pixel pitch, pop-out mount, guest network/casting, touch overlay, Crestron/Control4, surge protection, battery backup · Industry — manufacturers, corporate HQs, universities, labs, public agencies, outlet/big-box retail, bars and theaters, seasonal homes · Geographic — Suffolk County, Hauppauge, Melville, East Farmingdale, Route 110, Stony Brook, Upton, Yaphank, Ronkonkoma, Islip, Bay Shore, Patchogue, Riverhead, Route 58, Southampton, Hampton Bays, Sag Harbor, East Hampton, Montauk, Southold, Greenport, Shelter Island.
+
+## Suffolk County
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| S1 | `Suffolk County New York QuickFacts population housing units` · Firecrawl search (excerpt) | https://www.census.gov/quickfacts/suffolkcountynewyork | Housing units July 1 2025 (V2025): 583,777 | §5 para 1; numbers list |
+| S2 | same search → scrape (directQuote) | http://censusreporter.org/profiles/05000US36103-suffolk-county-ny/ | pop 1,535,909; 582,899 units; 87 % occupied; owner-occupied 83 %; single unit 86 %; median value $626,300 | §5 para 1; numbers list |
+| S3 | same search (excerpt) | https://en.wikipedia.org/wiki/Suffolk_County,_New_York | land 912 sq mi; 2025 est. 1,546,090 | §5 para 1 ("a little more than 900 square miles", "roughly 1.5 million") |
+| S4 | scrape (directQuote) | https://www.ny.gov/counties/suffolk | easternmost county; 10 towns: Babylon, Brookhaven, East Hampton, Huntington, Islip, Riverhead (county seat), Shelter Island, Smithtown, Southampton, Southold | §5 para 1; numbers list; Town by Town |
+| S5 | `Town of Southampton seasonal housing units percent vacant seasonal use East Hampton census` · Firecrawl search → scrape (directQuote) | https://www.ehamptonny.gov/DocumentCenter/View/28279/Route-114-Affordable-Housing-Market-Study-and-Update | "East Hampton - Market Assessment - 3.16.26" (interim draft): study-area 2023 year-round pop 54,081; 44,227 housing units; 20,952 (47 %) seasonal/recreational/occasional; seasonal increase "upwards of ~50,000" | §5 para 4; numbers list; Town by Town (East Hampton) |
+| S6 | same search (excerpt only, not used) | https://www.27east.com/east-hampton-press/article_610622df-48d8-5b94-808f-bc8666d4c52f.html | 2010 Census vacancy shares Southampton/Bridgehampton | not used (old data) |
+| S7 | `Town of Southampton code electronic signs prohibited internally illuminated sign` · Firecrawl search → scrape (directQuote) | https://ecode360.com/8702578 | Ch. 330 Art. XXII: window sign = on window/glass door or inside within four feet and visible from exterior; window signs not illuminated except §330-207B; internally lit interior signs visible from street only in Highway Business districts, ≤10 sq ft per establishment; window sign ≤4 sq ft one per street/lot; illuminated signs off by 11 p.m. or closing, whichever later; NEC conformance | §5 para 4; numbers list; §8.5 signs bullet; Q&A "four-foot rule"; Q&A "dark at 11 p.m."; Town by Town |
+| S8 | same search (excerpt) | https://www.southamptontownny.gov/CivicAlerts.asp?AID=1689&ARC=3146 | "Town Targets Sign Code Violators in Hampton Bays" — window cover, signage or lighted signs in violation observed | Town by Town (Southampton) |
+| S9 | `Suffolk County Department of Labor, Licensing and Consumer Affairs master electrician license restricted electrical license` · Firecrawl search → scrape ecode (directQuote) | https://ecode360.com/14948079 | Ch. 563 Art. XI: unlawful to carry on regulated trade without license; **"This article shall not be applicable within any town or village which has hereinbefore enacted legislation regulating the licensing … nor in any town of the second class which elects by local law not to have this article apply"**; master/restricted definitions; master $200/yr, restricted $100; 2-year licenses; continuing education for renewal | §5 para 5; §8.5 licensing bullet; Q&A circuit/coolers; Q&A "village licenses its own"; Q&A "confirm license"; §10.5 H3 6 |
+| S10 | same → scrape (directQuote) | https://www.suffolkcountyny.gov/Portals/0/formsdocs/labor/code.pdf | DoLLCA Code of Rules: "Communications Cabling Systems — … all cabling systems of 90 volts or less, for computer networking, telecommunications, cable TV, fiber optics, audio and video systems and home theater systems"; only Master Electrician does line-voltage connections to panel/disconnect/junction box | §8.5 low-voltage bullet; §10.5 H3 6 |
+| S11 | same search (excerpt) | https://www.suffolkcountyny.gov/Departments/Consumer-Affairs/Type-of-License | Consumer Affairs issues Master Electrician, Restricted Electrical, Electrical Inspector, Home Improvement, Sign Hanger licenses among others | Q&A "confirm license" |
+| S12 | `Tropical Storm Isaias PSEG Long Island customers without power Suffolk` · Firecrawl search → scrape PDF (directQuote) | https://www.lipower.org/wp-content/uploads/2020/09/LIPA-Isaias-30-Day-Report-Final.pdf | Aug 4 2020, gusts to 70 mph; ~645,000 customer outages; full restoration eight days | §5 para 5; numbers list; Q&A surge |
+| S13 | carried (LI hub) | https://www.psegliny.com/ | >1.2 million customers | Sources list only |
+| S14 | carried (LI hub) | https://rpa.org/work/reports/hauppauge-industrial-park-economic-opportunity-analysis ; https://www.hia-li.org/business-grows-here-profiles/ | ~1,300 companies, 55,000+ employees, just over 2 sq mi, ~1 in 20 LI jobs; "Long Island Innovation Park at Hauppauge" | Hero; §5 para 2; numbers list; §8 card; landmarks |
+| S15 | carried (LI hub) | https://www.waldners.com/portfolios/newsday/ | Newsday Melville HQ: video walls in three areas — Planar 3×5 newsroom, 8×10 auditorium, 2×2 reception | §5 para 2; §8 card; landmarks; Town by Town (Huntington) |
+| S16 | `Stony Brook University Hospital video wall …` · Firecrawl search → scrape (directQuote) | https://news.stonybrook.edu/university/transforming-spaces-new-frey-hall-video-wall-inspires-students/ | Feb 20 2025: 6′6″×12′; CPDC electricians/carpenters/painters did physical install; MSE team assembled/tuned; under $40,000; few weeks over winter break; content incl. live-streamed camera feeds | §5 para 3; numbers list; services card; Q&A split-scope; Q&A "under $40,000"; landmarks |
+| S17 | `Brookhaven National Laboratory Upton employees acres about the lab` · Firecrawl search (excerpt) | https://www.bnl.gov/about/ | "The Laboratory's 3,000 staff members" | §5 para 3 |
+| S18 | `Brookhaven National Laboratory video wall visualization` · Firecrawl search | bnl.gov results | No BNL video wall found → no BNL wall claimed | — |
+| S19 | carried (LI hub) | https://scpdshield.org/Initiatives | Suffolk Crime Analysis Center, SCPD HQ Yaphank, "features a video wall that displays footage from countywide surveillance cameras" | §5 para 3; landmarks |
+| S20 | `Long Island MacArthur Airport terminal renovation digital displays Islip 2025` · Firecrawl search → scrape | https://libn.com/2026/07/17/islip-selects-rxr-for-macarthur-airport-terminal-project/ | LIBN, David Winzelberg, July 17 2026: Fly Long Island (RXR + Avports) tapped by Islip committee; option of new north terminal with Ronkonkoma LIRR connection or expanded south terminal; town board approval needed | §5 para 3; §8 card; landmarks |
+| S21 | `Tanger Outlets Riverhead Route 58 stores retail corridor` · Firecrawl search (excerpt) | https://www.tanger.com/riverhead/visitor-info | "more than 130 top brands and local shops" | §8 card; landmarks |
+| S22 | same → scrape | https://riverheadlocal.com/2024/01/19/new-business-uses-at-tanger-will-hurt-downtown-and-route-58-local-developer-tells-town-board/ | Alek Lewis, Jan 19 2024: proposed Manufacturers Outlet Center zoning amendments (general retail, restaurants, furniture showrooms, recreation); Richard Israel warned of harm to Route 58 and downtown | §8 card; Town by Town (Riverhead) |
+| S23 | carried (LI hub) | https://patch.com/new-york/longisland/smittys-all-american-grill-perfect-location-your-next-event-0 | 2016 Patch community post: Riverhead grill's "21-foot video wall" | landmarks (Riverhead card) |
+| S24 | `Patchogue downtown revitalization Main Street Patchogue Theatre Bay Shore Main Street restaurants` · Firecrawl search (excerpt) | https://www.patchoguetheatre.org/Wheretoeat | lists Arooga's Grille House & Sports Bar, Tap Room, Village Idiot Pub, etc. | §8 card (downtowns) |
+| S25 | carried (LI hub) | https://islipny.gov/…/500-sign-permit-application/file | EMC: 45-second minimum hold; auto-dimming photocell at night | §8.5 signs bullet; Town by Town (Islip) |
+| S26 | own site | tv-mounting-prices-suffolk-county.html | "no travel charge to the East End"; caretaker/lockbox access practice | Basis for "no separate East End line" (§10.5 H3 7) — stated only about our video wall table |
+| — | Bay Shore downtown facts | — | EMPTY (no sourced fact; named as a place only) | — |
+| — | Local news on Suffolk video walls beyond S15/S16/S19/S23 | — | EMPTY | — |
+
+## Prices used (rule: Brooklyn base × 1.20, round half-up; all products integer)
+Base = `video-wall-installation-brooklyn.html` table. 2×2 LCD $14,400–$21,600 · 3×3 LCD $28,800–$45,600 · 4×4 LCD $50,400–$78,000 · 2.5 mm dvLED $42,000–$66,000 · 1.9 mm $66,000–$102,000 · 1.5 mm $102,000–$168,000 · outdoor LED $5,400–$10,200/m² · 16×16 HDMI matrix $5,400–$14,400 · mounting/custom framing $1,800–$10,800 · maintenance $2,880–$10,800/yr (base $2,400–$9,000 from the NYC hub row, as the LI hub did; the Brooklyn $2,400–$15,000 row includes an LED-volume SLA) · **not multiplied:** controller $2,500–$15,000 and CMS $1,200–$5,000/yr (same figure on nearly every silo page; CMS is third-party software) · service $195/hr, 3-hr min ($585). LED-volume rows dropped (not relevant to Suffolk). BYOE: no published figure → "quoted after the site visit".
+Packages: Boardroom Four from $14,400 · Lobby Nine from $28,800 · Seamless LED from $66,000.
+CONFLICTS: (1) old Suffolk page table was *below* Brooklyn (2×2 $11,500–$17,000; 3.9 mm $45,000–$95,000; outdoor $4,400–$8,200; seasonal storage $3,500–$8,000/season) — not ×1.20; 3.9 mm and seasonal-storage rows dropped (no Brooklyn base). (2) LI hub's Suffolk column multiplies the controller ($3,000–$18,000) and CMS ($1,440–$6,000); this page leaves both at base per the batch rule → hub and page differ on those two rows. (3) Old page used phone (347) 934-8335; queue line and checker require (631) 407-2884.
+
+## Images (11) — source → new file (images/video-wall-installation/)
+All from images/soundbar-installation/; none of these underlying shots appears in images/video-wall-installation/ before this run (checked visually against all 44 files). None shows a video wall; captions say "reference photo".
+1. soundbar-installation-chelsea-bar-clamped-to-swing-arm-mount → video-wall-installation-suffolk-county-articulating-arm-mount-holding-flat-display
+2. soundbar-installation-chelsea-reception-wall-tv-and-bar → …-reception-lounge-wall-display
+3. soundbar-installation-long-island-service-van-tools (cropped to van interior; face and van lettering/phone removed) → …-van-shelving-cable-reels-ladders-tool-cases
+4. soundbar-installation-brooklyn-heights-yellow-level-on-bar-bracket → …-yellow-level-on-wall-bracket
+5. soundbar-installation-chelsea-cables-strapped-inside-media-cabinet → …-cables-strapped-inside-equipment-cabinet
+6. soundbar-installation-chelsea-exercise-room-tv-and-wall-bar → …-fitness-room-wall-display
+7. soundbar-installation-suffolk-county-wall-jack-cable-test (cropped right side; face removed) → …-cable-certifier-pass-at-wall-jack
+8. soundbar-installation-chelsea-tablet-sound-check-from-sofa → …-tablet-control-check-facing-wall-display
+9. soundbar-installation-chelsea-rear-speakers-on-stands-behind-sofa → …-living-room-wall-display-with-speakers
+10. soundbar-installation-chelsea-unboxed-bar-bracket-and-tools → …-unboxed-mount-hardware-and-tools
+11. soundbar-installation-chelsea-level-on-wall-hung-bar (cropped left 1150 px; standing person removed) → …-tool-bag-and-level-below-wall-display
+Note: the same underlying shots exist under other area names in images/soundbar-installation/ (e.g. bayside-, dumbo-, flushing-, greenpoint-, brooklyn-heights-, long-island-, suffolk-county- variants) — siblings should not reuse those shots.
+
+## Question register — video-wall-installation-suffolk-county
+Q&A (H3):
+1. Our Hauppauge plant floor has dust, vibration and forklifts — what changes for a wall out there?
+2. Can a production-floor wall show machine counts without opening the factory network to the internet?
+3. Should our lobby wall and our boardroom wall share one controller, or be built as two systems?
+4. Will a 3×3 of 1080p panels show the fine detail in research plots and engineering drawings?
+5. Our own facilities crew handles power and carpentry — can you supply and commission only the display side?
+6. Is under $40,000 a realistic budget for a lobby wall the size of Stony Brook’s Frey Hall wall?
+7. Will our facilities department’s mounting and cabling standards slow the job down?
+8. Does the four-foot rule in Southampton’s sign code change where a screen can sit inside our shop?
+9. Do displays inside a Southampton business have to go dark at 11 p.m.?
+10. Can the wall be started and tested before we open the house in spring, so it works on the first weekend?
+11. Can summer guests cast from their phones to the wall without joining our home network?
+12. Our beach house is humid and gets sandy in summer — does that shorten a wall’s life indoors?
+13. How high should the wall sit when shoppers see it from across a large store floor?
+14. Can a wall go on the plaster and brick walls of an older Main Street building?
+15. Our venue hosts live music and comedy — can the wall show a camera feed of the stage for the back of the room?
+16. Can the wall share a circuit with the bar coolers and kitchen equipment?
+17. Is a lightning or surge strike through the cable line a real risk for a wall in a waterfront house?
+18. Our village licenses its own electricians — does the county license still matter there?
+19. How can we confirm that an installer’s electrical or other license is current in Suffolk?
+FAQ (visible == FAQPage, 10):
+1. Can a video wall go on a wall that backs onto a walk-in cooler or freezer?
+2. Can the panels or the frame around the wall match our interior finishes?
+3. Can a video wall be mounted on a curved or angled wall?
+4. How long should commercial video-wall panels last before they need replacing?
+5. Does a heavy wall need drawings stamped by an engineer?
+6. Can the wall play sound, or do we need separate speakers?
+7. Can visitors touch the wall to explore content?
+8. Can the wall be built into cabinetry or a millwork wall our carpenter is making?
+9. Can you put a video wall in a sales office or temporary building on a construction site?
+10. Can our existing Crestron or Control4 system run the wall?
+Adjacent-intent notes (judged distinct, flag for review): Q8 vs LI hub "does the town treat it as a sign?" (this one is about placement depth under a specific code); Q10 vs Putnam "seasonal lake house unpowered all winter" (this one is spring commissioning); Q12 vs old-template "salt air on outdoor LED" (indoor humidity); Q14 vs LI hub "metal studs and drywall" (masonry/plaster); Q17 vs LI hub "power in storms" (surge via cable/data paths); Q18 vs LI hub "who may wire outlets, Suffolk vs Nassau town" (the county-article carve-out).
+
+
+---
+
+# Part from batch run 2026-10-18 (batch 14) — video-wall-installation-ulster-county
+
+# Video Wall Installation — research part: Ulster County
+
+Page: `video-wall-installation-ulster-county` (REBUILD in place, 2026-10-18). Built by subagent; merge into research/video-wall-installation.md.
+Queue line: `REBUILD | video-wall-installation-ulster-county | Video Wall Installation | Ulster | up /video-wall-installation-hudson-valley | (845) 640-3835 | GBP Bronx`. Bronx GBP (#bronx, 460 E Fordham Rd). (845) 640-3835 in body/CTAs/schema; (800) 486-0943 only in shared mega-nav; WhatsApp only wa.me/17186790359 (+ footer text).
+
+**Thesis:** In Ulster the building and the code decide before the screen does. The rooms people want walls in are historic or converted (1676 stone Senate House, Kingston's four historic districts, Huguenot Street stone houses, the 1927 Broadway Theatre/UPAC, Hutton Brickyards' 1928 kiln sheds, Mohonk, barns, the former IBM campus at iPark 87); Kingston bans electronic signs in its historic districts and tightly limits them elsewhere (5-min static hold, 0.3 fc, auto-dim, fail-to-black), Woodstock prohibits all internally lighted signs; the county's Electrical Licensing Law (Ch. 185) defines electrical work to include "signaling, communication, alarm or data transmission"; Central Hudson serves 93,190 Ulster customers and 7,640 were out the evening after the July 2026 storms. So Ulster walls face inward where sign rules bite, stand on reversible/floor-supported frames, and get power from an Ulster-licensed master electrician. (Distinct from Putnam civic/dispatch thesis, Nassau municipal-patchwork thesis, Queens multilingual-menu thesis, LI-hub first-wall thesis.)
+
+Format: exact query · platform · URL · finding · page + section used. Tool: Firecrawl MCP (`mcp__Firecrawl__firecrawl_search` / `firecrawl_scrape`). Shell HTTP not used.
+
+## Silo-level sources (this run)
+- Google PAA — EMPTY (not accessible in build env)
+- Google PASF — EMPTY (not accessible in build env)
+- Answer the Public — EMPTY (not accessible in build env)
+- Google AI Overview — EMPTY (not accessible in build env). Reality check tests claims from cost guides / manufacturer notes / forums already in the silo file (svsolutionsusa.com, crowntv-us.com, Planar/Christie/Barco, Samsung Insights 2024-10-21, r/CommercialAV 1j9qccf) — carried from research/video-wall-installation.md §2–§3, not re-fetched; page says so.
+- Bing / DuckDuckGo — EMPTY (not accessible in build env)
+- Yelp 1–3★ — EMPTY (not accessible in build env)
+- Reddit (local) · `reddit Kingston NY OR "New Paltz" OR Woodstock digital sign OR "LED sign" OR "TV wall" business` · Firecrawl search · https://www.reddit.com/r/kingstonnewyork/ , https://www.reddit.com/r/hudsonvalley/comments/1b25j76/ · no thread about video walls/digital signs → EMPTY. Not used.
+- Keywords (5 layers): Service — video wall installation Ulster County, LCD video wall, direct-view LED, stage LED wall, video wall repair · Problem — screen treated as a sign, wall can't be drilled, no ceiling void, unheated venue, outage restart, lightning/surge · Technology — floor-supported/ground-stack frame, pop-out mount, controller, media player sign-mode (static hold, fail-to-black), ambient light sensor, HDBaseT, fibre · Industry — theatres/music venues, galleries, inns/resorts/event barns, campus/training rooms, restaurants · Geographic — Ulster County, Kingston (Stockade, Rondout, Midtown/Broadway), Town of Ulster/iPark 87, New Paltz, Woodstock/Bearsville, Saugerties, Ellenville/Wawarsing, Route 209.
+
+## Ulster County
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| U1 | `Kingston NY Historic Landmarks Preservation Commission certificate of appropriateness signs Stockade District` · Firecrawl search → scrape | https://www.fohk.org/welcome/preservation-2/ | Seven-member HLPC created 1969, reviews exterior changes in districts; four districts on National Register + local: Stockade (1969), Rondout-West Strand (1979), Chestnut Street (1985), Fair Street (1988); UPAC landmarked 1978; West Strand row of 19th-c commercial buildings | Hero; Neighborhood ¶2 + facts; Commercial cards (Stockade, Rondout); Sources |
+| U2 | same → scrape (query, directQuote) | https://ecode360.com/6728919 (Kingston Ch 405 Art 8, amended 11-12-2024) | "any type of sign within the Stockade District or any designated Landmark Overlay District or landmark site shall be subject to approval by the Landmark Preservation Commission … prior to issuance of a permit"; COA required for material change in appearance incl. light fixtures, signs … visible from a public street or alley; application contents (photos, rendering if required, signs: dimensions, colours, materials, method of illumination); COA in addition to building permit | Neighborhood ¶2; Q&A Stockade sign-off, application contents; FAQ drawings; Compliance callouts; Approvals Timeline; Sources |
+| U3 | `City of Kingston NY code chapter 405 signs "electronic" OR "digital" OR "animated" prohibited signs` · Firecrawl search → scrape ×2 | https://ecode360.com/6727255 (Ch 405 Art 4) | Electronic message/LED display signs prohibited in Historic Districts and T1, T2, T3, T4N, T5N; permitted SD-C; may be permitted T5MS, T5F, T4MS, T4N-O, SD-WMU: facade-mounted, panelized ≤9 sq ft, >9 sq ft ≤50% electronic, one per building, 500 ft spacing, static only, ≥5 minutes per message (except time/temp), change ≤1 second, ≤0.3 fc above ambient at nearest property line, ambient light monitor w/ auto dimming + certification to City, revert to black screen on malfunction; window signs max 25% of window, 2 per window | Hero; Neighborhood ¶3 + facts; Q&A back-room ban, outside-districts rules; Compliance; Approvals Timeline; Reality check H3 1; Equipment (light sensors); Sources |
+| U4 | `Town of Woodstock NY zoning signs internally illuminated prohibited ecode360 Woodstock sign law` · Firecrawl search → scrape | https://ecode360.com/109254 (Woodstock Ch 260 Art V) | Prohibited: "Directly illuminated signs or advertising devices, unless specifically permitted"; "All internally lighted signs"; illuminated devices constant intensity, no flashing/intermittent/rotating/moving light | Hero; Neighborhood ¶3 + facts; Commercial Woodstock card; Q&A Woodstock gallery; Compliance; Town table; Reality check H3 1 |
+| U5 | `Ulster County NY electrician license required master electrician licensing board Kingston electrical license` · Firecrawl search → scrape ×2 | https://ecode360.com/35131702 (Ulster County Ch 185, adopted 5-21-2019 L.L. 3-2019; amended 11-19-2019 L.L. 8-2019, 8-17-2021 L.L. 8-2021, 10-21-2025 L.L. 16-2025) | "ELECTRICAL WORK: … electric light, heat, cooling, power (including solar), signaling, communication, alarm or data transmission"; no one may carry on business as electrical contractor unless licensed or employed and supervised by licensee; exemptions A–G (appliance sales/attachment, elevators, heating repair, manufacturers, public service company employees, homeowners limited, municipal employees) — no low-voltage exemption | Hero; Neighborhood ¶4 + facts; Q&A Licensing; Reality check H3 2; Compliance; Field Notes; Steps; Sources |
+| U6 | same search (excerpts) | https://www.ulstercountyny.gov/Boards/Electrical-Licensing-Board ; https://www.townofnewpaltzny.gov/building/urgent-alerts/electrical-licensing-required ; https://www.wawarsingny.gov/DocumentCenter/View/274/Electrical-Licensing-Board-PDF | Board page (incl. City of Kingston licensing board member); Town of New Paltz: "Ulster County Master Electrician Licenses will be required in order to obtain building permits for electrical work"; Wawarsing notice (L.L. 3 & 8 of 2019) | Neighborhood ¶4; Town table (New Paltz); Sources |
+| U7 | `Census QuickFacts Ulster` · Firecrawl scrape | https://www.census.gov/quickfacts/ulstercountynewyork | Pop 183,330 (V2025); housing units 87,657 (V2025); owner-occ 69.9%; median value $352,500 (2020–24); land 1,124.24 sq mi; 161.8/sq mi (2020); 5,065 employer establishments (2023); accommodation & food services sales $663,547k (2022) | Neighborhood ¶1 + facts; Sources |
+| U8 | `Central Hudson outages Ulster County storm customers without power Woodstock Saugerties` · Firecrawl search → scrape | https://www.cenhud.com/en/outages/outage-summary/ | Ulster customers served 93,190; Kingston City 12,764; Lloyd 5,743; Esopus 4,589; New Paltz town 3,521 / village 2,437; Ellenville 2,246; Saugerties 8,894 / village 2,296 | Neighborhood ¶4 + facts; Commercial Woodstock/Saugerties card; Town by Town paragraph |
+| U9 | same → scrape | https://www.dailyfreeman.com/2026/07/05/nearly-50000-central-hudson-customers-without-power-after-storms-hit-region/ | July 5, 2026: severe thunderstorms overnight; 36,709 out as of 5:51 p.m. Sunday, 7,640 in Ulster; ~50,000 at peak | Hero; Neighborhood ¶4 + facts; Q&A lightning; Sources |
+| U10 | `iPark 87 Kingston former IBM Tech City tenants square feet redevelopment` · Firecrawl search → scrape ×2 | https://www.ipark87.com/think-about.html (excerpt); https://hudsonvalleyone.com/2024/01/31/ipark-87-attracts-an-unexpected-new-kind-of-tenant/ ; https://www.ulstercountyny.gov/Government/News/Newsroom/2026/02/2026-02-27-UCEDA-iPark-Foreclosure | 200 acres, >1 million sq ft both sides of Enterprise Drive, Town of Ulster; HV1 2024-01-31: Ulster BOCES CTE ~100,000 sq ft of 140,000 sq ft with county depts (~20,000) and SUNY New Paltz + SUNY Ulster (~20,000); UCEDA 2026-02-27 foreclosure on two West Campus parcels (not used beyond "former IBM complex") | Commercial card; Architecture card; Q&A iPark 87 training room; Coverage card; schema mentions; Sources |
+| U11 | `Ulster Performing Arts Center UPAC Kingston Broadway theater 1927 seats Bardavon` · Firecrawl search → scrape | https://www.bardavon.org/about-us/upac-history/ | Broadway Theatre opened June 9, 1927; architect Douglas P. Hall; National Register 1979; multi-phase restoration completed 2017; seats 1,510; 601 Broadway (box-office page) | Hero; Architecture card; Commercial Midtown card; Q&A rolling stage LED; Coverage card; schema; Sources |
+| U12 | `Bearsville Theater Woodstock NY history Albert Grossman reopened capacity venue` · Firecrawl search (excerpts) | https://bearsvilletheater.com/about ; https://www.billboard.com/business/touring/peter-shapiro-bearsville-theater-woodstock-reopening-lineup-1235666036/ | 291 Tinker Street, Woodstock; Albert Grossman; Dayglo took over (announced April 2024); centre of Bearsville Campus; Billboard: 500-capacity | Commercial Woodstock card; Coverage card; schema; Sources |
+| U13 | `Mohonk Mountain House New Paltz National Historic Landmark 1869 Victorian castle rooms Smiley` · Firecrawl search (excerpts) | https://www.mohonk.com/history/ ; https://www.mohonk.com/history/mohonk-a-living-history/ | 1869 Albert Smiley bought a 10-room inn; "Victorian castle resort", 90 miles north of NYC; Historic Hotels of America. (NHL 1986 only on a Facebook post — not used) | Q&A resort meeting room; Sources |
+| U14 | `Hutton Brickyards Kingston NY event venue former brick factory Hudson River kiln shed` · Firecrawl search (excerpts) | https://www.huttonbrickyards.com/history ; https://www.hudsonvalleyruins.org/rob/?p=1564 | Three steel-frame kiln sheds moved to the site in the 1940s, originally erected 1928 at Excelsior brickyard, Haverstraw; event destination on riverfront | Commercial card; Architecture card; Coverage card; schema; Sources |
+| U15 | `Historic Huguenot Street New Paltz stone houses National Historic Landmark District 1700s` · Firecrawl search (excerpts) | https://www.huguenotstreet.org/home ; https://www.huguenotstreet.org/news-release-historic-huguenot-street-to-host-old-new-paltz-stone-house-day | Ten-acre NHL District, seven stone houses from early 18th c., 30 buildings, heart of 1678 settlement | Neighborhood ¶2; Architecture card; Coverage card; schema; Sources |
+| U16 | `Senate House State Historic Site Kingston first New York State Senate 1777 Stockade District stone houses` · Firecrawl search (excerpts) | https://www.hudsonrivervalley.com/sites/Senate-House-and-Museum-/details ; https://en.wikipedia.org/wiki/Senate_House_State_Historic_Site | Single-story Dutch stone house built 1676, enlarged by Abraham Van Gaasbeek; Fair Street; New York's first Senate met there during the Revolution (only "1676 stone house" used) | Hero; Neighborhood ¶2; Coverage card; schema |
+| U17 | `Ulster County Emergency Communications 911 center Emergency Operations Center Golden Hill Kingston new` · Firecrawl search → scrape ×2 | https://www.ulstercountyny.gov/Departments/Emergency-Services/Divisions/Emergency-Communications/Emergency-Communications-Center ; https://alfandre.com/project/ulster-county-emergency-communications-center/ | New ECC 16,350 sq ft on Paradies Lane, New Paltz, completion expected 2027, consolidates EOC + PSAP; groundbreaking May 28, 2025; no video wall mentioned | Commercial New Paltz card; Sources (deliberately not a thesis — Putnam owns dispatch) |
+| U18 | `SUNY New Paltz "video wall" OR "digital signage" campus` · Firecrawl search (excerpts) | https://www.newpaltz.edu/emergency/frequently-asked-questions/ ; https://www.newpaltz.edu/ocm/digitalmedia.html | Large-screen digital signage installed throughout campus, can be remotely activated for emergency messages; OCM + ITS administer campus signage | Commercial New Paltz card; Sources |
+| U19 | `Ellenville NY Shadowland Stages theater Canal Street …` · Firecrawl search (excerpts) | https://shadowlandstages.org/contact-us/ ; https://shadowlandstages.org/directions/ | MainStage 157 Canal Street, Ellenville; US 209 north to Ellenville | Commercial Ellenville card; Sources |
+| U20 | Own site · read | /tv-mounting-prices-ulster-county.html | "the county carries no travel or parking surcharge"; "Log walls, video walls and other unusual jobs get a written quote first" | Instant-action bullets |
+| C1 | carried from silo file §2 (not re-fetched) | LG 55VM5J-H spec sheet; Samsung datasheets; Samsung Insights 2024-10-21; Planar/Christie/Barco; ADA 307.2; r/CommercialAV 1j9qccf; svsolutionsusa.com; crowntv-us.com | 0–40 °C / 10–80% RH; bezel range; consumer TVs ~8 h/day, warranty void commercially; pitch rules; 4-inch protrusion; convection cooling landscape-only; $9,500 entry; kit = hardware only | Q&A open shed; Equipment; Reality check H3 4–7; Compliance (ADA) |
+
+Local news beyond the Daily Freeman storm piece: not separately searched (EMPTY). Local Reddit: EMPTY. Yelp: EMPTY.
+
+## Prices used (rule + source)
+Brooklyn base (`video-wall-installation-brooklyn.html` table) × Ulster 1.53 (blueprint §9), round half-up (all products are integers):
+2x2 LCD $18,360–$27,540 · 3x3 LCD $36,720–$58,140 · 4x4 LCD $64,260–$99,450 · 2.5 mm dvLED $53,550–$84,150 · 1.9 mm $84,150–$130,050 · 1.5 mm $130,050–$214,200 · outdoor LED/m² $6,885–$13,005 · mounting/custom fab $2,295–$13,770 (Brooklyn $1,500–$9,000 ×1.53) · maintenance $3,672–$13,770/yr (NYC-hub/most-pages base $2,400–$9,000 ×1.53, as LI hub did; Brooklyn's $15,000 top includes an LED-volume SLA).
+Not multiplied (same published figure on almost every silo page): controller add-on $2,500–$15,000; CMS $1,200–$5,000/yr (third-party software). Service $195/hr, 3-hr min ($585) verbatim.
+Dropped (no Brooklyn base): 4x4 "16-game" label, LED volume rows, 16x16 HDMI matrix (not relevant), old 3.9 mm row, "Catskills lightning protection +$1,500–$4,500", "Hutton Brickyards COI coordination $500–$1,500", "Audiophile-grade calibration (Woodstock) Included". Spares, sign-mode light sensors, mobile stage frames, enclosures: "quoted after the site visit". BYOE: quoted after survey / install-your-own page.
+CONFLICT: old Ulster page prices were BELOW Brooklyn (2x2 $10,500–$15,500 vs Brooklyn $12,000–$18,000 → ×1.53 = $18,360–$27,540), i.e. ~0.87×, not 1.53×; the new figures are ~75% higher than what was live. Old page also carried a "$500 minimum job", "1-year parts-only … 3-5 year manufacturer" wording, a "$2M COI with Hutton Brickyards as additional insured" claim and invented project figures ("$54k dvLED …", "Replacement quote … $44k") — none carried over.
+
+## Images (11) — source → new file (images/video-wall-installation/)
+Pool: images/low-voltage/ + images/commercial-security/ (no images/network/ used in the final set). All library images look staged/AI-styled (branded shirts, fake signage); crops remove faces, signage and shirt phone numbers; captions say "Photo from the AESS image library" and that none shows an Ulster job or a video wall.
+- commercial-security/commercial-security-systems-manhattan-dashboard-training.jpg → video-wall-installation-ulster-county-monitor-showing-four-live-camera-views.webp (hero; crop excludes the names column and both faces)
+- commercial-security/commercial-security-systems-manhattan-exterior-enclosures.jpg → …-weatherproof-boxes-on-conduit-at-block-wall.webp
+- commercial-security/commercial-security-systems-nyc-patch-panel-punchdown.jpg → …-hands-punching-down-cables-on-rack-patch-panels.webp
+- low-voltage/low-voltage-installation-bronx-hero-warehouse-cable-tray.jpg → …-dome-camera-and-cable-tray-in-high-bay.webp
+- commercial-security/commercial-security-systems-hudson-valley-conduit-pull.jpg → …-cable-routed-through-rigid-conduit-into-wall-box.webp
+- low-voltage/low-voltage-installation-hudson-valley-10-school-corridor-cable-pull.jpg → …-cable-bundle-pulled-across-open-ceiling-grid.webp
+- low-voltage/low-voltage-installation-nassau-county-riser-conduit-pull.jpg → …-gloved-hands-drawing-cable-from-surface-conduit-box.webp
+- commercial-security/commercial-security-systems-bronx-nvr-poe-rack.jpg → …-hand-seating-recorder-in-equipment-rack.webp
+- commercial-security/commercial-security-systems-nyc-vms-commissioning-laptop.jpg → …-laptop-commissioning-camera-software-beside-rack.webp
+- commercial-security/commercial-security-systems-nyc-access-control-panels.jpg → …-screwdriver-on-controller-boards-in-wiring-cabinet.webp
+- commercial-security/commercial-security-systems-manhattan-office-cat6-ceiling.jpg → …-cable-coil-hung-from-open-ceiling-grid.webp
+Swapped out mid-run because same-batch siblings used the same shots: low-voltage bronx-07-fluke-certification-pass (Suffolk), low-voltage bronx-13-restaurant-ceiling-speaker (Rockland), network bronx-core-drill-cmu-wall-penetration (Rockland).
+
+## Question register — video-wall-installation-ulster-county
+Questions Answered (H3):
+1. Who has to sign off before a screen goes into a Stockade District storefront?
+2. Kingston bans electronic signs in its historic districts — does that reach a video wall in our back room or lobby?
+3. Outside the historic districts, what does Kingston allow for a digital sign facing the street?
+4. What does a landmarks commission application need to show when a display will be seen from the street?
+5. Woodstock bans internally lighted signs — where in a gallery can moving images go instead?
+6. Our business is in New Paltz, Saugerties or another town — whose sign rules apply to a screen?
+7. Can a video wall be fixed to a seventeenth- or eighteenth-century stone wall at all?
+8. What carries the screens when the owner will not allow a single hole?
+9. Our venue is an open-sided shed or barn — can the screens stay up between events?
+10. How do cables reach a wall in a building with no ceiling void and walls that cannot be opened?
+11. Can an LED wall be rolled onto a historic stage instead of fixed to it?
+12. Can a theatre lobby wall run the season trailer and then show a delayed-start notice from the box office?
+13. Can screens show artwork or moving-image pieces without looking like a television?
+14. What does the wall look like when it is switched off in a heritage interior?
+15. Can a resort meeting room wall be cleared away for a weekend event and back up on Monday?
+16. A training room at iPark 87 is being fitted out on a bare factory floor — what should go in before the ceiling closes?
+17. How far can the controller be from the wall in a long converted factory or campus building?
+18. Ulster’s Electrical Licensing Law mentions data transmission — what does that mean for a video wall job?
+19. Is unplugging the only real protection from lightning for a wall in an exposed hilltop venue?
+FAQ (visible == FAQPage, 10):
+1. Can a wall be taken down later without leaving marks on old plaster, brick or stone?
+2. Do you prepare drawings a landmarks commission or planning board can review?
+3. Our stone building eats Wi-Fi. How does new content reach the wall?
+4. Can a screen go into a wedding or event room without showing up in every photograph?
+5. Will you work alongside the venue’s own lighting and sound company?
+6. Can a wall be fixed to the posts and beams of a converted barn?
+7. Can the screen frames be finished to sit with old woodwork?
+8. Can the lobby screens show a live picture from the stage camera?
+9. Can you reuse the wiring from our old projector?
+10. Can the wall pull in posts from our website or social media automatically?
+Other "?" heading: "Planning a Screen for an Old or Landmarked Ulster Building?" (CTA H2).
+De-dup notes: dropped/reworded during build to avoid silo overlaps — window-screen-as-sign (LI hub / Queens / Nassau) reframed as approval authority (Q1) and placement under Woodstock's ban (Q5); FAQ "work around booking calendar" (≈ Nassau after-closing), "how far ahead to book" (≈ old-template lead time), "certificates of insurance" (≈ old-template COI handling) replaced; storm question reframed to lightning/unplugging (LI hub covers power restoration).
