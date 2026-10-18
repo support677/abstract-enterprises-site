@@ -7,7 +7,18 @@ Disallow: /*?s=
 Disallow: /*?partner=
 Disallow: /*?utm_
 
-# Staging copy - not for indexing
+# /pay is kept crawlable on purpose: pay.html carries noindex, and Google must crawl it to see that
+
+# Staging copies - not for indexing
+Disallow: /d195/
+Disallow: /d196/
+Disallow: /d197/
+Disallow: /d198/
+Disallow: /d199/
+Disallow: /d200/
+Disallow: /d201/
 Disallow: /d203/
+Disallow: /delta193/
+Disallow: /delta194/
 
 Sitemap: https://www.abstractenterprisessecuritysystems.com/sitemap.xml

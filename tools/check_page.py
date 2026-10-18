@@ -495,6 +495,11 @@ def check(root, slug, registration=True, stats=False):
     for s in sorted({s for s in srcs if srcs.count(s) > 1}):
         fail(f"same image file used twice: {s}")
 
+    # --- host: every absolute self-link must use https://www. (non-www makes Google crawl/canonicalise the wrong host)
+    raw = open(path, encoding="utf-8").read()
+    for bad in sorted(set(re.findall(r"https?://abstractenterprisessecuritysystems\.com[^\"'\s<>]*", raw)))[:5]:
+        fail(f"non-www self URL (use https://www.abstractenterprisessecuritysystems.com): {bad}")
+
     # --- internal links
     for h in filter(None, map(local_path, page.hrefs)):
         if re.search(r"\.html(?:[#?]|$)", h):
