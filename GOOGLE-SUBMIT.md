@@ -267,3 +267,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-bronx | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-manhattan | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-ulster-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-bronx | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-long-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-manhattan | QUEUED
