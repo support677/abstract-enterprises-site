@@ -265,3 +265,5 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-rockland-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-westchester-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-bronx | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-manhattan | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/smart-pss-support-setup-ulster-county | QUEUED
