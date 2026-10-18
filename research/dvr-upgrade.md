@@ -1185,3 +1185,290 @@ All WebP q80, ≤1600 px. Alt and title are unique and each includes "Staten Isl
 - Masked-geo block similarity (p/li/td/h2/h3/figcaption ≥8 masked words, word-level SequenceMatcher) vs every dvr-upgrade-* page: the only block ≥0.60 is the blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades on/in [Area]" (0.875 vs Brooklyn, Nassau, Putnam, Queens). The verbatim warranty sentence was not scored, because its paragraph prefix was reworded.
 - File size 189,115 B; nearest siblings: Brooklyn 186,554 (+2,561), Putnam 193,557 (−4,442), Queens 184,126 (at 05:3x). If Queens or Putnam change size, re-run the 2 KB cluster check at wiring.
 - Rendered QA (Playwright, 1440 and 390 wide): no JS errors, no horizontal scroll.
+
+
+## Ulster
+
+Page: `dvr-upgrade-ulster` (REBUILD in place 2026-10-18, was crawled-not-indexed). Queue line: `REBUILD | dvr-upgrade-ulster | DVR Upgrade | Ulster | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx`. Up-link `/dvr-upgrade-hudson-valley`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, schema `@id` #bronx). Direct line (845) 640-3835 in body, CTAs and schema; (800) 486-0943 only inside the shared mega-nav chrome. WhatsApp only as wa.me/17186790359.
+
+**Thesis (distinct from Brooklyn = cellar/rowhouse/bodega; Nassau = house + detached garage + driveway/pool; and from the concurrent Westchester/Putnam/Queens/Staten Island rebuilds):** In Ulster the recorder often guards a house nobody is in. One in thirteen Ulster homes is held for seasonal or occasional use (half of all vacant units), rising to a third of Shandaken, over half of Denning and seven in ten in Hardenburgh; short-term rentals add 2,827 more. So the upgrade is designed for absence: the owner has to *know* from the city that the box is still saving, the system has to come back by itself after Central Hudson outages (the Sept 2026 nor'easter hit Woodstock, Shawangunk, Plattekill and Hurley hardest), survive generator tests and lightning on long runs, reach the phone through satellite/cellular internet or wait for the county's fiber build, and get video out of stone houses, barns and studios far from the house. Kingston's old districts, STR guest rules and New Paltz student turnover are the local rule set.
+
+Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`), Firecrawl Alexandria `census-gov` (census/data), Composio Reddit (REDDIT_RETRIEVE_POST_COMMENTS, REDDIT_SEARCH_ACROSS_SUBREDDITS). Shell curl blocked. "Excerpt" = read only as a search snippet.
+
+### Mandatory sources (§3) — status for Ulster
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | U3 (r/hudsonvalley second-home thread, read in full via Composio Reddit), U4 (r/kingstonnewyork camera threads — Flock/LPR/speed cameras only; no DVR thread). |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so; claims taken from silo rows A1, A2, R7, S6–S8 and corrected with Ulster facts below. |
+| 6 | Landmarks | U12–U14 + carried C-rows |
+| 7 | Use cases / building stock | U1, U2, U10 + carried |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | U5 (Central Hudson release), U6 (HV1 Esopus burglaries), U7 (HV1 Kingston police cameras), U8 (Saugerties PD Crimewatch) |
+| 10 | Hyperlocal | HV1 (U6, U7); Daily Freeman Sept 27 2026 outage story carried (C14). Daily Freeman / Kingston Wire stories about home DVRs specifically: EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Research matrix — new for this page
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| U1 | Firecrawl Alexandria `census-gov` census/data · acs/acs5 2023 · B25004_001E, B25004_006E, B25002_001E, B25002_003E, B25034_010E, B25034_011E, B25035_001E, B25040_* · county 111 state 36 | https://api.census.gov/data/2023/acs/acs5?get=group(B25004)&ucgid=0500000US36111 | Ulster County: 86,178 housing units; 13,073 vacant; **6,545 "for seasonal, recreational, or occasional use"** (7.6% of all units; 50% of vacant); built 1939 or earlier 21,829 (25.3%); 1940–49 5,094; median year built 1966. Heating: electricity 10,211, bottled/tank/LP 9,641 of 73,105 occupied (not used). | Hero sub; §5 para 1; §5.5 bullets 1–2; §9 cluster 1 intro; §10.5 H3 5 |
+| U2 | Firecrawl Alexandria `census-gov` census/data · acs/acs5 2023 · B25001_001E, B25004_006E, B25035_001E · county subdivision:* in state 36 county 111 | https://api.census.gov/data/2023/acs/acs5?get=group(B25001)&ucgid=pseudo(0500000US36111$0600000) | Seasonal-use units / total units: Hardenburgh 204/292 (70%), Denning 237/432 (55%), Shandaken 886/2,675 (33%, median built 1952), Woodstock 813/4,289 (19%), Rochester 676/4,240 (16%), Marbletown 506/3,231 (16%), Gardiner 255/1,709 (15%), Olive 340/2,338 (15%), Hurley 382/3,184 (12%), Wawarsing 702/6,240 (11%, median built 1957), Saugerties town 475/9,692 (5%), New Paltz town 129/5,513 (2%), Kingston city 133/11,049 (1%, median built 1939 or earlier). | §5 para 1; §5.5 bullet 2; §7 cards; Coverage (town cards) |
+| U3 | `site:reddit.com hudsonvalley OR Kingston security cameras DVR upstate house remote viewing internet` · Firecrawl search → thread read in full via Composio `REDDIT_RETRIEVE_POST_COMMENTS` (article 1ww3ifc) | https://www.reddit.com/r/hudsonvalley/comments/1ww3ifc/secondhome_owners_in_the_hudson_valley_who_looks/ | r/hudsonvalley, posted ~Oct 2 2026: "Second-home owners in the Hudson Valley — who looks after your house when you're not here?" Comments: "Our part time neighbor has extensive cameras and a full house battery backup, combined with cellular fallback on their Internet package"; "Home owners insurance love to deny claims because 'no one was checking on the house'… I've seen pipes break and it rains for 3 weeks inside and then freezes"; a winter caretaker "comes by once a week to check for roof leaks, peek at the heating system, make sure there's no standing water in the basement"; "We've got Ring cameras posted around the house, and we're friends with a local contractor"; "Me via blink cameras"; a property manager in Orange & Ulster offering second-home checks. | §5 para 2 (quotes); §9 cluster 1 (caretaker, insurer Qs); FAQ 3 (freeze); §10.5 H3 5 |
+| U4 | Composio `REDDIT_SEARCH_ACROSS_SUBREDDITS` · `subreddit:kingstonnewyork camera` | https://www.reddit.com/r/kingstonnewyork/comments/1vw7xra/call_to_action_flock_camera_public_safety/ ; https://www.reddit.com/r/kingstonnewyork/comments/1x56siq/we_gotta_get_rid_of_these_jenoptik_cameras/ | Aug 23 2026 call to attend the Aug 26 Public Safety Committee meeting on Flock cameras/LPRs; Oct 13 2026 thread against Jenoptik (speed) cameras. No home-DVR threads in r/kingstonnewyork search → Kingston Reddit on home recorders: EMPTY. | §8 Uptown/Midtown card (residents' privacy debate, with U7); §Sources |
+| U5 | `Central Hudson outage Ulster County customers without power storm 2026` · Firecrawl search → scrape | https://www.cenhud.com/en/news/2026/central-hudson-crews-work-to-restore-power-after-noreaster/ ; https://www.cenhud.com/en/outages/ | Sept 26 2026: crews restoring power to "more than 19,000 homes and businesses" after a slow-moving nor'easter; "The hardest-hit areas include Woodstock, Shawangunk, Plattekill and Hurley in Ulster County"; restoration expected "to continue into Sunday"; generator advice: "Operate it outdoors and turn off the main breaker while the generator is in use". Outages page: updates Sept 27 2026 ("More than 90% of Customers Restored…"); credits for outages ≥72 hours affecting ≥20,000 customers ($25 per further 24 h for residential). Search excerpts: Central Hudson serves 315,497 customers; Ulster 93,190 served (poweroutage.us / cenhud). | §5 para 3; §5.5 bullet 3; §9 cluster 2 (Q4, Q5); §Repair block; §10.5 H3 3 |
+| U6 | `Ulster County sheriff burglary second home seasonal camp break-in 2025 OR 2026` · Firecrawl search → scrape | https://hudsonvalleyone.com/2025/01/09/string-of-town-of-esopus-burglaries-prompt-ulster-county-sheriff-to-issue-warning/ | Jan 9 2025: Sheriff's Facebook post (Jan 7): "In the past 4 days… a residential burglary and several larcenies from vehicles on Union Center Road and surrounding areas in the Town of Esopus"; HV1 notes other outlets wrongly called it county-wide; police advice included "install a security system and motion sensor lights". | §5 para 4 |
+| U7 | `Kingston NY police camera registration program residents businesses surveillance footage` · Firecrawl search → scrape (directQuote) | https://hudsonvalleyone.com/2026/09/02/police-defend-kingstons-surveillance-cameras-as-residents-raise-privacy-concerns/ | Sept 2 2026: since 2020 seven automatic licence plate readers at Kingston intersections plus 71 other surveillance cameras; map "heavily concentrated in Midtown and Uptown"; LPR data held six months; 32 KPD members have access to public-safety cameras, four to LPR data; Chief Tinti: police are "not looking into private windows". No city camera-registration programme for private systems found → page makes no registry claim. | §8 Uptown/Midtown card; §9 cluster 4 intro; §Sources |
+| U8 | `Woodstock NY OR Saugerties OR Shandaken police burglary unoccupied seasonal home 2026` · Firecrawl search → scrape (directQuote) | https://crimewatch.net/us/ny/ulster/saugerties-pd/cases | Saugerties PD: "On November 7, 2025, between 1:30 PM and 5:45 PM, an unknown individual or individuals unlawfully entered a detached garage on a property located on Old Kings Highway near Malden Turnpike in the Town of Saugerties. The subject(s) stole a green 2025 Kawasaki KX450X dirt bike." | §5 para 4 (daytime outbuilding entry); §7 barns card |
+| U9 | `Ulster County ConnectALL broadband unserved locations fiber 2026 Starlink rural internet Shandaken Denning Hardenburgh` · Firecrawl search | https://www.ulstercountyny.gov/Government/News/Newsroom/2025/09/2025-09-25-Funding-for-Broadband-Expansion ; https://radiocatskill.org/ulster-county-secures-59m-for-fiber-broadband-expansion/ (excerpts) | Sept 25 2025: $20.8M ConnectALL award for "nearly 1,300 unserved households, businesses, and community facilities" in remote areas; USDA technical-assistance grant for fiber in Denning; Margaretville Telephone Company fiber buildout in Phoenicia. Radio Catskill May 4 2026: "all 1,293 unserved locations in the county will receive fiber broadband service" (BEAD + Verizon). Starlink-specific Ulster data: EMPTY. | §5.5 bullet 5; §9 cluster 5 Q13; §10.5 H3 4 |
+| U10 | `Ulster County Comptroller short-term rentals report 2025 units out-of-county owners` · Firecrawl search | https://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/FINAL-STR-Report-2025.pdf ; http://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/Press-Release_U.C.-Report-on-the-Housing-Impact-of-Short-Term-Rentals.pdf (excerpts) | Sept 22 2025 report: 2,827 STRs = 3.28% of county housing (May 2025); 98% entire units; 36% of owners use out-of-county mailing addresses; Shandaken 261 STRs of 2,675 units; Town of Rochester 238 (5.61%); Village of Saugerties 106 (5.23%); Marbletown 151 (4.67%); Kingston 150 (1.36%). | §5 para 2; §5.5 bullet 4; §9 cluster 6 Q15 |
+| U11 | `Airbnb policy indoor security cameras banned March 2024 outdoor cameras disclose` · Firecrawl search | https://news.airbnb.com/an-update-on-our-policy-on-security-cameras ; https://www.npr.org/2024/03/11/1237609591/airbnb-bans-indoor-security-cameras-surveillance-privacy (excerpts) | Airbnb bans indoor security cameras in listings globally (announced March 11 2024, effective April 30 2024); hosts must disclose presence and general location of outdoor cameras before booking; outdoor cameras may not monitor indoor spaces or areas with greater privacy expectation such as an enclosed outdoor shower or sauna. | §9 cluster 6 Q15; §10.5 H3 6 |
+| U12 | `New York State Thruway exit 18 New Paltz exit 19 Kingston exit 20 Saugerties Ulster County` · Firecrawl search | https://www.thruway.ny.gov/travelers/interchange-exit-listing | Exit 18 New Paltz–Poughkeepsie–NY 299 (MP 76.01); Exit 19 Kingston–NY 28–Kingston-Rhinecliff Bridge (MP 91.37); Exit 20 Saugerties–Woodstock–NY 32 (MP 101.25). | Coverage section intro; §8 corridor cards |
+| U13 | `Mohonk Preserve weather station record low temperature winter New Paltz daily records since 1896` · Firecrawl search | https://www.mohonkpreserve.org/wp-content/uploads/2021/02/17-02WEATHER.NSN_.pdf ; https://journals.ametsoc.org/view/journals/apme/49/3/2009jamc2221.1.xml (excerpts) | Mohonk Lake station established January 1896 (continuous daily record 1896–2006 per AMS paper); Natural Science Note: "Lowest Winter Temperature: 1°F on December 16th and January 9th" (2016–17 winter); season snowfall 43.20 in. | §5.5 bullet 6; FAQ 5 (snow on lenses); §13 Mohonk card |
+| U14 | `site:reddit.com kingstonnewyork OR hudsonvalley camera footage stolen package OR break-in Woodstock OR Saugerties OR "New Paltz"` · Firecrawl search | https://www.reddit.com/r/hudsonvalley/comments/v2sud5/this_woman_trespassed_on_my_property_parked_on_my/ (excerpt) | r/hudsonvalley: resident posted footage of a trespasser who parked on the lawn; "Facebook group identified the thief… a local resident, less than a mile away. Sheriff was supposed to come…". Town not stated → not placed in a town. | Not used on page (location unclear) |
+
+### Carried (verified Ulster sources fetched by earlier runs in this repo; not re-fetched)
+| # | Finding | Source (as logged) | Research file | Page section |
+|---|---|---|---|---|
+| C1 | Kingston HLPC: certificate of appropriateness for "material change in the appearance … visible from a public street or alley"; ordinary maintenance/repair that does not change design, materials, color or outward appearance exempt; desk reviews "generally turned around within one week"; districts Stockade, Rondout–West Strand, Chestnut Street, Fair Street | kingston-ny.gov/hlpc; ecode360.com/6728919; engagekingston.com | cat6-repair.md U8; door-buzzer C1 | §8.5 bullet 1; §9 cluster 4 Q10 |
+| C2 | Stockade: 18th-c stone houses on all four corners of John & Crown (Four Corners); Senate House 1676 stone dwelling, first NY Senate 1777 | FOHK; parks.ny.gov | cat6-repair.md R4 | §7 stone card; §13 card |
+| C3 | Historic Huguenot Street, New Paltz: 10-acre NHL district, seven stone houses, 1678 settlement | huguenotstreet.org | cat6-repair.md R6 | §7 stone card; §13 card |
+| C4 | Hurley Main Street private residences late 1600s–late 1800s | hurleyheritagesociety.org | door-buzzer C4 | §7 stone card |
+| C5 | Rondout = D&H Canal tidewater terminus (canal opened 1828, 108 miles); $1.5M federal grant to raise East Strand/North Street against frequent tidal flooding (Times Union, Mar 29 2024) | Wikipedia Kingston; timesunion.com | cat6-repair.md R7; door-buzzer C5 | §13 Rondout card; §7.5 |
+| C6 | UPAC (Broadway, Midtown Kingston) 1927, 1,500 seats | hudsonvalleyone.com 2017/11/30 | door-buzzer C6 | §13 card |
+| C9 | Former IBM Kingston campus (iPark 87), Enterprise Drive — East Campus hosts Ulster BOCES and Archtop Fiber | ulstercountyny.gov 2026-02-27 | door-buzzer C9 | §8 Town of Ulster card |
+| C10 | Uptown Kingston: Wall Street and North Front lined with shops, restaurants | goloveny.com | door-buzzer C10 | §8 Uptown card |
+| C11 | New Paltz Main Street (Route 299) village shopping/restaurants | iloveny.com | door-buzzer C11 | §8 New Paltz card |
+| C12 | SUNY New Paltz: 6,197 undergraduates, 1,036 graduate students | newpaltz.edu | door-buzzer C12 | §9 cluster 6 Q16 |
+| C13 | Earth Networks 2020: Ulster 182,760 lightning pulses, 49 thunder days | Earth Networks 2021 State Lightning Report | door-buzzer C13 | §5.5 bullet 3; §9 Q6 |
+| C14 | Daily Freeman Sept 27 2026: nor'easter peak >14,000 Ulster outages; Central Hudson 93,209 Ulster customers | dailyfreeman.com/2026/09/27/… | door-buzzer C14 | §5.5 bullet 3 |
+| C15 | Cell dead zones along Routes 212 and 28; worst ZIPs 12464 Phoenicia, 12452 Lexington/Shandaken, 12477 Saugerties, 12458 West Hurley (HV1 Dec 29 2016) | hudsonvalleyone.com/2016/12/29/dead-zones-… | door-buzzer C15 | FAQ 4 |
+| C16 | Archtop Fiber HQ Kingston; launched Kingston and Saugerties, building in Woodstock (Oct 2024); Planet Networks fiber in Kingston | archtopfiber.com blog 2024-10-01; Reddit excerpts | cat6-repair.md U1–U2 | §9 Q13; §5.5 bullet 5 |
+| C20 | Ulster County Code Ch. 185: "electrical work" includes wiring for "signaling, communication, alarm or data transmission"; master electrician licence for electrical permits | ecode360.com/35131702 | door-buzzer C20 | §8.5 bullet 3 (new outlets/generator inlets by a county-licensed electrician; no claim that a low-voltage recorder swap needs a county licence) |
+| C21 | Opus 40, Saugerties: bluestone earthwork by Harvey Fite in an abandoned quarry; by 1898 ≥10,000 people in Ulster made a livelihood from bluestone | opus40.org | cat6-repair.md R8 | §13 card; §7.5 |
+| C22 | Ellenville on Route 209; Shawangunk Ridge | ewcoc.com | cat6-repair.md R14 | §8 Ellenville card |
+| C23 | Walkway Over the Hudson west end in Highland | parks.ny.gov; walkway.org | door-buzzer C23 | §13 card |
+| C24 | Ashokan Reservoir created 1915, 14 miles west of Kingston | dec.ny.gov | cat6-repair.md R9 | §13 card |
+| C25 | Hurricane Irene 2011: almost all of Ulster >6 in of rain; record flood levels on Upper Esopus Creek, Stony Clove Creek in Phoenicia, Rondout Creek in Rosendale | loweresopus.org | cat6-repair.md U14 | FAQ 7 (creek camera); §7.5 |
+| C26 | USDA 2022 Census of Agriculture: Ulster 486 farms, average 150 acres | USDA county profile | cat6-repair.md (HV) | §8 farm card; §9 Q17 |
+| C27 | Hudson Valley Mall, Town of Ulster on Route 9W — "long-term redevelopment and repositioning" | hullpg.com | cat6-repair.md U15 | §8 Route 9W card |
+
+### Silo rows reused (research/dvr-upgrade.md Part 1)
+T1 (Dahua HDCVI 700 m 4K / 800 m 1080p / 1200 m 720p over coax), T2 (penta-brid), S1 (FortiGuard TBK CVE-2024-3721), S2 (NVD CVE-2021-36260 in KEV), A1 (Security.org/HomeAdvisor $100–$200 two cameras), A2 (CCTV Camera World on coax), R1 (Reddit hybrid NVR advice), R7 (Low Voltage Nation $500 DIY), Nassau S3 (WD Purple 180 TB/yr), S6 (HomeGuide $100–$350 DVR), S7 (Reddit "just buy a new system"), G1 (Civil Rights Law §52-a), G3 (Penal Law 250.05 one-party consent), G4/G5 (NYS Commercial Security Tax Credit).
+
+### EMPTY (not accessible in build env / not found)
+Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG autocomplete, Yelp 1–3★; Kingston/Ulster Reddit threads about home DVRs; Daily Freeman / Kingston Wire stories on home recorders; Ulster town permit rules for low-voltage camera work; any private-camera registration programme run by Kingston PD, Saugerties PD or the Sheriff; Starlink/CGNAT data specific to Ulster; a sourced Ulster DVR job for Field Notes (Field Notes written as general practice, labelled so); Google Drive "AESS Website Photos" has no DVR Upgrade subfolder (subfolders: Cat6 Repair, Sonos, Soundbar, Smart Lock, Fiber Optic); CompanyCam not connected in Composio (no active connection).
+
+### House practices stated on the page without an external source (FLAG for Anwar)
+Daily/weekly "recording heartbeat" checks via the app and disk-error push alerts; setting recorders to power on automatically after an outage and testing it by pulling the plug; UPS on recorder + modem + PoE switch; whole-house surge protection plus coax/data surge protectors at building entry, bonded to the electrical ground; caretaker user accounts with playback-only rights; maintenance visit routines; recorder placement above flood level / in conditioned space; mounting into mortar joints, sill plates and window frames rather than stone faces; wireless point-to-point bridges for outbuildings; "most systems recording again within one to two hours of arrival" and two-hour arrival windows seven days a week to 8 PM (silo convention copied from live pages); "Ulster figures already carry the county factor, no separate travel line" (derived from §9, not a published AESS policy).
+
+### Pricing (§9 Ulster 1.53× applied to the silo base; round half-up; nothing invented)
+| Job | Brooklyn base (silo) | Ulster ×1.53 |
+|---|---|---|
+| 4-channel swap | $450–$700 | $689–$1,071 |
+| 8-channel swap | $650–$1,000 | $995–$1,530 |
+| 8-channel hybrid (XVR) | $800–$1,200 | $1,224–$1,836 |
+| 16-channel | $1,200–$2,200 | $1,836–$3,366 |
+| 32-channel | $2,200+ | $3,366+ |
+| Hybrid hardware premium | $20–$80 (equipment, not multiplied — §9 equipment locked at street price) | $20–$80 |
+| Service/callback rate | $195/hr, 3-hr minimum ($585) — protected, not multiplied | same |
+FLAGS: (1) the old Ulster page showed "$250 service call", "$175/drop", "$19.99/mo" and "$0/mo" chips and "$500 to $1,400 installed" — inconsistent with §9 and the $195/hr policy; none carried. (2) The rebuilt Brooklyn (base) and Nassau pages publish the silo table un-multiplied (Nassau should be 1.15×); the HV hub still shows base figures. This page applies 1.53× as the brief requires — the coordinator may want the hub and Nassau aligned.
+
+### Images (11) — Step A empty, Step B unavailable, Step C / permanent image rule
+3 real AESS job photos from other jobs (new crops, no signs/text/people) + 8 manufacturer product shots. All viewed before naming. Avoided images/buzzer-repair/. Re-cropped a 4th real photo (deli ceiling) was dropped because it duplicated the Brooklyn crop.
+| Output (images/dvr-upgrade/) | Source | Crop / note |
+|---|---|---|
+| dvr-upgrade-ulster-dark-grey-recorder-with-two-front-usb-ports-product-photo.webp (500×164) | images/nvr-honeywell-35-series.png | product shot, trimmed (hero) |
+| dvr-upgrade-ulster-low-black-recorder-with-angled-front-product-photo.webp (500×157) | images/nvr-reolink-nvs8.png | product shot |
+| dvr-upgrade-ulster-square-black-recorder-with-glossy-top-product-photo.webp (436×182) | images/nvr-tplink-vigi-nvr1008h.png | product shot |
+| dvr-upgrade-ulster-black-recorder-with-orange-logo-and-vented-front-product-photo.webp (500×124) | images/nvr-digital-watchdog-cova.png | product shot |
+| dvr-upgrade-ulster-white-turret-with-two-lenses-and-warning-lights-product-photo.webp (894×893) | images/cam-dual-lens-active.jpeg | product shot |
+| dvr-upgrade-ulster-white-dual-lens-pan-tilt-camera-product-photo.webp (350×554) | images/cam-ptz-dual.jpeg | product shot |
+| dvr-upgrade-ulster-white-varifocal-bullet-camera-product-photo.webp (299×159) | images/hikvision-varifocal-bullet-camera.jpg | product shot (maker name on body, not named in copy) |
+| dvr-upgrade-ulster-two-white-turret-cameras-side-by-side-product-photo.webp (329×153) | images/hikvision-colorvu-turret-camera-pair.jpg | product shot |
+| dvr-upgrade-ulster-dark-dome-camera-at-ceiling-corner-near-light-panel.webp (645×380) | images/rockland-toyota-dome-camera.jpeg | real job photo; crop (290,0,935,380) — dealer logo, signage and TV excluded |
+| dvr-upgrade-ulster-black-bullet-camera-on-ceiling-grid-above-corridor.webp (805×370) | images/rockland-toyota-hallway-camera.jpeg | real job photo; crop (130,130,935,500) — poster, QR card, desk excluded |
+| dvr-upgrade-ulster-white-dome-camera-under-water-stained-ceiling.webp (700×640) | images/nassau-window-depot-storage-camera.jpeg | real job photo; crop (100,0,800,640) — boxes with brand/handwritten text excluded |
+
+### Build notes
+- `tools/check_page.py dvr-upgrade-ulster` (repo copy) cannot run: `AREAS` only knows `ulster-county`, so the slug `dvr-upgrade-ulster` (and the siblings -westchester, -rockland, -orange, -putnam, -dutchess) prints "can't tell the area from slug". A patched copy in the scratchpad (adds short HV keys `westchester`/`rockland`/`orange`/`putnam`/`dutchess`/`ulster` with the same rules as the `-county` keys; Westchester phone 914-877-2578) reports **PASS** including registration (sitemap, _redirects, hub link-down, sibling link-backs): 13,497 rendered words; title 58; meta 158; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; 183,438 B (Nassau 180,770; Brooklyn 186,554; Westchester new 192,992).
+- Masked-geo block similarity (p/li/td/h2/h3/figcaption ≥8 masked words, word-level SequenceMatcher), excluding the blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades in [Area]" and the protected terms sentence: max **0.596** (vs dvr-upgrade-brooklyn, services intro); 0.594 vs the new dvr-upgrade-westchester (price line in the quick block).
+- Dedupe vs the new Westchester page (rebuilt in parallel, read 2026-10-18 ~05:50): replaced three first-draft Q&A whose intent matched Westchester's ("400 ft of old coax to the barn — HD?" ≈ "Bedford gatehouse several hundred feet over old coax"; "does the recorder restart after a Central Hudson outage" ≈ "generator takes over but recorder never comes back on"; "insurer asked who checks on the house" ≈ "show our insurer the system is maintained"). Borderline pairs left for coordinator review: my "standby generator weekly self-test reboots cameras" vs Westchester "generator takes over but recorder never comes back on by itself"; my "barn on its own meter — ground difference" vs Nassau "rolling lines whenever the garage door opener runs"; my "Stockade like-for-like swap = maintenance exemption?" vs Brooklyn "historic district — do we need LPC approval for a new camera?".
+
+### Final pass (coordinator request, after putnam/queens/staten-island shipped)
+- Repo `tools/check_page.py dvr-upgrade-ulster` (now patched upstream for short HV slugs): **PASS**. 12,720 rendered words; 178,559 B (inside the 178,430–178,700 band between orange 176,376 and nassau 180,770); FAQ 9 = FAQPage 9.
+- Meaning-level dedupe vs rebuilt Putnam / Staten Island / Queens / Westchester: removed or replaced 6 Q&A and 7 FAQ. Removed Q&A: recorder-stopped-saving alert from the city (= Putnam "How will we know the recorder at the weekend house has stopped working"), caretaker visit search (= Staten Island "search for every time a car pulled into the driveway"), continuous vs motion (= Putnam), standby generator (≈ Putnam/Westchester generator Qs), barn on its own meter (= Putnam), upload speed (≈ Putnam capped data). Removed FAQ: swap while we're in the city (= Putnam video-call), freeze warning (= Putnam heat fails in January), cell dead zone (≈ Putnam one bar of signal), lenses/spider webs (= Putnam spiders), creek level camera (≈ Staten Island flood height, Putnam dock/ice), mailbox camera (≈ Putnam bottom-of-driveway), travel pricing (≈ Staten Island "worth calling you across the bridge"). New items: Central Hudson outage credits, metal-roof snow slides, Kingston police street cameras, old farmhouse wiring, event barn, contractor renovation, hunters on posted land, smart-lock code vs door camera, Wi-Fi through stone walls.
+- New facts used: Central Hudson outage credits (outages ≥72 h affecting ≥20,000 customers; $25 per further 24 h residential; food/medicine reimbursement) — row U5 (https://www.cenhud.com/en/outages/). House practices added (FLAG): roof-slide camera placement, ground-loop/grounded-outlet advice, event/contractor/hunter/smart-lock answers.
+- Masked-geo similarity max 0.636 (vs dvr-upgrade-staten-island, a Census citation line in Sources); highest prose block 0.609 (vs Brooklyn).
+
+### Question register additions
+**dvr-upgrade-ulster — REBUILT 2026-10-18 (final)**
+**Q&A / question headings:**
+- Came Up for the Weekend and Every Camera Was Blank?
+- Central Hudson credits customers after long outages — does that cover a recorder that died in the storm?
+- Central Hudson's map shows our road is out — can we tell from the city whether the cameras are running on the battery?
+- Should there be surge protection where the barn camera's cable comes into the house?
+- Our house has two-foot stone walls — how does a new cable get from the recorder to a camera outside?
+- Snow slides off our metal roof in sheets — where can a camera go so it isn't torn off?
+- Does swapping the recorder and reusing the existing brackets on our Stockade house count as a change the preservation commission reviews?
+- Our Midtown Kingston storefront has a pressed-tin ceiling — can the new domes go in the same spots?
+- Kingston police run their own street cameras — does that make a camera on our Uptown shop unnecessary?
+- Our only internet is a satellite dish — can the phone app reach a recorder behind it?
+- Fiber is coming to our road under the county broadband program — should we wait to upgrade the recorder?
+- We rent the house to short-term guests some weekends — where can cameras go, and what do guests have to be told?
+- Our New Paltz rental turns over every May — what should change on the recorder between tenant groups?
+- Can a camera watch the self-serve cash box at our farm stand from the recorder in the house?
+- Our Woodstock shop closes for part of the winter — can the recorder alert us only when the shop is shut?
+**FAQ (= FAQPage):**
+- Our old farmhouse still has some original wiring — is it safe to plug the recorder into it?
+- Our barn is booked as a seasonal event venue — can cameras cover the parking field without filming guests inside?
+- A contractor is renovating while we're in the city — can the cameras show progress without recording their conversations?
+- Hunters keep crossing our posted land in the fall — can a camera on the boundary help?
+- Can the camera at our front door show which code was used on our smart lock?
+- Thick stone walls kill our Wi-Fi — can a Wi-Fi camera on the porch still reach the recorder?
+- Can the inside cameras be switched off while we're at the house?
+- Can a camera be mounted on a log or board-and-batten wall without leaving damage?
+- We arrived on Friday night and one camera shows a black tile — what should we check before calling?
+
+
+## Westchester
+
+Page: `dvr-upgrade-westchester` (REBUILD in place, 2026-10-18; was crawled-not-indexed). Up-link `/dvr-upgrade-hudson-valley`. GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`). Direct line (914) 877-2578 in body, CTAs, forms copy and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359.
+
+**Thesis (distinct from Brooklyn rowhouses/bodegas, Nassau house+garage+driveway, and the rural/second-home Ulster angle):** in Westchester a recorder upgrade is a governance job — co-op boards, condo associations, managing agents, supers and desk staff in the county's large apartment stock (Yonkers, Mount Vernon, New Rochelle, White Plains, garden complexes), plus corridor retail and Platinum Mile suites; the page covers board-ready scopes, role-based logins and footage policy, garage/package-area footage, the county licensing split (home improvement ≤3 units vs alarm business licence), Ida/Isaias power realities, and long runs on northern estates as a secondary theme.
+
+Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`), Firecrawl Alexandria `census-gov` census/data. Shell curl blocked. "Excerpt" = read only as a search-result snippet.
+
+### Mandatory sources status (Westchester)
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit r/Westchester | Excerpts only (R-W1–R-W3). r/Yonkers: search returned no Yonkers-specific thread → EMPTY (not accessible in build env / none surfaced). |
+| 2–5 | Google PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so and works from forum/cost claims and stated assumptions. |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env). |
+| 9–10 | Local news / hyperlocal | News 12 Westchester (N-W1, N-W2 excerpt), Journal News/lohud (P-W2; P-W4 page scraped empty → not used), ABC7 (F-W1), Talk of the Sound (F-W2). Patch: only a licensing-rules excerpt surfaced (L-W5), not used. |
+| 11 | Yelp 1–3★ | Search page excerpt only (Yelp Westchester camera installers list, 4.7/1,053 aggregate of a listing page) — no review text → EMPTY (not accessible in build env). |
+| Drive / CompanyCam | Drive folder `AESS Website Photos` has no DVR Upgrade subfolder (subfolders: Cat6 Repair, Sonos Installation, Soundbar Installation, Smart Lock Installation, Fiber Optic Installation). CompanyCam toolkit via Composio: no active connection. |
+
+### Housing stock (H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| H-W1 | Alexandria `census-gov` census/data · acs/acs5 2023 · B25001_001E, B25003_002E/003E, B25024_002E–009E, B25034_010E/011E, B25035_001E · county:119 state:36 | https://api.census.gov/data/2023/acs/acs5?get=group(B25024)&ucgid=0500000US36119 | Westchester: 391,861 units; median year built 1958; 1939-or-earlier 109,608; 1940s 27,851; 1-unit detached 170,635; attached 25,697; 2-unit 30,527; 3–4 28,194; 5–9 19,373; 10–19 19,206; 20–49 30,854; 50+ 66,378 (20+ = 97,232 ≈ 25%); owner 230,294; renter 139,962. | §5 para 1; §5.5 bullets 1–2; Sources |
+| H-W2 | same provider · place:84000,50617,51055 state:36 (a fourth code returned Niagara Falls, discarded) | same API | Yonkers: 83,851 units; 50+ 22,426; 20–49 9,464; renter 42,519 vs owner 38,031; median 1958. Mount Vernon: 30,890; renter 16,813 vs owner 12,228; median 1952; 50+ 6,244. New Rochelle: 32,138; 50+ 7,942; median 1954. (White Plains not retrieved.) | §5 para 1; §5.5 bullet 3 |
+
+### Licensing / county rules (L)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| L-W1 | `Westchester County Department of Consumer Protection home improvement license security systems alarm installer` · Firecrawl search → scrape (directQuote) | https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIIRUREDEENFA_CH863COPRCO_ARTXVILIPEENHOIMBU | Ch. 863 Art. XVI: "Home improvement" = repair/installation etc. "to, in or upon a private residence, townhouse, condominium, apartment, or dwelling place of not more than three units"; exemption: "The sale, leasing, maintaining, installing, repairing, altering, moving, replacing or servicing of an alarm device or system by a county-licensed alarm business or alarm agent". | §5.5 bullet 4; §8.5 bullets 1–2; Q&A licence cluster (both H3); §10.5 H3 3; Sources |
+| L-W2 | `Westchester County licensed alarm business alarm agent license Consumer Protection chapter 863` · Firecrawl search | https://ecode360.com/7692228 (Town of Cortlandt Ch. 113, excerpt) | Alarm business licence/agent licence issued by the County under Ch. 863 Art. XV for installing/servicing police or fire alarm devices. | §8.5 bullet 2; Q&A alarm H3; Sources |
+| L-W3 | same as L-W1 | https://consumer.westchestercountyny.gov/ | "Plumbers and electricians must obtain a trade license in order to work in Westchester County"; licence lookup exists. | §8.5 bullet 4 (electrical outlet by licensed electrician); Q&A licence H3 |
+| L-W4 | `Westchester County co-op apartments share of housing cooperatives Yonkers Scarsdale co-op board` · Firecrawl search → scrape | https://humanrights.westchestercountyny.gov/resources/cooperative-housing-disclosure | Westchester Fair Housing Law: co-op boards acknowledge applications within 15 days, decide within 60, send rejection notices to the Human Rights Commission. | Background only (shows formal co-op board process); not stated on page |
+| L-W5 | (L-W1 search) | https://patch.com/new-york/whiteplains/new-hvac-power-washer-licensing-rules-are-effect-westchester-county (excerpt) | New HVAC/power-washer licensing rules. | Not used |
+| L-W6 | `Westchester County cities towns villages number…` · Firecrawl search | https://www.westchestercountyny.gov/about-westchester (excerpt); https://en.wikipedia.org/wiki/Westchester_County,_New_York (excerpt) | County site: six cities, 19 towns, 20 villages; Wikipedia: 23 villages (counts Harrison, Mount Kisco, Scarsdale as town/villages) → page says "about two dozen villages". | §5.5 bullet 6 |
+
+### Storms / power (F)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| F-W1 | `Hurricane Ida Mamaroneck flooding 2021 Westchester basements damaged homes` · Firecrawl search | https://abc7ny.com/post/flooding-brooklyn-nj-nyc-flooded/10994078/ (excerpt incl. article text) | Sept 2, 2021: some Mamaroneck neighborhoods up to 14 feet of water; basements filled to first floor; title: 3 dead in Westchester. | §5 para 4; Q&A off-site copy H3; §10.5 H3 5 |
+| F-W2 | same → scrape | https://talkofthesound.com/2021/09/02/con-ed-reports-16000-customers-without-power-after-ida-blows-through-westchester/ | Con Ed Westchester total 15,975 out; Mamaroneck Village 4,808; Mamaroneck Town 1,929; New Rochelle 1,076. | §5 para 4; §10.5 H3 5 |
+| F-W3 | `Con Edison Westchester outages Isaias 2020…` · Firecrawl search → scrape | https://www.lohud.com/story/weather/2020/08/12/eight-days-after-isaias-many-without-power-wednesday-morning-hudson-valley/3352805001/ | Eight days after Isaias Con Ed still had 1,357 customers out; "about 350 … due to the storm are in Westchester". | §5.5 bullet 5 |
+| F-W4 | `NYSEG electric service territory northern Westchester towns…` · Firecrawl search | https://www.nyseg.com/documents/d/nyseg/psc120_section-1 (excerpt) | NYSEG tariff territory, Westchester towns: Bedford, Lewisboro, North Salem, Poundridge, Somers. | §5.5 bullet 5; §13 IBM card; Q&A generator H3 |
+
+### News / Reddit (N, R)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| N-W1 | `Westchester police package theft car break-ins surveillance video 2025 2026 lohud patch Yonkers New Rochelle` · Firecrawl search → scrape | https://westchester.news12.com/2026/09/05/several-vehicles-found-with-smashed-windows-in-yonkers-parking-garage/7xKdNpCKY1rAAULjrmWJ6H | Sept 5, 2026: Yonkers PD responded to multiple vehicles with smashed windows at a parking garage on Warburton Avenue; News 12 found at least nine; "Surveillance video from the parking garage and retail stores linked the pair to the crimes, police said." Two Yonkers residents arrested (not named on page). | §5 para 3; Q&A garage H3; Sources |
+| N-W2 | same | https://www.facebook.com/News12WC/videos/car-thefts-following-the-thefts-local-police-say-they-will-have-increased-patrol/2125437728383599/ (excerpt) | News 12 clip: surveillance footage of suspects checking car doors and breaking into a vehicle in Port Chester (undated). | §5 para 3 (no date given) |
+| N-W3 | same | https://www.lohud.com/story/news/crime/2026/02/20/westchester-county-ny-police-departments-weigh-in-car-theft-rates/88775397007/ | Scrape returned no article text; excerpt quote "Thefts FROM vehicles are down 31%…" unattributed → NOT used. | — |
+| N-W4 | same | https://www.youtube.com/watch?v=f5wnEap29Nc (excerpt) | "Westchester residents alarmed by spike in mail, car thefts caught on camera" (undated). | Not used |
+| R-W1 | `reddit r/Westchester security camera system DVR installer recommendation` · Firecrawl search | https://www.reddit.com/r/Westchester/comments/1jezgj3/suggestion_on_home_security_systems/ (excerpt) | "Reolink has been the best as each camera is powered over Ethernet (PoE) meaning you just need to supply an Ethernet cable to it." | §10.5 H3 1 (quoted); Sources |
+| R-W2 | same | https://www.reddit.com/r/Westchester/comments/1hu8zqf/home_security_company_recs_for_security_camera/ (excerpt) | "My cousin lives in a town-house style coop, and they are looking to invest in getting some security cameras." | Background for co-op/townhouse-complex thesis; Sources |
+| R-W3 | same | https://www.reddit.com/r/Westchester/comments/1jqowbv/advice_with_security/ (excerpt) | New home with "already inbuilt system all over the house". | Background (inherited systems) — not used on page |
+| R-W4 | `reddit r/Yonkers building security cameras landlord package theft apartment` · Firecrawl search | (results were r/NYCapartments, r/Landlord, r/AskNYC, r/homesecurity — none in Yonkers) | Generic: landlords saying cameras are down / won't check footage without police report. | Background for package-area and footage-policy H3s (not quoted, not presented as local) |
+| R6 (silo) | carried from research/dvr-upgrade.md R6 | https://www.reddit.com/r/SecurityCamera/comments/1fiv6lt/what_should_a_business_expect_to_pay_for_an/ (excerpt) | "$500-$2500+" per camera installed (business new install). | §10.5 H3 2 |
+
+### Corridors / landmarks (C)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| C-W1 | `Westchester Avenue "Platinum Mile" I-287 office parks Harrison Rye Brook White Plains` · Firecrawl search | https://914inc.com/westchesters-platinum-mile-is-making-a-serious-comeback/ (excerpt incl. text) | Not an official designation; I-287 stretch from 333 Westchester Ave (White Plains) to 800 Westchester Ave (Rye Brook), about four miles; medical conversions (Purchase Professional Park, Westchester Medical Campus 220-230/244 Westchester Ave). | §8 card; §13 card; Q&A Platinum Mile H3 |
+| C-W2 | `Central Park Avenue NY 100 Yonkers Greenburgh Scarsdale retail corridor miles` · Firecrawl search | https://www.nytimes.com/library/realestate/commercial/cp951217.html (excerpt, 1995) | Central Park Avenue runs eight and a half miles from Yonkers through Greenburgh to White Plains, large shopping centers. | §8 card |
+| C-W3 | `Boston Post Road US Route 1 Westchester…` · Firecrawl search | https://en.wikipedia.org/wiki/U.S._Route_1_in_New_York (excerpt) | US 1 in NY: 21.54 miles from GWB to CT line at Port Chester. (Page names the Westchester towns it passes — general geography.) | §8 card |
+| C-W4 | `Ridge Hill Yonkers … Cross County Center Yonkers opened 1954` · Firecrawl search | https://en.wikipedia.org/wiki/Cross_County_Center (excerpt); https://mall-hall-of-fame.blogspot.com/2010/09/blog-post_20.html (excerpt) | Opened 1954 as one of the nation's first open-air shopping destinations; parking lot built atop a former peat bog; first phase opened April 28, 1954. | §13 card |
+| C-W5 | `Playland Park Rye opened 1928 National Historic Landmark…` · Firecrawl search | https://en.wikipedia.org/wiki/Playland_(New_York) (excerpt); https://www.hudsonrivervalley.com/sites/Playland-Amusement-Park-/details (excerpt) | Built 1928, 280-acre, Long Island Sound, Rye, owned by the county; much original architecture and seven original rides incl. Dragon Coaster remain. | §13 card |
+| C-W6 | `Governor Mario M. Cuomo Bridge Tarrytown opened 2017 2018 length miles` · Firecrawl search | https://www.thruway.ny.gov/the-bridge (excerpt) | Fully opened to traffic in 2018; path 3.6 miles. | §13 card |
+| C-W7 | `Sing Sing Correctional Facility Ossining built 1826…` · Firecrawl search | https://en.wikipedia.org/wiki/Sing_Sing (excerpt) | Maximum-security prison in the village of Ossining; opened 1826. | §13 card |
+| C-W8 | `IBM headquarters Armonk New Orchard Road North Castle…` · Firecrawl search | https://www.naswa.org/ibm-corporate-headquarters (excerpt) | IBM Corporate Headquarters, 1 New Orchard Rd, Armonk NY 10504. | §13 card |
+
+### Silo sources reused on this page (see Part 1 of research/dvr-upgrade.md)
+T1 (Dahua XVR 700/800/1200 m), Nassau S1 (Hikvision Turbo HD 800 m 1080p / 1,200 m 720p), S1/S2 (FortiGuard TBK CVE-2024-3721; NVD CVE-2021-36260 in KEV), G1 (CRL §52-a), G3 (PL §250.05), G4 (Commercial Security Tax Credit), R1 (r/homesecurity "Replace a new HDD should fix").
+
+### Pricing (no invented prices)
+Silo base (Brooklyn 1.00×, research/dvr-upgrade.md §1.8) × §9 Westchester 1.25, round half-up: 4-ch $450–$700 → **$563–$875**; 8-ch $650–$1,000 → **$813–$1,250**; 8-ch hybrid $800–$1,200 → **$1,000–$1,500**; 16-ch $1,200–$2,200 → **$1,500–$2,750**; 32-ch $2,200+ → **$2,750+**; hybrid hardware premium $20–$80 → **$25–$100**. Service rate $195/hr, 3-hr min ($585) kept verbatim (protected, not multiplied). FLAG: the old Westchester page (and every other DVR page) showed the unmultiplied Brooklyn figures plus "$250 service call / $175/drop / $0/mo" widget chips — those chips not carried; Westchester now differs from siblings that still show base figures.
+
+### House practices stated without an external source (FLAG for Anwar)
+- Certificates of insurance naming the corporation and agent issued on request via broker; workers' comp/disability certificates on request.
+- Written two-page board scope format; per-run cable-repair line items; handover sheet; Spanish-language handover guide.
+- Role-based accounts (agent/super/desk/board), audit-log, max-retention settings, privacy masking, no audio by default, no cameras in exam rooms.
+- Two-hour arrival windows, seven days to 8 PM; "most systems recording again within one to two hours of arrival" (copied from live silo/blueprint wording).
+- Yearly check contents billed at $195/hr 3-hr min.
+- Elevator travelling-cable cab cameras and coordination with elevator contractor; fibre/radio between garden-complex buildings; surge protectors on long runs (general trade practice).
+- Building-type cards (mid-century elevator co-ops in Yonkers/White Plains/Hartsdale/Scarsdale Central Ave/New Rochelle; garden complexes in Hartsdale/Tuckahoe/Ossining/Sound Shore; pre-war walk-ups in Mount Vernon/SW Yonkers/Port Chester/Peekskill) are general descriptions, no stats attached.
+- Corridor card "Getty Square, South Broadway and Warburton Avenue" and "Route 9 river towns" — real streets/places, described generically.
+
+### Images (11) — Step A: no DVR Upgrade folder in Drive; Step B: CompanyCam not connected; Step C / permanent image rule
+4 real AESS job photos from other jobs (new crops of Rockland Toyota photos, different framing from the Brooklyn/Nassau crops; signs, people, logos, text, screen content excluded) + 7 manufacturer product shots not used on Brooklyn/Nassau. All looked at with the Read tool. All WebP q80, ≤1600 px, in images/dvr-upgrade/. Rejected: images/buzzer-repair/* (AI-looking), images/commercial-security/* (previously rejected as AI-generated), rockland-toyota-showroom lower half (people, signage, vehicle), nassau-window-depot-monitor other tiles (house number, people).
+| Output | Source | Crop / note | Placement |
+|---|---|---|---|
+| dvr-upgrade-westchester-slim-black-recorder-with-two-front-lights-product-photo.webp (500×167) | images/nvr-avycon-avr-nsv16p.png | trimmed product shot | Hero (eager) |
+| dvr-upgrade-westchester-two-small-cameras-high-on-white-wall-below-mezzanine-windows.webp (700×470) | images/rockland-toyota-showroom.jpeg | crop (360,30,1060,500): upper wall + ceiling only; banner text, signs, people, car excluded | §5 |
+| dvr-upgrade-westchester-recorder-front-and-rear-port-panel-product-photo.webp (470×362) | images/nvr-swann-advancedx-4k.png | trimmed; small logo not named | §6 |
+| dvr-upgrade-westchester-black-bullet-camera-where-drop-ceiling-meets-wall.webp (935×470) | images/rockland-toyota-hallway-camera.jpeg | crop (0,0,935,470): ceiling only; poster/QR card/desk excluded (Nassau crop was the corridor + door) | §7 |
+| dvr-upgrade-westchester-small-ceiling-camera-beside-dark-coffered-soffit.webp (555×490) | images/rockland-toyota-active-deterrent.jpeg | crop (380,380,935,870): soffit + ceiling; mural, banner, people, TV excluded | §8 |
+| dvr-upgrade-westchester-cable-bundles-at-ceiling-above-equipment-rack.webp (560×285) | images/rockland-toyota-nvr-monitor.jpeg | crop (0,0,560,285): cables only; screen, timestamp, monitor logo, sticker excluded (Nassau crop was the screen) | §9 Q&A |
+| dvr-upgrade-westchester-silver-and-black-rack-recorder-with-front-lights-product-photo.webp (500×124) | images/nvr-hikvision-ds7616ni.png | trimmed product shot | §10 |
+| dvr-upgrade-westchester-black-recorder-with-front-buttons-and-navigation-dial-product-photo.webp (883×183) | images/nvr-lorex-4k-16ch.png | trimmed product shot | §12 |
+| dvr-upgrade-westchester-white-turret-camera-with-side-lens-module-product-photo.webp (670×668) | images/cam-turret-side.png | trimmed product shot | §13 |
+| dvr-upgrade-westchester-flat-black-rack-recorder-product-photo.webp (496×151) | images/nvr-hanwha-wisenet-arn1610s.png | trimmed product shot | §14 |
+| dvr-upgrade-westchester-white-turret-camera-with-two-illuminators-close-up-product-photo.webp (480×477) | images/cam-eyeball-white.png | trimmed product shot | §15 |
+Note: several "recorder" product shots are network video recorders; captions say "recorder" only and the §6 caption states the pictured unit takes network cameras.
+
+### Build notes
+- check_page.py: unpatched tool cannot identify the slug (`can't tell the area from slug 'dvr-upgrade-westchester'`) because AREAS has `westchester-county` but this silo uses short HV slugs (-westchester, -rockland, -orange, -putnam, -dutchess, -ulster). Run with a scratchpad wrapper that aliases the six short suffixes to the county rows (no repo file edited): **PASS** (full, with registration). [superseded: final 13,719 words, 191,705 B — see register note] 13,915 rendered words; title 55; meta 157; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; 15 silo siblings checked (all cross-link both ways); 192,992 B.
+- Masked-geo block similarity (p/li/td/h2/h3/figcaption ≥8 masked words, word SequenceMatcher) vs every dvr-upgrade-* page: max non-fixed **0.455** (vs dvr-upgrade-suffolk-county / -orange, "No monthly fee…" bullet vs their "Any monthly fee…" question). Only 1.000 = blueprint-fixed H2 "What AI Gets Wrong About DVR Upgrades in [Area]" (same on Brooklyn and Nassau by design). A copied Brooklyn trust bullet (two-hour windows) was rewritten.
+- Semantic de-dup read against the full register + new Brooklyn/Nassau lists. Borderline pairs for coordinator review: garage car break-ins (this page: garage aisle + entrance under a building) vs Nassau driveway plate / car-door alerts; managing-agent login revocation vs Brooklyn "who should hold the admin password (siblings/LLC)"; generator restart vs Nassau battery-runtime-in-PSEG-outage. Ulster/Putnam rebuilds are running in parallel and were not visible — check generator/caretaker/long-run intents against them at wiring.
+
+### Question register additions — dvr-upgrade-westchester (final after coordinator round 2: 17 Q&A H3 + 10 FAQ)
+Q&A:
+1. Our co-op board has to approve the spend — what should the proposal we bring to the meeting include?
+2. When the managing agent changes, how do we make sure the old firm can no longer log in to the cameras?
+3. Two board members disagree about putting cameras in the laundry room and the gym — what do other buildings settle on?
+4. Our proprietary lease says shareholders can't alter common areas — can a shareholder pay for a camera on their own floor's hallway?
+5. The buried coax between our garden complex's buildings drops out every time it rains — repair it or replace it with something else?
+6. Our camera coax shares a chase with the steam risers — does the heat damage it over the years?
+7. Our elevator cab camera feeds the recorder through the elevator's travelling cable — does the upgrade change that?
+8. Our co-op is replacing the lobby intercom next year — should the recorder wait so both are done together?
+9. Cars keep getting broken into in the garage under our building — what does the recorder need to make that footage useful?
+10. Packages keep vanishing from our lobby package area — where should the cameras go so the footage actually shows who took them?
+11. Westchester's home improvement licence covers dwellings of up to three units — what does that mean for the company a co-op hires?
+12. Our alarm company says only a county-licensed alarm business may touch the system — does that include the camera recorder?
+13. We lease a suite in a Platinum Mile office park where the landlord runs its own cameras — can our recorder sit on the building's network?
+14. Can the camera at our medical office front desk avoid recording patients' paperwork and the screens behind the desk?
+15. We're selling our Armonk house — what should happen to the camera accounts and the recordings at the closing?
+16. How do we show our insurer that the building's camera system is actually maintained?
+17. The front-desk monitor shows sixteen tiny tiles nobody can read — what should the desk screen show after the upgrade?
+
+FAQ (visible == FAQPage):
+1. What does a recorder upgrade usually cost for a 30-unit Westchester co-op with about 16 cameras?
+2. Our garage has an attendant's booth at the gate — can it show the garage cameras as well as the lobby desk?
+3. Can the new recorder keep a record of who viewed, exported or deleted footage?
+4. Will someone show our super and the board how to use the new system, and is that included?
+5. Should a large building book a yearly check of the recorder, and what does that visit cover?
+6. We're a condo association, not a co-op — does that change who signs off on the upgrade?
+7. Do you need our building's internet login or our IT person on site for the upgrade?
+8. Can the recorder delete footage automatically after a set number of days the board chooses, rather than only when the drive fills up?
+9. Does the new recorder need its own electrical outlet, and who arranges that in a co-op?
+10. Residents already watch the lobby camera on the old recorder's phone app — what happens to that access after the upgrade?
+
+Round-2 changes (de-dup vs rebuilt putnam/queens/staten-island): removed gatehouse-distance (= Putnam barn 400 ft), generator restart (= Putnam generator/battery + no-video-after-power), caretaker cottage (≈ Queens basement-unit live view), off-site copy (= Putnam off-property clips), shareholder footage-request policy (≈ Queens unit owner copy of lobby footage), restaurant storeroom lockbox (≈ Queens lock box), FAQ certificate of insurance (= Queens), FAQ Spanish super (≈ Queens Chinese/Spanish staff), FAQ resident notice (≈ Queens tell tenants); package-area Q reworded to placement (Staten Island has motion-search). Added: laundry/gym cameras, intercom-replacement timing, steam-riser chase coax, selling an Armonk house, garage attendant booth screen, dedicated outlet, residents' old app access. Final: check_page PASS (repo tool), 191,705 B, 13,719 words.
+
+Intents deliberately avoided (already in register): DVR vs NVR, drive size for 30 days, footage loss on upgrade, internet-drop recording, DVR lifespan, dark/grainy night lobby, riser coax still good, co-op adding cameras without another board vote, super's monitor during swap, keep lobby cameras + add 4K, two recorders split a building, village permit, video doorbell on recorder, old DVR removal and its drive, swap before opening/after closing, landlord tenant view of front door, backyard-camera law applicability, audio on hallway cameras, battery runtime in long outage, lightning, Nassau licence question.

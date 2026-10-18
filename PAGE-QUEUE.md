@@ -235,9 +235,9 @@ LIVE REBUILD | dvr-upgrade-nassau-county | DVR Upgrade | Nassau | up /dvr-upgrad
 LIVE REBUILD | dvr-upgrade-putnam | DVR Upgrade | Putnam | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | dvr-upgrade-queens | DVR Upgrade | Queens | up /dvr-upgrade-nyc | (347) 434-6392 | GBP Bronx
 LIVE REBUILD | dvr-upgrade-staten-island | DVR Upgrade | Staten Island | up /dvr-upgrade-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T05:24Z REBUILD | dvr-upgrade-ulster | DVR Upgrade | Ulster | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T05:24Z REBUILD | dvr-upgrade-westchester | DVR Upgrade | Westchester | up /dvr-upgrade-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-10-18T05:24Z REBUILD | floodlight-camera-installation-brooklyn | Floodlight Camera Installation | Brooklyn | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | dvr-upgrade-ulster | DVR Upgrade | Ulster | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | dvr-upgrade-westchester | DVR Upgrade | Westchester | up /dvr-upgrade-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE REBUILD | floodlight-camera-installation-brooklyn | Floodlight Camera Installation | Brooklyn | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | floodlight-camera-installation-hudson-valley | Floodlight Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 REBUILD | floodlight-camera-installation-orange-county | Floodlight Camera Installation | Orange | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | floodlight-camera-installation-putnam-county | Floodlight Camera Installation | Putnam | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
