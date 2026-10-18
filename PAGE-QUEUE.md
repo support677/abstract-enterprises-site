@@ -244,9 +244,9 @@ LIVE REBUILD | floodlight-camera-installation-putnam-county | Floodlight Camera 
 LIVE REBUILD | floodlight-camera-installation-staten-island | Floodlight Camera Installation | Staten Island | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | hik-connect-app-support-repair-manhattan | Hik Connect App Support Repair | Manhattan | up /hik-connect-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
 LIVE REBUILD | hikvision-security-camera-installation-long-island-ny | Hikvision Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-REBUILD | hikvision-security-camera-installation-ulster-county-ny | Hikvision Security Camera Installation | Ulster | up /hikvision-security-camera-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-REBUILD | hikvision-security-camera-installation-westchester-county-ny | Hikvision Security Camera Installation | Westchester | up /hikvision-security-camera-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
-REBUILD | intercom-repair-putnam-county | Intercom Repair | Putnam | up /intercom-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T07:20Z REBUILD | hikvision-security-camera-installation-ulster-county-ny | Hikvision Security Camera Installation | Ulster | up /hikvision-security-camera-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T07:20Z REBUILD | hikvision-security-camera-installation-westchester-county-ny | Hikvision Security Camera Installation | Westchester | up /hikvision-security-camera-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
+BUILDING 2026-10-18T07:20Z REBUILD | intercom-repair-putnam-county | Intercom Repair | Putnam | up /intercom-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | intercom-repair-staten-island | Intercom Repair | Staten Island | up /intercom-repair-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | lorex-camera-installation-brooklyn | Lorex Camera Installation | Brooklyn | up /lorex-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | lorex-camera-installation-hudson-valley | Lorex Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
