@@ -282,3 +282,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-nassau-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-long-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-nassau-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-putnam-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/video-wall-installation-queens | QUEUED
