@@ -232,3 +232,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-staten-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hik-connect-app-support-repair-manhattan | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-long-island-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-ulster-county-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-westchester-county-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/intercom-repair-putnam-county | QUEUED
