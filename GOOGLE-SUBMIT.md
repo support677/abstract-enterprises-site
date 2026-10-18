@@ -294,3 +294,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-nassau-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-queens | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nassau-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-westchester-county | QUEUED
