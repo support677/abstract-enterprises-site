@@ -298,7 +298,39 @@ FAQ (§17, = FAQPage schema):
 - Can a floodlight camera scare off an intruder, not just record one?
 - How fast can you get to Rockland?
 
-### floodlight-camera-installation-staten-island — old template (pre-rebuild)
+### floodlight-camera-installation-staten-island — REBUILT 2026-10-18: 18 Q&A H3 + 10 FAQ
+Q&A (§9):
+- Our house was raised after Sandy and the front door now sits at the top of a long stair — where does the floodlight belong?
+- Can a light go under the raised floor where we now park the car?
+- Where should the camera's switch and recorder live in a house whose ground floor is built to take water?
+- Our house is vinyl-sided — how is a floodlight fixed without cracking the siding or letting water in behind it?
+- The garage is built into the front of the house — will headlights pulling in blind a camera over the garage door?
+- On a semi-attached house, should the floodlight go on the shared-driveway side or the open side?
+- The streetlight on our block has been out for weeks — should our floodlight stay on all night until the city fixes it?
+- How do we get the dark streetlight repaired, and can our camera help prove how long it has been out?
+- Can a floodlight camera capture the license plate of a car that pulls into our driveway at night?
+- What does the precinct actually need from our driveway footage, and how do we hand it over?
+- We park work vans in the yard overnight — how do we light underneath them for catalytic converter thieves?
+- Our back yard ends at the Greenbelt woods — how far toward the trees should the light reach?
+- Our house sits well above the street — can a light at the top still show who is at the bottom of the steps or the gate?
+- Our Victorian has a deep wraparound porch — can the light hang from the porch ceiling instead of the wall?
+- The lot behind our Hylan Boulevard store backs onto houses — who handles a complaint about our lights?
+- Does a floodlight camera make sense on a large West Shore truck yard, or does that need pole lighting?
+- Would the proposed state Dark Skies bill make us switch the floodlight off at 11 p.m.?
+- Does the City Council's 3,000-lumen bill affect a floodlight on a detached Staten Island house?
+FAQ (§17, = FAQPage schema):
+- We are about to raise or renovate the house — should the floodlight go up now or wait?
+- Will our homeowner's insurance company give us anything for a floodlight camera?
+- What does a floodlight camera need each year to keep working well?
+- Can a floodlight be fixed to the gutter or the roof eave instead of the wall?
+- A neighbor's floodlight shines into our bedroom — what can we actually do about it?
+- How long does a floodlight installation take on a typical Staten Island house?
+- If we replace our siding later, will you take the floodlight down and put it back?
+- What happens to our floodlight camera if the company behind its app shuts down or changes its plans?
+- The previous owner left a floodlight we do not want — can you take it down and make the wall good?
+- Will a floodlight camera slow down our home internet?
+
+### floodlight-camera-installation-staten-island — OLD TEMPLATE (pre-rebuild, all removed 2026-10-18; listed so they are not reused)
 - How much does floodlight camera installation cost on Staten Island?
 - Do you run new wiring out to a detached garage, pool house, or driveway end?
 - Will a floodlight camera survive a South Shore flood zone or salt air?
@@ -447,3 +479,111 @@ All WebP q80, ≤1600 px. Alt/title unique, each contains "Brooklyn"; captions d
 - Masked paragraph similarity (SequenceMatcher on ≥12-word paragraphs/li/td/h3/figcaption, geo masked) max **0.559** (vs nassau-county / hudson-valley — short question headings); typical max 0.521 (shared SMS-consent label).
 - check_page.py: everything passes except the wiring items reserved for the main run (15 siblings + NYC hub don't link to /floodlight-camera-installation-brooklyn). Simulated with back-links added in a scratch hard-link copy → PASS (`--no-registration`). Registration (sitemap/_redirects) untouched by this run.
 - Closest intents to the register (judged distinct): "A neighbor has complained about our existing floodlight…" (remediation) vs "Will the floodlight light up my neighbor's house on a tight lot?" (queens/nyc etc., prevention); "What does the DOB's minor electrical work category mean…" vs "Do I need a licensed contractor…?"; "Where should the floodlight sit on a Marine Park house whose driveway runs back to a rear garage?" vs "Do I need more than one floodlight for a long driveway?"; "Our rowhouse has no outdoor fixture… options besides a new 120-volt circuit" vs "Do you run new wiring if there's no power…?". Rewritten during build to avoid overlap: brightness/colour (was "how to light our yard without lighting their bedroom"), landmarked door-light count (was "can a floodlight replace the light beside our front door"), one-unit-vs-two-devices (was "why do faces come out white" — overlapped Manhattan's washed-out stoop question), network-cable-vs-Wi-Fi (was "will Wi-Fi reach the back" — overlapped "keeps dropping offline"), alarm integration FAQ (was spiders/moths false triggers — overlapped the deer/cars trigger questions).
+
+---
+
+## Staten Island
+
+Page: `floodlight-camera-installation-staten-island` (REBUILD in place, 2026-10-18; was crawled-not-indexed). Up-link `/floodlight-camera-installation-nyc`. GBP Brooklyn (1282 Troy Ave, Brooklyn NY 11203, `#brooklyn`). Direct line (347) 934-8335 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359. Nothing from the old Staten Island template text reused.
+
+**Thesis:** on Staten Island a floodlight camera lights a whole free-standing house, not a rear yard behind a row — driveway with cars, side door, built-in garage, back steps — and the island-specific problems are (1) houses raised or rebuilt after Sandy, where the door moved up a storey, the space below is flood-rule parking, and the switch/recorder must stay above the design flood elevation; (2) vinyl-sided frame walls that need a mounting block; (3) cars and back doors in the small hours (South Shore crowbar break-ins 2026, driveway car theft) and footage the precinct can use; (4) blocks where the streetlight has been dark for weeks (SI Advance Oct 2026); (5) Greenbelt/hillside lots and North Shore Victorian porches; (6) commercial lots that back onto houses; and (7) the state Dark Skies bill and the Council's 3,000-lumen bill, which both reward motion-only, aimed-down, dimmed lights.
+
+Tools: WebSearch, WebFetch, Firecrawl search (`mcp__Firecrawl__firecrawl_search`), Firecrawl scrape (`mcp__Firecrawl__firecrawl_scrape` / `mcp__Fire_Crawl__firecrawl_scrape`, summary and directQuote modes). Shell curl blocked. Rows marked "carried from <file>" were fetched earlier on 2026-10-17/18 by other SI builds and re-used, not re-fetched.
+
+### Sources status (§3) for this geo
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit r/StatenIsland | `site:reddit.com r/StatenIsland security camera flood light backyard` · Firecrawl search → no r/StatenIsland floodlight thread (results: r/StatenIslandPulse red-light-camera repost, r/AskNYC stadium-lights thread, r/Ring raccoons, generic). → **EMPTY** (no matching thread; scrape of reddit refused per silo note). Not used. |
+| 2–5 | Google PAA / PASF / Answer the Public / AI Overview | **EMPTY (not accessible in build env)**. §10.5 says so on the page and tests seven published claims (A1, A2, P1–P4 + G1/G4/SI-B1). |
+| 6–7 | Landmarks / building stock | rows SI-H, SI-L below |
+| 8 | Bing / DDG | **EMPTY (not accessible in build env)** |
+| 9–10 | Local news / hyperlocal | SI Advance (silive), Hoodline, ABC7, CBS New York — rows SI-N |
+| 11 | Yelp 1–3★ | not re-searched; silo + apartment-building SI attempt returned listing pages only → **EMPTY (not accessible in build env)** |
+| — | Census ACS (Richmond County) | `api.census.gov/data/2023/acs/acs5?...for=county:085&in=state:36` · WebFetch → permission not answered; Firecrawl scrape → "Missing Key" (API key now required) → **EMPTY (not accessible in build env)**. CHPC 83% figure used instead. |
+
+### Building stock (SI-H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-H1 | carried from cat6-repair.md (SI) — `Staten Island one- and two-family homes share of housing units NYC Planning Furman Center borough profile` · Firecrawl search (excerpt) | https://chpcny.org/visualization/housing-stock-visualization/ | "in Staten Island, 83 percent of units are in one- or two-family homes" (CHPC Taking Stock, Oct 2024) | §5 para 1; §5.5 bullet 1; Sources |
+| SI-H2 | carried from apartment-building…md (SI) — Prodigy RE blog | https://prodigyre.com/blog/the-two-family-wealth-engine-how-staten-islands-most-common-home-type-built-middle-class-wealth | Great Kills up-and-down high-ranches; New Dorp/Dongan Hills side-by-side semi-attached; Charleston/Rossville newer semi-attached; North Shore older detached and converted Victorians | §7 cards (descriptive, no figures) |
+| SI-H3 | carried from apartment-building…md — Nacmias Law | https://nacmiaslaw.com/practice-areas/closings/building-types/townhouse-condo-declaration/staten-island | low-rise condo townhouse communities (Annadale, Huguenot, Eltingville); one declaration per community; association often owns roads, parking, grounds | §7 card; §8 paragraph on associations/landlords |
+| SI-H4 | `Build It Back elevated homes Staten Island raised houses Sandy number of homes elevated` · WebSearch → WebFetch | https://www.nyc.gov/site/housingrecovery/disaster-recovery/build-it-back.page | Staten Island 1,982 homeowners served; citywide 838 homes repaired and elevated above base flood elevation; 492 rebuilt incl. 103 modular; no borough split for elevations | §5 para 4; §5.5 bullet 3; Sources |
+| SI-H5 | same search · WebFetch | https://www.cbsnews.com/newyork/news/staten-island-superstorm-sandy-anniversary | Oct 28 2015: 331 SI homes repaired or raised (then); New Dorp Beach home elevated; Midland Beach, Ocean Breeze, Oakwood named | §5 para 4 context; Sources (figure 331 not used — dated) |
+| SI-H6 | carried from apartment-building…md — NYC SIRR | https://www.nyc.gov/site/sirr/rebuilding/east-and-south-shore-staten-island.page | 23 storm-related deaths on SI, all but one on East/South Shores; 11,700+ buildings in inundated area; 1–2 family = 90% of buildings | §5.5 bullet 2; Sources |
+| SI-H7 | carried from cat6-repair.md — DVIDS (10.10.2024) | https://www.dvidshub.net/news/482917/seawall-will-raise-quality-life-shore-communities-staten-island-new-york | ~5-mile seawall, elev. 21 ft, Fort Wadsworth (just south of the Verrazzano) to Oakwood Beach | §13 card |
+| SI-H8 | `Hurricane Sandy Staten Island Midland Beach Oakwood Beach homes flooded buyout` · WebSearch → WebFetch | https://cbsnews.com/newyork/news/oakwood-beach-homeowners-flooded-out-by-sandy-looking-forward-to-state-buyouts | Oct 24 2013: Oakwood Beach under up to 16 ft of water (per article); buyouts; quotes (Correa, Fradella) | Background only (not on page) |
+| SI-H9 | carried from apartment-building…md — Wikipedia | https://en.wikipedia.org/wiki/Staten_Island | Hylan Blvd longest street in NYC; North Shore most urban (St. George, Tompkinsville, Stapleton); South Shore developed rapidly 1960s–70s | §8 Hylan card; §7.5 shore-by-shore; Sources |
+
+### Rules (SI-R)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-R1 | carried from cat6-repair.md — UpCodes NYC BC 2022 App. G (directQuote) | https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction | utilities/equipment at or above design flood elevation or built to keep water out; only flood-damage-resistant materials below DFE; coastal high-hazard: space below limited to parking, building access, storage, crawl space | §8.5 bullet 2; §9 raised-house H3s 2–3; §10.5 H3 4, 6; Sources |
+| SI-R2 | `silive.com Staten Island neighbor lights shining bright outdoor light complaint` · Firecrawl search (excerpt) | https://portal.311.nyc.gov/article/?kanumber=KA-02259 | "You can report light from a parking lot shining into a neighboring apartment or building to the Department of Buildings (DOB)" | §8.5 bullet 3; §9 Hylan lot H3; FAQ 5; Sources |
+| SI-R3 | same search → Firecrawl scrape (summary + directQuote) | https://www.silive.com/news/2026/03/could-a-new-ny-law-shut-off-your-porch-light-overnight.html | Mar 17 2026 (Jillian Delaney): Dark Skies Protection Act (S5007), Sen. Brad Hoylman-Sigal; outdoor lighting off 11 p.m.–5 a.m.; exemptions listed incl. worker safety, emergency, certain streetlights, "Incandescent fixtures of one hundred fifty watts or less and other sources of less than seventy watts"; sitting in Senate Environmental Conservation Committee | §9 H3 Dark Skies; §10.5 H3 7; Sources |
+| SI-R4 | silo G1 (DOB electrical), G4 (Int 753), G6 (52-a), G8 (tax credit), G3 (LPC) | see Part 1 | — | §8.5; §9 lumen-bill H3; §10.5 H3 2, 7 |
+| SI-R5 | `St. George Historic District Staten Island designated Landmarks Preservation Commission year Stapleton Heights` · Firecrawl search (excerpts) | https://hdc.org/preservation-resources/expanding-historic-district-boundaries/expanding-historic-district-boundaries/ ; https://preserve.org/stgeorge/stgeorgedistrict.htm ; https://prodigyre.com/blog/staten-island-north-shore-victorian-belt | St. George/New Brighton HD designated 1994 (HDC); designation-report date given as June 19, 1994 (preserve.org) vs July 19, 1994 (Prodigy) — conflict → page says "1994" only | §9 porch H3; §13 card; Sources |
+
+### News / hyperlocal (SI-N)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-N1 | `Staten Island burglary backyard caught on camera 2025 silive` · WebSearch → WebFetch | https://hoodline.com/2026/02/nypd-hunts-for-trio-suspected-in-staten-island-burglary-spree/ | Feb 8 2026 (incident early Feb 1): New Dorp, Dongan Hills, Todt Hill; ~2:36 a.m. crowbar on window frame near Benedict Rd & Circle Rd; key fob + ~$60 taken near East Entry Rd; ~3:25 a.m. back door approached with crowbar near Cromwell Circle & Farview Pl | §5 para 2; Sources |
+| SI-N2 | same · WebFetch | https://www.cbsnews.com/amp/newyork/news/caught-on-video-man-wanted-in-nearly-2-dozen-burglaries-on-staten-island-police-say | Mar 29 2023: West Brighton, suspect in 23 business burglaries since Sept; latest Castleton Ave near Pelton Ave, through a shop's glass door | Background only (not on page) |
+| SI-N3 | `Staten Island car thefts from driveways overnight 2025 key fob silive` · Firecrawl search → scrape (summary) | https://abc7ny.com/post/exclusive-video-car-theft-staten-island-key-fob/13546726/ | Jul 27 2023: thief steals unlocked car from SI driveway in under 15 s; Capt. Glorisel Lee: 90% of stolen vehicles had doors unlocked | §5 para 2; Sources |
+| SI-N4 | same search (excerpts) | https://www.facebook.com/MikeReillyAssembly/… ; https://www.silive.com/crime-safety/2022/10/… | "Car thefts on Staten Island are up 22%" (2026, via FB repost of silive); 7 vehicles in 24 h (2022) | Not used (excerpt/FB only) |
+| SI-N5 | same search as SI-R2 → Firecrawl scrape (summary + directQuote) | https://www.silive.com/news/2026/10/its-about-the-feeling-of-safety-staten-islanders-say-streetlight-outages-persist-despite-repeated-requests-for-repairs.html | Oct 15 2026 (Ravaioli, Bulik): outages > a month despite five 311 calls; 210 streetlight complaints in a recent 7-day period (189 "Street Light Out", 15 multiple); BP office blames delayed DOT contractor agreements; DOT: "Every reported outage is assessed within 10 days"; average close-out this year 15 days; Sunnyside resident, Cheshire Pl & Melrose Ave, months; photo caption Fairfield St, Great Kills | §5 para 3; §5.5 bullet 5; §9 streetlight H3s; Sources |
+| SI-N6 | carried from apartment-building…md — CBS NY | https://www.cbsnews.com/newyork/news/staten-island-catalytic-converter-theft-prevention | Jul 15 2022 Graniteville etching event; >250 catalytic converter thefts on SI that year to date | §9 work-van H3; Sources |
+| SI-N7 | `Staten Island deer population count 2024 vasectomy program white-tailed deer` · WebSearch → WebFetch | https://wildlife.org/in-nyc-officials-wrestle-with-controlling-deer-populations/ | Mar 2020: city credits sterilization with 15% reduction; no counts | Background |
+| SI-N8 | `NYC Parks Staten Island deer aerial survey population estimate 2,053 decline` · Firecrawl search → scrape (directQuote) | https://www.nycgovparks.org/news/press-releases?id=21871 | Jul 7 2021: ~2,053 deer (Jan 2017) → ~1,616 (Jan 2021), ~21% reduction; 44% decrease in reported deer-vehicle collisions | §5.5 bullet 4; Sources (deer kept to body text — "triggers on deer" intent is registered) |
+
+### Landmarks / corridors (SI-L)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-L1 | `Staten Island Greenbelt acres NYC Parks Todt Hill Emerson Hill wooded homes` · Firecrawl search (excerpts) | https://www.nycgovparks.org/park-features/hiking/greenbelt ; https://www.homes.com/local-guide/staten-island-ny/todt-hill-neighborhood/ ; https://cityneighborhoods.nyc/emerson-hill | Greenbelt "2,800-acre park system"; runs along Todt Hill's western edge; Emerson Hill borders Reeds Basket Willow Swamp Park and the Greenbelt | §9 Greenbelt H3; §13 card; §6 card; Sources |
+| SI-L2 | carried from cat6-repair.md — Freshkills | https://freshkillspark.org/the-park/faqs ; https://freshkillspark.org/ | 2,200 acres; restoring 360 acres of wetlands | §13 card |
+| SI-L3 | carried from cat6-repair.md — SI Mall | https://www.silive.com/news/erry-2018/03/05c8690920/10_things_to_know_about_the_st.html | opened Aug 9 1973, Richmond Ave at Richmond Hill Rd | §8 card; §13 card |
+| SI-L4 | carried from cat6-repair.md — Empire Outlets (Wikipedia excerpt) | https://en.wikipedia.org/wiki/Empire_Outlets | 350,000 sq ft, St. George | §8 card |
+| SI-L5 | carried from apartment-building…md — City Limits | https://citylimits.org/2019/06/26/council-approves-bay-street-rezoning-the-sixth-under-de-blasios-housing-plan/ | Bay Street rezoning approved June 26 2019 | §8 card |
+| SI-L6 | carried from cat6-repair.md — Matrix (excerpts) | https://www.margulieshoelzli.com/projects/matrix-global-logistics-park/ ; https://www.dnainfo.com/new-york/20170619/bloomfield/matrix-global-logistics-park-gulf-avenue-amazon | 200-acre park on former oil-tank site; Building 1 975,000 sq ft | §8 card; §13 card |
+| SI-L7 | carried from cat6-repair.md — SIUH | https://siuh.northwell.edu/ | 475 Seaview Avenue | §8 card |
+| SI-L8 | Forest Avenue / Victory Blvd card | — | descriptive only (delis, pizzerias, auto shops, contractors) — **no source; FLAG** | §8 card |
+
+### Licensing / permits (SI)
+- NYS low-voltage license #12000287431 (protected) — camera/network/recorder side; line-voltage boxes/circuits/fixture swaps by a licensed master electrician under DOB permit (silo G1).
+- NYC BC Appendix G for anything below the design flood elevation on raised houses (SI-R1).
+- LPC for St. George/New Brighton and other designated districts (SI-R5, silo G3).
+
+### Pricing — §9 multiplier applied, FLAG
+- Brooklyn base (silo §1.7): $300–$575 / $575–$1,500 / $1,300–$3,800. × 1.10, round half-up: **$330–$633 / $633–$1,650 / $1,430–$4,180** (575×1.1 = 632.5 → 633; 1,300×1.1 = 1,430; 3,800×1.1 = 4,180). Service rate $195/hr, 3-hr min ($585) — protected, not multiplied.
+- **FLAG:** the old Staten Island page published $330–$630 / $630–$1,650 / $1,450–$4,200, which is not Brooklyn × 1.10 (and the silo's NYC hub sits below the Brooklyn base). The rebuild follows the rule; Anwar to confirm.
+- "No separate toll line or travel charge" on the invoice: carried from network-cable-repair-staten-island.html ("no separate travel charge"), via research/cat6-repair.md prices note.
+
+### House practices stated without an external source (FLAG for Anwar)
+- Mounting blocks on vinyl/aluminum siding; drip loops; framing fixings; switch/recorder/UPS kept on the living floor of raised houses.
+- Two-light pattern on raised houses (landing + lower corner), side-of-garage placement on high-ranches, open-side placement on semi-attached houses, lower gate light on hillside lots.
+- Temporary light during renovation/elevation; siding-job detach/reinstall; previous-owner unit removal; insurance answer hedged to "ask your insurer"; footage hand-over practice (export, keep originals) is general practice, not a NYPD source.
+- Field Notes = installer-voice description of standard practice (curb first, stair, inside questions, across-the-street check) — no specific job story.
+- Two-hour arrival windows, 8 AM–8 PM seven days, "one to two hours of arrival" — silo/live convention (blueprint §5 element 36).
+
+### Images (11) — Drive: no Floodlight folder (per main run); CompanyCam not connected
+Real AESS job photos first (5, from other jobs, re-cropped to exclude signs, logos, text, people), then 6 manufacturer floodlight product shots under the permanent image rule; none used on the Brooklyn page (Brooklyn used manhattan-deli-exterior*, nassau-window-depot-monitor, rockland-toyota-wall-camera and floodlight-olafus/lorex/google-nest/wyze/blink/eufy/alarmcom-color-led). All looked at with the Read tool before and after cropping. Known filename mismatches: `floodlight-aosu.png` shows a **Swann** unit; `floodlight-ring-cam-pro.png` shows an **aosu** unit; `floodlight-swann-4k.png` shows an Alarm.com-logo unit (not used). Captions name a brand only where legible (Swann, Ring, aosu, Tapo).
+
+| Output (images/floodlight-camera-installation/) | Source | Crop | Placement |
+|---|---|---|---|
+| floodlight-camera-installation-staten-island-white-swann-floodlight-camera-with-twin-round-lamps-product-photo.webp (646×496) | images/floodlight-aosu.png | (0,150,646,646) — removes "4K ULTRA HD" badge | Hero (eager) |
+| …-white-turret-camera-in-corner-under-water-stained-ceiling-tiles.webp (605×480) | images/nassau-window-depot-storage-camera.jpeg (real AESS job) | (330,280,935,760) — box labels excluded | §5 |
+| …-white-ring-floodlight-camera-with-plug-in-power-cord-product-photo.webp (900×900) | images/floodlight-ring-cam-plus.png | none | §6 |
+| …-white-floodlight-camera-with-square-lamp-and-hooded-lamp-product-photo.webp (900×900) | images/floodlight-night-owl-fwip3.png | none; brand not named | §7 |
+| …-black-ball-camera-at-ceiling-edge-beside-light-panel.webp (535×400) | images/rockland-toyota-dome-camera.jpeg (real AESS job) | (400,0,935,400) — dealer logo/TV excluded | §8 |
+| …-small-black-camera-on-ceiling-grid-between-recessed-lights.webp (555×170) | images/rockland-toyota-active-deterrent.jpeg (real AESS job) | (380,330,935,500) — exit sign, wall mural, banner excluded | §9 raised-house cluster |
+| …-white-aosu-pan-tilt-floodlight-camera-with-twin-antennas-product-photo.webp (800×780) | images/floodlight-ring-cam-pro.png | (60,180,860,960) | §9 cars cluster |
+| …-black-camera-high-on-white-wall-casting-two-shadows.webp (620×420) | images/rockland-toyota-bullet-camera.jpeg (real AESS job) | (185,380,805,800) — dealer sign and banner excluded | §10 |
+| …-white-floodlight-with-wide-dual-lens-camera-product-photo.webp (400×300) | images/floodlight-reolink.png | none; brand not legible | §12 |
+| …-bundled-blue-and-white-network-cables-along-ceiling-pipe.webp (700×210) | images/rockland-toyota-nvr-monitor.jpeg (real AESS job) | (120,0,820,210) — monitor/timestamp excluded | §14 |
+| …-white-tapo-floodlight-camera-with-oval-lamps-product-photo.webp (447×447) | images/floodlight-tapo-c720.png | none | §15 |
+All WebP q80, ≤1600 px. Alt/title unique, each contains "Staten Island"; captions describe only what is visible and say "not an installed unit" / "not a Staten Island property". DAILY-LOG note suggestion: `images: 5 real AESS job-photo crops from other jobs + 6 manufacturer floodlight product shots (no real floodlight photos yet)`.
+
+### Build notes
+- check_page.py: all page checks pass; remaining FAILs are wiring reserved for the main run (14 floodlight siblings + NYC hub do not yet link to /floodlight-camera-installation-staten-island). Simulated with back-links in a scratch hard-link copy → **PASS**. sitemap.xml (1 loc) and _redirects (2 rules) already present for this slug.
+- Masked-geo block similarity (difflib SequenceMatcher, p/li/td/h2/h3/figcaption ≥12 words, geo masked via check_page.mask): max vs Brooklyn ≈0.61 on content blocks after a rewrite pass; ≥0.65 only on excluded constants (NAP line 0.67, the mandated warranty sentence block 0.88). Max vs every other silo page ≤0.43 (hudson-valley/orange/putnam measured against their pre-rebuild files on disk at 2026-10-18 ~07:30Z — re-run after the concurrent rebuild lands).
+- File size 186 KB vs Brooklyn 183 KB (margin ~3.1 KB > 2 KB); re-check after the concurrent HV/Orange/Putnam rebuilds.
+- Closest intents to the register (judged distinct): streetlight-out all-night Q vs Brooklyn "LED streetlight already lights the sidewalk"; FAQ "neighbor's floodlight shines into our bedroom" (recourse as the affected neighbor) vs Brooklyn "a neighbor has complained about our floodlight" (remediation as owner) and Rockland "light up my neighbor's house"; semi-attached side choice vs Brooklyn Marine Park driveway placement (different house type and decision: which wall vs which point along a driveway); raised-house Qs vs old SI "survive a South Shore flood zone" (placement and indoor-gear location, not device durability); Greenbelt reach vs "triggers all night on deer" (deer kept out of every question). Avoided: cost, DIY, brands, no-fee, mounting height, color at night, deter intruder, extra charge for SI, two lights for long driveway, wiring to detached garage, HOA rules, salt air.

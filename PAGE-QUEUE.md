@@ -241,9 +241,9 @@ LIVE REBUILD | floodlight-camera-installation-brooklyn | Floodlight Camera Insta
 BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-hudson-valley | Floodlight Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-orange-county | Floodlight Camera Installation | Orange | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-18T06:33Z REBUILD | floodlight-camera-installation-putnam-county | Floodlight Camera Installation | Putnam | up /floodlight-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T06:44Z REBUILD | floodlight-camera-installation-staten-island | Floodlight Camera Installation | Staten Island | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T06:44Z REBUILD | hik-connect-app-support-repair-manhattan | Hik Connect App Support Repair | Manhattan | up /hik-connect-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-10-18T06:44Z REBUILD | hikvision-security-camera-installation-long-island-ny | Hikvision Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE REBUILD | floodlight-camera-installation-staten-island | Floodlight Camera Installation | Staten Island | up /floodlight-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | hik-connect-app-support-repair-manhattan | Hik Connect App Support Repair | Manhattan | up /hik-connect-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
+LIVE REBUILD | hikvision-security-camera-installation-long-island-ny | Hikvision Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 REBUILD | hikvision-security-camera-installation-ulster-county-ny | Hikvision Security Camera Installation | Ulster | up /hikvision-security-camera-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
 REBUILD | hikvision-security-camera-installation-westchester-county-ny | Hikvision Security Camera Installation | Westchester | up /hikvision-security-camera-installation-hudson-valley-ny | (914) 877-2578 | GBP Bronx
 REBUILD | intercom-repair-putnam-county | Intercom Repair | Putnam | up /intercom-repair-hudson-valley | (845) 640-3835 | GBP Bronx
