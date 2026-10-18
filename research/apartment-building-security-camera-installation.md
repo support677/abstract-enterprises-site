@@ -232,6 +232,99 @@ Silo base (Brooklyn = 1.00×, from the silo's existing published tiers on -brook
 - NYS DOS licence (above) applies on Staten Island; no separate NYC DCWP installer licence found (NYC Business page routes to NYS DOS). · Compliance.
 - Hyperlocal (SI Advance via Firecrawl excerpts) used above; Patch/News12 Staten Island — not searched separately → EMPTY.
 
+## Suffolk County
+
+Local research for apartment-building-security-camera-installation-suffolk-county (2026-10-18). Silo-wide findings (cost guides, NYS DOS licence, privacy/audio, FirstService retention, salt-air weatherproofing guide) are reused from research/apartment-building-security-camera-installation.md and not repeated here. Format: exact query · platform · URL · finding · page+section used.
+
+### Unreachable surfaces (local)
+- Google PAA / PASF / Answer the Public / Google AI Overview for "apartment building security cameras Suffolk County" · EMPTY (not accessible in build env — no live Google SERP surface). Reality Check says so and tests aggregator claims instead.
+- Bing / DuckDuckGo · EMPTY (not accessible in build env).
+- Yelp 1–3★ Suffolk installers · not searched separately; individual review text not reachable in this env (silo precedent) · EMPTY (not accessible in build env).
+- Newsday article bodies · paywalled · EMPTY (not accessible in build env); only Newsday headlines surfaced via Facebook excerpts — not used.
+- Reddit full thread text · EMPTY (not accessible in build env); search excerpts only.
+
+### Licensing / jurisdiction
+1. `Suffolk County Consumer Affairs security alarm systems installer license low voltage Chapter 563` · Firecrawl search · https://ecode360.com/14947319 · Chapter 563 "Licensed Occupations", adopted 7-9-1974 (L.L. 21-1974). Article list not returned by scrape. · Compliance callouts; Sources.
+2. `Suffolk County electrician license "low voltage" OR "security systems" ...` · Firecrawl search + scrape · https://ecode360.com/14948079 · Ch. 563 Art. XI "Electricians and Plumbers": "electrical field" = installation/maintenance of wire, cable … equipment which "generates, transforms, transmits or uses electrical energy for light, heat, power or other purposes"; no mention of low-voltage, alarm, signal, or TV wiring; applicability clause: "This article shall not be applicable within any town or village which has hereinbefore enacted legislation regulating the licensing of business, trade or enterprise …" (town/village carve-out). · §8.5 compliance; Q&A on county vs town licensing; Reality Check H3.
+3. same · Firecrawl scrape · https://www.suffolkcountyny.gov/Departments/Consumer-Affairs/Type-of-License · Licence types listed: Home Improvement, Master Electrician, Restricted Electrical, Electrical Inspector, Sign Hanger, etc. — no low-voltage, security, alarm or camera licence on the list. Verification phone (631) 853-4600 shown (not used on page). · §8.5; Q&A; Reality Check.
+4. NYS DOS Article 6-D / 19 NYCRR 195.2(b)(1) CCTV coverage — reused from silo file (Staten Island section). · §8.5.
+
+### Building stock / development
+5. `Suffolk County transit-oriented apartments LIRR Ronkonkoma Hub Wyandanch Rising Patchogue downtown apartments units` · Firecrawl search + scrape · https://www.governor.ny.gov/news/governor-hochul-unveils-next-phase-12-billion-transit-oriented-hub-station-yards-creating-more · Oct 22, 2024: Station Yards (Ronkonkoma Hub), 53 acres, $1.2 billion, "more than 1,400 housing units" (1,450 cap), first phase 489 residential units, more than 1,200 parking spaces; Ronkonkoma "Suffolk County's busiest and Long Island's second-busiest" LIRR station, 17,000 daily commuters. · §5; §7 TOD card; Landmarks; Q&A.
+6. same search · https://lirpc.org/economic-development/wyandanch-rising-models-transit-oriented-development/ (excerpt) · Wyandanch Rising: 177 residential units incl. 123 affordable; https://thenyhc.org/projects/wyandanch-village-wyandanch-rising/ (excerpt): new LIRR station house and 500-car MTA commuter parking garage, park with ice rink. · §7; Landmarks.
+7. same search · https://www.suffolkcountyny.gov/Portals/0/formsdocs/planning/scplanningcommission/2020/BR-20-06%20%20Ronkonkoma%20Hub%20Phase%202A.pdf (excerpt) · Planning Commission: Hub total not to exceed 1,450 units; abuts Railroad Ave and the station. · corroboration only.
+8. `Patchogue village downtown apartments ...` · Firecrawl search · https://tritecre.com/project/new-village/ (excerpt) · New Village at Patchogue on Main Street; "a total of 714 multi-family units were added to Patchogue". · §5 facts; §8 corridor; Landmarks.
+9. same · https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-160-million-carriage-house-development-downtown (excerpt) · Carriage House, $160 million, 262 units on W. Main St., two buildings (108 units occupancy spring 2027; 154 units fall 2027), ground-floor retail, more than 400 structured parking spaces. · §5; §8; Q&A garage.
+10. same · https://www.artspace.org/patchogue (excerpt) · Artspace Patchogue Lofts: 45 affordable live/work units with commercial space. · §8.
+11. `Riverhead downtown Main Street apartments mixed-use ...` · Firecrawl search · https://www.townofriverheadny.gov/DocumentCenter/View/1037/... (excerpt) · Woolworth Apartments, 128 East Main St: 19 units; Riverpoint Apartments, 821 East Main St: 134 units. https://riverheadlocal.com/2015/02/01/move-day-new-woolworth-apartments-downtown-riverhead/ (excerpt): move-in Feb 2015, mixed-use building. · §8 corridor; Landmarks; Q&A.
+12. `Bay Shore Main Street downtown apartments ...` · Firecrawl search · https://greenviewny.com/apartments-category/urban-and-garden-style-living/ (excerpt) · renovated mixed-use building on Main Street, downtown Bay Shore, 26 rental apartments. https://greaterlongisland.com/plan-for-apartments-restaurant-at-closed-islip-cinemas-inches-forward/ (excerpt): Islip Cinemas, 410 Main Street → 23 apartments + restaurant (proposal). · §8.
+13. `Long Island multifamily housing share ...` · Firecrawl search · https://rpa.org/work/reports/long-islands-rental-housing-crisis (excerpt) · Long Island rental vacancy 4.3%, lowest of suburban areas in NY region. https://www.sjny.edu/files/images/mapping-long-islands-rentals-2016-li-index.pdf (excerpt): Long Island Index mapped 1,456 rental buildings and 882 co-ops and condos across both counties. https://rauchfoundation.org/... (excerpt): "Long Island contains 809,000 single-family detached" homes. · §5.5 facts.
+
+### Accessory apartments / seasonal rentals
+14. `Suffolk County accessory apartment law town permit ...` · Firecrawl search · https://www.townofbabylonny.gov/faq.aspx?TID=50 (official, excerpt) · Babylon accessory apartment permit: dwelling owner-occupied and primary residence; off-street parking for four cars. https://ecode360.com/7707363 (Islip Art. XLVII, §68-603 owner occupancy required, excerpt). https://www.huntingtonny.gov/accessory-apartments (Accessory Apartment Bureau exists). Secondary (contractor blog, alecsconstructionli.com) claims about Brookhaven §85-258 one-bedroom limit and Huntington one-year renewals — NOT used (not primary). · §7 accessory card; Q&A accessory apartment.
+15. `East Hampton OR Southampton rental registry law ...` · Firecrawl search · https://www.ehamptonny.gov/DocumentCenter/View/1342/... (official excerpt) · East Hampton Town: owners renting by week, month, season or year must register with the Town. https://ecode360.com/30841753 (Ch. 199 Rental Registry). https://easthamptonvillage.gov/documents/rental-registry/ (official excerpt): registry form for Village rentals under 120 days; rentals under two weeks not permitted. Southampton Town Ch. 270 rental permit (via secondary bnbcalc excerpt citing ecode360.com/8697294) — mentioned only as "rental permit chapter" without fee figures. · §7 seasonal card; Q&A seasonal.
+
+### Local news / crime / cameras
+16. `Suffolk County 55 and over community condo security cameras clubhouse pool mailbox theft TBR News Media OR Patch` · Firecrawl search + scrape · https://patch.com/new-york/longisland/6-750-checks-stolen-suffolk-mailboxes-4-8m-scheme-da · Patch, July 8, 2026: Suffolk DA — three people charged; 6,750 checks, $4.8 million; "fishing" device (glue trap on a belt) at USPS collection boxes in Melville, Huntington Station, East Northport, Commack, Smithtown, St. James, Nesconset, Hauppauge, Centereach, Holbrook, Bohemia, Farmingville, Brentwood, Medford, Patchogue, Blue Point, Bayport, Sayville, West Sayville and Oakdale. · §5; Q&A mailbox kiosk; Reality Check.
+17. same search · https://longisland.news12.com/2026/07/09/many-long-island-post-offices-lack-outdoor-surveillance-cameras-despite-mail-theft-issues/... (title/excerpt) · News 12, July 9, 2026: many Long Island post offices lack outdoor surveillance cameras despite mail theft. · §5 facts.
+18. same search · https://nypost.com/2026/10/04/us-news/suffolk-county-more-than-doubles-number-of-big-brother-flock-cameras-in-past-year/ · NY Post, Oct 4, 2026: county-operated Flock plate cameras rose from 25 to about 60; 35 bought with $542,500 state grant approved Aug 2025, 16 on the East End (Southampton, Riverhead, Southold, Route 114 Sag Harbor, East Hampton Village, near LIE Exit 71); "hundreds more" via towns, villages and "even private living communities". · Q&A gate/plate camera; Reality Check.
+19. `site:reddit.com r/longisland apartment complex cameras car break in OR package stolen Suffolk` · Firecrawl search (excerpts only) · https://www.reddit.com/r/longisland/comments/18yebx6/patchogue_village_hit_with_car_break_ins/ (excerpt: car on a driveway broken into, Democratic Hill area, police with lights); https://www.reddit.com/r/longisland/comments/1en242v/catalytic_converter_stolen/ (excerpt: poster says police told them thieves used a signal jammer to block the WiFi from Ring cameras); https://www.reddit.com/r/longisland/comments/1vduoms/flock_camera_megathread/ (megathread exists). Full threads EMPTY (not accessible in build env). · §5 (attributed as r/longisland posts, paraphrased); Q&A on wired vs Wi-Fi; Reality Check H3 wireless.
+20. `Suffolk County garden apartment complex security cameras parking lot car break-ins Newsday` · Firecrawl search · only out-of-area results (Rochester, Suffolk VA, Maryland) and a SCPD Facebook "lock your car" reminder excerpt · EMPTY for Suffolk NY apartment-complex incidents. Not used (Suffolk, VA results explicitly excluded).
+
+### Storm / coastal exposure
+21. `Superstorm Sandy Suffolk County damage Lindenhurst Mastic Beach ...` · Firecrawl search · https://www.suffolkcountyny.gov/mend/index.html (official excerpt) · Sandy: "16' Storm Surge on Fire Island; Over 31,000 homes flooded"; https://en.wikipedia.org/wiki/Effects_of_Hurricane_Sandy_in_New_York (excerpt): mandatory evacuations for Fire Island and surge zones in Babylon, Brookhaven, Islip, Riverhead, Southampton, Southold; coastal damage heaviest in Mastic and Moriches. · Weather section; Q&A recorder placement on the bay side.
+
+### Pricing used
+Silo Brooklyn base (research file "Silo pricing") × 1.20 (v2.3 §9 Suffolk): per camera $600–$1,800; small 4–8 cams $6,000–$14,400; mid 12–20 cams $14,400–$30,000; large 24–40 cams $30,000–$54,000+; campus/portfolio custom. Service $195/hr, 3-hr min ($585) — not multiplied.
+
+## Westchester County
+
+Page: apartment-building-security-camera-installation-westchester-county (REBUILD in place, 2026-10-18). Silo-wide findings reused from research/apartment-building-security-camera-installation.md (NYS DOS 19 NYCRR 195.2, tenant-rights.com, Cooperator, FirstService 30–90 days, Brick Underground, Penal Law 250, IPVM elevator, Angi/HomeAdvisor, weatherproofing guide). Only Westchester-local research below. Format: exact query · platform · URL · finding · page+section used.
+
+### Surfaces not reachable
+- Google PAA / PASF / Answer the Public / Google AI Overview / Bing-DDG autocomplete · EMPTY (not accessible in build env). Reality Check says so on the page and tests aggregator claims instead.
+- Reddit full threads (r/Westchester, r/yonkers) · EMPTY (not accessible in build env) beyond search excerpts. Query `site:reddit.com r/Westchester apartment building packages stolen landlord cameras` · Firecrawl search · no r/Westchester/r/yonkers apartment-camera thread returned → EMPTY.
+- Yelp 1–3★ Westchester installers · not searched separately; EMPTY (not accessible in build env per silo note).
+- lohud articles are paywalled ("content_tier locked"): only search-result excerpts used, labelled "(excerpt)" in Sources.
+
+### Licensing / permits
+1. `Westchester County Department of Consumer Protection home improvement license security camera installer requirement` · Firecrawl search → scrape · https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors · county licence required for home-improvement contractors; DCP phone (914) 995-2155; links to licensing law · §"Who Signs Off" (county code), Q&A licence cluster.
+2. Firecrawl scrape (query) · https://library.municode.com/ny/westchester_county/codes/code_of_ordinances?nodeId=PTVIIRUREDEENFA_CH863COPRCO_ARTXVILIPEENHOIMBU · Ch. 863 Art. XVI: "home improvement" = work on a private residence, townhouse, condominium, apartment or dwelling "of not more than three units"; excludes electrical work and alarm work "by a county-licensed alarm business or alarm agent" · Neighborhood facts list, Who Signs Off, Q&A "40-unit Yonkers".
+3. `"Westchester County" "alarm business" license Chapter 863 ...` · Firecrawl search → scrape · https://ecode360.com/7692228 (Town of Cortlandt Ch. 113) · county alarm business/agent licence under Ch. 863 Art. XV for "installing and/or servicing police or fire alarm devices"; local alarm permit from Director of Code Enforcement, issued only if installer is an alarm licensee · Who Signs Off (alarm permits), Q&A New Rochelle alarm licence, Q&A Croton fire-panel permit.
+4. Municode Art. XV node scrape · EMPTY (page returned no text). Camera-only scope NOT stated in any text reached → page tells boards to ask DCP.
+5. Same search · https://www.lowvoltagenation.com/posts/westchester-county-new-york-security-camera-permit-requirements · claims a "Westchester County Low Voltage License" and alarm permits for monitored camera systems · NOT verified on county site → used only as a tested claim in AI Reality Check H3 3 ("could not find").
+
+### Rent regulation / tenants
+6. `Emergency Tenant Protection Act Westchester municipalities opted in ...` · Firecrawl search → scrape · https://homes.westchestercountyny.gov/rent-control · 18 ETPA municipalities with minimum units (Croton 6, Dobbs Ferry 6, Eastchester 6, Greenburgh 6, Harrison 6, Hastings 6, Irvington 20, Larchmont 6, Mamaroneck Town 6, Mount Kisco 16, Mount Vernon 6, New Rochelle 6, Pleasantville 20, Port Chester 12, Sleepy Hollow 10, Tarrytown 6, White Plains 6, Yonkers 6); rent-control municipalities; ORA White Plains office (914) 948-4434 · Neighborhood para 4 + facts, rent-stabilized section, Q&A cluster 2, Reality Check H3 4.
+7. same search · https://hcr.ny.gov/fact-sheet-8 (excerpt) · ETPA Westchester localities; Westchester rent office 75 South Broadway, White Plains · Sources.
+8. same search → scrape · https://www.villageofossiningny.gov/planning-department/pages/faqs-etpa · ETPA only for buildings built before 1974 with six or more units; if Ossining adopted, ≥1,200 units potentially covered · facts list, intro "built before 1974".
+9. `Mount Vernon NY apartment building ... lohud` · Firecrawl search → scrape · https://homes.westchestercountyny.gov/code-enforcement-tenants · tenants may call local building inspector for "broken doors, windows elevators, locks and mail boxes"; RPL §235-b warranty of habitability quoted · Q&A Mount Vernon lock, rent-stabilized section.
+
+### Co-op boards
+10. `Westchester County co-ops ... lohud` · Firecrawl search → scrape · https://humanrights.westchestercountyny.gov/resources/cooperative-housing-disclosure · §700.21-a (eff. Aug 1, 2021): acknowledge application within 15 days, decide within 60; 2 hours fair-housing training every 2 years · facts list, Who Signs Off, board packet section.
+11. same search · https://www.reddit.com/r/Westchester/comments/1k56tsp/thoughts_on_coops/ (excerpt) · poster bought two co-ops in Hartsdale, "a pain to apply to" but positive · Garden Complexes section.
+12. same search · lohud 2020 co-op rejections (excerpt) · not used.
+
+### Local incidents / hyperlocal
+13. `Yonkers apartment building package theft lobby surveillance video police` · Firecrawl search → scrape · https://abc7ny.com/post/yonkers-package-theft-woman-santa-hat-2-masked-men-accused-stealing-packages-ny/15614198/ · Dec 2, 2024: Nov 23 ~9am, packages taken from lobby of 345 Bronx River Road, Yonkers; three arrested (petit larceny, possession of stolen property, burglary tools); Lt. Ken Lacey: "The sooner we get the information, the sooner we can react…" · Neighborhood para 2, Reality Check H3 5. (Suspect names not used.)
+14. same search → scrape · https://yonkerstimes.com/porch-pirates-moved-indoors-how-yonkers-apartment-buildings-are-rethinking-package-rooms/ · Oct 16, 2026 (note: reads partly as sponsored content linking a parcel-software vendor): theft "moved indoors"; Yonkers mix of older walk-ups, prewar and waterfront developments; some older buildings have no package room; "Footage can show someone entering a room, but without delivery records…" · Neighborhood para 3, Package Rooms section, Reality Check H3 5.
+15. `White Plains apartment building lobby burglary mailroom surveillance video police Patch` · Firecrawl search · results were house burglary / business burglary / suspicious device — no apartment-camera incident · EMPTY for White Plains apartment incidents.
+
+### Building stock / development
+16. `New Rochelle downtown apartment towers ... lohud` · Firecrawl search (excerpts) · lohud May 3, 2023: 14 apartment buildings since 2018 added 2,456 units; 12 under construction (2,677); lohud Apr 25, 2025: >10,500 rental units and 500 condos authorized in a decade; Governor's release: Highgarden Tower 219 affordable units · Neighborhood facts, Commercial (New Rochelle), Landmarks. lohud full text: EMPTY (paywall).
+17. https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster · scrape returned only navigation → EMPTY (search excerpt: up to 6,370 housing units permitted — not used).
+18. `Yonkers waterfront downtown apartment towers ... Larkin Plaza` · Firecrawl search (excerpts) · Multi-Housing News: Larkin Plaza 439 units in 25- and 17-storey buildings (RXR); Mayor's FB post re Hudson Piers 250 apartments (not used — social post) · Neighborhood, Commercial, Landmarks.
+19. `White Plains downtown apartment towers near Metro-North ...` · Firecrawl search (excerpts) · GDC: The Metro at City Square, 34 South Lexington Ave, directly across from Metro-North station; WPBID: 25 North Lex 500-unit residence near station · Commercial, Landmarks.
+20. `Peekskill downtown apartment buildings ...` · Firecrawl search (excerpts) · NYHC/HCR: Lofts on Main, $28M, 75 apartments in two four-storey buildings, downtown arts district · Commercial, Landmarks.
+21. `Bronxville co-op apartment buildings prewar Lawrence Park ...` · Firecrawl search → PDF scrape · https://www.villageofbronxville.gov/DocumentCenter/View/243/An-Illustrated-History-of-Bronxville-PDF · 1910s suburban apartment buildings by W. V. Lawrence (Gramatan Court, Alger Court), apartments above shops, Kensington Terrace first town houses in county; one square mile; granite outcroppings; Lawrence Park National Historic District; Tuckahoe marble found 1822; Pondfield Road/Kraft Ave retail district · Neighborhood para 5, Building Specialists (rock), Q&A Lawrence Park garage, Landmarks.
+22. `Hartsdale co-ops garden apartment complexes ...` · Firecrawl search · listing sites only (Hartsdale Gardens etc.) · used only qualitatively ("dozens of co-op listings at any time" — based on Zillow 33 / Homes.com 23 / Compass 18 listing excerpts).
+
+### Aggregator cost claims (Reality Check)
+23. `security camera installation cost Yonkers OR "White Plains" NY homeadvisor OR angi OR thumbtack` · Firecrawl search (excerpt) · https://www.thumbtack.com/ny/yonkers/security-camera-install · "$100 for a single-camera line installation to $1,000-$2,200 for an entire system"; Angi NY $1,509 ($797–$2,222) · Reality Check H3 1.
+
+### Pricing used
+Brooklyn base (research file "Silo pricing") × 1.25: per camera $625–$1,875; 4–8 cams $6,250–$15,000; 12–20 cams $15,000–$31,250; 24–40 cams $31,250–$56,250+; portfolio custom. Service $195/hr, 3-hr min ($585), not multiplied. No parking/travel line (none published for Westchester).
+
 ## Question register
 
 Every question (Q&A headings and FAQ) used on any rebuilt page of this silo. New pages must not repeat any of these (geo names are masked by the duplicate check).
@@ -359,3 +452,101 @@ Duplicate check: tools/check_page.py reported no duplicated question vs any sibl
 8. Can a camera system on Staten Island help with illegal dumping at the back of a lot near Fresh Kills or the West Shore industrial edge?
 9. Who looks after the system if the property manager for our Staten Island complex changes?
 10. Will snow plows clearing a private community road damage pole-mounted cameras at the entrance?
+
+### apartment-building-security-camera-installation-suffolk-county
+
+Final list as published (an earlier draft list was revised to avoid intents already registered for Manhattan, Queens and Staten Island: recorder-per-building, inter-building links, salt spray, surge-zone recorder, tenant footage requests, shop+apartments shared system, two-family tenant privacy, plate readers at private roads, power-outage recording, condo board vote, remote viewing on existing internet, snow plows, management change).
+
+### Q&A headings (§9)
+1. Our Ronkonkoma garden complex has a parking field the size of a football field — how many cameras does that take? — §9
+2. Can the existing underground conduit for a Suffolk complex's site lighting be used for camera cable? — §9
+3. Can a single camera on a light pole cover a whole row of carports at a Holbrook or Medford complex? — §9
+4. How many cameras does a typical two-storey Suffolk garden building need, stairwell by stairwell? — §9
+5. Our Lake Grove complex backs onto a county recharge basin behind a chain-link fence — can cameras cover that fence line? — §9
+6. What camera setup actually helps at the cluster mailbox kiosk in a Suffolk condo, given the Suffolk collection-box thefts reported in 2026? — §9
+7. Can the clubhouse, pool gate and fitness room of a Suffolk 55-plus community be on cameras without residents feeling watched? — §9
+8. Our Brookhaven 55-and-over HOA was pitched a Flock camera that shares plates with police — how is that different from a camera the HOA owns? — §9
+9. Can the cameras at a Commack or Smithtown condo help the board enforce parking rules on boats, trailers and work vans? — §9
+10. Our Patchogue Main Street building's rear lot is shared with the restaurant next door — whose cameras cover it? — §9
+11. Our Riverhead East Main Street building's apartment entrance is a side door off an alley — how do you cover it? — §9
+12. How do cameras work at a new transit-oriented rental by a Suffolk LIRR station where the garage is shared with commuters? — §9
+13. Does adding cameras to a house with a permitted Babylon or Islip accessory apartment affect the town's accessory apartment permit? — §9
+14. Are cameras allowed inside or outside an East Hampton or Southampton seasonal rental, and what should the rental registry paperwork mention? — §9
+15. Suffolk licenses home improvement contractors and electricians — which of those licences, if any, covers a camera job? — §9
+16. Do camera poles in a Suffolk parking lot need a town building permit? — §9
+
+### Visible FAQ (§17) = FAQPage schema
+1. How are cameras fixed to vinyl siding and cedar shingles on Suffolk garden buildings without causing leaks? — §17
+2. Can the HOA schedule installation so the Suffolk complex’s pool season and summer move-ins aren’t disrupted? — §17
+3. Can the cameras at a Suffolk complex send an alert when someone opens the pool gate after hours? — §17
+4. Can a property manager who runs several Suffolk complexes watch them all from one app? — §17
+5. Will you meet a Suffolk HOA’s architectural review committee about how the cameras will look? — §17
+6. Do residents of a Suffolk senior community get an explanation of the cameras, or only the office staff? — §17
+7. What happens if a camera fails at a Suffolk complex during the first year? — §17
+8. Is there a charge when a Suffolk property manager calls with a problem on a system you installed? — §17
+9. Do you take away the old cameras and DVR when a Suffolk complex upgrades? — §17
+10. Can the Suffolk complex’s maintenance staff change a camera’s angle after installation? — §17
+
+### Images (11) — source → target (images/apartment-building-security-camera-installation/)
+Real AESS job photos (captioned "Example photo from an AESS installation"; no business named, no Suffolk/apartment claim):
+- rockland-toyota-dome-camera.jpeg (cropped to ceiling corner; dealership logo, TV and "Guest Services" sign removed) → …-suffolk-county-black-mini-dome-camera-at-ceiling-corner.webp (hero, og:image)
+- rockland-toyota-bullet-camera.jpeg (cropped above the dealership sign/posters) → …-suffolk-county-bullet-camera-on-high-wall-above-drop-ceiling.webp
+- manhattan-deli-interior-cameras.jpeg (ceiling strip only; people, menu boards and product brands removed) → …-suffolk-county-two-ceiling-dome-cameras-in-tiled-grid.webp
+- rockland-toyota-hallway-camera.jpeg (left cabinet, QR-code poster and key tag cropped out; bottom trimmed — differs from Manhattan's crop) → …-suffolk-county-bullet-camera-aimed-at-grey-service-door.webp
+Manufacturer product photos (captioned as product photos, natural width, not upscaled):
+- ubiquiti-unifi-g5-bullet-5mp-camera-white.jpg ("Compare" checkbox text cropped) → …-compact-white-bullet-camera-product-photo.webp
+- ubiquiti-unifi-g5-turret-ultra-camera-white.jpg → …-white-turret-camera-product-photo.webp
+- ubiquiti-unifi-g5-ptz-outdoor-camera-white.jpg → …-outdoor-ptz-camera-product-photo.webp
+- uniview-fisheye-360-panoramic-camera-white.jpg → …-360-fisheye-camera-product-photo.webp
+- hikvision-varifocal-bullet-camera.jpg → …-varifocal-bullet-camera-product-photo.webp
+- nvr-hanwha-wisenet-arn1610s.png → …-16-channel-nvr-recorder-product-photo.webp
+- dahua-full-color-2-bullet-camera-white.png (file actually shows a PTZ speed dome on a dark background; described as such) → …-ptz-speed-dome-on-dark-background-product-photo.webp
+
+### apartment-building-security-camera-installation-westchester-county
+
+### Q&A headings (§9 "Questions Answered", H3)
+1. Does Westchester County's home-improvement licence cover camera work in a 40-unit Yonkers apartment building? — §9
+2. Westchester's consumer-protection code licenses alarm businesses — does a camera-only system in a New Rochelle tower fall under that? — §9
+3. Will the White Plains building department want a permit before cameras go into our Mamaroneck Avenue rental? — §9
+4. Our Croton-on-Hudson co-op already holds an alarm permit for the fire panel — does adding cameras change it? — §9
+5. In a rent-stabilized Yonkers building, what should tenants be told before new hallway cameras start recording? — §9
+6. A tenant in our Port Chester building says the hallway camera sees into her apartment when she opens her door — what do we change? — §9
+7. Tenants in a Mount Vernon walk-up keep calling the building inspector about the broken front-door lock — should cameras come before the lock repair? — §9
+8. Someone keeps propping open the side door of our White Plains rental near the station — can cameras show who? — §9
+9. Sleepy Hollow applies ETPA only to buildings of ten or more units — our nine-unit building is outside it, so do any camera rules change? — §9
+10. How should cameras cover the garage under a downtown White Plains tower where residents and retail customers share the ramp? — §9
+11. Which cameras belong on the amenity floor and roof deck of a new Getty Square high-rise, and which do not? — §9
+12. Commuters from the New Rochelle station cut through our lobby to reach the street behind — how do cameras help the front desk? — §9
+13. The developer of our New Rochelle building installed cloud cameras with a monthly fee per camera — can the managing agent move them onto a recorder the building owns? — §9
+14. The west-facing entrance of our Hastings-on-Hudson building looks straight at the river at sunset — why is the face always a silhouette, and what fixes it? — §9
+15. Our building in Mount Kisco is a short walk from the Metro-North platform — can our cameras cover the path commuters use beside the lot? — §9
+16. How do we get cable to the upper floors of a 1920s Bronxville apartment building with plaster walls and no hung ceilings? — §9
+17. Our Hartsdale co-op shares its parking court with the neighbouring co-op — where should our cameras stop? — §9
+18. Our building in the Lawrence Park area sits on rock — how do cameras reach the detached garage without trenching through granite? — §9
+19. Our Scarsdale co-op board meets only four times a year — how do we get cameras approved without losing a season? — §9
+20. The lobby attendant in our Tuckahoe co-op works days only — how should the cameras behave after the desk closes? — §9
+21. Our Pelham co-op wants a camera on the street side, and the village reviews exterior changes — what do we bring to that review? — §9
+22. Can the cameras for the rear parking lot of our Tarrytown building stay on the building wall, or do they need a pole? — §9
+23. How will the board of our Rye condo know a camera has failed without someone checking the screen every day? — §9
+24. In a Peekskill walk-up above a Main Street storefront, where can the residential entrance camera go without filming the shop's customers? — §9
+25. A hillside building in Ossining has entrances on two different street levels — how many cameras does that take? — §9
+26. The basement boiler and meter room of our Mount Vernon six-family keeps being broken into — where does the camera go? — §9
+
+### Visible FAQ (§17) = FAQPage schema
+1. Our Cortlandt condo complex hired a new super after the cameras went in — can you train him months later? — §17
+2. Can a board member or the owner join the walkthrough of our Larchmont building? — §17
+3. Our Yonkers tower already has building-wide Wi-Fi run by an outside provider — will the cameras interfere with it? — §17
+4. Do you remove the old cameras and abandoned cable when we upgrade a New Rochelle building? — §17
+5. Can cameras be added later when our White Plains building finishes its lobby renovation? — §17
+6. A property manager runs buildings in Yonkers, Mount Vernon and Port Chester — can one account see all of them? — §17
+7. Our Mount Vernon building needs one camera replaced — is there a minimum charge? — §17
+8. What is due when a Westchester co-op board signs the proposal? — §17
+9. Do you photograph the lobby and hallways of a Bronxville co-op before work starts? — §17
+10. If our Ossining building later hires a different contractor, do we keep the drawings and passwords? — §17
+11. Does the recorder for our Greenburgh garden co-op need its own internet line? — §17
+
+Checked by meaning against the Manhattan, Queens and Staten Island registers: retention, coverage-area, install-duration and budget-phasing FAQs were replaced to avoid intent overlap.
+
+### Images (11)
+Real AESS photos (captioned "Example photo from an AESS installation, not a Westchester apartment building"): rockland-toyota-showroom.jpeg (cropped to upper wall: no people, no banners/signage) → …-westchester-county-two-small-cameras-on-tall-white-wall-below-mezzanine-windows.webp (hero/og:image); rockland-toyota-office-camera.jpeg (ceiling only) → …-white-turret-camera-between-ceiling-light-panels.webp; nassau-window-depot-storage-camera.jpeg (top 620px, boxes/labels removed) → …-turret-camera-in-corner-under-stained-ceiling-tiles.webp; rockland-toyota-ceiling-bullet.jpeg (ceiling only, monitors removed) → …-black-bullet-camera-on-ceiling-grid-beside-air-vent.webp.
+Product shots (tight crops, native size, never upscaled): ubiquiti-unifi-g6-pro-turret-camera-white.jpg → …-white-turret-camera-with-blue-ring-product-photo.webp; ubiquiti-unifi-g5-dome-ultra-camera-white.jpg → …-clear-dome-camera-product-photo.webp; uniview-turret-network-camera-white.jpg → …-white-eyeball-turret-camera-product-photo.webp; hikvision-ptz-speed-dome-camera.jpg → …-pendant-ptz-speed-dome-product-photo.webp; nvr-uniview-nvr501.png → …-black-desktop-network-video-recorder-product-photo.webp; ubiquiti-unifi-g6-instant-4k-camera-white.jpg → …-white-compact-indoor-camera-product-photo.webp; dahua-wizsense-ai-varifocal-bullet-camera-white.png (file actually shows a white PTZ speed dome on black, not a bullet) → …-white-speed-dome-on-black-product-photo.webp.
