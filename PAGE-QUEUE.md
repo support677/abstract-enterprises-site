@@ -328,9 +328,9 @@ LIVE REBUILD | access-control-installation-gowanus-brooklyn-ny | Access Control 
 LIVE REBUILD | access-control-installation-harding-park-bronx-ny | Access Control Installation | Harding Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-indian-village-bronx-ny | Access Control Installation | Indian Village, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-laconia-bronx-ny | Access Control Installation | Laconia, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-marine-park-brooklyn-ny | Access Control Installation | Marine Park, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | access-control-installation-melrose-bronx-ny | Access Control Installation | Melrose, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-morris-heights-bronx-ny | Access Control Installation | Morris Heights, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T20:27Z REBUILD | access-control-installation-marine-park-brooklyn-ny | Access Control Installation | Marine Park, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T20:27Z REBUILD | access-control-installation-melrose-bronx-ny | Access Control Installation | Melrose, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T20:27Z REBUILD | access-control-installation-morris-heights-bronx-ny | Access Control Installation | Morris Heights, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-morris-park-bronx-ny | Access Control Installation | Morris Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-new-utrecht-brooklyn-ny | Access Control Installation | New Utrecht, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-olinville-bronx-ny | Access Control Installation | Olinville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
