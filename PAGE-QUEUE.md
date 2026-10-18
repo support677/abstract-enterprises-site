@@ -217,9 +217,9 @@ TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Par
 TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 
 ## REBUILD (Anwar 2026-10-17: existing pages Google reported 'Crawled - currently not indexed' on 2026-10-17 because they are near-duplicate templates. Rebuild each IN PLACE to the full blueprint, same URL. Taken BEFORE TODO lines - see DAILY-RUN.md 'Rebuild lines'.)
-BUILDING 2026-10-18T00:57Z REBUILD | apartment-building-security-camera-installation-brooklyn | Apartment Building Security Camera Installation | Brooklyn | up /apartment-building-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T00:57Z REBUILD | apartment-building-security-camera-installation-hudson-valley | Apartment Building Security Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-10-18T00:57Z REBUILD | apartment-building-security-camera-installation-long-island | Apartment Building Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-10-18T04:03Z REBUILD | apartment-building-security-camera-installation-brooklyn | Apartment Building Security Camera Installation | Brooklyn | up /apartment-building-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T04:03Z REBUILD | apartment-building-security-camera-installation-hudson-valley | Apartment Building Security Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-10-18T04:03Z REBUILD | apartment-building-security-camera-installation-long-island | Apartment Building Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | apartment-building-security-camera-installation-manhattan | Apartment Building Security Camera Installation | Manhattan | up /apartment-building-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
 LIVE | apartment-building-security-camera-installation-queens | Apartment Building Security Camera Installation | Queens | up /apartment-building-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 LIVE | apartment-building-security-camera-installation-staten-island | Apartment Building Security Camera Installation | Staten Island | up /apartment-building-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
