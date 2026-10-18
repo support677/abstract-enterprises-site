@@ -276,3 +276,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-queens | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-staten-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-ulster-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-putnam-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-dutchess-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-manhattan | QUEUED
