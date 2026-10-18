@@ -214,3 +214,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-orange-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-suffolk-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-long-island | QUEUED
