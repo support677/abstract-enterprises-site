@@ -205,3 +205,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-tribeca-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn-heights-brooklyn-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island-city-queens-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-manhattan | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-queens | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-staten-island | QUEUED
