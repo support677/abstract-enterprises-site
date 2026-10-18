@@ -303,3 +303,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-boerum-hill-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-brighton-beach-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-clason-point-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-cobble-hill-brooklyn-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-country-club-bronx-ny | QUEUED
