@@ -256,9 +256,9 @@ LIVE REBUILD | lorex-camera-installation-orange-county | Lorex Camera Installati
 LIVE REBUILD | network-installation-suffolk-county | Network Installation | Suffolk | up /network-installation-long-island | (631) 407-2884 | GBP Brooklyn
 LIVE REBUILD | nvr-installation-bronx | NVR Installation | Bronx | up /nvr-installation-nyc | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | nvr-installation-hudson-valley | NVR Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-long-island | NVR Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-putnam-county | NVR Installation | Putnam | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-staten-island | NVR Installation | Staten Island | up /nvr-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | nvr-installation-long-island | NVR Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE REBUILD | nvr-installation-putnam-county | NVR Installation | Putnam | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | nvr-installation-staten-island | NVR Installation | Staten Island | up /nvr-installation-nyc | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | nvr-installation-ulster-county | NVR Installation | Ulster | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | nvr-installation-westchester-county | NVR Installation | Westchester | up /nvr-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 LIVE REBUILD | parking-lot-camera-installation-queens | Parking Lot Camera Installation | Queens | up /parking-lot-camera-installation-nyc | (347) 434-6392 | GBP Bronx
