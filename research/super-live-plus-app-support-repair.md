@@ -466,3 +466,622 @@ Masked block similarity (word-level SequenceMatcher on ≥8-word p/li/td/h2/h3/f
 5. AESS's own Putnam Ch. 145 licence/registration NOT claimed; page tells owners to check any installer on county lists.
 6. Sibling link-backs: 12 "doesn't link back" lines are main-run wiring (old-template siblings + NYC/Orange rebuilds); HV hub link-down also main-run.
 7. File size 191,047 B: ≥2 KB from all siblings at final check (Orange 195,788; NYC 180,989); Bronx/LI/Manhattan rebuilds landing later must be re-checked.
+
+
+## Bronx — REBUILD batch 2026-10-18 (super-live-plus-app-support-repair-bronx): silo findings, question-register additions and local research
+
+## Super Live Plus App Support Repair — silo research (incoming from the Bronx REBUILD)
+
+Written 2026-10-18 by the REBUILD subagent for `super-live-plus-app-support-repair-bronx` (queue line: `REBUILD | super-live-plus-app-support-repair-bronx | Super Live Plus App Support Repair | Bronx | up /super-live-plus-app-support-repair-nyc | direct phone (646) 490-0629 | GBP Bronx`). `research/super-live-plus-app-support-repair.md` did not exist; this file is for the main run to merge into it (the Manhattan and Long Island subagents wrote their own `_incoming` files in the same batch).
+
+Format per blueprint v2.3 §12.4: **exact query · platform · URL · finding · page+section used**. Unreachable = `EMPTY (not accessible in build env)`. Tools used: Firecrawl search (`mcp__Fire_Crawl__firecrawl_search`) and Firecrawl scrape (markdown, query mode, PDF parser). Shell curl blocked. Reddit is excerpt-only (Firecrawl search snippets). "Excerpt" = read only as a search snippet.
+
+Bronx page section labels: §Hero, §Quick (instant action), §5 Neighborhood (+§5.5 facts list), §Repair (two-minute look list + "Reading the grey squares" table), §6 Services, §7 Architecture (+§7.5 method), §8 Commercial (+§8.5 rules list), §9 Q&A (clusters A–D, H3 1–16), §10 Equipment (+ routes table, national-brand table), §10.5 AI Reality Check (Claims 1–7), §11 Form, §12 Process (7 steps = HowTo), §13 Landmarks, §14 Pricing, §15 Packages (+BYOE), §16 Complete services, §FieldNotes, §17 FAQ (1–9), §19 Siblings, §Sources.
+
+**Bronx thesis (distinct from the Manhattan and Long Island rebuilds):** In the Bronx, Super Live Plus is a phone-only window onto a budget TVT-platform recorder that sits on the borough's most fragile internet — the city's highest no-broadband and cellular-only shares, the highest ACP enrollment when that subsidy ended, a single cable franchise (Optimum) whose gateway swaps renumber home networks, two- and three-family houses where the recorder is cabled to a tenant's router — and was usually set up by someone who has since disappeared, often on default credentials or forwarded ports that the 2025 Mirai campaign against TVT NVMS9000 hunted. The Bronx job: make the recorder findable by serial/NAT on whatever connection the property has now, close the doors, tune viewing for mobile data, and hand the keys to the owner.
+
+---
+
+### Part 1 — Silo-wide findings
+
+#### 1.1 Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only (R1–R3). Threads not openable in build env. |
+| 2 | Google PAA | EMPTY (not accessible in build env) — no live Google SERP surface. |
+| 3 | Google PASF | EMPTY (not accessible in build env). |
+| 4 | Answer the Public | EMPTY (not accessible in build env). |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 says so on the page and tests claims recurring in forums, store reviews, help-desk answers (JustAnswer, JustUseApp) and installer pages instead. |
+| 6 | Area landmarks | Bronx section BX-L1–BX-L9. |
+| 7 | Area use cases / building stock | Bronx section BX-H1–BX-H6. |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) — only Firecrawl search backend available; no Bing/DDG PAA, related or autocomplete. |
+| 9 | Local news | News 12 Bronx (BX-N1, BX-N2, BX-N4), ABC7 (BX-N3), Bronx Times (BX-L4). |
+| 10 | Hyperlocal | Bronx Times (BX-L4), City Limits (BX-L6). Norwood News / Riverdale Press items on Super Live Plus or TVT: EMPTY (none surfaced). |
+| 11 | Yelp 1–3★ | `yelp Bronx security camera installer review app stopped working remote viewing never came back` · Firecrawl search → only Yelp search-listing and Yelp "questions" pages (e.g. https://www.yelp.com/questions/loc/the-bronx-ny/travel-lot-need-remote-access-get-camera-alarm-control-home/ZVsMNBpgQ75vWC_18pjw-g — "I travel a lot and need remote access…"); no 1–3★ review text → EMPTY (not accessible in build env). Not used. |
+
+#### 1.2 The app and TVT (A)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| A1 | `Super Live Plus app TVT Digital` · Firecrawl search → scrape (markdown) | https://play.google.com/store/apps/details?id=com.tvt.superliveplus&hl=en_US | Developer shown as "Peng AnTai"; "About the developer: TVT (HK) LIMITED"; 3.3★, 53.3K reviews; 5M+ downloads; "professional mobile phone client software for digital video recorders and IP cameras in CCTV surveillance (compatible models only)"; Updated Oct 8, 2026; what's new "Support account switching / Fixed some known issues"; data safety "No data shared with third parties / No data collected"; reviews quoted: timeline "doesn't just fast forward or rewind, it jumps" and app crashes when ending a recording (127 helpful); "Doesn't connect on mobile reliably… next day it will not connect. Turn system off and on…"; "on 5/10/24 the app keeps signing off… no setting… 'always on'… As of 6/2/24 the app is staying on". | §5 para 1; §9 C (app closing) H3; §10.5 Claims 1, 2, 7; §Sources |
+| A2 | `apps.apple.com SuperLive Plus app` · Firecrawl search → scrape (query) | https://apps.apple.com/us/app/superlive-plus/id1058758642 | Seller Peng AnTai; 3.9★, 16K ratings; 129.8 MB; Business; "Requires iOS 12.1 or later". | §10.5 Claim 7; §Sources |
+| A3 | `Super Live Plus app TVT Digital` (result) → Firecrawl scrape (PDF parser) | https://www.mysecuresystems.com/wp-content/uploads/SuperLivePlus-User-Manual.pdf | SuperLive Plus V1.0 user manual: access via WLAN (IP+port or QR) and "Access Device via 2G/3G/4G Network" (PPPoE/DDNS/static WAN/port forwarding/UPnP); QR scan fills "my device" = MAC or serial + user; "If the device and the mobile client are in the different network segment, the device shall support QRCODE and enable the NAT"; default user **admin**, password **123456**; live view resolution Low (CIF)/Middle (D1)/Super/Custom bitrate+frame rate; speed-up option for 720P+; channel lights (sensor/manual/motion/schedule/video loss); snap, local record, audio, two-way talk, PTZ by sliding / 3D tap; remote playback from HDD with date select, single frame, forward/rewind; remote setting mirrors device menus; local settings: reserved disk space, record recycle, audio alarm + shake alarm on video loss/sensor/motion, favourites, launch setting, gesture password, Auto syn of device list; server list icon green = connected, gray = failed, twinkling = connecting; press-and-hold QR to share device; file management + local playback. | §5 para 4; §Repair list + table; §6 cards; §9 A4, B1, B2, C2; §10 cards; §10.5 Claims 4, 5; §12; §Sources |
+| A4 | `"SuperLive Plus" app store Shenzhen TVT` · Firecrawl search → scrape (query, directQuote) | https://tvtnationaldistributor.it/component/k2/itemlist/user/493-superuser.html | TVT Italian distributor notice 12/01/2022: SuperCam Plus temporarily unavailable on Play Store; use SuperLive Plus, "STESSA IDENTICA App senza marchio TVT"; accounts created on the TVT cloud with SupercamPlus also log in. | §5 para 1; §9 A6 (son's account) H3; §Sources |
+| A5 | same search (excerpt) | https://apps.apple.com/in/app/supercam-plus/id1058764743 | SuperCam Plus provider: Shenzhen TVT Digital Technology Co., Ltd. | Background only |
+| A6 | `Super Live Plus app TVT Digital` (excerpt) | https://www.youtube.com/watch?v=xW9rmueAF4A | "Install & Setup SuperLive Plus for Android TV App". | §10 Android TV card; §Sources |
+| A7 | `Shenzhen TVT Digital Technology OEM brands…` · Firecrawl search (excerpts) | https://www.youtube.com/watch?v=3E_57atlhxM ; https://www.youtube.com/watch?v=7ygnIVjyF8g ; https://www.youtube.com/watch?v=8ZRPsys45L4 | CCTV Camera World: "The QT series DVRs… work with the smartphone app SuperLivePlus… setting and code can be found in the Network and then NAT"; Shield Technology DVRs/NVRs "and the compatible TVT models" on SuperLive Plus. | §5 para 1; §10 white-label card; §Sources |
+| A8 | `reddit superlive plus app offline NVR` · Firecrawl search → scrape (markdown) | https://videos.cctvcamerapros.com/support/topic/superlive-plus-mobile-app-offline | CCTV Camera Pros, Jun 6, 2025: SuperLive Plus is the app for Viewtron DVRs/NVRs/IP cameras; customer showed OFFLINE in Canada; fix Settings > Local > Domain > GLOBAL/AUTONATGLB.COM. | §5 para 1; §9 A4; §Sources |
+| A9 | `Super Live Plus app TVT Digital` → Firecrawl scrape (markdown) | https://portal.hdssfl.com/portal/en/kb/articles/superlive-plus-app-how-to-add-a-nvr-dvr | HDSS "TVT (T-Series)": Settings > Device List > ⋯ > Manual Add (serial, username, password) or Scan Code; connection goes grey to green. | §5 para 1; §10 white-label card; §Sources |
+| A10 | `superlive plus "NAT" status offline DVR network settings fix` · Firecrawl search → scrape (PDF, query) | https://www.vimar.com/irj/go/km/docs/z_catalogo/DOCUMENT/49401261A0_EN_05_Videorecordergraphicaluserinterface.109666.pdf | Videorecorder GUI manual (Vimar, Oct 2015) with the NVMS-style interface: HTTP 80, RTSP 554, **Server port 6036**; NAT config "Start → Settings → Network → NAT… Check Enable and then select the NAT server" (from search excerpt); cycle record replaces earliest when disks full; per-camera expiration time deletes recordings; admin password reset via "Edit Security Question" to 123456, else "contact your dealer". **FLAG:** page describes this as "recorder manuals that use this interface"; it does not claim Vimar is TVT. | §9 A4, C1; §6 retention card; §8.5 bullet 6; §Sources |
+| A11 | `TVT Digital Technology FCC covered list OR NDAA section 889 banned` · Firecrawl search → scrape (query) | https://www.fcc.gov/supplychain/coveredlist | Covered List names Huawei, ZTE, Hytera, Hikvision, Dahua (all Mar 12, 2021); TVT not named (checked Oct 2026, page cached 2026-10-17). | §8.5 bullet 2; §10.5 Claim 7 (indirect) |
+| A12 | `"Super Live Plus" OR "SuperLive Plus" Bronx` · Firecrawl search (excerpts) | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-hudson-valley ; https://www.facebook.com/Comtex.Inc/photos/… | Our own old HV page excerpt: "the name stands for Digital Mobile Surveillance…" (wrong — DMSS wording copied into SLP template); Comtex (West New York NJ) installer: "The App that we use is called Super live plus… We don't offer any monthly contracts." | §10.5 Claim 1 ("pages on our own older site got the name's meaning wrong") — **FLAG for the main run: the old silo template carries this error on every un-rebuilt page.** Comtex not used. |
+
+#### 1.3 Security (S)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| S1 | `TVT NVMS9000 DVR vulnerability exploited Mirai botnet GreyNoise 2025` · Firecrawl search (full excerpt) | https://www.greynoise.io/blog/surge-exploitation-attempts-tvt-dvrs | Apr 7, 2025: 3× surge in exploitation attempts against TVT NVMS9000 DVRs, peaking Apr 3 at over 2,500 unique IPs; info-disclosure flaw "can be used to gain administrative control"; overlap with Mirai. | §5 para 4; §5.5 bullet 6; §9 D1; §10.5 Claim 4 context; §Sources |
+| S2 | same search (full excerpt) | https://www.bleepingcomputer.com/news/security/new-mirai-botnet-behind-surge-in-tvt-dvr-exploitation/ | 6,600 distinct malicious IPs in the past month; flaw first disclosed by SSD in May 2024; signs of infection: outbound traffic spikes, sluggish performance, frequent crashes or reboots, high CPU/memory when idle, altered configurations; advice: disconnect, factory reset, update firmware, isolate. | §9 D1; §Sources |
+| S3 | same search → scrape (query) | https://ssd-disclosure.com/ssd-advisory-nvms9000-information-disclosure/ | May 24, 2024: unauthenticated disclosure of usernames/passwords and network config; ports "6036, 17000, 17001, 8000, etc…"; "affected versions are <1.3.4… Affected customers can contact techsupport@tvt.net.cn to inquire if there is a patch available." | §6 port card; §8.5 bullet 3; §9 C3, D1, D2 |
+| S4 | same search → scrape (markdown) | https://www.vulncheck.com/advisories/tvt-nvms9000-unauthenticated-admin-queries-and-information-disclosure | CVE-2024-14007, CVSS 8.7, advisory 11/23/2025; NVMS-9000 firmware < 1.3.4 "used by many white-labeled DVR/NVR/IPC products"; commands queryBasicCfg, queryUserList, queryEmailCfg, queryPPPoECfg, queryFTPCfg; in VulnCheck KEV. | §5.5 bullet 6; §9 C3 (email config), D1; §Sources |
+| S5 | `T-Mobile Home Internet port forwarding not supported CGNAT support page` · Firecrawl search (excerpts) | https://simeononsecurity.com/articles/t-mobile-home-internet-port-forwarding/ ; https://pinggy.io/blog/tmobile_port_forwarding/ | T-Mobile Home Internet uses CG-NAT; port forwarding fails by design. | §9 A2; §Sources |
+| S6 | carried research/smart-pss-support-setup.md P5 | https://nysenate.gov/legislation/laws/PEN/250.05 | Penal Law §250.05 eavesdropping felony; one-party consent. | §8.5 bullet 5; §10 audio card |
+| S7 | carried research/smart-pss-support-setup.md P6 | NYS DOS Article 6-D (see research/nvr-installation.md) | CCTV installation/service is licensed work in NYS. | §8.5 bullet 1; §10.5 Claim 6 |
+
+#### 1.4 Reddit, forums, help desks (R)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| R1 | `reddit superlive plus app offline NVR` · Firecrawl search (excerpt) | https://www.reddit.com/r/SecurityCamera/comments/1h3n93v/dhcp_failure/ | "I have been using the SuperLive plus app for my camera system for over a year now. Recently the app is no longer showing a green WiFi symbol…" (title "DHCP : failure"). | §10.5 Claim 2; §Sources |
+| R2 | same (excerpt) | https://www.reddit.com/r/tinycam/comments/glptdp/superlive_plus/ | "Many times the app can't make the connection and it shows my cameras as being offline. It only happens on Android 13…" | §Sources only |
+| R3 | same (excerpt) | https://www.reddit.com/r/cctv/comments/1h0lrfa/remote_access_no_data/ | SuperLive Pro user, remote access "no data". | Not used |
+| R4 | same (excerpts) | https://forums.justuseapp.com/en/post/CHPGMW9ZCI/app-opens-but-screen-is-black-won-t-bring-up-cameras ; https://www.justanswer.com/home-security-systems/te9n9-superlive-plus-camera-offline-android.html ; https://forums.justuseapp.com/en/post/O7MPET6XEY/no-data | Help-desk boilerplate: restart the app, restart cameras and NVR, verify NAT and DNS enabled. | §10.5 Claim 2 (the "restart" advice pattern) |
+| R5 | `TVT DVR forgot password reset superlive plus…` · Firecrawl search (excerpts) | https://cctvwiki.com/en/cctv-super-password-2/ ; https://play.google.com/store/apps/details?id=com.rat.cctvsuperpassword | Third-party "super password" generators for TVT recorders. | Not used (not recommended; not cited) |
+| R6 | `SuperLive Plus push notification alarm not working…` · Firecrawl search → scrape (query) | https://www.cctvcameraworld.com/push-notifications-from-security-cameras/ | Motion detection must be enabled on the recorder itself before app alerts work (article written for DMSS-app systems). | §9 B2 (general principle only; not cited as SLP-specific) |
+
+#### 1.5 Keyword plan (five layers, silo)
+- **Service:** Super Live Plus app support · Super Live Plus repair · SuperLive Plus setup · TVT DVR app repair · remote viewing repair.
+- **Problem:** Super Live Plus offline / grey · cameras not showing on phone · after router change · after internet provider change · forgot recorder password · slow on mobile data · too many alerts · app closing.
+- **Technology:** TVT · NVMS9000 / NVMS-9000 · NAT / P2P serial number · QR code add · sub stream · DVR / NVR / XVR · white-label (Viewtron, QT, Shield, HDSS T-Series) · SuperCam Plus · CVE-2024-14007 · CGNAT · UPnP · port 6036.
+- **Industry:** two-family house · landlord · tenant · bodega / grocery · auto shop · walk-up · storefront.
+- **Geographic (Bronx page only):** Bronx · Williamsbridge · Wakefield · Eastchester · Baychester · Throgs Neck · Country Club · Pelham Bay · Jerome Avenue · White Plains Road · Fordham Road · Westchester Square · Woodlawn / Katonah Avenue · the Hub.
+- Placement: title, H1, H2s, §6/§9 H3s, image alts (all carry "Bronx"); no stuffing.
+
+#### 1.6 Silo pricing — FLAG
+- §9 Bronx multiplier 1.00 (no change to base figures).
+- Protected service rate: **$195/hr, 3-hour minimum ($585)** — used for on-site Super Live Plus work.
+- **Borrowed prices (FLAG):** recorder replacement $450–$700 (4-ch), $650–$1,000 (8-ch), $800–$1,200 (8-ch XVR), $1,200–$2,200 (16-ch), $2,200+ (32-ch) — taken from the live `dvr-upgrade-bronx.html` table (same as smart-pss-support-setup-bronx). Not invented; borrowed from another silo's approved page.
+- **"Phone check — no charge" (FLAG):** house practice carried from smart-pss-support-setup-bronx ("phone triage at no charge"); not on a pricing sheet I could find.
+- Worked examples (Wakefield two-family = $585; Jerome Avenue 16-ch = hourly + $1,200–$2,200 if replaced) are arithmetic on the above only.
+
+---
+
+### Question register — Super Live Plus App Support Repair silo
+
+Rule (v2.3 §12.3, DAILY-RUN step 2): no FAQ/Q&A question on a new or rebuilt page may repeat an intent listed here.
+
+#### Old template (pages not yet rebuilt — identical apart from area name; their intents to avoid where possible)
+FAQ (10, on brooklyn, dutchess-county, hudson-valley, nassau-county, nyc, orange-county, putnam-county, queens, rockland-county, staten-island, suffolk-county, ulster-county, westchester-county; and on long-island/manhattan/bronx before their rebuilds): "🔧 Super Live Plus Offline Right Now?" (CTA) · Is Super Live Plus a camera brand? · Why does Super Live Plus say "device offline"? · Is Super Live Plus the same as SuperCam Plus or Q-See QT View? · Why can't I see live view or playback? · Can you recover my Super Live Plus password? · Why aren't my push notifications working? · Do you fix Super Live Plus systems you didn't install? · How much does Super Live Plus repair cost? · What areas do you cover?
+
+#### super-live-plus-app-support-repair-bronx — REBUILT 2026-10-18 (owns these intents)
+§9 Q&A (H3):
+1. Our two-family house still has two routers chained together from two old plans — could that be why the recorder keeps dropping out of the app? *(double router / inner router renumbering)*
+2. We moved to the cheapest internet plan after the federal discount ended — is a low-speed plan enough for the recorder? *(upload speed adequacy; ACP end; 5G/CGNAT/hotspot)*
+3. The recorder is cabled to the tenant's router on the second floor — what happens when that tenant moves out? *(recorder on someone else's connection)*
+4. Where on the recorder itself do we look to know whether it can reach TVT's cloud at all? *(NAT status page)*
+5. The internet company's installer is coming to put in a new gateway — what should we let them change, and what should we ask them to leave alone? *(before a provider visit)*
+6. My son set up the app on his account years ago — does Super Live Plus have accounts that need to move to us, separate from the recorder's password? *(app account vs recorder login)*
+7. I only watch on my phone's data plan — how much data does checking the cameras use, and how do I keep it down? *(mobile data use)*
+8. The phone buzzes all night for buses and headlights on our block — how do we make the app alarm only for the gate and the side door? *(too many alerts)*
+9. The app keeps closing or the screen goes dark while we are watching the register — can it stay on? *(app sign-off / screen timeout)*
+10. We bought a two-family house in Williamsbridge and the cameras came with it — what has to change the week we close? *(takeover at property purchase)*
+11. The QR sticker on the recorder shows its serial number — can someone who photographs it watch our cameras? *(serial/QR exposure)*
+12. The recorder sits on a shelf by the front door — if a burglar takes it, what do we lose and what should we change afterward? *(stolen recorder consequences)*
+13. Our recorder has been slow and rebooting on its own — could it be infected, and what is the safe order to clean it up? *(Mirai symptoms + cleanup order)*
+14. Is it safe to update the recorder's firmware from the phone, or should that happen on site? *(firmware method)*
+15. Con Edison outages hit our block most summers — what keeps the recorder and the app working through a blackout? *(UPS / battery)*
+§17 FAQ:
+1. Who answers when we call the Bronx line — a dispatcher or a technician?
+2. Will you show us how to back up a clip from the recorder itself before you leave?
+3. Do you need to get into the tenant's apartment if the router is up there?
+4. Will our Wi-Fi password or internet account need to change?
+5. Can you come on a Saturday, when everyone whose phone needs setting up is home?
+6. Can you tell whether the recorder's hard drive is healthy while you are there?
+7. If our recorder cannot be saved, does the replacement have to be another TVT-based box?
+8. What paperwork do we get when the job is finished?
+9. While you are here, can you move the recorder somewhere a burglar will not find it?
+
+Cross-check done at end of build against the Manhattan and Long Island rebuilds on disk (13:18–13:19): Bronx questions on playback-scrubbing, saving clips from the phone for police, removing a relative's access, shared logins, factory password, open ports / TVT flaws, retention days, clock after outage, "who made our recorder", photos to send before the visit, remote vs on-site, family abroad and "TV/tablet at the counter" were **dropped or replaced** because those intents are on Manhattan or Long Island.
+
+---
+
+### Bronx
+
+Build 2026-10-18. Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, Bronx NY 10458, `#bronx`) · up-link `/super-live-plus-app-support-repair-nyc` · §9 Bronx = 1.00.
+
+#### Internet, cable franchise, subsidy (BX-I)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| BX-I1 | re-checked: `osc.ny.gov dinapoli broadband` · Firecrawl scrape (query, directQuote) | https://www.osc.ny.gov/press/releases/2024/12/dinapoli-report-examines-broadband-availability-access-and-affordability-nyc | Dec 11, 2024: as of 2023 the Bronx had the highest poverty share (28.9%), highest no-broadband share (36.7%) and highest cellular-only share (20.3%); Bronx and Brooklyn highest average monthly broadband price (2024). | §5 para 2; §5.5 bullet 1; §9 B1; §10.5 Claim 5; §Sources |
+| BX-I2 | re-checked · Firecrawl scrape (query, directQuote) | https://thebronx.org/understanding-and-overcoming-the-bronx-digital-divide/ | Jul 8, 2025: 22.4% lack home broadband; "Fully 44 percent of Bronx households were enrolled in ACP when it ended in 2024—by far the highest share in the city"; one in three households (184,000+) lack a computer. | §5 paras 2–3; §5.5 bullet 2; §9 A2; §10 routes table; §Sources |
+| BX-I3 | `Optimum Altice cable franchise Bronx Brooklyn Spectrum…` · Firecrawl search → scrape (query) | https://www.nyc.gov/content/oti/pages/franchises/cable-tv-franchises | "View the Altice USA Franchise Agreement – Bronx" (Altice also holds Brooklyn; Spectrum and Verizon other franchises). | §5.5 bullet 3; §13 card 1; §Sources |
+| BX-I4 | `Big Apple Connect NYCHA free internet Bronx developments Optimum` · Firecrawl search (full excerpts) | https://www.nyc.gov/content/oti/pages/big-apple-connect ; https://www.optimum.com/program/big-apple-connect | OTI launched Big Apple Connect Sept 2022; "All Bronx developments below are serviced by Altice/Optimum"; Optimum page lists Bronx River, Bronx River Addition, Gun Hill, Highbridge Gardens, Patterson, Pelham Parkway, Webster; 500 Mbps; Bronx store 2912 3rd Ave., Bronx, NY 10455. | §5.5 bullet 3; §13 card 1; §Sources |
+| BX-I5 | same search (excerpt) | https://nychajournal.nyc/big-apple-connect-extended-for-three-years/ | Extended through June 2028. | Not used |
+
+#### Housing stock (BX-H)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| BX-H1 | `Bronx housing units in structure 1-unit 2-unit 3-4 units percent ACS Bronx County` · Firecrawl search (excerpt) + scrape (PDF, query) | https://www.osc.ny.gov/files/reports/osdc/pdf/report-13-2024.pdf | "The South Bronx: An Economic Snapshot" (OSC report 13-2024), Figure 6: Bronx 26.4% of units in 1–4-unit buildings, 71.6% in 5+ (excerpt); scrape returned South Bronx 11.6% / 86.4%, five-year data ending 2021. **Note:** the Bronx-wide 26.4% comes from the search excerpt of the same table; the scrape only confirmed the South Bronx row. | §5.5 bullet 4 ("about a quarter… 26.4%… far more common outside the South Bronx, where only 11.6%…") |
+| BX-H2 | `furmancenter Bronx` · Firecrawl scrape (query) | https://www.furmancenter.org/neighborhoods/the-bronx/ | Homeownership 19.7% (2024); population 1,384,724 (2024); median household income $47,600 (2024); (excerpt) 7.9% of rental units public housing (2025); 63,066 units in 4+ buildings 2010–2025. | §5.5 bullet 5; §Sources |
+| BX-H3 | `Bronx Community District 12 Wakefield Williamsbridge one- and two-family homes…` · Firecrawl search (excerpt) | https://www.homes.com/local-guide/bronx-ny/williamsbridge-neighborhood/ | Williamsbridge: "You'll see two- and three-family homes, often with private driveways, garages…" | §7 card 1 (Williamsbridge only); §9 C1; §Sources |
+| BX-H4 | `Country Club Throggs Neck Bronx detached single-family homes…` · Firecrawl search (full excerpt) | https://cityneighborhoods.nyc/country-club | Country Club: peninsula between Pelham Bay and Throgs Neck; "blocks of detached homes"; "single-family homes, bungalows, and split-level houses"; "predominantly homeowner-occupied". | §7 card 2; §7.5 para 2; §Sources |
+| BX-H5 | carried research/smart-pss-support-setup.md BX-H4 | https://s-media.nyc.gov/agencies/lpc/lp/2403.pdf | Five-/six-storey apartment houses dominant along the Grand Concourse. | §7 card 3 (building type only) |
+| BX-H6 | Homes.com Throgs Neck / Zillow waterfront results (excerpts only) | https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/ | Listing pages only. | Not used |
+
+#### Corridors / landmarks (BX-L)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| BX-L1 | `Bronx Community District 12 …` → Firecrawl scrape (markdown) | https://www.nyc.gov/site/bronxcb12/about/about.page | CB12: Wakefield — "White Plains Road is the main shopping district, popular for its many fresh produce markets and Spanish, West Indian, and East Indian specialty food shops"; 2 and 5 lines; Williamsbridge — White Plains Road primary thoroughfare; Eastchester — "Dyre Avenue is the main commercial strip"; Baychester — "Eastchester Road is the main commercial thoroughfare"; Woodlawn — Katonah Avenue main commercial thoroughfare, "many fine restaurants and specialty shops", McLean Avenue = NY/Westchester County line; Edenwald hosts the 47th Precinct. | §8 cards 1, 2, 6; §13 cards 2, 6; §Sources |
+| BX-L2 | `Jerome Avenue rezoning auto repair shops Bronx corridor` · Firecrawl search (full excerpt) | https://citylimits.org/3-years-after-bronx-rezoning-jerome-avenue-auto-shops-under-pressure/ | UAMA: 35–40 auto businesses displaced since rezoning, "around 150 still operate"; "one of the largest concentrations of automotive businesses in the city"; virtually all rent. | §7 card 6; §13 card 4; §14 example 2 (location only); §Sources |
+| BX-L3 | carried research/smart-pss-support-setup.md BX-L1 | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=49 | Fordham Road BID: 35 block faces, 333 ground-floor businesses. | §8 card 3; §Sources |
+| BX-L4 | carried BX-L3 | https://www.bxtimes.com/third-avenue-bid-adds-security-measures/ | Bronx Times, Oct 2, 2026: Third Avenue BID 18 cameras at 10 locations. | §8 card 4; §Sources |
+| BX-L5 | carried BX-N1 / BX-L6 | https://abc7ny.com/post/surveillance-video-reward-offered-arrest-alleged-shoplifter-wanted-stabbing-bronx-bodega-employee/15429424/ ; https://en.wikipedia.org/wiki/IRT_Pelham_Line | Oct 15, 2024: police released surveillance footage after a Westchester Square bodega worker was stabbed stopping a theft; 6 train elevated over Westchester Ave. | §8 card 5; §Sources |
+| BX-L6 | carried BX-F1 | https://www.bronxda.nyc.gov/html/outreach/enroll-in-bronxcams.shtml | BronxCAMS (2018): voluntary, confidential map; DA staff "contact the camera owner or designee to view footage and request a copy"; "Our Office does not have access to cameras or camera footage"; 198 E. 161st Street. | §8.5 bullet 4; §13 card 5; §Sources |
+| BX-L7 | carried BX-F2 | https://www.riverdalepress.com/stories/bronx-da-wants-borough-directory-of-security-cameras,68834 | May 2019: systems "loop, or tape over, existing footage after… as short as 24 hours". | Not used (retention Q removed after the overlap check; source removed from the page) |
+| BX-L8 | `Bronx homeowners security cameras package theft Throggs Neck…` · Firecrawl search (excerpt) | https://www.bxtimes.com/security-cameras-coming-to-pelham-parkway-houses/ | 2014: 375 cameras at Pelham Parkway Houses (Vacca funding). | Not used (2014) |
+
+#### Local news (BX-N)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| BX-N1 | `Bronx homeowners security cameras package theft Throggs Neck OR Pelham Bay OR Wakefield 2026 news` · Firecrawl search → scrape (query) | https://bronx.news12.com/2025/10/23/man-caught-on-camera-stealing-from-mailboxes-in-throgs-neck/74zBl2o9JN1pYwqv8nfkXI | Oct 15 (2025) ~9:30 p.m., Ring doorbell camera at a residential home near Clarence and Randall avenues, Throgs Neck, caught mailbox theft; postal inspector + NYPD investigating. | §13 card 3; §Sources (no names used) |
+| BX-N2 | same → scrape (query) | https://bronx.news12.com/2025/12/10/caught-on-camera-porch-pirates-strike-again-this-holiday-season/7ssxJZkkO6ppcqn9vpkPgs | Pelham Gardens resident's home video of packages stolen Dec 2 (2025); four packages that season. | Not used (removed from the page sources) |
+| BX-N3 | same (excerpts) | https://bronx.news12.com/2025/06/03/throgs-neck-neighbors-on-edge-after-cars-broken-into-stolen/1cXa3XYC1POZGuFAcU9fsG ; Pelham Bay airbag thefts (News 12 Facebook) | Car break-ins Throgs Neck / Pelham Bay. | Not used |
+| BX-N4 | carried BX-N4 (smart-pss) | https://bronx.news12.com/2026/07/03/5000-con-edison-customers-in-the-bronx-without-power-amid-heat-wave/ONmoL7BVphOWvTtg2dafc | Jul 3, 2026: ~5,000 Bronx Con Ed customers out; 8% voltage reduction in parts of the northwest Bronx. | §9 D3 (Con Ed); §Sources |
+
+#### Local Reddit / hyperlocal
+- `reddit r/bronx security cameras house DVR app landlord` · Firecrawl search → only non-Bronx r/Landlord, r/legaladvice, r/Tenant, r/HomeNetworking threads (e.g. https://www.reddit.com/r/HomeNetworking/comments/14g9bri/landlords_wants_to_use_my_network_for_security/ — tenant asked to let landlord's cameras use their internet). r/bronx threads on Super Live Plus/TVT: EMPTY. The HomeNetworking excerpt (non-Bronx) informed the "recorder on the tenant's router" idea only as a pattern; not quoted.
+- Norwood News / BronxNet / Riverdale Press items on Super Live Plus or TVT: EMPTY.
+
+#### Local licensing / rules
+- NYS licensing (S7) → §8.5 bullet 1, §10.5 Claim 6.
+- FCC Covered List, TVT not named (A11) → §8.5 bullet 2.
+- SSD advisory / patch contact (S3) → §8.5 bullet 3.
+- BronxCAMS voluntary/confidential (BX-L6) → §8.5 bullet 4.
+- Penal Law §250.05 (S6) → §8.5 bullet 5, §10 audio card.
+- Recorder cycle record / expiration (A10) → §8.5 bullet 6.
+- NYC rule requiring private footage retention: EMPTY (as recorded in research/nvr-installation.md).
+
+#### Prices used (Bronx 1.00×) — see §1.6 (FLAGS)
+
+#### Images (11) — permanent image rule
+Drive "AESS Website Photos" has no Super Live Plus folder; CompanyCam not connected (per coordinator). Sourced ONLY from images/residential-security-camera-installation/, images/floodlight-camera-installation/, images/door-buzzer-installation/, images/intercom-repair/. All viewed first via contact sheets and full-size reads; product shots in those folders rejected (clean marketing renders of Reolink/Ubiquiti/Alarm.com/Akuvox gear — look rendered, wrong brands). No faces, house numbers, plates or readable documents (sidewalk tile shows a partial parked car with no readable plate; mural is artwork). No image claims to show the Bronx, a customer, TVT hardware or the Super Live Plus app; captions say "Example photo from another AESS job (not a Bronx property)". Converted with Pillow, WebP q80, all ≤1600 px.
+| images/super-live-plus-app-support-repair/ | Source | Section |
+|---|---|---|
+| super-live-plus-app-support-repair-bronx-dome-camera-under-storefront-fascia-beside-mural.webp (hero, eager, 917×647) | images/floodlight-camera-installation/floodlight-camera-installation-brooklyn-dome-camera-under-fascia-beside-led-strip-lights.webp | Hero |
+| …-bronx-camera-on-steel-arm-below-stone-facade-windows.webp (228×368) | images/intercom-repair/intercom-repair-staten-island-stone-apartment-facade-with-camera-on-steel-arm.webp | §5 |
+| …-bronx-network-cable-bundles-above-equipment-rack.webp (600×300) | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-network-cable-bundles-above-equipment-rack.webp | §6 |
+| …-bronx-turret-camera-under-water-stained-ceiling-tiles.webp (685×620) | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-turret-camera-high-in-corner-of-storage-room.webp | §7 |
+| …-bronx-dome-camera-on-tiled-ceiling-above-glass-entrance.webp (935×720) | images/intercom-repair/intercom-repair-staten-island-dome-camera-on-tiled-ceiling-above-glass-entrance.webp | §8 |
+| …-bronx-wide-angle-channel-view-of-sidewalk-and-curb.webp (310×310) | images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-wide-lens-recorder-tile-of-sidewalk-and-curb.webp | §9 cluster A |
+| …-bronx-camera-watching-corridor-to-grey-service-door.webp (640×905) | images/door-buzzer-installation/door-buzzer-installation-ulster-county-camera-covering-corridor-to-service-door.webp | §9 cluster B |
+| …-bronx-small-black-camera-high-on-white-wall.webp (1247×935) | images/door-buzzer-installation/door-buzzer-installation-ulster-county-small-camera-on-plain-wall.webp | §9 cluster C |
+| …-bronx-black-bullet-camera-on-bracket-under-drop-ceiling.webp (735×580) | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-black-bullet-camera-on-bracket-under-drop-ceiling.webp | §9 cluster D |
+| …-bronx-dome-camera-and-motion-sensor-in-ceiling-corner.webp (400×500) | images/intercom-repair/intercom-repair-putnam-county-dome-camera-and-motion-sensor-in-ceiling-corner.webp | §10 |
+| …-bronx-ceiling-camera-near-red-exit-sign.webp (845×620) | images/floodlight-camera-installation/floodlight-camera-installation-orange-county-ceiling-camera-and-device-beside-red-lit-exit-sign.webp | §14 |
+DAILY-LOG note: `images: 11 reused from images/floodlight-camera-installation/, images/intercom-repair/, images/door-buzzer-installation/, images/residential-security-camera-installation/ (no real super-live-plus photos yet)`. Several of these source photos are themselves crops of the same original AESS shots used across other silos (e.g. the water-stained turret and cable bundles).
+
+#### House practices stated without an external source (FLAG for Anwar)
+- "Follow the cable before touching the phone"; one router per house with any second box as an access point; recorder on a connection the owner controls; prefer the NAT/serial method over port forwarding; router reservation or automatic addressing instead of a hand-typed fixed IP.
+- Battery backup (UPS) sizing advice for recorder + gateway; surge protector ≠ UPS.
+- One recorder user per person; viewing users for counter screens; gesture lock on shared tablets.
+- Evidence copy = recorder USB backup (not phone recording); note camera/date/times/who copied.
+- Before a provider visit: photograph old gateway, ask installer not to touch recorder or open ports.
+- "Most faults back to a live picture within one to two hours" (blueprint element 36 wording).
+- "The person who answers is the technician who plans the visit" (carried claim from model pages).
+- Office hours Mon–Sat 8:00–19:00 (from the LocalBusiness schema used on the model page).
+- Phone check at no charge (see §1.6).
+- National-brand comparison table (ADT/Ring/SimpliSafe) — general description (blueprint element 25).
+- Field Notes is a method note in Anwar's voice, not a specific Bronx job story — confirm or replace.
+
+#### Build notes
+- Checked against rebuilt siblings on disk at the end of the build: super-live-plus-app-support-repair-manhattan.html (186,682 B, 13:19) and -long-island.html (178,970 B, 13:18). Masked paragraph similarity (difflib on geo-masked p/li/h3/td ≥10 words): max 0.64 vs Manhattan, 0.64 vs Long Island, 0.63 vs smart-pss-support-setup-bronx (content; the shared `:root` CSS line is the only higher hit), ≤0.52 vs old-template siblings.
+- Bronx page bytes 183,046 — 4,076 B from Long Island and 3,636 B from Manhattan; re-check size cluster if either sibling changes again before shipping.
+
+
+## Long Island hub — REBUILD batch 2026-10-18 (super-live-plus-app-support-repair-long-island): silo findings, question-register additions and local research
+
+## Super Live Plus App Support Repair — silo research (incoming, from the Long Island hub REBUILD)
+
+Built 2026-10-18 by the subagent for `super-live-plus-app-support-repair-long-island` (queue line: `REBUILD | super-live-plus-app-support-repair-long-island | Super Live Plus App Support Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn`). `research/super-live-plus-app-support-repair.md` did not exist; this file is for the main run to merge (Bronx and Manhattan siblings were built in parallel and will add their own files).
+
+Format per blueprint v2.3 §12.4: **exact query · platform · URL · finding · page+section used**. Tools: Firecrawl search (`mcp__Firecrawl__firecrawl_search`), Firecrawl scrape (markdown, query/directQuote mode, PDF parser), WebSearch (one query). Shell curl blocked. Reddit threads cannot be opened (excerpts only). "Re-checked" = fetched again today from a URL first found by an earlier build (file named).
+
+Page section labels (LI hub): §Hero, §Quick, §5 Island (+ §5.5 facts list), §Repair (same-day block + checks + "what the app shows" table), §Counties (Nassau vs Suffolk), §6 Services, §7 Architecture (+ §7.5 method), §8 Commercial (+ §8.5 rules), §9 Q&A (clusters A–F), §10 Equipment (+ remote-access table, national-brand table), §10.5 AI Reality Check (Claims 1–7), §11 Form, §12 Process, §13 Landmarks, §14 Pricing, §15 Packages (+ BYOE), §16 Complete services, §FieldNotes, §17 FAQ, §19 Siblings, §Sources, §Close.
+
+**Long Island hub thesis (distinct from Bronx/Manhattan siblings, which deal with dense buildings):** on Long Island a Super Live Plus failure is almost always a problem of *distance between an empty house and an owner who is somewhere else*. The recorder sits in a slab ranch closet, a raised South Shore house or a closed East End house; the owner is on the LIRR, in the city at work, or wintering away. So the jobs are: recorders that were added to the app by their home-network address and go grey on cellular; Optimum/Fios gateway swaps that wipe port-forwarding; PSEG restorations that reboot the recorder in the wrong order; seasonal houses where nobody can press a button for months; and access that was shared with family, tenants or a roommate and must be taken back. The hub separates Nassau (453 sq mi, 2 cities/3 towns/64 villages, dense, year-round) from Suffolk (2,373 sq mi, 10 towns, long distances, seasonal East End) and sends readers down to each county page.
+
+---
+
+### Part 1 — Silo-wide findings (usable on every Super Live Plus page)
+
+#### 1.1 Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only (R1–R8). Threads not openable in build env. |
+| 2 | Google PAA | EMPTY (not accessible in build env) |
+| 3 | Google PASF | EMPTY (not accessible in build env) |
+| 4 | Answer the Public | EMPTY (not accessible in build env) |
+| 5 | Google AI Overview | EMPTY (not accessible in build env) — §10.5 says so on the page and tests seven claims repeated in forum answers, how-to pages and generic troubleshooting lists (A1–A5, M1, R1–R8) |
+| 6 | Landmarks | Long Island section LI-L |
+| 7 | Building stock / use cases | Long Island section LI-H |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env) — only Firecrawl's search backend and one WebSearch query available |
+| 9 | Local news | PSEG LI release Sept 28 2026; NCPD news flash Jan 16 2026 |
+| 10 | Hyperlocal | Garden City PD village page; LI Herald/Patch Super Live Plus items: EMPTY (none surfaced) |
+| 11 | Yelp 1–3★ | `yelp Long Island security camera repair DVR app not working review 1 star Nassau Suffolk` · Firecrawl search → only Yelp search-listing pages (West Islip, Amagansett, Nassau, Bethpage listings), no review text → EMPTY (not accessible in build env). Substitute: Google Play 1–3★ review excerpts on the app listing (A1). |
+
+#### 1.2 The app (A)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| A1 | `SuperLive Plus app device offline TVT` · Firecrawl search → scrape (markdown) | https://play.google.com/store/apps/details?id=com.tvt.superliveplus&hl=en_US | Package `com.tvt.superliveplus`. Listed developer name "Peng AnTai"; "About the developer: TVT (HK) LIMITED", Hong Kong address. Description: "professional mobile phone client software for digital video recorders and IP cameras in CCTV surveillance (compatible models only)". 3.3★, 53.3K reviews, 5M+ downloads, "Updated on Oct 8, 2026", What's new: "Support account switching / Fixed some known issues". Data safety: "No data shared with third parties", "No data collected". Reviews shown: playback timeline "jumps" and app crashes when ending a clip recording (127 helpful); "can scan and connect, but next day it will not connect. Turn system off and on and connection works" (25 helpful); app kept signing off from 5/10/24, fixed by 6/2/24, developer did not answer emails (52 helpful). Same developer lists SuperLiveNVR, NVMS2 Plus, NVMS2. | §5 para 1; §5.5 bullets 1–2; §9 C, D H3s; §10.5 Claims 1, 3, 6; §17 FAQ 1, 2; §Sources |
+| A2 | `apps.apple.com "SuperLive Plus" app` · Firecrawl search (excerpt) | https://apps.apple.com/us/app/superlive-plus/id1058758642 | Free, Business, "Designed for iPad", 3.9 from 16K ratings, age 4+, EN + 32 more languages, 129.8 MB, iPhone and iPad. | §5.5 bullet 2; §17 FAQ 3, 9; §Sources |
+| A3 | same search (excerpt) | https://apps.apple.com/in/app/supercam-plus/id1058764743 | SuperCam Plus — provider "Shenzhen TVT Digital Technology Co., Ltd.", requires iOS 15.0 or later. (Separate TVT app.) | §10 card "Other TVT apps"; §9 E H3; §Sources |
+| A4 | `TVT Digital Technology Shenzhen OEM DVR NVR brands SuperLive Plus Viewtron` · Firecrawl search → scrape | https://www.tvt.net.cn/ | Shenzhen TVT Digital Technology Co., Ltd: product lines "HD IP camera, HD coaxial camera, HD NVR, HD DVR"; news items Sept 2025 Network Optix partnership, Jan 2025 "NDAA Compliance Statement" (news/1106 — image only, text not extractable → content NOT used). Search excerpt (YouTube channel): "established in 2004 and headquartered in Shenzhen". | §5 para 1; §10 intro; §10.5 Claim 4 (statement exists, contents not relied on); §Sources |
+| A5 | `Super Live Plus app TVT DVR NVR "SuperLivePlus"` · WebSearch | https://www.mysecuresystems.com/wp-content/uploads/SuperLivePlus-User-Manual.pdf (scraped, PDF parser, 16 pp.) | SuperLive Plus V1.0 User Manual: functions Live View, Remote Playback, Local Setting, Remote Setting, Local Record & Playback; "Optimizing the P2P connection"; H.265 added; gesture lock; sharing (screenshot, device, download address). WLAN: "Make sure your phone network and device network are in the same network segment on LAN." Cellular: PPPoE / static WAN / LAN IP + port forwarding in router "virtual server" ("If you has enabled the UPnP function in both the device and router, you can skip this step"). QR login: "My device is the MAC address (or serial number) of the device"; "If the device and the mobile client are in the different network segment, the device shall support QRCODE and enable the NAT." Domain/IP login example "123.dvrdydns.com:89". Old default "admin" / "123456". Live view indicators (sensor, manual, motion, schedule, video loss). Resolution choices CIF/D1/Super/Custom bitrate & frame rate; speed-up function for 720P+. Remote playback "record saved in the HDD(s) of the device"; single-frame, forward, rewind. Local Setting: Reserved disk space 50/100/200/500 MB, Record recycle (auto-deletes old local records), audio/shake alarm on video loss/sensor/motion, Launch setting, gesture password, Auto syn (device list synchronised and carried into new app versions; manual "Syn"). Server List: green = connected, grey = not connected, twinkling = connecting; press and hold QR to share device. File management, local playback, Help/Feedback (Type: DVR), About "Detect new version". | §5 para 2; §Repair table; §6 cards; §7.5; §9 A, C, D H3s; §10.5 Claims 1, 2, 5; §12 steps; §17 FAQ 6; §Sources |
+| A6 | `SuperLive Plus app device offline TVT` · Firecrawl search → scrape | https://videos.cctvcamerapros.com/support/topic/superlive-plus-mobile-app-offline | CCTV Camera Pros (June 6, 2025): SuperLive Plus is "used with Viewtron security camera systems (DVRs, NVRs, and IP cameras)". Customer visiting Canada saw OFFLINE although NVR fine; fix: "change the DOMAIN (within the SUPERLIVE PLUS app) to match the region"; path "SETTINGS > LOCAL > select DOMAIN … set the DOMAIN to GLOBAL/AUTONATGLB.COM". | §9 E H3 (travel abroad); §10.5 Claim 1; §Sources |
+| A7 | `TVT Digital Technology …` (same search) → scrape | https://videos.cctvcamerapros.com/support/topic/nat-setup-viewtron-dvr-nvr-web-interface | (Sept 30, 2026) NAT path on Viewtron recorder web UI: Settings (Function Panel) > Network > NAT; scan QR in SuperLive Plus (Live screen > QR Scan), type password manually; "green Wi-Fi signal" then Play. Viewtron web default admin / a1111111. IPTOOL finds recorder IP from a PC on the same network. | §6 NAT card; §9 A H3 3; §12 step 3; §10.5 Claim 5; §Sources |
+| A8 | `apps.apple.com …` (excerpt) | https://superliveplus.net/ | Unofficial site repeating the Play description. NOT used (not the maker). | — |
+
+#### 1.3 Reddit / forums (R) — excerpts only
+| # | Exact query · platform | URL | Finding (excerpt) | Used |
+|---|---|---|---|---|
+| R1 | `site:reddit.com "superlive plus" cameras` · Firecrawl search | https://www.reddit.com/r/tinycam/comments/glptdp/superlive_plus/ | "Cameras supported by SuperLive Plus app will not work in tinyCam app." | §9 E H3 (third-party apps); §Sources |
+| R2 | same | https://www.reddit.com/r/homesecurity/comments/1brss3t/remove_access_from_superlive_plus/ | "I gave my roommate access to our cctv camera footages through superlive plus. Recently they moved out…" | §9 C H3 (revoke access); §Sources |
+| R3 | same | https://www.reddit.com/r/homesecurity/comments/aqcv2h/security_camera_software_question/ | Recommended remote viewing "NVMS-1000 and SuperLive Plus. I never, ever, ever have a remote connection" | §5 para 2; §Sources |
+| R4 | same | https://www.reddit.com/r/SecurityCamera/comments/1h3n93v/dhcp_failure/ | "using the SuperLive plus app … for over a year … no longer showing a green WiFi symbol" (title "DHCP : failure") | §Repair table (DHCP row); §9 B H3; §Sources |
+| R5 | same | https://www.reddit.com/r/cctv/comments/1lofnhg/help_upgrading_dead_dvr_looking_for_better_mobile/ | Horizontal scroll timeline "like SuperLive Plus, Reolink" vs vertical. | §9 D H3 (playback scrubbing) background; §Sources |
+| R6 | same | https://www.reddit.com/r/UnifiProtect/comments/1wxncgd/multi_cam_playback/ | "I currently use SuperLive Plus where i can playback all cams at the same time if i scrub." | §10.5 Claim 3 (balance); §Sources |
+| R7 | same | https://www.reddit.com/r/selfhosted/comments/1iazt9h/is_there_an_app_to_consolidate_all_cctv_on_a/ | Owner with Ezviz, Hikvision, iDMSS plus, Superlive Plus apps for different DVRs. | §9 E H3; §Sources |
+| R8 | same | https://www.reddit.com/r/homedefense/comments/ibiv26/dvr_question_is_someone_spying_on_me_through_my/ | "Superlive Plus and HiSharp look like apps to VIEW the cameras, but that's not the DVR system". | §10.5 Claim 6 background; not quoted |
+| R9 | `SuperLive Plus app device offline TVT` (excerpt) | https://www.cctvforum.com/topic/58642-tvt-supercam-plus/ | "device off line"; "SuperLive is far worse in my experience, and would never connect even on NAT." | §10.5 Claim 1 background; §Sources |
+
+#### 1.4 Rules, ISPs, registry (G) — silo-usable
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| G1 | `FCC covered list` · Firecrawl scrape (directQuote) | https://www.fcc.gov/supplychain/coveredlist | Video-surveillance entries name Hytera, Hangzhou Hikvision and Dahua (all March 12, 2021), plus Huawei/ZTE telecom; newest entry Digitalsystem Technology (July 7, 2026). TVT not among the entries returned. | §10.5 Claim 4; §8.5 bullet; §Sources |
+| G2 | carried (research/hik-connect-app-support-repair.md F1; not re-fetched) | https://www.federalregister.gov/documents/2026/07/06/2026-13518/prohibiting-importation-and-marketing-of-previously-authorized-covered-communications-equipment | July 2026 FCC order on covered equipment; continued use of owned equipment unaffected. | §10.5 Claim 4 (one clause) |
+| G3 | `Optimum Altice gateway port forwarding security camera DVR remote viewing stopped working new router` · Firecrawl search (excerpts) | https://www.optimum.net/pages/internet/features.html ; https://www.reddit.com/r/OPTIMUM/comments/1lr3v63/how_do_i_actually_actually_access_my_router_for/ | Optimum: "lets you manage your router settings online, from any location … Port Configuration Settings". r/OPTIMUM: "Call and have them push the config to your new modem, they'll need the mac address". | §9 A H3 1, 3; §10.5 Claim 5; §Sources |
+| G4 | `site:reddit.com r/longisland security cameras app offline Optimum OR Fios DVR` · Firecrawl search (excerpt) | https://www.reddit.com/r/OPTIMUM/comments/14qqz2u/how_to_assign_24_to_devices_on_an_automatic_24_5/ | Optimum router "automatically assigns 2.4 or 5"; "2.4 devices are constantly switching back and…". r/longisland Super Live Plus threads: EMPTY. | §7 card (Wi-Fi cameras); §Sources |
+| G5 | `dos.ny.gov` · Firecrawl scrape (directQuote) | https://dos.ny.gov/get-security-or-fire-alarm-installer-license | NYS DOS security/fire alarm installer licence: age 18, fingerprints, at least 81 hours qualifying education, examination; master electrician waiver. | §8.5 bullet 1; §Sources |
+| G6 | `site:reddit.com "superlive plus"` | — | Google Play reviews used as the 1–3★ substitute (A1). | — |
+
+#### 1.5 Keyword plan (five layers)
+- **Service:** Super Live Plus support, SuperLive Plus repair, Super Live Plus setup, SuperLive Plus remote viewing, Super Live Plus app help, TVT DVR app support, SuperLive Plus NAT setup, Super Live Plus access sharing.
+- **Problem:** SuperLive Plus offline / grey icon, works on Wi-Fi not on cellular, router swap, port forwarding lost, DHCP failure, domain setting abroad, playback jumps, app crash on clip, signs out, default password, roommate/tenant still has access, phone storage full.
+- **Technology:** TVT DVR/NVR, NAT/P2P, QR code, serial/MAC, IP + port, DDNS, UPnP, H.265, sub/main stream, Auto syn, Reserved disk space, Record recycle, gesture lock, Server List, Viewtron, SuperCam Plus, SuperLiveNVR, NVMS2, IPTOOL, LTE router.
+- **Industry:** homeowners, seasonal/second-home owners, landlords with accessory apartments, strip-centre shops, offices, marinas/farms.
+- **Geographic (LI hub):** Long Island, Nassau, Suffolk, Levittown, Garden City, East Garden City/Old Country Road, Uniondale, Hempstead Turnpike, Jericho Turnpike, Sunrise Highway, Route 110, Hauppauge, Ronkonkoma, Riverhead/Route 58, East Hampton, North Fork, South Fork, Montauk + §13 list. All image alt/title carry "Super Live Plus" + "Long Island".
+
+#### 1.6 Pricing (no invented prices) — FLAG
+Old Super Live Plus pages publish **no dollar prices** (checked old LI page; no `$` figures in body). Following the Hik-Connect / Smart PSS precedent: $0 phone/screenshot triage; protected service rate **$195/hr, 3-hour minimum ($585)** (v2.3 §9) — not multiplied; recorder replacement **borrowed from DVR Upgrade silo base** (research/dvr-upgrade.md §1.8: 4-ch $450–$700, 8-ch $650–$1,000, 8-ch hybrid $800–$1,200, 16-ch $1,200–$2,200, 32-ch $2,200+) × Nassau 1.15 / Suffolk 1.20, Decimal round half-up:
+| | 4-ch | 8-ch | 8-ch hybrid | 16-ch | 32-ch |
+|---|---|---|---|---|---|
+| Nassau 1.15 | $518–$805 | $748–$1,150 | $920–$1,380 | $1,380–$2,530 | $2,530+ |
+| Suffolk 1.20 | $540–$840 | $780–$1,200 | $960–$1,440 | $1,440–$2,640 | $2,640+ |
+FLAG for Anwar: (1) recorder figures are BORROWED from the DVR Upgrade silo; (2) whether $195/hr should carry county multipliers; (3) "$0 triage" is a framing, not a published price.
+
+---
+
+### Question register (Super Live Plus silo)
+
+#### Old template — every old sibling page (16 identical, read 2026-10-18 with check_page parser)
+1. 🔧 Super Live Plus Offline Right Now? 2. Is Super Live Plus a camera brand? 3. Why does Super Live Plus say "device offline"? 4. Is Super Live Plus the same as SuperCam Plus or Q-See QT View? 5. Why can't I see live view or playback? 6. Can you recover my Super Live Plus password? 7. Why aren't my push notifications working? 8. Do you fix Super Live Plus systems you didn't install? 9. How much does Super Live Plus repair cost? 10. What areas do you cover?
+Intents to avoid as generic questions: what SL+ is / brand; generic offline; SL+ vs SuperCam Plus/QT View; generic live/playback failure; password recovery; push notifications; systems not installed by us; cost; coverage area.
+
+#### super-live-plus-app-support-repair-long-island (rebuilt 2026-10-18) — see the page; listed in full below after the build.
+(Listed in full in "LI page questions" at the end of this file.)
+
+---
+
+### Long Island
+
+#### Mandatory sources for this geo
+Reddit r/longisland: EMPTY for Super Live Plus (G4). PAA/PASF/ATP/AI Overview/Bing/DDG: EMPTY (not accessible in build env). Yelp: EMPTY (listings only). News: PSEG LI (LI-P1), NCPD (LI-N3). Hyperlocal: Garden City PD (LI-N2).
+
+#### Building stock / geography (LI-H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-H1 | re-checked (first found research/nvr-installation.md LI-H1) · Firecrawl scrape directQuote | https://kerimurrayarchitecture.com/levittown-ny/ | "Built between 1947-1951"; "built on concrete slabs"; "In all, 17,447 homes were constructed in Levittown between 1947 and 1951." | §5 para 2; §5.5; §7 slab card; §13 Levittown; §Sources |
+| LI-H2 | re-checked (nvr LI-H3) · Firecrawl scrape | https://www.ny.gov/counties/nassau | "453 sq miles"; "Two cities, three towns, 64 incorporated villages, and more than 60 unincorporated hamlets". | §Counties; §5.5; §Sources |
+| LI-H3 | re-checked · Firecrawl scrape | https://www.ny.gov/counties/suffolk | "2373 sq miles"; "easternmost county … divided into 10 towns: Babylon, Brookhaven, East Hampton, Huntington, Islip, Riverhead (county seat), Shelter Island, Smithtown, Southampton and Southold." | §Counties; §5.5; §13 Riverhead; §Sources |
+| LI-H4 | re-checked (nvr LI-H4) · Firecrawl scrape PDF parser 72 pp., directQuote | https://www.ehamptonny.gov/DocumentCenter/View/28279/Route-114-Affordable-Housing-Market-Study-and-Update | PDF title "East Hampton - Market Assessment - 3.16.26": "With a total of 44,227 housing units, 17,993 (41%) are owner-occupied (primary residence) while 20,952 (47%) are used for seasonal, recreational, or occasional." Also "57%" of workforce commutes into the study area (not used). | §5 para 3; §5.5; §7 seasonal card; §13 East Hampton; §Sources |
+
+#### Power (LI-P)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-P1 | re-checked (nvr LI-P1) · Firecrawl scrape directQuote ×2 | https://www.psegliny.com/en/Newsroom/2025/092826-StormUpdate0800 | "(UNIONDALE, N.Y. – Sept. 28, 2026)"; >95% restored; "6,108 of 1.2 million electric customers across Long Island and the Rockaways"; "Over the course of 72 hours, the storm caused more than 124,000 outages."; "More than 1,150 trees and nearly 700 large branches fell."; "More than 1,350 local and off-Island field workers"; "16-hour shifts". (URL path /2025/, body dated 2026.) | §5 para 3; §5.5; §9 B H3; §13 Uniondale; §10.5 Claim 2; §Sources |
+
+#### Internet (LI-I)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-I1 | re-checked (nvr LI-I1) · Firecrawl scrape directQuote | https://alticeusa.com/node/3151 (resolves to optimum.com/about-us/news/…long-island-additional-40m-investment) | "(OCTOBER 1, 2024)" $40M additional investment; fibre "available to over 2.8 million passings across the New York tri-state area – including nearly 900,000 fiber passings on Long Island". | §5 para 4; §5.5; §9 A H3 1; §Sources |
+| LI-I2 | G3 / G4 | — | Optimum router settings online / port configuration; band steering complaint. | §9 A; §7 |
+| — | Verizon Fios LI availability, Comptroller broadband gap | carried in research/nvr-installation.md LI-I2/I3 — NOT re-checked → not used as figures; Fios named only as a provider. | — |
+
+#### Police / news (LI-N)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-N1 | re-checked (nvr LI-N1) · Firecrawl scrape directQuote | https://scpdshield.org/Initiatives | Camera Registry Program "allows citizens and business owners to register the locations of their video surveillance systems"; SCPD may "request program participants to check their video surveillance system for a specific date and time"; retrieval "at the convenience of the camera owner". Integrated Emergency Response System: remote access to "previously authorized I.P. based video monitoring systems" only "in the event of a true emergency, such as an active shooter attack, hostage situation or other immediate threat to life and property"; "opt into or out of the program at any time". | §5 para 4; §5.5; §8.5; §9 C H3 (registry); §10.5 Claim 7; §Sources |
+| LI-N2 | re-checked · Firecrawl scrape directQuote | https://gardencitypolice.net/private-camera-reg | "strictly voluntary and does NOT provide us access to security camera systems that are privately owned by participants"; detectives "may ask to inspect your surveillance video recorded during a finite period". Page metadata: 349 Stewart Ave, Garden City, NY 11530. | §9 C H3; §10.5 Claim 7; §13 Garden City; §Sources |
+| LI-N3 | re-checked · Firecrawl scrape directQuote | https://www.pdcn.org/CivicAlerts.aspx?AID=14776 | Posted Jan 16, 2026: burglary Wed Jan 14, 2026, 10:30 p.m.; subject entered "the delivery station in the rear of the Nordstrom Rack located at 1040 Old Country Road through an unlocked door and removed merchandise"; video released. (Store not named on page.) | §8 Old Country Road card; §13 card; §Sources |
+
+#### Licensing (LI-K)
+| # | Source | URL | Finding | Used |
+|---|---|---|---|---|
+| LI-K1 | G5 | dos.ny.gov | State licence requirements. | §8.5 |
+| LI-K2 | carried research/nvr-installation.md LI-K1/K2 (not re-checked) | nassaucountyny.gov/1547 ; suffolkcountyny.gov Consumer Affairs | County consumer-affairs offices license home improvement contractors. Used only as "each county has its own consumer-affairs office" (generic) — FLAG. | §8.5 bullet 2 |
+
+#### Places (LI-L)
+Levittown (LI-H1); Garden City / 349 Stewart Ave (LI-N2); Old Country Road, East Garden City (LI-N3); Uniondale (LI-P1 dateline); Riverhead county seat (LI-H3); East Hampton (LI-H4). Corridor names (Hempstead Turnpike, Jericho Turnpike, Sunrise Highway, Route 110, Route 58, Hauppauge, Ronkonkoma, Montauk Highway, LIE, LIRR) used as place names only — FLAG: no per-corridor source; Hauppauge park numbers carried in nvr research were NOT confirmed today (cmmllp page returned no text) → not used.
+
+#### Images (11) — Drive: no Super Live Plus folder; CompanyCam not connected → permanent image rule
+Viewed each (contact sheets + full Read). Rejected: ulster live-view tile with a parked car (possible plate), duplicate crops of the same scenes (fascia-corner family, storeroom family, bitrate-table family), Nassau monitor tiles with people. Captions say what is visible and that the photo is from an AESS job/example or a manufacturer product photo; none claims Long Island, a customer, or the Super Live Plus app.
+| Output (images/super-live-plus-app-support-repair/super-live-plus-app-support-repair-long-island-…) | Source |
+|---|---|
+| wall-monitor-camera-grid-below-ceiling-cables.webp | images/nvr-installation/nvr-installation-bronx-recorder-monitor-camera-grid-under-cable-runs.webp |
+| night-playback-tile-brick-wall-and-paved-lot.webp | images/nvr-installation/nvr-installation-bronx-recorder-playback-brick-wall-to-lot.webp |
+| infrared-channel-view-of-storeroom-doorway.webp | images/nvr-installation/nvr-installation-bronx-recorder-tile-dim-back-storeroom.webp |
+| store-monitor-tiles-of-shop-aisles.webp | images/lorex-camera-installation/lorex-camera-installation-manhattan-monitor-tiles-of-shop-aisles-and-shelving.webp |
+| patch-cable-bundles-down-equipment-rack.webp | images/nvr-installation/nvr-installation-staten-island-patch-cable-bundles-down-equipment-rack.webp |
+| network-cables-crossing-ceiling-beam.webp | images/lorex-camera-installation/lorex-camera-installation-long-island-loose-blue-and-white-network-cables-crossing-ceiling-beam.webp |
+| ceiling-camera-near-lit-exit-sign.webp | images/nvr-installation/nvr-installation-long-island-ceiling-camera-near-lit-exit-sign-in-office.webp |
+| white-dome-camera-at-fascia-corner-against-sky.webp | images/nvr-installation/nvr-installation-long-island-dome-camera-at-fascia-corner-against-sky.webp |
+| turret-camera-in-storeroom-ceiling-corner.webp | images/nvr-installation/nvr-installation-bronx-turret-camera-storage-room-corner.webp |
+| dome-camera-on-wall-arm-over-stone-facade.webp | images/lorex-camera-installation/lorex-camera-installation-hudson-valley-dome-camera-on-long-wall-arm-over-stone-facade.webp |
+| recorder-front-and-rear-ports-product-photo.webp | images/nvr-installation/nvr-installation-long-island-swann-recorder-front-and-rear-poe-ports-product-photo.webp (Swann product photo — not a TVT recorder; caption says so) |
+DAILY-LOG note: `images: 11 reused from images/nvr-installation/, images/lorex-camera-installation/ (no real Super Live Plus photos yet)`.
+
+#### FLAGS (LI hub)
+1. Prices: recorder replacement borrowed from DVR Upgrade base × 1.15/1.20 (see 1.6).
+2. House practices stated without external source (installer knowledge): NAT preferred over port forwarding; reserved DHCP address; recorder/router boot order after outages; battery units; cellular router backup; changing shared logins to revoke access; per-person recorder users; exporting from recorder rather than phone for police; seasonal-house checklist; one- to two-hour on-site fix time; two-hour arrival windows 8 AM–8 PM; "dispatched from Brooklyn".
+3. TVT NDAA statement (Jan 14, 2025) is an image; its contents were not read or relied on.
+4. FCC Covered List check returned the video-surveillance entries only; TVT absence stated as "not among the entries we read on October 18, 2026".
+5. Field Notes are Anwar-voice general method, not a specific job story — confirm or replace with a real island anecdote.
+
+---
+
+### LI page questions (super-live-plus-app-support-repair-long-island, rebuilt 2026-10-18)
+
+**§9 Q&A question H3s (8):**
+1. Optimum swapped our gateway during a fibre upgrade and the recorder dropped out of Super Live Plus — what did the new box change?
+2. Our cameras play on the kitchen Wi-Fi but go grey as soon as the phone is on cellular — why only at home?
+3. Fios installed a new router and our old port-forwarding rules are gone — should we rebuild them or switch the recorder to NAT?
+4. Out east our address has only one wired provider — can a cellular router keep Super Live Plus reachable?
+5. After PSEG restored power the recorder came back, but its clock is wrong — does that matter for the app?
+6. How can we tell from Florida or the city whether the recorder at our East End house is still recording?
+7. When we close the house for the winter, what should stay powered for Super Live Plus to keep working?
+8. Our shop’s recorder shares the internet with the card terminal — can watching the app from home slow down payments?
+
+**§9 statement H3s (non-questions, converted after reading the parallel Manhattan and Bronx pages at 13:15–13:17Z):** Taking the cameras back from a tenant who has moved out of the accessory apartment (Manhattan: roommate moved out); Sharing the driveway view with family in the city, without sharing your login (Manhattan: family abroad); Installation-day passwords that were never changed (Manhattan: factory password); What the Suffolk and Garden City camera registries do, and do not, give police (Manhattan: Connect New York log-in); Find the moment on the phone, export it from the recorder (Manhattan: detective asked for video; Bronx: back up a clip); When the app starts filling the phone (Manhattan: where do clips end up); Rebadged recorders: checking that Super Live Plus is the right app (Manhattan: dealer sticker); All-in-one camera apps and TVT-made recorders (Manhattan: VLC / home-automation hub); Offline only while you are abroad: the Domain setting (Manhattan: Domain before travelling); A Nassau store and a Suffolk store on one phone (Manhattan: walk-up and store on one phone); Three photos and two screenshots save most of a visit (Manhattan: what to have on hand).
+
+**§17 FAQ (9, = FAQPage):**
+1. Can you set up the app for a caretaker who looks after several East End houses?
+2. Will updating the app on our phones break the link to an older recorder?
+3. Our house is already monitored by an alarm company — will your work on the cameras interfere with it?
+4. Does somebody need to be at the house, or can you fix it remotely?
+5. Our recorder is several years old — how do we know whether it still works with the current app?
+6. Is it safe to give your technician the recorder’s admin password?
+7. What happens to our recorded footage if the recorder has to be replaced?
+8. Can a relative who prefers another language use Super Live Plus?
+9. Can we move the recorder to our other house and keep the same app setup?
+(Dropped after reading Manhattan: "subscription / cloud" (Manhattan: subscription fee; data to developer) and "iPad or computer" (Manhattan: Mac at the front desk). Dropped "how long does an on-site repair take" — masked 0.69 vs an old-template line.)
+
+**§10.5 claim H3s:** "Device offline means your internet is down"; "Just reboot the recorder and it will reconnect"; "Delete the app and reinstall it"; "Super Live Plus recorders are banned like Hikvision"; "Forward the recorder’s ports on your router and the app will work"; "The app stores your video in the cloud"; "Registering with the police lets them watch your cameras".
+
+**Borderline intents kept (FLAG):** Q1 (after a gateway swap) vs Bronx "installer is coming to put in a new gateway — what should we let them change" (before vs after); Q2 (works on Wi-Fi, not cellular) vs Manhattan "phone lists the recorder by an IP address — move it to the serial?" (symptom vs remedy; this is the LI thesis); Q3 (rules wiped by a new router) vs Manhattan "installer forwarded ports years ago — still open?" (lost vs lingering).
+
+**Intents this page owns:** ISP gateway swap after the fact; local-address-only device on cellular; rebuilding vs replacing port forwarding after a router change; cellular router for single-provider addresses; recorder clock after outage; remote proof-of-recording for a seasonal house; what stays powered in a closed house; app viewing vs card-terminal bandwidth; caretaker for several houses; alarm-company coexistence; app updates vs older recorders; remote vs on-site fix; old recorder vs current app; giving the admin password; footage on replacement; app languages; moving the recorder between houses.
+
+**Masked similarity (difflib on masked word lists, blocks ≥8 words) vs all 15 siblings incl. the new Bronx/Manhattan pages:** no body block ≥0.65; remaining matches are blueprint-fixed H2 patterns only ("Why … Properties Need …", "… for …'s Architecture", "Types of … We Install", "What AI Gets Wrong …", "… Near …'s Landmarks", "Every … Service on …", "… Across … and the …", "… Questions Answered").
+
+
+## Manhattan — REBUILD batch 2026-10-18 (super-live-plus-app-support-repair-manhattan): silo findings, question-register additions and local research
+
+## Super Live Plus App Support Repair — silo research (incoming, Manhattan rebuild)
+
+Written 2026-10-18 by the subagent rebuilding `super-live-plus-app-support-repair-manhattan` (queue line: `REBUILD | super-live-plus-app-support-repair-manhattan | Super Live Plus App Support Repair | Manhattan | up /super-live-plus-app-support-repair-nyc | direct phone (929) 560-0737 | GBP Bronx`). `research/super-live-plus-app-support-repair.md` does not exist; this file sits in `research/_incoming/` for the main run to merge with the Bronx and Long Island part files built in the same batch (merge, don't duplicate silo rows).
+
+Format per blueprint v2.3 §12.4: **exact query · platform · URL · finding · page+section used**. Tools: Firecrawl search/scrape (`mcp__Fire_Crawl__*`, markdown / query mode / PDF parser), WebSearch, WebFetch. Shell curl blocked. "Excerpt" = read only as a search-result snippet. Firecrawl does not open reddit.com pages → Reddit rows are excerpts.
+
+Page section labels (Manhattan page): §Hero, §Quick (instant action), §5 Neighborhood (+§5.5 facts), §Repair (same-day block + checks + symptom table), §6 Services (+ before/after table), §7 Architecture (+§7.5 method), §8 Commercial (+ single-location set-up, §8.5 rules), §9 Q&A (cluster → H3), §10 Equipment (+ brand table, connection table, ADT/Ring/SimpliSafe table), §10.5 AI Reality Check (H3 1–7), §11 Form, §12 Process (+ leave-behind list), §13 Landmarks, §14 Pricing (+ time table), §15 Packages (+ labor-only), §16 Complete services, §FieldNotes, §17 FAQ, §19 Siblings, §Sources.
+
+**Manhattan thesis:** *Super Live Plus has no cloud account — the recorder's own user name and password are the key, and in Manhattan the recorders behind it are anonymous white-label TVT-family boxes in walk-ups, tenement storefronts, small-landlord buildings and shared apartments.* The job is (1) identify the real hardware family behind the dealer sticker, (2) take the recorder off the open internet (remove port forwards/UPnP, move phones to the NAT serial-number path, check firmware against the TVT-family CVE record), (3) rebuild access as one named user per person so departures (roommates, staff, agents) are one deletion, changing access *last*, and (4) handle footage leaving the building (detectives, insurers, Connect New York, the Lower Manhattan camera network). Distinct from the Hik-Connect Manhattan thesis (cloud-account ownership transfer + FCC order) and the SmartPSS Manhattan thesis (desk PC on someone else's network).
+
+---
+
+### Part 1 — Silo-wide findings
+
+#### 1.1 Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only (rows R1–R6). |
+| 2 | Google People Also Ask | EMPTY (not accessible in build env) — no live Google SERP surface. |
+| 3 | Google PASF | EMPTY (not accessible in build env). |
+| 4 | Answer the Public | EMPTY (not accessible in build env). |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). §10.5 says so on the page and works from claims repeated on app-help sites/forums (rows A1–A4, I1–I4). |
+| 6 | Area landmarks | Manhattan section M-L1–M-L6. |
+| 7 | Area use cases / building stock | M-H1, M-H2, M-L3, M-L4. |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) — only WebSearch/Firecrawl backends; no Bing/DDG PAA, related or autocomplete surface. |
+| 9 | Local news | M-N1 (Gothamist). |
+| 10 | Hyperlocal | EMPTY for Super Live Plus specifically (no Manhattan hyperlocal item about the app surfaced). |
+| 11 | Yelp 1–3★ | `yelp security camera repair Manhattan NY review DVR app stopped working 1 star` · Firecrawl search → only Yelp search-listing pages (e.g. https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Central+Park%2C+Manhattan%2C+NY "Rating 4.4(1,597)"); no 1–3★ review text → EMPTY (not accessible in build env). Not used. |
+
+#### 1.2 The app (A)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| A1 | direct scrape · Firecrawl | https://play.google.com/store/apps/details?id=com.tvt.superliveplus | Title "SuperLive Plus"; developer link "Peng AnTai"; 3.3★, 53.3K reviews; 5M+ downloads; price 0; description "a professional mobile phone client software for digital video recorders and IP cameras in CCTV surveillance (compatible models only)"; updated Oct 8, 2026; what's new "Support account switching / Fixed some known issues"; data safety "No data shared with third parties", "No data collected"; privacy policy at autonatglb.com; "About the developer: TVT (HK) LIMITED", Rm 2102 Wang Cheong Enterprises Ctr, 65-69 Chai Wan Kok St, Tsuen Wan, Hong Kong; other Peng AnTai apps SuperLiveNVR, NVMS2 Plus, NVMS2. Reviews quoted on listing: 2020 crash during clip recording; "Doesn't connect on mobile reliably…"; 5/10/24 app signing off, fixed 6/2/24. | §5 para 1; §5.5; §10.5 H3 1, 5; §17 FAQ 1, 2, 10; §Sources |
+| A2 | `Super Live Plus app TVT Shenzhen developer NVR DVR` · WebSearch → WebFetch | https://apps.apple.com/bb/app/superlive-plus/id1058758642 | Seller Peng AnTai; "SuperLive Plus is a specially developed monitoring software for the iPhone"; versions 1.16.x 2025–2026 (device sharing, full-duplex intercom); 4.0★ from 2 ratings (Barbados store); iOS 12.1+, Mac macOS 12.0+ with Apple M1 or later, "Designed for iPad. Not verified for macOS"; privacy: diagnostics not linked to user, "not been verified by Apple". | §6 desk card; §17 FAQ 2, 8; §Sources |
+| A3 | `SuperLive Plus app server address region setting autonat` · Firecrawl search → scrape (PDF, query) | https://www.mysecuresystems.com/wp-content/uploads/SuperLivePlus-User-Manual.pdf | Add device by QR code, by IP+port on LAN, by WAN IP/domain; "Input my device (IP address/domain name), nick name, user and password"; default "admin" / "123456"; local settings: reserved disk space, record recycle, audio/shake alarm "when video loss/sensor/motion alarm occurs", snap, gesture password, auto sync; device sharing by pressing and holding the QR code; server list. | §5 para 2; §9 multi-property H3; §10.5 H3 6; §17 FAQ 3, 7; §Sources |
+| A4 | `Super Live Plus app TVT Shenzhen developer NVR DVR` · WebFetch | https://www.cctv42.co.uk/uploads/media/1dce4cac596dbb91e357e29dc831ecb922f395e5.pdf | Older SuperLive Plus manual: live view, playback from DVR HDD, PTZ only if device supports it, local alarms (not push), remote setting menu varies by DVR, H.264/H.265. Manufacturer not named. | Background §10.5 H3 6 |
+| A5 | `SuperLive Plus app server address region setting autonat` · Firecrawl scrape | https://videos.cctvcamerapros.com/support/topic/superlive-plus-mobile-app-offline | June 6, 2025: "SuperLive Plus is the iPhone and Android mobile app that is used with Viewtron security camera systems (DVRs, NVRs, and IP cameras)"; customer offline in Canada; fix "SETTINGS > LOCAL > select DOMAIN … set the DOMAIN to GLOBAL/AUTONATGLB.COM". | §Repair table; §10 brand table; §10.5 H3 7; §17 FAQ 5; §Sources |
+| A6 | same search · Firecrawl scrape | https://keironcheesbrough.com/help/remote_viewing | UK installer: "Download one app — SuperCam Plus or SuperLive Plus"; package names com.tvt.superliveplus / com.tvt.supercamplus; add via Server list + IP/DDNS/SN; username admin; "Older systems were left on 123456 — change it"; Macs with Apple silicon can use SuperCam Plus from the Mac App Store; some older recorders use AutoNAT in a browser (IE mode). | §5 para 1; §10 brand table; §10.5 H3 1; §17 FAQ 7, 8; §Sources |
+| A7 | `Super Live Plus device offline fix autonat server address` · WebSearch → WebFetch | https://forums.justuseapp.com/en/post/B4VZ25CGWS/device-offline | Eight generic steps: restart device, check network, force close, update app, reinstall app, permissions, restart router, contact support. No server names. | §10.5 H3 4; §Sources |
+| A8 | `SuperLive Plus app TVT …` · WebFetch | https://www.2mtechnology.net/knowledge-base/which-phone-app-do-i-use-to-view-my-cameras-2mt-7232/ | 2MT-7232 → Super Live Plus (2MN-7116 → Guarding Vision). | §10 brand table; §Sources |
+| A9 | `SuperLive Plus app server address region setting autonat` · Firecrawl scrape | https://community.home-assistant.io/t/superlive-plus-app-integration/553878 | Mar 2023: resident of "a block of flats" with Avision AV104T DVR uses SuperLive Plus Android app remotely; app shows HTTP, HTTPS, Server, RTSP ports; Sep 2023 reply: after finding "the manufacturer behind the Avision brand" a working RTSP format `rtsp://USERNAME:PASSWORD@IP:PORT/?chID=…&streamType=main&linkType=tcp`. | §5 para 1; §9 dealer-sticker H3; §10 brand table; §17 FAQ 6; §Sources |
+| A10 | `TVT Digital Technology Shenzhen 002835 …` · WebSearch → WebFetch | https://securitycamcenter.com/?p=5312 | SuperLivePro/SuperLive Plus "generally used by generic H.264 DVRs and H.265 NVRs", often sold with no brand or dealer label; enable NAT on recorder; scan QR; default password usually 123456. | §10 brand table; §Sources |
+| A11 | `Viewtron SuperLive Plus app NVR …` · WebFetch | https://videos.cctvcamerapros.com/?p=42576 | Viewtron VMS connects by serial number (recommended) or static IP ("we do not recommend"). | Background §10 connection table |
+
+#### 1.3 The hardware maker (T)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| T1 | `TVT Digital Technology Shenzhen 002835 surveillance company OEM` · WebSearch → WebFetch | https://www.morningstar.com.au/investments/security/SZSE/002835 | Shenzhen TVT Digital Technology Co Ltd (SZSE:002835): R&D, manufacture and distribution of video surveillance products — HD analog, IP and speed-dome cameras, NVR and hybrid DVR, software; 1,476 employees; HQ Nanshan, Shenzhen. | §5 para 1; §10 hybrid card; §Sources |
+| T2 | same · WebFetch | https://www.security-essen.de/impetus_provider/exhibitor-list/detail/shenzhen-tvt-digital-technology-co-ltd-20fbf | "established in 2004"; DVRs, IP cameras, hybrid DVR/NVR, mobile DVR, CMS/phone apps; customers in "more than 120 countries". | §5 para 1; §Sources |
+| T3 | `TVT NVR default server port 6036 http port 80 SuperLive Plus port forwarding` · Firecrawl search → scrape (PDF, query, 190 pp.) | https://tvtdigital.com.ua/wp-content/uploads/NVR-NV9000-_User_Manual.pdf | © Shenzhen TVT 2019. HTTP 80, HTTPS 443, server port 6036, RTSP 554; NAT / NAT2.0 enable → scan QR in mobile client; UPnP "convenient, but increases data leakage risk… disabling UPnP is recommended when not in use"; admin with no default password (set at first wizard); reset via security questions / recover to 123456 / users with "Account and Authority" permission; permission groups Administrator, Advanced, Ordinary, max 8 groups; allow/block lists; DDNS (e.g. www.dvrdydns.com). | §5 para 2–3; §5.5; §Repair; §6; §7.5; §9 clusters 1–3; §10 cards + connection table; §10.5 H3 2–3; §17 FAQ 7; §Sources |
+| T4 | Firecrawl scrape (Keiron A6) | https://keironcheesbrough.com/help/remote_viewing | SuperCam Plus = com.tvt.supercamplus (sister app). | §10.5 H3 1 |
+
+#### 1.4 Security record (S)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| S1 | `SuperLive Plus vulnerability CVE TVT NVR` · WebSearch → WebFetch (NVD page returned only shell → cvefeed) | https://cvefeed.io/vuln/detail/CVE-2018-25126 | NVMS-9000 firmware "contains hardcoded API credentials and an OS command injection flaw in its configuration services"; fixed credential → /editBlackAndWhiteList → root; "firmware from mid-February 2018 onward addresses the issue"; vendor Shenzhen TVT; used in "many white-labeled DVR/NVR/IPC products"; CVSS 4.0 9.3 Critical; published Nov 24, 2025. | §5 para 3; §5.5; §9 TVT-flaws H3; §10.5 H3 3; §Sources |
+| S2 | same · WebFetch | https://www.cvelogic.com/vendor/tvt | CVE-2025-34036 (2025-06-24) unauthenticated OS command injection in white-labeled TVT DVRs, "Cross Web Server" TCP 81/82; CVE-2024-7339 (2024-08-01) info disclosure `/queryDevInfo` in TD-2104TS-CL, TD-2108TS-HP, Provision-ISR SH-4050A5-5L(MM), AVISION AV108T, public exploit; CVE-2019-20085 NVMS-1000 directory traversal, listed in CISA KEV; CVE-2013-6023 TD-2308SS-B traversal. | §5 para 3; §9 TVT-flaws H3; §10 brand table; §10.5 H3 3; §Sources |
+| S3 | `Manhattan lobby surveillance DVR hacked cameras exposed online…` · Firecrawl search → scrape (query) | https://www.securityweek.com/40000-unprotected-security-cameras-found-on-internet/ | June 11, 2025: Bitsight found >40,000 cameras worldwide exposing live feeds over HTTP or RTSP; advice: secure connection, replace default credentials, disable unneeded remote access, update, monitor logins. | §10.5 H3 3; §Sources |
+
+#### 1.5 Forums / Reddit (R) — excerpts
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| R1 | `site:reddit.com "superlive plus" OR "super live plus" camera` · Firecrawl search | https://www.reddit.com/r/homesecurity/comments/1brss3t/remove_access_from_superlive_plus/ | "I gave my roommate access to our cctv camera footages through superlive plus. Recently they moved out and it wasn't a peaceful goodbye." | §5 para 2; §9 roommate H3; §Sources |
+| R2 | same | https://www.reddit.com/r/tinycam/comments/glptdp/superlive_plus/ | "I am not the owner of the cameras, but I can view them using the SuperLive Plus app with P2P by providing a 12 characters long UUID, a username…" | §9 serial-vs-address H3; §Sources |
+| R3 | same | https://www.reddit.com/r/SecurityCamera/comments/1h3n93v/dhcp_failure/ | Using SuperLive Plus over a year; app no longer shows green Wi-Fi symbol (DHCP failure). | Background §Repair table (address conflict row) |
+| R4 | same | https://www.reddit.com/r/homesecurity/comments/aqcv2h/security_camera_software_question/ | Recommended remote software NVMS-1000 and SuperLive Plus — "I never, ever, ever have a remote connection". | Background §10.5 |
+| R5 | same | https://www.reddit.com/r/homedefense/comments/ibiv26/dvr_question_is_someone_spying_on_me_through_my/ | "Superlive Plus and HiSharp look like apps to VIEW the cameras, but that's not the DVR system…" | Background §5 (app ≠ recorder) |
+| R6 | carried from research/hik-connect-app-support-repair.md M-B4 (Firecrawl 2026-10-15) | https://www.reddit.com/r/NYCapartments/comments/1qjxeao/anyone_else_struggle_with_wifi_in_prewar_railroad/ | Poster in "a pre-war NYC railroad-style two bedroom apartment" with "ongoing WiFi issues". | §9 Wi-Fi-camera-by-the-door H3; §Sources |
+
+#### 1.6 Other silo knowledge reused (sourced in other research files)
+| # | Source file / row | URL | Finding | Used |
+|---|---|---|---|---|
+| X1 | research/dvr-upgrade.md G3; research/apartment-building-security-camera-installation.md | https://nysenate.gov/legislation/laws/PEN/250.05 | Eavesdropping, one-party consent; class E felony. | §8.5 |
+| X2 | research/dvr-upgrade.md G1 | https://www.nysenate.gov/legislation/laws/CVR/52-A | Civil Rights Law §52-a backyard video imaging device, private right of action. | §8.5 |
+| X3 | research/smart-pss-support-setup.md M-K1 | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-131285 | Admin Code §22-1202 biometric signage for retail / food and drink establishments; face geometry. | §8.5 |
+| X4 | research/smart-pss-support-setup.md D/R rows (Dahua wiki, r/Dahua) | https://dahuawiki.com/SmartPSS_Lite | DMSS is Dahua's phone viewer (a different product). | §10.5 H3 1 |
+| X5 | research/smart-pss-support-setup.md M-L5 | https://en.wikipedia.org/wiki/Canal_Street_(Manhattan) | Canal St East Broadway → West St; southern edge of SoHo/Little Italy, northern edge of Tribeca; open storefronts, banks, jewelry shops to the east. | §8 card; §13 card |
+
+#### 1.7 Keywords — five layers (silo)
+- **Service:** Super Live Plus support, SuperLive Plus repair, Super Live Plus setup, remote viewing setup, access audit, remove user access, port-forward clean-up, firmware update, footage export, recorder replacement.
+- **Problem:** Super Live Plus not connecting, offline abroad / Domain setting, login refused, former roommate/employee still has access, shared admin password, default 123456 password, exposed ports, UPnP, factory reset lost users, Wi-Fi camera dropping, alerts all night.
+- **Technology:** TVT / TVT (HK), Peng AnTai, com.tvt.superliveplus, SuperCam Plus, NVMS-9000 / NVMS-1000, NAT / NAT2.0, serial number / QR, autonatglb.com, ports 80 / 6036 / 554 / 81–82, RTSP, DDNS, hybrid DVR, NVR, PoE, CVE-2018-25126, CVE-2024-7339, CVE-2025-34036, CVE-2019-20085.
+- **Industry:** small landlords, walk-ups, rent-stabilized buildings, tenement storefronts, delis/bodegas, restaurants, salons, small offices/studios, shared apartments, managing agents.
+- **Geographic (Manhattan page):** Manhattan; Canal Street; Chinatown (Mott, Grand, East Broadway); Lower East Side (Orchard Street, Delancey, Essex Crossing, Essex Market, 97 Orchard St); Washington Heights (St. Nicholas Ave, 181st St, GWB, Dyckman St); Lower Manhattan / Community District 1; East Village; Harlem; plus the "also serve" list.
+
+#### 1.8 Silo pricing (no invented prices) — FLAG
+The 16 old Super Live Plus pages publish no recorder-replacement figures. The Manhattan page uses only: $0 photo/screenshot review; protected service rate $195/hr, 3-hr minimum ($585) (v2.3 §9, verbatim, not multiplied); recorder replacement = **borrowed** DVR Upgrade silo base (research/dvr-upgrade.md §1.8) × Manhattan 1.25: 4-ch $563–$875, 8-ch $813–$1,250, 8-ch hybrid $1,000–$1,500, 16-ch $1,500–$2,750, 32-ch $2,750+ (same figures as the rebuilt Hik-Connect and SmartPSS Manhattan pages). **FLAG for Anwar: confirm the Super Live Plus silo may borrow the DVR Upgrade replacement prices.** The "where the three hours go" time table (§14) contains planning durations only, no prices. DHCR MCI figures ($2,556/camera etc.) are quoted as DHCR's reasonable-cost ceilings, explicitly "not our prices".
+
+---
+
+### Question register — Super Live Plus App Support Repair silo
+
+#### Old shared template (identical on all 16 pages before rebuild, incl. old Manhattan)
+Is Super Live Plus a camera brand? · Why does Super Live Plus say "device offline"? · Is Super Live Plus the same as SuperCam Plus or Q-See QT View? · Why can't I see live view or playback? · Can you recover my Super Live Plus password? · Why aren't my push notifications working? · Do you fix Super Live Plus systems you didn't install? · How much does Super Live Plus repair cost? · What areas do you cover? · (heading) Super Live Plus Offline Right Now?
+**Intents reserved by the register (not used as questions on Manhattan):** what-it-is/brand; generic device offline; SuperCam/QT View sameness; live view/playback failure; password recovery; push notifications; non-AESS systems; cost; coverage area.
+
+#### Manhattan page (new) — §9 Q&A (H3)
+1. A roommate moved out of our East Village apartment — how do we stop the cameras showing on their phone?
+2. The landlord, the handyman and two shopkeepers all use the same admin login — what does splitting that up involve?
+3. Can a tenant be shown one hallway camera without seeing the rest of the building?
+4. The building changed managing agents — does the old agent's phone keep working until someone acts?
+5. Our installer forwarded ports on the router years ago — are they still open, and do we still need them?
+6. How do we tell whether our white-label recorder carries one of the TVT flaws published since 2018?
+7. Is switching UPnP on a reasonable shortcut for getting the app working?
+8. The recorder carries a sticker from a dealer we've never heard of — how do you work out who made it?
+9. For a Manhattan shop, is it better to add the recorder to phones by serial number or by its address?
+10. A detective asked for last night's video from our storefront — can we send it from the phone app?
+11. Can a recorder our staff view in Super Live Plus be linked into Connect New York, and what do we keep control of?
+12. If we only register our cameras with Connect New York, can police log in to them?
+13. If the landlord replaces the camera system in a rent-stabilized building, can that turn into a rent increase?
+14. Our four-family walk-up has no super on site — who should hold the recorder's administrator password?
+15. Can a deli owner watch the register camera while the counter staff can't change any settings?
+16. The small-business security tax credit — can we still claim it for a camera repair?
+17. A counter worker used a personal phone to watch the shop — what should happen on their last day?
+18. We own a walk-up in Harlem and a store on Orchard Street — how do we keep the store manager out of the building's cameras?
+19. Family members abroad want to see the store — is that safe?
+20. How many people can sensibly share one recorder?
+21. Our apartment uses Wi-Fi cameras added straight to the app, with no recorder — does any of this apply?
+22. A Wi-Fi camera that worked on the kitchen counter keeps dropping once it's mounted by the door of our pre-war apartment — why?
+23. Should the cameras share the Wi-Fi network our laptops use?
+24. What should the owner have on hand when the technician arrives?
+25. Can the work be done while the store stays open?
+
+#### Manhattan page (new) — §17 FAQ (= FAQPage schema, 10)
+1. Why does the app store show a person's name, not a company, as the Super Live Plus developer?
+2. Does Super Live Plus send our camera data to the app developer?
+3. Where do clips recorded inside the app end up?
+4. How many days of video can our recorder keep?
+5. Should a New Yorker change the app's Domain setting before travelling abroad?
+6. Can the same recorder also feed VLC or a home-automation hub?
+7. How can we tell whether our recorder still has its factory password?
+8. Can Super Live Plus run on a Mac at the front desk?
+9. What happens to the cameras if the building's internet goes down?
+10. Is there a subscription fee for Super Live Plus?
+
+#### Semantic de-dup vs the parallel Bronx and Long Island rebuilds (read from disk 2026-10-18)
+- LI "caretaker for several East End houses" ↔ Manhattan multi-property question → Manhattan reframed to *keeping the store manager out of the building's cameras* (permission isolation, Q18).
+- LI "kitchen Wi-Fi works, grey on cellular" ↔ Manhattan IP-vs-serial question → Manhattan reframed as a *choice of method for a shop* (Q9).
+- Manhattan Q&A "family abroad" no longer answers the Domain intent (points to FAQ 5) so that intent is answered once.
+- Kept distinct after review: Bronx "son set up the app on his account" (cloud accounts) vs Manhattan (none); Bronx "QR sticker photographed" vs Manhattan (statement only, no question); Bronx "buses and headlights alerts" vs Manhattan §10.5 H3 6 (claim heading, not a question); LI "Fios new router, rebuild forwards or NAT" vs Manhattan Q5 (exposure audit of forwards still open).
+- Masked paragraph similarity (SequenceMatcher on geo-masked p/li/td/h3 blocks ≥12 words): first draft had 7 blocks ≥0.65 vs LI (instant-action bullet, Domain table cell, two pricing cells, calculator line, mid-CTA, package card, complete-services intro) — all rewritten; final re-run (after the Bronx and LI pages' latest saves) shows no block ≥ 0.62 vs any of the 15 siblings (highest 0.62, warranty sentence vs an LI hand-over paragraph).
+
+---
+
+### Manhattan
+
+#### M-H Housing / building stock
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-H1 | `Rent Guidelines Board housing supply report Manhattan rent stabilized units number by borough 2025` · Firecrawl search → scrape (PDF, query) | https://www.ibo.nyc.gov/assets/ibo/downloads/pdf/housing-and-buildings/2026/2026-may-segments-of-the-rent-stabilized-housing-stock.pdf | ~928,000 rent-stabilized apartments across ~43,000 buildings (2025); "only one of the City's 59 Community Districts has a median rent over $2,500—Manhattan Community District 1 in lower Manhattan" (pre-1974 stabilized). Manhattan totals given only as Core/Upper split (numbers not extracted) → not used. | §5.5; §13 CD1 card; §Sources |
+| M-H2 | same search (excerpt) | https://rentguidelinesboard.cityofnewyork.us/wp-content/uploads/2026/05/2026-HSR.pdf | RGB 2026 Housing Supply Report violation tables (Manhattan Class B/C). Ambiguous in excerpt → not used. | Not used |
+| M-H3 | Census ACS 2023 re-check · Firecrawl scrape | https://api.census.gov/data/2023/acs/acs5?get=… | "Missing Key" — EMPTY (not accessible in build env). Census figures therefore NOT used on this page. | Not used |
+
+#### M-K Local rules / programs
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-K1 | `DHCR major capital improvement closed circuit television security system eligible MCI operational bulletin` · Firecrawl search (excerpt) | https://govt.westlaw.com/nycrr/Document/I4f8a049ecd1711dda432a117e6e0f345 | 9 NYCRR 2502.4 schedule of MCIs: "TELEVISION SYSTEM: – new security monitoring system including additional components needed for the system." | §8.5; §9 MCI H3; §Sources |
+| M-K2 | same → Firecrawl scrape (PDF, query) | https://sidranelaw.com/wp-content/uploads/2023/11/operational-bulletin-2021-1-update-2.pdf | DHCR Update No. 2 to Operational Bulletin 2021-1 (issued January 4, 2023): New TV Security System — cameras $2,556 per camera, monitors $1,178 per monitor, receivers $1,193 per receiver. | §8.5 (as DHCR ceilings, not AESS prices); §9 MCI H3; §Sources |
+| M-K3 | `New York State commercial security tax credit retail theft cameras $3,000 small business 2024 budget` · Firecrawl search (excerpts) | https://nyc-business.nyc.gov/nycbusiness/description/nyscommercialsecuritytaxcredit ; https://www.nysenate.gov/legislation/laws/EXC/845-E ; https://www.governor.ny.gov/news/governor-hochul-announces-new-initiatives-crack-down-organized-retail-theft-and-protect | Refundable credit up to $3,000 per retail location; FY25 budget; Executive Law §845-e. | §8.5; §9 tax-credit H3; §Sources |
+| M-K4 | same → Firecrawl scrape (query, direct quote) | https://www.avigilon.com/blog/ny-retail-security-tax-credit | "This program expired at the end of 2025 and as of early 2026, it has not been renewed." Eligibility: ≤50 employees; expenses > $4,000 (≤25 employees) or > $6,000 (>25). | §8.5; §9 tax-credit H3; §Sources |
+| M-K5 | `Manhattan lobby surveillance … 2024 OR 2025` · Firecrawl search → scrape | https://newyorkcityconnect.org/ | Connect New York home page on 2026-10-18: 3,595 registered cameras, 1,453 integrated cameras. | §5 para 4; §5.5; §Sources |
+| M-K6 | Firecrawl scrape | https://newyorkcityconnect.org/camera-integration/ | Integration needs "a small fususCORE device that plugs into your router"; "Camera integration is free of charge"; voluntary; owner selects cameras and permissions; public-area-facing only; "Registering a camera does not provide the New York Police Department with any remote access…"; no facial recognition; AES-256, TLS 1.3 to AWS GovCloud; explicit written permission required. | §5.5; §6 Connect card; §8.5; §9 Connect H3s; §Sources |
+
+#### M-N News
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-N1 | `Manhattan lobby surveillance DVR hacked cameras exposed online New York building 2024 OR 2025` · Firecrawl search → scrape (query, direct quote) | https://gothamist.com/news/assume-theres-a-camera-now-how-911-spurred-nycs-vast-private-surveillance-network | David Brand, Sep 10, 2026: Lower Manhattan Security Initiative (2008) gave police access to thousands of cameras on public and private property south of Canal Street; Domain Awareness System now relies on what former Mayor Eric Adams described as more than 80,000 cameras; >5,500 cameras registered through Connect New York (Axon Fusus); plan to link 20,000 NYCHA cameras; 1998 NYCLU tally of 2,400 cameras across Manhattan. | §5 para 4; §5.5; §8 Canal card; §13 Canal card; §Sources |
+| M-N2 | same search (excerpts) | https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance ; https://prospect.org/2026/08/07/nyc-tenants-sue-over-spying-operation-in-public-housing/ | NYCHA camera feeds via Big Apple Connect; tenant lawsuit Aug 2026. | Not used (NYCHA not the page's audience) |
+
+#### M-L Landmarks / corridors
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| M-L1 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Chinatown,_Manhattan | Approx. borders Canal/Hester, Worth, East Broadway, Essex, Lafayette; main streets Canal, Mott, Grand, East Broadway; tenements; greengrocers, fishmongers, jewelers, banks, restaurants, mini malls; Community District 3; ZIPs 10013 and 10002; 5th Precinct. | §7 tenement card; §8 Mott/Grand card; §13 Chinatown card; §Sources |
+| M-L2 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Lower_East_Side | Between the Bowery and East River, Canal to Houston; first tenements at Corlear's Hook 1833; "new law" tenements with air shafts; Tenement Museum 97 Orchard Street; Orchard Street "Bargain District" now boutiques, restaurants, bars, galleries below Delancey especially around Broome and Orchard; Essex Crossing announced Sept 2013 at Essex and Delancey; Essex Market; 7th Precinct. | §7 tenement card; §8 Orchard + Essex cards; §13 Tenement Museum + Essex Crossing cards; §Sources |
+| M-L3 | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Washington_Heights,_Manhattan | Bounded by Dyckman St (Inwood), 155th St (Harlem), Harlem River, Hudson River; commercial streets St. Nicholas Ave, 181st St, Broadway; pre-war apartment buildings incl. five- and six-story New Law tenements; GWB, Fort Tryon, Morris-Jumel; 33rd and 34th Precincts. | §7 Upper Manhattan card; §8 St. Nicholas card; §13 GWB card; §Sources |
+| M-L4 | research/smart-pss-support-setup.md M-L5 (X5) | https://en.wikipedia.org/wiki/Canal_Street_(Manhattan) | see X5. | §8; §13 |
+| M-L5 | M-N1 | Gothamist | LMSI south of Canal. | §13 Canal card |
+| M-L6 | M-H1 | IBO | Community District 1 median-rent fact. | §8 Lower Manhattan card; §13 CD1 card |
+
+#### Manhattan sources EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG — EMPTY (not accessible in build env).
+- Yelp 1–3★ (Manhattan) — EMPTY (only listing pages).
+- Manhattan hyperlocal (Patch, West Side Rag, The Lo-Down, Manhattan Times) items about Super Live Plus — EMPTY (none surfaced).
+- Census ACS API — EMPTY (API key required in build env); no Census numbers on the page.
+- Field Notes: no real AESS Manhattan anecdote supplied → written as a method note ("change access last"), no story.
+
+#### Images
+images: 11 reused from images/security-camera-maintenance/, images/school-security-camera-installation/, images/apartment-building-security-camera-installation/ (no real Super Live Plus photos yet; Drive folder absent, CompanyCam not connected). `images/parking-lot-camera-installation/` does not exist in the tree. All 11 viewed before use; none show faces, plates, house numbers or readable documents; product photos are unbranded. Alt/title/caption describe only what is visible and say product photos are not from a Manhattan job and do not show Super Live Plus.
+
+| # | File (images/super-live-plus-app-support-repair/) | Source |
+|---|---|---|
+| 1 | super-live-plus-app-support-repair-manhattan-unbranded-rack-recorder-vented-front-product-photo.webp | images/security-camera-maintenance/security-camera-maintenance-bronx-rack-recorder-vented-front-product-photo.webp |
+| 2 | super-live-plus-app-support-repair-manhattan-bullet-camera-on-pendant-mount-at-office-ceiling.webp | images/security-camera-maintenance/security-camera-maintenance-nyc-bullet-camera-on-pendant-mount-office-ceiling.webp |
+| 3 | super-live-plus-app-support-repair-manhattan-black-camera-on-blue-wall-above-motion-sensor.webp | images/security-camera-maintenance/security-camera-maintenance-bronx-wall-camera-above-motion-sensor.webp |
+| 4 | super-live-plus-app-support-repair-manhattan-mini-dome-over-wood-slat-wall-by-light-panel.webp | images/security-camera-maintenance/security-camera-maintenance-queens-mini-dome-over-wood-slat-wall-near-light-panel.webp |
+| 5 | super-live-plus-app-support-repair-manhattan-small-cameras-high-on-double-height-wall.webp | images/school-security-camera-installation/school-security-camera-installation-manhattan-small-cameras-on-high-wall-of-double-height-room.webp |
+| 6 | super-live-plus-app-support-repair-manhattan-ceiling-dome-camera-over-glass-entrance-wall.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-manhattan-dome-camera-on-ceiling-over-glass-entrance.webp |
+| 7 | super-live-plus-app-support-repair-manhattan-bullet-camera-in-back-corridor-toward-door.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-manhattan-bullet-camera-on-ceiling-grid-in-back-corridor.webp |
+| 8 | super-live-plus-app-support-repair-manhattan-dome-camera-under-water-stained-ceiling-tiles.webp | images/security-camera-maintenance/security-camera-maintenance-bronx-dome-camera-under-water-stained-ceiling-tiles.webp |
+| 9 | super-live-plus-app-support-repair-manhattan-mini-camera-at-ceiling-edge-above-lit-soffit.webp | images/security-camera-maintenance/security-camera-maintenance-orange-county-mini-camera-at-ceiling-edge-above-lit-soffit.webp |
+| 10 | super-live-plus-app-support-repair-manhattan-four-dome-cameras-and-recorder-kit-product-photo.webp | images/security-camera-maintenance/security-camera-maintenance-brooklyn-four-dome-camera-recorder-kit-product-photo.webp |
+| 11 | super-live-plus-app-support-repair-manhattan-recorder-live-view-tiles-with-date-stamp.webp | images/security-camera-maintenance/security-camera-maintenance-nyc-recorder-live-view-with-date-and-time-stamp.webp |

@@ -280,9 +280,9 @@ LIVE REBUILD | smart-pss-support-setup-bronx | Smart PSS Support Setup | Bronx |
 LIVE REBUILD | smart-pss-support-setup-manhattan | Smart PSS Support Setup | Manhattan | up /smart-pss-support-setup-nyc | (929) 560-0737 | GBP Bronx
 LIVE REBUILD | smart-pss-support-setup-ulster-county | Smart PSS Support Setup | Ulster | up /smart-pss-support-setup-hudson-valley | (845) 640-3835 | GBP Bronx
 HOLD-RULE 2026-10-18 (up-link decision needed, see DAILY-LOG) REBUILD | structured-cabling-pricing-suffolk-county | Structured Cabling Pricing | Suffolk | up / | (631) 407-2884 | GBP Brooklyn
-BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-bronx | Super Live Plus App Support Repair | Bronx | up /super-live-plus-app-support-repair-nyc | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-long-island | Super Live Plus App Support Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-18T12:38Z REBUILD | super-live-plus-app-support-repair-manhattan | Super Live Plus App Support Repair | Manhattan | up /super-live-plus-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
+LIVE REBUILD | super-live-plus-app-support-repair-bronx | Super Live Plus App Support Repair | Bronx | up /super-live-plus-app-support-repair-nyc | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | super-live-plus-app-support-repair-long-island | Super Live Plus App Support Repair | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE REBUILD | super-live-plus-app-support-repair-manhattan | Super Live Plus App Support Repair | Manhattan | up /super-live-plus-app-support-repair-nyc | (929) 560-0737 | GBP Bronx
 LIVE REBUILD | super-live-plus-app-support-repair-nyc | Super Live Plus App Support Repair | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE REBUILD | super-live-plus-app-support-repair-orange-county | Super Live Plus App Support Repair | Orange | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | super-live-plus-app-support-repair-putnam-county | Super Live Plus App Support Repair | Putnam | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx
