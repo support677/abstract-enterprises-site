@@ -307,9 +307,9 @@ LIVE REBUILD | warehouse-security-camera-installation-manhattan | Warehouse Secu
 LIVE REBUILD | warehouse-security-camera-installation-nassau-county | Warehouse Security Camera Installation | Nassau | up /warehouse-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 LIVE REBUILD | warehouse-security-camera-installation-queens | Warehouse Security Camera Installation | Queens | up /warehouse-security-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 LIVE REBUILD | wireless-camera-installation-hudson-valley | Wireless Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-nassau-county | Wireless Camera Installation | Nassau | up /wireless-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
-BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-nyc | Wireless Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-10-18T16:47Z REBUILD | wireless-camera-installation-westchester-county | Wireless Camera Installation | Westchester | up /wireless-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE REBUILD | wireless-camera-installation-nassau-county | Wireless Camera Installation | Nassau | up /wireless-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
+LIVE REBUILD | wireless-camera-installation-nyc | Wireless Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE REBUILD | wireless-camera-installation-westchester-county | Wireless Camera Installation | Westchester | up /wireless-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
 REBUILD | access-control-installation-bay-ridge-brooklyn-ny | Access Control Installation | Bay Ridge, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-bedford-park-bronx-ny | Access Control Installation | Bedford Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-bensonhurst-brooklyn-ny | Access Control Installation | Bensonhurst, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
