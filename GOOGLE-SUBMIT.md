@@ -250,3 +250,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-putnam-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-staten-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-manhattan | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-orange-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-bronx | QUEUED
