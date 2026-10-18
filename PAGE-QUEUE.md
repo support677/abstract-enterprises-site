@@ -229,9 +229,9 @@ LIVE | commercial-security-camera-installation-dutchess-county | Commercial Secu
 LIVE REBUILD | dahua-camera-installation-long-island | Dahua Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE REBUILD | dahua-camera-installation-orange-county | Dahua Camera Installation | Orange | up /dahua-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 LIVE REBUILD | dahua-camera-installation-suffolk-county | Dahua Camera Installation | Suffolk | up /dahua-camera-installation-long-island | (631) 407-2884 | GBP Brooklyn
-REBUILD | door-buzzer-installation-ulster-county-ny | Door Buzzer Installation | Ulster | up /door-buzzer-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
-REBUILD | dvr-upgrade-brooklyn | DVR Upgrade | Brooklyn | up /dvr-upgrade-nyc | (347) 934-8335 | GBP Brooklyn
-REBUILD | dvr-upgrade-nassau-county | DVR Upgrade | Nassau | up /dvr-upgrade-long-island | (516) 346-5778 | GBP Brooklyn
+BUILDING 2026-10-18T04:20Z REBUILD | door-buzzer-installation-ulster-county-ny | Door Buzzer Installation | Ulster | up /door-buzzer-installation-hudson-valley-ny | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T04:20Z REBUILD | dvr-upgrade-brooklyn | DVR Upgrade | Brooklyn | up /dvr-upgrade-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T04:20Z REBUILD | dvr-upgrade-nassau-county | DVR Upgrade | Nassau | up /dvr-upgrade-long-island | (516) 346-5778 | GBP Brooklyn
 REBUILD | dvr-upgrade-putnam | DVR Upgrade | Putnam | up /dvr-upgrade-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | dvr-upgrade-queens | DVR Upgrade | Queens | up /dvr-upgrade-nyc | (347) 434-6392 | GBP Bronx
 REBUILD | dvr-upgrade-staten-island | DVR Upgrade | Staten Island | up /dvr-upgrade-nyc | (347) 934-8335 | GBP Brooklyn
