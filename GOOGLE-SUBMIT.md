@@ -312,3 +312,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fieldston-bronx-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-fulton-ferry-brooklyn-ny | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-gowanus-brooklyn-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-harding-park-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-indian-village-bronx-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-laconia-bronx-ny | QUEUED
