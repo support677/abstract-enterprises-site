@@ -940,3 +940,479 @@ Borderline pairs for the coordinator: "monitors light up but door won't release 
 ### Build notes
 - check_page.py: PASS (full, with registration — existing sibling back-links and hub link already point to /intercom-repair-putnam-county). 13,924 rendered words; title 56; meta 158; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; 194,158 B (siblings 80–96 KB).
 - Masked-geo block similarity (p/li/h2/h3/td/figcaption ≥8 masked words, word-level SequenceMatcher) vs all 14 intercom-repair siblings: only block ≥0.65 is the blueprint-fixed H2 "What AI Gets Wrong About Intercom Repair in [Area]" (0.62–0.78 vs "What Google AI Overview gets wrong about … pricing"). Next highest 0.57 (diagnostic table cell). Thesis: Putnam intercoms are gate call boxes, lake-house door stations, condo/55+/senior entries and shared Main Street doors — repair is about distance, cold, power/lightning, phone-line changes, and the fact that NYC's MDL/HPD regime does not apply by default.
+
+
+## Staten Island — merged 2026-10-18 from the Staten Island build (silo findings, question register incl. this page's questions, local section)
+
+## Intercom Repair — silo research (INCOMING, from the Staten Island rebuild)
+
+Created 2026-10-18 by the REBUILD subagent for `intercom-repair-staten-island` (queue line: `REBUILD | intercom-repair-staten-island | Intercom Repair | Staten Island | up /intercom-repair-nyc | (347) 934-8335 | GBP Brooklyn`).
+
+**Why this file is named `_incoming-…`:** `research/intercom-repair.md` did not exist when this run started, and a concurrent run (`intercom-repair-putnam-county`) may create it. To avoid a write collision this run writes here; the main run should merge Part 1 + the question register + the `## Staten Island` section into `research/intercom-repair.md`.
+
+Tools used: Firecrawl search (`mcp__Firecrawl__firecrawl_search`), Firecrawl scrape (`mcp__Firecrawl__firecrawl_scrape`, markdown / summary / directQuote). Shell curl blocked. Rows marked "carried from <file>" were fetched by earlier 2026-10-17/18 Staten Island builds and re-used, not re-fetched.
+
+---
+
+### Part 1 — Silo-wide findings (usable on every intercom-repair page)
+
+#### 1.1 Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | Excerpts only via Firecrawl search (scrape of reddit.com refused for this silo per earlier runs). Rows R1–R6. |
+| 2 | Google People Also Ask | EMPTY (not accessible in build env) — no live Google SERP panels. |
+| 3 | Google PASF | EMPTY (not accessible in build env). |
+| 4 | Answer the Public | EMPTY (not accessible in build env). |
+| 5 | Google AI Overview | EMPTY (not accessible in build env). Page §10.5 says so and tests seven published claims instead (rows A1–A7). |
+| 6–7 | Landmarks / building stock | `## Staten Island` rows SI-H, SI-L. |
+| 8 | Bing & DuckDuckGo | `https://html.duckduckgo.com/html/?q=intercom+repair+staten+island` · Firecrawl scrape → "All scraping engines failed". Bing not reachable either. → EMPTY (not accessible in build env). |
+| 9–10 | Local news / hyperlocal | SI Advance (silive.com), NYC Comptroller (via silive), NYCEDC, New York YIMBY — rows SI-N. |
+| 11 | Yelp 1–3★ | `yelp intercom repair Staten Island review technician never showed buzzer` · Firecrawl search → Yelp search-list pages only (Jericho NY, Burr Ridge IL, Lighthouse Hill SI list, a Yelp Q&A page); no 1–3★ review text → EMPTY (not accessible in build env). Not used. |
+
+#### 1.2 Reddit (silo)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| R1 | `reddit intercom buzzer not working apartment landlord won't fix NYC` · Firecrawl search | https://www.reddit.com/r/AskNYC/comments/10uzqs0/landlord_wont_fix_my_intercom_is_there_any_legal/ | Excerpt: "Call 311 every day until fixed. Landlords are required to keep buzzers in working order if the building has more than 8 units and was built or …" | SI §9 cluster D (tenant side, paraphrased as "residents' advice is to call 311"); not quoted |
+| R2 | same | https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/ | Excerpt: advice to fix it and withhold the cost from rent after a deadline | Background only (legal risk — not repeated on page) |
+| R3 | same | https://www.reddit.com/r/AskNYC/comments/17knzko/front_door_buzzer_broken_at_walkup_apartment/ | Excerpt: "File initial complaint with agency. Call 311 …" | Background |
+| R4 | `reddit StatenIsland intercom OR buzzer apartment building` · Firecrawl search | https://www.reddit.com/r/AskNYC/comments/196ra0z/cost_to_upgrade_buzzer_system_for_low_ride/ | Excerpt: "We have a brand new Internet connected intercom system that pings our phones … Packages are stolen weekly" | SI §9 package-theft H3 (paraphrased, attributed to a NYC renter on r/AskNYC) |
+| R5 | same | https://www.reddit.com/r/AskNYC/comments/dcbtmb/apartment_buzzer_wiring/ | Excerpt: "You should not be altering the building intercom without explicit permission in writing from the landlord." | SI §9 two-family H3 (owner-permission point) |
+| R6 | same | (no r/StatenIsland thread in results) | r/StatenIsland: no intercom thread surfaced → EMPTY for the local sub | — |
+
+#### 1.3 Law, code and agency (silo)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| G1 | `NYC Multiple Dwelling Law intercom requirement eight or more apartments HPD intercom violation` · Firecrawl search → scrape (directQuote, pdf) | https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf | MDL §50-a: class A multiple dwellings erected/converted after Jan 1 1968 with 8+ apartments "shall also be equipped with an intercommunication system" at the self-locking main-entrance door, voice communication and door release from each apartment; pre-1968 class A buildings must install doors + intercom if tenants occupying a majority of apartments request/consent in writing (installation start within 90 days, complete within six months; one year for a municipal housing authority); owner who fails to install and maintain, and any person who wilfully damages/jams the equipment, is guilty of a misdemeanor | SI §5 para 3; §5.5 bullet 3; §8.5 bullet 1; §9 pre-1968 H3; §10.5 H3 3; Sources |
+| G2 | same search (excerpt) | https://butterflymx.com/blog/nyc-intercom-law/ | Rule "generally applies to Class A multiple dwellings with eight or more units built or converted after January 1, 1968"; buildings before 1968 "require closer review" | §10.5 H3 3 (as the claim being refined) |
+| G3 | `HPD intercom violation class B "intercom" Housing Maintenance Code inoperative` · Firecrawl search → scrape (directQuote) | https://weverit.com/building/ny/new-york/1440-richmond-terrace-staten-island-10310 | Open HPD Class B violation on a Richmond Terrace, Staten Island building, issued 2014-10-06: "§ 27-2005 ADM CODE PROPERLY REPAIR THE BROKEN OR DEFECTIVE INOPERATIVE INTERCOM WITH RETURN BUZZER SYSTEM …" — open about 12 years | SI §5 para 3 (address not named on page); §5.5 bullet 4; Sources |
+| G4 | same search (excerpt) | http://www.nycourts.gov/reporter/3dseries/2021/2021_50805.htm | Anumudu v Bennett (2021): court assessed civil penalty for a broken-intercom violation (HMC § 27-2115) | Background (not on page) |
+| G5 | `silive.com tenants intercom broken building Staten Island 2025 OR 2026` · Firecrawl search (excerpt) | https://portal.311.nyc.gov/article/?kanumber=KA-01074 | 311 Apartment Maintenance Complaint covers "Doorbells, buzzers, or intercoms that are broken or missing" (apartment and public area) | SI §9 NYCHA/rental H3; §8.5 bullet 2; Sources |
+| G6 | `NYCHA how to report repair intercom door MyNYCHA app Customer Contact Center 718-707-7771` · Firecrawl search (excerpts) | https://www.nyc.gov/site/nycha/residents/nycha-repairs-process.page ; https://www.nyc.gov/site/nycha/residents/customer-contact-center.page | Building repairs incl. broken lobby doors and locks: CCC (718) 707-7771 or MyNYCHA app/website; CCC 24/7 for emergencies, routine scheduling Mon–Fri 6 AM–midnight | SI §9 NYCHA H3; Sources |
+| G7 | carried from floodlight-camera-installation.md (silo G1) | https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page | Line-voltage electrical work in NYC needs a licensed master electrician + DOB permit | SI §8.5 bullet 3 (120-V feed to a transformer or strike power supply) |
+
+#### 1.4 Equipment, phone lines, cost guides (feed §10.5)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| A1 | `intercom repair cost apartment building handset lobby panel` · Firecrawl search (excerpt) | https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/ | "Apartment intercom replacement often starts around $2,200 to $5,000 for a small building, while minor repairs typically run $150 to $400." | §10.5 H3 1 |
+| A2 | same (excerpt) | https://www.uasecurity.com/intercom-repair-cost-nyc.htm | NYC competitor: "many qualifying common, accessible apartment intercom and buzzer repairs … fall within a $150–$250 flat-rate range" | §10.5 H3 2 (competitor not named on page; "flat-rate" claim tested) |
+| A3 | same (excerpt) | https://www.connextivity.com/insights/intercom-repair-replacement-nyc | "Component replacements for apartment stations, panel components, or power supplies typically run $500 to $1,500." | Background |
+| A4 | `Aiphone discontinued intercom models replacement GT JK LEF compatible` · Firecrawl search → scrape (summary) | https://www.seclock.com/education/entry/aiphone-discontinuing-jk-series | Aiphone JK Series discontinued effective Sept 30 2019; no direct component replacements; JO and IS series named as alternatives | §10.5 H3 5; §9 high-ranch H3 (no — kept to §10.5); Sources |
+| A5 | `Verizon copper landline retirement New York 2025 PSC elevator gate call box phone lines` · Firecrawl search → scrape | https://saugertiesny.gov/verizons-proposal-retire-copper | Sept 28 2026: Verizon seeking FCC approval to retire POTS for portions of New York; discontinuance "on or after November 30, 2026", not a single statewide date; customers get notice of their specific date; FCC Docket No. 26-252; POTS line powered from the central office | SI §9 call-box H3 (statement heading); §10.5 H3 6; Sources |
+| A6 | same (excerpt) | https://www.news10.com/news/verizon-moving-away-from-copper-landlines-what-customers-need-to-know/ | Fewer than 3% of Verizon customers nationwide still on copper; if no viable replacement, copper stays | §9 call-box section |
+| A7 | `cloud video intercom stops working when building internet goes down cellular backup ButterflyMX offline` · Firecrawl search (excerpts) | https://butterflymx.com/blog/cloud-based-video-intercom/ ; https://butterflymx.com/blog/butterflymx-bluetooth/ | Whether a cloud intercom works during an internet outage "depends on the system's documented local-fallback design"; ButterflyMX offers Bluetooth fallback for swipe-to-open on compatible hardware | §9 internet-down H3; §10.5 H3 7 |
+| A8 | same search (excerpt) | https://butterflymx.com/blog/intercom-not-working/ | Manufacturer troubleshooting: disconnected power or weak Wi-Fi first | §10.5 H3 4 |
+
+#### 1.5 Five keyword layers (silo)
+- **Service:** intercom repair, buzzer repair, door entry repair, video intercom repair, call box repair, door release repair, intercom service.
+- **Problem:** intercom not working, buzzer not ringing, door won't unlock from apartment, no audio / one-way audio, constant buzzing, panel dead after storm, app not ringing, gate call box dead after phone-line change.
+- **Technology:** 2-wire / multi-wire audio, transformer and power supply, electric strike, maglock, mullion keypad, telephone-entry call box (POTS / cellular), IP/SIP video door station, cloud intercom app, PoE, Bluetooth fallback.
+- **Industry / property:** two-family houses, townhouse condominium associations, garden apartments, walk-ups (8+ units, MDL §50-a), public housing (NYCHA — refer out), new rental buildings, medical offices and storefronts.
+- **Geographic (SI only):** Staten Island, North Shore (St. George, Tompkinsville, Stapleton, New Brighton, West Brighton, Port Richmond, Mariners Harbor), Mid-Island, East Shore, South Shore, Bay Street, Richmond Terrace, Hylan Boulevard, Forest Avenue, Victory Boulevard, Richmond Avenue.
+
+#### 1.6 Prices (silo) — basis for every area page
+Brooklyn page (`intercom-repair-brooklyn.html`) and NYC hub (`intercom-repair-nyc.html`) carry the **same base** for the common lines: diagnostic $150–$300; apartment handset $250–$600; lobby panel component $400–$1,200; lobby panel retrofit $1,500–$3,500; transformer/power supply $300–$800; door release strike $350–$900; bus wiring repair $1,000–$3,000; small building full system $4,500–$12,000; mid-size IP system $12,000–$28,000; maintenance contract $600–$2,400/yr. Brooklyn-only lines: house/brownstone video monitor swap $300–$750; marine-grade coastal panel $1,400–$3,800; Mircom TX3 directory rebuild $350–$750. Service/callback rate $195/hr, 3-hr min ($585) — protected, not multiplied.
+**FLAG:** old Staten Island page said "pricing matches NYC base" plus a "~$25" Verrazzano toll surcharge on diagnostics — not §9 (1.10×). Rebuild applies §9.
+
+---
+
+### Question register — every question on every Intercom Repair page
+
+Extracted 2026-10-18 from the files on disk (headings, FAQ items and bold Q&A labels containing "?"). The putnam-county entry is the pre-rebuild file (a concurrent run is rebuilding it).
+
+<!-- register -->
+### intercom-repair-bronx 18
+  - Why do Bronx intercom repair quotes vary so wildly? Cost
+  - My Tremont landlord says intercom repair is "too expensive" — what do I push for? Cost
+  - How do I find a licensed Bronx intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Bronx handyman for a quick fix? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Co-op City panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors can hear me but I can't hear them in our Fordham building — what part is dead? Technical
+  - Why does my City Island intercom keep dying every 3 years? Technical
+  - My Bronx landlord ignored my intercom complaint 6 weeks — HPD next steps? Landlord/Tenant
+  - I'm a small Bronx landlord with a 14-unit Wakefield walk-up — what do I owe tenants? Landlord/Tenant
+  - Tech showed up in Parkchester, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $40k to "completely replace" our Co-op City building system when one apt died. Reasonable? Complaints
+  - Where can I get my Bronx intercom fixed? Licensed NYS low-voltage contractor based in the Bronx — same-day from our 460 E Fordham Rd HQ. Avoid out-of-state chains.
+  - How fast is same-day in the Bronx? 1–3 hours typical — closest possible response since our HQ is in the Bronx. HPD-cited buildings prioritized.
+  - Can Co-op City buildings be upgraded without full rewiring? Yes. Aiphone GT and Mircom TX3 retrofit kits reuse existing 2-wire and 6-wire cable. Critical for the 35-building scale.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-brooklyn 18
+  - Why do Brooklyn intercom repair quotes vary so wildly? Cost
+  - My Bushwick landlord says intercom repair is "too expensive" — what do I push for? Cost
+  - How do I find a licensed Brooklyn intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Brooklyn handyman for a quick fix? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors can hear me but I can't hear them — what part is dead? Technical
+  - Why does my Brighton Beach intercom keep dying every 3 years? Technical
+  - My Brooklyn landlord ignored my intercom complaint 6 weeks — HPD next steps? Landlord/Tenant
+  - I'm a small Brooklyn landlord with a 14-unit Crown Heights walk-up — what do I owe tenants? Landlord/Tenant
+  - Tech showed up in Williamsburg, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $16k to "completely replace" our 22-unit Crown Heights system when one apt died. Reasonable? Complaints
+  - Where can I get my Brooklyn intercom fixed? Licensed NYS low-voltage contractor based in Brooklyn — same-day from our Crown Heights shop. Avoid out-of-state chains.
+  - How fast is same-day response in Brooklyn? 2–4 hours typical — fastest in NYC since our shop is in Crown Heights. HPD-cited buildings prioritized.
+  - Can a brownstone intercom be upgraded without damaging brickwork? Yes. Aiphone JO and Comelit Mini retrofit kits reuse existing vestibule conduit and concealed wiring.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-dutchess-county 15
+  - Why do Dutchess County intercom repair quotes vary so wildly? Cost
+  - I'm a Dutchess homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Dutchess County intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Dutchess handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Poughkeepsie walk-up lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Poughkeepsie building — what is dead? Technical
+  - Why does my Beacon or Poughkeepsie Hudson-facing intercom keep dying every 3 years? Technical
+  - I run a Dutchess commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Dutchess small commercial property owner with an 18-unit Poughkeepsie walk-up — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Rhinebeck, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $19k to "completely replace" our 22-unit Poughkeepsie system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-hudson-valley 16
+  - Why is HV intercom repair more expensive than NYC pricing I see online? Cost
+  - My intercom died after the ice storm — is repair worth it or just replace? Cost
+  - How do I find a real licensed HV intercom guy and not get burned? Quality/Trust
+  - Is it worth the extra cost vs hiring a local handyman in Kingston or Newburgh? Quality/Trust
+  - Can I just program my DoorKing 1812 directory myself? DIY/Pro
+  - My handyman "fixed" the gate intercom and now nothing works — recoverable? DIY/Pro
+  - Why does my gate intercom ring but no one's pressing the button? Technical
+  - Visitors can hear me but I can't hear them at the gate — what's dead? Technical
+  - My residential video intercom monitor went black after a thunderstorm. Fixable? Technical
+  - We bought a property in Rhinebeck with an old Nutone intercom — can it be saved? Residential/Commercial
+  - Our medical office in White Plains needs HIPAA-aware intercom — does that exist? Residential/Commercial
+  - Show up, charge $400, intercom still broken — what's my recourse? Complaints
+  - Got a $22k quote to "completely replace" our community gate system. Is that real? Complaints
+  - How much to convert a landline gate intercom to cellular? $1,800–$3,500 for the new LTE-capable gate station and installation; cellular service runs $15–$35/mo per panel.
+  - Why is the gate intercom directory full? Older DoorKing 1812 and Linear AE-100 have hard caps on directory entries. Upgrade to 1838 or AE-1000 (or IP cloud) for unlimited entries.
+  - How long does HV intercom repair take? 30 min to 2 hours for component swaps; 4–8 hours for gate panel replacements; 2–5 days for full HOA gate system overhauls.
+### intercom-repair-long-island 17
+  - Why is Hamptons intercom repair more expensive than Nassau? Cost
+  - My intercom died after Hurricane Henri / Hurricane Lee / the latest nor'easter — repair or insurance claim? Cost
+  - How do I find a real licensed LI intercom guy and not get burned? Quality/Trust
+  - Is it worth more than hiring a Babylon or Patchogue handyman? Quality/Trust
+  - Can I just reprogram my DoorKing 1812 directory myself? DIY/Pro
+  - My handyman "fixed" the gate and now nothing works — can it be reversed? DIY/Pro
+  - Why does my gate panel keep dying every 3 years near the beach? Technical
+  - Visitors can hear me but I can't hear them at the gate — what's dead? Technical
+  - Why is my Aiphone JO black-screen after a thunderstorm? Technical
+  - We bought a Garden City house with a Nutone intercom from 1978 — save it? Residential/Commercial
+  - Our medical office in Lake Success needs HIPAA-compatible intercom — exists? Residential/Commercial
+  - Tech showed up in Sag Harbor, charged $500, intercom still broken — recourse? Complaints
+  - Got a $28k quote to "modernize" our HOA gate system. Real or rip-off? Complaints
+  - Can salt air really kill my intercom? Yes — coastal LI properties within 1,000 feet of saltwater see standard panels corroded inside 5–8 years. Marine-grade replacements last 4–5× longer.
+  - How much to convert a landline gate intercom to cellular? $2,100–$4,000 for a new LTE gate station + installation; cellular service $15–$35/mo per panel.
+  - Why is the gate intercom directory full? Older DoorKing 1812 and Linear AE-100 have hard caps. Upgrade to 1838 / AE-1000 or IP cloud for unlimited entries.
+  - Can I keep my existing wiring during an upgrade? In most LI walk-ups and condos, yes. Comelit Ultra, Aiphone GT, and Akuvox retrofit kits are designed to reuse legacy cable.
+### intercom-repair-manhattan 18
+  - Why do Manhattan intercom repair quotes vary so wildly? Cost
+  - My Manhattan landlord says intercom repair is "too expensive" — what do I push for? Cost
+  - How do I find a licensed Manhattan intercom guy approved for my co-op? Quality/Trust
+  - Is it worth more than hiring a building handyman for a quick fix? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my UES intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them — what part is dead? Technical
+  - Door release works for some apartments, not mine — wiring or station? Technical
+  - My Manhattan landlord ignored my intercom complaint 6 weeks. HPD next steps? Landlord/Tenant
+  - I'm a small Manhattan landlord with a 12-unit Inwood walk-up — what do I legally owe tenants? Landlord/Tenant
+  - Tech showed up in SoHo, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $18k to "upgrade" our pre-war system when one station died. Reasonable? Complaints
+  - Where can I get my Manhattan intercom fixed? Licensed NYS low-voltage contractor with Manhattan co-op experience — same-day from our Bronx shop. Avoid out-of-state chains.
+  - How long does Manhattan co-op approval take for intercom work? Usually 2–10 business days for routine repairs once COI is on file. We pre-stage paperwork so you don't lose time on documentation.
+  - Can a doorman building intercom be upgraded without disrupting service? Yes — after-hours and weekend work is standard for doorman buildings. We coordinate with concierge for access.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical single-issue. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems are landlord responsibility. Tenants handle damage they personally caused inside the apartment unit.
+### intercom-repair-nassau-county 17
+  - Why do Nassau intercom repair quotes vary so wildly? Cost
+  - I'm a Nassau homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Nassau intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Nassau handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Great Neck co-op lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Long Beach building — what is dead? Technical
+  - Why does my Long Beach barrier island intercom keep dying every 3 years? Technical
+  - I run a Nassau commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Nassau small commercial property owner with a 12-unit Hempstead mixed-use — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Garden City, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $18k to "completely replace" our 20-unit Hempstead system when one apt died. Reasonable? Complaints
+  - Where can I get my Nassau intercom fixed? Licensed NYS low-voltage contractor — same-day dispatch from Brooklyn shop via Belt Pkwy/Southern State/LIE. Skip the lead-aggregator surcharge.
+  - How fast is same-day in Nassau? 2–4 hours for Five Towns and Long Beach; 3–5 hours for Hempstead/Garden City; 4–6 hours for Gold Coast estates. Calls before 10 AM get same-day.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-nyc 18
+  - Why are NYC intercom repair quotes so wildly different from each other? Cost
+  - My landlord says intercom repair is "too expensive" — what should I push for? Cost
+  - How do I find a licensed NYC intercom repair guy who won't ghost me? Quality/Trust
+  - Is it worth paying more for an NYS-licensed contractor vs an unlicensed handyman? Quality/Trust
+  - Can I just rewire the apartment station myself with a multimeter? DIY/Pro
+  - My super "fixed" the lobby panel and now nothing works — can a pro reverse it? DIY/Pro
+  - Why does my intercom buzz constantly even when nobody's pressing the button? Technical
+  - Visitors can hear me but I can't hear them — what part is dead? Technical
+  - Door release works for some apartments but not mine — wiring or station? Technical
+  - My NYC landlord ignored my intercom complaint for 6 weeks. What's HPD's role? Landlord/Tenant
+  - I'm a small NYC landlord with a 12-unit Bushwick walk-up — what do I legally owe tenants? Landlord/Tenant
+  - A tech showed up, charged me $300, intercom still broken. What's my recourse? Complaints
+  - Got quoted $14k for a "full upgrade" when one apartment station died. Reasonable? Complaints
+  - Where can I get my intercom fixed in NYC? Local NYS-licensed low-voltage contractor like Abstract Enterprises — same-day, all five boroughs. Avoid out-of-state national chains.
+  - When should I replace instead of repair? System over 15 years old, parts discontinued, three repairs in 12 months, or repeated tenant complaints. Otherwise repair.
+  - What does an NYC intercom repair cost on average? $250–$600 for a single-apartment fix, $1,200–$3,000 for lobby panel + wiring, $4,500–$15,000+ for full building replacement.
+  - How long does an intercom repair take? 30 minutes to 2 hours for component replacement; 4–8 hours for lobby panel + retrofit; 2–5 days for full building system replacement.
+  - Who is responsible — tenant or landlord? In NYC, building-wide intercom systems are the landlord's responsibility. Tenant only handles damage they personally caused inside the unit.
+### intercom-repair-orange 15
+  - Why do Orange County intercom repair quotes vary so wildly? Cost
+  - I'm an Orange homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Orange County intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Orange handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Kiryas Joel walk-up lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Newburgh building — what is dead? Technical
+  - Why does my Newburgh waterfront or Cornwall-on-Hudson intercom keep dying every 3 years? Technical
+  - I run an Orange commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm an Orange small commercial property owner with a 16-unit Newburgh walk-up — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Goshen, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $18k to "completely replace" our 20-unit Newburgh system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-putnam-county 15
+  - Why do Putnam County intercom repair quotes vary so wildly? Cost
+  - I'm a Putnam homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Putnam County intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Putnam handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Brewster walk-up lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Brewster building — what is dead? Technical
+  - Why does my Cold Spring or Garrison Hudson-facing intercom keep dying every 3 years? Technical
+  - I run a Putnam commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Putnam small commercial property owner with a 12-unit Brewster walk-up — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Mahopac, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $15k to "completely replace" our 14-unit Brewster system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-queens 18
+  - Why are Queens intercom repair quotes so wildly different? Cost
+  - My Jackson Heights landlord says intercom repair is "too expensive" — what do I push for? Cost
+  - How do I find a licensed Queens intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Queens handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the lobby panel in our Forest Hills building and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors can hear me but I can't hear them in our Astoria walk-up — what part is dead? Technical
+  - Why does my Belle Harbor intercom keep dying every 3 years? Technical
+  - My Queens landlord ignored my intercom complaint 6 weeks — HPD next steps? Landlord/Tenant
+  - I'm a small Queens landlord with a 12-unit Corona walk-up — what do I owe tenants? Landlord/Tenant
+  - Tech showed up in Flushing, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $19k to "completely replace" our 24-unit Astoria system when one apt died. Reasonable? Complaints
+  - Where can I get my Queens intercom fixed? Licensed NYS low-voltage contractor — same-day from our Bronx shop via Triboro/RFK. Avoid out-of-state chains.
+  - How fast is same-day in Queens? 2–4 hours typical for Astoria/LIC; 3–5 hours for Forest Hills/Flushing/Jamaica; 4–6 hours for Rockaways.
+  - Can my LIC ButterflyMX be fixed without replacing it? Yes — firmware reflashes, account-level resets, and re-pairing solve most LIC luxury IP intercom lockouts in 1–2 hours.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-rockland 15
+  - Why do Rockland intercom repair quotes vary so wildly? Cost
+  - I'm a Rockland homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Rockland intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Rockland handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Spring Valley walk-up lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Nyack building — what is dead? Technical
+  - Why does my Nyack or Piermont Hudson-facing intercom keep dying every 3 years? Technical
+  - I run a Rockland commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Rockland small commercial property owner with a 14-unit Spring Valley walk-up — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Pearl River, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $17k to "completely replace" our 18-unit Monsey system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-suffolk-county 15
+  - Why do Suffolk intercom repair quotes vary so wildly? Cost
+  - I'm a Suffolk homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Suffolk intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Suffolk handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Stony Brook co-op lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them on our Hamptons rental property — what is dead? Technical
+  - Why does my Fire Island or Westhampton Beach intercom keep dying every 3 years? Technical
+  - I run a Suffolk commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Suffolk small commercial property owner with a 10-unit Patchogue mixed-use — what do I owe tenants? Residential/Commercial
+  - Tech showed up in Huntington, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $20k to "completely replace" our 18-unit Bay Shore system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-westchester 15
+  - Why do Westchester intercom repair quotes vary so wildly? Cost
+  - I'm a Westchester homeowner — when should I repair my video intercom vs replace it? Residential/Commercial
+  - How do I find a licensed Westchester intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Westchester handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the Yonkers co-op lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Larchmont building — what is dead? Technical
+  - Why does my Larchmont or Mamaroneck Sound Shore intercom keep dying every 3 years? Technical
+  - I run a Westchester commercial property — what are the NY State licensing rules for intercom work? Residential/Commercial
+  - I'm a Westchester small commercial property owner with a 16-unit Yonkers walk-up — what do I owe tenants? Residential/Commercial
+  - Tech showed up in White Plains, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $19k to "completely replace" our 24-unit Yonkers system when one apt died. Reasonable? Complaints
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+### intercom-repair-staten-island (OLD page, replaced 2026-10-18) 17
+  - Why do Staten Island intercom repair quotes vary so wildly? Cost
+  - My St. George landlord says intercom repair is "too expensive" — what do I push for? Cost
+  - How do I find a licensed Staten Island intercom guy who won't ghost me? Quality/Trust
+  - Is it worth more than hiring a local Staten Island handyman? Quality/Trust
+  - Can I swap my apartment Aiphone handset myself with a multimeter? DIY/Pro
+  - My super "fixed" the St. George lobby panel and now nothing works — recoverable? DIY/Pro
+  - Why does my intercom buzz constantly with no one pressing the button? Technical
+  - Visitors hear me but I can't hear them in our Hylan Blvd building — what is dead? Technical
+  - Why does my Great Kills outdoor intercom keep dying every 3 years? Technical
+  - My Staten Island landlord ignored my intercom complaint 6 weeks — HPD next steps? Landlord/Tenant
+  - I'm a small Staten Island landlord with a 10-unit Stapleton walk-up — what do I owe tenants? Landlord/Tenant
+  - Tech showed up in New Springville, charged $400, intercom still broken — recourse? Complaints
+  - Got quoted $14k to "completely replace" our 16-unit Hylan Blvd system when one apt died. Reasonable? Complaints
+  - How fast is same-day on Staten Island? 2–4 hours typical for North Shore; 3–5 hours for Mid-Island and East Shore; 4–6 hours for far South Shore. Calls before 11 AM get same-day.
+  - Can my single-family home video intercom be upgraded easily? Yes. Aiphone JO, Comelit Mini, DoorBird, Ring upgrades are 30-min to 2-hour installs. Smartphone app pairing included.
+  - What's the cost difference between repair and full upgrade? Repair: $250–$1,500 typical. Full pre-war retrofit: $4,500–$15,000. Building-wide IP system upgrade: $25,000+.
+  - Who's responsible — tenant or landlord? Building-wide intercom systems = landlord responsibility. Tenants handle damage they personally caused inside their unit.
+
+#### New questions on `intercom-repair-staten-island` (rebuild 2026-10-18, final wording)
+§9 Questions Answered (H3):
+1. One owner in our townhouse complex wants the gate fixed today, but the board has not voted — what can happen in the meantime?
+2. I live in a NYCHA development on the island — can I hire a private company to fix our lobby intercom?
+3. Our 1920s eight-family on the North Shore never had an intercom — can the tenants make us install one?
+4. Our two-family has a separate bell for each floor but one front door — why did both stop at the same time?
+5. When the side-door bell is pressed, the wrong floor rings — what crosses the calls?
+6. Can a basement apartment get its own button on the shared front door?
+7. Since our house was raised, visitors press a button by the parking space and then climb a flight — should the station move to the top of the stair?
+8. After the lift, which parts of the intercom have to move upstairs, and which can stay below?
+9. Ever since the stair hall was painted and re-carpeted, the top-floor stations are dead — what did the work touch?
+10. Delivery drivers get buzzed in by whoever answers and parcels vanish from the lobby — can the entry be set up differently?
+11. The lobby screen works but nobody's phone rings when a visitor calls — what usually broke?
+12. Residents who moved out years ago still show up on the lobby directory — how is it cleaned up?
+13. When the building's internet goes down, should the front door still open for residents?
+14. Our Hylan Boulevard dental office buzzes patients in from the front desk — why does the door sometimes stay locked after the release is pressed?
+§17 FAQ (visible == FAQPage, 9 items):
+15. What should I write down or photograph before calling, so the first visit can fix it?
+16. Can one visit cover the intercom, the door closer and the lock on the same entrance?
+17. Is a battery backup worth adding to a building intercom on the island?
+18. After a key or fob goes missing, can access be changed without replacing the whole system?
+19. Will replacing one apartment's station change the sound or picture for everyone else?
+20. Can you take out an old, dead intercom panel and patch the wall or door frame?
+21. Can the intercom let in a home aide or a dog walker while nobody is home?
+22. Who keeps the installer codes and admin login once the repair is finished?
+23. Can intercom work be scheduled around a re-siding job or a stoop rebuild?
+Statement headings (no question): "Telephone-entry call boxes and the copper switch-over".
+
+Closest register intents and why they are judged distinct:
+- #1 vs NYC/HV "Do you work with co-op boards / condo associations / HOAs?" — theirs: whether AESS serves boards; mine: interim access while an association has not yet authorised a repair.
+- #3 vs "My landlord ignored my intercom complaint — HPD's role?" and "small landlord — what do I owe tenants?" — mine is the pre-1968 tenant-majority-consent clause of MDL §50-a (installation where none exists), not repair enforcement.
+- #4/#5 vs "Door release works for some apartments but not mine" and "buzz constantly" — mine: shared-component failure in a two-door two-family; crossed call lines.
+- #7/#8 vs "Hurricane Sandy-zone coastal damage", "post-Sandy systems aging out", "salt air kill my intercom", "keeps dying every 3 years" — mine are placement decisions (door station height on a lifted house; where power equipment sits relative to the design flood elevation), not durability/corrosion.
+- #9 vs the NYC body note on renovation-cut bus wiring (not a question) — kept. #12 (stale directory entries) vs HV/LI "Why is the gate intercom directory full?" (capacity) — different intent. #14 (release timing / door pressure at a buzz-in office door) vs old SI "Do you handle Hylan Blvd commercial…?" (service availability) — different. #6 (third household button) — new; answer defers legality of the unit to DOB/architect.
+- #11 vs "Can my video intercom connect to my phone after repair?" and Queens "Can my LIC ButterflyMX be fixed without replacing it?" — mine is diagnosis of a working panel whose app calls fail.
+- #13 is new (local fallback design). Call-box/copper topic kept as a statement heading because HV/LI ask "fix gate intercom if Verizon shut off our landline?" and "convert to cellular cost?".
+- FAQ #17 battery backup, #18 credential change, #19 mixed generations, #20 decommissioning, #21 temporary access, #22 admin hand-over, #23 contractor scheduling — none in the register. Raised-house questions were reworded after a cross-silo check against floodlight-camera-installation-staten-island (0.68/0.70 → reworded).
+Avoided entirely: cost/quotes vary, response time, brands, guarantee, HPD certificate of correction, phone app connection, DIY handset swap, super broke it, one-way audio, constant buzz, responsibility tenant vs landlord, upgrade without rewiring, repair-vs-replace, maintenance contracts, insurance after a storm, estate gates.
+
+---
+
+### Staten Island
+
+Page: `intercom-repair-staten-island` (REBUILD in place 2026-10-18; was crawled-not-indexed). Up-link `/intercom-repair-nyc`. GBP Brooklyn (1282 Troy Ave, Brooklyn NY 11203, `#brooklyn`). Direct line (347) 934-8335 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav header. WhatsApp only as wa.me/17186790359. Nothing from the old page text reused.
+
+**Thesis:** on Staten Island the first question in an intercom repair is *who owns the door*. With 83% of homes in one- and two-family buildings, island intercoms are mostly house door stations shared by two households, townhouse-association gates and entry panels, a minority of North Shore walk-ups and elevator buildings where MDL §50-a and HPD apply, new app-based rental buildings at St. George/Stapleton, and NYCHA developments whose repairs belong to NYCHA. Who can authorise the work decides the visit; then two island-specific physical facts — houses lifted above the flood line after Sandy (door stations and power supplies in the wrong place) and salt air on the shore — and one 2026 change: Verizon's proposed copper retirement for telephone-entry call boxes.
+
+#### Sources status for this geo
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit r/StatenIsland | `reddit StatenIsland intercom OR buzzer apartment building` · Firecrawl search → only r/AskNYC/r/Upperwestside/r/ShellyUSA threads; no r/StatenIsland intercom thread → EMPTY |
+| 2–5 | PAA / PASF / ATP / AI Overview | EMPTY (not accessible in build env) |
+| 8 | Bing / DDG | EMPTY (not accessible in build env) — DDG HTML scrape failed |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+| — | Census ACS | not re-tried (earlier SI build: API key now required → EMPTY); CHPC figure used |
+
+#### Building stock / housing (SI-H)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-H1 | carried from floodlight-camera-installation.md SI-H1 | https://chpcny.org/visualization/housing-stock-visualization/ | 83% of Staten Island units are in one- or two-family homes (CHPC, Oct 2024) | §5 para 1; §5.5 bullet 1; Sources |
+| SI-H2 | carried from floodlight…md SI-H3 (Nacmias Law) ; `Staten Island townhouse condominium complex gated entrance call box homeowners association` · Firecrawl search (excerpts) | https://nacmiaslaw.com/practice-areas/closings/building-types/townhouse-condo-declaration/staten-island ; https://freelegalquote.com/hoa-in-staten-island-nyc-2026-homeowners-association-legal-faq/ | Low-rise townhouse condo communities (Annadale, Huguenot, Eltingville); one declaration per community; association often owns roads/parking/grounds; HOA membership mandatory inside a designated association | §5 para 2; §7 card; §9 board H3; §8 card |
+| SI-H3 | same search (excerpt, FB realtor post) | https://www.facebook.com/northshoreholly/posts/… | "Gated Community The Accolade Condos, St. George" | Not used (FB excerpt only) |
+| SI-H4 | carried from floodlight…md SI-H4 | https://www.nyc.gov/site/housingrecovery/disaster-recovery/build-it-back.page | 1,982 SI homeowners served by Build It Back; 838 homes citywide repaired and elevated above BFE | §5 para 4; §5.5 bullet 5; Sources |
+| SI-H5 | carried from floodlight…md SI-H6 | https://www.nyc.gov/site/sirr/rebuilding/east-and-south-shore-staten-island.page | 11,700+ buildings in the inundated area; 1–2 family ≈ 90% | §5 para 4 |
+| SI-H6 | carried from floodlight…md SI-R1 | https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction | Equipment at/above design flood elevation or built to keep water out; coastal high-hazard space below limited to parking, access, storage, crawl space | §8.5 bullet 4; §9 raised-house H3s; Sources |
+| SI-H7 | carried from floodlight…md SI-H2 (Prodigy RE) | https://prodigyre.com/blog/the-two-family-wealth-engine-how-staten-islands-most-common-home-type-built-middle-class-wealth | Up-and-down high-ranch two-families (Great Kills), semi-attached (New Dorp/Dongan Hills), converted Victorians on the North Shore | §7 cards (descriptive) |
+
+#### Public housing (SI-P)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-P1 | `NYCHA developments Staten Island list Stapleton Houses Mariners Harbor West Brighton Richmond Terrace Berry Todt Hill` · Firecrawl search (excerpts) | https://www.nyc.gov/site/nycha/about/developments/staten-island.page ; https://nychajournal.nyc/wp-content/uploads/2022/05/VEPE-4-NYCHA-Program-Partners.pdf | SI NYCHA developments: Berry, Cassidy-Lafayette, Mariners Harbor, New Lane Area, Richmond Terrace, South Beach, Stapleton, Todt Hill, West Brighton | §5 para 2; §7 card; §9 NYCHA H3 |
+| SI-P2 | `Staten Island intercom broken NYCHA buzzer silive` · Firecrawl search → scrape (markdown) | https://www.silive.com/news/2022/09/many-nycha-buildings-are-unsecure-many-doors-have-broken-locks-audit-says.html | Sept 22 2022 (Giavanni Alves): Comptroller audit of 262 developments (Aug 30–Sept 8 2022): 36.8% of entrance doors open, 40.1% of entrance locks broken; open/broken share 23.5% (2018) → 57.9% (2022); SI unsecured entrances +34.9% (citywide +34.4%); Cassidy-Lafayette Houses (seniors, New Brighton): 100% of entrance door locks broken; residents said doors are propped because "intercoms, locks, keys, and door release buttons do not work"; one resident: intercoms broken for 10 years; recommendation to repair door closers, release buttons, intercoms, locks, keys | §5 para 2; §5.5 bullet 2; §9 NYCHA H3; FAQ door-closer; Sources |
+| SI-P3 | same search (excerpt, SI Advance FB) | https://www.facebook.com/statenislandadvance/posts/the-todt-hill-houses-complex-is-one-of-two-nycha-developments-selected-to-underg/831294705703242/ | Todt Hill Houses one of two developments selected for a $150 million renovation | Not used (FB excerpt) |
+
+#### North Shore rental and new buildings (SI-B)
+| # | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-B1 | `URL Staten Island Stapleton apartments units Lighthouse Point St. George rental building` · Firecrawl search → scrape NYCEDC (summary) | https://edc.nyc/project/lighthouse-point | Lighthouse Point next to St. George Ferry Terminal: more than 100 residential units, 20% permanently affordable; hotel, retail | §8 card; §13 card; Sources (story count NOT used — EDC says 12-story, YIMBY says 15-story: conflict) |
+| SI-B2 | same search (excerpt) | https://newyorkyimby.com/2026/02/housing-units-still-available-at-lighthouse-point-in-st-george-staten-island.html | Feb 2026: affordable units still available; 35R Bay Street | Background |
+| SI-B3 | `URL Staten Island Urby Stapleton Homeport apartments number of units` · Firecrawl search (excerpts) | https://www.silive.com/northshore/2016/01/website_launched_900_unit_deve.html ; https://www.architonic.com/en/pr/urby-staten-island/5103647/ | Urby Staten Island: 900 rental units planned (silive 2016); 571 completed in phase 1 (Architonic); Navy Pier Ct, Stapleton | §5 para 2; §7 card; §13 card; Sources |
+| SI-B4 | `silive.com tenants intercom broken building Staten Island 2025 OR 2026` · Firecrawl search → scrape (summary) | https://www.silive.com/news/2025/05/public-spaces-in-staten-island-apartment-building-in-despair-this-is-inhumane.html | May 7 2025 (Priya Shahi): 180 Park Hill Ave (Clifton), government-subsidized complex — flooded lobby, leaks, mold, elevators; management DelShah Capital promises rehabilitation. No intercom mention in the summary | §5 para 3 (lobby conditions, not intercoms); Sources |
+| SI-B5 | same search (excerpt) | https://www.silive.com/news/2026/04/live-staten-island-tenants-rally-for-enforcement-reforms-ahead-of-city-hearing-shaina-on-the-scene.html | April 2026 SI tenants rally for enforcement reforms (heat, ceilings) — excerpt only | Background |
+| SI-B6 | G3 above | https://weverit.com/building/ny/new-york/1440-richmond-terrace-staten-island-10310 | Class B intercom violation open since Oct 2014 on a Richmond Terrace building | §5 para 3; §5.5 bullet 4 |
+
+#### Landmarks / corridors (SI-L)
+| # | Source | URL | Finding | Used |
+|---|---|---|---|---|
+| SI-L1 | carried from floodlight…md SI-L4/L5 | https://en.wikipedia.org/wiki/Empire_Outlets ; https://citylimits.org/2019/06/26/council-approves-bay-street-rezoning-the-sixth-under-de-blasios-housing-plan/ | Empire Outlets 350,000 sq ft by the ferry; Bay Street rezoning approved June 26 2019 | §8 card; §13 card |
+| SI-L2 | carried from floodlight…md SI-H9 | https://en.wikipedia.org/wiki/Staten_Island | Hylan Blvd longest street in NYC; North Shore most urban | §8 card |
+| SI-L3 | carried from floodlight…md SI-L7 | https://siuh.northwell.edu/ | SIUH at 475 Seaview Avenue | §8 card |
+| SI-L4 | carried from floodlight…md SI-L3 | https://www.silive.com/news/erry-2018/03/05c8690920/10_things_to_know_about_the_st.html | SI Mall opened Aug 9 1973, Richmond Ave at Richmond Hill Rd | §13 card |
+| SI-L5 | carried from floodlight…md SI-R5 | https://hdc.org/preservation-resources/expanding-historic-district-boundaries/expanding-historic-district-boundaries/ | St. George/New Brighton Historic District designated 1994 | §7 card; §13 card |
+| SI-L6 | SI-P1 | NYCHA list | developments named | §13 "we also serve" not used for NYCHA (refer-out) |
+| SI-L7 | Forest Avenue / Victory Boulevard storefront description | — | descriptive only (storefronts with rear/side delivery doors) — **no source; FLAG** | §8 card |
+
+#### Licensing / permits (SI)
+- NYS low-voltage license #12000287431 (protected) — intercom, strike, door station, network side.
+- 120-volt feed to a transformer/power supply, new receptacle or circuit: licensed master electrician + DOB permit (silo G7).
+- MDL §50-a + HMC (HPD Class B "inoperative intercom with return buzzer system") for 8+ unit class A buildings.
+- NYCHA equipment: residents report via CCC (718) 707-7771 / MyNYCHA (G6); AESS does not claim NYCHA work.
+- LPC for St. George/New Brighton historic district entrances (SI-L5) — panel faces visible from the street.
+
+#### Pricing — §9 applied (1.10×), round half-up
+Diagnostic $165–$330 · apartment station $275–$660 · house video monitor/door station swap $330–$825 · lobby/entry panel component $440–$1,320 · entry panel retrofit $1,650–$3,850 · transformer/power supply $330–$880 · door release strike $385–$990 · riser/bus wiring repair $1,100–$3,300 · marine-grade coastal panel $1,540–$4,180 · Mircom TX3 directory rebuild $385–$825 (not used on page) · small building full system $4,950–$13,200 · mid-size IP system $13,200–$30,800 · maintenance contract $660–$2,640/yr. Service rate $195/hr, 3-hr min ($585) unmultiplied. "Bands" for package cards use those same line items (no new figures).
+FLAG: old SI page did not follow §9; "no separate toll line" wording carried from network-cable-repair-staten-island (via floodlight SI research).
+
+#### House practices stated without an external source (FLAG for Anwar)
+- Interim measures while an association decides (temporary keypad code / leave door on key / mechanical lock), documented test sheet after repair, labelled riser map, battery backup sizing, admin-credential hand-over, temporary aide codes, decommissioning and patching old panels, siding/stoop scheduling.
+- Door station mounting height ~ shoulder height at the landing on lifted houses (general practice, not a code figure).
+- "Same-day / 1–2 hours once on site" (blueprint §5 element 36 convention).
+- Field Notes = installer-voice method note (who owns the door → power → wire → station), no specific job story.
+- "Exits must still open from inside" (§8.5 bullet) — general egress principle, not fetched from the NYC Fire/Building Code this run.
+- Third household on a two-family "can change how the city classifies and inspects the building" (§9 basement-button H3) — stated as a caution, defers to DOB/architect; MDL definitions not fetched.
+- Dental-office release causes (timer, door pressure on strike, shared supply sag) and package-room options — general practice.
+- LPC review for street-facing facade changes in St. George/New Brighton HD — carried from floodlight silo G3/SI-R5, not re-fetched.
+- Cross-silo check: page also compared with floodlight-camera-installation-staten-island; only the NAP line (1.00) remains ≥0.65 after a rewrite pass.
+
+#### Images (11) — Drive: no Intercom folder (per main run); CompanyCam not connected
+`images/buzzer-repair/*.jpg` and `images/low-voltage/*video-intercom*.jpg` were inspected and **rejected as AI-generated** (garbled panel numbering, "123 MAIN STREET / ABC PROPERTY MANAGEMENT" signage) — FLAG: those folders should not be used as "real AESS photos" anywhere.
+| Output (images/intercom-repair/) | Source | What it shows | Placement |
+|---|---|---|---|
+| intercom-repair-staten-island-akuvox-keypad-door-station-with-camera-product-photo.webp (803×1429) | images/intercom-keypad-akuvox.png | Akuvox door station: camera, card-reader symbol, 12-key keypad, speaker grille | Hero (eager) |
+| …-stone-apartment-facade-with-camera-on-steel-arm.webp (228×368) | images/apartment-building-security-camera-installation/…brooklyn-stone-facade-with-camera-on-steel-wall-arm.webp (real AESS job, Brooklyn) | stone facade, windows, Greek-key cornice, camera on steel arm | §5 |
+| …-akuvox-single-button-video-door-station-product-photo.webp (423×562) | images/akuvox-video-door-station.webp | single-button Akuvox station | §6 |
+| …-black-akuvox-house-video-door-station-product-photo.webp (423×562) | images/akuvox-video-doorbell-black.webp | black Akuvox door station with call button | §7 |
+| …-dome-camera-on-tiled-ceiling-above-glass-entrance.webp (935×720) | images/apartment-building-security-camera-installation/…manhattan-dome-camera-on-ceiling-over-glass-entrance.webp (real AESS job) | white dome camera, drop ceiling, light panels, glass storefront wall | §8 |
+| …-corridor-to-grey-door-with-camera-and-wall-plates.webp (635×600) | images/apartment-building-security-camera-installation/…brooklyn-black-bullet-camera-on-ceiling-facing-grey-service-door.webp (real AESS job) | black bullet camera on ceiling, grey door with keypad lock, two metal wall plates | §9 "who owns the door" cluster |
+| …-white-network-video-doorbell-rear-mounting-side-product-photo.webp (500×500) | images/apartment-building-security-camera-installation/…staten-island-poe-doorbell-camera-rear-product.webp | rear of a white network video doorbell, label "UVC-Doorbell" | §9 two-family cluster |
+| …-axis-narrow-video-door-station-product-photo.webp (675×900) | images/axis-i8116-video-intercom.webp | Axis narrow video door station | §9 walk-up/package cluster |
+| …-white-akuvox-indoor-touchscreen-monitor-product-photo.webp (456×456) | images/intercom-indoor-monitor.png | white Akuvox indoor touchscreen monitor | §10 equipment |
+| …-blue-and-white-cable-bundles-along-ceiling-pipe.webp (710×215) | images/apartment-building-security-camera-installation/…brooklyn-blue-network-cable-bundles-along-ceiling-pipe.webp (real AESS job) | blue + white cable bundles on a ceiling rod/pipe | §12 process |
+| …-akuvox-touchscreen-directory-panel-product-photo.webp (456×456) | images/intercom-touchscreen.png | Akuvox touchscreen entry panel, keypad on screen showing "1008" | §14 pricing |
+DAILY-LOG note suggestion: `images: 11 = 3 real AESS job photos from other jobs + 1 real exterior job photo (Brooklyn) + 7 manufacturer intercom product shots (no real intercom photos yet)`.
