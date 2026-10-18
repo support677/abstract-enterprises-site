@@ -334,9 +334,9 @@ LIVE REBUILD | access-control-installation-morris-heights-bronx-ny | Access Cont
 LIVE REBUILD | access-control-installation-morris-park-bronx-ny | Access Control Installation | Morris Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-new-utrecht-brooklyn-ny | Access Control Installation | New Utrecht, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | access-control-installation-olinville-bronx-ny | Access Control Installation | Olinville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-park-slope-brooklyn-ny | Access Control Installation | Park Slope, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | access-control-installation-parkchester-bronx-ny | Access Control Installation | Parkchester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | access-control-installation-pelham-bay-bronx-ny | Access Control Installation | Pelham Bay, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T21:47Z REBUILD | access-control-installation-park-slope-brooklyn-ny | Access Control Installation | Park Slope, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-18T21:47Z REBUILD | access-control-installation-parkchester-bronx-ny | Access Control Installation | Parkchester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T21:47Z REBUILD | access-control-installation-pelham-bay-bronx-ny | Access Control Installation | Pelham Bay, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-pelham-gardens-bronx-ny | Access Control Installation | Pelham Gardens, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-pelham-parkway-bronx-ny | Access Control Installation | Pelham Parkway, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-prospect-park-south-brooklyn-ny | Access Control Installation | Prospect Park South, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
