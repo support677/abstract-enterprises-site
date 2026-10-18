@@ -267,6 +267,10 @@ def identify(slug):
     for suffix in sorted(AREAS, key=len, reverse=True):
         if slug.endswith("-" + suffix):
             return slug[: -len(suffix) - 1], suffix
+    for suffix in sorted(AREAS, key=len, reverse=True):
+        # silos that name counties without "-county" (dvr-upgrade-putnam, dvr-upgrade-orange)
+        if suffix.endswith("-county") and slug.endswith("-" + suffix[:-7]):
+            return slug[: -len(suffix[:-7]) - 1], suffix
     if slug.endswith("-ny"):
         # county/hub area pages of the older "-ny" silos (door-buzzer-installation-ulster-county-ny);
         # borough suffixes stay with the neighbourhood rule below, so nothing else changes
@@ -290,9 +294,12 @@ def identify(slug):
 def area_slug(silo, area, root=None):
     """Slug of a silo's area/hub page: <silo>-<area>, or <silo>-<area>-ny for the older -ny silos."""
     base = f"{silo}-{area}"
-    if not os.path.isfile(os.path.join(root or REPO_ROOT, base + ".html")) and \
-            os.path.isfile(os.path.join(root or REPO_ROOT, base + "-ny.html")):
-        return base + "-ny"
+    cands = [base, base + "-ny"]
+    if area.endswith("-county"):
+        cands.append(f"{silo}-{area[:-7]}")
+    for c in cands:
+        if os.path.isfile(os.path.join(root or REPO_ROOT, c + ".html")):
+            return c
     return base
 
 
