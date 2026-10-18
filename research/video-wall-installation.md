@@ -811,3 +811,84 @@ FAQ (visible == FAQPage, 10):
 10. Can the wall pull in posts from our website or social media automatically?
 Other "?" heading: "Planning a Screen for an Old or Landmarked Ulster Building?" (CTA H2).
 De-dup notes: dropped/reworded during build to avoid silo overlaps — window-screen-as-sign (LI hub / Queens / Nassau) reframed as approval authority (Q1) and placement under Woodstock's ban (Q5); FAQ "work around booking calendar" (≈ Nassau after-closing), "how far ahead to book" (≈ old-template lead time), "certificates of insurance" (≈ old-template COI handling) replaced; storm question reframed to lightning/unplugging (LI hub covers power restoration).
+---
+
+## Westchester
+
+Rebuilt 2026-10-18 (`video-wall-installation-westchester-county`, REBUILD, scheduled batch). Searches run with Firecrawl search/scrape from the build environment. Thesis: Westchester walls split into inward-facing walls in office parks being re-let to medical tenants, hospital towers and campuses (IT review, power, GC schedule) and street-facing window screens whose legality changes by municipality (48 municipalities, divergent sign laws).
+
+### Matrix (v2.3 §3)
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | `reddit westchester video wall OR "TV wall" OR "multiple TVs" bar restaurant install` · Firecrawl → no Westchester threads returned. EMPTY (not accessible in build env / no results). Silo-level r/CommercialAV excerpts reused (§3.1). |
+| 2–5 | PAA, PASF, Answer the Public, AI Overview | EMPTY (not accessible in build env). AI check built from cost guides/rules of thumb (§3.3) + Westchester codes. |
+| 6–7 | Landmarks, building stock | Done (below) |
+| 8 | Bing & DuckDuckGo | EMPTY (not accessible in build env) |
+| 9 | Local news | 914INC, Governor's office, WMCHealth, White Plains Hospital, SNA Displays (below) |
+| 10 | Hyperlocal | Municipal codes (eCode360), White Plains DRI plan |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+
+### Entries (query · platform · URL · finding · page+section)
+- `Westchester County NY cities towns villages how many municipalities` · Firecrawl · https://en.wikipedia.org/wiki/Westchester_County,_New_York ; https://www.ny.gov/counties/westchester · 6 cities, 19 towns, 23 villages; 450 sq mi; 990,817 (2023) · Neighborhood ¶1, facts list, AI check, Field Notes.
+- scrape · https://censusreporter.org/profiles/05000US36119-westchester-county-ny/ · ACS 2024 1-yr: pop 1,006,447; 398,706 housing units; 50% multi-unit; 61% owner-occupied; median value $691,100; median HH income $118,596 · Neighborhood ¶1, Building Specialists (co-ops), facts list.
+- `Westchester County Department of Consumer Protection license electrician home improvement` · Firecrawl · https://consumer.westchestercountyny.gov/home-contractors-and-trades/plumbers-and-electricians ; /apply-for-a-license ; https://consumer.westchestercountyny.gov/hiring-tips · electricians must hold a county trade licence; "all electrical work must be performed by a Westchester County-licensed electrician or an employee of a licensed electrician"; county trade licence search · photo strip, AI check, facts list, Sources.
+- gov search · https://ecode360.com/9158075 (Town of Mamaroneck Ch. 90) · regulates wiring/equipment "operating in excess of 50 volts"; electricians need a licence from any Westchester municipality · facts list. https://ecode360.com/6850133 (Yorktown Ch. 155) · electrical contracting defined incl. signaling systems/signs >50 V · Sources only.
+- scrape · https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors · county licence required for home improvement contractors; EPA RRP lead rule since April 22, 2010 for pre-1978 homes, child-care facilities, schools · FAQ lead paint, Building Specialists.
+- scrape (pdf) · https://consumer.westchestercountyny.gov/images/stories/pdfs/homeimprovementapplication02232026.pdf · §863.312 "home improvement" = repair/replacement/installation… in a residence or dwelling of not more than three units; §863.313 licence required; §863.324(4) exemptions incl. electrical work, State-licensed occupations within scope, County-licensed alarm businesses; Dept. at 148 Martine Ave · facts list, landmarks (148 Martine Ave). AESS county home-improvement licence NOT claimed — FLAG.
+- scrape · https://www.westchesterlegislatorsny.gov/latest-news/board-approves-new-rules-for-home-contractor-licensing-to-protect-workers-consumers · Nov 20, 2018 amendments (wage-theft judgments, fee $500/2 yrs from 2021) · Sources only.
+- `site:ecode360.com Westchester village sign law electronic…` · Firecrawl → scrape https://ecode360.com/10861656 (Mount Kisco Ch. 89) · animated signs incl. electronic reader board signs prohibited; electronic interior window signs prohibited except one "Open" sign ≤220 sq in, not moving/flashing, off when closed, no product advertising; temporary window signs ≤25% · QA "same window screen…", QA "set back from the glass", QA "switch off", AI check, Field Notes, facts list.
+- scrape · https://ecode360.com/37564799 (Port Chester §345-701, amended through L.L. 5-2026) · Electronic Message Boards only in CV district; monochrome; ≤0.3 fc above ambient; change ≤ once/60 s; instantaneous transition; ≤50% of sign area; not within 100 ft of residential structure; window signs ≤33% of glass; no animated/flashing lights · same QAs, Field Notes.
+- scrape · https://ecode360.com/6816946 (Greenburgh Ch. 240) · §240-2C illumination steady, not flashing/moving/changing; §240-3A "window or inside" sign = interior sign visible from street; §240-3C(15) signs within 2 ft of a window ≤25% of any single window; §240-3C(5) illuminated business signs off ½ hour after closing, automatic devices · same QAs.
+- https://ecode360.com/15113414 (Yonkers Ch. 47) · scrape returned no window/electronic provisions — not used on page.
+- scrape (pdf) · https://www.ny.gov/sites/default/files/2025-05/White_Plains_DRI7_SIP.pdf · White Plains DRI Round 7 (2024); "Install Digital Signage on the Windows of ArtsWestchester", 31 Mamaroneck Ave, replace 3 framed poster receptacles, $27,500; branding/wayfinding project $819,000 total ($749,000 DRI) incl. two digital kiosks with real-time transit · Neighborhood ¶5, landmarks.
+- scrape · https://snadisplays.com/news/yonkers-tron-city-of-yonkers-adds-video-board-to-inform-residents/ (May 29, 2024) · 16'6" x 26'3", 10 mm EMPIRE Exterior XS, 504x800 px, Government Center Garage facing New Main Street, installed by Yonkers Engineering Dept; city text: "largest film production studios in the Northeast" · Neighborhood ¶5, QA "outdoor screen like Yonkers", landmarks.
+- `Westchester corporate headquarters I-287 Platinum Mile…` · Firecrawl · https://914inc.com/westchesters-platinum-mile-is-making-a-serious-comeback/ (Apr 2026) · ~4 mi of I-287 from 333 Westchester Ave (White Plains) to 800 Westchester Ave (Rye Brook); ~4.5M sq ft office built in Purchase 1972–1988; "Medical Mile"; 3030 Westchester Ave fully leased to Westmed; Wegmans planned West Harrison · Neighborhood ¶2, QA "re-let to a medical group", landmarks. https://docs.ryebrook.org/…/10 - Chapter 10 - Commercial Development.pdf · corridor clients Morgan Stanley, PepsiCo, Mastercard, IBM · Neighborhood ¶2.
+- `Regeneron Tarrytown campus expansion…` · Firecrawl · https://www.governor.ny.gov/news/governor-hochul-announces-groundbreaking-regenerons-18-billion-expansion-westchester-county ; https://www.regeneron.com/about/our-company/locations ; https://careers.regeneron.com/en/locations/north-america/westchester/ · $1.8B, up to 8 buildings, ~900,000 sq ft, completion expected 2027; HQ 777 Old Saw Mill River Rd; Greenburgh supervisor quote; other sites Sleepy Hollow, Hawthorne, Armonk · Neighborhood ¶4, QA "campus project with a GC", landmarks.
+- `Westchester Medical Center … White Plains Hospital expansion` · Firecrawl · https://www.wmchealth.org/press-releases/… (Sep 29, 2025); https://wmchealthgiving.org/… · Brenda Fareri Pavilion critical care tower, 5 stories, 162,000 sq ft, completion 2026 (128 private rooms per wmchealth.org) · https://www.wphospital.org/about-us/campus-transformation/ · 475,000 sq ft addition, topping off May 7, 2026 (Suffolk Construction), opening early 2028 · Neighborhood ¶4, landmarks.
+- `Con Edison NYSEG service territory Westchester` · Firecrawl · https://dps.ny.gov/system/files/documents/2022/10/nys-electric-and-gas-utilities-by-county.pdf · Westchester electric: NYSEG and Con Edison · https://www.coned.com/en/business-partners/service-territories · Con Ed territory includes Westchester · facts list, landmarks (northern towns "may be NYSEG" — town-level split not sourced).
+- `Westchester County Police Real Time Crime Center…` · Firecrawl · https://publicsafety.westchestercountyny.gov/crime-analysis-unit · RTC monitors via cameras, LPR · Sources only (not described on page beyond source list).
+- `HDBaseT 100 meters…` · Firecrawl · https://hdbaset.org/hdbaset-technology/ · up to 100 m/328 ft over category cable; 1080p to 100 m over Cat5e+, 4K up to 70 m over Cat5e (100 m select Cat6a) · QA "raised access floor" (replaced the fiber-distance QA after batch overlap check).
+- Silo §2 manufacturer facts reused: LG 55VM5J-H (160 W typ/190 W max, SNMP, status mailing, Crestron), LG LAPA136 (650 W avg/1,300 W max), Samsung bezels/daisy chain 10x10, Chief ConnexSys 4–7.4 in, ADA 307.2, Planar/Christie/Barco, Samsung Insights consumer-TV article.
+
+### Prices used (rule)
+Brooklyn video-wall base (§3.5) × Westchester 1.25 (§9), consistent with Nassau ×1.15 / Queens ×1.05 rebuilds: 2x2 $15,000–$22,500; 3x3 $30,000–$47,500; 4x4 $52,500–$81,250; 2.5 mm LED $43,750–$68,750; 1.9 mm $68,750–$106,250; 1.5 mm $106,250–$175,000; outdoor LED/m² $5,625–$10,625; controller $3,125–$18,750; 16x16 matrix $5,625–$15,000; mounting $1,875–$11,250; CMS $1,200–$5,000/yr unmultiplied; maintenance $3,000–$18,750/yr (Brooklyn base $2,400–$15,000 as Nassau used); $195/hr, 3-h min ($585). CONFLICT: old Westchester page showed 2x2 $11,000–$16,500 … 1.5 mm $78,000–$130,000 (≈0.92× Brooklyn), a 1.2 mm row ($100k–$180k, no base) and "$500 minimum job" — all dropped.
+
+### Images (11) — source → new file (images/video-wall-installation/)
+No Drive "Video Wall" subfolder (Drive root has Cat6 Repair, Sonos, Soundbar, Smart Lock, Fiber Optic only); CompanyCam/Composio not checked this run (not connected in earlier runs today). Permanent image rule, real phone photos only (AI-looking pool images excluded), none previously used (md5) on a video-wall page:
+security-camera-maintenance-nyc-cable-bundles-above-recorder-monitor → westchester-county-cable-bundles-above-wall-monitor; dvr-upgrade-nassau-county-recorder-screen-channel-grid-and-bitrate-table → -sixteen-camera-tiles-and-bitrate-table; dvr-upgrade-brooklyn-store-monitor-showing-camera-grid → -store-display-split-into-eight-camera-views; apartment-building-…-queens-camera-grid-on-ceiling-hung-monitor → -ceiling-hung-display-above-store-shelving; security-camera-maintenance-nyc-recorder-live-view-with-date-and-time-stamp → -date-stamped-live-view-tiles-close-up; school-security-camera-installation-brooklyn-recorder-monitor-32-channel-grid-under-cable-runs → -lg-monitor-under-overhead-cable-runs (hero); security-camera-maintenance-nyc-mini-camera-above-soffit-and-recessed-lights → -soffit-and-recessed-lights-in-lobby-ceiling; security-camera-maintenance-nyc-turret-camera-above-glass-lobby-entrance → -glass-lobby-front-below-drop-ceiling; dvr-upgrade-westchester-two-small-cameras-high-on-white-wall-below-mezzanine-windows → -tall-white-wall-below-mezzanine-windows; security-camera-maintenance-nyc-bullet-camera-in-corridor-ceiling-by-door → -blank-corridor-wall-with-two-cover-plates; apartment-building-…-staten-island-recorder-monitor-lot-and-storeroom-views → -two-view-split-screen-lot-and-storeroom. None shows a video wall; captions say "reference photo" and describe only what is visible.
+
+### Question register — video-wall-installation-westchester-county
+Q&A (H3):
+1. Why would the same window screen be allowed in one Westchester village and refused in the next?
+2. Does a screen set back from the glass still count as a window sign?
+3. Do local rules make us switch off a screen that can be seen from the street after closing?
+4. Could a town or school put up an outdoor screen like the one on the Yonkers Government Center garage?
+5. Our Westchester Avenue office building is being re-let to a medical group — what changes for a waiting-room wall?
+6. Will our IT department let a video wall controller onto the corporate network?
+7. Can visitors share a laptop to one section of the wall without touching the rest?
+8. On a campus project with a general contractor, at which stage should the video wall crew be on site?
+9. Our best wall is part of the building’s fire-rated core — can the mount be fixed to it?
+10. Our briefing room has a raised access floor — can the wall be fed from below instead of through the ceiling?
+11. Can the wall be mounted around fire-alarm strobes and sprinkler heads?
+12. If no wall in the lobby is strong enough, can the panels hang from the structure overhead?
+13. What should a facilities manager put in a request for proposals so bids can be compared?
+14. Do the panels need to be the same brand as the conference-room displays we already have?
+15. Can the wall show live data such as a building energy dashboard or air-quality readings?
+16. What does a co-op or condo board usually need before a lobby display goes up?
+
+FAQ (accordion + FAQPage):
+1. Do you sign the vendor-security questionnaires and confidentiality agreements that corporate clients send?
+2. Our building is older than 1978 — does drilling for the mount bring in lead-paint rules?
+3. How much electricity does a wall use if it is left on all night, and is it worth scheduling it off?
+4. What dust and noise controls do you use when working inside a medical practice that stays open?
+5. Who patches and paints the wall when the old screens come down?
+6. Can panels go in before a new building has its certificate of occupancy?
+7. Does every panel in the wall need its own network cable, or can one connection serve the whole wall?
+8. Who is responsible if a panel arrives damaged or dead from the manufacturer?
+9. Can the controller be locked in a closet away from the wall?
+10. Do you need a loading-dock or parking reservation for a delivery to a Westchester campus?
+
+Register revised 2026-10-18 after batch overlap check vs Rockland, Suffolk and Ulster: 8 questions replaced (cleaning, Crestron, curved wall, speakers, temporary sales office, licence check, controller/fiber distance, electrical capacity). New FAQ facts: LG 55VM5J-H 160 W typical (silo §2) for the overnight-energy FAQ; Samsung daisy chain up to 10x10 (silo §2) for the per-panel cable FAQ. Fire-rated core, raised floor, overhead suspension, dust controls, certificate of occupancy and damaged-panel answers are AESS method statements.
+
+### Unsourced practices on the page (AESS method statements, not facts)
+IT packet contents; no default passwords/own network segment; two-visit GC sequence; waiting-room content advice (captions, no names); fire-alarm/sprinkler clearance practice; firestop approach for rated walls; raised-floor slab bearing; overhead suspension sign-offs; open-clinic dust/noise controls; CO/released-area practice; damaged-on-arrival handling; patch/paint; co-op board package contents; dock/elevator arrangements; spare panel from same batch; "most single faults fixed within 1–2 hours"; openingHours 08:00–20:00; landmark descriptions of Getty Square, Ridge Hill, Central Park Ave, Central Ave car dealers, New Rochelle downtown, Mount Kisco Route 117; northern-town NYSEG split.
