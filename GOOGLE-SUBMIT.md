@@ -256,3 +256,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nassau-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-brooklyn | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-long-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-brooklyn | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-dutchess-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/security-camera-maintenance-nyc | QUEUED
