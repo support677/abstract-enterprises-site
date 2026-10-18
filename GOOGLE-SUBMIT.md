@@ -223,3 +223,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-putnam | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-queens | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-staten-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-ulster | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-westchester | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn | QUEUED
