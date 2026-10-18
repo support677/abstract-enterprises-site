@@ -270,3 +270,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-bronx | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-manhattan | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-nyc | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-orange-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/super-live-plus-app-support-repair-putnam-county | QUEUED
