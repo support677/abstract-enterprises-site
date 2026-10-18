@@ -801,3 +801,280 @@ Intent cross-check: compared by meaning with the registers of Bay Ridge, Bedford
 11. …-job-photo-recorder-view-along-brick-wall-to-paved-lot.webp ← images/wireless-camera-installation/wireless-camera-installation-westchester-county-recorder-view-along-brick-wall-to-paved-lot.webp (AESS job photo, recorder screen)
 Rejected after viewing: westchester "dome camera on wall arm below stone cornice" (same photo as brooklyn "camera on long wall arm on stone facade" — not residential), "white dome under painted eave beside bare tree" (same photo as brooklyn "dome under fascia" — mural storefront, not residential), nassau "recorder view of sidewalk and curb" (low information).
 Captions: "Manufacturer product photo, used as a reference:" / "Photo from the AESS job library, not taken in Country Club:". No ImageObject contentLocation.
+
+## DUMBO, Brooklyn (access-control-installation-dumbo-brooklyn-ny)
+
+Built 2026-10-18 (batch 18, REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-brooklyn. Phone (347) 934-8335. GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing 1.00x (Brooklyn base) from /access-control-installation-brooklyn.html only.
+
+Thesis: DUMBO access control is a converted-loft problem — 1850s–1920s factories and warehouses (brick, heavy timber, early reinforced concrete) now hold condos, rentals, 24/7 tech/design offices, coworking and ground-floor shops in the same buildings, so the work is separating those groups at one shared lobby (separate access groups and scoped administrators), controlling freight elevators and service/move-in entrances, narrow-stile glass lobby doors (exit devices vs maglock rules), landmark-district placement and controllers kept above flood level.
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | DUMBO Historic District Landmarks Preservation Commission 2007 designation warehouses factories | WebSearch | results list (Wikipedia, LPC Luna images, LPC PDF lp/2279, CityLand) | source list | — |
+| 2 | (fetch) | WebFetch | https://citylandnyc.org/landmarks-designates-new-dumbo-historic-district | Designated Dec 18 2007, unanimous; Oct 30 hearing, Yassky and Markowitz supported; brick, timber, reinforced concrete; artists converting lofts in the 1970s | §Historic District ¶1, Sources |
+| 3 | (fetch) https://en.wikipedia.org/wiki/DUMBO | WebFetch | — | EMPTY (not accessible in build env — permission request timed out); re-read via Firecrawl (#4) | — |
+| 4 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/DUMBO | 0.11 sq mi; 2020 pop 4,975; ZIP 11201; CB2; boundaries (BBP N, Brooklyn Bridge W, Brooklyn Heights S, Vinegar Hill E); machinery/paper boxes/spices/Brillo; cardboard box invented in Robert Gair building on Washington St ("Gairsville"), Gair building now Etsy; NRHP DUMBO Industrial District 2000, 95 contributing bldgs, Benjamin Moore, Arbuckle, J.W. Masury, Gair, E.W. Bliss, Brillo, earliest large-scale reinforced concrete factories in US; LPC Dec 18 2007 unanimous, 90th HD, bounded John/York/Main/Bridge; name coined 1978; artists late 1970s; Walentas/Two Trees; Jay Street Connecting Railroad c.1904–1957, tracks still visible; HDC 2017 ADA report on cobblestones; $108M rehabilitation done 2025; tech hub — 500 tech/creative firms, 10,000+ employees within 10 blocks (USA Today 2013); Etsy + West Elm HQ; Empire Stores renovated 2017, West Elm flagship, Time Out Market 2019; Gleason's Gym 130 Water St (2016); St. Ann's Warehouse; Archway (Brooklyn Flea Sundays Apr–Oct, Live at the Archway); 200 Water St (Brillo) condo; Farragut Houses (NYCHA, 10 towers); York St (F), High St (A/C), B25/B67/B69, NYC Ferry at Fulton Ferry; Adams Street Library 9 Adams St, opened Oct 2021 in former factory | Hero, §Neighborhood ¶1–5 + glance list, §Architecture, §Commercial, §Coverage, Sources, WebPage schema |
+| 5 | DUMBO Brooklyn burglary building break-in 84th precinct | Firecrawl search | results (NYPD 84 Pct page, Brooklyn Paper, Citizen app, DNAinfo BBP lockers) | Citizen app "residential break-in 30 Washington St" is an unconfirmed report → NOT used | — |
+| 6 | (scrape) | Firecrawl scrape | https://www.brooklynpaper.com/84th-pct-beauty-school-burglary/ | Aug 27 2025: Aug 17 ~5:30 a.m., large glass door shattered at Aveda Arts and Sciences Institute, Pearl St; two cash registers (~$70) | §Neighborhood ¶6, §Commercial (studios/education), Sources |
+| 7 | (scrape) | Firecrawl scrape | https://www.brooklynpaper.com/84th-pct-dumbo-store-robbed-twice-two-days/ | Jul 22 2025: Alo shop on Front St robbed Jul 9 ($300 t-shirts) and again next day (>$6,000) | §Neighborhood ¶6, §Commercial (Front St), Q&A "buzz customers in", Sources |
+| 8 | (search excerpt) | Firecrawl search | https://dumboneighborhoodalliance.com/fire-and-police-1 | 84th Precinct, 301 Gold Street | glance list, schema mentions |
+| 9 | DUMBO Improvement District BID boundaries businesses workers coworking office | Firecrawl search | https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=52 (excerpt) | BID office 20 Jay Street Suite 510 | schema mentions, Sources |
+| 10 | (scrape) | Firecrawl scrape | https://www.dumboannualreport.com/2023-report/ | 103 indie businesses, 1,000+ creative offices; no boundaries/worker count/safety programs stated | §Neighborhood ¶3 |
+| 11 | Dumbo coworking office building 55 Prospect Street "Dumbo Heights" tenants | Firecrawl search | https://www.loopnet.com/Listing/55-Prospect-St-Brooklyn-NY/8173133/ ; https://www.workthere.com/spaces/wework-dumbo-heights/ (excerpts) | 55 Prospect "24-hour access"; WeWork Dumbo Heights at 81 Prospect | §Neighborhood ¶3 ("24/7 access"), §Commercial (coworking in Dumbo Heights) |
+| 12 | (scrape) | Firecrawl scrape | https://dumbo.nyc/commercial/ | 10 Jay, 20 Jay (Two Trees), 45 Main (renovated lobby with 24/7 access, bicycle entry), 55 Washington (landmarked), 68 Jay, 53 Pearl; Dumbo Heights = 81 Prospect, 117 Adams, 77 Sands, 77 Prospect, 175 Pearl; Empire Stores 360,000 sq ft; Greendesk at 68 Jay, 155 Water, 195 Plymouth; Soho Works at 10 Jay and 55 Water; 500+ businesses; tenants incl. Domino Recording, BIG, Snøhetta, The Fader | glance list, §Commercial, schema mentions |
+| 13 | DUMBO Brooklyn Clocktower Building 1 Main Street condominium Gair | WebSearch | results (CityRealty, Compass, HLRES) | source list | — |
+| 14 | (scrape) | Firecrawl scrape | https://www.cityrealty.com/nyc/dumbo/clock-tower-1-main-street/review/43543 | Built 1914 for Robert Gair; condos 1998; 12 stories + tower; 124 condos; Walentas/Two Trees; 24-hour concierge; three freight elevators | §Neighborhood ¶2 (building-type example, "not AESS clients" line), §Coverage card, schema |
+| 15 | DUMBO loft conversion condo "Sweeney" building ... Two Trees rental lofts | Firecrawl search | https://www.theroeblingteam.com/neighborhoods/dumbo (excerpt); https://www.cityrealty.com/nyc/dumbo/70-washington-street/38737 (excerpt); NYT 2014 (excerpt) | Loft conversions from 1998; 70 Washington St (1910–11) 259 residences converted 2005; Sweeney Building 30 Main St (1908, W. Sweeney Mfg Co.), declaration Dec 2002 | §Neighborhood ¶2 (building-type examples only) |
+| 16 | Dumbo cobblestone Belgian block street reconstruction completed 2025 Water Street Plymouth DDC | Firecrawl search | https://www.nyc.gov/html/dot/html/pr2025/city-completes-historic-street-restoration-dumbo.shtml ; https://dumbo.nyc/construction/ (excerpts) | $108M; 25 blocks restored + Gold St (Front–Water) converted asphalt→cobblestone; new storm sewers/water mains; LPC approved; broke ground Apr 2019, completed Dec 2025 | §Neighborhood ¶5, §Historic District ¶3, FAQ logistics |
+| 17 | Hurricane Sandy DUMBO flooding basements Water Street businesses 2012 | Firecrawl search → scrape | https://www.dnainfo.com/new-york/20121031/dumbo/dumbo-picks-up-pieces-after-hurricane-sandy | Businesses/residences "under multiple feet of water"; water through first-floor windows of an Old Fulton St apartment building; standing water at powerHouse Books and One Girl Cookies (end of Main St). Basements/elevators not mentioned | glance list, §Architecture "Cellars near the river" |
+| 18 | (same search) | Firecrawl search | https://firststreet.org/neighborhood/dumbo-ny/77126_fsid/flood (excerpt); DUMBO BID Facebook (excerpt: 11-ft surge) | Not used (model estimate / social post) | — |
+| 19 | LPC designates DUMBO historic district 90th 91 buildings press release | Firecrawl search | https://s-media.nyc.gov/agencies/lpc/lp/2279.pdf (excerpt) ; https://gothamist.com/news/lpc-approves-dumbo-historic-district (excerpt) | ~91 historically significant buildings | glance list, §Historic District |
+| 20 | (scrape) | Firecrawl scrape | https://hdc.org/buildings/dumbo-historic-district/ | Dec 18 2007; ~91 buildings; earliest commercial structures 1850s; Greek Revival to reinforced concrete | glance list |
+| 21 | Brooklyn Bridge Park 85 acres 1.3 miles piers Main Street section Dumbo | Firecrawl search | https://brooklynbridgepark.org/about/history/ ; https://brooklynbridgepark.org/places-to-see/main-street/ (excerpts) | 85 acres, 1.3 miles, Jay St to Atlantic Ave, Piers 1–6; Main Street section 3.5 acres; first section opened Mar 2010 (Wikipedia) | §Coverage card |
+| 22 | Brooklyn Community Board 2 office 350 Jay Street DUMBO ... | Firecrawl search | https://cbbrooklyn.cityofnewyork.us/cb2/ ; https://www.brooklynbp.nyc.gov/community-boards/ (excerpts) | CD2 serves 163,100 residents incl. DUMBO; office 350 Jay St, 8th Floor | schema mentions, Sources |
+| 23 | NYC Loft Law interim multiple dwelling Article 7-C Loft Board ... | Firecrawl search | https://www.nyc.gov/site/buildings/dob/loft-board.page (excerpt) | Article 7-C (Loft Law) created the interim multiple dwelling (IMD) class | §Commercial rules list (hedged: "if yours is one, tell us") |
+| 24 | site:reddit.com DUMBO building package theft OR doorman OR buzzer OR "key fob" loft | Firecrawl search | https://www.reddit.com/r/Brooklyn/comments/1ox1y84/... (excerpt) | non-doorman Brooklyn building added keypad deadbolt to package room door (not DUMBO-specific) | Sources line only |
+| 25 | site:reddit.com dumbo brooklyn apartment building security OR break-in OR "front door" OR lobby | Firecrawl search | r/DUMBO threads (best rental buildings, Front & York, 100 Jay) — excerpts only | Nothing on doors/entry; full threads not retrievable → Reddit (local) EMPTY (not accessible in build env beyond excerpts) | Sources note |
+| 26 | Silo legal sources (reused from research/access-control-installation.md: BC 1010.1.9.8/1010.1.9.9, MDL §50-a, HMC §27-2043, HPD Tenant Data Privacy Law, LPC Permit Guidebook ch. 11) | repo research file | see silo entries | as recorded in silo research | §Commercial rules list, Q&A (glass door, exit-only), AI Reality Check, §Historic District |
+| 27 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html | single door $1,500–$2,500 (reader, strike, wiring, 10 fobs); keypad personnel door $1,500–$2,000; card readers multiple office/studio doors $4,000–$12,000; multi-door $4,000–$15,000 (table; hub FAQ says $4,000–$10,000 — CONFLICT, table used); full building $15,000–$40,000+; video intercom with fob $1,500–$3,000; $250 service call; $195/hr 3-hr min ($585); Cat6 from $175/drop, Cat6A from $250; 8.875% tax; <$500 full upfront, >$500 50% deposit | §Pricing, §Packages, FAQ 1, AI check #1, Service schema |
+| 28 | Google PAA / PASF / AI Overview for "access control DUMBO" | Google | — | EMPTY (not accessible in build env) | AI section intro says so |
+| 29 | Answer the Public | ATP | — | EMPTY (not accessible in build env) | — |
+| 30 | Bing / DuckDuckGo autocomplete & related | Bing/DDG | — | EMPTY (not accessible in build env) | — |
+| 31 | Yelp 1–3★ access control / locksmith DUMBO | Yelp | — | EMPTY (not accessible in build env) | — |
+| 32 | Brooklyn Eagle / Patch DUMBO access-control or lobby-entry stories | — | — | EMPTY (none found beyond Brooklyn Paper items above) | — |
+
+### Keyword layers
+- Service: access control installation, fob/card readers, mobile credentials, wallet badges, keypad entry, electrified exit devices, electric strikes, maglocks, freight elevator access control, video door stations, access control repair.
+- Problem: freight elevator as back door, propped service entrance on move days, shared lobby between residents and 24/7 offices, two badges for landlord and suite, offboarding gaps, bike room theft, daytime retail theft, copied 125 kHz fobs, flood-exposed cellars.
+- Technology: access groups, scoped administrators, identity-system sync, relay output to elevator controller, door-position contacts, held-open alerts, multi-technology readers, cloud controllers with local storage, NVR event review, alarm arming on badge-out.
+- Industry: loft condos, rental lofts, office lofts, coworking, tech/design firms, galleries, boutiques, restaurants, commercial landlords/managing agents.
+- Geographic: DUMBO, Water/Front/Washington/Main/Plymouth/Jay/John/York/Pearl/Adams/Bridge/Old Fulton/Prospect/Sands/Gold Streets, Manhattan Bridge Archway, Brooklyn Bridge Park, Empire Stores, Dumbo Heights, York St (F), High St (A/C), 84th Pct, CB2, 11201.
+
+### Unsourced / AESS practice (labeled on page as practice, not local fact)
+Controller placement above flood level; door-by-door table; cost-split pattern between landlord/tenant/shop ("a general pattern we see, not a rule"); concrete/timber cabling methods; elevator-contractor coordination; Field Notes freight-door survey method (stated as method, not a customer story); delayed-egress remark; wallet-badge/Slack/SOC 2/identity sync answers worded as "depends on platform, confirmed before quoting".
+
+### Question register (access-control-installation-dumbo-brooklyn-ny)
+Q&A (§9, H2 questions):
+1. Our converted factory condo has a freight elevator that opens straight onto every residential floor. How do we stop it becoming a back door into the apartments?
+2. Our loft building has apartments upstairs and offices on the lower floors whose staff come and go at all hours. How do residents and office workers share one lobby without sharing access?
+3. Residents move in and out through our service entrance on booked days. Can that door open only during a booked move window?
+4. Our lobby door is a heavy aluminum-and-glass storefront door with a narrow frame. What kind of electric lock actually works on it?
+5. Three companies share our office floor. Can each one manage its own staff on the same door without seeing the others' people?
+6. The landlord's lobby system and our suite reader are different brands. Can our employees carry one badge for both?
+7. Can our office door access switch off automatically when HR offboards someone in our identity system?
+8. Our building already has a 24-hour concierge at the front desk. Do we still need readers on the street door?
+9. Our building has entrances on two different streets. Can the quieter one be made exit-only without breaking the fire rules?
+10. Thefts at shops near us happened in daylight. Should a small DUMBO boutique keep its front door locked and buzz customers in?
+11. Bikes keep disappearing from our building's bike room. What will actually help?
+12. Our studio is on an upper floor of an office loft with no front desk. How do clients and couriers reach us when the street door is locked?
+Other "?" heading: Fitting Out a DUMBO Office or Loft This Year?
+
+FAQ (§17 = FAQPage schema):
+1. Do DUMBO jobs cost more than access control elsewhere in Brooklyn?
+2. How do your technicians deal with freight-elevator bookings, loading rules and parking on DUMBO's cobblestone blocks?
+3. Can staff open our office door with a badge stored in Apple Wallet or Google Wallet?
+4. Can door events be posted to our team's Slack or Microsoft Teams channel?
+5. When our company's lease ends and we move out, who owns the suite readers and controller?
+6. Can a reader work together with an automatic door opener on our lobby door?
+7. Our reader faces a busy sidewalk near the Archway. How do we protect it from stickers, spray paint and tampering?
+8. How can we tell whether our building's existing fobs are the easily copied kind?
+9. Our company is preparing for a SOC 2 audit. What door-access records can the system give us?
+10. Can AESS work alongside our general contractor during an office fit-out?
+11. Can our suite's intrusion alarm arm itself when the last person badges out at night?
+
+### Images (final, batch 18, 2026-10-18)
+11 files in images/access-control-installation/, WebP q80 (none needed resizing; all ≤1600 px), each viewed before use; no faces, house numbers, plates or readable documents. Manufacturer photos captioned "Manufacturer product photo, used as a reference"; job photos captioned "Photo from the AESS job library, not taken in DUMBO". No ImageObject contentLocation. First picks intercom-keypad-akuvox.png and uniview-wifi-video-doorbell.webp were dropped (same source already used by Bay Ridge/Bedford Park/Boerum Hill/City Line and Brighton Beach), and lorex-video-doorbell-camera-installation-brooklyn.jpg dropped (151 px wide).
+- …-dumbo-black-wired-video-doorbell-with-blue-ring-button.webp ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-black-poe-video-doorbell-product-photo.webp (manufacturer)
+- …-dumbo-white-and-black-video-doorbell-with-lit-button.webp ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-video-doorbell-product-photo.webp (manufacturer)
+- …-dumbo-white-unv-video-doorbell-with-camera-and-bell-button.webp ← images/uniview-camera-installation/uniview-camera-installation-staten-island-unv-white-video-doorbell-product-photo.webp (manufacturer)
+- …-dumbo-black-network-video-recorder-for-door-logs.webp ← images/nvr-digital-watchdog-cova.png (manufacturer)
+- …-dumbo-two-small-cameras-on-tall-wall-below-mezzanine-windows.webp ← images/dvr-upgrade/dvr-upgrade-queens-two-small-cameras-high-on-white-wall-below-mezzanine.webp (AESS job photo)
+- …-dumbo-black-mini-dome-camera-at-ceiling-edge.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-black-mini-dome-at-ceiling-edge.webp (AESS job photo)
+- …-dumbo-blue-and-white-cable-bundles-on-ceiling-pipe.webp ← images/dvr-upgrade/dvr-upgrade-putnam-blue-and-white-cable-bundles-above-recorder.webp (AESS job photo; same scene as other cable-bundle photos in the library, different crop)
+- …-dumbo-small-domes-in-office-drop-ceiling-with-light-panels.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-mini-domes-in-shop-drop-ceiling.webp (AESS job photo)
+- …-dumbo-black-bullet-camera-on-drop-ceiling-over-white-wall.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-black-bullet-on-ceiling-mount-over-plain-wall.webp (AESS job photo)
+- …-dumbo-small-camera-at-ceiling-above-dark-soffit.webp ← images/dvr-upgrade/dvr-upgrade-westchester-small-ceiling-camera-beside-dark-coffered-soffit.webp (AESS job photo)
+- …-dumbo-white-turret-camera-in-ceiling-tile-near-light.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-turret-camera-in-drop-ceiling-by-light-panel.webp (AESS job photo)
+
+## Eastchester, Bronx (access-control-installation-eastchester-bronx-ny)
+
+Built 2026-10-18 (batch 18, REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), quoted only from /access-control-installation-brooklyn.html exactly as the Bedford Park page did.
+
+Thesis: Eastchester (the northeast Bronx neighborhood, NOT the Westchester town) is a ground-level, owner-heavy neighborhood at the city line, so access control here is about many separate house doors, garage doors and yard gates, the staff/back-room doors of Dyre Avenue shops at the 5 train's terminal, and the vehicle gates, service bays and long lots of the Boston Road auto/scrap/storage strip and the Hutchinson River industrial district; plus the Bronx pocket east of the river with Pelham Manor addresses, and the Boston Secor PACT fob rollout as the one big-building example (named only as context, not a client). Edenwald is treated as its own page (CB12 lists it separately).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | Eastchester Bronx neighborhood boundaries Boston Road Dyre Avenue Hutchinson River | WebSearch | results list (Wikipedia, CB12, cityneighborhoods.nyc, Forgotten NY) | Source list | — |
+| 2 | (scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Eastchester,_Bronx | Not to be confused with the Town/CDP of Eastchester; working-class NE Bronx neighborhood; boundaries Westchester line / New England Thruway / Baychester Ave / 233rd St & Baychester Ave; Boston Road primary thoroughfare, Dyre Ave main commercial street; includes Edenwald (per Wikipedia); CB12; ZIPs 10466 (north of Boston Rd), 10475 & 10469 (south); 47th Pct at 4111 Laconia Ave; annexed from Town of Eastchester in the 1890s; name confusion with Eastchester Road and the town ("east of White Plains Road", "south of Mount Vernon", "near Pelham", "East 233rd Street"); Shopwell Plaza on Boston Road next to Boston-Secor; Seton Falls Park rehab 2007; "dominated by one- and two-family homes of various types, one large public housing project, and an industrial district"; ~half sq mi, low-lying, flat; Hutchinson River partly along E 233rd St; Thruway and Boston Road bridges; Boston Secor four buildings 13–18 stories; PS 15 NRHP 1981 on Dyre Ave; Edenwald library 1255 E 233rd St, opened 1973; Hillside PO 3482 Boston Road; stations Eastchester–Dyre Av and Baychester Av (5); buses Bx16, Bx30, Bee-Line BL52/BL55/BL60/BL61/BL62x; FDNY E38/L51 3446 Eastchester Rd | Neighborhood ¶1–2, facts list, Commercial cards, Landmarks, AI check "town" H3, Q&A Thruway/yard gate |
+| 3 | (fetch) | WebFetch | https://www.nyc.gov/site/bronxcb12/about/about.page | CB12 covers Baychester, Eastchester, Edenwald, Fishbay, Olinville, Wakefield, Williamsbridge, Woodlawn. Eastchester: ~½ sq mi bordered by Westchester County line, New England Thruway, Baychester Ave, E 233rd St; Boston Road main thoroughfare; Dyre Ave main commercial strip; industrial district; NYCHA "Boston Sector" Houses; Seton Falls Park 30+ acres, waterside trail, man-made waterfall, bird sanctuary, playgrounds, "Grand Canyon" of the Bronx; ZIP 10475. Edenwald listed separately (47th Pct, Baychester & Edenwald Houses). Office address / district manager not on page | Neighborhood ¶2, facts list, Commercial (industrial district), Landmarks (Seton Falls) |
+| 4 | (fetch) | WebFetch | https://www.nyc.gov/site/bronxcb12/about/about-bxcb12.page | Same neighborhood list; Boston Sector Houses in Eastchester; Baychester and Edenwald Houses in Edenwald | Thesis (Edenwald kept separate) |
+| 5 | (fetch) | WebFetch | https://www.cityneighborhoods.nyc/eastchester | WEAK secondary source (boundaries conflict with CB12; generic prose). Single/two-family homes with low apartment buildings; Boston Road, Edenwald Ave, Dyre Ave arteries; Seton Falls Park; 1917 subway claim conflicts with Wikipedia (1912 NYW&B / 1941 subway) | NOT used for any fact |
+| 6 | (fetch) | WebFetch | https://forgotten-ny.com/2018/10/eastchester-pelham-manor/amp | Oct 22, 2018: Boston Road (US 1) built 1794 by John B. Coles; Eastchester Bridge over the Hutchinson River; a small piece of Bronx Eastchester lies beyond the river; McOwen, Ropes, Hollers Aves; streets laid out in the 1920s, some without sidewalks; Boston-Secor Houses built 1960s on Holler land; Boston Road "mostly otherwise given over to car repair joints, junk dealers, and tire shops"; scrapyards, storage facilities, industrial areas along the river; a security fence manufacturer; city line cuts across West St, Good Place, Park Drive; reader comment: "Bronx Manor" homes with Pelham Manor postal addresses and 914 area code, pay city taxes, 1949 Pelham school agreement; Con Edison serves both sides | Neighborhood ¶5–6, Building cards (1920s streets), Commercial cards, Q&A Pelham Manor address, Q&A storage yard |
+| 7 | (fetch) | WebFetch | https://forgotten-ny.com/2023/08/the-good-place-eastchester/amp | Aug 29, 2023: Good Place mostly in Pelham Manor, western end in the Bronx; Bronx Manor; Pelham Manor postal addresses, 914 area code, city taxes; 1949 Pelham School District agreement | Neighborhood ¶6, Q&A Pelham Manor address |
+| 8 | (fetch) | WebFetch | https://forgotten-ny.com/?p=107724 | May 14, 2021 (Dyre Avenue line walk): NYW&B history 1872–1937; city bought ROW 1940; Dyre Ave shuttle; 1950s connection; LED poles at Dyre Ave | Background only (station facts taken from Wikipedia station page) |
+| 9 | Eastchester–Dyre Avenue station 5 train terminal history opened 1941 New York Westchester Boston Railway | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Eastchester%E2%80%93Dyre_Avenue_station | Dyre Ave & Light St, one block south of E 233rd St; opened May 29, 1912 (NYW&B), closed Dec 12, 1937, reopened May 15, 1941; northern terminus of the 5; not accessible, MTA announced elevators July 2025 (2025–2029 capital program); 2024 ridership 696,740 | Neighborhood ¶4, facts list, Commercial (Dyre Ave), Landmarks |
+| 10 | (scrape) | Firecrawl scrape | https://furmancenter.org/neighborhoods/view/williamsbridge-baychester | Page updated 05/06/2026: homeownership 38.6% (2024) vs 32.7% city; rental vacancy 3.2% (2024); serious HMC violations per 1,000 private rental units 215.4 (2025), 266.9 (2024), 70.9 (2006); public housing 2,731 units (2025); population 152,442 (2024) | Neighborhood ¶3, facts list (violations bullet later cut for length) |
+| 11 | Boston Secor Houses NYCHA Bronx door lock intercom tenants | WebSearch → WebFetch | https://www.nyc.gov/assets/nycha/downloads/pdf/communityplan-bs.pdf | Sept 2024 community plan; PACT transition Sept 2024; built 1969; 538 apartments, ~1,180 residents; four residential towers + garage at 2185 Reeds Mill Lane; community center 3555 Bivona St; planned keyless layered access control, key fobs at front lobby, rear entrances, laundry rooms, package rooms, community spaces; wireless intercoms; new cameras, 24-hour monitoring; new keyed-entry hardware on apartment doors; new vestibules | Neighborhood ¶7, facts list, Q&A "twelve-unit building", Landmarks |
+| 12 | (same search) | WebFetch | https://comptroller.nyc.gov/newsroom/comptrollers-auditors-find-40-1-of-nycha-entrance-doors-have-broken-locks-as-part-of-new-resident-powered-audit-initiative | Field review Aug 30–Sep 8, 2022, 262 developments; entrance door locks broken 40.1%; rear/side 28.5%; Bronx: doors open 42.5%, broken locks 47.6%, not secured 63.5% (2022) vs 24.9% (2018) | Sources list + WebPage citation only (not argued in body) |
+| 13 | Eastchester Bronx home burglary OR "package thief"… News 12 OR "Bronx Times" 47th Precinct | Firecrawl search → scrape | https://www.norwoodnews.org/update-eastchester-man-arrested-after-fatal-fire-and-14-hurt-in-nycha-building-explosion/ | Jan 24, 2026, 00:19, 3485 Bivona St (Boston Secor): gas explosion and fire during PACT renovation; 1 dead, 1 critical, 14 injured; Jan 28 arrest of an undomiciled 55-year-old man on murder, manslaughter, assault, burglary and other charges; residents banged on doors to evacuate | Neighborhood ¶7, Q&A firefighters/EMS (egress) — written soberly, no speculation about how the suspect entered (source does not say) |
+| 14 | "Dyre Ave" OR "Dyre Avenue" Bronx police robbery store 2026 | Firecrawl search → scrape | https://www.amny.com/new-york/bronx/string-of-bronx-robberies/ | Nov 5, 2023 (Dean Moses): 47th Pct pattern; Oct 31, 2023 ~12:50 a.m. armed robbery at a deli at 3805 Dyre Ave, store full of people, phones and $450 taken | Q&A "door behind the counter" (stated plainly that a door would not stop a counter robbery) |
+| 15 | (same search) | Firecrawl search (excerpts) | fox5ny.com Facebook Marketplace robberies near Dyre Ave; News 12 Eastchester shootings; News 12 Bee-Line stop incident | Not access-control relevant | NOT used |
+| 16 | site:reddit.com Eastchester Bronx Dyre Avenue living neighborhood | Firecrawl search (excerpts only) | https://www.reddit.com/r/bronx/comments/1h65n0p/ ; https://www.reddit.com/r/nycrail/comments/1kmf0kl/ | Excerpts: "chill, mostly safe neighborhood of working class and retired people"; "mostly consists of low rise houses and very little apartments". Full thread WebFetch blocked (permission not answered) | NOT quoted on page (excerpt-only) |
+| 17 | Seton Falls Park Bronx NYC Parks history acres Rattlesnake Brook | Firecrawl search (excerpts) | https://www.nycgovparks.org/parks/seton-falls-park/history ; https://en.wikipedia.org/wiki/Seton_Falls_Park | City acquired 32 acres of Seton estate 1914 (Parks excerpt); Wikipedia excerpt places the park "in the Edenwald area" | Only CB12's description used on page |
+| 18 | New York Civil Rights Law 52-c electronic monitoring employees notice effective May 7 2022 | WebSearch → WebFetch | https://www.genovaburns.com/news/labor-law/2022-05-09-new-york-new-electronic-monitoring-law-effective-may-7-2022 | Employer notice/acknowledgment for monitoring of phone, email, internet; posting; AG enforcement; no mention of door logs or key cards | FAQ "tenant data rules … business with no apartments", AI check biometric H3 |
+| 19 | Silo legal (reused from silo research, re-cited) | — | MDL §50-a (nysenate.gov); HPD Tenant Data Privacy Law page; BC 1010.1.9.8 / 1010.1.9.9 (amlegal); Admin Code §28-105.4.7 (amlegal) | As recorded in the Bay Ridge / Bensonhurst / Brighton Beach sections | Commercial compliance list, Q&A, AI check, FAQ |
+| 20 | Cost-guide figures (reused from silo research) | — | Angi security door, Fixr security entry door, Fixr smart lock (~$300), simpleaccesscontrol.solutions ($1,500–$5,000/door) | Published estimates, labeled as such | AI check H3 #1, pricing comparison paragraph |
+| 21 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html | Single door $1,500–$2,500; keypad personnel door $1,500–$2,000; video intercom panel w/ fob $1,500–$3,000; multi-door $4,000–$15,000; card readers several office doors $4,000–$12,000; full building $15,000–$40,000+; buzzer repair $200–$500; $195/hr 3-hr min; 8.875% tax; <$500 upfront, >$500 50% deposit | Pricing table, packages, Service schema. Vehicle gates: no published price → "priced after a site visit" |
+
+### EMPTY sources
+- Google PAA: EMPTY (not accessible in build env)
+- Google PASF: EMPTY (not accessible in build env)
+- Answer the Public: EMPTY (not accessible in build env)
+- Google AI Overview: EMPTY (not accessible in build env) — the AI Reality Check section says so and corrects "claims we hear repeated", quoting no AI text
+- Bing / DuckDuckGo autocomplete & related: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit full threads (r/bronx Dyre Avenue thread): EMPTY (not accessible in build env — WebFetch permission not answered; excerpts only, not used)
+- amNY first WebFetch: blocked (permission not answered); retrieved via Firecrawl scrape instead
+- Bronx Times / Patch / News 12 Eastchester access-control or door stories: EMPTY (none found; only unrelated crime items)
+- CB12 office address / district manager: EMPTY (not on the fetched page; not used)
+
+### Flags (hedged / unsourced, written as AESS practice on the page)
+- Practices: which house door first, credentials for children, per-company tow codes, gate input wiring and reversal testing, bay-door remote purge, battery/solar/fence-line power for remote gates, controller DB export, doorbell-wire reuse, alarm-partition advice, mechanical key cylinder on every street door — all AESS practice, not local fact.
+- "Confirm the borough and block from city property records" before quoting the Bronx Manor pocket — AESS process statement.
+- "On the other side of Bronx Park" (office relative to Eastchester) — geographic description, not a drive time.
+- Boston Secor and the January 2026 fire are named only as context; explicitly "not our client".
+- Wikipedia counts Edenwald inside Eastchester; CB12 lists it separately — page follows CB12 and links the Edenwald page.
+
+### Question register
+Q&A (§9, H3):
+1. Our house has a front door, a side door off the driveway and a door from the garage into the kitchen. Which one should get the keypad first?
+2. Our teenagers keep losing house keys. For children, is a code, a fob or a phone app the better credential?
+3. Our house east of the Hutchinson River has a Pelham Manor mailing address and a 914 phone number. Do New York City's rules or Westchester's apply to the entry system?
+4. The back of our lot meets the Thruway fence, and the yard gate is the only other way in. Should that gate be on the same system as the house?
+5. Can a door behind the counter keep anyone from following a cashier into the back room while the shop is open?
+6. Can the lock on our late-night store's front door change over on a timer at midnight, so nobody has to remember to flip it?
+7. We rent the shop below our apartment on Dyre Avenue to a tenant who wants a keypad on the back door. Who should own the codes?
+8. Our repair shop keeps customers' cars in a fenced lot overnight. How should the lot gate handle tow trucks that arrive at all hours?
+9. Can a keypad or reader be added to a sliding gate that already has a motor, or does the whole operator have to be replaced?
+10. Former mechanics may still have remotes for our bay doors. How do we take back control without changing every door?
+11. Our storage yard backs onto the river and the gate is far from any power. Can a reader still work there?
+12. The NYCHA complex nearby is getting fobs at its lobbies, laundries and package rooms. We own a twelve-unit building. Which parts of that plan make sense at our scale?
+13. How do firefighters and EMS get through a street door that only opens for fobs?
+14. Is a Westchester installer allowed to put access control on a Bronx property, and can AESS work across the line in Mount Vernon or Pelham Manor?
+Other "?" heading: Gate Stuck Open or Keypad Dead in Eastchester Today?
+
+FAQ (§17 = FAQPage schema):
+1. If the controller in our shop office is damaged or stolen, do we lose every code and the gate log?
+2. Can a gate call box ring my cellphone when a customer or a delivery is waiting at the gate?
+3. Can the cleaner's code open our side door without also turning off the house alarm?
+4. Do you install keypads and readers on garage doors?
+5. Who should hold the administrator account for a family home system?
+6. Do the city's tenant data rules apply to a door system at a business with no apartments?
+7. Can a new keypad or door station use the wire from our old doorbell?
+8. Is a Wi-Fi smart lock enough for our house, or do we need a wired controller?
+9. What should we have ready before the survey of a gate on our lot?
+10. Can access control be added to a new fence and gate that a fence company is still building?
+
+Meaning check done against the full silo register (Bay Ridge, Bedford Park, Bensonhurst, Boerum Hill, Brighton Beach, City Line) and the batch-18 siblings as they stood at build time (Edenwald, DUMBO): one FAQ replaced (cost-at-edge-of-borough duplicated DUMBO's "cost more than elsewhere"), one FAQ reworded (alarm integration vs DUMBO's auto-arm), one Q&A reworded (late-night buzz-in vs DUMBO's daytime buzz-in → timer changeover intent).
+
+### Images (11, images/access-control-installation/, WebP q80, each viewed first; no faces, plates, house numbers or readable documents)
+| New file | Source | Kind |
+|---|---|---|
+| access-control-installation-eastchester-keypad-and-card-reader-door-station.webp | images/intercom-keypad-akuvox.png | manufacturer (same photo as Bay Ridge's) |
+| access-control-installation-eastchester-touchscreen-entry-panel-with-dial-pad-and-reader.webp | images/intercom-touchscreen.png | manufacturer (same photo as Bay Ridge's) |
+| access-control-installation-eastchester-white-indoor-intercom-monitor-with-contact-list.webp | images/intercom-indoor-monitor.png | manufacturer (same photo as Bay Ridge's) |
+| access-control-installation-eastchester-white-video-doorbell-with-lit-bell-ring.webp | images/lorex-video-doorbell-camera-installation-bronx.jpg | manufacturer (not used elsewhere in the silo) |
+| access-control-installation-eastchester-black-video-doorbell-with-round-bell-button.webp | images/uniview-wifi-video-doorbell.webp | manufacturer (same photo as Brighton Beach's) |
+| access-control-installation-eastchester-white-bullet-camera-with-wall-mount-box.webp | images/dvr-upgrade/dvr-upgrade-staten-island-long-white-bullet-camera-for-driveways-product-photo.webp | manufacturer (unused in silo) |
+| access-control-installation-eastchester-white-floodlight-camera-with-two-lamps.webp | images/dvr-upgrade/dvr-upgrade-putnam-white-floodlight-camera-with-twin-lamps-product-photo.webp | manufacturer (unused in silo) |
+| access-control-installation-eastchester-job-photo-recorder-view-of-stockroom-and-open-doorway.webp | images/dvr-upgrade/dvr-upgrade-putnam-grey-camera-tile-of-storeroom-and-open-doorway.webp | AESS job photo (unused in silo) |
+| access-control-installation-eastchester-job-photo-recorder-screen-of-service-bays-and-showroom.webp | images/dvr-upgrade/dvr-upgrade-nassau-county-recorder-screen-channel-grid-and-bitrate-table.webp | AESS job photo (unused in silo) |
+| access-control-installation-eastchester-job-photo-black-bullet-camera-on-ceiling-grid.webp | images/dvr-upgrade/dvr-upgrade-ulster-black-bullet-camera-on-ceiling-grid-above-corridor.webp | AESS job photo (same room as Bensonhurst/City Line corridor shots, different file) |
+| access-control-installation-eastchester-job-photo-turret-camera-above-glass-entry-vestibule.webp | images/intercom-repair/intercom-repair-putnam-county-turret-camera-above-glass-entry-vestibule.webp | AESS job photo (same photo as Bensonhurst's) |
+No image is shared with the Bronx siblings Bedford Park or Edenwald. Every door-station / doorbell product photo in the library is now used on at least one access-control page; real access-control photos are still needed (Drive "AESS Website Photos/Access Control").
+
+## Edenwald, Bronx (access-control-installation-edenwald-bronx-ny)
+
+Built 2026-10-18 (batch 18, REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx. Phone (646) 490-0629. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), copied from /access-control-installation-brooklyn.html exactly as the Bedford Park page did.
+
+Thesis: Edenwald's private housing is owner-occupied one- and two-family houses on their own lots (Furman: 38.6% homeownership in CD12 vs 32.7% city), so access control here is a whole-lot perimeter plan — front, side, basement, cellar hatch, yard, driveway gate and rear garage, sorted into "credential / contact only / no electronics" — with rear yards that end at Seton Falls Park's woods treated as a front; plus the rules that switch on when a house is rented, holds 3+ households (MDL §4/§50-a, TDPA) or gets a motorized gate (UL 325). The Edenwald Houses' public door record (News 12 2012/2017, Comptroller 2022 audit, HDC 2023 PACT "enhanced security and access control") is used only as a maintenance lesson, with an explicit "AESS does not work for NYCHA" line. Differentiated from sibling Eastchester (Dyre Ave shops, industrial/repair lots, Thruway/Hutchinson, Pelham Manor jurisdiction) by being house-and-yard focused.
+
+### Research matrix (query · platform · URL · finding · page section)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (scrape) Edenwald, Bronx | Firecrawl scrape (redirects) | https://en.wikipedia.org/wiki/Eastchester,_Bronx | Edenwald = sub-neighborhood of Eastchester; CB12; ZIPs 10466/10475 (north of Boston Rd = 10466); 47th Pct 4111 Laconia Ave; "dominated by one- and two-family homes of various types, one large public housing project, and an industrial district"; Edenwald Houses largest NYCHA dev in Bronx, 40 bldgs 3 or 14 storeys, 48.88 acres, 2,036 apts, completed Oct 15 1953, bordered by Grenada Pl, E 225th St, Baychester & Laconia Aves, split by 229th St; Boston Road primary thoroughfare, E 233rd St major; Seton Falls Park rehabilitated 2007; NYPL Edenwald branch 1255 E 233rd St, opened 1973; Bx16, Bx30 (Boston Rd), Bee-Line BL52/55/60/61/62; FDNY E38/L51 3446 Eastchester Rd (not used) | §5 paras 1–2, glance list, §8 commercial, landmarks |
+| 2 | Edenwald Bronx neighborhood boundaries one- and two-family homes Seton Falls Park | WebSearch → WebFetch | https://theneighborhoods.substack.com/p/edenwald-the-bronx | Rob Stephenson: northern edge of Bronx; Baychester Ave runs through the middle; Seton Falls Park (30-acre, conflicts with Parks/Wikipedia 35 — not used); one- and two-family homes and row houses; Edenwald Houses 40 bldgs opened 1953, 3- and 14-storey; Baychester Houses PACT 2020; name from John H. Eden's estate (German "Eden's forest"); 2016 gang raid (not used) | §5 para 2, sources |
+| 3 | (fetch) | WebFetch | https://www.cityneighborhoods.nyc/edenwald | Boundaries E 222nd St (S), Westchester line (N), Bussing/Bruner Aves (NW), 5-line tracks (E), Boston Rd (SE); "Lacombe Ave" west (doubtful — not used); two-storey brick dwellings early 1900s, small-lot bungalows marketed ~1905, name in ads ~1905; NYW&B 1912. WEAK source: also claims Catholic Protectory on Baychester Houses site (wrong) — only boundary/housing-type lines used, hedged "definitions vary" | §5 para 1, §7 intro |
+| 4 | (fetch) | WebFetch | https://www.nyc.gov/site/bronxcb12/about/about.page | CB12 neighborhoods: Baychester, Eastchester, Edenwald, Fishbay, Olinville, Wakefield, Williamsbridge, Woodlawn; Edenwald has Baychester Houses and Edenwald Houses; 47th Pct located in Edenwald | §5 para 1, glance list, landmarks |
+| 5 | 47th Precinct NYPD 4111 Laconia Avenue neighborhoods served Edenwald Wakefield Woodlawn | WebSearch → WebFetch | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/47th-precinct.page | 4111 Laconia Ave 10466; serves Woodlawn, Wakefield, Williamsbridge, Baychester, Edenwald, Olinville, Fishbay, Woodlawn Cemetery | glance list, landmarks |
+| 6 | (scrape, query) | Firecrawl scrape | https://furmancenter.org/neighborhoods/view/williamsbridge-baychester | Updated 5/6/2026: homeownership 38.6% (2024) vs 32.7% city; housing units 60,578 (2024); rental vacancy 3.2% (2024); serious HMC violations 215.4/1,000 (2025), 70.9 (2006); public housing units 2,731 (2025); Mitchell-Lama 1,315 units; pre-foreclosure notices 1,424 (2023, not used) | §5 para 3, glance list |
+| 7 | Seton Falls Park NYC Parks history Cragdon Seton waterfall Edenwald | WebSearch → WebFetch | https://www.nycgovparks.org/parks/X046/history (fetched as php1-84.nycgovparks.org/parks/X046/history) | Nathaniel Prime "The Cedars"; Emily Prime m. William Seton (eldest son of St Elizabeth Seton), inherited 1840, renamed Cragdon, 51 acres; city acquired 32 acres June 10 1914 for contagious-disease hospital; 29 acres to Parks June 11 1930 after ~15 yrs opposition, 3 more 1932; 1981 pumping station for Rattlesnake Creek flooding | §5 para 5, landmarks |
+| 8 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Seton_Falls_Park | ~35 acres; E 233rd St (N), Baychester Ave (W), Crawford Ave & Marolla Pl (S), Pratt Ave (SE), private property (E); only above-ground section of Rattlesnake Brook, artificial waterfall; preserve 30+ bird species; High Rock Playground (NW), Stars & Stripes Playground (SW) | §5 para 5, glance list, landmarks |
+| 9 | Bronx Times Edenwald burglary home break-in 47th Precinct 2025 OR 2026 | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Edenwald_Houses | Bounded by Grenada Pl, E 225th St, Baychester, Schieffelin, Laconia Aves; 40 bldgs 3–14 storeys; 2,039 units (conflicts with 2,036/2,035 — page quotes HDC's 2,035 only); architect Rodgers & Butler; 2016 raid, 2019 (not used) | glance list, landmarks |
+| 10 | Edenwald Houses NYCHA doors locks intercom broken residents news | WebSearch → WebFetch | https://brooklyn.news12.com/edenwald-tenants-broken-doors-are-reason-to-worry-34805644 | May 29 2012: Edenwald Houses tenants — broken front doors, "anyone can walk through the building" (summary only; body truncated) | §8.6 NYCHA lesson |
+| 11 | (same search) | WebFetch | https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments (+ newsroom release) | FK23-069S, Sept 21 2022: 262 developments visited Aug 30–Sep 8 2022; 40.1% entrance door locks broken; 36.8% entrance doors open; rear/side 37.5% open, 28.5% broken; 57.9% open and/or broken vs 23.5% (2018); Bronx 63.5% not secured (table garbled — page says only "worse than the city average, as we read the report's table"); recommendations: repair locks, intercoms, release buttons, closers; inspect; notify maintenance immediately. Edenwald not named | §8.6, AI check H3 #7 |
+| 12 | Edenwald Houses PACT conversion renovation security cameras layered access intercom 2024 2025 | WebSearch → WebFetch | https://www.nychdc.com/newsroom/city-announces-closing-783-million-pact-modernization-project-edenwald-houses | June 28 2023: $783M PACT closing; ~5,000 residents, 2,035 apts, 40 bldgs, built 1953; Camber, Stuart Alexander, Henge, L&M; C+C Management; façades, roofs, lobby/common areas, "new entryways", "enhanced security and access control", C+C security staff monitor cameras; ~3 yrs campus, apartments over 4 yrs in clusters of 5–6 bldgs | §5 para 6, §8.6, glance list, landmarks |
+| 13 | (search result) | WebFetch | https://bronx.news12.com/burglar-targets-maintenance-rooms-at-edenwald-houses-35408417 | May 11 2017: burglar targeting maintenance rooms across Edenwald Houses, equipment worth hundreds of dollars | §8.6 |
+| 14 | "Edenwald" Bronx home invasion OR "package thief" OR "burglary" house Bussing Avenue OR "De Reimer" OR "Schieffelin" OR "Wilder Avenue" | WebSearch → WebFetch | https://www.dnainfo.com/new-york/20170706/edenwald/nypd-police-cockatiels-cologne-cash-bronx-burglary | July 6 2017: June 23 ~10 a.m., Edson & Strang Aves, Edenwald — burglar broke into the home's basement; two cockatiels, cologne, $600 cash | §5 para 4, Q&A basement door |
+| 15 | (same search) | WebFetch | https://www.bxtimes.com/edenwald-home-invaders-tortured-victim-with-hot-iron-to-steal-cash | Feb 25 2021: Feb 22 ~3 p.m., apartment near E 227th St & Barnes Ave in Edenwald; two men pretended to be plumbers to get inside (violence details not used) | §5 para 4, AI check H3 #6, image caption |
+| 16 | Eastchester–Dyre Avenue station Baychester Avenue station 5 train opened 1941 Dyre Avenue Line | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Eastchester%E2%80%93Dyre_Avenue_station ; https://en.wikipedia.org/wiki/Baychester_Avenue_station | Dyre Ave & Light St; Baychester & Tillotson Aves; NYW&B opened May 29 1912; subway May 15 1941; neither accessible; elevators/ADA in MTA 2025–2029 plan | landmarks |
+| 17 | UL 325 gate operator entrapment protection photo eyes edge sensors residential slide swing gate requirements | WebSearch → WebFetch | https://www.dasma.com/wp-content/uploads/2026/01/TDS356.pdf | DASMA TDS #356 (UL 325 FAQ): two separate entrapment protection means per direction for slide & swing operators; external sensors monitored each cycle; slide gates screened bottom to 6 ft (2-1/4 in sphere); separate pedestrian opening required where pedestrians present | §8.5 rules, Q&A gate motor, AI check H3 #3, equipment table |
+| 18 | reddit Edenwald Bronx living house neighborhood safe | Firecrawl search | https://www.reddit.com/r/bronx/comments/1ofpx1h/a_visit_to_edenwald/ (+ r/bronx "Is this area safe?" threads) | Excerpts only; full threads not retrievable → EMPTY (not accessible in build env); nothing quoted | Sources note |
+| 19 | Silo law (reused from register research) | — | https://www.nysenate.gov/legislation/laws/MDW/50-A ; https://www.nysenate.gov/legislation/laws/MDW/4 ; https://nycadmincode.readthedocs.io/t27/c02/sch02/art11/index.html ; https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page ; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-173513 | MDL §4 (3+ families = multiple dwelling), §50-a, HMC §27-2043, LL63/2021, BC 1010.1.9.8–9; Admin Code 28-105.4.7 (<50 V, from Bensonhurst research) | §8.5, Q&A, AI check |
+| 20 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html | Single door $1,500–$2,500; multi-door $4,000–$15,000; full building $15,000–$40,000+; keypad personnel door $1,500–$2,000; card readers multiple office doors $4,000–$12,000; video intercom panel w/ fob $1,500–$3,000; buzzer repair $200–$500; $195/hr 3-hr min; 8.875% tax; <$500 full upfront, >$500 50% deposit | §14 pricing, §15 packages, Service schema |
+| 21 | Google PAA / PASF / AI Overview / Answer the Public / Bing & DDG / Yelp 1–3★ for "access control Edenwald" | — | — | EMPTY (not accessible in build env) | AI section intro and Sources note say so |
+| 22 | Patch / City Limits / Bronx Times on Edenwald access-control or intercom specifically (beyond items above) | WebSearch | — | EMPTY (no further item found) | — |
+
+### Unsourced / AESS practice (stated as practice on page, not as local fact)
+Three-group opening sort; siding mounting blocks; strike-box/long-screw practice; wireless-bridge "leaves on" test; gooseneck keypad placement and bollard; cantilever vs track gate in snow; auto-unlock/touch-to-open guidance; hold-open/party mode; dementia door alerts; family child care hardware (OCFS named as licensing body — hedged, inspector's requirements prevail); shared-driveway easement advice (general, "confirm with deeds"); keypad code capacity "a couple of dozen to a few hundred" (general range); route "up Boston Road or the Bronx River Parkway".
+
+### Question register
+Q&A (§9, H3):
+1. Our back yard ends at the woods of Seton Falls Park. What does the back of the house need that the front door does not?
+2. Burglars in this area have come in through basements. What should go on a basement door at the bottom of an outside stairwell that nobody can see from the street?
+3. There is a steel cellar hatch in our yard that opens onto the basement stairs. Can that be locked or watched electronically?
+4. We want to add a motor to our sliding driveway gate. What has to be in place so it can never close on a child or a car?
+5. Our detached garage sits at the back of the lot. How does a reader out there get power and a connection to the house?
+6. Our house has vinyl siding. Can a keypad or reader be mounted on it without leaks or rattling?
+7. Can the side door unlock by itself when we walk up with our hands full of shopping?
+8. My mother has dementia and sometimes tries to go out at night. Can the system warn us when the front door opens after bedtime?
+9. Our late father's house is empty while the estate is settled. How do we control who goes in and know when they do?
+10. We run a family child care program in our house. How do we keep toddlers from walking out the front door without blocking a fire exit?
+11. We own houses on both sides of the Mount Vernon line. Can one app run the Bronx house and the Mount Vernon house?
+12. Our six-family building's front door keeps getting kicked and propped. What hardware actually survives that kind of abuse?
+13. I live in the Edenwald Houses. Can AESS repair my building's front door or put a reader on my apartment door?
+Other "?" heading: Gate Stuck Open or a Keypad Gone Dark in Edenwald?
+
+FAQ (§17 = FAQPage schema):
+1. Is a video doorbell enough for an Edenwald house, or does it need a real access control system?
+2. Where should the keypad for a driveway gate go so a driver can reach it without getting out of the car?
+3. Will a sliding driveway gate keep working when snow and ice build up in the track?
+4. Can a keypad lock left by the previous owner be reset if nobody knows the master code?
+5. Can porch or path lights switch on when someone uses the gate code?
+6. Can we get a notification when our children get home from school, without tracking anyone else?
+7. Does an electric strike make a door easier to kick in than a deadbolt?
+8. Will a keypad lock fit a door that already has a separate deadbolt above the knob?
+9. Our semi-detached house shares a driveway with the house next door. Do we need the neighbor's permission for a gate or a cable across it?
+10. How many user codes can a keypad deadbolt hold, and is that enough for a large household?
+11. Can the gate and front door stay open for a family party and then lock again on their own?
+
+Meaning check: dropped/replaced during build because they overlapped Eastchester (built in parallel) — "code at side door also disarms alarm" (= Eastchester FAQ), "battery keypad vs wired reader" (≈ Eastchester "Wi-Fi smart lock enough or wired controller?"), "overhead garage door same app" (≈ Eastchester "keypads on garage doors"), "which opening first" reframed to rear-of-house; "outswing door strike" removed; "car auto-opens gate" replaced (overlapped Q7 auto-unlock).
+
+### Images (final, batch 18, 2026-10-18)
+11 files in images/access-control-installation/, WebP q80, each source viewed before use; no faces, house numbers, plates or readable documents. None of the sources is used by Bedford Park, Boerum Hill, Brighton Beach or City Line (checked by pixel comparison). Captions: "Manufacturer product photo, used as a reference" / "Photo from the AESS job library, not taken in Edenwald". No ImageObject contentLocation.
+- …-edenwald-silver-door-station-with-card-reader-and-call-button.webp ← images/intercom-mini-panel.jpeg (manufacturer; also used by Bay Ridge)
+- …-edenwald-single-button-video-door-station-silver-and-black.webp ← images/akuvox-video-door-station.webp (manufacturer; also Bay Ridge)
+- …-edenwald-black-video-doorbell-with-blue-lit-bell-button.webp ← images/lorex-video-doorbell.webp (manufacturer)
+- …-edenwald-oval-video-doorbell-with-blue-bell-button.webp ← images/invid-video-doorbell.png (manufacturer)
+- …-edenwald-white-doorbell-mounting-backplate.webp ← images/intercom-repair/intercom-repair-staten-island-white-network-video-doorbell-rear-mounting-side-product-photo.webp (manufacturer)
+- …-edenwald-recorder-view-of-brick-wall-and-paved-lot.webp ← images/dvr-upgrade/dvr-upgrade-nassau-county-split-screen-tile-brick-wall-and-paved-lot.webp (job photo, recorder view)
+- …-edenwald-white-turret-camera-under-fascia-beside-bare-trees.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-white-turret-under-storefront-fascia.webp (job photo)
+- …-edenwald-ceiling-camera-near-lit-exit-sign.webp ← images/dvr-upgrade/dvr-upgrade-nassau-county-small-ceiling-camera-near-exit-sign-and-vent.webp (job photo)
+- …-edenwald-blue-and-white-cables-above-equipment-rack.webp ← images/dvr-upgrade/dvr-upgrade-westchester-cable-bundles-at-ceiling-above-equipment-rack.webp (job photo)
+- …-edenwald-dome-camera-in-stained-ceiling-corner.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-dome-camera-in-old-plaster-corner.webp (job photo)
+- …-edenwald-small-camera-and-white-sensor-on-bare-wall.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-small-bullet-camera-on-bare-wall.webp (job photo)
