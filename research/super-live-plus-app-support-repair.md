@@ -1085,3 +1085,398 @@ images: 11 reused from images/security-camera-maintenance/, images/school-securi
 | 9 | super-live-plus-app-support-repair-manhattan-mini-camera-at-ceiling-edge-above-lit-soffit.webp | images/security-camera-maintenance/security-camera-maintenance-orange-county-mini-camera-at-ceiling-edge-above-lit-soffit.webp |
 | 10 | super-live-plus-app-support-repair-manhattan-four-dome-cameras-and-recorder-kit-product-photo.webp | images/security-camera-maintenance/security-camera-maintenance-brooklyn-four-dome-camera-recorder-kit-product-photo.webp |
 | 11 | super-live-plus-app-support-repair-manhattan-recorder-live-view-tiles-with-date-stamp.webp | images/security-camera-maintenance/security-camera-maintenance-nyc-recorder-live-view-with-date-and-time-stamp.webp |
+
+
+---
+
+# PART — Queens builder (batch 12, 2026-10-18)
+
+# Super Live Plus App Support Repair — Queens (REBUILD 2026-10-18, batch 12) — part file for research/super-live-plus-app-support-repair.md
+
+Page `super-live-plus-app-support-repair-queens` · up `/super-live-plus-app-support-repair-nyc` · direct (347) 434-6392 (body, CTAs, sticky bar, form JS, schema); (800) 486-0943 only in shared mega-nav header · GBP Bronx (460 E Fordham Rd, `#bronx`) · WhatsApp only wa.me/17186790359 (+ footer text) · §9 Queens 1.05×. Chrome (CSS, mega-nav, sticky bar, scripts) copied from the rebuilt Bronx SLP page with phone swapped; every visible sentence new. Generator + body source: scratch `b12-queens/gen.py`, `body.html`, `faq.json`.
+
+**Thesis (distinct from nyc = 5G/NYCHA/landlords, bronx = fragile broadband + installer gone, manhattan = recorder login/white label/tenants, long-island = distance/seasonal, orange = ISP re-plumbing/filtered phones, putnam = remote owners/weak links):** In Queens the people watching a Super Live Plus recorder speak many languages and carry phones bought on several continents (47.6% foreign-born; 56.4% speak another language at home), and the recorder sits in a cellar or basement that floods — so Queens SLP work is about the phone end (app language gaps: no Bengali/Punjabi/Hindi/Urdu/Tagalog/Haitian Creole menus; Android phones without Google services never get push; sideloaded APK copies; app missing from the China App Store; per-phone device lists) plus the recorder end (TVT's factory GMT+8 Beijing clock, sensor alarm → push water warnings, recorders moved above the water line, drive recovery after floods).
+
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. FC = Firecrawl (`mcp__Firecrawl__firecrawl_search` / `firecrawl_scrape`, Alexandria providers apps-apple-com, aptoide-com, census-gov). Shell curl blocked. "Carried" = sourced earlier in another research file (named), not re-fetched.
+
+Page section labels: §Hero, §Quick, §5 (+facts list, language table), §Repair (checks + symptom table), §6, §7 (+visit, §7.5 placement, co-op para), §8 (+family-store para, §8.5 rules), §9 Q&A (clusters A phones, B clocks, C water), §10 (+phone table), §10.5 claims 1–7, §11 form, §12 steps, §13, §14 (+not-on-bill, brand table), §15, §16, Field Notes, §17 FAQ, §19 siblings, §Sources, close.
+
+## Source matrix (§3)
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | EMPTY for Queens SLP: FC search `"SuperLive Plus" OR "Super Live Plus" Queens OR Flushing OR "Jackson Heights" OR Jamaica camera` returned only store listings, superliveplus.net, YouTube, eBay listing, BlueStacks, CCTV Camera Pros — no Queens thread. Silo Reddit rows not reused on this page. |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so and tests 7 claims from download sites/help-desk patterns. |
+| 6 | Landmarks | carried L-Q1 (Jackson HD), L-Q2 (Unisphere), C-Q4/C-Q5 (Flushing, Jamaica), Q-W2/Q-W4 (Woodside), Q-W5 (SE Queens). |
+| 7 | Building stock / use cases | carried H-Q1 (ACS housing), CO-2/CO-4 (co-ops); new ACS nativity/internet. |
+| 8 | Bing / DDG | EMPTY (not accessible in build env). |
+| 9 | Local news | carried NY1 (2026 Flushing flood; 2024 groundwater), PIX11 (Ida), Queens Daily Eagle (Ida), Hoodline (Woodside), QNS (Jan 2026 burglaries), Police1 (camera program). |
+| 10 | Hyperlocal | Queens Chronicle (carried excerpt, Main St/Roosevelt 100,000/day), QNS. Queens Ledger / QNS items on SLP or TVT: EMPTY. |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env). |
+
+## New this run (Queens + silo-usable)
+| ID | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| QS1 | Alexandria apps-apple-com apps/app app_id 1058758642 country us | https://apps.apple.com/us/app/superlive-plus/id1058758642 | 33 languages: English, Albanian, Arabic, Bulgarian, Croatian, Czech, Danish, Dutch, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Lithuanian, Macedonian, Norwegian Bokmål, Polish, Portuguese, Romanian, Russian, Serbian, Simplified Chinese, Slovak, Slovenian, Spanish, Traditional Chinese, Turkish, Ukrainian, Vietnamese (NO Bengali, Punjabi, Hindi, Urdu, Tagalog, Haitian Creole). 3.9 from 15,849; requires iOS 12.1+, Mac M1+ (macOS 12). Version history: 1.13.1 (2023-10-09) "Fixed issue with interface still displaying English in Traditional Chinese"; 1.13.5 (2024-01-25) "Support Vietnamese, Ukrainian"; 1.13.2 (2023-10-23) identification of all people, vehicles and non-event targets, target boxes during playback; 1.14.0 (2024-05-10) doorbell time zone + DST; 1.15.0 (2024-11-08) and 1.16.0 (2025-04-25) sharing optimised; 1.11.1 (2022-10-29) doorbell; 1.16.7 (2026-01-05). | §5 paras 1, 3, facts, language table; §9 Q4, Q5, Q6, Q9; §10 cards; §10.5 claim 3; Sources |
+| QS2 | same, country cn | (lookup) | `not_found` (404) for the China storefront. Page wording: "the lookup for the mainland China storefront returned no listing". | §9 Q3 |
+| QS3 | same, countries in, kr, gy, ec, hk (bd = provider error → EMPTY) | https://apps.apple.com/{in,kr,gy,ec,hk}/app/superlive-plus/id1058758642 | Listed in India (4.1 / 2,518), Korea (4.3 / 396), Guyana (4.2 / 5), Ecuador (5.0 / 7), Hong Kong (4.3 / 134). Bangladesh: EMPTY (provider 502). | §9 Q3 (country list only) |
+| QS4 | Alexandria aptoide-com apps/app + apps/versions package com.tvt.superliveplus | https://superlive-plus.en.aptoide.com/?store_name=appupdater&app_id=77019578 | Build 1.18.2 (code 20282) added 2026-10-08, 170,115,020 bytes, min SDK 24 (Android 7.0), malware rank TRUSTED, signer "CN=supercam, OU=supercam, O=supercam, L=supercam, ST=supercam, C=CN" SHA-1 B9:6D:8A:49…; permissions include com.google.android.c2dm.permission.RECEIVE; what's new: "Added intelligent search feature"; "Enhanced sharing functionality, supporting up to 30 users for device sharing and enabling permission sharing for device operations"; "Fixed several issues, including preventing deletion of backed-up videos and screenshots when removing a device". Versions listed back to 1.1 (2017). | §5 para 3; §8 family para; §9 Q1, Q2, Q6, Q9; §10 card; §10.5 claims 1, 2, 7; Sources |
+| QS5 | `"SuperLive Plus" Huawei AppGallery OR APK download` · FC search (excerpts) | http://superlive-plus.apk.watch/1.6.6/for/huawei-nova ; https://m.apkpure.com/superlive-plus/com.tvt.superliveplus/download/1.13.0 ; https://superlive-plus.apk.cafe/huawei/p20-pro ; https://superlive-plus.soft112.com/ | Mirror offering 1.6.6 "for Huawei Nova"; APKPure old 1.13.0 (Sep 2023); apk.cafe 1.17.0 for Huawei P20 Pro. Official Huawei AppGallery listing: EMPTY (none surfaced). | §9 Q2; §10.5 claim 1 |
+| QS6 | `Firebase Cloud Messaging requires Google Play services…` · FC search → FC scrape (directQuote) | https://firebase.google.com/docs/cloud-messaging/android/get-started | "FCM clients require devices running Android 7.0 or higher that also have the Google Play Store app installed…" | §5 para 3; §9 Q1; §10.5 claim 2; Sources |
+| QS7 | `Huawei phones no Google Mobile Services since 2019…` · FC search (excerpts) | https://www.reuters.com/article/world/exclusive-google-suspends-some-business-with-huawei-after-trump-blacklist-sou-idUSKCN1SP0N7/ ; https://consumer.huawei.com/ph/community/details/topicId-205188/ | Reuters (May 2019): Huawei "will only be able to use the public version of Android and will not be able to get access to proprietary apps and services from Google". Huawei community: new Huawei devices don't include Google services. | §9 Q1; §10.5 claim 2; Sources (Reuters) |
+| QS8 | `Google Play Protect scans apps installed from outside Google Play…` · FC search (excerpt) | https://support.google.com/googleplay/answer/2812853?hl=en | "Google Play Protect checks apps when you install them"; may recommend scanning an app from outside Google Play never scanned before. | §9 Q2; Sources |
+| QS9 | FC scrape (PDF, directQuote/freeform) | https://tvtdigital.com.ua/wp-content/uploads/NVR-Compilation_User_Manual_1_4_11_Version_A0-20240703.pdf | §14.2.2: "The default time zone is GMT+08 Beijing, Hong Kong, Shanghai, Taipei. If the selected time zone includes DST, the DST of the time zone will be checked by default…" manual or NTP sync. §1.5: Alarm IN 1~16, NO and NC both available. §11.1: sensor alarm — "Duration", "Record", "Snapshot", "Push", "Alarm-out", "Preset", "Buzzer", "Pop-up…", "E-mail". | Hero; §Quick; §5 para 5; §Repair; §6 cards; §9 Q7, Q11; §10.5 claims 4, 6; §12; Sources |
+| QS10 | `Queens most common languages spoken at home Bengali…` · FC search (excerpt of PDF table) | https://www.nyc.gov/assets/planning/download/pdf/data-maps/nyc-population/acs/top_lang_2015pums5yr_nyc.pdf | Queens (ACS 2011–2015 PUMS): pop 5+ 2,157,847; only English 43.6%; other 56.4%; Spanish 515,885; Chinese 192,448; Bengali 60,042; Korean 49,438; Russian 36,817; Tagalog 29,976; Greek 28,341; French Creole 28,312; Polish 23,987; Italian 23,962; Punjabi 23,334; Hindi 19,443. LEP Queens: Spanish 259,065; Chinese 134,679; Korean 33,453; Bengali 32,522; Punjabi 10,797; Urdu 8,045. | §5 para 2, facts, language table; §8 card 82nd St (languages listed are general); §9 Q5; Sources |
+| QS11 | Alexandria census-gov census/data acs/acs5 2023, B05002_001E/013E, B28002_001E/006E/007E/013E, county 081 | https://api.census.gov/data/2023/acs/acs5?get=group(B05002)&ucgid=0500000US36081 | Queens: total 2,330,124; foreign-born 1,108,398 (47.6%); households 828,230; cellular-only 128,048 (15.5%); cable/fiber/DSL 611,160; no internet access 62,238 (7.5%). Labels verified in response. | §5 para 2, facts; Sources |
+| QS12 | FC scrape (directQuote) | https://council.nyc.gov/data/internet-access/ | "Jamaica–St. Albans–Hollis: 41%" without broadband (ACS 2020, B28002). | facts list; §13 Jamaica card |
+| QS13 | FC scrape (directQuote) | https://www.nyc.gov/content/oti/pages/franchises/cable-tv-franchises | "View the Spectrum Franchise Agreement – Queens". | facts list |
+
+## Carried rows used (not re-fetched)
+| ID | From | URL | Finding | Used |
+|---|---|---|---|---|
+| H-Q1 | research/dvr-upgrade.md (Queens) | api.census.gov ACS 2023 | 903,598 units; median built 1953; 2-unit 175,686; 1-unit attached 83,924; built ≤1939 273,370; owner 371,778 / renter 456,452. | §5 para 4, facts; §7 cards |
+| CO-2, CO-4, CO-5 | dvr-upgrade.md | glenoaksvillage.com forms PDF; nacmiaslaw.com Queens co-ops; cooperatornews excerpt | GOVO outward-camera registration, no common hallways; Queens largest garden co-op concentration (Jackson Heights, Sunnyside, Forest Hills…). | §7 card; §7.5 co-op para; §8.5 |
+| L-Q1, L-Q2 | dvr-upgrade.md | s-media.nyc.gov LPC 1831; wikipedia Unisphere | Jackson Heights HD Oct 19, 1993, The Chateau 12 U-shaped bldgs; Unisphere 140 ft, 1964. | §8.5; §13 |
+| C-Q2–C-Q6 | dvr-upgrade.md | steinwaystreet.org; thisisqueensborough (excerpt); qchron (excerpt); jamaicacenter.org; NYT excerpt | Steinway ~300 businesses 28th–35th Ave since 1991; 82nd St Partnership >200 businesses 37th Ave–Baxter Ave; >100,000/day Main St & Roosevelt Ave; Flushing BID Sept 2003; Jamaica Ave >400 businesses, largest BID in Queens; Liberty Ave corridor. | §8 cards; §13 |
+| N-Q1 | dvr-upgrade.md | police1.com | camera-sharing program first in 109th Precinct June 2023; opt-in, limit cameras/hours. | §8.5 |
+| N-Q2 | dvr-upgrade.md | qns.com 2026/01 | Kissena Blvd medical business + pharmacy, Parsons Blvd pharmacy burglaries; NYPD released images/video. | §8 card (street names only) |
+| Q-W1, Q-W2, Q-W3, Q-W4, Q-W5 | security-camera-maintenance.md (Queens) | queenseagle.com; pix11; ny1 2026/07/19; hoodline 2026/07; ny1 2024/03/22 | Ida 11 of 12 deaths Queens, 10 basement apts, 3.15 in/hr; Woodside 64th St etc.; July 2026 Flushing basements/garages, "This has become a routine"; FDNY Woodside rescue over fence; SE Queens groundwater since 1996 wells stopped. | §5 para 4, facts; §7 card; §9 Q13; §13 cards; Sources |
+| silo | research/super-live-plus-app-support-repair.md (S1 Play listing, SLP V1.0 manual, FCC Covered List, Penal Law 250.05) | as in silo file | as there | §5 para 1; §Repair; §8.5; §9 Q6, Q15 |
+
+## Pricing (no invented prices)
+$0 phone consultation (silo framing); $195/hr, 3-hr minimum ($585), unmultiplied (v2.3 §9); recorder replacement BORROWED from DVR Upgrade silo base (research/dvr-upgrade.md §1.8: 450–700 / 650–1,000 / 800–1,200 / 1,200–2,200 / 2,200+) × Queens 1.05, round half-up → **$473–$735; $683–$1,050; $840–$1,260; $1,260–$2,310; $2,310+**. Schema AggregateOffer 0–2310. FLAG: borrowed; note dvr-upgrade-queens itself publishes the un-multiplied base (same conflict as Putnam).
+
+## Images (11) — permanent image rule
+Drive: no Super Live Plus folder; CompanyCam not connected. Real-photo pool (nvr-installation, dvr-upgrade, lorex, hikvision, dahua, smart-pss, apartment-building, school, network-installation, root manhattan-deli/nassau/rockland originals) checked by contact sheet against all 66 images of the six rebuilt SLP pages and the concurrent staten-island/ulster files: nearly every real scene is already used (as a crop of the same originals). Only one real crop with a frame not used on an SLP page was kept; the rest are manufacturer product photos (captions say so and name the brand where visible; none claimed as TVT, Queens or a customer). Cat6-repair Astoria photos rejected (AI-rendered look). TP-Link VIGI recorder dropped because the ulster builder used the same file. WebP q80, ≤1600 px.
+| File (images/super-live-plus-app-support-repair/) | Source | Kind |
+|---|---|---|
+| super-live-plus-app-support-repair-queens-mini-dome-and-round-speaker-in-shop-drop-ceiling.webp (hero) | images/hikvision-security-camera-installation/hikvision-security-camera-installation-westchester-county-mini-dome-and-round-speaker-in-store-ceiling.webp | real AESS job crop (same store ceiling as staten-island's "dome beside light panel" — different frame) |
+| …-queens-four-dome-cameras-recorder-and-monitor-product-photo.webp | images/products/e2.png | product kit |
+| …-queens-four-white-bullet-cameras-recorder-and-monitor-product-photo.webp | images/products/e3.png | product kit |
+| …-queens-four-turrets-with-red-and-blue-lights-recorder-kit-product-photo.webp | images/products/d4.png | product kit |
+| …-queens-white-indoor-cube-camera-on-stand-product-photo.webp | images/hikvision-acusense-indoor-cube-camera.jpg | Hikvision product |
+| …-queens-black-varifocal-dome-camera-product-photo.webp | images/hikvision-colorvu-dome-camera-black.jpg | Hikvision product |
+| …-queens-lorex-16-channel-desktop-recorder-product-photo.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-brooklyn-16-channel-desktop-recorder-product-photo.webp | Lorex product |
+| …-queens-silver-rack-recorder-with-four-drive-bays-product-photo.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-long-island-1u-rack-recorder-with-four-drive-bays-product-photo.webp | product (UniFi-style rack, brand not named) |
+| …-queens-uniview-desktop-network-recorder-product-photo.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-westchester-county-black-desktop-network-video-recorder-product-photo.webp | Uniview product |
+| …-queens-white-pendant-pan-tilt-dome-camera-product-photo.webp | images/uniview-indoor-ptz-dome-camera-white.jpg | Uniview product |
+| …-queens-white-fisheye-ceiling-camera-product-photo.webp | images/uniview-fisheye-360-panoramic-camera-white.jpg | Uniview product |
+DAILY-LOG note suggestion: `images: 11 reused — 1 real AESS job crop (images/hikvision-security-camera-installation/) + 10 manufacturer product photos (images/products/, images/apartment-building-security-camera-installation/, images/ root) (no real Super Live Plus photos yet; real-photo pool exhausted by siblings)`.
+
+## Keywords (Queens geo layer)
+Super Live Plus Queens; SuperLive Plus app support / repair Queens; Super Live Plus Flushing, Jackson Heights, Jamaica, Astoria, Richmond Hill, St. Albans, Woodside, Rockaways; Super Live Plus Huawei / no Google Play / APK; SuperLive Plus language Bengali / Chinese / Korean; TVT recorder Beijing time zone GMT+8; sensor alarm push water; flooded DVR recovery. All 11 alts carry "Queens" + "Super Live Plus".
+
+## Question register — super-live-plus-app-support-repair-queens (REBUILT 2026-10-18)
+"?" H2s: none. §9 Q&A (H3):
+A. Phones Bought Overseas and Copies of the App
+1. My mother's phone was bought in China and has no Google Play — can she still use Super Live Plus and get its alerts?
+2. A cousin installed Super Live Plus from an APK download site because the store would not show it — should that copy stay on a phone that holds our recorder password?
+3. My iPhone is signed in to an App Store account from China and Super Live Plus does not appear — what are the options?
+4. My father's phone is set to Traditional Chinese and parts of the app still came up in English — is his copy out of date?
+5. Our counter clerks read Bengali and Punjabi, and the app has no menu in either — how do we make it workable for them?
+6. I added the store's recorder on my phone — why doesn't it show up on my wife's and my son's phones too?
+B. Clocks, Time Zones and Finding the Right Moment
+7. Our recorder came from an electronics shop on Main Street and its clock runs twelve hours ahead — is something broken?
+8. My brother checks our Jamaica Avenue store from Georgetown — does the playback timeline show his time or the store's time?
+9. Does the newer Super Live Plus search for people and vehicles work with the older DVR in our Jackson Heights shop?
+C. Basements, Cellars and Water
+10. The recorder sits on the cellar floor under our Flushing store and July's flash flood came within inches — where should it go, and will moving it break the app?
+11. Can a water sensor on the basement floor make Super Live Plus alert our phones before the water reaches the recorder?
+12. Our recorder sat in floodwater, and we need what it recorded for the insurance claim — should we plug it back in and look in the app?
+13. Our St. Albans basement never floods outright but stays damp all year — will that wear out the recorder and make playback in the app fail?
+14. Which camera should watch the cellar so we can check for water from the app in the middle of the night?
+15. The insurance adjuster asked whether our cameras were actually recording on the night the water came in — how do we show that?
+§17 FAQ (visible == FAQPage, 8):
+1. Does the person who owns each phone have to be there, or is the phone and its unlock code enough?
+2. Can you set up Super Live Plus on a relative's phone overseas over a video call?
+3. The recorder's menus are in English but my app is in Chinese — will that make the setup confusing?
+4. We rent our store — does the landlord have to agree before the recorder moves up from the cellar?
+5. Can you tell from the recorder which phones and users have logged in lately?
+6. When the recorder moves upstairs, what happens to the old cables and boxes left in the cellar?
+7. If water ruins the recorder, what happens to its hard drive and the video on it?
+8. Do you bring a replacement recorder in case ours will not start after a flood?
+§10.5 claim H3s (quoted claims, no "?"): any-APK-site; same on every Android; phone language → app follows; wrong recorder time cosmetic; recorder that switches on after water has survived; app tells you when basement floods; everyone shared sees/does the same.
+De-dup notes (by meaning vs nyc, bronx, manhattan, long-island, orange, putnam registers + concurrent staten-island/ulster on disk): mechanical check_page — 0 duplicate questions/answers vs 15 siblings. Closest neighbours, judged distinct: Q5 / FAQ3 vs LI FAQ "Can a relative who prefers another language use Super Live Plus?" (mine = unsupported languages / menu-language mismatch); Q7 vs LI/Putnam clock-after-outage (mine = factory GMT+8 default); Q10 vs Bronx FAQ move recorder from burglars (mine = flood height + app impact); Q11 vs Putnam power-loss warning (mine = water sensor input); FAQ1 vs Orange/LI "someone home?" (mine = phone owners' presence). Dropped during build: guide-without-English FAQ (= own Q5), flood-claim FAQ (= own Q15), sharing-permission Q (≈ Manhattan deli viewer / how many share), family-abroad safety, travel domain, phone-only household, provider swap, two-store login, tenant router.
+
+## Check results
+`python3 tools/check_page.py super-live-plus-app-support-repair-queens` (with and without --no-registration): only 7 × "live sibling … doesn't link back" (brooklyn, dutchess-county, hudson-valley, nassau-county, rockland-county, suffolk-county, westchester-county — old-template siblings; main-run wiring). Registration items (sitemap, _redirects, hub link-down) already pass. 12,453 words; title 52; meta 156; 11 figures; 6 JSON-LD blocks; FAQ 8 = schema 8; 2 forms; tel 347-434-6392 + 800 header only; 172,570 B.
+Masked block similarity (word SequenceMatcher on ≥8-word p/li/td/h2/h3/figcaption, check_page.mask): ≥0.65 only on blueprint-fixed H2 patterns; every prose block <0.65 vs all 15 SLP siblings (incl. concurrent staten-island 193,539 B / ulster 175,562 B as on disk); vs dvr-upgrade-queens max 0.71 (heading), vs security-camera-maintenance-queens 0.67 (stamp line / claim heading), hik-connect/smart-pss Queens ≤0.36.
+
+## FLAGS for Anwar
+1. Recorder replacement prices BORROWED from DVR Upgrade base × 1.05 (dvr-upgrade-queens shows un-multiplied base).
+2. EMPTY: PAA/PASF/ATP/AI Overview/Bing/DDG/Yelp; Queens Reddit; official Huawei AppGallery listing; Apple Bangladesh storefront (502); Queens Ledger items.
+3. Unsourced house practices: phone-by-phone visit order; one user per person; picture/screenshot card (no translation promised); second alert route (e-mail "if the model supports it" — not verified on manual scrape); recorder+router+UPS moved above water line; cellar floor camera / IR reflection on water; humidity effects on drives/connectors; no power to wet recorders, drive recovered first; bringing a spare recorder after a flood report; removing dead cables; labelling cables; login-log check "depends on model"; landlord/lease note; "no separate fee per phone"; 1–2 h fix wording (el. 36); Mon–Sat 8–19 hours (schema copied from Bronx); ADT/Ring/SimpliSafe table qualitative.
+4. Time-zone display behaviour of the app on phones abroad NOT verified — page says it depends and uses the stamp in the picture.
+5. Aptoide release note (30 users, permission sharing, intelligent search) is the Android note as carried on Aptoide, not Google Play's text (Play "what's new" per silo row S1 says "Support account switching").
+6. "Kits from neighbourhood shops arrive on Beijing time" is an inference from the manual default, framed as "most likely".
+7. Images: 10 of 11 are manufacturer product shots (real-photo pool exhausted by the 6 rebuilt + 2 concurrent SLP pages); hero real crop is the same store ceiling as staten-island's dome-beside-light-panel image.
+8. Field Notes is a method note, not a specific job story.
+
+
+---
+
+# PART — Staten Island builder (batch 12, 2026-10-18)
+
+# Super Live Plus App Support Repair — Staten Island (REBUILD 2026-10-18) — research part file
+
+Page: `super-live-plus-app-support-repair-staten-island` (REBUILD in place, was crawled-not-indexed). Queue line: `REBUILD | super-live-plus-app-support-repair-staten-island | Super Live Plus App Support Repair | Staten Island | up /super-live-plus-app-support-repair-nyc | (347) 934-8335 | GBP Brooklyn`.
+Direct line (347) 934-8335 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav header (copied from the rebuilt NYC page). GBP Brooklyn (1282 Troy Ave, Brooklyn NY 11203, `#brooklyn`). WhatsApp only wa.me/17186790359. Chrome (CSS, nav, footer, scripts) copied from rebuilt `super-live-plus-app-support-repair-nyc.html`; every visible sentence written new; nothing from the old SI template reused.
+Format per v2.3 §12.4: exact query · platform · URL · finding · page+section used. Tools: Firecrawl search/scrape (`mcp__Firecrawl__*`). Shell curl blocked. "Carried" = fetched by an earlier run in another research file (file + row named), not re-fetched.
+
+**Thesis (distinct from nyc = connection method/keys; bronx = phone-only window on weakest broadband; manhattan = no cloud account, recorder login is the key; long-island = viewer far from recorder; orange = ISP swaps re-home recorder; putnam = away-owners, outage recovery, caretaker logins; concurrent queens = language/flood claims; ulster = short-term rentals):** On Staten Island a Super Live Plus complaint is usually a *channel* fault, not an app fault — TVT-made hybrid DVRs feeding long outdoor coax runs around detached/two-family lots (83% of homes), damaged by salt air, storm-dropped overhead wiring (72% of island wire overhead) and post-Sandy house raising/renovation that cut or re-plugged runs. So the job is: read the recorder's channels (video loss vs offline), fix connectors/power/cable outside, put recorder/router/camera power on steady power and a cable, then set the phone up (names, night stream on cellular, video-loss alarm), incl. ferry-terminal Wi-Fi viewing.
+
+## 1. Mandatory sources (§3) — status
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `site:reddit.com statenisland security camera DVR app` · Firecrawl search → no r/statenisland thread (only unrelated subs) → EMPTY. Silo Reddit rows (research file R1–R9) not used on this page. |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so on-page and tests 7 claims from help-desk/troubleshooting/maker pages. |
+| 6 | Landmarks | L rows below |
+| 7 | Building stock / use cases | H rows below (carried) |
+| 8 | Bing / DDG | EMPTY (not accessible in build env) |
+| 9–10 | Local news / hyperlocal | Staten Island Advance (silive.com) ×5, NY1, Con Edison releases |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env); earlier SI runs got listing pages only, not re-searched |
+| — | Drive / CompanyCam | Drive has no Super Live Plus folder; CompanyCam not connected → permanent image rule |
+
+## 2. New research this run (Firecrawl, 2026-10-18)
+| ID | Exact query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| SLP-SI1 | `silive Con Edison power outage Staten Island customers 2026` · Firecrawl search → scrape (query, directQuote) | https://www.silive.com/news/2026/09/con-ed-gives-updates-on-more-than-1600-storm-related-staten-island-power-outages.html | Sydney Maldonado, Sat Sept 26, 2026: nor'easter from ~6 p.m. Friday; "a total of 1,663 Staten Island customers had reported outages"; 1,552 restored, 111 still out at 11:30 a.m. Saturday; nearly all storm-related. | §5 para 3; §5.5 bullet 4; §9 Q1; Sources |
+| SLP-SI2 | same search → scrape (query) | https://investor.conedison.com/news-releases/news-release-details/con-edison-responds-outage-affecting-14000-staten-island | Con Ed release (undated on page): 14,000 customers out in Dongan Hills, Grasmere, Rosebank, Tompkinsville, Clifton, Emerson Hill, Oakwood, Grant City, New Dorp; downed wires. | NOT used (no date) |
+| SLP-SI3 | `BNC connector corrosion moisture outdoor coax camera "video loss" DVR` · Firecrawl search → scrape (query, directQuote) | https://www.trunetto.com/troubleshooting/security-cameras/night-owl-security/night-owl-error-video-loss-what-it-means-how-to-fix | "Video Loss means a channel is not receiving usable camera signal… cable path issues, connector faults… camera power instability"; "Water in an outdoor BNC or power connector shorts the signal and shows video loss, often after rain"; "Corroded connector on the DVR end". (Written for Night Owl; used as general coax-DVR behaviour.) | §9 Q2; §10.5 claim 2; Sources |
+| SLP-SI4 | `Staten Island Ferry free WiFi terminal St. George Whitehall` · Firecrawl search → scrape (query) | https://siferry.com/terminals/ | "Free Wi-Fi service is available at both terminals"; St. George Terminal 1 Bay Street; Whitehall 4 Whitehall St. Site is a ferry information site (not clearly the official DOT site; page says NYCEDC administered the terminal project for DOT). | §5.5 bullet 6; §9 ferry-Wi-Fi Q; §13 card; Sources |
+| SLP-SI5 | same search (excerpt) | https://siferry.com/ ; https://statenislandferry.com/welcome/ | "Free WiFi services are available in each terminal". | cross-check |
+
+## 3. Carried rows used (not re-fetched)
+| Fact | URL | From | Used |
+|---|---|---|---|
+| 83% of SI homes in 1–2 family buildings (CHPC Oct 2024, 2023 HVS) | https://chpcny.org/visualization/housing-stock-visualization/ | nvr-installation.md / floodlight SI-H1 | §5 para 1; §5.5 |
+| Richmond County ACS 2023: 1-unit detached 63,421; median year built 1974 | https://api.census.gov/data/2023/acs/acs5?get=group(B25001)&ucgid=0500000US36085 | dvr-upgrade.md H-SI1 | §5 para 1; Sources |
+| 2013 power-lines study: SI 7,140 miles overhead, 72% of installed wire; Brooklyn 12% | https://www.nyc.gov/html/planyc2030/downloads/pdf/power_lines_study_2013.pdf | fiber-optic-installation.md SI "Utility lines" | §5 para 3; §5.5; §9 cluster intro; Sources |
+| Isaias Aug 2020: 29,000 SI customers out | https://coned.com/about-us/media-center/news/2020/08-04/storm-isaias-outage-is-second-largest-in-con-edisons-long-history | fiber SI | §5 para 3; §5.5; §10.5 claim 6 |
+| Jul 25 2025: ~21,000 SI customers, mostly eastern shore | https://www.coned.com/en/about-us/media-center/news/2025/07-25/con-edison-crews-restoring-service-more-than-24000-customers-initially-impacted | nvr SIN-P1 | §5 para 3; §5.5 |
+| Jul 25 2025: Con Ed reduced voltage 8% on east side of SI | https://ny1.com/nyc/staten-island/news/2025/07/25/thousands-without-power-on-staten-island-amid-heat--storms | nvr SIN-P2 | §9 brownout Q |
+| 11,700+ buildings in inundated area, ~90% 1–2 family | https://www.nyc.gov/site/sirr/rebuilding/east-and-south-shore-staten-island.page | nvr / floodlight SI-H6 | §5 para 4; §5.5 |
+| Build It Back: 1,982 SI homeowners served | https://www.nyc.gov/site/housingrecovery/disaster-recovery/build-it-back.page | nvr / floodlight SI-H4 | §5 para 4 |
+| Appendix G: utilities/equipment at or above DFE | https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction | dvr F-SI6 / floodlight SI-R1 | §5 para 4; §7.5 |
+| Seawall nearly 5 mi Fort Wadsworth → Oakwood Beach | https://www.dvidshub.net/news/482917/seawall-will-raise-quality-life-shore-communities-staten-island-new-york | dvr F-SI1 | §10.5 claim 3; §13 card |
+| Car thefts up in 2026; crews masks/gloves/hoods; video "typically of limited value and rarely identifies individuals" (SI Advance Jul 24 2026). Numbers (47%, 163 vs 111) deliberately NOT used (App. B NYPD-crime-data rule) | https://www.silive.com/crime-safety/2026/07/staten-island-car-thefts-spike-47-in-2026-heres-what-law-enforcement-is-doing-about-it.html | dvr N-SI1 | §5 para 4; §9 cluster intro + car Q; §10.5 claim 4 |
+| Mariners Harbor, Simonson Ave footage ~4:30 a.m. Aug 28 (2022) | https://www.silive.com/crime-safety/2022/09/residents-of-this-staten-island-community-say-thieves-are-accessing-locked-cars-are-high-tech-devices-at-work.html | nvr SIN-N1 | §9 car Q |
+| Sept 27 2026: private Flock cameras; data belongs to owner; photo outside business on Forest Ave, Mariners Harbor | https://www.silive.com/news/2026/09/always-watching-officials-say-staten-island-surveillance-cameras-caught-murderers-shooters-car-thieves-kidnappers.html | nvr SIN-N4 | §8.5 bullet 1; §13 Forest Ave card |
+| Jul 14 2025 flash flood: Hylan Blvd a river past New Dorp Lane | https://www.silive.com/news/2025/07/severe-flash-flooding-cripples-major-staten-island-roads-during-storm-monday.html | nvr SIN-F1 | §13 Hylan card; Sources |
+| Don't power on water-damaged drives (Gillware, excerpt) | https://www.gillware.com/resources/water-damaged-hard-drive-handling-guidelines/ | nvr SIN-T1 | §Repair "after a storm" para |
+| Precincts 120/121/122 (2320 Hylan)/123 (116 Main St) coverage lists; 121st address conflict 950 vs 970 Richmond Ave → page says "Richmond Avenue" | nyc.gov precinct pages | nvr SIN-L1–L5 | §8.5 bullet; §13 precinct table |
+| Civil Rights Law 52-a; Penal Law 250.05 | nysenate.gov | nvr SIN-R1; silo S6 | §8.5 bullets |
+| Hikvision anti-corrosion series; ISR "C5-M & NEMA 4X" (excerpt) | hikvision.com; isrmag.com | dvr E-SI1 | §9 Midland Beach Q; §10.5 claim 3; FAQ 4 |
+| Hylan ≈ longest street in NYC, Rosebank → Tottenville | https://en.wikipedia.org/wiki/Hylan_Boulevard | dvr C-SI2 | §8 card; §13 card |
+| SI Mall opened Aug 9 1973 at Richmond Ave / Richmond Hill Rd | silive 2018 / Wikipedia | nvr carried / dvr C-SI3 | §13 card |
+| Forest Avenue BID (office 686 Forest Ave) | https://www.forestavenuebid.com/ | dvr C-SI1 | §8 card; §13 card |
+| Verrazzano opened Nov 21 1964 | https://www.nycgovparks.org/highlights/verrazano-bridge | dvr L-SI2 | §13 card |
+| Ferry 24/7 from St. George (excerpt) | https://en.wikipedia.org/wiki/Staten_Island_Ferry | dvr L-SI1 | §13 card |
+| Verizon: fiber passed virtually all SI premises (end 2013) | https://espanol2.verizon.com/about/node/141763 | fiber SI (silo source) | §5 para 5 |
+| Spectrum advertises SI service (excerpt) | https://www.spectrum.com/locations/internet-wifi-service/staten-island-ny-i325 | fiber SI | §5 para 5 |
+
+## 4. Silo findings reused (research/super-live-plus-app-support-repair.md)
+- Play listing (TVT (HK) Limited, 5M+) — Part A S1 → §5 para 1; Sources.
+- SuperLive Plus V1.0 manual: channel status marks incl. video loss; local audio/shake alarm on video loss/sensor/motion; resolution choices; Auto syn — Part A S4 / Bronx A3 / LI A5 → §5 para 2; §6 alarm card; §9 alarm Q; §10.5 claim 1.
+- App Store 1.12.0 DVR cloud storage — Part A S2 → §10.5 claim 7.
+- Techson push schedule set on DVR — Putnam A6 → Sources (supports "recorder-side alerts depend on model").
+- CVE-2024-14007 (NVD) + GreyNoise 2025 wave — Part A V1/V3 → §8.5 bullet 5.
+
+## 5. Pricing (no invented prices)
+$0 photo/screenshot diagnosis (silo framing); $195/hr, 3-hr min ($585) protected, not multiplied; recorder replacement = DVR Upgrade silo base (research/dvr-upgrade.md §1.8: 450–700 / 650–1,000 / 800–1,200 / 1,200–2,200 / 2,200+) × Staten Island 1.10 (blueprint §9) → **$495–$770; $715–$1,100; $880–$1,320; $1,320–$2,420; $2,420+** (all exact products, no rounding). Worked examples in §14 are arithmetic on these only. **FLAG (borrowed + conflict):** borrowed from the DVR Upgrade silo as the 6 rebuilt SLP pages did; `dvr-upgrade-staten-island.html` itself publishes the UN-multiplied base for Staten Island (research/dvr-upgrade.md SI "Pricing used") — same conflict as Putnam; Anwar to decide.
+
+## 6. Images (11) — permanent image rule
+None of these source files appears in the SLP source lists (research file) and each was compared visually against all 66 files in images/super-live-plus-app-support-repair/ (contact sheet). Most real AESS scenes in the library are already on SLP pages as other crops, so only 3 visually distinct real job photos were usable; 8 are manufacturer product shots (captions say so; none claimed as TVT). WebP q80 via Pillow, none >1600 px. No faces, plates, house numbers or readable documents (one photo shows part of a US flag only).
+| images/super-live-plus-app-support-repair/super-live-plus-app-support-repair-staten-island-… | Source | Kind / placement |
+|---|---|---|
+| black-recorder-with-two-front-lights-product-photo.webp | images/dvr-upgrade/dvr-upgrade-staten-island-black-recorder-with-two-front-lights-product-photo.webp | product · Hero (eager) |
+| white-dome-camera-on-black-bracket-in-corner.webp | images/floodlight-camera-installation/floodlight-camera-installation-orange-county-white-dome-camera-in-corner-on-black-bracket.webp | real AESS (other site) · §5 |
+| stainless-steel-camera-housing-product-photo.webp | images/smart-pss-support-setup/smart-pss-support-setup-ulster-county-dahua-stainless-steel-camera-housing-product-photo.webp | product (maker logo visible, not named) · §6 |
+| white-dome-camera-beside-ceiling-light-panel.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-brooklyn-white-dome-camera-beside-ceiling-light-panel.webp | real AESS (other site) · §7 |
+| turret-camera-on-beige-ceiling-tile.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-white-turret-camera-on-ceiling-tile-near-light-panel.webp | real AESS (other site) · §8 |
+| flat-dark-recorder-product-photo.webp | images/dvr-upgrade/dvr-upgrade-staten-island-flat-dark-recorder-for-closet-shelf-product-photo.webp | product · §9 |
+| white-turret-camera-with-two-light-lenses-product-photo.webp | images/dvr-upgrade/dvr-upgrade-queens-white-turret-camera-with-two-light-lenses-product-photo.webp | product · §9 |
+| recorder-with-front-panel-buttons-product-photo.webp | images/dvr-upgrade/dvr-upgrade-nassau-county-recorder-with-front-panel-buttons-product-photo.webp | product (TRENDnet badge visible, not named) · §12 |
+| mini-pan-tilt-dome-camera-product-photo.webp | images/smart-pss-support-setup/smart-pss-support-setup-bronx-dahua-mini-pan-tilt-dome-product-photo.webp | product · §10 |
+| stainless-pendant-ptz-dome-product-photo.webp | images/apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-stainless-pendant-ptz-dome-product-photo.webp | product (maker logo visible, not named) · §10.5 |
+| white-dome-turret-camera-product-photo.webp | images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-4k-turret-camera-product-photo.webp | product · §13 |
+DAILY-LOG note: `images: 11 reused from images/dvr-upgrade/ (4), images/apartment-building-security-camera-installation/ (3), images/smart-pss-support-setup/ (2), images/floodlight-camera-installation/ (1), images/residential-security-camera-installation/ (1) — 3 real AESS job photos from other sites + 8 product shots (no real Super Live Plus photos yet)`.
+
+## 7. Keywords (Staten Island geo layer)
+Super Live Plus app support / repair Staten Island; SuperLive Plus camera tile black / video loss; TVT hybrid DVR coax; wet BNC connector; camera power supply after outage; raised house Sandy recorder; Fios/Spectrum box moved; ferry terminal Wi-Fi; driveway night view; video-loss alarm; salt air / anti-corrosion camera; Great Kills, Midland Beach, New Dorp Beach, Mariners Harbor, Hylan Blvd, Richmond Ave, Forest Ave, St. George, Tottenville + "we also serve" list. All 11 alts/titles carry "Staten Island Super Live Plus".
+
+## 8. Question register — super-live-plus-app-support-repair-staten-island (REBUILT 2026-10-18)
+"?" H2s: none (repair H2 "Cameras Dark After a Storm on Staten Island: Same-Day Super Live Plus Repair").
+§9 Q&A H3 (clusters: Dark tiles and the cable outside · Raised houses and recorders that moved · Power, outages and overhead wires · Night views, driveways and the car-theft wave · Salt air, the bay and the boulevards):
+1. One tile in Super Live Plus shows the driveway and the one next to it has been black since the nor’easter — is the app broken or is it the camera?
+2. Our backyard camera in Great Kills goes black whenever it rains hard and comes back the next afternoon — what is getting wet?
+3. After the storm the app says video loss on a camera we can see is still glowing red on the wall at night — what does that tell you?
+4. Our house near New Dorp Beach was lifted after Sandy and the recorder came upstairs with us — why did three of the eight cameras never come back in the app?
+5. Since the renovation the recorder sits on a second-floor shelf on Wi-Fi instead of a cable to the router — is that why Super Live Plus keeps dropping it?
+6. Half the tiles show the right picture under the wrong name — the garage is labelled Front Door — can that be fixed from the phone?
+7. The cable to the camera on our detached garage hangs across the yard from the house, and the wind keeps working it loose — should it go underground?
+8. We are having the house re-sided next month — what should we ask the siding crew about the camera cables?
+9. Only the cameras on the garage side go dark during a brownout, while the recorder and the other tiles stay up — why that side?
+10. Can Super Live Plus warn us the night a camera goes dark, not just when something moves?
+11. With so many cars being stolen on the island this year, can the app show the driveway clearly enough at night to be worth checking?
+12. Our semi-attached neighbor shares the driveway — how do we keep their half out of the picture our family watches?
+13. I check the house from the ferry terminal’s free Wi-Fi at St. George and the app never loads, yet it works on my phone’s data — why?
+14. We live a few blocks from the water in Midland Beach — why do the cameras facing the bay give out years before the one under the porch roof?
+15. Our deli on Forest Avenue keeps the recorder under the counter next to the slicer — could that be why the app drops the cameras in the afternoon?
+16. The landlord of our Richmond Avenue strip owns the parking-lot cameras and we own the store’s — can both show up in our app?
+§17 FAQ (visible == FAQPage, 10):
+1. Do you carry connectors, camera power supplies and cable on the truck, so a dark tile can be fixed on the first visit?
+2. Can you re-make the cable end at a second-storey camera without taking the camera down?
+3. If you replace one outdoor camera, will its tile keep the same name and place in the app?
+4. Is a stainless or anti-corrosion camera worth it on a bulkhead or dock in Great Kills Harbor?
+5. A tree in the yard has grown across the backyard camera’s view — do you fix that or does a landscaper?
+6. Can you reach cameras on a raised house where the eave is three storeys above the ground?
+7. Our cameras are all coax, but we want one network camera on the shed — can the existing recorder take it and show it in the app?
+8. Does the recorder stop recording while you work on the cameras outside?
+9. Is there a good time of year to have the outdoor camera connections redone on the island?
+10. Do you need to go into a neighbor’s yard to reach a camera on the property line?
+§10.5 claim H3s (quoted claims, not questions): black tile → reinstall/re-add; weatherproof cameras need nothing at the joints; any outdoor camera holds up near the beach; 4K captures the face at the car door; recorder on Wi-Fi anywhere; surge protector keeps cameras up in a storm; cloud storage replaces the recorder.
+De-dup: check_page (masked exact) vs all 15 siblings incl. concurrent queens (172,272 B) and ulster (175,562 B) on disk at ~14:10Z — no duplicates. Register-text check (difflib on masked questions vs every "?" sentence in research/super-live-plus-app-support-repair.md): max 0.42. By meaning: avoided NYC/Manhattan/Bronx intents (logins, tenants' limited users, detective/clip export, firmware/ports, generic alerts for headlights, installer-gone, multi-site), LI/Putnam/Orange (outage "didn't reconnect", generator, clock after outage, power-loss warning, buffering/upload, ISP gateway swap, closing house), queens (flood water sensor, flooded recorder salvage Q — on this page only as non-question repair text), ulster (rental privacy). Borderline (kept, FLAG): Q12 privacy mask on shared driveway vs ulster "porch camera looks through living-room window — mask" (neighbor vs guest scenario); Q10 video-loss alarm vs putnam "warn us the house lost power" (camera failure vs power loss); Q9 brownout per-channel power vs putnam/orange outage Qs (channel power source, not reconnection).
+
+## 9. Check results
+`python3 tools/check_page.py super-live-plus-app-support-repair-staten-island --no-registration` → only 7 "live sibling … doesn't link back" lines (old-template brooklyn, dutchess, hudson-valley, nassau, rockland, suffolk, westchester; main-run wiring). 13,728 words; 193,539 B; title 57; meta 160; 11 figures; 6 JSON-LD; FAQ 10 = schema 10; 2 forms; tel 347/800 only. Size gaps: putnam 191,047 (+2,492), orange 195,788 (−2,249) — re-check if either changes. Masked block similarity (difflib, ≥8-word p/li/td/h2/h3/figcaption): ≥0.65 only on blueprint-fixed H2s and the protected warranty sentence; whole-body 5-gram Jaccard ≤0.017, SequenceMatcher ≤0.16 vs every sibling.
+
+## 10. FLAGS for Anwar
+1. Pricing borrowed from DVR Upgrade silo × 1.10; dvr-upgrade-staten-island shows un-multiplied figures (conflict).
+2. Only 3 real AESS photos (other sites); 8 product shots — real island SLP job photos needed.
+3. Unsourced house practices: carrying connectors/supplies on the truck; compression connectors + drip loops + joints indoors; siamese-cable failure modes (power pair vs video, IR-at-dusk voltage drop); single regulated supply + battery backup; recorder on a cable not Wi-Fi; buried-in-conduit vs messenger-supported aerial runs; siding-crew advice; privacy masks; recorder heat under counters; public-Wi-Fi captive portal blocking the app; live view uses lower-res second stream; "many TVT-based recorders can push a video-loss alert depending on model"; yearly pre-storm-season check; 2-hour windows to 8 PM, "1–2 hours of arrival" (silo convention); booked from Troy Avenue over the Verrazzano.
+4. siferry.com may be an unofficial ferry information site (Wi-Fi statement also on statenislandferry.com excerpt).
+5. Property-type and corridor cards are general descriptions (no per-card source), as on other SI rebuilds.
+6. Field Notes is a method note, not a job story.
+7. Con Ed 14,000-customer release undated → not used.
+
+
+---
+
+# PART — Ulster County builder (batch 12, 2026-10-18)
+
+# Super Live Plus App Support Repair — Ulster County (REBUILD 2026-10-18) — research part file
+
+Page: `super-live-plus-app-support-repair-ulster-county` (REBUILD in place, was crawled-not-indexed). Queue line: `REBUILD | super-live-plus-app-support-repair-ulster-county | Super Live Plus App Support Repair | Ulster | up /super-live-plus-app-support-repair-hudson-valley | (845) 640-3835 | GBP Bronx`.
+Routing: direct (845) 640-3835 in body, CTAs, sticky bar and LocalBusiness schema; (800) 486-0943 only in the shared mega-nav header; GBP Bronx (460 E Fordham Rd, `#bronx`); WhatsApp only wa.me/17186790359 (+ footer text). Chrome (CSS, mega-nav, footer, scripts) copied from the rebuilt Putnam SLP page; every visible sentence new. Nothing from the old Ulster template reused.
+Format v2.3 §12.4: exact query · platform · URL · finding · page+section used. FC = Firecrawl (`mcp__Firecrawl__firecrawl_search` / `firecrawl_scrape`). Shell curl not used. Reddit not used.
+
+**Thesis (distinct from the six rebuilt SLP pages and from smart-pss-support-setup-ulster-county):** In Ulster a Super Live Plus recorder very often watches a house where someone else sleeps — 2,827 short-term rentals (98% whole homes; Shandaken 9.76% of homes), owner-occupied guest rooms (Hurley owner-present rule, Village of New Paltz primary-residence rule), New Paltz student houses — so the app work is about what the TVT-made recorder is allowed to see and hear and whom it alerts: indoor channels retired (Airbnb ban from Apr 30 2024), window/hot-tub masks (Vrbo policy; TVT up to 4 masks per camera), audio off (Penal Law 250.05/250.45), alerts routed to the local host/cleaner (Esopus ~15-mile host, Woodstock local contact), clean checkout clips within Airbnb's 14-day claim window, and keeping guests off the recorder's network. (smart-pss Ulster = distant viewing PC over mixed rural links/Starlink; Putnam SLP = absent owners/caretaker logins/outages; Orange = ISP switch; NYC/Bronx/Manhattan/LI = buildings, broadband, keys.)
+
+## Source matrix (§3)
+| # | Source | Status |
+|---|---|---|
+| 1 | Reddit | Not used (r/airbnb_hosts and r/vrbo appeared only as search excerpts; not quoted). Ulster-specific SLP threads: EMPTY. |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so and tests 7 recurring claims. |
+| 6 | Landmarks | carried (Huguenot St, Senate House, Opus 40, Ashokan, Thruway exits, SUNY New Paltz) |
+| 7 | Use cases / building stock | U-STR1, U-T1, carried Census rows |
+| 8 | Bing / DDG | EMPTY (not accessible in build env) |
+| 9–10 | Local news / hyperlocal | Hudson Valley One (2023 Saugerties farm-event noise, excerpt; 2016 dead zones, carried); Central Hudson Sept 2026 (carried). Daily Freeman STR items: EMPTY (none surfaced). |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env) |
+| — | Drive / CompanyCam | No Super Live Plus Drive folder; CompanyCam not connected → permanent image rule |
+
+## New rows this run
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| P1 | `Airbnb bans indoor security cameras March 2024 policy outdoor cameras disclose` · FC search → FC scrape | https://news.airbnb.com/an-update-on-our-policy-on-security-cameras | Indoor cameras "not allowed inside listings, regardless of their location, purpose or prior disclosure"; previously allowed in common areas if disclosed/visible; outdoor cameras must be disclosed (presence + general location) before booking, may not monitor indoor spaces, not allowed in areas like enclosed outdoor shower or sauna; doorbell cameras and noise decibel monitors still permitted (monitors measure level only, common spaces, disclosed); effective April 30. | Hero; §5 para 2; §5.5; §8.5; §9 Woodstock/Shandaken/Hurley/hallway Qs; §10.5 claims 1–3; FAQ 4, 5, 8 |
+| P2 | same search (excerpt) | https://www.npr.org/2024/03/11/1237609591/airbnb-bans-indoor-security-cameras-surveillance-privacy | Announced March 11, 2024; takes effect April 30. | §5 para 2; Sources |
+| P3 | same search (excerpt) | https://www.hostfully.com/blog/airbnb-camera-rules/ | "the ban applies even when a device is switched off" (third-party guide). | §9 Woodstock Q; §10.5 claim 2 (as "rental-industry guides") |
+| P4 | `AirCover for Hosts damage claim submit within 14 days of checkout evidence photos video` · FC search (excerpt) | https://www.airbnb.com/help/article/279 | "Within 14 days of the responsible guest's checkout, file a reimbursement request in the Resolution Center." | §5.5; §9 14-day Q; §10.5 claim 5 |
+| P5 | `Vrbo policy security cameras surveillance devices inside property disclosure hosts` · FC search (excerpt, full policy text in snippet) | https://www.vrbo.com/tlp/trust-and-safety/use-of-surveillance-policy | Cameras/audio recorders never inside or pointed in from outside (window example); multi-unit common areas allowed; outdoor camera location/coverage disclosed in listing ("Showing the camera in a photo … is not enough"); pool/hot-tub visibility disclosed in listing and at property. | §5 para 2; §7 Kingston card; §8.5; §9 Shandaken/Vrbo window/listing Qs; §10.5 claims 2–4; FAQ 2, 8 |
+| P6 | `Ulster County short-term rental registry law registration requirement 2024 2025` · FC search → FC scrape | https://www.ulstercountyny.gov/Departments/Finance/Tax-Information/Occupancy-Tax/HotelMotelSTR-Registration | Operators required by County Law (ecode360 9672220) to register with Finance; within three days of commencing business; no cost; Certificate of Authority to collect 4% county occupancy tax, displayed for occupants. | §5 para 4; §8.5; §9 registration Q |
+| P7 | same search → FC scrape | https://www.nysac.org/issues/short-term-rentals/ | Hochul signed S.885C/A.4130C Dec 21 2024; chapter amendment Feb 2025 (Ch. 99); counties may create registries (addresses, lengths of stay, guest numbers). | §5 para 4; §9 registration Q |
+| P8 | same search → FC scrape | https://www.str.haus/blog/ulster-county-ny-short-term-rental-regulation-by-town/ | Third-party review (July 2026, edited Sept 2026): City of Kingston whole-home cap ~106, reopens windows; Saugerties LL2/2022 annual permit + yearly inspection; Woodstock Ch.260 cap, investment rentals must name local contact; Hurley owner primary residence + present each stay; Village of New Paltz primary residence in residential districts; Olive 24 non-owner permits for 2026; Shandaken non-resident cap 100 met; Esopus non-owner-occupied host within ~15 driving miles, site plan, $1M insurance; Marbletown 10-guest cap; Denning moratorium; Ellenville 90 nights; etc. | §5 para 4; §9 Hurley/Esopus/Kingston Qs; §13 cards; Sources (labelled third-party, confirm with town) |
+| P9 | `Hudson Valley One OR Daily Freeman short-term rental party noise complaints …` · FC search (excerpts) | https://hudsonvalleyone.com/2023/09/05/saugerties-officials-are-looking-into-noise-complaints-about-under-over-farm-events/ | Saugerties officials looking into events legislation after neighbours' noise complaints at a farm property. | §8 event-barn card; Sources (excerpt). (HV1 2018 Woodstock noise-law excerpt seen, not used after trim.) |
+| P10 | `Village of New Paltz rental permit law student housing …` · FC search (excerpt) | https://www.villageofnewpaltz.gov/rental-property-registration-and-inspection-forms/ | Registration/inspection of residential rentals; tenant comforted "a building codes official has examined their home within the previous 12 months". | §8 student-housing card; §13 Huguenot card |
+| P11 | `New York Penal Law 250.45 unlawful surveillance …` · FC search (excerpt of statute) | https://www.nysenate.gov/legislation/laws/PEN/250.45 | Recording without knowledge/consent where reasonable expectation of privacy; bedroom, changing room, restroom, bathroom, shower, rooms assigned to guests in a motel/hotel; class E felony (FindLaw excerpt). | §8.5; §9 New Paltz Q; §10.5 claim 3 |
+| P12 | Ulster Comptroller STR report · FC scrape (PDF, query) | https://comptroller.ulstercountyny.gov/wp-content/uploads/2025/09/FINAL-STR-Report-2025.pdf | AirDNA: 942 (2015) → 3,013 (2024 monthly avg), +220%; peak 3,310 Oct 2023 (3.84%); May 2025: 2,827 units, 3.28%; 98% entire homes; Shandaken 9.76% (261/2,675); Shandaken, Woodstock, Gardiner, Denning >7%; mailing: Ulster 1,816 (64%), NYC 603 (21%), NYS other 154, out of state 251; 1,008 outside county. | Hero; §5 para 1; §5.5; §13 Phoenicia card |
+| P13 | TVT NVR manual · FC scrape (PDF, query) ×2 | https://tvtdigital.com.ua/wp-content/uploads/NVR-Compilation_User_Manual_1_4_11_Version_A0-20240703.pdf | "Up to four mask areas can be set for each camera" — Start → Settings → Camera → Image → Mask Settings; more than one motion area; Push: Settings → AI/Event → Event Notification → Push, enable + schedule; accounts: Account and Authority → three default permission groups Administrator/Advanced/Common (Advanced/Common editable). Audio-recording menu path: not returned → page says "switch audio off on camera and recorder" without a menu path. | §5.5; §6 cards; §9 Shandaken/hallway/Esopus Qs; Sources |
+
+## Carried rows used (not re-fetched)
+| ID | From | URL | Finding | Used |
+|---|---|---|---|---|
+| C1 | super-live-plus research S2/A1 | https://apps.apple.com/us/app/superlive-plus/id1058758642 | Seller Peng AnTai, support link TVT, 3.9★/15,849; doorbell 2022, intercom/door-open later | §5 para 3; §10 doorbell card; §10.5 claim 7 |
+| C2 | SLP research S1 | https://play.google.com/store/apps/details?id=com.tvt.superliveplus&hl=en_US | "client software for DVRs and IP cameras … (compatible models only)" | §10.5 claim 7 |
+| C3 | SLP research S4/A3 | https://www.mysecuresystems.com/wp-content/uploads/SuperLivePlus-User-Manual.pdf | green/grey/twinkling status; default admin/123456; press-and-hold QR share; playback by date; NAT | Repair list; §9 Olive/Wi-Fi Qs; §10.5 claim 6 |
+| C4 | SLP research V1/S2 | https://nvd.nist.gov/vuln/detail/CVE-2024-14007 | NVMS-9000 < 1.3.4 discloses admin credentials | §6 firmware card; §9 Wi-Fi Q; §10.5 claim 6 |
+| C5 | SLP research S1 (Putnam) | https://www.greynoise.io/blog/surge-exploitation-attempts-tvt-dvrs | surge peak >2,500 IPs Apr 3 2025 | §10.5 claim 6 |
+| C6 | smart-pss research C-U1 (dvr U1) | Census ACS B25004 Ulster | 86,178 units; 6,545 seasonal; 25.3% pre-1940 | §7 intro |
+| C7 | smart-pss C-U2 | Census B25004 subdivisions | Hardenburgh 70%, Denning 55%, Shandaken 33%, Woodstock 19% seasonal | §7 intro; §13 Woodstock |
+| C8 | smart-pss C-U3 | https://www.cenhud.com/en/news/2026/central-hudson-crews-work-to-restore-power-after-noreaster/ | Sept 26 2026 nor'easter; Woodstock among hardest hit | §13 Woodstock |
+| C9 | smart-pss C-U5 | https://hudsonvalleyone.com/2016/12/29/dead-zones-…/ | worst ZIPs incl. 12464 Phoenicia | §9 Phoenicia Q; §13 |
+| C10 | smart-pss C-U12 | https://kingston-ny.gov/hlpc | HLPC reviews visible material changes; ordinary maintenance exempt | §7.5 |
+| C11 | smart-pss C-U13 | https://ecode360.com/35131702 | Ulster Ch.185 electrical incl. signalling/data | §8.5 |
+| C12 | smart-pss C-U14/C-U15/C-U17/C-U18 | huguenotstreet.org; parks.ny.gov Senate House; opus40.org; dec.ny.gov; thruway.ny.gov; chronogram.com; newpaltz.edu/about/glance.html | Huguenot St 10-acre NHL; Senate House 1676; Opus 40 bluestone; Ashokan 1915; Exits 18/19/20; Shawangunk Wine Trail; SUNY NP 6,197 undergrads | §8 winery card; §9 New Paltz Q; §13 |
+| C13 | silo | https://www.nysenate.gov/legislation/laws/PEN/250.05 | eavesdropping, one-party consent | §8.5; §9 Saugerties Q; §10.5 claim 4 |
+| C14 | smart-pss C-U4 | ConnectALL / Archtop | fiber builds under way | Repair list item 4 ("mid-way through fiber builds") |
+
+## Pricing (no invented prices)
+$0 phone/screenshot review (silo convention); protected $195/hr, 3-hr minimum ($585), unmultiplied; recorder replacement = DVR Upgrade silo base (research/dvr-upgrade.md §1.8: 450–700 / 650–1,000 / 800–1,200 / 1,200–2,200 / 2,200+) × Ulster 1.53, round half-up → **$689–$1,071; $995–$1,530; $1,224–$1,836; $1,836–$3,366; $3,366+** (identical to smart-pss-support-setup-ulster-county / dvr-upgrade-ulster). Packages: $0 review, from $585 reset, from $689 + labour replacement. **FLAG: borrowed from DVR Upgrade silo — confirm.**
+
+## Images (11) — permanent image rule
+All 11 viewed; all are manufacturer product photos (no real outdoor/recorder-screen job photo was left that the six rebuilt SLP pages or the concurrent queens/SI builds had not already used — eave/winter-sky, stone-facade arm, mural, monitor grid, brick-lot playback all taken). Perceptual-hash check (dHash, centre crop) vs all 88 other SLP images: min distance ≥14 bits. Rejected: Akuvox indoor monitor (readable name list on screen); parking/ renders (AI-looking). Captions say "Manufacturer product photo, not an Ulster installation" and name only the visible badge; none claimed as TVT/Super Live Plus.
+| images/super-live-plus-app-support-repair/super-live-plus-app-support-repair-ulster-county-… | Source |
+|---|---|
+| white-floodlight-camera-with-two-round-lamps-and-motion-sensor-product-photo.webp (hero, Swann badge) | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-white-round-lamp-floodlight-camera-with-motion-sensor-product-photo.webp |
+| keypad-door-station-with-camera-and-card-reader-product-photo.webp (Akuvox) | images/door-buzzer-installation/door-buzzer-installation-ulster-county-keypad-entry-panel-with-camera.webp |
+| white-twin-lamp-floodlight-over-pan-tilt-camera-with-antennas-product-photo.webp (aosu) | images/floodlight-camera-installation/floodlight-camera-installation-putnam-county-white-twin-panel-floodlight-on-pan-tilt-camera-with-antennas-product-photo.webp |
+| white-wide-panel-floodlight-over-wide-lens-camera-product-photo.webp | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-white-wide-panel-floodlight-with-black-wide-lens-camera-product-photo.webp |
+| black-door-station-with-camera-and-call-button-product-photo.webp (Akuvox) | images/door-buzzer-installation/door-buzzer-installation-ulster-county-black-video-doorbell-with-call-button.webp |
+| black-wired-video-doorbell-with-blue-ring-button-product-photo.webp | images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-black-poe-video-doorbell-product-photo.webp |
+| low-black-recorder-with-front-usb-port-product-photo.webp (Reolink) | images/dvr-upgrade/dvr-upgrade-ulster-low-black-recorder-with-angled-front-product-photo.webp |
+| white-plug-in-floodlight-camera-with-power-cord-product-photo.webp (Ring) | images/floodlight-camera-installation/floodlight-camera-installation-putnam-county-white-plug-in-floodlight-camera-with-power-cord-product-photo.webp |
+| eight-channel-network-video-recorder-with-two-usb-ports-product-photo.webp (tp-link VIGI) | images/dvr-upgrade/dvr-upgrade-ulster-square-black-recorder-with-glossy-top-product-photo.webp |
+| pair-of-white-turret-cameras-on-one-base-product-photo.webp | images/nvr-installation/nvr-installation-putnam-county-two-white-turret-cameras-on-one-base-product-photo.webp |
+| white-and-black-slim-video-doorbell-product-photo.webp | images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-video-doorbell-product-photo.webp |
+DAILY-LOG note: `images: 11 reused from images/floodlight-camera-installation/ (4), door-buzzer-installation/ (2), residential-security-camera-installation/ (2), dvr-upgrade/ (2), nvr-installation/ (1) — all manufacturer product photos (no real Super Live Plus photos yet)`.
+
+## Keywords (Ulster geo layer)
+Super Live Plus Ulster County; SuperLive Plus rental cameras Woodstock / Saugerties / Shandaken / Phoenicia / Kingston / New Paltz / Hurley / Esopus / Olive; Airbnb indoor camera ban; Vrbo camera policy; privacy mask TVT recorder; audio off; push schedule; local host alerts; damage-claim clip export; guest Wi-Fi separation; CVE-2024-14007. All 11 alts/titles carry "Ulster County Super Live Plus".
+
+## Question register — super-live-plus-app-support-repair-ulster-county (REBUILT 2026-10-18)
+"?" H2s: none.
+§9 Q&A H3 (clusters: Making a TVT Recorder Fit the Booking Platforms · When the Owner Lives Under the Same Roof · Alerts for the People Who Have to Respond · Clips That Hold Up After a Stay · Keeping the System Out of Guests' Hands · Ulster Rules and Paperwork):
+1. Our Woodstock cottage had a camera over the kitchen island before Airbnb's 2024 ban — is unplugging it enough, or does it have to come out of Super Live Plus and the recorder too?
+2. The driveway camera at our Shandaken rental also catches the hot tub on the deck — what do we change on the recorder, and what do we tell guests?
+3. A Vrbo guest complained that our porch camera looks through the living-room window — can a mask fix that without moving the camera?
+4. Does a camera with a built-in microphone on the porch of a Saugerties rental break New York law if guests talk near it?
+5. How should the Airbnb listing describe each camera so the words match what Super Live Plus actually records?
+6. Hurley lets us host only while we're home — how do we keep the family's indoor cameras from recording the guest side of the house?
+7. Can the recorder stop recording our hallway camera automatically on nights a room is booked, and pick it up again when we're alone?
+8. In a New Paltz student house, can the landlord's porch and driveway cameras stay in Super Live Plus without seeing into tenants' rooms?
+9. Esopus expects a host within about fifteen driving miles of a non-owner-occupied rental — which camera events should ring that person's phone at 1 a.m.?
+10. Our Route 212 rental is booked for four guests — how would we know from the city that a dozen cars have turned up?
+11. Can an alert from the gate or porch camera tell our turnover cleaner that the guests have actually left?
+12. Airbnb gives hosts 14 days after checkout to file a damage claim — how do we pull the arrival and departure clips before the recorder writes over them?
+13. What can outdoor footage actually prove in a damage dispute, and what can't it?
+14. A neighbour on our Olive road says a renter's car clipped his mailbox — can we share that one clip without handing over our login?
+15. Guests use the same Wi-Fi as our recorder — could one of them find it on the network or open its login page?
+16. A guest pressed the reset button on the router in our Phoenicia rental and the cameras vanished from the app — how do we make the system survive that?
+17. Kingston caps whole-home rental permits at about 106 — if we lose ours and go back to a long-term tenant, what changes on the cameras?
+18. Does registering the rental with the Ulster County Department of Finance, or the state's new registry, involve the cameras at all?
+§17 FAQ (visible == FAQPage, 10):
+1. Can you visit between a Sunday checkout and a Friday check-in so no guest meets a technician?
+2. Can you give us a written list of every camera and what it covers, to copy into the listing?
+3. If we disable an indoor camera's channel, does the footage it already recorded disappear?
+4. Is the video doorbell at the front door of an Ulster rental still allowed under Airbnb's rules?
+5. Should a noise monitor go into Super Live Plus alongside the cameras?
+6. During a stay, should outdoor cameras record all the time or only on motion?
+7. Our keypad lock has its own small camera — does it belong in the same app as the recorder?
+8. Is it enough to mention the cameras in the house manual instead of the listing?
+9. Can you confirm in writing which channels were removed or disabled, in case a guest or the town asks?
+10. A guest has asked for the footage of their own stay — should we send it?
+§10.5 claim H3s (quoted claims, no "?"): indoor cameras fine if disclosed; switched-off camera doesn't count; outdoor cameras can point anywhere; audio fine on your property; phone footage is all the proof a claim needs; no app = no access; Super Live Plus is a camera brand.
+De-dup: mechanical (check_page) vs all 15 siblings on disk incl. concurrent queens (172,272 B) and staten-island (193,539 B) at ~end of build: no duplicate question/answer. By meaning, avoided: Putnam "should guests see cameras", caretaker/manager logins, winter closing, outage/clock; Bronx QR-sticker exposure, burglar-proof recorder spot, tenant's router, "alarm only for gate, not buses/headlights" (my Route 212 Q reframed from headlight false alerts to occupancy count); Manhattan tenant-one-camera, roommate access, retention days; NYC night-manager-only alerts (my Esopus Q is about which events, not which phone — closest overlap, FLAG); SI semi-attached neighbour's half of the driveway (mask) vs my window/hot-tub masks (different subject).
+
+## Check results
+`python3 tools/check_page.py super-live-plus-app-support-repair-ulster-county --no-registration` → FAIL (6), all "live sibling … doesn't link back" (brooklyn, dutchess, nassau, queens, rockland, suffolk, westchester class — main-run wiring). 12,974 words; title 55; meta 159; 11 figures; 6 JSON-LD blocks; FAQ 10 = schema 10; 2 forms; tel 845 + 800 (header). 175,562 B (nearest: queens 172,272; long-island 178,915).
+Masked block similarity (word SequenceMatcher on ≥8-word p/li/td/h2/h3/figcaption blocks): ≥0.65 only on blueprint-fixed H2 patterns and the protected warranty sentence, vs all 15 SLP siblings + smart-pss-ulster, dvr-upgrade-ulster, hik-connect-ulster. Page-level ≤0.105.
+
+## FLAGS
+1. Recorder replacement prices borrowed from DVR Upgrade silo × 1.53 — confirm.
+2. Town rental rules (Kingston cap ~106, Hurley owner-present, Village of New Paltz, Esopus 15 miles, Woodstock local contact, Olive 24, Shandaken cap met) come from a third-party July 2026 review (str.haus), not the town codes; page says so and tells owners to confirm with the town.
+3. Hostfully "ban applies even when switched off" and NPR are search excerpts; Airbnb help-center 14-day line and Vrbo policy text are search excerpts (full text in snippet).
+4. Unsourced house practices: guests unplug recorders / press router reset (observation), visits between stays, one-page camera table, guest-eye walk-through, continuous recording on driveway, NAT preferred for rentals, DHCP reservation, terminating retired cable runs, locking PTZ presets, "rental reset usually fits the 3-hour minimum", 2-h windows to 8 PM and "1–2 hours of arrival" (silo convention), ADT/Ring/SimpliSafe table qualitative; property-type and venue cards are general descriptions (no per-card source); "Ulster towns mid-way through fiber builds" rests on carried Archtop/ConnectALL rows.
+5. All 11 images are manufacturer product photos (brands visible: Swann, Akuvox, aosu, Ring, Reolink, tp-link VIGI); no real AESS job photo was free of reuse by the other SLP pages.
+6. Field Notes is a method note, not a job story.
+7. Audio-recording menu path on TVT recorders not found in the manual query; page gives no path.
+8. Size: 175,562 B; queens (concurrent) at 172,272 B — 3.3 KB apart; re-check after the batch's final edits.
