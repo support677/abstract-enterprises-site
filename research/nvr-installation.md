@@ -464,3 +464,212 @@ No real outdoor/rural house photos exist in the repo; FLAG — real valley NVR j
 ### Build notes
 - check_page.py: all page-side checks pass; the only failures are 8 sibling link-backs (brooklyn, long-island, manhattan, nassau-county, nyc, queens, staten-island, suffolk-county don't link to /nvr-installation-hudson-valley) — main-run wiring; subagents may not edit sibling pages.
 - Paragraph masked-similarity scan (difflib, ≥6-word paragraphs/headings): no body paragraph ≥0.65 vs the rebuilt Bronx page or the old-template siblings; residual ≥0.65 matches are blueprint-fixed H2 patterns ("Types of NVR Equipment We Install", "What AI Gets Wrong About…"), short step headings and the source-link lists / contact+warranty block shared in form with the Lorex HV hub.
+
+---
+
+## Westchester County
+
+Build 2026-10-18 (REBUILD in place of `nvr-installation-westchester-county`, was crawled-not-indexed). Direct line (914) 877-2578 in body, CTAs, sticky bar and schema; (800) 486-0943 only in the shared mega-nav header. GBP Bronx (460 E Fordham Rd, `#bronx`). Up-link `/nvr-installation-hudson-valley`. WhatsApp only wa.me/17186790359. Tools: Firecrawl search (`mcp__Firecrawl__firecrawl_search`) and scrape (`mcp__Fire_Crawl__firecrawl_scrape`, query/directQuote). Rows marked "carried" were fetched by earlier runs in research/hikvision-security-camera-installation.md (W*) or research/dvr-upgrade.md (H-W/C-W/F-W/L-W) and are cited there with URLs.
+
+**Thesis (distinct from Bronx = custody in old rented buildings; HV hub = outages/Starlink/barns/weekend houses; Ulster = Catskill/Kingston/rural; hikvision-…-westchester-county-ny = FCC "use test"; dvr-upgrade-westchester = co-op governance):** a Westchester recorder is bought by one party and judged by another — a management company running new towers (New Rochelle downtown, Yonkers waterfront), a district manager and insurer for corridor stores (Central Park Ave, Boston Post Rd, Mamaroneck Ave), the Office of Cannabis Management for dispensaries (9 NYCRR §125.3), one of 45 local police agencies, or household staff law on estates. So the job is a written spec: central vs per-floor recording, door-event and POS integration, multi-site viewing, retention matched to claim lag, 60-day/8-hour/5-minute dispensary requirements, export format, licence verification.
+
+### Source matrix (§3) — Westchester
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | r/Westchester Flock-camera threads (WR-N1, excerpts); carried RW1/R-W1 not reused. Westchester NVR-specific thread: EMPTY. |
+| 2–5 | PAA / PASF / Answer the Public / AI Overview | EMPTY (not accessible in build env). §10.5 says so on the page and tests seven commonly repeated claims. |
+| 6–7 | Landmarks / building stock | WN-H1–H4, WN-C1–C4 below. |
+| 8 | Bing / DuckDuckGo | EMPTY (not accessible in build env). |
+| 9–10 | Local news / hyperlocal | News 12 Westchester (New Rochelle burglary Jul 2026; Cross County Center arrests Oct 2026; Yonkers garage Sept 2026 carried), News 12 HV (Hudson Piers 2025), Governing (2025), ABC7 Ida (carried). |
+| 11 | Yelp 1–3★ | EMPTY (not accessible in build env); a Yelp dispensary listing page surfaced as an excerpt only (no review text). |
+
+### Rows
+| ID | Exact query · platform | URL | Finding | Page + section |
+|---|---|---|---|---|
+| WN-R1 | `New York Office of Cannabis Management adult-use dispensary security video surveillance requirements retain footage days 9 NYCRR` · Firecrawl search → scrape (directQuote) | https://www.law.cornell.edu/regulations/new-york/9-NYCRR-125.3 (also https://cannabis.ny.gov/chip-academy-2.17-retail-regulations-compliance-overview excerpt) | §125.3: continuous recording during hours of operation and when cannabis handled, motion otherwise; remote access/login for immediate viewing by the Office; ≥60-day retention; unaltered copies on request; hold for pending investigations; date/time stamp synchronised to NIST; storage secured against tampering/theft; failure notification within 5 minutes; ≥8 hours operation in power outage; surveillance rooms locked; (iv) "proprietary format that ensures authentication … no alteration". | §5 para 4 + facts; §6 card; §8 card; §8.5; Q&A dispensary ×2; §10.5 claims 1, 2, 7; FAQ 2; Sources |
+| WN-R2 | `Westchester County cannabis dispensary opened Yonkers OR "White Plains" OR "New Rochelle" OR "Mount Vernon" 2025 2026` · Firecrawl search (excerpts) | https://cannabisrealmny.com/ ; https://budrcannabis.com/location/yonkers/ ; https://www.ocala.com/videos/news/local/westchester/2025/10/10/new-rochelle-ny-new-cannabis-reserve-dispensary-opens/86629005007/ ; https://blackwestchester.com/westchesters-first-recreational-cannabis-dispensary-opens-in-mount-vernon/ | Licensed dispensaries at 475 Central Ave White Plains (OCM-CAURD-24-000046), 887 Yonkers Ave Yonkers, North Ave New Rochelle (opened Oct 10, 2025); first Westchester rec dispensary in Mount Vernon (headline). Businesses NOT named on page. | §5 para 4; §8 card; §13 n/a |
+| WN-L1 | `New York Labor Law 203-c video recording restroom locker room changing room employer prohibited` · Firecrawl search (excerpts) | https://www.nysenate.gov/legislation/laws/LAB/203-C ; https://newyork.public.law/laws/n.y._labor_law_section_203-c | "No employer may cause a video recording to be made of an employee in a restroom, locker room, or room designated by an employer for employees to change their clothes, unless authorized by court order." | §8.5; Q&A housekeeper/nanny; §10.5 claim 5; Sources |
+| WN-L2 | `Westchester County Consumer Protection license lookup search licensed home improvement contractor alarm business verify` · Firecrawl search (excerpts) | https://consumerlicenseweb.westchestergov.com/ ; https://consumer.westchestercountyny.gov/trade-licenses-search ; https://consumer.westchestercountyny.gov/home-contractors-and-trades/home-improvement-contractors ; https://www.westchestercountyny.gov/licenses-and-permits | County online search for licensed home improvement contractors; separate plumber/electrician trade-licence search; judgments/liens check via county clerk; Consumer Protection phone (914) 995-2155 on the licences page. | §5.5; §8.5; Q&A licence check; Sources |
+| WN-L3 | carried WK1/L-W1/L-W3 | consumer.westchestercountyny.gov; municode Ch. 863 Art. XVI | HI licence = residences ≤3 units, alarm-business exemption; electricians need county trade licence. | §8.5; Q&A licence check |
+| WN-P1 | `Westchester County number of local police departments …` · Firecrawl search → scrape (directQuote) | https://en.wikipedia.org/wiki/Law_enforcement_in_Westchester_County ; https://www.nyclu.org/uploads/2026/06/…COMPLAINT…pdf (excerpt: RTC created 2017, "almost 40 local police departments") | "There are forty-five local police agencies in Westchester County." | §5 para 3; facts; Q&A export format; §10.5 claim 7; Sources |
+| WN-P2 | carried WP1/WP2 | publicsafety.westchestercountyny.gov/crime-analysis-unit ; patch.com Peekskill 2017 | RTC: >100 agencies; cameras + fixed/mobile LPR; HQ Hawthorne; launched Dec 2017. | §5; facts; §13 card; Q&A plate readers; §10.5 claim 4 |
+| WN-N1 | `westchester.news12.com 2026 surveillance video store burglary …` · Firecrawl search → scrape (directQuote) | https://westchester.news12.com/2026/07/24/family-owned-new-rochelle-restaurant-loses-more-than-30000-in-brazen-burglary/3aU8y0asc3gPYBcOAehUqH | Jul 24, 2026: ~3:30 a.m. Monday, Modern Restaurant & Lounge, Huguenot Street; security video shows two suspects breaking through front doors; went directly to office with safe; >$30,000 taken. (Restaurant not named on page.) | §5 para 3; §8 added paragraph; Sources |
+| WN-N2 | same search → scrape | https://westchester.news12.com/body-cam-video-shows-police-arresting-two-shoplifting-suspects-fleeing-macys-on-same-day | Oct 9, 2026: two shoplifting arrests at Macy's, Cross County Center (Sept 18), captured on Yonkers police body cameras. | Not used on page (body-cam, not store NVR) |
+| WN-N3 | carried N-W1 | westchester.news12.com 2026-09-05 Yonkers garage | Surveillance video from garage + stores linked pair to car break-ins, Warburton Ave. | §5 para 3; Sources |
+| WN-H1 | `New Rochelle downtown redevelopment apartments units built since 2015 rezoning towers` · Firecrawl search → scrape (directQuote) | https://www.governing.com/magazine/getting-ahead-of-the-nimby-energy-an-older-city-learns-to-build (Oct 20, 2025) ; https://www.newrochelleny.gov/1015/TOD-Downtown-Cluster (excerpt) | Zoning approved Dec 8, 2015; ">4,500 new units are already online, with another 6,500 on the way"; quote "We've authorized 11,000 units downtown." | §5 para 2; facts; §13 card; Sources |
+| WN-H2 | `Yonkers downtown waterfront new apartment towers units …` · Firecrawl search → scrape (directQuote) | https://hudsonvalley.news12.com/2025/06/19/new-apartments-on-the-yonkers-downtown-waterfront-open-10-to-be-affordable-housing/OwWLBWS3Sl1XcdzgvMPgR | Jun 18, 2025: Hudson Piers Phase 1 = two of six rental buildings; "final and largest piece of the Yonkers Downtown Waterfront Revitalization". (Westfair 2018 map: excerpt only, not used.) | §5 para 2; facts; §13 card; Sources |
+| WN-H3 | carried H-W1 (Census ACS 2023 5-yr B25024 etc.) | api.census.gov … ucgid=0500000US36119 | 391,861 units; 66,378 in 50+ unit buildings; median year built 1958. | §5 para 2; facts; §7 card |
+| WN-C1 | carried C-W1/C-W2/C-W3/C-W4 | 914inc Platinum Mile; NYT 1995 Central Park Ave; Wikipedia US 1; Wikipedia Cross County Center | Platinum Mile medical conversions; Central Park Ave ~8.5 mi Yonkers–Greenburgh–White Plains; US 1 to Port Chester; Cross County opened 1954, lot on former peat bog. | §5; §8 cards; §13 cards; Sources |
+| WN-F1 | `Mamaroneck flood … Ida … Mamaroneck Avenue` · Firecrawl search (excerpts) | https://abc7ny.com/post/flooding-brooklyn-nj-nyc-flooded/10994078/ ; https://www.nan.usace.army.mil/Missions/Civil-Works/Projects-in-New-York/Mamaroneck-Sheldrake-Rivers/ | ABC7 Sept 2, 2021: up to 14 ft of water, Mamaroneck Avenue completely covered, basements to first floor; USACE: "severe flood risk persists" along Mamaroneck and Sheldrake Rivers "based on the recurrence of flood events". | §5 facts; §6 card; §7 table/bullets; §13 card; Sources |
+| WR-N1 | `site:reddit.com r/Westchester OR r/yonkers OR r/NewRochelle security camera footage package stolen building management` · Firecrawl search (excerpts) | https://www.reddit.com/r/Westchester/comments/1vom0uv/why_is_flock_cameras_expanding_so_fast_in/ ; …/1v68ji3/flock_spy_cameras_in_westchester/ ; …/1vh30pk/flock_cameras/ ; …/1nuvppj/close_your_windows_lock_your_doors/ | r/Westchester residents debating Flock plate-reader cameras spreading in the county; a burglary victim: "My entire block has over 30 videos of …" (excerpt). | Q&A plate readers; §10.5 claim 4; Sources (one thread) |
+| WN-G1 | carried silo G1/G2, G8, G9, G10 | FCC DA 26-635 / FR 2026-13518; NY Penal Law 250; DOS 19 NYCRR 195.2; NYS Commercial Security Tax Credit | as in §2.5 | §8.5; Q&A locked recorder; §10.5 claim 5; FAQ brands |
+
+### Pricing used (§9 Westchester 1.25×, Decimal ROUND_HALF_UP on the silo base in §2.7)
+$275–$600 setup own NVR; $813–$1,875 new 8-ch; $2,000–$6,875+ 16–32 ch/RAID; $238–$1,125 migration/expand/repair; $219 camera line; $250 concealed drywall; $125 raceway / $250 conduit; $31 J-box; from $188 recorder setup only; $63 removal; $0 COI; $195/hr 3-hr min ($585) not multiplied. Worked example: $813–$1,875 + 8×$219 ($1,752) + 3×$125 ($375) = $2,940–$4,002. Service schema AggregateOffer $188–$6,875. Same as HV hub's Westchester row for the four ranges.
+
+### Images (11) — Drive: no NVR folder; CompanyCam not connected → permanent image rule
+Viewed every source; no faces, plates, house numbers or readable documents (logo/TV/"Guest Services"/monitors cropped out). The Drive-sourced `images/cat6-repair/aess-*` and `images/fiber-optic-installation/aess-*` photos were viewed and REJECTED (polished branded-uniform crew shots with faces — AI-looking). Remaining real AESS sources not already used by Bronx/HV/Ulster crops were few, so the set is 3 real + 8 product.
+| images/nvr-installation/nvr-installation-westchester-county-… | Source | Placement |
+|---|---|---|
+| sixteen-channel-recorder-front-panel-product-photo.webp (867×167) | images/nvr-lorex-4k-16ch.png (trimmed) | Hero |
+| bullet-camera-on-pendant-mount-in-office-ceiling.webp (935×850) | images/rockland-toyota-ceiling-bullet.jpeg crop (0,150,935,1000), monitors excluded | §5 |
+| recorder-kit-with-four-bullet-cameras-and-monitor-product-photo.webp | images/products/d5.png | §6 |
+| black-dome-camera-on-drop-ceiling-above-tall-white-wall.webp (635×440) | images/rockland-toyota-dome-camera.jpeg crop (300,0,935,440), logo/TV/sign excluded | §7 |
+| small-black-camera-in-ceiling-grid-above-soffit.webp (555×470) | images/rockland-toyota-active-deterrent.jpeg crop (380,150,935,620) | §8 |
+| eight-channel-poe-recorder-product-photo.webp | images/nvr-trendnet-tv-nvr208.png | §9 (stores) |
+| large-vented-recorder-chassis-product-photo.webp | images/nvr-ens-titanium.png | §9 (dispensaries) |
+| compact-recorder-with-front-usb-ports-product-photo.webp | images/nvr-honeywell-35-series.png | §10 |
+| recorder-with-four-turret-cameras-product-photo.webp | images/products/a2.png | §14 |
+| dual-lens-turret-camera-with-warning-lights-product-photo.webp | images/cam-dual-lens-active.jpeg | §15 |
+| two-lens-ptz-camera-product-photo.webp (554×554) | images/cam-ptz-dual.jpeg | Field Notes |
+DAILY-LOG note: `images: 11 = 3 real AESS job photos (re-cropped, other jobs) + 8 manufacturer/retail product shots (no real NVR Installation photos yet)`.
+
+### House practices stated without an external source (FLAG)
+Central vs per-floor recording advice; door-event integration feasibility "depends on products"; VMS per-camera licensing as "commonly"; claim-letter timing and clip-locking; POS overlay methods and card masking; multi-site light sub-streams; landlord lot-footage advice; package-room camera pattern; elevator travelling-cable/bridge and elevator-contractor involvement; dispensary load measurement + generator transfer + timed breaker test; recorder not in the safe room + offline alert; Platinum Mile privacy masks; flood-height mounting; locked-recorder owner-reset routes (no unofficial tools); export native + MP4 routine; plate-camera narrow/fast-shutter; drive wipe/destroy options; twice-yearly check visit content; no trip line on price sheet; brands list (Lorex, Uniview, Hanwha, Dahua, Hikvision); "most recorder faults writing again within one to two hours of arrival" (silo convention); ADT/Ring/SimpliSafe comparison table is qualitative (no competitor prices). Field Notes = method in Anwar's voice, not a specific job story.
+
+### Question register additions — nvr-installation-westchester-county (REBUILD 2026-10-18)
+§9 Q&A (H3):
+1. Our new New Rochelle tower has a telecom closet on every floor — should each floor get its own recorder, or should everything record in one place?
+2. The building's fob system logs every door swipe — can the recorder line those swipes up with the video?
+3. Our management company already runs a video management platform at its other buildings — should this one get a standalone NVR or join that system?
+4. Can the cameras inside our tower's elevator cabs record to the same NVR as the lobby?
+5. Residents say parcels keep disappearing from our Yonkers building's package room — what should the recorder be set to capture there?
+6. A slip-and-fall claim letter reached our Central Avenue store six weeks after the fall — why was the clip already gone, and how do we keep the next one?
+7. Can the recorder show the register transaction on top of the video at our Boston Post Road store?
+8. Our district manager oversees six Westchester stores — can one screen show all six recorders without six separate apps?
+9. The landlord of our Central Park Avenue strip centre records the parking lot — how do we make sure we can get that video when a customer's car is hit?
+10. Our White Plains dispensary opens next quarter — what has to be finished on the recorder before the state inspects the shop?
+11. The dispensary rule says the system must keep running for eight hours in a power cut — what does that take for the recorder and cameras?
+12. We have a housekeeper and a nanny at our Scarsdale house — which indoor cameras can the recorder keep, and where must there never be one?
+13. We bought a house in Scarsdale and the previous owner's recorder is locked — can anyone get into it, or does it have to go?
+14. How do we check that a camera company is properly licensed in Westchester before it opens our recorder?
+15. Should exported clips be MP4 files or the recorder's own format when a Westchester police department or an insurer asks for them?
+16. Licence-plate readers are going up around our village — does our building still need its own camera on the parking entrance?
+§17 FAQ (visible == FAQPage, 10):
+1. Can you price a new tower's recording system from the low-voltage drawings before the building is finished?
+2. Can you give us the camera, storage and power details in a form our dispensary security plan can use?
+3. Can you come back twice a year to check the drives, clock and firmware?
+4. How far into northern Westchester do you travel, and does the price change?
+5. Which recorder brands do you install in Westchester?
+6. What happens to the data on our old recorder's drives when you take it away?
+7. Will the written quote name the recorder model and drive size so we can compare it against another bid?
+8. Do you need our internet login to set up the recorder?
+9. Our store lease says no drilling into the storefront — how do the cameras and recorder go in?
+10. Can you work around a tower's move-in schedule and elevator bookings?
+§10.5 claims (not questions): motion-only always smart; MP4 is all anyone needs; bigger building = bigger NVR; police plate readers make private cameras pointless; camera anywhere inside your own home; analytics catch shoplifters for you; any recorder's clock is good enough.
+De-dup notes: read against §4 register, Bronx/HV lists and the parallel Ulster page (read 09:36). Dropped my first-draft "Ida — where should a Sound Shore shop keep its recorder?" (≈ Ulster "sea-level rise … where should a Rondout business put its recorder") — flood placement kept as body text only; reframed dispensary Q from "what does the rule ask of the recorder" to pre-inspection readiness (Ulster owns continuous-vs-motion, OCM remote access, investigation hold, locked room); dropped a cost-claim §10.5 H3 (≈ Ulster's national-average claim). Borderline pair for coordinator: my fob-swipe/door-event Q2 vs Ulster "Can our existing alarm panel tell the recorder when someone opens the door after hours?" (access-control credential search vs alarm-panel input). Repair/CTA H2s rewritten so they do not end in "?" (avoid Bronx "Recorder Beeping, Dark or Full…?" and old-template storage intent).
+This page owns for the silo: per-floor vs central recording in towers, fob/door-event search, VMS vs standalone, elevator cab cameras, package rooms, claim-lag retention and clip locking, POS overlay, multi-store viewing, landlord lot footage, dispensary pre-inspection and 8-hour runtime, household-staff interior recording, locked inherited recorder, licence verification lookups, export format, public plate readers vs private cameras; FAQ: pricing from drawings, dispensary documentation, twice-yearly checks, northern travel, brands, drive data disposal, model/drive on quote, internet login, no-drill leases, tower elevator bookings.
+
+### Build notes
+- check_page.py: 13,229 rendered words; title 55; meta 158; 11 figures; 6 JSON-LD blocks; FAQ 10 = FAQPage 10; 186,265 B (HV hub 183,846 → margin 2.4 KB; Bronx 178,365; Ulster 174,765 at check time). Only failures: 12 live siblings not linking back (main-run wiring).
+- Masked-geo similarity (difflib on masked word lists; blocks p/li/td/h2/h3/figcaption ≥8 words): page vs Bronx 0.111, HV 0.048, Ulster 0.051, old-template siblings ≤0.039. Paragraph max ≥0.65 only for: blueprint-fixed H2 "What AI Gets Wrong About NVR Installation in…", the mandated warranty sentence paragraphs and the constant NAP/licence lines. Highest non-constant 0.632 (Bronx coverage intro).
+
+---
+
+## Ulster County
+
+Build 2026-10-18 (REBUILD of `nvr-installation-ulster-county`, was crawled-not-indexed). Direct line (845) 640-3835 in body/CTAs/schema; (800) 486-0943 only in the shared header chrome · GBP Bronx (460 E Fordham Rd, `#bronx`) · up-link `/nvr-installation-hudson-valley` · WhatsApp only as wa.me/17186790359. Format v2.3 §12.4. Tools: WebSearch, WebFetch (+ rows carried from other research files, named). Nothing invented; excerpts marked.
+
+**Thesis (distinct from Bronx = custody/evidence in buildings others control; HV hub = absence, outages, Starlink CGNAT, 328-ft barns; Westchester (parallel) = towers/estates/municipal/managed portfolios; hikvision-…-ulster-county-ny = covered-use buildings, absence, satellite, solar):** in Ulster the recorder has two enemies — **water** (Irene's record creek floods on the Esopus/Stony Clove/Rondout; Kingston's tidal Rondout waterfront with an 8.2-ft base flood elevation and up to 36 in sea-level rise by 2060; damp stone cellars) and **the calendar** (regulated retention: NY cannabis rules 60 days / 8-hour outage / 5-minute failure alert; Kingston PD's own cameras overwrite in 14–21 days). So the page is about placement above water, retention sized in writing, and the county's own building stock (Stockade/Rondout historic districts, iPark 87 campus, Ellenville mill/canal buildings, Woodstock/Saugerties studios) and rules (Ulster Ch. 185, Kingston HLPC).
+
+### Source matrix (v2.3 §3) — Ulster
+| # | Source | Result |
+|---|---|---|
+| 1 | Reddit | `site:reddit.com kingstonnewyork security camera NVR OR "security cameras" OR break-in` · WebSearch → only Kingston, Ontario results (kingstonist, globalnews). **EMPTY** for an Ulster NVR thread. Carried: r/kingstonnewyork Flock/Jenoptik threads (dvr-upgrade U4) — not used. |
+| 2 | Google PAA | **EMPTY (not accessible in build env)** |
+| 3 | Google PASF | **EMPTY (not accessible in build env)** |
+| 4 | Answer the Public | **EMPTY (not accessible in build env)** |
+| 5 | Google AI Overview | **EMPTY (not accessible in build env)** — §10.5 says so on the page and tests 7 commonly repeated claims (basement placement, "30 days is standard", motion-only, any NVR satisfies inspectors, cloud makes placement irrelevant, historic districts ban cameras, national averages) |
+| 6 | Landmarks | Rondout II Lighthouse, Coldbrook/Upper Esopus, Rondout Creek at Rosendale, iPark 87, Ellenville, SUNY New Paltz (rows UN1–UN9, carried UC*) |
+| 7 | Use cases / building stock | Stacker pre-1940 share (carried UC3); iPark 87; Ellenville factory/resort history; dispensary list; Shawangunk Wine Trail |
+| 8 | Bing / DuckDuckGo | **EMPTY (not accessible in build env)** |
+| 9 | Local news | Hudson Valley One (Irene 2011; iPark 87 2024; dispensary guide; KPD cameras Sept 2026 carried); WAMC 2013; Times Union 2024 (carried) |
+| 10 | Hyperlocal | Saugerties PD on CrimeWatch (2022 commercial alarm, Village of Saugerties); HV One 2020 Saugerties burglaries; Lower Esopus Watershed Partnership |
+| 11 | Yelp 1–3★ | **EMPTY (not accessible in build env)** — not re-tried (silo note §1) |
+| — | Drive "AESS Website Photos" / CompanyCam | no NVR folder / not connected (per brief) |
+
+### New rows (fetched this run)
+| ID | Exact query · platform | URL | Finding | Used (page section) |
+|---|---|---|---|---|
+| UN1 | `New York OCM adult-use cannabis retail dispensary video surveillance requirements footage retention days 9 NYCRR 125` · WebSearch → WebFetch | https://www.law.cornell.edu/regulations/new-york/9-NYCRR-125.3 | (c)(2)(vi) "All recordings shall be retained for at least 60 days"; (c)(2)(viii) longer while investigation/proceeding pending; coverage "all areas, except in areas where cannabis consumers are consuming" + "any parking lot"; (c)(2)(i) safes, vaults, sales areas; (c)(2)(ii) entry/exit points, each point-of-sale; (c)(2)(iii) "clear color still photo from any camera image (live or recorded)"; remote access/login for immediate viewing by the Office; unaltered copy on request; (c)(2)(ix) media "secured … from tampering or theft"; (c)(3) failure notice to licensee's designated representative "within five (5) minutes"; (c)(4) operational in outage "minimum of eight (8) hours". | §5 para 4; §5.5; Regulated Retention table; Q 60-day; Q OCM remote access; Q investigation hold; FAQ locked room; §10.5 H3 2–4; Sources |
+| UN2 | `New York cannabis cultivator processor security requirements video surveillance 9 NYCRR 123 OR 124 retention 60 days` · WebSearch → WebFetch | https://regulations.justia.com/states/new-york/title-9/subtitle-b/chapter-ii/part-113/section-113-14 | 9 NYCRR 113.14 (medical, registered organizations' manufacturing and dispensing sites): retention 60 days; 8 hours in outage; alert within 5 minutes; cameras on all areas that may contain cannabis + entries/exits. Cultivator/processor adult-use sections **not fetched** (FAQ says only that their rules sit elsewhere). | §5.5; Regulated Retention para; FAQ cultivators |
+| UN3 | `Ulster County dispensaries open Kingston New Paltz Saugerties Woodstock adult-use cannabis 2025 2026 number` · WebSearch → WebFetch | https://hudsonvalleyone.com/2024/11/24/ulster-county-marijuana-dispensary-holiday-gift-guide | HV One guide (page metadata Apr 13 2025, Zac Shaw) lists 5 Ulster dispensaries: Route 28 Town of Ulster; North Chestnut St New Paltz; Plaza Rd Kingston; Route 32 Kingston; Route 213 Stone Ridge. Page names towns only, no business names. | §5 para 4; §8 Route 28 / Route 213 cards; Sources |
+| UN4 | `Hurricane Irene 2011 Ulster County flooding Esopus Creek Phoenicia Rondout Creek damage` · WebSearch → WebFetch | https://loweresopus.org/2011/09/snapshot-of-rainfall-and-gauge-data-for-irene/ | "Almost all of Ulster County received more than six inches of rain"; Slide Mountain 11.53 in; Coldbrook (Upper Esopus) 23.34 ft (provisional), 1.4 ft above 1980 record, 2.76 ft above 2005; Mount Marion 25.39 ft; record flood levels Stony Clove (Phoenicia) and Rondout (Rosendale). | §5 para 2; §5.5; Places (Phoenicia); §10.5 H3 1; §13 Coldbrook & Rosendale cards; Sources |
+| UN5 | same · WebFetch | https://hudsonvalleyone.com/2011/09/01/waterworld-kingston-irene-drenches-city | County EMO director Art Snyder: Esopus crested 12 ft above flood stage, Rondout 9, Wallkill 6; >80 roads impassable; Coldbrook Bridge in Shandaken swept away; $8–10M county roads/bridges. | §5 para 2; §10.5 H3 1; §13 Coldbrook card |
+| UN6 | `City of Kingston NY flood zone Rondout waterfront FEMA flood map …` · WebSearch → WebFetch | https://www.wamc.org/post/flooding-task-force-issues-findings-kingston | Nov 20 2013: Kingston Flooding Task Force studied severe flooding on Rondout and Hudson waterfront from Sandy, Irene and Lee; sewage plant damaged by Sandy. | §5 para 3; Sources |
+| UN7 | same · WebFetch | https://kingston-ny.gov/filestorage/8399/8469/26768/12450/31097/191023_Kingtson_Shoreline-FINAL.pdf | Rondout Riverport Shoreline Stabilization & Public Access Ph. 2 (CAD date 10/23/2019): "may experience up to 36 inches of sea level rise by 2060"; 2014 1% annual chance flood elevation 8.2 ft NAVD88; Sandy (Oct 29 2012) surge "entered the exterior basement door and flooded the basement" of the Rondout II Lighthouse. | §5 para 3; §5.5; Q sea-level rise; §13 lighthouse card; Sources |
+| UN8 | `iPark 87 Kingston former IBM Tech City redevelopment tenants 2025 2026` · WebSearch → WebFetch | https://hudsonvalleyone.com/2024/05/13/ipark-87-progress-report | "200-plus-acre, million-square-foot former IBM campus"; owned by National Resources (Joe Cotter); seeking major private tenants (none named). | §5.5; Places (Town of Ulster); §7 campus card; Q iPark lease; §13 card; Sources |
+| UN9 | `Ellenville village Ulster County Route 209 …` · WebSearch → WebFetch | https://en.wikipedia.org/wiki/Ellenville,_New_York | Village in Town of Wawarsing; 4,167 (2020); junction NY 52 / US 209; Rondout Valley, Shawangunk Ridge east, Catskills west; D&H Canal 1820s boom; Ellenville Regional Hospital; Nevele closed 2009; Ulster Knife Co. from 1870s → Imperial Schrade closed 2004. | Places (Ellenville); §7 mill card; Q slabs; §13 card; Sources |
+| UN10 | `Shawangunk Wine Trail Ulster County wineries number Route 32 Route 208` · WebSearch → WebFetch | https://www.chronogram.com/food-drink/shawangunk-wine-trail-tells-the-regions-story-by-the-glass-23340721/ | May 2025: "13 highlights along the west side of the Hudson River"; Ulster and Orange counties. (Routes 32/208 named on page as roads only — FLAG.) | §8 wineries card; Sources |
+| UN11 | `Daily Freeman 2026 burglary surveillance video Saugerties OR Ellenville OR Woodstock OR Kingston store police` · WebSearch → WebFetch | https://crimewatch.net/us/ny/ulster/saugerties-pd/161206/arrests/monarch-wiiliam-joseph-burglary-3rd-degree-and-1-additional-charge | Saugerties PD: Aug 29 2022 commercial burglar alarm at a store in the Village of Saugerties (no video mentioned). | Places (Saugerties) — "commercial alarm calls at local stores"; Sources |
+| UN12 | `hudsonvalleyone.com 2026 "surveillance footage" New Paltz OR Saugerties OR Woodstock OR Ellenville arrest` · WebSearch → WebFetch | https://hudsonvalleyone.com/2020/02/14/arrest-made-in-saugerties-home-burglary-spree | Feb 3–12 2020: four residential burglaries in Village of Saugerties; Town of Ulster PD assisted; no camera mention. | Sources only |
+| UN13 | `Ellenville NY news 2025 2026 … security cameras theft` · WebSearch | (Daily Voice tag pages for other towns only) | **EMPTY** for Ellenville camera/theft news. | — |
+
+### Carried rows (not re-fetched; source file named)
+| ID | From | URL | Finding | Used |
+|---|---|---|---|---|
+| UC3 | hikvision research U-2 | https://stacker.com/stories/new-york/counties-oldest-homes-new-york (excerpt) | 21,829 Ulster homes (25.3%) built 1939 or earlier | §5.5; Sources |
+| UH1 | hikvision research U-1 | https://hudsonvalleyone.com/2026/09/02/police-defend-kingstons-surveillance-cameras-as-residents-raise-privacy-concerns/ | KPD Ubiquiti street-camera video erased every 14–21 days; cameras concentrated in Midtown and Uptown | §5 para 4; §8 Broadway card; §10.5 H3 2; Sources |
+| C1/UC11 | dvr-upgrade C1 | https://kingston-ny.gov/hlpc | Districts Stockade, Rondout–West Strand, Chestnut St, Fair St; COA for material change visible from street/alley; ordinary maintenance exempt | Places; §8.5; Q historic districts; §10.5 H3 6 |
+| C5 | dvr-upgrade C5 | https://www.timesunion.com/hudsonvalley/news/article/kingston-waterfront-flooding-grant-19373867.php | Mar 2024: $1.5M federal grant to raise East Strand/North Street against frequent tidal flooding | §5 para 3; Q sea-level rise; Sources |
+| C9 | dvr-upgrade C9 | ulstercountyny.gov 2026-02-27 | iPark 87 East Campus hosts Ulster BOCES and Archtop Fiber | §5.5; §13 card |
+| C15 | dvr-upgrade C15 | https://hudsonvalleyone.com/2016/12/29/dead-zones-more-than-a-decade-into-the-cell-phone-era-much-of-ulster-county-still-has-no-service/ | dead zones along Routes 212/28 | Places (Route 28); §10.5 H3 5; Sources |
+| C20/HV-K4 | dvr-upgrade C20 | https://ecode360.com/35131702 | Ulster Ch. 185 electrical licensing; electrical work includes signalling, communication, alarm, data transmission | §5.5; §8.5; Q licensing; Sources |
+| UC15 | hikvision U-2 | https://www.newpaltz.edu/about/glance.html | >7,000 students | Places (New Paltz); §13 card |
+| G8/G9/G10 | silo §2.5 | nysenate PEN 250; dos.ny.gov installer licence; NYS Commercial Security Tax Credit | eavesdropping; DOS licensing; ≤50 employees up to $3,000/location | §8.5; Sources |
+| S7 | silo HV part | homeadvisor.com; angi.com NY | HomeAdvisor $1,289 avg ($589–$2,040), labour $80–$200/camera; Angi NY $797–$2,222 | §10.5 H3 7; Sources |
+
+### Prices used (Ulster §9 = 1.53×, round half-up; silo base §2.7)
+Setup own NVR $337–$734; new 8-ch $995–$2,295; 16–32 ch/RAID $2,448–$8,415+; upgrade/migration/relocation/repair $291–$1,377 (same as HV hub's Ulster line). Per-line (BYOE calculator Brooklyn base ×1.53): camera line $268; concealed drywall $306; raceway $153; conduit $306; J-box $38; recorder setup only $230; old-equipment removal $77; COI $0. Service $195/hr, 3-hr min ($585), not multiplied. Worked example: $995–$2,295 + 6×$268 ($1,608) + 2×$153 ($306) = $2,909–$4,209. FLAGS: per-line items multiplied by 1.53; the BYOE calculator's own Ulster entry (install-your-own-camera-system.html AREAS.ulster) says markup .41 / note '+41%', line $267, conceal $306, hourly $275 — i.e. $1 below §9 on the camera line and an internally inconsistent markup label; page follows §9 ($268); §2.7 FLAGS still apply (equipment+labour multiplied together; $150 vs $220–$480 setup scopes).
+
+### Unsourced house practices on the page (FLAG for Anwar)
+Recorder above known flood line/one storey above basement; switch left low as the only at-risk part; dehumidifier near equipment in damp rooms; one cored sleeve per masonry wall; per-floor switches; filtered cabinets near kilns/woodshops; "leave a wet recorder off" and lab recovery advice; continuous recording of named areas for dispensaries (our cautious reading, not OCM guidance); viewer-only account + relay/VPN for OCM; lock + export + log for pending investigations; two-week retention re-check visit; printed export card; alarm-input integration; travel included in the 1.53 factor (no separate trip charge — confirm); "recording again within one to two hours of arrival" (silo convention); recorder life "every several years / five or eight years"; Field Notes = method note in Anwar's voice, not a specific job.
+
+### Keywords (Ulster geo layer)
+NVR installation Ulster County; NVR installation Ulster County NY; network video recorder Kingston NY; dispensary camera recorder Ulster; 60-day video retention dispensary New York; recorder flood Rondout; Kingston, Rondout, East Strand, Stockade, Uptown, Broadway/Midtown, Town of Ulster, Route 9W, iPark 87, New Paltz Main Street, Route 299, Saugerties, Partition Street (name only), Route 32, Woodstock, Route 212, Ellenville, Route 209, Route 52, Stone Ridge, Route 213, Phoenicia, Mount Tremper, Route 28, Rosendale, Coldbrook. All 11 alts carry "Ulster County".
+
+### Images (11) — images/nvr-installation/nvr-installation-ulster-county-*.webp
+Drive: no NVR folder; CompanyCam not connected → permanent image rule. Real-photo pool exhausted by siblings (Bronx/HV and the hikvision Ulster page already used most of the 16 real jpegs), so new non-overlapping crops of 5 real AESS job photos + 6 manufacturer recorder shots not used anywhere in the silo. All viewed; no faces (deli crop stops above shoppers; Toyota office crop stops above the seated person), no plates, house numbers or readable documents; poster/QR crop removed from the hallway shot.
+| File | Source (crop l,t,r,b) | Section |
+|---|---|---|
+| recorder-live-view-tiles-with-time-stamp (485×300) | images/rockland-toyota-nvr-monitor.jpeg (560,230,1045,530) | Hero |
+| dome-camera-below-water-stained-ceiling-tile (835×560) | images/nassau-window-depot-storage-camera.jpeg (100,0,935,560) | §5 |
+| idis-eight-channel-recorder-product-photo | images/nvr-idis-dr2508p.png (trimmed) | §6 |
+| white-turret-camera-in-drop-ceiling-by-light-panel (935×560) | images/rockland-toyota-office-camera.jpeg (0,0,935,560) | §7 |
+| avycon-sixteen-channel-recorder-product-photo | images/nvr-avycon-avr-nsv16p.png | Regulated Retention |
+| small-domes-among-light-panels-in-shop-ceiling (1230×440) | images/manhattan-deli-interior-cameras.jpeg (0,0,1230,440) | §8 |
+| luminys-rack-recorder-product-photo | images/nvr-luminys-r5216pa.png | §10 |
+| swann-recorder-front-and-rear-ports-product-photo | images/nvr-swann-advancedx-4k.png | §10 comparison |
+| digital-watchdog-recorder-product-photo | images/nvr-digital-watchdog-cova.png | §12 |
+| bullet-camera-on-ceiling-grid-beside-air-vent (935×470) | images/rockland-toyota-hallway-camera.jpeg (0,0,935,470) | §13 |
+| speco-sixteen-channel-recorder-product-photo | images/nvr-speco-n16nrx.png | §14 |
+DAILY-LOG note: `images: 11 = 5 real AESS job photos from other jobs (new crops of rockland-toyota, nassau-window-depot, manhattan-deli) + 6 manufacturer recorder product shots (no real NVR Installation photos yet)`. FLAG: hero/turret/hallway/storage sources are the same jpegs the Bronx and HV builders cropped differently.
+
+### Question register — nvr-installation-ulster-county (REBUILT 2026-10-18)
+§9 H2 (question form): Ulster Recorder Wet, Full or Silent?
+§9 H3:
+1. Does the sea-level rise Kingston is planning for change where a Rondout business should put its recorder today?
+2. Can footage be recovered from a recorder whose drive sat in floodwater?
+3. Does a damp fieldstone or bluestone cellar hurt a recorder even if it never floods?
+4. Does the state's 60-day rule for dispensaries mean continuous video or just motion clips?
+5. What does giving the Office of Cannabis Management "remote access" to our recorder look like in practice?
+6. The cannabis rules say keep footage longer if an investigation is pending — how do we hold one incident past the 60 days?
+7. We lease a suite on a large campus like iPark 87 — can we run our own recorder, or must we use the landlord's?
+8. Coring through an old mill's concrete floors is slow and costly — how few holes can a three-storey camera system get by with?
+9. Our pottery or woodworking studio is dusty — where should the recorder go?
+10. Can the recorder black out part of a camera's view, such as a neighbour's window across a narrow Uptown street?
+11. Does Ulster County's electrical licensing law reach the low-voltage camera cable?
+12. Does putting a recorder and new cable into a building in one of Kingston's historic districts need the preservation commission's approval?
+13. Can our existing alarm panel tell the recorder when someone opens the door after hours?
+§17 FAQ (= FAQPage, 8):
+1. Can you audit how many days of video our current recorder actually keeps?
+2. Why are Ulster County prices 1.53 times the Brooklyn base?
+3. Our building still has coax cameras from the 1990s — can a network recorder use them?
+4. We are switching internet providers — what has to be redone on the recorder?
+5. Can the recorder be fixed to the wall instead of sitting on a shelf?
+6. Do you install recorders for cannabis cultivators and processors, not just dispensaries?
+7. Does a dispensary's recorder have to be in a locked room?
+8. What should we write down about the recorder for our insurance agent?
+§10.5 claim H3s (not questions): basement is cool and out of the way; 30 days is the industry standard; motion recording is all a business needs; any NVR can give an inspector/detective what they need; cloud backup makes recorder location irrelevant; can't add cameras in a historic district; national averages tell you the Ulster cost.
+De-dup notes: checked against Bronx §4.2, HV B.3 and the parallel Westchester rebuild (read 09:35Z). Changed because of overlap: "how high should the recorder sit (Rondout flood)" → sea-level-rise planning (Westchester owns "Ida … where should a Sound Shore shop keep its recorder now?"); FAQ "how far into the Catskills do you travel" → retention audit (Westchester owns "how far into northern Westchester … price change?"); "how do cameras on three storeys reach one recorder" → minimising slab penetrations (Westchester owns per-floor vs central recorder). Dispensary topic overlaps Westchester in subject (both cite 9 NYCRR 125.3), but intents differ: Westchester asks "what does the rule ask of the recorder" / "eight hours" / "security-plan details"; Ulster asks continuous-vs-motion, OCM remote access, investigation hold, locked room, cultivators. Not repeated: HV battery/generator/caretaker/off-site/move-recorder intents; Bronx fault alerts, time sync, detective export, role accounts.
+Similarity (masked, block-level SequenceMatcher, h3/p/li/td/figcaption ≥8 words): max paragraph 0.643 (vs Bronx per-line price label; vs HV DVR-upgrade service card); page 5-shingle Jaccard ≤0.007, page SequenceMatcher ≤0.086 vs every nvr-installation-* page, hikvision-…-ulster-county-ny and dvr-upgrade-ulster. Only the blueprint-fixed H2 "What AI Gets Wrong About NVR Installation in …" matches ≥0.65.

@@ -259,9 +259,9 @@ LIVE REBUILD | nvr-installation-hudson-valley | NVR Installation | Hudson Valley
 BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-long-island | NVR Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-putnam-county | NVR Installation | Putnam | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 BUILDING 2026-10-18T09:12Z REBUILD | nvr-installation-staten-island | NVR Installation | Staten Island | up /nvr-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T09:17Z REBUILD | nvr-installation-ulster-county | NVR Installation | Ulster | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-BUILDING 2026-10-18T09:17Z REBUILD | nvr-installation-westchester-county | NVR Installation | Westchester | up /nvr-installation-hudson-valley | (914) 877-2578 | GBP Bronx
-BUILDING 2026-10-18T09:17Z REBUILD | parking-lot-camera-installation-queens | Parking Lot Camera Installation | Queens | up /parking-lot-camera-installation-nyc | (347) 434-6392 | GBP Bronx
+LIVE REBUILD | nvr-installation-ulster-county | NVR Installation | Ulster | up /nvr-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+LIVE REBUILD | nvr-installation-westchester-county | NVR Installation | Westchester | up /nvr-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+LIVE REBUILD | parking-lot-camera-installation-queens | Parking Lot Camera Installation | Queens | up /parking-lot-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 REBUILD | residential-security-camera-installation-nassau-county | Residential Security Camera Installation | Nassau | up /residential-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 REBUILD | school-security-camera-installation-brooklyn | School Security Camera Installation | Brooklyn | up /school-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | school-security-camera-installation-long-island | School Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
