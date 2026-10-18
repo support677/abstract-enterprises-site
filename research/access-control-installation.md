@@ -561,3 +561,243 @@ F10. Do I need to tell my City Line tenants before I switch the front door from 
 - access-control-installation-city-line-brooklyn-slim-black-video-doorbell-with-lit-button.webp
 - access-control-installation-city-line-brooklyn-touchscreen-entry-panel-with-dial-pad.webp
 - access-control-installation-city-line-brooklyn-white-indoor-answering-monitor.webp
+
+
+## Clason Point, Bronx (access-control-installation-clason-point-bronx-ny)
+
+Built 2026-10-18 (batch 18 REBUILD, was crawled-not-indexed; no old text reused). Silo: Access Control Installation. Up-link /access-control-installation-bronx. Phone (646) 490-0629. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), quoted only from access-control-installation-brooklyn.html.
+
+Thesis: Clason Point is a peninsula with water on three sides, and its entry problems are gates and governance (Shorehaven: seven HOAs + umbrella sharing one gatehouse), cooperative bungalows on association land (Harding Park), newer 2-3 unit rowhouses, NYCHA garden housing (not ours to touch), scattered shops far from retail — plus flood-aware placement of controllers/power supplies/batteries (V/coastal A zones, Sandy).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Section |
+|---|---|---|---|---|---|
+| 1 | Clason Point Bronx neighborhood Wikipedia Soundview Park Shorehaven Harding Park | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Clason_Point,_Bronx | Peninsula in CD9; 0.47 sq mi; ZIP 10473; bounds Lafayette Ave (N), White Plains Rd & Pugsley Creek Park (E), East River (S), Bronx River (W); Harding Park bounded by Lacombe Ave/Pugsley's Creek/East River/Bronx River; Soundview Ave main thoroughfare (formerly Clason's Point Road); Story Ave, Bruckner, White Plains Rd shopping corridors, nearest retail strip almost a mile away; 43rd Pct 900 Fteley Ave; FDNY E96/L54 1689 Story Ave; amusement site bought 1947, Shorehaven Beach Club 1949, Soundview Associates 1986, Shorehaven Condominiums 1999 gated, 1,183 townhome-style units; modern 2–3 unit rowhouses since 1990s; high NYCHA concentration; Clason Point Gardens 45 two-story buildings, first NYCHA in Bronx; Soundview Park 205 acres, filled land from 1939; Clason Point Park ferry landing; Bx27/Bx39; NYC Ferry Soundview from Aug 15, 2018; streets flood after heavy rain | Hero, §5 paras 1–4, facts list, §8, landmarks, Q&A (FDNY, spares), FAQ, sources |
+| 2 | (same search) | WebFetch | https://forgotten-ny.com/?p=91329 | Soundview Ave two-mile route cutting the grid, ends at traffic circle with East River/Whitestone Bridge view; Harding Park bungalows 1920s (Thomas Higgs), HOA gained title 1982; Shorehaven 57-acre gated community (Admiral Ct, Beacon Ln, Surf Dr), beach club 1949–1986; ferry to College Point 1906–1939 | §5 para 1, facts, Q&A (HOA approval, footpath), landmarks |
+| 3 | Shorehaven condominiums Bronx gated community security gate HOA | WebSearch → WebFetch | https://www.connectcre.com/stories/trion-to-manage-899-unit-bronx-condo-complex/ | Nov 10, 2020: Shorehaven, 15 White Plains Rd; 899 units on 40 acres; seven HOAs + one umbrella association; Trion chosen as single manager; planned gatehouse renovation with "state-of-the-art security" and perimeter cameras (planned, not completed). Unit count conflicts with Wikipedia (1,183) — page says so and relies on neither | §5 para 2, facts, Q&A gatehouse cluster, AI #1, sources |
+| 4 | Harding Park Bronx Hurricane Sandy flooding bungalows Clason Point | WebSearch → Firecrawl scrape (pdf) | https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/harding-park/summary-report-harding-park.pdf | DCP June 2016: 226 single-family homes, ~400 residents; cooperatively owned, administered by Harding Park Homeowners Association; in 1% annual chance floodplain incl. V Zone, Coastal A, A and shaded X; residents reported Sandy building damage (figures not used on page); WebFetch of same PDF failed, Firecrawl succeeded | §5 para 5, facts, flood section, Q&A HOA, AI #4, sources |
+| 5 | (same search) | WebFetch | https://bronxink.org/2012/10/30/25819-hurricane-sandy-leaves-behind-fallen-trees-power-outages-along-south-coast-of-bronx/ | Oct 30, 2012: homes overlooking East River at southern tip major flood damage; Harding Park home ~150 ft from waterfront took ~1 ft of water; ~49,000 Bronx Con Ed customers (11.6%) out | §5 para 5, flood section, Q&A flood warning, AI #7 |
+| 6 | (same search) | WebFetch | https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/harding-park.page | Redirect stub only — EMPTY | — |
+| 7 | Clason Point Gardens NYCHA first Bronx development 1941 buildings units | WebSearch → WebFetch | https://www.bxtimes.com/clason-point-gardens-marks-85-years-in-the-bronx/ | Sept 9, 2026 (Matthew McKay): opened 1941, first public housing in the Bronx, NYCHA's first low-rise garden-style development, mostly two-story on ~17 acres | facts, Q&A NYCHA, landmarks |
+| 8 | NYC Ferry Soundview landing Clason Point Park stops route Wall Street East 34th | Firecrawl search (excerpts) | https://www.ferry.nyc/routes-and-schedules/rockaway-soundview/ ; https://portal.311.nyc.gov/article/?kanumber=KA-02376 | Route now listed "Rockaway – Soundview"; Soundview (Clason Point) landing at Clason Point Park, 9 Soundview Ave 10473; Bx27 at landing, Bx39 at Cornell & Soundview | facts, Q&A latched-door, FAQ ferry guest, landmarks |
+| 9 | Bronx Community Board 9 office address district manager … | Firecrawl search (excerpts) | https://www.nyc.gov/site/bronxcb9/index.page | CB9 serves Bronx River, Castle Hill, Clason Point, Harding Park, Parkchester, Park Stratton, Soundview/Bruckner, Unionport (office address only from third-party excerpts — not used) | facts |
+| 10 | Clason Point Bronx burglary OR break-in OR "package" 43rd Precinct 2025 OR 2026 Bronx Times | Firecrawl search → scrape | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/43rd-precinct.page | 900 Fteley Ave 10473; (718) 542-0888; southeast Bronx, strips Westchester Ave/Castle Hill Ave/White Plains Rd/Parkchester; council 1st Wednesday except Jul/Aug | facts, landmarks |
+| 11 | (same) | Firecrawl scrape | https://www.bxtimes.com/rapes-rise-bronx-murder-burglary-plummet-sept-2025/ | Oct 7, 2025: 43rd Pct vehicle thefts 48→30 in a 28-day period; "98 to 74" figure ambiguous as to crime type — NOT used | not used |
+| 12 | site:reddit.com "Clason Point" OR "Shorehaven" Bronx living building door | Firecrawl search (excerpts only) | https://www.reddit.com/r/bronx/comments/1mkxgi6/best_bronx_neighborhoods_to_live_in_now/ | Excerpt: "Clason Point has some nice new builds and has the Ferry, but it is a trek through rough areas to get to stores and the train" (paraphrased on page, "rough areas" not used) | §5 para 4, sources |
+| 13 | silo legal (reused from research/access-control-installation.md: Bedford Park, Boerum Hill, Bensonhurst entries) | — | nyc.gov TDPL page; nysenate MDL 50-a; nycadmincode HMC 27-2043; amlegal BC 1010.1.9.8 (0-0-0-173505) & 1010.1.9.9 (0-0-0-173513); amlegal 28-105.4.7 (0-0-0-156361); fixr smart lock | As recorded in the silo file | §8 compliance, AI #2/#6, Q&A NYCHA |
+| 14 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html (lines 696–717, 846–850) | single door $1,500–$2,500; keypad personnel door $1,500–$2,000; video intercom w/ fob $1,500–$3,000; multi-door $4,000–$15,000; office readers $4,000–$12,000; full building $15,000–$40,000+; $195/hr 3-hr min; 8.875%; <$500 upfront, >$500 50% deposit | §14 pricing, §15 packages, FAQ price, Service schema |
+
+EMPTY: Google PAA, PASF, AI Overview, Answer the Public, Bing/DDG autocomplete, Yelp 1–3★ — all EMPTY (not accessible in build env). Reddit full threads — EMPTY (excerpts only). Clason Point–specific access-control/intercom news — EMPTY (none found). Local crime story usable for page — EMPTY (only an ambiguous precinct stat and a 2026 shooting, not access-relevant, not used).
+
+Unsourced / AESS practice (labeled as practice on page): controller-above-flood-line placement, storm and post-flood routines, spares kit, fail-safe/fail-secure per door, anti-passback/visitor screen/lockdown/event modes, cellular communicator, gate loops, wireless bridges for path gates, door swelling fixes, BYOE labor-only quoting.
+
+### Question register
+Q&A (§9, H3):
+1. Our townhome complex has one main gatehouse shared by several homeowners associations. Who should hold the master list of gate credentials?
+2. Cars back up at the gate window every evening. Would windshield tags or plate recognition move residents through faster than fobs?
+3. How should the guard at our gatehouse check in guests and contractors without a paper sign-in book?
+4. Some residents lend their gate fobs to friends who park inside for the waterfront. Can the system stop that without spying on everyone?
+5. How do fire engines and ambulances get through our gate if nobody is in the gatehouse?
+6. Should our association keep spare readers and a spare power supply on site?
+7. Our Harding Park bungalow sits on land owned by the homeowners association. Do we need the association's approval before putting a keypad on our own door?
+8. Our bungalow is reached by a footpath rather than the street. Can the gate at the end of the path call the house without digging a trench?
+9. Our wooden bungalow door swells and sticks every summer. Can it still take an electric lock?
+10. Can my phone confirm that the front door actually latched after I leave for the morning ferry?
+11. We run a home daycare in our Clason Point house. How do parents get in at pickup without a key?
+12. A coastal flood warning has been issued. What should we do to the door system before the water comes?
+13. The water has gone down. What has to be checked before we trust the doors and gates again?
+14. I rent an apartment at Clason Point Gardens. Can I hire you to put a keypad on my door?
+FAQ (§17 = FAQPage):
+1. Can the gate be held open on a schedule for a community event, then lock again by itself?
+2. Can a resident's credential open the main gate but not another association's amenity room inside the same complex?
+3. How can we test the battery backup without waiting for a blackout?
+4. What insurance paperwork do you give a homeowners association before starting work?
+5. Can every door and gate be locked at once if there is trouble on the street outside?
+6. Can a guest who arrives on the ferry get a code that only works that day?
+7. How long do windshield tags and fobs last before they need replacing?
+8. We still use garage-style remote clickers at our gate. How do we move to fobs or tags without locking anyone out?
+9. Does a reader on a gate post need its own power run, or can it share the gate operator's power?
+10. Our gatehouse has no internet line. Can the system still be managed remotely?
+11. Is the price for Clason Point the same as for the rest of the Bronx?
+Other headings: "Gate Stuck Open on the Point? Same-Day Repair in Clason Point" and "Gate Down or Door Not Latching Tonight? Call the Clason Point Line" (do not end in "?").
+
+### Images (source → target, images/access-control-installation/access-control-installation-clason-point-bronx-*.webp)
+1. images/akuvox-video-door-station.webp → two-tone-door-station-with-card-symbol (manufacturer; hero, eager)
+2. images/akuvox-video-doorbell-black.webp → black-door-station-with-card-and-bell-key (manufacturer)
+3. images/invid-video-doorbell.png → silver-edged-doorbell-with-blue-bell-ring (manufacturer; transparent → white)
+4. images/uniview-unv-video-doorbell-white.webp → white-and-black-dual-lens-doorbell (manufacturer)
+5. images/eufy-video-doorbell-2k.jpg → black-battery-doorbell-with-blue-ring (manufacturer)
+6. images/lorex-2k-video-doorbell.webp → black-doorbell-with-green-lit-button (manufacturer)
+7. images/intercom-repair/intercom-repair-staten-island-stone-apartment-facade-with-camera-on-steel-arm.webp → job-photo-stone-facade-camera-on-steel-arm (job library)
+8. images/dvr-upgrade/dvr-upgrade-putnam-grey-camera-tile-of-storeroom-and-open-doorway.webp → job-photo-recorder-view-storeroom-and-open-door (job library)
+9. images/dvr-upgrade/dvr-upgrade-nassau-county-small-ceiling-camera-near-exit-sign-and-vent.webp → job-photo-ceiling-camera-near-exit-sign (job library)
+10. images/dvr-upgrade/dvr-upgrade-nassau-county-split-screen-tile-brick-wall-and-paved-lot.webp → job-photo-recorder-view-brick-wall-and-paved-walk (job library)
+11. images/dvr-upgrade/dvr-upgrade-ulster-white-dome-camera-under-water-stained-ceiling.webp → job-photo-dome-camera-under-water-stained-ceiling (job library)
+All viewed first; no faces, plates, house numbers or readable documents (brand names printed on products only). Rejected: westchester/ulster ceiling bullet shots (near-identical pair), brooklyn storefront turret (mural), brooklyn stone-facade dome (duplicate of #7).
+
+
+## Cobble Hill, Brooklyn (access-control-installation-cobble-hill-brooklyn-ny)
+
+Built 2026-10-18 (batch 18, REBUILD of a crawled-not-indexed template; no old text reused). Up-link /access-control-installation-brooklyn. Phone (347) 934-8335. GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing 1.00x, figures only from access-control-installation-brooklyn.html.
+
+Thesis (deliberately different from Boerum Hill's landmarked-rowhouse/door-repair thesis): in Cobble Hill access control is a governance problem of SHARED entrances — the gated Warren Place mews (34 cottages, one gate), the Home and Tower Buildings courtyard complex with outdoor stairs (condo conversion from 2008), church/school conversions, the former LICH campus becoming River Park condos and 354 Hicks St (condos + medical floors + attended garage), and Court/Smith/Atlantic shops. Questions focus on administrators, zones, handovers from sponsors, and Local Law 63's 90-day rules for departed tenants and non-tenant users.
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (scrape) Cobble Hill Wikipedia | Firecrawl scrape | https://en.wikipedia.org/wiki/Cobble_Hill,_Brooklyn | 40 blocks; bounded Atlantic Ave / Court St / Degraw St / BQE; neighbors Brooklyn Heights, Boerum Hill, Carroll Gardens, Columbia St Waterfront; name adopted 1959; CD6; ZIPs 11201/11231; 76th Pct 191 Union St; Engine 206/Ladder 108 in Carroll Gardens; A.T. White "Towers"/"Home" buildings 417–435 & 439–45 Hicks St and Warren Place mews; HD designated Dec 1969 (text says Dec 20, ref dated Dec 30 — page says "December 1969"), extended June 7 1988, ~22 blocks, NRHP 1976; styles list; low-rise apartment buildings pre-1920s; Court & Smith main commercial streets (Italian meat markets, barber shops next to new shops/cafés); Atlantic Ave one of NYC's largest Middle Eastern shop collections; northern Smith St "Restaurant Row" late 1990s/2000s, bars late 2000s; Cobble Hill Park (Clinton St between Verandah Pl & Congress St, created 1965, rebuilt 1989); churches (Christ Church 1840–41 Upjohn; Old St. Paul's c.1838; Kane Street Synagogue 236 Kane, former Middle Dutch Reformed c.1856; St. Peter's Hicks St 1860 church & school → condos; Strong Place Baptist 1851–52 → apartments 2010); LICH closed Aug 2014, NYU Cobble Hill freestanding ED opened Oct 2014; 130 Court St 1922 South Brooklyn Savings Institution, 100 eagles, Trader Joe's; Bergen St F/G; B61/B63/B57; NYC Ferry Pier 6 June 2017. NOTE: Wikipedia places LICH in the "northeast corner" — inconsistent with addresses (Henry/Hicks/Amity/Pacific); page says "in the north of the neighbourhood, around Henry, Hicks, Amity and Pacific Streets" | Hero, §5, §5.5 facts, §7, §8, landmarks §13, sources |
+| 2 | Cobble Hill Towers Home Buildings Hicks Street Alfred Tredway White apartments courtyard rental today | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Cobble_Hill_Towers | 431 Hicks St; nine buildings, six storeys; outdoor staircases; two courtyards; condo conversion began 2008 | §5, §7, Q&A 3, landmarks |
+| 3 | (same search) | WebFetch | https://cobblehill.nyc/knowledge_base/the-tower-and-home-buildings-cobble-hill-towers/ | Home Bldgs 1876–77 (Hicks & Baltic, L-shape); Tower Bldgs & cottages 1878–79; 218 original rental units; 1975 purchase; restoration 1978–1986; 188 apts after; exterior stairs/balconies; large internal courtyards; stores on Hicks St side | §5, §5.5, §7, landmarks |
+| 4 | "Warren Place" mews Cobble Hill gate private cottages | WebSearch → WebFetch | https://www.6sqft.com/a-brick-cottage-in-brooklyn-is-up-for-sale-at-the-warren-place-mews/ | May 27 2015: "gated street"; 34 brick cottages facing a private courtyard from Warren to Baltic Streets; 1870s, A.T. White | §5, §7, Q&A 1, AI #1–2, landmarks |
+| 5 | Long Island College Hospital site redevelopment River Park Cobble Hill condos Fortis | WebSearch → WebFetch | https://www.6sqft.com/first-tower-in-cobble-hills-lich-replacing-river-park-condo-project-launches-sales/ | Oct 24 2018: Fortis, seven-building masterplan; Phase 1 Polhemus Residences 100 Amity St + Polhemus Townhouses 88–98 Amity; 5 River Park 347 Henry St, 25 units; amenities incl. attended lobby, secured package room, private storage, bike storage, pool, fitness, playroom. (2 River Park height conflicts between sources — not used) | §5, §7 cards, landmarks |
+| 6 | River Park Cobble Hill Fortis 2025 construction tower Pacific Street status | Firecrawl search → scrape | https://www.cityrealty.com/nyc/market-insight/features/future-nyc/new-condos-coming-354-hicks-street-cobble-hill/68744 | 354 Hicks St (formerly One River Park): Madison Realty Capital bought from Fortis 2022; 20 storeys, 34 condos above five floors of medical community facility space; attended garage serving residential and community uses; completion anticipated 2027; July 2025 construction update | §5, §7, §8, Q&A 7 |
+| 7 | (same search, excerpt) | Firecrawl search | https://thebha.org/issue/fortislich-development-plan/ ; https://www.compass.com/building/1-river-park-brooklyn-ny/293534606882325285/ | Conflicting storey/unit counts for 1/2 River Park — NOT used | — |
+| 8 | "One Cobble Hill" condo 130 Court Street savings bank conversion Trader Joe's | WebSearch → WebFetch | https://www.citylandnyc.org/tag/130-court-street/ | CPC approved special permit Sept 17 2007 (Two Trees) for building next to the 1922 South Brooklyn Savings Bank; bank building in Cobble Hill HD | §8, landmarks |
+| 9 | (fetch) NYPD 76th Precinct | WebFetch (blocked: permission not answered) → Firecrawl scrape | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page | 191 Union St 11231; serves Carroll Gardens, Red Hook, Cobble Hill, parts of Gowanus, Columbia St Waterfront; council first Wednesday 7 PM | §5.5 facts |
+| 10 | Brooklyn Community Board 6 office address neighborhoods Cobble Hill ... | Firecrawl search (excerpts) | https://brooklyncb6.cityofnewyork.us/about/ | 250 Baltic Street 11201; Park Slope, Carroll Gardens, Cobble Hill, Gowanus, Red Hook, Columbia St Waterfront | §5.5 facts |
+| 11 | Cobble Hill Brooklyn package theft lobby building thief arrested | Firecrawl search → WebFetch | https://www.brooklynpaper.com/package-thieves-swipe-several-packages-from-apartment-buildings/ | 76th Pct roundup (year not stated): Sept 29 package taken from a building's vestibule on Amity St near Henry St ~2 pm; other items Baltic/Hoyt/Court/Clinton | §5 last para |
+| 12 | Cobble Hill burglary break-in Court Street OR Smith Street store 76th Precinct 2025 OR 2026 | WebSearch | brooklynpaper.com blotter items (undated/old) | Nothing recent and specific — not used | — |
+| 13 | "Cobble Hill" Brooklyn restaurant burglaries overnight 2025 Smith Street Court Street police | WebSearch (extended) | dnainfo/brooklyneagle tag pages | Nothing usable; brooklyneagle.com/neighborhood/cobble-hill fetch failed → EMPTY | — |
+| 14 | site:reddit.com Cobble Hill brownstone apartment front door buzzer packages landlord | Firecrawl search | (generic NYC threads only) | Reddit, Cobble Hill-specific: EMPTY (nothing about Cobble Hill entry systems) | Sources note |
+| 15 | Local Law 63 text | WebFetch | https://intro.nyc/local-laws/2021-63 | §26-3001 "smart access building" = class A MD using smart access; "user" = tenant + persons a tenant requested be granted access; §26-3002(b) authentication data destroyed ≤90 days unless anonymized; (c) reference data removed ≤90 days after tenant permanently vacates / after non-tenant user's access expires / after authorization withdrawn; (g) key card identifier record allowed for activate/deactivate; §26-3003(a)(4) no tracking relationship status of tenants and guests; (b)(1)(i) common areas incl. laundry/mail rooms; (b)(3) can't require smart access to enter own unit | §5, §8.5, Q&A 6, 9, 13, 14, AI #4, #7 |
+| 16 | Silo findings reused (not re-fetched this run): HPD Tenant Data Privacy page; BC 1010.1.9.8/1010.1.9.9 (amlegal); MDL §50-a (nysenate); HMC §27-2043; LPC Permit Guidebook ch. 11; Atlantic Ave BID (CityLand); Fixr smart lock $250–$400; Safe and Sound $1,500–$3,500/door | research/access-control-installation.md | URLs as listed there | as recorded in silo file | §8.5 compliance, AI #5–6, pricing, sources |
+| 17 | Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG | — | — | EMPTY (not accessible in build env) | AI section intro says so |
+| 18 | Yelp 1–3★ | — | — | EMPTY (not accessible in build env) | — |
+| 19 | Brooklyn hub prices | repo file | /access-control-installation-brooklyn.html (lines 693–717, 846–850) | single door $1,500–$2,500 (reader, strike, wiring, 10 fobs); keypad personnel door $1,500–$2,000; video intercom w/ fob $1,500–$3,000; multi-door $4,000–$15,000 (table); office readers $4,000–$12,000; full building $15,000–$40,000+; $195/hr 3-hr min; 8.875%; <$500 upfront, >$500 50% deposit | §14, §15, Service schema |
+
+Unsourced / general AESS practice (worded as practice, not local fact): two administrators + reserve login; per-house credential allowance example (4 fobs + 2 codes); credential census method (Field Notes); door schedules table; cable/label/handover practices; lift restriction needs elevator contractor; COI handling.
+
+### Question register
+Q&A (§9, H3 under five H2 clusters):
+1. More than thirty households share the single gate into our mews. Who should be allowed to add and delete credentials on it?
+2. Our courtyard can be entered from two different streets. Should both gates keep the same hours?
+3. Our buildings use outdoor stairs and balconies instead of interior hallways. Where does a reader go when there is no lobby?
+4. Our building used to be a church. The developer left a door panel nobody can program. What should the board ask for at handover?
+5. The sponsor still controls our condo board for now. Who actually owns the access control system?
+6. Several units in our condo are rented out. Does the smart-access privacy law treat renters differently from owners?
+7. Our new building on the old hospital campus has medical offices below the apartments and a garage underneath. How do you keep three groups apart on one system?
+8. The garage attendant needs to reach the residents’ lobby but not their floors. How is that set up?
+9. Construction is still going on next door to our finished building. How do we keep contractor credentials from outliving the job?
+10. Our Smith Street restaurant has a back garden for outdoor seating. Can the garden door stay free during service and lock itself at closing?
+11. Our second-floor office over a Court Street storefront shares the street door with a dental practice. Who should control that door?
+12. Our Court Street fitness studio runs early classes before any staff arrive. Can members let themselves in with their phones?
+13. A resident gave her mother a code for six months while she recovered from surgery. When that permission ends, what has to happen to the mother’s details?
+14. Our managing agent wants to see our building’s entry log from their Manhattan office. Who else should have that access?
+Other headings: "Reader Down on a Shared Cobble Hill Door? Same-Day Repair" (does not end in "?").
+
+FAQ (§17 = FAQPage schema):
+1. How many administrators should a small condo association have on its access software?
+2. Can the system tell our association when a shared gate is forced, not just left open?
+3. Will a reader and strike work on the heavy original doors of a converted church?
+4. Can a resident let a visitor in from their phone without giving them a fob?
+5. How do you label cables and controllers so another installer can work on the system later?
+6. Do the readers accept phones held up like a contactless payment card?
+7. Can a reader be added to a door that already has a panic bar?
+8. Can the same fob open the building and its bike room and storage cages?
+9. Will you provide a certificate of insurance naming our condo association or managing agent before work starts?
+10. How long do readers and controllers usually last before they need replacing?
+11. Can a reader be mounted on a glass storefront door with a narrow aluminium frame?
+
+### Images (11, images/access-control-installation/, WebP q80, each viewed first; no faces/house numbers/plates/documents)
+1. access-control-installation-cobble-hill-brooklyn-keypad-fob-and-camera-entry-panel.webp ← images/intercom-repair/intercom-repair-staten-island-akuvox-keypad-door-station-with-camera-product-photo.webp (manufacturer; same shot as putnam steel-keypad file)
+2. …-silver-single-button-video-door-station.webp ← intercom-repair-staten-island-akuvox-single-button-video-door-station-product-photo.webp (manufacturer; = putnam single-button)
+3. …-touchscreen-resident-directory-panel.webp ← intercom-repair-staten-island-akuvox-touchscreen-directory-panel-product-photo.webp (manufacturer; = putnam touchscreen-keypad)
+4. …-narrow-black-video-door-station-with-speaker.webp ← intercom-repair-staten-island-axis-narrow-video-door-station-product-photo.webp (manufacturer; = putnam black-video-door-station)
+5. …-black-door-station-with-card-and-bell-icons.webp ← intercom-repair-staten-island-black-akuvox-house-video-door-station-product-photo.webp (manufacturer)
+6. …-white-indoor-touchscreen-answering-monitor.webp ← intercom-repair-putnam-county-white-indoor-answering-monitor.webp (manufacturer; blurred-names version chosen over the Staten Island copy)
+7. …-white-doorbell-back-plate-and-cable-opening.webp ← intercom-repair-staten-island-white-network-video-doorbell-rear-mounting-side-product-photo.webp (manufacturer)
+8. …-dark-touchscreen-panel-with-keypad-and-nfc-reader.webp ← intercom-repair-putnam-county-dark-touchscreen-directory-panel-with-keypad.webp (manufacturer)
+9. …-slim-black-openpath-video-reader.webp ← intercom-repair-putnam-county-slim-black-video-doorbell-with-ring-button.webp (manufacturer; visible "openpath" wordmark)
+10. …-job-photo-camera-on-steel-arm-at-stone-facade.webp ← images/nvr-installation/nvr-installation-bronx-camera-on-steel-arm-stone-facade.webp (AESS job photo)
+11. …-job-photo-ceiling-camera-inside-glass-entrance.webp ← images/nvr-installation/nvr-installation-putnam-county-ceiling-turret-camera-above-glass-entrance.webp (AESS job photo)
+Captions start "Manufacturer product photo, used as a reference:" or "Photo from the AESS job library, not taken in Cobble Hill:". No ImageObject contentLocation.
+
+
+## Country Club, Bronx (access-control-installation-country-club-bronx-ny)
+
+Built 2026-10-18 (batch 18, REBUILD of a crawled-not-indexed template page; no old text reused). Silo: Access Control Installation. Up-link /access-control-installation-bronx. Phone (646) 490-0629. GBP Bronx (460 E Fordham Rd, #bronx). Pricing 1.00x (Bronx = Brooklyn base), quoted only from access-control-installation-brooklyn.html.
+
+Thesis: Country Club is a low-density house neighborhood on Eastchester Bay (R3-1 lowest-density zoning, detached one- and two-family houses, driveways, side yards, waterfront lots with docks). Access control here is mostly about the property line and the vehicle entrance — driveway and walk gates, garage doors, side doors, dock gates, seasonal waterfront clubs — rather than apartment lobbies, plus verifying visitors before a door is opened (2021 police-impersonator home invasion near Country Club Rd & Polo Pl) and keeping gate electronics above the flood line (Sandy damage at the Country Club Rd club site, DFE 19 ft, mechanicals moved to the 2nd floor).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Page section |
+|---|---|---|---|---|---|
+| 1 | (direct scrape) | Firecrawl scrape | https://en.wikipedia.org/wiki/Country_Club,_Bronx | Boundaries Middletown Rd & Watt Ave (N), Eastchester Bay (E), Layton Ave/Throggs Neck (S), New England Thruway/Pelham Bay (W); Pelham Bay Park incl. Orchard Beach just north; CB10; ZIP 10465; 45th Pct at 2877 Barkley Ave; 0.208 sq mi; large Italian-American population, family-owned Italian specialty stores/delis; Villa Maria Academy (Congregation of Notre Dame); PS 71/PS 14 zoned by Waterbury Ave; 45th Pct 2022: 108 burglaries, 609 grand larcenies, 323 grand larcenies auto, crimes down 67% 1990–2022; FDNY Engine 89/Ladder 50 at 2924 Bruckner Blvd; Pelham Bay Park & Buhre Ave stations (6); Evers Marina and Seaplane Base, west bank of Eastchester Bay at Outlook Point; Bx8, Bx24 (Country Club Rd), BxM8, BxM9; photo captions: Griswold & Research Avenues; neighborhood sign at Fairmount Ave & Dean Ave; post offices Throggs Neck 3630 E Tremont Ave, Pilgrim 1545 Crosby Ave | Hero, §5 facts list, §8, §13 landmarks, Q&A Q3, Sources |
+| 2 | "Country Club Bronx neighborhood burglary OR "package theft" 45th Precinct" | WebSearch → WebFetch | https://www.norwoodnews.org/police-impersonators-get-away-with-130k-in-cash-and-jewels-after-home-invasion/ | Nov 9, 2021, ~8:05 a.m., home near Country Club Rd & Polo Place; two men posed as police officers, displayed a handgun, restrained a 50-year-old man and 40-year-old woman with zip ties; ~$30,000 cash + $100,000 jewelry; white BMW SUV recovered at Baisley Ave & Bruckner Blvd; 45th Pct; article does not say how they got in | §5 para, Q&A Q6, AI check, Sources |
+| 3 | same | WebSearch → WebFetch | https://bronx.news12.com/country-club-residents-more-police-needed-to-stop-car-breakins-39894017 | Feb 2019 headline/summary: Country Club residents want more police presence after multiple car break-ins (article body not available; no streets) | §5, Q&A Q3 |
+| 4 | "Country Club" Bronx Westchester Country Club history neighborhood named Eastchester Bay homes | WebSearch → WebFetch | https://theneighborhoods.substack.com/p/country-club-the-bronx | Named for the Country Club of Westchester on Eastchester Bay (races, dinners, polo, toboggan slides…); clubhouse burned 1922; electric-themed streets Ohm, Watt, Radio, Ampere, Research Aves named for Isaac Rice's companies/interests; Wagner-themed Siegfried, Lohengrin, Parsifal Places (Lloyd Ultan credits Eugene Rosenquest, Westchester Electric Light Co.); Polo Place, Stadium Ave; American Turners Club; DA Beach Club (sign: since 1937); Rice Stadium in Pelham Bay Park (Julia Rice gift, demolished 1989) | §5 history, §13 landmarks, Field Notes intro |
+| 5 | same search | WebFetch | https://cityneighborhoods.nyc/country-club | WEAK/contradictory source (claims no club existed locally – contradicted by #4 and #8). Used only for: detached single-family homes, brick or stucco, porches, pitched roofs; homeowner-occupied; private docks/boathouses on Eastchester Bay. Not used: its name-origin claim, dates, street list | §7 (cross-checked with #6, #7) |
+| 6 | (fetch from same search) | WebFetch | https://miltoncoste.com/compare/country-club-vs-westchester-village | "single-family brick homes and Cape Cod houses on low-traffic residential streets"; "private beach clubs and a waterfront esplanade"; views to City Island; no subway, bus to the 6 at Pelham Bay Park; 2026 median sale price $550,000 (not used) | §7, §8 |
+| 7 | Country Club Bronx zoning R1-2 OR R2 OR R3 "Lower Density Growth Management" Community District 10 | WebSearch → WebFetch | https://www.bxtimes.com/country-club-convent-redeveloped-apartment-building/ | Bronx Times, Jan 28, 2026 (Marina Samuel): former Sisters Servants of Mary convent; permit for 3-story, 82-unit building with 82 parking spaces on 58,000 sq ft site; R3-1 = lowest-density residential district, semi-attached/detached one- and two-family homes; filed as-of-right; CB10 district manager Matt Cruz; Villa Maria Academy next door concerned (board chair Karin O'Connor: "out of character for the neighborhood") | §5, §7 (future multiple dwelling), §8.5 |
+| 8 | same search | WebFetch | https://www.nyc.gov/assets/planning/download/pdf/plans/throgs-neck/throgsneckpage.pdf | Throgs Neck Area Rezoning approved by City Council Sept 28, 2004; includes parts of Country Club; most of area rezoned to districts that would not permit attached townhouses; added to Lower Density Growth Management Areas (more off-street parking, lower heights in floodplain); new waterfront zoning district | §5 facts, §7 |
+| 9 | "Country Club" Bronx Sandy flooding waterfront homes Eastchester Bay 2012 | Firecrawl search → scrape (pdf) | https://dos.ny.gov/system/files/documents/2021/08/2021_08_f-2021-0655_fordham_univ_sailing_clb.pdf | NYS DOS coastal consistency file, Fordham sailing/crew facility, 3341 Country Club Rd: site of Westchester Country Club Land Association (private beach club) until vacated after Sandy 2012; significant Sandy damage to pier, clubhouse first floor, auxiliary buildings; 100-year floodplain; Design Flood Elevation 19.00 ft; first story altered to let flood water pass; all mechanicals/utilities moved to the second floor; property bought May 2019, BSA permit Oct 5, 2020 | §5, Q&A Q10, §7.5, AI check, Field Notes, §13 |
+| 10 | same | Firecrawl search (excerpt) | https://www.bxtimes.com/wp-content/uploads/assets/pdf/2018_23bxr.pdf | Excerpt: property "used as a private membership beach club known as Westchester Country Club from the 1930s until around 2012" | §13 |
+| 11 | same | Firecrawl search (excerpts) | restorian.co, betterflood.com | Commercial marketing excerpts – NOT used | — |
+| 12 | Country Club Bronx flooding Eastchester Bay homes storm Ida OR Sandy | WebSearch → WebFetch | https://www.bxtimes.com/in-hurricane-season-bronx-homeowners-prepare-for-overwhelmed-sewers-flooded-streetways-as-climate-change-intensifies | June 23, 2022: about 60% of the city on combined sewers; DEP "Anything over two inches an hour, we're going to have trouble with"; City Island Eastchester Bay homeowner; no Country Club mention | Q&A Q10 (sewer backup context only) |
+| 13 | bxtimes Country Club Bronx 2025 OR 2026 burglary | WebSearch → WebFetch | https://www.bxtimes.com/cops-search-for-pistol-whipping-home-invaders-in-the-bronx/ | Mount Eden, not Country Club – NOT used | — |
+| 14 | Bronx Community Board 10 office address … | WebSearch → WebFetch | https://www.nyc.gov/site/bronxcb10/index.page | 3165 East Tremont Ave, 10461; 718-892-1161; serves Co-op City, City Island, Throggs Neck, Country Club, Zerega, Westchester Square, Pelham Bay, Waterbury LaSalle; chairman Joseph Russo | §5 facts |
+| 15 | site:reddit.com "Country Club" Bronx neighborhood living houses | Firecrawl search (excerpts only) | https://www.reddit.com/r/bronx/comments/1mkxgi6/ ; https://www.reddit.com/r/bronx/comments/1bx89tw/ ; https://www.reddit.com/r/bronx/comments/zdp9xe/ | Excerpts: "Country Club - quiet neighborhood. Family orientated by the water"; "more houses than apartments"; "Throggs Neck/Country Club … Looks and feels like a suburb". Full threads EMPTY (not accessible in build env) | §5 para (paraphrased, cited as Reddit excerpts) |
+| 16 | "Country Club Civic Association" Bronx | WebSearch | — | No civic association page found → EMPTY | — |
+| 17 | UL 325 gate operator entrapment protection requirements residential swing gate photo eye monitored | WebSearch → WebFetch | https://www.securityinfowatch.com/perimeter-security/physical-hardening/gates-gate-control-equipment/article/12434234/gate-safety | Nov 9, 2018 (D. Sklodowski, LiftMaster): UL 325 update Aug 1, 2018 – swing and slide operators need at least two monitored entrapment protection means in open and close directions; operator won't run if devices faulty; ASTM F2200: gaps < 2.25 in., positive stops, separate pedestrian gate; controls ≥ 6 ft from the gate; UL 325 voluntary except Nevada | Q&A Q1–Q2, §10 equipment, AI check, §8.5 |
+| 18 | First Street flood page for Country Club | Firecrawl scrape | https://firststreet.org/neighborhood/country-club-ny/ | 404 → EMPTY | — |
+| 19 | NYT "Living In" Country Club (2010) | WebFetch | https://www.nytimes.com/2010/04/04/realestate/04living.html | SITE_BLOCKED → EMPTY (not accessible in build env) | — |
+
+Silo-level law reused from research/access-control-installation.md (verified there): MDL §50-a (nysenate.gov), HMC §27-2043, Tenant Data Privacy Law / LL63 of 2021 (HPD page), NYC BC 1010.1.9.8 / 1010.1.9.9 (amlegal), Admin Code 28-105.4.7 low-voltage permit exception (amlegal), MDL §4 multiple dwelling = 3+ families, HPD registration page (1–2 family private dwellings).
+
+Prices (verified in /access-control-installation-brooklyn.html, Bronx = 1.00x): single door $1,500–$2,500; keypad on a single personnel door $1,500–$2,000; video intercom panel with integrated fob access $1,500–$3,000; buzzer repair $200–$500 (comparison); multi-door $4,000–$15,000; card readers on several office doors $4,000–$12,000; full building $15,000–$40,000+; callbacks $195/hr, 3-hr minimum ($585); 8.875% tax; under $500 paid upfront, over $500 50% deposit.
+
+EMPTY sources: Google PAA, PASF, AI Overview, Answer the Public, Bing/DuckDuckGo autocomplete, Yelp 1–3★ (all not accessible in build env); NYT Living In (blocked); First Street (404); local Reddit threads (excerpts only); Country Club civic association (none found); Country Club package-theft news (none found).
+
+Unsourced / AESS practice (labelled on the page as practice, not local fact): trenching vs. wireless bridge vs. solar for gate posts, keypad pedestal heights, battery backup sizing, post-flood checks, manual release drills, seasonal credential groups, pre-wire list, vacation monitoring routine.
+
+Note: research row 12 (Bronx Times 2022 sewers) ended up unused after a Q&A item was replaced; it is not cited on the page.
+
+### Question register
+Q&A (§9, H3 under four H2 clusters: "Driveways, Gates and the Way In", "Visitors, Doors and Who Gets In", "On the Water", "Planning Ahead"):
+1. Our driveway gate swings across a sloped driveway. Can it open from a remote, a keypad and a phone, and what keeps it from closing on a car or a child?
+2. Where should the keypad post stand so a driver can reach it from the car window without blocking the street?
+3. Cars in Country Club driveways have been broken into overnight. Does access control do anything for a driveway that has no gate?
+4. The previous owner left a driveway gate operator with no photo eyes at all. Can it be brought up to the current safety standard, or does it have to be replaced?
+5. When the power fails, how do we get the car out of a gated driveway, and who in the family should know the manual release?
+6. Two men posing as police officers got into a home near Country Club Road in 2021. How can we see and speak to someone at the gate before anyone opens the front door?
+7. Can a residential garage door be added to the same app, and is it safe to open it from a phone when nobody is home?
+8. Our upstairs tenant parks in the driveway. Can the tenant open the driveway gate but not the garage where we keep tools?
+9. Our yard runs down to Eastchester Bay with a dock. Can the dock gate and boathouse run on the same codes as the house?
+10. Friends sometimes arrive by boat. Can a station on the dock ring the house the way a visitor at the front gate does?
+11. We run a seasonal members-only club on the bay. Can a member's gate code shut off by itself when dues lapse?
+12. We are renovating and the walls are open. What low-voltage wiring should go in now for a future reader on the side door and the gate?
+No other heading ends in "?" (repair heading: "Gate Stuck, Keypad Dark or a Door That Will Not Relock: Same-Day Service in Country Club"; closing: "Gate Will Not Close Tonight? Call the Country Club Line" — this one contains "?" mid-heading but does not end with it).
+
+FAQ (§17 accordion = FAQPage schema, 12):
+1. What does it cost at Bronx prices to put a keypad and electric lock on a walk gate at a Country Club house?
+2. Can a phone open our gate for a delivery driver while we are at work, and does the app keep a record?
+3. Can the keypad lock itself out when someone keeps guessing codes?
+4. Can the video doorbell we already own work with a new gate lock?
+5. Will the gate open with a voice assistant, and should it?
+6. Do you remove the old gate hardware and patch the post when the new lock goes on?
+7. Will a dog or a cat set off the driveway gate's safety sensors?
+8. What is the difference between a gate operator and a gate lock, and which one do we need?
+9. Do you work with the fence company that builds or hangs the gate?
+10. How do guests leave a locked back yard without knowing the code?
+11. What yearly upkeep does a gate keypad and lock need near the water?
+12. Can a reader on the walkway gate also switch on the path lights after dark?
+
+Intent cross-check: compared by meaning with the registers of Bay Ridge, Bedford Park, Bensonhurst, Boerum Hill, Brighton Beach, City Line and with batch-mate Clason Point (live file). Replaced during build because of overlapping intent with Clason Point: post-flood check (→ dock call station), scheduled hold-open for an event (→ pets and safety sensors), day-only guest code (→ wrong-code lockout), windshield tags (→ old hardware removal), cable/power to the gate post (→ retrofitting an operator without photo eyes). Avoided: controller-above-flood placement (Brighton Beach Q1), permits (Bensonhurst/City Line F1), lost-fob deactivation (Bay Ridge F4), selling the house (Bensonhurst F12), takeover of another installer's system (Bay Ridge F10, City Line F7).
+
+### Images (11, images/access-control-installation/, WebP q80, each source viewed first; no faces, house numbers, plates or readable documents)
+1. access-control-installation-country-club-bronx-black-video-door-station-with-card-and-bell-button.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-black-video-doorbell-with-call-button.webp (manufacturer)
+2. …-job-photo-dome-camera-in-corner-under-stained-ceiling-tiles.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-dome-camera-in-old-plaster-corner.webp (AESS job photo)
+3. …-narrow-black-video-intercom-with-speaker-grille.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-narrow-video-intercom-for-door-frame.webp (manufacturer)
+4. …-silver-and-black-single-button-door-station.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-single-button-video-door-station.webp (manufacturer)
+5. …-black-and-white-video-doorbell-with-lit-bell-button.webp ← images/alarm-com-vdb750-video-doorbell.webp (manufacturer)
+6. …-bronze-video-doorbell-with-green-lit-button.webp ← images/alarm-com-vdb770-video-doorbell.png (manufacturer; transparent → white)
+7. …-white-and-black-battery-video-doorbell.webp ← images/arlo-2k-video-doorbell.jpg (manufacturer)
+8. …-silver-and-black-video-intercom-with-blue-lit-button.webp ← images/digital-watchdog-megapix-intercom.jpg (manufacturer)
+9. …-black-video-reader-with-blue-ring-and-speaker.webp ← images/avigilon-video-door-entry.jpg (manufacturer)
+10. …-white-compact-camera-on-tilting-stand.webp ← images/ubiquiti-unifi-g5-flex-compact-camera-white.jpg (manufacturer)
+11. …-job-photo-recorder-view-along-brick-wall-to-paved-lot.webp ← images/wireless-camera-installation/wireless-camera-installation-westchester-county-recorder-view-along-brick-wall-to-paved-lot.webp (AESS job photo, recorder screen)
+Rejected after viewing: westchester "dome camera on wall arm below stone cornice" (same photo as brooklyn "camera on long wall arm on stone facade" — not residential), "white dome under painted eave beside bare tree" (same photo as brooklyn "dome under fascia" — mural storefront, not residential), nassau "recorder view of sidewalk and curb" (low information).
+Captions: "Manufacturer product photo, used as a reference:" / "Photo from the AESS job library, not taken in Country Club:". No ImageObject contentLocation.

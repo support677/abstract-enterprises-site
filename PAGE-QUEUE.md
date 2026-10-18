@@ -316,9 +316,9 @@ LIVE REBUILD | access-control-installation-bensonhurst-brooklyn-ny | Access Cont
 LIVE REBUILD | access-control-installation-boerum-hill-brooklyn-ny | Access Control Installation | Boerum Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | access-control-installation-brighton-beach-brooklyn-ny | Access Control Installation | Brighton Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | access-control-installation-city-line-brooklyn-ny | Access Control Installation | City Line, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T18:20Z REBUILD | access-control-installation-clason-point-bronx-ny | Access Control Installation | Clason Point, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T18:20Z REBUILD | access-control-installation-cobble-hill-brooklyn-ny | Access Control Installation | Cobble Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-18T18:20Z REBUILD | access-control-installation-country-club-bronx-ny | Access Control Installation | Country Club, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-clason-point-bronx-ny | Access Control Installation | Clason Point, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-cobble-hill-brooklyn-ny | Access Control Installation | Cobble Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-country-club-bronx-ny | Access Control Installation | Country Club, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-18T18:28Z REBUILD | access-control-installation-dumbo-brooklyn-ny | Access Control Installation | Dumbo, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T18:28Z REBUILD | access-control-installation-eastchester-bronx-ny | Access Control Installation | Eastchester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-18T18:28Z REBUILD | access-control-installation-edenwald-bronx-ny | Access Control Installation | Edenwald, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
