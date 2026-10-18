@@ -265,9 +265,9 @@ LIVE REBUILD | parking-lot-camera-installation-queens | Parking Lot Camera Insta
 BUILDING 2026-10-18T09:56Z REBUILD | residential-security-camera-installation-nassau-county | Residential Security Camera Installation | Nassau | up /residential-security-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 BUILDING 2026-10-18T09:56Z REBUILD | school-security-camera-installation-brooklyn | School Security Camera Installation | Brooklyn | up /school-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-18T09:56Z REBUILD | school-security-camera-installation-long-island | School Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-REBUILD | school-security-camera-installation-manhattan | School Security Camera Installation | Manhattan | up /school-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-REBUILD | school-security-camera-installation-orange-county | School Security Camera Installation | Orange | up /school-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
-REBUILD | security-camera-maintenance-bronx | Security Camera Maintenance | Bronx | up /security-camera-maintenance-nyc | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-18T10:04Z REBUILD | school-security-camera-installation-manhattan | School Security Camera Installation | Manhattan | up /school-security-camera-installation-nyc | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-18T10:04Z REBUILD | school-security-camera-installation-orange-county | School Security Camera Installation | Orange | up /school-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+BUILDING 2026-10-18T10:04Z REBUILD | security-camera-maintenance-bronx | Security Camera Maintenance | Bronx | up /security-camera-maintenance-nyc | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-maintenance-brooklyn | Security Camera Maintenance | Brooklyn | up /security-camera-maintenance-nyc | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-maintenance-dutchess-county | Security Camera Maintenance | Dutchess | up /security-camera-maintenance-hudson-valley | (845) 640-3835 | GBP Bronx
 REBUILD | security-camera-maintenance-nyc | Security Camera Maintenance | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
