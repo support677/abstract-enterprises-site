@@ -16,6 +16,17 @@ One run = one **batch of three pages built at the same time** (Anwar, 2026-10-16
 
 ## The run
 
+## Rebuild lines (Anwar, 2026-10-17 — priority over TODO)
+
+PAGE-QUEUE.md has a `## REBUILD` section: existing pages that Google crawled and refused to index (Search Console "Crawled – currently not indexed", export of 2026-10-17) because they were near-identical templates with the area name swapped. Anwar: "fix the pages that need to be fixed as per my blueprint."
+
+- **Claim order:** take free `REBUILD |` lines first (same claim/BUILDING/3-per-batch rules as TODO). Only when no REBUILD line is free, take TODO lines.
+- **Same URL, rebuilt in place.** Overwrite `<slug>.html` completely to the full blueprint (steps 2–3: silo research + genuinely local research, 12,000–14,000 words, 6-block schema, 11 images real-AESS-first, forms, approved phone/GBP from the line). Never change the slug or URL; keep its existing `_redirects` pair (add the two convention rules if missing). Nothing from the old template text is reused.
+- **Uniqueness is the whole point:** masked-geo similarity < 0.65 against every page in the silo (old and new), no question repeated from the silo's question register. Neighborhood pages must carry real local facts for that neighborhood (streets, building stock, landmarks, local news/Reddit) with sources.
+- **Ships only when `tools/check_page.py <slug>` passes.** Line goes BUILDING → LIVE; DAILY-LOG note `REBUILD (was crawled-not-indexed)`.
+- **Resubmit:** add the URL to GOOGLE-SUBMIT.md as QUEUED (the evening task requests indexing) and send IndexNow as usual; update its `<lastmod>` in sitemap.xml.
+- If the blueprint rule applies — the area genuinely cannot support a different page — mark the line `HOLD-THIN <reason>` and log it for Anwar; do not ship a thin page.
+
 ### 0. Start clean
 1. `git pull --ff-only` on `main`. If it fails, stop and log it. Someone else (GitHub Desktop at `C:\dev\abstract-enterprises-site`) may have pushed.
 2. `git status`. If there are uncommitted changes from a previous failed run for the same page, continue that page. If they're for anything else, stop and log it — never commit files you didn't make in this run.
