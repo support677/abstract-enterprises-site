@@ -247,3 +247,6 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-ulster-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-westchester-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-queens | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-long-island | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-putnam-county | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/nvr-installation-staten-island | QUEUED
