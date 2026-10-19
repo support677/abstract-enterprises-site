@@ -346,9 +346,9 @@ LIVE REBUILD | access-control-installation-south-williamsburg-brooklyn-ny | Acce
 LIVE REBUILD | access-control-installation-starrett-city-brooklyn-ny | Access Control Installation | Starrett City, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | access-control-installation-throggs-neck-bronx-ny | Access Control Installation | Throggs Neck, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-tremont-bronx-ny | Access Control Installation | Tremont, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T23:38Z REBUILD | access-control-installation-washingtonville-bronx-ny | Access Control Installation | Washingtonville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T23:38Z REBUILD | access-control-installation-westchester-square-bronx-ny | Access Control Installation | Westchester Square, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-18T23:38Z REBUILD | access-control-installation-williamsbridge-bronx-ny | Access Control Installation | Williamsbridge, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-washingtonville-bronx-ny | Access Control Installation | Washingtonville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-westchester-square-bronx-ny | Access Control Installation | Westchester Square, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-williamsbridge-bronx-ny | Access Control Installation | Williamsbridge, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-williamsburg-brooklyn-ny | Access Control Installation | Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-windsor-terrace-brooklyn-ny | Access Control Installation | Windsor Terrace, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-kingsbridge-heights-bronx-ny | Access Control Installation Kingsbridge | Heights, Bronx | up /access-control-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
