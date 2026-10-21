@@ -204,9 +204,9 @@ LIVE | sonos-installation-tribeca-manhattan-ny | Sonos Installation | Tribeca, M
 LIVE | sonos-installation-brooklyn-heights-brooklyn-ny | Sonos Installation | Brooklyn Heights, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-long-island-city-queens-ny | Sonos Installation | Long Island City, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Neck, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-TODO | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T17:17Z | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T17:17Z | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+BUILDING 2026-10-21T17:17Z | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-tottenville-staten-island-ny | Sonos Installation | Tottenville, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
