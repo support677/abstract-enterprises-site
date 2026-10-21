@@ -1130,3 +1130,312 @@ Other headings: none end in '?'. (Removed during build for semantic overlap with
 - Population figures conflict (88,522 vs 92,227 vs ">83,000"); page avoids a single number.
 - Image pool: hero motion-sensor photo is the same underlying job photo used (as different files) on Boerum Hill / Brighton Beach / Bushwick corner-sensor images. Real alarm-panel/keypad photos needed.
 - File size 197,672 B; at last check Bushwick was 191,889 B and Cadman Plaza 204,574 B (both >5 KB away) — re-check after all three are final.
+
+
+## Dyker Heights, Brooklyn — /alarm-installation-dyker-heights-brooklyn-ny (REBUILD, 2026-10-21)
+
+Built 2026-10-21 as a REBUILD of a crawled-not-indexed template page. None of the old text was reused. Phone (347) 934-8335, Brooklyn GBP (1282 Troy Ave, #brooklyn), Brooklyn multiplier 1.00. Prices were copied from the existing silo list (alarm-installation-brooklyn / the Canarsie pattern table) and none were invented.
+
+**Thesis:** Two things set Dyker Heights apart, and the alarm is designed around both.
+1. **Overhead Con Edison lines and repeated outages.** The panel needs a battery sized to the full load, a cellular communicator that does not depend on the poles, power-loss and power-restored alerts, and surge protection.
+2. **The December lights season.** The page proposes a seasonal away mode that bypasses only the street-facing outdoor sensors, decorator codes limited by area and date, display power kept off the panel circuit, and a porch-aimed doorbell.
+
+These sit on top of detached and semi-detached lots that are open on several sides. Local burglary reports point to the basement, a ladder to a back window, an air conditioner pulled out, and unlocked side and back doors. Commercial coverage is 13th Avenue (pry-tool pharmacy burglary, 2024), 86th Street (tour-bus drop-off), 11th Avenue and Fort Hamilton Parkway.
+
+Angles deliberately avoided:
+- Bath Beach: two-family partitions and the el.
+- Canarsie: garage under the house and floods.
+- Fiske Terrace: Victorian detached houses as the main angle. Original houses here are one card and one Q&A only.
+- Flatbush.
+
+### Silo-wide (reused)
+The silo sources were reused from research/alarm-installation.md: NYC Admin Code § 24-238, NYS DOS Article 6-D, HPD detector rules, and the Brooklyn price list. Google PAA, PASF, AI Overview, Answer the Public, Bing/DDG and Yelp: EMPTY (not accessible in build env). The AI section says so.
+
+### Local findings (Dyker Heights)
+
+| # | Exact query / action | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| L1 | WebFetch of the article | WebFetch | https://en.wikipedia.org/wiki/Dyker_Heights,_Brooklyn | EMPTY (permission request timed out). Retried via Firecrawl scrape (L2). | — |
+| L2 | firecrawl_scrape of the same URL | mcp__Firecrawl__firecrawl_scrape | https://en.wikipedia.org/wiki/Dyker_Heights,_Brooklyn | Boundaries: 7th–14th Aves, 65th St, Belt Pkwy (plus a wider post-office definition). CD10, ZIP 11228, 68th Pct at 333 65th St. Johnson started the development Oct 1895; motto "handsomest suburb in Greater New York". Top of the hill at 11th Ave & 82nd St, 110 ft. 1899 WSJ restrictions (plots ≥60×100 ft, set back), active until 1915. Housing: detached and semi-detached one- and two-family homes with driveways and yards, very few apartment buildings. About half of the ~150 original houses remain; others replaced by villas, condos and semi/attached homes. One 1895 house was demolished in 1928 and replaced by seven detached homes. Brooklyn Eagle 1899 house description (10-ft first-floor ceilings, five rooms per floor plus four on the third, cellar). Christmas: "epicenter of professionally-hung Christmas lights"; $1,000–$20,000+ (citing Brooklyn Eagle 2013); Thanksgiving to early January, mid-December busiest; Lou Singer tours from 1985; Conan O'Brien in 2000; early displays on 84th St between 11th and 12th Aves. 68th Pct 2018: 96 burglaries; −88.6% 1990–2018. Engine 284/Ladder 149 at 1157 79th St. Dyker Library at 8202 13th Ave (1974, blue-green glazed facade). Post office at 8320 13th Ave. McKinley Park library at 6802 Fort Hamilton Pkwy. Dyker Heights Blvd = 13th Ave from 86th St to Bay Ridge Ave (2001), "only commercial district". Coptic community around 11th Ave in the 60s; St. George Coptic church at 1105 67th St (1973). 2020 census: Asian population passed white. St. Bernadette on 13th Ave between 82nd and 83rd Sts. Poly Prep. Walter L. Johnson Corner. De Russy Drive. | Hero, §5 Neighborhood + facts list, Architecture, season section, Commercial, Landmarks, Sources |
+| L3 | "Dyker Heights burglary homes 68th Precinct" → fetch | WebSearch → WebFetch | https://brooklyneagle.com/articles/2013/03/18/burglary-spree-has-dyker-heights-residents-on-edge/ | Mar 18 2013: burglaries mostly 73rd–79th Sts, 11th–13th Aves (one on 73rd St, 13th–14th Aves). Jewelry, iPads, laptops and $5,000 cash taken. Precinct advice: lock up, use a safe, consider alarms and cameras. | §5, openings section, AI #2, Sources |
+| L4 | same search → fetch | WebFetch | https://brooklyneagle.com/articles/2019/09/20/arrests-made-in-connection-to-15-burglaries-of-dyker-heights-bay-ridge-homes/ | 15 burglaries in Dyker Heights, Bay Ridge and Sunset Park in August; two arrests; no entry details. | Background only (CBS L5 used instead) |
+| L5 | "Dyker Heights burglary 2025 home break-in Brooklyn police" → fetch | WebSearch → WebFetch | https://cbsnews.com/amp/newyork/news/brooklyn-home-burglaries-suspect-wanted | Aug 31 2019: at least 15 burglaries in Bay Ridge and Dyker Heights, Jul 10–Aug 28; ~$265,000. Entry via fire escapes and unlocked windows and doors; a ladder to a back window while residents slept; an air conditioner removed. | §5, openings section, Q&A (ladder, AC), AI #2, Sources |
+| L6 | same → fetch | WebFetch | https://www.brooklynpaper.com/cops-searching-dyker-heights-burglaries | Two basement burglaries, Sept 1 and 2 (no year on page), near 12th Ave & 71st St (broken basement window, 8:50 p.m.) and 13th Ave & 67th St (9:30 p.m.); $3,000 cash + $8,000 jewelry; $700 jewelry. | §5, openings, Q&A (basement) |
+| L7 | "13th Avenue Dyker Heights store burglary break-in" → fetch | WebSearch → WebFetch | https://brooklyneagle.com/articles/2022/09/21/crooks-get-huge-haul-from-two-break-ins/ | Same two incidents as L6; URL dates them to Sept 2022. | Dating of L6, Sources |
+| L8 | same → fetch | WebFetch | https://brooklyn.news12.com/citywide-burglary-pattern-hits-dyker-heights-pharmacy | Dec 20 2024 (published Dec 27): Dyker Heights Pharmacy on 13th Ave forced with a pry tool shortly before 6 a.m.; >$2,000 in narcotics; citywide pattern. | Commercial (card + storefront method), Q&A (pry tool), Sources. Pharmacy not named on page. |
+| L9 | same → fetch | WebFetch | https://brooklyneagle.com/articles/2018/09/25/watch-cops-seek-two-suspects-in-dyker-heights-bodega-burglary/ | Aug 29 (2018 per URL): bodega near 13th Ave & 74th St entered through the front gate around 5 a.m.; ~$800. | Commercial card, Sources |
+| L10 | "Dyker Heights power outage Con Edison Christmas lights electricity" → fetch | WebSearch → WebFetch | https://brooklyneagle.com/articles/2019/12/02/another-power-outage-in-dyker-heights-sparks-renewed-calls-for-wiring-makeover/ | Dec 1 2019: ~3,600 customers, 11th–13th Aves, 67th–85th Sts, ~3 hours. Many sections have above-ground wires; only a few spots buried. Civic Assn president: outages "a regular occurrence"; ≥3 earlier outages in 2019. CB10 district manager: lines "susceptible to wind and sleet". Con Ed: burying costs millions per mile; overhead lines cheaper and faster to repair. | Hero, §5, facts list, outage section, AI #1, Sources |
+| L11 | same → fetch | WebFetch | https://brooklyneagle.com/articles/2019/03/01/renewed-call-for-underground-power-lines-after-electric-outage-darkens-dyker-heights/ | Feb 28 (2019 per URL), ~8:30 p.m.: overhead wires fell at 72nd and 81st Sts on 10th Ave; >1,200 customers from 80th–86th Sts, 7th–12th Aves. | Facts list, outage section, Sources |
+| L12 | same → fetch | WebFetch | https://www.brooklyneagle.com/articles/2018/7/9/major-power-outage-left-thousands-without-power-across-dyker-heights | Monday (Jul 9 2018 per URL): >6,000 customers, 10th–13th Aves, low 70s to mid-80s; equipment failure. | Facts list, Sources |
+| L13 | "Dyker Heights Christmas lights crowds 2025 residents traffic 84th Street" → fetch | WebSearch → WebFetch | https://www.fox5ny.com/news/dyker-heights-holiday-lights-enrich-and-frustrate | Nov 30 2016: tour-bus-only spaces on 86th St; resident parking limited 3 p.m.–midnight until the new year; weeks of congestion. | Season section, Sources |
+| L14 | same → fetch | WebFetch | https://www.cbsnews.com/newyork/news/dyker-heights-holiday-crowds | Oct 30 2017: thousands of visitors; doorbells rung ~11 p.m. for bathrooms; people relieving themselves on property; residents unable to leave their driveways; the city denied a street-event permit. | Season section, Q&A (doorbell), Sources |
+| L15 | "Dyker Lights 2025 NYPD traffic plan..." → fetch | WebSearch → WebFetch | https://www.brooklynpaper.com/deck-the-halls-dyker-lights-2022 | Undated: "hundreds of thousands of visitors each winter"; bulk of displays in the mid-80s between 11th and 13th Aves; buses drop off at 86th St & 12th Ave and wait near the golf course; NYPD traffic agents; 2019 vendor ban. | Hero, facts list, season section, Commercial (86th St), Landmarks, Sources |
+| L16 | same → fetch | WebFetch | https://brooklyneagle.com/articles/2020/12/02/return-of-christmas-lights-sparks-controversy/ | Dec 2 2020: NYPD set up the 86th St bus drop-off a few years earlier; CB10 COVID crowd concerns; DSNY added 20 baskets. | Sources (corroboration) |
+| L17 | "Dyker Heights Christmas decorations stolen inflatable theft" → fetch | WebSearch → WebFetch | https://brooklyneagle.com/articles/2018/11/29/grinches-vandalize-dyker-lights-steal-copper-wire/ | After the Nov 15 2018 snowstorm, a handful of homes had display power cords cut and the copper taken. | Season section, Q&A (copper), Sources |
+| L18 | same → fetch | WebFetch | https://www.cbsnews.com/amp/newyork/news/dyker-heights-stolen-decorations | Nov 29 2016: $200 inflatable Santa cut loose with a knife and taken; recorded on the homeowner's camera; thief went along Bay Ridge Pkwy. | Season section, AI #7, Sources |
+| L19 | "Dyker Heights rezoning City Planning lower density contextual zoning detached homes" → fetch | WebSearch → WebFetch | https://citylandnyc.org/rezoning-approved-for-dyker-heights-and-ft-hamilton | Council approved 48–0–0 on Jul 25 2007; 159 blocks. R3A/R3X: detached only. R4A/R4B/R4-1: detached and semi-detached. R5B: rowhouses. Commercial overlays on Fort Hamilton Pkwy, 11th Ave and 13th Ave reduced in depth. | Facts list, Architecture, Commercial intro, Sources |
+| L20 | "Saitta House 84th Street Dyker Heights built 1899 address" → fetch | WebSearch → WebFetch | https://www.brownstoner.com/architecture/building-of-the-day-1135-84th-street | Saitta House, 1135 84th St, 1899, John J. Petit, "English half-timbered"; National Register 2007; not a city landmark. | Architecture card, Landmarks, schema mentions |
+| L21 | "Dyker Beach Golf Course history opened acres NYC Parks" → fetch | WebSearch → WebFetch | https://www.tclf.org/dyker-beach-park | ~144 acres of marshland acquired 1895; later filled with harbor dredgings; course listed at 217 acres (unexplained); 18 holes; bordered by Belt/Shore Pkwy. | Landmarks, Sources (conflict noted) |
+| L22 | site:reddit.com Dyker Heights break in OR burglary OR alarm OR "christmas lights" | mcp__Firecrawl__firecrawl_search | https://www.reddit.com/r/Brooklyn/comments/16n6j7m/what_do_i_need_to_know_about_dyker_heights_at/ ; https://www.reddit.com/r/AskNYC/comments/14p1nea/dyker_heights_christmas_lights/ ; https://www.reddit.com/r/Brooklyn/comments/18qusst/the_dyker_heights_lights_were_an_absolute/ | Excerpts only: visitors asking about the lights; one commenter with relatives "SMACK DAB in the middle" of the lights asking for understanding; "an absolute madhouse tonight". Full threads: EMPTY (Firecrawl refuses reddit.com). | Sources section (excerpt noted) |
+| L23 | 2025/2026 Dyker Heights house burglary reporting | WebSearch | — | EMPTY: no 2025/2026 article could be opened in full. | Sources note |
+| L24 | NYC alarm permit | — | — | EMPTY: no primary source; no permit claimed. | Commercial rules list, Sources |
+
+### Unsourced / AESS practice (labeled as practice on page)
+These are described on the page as AESS working practice, not as facts about any address: seasonal away / night / evening modes, decorator codes, battery sizing, surge protection, panel placement, survey order, gate and beam advice, and the two SVG diagrams (generic layouts).
+
+### Images (11, all in /images/alarm-installation/, prefix alarm-installation-dyker-heights-)
+Permanent image rule applies: no Drive "Alarm Installation" folder, and CompanyCam is not connected. Each source was viewed before use. The images show no faces, plates, house numbers or readable documents. A first pick, nassau-window-depot-monitor.jpeg, was dropped because one camera tile shows a readable building number. Rejected as AI-looking: sonos-installation todt-hill/orange-county boxes, smart-lock bedford-stuyvesant/west-brighton, buzzer-repair/*.jpg, home-automation-smart-panel-installation.jpg.
+1. exterior-dome-under-fascia-by-bare-winter-branches.webp ← images/access-control-installation/access-control-installation-city-line-brooklyn-job-photo-white-dome-camera-under-canopy-corner.webp (job photo, cropped to remove mural; same underlying photo as edenwald/windsor-terrace copies used elsewhere — flag)
+2. hall-to-grey-back-door-under-ceiling-camera.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-camera-covering-corridor-to-service-door.webp (job photo, bottom trimmed)
+3. small-white-sensor-below-black-wall-camera.webp ← images/lorex-camera-installation/lorex-camera-installation-manhattan-black-camera-and-shadow-on-plain-white-wall.webp (job photo, slight crop)
+4. alarm-com-wired-video-doorbell-product-photo.webp ← images/alarm-com-vdb750-video-doorbell.webp (manufacturer)
+5. dome-camera-in-corner-under-aged-ceiling-tiles.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-dome-camera-in-old-plaster-corner.webp (job photo, cropped; likely the same underlying photo as Borough Park's "storeroom corner under stained ceiling tiles" — flag)
+6. cable-bundles-run-across-ceiling-beam.webp ← images/access-control-installation/access-control-installation-kingsbridge-heights-network-cable-bundles-over-ceiling-beam.webp (job photo, cropped; same underlying cable photo as Borough Park's "cable bundles run along ceiling pipe" — flag)
+7. eufy-battery-video-doorbell-product-photo.webp ← images/eufy-video-doorbell-2k.jpg (manufacturer)
+8. white-dome-tucked-into-textured-ceiling-corner.webp ← images/lorex-camera-installation/lorex-camera-installation-manhattan-white-dome-camera-tucked-into-ceiling-corner.webp (job photo, slight crop)
+9. recorder-view-of-back-storeroom-doorway.webp ← images/lorex-camera-installation/lorex-camera-installation-orange-county-recorder-view-of-dim-back-storeroom-and-doorway.webp (job photo, full frame)
+10. akuvox-card-reader-door-station-product-photo.webp ← images/intercom-mini-panel.jpeg (manufacturer)
+11. dahua-twin-lamp-floodlight-camera-product-photo.webp ← images/cam-floodlight.jpeg (manufacturer)
+
+### Question register — alarm-installation-dyker-heights-brooklyn-ny
+**Q&A (§9, H3):**
+1. The electric and cable lines come to our house overhead. Could someone cut them to knock the alarm out?
+2. Our part of Dyker lost power several times in one year. Can the alarm tell us the moment it goes out while we are away, and again when it comes back?
+3. After the last outage, a few appliances never worked again. Does an alarm panel need protecting from what happens when the power comes back?
+4. From Thanksgiving to New Year's people stand outside our house until midnight. Does that make outdoor sensors and camera alerts useless for a month?
+5. Visitors have rung our bell late at night asking to use the bathroom. Can the doorbell and the alarm deal with that without us opening the door?
+6. A decorating company hangs our display. Can their crew open the yard and garage while the house itself stays armed?
+7. Neighbors had their display cords cut for the copper. Can the alarm warn us if the display loses power in the middle of the night?
+8. If we travel after Christmas while the display is still lit, should we leave the alarm in the seasonal mode or the full away mode?
+9. One burglar here put a ladder to a back window while the family slept. Which upstairs windows on a detached house count as reachable?
+10. Another entry was made by pulling out a window air conditioner. Can a window that holds a unit half the year still be alarmed?
+11. Two Dyker houses were broken into through the basement in 2022, both in the evening. What does a basement window actually need?
+12. Our house is one of the 1890s originals, with a deep porch, a tower room and a cellar under the whole house. Where are the weak points on a house that age?
+13. We rebuilt the house with a wall of glass doors to the yard. Contacts, glass-break or both?
+14. Our driveway runs down the side of the house to a separate garage at the back. Can the garage be on the same alarm?
+15. The pharmacy break-in on 13th Avenue was done with a pry tool. Can an alarm react while a door is being forced, before it opens?
+16. We stay open later in December for the visitors. Can the alarm's closing reminder follow the season without reprogramming?
+
+**FAQ (§17 = FAQPage, 10):**
+1. What does a whole-house alarm for a detached Dyker Heights house with a side driveway and a garage at the back cost on your Brooklyn list?
+2. Can the installation be finished before the decorators start hanging lights in November?
+3. Do your technicians work in Dyker Heights during the December lights weeks, when the blocks in the 80s are packed?
+4. We are thinking about a standby generator because of the outages. Should the alarm be connected to it?
+5. Can the alarm switch on the yard and porch lights when a sensor trips at night?
+6. Our front yard has an iron fence with a gate between stone piers. Is a sensor on the gate worth it?
+7. Our back yard is large by Brooklyn standards. Are outdoor beam sensors along the back fence worth the cost?
+8. Can the keypad go by the side door off the driveway, since nobody uses the front door?
+9. My father is hard of hearing. Can the alarm alert him with a light or a vibration instead of a siren he might not hear?
+10. How many keypads does a three-story Dyker Heights house need?
+
+The page has no other question-form headings. tools/check_page.py found no masked duplicate against 161 other alarm pages. A semantic review against the rebuilt pages was done; these questions were reworded to avoid overlap:
+- Cadman Plaza aide or cleaning-crew codes → decorator question now focuses on the area-limited code.
+- Brooklyn Heights night-mode question → ladder question now asks which windows count as reachable.
+- Brooklyn Heights / Brighton Beach away-for-weeks → travel question now asks which mode to use.
+- Boerum Hill / Brooklyn Heights wiring an old house → 1890s question now asks about weak points.
+
+Q2 (power-loss alert) is close to the Bath Beach, Boerum Hill and Bedford Park outage questions. It asks for notification, not whether the alarm keeps working, and is tied to the overhead-line thesis; flagged for review.
+
+### Similarity
+Masked paragraph check (scratch script, SequenceMatcher on geo-masked paragraphs of 12 words or more, against all alarm-installation pages): every prose block is below 0.65. The only blocks at or above 0.65 are exempt shared constants: the price-table rows, the warranty sentence, form consent text, and short source-citation titles. Adapted pattern prose such as the sources intro, hub paragraph, BYOE paragraph and contact paragraph was rewritten.
+
+### FLAGS
+- Back-links and redirects: `_redirects` has only the `.html → clean 301!` rule; the main run must add `/alarm-installation-dyker-heights-brooklyn-ny /alarm-installation-dyker-heights-brooklyn-ny.html 200`. The 15 area pages (nyc, manhattan, queens, bronx, staten-island, long-island, nassau, suffolk, hudson-valley, westchester, rockland, orange, putnam, dutchess, ulster) do not link back yet; that wiring is the main run's job. Sitemap lastmod is still 2026-05-03.
+- File size is 207,929 B. Fiske Terrace was 200,852 B and Flatbush 210,876 B at last look while both were still being built, so re-check the 2 KB cluster after wiring.
+- Two inline SVG diagrams (lot zoning and arming modes) were added. They are generic illustrations, labelled "not a real address".
+- Image reuse: three job photos share underlying shots with earlier silo pages (see the Images list). Real alarm panel, keypad and contact photos are still needed.
+- No 2025/2026 Dyker burglary reporting could be opened; the newest incident used is the Dec 2024 pharmacy burglary.
+
+
+## Fiske Terrace, Brooklyn — /alarm-installation-fiske-terrace-brooklyn-ny (REBUILD, 2026-10-21)
+
+Built 2026-10-21 as a REBUILD of a crawled-not-indexed template page; no old text reused (page regenerated from scratch, new head/schema/body; only the shared nav/CSS/footer script chrome copied from the Canarsie pattern page). Up-link /alarm-installation-brooklyn; phone (347) 934-8335; GBP Brooklyn (1282 Troy Ave, #brooklyn); Brooklyn multiplier 1.00, prices only from alarm-installation-brooklyn.html (same list as Canarsie S1).
+
+**Thesis (distinct from Flatbush and Dyker Heights):** burglar alarms for the ~250 freestanding 1905–1914 builder houses of the Fiske Terrace–Midwood Park Historic District — (1) four exposed elevations, porches/porch roofs that put second-floor windows in reach, enclosed sunrooms, side/kitchen door as the real entrance; (2) freestanding catalog garages (c.1910+) at the end of concrete driveways, linked wirelessly because LPC regulates work in front/side/rear yards; (3) telephone lines that reach the houses across back yards (Fred Baer quote) → old dialers on dead/cuttable copper → cellular communicator; (4) LPC line: interior-only alarm normally needs no LPC permit; exterior equipment follows 63 RCNY §2-20 (secondary facade, ≤~10 in visible conduit, camera limit per 25 ft frontage), old bell boxes removed and holes patched; (5) Ackerson series houses and Corbin precut factory houses → repeating models; (6) district edges: dead ends at the Brighton line, Bay Ridge freight cut, Foster/Ocean apartments (2016 70th Pct fire-escape/hallway alert); shops on Avenue H/Foster/Ocean vs the Sept 2026 window-smash burglary pattern (glass-break first).
+
+### Silo-wide notes (added by this page)
+
+| # | Exact query | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| S1 | Brooklyn hub prices (re-grep) | repo file | alarm-installation-brooklyn.html | Same list as Canarsie S1 ($600 basic; $600–$1,200 wireless; $2,500 complete; $2,000–$6,000 hardwired; $800–$1,500 panel replacement; $400–$800/unit; $1,500–$3,000 commercial; cameras $1,000–$2,500; BYOE $200–$400; $19.99/mo; tax; <$500 full / 50% deposit; $195/hr 3-hr min). Hub "permit $25 to $100" still unverified — not used. | Pricing table, packages, FAQ 1, AI #5, Service schema offers + OfferCatalog |
+| S2 | LPC rules "2-20" "security cameras" "no more than two (2) security cameras" historic district | Firecrawl search → Firecrawl scrape | https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-113323 (excerpt) ; full text read at https://nacmiaslaw.com/resources/legal-codes/14298 | 63 RCNY §2-20 full text: staff may approve small equipment (examples incl. security cameras, lighting, intercom panels) if: not on/in front of primary facade unless no feasible alternative; attached at mortar joints / plain material; finish matches; no visible conduit or max ~10 in, painted, not on decorative surfaces; not visible or minimally visible (beneath band course, under stoop, behind plantings); cameras: as small/few as feasible, ≤2 per 25 ft frontage for small bldgs ≤6 stories & ≤40 ft frontage (≤3 for larger). Sirens not named. | Landmark section, AI #2/#6, comparison table, image captions, Sources |
+| S3 | (same search) LPC Permit Guidebook | Firecrawl scrape (PDF, first 60 pp.) ; WebFetch | https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf | Permits required for work affecting exterior of a building in a historic district "even on parts of the building that are not visible from the street, as well as work in front, side, and rear yards"; interior work needs a permit if it needs a DOB permit or affects the exterior; PMW/CNE staff-level permits. WebFetch: EMPTY (permission request not answered in time) — Firecrawl used. Guidebook "Installing Security Cameras" section beyond page 60: not read. | Garage section, Landmark section, AI #2, Sources |
+| S4 | LPC rules PDF query (Revised_Rules…08-21-2023.pdf) | Firecrawl scrape (query) | https://www.nyc.gov/assets/lpc/downloads/pdf/Rules/Revised_Rules_of_the_NYC_Landmarks_Preservation_Commission_08-21-2023.pdf | EMPTY — "Query generation failed" (S2 copy used instead) | — |
+| S5 | Google PAA / PASF / AI Overview / Answer the Public / Bing & DDG / Yelp 1–3★ for "alarm installation Fiske Terrace" | — | — | EMPTY (not accessible in build env). AI section states nothing is quoted from AI Overview. | §10.5 intro, Sources |
+
+### Local findings (Fiske Terrace)
+
+| # | Exact query / action | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| L1 | (direct scrape) https://en.wikipedia.org/wiki/Fiske_Terrace,_Brooklyn (redirects to Flatbush article) | Firecrawl scrape | https://en.wikipedia.org/wiki/Flatbush,_Brooklyn | Fiske Terrace section: planned community on southern edge of Flatbush, north of Midwood; bounded by Foster Ave (N), Ocean Ave (E), LIRR Bay Ridge Branch (S), BMT Brighton Line B/Q (W); developed with Midwood Park by T.B. Ackerson Co. 1905; ~150 custom houses within 18 months; LPC designated Fiske Terrace–Midwood Park HD Mar 18 2008, 250 homes; Avenue H (formerly Fiske Terrace) station house is a landmark. Flatbush: 70th Pct 154 Lawrence Ave; 70th Pct 2018: 173 burglaries (not used — 2018 and precinct-wide). | Neighborhood ¶1, Sources (boundary conflict noted) |
+| L2 | Fiske Terrace-Midwood Park Historic District designation report Landmarks Preservation Commission 2008 | Firecrawl search → Firecrawl scrape (PDF, 40 of 409 pp.) | https://s-media.nyc.gov/agencies/lpc/lp/2208.pdf | Calendared 9/19/2006, hearing 10/16/2007 (54 for, 2 against), designated 3/18/2008. District: Foster Ave to Ave H, Brighton line to E 19th St; ~250 houses; Ocean Ave frontages & area between Ave H and Manhattan Beach tracks excluded (demolition/alteration). Fiske Terrace generally S of Glenwood Rd (T.B. Ackerson Co., "from woods into city in eighteen months"); Midwood Park generally N (John R. Corbin Co., precut houses "planned and practically made" in factory; by 1908 capacity 1,000 houses/yr). Glenwood not a clean line. George P. Fiske, oil merchant, ~30 acres; sold to Ackerson 1905. Ackerson built "in series from ten to 20" (quoting Flatbush of Today); houses mainly on the courts, E 17th, Glenwood, east side of E 19th; C.F. Bond 10 houses on E 18th. Forms: foursquare, temple-house, bungalow; styles Arts & Crafts, Colonial Revival, Dutch Colonial Revival, few Tudor Revival (incl. 31 Irvington Pl, 822 E 19th), stucco/half-timber; Slee & Bryson 30 houses; most built/occupied by 1914; builders avoided identical houses side by side. Malls on Glenwood Rd & E 17th St; concrete driveways with grass center strips; freestanding garages from ~1910, many catalog (pyramidal-roof garages 625 E 19th, 635 E 18th; gambrel 621 E 19th; swing-out cross-braced doors 795 E 19th). Midwood Park entrance posts ~1910 at Foster Ave (still at E 17th/18th/19th), prompted by Foster Ave stores-with-apartments block (Eagle 7/31/1910). Fiske Terrace Association 1907 ("oldest civic group in Brooklyn"); Midwood Park Property Owners Assn by 1909, 1910 committees incl. fire and police services. 1916 opposition to store-and-flats row on Ave H between E 16th–17th. Only apartment house 800 E 17th St (1936, six stories, NW corner Wellington Ct & E 17th); 830/832 E 17th attached houses 1961. 1950s: crime concern after "dog patrol" (c.1920–1945) ended — "several houses have been broken into." Manhattan Beach RR tracks (now freight-only Bay Ridge Line) stopped passengers 1924. Avenue H station house = Ackerson's 1905–06 wood-framed sales office. (Charles Ebbets lived at 1666 Glenwood Rd 1912–1925 — deliberately NOT used: private home address.) | Hero, Neighborhood ¶2–4, facts list, Architecture cards, Four elevations, Garage section, Ackerson/Corbin section, Edges, Commercial cards, Landmarks cards, AI #1, Q&A (Corbin, garage, apartment house), schema mentions, Sources |
+| L3 | (direct scrape) | Firecrawl scrape (query) | https://en.wikipedia.org/wiki/Avenue_H_station | Avenue H between E 15th & E 16th; Q at all times; opened ~Apr 26 1897 as Fiske Terrace; northbound station house built 1906 as Fiske Terrace sales office, converted 1907; designated June 29 2004; ADA ramps 2011/2021. | Facts list, Landmarks card, schema mentions, Sources |
+| L4 | (direct scrape) NYPD 70th Precinct | Firecrawl scrape | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page | 154 Lawrence Ave, Brooklyn 11230; "home to Midwood, Fiske Terrace, Ditmas Park, and Prospect Park South"; community council last Wednesday 7:30 PM at 175 Lawrence Ave. (Precinct phone numbers NOT reproduced.) | Neighborhood ¶4, facts list, Landmarks card, schema, Sources |
+| L5 | "Fiske Terrace" burglary OR break-in OR burglar Brooklyn | Firecrawl search | (results: Bklyner, AESS's own other pages, Instagram, Compass, etc.) | No Fiske-Terrace-specific burglary report found; Bklyner excerpt confirms 70th Pct contains Fiske Terrace. | Sources ("none found") |
+| L6 | 70th Precinct burglaries Ditmas Park Midwood houses break-ins 2025 OR 2026 | Firecrawl search (news + web) → scrape | https://bklyner.com/burglary-alert-70th-precinct-ditmas-park/ | May 4 2016 (Sarah Crean): 70th Pct "NYPD Burglary Alert" — entries "through the apartment's fire escape windows that are left unlocked," some via roof to fire escape; others loitered in hallways checking apartment doors. | Neighborhood ¶4, Edges (apartment paragraph), Sources |
+| L7 | (same search) → scrape | Firecrawl scrape | https://brooklyn.news12.com/2026/09/14/nypd-seeks-suspects-in-19-commercial-burglaries-across-brooklyn/4OvA1bvw3pbLPXk6n1nl9q | Sept 14 2026 (Molly Bruton): 19 commercial burglaries Aug 3–Sept 10 2026, two suspects, entry by throwing an object through a window; neighborhoods incl. Midwood, Flatbush, Ditmas Park (Fiske Terrace not named). | Neighborhood ¶4, Commercial (window-smash), Q&A, Sources |
+| L8 | (same search) | Firecrawl search excerpt | https://www.thebehfarteam.com/safest-neighborhoods-in-brooklyn/ | Realtor blog: 70th Pct seven majors 1,124→853 (−24.1%), year unclear | NOT used (secondary, undated) |
+| L9 | "Fiske Terrace Association" security patrol OR safety OR neighborhood watch | Firecrawl search → scrape | https://www.wsj.com/articles/fiske-terrace-an-enclave-in-flatbush-offers-a-taste-of-suburbia-1419649529 | WSJ Dec 26 2014 (Melanie Lefkowitz), first paragraphs only (paywall): Fred Baer, former FTA president, bought 35 years earlier; enclave of a few blocks, some dead-end at the Q and B tracks; large detached Victorian houses with driveways, garages, gardens, backyards; hundreds of curbside trees. Rest EMPTY (paywall). | Neighborhood ¶1, Edges, Q&A dead-end, Sources |
+| L10 | (same search) → scrape (query) | Firecrawl scrape (PDF query) | https://www.brooklynpaper.com/wp-content/uploads/assets/pdf/34_23bp.pdf | Brooklyn Paper print PDF (Dan MacLeod; year not confirmed): Verizon installing 20-foot poles in the Fiske Terrace–Midwood Park HD — "the only place in the city" — to guard access points to underground fiber; already on E 18th St between Foster Ave and Glenwood Rd; Fred Baer (FTA): "We have phone lines in the backyards of our homes." | Phone-lines section, AI #4, Q&A (1990s dialer), FAQ (fiber), schema mention, Sources (no-year caveat on page) |
+| L11 | site:reddit.com "Fiske Terrace" OR "Midwood Park" house break in OR alarm OR burglary | Firecrawl search | — | EMPTY (no results) | Sources ("no thread") |
+| L12 | Landmarks Preservation Commission rules security cameras alarm historic district … | Firecrawl search | (see S2/S3) | — | — |
+| L13 | 2025–2026 Fiske Terrace house burglary; neighborhood-only burglary stats | — | — | EMPTY — none found; page cites none | Sources |
+| L14 | Local Yelp 1–3★ alarm companies Fiske Terrace / Midwood | — | — | EMPTY (not accessible) | — |
+
+### Unsourced / AESS practice (labeled as practice on page)
+Clockwise four-elevation survey, window-selection rule, motion placement at hall/stair crossing, garage contact placement and wide-gap/top-of-leaf mounting, repeaters, battery life in cold garages, cellular signal reading, train test for houses by the tracks, patching old bell-box holes, block-scheduling of surveys, comparison table (stated as general, not tested), field notes (stated as practice, not a story).
+
+### Images (11, all in /images/alarm-installation/, prefix alarm-installation-fiske-terrace-) — permanent image rule; each viewed (contact sheets) before naming; none AI-generated (products/*.png kit renders, warehouse-alarm-system-installation-brooklyn-ny.webp, home-automation-smart-panel-installation.jpg, tech-tablet-monitoring.png judged AI/renders and rejected; smart-lock-installation/* avoided per earlier batches)
+1. motion-detector-below-small-corner-dome.webp (hero) ← images/school-security-camera-installation/school-security-camera-installation-long-island-white-turret-in-corner-beside-wall-sensor.webp (job photo; likely same underlying corner/sensor shot family used on Canarsie/Boerum Hill/Brighton Beach — flag)
+2. dome-camera-under-roof-edge-against-bare-branches.webp ← images/school-security-camera-installation/school-security-camera-installation-orange-county-white-dome-camera-under-yellow-eave-against-winter-sky.webp (job photo, cropped to remove the mural; same underlying shot family as other "yellow fascia / bare branches" images incl. the concurrent Dyker Heights "exterior-dome-under-fascia-by-bare-winter-branches" — flag)
+3. ring-white-floodlight-camera-product-photo.webp ← images/floodlight-ring-cam-plus.png (manufacturer)
+4. white-and-black-video-doorbell-product-photo.webp ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-video-doorbell-product-photo.webp (manufacturer)
+5. white-twin-round-lamp-floodlight-camera-product-photo.webp ← images/floodlight-camera-installation/floodlight-camera-installation-brooklyn-white-round-lamp-floodlight-camera-product-photo.webp (manufacturer; brand not visible, not named)
+6. honeywell-network-video-recorder-product-photo.webp ← images/nvr-honeywell-35-series.png (manufacturer)
+7. recorded-view-of-paved-walk-beside-brick-wall.webp ← images/school-security-camera-installation/school-security-camera-installation-orange-county-camera-view-of-sidewalk-and-paved-lot-beside-brick-wall.webp (job recorder frame)
+8. small-camera-on-bare-grey-wall-with-two-shadows.webp ← images/floodlight-camera-installation/floodlight-camera-installation-putnam-county-small-camera-on-plain-grey-wall-casting-two-shadows.webp (job photo)
+9. low-voltage-cables-gathered-along-ceiling-pipe.webp ← images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-network-cables-bundled-along-ceiling-pipe.webp (job photo)
+10. aosu-video-doorbell-and-plug-in-chime-product-photo.webp ← images/ring-video-doorbell-pro.webp (manufacturer; file is misnamed in the library — it shows an aosu doorbell and chime, named here by what is visible)
+11. ring-grey-video-doorbell-product-photo.webp ← images/ring-video-doorbell.webp (manufacturer)
+Claims recorded in scratchpad/image-claims.txt.
+
+### Question register — alarm-installation-fiske-terrace-brooklyn-ny
+Q&A (§9, H3) — "Alarm Installation in Fiske Terrace: Questions Answered":
+Porches, side walls and the upper floors
+1. Our house has a wraparound porch whose roof sits right under the second-floor bedroom windows. Do those upstairs windows need contacts too?
+2. We enclosed the front porch as a sunroom with windows on three sides. Is it inside the alarm or outside it?
+3. Our house stands alone on its lot with windows on all four sides. How do you decide which of thirty-odd windows actually get sensors?
+4. Our first floor flows through wide openings with pocket doors between the parlor, the dining room and the hall. Where does a motion detector go in a layout like that?
+5. Our third floor is a finished attic under the gambrel roof, with dormer windows. Is anything up there worth protecting?
+Garages, yards and the wires behind the house
+6. Our garage still has its original pair of wooden doors that swing outward on hinges and never close quite flush. Can a contact work on doors like that?
+7. Bikes, tools and a lawn mower live in that garage. Should it set off the siren in the house, or only send a phone alert?
+8. Our 1990s alarm still shows a monitoring sticker, but we dropped the landline for fiber years ago. How do we find out whether it reports anywhere at all?
+9. Our street dead-ends at the subway tracks, so almost nobody drives past. Is a quiet dead end safer, or does it need anything extra?
+Doors, glass and the old building itself
+10. Our original front door has a large oval glass panel. Does a door contact protect it, or can someone reach through the glass and get past it?
+11. Our house was assembled from factory-cut parts, like many Corbin houses in Midwood Park. Does that make wiring easier or harder?
+12. Several neighbors on our block want alarms at the same time. Can you schedule the surveys together?
+Apartments and shops at the edges
+13. Burglars got into shops in Midwood and Ditmas Park this summer by throwing something through the front window. Does a glass-break detector react before they are inside, or only after?
+14. We live in the one apartment house inside the district, the six-story building on East 17th Street. Is an apartment alarm there any different from one in a house?
+
+FAQ (§17 = FAQPage schema, 10):
+1. What does an alarm for a freestanding Fiske Terrace house with a detached garage cost on your Brooklyn list?
+2. Do you patch the holes when you take an old alarm bell box off our siding?
+3. Our original doors stick in summer and rattle in winter. Will the contacts need adjusting every season?
+4. Our block has the new Verizon fiber service. Does the alarm need it, or can it work without any internet at all?
+5. We always come in from the car. Can the alarm be armed and disarmed with a fob on the car keys?
+6. Our old wood windows have aluminum storm windows over them. Which one gets the sensor?
+7. Will the phone app tell us which side of the house a zone is on?
+8. Are you connected with the Fiske Terrace Association or the Midwood Park homeowners’ group?
+9. Do you also work on the Midwood Park blocks north of Glenwood Road and on the Ocean Avenue apartment buildings?
+10. If we add a rear addition or finish the cellar later, can the alarm grow with the house?
+
+Other headings: no other H2/H3 ends in '?'. Removed during build for overlap with the concurrent Dyker Heights page: "Could someone cut the backyard phone line and silence the alarm?" (≈ Dyker overhead lines Q), "How does the detached garage get on the alarm without trenching?" (≈ Dyker garage Q), "Can the alarm switch on porch/driveway lights?" (≈ Dyker FAQ), "Can the main keypad go by the side door off the driveway?" (≈ Dyker FAQ). Avoided register intents: LPC permit-for-alarm (Brooklyn Heights Q1), outdoor siren on landmark (Boerum Hill), window bars (Boerum Hill), cellar door (Bath Beach/Heights), landline need (Boerum Hill), yard animals and outdoor motion (Heights). tools/check_page.py: no masked duplicate question or FAQ answer vs the 161 other alarm pages (incl. the rebuilt Flatbush and Dyker Heights files as on disk 2026-10-21 ~22:30).
+
+Masked-geo paragraph similarity (scratchpad/fiske/sim.py, difflib on geo-masked paragraphs ≥12 words, vs all alarm-installation-*.html): max 0.616 for written content; the only ≥0.65 hits are the standard price-table item labels and the shared silo-nav link lines (excluded by v2.3 §2).
+
+### FLAGS for Anwar
+- Wiring left for the main run: `_redirects` has only the `.html → clean 301!` rule for this slug — the `/alarm-installation-fiske-terrace-brooklyn-ny /alarm-installation-fiske-terrace-brooklyn-ny.html 200` rule is missing; the 15 area/hub alarm pages (nyc, manhattan, queens, bronx, staten-island, long-island, nassau, suffolk, hudson-valley + 6 HV counties) don't link back yet; sitemap lastmod is 2026-05-03 (needs update). check_page.py's only remaining FAILs are these.
+- Name conflict shown on page: Wikipedia uses "Fiske Terrace" for Foster Ave–Bay Ridge Branch, Brighton line–Ocean Ave; LPC uses it for the part of the district generally south of Glenwood Rd (north = Midwood Park) and ends the district at E 19th St.
+- Brooklyn Paper Verizon-pole article (L10) has no confirmed year; page says so.
+- No Fiske-Terrace-specific burglary report (2023–2026) found; page cites only precinct/area items and says so.
+- Hub's "NYC alarm permit $25–$100" still unverified; not used.
+- Image pool: hero and eave images belong to underlying shot families already used (different files/crops) on earlier alarm pages; the concurrent Dyker Heights page appears to use another file of the same eave shot. images/ring-video-doorbell-pro.webp actually shows an aosu doorbell — library file is misnamed.
+- WebFetch permission prompt timed out for the LPC Permit Guidebook; read through Firecrawl instead.
+- Size 200,852 B: Canarsie 197,672 (−3.2 KB), Cadman Plaza 204,412 (+3.6 KB), Dyker Heights 195,277 and Flatbush 210,876 at last check — re-check the 2 KB cluster after wiring.
+
+
+## Flatbush, Brooklyn — /alarm-installation-flatbush-brooklyn-ny (REBUILD, 2026-10-21)
+
+Up-link /alarm-installation-brooklyn · phone (347) 934-8335 · GBP Brooklyn (1282 Troy Ave, #brooklyn) · pricing Brooklyn 1.00x (figures copied from the silo list already recorded in this file, Brighton Beach S7 / Canarsie table).
+
+Thesis: "Your door, not the building's." Flatbush is a renter's district of 1920s–30s six-story elevator apartment houses and walk-ups (CD14 rent-regulated 82.5% of rentals, Furman 2010). The owner controls the street door, intercom, lobby, package room, roof door, basement and master key; the tenant controls only the apartment. The alarm is designed to live entirely inside that boundary (MDL §50-a, §51-c, HPD self-closing doors), with shared-door alerts for tenant groups, plus store alarms for the 1,662 storefronts under apartments on Flatbush/Church/Nostrand/Rogers (roofs/skylights, delivery doors, siren limit, daytime shoplifting). Victorian detached houses deliberately NOT used (left to Fiske Terrace sibling).
+
+### Silo-wide notes added by this page
+| # | Exact query | Platform | URL | Finding | Page + section |
+|---|---|---|---|---|---|
+| S1 | Multiple Dwelling Law 51-c tenant install own lock duplicate key landlord | WebSearch → WebFetch | https://www.nysenate.gov/legislation/laws/MDW/51-C | Tenant may install and maintain own lock in apartment entrance door, ≤3 in circumference; duplicate key to owner on request; lease fee for it void; excludes housing-authority buildings, hotels, dorms. Alarms not mentioned. | Boundary section; Q&A 1 |
+| S2 | HPD building entrance door self-closing self-locking intercom eight or more apartments Multiple Dwelling Law 50-a peephole | WebSearch → WebFetch | https://www.nysenate.gov/legislation/laws/MDW/50-A | Class A: post-1968 buildings need automatic self-closing/self-locking street doors and intercom (8+ apartments); pre-1968 on majority tenant written request; roof door self-closing, not self-locking. Peepholes not in text. | Boundary section; How-a-stranger-moves; Q&A street door, top floor; AI check |
+| S3 | (same search) | WebFetch | https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-doors-tenants.pdf | Buildings with 3+ apartments: apartment entrance and hallway doors must self-close; don't disable/prop/tape. No effective date on page. | Boundary section; Q&A self-closer; process step 6 |
+| S4 | Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ for "alarm installation Flatbush" | — | — | EMPTY (not accessible in build env). AI Reality Check written as paraphrased generic claims (Angi/HomeAdvisor/Fixr named), not quotes. | §10.5 intro |
+
+### Local findings (Flatbush)
+| # | Exact query / action | Platform | URL | Finding | Page + section |
+|---|---|---|---|---|---|
+| L1 | (direct scrape) Flatbush, Brooklyn | Firecrawl scrape | https://en.wikipedia.org/wiki/Flatbush,_Brooklyn | Midwout, patent by 1652; no official borders (FDC 1980s: Parkside/Bedford/Avenue H/Coney Island Ave; NYT 2000s: New York Ave–Ocean Ave); CD14; ZIPs 11203/11210/11225/11226; post-WWI tax exemption to 1932 → six-story Art Deco and Colonial Revival elevator apartment houses on Ocean Ave and periphery; Church & Flatbush entertainment district; the Junction; 1977 blackout looting on Flatbush and Church; Flatbush Ave BID 1990, 195 merchants by 1996 (Parkside–Cortelyou); 1989 NYT co-op waves; Target largest store at Junction; Little Caribbean 2017 / Little Haiti 2018; 70th Pct 154 Lawrence Ave (2018: 173 burglaries, 527 GL), 67th Pct 2820 Snyder Ave (2018: 225 burglaries, 586 GL); FDNY E255/L157 1367 Rogers Ave, E281/L147 1210 Cortelyou Rd, E248/Bn41 2900 Snyder Ave; BPL Flatbush 22 Linden Blvd (1905 Carnegie), Clarendon 2035 Nostrand Ave (1954); B/Q and 2/5, Flatbush Av–Brooklyn College terminal; Brooklyn College 35 acres shared with Midwood; East 25th Street Historic District LPC report Nov 17 2020 (cited ref); Kings Theatre reopened "February 2015". | Neighborhood, facts list, building cards, commercial cards, landmarks, schema mentions, sources |
+| L2 | Furman Center Flatbush Midwood community district 14 rent stabilized units share | WebSearch → WebFetch | https://www.furmancenter.org/neighborhoods/flatbush-midwood/ | Homeownership 24.4% (2024); serious crime 8.1/1,000 (2024), 7.4 (2025 listed), 15.6 (2006); population 147,911 (2024); foreign-born 43.4% (2024); rental vacancy 3.1% (2024). No rent-stabilized share on page. | Hero; neighborhood para 3; facts list |
+| L3 | (same search) | WebFetch | https://www.furmancenter.org/wp-content/uploads/ee-legacy/BK_14_2010.pdf | Rent-regulated units 82.5% of rental units (2010 profile; table garbled, year column uncertain). | Hero ("more than four out of five"); neighborhood; facts list; sources (flagged as 2010) |
+| L4 | Flatbush Avenue Business Improvement District Parkside Avenue Cortelyou Road businesses number | WebSearch → WebFetch | https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush.pdf | Avenue NYC CDNA (SBS with Church Ave BID, Deh Abroad Village, Flatbush Nostrand Junction BID, HABNET); fieldwork Oct 2021–Jun 2022; corridors Church (Coney Island Ave–E 56th), Flatbush (Parkside–Ave H), Nostrand (Parkside–Ave J), Rogers (Clarkson–Church); 1,662 storefronts; 10.6% vacancy; 53% merchants want safety changes; shoplifting concern; street lighting; 79% rent; DOT counts Church Ave Nostrand–E31st 3,135 weekday PM, Flatbush Ave Martense–Church 2,680 weekday PM; Junction vacancy cited inconsistently (25%/17%/10%). | Hero; neighborhood para 5; facts list; commercial section; Q&A shoplifting; AI check |
+| L5 | (same search) | WebFetch | https://www.brooklynpaper.com/flatbush-church-business-improvement-districts-merge | Undated: Church Ave BID (Church Ave, Coney Island Ave–Flatbush Ave) + Flatbush Ave BID (Parkside–Cortelyou) merger proposal; 450 businesses, 282 properties, 477 storefronts. | Commercial cards; sources |
+| L6 | Little Caribbean Church Avenue Flatbush designation 2017 corridor businesses | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Little_Caribbean,_Brooklyn | Designated Sept 28 2017; Church Ave co-named Bob Marley Boulevard; corridors Flatbush, Church, Nostrand, Utica. | Commercial card; schema |
+| L7 | Ocean Avenue Flatbush Art Deco apartment buildings history six-story elevator | WebSearch → WebFetch | https://6tocelebrate.org/?p=6067 | 135 Ocean Ave: six-story Art Deco, Boris W. Dorfman 1928, X-shaped plan, five wings around light courts; 1901 Tenement House Act / 1928 MDL light rules; located in Prospect-Lefferts Gardens (flagged on page). | Neighborhood para 2; sources |
+| L8 | Flatbush package theft apartment lobby vestibule Brooklyn | WebSearch → WebFetch | https://www.nbcnewyork.com/brooklyn/flatbush-superintendent-beating-death-burim-havolli-arrest/6418541/?amp=1 | Nov 2025: superintendent died after confronting suspected package thief in lobby of an Ocean Avenue apartment building (name not used on page). | Neighborhood para 4; Lobbies section; Q&A package room |
+| L9 | News 12 Brooklyn woman warning neighbors about recent break-in Flatbush door landlord | Firecrawl search → Firecrawl scrape | https://www.bkreader.com/in-other-brooklyn-news/flatbush-woman-warning-neighbors-about-recent-break-in-11800088 (cites https://brooklyn.news12.com/2026/01/28/flatbush-woman-warning-neighbors-about-recent-break-in/4Hu67qMZRaWjN0TaBprYkZ) | Jan 28 2026: intruder already in tenant's kitchen on a Monday night while she was home; front door flimsy ~8 years; property managers acted only after (tenant name not used on page). | Neighborhood para 4; stranger section; Q&A stay mode; AI check |
+| L10 | site:reddit.com Flatbush apartment break-in OR burglary OR "package" building | Firecrawl search (excerpts only) | https://www.reddit.com/r/Flatbush/comments/1qq9ob2/brooklyn_woman_warning_neighbors_about_recent/ ; https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/ ; https://www.reddit.com/r/Flatbush/comments/1i5xmi6/50_clarkson_apt_ave/ | Excerpts: "took you 1 break in after 8 years of complaints for fix a damn door"; non-doorman building added keypad deadbolt to package-room door; one Clarkson Ave building "has had some issues with safety, specifically in relation to the package room" (address not used). Full threads EMPTY (not accessible in build env). | Neighborhood para 4; Lobbies section |
+| L11 | Church Avenue Flatbush store burglary roll-down gate break-in | WebSearch → WebFetch | https://www.cbsnews.com/newyork/news/nypd-suspect-wanted-for-brooklyn-skylight-burglaries-arrested/ | Apr 11 2012: arrest; skylight entries at a Snyder Ave church (twice), a Flatbush Ave store, a nail salon, a clothing boutique (suspect name not used). | Neighborhood para 5; roofs section; commercial; AI check |
+| L12 | (same search) | WebFetch | https://www.brooklynpaper.com/burglar-turned-camera-off-then-stole-and-ran-off | Flatbush Ave near Quentin Rd / Avenue U — 63rd Pct (Marine Park/Flatlands), not Flatbush. NOT used. | — |
+| L13 | Flatbush Brooklyn apartment building burglary 70th precinct 2025 | WebSearch → WebFetch | https://www.theyeshivaworld.com/news/general/1583587/nypd-alerting-flatbush-residents-about-rash-of-burglaries.html | Aug 2018, Ocean Ave & Avenue O / Ave O & E 19th — Midwood. NOT used (noted in Sources). | Sources note |
+| L14 | (same search) | WebFetch | https://www.bkreader.com/policy-government/crime/the-week-in-crime-spotlight-on-flatbush-and-east-flatbush-3-6547224 ; …-4-6547549 | 2021 weekly summaries, aggregate only, no incident detail. NOT used. | — |
+| L15 | (same search) | WebFetch | https://www.brooklynpaper.com/burglar-swipes-flatbush-ave-mans-electronics | Prospect Heights/Park Slope stretch of Flatbush Ave, not Flatbush. NOT used. | — |
+| L16 | Flatbush package theft… | WebFetch | https://journalism.blog.brooklyn.edu/2023/12/the-flatbush-grinch/ | About Flatlands, not Flatbush. NOT used. | — |
+| L17 | (direct, query format) | Firecrawl scrape | https://en.wikipedia.org/wiki/Kings_Theatre_(Brooklyn) | 1027 Flatbush Ave; opened Sept 7 1929; Rapp and Rapp; 3,250 seats (orig 3,690); closed 1977; reopened Jan 23 2015 (conflict with Flatbush article "February 2015" — page says 2015). | Landmarks; schema |
+| L18 | (direct, query format) | Firecrawl scrape | https://en.wikipedia.org/wiki/Erasmus_Hall_High_School | 899–925 Flatbush Ave between Church and Snyder; founded 1786; academy building NYCL Mar 15 1966; Snyder Collegiate Gothic quadrangle; five small schools since 1994. | Landmarks; schema |
+| L19 | (direct, query format) | Firecrawl scrape | https://en.wikipedia.org/wiki/Flatbush_Reformed_Dutch_Church | 890 Flatbush Ave; built 1793–98; NYCL 1966/1979; earliest legible grave 1754. | Landmarks; schema |
+| L20 | (direct, query format) | Firecrawl scrape | https://en.wikipedia.org/wiki/Sears_Roebuck_%26_Company_Department_Store_(Brooklyn) | Beverley Rd & Bedford Ave; 1932; NYCL May 15 2012; closed Nov 2021; Clipper Equity redevelopment ~650 units. | Building card; landmarks; schema |
+| L21 | (direct, query format) | Firecrawl scrape | https://en.wikipedia.org/wiki/Flatbush_Town_Hall | 35 Snyder Ave; 1874–75; John Y. Culyer; later magistrate's court and 67th Pct; now special-ed school; landmark date conflict (text 1966 vs infobox 1973) — page omits date. | Landmarks; schema; sources |
+| L22 | WebFetch of the five Wikipedia pages above | WebFetch | — | EMPTY (permission request not answered in build env) — content obtained through Firecrawl instead. | — |
+
+### Unsourced / AESS practice (labeled as practice on page)
+Survey method (street door → lobby → corridor → door → windows), device placement, removable mounting, codes/schedules, shared-door alert setup, stay-mode settings, store roof/back-door method, SVG boundary diagram (labeled "AESS practice, not to scale").
+
+### Images (11, all in /images/alarm-installation/, prefix alarm-installation-flatbush-) — permanent image rule; each viewed before use; buzzer-repair/*.jpg looked AI-generated (branded hoodies, staged faces) and were rejected
+- alarm-installation-flatbush-ceiling-dome-over-glass-lobby-entrance.webp ← images/intercom-repair/intercom-repair-staten-island-dome-camera-on-tiled-ceiling-above-glass-entrance.webp (bottom 8% cropped)
+- alarm-installation-flatbush-hallway-to-grey-door-with-wall-plates.webp ← images/intercom-repair/intercom-repair-staten-island-corridor-to-grey-door-with-camera-and-wall-plates.webp
+- alarm-installation-flatbush-stone-facade-windows-and-wall-arm-camera.webp ← images/intercom-repair/intercom-repair-staten-island-stone-apartment-facade-with-camera-on-steel-arm.webp
+- alarm-installation-flatbush-motion-sensor-under-corner-dome.webp ← images/intercom-repair/intercom-repair-putnam-county-dome-camera-and-motion-sensor-in-ceiling-corner.webp (bottom 5% cropped)
+- alarm-installation-flatbush-dome-on-painted-canopy-corner-by-bare-tree.webp ← images/intercom-repair/intercom-repair-putnam-county-white-dome-camera-on-shop-canopy-corner.webp
+- alarm-installation-flatbush-akuvox-keypad-door-station-product-photo.webp ← images/intercom-repair/intercom-repair-staten-island-akuvox-keypad-door-station-with-camera-product-photo.webp
+- alarm-installation-flatbush-corner-dome-below-stained-plaster-ceiling.webp ← images/door-buzzer-installation/door-buzzer-installation-ulster-county-dome-camera-in-old-plaster-corner.webp (left 4% cropped)
+- alarm-installation-flatbush-mini-domes-in-shop-drop-ceiling.webp ← images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-mini-dome-cameras-in-shop-drop-ceiling.webp
+- alarm-installation-flatbush-store-monitor-with-aisle-camera-views.webp ← images/hik-connect-app-support-repair/hik-connect-app-support-repair-manhattan-store-monitor-showing-multi-camera-layout.webp
+- alarm-installation-flatbush-white-video-doorbell-product-photo.webp ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-white-video-doorbell-product-photo.webp
+- alarm-installation-flatbush-recorded-wide-view-of-sidewalk-and-curb.webp ← images/residential-security-camera-installation/residential-security-camera-installation-nassau-county-wide-lens-recorder-tile-of-sidewalk-and-curb.webp
+DAILY-LOG note: images: 11 reused from images/intercom-repair/, door-buzzer-installation/, hik-connect-app-support-repair/, residential-security-camera-installation/ (no real alarm-installation photos yet)
+
+### Question register — alarm-installation-flatbush-brooklyn-ny
+§9 "Alarm Installation in Flatbush: Questions Answered" (H3)
+1. New York’s Multiple Dwelling Law lets a tenant add a lock to the apartment door and requires a duplicate key on request. Does that same rule cover an alarm contact on the door?
+2. HPD says apartment doors in buildings with three or more units must close and latch on their own. Will a door sensor get in the way of the self-closer?
+3. Our super keeps a key to every apartment for emergencies. If he lets himself in for a leak while we are away, what does the alarm do, and who finds out?
+4. Our apartment is rent-stabilized. Does that change anything about how an alarm should be installed?
+5. The street door of our building has not latched properly for years. What does the law require of that door, and what can an alarm inside my apartment add?
+6. Our tenant association wants to know when the package-room door is opened late at night. Can one sensor alert several of us at once?
+7. Every apartment has a storage cage in the basement next to the laundry room. Is there any way to know if someone gets into ours?
+8. We live on the top floor, a few steps from the door to the roof. Should a top-floor apartment be set up differently?
+9. Our bedroom windows face a light court between the wings of the building, across from other apartments. Do court windows need sensors?
+10. Our living-room window holds a through-the-window air conditioner all summer. How is that window protected while the unit is in it?
+11. We are home most days, reading or working at the back of the apartment. Can the alarm guard the front door while we are awake and moving around inside?
+12. Most of what our store loses is shoplifting during business hours, not break-ins at night. Is a burglar alarm even the right purchase?
+13. Two businesses share one storefront behind a single roll-down gate. Can each have its own alarm code and its own reports?
+14. The building owner already has a fire alarm panel and a monitoring company for the whole building. Will our store’s burglar alarm interfere with it?
+
+§17 FAQ (= FAQPage schema, 7)
+1. What does an alarm for a small shop on Flatbush Avenue or Church Avenue cost at Brooklyn rates?
+2. Apart from the optional $19.99 monitoring plan, are there any other monthly charges?
+3. Can a peephole camera be added to a Flatbush apartment door along with the alarm?
+4. If our building is sold or gets a new managing agent, does the alarm we paid for stay ours?
+5. Dozens of Wi-Fi networks show up on my phone in our building. Will they interfere with wireless alarm sensors?
+6. Will an alarm contact on our apartment entrance door affect its fire rating?
+7. Can the alarm’s history help if we need to show the landlord or HPD that the building door keeps failing?
+
+Other headings: none end in '?'. Semantic check: intents deliberately avoided because already in the register — renter no-drill door frame, fire-escape gates, roommates, pets, NYCHA consent letter, move-out/deposit, language of app, thick walls, power/internet outage, siren-duration, landlord refusal, skylight/roof-as-entry question (Bruckner), shared-corridor strip (Bruckner), hold-up buttons, insurance, duration, precinct dispatch.
+
+### FLAGS for Anwar
+- Main-run wiring still needed: `_redirects` has NO rules for this slug (0 found) — add `/alarm-installation-flatbush-brooklyn-ny /alarm-installation-flatbush-brooklyn-ny.html 200` and `/alarm-installation-flatbush-brooklyn-ny.html /alarm-installation-flatbush-brooklyn-ny 301!`; the 15 area pages (nyc, manhattan, queens, bronx, staten-island, long-island, nassau, suffolk, hudson-valley, westchester, rockland, orange, putnam, dutchess, ulster) need a back-link to this page (check_page FAILs on these only). Hub /alarm-installation-brooklyn already links down; sitemap entry already present.
+- File size 210,876 B chosen to clear Canarsie (197,672), Fiske Terrace (200,449 at check time) and Cadman Plaza (204,412); if the concurrent Dyker Heights or Fiske Terrace pages land within 2 KB, one of them needs a size nudge.
+- Furman rent-regulated share (82.5%) is from the 2010 CD14 profile (covers Flatbush + Midwood); flagged on page as possibly dated.
+- Two sensitive news items used without names: Nov 2025 Ocean Ave superintendent death (NBC NY) and Jan 2026 apartment intrusion (BK Reader/News 12). Review tone if preferred.
+- images/buzzer-repair/*.jpg appear AI-generated (staged technicians in AESS-branded hoodies) — recommend they never be used on any page.
+- Several Wikipedia WebFetch permission prompts timed out; content was read via Firecrawl.
