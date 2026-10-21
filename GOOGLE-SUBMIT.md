@@ -359,3 +359,6 @@ Last evening run: 2026-10-21 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-bushwick-brooklyn-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-cadman-plaza-brooklyn-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-canarsie-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-dyker-heights-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-fiske-terrace-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-flatbush-brooklyn-ny | QUEUED
