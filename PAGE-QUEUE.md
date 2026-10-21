@@ -361,9 +361,9 @@ LIVE REBUILD | alarm-installation-brooklyn-heights-brooklyn-ny | Alarm Installat
 BUILDING 2026-10-21T20:52:40Z REBUILD | alarm-installation-brooklyn-navy-yard-brooklyn-ny | Alarm Installation | Brooklyn Navy Yard, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T20:52:40Z REBUILD | alarm-installation-brownsville-brooklyn-ny | Alarm Installation | Brownsville, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T20:52:40Z REBUILD | alarm-installation-bruckner-bronx-ny | Alarm Installation | Bruckner, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | alarm-installation-bushwick-brooklyn-ny | Alarm Installation | Bushwick, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-cadman-plaza-brooklyn-ny | Alarm Installation | Cadman Plaza, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | alarm-installation-canarsie-brooklyn-ny | Alarm Installation | Canarsie, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T21:07:23Z REBUILD | alarm-installation-bushwick-brooklyn-ny | Alarm Installation | Bushwick, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T21:07:23Z REBUILD | alarm-installation-cadman-plaza-brooklyn-ny | Alarm Installation | Cadman Plaza, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T21:07:23Z REBUILD | alarm-installation-canarsie-brooklyn-ny | Alarm Installation | Canarsie, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-carroll-gardens-brooklyn-ny | Alarm Installation | Carroll Gardens, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-cobble-hill-brooklyn-ny | Alarm Installation | Cobble Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-coney-island-brooklyn-ny | Alarm Installation | Coney Island, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
