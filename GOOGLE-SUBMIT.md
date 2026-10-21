@@ -344,3 +344,6 @@ Last evening run: 2026-10-21 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-st-george-staten-island-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-west-side-manhattan-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-williamsburg-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsburg-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-windsor-terrace-brooklyn-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-kingsbridge-heights-bronx-ny | QUEUED
