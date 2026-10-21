@@ -1439,3 +1439,317 @@ Other headings: none end in '?'. Semantic check: intents deliberately avoided be
 - Two sensitive news items used without names: Nov 2025 Ocean Ave superintendent death (NBC NY) and Jan 2026 apartment intrusion (BK Reader/News 12). Review tone if preferred.
 - images/buzzer-repair/*.jpg appear AI-generated (staged technicians in AESS-branded hoodies) — recommend they never be used on any page.
 - Several Wikipedia WebFetch permission prompts timed out; content was read via Firecrawl.
+
+
+## Carroll Gardens, Brooklyn — /alarm-installation-carroll-gardens-brooklyn-ny (REBUILD, 2026-10-21)
+
+Built as a REBUILD of a crawled-not-indexed template page; no old text reused. Up /alarm-installation-brooklyn, (347) 934-8335, GBP Brooklyn (1282 Troy Ave, #brooklyn). Prices: Brooklyn hub list ×1.00 only. Builder working files: /tmp/batch-research/cg-build/ (data.py, part1–4.html, build.py) — can be deleted.
+
+**Thesis:** "Thirty-three feet of garden" — on the 1846 Richard Butt blocks the house sits behind a front garden that the City Map counts as part of the street. The alarm perimeter goes on the house shell, not the fence; the gate gets a chime/notify-only zone; the parlor windows and under-stoop door that the garden screens from the sidewalk are treated as exposed (contacts, glass-break, shock sensors for the lock-breaking pattern of 2015); doorbell/keypad station goes on the gate post (Wi-Fi measured or conduit under the path); alarm-linked garden/stoop lighting; rear AC-unit windows and double yard doors; Court Street food shops (coolers) and late-closing Smith Street restaurants.
+
+### Silo-wide sources reused (from research/alarm-installation.md, not re-fetched)
+| # | Source | URL | Finding | Used |
+|---|---|---|---|---|
+| S1 | NYC Admin Code §24-238 | https://nycadmincode.readthedocs.io/t24/c02/sch06/ | Building burglar alarm must auto-terminate within 15 min | Commercial §8.5, Q&A siren, AI check #7, Field Notes |
+| S2 | NYS DOS installer licence | https://dos.ny.gov/get-security-or-fire-alarm-installer-license | GBL Art. 6-D licence, education, exam, fingerprinting | §8.5, AI check #6 |
+| S3 | HPD detectors | https://www.nyc.gov/site/hpd/services-and-information/detectors.page | Owner provides smoke/CO in rental units | §8.5 |
+| S4 | FDNY fire alarm tips | https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf | Fire alarm systems separate, licensed, acceptance test | §8.5 |
+| S5 | HomeAdvisor | https://www.homeadvisor.com/cost/safety-and-security/install-an-alarm-system/ | avg $747, range $55–$2,500 | AI check #2 |
+| S6 | Brooklyn hub prices | repo /alarm-installation-brooklyn | $600 basic; $600–$1,200 wireless; brownstone $2,500–$5,000; hybrid $2,500–$6,000; hardwired $2,000–$6,000; business $1,500–$3,000; CCTV add $1,000–$2,500; panel $800–$1,500; per unit $400–$800; BYOE $200–$400; monitoring from $19.99/mo; $195/hr 3-hr min; tax 8.875%; <$500 upfront, >$500 50% | Pricing, packages, FAQ 1, Service schema. Hub "$25–$100 permit" NOT used |
+| S7 | Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env) | AI check states it quotes no AI Overview |
+
+### Local research (Carroll Gardens)
+| # | Exact query / action | Platform | URL | Finding | Page + section |
+|---|---|---|---|---|---|
+| L1 | (fetch) Carroll Gardens, Brooklyn | WebFetch | https://en.wikipedia.org/wiki/Carroll_Gardens,_Brooklyn | ~40 blocks; bounds Degraw/Warren, Hoyt/Smith, 9th St/Gowanus Expwy, I-278; named for Charles Carroll; 1846 Richard Butt gardens; 1846 law 33 ft 5.25 in courtyards Henry–Smith; Carroll Park (Court/Smith/Carroll/President, city bought 1853, 3rd-oldest); boom late 1860s–early 1880s; HD 1973; John Rankin House 440 Clinton (c.1840, NYCL 1970, NR 1978); South Congregational 358–366 Court (1851/1857, NYCL 1982); St. Mary Star of the Sea Court St 1853 Keely (address 471 vs 467 conflict — page gives no number); Dennett Place mews Luquer–Nelson; library 396 Clinton, Carnegie 1905 Tubby; ZIP 11231; CD6; 76th Pct 191 Union St, 37th safest of 69 (2010), crime −83.1% 1990–2018; F/G Carroll St & Smith–9th Sts | §5, facts list, §7, §13, Sources |
+| L2 | "Carroll Gardens "First Place" "Second Place" front gardens Richard Butt courtyards history" | WebSearch | https://untappedcities.com/2022/01/04/secrets-carroll-gardens-brooklyn/2/ ; https://en.wikipedia.org/wiki/Carroll_Gardens_Historic_District | Places First–Fourth with 33.5-ft yards; Union/President/Carroll/Second yards 25–39 ft (search excerpt of LPC report); HD Sept 25 1973, 134 rowhouses | §5, §7 cards |
+| L3 | (fetch) LPC report PDF | WebFetch | https://architecturaltrust.org/wp-content/uploads/2013/06/Report_LPC_Carroll_Gardens.pdf | EMPTY (scanned image PDF, not readable) | — |
+| L4 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Carroll_Gardens_Historic_District | NYCL 9/25/1973, NRHP 9/26/1983, 134 rowhouses, 12 acres, 1869–1884, late Italianate/neo-Grec, uniform setbacks, fenced landscaped front yards | §5, §7, §13, AI check #3 |
+| L5 | "Carroll Gardens front yards courtyards city-owned 2008 zoning text amendment First Place Second Place developer" | WebSearch → WebFetch + pdftotext | https://www.nyc.gov/assets/planning/download/pdf/plans/carroll-gardens/carroll_gardens.pdf | DCP: mapped widths 100–130 ft include deep front yards; actual sidewalk+roadway ~50 ft; applies to 1st–4th Place (Henry–Smith) and 2nd/Carroll/President (Smith–Hoyt); 3–4-story single/multi-family rowhouses, few 5-story; NYC Transit lots by F/G below and along Smith St; R6 with C1-3/C2-3 overlays on Court & Smith; Carroll & President Smith–Hoyt in HD; Brooklyn Law of 1846 33 ft 5¼ in; adopted July 23 2008 | Hero, §5, facts, thesis section, §8, Q&A (City Map question), §13, AI check #3 |
+| L6 | (fetch) | WebFetch | https://citylandnyc.org/text-change-approved-protecting-carroll-gardens | Council 45-0-1 on July 23 2008; CB6 20-7-7; "deep, landscaped front yards"; 360 Smith St exemption request denied | Facts list, Sources |
+| L7 | (search result only) | WebSearch | https://www.nyc.gov/assets/bsa/downloads/pdf/decisions/202-08-BZY.pdf | Summary: Second Place gardens "on land claimed to be City-owned" — NOT opened directly | Thesis section, Q&A (worded as a claim in a filing; no legal conclusion) — FLAG |
+| L8 | (fetch) | WebFetch | https://www.cityneighborhoods.nyc/carroll-gardens | Gardens ~33–45 ft, wrought-iron fences, linden/maple/plane trees; Court St pork stores/pastry; Smith St dining since 1990s; tenements toward Hoyt/Bond. (Its boundaries and some dates conflict with Wikipedia — only garden/fence/street-character facts used) | §5, §7, §8 |
+| L9 | "Carroll Gardens burglary 76th Precinct brownstone break-in Brooklyn Paper" → (fetch) | WebSearch → WebFetch | https://www.brooklynpaper.com/cops-see-dormant-burglary-spike | Nov 17 2008: 97 vs 78 burglaries YTD (+24.3%), centered in Carroll Gardens, mostly 8 a.m.–5 p.m., some windows unlocked; DI Kemper "not a very sophisticated type of burglary", lock windows not just close | §5, facts, Q&A unlatched windows, AI check #5 |
+| L10 | (fetch) | WebFetch | https://www.dnainfo.com/new-york/20150812/carroll-gardens/string-of-burglaries-hit-carroll-gardens-cobble-hill-homes-police-say.amp | Aug 12 2015: ≥7 burglaries Aug 1–7; +61.7% (76 vs 47) Jan–Aug 2; most broken door lock while away; 300-blk Smith back door that doesn't lock; Union St AC removed from rear window near fire escape; Dennett Place crowbar | §5, facts, thesis, Q&A (shock sensors, AC window, unlocked door), AI check #5 |
+| L11 | (fetch) | WebFetch | https://www.cbsnews.com/newyork/news/carroll-gardens-burglary/ | Sept 2015: daytime apartment burglary, 76th burglaries up ~80% YTD | Sources only |
+| L12 | "reddit Carroll Gardens break in OR burglary OR alarm brownstone" → (fetch) | WebSearch → WebFetch | https://brooklyn.news12.com/man-breaks-into-womans-carroll-gardens-home | Feb 26 2026 ~1:30 a.m. break-in while resident asleep (suspect name omitted) | §5 |
+| L13 | (fetch) | WebFetch | https://patch.com/new-york/carrollgardens/womans-apartment-burglarized-while-she-slept | Aug 8 2011 Sackett St (Hoyt–Smith) first-floor street-facing apt via open window (Baltic St item is Cobble Hill — not used) | §5 |
+| L14 | (fetch) | WebFetch | https://www.brooklynpaper.com/76th-precinct-home-invader-burglary-union/ | Oct 28 2020: Union St (Clinton–Court) basement apartment in multi-family burglarized Oct 21–25 | §5 |
+| L15 | "Carroll Gardens front yard package theft OR gate OR stoop thief Patch Brooklyn 2025" → (fetch) | WebSearch → WebFetch | https://www.brooklynpaper.com/punk-steals-highchair-from-third-place-stoop | May 8 2019: highchair from a stoop near Court St; bike Court St between Carroll & First Place | §5, Q&A bikes |
+| L16 | (fetch) | WebFetch | https://www.dnainfo.com/new-york/20150915/carroll-gardens/crime-blotter-thief-removes-bannister-steal-bicycle-carroll-gardens.amp | Sept 15 2015: 200-blk Smith St vestibule bike chained to banister, part of banister removed | §5, §8, Q&A bikes |
+| L17 | (fetch) | WebFetch | https://www.brooklynpaper.com/snake-swipes-security-camera-off-henry-street-house | June 27 2018: bike from in front of a house Union St (Henry–Clinton). Camera theft item was Henry St near Atlantic (Cobble Hill) — NOT used | §5, Q&A bikes |
+| L18 | NYPD 76th Precinct page | WebFetch | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page | 191 Union St; covers Carroll Gardens, Red Hook, Cobble Hill, parts of Gowanus, Columbia St Waterfront (phone numbers not put on page) | Sources |
+| L19 | "Court Street Carroll Gardens shops Caputo's Esposito pork store Court Pastry history merchants" → (fetch) | WebSearch → WebFetch | https://www.bkmag.com/2014/03/12/a-guide-to-court-street-brooklyn-heights-cobble-hill-and-carroll-gardens/3/ | 2014: Caputo's Bake Shop 1904 Sackett–Union; D'Amico Foods since 1948 at Degraw; social club at 4th Place; restaurants 4th–5th Place; Hamilton Savings Bank bldg Luquer–Nelson (current status of shops not verified — page says "2014 guide named") | §8 |
+| L20 | (fetch) | WebFetch | https://brooklyndowntownstar.com/lead_story/2023/04/05/g-esposito-sons-pork-store-to-close/ | Esposito founded 1922 Columbia & Union, moved to Court St 1977, closed April 10 2023, no buyer | §8 |
+| L21 | (fetch) | WebFetch | https://brooklyneagle.com/articles/2023/04/11/after-100-years-brooklyn-pork-store-esposito-sons-closes-its-doors/ | EMPTY (403) | — |
+| L22 | "Smith-Ninth Streets station Culver Viaduct highest subway station Carroll Gardens" | WebSearch | https://en.wikipedia.org/wiki/Smith%E2%80%93Ninth_Streets_station | 87.5 ft, highest in system; Wikipedia places it in Gowanus over the canal (page says "rides high over the Gowanus Canal", at the neighborhood's end) | §13 |
+| L23 | Carroll Park history | WebFetch | https://www.nycgovparks.org/parks/carroll-park/history | EMPTY (403) — Carroll Park facts from L1 | — |
+| L24 | "r/carrollgardens package stolen front gate OR break-in OR security camera" | WebSearch | — | Reddit: EMPTY (no threads returned; Reddit not indexed by tool) | Sources note |
+| L25 | "Carroll Gardens burglary 2024 OR 2025 OR 2026 Court Street OR Smith Street store break-in" | WebSearch | — | EMPTY for 2024–2026 commercial burglaries (only older blotters) | — |
+
+### Unsourced / general practice (labelled as practice on page)
+Field Notes is a description of method ("not a story about any particular customer or house"). Wi-Fi reach from gate, shock-sensor tuning, detector choice near coolers, conduit advice = general installer practice. Gate devices / conduit / lighting not priced (itemized on quote) — no invented prices.
+
+### Question register — alarm-installation-carroll-gardens-brooklyn-ny
+§9 Questions Answered (H3):
+1. Our brownstone sits more than thirty feet back behind its front garden. Should the alarm begin at the iron gate or at the house?
+2. Can a contact on the garden gate chime inside the house without ever setting off the siren?
+3. The garden hides the front of our house from the sidewalk. Which front openings does that make most important?
+4. Our video doorbell is at the parlor door, but visitors stand at the gate thirty feet away. Where should the doorbell go, and how does it reach the house?
+5. Will anyone outside even hear an indoor siren from a house set back that far from the sidewalk?
+6. Should the alarm switch on the garden and stoop lights when it trips?
+7. In the 2015 burglaries most thieves started by breaking a door lock. Can the alarm react while someone is still prying at the door, before it opens?
+8. How long should the entry delay be at our front door, and should the garden-floor door get a shorter one?
+9. Our windows are usually shut but not always latched. Will a window contact notice a window that is closed but unlocked?
+10. In 2015 a burglar on Union Street pulled an air conditioner out of a rear window to get in. How do you protect a window that holds an AC unit?
+11. Our garden-floor kitchen opens onto the back yard through a pair of glass doors, one of them usually bolted. Does each leaf need its own sensor?
+12. Can the alarm tell us that a door has been left unlocked, not just open?
+13. Bikes and strollers stay in our front garden or the vestibule. Can the alarm watch them?
+14. The City Map counts our front garden as part of the street. Does that limit what can be mounted on the fence or in the garden?
+15. Our Court Street food shop has walk-in coolers and a basement prep room. Will the compressors and cold air confuse motion detectors?
+16. Our Smith Street restaurant closes after midnight and the last person leaves through the back. Can the alarm be armed at the back door without walking past the dining-room sensors?
+
+§17 FAQ (= FAQPage schema, 10):
+1. What does an alarm for a Carroll Gardens brownstone cost at your Brooklyn rate, and what makes the number go up?
+2. If we start with the house only, can a contact on the garden gate be added later?
+3. Will your crew need to work in the front garden, and how are the plantings protected?
+4. Can the video doorbell at the gate and the alarm run in one app?
+5. Can the app name each sensor, so an alert says garden gate or under-stoop door instead of a zone number?
+6. What happens if the gardener or a contractor leaves the gate open all afternoon?
+7. Do devices mounted outdoors at the gate survive Brooklyn winters, snow and de-icing salt?
+8. Can unlocking a smart lock on the parlor door disarm the alarm automatically, and should it?
+9. We are redoing the front garden path anyway. Should we run a conduit to the gate while it is open?
+10. Is an alarm worth having if someone is home most of the time and the house is rarely empty?
+
+Other headings with '?' mid-text (not ending in '?'): none end in '?'. Repair headings: "Gate Chime Stuck, Keypad Beeping or a Zone That Won’t Clear: Same-Day Repair in Carroll Gardens"; "Gate Chiming Nonstop or a Door Zone Faulting? Call the Carroll Gardens Line".
+
+### Images (11, permanent image rule; all in /images/alarm-installation/, WebP q80 via ImageMagick — Pillow is NOT installed in this env)
+1. alarm-installation-carroll-gardens-motion-sensor-below-corner-dome-camera.webp ← images/dvr-upgrade/dvr-upgrade-brooklyn-white-dome-in-corner-above-motion-sensor.webp (job photo; hero, eager)
+2. alarm-installation-carroll-gardens-ceiling-camera-over-corridor-to-grey-steel-door.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-bullet-camera-watching-corridor-to-steel-door.webp (job photo)
+3. alarm-installation-carroll-gardens-blue-and-white-cable-runs-above-equipment-rack.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-queens-cable-bundles-above-equipment-rack.webp (job photo)
+4. alarm-installation-carroll-gardens-akuvox-keypad-door-station-product-photo.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-nassau-county-keypad-door-station-with-camera-product-photo.webp (manufacturer, resized 600w)
+5. alarm-installation-carroll-gardens-wall-motion-sensor-under-camera-above-drop-ceiling.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-queens-bullet-camera-high-on-white-wall-above-drop-ceiling.webp (job photo)
+6. alarm-installation-carroll-gardens-night-recorder-view-of-back-storeroom-doorway.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-dutchess-county-night-view-of-dim-back-storeroom.webp (job screen image)
+7. alarm-installation-carroll-gardens-google-nest-green-video-doorbell-product-photo.webp ← images/wireless-camera-installation/wireless-camera-installation-hudson-valley-google-nest-green-video-doorbell-product-photo.webp (manufacturer)
+8. alarm-installation-carroll-gardens-lorex-twin-panel-floodlight-camera-product-photo.webp ← images/wireless-camera-installation/wireless-camera-installation-hudson-valley-lorex-twin-panel-floodlight-camera-product-photo.webp (manufacturer)
+9. alarm-installation-carroll-gardens-high-ceiling-with-mezzanine-windows-and-exit-signs.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-queens-high-ceiling-and-mezzanine-windows-with-wall-camera.webp (job photo)
+10. alarm-installation-carroll-gardens-shop-ceiling-grid-with-speaker-and-small-dome.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-manhattan-drop-ceiling-cameras-over-stocked-shelves.webp (job photo, cropped to ceiling — shelves/wall papers removed)
+11. alarm-installation-carroll-gardens-recorder-view-along-brick-wall-and-paved-walk.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-dutchess-county-yard-camera-view-along-brick-wall.webp (job screen image; scene resembles crops used on Boerum Hill/Brooklyn Heights)
+
+### Flags for Anwar
+- Main-run wiring still needed: `_redirects` lacks the `/alarm-installation-carroll-gardens-brooklyn-ny /…html 200` rule (check fails on it), and the 15 non-Brooklyn alarm area/hub pages need a back-link (the existing rebuilt-neighborhoods blocks).
+- BSA 202-08-BZY "land claimed to be City-owned" seen only in a search summary, not opened; page words it as a claim in a filing with no legal conclusion.
+- Court Street shop names come from a 2014 guide (current status not verified); Esposito closure 2023 verified.
+- Smith–Ninth Streets station is in Gowanus per Wikipedia; page only says it is at the neighborhood's end over the canal.
+- No real alarm hardware photos (panels, keypads, contacts) in the library; images are camera-job reference photos + 3 manufacturer shots.
+- Pillow is not installed in this environment (brief said it was); conversions done with ImageMagick `convert`.
+
+
+## Cobble Hill, Brooklyn: /alarm-installation-cobble-hill-brooklyn-ny (REBUILD, 2026-10-21)
+
+Phone (347) 934-8335 · GBP Brooklyn, 1282 Troy Ave (#brooklyn) · up-link /alarm-installation-brooklyn · prices at Brooklyn 1.00× from alarm-installation-brooklyn.html.
+check_page.py (full, with registration, after main-run wiring): **PASS**. 13,465 words, 201,361 bytes, title 42, meta 158, 11 figures, 6 JSON-LD blocks, FAQ 10 = schema 10, 2 forms.
+
+**Thesis: "Shared ground."** Much of Cobble Hill's housing has doors and windows that face shared or semi-public space: the Warren Place mews (34 cottages around a gated garden), the Tower and Home Buildings' courtyards with exterior stairs and open balconies, Verandah Place (a 20-ft former stable lane), and block-interior gardens. The alarm is designed envelope-first: a contact on every reachable opening, acoustic glass-break on large glass, interior-only motion, cameras that record but don't trigger, indoor siren, phone alert before siren and station call, and nothing fixed to common property. Also covers the River Park condos on the former LICH site, living beside construction (vibration, dust), and shops on Court St, Smith St and Atlantic Ave (delivery codes, shared cellar walls).
+
+## Research matrix
+
+| # | Exact query / action | Platform | URL | Finding | Page + section |
+|---|---|---|---|---|---|
+| L1 | (direct fetch) | WebFetch | https://en.wikipedia.org/wiki/Cobble_Hill,_Brooklyn | About 40 blocks. Boundaries: Atlantic, Court, Degraw, BQE (optional rectangle Wyckoff/Hoyt/Degraw/Court). CD6. ZIPs 11201 and 11231. 76th Pct at 191 Union St. 1834 city expansion, 1836 South Ferry, rowhouses c.1835–1860, name adopted 1959. Historic district Dec 20 1969, extended Jun 7 1988, about 22 blocks, NRHP 1976. Cobble Hill Park on Clinton between Verandah Pl and Congress: land bought 1963, park 1965, rebuilt 1989. LICH founded 1857, closed Aug 2014. 130 Court St built 1922. DeGraw Mansion 1845, tower 1891. Old St Paul's c.1838. Christ Church 1840–41. Kane St Synagogue at 236 Kane, "oldest continuously operating synagogue in Brooklyn". Court and Smith are the commercial streets; northern Smith is "Restaurant Row"; Atlantic has Middle Eastern shops. F/G at Bergen St. Buses B61, B63, B57. | §5 paras 1–2, 5; facts list; §8; §13 cards + transit para; Sources |
+| L2 | Cobble Hill Historic District designated 1969 Landmarks Preservation Commission | WebSearch | https://en.wikipedia.org/wiki/Cobble_Hill_Historic_District ; https://s-media.nyc.gov/agencies/lpc/lp/1554.pdf | Date conflict: Dec 20 vs Dec 30, 1969 (the designation report is dated Dec 30). 1988 extension covered 350–356 Henry St (Polhemus Building). | §5 para 2 (both dates given), §7.5 historic district rules |
+| L3 | Warren Place mews Cobble Hill Workingmen's Cottages Alfred Tredway White Home Buildings Tower Buildings | WebSearch | (results incl. sah-archipedia: 403, not read) | Date conflicts for the cottages: 1876 vs 1878–79. | Page gives "late 1870s" |
+| L4 | (fetch) | WebFetch | https://cobblehill.nyc/knowledge_base/the-tower-and-home-buildings-cobble-hill-towers/ | Home Buildings 1876–77 at Hicks and Baltic, around an L-shaped courtyard. Tower Buildings 1878–79 on Hicks between Warren and Baltic, around a U-shaped courtyard. "Distinctive exterior staircases and open balconies" for light, air and fire safety. Cottages 1878–79; their rears enclose the Tower courtyard. Condo conversion plan. | §5 para 3, facts, §7 cards, Q&A gallery cluster, §13 |
+| L5 | (fetch) | WebFetch | https://www.6sqft.com/former-workmans-cottage-in-the-warren-place-mews-now-asks-4900-a-month/ | Feb 16 2016: 34 Gothic cottages sharing an English courtyard; about 12.5 ft wide and 32 ft deep; mews "closed off ... by a gate". | Hero, §5, facts, §7, Q&A mews cluster, §13 |
+| L6 | (fetch) | WebFetch | https://untappedcities.com/2022/01/12/secrets-cobble-hill-brooklyn/2/ | White's two projects; Warren Place a one-block mews Warren–Baltic around a private courtyard, late 1870s. | §5, Sources |
+| L7 | Verandah Place Cobble Hill carriage houses mews history → (fetch) | WebSearch → WebFetch | https://untappedcities.com/2022/01/12/secrets-cobble-hill-brooklyn/10/ | 20 ft wide; some houses "originally built as stables"; some built as workers' homes; 15-ft wall on the north side historically; next to Cobble Hill Park. Same source: Trader Joe's moved in 2008; Staubitz Market since 1917; Kane St building since 1905; DeGraw Mansion elevator. | §5, facts, §7 lane houses, Q&A carriage doors, §8, §13 |
+| L8 | River Park Cobble Hill former Long Island College Hospital site Fortis condos completed 2025 → (fetch) | WebSearch → WebFetch | https://www.star-revue.com/river-park-story-by-brian-abate/ | Dec 12 2022: 5 River Park, 347 Henry St, 15 storeys, 25 condos, complete. Says LICH "opened 1860" (conflicts with Wikipedia's founding date of 1857; the page uses "founded in 1857"). | §5 para 5, facts, §7, Q&A condo cluster, §13 |
+| L9 | (fetch) | WebFetch | https://www.brooklynpaper.com/medical-facility-starts-to-rise-on-former-long-island-college-hospital-site-in-cobble-hill | Jul 6 2021: NYU Langone building at 339 Hicks St / 70 Atlantic Ave (bought Mar 2020, $10.1M); 1 River Park at 350 Hicks St (20 storeys); 2 River Park at 91 Pacific St (28 storeys); 3 and 4 River Park in a later phase. | §5 para 5, AI check, construction prose |
+| L10 | "River Park" Cobble Hill Fortis 2025 OR 2026 tower ... → (fetch) | WebSearch → WebFetch | https://commercialobserver.com/2017/09/madison-realty-provides-297m-construction-loan-for-brooklyn-mixed-use-project | Sep 12 2017: $297M loan; 172 condos; 328 parking spaces; gives 2 River Park as 95 Pacific St (conflicts with 91). No 2025–26 status found. | Sources only (page names no street number on Pacific) |
+| L11 | Cobble Hill burglary 76th Precinct break-in Brooklyn Paper → (fetch) | WebSearch → WebFetch | https://www.dnainfo.com/new-york/20150812/carroll-gardens/string-of-burglaries-hit-carroll-gardens-cobble-hill-homes-police-say.amp | Aug 1–7 2015, 76th Pct: unlocked rear door on the 300 block of Smith St; broken lock on the 200 block of Baltic St; basement break-in on Huntington St; AC removed from a rear window on Union St; 400 block of Hicks St. 76 burglaries Jan 1–Aug 2 vs 47. | §5 para 4, facts, Q&A air-conditioner, §8 |
+| L12 | Cobble Hill brownstone burglars rear window ... → (fetch) | WebSearch → WebFetch | https://cobblehill.nyc/update-from-the-76th-precinct/ | Apr 30 2015: an arrested burglar said Carroll Gardens and Cobble Hill were "easy targets" because "many residents are known to leave their doors unlocked". | §5 para 4, Shared Ground rule 3 |
+| L13 | (fetch) | WebFetch | https://www.brooklynpaper.com/cops-hunt-baltic-street-screwdriver-burglar | Feb 19 2013 article: on Jan 24, on Baltic between Smith and Hoyt, a building front door was jimmied with a screwdriver and a package taken from the hallway. | §5 para 4 |
+| L14 | Court Street Cobble Hill store burglary smashed door overnight 2024 OR 2025 → (fetch) | WebSearch → WebFetch | https://www.dnainfo.com/new-york/20121219/cobble-hill/pricey-baubles-snatched-during-jewelry-store-burglary-police-say/slideshow/319937 | Dec 2012: Court St jewellery boutique hit about 6 a.m.; gate damaged, glass door shattered. No 2024–25 incident found. | §8 para 2 (store not named) |
+| L15 | (fetch) | WebFetch | https://nycitylens.com/park-slope-cobble-hill-burglar-breaking-doors/ | Feb 2020 series: mostly Park Slope; one at Smith and Degraw. | Not used |
+| L16 | Sahadi's Atlantic Avenue history founded 1948 Middle Eastern shops Cobble Hill | WebSearch | https://www.6sqft.com/brooklyn-icon-sahadis-recognized-by-the-state-as-a-historic-business/ ; https://citylore.org/places/sahadis/ | Moved to Atlantic Ave in 1948. Founding year conflicts (1895 vs 1941); the page uses only the 1948 move. | §8 para 1 |
+| L17 | Cobble Hill Association garden apartments ... Strong Place Tiffany Place | WebSearch | listing pages only | Real-estate listings only; not used as fact. | Not used |
+| L18 | NYS installer licensing | prior silo research (research/alarm-installation.md), URL reused | https://dos.ny.gov/get-security-or-fire-alarm-installer-license | GBL Art. 6-D licence for anyone in the business of installing, servicing or maintaining security or fire alarm systems. | §8.5, AI check #7 |
+| P1 | Prices | repo file | alarm-installation-brooklyn.html | From $600 basic; $600–$1,200 wireless with 4–6 sensors; from $2,500 complete home; $2,500–$5,000 brownstone; $2,000–$6,000 hardwired; $1,500–$3,000 / from $1,500 commercial; $1,000–$2,500 cameras; $800–$1,500 panel replacement; $200–$400 BYOE; from $19.99/mo; 8.875% tax; deposit rules. $195/hr with 3-hr minimum per blueprint §9. Hub's "$25–$100 permit" claim NOT repeated. | §14, §15, FAQ 1, comparison table, Service schema |
+
+### EMPTY
+- Google PAA, PASF, AI Overview: EMPTY (not accessible in build env). The AI Reality Check says so on-page and quotes no AI text.
+- Answer the Public, Bing/DDG suggestions, Yelp 1–3★: EMPTY (not accessible in build env).
+- Reddit ("reddit Cobble Hill break in package theft garden apartment safety"): EMPTY. No threads were returned.
+- Patch / BKReader / Brownstoner Cobble Hill alarm items: EMPTY (none found). No 2023–2026 Cobble Hill burglary reporting found.
+- sah-archipedia.org Warren Mews: EMPTY (403). Brooklyn Eagle 2017 River Park article: EMPTY (403).
+- River Park 2025–26 construction status: EMPTY. The page says only "taller towers planned".
+- Field Notes are written as general method ("not a story about any customer"). No anecdote was sourced.
+
+## Question register
+
+### §9 Questions Answered (H3)
+1. Our cottage faces a gated garden that thirty-odd neighbours walk through. Is an outdoor motion sensor ever usable there?
+2. Should a house on a shared garden have a siren at all, or only a silent alert to our phones?
+3. Can our alarm watch the mews gate, or does that need every other owner's agreement?
+4. Our apartment door opens onto an open-air balcony instead of an indoor hallway. Does the door contact need to be different?
+5. Our flat has windows on both the street and the courtyard. Which side needs more protection?
+6. Our former stable still has a pair of wide carriage doors onto the lane. How is an opening like that alarmed?
+7. Our garden apartment has a wall of glass doors onto a garden that touches four others. What protects glass like that best?
+8. We run a window air conditioner in a rear window all summer. How is that opening protected?
+9. The developer of our new River Park unit left wiring in the walls. Can it become a working alarm?
+10. Our building has a front desk and cameras in the lobby. Does a condo unit still need its own alarm?
+11. Our unit is high up with floor-to-ceiling glass and a terrace. What is worth protecting so far above the street?
+12. Construction next door shakes our rowhouse. Will the vibration trip shock or glass-break sensors?
+13. Dust from the work next door keeps setting off our monitored smoke detector. What can be changed?
+14. Our Atlantic Avenue grocery takes deliveries before dawn. How does the delivery crew get in without the master code?
+15. Our cellar stockroom shares a wall with the shop next door. Can the alarm notice someone breaking through the wall instead of a door?
+16. Can a smart lock and the alarm work together so the door locks itself when we arm?
+
+### §17 FAQ (= FAQPage, 10)
+1. What would a contacts-and-motion system for a narrow mews cottage cost on your Brooklyn list?
+2. How do we test the alarm ourselves without the police or the monitoring station reacting?
+3. Can a dog walker or cleaner get a code that only works at certain hours?
+4. Do wireless sensor batteries need replacing, and will the system warn us before one dies?
+5. Can the app show which door or window was opened by name?
+6. Is a pet door in our garden door a weak point for the alarm?
+7. Does an alarm panel need its own electrical outlet?
+8. Can we keep our existing Ring cameras when you install a monitored alarm?
+9. How soon after we accept the quote can installation start?
+10. Do you give us an alarm certificate our insurer can file?
+
+No other headings on the page end in "?". The comparison heading was renamed to avoid an exact duplicate of "ADT, Ring or SimpliSafe, or a local installer?".
+
+## Images (11, in images/alarm-installation/, prefix alarm-installation-cobble-hill-)
+Converted with ImageMagick `convert`, q80, crops checked visually. No faces, plates, readable documents or house numbers. No AI images. The commercial-security/ and buzzer-repair/ folders were checked and rejected as AI-generated.
+1. white-dome-camera-on-drop-ceiling-above-window-wall.webp ← images/rockland-toyota-office-camera.jpeg (top 58% crop; eager, hero)
+2. camera-on-steel-arm-below-stone-facade-windows.webp ← images/manhattan-deli-exterior.jpeg (228×380 top-left crop; sign and street number excluded)
+3. recorder-monitor-camera-grid-under-cable-bundles.webp ← images/rockland-toyota-nvr-monitor.jpeg
+4. ring-video-doorbell-product-photo.webp ← images/wireless-camera-installation/wireless-camera-installation-hudson-valley-ring-video-doorbell-satin-faceplate-product-photo.webp (manufacturer)
+5. small-cameras-high-on-wall-below-mezzanine-windows.webp ← images/security-camera-maintenance/security-camera-maintenance-bronx-cameras-high-on-wall-below-mezzanine.webp
+6. ceiling-mounted-bullet-camera-over-plain-white-wall.webp ← images/rockland-toyota-ceiling-bullet.jpeg (top 78%)
+7. four-view-recorder-screen-of-doors-and-yard.webp ← images/nassau-window-depot-monitor.jpeg (flag cropped out)
+8. akuvox-video-door-station-product-photo.webp ← images/akuvox-video-door-station.webp (manufacturer)
+9. ceiling-grid-and-upper-windows-over-open-floor.webp ← images/rockland-toyota-showroom.jpeg (ceiling crop; signage and people excluded)
+10. ceiling-grid-with-red-exit-sign-and-small-camera.webp ← images/rockland-toyota-active-deterrent.jpeg (ceiling crop; mural excluded)
+11. dome-camera-in-ceiling-corner-above-dark-wall-screen.webp ← images/rockland-toyota-dome-camera.jpeg (right crop; logo excluded)
+
+None of the 11 source files was used by the six earlier rebuilt alarm pages. Bath Beach used other files from the rockland-toyota, manhattan-deli and nassau-window-depot sets. The pool of real alarm-relevant job photos is very small, and no genuine alarm panel or keypad photos exist in the library.
+
+## Flags for Anwar
+- **Pillow is not installed** in the build environment, despite the brief. Images were converted with ImageMagick instead (nothing was installed).
+- The source library has no real alarm panel, keypad or contact photos. Real alarm job photos are needed to replace these reuses.
+- Source dates disagree in three places: Historic District designation (Dec 20 vs Dec 30, 1969; the page states both), LICH (founded 1857 vs "opened 1860"; the page uses 1857), and the 2 River Park address (91 vs 95 Pacific St; not stated on the page).
+- The hub's unverified "$25–$100 NYC alarm permit" claim was not repeated (same flag as earlier pages).
+- I could not finish a full masked-geo paragraph similarity scan: the run was stopped by the coordinator. The text was written from scratch (no template reuse), and check_page reports no duplicated questions or FAQ answers across the 161 siblings. The main run should run its batch similarity check.
+- The build helper files /tmp/batch-research/build_cobble.py and cobble-body.html are left in place, inside the allowed directory.
+
+
+## Research — alarm-installation-coney-island-brooklyn-ny (REBUILD, 2026-10-21)
+
+Builder: parallel subagent (batch with Carroll Gardens and Cobble Hill). Silo: Alarm Installation. Up-link /alarm-installation-brooklyn. Phone (347) 934-8335. GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing ×1.00 from alarm-installation-brooklyn.html only. Old template text not reused.
+
+**Thesis:** "Six months open, six months shut." Coney Island's amusement strip (boardwalk, West 12th St, the Bowery, Stillwell Ave) runs roughly Palm Sunday to fall and then sits shuttered for months. The alarm is designed for the closed season: supervision of wireless devices, periodic test signals, power-loss/low-temperature/water alerts, a winter call list, roll-up shutter + roof-hatch + service-door contacts, metal-building signal testing, corrosion-conscious hardware for salt air and sand (siren indoors, sealed housings, stainless fixings), and closing/opening seasonal visits. Year-round shops (Mermaid/Neptune/Surf) and towers (NYCHA, 1960s co-ops, new Surf Ave rentals) get schedule-by-season, area partitions and A/C-opening protection. Deliberately different from Brighton Beach's "above the waterline, under the el" thesis (flood-line panel placement / water sensors / el vibration are only mentioned in passing).
+
+Format: exact query · platform · URL · finding · page + section used.
+
+## Silo-wide (re-used / re-checked for this page)
+
+| # | Exact query | Platform | URL | Finding | Used |
+|---|---|---|---|---|---|
+| S1 | (repo file) | internal | /alarm-installation-brooklyn (alarm-installation-brooklyn.html) | Basic Residential from $600 (panel, 4–6 sensors, 1 motion, keypad, cellular communicator); wireless $600–$1,200 all-in; Complete Home from $2,500 (10–15 sensors, 3–4 motion, 2 glass-break, smoke+CO, sirens); Commercial from $1,500 (8–12 sensors…); small business $1,500–$3,000; hardwired $2,000–$6,000; CCTV add $1,000–$2,500; panel replacement $800–$1,500; per unit $400–$800; BYOE $200–$400; monitoring from $19.99/mo, no long-term contracts; tax 8.875%; <$500 upfront, >$500 50% deposit. Hub's "$25–$100 NYC alarm permit" claim NOT repeated. $195/hr 3-hr min from blueprint §9. | Pricing table, Packages, FAQ 1/3, AI check, Service schema |
+| S2 | (from silo research, re-used) | WebFetch (prior builders) | https://dos.ny.gov/get-security-or-fire-alarm-installer-license | NYS DOS licence (GBL Art. 6-D) for anyone installing/servicing alarms for others. | §8.5 compliance, AI check #7 |
+| S3 | (from silo research, re-used) | WebFetch (prior builders) | https://nycadmincode.readthedocs.io/t24/c02/sch06/ | Admin Code §24-238: audible building burglar alarm must be capable of and terminate within 15 minutes. | §8.5 compliance, Equipment (sirens) |
+| S4 | alarm door contact corrosion salt air coastal installation stainless steel overhead door contact NEMA 4X recommendation | WebSearch | https://pv-magazine-usa.com/2026/06/04/salt-does-not-negotiate-a-corrosion-design-framework-for-coastal-pv-and-bess/ | June 4 2026: NEMA 4X can be code-compliant yet wrong for persistent salt; 316 stainless (molybdenum) = marine-grade benchmark; coated plain steel fails once chipped. No alarm-contact-specific source found. | Salt Air & Sand section, AI check #2 |
+| S5 | Google PAA / PASF / Answer the Public / AI Overview / Bing & DDG autocomplete for "alarm installation Coney Island" | — | — | EMPTY (not accessible in build env). AI Reality Check states on-page that claims are generalizations, not quotes. | — |
+| S6 | Yelp 1–3★ alarm companies Coney Island / Brooklyn | — | — | EMPTY (not accessible in build env) | — |
+
+## Coney Island (local)
+
+| # | Exact query | Platform | URL | Finding | Used |
+|---|---|---|---|---|---|
+| L1 | (direct fetch, two passes) | WebFetch | https://en.wikipedia.org/wiki/Coney_Island | Peninsula ~4 mi × 0.5 mi; bounded by Brighton Beach E, Lower NY Bay S/W, Gravesend N, includes Sea Gate; highest point 7 ft; CD13; ZIP 11224; 60th Pct at 2950 W 8th St; Engine 245/Ladder 161 2929 W 8th St, Engine 318/Ladder 166 2510 Neptune Ave; Mermaid/Neptune/Surf = three E–W arteries, W 1st–W 37th; Luna Park new 2010; Wonder Wheel 1920, landmark 1989; Cyclone landmark 1988; boardwalk 1922–23; Maimonides Park (KeySpan) 2001; Aquarium 1957; Coney Island Houses 1957; 1960s co-ops Trump Village, Warbasse, Luna Park; 2009 rezoning 9.4-acre amusement district, 4,500 units; >2,000 units early 2020s; Sandy major damage; 2022 Pct stats (not used). | Neighborhood, facts list, Landmarks, Salt section, Sources |
+| L2 | (direct fetch) | WebFetch | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/60th-precinct.page | 60th Pct covers Coney Island, Brighton Beach, West Brighton, Sea Gate. | Neighborhood |
+| L3 | Coney Island amusement season opening Palm Sunday closing Luna Park Deno's Wonder Wheel 2026 | WebSearch → WebFetch | https://www.brooklynpaper.com/luna-park-denos-wonder-wheel-open-march-2026 | Mar 25 2026: Luna Park opens Sat Mar 28; Cyclone christening Sun Mar 29, Cyclone turns 99; Deno's Blessing of the Rides Mar 29; Luna Fri–Sun through Memorial Day then daily; Deno's weekends & school holidays until Memorial Day. No closing date. | Hero/thesis, Neighborhood, facts, Landmarks, season table, FAQ 2 |
+| L4 | Luna Park Coney Island last day of season 2025 closes for the season Halloween | WebSearch | (results: Wikipedia Luna Park 2010; amusingthezillion tag pages; brooklyneagle 2022) | Snippets only: 2015 last day Nov 1; parks open weekends through October (2022). Not opened directly → NOT used as a fact; page says "after the summer"/"fall". | — |
+| L5 | Coney Island in winter boardwalk shops shuttered off-season businesses closed until spring | WebSearch → WebFetch | https://journalism.blog.brooklyn.edu/2025/12/coney-island-plans-to-stay-awake-all-year-around/ | Dec 18 2025 (Alfonso Abreu, Brooklyn News Service): lines shrink to 3–5 people, hours end by 10 p.m., businesses without a brand name close early or shut down, Ruby's closed for winter; $1B boardwalk project; casino defeated 2025. | Neighborhood para 2, Sources |
+| L6 | (same search) | WebFetch | https://brooklyn.news12.com/coney-island-eyes-offseason-business-improvements-37342928 | Jan 24 2018: only subhead available ("More year-round services"). Body not returned. | Not used beyond context |
+| L7 | Coney Island boardwalk business burglarized off-season winter break-in 60th precinct | WebSearch → WebFetch | https://www.brooklynpaper.com/unlucky-star-for-this-burglarized-boardwalk-boutique | July 22 2010: boardwalk boutique between W 12th St and Stillwell Ave, roll-down door pried open, cash/T-shirts/jewelry, no theft insurance, ~$4,000. (Owner/shop name not used on page.) | Neighborhood para 4, facts list |
+| L8 | (same) | WebFetch | https://www.brooklynpaper.com/police-men-try-to-steal-toys-from-boardwalk-store | June 13 2018: June 8 ~3:10 a.m., amusement-area store on boardwalk near W 12th St, entry through a "security gate", stuffed animals and bouncy balls, three arrested. | Neighborhood para 4, facts list |
+| L9 | (same) | WebFetch | https://www.brooklynpaper.com/plunder-bolt-luna-park-looter-on-the-loose | May 28 2015: purse thefts from cubbies at Luna Park (daytime). | Not used (not an alarm scenario) |
+| L10 | reddit Coney Island apartment break in OR burglary OR package theft building | WebSearch → WebFetch | https://www.brooklynpaper.com/60th-precinct-jewelry-theft-vacant-apartment | Apr 28 2021: Apr 24 ~7 a.m., thieves removed an A/C unit from a side window to enter the maintenance room of a public housing complex on Surf Ave between W 29th and W 32nd Sts, ~$50,000 equipment. (Also Ocean Pkwy vacant-apartment jewelry theft — Brighton side, not used.) | Neighborhood para 5, facts, Q&A (A/C opening) |
+| L11 | Coney Island Hurricane Sandy damage Mermaid Avenue stores Surf Avenue flooding 2012 | WebSearch → WebFetch | https://www.brooklynpaper.com/surf-avenue-businesses-sandy-crippled-us | Nov 7 2012: water through doors and up sewers; Cha Cha's lost refrigerators/kitchen; Gargiulo's 4 ft; Lago Furniture ~$250,000. | Sources (context) |
+| L12 | (same) | WebFetch | https://www.dnainfo.com/new-york/20121031/coney-island/coney-island-turned-into-third-world-country-by-sandy/ | Oct 31 2012: chest-high water in commercial area; 60th Pct HQ flooded, moved to staging area on Mermaid Ave plaza; Surfside Gardens boiler room ≥10 ft water; looting. | Neighborhood para 6 |
+| L13 | (same) | WebFetch | https://amusingthezillion.com/2012/10/31/photo-album-hurricane-sandys-aftermath-in-coney-island/ | Flood line ~5 ft at Surf & Stillwell; amusement area 4–5 ft; water from bay, creek, sewers, tide; boardwalk shops sandbagged; Nov 21 update: boardwalk businesses no structural damage but electrical problems from flooded basements. | Neighborhood para 6, facts, Salt section |
+| L14 | NYCHA developments Coney Island O'Dwyer Gardens Surfside Gardens Carey Gardens Haber Houses Gravesend Houses Sandy repairs boilers | WebSearch | https://www.nyc.gov/assets/nycha/downloads/pdf/coney_island_walkthrough.pdf ; …/coney_island_2024_update.pdf | Snippets: NYCHA investing >$750M at nine Coney Island developments. Both PDFs returned 404 on fetch → NOT used. | — |
+| L15 | Coney Island Houses NYCHA 1957 Surf Avenue units buildings | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Coney_Island_Houses | Five 14-story buildings, W 29th–32nd Sts fronting Surf Ave, 5.52 acres, completed Feb 1957, architect Harry M. Prince; Sandy damage, new boiler plant. | Neighborhood para 5, facts, Building cards |
+| L16 | Coney Island new residential towers Surf Avenue rentals … | WebSearch → WebFetch | https://hoodline.com/2026/06/coney-island-s-final-affordable-high-rise-crashes-the-surf-avenue-skyline/ | June 28 2026: 1709 Surf Ave topped out June 23 2026, BFC Partners, 12 stories, ~420 affordable units, across from Maimonides Park, Phase III of Coney Island West, completion 2028. | Neighborhood para 5, facts, Landmarks (Maimonides card) |
+| L17 | Coney Island casino proposal rejected 2025 | WebSearch | https://www.brooklynpaper.com/cac-officially-rejects-coney-island-casino (and NY1, Brownstoner) | Sept 29 2025 CAC voted 4–2 against The Coney casino. | Not used on page (context only) |
+| L18 | Coney Island Riegelmann Boardwalk reconstruction 2025 NYC Parks plan | WebSearch → WebFetch | https://www.brooklynpaper.com/coney-island-billion-dollar-reconstruction | Dec 9 2025: $1B secured, 2.4-mile boardwalk rebuilt "from piles to topside", funding through 2032, construction years away. (Length conflict: Wikipedia/6sqft 2.7 mi; page uses Brooklyn Paper 2.4 in that card.) edc.nyc release → 403. | Landmarks (boardwalk card) |
+| L19 | Neighborhood 360 Coney Island commercial district needs assessment Mermaid Avenue … | WebSearch | https://a860-gpp.nyc.gov/downloads/zk51vk424?locale=en | Snippet: Jan 31 2018 CDNA with Alliance for Coney Island; Mermaid Ave = primary commercial corridor. PDF fetch 403 → only snippet used for "primary commercial corridor". | Commercial para 1 |
+| L20 | (same search) | WebFetch | https://www.nyc.gov/mayors-office/news/2026/02/mayor-mamdani-creates-new-business-improvement-district-in-coney.html | Feb 15 2026: Coney Island BID certificate signed; Mermaid Ave & Surf Ave storefronts/properties; up to $1M first-year budget; operational by July 2026; sanitation, public space, marketing, business support. | Commercial para 1, FAQ 4, Sources |
+| L21 | (same search) | WebFetch | https://brooklyn.news12.com/study-coney-island-has-business-vacancy-rate-of-nearly-15-41143772 | Oct 4 2019: vacancy "nearly 15%"; owners blame rent, construction, seasonal economy, Sandy. | Commercial para 2 |
+| L22 | (direct fetch) | WebFetch | https://en.wikipedia.org/wiki/New_York_Aquarium | 602 Surf Ave on boardwalk; opened June 6 1957; Sandy severely flooded; Ocean Wonders: Sharks! June 30 2018; WCS. | Landmarks |
+| L23 | (direct fetch) | WebFetch | https://en.wikipedia.org/wiki/Coney_Island%E2%80%93Stillwell_Avenue_station | D/F/N/Q; 8 tracks, 4 platforms; rebuilt 2001–2005 with solar roof; Surf & Stillwell; station house flooded in Sandy. | Landmarks |
+| L24 | site:reddit.com Coney Island living winter quiet boardwalk closed | WebSearch | — | No Reddit results returned. Local Reddit: EMPTY (not accessible in build env / none returned). | — |
+| L25 | Mermaid Avenue Coney Island storefronts businesses 2024 2025 commercial corridor news | WebSearch | (listings, coneyislandhistory.org, amusingthezillion) | No 2024–25 news; not used. | — |
+| L26 | Patch / THE CITY Coney Island alarm or burglary 2025–2026 | — | — | Not found in searches run → EMPTY. | — |
+
+Unsourced material is written as general installer practice (supervision, test signals, closing/opening visits, shutter contact mounting, wireless testing in metal buildings, Field Notes). Field Notes explicitly says it is general practice, not a specific job.
+
+## Question register (this page)
+
+### §9 Questions Answered (H3)
+1. Our arcade shuts after the last fall weekend and reopens for Palm Sunday. How do we know in February that the alarm still works when nobody has been inside since autumn?
+2. On the last day of the season, should everything stay armed, or should parts of the system be switched off?
+3. Our managers scatter after the season. Who should the monitoring station call first when a shuttered stand trips at 3 a.m. in January?
+4. Winter storms shake our metal shutter all night. Will the alarm confuse wind with someone prying it open?
+5. Our game booth is just a counter behind a roll-up shutter, with no door or window. What is there to put a sensor on?
+6. Our ride shed and storage room have sheet-metal walls and a flat roof. Will wireless sensors work in there?
+7. The flat roof over our stand connects to the roofs next door. How do you stop someone walking across and coming in through the hatch or skylight?
+8. Sand blows into everything near the beach. Which kind of contact keeps working when grit builds up in a door threshold or shutter track?
+9. Which screws and brackets should hold sensors on a building a block from the beach?
+10. What does a spring opening check actually look at after a winter by the ocean?
+11. Thieves got into a Surf Avenue maintenance room by pulling out a window air conditioner. How do you alarm an air-conditioner opening?
+12. Our co-op wants alarms on the basement storage cages and the bike room that hundreds of residents use. What works for spaces like that?
+13. We moved into one of the new buildings on Surf Avenue that already has a smart lock and a video intercom. Can an alarm still be added to the apartment?
+14. Our Mermaid Avenue store is open all year, but the block goes quiet once summer ends. Should our arming schedule change with the season?
+15. In July our shop door is open from morning until late at night. Can the alarm protect the back and the cellar while the front is busy?
+16. We run a stand on the boardwalk in summer and live a few blocks away all year. Can one app handle both the apartment and the stand?
+
+### §17 FAQ (= FAQPage, 10)
+1. What does a starter alarm cost for a Coney Island apartment or a small boardwalk stand at the Brooklyn rate?
+2. We only get the keys to our boardwalk concession in March. How soon before opening weekend should the alarm go in?
+3. Can monitoring be paused or reduced for the months a seasonal business is closed?
+4. Does the new Coney Island Business Improvement District change anything about our shop alarm?
+5. Our space on the boardwalk is leased from the city. Do we need anyone's approval before alarm equipment goes up?
+6. We hire about twenty seasonal workers every spring. What is the fastest way to give them codes and remove them all in the fall?
+7. Can the alarm tell us if the electricity to our shuttered stand has been cut off?
+8. How often should sensors on a building near the beach be checked or cleaned?
+9. Can you put an alarm on a storage container or a separate shed behind our stand?
+10. What paperwork do we get after installation for our insurer or landlord?
+
+Other headings with '?': "Shuttered Stand Alarm Tripping, or a Panel Chirping After a Storm? Same-Day Repair in Coney Island"; "Closing for the Winter or Opening in Spring?" (CTA); "Low Battery on a Closed Premises or a Siren on Surf Avenue? Call the Coney Island Line". Comparison heading renamed (no '?') after check_page flagged a duplicate with Boerum Hill.
+
+## Images (11, /images/alarm-installation/, WebP q80 via ImageMagick — Pillow is NOT installed in this env)
+All viewed before use; no faces, plates, house numbers or readable documents (corridor photo cropped to remove a readable advertising poster). 9 AESS job-library photos + 2 manufacturer product photos; captions say "not taken in Coney Island".
+1. alarm-installation-coney-island-dome-under-yellow-fascia-against-bare-winter-branches.webp ← images/warehouse-security-camera-installation/warehouse-security-camera-installation-dutchess-county-white-dome-camera-under-exterior-fascia.webp (hero, eager)
+2. alarm-installation-coney-island-recorder-wall-screen-with-time-stamped-tiles.webp ← …/warehouse-security-camera-installation-dutchess-county-recorder-grid-shop-floor-and-vehicle-bays.webp
+3. alarm-installation-coney-island-night-camera-grid-of-store-aisles-on-monitor.webp ← …/warehouse-security-camera-installation-queens-camera-grid-on-ceiling-hung-monitor.webp
+4. alarm-installation-coney-island-white-dome-beside-ceiling-light-fixture.webp ← …/warehouse-security-camera-installation-queens-white-dome-beside-ceiling-light-panel.webp
+5. alarm-installation-coney-island-ceiling-cameras-over-shop-shelves-and-slat-wall.webp ← …/warehouse-security-camera-installation-manhattan-drop-ceiling-cameras-over-stocked-shelves.webp
+6. alarm-installation-coney-island-tall-hall-with-clerestory-windows-and-exit-sign.webp ← …/warehouse-security-camera-installation-queens-high-ceiling-and-mezzanine-windows-with-wall-camera.webp
+7. alarm-installation-coney-island-stainless-steel-camera-housing-product-photo.webp ← …/warehouse-security-camera-installation-nassau-county-stainless-steel-camera-housing-product-photo.webp (Dahua product photo)
+8. alarm-installation-coney-island-dome-on-steel-wall-arm-below-stone-cornice.webp ← …/warehouse-security-camera-installation-nassau-county-dome-camera-on-steel-arm-on-masonry-facade.webp
+9. alarm-installation-coney-island-back-corridor-to-grey-door-under-ceiling-camera.webp ← …/warehouse-security-camera-installation-manhattan-ceiling-camera-looking-down-service-corridor.webp (cropped 640×1247+295+0 to remove poster)
+10. alarm-installation-coney-island-white-bullet-camera-with-sun-hood-product-photo.webp ← images/dahua-marine-stainless-ptz-dome-camera.png (file name says PTZ dome; image actually shows a white Dahua bullet — described as seen)
+11. alarm-installation-coney-island-recorder-view-of-sidewalk-and-curb.webp ← images/wireless-camera-installation/wireless-camera-installation-nassau-county-recorder-view-of-sidewalk-and-curb.webp
+
+DAILY-LOG note suggestion: `images: 11 reused per permanent image rule (9 AESS job photos from images/warehouse-security-camera-installation/ + wireless-camera-installation/, 2 Dahua product shots); no real alarm photos yet`.
+
+## Flags for Anwar / main run
+- Wiring left for the main run (subagent rules): _redirects pair for this slug is missing entirely (check_page: 0 rules), and the 15 alarm area/hub pages other than /alarm-installation-brooklyn do not link back to this slug (check_page "live sibling … doesn't link back"). Brooklyn hub already links down. Sitemap/back-links untouched.
+- Hub "$25–$100 NYC alarm permit" claim still unverified; not repeated here.
+- Pillow is not installed in this build env (brief said it was); ImageMagick `convert` used instead.
+- Several underlying AESS job photos are shared (as different crops/files) with other rebuilt alarm pages — the real-photo pool is small; real alarm photos (panels, keypads, shutter contacts) would help.
+- images/buzzer-repair/*.jpg look AI-generated (staged technicians in branded hoodies) — avoided; worth reviewing site-wide.
+- File size 192,489 B is ~2.6 KB above alarm-installation-* 189,904 B (likely a concurrent batch page); re-check the size cluster after the batch is wired.
