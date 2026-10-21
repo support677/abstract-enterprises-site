@@ -168,8 +168,8 @@ LIVE | cat6-repair-new-dorp-staten-island-ny | Cat6 Repair | New Dorp, Staten Is
 LIVE | cat6-repair-upper-west-side-manhattan-ny | Cat6 Repair | Upper West Side, Manhattan | up /cat6-repair-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | cat6-repair-bay-ridge-brooklyn-ny | Cat6 Repair | Bay Ridge, Brooklyn | up /cat6-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | cat6-repair-astoria-queens-ny | Cat6 Repair | Astoria, Queens | up /cat6-repair-queens | (347) 434-6392 | GBP Bronx
-TODO | cat6-repair-mott-haven-bronx-ny | Cat6 Repair | Mott Haven, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
-TODO | cat6-repair-tottenville-staten-island-ny | Cat6 Repair | Tottenville, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-21T16:15Z | cat6-repair-mott-haven-bronx-ny | Cat6 Repair | Mott Haven, Bronx | up /cat6-repair-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-21T16:15Z | cat6-repair-tottenville-staten-island-ny | Cat6 Repair | Tottenville, Staten Island | up /cat6-repair-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | smart-lock-installation-upper-west-side-manhattan-ny | Smart Lock Installation | Upper West Side, Manhattan | up /smart-lock-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | smart-lock-installation-park-slope-brooklyn-ny | Smart Lock Installation | Park Slope, Brooklyn | up /smart-lock-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | smart-lock-installation-astoria-queens-ny | Smart Lock Installation | Astoria, Queens | up /smart-lock-installation-queens | (347) 434-6392 | GBP Bronx
@@ -203,7 +203,7 @@ LIVE | fiber-optic-installation-charleston-staten-island-ny | Fiber Optic Instal
 LIVE | sonos-installation-tribeca-manhattan-ny | Sonos Installation | Tribeca, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-brooklyn-heights-brooklyn-ny | Sonos Installation | Brooklyn Heights, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-long-island-city-queens-ny | Sonos Installation | Long Island City, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Neck, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-21T16:15Z | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Neck, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
