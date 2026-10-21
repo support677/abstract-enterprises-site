@@ -379,9 +379,9 @@ LIVE | alarm-installation-fulton-ferry-brooklyn-ny | Alarm Installation | Fulton
 LIVE | alarm-installation-gerritsen-beach-brooklyn-ny | Alarm Installation | Gerritsen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-gowanus-brooklyn-ny | Alarm Installation | Gowanus, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-gravesend-brooklyn-ny | Alarm Installation | Gravesend, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T23:18:40Z REBUILD | alarm-installation-greenwood-heights-brooklyn-ny | Alarm Installation | Greenwood Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T23:18:40Z REBUILD | alarm-installation-highland-park-brooklyn-ny | Alarm Installation | Highland Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T23:18:40Z REBUILD | alarm-installation-homecrest-brooklyn-ny | Alarm Installation | Homecrest, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-greenwood-heights-brooklyn-ny | Alarm Installation | Greenwood Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-highland-park-brooklyn-ny | Alarm Installation | Highland Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-homecrest-brooklyn-ny | Alarm Installation | Homecrest, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T23:27:33Z REBUILD | alarm-installation-kensington-brooklyn-ny | Alarm Installation | Kensington, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T23:27:33Z REBUILD | alarm-installation-locust-point-bronx-ny | Alarm Installation | Locust Point, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-21T23:27:33Z REBUILD | alarm-installation-madison-brooklyn-ny | Alarm Installation | Madison, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
