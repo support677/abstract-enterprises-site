@@ -376,9 +376,9 @@ LIVE | alarm-installation-flatbush-brooklyn-ny | Alarm Installation | Flatbush, 
 BUILDING 2026-10-21T22:36:16Z REBUILD | alarm-installation-fort-greene-brooklyn-ny | Alarm Installation | Fort Greene, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T22:36:16Z REBUILD | alarm-installation-fort-hamilton-brooklyn-ny | Alarm Installation | Fort Hamilton, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-21T22:36:16Z REBUILD | alarm-installation-fulton-ferry-brooklyn-ny | Alarm Installation | Fulton Ferry, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T22:39:25Z REBUILD | alarm-installation-gerritsen-beach-brooklyn-ny | Alarm Installation | Gerritsen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T22:39:25Z REBUILD | alarm-installation-gowanus-brooklyn-ny | Alarm Installation | Gowanus, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T22:39:25Z REBUILD | alarm-installation-gravesend-brooklyn-ny | Alarm Installation | Gravesend, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-gerritsen-beach-brooklyn-ny | Alarm Installation | Gerritsen Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-gowanus-brooklyn-ny | Alarm Installation | Gowanus, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-gravesend-brooklyn-ny | Alarm Installation | Gravesend, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-greenwood-heights-brooklyn-ny | Alarm Installation | Greenwood Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-highland-park-brooklyn-ny | Alarm Installation | Highland Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-homecrest-brooklyn-ny | Alarm Installation | Homecrest, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
