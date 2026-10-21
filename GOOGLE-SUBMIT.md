@@ -341,3 +341,6 @@ Last evening run: 2026-10-21 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-mott-haven-bronx-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-tottenville-staten-island-ny | QUEUED
 2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-throgs-neck-bronx-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-st-george-staten-island-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-west-side-manhattan-ny | QUEUED
+2026-10-21 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-williamsburg-brooklyn-ny | QUEUED
