@@ -3788,3 +3788,314 @@ Meaning check: compared against all 1,114 question/?-heading strings on the othe
 | patch-cables-beside-camera-monitor.webp (crop 0,100–330,690) | images/smart-pss-support-setup/smart-pss-support-setup-manhattan-purple-patch-cable-bundle-beside-rack.webp | AESS job photo (scene repeats) |
 | camera-arm-under-cornice.webp (crop 0,0–228,330) | images/smart-pss-support-setup/smart-pss-support-setup-manhattan-dome-camera-on-steel-arm-under-patterned-cornice.webp | AESS job photo (scene repeats; painted board has no readable text) |
 Source folder images/smart-pss-support-setup/ had not been used by filename in the silo, but its scenes repeat across the AESS camera-silo folders already used (pool exhausted); every file here is a new crop. Rejected after viewing: images/network/*.webp and images/low-voltage/*.jpg technician scenes (AI-generated — branded shirts/vans, impossible cable-from-drill), plus the folders earlier runs rejected (commercial-security/*.jpg, construction/*.webp, buzzer-repair/*.webp). Captions read "Photo from the AESS job library, not taken in Williamsbridge" / "Manufacturer product photo, used as a reference" / "Recorded camera view from the AESS job library". Real access-control photos still needed.
+
+## Williamsburg, Brooklyn (rebuild 2026-10-21)
+
+Built 2026-10-21 (REBUILD of a crawled-not-indexed template page; no old text reused). Slug access-control-installation-williamsburg-brooklyn-ny. Up-link /access-control-installation-brooklyn. Phone (347) 934-8335 direct + (800) 486-0943 in header chrome only. GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing 1.00x, same Brooklyn table lines as South Williamsburg / Prospect Park South. Batch siblings linked: /access-control-installation-windsor-terrace-brooklyn-ny, /access-control-installation-kingsbridge-heights-bronx-ny. 12,887 rendered words, 296,132 B (16 inline SVG schematics/tables, JSON-LD indent 16), 11 figures, 13 Q&A + 9 FAQ.
+
+Thesis: "two shifts, one building" — Williamsburg proper (North Side, waterfront, Bedford/Metropolitan/Grand/N 6th/Wythe/Kent) has bars, venues, restaurants and hotel roofs on ground floors under or beside apartments, with on-premises sales allowed to 4 a.m. (ABC Law §106(5)). Door plan: the residents' inner stair door (not the street door) as the controlled door; business doors on staff groups and never giving access to residents' halls; staff schedules built around closing hours; roof/yard doors that close at the licensed hour and always open from inside; elevator floor restriction for roof bars; alarmed (not locked) venue exits; closed-hours forced/held-open alerts routed to the person who answers at 5 a.m. (Kent Ave Jan 2023 and Feb–Mar 2026 business burglary runs); owner/tenant admin roles when ground-floor tenants change. Distinct from South Williamsburg (Shabbat key path) and East Williamsburg (old template); checked against the silo register by keyword (avoided Cobble Hill garden door at closing, Bensonhurst cash office/shift codes/after-closing install, Pelham Parkway store back door, Gowanus booking codes, Brighton Beach tailgating, Fulton Ferry restroom buzzing, Williamsbridge assembly exits/sound interference).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (fetch) Williamsburg, Brooklyn | WebFetch | https://en.wikipedia.org/wiki/Williamsburg,_Brooklyn | Village of Williamsburgh incorporated Apr 14, 1827, annexed 1855 ("h" dropped); bounds Greenpoint/Bed-Stuy/Bushwick & E. Williamsburg/East River; CD1; 90th Pct 211 Union Ave, 94th Pct 100 Meserole Ave (northernmost); ZIPs 11206/11211/11249; 2020 pop 151,308 in text vs same figure under 2010 in infobox; 2010 78,700 combined NTAs; North Side Polish and Italian; May 11, 2005 rezoning, 2-mile esplanade, The Edge & Northside Piers on Kent Ave; venues Lucky Cat, Zebulon, Monkeytown, Luxx; bridge 1903; NYC Ferry East River route May 1, 2017, two Williamsburg stops; bridge plaza bus terminal B32/B44/Q54 | hero, §5 ¶1–3, facts list, timeline SVG, landmarks, sources |
+| 2 | Williamsburg Brooklyn illegal short-term rentals Local Law 18 Airbnb listings drop 2024 | WebSearch | (results: Gothamist, Airbnb news, QNS) | No Williamsburg-specific figures → short-term-rental thesis rejected | — |
+| 3 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Bedford_Avenue_station | Bedford Ave & N 7th St; opened June 30, 1924; 9,815,095 riders 2025, 23rd of 423 | facts, landmarks, corridors |
+| 4 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Domino_Sugar_Refinery | 325 Kent (16 st., 522 units, July 2017); One South First (45 st., 330 units, Sept 2019); Ten Grand (Nov 2019); Refinery reopened Sept 27, 2023 ~460,000 sf office; One Domino Square June 2024; 2007 landmark | §5 ¶3, corridors, timeline |
+| 5 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Domino_Park | Opened June 10, 2018; 5 acres; quarter mile; James Corner Field Operations; salvaged syrup tanks | facts, landmarks |
+| 6 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Music_Hall_of_Williamsburg | 66 N 6th St; opened spring 2001 as Northsix; ~650; Bowery Presents | §5 ¶2, corridors, landmarks |
+| 7 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Brooklyn_Bowl | 61 Wythe Ave; opened July 7, 2009; Hecla Iron Works 1882 foundry; NYC landmark June 8, 2004; 600-capacity hall | §5 ¶2, architecture, cast-iron Q&A, landmarks |
+| 8 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Marsha_P._Johnson_State_Park | 11 acres; formerly East River State Park; Brooklyn Eastern District Terminal (1870); renaming announced Feb 1, 2020, rededicated Aug 24, 2020 | facts, landmarks |
+| 9 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Williamsburgh_Savings_Bank_Building_(Broadway) | 404 → not used | — |
+| 10 | Williamsburg Brooklyn nightlife bars noise complaints residents Community Board 1 liquor license 2025 | WebSearch | brooklynpaper.com results | Only 2008–2012 coverage found | thesis background |
+| 11 | (fetch) | WebFetch | https://www.brooklynpaper.com/sounding-off-on-noise-complaints-over-local-bars-rack-up-in-cb1 | Nov 19, 2008: CB1 complaints over bars with outdoor seating (Charleston, Satellite Lounge) | background only |
+| 12 | (fetch) | WebFetch | https://www.brooklynpaper.com/stories/34/51/dtg_barbacklash_2011_12_23_bk.html | Dec 23, 2011: CB1 rule that bars seeking license with rooftop/backyard provide seated food service; Kalita: backyard noise "the number one problem we have in the community"; Brooklyn Allied Bars and Restaurants | §5 ¶4, roofs h3, hours SVG, timeline |
+| 13 | (fetch) | WebFetch | https://www.brooklynpaper.com/stories/34/15/web_lastcall_2011_4_15_bk.html | Apr 9, 2011: CB1 chair proposed moratorium on new eating/drinking licenses | sources |
+| 14 | Williamsburg Brooklyn rooftop bar apartment building residents stairwell patrons news | WebSearch | (results) | Pod Hotel CBS; Bisnow Living Room | — |
+| 15 | (fetch) | WebFetch | https://www.cbsnews.com/newyork/news/pod-hotel-williamsburg/ | May 2, 2017: Pod Hotel, Metropolitan Ave & N 3rd St, 5th-floor rooftop bar; nearly 400 residents petitioned; SLA decides license | §5 ¶4, roofs h3, timeline |
+| 16 | Williamsburg 311 noise complaints loud music bars most in Brooklyn data | WebSearch | (results) | Localize.city 2018 via Patch; RentHop 2021 (403) | facts |
+| 17 | (fetch) | WebFetch | https://new.patch.com/new-york/bushwick/these-are-brooklyn-s-noisiest-bars | July 26, 2018: Union Pool 484 Union Ave 110 complaints on 65 nights (June 2017–June 2018) | facts list |
+| 18 | (fetch) | WebFetch | https://www.renthop.com/research/nyc-quiet-outside-noisy-inside/ | EMPTY (403) | — |
+| 19 | Williamsburg Brooklyn burglary bar restaurant overnight break-in 94th precinct OR 90th precinct 2026 | WebSearch | (results) | News 12 March 2026; ABC7 2023 | — |
+| 20 | (fetch) | WebFetch | https://brooklyn.news12.com/burglary-spree-targets-williamsburg-businesses-4-people-wanted | Mar 13, 2026: 15 burglaries Feb 22–Mar 9, 9 in Williamsburg, 1 Greenpoint, 5 Queens; 9 incidents in 6 hours on Mar 4; incident at 98 South 4th St (street only on page); 4 sought | §5 ¶5, closed-hours h3, alert Q&A, timeline |
+| 21 | (fetch) | WebFetch | https://abc7ny.com/post/nyc-crme-burglary-spree-brooklyn-williamsburg/12673159/ | Jan 8, 2023: six burglaries, three on Kent Ave; cut metal locks on front door; sledgehammer to door; >$16,000 (business names omitted) | §5 ¶5, closed-hours h3, AI check, corridors |
+| 22 | Bisnow Williamsburg bar venue three stories apartments on top | WebSearch | https://www.bisnow.com/news/new-york/multifamily/longtime-williamsburg-bar-and-venue-to-get-three-stories-of-apartments-on-top-58153 (fetch timed out; search summary) ; NY YIMBY 2016 URL (403) | Former Living Room, 134 Metropolitan Ave: 3 floors of housing, one unit per floor, ground floor bar/restaurant; ~2016 | §5 ¶2, ownership h3 |
+| 23 | New York Alcoholic Beverage Control Law section 106 hours of sale New York City 4 a.m. on-premises | WebSearch | legislation.nysenate.gov bill texts quoting §106(5) | No on-premises sales 4–8 a.m. weekdays, 4–10 a.m. Sunday; county may restrict further (no NYC restriction found) | facts, schedule h3, hours SVG, FAQ 9 |
+| 24 | reddit williamsburg apartment above bar patrons building door buzzer drunk people lobby | WebSearch | (results; no Reddit thread) | Brick Underground account | — |
+| 25 | (fetch) | WebFetch | https://www.brickunderground.com/live/next-door-alligator-lounge-bar-apartment-williamsburg | Apr 18, 2019 (first ran Apr 2018): Metropolitan Ave ground-floor resident 2006–2009 next to a bar; patrons on stoop until 4–5 a.m.; shared vestibule had no lock or doorknob | §5 ¶4, vestibule h3, AI check |
+| 26 | NYC Office of Nightlife ... Local Law 178 2017 | WebSearch | https://www.nyc.gov/assets/sbs/downloads/pdf/about/reports/nightlife-report-2026.pdf | ONL 2025–2026 Annual Report, May 18, 2026: CURE (education-first, with NYPD precincts); Brooklyn largest share of referrals 66 (2025), 42 (2026 YTD); MEND NYC mediation incl. closing-time behavior; new residential development near existing venues leads to complaints | §5 ¶3, facts, CURE Q&A, stoop Q&A/SVG |
+| 27 | Silo law/prices reused | repo | South Williamsburg / Prospect Park South price table; BC §1010.1.9.8/9, §1010.1.10, MDL §50-a, HPD TDPL as in earlier sections | Brooklyn price lines | pricing, packages, FAQ 1, rules list |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — AI Reality Check quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit (Williamsburg building-above-bar threads): EMPTY (none found)
+- RentHop 2021 noise study: EMPTY (403); NY YIMBY 134 Metropolitan: EMPTY (403); Bisnow article: fetch timed out (search summary only); Wikipedia Williamsburgh Savings Bank: 404
+- Current (2025–2026) CB1 liquor/noise coverage: EMPTY (only 2008–2012 found)
+- Google Drive / CompanyCam: not available (per brief)
+
+### FLAGS (hedged / conflicts / AESS practice)
+- Wikipedia population inconsistency (151,308 as 2020 in text, 2010 in infobox) stated on page.
+- 2011 CB1 policy, 2017 Pod Hotel petition, 2018 Localize count are dated; page says they show the pattern, not current conditions. Whether the Pod rooftop bar opened was not checked.
+- 134 Metropolitan apartments: plan only (2016, via Bisnow search summary); build status not checked.
+- News 12 2026: only South 4th St named; business types/precincts not given; names and house number omitted.
+- ABC7 2023 business names omitted.
+- ABC §106(5) hours from bill-text quotations of current law; no stricter NYC county rule found.
+- BC §1010.1.10 threshold not quoted numerically on this page; "assembly" applicability left to the architect.
+- Practices written as AESS method: inner stair door as controlled door, staff groups by shift, alert routing, two-factor night mode, elevator restriction for roof bars, alarmed exits, cellar division, owner/tenant admin roles, vibration-rated hardware.
+- Images: no real access-control photos; 11 AESS job-library photos (scenes repeat elsewhere in silo under other names); captions say "not taken in Williamsburg". Shop-monitor image shows tiny overhead figures on screen (not identifiable).
+- 15 check_page fails at build time were only "live sibling doesn't link back" (main-run wiring).
+
+### Question register
+Q&A (H3):
+- Patrons from our bar keep slipping through to the apartment stairs whenever a resident is buzzed in during a show. Should the vestibule be split, or the residents’ door moved?
+- The building’s only cellar holds our walk-in cooler, the residents’ storage cages and the boiler. How should one cellar be divided between a bar’s staff and the tenants?
+- Our staff prop the stage door with a crate for smoke breaks during sets. Can the door itself stop that?
+- Our venue’s fire exit lets out into the residents’ rear courtyard. Can we stop patrons using it to step outside without making it less of an exit?
+- At 4 a.m. people leaving the bars sit on our stoop and lean on the buzzer. Is there anything a door system can do about it?
+- A crew pried open storefronts across North Brooklyn in one early March morning. When our bar is closed and a door is forced at 5 a.m., who should the system call first?
+- Bottles go missing from our liquor room between inventory counts. Should each bartender have a code to that room, and what should the log show?
+- Our bar was referred into the Office of Nightlife’s CURE process with the precinct. Can our door records help show what has changed since?
+- Our rental tower faces a venue that lets out after midnight. Should the lobby ask for a fob plus a PIN at night?
+- Our hotel’s roof bar is open to the public, and its elevator also serves guest floors. Can the elevator carry bar guests only between the lobby and the roof after a set hour?
+- Our venue occupies a landmarked cast-iron building. Where can a reader or call panel go without drilling the iron?
+- A tenant in our building is subletting for the summer with the board’s approval. How should the subtenant’s fob be set up?
+- A promoter rents our event room for one night and brings outside security. Which doors should their security staff be able to open?
+FAQ:
+- At Brooklyn prices, what does it cost to put a bar’s back door, its liquor room and the residents’ inner door on one controller?
+- Will drilling and cabling disturb the tenants upstairs if you work while the bar is closed in the morning?
+- Can you represent us before Community Board 1 or the State Liquor Authority about our door hours?
+- Should the door system share the network the DJ booth and the point-of-sale terminals use?
+- Will bass vibration and constant slamming loosen strikes and closers on a venue door?
+- Will readers on a bar’s service door survive ice, spilled drinks and mop water?
+- If a lock fails at 3 a.m. while we are closing, will anyone answer in Williamsburg?
+- Can the security staff at our front door release the residents’ inner door for a guest?
+- Is the 4 a.m. closing time set in state law, and does it affect how doors are scheduled?
+
+### Images (11, images/access-control-installation/, WebP q80, each source viewed first; no faces, house numbers, plates or readable documents)
+| New file (access-control-installation-williamsburg-…) | Source |
+|---|---|
+| glass-entrance-wall-below-turret-camera.webp (hero, eager) | images/video-wall-installation/video-wall-installation-westchester-county-glass-lobby-front-below-drop-ceiling.webp |
+| grey-back-corridor-door-with-lever-lock.webp | images/video-wall-installation/video-wall-installation-long-island-corridor-wall-plates-below-drop-ceiling.webp |
+| lobby-soffit-with-camera-and-recessed-lights.webp | images/video-wall-installation/video-wall-installation-westchester-county-soffit-and-recessed-lights-in-lobby-ceiling.webp |
+| shop-ceiling-monitor-showing-camera-grid.webp (crop 330,90–1000,560) | images/video-wall-installation/video-wall-installation-westchester-county-ceiling-hung-display-above-store-shelving.webp |
+| tall-hall-wall-below-mezzanine-windows.webp | images/video-wall-installation/video-wall-installation-westchester-county-tall-white-wall-below-mezzanine-windows.webp |
+| lit-exit-sign-and-small-ceiling-camera.webp | images/video-wall-installation/video-wall-installation-long-island-office-drop-ceiling-exit-sign-and-camera.webp |
+| dome-camera-under-yellow-fascia-beside-mural.webp | images/lorex-camera-installation/lorex-camera-installation-brooklyn-white-dome-camera-under-painted-fascia-and-mural.webp |
+| recorder-view-of-side-lot-and-open-storeroom-door.webp | images/video-wall-installation/video-wall-installation-westchester-county-two-view-split-screen-lot-and-storeroom.webp |
+| cable-bundles-under-beams-above-rack.webp (crop 0,0–600,300) | images/video-wall-installation/video-wall-installation-westchester-county-cable-bundles-above-wall-monitor.webp |
+| dome-camera-in-stained-storeroom-corner.webp | images/floodlight-camera-installation/floodlight-camera-installation-hudson-valley-turret-camera-high-in-corner-of-storage-room.webp |
+| corner-dome-camera-above-motion-sensor.webp | images/lorex-camera-installation/lorex-camera-installation-long-island-white-dome-camera-in-ceiling-corner-above-wall-sensor.webp |
+video-wall-installation/ source files not previously used by filename in the silo; scenes repeat across AESS camera folders (pool exhausted). AI-generated technician scenes in video-wall-installation/ (branded shirts) rejected after viewing.
+
+## Kingsbridge Heights, Bronx (rebuild 2026-10-21)
+
+Page: /access-control-installation-kingsbridge-heights-bronx-ny (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-bronx; neighbor /access-control-installation-kingsbridge-bronx-ny; batch siblings /access-control-installation-williamsburg-brooklyn-ny and /access-control-installation-windsor-terrace-brooklyn-ny. Phone (646) 490-0629 direct + (800) 486-0943 header chrome only. GBP Bronx (460 E Fordham Rd, #bronx). Prices 1.00x, same published lines as Williamsbridge/Tremont. 13,353 rendered words, 350,500 B (30+ inline SVG tables/diagrams). Masked 5-gram Jaccard vs every access-control page max 0.047 (Williamsbridge).
+
+Thesis: "the door that opens without a grip". Kingsbridge Heights is a hill (W 229th St step street: 65-ft rise, 10 flights) of 1910-1935 six-story elevator apartment houses with raised lobbies, vestibule pairs and step-free doors only at the lower grade, and the James J. Peters VA Medical Center (48-bed SCI unit, SCI/D home care with home safety/accessibility evaluations, Fisher Houses 2019) sits on W Kingsbridge Rd at its southern edge. Access control here = low-energy operators tied to strikes/readers, hands-free credentials, vestibule sequencing, step-free side doors made into real entrances, power-failure/fire-door behavior, plus paperwork for NYC HRL reasonable-accommodation requests (CCHR cases) and VA HISA estimates.
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | (fetch) Kingsbridge Heights, Bronx | WebFetch | https://en.wikipedia.org/wiki/Kingsbridge_Heights,_Bronx | Bounds Van Cortlandt Park / Jerome Ave / Kingsbridge Rd / Major Deegan; Sedgwick Ave main street; CD8; ZIP 10463, 10468; 50th Pct 3450 Kingsbridge Ave; 2010 pop 32,496 on 300.86 acres; mostly renters; tenements central/south; VCV co-ops; Fort Independence St-Heath Ave Houses one 21-story bldg; Jerome Park Reservoir 1906, ~2.2 mi; Castle of Kingsbridge 2744 Kingsbridge Terr 1914 (Samuel B. Reed); Kingsbridge Rd (4); Bx1/2/3/9/10/22/32, BxM3; schools; Jerome Park library 118 Eames Pl; E81/L46 3025 Bailey Ave | §5 ¶1,3, glance list, landmarks, schools/bus SVGs |
+| 2 | (fetch) | WebFetch | https://www.cityneighborhoods.nyc/kingsbridge-heights | Wider bounds (Broadway to Grand Concourse); rises sharply from Broadway; 1920s-30s apartment houses on Kingsbridge Terr/Heath Ave; six-story brick, Tudor Revival rowhouses, Art Deco, 1910-1935; University Ave and Kingsbridge Rd shops; KHCC 1974 | §5 ¶1-3, §7, §8 |
+| 3 | James J. Peters VA Medical Center spinal cord injury center Bronx Kingsbridge Road | WebSearch | (results incl. va.gov, CARF, United Spinal, Fisher House) | 130 W Kingsbridge Rd; SCI service; renaming dates differ (2002 Wikipedia / 2004-2005 others) | thesis |
+| 4 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/James_J._Peters_VA_Medical_Center | Opened Apr 15, 1922 as US Veterans Hospital No. 81; main bldg 1981; 311 beds + 120 NH; renamed 2002; Spinal Cord Damage Research Center; placed in "West Fordham", categorized Kingsbridge Heights | §5 ¶4, VA SVG, landmarks |
+| 5 | (fetch) | WebFetch | https://www.va.gov/bronx-health-care/programs/spinal-cord-injuries-and-disorders/ | 48-bed SCI inpatient unit; acute rehab CARF since 2003; wheelchair/caregiver training; SCI/D Home Care home evaluations "to address issues with safety and accessibility"; ALS/MS programs | §5 ¶5, Q&A 1 |
+| 6 | Fisher House James J. Peters VA Medical Center Bronx opened | WebSearch → WebFetch | https://www.bxtimes.com/fisher-houses-ribbon-cutting-addresses-va-housing-needs | Two Fisher Houses opened May 22, 2019; 32 free suites for families/caregivers | §5 ¶5, VA SVG, timeline |
+| 7 | VA HISA grant amount ... | WebSearch (third-party only) → WebFetch | https://www.prosthetics.va.gov/psas/HISA2.asp | Lifetime $6,800 (SC, or NSC with ≥50% SC rating) / $2,000 other; covers entrance/exit; excludes home security systems, portable ramps, porch lifts, stair glides; renters need notarized owner statement; VA Form 10-0103, itemized estimate, color photo | Q&A HISA, HISA SVG, AI check, FAQ 6 |
+| 8 | NYC Commission on Human Rights reasonable accommodation disability housing landlord automatic door | WebSearch | (results: cooperatornews, CCHR, nycourts 2011_34042, Herrick) | Riverbay (Bronx) side-door opener held insufficient, Bronx Sup Ct 2011 upheld; Queens $185k penalty reversed (structural feasibility); landlord must accommodate unless undue hardship | §5 ¶6, Q&A landlord/side door, AI check, CCHR SVG |
+| 9 | (fetch) | WebFetch | https://www.nyc.gov/site/cchr/enforcement/2025-settlements.page | 2025: co-op to install 5 sets of automatic doors incl. main entrance + $30,000 damages; co-op wheelchair lift at entrance | §5 ¶6, Q&A co-op board |
+| 10 | (fetch, PDF text extracted locally) | WebFetch + pdftotext | https://www.nyc.gov/assets/cchr/downloads/pdf/press-releases/Bronx-Management-Settlement-Press-Release.pdf | July 22, 2026: key-operated lift landlord withheld; tenant (74) fractured hip; $15,000 damages, $30,000 penalty, 14 months free rent, accessible apt; complaint line 212-416-0197; borough not stated in text | §5 ¶6, Q&A side door, CCHR SVG |
+| 11 | (download) ADA Standards | curl + parse | https://www.access-board.gov/ada/ | §404.2.7 hardware 34-48 in; §404.2.8.1 closer 90°→12° ≥5 s; §404.2.9 interior 5 lbf, fire doors per AHJ; §404.3 low-energy/power-assisted A156.19, full-power A156.10, 32 in clear power on/off; §309.4 5 lbf, no tight grasp; §308.2.1 15-48 in | §7 h3, ADA SVG, compliance, Q&A types |
+| 12 | NYC Building Code 2022 1010.1.3 ... 1010.1.4.2 ... | WebSearch (forum quotes of IBC) ; amlegal fetch 403 | thebuildingcodeforum.com | IBC text only; NYC text not opened → page cites ADA/BHMA only, NYC BC rules hedged | compliance (hedged) |
+| 13 | Kingsbridge Armory redevelopment 2026 Kingsbridge Heights update | WebSearch | https://newyorkyimby.com/2025/10/city-council-approves-redevelopment-of-kingsbridge-armory-in-the-bronx.html | Council approval Oct 2025; drill hall 2026-2030; ~500 affordable apts by 2032 (450 vs 500 conflict) | §5 ¶7, landmarks (as plans) |
+| 14 | Kingsbridge Heights Bronx prewar elevator apartment buildings Sedgwick Avenue ... | WebSearch | https://streeteasy.com/building/3115-sedgwick-avenue-bronx | 3115 Sedgwick Ave 1927, 6 stories, 57 units, elevator (3871/3881 Sedgwick likely VCV — not used) | §5 ¶3, timeline |
+| 15 | Forgotten New York Kingsbridge Heights step street ... | WebSearch → WebFetch | https://www.nyc.gov/site/ddc/about/press-releases/2019/pr-052419-step-street.page ; https://forgotten-ny.com/2025/01/193rd-street-kingbridge-heights/amp ; https://www.norwoodnews.org/damaged-staircase-in-kingsbridge-heights-to-get-repairs/ | W 229th St step street: ~230 ft, 10 flights/9 landings, 65-ft rise Heath Ave→Kingsbridge Terr, $10.7M, begun summer 2017, reopened May 2019, bike channels; W 193rd St stepped buildings; Heath/Summit step street sealed (undated) | §5 ¶2, steps SVG, landmarks |
+| 16 | Kingsbridge Heights Community Center 50th Precinct station house landmark | WebSearch → WebFetch | https://en.wikipedia.org/wiki/Kingsbridge_Heights_Community_Center ; https://hdc.org/buildings/50th-police-precinct-station-house-former-40th-police-precinct-station-house/ | KHCC 1974 settlement house; 3101 Kingsbridge Terr, former 50th Pct station house 1902 Beaux-Arts, landmark 1986; Special Needs Program; 4,500 vs 6,000 served (conflict, not used) | §5 ¶7, §7, §8, landmarks |
+| 17 | Kingsbridge Heights Bronx tenants intercom broken door elevator building News 12 OR Norwood News OR Bronx Times | WebSearch | — | No Kingsbridge Heights-specific door/elevator story; only Highbridge/Concourse → EMPTY, not used | — |
+| 18 | reddit r/bronx Kingsbridge Heights living hills building elevator | WebSearch | — | No Reddit threads surfaced → EMPTY | — |
+| 19 | Kingsbridge Heights Community Center older adults senior center NORC program Bronx | WebSearch | — | No NORC found → not claimed | — |
+| 20 | "Kingsbridge Heights and Bedford" community health profile 2018 ; Furman BX07 | WebSearch ; DOHMH PDF 404 | — | Figures not retrievable cleanly → not used | — |
+| 21 | Silo prices/law reused | repo | /access-control-installation-williamsbridge-bronx-ny ; LL63 HPD page (Bay Ridge section) | Same Bronx price lines; LL63 | pricing, compliance |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env); AI Reality Check quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1-3 star reviews: EMPTY (not accessible in build env)
+- Reddit (Kingsbridge Heights doors/lobbies/elevators): EMPTY (nothing surfaced)
+- Local news on Kingsbridge Heights intercom/door/elevator problems: EMPTY (none found)
+- NYC Building Code text (American Legal) for 1010.1.3/1010.1.4.2: EMPTY (403 in build env) — hedged
+- DOHMH 2018 Community Health Profile BX7 PDF: EMPTY (404)
+- Google Drive "AESS Website Photos/Access Control" and CompanyCam: not available (Steps A-B skipped per task)
+
+### FLAGS
+- Boundaries conflict: Wikipedia (Van Cortlandt Park/Jerome Ave/Kingsbridge Rd/Deegan) vs CityNeighborhoods (Broadway to Grand Concourse) — both stated.
+- VA campus: Wikipedia text says West Fordham (just south of Kingsbridge Rd) but categorizes under Kingsbridge Heights — page says "southern edge". Renaming year 2002 (Wikipedia) vs 2004/2005 (United Spinal/VA) — page uses 2002.
+- Community district: Wikipedia says CD8; CB7 site lists Kingsbridge Heights in CB7 (Bedford Park research) — page states Wikipedia's CD8 only. Anwar may want to confirm.
+- CCHR July 2026 release: borough not stated in text (filename says "Bronx Management") — page does not say Bronx for it. Riverbay facts from search summaries of a 2011 court decision (PDF not opened).
+- HISA: whether an operator qualifies is the VA's decision; page says so. Amounts from VA prosthetics page.
+- Operators are not on the published price list — page prices them "after walk-through" (no invented price); Anwar may want a published operator line.
+- Practices stated as AESS method (not sourced facts): route walk with resident, timing tuning, weekly super check, power-failure defaults, side-door-as-entrance plan, alerts not locks on program exits. Delayed-egress statement limited to groups A/E per silo research (BC 1010.1.9.7).
+- No Kingsbridge Heights resident, building, NYCHA or KHCC is named as a client; VA named as neighbor only.
+
+### Question register
+Q&A (§9, H3):
+1. Since coming home from the spinal cord unit on West Kingsbridge Road, I can’t grip a key or hold a fob steady against a reader. What can open my building’s front door for me?
+2. Our lobby has an outer pair of doors, a vestibule and an inner pair. How do both doors open in the right order for someone in a wheelchair?
+3. Our lobby door faces downhill and catches the wind. It slams some days and won’t latch on others. Will an opener tame it or make it worse?
+4. What is the difference between a low-energy opener, a power-assisted door and a full automatic door, and which belongs on an apartment lobby?
+5. I rent in a Sedgwick Avenue elevator building. How do I ask the landlord for an automatic opener on the lobby door, and who pays for it?
+6. The landlord offered a lift that only runs on a key, or a buzzer at the back door, instead of fixing the front entrance. Is that a usable answer?
+7. A shareholder has asked our co-op board for an automatic main entrance. What should the board ask an installer for before it votes?
+8. Can a VA home-improvement grant pay for an opener or a reader on my door?
+9. I’m due to be discharged home in a few weeks. How do we get the door ready in time?
+10. Our building’s front steps face a steep street, and the only step-free door is on the lower side street. How do we make that door work as well as the front?
+11. The plow leaves a ridge of snow across our entrance every winter. Will an automatic opener jam or burn out?
+12. When an opener loses power, how hard is the door to push, and what keeps a resident from being stranded outside?
+13. Can an opener go on my apartment’s own entrance door, which has to close by itself for fire safety?
+14. Our community program serves adults who sometimes walk out without staff. How can the exits stay legal while staff know when a door opens?
+15. Can the system warn the super that an opener is failing before someone gets stuck outside?
+Other ? headings: Opener Stuck or a Lobby Door Too Heavy to Open in Kingsbridge Heights? Call the Same Day · Resident Stuck Outside, or an Opener That Will Not Close? Call the Kingsbridge Heights Line
+
+FAQ (§17 = FAQPage schema):
+1. At Bronx rates, how is a lobby opener tied to a reader priced?
+2. Do you need to cut the floor or the sidewalk to install an opener?
+3. Can the same credential open the building door and my own apartment door?
+4. Who looks after the opener once it is in, and how often does it need attention?
+5. Can a temporary arrangement go in while we wait for the landlord or the VA?
+6. Do you put the estimate in a form the VA prosthetics office or a landlord can use?
+7. What happens to an opener the tenant paid for when the tenant moves out?
+8. Will an opener make the lobby noisy for the apartments nearby?
+9. Can a resident switch the automatic opening off when they do not need it?
+10. Do you install around the Kingsbridge Road shopping streets as well as on the residential blocks?
+
+Meaning check: compared against all 1,139 question/?-heading strings on other access-control pages at build time; avoided intents already used (reader height for wheelchairs — Gowanus/Fulton Ferry; aide/nurse codes — Brighton Beach/Starrett City/City Line; opener + reader on lobby/shop — DUMBO/Morris Park asked only "can it", here types/sequencing/wind; closer slamming — Pelham Bay; tailgating — Brighton Beach; NYCHA work — Melrose/Soundview; DOB permit — Bensonhurst; warranty — Bay Ridge).
+
+### Images (11, images/access-control-installation/, WebP q80, each viewed first; no faces, house numbers, plates, readable documents)
+| New file (access-control-installation-kingsbridge-heights-…) | Source (crop) |
+|---|---|
+| back-corridor-toward-grey-door.webp (hero) | super-live-plus-app-support-repair/…-manhattan-bullet-camera-in-back-corridor-toward-door.webp (0,150,635,1100) |
+| drop-ceiling-camera-beside-red-exit-sign.webp | super-live-plus-app-support-repair/…-long-island-ceiling-camera-near-lit-exit-sign.webp (0,0,700,620) |
+| network-cable-bundles-over-ceiling-beam.webp | super-live-plus-app-support-repair/…-long-island-network-cables-crossing-ceiling-beam.webp (60,0,600,255) |
+| storeroom-corner-turret-camera-and-lumber.webp | super-live-plus-app-support-repair/…-long-island-turret-camera-in-storeroom-ceiling-corner.webp (0,0,720,900) |
+| dome-camera-under-fascia-against-winter-sky.webp | super-live-plus-app-support-repair/…-long-island-white-dome-camera-at-fascia-corner-against-sky.webp (0,0,400,235) |
+| black-camera-on-blue-wall-over-sensor.webp | super-live-plus-app-support-repair/…-manhattan-black-camera-on-blue-wall-above-motion-sensor.webp (0,0,720,560) |
+| mini-camera-above-lit-lobby-soffit.webp | super-live-plus-app-support-repair/…-manhattan-mini-camera-at-ceiling-edge-above-lit-soffit.webp (0,40,605,520) |
+| night-camera-view-of-open-back-door.webp | super-live-plus-app-support-repair/…-nyc-night-view-tile-of-back-room-and-open-door.webp (90,0,400,343) |
+| small-cameras-under-mezzanine-railing.webp | super-live-plus-app-support-repair/…-nyc-two-small-cameras-high-on-wall-below-mezzanine.webp (0,0,600,230) |
+| wide-camera-view-of-brick-walk-and-lot.webp | apartment-building-security-camera-installation/…-long-island-fisheye-tile-of-brick-wall-and-asphalt-lot.webp (0,45,500,310; timestamp/label cropped) |
+| corner-dome-camera-beside-flag.webp | apartment-building-security-camera-installation/…-queens-turret-camera-in-ceiling-corner-above-motion-sensor.webp (0,100,555,800) |
+Source filenames not previously used in the silo, but the scenes repeat across AESS camera-silo folders (pool exhausted; new crops). Rejected after viewing as AI-generated: video-wall-installation/ (all but the long-island set), root access-control-*.jpg, home-automation-*.jpg. No real access-control photos yet.
+
+
+## Windsor Terrace, Brooklyn (rebuild 2026-10-21)
+
+Page: access-control-installation-windsor-terrace-brooklyn-ny (REBUILD of a crawled-not-indexed template page; no old text reused). Up-link /access-control-installation-brooklyn. Phone (347) 934-8335 direct + (800) 486-0943 in header chrome only. GBP Brooklyn (1282 Troy Ave, #brooklyn). Pricing Brooklyn x1.00, same published lines as Prospect Park South. Batch siblings linked: /access-control-installation-williamsburg-brooklyn-ny, /access-control-installation-kingsbridge-heights-bronx-ny. ~13,800 rendered words, ~334 KB (16 inline SVG schematics/tables), 11 figures, 15 Q&A + 10 FAQ. dateModified 2026-10-21.
+
+Thesis: "two front doors". Calder's Windsor Terrace rows (700 houses 1902–1919, "Calderville") were sold with open front porches; on many, the porch was enclosed by about 1940, so the house has a light porch door at the steps and the original front door inside. Page decides which door is controlled (porch as lobby for deliveries/clients), plus Calder two-families (owner duplex + floor-through) and the MDL §4 two/three-household line (Tenant Data Privacy Law applies to smart access in class A multiple dwellings), and the closing/renovation moment (StreetEasy demand #3 for 2026; rekey, trade codes, cable while the cellar ceiling is open). Edges: Prospect Park West / Prospect Ave / Fort Hamilton Pkwy shops, Arrow Linen rezoning (not built). Differs from Prospect Park South (booking codes, freestanding landmark houses), Park Slope (inner vestibule/storage rooms) and Greenwood Heights (old template).
+
+### Research matrix (exact query · platform · URL · finding · page section used)
+
+| # | Exact query | Platform | URL | Finding | Used in |
+|---|---|---|---|---|---|
+| 1 | Windsor Terrace Brooklyn neighborhood history frame houses Prospect Expressway | WebSearch | (results list) | Surfaced Wikipedia, Forgotten NY, CityNeighborhoods, LPC LP-2526 | thesis selection |
+| 2 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Windsor_Terrace,_Brooklyn | comma-like shape, 0.503 sq mi; bounds (Prospect Park, PPW/Park Slope, Green-Wood, McDonald Ave/Borough Park, Caton Ave/Kensington); William Bell 1849, Belknap 1851, 49 lots; name in Eagle 1854; row houses ~1900; IND stations Oct 7 1933; 1983 17 two-families on Pilgrim Laundry site; expressway 1953–60, Holy Name opposition; Bartel-Pritchard Sq 1922; Farrell's since 1933 (three owners); corridors PPW/Prospect Ave/Fort Hamilton Pkwy; 72nd Pct, Engine 240/Bn 48, CB7, ZIPs 11215/11218; PS 154, PS 130, MS 839; Holy Name "built 1874" | §5 ¶1, facts list, §8 cards, landmarks, timeline, map SVG, sources |
+| 3 | (fetch PDF; text via pdftotext) | WebFetch | https://s-media.nyc.gov/agencies/lpc/lp/2526.pdf | LPC Feb 12 2013 designation of Engine 40/H&L 21 (now Engine 240/Bn 48), 1307-1309 Prospect Ave, built 1895, Lauritzen, in service Jan 20 1896, Bn 48 since 1978; "small residential enclave"; moraine; Green-Wood 1838; Plank Road 1849–50; "Robert Bell" 1849; Belknap streets (Seeley, Vanderbilt, Adams=Reeve Pl, Short=Prospect Ave), 49 "Pleasant Cottage" lots, lost 1856; ~dozen houses/30 people 1860; Irish from Longford/Cavan; Holy Name 1878, school 1885; ~150 houses 1890 mostly small frame; Calder 700 houses 1902–1919; Seeley Investors 1920s (Prospect Ave apartments, 11th Ave commercial); Pilgrim Laundry 1894; expressway demolitions | §5 ¶1–3, facts, §7 cards, §8, landmarks, timeline, sources |
+| 4 | (fetch) | WebFetch | https://www.cityneighborhoods.nyc/windsor-terrace | brick/limestone rowhouses, wood-frame homes, prewar apartments; apartments near Fort Hamilton Pkwy; credits name to "Charles Batchelor" (conflict, not used) | §7 intro, sources, conflicts |
+| 5 | (fetch) | WebFetch | https://forgotten-ny.com/2024/10/windsor-stays-on-my-mind/ | Oct 6 2024: East 5th St "jewel box" houses/cottages; expressway 1953–60 and 1953–62; pedestrian crossings 8th/10th Aves; 11th Ave bridge near Terrace Pl; Seeley St over expressway and Prospect Ave; Greenwood Ave ped/bike bridge + Keck WWI memorial; former Bishop Ford HS now MS 442/PS 281; Terrace Coffee Shop at 19th St & Terrace Pl | §7 card, §8 cards, landmarks, sources |
+| 6 | Windsor Terrace Brooklyn "two-family" houses Calder row houses Living In | WebSearch | (results list) | Brownstoner Calder items; no NYT Living In found | thesis |
+| 7 | (fetch) | WebFetch | https://www.brownstoner.com/real-estate-market/windsor-terrace-brooklyn-homes-for-sale-56-sherman-street-calderville-two-family/ | Apr 22 2020: Calderville; 1919 Eagle >700 homes; Calder builder + US senator; Sherman St from 1908; 1909 "honestly constructed"; bow-front limestone ~1908; owner duplex + floor-through rental; asking $2.65M | §5 ¶3, ¶5, §7, two-family section, sources |
+| 8 | (fetch) | WebFetch | https://www.brownstoner.com/real-estate-market/windsor-terrace-row-house-209-windsor-place-wood-floors | Feb 2 2026: Calder row, Eisenla and Carlson, plans 1914, ads 1915; porch enclosed by late 1930s per ~1940 tax photos; kitchen steps up to rear deck door; $2.6M | §5 ¶4, ¶6, Q&A deck, porch SVG, sources |
+| 9 | (fetch) | WebFetch | https://www.brownstoner.com/real-estate-market/windsor-terrace-house-for-rent-207-windsor-place/ | Apr 2 2026: 1915 ads — hardwood trim, parquet, gas ranges, built-in iceboxes, basement laundry, ornamental parapets, open front porches; porch enclosed ~1940 | §5 ¶3–4, materials h3, Q&A laundry, sources |
+| 10 | Windsor Terrace Brooklyn enclosed front porches row houses Calder porch | WebSearch | (excerpts incl. 6sqft) | Fuller Place row of Doric-columned porches largely unchanged since the 1910s (excerpt); 247 Windsor Pl open porch | §5 ¶4, §7 card |
+| 11 | (fetch) | WebFetch | https://www.6sqft.com/for-2-75m-row-house-charm-and-a-big-front-porch-a-block-from-prospect-park/ | Jan 30 2025: 247 Windsor Pl, wide open front porch, $2.75M (Fuller Pl detail only in a related article) | sources |
+| 12 | Arrow Linen rezoning 441 467 Prospect Avenue Windsor Terrace approved | WebSearch → WebFetch | https://council.nyc.gov/shahana-hanif/2025/02/27/city-council-votes-to-pass-arrow-linen-rezoning-100-affordable-units-40-affordability-for-windsor-terrace/ | Feb 27 2025 approval; two 10-story buildings; 250 units, 100 permanently affordable (40%); R7-1→R7A; CBA: Sakhi community space, childcare center; financing still needed (The Real Deal excerpt) | §7 card, §8 card, sources |
+| 13 | Windsor Terrace Brooklyn news 2026 Prospect Avenue Prospect Park West | WebSearch | https://blog.marketproof.com/new-building-permit-filed-for-1259-prospect-ave-in-windsor-terrace-brooklyn/ (excerpt) | Apr 29 2026 permit: 3-story, 6-unit building with commercial space at 1259 Prospect Ave | §8 card, timeline |
+| 14 | StreetEasy hottest neighborhoods 2026 Windsor Terrace | WebSearch → WebFetch | https://www.timeout.com/newyork/news/these-are-the-10-most-in-demand-nyc-neighborhoods-according-to-streeteasy-010726 | Jan 7 2026: Windsor Terrace third, searches up almost 45% (median prices from excerpt NOT used) | §5 ¶6 |
+| 15 | Windsor Terrace Brooklyn burglary OR break-in OR package theft 2025 OR 2026 | WebSearch | (results list) | No 2025–26 items; older items | — |
+| 16 | (fetch) | WebFetch | https://www.brooklynpaper.com/repeat-burglar-windsor-terrace-nypd | Aug 5 2020: Kermit Place house burglarized June 26 and July 24 2020; second time a Blink camera taken; 72nd Pct burglaries 104 YTD vs 76 (address/names/brand omitted on page) | §5 ¶7, Q&A battery camera, AI check, sources |
+| 17 | (fetch) | WebFetch | https://patch.com/new-york/windsorterrace/windsor-terrace-cops-warn-car-break-ins | Apr 30 2017 arrest near Windsor Pl & Fuller Pl, man checking car door handles; posted May 3 2017 | §5 ¶7, AI check |
+| 18 | (fetch) | WebFetch | https://www.nysenate.gov/legislation/laws/MDW/4 | MDL §4(6) private dwelling ≤2 families; §4(7) multiple dwelling 3+ families | two-household section, thresholds SVG |
+| 19 | NYC Tenant Data Privacy Act Local Law 63 2021 smart access building definition | WebSearch → WebFetch | https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page ; https://intro.nyc/local-laws/2021-63 (excerpt) | class A multiple dwellings using smart access; written policy, consent, limited data, destroy within 90 days, no harassment/eviction, no requirement to use smart access to enter unit | two-household section, FAQ 5, AI check |
+| 20 | "Windsor Terrace" historic district landmark designation proposal LPC | WebSearch | (results incl. Patch poll excerpt) | Only individual landmark found = firehouse; Patch: part of Park Slope HD extension within blocks some consider Windsor Terrace; no WT district found | Q&A landmark |
+| 21 | Pavilion Theater Bartel-Pritchard Square condo 2025 | WebSearch | (results) | Pavilion in Park Slope HD; no current plan found → not used | — |
+| 22 | site:reddit.com Windsor Terrace Brooklyn packages stolen OR break in OR keys | WebSearch | (no Reddit results) | EMPTY | sources note |
+| 23 | Silo law/prices reused | repo | access-control-installation-prospect-park-south-brooklyn-ny price table; Williamsbridge section #18 (BC 1010.1.9.8/1010.1.9.9) | Brooklyn price lines; Building Code sections | pricing, packages, §8.5, AI check |
+
+### EMPTY sources
+- Google PAA / PASF / AI Overview: EMPTY (not accessible in build env) — AI Reality Check quotes no AI text
+- Answer the Public: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo autocomplete: EMPTY (not accessible in build env)
+- Yelp 1–3★: EMPTY (not accessible in build env)
+- Reddit (Windsor Terrace doors/porches/packages): EMPTY (no threads found)
+- Brooklyn Eagle (2018 home invasion; 2016 "Ten things"): EMPTY (403, not accessible in build env)
+- StreetEasy blog "Windsor Terrace what to know": EMPTY (403)
+- Brooklyn CB7 Windsor Terrace page: EMPTY (404)
+- Count/share of enclosed porches in the neighborhood: EMPTY (no source; page says "many", as Brownstoner does)
+- Google Drive "AESS Website Photos/Access Control" and CompanyCam: not used (per task)
+
+### FLAGS (conflicts, hedges, AESS practice)
+- 1849 buyer: Wikipedia "William Bell" vs LPC "Robert Bell" vs CityNeighborhoods "Charles Batchelor" — page uses "a developer" + states the conflict in Sources.
+- Holy Name: Wikipedia "built 1874" vs LPC "erected 1878" (LPC dates a Protestant chapel to 1874) — page uses 1878, conflict stated.
+- Expressway dates 1953–60 vs 1953–62 (Forgotten NY) — stated.
+- Fuller Place Doric porches from a search excerpt only (6sqft related article).
+- Landmark status: "no Windsor Terrace historic district found" is a search result, not an LPC confirmation — page tells owners to check the LPC map.
+- Arrow Linen: approved, financing pending at time of source; nothing built — stated.
+- MDL/TDPA material framed as summary, "not legal advice"; two-family systems set up "as if" covered = AESS practice.
+- Unsourced, written as AESS practice: which-door decision rules, porch frame/strike limits, porch temperature guidance, cellar cable route, party-wall rule, first-month checklist, laundry-corner mounting, field-notes survey routine, install durations, neighbor-porch masking.
+- Kermit Place burglary: address, names and camera brand omitted; 72nd Pct figures are 2020, precinct-wide.
+- Images: all from AESS library folders (video-wall-installation/, apartment-building-security-camera-installation/); scenes also appear elsewhere in the silo under other crops (e.g. Williamsbridge glass-entrance and corridor scenes) — real-photo pool exhausted; none shows a Windsor Terrace door.
+
+### Question register
+Q&A (§9, H3):
+1. Decades ago someone glassed in our porch, so the house’s original door now sits inside it. Does the electronic lock belong on the outer porch door or on that original door?
+2. Couriers leave boxes inside our closed-in porch whenever the outer door is unlocked. Can the porch accept a delivery without anyone opening the house?
+3. The porch walls are mostly glass in thin wood framing. Is that frame strong enough to hold an electric strike?
+4. We work from the enclosed porch and clients visit it. Can the porch door stand unlocked during office hours while the house door stays shut?
+5. Our porch is unheated: freezing in January, an oven in July. Which locks and readers survive conditions like that?
+6. Our row house shares brick walls with the houses on both sides. How does cable reach the kitchen door at the back without opening our finished rooms?
+7. Our cellar door is at the bottom of outside steps behind a low iron gate. Which should be controlled, the gate or the door?
+8. On an attached row the only way into our back yard is through the house. How can a gardener or contractor work out back without the run of the rooms?
+9. Our kitchen opens to a rear deck several steps above the yard. Where does a reader go on a door that high up?
+10. The only sensible spot for the controller is the cellar laundry corner, beside the washer and dryer. Is that too damp for the equipment?
+11. We close next month on a house the sellers owned for forty years. Who might still have keys, and what should change first?
+12. The sellers left an old wired bell, two intercom handsets and a battery doorbell camera. What is worth keeping?
+13. We are gutting the parlor floor this winter but will not add a door system until next year. What should our contractor leave in the walls?
+14. Couldn’t a burglar simply unscrew a battery doorbell camera from the porch and walk off with it?
+15. Is any of Windsor Terrace landmarked, so that a station on our porch would need Landmarks approval?
+
+FAQ (§17 = FAQPage schema):
+1. At Brooklyn rates, what does it cost to put a strike on the original door and a keypad on the porch door of a Windsor Terrace row house?
+2. Is there a travel or parking charge for a visit to Windsor Terrace from your Troy Avenue office?
+3. How many hours does a porch-and-inner-door job on a Calder row house usually take, and does someone need to be home the whole time?
+4. Our parents visit often but don’t use smartphones. How will they get in once the front door goes electronic?
+5. Our apartment building near Fort Hamilton Parkway still has decades-old intercom handsets in every unit. Can fob readers go on the lobby door without replacing all of them?
+6. Do you ever need to go into the house next door to run cable on an attached row?
+7. On our row the porches sit a few feet apart. Will a door station camera at our porch door look straight into the neighbors’ porch?
+8. Can a small shop on Prospect Park West get an alert on the owner’s phone when the back door opens after closing time?
+9. What paperwork do we receive at the end of the job for our records and our home insurer?
+10. Will you come out for something small, like a single door contact on the cellar door?
+
+Meaning check: questions written against the register themes already used (two-family shared-door privacy at City Line/Bensonhurst/Olinville, closing-day readiness at Boerum Hill, previous owner's keypad, subway-vibration at PPS, internet/power loss, other installer, selling the house) and steered to Windsor-Terrace-specific intents (enclosed porch two-door choice, porch lobby deliveries, light porch frames, unheated glass porches, party-wall cellar routes, areaway gate vs cellar door, yard access through an attached row, deck door, laundry-corner controller, unknown keys after a 40-year ownership, sellers' leftover devices, pre-wire during gut, battery camera theft, landmark status). check_page exact-match duplicate check passed.
+
+### Images (11, images/access-control-installation/, WebP q80, ≤1600 px, each source viewed first; no faces, house numbers, plates or readable documents)
+| New file (access-control-installation-windsor-terrace-…) | Source | Crop |
+|---|---|---|
+| dome-camera-above-glass-entry-front.webp (hero) | video-wall-installation/video-wall-installation-westchester-county-glass-lobby-front-below-drop-ceiling.webp | 0,270–935,810 |
+| grey-door-with-lever-at-end-of-hall.webp | video-wall-installation/video-wall-installation-long-island-corridor-wall-plates-below-drop-ceiling.webp | 0,330–635,1050 |
+| recorder-views-of-brick-side-path-and-back-room-door.webp | video-wall-installation/video-wall-installation-westchester-county-two-view-split-screen-lot-and-storeroom.webp | full |
+| shop-ceiling-monitor-over-front-window.webp | video-wall-installation/video-wall-installation-long-island-ceiling-hung-display-over-shop-shelving.webp | 0,0–1130,500 (product branding cropped out) |
+| lit-exit-sign-and-mini-camera-in-ceiling.webp | video-wall-installation/video-wall-installation-long-island-office-drop-ceiling-exit-sign-and-camera.webp | 0,90–720,560 |
+| dome-camera-on-yellow-fascia-against-bare-branches.webp | apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-dome-camera-on-yellow-fascia-against-winter-sky.webp | 80,0–557,300 |
+| camera-at-corner-of-dropped-soffit.webp | video-wall-installation/video-wall-installation-westchester-county-soffit-and-recessed-lights-in-lobby-ceiling.webp | full |
+| cable-bundles-across-open-ceiling.webp | video-wall-installation/video-wall-installation-long-island-network-cable-bundles-overhead-above-display.webp | full |
+| wall-monitor-tile-grid-under-cable-runs.webp | video-wall-installation/video-wall-installation-long-island-single-monitor-32-tile-grid-beside-rack.webp | 300,0–1247,560 |
+| patch-cords-hanging-beside-monitor-edge.webp | video-wall-installation/video-wall-installation-long-island-patch-cables-down-rack-beside-display.webp | 0,0–320,700 |
+| small-black-camera-on-bare-white-wall.webp | apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-small-black-camera-on-bare-white-wall.webp | full |
+Rejected after viewing: video-wall-installation branded-technician scenes (AI-generated look: logo shirts, staged), plus folders earlier runs rejected (low-voltage/, network/, commercial-security/*.jpg, construction/, buzzer-repair/). Real access-control photos still needed.

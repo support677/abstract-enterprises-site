@@ -349,9 +349,9 @@ LIVE REBUILD | access-control-installation-tremont-bronx-ny | Access Control Ins
 LIVE REBUILD | access-control-installation-washingtonville-bronx-ny | Access Control Installation | Washingtonville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-westchester-square-bronx-ny | Access Control Installation | Westchester Square, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | access-control-installation-williamsbridge-bronx-ny | Access Control Installation | Williamsbridge, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-21T17:07Z REBUILD | access-control-installation-williamsburg-brooklyn-ny | Access Control Installation | Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T17:07Z REBUILD | access-control-installation-windsor-terrace-brooklyn-ny | Access Control Installation | Windsor Terrace, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-21T17:07Z REBUILD | access-control-installation-kingsbridge-heights-bronx-ny | Access Control Installation Kingsbridge | Heights, Bronx | up /access-control-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE REBUILD | access-control-installation-williamsburg-brooklyn-ny | Access Control Installation | Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-windsor-terrace-brooklyn-ny | Access Control Installation | Windsor Terrace, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | access-control-installation-kingsbridge-heights-bronx-ny | Access Control Installation Kingsbridge | Heights, Bronx | up /access-control-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | alarm-installation-bath-beach-brooklyn-ny | Alarm Installation | Bath Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-bedford-park-bronx-ny | Alarm Installation | Bedford Park, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | alarm-installation-boerum-hill-brooklyn-ny | Alarm Installation | Boerum Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
