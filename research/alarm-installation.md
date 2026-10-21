@@ -284,3 +284,264 @@ Format per entry: exact query · platform · URL · finding · page + section us
 ### Other question-form headings on the page
 - Alarm Beeping, a Zone That Won’t Clear, or a Keypad Gone Dark: Same-Day Repair in the Heights (not a question)
 - Alarm Won’t Stop Chirping or a Rear Zone Stuck Open? Call the Brooklyn Heights Line
+
+## Bath Beach, Brooklyn — /alarm-installation-bath-beach-brooklyn-ny (REBUILD, 2026-10-21)
+
+Page thesis: Bath Beach is mostly two- and three-family brick houses, where owner and tenant share a street door, stair and cellar. Local break-in reports keep pointing to upper and rear windows and to individual apartments. Stores sit under the elevated D on 86th Street and along Bath Ave and Cropsey Ave, and low blocks lie near Gravesend Bay. Design response: partitioned alarms (one area per household plus a common area), a reachable-window survey on every floor, the panel kept high and dry with water sensors, and acoustic glass-break tuned to the train for el storefronts.
+
+Note: research/alarm-installation.md did not exist at build time. This page is the first rebuilt alarm-installation neighborhood page in this batch, so the silo-wide section below is a first pass.
+
+### Silo-wide findings (alarm installation)
+
+| # | Source | Exact query | Platform | URL | Finding | Used on page |
+|---|---|---|---|---|---|---|
+| 1 | Google PAA | — | Google | — | EMPTY (not accessible in build env) | — |
+| 2 | Google PASF | — | Google | — | EMPTY (not accessible in build env) | — |
+| 3 | Answer the Public | — | ATP | — | EMPTY (not accessible in build env) | — |
+| 4 | Google AI Overview | — | Google | — | EMPTY (not accessible in build env). The Reality Check section says so explicitly and quotes no AI claim. | §10.5 intro |
+| 5 | Bing / DuckDuckGo PAA/autocomplete | — | Bing/DDG | — | EMPTY (not accessible in build env) | — |
+| 6 | Yelp 1–3★ | — | Yelp | — | EMPTY (not accessible in build env) | — |
+| 7 | Reddit | "reddit r/Brooklyn home alarm system recommendation monitored burglar alarm NYC house" | WebSearch | — | No Reddit threads returned. Only an old Brownstoner forum (brownstoner.com/forum/alarm/2/, about 14 years old: ADT quoted $800 for a two-family; a complaint about an installer drilling holes) and vendor review pages. Not used, as outdated. | not used |
+| 8 | NYC Admin Code § 24-238 | "New York City local law 113 of 2005 noise code "burglar alarm" building automatically terminate 15 minutes section 24-230" (extended) | WebSearch + WebFetch | https://nycadmincode.readthedocs.io/t24/c02/sch06/ | An owner may not operate an audible building burglar alarm unless it can terminate, and does terminate, "within fifteen minutes of its being activated in the case of a building". Vehicle alarms: 3 minutes. The amlegal page returned 403. The older 1998 text (nonoise.org) had this as § 24-221(d), with fines of $280–$700 for a first violation; the fines were not used because that text is old. | Repair section; §8.5 rules list; Q&A on party-wall neighbors; equipment sirens; Common Fixes #6; SVG |
+| 9 | NYC DEP Noise Code fact sheet | "nyc.gov DEP "noise code" guide "burglar alarm" building alarm minutes" | WebFetch | https://www.nyc.gov/assets/dep/downloads/pdf/environment/education/nyc-noise-code-fact-sheet.pdf | Does not mention burglar alarms. Noted in the Sources section. | Sources |
+| 10 | NYS GBL Article 6-D | "New York State alarm installer license Article 6-D General Business Law Department of State security or fire alarm installer" | WebSearch + PDF read | https://dos.ny.gov/system/files/documents/2024/05/security_0.pdf | DOS guide, January 2023. § 69-m: license required since Oct 1, 1992; a licensee must issue ID cards to unlicensed employees; owners installing on their own property are exempt. § 69-o: exam, fingerprints, $15 exam fee. § 69-q: licenses run for two years. Rules are in 19 NYCRR Parts 195–196. | §8.5 rules list; AI check "Anyone can install"; comparison table; Sources |
+| 11 | NYC alarm permit / NYPD false-alarm policy | "NYPD burglar alarm false alarms policy response New York City alarm permit registration" | WebSearch | — | No NYC or NYPD source returned, only other municipalities (Yonkers, Rye, Croton). The page makes no NYC permit or false-alarm-fee claim. The hub page claims "permit fees $25–$100"; this was not verified and not repeated. FLAG for Anwar. | not used |
+| 12 | AESS pricing | — | internal | /alarm-installation-brooklyn | Brooklyn list (multiplier 1.00): basic residential from $600; wireless $600–$1,200; complete home from $2,500; hardwired $2,000–$6,000; panel replacement $800–$1,500; per unit $400–$800; commercial $1,500–$3,000 (starting $1,500); cameras add $1,000–$2,500; BYOE kit install $200–$400; monitoring partners from $19.99/mo; service $195/hr, 3-hr min ($585). | Pricing table, packages, FAQ 1, AI check, Q&A |
+
+### Local findings (Bath Beach)
+
+| # | Source | Exact query | Platform | URL | Finding | Used on page |
+|---|---|---|---|---|---|---|
+| L1 | Wikipedia | (direct fetch) | WebFetch | https://en.wikipedia.org/wiki/Bath_Beach,_Brooklyn | CD11. Borders: 86th St (Bensonhurst/New Utrecht), 14th Ave (Dyker Beach Park), Stillwell Ave (Gravesend). 480.37 acres; 2020 population 33,070. Named after Bath, Somerset; part of New Utrecht; had its own amusement park. Beach paved for Shore Pkwy; early-1940s fill in the SW half extended Bensonhurst Park. Housing is working-class: semi-attached houses and small apartment buildings. Shops at Ceasar's Bay, 86th St and Bath Ave. Grid: Cropsey, Bath, Benson, 86th St; Bay 7th–Bay 54th streets; Bay Pkwy = 22nd Ave; Harway Ave from Stillwell to 24th Ave. D stations at 18th Ave, 20th Ave, Bay Pkwy, 25th Ave and Bay 50th St; buses B1, B3, B6, B8, B64, B82; X28/X38. Ulmer Park library at 2602 Bath Ave (1963, renovated 2016). ZIPs 11214 and 11228. Stated density of 62.3/acre doesn't reconcile with population and area. | Neighborhood, facts list, near-the-bay, commercial, landmarks, Sources |
+| L2 | Wikipedia | (direct fetch) | WebFetch | https://en.wikipedia.org/wiki/BMT_West_End_Line | Elevated over New Utrecht Ave, 86th St and Stillwell Ave under the Dual Contracts of 1913. Opened June 24, 1916, and fully July 21, 1917. Bay Parkway station opened July 29, 1916. | Neighborhood, landmarks |
+| L3 | NYPD | "62nd Precinct Bath Beach Bensonhurst NYPD" | WebSearch | https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/62nd-precinct.page | 1925 Bath Ave; covers Bensonhurst, Mapleton and Bath Beach. | Facts list, commercial, landmarks, Q&A (alarms don't call the precinct directly) |
+| L4 | Wikipedia CB11 | "Brooklyn Community Board 11 Bath Beach Bensonhurst Gravesend Mapleton district profile" | WebSearch | https://en.wikipedia.org/wiki/Brooklyn_Community_Board_11 | Covers Bath Beach, Gravesend, Mapleton and Bensonhurst; office at 2214 Bath Ave; 2020 population 198,527. | Facts list, commercial |
+| L5 | NYC DOF neighborhood sales 2022 | "Bath Beach Brooklyn housing stock two-family semi-detached homes neighborhood guide" | WebFetch + pdftotext | https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/neighborhood_sales/2022/2022_brooklyn.pdf | Bath Beach: one-family 19 sales (median $880,000); two-family 74 ($1,215,000); three-family 32 ($1,672,500). | Hero, neighborhood, facts list, building types, AI check |
+| L6 | NYC DOF neighborhood sales 2024 | (URL pattern) | WebFetch + pdftotext | https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/neighborhood_sales/2024/2024_brooklyn.pdf | One-family 12 ($1,107,500); two-family 44 ($1,252,000); three-family 17 ($1,630,000). | Neighborhood, facts list, building types |
+| L7 | NYC DOF older sales (search snippet only) | same as L5 | WebSearch | nyc.gov 2006–2010 rolling sales PDFs | Snippet: many two-family houses on Bay 7th/8th St and 15th Ave built around 1930. Not opened directly. | Building types card ("city sales records from the late 2000s") |
+| L8 | BrickUnderground, June 2, 2022 | (direct fetch) | WebFetch | https://www.brickunderground.com/buy/buy-curious-bath-beach-brooklyn-prices-condos-coops-houses-restaurants-entertainment-transportation-nyc | Condos; co-ops converted from rentals (four-story walk-ups); 1–3-family houses; Victorians over 100 years old; 3-story new condos (6–12 units) on demolished-house lots. Quote from broker Dan Gallogly: "There's no vacant land". Lists the D and buses, Shore Parkway Greenway, Bensonhurst Park ($7.86M renovation). | Neighborhood, building types |
+| L9 | Brownstoner listing (search snippet) | "Bath Beach Victorian houses remaining Bay 17th Street Brownstoner OR "Brooklyn Eagle"" | WebSearch | https://www.brownstoner.com/listing/BKMLS-5709459/65-bay-23rd-st-bath-beach-brooklyn-ny-11214 | Detached three-family Victorian on Bay 23rd St, built around 1910. | Building types (Victorians) |
+| L10 | Brooklyn Paper, Jan 19, 2024 | "brooklynpaper.com Bath Beach burglar broke into home 62nd Precinct Bay street window" | WebFetch | https://www.brooklynpaper.com/home-invasion-robbery-bath-beach/ | Jan 5, 2024, near Bay 23rd St and 86th St: four people climbed into a second-story window; robbery and stabbing. | Neighborhood, windows section, AI check |
+| L11 | Brooklyn Paper, Feb 7, 2024 | (from search above) | WebFetch | https://www.brooklynpaper.com/62nd-precinct-cops-catch-attempted-burglar | Jan 24, on 23rd Ave near Cropsey Ave: suspect seen forcing entry on live camera; escaped through a front window; arrested with a gun. | Neighborhood, windows section |
+| L12 | Brooklyn Paper, Nov 16, 2016 | (from search above) | WebFetch | https://www.brooklynpaper.com/brute-busts-into-sleeping-mans-bath-ave-home | Nov 12, Bath Ave between Bay 16th and Bay 17th: apartment front door kicked in, then a bedroom door upstairs. | Windows section |
+| L13 | Brooklyn Paper, Dec 29, 2023 | "Bath Beach Brooklyn burglary 2025 OR 2026" | WebFetch | https://www.brooklynpaper.com/62-precinct-burglar-steals-tools-bath-beach | Dec 20, near Shore Pkwy and Eugene R. Romano Lane: lock removed from a shipping container; $50,000 of tools taken. | Neighborhood, commercial (Shore Pkwy card) |
+| L14 | News 12, Feb 25, 2026 | ""Bath Beach" reddit break-in OR burglary OR "package theft"" | WebFetch | https://bronx.news12.com/police-search-for-five-men-wanted-in-bath-beach-home-invasion-pattern | Bay 37th St and 86th St: Feb 15, five men forced entry and took $10,000 from a tenant's bedroom dresser; they returned Feb 17. | Neighborhood |
+| L15 | CBS New York, June 24, 2018 | same as L13 | WebFetch | https://www.cbsnews.com/newyork/news/search-for-serial-house-burglar-in-brooklyn/ | Serial burglar forced open the back window of a Bath Beach home (April). | Neighborhood |
+| L16 | Brooklyn DA, May 29, 2024 | same as L13 | WebFetch | https://www.brooklynda.org/?p=18566 | Spree included a Bath Avenue grocery burglarized Oct 6, 2022. Seven burglaries in total; 10-year sentence. | Neighborhood, commercial |
+| L17 | Brooklyn Paper, Aug 18, 2021 | same as L14 | WebFetch | https://www.brooklynpaper.com/62nd-precinct-home-invasion-bath-beach-cash | Aug 9, Bath Ave apartment between 20th Ave and Bay 25th St broken into; $2,200 taken. | not used (kept in reserve) |
+| L18 | Forgotten NY, 86th Street | "86th Street Bensonhurst Bath Beach stores under elevated D train shopping corridor news" | WebFetch | https://forgotten-ny.com/2011/12/86th-street-in-bensonhurst/ | El over 86th St; Loew's Oriental at Bay 19th (opened 1927, closed May 21, 1995; now a Marshalls); Lenny's Pizza at 1969 86th St; concrete span with terra cotta at Bay Pkwy; Engine 253 east of 24th Ave. | Commercial (86th St card), landmarks |
+| L19 | Forgotten NY, Cropsey/Harway | (direct fetch) | WebFetch | https://forgotten-ny.com/2017/12/cropsey-harway-shift-bath-beach/ | Cropsey Ave is the main artery; Harway Ave runs SE to Stillwell; the two names swapped between 1929 and 1938 maps. | Background only |
+| L20 | Hey Ridge 2016 / YIMBY 2016 | "Ceasar's Bay shopping center Bay Parkway Bath Beach history" | WebSearch | https://www.heyridge.com/2016/08/was-there-ever-really-a-ceasars-bay/ | Opened June 4, 1982, on the Korvette site; named for Ceasar Salama. YIMBY: 2016 expansion filing at 1684 Shore Pkwy. | Commercial (Shore Pkwy card) |
+| L21 | NWS coastal flood impacts (search result) | "Hurricane Sandy Bath Beach flooding basements Cropsey Avenue Shore Parkway" | WebSearch | https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf | "Inundation extended inland to Avenue X into Bensonhurst, Gravesend and Sheepshead Bay, shutting down the Belt Parkway." No Bath Beach block-level source found. | Near-the-bay section, AI check |
+| L22 | HDC / LPC | "Engine Company 253 firehouse 2429 86th Street landmark designated" | WebSearch | https://hdc.org/buildings/fire-engine-company-253/ | 2425–2427 86th St; Parfitt Brothers, 1895–96; designated Sept 15, 1998. Address conflict with Foursquare (2429) noted. | Landmarks, Sources |
+| L23 | St. Finbar | "St. Finbar Church Bath Avenue Bay 20th Street Brooklyn history" | WebSearch | https://www.brooklynpaper.com/st-finbars-turns-130th-anniversary | Parish founded 1880 (Town of New Utrecht); current church 1912; 138 Bay 20th St. | Landmarks |
+| L24 | Bensonhurst Park | "Bensonhurst Park renovation Cropsey Avenue Bay Parkway NYC Parks Calvert Vaux Park Gravesend Bay" | WebSearch | https://www2.nycgovparks.org/planning-and-building/capital-project-tracker/project/7363 | Bounded by Cropsey Ave, Bay Pkwy and 21st Ave, running to the bay. Playground reconstruction: $7.09M funding vs $7.86M cost; completion dated both Jan 2020 and Dec 2020. | Landmarks, Sources |
+| L25 | Reddit, local | "reddit Bath Beach Brooklyn living safety"; ""Bath Beach" reddit break-in OR burglary OR "package theft"" | WebSearch | — | EMPTY (no Reddit threads returned) | Sources note |
+| L26 | Brooklyn Eagle walking piece | — | WebFetch | https://brooklyneagle.com/95575/explore-the-shore-and-see-victorian-houses-in-bath-beach/ | EMPTY (403 Forbidden) | — |
+
+### Images (11)
+All are in /images/alarm-installation/. Source files: nassau-window-depot-office-camera.jpeg (cropped), rockland-toyota-wall-camera.jpeg, manhattan-deli-interior-cameras.jpeg (cropped), manhattan-deli-monitor.jpeg, manhattan-deli-exterior-camera.jpeg, rockland-toyota-hallway-camera.jpeg (cropped), nassau-window-depot-storage-camera.jpeg, alarm-com-vdb770-video-doorbell.png, floodlight-alarmcom-v729ac.png, intercom-keypad-akuvox.png, nvr-honeywell-35-series.png. The library has no genuine alarm panel, keypad or contact photos; real alarm photos should replace these when uploaded.
+
+### Question register
+Q&A (§9, H3):
+- Can the upstairs tenant in my Bay street two-family have an alarm code that only works on their own floor?
+- If the alarm goes off upstairs while I am at work, who gets the call?
+- My elderly mother lives on the first floor and will not use a keypad. What are the options?
+- Is it legal for a landlord to put an alarm in the shared hallway of a two-family?
+- Which windows in a brick row house actually need sensors?
+- Will a motion detector go off because of the cat, the radiator or the train?
+- Can I leave a bedroom window open a few inches in summer and still arm the alarm?
+- Our cellar has a separate door to the yard. Does it need its own sensor?
+- Does an alarm in Bath Beach call the 62nd Precinct directly?
+- How do I keep the alarm from waking up the neighbors on the other side of the party wall?
+- What is the difference between self-monitoring and paying a central station?
+- Can a camera confirm an alarm before anyone is called?
+- The house came with an old alarm nobody has used in years. Is it worth saving?
+- We are converting the house from one family to two. When should the alarm be redone?
+- What happens to the alarm when we sell the house?
+- ADT, Ring or SimpliSafe, or a local installer, for a Bath Beach two-family? (comparison heading)
+
+FAQ (§17, matches FAQPage):
+- What does a partitioned alarm for a Bath Beach owner-and-tenant two-family cost on your Brooklyn list?
+- Is there a travel charge to Bath Beach from your Troy Avenue office?
+- How long does it take to install an alarm in a two-family on a Bay street?
+- Do both households need to be home on installation day?
+- Can a store under the el on 86th Street get a weekend installation so it does not lose business?
+- Will my homeowner's insurance give a discount for a monitored alarm?
+- What happens to the alarm during a Con Edison power outage?
+- Can you add cellar water sensors to an alarm someone else installed?
+- Do you remove the old keypads and stickers from a dead system?
+- Who do I call if the alarm acts up a month after installation?
+
+## Bedford Park, Bronx — /alarm-installation-bedford-park-bronx-ny (REBUILD, 2026-10-21)
+
+Format: exact query · platform · URL · finding · page + section used. Page thesis: alarms for a renter-majority neighborhood of prewar walk-up/elevator apartment buildings (removable unit systems), owner common-area zones (cellar, boiler room, roof door, mail area) reporting silently, storefronts on Bedford Park Blvd / garages on Webster Ave, and keeping unit burglary/fire signals separate from building fire alarm systems.
+
+### Silo-wide findings (alarm installation) — first alarm-installation research file entry
+
+- Google PAA — EMPTY (not accessible in build env)
+- Google PASF — EMPTY (not accessible in build env)
+- AnswerThePublic — EMPTY (not accessible in build env)
+- Google AI Overview — EMPTY (not accessible in build env); Reality Check section states this on-page and uses cost-guide claims instead
+- Bing / DuckDuckGo autocomplete — EMPTY (not accessible in build env)
+- Yelp 1–3★ — EMPTY (not accessible in build env)
+- Reddit — "reddit AskNYC apartment alarm system renter monitored alarm landlord allow NYC" · WebSearch · no Reddit threads returned (results: ipvm.com/forums/video-surveillance/topics/apartment-unit-alarm-panels-monitoring — developer pre-wires units, resident may have to give management an alarm code) · EMPTY for Reddit; ipvm finding not used on page
+- "Angi home security system installation cost 2025 average professional monitoring per month" · WebSearch · https://www.homeadvisor.com/cost/safety-and-security/install-an-alarm-system/ · HomeAdvisor average $747, range $55–$2,500; monitoring $10–$65/mo (also NerdWallet $20–$80/mo; no Angi-specific figure found) · AI Reality Check H3 #1
+- "New York Department of State security or fire alarm installer license Article 6-D General Business Law requirements" · WebSearch → WebFetch · https://dos.ny.gov/get-security-or-fire-alarm-installer-license · GBL Art. 6-D licensing; age 18+, fingerprinting, ≥81 hours (four 15-h + one 21-h modules), exam; fees $185/$200 initial, $100 renewal; Division of Licensing Services (518) 474-4429; page has no public lookup tool · Commercial compliance list; Q&A "How can I confirm ... licensed"; AI Reality Check H3 #7
+- "NYC noise code building burglar alarm sound 15 minutes..." · WebSearch (no primary) → WebFetch · https://nycadmincode.readthedocs.io/t24/c02/sch06/index.html · Admin Code §24-238(a): no owner of a building shall operate an audible burglar alarm unless it is capable of and does automatically terminate within fifteen minutes of activation (vehicles 3 min); §24-239 disconnection/posting is vehicle-specific · Services (storefront card), Commercial compliance list, Q&A (common-area siren, shop siren ran an hour, who hears it), AI Reality Check H3 #6, Equipment (sirens)
+- "NYC false alarm burglar alarm rules NYPD alarm company verification Administrative Code 10-131 apartment" · WebSearch · no NYC primary source found (only NYS bills A2477/S4328 on false-alarm fines, not shown as enacted) · NOT used. Note: the Bronx hub's "alarm permit $25–$100" FAQ claim could not be verified — flagged.
+- "HPD smoke detector carbon monoxide detector owner responsibilities multiple dwelling tenant reimburse $25 ten-year battery" · WebSearch · https://www.nyc.gov/assets/hpd/downloads/pdfs/services/Smoke-Detector-Posting-Notice-4.30.2025.pdf (+ sample_combined_notice_for_detectors.pdf) · owner must provide/install approved smoke & CO detectors in each apartment; tenant maintains and replaces lost/broken ones during tenancy; tenant may be charged up to $25 battery smoke detector ($50 combo, $75 with gas), 1 year to pay · Q&A smoke detector H3; AI Reality Check H3 #5
+- "NYC Department of Buildings fire alarm work permit required licensed electrician FDNY acceptance test fire alarm system" · WebSearch · https://www.nyc.gov/assets/fdny/downloads/pdf/business/tips-fire-alarm-systems.pdf (+ nyc-business.nyc.gov fire-alarm-application) · fire alarm plans to FDNY; project authorization; NYC licensed electrician / fire alarm vendor with FDNY Fire Alarm Company Certificate; acceptance test per NFPA 72 / BC Appendix Q; FDNY inspection · Commercial compliance list; Q&A (one panel fire+burglary; old bell and pull box)
+- Keyword layers — Service: alarm installation, apartment alarm, burglar alarm, storefront alarm, alarm monitoring, panel replacement, alarm takeover. Problem: siren won't stop, keypad chirping, dead phone line communicator, false alarms, held-door tailgating, forced mailboxes, forced window. Technology: wireless/hybrid panel, cellular communicator, door/window/overhead contacts, glass-break, pet-immune PIR, panic pendant, monitored smoke/CO, Alarm.com doorbell. Industry: renters, landlords/managing agents, Mitchell-Lama co-ops, delis/bodegas, auto repair, offices, daycares in apartment buildings. Geographic: Bedford Park, Bedford Park Blvd, Webster Ave, Grand Concourse, Jerome Ave, Mosholu Pkwy, Decatur Ave, Villa Ave, Bainbridge Ave, Perry Ave, E 201st St, 52nd Precinct, CB7, Lehman College, NYBG.
+
+### Bedford Park (local)
+
+- (Wikipedia fetch) · WebFetch · https://en.wikipedia.org/wiki/Bedford_Park,_Bronx · bounds Mosholu Pkwy/Webster Ave/E 196th St/Jerome Ave; 0.455 sq mi; CD7; ZIPs 10468 west of Concourse, 10458 east; land use 5–6-story apartment buildings + 3-story Victorian houses, taller on Concourse; Tracey Towers 41 stories Mitchell-Lama 1972; 52nd Pct 3016 Webster Ave; 49th safest of 69 (2010); 2022: 192 burglaries; crime −76.1% 1990–2022; E79/L37/Bn27 at 2928 Briggs Ave; Educational Mile (Walton, DeWitt Clinton, Bronx Science, Lehman); Lehman ex-Hunter Bronx campus, WPA Collegiate Gothic, UN 1946; Mount St. Ursula convent 1892 at Bedford Park Blvd & Bainbridge; Bedford Park Congregational Church 1882, Bainbridge & E 201st, landmark 2000; Mosholu library 285 E 205th St, 1955, Whalen Park; stations Bedford Park Blvd–Lehman College (4), Bedford Park Blvd (B/D), Botanical Garden (Metro-North); Bedford Park Blvd = main business district; Jerome Park racetrack → reservoir · Hero, Neighborhood paras 1/2/5 + glance list, Building Specialists, Commercial, Landmarks, Sources
+- "Bedford Park Bronx prewar apartment buildings Grand Concourse Art Deco Bainbridge Avenue Decatur Avenue history" · WebSearch → WebFetch · https://www.cityneighborhoods.nyc/bedford-park · prewar brick apartment buildings with decorative lobbies and courtyards on Villa Ave, Bedford Park Blvd, Decatur Ave; Art Deco/Art Nouveau on Concourse; attached homes 1910–1930; shopping: delis, Dominican cafés, bodegas, bookstores, Caribbean and South Asian eateries; Webster Ave "more industrial rhythm" · Neighborhood para 2, Building Specialists (courtyard card), Commercial (Boulevard)
+- (Furman Center fetch) · WebFetch · https://furmancenter.org/neighborhoods/view/kingsbridge-heights-bedford · homeownership 4.0% (2024); rental vacancy 1.1% (2024); serious HMC violations 283.6/1,000 private rental units (2025) vs 152.1 (2006); 10 Mitchell-Lama properties / 1,713 units (2025) · Hero, Neighborhood paras 2/3/6, glance list, Building Specialists (Mitchell-Lama), AI Reality Check H3 #2
+- "Webster Avenue Bedford Park Bronx corridor businesses auto shops rezoning Norwood News Bedford Park Boulevard shops" · WebSearch → WebFetch · https://citylandnyc.org/contextual-rezoning-of-80-bronx-blocks-considered · Feb 15 2011: 80-block rezoning, Webster Ave E 193rd–E 211th; corridor = auto repair shops, low-scale offices, parking lots, vacant lots, minimal pedestrian traffic; Third Ave El demolished 1973; Bedford Park = 1–2-family detached, attached/semi-detached homes, 5–7-story apartment buildings (adopted by Council March 23, 2011 per DCP/search summary) · Neighborhood para 2, glance list, Commercial (Webster)
+- (Tracey Towers fetch) · WebFetch · https://en.wikipedia.org/wiki/Tracey_Towers · 20 & 40 W Mosholu Pkwy, 871 units, Paul Rudolph, completed 1972, Mitchell-Lama; article places it in Jerome Park (conflicts with Bedford Park article) · Sources note on disagreement
+- "Bedford Park Bronx burglary store Webster Avenue OR "Bedford Park Boulevard" 52nd Precinct 2025" / "Norwood News "3000 Jerome Avenue" unlocked front door burglary Bedford Park" · WebSearch → WebFetch · https://www.norwoodnews.org/bedford-park-two-sought-for-commercial-robbery/ · pub. July 25 2025; July 10 2025 ~4:06 a.m., 3000 Jerome Ave (Blink Fitness), entry through unlocked front door, ~$142 · Neighborhood para 4; Commercial (Jerome Ave)
+- same search · WebFetch · https://www.norwoodnews.org/bronx-police-hunt-kennedy-fried-chicken-thief/ · 2016 (25 Bedford Park Blvd, under gate, broke window) · NOT used (too old)
+- (prior-research lead, re-verified) · WebFetch · https://www.norwoodnews.org/bedford-park-man-sought-for-residential-burglary/ · pub. Sept 18 2025; Sept 10 ~4 a.m., near Perry Ave & Mosholu Pkwy South, entered building through front door as a tenant was exiting; ~$53 items · Neighborhood para 4; Q&A "stranger followed a neighbor"
+- (prior-research lead, re-verified) · WebFetch · https://bronx.news12.com/nypd-works-to-stop-drug-users-in-bedford-park-apartment-building · Aug 13 2025; 2850 Grand Concourse entry accessible through unlocked door; tenant petition; 52nd Pct patrols/monitors cameras; Titi's Daycare in building · Commercial (daycares in apartment buildings)
+- "reddit Bedford Park Bronx apartment break in package theft building" · WebSearch → WebFetch · https://www.norwoodnews.org/bedford-park-individuals-wanted-in-connection-with-mailbox-robbery/ · pub. Oct 10 2020; Sept 8 2020 ~5:14 a.m., 325 E 201st St, forced through secured front entrance, forced mailboxes, took packages · Neighborhood para 4; Q&A mailboxes
+- same search · WebFetch · https://norwoodnews.org/bedford-park-one-sought-for-house-burglary · pub. Feb 3 2024; Jan 16 2024 ~10 p.m., near Bedford Park Blvd & Bainbridge Ave, residential home, forced window, ~$1,200 · Neighborhood para 4
+- same search · https://bronx.news12.com/police-home-ransacked-and-burglarized-in-bedford · this is Bedford, Westchester (Pound Ridge Rd) · NOT used
+- "Lehman College address 250 Bedford Park Boulevard West; New York Botanical Garden 2900 Southern Boulevard address" · WebSearch · https://lehman.edu/about/campus-map.php ; https://www.archtober.org/partner/new-york-botanical-garden · Lehman 250 Bedford Park Blvd W 10468, at Goulden Ave, ~12 blocks west of NYBG; NYBG 2900 Southern Blvd 10458 · Commercial (institutions), Landmarks
+- CB7 office (from access-control research, not re-fetched) · https://www.nyc.gov/site/bronxcb7/index.page · listed in Sources only
+- Local Reddit for Bedford Park alarms — EMPTY (no threads found)
+- Patch / Bronx Times Bedford Park alarm stories — EMPTY (none found beyond Norwood News / News 12 above)
+
+### Unsourced / general AESS practice (labeled as practice on page)
+- Signal testing at each sensor before mounting; removable mounting for renters; silent reporting for building zones; motion sensors aimed away from storefront glass/gates; install duration 2–3 h for a typical apartment; field notes are a description of practice, not a story.
+- Pricing: existing alarm silo prices from /alarm-installation-bronx (Bronx ×1.00): basic $600 ($600–$1,200 wireless), complete from $2,500, hardwired $2,000–$6,000, multi-family $2,500–$5,000, per-unit $400–$800, commercial $1,500–$3,000, panel replacement $800–$1,500, BYOE $200–$400, monitoring from $19.99/mo, $195/h 3-h min. No new prices.
+
+### Images (11, permanent image rule — no real alarm photos yet)
+Sources: intercom-repair/intercom-repair-staten-island-stone-apartment-facade-with-camera-on-steel-arm.webp; intercom-repair/intercom-repair-putnam-county-dome-camera-and-motion-sensor-in-ceiling-corner.webp; hikvision-security-camera-installation/hikvision-security-camera-installation-ulster-county-small-camera-high-on-white-wall-with-double-shadow.webp; intercom-repair/intercom-repair-staten-island-corridor-to-grey-door-with-camera-and-wall-plates.webp; hikvision-security-camera-installation/hikvision-security-camera-installation-ulster-county-long-ceiling-run-toward-far-exit-sign.webp; intercom-repair/intercom-repair-putnam-county-touchscreen-keypad-entry-panel.webp; intercom-repair/intercom-repair-putnam-county-turret-camera-above-glass-entry-vestibule.webp; alarm-com-vdb750-video-doorbell.webp; intercom-repair/intercom-repair-staten-island-blue-and-white-cable-bundles-along-ceiling-pipe.webp; hikvision-security-camera-installation/hikvision-security-camera-installation-long-island-dome-camera-in-corner-under-stained-ceiling-tiles.webp; intercom-repair/intercom-repair-putnam-county-single-button-video-door-station.webp
+
+### Question register (alarm-installation-bedford-park-bronx-ny)
+Q&A (H3):
+1. I rent on the fourth floor of a six-story building off Bedford Park Boulevard. Can I have an alarm without drilling into the landlord’s door frame?
+2. If my apartment alarm trips while I’m at work across town, who actually hears it, and does anyone come?
+3. Our bedroom window opens onto the fire escape. How do you protect it without making it harder to climb out in a fire?
+4. My cat has the run of the apartment all day. Will the motion sensor keep setting the alarm off?
+5. Four of us share an apartment near Lehman College. Can each roommate have a separate code, and can we see who disarmed it?
+6. Can a building alarm cover the cellar, boiler room and roof door without a siren waking forty apartments at 3 a.m.?
+7. Someone forced our lobby mailboxes after getting through the street door. Can an alarm protect the mail area when the entrance itself was the weak spot?
+8. A stranger followed a neighbor in through the front door. Which alarm sensor would actually have noticed?
+9. Who should hold the codes and receive the alerts for a building alarm: the super, the managing agent or the tenant association?
+10. Is the smoke detector the landlord put in my apartment connected to any alarm, and will the fire department come if it goes off?
+11. Can one panel handle burglary for my unit and also smoke and carbon monoxide, or should they be kept apart in a six-story building?
+12. There’s an old bell and a red pull box in our hallway. Is that a fire alarm system you can add burglary sensors to?
+13. My store on Bedford Park Boulevard has a roll-down gate. Do the sensors go on the gate, the glass or the back door?
+14. We run a repair bay on Webster Avenue whose overhead doors open twenty times a day. How do you alarm a door like that?
+15. Our shop siren ran for an hour on a Sunday and the tenants upstairs complained. What does city law say about how long it can sound?
+16. Our office shares the street door and hallway with the apartments upstairs. Can we arm our space while tenants come and go?
+17. How can I confirm that whoever installs my alarm is licensed by New York State?
+FAQ (visible = FAQPage schema):
+18. How long does it take to install an alarm in a Bedford Park prewar apartment?
+19. Does the alarm still send alerts if the building’s internet or my Wi-Fi goes down?
+20. Do you need to get into other tenants’ apartments to wire a common-area alarm?
+21. What happens to my alarm and my monitoring if I move out of my Bedford Park apartment?
+22. Will the alarm keep working during a building-wide power outage?
+23. Can I arm my alarm from my phone after I’ve already left for the train?
+24. Do you install emergency buttons for an older relative who lives alone in the neighborhood?
+25. If I stop paying for monitoring later, does the alarm still do anything?
+26. The previous tenant left a keypad and sensors behind and nobody knows the code. Can it be reset for me?
+27. Are glass-break sensors worth it for a ground-floor apartment facing the street or a courtyard?
+Other headings (no '?'): "Alarm Chirping, Siren Stuck On, or a Panel Showing Trouble in Bedford Park? Same-Day Help" (contains '?' mid-heading, does not end with one); "Siren That Will Not Stop, or a Building Zone Gone Silent? Call the Bedford Park Line"
+
+## Boerum Hill, Brooklyn — /alarm-installation-boerum-hill-brooklyn-ny (REBUILD, 2026-10-21)
+
+Built 2026-10-21 as a REBUILD of a crawled-not-indexed template page; no old text reused. `research/alarm-installation.md` did not exist at build time, so the silo-wide findings this page relied on are recorded here for the main run to merge.
+
+**Thesis:** intrusion alarms for Boerum Hill's 1840s–1870s rowhouse historic district — wired-from-the-cellar lower floors vs wireless upper floors through lime plaster on lath; garden-level, parlor-floor, cellar/areaway and roof-hatch openings; rear yards; original sash and interior shutters; siren kept inside (LPC criteria); owner-and-tenant partitions — plus back-door, cellar-hatch and panel protection for Atlantic Avenue and Smith Street storefronts.
+
+### Silo-wide findings
+
+| # | Exact query | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| S1 | New York General Business Law Article 6-D security alarm installer license Department of State requirements | WebSearch | https://dos.ny.gov/system/files/documents/2024/05/security_0.pdf ; https://dos.ny.gov/security-or-fire-alarm-installer-application ; https://newyork.public.law/laws/n.y._general_business_law_article_6-d | Art. 6-D (GBL §§69-l–69-z) + 19 NYCRR Parts 195/196 cover anyone in the business of installing, servicing or maintaining security/fire alarm systems; hard-wired smoke detector installers covered, battery smoke detectors not; §69-m exempts an owner installing on own property with own employees; applicants 18+ | §8.5 compliance list; sources |
+| S2 | (fetch) | WebFetch | https://dos.ny.gov/security-or-fire-alarm-installer-application | Returned raw PDF binary — not parsed; relied on S1 snippets | — |
+| S3 | AT&T 3G shutdown February 22 2022 alarm systems communicators FCC | WebSearch | https://www.securitysales.com/news/alarmaggedon-att-3g-sunset-date/ ; https://www.lightreading.com/5g/atandt-faces-growing-calls-to-delay-3g-shutdown/d/d-id/771890 ; https://www.fierce-network.com/wireless/att-says-alarm-industry-trying-slam-brakes-its-3g-shutdown | AT&T sunset 3G on Feb 22 2022 despite AICC requests to delay to Dec 31 2022; AICC: ~3.6M alarms on AT&T 3G, ~2.4M on Verizon 3G | AI Reality Check #6; FAQ "landline"; pricing row "old panel replacement" |
+| S4 | NYC noise code burglar alarm building automatic shut off 15 minutes Administrative Code 24- | WebSearch | https://intro.nyc/0081-2004 ; https://cityrulelookup.com/noise-sources/car-alarms/new-york-ny | Only vehicle alarm rules (3-minute) confirmed; building-alarm shut-off rule NOT confirmed from a primary source | NOT USED (no claim made) |
+| S5 | New York City noise code "burglar alarm" building premises sounding ... | WebSearch + WebFetch | https://www.nyc.gov/assets/dep/downloads/pdf/air/noise/noise-code-guide-summary.pdf | DEP noise code guide (pdftotext) contains no alarm provisions; legalclarity.org secondary claim of 15 min for building alarms unverified | NOT USED |
+| S6 | NYPD false alarm policy burglar alarm response excessive false alarms New York City registration | WebSearch | (results: Yonkers, Saratoga Springs, Suffolk proposal, out-of-state) | No NYC-specific permit/false-alarm program found in sources checked | NOT USED — see flag below |
+| S7 | Brooklyn hub prices | repo file | /alarm-installation-brooklyn.html | Basic Residential from $600; Complete Home Protection from $2,500; Commercial from $1,500; wireless from ~$600; hardwired $2,000–$6,000; brownstone hybrid $2,500–$5,000; small business $1,500–$3,000; CCTV add $1,000–$2,500; old panel upgrade $800–$1,500; BYOE $200–$400; monitoring from $19.99/mo no contract; tax 8.875%; <$500 full, >$500 50% deposit; $195/hr 3-hr min; brands Honeywell Vista/Lyric, DSC PowerSeries/Neo, Napco, Bosch, DMP, Qolsys IQ | Pricing §14, Packages §15, Equipment §10, comparison table, Service schema |
+| S8 | Google PAA / PASF / AI Overview for "alarm installation Boerum Hill" | Google | — | EMPTY (not accessible in build env) | AI section intro states this |
+| S9 | Answer the Public | ATP | — | EMPTY (not accessible in build env) | — |
+| S10 | Bing / DuckDuckGo autocomplete & related | Bing/DDG | — | EMPTY (not accessible in build env) | — |
+| S11 | Yelp 1–3★ alarm companies Brooklyn | Yelp | — | EMPTY (not accessible in build env) | — |
+| S12 | reddit r/Brooklyn brownstone alarm system wireless sensors old windows recommendation | WebSearch | (no Reddit results) | Reddit: EMPTY for Boerum Hill alarms; Brownstoner forum used instead (L9) | — |
+
+### Local findings (Boerum Hill)
+
+| # | Exact query | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| L1 | (fetch) | WebFetch | https://en.wikipedia.org/wiki/Boerum_Hill | Bounds Schermerhorn / Fourth Ave / Smith or Court / Warren or Wyckoff; 3-storey rowhouses 1840–1870; name coined early 1964 by Helen Buckler (Boerum Hill Association), formerly South Brooklyn/"North Gowanus"; CD2; 84th Pct; Smith St restaurant row, Atlantic Ave design district; HD designated Nov 20 1973; Pacific Branch BPL 25 Fourth Ave 1905 oldest Carnegie library | §5 neighborhood, §8 commercial, §13 landmarks |
+| L2 | (from research/access-control-installation.md Boerum Hill section, sourced) | CityLand / 6sqft / LPC | https://www.citylandnyc.org/extension-to-boerum-hill-historic-district-designated/ ; https://www.6sqft.com/new-historic-district-more-than-doubles-the-landmarked-buildings-in-boerum-hill/ ; https://www.nyc.gov/assets/lpc/downloads/pdf/proposed_landmarks/Boerum%20Hill_Designation_BlurbMap_20180626.pdf | ~250 bldgs 1973; ~288 added June 26 2018 (unanimous) in 3 sections incl. Atlantic Hoyt–Nevins; Second Empire row on Bergen; neo-Grec flats; historic storefronts | §5, §5.5 facts, §7 cards, landmark section, §8.5 |
+| L3 | (from access-control file, sourced) | Wikipedia | https://en.wikipedia.org/wiki/State_Street_Houses | 23 rowhouses 291–299 & 290–324 State St, Smith–Hoyt, 1847–1874, NRHP 1980 | §7 card, §13 |
+| L4 | Landmarks Preservation Commission rules ... (re-fetched) | WebFetch + pdftotext | https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf | General criteria: not on/in front of primary façade unless no option or required by law; discreet location (beneath band course, under stoop, behind areaway wall/plantings); small, painted to blend; attach at mortar joints/plain masonry/wood/metalwork, not cast iron/decorative; conceal conduit, ≈10 in visible max; cameras ≤2 per 25 ft (small bldgs); bars at cellar/basement/parlor windows if stoop; gates under stoop; historic under-stoop gate retained; bars simple, limited attachment, no perimeter framing. Alarm bells/sirens NOT named specifically | Landmark section, Q&A 1 & 4, §7.5, AI #2 & #7 |
+| L5 | reddit Boerum Hill break in alarm brownstone → (fetch) | WebSearch → WebFetch | https://www.brooklynpaper.com/this-man-is-a-heavy-hitter-thats-for-sure | Posted July 23 2008: Pacific St (Nevins–Third Ave) front-door lock broken, front & rear windows found open, ~$5,000 taken, arrest July 19; Dean St (Third–Fourth Ave) penthouse door forced, resident "received a call from the alarm company at 7 pm"; Bergen St (Bond–Hoyt) basement window screen removed, 76-year-old stopped intruder | §5, §5.5, Q&A rear-yard |
+| L6 | Smith Street Boerum Hill store burglary smashed window 2025 OR 2026 → (fetch) | WebSearch → WebFetch | https://www.brooklynpaper.com/audacious-cat-burglar-steals-empty-lockbox-from-store-on-smith | Oct 8 2014 article, Sept 28 burglary: clothing store Smith St between Pacific & Dean; ~20-ft barbed-wire fence, broke back-door glass, reached in to unlock, "damaged the alarm panel"; empty lockbox | §5, §5.5, Q&A shop panel |
+| L7 | (fetch) | WebFetch | https://www.brooklynpaper.com/smokes-and-the-bandit-thief-breaks-into-deli-via-cellar-steals-cigarettes | June 28 2016 article, June 4 break-in: deli at Warren & Bond; unlocked cellar door then locked basement door; cigarettes + $300 | §5, §5.5, Q&A cellar hatch |
+| L8 | Boerum Hill burglary break-in 84th precinct 2025 → (fetch x2) | WebSearch → WebFetch | https://www.dnainfo.com/new-york/20170106/brooklyn-heights/84th-precinct-burglaries-increase-nypd ; https://www.dnainfo.com/new-york/20170302/downtown-brooklyn/brooklyn-heights-burglaries-84th-precinct | Jan 2017: 13 burglaries Dec 5–Jan 1 vs 4 prior 4 weeks; most during workweek when unoccupied; most doors forced; fire escapes/unlocked windows suspected. Mar 2017: 15 in Feb 2017 vs 4 Feb 2016; 84th covers Bklyn Heights, Boerum Hill, Downtown, DUMBO, Vinegar Hill | §5, §5.5 |
+| L9 | (search result) | WebSearch | https://www.brooklynpaper.com/boerum-hill-businesses-break-ins | Sept 9 (2024) Blank Street Coffee & Piccola Cucina Casa front doors smashed; precinct burglaries flat vs 2023 | §5 |
+| L10 | (fetch) | WebFetch | https://www.brownstoner.com/forum-archive/2008/08/alarm-options | Aug 10–12 2008 thread: installer "Those transmitters are not making it through 4 levels" (roof hatch); another owner, 2-storey brownstone, no range problems | §7.5 (hybrid), Q&A roof hatch, AI #1 |
+| L11 | Bergen Street station F G Smith Street Boerum Hill Cobble Hill opened | WebSearch | https://en.wikipedia.org/wiki/Bergen_Street_station_(IND_Culver_Line) | Bergen & Smith, F/G, opened March 20 1933 | §13 |
+| L12 | Atlantic Antic street festival Atlantic Avenue annual since 1974 Boerum Hill | WebSearch | https://en.wikipedia.org/wiki/Atlantic_Antic ; https://brooklyneagle.com/articles/2024/09/20/oldest-and-largest-multi-neighborhood-festival-returns | Started 1974 by AALDC; each fall except 2001; Fourth Ave to waterfront | §8, §13 |
+| L13 | Invisible Dog Art Center 51 Bergen Street ... → (fetch) | WebSearch → WebFetch | https://en.wikipedia.org/wiki/The_Invisible_Dog_Art_Center | 51 Bergen St; 1863 building; factory (belts, novelties); 68 broken windows replaced; opened 2009 | §13 |
+| L14 | (from access-control file, sourced) | CityLand | https://www.citylandnyc.org/commission-approves-atlantic-avenue-bid/ | Atlantic Ave BID approved Jan 2011, Fourth Ave to BQE, 738 tax lots, 400+ businesses | §8 |
+| L15 | Brooklyn Paper Boerum Hill burglary 2026 | WebSearch | (no 2025/2026 Boerum Hill burglary report found) | EMPTY for 2025–2026 incidents | — |
+| L16 | Local Reddit (r/Brooklyn, r/AskNYC) Boerum Hill alarm | WebSearch | — | EMPTY (no Boerum Hill alarm threads found) | — |
+
+### Images (11, all in /images/alarm-installation/, prefix alarm-installation-boerum-hill-)
+Source files (AESS job-library photos and manufacturer product photos; none AI-generated; each checked visually):
+1. ceiling-corner-camera-above-wall-motion-sensor.webp ← images/hikvision-security-camera-installation/hikvision-security-camera-installation-westchester-county-white-eyeball-dome-in-corner-above-wall-sensor.webp (job photo)
+2. motion-sensor-below-camera-on-blue-wall.webp ← images/super-live-plus-app-support-repair/super-live-plus-app-support-repair-manhattan-black-camera-on-blue-wall-above-motion-sensor.webp (job photo)
+3. patch-cable-bundles-down-equipment-rack.webp ← images/nvr-installation/nvr-installation-staten-island-patch-cable-bundles-down-equipment-rack.webp (job photo)
+4. indoor-cube-camera-product-photo.webp ← images/hikvision-security-camera-installation/hikvision-security-camera-installation-ulster-county-acusense-indoor-cube-product-photo.webp (product)
+5. night-recorder-view-of-back-storeroom-door.webp ← images/hikvision-security-camera-installation/hikvision-security-camera-installation-ulster-county-recorder-tile-of-dim-back-storeroom.webp (job photo)
+6. dome-camera-under-fascia-against-winter-sky.webp ← images/access-control-installation/access-control-installation-windsor-terrace-dome-camera-on-yellow-fascia-against-bare-branches.webp (job photo)
+7. ceiling-camera-inside-glass-storefront.webp ← images/dahua-camera-installation/dahua-camera-installation-suffolk-county-turret-camera-above-glass-storefront.webp (job photo)
+8. alarm-com-white-video-doorbell-product-photo.webp ← images/alarm-com-vdb775-video-doorbell.webp (product)
+9. night-recorder-view-along-brick-wall.webp ← images/dahua-camera-installation/dahua-camera-installation-suffolk-county-recorder-view-along-brick-wall-to-lot.webp (job photo)
+10. alarm-com-twin-lamp-floodlight-camera-product-photo.webp ← images/super-live-plus-app-support-repair/super-live-plus-app-support-repair-orange-county-white-floodlight-camera-with-twin-lamps-product-photo.webp (product)
+11. dome-camera-above-wood-panel-shop-wall.webp ← images/nvr-installation/nvr-installation-staten-island-dome-camera-atop-wood-panel-store-wall.webp (job photo)
+Note: images 1 and 2 share their underlying job photos with Bedford Park's motion-sensor images (different crops/files); the alarm-relevant real-photo pool is small.
+
+### Question register
+Q&A (§9, H3 questions):
+1. Does an outdoor siren or strobe on a landmarked Boerum Hill house need Commission approval, and where can it go instead of the front?
+2. Can our original 1850s wood windows get alarm contacts without routing pockets into the sash or the moulded frame?
+3. Our parlor-floor windows have folding interior shutters. Should the sensor go on the shutter, the sash or both?
+4. Are window bars on the garden floor allowed in the historic district, and do they replace the need for window sensors?
+5. How do you get alarm cable from the cellar to the third floor of a rowhouse with original plaster cornices and no open walls?
+6. The panel is in the cellar and the roof hatch is four floors up. Will a wireless sensor up there reach it?
+7. We are gutting the garden and parlor floors next year. What should the contractor leave behind so the alarm can be wired later?
+8. We live in the lower duplex and rent the top floor. Can one panel arm our floors without arming the tenant’s?
+9. Who should hold the alarm codes when the garden apartment turns over, and how do we make sure a former tenant’s code stops working?
+10. Our rear yard backs onto the yards of the Pacific Street houses behind us. Which openings at the back actually need sensors?
+11. A burglar on Smith Street once broke in through a back door and damaged the alarm panel. How do we stop that from defeating our shop’s alarm?
+12. Our Atlantic Avenue store has a sidewalk cellar hatch. How should that be protected?
+13. Can the alarm tell us which employee disarmed it each morning, and alert us if nobody arms it at closing?
+
+FAQ (§17 = FAQPage schema):
+1. How long does a typical Boerum Hill rowhouse alarm installation take, and does someone need to be home?
+2. What happens to the alarm during a power outage on our block?
+3. Does the alarm still need a landline to reach the monitoring station?
+4. Can the same system warn us about water in the cellar or a pipe about to freeze?
+5. Can the alarm arm itself when the last person leaves the house?
+6. Are the prices on this page before or after sales tax?
+7. We have scaffolding going up for façade work. What should we do with the alarm?
+8. Do smoke and carbon monoxide detectors have to be part of the burglar alarm?
+9. How do we change the master code ourselves after installation?
+10. Can you install a shop alarm before opening hours or after closing?
+11. Will the keypad chime every time a door opens, and can a tenant turn that off?
+12. Can you quote a house we have not closed on yet?
+
+### Flags for Anwar
+- The Brooklyn hub (/alarm-installation-brooklyn) states "NYC requires alarm permits for monitored systems … Permit fees range from $25 to $100". No primary source for an NYC burglar-alarm permit was found in this build (S6); this page makes no permit claim. Worth verifying on the hub.
+- NYC building-alarm shut-off time (often quoted as 15 minutes) could not be confirmed from the Admin Code or DEP guide (S4/S5); not used.
+
