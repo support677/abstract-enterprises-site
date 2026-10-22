@@ -433,3 +433,4 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-highbridge-bronx-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-homecrest-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-kensington-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-madison-brooklyn-ny | QUEUED
