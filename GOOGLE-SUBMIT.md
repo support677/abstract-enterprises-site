@@ -404,3 +404,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-williamsburg-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wingate-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-wyckoff-heights-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-belmont-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-beverley-square-brooklyn-ny | QUEUED
