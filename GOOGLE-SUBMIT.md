@@ -416,3 +416,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brownsville-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bushwick-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-carroll-gardens-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-city-island-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-claremont-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-clason-point-bronx-ny | QUEUED
