@@ -1603,3 +1603,238 @@ Near-intent review: avoided registered intents — homeownership-program respons
 11. images/alarm-installation/alarm-installation-fort-hamilton-cable-and-wall-box-on-steel-stud.webp → door-buzzer-repair-crotona-park-east-blue-cable-and-wall-box-on-steel-studs.webp
 (Images 5–11 were supplied by the main run. Every caption says the photo was not taken in Crotona Park East. The scene in #9 looks like the same kind of space as #2: a camera over a glass front, but a different file and md5.)
 
+
+## Allerton, Bronx — /door-buzzer-repair-allerton-bronx-ny (REBUILD, 2026-10-22)
+
+Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, @id #bronx) · up /door-buzzer-repair-bronx-new-york · prices Bronx ×1.00 copied from the hub ($250 call incl. diagnostic = $272.19 w/ 8.875% tax; station $250–525; relay/button $250–475; transformer $325–650; amplifier $450–900; strike $450–950; panel $650–1,800; riser $850–2,400). $195/hr rate NOT used. 12,279 rendered words; check_page PASS (with registration).
+
+### Thesis
+"The second order": in HPD's Allerton NTA (BX1104), 394 intercom orders at 111 buildings since 1988; 15 buildings = 189 (48%); 59 apartments cited 2+ times = 150 orders (38%); yearly 7–13 (2019–22) → 31/49/36/50 (2023–Oct 2026). Repair standard = start from the cited apartment, test like the inspector, find the shared part (riser/splice/amplifier/supply/door), write it down. Distinct from Belmont (fault located at apartment), Bronxwood (two-family ZIP line), Bronxdale (finding layer/naming).
+
+### Sources (exact query · platform · URL · finding · page+section used)
+| # | Query | Platform | URL | Finding | Used |
+|---|---|---|---|---|---|
+| L1 | fetch "Allerton, Bronx" | WebFetch | https://en.wikipedia.org/wiki/Allerton,_Bronx | Bounds Adee/Boston Rd/Gun Hill (N), Dyre Ave line (E), Waring (S), Bronx River Pkwy (W); WPR + Boston Rd main roads; named for Daniel Allerton; ~2 sq mi; multi-unit homes, tenements within ~5 blocks of el; NYCHA Boston Road Plaza (1×20 st), Eastchester Gardens (10 bldgs 7–8 st), Parkside (14 bldgs 6–15 st), Pelham Pkwy Houses (23×6 st); 49th Pct 2121 Eastchester Rd; E62/L32 3431 WPR; Allerton Library 2740 Barnes Ave (1959, Hertz & Salerni, renov. 2015); Eastchester branch 1385 E Gun Hill Rd; Columbus HS 920 Astor Ave; Esplanade PO 2488 Williamsbridge Rd; Allerton Ave commercial W of Laconia; CB11; ZIPs 10467/10469 | Neighborhood, Architecture, Commercial, Landmarks, schema |
+| L2 | `Allerton Avenue Bronx history commercial strip Allerton International Merchants Association` | WebSearch | https://www.bxtimes.com/nabe-change-push-for-bronxdale/ ; https://www.bxtimes.com/xmas-lights-back-in-allerton/ | Allerton Ave named for Isaac Allerton (Mayflower) – conflicts with Wikipedia (Daniel); AIM president Gene DeFrancis; holiday lights returned (article date not shown in result) | Neighborhood (conflict stated), Commercial |
+| L3 | SoQL wvxf-dwi5 group by nta, boro=BRONX, novdescription like %INTERCOM% | WebFetch | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | Allerton 394 (21st in Bronx) | Hero, numbers |
+| L4 | same, nta='Allerton' by class/status; count distinct building; min date | WebFetch | same | A 72/13, B 233/70, C 5/1; 111 bldgs; first 1988-07-18 | Hero, numbers |
+| L5 | same, by streetname | WebFetch | same | Olinville 55/16, Wallace 54/9, Barker 42/7, BPE 39/13, Barnes 37/11, Cruger 30/9, PPN 20/3, Holland 19/8, Arnow 18/3, Allerton Ave 13/2 … | Numbers |
+| L6 | same, by year | WebFetch | same | …2015 29 … 2019 7, 2020 8, 2021 13, 2022 10, 2023 31, 2024 49, 2025 36, 2026 50 | Hero, numbers, Q&A |
+| L7 | same, novdescription like %APT% | WebFetch | same | 368 at 104 bldgs | Numbers |
+| L8 | same, records since 2026-06-01 | WebFetch | same | 25 orders: Olinville 10, Barker 5, Cruger/Matthews/WPR/Wallace 2 each, BPE 1, Allerton Ave 1; foyer wall / private hallway / kitchen; apt designations like P33, R21, Q3 | Numbers, Q&A (section letters), Who-does-what |
+| L9 | same, top 15 buildingid | WebFetch | same | 189 of 394; top 28 | Hero, numbers |
+| L10 | same, group buildingid+apartment having >1 | WebFetch | same | 59 apts, 150 orders; 38×2, 12×3, 7×4, 2×5; one apt 5× 2016-04→2026-09; one 4× 2026-03→06 | Hero, thesis, AI check |
+| L11 | same, currentstatus | WebFetch | same | closed 173, dismissed 136, NOV sent 49, first no access 16, not complied 14, CIV14 3, postponement granted 1 … | Numbers, Q&A dismissed / deadline |
+| L12 | same, SELF-CLOSING / LOCK+ENTRANCE DOOR or VESTIBULE | WebFetch | same | self-closing A15/B577/C3,083 (up to 236 bldgs); entrance lock A54/B252/C485 | Numbers, rules, AI check |
+| L13 | NTA 2020 (9nt8-h7nd) | WebFetch | https://data.cityofnewyork.us/resource/9nt8-h7nd.json | Allerton BX1104, CDTA BX11, 15.75M sq ft (~0.57 sq mi) | Neighborhood |
+| L14 | 311 erm2-nwe9 BELL/BUZZER/INTERCOM CB11 by year; Bronx by board; ZIP 10467/10469 | WebFetch | https://data.cityofnewyork.us/resource/erm2-nwe9.json | CB11 82/107/98/109/148/134/133 = 811 (10th of 12; CB4 2,957); 10467 134→306; 10469 33→73 | Numbers, Q&A |
+| L15 | HPD censustract for NTA → PLUTO bct2020 (9 tracts) by bldgclass and era | WebFetch | https://data.cityofnewyork.us/resource/64uk-42ks.json | B1 512/1,024 u; C0 198; C3 89; C1 88/2,223; D1 54/3,617; C7 10/1,117; B2+B3+B9 161; eras pre-1901 6, 1901–29 427, 1930s 240, 1940–67 632, 1968+ 158; 2945 WPR NYCHA lot recorded at 9,669 units (anomaly, excluded); 2700 BPE C7 716 u 1927, 2800 BPE C1 680 u 1929, owner HP Bronx Park East HDFC | Neighborhood, Architecture, Landmarks, Who-does-what |
+| L16 | fetch | WebFetch | https://en.wikipedia.org/wiki/United_Workers_Cooperatives | 2700–2870 BPE; 1926–29; Springsteen & Goldhammer, Herman Jessor; Tudor Revival; NRHP 1986, NHL 1991, NYCL 1795 June 2 1992; rental 1943; renovated mid-1980s | Architecture, Landmarks |
+| L17 | LPC designation report search | WebSearch | https://s-media.nyc.gov/agencies/lpc/lp/1795.pdf ; https://www.lehman.edu/public-art-bronx/The-COOPs/ | LP-1795: two campaigns, Block 4506; Lehman: courtyard with several entrances to different sections, terra cotta; shares + proprietary lease. LPC PDF itself too large to fetch (EMPTY for full text) | Architecture, Who-does-what |
+| L18 | fetch | WebFetch | https://www.dnainfo.com/new-york/20120830/allerton/allerton-co-op-tenants-get-their-community-room-back/ | Aug 30 2012, J. Evelly: "over 700" units, three blocks (conflicts with PLUTO 716+680) | Landmarks (conflict stated) |
+| L19 | fetch | WebFetch | https://en.wikipedia.org/wiki/Allerton_Avenue_station | Opened Mar 3 1917; elevated; "shopping district"; 2005 renovation $12.76M; "Allerton Mandalas" 2006 | Commercial, Landmarks, schema |
+| L20 | CB11 statement of needs search → fetch PDF (pdftotext) | WebSearch/WebFetch | https://www.nyc.gov/assets/bronxcb11/downloads/pdf/about/statements_of_needs/fy2027.pdf | Neighborhoods list; pop 113,232→119,666 (2010–20); <50 new units/yr; 55–79 +~6,000; Eastchester Gardens upgrades most mentioned; Allerton Ave/WPR/Boston Rd congestion | Neighborhood, Q&A release timing, Who-does-what |
+| L21 | `Allerton Bronx tenants intercom OR buzzer OR "front door" broken building news` | WebSearch → WebFetch (pdftotext) | https://council.nyc.gov/kevin-riley/wp-content/uploads/sites/79/2024/12/CM-Riley-Statement-on-Unacceptable-Living-Conditions-in-Allerton-Olinville.pdf | Dec 2024 (PDF metadata Dec 8): 655 Burke Ave heat/gas; quote "intermittent and incomplete repairs, or inspections that fail to address the problem because too much time has passed" (about heat, stated so on page) | Neighborhood |
+| L22 | `Parkside Houses NYCHA Bronx Adee Avenue …` | WebSearch | https://www.nyc.gov/assets/nycha/downloads/pdf/property-directory-address-guide.pdf (snippet) ; https://www.nyc.gov/assets/nycha/downloads/pdf/Parkside.pdf (404) | Parkside addresses on Adee Ave 10467; NYCHA fact sheet 404 — 879 apts/1951 only from a Lyft route page, NOT used | Landmarks (14 bldgs from Wikipedia only) |
+| L23 | Mitchell-Lama searches (2) | WebSearch | — | No Mitchell-Lama development verified in Allerton | Not claimed |
+| L24 | `"Bronx Park East" Coops … HDFC` | WebSearch | https://newyorkyimby.com/2022/07/housing-lottery-launches-for-2434-bronx-park-east-in-allerton-bronx.html | Unrelated new building; no Coops renovation info | Not used |
+| L25 | carried silo rows S-G1/S-G2/S-G6/S-G7/S-G8/S-G9, Bronxdale #14, Bronx River L10, Bronxdale #3 (Forgotten NY), Bronxdale #5 (Pelham Pkwy Wikipedia), silo S8 (Brick Underground), L15/L16 Belmont (Swiftlane/ButterflyMX/HomeAdvisor) | research/door-buzzer-repair.md | (as listed there) | MDL 50-a, self-closing Class C 14 days, A 90/B 30 days, 311 KA-01074, egress, ADA 48 in, DOB electrician; Boston Rd description; Pelham Pkwy 6–7 story elevator/co-op stock; AI-check claims | Rules, Q&A, AI check |
+| — | Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ / Allerton Reddit | — | — | EMPTY (not accessible in build env) | Stated in Sources |
+| — | HPD "dismissed" status definition search | WebSearch | — | EMPTY (tool call rejected / not run) | Q&A answer kept non-interpretive |
+
+### FLAGS
+- AESS practice claims to confirm: most single faults fixed in one visit; read HPD record + photo review free; test cited apartments + above/below; measure supply under load; label terminals; dated apartment-by-apartment note; temporary station while matched part on order; timing relay for release; carry replacement stations for older audio systems; fit customer-supplied parts (labor after diagnostic); no NYCHA work orders from residents; tenant calls need owner OK; Field Notes are method, not a real job.
+- Data caveats (stated on page): NTA BX1104 is smaller than Wikipedia's Allerton; PLUTO tract set approximates the NTA; one NYCHA lot (2945 White Plains Rd) shows 9,669 units in PLUTO — excluded; Coops units PLUTO 716+680 vs DNAinfo "over 700"; namesake Daniel (Wikipedia) vs Isaac (Bronx Times).
+- No Mitchell-Lama verified in Allerton; hub's Mitchell-Lama line not used.
+- check_page.py does not compute masked paragraph similarity; my own masked 5-gram containment vs all 163 silo pages: max 0.052 (Bronxwood).
+- Images: no real buzzer photos in my pool were left unused (door-station product shots already on sibling pages by hash); 11 chosen are md5- and dHash-distinct from existing images/door-buzzer-repair/ files, but #7 corridor is visually similar to the corridor scene on Belmont/Bronxdale (different file/crop).
+
+### Images (11) — new <- source (images/door-buzzer-repair/door-buzzer-repair-allerton-…)
+- black-axis-video-door-station-with-call-button <- access-control-installation/…-olinville-video-door-station-for-a-side-entrance.webp (hero)
+- keypad-door-station-with-card-reader-and-camera <- …-washingtonville-keypad-reader-band-and-camera-lens.webp
+- touchscreen-directory-entry-panel-with-dial-pad <- …-williamsbridge-touchscreen-directory-entry-panel.webp
+- dark-grey-wired-doorbell-with-round-button <- …-fieldston-dark-grey-wired-doorbell-with-round-button.webp
+- low-voltage-cable-bundles-over-ceiling-beam <- …-kingsbridge-heights-network-cable-bundles-over-ceiling-beam.webp
+- cable-bundles-dropping-down-equipment-rack <- …-pelham-parkway-cable-bundles-down-equipment-rack.webp
+- tiled-corridor-to-grey-door-with-lever-handle <- …-new-utrecht-steel-corridor-door-with-keypad-lever-lock-and-ceiling-camera.webp
+- drop-ceiling-with-lit-exit-sign-and-small-camera <- …-kingsbridge-heights-drop-ceiling-camera-beside-red-exit-sign.webp
+- night-camera-view-of-open-storeroom-doorway <- …-tremont-night-view-of-storeroom-doorway.webp
+- small-camera-high-on-pale-wall <- …-throggs-neck-camera-high-on-wall-casting-two-shadows.webp
+- dark-recessed-lobby-ceiling-with-downlights <- …-harding-park-dark-recessed-ceiling-with-downlights-and-small-device.webp
+
+### Question register — door-buzzer-repair-allerton-bronx-ny
+§9 Q&A (H3):
+1. HPD has written the same apartment's intercom more than once. What should a repair change so the order does not come back?
+2. Several apartments stacked in one line keep failing again within months of each repair. What connects them?
+3. Our violation shows as dismissed, yet a new one was written at the same apartment later. What does the status tell us about the intercom?
+4. Intercom orders in Allerton have climbed since 2022. Does that mean the systems are wearing out faster?
+5. We have a 14-day self-closing-door order and a dead intercom at the same entrance. Which gets fixed first?
+6. HPD's certification deadline for our intercom order is close and a part is still on order. What can the owner do?
+7. The buzzer releases the door for a moment, and older tenants cannot get there before it locks again. Can the timing be lengthened?
+8. After a new closer went on, residents struggle to pull the lobby door open. Can that be fixed without breaking the self-closing rule?
+9. Our apartments are designated by section, with a letter and a number such as P33 or R21. How does a technician find the right pair?
+10. We can hear visitors at the lobby, but they cannot hear us. Which half of the system failed?
+11. Our super resets a breaker every few weeks to bring the intercom back. What keeps tripping it?
+12. Two walk-ups next door to each other share an owner and a cellar. Can a fault in one building's intercom affect the other?
+13. Our building went up after 1968 and the owner wants an app-based panel that calls phones. Does that still meet the intercom requirement?
+Other H2: "Need a Buzzer Fixed in Allerton Today?" (silo-standard repair-capture heading, Allerton-specific).
+§17 FAQ (= FAQPage, 8):
+14. Can you work from our HPD violation list to decide which apartments to test first?
+15. When HPD has cited five apartments in one building, is that one $250 service call or five?
+16. Can part of the intercom keep working while you repair a riser?
+17. If the same apartment fails again after your repair, what happens?
+18. Will you read the building's open HPD intercom violations before you quote?
+19. Do you carry handsets that work with the older audio intercoms found in Allerton walk-ups?
+20. We just bought a building in Allerton that came with open intercom violations. Where should we start?
+21. Does a five-story walk-up with no elevator cost more to repair than an elevator building?
+Near-intent review: kept distinct from Belmont "HPD wrote our order at one apartment" (location vs repeat), Bronxdale "every apartment ending in B went silent same day" (simultaneous vs recurring), Bronxdale home attendant/handset reach (vs strike release timing), Bed-Stuy vestibule door swings open (vs prioritising two HPD deadlines), Belmont cellular panel "worth considering" (vs statutory compliance, answered as legal question deferred), Bronx River warranty FAQ (vs repeat-failure follow-up). Renamed "Repair or replace?" heading (exact dup with hubs).
+
+## Bay Ridge, Brooklyn — /door-buzzer-repair-bay-ridge-brooklyn-ny (REBUILD, 2026-10-22)
+
+Neighborhood page. Up-link /door-buzzer-repair-brooklyn-new-york. GBP Brooklyn (1282 Troy Ave, #brooklyn). Direct line (347) 934-8335 in body, CTAs and schema; (800) 486-0943 only in the shared mega-nav; WhatsApp only as wa.me/17186790359. Prices are Brooklyn x1.00, copied from the hub's 7 list lines plus the $250 service call ($272.19 with 8.875% tax). The blueprint's $195/hr, 3-hr minimum ($585) is used only for off-list work. 13,262 rendered words; 171,703 B.
+
+**Thesis:** "In Bay Ridge the city writes the door, not the buzzer." HPD's file for ZIP 11209 has 3,885 self-closing-door violations against 221 intercom violations, about 17 to 1. In CB3 (Bed-Stuy) the ratio is about 6 to 1. More than a third of the ZIP's homes are in 167 elevator buildings, 159 of them built before 1968, on Shore Rd, Ridge Blvd, 4th Ave, Ovington and Colonial Rd. A repair there is therefore a repair of the whole entrance: door hang, closer, strike and latch first, then the panel and riser. The page also covers the Doctors' Row limestone row houses, which often have two entrances (parlor and basement office), two-family houses, and the store-and-apartment buildings on 3rd Ave, 5th Ave and 86th St.
+
+**Boundaries / caveat:** Wikipedia: Sunset Park (N), Dyker Heights (E), the Narrows and Belt Pkwy (W), Fort Hamilton and the Verrazzano (S). Data units are ZIP 11209, which also covers the Fort Hamilton blocks south of 86th St and some blocks toward Dyker Heights; the page states this. Fort Hamilton is linked as its own page.
+
+### Local sources
+| # | Exact query · platform | URL | Finding | Page + section used |
+|---|---|---|---|---|
+| L1 | WebFetch | https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn | Boundaries; 2.12 sq mi; CD10; ZIPs 11209/11220 (11220 N of 65th); 68th Pct 333 65th St; E241/L109 6630 3rd Ave; 1900s–1910s rowhouses; Shore Rd country houses replaced by apartments by WWII; apartments up fivefold in the 1920s; 1990s–2000s "Fedder" condos; Shore Rd six-story buildings among the tallest; Doctors' Row; Gingerbread House 8200 Narrows Ave (1917, J.S. Kennedy); 216–264 Ovington NR 2007; Senator St HD NR 2002; Owl's Head ~24 acres, sold 1928 for $850,000; Fort Hamilton HS; Bay Ridge Library 7223 Ridge Blvd; Leif Ericson Park / Syttende Mai; 3rd/5th Ave commercial; R stations 59th St 6/21/1915, 86th St 1/15/1916; 2020 pop 111,952; 2006 report ~20% aged 60+ | Hero, Neighborhood, facts, Architecture, Commercial, Landmarks, FAQ, Sources |
+| L2 | SoQL wvxf-dwi5 `zip='11209' AND novdescription like '%INTERCOM%'` group class · WebFetch | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | A 53, B 165, C 3 (221) | Hero, intake SVG, Neighborhood, AI H3 1, Sources |
+| L3 | same, group streetname | same | Ovington 28, 3rd Ave 27, Ft Hamilton Pkwy 21, 4th Ave 20, Gelston/Ridge/5th 9, 6th Ave/72nd 8, 82nd/86th/87th 7, 80th/Shore 6, Bay Ridge Pkwy 5 | Commercial, Q&A Ovington |
+| L4 | same, group year | same | 2026 26 (max, to Oct 22); 2025 17; 2024 5; 2019 15; earlier years lower | Neighborhood para 5 |
+| L5 | same, group status + distinct buildingid | same | Open 80 at 52 bldgs; closed 141 at 76 | Intake SVG, Sources |
+| L6 | `novdescription like '%SELF-CLOSING%'` class/status | same | A 42/4, B 297/153, C 2,796/593 (closed/open) = 3,885 total, 3,389 C, 750 open; 494 buildings | Hero, Neighborhood, Rules, AI, SVGs |
+| L7 | same, group streetname | same | 4th Ave 477, Ridge 367, 3rd 321, Shore 317, Ovington 304, Ft Ham Pkwy 262, 5th 130, Marine 112, 72nd 109, 86th 107, 96th 92, Bay Ridge Pkwy 91 | Neighborhood, Commercial, Landmarks |
+| L8 | SoQL erm2-nwe9 `incident_zip='11209' AND descriptor='BELL/BUZZER/INTERCOM'` by year · WebFetch | https://data.cityofnewyork.us/resource/erm2-nwe9.json | 2020 37, 2021 28, 2022 33, 2023 37, 2024 36, 2025 39, 2026 47 (257) | Facts list, 311 SVG |
+| L9 | same, Brooklyn by community_board | same | EMPTY (WebFetch timeout) | — |
+| L10 | SoQL 64uk-42ks `zipcode='11209'` by bldgclass · WebFetch | https://data.cityofnewyork.us/resource/64uk-42ks.json | B1 2,057/4,114; A5 1,305; A1 1,016; S2 578/1,156; C0 490/1,470; C2 222/1,325; C1 103/2,659; C7 78/1,306; D1 77/4,853; D4 66/5,705; D7 23/1,815; C6 41/471 | Neighborhood, Architecture, AI H3 5 |
+| L11 | same, unitsres>0 totals | same | 8,094 lots, 32,764 units | Neighborhood |
+| L12 | same, D classes by year-built era | same | pre-1920 1/41; 1920s 48/3,236; 1930s 52/3,587; 1940–67 58/4,801; 1968+ 8/715 (167 / 12,380) | Hero, Neighborhood, Architecture, AI H3 3 |
+| L13 | same, D classes by street | same | Shore Rd 25/2,850; 4th Ave 25/1,674; Ridge 22/1,269; Ovington 10/658; Colonial 5/321 | Neighborhood, Landmarks |
+| L14 | `Bay Ridge Parkway Doctors' Row Historic District LPC designated 2019…` · WebSearch → WebFetch | https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page | 54 row houses, 4th–5th Aves, 1906–1913, one builder, two architects, limestone-fronted, basement practices | Neighborhood, Q&A, Landmarks |
+| L15 | same → WebFetch | https://www.citylandnyc.org/landmarks-designates-bay-ridges-first-historic-district/ | Arthur Douglas Constant / Bay Ridge Development Co.; Malcolm C. Ludlam (5 brick); architects Driesler (N) and Flanagan (S); limestone, bowed/angled fronts, low stoops; 8 Colonial Revival entrances; added basement office entrances; hearing 5/14/2019; unanimous 6/25/2019 | Neighborhood, Q&A, Commercial |
+| L16 | same (search results) | https://brooklyneagle.com/articles/2019/10/18/council-votes-to-affirm-doctors-row-historic-district/ ; https://hdc.org/?p=42732 | Council affirmed (Oct 2019); HDC lists 53 properties (conflict with 54) | Landmarks, Sources |
+| L17 | `Brownstoner Building of the Day Bay Ridge Shore Road apartment building 1920s co-op` · WebSearch → WebFetch | https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/bay-ridge-one-bedroom-9437-shore-road-normandy/ | Aug 26, 2026: 9437 Shore Rd, six-story 55-unit Art Moderne co-op, Cohn Brothers, rental 1940; caption "entry with lobby doors, intercom system" (south of 86th) | Architecture (post-war card), Sources |
+| L18 | `Bay Ridge apartment building lobby burglary followed resident inside 68th Precinct Brooklyn Paper` · WebSearch → WebFetch | https://www.brooklynpaper.com/thief-steals-electronics-from-doormans-cabinet/ | Mar 25, 2015: Ridge Blvd building between 67th and 68th St; entered from the street, jimmied the doorman's cabinet; took TV, DVD player, packages | Background only (not on page) |
+| L19 | `Bay Ridge co-op Shore Road lobby intercom buzzer door package theft` · WebSearch | listings (elliman, trulia, bhsusa) | 9201 Shore Rd 24-hr doorman; 9265 "virtual doorman intercom" (search excerpt only; trulia/bhsusa 403) | Not used (unverifiable) |
+| L20 | `reddit bayridge buzzer intercom apartment building landlord broken` · WebSearch | — | No Bay Ridge Reddit thread surfaced | EMPTY |
+| L21 | `Brooklyn Community Board 10 statement of district needs FY2026…` · WebSearch | — | CB10 document not found | EMPTY |
+| L22 | carried from the silo section (MDL §50-a, §4; HPD self-closing page; HMC §27-2041.1 penalties; LPC guidebook; Allegion; DOB electrical; Swiftlane; ButterflyMX; HomeAdvisor; Brick Underground) | see silo rows S-G1…S-A6, Bronx River L10, S8 | as recorded there | Rules, Q&A, AI check |
+| L23 | not fetched; general reference | https://www.nps.gov/subjects/nationalregister/faqs.htm ; 2010 ADA Standards §§308, 404.2.8, 404.2.9 | NR listing places no restrictions on private owners using private funds; ADA 48 in reach, 5 lbf interior doors, ≥5 s closing 90°→12° | Q&A (NR, walkers), Rules, FAQ ramp — **FLAG: verify** |
+| — | Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | EMPTY (not accessible in build env) | AI section says so |
+
+### FLAGS
+- **AESS practice claims to confirm:** same-day when called in the morning; single faults in 1–2 h; door left locking on key if a part is missing; unlockable door first; free photo review; COI before visit; watching the door / testing with the closer disconnected first; no hold-open devices that defeat closers; delayed-action closer setting offered; dated note to managing agent for HPD certification; labels at both ends; stainless screws and sealed plates near the water; second call station at ramp entrances; itemized quote by door vs intercom; crew stays with a held door; Sat/eve not claimed; closer/hinge work billed at $195/hr (no list line exists); BYOE at $250 call + $195/hr; warranty does not cover customer parts.
+- Package and AI figure: $430–$1,290/month is my arithmetic (Swiftlane $5–$15 x average 86 units per D4 lot).
+- Images: 11 borrowed (no real door-buzzer photos). 7 are real AESS library shots of cameras, cables and monitors, and 4 are manufacturer product photos. None shows entry hardware, because every door-station photo in the pool is already used on a sibling page (checked by md5 plus 16x16 avg-hash, and by eye). Real lobby strike/closer photos are needed.
+- Hub "HPD Class B, $250–$500/day" claim not used. The $250–$500 + $250/day figure on the page is cited to HMC §27-2041.1 (self-closing).
+- check_page.py has no masked-geo similarity measure, so I did not compute one. The page is written from scratch; I did not run a paragraph-similarity scan (it was interrupted).
+
+### Images (new <- source)
+- low-voltage-cable-bundles-overhead-above-monitor <- video-wall-installation/…-long-island-network-cable-bundles-overhead-above-display.webp
+- black-bullet-camera-on-drop-ceiling-mount <- apartment-building-security-camera-installation/…-queens-black-bullet-camera-on-drop-ceiling-mount.webp
+- cables-hanging-down-rack-beside-monitor-edge <- video-wall-installation/…-long-island-patch-cables-down-rack-beside-display.webp
+- small-camera-and-wall-sensor-on-pale-wall <- apartment-building…-long-island-bullet-camera-and-sensor-on-bare-pale-wall.webp
+- black-mini-dome-below-ceiling-light-panel <- apartment-building…-suffolk-county-black-mini-dome-camera-at-ceiling-corner.webp
+- monitor-showing-overhead-storeroom-camera-view <- video-wall-installation/…-long-island-glossy-samsung-bezel-and-storeroom-tile.webp
+- date-stamped-camera-tiles-on-monitor <- video-wall-installation/…-westchester-county-date-stamped-live-view-tiles-close-up.webp
+- mini-pan-tilt-dome-camera-product-photo <- apartment-building…-brooklyn-mini-pan-tilt-dome-camera-product-photo.webp
+- four-bullet-camera-kit-with-recorder-and-monitor-product-photo <- products/f5.png (converted q80)
+- white-ptz-speed-dome-product-photo <- apartment-building…-westchester-county-white-speed-dome-on-black-product-photo.webp
+- 2u-rack-video-server-product-photo <- video-wall-installation/…-long-island-2u-rack-mount-server-product-photo.webp
+- Rejected: video-wall crew, gloved-hands and branded "ABSTRACT" uniform shots (AI-generated); the Axis black, Akuvox E12, slim black doorbell and PoE doorbell rear (same products already on Belmont/Bronxwood/Bed-Stuy); corridor, stone facade, fisheye brick, exit-sign and storage-room scenes (already used).
+
+### Question register — door-buzzer-repair-bay-ridge-brooklyn-ny
+§9 Q&A (H3):
+1. Wind off the Narrows keeps our Shore Road lobby door from latching. Can the closer win without making the door too heavy?
+2. Many of our shareholders use walkers. Can the lobby door stay open longer for them and still meet the self-closing rule?
+3. Our building on Ovington Avenue has an open intercom violation and an open self-closing door violation at the same entrance. Can one visit clear both?
+4. Our doorman covers days only. Can the lobby panel ring the desk while he is on duty and the apartments after he leaves?
+5. The porter props our rear service door on garbage nights. What can replace the wedge?
+6. Will drilling for a new bell button crack the limestone front of a Bay Ridge Parkway row house?
+7. Our Doctors' Row basement is leased to a practice. Should the office entrance and the house share one buzzer system?
+8. Our row house is in the National Register listing on Ovington Avenue. Does that bring the same approvals as Doctors' Row?
+9. Does salt air off the Narrows shorten the life of an outdoor panel on Shore Road?
+10. A Fifth Avenue shop's morning deliveries go through the same street door as the apartments upstairs. Can deliveries get in without the door being left unlocked?
+11. Our small condo association has no super, and each owner thinks someone else handles the front door. Who should sign off on a repair?
+12. Repair the strike or replace it?
+§17 FAQ (= FAQPage, 8):
+13. How much notice should a Bay Ridge co-op give shareholders before the lobby door is worked on?
+14. Can the board get the door work and the intercom work priced as separate items so it can compare bids?
+15. What should the board record when it approves a lobby entrance repair?
+16. Our building has steps at the front and a ramp entrance at the side. Which door should the visitor panel serve?
+17. Can the lobby intercom also release the package room or the bike room?
+18. How is the lobby kept usable for residents with walkers while the door is being worked on?
+19. Is the area around 86th Street priced any differently from the north end of Bay Ridge?
+20. Do you also cover the Fort Hamilton blocks south of 86th Street?
+Near-intent review: I avoided the existing silo intents for outer vs inner vestibule release, door-swings-open, LPC permit to fix a bell, basement or attic unit bell, gate vs door button, landline panel, train noise, seasonal binding, sign-installer cut, storm door, and the self-closing-and-buzzer link. #12 vs Bronxdale "Repair the old panel, or replace it?" is a different part (strike vs panel).
+
+## Bedford Park, Bronx — /door-buzzer-repair-bedford-park-bronx-ny (REBUILD, 2026-10-22)
+
+Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx) · up /door-buzzer-repair-bronx-new-york · prices Bronx ×1.00 (hub list) · 12,879 rendered words · check_page PASS (with registration).
+
+### Thesis
+"Date the building first." Bedford Park packs 1899 houses, 1910s–20s walk-ups, 1930s–40s elevator co-ops (Bronx-Deco) and post-2005 / post-2011-rezoning buildings onto the same blocks (PLUTO, Decatur Ave 2953–3008: 18 residential lots across six building classes, 1899–2007). Each era has a different entry system and failure mode, so the repair starts by identifying the era. Second pillar: 311/HPD record shows repeat buzzer violations at the same addresses → fix the cause, keep dated records.
+
+### Research matrix (exact query · platform · URL · finding · page+section used)
+| # | Query · platform | URL | Finding | Used |
+|---|---|---|---|---|
+| L1 | WebFetch | https://en.wikipedia.org/wiki/Bedford_Park,_Bronx | Bounds Mosholu Pkwy/Webster/E 196 St/Jerome; CB7; 10468 W of Concourse, 10458 E; 1866 racetrack, 1890 reservoir + Villa Ave 40 villas/23 acres; 1898; 1906 rename of 200th St; Concourse 1914; IRT 1917; 5–6-story apts + 3-story Victorians; Tracey Towers 41 stories, Rudolph, 1972, Mitchell-Lama; Bedford Park Congregational Church 1882, landmark 2000; Mount St. Ursula 1892; 52nd Pct 3016 Webster; post offices; transit | §5, facts list, eras timeline, §8, §13, §10.5 H3 7, schema mentions |
+| L2 | WebFetch | https://en.wikipedia.org/wiki/Lehman_College | 250 Bedford Park Blvd W, 37 acres, 1931, independent 1968, UN 1946 | §13, facts list, timeline |
+| L3 | WebFetch | https://en.wikipedia.org/wiki/New_York_Botanical_Garden | 1891, 250 acres, NHL 1967, Southern & Bedford Park Blvds | §13, facts list |
+| L4 | `$where=borough='BX' AND address like '%DECATUR%'` · Socrata/WebFetch | https://data.cityofnewyork.us/resource/64uk-42ks.json | PLUTO lots on Decatur Ave: class, floors, units, year (e.g. 2953 C1 65u 1923; 2962 D4 55u 1940; 2961/2963/2973 1899; 2969A/B 2007) | Eras section table + text, hero |
+| L5 | `descriptor='BELL/BUZZER/INTERCOM' AND incident_zip in(10458,10468)` grouped by year and street · Socrata | https://data.cityofnewyork.us/resource/erm2-nwe9.json | 10458/10468: 2021 182/260; 2022 319/144; 2023 251/192; 2024 367/223; 2025 358/162; 2026 YTD (Oct 22) 259/194; top 2025 streets incl. Grand Concourse, Marion, Valentine, Briggs, Bainbridge, Decatur, Villa, Ryer, E 201 St | §5, facts list, records section table |
+| L6 | `novdescription like '%BELL%BUZZER%'` zip 10458/10468, 2025, by class; + street-level list 2025–26 · Socrata | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | 2025: 10458 85 (A9/B75/C1), 10468 54 (A7/B47); orders under §27-2005 name apartment foyer wall; one Bainbridge Ave address 5 inspections Jan–Jul 2025; one Marion Ave address repeated into Oct 2026 (addresses not named on page) | Records section, "How to read an HPD buzzer order", Q&A 1 |
+| L7 | `Norwood News Bedford Park building tenants intercom front door broken` + follow-up · WebSearch → WebFetch | https://www.norwoodnews.org/pressure-campaign-leads-to-on-site-super-at-bedford-park-manor/ | 3/18/2019, Jose A. Giralt: 2985/2987/2999 Webster, opened 2015, first affordable after 2011 Webster Ave rezoning; live-in super campaign; CB7 | §5, timeline, §8 |
+| L8 | `reddit Bedford Park Bronx apartment buzzer intercom package lobby door` · WebSearch → WebFetch | https://www.brickunderground.com/rent/take-it-or-leave-it-prewar-one-bedroom-bedford-park-bronx-nyc | 1/8/2020: 225 E 202nd St, built 1927; "street is lined with large, red-brick apartment buildings", small single-family home next door | §5 |
+| L9 | `Bedford Park Bronx apartment buildings Decatur Avenue Bainbridge Avenue history` · WebSearch | https://www.openigloo.com/buildings/bronx/bedford-park/pre-war | 370+ pre-1947 buildings (listing site) | §5 (labelled listing data) |
+| L10 | `"2953 Decatur Avenue" OR ...` · WebSearch (excerpt only; StreetEasy 403 on fetch) | https://streeteasy.com/building/2962-decatur-avenue-bronx | 2962 Decatur: "Bronx-Deco", c.1939, pre-war co-op, 55 units (excerpt) | Eras section (labelled listing) |
+| L11 | `"2820 Decatur Avenue" Bronx cross street` · WebSearch | https://newyorkyimby.com/2024/02/permits-filed-for-2710-decatur-avenue-in-fordham-the-bronx.html | 2710 Decatur between E 195th and E 197th (used only to bound Decatur stretch) | Background |
+| S | carried silo S-G1, S-G8, S-G9 | AG tenants' rights guide; Access Board ch.3; DOB electrical | 1968 rule/8+ units; 48 in reach; licensed electrician + permit | Records section, §8.5, FAQ |
+| E1 | Reddit r/bronx / r/AskNYC Bedford Park buzzer threads | — | EMPTY (no thread surfaced in search) | — |
+| E2 | Google PAA, PASF, Answer the Public, AI Overview, Bing/DDG, Yelp 1–3★ | — | EMPTY (not accessible in build env) | §10.5 says so |
+| E3 | Census ACS API (B25024/B25003 for ZCTA 10458/10468) | https://api.census.gov/data/2023/acs/acs5 | EMPTY (API key required); Census Reporter charts not rendered | — |
+| E4 | YIMBY 33 Bedford Park Blvd | newyorkyimby.com/2025/08/... | EMPTY (403) | — |
+
+### FLAGS
+- AESS practice claims to confirm: temporary release button / loaned amplifier while a part is on order (Q&A); we never open the USPS master-door lock on mailbox-wall panels (Q&A); super may shadow the repair (FAQ); spares quoted with repair (FAQ); moving amplifier out of hot boiler room recommended/quoted separately (FAQ); certificate of insurance before visit; dated repair note with measurements left for owner; morning calls usually seen same day.
+- Prices: Bronx hub lines copied ($250 call; $250–525; $250–475; $325–650; $450–950; $650–1,800; $850–2,400; $195/hr 3-hr min) — same open question as silo (hub $250 vs blueprint $195/hr).
+- Images: 11 borrowed (camera-silo photos/manufacturer doorbells), none of a buzzer installed in Bedford Park; captions say "not taken in Bedford Park".
+- 311/HPD figures are ZIP-level (10458/10468 extend beyond Bedford Park) — stated on page.
+
+### Images (11) — dest images/door-buzzer-repair/door-buzzer-repair-bedford-park-… ← source
+- stone-facade-tall-windows-key-pattern-band ← super-live-plus-app-support-repair/…-bronx-camera-on-steel-arm-below-stone-facade-windows.webp
+- grey-corridor-door-and-blank-wall-plates ← nvr-installation/nvr-installation-bronx-bullet-camera-down-corridor-to-door.webp
+- glass-entrance-wall-exit-sign-drop-ceiling ← nvr-installation/nvr-installation-putnam-county-ceiling-turret-camera-above-glass-entrance.webp
+- cable-bundles-along-ceiling-pipe-above-rack ← hik-connect-app-support-repair/…-manhattan-network-cables-bundled-along-ceiling-pipe.webp
+- patch-cables-down-equipment-rack ← nvr-installation/nvr-installation-staten-island-patch-cable-bundles-down-equipment-rack.webp
+- yellow-fascia-corner-beside-mural ← nvr-installation/nvr-installation-bronx-dome-camera-under-storefront-fascia.webp
+- recorder-view-of-open-back-room-doorway ← dvr-upgrade/dvr-upgrade-putnam-grey-camera-tile-of-storeroom-and-open-doorway.webp
+- round-ceiling-speaker-in-drop-ceiling ← super-live-plus-app-support-repair/…-queens-mini-dome-and-round-speaker-in-shop-drop-ceiling.webp
+- black-video-door-station-blue-ring-button ← super-live-plus-app-support-repair/…-ulster-county-black-wired-video-doorbell-with-blue-ring-button-product-photo.webp
+- slim-white-and-black-video-doorbell ← super-live-plus-app-support-repair/…-ulster-county-white-and-black-slim-video-doorbell-product-photo.webp
+- black-video-doorbell-green-bell-button ← security-camera-maintenance/security-camera-maintenance-brooklyn-video-doorbell-product-photo.webp
+
+### Question register — door-buzzer-repair-bedford-park-bronx-ny
+- [§9 H3 · Repeat visits and records] HPD wrote the same buzzer violation at our building several times in one year. Why does it keep coming back after each repair?
+- [§9 H3 · Repeat visits and records] Two buildings in our complex share a courtyard, and the intercom cable runs between them. One building went quiet after the courtyard was repaved. Can the run be found without digging it all up?
+- [§9 H3 · Lobbies, panels and doors] Someone pried the faceplate off our lobby panel. Can the faceplate be replaced without replacing the electronics behind it?
+- [§9 H3 · Lobbies, panels and doors] The landlord added a fob reader to our street door, and since then the buzzer no longer releases it. Can both work on the same lock?
+- [§9 H3 · Lobbies, panels and doors] Our lobby panel sits inside the vestibule, so couriers cannot reach it when the outer door is locked. Can it be moved outside?
+- [§9 H3 · Lobbies, panels and doors] Our intercom panel is built into the same wall as the mailboxes. Will a repair disturb the mail slots?
+- [§9 H3 · Lobbies, panels and doors] Our 1930s lobby still has the original opening where the first intercom was set into the wall. Can a new panel fit that opening, or does the wall need to be cut?
+- [§9 H3 · Houses and newer buildings] Our Victorian house still has a mechanical twist bell in the front door. Can an electric buzzer be added without removing it?
+- [§9 H3 · Houses and newer buildings] Our newer building’s entry panel calls residents through a cellular service plan. What happens when the plan lapses, and who pays for it?
+- [§9 H3 · Houses and newer buildings] Our building’s elevator is out of service for modernization. Can the intercom still be repaired and tested on every floor?
+- [§9 H3 · Houses and newer buildings] When the buzzer is dead in our six-story building, older residents ride down to let their visitors in. What can be done the same day while a part is on order?
+- [FAQ + schema] Our intercom amplifier sits in the boiler room. Does the heat shorten its life?
+- [FAQ + schema] Can a tenant with a hearing loss get an apartment station that flashes a light when the lobby calls?
+- [FAQ + schema] Can the lobby panel be lowered so a resident who uses a wheelchair can reach it?
+- [FAQ + schema] Does a managing agent have to pay a deposit before a larger repair is scheduled?
+- [FAQ + schema] Will the building’s power be shut off while you repair the intercom?
+- [FAQ + schema] Our lobby is about to be painted. Should anything be done to protect the intercom panel?
+- [FAQ + schema] Can our super watch the repair so he knows the system next time?
+- [FAQ + schema] Can you leave a spare handset with the building for the next time one fails?
+
