@@ -397,9 +397,9 @@ LIVE REBUILD | alarm-installation-prospect-heights-brooklyn-ny | Alarm Installat
 LIVE REBUILD | alarm-installation-prospect-park-south-brooklyn-ny | Alarm Installation | Prospect Park South, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-remsen-village-brooklyn-ny | Alarm Installation | Remsen Village, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-ridgewood-brooklyn-ny | Alarm Installation | Ridgewood, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T01:47:17Z REBUILD | alarm-installation-sea-gate-brooklyn-ny | Alarm Installation | Sea Gate, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T01:47:17Z REBUILD | alarm-installation-south-slope-brooklyn-ny | Alarm Installation | South Slope, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T01:47:17Z REBUILD | alarm-installation-spring-creek-brooklyn-ny | Alarm Installation | Spring Creek, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-sea-gate-brooklyn-ny | Alarm Installation | Sea Gate, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-south-slope-brooklyn-ny | Alarm Installation | South Slope, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-spring-creek-brooklyn-ny | Alarm Installation | Spring Creek, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-spuyten-duyvil-bronx-ny | Alarm Installation | Spuyten Duyvil, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | alarm-installation-starrett-city-brooklyn-ny | Alarm Installation | Starrett City, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-sunset-park-brooklyn-ny | Alarm Installation | Sunset Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
