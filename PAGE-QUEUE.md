@@ -406,9 +406,9 @@ LIVE REBUILD | alarm-installation-sunset-park-brooklyn-ny | Alarm Installation |
 LIVE REBUILD | alarm-installation-tremont-bronx-ny | Alarm Installation | Tremont, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | alarm-installation-vinegar-hill-brooklyn-ny | Alarm Installation | Vinegar Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-weeksville-brooklyn-ny | Alarm Installation | Weeksville, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T03:00:26Z REBUILD | alarm-installation-williamsburg-brooklyn-ny | Alarm Installation | Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T03:00:26Z REBUILD | alarm-installation-wingate-brooklyn-ny | Alarm Installation | Wingate, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T03:00:26Z REBUILD | alarm-installation-wyckoff-heights-brooklyn-ny | Alarm Installation | Wyckoff Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-williamsburg-brooklyn-ny | Alarm Installation | Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-wingate-brooklyn-ny | Alarm Installation | Wingate, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-wyckoff-heights-brooklyn-ny | Alarm Installation | Wyckoff Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-allerton-bronx-ny | Door Buzzer Repair | Allerton, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-bay-ridge-brooklyn-ny | Door Buzzer Repair | Bay Ridge, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-bedford-park-bronx-ny | Door Buzzer Repair | Bedford Park, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
