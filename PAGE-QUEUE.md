@@ -412,9 +412,9 @@ LIVE REBUILD | alarm-installation-wyckoff-heights-brooklyn-ny | Alarm Installati
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-allerton-bronx-ny | Door Buzzer Repair | Allerton, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-bay-ridge-brooklyn-ny | Door Buzzer Repair | Bay Ridge, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T03:02:11Z REBUILD | door-buzzer-repair-bedford-park-bronx-ny | Door Buzzer Repair | Bedford Park, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | Door Buzzer Repair | Bedford Stuyvesant, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-belmont-bronx-ny | Door Buzzer Repair | Belmont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-beverley-square-brooklyn-ny | Door Buzzer Repair | Beverley Square, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-22T04:07:37Z REBUILD | door-buzzer-repair-bedford-stuyvesant-brooklyn-ny | Door Buzzer Repair | Bedford Stuyvesant, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-22T04:07:37Z REBUILD | door-buzzer-repair-belmont-bronx-ny | Door Buzzer Repair | Belmont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-22T04:07:37Z REBUILD | door-buzzer-repair-beverley-square-brooklyn-ny | Door Buzzer Repair | Beverley Square, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-bronx-river-bronx-ny | Door Buzzer Repair | Bronx River, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-bronxdale-bronx-ny | Door Buzzer Repair | Bronxdale, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-bronxwood-bronx-ny | Door Buzzer Repair | Bronxwood, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
