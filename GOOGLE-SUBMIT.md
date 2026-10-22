@@ -380,3 +380,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-kensington-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-locust-point-bronx-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-madison-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-park-slope-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-pelham-gardens-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-prospect-heights-brooklyn-ny | QUEUED
