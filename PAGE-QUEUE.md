@@ -394,9 +394,9 @@ LIVE | alarm-installation-ocean-parkway-brooklyn-ny | Alarm Installation | Ocean
 LIVE REBUILD | alarm-installation-park-slope-brooklyn-ny | Alarm Installation | Park Slope, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-pelham-gardens-bronx-ny | Alarm Installation | Pelham Gardens, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | alarm-installation-prospect-heights-brooklyn-ny | Alarm Installation | Prospect Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:13:36Z REBUILD | alarm-installation-prospect-park-south-brooklyn-ny | Alarm Installation | Prospect Park South, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:13:36Z REBUILD | alarm-installation-remsen-village-brooklyn-ny | Alarm Installation | Remsen Village, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:13:36Z REBUILD | alarm-installation-ridgewood-brooklyn-ny | Alarm Installation | Ridgewood, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-prospect-park-south-brooklyn-ny | Alarm Installation | Prospect Park South, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-remsen-village-brooklyn-ny | Alarm Installation | Remsen Village, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-ridgewood-brooklyn-ny | Alarm Installation | Ridgewood, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-sea-gate-brooklyn-ny | Alarm Installation | Sea Gate, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-south-slope-brooklyn-ny | Alarm Installation | South Slope, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-spring-creek-brooklyn-ny | Alarm Installation | Spring Creek, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
