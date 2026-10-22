@@ -1838,3 +1838,160 @@ Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx) · up /door-buzzer-
 - [FAQ + schema] Can our super watch the repair so he knows the system next time?
 - [FAQ + schema] Can you leave a spare handset with the building for the next time one fails?
 
+
+
+## Fordham, Bronx — /door-buzzer-repair-fordham-bronx-ny (REBUILD, 2026-10-22)
+
+Phone (646) 490-0629 · GBP Bronx (460 E Fordham Rd, #bronx) · up /door-buzzer-repair-bronx-new-york · prices Bronx x1.00 (Bronx list copied from Crotona Park East model: $250 call; $250–$525 station; $250–$475 relay/button; $325–$650 transformer; $450–$900 amp; $450–$950 strike; $650–$1,800 panel; $850–$2,400 riser; $195/hr 3-hr min $585; 8.875% tax → $272.19).
+
+### Thesis
+"Five floors or six — count the floors before the buzzer": in the study area, 189 five-story walk-ups (5,203 apts, median 26, mostly 1910–1929) vs 70 six-story elevator buildings (3,784 apts, median 54.5, mostly 1925–1944), often on the same block (Creston 27/10, Morris 18/9, Marion 15/11). HPD intercom violations 10.8 vs 6.3 per 100 apts; 311 buzzer complaints 10.1 vs 4.2 per 100; same 69% of buildings cited at least once. Floor count → elevator → system layout (stair-hall single riser vs cellar box + lettered line risers + two-door vestibule) → where the first test happens. Plus: 14 six-story walk-ups (highest rate 11.7), 22 buildings 7–13 floors (18 since 2007, networked), 12 co-ops (555 apts, 18 violations ever), 248 house lots. Distinct from Belmont (apartment-first/ZIP 10458 walk-ups/Fordham calendar), Crotona (rebuild houses), Claremont (fail twice), Bedford Park/Concourse/Kingsbridge (old templates).
+
+### Study area (stated on page, Sources)
+Eight 2020 census tracts: 237.02, 237.03, 397, 399.01, 399.02, 401, 403.04, 405.02 (≈ E 183rd–E 198th St, Jerome Ave–Southern Blvd incl. Fordham University campus; CD 205/207 plus 70 lots of CD 206 on the south side of Fordham Rd east of Webster). Not an official boundary; overlaps parts of the Fordham Heights / Bedford Park / Belmont NTAs (stated on page).
+
+### Local research matrix (exact query · platform · URL · finding · page + section used)
+| # | Exact query | Platform | URL | Finding | Page + section used |
+|---|---|---|---|---|---|
+| F1 | (page fetch) | Firecrawl scrape | https://en.wikipedia.org/wiki/Fordham,_Bronx | Bounds; Old Fordham Village (Concourse/Fordham Rd, ~187th–196th, Jerome–Southern Blvd); CD5/CD7; ZIPs 10453/10457/10458/10468 split by Concourse & E 183rd; "dominated by 5- and 6-story apartment buildings, often set flush to the sidewalk"; 1920s growth (Manhattan families, subway access); 46th Pct 2120 Ryer Ave, 52nd Pct 3016 Webster Ave; Engine 48/Ladder 56 2417 Webster; Rose Hill campus, St. Joseph's College 1841; Monroe College since 1967; Bronx Library Center 310 E Kingsbridge Rd (2006, largest Bronx NYPL branch); stations 4/B/D/Metro-North; Twin Parks fire Jan 9 2022 | §5 Neighborhood; facts list; Thesis; Commercial; Coverage; AI H3 1; Sources |
+| F2 | SoQL `$select=nta,count(*)&$where=boro='BRONX'&$group=nta` | Firecrawl scrape of NYC Open Data API | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | 2020 NTA names: no "Fordham" NTA; "Fordham Heights", "University Heights (North)-Fordham", "Bedford Park", "Belmont" → used census tracts instead | Study-area definition |
+| F3 | SoQL PLUTO bbox lat 40.8525–40.8715, lon -73.9075 to -73.8770 (4,572 lots) | Firecrawl scrape API | https://data.cityofnewyork.us/resource/64uk-42ks.json | Used to pick tracts by street/centroid | Study-area definition |
+| F4 | SoQL PLUTO `bct2020 in (2023702,2023703,2039700,2039901,2039902,2040100,2040304,2040502)` | Firecrawl scrape API | https://data.cityofnewyork.us/resource/64uk-42ks.json | 899 lots, 681 residential, 12,845 apts; ZIPs 10458 (523 res lots)/10468 (157)/10453 (1); 8+ apt bldgs 330 (12,130 apts); floors: 5 = 199 (189 walk-ups), 6 = 84 (70 elevator, 14 walk-up), 7–9 = 15, 10–13 = 7, ≤4 = 24; W5 189/5,203 median 26 max 65; E6 70/3,784 median 54.5 max 105; W6 14/712 (largest 136-apt 1927 C7 on E 187th); Etall 22/1,717 (18 built 2007+); Elow 14/425; Wlow 21/289; small 3–7: 103/325; houses 248 lots/390 homes (mostly 1910s; 13 two-family 2006–08 on Bainbridge/Decatur/Pond Pl); co-ops 12 bldgs (C6 ×5, D4 ×7) 555 apts; since 2005: 38 bldgs/1,867 apts (several HDFC-owned); pre-1968 8+: 291 bldgs/10,144 apts vs 39/1,986; C7 41 of W5, D7 14 of E6; apartments by decade (1920s 4,902); landmark flags: 2403 GC (indiv+interior), 2530 GC (indiv+interior), 441 E Fordham Rd (Fordham Univ), 2640 GC (Poe Cottage 1812), 2500 Jerome (1865 church) | Hero; §5 + 4 charts; Thesis + 6 charts; Architecture cards; Methods; Rules (MDL bullet + chart); AI H3 1/3/4; Sources |
+| F5 | SoQL HPD `zip in('10458','10468','10453') AND novdescription like '%INTERCOM%'` (5,211) joined to F4 BBLs | Firecrawl scrape API | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | 928 at 210 bldgs; since 2021 385 at 131; by year 2016–2026: 40/43/48/45/45/46/64/59/80/74/62; class B 719, A 197, C 12; open 209; 840 name an apt; words: BELL 301, FOYER 231, ENTIRE APARTMENT 169, RETURN 163, KITCHEN 128, HALL 126, ENTRANCE DOOR 106, VESTIBULE 77, PUBLIC 41, LOBBY 7; per 100 apts: W6 11.7, W5 10.8, Wlow 7.3, E6 6.3, small 1.8, Elow 1.2, Etall 0.6, houses 0.3; C1 11.7 vs C7 8.3, D1 5.7 vs D7 6.7; story W5 107/96/109/88/114, E6 47/33/33/44/29/37; co-ops 18 violations; no building-day clustering (almost all single-apt per inspection) | Hero; facts; Thesis charts; Records section + 5 charts; Q&A (six-story walk-up, co-op); AI H3 1; Sources |
+| F6 | SoQL 311 `incident_zip in(10458,10468,10453) AND descriptor='BELL/BUZZER/INTERCOM'` (4,537) joined to F4 BBLs | Firecrawl scrape API | https://data.cityofnewyork.us/resource/erm2-nwe9.json | 823 from 177 addresses; by year 54/102/157/137/140/132/101 (2020–2026 YTD); W5 526 (10.1/100), E6 159 (4.2/100); outcomes: no violation 301, violation 226, no access/not completed 212, corrected/already cited 66, other 18; Mon 151 Tue 163 … Sat 51 Sun 62; peak noon (86); ZIP totals by year | Records section + 5 charts; Thesis chart; Sources |
+| F7 | `Fordham Road BID longest retail corridor Bronx businesses pedestrians` | Firecrawl search | https://www.citylandnyc.org/fordham-road-bid-secures-expansion-approval/ ; https://www.nyctourism.com/shopping/fordham-road-business-improvement-district/ ; https://www.norwoodnews.org/redesigned-fordham-plaza-open-but-vendors-still-a-year-away/ ; (NYC DOT Facebook "80,000 people walk Fordham Rd every day" — not used, social post) | BID along Fordham Rd between Jerome and Webster (CityLand excerpt); "almost 300 specialty stores" (NYC Tourism); $34M Fordham Plaza, "largest transit hub in the Bronx", bus depot, Metro-North access (Norwood News excerpt) | Commercial cards; Coverage; Sources |
+| F8 | `Twin Parks North West fire 333 East 181st Street self-closing door local law HPD` | Firecrawl search → scrape | https://www.norwoodnews.org/a-look-back-on-legislative-actions-taken-on-the-2nd-anniversary-of-the-twin-parks-fire/ | Jan 9 2022, 333 E 181st St, Fordham Heights, 17 dead; FDNY: malfunctioning self-closing doors key factor; Feliz bill package defining self-closing door and modifying Local Law 111 | Rules bullet (self-closing) |
+| F9 | `Fordham Bronx apartment buzzer intercom broken building tenants Norwood News OR Bronx Times OR News 12` | Firecrawl search | https://bronx.news12.com/2026/07/24/fordham-tenants-sue-landlord-seek-court-control-of-neglected-apartment-building/1LYPeXz3y5bCyErINWBiK3 (scraped: Walton Ave, 7A petition, no intercom mention — not used); https://bronx.news12.com/broken-elevator-in-fordham-building-forces-tenants-to-access-apartments (2255 GC, outside study — not used) | No buzzer-specific Fordham story | Background only |
+| F10 | `"2615 Grand Concourse" elevator broken tenants News 12` | Firecrawl search | https://longisland.news12.com/2025/06/30/fordham-tenants-stuck-inside-units-for-over-a-month-due-to-broken-elevator/1XAZ2SHScPDM5autZmZaoN | June 30 2025: elevator broken over a month, "many are stuck" (excerpt). Address is a study-area D1, 6 floors, 49 apts, 1938 (PLUTO). Page names it only as "a six-story building on the Grand Concourse north of Fordham Road" | §5 para 4; Q&A elevator-out; Sources |
+| F11 | `Loew's Paradise Theater 2403 Grand Concourse landmark designated 1929 Fordham` | Firecrawl search | https://en.wikipedia.org/wiki/Paradise_Theater_(Bronx) ; https://paradisepac.org/ | 2403 Grand Concourse in Fordham; opened 1929; architect John Eberson | Commercial; Coverage; Rules (landmarks); schema mentions |
+| F12 | `Dollar Savings Bank Grand Concourse Fordham Road clock tower landmark Emigrant` | Firecrawl search | https://en.wikipedia.org/wiki/Dollar_Savings_Bank_Building ; https://s-media.nyc.gov/agencies/lpc/lp/1889.pdf | 2516–2530 GC, block GC/Fordham Rd/Valentine/192nd; four-faced clock tower; ten-story office wing; NYCL 1889/1890 | Commercial; Coverage; Rules; schema |
+| F13 | `Edgar Allan Poe Cottage Poe Park Grand Concourse Kingsbridge Road NYC Parks built 1812` | Firecrawl search | https://www.nycgovparks.org/parks/poe-park | Built 1812; Poe wrote "The Bells", "Annabel Lee" there | Coverage; facts list |
+| F14 | `St. James Episcopal Church 2500 Jerome Avenue Bronx landmark 1865` | Firecrawl search | https://en.wikipedia.org/wiki/St._James%27_Episcopal_Church_and_Parish_House ; https://www.stjamesfordham.org/landmark-status | 2500 Jerome Ave & 190th St; built 1864–65, Henry Dudley; parish house 1891–92 | Coverage; facts; Commercial (Jerome Ave) |
+| F15 | `intercom repair cost apartment buzzer HomeGuide OR Angi OR Fixr average` | Firecrawl search | https://www.uasecurity.com/intercom-repair-cost-nyc.htm ; https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/ ; https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/ ; https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/ | uasecurity "$150–$250 flat-rate range… 30-day repair warranty"; Swiftlane "$2,200 to $5,000 small building / minor repairs $150 to $400"; Vertex "about 1,500 to 15,000+ dollars per door" | AI H3 2, 3, 5 |
+| F16 | (reused silo S-A4, S-A5, S-A6) | — | https://butterflymx.com/blog/nyc-intercom-law/ ; https://butterflymx.com/blog/apartment-call-box/ ; https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system/ | 1968 rule "generally applies"; "requires no building wiring"; install avg $2,500 | AI H3 4, 6, 7 |
+| F17 | (reused silo S-G1, S-G2, S-G4/27-2005, S-G5, S-G7, S-G8, S-G9) | — | see silo sources | MDL § 50-a; HPD self-closing class C 14 days; HMC 27-2005; LPC staff-level panel permits, ordinary repair no permit; egress maglock; ADA 48 in; electrical permit | Rules section |
+| F18 | `site:reddit.com Fordham Bronx apartment buzzer OR intercom OR "front door" building` | Firecrawl search | https://www.reddit.com/r/AskNYC/comments/1limieh/ (key copying, "Webster Lock… by Fordham Plaza" — not used) | No Fordham-specific buzzer thread | EMPTY for page use |
+| — | Google PAA / PASF / Answer the Public / AI Overview / Bing / DDG / Yelp 1–3★ | — | — | EMPTY (not accessible in build env); AI section tests cost-guide/vendor/Wikipedia claims instead and says so | §10.5 intro; Sources |
+
+### Keyword layers used (natural placement)
+Service: door buzzer repair Fordham, intercom riser repair, vestibule door release, lobby panel repair, handset replacement. Problem: whole line silent, floors above a landing silent, inner door opens/street door doesn't, panel calls some phones, elevator out. Technology: riser, terminal block, cellar equipment box, strike/release, supply/amplifier, IP panel. Industry: walk-up owners, elevator-building managers, co-op boards, HDFC/nonprofit owners, Fordham Road stores/offices, campuses. Geographic: Fordham Road, Grand Concourse, Creston/Morris/Valentine/Marion/Tiebout/Decatur/Bainbridge Aves, Pond Place, E Kingsbridge Rd, Jerome Ave, Webster Ave/Fordham Plaza.
+
+### Flags for Anwar
+- Study area is our own 8-tract filter (not an official boundary; overlaps Fordham Heights, Bedford Park and a strip of Belmont). Stated on page.
+- Elevator/walk-up split uses PLUTO building class (D/RM/RR/N = elevator); floors from PLUTO numfloors. Explanations of why walk-ups are cited more are offered as possibilities, labelled as such.
+- News 12 2615 Grand Concourse story used without the address; Twin Parks fire (Fordham Heights, outside study area) cited only for self-closing door context, from Norwood News.
+- Images: all 11 are manufacturer product photos of cameras/recorders (no door hardware left in the reserved pools; every real job scene in them is a crop of a photo already live on a sibling) — captions say "not taken in Fordham" and tie each to door/lobby context. Real buzzer photos still needed.
+- AESS practice claims to confirm: hours 8am–8pm 7 days (from model schema); priority for unlockable street doors and for tenants who cannot reach the door; morning calls usually same-day visit; $250 credited to larger repair; labels on every block/box + written apartment grid; customer-supplied parts fitted; store separation work quoted on transformer/button lines; working during store hours; COI sent to agents/boards/nonprofits; invoicing HDFC/nonprofit owners; tenants home only for final test.
+- Hub/sibling wiring needed by main run: check_page.py reports hubs nyc / long-island / hudson-valley / rockland / westchester not linking back, Bronx hub not linking down, and missing `_redirects` 200 rule (only these fail; content checks pass).
+
+### Images — source → dest (images/door-buzzer-repair/, WebP q80)
+1. images/floodlight-camera-installation/floodlight-camera-installation-putnam-county-white-twin-panel-floodlight-on-pan-tilt-camera-with-antennas-product-photo.webp → door-buzzer-repair-fordham-white-twin-panel-floodlight-pan-tilt-camera-with-antennas.webp (hero)
+2. images/uniview-camera-installation/uniview-camera-installation-manhattan-unv-white-fisheye-dome-product-photo.webp → door-buzzer-repair-fordham-white-fisheye-dome-camera.webp
+3. images/uniview-camera-installation/uniview-camera-installation-staten-island-unv-dual-lens-panoramic-dome-product-photo.webp → door-buzzer-repair-fordham-dual-lens-panoramic-dome-camera.webp
+4. images/security-camera-maintenance/security-camera-maintenance-dutchess-county-16-channel-network-video-recorder-product-photo.webp → door-buzzer-repair-fordham-sixteen-channel-network-video-recorder.webp
+5. images/dahua-camera-installation/dahua-camera-installation-long-island-dual-lens-overhead-camera-product-photo.webp → door-buzzer-repair-fordham-dual-lens-overhead-doorway-camera.webp
+6. images/dvr-upgrade/dvr-upgrade-putnam-dark-grey-recorder-with-front-usb-ports-product-photo.webp → door-buzzer-repair-fordham-dark-grey-recorder-with-front-usb-ports.webp
+7. images/floodlight-camera-installation/floodlight-camera-installation-orange-county-lorex-twin-panel-floodlight-with-black-camera-product-photo.webp → door-buzzer-repair-fordham-twin-panel-floodlight-with-black-camera.webp
+8. images/dvr-upgrade/dvr-upgrade-queens-white-mini-dome-camera-product-photo.webp → door-buzzer-repair-fordham-white-mini-dome-camera.webp
+9. images/security-camera-maintenance/security-camera-maintenance-nyc-wi-fi-dome-camera-with-antennas-product-photo.webp → door-buzzer-repair-fordham-wifi-dome-camera-with-two-antennas.webp
+10. images/lorex-camera-installation/lorex-camera-installation-brooklyn-white-lorex-indoor-cube-camera-on-stand-product-photo.webp → door-buzzer-repair-fordham-white-indoor-cube-camera-on-stand.webp
+11. images/dahua-camera-installation/dahua-camera-installation-long-island-white-mini-pan-tilt-dome-product-photo.webp → door-buzzer-repair-fordham-white-mini-pan-tilt-dome-on-black.webp
+(md5 checked against every image referenced by door-buzzer-repair*.html and every file in images/door-buzzer-repair/; 16x16 avg-hash distance >12 to all used images; contact sheets reviewed — 144 near-duplicate crops excluded.)
+
+### Question register — door-buzzer-repair-fordham-bronx-ny
+Q&A (section 9, H3):
+- In our five-story walk-up, everyone from the fourth floor up has lost the buzzer, but the first three floors still work. Where does the search start?
+- The landlord had the stair hall painted last month, and since then two floors can't buzz anyone in. Could the painting have done it?
+- Our building is six stories with no elevator. Is it repaired the same way as a five-story walk-up?
+- Five apartments stacked one above another have all lost the intercom. Is it cheaper to fix the riser that feeds them or to replace the five handsets?
+- Can one press of the door button release both the street door and the lobby door, and still have both lock again behind the visitor?
+- The elevator in our six-story building is out of service, and tenants upstairs rely on the intercom to let home aides and deliveries in. Can that make the buzzer repair more urgent?
+- Our building has two wings around a courtyard, each with its own entrance. Are both entrances on the same buzzer system?
+- Our store on Fordham Road has a delivery bell at the back door, wired years ago into the building's intercom. Should the two be separated?
+- Calls from the lobby panel in our newer building reach some residents' phones and not others. Is the panel broken?
+- Our co-op on Marion Avenue has never had an HPD intercom violation. Does that mean our system is in good shape?
+- HPD cited two apartments on different floors of our walk-up on the same day. Should we book them as two separate repairs?
+FAQ (accordion = FAQPage schema):
+- Is the $250 service call the same for a 26-apartment walk-up and a 100-apartment elevator building?
+- Do tenants on a dead line need to be home while the riser is repaired?
+- Can a store on Fordham Road stay open while its door buzzer is repaired?
+- Will the names on the lobby directory be correct after a repair?
+- Do you charge separately for each door in a two-door vestibule?
+- Can you repair a building owned by a housing development fund company or managed by a nonprofit?
+- What will the written quote show?
+- Do you work on buzzers in the one- and two-family houses on Marion, Bainbridge and Decatur Avenues?
+- Is the repair covered by a warranty?
+- What hours do you take calls and send technicians?
+
+
+## Fieldston, Bronx — /door-buzzer-repair-fieldston-bronx-ny (REBUILD, 2026-10-22) — HOLD-THIN
+
+Up /door-buzzer-repair-bronx-new-york · phone (646) 490-0629 · GBP Bronx. **Not built. Line recommended `HOLD-THIN`**. The old html is left untouched.
+
+### Study area
+Wikipedia bounds: Manhattan College Pkwy (S), Henry Hudson Pkwy (W), W 250th St (N), Broadway (E). ZIP 10471, CD8. The historic district is the private Fieldston Property Owners' Association enclave. PLUTO box used for testing: lat 40.8885–40.8990, lon -73.9095 to -73.8965. Boundary coordinates come from PLUTO addresses on Manhattan College Pkwy and W 250th St (F2). The box spills slightly west of the Henry Hudson Pkwy and south of Manhattan College Pkwy, so the apartment counts below are an upper bound.
+
+### Research matrix (exact query · platform · URL · finding · intended use)
+| # | Exact query · platform | URL | Finding | Intended use |
+|---|---|---|---|---|
+| F1 | scrape · Firecrawl | https://en.wikipedia.org/wiki/Fieldston,_Bronx | Bounds above. Privately owned. FPOA formed 1923 after 80 houses. About 250 member homeowners pay dues. The FPOA owns the streets and handles plowing, sewers, about 1,000 trees and a security patrol. Streets are closed to non-residents one day a year. The 1938 special zoning district bars multiple dwellings. LPC historic district designated Jan 10 2006 with 252 houses. Architects: Baum (62 houses), Gregory (42). Pop. 3,292 (2011). Horace Mann (231 W 246th St), Ethical Culture Fieldston School (3901 Fieldston Rd), Manhattan University (MC Pkwy), La Guardia house at 5020 Goodridge Ave | thesis test, landmarks |
+| F2 | SoQL `address like '%MANHATTAN COLLEGE%' OR '%WEST 250 STREET%' OR '%HENRY HUDSON PARKWAY E%'` · Firecrawl scrape (PLUTO 64uk-42ks) | https://data.cityofnewyork.us/resource/64uk-42ks.json | Boundary coordinates. The odd side of MC Pkwy (4401–4491) is Fieldston HD one-family houses. The even side (4568–4660) holds 1923–25 walk-ups at the 242nd St/Broadway corner, south of the parkway | study-area definition |
+| F3 | PLUTO box, group by histdist × bldgclass · Firecrawl | same | Inside the Fieldston HD: A3 205, A1 29, A2 12, A7 6, A4/A0 1 each, B9 1 (2 units) → about 256 residential lots, all one- or two-family. Outside the HD, inside the box: D4 12 lots/1,177 units, D1 6/394, C1 12/355, C6 3/164, plus others. Most of these sit on the box fringe (see F4) | thesis test |
+| F4 | PLUTO box, unitsres>3, listed · Firecrawl | same | Apartment buildings inside Wikipedia's lines are only on the Broadway/Cayuga/Post Rd strip between W 242nd and W 250th: 4410/4414 Cayuga Ave (79 apts, 1930–31 co-op), 4445 Post Rd (68), 6035 Bwy (103), 6063 Bwy (30), 6125 Bwy (30), 6141 Bwy (86), 6155 Bwy (44), and possibly 3900 Henry Hudson Pkwy E (37). That is about 8 buildings and about 480 apartments. All the larger co-ops in the box are on Henry Hudson Pkwy WEST (Riverdale), south of MC Pkwy (Waldo/Greystone/Johnson, Kingsbridge/Riverdale 10463) or north of W 250th (Fieldston Terrace, W 251st) | fringe-angle test |
+| F5 | HPD wvxf-dwi5 `zip='10471' AND novdescription like INTERCOM/BUZZER/DOORBELL` group by address · Firecrawl | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | Whole ZIP 10471 = **76** violations, all years. Inside Fieldston's lines: **2** (4410 Cayuga Ave 1, 2025; 6141 Broadway 1, 2024). Fieldston HD houses: **0**. The biggest records are outside: 6653 Bwy 14, 4568 MC Pkwy 7 (south side), 5535 Netherland Ave 7, 5400 Fieldston Rd 6 (north of 250th) | thesis test |
+| F6 | 311 erm2-nwe9 `incident_zip='10471' AND descriptor='BELL/BUZZER/INTERCOM' AND created_date>='2020-01-01'` group by address · Firecrawl | https://data.cityofnewyork.us/resource/erm2-nwe9.json | Whole ZIP = **104** since 2020. Inside Fieldston's lines: **3** (6141 Bwy 2, 6155 Bwy 1). HD houses: **0**. Leaders are outside: 5550 Fieldston Rd 17 (North Riverdale co-op), 5535 Netherland 12, 244 Fieldston Terrace 10 | thesis test |
+| F7 | 311 same descriptor, Bronx, since 2022-01-01, by ZIP · Firecrawl | same | 10471 = **91**, 21st of 25 Bronx ZIPs (10458 1,554; 10463 435; 10465 50; 10464 7) | thesis test |
+| — | Google PAA / PASF / AnswerThePublic / AI Overview / Bing / DDG / Yelp 1–3★ / local Reddit / local news | — | EMPTY (not accessible in build env); not pursued after the data test failed | — |
+
+### Why HOLD-THIN
+1. **No recorded buzzer demand in Fieldston itself.** The about 256 historic-district lots, all one- or two-family, have 0 HPD intercom/buzzer violations ever and 0 bell/buzzer/intercom 311 complaints since 2020. Inside Wikipedia's whole boundary there are 2 HPD violations and 3 311 complaints, all at Broadway/Cayuga apartment buildings. ZIP 10471 ranks 21st of 25 Bronx ZIPs (91 complaints since 2022).
+2. **The candidate angles are already taken in the silo.**
+   - Private streets and an owners' association that runs the ground is the Clason Point thesis ("private ground first": Shorehaven HOA, Harding Park HOA-owned lanes).
+   - Landmarked historic district and LPC rules for intercom panels and doorbells is covered by Brooklyn Heights (91 LPC intercom filings, 21 LPC questions), Beverley Square (LPC guidebook ch. 11) and Carroll Gardens.
+   - The detached house doorbell circuit is the Beverley Square thesis.
+   - The estate-house angle has no source showing gates or long-run gate intercoms in Fieldston. Wikipedia describes open private streets with a patrol, and building that angle would need invention.
+3. **The fringe apartments belong to other pages.** The only apartment stock inside the lines is about 8 buildings and about 480 apartments on the Broadway/Cayuga/Post Rd strip. The walk-ups and co-ops around it (south of MC Pkwy, west of the Henry Hudson Pkwy, north of W 250th) are Riverdale, Kingsbridge or North Riverdale. `door-buzzer-repair-riverdale-bronx-ny` is itself a queued REBUILD line and can carry them; `door-buzzer-repair-kingsbridge-bronx-ny` and `van-cortlandt-village` already exist.
+4. **The institutions are not a buzzer market for this page.** Horace Mann, Ethical Culture Fieldston and Manhattan University are campus facilities work, not a neighborhood door-buzzer search intent, and the sources say nothing about their entry systems.
+
+### Images
+Not processed because the page is not built. The reserved pools hold 627 files in images/alarm-installation/ and 894 top-level files. 1,434 of them do not md5-match any image on a door-buzzer-repair*.html page; none were checked for AI renders. They remain free for another page.
+
+### Question register
+None. No page was written.
+
+### Flags for Anwar
+- Mark the line `HOLD-THIN private one-family enclave: 0 HPD/0 311 buzzer records at ~256 HD houses; 2 HPD + 3 311 inside all Wikipedia lines (Broadway/Cayuga strip); angles taken by Clason Point (private ground), Brooklyn Heights/Beverley Square/Carroll Gardens (LPC), Beverley Square (detached house)`.
+- Suggestion: when rebuilding the Riverdale page, give the Broadway/Cayuga/Post Rd strip a Fieldston-edge section, and either redirect the Fieldston URL there or keep the old page as is.
+
+
+## Fiske Terrace, Brooklyn — /door-buzzer-repair-fiske-terrace-brooklyn-ny (REBUILD, 2026-10-22) — HOLD-THIN
+
+Up /door-buzzer-repair-brooklyn-new-york · phone (347) 934-8335 · GBP Brooklyn. **Not built. Line recommended `HOLD-THIN`.** Old html left untouched.
+
+### Study area
+Wikipedia (Flatbush article, "Fiske Terrace" subsection): Foster Ave (N), Ocean Ave (E), LIRR Bay Ridge Branch / NY&A freight cut (S), BMT Brighton line (B/Q) (W). Developed with Midwood Park by T.B. Ackerson Co. from 1905, about 150 custom houses, Midwood Malls; LPC designated the Fiske Terrace–Midwood Park Historic District on March 18, 2008 (250 homes); Avenue H station house is a NYC landmark. Data study area = the 10 tax blocks that hold the historic district lots (5237–5240, 6689–6694), which also take in the Ocean Ave, Foster Ave/E 16th–17th St and Avenue H edge buildings.
+
+### Research matrix (exact query · platform · URL · finding · intended use)
+| # | Exact query · platform | URL | Finding | Intended use |
+|---|---|---|---|---|
+| F1 | scrape `Fiske_Terrace,_Brooklyn` · Firecrawl (redirects to Flatbush) | https://en.wikipedia.org/wiki/Fiske_Terrace,_Brooklyn | Bounds, Ackerson 1905, ~150 houses, Midwood Malls, LPC 3/18/2008 (250 homes), Avenue H station house landmark, residents Hellmann and Ebbets | thesis test |
+| F2 | PLUTO `histdist like '%Fiske%'` group by histdist · Firecrawl (64uk-42ks) | https://data.cityofnewyork.us/resource/64uk-42ks.json | Fiske Terrace-Midwood Park HD = **252 lots, 319 homes** (1.27 homes per lot) | thesis test |
+| F3 | PLUTO same filter, group by block (lat/lon/year ranges) · Firecrawl | same | Blocks 5237–5240 and 6689–6694; years built 1898–1929 except a 1936 27-unit building (800 E 17 St) and two 1961 three-families | study area |
+| F4 | PLUTO 10 blocks, group by first letter of bldgclass · Firecrawl | same | 384 lots / 1,485 homes: A (one-family) 290, B (two-family) 37/74 homes, C 23/396, D 11/648, R 2/70, S 2/6. The **36 C/D/R buildings hold 1,114 of 1,485 homes (75%)**, almost all on Ocean Ave (e.g. 1232 Ocean 108 units 1953, 1122 Ocean 96 units 1955, 1138 Ocean condo 68 units 2008) and E 16th/17th St north of Foster (1931 walk-ups) | thesis test |
+| F5 | HPD wvxf-dwi5, boroid 3, 10 blocks, novdescription like INTERCOM/BUZZER, group by address/class · Firecrawl | https://data.cityofnewyork.us/resource/wvxf-dwi5.json | **31 violations at 11 buildings, 1994–2026, 29 B / 2 A; all at edge apartment buildings** (1290 Ocean 9, 1280 Ocean 4, 1170 Ocean 3, 1198 Ocean 4, 1925 Glenwood 2, 1122 Ocean 2, 613 E 16 St 2 …). **0 at any of the 252 historic-district lots** | thesis test |
+| F6 | 311 erm2-nwe9, created ≥ 2020-01-01, descriptor like BUZZER/INTERCOM/BELL, bbl in 10 blocks · Firecrawl | https://data.cityofnewyork.us/resource/erm2-nwe9.json | **29 complaints from 10 addresses since 2020, all apartment buildings** (1290 Ocean 9, 1280 Ocean 5, 1925 Glenwood 3, 1100 Ocean 3, 1170 Ocean 3 …). **0 from houses** | thesis test |
+| — | Google PAA / PASF / AnswerThePublic / AI Overview / Bing / DDG / Yelp 1–3★ / local Reddit | — | EMPTY (not accessible in build env); not pursued after the thesis test failed | — |
+
+### Why HOLD-THIN
+1. **Same thesis as Beverley Square, one stop north on the same Q line.** Beverley Square (rebuilt today, 12,686 words) is "two kinds of buzzer repair": freestanding 1894–1910 Ackerson-era wood houses in a Landmarks district (porch bells, cellar transformers, LPC permit rules, two-family/attic/basement units) vs. pre-war apartment buildings on the edge roads where the HPD violations sit (59 of 67). Fiske Terrace is the same developer (T.B. Ackerson), same era (1898–1929), same LPC-district permit angle, same CB14 / 70th Precinct / Q line, and the same split: 0 of 31 HPD intercom violations and 0 of 29 311 complaints at the 252 district houses; all at Ocean Ave / E 16th–17th St edge buildings.
+2. **Low demand on the house side.** The district is 252 lots / 319 homes (1.27 homes per lot); there are only 37 two-family lots on the 10 blocks. No HPD or 311 buzzer record touches a district house.
+3. **The edge buildings are an Ocean Avenue topic, not a Fiske Terrace one.** 75% of homes on the blocks are in 36 Ocean Ave / Foster-edge apartment buildings that residents and listings usually file under Midwood or Flatbush. A page built on them would compete with the Midwood/Flatbush/Ditmas Park pages and repeat the Beverley Square "edge building" half.
+4. **Remaining unique hooks are trivia, not repair intent:** Midwood Malls medians, the court streets (DeKoven, Marlborough, Waldorf, Wellington Courts), the Avenue H station house, the LIRR freight cut. Enough for a section, not a 12,000–14,000-word page.
+
+### Question register
+None. No page was written.
+
+### Flags for Anwar
+- Mark the line `HOLD-THIN Victorian enclave = Beverley Square thesis; 0/31 HPD intercom + 0/29 311 buzzer records at the 252 district houses; edge buildings belong to Ocean Ave/Midwood`.
+- Option: fold Fiske Terrace (and Midwood Park) into the Beverley Square page as a "same Ackerson houses south of Foster Ave" section, or into a future Victorian Flatbush page, then 301 or noindex this slug.
+- Images: none copied; reserved folders (access-control-installation, apartment-building-security-camera-installation, intercom-repair, door-buzzer-installation, commercial-security) are untouched and free for other runs.
