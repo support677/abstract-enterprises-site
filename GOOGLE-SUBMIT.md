@@ -392,3 +392,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-manhattan-beach-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-mapleton-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-marine-park-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spuyten-duyvil-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-starrett-city-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sunset-park-brooklyn-ny | QUEUED
