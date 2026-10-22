@@ -287,6 +287,9 @@ def identify(slug):
             cand = "-".join(parts[:i])
             if os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{borough}.html")):
                 return cand, borough
+            # silos whose borough hubs are named <silo>-<borough>-new-york (door-buzzer-repair)
+            if os.path.isfile(os.path.join(REPO_ROOT, f"{cand}-{borough}-new-york.html")):
+                return cand, borough
         return parts[0], borough
     return None, None
 
@@ -294,7 +297,7 @@ def identify(slug):
 def area_slug(silo, area, root=None):
     """Slug of a silo's area/hub page: <silo>-<area>, or <silo>-<area>-ny for the older -ny silos."""
     base = f"{silo}-{area}"
-    cands = [base, base + "-ny"]
+    cands = [base, base + "-ny", base + "-new-york"]
     if area.endswith("-county"):
         cands.append(f"{silo}-{area[:-7]}")
     for c in cands:
