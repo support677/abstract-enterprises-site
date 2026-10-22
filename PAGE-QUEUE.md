@@ -385,9 +385,9 @@ LIVE | alarm-installation-homecrest-brooklyn-ny | Alarm Installation | Homecrest
 LIVE REBUILD | alarm-installation-kensington-brooklyn-ny | Alarm Installation | Kensington, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | alarm-installation-locust-point-bronx-ny | Alarm Installation | Locust Point, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | alarm-installation-madison-brooklyn-ny | Alarm Installation | Madison, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:04:13Z REBUILD | alarm-installation-manhattan-beach-brooklyn-ny | Alarm Installation | Manhattan Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:04:13Z REBUILD | alarm-installation-mapleton-brooklyn-ny | Alarm Installation | Mapleton, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T00:04:13Z REBUILD | alarm-installation-marine-park-brooklyn-ny | Alarm Installation | Marine Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-manhattan-beach-brooklyn-ny | Alarm Installation | Manhattan Beach, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-mapleton-brooklyn-ny | Alarm Installation | Mapleton, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | alarm-installation-marine-park-brooklyn-ny | Alarm Installation | Marine Park, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-new-lots-brooklyn-ny | Alarm Installation | New Lots, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-ocean-hill-brooklyn-ny | Alarm Installation | Ocean Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | alarm-installation-ocean-parkway-brooklyn-ny | Alarm Installation | Ocean Parkway, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
