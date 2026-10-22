@@ -439,3 +439,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-morrisania-bronx-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-mott-haven-bronx-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-mount-eden-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-melrose-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-mount-hope-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-new-lots-brooklyn-ny | QUEUED
