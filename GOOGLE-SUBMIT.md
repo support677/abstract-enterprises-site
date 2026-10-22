@@ -398,3 +398,6 @@ Last evening run: 2026-10-22 (00:48 UTC) — sitemap resubmitted via API (lastSu
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-sea-gate-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-south-slope-brooklyn-ny | QUEUED
 2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-spring-creek-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-tremont-bronx-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-vinegar-hill-brooklyn-ny | QUEUED
+2026-10-22 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-weeksville-brooklyn-ny | QUEUED
