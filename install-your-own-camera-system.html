@@ -696,7 +696,7 @@ var curArea='brooklyn';
 /* Each: id, name, desc, base (first unit), addtl (each after first), cat */
 var SVCS=[
 /* CAMERAS */
-{id:'wifi-cam',name:'Wi-Fi Camera Install',desc:'Mount, connect to Wi-Fi, configure app',base:150,addtl:75,cat:'cameras'},
+{id:'wifi-cam',perLine:1,name:'Wi-Fi Camera Install',desc:'Per camera: mount, connect to Wi-Fi, test signal, connect to NVR, configure app',base:175,addtl:175,cat:'cameras',runMin:true},
 {id:'poe-cam',perLine:1,name:'Wired / PoE Camera Install',desc:'Per camera line: run Cat6 (up to 100 ft, exposed/attic/basement), mount, terminate, connect to NVR',base:175,addtl:175,cat:'cameras',runMin:true},
 {id:'doorbell-ez',name:'Video Doorbell (Existing Wiring)',desc:'Swap existing doorbell, connect, configure app',base:150,addtl:150,cat:'cameras'},
 {id:'doorbell-new',name:'Video Doorbell (New Wire Run)',desc:'No existing wiring — we run new power',base:250,addtl:250,cat:'cameras',runMin:true},
