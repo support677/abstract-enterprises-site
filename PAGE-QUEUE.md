@@ -418,9 +418,9 @@ LIVE REBUILD | door-buzzer-repair-beverley-square-brooklyn-ny | Door Buzzer Repa
 LIVE REBUILD | door-buzzer-repair-bronx-river-bronx-ny | Door Buzzer Repair | Bronx River, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-bronxdale-bronx-ny | Door Buzzer Repair | Bronxdale, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-bronxwood-bronx-ny | Door Buzzer Repair | Bronxwood, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-22T05:14:45Z REBUILD | door-buzzer-repair-brooklyn-chinatown-brooklyn-ny | Door Buzzer Repair | Brooklyn Chinatown, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T05:14:45Z REBUILD | door-buzzer-repair-brooklyn-heights-brooklyn-ny | Door Buzzer Repair | Brooklyn Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-22T05:14:45Z REBUILD | door-buzzer-repair-brooklyn-navy-yard-brooklyn-ny | Door Buzzer Repair | Brooklyn Navy Yard, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | door-buzzer-repair-brooklyn-chinatown-brooklyn-ny | Door Buzzer Repair | Brooklyn Chinatown, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | door-buzzer-repair-brooklyn-heights-brooklyn-ny | Door Buzzer Repair | Brooklyn Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE REBUILD | door-buzzer-repair-brooklyn-navy-yard-brooklyn-ny | Door Buzzer Repair | Brooklyn Navy Yard, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T05:19:56Z REBUILD | door-buzzer-repair-brownsville-brooklyn-ny | Door Buzzer Repair | Brownsville, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T05:19:56Z REBUILD | door-buzzer-repair-bushwick-brooklyn-ny | Door Buzzer Repair | Bushwick, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-22T05:19:56Z REBUILD | door-buzzer-repair-carroll-gardens-brooklyn-ny | Door Buzzer Repair | Carroll Gardens, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
