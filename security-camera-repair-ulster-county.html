@@ -305,6 +305,43 @@ footer a:hover{color:var(--gold2)}
 
 
 </style>
+<style>/* REPAIR-UPGRADE-2026-10-24 */
+.rh-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:44px;align-items:start}
+.rh-side{display:flex;flex-direction:column;gap:18px}
+.rh-photo{border-radius:16px;overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.35);border:1px solid rgba(255,255,255,.18)}
+.rh-photo img{display:block;width:100%;height:auto}
+.rh-form{background:#fff;color:var(--text,#111827);border-radius:16px;padding:22px;box-shadow:0 18px 50px rgba(0,0,0,.3)}
+.rh-form h3{color:var(--navy);font-size:1.15rem;margin:0 0 4px}
+.rh-form .rh-sub{font-size:.85rem;color:var(--muted,#6b7280);margin:0 0 14px}
+.rh-form .rh-row{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:10px}
+.rh-form input,.rh-form select{width:100%;padding:12px;border:1px solid var(--border,#e5e7eb);border-radius:10px;font:inherit;font-size:.92rem;background:#fff;color:#111827}
+.rh-form input:focus,.rh-form select:focus{outline:none;border-color:var(--blue);box-shadow:0 0 0 3px rgba(30,64,175,.1)}
+.rh-form button{width:100%;background:var(--gold2);color:var(--navy);border:none;padding:14px;border-radius:10px;font-weight:800;font-size:1rem;cursor:pointer;margin-top:4px}
+.rh-form button:hover{background:var(--gold)}
+.rh-form .rh-consent{display:flex;gap:8px;align-items:flex-start;font-size:.74rem;color:#6b7280;line-height:1.45;margin:10px 0 0}
+.rh-form .rh-consent input{width:14px;height:14px;margin-top:2px;flex-shrink:0}
+.rh-price{display:inline-flex;align-items:center;gap:10px;background:rgba(255,255,255,.12);border:1px solid rgba(251,191,36,.55);border-radius:12px;padding:10px 16px;margin:0 0 22px;font-size:1rem}
+.rh-price strong{color:var(--gold2);font-size:1.35rem}
+.sc-strip{background:#fff;border:2px solid var(--gold2);border-radius:16px;padding:26px 28px;display:grid;grid-template-columns:1fr auto;gap:24px;align-items:center;box-shadow:0 10px 30px rgba(10,22,40,.08)}
+.sc-strip h2{font-size:clamp(1.3rem,2.6vw,1.75rem);margin:0 0 8px}
+.sc-strip p{margin:0;color:var(--muted,#4b5563)}
+.sc-big{text-align:center}
+.sc-big .sc-amt{font-size:2.6rem;font-weight:900;color:var(--navy);line-height:1}
+.sc-big .sc-lbl{font-size:.78rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted,#6b7280);margin-top:4px}
+.sc-big .btn{margin-top:12px;padding:12px 22px;font-size:.95rem;background:var(--navy);color:#fff}
+.sc-list{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:12px;font-size:.92rem}
+.sc-rates{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.sc-rates a{background:var(--bg,#f3f4f6);border:1px solid var(--border,#e5e7eb);border-radius:999px;padding:6px 12px;font-size:.86rem;color:var(--navy);text-decoration:none}
+.sc-rates a strong{color:var(--blue)}
+.rp-gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:26px}
+.rp-gallery figure{margin:0;background:#fff;border:1px solid var(--border,#e5e7eb);border-radius:12px;overflow:hidden}
+.rp-gallery img{display:block;width:100%;height:auto;aspect-ratio:16/10;object-fit:cover}
+.rp-gallery figcaption{padding:10px 12px;font-size:.84rem;font-weight:600;color:var(--navy)}
+.wa-float{position:fixed;bottom:96px;right:20px;width:56px;height:56px;background:#25D366;border-radius:50%;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(37,211,102,.4);z-index:9998;transition:transform .3s}
+.wa-float:hover{transform:scale(1.08)}
+@media(max-width:960px){.rh-grid{grid-template-columns:1fr;gap:26px}.rp-gallery{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:640px){.sc-strip{grid-template-columns:1fr;text-align:left;padding:22px}.sc-big{text-align:left}.rh-form .rh-row{grid-template-columns:1fr}.rp-gallery{grid-template-columns:1fr 1fr;gap:10px}.rp-gallery figcaption{font-size:.76rem;padding:8px}.wa-float{width:50px;height:50px;right:14px;bottom:136px}}
+</style>
 </head>
 <body>
 <!-- ═══ MEGA-NAV ═══ -->
@@ -326,6 +363,8 @@ footer a:hover{color:var(--gold2)}
 <!-- ELEMENT 1, 2, 3: HERO -->
 <section class="hero">
 <div class="hero-inner">
+<div class="rh-grid">
+<div class="rh-copy">
 <div class="badges">
 <div class="badge">📷 NYS LIC #12000287431</div>
 <div class="badge">⚡ Next-Day Ulster County Dispatch</div>
@@ -333,15 +372,48 @@ footer a:hover{color:var(--gold2)}
 </div>
 <h1>Security Camera Repair in <span>Ulster County</span></h1>
 <p class="lead">Camera, DVR, NVR, and wiring repair across all of Ulster County — from Kingston historic Stockade to New Paltz college town, Woodstock arts colony to Saugerties Hudson river-village, Highland Walkway to deep Catskill cabins. Hikvision, Dahua, Lorex, Speco, Uniview, Amcrest, Swann, Q-See, and most analog and IP commercial brands. Most Ulster County repairs land between $190 and $1,950 including the +25-30% travel markup over our Brooklyn base. Firm written quote on-site after a 30-minute diagnostic — no surprises, no monthly fees, no contracts. Next-day dispatch from our Bronx office across all six HV counties.</p>
+<div class="rh-price">Already have cameras? Service call <strong>$230</strong></div>
 <div class="cta-row">
 <a href="tel:3479348335" class="btn btn-primary">📞 Call (347) 934-8335</a>
 <a href="/free-quote" class="btn btn-secondary">Get a Free Quote →</a>
+</div>
+</div>
+<div class="rh-side">
+<div class="rh-photo"><img src="/images/camera-repair/camera-no-signal-diagnosis.webp" alt="Technician tracing a camera showing NO SIGNAL on the recorder in Ulster County" width="1200" height="675" loading="eager" fetchpriority="high"></div>
+<form class="rh-form" id="hqf" action="https://api.web3forms.com/submit" method="POST">
+<h3>Get a Repair Price Today</h3>
+<p class="rh-sub">Tell us what's wrong. We call back within the hour.</p>
+<input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
+<input type="hidden" name="subject" value="Ulster County Camera Repair - Hero Form">
+<input type="hidden" name="from_name" value="Abstract Enterprises Website">
+<input type="hidden" name="page" value="/security-camera-repair-ulster-county">
+<input type="checkbox" name="botcheck" style="display:none">
+<div class="rh-row"><input type="text" name="name" placeholder="Your name *" required autocomplete="name"><input type="tel" name="phone" placeholder="Phone *" required autocomplete="tel"></div>
+<div class="rh-row"><select name="symptom" required><option value="">What's wrong? *</option><option>Camera offline / no signal</option><option>Black screen on recorder</option><option>App won't connect</option><option>Recorder not recording</option><option>Night vision not working</option><option>Blurry or fogged picture</option><option>Forgot password / locked out</option><option>Several cameras down</option><option>Something else</option></select><input type="text" name="area" placeholder="Town / neighborhood *" required></div>
+<button type="submit">Get My Repair Price &rarr;</button>
+<label class="rh-consent"><input type="checkbox" name="sms_consent" value="yes" required>I agree to receive texts about my repair request. Msg &amp; data rates may apply. Reply STOP to opt out.</label>
+</form>
+</div>
 </div>
 <div class="stats">
 <div class="stat"><strong>4.6★</strong><span>360+ Reviews</span></div>
 <div class="stat"><strong>25+</strong><span>Years</span></div>
 <div class="stat"><strong>Next-Day</strong><span>HV Dispatch</span></div>
 <div class="stat"><strong>$0</strong><span>Monthly Fees</span></div>
+</div>
+</div>
+</section>
+<!-- REPAIR-UPGRADE-2026-10-24 -->
+<section style="padding:34px 0 0;background:var(--bg)">
+<div class="cx">
+<div class="sc-strip">
+<div>
+<h2>Already Have Cameras? <span>Here's What It Costs</span></h2>
+<p>Most people on this page already own a system &mdash; cameras, a recorder, maybe an app that stopped working. We fix what you have. Service call in Ulster County: <strong>$230</strong>. A licensed tech comes out, finds the problem and gives you a written price for the fix before any work starts. The service call is applied to the repair if you go ahead.</p>
+<div class="sc-list"><span>&#x2705; Any brand, any installer</span><span>&#x2705; Written price before work</span><span>&#x2705; 2-hour arrival window</span></div>
+
+</div>
+<div class="sc-big"><div class="sc-amt">$230</div><div class="sc-lbl">service call</div><a href="#hqf" class="btn">Book a Tech &rarr;</a></div>
 </div>
 </div>
 </section>
@@ -406,6 +478,14 @@ footer a:hover{color:var(--gold2)}
 <button type="submit">Get My Quote →</button>
 <input type="checkbox" name="sms_consent" style="margin-top:14px"> <span style="font-size:.82rem;color:var(--muted)">Yes, you can text me at this number about my repair quote.</span>
 </form>
+</div>
+</section>
+<section style="background:#fff">
+<div class="cx">
+<div class="eyebrow"><div class="eyebrow-bar"></div><div class="eyebrow-text">What a Repair Visit Looks Like</div></div>
+<h2>Camera Repair in Ulster County, <span>Start to Finish</span></h2>
+<p class="intro">Find the fault, fix it, prove it works. Every visit ends with every camera live on the recorder and in your app.</p>
+<div class="rp-gallery"><figure><img src="/images/camera-repair/dome-camera-moisture-repair.webp" alt="Technician opening a fogged outdoor dome camera to fix moisture - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Fogged dome camera opened and resealed</figcaption></figure><figure><img src="/images/camera-repair/cat6-camera-cable-test.webp" alt="Technician testing a camera Cat6 run with a cable tester - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Every camera run tested end to end</figcaption></figure><figure><img src="/images/camera-repair/nvr-hard-drive-replacement.webp" alt="Technician replacing the hard drive inside a network video recorder - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Recorder hard drive swapped and recording checked</figcaption></figure><figure><img src="/images/camera-repair/night-vision-ir-camera-check.webp" alt="Technician checking night-vision camera footage after a repair - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Night vision verified after dark</figcaption></figure><figure><img src="/images/camera-repair/poe-voltage-test-rack.webp" alt="Technician measuring PoE voltage at a network switch - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>PoE power measured at the switch</figcaption></figure><figure><img src="/images/camera-repair/bullet-camera-replacement-brick-wall.webp" alt="Technician replacing an outdoor bullet camera on a brick wall - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Dead outdoor camera replaced on brick</figcaption></figure><figure><img src="/images/camera-repair/ptz-camera-repair-warehouse.webp" alt="Technician repairing a PTZ camera in a warehouse from a lift - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>PTZ camera repaired on site</figcaption></figure><figure><img src="/images/camera-repair/dome-camera-repair-building-entrance.webp" alt="Technician servicing a dome camera over a building entrance - Ulster County camera repair" width="1200" height="675" loading="lazy"><figcaption>Entrance dome cleaned and re-aimed</figcaption></figure></div>
 </div>
 </section>
 <!-- ELEMENT 5: SYMPTOMS / DIAGNOSTIC -->
@@ -654,7 +734,7 @@ footer a:hover{color:var(--gold2)}
 
 <div class="qa"><h3>Hanwha camera repair</h3><p>Hanwha (formerly Samsung Techwin) Wisenet camera repair covers the X-series, P-series, Q-series, and L-series IP camera lines. Standard Hanwha camera repair calls: Wisenet Device Manager and SmartViewer configuration recovery, Wisenet AI analytics rule rebuilding, Hanwha NVR (XRN, PRN series) hard-drive replacement and firmware recovery, and integration with non-Hanwha cameras over ONVIF. Hanwha is heavy in Ulster commercial accounts that specified it during the Samsung era — many are 6–10 years old now and approaching planned replacement.</p></div>
 
-<div class="qa"><h3>Verkada camera repair</h3><p>Verkada is cloud-managed by design — there is no local recorder to repair. Verkada camera repair is almost entirely cloud account work: subscription renewal lapses, user permission issues, AI analytics misconfiguration, command center site access problems, and Verkada Pass mobile app pairing. The cameras themselves rarely fail; the cloud account or the LTE backhaul fails. We service Verkada accounts as a cloud platform, not as cameras. Verkada repair in Ulster averages $250 service call for the diagnostic plus whatever cloud-side intervention is needed.</p></div>
+<div class="qa"><h3>Verkada camera repair</h3><p>Verkada is cloud-managed by design — there is no local recorder to repair. Verkada camera repair is almost entirely cloud account work: subscription renewal lapses, user permission issues, AI analytics misconfiguration, command center site access problems, and Verkada Pass mobile app pairing. The cameras themselves rarely fail; the cloud account or the LTE backhaul fails. We service Verkada accounts as a cloud platform, not as cameras. Verkada repair in Ulster averages $230 service call for the diagnostic plus whatever cloud-side intervention is needed.</p></div>
 
 <div class="qa"><h3>Avigilon camera repair</h3><p>Avigilon camera troubleshooting covers the H-series, H4, and H5 IP camera lines and the Avigilon Control Center (ACC) recorder platform. Standard Avigilon repair: ACC server recovery, ACC client license re-activation, H4 camera firmware update sequences, Avigilon Appearance Search re-indexing, and Self-Learning Video Analytics rule rebuilding. Avigilon repair in Ulster averages $500–$1,500 — enterprise pricing matches enterprise complexity. Common in Ulster Class A office buildings and major retail loss-prevention accounts.</p></div>
 
@@ -843,8 +923,8 @@ footer a:hover{color:var(--gold2)}
 <div class="qa"><h3>🔥 My old DVR is huge and loud — can I replace just that and keep my cameras?</h3>
 <p>Yes. If your existing analog cameras work, we keep them and swap the recorder for a modern hybrid that handles both analog (over your existing coax) and IP (over Cat6 you can add later). This is the cheapest path to a usable modern system. Hybrid recorder swap: $875–$1,560 installed in the Hudson Valley including reconfiguring the channels, migrating any saved footage, and the +25-30% travel markup.</p></div>
 
-<div class="qa"><h3>🔥 What's actually in your $250 service call?</h3>
-<p>30-minute on-site security camera diagnostics and surveillance system troubleshooting, full system test (power, cable, network, recorder, app), written quote for the actual repair, and the $250 is applied to the repair if you proceed. If the repair is over the phone (rare but possible — some app fixes), no service call charge. If we determine the system is past economic repair, we tell you and provide a no-pressure replacement quote.</p></div>
+<div class="qa"><h3>🔥 What's actually in your $230 service call?</h3>
+<p>30-minute on-site security camera diagnostics and surveillance system troubleshooting, full system test (power, cable, network, recorder, app), written quote for the actual repair, and the $230 is applied to the repair if you proceed. If the repair is over the phone (rare but possible — some app fixes), no service call charge. If we determine the system is past economic repair, we tell you and provide a no-pressure replacement quote.</p></div>
 
 <div class="qa"><h3>🔥 Why does my camera password keep getting locked out?</h3>
 <p>Either someone is brute-forcing your camera from the internet (port-forwarded systems get hit constantly) or your camera is exposing port 80 to the internet by default. The fix is to change the default port, disable Hik-Connect or DDNS if you don't use it, set up VPN-only remote access, and enable lockout protection in the camera's security settings. We harden remote access on every repair call by default.</p></div>
@@ -1006,13 +1086,13 @@ footer a:hover{color:var(--gold2)}
 
 <div class="qa"><h3>Why is my security camera offline?</h3><p>For PoE cameras: dead PoE port, failed PoE switch, or wattage mismatch. For WiFi cameras: 5GHz vs 2.4GHz mismatch, weak signal between concrete floors, or router auto-rebooted. For app-only "offline" status (camera works locally but app says offline): P2P registration broke after router change, port forwarding got reset, or camera firmware needs an update. Camera offline troubleshooting averages 30–60 minutes on-site.</p></div>
 
-<div class="qa"><h3>How to troubleshoot CCTV system that stopped recording</h3><p>Check the recorder hard-drive status first (most common cause: drive failed at year 3–5). Then check the recording schedule for each channel — schedules get reset after firmware updates. Then check for M&amp;A (motion AND alarm) settings that prevent recording when there is no alarm input wired. Then check that the drive is not full and configured to overwrite. CCTV troubleshooting service runs $250 for the diagnostic, applied to the actual fix.</p></div>
+<div class="qa"><h3>How to troubleshoot CCTV system that stopped recording</h3><p>Check the recorder hard-drive status first (most common cause: drive failed at year 3–5). Then check the recording schedule for each channel — schedules get reset after firmware updates. Then check for M&amp;A (motion AND alarm) settings that prevent recording when there is no alarm input wired. Then check that the drive is not full and configured to overwrite. CCTV troubleshooting service runs $230 for the diagnostic, applied to the actual fix.</p></div>
 
 <div class="qa"><h3>How to fix camera no signal error</h3><p>"No signal" on the recorder usually means a cable problem (BNC loose, RJ45 unplugged, or cable severed) or a video-input mismatch. The fastest fix is to swap the cable with a known-good lead. If that fixes it, the original cable failed somewhere along the run. If the camera still shows "no signal" with a known-good cable, the camera body itself is dead and needs replacement. Fix security camera no signal calls in NYC average $200–$500 depending on which side of the chain failed.</p></div>
 
 <div class="qa"><h3>How do I fix my CCTV camera?</h3><p>If the camera is a sealed consumer model (Ring, Nest, Arlo, Wyze), you can not fix it — file a warranty replacement or buy new. If the camera is commercial-grade (Hikvision, Dahua, Lorex, Speco, Uniview, Amcrest, Swann), the failure is almost always repairable: connector, cable, PoE port, power supply, or single-camera body replacement. Security camera troubleshooting service starts with three pieces of information. Tell us the brand, the symptom, and what changed recently — we will quote the repair before anyone comes to your building.</p></div>
 
-<div class="qa"><h3>How much does CCTV repair cost in NYC?</h3><p>Most NYC CCTV repairs land between $150 and $1,500. The $250 service call is applied to the actual repair if you proceed. Connector reterminate or PoE port swap: $150–$350. Single camera replacement with reconfiguration: $300–$700. DVR/NVR replacement with hard drive: $700–$1,500. Annual maintenance contract — camera system maintenance, CCTV maintenance service, and video monitoring system repair on a scheduled cadence: $250–$400. Affordable security camera repair is a real thing — we tell you when a $250 fix is enough and when it is not.</p></div>
+<div class="qa"><h3>How much does CCTV repair cost in NYC?</h3><p>Most NYC CCTV repairs land between $150 and $1,500. The $230 service call is applied to the actual repair if you proceed. Connector reterminate or PoE port swap: $150–$350. Single camera replacement with reconfiguration: $300–$700. DVR/NVR replacement with hard drive: $700–$1,500. Annual maintenance contract — camera system maintenance, CCTV maintenance service, and video monitoring system repair on a scheduled cadence: $250–$400. Affordable security camera repair is a real thing — we tell you when a $230 fix is enough and when it is not.</p></div>
 
 <div class="qa"><h3>Who fixes security cameras near me in NYC?</h3><p>For When NYC customers want to hire a security camera repair technician or find the best security camera repair company, the searches that lead them to us are often "security camera repair near me" — and our 360+ Google reviews show why. NYC homeowners and businesses Googling "security camera repair near me," "CCTV camera repair near me," "home security camera repair near me," or "video camera repair near me" — Abstract Enterprises Security Systems is licensed (NYS #12000287431), insured, and dispatches same-day from our Brooklyn office at 1282 Troy Ave and our Bronx office at 460 E Fordham Rd. We also cover all five NYC boroughs, Long Island (Nassau and Suffolk), and the rest of the Hudson Valley including Westchester. Call (347) 934-8335.</p></div>
 
@@ -1024,7 +1104,7 @@ footer a:hover{color:var(--gold2)}
 
 <div class="qa"><h3>How to fix night vision not working on security camera</h3><p>Three causes in order: IR LEDs are blown (5–7 year failure on bullet cams), IR-cut filter (day/night sensor) is stuck in day mode, or — most commonly in NYC brownstone vestibules — IR is bouncing off a hard surface and washing out the image. Fix is replacement, sensor reset, or swap to color night vision (no IR at all). Night vision not working camera repair is typically $250–$650.</p></div>
 
-<div class="qa"><h3>How to fix motion detection not working camera</h3><p>Check sensitivity settings first (factory default is often too low), check that motion detection is enabled per channel on the recorder (this gets reset after firmware updates), and check that the motion zones are not set to ignore the area where you actually want detection. Motion detection not working camera repair is usually a configuration fix at the $250 service call price — no parts.</p></div>
+<div class="qa"><h3>How to fix motion detection not working camera</h3><p>Check sensitivity settings first (factory default is often too low), check that motion detection is enabled per channel on the recorder (this gets reset after firmware updates), and check that the motion zones are not set to ignore the area where you actually want detection. Motion detection not working camera repair is usually a configuration fix at the $230 service call price — no parts.</p></div>
 
 <div class="qa"><h3>What does CCTV camera not turning on mean?</h3><p>CCTV camera not turning on means the camera is not getting power. For PoE cameras, the PoE port or PoE switch failed. For 12V/24V cameras with a wall adapter, the adapter failed. For cameras on a multi-channel power supply, the shared transformer failed (kills all cameras at once). For battery cameras (Ring, Wyze), the battery is dead or the charging contact is corroded. Power diagnosis is 15 minutes on-site.</p></div>
 
@@ -1214,7 +1294,7 @@ footer a:hover{color:var(--gold2)}
 <section style="background:var(--bg);padding:50px 0">
 <div class="cx" style="text-align:center;max-width:780px">
 <h3 style="color:var(--navy);font-size:1.5rem;margin-bottom:14px">Ready to fix it? Let's go.</h3>
-<p style="color:var(--muted);margin-bottom:24px;font-size:1.02rem">Next-day Hudson Valley dispatch. Free phone diagnosis. $250 service call applied to repair (HV travel markup quoted up front).</p>
+<p style="color:var(--muted);margin-bottom:24px;font-size:1.02rem">Next-day Hudson Valley dispatch. Free phone diagnosis. $230 service call applied to repair (HV travel markup quoted up front).</p>
 <div style="display:flex;gap:14px;flex-wrap:wrap;justify-content:center">
 <a href="tel:3479348335" class="btn btn-primary" style="background:var(--blue);color:#fff">📞 Call (347) 934-8335</a>
 <a href="/free-quote" class="btn" style="background:transparent;color:var(--blue);border:2px solid var(--blue)">⚡ Get Fast Quote →</a>
@@ -1262,7 +1342,7 @@ footer a:hover{color:var(--gold2)}
 <tr><td>COI for HV commercial &amp; HOA</td><td class="check">✓ Same-day</td><td>Slow</td><td>Slow</td></tr>
 <tr><td>Honest "this is past repair" advice</td><td class="check">✓ Always</td><td class="x">✗ Always upsell</td><td>Sometimes</td></tr>
 <tr><td>Free phone diagnosis</td><td class="check">✓ Yes</td><td class="x">✗ Service call required</td><td class="x">✗ Service call required</td></tr>
-<tr><td>Service call: $250 applied to repair</td><td class="check">✓ Yes</td><td class="x">✗ Separate charge</td><td>Varies</td></tr>
+<tr><td>Service call: $230 applied to repair</td><td class="check">✓ Yes</td><td class="x">✗ Separate charge</td><td>Varies</td></tr>
 <tr><td>Same crew on follow-ups</td><td class="check">✓ Always</td><td class="x">✗ Different tech</td><td class="x">✗ Different tech</td></tr>
 </tbody>
 </table>
@@ -1273,12 +1353,12 @@ footer a:hover{color:var(--gold2)}
 <div class="cx">
 <div class="eyebrow"><div class="eyebrow-bar"></div><div class="eyebrow-text">Pricing</div></div>
 <h2>Ulster County Camera Repair <span>Pricing</span></h2>
-<p class="intro">Most Ulster County camera repairs land between $190 and $1,950 — that's the NYC base rate plus a +30% Ulster County travel markup. Markup is quoted before dispatch, never a surprise. The $250 service call is applied to the actual repair if you proceed.</p>
+<p class="intro">Most Ulster County camera repairs land between $190 and $1,950 — that's the NYC base rate plus a +30% Ulster County travel markup. Markup is quoted before dispatch, never a surprise. The $230 service call is applied to the actual repair if you proceed.</p>
 
 <div class="price-grid">
 <div class="price-card">
 <h3>Service Call</h3>
-<div class="price">$250 <small>flat (+ HV travel markup)</small></div>
+<div class="price">$230 <small>flat (+ HV travel markup)</small></div>
 <ul>
 <li>30-minute on-site diagnostic</li>
 <li>Power, cable, network, recorder test</li>
@@ -1456,7 +1536,7 @@ footer a:hover{color:var(--gold2)}
 <div class="cx" style="max-width:780px">
 <div class="emergency">
 <h3>🚨 Emergency Ulster County Camera Repair · Next-Day Standard</h3>
-<p>Ulster County camera repair — we are the answer. Next-Next-day dispatch is standard for Ulster County. Same-afternoon Highland/Lloyd calls when scheduled before 8 AM. Emergency coordination available for after-hours commercial loss-prevention. Most Ulster County camera repairs fixed in 1-2 hours on-site (after travel). $250 service call applied to the repair.</p>
+<p>Ulster County camera repair — we are the answer. Next-Next-day dispatch is standard for Ulster County. Same-afternoon Highland/Lloyd calls when scheduled before 8 AM. Emergency coordination available for after-hours commercial loss-prevention. Most Ulster County camera repairs fixed in 1-2 hours on-site (after travel). $230 service call applied to the repair.</p>
 <a href="tel:3479348335" class="btn">📞 Call (347) 934-8335</a>
 </div>
 </div>
@@ -1469,7 +1549,7 @@ footer a:hover{color:var(--gold2)}
 
 <div class="field-notes">
 <strong>Anwar — week of April 27, 2026</strong>
-<p>Tuesday morning: Park Slope brownstone, three Hikvision cameras showing offline on Hik-Connect but live local. Router got swapped over the weekend, P2P registration broke. Re-paired all three in 45 minutes. $250 flat service call, no parts. Walked the homeowner through what to do next time the router gets replaced.</p>
+<p>Tuesday morning: Park Slope brownstone, three Hikvision cameras showing offline on Hik-Connect but live local. Router got swapped over the weekend, P2P registration broke. Re-paired all three in 45 minutes. $230 flat service call, no parts. Walked the homeowner through what to do next time the router gets replaced.</p>
 <p>Wednesday: 1282 Bronx office building, four-camera lobby system completely dark. Property manager said "the whole system died." Found a tripped breaker on the multi-channel power supply and a failed power supply downstream of it. Swapped the supply, reset the breaker, all four cameras up. Total: $385.</p>
 <p>Thursday: City Island residential, outdoor bullet camera with corroded BNC and water inside the lens. 12 years old, salt air. Homeowner wanted to fix it. I quoted the repair at $450 and a same-spec replacement at $400 — replacement is the right call here. Did the swap with dielectric grease and a self-fusing weatherproof boot. Set a reminder to check the connectors every 18 months going forward.</p>
 <p>Friday: Class A office on Park Ave, 12 cameras across two floors. Building wanted COI by 8 AM. Sent it at 6:45. Was on-site by 8:30, off-site by noon. Replaced a failed PoE switch and cleaned 12 lenses. $1,150 total. Building recommended us to two more tenants the same day.</p>
@@ -1510,7 +1590,7 @@ Changelog: Initial publication. Pricing reflects April 2026 Ulster County labor 
 <section class="final-cta">
 <div style="max-width:780px;margin:0 auto">
 <h2 style="color:#fff;margin-bottom:16px">Ready to Fix Your Hudson Valley Cameras?</h2>
-<p>Free phone diagnosis. Next-day dispatch from our Bronx office across all six HV counties. $250 service call applied to the actual repair (HV travel markup quoted up front). Licensed, insured, no monthly fees.</p>
+<p>Free phone diagnosis. Next-day dispatch from our Bronx office across all six HV counties. $230 service call applied to the actual repair (HV travel markup quoted up front). Licensed, insured, no monthly fees.</p>
 <div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;margin-top:30px">
 <a href="tel:3479348335" class="btn btn-primary">📞 Call (347) 934-8335</a>
 <a href="/free-quote" class="btn btn-secondary">⚡ Get a Free Quote →</a>
@@ -1578,7 +1658,7 @@ Serving Brooklyn, Manhattan, Queens, Bronx, Staten Island, Long Island &amp; Hud
 var PH='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07 19.5 19.5 0 01-6-6A19.79 19.79 0 012.12 4.18 2 2 0 014.11 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L8.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>';
 var QT='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 var chips=[
-{t:'Service Call',m:'30-min Diagnostic + Quote',v:'$250',c:'spb-chip--gold'},
+{t:'Service Call',m:'30-min Diagnostic + Quote',v:'$230',c:'spb-chip--gold'},
 {t:'Connector Fix',m:'BNC/RJ45 Reterminate',v:'$150-$350',c:'spb-chip--green'},
 {t:'PoE Port',m:'Switch Swap',v:'$200-$400',c:'spb-chip--green'},
 {t:'Single Camera',m:'Replace + Reconfigure',v:'$300-$700',c:''},
@@ -1639,5 +1719,12 @@ const observer=new IntersectionObserver((entries)=>{entries.forEach(entry=>{if(e
 document.querySelectorAll('.rv').forEach(el=>observer.observe(el));
 </script>
 
+<a href="https://wa.me/17186790359?text=Hi%2C%20I%20need%20a%20security%20camera%20repair." target="_blank" rel="noopener" class="wa-float" aria-label="Chat on WhatsApp"><svg width="28" height="28" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48-.89-.79-1.49-1.77-1.66-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.61-.92-2.21-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.08c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.09 1.76-.72 2.01-1.41.25-.69.25-1.29.17-1.41-.07-.12-.27-.2-.57-.35zM12.05 21.5h-.01a9.4 9.4 0 0 1-4.8-1.31l-.34-.2-3.57.94.95-3.48-.22-.36a9.42 9.42 0 0 1-1.44-5.02c0-5.2 4.24-9.44 9.45-9.44 2.52 0 4.89.98 6.67 2.77a9.37 9.37 0 0 1 2.76 6.68c0 5.21-4.24 9.43-9.45 9.43zm8.04-17.47A11.3 11.3 0 0 0 12.05.7C5.8.7.7 5.79.7 12.05c0 2 .52 3.95 1.52 5.67L.6 23.3l5.72-1.5a11.33 11.33 0 0 0 5.42 1.38h.01c6.26 0 11.35-5.09 11.35-11.35 0-3.03-1.18-5.88-3.32-8.02z"/></svg></a>
+<script>
+(function(){var f=document.getElementById('hqf');if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=f.querySelector('button[type="submit"]');b.disabled=true;b.textContent='Sending...';
+fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){
+if(d.success){f.innerHTML='<h3>&#x2713; Got it.</h3><p class="rh-sub" style="margin:6px 0 0">We will call you back within the hour. Need us now? Call (800) 486-0943.</p>'}else{b.disabled=false;b.textContent='Get My Repair Price \u2192';alert('Something went wrong. Please call (800) 486-0943.')}
+}).catch(function(){b.disabled=false;b.textContent='Get My Repair Price \u2192';alert('Connection error. Please call (800) 486-0943.')})})})();
+</script>
 </body>
 </html>
