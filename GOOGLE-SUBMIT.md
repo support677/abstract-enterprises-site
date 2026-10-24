@@ -8,6 +8,8 @@ Format: `YYYY-MM-DD | <url> | QUEUED`
 
 Last run: 2026-10-24 (10:59 UTC, morning catch-up) — sitemap resubmitted via API (lastSubmitted 2026-10-24T10:59:42Z, 2764 submitted, 0 errors, 0 warnings; the "14 indexed" counter is stale — URL inspection shows most brand pages are indexed). 134 URL inspections via API: 93 of 104 Lorex/UniFi/Uniview/Luminys brand + product pages already "Submitted and indexed"; the 11 that aren't are at the top of PRIORITY. 0 Request-indexing (no browser reachable from this session — Claude in Chrome / built-in browser not connected).
 
+Run 2026-10-24 11:04 UTC (scheduled Request-indexing run): 0 requested, 0 marked indexed — no Claude in Chrome / built-in browser reachable from this cloud session. Queue unchanged.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
