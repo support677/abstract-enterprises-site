@@ -12,19 +12,21 @@ Run 2026-10-24 11:04 UTC (scheduled Request-indexing run): 0 requested, 0 marked
 
 Run 2026-10-24 (later scheduled Request-indexing run): 0 requested, 0 marked indexed — again no Claude in Chrome / built-in browser reachable (task runs cloud-only, no link to Anwar's computer). Queue unchanged.
 
+Run 2026-10-24 (Request-indexing via Claude in Chrome on Anwar's computer, Search Console account /u/1): 9 requested, 0 newly marked indexed; Google showed "Quota Exceeded" on the 10th (luminys ulster), which stays QUEUED. Note: the default Chrome Google account (support@) has no access to this property; the second signed-in account does.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
-2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-prices-orange-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-nyc | QUEUED (inspect 2026-10-24: URL is unknown to Google)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-dutchess-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-manhattan | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-orange-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-brooklyn | QUEUED (inspect 2026-10-24: URL is unknown to Google)
-2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-orange-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-putnam-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-ulster-county | QUEUED (inspect 2026-10-24: Discovered - currently not indexed)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-putnam-county | QUEUED (inspect 2026-10-24: Crawled - currently not indexed)
+2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-prices-orange-county | REQUESTED 2026-10-24
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-nyc | REQUESTED 2026-10-24
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-dutchess-county | REQUESTED 2026-10-24
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-manhattan | REQUESTED 2026-10-24
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-prices-orange-county | REQUESTED 2026-10-24
+2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-brooklyn | REQUESTED 2026-10-24
+2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-orange-county | REQUESTED 2026-10-24
+2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-putnam-county | REQUESTED 2026-10-24
+2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-ulster-county | QUEUED (quota hit on this one 2026-10-24, retry next run)
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-putnam-county | QUEUED (inspect 2026-10-24 via browser: Crawled - currently not indexed)
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-brooklyn | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-hudson-valley | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-long-island | QUEUED
