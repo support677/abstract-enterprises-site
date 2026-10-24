@@ -14,6 +14,8 @@ Run 2026-10-24 (later scheduled Request-indexing run): 0 requested, 0 marked ind
 
 Run 2026-10-24 (Request-indexing via Claude in Chrome on Anwar's computer, Search Console account /u/1): 9 requested, 0 newly marked indexed; Google showed "Quota Exceeded" on the 10th (luminys ulster), which stays QUEUED. Note: the default Chrome Google account (support@) has no access to this property; the second signed-in account does.
 
+Run 2026-10-24 (second Chrome run, same day): 0 requested, 0 marked indexed. Inspected luminys ulster (Discovered - currently not indexed); Request indexing returned "Quota Exceeded" because the earlier run today already used the daily allowance. Queue unchanged; next run starts at luminys ulster.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
