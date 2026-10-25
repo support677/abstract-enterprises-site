@@ -464,10 +464,15 @@
             <span class="label">Sales Tax (<span id="dispRate"></span>)</span>
             <span class="value" id="dispTax"></span>
           </div>
+          <div class="invoice-line">
+            <span class="label">Credit card fee (3%)</span>
+            <span class="value" id="dispCardFee"></span>
+          </div>
           <div class="invoice-line total">
-            <span class="label">Total Due</span>
+            <span class="label">Total Due by Card</span>
             <span class="value" id="dispTotal"></span>
           </div>
+          <p id="noFeeNote" style="color:#8899aa; font-size:0.82rem; margin:10px 0 0;"></p>
         </div>
 
         <div style="text-align:center;">
@@ -554,6 +559,7 @@
     // https://www.abstractenterprisessecuritysystems.com/pay?desc=4x+A1+Dome+Cameras+%2B+8ch+NVR+%2B+Installation&amount=2800&area=brooklyn
     //
     // The page auto-calculates tax and shows the total. Customer just clicks Pay.
+    const CARD_FEE_RATE = 0.03;   // HARD rule (Oct 25 2026); NY law: never above our processor's actual fee
     function loadInvoice() {
       const params = new URLSearchParams(window.location.search);
       const desc = params.get('desc');
@@ -579,7 +585,11 @@
           ' incl. tax; balance $' + balance.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' due on completion)';
       }
       const tax = Math.round(amount * (area.rate / 100) * 100) / 100;
-      const total = Math.round((amount + tax) * 100) / 100;
+      // Anwar, Oct 25 2026 HARD rule: card payments carry a 3% card fee. NY GBL 518: the total
+      // card price is shown before payment, and the no-fee route is offered alongside it.
+      const noFeeTotal = Math.round((amount + tax) * 100) / 100;
+      const cardFee = Math.round(noFeeTotal * CARD_FEE_RATE * 100) / 100;
+      const total = Math.round((noFeeTotal + cardFee) * 100) / 100;
       const today = new Date();
       const dateStr = today.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
       const invNum = 'AE-' + today.getFullYear() + String(today.getMonth() + 1).padStart(2, '0') + String(today.getDate()).padStart(2, '0');
@@ -591,11 +601,14 @@
       document.getElementById('dispSubtotal').textContent = '$' + amount.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       document.getElementById('dispRate').textContent = area.rate + '%';
       document.getElementById('dispTax').textContent = '$' + tax.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      document.getElementById('dispCardFee').textContent = '$' + cardFee.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
       document.getElementById('dispTotal').textContent = '$' + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      document.getElementById('noFeeNote').textContent = 'No card fee when you pay by Zelle or bank transfer: $' +
+        noFeeTotal.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + '. Call or text (800) 486-0943 to pay that way.';
       document.getElementById('payBtn').textContent = (params.get('deposit') === '50' ? 'Pay 50% Deposit $' : 'Pay $') + total.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' Now →';
       
       const policy = (params.get('policy') || '').replace(/[^a-z0-9]/gi, '').slice(0, 12);
-      window.AESS_ORDER = { policy: policy, desc: (params.get('deposit') === '50' ? '50% deposit: ' : '') + desc, subtotal: amount, total: total, area: areaKey };
+      window.AESS_ORDER = { policy: policy, desc: (params.get('deposit') === '50' ? '50% deposit: ' : '') + desc, subtotal: amount, cardFee: cardFee, total: total, area: areaKey };
 
       document.getElementById('invoiceView').style.display = 'block';
       document.getElementById('noInvoice').style.display = 'none';
@@ -628,7 +641,7 @@
       err.style.display = 'none';
       const nonce = Math.random().toString(36).slice(2, 10) + Date.now().toString(36).slice(-4);
       // Stripe caps client_reference_id at 200 characters: trim the description to fit.
-      const refObj = { d: o.desc.slice(0, 70), s: Math.round(o.subtotal * 100), r: o.area, n: nonce };
+      const refObj = { d: o.desc.slice(0, 70), s: Math.round(o.subtotal * 100), f: Math.round((o.cardFee || 0) * 100), r: o.area, n: nonce };
       if (o.policy) refObj.p = o.policy;
       let ref = b64url(JSON.stringify(refObj));
       while (ref.length > 200 && refObj.d.length) {
