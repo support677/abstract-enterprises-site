@@ -9,3 +9,4 @@ UTC time | cost | summary
 2026-10-22T03:14Z | $10.61 | Builders are still working; I'll pick up when they report back.
 2026-10-22T07:35Z | $28.44 | Shipped three rebuilt pages, all passing check_page.py and confirmed live: https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-allerton-bronx-ny, https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bay-ridge-brooklyn-ny and https://www.abstractenterprisessecuritys
 2026-10-25T15:10Z | $8.60 | (factory) submitted batch msgbatch_01Ah9PRRBYXnhSwdJDFcQDHL with 5 page(s)
+2026-10-25T18:15Z | $8.95 | (factory) FAIL exact warranty text missing or altered (see WARRANTY in tools/check_page.py); no LocalBusiness schema; LocalBusiness schema is not the Bronx GBP (460 E / #bronx); FAIL exact warranty text missing or altered (see WARRANTY in tools/check_page.py); no LocalBusiness schema; LocalBusiness schema is 
