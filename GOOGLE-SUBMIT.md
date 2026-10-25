@@ -18,6 +18,8 @@ Run 2026-10-24 (second Chrome run, same day): 0 requested, 0 marked indexed. Ins
 
 Run 2026-10-24 evening (scheduled, 00:53 UTC Oct 25, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-25T00:53:15Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2648 QUEUED URLs in 6 batches of up to 500: all 200. Inspected luminys ulster (still Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 9 requests earlier today used the daily allowance. Queue unchanged; next run starts at luminys ulster.
 
+Run 2026-10-25 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 newly marked indexed (all 11 inspected as not on Google). Google showed "Quota Exceeded" on the 12th (uniview staten island), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
@@ -29,18 +31,18 @@ Run 2026-10-24 evening (scheduled, 00:53 UTC Oct 25, Claude in Chrome, account /
 2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-brooklyn | REQUESTED 2026-10-24
 2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-orange-county | REQUESTED 2026-10-24
 2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-putnam-county | REQUESTED 2026-10-24
-2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-ulster-county | QUEUED (quota hit 2026-10-24 twice, retry next run)
-2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-putnam-county | QUEUED (inspect 2026-10-24 via browser: Crawled - currently not indexed)
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-brooklyn | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-hudson-valley | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-putnam-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-dutchess-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-manhattan | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-nassau-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED
+2026-10-12 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-prices-ulster-county | REQUESTED 2026-10-25
+2026-10-13 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-putnam-county | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-brooklyn | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-hudson-valley | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-long-island | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-manhattan | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/lorex-camera-installation-orange-county | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-putnam-county | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-dutchess-county | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-manhattan | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-nassau-county | REQUESTED 2026-10-25
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED (quota hit 2026-10-25, retry next run)
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-orange-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-suffolk-county | QUEUED
