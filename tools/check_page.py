@@ -39,6 +39,9 @@ TITLE_MAX = 60
 META_MIN, META_MAX = 150, 160
 FIGURES = 11
 SIZE_CLUSTER_BYTES = 2048
+# A size match alone is no longer a fail: a silo of 150 pages fills every 2 KB slot of the normal
+# 12-14k-word range (Oct 25 2026). Near-same size + this much shared 8-word phrasing = clone.
+CLONE_TEXT_SHARE = 0.30
 REQUIRED_SCHEMA = ("LocalBusiness", "Service", "FAQPage", "BreadcrumbList", "ImageObject", "HowTo")
 
 # LIVE CONVENTION, verbatim: the warranty/terms sentence on 13 of the 16
@@ -215,6 +218,11 @@ def norm_space(s):
 
 def visible_text(page):
     return norm_space("".join(page.text))
+
+
+def shingle_set(text, n=8):
+    w = re.findall(r"[a-z0-9']+", text.lower())
+    return {" ".join(w[i:i + n]) for i in range(max(0, len(w) - n + 1))}
 
 
 def count_words(text):
@@ -549,12 +557,17 @@ def check(root, slug, registration=True, stats=False):
     my_q = {mask(q): q for q in page.faq_q + [h for h in page.headings if h.endswith("?")] if mask(q)}
     my_a = {mask(a): a for a in page.faq_a if len(mask(a).split()) >= 8}
     hrefs = link_set(page.hrefs)
+    mine = None
     for sib in siblings:
         sslug = os.path.basename(sib)[:-5]
         ssize = os.path.getsize(sib)
-        if abs(ssize - size) <= SIZE_CLUSTER_BYTES:
-            fail(f"file size {size:,} B is within 2 KB of sibling {sslug} ({ssize:,} B) - clone signature")
         sp, _ = parse(sib)
+        if abs(ssize - size) <= SIZE_CLUSTER_BYTES:
+            mine = mine if mine is not None else shingle_set(visible_text(page))
+            share = len(mine & shingle_set(visible_text(sp))) / max(len(mine), 1)
+            if share >= CLONE_TEXT_SHARE:
+                fail(f"file size {size:,} B is within 2 KB of sibling {sslug} ({ssize:,} B) and shares "
+                     f"{share:.0%} of its wording - clone signature")
         for q in sp.faq_q + [h for h in sp.headings if h.endswith("?")]:
             if mask(q) in my_q:
                 fail(f"question duplicated on sibling {sslug}: {my_q[mask(q)][:90]!r}")
