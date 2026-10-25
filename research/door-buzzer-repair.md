@@ -3816,3 +3816,404 @@ No genuinely unused file existed in images/door-buzzer-repair/ (all 385 referenc
 `python3 tools/check_page.py door-buzzer-repair-new-lots-brooklyn-ny --no-registration` → only FAILs are back-links from door-buzzer-repair-nyc, -long-island-ny, -hudson-valley-ny, -westchester-county, -rockland-county (main-run wiring). With registration: `_redirects` 200 rule missing (301! rule exists at line ~2395), Brooklyn hub doesn't link down; sitemap entry exists (lastmod 2026-05-03, priority 0.5 → update). 13,746 words; title 52; meta 151; 11 figures; 6 JSON-LD; FAQ 6 = FAQPage 6; HowTo 7 = 7 cards. Masked 5-gram Jaccard (caps/numbers masked, nav+footer excluded) max 0.046 vs Madison (form/price boilerplate), next Kensington 0.030. Playwright 1440 and 390: scrollWidth = viewport, no broken images.
 
 Main-run note (batch melrose/mount-hope/new-lots, 2026-10-22 ~12:15Z): Melrose shipped from wip branch fb75678b (content unchanged; added links to Mount Eden, Mount Hope, New Lots). All 33 images in this batch are re-encoded copies of photos already on one other silo page (DAILY-RUN Step C reuse; real pool exhausted). Melrose belmont Akuvox one-button station and New Lots hero (from kensington) show the same Akuvox model.
+
+## New Utrecht, Brooklyn — /door-buzzer-repair-new-utrecht-brooklyn-ny (factory research, 2026-10-25)
+
+**1. Door buzzer repair facts for this neighborhood**
+
+- **Scope note:** New Utrecht isn't its own neighborhood today. The old town is now part of Bensonhurst. Today, New Utrecht is a neighborhood within the area of Bensonhurst. Bensonhurst falls in Community District: Brooklyn 11, ZIP codes 11204 and 11214. This matters when you pull HPD, 311 or DOB data. — https://newnetherlandinstitute.org/history-and-heritage/digital-exhibitions/a-tour-of-new-netherland/long-island/new-utrecht/ ; https://en.wikipedia.org/wiki/Bensonhurst,_Brooklyn
+- **Age of the buildings (drives wiring condition):** 71.0% of the residential real estate here was built from 1939 or earlier, some much earlier. Most homes are rented: Most of the residential real estate is renter occupied. — https://www.neighborhoodscout.com/ny/brooklyn/new-utrecht
+- **Building types a technician will meet:** six-story prewar apartment buildings, attached brick row houses, and two-family homes along wide commercial avenues. — https://miltoncoste.com/market-report/bensonhurst
+- **Where the bigger buildings cluster (marketing source, unverified):** Pre-war apartment buildings, five-story walkups and early elevator buildings from the 1920s and 1930s, cluster along New Utrecht Avenue, Bay Parkway, and 86th Street. The same source says the most common building is the attached two-family rowhouse, built in great quantities from the 1900s through the 1930s on narrow lots. — https://maidmarines.com/brooklyn/bensonhurst
+- **Example buildings big enough to need a legal intercom:** The National 8301 (8301 Bay Parkway) *6 floors 94 units* Mid-rise elevator building. Also 6801 Bay Parkway *6 floors 83 units* and 6601 Bay Parkway *4 floors 21 units* Low-rise walk-up building. At the small end are 2-unit walk-ups such as 1582 73rd Street *2 floors 2 units*, which fall below the 8-unit legal threshold. — https://www.nybits.com/apartments/bensonhurst_rental_buildings.html
+- **Newer large building nearby (Bath Beach edge):** The 8800 Bay Parkway project was planned to have commercial space on the first floor and apartments on the floors above. At completion it was to have 243 apartments and 165 enclosed parking spaces. Newer buildings like this are where modern or video entry systems are likely. — https://brooklynreporter.com/2019/01/apartment-building-to-replace-two-family-house-on-bay-parkway/
+- **Legal rule (Multiple Dwelling Law §50-a):** every Class A multiple dwelling erected or converted after January 1, 1968 that contains eight or more apartments must have an intercom at the self-locking main door. The system must let a visitor outside and an occupant inside an apartment speak to each other, and let that occupant release the door lock from within the apartment. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Pre-1968 buildings (most local stock):** Buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing. The same source says a dead buzzer then counts as a hazardous violation. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Housing code and habitability:** The city's housing maintenance code also requires a functioning intercom. Courts have found that intercoms are an essential service, and failing to maintain them breaches the warranty of habitability (Habitat article, 2024). This is relevant to the area's co-ops. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- **DOB permits:** Under New York City Department of Buildings requirements, certain intercom and low-voltage work requires a licensed contractor to pull a permit. This is a vendor blog, so check with DOB directly. — https://www.paragonsecurityny.com/blog/2026/july/how-nyc-building-managers-choose-a-commercial-in/
+- **Landmarks (LPC):** The only landmark found in the old town center is an individual one, the New Utrecht Reformed Church (18th Avenue between 83rd and 84th Streets). Its designations: Designated NYCL: March 15, 1966 January 13, 1998 (extension). For any landmark, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work. LPC has had to legalize intercoms put in without permits elsewhere in the city (installation of a flagpole and intercom without Landmarks Preservation Commission permit(s)). No historic district covering New Utrecht was found. — https://en.wikipedia.org/wiki/New_Utrecht_Reformed_Church ; https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property ; https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/03-14-17.pdf
+- **Competitor already targets this area:** A Bensonhurst buzzer-repair page says it serves semi-detached homes, row houses, and apartment buildings along 86th Street, 18th Avenue, and Bay Parkway. It claims common failures are corroded wiring connections in the basement, a failed handset inside the unit, or a dead door release mechanism at the entry. These are marketing claims. Its "Reddit threads" line is not an actual thread, so don't cite it as Reddit. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bensonhurst-brooklyn-ny
+- **Repair tip (rings but won't open):** The ring and the door release are separate circuits that fail on their own. a buzzer that rings fine but a door that won't open isn't a "broken intercom," it's a broken relay. — https://www.deelyhouse.com/buzzer-wont-open-the-door-how-to-tell-if-your-intercom-needs-a-repair-or-a-full-replacement/
+- HPD intercom/door-lock violation counts for New Utrecht or CB11 — EMPTY
+- 311 intercom complaint data for New Utrecht or CB11 — EMPTY
+- DOB intercom/low-voltage permits filed in New Utrecht — EMPTY
+- Local news specifically about broken buzzers or intercoms in New Utrecht/Bensonhurst — EMPTY
+- Reddit threads about buzzers in New Utrecht/Bensonhurst — EMPTY (none found)
+
+**2. History and development**
+
+- New Utrecht was established in 1652 by Dutch settlers in the Dutch colony of New Netherland, the last of the original six towns to be founded in Kings County. It ceased to exist in 1894 when it was annexed by the City of Brooklyn — https://en.wikipedia.org/wiki/New_Utrecht,_Brooklyn
+- **Founder:** Cornelis van Werckhoven, a citizen of Utrecht, Holland, and a member of the Dutch West India Company. Then In 1657 the settlement became a town and was named for Werckhoven's native city. Sources disagree on the founding date (1652 vs 1657). — https://www.brooklyn.net/neighborhoods/new_utrecht.html
+- **Early families:** Some of the first Dutch families in New Utrecht were the Bensons, di Sille, Van Pelt, Cropsey, and Nostrand families. — https://kids.kiddle.co/New_Utrecht,_Brooklyn
+- **Suburban subdivision:** Arthur W. Benson began buying farmland that was formerly owned by the Polhemuses family in 1835. — https://en.wikipedia.org/wiki/Arthur_W._Benson
+- **Main building period:** The wider area was Settled primarily during the 1920s after the BMT subway company acquired the former Sea Beach and West End Railway — https://www.nyc.gov/assets/planning/download/pdf/plans/bensonhurst/bensonhurst.pdf
+- **Old road pattern:** The 'town center" of New Utrecht is trisected by three very old roads: the Road from New Utrecht to Flatbush (today's 18th Avenue), Kings Highway, and the plank road that is now New Utrecht Avenue. — https://forgotten-ny.com/2010/02/the-heart-of-new-utrecht/
+
+**3. Main streets and commercial corridors**
+
+- Broad commercial corridors—18th Avenue (Cristoforo Colombo Boulevard), Bay Parkway, and 86th Street—serve as cultural arteries — https://cityneighborhoods.nyc/bensonhurst
+- **The elevated train:** Under the Dual Contracts of 1913, an elevated line was built over New Utrecht Avenue, 86th Street and Stillwell Avenue. The D train stops at 18th Avenue, which opened in 1916 as part of the BMT West End Line — https://www.wikiwand.com/en/18th_Avenue_station_(BMT_West_End_Line) ; https://en.wikipedia.org/wiki/18th_Avenue_station_(BMT_West_End_Line)
+- **Local businesses:** Villabate Alba bakery on 18th Avenue, and the Senate Theatre building at 7311 18th Avenue — https://brooklyneagle.com/241744/bensonhursts-annual-rosalia-feast-coming-soon-with-italian-food-culture/
+
+**4. Building stock and zoning**
+
+- The area has tree-lined blocks with single- and two-family homes, row houses, and low- to mid-rise apartment buildings. — https://www.bhsusa.com/neighborhood/bensonhurst
+- The houses are one and two family semi-attached brick and stucco homes. — https://www.accordrealestategroup.com/brooklyn-neighborhoods/bensonhurst
+- **Co-ops:** Compass lists co-op units for sale, e.g., 8320 Bay Parkway — https://www.compass.com/homes-for-sale/bensonhurst-brooklyn-ny/
+- Historic district — EMPTY (none found; only the individual landmark above)
+
+**5. Parks and landmarks**
+
+- **New Utrecht Reformed Church:** constructed in early Gothic revival style in 1828, contain stones taken from a predecessor church built in 1700. It reopened after a long closure: The church finally reopened in December of 2018 — https://www.hmdb.org/m.asp?m=30177 ; https://brooklynreporter.com/2019/05/new-utrecht-reformed-church-hosts-sacred-sites-open-house/
+- **Liberty Pole:** The Liberty Pole is the sixth installed on the same spot to mark the first raising of an American Flag in New Utrecht following the evacuation of the British in November 1783. — https://www.hmdb.org/m.asp?m=30177
+- **Milestone Park:** on 18th Avenue between 81st and 82nd Streets. It is at the location of the oldest existing milestone in New York City. — https://www.hmdb.org/m.asp?m=30090
+- **Van Pelt Manor site:** The house was torn down after a fire in 1952, but the grounds survived and the name was changed to Milestone Park. — https://www.bklynlibrary.org/blog/2025/06/23/potw-jacob-l-van-pelt
+- **New Utrecht Cemetery:** On 84th Street at 16th Avenue — https://www.hmdb.org/results.asp?State=New+York&Search=County&County=Kings+County&u=&DP=.A.O
+
+**6. What it's known for**
+
+- It was traditionally known as a Little Italy of Brooklyn. The neighborhood today is home to Brooklyn's second Chinatown — https://en.wikipedia.org/wiki/Bensonhurst,_Brooklyn
+- **Feast of Santa Rosalia:** The 52nd annual feast runs on 18th Avenue — also known as Cristoforo Colombo Boulevard — between 68th and 75th streets. — https://www.brooklynpaper.com/santa-rosalia-feast-bensonhurst-52nd-year/
+
+**7. Recent local news on building security**
+
+- **Oct 2026 robbery:** The robbery occurred near 17th Avenue and 74th Street in Bensonhurst, Brooklyn, and was captured on surveillance video. The area's police precinct is the NYPD's 62nd Precinct, which patrols Bensonhurst, Bath Beach, and Mapleton — https://hoodline.com/2026/10/bensonhurst-store-manager-hospitalized-twice-after-gunpoint-robbery-caught-on-video/
+- **Sept 2026 burglary spree:** Burglaries of 19 businesses stretching from Bensonhurst to Williamsburg — https://hoodline.com/2026/09/two-suspects-hit-19-brooklyn-businesses-in-five-week-smash-and-grab-spree/
+- **April 2025 home break-in:** At 3:30 a.m., the thieves broke into the home on 21st Avenue and 72nd Street. — https://brooklynreporter.com/2025/04/crooks-break-into-bensonhurst-home-steal-cash/
+- **Earlier burglary spree:** One target was a store where the defendants burglarized a grocery store located on New Utrecht Avenue in Bensonhurst (2022 crime, sentencing in 2024) — https://www.brooklynda.org/2024/05/29/brooklyn-man-sentenced-to-10-years-in-prison-following-burglary-spree-of-homes-and-businesses-in-bensonhurst/
+- Local Reddit discussion — EMPTY
+
+**8. What could change how door buzzer repair is done here**
+
+- Any work on the outside of the landmarked church at 8301 18th Ave needs LPC review first (see LPC sources above).
+- Most buildings are pre-1968 two-family homes and small walk-ups. Many are under 8 units or older than 1968, so the legal intercom duty often won't apply automatically. The 6-story buildings on Bay Parkway are the clear 8+ unit cases (sources above).
+- Rooftop and basement access, multilingual tenants (Chinese, Italian), and the effect of the elevated train on outdoor panels along New Utrecht Avenue — EMPTY (no source found)
+
+## Norwood, Bronx — /door-buzzer-repair-norwood-bronx-ny (factory research, 2026-10-25)
+
+### 1. Door buzzer repair facts specific to Norwood (most important)
+
+**Building types and entry/wiring situations**
+- Most of the housing is older apartment buildings: 94.8% of the real estate here is classified as apartment complexes or high-rise apartments, and 60.2% of the residential real estate here was built from 1939 or earlier. That points to old buzzer and riser wiring in most buildings. — https://www.neighborhoodscout.com/ny/bronx/norwood
+- Typical buildings: five- and six-story prewar apartment houses, brick rowhomes, and tree-lined side streets. Many date from the 1910s–1930s, built in Art Deco, Tudor Revival, or neo-Renaissance styles. — https://cityneighborhoods.nyc/norwood
+- Odd-shaped lots mean odd lobby and entry layouts. The Mosholu Parkway grid forces some streets to angle in irregular fashion and creates unusual intersections, which pushed architects toward triangle-shaped buildings with rounded corners. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- Example walk-up: 3225 Bainbridge Ave was Built in 1924 - 54 units/5 stories. — https://www.apartments.com/3225-bainbridge-ave-bronx-ny/40t5z0l/
+- Example walk-up: 3265 Bainbridge Ave has 51 units·5 floors and has rent-stabilized units on record. — https://www.openigloo.com/unit/nyc/2018045-2033360027-b31/the-bronx-norwood-3265-bainbridge-avenue-10467-b31
+- Co-op with a board as the client: The Lenru, at 3388-3400 Wayne Ave facing Williamsbridge Oval, was built in 1928 in the Jacobethan Revival style. It was Mosholu Preservation Corporation's first rehab and sold to the Lenru Apartment Corporation to complete its conversion into a co-op in 1991. — https://en.wikipedia.org/wiki/The_Lenru
+- Co-op prices are low: Basic two-bedrooms in a pre-war co-op list for under $200,000, but a multifamily home near Montefiore jumps up to $800,000. — https://www.homes.com/bronx-ny/neighborhood/norwood/
+- Newer mid-rise buildings with modern entry systems are going up along Webster Ave. Example: Norwood Garden Apartments at 3084 Webster Ave, which will consist of approximately 116 residential units and sits in the R7-D Zone created as part of the Webster Avenue Vision Plan. — https://www.housingpartnership.com/projects/norwood-garden-apartments
+- More Webster Ave buildings: Norwood Terrace is a completed development with 58 supportive housing units and 57 units for low-income individuals and families. One of the buildings, 3600 Webster Avenue, offers apartments for low-income seniors. — https://unhp.org/blog/is-the-bronx-building
+- Mosholu Grand, 150 Van Cortlandt Ave E, was planned as a 152-unit apartment building at a former auto repair shop and gas station location. — https://www.norwoodnews.org/work-on-mosholu-grand-in-norwood-to-start-in-march-2018/
+- High-rise elevator buildings: 3560 Webster Ave consists of 13 floors, and Living on those floors are many older New Yorkers and residents with disabilities. Buzz-in access matters a lot for residents who can't easily get down to the door. — https://bronx.news12.com/tenants-in-norwood-apartment-building-stuck-without-elevators
+- 3160 Webster Ave has multiple disabled and elderly tenants, including a woman who is wheelchair bound. — https://bronx.news12.com/some-of-them-cant-even-leave-their-home-tenants-in-norwood-building-without-elevator
+- Montefiore-linked owner: Mosholu Preservation Corporation owns and maintains quality, sustainable, affordable housing in the Norwood neighborhood surrounding the Moses campus of Montefiore Medical Center. — https://www.mpcbx.org/housing
+- Mosholu Preservation Corporation was Initially launched to renovate and stabilize five apartment buildings obtained by the health system. As of summer 2019, Mosholu owned 112 housing units in the Bronx. — https://www.huduser.gov/portal/casestudies/study-091319.html
+- A small number of houses (doorbell or video doorbell work, not intercoms): Norwood mainly has apartments and condos available for rent, but there are a few single-family houses as well. — https://www.apartments.com/3225-bainbridge-ave-bronx-ny/40t5z0l/
+
+**City data: HPD complaints, 311, DOB rules (by address, via the Augrented aggregator)**
+- 50 East 212 Street (42 units · 6 floors · 1930): two open HPD complaints dated 06/05/2026, General – Bell/Buzzer/Intercom | Non Emergency | Open | 1A. The building had 87 311 calls against a Norwood average of 116.9. — https://augrented.com/nyc/2033280097-50-east-212-street
+- 3444 Knox Place: open complaint dated 04/12/2026, General – Bell/Buzzer/Intercom | Non Emergency | Open | 66. This building has 373 recorded HPD violations, above the Norwood average of 87.3. — https://augrented.com/nyc/2033240117-3444-knox-pl-bronx
+- 3339 Hull Avenue: open complaints dated 08/05/2026, General – Bell/Buzzer/Intercom | Non Emergency | Open | 6A. 146 HPD violations. — https://augrented.com/nyc/2033480060-3339-hull-avenue
+- 3211 Parkside Place: open complaint dated 08/12/2026, General – Bell/Buzzer/Intercom | Non Emergency | Open | 5L. — https://augrented.com/nyc/2033547501-3211-parkside-place
+- City rule (1 RCNY 42-01, on the DOB site): buildings prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing doors and self-locking doors and shall also be equipped with an intercommunication system. The snippet was cut off, so the exact conditions aren't confirmed. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- The same rule sets the minimum system: a bell or buzzer system, or a speaking and listening device to permit communication by voice between the occupant of each apartment and a person outside such required main entrance door, and a return buzzer mechanism to release or open the lock. It also says The bell and intercommunication system shall be located at the required main entrance door so that a person may readily reach the door when the unlocking buzzer is activated. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- A vendor's reading of MDL 50-a: older buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing, and A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. This is a vendor source, not an official one. It conflicts with how the RCNY snippet above reads, so check it before publishing. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Vendor claim, not verified against official sources: HPD treats a dead intercom as a Class B hazardous violation with penalties in the range of $250 to $500 per day until corrected. I couldn't confirm the penalty amount officially. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bronx-new-york
+- Bronx entry-door data: in the Comptroller's NYCHA audit, In the Bronx, the percentage of broken entry door locks has risen from 15.4% to 47.6% (2018–2022). This covers NYCHA buildings, not Norwood specifically. — https://a860-gpp.nyc.gov/downloads/6d570047d?locale=en
+- Norwood-specific DOB permits for intercoms or door hardware: EMPTY. The aggregator only shows permit counts per building, such as Permits (7 yr) Norwood avg: 2.9. — https://augrented.com/nyc/2033480060-3339-hull-avenue
+- LPC rules: no Norwood historic district found (EMPTY). There are two individual landmarks, both non-residential, listed under Section 2. LPC rules are unlikely to affect buzzer work on ordinary apartment buildings, but that is my inference and I haven't verified it.
+
+**Repair practice (vendor sources)**
+- Common cause found on site: The closer has been dialed back until the door drifts shut without ever latching, or it was removed because tenants complained about the slam, or the strike gap has opened up as the frame moved. Also, One thing that is never a fix: chaining or blocking a door in the egress path. — https://gothamaccesscontrolny.com/locations/bronx/
+- Older Bronx buildings may have a mix of older hardwired buzzer systems, newer telephone entry panels, video intercoms, electric strikes, magnetic locks or a mix of older and newer door hardware. — https://www.uasecurity.com/Intercom-Systems-Bronx-New-York.htm
+- Retrofit option that reuses existing wiring: Comelit Ultra, Aiphone GT, and Akuvox retrofit kits reuse legacy 2-wire and 6-wire cable. No wall work. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-bronx
+
+**Local news on building security**
+- Major 2026 incident: an explosion and five-alarm fire at 374 East 209th Street between Decatur Avenue and Parkside Place on Wednesday afternoon, Aug. 5, in a 5-story, multiple dwelling. — https://www.norwoodnews.org/update-norwood-three-deceased-14-injured-after-explosion-at-e-209th-street-building-gofundme-launched/
+- Councilman Eric Dinowitz said of it: "A lot of the buildings in the Bronx are older. This building that was on fire was not fireproof," — https://www.cbsnews.com/newyork/news/explosion-fire-bronx-building-fdny/
+- Building security after the fire: tenants reported belongings missing, and the managing agent said "We had put on padlocks into every apartment and we are padlocking the front door to the building, and all the fire escape windows, we're going to be shutting down," — https://www.cbsnews.com/newyork/news/bronx-deadly-fire-norwood-tenants-allowed-inside/
+- Garage break-in: Ten cars were broken into overnight in a gated underground private garage at 91 Van Courtland Ave. The intruder got in by breaking a window. — https://bronx.news12.com/10-cars-broken-into-in-norwood-parking-garage
+- A Webster Ave building's parking lot: residents claim anyone can pull into the lot, steal vehicles and auto parts, park their vehicles, and even use the space as a motel. — https://www.norwoodnews.org/bronx-victims-of-car-tire-theft-fed-up/
+- Repeated break-ins at 3267 Decatur Ave, a home sealed after an ATF raid. — https://www.norwoodnews.org/norwood-decatur-ave-home-used-by-gang-broken-into-again/
+- Reddit threads about Norwood buzzers or intercoms: EMPTY (none found).
+
+### 2. Neighborhood background
+
+- Name and boundaries: Norwood, also known as Bainbridge, is a residential neighborhood in the northwest Bronx. It is bounded by Van Cortlandt Park and Woodlawn Cemetery to the north, the Bronx River to the east and Mosholu Parkway to the southwest. It is in Community District 7, patrolled by the 52nd Precinct, ZIP 10467. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- History: Annexed to New York City in 1873 along with the rest of the West Bronx, the area's character shifted from rural to suburban by the turn of the 20th century. The neighborhood's streets in their present form were laid out in 1889 by Josiah Briggs between Middlebrook Parkway (renamed Mosholu Parkway) and Woodlawn Cemetery. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- Origins: Norwood was originally part of the Varian family's dairy farm. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- Montefiore: it has anchored the community since 1913. In 1981, the hospital founded the Mosholu Preservation Corporation, buying and renovating several apartment buildings to keep rents affordable. — https://theneighborhoods.substack.com/p/norwood-the-bronx
+- Main streets: Norwood's main commercial arteries are Gun Hill Road, Jerome Avenue, Webster Avenue, and Bainbridge Avenue. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- Commercial corridor: it runs from the Williamsbridge Oval down Bainbridge Avenue through East 204th Street and swinging westward on Webster Avenue towards Fordham Road, the 1.5 mile commercial corridor. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-norwood-bedfordpark.pdf
+- Jerome-Gun Hill BID: it runs on Jerome Avenue between Mosholu Parkway and East Gun Hill Road and along East Gun Hill Road between Jerome and Webster avenues. — https://www.norwoodnews.org/quarter-norwood-stores-vacant/
+- Local businesses: McDwyer's Pub at 331 E. 204th St closed after 50 years, and Hillside Meat Market on Bainbridge Ave was a 36-year business at the time of the article. — https://www.norwoodnews.org/at-e-204th-street-and-bainbridge-avenue-changes-to-its-retail-landscape/
+- Strip history: a five-alarm fire at the intersection of Bainbridge Avenue and East 204th Street that destroyed a bakery, fish store, butcher shop, dental clinic and several other stores in October 2009. — https://www.norwoodnews.org/quarter-norwood-stores-vacant/
+- Known for: being "Little Belfast," the Irish enclave of the 1970s through the 1990s, and the place where Black 47 got its start. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- Building stock: Art Deco (Art Moderne) apartment buildings on E. 204th St near Mosholu Parkway. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- Landmark: the Valentine-Varian House, 3266 Bainbridge Ave, built in 1758. It was designated a New York City Individual Landmark in 1966 and is now the Museum of Bronx History. — https://6tocelebrate.org/site/valentine-varian-house/
+- Landmark: the Williamsbridge Reservoir Keeper's House, 3400 Reservoir Oval, Built 1889-90, New York City Department of Public Works. It was designated February 8, 2000 and is the headquarters of Mosholu Preservation Corporation and Norwood News. — https://s-media.nyc.gov/agencies/lpc/lp/2047.pdf
+- Park: Williamsbridge Oval, Designed by the Works Progress Administration (WPA) and opened in 1937. — https://cityneighborhoods.nyc/norwood
+- Transit: Norwood–205th Street (D train) opened in 1933, and Woodlawn (4 train) opened in 1918. — https://en.wikipedia.org/wiki/Norwood%E2%80%93205th_Street_station
+- Things that would change how the work is done:
+  - Mostly pre-1940 walk-ups and elevator buildings with old wiring, so wire-reuse retrofits are often the practical route.
+  - Many co-op boards and rent-stabilized landlords as clients.
+  - Many elderly and disabled tenants in Webster Ave high-rises.
+  - HPD buzzer complaints were open in 2026 on Knox Pl, Hull Ave, Parkside Pl and E. 212th St.
+  
+  Sources: see the citations above.
+- Local Reddit discussion: EMPTY.
+
+**Before publishing:** the Augrented building data comes from an aggregator. Check it against HPD Online or 311 data directly, along with the vendor claims about penalties and the 1968 rule.
+
+## Ocean Hill, Brooklyn — /door-buzzer-repair-ocean-hill-brooklyn-ny (factory research, 2026-10-25)
+
+### 1. Door buzzer repair facts specific to Ocean Hill
+
+**City data (HPD and 311 complaints, violations)**
+- HPD's open-data complaint file lists "Bell/Buzzer/Intercom – Broken or Missing" complaints in ZIP 11233. Examples include a building-entrance complaint at 725 Hancock Street (received 01/09/2023), 1682 Park Place (12/01/2023), 201 Sumpter Street (01/22/2024), and 214 Hull Street (10/11/2022). Another was filed at 159 Saratoga Avenue, 11233, received 11/25/2022, public-area building entrance. — https://data.cityofnewyork.us/api/views/ygpa-z7cr/rows.csv?accessType=DOWNLOAD
+- In the same file, entry problems show up next to buzzer problems. 201 Hull Street had an EMERGENCY door "broken or missing" complaint at the building entrance (12/19/2022). — https://data.cityofnewyork.us/api/views/ygpa-z7cr/rows.csv?accessType=DOWNLOAD
+- 319 Chauncey Street (Ocean Hill) is a 6-unit, 3-floor building from 1908 with 171 recorded HPD violations, against a Bedford-Stuyvesant average of 13.5. It logged a Bell/Buzzer/Intercom complaint to HPD on 10/03/2025. — https://augrented.com/nyc/3015080071-319-chauncey-street
+- 2018 Bergen Street (11233) received a Class B violation on Mar 13, 2026: "Properly repair with similar material the broken or defective bell buzzer intercom system from building entran…". The source says its data runs through September 2, 2026. — https://pulsecities.com/property/3014540013
+- At 1620 Prospect Place (11233), an open Class B violation from 2022-06-11 orders the owner to properly repair the broken or defective electric bell buzzer/intercom system in apartment 2R. — https://augrented.com/nyc/3013690035-1620-prospect-place-brooklyn
+- 743 MacDonough Street (11233) had a "General-Bell/buzzer/intercom" complaint received 2025-02-25. The aggregator's summary mentions broken or defective intercom systems. — https://augrented.com/nyc/3014980065-743-mac-donough-street-brooklyn
+- 254 Saratoga Avenue (11233) had a Bell/buzzer/intercom complaint on 2022-08-22, filed the same day as an "Electric-No Lighting" emergency complaint. — https://augrented.com/nyc/3015610030-254-saratoga-avenue-brooklyn
+- 2076 Dean Street (11233) had a Bell/buzzer/intercom complaint on 2020-08-05, logged together with heavy-flow water leak complaints. That pairing is relevant to moisture-damaged wiring. — https://augrented.com/nyc/3014460012-2076-dean-street-brooklyn
+- At 356 Sumpter Street (11233), complaints from 2018–2019 show past problems with the building's bell/buzzer/intercom and door/window conditions, and some resulted in violations. — https://augrented.com/nyc/3015280027-356-sumpter-street-brooklyn
+
+**NYCHA/PACT buildings (a separate entry-system situation)**
+- The Ocean Hill + Stuyvesant Gardens PACT project covers five developments: Bedford-Stuyvesant Rehab, Ocean Hill Apartments, Saratoga Village, Stuyvesant Gardens I and Stuyvesant Gardens II. They were built between 1914 and 1986 and total 14 buildings, 927 apartments and 2,111 residents, ranging from individual prewar buildings to low- and high-rise campuses. — https://www.nyc.gov/assets/nycha/downloads/pdf/ohstuyg-communityplan.pdf
+- Ocean Hill Apartments addresses include 24–30 Mother Gaston Boulevard, 301–319 MacDougal Street and Sumpter Street. The PACT conversion date was 9/25/2025, with Wavecrest Management Group as property manager. — https://home4.nyc.gov/assets/nycha/downloads/pdf/ocean_hill_apartments.pdf
+- The planned common-area work at Ocean Hill Apartments includes comprehensive security upgrades, including security cameras and key fob access. — https://ohsgcommunity.com/property/ocean-hill-apartments/
+- Saratoga Village gets the same security cameras and key fob access. — https://ohsgcommunity.com/property/saratoga-village/
+- The construction scope includes safety enhancements (upgraded entries, increased lighting, improved security, camera system installation). Financing closed on September 25, 2025. — https://www.dantespartners.com/our-experience/ocean-hill-stuyvesant-gardens/
+- NYCHA's Layered Access Control standard includes electronic access with key tags (or key fobs), a direct-call intercom system, and new door locks. It also requires that electric strike locking devices be configured as fail-secure. — https://designguidelines.nycha.info/layered-access-control-lac/
+- NYCHA's entrance standard says door closers must take at least 5 seconds to move from 90 degrees open to 12 degrees, and building-entrance closers are LCN type. — https://designguidelines.nycha.info/entrances-exits/
+- Oceanhill III is a newer affordable building at 428 Saratoga Avenue with 107 newly built units. Its listed amenities include security cameras and a video intercom system. — https://a806-housingconnect.nyc.gov/nyclottery/AdvertisementPdf/388.pdf
+
+**Wiring and entry conditions in the local building stock**
+- Older buildings: Italianate and Neo-Grec rowhouses of brownstone and brick were built between the 1870s and 1890s. — https://cityneighborhoods.nyc/ocean-hill
+- History of abandonment and rehab, which affects how much original wiring survives: after the 1977 blackout, many apartment buildings were badly burned and left abandoned for years. In the 1990s many abandoned buildings and lots were renovated. — https://en-academic.com/dic.nsf/enwiki/1813080
+- An intercom contractor marketing in Ocean Hill says it reuses existing wiring when the wire is intact, and where wiring is too degraded, runs new cable through walls, risers and conduit. This is a vendor claim. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-ocean-hill-brooklyn-ny
+- General Brooklyn failure modes: central amplifiers and power supplies often sit in damp areas, where moisture oxidizes circuit boards and terminal blocks. Also, low-voltage lines run close to high-voltage power lines, creating a constant 60Hz hum. This is a vendor guide, not Ocean Hill-specific. — https://triumphelectricinc.com/apartment-building-intercom-system-installation-repair-brooklyn-2026-landlord-guide/
+- Another vendor note on rowhouse vestibules: doors get adjusted until the latch jams against the keeper, so the strike buzzes but the door won't open. The same vendor says HPD treats a dead intercom as a Class B violation with daily penalties. I could not verify that penalty figure from an official source. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-new-york
+
+**Other items in this section**
+- DOB permits tied to intercom work in Ocean Hill: EMPTY
+- LPC rules: no designated historic district found inside Ocean Hill. A 1980s LPC archaeology report states there are no New York City landmarks within or adjacent to the Oceanhill U.R.A. project area. That reflects conditions at the time; I couldn't confirm the current status. — https://s-media.nyc.gov/agencies/lpc/arch_reports/205.pdf
+- Local news about buzzer or intercom failures in Ocean Hill: EMPTY. The closest local item is News 12 coverage of the PACT overhaul: cleaning crews scrubbing floors at the Ocean Hill Houses, the first visible signs of the transformation. — https://longisland.news12.com/ocean-hill-houses-receive-long-overdue-overhaul-as-nycha-launches-433m-pact-renovation-project
+- Reddit threads about buzzers in Ocean Hill: EMPTY
+- Specific local businesses where buzzers matter: EMPTY
+
+### 2. History and development
+- Founded in 1890; part of Brooklyn Community Board 16; ZIP code 11233. — https://en.wikipedia.org/wiki/Ocean_Hill,_Brooklyn
+- NYC Parks gives an earlier origin for the name, saying it appears to have been named around 1857. This conflicts with the 1890 date above. — https://www.nycgovparks.org/parks/ocean-hill-playground/history
+- Dutch settlers farmed the area beginning in the 1600s. The LIRR Atlantic Branch and elevated lines then made the district accessible to downtown commuters. — https://cityneighborhoods.nyc/ocean-hill
+- The area was mostly Italian until the 1960s. By 1970, Ocean Hill and Bedford-Stuyvesant together had become the largest African-American community in the country. — https://www.mynycstory.org/about-ocean-hill/
+- Named builders: on Decatur Street, J. Mason Kirby designed and built two groups of houses in 1891 at 587–611 Decatur, between Howard and Saratoga. — https://www.brownstoner.com/architecture/building-of-the-day-587-611-decatur-street/
+
+### 3. Boundaries, main streets and corridors
+- Bounded by Broadway (north), Ralph Avenue (west), East New York Avenue (south) and Van Sinderen Avenue (east). — https://en.wikipedia.org/wiki/Ocean_Hill,_Brooklyn
+- Broadway Junction, at the northern edge, links the A, C, J, Z and L trains; the 3 train runs along the southern side. — https://www.nyonlinerealty.com/nyc/ocean-hill
+- Some newer, trendy shops have opened on Rockaway Avenue. — https://en-academic.com/dic.nsf/enwiki/1813080
+
+### 4. Building stock
+- Painted brick rowhouses on Pacific Street, Bergen Street and Prospect Place; classic three-story brick rowhouses on St. Marks Place. — https://brooklyneagle.com/articles/2018/02/14/fine-sights-to-see-in-ocean-hill-though-our-lady-of-loreto-is-gone/
+- Short streets between Herkimer Street and Atlantic Avenue: Monaco Place and Sherlock Place; rowhouses on Louis Place at Atlantic Avenue; barrel-shaped brick rowhouses on Dewey Place. — same Brooklyn Eagle URL
+- 722 Decatur Street is part of a row built around 1895; the 18-foot-wide house keeps its brownstone facade. — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-ocean-hill-722-decatur-street-virginie-sommet-brownstone/
+- Conflicting source: Homes.com says postwar buildings are the norm and brick multi-family rowhouses are common. — https://www.homes.com/brooklyn-ny/ocean-hill-neighborhood/
+- Prospect Plaza Houses (NYCHA) stood between St. Marks and Sterling Places and Howard and Saratoga Avenues, and was the first NYCHA development to be fully demolished. — https://en.wikipedia.org/wiki/Prospect_Plaza_Houses
+- Landmark districts in Ocean Hill: EMPTY (see the LPC note above).
+
+### 5. Parks and landmarks
+- Saratoga Park is on Halsey Street between Howard and Saratoga Avenues. The city bought it in 1896, and it has a bronze and pink granite memorial dedicated in 1921. — https://www.nycgovparks.org/parks/saratoga-park/history
+- Ocean Hill Playground was rebuilt in 2023 with new basketball courts, a skate park, and picnic and seating areas. — https://www.nycgovparks.org/parks/ocean-hill-playground/history
+
+### 6. What it's known for
+- The landmark 1968 Ocean Hill–Brownsville schools dispute. — https://www.nyonlinerealty.com/nyc/ocean-hill
+
+### 7. Recent development news (new buildings with modern entry systems)
+- Totem's rezoning covers the triangle formed by Van Sinderen, East New York and Atlantic Avenues and Fulton Street, for four towers of 21 to 29 stories. — https://www.brownstoner.com/development/herkimer-williams-rezoning-ocean-hill-broadway-junction-totem-application/
+- The Council approved Herkimer-Williams, a four-building complex with up to 1,000 affordable homes. — https://www.6sqft.com/housing-lotto-kicks-off-today-for-27-bed-stuyocean-hill-apartments-from-834month/
+- The 2016 East New York plan covered a 15-block area of Ocean Hill between the Eastern Parkway Extension and Van Sinderen Avenue. — https://www.nyc.gov/site/planning/about/press-releases/pr-20150921a.page
+
+### 8. What changes how buzzer repair is done here
+- There are three distinct situations: (a) 1870s–1900s rowhouses and small walk-ups, the subject of most of the HPD buzzer complaints listed above; (b) NYCHA/PACT buildings moving to key-fob access under private management (Wavecrest), so tenants should go to management rather than an outside contractor; (c) new Broadway Junction and Saratoga Avenue buildings with video intercoms. This is my inference from the sources above.
+- Local Reddit discussion: EMPTY. Ocean Hill-specific news about package theft or buzz-in crime: EMPTY.
+
+Two caveats: the property-level complaint data comes partly from third-party aggregators (augrented, PulseCities) that repackage HPD records, and the wiring and repair details come from contractors' marketing pages, not neutral sources.
+
+## Park Slope, Brooklyn — /door-buzzer-repair-park-slope-brooklyn-ny (factory research, 2026-10-25)
+
+**Note on sources:** Many of the buzzer-specific results are marketing pages from competing intercom companies. I've labeled those [competitor claim]. They show how other pages talk about the neighborhood, but they aren't independent facts. Anything marked "(inference)" is my own reasoning, not something a source says.
+
+### 1. Door buzzer repair in Park Slope specifically
+
+**Building types and entry/wiring situations**
+- [competitor claim] Park Slope brownstones typically have 2-6 units with original plaster walls and limited conduit paths. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-park-slope-brooklyn-ny
+- [competitor claim] The same page says ButterflyMX installs cleanly using existing 2-wire infrastructure in brownstones. — same URL
+- [competitor claim] A brownstone-specific failure is the two-door vestibule. For Park Slope, Brooklyn Heights, Carroll Gardens — outer-door + inner-door release sequencing fails. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- [competitor claim] Commonly cited calls include brownstone Aiphone JO video screens dead in Park Slope and Cobble Hill. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- [competitor claim] Common supers' mistakes listed: reversed polarity on the talk pair, miswiring door release to call circuit, pulling a transformer that's no longer feeding correctly, or unprogramming the directory on a TX3. — same URL
+- [competitor claim] One Park Slope repair page says many calls come down to a failed door release, loose wire, bad apartment station, weak power supply, damaged button, lobby panel problem, programming issue or one failed component. — https://www.uasecurity.com/intercom-systems-park-slope-brooklyn-new-york.htm
+- [competitor claim] The same page quotes most common repairs $150–$250. — same URL
+- Diagnostic approach for brownstone Brooklyn: in pre-war walk-ups the individual apartment stations are wired in a daisy chain back to the entry panel – one bad splice partway down the run can kill a single unit's buzzer. — https://www.deelyhouse.com/buzzer-wont-open-the-door-how-to-tell-if-your-intercom-needs-a-repair-or-a-full-replacement/
+- Pre-war buildings often have existing 2-wire or 4-wire intercom infrastructure that's decades old. In many cases, we can reuse that wiring with a new audio system. For video or IP upgrades, we typically need to run new cable. — https://senecasecurity.com/services/intercoms/
+- Lee Dan/Tektone systems are the classic New York City intercom system with the "talk" "door" and "listen" buttons. — https://www.greenwichlocksmiths.com/intercom-systems-installation-repair-nyc/
+- One installer offers to fabricate an entry panel that looks just like your existing one (satisfying landmarks requirements) and put a high tech intercom inside! — same URL
+
+**Three building types, three kinds of jobs**
+- Brownstone side streets: the Extension II district is mostly single-family rowhouses and flats constructed from the mid-19th century to the early 20th century. — https://newyorkyimby.com/2014/11/permits-filed-269-fourth-avenue-park-slope.html. Correct URL for this one: https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html
+- Pre-war elevator co-ops near Grand Army Plaza and Prospect Park West: In 1925, with Brooklyn real estate booming, the first high-rise apartment building on Plaza Street was built, 1 Plaza Street West. — https://en.wikipedia.org/wiki/47_Plaza_Street_West
+- 9 Prospect Park West is a 1929 co-op with 43 apartments and 16 floors, and its listing shows "Intercom" and "Elevator" as amenities. — https://www.cityrealty.com/nyc/park-slope/9-prospect-park-west/43455
+- 40 Prospect Park West is a prewar cooperative in Park Slope with part-time doorman and live-in superintendent. — https://www.cityrealty.com/nyc/park-slope/40-prospect-park-west/42621
+- Fourth Avenue new construction: after the 2003 rezoning, more than thirty new buildings have been built along the avenue adding as many as 2,000 new apartment units. — https://en.wikipedia.org/wiki/Fourth_Avenue_(Brooklyn)
+- Fifth Avenue mixed-use buildings (South Slope rezoning document): single-story commercial buildings mixed with three- and four-story buildings with ground-floor retail spaces and two to three floors of apartments above. — https://www.nyc.gov/assets/planning/download/pdf/plans/south-park-slope/southparkslope.pdf
+
+**City rules: HPD, 311, Multiple Dwelling Law**
+- Every class A multiple dwelling erected or converted after January 1, 1968, containing eight or more apartments must also have an intercommunication system. — https://www.justanswer.com/landlord-tenant/9x2op-cooperative-building-nyc-own-few.html
+- Older buildings are only covered when tenants occupying a majority of the apartments request it in writing. Once installed, it is an essential service — a dead buzzer is a hazardous housing violation, not a deferred maintenance item. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- (inference) Most Park Slope housing was built before 1968, so whether the intercom is legally required often depends on the building's history. That's a good angle for this page.
+- Under the NYC Housing Maintenance Code, a non-working intercom or buzzer is a Class B hazardous violation, enforceable on tenant complaint. — same URL
+- Courts intercoms are an essential service and that failing to maintain them is a breach of the warranty of habitability under state law. (Source is a NYT "Ask Real Estate" column reproduced on a law firm's site.) — https://lasserlg.com/wp-content/uploads/2024/01/Intercom-System-NYT-LLG-web-1.12.24.pdf
+- HPD process: if an owner certifies a fix that wasn't done and it still isn't fixed, the violation is sent to HPD's Emergency Repair Program. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/code-guide-what-to-expect-en.pdf
+- Industry claim: A system where some apartments work and others do not constitutes a violation. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Industry claim about permits: New intercom installation and substantial modifications require DOB permits. Electrical work requires a separate electrical permit and must be performed by a licensed electrician. — same URL
+- HPD violation counts for intercoms in Park Slope (ZIP 11215/11217, CB6): EMPTY
+- 311 intercom complaint data for Park Slope: EMPTY
+- DOB permits for intercoms at specific Park Slope addresses: EMPTY
+
+**LPC rules (most of Park Slope is landmarked)**
+- The LPC permit guidebook lists intercom panels among the safety equipment covered by its rules (Rules §2-20). — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook _Chapter11_HealthSafety.pdf
+- Placement rule: Installation of equipment cannot be on or in front of a primary facade unless no other option exists. If it must go on the facade, it has to be placed in a discreet location that does not detract from the building's significant architectural features (e.g., beneath a band course, underneath a stoop. — same URL
+- An LPC approval cites Section 2-20(c)(3) for light fixtures and intercom panels. — https://a860-gpp.nyc.gov/downloads/db78tg07w?locale=en
+- Enforcement example in a different Brooklyn district (Crown Heights North): LPC issued warning letters for "installation of light fixtures, security cameras, and intercom without permit(s),". — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20220913/236-Albany-Avenue.pdf
+- Mounting guidance: Attachment points should be located at mortar joints or through areas of plain brick, stone or wood wherever possible. — https://thebrownstoneboys.substack.com/p/exterior-lighting-in-a-nyc-historic-district
+- LPC approval does not replace Department of Buildings requirements. — same URL
+- The ornate stoop entries are what the LPC protects. In the Extension, neo-Grec brownstones feature heavy door surrounds with bracketed hoods decorated with incised, stylized ornament. — http://s-media.nyc.gov/agencies/lpc/lp/2443.pdf
+
+**Local forums and news about buzzers**
+- Brownstoner forum, Park Slope (2009): the landlord replaced 11 of 12 intercoms, but one tenant refused access, so every apt on this tenent's line does not work. — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/
+- A reply in that thread says intercoms would not add to the rent. Landlords are responsible for security so these are not upgrades. — same URL
+- Brownstoner forum (2006): The buzzer system in my apartment building in Park Slope has been broken for a few months now. People can buzz us but the intercom system is dead and we can't buzz people in. — https://www.brownstoner.com/forum-archive/2006/01/broken-buzzerin/
+- Reddit (r/parkslope, r/Brooklyn) threads about buzzers: EMPTY. No Reddit results came up.
+- Lobby package theft at 585 6th Avenue (2019): police say a building worker noticed three men inside the building's lobby cutting open mailed packages and removing the contents. — https://abc7ny.com/park-slope-packages-stolen-beating-attack-brooklyn/5480254/
+- A building employee on the same incident: "The door must have been open, so they got tempted. — https://www.cbsnews.com/amp/newyork/news/park-slope-package-thieves-caught-on-camera-nypd-brooklyn
+- Named local businesses or blocks where buzzer repair especially matters: EMPTY, beyond the buildings and corridors listed above.
+
+### 2. History and development
+- The area was mostly farms and woods until the early 19th century, when the land was subdivided into rectangular parcels. The western section of the neighborhood was occupied in the mid-19th century, being located near the industrial Gowanus Canal and ferries. After the completion of Prospect Park, numerous mansions and rowhouses were developed in Park Slope's eastern section in the 1880s. — https://en.wikipedia.org/wiki/Park_Slope
+- Park Slope faced social and infrastructural decline in the mid-20th century, but the building stock was renovated after the area became gentrified starting in the 1960s. — same URL
+- Architects: Montrose W. Morris and C.P.H. Gilbert, left their mark on Park Slope. — https://dougbowenziaoharateam.com/blog/exploring-the-rich-heritage-and-history-of-park-slope
+- In the Extension, Jefferson F. Wood was the most prolific architect. — http://s-media.nyc.gov/agencies/lpc/lp/2443.pdf
+- Revival in the 1960s: In 1966 the Brooklyn Union Gas Company purchased a vacant brownstone row house at 211 Berkeley Place for its "Cinderella Project." — same URL
+- Plaza Street was once the "Park Avenue District of Brooklyn." — https://en.wikipedia.org/wiki/47_Plaza_Street_West
+
+### 3. Main streets and commercial corridors
+- Fifth Avenue and Seventh Avenue are its primary commercial streets, while its east–west side streets are lined with brownstones and apartment buildings. — https://en.wikipedia.org/wiki/Park_Slope
+- 2003 rezoning: The goals of the rezoning are to preserve the historic scale of the brownstone neighborhoods, and provide increased opportunities for residential and commercial development on Fourth Avenue. — https://www.nyc.gov/assets/planning/download/pdf/plans/park-slope/parkslope.pdf
+- Fourth Avenue: the corridor has two generations of new building: 12 stories from the 2000s and 2010s, taller since 2021. — https://thepierrehouse.com/guides/luxury-apartments-park-slope/
+- Longview at 380 4th Avenue is a 17-story building with 197 apartments, 50 of them income-restricted. — same URL
+- South Slope: There are also ground-floor neighborhood shops and services along Third and Seventh avenues and parts of Eighth Avenue. — https://www.nyc.gov/assets/planning/download/pdf/plans/south-park-slope/southparkslope.pdf
+
+### 4. Building stock and historic districts
+- The original Park Slope Historic District was designated on July 17, 1973 with 1,948 buildings, and the Park Slope Historic District Extension, designated on April 17, 2012 with 613 buildings. Extension II followed in 2016. — https://newyorkyimby.com/2016/04/landmarks-designates-park-slope-historic-district-extension-ii.html
+- After Extension II, Any new construction or building modifications will now have to be approved by the LPC. — same URL
+- Styles: Some of the finest Romanesque Revival homes in the country can be found here along with examples of Italianate, French Second Empire, Queen Anne, Neo-Grec and Victorian Gothic design. — https://hdc.org/buildings/park-slope-historic-district/
+- Rowhouse widths range from 16 feet (in blocks closer to Fourth Avenue) to 25 feet in the grander blocks near Prospect Park West. — https://designsbydandj.com/park-slope-renovation-guide/
+- Pre-war elevator buildings: 39 Plaza Street West by Rosario Candela (1927) — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/brooklyn-apartments-for-sale-park-slope-39-plaza-street-west-two-bedroom-rosario-candela-elevator/
+- 35 Prospect Park West by Emery Roth (1929) — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/park-slope-35-prospect-park-west-prewar-emery-roth/
+- 209 Lincoln Place, a nine-story brick and limestone apartment building dating to 1928. — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/park-slope-brooklyn-apartment-for-sale-209-lincoln-place-moldings-prewar/
+- Modern high-rise: On Prospect Park, a condominium at 1 Grand Army Plaza designed by Richard Meier. — https://en.wikipedia.org/wiki/On_Prospect_Park
+- Detached houses: EMPTY. No source data found.
+
+### 5. Parks and landmarks
+- Prospect Park: Designed by Olmsted and Vaux — the same team behind Central Park — Prospect Park spans 585 acres. — https://zeromaxmoving.com/blog/moving-to-park-slope-brooklyn/
+- Grand Army Plaza was designed by Olmsted and Vaux in 1867, to serve as a suitably impressive entrance to Prospect Park. — https://www.brownstoner.com/neighborhood/park-slope/a-walking-tour-of-the-park-slope-historic-district/
+- Old Stone House: a reconstruction of the 1699 Vechte-Cortelyou House, an original Dutch farmstead that became a Revolutionary War landmark. — https://timeout.com/newyork/things-to-do/five-secrets-of-park-slope-brooklyn
+- Montauk Club at 25 Eighth Avenue: Designed by architect Francis H. Kimball, the structure is Venetian Gothic. — https://southbrooklyn.com/2020/01/01/park-slope/
+- The Park Slope Armory still exists today as the area's YMCA facility. — https://timeout.com/newyork/things-to-do/five-secrets-of-park-slope-brooklyn
+
+### 6. What it's known for
+- The Park Slope Food Coop is described as the oldest member-owned and operated food store in the country. — https://away.mta.info/articles/a-locals-guide-to-park-slope/
+- One of Brooklyn's most prized brownstone neighborhoods. — https://en.wikivoyage.org/wiki/Brooklyn/Prospect_Park
+
+### 7. Recent news on building security
+- Sept. 2026: two suspects hit 19 Brooklyn businesses in five weeks. Incidents were reported in neighborhoods including Park Slope. — https://hoodline.com/2026/09/two-suspects-hit-19-brooklyn-businesses-in-five-week-smash-and-grab-spree/
+- Mail theft: There are universal keys — called arrow keys — which access various collection boxes within a geographic area. Several have been stolen from postal workers in Brooklyn. — https://kelleymacdonald.substack.com/p/mail-theft-check-fraud-in-park-slope-brooklyn
+- Feb. 2025: a contractor was charged with allegedly stealing $318,000 from a Park Slope couple who had paid for a brownstone renovation. Useful for a "licensed and insured" trust angle. — https://www.brooklynpaper.com/williamsburg-contractor-park-slope-renovation/
+- Local news on smart intercom or entry-system adoption in Park Slope: EMPTY
+
+### 8. Things that change how the job is done here
+- Exterior panel replacement on landmarked rowhouses: LPC §2-20 placement rules apply (see LPC section above).
+- Vestibule two-door release sequencing in brownstones [competitor claim]. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- Plaster walls and limited conduit make fishing new cable hard [competitor claim]. — https://www.abstractenterprisessecuritysystems
+
+## Parkchester, Bronx — /door-buzzer-repair-parkchester-bronx-ny (factory research, 2026-10-25)
+
+**Door buzzer facts specific to Parkchester (main angles)**
+- In September 2024 the whole complex's intercoms were replaced. "In September 2024, a modernization plan for Parkchester's intercom infrastructure was launched." The reason given was that the old wiring had become obsolete, and installing new intercoms would have required years of work and significant investment. — https://comelitgroupusa.com/case-study/parkchester-ny/
+- Scope: in just nine months, all 171 buildings were equipped with Ultra Touch entrance panels, 1456B gateways, and lifetime Comelit App licenses. The installation, carried out by Total Security, created a system managed entirely through the App and integrated with the property management software. — https://comelitgroup.com/end-user/resources/case-studies/comelit-ip-video-intercom-in-new-york-a-world-record/
+- Comelit calls it the world's largest app-based IP video intercom: 171 buildings, 12,271 apartments and about 48,000 residents. The panels have a customizable HD touch interface and a digital directory... Among the advanced features is remote tenant name editing. Comelit says over 75% of residents now use the App daily (vendor's own claim). — https://comelitgroupusa.com/case-study/parkchester-ny/
+- How residents get calls: the Comelit app, a regular phone call to any phone number, or both. To sign up for the app, your e-mail address must be on file with the management. For phone calls, your phone number needs to be on file with Parkchester's Management, and the resident must dial *9 to unlock the door. — https://www.parkchesterintercom.com/how-to-setup
+- The official help site also warns: "If you didn't receive a e-mail invite from Comelit, check your spam folder!" This means many "buzzer not working" calls here may really be enrollment, phone-number, or app problems rather than wiring. — https://www.parkchesterintercom.com/
+- The Parkchester North Condominium homepage sends residents to "New Comelit Intercom Instructions: ParkchesterIntercom.com." — https://www.parkchesternorth.com/
+- Emergency call points: Comelit says its units are installed in strategic locations to enhance pedestrian safety, each unit includes an emergency button that instantly connects users to the Parkchester Department of Public Safety concierge stations. — https://comelitgroup.com/end-user/resources/case-studies/comelit-ip-video-intercom-in-new-york-a-world-record/
+- News 12 covered a "blue light emergency system" located near Virginia and McGraw avenues. It can be activated by pushing the red "Emergency" button, which then connects with first responders through the intercom. — https://bronx.news12.com/parkchester-condo-installs-public-emergency-button-to-help-protect-residents
+- News 12, Feb 5, 2025 (during the rollout): a Parkchester couple says they've been unable to buzz in guests or deliveries for months due to a broken intercom system. Without a working intercom, critical deliveries, like medication, are often missed. The couple says it's also a struggle to get home health aides and other medical professionals upstairs. Parkchester Management tells News 12 the system is working and residents with issues should contact them. — https://bronx.news12.com/2025/02/05/parkchester-couple-struggles-with-broken-intercom-system/6th4fLJbnKwHSjPwB83Qgs
+- Who can do repairs (Parkchester South): condominium unit owners are responsible for most interior apartment repairs except common element items. All common area repairs will be made at no additional cost and are included in the common charges. The condo maintains a skilled unionized staff including electricians, plumbers, painters, carpenters and locksmiths... arrangements for those repairs can only be made through the Service Department. This matters a lot: lobby panels and door hardware are common elements, so an outside contractor's work is mostly limited to inside the unit, or to buildings outside the condo complex. — https://www.parkchestersouth.com/Services/Facility-Services
+- Renters: residents who lease and rent from a unit owner should contact the unit owner to schedule interior service/repairs. — https://www.parkchesterinfo.com/departments-and-organizations/parkchester-service-and-repairs-department/
+- Listings tag at least one Parkchester North building (1591 Metropolitan Ave, built 1939, 8 stories, 75 units) as "Voice Intercom." That listing data may be out of date. — https://www.compass.com/building/the-parkchester-north-condominium-bronx-ny/294841355507307413/
+- NYC rule 1 RCNY §42-01 (d): every entrance... to a class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments shall be equipped with automatic self-closing and self-locking doors. Such multiple dwelling... shall also be equipped with an intercommunication system. The original 1938–42 buildings predate that date, so check which rule applies. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Competitor note: abstractenterprisessecuritysystems.com already has a page at the same slug. It names PNC, PSC and PPC, Stratton Park, Starling Ave and Thieriot Ave, and claims a "centralized Maintenance Service Dispatch Department." Its claims ("post-2010 modernization," "Public Safety Department created 2022") are not verified and some conflict with other sources. Don't copy them. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-parkchester-bronx-ny
+- HPD violations for Parkchester addresses — EMPTY (no address-level data found; check hpdonline.nyc.gov)
+- 311 intercom/door complaint counts for Parkchester — EMPTY
+- DOB permits for the 2024–25 intercom work — EMPTY
+- Reddit threads about Parkchester buzzers or intercoms — EMPTY (none found. A competitor page says it drew on "r/Parkchester," which is not verified.)
+
+**History**
+- The main apartment complex was built by the Metropolitan Life Insurance Company (MetLife) from 1938 to 1941. Architect Richmond H. Shreve, whose firm had worked on the Empire State Building, led the planning. The first 500 families moved into the southern part of Parkchester in March 1940. Construction was completed in 1941, and by 1943 all 12,271 apartments were occupied. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
+- The site was earlier the New York Catholic Protectory, which operated on the Bronx site from 1865 until 1938. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
+- Conflicting date: CooperatorNews says construction began in 1938 and was completed in 1942. — https://cooperatornews.com/article/a-successful-experiment-in-living
+- MetLife signed an "Open Occupancy Pledge"... agreeing to modify its renting policies which historically had barred non-whites. That same year it sold the complex in its entirety, to a syndicate headed by Harry B. Helmsley. — https://www.parkchesternyc.com/about-us/history/
+- Helmsley's condo conversions led to the creation of Parkchester North and Parkchester South Condominiums. — https://www.welcome2thebronx.com/2015/08/parkchester-75-years-later-a-brief-history-of-a-city-within-a-city/
+- The restoration of the complex began in 1998 (City Limits marked its 20th anniversary in 2018). — https://citylimits.org/2018/08/22/cityviews-the-lessons-we-learned-from-saving-parkchester/
+
+**Streets and commercial corridors**
+- Boundaries: East Tremont Avenue to the north, Castle Hill Avenue to the east, Westchester Avenue to the south, East 177th Street/Cross Bronx Expressway to the southwest, and White Plains Road to the west. Metropolitan Avenue, Unionport Road, and White Plains Road are the primary thoroughfares. Mostly ZIP 10462. — https://en.wikipedia.org/wiki/Parkchester,_Bronx
+- As the main thoroughfares of the Complex, Unionport Road and Metropolitan Avenue were conceived as mixed-use corridors. — https://6tocelebrate.org/neighborhoods/parkchester/
+- In 2026, Spectrum News NY1 described the area around Unionport Road and Starling Avenue as a growing Bangladeshi center that many residents call Little Bangladesh. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
+- Shops are also on Starling Avenue, McGraw Avenue, Metropolitan Avenue, Tremont Avenue, Unionport Road, and White Plains Road. — https://kids.kiddle.co/Parkchester,_Bronx
+- The Parkchester 6 station is located above Hugh J. Grant Circle... where East 177th Street, Metropolitan Avenue, and Westchester Avenue intersect. — https://en.wikipedia.org/wiki/Parkchester_station
+
+**Building stock**
+- 51 building clusters, comprising 171 building entrances; 129 acres, only 27% of which would be built on. (The "171 buildings" figure most sources use = 171 entrances, which is what matters for counting door panels.) — https://www.parkchesternyc.com/about-us/history/
+- 171 red-brick buildings between seven and 13 stories high combined in 51 clusters. — https://bxtimes.com/stories/2015/33/33-parkchester-2015-08-14-bx.html
+- Welcome2TheBronx gives heights as the tallest of which are 12 stories and the shortest 7 stories. — https://www.welcome2thebronx.com/2015/08/parkchester-75-years-later-a-brief-history-of-a-city-within-a-city/
+- Style: Art Deco Moderne-style featuring an abundance of terra-cotta ornamentation. — https://www.mas.org/news/in-support-of-the-parkchester-historic-district/
+- Ownership: Parkchester Preservation Management runs a massive housing complex of over 6,000 units (rentals). The rest are condo units in Parkchester North and South. — https://www.bxtimes.com/city-settles-with-parkchester-housing-management-for-1m-in-discrimination-suit/
+- Stratton Park is another part, located on the west side of Parkchester. — https://kids.kiddle.co/Parkchester,_Bronx
+- Rowhouses or detached houses in the area — EMPTY (not verified)
+
+**Landmark status (LPC)**
+- Not designated. In 1978 Parkchester was one of five areas in the Bronx recommended for Historic District designation in an internal Landmarks Preservation Commission survey. It's the only one currently left undesignated. — https://docomomo-nytri.org/news/parkchester-in-bronx-awaiting-a-designation-decision
+- Preservationists have objected to the removal and possible loss of 45 of the terra cotta works by the board of managers. Entrances carry terra cotta, so work on entry panels should not disturb the ornament. — same URL
+- Sculptures appear at building entrances and high up on the corners of taller buildings. — https://kids.kiddle.co/Parkchester,_Bronx
+
+**Parks, landmarks, what it's known for**
+- The roughly 2-acre Aileen B. Ryan Oval, originally called Metropolitan Oval, contains lawns, trees, paths, and the Fantasia fountain. About 500 terra-cotta figures and around 600 decorative plaques. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
+- The Oval is at 1589 Unionport Rd. Other landmarks: Macy's (the first branch after the 34th Street flagship) and the former Loew's American Theater, designed by prominent architect John Eberson in 1940. — https://6tocelebrate.org/neighborhoods/parkchester/
+- MAS calls it the earliest example of the tower-in-the-park development in both New York City and the United States. — https://www.mas.org/news/in-support-of-the-parkchester-historic-district/
+- Population figures disagree: 33,602 (2020 census, Wikipedia), about 48,000 (Comelit), and "over 50,000" (Parkchester police). — https://en.wikipedia.org/wiki/Parkchester,_Bronx ; https://www.parkchesterpolice.org/about
+
+**Building security news**
+- PIX11 (2024): residents say one of their biggest concerns is that there aren't enough streetlights and a lack of security cameras. A resident reported a home invasion... a woman's door was kicking here on McGraw back in August. — https://www.aol.com/bronx-residents-call-more-streetlights-031930518.html
+- PIX11 also reported that one resident's front door ring camera captured a man wandering around in one of the hallways. — https://pix11.com/news/local-news/bronx-residents-call-for-more-streetlights-security-cameras-after-reported-rape/
+- NY bill S9663 (2026) grants peace officer status to certain employees of the Parkchester police department of public safety who patrol the Parkchester North and South condominium area. — https://www.nysenate.gov/legislation/bills/2025/S9663
+- The Department of Public Safety has moved to new centrally located offices at 1489 Metropolitan Avenue right above the Chase Bank. — https://www.parkchesternyc.com/parkchester_news/dps-moves-to-a-new-central-location/
+- Shots-spotter alert on Oct 7 (2026) at 1601 Metropolitan Ave. — https://citizen.com/-P3Nraqrjc2h20qxf9RD
+
+**What changes how buzzer repair is done here**
+- One brand across the complex (Comelit IP, app-based, installed 2024–25). Expect app, phone-number and enrollment problems, plus network and gateway problems, rather than old analog wiring faults. — https://comelitgroupusa.com/case-study/parkchester-ny/
+- Common-area repairs go through the condo Service Department. That limits outside contractors to work inside units, or to buildings near but outside the complex. — https://www.parkchestersouth.com/Services/Facility-Services
+- Elderly and disabled residents rely on aides and medication deliveries, which makes a broken buzzer urgent (see the News 12 story). — https://bronx.news12.com/2025/02/05/parkchester-couple-struggles-with-broken-intercom-system/6th4fLJbnKwHSjPwB83Qgs
+- Many residents speak Bengali, Spanish and other languages, so multilingual instructions would help. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
