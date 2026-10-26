@@ -2699,3 +2699,4 @@ Run 2026-10-25 evening (scheduled, 00:55 UTC Oct 26, Claude in Chrome, account /
 2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-ocean-hill-brooklyn-ny | QUEUED
 2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-new-utrecht-brooklyn-ny | QUEUED
 2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-parkchester-bronx-ny | QUEUED
+2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-park-slope-brooklyn-ny | QUEUED
