@@ -20,6 +20,8 @@ Run 2026-10-24 evening (scheduled, 00:53 UTC Oct 25, Claude in Chrome, account /
 
 Run 2026-10-25 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 newly marked indexed (all 11 inspected as not on Google). Google showed "Quota Exceeded" on the 12th (uniview staten island), which stays QUEUED; next run starts there.
 
+Run 2026-10-25 evening (scheduled, 00:55 UTC Oct 26, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-26T00:55:02Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2637 QUEUED URLs in 6 batches of up to 500: all 200. Inspected uniview staten island (Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at uniview staten island.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
@@ -42,7 +44,7 @@ Run 2026-10-25 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-dutchess-county | REQUESTED 2026-10-25
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-manhattan | REQUESTED 2026-10-25
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-nassau-county | REQUESTED 2026-10-25
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED (quota hit 2026-10-25, retry next run)
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED (quota hit 2026-10-25 twice, retry next run)
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-orange-county | QUEUED
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-suffolk-county | QUEUED
