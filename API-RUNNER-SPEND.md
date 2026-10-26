@@ -11,3 +11,4 @@ UTC time | cost | summary
 2026-10-25T15:10Z | $8.60 | (factory) submitted batch msgbatch_01Ah9PRRBYXnhSwdJDFcQDHL with 5 page(s)
 2026-10-25T18:15Z | $8.95 | (factory) FAIL exact warranty text missing or altered (see WARRANTY in tools/check_page.py); no LocalBusiness schema; LocalBusiness schema is not the Bronx GBP (460 E / #bronx); FAIL exact warranty text missing or altered (see WARRANTY in tools/check_page.py); no LocalBusiness schema; LocalBusiness schema is 
 2026-10-25T21:02Z | $0.00 | (factory) batch msgbatch_01Ah9PRRBYXnhSwdJDFcQDHL held until the budget resets ($1.15 left); cycle budget left $1.15; not claiming
+2026-10-26T00:02Z | $0.00 | (factory) batch msgbatch_01Ah9PRRBYXnhSwdJDFcQDHL held until the budget resets ($1.15 left); cycle budget left $1.15; not claiming
