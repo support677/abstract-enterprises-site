@@ -1,99 +1,99 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01Ah9PRRBYXnhSwdJDFcQDHL",
-   "submitted": "2026-10-25T15:10Z",
+   "id": "msgbatch_01JZt9CTYM7ocvxViP2om6vV",
+   "submitted": "2026-10-26T14:02Z",
    "pages": {
     "p0": {
      "status": "REBUILD",
-     "slug": "door-buzzer-repair-new-utrecht-brooklyn-ny",
+     "slug": "door-buzzer-repair-pelham-gardens-bronx-ny",
      "silo": "Door Buzzer Repair",
-     "area": "New Utrecht, Brooklyn",
-     "up": "/door-buzzer-repair-brooklyn-new-york",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "area": "Pelham Gardens, Bronx",
+     "up": "/door-buzzer-repair-bronx-new-york",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 458,
+     "line_no": 463,
      "silo_key": "door-buzzer-repair",
-     "area_key": "brooklyn",
-     "nbhd": "New Utrecht",
-     "borough": "Brooklyn",
-     "nb_slug": "new-utrecht",
-     "exemplar": "alarm-installation-ocean-parkway-brooklyn-ny",
+     "area_key": "bronx",
+     "nbhd": "Pelham Gardens",
+     "borough": "Bronx",
+     "nb_slug": "pelham-gardens",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-cable-bundles-dropping-down-equipment-rack.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-cable-bundles-dropping-down-equipment-rack.webp",
        "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
        "w": 250,
        "h": 640
       },
       {
        "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-dark-grey-wired-doorbell-with-round-button.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-dark-grey-wired-doorbell-with-round-button.webp",
        "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
        "w": 820,
        "h": 480
       },
       {
        "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-dark-recessed-lobby-ceiling-with-downlights.webp",
        "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
        "w": 545,
        "h": 180
       },
       {
        "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
        "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
        "w": 700,
        "h": 620
       },
       {
        "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-keypad-door-station-with-card-reader-and-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-keypad-door-station-with-card-reader-and-camera.webp",
        "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
        "w": 510,
        "h": 960
       },
       {
        "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-low-voltage-cable-bundles-over-ceiling-beam.webp",
        "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
        "w": 540,
        "h": 255
       },
       {
        "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-night-camera-view-of-open-storeroom-doorway.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-night-camera-view-of-open-storeroom-doorway.webp",
        "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
        "w": 550,
        "h": 350
       },
       {
        "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-small-camera-high-on-pale-wall.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-small-camera-high-on-pale-wall.webp",
        "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
        "w": 620,
        "h": 420
       },
       {
        "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-tiled-corridor-to-grey-door-with-lever-handle.webp",
        "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
        "w": 635,
        "h": 1050
       },
       {
        "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-touchscreen-directory-entry-panel-with-dial-pad.webp",
        "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
        "w": 228,
        "h": 456
       },
       {
        "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-new-utrecht-2u-rack-video-server-product-photo.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-gardens-2u-rack-video-server-product-photo.webp",
        "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
@@ -102,94 +102,94 @@
     },
     "p1": {
      "status": "REBUILD",
-     "slug": "door-buzzer-repair-norwood-bronx-ny",
+     "slug": "door-buzzer-repair-pelham-parkway-bronx-ny",
      "silo": "Door Buzzer Repair",
-     "area": "Norwood, Bronx",
+     "area": "Pelham Parkway, Bronx",
      "up": "/door-buzzer-repair-bronx-new-york",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 459,
+     "line_no": 464,
      "silo_key": "door-buzzer-repair",
      "area_key": "bronx",
-     "nbhd": "Norwood",
+     "nbhd": "Pelham Parkway",
      "borough": "Bronx",
-     "nb_slug": "norwood",
-     "exemplar": "sonos-installation-throgs-neck-bronx-ny",
+     "nb_slug": "pelham-parkway",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-cable-bundles-dropping-down-equipment-rack.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-cable-bundles-dropping-down-equipment-rack.webp",
        "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
        "w": 250,
        "h": 640
       },
       {
        "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-dark-grey-wired-doorbell-with-round-button.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-dark-grey-wired-doorbell-with-round-button.webp",
        "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
        "w": 820,
        "h": 480
       },
       {
        "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-dark-recessed-lobby-ceiling-with-downlights.webp",
        "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
        "w": 545,
        "h": 180
       },
       {
        "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
        "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
        "w": 700,
        "h": 620
       },
       {
        "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-keypad-door-station-with-card-reader-and-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-keypad-door-station-with-card-reader-and-camera.webp",
        "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
        "w": 510,
        "h": 960
       },
       {
        "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-low-voltage-cable-bundles-over-ceiling-beam.webp",
        "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
        "w": 540,
        "h": 255
       },
       {
        "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-night-camera-view-of-open-storeroom-doorway.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-night-camera-view-of-open-storeroom-doorway.webp",
        "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
        "w": 550,
        "h": 350
       },
       {
        "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-small-camera-high-on-pale-wall.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-small-camera-high-on-pale-wall.webp",
        "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
        "w": 620,
        "h": 420
       },
       {
        "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-tiled-corridor-to-grey-door-with-lever-handle.webp",
        "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
        "w": 635,
        "h": 1050
       },
       {
        "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-touchscreen-directory-entry-panel-with-dial-pad.webp",
        "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
        "w": 228,
        "h": 456
       },
       {
        "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-norwood-2u-rack-video-server-product-photo.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-pelham-parkway-2u-rack-video-server-product-photo.webp",
        "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
@@ -198,94 +198,94 @@
     },
     "p2": {
      "status": "REBUILD",
-     "slug": "door-buzzer-repair-ocean-hill-brooklyn-ny",
+     "slug": "door-buzzer-repair-prospect-lefferts-gardens-brooklyn-ny",
      "silo": "Door Buzzer Repair",
-     "area": "Ocean Hill, Brooklyn",
+     "area": "Prospect Lefferts Gardens, Brooklyn",
      "up": "/door-buzzer-repair-brooklyn-new-york",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 460,
+     "line_no": 465,
      "silo_key": "door-buzzer-repair",
      "area_key": "brooklyn",
-     "nbhd": "Ocean Hill",
+     "nbhd": "Prospect Lefferts Gardens",
      "borough": "Brooklyn",
-     "nb_slug": "ocean-hill",
-     "exemplar": "alarm-installation-ocean-parkway-brooklyn-ny",
+     "nb_slug": "prospect-lefferts-gardens",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-cable-bundles-dropping-down-equipment-rack.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-cable-bundles-dropping-down-equipment-rack.webp",
        "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
        "w": 250,
        "h": 640
       },
       {
        "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-dark-grey-wired-doorbell-with-round-button.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-dark-grey-wired-doorbell-with-round-button.webp",
        "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
        "w": 820,
        "h": 480
       },
       {
        "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-dark-recessed-lobby-ceiling-with-downlights.webp",
        "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
        "w": 545,
        "h": 180
       },
       {
        "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
        "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
        "w": 700,
        "h": 620
       },
       {
        "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-keypad-door-station-with-card-reader-and-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-keypad-door-station-with-card-reader-and-camera.webp",
        "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
        "w": 510,
        "h": 960
       },
       {
        "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-low-voltage-cable-bundles-over-ceiling-beam.webp",
        "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
        "w": 540,
        "h": 255
       },
       {
        "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-night-camera-view-of-open-storeroom-doorway.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-night-camera-view-of-open-storeroom-doorway.webp",
        "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
        "w": 550,
        "h": 350
       },
       {
        "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-small-camera-high-on-pale-wall.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-small-camera-high-on-pale-wall.webp",
        "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
        "w": 620,
        "h": 420
       },
       {
        "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-tiled-corridor-to-grey-door-with-lever-handle.webp",
        "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
        "w": 635,
        "h": 1050
       },
       {
        "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-touchscreen-directory-entry-panel-with-dial-pad.webp",
        "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
        "w": 228,
        "h": 456
       },
       {
        "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-hill-2u-rack-video-server-product-photo.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-prospect-lefferts-gardens-2u-rack-video-server-product-photo.webp",
        "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
@@ -294,94 +294,94 @@
     },
     "p3": {
      "status": "REBUILD",
-     "slug": "door-buzzer-repair-park-slope-brooklyn-ny",
+     "slug": "door-buzzer-repair-ridgewood-brooklyn-ny",
      "silo": "Door Buzzer Repair",
-     "area": "Park Slope, Brooklyn",
+     "area": "Ridgewood, Brooklyn",
      "up": "/door-buzzer-repair-brooklyn-new-york",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 461,
+     "line_no": 466,
      "silo_key": "door-buzzer-repair",
      "area_key": "brooklyn",
-     "nbhd": "Park Slope",
+     "nbhd": "Ridgewood",
      "borough": "Brooklyn",
-     "nb_slug": "park-slope",
-     "exemplar": "alarm-installation-ocean-parkway-brooklyn-ny",
+     "nb_slug": "ridgewood",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-cable-bundles-dropping-down-equipment-rack.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-cable-bundles-dropping-down-equipment-rack.webp",
        "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
        "w": 250,
        "h": 640
       },
       {
        "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-dark-grey-wired-doorbell-with-round-button.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-dark-grey-wired-doorbell-with-round-button.webp",
        "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
        "w": 820,
        "h": 480
       },
       {
        "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-dark-recessed-lobby-ceiling-with-downlights.webp",
        "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
        "w": 545,
        "h": 180
       },
       {
        "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
        "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
        "w": 700,
        "h": 620
       },
       {
        "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-keypad-door-station-with-card-reader-and-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-keypad-door-station-with-card-reader-and-camera.webp",
        "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
        "w": 510,
        "h": 960
       },
       {
        "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-low-voltage-cable-bundles-over-ceiling-beam.webp",
        "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
        "w": 540,
        "h": 255
       },
       {
        "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-night-camera-view-of-open-storeroom-doorway.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-night-camera-view-of-open-storeroom-doorway.webp",
        "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
        "w": 550,
        "h": 350
       },
       {
        "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-small-camera-high-on-pale-wall.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-small-camera-high-on-pale-wall.webp",
        "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
        "w": 620,
        "h": 420
       },
       {
        "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-tiled-corridor-to-grey-door-with-lever-handle.webp",
        "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
        "w": 635,
        "h": 1050
       },
       {
        "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-touchscreen-directory-entry-panel-with-dial-pad.webp",
        "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
        "w": 228,
        "h": 456
       },
       {
        "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-park-slope-2u-rack-video-server-product-photo.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ridgewood-2u-rack-video-server-product-photo.webp",
        "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
@@ -390,102 +390,773 @@
     },
     "p4": {
      "status": "REBUILD",
-     "slug": "door-buzzer-repair-parkchester-bronx-ny",
+     "slug": "door-buzzer-repair-riverdale-bronx-ny",
      "silo": "Door Buzzer Repair",
-     "area": "Parkchester, Bronx",
+     "area": "Riverdale, Bronx",
      "up": "/door-buzzer-repair-bronx-new-york",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 462,
+     "line_no": 467,
      "silo_key": "door-buzzer-repair",
      "area_key": "bronx",
-     "nbhd": "Parkchester",
+     "nbhd": "Riverdale",
      "borough": "Bronx",
-     "nb_slug": "parkchester",
-     "exemplar": "sonos-installation-throgs-neck-bronx-ny",
+     "nb_slug": "riverdale",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-cable-bundles-dropping-down-equipment-rack.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-cable-bundles-dropping-down-equipment-rack.webp",
        "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
        "w": 250,
        "h": 640
       },
       {
        "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-dark-grey-wired-doorbell-with-round-button.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-dark-grey-wired-doorbell-with-round-button.webp",
        "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
        "w": 820,
        "h": 480
       },
       {
        "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-dark-recessed-lobby-ceiling-with-downlights.webp",
        "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
        "w": 545,
        "h": 180
       },
       {
        "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
        "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
        "w": 700,
        "h": 620
       },
       {
        "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-keypad-door-station-with-card-reader-and-camera.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-keypad-door-station-with-card-reader-and-camera.webp",
        "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
        "w": 510,
        "h": 960
       },
       {
        "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-low-voltage-cable-bundles-over-ceiling-beam.webp",
        "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
        "w": 540,
        "h": 255
       },
       {
        "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-night-camera-view-of-open-storeroom-doorway.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-night-camera-view-of-open-storeroom-doorway.webp",
        "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
        "w": 550,
        "h": 350
       },
       {
        "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-small-camera-high-on-pale-wall.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-small-camera-high-on-pale-wall.webp",
        "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
        "w": 620,
        "h": 420
       },
       {
        "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-tiled-corridor-to-grey-door-with-lever-handle.webp",
        "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
        "w": 635,
        "h": 1050
       },
       {
        "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-touchscreen-directory-entry-panel-with-dial-pad.webp",
        "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
        "w": 228,
        "h": 456
       },
       {
        "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-parkchester-2u-rack-video-server-product-photo.webp",
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-riverdale-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p5": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-schuylerville-bronx-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Schuylerville, Bronx",
+     "up": "/door-buzzer-repair-bronx-new-york",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
+     "rebuild": true,
+     "line_no": 468,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "bronx",
+     "nbhd": "Schuylerville",
+     "borough": "Bronx",
+     "nb_slug": "schuylerville",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-schuylerville-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p6": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-sea-gate-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Sea Gate, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 469,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Sea Gate",
+     "borough": "Brooklyn",
+     "nb_slug": "sea-gate",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sea-gate-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p7": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-sheepshead-bay-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Sheepshead Bay, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 470,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Sheepshead Bay",
+     "borough": "Brooklyn",
+     "nb_slug": "sheepshead-bay",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-sheepshead-bay-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p8": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-silver-beach-bronx-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Silver Beach, Bronx",
+     "up": "/door-buzzer-repair-bronx-new-york",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
+     "rebuild": true,
+     "line_no": 471,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "bronx",
+     "nbhd": "Silver Beach",
+     "borough": "Bronx",
+     "nb_slug": "silver-beach",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-silver-beach-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p9": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-south-williamsburg-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "South Williamsburg, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 472,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "South Williamsburg",
+     "borough": "Brooklyn",
+     "nb_slug": "south-williamsburg",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-south-williamsburg-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p10": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-stuyvesant-heights-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Stuyvesant Heights, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 473,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Stuyvesant Heights",
+     "borough": "Brooklyn",
+     "nb_slug": "stuyvesant-heights",
+     "exemplar": "door-buzzer-repair-park-slope-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-stuyvesant-heights-2u-rack-video-server-product-photo.webp",
+       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p11": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-the-hub-bronx-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "The Hub, Bronx",
+     "up": "/door-buzzer-repair-bronx-new-york",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
+     "rebuild": true,
+     "line_no": 474,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "bronx",
+     "nbhd": "The Hub",
+     "borough": "Bronx",
+     "nb_slug": "the-hub",
+     "exemplar": "door-buzzer-repair-parkchester-bronx-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-the-hub-2u-rack-video-server-product-photo.webp",
        "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
       }
      ]
     }
-   },
-   "note": "re-queued Oct 25 after factory bug fixes; results stay downloadable 29 days"
+   }
   }
  ]
 }
