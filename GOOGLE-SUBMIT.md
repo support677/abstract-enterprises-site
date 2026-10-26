@@ -22,6 +22,8 @@ Run 2026-10-25 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 Run 2026-10-25 evening (scheduled, 00:55 UTC Oct 26, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-26T00:55:02Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2637 QUEUED URLs in 6 batches of up to 500: all 200. Inspected uniview staten island (Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at uniview staten island.
 
+Run 2026-10-26 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 128 marked indexed (34 via browser inspection, rest pre-screened with the URL Inspection API), 2504 still QUEUED. Google showed "Quota Exceeded" on the 12th (fiber-optic hunts point), which stays QUEUED; next run starts there. Already pre-screened as not indexed and next in line: fiber-optic-installation-flushing-queens-ny (Crawled - not indexed), sonos-installation-cobble-hill-brooklyn-ny (Discovered - not indexed). Note: the indexed service pages show Review snippets "Some are invalid" in Search Console.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
@@ -44,158 +46,158 @@ Run 2026-10-25 evening (scheduled, 00:55 UTC Oct 26, Claude in Chrome, account /
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-dutchess-county | REQUESTED 2026-10-25
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-manhattan | REQUESTED 2026-10-25
 2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-nassau-county | REQUESTED 2026-10-25
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | QUEUED (quota hit 2026-10-25 twice, retry next run)
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-orange-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-suffolk-county | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-long-island-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-ulster-county-ny | QUEUED
-2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-westchester-county-ny | QUEUED
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/uniview-camera-installation-staten-island | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-long-island | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-orange-county | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-suffolk-county | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-long-island-ny | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-ulster-county-ny | REQUESTED 2026-10-26
+2026-10-18 | https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-westchester-county-ny | REQUESTED 2026-10-26
 
 ## MAIN QUEUE — new and rebuilt pages, oldest first
 
 2026-10-14 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nyc | INDEXED 2026-10-24 (API inspect PASS, no request needed)
 2026-10-15 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-manhattan | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-16 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-brooklyn | QUEUED
+2026-10-16 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-brooklyn | INDEXED 2026-10-26
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nyc | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-hudson-valley | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-hudson-valley | INDEXED 2026-10-26
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nyc | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-hudson-valley | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-long-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-valley | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nyc | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-hudson-valley | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-hudson-valley | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-long-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-valley | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nyc | REQUESTED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-long-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-hudson-valley | INDEXED 2026-10-26
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nyc | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-hudson-valley | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-manhattan | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-queens | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bronx | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-westchester-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-rockland-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-orange-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-manhattan | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-brooklyn | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-queens | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-staten-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nassau-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-suffolk-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-putnam-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-dutchess-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-ulster-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bronx | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-staten-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nassau-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-suffolk-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-westchester-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-rockland-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-orange-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-putnam-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-dutchess-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-ulster-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-queens | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-bronx | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-westchester-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-rockland-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-orange-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-manhattan | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-queens | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-staten-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nassau-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-suffolk-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-bronx | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-staten-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nassau-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-suffolk-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-westchester-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-rockland-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-orange-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-putnam-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-dutchess-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-queens | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bronx | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-staten-island | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-putnam-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dutchess-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-ulster-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-rockland-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-orange-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-putnam-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nassau-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-suffolk-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-westchester-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ulster-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-manhattan | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-hudson-valley | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-manhattan | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-queens | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bronx | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-westchester-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-rockland-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-orange-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-manhattan | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-brooklyn | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-queens | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-staten-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-nassau-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-suffolk-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-putnam-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-dutchess-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-ulster-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bronx | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-staten-island | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-nassau-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-suffolk-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-westchester-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-rockland-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-orange-county | INDEXED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-putnam-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-dutchess-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-ulster-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-queens | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-bronx | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-westchester-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-rockland-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-orange-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-manhattan | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-brooklyn | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-queens | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-staten-island | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-nassau-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-suffolk-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-bronx | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-staten-island | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-nassau-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-suffolk-county | REQUESTED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-westchester-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-rockland-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-orange-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-putnam-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-dutchess-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-queens | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bronx | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-staten-island | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-putnam-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dutchess-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-ulster-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-rockland-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-orange-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-putnam-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-nassau-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-suffolk-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-westchester-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ulster-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-manhattan | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-brooklyn | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-riverdale-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-st-george-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tribeca-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island-city-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-mott-haven-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-great-kills-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-upper-west-side-manhattan-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-riverdale-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-st-george-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tribeca-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-long-island-city-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-mott-haven-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-great-kills-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-upper-west-side-manhattan-ny | REQUESTED 2026-10-26
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-park-slope-brooklyn-ny | INDEXED 2026-10-24 (API inspect PASS, no request needed)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-astoria-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-harlem-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bay-ridge-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-upper-east-side-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-brooklyn-heights-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-flushing-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-dutchess-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-forest-hills-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-pelham-bay-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bedford-stuyvesant-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-jackson-heights-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-kingsbridge-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-throgs-neck-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-todt-hill-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-chelsea-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bayside-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-morris-park-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-west-brighton-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-new-dorp-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-washington-heights-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-greenpoint-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tottenville-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hunts-point-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-bloomfield-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-financial-district-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dumbo-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-long-island-city-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-chelsea-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-brooklyn-navy-yard-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-jamaica-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-morris-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-st-george-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-midtown-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-stapleton-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-downtown-brooklyn-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-astoria-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-harlem-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bay-ridge-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-upper-east-side-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-brooklyn-heights-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-flushing-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-dutchess-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-williamsburg-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-forest-hills-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-pelham-bay-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bedford-stuyvesant-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-jackson-heights-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-kingsbridge-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-throgs-neck-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-todt-hill-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-chelsea-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bayside-queens-ny | REQUESTED 2026-10-26
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-morris-park-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-west-brighton-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-new-dorp-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-washington-heights-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-greenpoint-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tottenville-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hunts-point-bronx-ny | QUEUED (quota hit 2026-10-26, retry next run)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-bloomfield-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-financial-district-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dumbo-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-long-island-city-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-chelsea-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-brooklyn-navy-yard-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-jamaica-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-port-morris-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-st-george-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-midtown-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-stapleton-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-downtown-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flushing-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-fordham-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-fordham-bronx-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-cobble-hill-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-astoria-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-throgs-neck-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-todt-hill-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-chelsea-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-upper-east-side-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn-heights-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-flushing-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bayside-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-kingsbridge-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-new-dorp-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-ulster-county | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-city-island-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-greenpoint-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-greenwich-village-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-dumbo-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-jackson-heights-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-morris-park-bronx-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-astoria-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-throgs-neck-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-todt-hill-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-chelsea-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-upper-east-side-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-brooklyn-heights-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-flushing-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-bayside-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-kingsbridge-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-new-dorp-staten-island-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-ulster-county | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-city-island-bronx-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-greenpoint-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-greenwich-village-manhattan-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-dumbo-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-jackson-heights-queens-ny | INDEXED 2026-10-26 (API inspect)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-morris-park-bronx-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-west-brighton-staten-island-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-midtown-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-williamsburg-brooklyn-ny | QUEUED
