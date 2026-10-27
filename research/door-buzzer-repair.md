@@ -6157,3 +6157,176 @@ I ran a limited number of searches. Nothing I found was specific to Wingate door
 - Mixed eras on the same blocks (1920s–30s brick buildings next to 2019–2026 condos) mean a technician may see an old audio-only system on one block and an IP or video system on the next. This is inferred from the building data above, not stated by any source.
 - Buildings with 8+ units built or converted after 1968 are legally required to have a working intercom, and a broken one is a Class B violation. See section A.
 - Landmark-district constraints: EMPTY. I found no Wingate landmark district.
+
+## Woodstock, Bronx — /door-buzzer-repair-woodstock-bronx-ny (factory research, 2026-10-27)
+
+I ran out of searches before I could check several items. No Woodstock-specific Reddit thread, 311 dataset, DOB permit or news item about buzzers turned up. Those lines say EMPTY.
+
+### A. Door-buzzer-specific angles (priority)
+
+**Building types and entry situations**
+
+- Old Law tenement example on Woodstock's main street. 840 East 156th Street is a 3-story, 4-unit Old Law Tenement built in 1910. PropertyShark also lists it as built in 1910 on a wide stretch of East 156th Street. Small walk-ups like this have fewer than 8 units, so the state intercom mandate (MDL §50-a) likely doesn't cover them. A repair there is often an owner or Housing Maintenance Code matter. Use as a building-type example, not a claim about this building's buzzer. — https://augrented.com/nyc/2026750049-840-east-156-street
+- Larger pre-war walk-up on East 156th. 751 East 156th Street is a 6-story, 23-unit residential building built in 1906. It has 194 recorded HPD violations, against a neighborhood average of 55.3. That site labels the area "Longwood," which shows the Woodstock/Longwood boundary is fuzzy. — https://augrented.com/nyc/2026460036-751-east-156-street
+- New-construction condo stock. 600 East 156th Street is a condo building in Melrose South, built in 2018. PropertyShark lists it under the Woodstock neighborhood. It is 173,765 sq ft on a 100 ft x 230 ft lot. Newer buildings like this are the most likely to have modern audio/video entry panels. That is an inference; the source doesn't say what system it has. — https://www.propertyshark.com/mason/Property/153934292/600-E-156-St-Bronx-NY-10455/
+- Local building mix. Apartments.com describes Woodstock as having classic brownstones plus newer developments such as modern condos. It says several developments on Charlotte Street built newer homes in the mid-1980s. Treat these as general listing-site descriptions. — https://www.apartments.com/local-guide/woodstock-bronx-ny/
+- Nearby NYCHA and high-rise stock (Melrose, not Woodstock proper). Morrisania Air Rights is a NYCHA project of three buildings, 19, 23 and 29 stories tall. It has 843 apartments. A new mural now covers its building on East 158th Street between Morris and Park Avenues. — https://en.wikipedia.org/wiki/Morrisania_Air_Rights and https://www.yahoo.com/lifestyle/articles/artists-neighbors-unveil-mural-29-212235649.html
+- Wiring, AV and panel specifics for Woodstock buildings: EMPTY. I found no source on riser wiring, video-intercom adoption or panel brands in Woodstock. Generic claims on competitor sites (for example a Bronx intercom company's pages about Concourse and Eastchester) are about other neighborhoods and should not be reused as Woodstock facts.
+
+**Legal and city-data hooks**
+
+- State rule. MDL §50-a requires an intercom at the self-locking main entrance of every Class A multiple dwelling built or converted after January 1, 1968 with eight or more apartments. The system must let a visitor and an occupant talk, and let the occupant release the door from the apartment. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- City rule and class dispute. The state law covers post-1968 buildings with 8+ units, and the city's housing maintenance code also requires a functioning intercom. — https://lasserlg.com/wp-content/uploads/2024/01/Intercom-System-NYT-LLG-web-1.12.24.pdf
+- Sources disagree on the HPD violation class for a dead intercom. One says Class B (hazardous). Another lists non-functioning intercoms as Class A (non-hazardous). Verify against HPD before stating a class on the page. The Housing Maintenance Code coverage is also described inconsistently (3+ units vs. 8+ units) — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords and https://senecasecurity.com/learn/nyc-building-compliance-security-systems-required-by-law/ (the second URL is reconstructed from the search result title; confirm it before use)
+- Reporting route. Tenants can call 311 for a broken lobby lock, an entrance door that won't close, or a dead intercom. — https://rainbowlocksmithny.com/blog/nyc-lock-laws-tenants/
+- Self-closing doors. Residential multiple dwellings with 3+ units must have self-closing doors under Admin Code §28-315.10. Owners must keep the doors in good repair, and HPD enforces this through violations. Local Law 71 of 2022 followed the Twin Parks fire in the Bronx. This matters because a "dead buzzer" can really be a door that never latches. — https://home4.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-doors-program-report-fy25.pdf
+- Buzzer vs. door-hardware diagnosis. One Bronx access-control firm says a closer set so the door never latches can read as "the buzzer is dead." — https://gothamaccesscontrolny.com/locations/bronx/
+- Co-op angle. A NYT Q&A attorney says courts treat a working intercom as an essential service, and failing to maintain one breaches the warranty of habitability. — https://lasserlg.com/wp-content/uploads/2024/01/Intercom-System-NYT-LLG-web-1.12.24.pdf
+- Woodstock 311 complaint counts for intercom/buzzer: EMPTY (not queried).
+- HPD violation data specific to Woodstock buzzers: EMPTY. The East 156th Street building records above show general violations only (heat, pests, lead, self-closing door). At 840 East 156th, Apartment 3 has an open violation for a missing self-closing door. — https://augrented.com/nyc/2026750049-840-east-156-street
+- DOB permits tied to entry systems: EMPTY.
+- LPC rules affecting entry hardware: the only designated landmark found is the library below (no historic district found). It is a public library, not a residence, so it doesn't bear on residential buzzer work. EMPTY for residential LPC rules.
+
+**Local news and Reddit**
+
+- Nearby NYCHA entry-security reporting (Bronx, not Woodstock). A Riverdale Press story dated October 15, 2026 covers Marble Hill Houses. A resident said the entrance door and intercom in her building have repeatedly malfunctioned. NYCHA cited funding constraints and repeated vandalism as the main obstacles to keeping doors, locks and intercoms working. Use only as a borough-level data point. — https://www.riverdalepress.com/stories/nycha-sees-crime-drop-but-marble-hill-houses-residents-cite-security-concerns,241342
+- NYCHA events in adjacent Melrose. A "NYCHA In Your Neighborhood" forum series began May 20, 2026 in the Bronx. The first was at the Classic Community Center at Melrose. — https://bronx.news12.com/2026/05/11/nyc-launches-new-public-forums-to-address-longstanding-nycha-complaints/hfgCj4uix1urlB7fXDH9Y
+- Melrose Houses tenants. Tenants packed Melrose Houses in May 2026 over mold, leaks and repairs that drag on for months. — https://hoodline.com/2026/05/bronx-tenants-pack-melrose-houses-to-demand-muscle-for-nycha-mold-hotline/
+- New construction nearby. Two buildings on East 158th Street in Melrose total 129 affordable units, 78 of them permanent supportive housing. Permits were filed for a 17-story mixed-use building at 489 East 152nd Street. Permits were also filed for a six-story residential building at 633 Wales Avenue. More new multifamily buildings are likely to mean more modern entry systems. That is an inference. — https://hoodline.com/2026/09/melrose-bronx-sees-129-affordable-units-nearly-done-including-78-supportive-homes-charter-school-rising-nearby/ and https://newyorkyimby.com/neighborhoods/melrose
+- Woodstock-specific Reddit thread about buzzers or intercoms: EMPTY. The search returned no Reddit results.
+- Woodstock-specific local news about buzzers, door security or lobby break-ins: EMPTY.
+
+**Businesses and blocks where it matters**
+
+- Commercial strips near Woodstock. Prospect Avenue has Western Beef Supermarket, Pet Resources and Longwood Fish Market. Third Avenue, a block or so west, anchors the South Bronx with retailers like ALDI and Marshalls. Mixed-use buildings with ground-floor shops over apartments are where shared-door and buzzer disputes arise. That is an inference. — https://www.homes.com/local-guide/bronx-ny/woodstock-neighborhood/
+- Specific blocks where buzzer repair matters: only East 156th Street addresses are documented above. Other blocks: EMPTY.
+
+### B. Neighborhood background
+
+**History**
+
+- Origin. As early as the 1850s this part of Morrisania was called Woodstock, allegedly after Sir Walter Scott's 1826 novel. The small village was centered on East 163rd Street and Jackson Avenue. — https://s-media.nyc.gov/agencies/lpc/lp/2322.pdf
+- Villages carved from the Morris estate. The estate was sold off and chopped up by developers in the 1840s. The resulting villages included East Morrisania, Wilton, Woodstock, Melrose, South Melrose and Mott Haven. — https://ny1.com/nyc/all-boroughs/human-interest/2024/09/09/lost-villages-of-the-bronx
+- Annexation and transit. Morrisania was annexed to New York City in 1874 with a population over 19,000. By the late 19th century it had a mostly German population and its own brewing industry. The Third Avenue Elevated reached the area in 1887. By the time the subway came in 1904, Slavic immigration had made tenements the dominant dwelling form. — https://nyc.gov/html/records/pdf/govpub/4802nypl_woodstock_desig_rep.pdf and https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- Decline and rebuilding. In the 1930s much of the South Bronx was mostly Jewish, followed by urban decay in the 1960s–70s and revitalization in the 1980s–90s. Arson in the 1970s left most Morrisania residential structures seriously damaged or destroyed. — https://www.apartments.com/local-guide/woodstock-bronx-ny/ and https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- A single builder or developer for Woodstock: EMPTY.
+
+**Boundaries and streets**
+
+- Boundaries vary by source. One City-Data profile places it north of Mott Haven above 149th Street, east of Melrose at 3rd Avenue, south of Morrisania at 161st Street and west of Hunts Point at Bruckner Blvd. — https://www.city-data.com/forum/new-york-city/577039-nyc-neighborhood-profile-woodstock-bronx.html
+- Community board. Bronx Community Board 3 covers Bathgate, Claremont, Crotona Park East, Melrose, Morrisania and Woodstock. — https://www.nyc.gov/site/bronxcb3/about/about.page
+- Corridors. Buses run along main roads like Westchester and Prospect avenues. The 2 and 5 trains stop at the Jackson Avenue and Prospect Avenue stations. The Hub, at 149th Street and Melrose, Third and Willis Avenues, is the nearby commercial center. — https://www.homes.com/local-guide/bronx-ny/woodstock-neighborhood/ and https://homes.com/bronx-ny/neighborhood/melrose
+
+**Landmarks and parks**
+
+- NYPL Woodstock Branch, 761 East 160th Street. The Landmarks Preservation Commission held a public hearing on designation on January 13, 2009. It opened February 17, 1914 as the 61st Carnegie branch in New York City. McKim, Mead & White designed it. — https://www.nyc.gov/html/records/pdf/govpub/4802nypl_woodstock_desig_rep.pdf
+- Parks. St. Mary's Park and Bill Rainey Park are nearby, as is The Hub. Captain Rivera Playground, at 720–740 East 156th Street, has a public restroom built in 1961. — https://www.city-data.com/forum/new-york-city/577039-nyc-neighborhood-profile-woodstock-bronx.html and https://www.propertyshark.com/mason/Property/46337/720-740-E-156-St-Bronx-NY-10455/
+- Historic districts in Woodstock: EMPTY.
+
+**Known for**
+
+- The only items found were its status as a former village and the Carnegie library. A City-Data poster says many people label it Mott Haven, though the real name is Woodstock. The "known for" line is thin: EMPTY beyond this. — https://www.city-data.com/forum/new-york-city/577039-nyc-neighborhood-profile-woodstock-bronx.html
+
+**Anything that changes how the repair is done**
+
+- Mixed old and new stock. Expect hardwired old systems in pre-1968 walk-ups and possibly modern panels in recent condos like 600 East 156th Street. That is an inference from the building ages above.
+- Unit count and build date decide which law applies. Under MDL §50-a, 8+ unit buildings built or converted after 1968 are covered, while small Old Law tenements are not.
+- Check door closure and latch before replacing a panel (see the self-closing-door item above).
+- NYCHA complexes in adjacent Melrose run through development management. Whether access works that way in Woodstock itself: EMPTY.
+- Woodstock-specific weather, corrosion or street-level issues: EMPTY.
+
+## Wyckoff Heights, Brooklyn — /door-buzzer-repair-wyckoff-heights-brooklyn-ny (factory research, 2026-10-27)
+
+I ran out of searches before covering everything. Items marked EMPTY were not found. I did not find any Wyckoff Heights-specific buzzer data, such as HPD or 311 counts, DOB permits, Reddit threads or named buzzer-related businesses.
+
+### A. Door buzzer repair: neighborhood-specific facts
+
+- **Building types and entry situations**
+  - EMPTY for any source describing Wyckoff Heights entry or wiring systems directly.
+  - Forgotten New York describes Wyckoff Avenue near Myrtle as "handsome apartments, dating to the 1910s or earlier, with ground floor businesses." It also mentions a "more classic walkup apartment house" between Greene Ave and Bleecker St. These are stacked storefront-plus-apartment buildings. — https://forgotten-ny.com/2016/04/wyckoff-avenue-2016-bushwick-ridgewood-part-2/
+  - A rental listing at 293 Wyckoff Ave describes a "railroad style" apartment with a "separate entrance to the hallway of the building." — https://www.apartments.com/293-wyckoff-ave-brooklyn-ny-unit-3r/wvnsy4j/
+  - A listing at 287 Wyckoff Ave advertises a "virtual doorman" and LATCH smart locks on all doors. That is a newer smart-entry building on the same avenue. — https://www.apartments.com/wyckoff-avenue-brooklyn-ny-unit-3b/59s3cbq/
+  - The NYC planning document describes Bushwick generally as dominated by owner-occupied two- and three-family rowhouses on side streets. It says the city wants to protect that rowhouse character, while Broadway, Myrtle and Wyckoff avenues are rezoned for denser building. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/bushwick-neighborhood-plan-low-res.pdf?r=1
+- **Mathews flats (Ridgewood side)**
+  - The nearby Ridgewood landmark districts hold "Mathews Model Flats," built by the G.X. Mathews Company from 1908 to 1914. They are mostly three-story brick "new law" tenements. — https://a860-gpp.nyc.gov/downloads/nz806073z?locale=en
+  - Mathews built large air shafts and private bathrooms, with two families per floor. — https://a860-gpp.nyc.gov/downloads/t435gd87v?locale=en
+  - Caveat: these districts are in Ridgewood. The sources do not say they fall inside Wyckoff Heights. They are the closest documented example of the 1910s tenement stock that Forgotten NY also describes along Wyckoff Ave.
+- **Legal rules that shape repair priority (HMC, MDL, Admin Code)**
+  - MDL §50-a requires an intercom at the self-locking main door of Class A multiple dwellings built or converted after Jan 1, 1968 with eight or more apartments. The system must allow two-way speech and let the occupant release the door. Older buildings fall under the rule once tenants occupying a majority of apartments request it in writing. Once an intercom exists, a dead buzzer is treated as a hazardous violation. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+  - Brick Underground says the same for pre-1968 buildings: intercoms are required "if requested by a majority of tenants," at the tenants' expense. — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+  - Admin Code §25-151(g) sets the minimum acceptable system. It is a bell or buzzer, or a speaking and listening device, plus a return buzzer that releases the door lock. — https://hpdfiling.nyc/25-151-entrance-doors-locks-and-intercommunication-systems/
+  - The same section says previously installed devices in good condition may be accepted at the department's discretion. — https://hpdfiling.nyc/25-151-entrance-doors-locks-and-intercommunication-systems/
+  - Source conflict on thresholds: Seneca Security cites Admin Code §27-2045 and says the rule applies to most buildings with three or more units. Other sources say eight or more. Verify against the primary code before publishing a number. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+  - Seneca Security calls a broken intercom a class B violation, and Parker Custom Security calls it a Class B hazardous violation. — https://senecasecurity.com/learn/intercoms-systems-multi-tenant-buildings-nyc/ (see the Parker link above for the hazardous wording)
+  - A sample HPD violation text reads "properly repair the broken or defective bell buzzer system in the entrance," citing §27-2005. — https://hpdsigns.nyc/hpd-violations/
+- **Self-closing doors**
+  - HPD enforces self-closing door (SCD) rules by violation. When it issues an SCD violation it posts tenant notices telling tenants to report to the owner and then to 311. Local Law 71 of 2022 followed the Twin Parks fire. — https://home4.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-doors-program-report-fy25.pdf
+  - A buzzer repair visit often touches the door release and strike, so a door that won't self-close or self-lock is a related issue.
+- **LPC rules**
+  - LPC reviews most exterior changes to front and rear facades in historic districts. Ordinary repairs and maintenance need no permit. — https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+  - A swap of an exterior panel or door hardware in a landmarked building might need LPC review. That is my inference, not stated by the source.
+  - No source confirms any landmark district inside Wyckoff Heights. See section B.
+- **Local vendor claims (marketing, low reliability)**
+  - Abstract Enterprises has a Wyckoff Heights intercom page. It says it stocks parts for Aiphone, Comelit and Nutone, and mentions "Landmark district installation constraints" and "Co-op board documentation required." — https://www.abstractenterprisessecuritysystems.com/intercom-installation-wyckoff-heights-brooklyn-ny
+  - The same company's pages for other neighborhoods (Borough Park, Kensington, Vinegar Hill) carry identical text and a "Wyckoff Heights" subheading. The page looks templated and is not neighborhood evidence.
+  - Common failure causes claimed in those templates: corroded basement wiring, failed in-unit handsets and dead door-release mechanisms. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-borough-park-brooklyn-ny
+- **HPD violation counts, 311 complaints and DOB permits for Wyckoff Heights** — EMPTY.
+- **Reddit threads about buzzers in Wyckoff Heights** — EMPTY. My Reddit searches returned nothing relevant.
+- **Local news about buzzers or intercoms in Wyckoff Heights** — EMPTY.
+- **Named businesses or blocks where buzzers matter**
+  - EMPTY for any sourced buzzer-specific business or block.
+  - Context only: the commercial strip on Wyckoff Ave near Myrtle has ground-floor businesses under apartments. — https://forgotten-ny.com/2016/04/wyckoff-avenue-2016-bushwick-ridgewood-part-2/
+
+### B. Neighborhood history and character
+
+- Wyckoff Heights straddles the Bushwick (Brooklyn) and southwest Ridgewood (Queens) border. — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- It was urbanized from the late 19th century and is named for the Wyckoff family, who owned the land. Development moved from Brooklyn into Queens as parts of the farm were sold. — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- Residents were first mainly German, then Italian, and more recently Latino and Eastern European. ZIP codes are mostly 11237 and 11385. — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- A new park (now Maria Hernandez Park) was announced in 1890. In 1892 Queens property owners formed the Wyckoff Heights Improvement Association to lobby for water, sewer and gas. — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- Forgotten NY doubts the name's depth, wondering if "Wyckoff Heights" was coined by the hospital. It also says the Brooklyn–Queens line runs down the middle of Wyckoff Ave for about a mile. — https://forgotten-ny.com/2008/05/wyckoff-avenue-where-you-must-paint-fair/ and https://forgotten-ny.com/2016/04/wyckoff-avenue-2016-bushwick-ridgewood-part-2/
+- Ridgewood's dense building followed the 1894 electric trolley. The elevated train ("El") terminated at Myrtle and Wyckoff Avenues before its 1915 extension. — https://a860-gpp.nyc.gov/downloads/t435gd87v?locale=en
+- Gustave X. Mathews built and sold over 300 Ridgewood tenements between 1909 and 1912. — https://a860-gpp.nyc.gov/downloads/t435gd87v?locale=en
+- Because the street grid sat at a diagonal to the Arbitration Rock boundary, some houses were built across the county line, and their owners were sometimes taxed by both counties. — https://www.izeria.com/en/places/p-40u8ncln/Bushwick-Brooklyn
+- The city's geographic center is on Stockholm Street between Wyckoff and St. Nicholas Avenues. — https://theneighborhoods.substack.com/p/bushwick-brooklyn
+
+### C. Streets, transit and corridors
+
+- Wyckoff Avenue runs from Flushing Avenue southeast to Cooper Avenue. The stretch from Flushing to about Starr Street was still largely industrial in 2008, with lofts increasingly occupied by artists. — https://forgotten-ny.com/2008/05/wyckoff-avenue-where-you-must-paint-fair/
+- The Myrtle–Wyckoff Avenues station is served by the L and M trains at all times. Wyckoff Ave between Gates Ave and Eldert St forms the Brooklyn–Queens border. — https://en.wikipedia.org/wiki/Myrtle%E2%80%93Wyckoff_Avenues_station
+- Myrtle Avenue's Ridgewood BID runs from Wyckoff Avenue to Fresh Pond Road. — https://en.wikipedia.org/wiki/Ridgewood,_Queens
+- A public plaza was established at the Myrtle–Wyckoff transit hub. The city plan calls for mandatory affordable housing in new buildings on Broadway and on Myrtle and Wyckoff avenues. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/bushwick-neighborhood-plan-low-res.pdf?r=1
+- A 2019 DCP rezoning plan would allow high-density development along Bushwick, Myrtle and Wyckoff Avenues. — https://en.wikipedia.org/wiki/Bushwick_Avenue
+
+### D. Building stock, landmarks and parks
+
+- **Landmark districts:** EMPTY for any LPC historic district confirmed inside Wyckoff Heights.
+- **Nearby Ridgewood districts (not confirmed inside Wyckoff Heights):**
+  - Ridgewood North: 96 buildings from 1908 to 1914, roughly bounded by Forest Ave, Fairview Ave, Linden St and Woodbine St. — https://a860-gpp.nyc.gov/downloads/nz806073z?locale=en
+  - Ridgewood South: over 210 buildings, mostly three-story brick tenements. — https://a860-gpp.nyc.gov/downloads/pv63g0634?locale=en
+  - Ridgewood has three historic districts (North, South and Central). Exterior changes there must be LPC-approved and "in character." — https://qns.com/story/2018/09/29/apartment-houses-served-ridgewoods-foundation-neighborhood-way
+- **Wyckoff Heights Medical Center**
+  - It is at 374 Stockholm St, a 350-bed teaching and safety-net hospital. — https://en.wikipedia.org/wiki/Wyckoff_Heights_Medical_Center
+  - It was organized in 1887 as the German Hospital Society of Brooklyn and opened in 1899. It was renamed Wyckoff Heights Hospital after WWI. — https://en.wikipedia.org/wiki/Wyckoff_Heights_Medical_Center
+  - Wikipedia's neighborhood page also lists the former Wyckoff Heights Presbyterian Church at Harman St as a point of interest. — https://en.wikipedia.org/wiki/Wyckoff_Heights,_New_York_City
+- **Parks:** Maria Hernandez Park, with new turf and an adult fitness area planned in the city's Bushwick plan. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/bushwick-neighborhood-plan-low-res.pdf?r=1
+- **Nearby history:** the Vander Ende Onderdonk House (c. 1709) sits on the Bushwick–Ridgewood border, near the Arbitration Rock. — https://www.untappedcities.com/secrets-of-bushwick-brooklyn/
+- **Co-ops, high-rises and detached houses:** EMPTY.
+
+### E. Recent local news (security-adjacent)
+
+- **May 2026 ICE arrest and protest at Wyckoff Heights Medical Center**
+  - The NYPD said about 200 protesters gathered between Stanhope and Stockholm streets. Eight people were arrested and charged, and one got a summons. — https://www.fox5ny.com/news/8-arrested-after-protests-break-out-near-wyckoff-medical-center-brooklyn
+  - The NYPD said it had no involvement in the ICE operation. Councilmember Nurse disputed that. — https://abc7ny.com/post/protest-breaks-ice-arrests-man-wyckoff-heights-medical-center-bushwick-brooklyn/19028708/
+  - This is not about buzzers. Use it only as neighborhood context, if at all.
+- **Hospital security upgrades:** the new Pediatric Emergency Department includes upgraded security with cameras and card readers. — https://whmcny.org/news-events/
+- **Other hospital news:** the Relay overdose-prevention program expanded to the hospital in February 2026. — https://qns.com/2026/02/wyckoff-heights-medical-center-overdose-deaths/
+- **News on building security, package theft or entry systems in Wyckoff Heights:** EMPTY.
+- **Local Reddit discussion:** EMPTY.
+
+### F. What changes how buzzer repair is done here
+
+- Mixed stock on one avenue: pre-war storefront walk-ups likely have old wiring, and newer buildings have smart-lock or virtual-doorman entry. The listings above show both. I found no direct source on the wiring in either type.
+- Ground-floor storefronts mean the entry may be a separate residential door, as in the 293 Wyckoff listing. The buzzer panel and door release then serve only the upstairs units.
+- Building age and unit count decide who pays and how urgent the repair is (see the legal bullets in section A).
+- Before touching an exterior panel, confirm the building's landmark status with LPC. None is confirmed in Wyckoff Heights, but Ridgewood's districts are adjacent.
+- The hospital area (Stockholm St and Wyckoff Ave) is the dominant local landmark. I found no information on buzzer demand there.
