@@ -485,8 +485,8 @@ LIVE | door-buzzer-repair-westchester-square-bronx-ny | Door Buzzer Repair | Wes
 LIVE | door-buzzer-repair-williamsbridge-bronx-ny | Door Buzzer Repair | Williamsbridge, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-wingate-brooklyn-ny | Door Buzzer Repair | Wingate, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-27T03:20Z factory | door-buzzer-repair-woodstock-bronx-ny | Door Buzzer Repair | Woodstock, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-27T03:20Z factory | door-buzzer-repair-wyckoff-heights-brooklyn-ny | Door Buzzer Repair | Wyckoff Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-27T03:20Z factory | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | door-buzzer-repair-wyckoff-heights-brooklyn-ny | Door Buzzer Repair | Wyckoff Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+REBUILD | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-bergen-beach-brooklyn-ny | Fire Alarm Installation | Bergen Beach, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-bronx-river-bronx-ny | Fire Alarm Installation | Bronx River, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-brooklyn-chinatown-brooklyn-ny | Fire Alarm Installation | Brooklyn Chinatown, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -495,7 +495,7 @@ BUILDING 2026-10-27T03:20Z factory | fire-alarm-installation-cadman-plaza-brookl
 REBUILD | fire-alarm-installation-claremont-bronx-ny | Fire Alarm Installation | Claremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-concourse-bronx-ny | Fire Alarm Installation | Concourse, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-27T03:20Z factory | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+REBUILD | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-edgewater-park-bronx-ny | Fire Alarm Installation | Edgewater Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-fieldston-bronx-ny | Fire Alarm Installation | Fieldston, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-fiske-terrace-brooklyn-ny | Fire Alarm Installation | Fiske Terrace, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
