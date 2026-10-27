@@ -483,7 +483,7 @@ BUILDING 2026-10-27T00:14Z factory | door-buzzer-repair-weeksville-brooklyn-ny |
 BUILDING 2026-10-27T00:14Z factory | door-buzzer-repair-westchester-heights-bronx-ny | Door Buzzer Repair | Westchester Heights, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-westchester-square-bronx-ny | Door Buzzer Repair | Westchester Square, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 BUILDING 2026-10-27T00:14Z factory | door-buzzer-repair-williamsbridge-bronx-ny | Door Buzzer Repair | Williamsbridge, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-27T00:14Z factory | door-buzzer-repair-wingate-brooklyn-ny | Door Buzzer Repair | Wingate, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-wingate-brooklyn-ny | Door Buzzer Repair | Wingate, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-woodstock-bronx-ny | Door Buzzer Repair | Woodstock, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-wyckoff-heights-brooklyn-ny | Door Buzzer Repair | Wyckoff Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-allerton-bronx-ny | Fire Alarm Installation | Allerton, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
