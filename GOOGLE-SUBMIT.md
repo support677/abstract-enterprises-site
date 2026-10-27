@@ -167,7 +167,7 @@ Run 2026-10-26 evening (scheduled, 00:52 UTC Oct 27, Claude in Chrome, account /
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-washington-heights-manhattan-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-greenpoint-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-tottenville-staten-island-ny | INDEXED 2026-10-26 (API inspect)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hunts-point-bronx-ny | QUEUED (quota hit 2026-10-26 twice, retry next run)
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hunts-point-bronx-ny | REQUESTED 2026-10-27
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-bloomfield-staten-island-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-financial-district-manhattan-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-dumbo-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
@@ -180,9 +180,9 @@ Run 2026-10-26 evening (scheduled, 00:52 UTC Oct 27, Claude in Chrome, account /
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-midtown-manhattan-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-stapleton-staten-island-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-downtown-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flushing-queens-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-flushing-queens-ny | REQUESTED 2026-10-27
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-fordham-bronx-ny | INDEXED 2026-10-26 (API inspect)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-cobble-hill-brooklyn-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-cobble-hill-brooklyn-ny | REQUESTED 2026-10-27
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-astoria-queens-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-throgs-neck-bronx-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-todt-hill-staten-island-ny | INDEXED 2026-10-26 (API inspect)
@@ -200,32 +200,32 @@ Run 2026-10-26 evening (scheduled, 00:52 UTC Oct 27, Claude in Chrome, account /
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-dumbo-brooklyn-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-jackson-heights-queens-ny | INDEXED 2026-10-26 (API inspect)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-morris-park-bronx-ny | INDEXED 2026-10-26 (API inspect)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-west-brighton-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-midtown-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-williamsburg-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island-city-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-fordham-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-st-george-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-financial-district-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-park-slope-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-upper-west-side-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bay-ridge-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-astoria-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-grymes-hill-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-battery-park-city-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ditmas-park-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-east-side-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-park-slope-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-forest-hills-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-douglaston-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-country-club-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-great-kills-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-riverdale-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-todt-hill-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-greenwich-village-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-flushing-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-riverdale-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-new-dorp-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/soundbar-installation-west-brighton-staten-island-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-midtown-manhattan-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-williamsburg-brooklyn-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-long-island-city-queens-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-fordham-bronx-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-st-george-staten-island-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-financial-district-manhattan-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-park-slope-brooklyn-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-upper-west-side-manhattan-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-bay-ridge-brooklyn-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-astoria-queens-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-grymes-hill-staten-island-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-battery-park-city-manhattan-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-ditmas-park-brooklyn-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-upper-east-side-manhattan-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-park-slope-brooklyn-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-forest-hills-queens-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-douglaston-queens-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-country-club-bronx-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-great-kills-staten-island-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-riverdale-bronx-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-todt-hill-staten-island-ny | INDEXED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-greenwich-village-manhattan-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-flushing-queens-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-riverdale-bronx-ny | REQUESTED 2026-10-27
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-new-dorp-staten-island-ny | QUEUED (quota hit 2026-10-27, retry next run)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-upper-west-side-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-park-slope-brooklyn-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-astoria-queens-ny | QUEUED
