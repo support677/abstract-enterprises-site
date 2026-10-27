@@ -26,6 +26,8 @@ Run 2026-10-26 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 Run 2026-10-26 evening (scheduled, 00:52 UTC Oct 27, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-27T00:52:39Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2498 QUEUED URLs in 5 batches of up to 500: all 200. Inspected fiber-optic hunts point (Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at fiber-optic hunts point.
 
+Run 2026-10-27 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 17 marked indexed (browser inspection), 2502 still QUEUED. Google showed "Quota Exceeded" on the 12th (cat6-repair new dorp), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
