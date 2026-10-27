@@ -21,3 +21,4 @@ UTC time | cost | summary
 2026-10-26T18:02Z | $0.00 | (factory) nothing to do
 2026-10-26T21:02Z | $0.00 | (factory) nothing to do
 2026-10-27T00:25Z | $19.85 | (factory) door-buzzer-repair-pelham-parkway-bronx-ny $1.02; door-buzzer-repair-pelham-gardens-bronx-ny $1.30; door-buzzer-repair-south-williamsburg-brooklyn-ny $1.27; door-buzzer-repair-stuyvesant-heights-brooklyn-ny $1.11; door-buzzer-repair-prospect-lefferts-gardens-brooklyn-ny $1.23; door-buzzer-repair-riv
+2026-10-27T03:32Z | $21.17 | (factory) door-buzzer-repair-wakefield-bronx-ny $1.20; door-buzzer-repair-unionport-bronx-ny $1.00; door-buzzer-repair-university-heights-bronx-ny $0.83; door-buzzer-repair-sea-gate-brooklyn-ny $1.77; door-buzzer-repair-westchester-square-bronx-ny $1.15; door-buzzer-repair-wingate-brooklyn-ny $1.80; door-buzz
