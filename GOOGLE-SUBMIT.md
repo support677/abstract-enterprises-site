@@ -2708,3 +2708,4 @@ Run 2026-10-26 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-stuyvesant-heights-brooklyn-ny | QUEUED
 2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-prospect-lefferts-gardens-brooklyn-ny | QUEUED
 2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-riverdale-bronx-ny | QUEUED
+2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-sheepshead-bay-brooklyn-ny | QUEUED
