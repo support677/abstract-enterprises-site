@@ -215,6 +215,22 @@ TODO | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Gr
 TODO | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | mag-lock-installation-bronx | Mag Lock Installation | Bronx | up /mag-lock-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | mag-lock-installation-staten-island | Mag Lock Installation | Staten Island | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-nassau-county | Mag Lock Installation | Nassau | up /mag-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | mag-lock-installation-suffolk-county | Mag Lock Installation | Suffolk | up /mag-lock-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | mag-lock-installation-westchester-county | Mag Lock Installation | Westchester | up /mag-lock-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | mag-lock-installation-rockland-county | Mag Lock Installation | Rockland | up /mag-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | mag-lock-installation-orange-county | Mag Lock Installation | Orange | up /mag-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | mag-lock-installation-putnam-county | Mag Lock Installation | Putnam | up /mag-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | mag-lock-installation-dutchess-county | Mag Lock Installation | Dutchess | up /mag-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | mag-lock-installation-ulster-county | Mag Lock Installation | Ulster | up /mag-lock-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 
 ## REBUILD (Anwar 2026-10-17: existing pages Google reported 'Crawled - currently not indexed' on 2026-10-17 because they are near-duplicate templates. Rebuild each IN PLACE to the full blueprint, same URL. Taken BEFORE TODO lines - see DAILY-RUN.md 'Rebuild lines'.)
 LIVE REBUILD | apartment-building-security-camera-installation-brooklyn | Apartment Building Security Camera Installation | Brooklyn | up /apartment-building-security-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
