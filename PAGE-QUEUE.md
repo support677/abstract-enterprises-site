@@ -473,7 +473,7 @@ LIVE | door-buzzer-repair-silver-beach-bronx-ny | Door Buzzer Repair | Silver Be
 LIVE | door-buzzer-repair-south-williamsburg-brooklyn-ny | Door Buzzer Repair | South Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-stuyvesant-heights-brooklyn-ny | Door Buzzer Repair | Stuyvesant Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-the-hub-bronx-ny | Door Buzzer Repair | The Hub, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-27T00:14Z factory | door-buzzer-repair-throggs-neck-bronx-ny | Door Buzzer Repair | Throggs Neck, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+LIVE | door-buzzer-repair-throggs-neck-bronx-ny | Door Buzzer Repair | Throggs Neck, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-tremont-bronx-ny | Door Buzzer Repair | Tremont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-unionport-bronx-ny | Door Buzzer Repair | Unionport, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-university-heights-bronx-ny | Door Buzzer Repair | University Heights, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
