@@ -2703,3 +2703,4 @@ Run 2026-10-26 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-parkchester-bronx-ny | QUEUED
 2026-10-26 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-park-slope-brooklyn-ny | QUEUED
 2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-pelham-parkway-bronx-ny | QUEUED
+2026-10-27 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-pelham-gardens-bronx-ny | QUEUED
