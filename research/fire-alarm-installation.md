@@ -781,3 +781,301 @@ Several of the angles you asked for returned nothing. Those bullets say EMPTY. I
 **Not found**
 - **Local Reddit discussion on entry systems or home technology: EMPTY.**
 - **Non-NYCHA news on building security or entry systems: EMPTY.**
+
+## Edgewater Park, Bronx — /fire-alarm-installation-edgewater-park-bronx-ny (factory research, 2026-10-27)
+
+I ran 8 searches. Items marked EMPTY had no usable result.
+
+### A. Fire alarm installation angles specific to Edgewater Park
+
+- The co-op covers 55 acres and 675 single-family homes with about 3,000 residents. Wikipedia gives 60 acres, so use "roughly 55–60 acres". The market is single-family bungalows and two-story homes, not multi-unit buildings with common-area panels. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf
+- The community began as a summer bungalow colony and was adapted for year-round living. Structures sit right next to one another on narrow streets. The report says this tightness inhibits standard resiliency measures. It is a fair inference that it also limits wiring routes and device spacing, but the source doesn't say so. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf
+- Summer cottages and bungalows went up in the 1920s and were winterized for year-round use during the Great Depression. Expect old conversions with unknown wiring and added-on rooms. That is my inference, not the source's. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf
+- The co-op is served by the City's sanitation and water systems, but it maintains a private sewage network and a volunteer fire company. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf
+- The Edgewater Park Volunteer Firehouse is the only volunteer firehouse still operating in the Bronx. Its specialized fleet fits the narrow streets and alleyways where FDNY trucks can't. This is the strongest local reason for working smoke and CO alarms and early monitored notification. — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+- The volunteer company runs small apparatus. One unit is described as designed for the extremely narrow, winding streets of the waterfront response area. Engine 4, a brush rapid attack truck, was delivered in March 2025. — https://www.unyquefiretrucks.com/New-York-/VFDNY/Edgewater-Park and https://vfanyc.org/edgewater-park-volunteer-hose-company-no-1/
+- The firehouse is itself an alarm-work site. A fundraising and project page says funding covers a new fire alarm system, electrical/HVAC upgrades, hurricane-proof windows and two generators. NYS HCR announced a $2.5M resiliency construction project so the firehouse and community center, also a polling place, can serve as a storm shelter. — https://www.unyquefiretrucks.com/New-York-/VFDNY/Edgewater-Park and https://hcr.ny.gov/news/new-york-state-homes-and-community-renewal-announces-25-million-construction-project-bronx
+- Flood exposure affects where devices and panels can go. DCP said about 111 Edgewater Park homes are in the flood zone. Sandy left some waterfront homes with up to five feet of flooding. Low-mounted equipment and basement wiring are the risk. — https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/ and https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+- A zoning text amendment adopted in October 2013 changed zoning rules so new and existing buildings can add flood protection. The co-op voted to measure building height from the design flood elevation while keeping its 25-foot limit. Elevated homes change how far runs go and where panels and devices can be mounted. That is my inference. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf and https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/
+- Entry situation: there is only one road in. Listings mention an entrance security booth, cameras and foot patrols. Schedule technicians through the gate and tell residents which vehicles to expect. Check with the co-op for its own rules on contractors. — https://www.apartments.com/local-guide/throgs-neck-edgewater-park-bronx-ny/ and https://www.thisoldhudsonrealestate.com/homes/31-Edgewater-Park/Bronx/NY/10465/177126105/
+- Past fire in the community: a two-story home fire on Edgewater Park rose to two alarms on a Monday morning. YouTube titles date it to 3/27/2023 and give the address as 88D Edgewater Park. News12 said the cause was unclear. — https://bronx.news12.com/fire-officials-two-alarm-fire-rips-through-edgewater-park-home and https://www.youtube.com/watch?v=rZW6k9TZn1o
+- NYC detector law, general and not Edgewater-specific:
+  - Every dwelling unit, including one- and two-family homes, needs CO alarms if fossil-fuel equipment is in or next to the building.
+  - HPD requires CO detectors in non-owner-occupied one- and two-family homes with fossil fuel devices.
+  - CO alarms must be within fifteen feet of the primary entrance to each sleeping room.
+  - This matters for basement-entry rentals in the co-op. — https://fdnysmart.org/wp-content/uploads/2015/04/08-smoke-and-cm-4-page-brochure_for-web.pdf and https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- Sales rule: NY law requires functioning CO and smoke detectors in every one- or two-family dwelling, co-op or condo constructed or offered for sale. This is a sales-trigger angle, because Edgewater Park has steady co-op listings (20 co-ops for sale at one point). — https://support.homecoin.com/hc/en-us/articles/9047998445459-New-York-Carbon-Monoxide-and-Smoke-Detector-Installation-Requirement and https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/co-ops-for-sale/
+- Competitor note: Abstract Enterprises has an Edgewater Park fire-alarm page. It is generic, it talks about pre-war apartments, NYCHA and the Grand Concourse, none of which fit Edgewater Park. Don't copy its claims. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-edgewater-park-bronx-ny
+- HPD violations for Edgewater Park — EMPTY. The area is private co-op single-family housing, and I found no data.
+- 311 complaints for Edgewater Park — EMPTY.
+- DOB permits and fire alarm filings for Edgewater Park — EMPTY. I did not query NYC Open Data.
+- LPC rules or a landmark district in Edgewater Park — EMPTY. No landmark designation turned up.
+- Reddit threads about Edgewater Park fire or alarms — EMPTY. Search returned no Reddit results. Nextdoor has an Edgewater Park page, but the visible alerts were about unrelated streets such as E 167th St. — https://nextdoor.com/neighborhood/edgewaterparkny--bronx--ny/
+- Businesses and blocks where alarms matter:
+  - A community deli is listed in the amenities.
+  - The community center is another amenity.
+  - The DCP report says the co-op is exclusively residential save for a single commercial use. The sentence is cut off in the results, so the commercial use is unconfirmed.
+  - The only named streets in Edgewater sources are Main Street, 5 Avenue and Adee Avenue (map labels).
+  - Sources: https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/co-ops-for-sale/ and https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_map.pdf
+
+### B. History and development
+
+- George T. Adee built a mansion on the land in 1856. In 1923 the land was leased to Richard W. Shaw Sr., an Irish immigrant who invited church youth to camp there; it became Edgewater Camp. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- Campsites turned into bungalows, with a full-fledged bungalow area around 1918. After World War I the community was divided into sections A, B and C, with D and E added later. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- The community became a co-op in 1988. The DCP report agrees (residents who rented the land bought it from the primary leaseholder). A Substack source says 1986, so use 1988. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- Dates conflict across sources, so cite carefully:
+  - Wikipedia says Shaw leased in 1923.
+  - A humor-style page says Adee's family sold to Shaw in 1910.
+  - Vendor pages say 1910 was "earliest resident-owned co-op". I didn't verify that claim.
+  - Sources: https://crackedeggstudios.com/studio/state-of-the-communion and https://www.abstractenterprisessecuritysystems.com/access-control-installation-edgewater-park-bronx-ny
+- Shaw let church groups, Boy Scouts and city workers pitch tents and build tarp-covered cottages. Many became year-round homes in the Great Depression. — https://theneighborhoods.substack.com/i/143196229/edgewater
+- The volunteer fire department was established in 1922. The City Reporter says it celebrates its 100th anniversary in 2022. A city-neighborhoods page says "mid-century", which conflicts. Use 1922. — https://www.nycfire.net/forums/threads/fdny-and-nyc-firehouses-and-fire-companies-2nd-section.50639/page-168 and https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+
+### C. Streets, corridors, geography
+
+- The community is bounded by the Throgs Neck Expressway to the south and west, Weir Creek to the north and Eastchester Bay to the east. — https://cityneighborhoods.nyc/park-of-edgewater
+- Throggs Neck is Bronx Community District 10, ZIP 10465, and is patrolled by the 45th Precinct. — https://en.wikipedia.org/wiki/Throggs_Neck
+- Most streets are unmapped and without sidewalks. Named streets seen in sources include Main Street, 5 Avenue, Adee Avenue, Alden Park, Magnolia Place and Beech Place. The map and listings show these, and the abstractenterprises page lists others I couldn't verify. Pennyfield Avenue (Throggs Neck) is outside the co-op. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf and https://www.splicetoday.com/writing/take-me-to-throgs
+- Commercial corridors outside the gate (Pennyfield Ave, Throggs Neck Blvd, Tremont Ave) — EMPTY for fire alarm specifics.
+- Transit: an express bus picks up and drops off in the community, plus local buses. — https://www.thisoldhudsonrealestate.com/homes/31-Edgewater-Park/Bronx/NY/10465/177126105/
+
+### D. Building stock
+
+- One listing describes a "bungalow-style" 2-bedroom co-op. Others describe a 1930 ranch-style home (built 1930) and a unit with a bay window, deck and backyard. — https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/co-ops-for-sale/ and https://www.zillow.com/homedetails/189D-Edgewater-Park-D-Bronx-NY-10465/464378832_zpid/
+- Address format: unit letters A–D after a number (for example 64A, 88D), matching sections A–E. Homes with letter suffixes appear to be separate cottages. Treat that as an inference. — https://www.redfin.com/neighborhood/209010/NY/New-York/Edgewater-Park
+- The median listing price for single-story homes was $335K. The Redfin listing page for Edgewater Park shows data as of Dec 2025. — https://www.redfin.com/neighborhood/209010/NY/New-York/Edgewater-Park/single-story
+- A city-neighborhoods page says the stock includes bungalows, shingled cottages, and later brick rowhouses. It is not a rigorous source. Wikipedia and DCP describe single-family homes, so I wouldn't promise rowhouses. — https://cityneighborhoods.nyc/park-of-edgewater
+- Landmark districts, walk-ups and high-rises: EMPTY. None found in Edgewater Park.
+
+### E. Parks, landmarks, and what it's known for
+
+- Amenities include two private beaches, basketball courts, boat mooring, parks and a volunteer fire department. — https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/co-ops-for-sale/
+- It is jokingly called the "Bronx Riviera", and life centers on the firehouse. — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+- The volunteer department is one of nine in NYC. The community holds a Ragamuffin parade and a Labor Day Olympics with a 100-year tradition. The fire department also holds an annual Memorial Day parade. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- Nearby landmarks in Throggs Neck: Fort Schuyler, built between 1833 and 1851, and Ferry Point Park (413.8 acres). Pelham Bay Park is across Weir Creek. — https://www.splicetoday.com/writing/take-me-to-throgs, https://en.wikipedia.org/wiki/Ferry_Point_Park and https://cityneighborhoods.nyc/park-of-edgewater
+- Resident profile: many residents are firefighters, police officers and city workers (vendor claim). A neighborhood page also says many residents served as firefighters, police officers, or city workers. Useful tone for fire-safety copy. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-edgewater-park-bronx-ny and https://cityneighborhoods.nyc/park-of-edgewater
+
+### F. Recent news, security and tech
+
+- The City reported (June 2022) that the volunteer firehouse was getting state funding for upgrades years after they were promised. The funding had been at risk that January. — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+- 2010 fair-housing lawsuit: the Fair Housing Justice Center sued Edgewater Park and Silver Beach Gardens in February 2010. The settlement abolished the three-owner reference rule (the Wikipedia reference title mentions this). Avoid this topic on the service page. — https://ecbawm.com/news/ecbawm-settles-racial-housing-discrimination-case-against-bronx-cooperative/
+- Access systems: gate and booth security with cameras and foot patrols come from listings. Smart-home and intercom details for individual homes — EMPTY.
+- 2026 news about Edgewater Park fire or building security — EMPTY. One "guide" article (phdns.latahcountyid.gov) is unreliable. It describes Hudson River views and Westchester Avenue access, which don't fit this location. Don't use it.
+
+### G. What would change how installation is done here
+
+- Mostly one- and two-story single-family homes. Expect combination smoke/CO alarms (interconnected or hardwired) rather than commercial addressable panels. Commercial panels are for the deli, community center and firehouse.
+- The volunteer fire company has no FDNY-style apparatus, so notification speed and central-station dispatch routing matter. I could not confirm how Edgewater Park alarm signals reach the volunteer department. EMPTY.
+- Flood zone: mount equipment above the design flood elevation where possible, and use sealed conduit and corrosion-resistant hardware in bay-edge homes. A vendor page recommends 316 stainless hardware and sealed conduit for flood-zone work (https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-edgewater-park-bronx-ny). Treat that as vendor advice.
+- Co-op approval for alterations: DCP says there is an active co-op board that administers bylaws. Whether it must approve alarm work is EMPTY. Confirm with the co-op before promising anything. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/summary-report-edgewater-park.pdf?r=1
+
+## Fieldston, Bronx — /fire-alarm-installation-fieldston-bronx-ny (factory research, 2026-10-27)
+
+**Sections 1–3 are about fire alarm installation in Fieldston. Sections 4–9 are general neighborhood background.**
+
+### 1. Fieldston-specific fire alarm angles
+
+**Building types, entry and wiring**
+- The Fieldston Historic District is made up of single-family houses and related outbuildings. It contains 257 houses and related structures on winding tree-lined streets with rock outcroppings. — https://culturenow.org/site/e0395126-3bcf-4b1f-8b60-e92830130a5c
+- Most of these houses are probably NYC Group R-3 (one- and two-family homes), though that classification is my inference. For R-3, a central fire alarm system is typically not required, but smoke and carbon monoxide alarms may still be required. This makes a house-by-house smoke/CO/interconnected-alarm job the likely service here, not a full FDNY panel job. — https://www.builtengineers.com/post/when-are-fire-alarm-systems-required-in-residential-buildings
+- Where a building does need a fire alarm system, plans go to the FDNY Bureau of Fire Prevention, and a Project Authorization is issued before installation. — https://www.builtengineers.com/post/when-are-fire-alarm-systems-required-in-residential-buildings
+- The houses are old and architecturally varied, so retrofit wiring is a real concern. The district master plan calls Fieldston a rare, largely intact planned suburban community. Styles include Colonial Revival, Craftsman, Medieval, Tudor, Mediterranean and formal modernist houses. — https://www.nypap.org/preservation-history/fieldston-historic-district/ and https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/01_20_09.pdf
+- Examples of early-era houses:
+  - A 1918–19 Dutch Colonial Revival at 331 West 250th Street (Baum).
+  - A Tudor Revival at 4401–4403 Waldo Avenue (1913, with additions in 1919 and 1927).
+  - A 1918 one-family home at 4680 Fieldston Road.
+
+  The sources give construction years but say nothing about wall construction or wiring. — https://en.wikipedia.org/wiki/Fieldston,_Bronx and https://www.citylandnyc.org/tag/fieldston-historic-district/
+- Streets were originally private. By 1914 there were three and a half miles of privately owned streets, maintained by assessments on Fieldston homeowners. Whether they are still private today is not confirmed in my results. — https://www.flickr.com/photos/emilio_guerra/6803416510
+- Wikipedia says the neighborhood is owned by a private association. — https://en.wikipedia.org/wiki/Riverdale,_Bronx
+- Apartment-style stock along the edges differs from the houses:
+  - The Fieldston, 6035 Broadway, is a six-story, 103-unit post-war co-op built in 1961, with a doorman and live-in super. — https://www.cityrealty.com/nyc/riverdale/the-fieldston-6035-broadway/61624
+  - 5500 Fieldston Road ("Fieldstondale") is a 9-story, 188-unit co-op completed in 1960. Redfin and Homes.com place it in North Riverdale, so it is not strictly inside Fieldston. — https://www.homes.com/building/5500-fieldston-rd-bronx-ny/b-vvydkh7y96h0y/
+  - Nybits lists these Fieldston co-ops: Greystone Park (3840 Greystone Ave), 255 Fieldston Terrace and 3235 Cambridge Ave, all post-war mid-rise elevator buildings. — https://www.nybits.com/apartments/bronx_coop_buildings.html
+  - These post-war co-ops are the likeliest Fieldston buildings to have common-area fire alarm panels. That is my inference.
+
+**Landmarks (LPC) rules that touch an install**
+- LPC permits are required for restoration, alteration, reconstruction, demolition or new construction that affects the exterior of a building in a historic district. Ordinary repairs such as replacing broken glass, matching repaints and recaulking do not need a permit. — https://fieldstonhistoricdistrict.com/fpoa
+- LPC says most exterior changes to front and rear facades in historic districts require LPC review. — https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- Practical implication (my inference): exterior horn/strobes, conduit runs, roof or exterior communicator antennas, or any change to a visible facade need an LPC check. Interior-only wiring was not addressed in the sources I found.
+- A Fieldston master plan exists. It was proposed in 2009 to let LPC staff approve certain alterations that meet its requirements. LPC's 2023 rule amendments list Fieldston work including additions, outbuildings, window replacement, heating, venting and air conditioning, and work on significant landscape improvements. Fire alarm devices are not named. — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/01_20_09.pdf and https://nyc.gov/assets/lpc/downloads/pdf/Rules/LPC_Proposed_Miscellaneous_Rule_Amendments_Calendared_4-18-23_FINAL.pdf
+- LPC does not regulate mature trees in Fieldston because it is a Special Natural Area, where landscape changes need City Planning review. This may matter for trenching to outbuildings or detached garages (my inference). — https://www.nypap.org/preservation-history/fieldston-historic-district/
+- LPC staff may issue permits for new work while a Summons is in effect if the work corrects a hazardous condition. — https://irp-cdn.multiscreensite.com/8ec2d52b/files/uploaded/Rules%20of%20the%20NYC%20Landmarks%20Preservation%20Commission_01.22.2019.pdf
+
+**NYC smoke/CO and HPD rules**
+- For non-owner-occupied one- and two-family homes, HPD requires at least one approved, operational detector per dwelling unit, including a CO detector within 15 feet of the entrance to each sleeping room. — https://hpdsigns.nyc/smoke-and-carbon-monoxide-detectors-nyc/
+- CO alarms need an end-of-life alarm, and owners must replace detectors at the end of their useful life. — https://hpdsigns.nyc/smoke-detecting-devices-notice-28-rcny-12-01/
+- Class A multiple dwellings must replace a detector within 30 days if it fails within a year of installation due to a defect. — https://hpdsigns.nyc/smoke-detecting-devices-notice-28-rcny-12-01/
+
+**Local news**
+- News 12 reported a fire at 461 W 238th St in Fieldston that took 12 units and 60 firefighters. It started on the first floor just before 6 a.m. A resident woke minutes before his alarm to smoke in his room and had to wake his roommates, who were all asleep. No injuries were reported. The article is about 15 months old. It mentions no alarm sounding, and 238th Street is at the district's southern edge, so treat the location as "Fieldston per News 12." — https://bronx.news12.com/fdny-house-fire-in-fieldston-takes-crew-of-60-to-extinguish
+- News 12 also reported on a vacant, boarded-up Riverdale house at 5501 Palisade Ave. More than 100 firefighters responded. Construction openings let fire move between floors, and there was fire in the basement, first floor, second floor and attic. It is in Riverdale, not Fieldston, and is about 10 months old. — https://bronx.news12.com/fdny-battles-flames-shooting-out-of-riverdale-home
+
+**Competing local pages**
+- Abstract Enterprises has a templated "Fire Alarm Installation Fieldston Bronx NY" page. Its content is generic Bronx copy, such as Grand Concourse co-ops and Art Deco buildings, and nothing in it is Fieldston-specific. A page built on landmarked houses and private streets would stand apart. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-fieldston-bronx-ny.html
+
+**Not found**
+- HPD violations, 311 complaints and DOB permits specific to Fieldston — EMPTY
+- Reddit threads about Fieldston fire alarms or security — EMPTY. My searches returned no Reddit results.
+- Named local fire alarm businesses and specific blocks where alarms matter — EMPTY
+
+### 2. Schools and institutions (fire alarm relevance not documented)
+- Fieldston is home to two of the three "Hill Schools": Horace Mann School and Ethical Culture Fieldston School. Manhattan University sits on Manhattan College Parkway, the southern boundary. Institutional fire alarm specifics — EMPTY. — https://en.wikipedia.org/wiki/Fieldston,_Bronx
+
+### 3. Home technology and entry systems
+- Fieldston-specific data on intercoms, smart-home use or AV — EMPTY. The "near-me-services" pages with reviews for Fieldston are templated and I did not use them. — EMPTY
+
+### 4. History and development
+- Joseph Delafield bought more than 250 acres in 1829, set up a small lime quarry and built a family vacation house. — https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/
+- Interest grew after the IRT subway reached West 242nd Street in 1908, and Delafield's heirs decided to develop. They first sold nine acres to Teachers College of Columbia University (now Horace Mann School) at West 246th Street. — https://www.flickr.com/photos/emilio_guerra/6803416510
+- Civil engineer Albert E. Wheeler laid out streets and utilities, including water, gas, sewers and later electricity. He consulted Frederick Law Olmsted and James R. Croes to build a winding-road layout that used the natural topography. The layout was finalized in 1914. — https://artsandculture.google.com/asset/fieldston-historic-district/HwFgnJJkxEd8YQ?hl=en
+- By the early 1920s only 80 lots had been sold, and the Delafield Estate decided to sell the remaining land. — https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/
+- Residents formed the Fieldston Property Owners Association to draft design guidelines. These included an approved-architect list (Julius Gregory, Dwight James Baum) and required picturesque revival styles. — https://artsandculture.google.com/asset/fieldston-historic-district/HwFgnJJkxEd8YQ?hl=en
+- In 1938, deed restrictions were expiring, so residents petitioned City Planning for a "G" zone to permanently bar apartment buildings. — https://artsandculture.google.com/asset/fieldston-historic-district/HwFgnJJkxEd8YQ?hl=en
+- The sources conflict on the name's origin. Wikipedia and the Historic Districts Council (HDC) say it comes from a family estate in Ireland. CityNeighborhoods.nyc says Yorkshire, so use "Ireland" or leave it out. — https://en.wikipedia.org/wiki/Fieldston,_Bronx, https://6tocelebrate.org/site/6-ploughman-s-bush-building/ and https://cityneighborhoods.nyc/fieldston
+
+### 5. Main streets and commercial corridors
+- Wikipedia gives the boundaries as Manhattan College Parkway to the south, Henry Hudson Parkway to the west, 250th Street to the north and Broadway to the east. — https://en.wikipedia.org/wiki/Fieldston,_Bronx
+- Streets named in the district description include West 242nd to West 252nd Street, east of Delafield Avenue through Tibbett Avenue. — https://www.riverdalenature.org/fieldston-historic-district
+- Broadway is the apartment and retail edge. Listings there include 6035, 6115–6119, 6125 and 6141 Broadway. Apartments.com lists a Broadway Retail center 0.7 miles away. A named commercial strip with specific businesses — EMPTY. — https://www.apartments.com/building/the-fieldston-bronx-ny/v0r5j9d/
+- The Van Cortlandt Park–242nd Street station (1 train) is about one block from 6035 Broadway. — https://www.cityrealty.com/nyc/riverdale/the-fieldston-6035-broadway/61624
+
+### 6. Building stock and landmarks district
+- Fieldston Historic District: LPC voted unanimously to designate it on January 10, 2006. The full Council approved it April 26, 2006, after the Land Use Committee rejected discrimination allegations. — https://www.citylandnyc.org/landmarks-designates-fieldston-historic-district/ and https://www.citylandnyc.org/tag/fieldston-historic-district/
+- The designation was contentious. It inspired new rules to make it easier for owners to get LPC approval for alterations. — https://www.nypap.org/preservation-history/fieldston-historic-district/
+- Wikipedia says most of the neighborhood is in the district. I did not use Grokipedia's "50 acres" figure because it conflicts with the 140-acre figure from other sources. — https://en.wikipedia.org/wiki/Fieldston,_Bronx
+- Eras and types:
+  - 1910s–1920s detached revival-style houses (see section 1).
+  - Post-war elevator co-ops (1960–62) along Broadway and Fieldston Road.
+  - Walk-ups: nybits lists 256 Fieldston Terrace as a mid-twentieth-century low-rise walk-up, labeled Riverdale rather than Fieldston. — https://www.nybits.com/apartments/bronx_coop_buildings.html
+- A 2015 proposal for three new free-standing homes in the district met wide community opposition. — https://www.citylandnyc.org/tag/fieldston-historic-district/
+
+### 7. Parks and landmarks
+- Van Cortlandt Park lies across Broadway. East-facing apartments look over the park, which holds the Van Cortlandt Mansion, a golf course and riding stables. — https://www.cityrealty.com/nyc/riverdale/the-fieldston-6035-broadway/61624
+- Wave Hill and Riverdale Park are within 3.1 miles. — https://www.apartments.com/6115-6119
+
+## Fiske Terrace, Brooklyn — /fire-alarm-installation-fiske-terrace-brooklyn-ny (factory research, 2026-10-27)
+
+**Part 1: Fire alarm angles specific to Fiske Terrace**
+
+*Building types and wiring situations*
+- Most of the landmarked core is detached houses. The LPC describes about 250 predominantly free-standing single-family residences built in the first two decades of the 20th century. Fire alarm work here means wiring through old wood-frame houses (often three stories), not rowhouse or high-rise riser work. — https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/
+- Typical house forms and details affect device and wire routing. Houses were typically a box-like foursquare with a hipped or pyramidal roof, a temple-house with a front-facing gable, or a bungalow with a deep porch. They have porches, projecting towers, oriels and bays, Palladian windows and deep eaves. — https://flatbushgardener.blogspot.com/2008/03/fiske-terrace-midwood-park-historic.html and https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/
+- Older interior details are a wiring consideration. Original features such as built-in shelves and beamed ceilings remain, alongside updated amenities. One listing describes a house with a parlor with a coffered ceiling, an arched brick fireplace flanked by glass cabinets, and crown molding. Concealed wire runs in rooms like these need care. — https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny and https://www.brownstoner.com/real-estate-market/fiske-terrace-midwood-park-historic-district-brooklyn-homes-for-sale-771-east-18th-street-fireplace/
+- Wood-burning fireplaces and later upgrades appear in the housing stock. One 1910–1920 Arts and Crafts house on East 19th Street was listed with a working wood-burning fireplace flanked by built-in bookcases. That makes CO and smoke detection placement relevant. — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-fiske-terrace-807-east-19th-street/
+- Garages and driveways are common, so detached garages and outbuildings may need coverage. Yards and driveways are not rare. — https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny
+- Apartment buildings are mainly on the edges. A number of original Ackerson houses were replaced with apartment buildings in the 1920s, primarily along Ocean Avenue and Avenue H. These multi-family buildings would be the commercial or multiple-dwelling fire alarm jobs. — https://www.longislandexchange.com/new-york-city/brooklyn/fiske-terrace/
+- Block layout affects access and wire pulls. The street plan has landscaped malls and short streets that dead-end at the BMT subway cut. The neighborhood sits between the old LIRR tracks and the BMT subway line and has few through streets for vehicles. — https://hdc.org/midwood-park-fiske-terrace-hearing-scheduled/ and https://marykayg.com/neighborhoods/fiske-terrace/
+
+*LPC rules that bear on installation*
+- Fiske Terrace is inside the Fiske Terrace-Midwood Park Historic District. The LPC unanimously approved designation on March 18, 2008. Most exterior changes to front and rear facades in historic districts require LPC review. — https://www.brooklynhomesonline.com/community/id/1840116/area/Fiske%20Terrace/ and https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- Ordinary maintenance does not need a permit. You do not need an LPC permit for ordinary repairs or maintenance chores. However, any project that affects the exterior of a building in a historic district needs an LPC permit, even if DOB does not require one. This matters for exterior horns/strobes, exterior conduit, roof or siding penetrations, and exterior cell-communicator antennas. — https://www.nyc.gov/site/lpc/applications/permit-types.page
+- LPC's own permit data for this district lists filing categories that include interior alterations and "Lighting fixtures and intercom panels". This shows LPC treats small exterior-mounted devices as reviewable items. Whether a fire alarm horn/strobe falls under them is not stated; confirm with LPC before saying so on the page. — https://data.cityofnewyork.us/api/views/dpm2-m9mq/rows.rdf?accessType=DOWNLOAD
+- Recent LPC activity in the district shows the review is live. The Historic Districts Council's testimony for an August 28, 2026 hearing covers 1901 Avenue H, a Medieval Revival house built c. 1920–1922, with an application to install a fence. — https://hdc.org/testimony/hdclpc-testimony-for-august-28-2026/
+- Residents' own view of the burden: a 2008 commenter wrote "I have to get LPC approval to paint my house or re-do my driveway." — https://www.brownstoner.com/history/fiske-terracemi/
+
+*City rules on detectors (for scoping)*
+- Rental one- and two-family homes: at least one approved and operational detector per dwelling unit, including a CO detector within 15 feet of the primary entrance to each sleeping room. — https://hpdsigns.nyc/smoke-detecting-devices-notice-28-rcny-12-01/
+- HPD says CO detectors are required in multiple dwellings and in non-owner-occupied one- and two-family homes that have fossil-fuel-burning devices. It also says detectors must never be painted over and must have an end-of-life alarm. — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+- Class A multiple dwellings: at least one detector within fifteen feet of the primary entrance to each room lawfully used for sleeping. — https://hpdsigns.nyc/smoke-detecting-devices-notice-28-rcny-12-01/
+- State law covers owner-occupied one- and two-family homes. Owners must install and maintain a smoke detector with an audible alarm in each sleeping area. — https://www.assembly.state.ny.us/write/upload/member_files/096/pdfs/20250616_0114378.pdf?v=1750084812
+
+*Local news (nearby, not Fiske Terrace-specific)*
+- Avenue H fire: a restaurant fire at 1021 Avenue H between East 10th Street and Coney Island Avenue was reported around 4:40 p.m. It became a three-alarm fire within minutes and devastated eight small businesses. The story ran March 20, 2026. This is a mixed-use row on the same corridor that forms Fiske Terrace's southern edge, west of the subway cut. — https://abc7ny.com/post/midwood-fire-firefighters-battling-flames-roof-building-housing-row-businesses-brooklyn/18737274/
+- Ocean Avenue apartment fire (June 23, 2024): the fire struck the basement and first floor of a four-story building and injured five people. The report gives only "Ocean Avenue in Flatbush"; I could not confirm the block, so do not tie it to Fiske Terrace. — https://abc7ny.com/post/flatbush-fire-apartment-building-blaze-leaves-5-injured-brooklyn-nyc/14992613/
+- Another Ocean Avenue fire: flames broke out on the first floor of a seven-story building around 10 p.m. on a Sunday. The report gives no block or cause. — https://brooklyn.news12.com/fire-erupts-at-apartment-building-in-flatbush
+- An older Ocean Avenue fire was blamed on a space heater left too close to a bed. The report gives no block and no date. — https://brooklyn.news12.com/fire-tears-through-ocean-avenue-building-34793795
+- Citizen App incident logs show a July 17 fire at 350 Ocean Ave (third floor of a four-story building) and an August 26 smoke call at 625 Ocean Ave. Both addresses are north of Fiske Terrace in Flatbush, so they are corridor context only. — https://citizen.com/-OxmUTHu2i-NeckvE8Fg and https://citizen.com/-P0-XtUG_FsQuqmBP0Ob
+- The deadly May 23, 2026 fire at 1693 Nostrand Ave is in East Flatbush, not Fiske Terrace. It killed a man and a woman. — https://www.amny.com/news/deadly-fire-brooklyn-apartment-building-fdny/
+
+*Not found (EMPTY)*
+- HPD violations specific to Fiske Terrace — EMPTY (no neighborhood-level data found)
+- 311 complaints specific to Fiske Terrace — EMPTY
+- DOB fire alarm permit data for Fiske Terrace — EMPTY
+- Reddit threads about Fiske Terrace fire alarms, entry systems or security — EMPTY (the search returned none)
+- Local news about building security or entry systems in Fiske Terrace — EMPTY
+- Named businesses where fire alarm work matters in Fiske Terrace — EMPTY. Elliman says there is not much shopping or dining in the neighborhood, and commercial activity is just outside. — https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny
+- Local intercom/AV practice for detached houses — EMPTY
+
+**Part 2: Neighborhood background**
+
+*History and development*
+- Fiske Terrace is a planned community on the southern edge of Flatbush and north of Midwood. — https://en.wikipedia.org/wiki/Fiske_Terrace,_Brooklyn
+- T.B. Ackerson purchased the 30-acre estate of George P. Fiske in 1905. Another source calls Fiske an oil merchant. — https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/ and https://www.flatbushgardener.com/tag/fiske-terrace/
+- Ackerson boasted of turning the area "from woods into city in 18 months." — https://www.flatbushgardener.com/tag/fiske-terrace/
+- Ackerson built about 150 individually designed three-story detached houses. Streets and underground water, sewer, gas and electric lines were laid, and the community was ready within eighteen months. — https://www.longislandexchange.com/new-york-city/brooklyn/fiske-terrace/
+- Lots were designed and streets paved between 1905 and 1907. Other builders such as C.F. Bond built many homes on East 18th and East 19th Streets. — https://marykayg.com/neighborhoods/fiske-terrace/
+- Ackerson built residences in series of tens from stock plans. — https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/
+- The district's 250 houses were largely completed and occupied by 1914. — https://flatbushgardener.blogspot.com/2008/03/fiske-terrace-midwood-park-historic.html
+- The land was originally part of the Lott farm. Flatbush development was spurred by the Brooklyn Bridge in 1883 and the Brooklyn, Flatbush and Coney Island railroad in 1895. — https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/
+- T.B. Ackerson Company was founded by Thomas Benton Ackerson in 1898. — https://en.wikipedia.org/wiki/T._B._Ackerson_Company
+- Midwood Park, the adjoining district north of Glenwood Road, was built mainly by another firm: about 75 percent of its houses were built by the John R. Corbin Company. — https://www.flatbushgardener.com/tag/fiske-terrace/
+- Architect Benjamin Dreisler is said to have designed over 100 houses in Fiske Terrace and Midwood Park, as well as in the Ditmas Park Historic district. This comes from a real-estate blog. — https://www.accordrealestategroup.com/brooklyn-blog/brooklyn-historic-fiske-terrace-midwood-park-neighborhoods
+
+*Streets, boundaries and corridors*
+- Wikipedia's boundaries: Foster Avenue on the north, Ocean Avenue on the east, the Bay Ridge LIRR/New York and Atlantic right-of-way on the south, and the BMT Brighton Line on the west. The LPC district instead runs south only to Avenue H. — https://en.wikipedia.org/wiki/Fiske_Terrace,_Brooklyn and https://www.bobguskind.com/2008/03/19/meet-the-fiske-terrace-midwood-park-landmark-district/
+- Landscaped malls run along Glenwood Road and East 17th Street. — https://www.longislandexchange.com/new-york-city/brooklyn/fiske-terrace/
+- Wellington Court is a short street in the neighborhood, with addresses 43 to 80. — https://www.city-data.com/neighborhood/Fiske-Terrace-Brooklyn-NY.html
+- Nearby Ocean Avenue has a tree-lined pedestrian walkway. — https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny
+- Retail is mostly in Midwood: shopping and dining abound in nearby Midwood. — https://www.elliman.com/localguide/fiske-terrace-brooklyn-ny
+
+*Building stock, landmarks and parks*
+- District architecture: mostly Arts and Crafts, Colonial Revival and Dutch Colonial Revival styles. Individual houses include a 1906 Colonial Revival at 1809 Avenue H, designed by A. White Pierce. — https://flatbushgardener.blogspot.com/2008/03/fiske-terrace-midwood-park-historic.html and https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/10_06_09.pdf
+- The Avenue H station house was Ackerson's former sales office. It was designated a New York City Landmark on June 29, 2004. Wikipedia's Ackerson page says 2005, so the date conflicts across sources. The station opened around April 26, 1897 as Fiske Terrace. A different source, the HDC brochure, gives 1878 and East 19th Street, which conflicts. Use "2004" and the Wikipedia station page, and avoid the other dates. — https://en.wikipedia.org/wiki/Avenue_H_station and https://en.wikipedia.org/wiki/T._B._Ackerson_Company
+- Counts of the district differ: Brownstoner calls it Brooklyn's 20th historic district; Flatbush Gardener says the city's 91st. — https://www.brownstoner.com/history/fiske-terracemi/ and https://flatbushgardener.blogspot.com/2008/03/fiske-terrace-midwood-park-historic.html
+- Greenery: over 1,000 street trees of more than 40 species line the sidewalks. — https://marykayg.com/neighborhoods/fiske-terrace/
+- Parks: EMPTY (no named park in Fiske Terrace found; the landscaped malls above are the nearest green space).
+
+*Known for*
+- Past residents include Richard Hellmann of Hellmann's Mayonnaise and Charles Ebbets, owner of Ebbets Field and the Brooklyn Dodgers. — https://en.wikipedia.org/wiki/Fiske_Terrace,_Brooklyn
+- Doug Emhoff grew up at 1480 Ocean Avenue. That address is on Ocean Avenue, but its exact position relative to the neighborhood is unconfirmed. — https://www.untappedcities.com/secrets-midwood-brooklyn/
+- Community: the Fiske Terrace Association is one of the oldest and most active preservation groups in Brooklyn. — https://marykayg.com/neighborhoods/fiske-terrace/
+- Fiske Terrace is a small area. City-Data lists a population of 2,418, a density of 60,475 people per square mile, and a 2023 median household income of $90,478. — https://www.city-data.com/neighborhood/Fiske-Terrace-Brooklyn-NY.html
+
+**Cautions**
+- A competitor page for this same URL pattern (abstractenterprisessecuritysystems.com) lists brownstones, NYCHA complexes, warehouses and similar building types. These don't match Fiske Terrace's stock of detached landmarked houses, so treat its claims as generic template text. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-fiske-terrace-brooklyn-ny
+- Neighborhood boundaries are fuzzy across sources. Several sources fold Fiske Terrace into Midwood or Flatbush, and the street addresses of nearby fires often can't be placed inside the neighborhood.
+
+## Flatbush, Brooklyn — /fire-alarm-installation-flatbush-brooklyn-ny (factory research, 2026-10-27)
+
+**A. Fire alarm installation in Flatbush: local angles**
+
+- **Fatal mixed-use fire, May 23, 2026.** A 911 call at 6:49 a.m. reported smoke and fire at 1693 Nostrand Ave., between Beverly and Cortelyou roads. The fire was on the second floor of a three-story mixed-occupancy building. NBC reported that two people were killed. ABC7 reported that residents were brought down from windows connected to a fire escape. The landlord also owns the vacant storefront. Sources disagree on the exact block (Beverly–Cortelyou vs. Cortelyou–Clarendon) and on whether to call it "Flatbush" or "East Flatbush", so use the cross streets cautiously. Cause: still under investigation in the source. — https://www.nbcnewyork.com/news/local/deadly-fires-under-investigation-in-the-bronx-brooklyn/6505199/ ; https://brooklyn.news12.com/2026/05/23/two-dead-two-seriously-injured-in-east-flatbush-fire/726sGWQpzXVV7oNAPeD4lO ; https://abc7ny.com/post/flatbush-brooklyn-apartment-fire-kills-2-injured-others/19156214/
+- **Restaurant fire with lithium-ion batteries, Foster Ave, May 2026.** Hazmat crews were called to remove lithium-ion batteries after a fire at Nice Chinatown restaurant on Foster Avenue. Three firefighters had minor injuries. It took about 90 minutes to bring the fire under control. This is a commercial-kitchen and battery-storage angle for detection and monitoring. — https://abc7ny.com/post/flatbush-fire-3-firefighters-injured-blaze-nice-chinese-restaurant-lithium-ion-batteries-removed-location/19183756/
+- **Vacant, repeatedly burned building, 1952 Nostrand Ave., July 18, 2026.** Firefighters found a three-story wood-framed home with heavy smoke. The fire began in the basement and spread to the first floor and a neighboring building. The building has been under a full vacate order since a 2023 basement fire and has had two major fires since 2023. The fire left debris hanging over the walkway of the church next door at 1954 Nostrand Ave. Per DOB documents, that church is also under a full vacate order. — https://www.brooklynpaper.com/two-alarm-fire-vacant-flatbush-home/
+- **Two-story rowhouse fire, 836 Brooklyn Ave. near Linden Blvd., March 31, 2026.** Heavy fire on the first floor spread into an adjoining home and triggered a second alarm, with 141 fire and EMS personnel responding. Both homes were vacated by the Department of Buildings. This is an attached-house fire-spread angle. — https://www.brooklynpaper.com/firefighters-injured-flatbush-house-fire-3-31/
+- **Attic fire in attached private homes, East 46th St., Sept 25, 2026.** Firefighters responded to an alarm at 644 East 46th St. in East Flatbush. They found heavy fire in the attic of attached private homes. About 65 firefighters from 12 units responded. Several people were displaced. — https://www.brooklynpaper.com/brooklyn-fires-sept-25-2026/
+- **Manhole fire and CO evacuation, 2020 Cortelyou Rd., Oct 2026.** A fire broke out in front of 2020 Cortelyou Road. Firefighters detected elevated carbon monoxide and ordered 2020 Cortelyou Road evacuated. The building houses the Futa Islamic Center and Ditmas Park Medical Care. Con Edison said the cause was a weather-related issue with an underground cable. This is a CO-detection angle for mixed-use buildings on a commercial strip. — https://patch.com/new-york/ditmaspark/manhole-fire-flatbush-prompts-building-evacuation
+- **Earlier East Flatbush CO evacuation, Jan 2026.** Overhead wires caught fire on East 48th Street at Church Avenue, and residents of one building were evacuated due to high carbon monoxide readings. — https://abc7ny.com/post/dozens-power-overhead-wires-catch-fire-east-flatbush/18401070/
+- **Fatal house fire with no working smoke alarms, East 49th St. at Church Ave. (older incident, undated in the result).** An elderly couple, Lord Kinard, 76, and Octavia Kinard, 71, died, and the FDNY said there was no working smoke alarm in the building. The FDNY called it accidental, originating at a power strip. Borough President Eric Adams handed out free smoke detectors in East Flatbush the next morning. — https://patch.com/new-york/ditmaspark/two-killed-east-flatbush-fire
+- **Illegal subdivision and fatal-fire prosecutions in Flatbush.** A Flatbush landlord who rented illegally subdivided apartments was sentenced in 2022 to six months in jail and five years' probation over a 2019 fatal two-alarm fire that left one tenant dead and six injured. A 2021 indictment involved a "Dead Man's Room" and a space-heater fire. The victim was trapped and jumped from a third-floor window. A 2016 indictment involved a fatal fire with one dead and nine injured, including four children, in an illegally subdivided Flatbush building. These are useful for explaining why unpermitted partitions defeat detector coverage and egress. — https://www.nyc.gov/assets/doi/press-releases/2022/September/leon_evener_sen_9_8_2022 KCDA.pdf ; https://www.nyc.gov/assets/doi/press-releases/2021/May/kcda_leon_evener_ind_5132021.pdf ; https://www.nyc.gov/assets/doi/press-releases/2016/jul/pr_lorient_luckner_ind_72816.pdf
+- **Code hooks for small buildings.** In the NYC Building Code, a manual fire alarm system is not required in R-1-type buildings of two stories or fewer where sleeping units are separated by 1-hour fire partitions and each has a direct exit to a public way, court or yard. A similar exception exists for dwelling units in two-story buildings. This bears on freestanding Victorian houses and two-story rowhouses vs. three-story mixed-use walk-ups. — https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/9/fire-protection-systems
+- **Retail, school and day-care triggers.** NYC Administrative Code Title 27 requires fire alarm systems in retail establishments with one or more floors above the street floor open to the public, or with 20,000 or more gross square feet. It also requires them in day care agencies with a board of health permit for more than thirty children and in all public schools, and private schools and university teaching buildings more than one story high. This is relevant near the Junction and Brooklyn College. — https://nycadmincode.readthedocs.io/t27/c01/sch17/art05/
+- **FDNY filing process.** The FDNY fire alarm application requires approval of the plans by a New York State registered design professional, either a PE or an RA. It also needs proof of occupancy from DOB, either a Certificate of Occupancy or an approved Schedule A. A building core fire alarm system may not be professionally certified. — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application ; https://www.nyc.gov/assets/fdny/downloads/pdf/about/fdny-rules.pdf
+- **Fire alarm impairment threshold.** The FDNY Fire Code addresses work that would take a fire alarm system out of service for 8 hours or more in any 24-hour period or 30 hours or more in any month. This matters when retrofitting occupied Flatbush buildings. — https://up.codes/viewer/new_york_city/nyc-fire-code-2022/chapter/9/fire-protection-systems
+- **Vendor-marketing claims, not independent data.** Abstract Enterprises says rent-stabilized stock has high rates of disabled or missing smoke detectors, and tenants disconnect them because cooking triggers false alarms in small kitchens. Its East Flatbush page also mentions older buildings with limited conduit access. It lists FDNY Bureau of Fire Prevention at 9 MetroTech Center as the filing office. Treat all of these as unverified. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-flatbush-brooklyn-ny ; https://www.abstractenterprisessecuritysystems.com/alarm-installation-east-flatbush-brooklyn-ny
+- **HPD violations, 311 complaints, DOB permit data for Flatbush:** EMPTY. No Flatbush-specific figures were found. The only HPD figure found was for a Brownsville building, which doesn't apply.
+- **Reddit threads on fire alarms in Flatbush:** EMPTY. No Reddit results were returned.
+- **Intercom, entry and AV wiring specifics for Flatbush buildings:** EMPTY. No independent source was found.
+- **LPC rules on exterior fire alarm devices in Flatbush historic districts:** EMPTY. Only the district designations were found (see section B).
+
+**B. Neighborhood background**
+
+- **Founding and name.** Dutch colonists founded Flatbush in 1651. It was chartered as the town of Midwout, from Dutch words for "middle" and "wood". The name Flatbush comes from the Dutch *Vlacke bos*, "flat woodland". — https://hdc.org/borough/flatbush/ ; https://forgotten-ny.com/2020/07/flatbush-dutch-reformed-church/
+- **Annexation.** Flatbush was annexed by the City of Brooklyn in 1894 and entered Greater New York in 1898. — https://cityneighborhoods.nyc/flatbush
+- **Suburban development.** The Victorian Flatbush tracts (Ditmas Park, Fiske Terrace, Beverley Square, Albemarle-Kenmore Terraces) were developed between 1899 and 1914. The Brooklyn Rapid Transit line to Coney Island made them possible, and developers converted farmland into planned neighborhoods. — https://cityneighborhoods.nyc/victorian-flatbush-ditmas-park ; https://www.untappedcities.com/one-of-the-countrys-largest-concentrations-of-victorian-era-homes-is-found-in-brooklyn/
+- **Ditmas Park.** Founded in 1902, it was fully planned before homes were built. Its sewers, sidewalks, paved streets and landscaping were designed before a single home. Developers Lewis Pounds and Dean Alvord laid out broad streets with underground utilities. The longest row of bungalow-type houses in Brooklyn is on Ocean Avenue and East 16th Street, built 1908–09. — https://brooklyneagle.com/326222/ditmas-park-history/ ; https://cityneighborhoods.nyc/victorian-flatbush-ditmas-park
+- **Early 20th-century apartment buildings.** By the early 1900s Flatbush had developed suburbs, and multistory apartment buildings were soon erected. — https://eportfolios.macaulay.cuny.edu/seminars/gardner08/articles/f/l/a/Flatbush_History_0bad.html (student-wiki source, low reliability)
+- **Interwar commercial growth.** Kings Theatre (1929) and the Sears Roebuck building (1932) signaled prosperity, and Brooklyn College opened in 1930. — https://cityneighborhoods.nyc/flatbush
+- **Later demographics.** The area was largely Jewish and Italian in the first half of the 20th century. Caribbean immigrants settled in during the 1960s and 70s. Parts of the neighborhood are now called Little Caribbean and Little Haiti, names the City has formally recognized. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush.pdf
+- **Main commercial corridors.** Nostrand Avenue, Church Avenue and Flatbush Avenue are the main corridors. The Junction is where Flatbush and Nostrand meet, and Flatbush and Church is a northern node. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush.pdf
+- **Flatbush Nostrand Junction BID.** The Junction sits on Flatbush Avenue, Nostrand Avenue and Avenue H, and is a transfer point for two subway lines and seven bus lines. The commercial vacancy rate is about 6%. The BID also encompasses the Brooklyn College campus. The Church Avenue BID also partnered on the city's needs assessment. — https://www.exploreflatbush.com/about-flatbush/ ; https://www.exploreflatbush.com/about-the-bid/
+- **Retail and mixed-use at the Junction.** A listing for 2263 Nostrand Ave. describes retail space at the base of a brand-new residential development, one block from Brooklyn College. This indicates new mixed-use construction at the Junction. — https://modcre.com/2263-nostrand-ave
+- **Landmark districts (LPC).** The designations found are:
+  - Prospect Park South, February 1979
+  - Ditmas Park, July 1981
+  - Fiske Terrace–Midwood Park, March 2008
+  - Beverley Square West and Ditmas Park West, voted by LPC in November 2025, covering 247 freestanding homes built 1894–1910 in Queen Anne and Colonial Revival styles
+
+  Albemarle-Kenmore Terraces is also an LPC district. — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/ ; https://www.6sqft.com/victorian-flatbush-gains-two-new-historic-districts/
+- **Fiske Terrace–Midwood Park builders.** The district has 250 houses, largely complete by 1914. The T.B. Ackerson Company developed Fiske Terr

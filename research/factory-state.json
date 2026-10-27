@@ -1,202 +1,10 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01FuV5sHVj2UGbpPi8tjiHNM",
-   "submitted": "2026-10-27T03:32Z",
+   "id": "msgbatch_01JTE9HQc5evz8hzxLsJ8sEM",
+   "submitted": "2026-10-27T09:16Z",
    "pages": {
     "p0": {
-     "status": "REBUILD",
-     "slug": "door-buzzer-repair-woodstock-bronx-ny",
-     "silo": "Door Buzzer Repair",
-     "area": "Woodstock, Bronx",
-     "up": "/door-buzzer-repair-bronx-new-york",
-     "phone": "(646) 490-0629",
-     "gbp": "Bronx",
-     "rebuild": true,
-     "line_no": 486,
-     "silo_key": "door-buzzer-repair",
-     "area_key": "bronx",
-     "nbhd": "Woodstock",
-     "borough": "Bronx",
-     "nb_slug": "woodstock",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-cable-bundles-dropping-down-equipment-rack.webp",
-       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
-       "w": 250,
-       "h": 640
-      },
-      {
-       "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-dark-grey-wired-doorbell-with-round-button.webp",
-       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
-       "w": 820,
-       "h": 480
-      },
-      {
-       "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-dark-recessed-lobby-ceiling-with-downlights.webp",
-       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
-       "w": 545,
-       "h": 180
-      },
-      {
-       "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
-       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
-       "w": 700,
-       "h": 620
-      },
-      {
-       "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-keypad-door-station-with-card-reader-and-camera.webp",
-       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
-       "w": 510,
-       "h": 960
-      },
-      {
-       "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-low-voltage-cable-bundles-over-ceiling-beam.webp",
-       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
-       "w": 540,
-       "h": 255
-      },
-      {
-       "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-night-camera-view-of-open-storeroom-doorway.webp",
-       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
-       "w": 550,
-       "h": 350
-      },
-      {
-       "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-small-camera-high-on-pale-wall.webp",
-       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
-       "w": 620,
-       "h": 420
-      },
-      {
-       "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-tiled-corridor-to-grey-door-with-lever-handle.webp",
-       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
-       "w": 635,
-       "h": 1050
-      },
-      {
-       "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-touchscreen-directory-entry-panel-with-dial-pad.webp",
-       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
-       "w": 228,
-       "h": 456
-      },
-      {
-       "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-woodstock-2u-rack-video-server-product-photo.webp",
-       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
-       "w": 500,
-       "h": 182
-      }
-     ]
-    },
-    "p1": {
-     "status": "REBUILD",
-     "slug": "door-buzzer-repair-wyckoff-heights-brooklyn-ny",
-     "silo": "Door Buzzer Repair",
-     "area": "Wyckoff Heights, Brooklyn",
-     "up": "/door-buzzer-repair-brooklyn-new-york",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": true,
-     "line_no": 487,
-     "silo_key": "door-buzzer-repair",
-     "area_key": "brooklyn",
-     "nbhd": "Wyckoff Heights",
-     "borough": "Brooklyn",
-     "nb_slug": "wyckoff-heights",
-     "exemplar": "door-buzzer-repair-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-cable-bundles-dropping-down-equipment-rack.webp",
-       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
-       "w": 250,
-       "h": 640
-      },
-      {
-       "n": 2,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-dark-grey-wired-doorbell-with-round-button.webp",
-       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
-       "w": 820,
-       "h": 480
-      },
-      {
-       "n": 3,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-dark-recessed-lobby-ceiling-with-downlights.webp",
-       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
-       "w": 545,
-       "h": 180
-      },
-      {
-       "n": 4,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
-       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
-       "w": 700,
-       "h": 620
-      },
-      {
-       "n": 5,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-keypad-door-station-with-card-reader-and-camera.webp",
-       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
-       "w": 510,
-       "h": 960
-      },
-      {
-       "n": 6,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-low-voltage-cable-bundles-over-ceiling-beam.webp",
-       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
-       "w": 540,
-       "h": 255
-      },
-      {
-       "n": 7,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-night-camera-view-of-open-storeroom-doorway.webp",
-       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
-       "w": 550,
-       "h": 350
-      },
-      {
-       "n": 8,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-small-camera-high-on-pale-wall.webp",
-       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
-       "w": 620,
-       "h": 420
-      },
-      {
-       "n": 9,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-tiled-corridor-to-grey-door-with-lever-handle.webp",
-       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
-       "w": 635,
-       "h": 1050
-      },
-      {
-       "n": 10,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-touchscreen-directory-entry-panel-with-dial-pad.webp",
-       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
-       "w": 228,
-       "h": 456
-      },
-      {
-       "n": 11,
-       "src": "/images/door-buzzer-repair/door-buzzer-repair-wyckoff-heights-2u-rack-video-server-product-photo.webp",
-       "shows": "a black 2U rack-mount video server with a vented front panel, manufacturer product photo",
-       "w": 500,
-       "h": 182
-      }
-     ]
-    },
-    "p2": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-allerton-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -211,7 +19,7 @@
      "nbhd": "Allerton",
      "borough": "Bronx",
      "nb_slug": "allerton",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -292,103 +100,7 @@
       }
      ]
     },
-    "p3": {
-     "status": "REBUILD",
-     "slug": "fire-alarm-installation-bergen-beach-brooklyn-ny",
-     "silo": "Fire Alarm Installation",
-     "area": "Bergen Beach, Brooklyn",
-     "up": "/fire-alarm-installation-brooklyn-ny",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": true,
-     "line_no": 489,
-     "silo_key": "fire-alarm-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Bergen Beach",
-     "borough": "Brooklyn",
-     "nb_slug": "bergen-beach",
-     "exemplar": "door-buzzer-repair-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-bergen-beach-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p4": {
+    "p1": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-bronx-river-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -403,7 +115,7 @@
      "nbhd": "Bronx River",
      "borough": "Bronx",
      "nb_slug": "bronx-river",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -484,103 +196,7 @@
       }
      ]
     },
-    "p5": {
-     "status": "REBUILD",
-     "slug": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
-     "silo": "Fire Alarm Installation",
-     "area": "Brooklyn Chinatown, Brooklyn",
-     "up": "/fire-alarm-installation-brooklyn-ny",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": true,
-     "line_no": 491,
-     "silo_key": "fire-alarm-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Brooklyn Chinatown",
-     "borough": "Brooklyn",
-     "nb_slug": "brooklyn-chinatown",
-     "exemplar": "door-buzzer-repair-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/fire-alarm-installation/fire-alarm-installation-brooklyn-chinatown-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p6": {
+    "p2": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny",
      "silo": "Fire Alarm Installation",
@@ -595,7 +211,7 @@
      "nbhd": "Brooklyn Navy Yard",
      "borough": "Brooklyn",
      "nb_slug": "brooklyn-navy-yard",
-     "exemplar": "door-buzzer-repair-wingate-brooklyn-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -676,7 +292,7 @@
       }
      ]
     },
-    "p7": {
+    "p3": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-cadman-plaza-brooklyn-ny",
      "silo": "Fire Alarm Installation",
@@ -691,7 +307,7 @@
      "nbhd": "Cadman Plaza",
      "borough": "Brooklyn",
      "nb_slug": "cadman-plaza",
-     "exemplar": "door-buzzer-repair-wingate-brooklyn-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -772,7 +388,7 @@
       }
      ]
     },
-    "p8": {
+    "p4": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-claremont-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -787,7 +403,7 @@
      "nbhd": "Claremont",
      "borough": "Bronx",
      "nb_slug": "claremont",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -868,7 +484,7 @@
       }
      ]
     },
-    "p9": {
+    "p5": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-concourse-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -883,7 +499,7 @@
      "nbhd": "Concourse",
      "borough": "Bronx",
      "nb_slug": "concourse",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -964,7 +580,7 @@
       }
      ]
     },
-    "p10": {
+    "p6": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-east-tremont-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -979,7 +595,7 @@
      "nbhd": "East Tremont",
      "borough": "Bronx",
      "nb_slug": "east-tremont",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -1060,7 +676,7 @@
       }
      ]
     },
-    "p11": {
+    "p7": {
      "status": "REBUILD",
      "slug": "fire-alarm-installation-edenwald-bronx-ny",
      "silo": "Fire Alarm Installation",
@@ -1075,7 +691,7 @@
      "nbhd": "Edenwald",
      "borough": "Bronx",
      "nb_slug": "edenwald",
-     "exemplar": "door-buzzer-repair-williamsbridge-bronx-ny",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -1150,6 +766,390 @@
       {
        "n": 11,
        "src": "/images/fire-alarm-installation/fire-alarm-installation-edenwald-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p8": {
+     "status": "REBUILD",
+     "slug": "fire-alarm-installation-edgewater-park-bronx-ny",
+     "silo": "Fire Alarm Installation",
+     "area": "Edgewater Park, Bronx",
+     "up": "/fire-alarm-installation-bronx-ny",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
+     "rebuild": true,
+     "line_no": 498,
+     "silo_key": "fire-alarm-installation",
+     "area_key": "bronx",
+     "nbhd": "Edgewater Park",
+     "borough": "Bronx",
+     "nb_slug": "edgewater-park",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-edgewater-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p9": {
+     "status": "REBUILD",
+     "slug": "fire-alarm-installation-fieldston-bronx-ny",
+     "silo": "Fire Alarm Installation",
+     "area": "Fieldston, Bronx",
+     "up": "/fire-alarm-installation-bronx-ny",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
+     "rebuild": true,
+     "line_no": 499,
+     "silo_key": "fire-alarm-installation",
+     "area_key": "bronx",
+     "nbhd": "Fieldston",
+     "borough": "Bronx",
+     "nb_slug": "fieldston",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fieldston-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p10": {
+     "status": "REBUILD",
+     "slug": "fire-alarm-installation-fiske-terrace-brooklyn-ny",
+     "silo": "Fire Alarm Installation",
+     "area": "Fiske Terrace, Brooklyn",
+     "up": "/fire-alarm-installation-brooklyn-ny",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 500,
+     "silo_key": "fire-alarm-installation",
+     "area_key": "brooklyn",
+     "nbhd": "Fiske Terrace",
+     "borough": "Brooklyn",
+     "nb_slug": "fiske-terrace",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-fiske-terrace-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p11": {
+     "status": "REBUILD",
+     "slug": "fire-alarm-installation-flatbush-brooklyn-ny",
+     "silo": "Fire Alarm Installation",
+     "area": "Flatbush, Brooklyn",
+     "up": "/fire-alarm-installation-brooklyn-ny",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 501,
+     "silo_key": "fire-alarm-installation",
+     "area_key": "brooklyn",
+     "nbhd": "Flatbush",
+     "borough": "Brooklyn",
+     "nb_slug": "flatbush",
+     "exemplar": "fire-alarm-installation-brooklyn-chinatown-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
