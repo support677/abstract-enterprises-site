@@ -2738,3 +2738,6 @@ Run 2026-10-27 evening (scheduled, 00:53 UTC Oct 28, Claude in Chrome, account /
 2026-10-28 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-flatbush-brooklyn-ny | QUEUED
 2026-10-28 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | QUEUED
 2026-10-28 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-fiske-terrace-brooklyn-ny | QUEUED
+2026-10-28 | https://www.abstractenterprisessecuritysystems.com/tv-installation-woodlawn-heights-bronx-ny | QUEUED
+2026-10-28 | https://www.abstractenterprisessecuritysystems.com/tv-installation-wingate-brooklyn-ny | QUEUED
+2026-10-28 | https://www.abstractenterprisessecuritysystems.com/tv-installation-windsor-terrace-brooklyn-ny | QUEUED

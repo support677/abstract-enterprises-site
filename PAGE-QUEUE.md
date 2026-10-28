@@ -1042,9 +1042,9 @@ REBUILD | tv-installation-weeksville-brooklyn-ny | TV Installation | Weeksville,
 REBUILD | tv-installation-west-farms-bronx-ny | TV Installation | West Farms, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-westchester-heights-bronx-ny | TV Installation | Westchester Heights, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-williamsburg-brooklyn-ny | TV Installation | Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-28T12:59Z max-burn | tv-installation-windsor-terrace-brooklyn-ny | TV Installation | Windsor Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-28T12:59Z max-burn | tv-installation-wingate-brooklyn-ny | TV Installation | Wingate, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-28T12:59Z max-burn | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn Heights, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | tv-installation-windsor-terrace-brooklyn-ny | TV Installation | Windsor Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-wingate-brooklyn-ny | TV Installation | Wingate, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn Heights, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
