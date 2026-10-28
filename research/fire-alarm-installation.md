@@ -1079,3 +1079,263 @@ I ran 8 searches. Items marked EMPTY had no usable result.
 
   Albemarle-Kenmore Terraces is also an LPC district. — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/ ; https://www.6sqft.com/victorian-flatbush-gains-two-new-historic-districts/
 - **Fiske Terrace–Midwood Park builders.** The district has 250 houses, largely complete by 1914. The T.B. Ackerson Company developed Fiske Terr
+
+## Fort Greene, Brooklyn — /fire-alarm-installation-fort-greene-brooklyn-ny (factory research, 2026-10-28)
+
+I used all of my searches. Reddit threads, neighborhood-level HPD, 311 and DOB data, and LPC rules specific to fire alarm devices were not found. Those items are marked EMPTY.
+
+### A. Fire alarm installation in Fort Greene: local facts
+
+**Recent local fires (these give the page current, specific angles)**
+- A fire broke out at 464 Clinton Ave. on Feb. 7, 2026, about 8:15 p.m. Crews found fire in a third-floor and a fourth-floor apartment. It ran vertically from the third floor through the sixth floor and into the cockloft, the concealed space between the top-floor ceiling and the roof. FDNY said 24 apartments were affected. — https://www.amny.com/police-fire/brooklyn-three-alarm-fire-fort-greene/
+- A fire on May 29, 2026 was on the eighth floor of a 13-story residential building at 68 Cumberland Walk, between Park Avenue and Carlton Avenue. News 12 reported that 21 units and 79 FDNY and EMS personnel responded, and a hazmat unit was requested because a lithium-ion battery was involved. — https://hoodline.com/2026/05/fort-greene-high-rise-chaos-as-lithium-battery-blaze-triggers-hazmat-scare/
+- A lithium-ion battery fire on Aug. 15, 2026 was inside an unattached shipping container behind the storage facility at 1 Carlton Ave. Firefighters cut through the facility's roll-down gates to reach it. — https://brooklyn.news12.com/2026/08/15/lithium-ion-battery-fire-breaks-out-at-fort-greene-storage-facility/6D3W8R8dNyOrcsNU4U2hVx and https://www.brooklynpaper.com/brooklyn-weekend-fires-fort-greene-battery-blaze/
+- On Sept. 25, 2026, a fire at a commercial building at 245 Willoughby St. started in the rear stepback of the building. Hazmat companies were called to remove batteries and a 40-pound propane tank. — https://www.brooklynpaper.com/brooklyn-fires-sept-25-2026/
+- Mixed-use fire, Greene Avenue, 2019: a three-alarm fire burned through a building housing both businesses and apartments. An FDNY chief said the fire had probably burned for a while and traveled through void spaces and pipe chases up to the third floor. It is believed to have started in a first-floor business; the ground-floor tenants included a dry cleaner and a pizzeria. — https://abc7ny.com/businesses-destroyed-residents-displaced-in-nyc-fire/5143299/
+- 219 DeKalb Ave (undated, older Patch story): a four-story building that houses the restaurant Colonia Verde. The restaurant's manager said smoke came from small gaps in the walls and the cause appeared to be between the first and second floors. — https://patch.com/new-york/fortgreene/fort-greene-apartment-building-eatery-catches-fire-fdny
+- Older Patch items (undated in the results):
+  - A two-alarm fire at a six-story apartment building at 354 Myrtle Ave. near Adelphi Street, starting on the top story. — https://patch.com/new-york/fortgreene/fire-ravages-6-story-fort-greene-home-fdny
+  - A fire at Putnam's Pub, a neighborhood bar and trivia hub on Myrtle Avenue. It spread through the first and second floors. — https://patch.com/new-york/fortgreene/fort-greene-fire-putnams-pub-sets-ablaze
+  - A third-floor fire at 102 Cumberland Walk in the Whitman Houses. — https://patch.com/new-york/fortgreene/fire-at-whitman-houses
+
+**Building types the service meets (sourced)**
+- Rowhouses and brownstones. Much of Fort Greene is two- or three-story brick rowhouses with stone trimming. The historic district is recognized for its heavy concentration of townhouses built between 1840 and 1890. — https://www.citylandnyc.org/landmarks-approves-a-new-construction-design-for-rowhouses-in-fort-greene-historic-district/ and https://newyorkyimby.com/2019/04/cwb-architects-reveals-initial-renderings-of-clermont-rowhouses-in-the-fort-greene-historic-district.html
+- Co-op brownstones. The South Portland Avenue co-op qualified for a Landmarks Conservancy Historic Properties Fund loan because it is in a historic district. That shows co-op boards in landmarked rowhouses doing building-wide work. — https://www.habitatmag.com/Publication-Content/Bricks-Bucks/2019/November-2019/Landmarks-Conservancy-Saves-Fort-Greene-Brownstone
+- Prewar walk-ups and mixed-use buildings. The building inventory is anchored by 19th-century brownstones and row houses, pre-war and walk-up multifamily buildings, and mixed-use properties. — https://www.invictusnyc.com/neighborhoods/fort-greene
+- NYCHA high-rises and mid-rises. Walt Whitman Houses was completed Feb. 24, 1944. It has fifteen buildings, 6 and 13 stories tall, with 1,659 apartments. — https://en.wikipedia.org/wiki/Walt_Whitman_Houses
+- Ingersoll Houses. Buildings XVI–XX and XXIV–XXXIV have 6 stories; Buildings XXI–XXIII and XXXV are 11 stories. (Other sources give different building counts: 19, 20 and 21.) — https://en.wikipedia.org/wiki/Ingersoll_Houses
+- New large developments. 300 Ashland Place and 810 Fulton Street are among the recent grand-scale developments. — https://newyorkyimby.com/2019/04/cwb-architects-reveals-initial-renderings-of-clermont-rowhouses-in-the-fort-greene-historic-district.html
+- Infill in the district:
+  - LPC approved five new four-story rowhouses at 352–360 Clermont Ave. in 2019. — https://www.citylandnyc.org/landmarks-approves-a-new-construction-design-for-rowhouses-in-fort-greene-historic-district/
+  - LPC permitted a 24-story building at 130 St. Felix St., on a street of mostly three- and four-story 19th-century rowhouses. That produced a lawsuit. — https://brooklyneagle.com/articles/2020/12/15/fort-greene-community-group-sues-landmarks-preservation-commission/
+- Vacant and derelict buildings. In April 2026 the rear wall of an abandoned property in Fort Greene collapsed. Ten people were displaced and neighbors were told to evacuate. — https://brooklyn.news12.com/2026/04/19/rear-wall-collapse-at-abandoned-fort-greene-property-displaces-ten-residents/6FwjQTE2Zt1R1tEJBwGLkp
+- Rowhouse conversions. At 54 Green Avenue, owners of a long-vacant corner rowhouse proposed restoring it and creating three apartments. LPC heard it June 23, 2026. — https://citizenportal.ai/articles/9225956/new-york/new-york-county/new-york-city/new-york-city-board-committees/land-preservation-commission/fort-greene-corner-building-cleared-for-mostlyrestorative-makeover-commission-asks-applicant-to-set-back-rooftop-guardrail
+
+**City data and code that bears on it (general, not Fort Greene-specific)**
+- On every inspection, an HPD inspector issues violations for nine listed conditions if they exist. These include missing carbon monoxide detectors and missing smoke detectors. Apartment or public-area doors that do not self-close are also on the list. — https://www.nyc.gov/site/hpd/services-and-information/code-enforcement.page
+- HPD inspects mainly in response to complaints received through 311 and Housing Court. — https://www.nyc.gov/site/hpd/services-and-information/code-enforcement.page
+- Under the NSPIRE mandate effective December 29, 2024, Section 8 inspections require smoke detectors to be hardwired or to have sealed 10-year batteries. This applies to subsidized units. — https://www.nyc.gov/site/hpd/services-and-information/inspections.page
+- Fort Greene-specific HPD violation counts, 311 complaint counts and DOB permit data: EMPTY (not retrieved).
+- Rule on whether LPC regulates interior fire alarm devices: EMPTY. LPC regulates structures within historic districts, including Fort Greene. A Certificate of Appropriateness is required for major alterations such as additions, demolitions or significant facade changes. — https://shermanarchitects.com/navigating-the-landmarks-preservation-commission/
+- Vendor claim, not an official LPC source: a Brooklyn installer says it works in Fort Greene landmark areas with discreet hardware and concealed wiring, and calls the work LPC compliant. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-fort-greene-brooklyn-ny
+
+**Entry, wiring and AV situations**
+- NYCHA security context. A 2014 NextGeneration NYCHA community report for Ingersoll Houses records that locks on lobby doors are often broken and building doors are left open. — https://nycharealtalk.org/media/files/ingersoll-report-en.pdf
+- NYCHA upkeep. Residents continue to report elevator outages, stairwell hazards, fire-related concerns, and moisture and electrical issues at Ingersoll. This is a law-firm page, so treat it as advocacy. — https://www.dearielaw.com/news-insights/nycha-injury-lawyer/ingersoll-houses-nycha-injury-lawyer/
+- NYCHA modernization. A 2009 renovation program covered elevator replacement, electrical work, and kitchen and stair upgrades. In summer 2025 NYCHA completed an exterior brickwork and façade upgrade at Ingersoll and the adjacent Whitman Houses. — https://en.wikipedia.org/wiki/Ingersoll_Houses
+- Intercom, door-entry and AV specifics for Fort Greene buildings: EMPTY.
+
+**Reddit threads**
+- EMPTY. No Fort Greene Reddit thread about fire alarms was retrieved.
+
+**Businesses and blocks where it matters**
+- Mixed-use corridors:
+  - DeKalb Avenue, Fulton Street and Myrtle Avenue form the primary retail and dining corridors. — https://www.invictusnyc.com/neighborhoods/fort-greene
+  - Restaurants matter on these corridors. The fires at Putnam's Pub (Myrtle), Colonia Verde (219 DeKalb) and the Greene Avenue pizzeria and dry cleaner all began in or near ground-floor businesses (see the fires section above).
+- A vendor page (not neutral) lists Fort Greene's corridors as Fulton Street, DeKalb Avenue, Myrtle Avenue, Lafayette Avenue, and the blocks around BAM, Barclays Center and Atlantic Terminal. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-fort-greene-brooklyn-ny
+- Brooklyn-wide installer content on mixed-use design. The ground-floor commercial space needs its own fire alarm zone. The design challenge is making sure a ground-floor fire triggers notification on every residential floor immediately. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-brooklyn-ny
+- Brooklyn-wide installer content on row houses. Attached brownstones share party walls, and the writer recommends detectors in the attic, top floor, every living level and the basement. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-park-south-brooklyn-ny
+
+### B. Neighborhood background
+
+**Development and history**
+- In 1776 Major General Nathanael Greene supervised the construction of Fort Putnam on high ground that is now part of Fort Greene Park. The fort was renamed for Greene and rebuilt for the War of 1812. — https://www.nycgovparks.org/parks/fort-greene-park/history
+- The area was known as "The Hill," with several large farms and a burial ground. From the 1840s the farm owners began selling land in smaller plots for development. Country villas, frame row houses and the occasional brick row house dotted the countryside; one was home to Walt Whitman. — https://en.wikipedia.org/wiki/Fort_Greene,_Brooklyn
+- Brooklyn designated the site a public park in 1845, and Walt Whitman rallied support. Olmsted and Vaux were engaged in 1867 to redesign it. The park was partly responsible for attracting the middle class to the neighborhood. — https://www.nycgovparks.org/parks/fort-greene-park/history, https://www.nycgovparks.org/parks/fort-greene-park/highlights/11758 and https://citylore.org/places/fort-greene-park/
+- The neighborhood housed workers from the nearby Navy Yard, including a large African American population. — https://citylore.org/places/fort-greene-park/
+- In 1944 NYCHA built the Walt Whitman and Raymond V. Ingersoll Houses for the wartime workforce. In the 1970s the area seemed to be losing residents and businesses, then brownstone enthusiasts moved in to renovate. — https://brooklynreporter.com/nabetags/fort-greene/
+- The area's growth: ferry service launched in 1814 and Brooklyn's population grew from 4,000 to nearly 100,000 by 1850. Wikipedia flags this sentence as needing a citation. — https://en.wikipedia.org/wiki/Fort_Greene,_Brooklyn
+
+**Landmarks districts**
+- The Fort Greene Historic District was designated a New York City landmark district in 1978. The National Register listing is given as 1984 in one source. Wikipedia shows the original district added to the Register on September 26, 1983 and a boundary increase on September 7, 1984. — https://newyorkyimby.com/2019/04/cwb-architects-reveals-initial-renderings-of-clermont-rowhouses-in-the-fort-greene-historic-district.html and https://en.wikipedia.org/wiki/Fort_Greene_Historic_District
+- The BAM Historic District, a separate LPC district, was established in 1978. — https://brooklyneagle.com/articles/2020/12/15/fort-greene-community-group-sues-landmarks-preservation-commission/
+- The district boundary excludes some old houses. In April 2026 LPC ruled that 158 South Oxford Street did not qualify for individual landmark designation. Developers have applications to replace it with a five-story residential building. — https://hoodline.com/2026/04/butter-yellow-fort-greene-gem-left-exposed-as-wrecking-ball-nears/
+
+**Main streets and commercial corridors**
+- Fulton Street and Myrtle Avenue are the primary commercial corridors. Another source adds Atlantic Avenue and DeKalb Avenue. — https://www.benjamestaylor.com/nycneighborhoods/fort-greene-brooklyn and https://aguilarnewyork.com/blog/is-fort-greene-the-right-brooklyn-neighborhood-for-you
+- Myrtle Avenue's development in Fort Greene and Clinton Hill was directly tied to the Brooklyn Navy Yard, built in 1801. — https://en.wikipedia.org/wiki/Myrtle_Avenue
+- The BAM Cultural District now extends to Ashland Place, Lafayette Avenue and Fulton Street, mixing performing arts venues with high-rise residential and mixed-use development. — https://cityneighborhoods.nyc/fort-greene
+- Boundaries: Flushing Avenue and the Navy Yard to the north, Flatbush Avenue Extension and Downtown Brooklyn to the west, Atlantic Avenue to the south, and Vanderbilt Avenue to the east. — https://en.wikipedia.org/wiki/Fort_Greene,_Brooklyn
+
+**Parks and landmarks**
+- Fort Greene Park is 30.2 acres. It holds the Prison Ship Martyrs' Monument, which includes a crypt designed by Olmsted and Vaux. — https://en.wikipedia.org/wiki/Fort_Greene_Park
+- The Williamsburgh Savings Bank Tower was the tallest building in Brooklyn for over 80 years. — https://en.wikipedia.org/wiki/Fort_Greene,_Brooklyn
+- BAM and BRIC: BRIC House is at 647 Fulton Street. BAM is one of the oldest and most prestigious performing arts centers in the United States. — https://aguilarnewyork.com/blog/is-fort-greene-the-right-brooklyn-neighborhood-for-you and https://www.apartments-newyork.com/fort-greene
+- Brooklyn Technical High School (across from the DeKalb Avenue park entrance) and the Brookly
+
+## Fulton Ferry, Brooklyn — /fire-alarm-installation-fulton-ferry-brooklyn-ny (factory research, 2026-10-28)
+
+My search budget ran out before I could check several items. Those are marked EMPTY. Lines marked "(inference)" are my own reasoning from the cited facts, not something a source states.
+
+### 1. Fire alarm installation in Fulton Ferry: local angles
+
+**Building types, entry, wiring and AV**
+- **Landmark district boundary.** The Fulton Ferry Historic District (LP-0956) was designated June 28, 1977, after a public hearing on March 8, 1977 — https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/fulton_ferry.pdf
+- **Streets in the district.** The LPC map labels Water, Front, York, Main, Doughty, Furman, Dock, New Dock, Everit, Vine, Plymouth, Old Fulton and Hicks Streets — https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/fulton_ferry.pdf
+- **Old, low-rise stock.** The National Register district has 15 contributing buildings from 1830–1895. They are commercial and mixed commercial/residential brick buildings of two to four stories, plus one eight-story building, the Eagle Warehouse — https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn
+- **Oldest office building.** The Long Island Insurance Company building (1834) may be the oldest surviving office building in the city — https://hdc.org/borough/fulton-ferry/
+- **Warehouse-to-apartment conversions.** The Eagle Warehouse was one of Brooklyn's first warehouse-to-apartment conversions — https://sites.google.com/site/brooklynqueenswaterfront/neighborhood-histories/brooklyn-heights-waterfront
+- **Co-op next door.** A co-op at 7 Everit Street is a converted industrial building. It was stuccoed and altered to match the early 20th-century industrial buildings nearby — https://www.brownstoner.com/neighborhood/brooklyn-heights/landmarks-preservation-commission-20-old-fulton-street-fulton-ferry-historic-district-coffee-shop-lpc/
+- **Large commercial conversion: Empire Stores, 55 Water St.** It is a roughly 500,000 sq ft office conversion of a 19th-century coffee warehouse. A glass-and-steel rooftop addition was built, and part of the rooftop and open-air courtyard is open to the public as part of Brooklyn Bridge Park — https://www.bisnow.com/news/new-york/office/bisnow-exclusive-first-look-at-empire-stores-rooftop-addition-49192
+- **Empire Stores tenants.** The redevelopment is 420,000 rentable sq ft of office and 80,000 sq ft of retail, and West Elm has its headquarters there — https://www.commercialcafe.com/blog/brooklyn-adaptive-reuse-projects/
+- **Empire Stores layout.** It has a four-story open-air courtyard and a 7,000 sq ft publicly accessible rooftop terrace with a restaurant and beer garden — https://s9architecture.com/empire-stores
+- **Empire Stores, installation relevance (inference).** A multi-use building with public roof, courtyard and restaurants and a tenant-fit-out mix points to a large, multi-tenant addressable-system job. The sources do not describe its fire alarm system.
+- **Tobacco Warehouse.** It sits beside Empire Stores and now houses St. Ann's Warehouse and the Max Family Garden — https://www.tripadvisor.com/Attraction_Review-g60827-d565042-Reviews-Empire_Fulton_Ferry_State_Park-Brooklyn_New_York.html
+- **Fireboat House, 1 Water St.** This is a two-story building from 1926 at Furman and Old Fulton Streets. It is in the district and was used as a fireboat house, then a museum, then an ice cream concession — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20220628/1-Water-Street.pdf
+- **Fireboat House today.** Ample Hills Creamery shares the building, which the Brooklyn Ice Cream Factory has occupied since 2001 — https://brooklyneagle.com/81702/fulton-ferry-landing-cafe-and-bar-hits-setback/
+- **A fire-safety theme for the page.** The old wooden Fulton Ferry terminal had a small fire in 1910 and a larger one in 1919. A fire on October 8, 1925 led to its demolition in March 1926 — https://www.bklynlibrary.org/blog/2021/02/26/brief-life-fanciful
+- **Fireboat House as a hook.** The Fireboat House was built the next year on the same site, and Fireboat Engine 77 occupied it by 1931 — https://www.brownstoner.com/architecture/building-of-the-day-1-water-street/
+- **New retail infill: 20 Old Fulton St.** LPC unanimously approved a one-story red-brick building with two retail spaces, one planned as a coffee shop. It sits between the Eagle Warehouse and the 7 Everit St co-op — https://www.brownstoner.com/neighborhood/brooklyn-heights/landmarks-preservation-commission-20-old-fulton-street-fulton-ferry-historic-district-coffee-shop-lpc/
+- **Council-of-the-lot history.** The lot had been empty for decades, well before the 1977 designation — https://www.brownstoner.com/development/brooklyn-fulton-ferry-historic-district-stores-lpc-20-old-fulton-street-snohetta-korolev/
+- **Waterfront café.** An earlier plan for a permanent restaurant pavilion on the Fulton Ferry Landing pier was sent back by LPC — https://brooklyneagle.com/81702/fulton-ferry-landing-cafe-and-bar-hits-setback/
+- **Fireboat café.** A restored FDNY fireboat, the *Governor Alfred E. Smith*, was planned to dock on the north side of the pier with extra café and bar seating — https://en.wikipedia.org/wiki/Governor_Alfred_E._Smith_(fireboat)
+
+**LPC rules that affect alarm work**
+- **Interior vs. exterior.** Exterior alterations in a historic district need LPC approval, and interior work generally does not — https://www.textileblog.com/lpc-rules-for-brooklyn-brownstone-renovations-whats-regulated-and-what-isnt/
+- **Exterior work.** LPC says an exterior project needs a permit even if it needs no DOB permit or can be self-certified at DOB — https://www.nyc.gov/site/lpc/applications/permit-types.page
+- **Exterior devices.** Exterior horn/strobes or conduit on a facade would count as exterior work (inference). LPC says mounting points should go through mortar joints or plain masonry, not ornamental details — https://thebrownstoneboys.substack.com/p/exterior-lighting-in-a-nyc-historic
+- **Precedent.** An LPC permit in the Prospect Park South district lists "removing a fire alarm" among approved exterior work. It is a different district and only shows that LPC reviews exterior alarm hardware — https://s-media.nyc.gov/agencies/lpc/Permits/PermitFiles/CNE-19-30871.pdf
+- **Process.** LPC permit applications are filed through Portico, and LPC approval does not replace DOB approval — https://www.nyc.gov/site/lpc/applications/permit-types.page
+- **State-owned property.** LPC cannot regulate state or federal property, only city, private and institutional property — https://bvs.nyc/agencies/lpc. Empire Stores and the Tobacco Warehouse were state-owned as of 2013 (https://www.brooklynbridgepark.org/wp-content/uploads/2020/10/Conversion-Property-Appraisal-Part-1-of-3-final-8-14-2013.pdf). I can't confirm today's ownership or jurisdiction.
+
+**NYC fire alarm rules that apply here**
+- **Where a system is required.** NYC Building Code §907 sets where a system is required. Sprinklers alone don't trigger a full building fire alarm, and a required system must be central-station monitored by an FDNY-approved supervising station — https://www.builtengineers.com/post/nyc-fire-alarm-system-requirements-by-occupancy-group
+- **Plans and approval.** Fire alarm documents go to the Fire Department for approval before installation — https://www.wmfireprotection.com/code-compliance.php
+- **Application requirements.** The application needs a Certificate of Occupancy or approved Schedule A, floor plans, a riser diagram and an operating sequence matrix. A NYS-registered PE or RA must approve the plans, and the fire alarm plan needs a licensed Master Electrician and S97 holder — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application
+- **Inspection.** The system must be 100% complete and pre-tested before the FDNY inspection — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application
+- **Professional certification.** FC 104.2.1 allows professional certification of fire alarm design and installation in place of FDNY plan exam and inspection. The "core building fire alarm system" is excluded — https://rules.cityofnewyork.us/wp-content/uploads/2022/08/fire-alarm-rule-amendments-104-02-104-04-105-01-3-16-23-revised-promulgation-final.pdf
+- **Testing cycle.** One industry summary says NYC requires semi-annual functional tests and a full retest every 5 years — https://www.tfp1.com/blog/fdny-fire-alarm-inspection-requirements/
+- **Impairments.** FC 901.7.5.2 sets thresholds for a fire alarm out of service 8+ hours in 24 or 30+ hours a month, which matters for retrofits in occupied buildings — https://up.codes/viewer/new_york_city/nyc-fire-code-2022/chapter/9/fire-protection-systems
+- **Restaurants.** The Fire Code requires sprinklers in many occupancies and within 30 ft of commercial cooking equipment. That is relevant to the neighborhood's café and restaurant tenants — https://up.codes/viewer/new_york_city/nyc-fire-code-2022/chapter/9/fire-protection-systems
+- **Radio coverage.** An FDNY permit is required to operate an in-building auxiliary radio communication system. It is a separate FDNY item that can come up on larger buildings — https://www.nyc.gov/site/fdny/business/all-certifications/per-firedeptinbuilding.page
+
+**Local data and discussion**
+- HPD violations for Fulton Ferry addresses — EMPTY
+- 311 complaints — EMPTY
+- DOB permits for fire alarm work in the district — EMPTY
+- Reddit threads about fire alarms or building systems in Fulton Ferry/DUMBO — EMPTY
+- Local news about fire alarm problems in Fulton Ferry — EMPTY. The search only turned up unrelated Fulton Street/Fulton Avenue fires elsewhere in Brooklyn.
+- Named Fulton Ferry businesses beyond those above (for example River Café, Grimaldi's) — EMPTY. The searches didn't verify them. Brownstoner says only that the city leased the Fireboat House to the River Café owner (https://www.brownstoner.com/architecture/building-of-the-day-1-water-street/).
+
+### 2. Neighborhood background
+
+**History**
+- **Ferry beginnings.** The first commercial ferry grant went to Cornelis Dircksen in 1642 — https://en.wikipedia.org/wiki/Fulton_Ferry_(ferry)
+- **Steam ferry.** Robert Fulton's steam ferry began in 1814, and the street was renamed for him — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+- **Revolutionary War.** The landing was used to evacuate 9,000 of Washington's troops overnight after the Battle of Brooklyn — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+- **1835 street widening.** Streets were widened in 1835, which allowed commercial growth — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/fulton-ferry/
+- **Warehouse boom.** Railroad lines reached the landing in the 1850s, followed by massive brick warehouses, notably Empire Stores — https://brooklynbridgepark.org/about/history/
+- **Empire Stores construction.** Nesmith & Sons, a Manhattan firm, completed Empire Stores in 1869. The state parks agency acquired it in 1978 — https://brooklynbridgepark.org/press-releases/empire-stores-from-cargo-warehouse-to-ruin-to-development-site-1868-to-present/
+- **Decline.** The ferry ended January 19, 1924 after the Brooklyn Bridge opened in 1883 — https://en.wikipedia.org/wiki/Fulton_Ferry_(ferry)
+- **The elevated stop.** The Fulton Ferry elevated station ran from 1888 to 1940 — https://en.wikipedia.org/wiki/Fulton_Ferry_station
+- **Revival.** Friends of Fulton Ferry Landing formed in 1985 and conceived the idea of Brooklyn Bridge Park — https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park
+- **Architect.** Frank Freeman designed the Eagle Warehouse at 28 Cadman Plaza West, the only building in the district by a prominent architect — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+
+**Streets and corridors**
+- **Main streets.** Old Fulton Street leads to the landing. Water, Front, Furman, Everit and Cadman Plaza West are the other main streets in the district (see the LPC map above).
+- **Cadman Plaza West.** The old Fulton Street is now Cadman Plaza West, named after preacher S. Parkes Cadman, though it keeps the Fulton name at the river — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+
+**Building stock**
+- **Styles.** Federal houses and commercial buildings in Italianate, Greek Revival and Romanesque Revival styles — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+- **Landmark districts.** Fulton Ferry HD (1977) and the neighboring DUMBO Historic District (designated December 2007) — https://home2.nyc.gov/html/lpc/html/publications/designation_brooklyn.shtml
+- **Part of CB2 / near Dumbo.** It is a small area adjacent to Dumbo in Brooklyn Community District 2 — https://en.wikipedia.org/wiki/Fulton_Ferry,_Brooklyn
+- **Population.** A 2010 census figure of 1,042 residents (via a secondary site) — https://www.longislandexchange.com/new-york-city/brooklyn/fulton-ferry/
+- **High-rises, detached houses, walk-ups, tower blocks** — EMPTY. The searches found no data on these types.
+
+**Parks and landmarks**
+- **Empire Fulton Ferry.** Part of Brooklyn Bridge Park, it has Jane's Carousel, Empire Stores and the Tobacco Warehouse — https://www.tripadvisor.com/Attraction_Review-g60827-d565042-Reviews-Empire_Fulton_Ferry_State_Park-Brooklyn_New_York.html
+- **Brooklyn Bridge.** The district lies in the shadow of the Brooklyn Bridge — https://www.longislandexchange.com/new-york-city/brooklyn/fulton-ferry/
+- **Fulton Ferry Landing and the Fireboat House.** See above.
+
+**Known for**
+- **Origin.** It was where "Brooklyn began" per the 1977 LPC report — https://s-media.nyc.gov/agencies/lpc/lp/0956.pdf
+- **Ferry link.** It was the first steam ferry link to Manhattan, and with Brooklyn Heights it was called America's first suburb — https://artsandculture.google.com/asset/fulton-ferry-historic-district/HAHDh2Wof1JS0A
+
+**Recent news (current to October 2026)**
+- **Marine work.** Marine maintenance at Fulton Ferry Landing runs August–December 2026, mostly overnight, with a work barge in the former Bargemusic slip — https://brooklynbridgepark.org/park-alerts-closures/
+- **Park closures.** The Empire Fulton Ferry Lawn is closed from October 12, 2026 until Spring 2027. 334 Furman is being renovated as park offices and a future Education Center, due Spring 2028 — https://brooklynbridgepark.org/park-alert-closures/
+- **Road work.** DOT closed lanes on Old Fulton Street under the BQE at night through Feb. 28, 2026 for repairs — https://brooklyneagle.com/369288/old-fulton-street-lane-closures-in-effect-for-bqe-repairs/
+- **Ferry service.** NYC Ferry's East River A and B routes stop at DUMBO/Fulton Ferry — https://www.ferry.nyc/blog/nyc-ferry-summer-2026-schedule/
+- **Drone incident.** A Brooklyn Eagle headline lists an NYPD drone crashing and catching fire near the FIFA World Cup Fan Zone in Brooklyn Bridge Park (June 29, 2026). I did not open the article — https://brooklyneagle.com/81702/fulton-ferry-landing-cafe-and-bar-hits-setback/
+- **Building security or entry-system news for Fulton Ferry** — EMPTY.
+- **Reddit discussion** — EMPTY.
+
+**Competitor note**
+- A local security installer's Fulton Ferry page claims "LPC compliant" installs with concealed wiring and no facade damage. Treat it as marketing, not verified fact — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-fulton-ferry-brooklyn-ny
+
+## Harding Park, Bronx — /fire-alarm-installation-harding-park-bronx-ny (factory research, 2026-10-28)
+
+I ran out of search calls before I could look up city datasets directly. HPD, 311, DOB and LPC data are not covered; those items are marked EMPTY below.
+
+### A. Fire-alarm-specific angles (most important)
+
+**Building types, wiring and access**
+- Most of Harding Park is about 250 small, tightly packed bungalows, not apartment buildings. City Lore describes about 250 bungalows, many tidily kept and brightly painted. — https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- Lots are tiny and the houses sit very close together, which affects detector placement and fire spread. Developer Higgs laid out lots from 25x40 to 30x60 feet, with bungalows and tents about twenty feet apart. That produced narrow, alley-like streets. — https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1161&context=qc_pubs
+- Streets are irregular, and some are not on official maps. The neighborhood developed without regard to the borough street grid, with some streets interrupted midblock and others absent from official maps. Some streets are so tiny they have no names. This matters for site access and for giving an address to a monitoring station. — https://www.welcome2thebronx.com/2018/08/a-brief-history-of-clason-point-in-the-bronx/ ; https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- Many houses have been expanded or fused together. One neighbor had expanded her house to double the standard bungalow width. Several bungalows appear fused into a sprawling mega-bungalow. After WWII, some were renovated to almost double their original size. Expect irregular layouts and non-standard wiring paths. — https://www.scoutingny.com/the-strangest-neighborhood-in-new-york-city/ ; https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/ ; https://fordhamram.com/2015/09/23/a-lens-into-the-past-harding-park
+- Many homes have grandfathered, non-conforming construction. An architect's project page says the 1982 deed transfer essentially grandfathered noncomplying construction, more or less exempting it from zoning rules and building codes. It adds there were no Certificates of Occupancy or sidewalks. The same page says the firm aimed to avoid an Alteration Type 1 filing, which would have sacrificed grandfathered existing conditions. This is a reason to scope work carefully so that it does not trigger a larger DOB filing. This is one architect's account, not an official DOB statement. — https://rachelfrankelarch.com/harding-park/
+- The 1950s city slum-clearance review counted 276 residential buildings in a 92-acre proposed site that included Harding Park. All were classified as substandard, and all but one lacked a certificate of occupancy. — https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1161&context=qc_pubs
+- Flood exposure affects equipment choice. The DCP Resilient Neighborhoods study covers retrofitting single-family homes and bungalows for flood risk. The related map shows FEMA V, A and Coastal A zones. A current for-sale listing says the property sits within a flood zone, common for this waterfront area. After Sandy, basements were apparently flooded in Harding Park, per Community Board 9. Basements, low-mounted panels and wiring are at risk, so moisture-rated or elevated components are worth considering. This is my inference; no source ties it to fire alarms specifically. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/harding-park/summary-report-harding-park.pdf ; https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/harding-park/harding_park_map.pdf ; https://tocr.com/properties/1323-harding-park-bronx-ny-10473/732276982/ ; https://citylimits.org/bronx-bruised-by-sandys-power/
+- Utilities were historically informal. One local history says the community lacked paved roads and sewer lines. The architect page says sewage went by cracked clay pipes directly into the East River. — https://cityneighborhoods.nyc/harding-park ; https://rachelfrankelarch.com/harding-park/
+- Heating and wiring are older. A restoration company's neighborhood page lists aging electrical wiring, overloaded outlets, and older heating equipment as common fire causes here. It also says older, closely spaced homes let flames spread between structures. This is marketing copy, not a fire-department statistic. — https://flooded.com/new-york/bronx-fire-and-smoke-damage-restoration/harding-park/
+- Governance is unusual. The Harding Park Homeowners Association is a cooperative. In 1982 residents became members of the association, the first cooperatively owned low- and moderate-income community in the city. Check whether HOA approval is needed for exterior work. No source confirms HOA rules on alarms or exterior equipment; that is EMPTY. — https://www.nycgovparks.org/parks/harding-park/history
+
+**Local fire news**
+- Recent local fire: a Norwood News report on a two-alarm fire at 344 White Plains Road in the Harding Park section, near Clason Point. Three firefighters were injured. There were no civilian injuries, and five civilians were displaced. The article's date is unclear: it says "Friday, May 18, 2024", but May 18, 2024 was a Saturday, and the article's tags name the Adams administration. Verify the date before citing it. The cause was under investigation. — https://www.norwoodnews.org/three-firefighters-injured-in-southeast-bronx-nonfatal-residential-fire-one-received-lifesaving-drug/
+- Caution: a News 12 story about a house fire at 2903 Harding Ave is in Throggs Neck, not Harding Park. — https://bronx.news12.com/one-person-injured-in-overnight-house-fire-in-throggs-neck
+- Caution: a competitor's "Harding Park" page claims the January 2022 Twin Parks fire "exposed systemic fire safety failures in Harding Park apartment buildings." That building was on East 181st Street, far from Harding Park, so do not repeat the claim. The same page describes Grand Concourse co-ops, NYCHA complexes and 6–12-story buildings, which do not describe Harding Park. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-harding-park-bronx-ny
+- That competitor page does include one point worth checking against official sources: fire alarm installation in commercial buildings requires FDNY approval, plan filings and NFPA 72 compliance. Verify the code details against FDNY before using. — https://www.abstractenterprisessecuritysystems.com/alarm-installation-harding-park-bronx-ny
+- Citywide context only: a 2026 Bronx explosion and fire where a lithium-ion battery is suspected, possibly from an e-bike. — https://www.cbsnews.com/newyork/news/explosion-fire-bronx-building-fdny/
+- HPD violations for Harding Park: EMPTY (not found).
+- 311 complaints for Harding Park: EMPTY (not found).
+- DOB permits and filings for Harding Park: EMPTY (not found).
+- LPC rules: EMPTY. I found no landmark district or landmark designation for Harding Park in these sources.
+- Reddit threads about Harding Park fire alarms or building safety: EMPTY. I found no Reddit threads. Informal reminiscences exist in blog comments instead. — https://www.scoutingny.com/the-strangest-neighborhood-in-new-york-city/
+
+**Businesses and blocks where it matters**
+- Commercial corridors nearby are White Plains Road and Soundview Avenue. They serve as Clason Point's main retail and dining destinations. Named businesses include Maravillas Bar & Grill, Fuggedaboutit pizzeria and Lechonera El Sazon Criollo. Food Universe Marketplace and Okodieba African Market are also listed. Commercial fire alarm work would fall here, not inside the bungalow blocks. — https://www.homes.com/local-guide/bronx-ny/clason-point-neighborhood/
+- Other businesses with addresses: Soundview Health Center at 731 White Plains Rd; Soundview Tires at 439 Soundview Ave; Clason Point Liquor Shop at 220 Soundview Ave. — https://www.yellowpages.com/bronx-ny/mip/soundview-health-center-473105263 ; https://www.yelp.com/biz/soundview-tires-bronx ; https://www.mapquest.com/us/new-york/clason-point-liquor-shop-788206231
+- Nearby housing types: Clason Point Gardens has forty-five 2-story buildings, and many NYCHA low- and high-rise buildings were built in Soundview from the 1950s to the 1970s. These are in Soundview, not inside Harding Park. — https://kids.kiddle.co/Soundview,_Bronx
+
+### B. Neighborhood background
+
+**History and development**
+- Early inhabitants and settlers: the Siwanoy had a village called Snakipins near Leland and Soundview Avenues. The Cornell family built the first farmhouse in what became Harding Park. — https://www.nycgovparks.org/parks/harding-park/history
+- 1920s: Thomas Higgs, who owned about 100 acres of beachfront, began leasing tents. Higgs's Beach and Killian's Grove were subdivided into small lots for a summer bungalow colony, named for President Harding. — https://www.nycgovparks.org/parks/harding-park/history
+- Conflicting dates: a Queens College paper says the bungalow colony developed in the 1910s. An architect's page says one bungalow's origins go to the late nineteenth century. Most sources say the 1920s. — https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1161&context=qc_pubs ; https://rachelfrankelarch.com/harding-park/
+- After WWII: a housing shortage led many tenants to make their bungalows permanent homes. — https://www.nycgovparks.org/parks/harding-park/history
+- 1957: tenants survived Robert Moses's attempt to raze what he called the "Soundview Slums." In 1979 the last private owner defaulted on taxes and the city took the land. — https://www.nycgovparks.org/parks/harding-park/history
+- 1981–82: The year is reported inconsistently. One account says the city sold the land to the association for $700,000 in 1981. NYC Parks says 1982 for association membership. — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- The 1970s fires hit the area. The "Bronx is burning" arson fires damaged or destroyed a significant portion of residential buildings in Harding Park. — https://fordhamram.com/2015/09/23/a-lens-into-the-past-harding-park
+- Demographics: Puerto Rican families moved in during the 1960s, and the area was nicknamed "Little Puerto Rico" by the early 1990s. — https://barrypopik.com/blog/little_puerto_rico_harding_park
+
+**Boundaries**
+- Boundaries vary by source. One says O'Brien Avenue to the north, Bolton Avenue to the east, and the Bronx River on the south and west. Another describes it as the maze of little streets along Bronx River, Leland, Gildersleeve and Cornell Avenues. — https://cityneighborhoods.nyc/harding-park ; https://forgotten-ny.com/2006/02/harding-park-bronx/
+- It is part of Bronx Community Board 9, ZIP 10473. NYC Parks lists Council Member Amanda Farías. — https://en.wikipedia.org/wiki/Bronx_Community_Board_9 ; https://www.nycgovparks.org/parks/harding-park
+
+**Main streets**
+- Soundview Avenue is the primary thoroughfare through Clason Point. White Plains Road's south end is at Bronx River Avenue in Clason Point. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx ; https://en.wikipedia.org/wiki/White_Plains_Road
+
+**Building stock and landmarks**
+- Bungalows, with additions, plus a few newer or larger homes. Housing stock is dominated by single-family bungalows. A current listing example is a 3-bedroom single-family, 1,776 sq ft home. — https://tocr.com/properties/1323-harding-park-bronx-ny-10473/732276982/
+- The former amusement park site was redeveloped as Shorehaven Beach Club in 1949, then Shorehaven Estates in 1986. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Landmark districts: EMPTY.
+
+**Parks and what it's known for**
+- Harding Park (park) is a 2.16-acre neighborhood park. It began in 1992 as two vacant lots on Bolton Avenue, assigned to NYC Parks in 1993. — https://www.nycgovparks.org/parks/harding-park ; https://www.bxtimes.com/harding-park-renovations/
+- An $11.4 million renovation and expansion was announced with an estimated three- to four-year timeline. Community Board 9's Parks Committee voted in favor of a letter of support for the design in December 2024. Construction in the area may affect access. — https://www.thecityreporter.nyc/2024/01/12/harding-park-bronx-redesign-expansion-amanda-farias/ ; https://www.nyc.gov/assets/bronxcb9/pdf/minutes/2024/12.11.24-Parks-Recreation-Summary.pdf
+- Nearby: Soundview Park, Clason Point Park and the Soundview ferry terminal. The Soundview Ferry Terminal is at Clason Point Park. — https://ephemeralnewyork.wordpress.com/2024/08/19/this-early-1900s-summer-resort-and-amusement-park-was-the-bronxs-version-of-coney-island/
+- Known for: a Cape Cod feel, with briny air and narrow hydrangea-lined streets. The author also reports roosters walking openly in the road. — https://theneighborhoods.substack.com/p/clason-point-the-bronx ; https://www.scoutingny.com/the-strangest-neighborhood-in-new-york-city/
+
+**Security, home technology and entry systems**
+- Recent news on building security, entry systems or home technology specific to Harding Park: EMPTY.
+- Reddit discussion: EMPTY.
+- AV or intercom setups: EMPTY. This is expected for single-family bungalows, since no buzzer or intercom systems showed up in sources.
+
+### Possible angles for the page
+- Retrofit work in small, closely spaced, older bungalows with additions and non-standard wiring.
+- Flood-zone-aware equipment placement.
+- Address and access challenges on unnamed or unmapped lanes.
+- A grandfathered-conditions caveat: confirm the scope with a licensed professional and DOB or FDNY requirements before promising that no filing is needed.
+- Commercial alarm work along White Plains Road and Soundview Avenue.
