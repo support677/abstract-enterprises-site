@@ -30,6 +30,8 @@ Run 2026-10-27 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 Run 2026-10-27 evening (scheduled, 00:53 UTC Oct 28, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-28T00:53:59Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2470 QUEUED URLs in 6 batches of up to 500: all 200. Inspected cat6-repair new dorp (Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at cat6-repair new dorp.
 
+Run 2026-10-28 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 4 marked indexed (browser inspection), 2494 still QUEUED. Google showed "Quota Exceeded" on the 12th (smart-lock great kills), which stays QUEUED; next run starts there. Note: smart-lock St George, Tottenville and Williamsburg inspected as "URL is unknown to Google" (no referring sitemap detected); requests still went through.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 2026-10-01 | https://www.abstractenterprisessecuritysystems.com/our-cameras | REQUESTED 2026-10-24
@@ -229,22 +231,22 @@ Run 2026-10-27 evening (scheduled, 00:53 UTC Oct 28, Claude in Chrome, account /
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-greenwich-village-manhattan-ny | REQUESTED 2026-10-27
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-flushing-queens-ny | REQUESTED 2026-10-27
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-riverdale-bronx-ny | REQUESTED 2026-10-27
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-new-dorp-staten-island-ny | QUEUED (quota hit 2026-10-27, retry next run)
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-upper-west-side-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-park-slope-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-astoria-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-riverdale-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-st-george-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-tribeca-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-tottenville-staten-island-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-harlem-manhattan-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bay-ridge-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-williamsburg-brooklyn-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-forest-hills-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-pelham-bay-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island-city-queens-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-mott-haven-bronx-ny | QUEUED
-2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-great-kills-staten-island-ny | QUEUED
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/cat6-repair-new-dorp-staten-island-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-upper-west-side-manhattan-ny | INDEXED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-park-slope-brooklyn-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-astoria-queens-ny | INDEXED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-riverdale-bronx-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-st-george-staten-island-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-tribeca-manhattan-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-tottenville-staten-island-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-harlem-manhattan-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-bay-ridge-brooklyn-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-williamsburg-brooklyn-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-forest-hills-queens-ny | INDEXED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-pelham-bay-bronx-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-long-island-city-queens-ny | INDEXED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-mott-haven-bronx-ny | REQUESTED 2026-10-28
+2026-10-17 | https://www.abstractenterprisessecuritysystems.com/smart-lock-installation-great-kills-staten-island-ny | QUEUED (quota hit 2026-10-28, retry next run)
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-hudson-square-manhattan-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-sunset-park-brooklyn-ny | QUEUED
 2026-10-17 | https://www.abstractenterprisessecuritysystems.com/fiber-optic-installation-astoria-queens-ny | QUEUED
