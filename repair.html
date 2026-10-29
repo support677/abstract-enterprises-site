@@ -598,7 +598,7 @@ if(qf){qf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=document.getElementById('qf-btn');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(qf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}
@@ -612,7 +612,7 @@ if(hf){hf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=document.getElementById('hf-btn');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(hf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){hf.style.display='none';document.getElementById('hf-ok').style.display='block'}

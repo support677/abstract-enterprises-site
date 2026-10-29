@@ -374,7 +374,7 @@ Licensed &amp; Insured
 <div class="hf-title" style="font-size:1rem">Flatbush Fire Alarm Request</div>
 <div class="hf-sub" style="font-size:.75rem">Apartment house, walk-up over a store, rowhouse or shop: give us the cross streets and what is going on, and a technician takes it from there</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Fire Alarm Installation Lead — Flatbush, Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -691,7 +691,7 @@ Licensed &amp; Insured
 <p class="bt">Give us the cross streets, the type of building, how many floors and households it has, and what is at street level, including anything that sits empty. A technician will call back about the Flatbush address, or you can call <a href="tel:+13479348335" class="lnk">(347) 934-8335</a> right now.</p>
 <figure class="pg-fig rv"><img src="/images/fire-alarm-installation/fire-alarm-installation-flatbush-network-installation-bronx-managed-poe-switch-rack-install.webp" alt="Flatbush, Brooklyn fire alarm installation reference: technician mounting a managed PoE switch below patch panels in a commercial network rack" title="Mounting a managed PoE switch in a commercial rack — Flatbush, Brooklyn fire alarm reference" width="1402" height="1122" loading="lazy"><figcaption>A photo from the AESS job library, not taken in Flatbush: a technician mounting a network switch under patch panels in a commercial rack. A medical office on Cortelyou Road or a store at the Junction that adds partner monitoring often has equipment like this in a back room, so we ask about it on the phone and plan where the alarm's communicator connects before the visit.</figcaption></figure>
 <div class="qf-card">
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST" style="gap:10px;max-width:620px">
+<form class="qf-form" id="qf" action="/api/contact" method="POST" style="gap:10px;max-width:620px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Fire Alarm Installation Lead — Flatbush, Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -754,7 +754,7 @@ Licensed &amp; Insured
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>

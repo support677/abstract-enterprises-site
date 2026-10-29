@@ -760,7 +760,7 @@ formData.append('floors',data.floors);
 formData.append('outdoor_areas',data.outdoor.join(', ')||'None selected');
 formData.append('area_selected',document.getElementById('areaSelect')?document.getElementById('areaSelect').value:'not-specified');
 formData.append('from_name','Abstract Camera Calculator');
-fetch('https://api.web3forms.com/submit',{method:'POST',body:formData})
+fetch('/api/contact',{method:'POST',body:formData})
 .then(r=>r.json()).then(d=>{
 document.getElementById('f-msg').style.display='block';
 document.getElementById('f-msg').style.background='#ecfdf5';

@@ -71,7 +71,7 @@ def process(steps):
                     % (i + 1, s['title'], s['text']) for i, s in enumerate(steps)) + '</div>')
 
 def full_form(k, area):
-    return ('<div class="rv" style="transition-delay:.12s;max-width:720px"><form action="https://api.web3forms.com/submit" method="POST" '
+    return ('<div class="rv" style="transition-delay:.12s;max-width:720px"><form action="/api/contact" method="POST" '
             'style="display:grid;gap:10px;background:#fff;border:1px solid var(--b);border-radius:14px;padding:24px">'
             '<input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">'
             '<input type="hidden" name="subject" value="New TV Mounting Quote Request &mdash; %s">'

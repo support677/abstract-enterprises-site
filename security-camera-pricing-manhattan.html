@@ -873,7 +873,7 @@ function cfShowForm(){
 function cfSubmit(e){
   e.preventDefault();var btn=document.getElementById('cfSubmitBtn');btn.disabled=true;btn.textContent='Sending...';
   var fd=new FormData(e.target);var data=Object.fromEntries(fd);
-  fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(data)})
+  fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(data)})
   .then(function(r){return r.json()}).then(function(d){
     if(d.success){
       var total=getTotal();

@@ -1113,7 +1113,7 @@ figcaption{font-size:.79rem;color:#6A7683;margin-top:10px;font-family:'JetBrains
       <div class="form-card">
         <h3>Get a Dutchess Network Quote</h3>
         <p class="form-sub">Tell us the building and whether a standard applies — we'll come back with a number.</p>
-        <form action="https://api.web3forms.com/submit" method="POST" id="heroForm">
+        <form action="/api/contact" method="POST" id="heroForm">
           <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
           <input type="hidden" name="subject" value="Network Installation Dutchess County — Free Quote Request">
           <input type="hidden" name="service" value="network-installation">
@@ -2013,7 +2013,7 @@ figcaption{font-size:.79rem;color:#6A7683;margin-top:10px;font-family:'JetBrains
       <h2>Get a Dutchess network quote</h2>
       <p class="lede">Tell us the building and whether an infrastructure standard applies. We will read it, walk the property, and come back with a line-item number.</p>
 
-      <form action="https://api.web3forms.com/submit" method="POST" id="detailForm">
+      <form action="/api/contact" method="POST" id="detailForm">
         <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
         <input type="hidden" name="subject" value="Network Installation Dutchess County — Detailed Enquiry">
         <input type="hidden" name="service" value="network-installation">
@@ -2102,7 +2102,7 @@ document.querySelectorAll('.faq-question').forEach(function(btn){
       e.preventDefault();
       var btn=f.querySelector('button[type=submit]'), original=btn.textContent;
       btn.textContent='Sending...'; btn.disabled=true;
-      fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(f)})
+      fetch('/api/contact',{method:'POST',body:new FormData(f)})
         .then(function(r){return r.json()})
         .then(function(){ f.innerHTML='<h3>Thanks — we got it.</h3><p>We\'ll be in touch shortly to arrange a walkthrough. If it\'s urgent, call <a href="tel:+18456403835">(845) 640-3835</a>.</p>'; })
         .catch(function(){ btn.textContent=original; btn.disabled=false; f.submit(); });

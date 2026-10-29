@@ -519,7 +519,7 @@ h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;line-height:1.1;letter-spa
 <div class="hf-title" style="font-size:1rem">Get a Free Quote</div>
 <div class="hf-sub" style="font-size:.75rem">We&#39;ll call you back within the hour</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New Intercom Lead">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -565,7 +565,7 @@ h2{font-size:clamp(1.8rem,4vw,2.6rem);font-weight:800;line-height:1.1;letter-spa
 <div class="rv stats" style="transition-delay:.28s">
 <div class="st"><div class="stn">25+</div>
 
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST">
+<form class="hf-form" id="hf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New Intercom Lead — Hudson Valley">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -965,7 +965,7 @@ if(hf){hf.addEventListener("submit",function(e){
 e.preventDefault();
 var btn=document.getElementById("hf-btn");
 btn.disabled=true;btn.textContent="Sending...";
-fetch("https://api.web3forms.com/submit",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},
+fetch("/api/contact",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},
 body:JSON.stringify(Object.fromEntries(new FormData(hf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){hf.style.display="none";document.getElementById("hf-ok").classList.add("show")}
@@ -992,7 +992,7 @@ fd.append('access_key','88890030-1770-483e-a622-0e054d8e14b1');
 fd.append('subject','New Intercom Lead — Hudson Valley');
 fd.append('from_name','Abstract Enterprises Website');
 try{
-const r=await fetch('https://api.web3forms.com/submit',{method:'POST',body:fd});
+const r=await fetch('/api/contact',{method:'POST',body:fd});
 const d=await r.json();
 if(d.success){document.getElementById('qf').classList.add('hidden');document.getElementById('qfs').classList.add('show')}
 else{btn.disabled=false;btn.textContent='Send Request →';alert('Error. Please call (800) 486-0943.')}

@@ -580,7 +580,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="hf-title" style="font-size:1rem">Get a Free Quote</div>
 <div class="hf-sub" style="font-size:.75rem">We'll call you back within the hour</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New Apartment Building Camera Lead — NYC">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -816,7 +816,7 @@ if(qf){qf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=document.getElementById('qf-btn');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(qf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}
@@ -830,7 +830,7 @@ if(hf){hf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=document.getElementById('hf-btn');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(hf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){hf.style.display='none';document.getElementById('hf-ok').style.display='block'}

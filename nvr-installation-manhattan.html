@@ -522,7 +522,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="hf-title" style="font-size:1rem">Get a Free Quote</div>
 <div class="hf-sub" style="font-size:.75rem">We&#39;ll call you back within the hour</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New NVR Installation Lead — Manhattan Page">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -687,7 +687,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"LocalBusiness","name":"Abstract Enterprises Security Systems","telephone": "+1-929-560-0737","address":{"@type":"PostalAddress","streetAddress":"1282 Troy Ave","addressLocality":"Brooklyn","addressRegion":"NY","postalCode":"11203","addressCountry":"US"},"priceRange":"$$","url":"https://www.abstractenterprisessecuritysystems.com/","areaServed":[{"@type":"City","name":"New York"},{"@type":"State","name":"New York"}],"hasCredential":{"@type":"EducationalOccupationalCredential","credentialCategory":"license","name":"NYS Low Voltage Contractor License","identifier":"12000287431","recognizedBy":{"@type":"Organization","name":"New York State"}},"aggregateRating":{"@type":"AggregateRating","ratingValue":"4.7","bestRating":"5","reviewCount":"201"}}</script>
 <script>
 var hf=document.getElementById("hf");
-if(hf){hf.addEventListener("submit",function(e){e.preventDefault();var btn=document.getElementById("hf-btn");btn.disabled=true;btn.textContent="Sending...";fetch("https://api.web3forms.com/submit",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify(Object.fromEntries(new FormData(hf)))}).then(function(r){return r.json()}).then(function(d){if(d.success){hf.style.display="none";document.getElementById("hf-ok").classList.add("show")}else{btn.disabled=false;btn.textContent="Send Request \u2192";alert("Something went wrong. Please call (929) 560-0737.")}}).catch(function(){btn.disabled=false;btn.textContent="Send Request \u2192"})})}
+if(hf){hf.addEventListener("submit",function(e){e.preventDefault();var btn=document.getElementById("hf-btn");btn.disabled=true;btn.textContent="Sending...";fetch("/api/contact",{method:"POST",headers:{"Content-Type":"application/json","Accept":"application/json"},body:JSON.stringify(Object.fromEntries(new FormData(hf)))}).then(function(r){return r.json()}).then(function(d){if(d.success){hf.style.display="none";document.getElementById("hf-ok").classList.add("show")}else{btn.disabled=false;btn.textContent="Send Request \u2192";alert("Something went wrong. Please call (929) 560-0737.")}}).catch(function(){btn.disabled=false;btn.textContent="Send Request \u2192"})})}
 </script>
 
 <script>
@@ -695,7 +695,7 @@ const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
 var qf=document.getElementById('qf');
-if(qf){qf.addEventListener('submit',function(e){e.preventDefault();var btn=document.getElementById('qf-btn');btn.disabled=true;btn.textContent='Sending...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(qf)))}).then(function(r){return r.json()}).then(function(d){if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}else{btn.disabled=false;btn.textContent='Send Request \u2192';alert('Something went wrong. Please try again or call (929) 560-0737.')}}).catch(function(){btn.disabled=false;btn.textContent='Send Request \u2192';alert('Connection error. Please try again or call (929) 560-0737.')})})}
+if(qf){qf.addEventListener('submit',function(e){e.preventDefault();var btn=document.getElementById('qf-btn');btn.disabled=true;btn.textContent='Sending...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(qf)))}).then(function(r){return r.json()}).then(function(d){if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}else{btn.disabled=false;btn.textContent='Send Request \u2192';alert('Something went wrong. Please try again or call (929) 560-0737.')}}).catch(function(){btn.disabled=false;btn.textContent='Send Request \u2192';alert('Connection error. Please try again or call (929) 560-0737.')})})}
 </script>
 
 <!-- ═══ STICKY PRICING BAR ═══ -->

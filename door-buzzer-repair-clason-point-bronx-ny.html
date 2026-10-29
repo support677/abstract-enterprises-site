@@ -844,7 +844,7 @@ Licensed &amp; Insured
 <div class="hf-title" style="font-size:1rem">Clason Point Buzzer Repair Request</div>
 <div class="hf-sub" style="font-size:.75rem">Condo, bungalow, house or apartment &mdash; we reply the same business day</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Door Buzzer Repair Lead — Clason Point, Bronx">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1027,7 +1027,7 @@ Licensed &amp; Insured
 <div class="rv"><h2>Request a Free Quote</h2></div>
 <div class="rv"><p class="bt">Say where the door is and who is responsible for it, and describe what a visitor experiences at the button. A technician replies the same business day with the likely fault, the usual payer for that part, and its range from the Bronx list.</p></div>
 <div class="rv"><h3 class="pg-h3">Four details that let us price a Clason Point repair before we arrive</h3><ul class="pg-list"><li>The kind of ground: inside the Shorehaven gate, a Harding Park lane, a house on a city street, or an apartment building.</li><li>Who owns the failed part, if you know: you, a condominium board, an association, a landlord.</li><li>A photo of the outdoor button or station, and of the indoor station, with no names or unit numbers showing.</li><li>Whether it stopped after rain, a storm, a power cut or work on the house.</li></ul></div>
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Door Buzzer Repair Quote — Clason Point, Bronx">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1154,7 +1154,7 @@ Licensed &amp; Insured
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (646) 490-0629.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (646) 490-0629.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (646) 490-0629.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (646) 490-0629.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>

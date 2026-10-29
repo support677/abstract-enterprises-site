@@ -732,7 +732,7 @@ function submitForm(){
   };
   // Add all data fields
   for(var k in data){if(data[k])payload[k]=data[k]}
-  fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(payload)}).then(function(r){return r.json()}).then(function(d){if(d.success){document.getElementById('stepsWrap').style.display='none';document.getElementById('prog').style.display='none';document.getElementById('badges').style.display='none';document.getElementById('successPane').classList.add('show')}else{btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Something went wrong. Call (800) 486-0943.')}}).catch(function(){btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Connection error. Call (800) 486-0943.')});
+  fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(payload)}).then(function(r){return r.json()}).then(function(d){if(d.success){document.getElementById('stepsWrap').style.display='none';document.getElementById('prog').style.display='none';document.getElementById('badges').style.display='none';document.getElementById('successPane').classList.add('show')}else{btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Something went wrong. Call (800) 486-0943.')}}).catch(function(){btn.disabled=false;btn.textContent='Get My Free Quote →';alert('Connection error. Call (800) 486-0943.')});
 }
 </script>
 

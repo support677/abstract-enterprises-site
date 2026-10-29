@@ -157,7 +157,7 @@
       fd.append('Deposit',document.getElementById('qb-dep').textContent);
       fd.append('Breakdown',document.getElementById('qb-break').textContent);
       fd.append('Page',pageName());
-      fetch('https://api.web3forms.com/submit',{method:'POST',body:fd})
+      fetch('/api/contact',{method:'POST',body:fd})
        .then(function(r){return r.json();})
        .then(function(){btn.style.display='none';document.getElementById('qb-lead-msg').style.display='block';if(typeof gtag==='function'){gtag('event','generate_lead',{brand:brand(),area:area()});}})
        .catch(function(){btn.textContent='Send Me This Quote \u2192';btn.disabled=false;alert('Could not send \u2014 please call (347) 934-8335.');});

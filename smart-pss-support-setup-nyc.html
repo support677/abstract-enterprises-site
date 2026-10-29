@@ -1193,7 +1193,7 @@ render(detect());chk();
       var btn=f.querySelector('button[type=submit]'); var orig=btn?btn.textContent:'';
       if(btn){btn.textContent='Sending…';btn.disabled=true;}
       try{
-        var r=await fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
+        var r=await fetch('/api/contact',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
         if(r.ok){ if(okId){var ok=document.getElementById(okId); f.style.display='none'; if(ok){ok.classList.add('show');ok.style.display='block';}} else if(btn){btn.textContent='✓ Got it — we\u2019ll call';} }
         else { if(btn){btn.textContent=orig;btn.disabled=false;} alert('Something went wrong — please call (800) 486-0943.'); }
       }catch(err){ if(btn){btn.textContent=orig;btn.disabled=false;} alert('Network error — please call (800) 486-0943.'); }

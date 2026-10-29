@@ -358,7 +358,7 @@ footer a:hover{color:var(--gold2)}
 </div>
 <div class="rh-side">
 <div class="rh-photo"><img src="/images/camera-repair/nvr-hard-drive-replacement.webp" alt="Technician replacing the hard drive inside a network video recorder in Manhattan" width="1200" height="675" loading="eager" fetchpriority="high"></div>
-<form class="rh-form" id="hqf" action="https://api.web3forms.com/submit" method="POST">
+<form class="rh-form" id="hqf" action="/api/contact" method="POST">
 <h3>Get a Repair Price Today</h3>
 <p class="rh-sub">Tell us what's wrong. We call back within the hour.</p>
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
@@ -435,7 +435,7 @@ footer a:hover{color:var(--gold2)}
 <div class="eyebrow"><div class="eyebrow-bar"></div><div class="eyebrow-text">60-Second Repair Quote</div></div>
 <h2 style="text-align:center">Tell Us What's <span>Broken</span></h2>
 <p class="intro" style="text-align:center;margin:0 auto 30px">Four questions. We call back within the hour with a likely cause and a price range — before anyone comes to your building.</p>
-<form class="micro-form" action="https://api.web3forms.com/submit" method="POST" id="qf">
+<form class="micro-form" action="/api/contact" method="POST" id="qf">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Manhattan Camera Repair Quote Request">
 <div class="row">
@@ -1668,7 +1668,7 @@ if(qf){qf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=qf.querySelector('button[type="submit"]');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(qf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){qf.innerHTML='<div style="text-align:center;padding:20px"><h3 style="color:var(--green);margin-bottom:10px">✓ Got it.</h3><p>We will call you back within the hour with a likely cause and a price range. Or call us now at (800) 486-0943.</p></div>'}
@@ -1697,7 +1697,7 @@ document.querySelectorAll('.rv').forEach(el=>observer.observe(el));
 <a href="https://wa.me/17186790359?text=Hi%2C%20I%20need%20a%20security%20camera%20repair." target="_blank" rel="noopener" class="wa-float" aria-label="Chat on WhatsApp"><svg width="28" height="28" viewBox="0 0 24 24" fill="#fff" aria-hidden="true"><path d="M17.47 14.38c-.3-.15-1.76-.87-2.03-.97-.27-.1-.47-.15-.67.15-.2.3-.77.97-.94 1.17-.17.2-.35.22-.65.07-.3-.15-1.26-.46-2.4-1.48-.89-.79-1.49-1.77-1.66-2.07-.17-.3-.02-.46.13-.61.13-.13.3-.35.45-.52.15-.17.2-.3.3-.5.1-.2.05-.37-.02-.52-.08-.15-.67-1.61-.92-2.21-.24-.58-.49-.5-.67-.51h-.57c-.2 0-.52.07-.79.37-.27.3-1.04 1.02-1.04 2.48s1.07 2.88 1.21 3.08c.15.2 2.1 3.2 5.08 4.49.71.31 1.26.49 1.69.63.71.23 1.36.2 1.87.12.57-.09 1.76-.72 2.01-1.41.25-.69.25-1.29.17-1.41-.07-.12-.27-.2-.57-.35zM12.05 21.5h-.01a9.4 9.4 0 0 1-4.8-1.31l-.34-.2-3.57.94.95-3.48-.22-.36a9.42 9.42 0 0 1-1.44-5.02c0-5.2 4.24-9.44 9.45-9.44 2.52 0 4.89.98 6.67 2.77a9.37 9.37 0 0 1 2.76 6.68c0 5.21-4.24 9.43-9.45 9.43zm8.04-17.47A11.3 11.3 0 0 0 12.05.7C5.8.7.7 5.79.7 12.05c0 2 .52 3.95 1.52 5.67L.6 23.3l5.72-1.5a11.33 11.33 0 0 0 5.42 1.38h.01c6.26 0 11.35-5.09 11.35-11.35 0-3.03-1.18-5.88-3.32-8.02z"/></svg></a>
 <script>
 (function(){var f=document.getElementById('hqf');if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=f.querySelector('button[type="submit"]');b.disabled=true;b.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){
 if(d.success){f.innerHTML='<h3>&#x2713; Got it.</h3><p class="rh-sub" style="margin:6px 0 0">We will call you back within the hour. Need us now? Call (800) 486-0943.</p>'}else{b.disabled=false;b.textContent='Get My Repair Price \u2192';alert('Something went wrong. Please call (800) 486-0943.')}
 }).catch(function(){b.disabled=false;b.textContent='Get My Repair Price \u2192';alert('Connection error. Please call (800) 486-0943.')})})})();
 </script>

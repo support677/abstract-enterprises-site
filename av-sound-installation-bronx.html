@@ -1788,7 +1788,7 @@ footer a:hover { color: var(--gold) !important; }
 <div class="lb"><div class="lbr"></div><div class="lbt">60-Second Qualifier</div></div>
 <h2>Tell Us About Your <span class="ac">Bronx</span> AV Project in 4 Questions</h2>
 <div class="acard rv" style="max-width:680px;margin:30px auto 0;padding:28px">
-<form action="https://api.web3forms.com/submit" method="POST" style="display:grid;gap:14px">
+<form action="/api/contact" method="POST" style="display:grid;gap:14px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="HA Quick Qualifier — Bronx">
 <input type="hidden" name="from_name" value="HA Bronx Page">
@@ -2004,7 +2004,7 @@ if(qf){qf.addEventListener('submit',function(e){
 e.preventDefault();
 var btn=document.getElementById('qf-btn');
 btn.disabled=true;btn.textContent='Sending...';
-fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
+fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},
 body:JSON.stringify(Object.fromEntries(new FormData(qf)))
 }).then(function(r){return r.json()}).then(function(d){
 if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}

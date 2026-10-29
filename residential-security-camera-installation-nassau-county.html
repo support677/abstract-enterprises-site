@@ -825,7 +825,7 @@ Licensed &amp; Insured
 <div class="hf-title" style="font-size:1rem">Nassau Home Camera Quote</div>
 <div class="hf-sub" style="font-size:.75rem">Name the village or hamlet, the style of house and what has happened nearby &mdash; a written figure follows the same business day</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Residential Camera Lead — Nassau County">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1095,7 +1095,7 @@ Licensed &amp; Insured
 <div class="rv" style="text-align:center;transition-delay:.08s"><h2>Request a <span class="ac">Free Quote</span></h2></div>
 <div class="rv" style="text-align:center;transition-delay:.12s"><p class="bt" style="text-align:center;margin:0 auto 10px">A Nassau house quote needs four things: the village or hamlet, the house style, how many outside doors it has, and where the cars are parked overnight. Photos of the front and back of the house help us place cameras before we arrive.</p></div>
 <div class="rv">
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Residential Camera Detailed Quote — Nassau County">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1302,7 +1302,7 @@ Licensed &amp; Insured
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (516) 346-5778.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (516) 346-5778.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (516) 346-5778.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (516) 346-5778.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>

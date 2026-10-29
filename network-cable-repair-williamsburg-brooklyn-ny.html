@@ -106,7 +106,7 @@ footer{padding:22px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-siz
 </div></section>
 <section class="sw" id="quick-form"><div class="cx">
 <h2 style="text-align:center">Request a <span class="ac">Free Quote</span></h2>
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Network Cable Repair Lead — Williamsburg Brooklyn">
 <div class="qf-row"><input name="name" placeholder="Name *" required><input name="phone" placeholder="Phone *" required></div>
@@ -118,7 +118,7 @@ footer{padding:22px 16px;background:#080a0f;color:rgba(255,255,255,.35);font-siz
 </div></section>
 <section class="sd"><div class="cx"><h2>Network Cable Repair Williamsburg</h2><p style="margin:12px 0 20px;color:rgba(255,255,255,.55)">NYS Lic. #12000287431</p><a class="bp" href="tel:+13479348335">Call (347) 934-8335</a></div></section>
 <footer><div class="cx">Abstract Enterprises LLC · Brooklyn · © 2026</div></footer>
-<script>var qf=document.getElementById('qf');if(qf)qf.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById('qf-btn');b.disabled=true;fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(qf)))}).then(r=>r.json()).then(d=>{if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}else b.disabled=false})});</script>
+<script>var qf=document.getElementById('qf');if(qf)qf.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById('qf-btn');b.disabled=true;fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(qf)))}).then(r=>r.json()).then(d=>{if(d.success){qf.classList.add('hidden');document.getElementById('qf-ok').classList.add('show')}else b.disabled=false})});</script>
 
 <!-- STICKY PRICING BAR -->
 <style>

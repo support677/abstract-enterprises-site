@@ -440,9 +440,13 @@ def check(root, slug, registration=True, stats=False):
         fail("page states a three-year warranty; live convention is the one-year parts-only terms sentence")
 
     # --- forms
-    forms = [f for f in page.forms if "web3forms.com" in f["attrs"].get("action", "")]
+    # Forms post to /api/contact (spam gate in netlify/functions/contact.mjs),
+    # which forwards real leads to Web3Forms. Never post straight to Web3Forms.
+    if any("web3forms.com" in f["attrs"].get("action", "") for f in page.forms) or "api.web3forms.com/submit" in raw:
+        fail("form posts straight to Web3Forms; use /api/contact (spam gate)")
+    forms = [f for f in page.forms if f["attrs"].get("action", "") == "/api/contact"]
     if len(forms) != 2:
-        fail(f"{len(forms)} Web3Forms forms (hero + detail required)")
+        fail(f"{len(forms)} /api/contact forms (hero + detail required)")
     for i, f in enumerate(forms, 1):
         inputs = f["inputs"]
         byname = {x.get("name"): x for x in inputs if x.get("name")}

@@ -950,7 +950,7 @@ function submitQuote(e){
   var btn=document.getElementById('mBtn');
   btn.disabled=true;btn.textContent='Sending...';
   var data=Object.fromEntries(new FormData(document.getElementById('quoteForm')));
-  fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(data)})
+  fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(data)})
   .then(function(r){return r.json()}).then(function(d){
     if(d.success){document.getElementById('mForm').style.display='none';document.getElementById('mSuccess').style.display='block'}
     else{btn.disabled=false;btn.textContent='Submit Quote Request →';alert('Something went wrong. Please call (347) 934-8335.')}

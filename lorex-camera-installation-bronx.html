@@ -532,7 +532,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="hf-title" style="font-size:1rem">Get a Free Lorex Quote</div>
 <div class="hf-sub" style="font-size:.75rem">We&#39;ll call you back within the hour</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New Lorex Camera Lead — Bronx">
 <input type="hidden" name="from_name" value="Lorex Camera Bronx Page">
@@ -790,7 +790,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv" style="background:#fff8ec;border:1px solid #e0b352;border-radius:14px;padding:22px">
 <h3 style="font-size:1.15rem;font-weight:800;margin-bottom:4px">Get a 60-second estimate</h3>
 <p class="bt" style="margin-bottom:14px">Tell us your property type and camera count, and we&#x2019;ll call with a ballpark.</p>
-<form action="https://api.web3forms.com/submit" method="POST" id="microForm" style="display:grid;grid-template-columns:1fr 1fr auto;gap:10px;align-items:end">
+<form action="/api/contact" method="POST" id="microForm" style="display:grid;grid-template-columns:1fr 1fr auto;gap:10px;align-items:end">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Lorex Easy-Form Lead — Bronx">
 <div><label style="font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#6b7280;display:block;margin-bottom:5px">Property type</label><select name="units" style="width:100%;padding:11px 12px;border:1px solid #d1d5db;border-radius:9px"><option>Apartment building</option><option>Commercial / office</option><option>Retail / warehouse</option><option>Home</option></select></div>
@@ -942,7 +942,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Free Quote</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Get Your Free Lorex Quote</h2></div>
 <div class="rv" style="transition-delay:.12s"><p class="bt" style="margin-bottom:20px">Tell us about your property. We&#x2019;ll call you back within the hour &#x2014; no obligation.</p></div>
-<form class="hf-form" id="hf2" action="https://api.web3forms.com/submit" method="POST" style="max-width:620px">
+<form class="hf-form" id="hf2" action="/api/contact" method="POST" style="max-width:620px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New Lorex Camera Lead — Bronx (bottom form)">
 <input type="hidden" name="from_name" value="Lorex Camera Bronx Page">
@@ -1270,7 +1270,7 @@ window.addEventListener('scroll',function(){
       var btn=f.querySelector('button[type=submit]'); var orig=btn?btn.textContent:'';
       if(btn){btn.textContent='Sending…';btn.disabled=true;}
       try{
-        var r=await fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
+        var r=await fetch('/api/contact',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
         if(r.ok){ if(okId){var ok=document.getElementById(okId); f.style.display='none'; if(ok){ok.classList.add('show');ok.style.display='block';}} else if(btn){btn.textContent='✓ Got it — we\u2019ll call';} }
         else { if(btn){btn.textContent=orig;btn.disabled=false;} alert('Something went wrong — please call (646) 490-0629.'); }
       }catch(err){ if(btn){btn.textContent=orig;btn.disabled=false;} alert('Network error — please call (646) 490-0629.'); }

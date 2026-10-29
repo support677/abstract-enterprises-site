@@ -1200,7 +1200,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="hf-title" style="font-size:1rem">Free Brooklyn Soundbar Quote</div>
 <div class="hf-sub" style="font-size:.75rem">The bar, the TV, the wall &mdash; a written price back the same business day</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Lead — Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1495,7 +1495,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv" style="text-align:center;transition-delay:.08s"><h2>Request a <span class="ac">Free Quote</span></h2></div>
 <div class="rv" style="text-align:center;transition-delay:.12s"><p class="bt" style="text-align:center;margin:0 auto 10px">Fill in what you know about the room &mdash; party wall, steel stud or frame &mdash; and the written Brooklyn total lands before close of business. A conversation suits you better? Ring <a href="tel:+13479348335" class="lnk">(347) 934-8335</a>.</p></div>
 <div class="rv" style="transition-delay:.16s">
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Detailed Quote — Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -1801,7 +1801,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>

@@ -2770,7 +2770,7 @@ Licensed &amp; Insured
 <div class="hf-title" style="font-size:1rem">Flushing Soundbar Quote</div>
 <div class="hf-sub" style="font-size:.75rem">Building, wall and who uses the TV — a written Queens price the same business day</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Lead — Flushing, Queens">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -3362,7 +3362,7 @@ Licensed &amp; Insured
 <div class="tc rv"><h2>Request a <span class="ac">Free Quote</span></h2></div>
 <div class="tc rv"><p class="bt" style="text-align:center;margin:0 auto 10px">A tower apartment over a 39th Avenue mall, a Linden Hill co-op or a house in Murray Hill or Broadway–Flushing — send the details and a written price comes back by the end of the business day. To talk it through instead, call <a href="tel:+13474346392" class="lnk">(347) 434-6392</a>.</p></div>
 <div class="rv">
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Detailed Quote — Flushing, Queens">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -3688,7 +3688,7 @@ Licensed &amp; Insured
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 434-6392.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 434-6392.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 434-6392.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 434-6392.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>

@@ -532,7 +532,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="hf-title" style="font-size:1rem">App Not Working? Get Help</div>
 <div class="hf-sub" style="font-size:.75rem">We&#39;ll call you back within the hour</div>
 </div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New App Support Lead — What Camera App Hub">
 <input type="hidden" name="from_name" value="Camera App Support Page">
@@ -728,7 +728,7 @@ footer{padding:36px 24px;background:#080a0f;border-top:1px solid rgba(255,255,25
 <div class="rv"><div class="lb"><div class="lbr"></div><span class="lbt">Get Help</span></div></div>
 <div class="rv" style="transition-delay:.08s"><h2>Get Your Camera App Working Again</h2></div>
 <div class="rv" style="transition-delay:.12s"><p class="bt" style="margin-bottom:20px">Tell us the app and the problem. We&#x2019;ll call you back within the hour &#x2014; no obligation.</p></div>
-<form class="hf-form" id="hf2" action="https://api.web3forms.com/submit" method="POST" style="max-width:620px">
+<form class="hf-form" id="hf2" action="/api/contact" method="POST" style="max-width:620px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="New App Support Lead — What Camera App Hub (bottom form)">
 <input type="hidden" name="from_name" value="Camera App Support Page">
@@ -974,7 +974,7 @@ render(detect());chk();
       var btn=f.querySelector('button[type=submit]'); var orig=btn?btn.textContent:'';
       if(btn){btn.textContent='Sending…';btn.disabled=true;}
       try{
-        var r=await fetch('https://api.web3forms.com/submit',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
+        var r=await fetch('/api/contact',{method:'POST',body:new FormData(f),headers:{'Accept':'application/json'}});
         if(r.ok){ if(okId){var ok=document.getElementById(okId); f.style.display='none'; if(ok){ok.classList.add('show');ok.style.display='block';}} else if(btn){btn.textContent='✓ Got it — we\u2019ll call';} }
         else { if(btn){btn.textContent=orig;btn.disabled=false;} alert('Something went wrong — please call (347) 934-8335.'); }
       }catch(err){ if(btn){btn.textContent=orig;btn.disabled=false;} alert('Network error — please call (347) 934-8335.'); }

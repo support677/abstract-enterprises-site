@@ -2651,7 +2651,7 @@ Licensed &amp; Insured
 <figure class="pg-fig" style="margin:0"><img src="/images/soundbar-installation/soundbar-installation-brooklyn-heights-bar-on-wall-above-fluted-console.webp" alt="Wall-mounted black soundbar under a TV being checked with a small level above a walnut console with fluted doors, a tool bag, HDMI cable and second soundbar on a moving blanket on the rug — Brooklyn Heights soundbar installation" title="Level check on a wall-mounted soundbar — Brooklyn Heights, Brooklyn soundbar installation" width="1600" height="650" loading="eager" style="max-width:100%;border-radius:16px;border:1px solid var(--b)"><figcaption style="font-size:.78rem;color:var(--g);margin-top:6px">The bar is already up; a small level along its top edge confirms it before the room is handed back, while the tools stay on a blanket away from the floorboards.</figcaption></figure>
 <div class="hf-card" style="margin-top:26px;max-width:420px;width:100%">
 <div class="hf-head" style="padding:14px 20px 10px"><div class="hf-title" style="font-size:1rem">Brooklyn Heights Soundbar Quote</div><div class="hf-sub" style="font-size:.75rem">Name the house and the wall &mdash; we call back with a written price the same working day</div></div>
-<form class="hf-form" id="hf" action="https://api.web3forms.com/submit" method="POST" style="padding:10px 20px 14px;gap:10px">
+<form class="hf-form" id="hf" action="/api/contact" method="POST" style="padding:10px 20px 14px;gap:10px">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Lead — Brooklyn Heights, Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -2970,7 +2970,7 @@ Licensed &amp; Insured
 <div class="rv" style="text-align:center;transition-delay:.08s"><h2>Request a <span class="ac">Free Quote</span></h2></div>
 <div class="rv" style="text-align:center;transition-delay:.12s"><p class="bt" style="text-align:center;margin:0 auto 10px">Whether it's a Greek Revival parlor on Remsen Street, an upstairs room in a Hunts Lane carriage house or a co-op living room on Columbia Heights, name the building, the floor and the wall and we'll send a written quote within the business day. Rather talk? Ring <a href="tel:+13479348335" class="lnk">(347) 934-8335</a>.</p></div>
 <div class="rv" style="transition-delay:.16s">
-<form class="qf-form" id="qf" action="https://api.web3forms.com/submit" method="POST">
+<form class="qf-form" id="qf" action="/api/contact" method="POST">
 <input type="hidden" name="access_key" value="88890030-1770-483e-a622-0e054d8e14b1">
 <input type="hidden" name="subject" value="Soundbar Installation Detailed Quote — Brooklyn Heights, Brooklyn">
 <input type="hidden" name="from_name" value="Abstract Enterprises Website">
@@ -3306,7 +3306,7 @@ Licensed &amp; Insured
 const ob=new IntersectionObserver(e=>{e.forEach(x=>{if(x.isIntersecting)x.target.classList.add('vis')})},{threshold:.12});
 document.querySelectorAll('.rv').forEach(e=>ob.observe(e));
 function tf(i){var a=document.querySelectorAll('.fi');a[i].classList.toggle('op');var p=a[i].querySelector('.fa');if(a[i].classList.contains('op')){p.style.maxHeight=p.scrollHeight+'px'}else{p.style.maxHeight='0'}}
-function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('https://api.web3forms.com/submit',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
+function wire(id,btnId,okId,stId){var f=document.getElementById(id);if(!f)return;f.addEventListener('submit',function(e){e.preventDefault();var b=document.getElementById(btnId),s=document.getElementById(stId);b.disabled=true;b.textContent='Sending...';if(s)s.textContent='Sending your request...';fetch('/api/contact',{method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(Object.fromEntries(new FormData(f)))}).then(function(r){return r.json()}).then(function(d){if(d.success){f.style.display='none';document.getElementById(okId).classList.add('show');if(s)s.textContent='Request sent.'}else{b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Something went wrong. Please call (347) 934-8335.'}}).catch(function(){b.disabled=false;b.textContent='Send Request \u2192';if(s)s.textContent='Connection error. Please try again or call (347) 934-8335.'})})}
 wire('hf','hf-btn','hf-ok','hf-status');wire('qf','qf-btn','qf-ok','qf-status');
 </script>
 </body>
