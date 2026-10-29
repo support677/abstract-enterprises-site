@@ -34,6 +34,8 @@ Run 2026-10-28 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 Run 2026-10-28 evening (scheduled, 00:53 UTC Oct 29, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-29T00:53:01Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2455 QUEUED URLs in 5 batches of up to 500: all 200. Inspected smart-lock great kills (Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at smart-lock great kills.
 
+Run 2026-10-29 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 marked indexed (all 11 inspected as not on Google; Ring Bronx, Nest Manhattan, eufy NYC/Manhattan/Staten Island were "URL is unknown to Google"). Google showed "Quota Exceeded" on the 12th (eufy long island), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
