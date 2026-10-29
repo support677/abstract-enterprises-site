@@ -37,17 +37,17 @@ Run 2026-10-28 evening (scheduled, 00:53 UTC Oct 29, Claude in Chrome, account /
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-nyc | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-staten-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-bronx | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-suffolk-county | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-prices-orange-county | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-prices-manhattan | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-prices-hudson-valley | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-nyc | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-brooklyn | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-queens | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-bronx | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-manhattan | REQUESTED 2026-10-29
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-staten-island | REQUESTED 2026-10-29
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-long-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-nassau-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-suffolk-county | QUEUED
