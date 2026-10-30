@@ -536,7 +536,7 @@ BUILDING 2026-10-30T18:13Z factory | intercom-installation-bath-beach-brooklyn-n
 BUILDING 2026-10-30T18:13Z factory | intercom-installation-boerum-hill-brooklyn-ny | Intercom Installation | Boerum Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-30T18:13Z factory | intercom-installation-borough-park-brooklyn-ny | Intercom Installation | Borough Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-10-30T18:13Z factory | intercom-installation-brighton-beach-brooklyn-ny | Intercom Installation | Brighton Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-10-30T18:13Z factory | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
