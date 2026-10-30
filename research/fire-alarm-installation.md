@@ -1568,3 +1568,618 @@ I ran out of searches before covering every topic. Items marked EMPTY were not f
 - **Italian heritage.** The Italian Enclaves Historical Society says Italians in Allerton were mostly concentrated in Laconia. It cites Sal and Dom's Bakery as an Italian American business that remains. — https://italianenclaves.org/neighborhoods/east-coast/new-york/bronx/allerton/
 - **ZIP and boundary inconsistency.** NeighborhoodScout, Redfin and city-data use ZIP 10469, while Wikipedia says 10467. Sources also disagree on Laconia's boundaries. Hedge geography on the page.
 - **Local news on building security, home technology or entry systems:** EMPTY. Nothing found specific to Laconia.
+
+## Morrisania, Bronx — /fire-alarm-installation-morrisania-bronx-ny (factory research, 2026-10-30)
+
+**Fire-alarm-specific facts (most important)**
+
+- **Fire, Boston Road (2019):** A three-alarm fire burned through two buildings in the Morrisania section of the Bronx. It broke out on Boston Road just after 5:40 a.m. No injuries were reported, but 15 people were left homeless. The FDNY said the cause was accidental (electrical, an extension cord). A smoke alarm was present but not working. — https://abc7ny.com/house-fire-bronx-morrisania-fdny/5168615/
+- **Forest Houses (NYCHA) fire, Nov 2025:** Two firefighters were seriously injured but are expected to be OK after a fire inside the Forest Houses, a NYCHA complex. Three other people were hurt, one of them seriously. The FDNY said the fire was reported on the sixth floor. The building's elevators were also out of service afterward. — https://bronx.news12.com/2-firefighters-3-others-injured-in-morrisania-fire
+- **Same fire, prior complaints:** Residents said "Many tenants on that floor had complained to housing about the condition and the smell that was coming out of that apartment." The fire was dated November 13, 2025. — https://bronx.news12.com/2-firefighters-3-others-injured-in-morrisania-fire ; https://www.dearielaw.com/news-insights/tag/forest-houses-nycha/
+- **Fatal fire, 722 E. 168th St (Nov 18, 2025):** The FDNY said a person died after a fire in a Morrisania home. It started on the second floor at 722 East 168th St. around 8:55 p.m. on a Tuesday. — https://bronx.news12.com/person-dies-after-fire-erupts-in-morrisania-home
+- **Fire, 1285 Washington Ave (Nov 2025):** The FDNY said one resident was hospitalized after a fire in a Morrisania apartment building. Firefighters were called to 1285 Washington Ave. just after 11 p.m. on a Thursday. — https://bronx.news12.com/2025/11/28/one-person-hospitalized-after-fire-erupts-in-morrisania-apartment-building/7InF5ldovDyCt9MitC9aUi
+- **High-rise balcony fire, E. 169th St:** A balcony at a high-rise building in Morrisania caught fire on a Friday morning. The FDNY got the call at 6 a.m. for a building on East 169th St., and close to 80 firefighters responded. — https://bronx.news12.com/fdny-responds-to-balcony-fire-at-morrisania-building
+- **Wood-frame house basement fire, Freeman St (Jan 2023):** The fire started around 11 a.m. on a Monday on Freeman Street near Prospect Avenue. The FDNY said it was in the basement of a wood-frame house. (Note: Freeman St/Prospect Ave may be on the Crotona Park East/Longwood edge, not core Morrisania. Check before using.) — https://www.cbsnews.com/amp/newyork/news/fire-breaks-out-in-basement-of-home-in-morrisania-the-bronx
+- **NYC smoke-alarm rule (applies to all rentals):** The NYC Housing Maintenance Code requires landlords to install smoke detectors in every apartment. All of them must now use a non-removable, non-replaceable battery that lasts at least 10 years and beeps when the alarm reaches the end of its life. An owner may charge the tenant up to $25 per smoke detector, or $50 for a combined smoke/CO detector. — https://rentguidelinesboard.cityofnewyork.us/resources/faqs/quality-of-life/
+- **HPD-subsidized buildings (NSPIRE):** Since December 29, 2024, all HPD rent-subsidized properties must follow the new statutory rules for these devices. Every smoke detector must be hardwired or have a sealed 10-year battery. There must be at least one working smoke alarm on every level, one outside every sleeping area, and one inside each bedroom. This matters here because so much of Morrisania is subsidized housing. — https://www.nyc.gov/site/hpd/services-and-information/property-owner-bulletins/property-owners-nov-2024.page
+- **HPD inspections, tenant responsibility:** HPD generally holds tenants responsible for battery-operated smoke and CO detectors that don't work because the battery is dead. — https://www.nyc.gov/site/hpd/services-and-information/inspections.page
+- **HPD paperwork:** Within 10 days after detectors are installed or replaced, the owner must file a Certificate of Satisfactory Installation with HPD. — https://www.thehabitatgroup.com/how-to-comply-with-new-smoke-detector-requirements/
+- **Competitor-page warning:** A competitor's Morrisania fire-alarm page says the January 2022 fires at the Twin Parks North West building on East 181st Street killed 17 people and exposed systemic fire safety failures in Morrisania apartment buildings. That building is at 333 East 181st Street, which is outside the Morrisania boundaries given below (Crotona Park is the northern edge). This is my own inference. Don't repeat that claim; if you mention Twin Parks, call it a Bronx-wide example. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-morrisania-bronx-ny.html ; https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire
+- **Not Morrisania:** The recent fire at 1484 Montgomery Ave is in the Morris Heights section. Don't attribute it to Morrisania. — https://www.cbsnews.com/newyork/news/fire-bronx-apartment-building-fdny/
+- **Building security / entry systems (East 169th St & Morris Ave, 2022):** Senior residents said youths were overrunning their building. Management said it would put two uniformed security guards inside the building and continue 24/7 monitoring of security cameras. — https://abc7ny.com/bronx-residents-living-in-fear-teens/12158502/
+- HPD violation counts for Morrisania specifically — EMPTY
+- 311 fire/smoke-detector complaint data for Morrisania — EMPTY
+- DOB fire-alarm permit data for Morrisania — EMPTY
+- LPC rules on alarm devices or wiring in the historic district — EMPTY (the district exists; see below)
+- Reddit threads on fire alarms or smoke detectors in Morrisania — EMPTY
+
+**History and development**
+
+- The Village of Morrisania, founded in 1848, was the first area west of the Bronx River to be densely settled in what is now the Bronx. — https://www.gothamcenter.org/blog/earlybronxsettlement-zy4la-6h6h4-tlwga-allfs-5gpbn-p8hkk-gewm2-86weg-453lp-rtg9j-b4nt8-f2n45-2s22f-kmea4-5jtmm-a2l5n-ljflg-bbjh6-82t6p-w9slx-nhf8r-egskg-7mja9-rk27k
+- In 1840, Gouverneur Morris Jr. let a railroad be built across the family's land. In 1848 he sold land near the line, and it became a new town called Morrisania Village. Morrisania joined New York City in 1874, and the Third Avenue Elevated line reached it in 1887. — https://kids.kiddle.co/Morrisania,_Bronx
+- By the time the subway arrived in 1904, a large wave of immigrants had made the area urban, and tenements had replaced houses as the main type of housing. — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+- Arson and disinvestment in the late 1960s and 1970s destroyed 40 percent of Morrisania's housing stock, and more than half the population left. — https://theneighborhoods.substack.com/p/morrisania-the-bronx
+- Since 1990, about 8,500 new housing units have been built and another 9,000 preserved. — https://www.nyc.gov/assets/dcla/downloads/pdf/BCC-NACI-Morrisania.pdf
+- Community development groups such as Banana Kelly, Phipps Houses and the Mid-Bronx Desperadoes led the work of reclaiming abandoned buildings and rebuilding affordable housing. — https://cityneighborhoods.nyc/morrisania
+
+**Boundaries, streets and commercial corridors**
+
+- Boundaries: Crotona Park to the north, Prospect Avenue to the northeast and east, and East 163rd Street to the south. The western border runs north from East 161st Street along Park Avenue to East 168th Street, then east to Fulton Avenue and back north to Crotona Park. — https://cityneighborhoods.nyc/morrisania
+- Third Avenue, Boston Road and Prospect Avenue are the main commercial streets, lined with small businesses that reflect the neighborhood's Latino, African-American and West African communities. — https://cityneighborhoods.nyc/morrisania
+- The main commercial zones run along Third Avenue from East 169th Street to Claremont Parkway, and along Boston Road on several blocks between East 163rd and Crotona Park East. The 161st Street corridor is zoned C4-4. — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- The Morrisania rezoning area runs roughly from East 168th Street (north) to East 163rd Street (south), and from Washington Avenue (west) to Third Avenue (east). It proposed an MX (M1-1/R7-2) mixed-use district allowing manufacturing, commercial, residential and community uses. — https://www.nyc.gov/assets/planning/download/pdf/plans/morrisania/morrisania.pdf
+- Third Avenue, Boston Road and 169th Street form the commercial corridors. — https://www.invictusnyc.com/neighborhoods/morrisania
+
+**Building stock**
+
+- Building mix: pre-war and newer multifamily buildings, many rent-stabilized or income-restricted, alongside mixed-use buildings. — https://www.invictusnyc.com/neighborhoods/morrisania
+- Many subsidized attached multi-unit townhouses and new apartment buildings have been built, or are being built, on vacant lots across the neighborhood. — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- **Claremont Village (NYCHA):** Morris Houses is a NYCHA public housing project with 17 buildings. It is one of four connected projects (Butler, Morrisania and Webster houses are the others) known together as Claremont Village. — https://en.wikipedia.org/wiki/Morris_Houses
+- Morris Houses sits between East 169th and 171st Streets, and between Park and 3rd Avenues. — https://en.wikipedia.org/wiki/Morris_Houses
+- Webster Houses has 5 buildings, each 21 stories, between Webster and Park Avenues and East 168th and 169th Streets. It was completed in September 1965. — https://en.wikipedia.org/wiki/Webster_Houses
+- Morrisania Air Rights was built in 1980 and houses 1,950 public housing residents in three buildings, nearly 840 families. — https://www.nyc.gov/assets/nycha/downloads/pdf/morrisania-factsheet-en.pdf
+- Butler Houses and Forest Houses (both NYCHA) are listed in the city's cultural inventory. — https://www.nyc.gov/assets/dcla/downloads/pdf/BCC-NACI-Morrisania.pdf
+- Co-op, high-rise condo or detached-house breakdown — EMPTY. The only detached-house evidence is the wood-frame house in the Freeman St fire above.
+
+**Landmarks and historic district (LPC)**
+
+- **Morris High School Historic District:** Morris High School was built in 1901 in the Collegiate Gothic style. The surrounding blocks of two- and three-story brick houses, in the Free Classical style, went up mainly between 1900 and 1904. The oldest building in the district is Trinity Episcopal Church, begun in 1874. It was designated December 21, 1982. — https://hdc.org/buildings/morris-high-school-historic-district/
+- The district includes the attached homes on both sides of Jackson Avenue between East 166th and Home Streets, plus homes on the west side of Forest Avenue. Since 2002 the school building has been the Morris Campus, housing five small specialty high schools. — https://forgotten-ny.com/2011/01/morrisania-bronx/
+- In 1982 the city's Landmarks Preservation Commission designated the auditorium interior as a landmark. This matters for any alarm devices or wiring in that room. — https://www.nycago.org/Organs/Brx/html/MorrisHS.html
+- Herman Ridder Junior High School (Public School 98), 1619 Boston Road, was designated December 11, 1990. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+
+**Parks**
+
+- Crotona Park is a 127.5-acre public park in the South Bronx. Claremont Park borders the western edge of the district. — https://en.wikipedia.org/wiki/Crotona_Park ; https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+
+**What it's known for**
+
+- Morrisania was one of the centers of American music, from bebop and doo-wop to hip hop. KRS-One is from Morrisania. — https://theneighborhoods.substack.com/p/morrisania-the-bronx
+- Former New York mayor Ed Koch grew up in Morrisania, and Colin Powell attended Morris High School. — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+
+**Local Reddit discussion**
+
+- EMPTY
+
+**Things that change how installation is done here**
+
+- Many buildings are subsidized or NYCHA, which brings the NSPIRE/HPD rules above (hardwired or sealed 10-year detectors, in every bedroom). — https://www.nyc.gov/site/hpd/services-and-information/property-owner-bulletins/property-owners-nov-2024.page
+- Work in the Morris High School Historic District and on the landmarked auditorium interior may need LPC review. The specific rules weren't found (EMPTY). — https://hdc.org/buildings/morris-high-school-historic-district/
+- Concealed vs. surface wiring in the pre-war tenements — EMPTY (no source found)
+
+## Mount Hope, Bronx — /fire-alarm-installation-mount-hope-bronx-ny (factory research, 2026-10-30)
+
+- [FIRE ALARM – local fire] Sept. 27, 2017, five-alarm fire on Walton Avenue: it started on the sixth floor of the building on Walton Avenue in the Mount Hope section just after 6:30 a.m. Many residents were still sleeping as smoke started to fill the hallways of the building. — http://abc7ny.com/residents-escape-5-alarm-fire-in-apartment-building/2459383/
+- [FIRE ALARM – cockloft spread in this building type] The FDNY Commissioner said crews "found a heavy fire condition in the area between the top floor and the roof, which we know as the cockloft," said Nigro, "That's an area in this type of building where fire spreads rather quickly. — http://abc7ny.com/residents-escape-5-alarm-fire-in-apartment-building/2459383/
+- [FIRE ALARM – DOB complaint history, same building (1920 Walton Ave, at E 177 St)] The building has about 75 apartments, and is home to many elderly and disabled people, according to Department of Buildings records. In 2003, someone called the DOB to report that sparking wires were poking through a second floor apartment's walls; DOB inspectors weren't able to access the apartment and never issued a violation. — https://www.dnainfo.com/new-york/20170927/mount-hope/fire-1920-walton-avenue-fdny/
+- [FIRE ALARM – fire inside the landmark district] A two-alarm fire hit the three-story building at 1998 Morris Ave., right at the corner of East 179th Street in the Mount Hope section. 18 people from three families received emergency assistance on the scene. (1998 Morris Ave is named in the LPC Morris Avenue Historic District report, so this building is in the district.) — https://pix11.com/news/local-news/bronx/flames-tear-through-roof-of-bronx-apartment-building/
+- [FIRE ALARM – fatal fire on E 176th St, Feb. 2024] Officials say the fire started on the first floor of the four-story building, before spreading to the other floors. Firefighters faced heavy clutter conditions in the home while battling flames. — https://abc7ny.com/fire-mount-hope-bronx-apartment/14427583/
+- [FIRE ALARM – Weeks Ave fire] A fire occurred at around 5:48 a.m. on Weeks Avenue between 175th Street and the Cross Bronx Expressway. The flames erupted on the fifth floor and took nearly 60 firefighters to extinguish. — https://bronx.news12.com/fdny-1-person-in-serious-condition-following-mount-hope-apartment-fire
+- [FIRE ALARM – May 2026 fatal fire, labeled Mount Hope by media] The fire broke out just after 1 a.m. on West Tremont Avenue between Phelan Place and Sedgwick Avenue, and started on the top floor of the building and spread to an adjoining apartment, prompting a second alarm. Note: this spot is west of Jerome Ave, outside the usual boundaries listed below. — https://www.yahoo.com/news/articles/apartment-fire-kills-1-injures-131603550.html
+- [FIRE ALARM – Red Cross response, same fire] The American Red Cross said it is assisting seven families, including 13 adults and four children, with emergency aid and temporary lodging following the fire. — https://abc7ny.com/amp/post/apartment-fire-kills-1-injures-2-mount-hope-bronx/19156072/
+- [FIRE ALARM – Bronx-wide code gap (Wakefield fire, not Mount Hope)] Officials said that in older residential buildings, tenants won't hear an alarm unless their apartment is directly impacted. FDNY Chief Hodgens: "It's required that you have smoke detectors within your apartment, but it's not required that you have common smoke detectors throughout the building" — https://www.cbsnews.com/newyork/live-updates/fdny-battling-4-alarm-apartment-building-fire-in-the-bronx/
+- [FIRE ALARM – Bronx context: 2022 Twin Parks fire (East Tremont/Fordham, not Mount Hope)] Smoke spread through the building as a result of two malfunctioning self-closing doors, causing deaths throughout the building. The building's fire alarm system was triggered immediately. — https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire
+- [FIRE ALARM – Bronx context: 2017 Prospect Ave fire] Officials said none of the four battery-operated smoke detectors were working at the time. — https://www.nbcnews.com/news/us-news/numerous-fatalities-anticipated-5-alarm-bronx-fire-fdny-commissioner-s-rcna11524
+- [FIRE ALARM – Bronx context: wiring cause] In a separate Bronx fire (Watson Ave), "Marshals determined the cause of that fire to be a VX cable connected to a ceiling fixture in the top floor apartment," said FDNY Commissioner Daniel Nigro. — https://www.cbsnews.com/newyork/news/multi-alarm-fire-rips-through-apartment-building-in-the-bronx
+- [CODE – smoke alarm battery rule] By 2021, all residential smoke detectors in NYC must be powered by a 10-year, sealed, non-removable battery or hardwired to a unit's electrical system. — https://www.brickunderground.com/live/best-smoke-detector-for-nyc-apartments
+- [CODE – HPD filing] Within 10 days after all detectors have been installed in a building or when devices are changed according to the requirement time frames or whenever broken/missing devices are replaced, an owner must file a Certificate of Satisfactory Installation with HPD. — https://www.thehabitatgroup.com/how-to-comply-with-new-smoke-detector-requirements/
+- [CODE – HPD Section 8/HQS] Effective December 29, 2024, the NSPIRE mandate requires all smoke detectors to be either hardwired or equipped with sealed 10-year batteries. It also requires at least one working smoke alarm inside each bedroom. — https://www.nyc.gov/site/hpd/services-and-information/inspections.page
+- [LPC – the only historic district] The Morris Avenue Historic District was designated in 1986 by the LPC. The district lies along Morris Avenue and is bounded to the north by 179th Street and to the south by East Tremont Avenue. Any exterior work here (for example conduit, strobes, or roof equipment) probably needs LPC review. That is an inference; I found no specific LPC rule for alarms. — https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/jerome-avenue/07_feis.pdf?r=1
+- [LPC – district stock] A series of two-family row houses and tenements designed by John Hauser were built in five building campaigns between 1906 and 1910. Most have three-story, curved bow façades — https://hdc.org/hdc-across-nyc/bronx/hd-map/bronx-landmarks-morris-avenue/
+- [LPC – builder] The property was purchased by Jacob from the United Real Estate and Trust Company, and developed in five building campaigns between 1906 and 1910. — https://artsandculture.google.com/asset/morris-avenue-historic-district/9wG1IvF-cnGlWw
+- [LPC – size] The LPC designation list shows the district with BX · 2829 · 83 LP-01392 · Morris Avenue Historic District · 1973 MORRIS AVENUE · 7/15/1986 (35 buildings) — https://media.villagepreservation.org/wp-content/uploads/2025/01/31133909/LPC-Designations_as-of-01-31-2025.pdf
+- [DOB – permits] Next to 29 Mount Hope Place (a 1901 four-family walk-up), DOB activity shows Job Filed to Build 15-Story 99-Unit Building plus a demolition permit. — https://nyc.marketproof.com/building/bronx/mount-hope/29-mount-hope-place-10453?tab=overview
+- [NEW CONSTRUCTION – entry/AV] Mt. Hope Walton Apartments (1761 Walton Ave) list two elevators, video intercom, energy-efficient Appliances among amenities. — https://hcr.ny.gov/lottery-mt-hope-walton
+- [NEW CONSTRUCTION] Developers Procidia Development Group and Mt. Hope Housing Corporation broke ground on the 14-story building in 2022, according to the city. It sits near the Mount Hope Community Center on Walton Avenue and holds 103 apartments total. — https://www.brickunderground.com/rent/affordable-housing-lottery-1761-walton-avenue-mount-hope-bronx
+- [KEY LOCAL OWNER/MANAGER] Mount Hope Housing Company was founded in 1986 by community residents and leaders in response to the dramatic deterioration of the Mt. Hope section of the Bronx and it rehabilitates and manages affordable housing. Its office is at 2003-05 Walton Ave. — https://www.guidestar.org/profile/13-3419970
+- [HISTORY] This area was largely farmland until 1841, when the New York and Harlem Railroad opened a station that soon became the center of a village. In the 1850s, Postmaster Hiram Tarbox named the village Tremont, after the three major hills in the area (Fairmount, Mount Eden, and Mount Hope). — https://www.nycgovparks.org/parks/mount-hope-garden
+- [HISTORY] Mount Hope grew up around the Grand Concourse, which opened in 1909. In the 1970s, a wave of arson crimes damaged or destroyed many buildings, and the city rehabilitated the buildings and re-purposed them as townhouses and apartment buildings. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- [HISTORY] The construction of the Cross Bronx Expressway (1948–1972) cut through the southern edge of the neighborhood, displacing families and eroding the stability of once-thriving blocks. — https://cityneighborhoods.nyc/mt-hope
+- [HISTORY – early rowhouses] 55 East 176th Street dates to 1899, when the great estates of this neck of the borough were being sold off and parceled out. Similar survivors can be found in other pockets of the neighborhood. — https://ephemeralnewyork.wordpress.com/tag/mount-hope-historic-house-bronx/
+- [BOUNDARIES – sources disagree] One source says Mount Hope is bordered by Interstate 95 to the south, Webster Avenue to the east, and Jerome Avenue to the west. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/ . Another adds East Burnside Avenue as the northern edge: Bounded by the Cross Bronx Expressway to the south, Jerome Avenue to the west, East Burnside Avenue to the north, and Webster Avenue to the east — https://cityneighborhoods.nyc/mt-hope
+- [STREETS/CORRIDORS] Major corridors such as Tremont Avenue, Burnside Avenue, and Jerome Avenue provide access to transit and commerce; Commercial corridors like Burnside Avenue hum with life: bodegas, Dominican bakeries, and Caribbean restaurants sit beside salons and small groceries — https://cityneighborhoods.nyc/mt-hope
+- [STREETS] Grand Concourse runs through the heart of town and is the location of several subway stations and bus stops. Stations: Tremont Avenue, 176 Street, 174-175 Streets, Burnside Avenue, Mt Eden Avenue — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- [BUILDING STOCK – era] With 70.0% of the residential real estate in the Mount Hope neighborhood built no later than 1939, the area is almost entirely dominated by large apartment buildings — https://www.neighborhoodscout.com/ny/bronx/mount-hope
+- [BUILDING STOCK – unit counts by year] By year built: 4,469 1939 or earlier; 3,895 2010 to 2019. Population density: 80,633 people per square mile — https://www.city-data.com/neighborhood/Mount-Hope-Bronx-NY.html
+- [BUILDING STOCK – styles] Developers erected five- and six-story apartment houses along Tremont, Burnside, and Mount Hope Place, their façades rendered in Art Deco, neo-Renaissance, and Tudor Revival styles. — https://cityneighborhoods.nyc/mt-hope
+- [BUILDING STOCK – mix] Mount Hope is known for its longstanding, mid-rise apartment buildings and wood-frame houses, along with some Queen Anne architecture scattered throughout. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- [TENURE] In Mount Hope, 94% of the residents are renting compared to 6% owning a home, according to data from the U.S. Census Bureau. Large-scale apartment buildings with more than 50 units represent 40% of Mount Hope's rentals, 58% are small-scale complexes with under 50 units. Most installs will therefore be ordered by landlords or managers. — https://www.rentcafe.com/apartments-for-rent/us/ny/bronx/mount-hope/
+- [PARKS] Richman (Echo) Park, at Valentine Av bet. E Tremont Av and E Burnside Ave, takes its nickname from the well-defined echo that can be heard between the two large rock masses that dominate its dramatic topography. — https://www.nycgovparks.org/parks/richman-echo-park
+- [PARKS] Mount Hope Garden is on Creston Avenue between East Burnside Avenue and East 179th Street. NYC Parks completed a $5.1 million reconstruction of Mount Hope Garden — https://www.nycgovparks.org/parks/X274/news
+- [PARKS] The Cleopatra Playground, Mount Hope Garden, and Jennie Jerome Playground all cater to younger members of the family — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- [KNOWN FOR] In the 21st century, Mount Hope stands as one of the Bronx's strongest examples of neighborhood-driven renewal. — https://cityneighborhoods.nyc/mt-hope
+- [HPD violation counts / 311 complaint data for the neighborhood] EMPTY
+- [DOB fire alarm permit data specific to Mount Hope] EMPTY
+- [Reddit threads about Mount Hope fire alarms, smoke detectors, or building security] EMPTY
+- [Local news on intercoms, entry systems, or home technology in Mount Hope (beyond the 1761 Walton video intercom)] EMPTY
+- [Local fire alarm or security businesses based in Mount Hope] EMPTY
+- [Co-ops or detached-house details specific to Mount Hope] EMPTY
+
+**Notes:**
+- Two code sources conflict. One low-quality blog says multi-family buildings need hardwired detectors (https://www.buildinghealthx.com/blog/does-my-nyc-apartment-need-to-have-a-smoke-detector). Others say a 10-year sealed battery is enough. Check the NYC Housing Maintenance Code or FDNY before publishing either claim.
+- I couldn't find a Mount Hope Wikipedia page.
+
+## Norwood, Bronx — /fire-alarm-installation-norwood-bronx-ny (factory research, 2026-10-30)
+
+### 1. Fire alarm facts specific to Norwood (the main angles for this page)
+
+**Recent local fires that show why alarms matter**
+- 3435 DeKalb Ave (Aug 20, 2026): the fire broke out between Kossuth Avenue and East 208th Street just before 6 a.m., and fire officials believe it had been burning for quite some time before residents noticed it. — https://abc7ny.com/post/4-alarm-fire-burns-several-apartment-building-norwood-bronx/19707451/
+- The same DeKalb fire, residents' accounts: some said they heard no fire alarm and only woke up because a family member smelled smoke, a neighbor alerted them, or the FDNY did. One resident heard a faint fire alarm on the floor above but nothing on their own floor (the fifth). — https://www.norwoodnews.org/update-norwood-four-injured-in-dekalb-ave-fire-in-building-with-36k-penalties-due/
+- A 4th-floor resident at the DeKalb building said: "Actually, I'm supposed to have a smoke detector in front of my door and there's not one there. So, there was no alarm going off in the building." — https://www.norwoodnews.org/norwood-shocked-residents-share-reaction-to-4-alarm-residential-fire-at-3435-dekalb-ave/
+- City records for the DeKalb building: HPD said its records showed no smoke detector violations, but several DOB and HPD penalties and fines are pending, including violations for broken elevators, boilers and other problems. Norwood News also asked DOB which agency oversees fire alarm testing. — https://www.work4youlaw.com/blog/four-people-injured-in-bronx-building-fire/ ; https://www.norwoodnews.org/update-norwood-four-injured-in-dekalb-ave-fire-in-building-with-36k-penalties-due/
+- What the building is like inside (affects detector placement and wiring): it is one of three structures in a multi-story residential complex, and the fire started on the top floor. The flames spread into the cockloft, the space between the ceiling and the roof. An FDNY chief said "The building had blown-in insulation, which tends to hold the heat and smoke in... The wood in that cockloft is over 100 years old and very dried out." — https://www.cbsnews.com/newyork/news/fire-norwood-bronx-apartment-building/
+- The DeKalb fire was also slowed outside: two cars were blocking fire hydrants, so crews had to run hoses around them. — https://bronx.news12.com/4-injured-as-fire-rips-through-norwood-building
+- 374 East 209th St (Aug 5, 2026): an explosion and fire hit the building between Decatur Avenue and Parkside Place. The FDNY said the building had 27 apartments. DOB issued a full vacate order, citing problems with the building's structural stability. — https://pix11.com/news/local-news/fire-rages-inside-bronx-apartment-building/ ; https://ny1.com/nyc/bronx/news/2026/08/05/fire-the-bronx-norwood-fdny ; https://bronx.news12.com/2026/08/06/one-dead-injured-after-flames-erupt-at-norwood-apartment-building/5EpDQAA7F9q4d3pfvidkk3
+- Gas question at the 209th St building: residents said they smelled gas before the explosion, but FDNY call logs showed no gas leak reports at the building from January through August. A second body was later recovered (a second body was recovered on Friday). — https://abc7ny.com/post/dozens-displaced-deadly-explosion-5-alarm-fire-rips-norwood-bronx-apartment-building/19634548/ ; https://bronx.news12.com/2026/08/06/one-dead-injured-after-flames-erupt-at-norwood-apartment-building/5EpDQAA7F9q4d3pfvidkk3 ; https://abc7ny.com/post/bronx-officials-fear-2-more-could-dead-norwood-apartment-explosion-fire/19641931/
+- Councilmember Eric Dinowitz on the 209th St building: "A lot of the buildings in the Bronx are older. This building that was on fire was not fireproof." — https://www.cbsnews.com/newyork/news/explosion-fire-bronx-building-fdny/
+- Gas detector rule (ties to the 209th St explosion): HPD told owners that starting in 2025 they will also have to install natural gas detectors, and may want to switch now to combined devices that include gas detection. — https://www.nyc.gov/site/hpd/services-and-information/property-owner-bulletins/property-owners-nov-2024.page
+- Smaller incident, 2556 Rochambeau Ave (May 3, 2026): firefighters got a call at 6:18 p.m. reporting smoke. The building is across from a mosque. — https://www.norwoodnews.org/norwood-no-injuries-reported-after-fdny-called-to-2556-rochambeau-ave/
+- Older incident (date not shown in the source): a four-alarm fire hit a building on Knox Place a few blocks from Van Cortlandt Park, around 4:30 a.m. — https://www.cbsnews.com/amp/newyork/news/norwood-bronx-apartment-building-fire
+
+**Commercial strip fire**
+- The empty lot at 3109-3123 Bainbridge Avenue, south of East 206th Street, is where a 4-alarm commercial fire destroyed several small businesses in October 2023. It was the second fire to hit the same Bainbridge Bakery, after an April 2009 fire. Foodtown LLC plans multi-story apartments on the site. — https://www.norwoodnews.org/update-norwood-foodtown-llc-plans-to-build-multi-story-apartments-at-2023-bainbridge-avenue-fire-site/
+
+**Recalls and rules**
+- Norwood News covered a recall of 11,000 units of 3-pack smoke detectors sold by a Chinese manufacturer on Amazon from February 2024 through December 2025 (LSHOME brand). — https://www.norwoodnews.org/chinese-manufactured-smoke-detectors-sold-on-amazon-recalled-due-to-failure-to-warn-during-fire/
+- NYC rule: all residential smoke detectors must run on a 10-year sealed, non-removable battery or be hardwired into the unit's electrical system. — https://www.brickunderground.com/live/best-smoke-detector-for-nyc-apartments
+- Paperwork: within 10 days of installing or replacing detectors, an owner must file a Certificate of Satisfactory Installation with HPD. — https://www.thehabitatgroup.com/articles/2525
+- HPD-subsidized buildings (NSPIRE rules): detectors must be hardwired or use sealed 10-year batteries, with at least one working alarm on every level, one outside every sleeping area, and one inside each bedroom. — https://www.nyc.gov/site/hpd/services-and-information/inspections.page
+
+**Example buildings**
+- 3595 Bainbridge Ave: 71 units, 6 floors, built in 1926, 17 open violations. — https://www.openigloo.com/building/nyc/2017837-2033290025/bronx-norwood-3595-bainbridge-avenue-10467
+- New construction: Norwood Terrace Apartments, 56 newly built units at 3349 Webster Avenue. — https://a806-housingconnect.nyc.gov/nyclottery/AdvertisementPdf/199.pdf
+
+**Not found**
+- Neighborhood-level 311 complaint counts for smoke detectors or fire alarms — EMPTY
+- DOB fire alarm permit data for Norwood — EMPTY
+- Intercom, entry or AV integration situations specific to Norwood — EMPTY
+- Reddit threads about fire alarms in Norwood — EMPTY
+- Named businesses that need fire alarm work (beyond the Bainbridge fire site) — EMPTY
+
+### 2. History and development
+- Norwood was originally part of the Varian family's dairy farm. The neighborhood was laid out in 1889 by entrepreneur Josiah Briggs. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- New York City took over the area in 1873, and by the early 1900s it had changed from farms to something more suburban. — https://kids.kiddle.co/Norwood,_Bronx
+- Norwood was densely built with prewar apartment houses, many in Art Deco, Tudor Revival or neo-Renaissance styles, for the borough's growing working- and middle-class population. — https://cityneighborhoods.nyc/norwood
+- 1970s: Norwood went through arson, disinvestment and crime but never collapsed. — https://cityneighborhoods.nyc/norwood
+- From the 1970s to the 1990s Norwood was known for its Irish population, many from Catholic areas of Northern Ireland. Some called it Little Belfast. — https://kids.kiddle.co/Norwood,_Bronx
+- Zoning: the Webster Avenue/Bedford Park/Norwood Rezoning was adopted in 2011. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-norwood-bedfordpark.pdf
+
+### 3. Main streets and commercial corridors
+- Norwood's main commercial streets are Gun Hill Road, Jerome Avenue, Webster Avenue and Bainbridge Avenue. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- The former Irish community was centered on the Bainbridge Avenue and East 204th Street commercial zone. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+- East Gun Hill Road between Jerome Avenue and the Bronx River is dominated by large apartment buildings and, on the south side, by the Montefiore Hospital complex, founded in 1913. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- Boundaries: Webster Avenue to the southeast, East Mosholu Parkway to the southwest, West Gun Hill Road and Jerome Avenue to the northwest, and Van Cortlandt Park to the north. — https://cityneighborhoods.nyc/norwood
+
+### 4. Building stock
+- Mostly prewar apartment houses (see Section 2). Much of Norwood's prewar building fabric is still intact. — https://cityneighborhoods.nyc/norwood
+- Co-op example, The Lenru at 3388-3400 Wayne Ave: built in 1928 in a Jacobethan style with strong Tudor Revival accents, 6 floors, converted to a co-op in 1991. — https://en.wikipedia.org/wiki/The_Lenru
+- Co-op listing: 335 East 209th Street #16, a one-bedroom co-op; rentals also include units in 3-family private houses. — https://www.redfin.com/neighborhood/62331/NY/New-York/Norwood/rentals
+- High-rise example: Montefiore's research building, finished in 1966 by Philip Johnson, at East Gun Hill Road and Bainbridge Avenue. — https://forgotten-ny.com/2006/11/norwood-bronx/
+- Rowhouses or detached-house clusters — EMPTY
+
+### 5. Landmarks and LPC rules
+- Designated NYC landmarks in Norwood: the 52nd Police Precinct Station House, designated June 18, 1974. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- Keeper's House: a city landmark at Reservoir Oval East and Putnam Place that once housed the men who maintained the reservoir. — https://www.norwoodnews.org/landmarks-book-to-feature-30-bronx-hidden-gems-and-raise-borough-pride/
+- Valentine–Varian House, 3266 Bainbridge Ave: built in 1758 by Isaac Valentine, the Bronx's second-oldest house and oldest remaining farmhouse. — https://en.wikipedia.org/wiki/Valentine%E2%80%93Varian_House
+- Historic districts: I found none designated. A "Bainbridge Avenue District" appears only as a suggested site for landmark consideration from the Borough President's office. A campaign also asks the LPC to make Mosholu Parkway a Scenic Landmark. — https://media.villagepreservation.org/wp-content/uploads/2024/07/29104850/Proposed-Bronx-Landmarks-Smaller.pdf ; https://www.change.org/p/landmark-mosholu-parkway
+- Effect on fire alarm work: for most apartment buildings, no historic-district LPC rules apply (based on the above). LPC rules only matter at the individual landmarks.
+
+### 6. Parks and what Norwood is known for
+- Williamsbridge Oval: built from 1934 to 1937 on an abandoned reservoir site by the WPA; added to the National Register of Historic Places in 2015. — https://www.norwoodnews.org/opinion-acknowledge-oval-parks-milestone/
+- Mosholu Parkway: completed in 1911 as part of the Bronx park system. — https://cityneighborhoods.nyc/norwood
+- Montefiore Medical Center is the neighborhood's largest landowner and employer. — https://en.wikipedia.org/wiki/Norwood,_Bronx
+
+### 7. Remaining categories
+- Local Reddit discussion — EMPTY
+- Recent news on intercoms, entry systems or smart-home tech — EMPTY
+- Things that could change how installs are done, all from the sources above:
+  - 100-year-old cocklofts with blown-in insulation
+  - Six-floor prewar walk-ups and elevator buildings
+  - Residents reporting missing hallway detectors or alarms that didn't sound floor to floor
+  - The HPD gas-detector requirement
+  - The 10-day HPD certificate filing
+
+## Port Morris, Bronx — /fire-alarm-installation-port-morris-bronx-ny (factory research, 2026-10-30)
+
+### 1. Fire alarm facts specific to Port Morris (most important)
+
+**Building types and wiring situations**
+- The neighborhood's housing is mostly old factories turned into loft apartments. Many historic warehouses, factories and manufacturing buildings are being converted into lofts. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- The Clock Tower building (the former Estey Piano Factory, 112 Lincoln Ave) has about 144,000 sq ft. The landmark site is located in an M1-2/R6A zoning district, and the old Estey Piano Company Factory currently houses artists and their studios. — https://a860-gpp.nyc.gov/downloads/4f16c3616?locale=en
+- Clock Tower background: it is a 90-unit rental on the main commercial drag at 112 Lincoln Avenue. Carnegie Management's building opened in 2002. Carnegie also built the 6-story building next door at 23 Bruckner Blvd, with 130 new apartments, an enclosed swimming pool and a gym. — https://therealdeal.com/new-york/2017/05/18/the-anatomy-of-gentrification-how-the-clock-tower-building-is-changing-the-south-bronx/
+- Carnegie's 25 Bruckner Blvd is made up of two six-story buildings. — https://www.dnainfo.com/new-york/20170726/port-morris/crescendo-piano-district/
+- The LPC designation report describes the Estey factory as a 5-story building with many characteristic features of a late-nineteenth-century factory. Additions were built between 1890 and 1919. — https://www.nyc.gov/html/records/pdf/govpub/2398esteypianofinal.pdf ; https://www.citylandnyc.org/estey-piano-company-factory-receives-hearing/
+- Older rowhouses: the 1997 mixed-use district led to the rehabilitation of several blocks of residential row-houses between Bruckner Boulevard and East 134th Street in an area which only previously allowed industrial uses. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- City Planning describes the housing near Willow Ave as mainly two- and three-story row houses along East 133rd and East 134th Streets near Willow Avenue. — https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf
+- Renovated tenements: Antique stores have located in the storefronts of recently renovated tenements along the stretch of Bruckner Blvd. between Alexander and Willis Avenues. — https://media.villagepreservation.org/wp-content/uploads/2024/07/29104850/Proposed-Bronx-Landmarks-Smaller.pdf
+- New mid-rise buildings: 101 Bruckner Blvd is a seven-story residential building with 55 units. — https://newyorkyimby.com/2021/03/housing-lottery-launches-for-101-bruckner-boulevard-in-port-morris-the-bronx.html
+- The Bruckner, 91 Bruckner Blvd: 78 residences, 7 floors, built 2025. — https://thebrucknerbuilding.com/
+- Waterfront high-rises: Chetrit/Somerset Partners' 2401 Third Avenue and 101 Lincoln Avenue that will bring up to 1,300 units to the area. Nearby is a 419-unit affordable rental building known as 'Bruckner on the Bridge.' — https://www.cityrealty.com/nyc/market-insight/features/future-nyc/new-luxury-rental-building-bronx039s-piano-district-tops-off/9241
+- New industrial building: 307 Bruckner Blvd is a last-mile logistics building due to open in Q3 2026. Infrastructure includes ESFR fire protection and 4,000 amps of power. — https://newyorkyimby.com/2026/08/construction-nears-completion-on-307-bruckner-boulevard-in-port-morris-the-bronx.html
+- Commercial listing for 780 E 134th St (industrial): Fireproof and sprinklered, 10'x 12' freight elevator. — https://www.propertyshark.com/cre/commercial-property/us/ny/bronx/780-east-134th-street-2/
+
+**Local fire incidents**
+- Three-alarm fire at the Parallel Products recycling plant, 900 E. 136th St: Five out of the 138 responding FDNY members suffered non-life threatening injuries. FDNY officials believe the fire began in the building's ceiling. The cause of the fire was determined to be a faulty electrical panel. — https://www.bxtimes.com/3-alarm-fire-in-a-port-morris-recycling-warehouse-injures-5/
+- Citizen app incident titled "Fire in Elevator Shaft" at 544 E 134th St, Port Morris, Bronx · Oct 6. The year is not shown. — https://citizen.com/-P3rrPoZ2Z30Ia0E6gKO
+- Citizen app report of a fire at the FreshDirect warehouse, 2 St Ann's Ave, Apr 16. The year is not shown. — https://citizen.com/-M55F-Iuc29ajtBxPl9J
+- History of arson: a wave of arson in the 1970s led to much of the area burning down. — https://historica.fandom.com/wiki/Port_Morris
+
+**City data and rules**
+- HPD violation counts for Port Morris: EMPTY
+- 311 complaint data (smoke detectors / fire alarms): EMPTY
+- DOB fire alarm permits or filings for specific Port Morris buildings: EMPTY
+- LPC: the Estey Piano Company Factory is an individual landmark. It was designated May 16, 2006 (Designation List 374, LP-2195), Block 2309, Lot 1 in part. That means exterior work there falls under LPC rules. — https://www.nyc.gov/html/records/pdf/govpub/2398esteypianofinal.pdf
+- Proposed but not designated: the Bronx Borough President's office suggested a Bruckner Boulevard historic district at 39-69 Bruckner Blvd (Block 2296, Lots 47–57), described as One cohesive block front of uniform structures. — https://media.villagepreservation.org/wp-content/uploads/2024/07/29104850/Proposed-Bronx-Landmarks-Smaller.pdf
+- Nearby (Mott Haven, not Port Morris): the Mott Haven Historic District (1969) and Mott Haven East Historic District (1994). — https://forgotten-ny.com/2013/11/mott-haven%E2%80%94port-morris-bronx/
+
+**Reddit and local discussion**
+- Reddit threads about fire alarms or fire safety in Port Morris: EMPTY
+
+**Businesses and blocks where this matters**
+- Former factories have been transformed into loft studios, distilleries, and design workshops, including the now-iconic Bronx Brewery, Port Morris Distillery, and Mott Haven Bar & Grill. — https://cityneighborhoods.nyc/port-morris
+- Charlies Bar & Kitchen operating on the ground level of the Clock Tower. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- The FreshDirect facility is at the Harlem River Yards (2 St Ann's Ave). — https://en.wikipedia.org/wiki/Harlem_River_Yards
+- Silvercup Studios turned a Bronx warehouse into its third production complex (2015). — https://www.wikiwand.com/en/Port_Morris,_Bronx
+
+### 2. History and development
+- The neighborhood is named for Gouverneur Morris Jr. The Port Morris section of The Bronx was once part of Morrisania, which was established as a seaport in 1842 by Gouverneur Morris, Jr. — https://6tocelebrate.org/neighborhoods/port-morris/
+- In 1842, the New York and Harlem Railroad extended its line into the Bronx, and Morris lobbied for a spur to his docks. — https://cityneighborhoods.nyc/port-morris
+- Port Morris primarily served as an industrial and manufacturing district well known for its piano factories. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- The Estey factory was built between 1885 and 1886 by the firm of A. D. Ogden and Sons. — https://www.citylandnyc.org/estey-piano-company-factory-receives-hearing/
+- By the early 20th century the Bronx had 60 piano factories, many located in Mott Haven. — https://urbanarchive.org/city/ny/s/7570af0c-ec48-4673-ad98-a8ea7654b7a2
+- Most of the buildings in the district, however, were not erected until the 1890s. — https://forgotten-ny.com/2013/11/mott-haven%E2%80%94port-morris-bronx/
+- Decline: By the 1970s, Port Morris mirrored much of the South Bronx's decline—abandoned warehouses, illegal dumping, and urban neglect defined its landscape. — https://cityneighborhoods.nyc/port-morris
+- Rezoning: in 1997 the city created the Port Morris Special Mixed Use District (the first MX-1). In December 2017 the Special Harlem River Waterfront District was expanded into western Port Morris. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- The "Piano District" name was controversial. In October 2015, a billboard went up near the Third Avenue Bridge declaring Port Morris to be the Piano District. — https://www.dnainfo.com/new-york/20170726/port-morris/crescendo-piano-district/
+
+### 3. Main streets and commercial corridors
+- Wide streets like East 138th Street, East 134th Street, and Bruckner Boulevard cut through a landscape of 19th-century warehouses, rail sidings, and converted industrial lofts. — https://cityneighborhoods.nyc/port-morris
+- Retail shops specializing in antiques emerged along Bruckner Boulevard, creating a new South Bronx "Antique Row". — https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf
+- Alexander Avenue and Bruckner Boulevard are now the main areas for shops and restaurants. — https://kids.kiddle.co/Port_Morris,_Bronx
+- Transit: 307 Bruckner is near the East 143rd Street-St. Mary's Street and Cypress Avenue subway stations, which both provide service for the 6 train. — https://www.bxtimes.com/construction-logistics-facility-port-morris/
+
+### 4. Building stock summary
+- Brick piano factories and warehouses from the 1880s–1910s, now lofts. Renovated tenements on Bruckner. 2–3-story rowhouses on E 133rd/134th. 6–7-story rentals built after 2000. 25-story waterfront towers. New logistics and warehouse buildings. Sources are cited above.
+- Co-ops: EMPTY. Detached houses: EMPTY.
+
+### 5. Parks and landmarks
+- Randall's Island Connector: it runs under the arches of the Hell Gate Bridge railroad trestle between 132nd Street at Willow/Walnut Avenues in the Bronx and the northern shore of Randall's Island Park. — https://randallsisland.org/visit/directions
+- Port Morris gantries: a pair of large ferry bridges or "gantries" was constructed in 1948. — https://6tocelebrate.org/neighborhoods/port-morris/
+- Estey Piano Factory / Clock Tower, an individual landmark. — https://hdc.org/buildings/estey-piano-company-factory/
+
+### 6. What it's known for
+- Piano making ("Piano Capital of the United States," per historian Lloyd Ultan), 1970s decline, conversion to lofts, the Bronx Brewery, and distilleries. — https://www.bxtimes.com/piano-district-name-stems-back-to-neighborhoods-roots/
+
+### 7. Recent news on building security, home technology, or entry systems
+- EMPTY. Nothing local was found about intercoms, access control, or smart-home systems.
+
+### 8. Local Reddit discussion
+- EMPTY. No Port Morris threads relevant to this service were found.
+
+### 9. What could change how fire alarms are installed here (my inferences from the sources above, not claims from any source)
+- Work on the Estey/Clock Tower exterior may need LPC review.
+- Loft conversions mean new wiring in old masonry factory buildings. Recurring examples are the Parallel Products fire, which started in the ceiling and was caused by an electrical panel, and the elevator-shaft incident on E 134th St.
+- New logistics buildings (ESFR sprinklers, high-bay warehouses) will likely need commercial alarm systems tied to their sprinkler systems.
+
+## Prospect Lefferts Gardens, Brooklyn — /fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny (factory research, 2026-10-30)
+
+### 1. Fire alarm facts specific to this neighborhood (most important)
+
+**Building types and wiring situations the service runs into**
+- Inside Lefferts Manor, the Brooklyn Eagle says each house had to cost at least $5,000 to build, be constructed by brick or stone, be at least two stories high and be set back from the street at least 14 feet. That means hard masonry walls in single-family rowhouses, which affects how wires get run. — https://brooklyneagle.com/articles/2025/07/27/how-prospect-lefferts-gardens-got-its-name
+- Outside the Manor, two-family row houses popped up, followed in the 1920s and 1930s by large apartment buildings. So the page should cover both single-family homes and multi-family buildings. — https://brooklyneagle.com/articles/2025/07/27/how-prospect-lefferts-gardens-got-its-name
+- In the two-family rowhouses, a tall stoop leading to a single entrance providing access to both apartments. Both units share one entry and stair. — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- East of Rogers Avenue there are four-story tenements, and the streets that stretch to the east from Rogers Avenue consist of a mix of frame houses, rowhouses and tenements. — https://www.livingplaces.com/NY/Kings_County/Brooklyn_Borough/Lefferts_Manor_Historic_District.html
+- Flatbush Avenue is lined with apartment buildings with commercial ground floors and with two- and three-story commercial buildings. These mixed-use buildings have shops below apartments. — https://www.livingplaces.com/NY/Kings_County/Brooklyn_Borough/Lefferts_Manor_Historic_District.html
+- The Ocean on the Park rowhouses were first owned by single families, but by the 1930s, many of these houses were subdivided for multi-family residential use. Subdivided rowhouses are a distinct type of job. — https://artsandculture.google.com/asset/ocean-on-the-park-historic-district/lgGxaMJi3f4ibQ
+- At the 80 Clarkson Ave. fire (Dec 2022), the flames were trapped between the roof and the building's top floor. Some residents at the building suspect faulty wiring, and a resident said the building was "still using fuses". This is evidence of old electrical service and fire hidden in the space between ceiling and roof. — https://abc7ny.com/post/nyc-fire-brooklyn-in-prospect-lefferts-gardens/12581226/
+- The Parkline at 626 Flatbush Ave. is a 24-story rental building (some sources say 23). It has 254 apartments, including 51 affordable units, along with retail and community facility space, and it was constructed to meet LEED Gold and Energy Star standards, featuring a co-generation plant. This is the neighborhood's high-rise, the kind of building with a full commercial fire alarm system. — https://www.cityrealty.com/nyc/prospect-lefferts-gardens/the-parkline-626-flatbush-avenue/57631
+- The Parkline's community space is occupied by the Maple Street School. — https://www.cityrealty.com/nyc/prospect-lefferts-gardens/the-parkline-626-flatbush-avenue/57631
+- Patio Gardens, a large apartment complex, was built in the early 1960s. — https://kids.kiddle.co/Prospect_Lefferts_Gardens
+- New construction: developers filed permits for a six-story structure at 408 Lefferts Ave., near New York Avenue, with 56 residential units. A new building like this will need a fire alarm system. — https://patch.com/new-york/prospectheights/56-unit-prospect-lefferts-gardens-building-will-replace-3-homes
+
+**Landmarks (LPC) rules that affect installation**
+- The historic district status applies to the exterior of the buildings in Prospect-Lefferts Gardens, so any proposed alterations to the outside of homes must receive approval from the Commission before work begins. My inference, not stated by the source: outside bells, strobes, conduit, or monitoring antennas on landmarked façades could need LPC review. — http://www.leffertsmanor.org/about/landmark-status
+- The neighborhood has three landmark districts: Prospect Lefferts Gardens (1979), Ocean on the Park (2009), and Chester Court (2014). The Chester Court Historic District has 18 Tudor-revival townhouses. — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+
+**Local fire news to use on the page (addresses and blocks)**
+- 35 Winthrop St. (early 2026): An early morning apartment fire killed an 81-year-old woman. A neighbor noticed what he described as an electrical smoke smell and called 911. The building had no building-wide alarm mentioned; neighbors detected it by smell. — https://brooklyn.news12.com/81-year-old-woman-dies-in-prospect-lefferts-gardens-apartment-fire
+- In the same fire, the blaze, at 35 Winthrop St., was reported by neighbors, who said they smelled smoke. — https://brooklyneagle.com/365470/senior-found-dead-in-prospect-lefferts-fire-five-injured/
+- 292 Hawthorne St. (June 2023): neighbors are hailing a sanitation truck driver as a hero, after the man repeatedly blew his horn to wake up residents. The building was a four-story mixed-use building with a deli and bodega on the ground floor. — https://www.brooklynpaper.com/prospect-lefferts-garden-fire-fdny/
+- 130 Clarkson Ave. (Sept 2020): firefighters found heavy fire and smoke billowing from the fifth floor of the seven-story building. — https://ufanyc.org/news/2020/09/fast-moving-fire-leaves-seven-injured-in-prospect-lefferts-gardens/
+- 572 Rogers Ave.: in a three-story building, three people were trapped on the third floor. FDNY described a "heavy smoke condition on the first floor going up the stairwell". — https://cbsnews.com/newyork/news/prospect-lefferts-gardens-fire
+- 203 Fenimore St.: a fire broke out on the second floor and quickly spread to the attic, and a woman was pronounced dead in the fire. — https://www.cbsnews.com/newyork/news/fire-leaves-1-dead-8-injured-in-prospect-lefferts-gardens-brooklyn/
+- 456 Brooklyn Ave. (date not given): a lighting strike hit 456 Brooklyn Ave. and some 220 firefighters battled the six-alarm blaze. — https://cbsnews.com/newyork/news/five-alarm-fire-rages-through-building-in-prospect-lefferts-gardens-section-of-brooklyn
+- Ebbets Field Apartments (Dec 2018; ABC7 placed it in PLG, though many sources put it in Crown Heights): a fire hit a unit on the 12th floor. Smoke spread into hallways because residents left their door open. The same complex was the scene of a fire in 2008 that killed an FDNY lieutenant. — https://abc7ny.com/brooklyn-building-fire-ebbets-field-apartments-prospect-lefferts-gardens-new-york-city/4970662/
+- A balcony fire on Flatbush Ave. (date not given): smoke and flames pouring out of the balcony of one of the units on Flatbush Avenue. — https://www.cbsnews.com/amp/newyork/news/prospect-lefferts-gardens-brooklyn-apartment-fire
+
+**Competitor already on this URL path**
+- Abstract Enterprises Security Systems already has a fire alarm page for Prospect Lefferts Gardens. It mentions Landlord obligations under NYC Multiple Dwelling Law § 68 and lists prices starts at $500 for a basic multi-floor setup. I did not verify its legal or pricing claims. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny.html
+
+**City data**
+- HPD violations about smoke or CO detectors in PLG: EMPTY
+- 311 complaints (smoke detector, fire alarm) in PLG: EMPTY
+- DOB/FDNY fire alarm permits in PLG: EMPTY. The only DOB filing found was the new-building permit at 408 Lefferts Ave. listed above.
+- Reddit threads about fire alarms in PLG: EMPTY. The search returned no relevant Reddit results.
+
+### 2. History and development
+- After nearby Prospect Park was completed in 1873, the town of Flatbush was being built up, and James Lefferts saw the value of the farmland. — https://brooklyneagle.com/articles/2025/07/27/how-prospect-lefferts-gardens-got-its-name
+- James Lefferts divided the farm into 600 lots to be developed as a high-end residential development called Lefferts Manor. Sources give the year as 1893, 1894, or 1896. — https://www.brownstoner.com/brooklyn-life/walkabout-the-l-3/
+- Between 1905 and 1911, more than 500 houses were built. — https://brooklynreporter.com/nabetags/prospect-lefferts/
+- In 1919 the Lefferts Manor Association was established to enforce the restrictions. — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- The name Prospect Lefferts Gardens was created in 1968 by the Prospect Lefferts Gardens Neighborhood Association (PLGNA). — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+- Since the 1960s, Caribbean immigrants have settled in Prospect Lefferts Gardens, and the neighborhood has been gentrifying quickly since the 2000s. — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+- Boundaries: Empire Boulevard (formerly Malbone Street) to the north, Clarkson Avenue to the south, New York Avenue to the east, and Ocean Avenue/Prospect Park to the west. — https://urbanareas.net/info/resources/neighborhoods-brooklyn/prospect-lefferts-gardens-brooklyn-history/
+- PLG is part of Brooklyn Community Board 9 and is serviced by the NYPD 71st Precinct. — https://www.bedbugpestcontrol.com/bed-bug-center/Prospect-Lefferts-Gardens
+
+### 3. Building stock and landmark districts
+- In the historic district, two- and three-story row houses, some of them with distinctive limestone facades, and freestanding homes in Romanesque, Colonial and Tudor Revival styles were built here from 1895 to 1925. — https://hdc.org/buildings/prospect-lefferts-gardens-historic-district/
+- The Lefferts Manor National Register district consists of 667 contributing buildings. It consists entirely of single-family residential buildings, most of which are stone, brick, or brick and stone rowhouses. — https://en.wikipedia.org/wiki/Lefferts_Manor_Historic_District
+- The district streets are Sterling Street from Bedford to Nostrand Avenue, Lefferts Avenue from Bedford to Nostrand Avenue, Lincoln Road from Flatbush Avenue to Rogers Avenue, Maple Street, Midwood, Rutland, and Fenimore. — https://www.accordrealestategroup.com/brooklyn-blog/brooklyn-prospect-lefferts-gardens
+- The Maple Street row between Bedford and Rogers were designed in the then-popular Renaissance Revival style by Axel Hedman in 1909. — https://villagepreservation.org/2019/10/17/beyond-the-village-and-back-architecture-in-prospect-lefferts-gardens/
+- Ocean Avenue, a couple blocks west of Lefferts Manor, was mostly built up with six-story apartment buildings capitalizing on the park views. — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- Ocean on the Park (designated 2009) covers 189–211 Ocean Ave. Charles Ebbets lived at No. 193: owner of the Brooklyn Dodgers and developer of Ebbets Field. — https://6tocelebrate.org/site/ocean-on-the-park-historic-district/
+- The Prospect Lefferts Gardens Historic District was added to the National Register of Historic Places in 2023. — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+- Conflicting claim: one site says the PLG Historic District was designated in 2015. That contradicts the 1979 LPC designation, so I treat it as unreliable. — https://cityneighborhoods.nyc/prospect-lefferts-gardens
+
+### 4. Main streets and commercial corridors
+- The major commercial corridors in Prospect Lefferts Gardens are Flatbush Avenue and Nostrand Avenue. — https://www.accordrealestategroup.com/brooklyn-blog/brooklyn-prospect-lefferts-gardens
+- Businesses on these corridors include Peppa's Jerk Chicken (738 Flatbush), Scoops Ice Cream (624 Flatbush), Taqueria El Patron (51 Lincoln Rd.), and Glou Wine Bar (406 Rogers Ave.). — https://www.ediblebrooklyn.com/2019/where-to-eat-and-drink-in-prospect-lefferts-gardens/
+- Bars and restaurants include The Westbury Inn (673 Flatbush), Parkside (705 Flatbush), King of Tandoor (600 Flatbush), and Sushi Tatsu (644 Flatbush). — https://www.accordrealestategroup.com/brooklyn-blog/brooklyn-prospect-lefferts-gardens
+- LinRoFORMA, founded 2010, organizes Lincoln Road residents and businesses to revitalize the street. — https://en.wikipedia.org/wiki/Prospect_Lefferts_Gardens
+- Transit: the Prospect Park B/Q station sits at Empire Blvd. and Flatbush Ave., and the Parkside Avenue Q station is at Parkside and Ocean. — https://en.wikipedia.org/wiki/Prospect_Park_station_(BMT_lines)
+
+### 5. Parks, landmarks, and what the area is known for
+- The Lefferts homestead stood on Flatbush between Maple and Midwood. The family donated the old homestead to the City in 1918 with the condition that it be moved to its current site in Prospect Park. — https://6tocelebrate.org/neighborhoods/prospect-lefferts-gardens/
+- The neighborhood is known for jerk chicken: Edible Brooklyn says it is home to some of Brooklyn's best jerk chicken. — https://www.ediblebrooklyn.com/2019/where-to-eat-and-drink-in-prospect-lefferts-gardens/
+- The annual Lefferts Manor House Tour is a well-known community event. — https://cityneighborhoods.nyc/prospect-lefferts-gardens
+- The 626 Flatbush tower drew community protest. The PPEN group objected that it will tower over Prospect Park. — http://www.ppen.org/p/our-position_3.html
+
+### 6. Recent news on building security, home technology, or entry systems
+- EMPTY. No PLG-specific coverage of intercoms, entry systems, or smart-home technology turned up.
+
+### 7. Local Reddit discussion
+- EMPTY
+
+### 8. Things that would change how the installation is done
+- Exterior work on landmarked buildings needs LPC approval (see section 1). — http://www.leffertsmanor.org/about/landmark-status
+- The Lefferts Manor single-family covenant is still upheld today by the Lefferts Manor Association. Most Manor jobs will be single-family residential, not multi-dwelling. — https://hdc.org/buildings/prospect-lefferts-gardens-historic-district/
+- Older apartment buildings on Clarkson Ave. may still have fuse-based electrical service, based on the 80 Clarkson resident's report (section 1). — https://abc7ny.com/post/nyc-fire-brooklyn-in-prospect-lefferts-gardens/12581226/
+- Specific FDNY or DOB rules, filing steps, or NYC detector laws as they apply here: EMPTY. Nothing was verified from a primary source. The competitor's claims about Multiple Dwelling Law § 68 and FDNY filing still need checking against official NYC sources.
+
+## Silver Beach, Bronx — /fire-alarm-installation-silver-beach-bronx-ny (factory research, 2026-10-30)
+
+**Read this first:** I found no Silver Beach–specific HPD violations, 311 complaints, DOB permits, LPC rules or Reddit threads. Those items are marked EMPTY. Some sources below are low quality or contradict each other, and I've noted which ones. A few bullets are my own inferences, and they're labeled as inferences.
+
+### Fire alarm–specific angles (most important)
+- The housing is tightly packed bungalows built for summer use. One writer said they began to be built closer and closer together, as if they were huddling. A former resident described homes that are squeezed together on a bluff on the southeastern tip of the Bronx — https://www.ourtownny.com/news/the-bronxs-lost-gated-community-BYNP1120010116301169975 ; https://www.bronxboard.com/diary/diary.php?f=Silver+Beach+and+the+Dungeons+of+Fort+Schuyler
+- Original construction details matter for wiring and sensor placement. A resident who moved in in 1939 described a bungalow at 7 Holly Place where the walls stopped two feet short of the ceilings. It had a central kerosene heater that attempted to heat the whole house, and these homes were originally built for summer residences only. — https://www.bronxboard.com/diary/diary.php?f=Silver+Beach+Remembered
+- One fire changed the community. The Silver Beach Tavern burned down, and after the fire the Silver Beach Association decided not to let it reopen. — https://www.bronxboard.com/diary/diary.php?f=Silver+Beach+Remembered
+- Recent local news (Bronx Times, about 49 days ago): during a morning run through Silver Beach, FDNY Lt. James "Jimmy" McConville ran into a burning home to save his neighbor and a dog inside. He noticed heavy black smoke coming from a neighbor's home and found the homeowner semi-conscious. This is a strong local example of why early detection matters — https://www.bxtimes.com/fdny-lieutenant-saves-neighbor-from-burning-home/
+- The FDNY connection is local character, not just a talking point: For generations, Silver Beach has been home to firefighters, retired firefighters and families with connections to the department. — https://www.bxtimes.com/fdny-lieutenant-saves-neighbor-from-burning-home/
+- Nearby fire (Throggs Neck, outside the co-op), Oct 2026: A second-alarm fire at 279 Swinton Ave. in Throggs Neck displaced six adults and a child. A neighbor first saw a small fire on a garbage can beneath the wooden porch before the deck and side of the house caught fire. — https://hoodline.com/2026/10/throggs-neck-fire-tears-through-swinton-avenue-home-displaces-family-of-seven/
+- Access and entry: the co-ops have closed-off streets and a single point of entry. They have security guards and signs that forbid loitering, trespassing or soliciting. A community site says Silver Beach restricts non-resident vehicle access and offers 24/7 security at its gates. Installers will need gate clearance — https://www.archpaper.com/2010/03/behind-closed-gates/ ; https://silverbeachthebronxneighborhood.org/living-in-silver-beach-bronx-a-hidden-waterfront-gem-with-tight-knit-community-vibes/
+- Ownership affects who approves work. Residents own their homes but lease the land from the collective, and pay a monthly maintenance fee, which includes real estate taxes. Inference: work may need co-op/corporation sign-off — https://theneighborhoods.substack.com/p/throggs-neck-the-bronx ; https://forgotten-ny.com/2007/04/silver-beach-bronx/
+- Narrow lanes: Indian Trail is a 5-foot-wide walkway of asphalt. Inference: this limits van and equipment access — https://www.ourtownny.com/news/the-bronxs-lost-gated-community-BYNP1120010116301169975
+- NYC rule: an existing dwelling unit reaches compliance with approved sealed-battery detectors. Hard-wired installation with battery backup and interconnection applies to new construction and substantial alterations. Inference: this matters because some homes were rebuilt — https://zentrades.pro/zenfire/blog/new-york-smoke-alarm-law-smoke-detectors-carbon-monoxide-rules-and-owner-duties
+- Rebuilt homes: one listing says its unit was knocked down and rebuilt in 1999. Redfin lists 3095 Mullan Pl as Built 2018 — https://www.realestatehudsonvalleyny.com/bronx/bronx-co-op-Silver-Beach/ ; https://www.redfin.com/neighborhood/207683/NY/New-York/Silver-Beach
+- FDNY guidance: smoke alarms in every sleeping area and they must be interconnected so if one is triggered they will all sound the alarm. — https://www.nyc.gov/assets/fdny/downloads/pdf/fire-safety-education/08%20smoke%20and%20cm%204%20page%20%20brochure_for%20web.pdf
+- CO alarms must be installed within 15 feet of the primary entrance to each sleeping room. This applies to all multiple dwellings and one-family and two-family homes. — https://www.prorealtyusa.com/2019/04/19/replacement-alarms-meeting-nyc-requirements/
+- Waterfront and storms: Throgs Neck, Pelham Bay and City Island neighborhoods along the eastern coast of the Bronx suffered the most damage when Hurricane Sandy hit, with power outages and property damage due to flooding. Inference: battery backup and placing panels above flood level matter here — http://bronxink.org/2012/10/30/25736-the-bronx-struggles-with-sandys-aftermath/
+- Nextdoor says local interests include emergency preparedness (cert/nert) — https://nextdoor.com/neighborhood/silverbeachlocustpoint--bronx--ny/
+- Competitor warning: 48 Fire Protection's Silver Beach page wrongly calls it a small lakeside community. Don't copy it — https://www.48fireprotection.com/new-york/silver-beach/
+- HPD violations: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY
+- Reddit threads: EMPTY
+- Local businesses where this matters: EMPTY
+
+### History and development
+- Before the co-op, the land was part of the Stephenson and Hammond farms. It later belonged to the powerful Havemeyer family — https://forgotten-ny.com/2007/04/silver-beach-bronx/
+- In the 1920s the Peters and Sorgenfrel families formed Silver Beach Garden (named for the color of the beach at low tide), a summer colony of bungalows. This comes from a forum quoting text marked "citation needed" — https://appraisersforum.com/forums/threads/co-op-in-silver-beach-gardens-throgs-neck-bronx.149769/
+- One source gives a founding date of 1920 and says founders constructed bungalows and cottages from repurposed materials. The source quality is uncertain — https://cityneighborhoods.nyc/silver-beach
+- Silver Beach Gardens finalized its own private co-op in 1973. Another source says by 1972, the 350-home community became incorporated. The two sources disagree on the date — https://www.archpaper.com/2010/03/behind-closed-gates/ ; https://www.ourtownny.com/news/the-bronxs-lost-gated-community-BYNP1120010116301169975
+- In 2010, the Fair Housing Justice Center sued Edgewater Park, Silver Beach and a broker for racial discrimination in its buying and selling practices. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+
+### Streets and building stock
+- a co-op community of 451 single family homes, South of the Cross Bronx Expressway (I-95). Home counts differ by source: 451 here, 350 above, about 300 in another account — https://www.realestatehudsonvalleyny.com/bronx/bronx-co-op-Silver-Beach/
+- Streets that appear in listings: Chaffee Ave, Aster Pl, Poplar Ave, Magnolia Pl, Oak Ave, Elm Pl. Several listings are tagged Built 1920 — https://www.redfin.com/neighborhood/207683/NY/New-York/Silver-Beach
+- most of the streets were named for flowers and trees found on the Hammond estate — https://appraisersforum.com/forums/threads/co-op-in-silver-beach-gardens-throgs-neck-bronx.149769/
+- Indian Trail meanders along the East River shore from Throgs Neck Blvd. to Jasmine Pl., past a multitude of tiny homes originally built as summer dwellings but since winterized. Street signs are wooden boards nailed onto the telephone poles — https://www.splicetoday.com/writing/take-me-to-throgs
+- Boundaries: Hollywood Avenue to the west, Shurz Avenue and Mullan Place to the north, Hammond Creek to the east, and the East River. This is unverified — https://cityneighborhoods.nyc/silver-beach
+- Doubtful claims, do not use:
+  - silverbeachthebronxneighborhood.org names Schuyler, Barkley and Maclay Avenues and places Silver Beach on Eastchester Bay.
+  - cityneighborhoods.nyc names Clarence, Crosby and Emerson Avenues. These look like general Throggs Neck streets.
+- Commercial corridors: EMPTY (none inside the gates). The nearest shopping listed is Throggs Neck Shopping Center — https://www.apartments.com/silver-beach-condominiums-bronx-ny/cfv7klf/
+- Landmark districts / LPC: EMPTY. The Hammond mansion at 1 Plaza Place has status Never landmarked or heard. — http://www.emilio.nyc/blog/standard/bronx-survey/silver-beach-gardens-office/
+
+### Landmarks, parks, what it's known for
+- The Hammond mansion (about 1800, Federal style) was erected by Abijah Hammond, a wealthy trader and veteran of the American Revolution. It now serves as the Silver Beach Gardens offices — http://www.emilio.nyc/blog/standard/bronx-survey/silver-beach-gardens-office/
+- The Green Grass, located at the top of Indian Trail is guarded, and only residents can use the beach. There are views of the Whitestone and Throgs Neck bridges — https://forgotten-ny.com/2007/04/silver-beach-bronx/
+- To buy, you have to have three Silver Beach residents vouch for you. — https://theneighborhoods.substack.com/p/throggs-neck-the-bronx
+- Nearby: Fort Schuyler, home of SUNY Maritime, a half-mile east of Silver Beach, at the very end of Pennyfield Avenue — https://www.bronxboard.com/diary/diary.php?f=Silver+Beach+and+the+Dungeons+of+Fort+Schuyler
+- Sister community: Edgewater Park, which has one of the city's nine volunteer fire departments — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+
+### Recent news on building security, home tech or entry systems
+- EMPTY beyond the gate and guard details above.
+
+## Soundview, Bronx — /fire-alarm-installation-soundview-bronx-ny (factory research, 2026-10-30)
+
+**Note before using this:** A page already exists at this same URL on abstractenterprisessecuritysystems.com. If that's your site, one claim on it needs fixing. It says the January 2022 Twin Parks North West fire on East 181st Street killed 17 people and exposed critical fire safety gaps in Soundview apartment buildings. East 181st Street isn't in Soundview, so the page ties a non-Soundview fire to Soundview buildings. I didn't use that site as a source for any finding below.
+
+### 1. Facts specific to fire alarm installation in Soundview
+
+**Local fires where alarms or detection were an issue**
+- In July 2019, residents of 1466 Watson Ave. said the smoke detectors stayed silent during a 4-alarm fire. When the fire broke out at 1466 Watson Avenue, the smoke could be seen for miles. But much to the residents' surprise, the smoke detectors stayed silent. Residents say the only alarm they heard was the sound of their neighbors pounding on their doors to get out. At least 20 families were displaced. — https://www.cbsnews.com/amp/newyork/news/bronx-soundview-fire/
+- Same fire: The FDNY is investigating whether or not there were working smoke detectors in the building. The fire was in the cockloft: "On arrival, they found a fire on the top floor in what we call the cockloft space, which is the space between the ceiling and the roof," said FDNY Chief of Operations Richard Thomas. An earlier fire at the building in 2017 was deemed to be electrical. This could support a section on attic and cockloft heat detection. — https://abc7ny.com/7-hurt-including-4-firefighters-in-4-alarm-bronx-fire/5390740/
+- There was another cockloft fire on Watson Ave. in 2023: a 2023 fire on the top floor and cockloft of a NYCHA building on Watson Avenue injured two firefighters. — https://hoodline.com/2026/09/fifth-floor-soundview-fire-injures-three-one-critical-79-crews-respond/
+- A Soundview building had an attic fire, and about eight months later the FDNY gave its residents a fire-safety session focused on working smoke alarms. The firefighter also noted that an alternative to smoke alarms for the hearing impaired is a life tone that will also alert people if there's a fire. — https://bronx.news12.com/soundview-apartment-building-residents-receive-special-fire-safety-lesson-from-fdny
+- September 14, 2026: A fifth-floor apartment fire in Soundview injured three people early Monday, with 79 FDNY and EMS personnel containing the blaze in 25 minutes. — https://hoodline.com/2026/09/fifth-floor-soundview-fire-injures-three-one-critical-79-crews-respond/
+- January 2026, 825 Morrison Ave.: Flames broke out on the fourth floor of the 19-story building at 825 Morrison Ave. just after 5:30 p.m. Two people were hospitalized. — https://bronx.news12.com/2026/01/17/2-people-hospitalized-one-with-serious-injuries-after-fire-erupts-in-soundview-apartment-building/7KXVX3UK95sZfkq1lMl4dH
+- December 2025, 1965 Lafayette Ave. (high-rise): The fire spread to three floors in the building. One person suffered a minor injury. — https://abc7ny.com/post/fire-burning-high-rise-apartment-building-castle-hill-bronx/18248211/
+- June 2025, 1260 Fteley Ave.: The FDNY confirms crews found lithium-ion batteries at the scene of the fire. This is a local angle for e-bike and battery-charging fires. — https://bronx.news12.com/fire-fires-through-building-in-soundview
+- August 2025, FDNY dispatch near Soundview Ave.: an Automatic fire alarm reported at Bronx building. Dispatch also mentions 715 Soundview Avenue between St. Lawrence Avenue and Lafayette Avenue, problematic alarm and multiple blowing. This shows that automatic and nuisance alarms happen on this block. — https://www.newsbreak.com/crime/bronx-ny/8534_1755349385_yfjioxlp-fire-reported-near-soundview-avenue
+- Citizen app incidents: smoke calls at 615 Rosedale Ave. / 1715 Randall Ave. and at 750 Croes Ave. (Box 2685, 750 Croes Avenue, that's Lafayette to Seward. Smoke is on the 4th floor.). — https://citizen.com/-OxmjV_5Seb2mkTBQegB ; https://citizen.com/-OkBEOwVLXPkZ30p88Ca
+
+**NYCHA buildings: what applies there**
+- NYCHA apartments are covered by a hardwired requirement: New York City law requires all NYCHA apartments to have a hard-wired smoke detector with a battery backup and self-closing door to the hallway. A 2016 DOI investigation found NYCHA workers falsifying detector inspections, and some residents told the DOI that they took down or removed batteries from safety devices following NYCHA inspections. This is citywide, not Soundview-specific. — https://citylimits.org/some-nycha-residents-raise-fire-safety-concerns/
+- NYCHA developments in Soundview: There are nine NYCHA housing developments in Soundview: 1471 Watson Avenue; one 6-story building. Also Boynton Avenue Rehab; three apartment buildings (two 4 stories, one 6 stories). — https://kids.kiddle.co/Soundview,_Bronx
+- Sotomayor Houses had a NYSPIRE inspection on October 13. — https://nychajournal.nyc/huds-nspire-inspections-nycha-sites-scheduled-this-month/
+- 1471 Watson Ave. (Sotomayor Houses) was set to become NYCHA's first all-electric building conversion, and a few participating tenants found the new stoves easier to cook, and felt a diminished anxiety about potential gas fires in their home. The pilot also showed a 43% decrease in daily carbon monoxide exposure. That bears on where CO detectors matter. — https://www.bxtimes.com/nychas-first-all-electric-building/
+
+**Rules that apply (citywide)**
+- The NYC Housing Maintenance Code requires landlords to provide and install smoke detecting devices in each apartment unit. All smoke detectors must now use a non-removable, non-replaceable battery that powers the alarm for a minimum of 10 years. Landlords may charge tenants up to $25 per smoke detector (or $50 for a combined smoke/carbon monoxide detector). — https://rentguidelinesboard.cityofnewyork.us/resources/faqs/quality-of-life/
+- HPD's rule for subsidized properties: Effective December 29, 2024, the NSPIRE mandate requires all smoke detectors to be either hardwired or equipped with sealed 10-year batteries. It also requires at least one working smoke alarm on every level of the property. At least one working smoke alarm outside every sleeping area. At least one working smoke alarm inside each bedroom. — https://www.nyc.gov/site/hpd/services-and-information/property-owner-bulletins/property-owners-nov-2024.page
+- HPD smoke-detector violation counts for Soundview: EMPTY
+- 311 complaints about smoke detectors or fire alarms in Soundview: EMPTY
+- DOB or FDNY fire alarm permits or filings in Soundview: EMPTY
+- LPC rules: I found no LPC historic district or individual landmark in Soundview. Nearby designations (Grand Concourse, Longwood) are outside it, so landmark approval is unlikely to affect installs. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx ; https://www.nyc.gov/site/lpc/about/pr2026/lpc-unveils-new-historic-district-markers-commemorating-longwood-and-bronx.page
+- Reddit threads about fire alarms in Soundview: EMPTY
+- Specific businesses where fire alarms matter: EMPTY. The general retail strip is Westchester Ave. (see below).
+- Local firehouse: Engine Company 96/Ladder Company 54, located at 1689 Story Avenue. — https://kids.kiddle.co/Soundview,_Bronx
+
+### 2. History and development
+- The area was annexed from Westchester County: annexed by New York City in 1895; it became part of the newly established Borough of the Bronx in 1898 — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Clason Point became known for its beaches, excursion facilities and amusement venues, including Clason Point Amusement Park, which operated from 1910 to 1935. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Clason Point Gardens became the first public housing development constructed by the New York City Housing Authority (NYCHA) in the Bronx. Starting in 1947, the neighborhood also had a temporary NYCHA housing project consisting of 947 apartments in 473 Quonset huts. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- After World War II, urban planner Robert Moses targeted the community for slum clearance, including the construction of public housing. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- Soundview remained largely undeveloped until the 1950s, when the Bronx River Parkway and Bruckner Expressway were constructed — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- NYCHA build dates: Bronx River Houses were completed February 28, 1951. Bronxdale (now Sotomayor) Houses were completed on January 31, 1955. Monroe Houses were completed on November 2, 1961. — https://en.wikipedia.org/wiki/Bronx_River_Houses ; https://en.wikipedia.org/wiki/Sotomayor_Houses ; https://en.wikipedia.org/wiki/James_Monroe_Houses
+
+### 3. Main streets and corridors
+- The Bruckner Expressway bisects the neighborhood, while Westchester Avenue and Soundview Avenue are major commercial and transportation corridors. ZIP codes are 10472 and 10473. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Monroe Houses are bordered by Soundview, Story, Taylor and Lafayette Avenues. Sotomayor Houses are bordered by Bruckner Boulevard and Watson, Soundview and Leland Avenues. — Wikipedia (Monroe / Sotomayor Houses URLs above)
+
+### 4. Building stock
+- In Soundview, the median construction year is 1956. There are 15,405 units: 6% detached houses, 8.5% attached houses, and 12.7% two-unit buildings. — https://www.point2homes.com/US/Neighborhood/NY/Bronx/Soundview-Demographics.html
+- A large part of the population lives in big apartment complexes. The neighborhood has one of the highest numbers of NYCHA housing projects in New York City. — https://kids.kiddle.co/Soundview,_Bronx
+- Co-op and condo high-rises: one example is 825 Morrison Ave. #10L, a renovated co-op with park views. The neighborhood has numerous new condo developments. — https://www.brickunderground.com/buy/buy-curious-soundview-bronx-coops-condos-affordable-housing-ferry
+- Other condo buildings with recent listings: 880 Boynton Ave., 875 Morrison Ave., 1869 Lafayette Ave. — https://www.redfin.com/neighborhood/207533/NY/New-York/Soundview/pending-listings
+- Landmark or historic districts: EMPTY (none found)
+
+### 5. Parks and landmarks
+- Called the "Gateway to the Bronx River," Soundview Park is situated where the Bronx River opens into the East River. — https://www.nycgovparks.org/parks/soundview-park/history
+- The area was used as a landfill from the 1920s through the 1960s — https://www.nycgovparks.org/park-features/hiking/soundview-park
+
+### 6. What it's known for
+- Hip-hop history: During the 1970s, Bronx River Houses became one of the central sites in the development of hip-hop. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- Sotomayor Houses were renamed in honor of Supreme Court Justice Sonia Sotomayor, who had spent part of her childhood in the development, in June 2010. — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- Big Pun, rapper, was born and raised in Soundview. — https://en.wikipedia.org/wiki/South_Bronx
+- NYC Ferry service began in 2018. — https://www.brickunderground.com/buy/buy-curious-soundview-bronx-coops-condos-affordable-housing-ferry
+
+### 7. Security and entry-system news
+- In 1999, the NYPD completed the installation of 135 closed-circuit television cameras at Bronx River Houses. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- At Bronxdale/Sotomayor, camera images from the cameras were transmitted on a split screen to a channel on residents' television sets — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- Recent intercom or entry-system news: EMPTY
+
+### 8. Local Reddit discussion
+- EMPTY
+
+### 9. What changes how installs are done here
+- Most work will be in mid-century NYCHA or other multifamily buildings, where apartments need hardwired detectors with battery backup. Elsewhere the rule is hardwired or sealed 10-year battery. — sources in section 1
+- Watson Ave. has had repeated top-floor and cockloft fires (2019, 2023). That could justify attic and cockloft heat detection on low-rise roofs. — ABC7 / Hoodline URLs above
+- A lithium-ion battery fire on Fteley Ave. points to detection near battery-charging areas. — News12 URL above
+- Wiring inside NYCHA buildings, conduit or masonry details, AV setups: EMPTY
+
+## Spuyten Duyvil, Bronx — /fire-alarm-installation-spuyten-duyvil-bronx-ny (factory research, 2026-10-30)
+
+### 1. Fire alarm facts specific to this neighborhood (most important)
+
+**Building types and what they mean for installation**
+- Most homes are postwar co-ops. The majority of residences in the Spuyten Duyvil are postwar co-ops, including the iconic cliffside post-war Blue Building. Expect co-op board approval and building-wide systems, not single-house jobs. — https://www.homes.com/local-guide/bronx-ny/spuyten-duyvil-neighborhood/
+- River Point Towers, 555 Kappock St: a 25 story, 412 unit post-war co-op built in 1966. It has a 24 hour doorman, concierge, live-in superintendent, seasonal outdoor pool, fitness center, community room, children's playroom, garden, laundry room, bike room, and package room. That's a lot of common areas to cover. — https://www.cityrealty.com/nyc/spuyten-duyvil/river-point-towers-555-kappock-street/63086
+- River Point Towers is listed with Fire Department: L052 (Ladder 52). The Linden House at 3001 Henry Hudson Pkwy W is also listed under L052. — https://www.compass.com/building/river-point-towers-bronx-ny/293535478357997093/ ; https://www.compass.com/building/the-linden-house-bronx-ny/293531478376169125/
+- The Winston Churchill, 2500 Johnson Ave: 339 Units, 20 Stories, Built 1967. It has Commercial Area(SF): 105,200 Sq., which points to mixed occupancy. — https://www.compass.com/building/the-winston-churchill-bronx-ny/293529667585983477/
+- The Blue Building, 2400 Johnson Ave: the 1969 co-op sits atop a cliff emblazoned with a massive, spray painted "C" (for Columbia University), its entire facade a classic shade of blue, thanks to thick glass blocks and tiles. It is a 13-story, 130-unit building with an indoor pool and a 24-hour attended lobby. — https://www.homes.com/building/the-blue-building-bronx-ny/b-42vb61jt9tzk4/ ; https://www.redfin.com/school/72916/NY/New-York/PS-24-Spuyten-Duyvil
+- Edmond Lee, 3135 Johnson Ave: a 12 story, 122 unit post-war co-op completed in 1953. — https://www.cityrealty.com/nyc/spuyten-duyvil/edmond-lee-3135-johnson-avenue/61603
+- Prewar mid-rises: 511 W 235th St is a 1936 pre-war co-op with 51 apartments are arranged over seven stories. It also has an indoor garage, a likely CO and garage-detection angle. — https://www.cityrealty.com/nyc/spuyten-duyvil/511-west-235th-street/89384
+- The Linden House is 85 Units, 6 Stories and was Built in 1934, Pre-war. — https://www.compass.com/building/the-linden-house-bronx-ny/293531478376169125/
+- Smaller co-ops: 3030 Johnson Ave was built in 1966 and has 6 stories and 60 units. — https://streeteasy.com/building/3030-johnson-avenue-bronx
+- Adult care facility: 3247 Johnson Ave was built in 1999 and has 7 stories and 59 units, with Building class: I7 Adult Care Facility. This is an institutional, care-type occupancy, so its alarm requirements likely differ from the residential co-ops. — https://streeteasy.com/building/3247-johnson-avenue-bronx
+- Villa Charlotte Brontë (2501 Palisade Ave) has an unusual layout: Sixteen single family apartments are arranged within two groups, each containing four connected sections. The buildings are stuccoed and the roofs are tiled. Set below street level, there are flying staircases leading to balconies that join various entrances. Stucco walls and many separate entrances make wiring and device placement harder. — http://www.emilio.nyc/blog/standard/bronx-survey/villa-charlotte-bronte/
+- Some Villa units have wood burning fireplaces, terraces, French doors and period details, which is relevant to smoke and CO placement. — https://www.getoutnabout.com/blog/a-castle-in-the-bronx-the-villa-charlotte-bronte
+- Detached houses: The neighborhood's east side contains tree-lined streets with single-family homes in various styles including Tudor and Italian Revival, as well as more traditional Cape Cods, cottages and colonial-style homes. These are the residential smoke/CO jobs. — https://www.homes.com/local-guide/bronx-ny/spuyten-duyvil-neighborhood/
+- Entry systems: The Burton (2550 Independence Ave) and The Presidential (601 Kappock St) have part-time doormen. The Winston Churchill (2500 Johnson Ave) has 24-hour doormen. — https://www.homes.com/bronx-ny/spuyten-duyvil-neighborhood/fireplace/
+
+**Local fire news tied to specific buildings**
+- 601 Kappock St, January 21, 2020: First responders received a call about a fire just after 10 a.m., which drew nearly 140 emergency personnel to the scene. — https://www.riverdalepress.com/stories/three-alarm-fire-kappock-bronx-nyc-fdny,71016
+- 601 Kappock St: the fire started in one apartment and spread to others. Officials said one of those apartments had heavy clutter, which made it tricky to extinguish. — https://bronx.news12.com/firefighters-battle-3alarm-fire-at-apartment-building-in-spuyten-duyvil-41590974
+- 601 Kappock St: Some senior citizens who live in the building were forced out of their apartments and onto a bus to keep warm. — https://pix11.com/news/local-news/bronx/fire-rips-through-bronx-apartment-building/
+- 750 Kappock St (The Glenbriar): A raging high-rise fire destroyed two apartments, burned two firefighters and left a family of three homeless. Firefighters said the 10th-floor long, narrow hallway full of black smoke. The page shows "April 29, 2024," but its metadata suggests an older article, so the date is unclear. — https://www.riverdalepress.com/stories/fire-guts-high-rise-apartments,40716
+- 2465 Palisade Ave co-op fire: an insurance investigator believed the fire was "electrical in nature" and had something to do with the wires connected to a portable air conditioning unit. The date is also unclear: the page shows June 28, 2025, but the metadata suggests about 2012. — https://www.riverdalepress.com/stories/fire-at-spuyten-duyvil-co-op-sends-elderly-couple-to-hospital,51098
+- 3215 Arlington Ave, January 13, 2021: First responders were summoned to an apartment fire just after 2 a.m., on Jan. 13, in Apartment 2A of 3215 Arlington Ave. An 84-year-old man died. — https://www.riverdalepress.com/stories/elderly-man-dies-in-spuyten-duyvil-apartment-fire,73040
+- Commercial corridor fire at Nonno Tony's, W 235th St near Johnson Ave: Firefighters broke a padlock and a skylight to enter the premises in the wee hours. A FDNY spokesman said breaking into neighboring business during a fire was standard procedure and that not doing so could jeopardize storefronts on the entire block. — https://www.riverdalepress.com/stories/fire-ravages-johnson-avenue-eatery-,47332?page=2
+- Recent FDNY dispatch: Box alarm box 3764, address 3810 Glacier Avenue, between West 230 and Street, West 240 Street, for odor of smoke, for multiple dwellings. The address comes from a radio transcription and may be garbled. — https://citizen.com/-P2jn-6F1YshX7geMn2_
+- Spuyten Duyvil station access: the fire department had trouble reaching the station due to poor parking by commuters and had to spend time getting the hoses down from nearby Johnson Avenue. — https://en.wikipedia.org/wiki/Spuyten_Duyvil_station
+
+**City rules (HPD, LPC)**
+- HPD: owners of Class A multiple dwellings must post notices for carbon monoxide and smoke detectors, and starting January 1, 2027—natural gas detectors in buildings with gas piping (or a combined notice covering all three). — https://www.nyc.gov/site/hpd/services-and-information/required-signage.page
+- CO alarms must be placed within 15 feet of the primary entrance to each sleeping room, must be equipped with an end of life alarm. Occupants pay $25.00 per alarm, or a maximum of $50.00 per device where a combined smoke and carbon monoxide detecting device is installed. — https://hpdfiling.nyc/2046-2-provide-an-approved-and-operational-carbon-monoxide/
+- For new installations and replacements, smoke alarms must be hardwired or have a 10-year, non-removable battery. This is a secondary source, so verify it against FDNY/DOB. — https://www.skybriz.com/resources/smokeco-detector-requirements/
+- The smoke detector notice must be posted at or near mailboxes. — https://hpdsigns.nyc/hpd-smoke-detector-notice-27-2045-28-rcny-12-01-gold/
+- LPC: Villa Charlotte Brontë's status is Never landmarked or heard. — http://www.emilio.nyc/blog/standard/bronx-survey/villa-charlotte-bronte/
+- Edgehill Church (2570 Independence Ave) is on the National Register and is a New York City Landmark. In 2022, Edgehill Church was turned over to the Kingsbridge Historical Society. — https://en.wikipedia.org/wiki/Edgehill_Church_of_Spuyten_Duyvil
+- Spuyten Duyvil-specific HPD violation counts: EMPTY
+- 311 complaints: EMPTY
+- DOB fire alarm permits: EMPTY
+- An LPC historic district covering Spuyten Duyvil: EMPTY. The Riverdale Historic District exists but was not confirmed to include Spuyten Duyvil.
+
+**Reddit and competitors**
+- Reddit threads about fire alarms or building safety in Spuyten Duyvil: EMPTY
+- A competitor page for the same keyword lists "Grand Concourse co-ops and Art Deco buildings," which is generic and not accurate for Spuyten Duyvil. Its line that The co-op board gets full design approval before any work begins. fits the local co-op stock. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-spuyten-duyvil-bronx-ny.html
+
+### 2. Neighborhood background
+
+**History**
+- The neighborhood began developing after the New York Central and Hudson River Railroad began coming through in the late 19th century. — https://thedisabilityguys.com/spuyten-duyvil-ny-history/
+- Development continued through the neighborhood through the 1920s. Large high-rise apartment buildings were built in the 1950s through the 1980s. — https://thedisabilityguys.com/spuyten-duyvil-ny-history/
+- The area was incorporated into the Philipse Manor estate in the late 17th century. — https://cityneighborhoods.nyc/spuyten-duyvil
+- Mid-century towers: Buildings like Skyview-on-the-Hudson (built 1960s), The Henry Hudson House, and The Imperial defined the neighborhood's mid-century skyline. — https://cityneighborhoods.nyc/spuyten-duyvil
+- Who built the villas: architect Gardner was hired to design the buildings by John J. McKelvey, a key figure in shaping Spuyten Duyvil's landscape. — https://theneighborhoods.substack.com/p/spuyten-duyvil-the-bronx
+- The Villa Charlotte Brontë was Built in 1925-6 by the Northern Realty Company, the complex was designed by Robert Gardner. — http://www.emilio.nyc/blog/standard/bronx-survey/villa-charlotte-bronte/
+- The sister Villa Rosa Bonheur at 2395 Palisade Ave was Built in 1924 as a co-operative. — https://www.6sqft.com/1924-cliffside-riverdale-castle-cottage-has-magical-river-views-a-broadway-pedigree-and-a-2-6m-ask/
+- The Riverdale firehouse was built after a terrible railroad accident in Spuyten Duyvil in 1882. — https://www.riverdalepress.com/stories/engine-ladder-companies-celebrate-125-years-of-vigilance,42035
+
+**Main streets and shopping**
+- Dining options are concentrated along Johnson Avenue, Riverdale Avenue, and nearby commercial corridors. — https://www.bhsusa.com/neighborhood/new-york-city/bronx/spuyten-duyvil
+- Other main streets: Kappock St, Palisade Ave, Independence Ave, W 235th St and Henry Hudson Pkwy W (from the building listings above).
+- There is a small strip mall nearby for basic necessities and services. — https://www.homes.com/building/the-blue-building-bronx-ny/b-42vb61jt9tzk4/
+- Named businesses from the Nonno Tony's fire article: Riverdale Fish and Mother's Bake Shop. They may be old or closed. — https://www.riverdalepress.com/stories/fire-ravages-johnson-avenue-eatery-,47332?page=2
+
+**Building stock**
+- Spuyten Duyvil is a mix of freestanding houses, high rise co-ops, rental buildings, and even the odd new-construction condo building. — https://www.brickunderground.com/buy/spuyten-duyvil-guide-real-estate-restaurants-things-to-do
+- Rowhouses and walk-ups: EMPTY. The walk-up claim on the competitor page is unverified.
+
+**Parks and landmarks**
+- Henry Hudson Park is located at the intersection of Kappock Street and Independence Avenue. It is the site of the Henry Hudson Monument or Henry Hudson Memorial, dedicated in 1938. — https://en.wikipedia.org/wiki/Henry_Hudson_Park
+- Other parks and landmarks:
+  - Spuyten Duyvil Shorefront Park and the Henry Hudson Bridge — https://cityneighborhoods.nyc/spuyten-duyvil
+  - Spuyten Duyvil Library at 650 W 235th St — https://en.wikipedia.org/wiki/Spuyten_Duyvil,_Bronx
+  - Spuyten Duyvil Playground mural (2025) — https://www.riverdalepress.com/stories/bronx-students-create-peace-mural-at-spuyten-duyvil-playground-through-cityarts-project,187161
+
+**What it's known for**
+- Its location at the southernmost point of Riverdale in the Bronx where the Harlem and Hudson Rivers meet. — https://www.homes.com/local-guide/bronx-ny/spuyten-duyvil-neighborhood/
+- Metro-North: trips to Grand Central Terminal taking roughly 25 to 29 minutes. — https://www.cityrealty.com/nyc/spuyten-duyvil/river-point-towers-555-kappock-street/63086
+
+**Recent local news on building security, home tech and entry**
+- Police sources said the carnage unfolded inside a ground-floor apartment at 2500 Johnson Ave. in Spuyten Duyvil just before 8 a.m. on Jan. 22. (2026) — https://www.amny.com/police-fire/bronx-murder-suicide-port-authority-01222026/
+- 2026 shorefront park volunteer restoration — https://x.com/riverdalepress/status/2066545810632782039
+- News on home technology or entry systems: EMPTY
+
+**Local Reddit discussion**
+- EMPTY
+
+**Things that would change how installation is done**
+- Board approval at most buildings.
+- Large high-rises with many amenity spaces and garages.
+- An adult care facility at 3247 Johnson Ave.
+- The cliffside, stucco, multi-entrance Villa buildings.
+- Some apartments with wood-burning fireplaces.
+- The HPD notice changes starting January 1, 2027.
+
+Sources are cited inline above.
+
+### Notes
+- I couldn't find HPD, 311 or DOB permit data or any Reddit threads in search, so those are marked EMPTY. Check the city's open-data portals directly by address.
+- The dates on two Riverdale Press fire articles (2465 Palisade Ave and The Glenbriar) don't match their metadata, so treat those dates as unconfirmed.
