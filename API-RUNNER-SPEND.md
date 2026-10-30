@@ -30,3 +30,4 @@ UTC time | cost | summary
 2026-10-27T21:02Z | $0.00 | (factory) nothing to do
 2026-10-28T00:02Z | $0.00 | (factory) nothing to do
 2026-10-28T03:15Z | $19.46 | (factory) FAIL phone (347) 934-8335 is tel-linked but not approved for bronx (allowed: (646) 490-0629, (800) 486-0943); schema telephone (347) 934-8335 not approved for bronx; FAIL phone (347) 934-8335 is tel-linked but not approved for bronx (allowed: (646) 490-0629, (800) 486-0943); schema telephone (347) 9
+2026-10-30T12:14Z | $17.62 | (factory) FAIL phone (347) 934-8335 is tel-linked but not approved for bronx (allowed: (646) 490-0629, (800) 486-0943); FAIL phone (347) 934-8335 is tel-linked but not approved for bronx (allowed: (646) 490-0629, (800) 486-0943); fire-alarm-installation-cadman-plaza-brooklyn-ny $1.15; FAIL phone (347) 934-833
