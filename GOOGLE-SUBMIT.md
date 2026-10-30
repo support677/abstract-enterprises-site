@@ -2756,3 +2756,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-cadman-plaza-brooklyn-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-fort-greene-brooklyn-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-fulton-ferry-brooklyn-ny | QUEUED
+2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-allerton-bronx-ny | QUEUED
