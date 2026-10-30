@@ -416,3 +416,185 @@ I didn't find Reddit threads, 311 or HPD data, Boerum Hill-specific LPC intercom
 - Fewer LPC limits on 8th Ave itself, but LPC review applies on the 4th–7th Ave district blocks.
 
 **Gaps:** Reddit threads, HPD/311/DOB intercom data, and intercom-specific local news are all empty. To fill them, look up building addresses on HPD Online and the NYC Open Data 311 dataset.
+
+## Canarsie, Brooklyn — /intercom-installation-canarsie-brooklyn-ny (factory research, 2026-10-30)
+
+**Note on sources:** Several intercom-specific findings come from competitor security-company pages. Treat them as marketing claims, not confirmed facts, and don't copy their wording.
+
+### 1. Intercom-specific facts (priority)
+
+**Building types and entry systems**
+- Breukelen Houses (NYCHA) is the biggest multifamily entry-system site in the neighborhood. It covers 64.98 acres with 1,595 apartments in 30 buildings, all three or seven stories high. The main office is at 618 East 108th Street, Brooklyn, NY 11236. — https://en.wikipedia.org/wiki/Breukelen_Houses
+- Breukelen covers two ZIP codes, which matters for service-area and address targeting. It has addresses in both 11236 and 11207. NYCHA's map numbers the residential buildings 1 through 30, plus separate community, daycare, maintenance and utility buildings. — https://www.dearielaw.com/news-insights/nycha-injury-lawyer/breukelen-houses-nycha-your-injury-lawyer/
+- Breukelen has a record of entry and security trouble. A law firm page says broken entrance doors, locks, and intercom systems may also create security concerns (law-firm marketing). — https://www.dearielaw.com/news-insights/nycha-injury-lawyer/breukelen-houses-nycha-your-injury-lawyer/
+- A resident-history site says Breukelen has historically struggled with its massive size, which made maintenance and security difficult for NYCHA to manage. — https://breukelenhouses.us/about-us/
+- Breukelen's repair backlog: in 2014 it topped NYCHA's list of Brooklyn properties needing repair and ranked third-highest in the city. In 2001 NYCHA authorized $4.5 million in upgrades there. — https://en.wikipedia.org/wiki/Breukelen_Houses
+- Breukelen's walls are hard to drill. A competitor's TV-installation page says the buildings have CMU concrete block walls and poured concrete ceilings and recommends an SDS-Plus hammer drill, Tapcon/sleeve anchors, and surface raceways for cable management. The same would apply to running intercom wire and mounting stations. This is unverified competitor content. — https://www.abstractenterprisessecuritysystems.com/tv-installation-canarsie-brooklyn-ny
+- Entrance-door problems at Bay View go back decades. A NYS Parks historic-resource report says records of meetings between tenants and NYCHA on May 6, 1977 point to issues with building entrance doors. — https://parks.ny.gov/sites/default/files/2025-11/Bay%20View%20Houses,%20Brooklyn,%20Kings%20County.pdf
+- Bay View Houses is now under a major renovation. NYCHA closed on $757 million in PACT financing covering more than 3,100 residents in 1,610 units across 23 buildings, and construction is expected to run through summer 2029. Wavecrest Management will handle day-to-day operations. — https://brooklyneagle.com/358416/nycha-closes-757m-financing-to-renovate-canarsies-bay-view-houses/
+- The Bay View scope includes upgraded electrical systems, painted doors with new hardware, and security and accessibility upgrades. The published scope does not say whether intercoms are included. — https://nychajournal.nyc/nycha-partners-close-on-757m-in-financing-for-bay-view-houses-pact-renovation/
+- For comparison, a different PACT project (not in Canarsie) included new security cameras and a new Virtual Doorman intercom system so visitors can be easily identified. This shows what PACT partners sometimes install; it is not confirmed for Bay View. — https://nychajournal.nyc/nycha-and-partners-begin-137m-modernization/
+- Post-war co-ops: a competitor claims that when only one apartment's buzzer is dead in a post-war Sheepshead Bay or Canarsie co-op it is usually the station itself — handset cords fatigue and speaker elements dry out. Unverified. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-brooklyn-new-york
+- Most of Canarsie is small houses, so many jobs will be one- or two-family video doorbells or two-unit intercoms rather than lobby panels. The building stock is mainly one- and two-family detached and semi-detached homes and row houses. — https://home4.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-canarsie.pdf
+- Two-family rentals with separate entrances are common (for example, a two-family home at 12 Paerdegat 13th Street #1A listed at $2,950). Each unit needing its own entry makes two-button or two-unit intercoms relevant. — https://streeteasy.com/2-bedroom-apartments-for-rent/canarsie
+- MeadowWood at Gateway is a condo community. A listing describes a unit with an elevator building and secure access. — https://www.redfin.com/neighborhood/61479/NY/New-York/New-Lots/page-2
+
+**Flooding: the biggest factor in how the work should be done**
+- Hurricane Sandy caused extensive flooding that badly damaged basements and ground floors throughout Canarsie. Even ordinary smaller storms cause street flooding and sewer backups. Intercom power supplies, transformers and wiring in basements or cellars should be mounted high. — https://home.nyc.gov/site/planning/plans/resilient-neighborhoods/canarsie.page
+- Many Canarsie homes have critical basements below the Design Flood Elevation that are subject to flooding. — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/brooklyn/canarsie/summary-report-canarsie.pdf
+- HUD says Sandy damaged 83 percent of homes in Canarsie and neighboring Flatlands, and within a few hours water in basements and ground-floor apartments was up to the windows. — https://urbanomnibus.net/2016/09/the-row-house-on-rising-waters/
+- A March 2020 water-main break flooded basements on East 78th and East 79th Streets. One resident said his electrical equipment was on the floor and he couldn't save any of it. — https://www.cbsnews.com/amp/newyork/news/brooklyn-canarsie-water-main-break
+- Basement units are common, which can mean an extra entry point needing its own intercom station. Before Sandy, many immigrants lived in the basements of town houses owned by middle-class residents. — https://citylimits.org/post-sandy-canarsie-help-hold-ups/
+
+**City data and rules**
+- HPD violations specific to Canarsie: EMPTY
+- 311 intercom/buzzer complaints specific to Canarsie: EMPTY
+- DOB permits specific to Canarsie: EMPTY
+- LPC historic districts or landmark rules in Canarsie: EMPTY. The search found no designated district, but I couldn't confirm that none exist.
+- General NYC rule (from a competitor page; check the statute before publishing): the NY State Multiple Dwelling Law requires buildings built or converted after 1968 with eight or more units to provide a two-way voice intercom. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+- General NYC tenant path (competitor page): if a landlord won't fix a buzzer, tenants can file a 311 complaint and HPD may issue a violation. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-clinton-hill-brooklyn-ny
+
+**Local news and Reddit about intercoms**
+- Reddit threads about Canarsie intercoms, buzzers or entry systems: EMPTY
+- Local news specifically about Canarsie intercoms: EMPTY. The closest items are the Bay View PACT security upgrades above.
+
+### 2. History and development
+- The Brooklyn and Rockaway Beach Railroad (later the BMT Canarsie Line, now the L train) reached Canarsie in the 1860s, and by the 1880s the area had amusement piers, bathing pavilions and picnic grounds on Jamaica Bay. — https://cityneighborhoods.nyc/canarsie
+- In 1896 the still largely rural town of Flatlands, including its village of Canarsie, was annexed into the City of Brooklyn. — https://www.bklynlibrary.org/locations/jamaica-bay/black-canarsie-history
+- Golden City Amusement Park opened in 1907 where Canarsie Pier is today, and in the 1920s Italian and Jewish families began buying year-round homes. — https://brooklyneagle.com/323861/canarsie-history/
+- Most of Canarsie's homes were built between World War II and the 1970s, its biggest residential boom. — https://canarsie.pro/index.php/2025/08/03/the-enduring-legacy-of-canarsie-brooklyn-a-historical-trajectory/
+- On December 27, 1951, the first two families moved into the Breukelen Houses on the north side of Flatlands Avenue. In 1955 slums were razed to make way for the Bayview complex. — https://www.bklynlibrary.org/locations/jamaica-bay/black-canarsie-history
+- Bay View Houses opened between 1956 and 1960, one of five NYCHA middle-income developments that together held nearly 5,000 apartments. — https://parks.ny.gov/sites/default/files/2025-11/Bay%20View%20Houses,%20Brooklyn,%20Kings%20County.pdf
+- After 1970s racial tensions over school zoning, Canarsie became a mainly Black neighborhood with a large West Indian population by the late 1990s. — https://www.wikiwand.com/en/Canarsie,_Brooklyn
+- Who built the houses: one competitor page says some 1930s two-family homes were built by Fred Trump, with patterned brickwork, peaked doorway hoods and garages. Unverified; check a primary source before using it. — https://www.abstractenterprisessecuritysystems.com/tv-installation-canarsie-brooklyn-ny
+
+### 3. Main streets and commercial corridors
+- The three main corridors are Avenue L (Rockaway Parkway to Remsen Avenue), Flatlands Avenue (Ralph Avenue to East 102nd Street) and Rockaway Parkway (Avenues D to N). — https://canarsiecourier.com/a-bike-lane-to-nowhere-and-an-assessment-of-canarsies-commercial-corridors/
+- These corridors are lined with small family-owned stores, delis, restaurants, clothing stores, supermarkets, bakeries and pharmacies. — https://home4.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-canarsie.pdf
+- Rockaway Parkway started as an 18th-century road to the Canarsie Ferry. — https://en.wikipedia.org/wiki/Rockaway_Parkway
+- Canarsie Plaza mall and Parkway Plaza have grocery options, including a BJ's Wholesale Club and an Ideal supermarket. — https://www.homes.com/brooklyn-ny/canarsie-neighborhood/
+
+### 4. Building stock
+- Detached and semi-detached houses, brick row houses and low-rise apartment buildings on mostly residential streets. — https://www.bhsusa.com/neighborhood/new-york-city/brooklyn/canarsie
+- By the 1920s–1930s, modest bungalows and two-family houses filled the former farmland. — https://cityneighborhoods.nyc/canarsie
+- High-rises and co-ops: no detailed list found. Landmark districts: EMPTY.
+
+### 5. Parks and landmarks
+- Canarsie Pier was completed in 1926 as part of a federal seawall project. — https://cityneighborhoods.nyc/canarsie
+- Canarsie Park covers 132 acres, with baseball diamonds, cricket fields and a skate park. — https://www.homes.com/brooklyn-ny/canarsie-neighborhood/
+- Other landmarks marked on the city's corridor map: Fresh Creek Nature Preserve, the Pop Smoke Mural and the Rockaway Parkway subway station. — https://home4.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-canarsie.pdf
+- Holy Family Roman Catholic Church at 9719 Flatlands Ave. is built of golden brick. — https://brooklyneagle.com/323861/canarsie-history/
+- The Canarsie–Rockaway Parkway station, at Rockaway Parkway and Glenwood Road, is served by the L train at all times. — https://en.wikipedia.org/wiki/Canarsie%E2%80%93Rockaway_Parkway_station
+
+### 6. What it's known for
+- Homeownership has stayed high compared with other Brooklyn neighborhoods. — https://cityneighborhoods.nyc/canarsie
+- Restaurants reflect local Caribbean, Haitian and Jamaican cultures. — https://www.homes.com/brooklyn-ny/canarsie-neighborhood/
+- Most houses have parking in driveways or backyard garages. Gates and garages could be extra places to put entry hardware. — https://www.homes.com/local-guide/brooklyn-ny/canarsie-neighborhood/
+
+### 7. Recent local news on building security and home technology
+- Bay View PACT financing closed in December 2025, with security upgrades running through 2029 (see section 1). — https://www.nyc.gov/site/nycha/about/press/pr-2025/pr-20251223.page
+- Other recent Canarsie news on security, home tech or entry systems: EMPTY
+
+### 8. Local Reddit discussion
+- EMPTY. Searches returned only rental listings, no Canarsie Reddit threads.
+
+### 9. Things that change how intercom installation is done here (from the findings above)
+- Keep transformers, power supplies and controllers out of flood-prone basements, or mount them high (DCP, Urban Omnibus, CBS sources).
+- Expect concrete block walls in NYCHA buildings, which call for hammer drills and surface raceways (unverified competitor source).
+- Most jobs are likely one- or two-family homes with separate entrances, including basement units (city corridor report, listings).
+- The Bay View renovation through 2029 makes the PACT team the decision-maker there, not individual tenants (Brooklyn Eagle).
+
+## City Line, Brooklyn — /intercom-installation-city-line-brooklyn-ny (factory research, 2026-10-30)
+
+**Notes on sources:** cityneighborhoods.nyc and maidmarines.com read like marketing or AI-written pages. Anything marked ⚠ comes only from them and should be checked before publishing. Sources also disagree on where City Line's borders are and how much public housing it has. Both sides are listed below.
+
+### 1. Intercom-specific angles (most important)
+
+**Building types and entry/wiring situations**
+- Two-family buildings are the biggest single group: 2-unit structures make up 34.7% of all units, and attached townhouses 11.8%. For an intercom page, that means a lot of small 2–3 button door stations rather than big lobby panels. — https://www.city-data.com/neighborhood/City-Line-Brooklyn-NY.html
+- Example of the older small multi-family stock: 1253 Blake Ave is a three-family house in City Line, 3 units, 2 stories, built 1920. — https://streeteasy.com/building/1253-blake-avenue-brooklyn/1
+- Another example: 565 Euclid Ave has 4 units, 2 floors, built in 1925. — https://www.openigloo.com/building/nyc/3095420-3042500006/brooklyn-east-new-york-565-euclid-avenue-11208
+- ⚠ One claim says walk-ups of four to six stories make up the rest of the housing, concentrated near Liberty Avenue and the A/C stations. — https://maidmarines.com/brooklyn/city-line
+- ⚠ The same site says City Line's own blocks are almost entirely private, owner-occupied or small-landlord rental. — https://maidmarines.com/brooklyn/city-line
+- Big NYCHA site on the western edge (some sources place it inside City Line): Cypress Hills Houses, 15 seven-story buildings with 1,442 apartments between Linden Blvd, Sutter Ave, Euclid Ave and Fountain Ave, completed 1955. — https://en-academic.com/dic.nsf/enwiki/2061320
+- A second NYCHA site: the East New York City Line development is three-story, with 63 apartments, and was completed in 1976. — https://en-academic.com/dic.nsf/enwiki/2061320
+- New mid- and high-rise buildings after the rezoning (IP/video intercom and fob work): a 229-unit, 13-story building at 2683 Atlantic Ave replaced a row of two- and three-story mixed-use buildings. — https://www.brownstoner.com/real-estate-market/affordable-housing-east-new-york-2683-atlantic-avenue-apartments/
+- Phipps Houses is developing 400 affordable units on the former Chloe Foods site on Atlantic Ave between Chestnut St and Euclid Ave. — https://citylimits.org/house-flippers-continue-to-target-east-new-york-residents-blame-the-2016-rezoning/
+- Chestnut Commons, a 275-apartment affordable complex on Atlantic Avenue (2021 report). — https://gothamist.com/news/grading-de-blasio-in-east-new-york-mayors-first-rezoned-neighborhood-promises-fall-short
+- ⚠ Small condo developments have gone up near Euclid Avenue. A condo building at 44 Euclid Ave is listed in 11208. — https://cityneighborhoods.nyc/city-line ; https://stripe.jhu.edu/news/44-euclid-ave
+- A nearby rental listing (Cypress Hills, 234 Norwood Ave) advertises FIOS ready, video intercom, which shows the local rental market treats video intercom as a selling point. — https://www.homes.com/local-guide/brooklyn-ny/cypress-hills-neighborhood/
+
+**Rules and city data**
+- Self-closing doors: all multiple dwellings must have self-closing entrance and bulkhead doors. Local Law 62 of 2022 says this means the door returns to closed and self-latches. Any electric strike or maglock retrofit has to keep the door self-latching. — https://designguidelines.nycha.info/entrances-exits/
+- NYCHA standard: all entrance doors need a multi-unit intercom system with seven basic components. — https://designguidelines.nycha.info/entrances-exits/
+- NYCHA Layered Access Control: key tags/fobs, a direct-call intercom system and new door locks. Spec details include phone lines that can be POTS, VOIP or IP and a 20 amp, 120 volt duplex outlet within 6 feet of the new interior intercom. — https://designguidelines.nycha.info/layered-access-control-lac/
+- Citywide NYCHA audit: 36.8% of entrance doors were open and 40.1% of entrance locks broken. Residents said doors get propped open because intercoms, locks, keys and door-release buttons don't work. This is citywide data, not specific to Cypress Hills Houses. — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+- HPD intercom/door violations for City Line addresses: EMPTY. Openigloo lists violations building by building, e.g. 104 Hill St at https://www.openigloo.com/building/nyc/3041710015-3041710015/brooklyn-cypress-hills-104-hill-street-11208
+- 311 complaints (intercom/door/lock) for City Line: EMPTY
+- DOB permits for intercom or low-voltage work in City Line: EMPTY
+- LPC: no historic district or individual landmark found inside City Line. The nearest ones are the East New York Savings Bank (1117 Eastern Pkwy) and Empire State Dairy on Atlantic Ave, both in greater East New York. My reading is that LPC exterior-panel rules probably won't apply, but check the address. — https://www.nyc.gov/site/lpc/about/pr2016/03-08.page ; https://www.nyc.gov/site/lpc/about/pr2017/120517b.page
+
+**Security context**
+- The 75th Precinct (1000 Sutter Ave) covers East New York and Cypress Hills and is one of the city's largest and busiest commands. As of mid-October 2026 it had 700 grand larceny complaints year-to-date, down 7% from 753 in 2025. — https://hoodline.com/2026/10/nypd-hunts-suspect-in-grand-larceny-pattern-spanning-bushwick-and-east-new-york/
+- The 75th Precinct had 17,972 reported crimes, 9,133 arrests and 36 shootings in 2025. — https://bkcb6.app/precinct/75/
+- A third-party index gives City Line vehicle theft as its highest concern and burglary as its lowest risk. This is a private estimate, not official data. — https://www.doorprofit.com/crime-statistics/city/Brooklyn-NY/neighborhood/city_line/
+- Language: half of Bangladeshis in the study area were identified as limited English proficient. Bengali instructions or app setup could be useful. — https://aafederation.org/wp-content/uploads/2020/12/East-New-York-2016.pdf
+- Competitor already targeting the area: Abstract Enterprises has a City Line access-control page, but its text mentions Williamsburg, Fourth Avenue and the Navy Yard, so it is generic boilerplate. That's a chance to stand out with real local content. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-city-line-brooklyn-ny
+- Local news on City Line intercoms specifically: EMPTY
+- Reddit threads about intercoms or entry in City Line: EMPTY
+
+### 2. History and development
+- From 1886 to 1898 this really was the city line of Brooklyn, and the name stuck after Brooklyn became a borough. — https://forgotten-ny.com/2014/03/the-names-of-the-neighborhoods-of-brooklyn/
+- The name comes from its spot in the former City of Brooklyn on the Queens County border, before the 1898 consolidation. — https://en-academic.com/dic.nsf/enwiki/2061320
+- ⚠ The area stayed farmland into the 1880s. The LIRR Atlantic Branch and the Fulton elevated brought clerks and tradesmen looking for cheap housing. — https://cityneighborhoods.nyc/city-line
+- Builder: the Henry Meyer Building Company built about a thousand Brooklyn homes between 1894 and 1909, mostly in Cypress Hills and East New York. Not confirmed for City Line blocks specifically. — https://hdc.org/policy/44770-2/
+- Subway: the IND line reached Euclid Ave in 1948. The station opened November 28, 1948, along with the rest of the line to Euclid Avenue. (cityneighborhoods.nyc says 1936, which conflicts.) — https://en.wikipedia.org/wiki/Liberty_Avenue_station
+- The Crescent Street elevated station on Liberty Ave opened in 1894 and closed in 1956. — https://en.wikipedia.org/wiki/Crescent_Street_station_(BMT_Fulton_Street_Line)
+- Who lived there: originally many Italians, Germans and Irish; today immigrants from Bangladesh, the Dominican Republic, Guyana and Puerto Rico. — https://en-academic.com/dic.nsf/enwiki/2061320
+- BACDYS founder Misba Abdin says his father was the first Bangladeshi to move to City Line, then a middle-income Italian neighborhood, in 1949. — https://citylimits.org/2013/08/22/bangladeshi-enclave-grows-in-city-line
+- Borders differ by source. Forgotten NY: Conduit Blvd south to Flatlands Ave, east of Euclid Ave, up to the Queens line on Drew St, Liberty Ave, 75th St, Dumont Ave and 78th St. Another source: Cypress Hills to the north, Ozone Park to the east, Shore Parkway to the south. — https://forgotten-ny.com/2014/03/the-names-of-the-neighborhoods-of-brooklyn/ ; https://en-academic.com/dic.nsf/enwiki/2061320
+- Served by Brooklyn Community Board 5. — https://en-academic.com/dic.nsf/enwiki/2061320
+
+### 3. Main streets and commercial corridors
+- The main commercial district runs along Liberty Avenue. — https://en-academic.com/dic.nsf/enwiki/2061320
+- The Bangladeshi enclave runs along Liberty Avenue from City Line Park in Brooklyn to about Woodhaven Boulevard in Ozone Park. — https://aafederation.org/wp-content/uploads/2020/12/East-New-York-2016.pdf
+- Forbell Street above Liberty Avenue was co-named "Mizanur Rahman Way." — https://citylimits.org/2013/08/22/bangladeshi-enclave-grows-in-city-line
+- Liberty Avenue was co-named "Little Guyana Avenue" on May 29, 2021 (the Queens stretch). — https://en.wikipedia.org/wiki/Liberty_Avenue_(New_York_City)
+- Atlantic Avenue is where the rezoning shows most: large complexes up to 14 stories have started to rise. — https://citylimits.org/house-flippers-continue-to-target-east-new-york-residents-blame-the-2016-rezoning/
+- Other streets: Euclid Ave, Pitkin Ave, Sutter Ave, Blake Ave, Conduit Blvd (see the sources above).
+
+### 4. Building stock
+- ⚠ Brick two-family homes with decorative cornices and small front gardens. — https://cityneighborhoods.nyc/city-line
+- ⚠ Attached brick rowhouses make up nearly all of the residential blocks. — https://maidmarines.com/brooklyn/city-line
+- East New York has thousands of two- to four-family homes that the city upzoned in 2016. — https://citylimits.org/house-flippers-continue-to-target-east-new-york-residents-blame-the-2016-rezoning/
+- Market snapshot: 17 pending listings in City Line at a median price of $975K. 0 condos, 2 townhouses and 17 multi-family units were for sale last month. — https://www.redfin.com/neighborhood/208630/NY/New-York/City-Line/pending-listings
+- Co-ops: EMPTY. Landmark districts: none found (see LPC above).
+
+### 5. Parks and landmarks
+- Nearby parks include City Line Park, Cypress Hills Playground and Robert E Venable Park. — https://www.walkscore.com/score/euclid-ave-brooklyn-ny-11208
+- A Brooklyn Public Library branch opened at Cypress Hills Houses in September 1955, the system's first in a housing project. It was replaced in 1995 by a new building on the north side of Sutter Ave. — https://en.wikipedia.org/wiki/Cypress_Hills_Houses
+- Elevators were installed at the Euclid Avenue station around 2005. — https://en.wikipedia.org/wiki/Euclid_Avenue_station_(IND_Fulton_Street_Line)
+
+### 6. What it's known for
+- One of the most ethnically diverse neighborhoods in Brooklyn. — https://en-academic.com/dic.nsf/enwiki/2061320
+- A Bangladeshi enclave: home to over 2,000 Bangladeshis (2013). — https://citylimits.org/2013/08/22/bangladeshi-enclave-grows-in-city-line
+- BACDYS, founded in 2009 by Misba Abdin, became the lead nonprofit in City Line. — https://www.bacdys.org/empty-page6594ee79
+- Forgotten NY says it is known for its public housing and underdeveloped southern streets, because the land was swampy. This conflicts with Maid Marines' "mostly private" claim. — https://forgotten-ny.com/2014/03/the-names-of-the-neighborhoods-of-brooklyn/
+
+### 7. Recent news (rezoning, development, security)
+- The 2016 rezoning covered almost 200 blocks and created the city's first Mandatory Inclusionary Housing area, mapped mainly along Fulton St, Atlantic Ave, Liberty Ave and Pitkin Ave east of Pennsylvania Ave. — https://design2147.com/news/council-passes-east-new-york-rezoning/
+- The city estimates the rezoning will create nearly 6,500 new apartments by 2030. — https://citylimits.org/house-flippers-continue-to-target-east-new-york-residents-blame-the-2016-rezoning/
+- House flipping: Cypress Hills LDC organizers pointed to a "gentrification gray" three-story attached home just north of Atlantic Avenue. Flipped 2–4 family houses are a likely market for intercom upgrades. — same URL
+- October 2026: the NYPD is seeking a suspect in a grand larceny pattern across the 83rd and 75th Precincts. — https://hoodline.com/2026/10/nypd-hunts-suspect-in-grand-larceny-pattern-spanning-bushwick-and-east-new-york/
+- News specifically about building security, smart locks or entry systems in City Line: EMPTY
+
+### 8. Reddit
+- EMPTY. No City Line Reddit threads came up in my searches.
+
+### 9. Things that change how the install is done
+- Many 1920s 2–4 unit brick houses, so expect old buzzer/door-release wiring and small-panel or wireless retrofits. This is my inference from the building-age data above, not a sourced claim.
+- New Atlantic Ave towers (13–14 stories) need IP/app intercoms, fobs and multi-door access control. — Brownstoner and City Limits URLs above
+- NYCHA buildings (Cypress Hills Houses, City Line Houses) follow NYCHA LAC/intercom specs and contracts, not private hiring. — https://designguidelines.nycha.info/layered-access-control-lac/
+- Local Law 62 of 2022 requires self-closing, self-latching doors. — https://designguidelines.nycha.info/entrances-exits/
+- Multilingual households (Bengali, Spanish, Guyanese English). — AAF and City Limits URLs above
+- Some City Line definitions run into Ozone Park, Queens, so check service-area wording for addresses on the Queens side. — https://forgotten-ny.com/2014/03/the-names-of-the-neighborhoods-of-brooklyn/
