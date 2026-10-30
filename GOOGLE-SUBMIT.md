@@ -2776,3 +2776,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-chinatown-brooklyn-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-norwood-bronx-ny | QUEUED
+2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-spuyten-duyvil-bronx-ny | QUEUED
