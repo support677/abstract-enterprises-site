@@ -510,7 +510,7 @@ LIVE | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Insta
 LIVE | fire-alarm-installation-cadman-plaza-brooklyn-ny | Fire Alarm Installation | Cadman Plaza, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-claremont-bronx-ny | Fire Alarm Installation | Claremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-concourse-bronx-ny | Fire Alarm Installation | Concourse, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-edgewater-park-bronx-ny | Fire Alarm Installation | Edgewater Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-fieldston-bronx-ny | Fire Alarm Installation | Fieldston, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
