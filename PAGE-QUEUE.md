@@ -524,19 +524,19 @@ LIVE | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation 
 LIVE | fire-alarm-installation-laconia-bronx-ny | Fire Alarm Installation | Laconia, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T18:13Z factory | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-port-morris-bronx-ny | Fire Alarm Installation | Port Morris, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Fire Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-silver-beach-bronx-ny | Fire Alarm Installation | Silver Beach, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | Soundview, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-woodlawn-heights-bronx-ny | Fire Alarm Installation | Woodlawn Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation Kingsbridge | Heights, Bronx | up /fire-alarm-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-bath-beach-brooklyn-ny | Intercom Installation | Bath Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-boerum-hill-brooklyn-ny | Intercom Installation | Boerum Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-borough-park-brooklyn-ny | Intercom Installation | Borough Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-brighton-beach-brooklyn-ny | Intercom Installation | Brighton Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T18:13Z factory | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T18:13Z factory | fire-alarm-installation-woodlawn-heights-bronx-ny | Fire Alarm Installation | Woodlawn Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T18:13Z factory | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation Kingsbridge | Heights, Bronx | up /fire-alarm-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T18:13Z factory | intercom-installation-bath-beach-brooklyn-ny | Intercom Installation | Bath Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T18:13Z factory | intercom-installation-boerum-hill-brooklyn-ny | Intercom Installation | Boerum Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T18:13Z factory | intercom-installation-borough-park-brooklyn-ny | Intercom Installation | Borough Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T18:13Z factory | intercom-installation-brighton-beach-brooklyn-ny | Intercom Installation | Brighton Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T18:13Z factory | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
