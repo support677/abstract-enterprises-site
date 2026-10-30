@@ -2767,3 +2767,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-hunts-point-bronx-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-kensington-brooklyn-ny | QUEUED
 2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-fieldston-bronx-ny | QUEUED
+2026-10-30 | https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-morrisania-bronx-ny | QUEUED
