@@ -1339,3 +1339,232 @@ I ran out of search calls before I could look up city datasets directly. HPD, 31
 - Address and access challenges on unnamed or unmapped lanes.
 - A grandfathered-conditions caveat: confirm the scope with a licensed professional and DOB or FDNY requirements before promising that no filing is needed.
 - Commercial alarm work along White Plains Road and Soundview Avenue.
+
+## Hunts Point, Bronx — /fire-alarm-installation-hunts-point-bronx-ny (factory research, 2026-10-30)
+
+**A. Fire alarm facts specific to Hunts Point (priority)**
+
+*Recent fires and local news*
+- 721 Hunts Point Ave, a third-floor fire reported just after 11 p.m. on a Thursday. The date isn't stated in the snippet. A file tag points to about June 12, 2026. Two people were hurt, including one firefighter, and 78 firefighters and crew responded. A witness saw a man climbing down the fire escape. The Red Cross assisted one family. — https://bronx.news12.com/crews-battle-hunts-point-building-fire
+- 631 Tiffany St, a commercial building fire reported around 12:30 a.m. on a Sunday, with heavy smoke from the top of the building. It was under control at 1:28 a.m. and no injuries were reported. The article's date isn't shown. — https://bronx.news12.com/heavy-smoke-seen-pouring-out-of-burning-hunts-point-building
+- 540 Tiffany St, a three-alarm commercial fire (ABC7 says four-alarm), July 23, 2024. Three firefighters were hurt. DOB ordered full demolition, issued a work-without-a-permit violation, and issued a partial vacate order for a neighboring building's driveway. — https://bronx.news12.com/fdny-3-firefighters-injured-battling-massive-building-fire-in-hunts-point and https://abc7ny.com/post/3-firefighters-hurt-battling-4-alarm-fire-burned/15084717/
+- 860 Hunts Point Ave, July 4, 2017, a five-story walk-up. The fire spread through the fourth and fifth floors, and more than 160 firefighters and EMS responded. Ten people were injured. — https://www.amny.com/news/fire-in-hunts-point-the-bronx-injures-6-firefighters-4-civilians-1.13781908/
+- The 860 Hunts Point Ave fire likely started on the first floor, in an interior shaft, windows and the back of the building, then went up the shaft to other floors, per FDNY Chief Sakowich. Residents were sheltered in place. Detector coverage in shafts and rear areas matters in this stock. — https://cbsnews.com/newyork/news/hunts-point-bronx-fire
+- In the 860 Hunts Point Ave fire, neighbors reached two girls trapped in a third-floor apartment through the fire escape. Red Cross helped 35 displaced residents. — https://abc7ny.com/post/good-samaritans-rescue-young-girls-from-bronx-apartment-fire/2181556/
+- Ryawa Ave, Miron and Sons Linens warehouse (a laundry, 42,000 sq ft), four-alarm fire. Gas mains fed the fire, chemicals such as chlorine and peroxide added explosion risk, and the roof collapsed. About 100 employees were affected. The article's date isn't shown. — https://abc7ny.com/archive/8754303/
+- Drake St salvage and pallet yard, September 7, 2020. It reached five alarms with nearly 200 FDNY members. Investigators called it suspicious because it started on a holiday. Heat burned vehicles on nearby streets, and residents were told to close windows. — https://www.nbcnewyork.com/news/local/4-alarm-junk-yard-fire-prompts-large-fdny-response-in-the-bronx/2605263/
+- Bronx Times fire index headline: "Fire erupts at New York Bottling Co. in Hunts Point; no injuries reported." Only the headline appeared in the results. — https://www.bxtimes.com/category/news/bronx-fire/
+- Not Hunts Point, but a nearby Bronx incident: a fatal fire at 1484 Montgomery Ave (Morris Heights) on September 23, 2026. Ring video showed a man setting a cardboard box on fire in a hallway. Residents had complained about drug activity in hallways and stairwells, and a vacate order covered 59 apartments. Useful only as a regional hallway-fire example. — https://abc7ny.com/post/1-dead-4-hurt-including-firefighters-bronx-fire-led-man-jump-burning-building/19861286/
+
+*Building types, industrial and commercial context*
+- The Food Distribution Center is by volume the largest food distribution hub in the country. — https://www.nycfoodpolicy.org/?p=30886
+- The Hunts Point Cooperative Market is a 24/7 wholesale market on 60 acres with more than 50 independent wholesalers. It has its own private Department of Public Safety, formed in 1985, with about 45 special patrolmen. — https://en.wikipedia.org/wiki/Hunts_Point_Cooperative_Market
+- Mayor Adams announced in December 2025 that the Hunts Point Market would be rebuilt as an energy-efficient facility. An earlier estimate put a renovation at over $600 million. The same page notes a roughly $650M redevelopment of the Produce Market is underway. — https://en.wikipedia.org/wiki/Hunts_Point_Cooperative_Market and https://www.nycfoodpolicy.org/?p=30886
+- The Hunts Point Energy Resiliency Project used $71 million of city and federal funds for generation and storage. A 2020 resiliency study recommended building hardening. — https://www.nycfoodpolicy.org/?p=30886 and https://news.climate.columbia.edu/2025/08/13/the-rising-threat-to-new-york-citys-food-system/
+- About 93 of the FDC's 329 acres sit in the current 100-year floodplain. A 2012 surge reached the fish market walls. This affects low-voltage and panel placement at grade for flood-prone sites. — https://citylimits.org/spared-by-sandy-citys-waterfront-food-hub-prepares-for-future-disasters/
+- The Hunts Point Industrial Park hosts over 800 businesses, and there is a large Con Ed plant at East Bay Ave. — https://forgotten-ny.com/2009/03/hunts-point-bronx/
+- A contractor page says the peninsula's dense loading docks and refrigerated facilities create unusual ignition and access challenges. This is a marketing source, so treat it as general rather than factual. — https://www.48fireprotection.com/new-york/hunts-point/#fire-safety-training
+- A Hunts Point senior-housing property at 887 Bryant Ave advertises elevators and a "24-hour surveillance system & access control system." That means elevator recall and access-control interfacing may apply. — https://www.pathscommunities.com/ny/bronx/hunts-point/default
+- Third-party data: 887 Bryant Ave has 2 open HPD violations (1 Class A, 1 Class B) as of August 2026. It is a 4-minute walk from the Hunts Point Av (6) station. — https://weverit.com/building/ny/new-york/887-bryant-avenue-bronx-10474
+
+*City data: HPD, DOB, 311*
+- 760 Hunts Point Ave is a 6-floor, 49-unit building from 1928 with 18 HPD violations. The Hunts Point average is 58.8 per building. — https://augrented.com/nyc/2027630195-760-hunts-point-avenue
+- HPD Class B ("hazardous") includes smoke detector issues. Class C includes immediately hazardous conditions. Example: one Hunts Point owner had 40 open violations, 19 of them Class B. — https://www.openigloo.com/contact/nyc/bba3f6cd-939d-4214-91f6-b6d5ac2c8f8c/hunts-point-apartments-l-p
+- Older 710–720 Hunts Point Ave (DNAinfo, December 2016): the owner had 4,010 units in eight buildings with 1,263 HPD violations and 168 DOB complaints. The two buildings at 710–720 had 139 open violations, and 720 had 26 open HPD violations. They were used as DHS "cluster" housing for homeless families. — https://www.dnainfo.com/new-york/20161208/hunts-point/moshe-piller-bronx-steam-infant-burned-death-scylee-ibanez-ambrose/
+- Older Bronx Times piece on 1315 Lafayette Ave, a 38-unit building used as a DHS cluster site with a lobby security guard. It reported 161 open HPD violations at the time. — https://www.bxtimes.com/possible-homeless-housing-pops-up-in-hunts-point/
+- A building-health blog says Hunts Point has some of the Bronx's highest HPD violation rates, with 1920s–1940s walk-ups and NYCHA towers as the typical stock. This is an unofficial source, so verify with HPD data. — https://www.buildinghealthx.com/services/furniture-assembly/hunts-point
+- A Hunts Point address could not be checked against HPD, DOB or 311 datasets directly. Page-level counts for 311 complaints and DOB fire-alarm permits: EMPTY.
+- A 2022 Twin Parks fire is cited by a competitor page as a "Hunts Point" gap. Twin Parks is on East 181st St, not in Hunts Point, so don't reuse that claim. — https://abstractenterprisessecuritysystems.com/fire-alarm-installation-hunts-point-bronx-ny.html
+- Newsweek's reporting on the Twin Parks fire is useful context on broken or disconnected smoke alarms in Bronx buildings. It is not Hunts Point-specific. — https://www.newsweek.com/broken-ovens-smoke-alarms-found-inspectors-bronx-building-before-fatal-fire-1669469
+
+*LPC and landmarks rules*
+- Manida Street Historic District, designated June 23, 2020, was NYC's 150th. It sits between Lafayette and Garrison Aves and has 42 semi-detached, two-story brick row houses, built 1908–09. — https://www.citylandnyc.org/landmarks-votes-to-designate-manida-street-hd/ and https://www.bxtimes.com/manida-street-historic-district-in-hunts-point-designated-as-150th-historic-district-in-the-city/
+- The district covers 819–861 Manida St (west side) and 814–870 Manida St (east side). — https://www.citylandnyc.org/landmarks-calendars-historic-district-in-hunts-point-bronx/
+- Architects were James Meehan and Daube & Kreymborg. The style is modest Renaissance Revival with some Flemish Revival elements. — https://www.bxtimes.com/manida-street-historic-district-in-hunts-point-designated-as-150th-historic-district-in-the-city/
+- Inference, not sourced: exterior-visible alarm devices on Manida St facades would likely need LPC review. Interior work generally would not. Confirm with LPC.
+- The HDC guide also mentions the Hunts Point Palace at Hunts Point Ave and E 163rd St as an NYC landmark. The extracted text is garbled, so confirm the designation year (the text appears to say 1981). — http://6tocelebrate.org/wp-content/uploads/2023/04/Hunts-Point_web2.pdf
+- Hunts Point Palace was a five-story ballroom at 953 Southern Blvd, built in 1913. — https://en.wikipedia.org/wiki/Hunts_Point_Palace
+
+*Reddit and local discussion*
+- Reddit threads on Hunts Point fire alarms or buildings: EMPTY. No Reddit results turned up.
+
+**B. General neighborhood background**
+
+*History and development*
+- A peninsula named after Thomas Hunt, an Englishman, in the late 1660s. It was annexed to the Bronx in 1874. — https://www.thepoint.org/history-of-hunts-point
+- It was a country-estate area from the 1830s to the 1860s. Apartment buildings later replaced mansions between 1850 and 1900. — https://cityneighborhoods.nyc/hunts-point and https://en.wikipedia.org/wiki/Hunts_Point,_Bronx
+- The IRT subway arrived in 1904, and the Intervale Ave station opened in 1910. These brought rapid development. — https://gothamtogo.com/historic-manida-street-in-the-bronx-proposed-as-a-landmarked-historic-district/
+- Hunts Point Avenue was rebuilt and widened in 1908. Coal yards and cement factories rose along the East River. — https://theneighborhoods.substack.com/p/hunts-point-the-bronx
+- Between 1890 and the 1920s it was a working-class Jewish enclave. Puerto Rican, Dominican and Jamaican communities came later. — https://www.thepoint.org/history-of-hunts-point
+- The 1960s–1990s brought arson and mass abandonment. The Bruckner Expressway (1972) severed Hunts Point from Longwood. About two-thirds of Community District 2 residents left. — https://en.wikipedia.org/wiki/Hunts_Point,_Bronx and https://theneighborhoods.substack.com/p/hunts-point-the-bronx
+- The Produce Market opened in 1967 and the Meat Market in 1974. It was designated an In-Place Industrial Park in 1980. — https://en.wikipedia.org/wiki/Hunts_Point,_Bronx
+- The Special Hunts Point District was created in 2004. It was meant to support the food center while protecting the residential area. — https://kids.kiddle.co/Hunts_Point,_Bronx
+- THE POINT CDC opened in 1994 at 940 Garrison Ave. — https://theneighborhoods.substack.com/p/hunts-point-the-bronx
+
+*Streets and corridors*
+- Hunts Point Avenue is the primary street, and the main north-south artery. — https://en.wikipedia.org/wiki/Hunts_Point,_Bronx and https://forgotten-ny.com/2009/03/hunts-point-bronx/
+- Other streets named in the sources: Southern Blvd, Lafayette Ave, Garrison Ave, Bryant Ave, Longfellow Ave, Seneca Ave, Tiffany St, Ryawa Ave, Manida St.
+- The residential pocket sits on the high ground in the northern half of the peninsula along Hunts Point Ave. Most of the rest is industrial. — https://activerain.com/blogsview/3379174/information-on-hunts-point--bronx--ny
+- The 6 train's Hunts Point Av station serves the area, and a Metro-North Hunts Point stop is planned. — https://theneighborhoods.substack.com/p/hunts-point-the-bronx
+
+*Building stock*
+- Pre-war apartment buildings and newer affordable housing dominate (aggregator source). — https://dwellcheck.io/apartments/no-fee/bronx/hunts-point
+- 91.7% of non-vacant units are renter-occupied. — https://en.wikipedia.org/wiki/Hunts_Point,_Bronx
+- Five-story walk-ups, such as 860 Hunts Point Ave, are common. — https://cbsnews.com/newyork/news/hunts-point-bronx-fire
+- Two-family houses and some co-op or condo units also appear in Redfin listings. — https://www.redfin.com/neighborhood/206943/NY/New-York/Hunts-Point
+- Detached houses, high-rises and co-ops as a defined category: EMPTY (no solid source).
+
+*Parks and landmarks*
+- Barretto Point Park opened in 2006 (5 acres) at Viele Ave and Tiffany St. The Floating Pool Lady barge has been there since 2008. — https://www.nycgovparks.org/about/history/historical-signs/listings?alphabet=B&amp=&borough=Bronx and https://en.wikipedia.org/wiki/Barretto_Point_Park
+- Other parks include Hunts Point Riverside Park, Joseph Rodman Drake Park, Hunts Point Landing and Manida Street Recreation Center. — https://activerain.com/blogsview/3379174/information-on-hunts-point--bronx--ny and https://hiddenwatersblog.wordpress.com/2017/08/21/barretto/
+- Hunts Point Riverside Park was spearheaded by Majora Carter of The POINT CDC. — https://en.wikipedia.org/wiki/Hunts_Point_Riverside_Park
+
+*Known for*
+- The food distribution center, along with salsa and hip-hop heritage and community-led revitalization. — https://www.thepoint.org/history-of-hunts-point
+
+*Home technology and entry systems*
+- Neighborhood-specific data: EMPTY.
+
+*Anything that changes how installation is done*
+- Not sourced, so verify with FDNY and DOB: the mix of five- and six-story pre-war walk-ups, large industrial sites, flood-zone areas and the LPC district.
+
+## Kensington, Brooklyn — /fire-alarm-installation-kensington-brooklyn-ny (factory research, 2026-10-30)
+
+**Search limits:** I ran out of searches. I found no Reddit threads, no neighborhood-level DOB permit counts, and no HPD or 311 totals for Kensington itself. Those items are marked EMPTY below.
+
+### A. Fire alarm installation in Kensington: local angles
+
+**Recent fires (strongest local news hooks)**
+- Fire at 188 Ocean Parkway, June 17, 2026. It started just after 6 p.m. and spread to the building next door at 184 Ocean Parkway. DOB issued full vacate orders for both, and no injuries were reported. Fifteen people (12 adults, 3 children) were displaced. Flames were in the upper portion of the building near the roof when firefighters arrived. The cause was under investigation. — https://brooklyn.news12.com/families-displaced-after-fire-tears-through-ocean-parkway-apartment-buildings ; https://www.ronvil.com/brooklyn-ny-fire-at-ocean-parkway-displaces-15/ ; https://www.boropark24.com/news/major-fire-engulfs-ocean-parkway-home
+- The Citizen app incident log places 188 Ocean Parkway between Church Avenue and Albemarle Road. The radio transcript describes a three-story building. The "brownstone" wording comes from an auto-transcript, so treat it as unverified. — https://citizen.com/-OvMcgfBUbPrUZCvwRzX
+- Fire at 717 Avenue C, Sept 7, 2026. A two-alarm fire hit a century-old apartment building, injured two people and displaced two families under a vacate order. Heavy smoke and flames shot from a third-floor window. The cause was undetermined. Hoodline calls it part of a pattern, citing the June Ocean Parkway fire. — https://hoodline.com/2026/09/kensington-apartment-fire-injures-two-forces-families-from-717-avenue-c-homes/ ; https://brooklyn.news12.com/2026/09/07/2-hurt-in-kensington-apartment-building-blaze/5j4n3I7Bbq44T3cXPKLc9R
+- Five-alarm fire at Boro Park Seder Matzah Bakery, 1285 36th Street, Dec 17, 2025. It started near the ovens around 2 a.m. and spread quickly to stacked matzah boxes. A child and two adults in a nearby building were injured, and a school with hundreds of children sits next door. DOB issued a full vacate order for extensive fire damage including a partially collapsed roof, and found damage at 1287 and 1301 36th Street. Firefighters fought it for nearly nine hours. This is a commercial and industrial-adjacent angle on the 36th Street/13th Avenue edge. — https://abc7ny.com/post/1-firefighter-3-residents-hurt-alarm-fire-kensington-brooklyn/18294499/ ; https://www.cbsnews.com/newyork/news/brooklyn-matzo-factory-fire/
+- Four-alarm fire at 413 East 3rd Street, March 22, 2024. It broke out at a three-story building around 5:45 p.m. It started on the first floor at the rear. Officials said high winds worsened it. It spread to a neighboring building, which had a partial roof collapse. Fox5 placed it on East Third Street between Beverly Road and Avenue C. — https://gothamist.com/news/4-alarm-fire-erupts-in-brooklyns-kensington-neighborhood-fdny ; https://www.amny.com/police-fire/brooklyn-fire-rescue/ ; https://www.fox5ny.com/news/fdny-battling-4-alarm-fire-in-brooklyn
+- East Ninth Street has had repeated multi-alarm fires in attached and row homes:
+  - 382 E. Ninth St., between Avenue C and Cortelyou Road, had heavy fire on the second and third floors of two private attached residences. It was the second multiple-alarm fire on the block in under a month, after one that partly collapsed a century-old two-story brick home. The year isn't shown in the excerpt.
+  - A 67-year-old resident was found trapped in a separate fire. The home collapsed from the second to the first floor, and DOB issued full vacate orders for 739 and 741 East Ninth St. The date isn't shown.
+  — https://www.brooklynpaper.com/kensington-fire-on-east-ninth-street-injures-eight/ ; https://brooklyn.news12.com/fdny-responds-to-3-alarm-blaze-in-kensington
+- Mixed-use corridor fire: a four-alarm fire in a three-story building on Coney Island Avenue, with a store on the first floor and apartments on the second and third. It was first reported on the first floor. The date isn't shown. — https://www.cbsnews.com/newyork/news/kensington-fire/
+- Five people were injured in a fire on East Eighth Street in Kensington, with flames from fourth-floor windows. The date isn't shown. — https://www.cbsnews.com/newyork/news/brooklyn-apartment-building-fire-injuries
+- Older Ocean Parkway fire: a fire at 622 Ocean Parkway destroyed one apartment and badly damaged others. Patch gives no date in the excerpt. — https://patch.com/new-york/windsorterrace/fire-at-622-ocean-parkway
+
+**City data (HPD, 311, DOB)**
+- Sample building: 349 Ocean Parkway was built in 1924 and has 62 HPD violations over 7 years and 45 311 complaints. Its violations include 4 smoke/CO detector items and 4 door/lock items. It has 46 units and 4 floors. This is one building, not a neighborhood statistic. — https://lucidrents.com/nyc/building/brooklyn/349-ocean-parkway-brooklyn-ny-11218
+- HPD enforcement: HPD complaint inspections check ten items in the complainant's apartment, including the smoke detector, which is a Class B violation. Complaints come in through 311. — https://cb14brooklyn.com/wp-content/uploads/2024/04/2024-05-08-CB14-ENS-Overview-4_12_2024.pdf
+- Community boards: CB12 covers Borough Park, Kensington, Ocean Parkway and Midwood. CB14 covers Flatbush, Midwood, Kensington and Ocean Parkway. CB12 is served by the 66th Precinct. Use these for 311 and HPD data pulls. — https://en.wikipedia.org/wiki/Brooklyn_Community_Board_12 ; https://en.wikipedia.org/wiki/Brooklyn_Community_Board_14 ; https://www.datatellsme.com/2018/11/quarterly-noise-complaints-brooklyn-community-board-12/
+- OpenIgloo lists 3,047 apartment buildings in Kensington with fewer than 50 units. One example, 866 Coney Island Avenue, shows 84 open violations. — https://www.openigloo.com/buildings/kensington/less_than_50_units
+- Kensington-specific 311 fire-alarm complaint counts: EMPTY
+- Kensington-specific DOB fire-alarm permit counts: EMPTY
+
+**Rules that change how the work is done**
+- Fire alarm filings go through FDNY, separately from DOB. New construction and substantial alterations follow NFPA 72 as amended by NYC, and fire alarm plans need FDNY review separate from DOB NOW. Both agencies are involved: DOB handles permits and installation approval, FDNY handles testing and approval. — https://nyctppinspections.com/nyc-building-construction-code/ ; https://www.komplyos.com/guides/fdny-compliance
+- Contractor and plan requirements (an installer's marketing page, so confirm against FDNY): only FDNY-approved companies can legally install fire alarms in NYC, and plans must be sealed by a PE or RA. The FDNY base fee for a new application is $420. — https://ablefireprevention.com/dont-get-burned-by-nyc-fire-alarm-installation-rules/
+- Local Law 26 of 2004 does not apply to Kensington's walk-ups and co-ops. The sprinkler mandate covers office buildings 100 feet or taller, not residential occupancies. — https://www.countyfire.us/blog/nyc-local-law-26-fire-safety-compliance-guide/
+- NYC Fire Code: the 2014 Fire Code took effect March 30, 2014. For permits on existing installations, most existing businesses don't have to meet the 2014 design and installation requirements. — https://www.nyc.gov/assets/fdny/downloads/pdf/business/nyc-fire-code-guide.pdf
+- Contractor marketing page for Kensington (not independent evidence). It says ground-floor commercial occupancy needs a control panel with pull stations and horn/strobes plus apartment-level detection. It says kitchen hood suppression must be wired to the panel. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-kensington-brooklyn-ny
+- LPC rules specific to fire alarm devices in the Albemarle-Kenmore Terraces district: EMPTY. The district's existence and building types are documented in section C.
+- Entry, intercom and AV wiring specifics for Kensington: EMPTY
+- Local Reddit threads: EMPTY. I found none.
+- Named local fire alarm businesses or blocks beyond the incident addresses above: EMPTY
+
+### B. History and development
+- Kensington was first developed in 1885 after Ocean Parkway was completed, and was named for the place and borough in West London around the turn of the century. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- Development began in the 1880s after Ocean Parkway opened. The boulevard begins in Kensington and runs to Coney Island and Brighton Beach. — https://www.corcoran.com/building/kensington/338208
+- After Ocean Parkway was completed, many Irish and Italians moved in. — https://www.untappedcities.com/secrets-kensington-brooklyn/
+- Through much of the 20th century Kensington was seldom seen as a distinct neighborhood, and many residents called it western Flatbush. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- The British-sounding names were mostly deliberate. When the area was developed, a patina of sophistication was wanted. — https://forgotten-ny.com/2007/10/kensington-brooklyn/
+- Wikipedia notes development was initially concentrated in the village of Windsor Terrace, which had more southerly borders than today's neighborhood. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- In the 1870s–80s, real estate syndicates bought large tracts west of Coney Island Avenue and subdivided them into lots. This is a secondary source (CityNeighborhoods.NYC). — https://cityneighborhoods.nyc/kensington
+- The BMT Brighton Line reached nearby Beverley and Church Avenues in 1919. Caveat: this comes from CityNeighborhoods' page on Albemarle, a separate neighborhood. — https://cityneighborhoods.nyc/albemarle
+- Six-story elevator apartment houses became more common on upper Ocean Parkway between the late 1920s and 1941, replacing many suburban villas. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+
+### C. Streets, building stock and landmarks
+- Commercial corridors: Coney Island Avenue, Church Avenue, Ditmas Avenue and McDonald Avenue. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- The "Little Bangladesh" enclave is centered on McDonald Avenue and Church Avenue. — https://c21awayerealty.com/neighborhoods/kensington
+- Church Avenue has become an international marketplace, with halal groceries, taquerias, South Asian boutiques and Polish delis. — https://cityneighborhoods.nyc/kensington
+- Hindi and Urdu signage on Church Avenue, Yiddish and Hebrew on Ocean Parkway, and the Russian spa Brooklyn Banya. — https://www.untappedcities.com/secrets-kensington-brooklyn/
+- Boundaries: Church Avenue to the north, 18th Avenue to the south, Coney Island Avenue to the east and Dahill Road to the west (CityNeighborhoods' description; other sources draw them differently). Ocean Parkway bisects it east–west. — https://cityneighborhoods.nyc/kensington ; https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- Building stock: brick rowhouses, detached one-family Victorians and apartment buildings. Pre-war brick apartment buildings dominate the Ocean Parkway and Coney Island Avenue frontage, many of them co-ops. — https://en.wikipedia.org/wiki/Kensington,_Brooklyn
+- Co-ops, in prewar and postwar walk-up and elevator buildings, are a large share of the housing, alongside two- and three-family houses and some newer condos. — https://www.homes.com/brooklyn-ny/kensington-neighborhood/
+- Many main-road apartments replaced single-family homes. The side streets still have brick rowhouses, Victorians and American Foursquare houses. — https://www.untappedcities.com/secrets-kensington-brooklyn/
+- Example buildings:
+  - 737 Church Avenue is a pre-war rental built in 1931, with 3 units and 3 stories. — https://www.corcoran.com/building/kensington/338208
+  - The Park Towers co-op has a separate Church Ave. entrance plus a service entrance from the lobby. — https://www.homes.com/brooklyn-ny/kensington-neighborhood/
+- Landmark: the Albemarle-Kenmore Terraces Historic District.
+  - Two courts designed by Slee & Bryson, built between 1916 and 1920. It has 32 residential buildings. — https://www.iloveny.com/listing/albemarle-kenmore-terraces-historic-district/131455/
+  - Two short cul-de-sacs off East 21st Street, plus a four-family apartment building at the end of Albemarle Terrace. Kenmore Terrace houses have garages on the ground floor. — https://en.wikipedia.org/wiki/Albemarle%E2%80%93Kenmore_Terraces_Historic_District
+  - The LPC report notes narrow rear service alleys behind the houses. — https://s-media.nyc.gov/agencies/lpc/lp/0989.pdf
+  - Designation: 1978 (CityNeighborhoods); the National Register listing is dated June 30, 1983. The district is on the Kensington/Flatbush border. — https://cityneighborhoods.nyc/albemarle ; https://en.wikipedia.org/wiki/National_Register_of_Historic_Places_listings_in_Brooklyn
+- The Kensington Post Office is one of just three National Register-listed buildings in the neighborhood. Parkville is a micro-neighborhood that breaks from the street grid. — https://www.untappedc
+
+## Laconia, Bronx — /fire-alarm-installation-laconia-bronx-ny (factory research, 2026-10-30)
+
+I ran out of searches before covering every topic. Items marked EMPTY were not found, and no source reported them.
+
+### A. Fire alarm installation in Laconia (most important)
+
+- **Strip-store fire, March 2026.** A four-alarm fire hit a row of stores at 1234 East Gun Hill Road. Norwood News filed it under Laconia. — https://www.norwoodnews.org/update-laconia-commercial-fire-damages-several-small-businesses-on-east-gunhill-road/
+- **Other outlets place the same fire in Williamsbridge.** The neighborhood label is contested (Laconia vs. Williamsbridge), so the page should say "Gun Hill Road corridor" unless it commits to one label. Firehouse puts it near Givan Ave. — https://www.firehouse.com/operations-training/video/55362408/fdny-fire-rips-through-11-bronx-businesses
+- **How the fire spread.** Crews found flames spreading through the cockloft, the space between ceiling and roof, and into adjoining businesses. — https://www.shorenewsnetwork.com/fdny-rushes-to-four-alarm-fire-tearing-through-bronx-stores/
+- **Scale of the response.** 74 FDNY units and more than 230 first responders were at the scene. Officials said 11 stores were affected. — https://www.cbsnews.com/newyork/news/fire-williamsbridge-fire-buisnesses-fdny/
+- **Businesses on that block.** The strip included a deli, a convenience store, a Chinese restaurant, a salon, a laundromat, several storefront churches, a driving school and an insurance agency. Investigators focused on a church in the middle of the block as the likely origin. — https://abc7ny.com/post/2-firefighters-hurt-fire-burns-williamsbridge-bronx-businesses/18683521/
+- **Hydrant obstruction.** FDNY said two vehicles were parked illegally in front of hydrants at this fire. — https://abc7ny.com/post/2-firefighters-hurt-fire-burns-williamsbridge-bronx-businesses/18683521/
+- **Attached one- and two-story store rows on Boston Road.** Examples:
+  - 3060 Boston Rd: built 1948, 1 story, 3 units. — https://streeteasy.com/building/3060-boston-road-bronx
+  - 3232 Boston Rd: built 1951, 1 story, 2 units. — https://streeteasy.com/building/3232-boston-road-bronx
+  - 2942 Boston Rd: built 1938, 1 story, 1 unit. — https://streeteasy.com/building/2942-boston-road-bronx
+  - 3400 Boston Rd: built 1935, 1 story, 3 units. — https://streeteasy.com/building/3400-boston-road-bronx
+- **Mixed-use building on Boston Road.** 3366 Boston Rd is a two-story prewar corner building. A 2021 listing described two 2-bedroom apartments upstairs and a dental office of about 2,200 sq ft on the ground floor. That is the kind of store-plus-apartments building where commercial and residential alarm needs overlap. — https://streeteasy.com/building/3366-boston-road-bronx/house
+- **Two-family house fire, July 2024.** Firefighters battled flames at a home at 2925 Throop Avenue around 11:30 p.m. Two people were in critical condition. FDNY hazmat resources evaluated an e-bike found at the scene. — https://abc7ny.com/post/bronx-house-fire-2-people-critical-condition-after-blaze-burns-through-home-laconia-nyc/15077499/
+- **Fatal residential fire at 1166 Burke Ave.** The address is between Hering and Tenbroeck Avenues. 12 emergency units with 60 fire and EMS personnel responded, and one civilian was pronounced dead. The snippet cut off the date; it says a Tuesday in December. — https://www.norwoodnews.org/east-bronx-residential-fire-on-burke-ave-results-in-one-death/
+- **Bronx e-bike fire, October 28, 2026 (not in Laconia).** A lithium-ion e-bike battery fire killed a boy at the 13-story Patterson Houses in the South Bronx. It is useful only as current borough context. — https://www.amny.com/news/bronx-fire-boy-dead-10282026/
+- **Filing path for any Bronx job.** A NYS-registered design professional (PE or RA) must approve the plans. The fire alarm plan needs a licensed Master Electrician and S97 holder. FDNY issues a Project Authorization before work starts. After installation, the Fire Alarm Inspection Unit must inspect. The system must be 100% complete and pre-tested before the inspection is requested. — https://nyc-business.nyc.gov/nycbusiness/description/fire-alarm-application
+- **Owner duties after install.** Alarm monitoring companies that report to FDNY must work from an FDNY-approved central station. Owners keep inspection and maintenance records for at least three years. — https://nyc-business.nyc.gov/nycbusiness/description/information-about-fire-alarms
+- **Smoke and CO alarms.** Even when a central fire alarm system isn't required, smoke and carbon monoxide alarms are required in almost all residential occupancies. That fits Laconia's many two-family houses. — https://www.builtengineers.com/post/when-are-fire-alarm-systems-required-in-residential-buildings
+- **Inspection staffing.** One source says a fire alarm inspection requires two certified technicians on-site. The same page lists semi-annual full functional tests. This is a contractor blog, so verify against FDNY before publishing. — https://www.tfp1.com/blog/fdny-fire-alarm-inspection-requirements/
+- **Competitor pages.** Abstract Enterprises has an FDNY-compliance page for Bronx walk-ups, co-ops, condos, multi-family and NYCHA units. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bronx-ny
+- **HPD violations, 311 complaints, DOB permits, LPC rules for Laconia:** EMPTY. I did not find or pull any of this data.
+- **Reddit threads about Laconia or fire alarms there:** EMPTY. My search returned no Reddit results.
+- **Landmarks districts in Laconia:** EMPTY. No source I found mentions one, so don't assert LPC constraints.
+
+### B. History and development
+
+- **Naming and boundaries.** Laconia is the northern subsection of Allerton, which also includes Bronxwood. Boundaries run from Gun Hill Road (north), Boston Road (east), Allerton Avenue (south) to the Bronx River Parkway. Wikipedia says Laconia includes the Eastchester Houses. Other sources differ (see the ZIP note in section E). — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- **Allerton's name.** It is named for Daniel Allerton, an early Bronx settler who farmed the area. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- **Laying out the streets.** By the early 1920s, Laconia Avenue and Barnes Avenue were fully laid out, and modest single- and two-family homes began to appear. Italian-American, Jewish and Irish families moved in. The source is a neighborhood-history site with no cited primary sources. — https://cityneighborhoods.nyc/laconia
+- **Subway timing.** A tree-service site says the White Plains Road subway line began operating in March 1917, three months before an auction of lots. Treat this as a secondary source. — https://bronxtreeservices.com/allerton-tree-services/
+- **Later demographic shifts.** West Indians arriving in the 1980s marked the shift north of Allerton Avenue from an Italian area to a West Indian one. Dominicans arriving west of Bronxwood Avenue ended the Jewish community north of Allerton Avenue. — https://urbanareas.net/info/resources/neighborhoods-bronx/allerton-bronx-history/
+- **Boston Road's origins.** It was an extension of the Boston Post Road, linking New York to New England since colonial times. — https://cityneighborhoods.nyc/laconia
+- **Gun Hill Road's origins.** The road was Kingsbridge Road until 1875, when it was renamed Gun Hill Road. — https://en.wikipedia.org/wiki/Gun_Hill_Road_(road)
+- **Builders and developers:** EMPTY. No named builder or developer found.
+
+### C. Streets and commercial corridors
+
+- **Main roads.** White Plains Road and Boston Road are the primary thoroughfares through Allerton. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- **Boston Road today.** Jamaican bakeries sit beside Dominican restaurants, and West African markets stand near longstanding Italian delis. — https://cityneighborhoods.nyc/laconia
+- **Gun Hill Road.** It is a busy retail corridor, as the March 2026 strip-store fire shows. — https://www.firehouse.com/operations-training/video/55362408/fdny-fire-rips-through-11-bronx-businesses
+- **White Plains Road.** Between Magenta Street and 217th Street, it is very wide because the Gun Hill Road station house sits in the median. — https://en.wikipedia.org/wiki/White_Plains_Road
+- **Residential streets with listings:** Laconia, Barnes, Hone, Paulding, Radcliff, Tenbroeck, Duncan, Burke, Throop and Mickle Avenues. — https://www.redfin.com/neighborhood/207822/NY/New-York/Laconia/pending-listings
+- **Transit.** The 5 line serves the Gun Hill Road station. — https://www.homes.com/bronx-ny/laconia-neighborhood/
+
+### D. Building stock
+
+- **Dominant types.** NeighborhoodScout calls Laconia's housing mostly small to medium apartment complexes/high-rises and townhomes. Many residences were built between 1940 and 1969. Its "high-rise" wording is generic and unverified for this area. — https://www.neighborhoodscout.com/ny/bronx/laconia
+- **Year-built counts (city-data).** About 748 units were built in 1939 or earlier and 298 in 1940–49. The 1950s were the largest group at 940, with 189 in the 1960s. Newer stock includes 445 units from 2010–2019. These are neighborhood-subdivision figures. — https://www.city-data.com/neighborhood/Laconia-Bronx-NY.html
+- **Two-family brick houses.** 2450 Laconia Ave is a multiple-occupancy home built in 1940. — https://www.zillow.com/homedetails/2450-Laconia-Ave-Bronx-NY-10469/29821002_zpid/
+- **Detached brick two-family.** 2546 Laconia Ave is listed as a fully detached brick legal two-family home. — https://www.onekeymls.com/home-details/2546-laconia-ave-bronx-ny-10469/bKUR85MZknA
+- **Typical layout.** 2936 Hone Ave is a 3-bedroom unit over a 2-bedroom unit with a full basement. That is a multi-unit layout that shapes smoke/CO alarm placement and wiring runs. — https://www.homes.com/bronx-ny/laconia-neighborhood/
+- **Multi-family market.** Redfin showed 13 multi-family homes for sale at a median listing price of $850K. That is a snapshot from late November 2025. — https://www.redfin.com/neighborhood/207822/NY/New-York/Laconia/multi-family-homes-for-sale
+- **NYCHA.** Edenwald Houses is owned and managed by NYCHA and is the largest development in the Bronx. It covers 48.88 acres bounded by Grenada Place, East 225th Street, Baychester Avenue, Schieffelin Avenue and Laconia Avenue. Note that it sits in the Eastchester/Laconia area. — https://en.wikipedia.org/wiki/Edenwald_Houses
+- **Apartment buildings.** Redfin lists apartment-style units at 2925 Matthews Ave and 2922 Barnes Ave (ZIP 10467). The listings don't say whether they are co-ops or condos. — https://www.redfin.com/neighborhood/207822/NY/New-York/Laconia/recently-sold
+- **Tenements.** Wikipedia says some are scattered across the neighborhood, primarily within five blocks of the El on White Plains Road. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- **Wiring or entry specifics (cockloft, basement, party walls):** EMPTY except the cockloft point from the fire.
+
+### E. Parks, landmarks, and what it's known for
+
+- **Parks and landmarks.** Only partial findings. The Bronx River Parkway is the western edge. Bronx Park East is described as a nearby community area with trails and recreational courts. — https://en.wikipedia.org/wiki/Allerton,_Bronx and https://bronxtreeservices.com/allerton-tree-services/
+- **Local anchors.** Public School 41 and nearby parochial institutions anchored community life. — https://cityneighborhoods.nyc/laconia
+- **Known for.** NeighborhoodScout says 14.1% of residents have Dominican ancestry and 10.9% have Jamaican ancestry. It adds that 26.9% were born in another country. — https://www.neighborhoodscout.com/ny/bronx/laconia
+- **Italian heritage.** The Italian Enclaves Historical Society says Italians in Allerton were mostly concentrated in Laconia. It cites Sal and Dom's Bakery as an Italian American business that remains. — https://italianenclaves.org/neighborhoods/east-coast/new-york/bronx/allerton/
+- **ZIP and boundary inconsistency.** NeighborhoodScout, Redfin and city-data use ZIP 10469, while Wikipedia says 10467. Sources also disagree on Laconia's boundaries. Hedge geography on the page.
+- **Local news on building security, home technology or entry systems:** EMPTY. Nothing found specific to Laconia.
