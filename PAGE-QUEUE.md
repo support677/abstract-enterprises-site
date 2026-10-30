@@ -510,26 +510,26 @@ LIVE | fire-alarm-installation-brooklyn-navy-yard-brooklyn-ny | Fire Alarm Insta
 LIVE | fire-alarm-installation-cadman-plaza-brooklyn-ny | Fire Alarm Installation | Cadman Plaza, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-claremont-bronx-ny | Fire Alarm Installation | Claremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-concourse-bronx-ny | Fire Alarm Installation | Concourse, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-east-tremont-bronx-ny | Fire Alarm Installation | East Tremont, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-edenwald-bronx-ny | Fire Alarm Installation | Edenwald, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-edgewater-park-bronx-ny | Fire Alarm Installation | Edgewater Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-fieldston-bronx-ny | Fire Alarm Installation | Fieldston, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-fieldston-bronx-ny | Fire Alarm Installation | Fieldston, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | fire-alarm-installation-fiske-terrace-brooklyn-ny | Fire Alarm Installation | Fiske Terrace, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-flatbush-brooklyn-ny | Fire Alarm Installation | Flatbush, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-fort-greene-brooklyn-ny | Fire Alarm Installation | Fort Greene, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-fulton-ferry-brooklyn-ny | Fire Alarm Installation | Fulton Ferry, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-harding-park-bronx-ny | Fire Alarm Installation | Harding Park, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | Hunts Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-hunts-point-bronx-ny | Fire Alarm Installation | Hunts Point, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-kensington-brooklyn-ny | Fire Alarm Installation | Kensington, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | fire-alarm-installation-laconia-bronx-ny | Fire Alarm Installation | Laconia, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-port-morris-bronx-ny | Fire Alarm Installation | Port Morris, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Fire Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | fire-alarm-installation-silver-beach-bronx-ny | Fire Alarm Installation | Silver Beach, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | Soundview, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-morrisania-bronx-ny | Fire Alarm Installation | Morrisania, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-mount-hope-bronx-ny | Fire Alarm Installation | Mount Hope, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-norwood-bronx-ny | Fire Alarm Installation | Norwood, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-port-morris-bronx-ny | Fire Alarm Installation | Port Morris, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-prospect-lefferts-gardens-brooklyn-ny | Fire Alarm Installation | Prospect Lefferts Gardens, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-silver-beach-bronx-ny | Fire Alarm Installation | Silver Beach, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-soundview-bronx-ny | Fire Alarm Installation | Soundview, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-10-30T15:11Z factory | fire-alarm-installation-spuyten-duyvil-bronx-ny | Fire Alarm Installation | Spuyten Duyvil, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-woodlawn-heights-bronx-ny | Fire Alarm Installation | Woodlawn Heights, Bronx | up /fire-alarm-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | fire-alarm-installation-kingsbridge-heights-bronx-ny | Fire Alarm Installation Kingsbridge | Heights, Bronx | up /fire-alarm-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-bath-beach-brooklyn-ny | Intercom Installation | Bath Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
