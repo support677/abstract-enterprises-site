@@ -354,14 +354,35 @@ def link_set(hrefs):
     return {p.split("#")[0].split("?")[0].rstrip("/") or "/" for p in map(local_path, hrefs) if p}
 
 
+_TRACKED = {}
+
+
+def tracked_files(root):
+    """Every file git tracks under root. A slim (sparse) checkout - the page runner skips the
+    photo folders - still counts a tracked file as existing even when it isn't on disk."""
+    if root not in _TRACKED:
+        import subprocess
+        try:
+            out = subprocess.run(["git", "-C", root, "ls-files", "-z"], capture_output=True,
+                                 check=True).stdout.decode("utf-8", "replace")
+            _TRACKED[root] = set(filter(None, out.split("\0")))
+        except (OSError, subprocess.CalledProcessError):
+            _TRACKED[root] = set()
+    return _TRACKED[root]
+
+
 def resolves(root, href):
     """Internal link target exists as a file, a .html page, or a folder index."""
     path = href.split("#", 1)[0].split("?", 1)[0]
     if path in ("", "/"):
         return True
     local = os.path.join(root, path.lstrip("/").replace("/", os.sep))
-    return (os.path.isfile(local) or os.path.isfile(local + ".html")
-            or os.path.isfile(os.path.join(local, "index.html")))
+    if (os.path.isfile(local) or os.path.isfile(local + ".html")
+            or os.path.isfile(os.path.join(local, "index.html"))):
+        return True
+    rel = path.lstrip("/")
+    t = tracked_files(root)
+    return rel in t or rel + ".html" in t or rel.rstrip("/") + "/index.html" in t
 
 
 # ------------------------------------------------------------------ checks
