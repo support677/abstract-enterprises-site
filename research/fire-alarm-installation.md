@@ -2183,3 +2183,84 @@ Sources are cited inline above.
 ### Notes
 - I couldn't find HPD, 311 or DOB permit data or any Reddit threads in search, so those are marked EMPTY. Check the city's open-data portals directly by address.
 - The dates on two Riverdale Press fire articles (2465 Palisade Ave and The Glenbriar) don't match their metadata, so treat those dates as unconfirmed.
+
+## Woodlawn Heights, Bronx — /fire-alarm-installation-woodlawn-heights-bronx-ny (factory research, 2026-10-30)
+
+### 1. Facts specific to fire alarm installation here (highest priority)
+
+**Fire incidents (local news)**
+- Feb. 15, 2021: the fire was reported at 8:34 a.m. inside the basement of the Katonah Family Deli and Grocery, located at 4293 Katonah Avenue. It extended to the first floor of the apartment building, and 138 firefighters from 33 units responded. — https://www.norwoodnews.org/one-firefighter-injured-residents-displaced-in-woodlawn-blaze/
+- Same fire: four families living in four separate apartments above the damaged businesses were displaced. Yonkers Fire Department members were seen in photos helping fight the blaze. (This is a border detail: Yonkers mutual aid.) — https://www.norwoodnews.org/tag/katonah-family-deli-and-grocery/ ; https://www.norwoodnews.org/one-firefighter-injured-residents-displaced-in-woodlawn-blaze/
+- Same fire: News 12 was told the fire started in the basement but quickly spread to the two floors above. — https://bronx.news12.com/1-firefighter-injured-in-woodlawn-heights-deli-fire
+- Aug. 2013: the fire reportedly started in the basement of Behan's bar, at the center of Woodlawn's Irish community, around 10:30 p.m. It reached the adjoining building before 11 p.m., and a firewall in the Emerald Pharmacy stopped it from spreading further. — https://www.irishcentral.com/news/fire-rips-through-behans-pub-and-emerald-pharmacy-in-woodlawn-219909211-237770391
+- Same 2013 fire: It took nearly two hours to bring the fire under control. — https://abc7ny.com/archive/9206981/
+- Pattern (my synthesis of the two fires above, not a sourced claim): both big Katonah Ave fires started in the basement of a ground-floor business and spread toward the floors above. That points to basement/cellar detection and alarm notification that reaches the upstairs apartments in mixed-use buildings.
+- Jan. 2016 house fire: it broke out on the first floor and quickly spread to the roof, and East 236th Street was shut down while firefighters worked. — https://abc7ny.com/woodlawn-bronx-house-fire-fdny/1155347/
+- Undated CBS report: a fire broke out at 5:06 p.m. in the multi-story house at 335 E. 236th St., and the FDNY raised it to two alarms. (I could not confirm whether this is the same fire as the 2016 ABC7 report.) — https://www.cbsnews.com/amp/newyork/news/woodlawn-bronx-fire/
+- About 475 days ago (~mid-2025): an apartment fire in Woodlawn displaced six residents; it began around 8 p.m. at the top of a six-story building. No address was given, so it may be in the wider "Woodlawn" area rather than the Heights. — https://bronx.news12.com/fdny-6-residents-displaced-by-woodlawn-apartment-fire
+- Citizen app: a structure-fire report at E 240th St & Katonah Ave. Fire crews saw multiple people walking in the area and believed it was a false report. — https://citizen.com/-MhCqj3I5rxHY5hZGzsH
+
+**Codes and rules that shape the work**
+- Since April 1, 2019, every smoke detector sold in New York State must have a sealed, non-removable battery that lasts at least 10 years, or be hard-wired. — https://macfawn.com/fire/ny-smoke-detector-law/
+- A NYC local law requires homeowners and landlords to replace all old devices by 2021 with smoke detectors that use a sealed 10-year battery. — https://www.brickunderground.com/live/best-smoke-detector-for-nyc-apartments
+- In NYC, an existing apartment can comply with approved sealed-battery detectors. Hard-wired, interconnected alarms with battery backup are required for new construction and substantial alterations. (Relevant to Woodlawn's many pre-1939 frame houses.) — https://zentrades.pro/zenfire/blog/new-york-smoke-alarm-law-smoke-detectors-carbon-monoxide-rules-and-owner-duties
+- Commercial jobs (from a competitor's page): commercial fire alarm work in the Bronx needs a NYS-licensed installer, an FDNY plan filing, a Project Authorization before work starts, and an acceptance inspection afterward. The same page says Bronx restaurants are Assembly occupancy under the FDNY code. This applies to Katonah Ave pubs. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bronx-ny
+- Zoning: the Woodlawn Taxpayers Association said the rezoning keeps the neighborhood's character and bars large multi-family buildings on residential streets. That means most jobs are in 1–2 family houses, not large new systems. — https://www.bxtimes.com/woodlawns-true-identify-protected-with-rezoning/
+- Before the downzoning, most of Woodlawn Heights was already R4A. The exceptions were the Webster Avenue corridor (East 234th–240th Streets) and a small commercial C8-1 area between E 233rd/234th Streets, Katonah Ave and Peter's Place. — https://www.bxtimes.com/woodlawns-true-identify-protected-with-rezoning/
+- Earlier rezoning: it covered 934 lots south of the Yonkers city line, mostly zoned R4-1 and R5, and replaced them with R4A and R5B. — https://www.citylandnyc.org/three-bronx-rezonings-approved/
+- Wider Bronx context: in the 2025 Devoe Terrace fire (University Heights, not Woodlawn), the roughly 115-year-old wooden building burned fast up to the attic and firefighters faced heavy smoke. Lithium-ion batteries caused it. This is a useful comparison for Woodlawn's old frame houses. — https://www.firerescue1.com/take-charge/fdny-li-ion-batteries-caused-5-alarm-fire-that-critically-injured-firefighter
+- New construction: the Woodlawn Senior Living ribbon-cutting was held at 69 E 233rd Street on Dec. 6, 2022. It is an 80-unit affordable Passive House development for low-income seniors. — https://www.nyc.gov/site/hpd/news/059-22/city-officials-riseboro-celebrate-opening-woodlawn-senior-living-development-the-bronx
+- Elevator co-op buildings: listings include 4200 Herkimer Pl Unit 7E and 4315 Webster Ave Unit 1J. — https://www.redfin.com/neighborhood/34713/NY/New-York/Woodlawn-Heights/1-bedrooms
+- Competitor: one firm already advertises alarm system installation, fire alarm, smoke detector, and elevator access control for Woodlawn Heights buildings. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-woodlawn-heights-bronx-ny
+
+**City data**
+- HPD violations (smoke/CO detector) for Woodlawn Heights: EMPTY
+- 311 complaints (smoke detector/fire alarm) for Woodlawn Heights: EMPTY
+- DOB/FDNY fire alarm permits for Woodlawn Heights: EMPTY
+- LPC historic district in Woodlawn Heights: EMPTY. None found. The only landmark found is Woodlawn Cemetery, a federal National Historic Landmark, and it is not housing.
+- Reddit threads on fire alarms/smoke detectors in Woodlawn: EMPTY
+
+### 2. History and development
+- In 1873, George Opdyke bought land next to the railroad, began developing it, and named the neighborhood after the cemetery. — https://theneighborhoods.substack.com/p/woodlawn-the-bronx
+- The IRT subway line, completed in 1917, set off a wave of building, mostly one- and two-family homes that still define the neighborhood today. — https://theneighborhoods.substack.com/p/woodlawn-the-bronx
+- In the 1880s–1890s speculative builders marketed the hills as "Woodlawn Heights." Katonah, McLean and Vireo Avenues were laid out along the ridges, and cottages, Victorian homes and two-story frame houses went up. — https://cityneighborhoods.nyc/woodlawn-heights
+- Early residents were mostly German, Italian and Irish working-class families. — https://6tocelebrate.org/neighborhood-items/woodlawn-the-bronx/
+- Many Irish arrived in the early 1840s to dig the Old Croton Aqueduct, and enough stayed to earn the area the nickname Little Ireland. — https://theneighborhoods.substack.com/p/woodlawn-the-bronx
+- The Woodlawn Heights Taxpayers and Community Association, founded in the 1920s, pushed for infrastructure, schools and zoning protections. — https://cityneighborhoods.nyc/woodlawn-heights
+
+### 3. Main streets and commercial corridors
+- Katonah Avenue runs north–south through the heart of Woodlawn Heights and is known for its many Irish pubs and restaurants. — https://en.wikipedia.org/wiki/Woodlawn,_Bronx
+- McLean Avenue is the main shopping strip for both Woodlawn Heights and Yonkers' McLean Heights, though technically it is in the city of Yonkers. — https://en.wikipedia.org/wiki/Woodlawn,_Bronx
+- Businesses: The Butcher's Fancy (961 McLean Avenue) and Anna's Attic (952 McLean Avenue). — https://hotandhumblejake.substack.com/p/exploring-the-irish-community-in
+- Rory Dolan's is one of the largest restaurants on McLean Avenue. — https://www.untappedcities.com/little-ireland-woodlawn/
+- The Emerald Isle Immigration Center is on Katonah Avenue and the Aisling Irish Community Center is on McLean Avenue. The Woodlawn post office station is at 4364 Katonah Avenue. — https://en.wikipedia.org/wiki/Woodlawn,_Bronx
+
+### 4. Building stock
+- Century-old detached colonial-style homes and midcentury brick co-op buildings. — https://www.homes.com/bronx-ny/woodlawn-heights-neighborhood/houses-for-sale/
+- Detached one- and two-family houses, some apartment buildings and hilly streets. — https://6tocelebrate.org/neighborhood-items/woodlawn-the-bronx/
+- Detached and semi-detached single-family homes with front lawns on streets like East 238th and East 236th, plus multi-family houses and small brick or Tudor apartment buildings. — https://woodlawnheightsthebronxneighborhood.org/living-in-woodlawn-heights-a-welcoming-bronx-neighborhood-with-heart-greenery-and-community-spirit/
+- 56.0% of the homes in the 10470 profile area were built in 1939 or earlier. Note: NeighborhoodScout's "Woodlawn" profile area may not match the Heights exactly. — https://www.neighborhoodscout.com/ny/bronx/woodlawn
+- Landmark districts: EMPTY (no LPC district found).
+
+### 5. Parks and landmarks
+- Established in 1863, the cemetery covers 400 acres of rolling ground overlooking the Bronx River. It was designated a National Historic Landmark in 2011. — https://www.tclf.org/landscapes/woodlawn-cemetery-bronx
+- Oneida Triangle is a memorial to Woodlawn Heights residents who served in the military (the source text is cut off). — https://en.wikipedia.org/wiki/Woodlawn_Heights,_Bronx
+- The Woodlawn Heights Library hosts community events, and Woodlawn Family Fun Days happen in Van Cortlandt Park twice a year. — https://www.homes.com/bronx-ny/woodlawn-heights-neighborhood/houses-for-sale/
+
+### 6. What it's known for
+- It is one of the only Irish enclaves in New York City that still draws recent Irish immigrants. — https://www.untappedcities.com/little-ireland-woodlawn/
+- Because sandhogging often runs in families for generations, Woodlawn is still the de facto sandhog capital. — https://theneighborhoods.substack.com/p/woodlawn-the-bronx
+- The annual Woodlawn Irish Festival turns Katonah Avenue into a busy celebration. — https://woodlawnheightsthebronxneighborhood.org/living-in-woodlawn-heights-a-welcoming-bronx-neighborhood-with-heart-greenery-and-community-spirit/
+
+### 7. Recent news on building security, home tech or entry systems
+- EMPTY (only the fire news in section 1 was found)
+
+### 8. Local Reddit discussion
+- EMPTY
+
+### 9. What could change how fire alarm installation is done here
+- Mixed-use Katonah Ave buildings (shop or pub below, apartments above), where both major fires started in commercial basements. See the Norwood News, News 12 and IrishCentral sources in section 1.
+- Pubs and restaurants are Assembly occupancy, which brings FDNY plan filing and acceptance inspection. — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-bronx-ny
+- Mostly pre-war one- and two-family frame and detached houses kept low-density by R4A/R5B zoning. Existing homes can comply with sealed-battery units; hard-wired interconnected alarms are required for gut renovations. — https://www.bxtimes.com/woodlawns-true-identify-protected-with-rezoning/ ; https://zentrades.pro/zenfire/blog/new-york-smoke-alarm-law-smoke-detectors-carbon-monoxide-rules-and-owner-duties
+- Yonkers border: McLean Avenue is under Yonkers jurisdiction (a different authority than NYC/FDNY), and Yonkers FD helped at the 2021 fire. — https://en.wikipedia.org/wiki/Woodlawn,_Bronx ; https://www.norwoodnews.org/one-firefighter-injured-residents-displaced-in-woodlawn-blaze/
+- Hilly terrain and old frame houses: EMPTY for any sourced effect on wiring or access.
