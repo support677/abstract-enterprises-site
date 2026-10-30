@@ -36,6 +36,7 @@ Run 2026-10-28 evening (scheduled, 00:53 UTC Oct 29, Claude in Chrome, account /
 
 Run 2026-10-29 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 marked indexed (all 11 inspected as not on Google; Ring Bronx, Nest Manhattan, eufy NYC/Manhattan/Staten Island were "URL is unknown to Google"). Google showed "Quota Exceeded" on the 12th (eufy long island), which stays QUEUED; next run starts there.
 Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /u/1): 0 requested, 0 marked indexed. Sitemap resubmitted via API (lastSubmitted 2026-10-30T00:55:07Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2121 QUEUED URLs in 5 batches of up to 500: all 200. Inspected eufy long island (Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at eufy long island.
+2026-10-30: 11 requested, 0 indexed, 0 failed, 2153 queued (morning run, Claude in Chrome, account /u/1; all 11 inspected as not on Google; "Quota Exceeded" on the 12th, reolink staten island, which stays QUEUED; next run starts there).
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -51,17 +52,17 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-bronx | REQUESTED 2026-10-29
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-manhattan | REQUESTED 2026-10-29
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-staten-island | REQUESTED 2026-10-29
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-long-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nyc | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-manhattan | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-long-island | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-nassau-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-suffolk-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-westchester-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-rockland-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-orange-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-dutchess-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-prices-ulster-county | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nyc | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-bronx | REQUESTED 2026-10-30
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-manhattan | REQUESTED 2026-10-30
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-staten-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-long-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nassau-county | QUEUED
