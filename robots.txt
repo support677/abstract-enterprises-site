@@ -22,3 +22,6 @@ Disallow: /delta193/
 Disallow: /delta194/
 
 Sitemap: https://www.abstractenterprisessecuritysystems.com/sitemap.xml
+
+# Private tenant/customer video pages
+Disallow: /t/
