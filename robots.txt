@@ -25,3 +25,4 @@ Sitemap: https://www.abstractenterprisessecuritysystems.com/sitemap.xml
 
 # Private tenant/customer video pages
 Disallow: /t/
+Disallow: /how-to/
