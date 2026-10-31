@@ -39,6 +39,7 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-30: 11 requested, 0 indexed, 0 failed, 2153 queued (morning run, Claude in Chrome, account /u/1; all 11 inspected as not on Google; "Quota Exceeded" on the 12th, reolink staten island, which stays QUEUED; next run starts there).
 2026-10-30 (second scheduled run, afternoon): 0 requested, 0 indexed, 0 failed, 2151 queued. Claude in Chrome extension not connected; built-in browser not signed in to Search Console. Today's allowance was already used by the 09:33 morning run anyway. Queue unchanged; next run starts at reolink staten island.
 2026-10-30 evening (scheduled, 00:53 UTC Oct 31, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2110 queued. Sitemap resubmitted via API (lastSubmitted 2026-10-31T00:53:07Z, 2764 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2110 QUEUED URLs in 5 batches of up to 500: all 200. Inspected reolink staten island (URL is unknown to Google); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at reolink staten island.
+2026-10-31 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2169 queued. All 11 inspected as not on Google (blink orange county was "URL is unknown to Google"). "Quota Exceeded" on the 12th (wyze suffolk county), which stays QUEUED; next run starts there.
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -65,17 +66,17 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nyc | REQUESTED 2026-10-30
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-bronx | REQUESTED 2026-10-30
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-manhattan | REQUESTED 2026-10-30
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-staten-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-long-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-nyc | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/wyze-camera-installation-prices-staten-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-staten-island | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-long-island | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-nassau-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-orange-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-dutchess-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-prices-ulster-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-nyc | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-westchester-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-orange-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-prices-dutchess-county | REQUESTED 2026-10-31
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/wyze-camera-installation-prices-staten-island | REQUESTED 2026-10-31
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/wyze-camera-installation-prices-suffolk-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/wyze-camera-installation-prices-westchester-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/wyze-camera-installation-prices-orange-county | QUEUED
