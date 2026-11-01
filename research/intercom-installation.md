@@ -598,3 +598,259 @@ I didn't find Reddit threads, 311 or HPD data, Boerum Hill-specific LPC intercom
 - Local Law 62 of 2022 requires self-closing, self-latching doors. — https://designguidelines.nycha.info/entrances-exits/
 - Multilingual households (Bengali, Spanish, Guyanese English). — AAF and City Limits URLs above
 - Some City Line definitions run into Ozone Park, Queens, so check service-area wording for addresses on the Queens side. — https://forgotten-ny.com/2014/03/the-names-of-the-neighborhoods-of-brooklyn/
+
+
+## Cypress Hills, Brooklyn — /intercom-installation-cypress-hills-brooklyn-ny (factory research, 2026-11-01)
+
+REBUILD of a page Google refused to index as a near-duplicate template. Up-link /intercom-installation-brooklyn-ny; phone (347) 934-8335; Brooklyn GBP. Thesis chosen to avoid angles used by the other Cypress Hills pages (alarm: hillside/slope; TV: el vibration and NYCHA block; fire: party walls; City Line intercom: language, NYCHA, flipped houses): (1) the HPD/CHLDC basement apartment pilot in Community District 5 and the separate entrances it creates; (2) frame and brick houses with a sidewalk gate, a front yard or porch and then the door, which raises the "where does the button go and what does the release open" question; (3) doorways on Fulton Street under the J/Z el (grime, overhead steel, shade, a train overhead) and on Jamaica Avenue; (4) the new large affordable buildings (254 Euclid Ave, 2795 Fulton St) with staffed lobbies; (5) the tenant route when a buzzer is dead (311/HPD), and the Fulton Street BID corridor.
+
+- Cypress Hills boundaries per cityneighborhoods.nyc: Atlantic Avenue south, Broadway Junction west, Jamaica Avenue and Cypress Hills Cemetery north, Queens line east; sits on a ridge above East New York next to Highland Park — https://www.cityneighborhoods.nyc/cypress-hills
+- Housing per the same page: mostly low-rise, wood-frame and brick rowhouses, late-19th-century two-family houses, small apartment buildings; restored two-family homes and rowhouses on Euclid Avenue, Hemlock Street and Lincoln Avenue; newer affordable developments beside older buildings — https://www.cityneighborhoods.nyc/cypress-hills
+- History per the same page: farmland before residential development in the 1870s–1880s; Fulton Street Elevated arrived 1888; German, Irish, Italian early residents; St. Rita's (1899) and Blessed Sacrament (1897); Puerto Rican, Dominican, African American and Caribbean residents mid-20th century; CHLDC founded by residents in 1983; Dominican, Ecuadorian, Mexican and West Indian immigrants later reshaped storefronts; Jamaica Avenue the historic commercial strip; Fulton and Crescent Streets family-run businesses; Atlantic Avenue historically manufacturing and transport — https://www.cityneighborhoods.nyc/cypress-hills
+- NOTE: cityneighborhoods.nyc gives 1888 for the Fulton Street el; Wikipedia (via the alarm-page research L1) gives 1889 for the Fulton Street line. Page says "the late 1880s" only.
+- HPD Basement Apartment Conversion Pilot Program: East New York and Cypress Hills, Brooklyn Community District 5; owner of a 1-, 2- or 3-unit home who lives there as primary residence; low- or no-interest loans up to $120,000, possibly forgivable; administered with Cypress Hills Local Development Corporation (technical assistance, construction management, help getting a Certificate of Occupancy from DOB); program now closed to new applications; page states no entrance/egress specifics — https://www.nyc.gov/site/hpd/services-and-information/basement-apartment-conversion-pilot-program.page
+- Pilot coverage in local news (not opened, titles only): BK Reader "City launches East NY basement pilot program" (2019); City Limits "City launches pilot program to legalize basement apartments" (Feb 25 2019); Next City "NYC funded a pilot to make basement apartments safer, but then it went off track" — https://bkreader.com/2019/03/08/city-launches-east-ny-basement-pilot-program/ ; https://citylimits.org/2019/02/25/city-launches-pilot-program-to-legalize-basement-apartments/ ; https://nextcity.org/urbanist-news/entry/nyc-funded-pilot-to-make-basement-apartments-safer-but-then-went-off-track
+- 217 Hemlock Street 11208 listing: brick two-family, built 1910, finished basement with separate entrance, private front entrance, rear access to the backyard; no intercom mentioned — https://pcasilli.johnjleaseonline.com/for-sale/217-hemlock-street-brooklyn-ny-11208/id_916390
+- Brownstoner Building of the Day, 124 and 130 Arlington Avenue (Suzanne Spellen, Aug 20 2012): brick single-family houses at Schenck Avenue and Barbey Street, 1908–1912, Dutch gambrel roof, Colonial Revival; builder Henry Meyer lived at 124 in 1913; area largely German-American then; New Lots joined the City of Brooklyn in 1896 (article's date) — https://www.brownstoner.com/architecture/building-of-the-day-124-130-arlington-avenue/
+- Earlier alarm-page research (re-used, already sourced there): Brownstoner on Richards Real Homes, 90 houses on Sunnyside Avenue 1900–1920, brick, tile roofs, deep porches, bays, houses built into slopes above the street on stairs; 218 Arlington Ave Queen Anne c.1900 now vinyl-sided; 339 Jamaica Ave Italianate wood-frame with porch, driveway, rear garage — https://www.brownstoner.com/architecture/building-of-the-day-149-181-sunnyside-avenue ; https://www.brownstoner.com/architecture/building-of-the-day-218-arlington-avenue ; https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-brownstone-bed-stuy-wood-frame-cypress-hills/3/
+- Cypress Hills station: Jamaica Ave & Hemlock St, opened May 30 1893, elevated, easternmost Brooklyn station on the Jamaica Line (from alarm-page research L2) — https://en.wikipedia.org/wiki/Cypress_Hills_station
+- Highland Park 141.28 acres on the Brooklyn–Queens border; Ridgewood Reservoir in service to 1959 (alarm-page research L3) — https://en.wikipedia.org/wiki/Highland_Park_(Brooklyn)
+- Cypress Hills Cemetery, 225 acres, dedicated 1848, 833 Jamaica Ave gate (alarm-page research L4) — https://en.wikipedia.org/wiki/Cypress_Hills_Cemetery
+- Cypress Hills Library, 1197 Sutter Ave (alarm-page research L1) — https://en.wikipedia.org/wiki/Cypress_Hills,_Brooklyn
+- 254 Euclid Avenue (Phipps Houses, Dattner Architects): 14-story mixed-use, 436 residences, 369 through lottery, near Crescent Street J/Z station; amenities include package lockers and a 24-7 staffed attended lobby; development to add 1,200 apartments across three connected buildings on the block; no intercom mentioned — https://newyorkyimby.com/2025/03/housing-lottery-launches-for-atlantic-chestnut-phase-2-in-cypress-hills-brooklyn.html ; https://www.brickunderground.com/rent/nyc-housing-lottery-369-apartments-cypress-hills-brooklyn-phipps-houses-254-euclid-ave
+- 2795 Fulton Street: eight-story mixed-use, 51 residences, lottery Sept 2025 (13 units), developer Yisroel Greenfeld, architect Nikolai Katz; amenities parking, laundry, wellness studios, roof garden; no intercom mentioned — https://newyorkyimby.com/2025/09/housing-lottery-launches-for-2795-fulton-street-in-cypress-hills-brooklyn.html
+- Other Cypress Hills new-building items seen in search titles only (not opened, not used on page): 265 Logan Street lottery (Jan 2025), 2700 Atlantic Avenue lottery (Mar 2026), Phipps 105 Dinsmore Place 327 units (Commercial Observer, Apr 2026), permits for 2501 Fulton Street (Mar 2026), 570 Eldert Lane (Mar 2025) — https://newyorkyimby.com/neighborhoods/cypress-hills ; https://commercialobserver.com/2026/04/phipps-houses-plans-105-dinsmore-place/
+- Cypress Hills–Fulton Street BID (Brooklyn BP recommendation, application 240266BDK): 26 blocks along Fulton Street from Van Siclen Avenue to Eldert Lane; westward extension to Pennsylvania Ave considered and not adopted; priorities sanitation, street lighting, public safety, public space programming — https://www.brooklynbp.nyc.gov/wp-content/uploads/2024/09/CD-5-Cypress-Hills-Fulton-BID-Formation-240266BDK.pdf
+- SBS Nov 18 2024: BID formed; $100,000 FY24 for Fulton Street lighting (alarm-page research L20) — https://nyc.gov/site/sbs/about/pr20241118-cypresshills-licp.page
+- SBS Neighborhood 360 CDNA (2016 data): insufficient lighting under the el; 25% of merchants named security as top improvement (alarm-page research L19) — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-eny-SP.pdf
+- NYC311 apartment maintenance article: broken or missing doorbells, buzzers and intercoms are reportable; doors/locks that don't self-close reportable; try the owner first; HPD contacts the managing agent, then calls the tenant back; if not fixed, an unannounced Code Enforcement inspection; inspector can arrange a translator if English isn't your primary language — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- Habitat Magazine, Feb 26 2024, "A Working Intercom Isn't an Amenity. It's Required by Law": MDL — buildings built/converted after 1968 with 8+ units need two-way voice intercom; courts treat intercoms as essential service under warranty of habitability; remedies include demand letter, 311, HP proceeding in housing court — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Silo-wide rules re-used (sourced in 3-silo-research): 1 RCNY 42-01 button height ≤6 ft, speaking device 4–5 ft; MDL 50-a; HPD ABCs self-closing doors — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf ; https://www.nyc.gov/assets/hpd/downloads/pdfs/services/abcs-of-housing.pdf
+- Brownstoner forum "Intercom for a three family" (about 12 years old): owner of a three-family wanted a buzzer and intercom in each unit; only reply recommended Aiphone — https://www.brownstoner.com/forum/about-brooklyn/intercom-for-a-three-family
+- NYC Comptroller's NYCHA door audit items exist (search results) — not centered on this page (City Line used it) — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+- Cypress Hills Houses: between Sutter Ave & Linden Blvd, Fountain & Euclid Aves; completed 1955 (building count conflicts 11 vs 15 — no count on page) — https://en.wikipedia.org/wiki/Cypress_Hills_Houses
+- Search "J train elevated noise Fulton Street Cypress Hills residents": no Cypress Hills-specific noise source found — EMPTY (page makes no decibel or noise-complaint claim)
+- Reddit threads about intercoms/buzzers in Cypress Hills: EMPTY (search returned none)
+- Cypress Hills HPD/311/DOB intercom violation or complaint counts: EMPTY
+- Yelp reviews about intercom installers in Cypress Hills: EMPTY (not searched successfully)
+- Google PAA / PASF / AI Overview / Answer the Public: EMPTY (not accessible in build env); questions below come from the register-gap analysis, the forum thread, the 311/Habitat sources and the pilot program
+- Local news stories about intercoms in Cypress Hills: EMPTY (the only buzzer story found was Brownsville Houses, News12 — not Cypress Hills, not used) — https://brooklyn.news12.com/broken-buzzer-sparks-fear-in-tenants-at-brownsville-houses-39484545
+
+### Questions people ask — Intercom Installation in Cypress Hills
+- Where should the call button go when the house has a sidewalk gate, a porch and then a front door? — derived from listing/architecture research (frame houses with porches, front yards) — https://www.cityneighborhoods.nyc/cypress-hills
+- Can one release open both the gate and the door in sequence? — same — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-brownstone-bed-stuy-wood-frame-cypress-hills/3/
+- Will a station at the top of a long flight of steps see the visitor's face? — Brownstoner (houses above street on steep stairs) — https://www.brownstoner.com/architecture/building-of-the-day-149-181-sunnyside-avenue
+- When during a basement conversion should intercom cable go in? — HPD pilot page — https://www.nyc.gov/site/hpd/services-and-information/basement-apartment-conversion-pilot-program.page
+- Does the Certificate of Occupancy sign-off look at the intercom? — HPD pilot page — same URL
+- How do we keep a camera station working under the el (grime, droppings)? — SBS CDNA (el corridor) — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-eny-SP.pdf
+- Can a passing train shake an electric strike out of adjustment? — Fulton St el — https://www.cityneighborhoods.nyc/cypress-hills
+- How do customers ring a shop behind a half-closed roll-down gate on Atlantic Avenue? — corridor research — https://www.cityneighborhoods.nyc/cypress-hills
+- What happens after a tenant reports a dead buzzer to 311? — NYC311 — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- Why does an apartment in a building with a 24-7 staffed lobby still need an intercom station? — YIMBY 254 Euclid — https://newyorkyimby.com/2025/03/housing-lottery-launches-for-atlantic-chestnut-phase-2-in-cypress-hills-brooklyn.html
+- Can the monitor's menus be in Spanish for a grandmother who reads only Spanish? — cityneighborhoods (Dominican, Ecuadorian, Mexican, Puerto Rican residents); 311 translator note — https://www.cityneighborhoods.nyc/cypress-hills
+- Will a video door station record who came up the steps when packages vanish? — general resident concern — EMPTY (no Cypress Hills source; answered as product practice)
+- FAQ-style: $250 diagnostic visit; salt and slush on stoops; porch light on ring; hearing the door from the backyard; removing a moved-out tenant's app access; two phones for one apartment; station finish; vandalized station; shutting off power; call-back speed; cost of the quote; warranty — AESS practice / price list — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-ny
+
+
+## Dyker Heights, Brooklyn — /intercom-installation-dyker-heights-brooklyn-ny (factory research, 2026-11-01)
+
+- Boundaries 7th–14th Aves, 65th St to the Belt Pkwy; CB10; ZIP 11228; 68th Precinct; housing is mostly detached and semi-detached one- and two-family homes with driveways and yards, very few apartment buildings; Walter L. Johnson began the development in 1895; 1899 restrictions required large plots set back from the street; hilltop at 11th Ave & 82nd St (via local research pack, L2) — https://en.wikipedia.org/wiki/Dyker_Heights,_Brooklyn
+- Mostly detached and semi-detached houses "with yards and driveways instead of stoops"; styles Colonial Revival, Mediterranean villa, Tudor, midcentury brick; 13th Ave is the main commercial street; Dyker Heights Civic Association founded 1928 — https://www.cityneighborhoods.nyc/dyker-heights
+- Johnson installed gas, water, telephone and electric lines and planted sugar maples; first house was the De Russy homestead at 11th Ave & 82nd St (late 1820s); New Utrecht annexed to the City of Brooklyn July 1, 1894 — https://brooklyneagle.com/articles/2015/06/29/a-quick-history-of-dyker-heights/
+- Business streets: Fort Hamilton Pkwy, 13th Ave, parts of 11th Ave; churches St. Philip's Episcopal (11th Ave, 80th–81st Sts, 1900), Regina Pacis (12th Ave, 65th–66th Sts), St. Ephrem's (75th St & Fort Hamilton Pkwy), Bethany Lutheran (72nd St), Redeemer St. John's Lutheran (83rd St); IS 187 Christa McAuliffe (65th St & 12th Ave); McKinley Park (1903); Engine 284 built 1912; small attached 1920s homes at 10th Ave & 81st St; decorative gate posts at 11th Ave & 79th St; area underserved by subway — https://forgotten-ny.com/?p=8343
+- 13th Ave between 86th St and Bay Ridge Ave co-named Dyker Heights Boulevard; signed Aug 8, 2001; Giuliani: "13th Avenue is the commercial center and the heart of the Dyker Heights section of Brooklyn" — https://www.nyc.gov/html/om/html/2001b/pr282-01.html
+- 2007 rezoning: 159 blocks; R3A/R3X detached only, R4A/R4B/R4-1 detached and semi-detached, R5B rowhouses; commercial overlays on Fort Hamilton Pkwy, 11th Ave, 13th Ave reduced in depth (via local research pack, L19) — https://citylandnyc.org/rezoning-approved-for-dyker-heights-and-ft-hamilton
+- Aug 4, 2016: FDNY and DOB vacate order at 6705 Seventh Ave, a two-family subdivided into a five-family; 31 people displaced (18 adults, 13 children); hazards included lack of egress — https://brooklyneagle.com/articles/2016/08/08/more-than-30-dyker-heights-residents-displaced-after-illegal-conversion-raid/
+- June 4, 2014: Dyker Heights Civic Association meeting on illegal conversions; signs cited were bathrooms on every floor, several dryer vents, steel doors onto a shared common area, multiple meters, multiple air conditioners; 978 Bay Ridge Pkwy stop-work order May 2 — https://brooklyneagle.com/articles/2014/06/04/dyker-residents-sound-alarm-over-illegal-conversions/
+- Two-family houses on 75th St between 10th Ave and Fort Hamilton Pkwy; residents saw rooms cut up; 19 DOB complaints in three months (undated) — https://www.brooklynpaper.com/dyker-cram-crisis-residents-say-houses-chopped-up-into-mini-apartments
+- Package containing sneakers stolen outside a home near 12th Ave & 76th St, April 28 (published May 13, 2020) — https://brooklyneagle.com/articles/2020/05/13/cops-seek-suspect-for-stealing-package-outside-dyker-heights-home/
+- 68th St between 8th and 9th Aves: apartment burglary, ~$14,000 taken, windows left open (Feb 2017) — https://brooklyneagle.com/articles/2017/03/06/crook-makes-off-thousands-worth-goods-dyker-apartment/
+- Dyker Gardens, 1238 63rd St: 146-unit condo, 2019, "secure Aiphone HID entrance station video intercom system", elevator; listing places it in both Borough Park and Dyker Heights — https://www.hlres.com/buildings/nyc/dyker-gardens-1238-63rd-street/793001/condo
+- 8405 13th Ave: condo, 1987, 12 units, 3 floors — https://www.cityrealty.com/nyc/dyker-heights/8405-13th-avenue/74896
+- 1248 73rd St: condo, 2002, 9 units, 3 floors — https://www.cityrealty.com/nyc/dyker-heights/1248-73rd-street/96246
+- 1231 65th St: condo, 1992, 4 units, 3 floors — https://cityrealty.com/nyc/dyker-heights/1231-65th-street/96228
+- 6915 12th Ave: three-family brick house, 1925, community driveway with garage — https://www.brownstoner.com/listing/BKMLS-7146692/6915-12th-ave-dyker-heights-ny-11228
+- ZIP 11228: 9,880 buildings tracked, 14,271 HPD violations (~1.4/building), 53,652 complaints; 44% of residents renters (ACS); no intercom breakdown — https://www.lucidrents.com/nyc/neighborhood/dyker-heights-11228
+- HomeAdvisor cost guide: average $2,500; wireless $150–$1,500; hard-wired $1,000–$15,000; "Wireless systems are the best option if you want to DIY" — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Citywide rules reused from silo research: MDL §50-a (8+ apartments, intercom at self-locking entrance), 1 RCNY 42-01 mounting heights (push buttons ≤6 ft; speaker 4–5 ft), HPD ABCs of Housing — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf ; https://www.nyc.gov/assets/hpd/downloads/pdfs/services/abcs-of-housing.pdf
+- Reddit (Dyker Heights + intercom/buzzer/doorbell): EMPTY
+- Dyker Heights-specific HPD/311/DOB intercom counts: EMPTY
+- Google PAA, PASF, AI Overview, Answer the Public, Bing/DDG, Yelp intercom reviews for Dyker Heights: EMPTY (not accessible in build env)
+- Brownstoner forum thread on video doorbells for upper floors of a multi-family house: fetch failed, EMPTY
+
+### Questions people ask — Intercom Installation in Dyker Heights
+- Where should the call station go on a house set back behind a gate? — inferred from housing pattern (set-back lots, gate posts) — https://forgotten-ny.com/?p=8343
+- Can an intercom open a driveway gate as well as the door? — generic search results for gate intercoms — EMPTY (no Dyker-specific source)
+- How do I know how many buttons a two-family should have? — conversion coverage — https://brooklyneagle.com/articles/2014/06/04/dyker-residents-sound-alarm-over-illegal-conversions/
+- How much does intercom installation cost? — HomeAdvisor cost guide — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Can an old phone-dialing entry panel in a small condo move to cell phones? — inferred from 1980s–2000s condo stock — https://www.cityrealty.com/nyc/dyker-heights/8405-13th-avenue/74896
+- Can the door station record who came to the porch? — package theft report — https://brooklyneagle.com/articles/2020/05/13/cops-seek-suspect-for-stealing-package-outside-dyker-heights-home/
+- Can a home office or rectory have its own call? — business streets and churches — https://forgotten-ny.com/?p=8343
+
+
+## East Flatbush, Brooklyn — /intercom-installation-east-flatbush-brooklyn-ny (factory research, 2026-11-01)
+
+- Boundaries: Empire Blvd / E New York Ave (N), E 98th St (E), LIRR Bay Ridge Branch (S), New York / Brooklyn Aves (W); Community District 17; ZIP 11203; 67th Pct at 2820 Snyder Ave; sections Erasmus, Farragut, Rugby / Remsen Village — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- 2010 population 135,619; 51% foreign born; "single largest West Indian neighborhood" in NYC — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- Flatbush Gardens (former Vanderveer Estates): 59-building complex built 1949 on the old Flatbush Water Works site — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- Landmarks: East Flatbush Library 9612 Church Ave (1945, reopened June 2023); Rugby Library 1000 Utica Ave (1957, closed 2017, reopened 2021); Kings County, SUNY Downstate, Kingsbrook hospitals; Holy Cross Cemetery 3620 Tilden Ave; Shirley Chisholm Recreation Center (74,000 sq ft, opened 2026); Engine 310/Ladder 174 at 5105 Snyder Ave — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- Church Ave from Remsen Ave to E 98th St co-named Bob Marley Boulevard (2006); Little Caribbean (Nostrand & Church, 2017); Little Haiti at the south tip; 2/5 stations Church Ave, Beverly Rd, Newkirk Ave–Little Haiti — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- Housing: "solid brick rowhouses, freestanding two-family homes, and small apartment buildings," many built 1910–1940; E 51st St, Schenectady Ave, Remsen Ave rows of brick houses (Colonial Revival, Neo-Renaissance); developers subdivided Lefferts/Vanderveer/Remsen estates into narrow lots 1890s–1930s — https://www.cityneighborhoods.nyc/east-flatbush
+- Church Ave and Utica Ave are the main commercial centers (bakeries, barbershops, West Indian groceries, storefront churches); Holy Cross RC Church (1897) on Church Ave; Glenwood Houses (1950) and Rutland Towers (1954) listed as public housing (Glenwood not used on page — boundary doubtful) — https://www.cityneighborhoods.nyc/east-flatbush
+- East 25th Street Historic District: 56 Renaissance Revival row houses, 1909–1912, Henry Meyer Building Co., architects Glucroft & Glucroft, both sides of E 25th St between Clarendon Rd and Avenue D; LPC vote Nov 2020; first historic district in East Flatbush — https://patch.com/new-york/prospectheights/east-flatbush-gets-its-first-historic-district
+- Little Caribbean designated 2017; corridors Flatbush Ave, Church Ave (Bob Marley Blvd), Nostrand Ave, Utica Ave — https://en.wikipedia.org/wiki/Little_Caribbean,_Brooklyn
+- Utica Ave "Guyana Avenue" co-naming: revised to Eastern Parkway–Foster Ave after CB18 voted no; CB9 and CB17 approved; committee hopes for a future BID — https://www.brownstoner.com/brooklyn-life/guyana-avenue-co-naming-utica-avenue
+- Languages listed for East Flatbush: Haitian Creole, French, Jamaican Patwa, Guyanese Creole, Bajan, St. Lucian, Grenadian, Trinidadian, Vincentian creoles — https://languagemap.nyc/Explore/Neighborhood/East Flatbush
+- Flatbush Gardens: 59 buildings, ~2,500 largely rent-stabilized apartments; author who worked there in early 1980s recalls tenants complaining the lobby bell system was broken — https://brooklyneagle.com/articles/2023/08/15/when-flatbush-gardens-was-vanderveer-estates-and-today/
+- June 27, 2022: Council Member Farah Louis lists "broken doors" among Flatbush Gardens conditions; complex "of over 50 buildings" — https://council.nyc.gov/farah-louis/council-member-louis-community-leaders-protest-flatbush-gardens-managements-unfair-treatment-of-tenants-mismanagement-unacceptable-living-conditions
+- May 2026: moratorium on 300+ eviction cases at Flatbush Gardens (carried from local pack EF13) — https://www.legalservicesnyc.org/news/tenants-advocates-win-moratorium-on-300-open-eviction-cases-at-flatbush-gardens-demand-landlord-comply-with-terms-of-191m-city-tax-break/
+- April 17, 2026: four-story Linden Blvd walk-up, 900+ HPD violations, tenants unsure of landlord after owner died ~2 years earlier; new registered owner since Dec 2025 (no intercom/door issues mentioned) — https://hudsonvalley.news12.com/2026/04/17/tenants-raise-concerns-about-east-flatbush-apartment-buildings-new-landlord/6Hg0CpUe4kqRYgn23qdpwX
+- NYCHA Rutland Towers: 955 Rutland Road, PACT conversion date 11/28/2023 (stories/units not stated) — https://www.nyc.gov/assets/nycha/downloads/pdf/rutland_towers.pdf
+- NYCHA Nov 2023: $24.1M security upgrades at 23 developments, entrance upgrades include intercom systems (East Flatbush not named) — https://www.nyc.gov/site/nycha/about/press/pr-2023/pr-20231127.page
+- Brick Underground: 8+ apartment buildings need self-closing/self-locking door and intercom; pre-1968 only if a majority of tenants request; AG guide on landlord liability; 311 slow response anecdote — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Burglars damaged an electronic card lock at an E 19th St building (70th Pct, Flatbush — not East Flatbush; not used on final page) — https://www.brooklynpaper.com/cops-man-stole-cleaning-supplies-from-building
+- Data reused from the existing CD 17 research (door-buzzer-repair, 2026-10-22, NYC Open Data): ~16,998 residential lots / 62,077 homes, median year 1930; 1-unit 5,513, 2-unit 6,996, 5–19-unit 871 lots; C2 369 lots / 2,176 apts / 239 HPD intercom violations; D1 133 lots / 10,212 apts; 2,225 HPD intercom violations at 625 lots (top streets Linden Blvd, Rockaway Pkwy, New York Ave); 1,858 311 BELL/BUZZER/INTERCOM complaints 2020–Oct 2026, 149 → 369 per year, January the peak month; ~17,072 self-closing door violations — https://data.cityofnewyork.us/resource/wvxf-dwi5.json ; https://data.cityofnewyork.us/resource/erm2-nwe9.json ; https://data.cityofnewyork.us/resource/64uk-42ks.json
+- HMC § 27-2053: janitor / resident owner / approved 24-hour service required only at 9+ units — https://nycadmincode.readthedocs.io/t27/c02/sch02/art13/
+- Reddit (site:reddit.com East Flatbush buzzer/intercom/package): EMPTY — no East Flatbush thread found
+- Yelp 1–3★ for intercom installers in East Flatbush: EMPTY (not accessible in build env)
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DDG autocomplete: EMPTY (not accessible in build env)
+- DOB permit counts for intercom work in East Flatbush: EMPTY
+- Local news about intercoms specifically in East Flatbush: EMPTY (only general tenant-conditions stories)
+- Competitor search "intercom installation East Flatbush Brooklyn": only citywide vendor blogs (ButterflyMX, Swiftlane), no East Flatbush-specific installer page found — https://butterflymx.com/blog/intercom-installers-nyc/
+
+### Questions people ask — Intercom Installation in East Flatbush
+- Can a landlord switch the buzzer to a system that dials residents' phones when tenants only have cellphones? — Brownstoner forum (area not stated) — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- What happens if a virtual doorman / app entry system fails overnight? — ABC7 (Brooklyn/Queens tenants, 2019) — https://abc7ny.com/nyc-tenants-concerned-over-new-virtual-doorman-systems/5366569/
+- How do I get my landlord to fix a broken buzzer, and is a pre-1968 building required to have one? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Can tenants of a big complex hire someone to fix a broken lobby bell system? — implied by Flatbush Gardens coverage (Brooklyn Eagle 2023, Council 2022) — https://brooklyneagle.com/articles/2023/08/15/when-flatbush-gardens-was-vanderveer-estates-and-today/
+- What does intercom installation cost? — HomeAdvisor cost guide (generic) — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Which video/audio intercom for a renovated Brooklyn house? — Brownstoner forum — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- PAA / PASF / ATP question lists for "intercom installation East Flatbush": EMPTY (not accessible in build env) — remaining page questions written from the building types and records above and checked against the silo question register
+
+
+## East Williamsburg, Brooklyn — /intercom-installation-east-williamsburg-brooklyn-ny (factory research, 2026-11-01)
+
+**Boundaries, history, district**
+- East Williamsburg is bounded by Northside/Southside Williamsburg (west), Greenpoint (north), Bushwick (south and southeast) and Maspeth/Ridgewood in Queens (east); it is in Brooklyn Community Board 1 — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Williamsburgh was incorporated as a village in 1827 within the town of Bushwick; in 1835 the village extended east to Bushwick Avenue and Flushing Avenue; separated from Bushwick in 1844 and joined the City of Brooklyn in 1854 — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Nicknames "Dutchtown," "Irish Town" and "The Green"; Italian immigration from the late 19th century and again after WWII; Puerto Rican and Latin American residents since the 1950s; artists and young professionals since the 1990s — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- The eastern half is the East Williamsburg In-Place Industrial Park (EWIP), one of eight In-Place Industrial Parks in NYC, roughly bounded by Newtown Creek, I-278 and Flushing Avenue, managed by EWVIDCO (founded 1982) — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Factories and warehouses being decommissioned, e.g. the lofts at 255 and 248 McKibbin Street — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- 2010 population 34,158 (up 7.2% from 31,878 in 2000), 895.74 acres — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Transit: L at Grand Street, Montrose Avenue, Morgan Avenue; J/M/G at Flushing Avenue; buses B24, B57, B60, Q54, Q59; Kosciuszko Bridge and Grand Street Bridge to Maspeth — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Landmarks: Cooper Park; Moore Street Market (La Marqueta de Williamsburg), 110 Moore Street; Our Lady of the Snow Society, 410 Graham Ave (1888); St. Cecilia's Catholic Church, 84 Herbert St (1871); Bushwick branch of Brooklyn Public Library, 340 Bushwick Ave (building opened 1908) — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Zip codes 11211, 11206, 11222, 11237 — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- District described as bounded by Flushing Ave (south) and the BQE (north), east to the Queens line; low-rise brick manufacturing buildings, corrugated-steel warehouses, rail spurs; many 1920s heavy-timber or reinforced-concrete lofts; converted lofts on Morgan Avenue, Meadow Street and Ingraham Street; workers' housing near Graham and Bushwick Avenues; warehouses became illegal live-work lofts in the 1990s; IBZ designation limits residential development — https://cityneighborhoods.nyc/east-williamsburg
+- Morgantown: inside EWIP; in the 1990s factory owners converted empty buildings into loft housing; McKibbin Lofts (248 and 255 McKibbin St) "art dorms" housing approximately 400 residents; Bogart Street and the Morgan Avenue L station named — https://www.untappedcities.com/morgantown-in-the-shadow-of-industry/
+
+**Building stock and entry situations**
+- The Bogart Lofts, 59 Bogart St (11206): built 1931, 51 units, 3 stories, rental lofts, amenity listed "Voice Intercom," no video intercom listed — https://www.compass.com/building/18132589097343025/view
+- 315 Seigel Street (11206), labeled East Williamsburg: built 1931, 51 units, 3 stories, rental with bike room, laundry, gym, roof deck — https://streeteasy.com/building/315-seigel-street-brooklyn/301
+- 101 Morgan Ave (between Ingraham St and Johnson Ave): two-story commercial building, retail below and offices above; area "zoned solely for low-density industrial and commercial uses"; nearby structures mainly three-story walk-up tenements — https://newyorkyimby.com/2015/03/permits-filed-101-morgan-avenue-east-williamsburg.html
+- Openigloo lists roughly 398–430 East Williamsburg buildings, including 510 Morgan Ave, 40 Catherine St, 943 Metropolitan Ave, 1065/1077 Flushing Ave, 55 and 74 Maspeth Ave, 279A Bushwick Ave, 139 Thames St, 94 and 20 Harrison Place, 260/287/301 Devoe St, 297 Maujer St, 31 Kingsland Ave, 277 Seigel St (many rent-stabilized) — https://www.openigloo.com/buildings/brooklyn/east-williamsburg/historic-and-modern ; https://www.openigloo.com/buildings/brooklyn/east-williamsburg/low-evictions
+- Office conversions in Morgantown (Bisnow, Feb 10, 2016): 456 Johnson ("The Papermill") 55k SF office/retail; 215 Moore St 95k SF warehouse to creative office; 333 Johnson 160k SF warehouse; 199 Cook St three-story warehouse to retail/office; 13 Grattan St 40k SF office/retail planned — https://www.bisnow.com/news/new-york/office/a-neighborhood-youve-never-heard-of-is-quietly-becoming-an-office-destination-in-brooklyn-55771
+- 500 Stagg Street: 10,000 SF of affordable industrial space acquired and renovated by Evergreen (North Brooklyn business exchange founded 1982), $6.85M, at least 20 jobs expected — https://edc.nyc/node/4639
+- Brooklyn Steel, 319 Frost St: 1,800-capacity Bowery Presents venue in a former steel fabrication plant, opened April 2017 with LCD Soundsystem — https://www.amny.com/entertainment/brooklyn-steel-east-williamsburg-s-new-music-venue-opens-with-locals-lcd-soundsystem-1-13366355/
+
+**Public and affordable housing**
+- Public housing in the area: Williamsburg Houses, Borinquen Plaza Houses, Cooper Park Houses, Hylan Houses, Bushwick Houses — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+- Williamsburg Houses: Scholes, Maujer and Leonard Streets and Bushwick Ave; ~25 acres; 20 four-story buildings on twelve blocks; opened April 10, 1938; William Lescaze led the design team; NYC Landmark June 24, 2003; National Register April 22, 2021; $70M renovation completed 1999; entrances "marked by blue tiles and stainless steel canopies"; RAD/PACT conversion since Dec 28, 2021 — https://en.wikipedia.org/wiki/Williamsburg_Houses
+- Cooper Park Houses: between Kingsland and Morgan Avenues and Frost Street and Maspeth Avenue; completed June 1953; eleven seven-story buildings; 1,448 residents (2025) — https://en.wikipedia.org/wiki/Cooper_Park_Houses
+- Cooper Park Commons, 89 Maspeth Ave (former Greenpoint Hospital site), between Olive St and Bushwick Ave: 18-story, 311 residences, 100% affordable, Hudson Companies with St. Nicks Alliance; near the Graham Avenue L — https://newyorkyimby.com/2022/01/rendering-unveiled-for-cooper-park-commons-at-89-maspeth-avenue-in-east-williamsburg-brooklyn.html
+
+**Commercial corridors**
+- Graham Avenue BID and Grand Street BID partnership (announced Sept 4, 2025): Grand Street from Bushwick Ave to Union Ave and Graham Ave from Boerum St to Flushing Ave; $350K Avenue NYC grant over three years; Graham Avenue BID ED Alberto Valentin refers to "our East Williamsburg organizations" — https://northbrooklynnews.com/2025/10/01/graham-avenue-and-grand-street-bids-partner-for-revitalization/
+- Graham Avenue street signs carry the name "Avenue of Puerto Rico" in East Williamsburg — https://remezcla.com/culture/avenue-of-puerto-rico-east-williamsburg-name-change-nyc/
+- Major arteries Metropolitan Avenue, Grand Street, Johnson Avenue — https://cityneighborhoods.nyc/east-williamsburg
+
+**City rules (citywide, from silo research and fresh checks)**
+- 8+ apartment buildings: self-closing, self-locking door and intercom; pre-1968 buildings: required if a majority of tenants request it and tenants pay; a landlord "could be held liable" for crime through a door left unlocked by a broken buzzer; one renter waited three months for a 311 inspector — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- 1 RCNY 42-01: push button no more than six feet from floor; speaking/listening device between four and five feet — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Non-working intercom = Class B hazardous HMC violation (per Parker Custom Security summary) — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Loft Law = MDL Article 7-C (enacted June 21, 1982), creates interim multiple dwellings (IMDs) and requires owners to bring converted occupancies into code compliance; units must have an entrance not requiring passage through another unit — https://www.nyc.gov/assets/loftboard/downloads/pdf/fact-sheets/fact_sheet_no1.pdf
+- Virtual doorman concerns (ABC7, June 27, 2019): tenants asked what happens if the system breaks overnight; privacy of entry data — https://abc7ny.com/nyc-tenants-concerned-over-new-virtual-doorman-systems/5366569/
+
+**Cost guides (for AI Overview reality check)**
+- HomeAdvisor: average $2,500, $1,500 simple to $15,000+ advanced; wired master station $500–$2,500; "about one to two hours per intercom station" — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Brick Underground cites $2,000 to $50,000 for building systems — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+
+**EMPTY**
+- East Williamsburg-specific HPD intercom violation counts: EMPTY
+- East Williamsburg-specific 311 intercom/door complaint counts: EMPTY
+- DOB intercom permits in East Williamsburg: EMPTY
+- Reddit threads about intercoms in East Williamsburg: EMPTY (searches returned no East Williamsburg-specific threads)
+- Yelp reviews of intercom installers mentioning East Williamsburg: EMPTY
+- East Williamsburg-specific local news about buzzer entry or package theft: EMPTY (results were in Williamsburg proper/Greenpoint, e.g. Manhattan Ave & Meserole St — not used)
+- Google PAA / AI Overview capture: EMPTY (not accessible in build env); cost-guide and vendor-blog claims used instead
+
+### Questions people ask — Intercom Installation in East Williamsburg
+- How much does it cost to install an intercom system in an apartment building in NYC? — Bing/web results for the query (ButterflyMX, Swiftlane, HomeAdvisor guides) — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Do older buildings have to install an intercom if tenants ask? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- How long does a 311 complaint about a broken buzzer take? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- What happens if an app-based or virtual entry system breaks overnight? — ABC7 — https://abc7ny.com/nyc-tenants-concerned-over-new-virtual-doorman-systems/5366569/
+- Who sees the data from a smart entry system? — ABC7 — https://abc7ny.com/nyc-tenants-concerned-over-new-virtual-doorman-systems/5366569/
+- What intercom works for a converted loft or warehouse building? — web search results for loft-building intercom queries — https://www.compass.com/building/18132589097343025/view
+- What does a Loft Law (IMD) building have to fix to become legal? — Loft Board fact sheet — https://www.nyc.gov/assets/loftboard/downloads/pdf/fact-sheets/fact_sheet_no1.pdf
+- How high do intercom buttons have to be? — 1 RCNY 42-01 — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Is East Williamsburg part of Bushwick or Williamsburg? — web search (Wikipedia, Corcoran) — https://en.wikipedia.org/wiki/East_Williamsburg,_Brooklyn
+
+
+## Fairmount, Bronx — /intercom-installation-fairmount-bronx-ny (factory research, 2026-11-01)
+
+**Boundaries and name**
+- Fairmount is not an official city neighborhood. The name survives in Fairmount Place and Fairmount Playground; the playground and street are named for the 19th-century Fairmount estate owned in turn by Colonel Dunham, Robert Cochran and Thomas Minford — https://php1-84.nycgovparks.org/parks/X148H2/history
+- Fairmount was one of the three hills (with Mount Hope and Mount Eden) behind the name Tremont, proposed by postmaster Hiram Tarbox in the 1850s; the area was earlier called Upper Morrisania — https://php1-84.nycgovparks.org/parks/X148H2/history ; https://www.hmdb.org/m.asp?m=311640 ; https://theneighborhoods.substack.com/p/east-tremont-the-bronx
+- Fairmount Playground sits at Prospect Avenue between the northbound Cross Bronx Expressway and Fairmount Place; opened March 30, 1960; rededicated June 7, 1989 after a $100,000 renovation (A Great Big City lists a 1953 founding date for the site) — https://php1-84.nycgovparks.org/parks/X148H2/history ; https://agreatbigcity.com/parks/fairmount-playground
+- Prospect Avenue is named for its view ("prospect") of the East River — https://php1-84.nycgovparks.org/parks/X148H2/history
+- The Fairmount Place area lies inside East Tremont as Wikipedia bounds it (E 180th St, Southern Blvd, Cross Bronx Expwy, Third Ave), Bronx Community Board 6; ZIP 10457 west of Prospect Ave, 10460 east of it; 48th Precinct at 450 Cross Bronx Expressway — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Crotona Park East begins south of the Cross Bronx Expressway (west edge Crotona/Prospect Aves), CB3, 42nd Precinct — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+- Listings and press label the same Fairmount Place blocks as East Tremont, West Farms, Crotona or Tremont (YIMBY 2020 "East Tremont", 2023 "Crotona", 2026 "West Farms"; Compass "West Farms"/"Crotona Park East"; StreetEasy "East Tremont") — URLs below
+- There is a separate Fairmount Avenue in Throggs Neck (ZIP 10465), unrelated — https://royal.c21.com/property/3215-fairmount-avenue-bronx-ny-10465-REN032095325
+- Official Fairmount boundary from city planning: EMPTY
+
+**Building stock (verified addresses)**
+- 805 Fairmount Place: five-story walk-up, 35 apartments, built 1931, sold 2014 for $3.11M to a local investor — https://rebusinessonline.com/gfi-arranges-3-11m-multifamily-building-sale-in-the-bronx/
+- 1902 Marmion Avenue: built 1901, 3 stories, 3 units, class C0 three-family, listed as East Tremont — https://streeteasy.com/building/1902-marmion-avenue-bronx
+- 1780 Marmion Avenue: built 1901, 2 stories, 2 units, listed as Crotona Park East — https://compass.com/building/1780-marmion-ave-bronx-ny-10460/293532819269886229
+- 873 Fairmount Place: built 2001, 3 units, 3 stories, lowrise, listed as West Farms — https://compass.com/building/873-fairmount-pl-bronx-ny-10460/293418413613657989
+- 863 Fairmount Place: newly constructed affordable rentals in 2016 (two one-bedrooms at $938/month by lottery) — https://www.6sqft.com/property/863-fairmount-place/
+- 788 Fairmount Place: permits 2020, seven stories, 73 ft, 23 residences, 22,422 sq ft, vacant through lot between Prospect and Marmion Aves, H Holding Group, Gerald J. Caliendo Architect — https://newyorkyimby.com/2020/03/permits-filed-for-788-fairmount-place-in-east-tremont-the-bronx.html
+- 785 Fairmount Place: permits 2023, four stories plus penthouse, 52 ft, 25 residences averaging 449 sq ft, replacing a two-story building, Sander Williams Architect — https://newyorkyimby.com/2023/01/permits-filed-for-785-fairmount-place-in-crotona-the-bronx.html
+- 851 Fairmount Place (Marmion Ave & Fairmount Pl): permits Aug 2026, six stories, 10 residences averaging 1,208 sq ft, owner HPD, Jonathan Kirschenfeld Architect, masonry, rooftop terrace, empty lot — https://newyorkyimby.com/2026/08/permits-filed-for-851-fairmount-place-in-west-farms-bronx.html
+- East Tremont housing: five- and six-story tenements, older multi-unit homes, vacant lots and newer apartment buildings; much original stock damaged by arson and razed; most households rent — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Cross Bronx Expressway: 159 buildings taken Jan 1, 1954; about 5,000 residents displaced; route through East Tremont completed 1960 — https://theneighborhoods.substack.com/p/east-tremont-the-bronx ; https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- NYCHA near by: Twin Roads East (14 stories) and East 180th Street–Monterey Avenue (10 stories) in East Tremont; eight NYCHA properties in Crotona Park East incl. Murphy Houses — https://en.wikipedia.org/wiki/East_Tremont,_Bronx ; https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+
+**Commercial corridors**
+- East Tremont CDNA (NIDC + NYC SBS, 2024–2025): East Tremont Ave and E 180th St between Webster and Vyse Aves plus Webster Ave E 175th–180th; 529 storefronts, 67 vacant (12.7%); Tremont Ave mostly professional/medical offices, limited-service restaurants, beauty; 180th St delis/bodegas; mostly one- and two-story buildings, many pre-1950, mixed-use with homes above; safety cited by 82% of merchants — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-easttremont.pdf
+- Loew's Fairmount Theatre, 708 E Tremont Ave: opened Sept 12, 1928, architect Joseph Orlando, 2,559 seats, closed Feb 1991, now mostly a supermarket — https://www.cinematreasures.org/theaters/6634
+- West Farms Square–East Tremont Avenue station (E Tremont Ave & Boston Rd), opened Nov 26, 1904, 2 and 5 trains, not accessible; MTA proposed accessibility in 2025–2029 plan — https://en.wikipedia.org/wiki/West_Farms_Square%E2%80%93East_Tremont_Avenue_station
+- PS/MS 211 The Bilingual School at Fairmount Place and Prospect Ave — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Prospect Playground marker on E 176th St west of Prospect Ave (near 1919 Prospect Ave), 2021 Community Parks Initiative upgrade — https://www.hmdb.org/m.asp?m=311640
+
+**Intercom rules and local news**
+- MDL §50-a: post-1968 Class A multiple dwellings need self-closing, self-locking entrance doors, and an intercom (voice to each apartment, release from the apartment) when 8+ apartments; pre-1968 buildings on written request/consent of tenants of a majority of apartments, install within 90 days and finish within six months; failure is a misdemeanor — https://newyork.public.law/laws/n.y._multiple_dwelling_law_section_50-a
+- 1 RCNY 42-01: push buttons no higher than six feet; speaking device 4–5 ft from floor — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- 311/HPD lists "doorbells, buzzers, or intercoms that are broken or missing" and doors "not self-closing" and "door locks that require a key to exit" as maintenance complaints — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- Habitat (Feb 2024): courts have treated intercoms as an essential service; warranty of habitability; HP proceeding without a lawyer — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Brick Underground: landlord may be liable if a crime occurs through a door left unlocked by a broken buzzer (NY AG guide); usual failure points are lobby base connections, apartment station, strike or power supply rather than in-wall wire; five-apartment job about a day — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer ; https://www.brickunderground.com///node/47393
+- 2019 Council bill (Brad Lander) to require traditional metal keys alongside keyless entry — https://therealdeal.com/new-york/2019/10/07/nyc-seeks-to-rein-in-keyless-technology-in-apartment-buildings/
+- Feb 2026: tenants at 2051 Webster Ave cited a non-functioning intercom blocking emergency responders and home health aides; 501 open HPD violations — https://www.legalservicesnyc.org/news/residential-and-commercial-tenants-demand-immediate-repairs-and-responsible-ownership-after-months-with-no-gas-and-inconsistent-heat-at-2051-webster-ave/
+- Fairmount-specific HPD intercom violation counts: EMPTY
+- Fairmount-specific 311 intercom complaint counts: EMPTY
+- DOB intercom permits on Fairmount Place: EMPTY
+- Reddit threads about intercoms in Fairmount/East Tremont: EMPTY
+- Yelp reviews for intercom installers in Fairmount: EMPTY
+- Local news (Bronx Times, Patch, News 12) on intercoms in Fairmount: EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public: EMPTY (not accessible in build env; search result titles only)
+- Landmark designations on Fairmount Place: EMPTY
+
+### Questions people ask — Intercom Installation in Fairmount
+- Do new apartment buildings in NYC have to have an intercom? — web search (MDL 50-a results) — https://newyork.public.law/laws/n.y._multiple_dwelling_law_section_50-a
+- Is a working intercom required by law or just an amenity? — Habitat Magazine — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- How do I get my landlord to fix a broken buzzer? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- How do I report a broken intercom or a door that doesn't lock to 311? — NYC311 — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- How much does it cost to install an intercom in a small apartment building? — search results (Swiftlane, ButterflyMX, HomeAdvisor) — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Can a landlord replace the intercom with an app-only system / do tenants still get keys? — The Real Deal — https://therealdeal.com/new-york/2019/10/07/nyc-seeks-to-rein-in-keyless-technology-in-apartment-buildings/
+- Why does my intercom buzz but not open the door / where do intercoms usually fail? — Brick Underground — https://www.brickunderground.com///node/47393
+- How do I replace an outdated intercom in a small rental building? — ButterflyMX blog — https://butterflymx.com/blog/replace-outdated-intercom-system-for-small-rental-building/
