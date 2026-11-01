@@ -263,7 +263,11 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
 
 ### 12.5 Comparison pages (new page type)
 - "X vs Y" pages pull high-buying-intent traffic (example: one SaaS vs-page is worth ~9× its "what is X" guide). Build them as their own page type.
-- First batch: Lorex vs Reolink · UniFi Protect vs Hikvision · Ring vs Lorex · Uniview vs Dahua · 2GIG vs Qolsys · Akuvox vs ButterflyMX · DoorBird vs 2N · ADT vs local licensed alarm installer.
+- Only build pairs people actually search — never every brand against every brand (unsearched pairs end up "crawled – not indexed"). One page per pair; the reversed order ("Reolink vs Lorex") is mentioned on the same page, never a second page.
+- H1 is the exact search phrase plus the question: `Lorex vs Reolink: Which Security Camera System Is Better?` Title ≤60: `Lorex vs Reolink (2026): Which Camera System Wins?` URL `/lorex-vs-reolink`. First sentence opens with "Lorex vs Reolink" and gives the verdict.
+- One hub page, `/best-security-camera-brands`, covers every brand AESS carries and links down to every vs-page; every vs-page links back up to the hub (§12.4).
+- Installer angle every review site lacks: real AESS job photos, the honest call ("fine for DIY" vs "holds up better wired"), and "We install both — here's what we'd put on your property" with the area price.
+- First batch (Nov 1 2026): hub · Lorex vs Reolink · Lorex vs Swann · Ring vs Arlo · Ring vs Nest · Eufy vs Ring · Hikvision vs Dahua · UniFi Protect vs Hikvision · ADT vs SimpliSafe vs local licensed installer · 2GIG vs Qolsys · DoorBird vs 2N · Akuvox vs ButterflyMX. Before writing each one, confirm real search demand (Search Atlas/OTTO keyword data or a live SERP check); if a pair has none, skip it and note why in DAILY-LOG.md.
 - Structure: answer-first verdict (§12.1) → side-by-side table (resolution, storage/NVR, app, subscription fees, smart-home fit, best for) → who should pick which → "We install both — installed price in your area" → checkout/quote CTA → FAQ + FAQPage schema.
 - Rules: compare brands against each other — never put AESS prices next to a retail or manufacturer store price. Brands AESS carries/partners with get installed pricing per [[aess-pricing]]; quotes still default to the non-branded system. Real specs only (pull from manufacturer pages with Firecrawl), real product photos only. Link each comparison page to both brands' service pages and the matching hub (§12.4).
 - Add them to PAGE-QUEUE.md and build them in the normal 3-at-a-time page flow.
