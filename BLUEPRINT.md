@@ -250,8 +250,8 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
   - **25+ years in security**: Anwar has worked in the industry since 2000 and has owned the business since 2002. The corporation (Abstract Enterprises Security Systems, Inc.) was formed in 2018 — use 2002 for "in business since," never 2018. The existing hero stat "25+ Years Experience" is accurate; keep it.
   - **Thousands of jobs completed** — say "thousands"; do NOT print an exact count until Anwar gives one.
   - **Booked within 2 hours** of a request (booking/response time — never promise same-day installation).
-  - **Google reviews:** pull live counts at build time from Local Falcon `listAllLocalFalconLocations` and round DOWN to the nearest 10 with a "+". As of Nov 1 2026: Brooklyn GBP 212 reviews, 4.6★; Bronx GBP 181 reviews, 4.7★ → combined **390+ Google reviews, 4.6★+**. Use the review count of the GBP that page routes to (§8) or the combined figure.
-- Proof strip directly under the hero stats bar: `Owner-operated since 2002 · Thousands of jobs completed · 390+ Google reviews (4.6★) · Booked within 2 hours`.
+  - **Google reviews:** pages keep the rating/count that tools/check_page.py enforces (currently 4.7★ / 201 in the stats bar and AggregateRating schema). Live counts as of Nov 1 2026 are Brooklyn GBP 212 reviews 4.6★ and Bronx GBP 181 reviews 4.7★ (Local Falcon); switching pages to live per-GBP counts is pending Anwar's OK and must be done in check_page.py, page-runner/factory.py and the pages together, never on one page alone.
+- Proof strip directly under the hero stats bar: `Owner-operated since 2002 · Thousands of jobs completed · Booked within 2 hours` (the rating stays in the stats bar so the two never disagree).
 - Never invent numbers, percentages, guarantees, "24/7," or customer counts. If a number isn't on this list, ask Anwar.
 
 ### 12.4 Internal links to one target page per keyword
