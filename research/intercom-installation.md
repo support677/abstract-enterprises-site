@@ -854,3 +854,278 @@ REBUILD of a page Google refused to index as a near-duplicate template. Up-link 
 - Can a landlord replace the intercom with an app-only system / do tenants still get keys? — The Real Deal — https://therealdeal.com/new-york/2019/10/07/nyc-seeks-to-rein-in-keyless-technology-in-apartment-buildings/
 - Why does my intercom buzz but not open the door / where do intercoms usually fail? — Brick Underground — https://www.brickunderground.com///node/47393
 - How do I replace an outdated intercom in a small rental building? — ButterflyMX blog — https://butterflymx.com/blog/replace-outdated-intercom-system-for-small-rental-building/
+
+
+## Flatbush, Brooklyn — /intercom-installation-flatbush-brooklyn-ny (factory research, 2026-11-01)
+
+Rebuild. Thesis: Flatbush is a renter's district of six-story 1920s–1950s elevator apartment houses (Ocean Avenue and the side streets), prewar 16-unit walk-ups and stores-with-apartments on Flatbush, Church, Nostrand and Rogers, plus new large rentals at the old Sears site. The intercom angle is the lobby: a panel serving 50–100+ households, phone-entry panels on retiring copper lines, package thieves buzzed in, co-op boards and rent-stabilized owners deciding who pays, and tenant associations documenting a dead system. East Flatbush (two-families, Flatbush Gardens, six-families) and the Victorian sibling pages (Ditmas Park, Fiske Terrace, Beverley Square) are deliberately not the centerpiece.
+
+### Fresh searches this run (2026-11-01)
+- Ocean Avenue, 1155: built 1931, six stories, 59 units, co-op; listing names a video intercom and an elevator (listing also tags it "Post War", a conflict) — https://cityrealty.com/nyc/flatbush/1155-ocean-avenue-co-ops-1155-ocean-avenue/41299
+- Ocean Avenue, 1111: CityRealty lists it as built 1954, six floors, 103 apartments, elevator — https://www.cityrealty.com/nyc/flatbush/1111-ocean-avenue/96415
+- 1111 Ocean Ave tenants (Flatbush Tenant Association) on rent strike for almost four years as of June 13, 2024 over leaky pipes, broken elevators and a ceiling collapse; HPD told News 12 tenants should keep filing 311 complaints so it can inspect and issue violations. No intercom complaint in the article. — https://brooklyn.news12.com/flatbush-tenants-say-leaky-pipes-and-broken-elevators-plague-their-home
+- Nov 2025: a superintendent of an Ocean Avenue apartment building in Flatbush died after confronting a man he suspected of stealing packages from the lobby; PIX11 says package thefts at that building generally involved suspects buzzing units and getting in (how this suspect entered is not stated). No names used. — https://pix11.com/news/morning/brooklyn-building-super-dies-in-brawl-over-stolen-packages-sources/amp/
+- 592 and 596 East 22nd Street: two 16-unit prewar buildings; a tenant's apartment door stays open unless shut from inside; squatters entered the basement; 130 and 129 open HPD violations; Flatbush Development Corporation working with tenants. Article undated ("recently"). — https://www.brooklynpaper.com/unspeakable-conditions-prevail-at-two-flatbush-apartment-buildings
+- Former Sears site: Clipper Equity refinanced 2366 Bedford Avenue (354 apartments, part affordable, slated to debut in 2026) with a $170M MF1 loan, April 7, 2026; the site totals 877 rental units in four buildings: 2366 Bedford Ave, 2363 Bedford Ave, 2201 Beverley Road, 158 Lott Street. — https://commercialobserver.com/2026/04/mf1-flatbush-brooklyn-apartments-sears/
+- Openigloo lists 19 Flatbush buildings with doormen (incl. 2201 Beverley Road, 2360 and 2363 Bedford Avenue, 800 Flatbush Avenue, 647 East 28th Street, 1283 Rogers Avenue) and advises confirming doorman hours because some have limited coverage. — https://www.openigloo.com/buildings/brooklyn/flatbush/with-doorman
+- Little Haiti BK (announced May 2018): bounded by Avenue H, Brooklyn Avenue, Parkside Avenue and East 16th Street, plus Church Avenue between Brooklyn and Albany Avenues; Nostrand at Newkirk co-named Toussaint L'Ouverture Boulevard; parts of Rogers Avenue co-named for Jean-Jacques Dessalines; Brooklyn has 90,000+ residents of Haitian descent. — https://www.6sqft.com/little-haiti-district-will-come-to-brooklyns-flatbush-neighborhood/
+- Habitat (Feb 2024): post-1968 buildings with 8+ units need a two-way voice intercom from front door to each apartment under the MDL; the housing maintenance code also requires a functioning intercom; courts have treated it as an essential service (warranty of habitability); example 54-unit co-op whose intercom was out about five years; remedies: written demand to board, 311, HP proceeding (no lawyer required), proprietary lease terms. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Brick Underground: many "broken" intercoms are user error or stuck buttons (Q-tip and rubbing alcohol); faults usually at the lobby base, the apartment station, the strike or the power supply (basement or lobby ceiling); core wiring in walls is typically fine even in older Lee Dan systems; replacement about one day for a five-apartment building and about two days for a 100-unit building; brands named 2N, Comelit, Siedle, Aiphone, ABB; 2019 service-call quotes $195/hr and $250/hr plus parts (other companies' figures, not used as prices). — https://www.brickunderground.com///node/47393
+- ButterflyMX (vendor): telephone-entry panels on copper POTS lines are getting harder to support; options are cellular gateways, VoIP/analog adapters or replacing the panel; no single national shutdown date, check carrier notices; fire alarm communicators and elevator emergency phones are life-safety lines needing separate professional review. — https://butterflymx.com/blog/pots-line-replacement/
+- Brownstoner forum (2010): tenant whose landlord switched the buzzer to a system that dials a phone number; cell-only households; if the system calls the partner who is out, the one at home can't let anyone in; an installer said a directory can list more than one number if capacity allows. — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- DHCR Fact Sheet 26 (MCI): building-wide improvements can raise regulated rents if DHCR approves; capped at 2% a year; amortized over 12 years (≤35 units) or 12½ years (>35 units); removed after 30 years; no MCI where the building has outstanding hazardous or immediately hazardous violations, or where 35% or fewer apartments are regulated; intercoms are neither listed nor excluded on the sheet. — https://hcr.ny.gov/fact-sheet-26
+- Swiftlane (vendor) explains 2-wire video retrofits over existing pairs — https://swiftlane.com/blog/2-wire-video-intercom/
+- HomeAdvisor intercom cost guide exists (national ranges, not used) — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+
+### Carried from the local research pack (sources verified by earlier runs)
+- Post-WWI tax exemption to 1932 produced six-story Art Deco and Colonial Revival elevator apartment houses on Ocean Avenue and the periphery; CD14; ZIPs 11203/11210/11225/11226; Kings Theatre 1027 Flatbush Ave (1929, reopened 2015); Erasmus Hall 899–925 Flatbush Ave (founded 1786); Flatbush Reformed Dutch Church 890 Flatbush Ave (1793–98); Flatbush Town Hall 35 Snyder Ave (1874–75); BPL Flatbush branch 22 Linden Blvd (1905 Carnegie); FDNY Engine 281/Ladder 147 at 1210 Cortelyou Rd; 70th Precinct 154 Lawrence Ave — https://en.wikipedia.org/wiki/Flatbush,_Brooklyn (and linked articles)
+- Furman Center CD14 (Flatbush/Midwood): homeownership 24.4% (2024), rental vacancy 3.1% (2024), population 147,911 (2024), foreign-born 43.4% (2024); rent-regulated 82.5% of rentals in the 2010 profile — https://www.furmancenter.org/neighborhoods/flatbush-midwood/ ; https://www.furmancenter.org/wp-content/uploads/ee-legacy/BK_14_2010.pdf
+- Avenue NYC CDNA: 1,662 storefronts on Church (Coney Island Ave–E 56th St), Flatbush (Parkside–Ave H), Nostrand (Parkside–Ave J) and Rogers (Clarkson–Church); 10.6% vacancy; 53% of merchants want safety changes — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush.pdf
+- Flatbush Nostrand Junction: two subway lines and seven bus lines; BID includes Brooklyn College — https://www.exploreflatbush.com/about-flatbush/
+- Little Caribbean designated Sept 28, 2017; Church Ave co-named Bob Marley Boulevard — https://en.wikipedia.org/wiki/Little_Caribbean,_Brooklyn
+- Sears building, Beverley Rd & Bedford Ave, 1932, landmark 2012, closed Nov 2021 — https://en.wikipedia.org/wiki/Sears_Roebuck_%26_Company_Department_Store_(Brooklyn)
+- Jan 28, 2026: intruder in a Flatbush tenant's kitchen; front door flimsy about eight years — https://www.bkreader.com/in-other-brooklyn-news/flatbush-woman-warning-neighbors-about-recent-break-in-11800088
+- MDL §50-a (post-1968 8+ apartments intercom; pre-1968 on majority written tenant request) — https://www.nysenate.gov/legislation/laws/MDW/50-A ; 1 RCNY 42-01 button ≤6 ft, speaker 4–5 ft — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf ; non-working intercom = Class B — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Prospect Park South historic district (LPC, Feb 1979) — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/
+
+### EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public live capture: EMPTY (not accessible in build env); questions below come from forum, magazine and news sources that surfaced in WebSearch.
+- Reddit threads about intercoms in Flatbush: EMPTY (site:reddit.com search returned only listings).
+- Yelp 1–3★ intercom reviews for Flatbush: EMPTY (search returned only directories/vendor blogs).
+- Flatbush-specific HPD intercom violation counts, 311 buzzer complaint counts, DOB permits: EMPTY.
+- Brownstoner article on the 80 Clarkson Ave fire rally: EMPTY (fetch failed).
+- Bing/DuckDuckGo separate capture: EMPTY (only the built-in search was available).
+
+### Questions people ask — Intercom Installation in Flatbush
+- Is a working intercom legally required, or is it an amenity the building can drop? — Habitat magazine Q&A — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- My co-op's intercom has been out for years; what can a shareholder do? — Habitat — same URL
+- Can tenants use 311 or housing court to get a broken intercom fixed? — Habitat; News 12 (HPD comment) — same URL ; https://brooklyn.news12.com/flatbush-tenants-say-leaky-pipes-and-broken-elevators-plague-their-home
+- Is my intercom really broken or is it user error / a stuck button? — Brick Underground — https://www.brickunderground.com///node/47393
+- Is the old wiring in the walls (e.g. Lee Dan) still usable? — Brick Underground — same URL
+- How long does it take to replace a building intercom (5 units vs 100 units)? — Brick Underground — same URL
+- What does a service call / replacement cost? — Brick Underground; HomeAdvisor — same URL ; https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- What happens to a phone-line intercom when copper landlines are retired? — ButterflyMX — https://butterflymx.com/blog/pots-line-replacement/
+- My landlord's new buzzer dials a phone number and I only have a cell; do I need a landline? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- If the panel calls one roommate's/partner's phone, how does the other let a guest in? — Brownstoner forum — same URL
+- Can existing two wires carry video? — Swiftlane — https://swiftlane.com/blog/2-wire-video-intercom/
+- How do I stop package thieves who get buzzed into the lobby? — PIX11 report — https://pix11.com/news/morning/brooklyn-building-super-dies-in-brawl-over-stolen-packages-sources/amp/
+- Our doorman is only on duty part of the day; how should entry work when the desk is empty? — Openigloo note on doorman hours — https://www.openigloo.com/buildings/brooklyn/flatbush/with-doorman
+- Can a new intercom raise my rent in a rent-stabilized building (MCI)? — DHCR Fact Sheet 26 — https://hcr.ny.gov/fact-sheet-26
+- Squatters/strangers get into the basement; can the cellar door be controlled? — Brooklyn Paper — https://www.brooklynpaper.com/unspeakable-conditions-prevail-at-two-flatbush-apartment-buildings
+- Video doorbell for upper floors of a multi-family brownstone / intercom for a three-family / kill switch on building buzzer / electric door strike — Brownstoner forum titles surfaced in search — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone/?sort_replies=asc ; https://www.brownstoner.com/forum/electricians/kill-switch-on-building-buzzer ; https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Note: the list ran short of distinct, unregistered intents, so a few FAQ items are our own questions on Flatbush building situations (marked as own in the page plan: Kings Theatre-area quiet hours were NOT used; own questions are about Flatbush Avenue traffic noise at the panel, the B/Q-side storefront hours, and Sears-site move-ins).
+
+
+## Fort Hamilton, Brooklyn — /intercom-installation-fort-hamilton-brooklyn-ny (factory research, 2026-11-01)
+
+REBUILD (old page refused by Google as a near-duplicate template). Fresh searches run 2026-11-01 with WebSearch/WebFetch; earlier Fort Hamilton research from the alarm-installation rebuild (2026-10-21) reused where noted. Angle chosen for this page: the lobby door of the large Shore Road apartment houses (1930s–1960s co-ops of 52 to 235 apartments) and how their entry panels, phone lines, package rooms and supers work; plus the six-to-twelve-unit condo buildings that replaced two-families, Fourth/Fifth Avenue and Fort Hamilton Parkway mixed-use doors, and off-post renters. Kept clear of Dyker Heights (gates, front yards, December lights, conversion fight, 13th Avenue) and of the Bay Ridge page (generic 86th Street walk-ups, ButterflyMX/fob cards).
+
+### Neighborhood and building findings
+- Boundaries given as 86th Street (north), Dyker Beach Park (east) and the Narrows (south and west); local streets include 92nd–101st Streets, Narrows Avenue and Marine Avenue; "prewar apartment buildings and single-family homes"; Shore Road Park completed in the 1930s; Harbor Defense Museum opened 1980 in the caponier; Post Chapel 1870; residents include Irish, Italian, Greek and Arab-American families plus newer arrivals from China, Russia and the Caribbean; Fourth Avenue and Fort Hamilton Parkway historically lined with shops — https://cityneighborhoods.nyc/fort-hamilton
+- Area south of 86th Street "sometimes considered" the sub-neighborhood Fort Hamilton; six-story Shore Road complexes; "Fedder Homes" replacing two-families; Engine 242 at 9219 Fifth Avenue; Fort Hamilton Station post office 8801 Fifth Avenue; Fort Hamilton Library 9424 Fourth Avenue; Bay Ridge–95th Street terminal opened 1925; ZIP 11209; Community Board 10 — https://en.wikipedia.org/wiki/Bay_Ridge,_Brooklyn (via alarm research L5)
+- Name disputed: BKMAG (Jan 17, 2014) says it is mainly a postal designation — https://www.bkmag.com/2014/01/17/theres-no-neighborhood-in-brooklyn-called-fort-hamilton/
+- 8701 Shore Road: built 1932, 6 stories, 174 units, 4 elevators, live-in super and two daily porters, "virtual intercom system", "keyless fob entry system", designated package room, courtyard — https://www.bhsusa.com/for-sale/brooklyn/new-york-city/fort-hamilton/8701-shore-road-324-new-york-city-ny-11209/RLS20109458-6228925
+- 9255 Shore Road: co-op built 1951, 6 floors, 235 apartments — https://cityrealty.com/nyc/fort-hamilton/9255-shore-road/40723
+- 9201 Shore Road: co-op built 1960, 7 floors, listed with a full-time doorman, live-in super and porters, garage on a waitlist (broker page; unit count not stated) — https://hlres.com/buildings/nyc/9201-shore-road-9201-shore-road/551982/cooperative
+- 9801 Shore Road "Shore Lane Arms": built 1957, doorman "most hours of the day", video cameras at several locations, parking garage with wait list — https://www.brownstoner.com/listing/BKMLS-6022344/9801-shore-rd-apt-2f-fort-hamilton-brooklyn-ny-11209
+- 8901 Shore Road: co-op finished 1962, 10 stories, 52 units, full-time doorman (listing also contradictorily calls it "pre-war" and "walk-up"; only year/stories/units/doorman used) — https://www.cityrealty.com/nyc/fort-hamilton/8901-shore-road/43452
+- 9437 Shore Road: six-story, 55-unit Art Moderne co-op facing Shore Road Park and the harbor, opened as a rental in 1940 (Brownstoner, Aug 26, 2026) — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/bay-ridge-one-bedroom-9437-shore-road-normandy/ (via alarm research L10)
+- 9701 Shore Road ("Lebern Towers"): built 1935, six stories, Art Deco facade, curved corners (broker page) — https://www.hlres.com/buildings/nyc/9701-shore-road-9701-shore-road/552876/cooperative (via alarm research L11)
+- Fort Hamilton section described as a "naturally occurring retirement community"; low-slung character protected since a 2005 rezoning — https://www.brownstoner.com/brooklyn-life/focus-on-bay-ridges-fort-hamilton/ (via alarm research L7)
+- City Planning's 2007 Dyker Heights/Fort Hamilton rezoning: one- and two-family homes torn down for attached buildings of six to twelve units; mixed-use medical office and residence buildings — https://www.nyc.gov/assets/planning/download/pdf/plans/dyker-heights-fort-hamilton/dyker_heights_ft_hamilton.pdf (via alarm research L9)
+- Permit filed Aug 19, 2026 for 9055 Fort Hamilton Parkway: three-story, three-unit mixed-use building (2,521 sq ft residential, 602 sq ft commercial) — https://blog.marketproof.com/new-building-permit-filed-for-9055-fort-hamilton-pkwy-in-fort-hamilton-brooklyn/
+- Permit filed Apr 7, 2026 for 432 97th Street, described as "a three-story 18-unit building" — https://blog.marketproof.com/new-building-permit-filed-for-432-97th-st-in-fort-hamilton-brooklyn/
+- Proposed 11-story, 292-unit building at 9305 Fifth Avenue near the Fort Hamilton Triangle, next to Engine 242 (BKReader, Apr 17, 2026) — https://www.bkreader.com/non-profit-community/a-proposed-11-story-apartment-building-elicits-lukewarm-response-in-bay-ridge-12155240 (via alarm research L13)
+- Garrison: 573 active duty, 942 family members, 700 civilians, 880 Guard/Reserve; on-post housing privatized under Balfour Beatty Communities — https://installations.militaryonesource.mil/in-depth-overview/fort-hamilton (via alarm research L2)
+- Feb 12, 2024: Army completed $7.5 million of leak repairs at the Doubleday Village garden apartments on post, by Balfour Beatty Renovations, part of a $15 million program — https://www.army.mil/article/273656
+- John Paul Jones Park: 101st Street at Shore Parkway, 5.32 acres — https://www.nycgovparks.org/parks/john-paul-jones-park (via alarm research L12)
+
+### Intercom-specific findings (citywide, applied to Fort Hamilton)
+- NYC intercom article (Nov 7, 2019): many failures are user error or wire connections; a five-apartment building replacement can be done in a day, a 100-unit building takes about two days; building must authorize repairs, tenant can handle communication — https://www.brickunderground.com///node/47393
+- Washington Heights co-op replaced only its front panel and monitors without rewiring; calls were misrouted and it later rewired at a much higher cost; mixed-age residents wanted both app and video boxes — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- The Sands co-op (Turtle Bay) replaced a 56-year-old intercom; reused existing copper cable; rewiring would have added about 25% to the price and doubled install time; adjustable door-release timer; second lobby unit to check nobody unapproved enters with a visitor — https://habitatmag.com/Publication-Content/Bricks-Bucks/The-Sands-Gets-New-Intercom
+- Telephone-entry panels depend on a phone line; no single copper shutoff date; cellular gateways can keep analog equipment calling but often audio-only; analog lines may also serve fire alarm communicators or elevator phones, reviewed separately — https://butterflymx.com/blog/replacing-pots-line-intercom/
+- Tenant Data Privacy Law: multiple dwellings with smart access must give a privacy policy, get express consent, limit data, destroy authentication data within 90 days unless anonymized, may not require smart access to enter a dwelling unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- MDL §50-a, 1 RCNY 42-01 (button max 6 ft; speaker 4–5 ft; pre-1968 buildings with 8+ apartments to have intercom), HPD ABCs of Housing (repair broken locks/intercoms; self-closing entrance doors) — silo research (3-silo-research.md, Boerum Hill and Bath Beach rows)
+- Fort Hamilton–specific HPD/311/DOB intercom counts — EMPTY
+- Reddit threads about intercoms in Fort Hamilton or r/bayridge — EMPTY (searched; only generic forum results)
+- Yelp complaints/praise for intercom installers in Fort Hamilton/Bay Ridge — EMPTY (searched; results were vendor blog pages)
+- Local news about lobby intercoms or buzzer entry south of 86th Street — EMPTY (68th Precinct searches returned only older burglary items north of 86th Street)
+- Google AI Overview, PAA, PASF, Answer the Public, Bing/DDG panels — EMPTY (not accessible in build env); questions below come from the real question lists found in the sources above
+
+### Questions people ask — Intercom Installation in Fort Hamilton
+- Can I use a cellular gateway with my existing telephone entry system? — ButterflyMX POTS article FAQ — https://butterflymx.com/blog/replacing-pots-line-intercom/
+- Can I disconnect the old POTS line after installing a new intercom? — same — https://butterflymx.com/blog/replacing-pots-line-intercom/
+- Can a video intercom work without a phone line? — same — https://butterflymx.com/blog/replacing-pots-line-intercom/
+- Will replacing only the front panel and monitors work without rewiring? — Cooperator co-op case — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- Do residents of different ages need different options (app vs video box)? — Cooperator — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- Can a second lobby unit confirm nobody unapproved enters with a visitor? — Habitat (The Sands) — https://habitatmag.com/Publication-Content/Bricks-Bucks/The-Sands-Gets-New-Intercom
+- Can we keep using our existing copper cable to save money? — Habitat — https://habitatmag.com/Publication-Content/Bricks-Bucks/The-Sands-Gets-New-Intercom
+- Can the super handle repairs? — Brick Underground — https://www.brickunderground.com///node/47393
+- Who must approve repairs, and can a tenant arrange them? — Brick Underground — https://www.brickunderground.com///node/47393
+- Is a full system replacement usually necessary? — Brick Underground — https://www.brickunderground.com///node/47393
+- What does a building with smart access owe tenants on privacy, and can it require an app to enter the apartment? — HPD Tenant Data Privacy Law page — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- How much does an apartment intercom system cost / with door release? — Swiftlane and HomeAdvisor titles in search results — https://swiftlane.com/blog/apartment-intercom-system-with-door-release-cost-what-impacts-pricing/ ; https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- How do I review and compare apartment intercom quotes? — Swiftlane title — https://swiftlane.com/blog/apartment-intercom-system-quotes-how-to-review-and-request-one/
+- How do I replace a phone-only apartment intercom? — ButterflyMX title — https://butterflymx.com/blog/replace-phone-only-apartment-intercom-system/
+- Do intercoms need Wi-Fi / can I install video on existing wires / how long does installation take? — search-query fan-out (results generic) — EMPTY as a sourced list
+- Note: several of these were already in the silo question register in some form (Wi-Fi, how long, privacy duties, hearing, handsets mix, tenant move-out). The page reworded the remaining ones around Fort Hamilton buildings and added own questions (package room, roll-over to super, courtyard entries, corner store door, condo upkeep, panel on a glass door, menu language, certificate of insurance, existing fobs, post housing, Fort Hamilton Parkway confusion) because the sourced list ran out.
+
+
+## Fulton Ferry, Brooklyn — /intercom-installation-fulton-ferry-brooklyn-ny (factory research, 2026-11-01)
+
+REBUILD of a page Google refused to index as a near-duplicate template. Thesis (kept apart from the access-control, alarm and fire-alarm Fulton Ferry pages): Fulton Ferry's homes are a handful of small, mostly self-run co-ops made out of 1830s–1890s commercial buildings (a former stable of 7 apartments, a railroad office of 11, a warehouse of 85) plus one newer condo at Pier 1, so intercom work here is about (1) where the 8-apartment legal line falls, (2) intercom wire that dates from 1970s–80s conversions, (3) lofts with mezzanines and lower levels where one handset is not heard, (4) a staffed lobby that goes unstaffed at midnight, (5) LPC's one-panel-per-door rule and its cut-sheet/in-kind rules, (6) apartments over restaurant space, and (7) power supplies kept out of cellars on a landing that flooded in 2012. Visitor crowds, July 4 checkpoints, hotel-shared fobs and short-term rentals are left to the access-control page.
+
+Searches run this session: 15 WebSearch queries + 13 WebFetch reads. Lines marked (inference) are reasoning, not a source statement.
+
+- Eagle Warehouse, 28 Old Fulton St: 85-unit landmarked pre-war co-op, elevator, doorman staffed 8am to midnight, live-in super and on-site management, gym, laundry, bike storage, storage lockers; listing says converted 1983 (Wikipedia says 1980 conversion) — https://corcoran.com/building/brooklyn-heights/22174
+- Eagle Warehouse: 1893–94 by Frank Freeman, 8 stories, 1980 condo/co-op conversion, clock-face penthouse window (via local pack) — https://en.wikipedia.org/wiki/Eagle_Warehouse
+- 8 Old Fulton St (Brooklyn City Railroad Co. building): built 1860–61; cast-iron ground floor, brick upper floors with granite quoins; later light manufacturing (a toilet-seat company); converted to apartments by architect David Morton in the 1970s; now an 11-apartment co-op — https://www.brownstoner.com/architecture/building-of-the-202
+- 8 Old Fulton St #1N: ground-level unit a couple of feet above the sidewalk, high ceilings, exposed joists, a mezzanine and a lower-level rec room; commenters' flood-zone and no-dogs remarks not used — https://www.brownstoner.com/real-estate-market/co-op-of-the-day-8-old-fulton-street-1n/
+- 7 Everit St: former stable (on the 1850 map), garage/warehouse until early 1980s, co-op since the early 1980s, seven apartments, exterior hoist at third-floor doorway — https://www.brownstoner.com/architecture/building-of-the-day-7-everit-street/
+- 9 Old Fulton St: four-story building with three apartments and 1,224 sq ft of commercial space planned for a restaurant; LPC approved the design in 2010; article undated — https://www.brownstoner.com/brooklyn-life/new-building-rises-on-old-fulton-street-in-dumbo ; https://www.brownstoner.com/development/9-old-fulton-st/
+- Pierhouse, 90 Furman St: condo, 10 floors, built 2015 (description says 2016), 106 vs 122 residences (page inconsistent — not used as a number), full-time doorman / 24-hour attended lobby, 300-spot garage, amenities shared with 1 Hotel Brooklyn Bridge — https://www.hlres.com/buildings/nyc/pierhouse-at-brooklyn-bridge-park-90-furman-street/761816/condo
+- LPC Permit Guidebook ch. 11: intercom panels, doorbells and lights must be within or adjacent to a door opening (or on a fence/wall in front of the entrance); max two light fixtures and one intercom panel per door opening; design/size/finish compatible; staff-level permits when criteria met, otherwise possible public hearing; conduit concealed, max ~10 in visible and painted; equipment not attached through cast iron or decorative surfaces; attach at mortar joints/plain masonry; not on primary facade unless no alternative; cut sheets required for intercoms; no elevation drawings for in-kind replacement of intercoms; ordinary maintenance/repair exemption; LPC 212-669-7817 — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Brick Underground (Nov 7, 2019): typical intercom faults at lobby base connections, the apartment station, the door strike and the power supply (basement or lobby ceiling), "typically not the wiring inside the walls"; older Lee Dan core wiring typically fine; many problems are user error (press firmly, hold long enough); stuck buttons can be freed with a swab and rubbing alcohol; building must authorize repairs, super sometimes permitted; five-apartment replacement about a day, 100-unit about two days; brands 2N, Comelit, Siedle, Aiphone, ABB — https://www.brickunderground.com///node/47393
+- CooperatorNews (Oct 28, 2021): in very old buildings intercom wires are entrenched; a 56-unit Washington Heights co-op's rewiring cost far exceeded projections; replacing only the front-door panel led to misrouted calls there; options: front-door-only with app, monitors only, or app added; Buzr Labs CEO claim that 30% of packages are undelivered on first attempt (vendor claim) — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- Habitat Magazine (Feb 26, 2024): MDL requires buildings built or converted after 1968 with eight or more units to have a two-way voice intercom; housing code also requires a working one; courts treat intercoms as an essential service (warranty of habitability); shareholder remedies: written notice, 311, HP proceeding, maintenance-withholding defense; a neighbor whose renovation broke it may be responsible under the alteration agreement — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- 1 RCNY 42-01: pre-1968 buildings with eight or more apartments need self-closing/self-locking doors and an intercommunication system; push buttons max 6 ft; speaking/listening device 4–5 ft from floor; minimum acceptable system a bell/buzzer or speaking device (via silo research) — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Buildings under eight apartments not covered by the intercom requirement; self-closing/self-locking doors still apply; non-working intercom treated as Class B (secondary source) — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- HPD: self-closing building entrance doors required; owners should immediately repair broken locks or intercoms — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/abcs-of-housing.pdf
+- Brownstoner forum: a six-apartment Brooklyn co-op replaced an "old buggy analog system" with six indoor video stations, one outdoor station with camera and two new door strikes; crew used a mini vacuum while drilling (installer not named on page) — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- Package concierge / video call-center intercom options and 2018 prices (not used: other vendors' prices) — https://www.brickunderground.com/live/nyc-buildings-how-to-cope-with-package-delivery
+- Reused from local pack (other silos' research, not re-fetched): LPC district designated June 28 1977 (lp/0956), NR district 1974, 15 contributing buildings 1830–1895 2–4 stories (Wikipedia Fulton Ferry); Long Island Insurance Co. 1834 at 5–7 Front St (HDC); Long Island Safe Deposit Co. 1868–69 cast iron (LPC); Empire Stores 53–83 Water St offices/retail, West Elm, Time Out Market (Wikipedia); St. Ann's Warehouse opened 2015 in the Tobacco Warehouse; River Café 3–4 ft of water in Sandy (brooklynheightsblog 50798, HuffPost) and reopened Feb 2014 (Eater); Bargemusic barge removed Jan 2025; Brooklyn Ice Cream Factory reopened 2021 at 14 Old Fulton St; Grimaldi's at 1 Front St, Juliana's at 19 Old Fulton; Old Fulton & Front co-naming Int 0956-2026; nearly 5 million BBP visitors 2023; Old Fulton St one of four park entrances (Brooklyn Eagle 2018); DOT overnight lane closures on Old Fulton under the BQE through Feb 28 2026 (Brooklyn Eagle); BBP marine maintenance at the landing Aug–Dec 2026 and Empire Fulton Ferry Lawn closed Oct 12 2026–Spring 2027 (BBP alerts); NYC Ferry DUMBO/Fulton Ferry stop; CB2, 84th Precinct, ZIP 11201.
+- Fulton Ferry HPD intercom violation counts — EMPTY
+- Fulton Ferry 311 intercom/door complaints — EMPTY
+- DOB/LPC permits for intercom work at Fulton Ferry addresses — EMPTY
+- Local news about intercom or buzzer problems in Fulton Ferry — EMPTY (searches returned only citywide or vendor items)
+- Whether Eagle Warehouse, 8 Old Fulton or 7 Everit have audio or video intercoms today — EMPTY (listings do not say)
+- Reddit threads on Fulton Ferry intercoms — EMPTY (no matching threads in results)
+- Google PAA / PASF / AI Overview / Answer the Public / Bing & DuckDuckGo panels — EMPTY (not accessible in build env; general web search used instead)
+- Yelp 1–3★ for intercom installers near Fulton Ferry — EMPTY (search returned vendor directories, no review text)
+
+### Questions people ask — Intercom Installation in Fulton Ferry
+- Do I need video or is audio enough? — property-owner FAQ — https://collectednotes.com/flora-carer/five-questions-property-owners-keep-asking-about-building-intercoms
+- Can it connect to my phone? — same — same URL
+- How does it work with access control? — same — same URL
+- What if the system already exists but feels outdated? — same — same URL
+- Who should I call for installation or repair? — same — same URL
+- Can existing wiring be reused, or will it need replacing? — co-op boards — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- Should we replace only the front-door equipment, only the apartment monitors, or move to an app? — co-op boards — same URL
+- Why did calls start going to the wrong apartments after the panel was replaced? — co-op case — same URL
+- Will the system work for residents with different levels of tech comfort? — co-op boards — same URL
+- What can a shareholder do when the board ignores a broken intercom? Is the co-op obliged to fix it? — Habitat/NYT Ask Real Estate — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Who pays when a neighbor's renovation breaks the intercom? — same — same URL
+- Why can't callers be heard / why won't the lobby door unlock? Is it the wiring? — Brick Underground — https://www.brickunderground.com///node/47393
+- Can the super do the repair? Does the building have to authorize it? — same — same URL
+- How do I fix a stuck button? — same — same URL
+- How long does replacing a building's system take? — same — same URL (not used: register already has it)
+- Does an intercom need Wi-Fi / will an app intercom reach my phone? — related searches — https://butterflymx.com/blog/intercom-system-installation/
+- What does a landmark district allow on the front of the building, and is a permit or drawing needed for a replacement panel? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Does a building with fewer than eight apartments have to have an intercom? — rules explainer — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- How do packages get delivered when nobody is home? — co-op boards / Brick Underground — https://cooperatornews.com/article/updating-buzzer-intercom-systems (not used as a heading: register has delivery questions)
+- Own questions added because the researched list ran out after register de-dup (stated here): loft mezzanine/lower-level station placement; staffed lobby until midnight then unstaffed; weak indoor cell signal and app answering; power supply placement on a landing that flooded; one LPC panel holding camera, buttons and reader; which price line fits a 7–11 apartment co-op.
+
+
+## Greenwood Heights, Brooklyn — /intercom-installation-greenwood-heights-brooklyn-ny (factory research, 2026-11-01)
+
+Rebuild of a page Google refused to index as a near-duplicate template. Thesis: **two front doors a century apart** — frame two-families from about 1899–1910 on the numbered side streets (old bell wire, two households on one door, siding over wood), and small post-2005-rezoning buildings of 10–17 units on and near Fifth Avenue that cross the eight-apartment intercom line, often with a ground-floor parking entry; plus Fifth Avenue store-and-apartment buildings and the manufacturing blocks between Third and Fourth Avenues. Angles used by our alarm, camera, cabling and fire-alarm Greenwood Heights pages (back fence / cemetery edge, pocket parks, stoop-railing theft, plenum cable, PoE density) are not the centerpiece here.
+
+### Searches run (WebSearch, standard mode)
+1. Greenwood Heights Brooklyn history housing wood frame row houses
+2. intercom installation Brooklyn questions cost how much does an intercom system cost apartment building
+3. "Greenwood Heights" Brooklyn new building rental 2025 2026 YIMBY
+4. reddit Brooklyn buzzer intercom broken landlord HPD complaint
+5. "Greenwood Heights" package theft OR "buzzed in" OR "front door" apartment building Brooklyn news
+6. site:newyorkyimby.com Greenwood Heights 2026 permits filed
+7. "intercom" questions people ask "can I replace" buzzer apartment NYC tenant landlord "who is responsible" intercom repair
+8. Greenwood Heights Fifth Avenue mixed-use building storefront apartments above 1910 StreetEasy 11232
+9. r/AskNYC buzzer doesn't unlock front door delivery apartment intercom phone line
+10. Yelp intercom repair Park Slope Brooklyn reviews buzzer installer
+11. Greenwood Heights historic district landmarks preservation commission Brooklyn rowhouses designation
+12. Greenwood Heights two-family three-family house for sale 20th street 22nd street built 1899 frame
+13. intercom video doorbell brownstone two family "Brooklyn" which is better video intercom vs video doorbell multi-unit
+
+### Findings
+- City Neighborhoods describes Greenwood Heights as "a compact, hilly neighborhood nestled between Park Slope, Sunset Park, and the monumental grounds of Green-Wood Cemetery", roughly 15th St to 36th St and Third Ave to Eighth Ave, "barely two dozen blocks"; red- and brown-brick rowhouses with cornices and ironwork on steep streets, turn-of-the-century apartment houses and converted industrial buildings; old industrial buildings converted to studios and lofts; cafés and boutiques on Fifth Avenue; historic commercial streets Fifth, Sixth and Prospect Avenues; churches Immaculate Heart of Mary (founded 1893) and Our Lady of Czestochowa–St. Casimir; Weir Greenhouse landmark; name in common use in late 20th century — https://www.cityneighborhoods.nyc/greenwood-heights
+- Wikipedia: borders "much-debated" (Prospect Expwy N, Gowanus/Upper NY Bay W, Eighth Ave E, 39th St S); Brooklyn CD7; ZIP 11232; 1–2 family homes, mix of wood frame, vinyl-sided and brick homes; restorations of neglected c.1900 wood-frame houses; R at 36th St, 25th St, Prospect Ave; B37, B63; 2005 rezoning — https://en.wikipedia.org/wiki/Greenwood_Heights,_Brooklyn (via local research pack L1)
+- Brownstoner Building of the Day (Apr 17 2014): "Greenwood Heights is better known for its wood framed houses, both restored and covered with aluminum siding"; 207A–209 18th St Queen Anne rowhouses pre-1888; cast-iron fences — https://www.brownstoner.com/architecture/building-of-the-day-207a-209-18th-street/
+- PropertyShark: 204 22nd St — built 1910, 2 units, class B9, 2 stories, frame — https://www.propertyshark.com/mason/Property/130036/204-22-St-Brooklyn-NY-11232/
+- PropertyShark: 203 20th St — built 1910, 2 units, B9, 2 stories, frame, combination exterior wall — https://www.propertyshark.com/mason/Property/129777/203-20-St-Brooklyn-NY-11232/
+- PropertyShark: 310 22nd St — built 1901, 2 units, Two Family Frame (B2), 2 stories, composition exterior walls — https://www.propertyshark.com/mason/Property/138432/310-22-St-Brooklyn-NY-11215/
+- PropertyShark: 347 20th St — built 1899, 2 units, B2, 2 stories, frame with aluminum/vinyl exterior walls — https://www.propertyshark.com/mason/Property/138014/347-20-St-Brooklyn-NY-11215/
+- NYC DCP South Park Slope rezoning (CPC Oct 19 2005, Council Nov 16 2005): 50 blocks 15th St–24th St; rowhouses of two to four stories built late 1800s–early 1900s as worker housing; Fifth Ave 3–4 story mixed buildings; Fourth Ave large lots with one-story warehouse/commercial buildings; R6A + C4-3A on Fifth, R8A on Fourth — https://www.nyc.gov/assets/planning/download/pdf/plans/south-park-slope/southparkslope.pdf (via local pack L9)
+- NY YIMBY (June 24 2016): 643–645 Fifth Ave, seven stories, 13 apartments likely condos, ~1,100 sf ground-floor retail, roof deck, exercise room, bike storage, seven-car parking lot — https://newyorkyimby.com/2016/06/revealed-645-5th-avenue-greenwood-heights.html
+- NY YIMBY: 814 Fifth Ave at 33rd St, four stories, 10 apartments, seven-car garage on ground floor, ~3 blocks from 36th St D/N/R (no date shown on page) — https://newyorkyimby.com/2016/11/four-story-10-unit-residential-building-filed-at-814-fifth-avenue-greenwood-heights.html
+- Brownstoner: 236 17th St at Fifth Ave, seven stories, 17 units, seven enclosed parking spaces (no date shown) — https://www.brownstoner.com/brooklyn-life/seven-story-apartment-building-planned-for-greenwood-heights
+- NY YIMBY (Sept 22 2026): 156 21st St between 3rd & 4th Aves, three-story building with 3,468 sf manufacturing space and four enclosed parking spaces — https://newyorkyimby.com/2026/09/permits-filed-for-156-21st-street-in-greenwood-heights-brooklyn.html (via local pack L11; 321 21st St article could not be fetched — EMPTY)
+- Brooklyn Eagle (Mar 25 2020): Fifth Ave 24th–34th Sts cemetery on one side and homes on the other; siding-covered rowhouses; 723 Fifth Ave / 245 23rd St former factory with community center; Jackie Gleason Depot 871 Fifth Ave at 36th St — https://brooklyneagle.com/articles/2020/03/25/see-eye-catching-homes-on-the-perimeter-of-green-wood-cemetery/ (via local pack L7)
+- NYC DCLA (Apr 16 2026): The Green-House at Green-Wood opened Apr 18 2026 across from the main arch at Fifth Ave & 25th St — https://www.nyc.gov/site/dcla/about/pressrelease/PR-2026-4-16-Department-of-Cultural-Affairs-Joins-Green-Wood-Cemetery-Cut-the-Garland-on-New%20Green-House-Visitor-Center.page (via local pack L19)
+- Forgotten NY: Roosevelt and Woodrow Courts (30th St / 5th Ave), built 1922 — https://forgotten-ny.com/?p=18651 (via local pack L6)
+- Untapped Cities (Apr 21 2016): Prospect Expressway pocket parks incl. Detective Joseph Mayrose Park — https://untappedcities.com/2016/04/21/hidden-pocket-parks-in-south-slope-nyc-squeezed-between-expressway-and-row-houses/ (via local pack L16)
+- Hoodline (Sept 2026): 72nd Precinct at 830 4th Avenue — https://hoodline.com/2026/09/greenwood-heights-man-47-struck-in-head-robbed-of-800-chain-outside-24th-st-storefront/ (via local pack L14; incident not used)
+- Industry City between 32nd and 41st Sts, warehouses 1892–1910 — https://en.wikipedia.org/wiki/Industry_City (via local pack L18)
+- LPC: searches surfaced no Greenwood Heights historic district; Weir Greenhouse is an individual landmark — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_Brooklyn (search result only; not opened)
+- Brownstoner forum (2006, Park Slope): building buzzer broken for months, visitors can buzz but tenant cannot buzz them in; replies: one owner replaced an electric strike himself for about $40 in five minutes (shut the breaker first); a loose wire at the button fixed for about $150; fault could be the buzzer or the strike, locksmith vs electrician — https://www.brownstoner.com/forum-archive/2006/01/broken-buzzerin
+- Brownstoner forum (2007): Brooklyn brownstone with a 3' x 10' glass double front door told it can't take a strike; reply: strikes installed on two sets of double doors, channel cut behind the astragal, wall opened for wiring — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Brownstoner forum (June 2008): two-building co-op, 16 apartments each; management said replace the whole system though only a few exterior buzzers failed; one reply said troubleshooting cost hundreds without success — https://www.brownstoner.com/forum-archive/2008/06/intercom-repair-1
+- Brownstoner forum (Oct 2010): landlord replacing buzzer with a system that dials phone numbers; cell-only tenants' concerns — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- Brownstoner forum (~2018): 6-apartment Brooklyn co-op replaced "old buggy analog system" with a video system: 6 internal stations, 1 outdoor camera station, two new door strikes — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- Brick Underground: check operator error ("aren't pushing a button hard enough, or not waiting long enough"); swab sticky buttons with rubbing alcohol; don't touch wiring yourself; get building authorization; "It's all in the wire connections"; five-apartment building replacement in about a day — https://brickunderground.com///node/47393
+- Habitat Magazine (Feb 2024): MDL — buildings built/converted after 1968 with eight or more units must have a two-way voice intercom; housing maintenance code requires a functioning intercom; co-op has legal obligation to repair; essential service / warranty of habitability; HP proceeding; a neighbor whose alteration damaged it may be responsible depending on lease/alteration agreement — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- NYC 311: "Doorbells, buzzers, or intercoms that are broken or missing" listed among apartment maintenance complaints; try owner/super first — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- ButterflyMX small-building article: diagnose first; repair suits a localized fault with parts available; "Do not replace a system based on age alone"; FAQ questions listed below — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- HomeAdvisor cost guide: headline $1,200–$8,500, elsewhere $150–$15,000; basic audio $200–$300 installed; wireless $150–$1,500 vs hard-wired $1,000–$15,000 (internally inconsistent; used only in AI Reality Check, no figures repeated as our prices) — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Silo-wide (reused): 1 RCNY 42-01 mounting heights; HPD ABCs of Housing self-closing doors and "immediately repair broken locks or intercoms"; MDL 50-a — see 3-silo-research.md
+- Reddit threads about intercoms in Greenwood Heights: EMPTY (no result surfaced)
+- Greenwood Heights HPD / 311 / DOB intercom counts: EMPTY
+- Local news about intercoms or buzzers in Greenwood Heights: EMPTY (package-theft results were elsewhere in Brooklyn)
+- Yelp 1–3★ for intercom installers near Greenwood Heights: EMPTY (not accessible in build env)
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo: EMPTY (not accessible in build env); question research drawn from search-result titles, forum threads and article FAQs below
+
+### Questions people ask — Intercom Installation in Greenwood Heights
+- Visitors can buzz us but we can't buzz them in — is it the strike or the buzzer, locksmith or electrician? — Brownstoner forum 2006 — https://www.brownstoner.com/forum-archive/2006/01/broken-buzzerin
+- Can I replace the electric strike myself? — Brownstoner forum 2006 — https://www.brownstoner.com/forum-archive/2006/01/broken-buzzerin
+- Can an electric strike go on glass double doors? — Brownstoner forum 2007 — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Only some exterior buzzers fail; management says replace the whole system — right? — Brownstoner forum 2008 — https://www.brownstoner.com/forum-archive/2008/06/intercom-repair-1
+- Troubleshooting the old system cost hundreds — when to stop? — Brownstoner forum 2008 — same URL
+- Can a landlord install a phone-dialing intercom; do tenants get a say? — Brownstoner forum 2010 — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- Video doorbell for upper levels of a multi-family brownstone? — Brownstoner forum title (page not fetched) — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Can only the apartment stations be replaced? — ButterflyMX FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Electric strike vs magnetic lock? — ButterflyMX FAQ — same URL
+- Can an old buzzer be made smart without full replacement? (already in register, not used) — ButterflyMX FAQ — same URL
+- What to gather before requesting a quote? (already in register, not used) — ButterflyMX FAQ — same URL
+- What can I check myself before calling a repair person? — Brick Underground — https://brickunderground.com///node/47393
+- Is my super allowed to repair it / do I need building authorization? — Brick Underground — same URL
+- How long does replacing a small building's system take? — Brick Underground — same URL
+- Is a working intercom legally required; who pays in a co-op; what if a neighbor's work broke it? — Habitat Magazine — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- How do I report a broken buzzer? (already in register, not used) — NYC 311 — https://portal.311.nyc.gov/article/?kanumber=KA-01074
+- How much does an intercom system cost; why such wide ranges? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Apartment intercom system with door release cost — Swiftlane article title in search results — https://swiftlane.com/blog/apartment-intercom-system-with-door-release-cost-what-impacts-pricing/
+- Doorbell cameras vs doorbell video intercoms for apartments — Swiftlane article title in search results — https://swiftlane.com/blog/doorbell-cameras-vs-doorbell-video-intercoms-what-works-best-for-apartments/
+- Visitors say the station doesn't work but it works when tested (operator error) — Brick Underground — https://brickunderground.com///node/47393
+- Own question (list ran out of unregistered intents): what intercom records should a condo board collect when a developer hands over a new building — grounded in the 645 Fifth Ave condo (NY YIMBY) and the 6-apartment co-op changeover thread (Brownstoner).
+
+
+## Gerritsen Beach, Brooklyn — /intercom-installation-gerritsen-beach-brooklyn-ny (factory research, 2026-11-01)
+
+**Outcome: HOLD-THIN. No page written; old html left untouched; no question-register entries added.**
+
+- Fresh searches for intercom/door-entry demand specific to Gerritsen Beach returned nothing local: "intercom installation Gerritsen Beach Brooklyn", "Gerritsen Beach apartment building intercom buzzer", "reddit Gerritsen Beach doorbell OR intercom OR package theft", "yelp intercom installer Sheepshead Bay Marine Park Gerritsen Beach reviews" all gave only generic vendor blogs (ButterflyMX, Swiftlane, HomeAdvisor) or out-of-area results — EMPTY for local intercom content — WebSearch, 2026-11-01
+- Building stock (re-used from the 2026-10-22 door-buzzer study, PLUTO 64uk-42ks, peninsula south of Avenue X): 1,429 residential lots / 1,589 units; 1,264 one-family, 156 two-family, 2 three-family, 0 buildings of 4+ units — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- HPD intercom/buzzer/door-bell violations on any peninsula street: 0 (ZIP 11229 total 294, clustered on Ocean Ave, Nostrand Ave, Kings Hwy, Homecrest E-streets) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 311 bell/buzzer/intercom complaints on the peninsula since 2018: 1 (Bevy Court, Oct 2026); ZIP 11229 is 7th lowest of 37 Brooklyn ZIPs since 2022 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Only multi-unit building surfaced by fresh search: 2402 Gerritsen Avenue, 8 rental units, 3 floors, built 1964 (in the Avenue U–X strip, outside the peninsula study area) — https://www.cityrealty.com/nyc/gerritsen-beach/2402-gerritsen-avenue/150896
+- 70 Beacon Court: two-story home raised on stilts under Build It Back (March 2016) collapsed June 22, 2016 during further work; a family nearby reported cracked walls and rusting staircases after a lift — https://www.dnainfo.com/new-york/20160622/gerritsen-beach/sandy-damaged-home-collapses-after-being-raised-onto-stilts-officials-say.amp
+- Elevation/flood context (Zone B to Zone A, rezoning stalled since 2020, elevated homes) — https://journalism.blog.brooklyn.edu/2025/12/years-later-gerritsen-beach-awaits-answers-on-flood-resilience/
+- Neighborhood background (1920s bungalows, courts, Gotham Ave canal, Vollies, Gerritsen Ave the only commercial corridor) already documented in the local research pack — https://en.wikipedia.org/wiki/Gerritsen_Beach,_Brooklyn ; https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/gerritsen-beach/summary-report-gerritsen-beach.pdf
+- Gerritsen Ave commercial listings exist (2412, 2680 Gerritsen Ave) but no intercom-relevant detail — https://www.commercialsearch.com/commercial-property/us/ny/brooklyn/2412-gerritsen-ave/
+
+### Questions people ask — Intercom Installation in Gerritsen Beach
+- EMPTY — no Gerritsen Beach-specific intercom question found on Google/Bing/DDG results, Reddit or Yelp (searches above). Only generic single-family intercom questions surfaced (doorbell vs intercom, cost of a home video intercom) — HomeAdvisor / 2N / ButterflyMX — https://cost-guide-ssr.homeadvisor.com/cost/safety-and-security/install-intercom-system ; https://www.2n.com/en-AU/blog/single-family-home-intercom-system-a-complete-guide/
+
+### Why HOLD-THIN
+1. No intercom demand on record: 0 HPD intercom violations, 1 311 complaint since 2018, no 4+-unit buildings on the peninsula; no local question, review, thread or news item about door entry.
+2. The stock is one- and two-family houses, a type the silo already covers: detached-house doorbell (Beverley Square), two-family stations (Bronxwood), gate vs porch (Dyker Heights), flood/Sandy-damaged wire and basement entries (Canarsie factory rebuild, Oct 30 2026), salt/sea exposure (Coney Island).
+3. The truly local hooks (raised-house staircases, canal docks, narrow courts, Gerritsen Ave stores) are already the centerpieces of the Gerritsen Beach alarm rebuild (Oct 21 2026), and the door-buzzer-repair line for this area was already held HOLD-THIN on the same data (Oct 22 2026). A 12,500–13,500-word page would be padding.
+- Suggestion: fold Gerritsen Beach into the Brooklyn hub or one combined southeast-Brooklyn waterfront-houses intercom page (Gerritsen Beach, Marine Park, Bergen Beach, Mill Basin — all still old-template pages with the same profile).

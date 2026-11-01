@@ -2795,3 +2795,7 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-east-flatbush-brooklyn-ny | QUEUED
 2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-east-williamsburg-brooklyn-ny | QUEUED
 2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-fairmount-bronx-ny | QUEUED
+2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-flatbush-brooklyn-ny | QUEUED
+2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-fort-hamilton-brooklyn-ny | QUEUED
+2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-fulton-ferry-brooklyn-ny | QUEUED
+2026-11-01 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-greenwood-heights-brooklyn-ny | QUEUED
