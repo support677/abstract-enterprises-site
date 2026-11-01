@@ -125,9 +125,9 @@ These are added on top of the v2.0 structure. Some still have unconfirmed specs 
 | 29 | **Mid-page CTA reinforce** — secondary CTA between §10 and §11 | confirmed |
 | 30 | **Cross-sell signals** — sidebar/inline "Customers in [Neighborhood] also got [Other Service]" | spec needs confirmation |
 | 31 | **Alt + filename SEO** — every image has descriptive alt + slug-style filename matching service+neighborhood | confirmed |
-| 32 | (reserved) | — |
-| 33 | (reserved) | — |
-| 34 | (reserved) | — |
+| 32 | **Answer-first block** — the target keyword's answer in the first 100 words of visible body copy (see §12.1) | confirmed (Nov 1 2026) |
+| 33 | **Proof numbers** — real AESS numbers replace vague claims; proof strip under the hero (see §12.3) | confirmed (Nov 1 2026) |
+| 34 | **Keyword placement** — target keyword in title, URL slug, H1 and the start of the first body sentence (see §12.2) | confirmed (Nov 1 2026) |
 | 35 | **TBD** | pending |
 | 36 | (reserved) | — |
 | 37 | **TBD** | pending |
@@ -166,6 +166,7 @@ Audit fails any of these → page goes back to rebuild, not to deploy:
 - [ ] GBP schema matches §8 routing for this area
 - [ ] Page passes file-size cluster check (not within ±2KB of any sibling)
 - [ ] All v2.1 elements that apply to this page type are present
+- [ ] §12 checks pass: answer in first 100 words, keyword in title/slug/H1/first sentence, proof strip uses real numbers only, page links to its silo target page (§12.4)
 
 ---
 
@@ -227,6 +228,45 @@ Wrong GBP on a page = rejected.
 - Linking the wrong service silo (e.g. fire-alarm page linking to alarm-installation siblings).
 - Using a placeholder phone number, address, or license number.
 - Skipping research sources because the neighborhood is "small" or "obvious."
+
+---
+
+## 12. SEO Plays (added Nov 1 2026 — from Dino Hawari / freeseoknowledge.com, approved by Anwar)
+
+Only plays AESS wasn't already running were added. Already covered elsewhere: content refresh = the daily "GSC zero-click keyword optimizer" task.
+
+### 12.1 Answer first (element 32)
+- Within the first 100 words of visible body copy (directly under the hero subhead), a 2–3 sentence **"Quick answer"** box that answers the page's search intent outright: what it costs in this area (area price range per §9 / [[aess-pricing]] rules — never an invented price), what's included, how fast we book.
+- Product/package pages: a 2–3 sentence summary of features + benefits placed right under the title.
+- Plain text, no fluff, no question restated. It must read as the answer Google or an AI overview would quote.
+
+### 12.2 Keyword placement (element 34)
+- The page's one target keyword appears in: `<title>`, URL slug, H1, and **the opening words of the first body sentence**.
+- Natural phrasing only — no stuffing, no repeating it in every H2.
+
+### 12.3 Proof numbers, not vague claims (element 33)
+- Never write vague claims ("fast, reliable service," "we help you grow," "trusted by many"). Swap each for a real number.
+- **Approved AESS facts (Anwar, Nov 1 2026):**
+  - In business **since 2018** (Abstract Enterprises Security Systems, Inc.).
+  - **Thousands of jobs completed** — say "thousands"; do NOT print an exact count until Anwar gives one.
+  - **Booked within 2 hours** of a request (booking/response time — never promise same-day installation).
+  - **Google reviews:** pull live counts at build time from Local Falcon `listAllLocalFalconLocations` and round DOWN to the nearest 10 with a "+". As of Nov 1 2026: Brooklyn GBP 212 reviews, 4.6★; Bronx GBP 181 reviews, 4.7★ → combined **390+ Google reviews, 4.6★+**. Use the review count of the GBP that page routes to (§8) or the combined figure.
+- Proof strip directly under the hero stats bar: `Since 2018 · Thousands of jobs completed · 390+ Google reviews (4.6★) · Booked within 2 hours`.
+- Never invent numbers, percentages, guarantees, "24/7," or customer counts. If a number isn't on this list, ask Anwar.
+
+### 12.4 Internal links to one target page per keyword
+- Every keyword cluster has ONE target page (usually the page already ranking best for it in Search Console; otherwise the hub page for that service/area).
+- Every other page on the site that's relevant to that keyword links to the target page with a natural, keyword-rich anchor — not just to the homepage.
+- New pages: on build, link to the target page for their keyword cluster and get linked FROM 3–5 relevant existing pages (add a contextual sentence, not a footer dump). Never change an existing page's H1 or URL while adding links.
+- If no good target page exists, build one (keyword in title, slug, H1, first sentence per §12.2), then point the other pages at it.
+- The daily GSC task maintains this automatically (see its step 4b).
+
+### 12.5 Comparison pages (new page type)
+- "X vs Y" pages pull high-buying-intent traffic (example: one SaaS vs-page is worth ~9× its "what is X" guide). Build them as their own page type.
+- First batch: Lorex vs Reolink · UniFi Protect vs Hikvision · Ring vs Lorex · Uniview vs Dahua · 2GIG vs Qolsys · Akuvox vs ButterflyMX · DoorBird vs 2N · ADT vs local licensed alarm installer.
+- Structure: answer-first verdict (§12.1) → side-by-side table (resolution, storage/NVR, app, subscription fees, smart-home fit, best for) → who should pick which → "We install both — installed price in your area" → checkout/quote CTA → FAQ + FAQPage schema.
+- Rules: compare brands against each other — never put AESS prices next to a retail or manufacturer store price. Brands AESS carries/partners with get installed pricing per [[aess-pricing]]; quotes still default to the non-branded system. Real specs only (pull from manufacturer pages with Firecrawl), real product photos only. Link each comparison page to both brands' service pages and the matching hub (§12.4).
+- Add them to PAGE-QUEUE.md and build them in the normal 3-at-a-time page flow.
 
 ---
 

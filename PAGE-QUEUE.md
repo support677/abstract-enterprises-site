@@ -207,6 +207,14 @@ LIVE | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Nec
 LIVE | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+TODO | lorex-vs-reolink | Comparison: Lorex vs Reolink | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | ring-vs-lorex | Comparison: Ring vs Lorex | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | uniview-vs-dahua | Comparison: Uniview vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | doorbird-vs-2n | Comparison: DoorBird vs 2N | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | adt-vs-local-alarm-installer | Comparison: ADT vs Local Licensed Alarm Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-tottenville-staten-island-ny | Sonos Installation | Tottenville, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
@@ -1055,4 +1063,5 @@ Add neighborhood spokes here when a silo's 16 area pages are LIVE, same line for
 - One line per page. STATUS is TODO or LIVE; the daily run edits only the STATUS word of the line it built.
 - Order (Anwar 2026-10-16): ALL hub pages first (NYC, Long Island, Hudson Valley hubs of every silo), then the area pages silo by silo (Soundbar > Smart Lock > Fiber Optic > Sonos > Cat6 Repair). Runs build three lines at a time; within a silo NYC hub, Manhattan, Brooklyn, Queens, Bronx, Staten Island, Long Island hub, Hudson Valley hub, Nassau, Suffolk, Westchester, Rockland, Orange, Putnam, Dutchess, Ulster.
 - Pages that already existed when the queue was built were left out: none (none of the five silos had any page on 2026-09-28).
+- Comparison pages ("Comparison: X vs Y" silo, added Nov 1 2026) follow BLUEPRINT.md §12.5, not the 22-element neighborhood spec; they sit at the root, link up to Home, and route to the Brooklyn GBP. If tools/check_page.py has no rule for this page type, run its generic checks and the §12.5 checklist by hand.
 - up-link, phone and GBP are the approved values from tools/check_page.py (AREAS map). Hubs link up to Home; children link up to their regional hub.
