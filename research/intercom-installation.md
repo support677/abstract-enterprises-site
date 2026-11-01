@@ -1129,3 +1129,509 @@ Rebuild of a page Google refused to index as a near-duplicate template. Thesis: 
 2. The stock is one- and two-family houses, a type the silo already covers: detached-house doorbell (Beverley Square), two-family stations (Bronxwood), gate vs porch (Dyker Heights), flood/Sandy-damaged wire and basement entries (Canarsie factory rebuild, Oct 30 2026), salt/sea exposure (Coney Island).
 3. The truly local hooks (raised-house staircases, canal docks, narrow courts, Gerritsen Ave stores) are already the centerpieces of the Gerritsen Beach alarm rebuild (Oct 21 2026), and the door-buzzer-repair line for this area was already held HOLD-THIN on the same data (Oct 22 2026). A 12,500–13,500-word page would be padding.
 - Suggestion: fold Gerritsen Beach into the Brooklyn hub or one combined southeast-Brooklyn waterfront-houses intercom page (Gerritsen Beach, Marine Park, Bergen Beach, Mill Basin — all still old-template pages with the same profile).
+
+## Highland Park, Brooklyn — /intercom-installation-highland-park-brooklyn-ny (factory research, 2026-11-01)
+
+**Limits of this research:** I could only use a general web search tool. I could not see Google People Also Ask boxes, People Also Search For, Bing or DuckDuckGo results pages, AnswerThePublic, or individual Reddit threads. I also could not query NYC Open Data for HPD, 311 or DOB records. Every item below that I couldn't verify is marked EMPTY.
+
+**Intercom-specific facts (most important)**
+- A competitor already has a page for this exact service and neighborhood. Its only "local" content is a generic story that "A Highland Park building installed video intercom with smartphone access. Tenants now buzz in delivery drivers from their phones — even when they're at work. Package theft dropped to zero." Their Cypress Hills page uses the same text, so it is boilerplate, not a real local example. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-highland-park-brooklyn-ny
+- **Two-entrance elevator co-op:** 224 Highland Boulevard is an 88-unit, 6-story co-op built in 1940. It has an elevator, on-site parking, and two entrances (Highland Blvd and Sunnyside Ave), which means more than one entry panel and door strike. It is listed as Community District 305, City Council District 37, Police Precinct 75; building class D4 Elevator Cooperative. — https://streeteasy.com/building/224-highland-boulevard-brooklyn
+- **Hillside sites:** "The homes along Highland Boulevard come down the hill in a tumble of stairs and retaining walls." The land on the south side of Highland Boulevard east of Barbey is held up by retaining walls. My inference (not from a source): the call station may sit at a street gate well below the front door, so cable runs to the door are longer. — https://forgotten-ny.com/2008/05/highland-park-brooklyn-part-2/
+- There is a large brick apartment building with upper floors and towers visible from Van Siclen on Miller Avenue, and a red brick apartment building with a retaining wall. — https://forgotten-ny.com/2008/05/highland-park-brooklyn/
+- **Courts and alleys:** Van Sicklen and Schenck Courts are two dead ends with charming houses, just off Jamaica Avenue in Highland Park. Sunnyside Court branches off Sunnyside Avenue, and Barbey Street climbs a steep hill but never quite reaches Highland Boulevard; steps connect them. — https://forgotten-ny.com/2000/09/mid-brooklyn-alleys-from-the-heart-of-brooklyn-including-one-that-commemorates-brooklyns-worst-subway-wreck/
+- **Porch-front rowhouses:** The triangle formed by Jamaica and Ridgewood Avenues and Warwick Street has attached brick houses with columned front porches. One has what must be the original iron fence and gate, which matters if a gate strike is being added. — https://forgotten-ny.com/2007/11/takin-jamaica-avenue/
+- **Local package theft:** A package thief attacked a homeowner on Crescent Street between Atlantic Avenue and Fulton Street in Cypress Hills. A 68-year-old man saw two people take a package from outside his home; when he confronted them, one slashed him across the head (Aug. 19, 2021). — https://cbsnews.com/newyork/news/package-thieves-slash-homeowner-brooklyn
+- **Law – state intercom rule:** MDL §50-a requires an intercom in every Class A multiple dwelling built or converted after Jan. 1, 1968 with eight or more apartments; buildings under eight units are not covered, though the self-closing, self-locking door rule still applies. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Law – existing equipment:** Pre-1968 buildings such as the 1940 co-op still matter. Housing Maintenance Code §27-2005(a) generally covers any installed equipment that becomes inoperable, whether or not the owner was legally required to provide it. — http://www.tenant.net/phpBB3/viewtopic.php?t=719
+- **Law – enforcement:** 311 tenant complaints trigger HPD inspections, which check both current function and maintenance history. A system that works for some apartments but not others is a violation. One vendor says intercom violations are Class B hazardous, with fines of $250 to $500 per day until corrected. This is a vendor claim I did not verify with HPD. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Conflicting claim:** One vendor says the HMC rule applies to most residential buildings with three or more units. That contradicts the eight-unit threshold above; check it against the code before publishing. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- **Video not required:** A basic audio intercom meets the requirement; video intercoms are not legally required but are increasingly expected by tenants. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- **Existing wiring:** Some installers offer wired intercom replacement for older buildings where existing copper wiring must be preserved. — https://www.intercomrepairny.com/intercom-system-installation-brooklyn.html
+- **Legacy brands seen locally:** A Yelp review mentions "an old LeeDan intercom for decades". A vendor testimonial mentions "Repair of a Lee Dan buzzer/intercom entry system for a 3-family building". — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY ; https://www.uasecurity.com/
+- HPD violation counts for Highland Park / ZIP 11207–11208 — EMPTY
+- 311 intercom complaint data for Highland Park — EMPTY
+- DOB permits tied to intercoms or low-voltage work here — EMPTY
+- LPC historic district or landmark rules covering Highland Park homes — EMPTY. I found no designation, but that does not prove none exists; check the LPC map.
+- Reddit threads specifically about Highland Park, Brooklyn — EMPTY
+
+**History and development**
+- For fifty years the former town of New Lots, including what became Highland Park, was Brooklyn's 26th Ward. — https://forgotten-ny.com/2008/05/highland-park-brooklyn/
+- The park was created on land around Ridgewood Reservoir, bought by the City of Brooklyn in 1891. Sources disagree on the date: established 1901 vs. opened 1903. — https://en.wikipedia.org/wiki/Highland_Park_(Brooklyn) ; https://brooklyneagle.com/326218/cypress-hills-history/
+- In 1905 the park grew when the city bought the Schenck estate. — https://kids.kiddle.co/Highland_Park_(Brooklyn)
+- By the early 1920s almost every block was filled with houses, and building continued as the population doubled in the 1930s. — https://brooklyneagle.com/326218/cypress-hills-history/
+- The Highland Park YMCA opened July 1, 1926; today it is the North Brooklyn YMCA. — http://www.tapeshare.com/YMCA.html
+- Who built the residential blocks (developers/builders) — EMPTY
+
+**Streets, corridors and boundaries**
+- Boundaries vary by source. One gives Jamaica Avenue and Crescent Street to the north, Highland Boulevard and the Jackie Robinson Parkway to the south, Force Tube Avenue to the west, and Cleveland Street and the Cemetery Belt to the east. — https://cityneighborhoods.nyc/highland-park
+- Another gives Force Tube Avenue, Jamaica Avenue, Atlantic Avenue and the Jackie Robinson Parkway / New Jersey Avenue. — https://www.accordrealestategroup.com/brooklyn-neighborhoods/highland-park
+- Subway: Norwood Avenue, Cleveland Street, Cypress Hills, Crescent Street and Van Siclen Avenue (J/Z). — https://www.apartments.com/local-guide/cypress-hills-brooklyn-ny/
+- The boulevard is also called "Vito Batista Blvd". — https://forgotten-ny.com/2008/05/highland-park-brooklyn-part-2/
+- Highland Park is part of Brooklyn Community Board 5: ZIP codes 11207, 11208 and 11239; 75th Precinct. — https://en.wikipedia.org/wiki/Brooklyn_Community_Board_5
+
+**Building stock**
+- Early-20th-century rowhouses, many with bay windows and decorative lintels. — https://cityneighborhoods.nyc/highland-park
+- Highland Boulevard contains a number of mansions overlooking East New York from a promontory. — https://forgotten-ny.com/2007/11/takin-jamaica-avenue/
+- Near the park there are quiet streets of historic townhouses and single-family Victorian homes; most residents rent, and about a quarter own. — https://www.homes.com/local-guide/brooklyn-ny/cypress-hills-neighborhood/
+- The oldest house: 494 Jamaica Avenue, between Elton and Linwood Streets, one of a handful of colonial-era homes left in Brooklyn. — https://forgotten-ny.com/2007/11/takin-jamaica-avenue/
+
+**Parks, landmarks, reputation**
+- The Dawn of Glory statue at Jamaica Avenue and Cleveland Street, dedicated 1924, by sculptor Pietro Montana. — https://forgotten-ny.com/2007/11/takin-jamaica-avenue/
+- The city finished a park renovation in October 2013 that added accessible paths, fencing, lighting and plantings. The reservoir is fenced off as a wildlife area. — https://www.accordrealestategroup.com/brooklyn-neighborhoods/highland-park
+- It sits on one of the highest natural ridges in NYC. — https://cityneighborhoods.nyc/highland-park
+- A resident review (not Reddit): "the neighborhood is DEFINITELY changing… New buildings going up/being renovated." — https://www.apartments.com/local-guide/cypress-hills-brooklyn-ny/
+- Recent (2025–26) local news about building security or entry systems — EMPTY. Searching "Highland Park news" mostly returned results for Highland Park, IL and LA.
+- Patch / BKReader coverage — EMPTY
+
+### Questions people ask — Intercom Installation in Highland Park
+None of these could be confirmed as Google PAA, PASF, AnswerThePublic, Bing or DuckDuckGo results. Each is labeled with where it actually appeared.
+- How much does intercom installation cost in Brooklyn? — competitor FAQ, not a verified PAA — https://abstractenterprisessecuritysystems.com/intercom-installation-city-line-brooklyn-ny
+- How much does it cost to install an intercom system in New York City? — vendor blog heading — https://butterflymx.com/blog/intercom-installers-nyc/
+- Who pays for apartment intercom installation? — vendor blog FAQ — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- What is the monthly cost of an apartment intercom system? — vendor blog FAQ — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- Does my NYC building need an intercom? — vendor blog — https://butterflymx.com/blog/nyc-intercom-law/
+- Is a video intercom required by NYC law? — vendor FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- What happens if my intercom stops working? — vendor FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Is a broken intercom an HPD violation? — vendor FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- My Brooklyn landlord ignored the broken intercom — what's HPD's role? — competitor FAQ that says it was "pulled from r/AskNYC, r/Brooklyn…" (secondhand, not verified) — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- Is this something a landlord can choose to fix or not? — TenantNet forum (a tenant forum, not Reddit) — http://www.tenant.net/phpBB3/viewtopic.php?t=719
+- Can I buzz in visitors from my phone in Cypress Hills? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-cypress-hills-brooklyn-ny
+- How long does installation take? — vendor FAQ — https://brooklynsecuritysystempros.com/
+- How long does a video intercom installation take? — vendor FAQ — https://www.intercomrepairny.com/intercom-systems-repair-brooklyn-new-york.html
+- How quickly can I schedule installation or repair? — vendor FAQ — https://security-systems.nyc/service/intercom-system-installation/
+- Are buzzer systems secure? — vendor FAQ — https://security-systems.nyc/service/commercial-intercom-system/
+- Yelp complaint: one reviewer objected to "disconnecting, dismantling and throwing out a perfectly working exterior intercom panel" (Gambi Electric) — Yelp — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Park+Slope%2C+Brooklyn%2C+NY+11215
+- Yelp praise: "They went the next day to repair my intercom system." — Yelp — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY
+- Google PAA (8–12) — EMPTY
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic fan-out — EMPTY
+- Questions on Bing or DuckDuckGo that Google doesn't show — EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC, r/homesecurity) — EMPTY
+
+## Homecrest, Brooklyn — /intercom-installation-homecrest-brooklyn-ny (factory research, 2026-11-01)
+
+**Before you use this:** I couldn't run live Google, Bing or DuckDuckGo results pages, so I have no real People Also Ask boxes, related searches or AnswerThePublic data. Those fields say EMPTY. I also couldn't query HPD, 311 or DOB records for Homecrest addresses, and I found no Homecrest-specific Reddit threads.
+
+One more thing to check: abstractenterprisessecuritysystems.com already has a page at this exact slug, and it ranked first for "intercom installation Homecrest Brooklyn." If that's your client's site, its pages aren't independent evidence. If it's a competitor, this page has to say things theirs doesn't. Several findings below come from that site and are marked.
+
+**Intercom-specific facts (most important)**
+
+- **HPD/311 data for Homecrest addresses** (intercom violations, 311 complaints, DOB permits) — EMPTY. These need to be pulled from HPD Online or NYC Open Data.
+- **Which buildings must have an intercom — sources disagree.**
+  - One source says the intercom requirement attaches at eight apartments, and the self-closing, self-locking door rule applies at any size. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+  - Another says the rule is §27-2045 and applies to most residential buildings with three or more units. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+  - A third ties it to buildings with eight or more units built after January 1, 1968. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+  - Check the actual code text before publishing a number.
+- **Violation class and fines:** A dead intercom is a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings. One vendor puts fines at $250 to $500 per day until corrected. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Partial failures count:** A system where some apartments work and others do not constitutes a violation. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Video isn't required:** The law requires a working intercom — not a modern video intercom. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- **Roof doors:** They need self-closing doors, not self-locking ones, with a bolt or lock operable from the interior. This matters when wiring door releases. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Exit rules:** Any access control configuration that impedes interior egress violates NYC fire code. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **HPD's self-closing door program:** In FY24, HPD's proactive inspections resulted in the issuance of 3,151 self-closing door violations. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf
+- **DOB permit rule for low-voltage work:** No electrical permit is needed for wiring designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person. — https://up.codes/s/low-voltage-electrical-work
+  - Life-safety system wiring shall only be performed by a licensed master electrician or special electrician. — same URL
+  - Some sources disagree and say NYC low-voltage work needs DOB permits. — https://www.lowvoltagenation.com/posts/nec-2026-new-york-nyc-electrical-code
+- **State license:** One licensing guide says Burglar/fire alarm/CCTV/access control require an Article 6-D license. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf
+- **Landmarks rules:** No historic district inside Homecrest turned up — EMPTY. Next door, Ocean Parkway Designated NYCL: January 28, 1975 as a scenic landmark. — https://wiki.aaroads.com/wiki/Ocean_Parkway_(Brooklyn). Whether that affects facade work on buildings facing the parkway is unconfirmed; check with LPC.
+- **Mix of building sizes:**
+  - 2026 East 12th St: 4 units·2 floors·Built in 1926. Small houses like this may fall under the intercom threshold. — https://www.openigloo.com/building/nyc/3197877-3073150016/brooklyn-homecrest-2026-east-12-street-11229
+  - 1717 East 14th St dates to 1932, has three stories and 24 units (a pre-war walk-up co-op). — https://www.brickunderground.com/buy/buy-curious-homecrest-brooklyn-houses-co-ops-condos-pricing-listings-nyc
+  - 2299 East 13th St: Built in 1960, the six-story, 66-unit building has an elevator, upgraded lobby, a security system, live-in super. — same URL
+  - 1750 East 14th St: The 1961 building has six stories and 64 units. — same URL
+  - 2381 Ocean Ave: The eight-story building, erected in 2006, has 22 units. — same URL
+- **Mid-rise elevator co-op at the southern edge:** 2665 Homecrest Ave is a Co-op in Sheepshead Bay - 157 Units, 6 Stories, built 1962. — https://www.compass.com/building/2665-homecrest-ave-brooklyn-ny-11235/293534081419843157/. Listings mention 24-hour security cameras throughout. — https://www.apartmentlist.com/ny/brooklyn/2665-homecrest-ave--2
+- **Local news on building security:** A Homecrest apartment fire was being investigated as an arson, and a partial vacate order has been issued for the building. — https://brooklyn.news12.com/homecrest-fire-leaves-1-person-in-critical-condition-partial-vacate-order-issued. The address was 1780 East 13th St., a six-story building. — https://brooklyn.news12.com/2026/03/17/at-least-2-injured-one-critically-during-homecrest-apartment-building-blaze/3BDs0SGHHPo34nlcbEobNS
+- **Package theft (Nextdoor):** A Homecrest post near E13th St/Kings Highway warned of a thief going into buildings and stealing bags of packages around midwood & Homecrest. — https://nextdoor.com/neighborhood/homecrest--brooklyn--ny/
+- **Local business doing intercom work:** Amerikey at 2713 Coney Island Ave has a Yelp photo captioned New 3 unit apartment intercom station for mixed use building. — https://www.yelp.com/biz/amerikey-brooklyn-3
+- **Wiring reuse claim (Abstract Enterprises, not independent):** Comelit Ultra, Aiphone GT, and Akuvox retrofit kits reuse legacy 2-wire and 6-wire cable. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- **Residents' languages:** 65.0% of the residents of this neighborhood were born in another country (Homecrest Ave/Ave U area). — https://www.neighborhoodscout.com/ny/brooklyn/homecrest-ave. Nextdoor notes a large Russian-speaking population. — https://nextdoor.com/neighborhood/homecrest--brooklyn--ny/. Possible angle: directory panels and apps in multiple languages (my inference).
+
+**History and development**
+
+- The name dates to the turn of the 20th century, when developers coined it to market one of southern Brooklyn's first planned suburban communities. — https://cityneighborhoods.nyc/homecrest
+- In 1900, Ackerson formally branded the new district as Homecrest. The developer is named as T.B. Ackerson. — https://cityneighborhoods.nyc/homecrest ; https://maidmarines.com/brooklyn/homecrest (both are secondary sources)
+- By the 1890s, with streetcar lines extending south along Coney Island Avenue and Ocean Avenue, developers began subdividing farmland. — https://cityneighborhoods.nyc/homecrest
+- In 2005, zoning restrictions on the north side of Homecrest and along Ocean Avenue were relaxed, resulting in significant condo development. — https://leviteam.com/neighborhoods/homecrest-brooklyn
+- The Avenue U Chinatown formed when Chinese residents moved in from Sunset Park, which in the late 1990s resulted in the establishment of a second Chinatown on Avenue U. — https://en.wikipedia.org/wiki/Avenue_U
+
+**Boundaries and main streets**
+
+- Wikipedia's boundaries are Kings Highway to the north, Avenue X to the south, Coney Island Avenue to the west, and Ocean Avenue to the east. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn. Other sources use Avenue U as the southern edge, or Ocean Parkway as the western edge. — https://www.brickunderground.com/buy/buy-curious-homecrest-brooklyn-houses-co-ops-condos-pricing-listings-nyc ; https://cityneighborhoods.nyc/homecrest
+- Kings Highway (to the north) is a major shopping street, while Coney Island Avenue and Avenue U also contain commercial areas. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn
+- Subway: B and Q trains with stations located at Kings Highway, Avenue U, and Neck Road. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn
+- Community District 15, primary ZIP Code is 11229. It is patrolled by the 61st Precinct. — https://maps.apple.com/place?auid=12868776045332460591
+
+**Building stock**
+
+- Housing includes mid-rise (6 to 8-story) brick apartment buildings along Nostrand and Ocean avenues, as well as detached Victorian homes and attached brick rowhouses along the side streets. — https://www.fillmore.com/neighborhood/homecrest-brooklyn-ny-usa
+- There are prewar rowhouses, detached single-family homes, and midrise co-op and condo buildings, with a median year built of 1930. — https://www.homes.com/brooklyn-ny/neighborhood/homecrest/
+- About 41% of homes were built before the 1940s, with another 14.1% going up by 1949. — https://www.point2homes.com/US/Neighborhood/NY/New-York-City/Brooklyn/Homecrest-Demographics.html
+- Near Avenue U, low-rise condominiums and mixed-use buildings have replaced older garages and bungalows. — https://cityneighborhoods.nyc/homecrest
+- Many homes are row limestone 2 family homes, as well as many brick and brick and stucco combination 2 family homes. — https://www.accordrealestategroup.com/brooklyn-neighborhoods/homecrest
+
+**Parks and landmarks**
+
+- Kelly Memorial Park is a public park located along Avenue S between East 13th and 14th Streets. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn
+- The Brooklyn Public Library Homecrest branch is at 2525 Coney Island Avenue, south of Avenue V. A Bronx Tale (1993) and Brooklyn's Finest (2009) were both filmed there. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn
+- Ocean Parkway, on the western edge: On June 15, 1894, Ocean Parkway became the first street in the U.S. to have a designated bike lane. — https://www.6sqft.com/in-1894-the-first-bike-lane-in-america-was-built-on-brooklyns-ocean-parkway/
+- Homecrest Community Services was founded in 1997 and partnered with Homecrest Presbyterian Church. — https://www.homecrest.org/history
+
+**Safety context**
+
+- The 61st Precinct ranked 5th safest out of 69 patrol areas for per-capita crime in 2010. — https://en.wikipedia.org/wiki/Homecrest,_Brooklyn
+- A third-party crime index rates burglary as Index 71 (29% below avg). — https://www.doorprofit.com/crime-statistics/city/Brooklyn-NY/neighborhood/homecrest/
+
+**Cost benchmarks (useful for FAQs)**
+
+- ButterflyMX: NYC apartment installs run about $500 to $5,000 or possibly more for large properties. — https://butterflymx.com/blog/intercom-installers-nyc/
+- Swiftlane: $1,000 to $7,000 per entry door installed, or $5,000 to $50,000 for a full multifamily project. — https://swiftlane.com/apartment-video-intercom-buyers-guide/
+- DTV Installations: a typical audio intercom system for a four-unit apartment building would run around $3500. — https://www.dtv-installations.com/blog/installation-cost-video-intercom/
+
+**Reddit, hyperlocal outlets and Yelp**
+
+- Reddit (r/Homecrest, r/Brooklyn, r/AskNYC, r/homesecurity) — EMPTY. No threads came up. The Abstract Enterprises claim about what Reddit tenants recommend is unverified; don't use it.
+- Patch, BKReader and other neighborhood blogs — EMPTY. The only hyperlocal coverage found was News 12 Brooklyn (fire stories above) and Nextdoor (package theft above).
+- Yelp complaints about intercom services in Homecrest — EMPTY. Only listings and photos turned up (see Amerikey above).
+- Older complaint example: one renter waited three months for a city inspector to respond to her 311 complaint about a broken intercom. — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+
+### Questions people ask — Intercom Installation in Homecrest
+
+- Google People Also Ask — EMPTY (no access to results pages)
+- Google People Also Search For / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit — EMPTY
+
+The questions below are real FAQ headings found on web pages. None was confirmed as a People Also Ask question.
+
+- How much does it cost to install an intercom system in New York City? — web page FAQ — https://butterflymx.com/blog/intercom-installers-nyc/
+- How much does an apartment video intercom system cost? — web page FAQ — https://swiftlane.com/apartment-video-intercom-buyers-guide/
+- What is the price of installing an intercom system? — web page FAQ — https://city-smart.net/intercom-
+
+## Jerome Park, Bronx — /intercom-installation-jerome-park-bronx-ny (factory research, 2026-11-01)
+
+**Read this first (research limits and flags)**
+- I could not reach Google, Bing or DuckDuckGo result pages, AnswerThePublic, or Reddit. That means I have no real People Also Ask (PAA) boxes, People Also Search For (PASF) lists, Bing/DDG differences, or Reddit threads. Those fields say EMPTY below. The question list at the end only includes questions that real pages printed, and each one says where I saw it.
+- The slug you gave is already a live page. "Intercom Installation Jerome Park, New York — Professional intercom system installation for Jerome Park apartment buildings, multi-family homes, co-op complexes, and commercial properties. All Bronx neighborhoods served." — https://www.abstractenterprisessecuritysystems.com/intercom-installation-jerome-park-bronx-ny . It is generic text with the neighborhood name swapped in, the same as that company's Bronxdale, Mott Haven and other pages. The facts below are what can make your page different.
+- Don't use Park Plaza Apartments on this page. It is a famous Art Deco landmark, but it's at 1005 Jerome Avenue and West 164th Street, far south of Jerome Park. — https://en.wikipedia.org/wiki/Park_Plaza_Apartments_(Bronx)
+- Sources disagree on the boundaries. One says Jerome Park is bounded by Mosholu Parkway to the northeast, the Grand Concourse to the east, Bedford Park Boulevard to the south, and the Jerome Park Reservoir to the west — https://cityneighborhoods.nyc/jerome-park . Another says Jerome Park includes the Van Cortlandt Village, the Kingsbridge Heights Village, and Norwood. — https://roomiapp.com/blog/us/apartment-hacks/rooms-for-rent-in-jerome-park
+
+**Intercom-specific facts: rules, enforcement, local building conditions**
+- Tracey Towers had an intercom problem. Residents complained that the intercom in the building was not working to buzz people in from an apartment when they were expecting visitors rather than having to leave the door open downstairs for anyone to enter. Management's PR firm answered: "The current intercom system is wired 'in series,' and this is outdated." — https://www.norwoodnews.org/update-tracey-towers-management-department-of-buildings-dispute-dob-violations-status/
+- Tracey Towers residents also complained that the intercom didn't work in the elevators and that if there was an emergency, they couldn't speak to security. — same URL
+- About Tracey Towers: two towers, the 41-story Tracey Towers Apartments 1 and the 38-story Tracey Towers Apartments 2, at 20 and 40 West Mosholu Parkway South. — https://www.paulrudolph.institute/tracey-towers
+- The two towers have entrances at different heights. One tower is over the tracks, the other one on virgin territory, placing the entrances to the two towers at different elevations. — same URL
+- 871 affordable one-, two-, and three-bedroom apartments developed under New York State's Mitchell-Lama program (a secondary source, Grokipedia). — https://grokipedia.com/page/Tracey_Towers
+- Developer DeMatteis lists the towers as (2) 42-Story Towers, Year Built: 1974. Sources disagree on floor counts and dates. — https://www.dematteisorg.com/projects_list/tracey-towers/
+- Co-op buildings on Mosholu Parkway already have video intercoms. At 340 E Mosholu Parkway S, a 1937 co-op with 6 stories and 56 units, security is a priority… with a video intercom system and security cameras monitoring the entrance and common areas. — https://www.homes.com/building/340-e-mosholu-n-bronx-ny/b-bqkv65xcjy222/ ; https://streeteasy.com/building/340-e-mosholu-parkway-s-bronx
+- 190 E Mosholu Pkwy S is a charming Art Deco building right on Mosholu Parkway, built in 1939, and its listing names video cameras as security. — https://www.homes.com/property/190-e-mosholu-pkwy-s-bronx-ny-unit-3h/2jvfn0rnlne6e/
+- Several new buildings are coming. These are the most likely places to install new IP or video intercoms:
+  - Permits have been filed for an eight-story residential building at 233 East 202nd Street
+  - 3377 Sedgwick Avenue: the structure yields 30 residences
+  - 234 East 203rd Street: 22 residences
+  - 2850 Webster Avenue: affordable senior housing
+  - Source: https://newyorkyimby.com/neighborhoods/jerome-park
+- 2895 Valentine Avenue was filed with the Department of Buildings (DOB) as a nine-story building. The building will have 62 residences. That filing is about five years old, and I didn't check its current status. — https://www.norwoodnews.org/jerome-park-building-applications-filed-with-dob-for-2895-valentine-avenue/
+- State law (MDL 50-a): The intercom requirement attaches at eight. The self-closing, self-locking door requirement applies regardless of unit count. (from an installer's site) — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Buildings without an intercom can be required to get one. Where tenants occupying a majority of all the apartments request or consent in writing, the owner is obligated to install the doors and the intercom system. — same URL
+- Violation class: A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — same URL
+- HPD's own repair deadlines: CLASS B (hazardous) - 30 days… CLASS C self-closing door - 14 Days. — https://www.nyc.gov/site/hpd/services-and-information/report-a-maintenance-issue.page
+- How enforcement starts: Tenant complaints filed through 311 trigger HPD inspections. Also, a system where some apartments work and others do not constitutes a violation. (from an installer's blog) — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Fines: that installer blog says Class B intercom violations carry fines of $250 to $500 per day until corrected. I didn't confirm this on an HPD page. — same URL
+- Fire code: Any access control configuration that impedes interior egress violates NYC fire code. — same URL
+- HPD's proactive self-closing door program found 3,151 self-closing door violations in FY24. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf
+- Nearby crime tied to lobby entry: in Bedford Park, a robber was seen on surveillance video going into an apartment building on Bainbridge Avenue after apparently following a female resident. Neighbors said residents must think twice about who they let into their building. — https://www.cbsnews.com/newyork/news/bedford-park-residents-remain-worried-with-robbery-spree-suspect-still-at-large/
+- Package theft next door: A package thief was caught on camera swiping deliveries from a Bedford Park building. Residents say it's not the first time. — https://bronx.news12.com/exclusive-bedford-park-package-theft-caught-on-camera
+- On the Grand Concourse nearby (Norwood News, 52nd Precinct coverage), tenants explained that some keys not only fit the front door to the building but to other apartments. That's an argument for fob or credential entry. — https://www.norwoodnews.org/history-of-crime-in-grand-concourse-building-coming-from-within/
+- The reservoir got its own security upgrade. A $15.7 million upgrade to the reservoir in February 2022 "to rehabilitate gatehouses, install new fencing and upgrade security infrastructure". — https://www.norwoodnews.org/dep-jerome-park-reservoir-to-remain-dry-until-2028/
+- Landmarks: the Landmarks Preservation Commission (LPC) list puts the High Pumping Station | July 28, 1981 | Jerome Park and the Kingsbridge Armory (Eighth Regiment Armory) | September 24, 1974 | Jerome Park in Jerome Park. Neither is a residential intercom job. I found no LPC historic district covering Jerome Park's apartment blocks. The closest are Perry Avenue (Bedford Park) and the Grand Concourse district further south. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- HPD violation counts, 311 intercom complaint counts, or DOB intercom permits for Jerome Park addresses: EMPTY. I couldn't query NYC Open Data or HPDONLINE.
+
+**History and development**
+- Leonard Jerome founded the racetrack: In 1866, he established the Jerome Park Racetrack on what is now the reservoir site. — https://cityneighborhoods.nyc/jerome-park
+- Jerome Park Racecourse became the first home of the famous Belmont Stakes horse race, until 1890. To attract the wealthy to the racecourse, Leonard Jerome built what is today Jerome Avenue. — https://en.wikipedia.org/wiki/Bedford_Park,_Bronx
+- In 1890, Jerome Park Racecourse was sold. Construction was started to convert it into the Jerome Park Reservoir. The reservoir was built in 1906. — same URL; https://en.wikipedia.org/wiki/Kingsbridge_Heights,_Bronx
+- The neighborhood is named after Leonard W. Jerome, grandfather of Winston Churchill. — https://maps.apple.com/place?place-id=IBD1AACD66227D800
+- Apartment-building boom: The extension of the IRT Jerome Avenue Line (1917) brought transit access, encouraging the construction of five- and six-story apartment buildings in elegant Art Deco and Tudor Revival styles. — https://cityneighborhoods.nyc/jerome-park
+- Mosholu Parkway station opened on April 15, 1918. — https://en.wikipedia.org/wiki/Mosholu_Parkway_station
+- West of the reservoir, the curving Orloff Avenue, Cannon, Stevenson and Giles places, were laid out by Frederick Law Olmstead. — https://forgotten-ny.com/2009/08/forgottentour-37-around-jerome-park-reservoir-bronx/
+- Jerome Park belongs to Community District 7, which includes Bedford Park, Jerome Park, Fordham, Kingsbridge Heights and Norwood. — https://en.wikipedia.org/wiki/Bedford_Park,_Bronx
+
+**Main streets and commercial corridors**
+- Jerome Avenue: As Jerome passes Lehman College, Bedford Park Boulevard (200th Street) intersects. Jerome Avenue then crosses the Mosholu Parkway on an overpass. — https://en.wikipedia.org/wiki/Jerome_Avenue
+- Sedgwick Avenue runs near the west and north sides of the Jerome Park Reservoir. — https://en.wikipedia.org/wiki/Sedgwick_Avenue
+- Goulden Avenue runs between the reservoir and the schools. The park sits at Goulden Av bet. W 205 St and Sedgwick Av. — https://www.nycgovparks.org/parks/jerome-park
+- Grand Concourse: lined with elegant Art Deco apartment houses. — https://cityneighborhoods.nyc/jerome-park
+- Ground-floor shops: Some of the bottom floors of the neighborhood's multifamily buildings are home to local businesses, services, shops and eateries. These mixed-use buildings need a separate commercial entry next to the residential intercom. — https://www.homes.com/local-guide/bronx-ny/jerome-park-neighborhood/
+- Jerome Avenue rezoning: developers will also be required to set aside at least 25 percent of their new units for affordable housing. — https://www.norwoodnews.org/jerome-avenue-approved-for-massive-rezoning/
+
+**Building stock**
+- Jerome Park in the Bronx, New York, is full of postwar tenement buildings and a mix of co-ops, rowhouses and Italian Renaissance brownstones. — https://www.homes.com/bronx-ny/jerome-park-neighborhood/
+- On Villa Avenue, many of its original homes have been demolished in favor of postwar tenement buildings, there are a few slatted Italianate rowhouses left. — https://www.homes.com/bronx-ny/neighborhood/jerome-park/
+- most of the structures in the area are pre-war courtyard buildings. Courtyard layouts often mean a gate plus a lobby door, so two entry points. — https://roomiapp.com/blog/us/apartment-hacks/rooms-for-rent-in-jerome-park
+- Renters: 87.8% of residents renting and 12.2% of residents owning their home. — https://www.homes.com/bronx-ny/jerome-park-neighborhood/
+- Small homes exist too: Alongside the six-story apartments, you'll also find a small selection of duplexes and single-family homes. — https://metropolismoving.com/blog/bronx-neighborhoods/
+
+**Parks, landmarks, what it's known for**
+- Jerome Park is located next to the Jerome Park Reservoir and between the Bronx High School of Science and Lehman College. — https://www.nycgovparks.org/parks/jerome-park
+- DeWitt Clinton High School is housed in a magnificent neo-Classic campus built in 1929 at the northeast end of Jerome Park Reservoir. — https://forgotten-ny.com/2009/08/forgottentour-37-around-jerome-park-reservoir-bronx/
+- The reservoir has a 1.5-mile paved path around the reservoir and connects to the Mosholu Parkway Greenway and Van Cortlandt Park. — https://www.homes.com/bronx-ny/jerome-park-neighborhood/
+- DEP: Jerome Park Reservoir to Remain Dry until 2028 — https://www.norwoodnews.org/dep-jerome-park-reservoir-to-remain-dry-until-2028/
+- The Jerome Park NYPL branch is at 118 Eames Place. — https://en.wikipedia.org/wiki/Kingsbridge_Heights,_Bronx
+- Tracey Towers is known locally as "Little Ghana." (secondary source) — https://grokipedia.com/page/Tracey_Towers
+
+**Hyperlocal outlets**
+- Norwood News, the main local paper, has closed: In August 2026, the paper ceased. Its archive is still the best source for this area. — https://en.wikipedia.org/wiki/Norwood_News
+- Patch Jerome Park: EMPTY. BKReader covers Brooklyn, so it doesn't apply. Bronx Times intercom articles about Jerome Park: EMPTY.
+
+**Yelp (nearby intercom companies)**
+- Complaint, Citywide Intercom Service (Katonah Ave, Woodlawn): a bell that was working fine before they broke it while fixing someone else's. — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Mixed review, Jordan Intercom Systems (W 231st St): the reviewer waited through the four hour window I was given and a few days of living without a buzzer, but the job got done. Their benefit: no more climbing four flights of stairs to let visitors in. — https://www.yelp.com/biz/jordan-intercom-systems-bronx
+- Praise, Atlantic Intercoms: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts…" — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+
+**Cost benchmarks (installer and vendor sources)**
+- Installing an intercom system in an NYC apartment building ranges from about $500 to $5,000 or possibly more for large properties. — https://butterflymx.com/blog/intercom-installers-nyc/
+- Apartment buildings $1,200–$4,500+. (the competing Abstract page) — https://www.abstract
+
+## Locust Point, Bronx — /intercom-installation-locust-point-bronx-ny (factory research, 2026-11-01)
+
+**Notes before using this:** (1) Several "Locust Point" results were about **Baltimore, MD** (mylocustpoint.org, Latrobe Park, Francis Scott Key Elementary, Niche Baltimore). I left them all out. (2) My search tool returns web results only. It does not show Google's People Also Ask boxes, related-search panels, Bing or DuckDuckGo results, or AnswerThePublic output, so those fields are EMPTY below. (3) I didn't pull address-level HPD, 311, DOB or LPC records. Those are EMPTY too, and only the legal rules that apply are listed.
+
+### Intercom facts specific to Locust Point
+- Most buildings are houses, not apartment buildings. The area has single-family houses, populated by ethnically Irish, German, and Italian families. NeighborhoodScout says housing is primarily made up of small (studio to two bedroom) to medium sized (three or four bedroom) single-family homes and small apartment buildings — https://wikimapia.org/3863200/Locust-Point ; https://www.neighborhoodscout.com/ny/bronx/locust-point
+- Bungalows are the main house type: Many of its houses are still one- and two-story bungalows, though new construction and renovations have introduced more modern designs. — https://cityneighborhoods.nyc/locust-point
+- Many houses have a second entrance, which matters for a two-doorbell or two-household intercom. One listing describes a lower level, with its separate entrance, offers fantastic versatility, featuring a family room, additional bedroom, full bathroom and a laundry room — https://www.coldwellbanker.com/ny/bronx/4408-locust-point-dr/lid-P00800000H0R0iiB2sd2Bb0j7owhQG9uX9NyjGkQ
+- Downstairs rental units exist. After Sandy, one resident's downstairs rental apartment in Locust Point, just below the Throgs Neck Bridge flooded — https://bxtimes.com/stories/2012/49/49_storm_2012_12_06_bx.html
+- Wiring can be very old. Example build years: 4408 Locust Point Dr, Bronx, NY is a single family home that contains 1,764 sq ft and was built in 1915. Another home was built in 1930 and last sold on 2018-09-19 for $550,000. — https://www.zillow.com/homedetails/4408-Locust-Point-Dr-Bronx-NY-10465/29847373_zpid/ ; https://www.zillow.com/homedetails/4366-Locust-Point-Dr-Bronx-NY-10465/29847270_zpid/
+- Housing age by decade (city-data): 100 1950 to 1959 - 41 1940 to 1949 - 90 1939 or earlier — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html
+- Flood risk affects where equipment goes. In Sandy, water came over the seawall behind houses on the south side of the block, flooding local streets, basements and ground floors of homes there. One tenant said With three feet of water flooding in, she said everything – walls, floors – had to be replaced "from scratch." — https://bxtimes.com/stories/2012/49/49_storm_2012_12_06_bx.html
+  - Implication (my inference, not from a source): put power supplies and indoor stations above basement and flood level.
+- Minor flooding still happens. The National Weather Service records Locust Point, Bronx – 1 ft of inundation on Chaffee Avenue along Hammond Creek (1/23/2016) — https://www.weather.gov/media/okx/coastalflood/Kings%20Point%20impacts.pdf
+- Flood-zone change: the civic association president said her mortgage company told her she has gone from a Zone B to a prime Zone A flood zone — https://www.bxtimes.com/bronxites-brace-for-new-flood-zone-maps-to-be-released-by-fema/
+- The city's intercom law probably doesn't apply to most homes here. If this type of building contains eight or more apartments it must also have a two-way voice intercom system from each apartment to the front door. For older buildings, a majority of apartments has to request it: Multiple dwellings built or converted to such use prior to January 1, 1968 also must have self-locking doors and a two-way intercom system if requested by a majority of all the apartments. — https://ag.ny.gov/publications/residential-tenants-rights-guide
+  - Implication: in 1–2 family homes, an intercom is something the owner chooses, not an HPD requirement.
+- Vendor sources disagree on the threshold. One claims New York's Multiple Dwelling Law §50 requires a functioning intercom or bell system in Class A multiple dwellings (three or more residential units). That conflicts with the AG's 8+ apartment rule above. Check before publishing — https://senecasecurity.com/glossary/multi-tenant-intercom/
+- Permits: a competitor says Low-voltage intercom wiring generally does not require a DOB permit in NYC. Another source says certain intercom and low-voltage work requires a licensed contractor to pull a permit. These are vendor claims, not DOB guidance — https://www.abstractenterprisessecuritysystems.com/intercom-installation-queens-new-york ; https://www.paragonsecurityny.com/blog/2026/july/how-nyc-building-managers-choose-a-commercial-in/
+- A competitor already has a Locust Point page. It mentions the one- and two-story bungalows that line Locust Point Drive, Pennyfield Avenue, Schley Avenue, and Longstreet Avenue. It also says The cooperative bungalow homes run Ring, Nest, Eufy, or Arlo smart video doorbells. I found nothing confirming Locust Point is a co-op; don't repeat that claim — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-locust-point-bronx-ny
+- Local security context (45th Precinct, 2026): an officer posted on Nextdoor that After several complaints were filed for burglary, moped theft, and basic package theft, police caught the suspect, even caught him in the act of more larcenies of packages from a nearby building! — https://nextdoor.com/resources/crime-and-safety/throggsneck--bronx--ny/
+- 45th Precinct CompStat (week of 9/28–10/4/2026): burglary year-to-date is 87 in 2026 vs. 93 in 2025 -6.5% — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-045pct.pdf
+- SpotCrime logged Theft 08/07/2026 11:00 AM 2800 BLOCK OF SCHLEY AVE — https://spotcrime.com/NY/Bronx/Throggs%20Neck
+- Past local news on an unsecured building: "The house isn't secure," said Jerry Landi, vice president of the Locust Point Civic Association. This was about a vacant house at 3177 Glennon Place (2008) — https://www.bxtimes.com/unsold-locust-point-eyesore-targeted-by-vandals/
+- Getting in and out (affects scheduling): one politician described the Locust Point Community which has one entrance/exit and called the traffic intolerable — https://www.bxtimes.com/locust-grove-residents-petition-to-close-busy-expressway-entrance/
+- HPD violations for Locust Point addresses: EMPTY
+- 311 intercom complaints for Locust Point: EMPTY
+- DOB intercom or low-voltage permits for Locust Point: EMPTY
+- LPC historic district or landmark rules in Locust Point: EMPTY (none found; not confirmed that none exist)
+- Local news specifically about intercoms in Locust Point: EMPTY
+- Reddit threads about intercoms in Locust Point: EMPTY
+
+### History and development
+- Locust Point (also Pirate Cove) is a small, peninsular neighborhood in the southeastern portion of the New York City borough of the Bronx. It is in Bronx Community District 10 — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- It used to be an island. Locust Point, Bronx used to be an island called Locust Island, however, the waterway that separated it from mainland Bronx was filled in and built upon. Part of the landfill was for the bridge's northern ramp and toll plaza. Before it was Locust Island, it was called Wrights Island because it was owned by Captain J.T Wright. — http://wikimapia.org/3863200/Locust-Point
+- 19th century: Locust Point became known for its small boatyards and wharves. — https://cityneighborhoods.nyc/locust-point
+- Neighborhood formed in the 1920s–30s: Locust Point's modern identity coalesced during the 1920s and 1930s, when the land was subdivided for residential use and small bungalows began replacing the older farms. I found no source naming who built it — https://cityneighborhoods.nyc/locust-point
+- The bridge reshaped it: The most dramatic change came with the construction of the Throgs Neck Bridge (1957–1961). — https://cityneighborhoods.nyc/locust-point
+- The bridge Opened on January 11, 1961 — https://en.wikipedia.org/wiki/Throgs_Neck_Bridge
+- The MTA lists the residential communities of Throgs Neck and Locust Point and the S.U.N.Y. Maritime College as the bridge's Bronx neighbors — https://www.mta.info/agency/bridges-and-tunnels/throgs-neck-bridge
+- 1960s–80s: it remained one of the Bronx's most stable waterfront enclaves. The Locust Point Civic Association, formed during this period, became a powerful voice in defending the neighborhood from overdevelopment — https://cityneighborhoods.nyc/locust-point
+
+### Streets, corridors and building stock
+- Boundaries: It is bounded by Harding Avenue on the north, the Throgs Neck Bridge to the east, and Eastchester Bay. — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- Streets: Locust Point Drive and Pennyfield Avenue wind through its compact grid, terminating in cul-de-sacs that end in seawalls or small inlets. — https://cityneighborhoods.nyc/locust-point
+- Other blocks: Tierney Place, where the civic association has its 3300 Tierney Place waterfront clubhouse. Redfin's Locust Point sales also include Glennon Pl and Fearn Pl — https://www.bxtimes.com/locust-point-civic-associations-labor-day-extravaganza/ ; https://www.redfin.com/neighborhood/31305/NY/New-York/Locust-Point/housing-market
+- Commercial corridor: the civic association canvasses East Tremont Avenue merchants for its fair (Volunteers will soon be canvassing Tremont Avenue.). No commercial strip inside Locust Point itself was found — https://www.bxtimes.com/locust-point-civic-association-2/
+- Lot size: Lot Size: 2,500 SF / 25' x 100' (4400 Locust Point Dr) — https://www.compass.com/homedetails/4400-Locust-Point-Dr-Bronx-NY-10465/206Q4H_pid/
+- Prices: a 2026 Redfin sale lists a SOLD MAR 11, 2026 $1,368,000 Last Sold Price 6 beds 4 baths 3,000 sq ft (3239 Tierney Pl) — https://www.redfin.com/neighborhood/31305/NY/New-York/Locust-Point/housing-market
+- Population figures disagree: city-data gives Population: 1,409, Weichert gives Total: 2,536 — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html ; https://www.weichert.com/search/community/neighborhood.aspx?hood=5335
+- Rowhouses, walk-ups, co-ops, high-rises: EMPTY (none found)
+- Landmark districts: EMPTY
+
+### Parks, landmarks and what it's known for
+- The Locust Point Yacht Club is located at the end of Longstreet Avenue and occupies the outermost block before Eastchester Bay. The fishing pier here is a popular spot for fishermen. — https://www.openwaterdata.com/site/locust-point-yacht-club
+- Community center: a listing describes the Locust Point Community Center, offering access to a private beach, recreation area, and event space — https://www.coldwellbanker.com/ny/bronx/4408-locust-point-dr/lid-P00800000H0R0iiB2sd2Bb0j7owhQG9uX9NyjGkQ
+- The civic center was rebuilt after Sandy. The councilmember said "This is a city-owned building, and because it was a city-owned building leased to the Locust Point Civic, we were able to get approximately $300,000 of the city's Sandy money to rebuild almost from the foundation up," — https://www.bxtimes.com/locust-point-center-reopens/
+- Famous former resident: Michael Kay, the Yankees TV broadcaster on the YES Network — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- What neighbors like: Nextdoor lists atmosphere, birds, clean, houses, location, peaceful, pleasant, quiet, trees, and view — https://nextdoor.com/neighborhood/silverbeachlocustpoint--bronx--ny/
+
+### Recent local news (security, home tech, entry systems)
+- 2026 burglary and package-theft posts from the 45th Precinct on Nextdoor (above) — https://nextdoor.com/neighborhood/throggsneck--bronx--ny/
+- Nearby home invasion: The terrifying incident occurred on Sept. 2 at around 12:50 a.m. near Graff and Schurz Avenues in Throggs Neck, police said. — https://www.bxtimes.com/home-invasion-pervert-breaks-into-78-year-old-womans-throggs-neck-home-exposes-himself/
+- Local outlet change: Norwood News stopped publishing (In August 2026, the paper ceased.) — https://en.wikipedia.org/wiki/Norwood_News
+- Patch or BKReader coverage of Locust Point: EMPTY
+
+### Questions people ask — Intercom Installation in Locust Point
+- Google People Also Ask for "intercom installation Locust Point" or "intercom installation Bronx": EMPTY (not visible to my tool)
+- Google People Also Search For / related searches: EMPTY
+- AnswerThePublic-style fan-out: EMPTY
+- Bing-only questions: EMPTY
+- DuckDuckGo-only questions: EMPTY
+- Reddit questions (r/Bronx, r/AskNYC, r/homesecurity): EMPTY. No relevant threads came up.
+
+The questions below are real, but they come from competitor and vendor FAQ headings, not from PAA. I've labeled each one so you know where it came from.
+- "Do you need a permit for intercom installation in Bronx?" — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-ny
+- "Do you serve all Bronx neighborhoods for intercom installation?" — competitor FAQ — same URL
+- "How much does intercom installation cost in Bronx?" — competitor FAQ — same URL
+- "Is there a monthly fee for the intercom system?" — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-nyc
+- "Can you install intercom systems in occupied apartment buildings without disrupting tenants?" — competitor FAQ — same URL
+- "What Affects the Cost of an Apartment Intercom System With Door Release in NYC?" — vendor guide — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- "Is a multi-tenant intercom legally required in my NYC building?" — vendor FAQ — https://senecasecurity.com/glossary/multi-tenant-intercom/
+- "What's the Difference Between a Door Buzzer and an Intercom?" — vendor blog — https://www.intercomrepairny.com/blog/archives/01-2026
+- "What to Do With Your Old Home Intercom: Remove, Repair, or Retrofit?" — vendor blog — same URL
+- "When Should You Upgrade From a Buzzer to a Video Intercom?" — vendor blog — https://swiftlane.com/blog/smart-apartment-buzzer/
+- "What did people search for similar to intercom systems in Bronx, NY?" — Yelp related-search module (the module heading only; its contents weren't returned) — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+
+**Yelp complaints and praise (Bronx intercom companies, none in Locust Point):**
+- Complaint about no-shows: I literally have had to take time off work on more than 5 different days so they could come — Yelp — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Complaint about scheduling: a four hour window I was given and a few days of living without a buzzer until my appointment — Yelp — https://www.yelp.com/biz/jordan-intercom-systems-bronx
+- Praise: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts, and..." — Yelp — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+
+**Cost benchmarks seen (vendor figures, useful for answering cost questions):**
+- A basic audio door buzzer for a single-family home or small building runs $400–$900 installed. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-nyc
+- Most common intercom and buzzer repairs are a $150–$250 flat rate with a
+
+## Manhattan Beach, Brooklyn — /intercom-installation-manhattan-beach-brooklyn-ny (factory research, 2026-11-01)
+
+**Intercom-specific findings (most important)**
+
+- **Housing mix:** Mostly detached single-family houses, with a few apartment buildings. Although most of the choices are single-family detached houses, there are some attached and semi-detached options as well as a handful of condos. So most jobs here will be front-door or gate video stations for one house, not lobby panels. — https://www.brickunderground.com/buy/buy-curious-manhattan-beach-south-brooklyn-waterfront-exclusive-housing-pricing
+- **Where the apartments are:** Rental apartments are located in a single block, which is the one used to enter the community. — same URL
+- **150 West End Ave (co-op, possible multi-unit target):** Completed in 1951, this six-story co-op building houses 96 units. A rental listing names "Intercom" as a feature . Note: homes.com puts this building in the "Brighton Beach Neighborhood," so the boundary label is unclear. — https://www.homes.com/building/150-w-end-ave-brooklyn-ny/b-7j71f7c8cj65v/ ; https://www.apartments.com/150-west-end-ave-brooklyn-ny/m8znf7j/
+- **2 West End Ave (co-op):** 121 Units, 7 Stories, 1953 Year Built. A listing calls it a Luxury Dorman Elevator Building (spelling as in the listing). Sources disagree on height: Coldwell Banker says a 6-story building. — https://www.homes.com/building/2-w-end-ave-brooklyn-ny/b-9k4hsewt4tkgx/ ; https://www.compass.com/listing/2-west-end-avenue-unit-2v-brooklyn-ny-11235/1536388892550901273/ ; https://www.coldwellbanker.com/ny/brooklyn/2-w-end-ave-apt-5p/lid-P00800000H7y2HWKevfetUvCBwymLBeV5h2K1qSB
+- **65 West End Ave "The Terraces" (7-unit condo, already has a virtual doorman):** The listing describes a lavish lobby with virtual doorman, Video security in the common area and parking areas, covered parking and rooftop lounge. With 7 units it is below the 8-unit threshold in MDL §50-a. — https://streeteasy.com/building/the-terraces-65-west-end-avenue-brooklyn/301
+- **35 West End Ave (newer condo):** a six story, 24 unit condominium completed in 2013. — https://www.cityrealty.com/nyc/manhattan-beach/35-west-end-avenue/75535
+- **Mixed-use buildings on West End Ave (storefront plus homes):** 89 West End Avenue was built in 1927 and has 2 stories and 3 units, and 181 West End Ave is built in 1930 and has 2 stories and 3 units. These could need separate entries for the shop and the apartments. — https://streeteasy.com/building/89-west-end-avenue-brooklyn ; https://streeteasy.com/building/181-west-end-avenue-brooklyn
+- **Flood zone, which affects wiring and outdoor hardware:** StreetEasy lists Oriental Blvd and West End Ave buildings in Hurricane evacuation zone: Zone 1. — https://streeteasy.com/building/1607-oriental-boulevard-brooklyn
+- **Sandy damage:** "Every house was flooded," Ira Zaltman, president of the Manhattan Beach Community Group, recalls. Damage to these homes ranged from one foot of water to total destruction. — https://citylimits.org/institutions-hit-hard-in-manhattan-beach/
+- **Waves through the neighborhood:** Sandy pushed eight-foot-high waves through the Brooklyn neighborhood of Manhattan Beach. — https://forward.com/news/165193/sandy-wreaks-untold-havoc-on-jewish-communities/
+- **Wiring in basements failed (nearby example):** After Sandy in Gerritsen Beach, for homes that had electricity boxes and other critical wiring in the basement, the damage was particularly acute. This supports putting power supplies and controllers above flood level. — https://www.pressreader.com/usa/new-york-daily-news/20161030/282711931580253
+- **Smaller recurring floods:** The National Weather Service logs Manhattan Beach – Minor Flooding on Shore Blvd and Amherst St. — https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf
+- **Salt corrosion (contractor claim, not independent):** A restoration company says Sandy left long-term wood-rot and salt-corrosion damage and places the shoreline in high-velocity Zone VE and Zone AE. — https://www.gogreenrestoration.com/brooklyn-flood-storm-damage
+- **Private security patrols go back decades:** In 1977, Manhattan Beach families contributed $100 a year to hire the Pinkerton Agency to surveil the neighborhood. — https://www.cambridge.org/core/journals/modern-american-history/article/expanding-the-thin-blue-line-resident-patrols-and-private-security-in-late-twentiethcentury-new-york/2345477D511F9B1ADA05505A7209526C
+- **Old local news on the patrol and street cameras (about 18 years old):** The Brooklyn Paper reported a robbery spree that embarrassed the neighborhood's private security force, and a failed effort to persuade residents that installing surveillance cameras throughout their neighborhood was a good idea. — https://www.brooklynpaper.com/beachside-patrol-takes-backseat-questions-about-security-linger-as-feud-continues/
+- **Door-entry angle (fake-utility "deception burglary," same era):** Police warn neighbors in Manhattan Beach to always ask for proper identification if someone shows up at your door, and even call the utility company to check if they have actually sent the inspector out. Cameras were proposed at the corner of West End Avenue and Oriental Boulevard and Shore Boulevard and Exeter Street. — https://www.brooklynpaper.com/crime-and-surveillance-manhattan-beach-thievery-revives-plan-for-security-cameras/
+- **Recent news about older residents:** A SILVER ALERT has been issued for Kim Wong, 98, who was last seen near Cass Place and Shore Boulevard in Manhattan Beach. (April 2, 2026). Niche notes Many retirees live in Manhattan Beach. This could support an angle about video intercoms for aging-in-place households. — https://brooklyneagle.com/neighborhood/manhattan-beach/ ; https://www.niche.com/places-to-live/n/manhattan-beach-new-york-city-ny/
+- **State intercom law (MDL §50-a):** A building with eight or more apartments it must also have a two-way voice intercom system from each apartment to the front door and tenants must be able to "buzz" open the entrance door. For buildings built before 1968, intercoms are required if requested by a majority of all the apartments. This applies to the 96-unit and 121-unit West End Ave co-ops, but not to most of the neighborhood's houses. — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- **HPD enforcement (vendor claim):** A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Co-op boards must repair:** The city's housing maintenance code also requires a functioning intercom. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- **311 is slow:** One renter waited three months for a city inspector to respond to her 311 complaint about her building's malfunctioning intercom system. — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- **Installer licensing (NY Article 6-D):** A state license covers electrical entry systems which detect and/or provide notification of intrusion, break-in, theft, movement, sound, or fire regardless of the number of entry points. — https://www.nsca.org/resources/guide-to-state-licensing/
+- **DOB permits (press-release claim, not official):** Most low-voltage security installations — cameras, intercoms, access control — don't require a building permit in New York City, but electrical work above low-voltage thresholds does. — https://www.einpresswire.com/article/929027740/what-nyc-property-owners-need-to-know-before-upgrading-their-building-security-system
+- **Landmarks (LPC):** I found no historic district covering Manhattan Beach. The only LPC match was the Coney Island Boardwalk scenic landmark report, which says Proposals to extend the boardwalk east into Manhattan Beach were opposed by property owners. Check individual addresses on the LPC map before claiming "no LPC review." — https://a860-gpp.nyc.gov/downloads/rb68xc58h?locale=en ; https://www.nyc.gov/site/lpc/designations/maps.page
+- **Competitor page for this exact keyword:** Abstract Enterprises already ranks with a keyword-heavy page. It quotes two different price sets on the same page: Audio intercom systems start around $900. Video intercom $1,200–$3,500+. versus Audio intercom starts $400-$900. Video intercom $700-$1,500. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-manhattan-beach-brooklyn-ny
+- **NYC cost reference:** Residential home installs in Manhattan and New York City are often quoted around 720–1,600 dollars per system. Adding an electric strike usually adds $250 to $800. — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- **HPD violation, 311 complaint, and DOB permit counts for Manhattan Beach addresses:** EMPTY (not found by search; pull from HPD Online, DOB BIS/NOW, or NYC Open Data).
+
+**History and development**
+
+- **Founding:** Manhattan Beach was created by real estate developer Austin Corbin (1827-1896) in 1877 as a self-contained summer resort on 500 acres of salt marsh, the eastern peninsula of what was once Coney Island. — https://www.nycgovparks.org/parks/manhattan-beach-park/history
+- **Before Corbin:** The area was known as Sedge Bank, a farming section of what was later Coney Island and part of the original English town of Gravesend. — https://brooklynreporter.com/nabetags/manhattan-beach/
+- **The hotels:** In 1877, Corbin built the famous Manhattan Beach Hotel, followed by the grander Oriental Hotel in 1880. — https://www.ny-bankruptcy.com/manhattan-beach_brooklyn/
+- **Hotels torn down:** The Manhattan Beach Hotel was demolished in 1911. The Oriental followed in 1916. — https://maidmarines.com/brooklyn/manhattan-beach
+- **Houses built:** Realtor Joseph Day, who had bought out Corbin in 1908, divided the land north of the old hotels into building lots. Parks says Residential development began in the area in 1907. — https://brooklynreporter.com/nabetags/manhattan-beach/ ; https://www.nycgovparks.org/parks/manhattan-beach-park/history
+- **Exclusion and the street renaming:** Austin Corbin had restricted Jewish guests at his hotel and enacted covenants to prevent Jews from buying real estate in the area. After his death, the policy was canceled, and the neighborhood subsequently attracted many Jewish residents. The boundary street was renamed M. Corbin Place in 2007 in honor of American Revolutionary War patriot Margaret Corbin. — https://www.ny-bankruptcy.com/manhattan-beach_brooklyn/
+- **Military use:** The land on this site was originally acquired by the Federal Government in 1942 for a Coast Guard and Maritime Training Station. It was turned over to the City for park purposes in 1951. From 1954 to 1959, the neighborhood was home to Manhattan Beach Air Force Station. — https://www.nycgovparks.org/parks/manhattan-beach-park/history ; https://en.wikipedia.org/wiki/Manhattan_Beach,_Brooklyn
+
+**Streets, buildings, and landmarks**
+
+- **Street layout:** The streets are arranged in alphabetical order from Amherst to Pembroke and named after places in England. — https://www.nycgovparks.org/parks/manhattan-beach-park/history
+- **Main roads:** A grid of Oriental Boulevard, Amherst Street, Exeter Street, and Shore Boulevard radiates outward toward the beach and bay. — https://cityneighborhoods.nyc/manhattan-beach
+- **Building styles:** The community has a mix of housing that includes 1920s and 1930s houses in traditional European styles, notably Tudor, and some more modern structures. — https://www.brickunderground.com/buy/buy-curious-manhattan-beach-south-brooklyn-waterfront-exclusive-housing-pricing
+- **Examples on Oriental Blvd:** 819 Oriental Blvd was built in 1925 and has 3 stories and 1 unit. 1317 Oriental Blvd was built in 1950 and has 2 stories and 1 unit. — https://streeteasy.com/building/819-oriental-boulevard-brooklyn ; https://streeteasy.com/building/1317-oriental-boulevard-brooklyn
+- **Lot sizes:** Cape Cod bungalows on the smaller lots, larger two-story brick houses with broad lawns on the blocks closest to Shore Boulevard. — https://maidmarines.com/brooklyn/manhattan-beach
+- **Mansion-scale houses, some with a separate apartment:** 514 Oriental Blvd is a custom 5,000+ sq ft manor on a spacious 8,000 sq ft lot (1 out of only 21in Manhattan Beach), with a separate 2-bedroom apartment. A house like this may need a two-unit or gate-plus-door setup. — https://www.havenlifestyles.com/8-beautiful-homes-in-new-york/
+- **Prices:** Most houses are detached single family and sell for an average of $2 million. — https://www.brickunderground.com/buy/buy-curious-manhattan-beach-south-brooklyn-waterfront-exclusive-housing-pricing
+- **Manhattan Beach Park:** Manhattan Beach Park opened to the public in 1955 to alleviate crowding at neighboring Coney Island and Brighton Beach. — https://www.ny-bankruptcy.com/manhattan-beach_brooklyn/
+- **Kingsborough Community College:** at the eastern end of Manhattan Beach is the seventy-plus-acre Kingsborough Community College. — https://www.ak.team/community/manhattan-beach/
+- **Other institutions:** Kingsborough Community College, the Leon M. Goldstein High School for the Sci
+
+## Mapleton, Brooklyn — /intercom-installation-mapleton-brooklyn-ny (factory research, 2026-11-01)
+
+**How to read this:** I could not see live Google, Bing or DuckDuckGo results pages. That means none of the People Also Ask, People Also Search For or Answer the Public data comes from those engines. The questions at the end come from vendor FAQs, Yelp and other pages, and each one says where it was found. Anything I couldn't find is marked EMPTY.
+
+### Intercom facts specific to Mapleton (most important)
+
+**Building types and what the law requires of each**
+- Most homes in Mapleton are small. The neighborhood consists mostly of one- and two-family brick and clapboard houses, many with porches. This is a 2012 NYT summary. For most homes here, the job is a single-door video doorbell or a 2–3 button panel, not a lobby system. — https://www.brownstoner.com/brooklyn-life/where-is-mapleton-brooklyn/
+- Older apartment buildings and newer condos also exist: Large multi-family brick homes from the 1920s and 30s are found throughout, as well as a few modern mid-rise condo buildings. — https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- Housing styles: Blocks of prewar mid-rises share space with large Queen Anne Victorian homes and brick Greek revival attached rowhouses featuring period details such as dripstone cornices. — https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- Original lots: The farmland was developed as Mapleton Park around 1910, and many of the original dwellings, built on 90-by-100-foot lots, still stand. — https://www.apartments.com/local-guide/mapleton-brooklyn-ny/
+- A new-construction example: Mapleton I Condominium, 2345 60th Street, has 18 units, 7 stories, 2021 built. It is in Community Board 12, Council District 44 and the 66th Precinct. With 8+ units and built after 1968, it falls under the intercom requirement. — https://streeteasy.com/building/mapleton-i-condominium
+- Small new buildings are replacing houses. Three low-rise projects were near completion in January 2026, at 1811–1815 60th St, 1847 61st St and 1821 63rd St. They are ground-up replacements of single-family homes. These are new 2–3 unit entries that need fresh low-voltage wiring. — https://newyorkyimby.com/2026/01/three-low-rise-projects-near-completion-in-mapleton-brooklyn.html
+- More small projects: a three-story, three-unit residential building at 2064 57th Street, and a three-story, two-unit residential building at 2137 58th Street. — https://newyorkyimby.com/neighborhoods/mapleton/page/2
+- A non-residential project: permits were filed for an nine-story community facility building at 4911 19th Avenue. It includes a house of worship, lecture hall, community room, exhibition room, and several floors of business space, so it is a multi-tenant commercial access job. — https://newyorkyimby.com/2024/11/permits-filed-for-4911-19th-avenue-in-mapleton-brooklyn.html
+
+**The law (applies citywide, matters here because of the building mix)**
+- Multiple Dwelling Law §50-a: Every class A multiple dwelling erected or converted after January first, nineteen hundred sixty-eight containing eight or more apartments shall also be equipped with an intercommunication system. — https://codes.findlaw.com/ny/multiple-dwelling-law/mdw-sect-50-a/
+- Older buildings are different, which matters for Mapleton's 1920s–30s stock: Multiple dwellings built or converted to such use prior to January 1, 1968 also must have self-locking doors and a two-way intercom system if requested by a majority of all the apartments. Landlords may recover the cost of providing this equipment from tenants — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- Small buildings: Buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- HPD enforcement: A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Fines and egress (from a vendor): one source says HPD classifies intercom violations and most door lock violations as Class B hazardous, carrying fines of $250 to $500 per day until corrected. It also notes that Any access control configuration that impedes interior egress violates NYC fire code. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Conflicting claim: another vendor calls it an active Class C-style violation, which disagrees with the Class B sources above. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-nyc
+- Habitability: courts have found that intercoms are an essential service and that failing to maintain them is a breach of the all-important warranty of habitability — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- HPD violation counts, 311 intercom complaints or DOB intercom permits for Mapleton addresses: EMPTY. The searches returned no neighborhood-level data. The DOB Brooklyn Permits dataset is Last Updated October 23, 2026 and could be filtered by Community Board 312. — https://data.cityofnewyork.us/Housing-Development/Brooklyn-Permits/gamm-86vh
+- Landmarks (LPC): I found no historic district in Mapleton, but I did not confirm that. The LPC says to use the Discover NYC Landmarks map above to confirm whether a particular property is within the boundaries of a historic district. — https://www.nyc.gov/site/lpc/designations/maps.page
+
+**Sabbath-observant households (a real installation factor here)**
+- The community: the area has historically been home to Italian immigrants as well as Orthodox Jewish and Hasidic residents. — https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- Door hardware matters on Shabbos. A rabbinic Q&A says intercom doors often have a latch that can be moved before Shabbos, which bypasses the door's electric operation. It also says this can be checked by turning off the power to the intercom and lock system and then checking whether the door can be opened manually. — https://dinonline.org/2026/06/15/electric-doors-on-shabbos/
+- Camera entry raises its own issue. The same site rules that if a guard needs the camera in order to see you, then your walking up to the camera... would not be permitted on shabbos. — https://dinonline.org/2017/10/20/guard-opening-electronic-door-on-shabbos/
+- What happens when there's no manual option: one resident wrote that on Shabbos people try to put something in the door that it shouldn't lock. — https://asktherav.com/5402-how-can-i-enter-my-building-on-shabbos-if-the-door-can-only-be-opened-with-an-electric-key/
+- Locks: a Shabbos lock is a fully mechanical push button lock requiring no batteries. — https://www.ampmlock.com/specialty-locks/
+
+**Local businesses and blocks**
+- A-1 Intercom, a Yelp-listed intercom business nearby: 1162 44th St Brooklyn, NY 11219 Borough Park. — https://www.yelp.com/biz/a-1-intercom-brooklyn
+- Lock and Tech USA lists offices at 1112 Quentin Rd, Brooklyn, NY 11229 1619 McDonald Ave, Brooklyn, NY 11230. — https://lockandtech.com/intercoms/
+- A competitor already has a Mapleton entry: Mapleton Intercom installation, video intercom, key fob access. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-new-york
+- Crime data: SpotCrime lists a Theft 04/26/2026 12:00 PM 6400 BLOCK OF 18TH AVE. — https://spotcrime.com/NY/Brooklyn/Borough%20Park
+
+### Neighborhood background
+
+- **History:** Mapleton was originally part of a Dutch town called New Utrecht. — https://www.apartments.com/local-guide/mapleton-brooklyn-ny/
+- **Development:** Mapleton was developed between 1913 and 1919 and was eventually encompassed by its sister neighborhood, Borough Park. — https://brooklyneagle.com/328950/mapleton-history/
+- **Old street grid:** By 1929 it was all but demapped but sections of it were used as driveways. — https://forgotten-ny.com/2020/03/mapleton-brooklyn/
+- **Boundaries (sources disagree):** Wikipedia says bounded by 16th Avenue on the west, Dahill Road on the east, 57th Street on the north, and 65th Street on the south, but another version cites the NYT as using 47th Street on the north. — https://en.wikipedia.org/wiki/Mapleton,_Brooklyn
+- **Name recognition:** Forgotten NY says its good citizens say they're in Borough Park. The page should probably target "Mapleton / Borough Park" together. — https://forgotten-ny.com/2020/03/mapleton-brooklyn/
+- **Population:** Its 27,000 residents include Chinese and other Asians, Orthodox Jews, Italian Americans, Poles, Latinos, Pakistanis and Russians. — https://www.brownstoner.com/brooklyn-life/where-is-mapleton-brooklyn/
+- **20th Avenue signage:** businesses show signs in Arabic, Spanish, Chinese, Russian, Hebrew, Korean and English. That's a reason to offer multilingual directory panels. — https://blogs.baruch.cuny.edu/okkarlla/
+- **18th Avenue:** hosts a Columbus Day parade, the St. Rosalia Feast and the Children's Carnival for Passover and Sukkot, and has Chinese restaurants on 18th Avenue. — https://www.apartments.com/local-guide/mapleton-brooklyn-ny/ ; https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- **McDonald Avenue / F train:** the Bay Parkway station is located on the border of Mapleton and Midwood, Brooklyn at the intersection of Bay Parkway and McDonald Avenue above Washington Cemetery. — https://www.izeria.com/en/places/p-g5qd9pdx/Washington_Cemetery
+- **Washington Cemetery:** Established: 1850 - Location: 5400 Bay Parkway, Mapleton. In December of 2010, some 200 gravestones were overturned in series of vandalizations. — https://en.wikipedia.org/wiki/Washington_Cemetery_(Brooklyn) ; https://urbanarchive.org/city/ny/lo/f7dbef6a-3e23-4908-8e9e-72a1638edb23
+- **Mapleton Library:** the renovation will replace or update critical and major infrastructure: the roof and building facade, the heating and cooling system and the fire prevention and safety systems. The branch is expected to reopen in 2026, and Facebook lists it as "Opening Soon." — https://www.bklynlibrary.org/locations/mapleton ; https://www.boropark24.com/news/mapleton-library-on-60th-street-closes-for-renovations
+- **Parks:** Mapleton Park (also known as Mapleton Oval) at 62nd Street and 20th Avenue, which was completed in 1916. Gravesend Park was renovated in 2016 for $7.25 million. — https://en.wikipedia.org/wiki/Mapleton,_Brooklyn
+- **Known for:** A fixture in Mapleton since 1944, the Silver Star Restaurant, and J & V Pizzeria, which has been serving pies since 1950. — https://www.apartments.com/local-guide/mapleton-brooklyn-ny/ ; https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- **Prices:** a two-story brick house or a large Tudor revival rowhouse might cost $1.8 million. — https://www.homes.com/local-guide/brooklyn-ny/mapleton-neighborhood/
+- **Homeowners association:** the Mapleton Homeowners Association continue to advocate for zoning protections, green spaces, and the preservation of neighborhood character. — https://cityneighborhoods.nyc/mapleton
+- Redfin wrongly calls Mapleton a supremely walkable neighborhood in Queens County. Its boundary also looks too broad, so don't use its data. — https://redfin.com/neighborhood/320103/NY/New-York/Mapleton/condos
+- **Local news on building security or entry systems in Mapleton:** EMPTY.
+- **Local Reddit threads (r/Brooklyn, r/AskNYC) about Mapleton intercoms:** EMPTY.
+- **Patch / BKReader:** EMPTY. Outlets that do cover the area: BoroPark24 (library) and Bklyner (library reading garden, Community Board 12). — https://bklyner.com/mapleton-library-reading-garden-getting-closer-to-becoming-reality/
+
+### Questions people ask — Intercom Installation in Mapleton
+
+- Google PAA: EMPTY (not accessible)
+- Google People Also Search For: EMPTY (not accessible)
+- Answer the Public: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+
+Questions found on other pages:
+- How much does it cost to install an intercom system in New York City? — vendor FAQ — https://butterflymx.com/blog/intercom-installers-nyc/
+- How much does intercom installation cost in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-new-york
+- Do you do intercom work in commercial Brooklyn buildings? — vendor FAQ — same URL
+- What affects the cost of an apartment intercom system with door release in NYC? — vendor FAQ — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- How much does intercom system maintenance cost annually? — vendor FAQ — https://honorsecurity.com/blog/how-much-do-intercom-systems-cost/
+- Is a broken intercom an HPD violation? — vendor FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Does the law require a video intercom? — vendor FAQ — same URL
+- My landlord won't fix the buzzer, what do I do? — vendor page headed "What Sunset Park Residents Are Searching Online" — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-sunset-park-brooklyn-ny
+- Who fixes door buzzers in Brooklyn? — vendor page — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-clinton-hill-brooklyn-ny
+- Who repairs intercom systems in Brooklyn? / Can you repair a lobby intercom panel in Brooklyn? — vendor FAQ — https://www.uasecurity.com/Intercom-Systems-Brooklyn-New-York.htm
+- Can access control stop package theft in my Brooklyn building? — vendor FAQ (Borough Park) — https://www.abstractenterprisessecuritysystems.com/access-control-installation-borough-park-brooklyn-ny
+- How quickly can I schedule installation or repair? — vendor FAQ — https://security-systems.nyc/service/intercom-system-installation/
+- How can I enter my building on Shabbos if the door can only be opened with an electric key? — real user question, rabbinic Q&A site — https://asktherav.com/5402-how-can-i-enter-my-building-on-shabbos-if-the-door-can-only-be-opened-with-an-electric-key/
+- Can I even walk up to the camera [on Shabbos]? — real user question, rabbinic Q&A site — https://dinonline.org/2017/10/20/guard-opening-electronic-door-on-shabbos/
+- Related search "Security Camera Installation" — Yelp, near Borough Park — https://www.yelp.com/search?find_desc=Intercom+System+Services&find_loc=Borough+Park%2C+Brooklyn%2C+NY
+- Yelp complaint: a reviewer of Gambi Electric (Park Slope listing) objected to "disconnecting, dismantling and throwing out a perfectly working exterior intercom panel." — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Park+Slope%2C+Brooklyn%2C+NY+11215
+- Yelp praise: "We have had an old LeeDan intercom for decades and finally with..." and They went the next day to repair my intercom system." — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY
