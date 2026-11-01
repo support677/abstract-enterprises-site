@@ -247,11 +247,11 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
 ### 12.3 Proof numbers, not vague claims (element 33)
 - Never write vague claims ("fast, reliable service," "we help you grow," "trusted by many"). Swap each for a real number.
 - **Approved AESS facts (Anwar, Nov 1 2026):**
-  - In business **since 2018** (Abstract Enterprises Security Systems, Inc.).
+  - **25+ years in security**: Anwar has worked in the industry since 2000 and has owned the business since 2002. The corporation (Abstract Enterprises Security Systems, Inc.) was formed in 2018 — use 2002 for "in business since," never 2018. The existing hero stat "25+ Years Experience" is accurate; keep it.
   - **Thousands of jobs completed** — say "thousands"; do NOT print an exact count until Anwar gives one.
   - **Booked within 2 hours** of a request (booking/response time — never promise same-day installation).
   - **Google reviews:** pull live counts at build time from Local Falcon `listAllLocalFalconLocations` and round DOWN to the nearest 10 with a "+". As of Nov 1 2026: Brooklyn GBP 212 reviews, 4.6★; Bronx GBP 181 reviews, 4.7★ → combined **390+ Google reviews, 4.6★+**. Use the review count of the GBP that page routes to (§8) or the combined figure.
-- Proof strip directly under the hero stats bar: `Since 2018 · Thousands of jobs completed · 390+ Google reviews (4.6★) · Booked within 2 hours`.
+- Proof strip directly under the hero stats bar: `Owner-operated since 2002 · Thousands of jobs completed · 390+ Google reviews (4.6★) · Booked within 2 hours`.
 - Never invent numbers, percentages, guarantees, "24/7," or customer counts. If a number isn't on this list, ask Anwar.
 
 ### 12.4 Internal links to one target page per keyword
