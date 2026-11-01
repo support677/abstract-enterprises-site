@@ -207,7 +207,7 @@ LIVE | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Nec
 LIVE | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | best-security-camera-brands | Comparison hub: Best Security Camera Brands (installer-compared) | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-01T18:15Z max-daily | best-security-camera-brands | Comparison hub: Best Security Camera Brands (installer-compared) | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | lorex-vs-reolink | Comparison: Lorex vs Reolink | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -551,11 +551,11 @@ LIVE | intercom-installation-brighton-beach-brooklyn-ny | Intercom Installation 
 LIVE | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-01T18:15Z max-daily | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-01T18:15Z max-daily | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-01T18:15Z max-daily | intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-01T18:15Z max-daily | intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-01T18:15Z max-daily | intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-cypress-hills-brooklyn-ny | Intercom Installation | Cypress Hills, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-dyker-heights-brooklyn-ny | Intercom Installation | Dyker Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-east-flatbush-brooklyn-ny | Intercom Installation | East Flatbush, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
