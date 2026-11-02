@@ -233,7 +233,7 @@ BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-hudson-valley | Mag L
 TODO | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-bronx | Mag Lock Installation | Bronx | up /mag-lock-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | mag-lock-installation-bronx | Mag Lock Installation | Bronx | up /mag-lock-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | mag-lock-installation-staten-island | Mag Lock Installation | Staten Island | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-nassau-county | Mag Lock Installation | Nassau | up /mag-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | mag-lock-installation-suffolk-county | Mag Lock Installation | Suffolk | up /mag-lock-installation-long-island | (631) 407-2884 | GBP Brooklyn
@@ -566,7 +566,7 @@ LIVE REBUILD | intercom-installation-fort-hamilton-brooklyn-ny | Intercom Instal
 LIVE REBUILD | intercom-installation-fulton-ferry-brooklyn-ny | Intercom Installation | Fulton Ferry, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 HOLD-THIN no intercom demand (0 bldgs with 4+ units, 0 HPD intercom violations; see DAILY-LOG 2026-11-01) | intercom-installation-gerritsen-beach-brooklyn-ny | Intercom Installation | Gerritsen Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-greenwood-heights-brooklyn-ny | Intercom Installation | Greenwood Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-02T06:09Z factory | intercom-installation-highland-park-brooklyn-ny | Intercom Installation | Highland Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+REBUILD | intercom-installation-highland-park-brooklyn-ny | Intercom Installation | Highland Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-homecrest-brooklyn-ny | Intercom Installation | Homecrest, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jerome Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-locust-point-bronx-ny | Intercom Installation | Locust Point, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -580,7 +580,7 @@ LIVE | intercom-installation-mott-haven-bronx-ny | Intercom Installation | Mott 
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-ocean-hill-brooklyn-ny | Intercom Installation | Ocean Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-park-versailles-bronx-ny | Intercom Installation | Park Versailles, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-pelham-bay-bronx-ny | Intercom Installation | Pelham Bay, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | intercom-installation-pelham-gardens-bronx-ny | Intercom Installation | Pelham Gardens, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | intercom-installation-pelham-gardens-bronx-ny | Intercom Installation | Pelham Gardens, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-prospect-heights-brooklyn-ny | Intercom Installation | Prospect Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-remsen-village-brooklyn-ny | Intercom Installation | Remsen Village, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-soundview-bronx-ny | Intercom Installation | Soundview, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
