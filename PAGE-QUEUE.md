@@ -230,11 +230,11 @@ BUILDING 2026-11-02T00:19Z factory | sonos-installation-west-brighton-staten-isl
 BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
 BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-bronx | Mag Lock Installation | Bronx | up /mag-lock-installation-nyc | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-staten-island | Mag Lock Installation | Staten Island | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-staten-island | Mag Lock Installation | Staten Island | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | mag-lock-installation-nassau-county | Mag Lock Installation | Nassau | up /mag-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | mag-lock-installation-suffolk-county | Mag Lock Installation | Suffolk | up /mag-lock-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | mag-lock-installation-westchester-county | Mag Lock Installation | Westchester | up /mag-lock-installation-hudson-valley | (914) 877-2578 | GBP Bronx
@@ -576,7 +576,7 @@ BUILDING 2026-11-02T00:19Z factory | intercom-installation-marine-park-brooklyn-
 LIVE | intercom-installation-mill-basin-brooklyn-ny | Intercom Installation | Mill Basin, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-morris-park-bronx-ny | Intercom Installation | Morris Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-morrisania-bronx-ny | Intercom Installation | Morrisania, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T06:09Z factory | intercom-installation-mott-haven-bronx-ny | Intercom Installation | Mott Haven, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | intercom-installation-mott-haven-bronx-ny | Intercom Installation | Mott Haven, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-ocean-hill-brooklyn-ny | Intercom Installation | Ocean Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-park-versailles-bronx-ny | Intercom Installation | Park Versailles, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T06:09Z factory | intercom-installation-pelham-bay-bronx-ny | Intercom Installation | Pelham Bay, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
