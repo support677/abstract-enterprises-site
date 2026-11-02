@@ -51,3 +51,4 @@ UTC time | cost | summary
 2026-11-01T18:01Z | $0.00 | (factory) cycle budget left $6.92; not claiming
 2026-11-01T21:21Z | $24.46 | (factory) submitted batch msgbatch_01CDeZeMEmEi2qHjDqJ7GZXC with 12 page(s)
 2026-11-02T03:41Z | $40.48 | (factory) sonos-installation-tottenville-staten-island-ny $1.45; intercom-installation-mapleton-brooklyn-ny $1.16; sonos-installation-bayside-queens-ny $1.86; FAIL rendered word count 15,062 (required 12,000-14,000); intercom-installation-locust-point-bronx-ny $1.20; intercom-installation-manhattan-beach-broo
+2026-11-02T06:14Z | $20.36 | (factory) intercom-installation-mill-basin-brooklyn-ny $1.08; FAIL broken internal link: /mag-lock-installation-nyc; intercom-installation-morris-park-bronx-ny $1.16; FAIL rendered word count 14,011 (required 12,000-14,000); FAIL rendered word count 15,195 (required 12,000-14,000); broken internal link: /mag-
