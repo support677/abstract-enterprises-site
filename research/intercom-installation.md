@@ -2296,3 +2296,276 @@ These are real questions, but they come from installer FAQ pages, forums and Yel
 - How much does intercom installation cost in Bronx? — installer FAQ page — same URL
 - How much does it cost to install an intercom system in New York City? — installer blog — https://butterflymx.com/blog/intercom-installers-nyc/
 - What affects the cost of an apartment intercom system with door release in NYC? — installer guide — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+
+## Prospect Heights, Brooklyn — /intercom-installation-prospect-heights-brooklyn-ny (factory research, 2026-11-02)
+
+**Search limits:** My search tool can't show live Google, Bing or DuckDuckGo results pages or AnswerThePublic. So I couldn't capture real People Also Ask or related-search boxes. I also couldn't query the HPD, 311 or DOB datasets, and no Reddit thread came up. Those items are marked EMPTY below. Several results were about Prospect Heights, Illinois (a post office crash and a garage break-in). I left them out.
+
+**Intercom-specific findings (most important)**
+
+- **LPC rules for intercoms in the historic district.** Light fixtures and intercom panels must be installed within or adjacent to a door opening. Also, one intercom panel can be installed per door opening. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- **What the LPC application needs.** It asks for manufacturer cut sheets for light fixtures, intercoms, security cameras, and mailboxes. — same URL
+- **Earlier LPC guidance lists intercom boxes.** NYC's guide to restoring architectural features lists Installing intercom boxes among the work that can get a staff-level permit. — https://www.brownstoner.com/wp-content/uploads/2016/04/NYC-Guidelines-for-Restoring-Architectural-Features.pdf
+- **How big the district is.** On June 23, 2009, Landmarks voted to designate 21 blocks in the Prospect Heights neighborhood of Brooklyn as a historic district. The 850-building district is the city's largest since the 2,020-building Upper West Side Historic District was formed in 1990. — https://www.citylandnyc.org/brooklyn%E2%80%99s-prospect-heights-historic-district-designated/ ; http://www.nolandgrab.org/archives/2009/06/prospect_height_6.html
+- **District boundaries (sets where LPC rules apply).** The Prospect Heights Historic District covers an area roughly bounded by Flatbush Avenue, Sterling Place, Washington Avenue, and St. Marks Avenue, though a section of the historic district extends as far north as Pacific Street. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- **The LPC is actively reviewing projects in the district.** 628 Carlton Avenue has an LPC docket with a commissioner presentation dated 01.06.26. The building was built in 1871. — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20260106/628-Carlton-Avenue.pdf
+- **Which buildings must have an intercom.** NY Multiple Dwelling Law §50-a requires an intercommunication system in every Class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Small buildings still need locking doors.** Buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. This matters because many brownstones here have 2–6 units. — same URL
+- **Enforcement and fines (vendor source, not an HPD page).** HPD enforces intercom requirements through inspections triggered by routine building reviews or tenant complaints via 311. One vendor says HPD classifies intercom violations and most door lock violations as Class B hazardous, carrying fines of $250 to $500 per day. Check this against HPD before publishing. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Self-closing doors (HPD's own data).** Failing to keep doors self-closing is an immediately hazardous violation (Class C). In FY24, HPD's proactive inspections resulted in the issuance of 3,151 self-closing door violations. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/jan-2022-maintenance-bulletin.pdf ; https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf
+- **HPD / 311 / DOB counts for Prospect Heights:** EMPTY (no neighborhood-level intercom violation, complaint or permit counts found).
+- **Large prewar co-ops need multi-unit, doorman-scale systems.** The 16-story building, developed by Morris Turner, was converted to a cooperative in the 1980s. Turner Towers, at 135 Eastern Parkway, is a 186 unit co-op building, originally built in 1926. — https://www.cityrealty.com/nyc/prospect-heights/turner-towers-135-eastern-parkway/41332 ; https://www.compass.com/homedetails/135-Eastern-Pkwy-Unit-6L-Brooklyn-NY-11238/530241407412883409_lid/
+- **Other prewar co-op addresses.** 41 Eastern Parkway and 34 Plaza Street East (a pretty pre-war co-op at 41 Eastern Parkway). — https://www.6sqft.com/prospect-heights-pre-war-coop-seen-in-black-swan-for-sale/
+- **Nearby co-op names.** 50 Plaza Street East, 10 Plaza Street East, and 230 Park Place — Prospect Heights co-op inside the historic district. — https://www.theroeblingteam.com/buildings/135-eastern-parkway-turner-towers
+- **New glass towers need IP or app-based systems.** On Prospect Park, at 1 Grand Army Plaza, is an all-glass, modernist, luxury high-rise overlooking Prospect Park and Grand Army Plaza. 550 Vanderbilt has a glass curtain wall entrance and day-lit elevator vestibules. — https://en.wikipedia.org/wiki/On_Prospect_Park ; https://www.homes.com/building/550-vanderbilt-brooklyn-ny/b-3jjytgs6d6ckw/
+- **Pacific Park scale.** When finished, it will encompass 6,430 units of housing (including 2,250 that qualify as affordable). — https://commercialobserver.com/2020/02/vanderbilt-ave-is-brooklyns-new-restaurant-row/
+- **Package drop built into a stoop.** In a 2021 landmarked brownstone renovation, the architects cut a new package drop into the side of the re-brownstoned stoop. — https://studiodelson.com/prospect-heights-brownstone/
+- **Non-landmarked rowhouses exist too.** Brownstoner covered the renovation of a stoop-less, early-20th-century row house on an eclectic, non-landmarked block in Prospect Heights. — https://www.brownstoner.com/interiors-renovation/prospect-heights-brooklyn-townhouse-renovation/
+- **Mail theft at an entry (old Patch story, about 2022).** A thief has broken into the bin in front of 55 Eastern Pkwy at least three times since the start of the year, grabbing the entire bag of mail for six buildings near Underhill Avenue. — https://patch.com/new-york/prospectheights/repeat-mail-thief-steals-entire-prospect-heights-block
+- **Older mailbox break-ins on Prospect Place.** Patch reported a thief stealing mail for months at households in the Underhill-Prospect Place area. — https://patch.com/new-york/prospectheights/repeated-mail-theft-plaguing-prospect-place-residents
+- **Recent incident (CBS, Aug 26, 2025).** Woman shot inside apartment building in Prospect Heights, Brooklyn. The details aren't about entry systems, so use with caution. — https://www.cbsnews.com/newyork/tag/prospect-heights/
+- **Old forum thread (Brownstoner, 2009; building not identified).** A tenant wrote that one holdout blocked an intercom replacement. The tenant was stuck for 3 months without intercom [missed packages, deliveries etc almost daily]. — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/
+- **Reddit threads about intercoms in Prospect Heights:** EMPTY.
+- **BKReader or other hyperlocal coverage of intercoms:** EMPTY.
+
+**Neighborhood background**
+
+- **History.** Most of the neighborhood developed after Prospect Park was finished in 1873. By the 1890s, the neighborhood had the name Prospect Heights. — https://brooklyneagle.com/328953/prospect-heights-history/
+- **Who shaped it.** The Prospect Heights Association of Property Owners, organized in the 1880s, promoted civic improvement and enforced building standards. — https://cityneighborhoods.nyc/prospect-heights
+- **Building layout.** Brownstones and townhouses were built on side streets and apartment buildings popped up on the avenues. — https://brooklynreporter.com/nabetags/prospect-heights/
+- **Main rowhouse streets.** Core stock is brownstone rowhouses built between the 1880s and 1900s, concentrated on Park Place, Prospect Place, St. Marks Avenue, and Underhill Avenue. — https://reinventny.com/blog/prospect-heights
+- **National Register district.** It consists of 305 contributing buildings built between 1865 and about 1900. The district is almost exclusively residential and includes a variety of single family rowhouses and multiple dwellings. — https://en.wikipedia.org/wiki/Prospect_Heights_Historic_District_(New_York_City)
+- **Boundaries.** Flatbush Avenue and Grand Army Plaza to the west and southwest, Atlantic Avenue to the north, Washington Avenue to the east, and Eastern Parkway to the south. — https://cityneighborhoods.nyc/prospect-heights
+- **Main commercial streets.** Vanderbilt Avenue is the neighborhood's main commercial strip. Also Retail corridors along Vanderbilt Avenue, Washington Avenue, and Dean Street. — https://tfc.com/blog/living-in-nyc/your-guide-to-renting-in-prospect-heights-brooklyn ; https://www.benjamestaylor.com/nycneighborhoods/prospect-heights-brooklyn
+- **Restaurant row.** Vanderbilt from roughly Park Place to Pacific Street has become one. — https://commercialobserver.com/2020/02/vanderbilt-ave-is-brooklyns-new-restaurant-row/
+- **Eastern Parkway apartment houses.** Sugarman & Berger built it for the Turner Brothers Building Company in the mid-1920s, when the parkway was becoming a corridor of 15-story elevator buildings. — https://www.theroeblingteam.com/buildings/135-eastern-parkway-turner-towers
+- **Landmarks.** Grand Army Plaza... has the Soldiers' and Sailors' Memorial Arch... A triangular space bounded by Eastern Parkway, Washington Avenue and Flatbush Avenue is now home to the Brooklyn Museum of Art, the Brooklyn Botanic Garden and the Brooklyn Public Library. — https://brooklyneagle.com/328953/prospect-heights-history/
+- **Church landmark.** Joseph of the Roman Catholic Diocese of Brooklyn, built in 1912 in Spanish Colonial style, is located at 856 Pacific Street between Vanderbilt and Underhill Avenues. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- **Mount Prospect.** Mount Prospect Park, the second-highest point in Brooklyn at 200 feet above sea level. — https://theneighborhoods.substack.com/p/prospect-heights-brooklyn
+- **Barclays Center.** The Barclays Center arena was opened in 2012 as part of the Atlantic Yards, or Pacific Park, development project. — https://brooklynreporter.com/nabetags/prospect-heights/
+- **Atlantic Yards news (2025–26).** In October of 2025, they landed on LCOR, which was certified as the developer. — https://yaledailynews.com/sjp/2026/stories/the-hole-in-prospect-heights
+- **Brooklyn installation prices (vendor-stated, not verified).** One vendor says Most installations fall between $1,500 and $6,500. Another says $3,000–$5,000 for a basic two-story brownstone retrofit. — https://www.imperasecurity.com/security-systems/intercom-brooklyn ; https://www.countbricks.com/post/intercom-installation-brooklyn
+- **Yelp complaint (Brooklyn, near Park Slope).** One Gambi Electric review complains about "disconnecting, dismantling and throwing out a perfectly working exterior intercom panel." — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Park+Slope%2C+Brooklyn%2C+NY+11215
+- **Yelp praise (Brooklyn).** One Eddies Security Systems review says They went the next day to repair my intercom system. Another mentions a Lee Dan system: We have had an old LeeDan intercom for decades. — https://www.yelp.com/search?find_desc=Intercom&find_loc=Brooklyn%2C+NY ; https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY
+
+### Questions people ask — Intercom Installation in Prospect Heights
+
+None of these came from a real Google, Bing or DuckDuckGo results page. They appear in vendor FAQs or other webpages, so treat them as "seen on the web," not as confirmed People Also Ask questions.
+
+- How much does intercom installation cost in Brooklyn? — vendor FAQ (not verified PAA) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-new-york
+- Can you install a video intercom on a Brooklyn brownstone without damaging…? (cut off in the source) — vendor FAQ — same URL
+- Can I upgrade from audio to video? — vendor FAQ — https://www.totalsecurityny.com/intercom-systems/brooklyn-intercom-system-installations/
+- Do I need to upgrade my old intercom system? — vendor FAQ — same URL
+- Why does my buzzer ring but the door will not open? — article FAQ — https://resident.com/home-and-living-resources/2026/10/28/intercom-installation-for-luxury-residences-what-owners-and-buyers-should-know
+- Can I keep my old wiring when I replace an intercom? — article FAQ — same URL
+- Who should install a building intercom? — article FAQ — same URL
+- Why is my apartment buzzer not working? — vendor FAQ — https://abstractenterprisessecuritysystems.com/door-buzzer-repair-prospect-park-south-brooklyn-ny
+- My landlord won't fix the buzzer — what do I do? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-dumbo-brooklyn-ny
+- Can I buzz visitors in from my phone? — vendor FAQ — https://abstractenterprisessecuritysystems.com/intercom-installation-city-line-brooklyn-ny
+- Is a broken intercom an HPD violation? — vendor FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- How do people fix intercom in Brooklyn apartments? — a vendor says this is asked on Reddit, but I didn't find the thread — https://abstractenterprisessecuritysystems.com/door-buzzer-repair-prospect-park-south-brooklyn-ny
+- Related searches (a list a vendor published on its own page as "People Also Search For," not a real Google box): "intercom installation Brooklyn NY", "video intercom Brooklyn apartment", "door buzzer installation Brooklyn", "intercom repair Brooklyn same day", "brownstone intercom installation Brooklyn" — https://abstractenterprisessecuritysystems.com/intercom-installation-prospect-park-south-brooklyn-ny
+- Google People Also Ask — EMPTY
+- People Also Search For (real Google box) — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit (r/ProspectHeights, r/Brooklyn, r/AskNYC, r/homesecurity) — EMPTY
+- Yelp questions — EMPTY (only the review comments listed above)
+- Patch / BKReader questions about intercoms — EMPTY
+
+## Remsen Village, Brooklyn — /intercom-installation-remsen-village-brooklyn-ny (factory research, 2026-11-02)
+
+**Notes before use:** I ran out of searches before checking everything. I couldn't pull raw HPD, 311 or DOB datasets for specific addresses, Google People Also Ask / People Also Search For, Bing, DuckDuckGo, or AnswerThePublic. No Reddit threads came up in my searches. These are marked EMPTY below. Several sources disagree with each other, and I've flagged those spots.
+
+**Intercom-specific facts (main angles)**
+
+- **Typical housing is small buildings.** Remsen Village is mostly two-family and attached houses. One source describes the developers' pattern as two-story brick semi-detached homes and rowhouses, modest two-family structures, small garden apartment buildings. — https://maidmarines.com/brooklyn/remsen-village
+- **Many owners live in the building.** One source says two-family homeownership is the economic backbone of Remsen Village. That suggests many jobs come from owner-occupants with one tenant, not from management companies. — https://maidmarines.com/brooklyn/remsen-village
+- **The legal requirement mostly skips small houses.** Buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+  - My inference (not from a source): most two-family homes here are elective upgrades, not compliance jobs.
+- **When intercoms are required:** Under the state's multiple dwelling law, buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system linking the front door to each apartment. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- **Older buildings can be required too.** Buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **HPD violation class — sources conflict:**
+  - Two sources say a broken intercom is Class B. Seneca says it is a class B housing violation, subject to HPD enforcement and potential fines. — https://senecasecurity.com/learn/intercom-systems-multi-tenant-buildings-nyc/
+  - Parker agrees (Class B). — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+  - DOBGuard lists a non-functioning intercom under Class A (non-hazardous). — https://dobguard.com/resources/hpd-violations-nyc-guide
+  - Check this with HPD before publishing.
+- **Courts treat intercoms as an essential service.** New York courts have treated a working intercom as an essential service and found that failing to maintain one breaches the warranty of habitability under Real Property Law §235-b. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Tenant remedies:** tenants are told to call 311 and file a complaint with the Department of Housing Preservation and Development. Rent-stabilized tenants can also file a rent-reduction complaint. — https://www.avvo.com/legal-answers/does-a-landlord-have-to-provide-a-working-intercom-4103325.html
+- **Nearby big complex: Flatbush Gardens (former Vanderveer Estates).** It's in neighboring Farragut, not inside Remsen Village, but in the same community board (CB17). It's a 59-building complex erected in 1949. — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- **Flatbush Gardens privacy problem (local news angle):** tenants said their building doors don't properly lock and a new intercom system gives out their personal phone numbers to anyone at the door. That's a concrete privacy angle against phone-dial entry systems. — https://bklyner.com/will-flatbush-gardens-cycle-of-disrepair-end-with-new-owners/
+- **Flatbush Gardens violations:** Today, Flatbush Gardens' 59 buildings have over 4,000 open housing code violations (figure from that article's date, not today). — https://bklyner.com/will-flatbush-gardens-cycle-of-disrepair-end-with-new-owners/
+- **Earlier owner's upgrade:** the owner described renovating all 59 elevators, installing security cameras, repairing intercoms. — https://www.nysun.com/article/real-estate-once-troubled-housing-complex-seeks-change
+- **Tenant review, fobs:** one tenant review said the landlord took the key lock off the and is forcing tenants to buy their magnetic key for $25. — https://www.apartmentratings.com/ny/brooklyn/flatbush-gardens_718564126011210/
+- **Tenant review, broken intercoms:** the same review page reports new tenants moving in with a non working intercom system. — https://www.apartmentratings.com/ny/brooklyn/flatbush-gardens_718564126011210/
+- **New construction on Remsen Ave:** 406 Remsen Avenue is an eight-story mixed-use building with 95 residences. Amenities include gated access, an elevator, garage. — https://newyorkyimby.com/2025/12/affordable-housing-lottery-launches-for-406-remsen-avenue-in-east-flatbush-brooklyn.html
+- **Another new building, 106 Remsen Ave ("Remsen Tower"):** built 2015, 45 units, 8 stories. — https://streeteasy.com/property/8901346-106-remsen-avenue-2f
+  - A listing there advertises a Video intercom and a Secure lobby with video surveillance. — https://www.apartments.com/106-remsen-ave-brooklyn-ny-unit-3a1/kblwq68/
+- **Older stock on the same avenue:** 300 Remsen Ave is 2 units·2 floors·Built in 1935. — https://www.openigloo.com/building/nyc/3100357-3046250013/brooklyn-remsen-village-300-remsen-avenue-11212
+- **Theft data (precinct boundaries may not match the neighborhood exactly):** one source lists East Flatbush/Remsen Village is a 67th precinct neighborhood that has reported 1521 crime complaints in the year 2025 (year to date). It adds that the most reported crime is petit larceny. — https://www.eufy.com/blogs/security-system/safest-neighborhoods-in-brooklyn-based-on-crime-safety-factors
+- **Local Yelp praise:** one review says a company was relocating our intercom system outside and installing a magnetic... — https://www.yelp.com/search?find_desc=intercom+systems&find_loc=East+Flatbush%2C+Brooklyn%2C+NY
+- **Existing competitor page (likely your own site):** Abstract Enterprises, 1282 Troy Ave, 11203, already has this exact URL slug. It says Walk-up apartment buildings 5–8 hours. Its copy pitches "brownstones," which doesn't fit Remsen Village's housing stock. — https://abstractenterprisessecuritysystems.com/intercom-installation-remsen-village-brooklyn-ny
+- **Permits:** one installer says intercom installation in Brooklyn does not require a special permit unless extensive wiring or structural changes are involved. This is not verified with DOB. — https://www.totalsecurityny.com/intercom-systems/brooklyn-intercom-system-installations/
+- **Brooklyn costs — sources vary widely:**
+  - Most installations fall between $1,500 and $6,500. — https://www.imperasecurity.com/security-systems/intercom-brooklyn
+  - Basic audio-only systems can start around $1,000–$1,500. — https://www.totalsecurityny.com/intercom-systems/brooklyn-intercom-system-installations/
+- **Address-level HPD violations, 311 complaints and DOB permits for Remsen Village:** EMPTY. The dataset exists at https://data.cityofnewyork.us/Housing-Development/Housing-Violations/wvxf-dwi5
+- **Reddit threads about intercoms in Remsen Village or East Flatbush:** EMPTY.
+
+**Neighborhood background**
+
+- **Name and status:** Remsen Village has been described as a "subsection of the larger East Flatbush neighborhood," with an estimated 60,000 residents. The origin of using the name *Remsen Village* seems to be in the mid-1990s. — https://en.wikipedia.org/wiki/Remsen_Village,_Brooklyn
+- **"Rugby":** The name "Rugby" was chosen by developers in the 1890s. — https://en.wikipedia.org/wiki/East_Flatbush,_Brooklyn
+- **Name origin:** the name comes from the Remsens, Dutch settlers whose agricultural holdings once extended across this part of Brooklyn in the 17th and 18th centuries. — https://cityneighborhoods.nyc/remsen-village
+- **When it was built — sources conflict:**
+  - Brooklyn Eagle, citing Jackson/Manbeck's book: the brick attached and semi-attached houses in Remsen Village were constructed in the early 20th century. — https://brooklyneagle.com/articles/2017/03/29/a-fine-old-firehouse-and-other-east-flatbush-sights/
+  - CityNeighborhoods says it emerged during the postwar housing boom. — https://cityneighborhoods.nyc/remsen-village
+- **Farmland until the 1920s:** Farmland dominated the area until the 1920s, when the Interborough Rapid Transit (IRT) lines created a crucial link between Brooklyn and Manhattan. — https://www.nycgovparks.org/parks/east-flatbush-childrens-park/history
+- **Boundaries — sources conflict:**
+  - CityNeighborhoods puts it between Rockaway Parkway to the northeast, the Long Island Rail Road (Bay Ridge Branch) to the southeast, Ralph Avenue to the west, and Kings Highway to the northwest. — https://cityneighborhoods.nyc/remsen-village
+  - Brooklyn Eagle places it along Remsen Ave, which runs from Empire Blvd/Utica southeast to Canarsie. — https://brooklyneagle.com/articles/2017/03/29/a-fine-old-firehouse-and-other-east-flatbush-sights/
+  - BKMag wrongly calls it part of East New York. — https://www.bkmag.com/2012/02/15/the-lost-neighborhoods-of-brooklyn/
+- **Corridors:** Kings Highway, Ralph Ave and Rockaway Pkwy. — https://cityneighborhoods.nyc/remsen-village
+  - Church Ave is co-named Bob Marley Blvd; Utica Ave is part of the Little Caribbean corridors. — https://en.wikipedia.org/wiki/Little_Caribbean,_Brooklyn
+- **Businesses (examples):** Best Bites at 4601 Church Ave. — https://littlecaribbean.nyc/visit-us/directory
+  - The Waterfall Lounge at 4703 Church Ave. — https://littlecaribbean.nyc/visit-us/directory
+- **Population:** predominantly Caribbean-American, with strong representation from Jamaican, Trinidadian, Haitian, and Guyanese communities. — https://cityneighborhoods.nyc/remsen-village
+- **Landmark — Jackie Robinson House:** 5224 Tilden Ave is a National Historic Landmark. — https://en.wikipedia.org/wiki/Jackie_Robinson_House
+  - Attempts to get the house landmarked, led by then-City Councilman Jumaane Williams failed. — https://www.untappedcities.com/discover-jackie-robinsons-house-in-flatbush-brooklyn/
+  - Construction date conflicts: 1912–1916 (Wikipedia) vs. 1925 (QNS).
+  - CB17 calls it its District Landmark. — https://cbbrooklyn.cityofnewyork.us/cb17/about/neighborhoods/
+- **Landmarks Preservation Commission (LPC) rules:** East Flatbush's only city historic district is East 25th St between Clarendon Rd and Avenue D. That's in the western part of East Flatbush, not Remsen Village. — https://brooklyneagle.com/105600/city-designates-east-flatbushs-first-historic-district/
+  - I found no LPC district in Remsen Village, so LPC facade-panel approval likely doesn't apply.
+- **Libraries:** The Rugby branch is located at 1000 Utica Avenue and opened in 1957. The East Flatbush Library is located at 9612 Church Avenue. — https://en.wikipedia.org/wiki/Remsen_Village,_Brooklyn
+- **Parks:**
+  - East Flatbush Children's Playground is located on East 94th Street between Rutland Road and East New York Avenue. — https://www.nycgovparks.org/parks/east-flatbush-childrens-park/history
+  - Kennedy-King Playground is nearby. — https://www.walkscore.com/score/remsen-ave-and-lenox-rd-brooklyn-ny-11212
+- **Pedestrian note:** a local blog calls Kings Highway / Remsen Ave / Linden Blvd the most pedestrian-unfriendly intersection in the City. — http://eastflatbushmemories.blogspot.com/2006/08/
+- **Policing:** The 67th Precinct serves a region in the center of Brooklyn, comprising East Flatbush and Remsen Village. — https://www.50-a.org/command/67pct
+- **Recent local news on building security or entry tech in Remsen Village itself:** EMPTY (beyond the Flatbush Gardens items above).
+
+### Questions people ask — Intercom Installation in Remsen Village
+
+- **Google People Also Ask:** EMPTY (no access)
+- **People Also Search For / related searches:** EMPTY
+- **AnswerThePublic:** EMPTY
+- **Bing:** EMPTY
+- **DuckDuckGo:** EMPTY
+- **Reddit:** EMPTY
+
+These search features weren't available to me, so nothing above could be checked there. Instead, here are real questions I found on other pages. Where each was seen is listed honestly.
+
+- "How much does it cost to install an intercom system in New York City?" — installer blog FAQ (not PAA) — https://butterflymx.com/blog/intercom-installers-nyc/
+- "How much does an intercom system cost in Brooklyn?" — installer FAQ — https://www.totalsecurityny.com/intercom-systems/brooklyn-intercom-system-installations/
+- "Does a landlord have to provide a working intercom?" — Avvo legal Q&A — https://www.avvo.com/legal-answers/does-a-landlord-have-to-provide-a-working-intercom-4103325.html
+- "Are intercoms required in NYC apartment buildings?" — installer FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- "Does my pre-1968 building need an intercom?" — installer FAQ — same URL
+- "Is a broken intercom an HPD violation?" — installer FAQ — same URL
+- "Can anyone recommend a reliable company for commercial security system installation?" — Yelp "Ask Brooklyn locals" — https://www.yelp.com/search?find_desc=intercom+systems&find_loc=East+Flatbush%2C+Brooklyn%2C+NY
+- Competitor FAQs (Abstract Enterprises) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-east-flatbush-brooklyn-ny
+  - "Should I repair or replace my broken intercom in East Flatbush?"
+  - "Do you need a permit for intercom installation in East Flatbush?"
+  - "How long does installation take in East Flatbush?"
+- "What's the best intercom for Remsen Village buildings?" / "Video or audio intercom for Remsen Village buildings?" — competitor FAQ — https://abstractenterprisessecuritysystems.com/intercom-installation-remsen-village-brooklyn-ny
+
+## Soundview, Bronx — /intercom-installation-soundview-bronx-ny (factory research, 2026-11-02)
+
+**Coverage notes:** I ran out of searches before finishing. My search tool can't show Google People Also Ask, People Also Search For, AnswerThePublic, Bing, or DuckDuckGo results, so those are marked EMPTY. I found no Reddit threads, and I didn't pull any HPD, 311, or DOB datasets for Soundview addresses. Anything I couldn't confirm is marked EMPTY, and my own inferences are labeled as such.
+
+### Intercom-specific facts: building types, entry and wiring
+- Soundview is mostly NYCHA housing. Bronx River Houses (1951), Soundview Houses (1954) and Clason Point Gardens (1941) are described as modernist brick towers surrounded by green courtyards — https://cityneighborhoods.nyc/soundview
+- Clason Point Gardens became the first public housing development constructed by the New York City Housing Authority (NYCHA) in the Bronx — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Soundview Houses: thirteen, 7-story buildings with 1,258 apartments. Completed October 29, 1954, the 26.29-acre Bronx development is bordered by Soundview Park, and Rosedale, LaCombe and Bronx River Avenues. The management office is at 639 Rosedale Ave — https://foursquare.com/v/nycha--soundview-houses/4e28f89e52b1c37d35c8012f
+- Sources disagree on the Soundview Houses date: Some sources indicate the development was constructed in 1951, while others state it was built in 1954. — https://soundviewhouses.us/about-us/
+- Sotomayor Houses (formerly Bronxdale) is bordered by Bruckner Boulevard and Watson, Soundview and Leland Avenues and was completed on January 31, 1955 — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- An earlier security plan for Bronxdale also proposed surveillance of exterior grounds, intercom systems and other modifications intended to increase resident oversight of public spaces — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- James Monroe Houses: bordered by Soundview, Story, Taylor and Lafayette Avenues; completed on November 2, 1961 — https://en.wikipedia.org/wiki/James_Monroe_Houses
+- Bronx River Houses is bordered by East 174th Street, Harrod, and Bronx River Avenues. In 1966, NYCHA completed the Bronx River Addition, a separate state-funded development designed as housing for senior residents. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- Newer affordable buildings on former NYCHA land include 120 one-, two-, and three-bedroom apartment units in an eight-story building adjacent to Soundview Park and 86 one-bedroom apartments for low-income seniors in an eight-story building — https://www.lemlewolff.com/projects/soundview-housing/
+- Building age: the median construction year is 1956. About 36.6% of homes were built before the 1940s, with another 9% going up by 1949. (Inference: much of the private stock predates the 1968 trigger in the state intercom law below.) — https://www.point2homes.com/US/Neighborhood/NY/Bronx/Soundview-Demographics.html
+- Private housing: Single- and two-family homes filled streets north of Lacombe Avenue, while modest apartment buildings arose along Watson Avenue and Soundview Avenue. — https://cityneighborhoods.nyc/soundview
+- Harding Park bungalows are a special case for intercoms. The area is the maze of little unnamed streets and bungalows found along Bronx River, Leland, Gildersleeve and Cornell Avenues in the southwest sector of Clason Point — https://forgotten-ny.com/2006/02/harding-park-bronx/
+- In 1981 the city sold Harding Park to the Homeowners Association of Harding Park for $700,000, making it the first cooperatively owned low-and moderate-income community in New York. (Inference: work there may need co-op/HOA sign-off.) — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- Street layout affects addressing and access: many of the streets on the grid were never completed, end midblock, and others appear partially completed — https://www.welcome2thebronx.com/2018/08/a-brief-history-of-clason-point-in-the-bronx/
+- Competitor claim (a vendor's own page, not independently verified): Soundview has more NYCHA developments than any other Bronx neighborhood. The same vendor says NYCHA Capital Projects standardizes on specific approved brands per their spec — https://www.abstractenterprisessecuritysystems.com/access-control-installation-bronx-river-bronx-ny
+- Competitor claim about private buildings next to NYCHA: unauthorized individuals who access NYCHA grounds freely can walk directly to neighboring privately owned buildings with unsecured lobbies — https://www.abstractenterprisessecuritysystems.com/access-control-installation-claremont-bronx-ny
+
+### Laws and city data
+- State law (MDL §50-a): every Class A multiple dwelling erected or converted after January 1, 1968 that contains eight or more apartments must have an intercom — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- NYCHA has its own timing rule. The statute text quoted says that in housing-authority buildings, such installation need not be completed until one year after the owner's receipt of requests or consents from a majority of the tenants — https://www.justanswer.com/landlord-tenant/7l0ku-live-high-rise-apartment-nyc-several.html
+- **Sources conflict on the city Housing Maintenance Code:**
+  - One says §27-2045 applies to most residential buildings with three or more units — https://senecasecurity.com/learn/nyc-building-security-compliance/
+  - Another cites § 27-2044 for buildings with more than 8 units — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+  - Check the code text before publishing either.
+- Video isn't required: a basic audio intercom meets this requirement — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- 311/HPD process: contact the landlord first, If they are unresponsive, contact 311 (call, online, or mobile app) to make a complaint. The inspection should be within 30 days — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/code-guide-what-to-expect-en.pdf
+- **Sources conflict on DOB permits:**
+  - DOB's own page says No installation and modification to any electrical systems can be performed without a permit and a Licensed Master Electrician. — https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page
+  - A trade site says low-voltage work under 50V typically does not require a traditional electrical permit but must be done by a business entity with a certified low voltage installer — https://www.lowvoltagenation.com/posts/new-york-city-new-york-structured-cabling-permit-requirements
+- HPD violation counts and 311 intercom complaints for Soundview addresses: EMPTY (datasets not pulled)
+- DOB permits filed for intercom work in Soundview: EMPTY
+- LPC rules: I found no confirmed historic district or individual landmark in Soundview. Wikipedia cites an LPC source about Park Versailles north of Westchester Ave, but I couldn't confirm any designation — https://en.wikipedia.org/wiki/Soundview,_Bronx
+
+### NYCHA door and intercom security (citywide and Bronx)
+- The Comptroller's audit found 40.1% of entrance door locks across citywide NYCHA buildings were broken, along with 28.5% of rear or side doors. Residents also said repaired doors and intercoms were soon broken again — https://comptroller.nyc.gov/newsroom/comptrollers-auditors-find-40-1-of-nycha-entrance-doors-have-broken-locks-as-part-of-new-resident-powered-audit-initiative
+- NYCHA's 2023 testimony says it installed layered access controls – new entrance intercoms, key fobs, and doors — https://www.nyc.gov/assets/nycha/downloads/pdf/2023_security_infrastructure_testimony_FINAL.pdf
+- NYCHA told a Bronx paper that ongoing funding constraints and repeated vandalism are the primary challenges to keeping doors, locks and intercoms fully functional (Marble Hill, not Soundview) — https://www.riverdalepress.com/stories/nycha-sees-crime-drop-but-marble-hill-houses-residents-cite-security-concerns,241342
+- A law-firm page lists common hazards at Soundview Houses, including broken intercoms and dark corridors. It also says the Bronx River Addition was approved for a $93 million renovation in 2025 — https://www.dearielaw.com/news-insights/nycha-injury-lawyer/soundview-houses-nycha-injury-lawyer/
+
+### Local news about building entry
+- Watson Ave & Evergreen Terrace (date not given): three burglars walked quietly through the building's courtyard and then all the way up to the victim's sixth floor apartment — https://www.cbsnews.com/newyork/news/sleeping-woman-robbed-in-bronx
+- Elder Ave (about Aug 2026): Four masked men broke into a basement apartment in Soundview Monday morning — https://patch.com/new-york/mountvernonny/cash-cell-phone-jewelry-stolen-gunpoint-basement-apartment-pd
+- Soundview-specific news about intercoms or entry systems: EMPTY
+
+### History and development
+- Soundview remained largely undeveloped until the 1950s, when the Bronx River Parkway and Bruckner Expressway were constructed — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- The land was part of tracts originally belonging to the Clason family, early Scottish settlers. The New York, Westchester & Boston Railway (1912) began drawing development east — https://cityneighborhoods.nyc/soundview
+- The area remained part of Westchester County until it was annexed by New York City in 1895 — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Clason Point Amusement Park, which operated from 1910 to 1935; its site later became the Shorehaven Beach Club and, after 1986, Shorehaven Estates — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- In 1947, a temporary NYCHA project of 947 apartments in 473 Quonset huts was built here — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Robert Moses tried to clear Harding Park as part of the "Soundview slums"; Harding Park ultimately survived the redevelopment effort — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Immigrant communities from the Dominican Republic, West Africa, Bangladesh, and Central America—have joined long-standing Puerto Rican families. (Inference: multilingual intercom directories and instructions may help.) — https://cityneighborhoods.nyc/soundview
+
+### Streets, transit and commercial corridors
+- The Bruckner Expressway bisects the neighborhood, while Westchester Avenue and Soundview Avenue are major commercial and transportation corridors. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- The elevated 6 train runs along Westchester Ave, with stops at Elder Avenue, Morrison Avenue, and St. Lawrence Avenue — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- Morrison Av station opened on May 30, 1920 as Sound View Avenue — https://en.wikipedia.org/wiki/Morrison_Avenue%E2%80%93Soundview_station
+- A commercial listing says Commercial life centers on corridors like Westchester Avenue, Soundview Avenue, and Castle Hill Avenue — https://images1.showcase.com/d2/QLKFY2P34tvcgNw6n3WkcjIsHYIY-EiyVwSV-7XvB5g/document.pdf
+- ZIP codes: 10472 and 10473; Community Board 9; 43rd Precinct, with NYCHA developments covered by Police Service Area 8 — https://en.wikipedia.org/wiki/Soundview,_Bronx
+
+### Parks and landmarks
+- Soundview Park is 205 acres. When the city bought the first 93 acres in 1937, the entire area was composed of marshland — https://www.ferry.nyc/blog/sail-your-city-soundview/
+- The NYC Ferry landing at Clason Point Park opened as part of the Soundview line in August 2018; the route is now Rockaway-Soundview — https://en.wikipedia.org/wiki/List_of_NYC_Ferry_stops
+- Woodrow Wilson Triangle's World War One monument was dedicated in 1928 — https://www.welcome2thebronx.com/2018/08/a-brief-history-of-clason-point-in-the-bronx/
+- Known for hip-hop history: During the 1970s, Bronx River Houses became one of the central sites in the development of hip-hop — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- Soundview Library is at 660 Soundview Ave — https://www.ferry.nyc/blog/sail-your-city-soundview/
+
+### Cost benchmarks (NYC-wide, none Soundview-specific)
+- Installing an intercom system in an NYC apartment building ranges from about $500 to $5,000 or possibly more for large properties. — https://butterflymx.com/blog/intercom-installers-nyc/
+- One installer estimates a typical audio intercom system for a four-unit apartment building would run around $3500, with a video system costing around $4000-$5000 — https://www.dtv-installations.com/blog/installation-cost-video-intercom/
+
+### Yelp (Bronx intercom services)
+- Complaint: a technician arrived after the four hour window I was given and a few days of living without a buzzer until my appointment (Jordan Intercom, 1.4 stars) — https://www.yelp.com/biz/jordan-intercom-systems-bronx
+- Complaint: They never communicate with the customer to say they'll be late or not coming at all. (Citywide Intercom, 1.0 star) — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Praise: a reviewer said Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+- Yelp has a "near Soundview" intercom search page, but it showed no Soundview-specific reviews — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Soundview,+Bronx,+NY
+
+### Other
+- Reddit threads (r/Soundview, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Patch, Bronx Times, or neighborhood blogs about intercoms in Soundview: EMPTY. The Bronx Times only came up for the 2018 ferry launch — https://www.bxtimes.com/soundviews-historic-ferry-launch-begins-wed-august-15th/
+
+### Questions people ask — Intercom Installation in Soundview
+- People Also Ask (Google): EMPTY (not available to my search tool)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY. One vendor page says its FAQs were Pulled from r/AskNYC, r/Bronx and other subreddits, but I couldn't check the original threads. Those questions are listed below as vendor FAQs — https://www.abstractenterprisessecuritysystems.com/intercom-repair-bronx
+
+The questions below are real, but they come from FAQ headings on websites, not search-engine features. The "where seen" labels say so.
+
+- What did people search for similar to intercom repair in Bronx, NY? — Yelp (Yelp's own related-search prompt) — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Bronx%2C+NY
+- How much does it cost to install an intercom system in New York City? — publisher FAQ (ButterflyMX) — https://butterflymx.com/blog/intercom-installers-nyc/
+- How much does intercom installation cost in Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-ny
+- Do you need a permit for intercom installation in Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bron
