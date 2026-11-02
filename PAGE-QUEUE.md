@@ -586,7 +586,7 @@ LIVE | intercom-installation-remsen-village-brooklyn-ny | Intercom Installation 
 LIVE | intercom-installation-soundview-bronx-ny | Intercom Installation | Soundview, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-south-williamsburg-brooklyn-ny | Intercom Installation | South Williamsburg, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-starrett-city-brooklyn-ny | Intercom Installation | Starrett City, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-02T18:08Z factory | intercom-installation-sunset-park-brooklyn-ny | Intercom Installation | Sunset Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-sunset-park-brooklyn-ny | Intercom Installation | Sunset Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T18:08Z factory | intercom-installation-the-hub-bronx-ny | Intercom Installation | The Hub, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-weeksville-brooklyn-ny | Intercom Installation | Weeksville, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-wyckoff-heights-brooklyn-ny | Intercom Installation | Wyckoff Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
