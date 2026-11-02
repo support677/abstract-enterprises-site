@@ -301,3 +301,9 @@ Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<
 ---
 
 *End of blueprint. Edit this file directly to evolve the spec — do not rely on memory or chat history.*
+
+## 14. Brand pages + sticky price pages (Anwar, Nov 2 2026)
+- **Main brand pages rank:** `<brand>-camera-installation-<area>` for every brand we price (36). This covers the 3 hubs (NYC, Long Island, Hudson Valley) and every borough and county. Each one is a full-blueprint build, the same as any service page. Queued in PAGE-QUEUE (hubs first, partners Lorex/Luminys/Reolink first). Ask Anwar for the brand's keywords (keywords/<brand>-camera-installation.md) before its pages build.
+- **Price pages are "stickies":** `<brand>-camera-installation-prices-<area>` stays at the same URL. It's the full price list and calculator where customers build their own system. It is NOT built to the blueprint. If it ranks for "<brand> prices", that's a bonus.
+- **Linking, area stays in area:** each price page links up to the brand page for the same area (Brooklyn → Brooklyn, Queens → Queens). Each brand page links down to its price page, both in the content and from the sticky bar ("<Brand> prices"). tools/link_price_pages.py does this, and the page factory runs it every cycle. Until a brand's area page exists, the price page links to the brand hub, or to that area's security camera page.
+- **Partner brands get top billing:** Lorex, Luminys and Reolink (AESS is an authorized partner) get the official partner badge and "Authorized <Brand> partner" on their brand pages and price pages, using only badges/logos from the partner portal.
