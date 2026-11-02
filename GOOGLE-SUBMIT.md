@@ -2807,3 +2807,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-jackson-heights-queens-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-chelsea-manhattan-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-jerome-park-bronx-ny | QUEUED
+2026-11-02 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-tottenville-staten-island-ny | QUEUED
