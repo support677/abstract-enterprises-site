@@ -581,7 +581,7 @@ LIVE | intercom-installation-ocean-hill-brooklyn-ny | Intercom Installation | Oc
 LIVE | intercom-installation-park-versailles-bronx-ny | Intercom Installation | Park Versailles, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-pelham-bay-bronx-ny | Intercom Installation | Pelham Bay, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-pelham-gardens-bronx-ny | Intercom Installation | Pelham Gardens, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T09:09Z factory | intercom-installation-prospect-heights-brooklyn-ny | Intercom Installation | Prospect Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-prospect-heights-brooklyn-ny | Intercom Installation | Prospect Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-remsen-village-brooklyn-ny | Intercom Installation | Remsen Village, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-soundview-bronx-ny | Intercom Installation | Soundview, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-south-williamsburg-brooklyn-ny | Intercom Installation | South Williamsburg, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
