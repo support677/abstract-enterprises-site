@@ -584,7 +584,7 @@ LIVE | intercom-installation-pelham-gardens-bronx-ny | Intercom Installation | P
 LIVE | intercom-installation-prospect-heights-brooklyn-ny | Intercom Installation | Prospect Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | intercom-installation-remsen-village-brooklyn-ny | Intercom Installation | Remsen Village, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | intercom-installation-soundview-bronx-ny | Intercom Installation | Soundview, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T12:17Z factory | intercom-installation-south-williamsburg-brooklyn-ny | Intercom Installation | South Williamsburg, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-south-williamsburg-brooklyn-ny | Intercom Installation | South Williamsburg, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | intercom-installation-starrett-city-brooklyn-ny | Intercom Installation | Starrett City, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | intercom-installation-sunset-park-brooklyn-ny | Intercom Installation | Sunset Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | intercom-installation-the-hub-bronx-ny | Intercom Installation | The Hub, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -1057,7 +1057,7 @@ REBUILD | tv-installation-williamsburg-brooklyn-ny | TV Installation | Williamsb
 LIVE | tv-installation-windsor-terrace-brooklyn-ny | TV Installation | Windsor Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-wingate-brooklyn-ny | TV Installation | Wingate, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn Heights, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T12:17Z factory | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | luminys-camera-installation-long-island | Luminys Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-02T12:17Z factory | luminys-camera-installation-hudson-valley | Luminys Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-02T12:17Z factory | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
