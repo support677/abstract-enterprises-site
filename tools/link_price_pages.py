@@ -95,6 +95,27 @@ def main():
             if nm and nm != mh:
                 open(mp, "w", encoding="utf-8").write(nm)
                 changed += 1
+    # brand neighborhood pages (<brand>-camera-installation-<nbhd>-<borough>-ny) use their
+    # borough's price page: one Brooklyn price page covers every Brooklyn neighborhood.
+    for path in sorted(glob.glob(os.path.join(ROOT, "*-camera-installation-*-ny.html"))):
+        slug = os.path.basename(path)[:-5]
+        m = re.match(r"^(.+?)-camera-installation-(.+)-(" + "|".join(c.BOROUGHS) + r")-ny$", slug)
+        if not m or "-prices-" in slug:
+            continue
+        brand, nb, borough = m.groups()
+        price = f"{brand}-camera-installation-prices-{borough}"
+        if not exists(price) or not exists(f"{brand}-camera-installation-{borough}"):
+            continue          # only true brand silos, not "security-camera-installation-..." pages
+        ph = open(path, encoding="utf-8").read()
+        pname = brand_name(open(os.path.join(ROOT, price + ".html"), encoding="utf-8").read(), brand)
+        nbname = nb.replace("-", " ").title()
+        btn = (f'<p class="brand-prices" style="margin:1rem 0;font-weight:800">'
+               f'<a href="/{price}">{pname} camera prices for {nbname} and all of {AREA_NAME[borough]} '
+               f'&ndash; build your own system &rarr;</a></p>')
+        nh = splice(ph, B0, B1, btn, r"</h1>")
+        if nh and nh != ph:
+            open(path, "w", encoding="utf-8").write(nh)
+            changed += 1
     print(f"link_price_pages: {changed} files updated")
     return changed
 
