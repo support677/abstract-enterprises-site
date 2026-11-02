@@ -44,6 +44,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-01 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2160 queued. All 11 inspected as not on Google (wyze suffolk/dutchess/ulster, swann staten island, hanwha brooklyn were "URL is unknown to Google"). "Quota Exceeded" on the 12th (hanwha bronx, Crawled - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-01 evening (scheduled, 01:53 UTC Nov 2, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2173 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-02T01:53:02Z, 2769 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2173 QUEUED URLs in 5 batches of up to 500: all 200. Inspected hanwha bronx (URL is not on Google; Crawled - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at hanwha bronx.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
