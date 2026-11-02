@@ -571,7 +571,7 @@ BUILDING 2026-11-02T00:19Z factory | intercom-installation-homecrest-brooklyn-ny
 LIVE | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jerome Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T00:19Z factory | intercom-installation-locust-point-bronx-ny | Intercom Installation | Locust Point, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T00:19Z factory | intercom-installation-manhattan-beach-brooklyn-ny | Intercom Installation | Manhattan Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-02T00:19Z factory | intercom-installation-mapleton-brooklyn-ny | Intercom Installation | Mapleton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-mapleton-brooklyn-ny | Intercom Installation | Mapleton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T00:19Z factory | intercom-installation-marine-park-brooklyn-ny | Intercom Installation | Marine Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-mill-basin-brooklyn-ny | Intercom Installation | Mill Basin, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-morris-park-bronx-ny | Intercom Installation | Morris Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
