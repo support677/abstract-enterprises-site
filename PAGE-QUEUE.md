@@ -207,7 +207,7 @@ LIVE | sonos-installation-throgs-neck-bronx-ny | Sonos Installation | Throgs Nec
 LIVE | sonos-installation-st-george-staten-island-ny | Sonos Installation | St. George, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Upper West Side, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-01T18:15Z max-daily | best-security-camera-brands | Comparison hub: Best Security Camera Brands (installer-compared) | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-02T18:25Z max-daily | best-security-camera-brands | Comparison hub: Best Security Camera Brands (installer-compared) | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | lorex-vs-reolink | Comparison: Lorex vs Reolink | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
