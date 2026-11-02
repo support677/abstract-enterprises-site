@@ -2837,3 +2837,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-soundview-bronx-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-wyckoff-heights-brooklyn-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-sunset-park-brooklyn-ny | QUEUED
+2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-the-hub-bronx-ny | QUEUED
