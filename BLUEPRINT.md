@@ -283,6 +283,8 @@ Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<
 - One article per service × area (same order as the pages: hub → borough/county → neighborhood), under 330 words, the answer in the first line, keyword in the title.
 - Posted from Anwar's / AESS's own LinkedIn, links to the matching site page. LinkedIn is a top source for Gemini and Google AI Overviews.
 
+- **LinkedIn → email funnel (Anwar, Nov 2 2026):** besides the SEO articles, 4 educational posts a week aimed at commercial buyers (property managers, boards, landlords, GCs, businesses), plus 1 post a week promoting the newsletter/lead magnet. Every new subscriber gets a 6-email sequence: story, problems we solve, best real results, then the pitch on the last email. Full plan: Aess-housecall-connector plans/LINKEDIN-EMAIL-FUNNEL.md.
+
 ### 13.2 Real research on Zenodo
 - Only genuine studies built from real data (never a sales piece dressed as research — Zenodo removes those).
 - First study: "Broken building intercoms in NYC — HPD intercom violations and 311 buzzer complaints by borough and neighborhood, 2020–2026" from NYC Open Data. Methods + data tables + charts; cite it from the intercom and door-buzzer pages. The same data doubles as the landlord lead list.
