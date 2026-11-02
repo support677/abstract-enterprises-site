@@ -222,7 +222,7 @@ TODO | akuvox-vs-butterflymx | Comparison: Akuvox vs ButterflyMX | NYC hub | up 
 LIVE | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 LIVE | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | Tottenville, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-01T21:01Z factory | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
+LIVE | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 TODO | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
