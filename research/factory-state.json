@@ -1,8 +1,8 @@
 {
  "batches": [
   {
-   "id": "msgbatch_018eqvhRmpWGAGbh9bvgq7FV",
-   "submitted": "2026-11-02T12:24Z",
+   "id": "msgbatch_01EsMFN1jSSavvSLkyu8u9v9",
+   "submitted": "2026-11-02T18:12Z",
    "pages": {
     "p0": {
      "status": "TODO",
@@ -102,94 +102,94 @@
     },
     "p1": {
      "status": "REBUILD",
-     "slug": "intercom-installation-remsen-village-brooklyn-ny",
+     "slug": "intercom-installation-soundview-bronx-ny",
      "silo": "Intercom Installation",
-     "area": "Remsen Village, Brooklyn",
-     "up": "/intercom-installation-brooklyn-ny",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "area": "Soundview, Bronx",
+     "up": "/intercom-installation-bronx-ny",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 584,
+     "line_no": 585,
      "silo_key": "intercom-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Remsen Village",
-     "borough": "Brooklyn",
-     "nb_slug": "remsen-village",
-     "exemplar": "intercom-installation-prospect-heights-brooklyn-ny",
+     "area_key": "bronx",
+     "nbhd": "Soundview",
+     "borough": "Bronx",
+     "nb_slug": "soundview",
+     "exemplar": "intercom-installation-pelham-gardens-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-remsen-village-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -294,94 +294,94 @@
     },
     "p3": {
      "status": "REBUILD",
-     "slug": "intercom-installation-soundview-bronx-ny",
+     "slug": "intercom-installation-starrett-city-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "Soundview, Bronx",
-     "up": "/intercom-installation-bronx-ny",
-     "phone": "(646) 490-0629",
-     "gbp": "Bronx",
+     "area": "Starrett City, Brooklyn",
+     "up": "/intercom-installation-brooklyn-ny",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 585,
+     "line_no": 587,
      "silo_key": "intercom-installation",
-     "area_key": "bronx",
-     "nbhd": "Soundview",
-     "borough": "Bronx",
-     "nb_slug": "soundview",
-     "exemplar": "intercom-installation-pelham-gardens-bronx-ny",
+     "area_key": "brooklyn",
+     "nbhd": "Starrett City",
+     "borough": "Brooklyn",
+     "nb_slug": "starrett-city",
+     "exemplar": "intercom-installation-south-williamsburg-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-soundview-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -486,94 +486,94 @@
     },
     "p5": {
      "status": "REBUILD",
-     "slug": "intercom-installation-south-williamsburg-brooklyn-ny",
+     "slug": "intercom-installation-sunset-park-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "South Williamsburg, Brooklyn",
+     "area": "Sunset Park, Brooklyn",
      "up": "/intercom-installation-brooklyn-ny",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 586,
+     "line_no": 588,
      "silo_key": "intercom-installation",
      "area_key": "brooklyn",
-     "nbhd": "South Williamsburg",
+     "nbhd": "Sunset Park",
      "borough": "Brooklyn",
-     "nb_slug": "south-williamsburg",
-     "exemplar": "intercom-installation-prospect-heights-brooklyn-ny",
+     "nb_slug": "sunset-park",
+     "exemplar": "intercom-installation-south-williamsburg-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-south-williamsburg-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -678,94 +678,94 @@
     },
     "p7": {
      "status": "REBUILD",
-     "slug": "intercom-installation-starrett-city-brooklyn-ny",
+     "slug": "intercom-installation-the-hub-bronx-ny",
      "silo": "Intercom Installation",
-     "area": "Starrett City, Brooklyn",
-     "up": "/intercom-installation-brooklyn-ny",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "area": "The Hub, Bronx",
+     "up": "/intercom-installation-bronx-ny",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 587,
+     "line_no": 589,
      "silo_key": "intercom-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Starrett City",
-     "borough": "Brooklyn",
-     "nb_slug": "starrett-city",
-     "exemplar": "intercom-installation-prospect-heights-brooklyn-ny",
+     "area_key": "bronx",
+     "nbhd": "The Hub",
+     "borough": "Bronx",
+     "nb_slug": "the-hub",
+     "exemplar": "intercom-installation-pelham-gardens-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-starrett-city-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -870,94 +870,94 @@
     },
     "p9": {
      "status": "REBUILD",
-     "slug": "intercom-installation-sunset-park-brooklyn-ny",
+     "slug": "intercom-installation-weeksville-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "Sunset Park, Brooklyn",
+     "area": "Weeksville, Brooklyn",
      "up": "/intercom-installation-brooklyn-ny",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 588,
+     "line_no": 590,
      "silo_key": "intercom-installation",
      "area_key": "brooklyn",
-     "nbhd": "Sunset Park",
+     "nbhd": "Weeksville",
      "borough": "Brooklyn",
-     "nb_slug": "sunset-park",
-     "exemplar": "intercom-installation-prospect-heights-brooklyn-ny",
+     "nb_slug": "weeksville",
+     "exemplar": "intercom-installation-south-williamsburg-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-sunset-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-weeksville-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -1062,94 +1062,94 @@
     },
     "p11": {
      "status": "REBUILD",
-     "slug": "intercom-installation-the-hub-bronx-ny",
+     "slug": "intercom-installation-wyckoff-heights-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "The Hub, Bronx",
-     "up": "/intercom-installation-bronx-ny",
-     "phone": "(646) 490-0629",
-     "gbp": "Bronx",
+     "area": "Wyckoff Heights, Brooklyn",
+     "up": "/intercom-installation-brooklyn-ny",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 589,
+     "line_no": 591,
      "silo_key": "intercom-installation",
-     "area_key": "bronx",
-     "nbhd": "The Hub",
-     "borough": "Bronx",
-     "nb_slug": "the-hub",
-     "exemplar": "intercom-installation-pelham-gardens-bronx-ny",
+     "area_key": "brooklyn",
+     "nbhd": "Wyckoff Heights",
+     "borough": "Brooklyn",
+     "nb_slug": "wyckoff-heights",
+     "exemplar": "intercom-installation-south-williamsburg-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-the-hub-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-wyckoff-heights-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
