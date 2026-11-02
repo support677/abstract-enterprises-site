@@ -2037,3 +2037,262 @@ The questions below come from FAQ headings on competitor and info pages. They ar
 - Can you install a video intercom on a Brooklyn brownstone without damaging it? — competitor FAQ — same URL
 - Is there a monthly fee? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-heights-brooklyn-ny
 - Who installs intercom systems? / Why install an intercom system? — competitor page — https://www.
+
+## Park Versailles, Bronx — /intercom-installation-park-versailles-bronx-ny (factory research, 2026-11-02)
+
+**Notes before using this:** I ran out of searches before I could check several things. I didn't pull any HPD, 311 or DOB records for the area, and I found no Reddit threads. My search tool also can't show Google People Also Ask, related searches, Bing, DuckDuckGo or AnswerThePublic results. All of those are marked EMPTY below.
+
+Two other problems with the sources:
+- Many intercom-specific details come from Abstract Enterprises, a competing installer. Its pages treat Park Versailles as mostly the Parkchester complex. Check those claims before reusing them, and don't copy their wording.
+- Sources disagree on where Park Versailles is. Older sources say it became part of Parkchester. Real-estate and service sites put it south of Parkchester, around Croes Ave and Westchester Ave near Bronx River and Soundview. Decide which one the page will use first.
+
+### Intercom angles specific to this neighborhood (most important)
+- **Parkchester intercom complaint (News 12):** A Parkchester couple says they've been unable to buzz in guests or deliveries for months due to a broken intercom system. Ricky Stukes, a veteran and amputee, and his wife Maria, who also uses a wheelchair, said deliveries like medication are often missed without a working intercom. Parkchester Management told News 12 the system is working and residents with issues should contact them. — https://bronx.news12.com/parkchester-couple-struggles-with-broken-intercom-system
+- **Emergency intercom post:** The Parkchester Condominiums installed a "blue light emergency system" near Virginia and McGraw avenues. Pressing its red "Emergency" button connects to first responders through the intercom. — https://bronx.news12.com/parkchester-condo-installs-public-emergency-button-to-help-protect-residents
+- **Package theft (Parkchester Times):** A Parkchester South resident warned about increasing package theft in the community. She advised residents to email the board asking for package lockers and told them to "only buzz in people you know or deliveries you are expecting." — https://parkchestertimes.com/2025/06/18/lets-stop-package-theft-together-says-parkchester-resident-as-community-urged-to-stay-alert/
+- **Bronx River Houses (NYCHA, nearby):** Comptroller Lander visited the Bronx River Houses, where residents complained about trash, dirty staircases and unsecured doors. Norma Saunders, president of the Bronx River Tenant Association (225 senior-only apartments), said her biggest safety concern was not having secured doors. — https://www.thecity.nyc/2022/09/21/most-nycha-buildings-have-open-doors-or-busted-locks/ and https://www.thecityreporter.nyc/2022/09/21/most-nycha-buildings-have-open-doors-or-busted-locks/
+- **Bronx River Houses security history:** In 1999 the NYPD finished installing 135 CCTV cameras there. The development has 3,025 residents. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- **NYCHA entry upgrades elsewhere in the Bronx:** NYCHA's citywide security work added intercom systems, steel or reinforced aluminum doors, and layered access control at building entrances. (This story is about Marble Hill, not Park Versailles.) — https://www.riverdalepress.com/stories/nycha-sees-crime-drop-but-marble-hill-houses-residents-cite-security-concerns,241342
+- **Intercom law (MDL §50-a):** An intercom is required in Class A multiple dwellings built or converted after January 1, 1968 with eight or more apartments. A broken intercom is a Class B hazardous violation that HPD enforces on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+  - *Conflicting source on older buildings:* For buildings built before January 1, 1968, self-locking doors and a two-way intercom must be installed if a majority of tenants request them. This matters for the pre-1968 multi-family housing on Croes Ave. — https://www.justanswer.com/landlord-tenant/7l0ku-live-high-rise-apartment-nyc-several.html
+- **Self-closing doors:** Under Local Law 71 of 2022, HPD must pick 300 Class A multiple dwellings each year for proactive self-closing door inspections. — https://ufiredoors.com/blog/nyc-self-closing-door-law/
+- **Permits (sources disagree):**
+  - One source says low-voltage intercom work doesn't need a DOB permit, but line-voltage wiring (for example powering a new electric strike or maglock) needs an electrical permit. — https://needinstall.com/us/new-york/new-york-city/access-control
+  - Another says new intercom installations and substantial modifications require DOB permits, and electrical work needs a separate permit and a licensed electrician. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Landmarks (LPC):** Parkchester is not landmarked. The Parkchester buildings and their statues are not city landmarks. — https://ny1.com/nyc/all-boroughs/news/2018/08/23/decades-old-terracotta-statues-have-gone-missing-from-parkchester-building-bronx-nyc
+  - The LPC recommended a Parkchester Historic District in its 1978 Bronx survey. Facade work is sensitive: the handling of the terra-cotta sculptures during recent renovations worried residents. — https://www.mas.org/news/in-support-of-the-parkchester-historic-district/
+- **Competitor's claims (unverified):** Abstract Enterprises says it covers Parkchester North and South Condominium buildings, row houses around the complex, the Bangla Bazaar commercial strip on Starling Avenue, and the Westchester Avenue commercial spine under the 6 train. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-park-versailles-bronx-ny
+- HPD violation counts for the area: EMPTY
+- 311 intercom complaint data for the area: EMPTY
+- DOB permits for the area: EMPTY
+- Reddit threads: EMPTY
+
+### History and development
+- Park Versailles began as the Mapes Farm, established by Leonard Mapes in 1851. The name appeared on some early real-estate maps but never caught on. It came back in 1920 when the last 200 lots were auctioned, but most locals still called it the Mapes Farm. — https://untappedcities.com/2014/02/07/historic-neighborhoods-parkchester-the-bronx/
+- John Mapes renamed the area Park Versailles, hoping the fancy name would sell the land for more. — https://theneighborhoods.substack.com/p/parkchester-the-bronx
+- One source gives the farm's boundaries as East Tremont Avenue, Croes Avenue, White Plains Road and Westchester Avenue, east of the Bronx River. This is a single secondary source. — https://bronxtreeservices.com/park-versailles-tree-services/
+- A 1943 market analysis counted almost 55,000 residents in Park Versailles. — https://www.untappedcities.com/historic-neighborhoods-parkchester-the-bronx/
+- MetLife bought the 129-acre Parkchester site from the Archdiocese in 1938 for $5 million. Non-white tenants weren't allowed to rent there until 1968. — https://www.welcome2thebronx.com/2020/05/parkchester-80-years-later-a-brief-history-of-a-city-within-a-city/
+- Parkchester was finished in 1941, and by 1943 all 12,271 apartments were occupied. — https://simple.wikipedia.org/wiki/Parkchester,_Bronx
+- The name "Parkchester" combines Park Versailles and Westchester Heights. — https://en.wikipedia.org/wiki/Parkchester,_Bronx
+
+### Streets, commercial corridors and location
+- Park Versailles sits near where the Bronx River Parkway meets the Cross-Bronx Expressway. Westchester Avenue is its main street and commercial hub. It's patrolled by the NYPD's 43rd Precinct. — https://tiosq.com/park-versailles-bronx-ny-private-investigator/
+- It belongs to Bronx Community Board 9, with ZIP codes including 10460, 10461 and 10462. — https://bronxtreeservices.com/park-versailles-tree-services/
+- The Parkchester 6 train station is at Hugh J. Grant Circle, where East 177th Street, Metropolitan Avenue and Westchester Avenue meet. — https://en.wikipedia.org/wiki/Parkchester_station
+
+### Building stock
+- 1350 Croes Ave (10472) is a 3,685 sq ft multi-family home built in 1930. — https://www.weichert.com/NY/Bronx/Bronx/Park_Versailles/
+- 1240 Croes Ave is a 3,000 sq ft multi-family home built in 1955. — https://www.redfin.com/NY/Bronx/1240-Croes-Ave-10472/home/44721818
+- 1746 Westchester Ave is a brick legal 3-family home built in 2006. — https://www.redfin.com/neighborhood/58570/NY/New-York/Park-Versailles/views
+- PropertyShark lists 1423 Croes Ave under "Park Versailles - Bronx River," with 4 residential units. — https://www.propertyshark.com/mason/Property/73902/1423-Croes-Ave-Bronx-NY-10472/
+- The Stratton Co-op is at 1425-1475 Thieriot Ave (10460). — https://www.apartmenthomeliving.com/bronx-ny/park-versailles
+- The LPC describes Parkchester as 51 clusters of 7–13 story brick buildings with more than 12,000 apartments. — https://pix11.com/news/local-news/bronx/bronx-woman-on-mission-to-protect-hundreds-of-terracotta-sculptures-in-parkchester/
+
+### Parks, landmarks and what it's known for
+- Captain William Harry Thompson Park is at East 174th Street and Ward Avenue. — https://bronxtreeservices.com/park-versailles-tree-services/
+  - *Conflicting source:* another source says Park Versailles isn't close to public parks. — https://tiosq.com/park-versailles-bronx-ny-private-investigator/
+- Parkchester's buildings are Art Deco Moderne with lots of terra-cotta ornament. — https://www.mas.org/news/in-support-of-the-parkchester-historic-district/
+- Members of The Chiffons lived at Bronx River Houses in the early 1960s. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+
+### Questions people ask — Intercom Installation in Park Versailles
+
+**Search features I couldn't access:** Google PAA: EMPTY · PASF / related searches: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo: EMPTY · Reddit: EMPTY
+
+The questions below are real, but they come from FAQ sections on published web pages (mostly installers and vendors), not from Google's PAA box.
+
+- Do you need a permit for intercom installation in Bronx? — page FAQ (competitor) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-ny
+- Do you serve all Bronx neighborhoods for intercom installation? — page FAQ (competitor) — same URL
+- How much does intercom installation cost in Bronx? — page FAQ (competitor) — same URL
+- What's the best intercom for Bronx River apartment buildings? / Can you install intercoms and security cameras together in Bronx River? — page FAQ (competitor) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-river-bronx-ny
+- How do I fix my intercom system myself? / Why is my apartment buzzer not working? — page FAQ (competitor) — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-parkchester-bronx-ny
+- What's the history behind the Park Versailles name? — page FAQ (competitor) — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-park-versailles-bronx-ny
+- How much does it cost to install an intercom system in New York City? — vendor FAQ. Answer given: about $500 to $5,000 or more for an NYC apartment building. — https://butterflymx.com/blog/intercom-installers-nyc/
+- How much does an apartment intercom system cost? / How much does intercom installation labor cost? / What is the monthly cost of an apartment intercom system? — vendor FAQ — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- What is the price of installing an intercom system? / How much does it cost to install a new intercom? — vendor FAQ — https://city-smart.net/intercom-systems-installation-services-in-nyc/apartment-intercom/
+- Is a broken intercom an HPD violation? — vendor FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- What happens if the intercom does not work? / Can I withhold rent for a broken intercom? — vendor FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Does my NYC building legally require a working intercom? — vendor FAQ — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Who is responsible for apartment intercom repair? / Is a broken intercom a housing code violation? / How long does apartment intercom repair typically take? / Can a tenant repair the apartment intercom themselves? — vendor FAQ — https://knockli.com/blog/apartment-intercom-system-repair
+- Does my Brooklyn brownstone need a permit for access control? — directory FAQ — https://needinstall.com/us/new-york/new-york-city/access-control
+- Does low voltage work require a DOB permit in New York City? / Do you need a license to install low voltage in New York State? — page FAQ (competitor) — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+- Is a low voltage license separate from an electrician license in New York? — licensing site FAQ — https://getlicensemap.com/states/low-voltage-installer/new-york
+- What did people search for similar to intercom repair in Bronx, NY? / What are people saying about security systems services near Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Bronx%2C+NY
+- Yelp complaint: a reviewer said repair crews broke their working bell while fixing someone else's, and said the company never told them when techs would be late or not coming — Yelp — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Yelp praise: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts…" — Yelp — https://www.yelp.com/search?find_desc=Intercom+Systems
+
+## Pelham Bay, Bronx — /intercom-installation-pelham-bay-bronx-ny (factory research, 2026-11-02)
+
+**Search limits:** I could only use a general web search tool. I could not see Google's People Also Ask boxes, its "People also search for" lists, Bing, DuckDuckGo or AnswerThePublic directly, so those are marked EMPTY. I found no Reddit threads, no HPD, 311 or DOB records for Pelham Bay, and no Patch or BKReader coverage. Lines marked *Inference* are my own reasoning, not sourced facts.
+
+### Intercom-specific facts (main angles)
+
+**Pelham Bay buildings where an intercom is or may be legally required**
+- *Inference:* The neighborhood mixes buildings that fall under the 1968 intercom law with buildings that don't. That makes a good page angle: check whether your building is covered.
+- 1874 Pelham Pkwy S ("The Pelham") is a 6 story building in Pelham Bay. It was built in 1970 and has 95 units. Owner is listed as PELHAM OWNERS CORP — https://www.compass.com/building/1874-pelham-pkwy-s-bronx-ny-10461/293528154155267125/
+  - *Inference:* Built after 1968 with 8+ units, so it likely falls under the intercom law (MDL §50-a, below).
+- Pelham Bay Towers, 3121 Middletown Rd: a 12-story condominium building completed in 1963. It has 157 units, is listed as a co-op, and has two elevators — https://www.homes.com/building/pelham-bay-towers-the-bronx-ny/b-b90sqnh1ttp68/
+  - *Inference:* Built before 1968, so it needs a closer review under the 1968 rule.
+- 1910 Pelham Parkway South was built in 1964 and has 6 stories and 52 units. Building class: D4 Elevator Cooperative — https://streeteasy.com/building/1910-pelham-parkway-south-bronx
+- 1870 Pelham Pkwy South: A 57-unit elevator apartment building, Year built: 1960 — https://www.bronxcre.com/bronx-commercial-real-estate/1870-pelham-parkway-south-bronx-ny/8cc54127-3943-4bb3-9351-ec5637d2d3b1/
+- Other co-ops in ZIP 10461: listings at 3321 Bruckner Boulevard (co-op) and 1725 Edison Avenue (condo) — https://miltoncoste.com/zip/10461
+
+**What the law requires (city and state)**
+- The intercom law (Multiple Dwelling Law §50-a) requires every Class A multiple dwelling erected or converted after January 1, 1968 that contains eight or more apartments to have an intercommunication system at its self-locking main entrance door. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Same source: under the NYC Housing Maintenance Code, a non-working intercom or buzzer is a Class B hazardous violation, enforceable on tenant complaint — same URL
+- For pre-1968 buildings (Pelham Bay's main stock), ButterflyMX says these can also require a more careful review — https://butterflymx.com/blog/nyc-intercom-law/
+- **Conflicting claim:** Seneca says the maintenance rule applies to most residential buildings with three or more units, while Parker ties the requirement to 8+ units. Not resolved. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- How complaints become violations: Tenant complaints filed through 311 trigger HPD inspections, and A system where some apartments work and others do not constitutes a violation. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Video isn't required: a basic audio intercom meets this requirement — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Co-op remedy (a West Village case, not local): a shareholder can withhold your maintenance fees until a repair is made, based upon the proprietary lease. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+
+**DOB permits and licensing**
+- Under 50 volts, no electrical permit is needed for signaling, communication, alarm, and data transmission circuits, provided that such work is performed by a licensed master electrician, special electrician, or qualified person — https://up.codes/s/low-voltage-electrical-work
+- That rule (AC 28-105.4.7) is effective December 21, 2025. Separately, General Business Law Article 6-D requires a Department of State license to install or service security systems — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Conflicting source:** Low Voltage Nation says Low voltage electrical work requires permits through DOB. — https://www.lowvoltagenation.com/posts/nec-2026-new-york-nyc-electrical-code
+
+**Landmarks rules (LPC)**
+- Landmarked sites are only inside the park. The Orchard Beach bathhouse and promenade became a New York City Landmark in 2006 — https://www.nycgovparks.org/parks/pelham-bay-park/highlights/12110
+- The Bartow-Pell Mansion's facade, interior, and surrounding grounds are designated as a New York City designated landmark and a National Historic Landmark — https://en.wikipedia.org/wiki/Bartow%E2%80%93Pell_Mansion
+- Historic district covering the residential blocks: EMPTY (none found)
+
+**City data for Pelham Bay specifically**
+- HPD intercom violations: EMPTY
+- 311 complaints: EMPTY
+- DOB intercom permits: EMPTY
+
+**Local security news (entry, garages, packages)**
+- May 2026 car break-ins and airbag thefts were reported near Pilgrim and St. Theresa avenues, and Edison Avenue. Neighbors told News 12 that car break-ins have become a recurring problem in the area. — https://bronx.news12.com/2026/05/26/pelham-bay-community-members-shaken-after-overnight-string-of-car-break-ins-airbag-thefts/3fQmSfJAecOGOzPJEan86p
+- Nearby Pelham Parkway, Jan 2025: a thief got into a private garage for co-op shareholders. Surveillance video shows the thief first lift the garage door. The co-op president said: "This is a new level of crime where they get into the building" — https://abc7ny.com/post/thief-breaks-pelham-parkway-bronx-parking-garage-smashing-windows-23-cars-search-valuables/15845140/
+  - *Inference:* This supports covering garage and side doors, not just the front door.
+- Pelham Bay's Nextdoor safety feed includes a package-theft reporting thread — https://nextdoor.com/neighborhood/pelhambay--bronx--ny/
+- A break-in at the Pelham Bay Discount and Hardware store on Westchester Avenue (date not shown) — https://www.cbsnews.com/newyork/news/nypd-looking-for-suspect-caught-on-camera-throwing-rock-through-glass-door-breaking-into-hardware-store-in-bronx
+- One crime-stats site grades the Pelham Bay Park area burglary risk as Low (−28% vs. Bronx), updated May 2026 — https://www.doorprofit.com/crime-statistics/city/Bronx-NY/neighborhood/pelham_bay_park/
+
+**Competing pages**
+- A competitor's NYC intercom page describes Pelham Bay & Throggs Neck as Residential co-op complexes, multi-family homes, waterfront properties, commercial strips along Eastern Boulevard — https://abstractenterprisessecuritysystems.com/residentialcommercialintercominstallation
+- A Bronx installer's advice for pre-war walk-ups: Use existing risers where possible to avoid major wall work — https://www.intercomrepairny.com/intercom-system-installation-bronx.html
+
+### Neighborhood background
+
+**History**
+- The town was once known as Pell's Point during colonial times, named for landowner Thomas Pell; it was annexed into New York City in 1895 — https://historica.fandom.com/wiki/Pelham_Bay
+- Despite the name, the neighborhood was not part of the historical Town of Pelham — https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx
+- The subway arrived when On May 30, 1920, the Pelham Line was extended — https://en.wikipedia.org/wiki/IRT_Pelham_Line
+- During the Residential Boom (1920s–1950s): Streets like Buhre Avenue, Crosby Avenue, and Middletown Road became lined with single- and multi-family homes, apartments, and small businesses. — https://pelhambaythebronxneighborhood.org/pelham-bay-the-rich-history-and-enduring-heritage-of-a-bronx-gem/
+- Who built it (specific builders or developers): EMPTY
+
+**Building stock**
+- 57.0% of the residential real estate here was built from 1939 or earlier — https://www.neighborhoodscout.com/ny/bronx/pelham-bay
+- Housing is mostly detached and semi-detached single-family homes, brick two-family houses, and modest post-war apartment buildings, most three to six stories. Tudor and Colonial Revival details appear on Wilkinson, Hobart and Crosby avenues — https://reinventny.com/blog/pelham-bay
+
+**Main streets and businesses**
+- Main shopping streets: Westchester Avenue, Buhre Avenue, Middletown Road, and Crosby Avenue — https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx
+- The 6 train runs on elevated tracks over Westchester Avenue. With the exception of 0.5 miles (0.80 km) of its length, Westchester Avenue is underneath elevated tracks — https://en.wikipedia.org/wiki/Westchester_Avenue
+  - *Inference:* Train noise may matter when choosing outdoor audio panels on that street.
+- Buhre Avenue businesses include Louie & Ernie's Pizza and Pelham Bay Diner — https://pelhambaythebronxneighborhood.org/
+- Older article (~12 years old): Pilgrim Pharmacy and Quality Café at Buhre and Westchester, plus the Pelham Bay Merchants Association — https://www.bxtimes.com/pelham-bay-biz-blitz-with-buhre-ave-subway-station-fix/
+
+**Parks and what it's known for**
+- Pelham Bay Park is three times the size of Central Park and has Orchard Beach, the Bronx's only public beach — https://www.nyctourism.com/places/pelham-bay-park/
+- Pelham Bay is known for its Italian-American community and is patrolled by the 45th Precinct — https://bronxtreeservices.com/pelham-bay-tree-services/
+- **Population figures conflict:** 11,931 (2011, Historica), about 28,691 (tree-service site) and 24,885 (Redfin, which also wrongly places Pelham Bay in Queens). Use with caution.
+
+**Reddit, Patch and BKReader**
+- Local Reddit threads: EMPTY
+- Patch and BKReader: EMPTY
+
+### Questions people ask — Intercom Installation in Pelham Bay
+None of these were confirmed as Google People Also Ask questions. Each is an FAQ heading found on a page in the search results.
+
+- Do you need a permit for intercom installation in Bronx? — FAQ on a Bronx installer's page — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-ny
+- How much does intercom installation cost in Bronx? — same page — same URL
+- Do you serve all Bronx neighborhoods for intercom installation? — same page — same URL
+- How does intercom system work? / How to fix intercom? / How much does intercom installation cost? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-concourse-bronx-ny
+- What areas do you serve for intercom installation? — installer FAQ — https://abstractenterprisessecuritysystems.com/residentialcommercialintercominstallation
+- How much does it cost to install an intercom system in New York City? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-installers-nyc/
+- Does my NYC building need an intercom? — ButterflyMX FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Can I reuse my existing intercom wiring for a video intercom upgrade? — ButterflyMX FAQ — https://butterflymx.com/blog/replace-buzzer-intercom-with-video-intercom-and-mobile-app/
+- Is a broken intercom an HPD violation? — Parker Custom Security FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Is a video intercom required by NYC law? / What happens if my intercom stops working? — Impera Security FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- How much does intercom installation labor cost? / What is the monthly cost of an apartment intercom system? — Swiftlane FAQ — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- How much do intercom services cost in NYC? — Parker Intercom FAQ — https://parkerintercom.com/the-cost-of-intercom-services-in-nyc-what-you-need-to-know/
+- What is the price of installing an intercom system? / How much does it cost to install a new intercom? — City Smart FAQ — https://city-smart.net/intercom-systems-installation-services-in-nyc/apartment-intercom/
+- Is there a monthly fee for my intercom system? — installer FAQ (Manhattan page) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-manhattan-ny
+- Google People Also Ask — EMPTY
+- Google "People also search for" — EMPTY. The only related searches I saw were Yelp's ("security camera installation", "security doors") — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- Reddit (r/PelhamBay, r/Bronx, r/AskNYC, r/homesecurity) — EMPTY
+- Yelp complaint: a reviewer said their bell was working fine before they broke it while fixing someone else's (Citywide Intercom Service, Katonah Ave — Woodlawn, not near Pelham Bay) — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Yelp praise: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts, and..." — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+
+## Pelham Gardens, Bronx — /intercom-installation-pelham-gardens-bronx-ny (factory research, 2026-11-02)
+
+**Before you use this:** I couldn't read Google's live results, so there is no real People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo data below. Those are marked EMPTY. I also found no Reddit threads about intercoms in Pelham Gardens or the Bronx. I didn't pull HPD violation counts, 311 complaint counts or a DOB permit list for ZIP 10469. You'd need to check NYC Open Data or HPDONLINE for those.
+
+### Intercom facts specific to Pelham Gardens
+
+- Most buildings are small. Pelham Gardens is dominated by single family homes with some small apartment buildings and 2-3 family homes. That means most jobs here are house doorbells or 2–3 button panels, not big lobby systems. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- Housing age: the Median Year Built is 1948. — https://www.homes.com/local-guide/bronx-ny/pelham-gardens-neighborhood/
+- A realtor says "Most of the construction has prewar details". Expect old wiring and old door hardware. — https://www.homes.com/bronx-ny/neighborhood/pelham-gardens/
+- A typical two-family setup: one listing on Waring Ave was a 2-family home where the top-floor owner's unit features 2 spacious bedrooms and the bottom-floor rental unit has 1 bedroom and 1 bathroom. That calls for a two-station, owner-plus-tenant setup. — https://www.redfin.com/NY/Bronx/1304-Waring-Ave-10469/home/44790845
+- Mostly owners, not renters. Nextdoor lists Homeowners:73%. — https://nextdoor.com/neighborhood/pelhamgardens--bronx--ny/
+- Small multi-family homes are common on the market: 0 condos, 1 townhouse, and 11 multi-family units for sale in Pelham Gardens last month. — https://www.redfin.com/neighborhood/63265/NY/New-York/Pelham-Gardens/garages
+- New construction (DOB): Bronx Times ran the headline Permits filed for 3-story residential building with ten units in Pelham Gardens. A new 10-unit building would fall under the state intercom rule below. I don't have the address or date. — https://www.bxtimes.com/category/news/neighborhoods/pelham-gardens/
+- Co-ops line Pelham Parkway South on the southern edge, e.g. units at 1874 Pelham Parkway South Unit 6M. — https://www.redfin.com/neighborhood/63265/NY/New-York/Pelham-Gardens/garages
+- State law (Multiple Dwelling Law): buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system linking the front door to each apartment. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Older buildings: Buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Sources disagree on which small buildings are covered.** Parker says buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. Seneca says the rule applies to most residential buildings with three or more units. Check this before putting it on the page; it matters for Pelham Gardens' 2–3 family homes. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings ; https://senecasecurity.com/learn/nyc-building-security-compliance/
+- HPD: A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Fines and how tenants complain: one installer says HPD penalties are in the $250 to $500 per day range, and tenants should notify management in writing, then file through 311 or HPD. This is a contractor's claim, not an official source. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+- A door release alone isn't enough: A door release button with no way for the occupant to speak to the visitor does not meet the voice communication requirement. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Video isn't required by law: Video is a security and convenience upgrade, not a statutory requirement. — same URL
+- The local HPD office is at 1932 Arthur Avenue, 3rd Floor Bronx, NY 10457 212-863-7050. — https://www.nyc.gov/site/hpd2/contact/borough-service-centers.page
+- DOB permits: Low voltage electrical work (under 50 volts) in New York City typically does not require a traditional electrical permit from the NYC Department of Buildings. However, the work must be performed by a business entity with a certified low voltage installer. — https://www.lowvoltagenation.com/posts/new-york-city-new-york-structured-cabling-permit-requirements
+- Licensing: one licensing guide says fire alarm/CCTV/access control require an Article 6-D license. NYC work additionally requires a DOB Master or Special Electrician. If the job adds new line-voltage power, DOB says an electrical permit is required for most electrical work. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf ; https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- Landmarks (LPC): neither the HDC list nor Wikipedia's list of Bronx historic districts includes Pelham Gardens. The Bronx districts are in places like Fieldston, Longwood, Mott Haven and Riverdale. So LPC rules on facade-mounted panels probably don't apply. Confirm by address in the LPC dataset. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx ; https://data.cityofnewyork.us/Housing-Development/Designated-and-Calendared-Buildings-and-Sites/ncre-qhxs
+- Old doors can make door releases hard to fit. An electrician wrote that on past jobs the owner skipped the unlock function because his door was an old antique non standard thing. — https://forums.mikeholt.com/threads/apartment-intercom.143372/post-2243139
+- Old in-unit handsets: Legacy intercom stations can be over 90 years old and they come in many shapes and sizes. — https://tech.cornell.edu/news/alumni-startup-lets-you-control-access-to-your-apartment-from-anywhere/
+- Smart add-ons: the Ring Intercom is compatible with most modern intercom systems, and Ring offers an online compatibility checker. — https://www.techradar.com/reviews/ring-intercom
+- Local security worries: at the February 10, 2026 Pelham Parkway Neighborhood Association meeting, additional concerns included mail and package theft. The 49th Precinct captain said in 2025, five of the seven major crime categories saw increases compared to the previous year. — https://bronxpost.com/pelham-parkway-residents-raise-safety-concerns-at-february-neighborhood-meeting/
+- Break-in at a co-op garage nearby: on Thwaites Place, a thief got into a private garage for co-op shareholders. Video shows him first lift the garage door. — https://abc7ny.com/post/thief-breaks-pelham-parkway-bronx-parking-garage-smashing-windows-23-cars-search-valuables/15845140/
+- Recent crime on a residential block: Police say a man and another person robbed a 16-year-old near Esplanade and Waring Avenue. (August 2026) — https://bronx.news12.com/2026/08/22/teen-robbed-at-gunpoint-in-pelham-gardens-suspects-wanted/3e70xbcfgSFIMXcmjB84hK
+- Older break-in example: at 1280 Allerton Avenue (Amoco Gas Station), in Pelham Gardens, one person gained entry to the location by breaking the glass window of the front door. — https://www.norwoodnews.org/bronx-robbery-pattern-car-theft/
+- HPD violation counts for 10469: EMPTY
+- 311 intercom complaints for 10469: EMPTY
+- Reddit threads about intercoms in Pelham Gardens: EMPTY
+
+### Neighborhood background
+
+- Boundaries: East Gun Hill Road to the north and east, Pelham Parkway to the south, and the IRT Dyre Avenue Line (5 train) to the west ending at the esplanade. ZIP is 10469. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx ; https://maps.apple.com/place?auid=13071466123669658714
+- Main streets: Eastchester Road is the primary thoroughfare through Pelham Gardens. East Gun Hill Road evolved into a convenient commercial corridor of groceries, bakeries, and service businesses. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx ; https://cityneighborhoods.nyc/pelham-gardens
+- Origins: Thomas Pell, who purchased the land from the Siwanoy on June 27, 1654, at Treaty Oak. The area became part of New York City in 1895. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx ; https://kids.kiddle.co/Pelham_Gardens,_Bronx
+- Turning point: The creation of Pelham Parkway (1897–1908). The Pelham Parkway station was built by the New York, Westchester and Boston Railway (NYW&B), and opened in 1912. — https://cityneighborhoods.nyc/pelham-gardens ; https://en.wikipedia.org/wiki/Pelham_Parkway_station_(IRT_Dyre_Avenue_Line)
+- Later history: During the 1970s, as many Bronx neighborhoods suffered from arson and disinvestment, Pelham Gardens remained remarkably stable. — https://cityneighborhoods.nyc/pelham-gardens
+- Who built it (specific developers): EMPTY
+- Building styles: brick rowhouses and townhouses alongside prewar Tudor and Colonial single-family homes. — https://www.homes.com/local-guide/bronx-ny/pelham-gardens-neighborhood/
+- Oldest house: located at the corner of Woodhull Avenue and Fielding Street, was once a farmhouse. — https://www.movoto.com/guide/ny/pelham-gardens-real-estate-bronx-ny-neighborhood-guide/
+- Terrain: there is a significant valley situated between Laconia Avenue and Eastchester Road, with the most noticeable low point located on Seymour Avenue. — same URL
+- Haffen Park is bordered by Burke, Ely, Hammersley, and Gunther Avenues. A $13.4 million project was announced in April 2026 to reconstruct the pool complex. — https://en.wikipedia.org/wiki/Haffen_Park
+- Other landmarks: the Tripadvisor listing for The Garabedian House. The 49th Precinct is located at 2121 Eastchester Road. Bronx House is at 990 Pelham Pkwy S. — https://www.tripadvisor.com/Attractions-g47369-Activities-zfn21228924-Bronx_New_York.html ; https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx ; https://www.yelp.com/biz/bronx-house-bronx-2
+- Known for: Sal and Dom's Pastry Shop has been serving freshly baked cannoli to this mostly Italian-American crowd since 1956. Also known as a place where people raised here tend to come back and raise families of their own. — https://www.homes.com/local-guide/bronx-ny/pelham-gardens-neighborhood/ ; https://www.homes.com/bronx-ny/neighborhood/pelham-gardens/
+- Local groups: Friends of Pelham Parkway, … the 49th Precinct Community Council, Allerton Avenue Home Owners & Tenants Association, among others. — https://en.wikipedia.org/wiki/Bronx_Community_Board_11
+- Home prices: Redfin shows a median listing price of $725K. — https://www.redfin.com/neighborhood/63265/NY/New-York/Pelham-Gardens/garages
+
+### Questions people ask — Intercom Installation in Pelham Gardens
+
+**Google People Also Ask:** EMPTY (couldn't get live results)
+**People Also Search For / related searches:** EMPTY
+**AnswerThePublic:** EMPTY
+**Bing:** EMPTY
+**DuckDuckGo:** EMPTY
+**Reddit (r/PelhamGardens, r/Bronx, r/AskNYC, r/homesecurity):** EMPTY
+
+These are real questions, but they come from installer FAQ pages, forums and Yelp, not from search-engine question boxes:
+
+- Do you need a permit for intercom installation in Bronx? — installer FAQ page — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-ny
+- Do you serve all Bronx neighborhoods for intercom installation? — installer FAQ page — same URL
+- How much does intercom installation cost in Bronx? — installer FAQ page — same URL
+- How much does it cost to install an intercom system in New York City? — installer blog — https://butterflymx.com/blog/intercom-installers-nyc/
+- What affects the cost of an apartment intercom system with door release in NYC? — installer guide — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
