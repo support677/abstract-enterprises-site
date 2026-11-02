@@ -272,6 +272,32 @@ Only plays AESS wasn't already running were added. Already covered elsewhere: co
 - Rules: compare brands against each other — never put AESS prices next to a retail or manufacturer store price. Brands AESS carries/partners with get installed pricing per [[aess-pricing]]; quotes still default to the non-branded system. Real specs only (pull from manufacturer pages with Firecrawl), real product photos only. Link each comparison page to both brands' service pages and the matching hub (§12.4).
 - Add them to PAGE-QUEUE.md and build them in the normal 3-at-a-time page flow.
 
+### 12.6 Next-year pages (Anwar, Nov 2 2026)
+- Publish "[year+1]" versions early: "Best Security Cameras of 2027", "Best Video Intercom for NYC Buildings 2027", "Lorex vs Reolink (2027)". The first good page usually takes the top spot and keeps it.
+- Same rules as §12.5 (real specs, real photos, no AESS-vs-retail price comparisons). Each December, update the year in title/H1/first sentence and refresh the specs — never leave a stale year live.
+
+## 13. Off-site plays — borrow trusted sites' authority (Anwar, Nov 2 2026)
+Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<service>.md), answer in the first line, real AESS facts only (§12.3), real job photos, and a link back to the matching AESS page (§12.4 target page).
+
+### 13.1 LinkedIn articles
+- One article per service × area (same order as the pages: hub → borough/county → neighborhood), under 330 words, the answer in the first line, keyword in the title.
+- Posted from Anwar's / AESS's own LinkedIn, links to the matching site page. LinkedIn is a top source for Gemini and Google AI Overviews.
+
+### 13.2 Real research on Zenodo
+- Only genuine studies built from real data (never a sales piece dressed as research — Zenodo removes those).
+- First study: "Broken building intercoms in NYC — HPD intercom violations and 311 buzzer complaints by borough and neighborhood, 2020–2026" from NYC Open Data. Methods + data tables + charts; cite it from the intercom and door-buzzer pages. The same data doubles as the landlord lead list.
+
+### 13.3 Reddit answers
+- Answer real questions in local and niche subs (r/AskNYC, r/Brooklyn, r/Bronx, r/Queens, r/longisland, r/homesecurity, r/HomeImprovement, neighborhood subs) with a genuinely helpful answer first.
+- Always disclose: "I own a security company in NYC (Abstract Enterprises Security Systems)." Approved by Anwar. Never post as a fake customer, never use multiple accounts, follow each subreddit's self-promotion rules. Link to an AESS page only when it actually answers the question.
+- Use the questions found here as FAQ material for the pages (§ research table).
+
+### 13.4 Gamma decks — lowest priority
+- Allowed but last: Google demotes thin third-party-hosted pages ("site reputation abuse"). Only build a deck if it carries real, unique content and links back to the target page.
+
+### 13.5 Social platforms
+- See Anwar's social search plan (Facebook, Instagram, YouTube, TikTok) in support677/Aess-housecall-connector `plans/SOCIAL-SEARCH-PLAN.md` — same structure, same blueprint, content sized to each platform.
+
 ---
 
 *End of blueprint. Edit this file directly to evolve the spec — do not rely on memory or chat history.*
