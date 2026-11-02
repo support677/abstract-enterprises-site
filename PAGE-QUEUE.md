@@ -232,7 +232,7 @@ BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-long-island | Mag Loc
 BUILDING 2026-11-02T00:19Z factory | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-bronx | Mag Lock Installation | Bronx | up /mag-lock-installation-nyc | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-staten-island | Mag Lock Installation | Staten Island | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T03:23Z factory | mag-lock-installation-nassau-county | Mag Lock Installation | Nassau | up /mag-lock-installation-long-island | (516) 346-5778 | GBP Brooklyn
@@ -574,7 +574,7 @@ LIVE | intercom-installation-manhattan-beach-brooklyn-ny | Intercom Installation
 LIVE | intercom-installation-mapleton-brooklyn-ny | Intercom Installation | Mapleton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-02T00:19Z factory | intercom-installation-marine-park-brooklyn-ny | Intercom Installation | Marine Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-mill-basin-brooklyn-ny | Intercom Installation | Mill Basin, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-02T03:23Z factory | intercom-installation-morris-park-bronx-ny | Intercom Installation | Morris Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | intercom-installation-morris-park-bronx-ny | Intercom Installation | Morris Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | intercom-installation-morrisania-bronx-ny | Intercom Installation | Morrisania, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | intercom-installation-mott-haven-bronx-ny | Intercom Installation | Mott Haven, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-02T03:23Z factory | intercom-installation-ocean-hill-brooklyn-ny | Intercom Installation | Ocean Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
