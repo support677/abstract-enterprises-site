@@ -2823,3 +2823,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-mott-haven-bronx-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-pelham-gardens-bronx-ny | QUEUED
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-park-versailles-bronx-ny | QUEUED
+2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-pelham-bay-bronx-ny | QUEUED
