@@ -223,8 +223,8 @@ LIVE | sonos-installation-bayside-queens-ny | Sonos Installation | Bayside, Quee
 LIVE | sonos-installation-pelham-bay-bronx-ny | Sonos Installation | Pelham Bay, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | Tottenville, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-01T21:01Z factory | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-01T21:01Z factory | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-01T21:01Z factory | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
+TODO | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -567,7 +567,7 @@ LIVE REBUILD | intercom-installation-fulton-ferry-brooklyn-ny | Intercom Install
 HOLD-THIN no intercom demand (0 bldgs with 4+ units, 0 HPD intercom violations; see DAILY-LOG 2026-11-01) | intercom-installation-gerritsen-beach-brooklyn-ny | Intercom Installation | Gerritsen Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-greenwood-heights-brooklyn-ny | Intercom Installation | Greenwood Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-highland-park-brooklyn-ny | Intercom Installation | Highland Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-01T21:01Z factory | intercom-installation-homecrest-brooklyn-ny | Intercom Installation | Homecrest, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+REBUILD | intercom-installation-homecrest-brooklyn-ny | Intercom Installation | Homecrest, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-01T21:01Z factory | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jerome Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-locust-point-bronx-ny | Intercom Installation | Locust Point, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-manhattan-beach-brooklyn-ny | Intercom Installation | Manhattan Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
