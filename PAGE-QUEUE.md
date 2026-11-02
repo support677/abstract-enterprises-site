@@ -568,7 +568,7 @@ HOLD-THIN no intercom demand (0 bldgs with 4+ units, 0 HPD intercom violations; 
 LIVE REBUILD | intercom-installation-greenwood-heights-brooklyn-ny | Intercom Installation | Greenwood Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-highland-park-brooklyn-ny | Intercom Installation | Highland Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-homecrest-brooklyn-ny | Intercom Installation | Homecrest, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-01T21:01Z factory | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jerome Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jerome Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-locust-point-bronx-ny | Intercom Installation | Locust Point, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-manhattan-beach-brooklyn-ny | Intercom Installation | Manhattan Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-mapleton-brooklyn-ny | Intercom Installation | Mapleton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
