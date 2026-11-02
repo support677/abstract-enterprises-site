@@ -1635,3 +1635,405 @@ Questions found on other pages:
 - Related search "Security Camera Installation" — Yelp, near Borough Park — https://www.yelp.com/search?find_desc=Intercom+System+Services&find_loc=Borough+Park%2C+Brooklyn%2C+NY
 - Yelp complaint: a reviewer of Gambi Electric (Park Slope listing) objected to "disconnecting, dismantling and throwing out a perfectly working exterior intercom panel." — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Park+Slope%2C+Brooklyn%2C+NY+11215
 - Yelp praise: "We have had an old LeeDan intercom for decades and finally with..." and They went the next day to repair my intercom system." — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY
+
+## Mill Basin, Brooklyn — /intercom-installation-mill-basin-brooklyn-ny (factory research, 2026-11-02)
+
+**Read this first:** I had 15 searches. My search tool doesn't show Google's People Also Ask boxes, its related searches, Bing or DuckDuckGo results, or AnswerThePublic. So those parts are marked EMPTY, and I didn't make up questions for them. I also couldn't get Mill Basin–specific HPD, 311 or DOB permit data, and none of my searches turned up a real Reddit thread about Mill Basin intercoms. Anything I worked out myself rather than read in a source is labeled **[inference]**.
+
+### Intercom facts specific to Mill Basin (most important)
+- **One company already has a Mill Basin intercom page.** Abstract Enterprises runs a page with the same angle: it lists Aiphone, ButterflyMX, Comelit, 2N and Akuvox, and has FAQs like "How long does intercom installation take in a Mill Basin home?" If that's your own site, this new page could compete with it in search. If it's a competitor, this is the page to beat. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-mill-basin-brooklyn-ny
+- **That company's Yelp listing** shows Abstract Enterprises Security Systems 5.0 (1 review) 80 Orville Dr Verified License, and its ad mentions intercom installation in Suffolk County. — https://www.yelp.com/search?find_desc=Intercom+System+Services&find_loc=Brooklyn%2C+NY
+- **Most homes are single houses, so the apartment intercom law mostly doesn't apply.** Mill Basin is zoned as a predominantly residential neighborhood with one- or two-family residences. The state law only covers every Class A multiple dwelling erected or converted after January 1, 1968 containing eight or more apartments. **[inference]** Most jobs here will be private-home video intercoms, gate and driveway stations, and door-to-dock or whole-house systems, not code-required lobby panels. — https://en.wikipedia.org/wiki/Mill_Basin,_Brooklyn ; https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Small buildings get partial coverage.** Buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. Older buildings are covered once tenants occupying a majority of the apartments request it in writing. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **HPD enforcement (citywide rule, not Mill Basin data):** HPD classifies intercom violations and most door lock violations as Class B hazardous, carrying fines of $250 to $500 per day until corrected. A 311 complaint typically triggers an HPD inspection. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **A basic audio system is enough for the law.** NYC law requires a working two-way communication and door release system for buildings with more than 8 units — a basic audio intercom meets this requirement. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- **Some Mill Basin listings are multi-unit or condo**, where these rules may apply. Mill Harbor Condominium is a gated community in Mill Basin. Redfin also counted 3 condos, 1 townhouse, and 23 multi-family units for sale in Mill Basin last month. — https://www.redfin.com/neighborhood/92388/NY/New-York/Southeastern-Brooklyn/rentals ; https://www.redfin.com/neighborhood/224195/NY/New-York/Mill-Basin/multi-family-homes-for-sale
+- **Big waterfront estates mean long cable runs and several entry points.** More than 200 have their own docks and a few have elevators. One, on National Drive, has a six-car garage (from a 1991 NYT quote). One listing is 14,000 sq ft waterfront estate with pool, boat slips, spa. — https://legallysociable.com/2015/08/06/the-odd-mcmansions-of-mill-basin-brooklyn/ ; https://www.cityrealty.com/nyc/market-insight/features/get-to-know/slashed-30m-13m-see-mill-basin-mansion-keeps-coming-back/16331
+- **Flood risk changes where equipment should go.** There are 3,136 properties in Mill Basin that have risk of flooding over the next 30 years. This represents 98.8% of all properties in Mill Basin. **[inference]** Use weather- and salt-rated outdoor panels, and keep power supplies, transformers and network gear out of basements. — https://firststreet.org/neighborhood/mill-basin-ny/7607_fsid/flood
+- **Sandy flooded basements here.** Waterfront homes on Mill Island were slammed by Hurricane Sandy, say residents who claim the super storm flooded the basements a unearthed bulkheads. — https://www.brooklynpaper.com/mill-islanders-sandy-hit-us-pretty-hard/
+- **June 2026 attempted break-in:** The incident happened at a home on Mayfair Drive South, where the victim told police that two individuals attempted to force their way inside. Police say the two individuals fled in a Mercedes‑Benz G‑Wagon and a Rolls‑Royce before officers arrived. — https://brooklyn.news12.com/2026/06/07/man-assaulted-shots-fired-during-attempted-break-in-at-mill-basin-home/3F1eA9ekEXmjg8lYqbXERg
+- **April 2026 carjacking:** it unfolded just before 4:30 p.m. Wednesday in the Lowe's parking lot, in front of 5602 Avenue U. — https://brooklyn.news12.com/carjacking-chaos-unfolds-in-mill-basin-72-year-old-woman-in-walker-struck-another-knocked-to-the-ground
+- **Business burglaries (older story, about 2 years ago):** The first burglary took place at China Wok on Avenue K just before 4 a.m. on July 27. — https://brooklyn.news12.com/nypd-searching-for-two-men-wanted-for-string-of-mill-basin-burglaries
+- **Residents have pushed for private patrols before.** An organizer cited a dramatic uptick in vehicle break-ins and drug dealing on many, many blocks in our community. — https://www.brooklynpaper.com/mill-basin-residents-push-for-private-security-patrol/
+- **The civic association is talking about crime right now.** Its October 13 meeting touched on a number of community issues, including crime, data centers and the upcoming election. — https://canarsiecourier.com/mill-basin-civic-hosts-first-meeting-since-summer-break/
+- **City data:** HPD violations, 311 intercom complaints and DOB low-voltage permits for 11234 / CB18 — EMPTY (not found).
+- **Landmarks rules:** I found no LPC historic district or landmark designation in Mill Basin. Brownstoner's 2025 roundup tags the area, but the new districts it lists are elsewhere. — https://www.brownstoner.com/architecture/brooklyn-landmarks-preservation-commission-2025-designations/ **[inference: no landmarks approval needed for exterior panels; confirm on the LPC map]**
+- **Reddit threads about intercoms in Mill Basin:** EMPTY. Note that Abstract Enterprises pages mention "Reddit threads," but they don't link to any actual thread.
+
+### History and development
+- In 1664, John Tilton, Sr. and Samuel Spicer of Gravesend acquired much of the land that became Mill Basin from the Canarsee tribe. The area quickly became known for its many tidal mills. — https://brooklyneagle.com/303024/mill-basin-history/
+- The area, later called Mill Basin, retained its rural character until Robert L. Crooke built a lead-smelting plant there in 1890. — https://brooklynreporter.com/nabetags/mill-basin/
+- In 1906, the Flatbush Improvement Company bought the marshland and hired the Atlantic, Gulf and Pacific Company to dredge the creeks and fill in open meadows. Within a decade, National Lead, Gulf Refining and other firms opened plants on the land. — https://brooklyneagle.com/303024/mill-basin-history/
+- Residential development began after World War II, when Atlantic, Gulf and Pacific sold to the firm of Flatbush Park Homes the land bounded to the north by Avenue U, to the east by East 68th Street. — https://urbanareas.net/info/resources/neighborhoods-brooklyn/mill-basin-brooklyn-history/
+- One site says Developers such as Fred Trump and Samuel LeFrak... built rows of single-family brick houses with driveways, basements, and backyards that opened directly to the water. (I found only this one source for that claim.) — https://cityneighborhoods.nyc/mill-basin
+- The Mill Island portion of Mill Basin, bordering on Jamaica Bay, saw its development in the 1960's into detached and semi-detached one and two-family homes. — https://www.nyc.gov/site/brooklyncb18/about/mill-island-mill-basin.page
+- **Old Mill Basin** began to be populated between 1920 and 1945. — https://forgotten-ny.com/2008/11/bergen-beach-georgetown-brooklyn/
+
+### Streets, building stock and landmarks
+- **Boundaries:** bordered by Avenue U on the north and the Mill Basin inlet on its remaining sides. Old Mill Basin runs north of Avenue U and south of Avenue N. — https://www.nyc.gov/site/brooklyncb18/about/mill-island-mill-basin.page
+- **Shopping:** Commercial activity is centered along Flatbush Avenue and Avenue U. — https://www.bhsusa.com/neighborhood/new-york-city/brooklyn/mill-basin
+- **Housing eras:** Early 1950s ranches and split-levels stand beside 1980s brick colonials and 21st-century stucco mansions, their docks lined with boats. — https://cityneighborhoods.nyc/mill-basin
+- Older houses and empty properties have been razed, and flashy mansions have been built in their place. Luxurious waterfront houses with private docks now sell for millions of dollars. — https://streeteasy.com/area/mill-basin
+- **Kings Plaza** sits along the south side of Avenue U, between Flatbush Avenue to the west and East 58th Street to the east. It opened in 1970. — https://en.wikipedia.org/wiki/Kings_Plaza ; https://www.tripadvisor.com/Attraction_Review-g60827-d7785279-Reviews-Kings_Plaza_Mall-Brooklyn_New_York.html
+- **Four Sparrow Marsh** has Kings Plaza shopping center to its north and the Jamaica Bay Wildlife Refuge to its south. — https://hiddenwatersblog.wordpress.com/2019/02/25/sparrows/
+- **What it's known for:** National Drive is especially known for its waterfront estates—the house from the movie Anora is actually located there. Also Mill Basin Deli, Established in 1973, and Landi's Pork Store, family-owned since 1928. — https://dashakofman.substack.com/p/mill-basin-bergen-beach-and-marine
+- **Street names for content:** listings include Mayfair Dr, Whitman Dr, Pearson St, Kansas Pl, Montana Pl, Gaylord Dr and Bassett Ave. — https://www.redfin.com/neighborhood/224195/NY/New-York/Mill-Basin/luxury-homes
+
+### Questions people ask — Intercom Installation in Mill Basin
+- Google People Also Ask — EMPTY (couldn't access)
+- Google related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY; DuckDuckGo — EMPTY
+- Reddit (r/MillBasin, r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland) — EMPTY
+- How much does it cost to install an intercom system in New York City? — seen on a ButterflyMX blog (not PAA) — https://butterflymx.com/blog/intercom-installers-nyc/
+- What is the price of installing an intercom system? / How much does it cost to install a new intercom? — City Smart Systems FAQ — https://city-smart.net/intercom-systems-installation-services-in-nyc/
+- How long does intercom installation take in a Mill Basin home? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-mill-basin-brooklyn-ny
+- How much does intercom installation cost in Mill Basin? — competitor FAQ — same URL
+- Do you need a permit for intercom installation in Mill Basin? — competitor FAQ — same URL
+- Can you install key fob access control in my Brooklyn rental building? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-new-york
+- Who's responsible, tenant or landlord? / What's HPD's role if my landlord ignores a broken intercom? / Why does my intercom buzz constantly with no one pressing the button? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-repair-brooklyn
+- Does my NYC building need an intercom? — ButterflyMX blog — https://butterflymx.com/blog/nyc-intercom-law/
+- Is a video intercom required by NYC law? / What happens if my intercom stops working? — Impera FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Is a broken intercom an HPD violation? — Parker FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Should we go with ButterflyMX or stick with a traditional system? / Does ButterflyMX work with elevator access control? — installer blog — https://metrocomsecurity.com/butterflymx-vs-traditional-intercom-nyc/
+- Yelp "people also searched": Alarm System Installation in Brooklyn, NY. Ring Camera Installation in Brooklyn, NY. Security Systems in Brooklyn, NY. Home Network Installation in Brooklyn, NY. — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Brooklyn%2C+NY
+- Yelp praise for a similar job: "Lock & Tech swooped in like a hero, relocating our intercom system outside and installing a magnetic..." — https://www.yelp.com/search?find_desc=Intercom+System+Services&find_loc=Ocean+Parkway,+Brooklyn,+NY
+- Yelp praise: "Especially super annoying intercom jobs like mine." (1Star-Networks) — https://www.yelp.com/search?find_desc=intercom+systems&find_loc=Rockaway+Pkwy%2C+Brooklyn%2C+NY
+- Yelp complaints about nearby intercom companies — EMPTY
+- Local outlets (Patch, BKReader, Bronx Times) on Mill Basin intercoms — EMPTY. The closest local coverage is Canarsie Courier, Brooklyn Paper and News12 Brooklyn, cited above.
+
+**To fill the gaps:** look at Google PAA, Bing and DuckDuckGo by hand in a clean browser. Pull HPD violations, 311 complaints and DOB permits for ZIP 11234 from NYC Open Data. Search Reddit directly.
+
+## Morris Park, Bronx — /intercom-installation-morris-park-bronx-ny (factory research, 2026-11-02)
+
+**Intercom-specific findings (the angles only this page has)**
+
+- **Most buildings here are small.** Housing in Morris Park is mostly one and two family homes of various styles. The neighborhood also has several apartment buildings. So most jobs will be video doorbells or 2–3-station intercoms for houses, not big lobby panels. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **Two kinds of blocks.** A local broker describes it this way: "The north part, called Indian Village, has classic Tudors, and properties there have more land… The south side is more congested and has more two- and three-family homes." — https://homes.com/bronx-ny/neighborhood/morris-park
+- **Where the apartment buildings are.** The housing is overwhelmingly low-rise: semi-detached brick two-families, freestanding single-family homes on modest lots, and pre-war multifamily buildings from the 1920s-1940s. Larger multi-unit apartment buildings cluster near Williamsbridge Road and White Plains Road, mostly six-to-thirty-unit walk-ups from the 1930s with minimal doorman service. This is a real-estate blog, so treat it as medium confidence. — https://reinventny.com/blog/morris-park
+- **Rowhouse blocks.** Rowhouse blocks around Haight Avenue and Colden Avenue show the classic Bronx brick-and-limestone facades typical of speculative builders working for Italian and German immigrant buyers. — https://reinventny.com/blog/morris-park
+- **Lots of extra units and basement apartments.** Listings show the add-on units that need their own stations: "Legal 2-family home in the heart of Morris Park, featuring two additional finished living spaces in the basement." Another listing has a finished basement with a separate entrance. — https://homes.com/bronx-ny/neighborhood/morris-park
+- **Mostly renters.** In Morris Park 65.8% of non-vacant housing units are renter-occupied. That means a lot of landlord-owned 2–3-family houses and walk-ups that HPD rules apply to. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **The law: owners must keep the intercom working.** The NYC Housing Maintenance Code (Administrative Code §27-2045) requires that landlords of multiple dwellings maintain a working door intercom or buzzer system that allows tenants to identify and admit visitors. This applies to most residential buildings with three or more units. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- **Broken intercoms get Class B violations.** HPD classifies non-functioning intercoms as Class B hazardous violations. Improperly locked exits that block egress are Class C immediately hazardous violations. HPD enforces intercom requirements through inspections triggered by routine building reviews or tenant complaints via 311. A system where some apartments work and others do not constitutes a violation. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Pre-1968 walk-ups (MDL 50-a).** This matters for the 1930s walk-ups. Buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing. New York courts have treated a working intercom as an essential service and found that failing to maintain one breaches the warranty of habitability under Real Property Law §235-b. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Newer buildings.** Under the state's multiple dwelling law, buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system linking the front door to each apartment. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- **Egress rule for door strikes and maglocks.** Free egress, the ability to exit a building without keys, credentials, or codes from the interior side, is a non-negotiable life safety requirement. Any access control configuration that impedes interior egress violates NYC fire code. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Local news: break-ins at an apartment building (May 2026).** Two burglaries that happened inside 1600 Tomlinson Ave. on Friday afternoon are forcing neighbors to take extra safety precautions. A neighbor on the first floor shared Ring camera footage of a suspect who is believed to have picked the locks of the two apartments. — https://bronx.news12.com/2026/05/02/morris-park-residents-on-edge-after-apartment-break-ins/5dLin2pH5bucu9nPtsJUwi
+- **Local news: a gunman followed a couple through their front door.** The story was about tailgating at the entrance: the couple walking up the front steps of their home, when a car pulled up. The gunman got out of the backseat and followed them into the building. — https://bronx.news12.com/nypd-gunman-robs-morris-park-couple-of-jewelry-cellphone-valued-at-147000
+- **Package theft on named blocks (CBS, undated).** An Amazon package was stolen from his Narragansett Avenue home; the same culprit hit two other homes nearby on Tenbroeck Avenue. — https://www.cbsnews.com/newyork/news/bronx-package-thefts/
+- **Crime-rate data from aggregators (low confidence, and they disagree).** CrimeGrade: Morris Park, with its burglary rate of 1.053 per 1000, is as safe as the average Bronx neighborhood. — https://crimegrade.org/best-home-security-systems-in-morris-park-bronx-ny/. DoorProfit gives a crime score of A-. — https://www.doorprofit.com/crime-map/city/Bronx-NY/neighborhood/morris_park/
+- **Rezoning will bring new mid-rise buildings, which will need new entry systems.** The Bronx Metro-North Station Area Plan will rezone roughly 46 blocks surrounding a commuter rail line in the Morris Park and Parkchester/Van Nest neighborhoods. — https://citylimits.org/council-approves-rezoning-to-spur-7k-new-homes-around-future-east-bronx-train-stations/. Bronx Times adds that the project will result in 7,000 new housing units near the Parkchester and Morris Park stations. — https://www.bxtimes.com/bronx-officials-amtrak-metro-north-expansion-delays/
+- **Station construction right now.** The MTA lists active notices for Morris Park, Eastchester Rd bridge work (September 2026-October 2026) and Morris Park, construction along Sackett Av (August 2026-January 2027). — https://www.mta.info/project/penn-station-access
+- **Downzoning keeps the core blocks low.** In the 2005 rezoning, eleven full blocks and portions of 19 blocks north and south of Morris Park Avenue went from R4 to R4A. That district permits only detached single-and two-family homes, which may rise no higher than 21 feet, in keeping with the area's two-story homes. — https://www.nyc.gov/assets/planning/download/pdf/plans/morris-park/morris_park.pdf
+- **Morris Park Avenue storefronts (commercial intercom and door-release jobs).** The rezoning mapped C1-2 commercial overlays to a depth of 150 feet along 12 Morris Park Avenue blocks. — same DCP PDF
+- **Medical offices on Williamsbridge Road (clinic entry systems).** A listing at 1863 Williamsbridge Rd notes R4 with C1-2 Commercial Overlay zoning and says the overlay offers added flexibility for Doctor's offices. — https://homes.com/bronx-ny/neighborhood/morris-park
+- **Competitors already targeting Morris Park:**
+  - One locksmith claims to be the leading provider of intercom system installation and repair in Morris Park, Bronx NY. — https://momolocallocksmith.com/intercom-systems/bronx-ny/morris-park/
+  - IntercomRepairNY lists Morris Park, Pelham Parkway, and Allerton as service areas and pitches use existing risers where possible to avoid major wall work. — https://www.intercomrepairny.com/intercom-system-installation-bronx.html
+  - Abstract Enterprises publishes Bronx price bands of $800 – $3,500 for installs and $150 – $1,200 for repairs. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-bronx-river-bronx-ny
+- **HPD violation counts or 311 intercom complaints for Morris Park ZIPs 10461/10462:** EMPTY. My search didn't reach the open-data portals. Pull HPD Violations and 311 "DOOR/WINDOW – intercom" records for these ZIPs directly.
+- **DOB permits tied to intercom or low-voltage work in Morris Park:** EMPTY.
+- **Landmark rules (LPC) inside Morris Park:** EMPTY. I found no historic district in Morris Park. The nearest individual landmark is on the western end of Morris Park Avenue, covered below.
+- **Reddit threads about intercoms in Morris Park:** EMPTY.
+
+**History and development**
+
+- John Albert Morris built a horse racing track on the land that became Morris Park in 1889, though it burned down a couple of decades later. The city took over the area and encouraged residential development as the 20th century began, building streets and installing a streetcar route. This development boom continued into the 1940s and beyond, attracting large numbers of Italian immigrants. — https://www.apartments.com/local-guide/morris-park-bronx-ny/
+- The Morris Park neighborhood began to be developed at the turn of the 20th century and homebuilding accelerated with construction of a streetcar line in 1910 along Morris Park Avenue. — https://www.nyc.gov/assets/planning/download/pdf/plans/morris-park/morris_park.pdf
+- After a 1910 fire, the property was divided into lots in order to become a new neighborhood, and the low-lying and flat area was filled with one- and two-family homes and apartment buildings. — https://historica.fandom.com/wiki/Morris_Park
+- From 1890 to 1904, the Belmont Stakes was run at Morris Park Racecourse. Auto races and early flying followed on the grounds, Glenn Curtiss among the aviators in 1909. Sources disagree on the dates: the Morris Park neighborhood article says the course operated until 1910… the racecourse article gives a last race of October 15, 1904. — https://loststadiums.com/venues/morris-park-racecourse-bronx-new-york/
+
+**Main streets, boundaries and transit**
+
+- Williamsbridge Road and Morris Park Avenue are the primary thoroughfares. ZIP Codes include 10461 and 10462. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- Boundaries: Neill Avenue and Pelham Parkway to the north, Eastchester Road to the East, the Amtrak Northeast Corridor tracks and Sackett Avenue to the east and south, and Bronxdale Avenue or White Plains Road to the west. — https://www.morrisparkbid.org/history
+- A group of streets in Morris Park along Jacobi Hospital sport Native american names: Seminole, Pawnee, and Narragansett. — https://forgotten-ny.com/2006/08/morris-park-bronx/
+- The 5-train Morris Park station at Paulding Avenue and the Esplanade is one of the only five stations… in the whole NYC subway that don't have at least a booth that is staffed 24 hours per day. — https://en.wikipedia.org/wiki/Morris_Park_station
+- Metro-North timing: The MTA expects construction to be completed by 2029. — https://bronx.news12.com/2026/05/28/4-new-metro-north-stations-coming-to-the-bronx-promising-commute-time-cuts-of-up-to-45-minutes/6ONygbKV3J6X2SLSPJMDKp
+
+**Building stock and zoning**
+
+- The 2006 DCP proposal planned contextual zoning for about 58 blocks of Pelham Parkway/Indian Village to preserve the neighborhood's low-density primarily detached and semidetached homes. It sat just north of the Morris Park Rezoning which was approved by City Council on October 11, 2005. — https://www1.nyc.gov/assets/planning/download/pdf/about/press-releases/pr022106.pdf
+- Sources conflict on zoning. Grokipedia claims R6 and R7 districts comprising the core, which contradicts the DCP R4/R4A/R4-1 documents above. Trust DCP. — https://grokipedia.com/page/Morris_Park,_Bronx
+
+**Parks, landmarks and what it's known for**
+
+- Loreto Park has playgrounds, basketball courts and a well-kempt running track around a soccer pitch. Along the north end, the Mosholu-Pelham Greenway has a 2-mile walking path. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- **LPC landmark:** the ADMINISTRATION BUILDING AT EAST 180TH STREET (Former New York, Westchester and Boston Railroad Administration Building), 481 Morris Park Avenue, completed 1912; architects Fellheimer & Long, Allen H. Stem associated. It is listed under Van Nest, not Morris Park. — https://s-media.nyc.gov/agencies/lpc/lp/0839.pdf
+- The Historic Districts Council's list of Bronx sites worth landmarking includes Morris Park Station. — https://hdc.org/preserving-bronx-sites/
+- **Known for the Columbus Day Parade.** Morris Park is famous for its annual Columbus Day parade, which began in 1977. After Italy's World Cup victory in 2006, over 30,000 flocked to the neighborhood for an all-day party. Since then, Morris Park has gained a rival reputation with Arthur Avenue. — https://www.morrisparkbid.org/history
+- The 2026 parade was the 49th annual Morris Park Columbus Day Parade, hosted and organized by the Morris Park Community Association. The Morris Park BID is active. — https://www.bxtimes.com/morris-park-49th-annual-columbus-day-parade/
+- The Morris Park NYPL branch at #985 MPA… opened in 2006, making it the first library in Morris Park. The NYPD/FDNY 911 center PSAC II is described as one of the most heavily protected and secured buildings in New York City. — https://forgotten-ny.com/2019/01/morris-park-bronx-2/
+
+**Yelp praise and complaints (Bronx intercom companies, none in Morris Park itself)**
+
+- Praise: "they did a good job and now I don't have to go up and down four flights of stairs… when I have visitors!" The same review complains about a four-hour arrival window. Jordan Intercom Systems, Kingsbridge. — https://www.yelp.com/biz/jordan-intercom-systems-bronx
+- Complaint, a bell broken during someone else's repair: a bell that was working fine before they broke it while fixing someone else's. Another: They never communicate with the customer to say they'll be late or not coming at all. Citywide Intercom Service, Katonah Ave. — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Yelp's Bronx intercom results include ButterflyMX installers, Atlantic Intercoms, Microtron and others. One Atlantic Intercoms review: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts, and..." — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+
+**Hyperlocal outlets**
+
+- Bronx Times: https://www.bxtimes.com/
+- News12 Bronx: https://bronx.news12.com/
+- Morris Park BID: https://www.morrisparkbid.org/
+- Patch and BKReader coverage of Morris Park intercoms: EMPTY
+
+### Questions people ask — Intercom Installation in Morris Park
+
+I could not see Google's live People Also Ask or People Also Search For boxes, the Bing or DuckDuckGo results pages, or AnswerThePublic data. The questions below are phrased as real queries on FAQ and article pages. They are labeled by where I actually saw them, not as PAA.
+
+- How much does it cost to install an intercom system in New York City? — industry FAQ page (not confirmed as PAA) — https://butterflymx.com/blog/intercom-installers-nyc/
+- What is the price of installing an intercom system? — industry FAQ page — https://city-smart.net/intercom-systems-installation-services-in-nyc/apartment-intercom/
+- How much does it cost to install a new intercom? — industry FAQ page — https://city-smart.net/intercom-systems-installation-services-in-nyc/apartment-intercom/
+- How much does it cost to upgrade an intercom system in New York City? — industry article — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- How much does a home intercom system cost to install in 2026? — FAQ schema on an industry page — https://honorsecurity
+
+## Morrisania, Bronx — /intercom-installation-morrisania-bronx-ny (factory research, 2026-11-02)
+
+**Read this first.** A competitor already has a page at this exact slug. Abstract Enterprises Security Systems publishes "Intercom Installation Morrisania Bronx NY," which says "We service Bronx apartment buildings ranging from 6-unit walk-ups in Mott Haven to large co-op complexes in Riverdale." The same company also has a matching Morrisania door-buzzer page. Your page needs angles theirs doesn't cover. — https://www.abstractenterprisessecuritysystems.com/intercom-installation-morrisania-bronx-ny
+
+**Limits of this research.** I could not see Google's live People Also Ask or People Also Search For panels, Bing, DuckDuckGo or AnswerThePublic. I also didn't find any Morrisania-specific Reddit threads or pull HPD, 311 or DOB records. Those items are marked EMPTY below.
+
+### Intercom facts specific to Morrisania (most important)
+
+**Laws and city data**
+- Rules at a glance: "Under the state's multiple dwelling law, buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system linking the front door to each apartment. The city's housing maintenance code also requires a functioning intercom." — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Exact wording of the law (as quoted on JustAnswer): the intercom "must be located at an automatic self-locking door providing public access to the main entrance hall or lobby" and must let each apartment "release the locking mechanism of said door from within the apartment." — https://www.justanswer.com/landlord-tenant/9x2op-cooperative-building-nyc-own-few.html
+- NYCHA exception in that same law: "In any multiple dwelling owned or operated by a municipal housing authority... such installation need not be completed until one year after the owner's receipt of requests or consents from a majority of the tenants." This matters because Morrisania has a lot of NYCHA housing. — same URL
+- One vendor (Connextivity) says "HPD classifies non-functioning intercoms as Class B hazardous violations." and that "HPD enforces intercom requirements through inspections triggered by routine building reviews or tenant complaints via 311. A system where some apartments work and others do not constitutes a violation." — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Sources disagree on which buildings are covered.** Seneca Security says "New York's Multiple Dwelling Law §50 requires a functioning intercom or bell system in Class A multiple dwellings (three or more residential units)." The sources above say 8+ units, post-1968. Check with counsel or HPD before publishing a threshold. — https://senecasecurity.com/glossary/multi-tenant-intercom/
+- Open violations can block permits. Under DOB's Local Law 104 of 2019, "the Department will deny applications for initial work permits in the Buildings Information System (BIS) for multiple dwellings with the following ratios of open hazardous or immediately hazardous Housing Maintenance Code violations". That's relevant for violation-heavy buildings that need a permitted electrical scope. — https://www.nyc.gov/assets/buildings/pdf/ll_104of2019_sn.pdf
+- Door vs. panel: "The Bronx carries the highest housing code violation rates in the city, and two of the most routinely written items are ours: an entrance door that no longer self-closes and latches, and an intercom that does not work." The same vendor says "An owner who replaces the intercom and leaves the closer out of adjustment has bought the wrong half." — https://gothamaccesscontrolny.com/locations/bronx/
+- HPD violation counts, 311 intercom complaints and DOB permits filtered to Morrisania ZIPs 10456/10459: EMPTY (not pulled; use HPD Online and NYC Open Data).
+
+**Local news about entry and building conditions**
+- 530 E 169th St: tenants listed "no hot water, no heat, broken elevators and the building's lack of security". "The city's Department of Buildings and NYC Housing Preservation and Development confirmed that the property has multiple violations, including boiler and elevator maintenance." — https://bronx.news12.com/tenants-at-morrisania-building-say-management-ignores-requests-for-quality-of-life-fixes
+- 870 Freeman St (2026): "Tenants at 870 Freeman St. told News 12 the elevator has been breaking down for years." That piece doesn't mention the intercom; it shows a pattern of deferred maintenance. — https://bronx.news12.com/2026/07/24/morrisania-tenants-say-broken-elevator-leaves-residents-trapped-in-their-homes/LkyrSVoferB6bNKqJb20d
+- Two Wavecrest-managed buildings (July 2026): residents "on Intervale Avenue" said the elevator had been out for months, and "Both buildings are managed by Wavecrest Management." — https://bronx.news12.com/2026/07/31/broken-elevators-leave-seniors-trapped-in-two-morrisania-apartment-buildings/1fGBpQh99WQwTthNMbSp6E
+- Another Morrisania building: "Records show the property owner also owes more than $40,000 in violations and penalties." — https://bronx.news12.com/broken-elevator-leaves-morrisania-tenants-trapped-for-months
+- Morrisania-specific news about broken intercoms: EMPTY. The only intercom headline that turned up was a Highbridge building, which is not Morrisania (bronx.news12.com, above).
+
+**NYCHA buildings and their entry systems**
+- Butler Houses: "6 buildings each having 21 stories... between East 169th to 171st Streets and also between Park and Webster Avenues in Morrisania". It is "part of four contiguous public housing projects—which also include the Morris, Morrisania and Webster houses—that are collectively named Claremont Village." — https://en.wikipedia.org/wiki/Butler_Houses
+- Butler Houses security upgrade: it was "the first NYCHA property to receive the full security upgrades associated with the Mayor's Action Plan for Neighborhood Safety". "the six 21-story buildings – which include a total of 1,476 units – each received two new entrance doors and one new exit door." — https://www.bxtimes.com/butler-houses-receives-full-security-upgrade/
+- What NYCHA's "layered access control" means: it "will connect locks and cameras to each other and a central office. If a door is propped open for too long or a camera fails, the office is notified". — https://www.securitymagazine.com/articles/82972-nyc-public-housing-gets-high-tech-security
+- NYCHA work goes through its own bid process: "NYCHA Capital Projects standardizes on specific approved brands per their spec" (competitor's claim). — https://www.abstractenterprisessecuritysystems.com/access-control-installation-bronx-river-bronx-ny
+- A competitor claims "The NYCHA Morris Houses runs NYCHA-standardized M&S, Lee Dan, or TekTone." This is unverified. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-morrisania-bronx-ny
+- Webster Houses: "5 buildings each with 21 stories... between Webster and Park Avenues and also between East 168th and 169th Streets in Morrisania... directly adjacent to the Metro-North Railroad train tracks." — https://en.wikipedia.org/wiki/Webster_Houses
+- Kiddle lists other NYCHA buildings: "Forest Houses: fifteen buildings, 9, 10, and 14 stories tall. Morris I: ten buildings, 16 and 20 stories tall. Morris II: seven buildings, 16 and 20 stories tall." — https://kids.kiddle.co/Morrisania,_Bronx
+- Morrisania Air Rights: NYCHA data shows "# of Current Units 842" and # of Stories 19–23–29. Kiddle says "two 16-story buildings," and Wikipedia places it in Melrose. **These sources conflict.** — https://nycharealtalk.org/lots/5697/
+- NYCHA property in Morrisania where residents get free internet through Big Apple Connect: Butler, Forest, Morrisania, Morrisania Air Rights and others are on the list. This could matter for app-based intercoms. — https://www.optimum.com/program/big-apple-connect
+
+**New buildings that will need modern entry systems**
+- 1405 Boston Road (The Frederick Shack): "the structure yields 79 residences." Amenities include a "security office". — https://newyorkyimby.com/2026/07/housing-lottery-launches-for-1405-boston-road-in-morrisania-the-bronx.html
+- Renova West: "an upcoming 19-story affordable and supportive housing building at 860 Concourse Village E. in Morrisania." — https://www.bxtimes.com/financing-renova-west-housing-morrisania/
+- Grant TPT Apartments: "1113 Grant Ave., 1211 Washington Ave. and 1033 Cauldwell Ave. in Morrisania." — https://www.bxtimes.com/housing-lottery-19-grant-tpt-morrisania-rent-1477/
+- McLean Place: "a 15-story residential building in Morrisania" that has topped out (April 2026). — https://newyorkyimby.com/neighborhoods/morrisania
+- River Commons (1225 Gerard Ave, technically listed as Concourse): amenities include "24-hour security". "The development is expected to open in 2027." — https://newyorkyimby.com/2026/06/river-commons-affordable-housing-development-breaks-ground-at-1225-gerard-avenue-in-highbridge-the-bronx.html
+- Victory Commons: "95-units of affordable housing at 1007 Union Ave. in Morrisania". — https://www.bxtimes.com/new-affordable-housing-coming-to-morrisania/
+
+**Landmark rules for entry panels**
+- City rule: "If you own a landmark or a building in a designated historic district in New York City, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work." — https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property
+- LPC rules cover intercoms by name: an LPC permit cites "Section 2-20(c)(3) for light fixtures and intercom panels". — https://s-media.nyc.gov/agencies/lpc/Permits/PermitFiles/COFA-22-05946.pdf
+- Enforcement example: an LPC agenda lists an application "to legalize the installation of security cameras and an intercom without Landmarks Preservation Commission permit(s)". — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/07_16_13.pdf
+
+### History and development
+- Morris family estate: "Lewis Morris acquired the land for Morrisania manor in the late seventeenth century, specifically around 1676". Other sources say 1670. — https://studyguides.com/study-methods/study-guide/cmkyhud5ipoh101d58d5h2nqz
+- Founding: "The Village of Morrisania, founded in 1848, was the first area west of the Bronx River to be densely settled in what today is the Bronx." — https://www.gothamcenter.org/blog/earlybronxsettlement-zy4la-6h6h4-tlwga-allfs-5gpbn-p8hkk-gewm2-86weg-453lp-rtg9j-b4nt8-f2n45-2s22f-kmea4-5jtmm-a2l5n-ljflg-bbjh6-82t6p-w9slx-nhf8r-egskg-7mja9-rk27k
+- Growth timeline: "In 1874, Morrisania became part of New York City. The Third Avenue Elevated train line was extended here in 1887." — https://kids.kiddle.co/Morrisania,_Bronx
+- Tenements arrive: "By the time the subway was extended to the area in 1904, a large influx of immigrants had given the neighborhood an urban character, with tenements replacing houses as the dominant form of dwelling." — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+- Decline: "The construction of the Cross Bronx Expressway in the 1950s and 1960s displaced thousands of Morrisania residents". — https://studyguides.com/study-methods/study-guide/cmkyhud5ipoh101d58d5h2nqz
+- 1970s: "Disinvestment, arson, and abandonment reached their height in the 1970s". Rebuilding was led by groups like "Banana Kelly, Phipps Houses, and the Mid-Bronx Desperadoes". — https://cityneighborhoods.nyc/morrisania
+- Infill housing today: "many subsidized attached multi-unit townhouses and newly constructed apartment buildings have been or are being built on vacant lots across the neighborhood." — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+
+### Boundaries, streets and commercial corridors
+- Wikipedia's boundaries: "the Cross Bronx Expressway to the north, Crotona-Prospect Avenue to the east, East 163rd Street to the south, and Webster Avenue to the west. Third Avenue is the primary thoroughfare through Morrisania." ZIP codes are "10456 and 10459". Other sources draw the boundaries differently. — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- City plan (Bronx Community District 3): "Major commercial overlays are located on Third Avenue from East 169th Street to Claremont Parkway and along Boston Road on several blocks between East 163rd and Crotona Park East." — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- A real-estate firm adds 169th St: "Third Avenue, Boston Road, and 169th Street form the neighborhood's commercial corridors". — https://www.invictusnyc.com/neighborhoods/morrisania
+- "Third Avenue, Boston Road, and Prospect Avenue serve as key commercial arteries, lined with small businesses that reflect the neighborhood's dynamic Latino, African-American, and West African populations." — https://cityneighborhoods.nyc/morrisania
+
+### Building stock and historic districts
+- Morris High School Historic District (designated December 21, 1982): "It includes the Morris High School, two streets of brick rowhouses, and Trinity Episcopal Church of Morrisania. The high school and rowhouses were built between 1897 and 1904." The rowhouses are on Forest Avenue and Jackson Avenue. — https://en.wikipedia.org/wiki/Morris_High_School_Historic_District
+- LPC's description: "The Morris High School Historic District lies east of Boston Road at 166th Street." — http://s-media.nyc.gov/agencies/lpc/lp/1258.pdf
+- Clay Avenue Historic District (designated April 5, 1994): "A block of thirty-two turn-of-the-19th-century, semi-detached row houses of brick and rough-cut stone flank Clay Avenue." "Three apartment buildings, designed by Neville & Bagge and built between 1909 and 1910, are included in the district." — https://hdc.org/buildings/clay-avenue-historic-district/
+- Why that matters for intercoms: Dickerson "designed each detached pair to house four families, though each resembles a pair of single-family homes." In practice that means small multi-unit buzzer panels behind landmark facades. Wikipedia lists the district under "Fleetwood Concourse Village," so whether it counts as Morrisania depends on the boundary used. — https://urbanarchive.org/city/ny/s/50cc48ef-a413-4187-b861-c8b0b46f2907
+- Early-1900s stock: "brick tenements, schoolhouses, synagogues, and corner stores". — https://cityneighborhoods.nyc/morrisania
+- Boston Road area: "19th-century rowhouses and prewar apartment buildings" (from a tree-service marketing page). — https://bronxtreeservices.com/morrisania-tree-services/
+- Co-ops and condos: EMPTY (no Morrisania-specific data found).
+
+### Parks, landmarks and what the area is known for
+- Crotona Park: "a public park in the South Bronx in New York City, covering 127.5 acres". — https://en.wikipedia.org/wiki/Crotona_Park
+- Claremont Park: "Claremont Park abuts the western boundary of the district" (per the district plan). — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- Notable people: "Former New York mayor Ed Koch was raised in Morrisania, and Colon Powell attended Morris High School." — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+- A lock-industry tie-in: the Clay Avenue villa owner's family firm made locks. Their factory stood "along the railroad tracks at East 163rd Street east of Brook Avenue, just a few minutes walk from Clay Avenue". — https://ephemeralnewyork.wordpress.com/tag/clay-avenue-historic-district-bronx/
+
+### Reddit, Yelp and local outlets
+- Morrisania or Bronx Reddit threads about intercoms: EMPTY. None came up in searches. One competitor says its FAQs are "Pulled from r/AskNYC, r/Bronx, r/CoopCity, r/Parkchester, r/Riverdale, r/COOPNYC, r/FordhamRoad", but I couldn't verify that. — https://www.abstractenterprisessecuritysystems.com/intercom-repair-bronx
+- Y
+
+## Mott Haven, Bronx — /intercom-installation-mott-haven-bronx-ny (factory research, 2026-11-02)
+
+**Intercom facts specific to Mott Haven (most important)**
+
+- Mott Haven Houses was NYCHA's test site for "layered access control": a $250,000 HUD grant paid for new intercoms, electronic keys, and mechanical door locks for all building entrances — https://motthavenherald.com/2011/08/02/tenants-look-to-cameras-for-safety/
+- NYCHA's chairman testified that Mott Haven Houses in the Bronx became the pilot location for layered access control. — https://www.nyc.gov/assets/nycha/downloads/pdf/NYCHA-Chairman-John-Rhea-Delivers-CCTV-Testimony-8-16-12-FINAL.pdf
+- The pilot then spread: more than 80 public housing developments around the city will be outfitted this year with millions of dollars worth of high-tech cameras, intercoms and locks controlled by electronic key tags (2012). At the time, the 40th Precinct commander said "The problem with most of these housing developments is that residents will let anybody in" — https://www.dnainfo.com/new-york/20120412/south-bronx/high-tech-security-coming-public-housing-citywide/
+- What residents said about the pilot: some welcomed it as a fix for unlocked front doors, strangers roaming the halls and shootings in broad daylight. Others had concerns: Some Mott Haven residents consider the logging an unnecessary intrusion, citing privacy concerns. — https://www.securitymagazine.com/articles/82972-nyc-public-housing-gets-high-tech-security
+- NYCHA's design standard for these systems includes Access Control Panel (ACP), Card Readers, Door Hardware, Crash Bars, Electro-Magnetic Locking System, Electrified Hinges, Power Supply. It also requires installers to install new duplex, 20 amp, 120 volt receptacle within 6 feet of new interior intercom. — https://designguidelines.nycha.info/layered-access-control-lac/
+- Mitchel Houses (Alexander Ave): after the Oct. 1, 2025 boiler chimney collapse at 205 Alexander Ave, dozens of new doors had to be installed -- replacing those that were forced open by firefighters during the initial search. — https://abc7ny.com/post/cleanup-underway-explosion-collapse-nycha-apartment-building-mott-haven-bronx/17922731/
+- Mitchel Houses got a $7M project in which exterior lighting systems were replaced with a range of state-of-the-art LED lighting fixtures throughout the development at entrances, walkways — https://nychajournal.nyc/bronx-residents-applaud-new-capital-improvements-at-patterson-mitchel-houses/
+- Common-area problems at 340 Alexander Ave: Tenants living at 340 Alexander Ave. have been dealing with electrical issues within the common spaces of the building. — https://bronx.news12.com/residents-cite-outages-in-mott-haven-building-causing-safety-concerns
+- A tenant in a Mott Haven NYCHA building had to buy a Ring camera after several of her packages were stolen. She says she feels unsafe in the building. — https://bronx.news12.com/nycha-tenant-says-important-mail-missing-due-to-mott-haven-buildings-broken-mailbox
+- In one Mott Haven building, management told residents they had until Wednesday to remove any cameras on their apartment doors. This points to lease and management limits on tenant-installed video doorbells — https://bronx.news12.com/mott-haven-tenants-forced-to-remove-door-cameras-say-theyre-already-feeling-less-safe
+- Fob entry depends on building power. At 138 Bruckner Blvd, tenants said that during an outage they couldn't use the elevator or even get into the building with their electronic key fobs. — https://newjersey.news12.com/mott-haven-luxury-apartment-tenants-say-building-has-had-issues-since-they-moved-in
+- Retail buzzer entry: one Mott Haven shop's door never used to be locked during business hours, but a buzzer was installed a few months ago in response to robberies of nearby businesses. (2022) — https://www.motthavenherald.com/2022/12/21/south-bronx-residents/
+- New towers use both models: In a neighborhood where new buildings split between staffed and virtual front desks, The Astelle is on the staffed side. (This is the building's own marketing.) — https://theastelle.com/doorman-buildings
+- HPD violations: owners of Mott Haven landlord Ved Parkash's building faced a suit from 38 tenants over HPD violations, and There are currently 517 open violations in the building. (The article is undated and doesn't say if any violations were for intercoms.) — https://www.cbsnews.com/newyork/news/tenants-landlord-lawsuit
+- **What the law requires:** The intercom requirement starts at eight apartments. The intercom requirement attaches at eight. The self-closing, self-locking door requirement applies regardless of unit count. A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Older buildings: For multiple dwellings built or converted before January 1, 1968, self-locking doors and a two-way intercom system must be installed if requested by a majority of the tenants. This matters because so much of Mott Haven was built before 1968 — https://www.justanswer.com/landlord-tenant/7l0ku-live-high-rise-apartment-nyc-several.html
+- Repair deadlines: HPD gives owners CLASS B (hazardous) - 30 days and 14 days for Class C self-closing doors — https://www.nyc.gov/site/hpd/services-and-information/report-a-maintenance-issue.page
+- Fines: one installer's blog says HPD classifies intercom violations and most door lock violations as Class B hazardous, carrying fines of $250 to $500 per day until corrected. (Unverified vendor claim. Check with HPD before using.) — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Self-closing door inspections: HPD's FY24 report says inspections resulted in the issuance of 3,151 self-closing door violations by HPD. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf
+- **Landmarks (LPC) rules:** LPC staff routinely handle installing objects or equipment on facades or areaway features, including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20_Public%20Meeting%20Presentation.pdf
+- Installing without approval has consequences. One LPC application was to legalize the installation of security cameras and an intercom without Landmarks Preservation Commission permit(s) (Manhattan example) — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/07_16_13.pdf
+- LPC Permit Guidebook Chapter 11.7 covers "Installing Light Fixtures and Intercom Panels" (rule text was only partly readable in results) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- DOB permits: one vendor says low-voltage residential camera work typically does not require a DOB permit under NYC construction codes (vendor claim, about cameras, not specific to intercoms) — https://senecasecurity.com/services/security-cameras/brownstones/
+- 311 complaint counts or DOB permit counts for intercoms in Mott Haven: EMPTY. Pull these from NYC Open Data / HPDONLINE.
+- **Competitor already ranking:** Abstract Enterprises has a page at this exact keyword, citing package theft from lobbies, broken door buzzers in large apartment buildings, and outdated audio-only systems. Its sister page claims three NYC Historic Districts, Doctors' Row brownstones, 17 NYCHA, luxury Hub condos (the "17 NYCHA" count is unverified) — https://www.abstractenterprisessecuritysystems.com/intercom-installation-mott-haven-bronx-ny ; https://www.abstractenterprisessecuritysystems.com/access-control-installation-mott-haven-bronx-ny
+
+**History and development**
+
+- Jonas Bronck and his Dutch wife, Teuntje Joriaens, established their farmstead in what is now Mott Haven at the confluence of the Harlem River and Bronx Kill. In 1670 much of the area was acquired by the Morris family — https://6tocelebrate.org/neighborhood-items/mott-haven-the-bronx/
+- The neighborhood was founded in 1849 and named for Jordan Lawrence Mott. It covers 1.18 sq mi, had 54,163 residents in 2020, and spans ZIP codes 10451, 10454 and 10455 — https://en.wikipedia.org/wiki/Mott_Haven,_Bronx
+- Mott Haven was one of the few areas of the Bronx to attract nineteenth-century speculative developers interested in constructing rowhouses. — https://forgotten-ny.com/2013/11/mott-haven%E2%80%94port-morris-bronx/
+- Within a decade or two, most of Mott Haven's streets were completely built up with a diverse range of buildings, from comfortable single-family rowhouses, to larger multi-family tenements and apartment buildings. — https://6tocelebrate.org/neighborhood-items/mott-haven-the-bronx/
+- Mid-20th century: Robert Moses slammed his fist into the neighborhood in the 1940s and 1950s, "clearing the slums," stacking the displaced in spiritless public housing towers — https://www.villagevoice.com/close-up-on-mott-haven-bronx/
+- By the 1970s Mott Haven and the South Bronx endured waves of arson damaging many structures in the neighborhood. But the neighborhood stabilized as a grassroots effort rebuilt most of the destroyed buildings. — https://evaluatingurbanplaces.com/2025/02/21/mott-haven-bronxs-oldest-neighorbood-and-the-beginning-of-the-south-bronx/
+
+**Building stock and landmark districts**
+
+- Mott Haven has three designated Historic Districts: Mott Haven, Mott Haven East and the Bertine Block. The Mott Haven district was designated July 29, 1969, and includes one of the earliest, if not the earliest, series of row houses in the Bronx, built 1863–65 — https://hdc.org/buildings/mott-haven/ (Forgotten NY gives 1966 as the designation date. The sources conflict.)
+- Mott Haven East Historic District is on East 139th and East 140th Streets between Willis and Brook Avenues — https://6tocelebrate.org/site/mott-haven-east-historic-district/
+- The Bertine Block has 31 residential buildings, built 1877–1899 by Edward Bertine, with four groups of rowhouses and two groups of tenement buildings — https://urbanarchive.org/city/ny/s/7570af0c-ec48-4673-ad98-a8ea7654b7a2
+- Mott Haven, Mott Haven East and Bertine Block appear on LPC's Bronx landmark list (the latter two designated April 5, 1994) — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- The historic district has four- and five-story row houses from the late 19th century, including the notable 'Doctors' Row' and 'Irish Fifth Avenue' — https://mindtrip.ai/attraction/new-york-city/mott-haven-historic-district/at-FuLtIDJX
+- Housing comes in three eras: 19th-century rowhouses in the historic district, mid-century affordable housing complexes, and newer waterfront rental and condo towers. — https://reinventny.com/blog/mott-haven
+- NYCHA buildings in the area include a combination of taller, elevator buildings and small walk-ups — https://www.lisc.org/media/filer_public/c6/3c/c63c440e-ec8e-4417-bb92-9fdaa33f454b/mmhfinalplan_final.pdf
+- Patterson Houses (opened 1950) is a NYCHA development at 2625 3rd Ave — https://en.wikipedia.org/wiki/Patterson_Houses
+- New towers: DOB issued permits for 24 new developments in the areas of Mott Haven and Port Morris from 2021 through 2025, with a total of more than 3,200 apartments. They include doormen, gyms, event rooms and rooftop spaces. — https://ny1.com/nyc/bronx/news/2026/03/25/luxury-housing-drives-transformation-of-mott-haven
+- Bankside: the $950 million Bankside development includes 1,379 apartments — https://www.6sqft.com/bankside-park-opens-mott-haven-public-waterfront-access/
+- Maven, at 2413 Third Ave, is a 27-story tower with 200 apartments. ONE38 at 138 Bruckner has 448 market-rate and 131 affordable units — https://www.brickunderground.com/rent/what-renters-can-get-mott-haven-bronx-new-rental-developments
+- Co-ops and detached houses: EMPTY (none found)
+
+**Main streets, parks, landmarks, what it's known for**
+
+- East 138th Street is the primary east–west thoroughfare through Mott Haven. — https://en.wikipedia.org/wiki/Mott_Haven,_Bronx
+- Main streets: 138th and 149th Streets; Third , Alexander, Morris, Willis, and St. Anns Avenues; Bruckner Boulevard — https://www.villagevoice.com/close-up-on-mott-haven-bronx/
+- The Hub is the Borough's oldest and largest shopping district and is known locally as the Broadway of the Bronx. — https://evaluatingurbanplaces.com/2025/02/21/mott-haven-bronxs-oldest-neighorbood-and-the-beginning-of-the-south-bronx/
+- Bruckner Blvd between 138th and 149th is home to Bronx Brewery, Charlie's, Beatstro, the Bronx Documentary Center, La Morada, Filtered Coffee, plus a clutch of galleries — https://dwellcheck.io/guides/living-in-mott-haven
+- Historic district landmarks include the 40th Precinct Police Station, the Mott Haven Branch of the New York Public Library, and St. Jerome's Roman Catholic Church — https://mindtrip.ai/attraction/new-york-city/mott-haven-historic-district/at-FuLtIDJX
+- St. Mary's Park is built on an elevated rocky outcrop and includes an indoor recreational center and pool. — https://evaluatingurbanplaces.com/2025/02/21/mott-haven-bronxs-oldest-neighorbood-and-the-beginning-of-the-south-bronx/
+- Bankside Park gives residents direct access to the waterfront for the first time in over a century. — https://www.6sqft.com/bankside-park-opens-mott-haven-public-waterfront-access/
+- Other city-assessed corridors include Alexander Avenue's Open Street and Salsa Saturdays — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-motthaven.pdf
+
+**Local Reddit, Yelp and hyperlocal outlets**
+
+- Reddit threads (r/MottHaven, r/Bronx, r/AskNYC, r/homesecurity) about intercoms in Mott Haven: EMPTY (none surfaced)
+- Yelp complaint, Citywide Intercom Service (Katonah Ave): a reviewer says techs broke their bell while fixing someone else's, and that They never communicate with the customer to say they'll be late or not coming at all. — https://www.yelp.com/biz/citywide-intercom-service-bronx
+- Yelp praise: "Atlantic Intercom responded promptly, diagnosed the issue, ordered the necessary parts, and..." — https://www.yelp.com/search?find_desc=Intercom+Systems&find_loc=Bronx%2C+NY
+- Yelp's Bronx intercom repair list includes Metrocom Security, Securitek, GAT Electrical Services (5.0, 32 reviews), and Jordan Intercom (1.0) — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Bronx%2C+NY
+- Brooklyn Yelp complaint (nearby borough) about an electrician "disconnecting, dismantling and throwing out a perfectly working exterior intercom panel." — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=Brooklyn%2C+NY
+- Hyperlocal outlets found: Mott Haven Herald, News12 Bronx, Bronx Times, Norwood News (all cited above). Patch: EMPTY. BKReader: EMPTY (it's a Brooklyn outlet)
+
+**Things that change how the install is done here**
+
+- Historic district rowhouses need LPC review for any visible panel or conduit (see LPC sources above)
+- NYCHA buildings use NYCHA-approved contractors and the LAC spec (DNAinfo and NYCHA Design Guidelines above)
+- Pre-1968 multiple dwellings need an intercom only if a majority of tenants request it. Buildings with 8+ units built or converted after 1968 must have one (JustAnswer and Parker sources above)
+- New towers rely on fobs that fail when power goes out (138 Bruckner above)
+
+**Prices (citywide, not Mott Haven-specific)**
+
+- ButterflyMX installs cost typically range from $4,500 to $6,500+ depending on your building type, number of units, and existing infrastructure. — https://metrocomsecurity.com/butterflymx-installation-repair-services/
+- One commercial pricing guide puts complete systems at $1,000 to $7,
+
+## Ocean Hill, Brooklyn — /intercom-installation-ocean-hill-brooklyn-ny (factory research, 2026-11-02)
+
+**Note on method:** My search tool doesn't show Google's People Also Ask boxes, People Also Search For, AnswerThePublic, or the Bing and DuckDuckGo results pages. Those fields are marked EMPTY below. I also couldn't query the HPD, 311 or DOB open-data portals, so I have no intercom-specific violation or complaint counts for Ocean Hill. Those are EMPTY too.
+
+**Intercom-specific facts (most important)**
+- **Legal requirement:** Under the state Multiple Dwelling Law, buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system linking the front door to each apartment. The city's housing maintenance code also requires a functioning intercom. — https://www.habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- **Older buildings:** Many Ocean Hill buildings are pre-1968. One installer's summary of MDL 50-a says buildings put up before 1968 fall under the same requirement once tenants occupying a majority of the apartments request it in writing. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- **Violation class:** A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. Courts have also treated a working intercom as an essential service under the warranty of habitability (RPL §235-b). — same URL
+- **Penalty figure (unverified):** One installer claims Class B intercom penalties of $250 to $500 per day. This comes from a vendor, not HPD; check it before publishing. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+- **Rent-stabilized buildings:** Intercom replacement is generally considered a capital improvement under DHCR guidelines, which means more paperwork and tenant notice. — https://senecasecurity.com/learn/intercom-systems-multi-tenant-buildings-nyc/
+- **Self-closing doors:** In all multiple dwelling buildings, building entrance doors and bulkhead doors are required to be self-closing. Local Law 62 of 2022 defines a self-closing door as a door equipped with a device that will ensure the door, when opened and released, returns to the closed position and self-latches shut. This affects how the strike or maglock is paired with the door. — https://designguidelines.nycha.info/entrances-exits/
+- **DOB permits (sources disagree):** A recent guide says that under AC §28-105.4.7 (effective December 21, 2025), wiring below 50 volts for data, communication, signaling and alarm circuits may be done without an electrical permit by a licensed master electrician, a special electrician or a qualified person. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/ . Another source says instead that low voltage electrical work requires permits through DOB. — https://www.lowvoltagenation.com/posts/nec-2026-new-york-nyc-electrical-code . Line-voltage work, such as a new power circuit for a door station, still needs a permit and a NYC Licensed Master Electrician. — https://aecontractorsnyc.com/electrical-permit-nyc-guide/
+- **LPC rules:** LPC permit guidance covers intercom panels, and one intercom panel can be installed per door opening. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf . Panels are reviewed under Section 2-20(c)(3) for light fixtures and intercom panels. — https://s-media.nyc.gov/agencies/lpc/Permits/PermitFiles/COFA-22-05946.pdf
+- **No historic district found in Ocean Hill:** I found no LPC district inside Ocean Hill itself. The nearest is Stuyvesant Heights Historic District, designated in 1971 and bounded by Tompkins Ave, Stuyvesant Ave, Macon St and Decatur St. It sits west of Ocean Hill. — https://cityneighborhoods.nyc/stuyvesant-heights . One LPC filing with a 11233 ZIP, 321 Decatur St, is in the BEDFORD STUYVESANT/EXPANDED STUYVESANT HEIGHTS HISTORIC DISTRICT. So LPC rules do apply to some 11233 addresses, just not in Ocean Hill proper. — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20220104/321-Decatur-Street.pdf
+- **NYCHA conversion:** NYCHA's PACT program covers 5 separate developments totaling 929 units across 15 buildings, including Ocean Hill Apartments, (a mix of families and seniors) consists of 236 apartments. — https://www.dantespartners.com/our-experience/ocean-hill-stuyvesant-gardens/
+- **Reid & Park Rock renovation:** A $636 million NYCHA renovation was completed in East Brooklyn (Gothamist, Oct 26, 2026). The Ocean Hill-Brownsville tenant association president reported complaints that included new smoke alarms that go off needlessly. No intercom complaints were reported. — https://gothamist.com/news/in-east-brooklyn-aging-nycha-homes-get-a-636m-upgrade
+- **New affordable buildings ship with video intercoms:** Oceanhill III (428 Saratoga Ave, 107 units) lists security cameras and video intercom system, live-in superintendent as amenities. — https://a806-housingconnect.nyc.gov/nyclottery/AdvertisementPdf/388.pdf
+- **Other new construction:** The Henry Apartments on Broadway/Decatur St are 134-unit buildings with two elevators per building. — https://sus.org/construction-underway-on-henry-apartments-in-ocean-hill-brooklyn/ . A Pacific Street building has a total of 236 apartments. — https://www.brownstoner.com/real-estate-market/ocean-hill-affordable-housing-lottery-2425-pacific-street/ . Permits have been filed for an 11-story mixed-use building at 50 Sackman Street and an eight-story mixed-use building at 1520 Broadway. — https://newyorkyimby.com/neighborhoods/ocean-hill
+- **Building record, 15 Monaco Place:** Built in 1910, this 2-floor building at 15 Monaco Place in Ocean Hill, Brooklyn has 2 units. Its record lists No peephole on a door, no street number on the building. — https://www.openigloo.com/building/nyc/3042671-3015700010/brooklyn-ocean-hill-15-monaco-place-11233
+- **Building record, unnamed Ocean Hill building (News 12):** City records show 171 housing complaints and 68 violations at the building. The issues were heat and leaks, not intercoms. — https://brooklyn.news12.com/taking-action-ocean-hill-tenants-ask-for-help-after-repeated-leaks-months
+- **Attorney General case (June 2026):** The AG sued over hidden rent-stabilized units at two buildings, one of them in Ocean Hill. The "116 open violations… broken doors" figure in the article appears to belong to the other building, so don't attribute it to Ocean Hill. — https://gothamist.com/news/brooklyn-landlords-hid-rent-stabilized-units-from-tenants-ny-attorney-general-says
+- **Safety along Broadway:** A city merchant study found that insufficient street lighting, particularly under the elevated train on Broadway, contributes to poor perceptions of safety at night. This matters for mixed-use buildings on Broadway. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf
+- **Competitor already ranking:** Abstract Enterprises already has an Ocean Hill intercom page. It is mostly generic keyword lists (Aiphone intercom installation Ocean Hill. ButterflyMX installation Ocean Hill.). — https://www.abstractenterprisessecuritysystems.com/intercom-installation-ocean-hill-brooklyn-ny
+- **Ocean Hill package-theft or entry news:** EMPTY. The package-theft stories I found were in other Brooklyn neighborhoods.
+- **HPD intercom violation counts for Ocean Hill / 311 "door/intercom" complaints / DOB low-voltage permits:** EMPTY (data not retrieved).
+
+**History and development**
+- Ocean Hill received its name in 1890 for being slightly hilly. — https://en-academic.com/dic.nsf/enwiki/1813080
+- Developers quickly moved in, subdividing farmland into narrow lots and erecting Italianate and Neo-Grec rowhouses of brownstone and brick between the 1870s and 1890s. — https://cityneighborhoods.nyc/ocean-hill
+- An 1858 Brooklyn Eagle story praised the area's views before it was developed. — https://theneighborhoods.substack.com/p/ocean-hill-brooklyn
+- Until the 1960s the area was mostly Italian. By 1970, Ocean Hill, along with Bedford-Stuyvesant, had become the largest African-American community in the country. — https://www.mynycstory.org/about-ocean-hill/
+- After the 1977 blackout, the neighborhood experienced arson and ransacking. — https://en-academic.com/dic.nsf/enwiki/1813080
+- By the 1990s, small-scale homeownership programs, coupled with city-backed rehabilitation efforts, began restoring the neighborhood's historic housing. — https://cityneighborhoods.nyc/ocean-hill
+- HPD and the New York City Housing Partnership are major developers in the neighborhood. — https://www.longislandexchange.com/new-york-city/brooklyn/ocean-hill/
+- **Boundaries vary by source.** One gives Broadway (Bushwick) in the north, Ralph Avenue (Bed-Stuy proper) to the west, East New York Avenue (Brownsville) in the south, and Van Sinderen Avenue (East New York) to the east. — https://en-academic.com/dic.nsf/enwiki/1813080 . The ZIP code is 11233. The neighborhood falls under Community Boards 3 and 16 and the 73rd Precinct. — https://www.mynycstory.org/about-ocean-hill/
+
+**Main streets and commercial corridors**
+- Today, Ocean Hill's commercial district is defined by four primary commercial corridors, Ralph Avenue, Rockaway Avenue, Broadway, and Fulton Street — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf
+- Around Broadway and Saratoga Ave, the area is surrounded by mostly 3- and 4-story mixed used buildings. — https://www.nyc.gov/assets/brooklyncb16/downloads/pdf/minutes/2020/01-28-2020.pdf
+- Transit: Broadway Junction connects the A, C, J, Z and L trains, while the 3 train runs along its southern side. — https://www.nyonlinerealty.com/nyc/ocean-hill
+
+**Building stock (sources conflict)**
+- One source says postwar buildings are the norm in Ocean Hill, and brick multi-family rowhouses are common. This conflicts with the 1870s–1920s rowhouse dates from other sources. — https://www.homes.com/brooklyn-ny/ocean-hill-neighborhood/
+- 83% of residents renting and 17% of residents owning their home. — same URL
+- Rowhouse streets: Painted brick rowhouses are eye pleasers on many streets including Pacific Street, Bergen Street and Prospect Place. Classic three-story brick rowhouses can be found on St. Marks Place. There are also small one-block streets such as Monaco Place and Sherlock Place, plus Louis Place and Dewey Place. — https://brooklyneagle.com/66149/fine-sights-to-see-in-ocean-hill-though-our-lady-of-loreto-is-gone/
+- Housing types and dates from a low-authority source: Attached Brick Rowhouses (1890s-1920s), Brownstone Rowhouses (Decatur Street), NYCHA Public Housing, Low-Rise Prewar Apartment Buildings, New Construction Condominiums — https://maidmarines.com/brooklyn/ocean-hill
+- Example listing: 2132A Fulton St is a 4-Family with 1 commercial unit at street level. — https://www.homes.com/brooklyn-ny/ocean-hill-neighborhood/
+- **Public housing:** Howard Houses, completed in 1955. — https://cityneighborhoods.nyc/ocean-hill . Prospect Plaza was the first NYCHA development to be fully demolished. — https://en.wikipedia.org/wiki/Prospect_Plaza_Houses
+
+**Parks, landmarks, what it's known for**
+- Parks and sites: Saratoga Park. Phoenix Community Garden. Weeksville Heritage Center. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf . Also Ocean Hill Playground. — https://aprealtygroupny.com/neighborhood/other-brooklyn/
+- Known for the landmark 1968 Ocean Hill–Brownsville schools dispute. — https://www.nyonlinerealty.com/nyc/ocean-hill
+- Also: Ocean Hill's Storied Rescue Company 2 Marks 100 Years of Service — https://www.brownstoner.com/category/neighborhood/ocean-hill/
+- Our Lady of Loreto church was demolished; New Brooklyn Reformed Church stands at 1064 Herkimer St. — https://brooklyneagle.com/66149/fine-sights-to-see-in-ocean-hill-though-our-lady-of-loreto-is-gone/
+
+**How this changes intercom installation in Ocean Hill (based on the findings above)**
+- **Small rowhouses (2–4 family):** Most Ocean Hill buildings are likely under the 8-unit, post-1968 threshold. They mostly need small-building audio or video kits, often reusing the existing wiring. One Brooklyn installer says most upgrades can be completed with the existing wiring. — https://linkedsecurityny.com/intercom-system-installation-brooklyn-enhancing-security-in-new-york-nyc/
+- **Large new and NYCHA/PACT buildings:** Expect multi-entry IP or app systems, elevator integration, and work for property managers, not owners.
+- **Mixed-use buildings on Broadway and Fulton:** Separate the residential and commercial entries, and plan for poor lighting under the el.
+- **Historic-district addresses:** Owners west of Ralph Ave in 11233 may need LPC sign-off. Ocean Hill proper apparently doesn't.
+
+**Local Reddit discussion:** EMPTY. I found no Ocean Hill threads about intercoms, buzzers or building entry. A competitor page claims Reddit threads exist, but that is unverified.
+
+### Questions people ask — Intercom Installation in Ocean Hill
+- **PAA (Google People Also Ask):** EMPTY (not observable with my tools)
+- **PASF / related searches:** EMPTY
+- **AnswerThePublic:** EMPTY
+- **Bing-only / DuckDuckGo-only questions:** EMPTY
+- **Reddit (r/OceanHill, r/Brooklyn, r/AskNYC, r/homesecurity):** EMPTY. No threads were returned.
+
+The questions below come from FAQ headings on competitor and info pages. They are **not** verified PAA questions, so label them as such.
+- How much does intercom installation cost in Ocean Hill? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-ocean-hill-brooklyn-ny
+- How long does intercom installation take in an Ocean Hill building? — competitor FAQ — same URL
+- Do you need a permit for intercom installation in Ocean Hill? — competitor FAQ — same URL
+- What's the best intercom for Ocean Hill buildings? — competitor FAQ — same URL
+- Can you install key fob access control in my Brooklyn rental building? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-new-york
+- Can you install a video intercom on a Brooklyn brownstone without damaging it? — competitor FAQ — same URL
+- Is there a monthly fee? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-brooklyn-heights-brooklyn-ny
+- Who installs intercom systems? / Why install an intercom system? — competitor page — https://www.

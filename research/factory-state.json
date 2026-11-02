@@ -1,102 +1,102 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01CDeZeMEmEi2qHjDqJ7GZXC",
-   "submitted": "2026-11-01T21:21Z",
+   "id": "msgbatch_01RezgWF9LdP7h618RFdihSf",
+   "submitted": "2026-11-02T03:40Z",
    "pages": {
     "p0": {
      "status": "TODO",
-     "slug": "sonos-installation-bayside-queens-ny",
-     "silo": "Sonos Installation",
-     "area": "Bayside, Queens",
-     "up": "/sonos-installation-queens",
-     "phone": "(347) 434-6392",
+     "slug": "mag-lock-installation-manhattan",
+     "silo": "Mag Lock Installation",
+     "area": "Manhattan",
+     "up": "/mag-lock-installation-nyc",
+     "phone": "(929) 560-0737",
      "gbp": "Bronx",
      "rebuild": false,
-     "line_no": 221,
-     "silo_key": "sonos-installation",
-     "area_key": "queens",
-     "nbhd": "Bayside",
-     "borough": "Queens",
-     "nb_slug": "bayside",
-     "exemplar": "sonos-installation-long-island-city-queens-ny",
+     "line_no": 232,
+     "silo_key": "mag-lock-installation",
+     "area_key": "manhattan",
+     "nbhd": "Manhattan",
+     "borough": "Manhattan",
+     "nb_slug": "manhattan",
+     "exemplar": "sonos-installation-chelsea-manhattan-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-bayside-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-bayside-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mark.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-bayside-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-bayside-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-bayside-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-bayside-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-bayside-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-bayside-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-bayside-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-bayside-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-reader.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-bayside-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-manhattan-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
@@ -115,7 +115,7 @@
      "nbhd": "Highland Park",
      "borough": "Brooklyn",
      "nb_slug": "highland-park",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "exemplar": "intercom-installation-mapleton-brooklyn-ny",
      "images": [
       {
        "n": 1,
@@ -198,190 +198,190 @@
     },
     "p2": {
      "status": "TODO",
-     "slug": "sonos-installation-pelham-bay-bronx-ny",
-     "silo": "Sonos Installation",
-     "area": "Pelham Bay, Bronx",
-     "up": "/sonos-installation-bronx",
-     "phone": "(646) 490-0629",
-     "gbp": "Bronx",
+     "slug": "mag-lock-installation-brooklyn",
+     "silo": "Mag Lock Installation",
+     "area": "Brooklyn",
+     "up": "/mag-lock-installation-nyc",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 222,
-     "silo_key": "sonos-installation",
-     "area_key": "bronx",
-     "nbhd": "Pelham Bay",
-     "borough": "Bronx",
-     "nb_slug": "pelham-bay",
-     "exemplar": "sonos-installation-throgs-neck-bronx-ny",
+     "line_no": 233,
+     "silo_key": "mag-lock-installation",
+     "area_key": "brooklyn",
+     "nbhd": "Brooklyn",
+     "borough": "Brooklyn",
+     "nb_slug": "brooklyn",
+     "exemplar": "tv-installation-wingate-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mark.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-reader.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-pelham-bay-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-brooklyn-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
     "p3": {
      "status": "REBUILD",
-     "slug": "intercom-installation-homecrest-brooklyn-ny",
+     "slug": "intercom-installation-mill-basin-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "Homecrest, Brooklyn",
+     "area": "Mill Basin, Brooklyn",
      "up": "/intercom-installation-brooklyn-ny",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 569,
+     "line_no": 575,
      "silo_key": "intercom-installation",
      "area_key": "brooklyn",
-     "nbhd": "Homecrest",
+     "nbhd": "Mill Basin",
      "borough": "Brooklyn",
-     "nb_slug": "homecrest",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "nb_slug": "mill-basin",
+     "exemplar": "intercom-installation-mapleton-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-homecrest-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-mill-basin-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -390,190 +390,190 @@
     },
     "p4": {
      "status": "TODO",
-     "slug": "sonos-installation-tottenville-staten-island-ny",
-     "silo": "Sonos Installation",
-     "area": "Tottenville, Staten Island",
-     "up": "/sonos-installation-staten-island",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "slug": "mag-lock-installation-queens",
+     "silo": "Mag Lock Installation",
+     "area": "Queens",
+     "up": "/mag-lock-installation-nyc",
+     "phone": "(347) 434-6392",
+     "gbp": "Bronx",
      "rebuild": false,
-     "line_no": 223,
-     "silo_key": "sonos-installation",
-     "area_key": "staten-island",
-     "nbhd": "Tottenville",
-     "borough": "Staten Island",
-     "nb_slug": "tottenville",
-     "exemplar": "sonos-installation-st-george-staten-island-ny",
+     "line_no": 234,
+     "silo_key": "mag-lock-installation",
+     "area_key": "queens",
+     "nbhd": "Queens",
+     "borough": "Queens",
+     "nb_slug": "queens",
+     "exemplar": "sonos-installation-jackson-heights-queens-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mark.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-reader.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-tottenville-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-queens-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
     "p5": {
      "status": "REBUILD",
-     "slug": "intercom-installation-jerome-park-bronx-ny",
+     "slug": "intercom-installation-morris-park-bronx-ny",
      "silo": "Intercom Installation",
-     "area": "Jerome Park, Bronx",
+     "area": "Morris Park, Bronx",
      "up": "/intercom-installation-bronx-ny",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 570,
+     "line_no": 576,
      "silo_key": "intercom-installation",
      "area_key": "bronx",
-     "nbhd": "Jerome Park",
+     "nbhd": "Morris Park",
      "borough": "Bronx",
-     "nb_slug": "jerome-park",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "nb_slug": "morris-park",
+     "exemplar": "intercom-installation-locust-point-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-jerome-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-morris-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -582,190 +582,190 @@
     },
     "p6": {
      "status": "TODO",
-     "slug": "sonos-installation-chelsea-manhattan-ny",
-     "silo": "Sonos Installation",
-     "area": "Chelsea, Manhattan",
-     "up": "/sonos-installation-manhattan",
-     "phone": "(929) 560-0737",
+     "slug": "mag-lock-installation-bronx",
+     "silo": "Mag Lock Installation",
+     "area": "Bronx",
+     "up": "/mag-lock-installation-nyc",
+     "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": false,
-     "line_no": 224,
-     "silo_key": "sonos-installation",
-     "area_key": "manhattan",
-     "nbhd": "Chelsea",
-     "borough": "Manhattan",
-     "nb_slug": "chelsea",
-     "exemplar": "sonos-installation-upper-west-side-manhattan-ny",
+     "line_no": 235,
+     "silo_key": "mag-lock-installation",
+     "area_key": "bronx",
+     "nbhd": "Bronx",
+     "borough": "Bronx",
+     "nb_slug": "bronx",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mark.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-reader.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-chelsea-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-bronx-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
     "p7": {
      "status": "REBUILD",
-     "slug": "intercom-installation-locust-point-bronx-ny",
+     "slug": "intercom-installation-morrisania-bronx-ny",
      "silo": "Intercom Installation",
-     "area": "Locust Point, Bronx",
+     "area": "Morrisania, Bronx",
      "up": "/intercom-installation-bronx-ny",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 571,
+     "line_no": 577,
      "silo_key": "intercom-installation",
      "area_key": "bronx",
-     "nbhd": "Locust Point",
+     "nbhd": "Morrisania",
      "borough": "Bronx",
-     "nb_slug": "locust-point",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "nb_slug": "morrisania",
+     "exemplar": "intercom-installation-locust-point-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-locust-point-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-morrisania-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -774,190 +774,190 @@
     },
     "p8": {
      "status": "TODO",
-     "slug": "sonos-installation-fort-greene-brooklyn-ny",
-     "silo": "Sonos Installation",
-     "area": "Fort Greene, Brooklyn",
-     "up": "/sonos-installation-brooklyn",
+     "slug": "mag-lock-installation-staten-island",
+     "silo": "Mag Lock Installation",
+     "area": "Staten Island",
+     "up": "/mag-lock-installation-nyc",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 225,
-     "silo_key": "sonos-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Fort Greene",
-     "borough": "Brooklyn",
-     "nb_slug": "fort-greene",
-     "exemplar": "sonos-installation-williamsburg-brooklyn-ny",
+     "line_no": 236,
+     "silo_key": "mag-lock-installation",
+     "area_key": "staten-island",
+     "nbhd": "Staten Island",
+     "borough": "Staten Island",
+     "nb_slug": "staten-island",
+     "exemplar": "sonos-installation-tottenville-staten-island-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-m.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-re.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-fort-greene-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-staten-island-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
     "p9": {
      "status": "REBUILD",
-     "slug": "intercom-installation-manhattan-beach-brooklyn-ny",
+     "slug": "intercom-installation-mott-haven-bronx-ny",
      "silo": "Intercom Installation",
-     "area": "Manhattan Beach, Brooklyn",
-     "up": "/intercom-installation-brooklyn-ny",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "area": "Mott Haven, Bronx",
+     "up": "/intercom-installation-bronx-ny",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 572,
+     "line_no": 578,
      "silo_key": "intercom-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Manhattan Beach",
-     "borough": "Brooklyn",
-     "nb_slug": "manhattan-beach",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "area_key": "bronx",
+     "nbhd": "Mott Haven",
+     "borough": "Bronx",
+     "nb_slug": "mott-haven",
+     "exemplar": "intercom-installation-locust-point-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-manhattan-beach-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-mott-haven-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
@@ -966,190 +966,190 @@
     },
     "p10": {
      "status": "TODO",
-     "slug": "sonos-installation-jackson-heights-queens-ny",
-     "silo": "Sonos Installation",
-     "area": "Jackson Heights, Queens",
-     "up": "/sonos-installation-queens",
-     "phone": "(347) 434-6392",
-     "gbp": "Bronx",
+     "slug": "mag-lock-installation-nassau-county",
+     "silo": "Mag Lock Installation",
+     "area": "Nassau",
+     "up": "/mag-lock-installation-long-island",
+     "phone": "(516) 346-5778",
+     "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 226,
-     "silo_key": "sonos-installation",
-     "area_key": "queens",
-     "nbhd": "Jackson Heights",
-     "borough": "Queens",
-     "nb_slug": "jackson-heights",
-     "exemplar": "sonos-installation-long-island-city-queens-ny",
+     "line_no": 237,
+     "silo_key": "mag-lock-installation",
+     "area_key": "nassau-county",
+     "nbhd": "Nassau",
+     "borough": "Nassau",
+     "nb_slug": "nassau-county",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-brick-wall-weatherproof-enclosure.webp",
-       "shows": "grey weatherproof enclosure opened on a brick wall with a small switch and blue patch cables inside, three metal conduits running down",
-       "w": 700,
-       "h": 1050
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
+       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 2,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-cable-fished-through-steel-stud-to-box.webp",
-       "shows": "gloved hands pulling blue cable through a punched hole in a steel stud, a blue electrical box fixed lower on the stud",
-       "w": 760,
-       "h": 930
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-m.webp",
+       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 3,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-ceiling-speaker-lift-with-amplifier-cart.webp",
-       "shows": "gloved hand lifting a round speaker toward an open ceiling tile with blue cable, a black wall speaker and an amplifier on a rolling cart below",
-       "w": 950,
-       "h": 1010
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
+       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 4,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-ceiling-speaker-pressed-into-round-cutout.webp",
-       "shows": "gloved hands pressing a round white ceiling speaker up into a circular cut-out, red speaker leads visible inside the hole",
-       "w": 810,
-       "h": 780
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
+       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
+       "w": 803,
+       "h": 1429
       },
       {
        "n": 5,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-conduit-pull-box-on-block-wall.webp",
-       "shows": "gloved hands pulling a black cable out of a metal conduit pull box on a painted block wall, a coil of blue cable hanging below",
-       "w": 740,
-       "h": 860
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
+       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
+       "w": 675,
+       "h": 900
       },
       {
        "n": 6,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-network-rack-patch-cable-dressing.webp",
-       "shows": "arm dressing blue patch cables into a network switch in a black rack with patch panels above",
-       "w": 800,
-       "h": 980
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
+       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
+       "w": 423,
+       "h": 562
       },
       {
        "n": 7,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-rack-switch-laptop-configuration.webp",
-       "shows": "hands typing on a laptop resting on a rack shelf below switches and network units connected with blue patch cables",
-       "w": 760,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
+       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
+       "w": 500,
+       "h": 500
       },
       {
        "n": 8,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-recessed-media-box-behind-screen.webp",
-       "shows": "gloved hands feeding blue cable into a recessed media box with an outlet and data jack behind a flat panel on its mount, a tool bag and cable tester below",
-       "w": 610,
-       "h": 1080
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
+       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
+       "w": 225,
+       "h": 225
       },
       {
        "n": 9,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-screen-hung-over-recessed-wall-box.webp",
-       "shows": "technician seen from behind lifting a flat-screen onto a wall while a second gloved hand feeds a cable into a recessed box with an outlet",
-       "w": 780,
-       "h": 990
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
+       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 10,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-storefront-ceiling-cable-drop.webp",
-       "shows": "open black ceiling of a retail space with track lights, a blue cable hanging down at the left and a worker on a ladder in the background",
-       "w": 770,
-       "h": 450
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-re.webp",
+       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
+       "w": 456,
+       "h": 456
       },
       {
        "n": 11,
-       "src": "/images/sonos-installation/sonos-installation-jackson-heights-tone-probe-tracing-wall-jack-cable.webp",
-       "shows": "hand holding a tone probe at a wall opening above a data wall plate, the other hand holding a yellow tone generator on a blue cable",
-       "w": 680,
-       "h": 1060
+       "src": "/images/mag-lock-installation/mag-lock-installation-nassau-county-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
+       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
+       "w": 456,
+       "h": 456
       }
      ]
     },
     "p11": {
      "status": "REBUILD",
-     "slug": "intercom-installation-mapleton-brooklyn-ny",
+     "slug": "intercom-installation-ocean-hill-brooklyn-ny",
      "silo": "Intercom Installation",
-     "area": "Mapleton, Brooklyn",
+     "area": "Ocean Hill, Brooklyn",
      "up": "/intercom-installation-brooklyn-ny",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 573,
+     "line_no": 579,
      "silo_key": "intercom-installation",
      "area_key": "brooklyn",
-     "nbhd": "Mapleton",
+     "nbhd": "Ocean Hill",
      "borough": "Brooklyn",
-     "nb_slug": "mapleton",
-     "exemplar": "intercom-installation-city-line-brooklyn-ny",
+     "nb_slug": "ocean-hill",
+     "exemplar": "intercom-installation-mapleton-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged on the floor of a working premises for a multi-drop pull",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "technician at work on a door-entry installation",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/intercom-installation/intercom-installation-mapleton-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/intercom-installation/intercom-installation-ocean-hill-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "technician completing and checking an installation before handover",
        "w": 1402,
        "h": 1122
