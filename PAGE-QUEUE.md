@@ -605,7 +605,7 @@ LIVE | security-camera-installation-co-op-city-bronx-ny | Security Camera Instal
 BUILDING 2026-11-03T03:07Z factory | security-camera-installation-concourse-bronx-ny | Security Camera Installation | Concourse, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T03:07Z factory | security-camera-installation-crotona-park-east-bronx-ny | Security Camera Installation | Crotona Park East, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T03:07Z factory | security-camera-installation-dumbo-brooklyn-ny | Security Camera Installation | Dumbo, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-03T03:07Z factory | security-camera-installation-east-tremont-bronx-ny | Security Camera Installation | East Tremont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-east-tremont-bronx-ny | Security Camera Installation | East Tremont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-edenwald-bronx-ny | Security Camera Installation | Edenwald, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-edgewater-park-bronx-ny | Security Camera Installation | Edgewater Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-fairmount-bronx-ny | Security Camera Installation | Fairmount, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
