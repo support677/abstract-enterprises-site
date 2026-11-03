@@ -2840,3 +2840,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-02 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-the-hub-bronx-ny | QUEUED
 2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-allerton-bronx-ny | QUEUED
 2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-belmont-bronx-ny | QUEUED
+2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-river-bronx-ny | QUEUED
