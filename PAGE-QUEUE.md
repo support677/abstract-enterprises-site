@@ -621,7 +621,7 @@ LIVE | security-camera-installation-kingsbridge-bronx-ny | Security Camera Insta
 BUILDING 2026-11-03T18:11Z factory | security-camera-installation-laconia-bronx-ny | Security Camera Installation | Laconia, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T18:11Z factory | security-camera-installation-locust-point-bronx-ny | Security Camera Installation | Locust Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T18:11Z factory | security-camera-installation-longwood-bronx-ny | Security Camera Installation | Longwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T18:11Z factory | security-camera-installation-melrose-bronx-ny | Security Camera Installation | Melrose, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-melrose-bronx-ny | Security Camera Installation | Melrose, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-morris-heights-bronx-ny | Security Camera Installation | Morris Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-morris-park-bronx-ny | Security Camera Installation | Morris Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-morrisania-bronx-ny | Security Camera Installation | Morrisania, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
