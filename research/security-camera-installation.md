@@ -1350,3 +1350,347 @@ Questions found on other pages (labelled with the real source):
 - Will there be cameras? (Edenwald Houses residents) — PACT resident FAQ — https://edenwaldhousesbx.com/faqs/
 - Can I install a security system by myself? / What is the best home security system in Bronx? — review site FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
 - Yelp "People also searched for": Security Camera Installation — Yelp — https://www.yelp.com/search?find_desc=Home+Security+Camera+Installation&find_loc=Bronx
+
+## Edgewater Park, Bronx — /security-camera-installation-edgewater-park-bronx-ny (factory research, 2026-11-03)
+
+I ran out of searches before I could check several items, so they're marked EMPTY rather than guessed. They're listed at the bottom.
+
+**What's specific to security camera installation here (the main angles)**
+
+- It's a gated community with one way in, so the co-op's own gate is the "front door," not each house. Edgewater Park and Silver Beach Gardens are private cooperatives, with closed-off streets and a single point of entry. They have security guards and signs that forbid loitering, trespassing or soliciting. — https://www.archpaper.com/2010/03/behind-closed-gates/
+- The co-op already runs community cameras. One sale listing names a friendly security guard, surveillance cameras for added peace of mind, a delightful playground, a fantastic basketball court, convenient shops, and a community firehouse. — https://www.hlres.com/listings/2239896/sale-throgs-neck
+- Another listing names Security/Cameras and Security walks through Community. That makes a home system an add-on to the co-op's coverage, not a replacement for it. — https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/2-bedroom/
+- Residents have paid for gate security themselves, and it has been attacked. Edgewater Park residents banded together last month to improve safety in their neighborhood by installing new guard booth. Now police are on the hunt for vandals who destroyed it, and an after-hours security guard is on duty in its replacement. The article is about 9 years old. — https://bronx.news12.com/police-seek-vandals-who-destroyed-edgewater-park-guard-booth-36246336
+- Who owns what matters for mounting and drilling approval: Though residents own their homes outright in these cooperative communities, they continue to lease the land, divided into shares, from owners' collectives, and pay dues to maintain communal areas and infrastructure. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/resilient-neighborhoods/edgewater-park/edgewater_park_report_102015.pdf
+- The co-op sets forth architectural and construction guidelines, which regulate its built form. The same report says The Co-op strictly enforces its own guidelines. Exterior cameras, poles or conduit may need co-op sign-off. I didn't find any camera-specific rule. — same NYC DCP PDF
+- Houses are packed tightly, which makes privacy and field-of-view a real issue. Structures are located immediately adjacent to one another on narrow streets. A resident on a forum said Houses and lots are quite small - usually all that separates you from a neighbor is an alley. — DCP PDF above; https://www.city-data.com/forum/new-york-city/2424169-anyone-familiar-silver-beach-edgewater-park.html
+- Install vans may struggle on the lanes: Many of the Fire Department of New York's (FDNY) emergency vehicles are too big to navigate Edgewater Park's small streets, which often requires the volunteer firehouse to provide essential first response. — https://hcr.ny.gov/news/new-york-state-homes-and-community-renewal-announces-25-million-construction-project-bronx
+- Flooding affects where you put the recorder (NVR), network gear and cable runs. Making that community of 675 homes, 278 of which sit in a flood zone, has posed unique challenges. — https://citylimits.org/sandy-resiliency-retrofits-nyc/
+- **Conflicting number:** Bronx Times reported that DCP explained approximately 111 Edgewater Park homes are situated in the flood zone. — https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/
+- NYC flood-resilience rules require certain buildings to elevate the lowest floor, as well as mechanical equipment, above the Design Flood Elevation (DFE). In practice, keep the NVR and network switch out of basements. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/bronx-cb10-050917.pdf
+- Flood zones in the DCP report are listed as A zone with a 13-foot base flood elevation (BFE), plus Coastal A (14 ft) and V zones. — DCP PDF above
+- Elevated houses mean re-mounting cameras. The co-op voted to measure building height from the design flood elevation while maintaining its 25 foot height limit and enabling homes to elevate to the new standards. — https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/
+- DOB permit data (as reported): since Superstorm Sandy, just one property in Edgewater Park "has obtained permits for the elevation of the existing building." This dates from about 2019. — https://citylimits.org/sandy-resiliency-retrofits-nyc/
+- Salt air: one competitor says it uses all-stainless mounting hardware and corrosion-resistant housings built to survive the salt air for Edgewater Park. This is marketing, not independent proof. — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- **Competitor already has this exact page:** Abstract Enterprises runs /security-camera-installation-edgewater-park-bronx-ny with packages Starting at $850. It also has buzzer and access-control pages that mention "EPCOT" and a main-gate price range. I could not confirm those claims, so don't reuse them. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-edgewater-park-bronx-ny
+- Nearby Throggs Neck cameras: NYPD Argus cameras have been installed along East Tremont Avenue in Throggs Neck. — https://www.bxtimes.com/throggs-neck-security-cameras/
+- The cameras are monitored in real-time by the 45th precinct and police headquarters. — https://news.yahoo.com/anti-crime-cameras-installed-bronx-023515656.html
+- Local doorbell-camera news: Ring Doorbell Camera caught the theft in action at a residential home near Clarence and Randall avenues. (October 2025) — https://bronx.news12.com/man-caught-on-camera-stealing-from-mailboxes-in-throgs-neck
+- The family filed a report with the 45th Precinct and shared the video on the Ring app, where neighbors said the same teens targeted other homes. (Throggs Neck, about November 2025) — https://bronx.news12.com/caught-on-camera-teens-break-down-door-of-throgs-neck-home
+- A neighbor complaint that may be worth facing the entry: Edgewater Park is a problemsome place to live and the promimity of the bars on Pennyfield Avenue are the cause of it. (one review) — https://www.apartments.com/local-guide/throgs-neck-edgewater-park-bronx-ny/
+- Recent co-op governance dispute, relevant if a project needs board approval: Before the 2024 annual meeting, the Edgewater Park board disqualified four candidates because they were all affiliated in some way with the EAA. — https://coopcondocaselawtracker.com/case-notes/the-big-don-t
+- NY law: Video-only recording in public-facing areas (sidewalks, driveways, front porches) does not require consent. — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- Aiming at neighbors: New York, for instance, passed a 2017 law letting homeowners or tenants sue someone who videotapes or takes moving images of them in their backyard without consent, but only where there's intent to harass or threaten. This matters given how close the houses are. — https://www.nolo.com/legal-encyclopedia/can-neighbor-legally-point-security-camera-property.html
+- City data — HPD violations: EMPTY. 311 complaints: EMPTY. DOB camera or low-voltage permits: EMPTY. LPC: EMPTY (I found no landmark district covering Edgewater Park).
+
+**History, building stock, landmarks**
+
+- Origins: Edgewater Park once housed a mansion built by George T. Adee in 1856. Eventually, in 1923, he leased the land to Richard W. Shaw Sr. an Irish immigrant who was a member of St. Ann's Episcopal Church in Morrisania and invited church youth to camp on the grounds which became known as Edgewater Camp. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- Wikipedia also says bungalows existed by around 1918, which conflicts with the 1923 lease date. — same
+- After World War I the community was divided into sections A, B, C, after the names of Army camps; D and E Sections were added later. Addresses still use these letters (for example 33C, 67E). — same
+- Co-op formed: Edgewater Park Co-op (the Co-op) was formed in 1988 when residents who formerly rented the land purchased it from the primary leaseholder. — DCP PDF
+- **Conflict:** CityNeighborhoods.NYC says a cooperative existed By 1910. — https://cityneighborhoods.nyc/park-of-edgewater
+- Size: the Co-op spans fifty-five acres and includes 675 single-family residences that house approximately 3,000 residents. Wikipedia says 60 acres. — DCP PDF; Wikipedia
+- Building type: densely built single-family detached and multi-story bungalow-style homes. Established as a summer bungalow community, homes were adapted over time for year-round living. — DCP PDF
+- Compass lists one Edgewater Park co-op unit as built in 1930. — https://www.compass.com/building/edgewater-park-owners-bronx-ny/567636788993013445/
+- Commercial: It is exclusively residential save for a single delicatessen that now stands where a full suburban style shopping center once existed before a fire left it damaged beyond repair in the early 1980s. — DCP PDF
+- Boundaries: Bounded by the Throgs Neck Expressway to the south and west, Weir Creek to the north, and Eastchester Bay to the east. — https://cityneighborhoods.nyc/park-of-edgewater
+- Main office: 1 Edgewater Park, Bronx, NY 10465. — https://www.yelp.com/biz/edgewater-park-owners-cooperative-bronx
+- Neighbors: Its sister communities are Silver Beach, south of the Cross Bronx Expressway, as well as Harding Park. — Wikipedia
+- Landmarks inside: the Mansion, leased to the Edgewater Athletic Association (EAA), and the volunteer firehouse/community center, which got a $2.5M state resiliency project. — case-law tracker; HCR link
+- Known for: its private beach and the Labor Day Olympics. Bronx Times covered the centennial celebration of Edgewater Park's Labor Day Olympics. — https://www.bxtimes.com/edgewater-park-celebrates-centennial-labor-day-olympics/
+- Background: the 2010 fair-housing suit and its 2013 settlement. — https://ecbawm.com/news/ecbawm-settles-racial-housing-discrimination-case-against-bronx-cooperative/
+- Police and ZIP: its ZIP Code is 10465. Throggs Neck is patrolled by the 45th Precinct. — https://en.wikipedia.org/wiki/Throggs_Neck
+- Nearby commercial corridor: East Tremont Avenue (Throggs Neck BID), from Bruckner and Tremont to Miles and Tremont. — Yahoo/PIX11 link above
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY. I found no threads about Edgewater Park.
+- Patch: EMPTY. BoogieDowner blog (2009) covered the NYT "Living In" feature. — https://boogiedowner.blogspot.com/2009/08/co-op-living-in-edgewater-park-silver.html
+
+### Questions people ask — Security Camera Installation in Edgewater Park
+
+- Google People Also Ask: EMPTY (my search tool can't show PAA boxes)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit: EMPTY
+- How much does security camera installation cost in the Bronx, NY? — competitor page FAQ (not confirmed as PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- How much does commercial security camera installation cost in the Bronx? — competitor page FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-bronx
+- How much does apartment building camera installation cost in the Bronx? — competitor page FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- Do you install intercoms and access control in the Bronx? — competitor Edgewater Park page FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-edgewater-park-bronx-ny
+- Can I install a security system by myself? — review-site FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- What is the best home security system in Bronx? — review-site FAQ — same URL
+- Can my neighbor in New York legally point security cameras at my house? — legal blog — https://www.gavelinsight.com/2025/12/can-my-neighbor-in-new-york-legally.html
+- Can I install security cameras outside my house in New York? — legal guide FAQ — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- Can I record audio on my security cameras in New York? — legal guide FAQ — same URL
+- Can my security camera record my neighbor's property? — legal FAQ — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- Are security cameras allowed in New York City apartments? — installer FAQ — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+- Yelp praise (Bronx camera installers): His price was very fair and there were no surprise charges. — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Yelp praise (Throggs Neck results): Very honest does not try and over sell you. Knows FDNY rules and regulations — Yelp — https://yelp.com/search?find_desc=Fire+Alarm+Installation&find_loc=Throgs+Neck%2C+Bronx%2C+NY
+- Yelp complaints about camera installers nearby: EMPTY
+
+**Still to check:** Google PAA and related searches (use a SERP tool), Bing and DuckDuckGo, Reddit, Patch, HPD, 311 and DOB records, and whether the co-op has written rules on cameras or exterior drilling. Ask the office at 1 Edgewater Park about the rules.
+
+**Skip these:** the latahcountyid.gov "guide," which mixes in Hudson River details that aren't about this place, and anything about Edgewater Park in Cleveland or in New Jersey.
+
+## Fairmount, Bronx — /security-camera-installation-fairmount-bronx-ny (factory research, 2026-11-03)
+
+**Note on scope:** Wikipedia's "Fairmount, Bronx" page redirects to East Tremont. NYC Parks also treats Fairmount as a part of East Tremont, not a separate neighborhood. Many findings below are therefore at the East Tremont, 48th Precinct or Bronx level, and each one is labeled that way.
+
+**Security camera installation in Fairmount specifically (most important)**
+- The Wikipedia URL for "Fairmount, Bronx" redirects to East Tremont, which is in Community District: Bronx 6. NYC Parks says "Fairmount is located in the neighborhood of East Tremont." — https://en.wikipedia.org/wiki/Fairmount,_Bronx ; https://www.nycgovparks.org/parks/fairmount-playground
+- Building types are mixed, which means mixed wiring jobs: East Tremont is dominated by five and six story tenement buildings, older multi-unit homes, vacant lots, and newly constructed apartment buildings. — https://en.wikipedia.org/wiki/Fairmount,_Bronx
+- Building examples on Fairmount Place:
+  - Frame two-family house: 785 Fairmount Place was built in 1899 and has 2 stories and 2 units (B2 Two Family, Frame) — https://streeteasy.com/building/785-fairmount-place-bronx
+  - Prewar walk-up: 805 Fairmount Place was built in 1931 and has 5 stories and 35 units, building class C1 Over Six Families without Stores, Precinct 48 — https://streeteasy.com/building/805-fairmount-place-bronx
+  - Infill walk-up: 797 Fairmount Place is 6 units, 4 stories, Built in 2004, building class C2 Walk Up Apartments, Five to Six Families — https://streeteasy.com/building/797-fairmount-place-bronx
+- DOB permit filing: Permits have been filed for a seven-story residential building at 788 Fairmount Place, between Prospect Avenue and Marmion Avenue, with 23 residences. That is enough units to trigger the intercom rule below. — https://newyorkyimby.com/2020/03/permits-filed-for-788-fairmount-place-in-east-tremont-the-bronx.html
+- Intercom and entry-door law (Multiple Dwelling Law §50-a / HMC 42-01): On or after January 1, 1969, every entrance from the street, court, yard or cellar to a class A multiple dwelling erected or converted prior to January 1, 1968 containing eight or more apartments, shall be equipped with automatic self-closing and self-locking doors and shall also be equipped with an intercommunication system. — https://up.codes/s/entrance-doors-locks-and-intercommunication-systems
+- HPD enforcement: A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- 311 route: HPD enforces intercom requirements through inspections triggered by routine building reviews or tenant complaints via 311. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Self-closing doors: Residential multiple dwelling buildings (3 or more residential units) are required to be equipped with self-closing doors. In FY24, inspections resulted in the issuance of 3,151 self-closing door violations by HPD. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/self-closing-door-fy24.pdf
+- Block-level HPD/DOB/NYPD data at 868 East Tremont Ave (10460):
+  - Weverit gives it a compliance score of 39 / 100.
+  - It reports 258 NYPD incidents occurred within a block in the past 12 months, including 85 felonies, 37 violent crimes.
+  - Source: https://weverit.com/building/ny/new-york/868-east-tremont-avenue-bronx-10460
+- Precinct: The area is patrolled by the NYPD's 48th Precinct. In early 2026, the precinct recorded 1,249 major felonies, down 12.5% from one year earlier. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx ; https://www.southwestjournal.com/us/new-york/dangerous-neighborhoods-in-new-york-city/
+- 48th Precinct post (09/21/2026): recent community concerns regarding drug sales from an unregistered vehicle at East Tremont Avenue and Prospect Avenue — https://www.govserv.org/US/The-Bronx/1401122019949180/NYPD-48-Precinct
+- Auto-part theft and footage: In a 252-theft case, nine were in the 48th Precinct, which covers some or all of Belmont, East Tremont, West Farms. Prosecutors said many of the crimes were captured on surveillance video (Norwood News, April 2026). — https://www.norwoodnews.org/update-bronx-da-police-commissioner-16-charged-with-252-thefts-of-cars-tires-rims-catalytic-converters/
+- Recent nearby news (Claremont, just south of Crotona Park, not Fairmount itself):
+  - A 15-year-old was killed along East 171st Street and Crotona Place, and surveillance footage shows the moment he ran.
+  - Handle this sensitively. Don't use it as marketing.
+  - Source: https://pix11.com/news/morning/police-search-for-suspects-accused-of-killing-teen-in-the-bronx/
+- NYCHA nearby (Bronx River Houses, east of the area): In 1999, the NYPD completed the installation of 135 closed-circuit television cameras at Bronx River Houses. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- Tenants installing cameras in NYCHA, Bronx (2012): A Parkside Houses tenant received an eviction notice saying that she had breached her lease by installing the cameras. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- Renters and hallways: Legally speaking, you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway. Cameras also must not film the inside of any of the apartments. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Audio recording: Whether a camera passively capturing hallway audio meets the definition of unlawful eavesdropping has never been settled cleanly, which is why audio is usually left off. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Licensing (sources conflict):
+  - Several sources say You must obtain a Security or Fire Alarm Installer License from the NYS Department of State's Division of Licensing Services to install security cameras legally in NYC. — https://butterflymx.com/blog/security-camera-installation-nyc/
+  - The DOS application itself says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+  - Check with DOS before making any claim on the page.
+- Competitor page warning: Abstract Enterprises' East Tremont page is templated. It names commercial corridors like Fifth Avenue, Broadway, and Madison Avenue, which are not East Tremont streets. It quotes $850 for 4 cameras, while its Bronx page says $1,062 for 4 cameras. That leaves room for a genuinely local page. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny ; https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Local installers:
+  - Safehome lists a security company at 1900 Crotona Ave floor 1, Bronx, NY 10457 — https://www.safehome.org/security-systems/new-york/bronx/
+  - Computer Settings is at 2246 Grand Concourse — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- Fios: StreetEasy lists 797 Fairmount Pl as fios_available, which matters for cloud/remote viewing — https://streeteasy.com/building/797-fairmount-place-bronx
+- Fairmount-specific 311 camera complaints: EMPTY. LPC rules affecting Fairmount blocks: EMPTY (no historic district found; see landmarks below).
+
+**History and development**
+- Name: Both this playground and the nearby Fairmount Place are named after the 19th century Fairmount estate that was located here, owned successively by Colonel Dunham, Robert Cochran, and Thomas Minford. — https://www.nycgovparks.org/parks/fairmount-playground
+- Tremont name: This was known as Upper Morrisania until the 1850s, when local postmaster Hiram Tarbox realized his mail was being mixed up with that of nearby Morrisania. He suggested the name Tremont for the three nearby hills: Fairmount, Mount Eden, and Mount Hope. — https://www.nycgovparks.org/parks/fairmount-playground
+- Cross-Bronx Expressway: 54 apartment buildings were razed, forcing 5,000 evictions. Fairmount Playground opened on March 30, 1960. — https://www.nycgovparks.org/parks/fairmount-playground/history
+- Population and density: In 1950, East Tremont's population numbered an estimated 60,000 — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Decline: Most of the original housing stock was structurally damaged by arson and eventually razed by the city. — https://en.wikipedia.org/wiki/Fairmount,_Bronx
+- Crotona Park land: originally part of the roughly 2,000-acre Morris estate... This 127.5- acre parcel was sold to the Bathgate family, who owned it until 1888 — https://6tocelebrate.org/neighborhoods/historic-bronx-parks-2/
+
+**Main streets and corridors**
+- Boundaries: bounded by East 180th Street, Southern Boulevard, the Cross Bronx Expressway and Third Avenue. East Tremont Avenue is the primary thoroughfare through the neighborhood. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Historic retail: East Tremont Avenue was a bustling retail area with bakeries, kosher butcher shops, mom-and-pop candy stores, delicatessens, and clothing stores. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Prospect Avenue and Fairmount Place: Fairmount Playground sits at the intersection of Fairmount Place and Prospect Avenue — https://www.nycgovparks.org/parks/fairmount-playground/history
+- Transit:
+  - 797 Fairmount Pl is near the 2/5 trains at 174th St 0.35 miles — https://streeteasy.com/building/797-fairmount-place-bronx
+  - Tremont Avenue busway: "Mamdani admin breaks ground on Tremont Avenue busway" — https://en.wikipedia.org/wiki/Tremont_Avenue
+- Former theater: the former Loew's Fairmount, #708 East Tremont, east of Crotona Avenue, opened September 12, 1928 — https://forgotten-ny.com/2018/06/walking-tremont-avenue/
+
+**Parks and landmarks**
+- Fairmount Playground is a 0.47-acre Triangle/Plaza, Council Member Oswald Feliz — https://www.nycgovparks.org/parks/fairmount-playground
+- LPC landmark nearby: The Crotona Play Center was designated a New York CIty Individual and interior landmark in 2007. — https://6tocelebrate.org/neighborhoods/historic-bronx-parks-2/
+- Crotona Parkway Malls: Designed as a corridor between Crotona and Bronx Parks, it opened in 1910 — https://forgotten-ny.com/2018/06/walking-tremont-avenue/
+- Happy Land memorial: The pink granite obelisk at East Tremont Avenue is a memorial to the 87 people who lost their lives in a fire that destroyed the Happy Land Social Club — https://6tocelebrate.org/neighborhoods/historic-bronx-parks-2/
+- Former 48th Precinct station (NRHP, not LPC): 1925 Bathgate Avenue, completed in 1901 — https://en.wikipedia.org/wiki/48th_Police_Precinct_Station
+- Tremont Library: at 1866 Washington Avenue. The branch, a Carnegie library designed by Carrère and Hastings... was opened in 1905. — https://en.wikipedia.org/wiki/Fairmount,_Bronx
+
+**What it's known for**
+- *The Power Broker*: Robert Caro devotes two chapters to the "One Mile" of the Cross-Bronx Expressway which ran through East Tremont. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Demographics: East Tremont has one of the highest concentrations of Puerto Ricans in New York City. Around Fairmount Pl / Marmion Ave, 29.7% of the residents of this neighborhood were born in another country. — https://en.wikipedia.org/wiki/Fairmount,_Bronx ; https://www.neighborhoodscout.com/ny/bronx/fairmount-pl
+- Mostly renters: Most of the residential real estate is renter occupied. This affects who can authorize installs (landlords vs. tenants). — https://www.neighborhoodscout.com/ny/bronx/fairmount-pl
+
+**Related local news (outside Fairmount; use with caution)**
+- Tremont Renaissance (4125 Park Ave, Tremont): The advertised 24-hour security meant only cameras, not a guard. Inspectors have cited the Tremont Renaissance for 138 housing code violations. Management later
+
+## Fieldston, Bronx — /security-camera-installation-fieldston-bronx-ny (factory research, 2026-11-03)
+
+**What matters most for camera installs in Fieldston**
+
+- Fieldston has private streets with their own security patrol. The Fieldston Property Owners' Association (FPOA) owns the streets and common areas. It plows the streets, maintains the sewers, cares for the trees and runs a 24/7 security patrol. Excel handles Fieldston's physical security. Its van patrols the streets 24/7 and also deals with illegally parked cars, traffic, downed trees and power lines. — https://fieldstonhistoricdistrict.com/about1
+- The FPOA has pointed residents to its own security vendor before. A Riverdale Press story on a security alert said alarm installation and monitoring was available from Excel Security, the company the FPOA uses for jobs like street closures. The same letter covered a series of thefts from unlocked cars and an attempted break-in at a Delafield Avenue home. — https://www.riverdalepress.com/stories/fieldston-closes-streets-to-outside-traffic,53538
+- The streets are closed to outsiders once a year and parking is restricted. The closure keeps the streets legally private, and parking is limited to residents and their guests. Installers will need to plan where their vans park. — https://en.wikipedia.org/wiki/Fieldston,_Bronx
+- **LPC rules apply.** Most of the neighborhood is in the Fieldston Historic District, which the Landmarks Preservation Commission designated in 2006. — https://en.wikipedia.org/wiki/Fieldston,_Bronx
+- LPC's permit guidebook has a section called "Installing Security Cameras" (Chapter 11, Health, Safety and Utility Equipment). It says staff can approve security cameras if the installation meets the stated criteria. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- The LPC rule that covers cameras is §2-20. It sets the criteria for approving health, safety and utility equipment, including security cameras, lighting and meters. Equipment should be finished to match the building or otherwise not call undue attention to itself. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf ; https://www.nyc.gov/assets/lpc/downloads/pdf/Comparison%20of%20January%202018%20rule%20to%20August%202018%20rule.pdf
+- **There is a local LPC enforcement case involving cameras.** A 2020 Riverdale Press op-ed said Horace Mann had built up a long list of LPC violations on its Tibbett Avenue properties. One application was meant to fix outstanding violations, including security cameras installed without a permit. — https://www.riverdalepress.com/stories/school-destroys-fieldstons-history,71881
+- One competitor (not an official source) claims that street-facing cameras in historic districts may need an LPC permit or Certificate of No Effect, and that mounting at the rear often avoids LPC review. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- **The Special Natural Area District affects cable trenching.** SNAD covers the Riverdale Ridge, including parts of Fieldston, and the ridge has steep slopes, rock outcrops, ponds, brooks, marshes and mature trees. Rock outcrops in SNAD cannot be altered without City Planning Commission authorization. — https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/snad/snad-draft-scope-work.pdf
+- Under the SNAD rules, a designated "area of no disturbance" must be protected from disturbance, including excavation, tunneling for utilities and tree removal. Underground runs to detached garages or gates may be limited. — https://www.nyc.gov/assets/planning/download/pdf/applicants/env-review/snad/append11-feis.pdf
+- Lots are large, so cable runs and Wi-Fi range matter. Lots are often a quarter-acre or more, with mature trees, private driveways and detached garages. The private-street core is mostly detached single-family houses, not co-ops or rentals. — https://reinventny.com/blog/fieldston
+- **Car break-ins on Fieldston Road.** The Riverdale Press reported that some cars smashed on Fieldston Road on Jan. 9 were still missing windows the next day. Much of that stretch of Fieldston Road is poorly lit. One resident's outdoor cameras were badly positioned for the street and only caught the driveway. — https://www.riverdalepress.com/stories/riverdale-continues-to-be-a-target-for-car-vandals,170202
+- CBS2 aired surveillance video of a thief walking to a truck on Fieldston Road, trying the unlocked door and getting in. Another resident's van was in her driveway, behind a closed gate. — https://www.cbsnews.com/newyork/news/cars-vandalized-riverdale-bronx-nypd/
+- **2019 burglary on Grosvenor.** The burglary happened just after 5 p.m. on a Saturday at a home on Grosvenor Street in Fieldston. The burglars got in by breaking a balcony window. They took jewelry and luggage worth more than $140,000. — https://ny1.com/nyc/all-boroughs/news/2019/11/12/nypd-investigates-burglary-of-billionaire-ceo-home-in-fieldston-section-of-riverdale
+- In a Fieldston stabbing case, police used surveillance video from nearby homes to describe the suspect. It happened near Fieldston Terrace and West 252nd Street. — https://www.riverdalepress.com/stories/police-hunting-for-man-involved-in-fieldston-stabbing,72607
+- On nearby Riverdale Avenue, a burglarized restaurant owner said the burglars even took the DVR box for the security cameras. This supports offsite or cloud backup and hiding the recorder. — https://www.riverdalepress.com/stories/burglar-feasts-on-another-restaurant,56845
+- Crime data for the wider Riverdale/Fieldston district (BX08, not Fieldston alone): 10.1 serious crimes per 1,000 residents in 2025, compared with 12.3 citywide. — https://www.furmancenter.org/neighborhoods/riverdale-fieldston/
+- The FPOA went before LPC on Aug. 5, 2025 (LPC-25-12401, Fieldston Historic District) for "Fieldston Private Streets" signage on Fieldston Road. — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20250805/Fieldston-Historic-District.pdf
+- Licensing: installing surveillance cameras as part of a security system requires a license from the NYS Department of State. — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- A local competitor already has a Fieldston page: Momo Locksmith (259 W 259th St, Bronx, NY 10471). — https://momolocallocksmith.com/security-cameras/bronx-ny/fieldston/ ; https://findasecuritydealer.com/installers/ny/bronx
+- HPD violations, 311 complaints and DOB permits specific to Fieldston: EMPTY (not retrieved).
+- Fieldston-specific Reddit threads about cameras: EMPTY.
+
+**History, layout and buildings**
+
+- The land history: Joseph Delafield bought the land in 1829. In 1909 his estate sold part of it to Manhattan Teachers College and developed the rest as a private park for houses. — https://artsandculture.google.com/asset/fieldston-historic-district/HwFgnJJkxEd8YQ?hl=en
+- The first lots sold in 1910. The plan rejected the city grid in favor of winding streets, woodlands and natural rock outcrops. Engineer Albert Wheeler laid the streets out to follow the land's contours. — https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/ ; https://hiddenwatersblog.wordpress.com/2016/12/02/fieldpond/
+- Residents formed the FPOA in August 1923. The deeds to the streets passed to the FPOA in 1948. — https://s-media.nyc.gov/agencies/lpc/lp/2138.pdf ; https://www.flickr.com/photos/emilio_guerra/6803416510
+- In 1938, deed restrictions expired and a developer planned an apartment building. Residents petitioned for a "G" zone to ban apartment buildings. — https://artsandculture.google.com/asset/fieldston-historic-district/HwFgnJJkxEd8YQ?hl=en
+- Building stock: large detached houses in Tudor Revival, Georgian, Colonial and Arts and Crafts styles, from architects including Dwight James Baum, Delano & Aldrich and Van Vleck & Goldsmith. Sources disagree on the count: Brownstoner says about 257 houses and related buildings on roughly 140 acres, while Wikipedia says 252. — https://cityneighborhoods.nyc/fieldston ; https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/
+- There is also some modern infill: a 1963 Julius Panero house at 4540 Fieldston Road. — https://www.brownstoner.com/upstate/fieldston-bronx-history-architecture/
+- Boundaries: Manhattan College Parkway (south), Henry Hudson Parkway (west), 250th Street (north) and Broadway (east). A real-estate site gives slightly different lines. — https://lengthxwidth.com/?page=neighborhoods&cat_id=290&cat_name=fieldston
+- No commercial corridor: Fieldston has hilly streets and no commercial businesses. The nearest commercial strip is the Riverdale Avenue commercial corridor. — https://www.homes.com/local-guide/bronx-ny/fieldston-neighborhood/ ; https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Main streets and notable houses: Fieldston Road, Delafield, Goodridge, Grosvenor, Waldo and West 246th. Examples include 355 West 246th Street (1911–12, Mann & MacNeille, Tudor Revival) and 4401–4403 Waldo Avenue (1913), originally the Delafield Estate office. — https://en.wikipedia.org/wiki/Fieldston,_Bronx ; https://kids.kiddle.co/Fieldston,_Bronx
+- Institutions: Horace Mann School and Ethical Culture Fieldston School are in Fieldston, and Manhattan University is on Manhattan College Parkway. ECFS's campus is at 3901 Fieldston Road, Bronx, NY 10471. — https://en.wikipedia.org/wiki/Fieldston,_Bronx ; https://www.ecfs.org/
+- Parks: Delafield Pond is a private spot for residents, and Brust Park has walkways and play areas. Van Cortlandt Park borders Fieldston directly. — https://www.homes.com/local-guide/bronx-ny/fieldston-neighborhood/ ; https://reinventny.com/blog/fieldston
+- Known for: by the early 2000s, being one of the wealthiest neighborhoods in New York City. — https://en.wikipedia.org/wiki/Riverdale,_Bronx
+- Bronx installers mentioned in Yelp listings: CMD Technologies, Security Camera NY, True V Security Systems, True Defense Solutions and Momo Locksmith. Specific Yelp complaints or praise for Fieldston jobs: EMPTY. — https://www.yelp.com/search?find_desc=security+camera+installation&find_loc=North+Riverdale,+Bronx,+NY
+- Patch, BKReader and Bronx Times coverage: EMPTY (only Riverdale Press, CBS and NY1 found).
+
+### Questions people ask — Security Camera Installation in Fieldston
+
+I couldn't access Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo directly, so those sources are EMPTY. The questions below come from site FAQs and FAQ markup on pages that rank for these searches. They're real questions, but not confirmed as PAA.
+
+- How much does security camera installation cost in Bronx? — competitor FAQ (not verified PAA) — https://findasecuritydealer.com/installers/ny/bronx
+- Do I need a permit to install security cameras in Bronx? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How long does security camera installation take? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- What's the difference between wired and wireless security cameras? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Can I view my security cameras on my phone? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How many security cameras do I need? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Are security cameras worth it for Bronx property owners? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- How do I prevent package theft at my Bronx property? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Can I install security cameras myself? / Do I need professional camera installation? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-riverdale-bronx-ny
+- What is the best wireless camera for the Bronx? — competitor page with an "Answer The Public" heading (not verified) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- Do I need a permit to install security cameras on my house in NYC? — competitor FAQ — https://senecasecurity.com/services/security-cameras/single-family-houses/
+- The carriage house is in an LPC historic district. Are there restrictions on exterior camera mounting? — competitor FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Do you need a license for surveillance in New York? — blog FAQ — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- Do I need professional monitoring or is self-monitoring enough? / Can I use the security system I already have? — site FAQ — https://yourhomesconnection.com/services/security/new-york-ny
+- Are Fieldston's streets really private? / Is Fieldston part of the Bronx? — real-estate FAQ — https://reinventny.com/blog/fieldston
+- If I go PoE, do I need another cable for power? — forum (not Reddit) — https://www.tractorbynet.com/forums/goto/post?id=5343556
+- Wired or wireless? — forum (not Reddit) — https://forums.anandtech.com/threads/security-camera-solutions.2318806/post-35566666
+- PAA (Google): EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Fieldston, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Yelp complaints or praise: EMPTY
+
+## Fordham, Bronx — /security-camera-installation-fordham-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** I could only run general web searches. I could not see Google People Also Ask boxes, related searches, Bing or DuckDuckGo results, or AnswerThePublic. Those fields are marked EMPTY. The questions listed further down come from FAQ sections on competitors' and publishers' pages, and I've labeled them that way.
+
+### Specific to security camera installation in Fordham (most important)
+
+**Building incidents and local news**
+- Residents at 2654 Valentine Ave. say the entryway is filled with loiterers and drug use. News 12 obtained surveillance video showing multiple people using drugs and people unconscious. News 12 contacted the management company but had not heard back. (about 9 months ago) — https://bronx.news12.com/fordham-tenants-say-they-fear-for-their-children-as-drug-use-plagues-the-lobby-of-apartment-building
+- In a Fordham Heights building, neighbors say homeless individuals had been trespassing for months. Some couldn't tell how they were getting in; others thought a resident might be letting them in. Police reported two 911 trespassing calls at the address so far that year. — https://bronx.news12.com/trespassing-drug-activity-caught-on-camera-inside-fordham-heights-building
+- In the nearby West Bronx (Morris Heights, not Fordham), several men entered buildings on Davidson Avenue, numbered 1985 to 2024, damaged many cameras inside and outside, and ran off. This supports vandal-resistant housings and hidden cable runs. — https://www.cbsnews.com/newyork/news/police-suspects-busted-surveillance-cameras-in-multiple-bronx-buildings/
+- In another Bronx case, a suspect used a large object to move the cameras, then stole nearly $900 of items from a building basement on Morris Avenue. — https://www.cbsnews.com/amp/newyork/news/bronx-suspected-burglar-moves-cameras
+- A suspected illegal grow operation with 30 cannabis plants was found in a Marion Avenue apartment during an eviction. (14 days ago) — https://abc7ny.com/post/bronx-marijuana-grow-house-uncovered-during-eviction-fordham/19957660/
+- On June 21, 2026, at 382 East Fordham Road (46th Precinct), a police investigation of a stolen car parked on East Fordham Road led to a sergeant being hit by the car and the driver being shot. — https://www.norwoodnews.org/nypd-releases-bodycam-footage-of-fordham-road-pursuit-crash-police-involved-shooting/
+- CBS reported that facial recognition helped police identify a person of interest after a boy was shot in Fordham Heights. — https://www.cbsnews.com/newyork/tag/fordham-heights/
+
+**Fordham Road businesses**
+- When the Fordham Road BID surveyed vendors, merchants and stakeholders in 2021, public safety was the top priority. The BID then deployed five patrol ambassadors, all licensed New York State security guards, during peak shopping hours. Businesses told the Bronx Times that theft and high rents are hard on the corridor's smaller shops. — https://www.bxtimes.com/fordham-road-bids-new-security-program-hopes-to-drive-down-crime-in-the-bronxs-busiest-shopping-district/
+- Big-brand stores on Fordham Road include Best Buy, Target and TJ Maxx. — same URL
+- The 2022 needs assessment of the Fordham Road corridor flagged safety concerns on the corridor and noted recent investments in extra street lighting. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-fordham.pdf
+- The Bronx DA's camera registry (CAMS): owners who sign up have their camera locations added to an interactive map, and prosecutors search it by address for nearby footage. About 4,000 cameras were enrolled within six months. This is a 2019 article; I couldn't confirm the program is still running. — https://www.welcome2thebronx.com/2019/04/bronx-prosecutors-want-to-keep-an-eye-on-you/
+
+**Laws and rules**
+- **NYS installer license:** A license from the New York State Department of State is required to install or maintain security or fire alarm systems. — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+  - A trade association says covered systems include cameras, CCTV and access control, and unlicensed installers can be fined up to $10,000. — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+  - One installer's blog says wired camera installation in NYC requires licensed electricians. That conflicts with the Department of State sources, so treat it as unverified. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- **NYC biometric law (matters for Fordham Road retail):** Covered businesses must post a sign at least 8.5 by 11 inches at every customer entrance if they collect biometric data. — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-20714
+  - Ordinary CCTV is exempt if the footage isn't run through software that identifies people by biological characteristics and isn't sold or shared with third parties other than police. — https://ifightforyourrights.com/employment-labor-attorney/biometric-privacy/
+  - A proposed amendment would bar owners of "smart access buildings" from collecting occupants' biometric data. I don't know if it passed. — https://www.clm.com/new-york-city-seeking-to-expand-its-biometric-data-collection-law/
+- **Renters:** a landlord's permission is needed to install anything in common areas, including the hallway outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- **Self-closing doors (HPD / Twin Parks fire):** The 2022 fire at Twin Parks North West killed 17 people, including eight children. Smoke spread because two self-closing doors failed. — https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire
+  - Norwood News places 333 E 181st St in Fordham Heights; another source calls it Tremont. — https://www.norwoodnews.org/a-look-back-on-legislative-actions-taken-on-the-2nd-anniversary-of-the-twin-parks-fire/
+  - Under Local Law 111, a broken self-closing door is a class C "immediately hazardous" violation. The doors must close and latch on their own. — https://council.nyc.gov/press/2022/05/19/2186/
+  - Shortly after the fire, THE CITY counted more than 18,000 open self-closing door violations in 10,000 buildings citywide. — https://www.thecityreporter.nyc/2022/06/23/faulty-self-closing-doors-twin-parks-fire-cited-inspectors/
+  - My inference, not a sourced fact: camera, buzzer or access-control hardware on corridor or stair doors must not stop them from closing and latching.
+- **LPC:** The city's Grand Concourse Historic District, designated in 2011, runs from 153rd to 167th Street, which is south of Fordham. So Fordham's Concourse buildings are probably outside it. I didn't confirm this lot by lot. — https://www.welcome2thebronx.com/2020/05/the-grand-concourse-a-look-at-the-bronxs-most-famous-street/
+  - Poe Cottage is a separate landmark: a city landmark since 1966 and on the National Register since 1980. — https://www.lehman.edu/public-art-bronx/Edgar-Allan-Poe-Cottage-Poe-Park/
+- **Address-level HPD violations, 311 camera or intercom complaints, and DOB low-voltage permits for Fordham:** EMPTY.
+
+**Wiring in Fordham buildings (as installers describe it)**
+- One installer describes running cable through pre-war masonry, basements and risers, with vandal-resistant or weather-rated cameras and concealed wiring. That company lists its address as 460 E Fordham Rd. — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Another notes that Bronx multi-family complexes, attached row houses and commercial corridors each bring their own installation challenges. — https://senecasecurity.com/security-cameras-bronx/
+- Computer Settings, at 2246 Grand Concourse, says most residential installs take one day. — https://compusettings.com/security-camera-installation-service-bronx-ny/
+
+### Neighborhood background
+
+**History**
+- Fordham began in the 1600s as farms near a shallow crossing ("ford") over the Bronx River. — https://streeteasy.com/blog/what-to-know-about-fordham-bronx/
+- The name dates to a 1671 manor grant from Governor Lovelace to John Archer. — https://urbanareas.net/info/resources/neighborhoods-bronx/fordham-bronx-history/
+- The railroad arrived in the 1840s. Subway extensions in the early 1900s ended its farm-town days. — https://streeteasy.com/blog/what-to-know-about-fordham-bronx/
+- Between 1900 and 1930, Fordham Heights went from farmland to one of the Bronx's densest neighborhoods. — https://cityneighborhoods.nyc/fordham-heights
+- Parts of Fordham Manor suffered abandonment and arson in the 1970s. — https://cityneighborhoods.nyc/fordham-manor
+- Local groups, especially Fordham Bedford Housing Corporation and UNHP, rehabilitated abandoned buildings. — https://cityneighborhoods.nyc/fordham-heights
+
+**Boundaries and streets**
+- Fordham runs from Burnside Avenue north to East 196th Street, and from Jerome Avenue east to Webster Avenue. — https://streeteasy.com/blog/what-to-know-about-fordham-bronx/
+- The five main commercial corridors in Fordham Manor are Fordham Road, Jerome Avenue, Grand Concourse, Webster Avenue and 188th Street. — https://www.fordham.edu/about/leadership-and-administration/administrative-offices/external-affairs/center-for-community-engaged-learning/engaged-faculty/courses/cel-project-profiles/fordham-road-needs-assessment/
+- The BID covers Fordham Road from Third Avenue to Jerome Avenue plus some side streets: about 80 buildings and almost 300 businesses. — https://www.guidestar.org/profile/26-0117797
+- The BID was founded in 2005. Office: 2488 Grand Concourse. — https://business.bronxchamber.org/list/member/fordham-road-bid-3356
+- Fordham Road was called the third-largest shopping area in the city. — https://a860-gpp.nyc.gov/downloads/vd66w078h?locale=en
+- It is the borough's longest shopping strip. — https://www.nyc.gov/site/bronxcb5/about/our-neighborhoods.page
+
+**Building stock**
+- Much of the dense housing dates to the 1920s. — https://cityneighborhoods.nyc/fordham-heights
+- There are many co-ops from the 1940s–60s, some in gated complexes. — https://streeteasy.com/blog/what-to-know-about-fordham-bronx/
+- Subsidized attached townhouses and new apartment buildings have gone up on vacant lots. — https://urbanareas.net/info/resources/neighborhoods-bronx/fordham-bronx-history/
+- The Grand Concourse, completed in 1909, became the neighborhood's spine, lined with elegant apartment buildings. — https://cityneighborhoods.nyc/fordham-manor
+- Notable buildings in Fordham include the historic Dollar Savings Building and the Wagner Building at Fordham Road, an Art Deco building whose facade was partly replaced with glass. — https://www.welcome2thebronx.com/2020/05/the-grand-concourse-a-look-at-the-bronxs-most-famous-street/
+
+**Parks and landmarks**
+- Poe Cottage, at the north end of Poe Park, was Poe's last home, from 1846 to 1849. — https://www.lehman.edu/public-art-bronx/Edgar-Allan-Poe-Cottage-Poe-Park/
+- Its restoration was finished in 2011; in 2022 the landscape was upgraded and an accessible ramp added. — https://www.nycgovparks.org/parks/poe-park/highlights/19892
+- Fordham University's Rose Hill campus traces to Fordham Manor, built around 1751. — https://familypedia.fandom.com/wiki/Fordham,_Bronx
+- Other anchors: Fordham University, Bronx Community College and St. Barnabas Hospital. — https://cityneighborhoods.nyc/fordham-heights
+
+**Reddit**
+- Fordham- or Bronx-specific threads about security cameras: EMPTY. The search returned no Reddit results.
+
+### Questions people ask — Security Camera Installation in Fordham
+
+**Search-engine and Reddit features**
+- Google People Also Ask: EMPTY (not available to me)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Bing / DuckDuckGo differences: EMPTY
+- Reddit (r/Fordham, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+
+**Questions found on competitor and publisher pages**
+- Do you install security cameras in Bronx commercial buildings? — competitor FAQ (PAX Security) — https://www.paxsecurity.com/security-installation-bronx
+- How quickly can I get a quote for a Bronx security installation? — competitor FAQ — https://www.paxsecurity.com/security-installation-bronx
+- Do you offer free estimates for security camera installation? — competitor FAQ (Computer Settings, Grand Concourse) — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- What types of properties do you install security cameras for? — same
+- How long does security camera installation take? — same
+- How much does CCTV installation cost in NYC in 2026? — publisher FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does it cost to install a 4-camera security system in NYC? — same
+- What is the labor cost for CCTV installation in NYC? — same
+- What is the average labor cost to install security cameras? — publisher FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does a security camera system cost in NYC? — publisher FAQ — https://nyhls.com/blog/security-camera-installation-cost
+- How long does a security camera installation usually take in NYC? — same
+- Do security cameras need a monthly subscription? — publisher FAQ — https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+- Do you need a license to install security cameras in New York? — publisher FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Can I install a security camera in the hallway for safety? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- DIY security camera installation vs. hiring a pro in the Bronx? — competitor page heading — http://www.essentialsecuritysystems.com/Security-Camera-Installation-Bronx-NY.html
+
+**Cost answers to use with those questions**
+- Angi: NYC installation averages $1,509, typically $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- One installer: a wired 4-camera IP setup in NYC often runs about $1,800 to $3,000. — https://nyhls.com/blog/security-camera-installation-cost
+
+**Yelp (praise and complaints)**
+- Praise: a Bronx reviewer said Computer Settings "installed security cameras in my home they did a very good job and the price was excellent". — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Other listings: Jcads, Securitek, Microtron Security and Yakov Security Tech serve the Bronx. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Complaints: EMPTY. Only search-page snippets were available, not individual reviews.
+
+**Hyperlocal outlets**
+- Found: Bronx Times, Norwood News, News 12 Bronx and Welcome2TheBronx (cited above).
+- Patch: only
