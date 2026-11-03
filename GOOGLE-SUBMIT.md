@@ -50,6 +50,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-02 evening (scheduled, 01:53 UTC Nov 3, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2197 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-03T01:53:26Z, 2781 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2084 QUEUED URLs in 5 batches of up to 500: all 200. Inspected axis orange county (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at axis orange county.
 
+2026-11-03 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2202 queued. All 11 inspected as not on Google (Discovered - currently not indexed). "Quota Exceeded" on the 12th (amcrest westchester county), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
@@ -108,17 +110,17 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-long-island | REQUESTED 2026-11-02
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-hudson-valley | REQUESTED 2026-11-02
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-rockland-county | REQUESTED 2026-11-02
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-long-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-long-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-orange-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-dutchess-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/axis-camera-installation-prices-ulster-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-long-island | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-nassau-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-suffolk-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-westchester-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-hudson-valley | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/tp-link-tapo-camera-installation-prices-orange-county | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-brooklyn | REQUESTED 2026-11-03
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-long-island | REQUESTED 2026-11-03
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-westchester-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-hudson-valley | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-putnam-county | QUEUED
