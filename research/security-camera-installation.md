@@ -932,3 +932,421 @@ Questions found on other pages (labelled with the real source):
 - **Couldn't get these:** My search tool can't show Google's People Also Ask or related searches, or Bing, DuckDuckGo or AnswerThePublic results. I also found no Reddit threads, and no HPD, 311, DOB or LPC records. Those are marked EMPTY. To fill them, check Google, Bing and DuckDuckGo by hand and the NYC open-data portals.
 - **Question sources:** None of the questions came from PAA or Reddit. Most are FAQ sections on other sites, mainly vendor pages, so I labeled them that way rather than with your source categories.
 - **Competitor pages:** Abstract Enterprises has a near-identical Co-op City page. Its claims about Riverbay procurement and intercom brands are marketing and still need checking.
+
+## Concourse, Bronx — /security-camera-installation-concourse-bronx-ny (factory research, 2026-11-03)
+
+**A. Facts specific to security camera installation in Concourse (priority angles)**
+
+- **LPC rules for cameras on facades.** Much of the service area is inside a landmark district. LPC's Permit Guidebook (Ch. 11) lists security cameras as safety equipment that may not be required by law but is commonly used, like window security bars, security cameras, lighting, and intercom panels. It refers to LPC Rules, Section 2-20, and says staff can approve security cameras if installation meets the criteria. The guidebook shows dome-type security cameras finished to match. The search snippet was cut off, so the exact criteria (camera count, primary vs. secondary facade) need to be read in the PDF itself. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- In 2018 LPC wrote into its rules the practice of reviewing objects or equipment on facades or areaway features, including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras, mailboxes. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20_Public%20Meeting%20Presentation.pdf
+- Most exterior changes to the front and rear facades of buildings in historic districts require review by LPC. Interior work needs an LPC permit when the work requires a permit from the Buildings Department or, when work on the interior affects the exterior, when the interior has been designated by the Landmarks Commission as an interior landmark. — https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- **Historic district boundaries and dates.** The Grand Concourse Historic District (LP-2403) was Calendared: December 15, 2009 · Public Hearing: June 22, 2010 · Designated: October 25, 2011. — https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Bronx/Grand_Concourse_DESIG_FINALMAP.pdf
+- The district covers properties along the Grand Concourse between 153rd and 167th Streets and portions of Walton and Gerard Avenues. — https://www.citylandnyc.org/grand-concourse-historic-district-considered/
+- At the hearing, Lisa Lieberman, owner of four buildings in the proposed district, supported preserving the area's Art Deco heritage, but opposed designation. This is an early sign of owners' worries about approvals. — https://www.citylandnyc.org/grand-concourse-historic-district-considered/
+- The LPC designation list gives the district's anchor address as 930 Grand Concourse with 80 buildings. It also lists individual and interior landmarks on the street: Bronx General Post Office lobby interior (558 GC, 2013), Andrew Freedman Home (1125 GC, 1992), Bronx County Courthouse (851 GC, 1976) and Bronx Post Office (558 GC, 1975). — https://media.villagepreservation.org/wp-content/uploads/2025/01/31133909/LPC-Designations_as-of-01-31-2025.pdf
+- **Wiring conditions in this building stock.** Apartment houses were mostly six-story high-class semi-fireproof elevator apartment houses, mixed with five-story New Law walk-up apartment houses and a handful of taller fireproof apartment houses. — https://en.wikipedia.org/wiki/Grand_Concourse_(Bronx)
+- Only a few district buildings are tall: 1000 Grand Concourse is also one of only three buildings within the historic district to reach more than eight stories. — https://s-media.nyc.gov/agencies/lpc/lp/2403.pdf
+- **HPD data: entry doors and intercoms.** 750 Grand Concourse has 411 recorded HPD violations, above the Concourse Village average of 102.8. Its complaint log includes a 05/12/2026 "Bell/Buzzer/Intercom" HPD complaint. — https://augrented.com/nyc/2024580026-750-grand-concourse-bronx
+- In 2017 Mayor de Blasio said of 750 Grand Concourse that the city was working with housing advocates and tenants to lodge an action against the landlord to take over operations. — https://a860-gpp.nyc.gov/downloads/5138jh10r?locale=en
+- 1228 Grand Concourse has 150 recorded HPD violations, above the Concourse Village average of 102.8. It logged a "General – Bell/Buzzer/Intercom" complaint on 03/05/2026. — https://augrented.com/nyc/2024570007-1228-grand-concourse
+- Similar entry-door and intercom violations turn up on Grand Concourse addresses just outside the neighborhood. 425 GC (Mott Haven) has a 2026 Class C order to repair the Self-Closing Doors That Is Missing Or Defective Door Frame At Vestibule and a broken Bell/ Buzzer Intercom System At Front Entrance Door. — https://augrented.com/nyc/2023467501-425-grand-concourse
+- **Local incident.** CBS reported a woman shutting her door on a would-be intruder. It happened around 2 a.m. on September 23 near East 168th Street and Sherman Avenue in Concourse. Police said the suspect followed the 50-year-old woman into the building. The year isn't shown in the snippet. This is the tailgating risk that lobby and vestibule cameras address. — https://www.cbsnews.com/newyork/news/bronx-attempted-burglary-terrifying-video
+- **NYPD public cameras.** Borough President Gibson's office budgeted $1.2 million for NYPD surveillance cameras and $500,000 for DSNY illegal dumping cameras this year. One of the intersections on the list to get a camera is 161st Street and Grand Concourse. — https://pix11.com/news/local-news/bronx/more-crime-fighting-cameras-coming-to-the-bronx/
+- The area is patrolled by the NYPD's 44th Precinct. — https://en.wikipedia.org/wiki/Concourse,_Bronx
+- **Possible recent local incident (location not confirmed).** NBC (Aug 25, 2026) reported a Bronx bodega shooting where security video captured the entire 30-second incident. The URL slug says "grand-concourse", but the snippet doesn't confirm the cross street, so check before using. — https://www.nbcnewyork.com/bronx/bodega-shooting-video-grand-concourse/6539946/
+- **NYCHA entrance doors (Bronx-wide; Concourse has NYCHA property patrolled by PSA 7).** A Comptroller audit found just 53 percent (1,887) of all 3,538 entrance doors had cameras placed by the entrance. In the Bronx, 24 percent of the developments' 767 front doors were open. — https://comptroller.nyc.gov/reports/observations-of-building-entrance-doors-in-nycha-developments-located-in-manhattan-brooklyn-queens-the-bronx-and-staten-island
+- **Rules for tenants vs. buildings.** In a co-op, the hallway is a common area under the board's control, so a shareholder cannot unilaterally install hardware there. In a rental, the lease and the landlord's policy govern. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- One installer's blog says NYC law does not require landlords to obtain tenant consent before installing cameras in common areas, the Local Law 50 posting requirement applies. UNVERIFIED: I didn't confirm "Local Law 50" against a city source, so don't publish it until checked. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- **What competitors already say about Concourse (gap check, not fact).** One competitor advises 2.4 GHz Wi-Fi for Bronx pre-war Grand Concourse Art Deco buildings (Highbridge, Concourse, Mott Haven) and Fordham/Belmont/Tremont walk-ups with thick masonry walls. Its claim that wireless is the "only legal" option for NYCHA tenants is unverified. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- The same competitor's field note describes a Grand Concourse job: a co-op board that needed documentation before anything went up, thick original masonry walls nobody wanted to disturb, a lobby and vestibule where packages kept vanishing. — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Another competitor page says Large apartment complexes in Co-op City, Riverdale, and along the Grand Concourse often require camera systems covering multiple entry points — lobbies, stairwells, parking areas, laundry rooms, and building exteriors. — https://senecasecurity.com/security-cameras-bronx/
+- **Local installer on the Concourse.** Computer Settings, Inc. is listed at 2246 Grand Concourse Bronx, NY 10457, which is north of Concourse proper. — https://findasecuritydealer.com/installers/ny/bronx
+- **DOB permits, 311 counts specific to camera work, LPC permit records for cameras at Concourse addresses:** EMPTY
+- **Reddit threads (r/Bronx, r/AskNYC, r/homesecurity) on cameras in Concourse:** EMPTY. No threads came up in search.
+- **Patch / Bronx Times / neighborhood blog coverage of cameras in Concourse specifically:** EMPTY. The only Bronx Times camera coverage found is about Argus cameras in the 45th Precinct (east Bronx), not Concourse. — https://www.bxtimes.com/nypd-argus-cameras-installed-at-45th-precinct-selected-sites/
+
+**B. Neighborhood background**
+
+- **Boundaries.** East 169th Street to the north, Webster Avenue to the east, East 149th Street to the south, and Jerome Avenue and Harlem River to the west. — https://en.wikipedia.org/wiki/Concourse,_Bronx
+- **Subsections and community board.** It is divided into three subsections: West Concourse, East Concourse, and Concourse Village. It is part of Bronx Community Board 4, and its ZIP Codes are 10451 and 10452. The Bronx Museum's address is 10456, so that ZIP also applies. — https://en.wikipedia.org/wiki/Concourse,_Bronx
+- **History.** Opened to traffic on November 25, 1909, the Grand Concourse was at the center of the economic and population boom that transformed the borough in the following half-century. The Grand Concourse was the concept of Alsace-Lorraine immigrant and civil engineer Louis Risse. — https://hdc.org/hdc-across-nyc/bronx/hd-map/bronx-landmarks-grand-concourse/
+- Construction began on the Grand Concourse in 1894. By the mid-1930s, almost three hundred apartment buildings had been built along the Concourse. — https://en.wikipedia.org/wiki/Grand_Concourse_(Bronx)
+- Following WWI, the area received its first great wave of immigration including Jews, Irish, and Italians, then the expansion of the subway system facilitated rapid development of the Concourse area. — https://www.mas.org/events/the-bronxs-grand-concourse/
+- **Building eras.** The majority of the structures in the proposed district were built between 1916 and 1941 in styles ranging from neo-Renaissance to the neighborhood's renowned Art Deco. — https://hdc.org/hdc-across-nyc/bronx/hd-map/bronx-landmarks-grand-concourse/
+- **Architects and key buildings.** Park Plaza Apartments on Jerome Avenue was designed by Marvin Fine of the Horace Ginsbern firm as the borough's first Art Deco apartment building. 1150 Grand Concourse is the "Fish Building," famous for its over-life-size fish mosaics. — https://www.mas.org/events/art-deco-on-the-grand-concourse-in-the-bronx-part-1/
+- 888 Grand Concourse, located the southeast corner of 161st Street, was constructed in 1937 and designed by Emery Roth. Its lobby retains its original Art Deco geometric compass pattern on the floor, which matters for camera mounting in historic lobbies. — https://www.untappedcities.com/emery-roths-forgotten-art-deco-bronx-apartment-building/
+- 930 Grand Concourse, at East 162nd, has the wraparound cantilever windows many Concourse apartment buildings are known for. — https://forgotten-ny.com/2011/10/back-on-course-revisiting-the-grand-concourse/
+- **Co-ops.** 1100 Grand Concourse is a co-operative apartment building located in the Concourse neighborhood. — https://en.wikipedia.org/wiki/1100_Grand_Concourse
+- **Postwar stock.** Postwar additions, including 1960s and 1970s brick elevator buildings near 161st Street and the Bronx County Courthouse, offer larger but less architecturally distinctive co-op and rental stock. — https://reinventny.com/blog/concourse
+- **Other district buildings.** The district includes the Thomas Gardens apartments, the Concourse Plaza Hotel, and the Bronx County Building. — https://www.citylandnyc.org/grand-concourse-historic-district-proposed-2/
+- **New construction.** HDC testified on 700 Gerard Avenue, a new building inside the district, and criticized its proposed accessibility lift. — https://hdc.org/testimony/hdclpc-testimony-for-lpc-hearing-on-april-30-2019/
+- **Commercial corridors.** Other large retail nodes are located on 161st Street and adjacent blocks, at Concourse Plaza. Smaller retail nodes are located on 165th Street and on 167th Street. — https://en.wikipedia.org/wiki/Concourse,_Bronx
+- Bronx Terminal Market is a shopping mall along the Major Deegan Expressway in Concourse. — https://en.wikipedia.org/wiki/Bronx_Terminal_Market
+- **Transit.** The IND Concourse Line (B and D trains) runs under the Grand Concourse. — https://en.wikipedia.org/wiki/Grand_Concourse_(Bronx)
+- **Parks and landmarks.** Joyce Kilmer Park is on the Grand Concourse bet. E. 161st and E. 164 Sts., Bronx, NY, 10452. — https://www.nyctourism.com/places/joyce-kilmer-park-south-bronx/
+- The 161st Street BID lists the Bronx Museum (1040 GC), Bronx Children's Museum, Universal Hip Hop Museum (610 Exterior St), Andrew Freedman Home, Franz Sigel Park, Macombs Dam Park, the courts and Borough Hall (851 GC). — https://www.161bid.org/visit
+- The Concourse has the Bronx Walk of Fame that spans 23 blocks along the corridor. — https://bronxmuseum.org/community/
+- Mill Pond Park was built to compensate for the loss of parkland resulting from the construction of new Yankee Stadium between 2006 and 2009. — https://en.wikipedia.org/wiki/Mill_Pond_Park
+- **Community board.** CB4's district needs statement calls itself the Capital District, made up of Mt. Eden, Highbridge, West Concourse, East Concourse, Morrisania and Concourse Village. — https://www.nyc.gov/html/bxcb4/downloads/pdf/District-Needs-2016main.pdf
+- **Income.** Median household income in Community District 4 was $30,900. This is relevant to pricing and tenant-friendly packages. — https://en.wikipedia.org/wiki/Highbridge,_Bronx
+- **Cost benchmarks (NYC-wide; nothing Concourse-specific found).** One NYC guide says professional CCTV installation labor varies depending on the provider but typically ranges from $90–$150 per hour, or $150–$300 per camera installed. It also says NYC requires licensed electricians for wired security camera installation, which is an installer's claim and unverified. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Another source puts a NYC Apartment Building · 8–24 cameras · $5,000 – $15,000. — https://www.nycittech.com/blog/cctv-installation-cost-nyc-security-cameras/
+- **Yelp (Bronx-wide).** Reviewers praise speed and price, for example "They installed security cameras in my home they did a very good job and the price was excellent..." (Computer Settings). — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- ADT Security Services shows 1.0 stars on 31 reviews in a Bronx Yelp results page. No specific complaint text was retrievable. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Castle+Hill%2C+Bronx%2C+NY
+- **Yelp complaints about installers near Concourse (specific text):** EMPTY
+
+### Questions people ask — Security Camera Installation in Concourse
+
+*Note: I couldn't see live Google PAA/PASF boxes, AnswerThePublic, Bing or DuckDuckGo results from here. Those channels are EMPTY and should be pulled manually. The questions below appear verbatim in search-result pages, mostly installer FAQ sections, which isn't one of the requested channels.*
+
+- Do I need a permit to install security cameras in Bronx? — installer-directory F
+
+## Crotona Park East, Bronx — /security-camera-installation-crotona-park-east-bronx-ny (factory research, 2026-11-03)
+
+**Read this first:** My search tool returns web results only. It can't show Google's People Also Ask boxes, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic. Those fields are marked EMPTY below. The questions I did find come from FAQ sections on web pages, and they're labeled that way. I also found no posts from r/CrotonaParkEast, r/Bronx or r/AskNYC.
+
+### Facts specific to security camera installation here
+
+- **New buildings come with cameras.** The 9-story, 73-unit building at 1718 Crotona Park E. lists bike storage lockers, shared laundry rooms, a recreation room, security cameras, an elevator and an accessible entrance as amenities. It was developed by Yonah Grunhut of Grun Group LLC. — https://www.bxtimes.com/housing-lottery-15-units-crotona-park-e-rent-2040/
+- **1825 Boston Road (Crotona Terrace Building B)** has 107 newly constructed units… Amenities: on-site resident super, security cameras, parking lot*, laundry room*, bicycle storage* — https://a806-housingconnect.nyc.gov/nyclottery/advertisementpdf/323.pdf
+- **1723 Boston Road is under construction.** It's an eight-story mixed-use building with 21,097 square feet of commercial space and a cellar level with 50 enclosed parking spaces. The property is located at the confluence of Boston Road and Southern Boulevard. Completion is expected around the end of the year or in early 2027. That means a new garage, retail and lobby needing cameras. — https://www.newyorkyimby.com/2026/01/1723-boston-road-nears-topping-out-in-crotona-park-east-the-bronx.html
+- **Lots of public housing.** There are eight NYCHA properties located in Crotona Park East. One listed example is Murphy Houses; two 20-story buildings — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+- **Murphy Houses already has NYCHA cameras.** NYCHA used City Council funding for cameras at 11 developments in the Bronx, at the Bailey Avenue, Fort Independence, Marble Hill, Edenwald, Jackson, Middletown Plaza, Mitchel, Moore, Mott Haven, Murphy and Patterson Houses. — https://www.bxtimes.com/security-cameras-coming-to-pelham-parkway-houses/
+- **What NYCHA camera upgrades include:** LED lighting; a fiber-optic framework for supporting smart building technology; and a security operating center for each installation. — https://nychajournal.nyc/nycha-completes-over-24-million-in-safety-and-security-upgrades-at-23-campuses/
+- **Warning story for tenant installs in public housing:** a Bronx public-housing tenant got an eviction notice saying that she had breached her lease by installing the cameras at Parkside Houses — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- **Mixed building stock means different wiring jobs.** The neighborhood is dominated by public housing projects and newly constructed subsidized attached multi-unit townhouses and apartment buildings, although tenement buildings, older multi-unit homes, and vacant lots are also present. — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+- **Charlotte Gardens is a detached-house pocket with driveways.** The houses are nearly uniform in their make, all ranch and split-ranch style, and each has a garden, painted fence, fruit tree, maybe a boat trailer, maybe a driveway. Those features suit driveway and yard cameras. — https://magazine.catapult.co/places/stories/a-visit-to-charlotte-street
+- **Older frame houses with siding:** Forgotten NY describes houses on Minford Place near Charlotte Street. These buildings probably predate the arson wars, though they have had heavy aluminum siding applied since. — https://forgotten-ny.com/2016/10/crotona-park-high-bridge-bronx/
+- **Burglary spike (May 2024 report):** the 42nd Precinct jumped from 12 burglaries during this same 28-day period last year to 25 this year, representing a 108.3% spike. — https://www.bxtimes.com/police-beat-may-1/
+- **Grand larceny (2025 report):** the 42nd Precinct recorded the steepest spike in this category, with cases rising from 34 to 57. — https://www.bxtimes.com/felony-assaults-grand-larcenies-increase-june-2025/
+- **Car thefts (2023 report):** grand larceny auto in the 42nd Precinct was up 60% for the 28-day period ending Nov. 5, compared to last year. — https://www.bxtimes.com/police-beat-i-crime-is-up-in-the-bronx-with-stolen-vehicles-and-felony-assaults-on-the-rise/
+- **April 2026 car/tire theft case:** seven of the thefts were in the 42nd Precinct, and many of the crimes were captured on surveillance video showing a three-person crew exiting a stolen car, fully masked — https://www.norwoodnews.org/update-bronx-da-police-commissioner-16-charged-with-252-thefts-of-cars-tires-rims-catalytic-converters/
+- **Third-party crime grade (aggregator, not official):** The most prevalent crime type in Crotona Park East is Vehicle Theft — https://www.doorprofit.com/crime-statistics/city/Bronx-NY/neighborhood/crotona_park_east/
+- **Lighting is a known problem on Southern Boulevard.** The city's needs assessment flags stretches of the corridor that are very dark at night. That matters for choosing night-vision cameras. — https://a860-gpp.nyc.gov/downloads/zp38wg24q?locale=en
+- **Residents' safety concerns:** in WHEDco's 2019 survey, more than half (54.5%) of respondents do not feel their neighborhood is safe — https://whedco.org/wp-content/uploads/2019/05/WHEDco_MAY-2019_Crotona-East_Community-Needs-Survey-Findings_Digital.pdf
+- **Installer license rule:** You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- **CCTV is covered by that license.** Under 19 NYCRR §195.2, a license is needed for a closed circuit television system (CCTV) if such system is used, either full-time or part- time, for the detection or monitoring of intrusion, break-in, theft — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- **Unlicensed work can be fined.** A trade association says unlicensed installers may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- **Hallway cameras need landlord permission:** you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- **Competitor claim, not verified:** one installer says that under NYS Real Property Law (2023/2024) a tenant has the right to install a non-permanent camera that doesn't damage the unit. I couldn't confirm this in the statute. — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- **A competitor already has a page targeting this neighborhood:** https://www.abstractenterprisessecuritysystems.com/security-camera-installation-crotona-park-east-bronx-ny
+- **HPD violations / 311 complaints / DOB permits about cameras or intercoms in this neighborhood:** EMPTY (no dataset results).
+- **LPC landmark or historic district rules in Crotona Park East:** EMPTY (no designation found; this doesn't prove there is none).
+- **Reddit threads about cameras in this neighborhood:** EMPTY.
+
+### History, streets, buildings, landmarks
+
+- **Early growth:** in the early 1900s the area had tenements that were generally better constructed and less narrow than those of Morrisania-Claremont and the LES because of new tenement legislation. Population increased from 19,000 in 1905 to 153,000 people in 1920. — https://wp.nyu.edu/urbanpracticesen295/2017/07/18/the-history-of-the-south-bronx-19th-20th-century/
+- **1900–1930 building stock:** five- and six-story walk-ups, brick rowhouses and corner shops — https://cityneighborhoods.nyc/crotona
+- **Boundaries:** the Cross-Bronx Expressway to the north, the Bronx River to the east, East 167th Street to the south, and Crotona/Prospect Avenues to the west. ZIP codes include 10459 and 10460. — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+- **Decline:** Carter's 1977 visit to Charlotte Street, where he called it "the worst slum in America." — https://theneighborhoods.substack.com/p/crotona-park-east-the-bronx
+- **Charlotte Gardens:** two model homes were "trucked over the George Washington Bridge one night in 1983." A few years later, there were 92 homes on the site — https://gothamist.com/arts-entertainment/fiery-wasteland-city-suburbia-transformation-charlotte-street-south-bronx
+  - The sources disagree on dates (1983, 1984, "late 1980s"; Catapult says all were sold by 1994). Wikipedia calls them the only ranch style homes in the South Bronx today; these homes are now worth over $500,000. — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+- **2011 rezoning:** When the West Farms Redevelopment Plan came to fruition in 2011, it was the largest private rezoning ever in the Bronx. It led to Compass Residences, with a total of 1,400 families in eight buildings — https://www.6sqft.com/114-affordable-units-at-the-bronxs-new-compass-residences-complex-up-for-grabs-from-822month/ ; https://www.bxtimes.com/last-piece-of-compass-affordable-housing-development-begins-in-west-farms/
+- **Main commercial corridor:** Southern Boulevard is the primary thoroughfare through the area. — https://en.wikipedia.org/wiki/Crotona_Park_East,_Bronx
+  - More than 45,000 people live within a half-mile of the Southern Boulevard commercial corridor between East 174th Street and Westchester Avenue at Simpson Street. WHEDco helped launch the Southern Boulevard Merchant Association (SBMA) — https://whedco.org/community-development/southernblvd/
+- **Transit:** the 174th Street station is an elevated local station on the IRT White Plains Road Line, located at the intersection of 174th Street, Southern Boulevard, and Boston Road — https://www.mapquest.com/us/new-york/mta-174th-street-subway-station-430308290
+- **Parks:** Crotona Park was acquired in 1888 as a result of the New Parks Act on former Bathgate land — https://en.wikipedia.org/wiki/Crotona_Park
+  - Starlight Park was a former amusement park; in 1929, the 15,000-seat Bronx Coliseum opened at Starlight Park — https://en.wikipedia.org/wiki/Starlight_Park
+- **Community district:** Community Board 3, with an Office on Boston Road, covered by the 42nd Precinct — https://en.wikipedia.org/wiki/Bronx_Community_Board_3
+
+### Questions people ask — Security Camera Installation in Crotona Park East
+
+- Google People Also Ask: EMPTY (couldn't retrieve)
+- Google People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing-only questions: EMPTY
+- DuckDuckGo-only questions: EMPTY
+- How much does security camera installation cost in the Bronx, NY? — Web FAQ (competitor page) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-crotona-park-east-bronx-ny
+- How many cameras does a Bronx home need? — Web FAQ — same URL
+- Can security cameras help with liability protection for Crotona Park East businesses? — Web FAQ — same URL
+- Can a Bronx renter install a camera without landlord permission? — Web FAQ — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- How do I prevent package theft at my Bronx property? — Web FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Are security cameras worth it for Bronx property owners? — Web FAQ — same URL
+- Do you install security cameras in Bronx? / What property types do you service in Bronx? — Web FAQ — https://nycsecuritysystemspro.com/security-camera-installation-bronx/
+- Do I need a license to install security cameras in NYC? / Do you need an electrician to install security cameras? / What is the average labor cost to install security cameras? — Web FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does it cost to install a 4-camera security system in NYC? — Web FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Can I install a security camera in the hallway for safety? — Q&A article — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Am I legally allowed to install a camera outside my front door that faces into the public hallway? — JustAnswer (Q&A forum) — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Is it illegal for my landlord to place a camera outside my door in NYC? — JustAnswer — https://www.justanswer.com/landlord-tenant/71v91-nyc-landlord-put-camera-outside-door.html
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Q&A — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Can I install a doorbell camera on my NYC apartment door? — Web FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Are security cameras required in NYC apartment buildings? / Where can cameras legally be installed in NYC apartment buildings? — Web FAQ — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Reddit questions (r/CrotonaParkEast, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Yelp praise for Bronx-area installers: one review says "They installed security cameras in my home they did a very good job and the price was excellent..." (Computer Settings). Another says "Christopher installed cameras across my house and he was thoughtful in his approach. — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY ; https://www.yelp.com/search?find_desc=Surveillance+Camera+Installation&find_loc=Bronx%2C+NY
+- Yelp complaints: EMPTY (no negative review text found in the snippets)
+- Hyperlocal outlets (Patch, BKReader, neighborhood blogs) covering camera installs here: EMPTY. Bronx Times crime and housing items are listed above.
+
+## Dumbo, Brooklyn — /security-camera-installation-dumbo-brooklyn-ny (factory research, 2026-11-03)
+
+**Note on method:** I couldn't capture live Google People Also Ask boxes, related searches, Bing or DuckDuckGo panels, or AnswerThePublic output. Those fields are marked EMPTY. Questions in the second section come from pages I could actually see (competitor FAQs, Yelp, LPC), and each one is labeled with where it came from. I also ran out of searches before checking HPD, 311 or DOB data.
+
+**Facts specific to camera installation in Dumbo**
+
+- **Landmark rules.** The LPC designated Dumbo a historic district in 2007. Any camera on a street-facing wall is subject to LPC rules. — https://bklyner.com/dumbo-historic-marker-unveiling/
+- **LPC treats cameras as minor safety equipment.** It says some equipment "may not be required by law but is commonly used, like window security bars, security cameras, lighting, and intercom panels." Details are in LPC Rules, Section 2-20. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- **LPC camera limits.** The guidebook text I could read is broken up, but it says no more than two security cameras "can be installed for every 25 feet of street frontage". It also has a separate allowance for large residential, commercial, and institutional buildings, and some installs need manufacturer cut sheets for light fixtures, intercoms, security cameras, and mailboxes. Read the full PDF before quoting exact numbers on the page. — same URL
+- **Staff-level permits.** About 95% of LPC's permit approvals are issued at staff level, without any public hearing. Staff applications that clearly meet the rules are often approved in about 10 business days. (Third-party source.) — https://precisionwindowsnj.com/blog/lpc-window-replacement-nyc-landmark-districts
+- **LPC enforcement history in Dumbo.** A 2012 LPC hearing listed 29 Jay Street – DUMBO Historic District, involving a metal roll-down security gate, and an awning. — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/10_23_12.pdf
+- **More LPC enforcement.** A 2016 agenda listed 20 Jay, 55 Washington, 45 Main and 25 Jay Streets with an application to modify entry infill installed without Landmarks Preservation Commission permit(s). — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/10_25_16.pdf
+- **Wiring challenge: concrete.** Gair called himself the "Father of Concrete Construction" and said building in concrete was his idea, to protect his equipment and goods. Expect to drill through poured concrete for cable runs. — https://www.brownstoner.com/history/robert-gair-dumbo-brooklyn-inventor-gairville-boxes-packaging/
+- **Mixed building stock.** Two Trees converted Gair's poured-concrete factories into offices and apartments, while Alloy Development has reinvigorated the brick factories of Charles Arbuckle. — https://dumbo.nyc/historictimeline/
+- **Older brick mill buildings.** The LPC report describes 46-48 Bridge Street's American Round Arch style and its slow-burning mill construction. — https://www.nyc.gov/html/records/pdf/govpub/3424dumbo_designation_report_final.pdf
+- **Tailgating into a mailroom.** A thief got into a Washington Street apartment building by following a resident through the front door, went to the basement, broke the mailroom lock, took packages and fled toward Water Street. — https://www.brooklynpaper.com/84th-pct-office-thief-snatches-laptops/
+- **Office theft with no break-in.** Two MacBook Pros worth $4,472 vanished from a locked Bridge Street office overnight with no sign of a break-in. — same URL
+- **Storefront burglary.** Someone shattered a large glass door at the Aveda Arts and Sciences Institute on Pearl Street and stole two cash registers. (Aug 2025) — https://www.brooklynpaper.com/84th-pct-beauty-school-burglary/
+- **Retail theft.** Two people walked into Alo, a yoga and fitness shop on Front Street, around 3:30 p.m. on July 9. The next day, three men came back and took items worth more than $6,000. — https://www.brooklynpaper.com/84th-pct-dumbo-store-robbed-twice-two-days/
+- **Pizzeria burglary.** Someone used a rock to break the front doors at Ignazio's Pizza on Water Street. Police reviewed the restaurant's security cameras. — https://www.brooklynpaper.com/84th-pct-pizzeria-rocked-by-burglary/
+- **Car theft from a lot.** A car was stolen from a Jay Street parking lot on the night of Aug. 13. — https://www.brooklynpaper.com/84th-pct-beauty-school-burglary/
+- **Older break-in pattern.** An old report says police logged more than a half-dozen break-ins at a restored warehouse housing artists, start-ups, importers and small businesses. — https://www.brooklynpaper.com/csi-dumbo/
+- **84th Precinct numbers.** CompStat for the week of 9/21–9/27/2026 shows year-to-date burglaries at 116 in 2026 versus 173 in 2025, down 32.9%. — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-084pct.pdf
+- **Citywide package theft.** The mayor's office estimated that 90,000 packages are stolen or lost in transit daily across the city. — https://brooklyn.news12.com/porch-pirates-drive-brooklyn-residents-to-shipping-stores-for-package-security
+- **License required.** Under NY GBL §69-m, no one may be in the business of installing, servicing or maintaining security or fire alarm systems unless licensed under that article. — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- **Workplace camera notice.** One source says NY Labor Law Section 203-C requires employers to post notice of video monitoring and get written acknowledgment. This matters for Dumbo's offices. — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- **Competitor angles.** A competing Dumbo page lists package theft from luxury condo lobbies and loft buildings, tourist-area theft near Washington Street and Brooklyn Bridge Park, and car break-ins in parking areas under the bridges. — https://abstractenterprisessecuritysystems.com/security-camera-installation-dumbo-brooklyn-ny
+- HPD violations / 311 complaints / DOB permits for Dumbo cameras or intercoms — EMPTY
+- Reddit threads specific to Dumbo cameras — EMPTY
+
+**History and development**
+
+- For most of the city's history Dumbo was considered part of Vinegar Hill, with a ferry landing, warehouses and factories. — https://streeteasy.com/blog/what-to-know-about-dumbo-brooklyn/
+- Robert Gair moved his business from Tribeca to Dumbo in 1888. He had invented the folded cardboard box in 1879. His buildings eventually covered 37 acres, and the area was called Gairville. — https://dumbo.nyc/historictimeline/
+- In 1927, Gair's son George moved production to Piermont, New York. — same URL
+- In 1981, developer David Walentas visited Dumbo. He bought eight buildings totaling two million square feet for $12 million and pushed for rezoning. It took 17 years, after which residential development took off. — https://cooperatornews.com/article/dumbo
+- By the 1970s artists were using the old factories as studios, and they coined the name "DUMBO." — https://streeteasy.com/blog/what-to-know-about-dumbo-brooklyn/
+- The Gair building is now home to Etsy. Dumbo earned the nickname "the center of the Brooklyn Tech Triangle." — https://en.wikipedia.org/wiki/Dumbo,_Brooklyn
+
+**Streets, buildings and landmarks**
+
+- The Wikipedia boundary for the district is roughly Main and Washington Streets, the East River, John Street, Bridge and Jay Streets, and Front and York Streets. — https://en.wikipedia.org/wiki/Dumbo,_Brooklyn
+- Crowds gather at Washington and Water Streets to photograph the framed skyline. The Manhattan Bridge opened to traffic in 1909. — https://www.tripadvisor.com/Attraction_Review-g60827-d23719940-Reviews-Dumbo_Manhattan_Bridge_View-Brooklyn_New_York.html
+- Archway Plaza address: Water Street between Pearl Street and Anchorage Place. — https://mindtrip.ai/attraction/new-york-city/dumbo-archway-plaza/at-dVM0WXUP
+- 16 Main Street was built in 1906 as a stable for the Gair Company. 45 Water Street (St. Ann's Warehouse) was later cut down to two stories and has been saved from demolition twice. — https://dumbo.nyc/buildings/
+- The Empire Stores were built between 1870 and 1885. The pier warehouses weren't torn down until park construction began in 2008. — https://en.wikipedia.org/wiki/Brooklyn_Bridge_Park
+- **Jane's Carousel.** It was bought at auction for $385,000 by David and Jane Walentas. — https://welcome-to-times-square.com/secrets-of-dumbo-brooklyn/
+- **Olympia Dumbo.** Developed by Fortis Property Group, it has 76 luxury condos and 38,000 square feet of amenities. — https://www.multifamilydive.com/news/undulating-condo-tower-in-brooklyns-dumbo-neighborhood-design-construction/647371/
+- Olympia is the tallest residential building in the neighborhood, at 33 stories. — https://www.lxcollection.com/property/olympia-dumbo/
+- **One John Street.** 42 condos on the waterfront inside Brooklyn Bridge Park, with a Brooklyn Children's Museum annex on the ground floor. — https://streeteasy.com/building/1-john-street-brooklyn
+- **Front & York.** A full-block residential building at 85 Jay Street. — https://en.wikipedia.org/wiki/Front_%26_York
+- No rowhouse or detached-house stock found in my sources. Dumbo is almost all converted lofts plus new high-rises — inference from the sources above.
+
+**Prices, licensing and reviews**
+
+- Labor costs: $80 to $200 per camera on average. — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Full systems: $800–$1,500 for a basic 2–4 camera system in a small apartment, up to $1,500–$3,000 for larger homes with 8–10 cameras. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Commercial NYC average: $900 to $1,600 per camera point. — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+- Yelp praise: one review says "Professional, high quality and super neat work, no wires showing or hanging". — https://www.yelp.com/search?find_desc=CCTV+System+Installation&find_loc=Brooklyn%2C+NY
+- Yelp complaints about camera installers near Dumbo — EMPTY
+- Patch / BKReader coverage of Dumbo cameras — EMPTY. Closest is Patch's Brooklyn Heights burglary story: "someone climbed through an unlocked window, perhaps via climbing a fire escape." — https://patch.com/new-york/heights-dumbo/brooklyn-heights-burglaries-spike-part-precinct-level-pattern-cops
+
+### Questions people ask — Security Camera Installation in Dumbo
+
+- Google People Also Ask — EMPTY (not captured)
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- Reddit (r/brooklyn, r/AskNYC, r/homesecurity) — EMPTY (searches returned no relevant threads)
+- How much does security camera installation cost in Brooklyn NY? — competitor FAQ — https://electrifiedny.com/residential/security-camera-installation/
+- How much does CCTV installation cost in Brooklyn? — competitor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- What is the average labor cost to install security cameras? — competitor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does apartment building camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Are there monthly fees for a business camera system? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-brooklyn
+- How do I prevent theft at my DUMBO property? — competitor FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installation-dumbo-brooklyn-ny
+- Can I watch my DUMBO cameras from my phone? — competitor FAQ — same URL
+- What should I look for when hiring a security camera installer in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- What is the average cost to install a commercial security camera in NYC? — competitor FAQ — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+- Do you need a license to install security cameras in New York? — legal/vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Can anyone recommend a professional for Ring security installation? — Yelp (Ask Brooklyn locals) — https://www.yelp.com/search?find_desc=Intercom+Repair&find_loc=DUMBO%2C+Brooklyn%2C+NY+11201
+- Can anyone recommend a reliable company for commercial security system installation? — Yelp (Ask Brooklyn locals) — same URL
+- Can landlords spy on you with security cameras? — news/consumer article — https://www.aol.com/articles/landlords-spy-security-cameras-110000140.html
+- Who can monitor security cameras placed in common areas? — legal FAQ — https://www.rocketlawyer.com/real-estate/landlords/property-management/legal-guide/is-it-legal-for-landlords-to-use-smart-tech-in-rentals
+
+## East Tremont, Bronx — /security-camera-installation-east-tremont-bronx-ny (factory research, 2026-11-03)
+
+**Security camera installation facts for this neighborhood (most important)**
+
+- Building stock is mostly regulated rentals, so the main buyer is the landlord or managing agent, not the tenant. Residences in East Tremont are largely found in rental buildings, and most housing is subsidized or income-restricted. — https://www.homes.com/local-guide/bronx-ny/east-tremont-neighborhood/
+- Rent-stabilized building count: 450 Apartment Buildings With Rent Stabilized Units in East Tremont, The Bronx. Addresses listed include Adams Pl, Crotona Ave, Crotona Pkwy, Vyse Ave, Garden St and Southern Blvd. — https://www.openigloo.com/buildings/east-tremont/rent_stabilized_buildings
+- Violations data: the same site tracks Reviews of 1004 apartment buildings in East Tremont, The Bronx. Example: 2220 Adams Pl had 46 open violations. — https://www.openigloo.com/buildings/east-tremont/violations?page=3
+- Example building record (HPD / 311 / NYPD): 868 East Tremont Avenue, Bronx 10460: 13 open HPD violations, 3 311 complaints, rent-stabilized. The same page reports 258 NYPD incidents occurred within a block in the past 12 months, including 85 felonies, 37 violent crimes, and 2 shootings in 2024. It also lists Heat and hot water complaints account for 128 of 817 area 311 calls in the past year. — https://weverit.com/building/ny/new-york/868-east-tremont-avenue-bronx-10460
+- Entry doors and fire safety (Twin Parks, a scatter-site development that partly sits in East Tremont): Twin Parks North West is part of the western segment of a "scatter-site" development project spanning the Fordham, Tremont and East Tremont neighborhoods. In the 2022 fire, Smoke spread through the building as a result of two malfunctioning self-closing doors. — https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire
+- Self-closing door law after the fire: owners must correct self-closing door violations within 14 days or face daily fines of $250 until the doors are fixed. HPD must then revisit the building within 20 days to reinspect the doors. Why it matters for this page: installers can't mount anything that interferes with door closers, and cameras on stairwell and entry doors can show whether doors are being propped open. The second part is our own inference. — https://gothamist.com/news/nyc-steps-up-self-closing-door-violations-after-twin-parks-fire-but-30k-remain-unresolved
+- Intercom complaints came up in the Twin Parks lawsuit. Two survivors of the fire filed a lawsuit recently, alleging that the building was unsafe with inadequate heat, fire escapes, sprinklers, smoke alarms, intercom, and electrical lines. — https://peoplesdispatch.org/2022/01/12/how-many-more-people-gotta-die-ask-bronx-residents/
+- A competitor already has an East Tremont page that targets walk-ups and masonry. It says For brick apartment buildings, we use masonry-specific anchors that won't damage the facade. Its FAQ also covers night recording in hallways, parking lots and alleys. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny
+- Wiring in pre-war walk-ups (a competitor's field note): Pre-war walk-up on the Grand Concourse near East Tremont, eight-camera lobby and stairwell system, four cameras dark. The fix: Re-pulled fresh Cat6 alongside the original run (didn't disturb the historic conduit) — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Wiring cost through risers (competitor claim): cost lives in cabling from a lobby NVR up through risers to every floor, fire-stopping rated penetrations, and labor through pre-war Art Deco masonry — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- DOB permits and licensing: an electrical permit is not required to install, alter, maintain or repair wiring designed to operate below 50 volts for signaling, communication, alarm and data transmission circuits, provided the work is performed by a licensed master electrician, a special electrician, or a qualified person. Separately, New York's General Business Law Article 6-D requires a Department of State license to engage in the business of installing, servicing or maintaining security or fire alarm systems. The low-voltage rule is AC 28-105.4.7 Low voltage electrical work (effective December 21, 2025) — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- DOB exception: structured cabling particularly when it involves penetrating fire-rated walls or ceilings — may require a permit and filing by an electrician of record or registered design professional. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- LPC rules: if your townhouse is in an historic district or is an individual landmark, any exterior camera mounting — including bracket attachment to the facade — may require Landmarks Preservation Commission (LPC) approval. I found no LPC historic district inside East Tremont. The nearest one is the Morris Avenue Historic District, which lines Morris Avenue between East Tremont and East 179th Street. That is in Tremont, west of this neighborhood. — https://senecasecurity.com/services/security-cameras/townhouses/ ; https://en.wikipedia.org/wiki/Tremont,_Bronx
+- Tenant vs. landlord rules: Legally speaking, you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. Even with permission, a camera must be placed so that would not allow it to film the inside of any of the apartments — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Where building cameras are allowed: Hallway cameras are permitted when positioned to cover corridor traffic without seeing into apartments as doors open. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Facial recognition context: In New York, buildings including Knickerbocker Village in Manhattan and the Morris Avenue Apartments in the Bronx have implemented facial recognition systems. — https://www.pressreader.com/usa/the-guardian-usa/20190531/281960314236325
+- Tremont Avenue busway (new in 2026, runs right through East Tremont's commercial strip): The Tremont Avenue Busway will be a half mile long: eastbound from Third Avenue to Southern Boulevard, and westbound from Southern Boulevard to Belmont Avenue. — https://nyc.gov/TremontBusway
+- Busway enforcement and timing: Stationary cameras, bus-mounted cameras and the NYPD will enforce the rules. Restrictions started Sept. 19, 2026. Businesses along Tremont have raised concerns about losing a lane of car traffic — https://ny1.com/nyc/all-boroughs/traffic_and_transit/2026/08/12/city-breaks-ground-on-long-delayed-tremont-avenue-busway ; https://brooklyn.news12.com/2026/07/15/tremont-avenue-bus-redesign-launches-as-city-ramps-up-outreach-on-brooklyn-bus-plans/5t0WmPd21l0fCnGKnmCqxQ
+- Crime context (48th Precinct): 48th Precinct (East Tremont, West Farms, Belmont) While reported major crimes are slightly down over the previous year, the crime rate in the 48th precinct has steadily increased during the last several years. — https://bestinthebronx.nyc/the-safest-and-least-safe-neighborhoods-in-the-bronx/
+- 2026 crime data: the precinct covering Tremont recorded 1,249 major felonies, down 12.5% from one year earlier. These are preliminary Jan–July 26, 2026 CompStat figures. — https://www.southwestjournal.com/us/new-york/dangerous-neighborhoods-in-new-york-city/
+- ⚠️ Don't use as East Tremont news: the NYPD Argus cameras on "East Tremont Avenue" are in Throggs Neck, not this neighborhood. They will be installed and operated on the Throggs Neck commercial corridor between Bruckner Boulevard and Harding Avenue — https://www.bxtimes.com/east-tremont-avenue-nypd-cameras/
+- Nearby lobby-security story (Tremont, not East Tremont): Residents at 1920 Walton Avenue in Tremont say ongoing drug use and large parties inside their apartment building are making them feel unsafe. (April 2026) — https://bronx.news12.com/drug-use-and-partying-is-taking-over-tremont-apartment-lobby
+- New construction nearby: Permits have been filed for a four-story mixed-use building at 459 East Tremont Avenue in Tremont, The Bronx. This is west of Third Ave, so Tremont rather than East Tremont. — https://newyorkyimby.com/2026/03/permits-filed-for-459-east-tremont-avenue-in-tremont-the-bronx.html
+- 311 complaint data specific to cameras or intercoms in East Tremont: EMPTY
+- Reddit threads about cameras in East Tremont: EMPTY
+
+**History and development**
+
+- Name: The name "Tremont" first appeared in the 1840s, derived from the Latin tres montes—meaning "three hills." — https://cityneighborhoods.nyc/east-tremont
+- Early development: The construction of Tremont Avenue in the mid-19th century and the arrival of the New York and Harlem Railroad along Webster Avenue opened the area to development. Between 1900 and 1940, East Tremont experienced rapid transformation. — https://cityneighborhoods.nyc/east-tremont
+- Land origins: Much of East Tremont, Crotona Park and Belmont lie on the farm belonging to the Bathgate family in the mid-1800s. — https://forgotten-ny.com/2007/04/east-tremont-echo-park-bronx/
+- Who moved in: New five- and six-story brick apartment buildings replaced wooden houses, catering to a growing population of Jewish, Italian, and Irish working- and middle-class families moving north from Manhattan's Lower East Side. — https://cityneighborhoods.nyc/east-tremont
+- Population peak: In 1950, East Tremont's population numbered an estimated 60,000, with about 441 persons per residential acre. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Cross-Bronx Expressway: The Power Broker, author Robert Caro devotes two chapters to the "One Mile" of the Cross-Bronx Expressway which ran through East Tremont. Recent scholarship has questioned Caro's portrayal of the Cross-Bronx Expressway's impact on East Tremont's development. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- 1970s decline: East Tremont was losing up to 1,000 housing units per year to abandonment and arson fires by the early 1970s. — https://en.wikipedia.org/wiki/Twin_Parks
+- Twin Parks response: In the 70s an imaginative set of "scatter-site" residences, called the "Twin Parks" project, helped to stitch Tremont together again. — https://www.lehman.edu/vpadvance/artgallery/arch/neighborhoods/tremont.html
+
+**Boundaries, main streets and commercial corridors**
+
+- Boundaries per Wikipedia: it is bounded by East 180th Street, Southern Boulevard, the Cross Bronx Expressway and Third Avenue. East Tremont Avenue is the primary thoroughfare through the neighborhood. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Conflicting boundary: CityNeighborhoods puts the western edge at Webster Avenue instead of Third Avenue: Bounded by the Cross Bronx Expressway to the south, Webster Avenue to the west, East 180th Street to the north, and Southern Boulevard to the east — https://cityneighborhoods.nyc/east-tremont
+- Other corridors: Along Webster Avenue, automotive shops and warehouses give way to commercial strips, while Southern Boulevard anchors the neighborhood's eastern border with a rhythm of bodegas, churches, and bus routes — https://cityneighborhoods.nyc/east-tremont
+- Historic Tremont Avenue retail: East Tremont Avenue was a bustling retail area with bakeries, kosher butcher shops, mom-and-pop candy stores, delicatessens, and clothing stores. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- The commercial district today: East Tremont seems to retain more of its historic stock than most Bronx neighborhoods and has a really intact commercial district — https://evaluatingurbanplaces.com/2025/03/07/east-tremont-a-south-bronx-neighborhood-negatively-impacted-by-the-cross-bronx-expressway-yet-still-retains-the-vibrant-tremont-commerical-district/
+- Long-running local business: Frank's Sports Shop has been in business for decades in East Tremont. — https://www.homes.com/local-guide/bronx-ny/east-tremont-neighborhood/
+
+**Building stock**
+
+- Street grid and building mix: The area's grid of Tremont Avenue, Crotona Avenue, Arthur Avenue, and Bathgate Avenue supports a patchwork of prewar apartment buildings, rowhouses, and mid-century infill housing — https://cityneighborhoods.nyc/east-tremont
+- Inventory: Multi-family buildings and co-ops, but very low inventory. Also, Multifamily homes with parking and fences are a special commodity in the East Tremont community. — https://www.homes.com/local-guide/bronx-ny/east-tremont-neighborhood/
+- Housing projects: the Twin Parks scatter-site high-rises date from the 1970s, including the 19-story Twin Parks North West: The 19-story residential building Twin Parks North West, Site 4 contains 120 apartments. — https://en.wikipedia.org/wiki/2022_Bronx_apartment_fire
+- Landmark districts: none found inside East Tremont. A former landmark was demolished: Old Bronx Borough Hall in Tremont Park had Designations: New York City Landmark (1965–1966) — https://en.wikipedia.org/wiki/Bronx_Borough_Hall
+
+**Parks and landmarks**
+
+- Crotona Park: While East Tremont contained no playgrounds, residents enjoyed easy access to nearby Crotona Park. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Tremont Park and Borough Hall: Tremont Park was originally an extension of Crotona Park, southeast of the intersection of East Tremont Avenue and Third Avenue. — https://en.wikipedia.org/wiki/Bronx_Borough_Hall
+- Bronx Zoo edge: Part of East Tremont is sometimes called Bronx Park South, particularly the section that lies immediately southwest of the Bronx Zoo. — https://en.wikipedia.org/wiki/East_Tremont,_Bronx
+- Other places: Walter Gladwin Park is a great place for families in East Tremont. Visit the East Tremont Library which opened in 1905. — https://www.homes.com/local-guide/bronx-ny/east-tremont-neighborhood/
+- Nearby landmark (Tremont): On Tuesday, March 5, Tremont Library was designated as an individual historical landmark by the Landmarks Preservation Commission (LPC). It is at Washington Ave and E. 176th St, west of Third Ave. — https://www.bxtimes.com/tremont-library-landmark/
+
+### Questions people ask — Security Camera Installation in East Tremont
+
+- Google People Also Ask (PAA): EMPTY. I couldn't capture live PAA boxes with this tool.
+- Google People Also Search For (PASF): EMPTY from Google itself. A competitor page shows its own "People Also Search For" list (security camera installation near me Bronx, security camera cost Bronx NY, best security camera installer Bronx, CCTV camera Bronx NY, etc.), but I couldn't confirm it against Google. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronxdale-bronx-ny
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit (r/EastTremont, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Yelp complaints: EMPTY. Praise found: "the wires were run neatly", the installer adjusted the quote multiple times, and the team "showed up as he said." — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Mount+Eden,+Bronx,+NY
+- Can security cameras record at night in East Tremont hallways, parking lots, and alleys? — competitor FAQ (not verified as PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny
+- Do wired or wireless cameras work better for East Tremont buildings? — competitor FAQ — same URL
+- Can you install cameras at my Bronx property or building? — competitor FAQ — same URL
+- Can security cameras help with liability protection for East Tremont businesses? — competitor FAQ — same URL
+- How many cameras does a typical Bronx property need? — competit
+
+## Edenwald, Bronx — /security-camera-installation-edenwald-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My search tool doesn't show Google's People Also Ask boxes, related searches, Bing, DuckDuckGo or AnswerThePublic, so those sections say EMPTY. The questions below come from installer FAQs, Q&A sites and Yelp. I also didn't pull any HPD, 311 or DOB records. Two legal claims are only stated by installer blogs and need checking before they go on the page (see "Rules").
+
+**Camera-specific facts for Edenwald (the angles to use first)**
+
+- **The biggest local building is getting its own camera system.** Edenwald Houses (NYCHA) is in the middle of a $783M renovation under NYCHA's PACT program. Planned work includes new entryways; enhanced security and access control; full lobby and common area upgrades — https://www.nychdc.com/newsroom/city-announces-closing-783-million-pact-modernization-project-edenwald-houses
+- The new property manager, C+C Management, is to employ security staff who will be responsible for actively monitoring all cameras and responding to public safety concerns — https://nychajournal.nyc/783-million-pact-modernization-project-at-edenwald-houses-moves-forward/
+- The project's resident FAQ promises enhanced security that will include site-wide cameras and access control. To the question "Will there be cameras?" it answers Yes. — https://edenwaldhousesbx.com/faqs/
+- **Page angle:** private installers mostly won't be hired for the Houses' own common areas. The likely customers are tenants, nearby homeowners and businesses on surrounding blocks. (My inference.)
+- **Camera history at the Houses.** Since August 2012, NYCHA has used City Council money to install 3,879 closed circuit TV cameras in 500 buildings at 84 designated developments. That included 11 developments in the Bronx, at the Bailey Avenue, Fort Independence, Marble Hill, Edenwald… — https://www.bxtimes.com/security-cameras-coming-to-pelham-parkway-houses/
+- After Officer Brian Mulkeen was killed near Edenwald in 2019, mayor Bill de Blasio discussed plans for hiring social workers trained in gang mediation and installing security cameras in the development. — https://en.wikipedia.org/wiki/Edenwald_Houses
+- **Next door at Baychester Houses** (same developer, Camber), the old system was half a dozen cameras, frequently broken, sporadically manned. After its renovation, staff now patrols the grounds 24/7, with hundreds of security cameras replacing the broken ones. — http://www.centernyc.org/urban-matters-2/restoring-public-housing-does-a-bronx-success-story-have-legs
+- **Historic status (the "landmark" angle).** Edenwald Houses is not a city (LPC) landmark, but the complex was listed on the National Register of Historic Places in 2024. — https://en.wikipedia.org/wiki/Edenwald_Houses
+  - Camber calls it one of the few to be on the National Register of Historic Places. — https://camberpg.com/projects/edenwald-houses/
+  - Because of this, renovating it is harder: its dangerous brick façades must be preserved at significant cost, rather than being waterproofed by being "reclad," — http://www.centernyc.org/urban-matters-2/restoring-public-housing-does-a-bronx-success-story-have-legs
+  - Even interior choices went through state preservation review: Flooring options are still under NYCHA and SHPO review — https://edenwaldhousesbx.com/wp-content/uploads/2023/04/Edenwald-Resident-Meeting-7-Presentation.pdf
+  - **Page angle:** anything mounted on the outside of the Houses' brick is presumably managed by the PACT team. (Inference.)
+- **City-funded street cameras.** Officials announced a $1,000,000 funding allocation to install ARGUS security cameras at the NYPD's 47th Precinct. The announcement did not include details about installation timelines, specific camera locations, procurement vendors, or privacy safeguards. — https://citizenportal.ai/articles/7446839/new-york/bronx-countycity/bronx-leaders-announce-1-million-for-argus-cameras-at-47th-precinct-to-bolster-investigations
+- **The precinct is in the neighborhood.** The 47th Precinct is at 4111 Laconia Ave, Bronx, NY 10466 — https://www.50-a.org/command/47pct
+- **Local incidents caught on private video:**
+  - 2013: a shooting on Laconia Avenue in the Edenwald section, just two blocks away from the 47th Police Precinct, recorded on video — https://abc7ny.com/archive/9331242/
+  - July 2024: NYPD released video of three people who recklessly fired several gunshots on the corner of East 223rd Street and Needham Avenue — https://www.norwoodnews.org/edenwald-group-of-three-sought-for-reckless-shooting-incident/
+- **Precinct crime numbers.** In 2022 the 47th Precinct reported 16 murders, 45 rapes, 461 robberies, 732 felony assaults, 300 burglaries, 758 grand larcenies, and 461 grand larcenies auto — https://en.wikipedia.org/wiki/Eastchester,_Bronx
+- **Wiring situations (from home listings):**
+  - The housing mix is pre-war brick rowhouses, modest duplexes, multifamily brick colonials and Colonial Revival cottages — https://www.homes.com/bronx-ny/edenwald-neighborhood/homes-for-rent/
+  - Example listing: a two-family duplex at 3924 Duryea Ave, this solid 1925 residence offers approximately 2,600 square feet of living space across two thoughtfully designed units. — https://www.homes.com/local-guide/bronx-ny/edenwald-neighborhood/
+  - **Page angle:** brick and masonry homes, two-family layouts (two front doors, a shared yard) and backyards. (Inference.)
+- **New small buildings are going up.** Permits were filed for two three-story residential buildings at 1237 East 224th Street, with a total six residences, most likely condos — https://newyorkyimby.com/2026/06/permits-filed-for-1237-east-224th-street-in-edenwald-the-bronx.html
+  - The same page links earlier filings at 3545 Edson Ave (Jan 2026) and 1978 Needham Ave (Jul 2025) — same URL
+- **Commercial customers.** The strip at E 233rd St and Baychester Ave has over 18,000 vehicles passing the property per day. The space for lease there has a secure metal roll-up barricade — https://www.commercialsearch.com/commercial-property/us/ny/bronx/1217-east-233rd-street/
+  - Baychester Shopping Plaza (1201–1215 E 233rd St) includes Fine Fare Supermarket, Popeyes, China King and Stally & Josie's Caribbean Kitchen — https://maps.apple.com/place?place-id=IC0B84C72CEE19F01
+  - Edenwald Pharmacy is at 4137 Laconia Ave — https://www.yelp.com/biz/edenwald-pharmacy-bronx-2
+- **Competitor pages are generic.** One installer's "Edenwald" fire-alarm page lists Grand Concourse co-ops and Art Deco buildings as Edenwald building types. Neither describes Edenwald — https://www.abstractenterprisessecuritysystems.com/fire-alarm-installation-edenwald-bronx-ny
+  - Momo Locksmith's Edenwald camera page uses "Edenwald Heights" — https://momolocallocksmith.com/security-cameras/bronx-ny/edenwald/
+  - **Page angle:** a page with real local detail would stand out.
+- **City data:**
+  - HPD violations: EMPTY
+  - 311 complaints: EMPTY
+  - DOB permits for cameras or low-voltage work: EMPTY (only the YIMBY building filings above)
+  - LPC historic district: EMPTY (none found; the Houses' listing is federal, not LPC)
+- **Edenwald-specific Reddit threads about cameras:** EMPTY
+
+**Rules (New York / NYC)**
+
+- Permits: one installer says low-voltage camera wiring in a single-family house in NYC generally does not require a DOB permit. — https://senecasecurity.com/services/security-cameras/single-family-houses/
+  - Another says permits are only needed if the camera installation requires electrical work. — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Renters and common areas: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Hidden cameras in private spaces: recording in areas where people have a reasonable expectation of privacy (bathrooms, bedrooms, changing areas) is a felony under Penal Law 250.45. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- **Needs checking before publishing:**
+  - Claim that recent Real Property Law changes require landlords to allow tenant cameras. Only source is an installer blog — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+  - Claim that an NYC "Local Law 50" requires camera signs in common areas. Only source is an installer blog — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+
+**Prices from local installers' own websites (not neutral)**
+
+- Bronx installs are said to range between $344.00/EA and $814.00/EA — https://www.handoff.ai/construction-costs/install-a-security-camera-system/bronx-ny
+- One installer quotes a 4-camera system at $1,062 to $2,000 for a home or apartment — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Another: A typical 2–4 camera wired PoE system starts at $1,800. — https://senecasecurity.com/security-cameras-bronx/
+
+**History and development**
+
+- The name: Eden built his own estate in the area, naming the property "Edenwald" ("Eden's Forest" in German). — https://theneighborhoods.substack.com/p/edenwald-the-bronx
+- Edenwald stayed farmland after the western Bronx joined the city in 1874 and the east in 1895. Then the New York, Westchester & Boston Railway (NYW&B) in 1912, whose right-of-way corresponds to today's 5 train Dyre Avenue line — https://cityneighborhoods.nyc/edenwald
+- Edenwald Houses was built on the former Hebrew Orphan Asylum and was designed by architects Rodgers & Butler. Paul Tishman Company started building Edenwald Houses in 1951 — https://en.wikipedia.org/wiki/Edenwald_Houses
+- It was finished on October 15, 1953 it is bordered by Grenada Place, East 225th Street, Baychester and Laconia Avenues. — https://urbanareas.net/info/resources/neighborhoods-bronx/edenwald-bronx-history/
+- **Sources disagree on Houses figures:** 2,034 apartments and about 5,450 people (urbanareas); 42 buildings (Grokipedia); 2,035 apartments and nearly 5,000 residents (NYCHA Journal). The Bronx Times says "established in 2023," which looks like a typo for 1953.
+- The 2016 raid on Edenwald and Eastchester Gardens arrested 87 individuals and charging 120, all of whom were members of two rival gangs. — https://en.wikipedia.org/wiki/Edenwald_Houses
+- Boundaries: Wikipedia treats Edenwald as part of Eastchester (Eastchester includes the sub-neighborhood of Edenwald.), in Community Board 12, ZIPs 10466/10475 — https://en.wikipedia.org/wiki/Eastchester,_Bronx
+
+**Streets, building stock, parks, what it's known for**
+
+- Main roads: East 233, Baychester Avenue, Bronxwood Avenue, Edenwald Avenue, Laconia, and brief openings on Eastchester and Boston Roads. — https://urbanareas.net/info/resources/neighborhoods-bronx/edenwald-bronx-history/
+- Food corridor: small Jamaican eateries can be found along Boston Road on the neighborhood's southern and southeastern border — https://www.homes.com/local-guide/bronx-ny/edenwald-neighborhood/
+- Housing mix: a mix of one- and two-family homes and row houses. The Houses are a mix of low-slung three-story units and fourteen-story towers — https://theneighborhoods.substack.com/p/edenwald-the-bronx
+- Age: Many of the residences in the Edenwald neighborhood are older, well-established, built between 1940 and 1969. A number of residences were also built before 1940. — https://www.neighborhoodscout.com/ny/bronx/edenwald
+- Renters vs owners: about 60% rent and 40% own — https://www.niche.com/places-to-live/n/edenwald-new-york-city-ny/
+- Home prices: The median sale price for homes in Edenwald, Bronx over the last 12 months is $593,888 — https://www.homes.com/local-guide/bronx-ny/edenwald-neighborhood/
+- Seton Falls Park: The site became parkland in 1930, with the final parcels added in 1985. — https://www.hmdb.org/m.asp?m=271252
+  - It is known locally for its seclusion and the "Mr. Wiggly" legend — https://www.bxtimes.com/edenwald-myth-becomes-movie-hits-the-big-screen/
+- Cardinal Spellman High School is in the neighborhood — https://urbanareas.net/info/resources/neighborhoods-bronx/edenwald-bronx-history/
+- The new Northeast Bronx YMCA, designed by Marvel Architects — https://theneighborhoods.substack.com/p/edenwald-the-bronx
+
+**Recent news (2026)**
+
+- Oct 22: Mayor Zohran Mamdani reopened the Houses' senior, community and child-care centers. The broader renovation project is expected to be completed next year. — https://bronx.news12.com/2026/10/23/edenwald-senior-center-reopens-after-25-years-as-part-of-783-million-renovation/4Xwtwy8TQO2iXdSInLC1Jm
+  - The senior center is at 1153 East 229th Drive South — https://newyorkyimby.com/2026/10/edenwald-houses-completes-community-facility-renovations-in-edenwald-the-bronx.html
+- Oct 26: a water main broke near Strang and De Reimer avenues in the Edenwald section. — https://www.cbsnews.com/newyork/news/water-main-break-bronx-edenwald/
+- Local news sources: Bronx Times, Norwood News, News 12 Bronx, NY YIMBY. Patch, BKReader and neighborhood blogs: EMPTY
+
+### Questions people ask — Security Camera Installation in Edenwald
+- Google People Also Ask / People Also Search For: EMPTY (couldn't access)
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY (no matching threads found)
+- How much does security camera installation cost in the Bronx, NY? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- How much does security camera installation cost in Bronx? — installer directory FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How much does apartment building camera installation cost in the Bronx? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- How do I prevent package theft at my Bronx property? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Are security cameras worth it for Bronx property owners? — installer FAQ — same URL
+- Do I need a permit to install security cameras on my house in NYC? — installer FAQ — https://senecasecurity.com/services/security-cameras/single-family-houses/
+- Why wired PoE instead of wireless cameras? — installer FAQ — same URL
+- Do you need a permit to install a security camera in New York? / Can my landlord watch my security cameras? / Do I need internet for security cameras? — installer FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can I install hidden cameras in my rental property? — installer FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Are security cameras allowed in New York City apartments? — installer FAQ — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+- Am I legally allowed to install a camera outside my front door that faces into the public hallway? (Brooklyn tenant) — Q&A site (JustAnswer) — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- A neighbor gives me the creeps. Can I install a security camera in the hallway for safety? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can a tenant install a Ring camera? / Can a tenant install a security camera outside? — landlord-software blog FAQ — https://www.azibo.com/blog/can-tenants-install-security-systems-without-landlord-permission
+- Will there be cameras? (Edenwald Houses residents) — PACT resident FAQ — https://edenwaldhousesbx.com/faqs/
+- Can I install a security system by myself? / What is the best home security system in Bronx? — review site FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- Yelp "People also searched for": Security Camera Installation — Yelp — https://www.yelp.com/search?find_desc=Home+Security+Camera+Installation&find_loc=Bronx
