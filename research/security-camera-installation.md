@@ -2695,3 +2695,252 @@ The questions below come from FAQ sections on installer pages and one advice col
 - Can I ask to have a security camera installed outside my apartment or in the hallway for my safety? — Brick Underground advice column — https://www.brickunderground.com/live/creepy-neighbor-security-camera
 - Can I install a security system by myself? — installer FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
 - What did people search for similar to CCTV security camera installation in Bronx? (Yelp's answer: "Security Camera Installation") — Yelp — https://www.yelp.com/search?find_desc=CCTV+Security+Camera+Installation&find_loc=Bronx%2C+NY
+
+## Morris Heights, Bronx — /security-camera-installation-morris-heights-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My search tool only returns web results. It can't show Google's People Also Ask boxes, People Also Search For or related searches, or Bing and DuckDuckGo results pages, so those parts are marked EMPTY below. I also found no Reddit threads, no Patch coverage and no 311 or DOB permit data specific to Morris Heights. Those are EMPTY too. Several findings come from competing installers' marketing pages (Abstract Enterprises, Momo Locksmith and others). I've labeled them as competitor sources; they aren't independent data.
+
+### Facts specific to security camera installation in Morris Heights
+
+- **Vandalism of building cameras on Davidson Avenue.** Around 1 p.m. one Friday, several men walked into buildings along Davidson Avenue in the Morris Heights section, at building numbers ranging between 1985 and 2024, and damaged numerous surveillance cameras inside and outside the buildings before running off, police said. The article has no date. For the page, this makes the case for vandal-resistant domes, mounting cameras out of reach, and recorders kept off-site or locked away. — https://www.cbsnews.com/newyork/news/police-suspects-busted-surveillance-cameras-in-multiple-bronx-buildings/
+- **Deadly fire at 1484 Montgomery Ave (September 2026), where camera video became evidence.** Ring camera video captured a man carrying an object with an open flame in a hallway and using it to set what appeared to be a cardboard box on fire before heading into an apartment. HPD says the building has 151 open violations, and the Department of Buildings said inspectors were checking whether the fire doors worked properly. — https://abc7ny.com/post/1-dead-4-hurt-including-firefighters-bronx-fire-led-man-jump-burning-building/19861286/ ; https://bronx.news12.com/2026/09/24/1-person-killed-11-others-injured-after-flames-rip-through-apartments-in-morris-heights/2jVkRaxFwaD8aTPnQzIvL7
+- **Lobby camera footage in a burglary case at 1759 Montgomery Ave.** The burglary happened on Friday, March 22, at 1759 Montgomery Ave. Police released surveillance photos of the suspects walking through the lobby and out the front door, the man carrying a digital TV and the woman following with a large bag. (The year isn't stated.) — https://www.cbsnews.com/newyork/news/police-search-for-burglars-who-struck-morris-heights-bronx-building
+- **Partial collapse at 1915 Billingsley Terrace (December 2023).** A surveillance video obtained by PIX11 News showed the moment a residential building collapsed in the Bronx. The NYPD asked people to avoid West Burnside Avenue between Osborne Place and Phelan Place. — https://pix11.com/news/local-news/bronx/watch-video-shows-6-story-building-collapse-in-the-bronx/
+- **A street assault caught on video (October 2025).** Virginia Alvarez was attacked on Oct. 15 on her way to work; surveillance video shows a man striking her with a metal pipe. — https://bronx.news12.com/2025/12/23/survivor-of-brutal-morris-heights-attack-is-on-the-road-to-recovery/1ZQZtf4o2JVfxheXxTtfV7
+- **1520 Sedgwick Ave, the "birthplace of hip-hop," already has an intercom and cameras because of tourists.** Because tourists flock to the building, it is equipped with an intercom system and heavy security cameras. It has 18 stories, was built in 1969, and totals 119,919 square feet, with 101 residential units. A local blog stresses that its residents "did not sign up to have their lobby photographed." — https://amlit.commons.gc.cuny.edu/archives/1255 ; https://www.propertyshark.com/mason/Property/52489/1520-Sedgwick-Ave-Bronx-NY-10453/ ; https://bxoriginals.com/blogs/the-vault/1520-sedgwick-avenue
+- **Renovations at 1520 Sedgwick move slowly.** The building "has to wade through a thicket of bureaucracy to get anything done," including the facade work. Tenants lived with a sidewalk shed for four years before repairs began. — https://therealdeal.com/new-york/2026/03/03/mamdani-says-birthplace-of-hip-hop-is-affordability-model/
+- **Sedgwick Houses (NYCHA) got CCTV upgrades.** It has seven buildings of 14 to 15 stories between Undercliff and University Avenues, in front of West 174th Street. Sedgwick was one of the Bronx sites in a $24M NYCHA program in 2023. The upgrades included new CCTV cameras, entrance renovations, lighting, layered access control, new intercoms and steel-reinforced aluminum doors, with the cameras running on LED lighting and a fiber-optic framework. Sedgwick Houses was also on the 2015 list of developments getting cameras. — https://en.wikipedia.org/wiki/Sedgwick_Houses ; https://www.citylandnyc.org/nycha-announces-completion-of-over-24-million-in-security-and-safety-upgrades/ ; https://www.nyc.gov/site/nycha/about/press/pr-2015/cctv-progress-20150324.page
+- **NYCHA camera feeds and police access.** NYCHA runs more than 20,000 CCTV cameras in indoor and outdoor common areas, and the NYPD runs its own separate cameras at some properties. Reporting says the NYPD is gaining live access to NYCHA's CCTV footage without having to ask NYCHA for permission. — https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance
+- **Residents installing their own cameras at a Bronx NYCHA site risked eviction.** A Parkside Houses resident received an eviction notice saying she had breached her lease by installing cameras. Parkside is not in Morris Heights, but it shows the rule for NYCHA tenants. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- **River Park Towers, the borough's tallest buildings, at the Harlem River edge.** They are at 10, 20, 30 and 40 Richman Plaza. The complex was completed in 1975. After a management change in the early-to-mid 1980s, the towers had problems including broken elevators and ignored repair requests. — https://www.bxtimes.com/40-year-anniversary-for-river-park-towers/
+- **HPD and building-condition context.** The Public Advocate's watchlist is based on publicly available data on open HPD violations. In a nearby Belmont case, city records cited defective self-closing doors, broken entrance locks and pest infestations. That case is not in Morris Heights. At 2078 Morris Ave (ZIP 10453; I couldn't confirm it's inside Morris Heights), 83 open HPD violations were on record, 16 of them Class C (immediately hazardous), and the building was built in 1926. — https://bestinthebronx.nyc/these-are-the-worst-landlords-in-the-bronx/ ; https://gothamist.com/news/bronx-landlord-hit-with-10-million-fine-for-unsafe-apartment-building ; https://weverit.com/building/ny/new-york/2078-morris-avenue-bronx-10453
+- **Precinct.** The area is covered by the 46th Precinct at 2120 Ryer Avenue, and NYCHA property by PSA 7 at 737 Melrose Avenue. — https://urbanareas.net/info/resources/neighborhoods-bronx/morris-heights-bronx-history/
+- **Landmarks rules (LPC).** I found no LPC historic district inside Morris Heights. The individual landmark listed for Morris Heights is the Messiah Home for Children at 1777 Andrews Avenue and 177th Street, designated June 24, 1997. The Bronx Community College landmarks sit on the edge of the neighborhood (Wikipedia files them under BCC/University Heights): the Hall of Fame at 2030 Sedgwick Avenue, designated 2/15/1966, and Gould Memorial Library at 2155 University Ave, an exterior landmark since 1966 and an interior landmark since 1981. Mounting cameras on these buildings would likely need LPC review; I'm inferring that, and no source states it. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx ; https://hdc.org/buildings/hall-of-fame-new-york-university-bronx-community-college/ ; https://www.villagepreservation.org/2018/01/12/beyond-the-village-and-back-gould-library-begrisch-hall/
+- **Licensing that applies to any installer here.** A license from the New York State Department of State is required to install or maintain security or fire alarm systems. A licensed master electrician can register for a waiver instead, but only for work in the municipality where they hold that license. — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems ; https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Local installers and competitor pages.** Abstract Enterprises lists 2007 Davidson Ave, Bronx, NY 10453, the same address as the October 2026 smoke call. A 911 caller reported an unconfirmed incident at 2007 Davidson Ave. A competitor already has an access-control page for Morris Heights built around Roberto Clemente State Park, River Park Towers and Metro-North, and mentions the Burnside Avenue commercial strip. Momo Locksmith has a templated Morris Heights camera page. — https://www.safehome.org/security-systems/new-york/bronx/ ; https://citizen.com/-P544saDB3ZYIfN32sZx ; https://www.abstractenterprisessecuritysystems.com/access-control-installation-morris-heights-bronx-ny ; https://momolocallocksmith.com/security-cameras/bronx-ny/morris-heights/
+- **Coax reuse in old buildings (competitor claim).** HD analog cameras are pitched as a cost-effective upgrade for existing coaxial wiring in older Bronx buildings. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx
+- **311 complaints, DOB permits, Reddit threads, Patch:** EMPTY.
+
+### History and development
+
+- After the city annexed the Bronx in 1874, lots were sold and divided up for Manhattanites moving north. — https://theneighborhoods.substack.com/p/morris-heights-the-bronx
+- Gas Engine & Power Company & Charles L. Seabury Company built ships on the Morris Heights waterfront from 1896 until after World War II, when it moved to City Island. — https://kids.kiddle.co/Morris_Heights,_Bronx
+- By the 1920s, Irish and Jewish families were moving into new five- and six-story apartment buildings along University Avenue. — https://theneighborhoods.substack.com/p/morris-heights-the-bronx
+- The Cross Bronx Expressway (1948–1972), built under Robert Moses, cut through the Bronx just south of Morris Heights. By the 1970s the neighborhood was at the center of the South Bronx's crisis. — https://cityneighborhoods.nyc/morris-heights
+- The 1970s arson wave left many residential buildings badly damaged or destroyed, and subsidized townhouses and new apartment buildings have since gone up on vacant lots. Starting in the late 1970s, many Dominicans moved over from Washington Heights. — https://urbanareas.net/info/resources/neighborhoods-bronx/morris-heights-bronx-history/
+- Hip-hop is traced to a party at 1520 Sedgwick Avenue on August 11, 1973. — https://en.wikipedia.org/wiki/1520_Sedgwick_Avenue
+
+### Streets, building stock, parks, what it's known for
+
+- University Avenue is the main road through Morris Heights. Five- and six-story buildings dominate, and there are NYCHA developments. — https://en.wikipedia.org/wiki/Morris_Heights,_Bronx
+- Boundaries: the land climbs steeply from the Harlem River past Roberto Clemente State Park and River Park Towers, then drops toward Jerome Avenue on the east, lined with muffler and auto body shops; Burnside Avenue is the northern edge and the Cross-Bronx Expressway the southern. The neighborhood also has a series of step streets. — https://theneighborhoods.substack.com/p/morris-heights-the-bronx
+- Roberto Clemente State Park covers 25 acres in Morris Heights. It was built together with River Park Towers and was the first state park in New York City. — https://en.wikipedia.org/wiki/Roberto_Clemente_State_Park ; https://www.bxtimes.com/40-year-anniversary-for-river-park-towers/
+- Metro-North's Morris Heights station is at 229 West Tremont Avenue, between the Major Deegan Expressway and the Harlem River, next to Roberto Clemente State Park. — https://en.wikipedia.org/wiki/Morris_Heights_station
+- The population is about 36,779. In 2018, about 34% of Morris Heights and Fordham residents lived in poverty. — https://en.wikipedia.org/wiki/Morris_Heights,_Bronx
+
+### Questions people ask — Security Camera Installation in Morris Heights
+
+- **Google PAA:** EMPTY (not available through this tool)
+- **Google PASF / related searches:** EMPTY
+- **Bing / DuckDuckGo:** EMPTY
+- **Reddit (r/Bronx, r/AskNYC, r/homesecurity):** EMPTY. No threads came up.
+- **Patch / Bronx Times / hyperlocal outlets:** EMPTY for camera installation itself.
+
+Questions found on real pages. These come from FAQ sections and Q&A sites, not search-engine boxes, and the label says so:
+
+- Can I put a camera outside my apartment door? — JustAnswer Q&A — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Is it illegal for my landlord to put a camera outside my door in NYC? — JustAnswer Q&A — https://www.justanswer.com/landlord-tenant/71v91-nyc-landlord-put-camera-outside-door.html
+- Can I install a security camera in the hallway because a neighbor gives me the creeps? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can a tenant install security cameras outside the apartment? Can a landlord have cameras outside? — eufy blog FAQ — https://www.eufy.com/blogs/security-camera/can-tenants-install-security-camera
+- Can a Bronx renter install a camera without landlord permission? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Can a landlord put cameras in the hallways and lobby? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-nyc
+- How many cameras does a typical Bronx property need? Can cameras help with liability protection for businesses? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-port-morris-bronx-ny
+- Are security cameras worth it for Bronx property owners? Do you install intercoms and access control in the Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx
+- Do you install wireless cameras in Bronx NYCHA buildings? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- How much does apartment building camera installation cost in NYC? Why is labor so much more than the camera price? Are there monthly fees for a building camera system? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-nyc
+- What is the average labor cost to install security cameras? — ButterflyMX FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does it cost to install a 4-camera system in NYC? What is the labor cost for CCTV installation in NYC? How much does CCTV cloud storage cost per camera? — Linked Security FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Do I need a permit for security camera installation in NYC? — NYC IT Tech FAQ — https://www.nycittech.com/blog/cctv-installation-cost-nyc-security-cameras/
+- Does a camera installer need a New York State license? — lowvoltagenewyork.com FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- What do people search for that's similar to security camera installation near Bronx, NY? — Yelp's own related-search prompt; the listed answers were not visible — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Co-op+City%2C+Bronx%2C+NY
+- **Yelp praise:** a Bronx reviewer said a company "installed security cameras in my home they did a very good job and the price was excellent" — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- **Yelp complaints:** the only negative signal was ADT Security Services at 1.0 across 31 reviews, with no review text visible — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Castle+H
+
+## Morris Park, Bronx — /security-camera-installation-morris-park-bronx-ny (factory research, 2026-11-03)
+
+**Local security incidents and camera angles (most useful for this page)**
+- Apartment break-ins, May 2026: two burglaries happened inside 1600 Tomlinson Ave. on a Friday afternoon. A first-floor neighbor shared Ring camera footage of a suspect believed to have picked the locks of the two apartments. In the video, the suspect wears a face mask and yellow gloves and carries a toolkit. Angle for the page: hallway and apartment-door coverage in walk-up and elevator buildings. — https://bronx.news12.com/2026/05/02/morris-park-residents-on-edge-after-apartment-break-ins/5dLin2pH5bucu9nPtsJUwi
+- Doorbell cameras on one- and two-family homes: a Morris Park mother reported two attempted break-ins at her home within one week. A stranger was caught on her door cam pressing on the handle, and three days later, in broad daylight, someone was seen on camera trying to pick the lock. She is now changing the locks and installing extra cameras and sensors. — https://bronx.news12.com/exclusive-morris-park-mom-warns-of-break-in-attempts-urges-neighbors-to-lock-doors
+- Package theft: one Morris Park resident said his package sat outside for just seconds before a thief grabbed it, and he caught it all on camera (holiday 2025). — https://bronx.news12.com/porch-pirates-are-snatching-holiday-packages-heres-how-to-protect-yours
+- Older package-theft blocks (2017): near Narragansett Avenue and Seminole Avenue and near Tenbroeck Avenue and Rhinelander Avenue. — https://abc7ny.com/new-york-city-bronx-morris-park-package-theft/2618323/
+- Stoop and vestibule coverage: in a robbery of a Morris Park couple, one video shows the couple walking up the front steps of their home as a car pulls up, and the gunman follows them into the building. By the video's timestamp, it took less than one minute. — https://bronx.news12.com/nypd-gunman-robs-morris-park-couple-of-jewelry-cellphone-valued-at-147000
+- Window peeping: the Varennes' security camera shows a man walking up to their home and peering in before walking away. Police said they couldn't do much because no crime was committed. — https://bronx.news12.com/morris-park-family-irked-by-man-caught-on-camera-peering-into-their-home
+- Storefront on the commercial corridor: surveillance video shows a man breaking into Addeo's of the Bronx; the owner says it's the second time the same man broke the glass door. The thief got away with $1,000 in cash. — https://bronx.news12.com/caught-on-camera-man-smashes-door-of-morris-park-restaurant-and-steals-cash
+- Deli robbery, July 2024: two suspects took $1,500 in cash after a brutal attack at a bodega, caught on surveillance video. The store was the Gourmet Deli on Morris Park Avenue. — https://abc7ny.com/post/nyc-bodega-burglary-spree-2-suspects-wanted-brutal/15070086/
+- 49th Precinct pattern (older article): in most of the borough burglaries are residential, but in the 49th they are commercial. — https://www.bxtimes.com/burglaries-and-air-bag-thefts-on-the-rise-in-morris-park-and-van-nest/
+- Community Board 11 Public Safety minutes (2016): car break-ins, with the most hit area being Morris Park. Police recommended installing Audible Glass Break Sensors and pointing cameras at points of access into the home. — https://www.nyc.gov/assets/bronxcb11/downloads/pdf/meetings/minutes/2016/10/Public%20Safety.pdf
+- CB11 minutes (2018): car break-ins especially around Bronx Park East, plus residents requesting NYPD security cameras. — https://www.nyc.gov/assets/bronxcb11/downloads/pdf/meetings/minutes/2018/6/public_safety.pdf
+- Nearby car break-ins (Pelham Parkway edge, 2024): cars along Bronx Park East had their windows smashed. — https://abc7ny.com/post/morris-park-vehicle-break-ins-drivers-find-parked-cars-damaged-ransacked-bronx-nyc/15581642/
+- Public camera funding: the Borough President announced $395,000 for a borough-wide mobile command unit and security cameras, and then-CM Marmorato (District 13, which includes Morris Park) praised it. — https://bronxboropres.nyc.gov/2024/10/08/borough-president-gibson-joins-nypd-and-community-leaders-to-announce-funding-for-public-safety-initiatives-state-of-the-art-nypd-security-cameras-and-mobile-command-van/
+- Policing: patrolled by the 49th Precinct, 2121 Eastchester Road. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **Don't use:** a CBS story places "Andrews Avenue" in Morris Park. Andrews Avenue is in the West Bronx, so this looks mislabeled. — https://www.cbsnews.com/newyork/news/nypd-2-wanted-in-violent-robbery-caught-on-camera-in-the-bronx
+
+**Licensing and law that change how the install is done**
+- NY GBL §69-m: no person shall engage in the business of installing, servicing or maintaining security or fire alarm systems unless licensed. — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- NYC Business portal: the license comes from the New York State Department of State. — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- DOS guidance: installing "passive" (non-detecting) security devices does not require licensure. Whether motion-detecting cameras count is a gray area; verify with counsel. — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf
+- Building camera placement (installer blog, not official): hallway cameras are permitted when they cover corridor traffic without seeing into apartments as doors open. On audio, whether passively captured hallway audio counts as eavesdropping has never been settled cleanly, so audio is usually left off. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Tenants (installer blog): tenants generally can't install cameras in common hallways, lobbies, or other shared spaces without landlord permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Renter share: 65.8% of non-vacant housing units are renter-occupied, so landlord permission is a common hurdle. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- HPD violations / 311 complaints / DOB permits: EMPTY (not retrieved)
+- LPC historic districts in Morris Park: EMPTY (none found; not confirmed either way)
+
+**History**
+- The 360-acre Morris Park Racecourse ran from 1889 to 1904 and hosted the Belmont Stakes from 1890 to 1904. — https://www.welcome2thebronx.com/2015/12/vintage-photos-of-morris-park-before-it-was-developed/
+- After a 1910 fire the property was divided into lots and filled with one- and two-family homes and apartment buildings. — https://historica.fandom.com/wiki/Morris_Park
+- Workers laid trolley rail as Morris Park Avenue was built at Bronxdale Avenue in 1913. — https://www.welcome2thebronx.com/2015/12/vintage-photos-of-morris-park-before-it-was-developed/
+- Streets weren't cut through and houses built until the 1920s, and the neighborhood wasn't "completed" until the 1970s. — https://forgotten-ny.com/2006/08/morris-park-bronx/
+- Cruger, Holland, Radcliff, Colden, Paulding, and Hone Avenues are named after 18th- and 19th-century NYC mayors. — https://www.morrisparkbid.org/history
+
+**Streets and commercial corridors**
+- Williamsbridge Road and Morris Park Avenue are the primary thoroughfares. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- The BID covers Morris Park Avenue between Unionport Road/Amethyst Street and Williamsbridge Road. Its sanitation crew covers 21 blocks of commercial corridor. BID office: 966 Morris Park Ave. — https://www.morrisparkbid.org/ ; https://rules.cityofnewyork.us/wp-content/uploads/2024/12/Testimony-MPBID-DSNY-Feb-10-2025-.pdf
+- The district plan counts about 152 commercial and mixed-use properties. — https://www.nyc.gov/assets/planning/download/pdf/about/cpc/170440.pdf
+- Businesses in the BID directory: Emilio's (1051), Morris Park Meat Market (1037), Loconsolo Paints (1057), Morris Park Dental (960), and others. — https://www.morrisparkbid.org/a-directory-copy
+- A camera installer, Security iCam, is located on the corridor at 963 Morris Park Ave. — https://www.safehome.org/security-systems/new-york/bronx/
+- Unionport Road divides Morris Park from Van Nest. — https://forgotten-ny.com/2006/08/morris-park-bronx/
+
+**Building stock**
+- Mostly low-rise: semi-detached brick two-families, freestanding single-family homes on modest lots, and pre-war multifamily buildings from the 1920s–1940s. — https://reinventny.com/blog/morris-park
+- A few tree-lined blocks with Tudor-style houses look nearly suburban. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- Coming change: the 2024 rezoning lets parts of Morris Park allow denser residential development. The new Metro-North stations are scheduled to open in late 2027. Expect new mid-rises that need building-wide camera and intercom systems. — https://www.cozen.com/news-resources/publications/2024/city-council-approves-bronx-metro-north-rezoning ; https://www.bxtimes.com/dcp-rezoning-metro-north/
+
+**Parks, landmarks, what it's known for**
+- Loreto Playground sits on Morris Park Ave. between Haight Ave. and Tomlinson Ave. — https://agreatbigcity.com/parks/loreto-playground
+- The playground honors Alfred Loreto, a police officer and resident who died in 1950 foiling an attempted kidnapping of his neighbor. The Bronx Military Museum is housed in John Dormi & Sons Funeral Home. — https://www.bellucklaw.com/bronx/morris-park/
+- The Columbus Day parade began in 1977 and is held the Sunday before the holiday. The 49th parade took place in October 2026. — https://www.morrisparkbid.org/history ; https://www.bxtimes.com/morris-park-49th-annual-columbus-day-parade/
+- The Albert Einstein College of Medicine is at 1300 Morris Park Ave. — https://www.bellucklaw.com/bronx/morris-park/
+- "The Pulse" light installation on Morris Park Avenue launched in 2024. — https://www.riverdalepress.com/stories/how-camelia-tepelus-helped-bring-investment-and-recognition-to-morris-park,238779
+
+**Reddit:** EMPTY (no Morris Park camera threads found in r/bronx, r/AskNYC, or r/homesecurity)
+
+### Questions people ask — Security Camera Installation in Morris Park
+*Note: I couldn't capture Google PAA/PASF, Bing, DuckDuckGo, or AnswerThePublic panels directly. Those are EMPTY. The questions below come from FAQ blocks on Bronx installer and directory pages that I could retrieve.*
+- How much does security camera installation cost in the Bronx, NY? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronxdale-bronx-ny
+- Can you install in a Bronx co-op or condo? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Can security cameras help with liability protection for businesses? — installer FAQ — same URL
+- Do I need a permit to install security cameras in Bronx? — directory FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How long does security camera installation take? — directory FAQ — same URL
+- What's the difference between wired and wireless security cameras? — directory FAQ — same URL
+- Can I view my security cameras on my phone? — directory FAQ — same URL
+- How many security cameras do I need? — directory FAQ — same URL
+- How much does apartment building camera installation cost in the Bronx? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- Which camera brands do you install? — installer FAQ — same URL
+- Are there monthly fees for a business camera system? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-bronx
+- Who can install security cameras? — Thumbtack FAQ — https://www.thumbtack.com/ny/bronx/security-camera-install
+- What are people saying about security systems services in Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Bronx,+NY
+- Yelp "people also searched": Security Camera Installation — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Bronx,+NY
+- Yelp praise: one reviewer said the installer was very patient and adjusted the quote multiple times. — same URL
+- Yelp complaints: EMPTY
+- PAA: EMPTY · PASF: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo: EMPTY · Reddit: EMPTY · Patch/BKReader: EMPTY
+
+**Gaps to fill next:** an HPD/311/DOB pull on the Open Data portal for zip codes 10461/10462, a manual Google PAA capture, and LPC map confirmation.
+
+## Morrisania, Bronx — /security-camera-installation-morrisania-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My search tool doesn't show Google People Also Ask boxes, related searches, Bing or DuckDuckGo results, AnswerThePublic, Yelp reviews, or Reddit threads, so those parts are marked EMPTY. I also didn't have BLUEPRINT.md, so I used the categories from your prompt. Some of the questions at the end come from installer and legal FAQ pages; they're labeled as FAQ pages, not as PAA. Several findings come from installer marketing pages, and those are labeled "vendor claim."
+
+### Facts specific to security camera installation in Morrisania
+
+**Building types and entry/wiring situations**
+- The neighborhood is a mix of 19th-century rowhouses, prewar apartment buildings, community gardens, and new affordable housing complexes — https://cityneighborhoods.nyc/morrisania
+- The city's rezoning study lists single- and two-family frame buildings, brick rowhouses and larger apartment buildings. There is also a long history of mixed-use buildings in Morrisania (residential units above a first floor commercial or community facility use), and community facilities there are mainly small storefront houses of worship — https://www.nyc.gov/assets/planning/download/pdf/plans/morrisania/morrisania.pdf
+- Many subsidized attached multi-unit townhouses and newly constructed apartment buildings have been or are being built on vacant lots across the neighborhood — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- Vendor claim: one installer names Morrisania three-to-six-story walk-ups — vestibule, lobby, every stair-hall landing, and back lot on one NVR as a typical job — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- Vendor claim: in Bronx buildings the cabling is the work, and a 20-camera Bronx elevator building reaching $20,000 isn't an outlier — same URL
+- Vendor claim: prewar buildings often have plaster walls, limited conduit paths, and no cable trays — https://senecasecurity.com/learn/how-to-choose-security-camera-system-nyc-building/
+- Vendor claim: installing cameras and an intercom in one visit saves labor because both systems run on low-voltage wiring through the same conduit paths — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+
+**NYCHA developments (large camera footprint)**
+- NYCHA properties in Morrisania include Forest Houses (Morrisania/42), Franklin Avenue I (Conventional) (Morrisania/42) and Franklin Avenue II and III — https://en-academic.com/dic.nsf/enwiki/1196776
+- Morris Houses is part of four contiguous public housing projects—which also include the Butler, Morrisania and Webster houses—that are collectively named Claremont Village — https://en.wikipedia.org/wiki/Morris_Houses
+- Morrisania Air Rights has three buildings, 19, 23, and 29 stories tall, built over tracks along Park Avenue — https://en.wikipedia.org/wiki/Morrisania_Air_Rights
+- At John Adams Houses in Morrisania, NYCHA added 72 new cameras outside the seven buildings and inside lobbies and elevators. Security staff watch monitors inside 721 Tinton Ave., and a direct line to PSA-7 (2016) — https://www.motthavenherald.com/2016/01/19/nycha-rolls-out-safety-cameras/
+- Butler Houses was the first NYCHA property to receive the full security upgrades associated with the Mayor's Action Plan for Neighborhood Safety, with 30 new cameras in addition to upgrades to the 58 existing cameras — https://www.bxtimes.com/butler-houses-receives-full-security-upgrade/
+- NYPD access to NYCHA cameras runs through a program called Apple Connect. While Apple Connect provides NYCHA residents with free internet, some are concerned that authorities are also using it to directly access surveillance footage. A police source cited a shooting at Morrisania Houses — https://www.amny.com/new-york/nypd-nycha-video-surveillance-council-oversight/
+
+**Local news where cameras mattered**
+- March 2026: a man was killed at 765 East 165th St. at the Forest Houses in Morrisania, and newly obtained doorbell video appears to capture the moments leading up to the shooting — https://bronx.news12.com/2026/03/10/new-video-shows-moment-morrisania-man-was-shot-and-killed-inside-nycha-building/rbzuvQ3GbTAy754o3QBwC
+- Recent: about $21,000 in cash was taken at Forest Houses on Sept. 21 at approximately 5:15 p.m. — https://www.newsy-today.com/bronx-nycha-cash-robbery-spree-man-wanted-by-police/
+- Surveillance cameras captured some of the moments unfolding inside the deli on Tinton Avenue during a shooting — https://bronx.news12.com/2-people-wanted-after-shots-fired-inside-morrisania-deli
+- At a shooting outside McKinley Houses on 161st Street, neighbors sent News 12 doorbell camera videos of four people dressed in all black walking down the block — https://bronx.news12.com/16-year-old-shot-in-morrisania
+- A parking lot robbery on East 167th Street near Park Avenue in Morrisania was caught on surveillance video — https://www.cbsnews.com/newyork/news/broad-daylight-bronx-parking-lot-attendant-robbery-caught-on-surveillance-video/
+- 2022: at a senior building in Morrisania, Progressive Management said it would add two uniformed security guards inside the building starting Tuesday night and 24/7 monitoring of security cameras will continue — https://abc7ny.com/bronx-residents-living-in-fear-teens/12158502/
+- Borough President Gibson budgeted $1.2 million for NYPD surveillance cameras and $500,000 for DSNY illegal dumping cameras (Aug 2025) — https://pix11.com/news/local-news/bronx/more-crime-fighting-cameras-coming-to-the-bronx/
+- One security company ranks Morrisania #6 on its "dangerous Bronx" list but notes it has the lowest murder rate among the top 10 violent crime precincts citywide. Treat this as a vendor source — https://www.buildingsecurity.com/blog/most-dangerous-places-in-the-bronx/
+
+**City rules and data**
+- LPC: its permit guidebook has a section called "Installing Security Cameras," and Staff can approve security cameras if installation meets the listed criteria. Details are in LPC Rules §2-20 — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Landmarked sites in Morrisania: the Morris High School Historic District (designated by the New York City Landmarks Preservation Commission in 1982), with brick rowhouses along Jackson and Forest Avenues — http://s-media.nyc.gov/agencies/lpc/lp/1258.pdf
+- The Morrisania Library at 610 E 169th St is an individual landmark. The Morrisania Branch of the New York Public Library was designated an individual New York City landmark by the Landmarks Preservation Commission in 1996 (the same page also says 1998) — https://hdc.org/buildings/morrisania-branch/
+- In another district, a building had to apply to LPC to legalize the installation of security cameras and intercom installed without Landmarks Preservation Commission permit(s), which shows that unpermitted installs get enforced — https://www.nyc.gov/assets/manhattancb7/downloads/pdf/resolutions/2013/resolutions_06_13.pdf
+- DOB: vendor claim that in most cases, no permit is required for standard residential or commercial security camera installation in the Bronx — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- HPD entry systems: the Multiple Dwelling Law requires class A buildings to have automatic self-closing and self-locking doors and intercom (voice communication) systems — https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf
+- A defective self-closing door gets a class C immediately hazardous violation — https://www.nyc.gov/site/hpd/services-and-information/self-closing-doors.page
+- Vendor claim: HPD classifies non-functioning intercoms as Class B hazardous violations, enforced through tenant complaints via 311 — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Vendor claim (I couldn't confirm the law itself): New York City Local Law 50 requires that residential buildings with security cameras in common areas notify residents of their presence — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Hidden cameras in private spaces are a felony under Penal Law §250.45, and hallway cameras must be aimed so they don't capture into an apartment when a door opens — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- New state law: Hochul signed a baby monitor security bill on Oct 28, 2026. It takes effect around January 26, 90 days after signing, though multi-use devices like smartphones and home security cameras are exempt — https://www.news10.com/capitol/ai-chatbot-baby-monitor-hochul/
+- Morrisania-specific HPD violation counts, 311 complaint counts, and DOB permit records: EMPTY (I didn't query the open-data portals)
+
+**Local installers and price points**
+- Vendor claim: Bronx packages advertised at 4 HD Cameras Installed For $850.00. A newer page from the same company says 4-camera packages start at $1,062 — https://www.abstractenterprisessecuritysystems.com/security-camera-installer-bronx-ny ; https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Vendor claim: a typical 2–4 camera wired PoE system starts at $1,800 — https://senecasecurity.com/security-cameras-bronx/
+- Directory listing: $500-$2,500 for residential systems and $2,000-$10,000+ for commercial installations — https://findasecuritydealer.com/installers/ny/bronx
+- Nearby listed installers include one at 1900 Crotona Ave floor 1, Bronx, NY 10457 and Security Camera Bronx at 749 E 135th St, Bronx, NY 10454 — https://www.safehome.org/security-systems/new-york/bronx/
+
+### History and development
+- The Village of Morrisania, founded in 1848, was the first area west of the Bronx River to be densely settled in what today is the Bronx. — https://www.gothamcenter.org/blog/earlybronxsettlement-zy4la-6h6h4-tlwga-allfs-5gpbn-p8hkk-gewm2-86weg-453lp-rtg9j-b4nt8-f2n45-2s22f-kmea4-5jtmm-a2l5n-ljflg-bbjh6-82t6p-w9slx-nhf8r-egskg-7mja9-rk27k
+- The original parcel, purchased by Welsh captain Richard Morris, was only 500 acres — https://www.boweryboyshistory.com/2016/09/morrisania-south-bronx-old-days-american-aristocracy.html
+- Annexed in 1874; in 1887, the Third Avenue Elevated was extended to the area, and the Third Avenue El closed in 1970 (another source says 1973) — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- By the time the subway was extended to the area in 1904, a large influx of immigrants had given the neighborhood an urban character, with tenements replacing houses — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+- From the mid-19th century until World War II, this area was home to a variety of industries ranging from breweries to piano manufacturers. — https://www.nyc.gov/assets/planning/download/pdf/plans/morrisania/morrisania.pdf
+- Disinvestment, arson, and abandonment reached their height in the 1970s — https://cityneighborhoods.nyc/morrisania
+- Forest Houses were completed on November 12, 1956 — https://en.wikipedia.org/wiki/Forest_Houses
+- Morris High School Historic District: the Collegiate Gothic style Morris High School in 1901, plus row houses in a Free Classical style began in 1900 — http://s-media.nyc.gov/agencies/lpc/lp/1258.pdf
+
+### Streets, boundaries, parks, landmarks, what it's known for
+- Boundaries: Cross Bronx Expressway to the north, Crotona-Prospect Avenue to the east, East 163rd Street to the south, and Webster Avenue to the west. Third Avenue is the primary thoroughfare. Other sources draw the boundaries differently — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- Main commercial streets: Third Avenue, Boston Road, and Prospect Avenue serve as key commercial arteries — https://cityneighborhoods.nyc/morrisania. Another source lists Third Avenue, Boston Road, and 169th Street — https://www.invictusnyc.com/neighborhoods/morrisania
+- ZIP codes and police: 10456 and 10459. The local police department is the NYPD's 42nd Precinct. NYCHA property is covered by P.S.A. 7 at 737 Melrose Avenue — https://kids.kiddle.co/Morrisania,_Bronx ; https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- Parks: Crotona Park to the north, and the Claremont Park area with its pools, sports courts, and historic gazebo — https://bronxtreeservices.com/morrisania-tree-services/
+- Landmarks: St. Ann's Church, built in 1840 and the location of burials for members of the Morris family — Bowery Boys URL above
+- Known for hip-hop, which took formative steps in Morrisania's parks and block parties during the 1970s — https://cityneighborhoods.nyc/morrisania
+- Local Reddit discussion of Morrisania security, intercoms, or cameras: EMPTY
+
+### Questions people ask — Security Camera Installation in Morrisania
+- PAA (Google): EMPTY. I couldn't see it.
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo (including questions they show that Google doesn't): EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY. No threads came up.
+- Yelp complaints and praise: EMPTY
+- Patch / BKReader / Bronx Times on camera installation in Morrisania: EMPTY. Only the Bronx Times Butler Houses article above.
+
+Real questions found on FAQ and Q&A pages:
+- How much does security camera installation cost in the Bronx, NY? — installer FAQ page — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronxdale-bronx-ny
+- Is there a monthly fee? — installer FAQ page — same URL
+- Can security cameras help with liability protection for [neighborhood] businesses? — installer FAQ page — same URL
+- How many security cameras do I need? — directory FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How much do business CCTV cameras cost? — installer page listing "questions people search" — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-bronx
+- How much do apartment building cameras cost? / Why is labor so much more than the camera price? / Are there monthly fees for a building camera system? — installer page — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Q&A — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- A neighbor gives me the creeps. Can I install a security camera in the hallway for safety? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Are security cameras required in NYC apartment buildings? / Who is allowed to access apartment building camera footage? — FAQ page — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Can I put a camera in my apartment hallway in NYC? — FAQ page — https://crimtechhub.com/apartment-security-camera-laws-in-new-york-state/
+- Can I mount a regular security camera outside my apartment instead of a doorbell? — FAQ page — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Do I have to tell my tenants about security cameras in common areas? — FAQ page — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can my landlord put cameras in the hallways or laundry rooms? / Do landlords have to tell tenants before installing cameras? / What should I do if a camera seems to violate my privacy? — FAQ page — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Can tenants install cameras without landlord permission in New York? — FAQ page — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
+- Do I need to post signs for security cameras in New York? / Is it legal to have security cameras in New York? — FAQ page — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- The carriage house is in an LPC historic district. Are there rest

@@ -1,8 +1,8 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01DPcKcGpzYLJNYAEuPbrgei",
-   "submitted": "2026-11-03T18:20Z",
+   "id": "msgbatch_01Tg8QM7utEq1uEhFfCVwa6A",
+   "submitted": "2026-11-03T21:17Z",
    "pages": {
     "p0": {
      "status": "TODO",
@@ -115,7 +115,7 @@
      "nbhd": "City Line",
      "borough": "Brooklyn",
      "nb_slug": "city-line",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
@@ -307,7 +307,7 @@
      "nbhd": "Dumbo",
      "borough": "Brooklyn",
      "nb_slug": "dumbo",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
@@ -499,7 +499,7 @@
      "nbhd": "Laconia",
      "borough": "Bronx",
      "nb_slug": "laconia",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
@@ -678,94 +678,94 @@
     },
     "p7": {
      "status": "REBUILD",
-     "slug": "security-camera-installation-locust-point-bronx-ny",
+     "slug": "security-camera-installation-morris-heights-bronx-ny",
      "silo": "Security Camera Installation",
-     "area": "Locust Point, Bronx",
+     "area": "Morris Heights, Bronx",
      "up": "/security-camera-installation-bronx-ny",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 621,
+     "line_no": 624,
      "silo_key": "security-camera-installation",
      "area_key": "bronx",
-     "nbhd": "Locust Point",
+     "nbhd": "Morris Heights",
      "borough": "Bronx",
-     "nb_slug": "locust-point",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "nb_slug": "morris-heights",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "a technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "a technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "a technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "a finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "a technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "a technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "a technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "a technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/security-camera-installation/security-camera-installation-locust-point-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-heights-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
        "w": 1402,
        "h": 1122
@@ -870,94 +870,94 @@
     },
     "p9": {
      "status": "REBUILD",
-     "slug": "security-camera-installation-longwood-bronx-ny",
+     "slug": "security-camera-installation-morris-park-bronx-ny",
      "silo": "Security Camera Installation",
-     "area": "Longwood, Bronx",
+     "area": "Morris Park, Bronx",
      "up": "/security-camera-installation-bronx-ny",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 622,
+     "line_no": 625,
      "silo_key": "security-camera-installation",
      "area_key": "bronx",
-     "nbhd": "Longwood",
+     "nbhd": "Morris Park",
      "borough": "Bronx",
-     "nb_slug": "longwood",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "nb_slug": "morris-park",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "a technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "a technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "a technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "a finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "a technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "a technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "a technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "a technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/security-camera-installation/security-camera-installation-longwood-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morris-park-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
        "w": 1402,
        "h": 1122
@@ -1062,94 +1062,94 @@
     },
     "p11": {
      "status": "REBUILD",
-     "slug": "security-camera-installation-melrose-bronx-ny",
+     "slug": "security-camera-installation-morrisania-bronx-ny",
      "silo": "Security Camera Installation",
-     "area": "Melrose, Bronx",
+     "area": "Morrisania, Bronx",
      "up": "/security-camera-installation-bronx-ny",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 623,
+     "line_no": 626,
      "silo_key": "security-camera-installation",
      "area_key": "bronx",
-     "nbhd": "Melrose",
+     "nbhd": "Morrisania",
      "borough": "Bronx",
-     "nb_slug": "melrose",
-     "exemplar": "security-camera-installation-kingsbridge-bronx-ny",
+     "nb_slug": "morrisania",
+     "exemplar": "security-camera-installation-melrose-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "a technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "a technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "a technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "a finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "a technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "a technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "a technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "a technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/security-camera-installation/security-camera-installation-melrose-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/security-camera-installation/security-camera-installation-morrisania-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
        "w": 1402,
        "h": 1122
