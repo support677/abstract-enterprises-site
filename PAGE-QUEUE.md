@@ -609,7 +609,7 @@ LIVE | security-camera-installation-east-tremont-bronx-ny | Security Camera Inst
 LIVE | security-camera-installation-edenwald-bronx-ny | Security Camera Installation | Edenwald, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-edgewater-park-bronx-ny | Security Camera Installation | Edgewater Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T06:07Z factory | security-camera-installation-fairmount-bronx-ny | Security Camera Installation | Fairmount, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T06:07Z factory | security-camera-installation-fieldston-bronx-ny | Security Camera Installation | Fieldston, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-fieldston-bronx-ny | Security Camera Installation | Fieldston, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-fordham-bronx-ny | Security Camera Installation | Fordham, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-foxhurst-bronx-ny | Security Camera Installation | Foxhurst, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-harding-park-bronx-ny | Security Camera Installation | Harding Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -1060,7 +1060,7 @@ LIVE | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn He
 TODO | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-03T06:07Z factory | luminys-camera-installation-long-island | Luminys Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | luminys-camera-installation-hudson-valley | Luminys Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-03T06:07Z factory | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | reolink-camera-installation-long-island | Reolink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | reolink-camera-installation-hudson-valley | Reolink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | ring-camera-installation-nyc | Ring Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
