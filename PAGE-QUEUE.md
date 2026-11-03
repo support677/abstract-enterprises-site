@@ -613,7 +613,7 @@ LIVE | security-camera-installation-fieldston-bronx-ny | Security Camera Install
 LIVE | security-camera-installation-fordham-bronx-ny | Security Camera Installation | Fordham, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-foxhurst-bronx-ny | Security Camera Installation | Foxhurst, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-harding-park-bronx-ny | Security Camera Installation | Harding Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T09:07Z factory | security-camera-installation-highbridge-bronx-ny | Security Camera Installation | Highbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-highbridge-bronx-ny | Security Camera Installation | Highbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-hudson-hill-bronx-ny | Security Camera Installation | Hudson Hill, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-hunts-point-bronx-ny | Security Camera Installation | Hunts Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-jerome-park-bronx-ny | Security Camera Installation | Jerome Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
