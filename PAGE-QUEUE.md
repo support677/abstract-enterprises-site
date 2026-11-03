@@ -619,7 +619,7 @@ LIVE | security-camera-installation-hunts-point-bronx-ny | Security Camera Insta
 LIVE | security-camera-installation-jerome-park-bronx-ny | Security Camera Installation | Jerome Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-kingsbridge-bronx-ny | Security Camera Installation | Kingsbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T18:11Z factory | security-camera-installation-laconia-bronx-ny | Security Camera Installation | Laconia, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T18:11Z factory | security-camera-installation-locust-point-bronx-ny | Security Camera Installation | Locust Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-locust-point-bronx-ny | Security Camera Installation | Locust Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T18:11Z factory | security-camera-installation-longwood-bronx-ny | Security Camera Installation | Longwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-melrose-bronx-ny | Security Camera Installation | Melrose, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-morris-heights-bronx-ny | Security Camera Installation | Morris Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -1057,9 +1057,9 @@ REBUILD | tv-installation-williamsburg-brooklyn-ny | TV Installation | Williamsb
 LIVE | tv-installation-windsor-terrace-brooklyn-ny | TV Installation | Windsor Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-wingate-brooklyn-ny | TV Installation | Wingate, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn Heights, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T18:11Z factory | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-03T18:11Z factory | luminys-camera-installation-long-island | Luminys Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-03T18:11Z factory | luminys-camera-installation-hudson-valley | Luminys Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | luminys-camera-installation-long-island | Luminys Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | luminys-camera-installation-hudson-valley | Luminys Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-03T18:11Z factory | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-03T18:11Z factory | reolink-camera-installation-long-island | Reolink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-03T18:11Z factory | reolink-camera-installation-hudson-valley | Reolink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
