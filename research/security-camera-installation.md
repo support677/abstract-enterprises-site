@@ -1694,3 +1694,251 @@ I couldn't access Google People Also Ask, People Also Search For, AnswerThePubli
 **Hyperlocal outlets**
 - Found: Bronx Times, Norwood News, News 12 Bronx and Welcome2TheBronx (cited above).
 - Patch: only
+
+## Foxhurst, Bronx — /security-camera-installation-foxhurst-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My search tool can't show Google's People Also Ask boxes, related searches, Bing or DuckDuckGo results, or AnswerThePublic. I didn't record any of those, so I've marked them EMPTY. The questions at the end come from FAQ sections on other installers' websites, a lawyer Q&A site and Yelp, and each one is labelled with where it really came from. Several sources below are competitor sales pages, and I've marked where I couldn't check their claims.
+
+### Facts specific to security camera installation in Foxhurst
+- Buildings: mostly 1910s midrise brick apartment buildings, plus multifamily properties and co-ops, some of them income-restricted. Listings promote HDFC co-ops starting in the $100,000s. For cameras, this means co-op board approval in many buildings. — https://www.homes.com/bronx-ny/foxhurst-neighborhood/ ; https://www.homes.com/local-guide/bronx-ny/foxhurst-neighborhood/
+- Building age (census-style data): the median construction year is 1981. About 23.7% of homes were built before the 1940s, and 16.1% were added from 2000 to 2009 and 12.3% between 2010 and 2019. That means two different wiring situations: old masonry walk-ups and much newer rebuilt buildings. — https://www.point2homes.com/US/Neighborhood/NY/Bronx/Foxhurst-Demographics.html
+- Newer attached houses exist too, for example 1029 Kelly Street, a two-family home built in 1993. — https://www.homes.com/bronx-ny/foxhurst-neighborhood/
+- A competitor page (claims not checked) says the 1910s 4-5 story brick tenement walk-ups along Intervale Avenue, Simpson Street, Fox Street, Prospect Avenue, and Southern Boulevard make up most of the pre-war housing. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-foxhurst-bronx-ny
+- Same competitor page: the 2 and 5 trains run elevated above Westchester Avenue and Southern Boulevard. Their commercial page says cameras under the el have to deal with track shadow, glare bands and structure-borne vibration. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-foxhurst-bronx-ny ; https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-bronx
+- Local incident with surveillance footage: police released surveillance photos and video of three men after a 2016 killing on Southern Boulevard near Westchester Avenue in the Foxhurst section. The men allegedly entered the building around 3:10 a.m. — https://www.cbsnews.com/newyork/news/bronx-foxhurst-shooting-charges/
+- Licensing: under NY law no person shall engage in the business of installing, servicing or maintaining security or fire alarm systems unless licensed. The state rule covers a closed circuit television system (CCTV) if such system is used, either full-time or part-time, for the detection or monitoring of intrusion. — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/ ; https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- Owners installing on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- HPD and intercoms (secondary source): the Housing Maintenance Code requires landlords of multiple dwellings to maintain a working door intercom or buzzer system, and there is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- **Unverified, needs checking:** One installer blog says NYC Local Law 50 requires that residential buildings with security cameras in common areas notify residents. Another site cites "Local Law 3 of 2019." I could not confirm either in a primary source. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners ; https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Common areas vs. private areas: a landlord or co-op board can generally install cameras in lobbies, entryways, hallways, and other common spaces. — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Cautionary local story: a NYCHA resident at Parkside Houses in the Bronx received an eviction notice saying that she had breached her lease by installing the cameras. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- HPD violations / 311 complaints / DOB permits specific to Foxhurst cameras: EMPTY. One DOB record nearby: a 7-story, 14-unit building at 1012 Kelly St owned by FOXHURST GROUP LLC (listed as in Longwood). — https://therealdeal.com/new-research/topics/property/1012-kelly-street/
+- Landmarks (LPC): no Foxhurst historic district found. The nearby Longwood Historic District encompasses about three square blocks roughly bounded by Beck Street, Longwood, Leggett, and Prospect Avenues. — https://en.wikipedia.org/wiki/Longwood_Historic_District_(Bronx)
+- Reddit threads about cameras in Foxhurst: EMPTY.
+
+### History, streets, buildings, landmarks
+- Name: from Fox Street, which first appeared on 19th-century maps of the former Town of West Farms. — https://cityneighborhoods.nyc/foxhurst
+- A history blog says the Foxhurst Mansion was constructed sometime around 1836 to 1841, on a lot called Fox's Corners. A competitor page instead credits Henry Dyer Tiffany's estate; that conflict is unresolved. — https://hatchingcatnyc.com/2018/12/05/fox-foxhurst-bronx/
+- How it developed: by the 1890s, the grid of Prospect Avenue, Intervale Avenue, and Fox Street was fully surveyed. Crotona Park (1888) and the White Plains Road Line (1904) made the area accessible. — https://cityneighborhoods.nyc/foxhurst
+- Boundaries, one version: Sheridan Boulevard to the east, the Bruckner Expressway to the southeast, East 163rd Street and Prospect Avenue to the south, Crotona Park to the northwest, Louis Niñé Boulevard to the northeast, and Freeman Street to the north. Boundaries vary by source. — https://cityneighborhoods.nyc/foxhurst
+- Main commercial street: Southern Boulevard became the neighborhood's commercial artery. — https://cityneighborhoods.nyc/foxhurst
+- Transit: the Whitlock Avenue 6 station is at Whitlock Avenue and Westchester Avenue in the Foxhurst neighborhood. — https://en.wikipedia.org/wiki/Whitlock_Avenue_station
+- Who lived here: as white ethnic families left for the suburbs in the 1950s, Puerto Rican migrants settled in Foxhurst and neighboring Longwood. — https://cityneighborhoods.nyc/foxhurst
+- Fires of the 1970s: nearly 70 percent of the housing stock in Community District 2 – Hunts Point and Longwood – was destroyed by fire. — https://www.motthavenherald.com/2015/05/28/watching-the-block-three-women-look-back-and-ahead-on-kelly-street-2/
+- Banana Kelly: residents "liberated" three buildings in 1978 to begin rehabilitation through "sweat equity" on Kelly Street. — https://www.bkcianyc.org/about/history/
+- Police: the 41st Precinct's old Simpson Street station earned the nickname "Fort Apache". In 1993, the NYPD moved the precinct to its current Longwood Avenue facility. — https://en.wikipedia.org/wiki/41st_Precinct,_New_York_City_Police_Department
+- Lyman Place / Hetty Fox: Fox started her own 'Play Street' in 1977. The block was later co-named "Hetty Fox Lane." Some sources place Lyman Place in Morrisania rather than Foxhurst. — https://www.bxtimes.com/bronx-activist-hetty-fox-still-helping-after-45-years/ ; https://www.cbsnews.com/amp/newyork/news/a-look-back-our-block-south-bronx/
+- Parks and location: south of the 112-acre Crotona Park, Foxhurst sits just west of the Bronx River and Concrete Plant Park. — https://www.homes.com/local-guide/bronx-ny/foxhurst-neighborhood/
+- Local businesses: Parrilla Azteca Cibaena Bar & Grill on Westchester Ave; Brianna's Pizzeria and Spanish Food on Prospect Ave. — https://www.homes.com/local-guide/bronx-ny/foxhurst-neighborhood/
+- Local Reddit discussion: EMPTY. Patch / BKReader coverage: EMPTY.
+
+### Market and cost context
+- Published NYC cost ranges disagree. Angi's average is $1,509, with ranges from $797 to $2,222. Another source puts a 4-camera system at between $1,200 and $3,000. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york ; https://nyhls.com/blog/security-camera-installation-cost
+- One competitor advertises pricing from $1,800. — https://senecasecurity.com/security-cameras-bronx/
+- Yelp praise for local installers: "They installed security cameras in my home they did a very good job and the price was excellent" (Computer Settings). Yelp complaints: EMPTY, except a 1.0 rating listed for ADT (31 reviews). — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY ; https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Castle+Hill%2C+Bronx%2C+NY
+
+### Questions people ask — Security Camera Installation in Foxhurst
+- PAA (Google): EMPTY · Google related searches: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo: EMPTY · Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Ask a Lawyer (real user question) — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Can my landlord install security cameras in my apartment building in New York? — legal-info site FAQ — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Can my landlord put cameras in the hallways or laundry rooms? / Do landlords have to tell tenants before installing cameras? — tenant-rights site FAQ — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Do I have to tell my tenants about security cameras in common areas? — installer blog FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can my landlord watch my security cameras? / Do I need internet for security cameras? — installer blog FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Do you need a license to install security cameras in New York? — installer blog FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- How much does security camera installation cost in the Bronx, NY? / What should I look for when hiring a security camera installer in the Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- How much does it cost to install a 4-camera security system in NYC? / What is the labor cost for CCTV installation in NYC? — installer blog FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How long does security camera installation take? / Do you offer free estimates? / What types of properties do you install security cameras for? — Bronx installer FAQ — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- How quickly can I get a quote for a Bronx security installation? — competitor FAQ — https://www.paxsecurity.com/security-installation-bronx
+- What did people search for similar to cctv security camera installation in Bronx? (answer shown: "Security Camera Installation") — Yelp — https://www.yelp.com/search?find_desc=CCTV+Security+Camera+Installation&find_loc=Bronx%2C+NY
+
+## Harding Park, Bronx — /security-camera-installation-harding-park-bronx-ny (factory research, 2026-11-03)
+
+**Note on method:** I couldn't capture Google People Also Ask boxes, related searches, or Bing/DuckDuckGo result pages, and my searches turned up no Reddit threads. Those fields are marked EMPTY. Where questions came from FAQ sections on websites, they're labeled that way, not as PAA.
+
+**Service-specific facts (the angles other pages won't have)**
+
+- **Building type:** detached, self-built 1920s bungalows. Harding Park is a waterfront enclave of detached cottages and bungalows, many still dating from the 1920s, built by carpenters, dockworkers and tradesman, who pooled their resources to build simple cottages — https://cityneighborhoods.nyc/harding-park ; https://forgotten-ny.com/2026/04/east-river-bronx-parks/
+- **Non-standard construction:** in 1982 the city deeded the land to the homeowners association and essentially grandfathered the noncomplying construction, more or less exempting it from zoning rules and building codes. One renovating architect worked to avoid an Alteration Type 1 filing, which would have sacrificed grandfathered existing conditions — https://rachelfrankelarch.com/harding-park/
+- **Odd building footprints:** many of Harding Park's beach bungalows were renovated and expanded, some to almost double their original size, and several of the bungalows appear to be fused together into a sprawling mega-bungalow — https://fordhamram.com/2015/09/23/a-lens-into-the-past-harding-park ; https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- **City planning view:** Harding Park is characterized by a unique variety of lot sizes and construction types. — https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/harding-park.page
+- **Addressing and finding the house:** it's the maze of little unnamed streets and bungalows found along Bronx River, Leland, Gildersleeve and Cornell Avenues. Some streets are so tiny, they don't even have names. Many addresses read like "726 Harding Park, Bronx, NY 10473" — https://forgotten-ny.com/2006/02/harding-park-bronx/ ; https://citylore.org/... ; https://www.redfin.com/sitemap/NY/10473/street/Harding+Park
+- **Lettered lanes:** there are lettered lanes, e.g. "U Street Bungalows" and a one-story bungalow at Underhill and Q Street — https://www.flickr.com/photos/jag9889/albums/72157631104359854/ ; https://www.bxtimes.com/updated-bronx-starts-digging-out-from-hurricane-sandy/
+- **Flood risk (affects where the recorder and switch go):** Harding Park is vulnerable to a variety of flood hazards, including significant inundation and wave action from coastal storm surge, and ponding in streets and yards from rainfall events. Flood risk in Harding Park is further exacerbated by the limited stormwater infrastructure. — https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/harding-park.page
+- **Flood codes:** DOB flood-resistant construction standards require certain buildings to elevate the lowest floor, as well as mechanical equipment, above the Design Flood Elevation (DFE) — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/bronx-cb09-050817.pdf
+- **Flood forecast:** This year 42.2% of properties in Harding Park have risk of flooding. In 30 years 58.8% of properties in Harding Park will have risk of flooding. — https://firststreet.org/neighborhood/harding-park-ny/190668_fsid/flood
+- **Sandy (basements and power):** basements were apparently flooded, judging by the belongings and refuse seen in backyards. One resident lost power around 8:30 p.m. Monday and still had no electricity as of late Tuesday afternoon. Floodwater ripped her shed open — https://citylimits.org/bronx-bruised-by-sandys-power/ ; http://bronxink.org/2012/10/30/... ; https://www.bxtimes.com/updated-bronx-starts-digging-out-from-hurricane-sandy/
+- **Flood zones expanded:** after Sandy, Shoreline properties in Country Club, Spencer Estates, Edgewater Park, Silver Beach, Clason Point and Harding Park all saw flood zones added or expanded. — https://www.bxtimes.com/fema-releases-new-flood-zone-maps-for-bronx/
+- **Install implications (my inference, not sourced):** put the NVR/DVR, PoE switch and UPS above flood level, not in basements or sheds. Plan battery or cellular backup for outages. Use corrosion-resistant housings because of salt air. Check whether the homeowners association needs to approve exterior work.
+- **Ownership:** In 1982 the Harding Park residents in the southeast Bronx became members of the Harding Park Homeowners Association, the first cooperatively owned low and moderate-income community in the city. The association meets at 1820 Gildersleeve Ave. — https://www.nycgovparks.org/parks/harding-park/history ; https://www.bxtimes.com/harding-park-renovations/
+- **Local camera anecdote:** retired NYPD detective Elbin Mena has motion-sensor cameras, and when he reviewed the video footage, he was able to identify—and thank—his neighbor for shoveling his walk — https://www.rd.com/nicestplaces/the-nicest-place-in-new-york-harding-park-in-the-bronx/
+- **Vehicle crime (cameras on cars parked on narrow lanes):** Two precincts, the 43rd and 49th, accounted for nearly one-third of auto accessory thefts. These crimes typically occur overnight. The area is patrolled by the NYPD's 43rd Precinct. — https://www.vitalcitynyc.org/the-bronxs-crime-crisis/ ; https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- **Car theft ring:** a Bronx DA case charged 16 people with 252 thefts of cars, tires, rims and catalytic converters. Eight were in the 43rd Precinct — https://www.norwoodnews.org/update-bronx-da-police-commissioner-16-charged-with-252-thefts-of-cars-tires-rims-catalytic-converters/
+- **Clason Point Park (older story, about 2011):** residents raised quality-of-life complaints, and the 43rd Precinct cited dumping trash, and hanging out near the entrance to the park, which is located at the end of Soundview Avenue at the East River — https://www.bxtimes.com/clason-point-residents-express-concern-about-waterfront-park/
+- **Legal: backyard filming.** New York section 52-a focuses on an adjoining-property device, defined backyard recreation, lack of written consent, and specified intent. This matters for camera angles between close-built cottages — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- **Legal: audio.** New York is a "one-party" consent state, meaning permission is required from at least one person being recorded with audio. Not obtaining permission violates Section 250.05 of the New York Penal Law. — https://news.yahoo.com/neighbor-film-own-property-york-070106669.html
+- **Licensing:** That Article 6-D Security or Fire Alarm Installer credential is administered by the New York Department of State (DOS). — https://contractorlicenserequirements.com/new-york/low-voltage-license-requirements/
+- **Permits:** For most residential camera installations, no permit is required. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- **LPC rules:** the LPC Permit Guidebook has a section on "Installing Security Cameras" (11.7). I found no evidence that Harding Park is in a landmark district; check the city's landmarks map — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- **HPD violations:** EMPTY
+- **311 complaints:** EMPTY
+- **DOB permits:** EMPTY
+- **Reddit threads on cameras in Harding Park:** EMPTY
+
+**History**
+
+- **Earliest residents:** The first inhabitants of the area were the Siwanoy, Native Americans, who belonged to the Wappinger Federation. — https://www.nycgovparks.org/parks/harding-park/history
+- **Resort era:** By 1900 the Higgs family maintained a beach and amusement area on the western end of Clason Point, and in the early 1920s Thomas Higgs, who owned about 100 acres of beachfront property, began leasing tents to visitors — https://forgotten-ny.com/2006/02/harding-park-bronx/
+- **Fairyland Park:** it contained dance halls, roller coasters, picnic groves and baseball games and was called "The Coney Island of the Bronx" — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- **Year-round homes:** After World War II, many bungalow dwellers decided to deal with a housing shortage by converting their summer homes into year-round residencies. — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- **Robert Moses fight:** In the 1950s, Moses, invoking Title 1, declared the entire Harding Park community a slum, and community opposition defeated the plan — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- **Co-op purchase:** In 1981, they sold the land to the Homeowners Association of Harding Park for $700,000. Sources disagree on the year and price: one says 1982 and $1,000,000 — https://theneighborhoods.substack.com/... ; https://cityneighborhoods.nyc/harding-park
+
+**Streets and corridors**
+
+- **Entry streets:** Leland Avenue along Soundview Park leads into the heart of Harding Park. Bronx River Avenue curves around the bungalows — https://forgotten-ny.com/2006/02/harding-park-bronx/
+- **Main road:** Soundview Avenue is the primary thoroughfare through Clason Point. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- **Commercial:** EMPTY. The only business I found was Marvilla's Bar & Lounge on Soundview Ave — https://toycritic.medium.com/nyc-ferry-restaurant-tour-part-xv-marvillas-bar-lounge-soundview-route-to-clason-point-f3caa4da36ac
+- **Zoning:** a city rezoning to R4A/R3A was meant to keep development consistent with the existing context of one- and two-family detached homes — https://www.nyc.gov/assets/planning/download/pdf/plans/harding-park/harding_park.pdf
+
+**Building stock**
+
+- **Size:** about 250 homes on 20 acres. Reader's Digest says the homes were all built in the 1920s and are all cottages, bungalows and ranch style homes — https://theneighborhoods.substack.com/... ; https://www.rd.com/nicestplaces/...
+- **Rowhouses, walk-ups, high-rises:** EMPTY
+- **Landmark district:** EMPTY
+
+**Parks, landmarks and what it's known for**
+
+- **Harding Park (NYC Parks):** the small park is getting $11.4 million for new playground equipment, spray showers, security lighting, basketball courts. It sits at Bolton Ave. O'Brien Ave. and G St. — https://www.bxtimes.com/harding-park-renovations/ ; https://agreatbigcity.com/parks/harding-park
+- **Ferry:** the Soundview ferry landing at Clason Point Park opened as part of the Soundview line in August 2018. — https://en.wikipedia.org/wiki/List_of_NYC_Ferry_stops
+- **Nickname:** Harding Park is unofficially known as "Little Puerto Rico" — https://citylore.org/...
+- **Character:** narrow hydrangea-lined streets make it feel more like Cape Cod than the Bronx — https://theneighborhoods.substack.com/...
+
+**Pricing context (citywide, not Harding Park specific)**
+
+- **Angi:** Security camera installation costs in New York, NY, cost $1,509 on average, with average price ranges from $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- **Recurring fees:** Monitoring and video storage add $35 to $80 a month. — https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+
+**Yelp and outlets**
+
+- **Yelp praise:** "The installation for the security cameras was beyond impressive and flawless." (True V, a Forest Hills company that serves the Bronx) — https://www.yelp.com/search?find_desc=Surveillance+Camera+Installation&find_loc=Bronx%2C+NY
+- **Yelp praise:** "They installed security cameras in my home they did a very good job and the price was excellent..." (Computer Settings) — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- **Yelp complaints:** EMPTY
+- **Bronx Times:** has a Harding Park tag — https://www.bxtimes.com/category/news/neighborhoods/harding-park/
+- **Patch:** EMPTY
+- **BKReader:** EMPTY (it covers Brooklyn, not the Bronx)
+- **Reddit (r/Bronx, r/AskNYC, r/homesecurity):** EMPTY
+
+### Questions people ask — Security Camera Installation in Harding Park
+
+- **PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit:** EMPTY (not captured)
+- Do I need a license to install security cameras in NYC? — website FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do you need an electrician to install security cameras? — website FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- What is the average labor cost to install security cameras? — website FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does it cost to install a 4-camera security system in NYC? — website FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does CCTV installation cost in NYC in 2026? — website FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Do I need a permit to install security cameras in my NYC building? — website FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can tenants install their own cameras? — website FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can my security camera record my neighbor's property? — website FAQ — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- Am I legally allowed to point my own camera toward my neighbor's property? — website FAQ — https://www.eufy.com/blogs/security-camera/can-neighbors-have-security-cameras-towards-your-house
+- Can my neighbor film me on my own property? — news article — https://news.yahoo.com/neighbor-film-own-property-york-070106669.html
+- What if a camera points toward my window? — website FAQ — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- Do security cameras need a monthly subscription? — website FAQ — https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+- What is the best home security system in Bronx? — website FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- Can I install a security system by myself? — website FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- How long does a commercial camera installation take? — website FAQ — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+- What are people saying about security systems services in Bronx, NY? — Yelp — https
+
+## Highbridge, Bronx — /security-camera-installation-highbridge-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My only tool was a general web search. I couldn't open Google's People Also Ask boxes, Bing, DuckDuckGo, AnswerThePublic, Patch or Reddit directly, so those slots are marked EMPTY. I didn't find a single Reddit thread about cameras in Highbridge. Several legal and pricing claims below come from security companies selling the service, and I've marked those as unverified.
+
+### 1. Camera-installation facts specific to Highbridge
+
+**Building types and wiring**
+- Most of the neighborhood is townhouses and 5 and 6-story apartment buildings, including numerous Art Deco landmarks built by the developer Bernard J. Noonan and the architects Horace Ginsberg and Marvin Fine. In practice that means masonry walk-ups and elevator buildings with courtyards — https://hdc.org/borough/highbridge/
+- One Bronx installer lists Highbridge with Belmont, Tremont and Morrisania as three-to-six-story walk-ups — vestibule, lobby, every stair-hall landing, and back lot on one NVR. This is vendor marketing — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- The same vendor names Highbridge among pre-war walk-up areas with plaster-and-lath walls, undersized risers, original conduit. Vendor claim — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Noonan Plaza is divided into eight, interconnected, six-to-eight-story sections, each with elevators, exterior light courts and interior garden courts. That makes it a multi-entry, courtyard-heavy layout to cover — https://www.cityrealty.com/nyc/market-insight/carters-view/carters-perch/haffen-building-noonan-plaza-both-the-bronx-declared-landmarks/1836
+- The neighborhood sits on a ridge that rises over 100 feet above the Harlem River, and stair streets connect parts of the neighborhood at different elevations. Expect sloped sites and grade changes for exterior cameras — https://hcdcny.com/the-community/ ; https://en.wikipedia.org/wiki/Highbridge,_Bronx
+- New construction already ships with cameras. Saint Francis Commons at 1544 Shakespeare Ave (7 stories, 110 units) lists 24-hour security cameras with video monitoring — https://hcdcny.com/
+- A 31-story tower at 1387 University Ave will bring 422 units of affordable, supportive, and transitional housing to the Highbridge neighborhood, with completion anticipated in 2027. — https://www.hgar.com/highbridge-development-continues-to-rise-as-bronx-affordable-housing-project-advances
+
+**Entry systems and intercoms in local news**
+- At 101 West 165th St, tenants objected after the guard was cut from 24/7. They said a new smart video intercom, that management claims will enhance security, is no replacement for a round-the-clock guard. — https://abc7ny.com/post/bronx-apartment-building-problems-have-tenants-concerned-crime-rodents-broken-elevators/15134408/
+- A Highbridge tenant of 23 years claims her apartment has mold, her oven does not work, the building's intercom is broken and the mailboxes are damaged. — https://bronx.news12.com/no-hot-water-broken-intercom-mice-and-mold-plague-highbridge-apartment-building
+- A fire-damaged Nelson Avenue building had over 250 open code violations with Housing Preservation and Development (HPD), and a tenant said "Our doors are broken" — https://www.bxtimes.com/tenants-burned-highbridge-building-neglected/
+
+**City data (HPD, 311, DOB)**
+- Bronx Community District 4, which includes neighborhoods like Mount Eden, Highbridge and Concourse Village, had over 50,000 violations in the past fiscal year, including 18,000 still open. — https://citylimits.org/housing-violations-in-nyc-jumped-24-this-year-we-mapped-them-by-neighborhood/
+- After the 2022 Twin Parks fire, HPD issued 73,325 violations for self-closing doors in fiscal year 2024, up from 49,897 the year prior. This matters for drilling cables through door frames and fire-rated walls — https://citylimits.org/housing-violations-in-nyc-jumped-24-this-year-we-mapped-them-by-neighborhood/
+- Landlords must keep intercoms working. A broken one is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Buildings with fewer than eight apartments are not covered by the intercom requirement, though the self-closing and self-locking door requirement still applies. — same URL
+- Cameras themselves aren't required: There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- **Conflicting / unverified:** Some vendors say under NYC Local Law 50 buildings must post notice of common-area cameras (https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords). Another site cites NYC Local Law 3 of 2019 – Security Cameras in Residential Buildings (https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas). Neither claim is confirmed by a city source. Check before publishing.
+- **Unverified vendor claim:** NYC requires licensed electricians for wired security camera installation. Another vendor says most standard camera installations don't need a separate permit. Verify with DOB — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/ ; https://www.nycittech.com/blog/cctv-installation-cost-nyc-security-cameras/
+- Highbridge-specific 311 complaint counts: EMPTY. One aggregator says it draws on 311 complaint density, HPD violation patterns, and building age data, but lists only heat and pest issues — https://www.buildinghealthx.com/locations/highbridge
+- DOB permits for camera work: EMPTY. New-building filings exist, such as a seven-story mixed-use building at 1047 Ogden Avenue — https://newyorkyimby.com/2021/09/permits-filed-for-1047-ogden-avenue-in-highbridge-the-bronx.html
+
+**Landmarks rules (LPC)**
+- Noonan Plaza (105-149 W 168th St) is an individual landmark, Block 2518, Lot 1. Noonan Plaza Apartments, in the Highbridge section of the Bronx, is one of the most impressive Art Deco style apartment complexes in the borough. Exterior camera mounts likely need LPC review, but I didn't find the specific LPC rule — http://s-media.nyc.gov/agencies/lpc/lp/2400.pdf
+- Park Plaza Apartments, 1005 Jerome Ave: Designated NYCL: May 12, 1981 — https://en.wikipedia.org/wiki/Park_Plaza_Apartments_(Bronx)
+- PS 11 at 1257 Ogden Ave was designated a New York City Landmark in 1981. — https://en.wikipedia.org/wiki/PS_11_(Bronx)
+- The High Bridge has been a designated individual landmark since November 10, 1970 — https://hdc.org/borough/highbridge/
+- Historic district in Highbridge: EMPTY (none found).
+
+**Local news showing why cameras matter on specific blocks**
+- A suspect followed a 44-year-old woman into the vestibule of a residential building near Ogden Avenue in Highbridge just before 5:30 a.m. (older article) — https://www.cbsnews.com/newyork/news/cops-man-steals-womans-purse-drags-her-across-the-ground-in-highbridge-section-of-the-bronx
+- April 2026: police say a suspect approached the 50-year-old victim inside a building near West 164th Street and Ogden Avenue around 7 p.m. on April 17. — https://bronx.news12.com/2026/05/02/downtown-brooklyn-man-arrested-in-highbridge-robbery-rape-case/2yZqFBzx8hdn9s7plGF05N
+- July–August 2026: a home invasion near West 168th Street and Ogden Avenue in the Highbridge section of the Bronx. — https://abc7ny.com/post/bronx-home-invasion-woman-tied-blindfolded-armed-suspects-steal-343k-valuables/19615335/
+- May 2026, shooting at 1235 Grand Concourse: surveillance video showed the victims running back into the building and captured the shooter and his friends running away — https://bronx.news12.com/2026/05/27/2-men-woman-injured-when-fight-turns-violent-in-highbridge-shooting/OQLTCJx1alfjk4I08DXHD
+- June 2026: gunfire on West 168th Street between Woodycrest Avenue and Nelson Avenue, an area surrounded by a school, a mosque and a homeless shelter. — https://bronx.news12.com/2026/06/20/gunfire-erupts-outside-highbridge-mosque-2-persons-of-interest-in-custody/uoxPOd7971R8CKS6gJyNU
+- September 2026: a fatal shooting outside 1440 University Ave. just before 11 p.m. on Sept. 7. — https://bronx.news12.com/2026/10/05/man-indicted-on-murder-charge-in-deadly-highbridge-triple-shooting/60FJXPTJlz7tbMLA3nFmOT
+- October 2026: a fatal stabbing near 926 Sedgwick Avenue in the Highbridge area of the Bronx. — https://pix11.com/news/local-news/man-dies-after-being-stabbed-in-the-bronx-nypd/
+- March 2026: a drug raid at 1311 Merriam Ave, where three of the men tried to flee out of the fire escape. Fire escapes are a camera-coverage point — https://bronx.news12.com/2026/03/25/6-arrested-after-pounds-of-fentanyl-and-heroin-found-in-highbridge-apartment/4hAiiN5RKwzlWXSKAIqyqi
+- Supportive housing with access control: Highbridge Overlook at 240 W 167th St hires guards to maintain access control and traffic inside facilities — https://www.careerbuilder.com/job-details/part-time-security-guard-highbridge-overlook-supportive-housing-program-bronx-ny--7e70d7cd-e67c-4fe1-90f3-e91b47aa51f9
+- Package theft: a vendor calls it the #1 complaint in Bronx buildings. Vendor claim, not city data — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+
+**Businesses and blocks where cameras matter**
+- Storefronts at 1005-11 Ogden Ave: each unit is a one-story storefront facing southeast onto Ogden Avenue. — http://heightsre.com/852565250071d864/mobilelist/c6566007777b190785257d7900784fd6
+- Local retail named by Highbridge CDC includes Jumbo Supermarket Place, 1384 Nelson Avenue, Pioneer Supermarket, 107 Featherbed Lane and Bravo Supermarket, 156 West 170th Street — https://hcdcny.com/the-community/
+- A recent headline: Two men accused of punching 68-year-old inside Highbridge supermarket — https://bronx.news12.com/2026/10/05/man-indicted-on-murder-charge-in-deadly-highbridge-triple-shooting/60FJXPTJlz7tbMLA3nFmOT
+
+### 2. Neighborhood background
+
+**History and development**
+- In 1639, the Dutch West India Company purchased from the Indians a tract of land called Keskeskeck that included what would centuries later become Highbridge. — https://cuny.manifoldapp.org/read/the-history-of-highbridge-054c5d6c-f3d1-4d28-93a9-08ccde31695e
+- In the late 19th century, however, it grew into a railroad suburb, and many estates were subdivided for urban development. — same URL
+- With the annexation of the western Bronx into New York City in 1874 and the extension of rapid transit northward, Highbridge shifted from semi-rural suburb to urban neighborhood. — https://cityneighborhoods.nyc/highbridge
+- Highbridge was originally an Irish-American neighborhood from its initial development in the 1840s to the 1960s. — https://thefordhamram.com/culture/highbridge-the-heart-and-soul-of-the-south-bronx/
+- Noonan Plaza, finished in 1931, attracted many upwardly mobile, second-generation East European Jewish immigrants from the crowded buildings and streets of the Lower East Side. — https://www.cityrealty.com/nyc/market-insight/carters-view/carters-perch/haffen-building-noonan-plaza-both-the-bronx-declared-landmarks/1836
+- Later decline: Arson, abandonment, and poverty scarred the neighborhood, and the once-proud apartment buildings fell into disrepair. — https://cityneighborhoods.nyc/highbridge
+- Street names come from estate families: Ogden Avenue and Boscobel Place honor William B. Ogden, Merriam Avenue honors Francis W. Merriam, and Anderson Avenue and Woodycrest Avenue honor the Anderson family. — https://bronxtreeservices.com/highbridge-tree-services/
+
+**Boundaries, main streets and commercial corridors**
+- Boundaries: the Cross-Bronx Expressway to the north, Jerome Avenue to the east, Macombs Dam Bridge to the south, and the Harlem River to the west. — https://hcdcny.com/the-community/
+- 167th Street and Ogden Avenue was the commercial center of the neighborhood. — https://cuny.manifoldapp.org/read/the-history-of-highbridge-054c5d6c-f3d1-4d28-93a9-08ccde31695e
+- NYC DOT calls Ogden Ave a neighborhood commercial corridor and also studied the W 170th St corridor — https://www.nyc.gov/html/dot/downloads/pdf/2014-04-02-high-bridge-bx-cb4.pdf
+- Anderson Avenue and Ogden Avenue became lined with ornate facades, cornices, and courtyard entrances that still characterize the neighborhood's architectural rhythm today. — https://cityneighborhoods.nyc/highbridge
+
+**Building stock**
+- For the most part, even with new construction, Highbridge is still a neighborhood of corner bodegas and mid-rise Art Deco apartment buildings. Some nineteenth-century single-family homes remain — https://cuny.manifoldapp.org/read/shrine20221222-21808-lbicdo
+- New mid-rise infill on Ogden Ave, for example a four-story mixed-use building at 1014 Ogden Avenue — https://newyorkyimby.com/2024/02/permits-filed-for-1014-ogden-avenue-in-highbridge-the-bronx.html
+- Co-ops and high-rises specific to Highbridge: EMPTY. CBS mentions a 26-floor building in the Highbridge section — https://www.cbsnews.com/newyork/tag/highbridge
+
+**Parks and landmarks**
+- The High Bridge is now New York City's oldest bridge, and it has never had vehicular traffic and never will. — https://aqueduct.org/venue/high-bridge/
+- Bridge Park: In May 2015, the 0.5-mile (0.80 km) strip along the Bronx side of Harlem River opened to the public as Bridge Park. — https://en.wikipedia.org/wiki/Bridge_Park_(Bronx)
+- The old Carmelite Monastery at University Ave and W 170th St is now home to Samaritan Village, a drug rehab center. — https://forgotten-ny.com/2010/03/highbridge-heights-bronx/
+
+**What it's known for**
+- Famous residents: Tracey Morgan, Cardi B and A Boogie wit da Hoodie. The same source places Yankee Stadium in the neighborhood — https://thefordhamram.com/culture/highbridge-the-heart-and-soul-of-the-south-bronx/
+- Housing pressure: as of 2017, rents in Highbridge have risen more than any other neighborhood in New York City, at a rate of 22%. — https://en.wikipedia.org/wiki/Highbridge,_Bronx
+
+**Other sources checked**
+- Local Reddit discussion: EMPTY.
+- An old Tripadvisor thread warns of people hanging around quite likely in the corridors of your building which will likely have limited security. — https://www.tripadvisor.com/ShowTopic-g60763-i5-k10637774-o20-Safety_questions_about_staying_in_Highbridge_Bronx-New_York_City_New_York.html
+- Competitors already have Highbridge camera pages: https://momolocallocksmith.com/security-cameras/bronx-ny/highbridge/ ; https://nycsecuritycamera.com/bronx/highbridge/ ; https://www.abstractenterprisessecuritysystems.com/intercom-installation-highbridge-bronx-ny
+
+**Things that change how the install is done**
+- Common-area rules (vendor summary): Cameras may never go inside a unit, and hallway cameras must be aimed so they don't see into an apartment when the door opens. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- Audio: recording audio is not legal without consent under New York law. Secondary source; verify — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-
