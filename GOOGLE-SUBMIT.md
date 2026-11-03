@@ -2860,3 +2860,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-fairmount-bronx-ny | QUEUED
 2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-foxhurst-bronx-ny | QUEUED
 2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-edgewater-park-bronx-ny | QUEUED
+2026-11-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-harding-park-bronx-ny | QUEUED
