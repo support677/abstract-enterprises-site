@@ -2325,3 +2325,373 @@ Questions found on web pages:
 - AnswerThePublic: EMPTY
 - Bing-only or DuckDuckGo-only questions: EMPTY
 - Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY. No matching threads came up.
+
+## Laconia, Bronx — /security-camera-installation-laconia-bronx-ny (factory research, 2026-11-03)
+
+**Note on method:** My search tool doesn't return Google, Bing or DuckDuckGo results pages, so I couldn't record People Also Ask, People Also Search For or Answer the Public boxes. Those are marked EMPTY. I found no Reddit threads, HPD violation data, 311 data or LPC rules specific to Laconia. Lines marked *Inference* are my reasoning, not something a source says.
+
+### Facts specific to security camera installation in Laconia
+- Building stock: detached brick homes, two- and three-family houses, and low-rise apartments, many built between the 1920s and 1950s — https://cityneighborhoods.nyc/laconia
+- Another source describes entire blocks of duplexes next to quadruplexes, with a scattering of single-family homes. — https://www.neighborhoods.com/laconia-bronx-ny
+- Sources disagree on housing type. NeighborhoodScout says housing is mostly apartment complexes/high-rise apartments and townhomes. Homes.com calls it a quaint community of single family homes. — https://www.neighborhoodscout.com/ny/bronx/laconia ; https://www.homes.com/local-guide/bronx-ny/laconia-neighborhood/
+- Housing age (city-data): 940 1950 to 1959 · 298 1940 to 1949 · 748 1939 or earlier, plus 445 units from 2010–2019. — https://www.city-data.com/neighborhood/Laconia-Bronx-NY.html
+- Typical listing: 2450 Laconia Ave is a classic 2-family brick home built in 1940. *Inference:* expect to drill brick or masonry and to give each unit its own camera view. — https://www.zillow.com/homedetails/2450-Laconia-Ave-Bronx-NY-10469/29821002_zpid/
+- Basement units in nearby Pelham Gardens: Many private homes have basement studio apartments but are classified as one family. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- Package theft next door: A Pelham Gardens resident caught home video of a person stealing his packages off his front porch. A total of four packages have been stolen from Roberto Torres this holiday season. — https://bronx.news12.com/caught-on-camera-porch-pirates-strike-again-this-holiday-season
+- Even after asking drivers to use his back gate, "They still leave them at the front door." *Inference:* covering the front porch or stoop matters most. — same URL
+- New DOB permit filing: a 13-story mixed-use building at 3374 Boston Road in Laconia, with 97 residences and 32 open parking spaces, and 23 enclosed parking spaces. — https://newyorkyimby.com/2026/04/permits-filed-for-3374-boston-road-in-laconia-the-bronx.html
+- New DOB permit filing: a six-story mixed-use building at 3365 Wilson Avenue in Laconia, with 60 residences and a cellar and 28 enclosed parking spaces. A related YIMBY post covers 3038 Wilson Avenue (July 20, 2026). — https://newyorkyimby.com/2026/09/permits-filed-for-3365-wilson-avenue-in-laconia-the-bronx.html
+- Eastchester Gardens (NYCHA): 1130 BURKE AVENUE. Converted under RAD/PACT on March 27, 2025; status Under Construction. — https://nycharealtalk.org/lots/2045810001/
+- The Eastchester Gardens renovation is a $406 million capital repair and renovation program at the 10-building Eastchester Gardens apartment complex. The scope includes Security improvements. — https://theconstructionbroadsheet.com/nyc-housing-complex-getting-m-in-renovations-repairs-p1622-117.htm
+- Earlier, residents lobbied for city funding for security cameras and a revamped door entry system called "layered access." — https://www.bxtimes.com/eastchester-gardens-eyes-eyes/
+- In a past burglary at the Eastchester Gardens Community Center, the thieves broke a window to the center's computer room, knocked down security cameras and ripped out a phone line. *Inference:* vandal-resistant mounts and protected cabling are worth mentioning. — https://www.bxtimes.com/eastchester-gardens-cc-robbed/
+- NYCHA cameras: more than 20,000 cameras across indoor and outdoor common spaces. The NYPD is linking NYCHA camera feeds to its own system over Big Apple Connect. — https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance
+- Tenant risk: a Bronx public housing tenant got an eviction notice saying that she had breached her lease by installing the cameras at Parkside Houses. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- Commercial fire: a commercial fire at 1234 East Gunhill Road in the Laconia section of the East Bronx on Friday, March 6, 2026 damaged several small businesses. — https://www.norwoodnews.org/update-laconia-commercial-fire-damages-several-small-businesses-on-east-gunhill-road/
+- Precinct: 47th Precinct of the NYPD, located at 4111 Laconia Avenue. In 2025: 13,640 reported crimes, 6,083 arrests, and 33 shooting incidents. Crime prevention line: (718) 920-1238. — https://bkcb6.app/precinct/47/
+- Street video in the news: The shooting happened just after 8 p.m. Saturday on Laconia Avenue in the Edenwald section, just two blocks away from the 47th Police Precinct. This was on the northern stretch of Laconia Ave, outside the neighborhood itself. — https://abc7ny.com/archive/9331242/
+- Gun Hill Road (5) station is one of the only five stations without a booth staffed around the clock. — https://en.wikipedia.org/wiki/Gun_Hill_Road_station_(IRT_Dyre_Avenue_Line)
+- State license: If you are unlicensed and installing security systems (which INCLUDE security cameras, CCTV, access control systems, etc.) or fire alarm systems in the State of New York, you may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- License fees: $200 - Initial Application (License without examination) - $185 - Initial Application (License after examination) — https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- DOB permits: If a contractor is pulling permits through the NYC Department of Buildings, the work must be performed or supervised by a licensed master electrician or a licensed low-voltage contractor — https://senecasecurity.com/learn/how-to-vet-security-installation-companies-nyc-metro/
+- Privacy: A "reasonable expectation of privacy" violation would extend to a landlord installing a camera in a tenant's living room. — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+- Common areas: you need your landlord's permission to install any equipment in the common areas of your building — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- HPD violations, 311 complaints: EMPTY
+- LPC historic district or landmark rules: EMPTY (no Laconia district found)
+
+### History and development
+- The name: a mellifluous sounding made-up name of a development founded in the 1880s that is long gone. — https://forgotten-ny.com/2015/02/gun-hill-road-part-one/
+- Between 1920 and 1940, Laconia evolved into a model of Bronx middle-class aspiration. The neighborhood attracted a mix of Italian-American, Jewish, and Irish families — https://cityneighborhoods.nyc/laconia
+- Laconia remained comparatively stable through the 1970s. — same URL
+- Wikipedia treats Laconia as the northern part of Allerton: It consists of two subsections called Bronxwood and Laconia. Laconia includes the Eastchester Houses. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- Boundaries conflict. Wikipedia: Boston Rd, E Gun Hill Rd, the Dyre Ave line, Allerton Ave and Bronxwood Ave. CityNeighborhoods uses Williamsbridge Road as the western edge. — https://en.wikipedia.org/wiki/Allerton,_Bronx ; https://cityneighborhoods.nyc/laconia
+- Builder or developer names: EMPTY
+
+### Streets, corridors, parks, landmarks
+- Boston Road, an ancient colonial route turned commercial artery; Gun Hill Road, a vital east–west connector; and Laconia Avenue — https://cityneighborhoods.nyc/laconia
+- Along Boston Road, Jamaican bakeries sit beside Dominican restaurants, West African markets near longstanding Italian delis. — same URL
+- Burke Avenue and Gun Hill Road have family-owned restaurants operating in unassuming locations. — https://www.neighborhoods.com/laconia-bronx-ny
+- Cue Lounge, a long-running pool hall at 1107 E. Gun Hill Road between Boston Road and Laconia Avenue — https://www.bxtimes.com/bronx-pool-parlor-cue-lounge-renovated-for-50th/
+- Allerton Playground and the Eastchester Gardens Community Center — https://www.homes.com/local-guide/bronx-ny/laconia-neighborhood/
+- Eastchester Playground and the Eastchester Library are listed near Eastchester Gardens — https://nycommons.org/lots/2045810001/
+- What it's known for: "Laconia is pretty strictly residential," says a local broker. It also has large Dominican and Jamaican communities. — homes.com URL above ; https://www.neighborhoodscout.com/ny/bronx/laconia
+- Market: 13 multi family homes for sale in Laconia at a median listing price of $850K. — https://www.redfin.com/neighborhood/207822/NY/New-York/Laconia/multi-family-homes-for-sale
+
+### Pricing and competitors
+- Angi: $1,509 on average, with average price ranges from $797 to $2,222 in New York — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- Abstract Enterprises says Queens and Bronx UniFi installs run about 10% more than Brooklyn — https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-prices-nyc
+- Seneca Security advertises Pricing from $1,800. — https://senecasecurity.com/security-cameras-bronx/
+- Yelp praise for a Bronx installer: "They installed security cameras in my home they did a very good job and the price was excellent..." — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Most installers in Yelp's Pelham Gardens results are based in Forest Hills or Fresh Meadows, Queens. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Pelham+Gardens,+Bronx,+NY
+- Yelp complaints: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity) threads: EMPTY
+
+### Questions people ask — Security Camera Installation in Laconia
+None of these were confirmed as Google PAA boxes. Most come from FAQ sections on competitor pages, which tend to mirror search questions.
+- Do I need a license to install security cameras in NYC? — competitor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do you need an electrician to install security cameras? — competitor FAQ — same URL
+- What is the average labor cost to install security cameras? — competitor FAQ — same URL
+- How much does it cost to install 4 security cameras? — competitor FAQ — https://security-systems.nyc/blog/how-much-security-camera-installation-cost/
+- How much does CCTV cloud storage cost per camera? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does a security camera system cost in NYC? / How long does a security camera installation usually take in NYC? — competitor FAQ — https://nyhls.com/blog/security-camera-installation-cost
+- Do you install security cameras in Bronx commercial buildings? / How quickly can I get a quote for a Bronx security installation? — competitor FAQ — https://www.paxsecurity.com/security-installation-bronx
+- Do you offer free estimates? / What types of properties do you install security cameras for? / How long does security camera installation take? — competitor FAQ — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- Are security cameras worth it for Bronx property owners? / Can security cameras help with liability protection for Bronx businesses? / Do you install intercoms and access control in the Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Can a CCTV camera be repaired? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- What is the best home security system in Bronx? / Can I install a security system by myself? — competitor FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- Can I install a security camera in the hallway for safety? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Is it legal to use video surveillance in New York? — competitor FAQ — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+- Who installs security cameras near me in NYC & NJ? — article title — https://asmintegrators.com/who-installs-cctv-nyc-nj/
+- What are people saying about security systems services near Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Pelham+Gardens,+Bronx,+NY
+- Related searches (Ring Camera Installation, CCTV System Installation, Ethernet Wiring, Smart Home Installation in Bronx) — Yelp — https://www.yelp.com/search?find_desc=Home+Security+Camera+Installation&find_loc=Bronx%2C+NY
+- PAA: EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Patch or Bronx Times questions specific to Laconia cameras: EMPTY
+
+## Locust Point, Bronx — /security-camera-installation-locust-point-bronx-ny (factory research, 2026-11-03)
+
+**A. Facts specific to security camera installation in Locust Point (most important)**
+
+- **Housing type:** Most homes are detached or small single-family houses, not apartment buildings with lobbies. The area contains single-family houses, populated ethnically by Irish, German, and Italian families. — https://www.wikiwand.com/en/Locust_Point,_Bronx
+- **Housing mix (second source):** Locust Point real estate is primarily made up of small (studio to two bedroom) to medium sized (three or four bedroom) single-family homes and small apartment buildings. — https://www.neighborhoodscout.com/ny/bronx/locust-point
+- **House ages:** Most houses are old, so expect older wiring and cable runs in houses that were never designed for them. City-data's year-built counts: 24 1970 to 1979 · 21 1960 to 1969 · 100 1950 to 1959 · 41 1940 to 1949 · 90 1939 or earlier — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html
+- **Example old houses on Tierney Place:** 3271 Tierney Place was built in 1915 and has 1 story and 1 unit. — https://streeteasy.com/building/3271-tierney-place-bronx. 3238 Tierney Place was built in 1925 and has 3 stories and 1 unit. — https://streeteasy.com/building/3238-tierney-place-bronx
+- **Hurricane evacuation Zone 1:** Both Tierney Place listings show Police Precinct 45 · Hurricane evacuation zone: Zone 1. This argues for keeping recorders (NVRs), PoE switches and power supplies out of basements. — https://streeteasy.com/building/3238-tierney-place-bronx
+- **Sandy flooding on Tierney Place:** the storm pushed the waters of Eastchester Bay over the seawall behind houses on the south side of the block, flooding local streets, basements and ground floors of homes there. One downstairs rental took three feet of water — https://bxtimes.com/stories/2012/49/49_storm_2012_12_06_bx.html
+- **Repeat flooding (NWS records):** The National Weather Service has recorded Inundation of Tierney Place in Locust Point and entrance into SUNY Maritime and 1 ft of inundation on Chaffee Avenue along Hammond Creek (1/23/2016) — https://www.weather.gov/media/okx/coastalflood/Kings%20Point%20impacts.pdf
+- **City flood-zoning outreach:** NYC Planning gave a "Flood Resilience Zoning Text Update" presentation to the Locust Point Civic Association on October 3, 2017. It mentions "old bungalow homes." — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/bronx-locust-point-civic-association-100317.pdf?r=1
+- **Raised homes after Sandy (competitor claim, unverified):** A competitor says Many homes have undergone post-Sandy elevation work, raising structures above flood-prone heights. If true, camera mounting heights and cable paths change. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-locust-point-bronx-ny
+- **Salt air (competitor claim):** A competitor lists Locust Point among the Bronx coastal areas where salt-air corrosion damages cameras and says Aluminum camera bodies pit. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- **Yacht club break-ins (old story, still a useful angle):** the Locust Point Yacht Club, located on 21 Longstreet Avenue, recently experienced 19 boat break-ins in the span of a weekend. Afterward, police visited the Locust Point Yacht Club to review the surveillance cameras. The article is about 11.5 years old. — https://www.bxtimes.com/boat-break-ins-occur-at-locust-point-yacht-club/
+- **Vacant house and 311 cycle (2008):** At 3177 Glennon Place, teens broke in, A Locust Point resident calls 311. The city levies a fine. Workers arrive at 3177 Glennon Place to make minor repairs. The teenagers break in again. — https://www.bxtimes.com/unsold-locust-point-eyesore-targeted-by-vandals/
+- **Testimonial from an alarm vendor's page:** We had two cars stolen right in front of my house, as well as a house break-in attempt in Locust Point. This is a marketing testimonial, so treat it with caution. — https://www.securityalarmny.com/bronx/locust-point/
+- **Car theft spike in the 45th Precinct (2023):** Grand larceny auto rose 85.3% increase from 197 incidents during the aforementioned period in 2022 to 365. The precinct encompasses 6 miles of park area and 10.6 miles of waterfront — https://www.bxtimes.com/police-beat-crime-analysis/
+- **Shootings down in 2026:** In August 2026, officials say crime is down significantly in the 45th Precinct. Not counting the most recent shooting, there have been four shooting victims so far this year compared to nine this time last year. — https://abc7ny.com/post/woman-shot-multiple-times-outside-throggs-neck-home-masked-gunmen-flee-suv/19661049/
+- **Nextdoor, 2026:** A 45th Precinct officer posted about complaints filed for burglary, moped theft, and basic package theft — https://nextdoor.com/resources/crime-and-safety/throggsneck--bronx--ny/
+- **Police cameras on the nearby shopping street:** NYPD Argus cameras are installed on East Tremont Ave, and The cameras are monitored in real-time by the 45th precinct and police headquarters. — https://news.yahoo.com/anti-crime-cameras-installed-bronx-023515656.html. The funding covered East Tremont between Bruckner Boulevard and Harding Avenue — https://www.assembly.ny.gov/mem/Michael-Benedetto/story/104629
+- **Installer license:** New York requires a state license (from NYS DOS) to install security systems. You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems. One course provider says the license covers cameras: security systems (which INCLUDE security cameras, CCTV, access control systems, etc.) or fire alarm systems in the State of New York, you may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- **When no license is needed:** Per DOS text quoted on a forum, Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://forums.mikeholt.com/threads/nys-smoke-detector-law.93948/post-93948
+- **Privacy rules:** Pointing cameras at a neighbor is a real issue on Locust Point's close-set lots. intentionally aiming a camera at a neighbor's private spaces (windows, backyard areas with privacy fencing) could support claims of harassment, nuisance, or invasion of privacy under common law. — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/. Also, NYC has no specific local ordinance requiring registration of residential security cameras — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- **Competitor already has a page for this URL:** Abstract Enterprises has a Locust Point camera page. Its text lists commercial corridors like Fifth Avenue, Broadway, and Madison Avenue, which are not Locust Point streets. It is a thin, templated page. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-locust-point-bronx-ny
+- **Competitor claim about the marina (unverified):** The same company says the marina requires NYC Parks coordination for any work near the 22-acre Hammond Creek wetland preserve. I could not confirm this. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-locust-point-bronx-ny
+- **HPD violations:** EMPTY
+- **311 complaint data:** EMPTY (only the 2008 anecdote above)
+- **DOB permits:** EMPTY (StreetEasy links to "documents and permits," but I didn't retrieve them)
+- **LPC landmark district:** EMPTY (no historic district found)
+- **Local business with a camera angle:** First Group Automotive 4.8 (13 reviews) 2 Chaffee Ave Throgs Neck — https://yelp.com/search?find_desc=Auto+Security&find_loc=Throgs+Neck%2C+Bronx%2C+NY
+
+**B. Neighborhood background**
+
+- **Location:** It is bounded by Harding Avenue on the north, the Throgs Neck Bridge to the east, and Eastchester Bay. — https://www.wikiwand.com/en/Locust_Point,_Bronx
+- **Other names and district:** Locust Point (also Pirate Cove), part of Bronx Community District 10 — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- **Western boundary:** One site puts it at Hammond Creek to the west — https://cityneighborhoods.nyc/locust-point
+- **History (island to peninsula):** Locust Point, Bronx used to be an island called Locust Island, however, the waterway that separated it from mainland Bronx was filled in and built upon. After it was no longer an island, its name was changed. Part of the landfill was for the bridge's northern ramp and toll plaza. Before it was Locust Island, it was called Wrights Island because it was owned by Captain J.T Wright. — http://wikimapia.org/3863200/Locust-Point
+- **How it developed (two sources):** Locust Point's development began in the early 20th century, originally serving as a summer getaway for New York City residents. — https://bt-newyork.com/locust-point-a-quaint-peninsula-in-the-bronx/. It also developed as a bungalow colony and retains a close-knit, semi-private character — https://nycneighborhoods.app/map/neighborhoods/locust-point-bronx/
+- **Who built it:** EMPTY (no named builder or developer found)
+- **Maritime past:** Locust Point became known for its small boatyards and wharves. — https://cityneighborhoods.nyc/locust-point
+- **Effect of the Throgs Neck Bridge:** The bridge's northern approach sliced through the mainland just above Locust Point — https://cityneighborhoods.nyc/locust-point
+- **Main streets:** Tierney Place, Longstreet Ave, Glennon Place, Chaffee Ave and Harding Ave (from the sources above). The marina is at Longstreet Ave. bet. Harding Ave. and Giegerich Pl. — https://agreatbigcity.com/parks/locust-point-marina
+- **Commercial corridors:** Within Locust Point itself, EMPTY. The nearest found is the East Tremont Ave BID strip (see Argus camera bullets above).
+- **Landmarks:** Locust Point Yacht Club, 21 Longstreet Ave, occupies the outermost block before Eastchester Bay — https://www.theswimguide.org/beach/3148. The Locust Point Civic Association clubhouse is at 3300 Tierney Pl. Its rebuild used a $300,000 capital grant secured by Vacca to deal with Hurricane Sandy related damage. — https://www.bxtimes.com/locust-point-center-reopens/
+- **Known for:** Waterfront, a tight-knit community and a civic association that pushes back on development. The Locust Point Civic Association, formed during this period, became a powerful voice in defending the neighborhood from overdevelopment and industrial encroachment. — https://cityneighborhoods.nyc/locust-point
+- **Notable former resident:** Michael Kay — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- **Size:** Area: 0.416 square miles Population: 1,409 — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html
+- **Median sale price:** Locust Point median real estate price is $600,020 — https://www.neighborhoodscout.com/ny/bronx/locust-point
+- **Local news on home tech or entry systems:** EMPTY
+
+**C. Local discussion, reviews and outlets**
+
+- **Reddit (r/LocustPoint, r/Bronx, r/AskNYC, r/homesecurity):** EMPTY. No threads surfaced.
+- **Nextdoor:** Residents' top interests include home improvement & diy, walking, gardening & landscape, dogs, bbq & grilling, cooking, emergency preparedness (cert/nert) — https://nextdoor.com/neighborhood/silverbeachlocustpoint--bronx--ny/
+- **Yelp praise (Bronx camera installers):** "Christopher installed cameras across my house and he was thoughtful in his approach. His suggestions were great and he stuck to his timeline and stayed late when needed to complete the job. His price was very fair and there were no surprise charges. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- **Yelp praise (nearby search):** Very honest does not try and over sell you. Knows FDNY rules and regulations — https://yelp.com/search?find_desc=Fire+Alarm+Installation&find_loc=Throgs+Neck%2C+Bronx%2C+NY
+- **Yelp complaints:** EMPTY
+- **Hyperlocal outlets:** Bronx Times (used throughout), News 12 Bronx (https://bronx.news12.com/throgs-neck-bid-keeping-the-district-safe-with-new-security-cameras) and Norwood News (https://www.norwoodnews.org/tag/throgs-neck/). Patch and BKReader: EMPTY.
+- **Typical prices:** In NYC, Security camera installation costs in New York, NY, cost $1,509 on average, with average price ranges from $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+
+### Questions people ask — Security Camera Installation in Locust Point
+
+I couldn't retrieve Google's People Also Ask boxes or related searches, AnswerThePublic, or Bing/DuckDuckGo results directly. Every question below is a real question, but they come from FAQ sections on pages that rank for these searches. I have not confirmed any of them in a PAA box.
+
+- PAA — EMPTY
+- PASF / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit — EMPTY
+- How do I prevent package theft at my Bronx property? — ranking-page FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-locust-point-bronx-ny
+- How many cameras does a Bronx home need? — ranking-page FAQ — same URL
+- Are security cameras worth it for Bronx property owners? — ranking-page FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Can security cameras help with liability protection for Bronx businesses? — ranking-page FAQ — same URL
+- Why does my outdoor Bronx camera fail so fast in Throgs Neck or City Island? — ranking-page FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Can you fix my Bronx camera the same day? — ranking-page FAQ — same URL
+- Do you offer free estimates for security camera installation? — ranking-page FAQ — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- How long does security camera installation take? — ranking-page FAQ — same URL
+- What types of properties do you install security cameras for? — ranking-page FAQ — same URL
+- How quickly can I get a quote for a Bronx security installation? — ranking-page FAQ — https://www.paxsecurity.com/security-installation-bronx
+- Do you install security cameras in Bronx commercial buildings? — ranking-page FAQ — same URL
+- What is the average labor cost to install security cameras? — ranking-page FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do I need a license to install security cameras in NYC? — ranking-page FAQ — same URL
+- Do you need an electrician to install security cameras? — ranking-page FAQ — same URL
+- How much does it cost to install a 4-camera security system in NYC? — ranking-page FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does a security camera system cost in NYC? — ranking-page FAQ — https://nyhls.com/blog/security-camera-installation-cost
+- Can security cameras in New York record audio? — ranking-page FAQ — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Can my landlord install security cameras in my apartment building in New York? — ranking-page FAQ — same URL
+- Can I install security cameras on my property in NYC? — ranking-page FAQ — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- Can my security camera record my neighbor's property? — ranking-page FAQ — same URL
+- Is it illegal for my doorbell camera to see my neighbor's door? — ranking-page FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- What is the best home security system in Bronx? — ranking-page FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-
+
+## Longwood, Bronx — /security-camera-installation-longwood-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** My search tool doesn't show Google People Also Ask boxes, People Also Search For lists, AnswerThePublic, or separate Bing and DuckDuckGo results. Those fields are marked EMPTY below. Questions I did find are labeled with where they actually appeared (mostly competitor FAQ sections and Yelp), not as PAA. I also couldn't pull any HPD, 311 or DOB data for specific Longwood addresses, and I found no Longwood-specific Reddit threads.
+
+### Facts specific to security camera installation in Longwood
+- **Historic district rules (LPC):** LPC rules list security cameras alongside intercoms, light fixtures and security grilles as objects that need approval when attached to facades or areaway features, "including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras, mailboxes, Siamese connections, etc." — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Briefing%20Presentation_Final_May29_FINAL.pdf
+- On a primary facade, LPC staff criteria for equipment include that the installation will not damage or remove significant architectural features and will not be visible. On secondary facades the test is that it will not be more than minimally visible. — https://rules.cityofnewyork.us/wp-content/uploads/2023/04/LPC-Proposed-Miscellaneous-Rule-Amendments-.pdf
+- One landmark-storefront guide says no LPC permit is required for fixtures that do not physically attach to the building, but if attachments are needed, you must apply for a LPC permit first. — https://noho.nyc/wp-content/uploads/2023/01/Guidance-for-Landmarked-Storefronts.pdf
+- **Where the rules apply:** The Longwood Historic District encompasses about three square blocks roughly bounded by Beck Street, Longwood, Leggett, and Prospect Avenues. The district includes 61 contributing buildings. — https://en.wikipedia.org/wiki/Longwood_Historic_District_(Bronx)
+- The district includes buildings on Dawson, Kelly, Beck, and Macy Streets, and in 1983 it was expanded to include houses on Macy Place. — https://www.lehman.edu/public-art-bronx/Longwood-Historic-District-/
+- **What the facades are like:** Renaissance and Romanesque Revival styles designed by Warren C. Dickerson between 1897 and 1900. The houses are set back from the street with fenced-in gardens. This matters for camera placement: the gates and front yards sit between the street and the door. — https://hdc.org/buildings/longwood-historic-district-and-extension/
+- **Not every old building is LPC-protected:** Casa Amadeo is on the National Register, but one source says Mike's store, and the building where it's located, are not protected as historic landmarks. — https://www.welcome2thebronx.com/2018/04/legacy-casa-amadeo-nycs-oldest-latino-music-store/
+- **Apartment-building entry systems (MDL §50-a):** Multiple dwellings which were built or converted to such use after January 1, 1968 must have automatic self-closing and self-locking doors at all entrances. Those with 8+ apartments also need a two-way intercom. — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- Older buildings: Multiple dwellings built or converted to such use prior to January 1, 1968 also must have self-locking doors and a two-way intercom system if requested by a majority of all the apartments. This matters for Longwood's prewar tenements. — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- Intercom mounting heights: No push button device shall be more than six feet from the floor and the speaking and listening device shall be installed to be not less than four feet and not more than five feet from the floor. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- HPD enforcement (from a vendor, not HPD itself): HPD enforces intercom requirements through inspections triggered by routine building reviews or tenant complaints via 311. HPD classifies intercom violations and most door lock violations as Class B hazardous. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Installer licensing (NYS):** Under 19 NYCRR 195.2, a license is required for a closed circuit television system (CCTV) if such system is used, either full-time or part- time, for the detection or monitoring of intrusion, break-in, theft, movement, sound or fire. — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- **Affordable and nonprofit-owned buildings:** The Kelly Street rehab covered the five buildings at 916, 920, 924, 928, and 935 Kelly Street. Before that, all five were placed in HPD's Alternative Enforcement Program (AEP). — https://www.nyc.gov/html/dep/html/press_releases/14-053pr.shtml
+- Banana Kelly has redeveloped over 2,000 units of affordable housing in the Hunts Point-Longwood section; directly managed over 1,000 units. That means many buildings have institutional owners who make the buying decisions. — https://www.bkcianyc.org/about/history/
+- **Senior building:** The Erma Cava Houses, located on Southern Boulevard near Barretto Street in the Longwood section of the borough, provide housing for seniors. In a robbery caught on camera there, the suspect walked by the security desk just before 11 a.m. on Monday, no questions asked. — https://www.cbsnews.com/newyork/news/77yo-man-robbed-at-gunpoint/
+- A participatory-budget idea tagged Hunts Point and Longwood asked that all building should have a special code or key that only the people that live there can have access to. — https://participate.nyc.gov/processes/Citywidepb/f/304/proposals/5643/versions/2
+- **Storefront camera footage:** Surveillance cameras caught the man breaking into Batista Barber Shop on Longwood Avenue. This is an old story (~2013). — https://abc11.com/archive/9075732/
+- **Recent local crime news:** The key neighborhoods are around Starlight Park, Hunts Point, and Longwood in the 41st, 42nd, and 43rd precincts. Police released videos of suspects (Sept 2026). — https://pix11.com/news/morning/string-of-violent-robbery-assaults-in-the-bronx-nypd/
+- The robbery happened in front of 1021 Longfellow Ave. at 12 p.m. on May 24. (2026) — https://bronx.news12.com/2026/06/12/14-year-old-boy-robbed-at-gunpoint-of-his-sneakers-in-longwood/7g8rtlxTpIAN3iOMm5BDij
+- At 1006 Longfellow Ave, video evidence shows the suspect entering the Whitlock Avenue train station approximately six minutes after the gruesome discovery. (June 2026) — https://bronx.news12.com/2026/06/12/neighbors-fear-suspected-killer-may-have-returned-to-longwood-building/4gXIKfeFdXtI9wkcHyB9qF
+- **Nearby Hunts Point cargo theft:** approximately 60,000 pounds of shelled walnuts, valued at approximately $50,000, were stolen from two 52-foot trailers in the area of Hunts Point (March 2026). — https://troopers.ny.gov/news/new-york-state-police-seek-publics-assistance-following-large-cargo-theft-bronx
+- **Competitors already targeting Longwood:** One commercial installer lists Hunts Point and Longwood — food distribution hub, industrial, logistics. — https://vertexsecurity.com/security-camera-installation-bronx/ Others with Longwood pages: https://momolocallocksmith.com/security-cameras/bronx-ny/longwood/ and https://www.abstractenterprisessecuritysystems.com/security-camera-installation-longwood-bronx-ny
+- **Cost benchmarks (installer-published, NYC-wide):** A professionally installed 4-camera CCTV system in NYC usually costs between $800 and $1,000 — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- For apartment buildings: Commonly $4,500 to $15,000+ for lobbies, hallways, package rooms, basements, roofs, exterior doors, garages, and manager remote access. — https://nycsecuritysystemspro.com/how-much-does-security-camera-installation-cost-nyc/
+- One vendor prices by borough: Queens and the Bronx run about 10% more than Brooklyn. — https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-prices-nyc
+- HPD violation counts / 311 complaint data for Longwood addresses — EMPTY
+- DOB permits for camera or low-voltage work in Longwood — EMPTY
+- Reddit threads specifically about cameras in Longwood — EMPTY
+
+### History and development
+- Longwood was originally part of the historic township of Morrisania. Longwood was mostly rural until the late 1800's when plans for an IRT connection between Manhattan and the Bronx were announced. — https://hdc.org/buildings/longwood-historic-district-and-extension/
+- Developer: real estate developer George B. Johnson moved in and set up shop in the old White mansion. Johnson was one of the first developers to see the potential of the new neighborhood — https://theneighborhoods.substack.com/p/longwood-the-bronx
+- In 1904, the IRT connecting the Bronx to Manhattan opened, and cheap rapid transit from Manhattan catalyzed a mass migration from the cramped tenements of Manhattan to the large new five-story buildings — https://theneighborhoods.substack.com/p/longwood-the-bronx
+- Population change: by 1925, Longwood was 71 percent Jewish. By 1960, the neighborhood was 47 percent Puerto Rican. — https://theneighborhoods.substack.com/p/longwood-the-bronx?open=false
+- Losses in the 1970s: In the Hunts Point-Longwood area alone (Community District #2), 70% of the housing stock was lost. — https://www.bkcianyc.org/about/history/ (Another source says nearly 60% by 1977, so the sources disagree — https://cityneighborhoods.nyc/longwood)
+- Recovery: The city began to rehabilitate many formally abandoned tenement style apartment buildings and designate them low income housing beginning in the late 1970s. — https://en-academic.com/dic.nsf/enwiki/545919
+- Preservation: In 1977, as arson and abandonment devastated the South Bronx, two Longwood homeowners set out not only to save their homes but to save their neighborhood's history. — https://www.motthavenherald.com/2008/02/09/historic-district-is-longwoods-jewel-2/
+- New district markers: LPC has unveiled four new historic district markers commemorating the Longwood Historic District and Longwood Historic District Extension (June 2026). — https://newyorkyimby.com/2026/06/lpc-unveils-new-historic-district-markers-in-longwood-the-bronx.html
+
+### Streets, corridors and boundaries
+- Southern Boulevard is the primary thoroughfare through Longwood. ZIP codes are 10455 and 10459. — https://en.wikipedia.org/wiki/Longwood,_Bronx
+- Southern Boulevard and Westchester Avenue form its commercial spines, animated by a mix of small businesses, churches, and schools. — https://cityneighborhoods.nyc/longwood
+- Boundaries (sources disagree on the northern edge): East 163rd Street to the north, Prospect Avenue to the west, East 149th Street to the south, and the Bruckner Expressway to the southeast — https://cityneighborhoods.nyc/longwood. Another source puts the north border at East 167th Street — https://theneighborhoods.substack.com/p/longwood-the-bronx
+- City-assessed commercial corridors include Westchester Avenue, East 163 Street, Hunts Point Avenue, East Bay Avenue, Tiffany Street, Longwood Avenue, and Southern Boulevard. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-huntspoint-longwood.pdf
+- Retail near 1019 Southern Blvd: JD Sport, Foot Locker, CityMD, Popeyes, Planet Fitness, Rite Aid, GNC, Rainbow, The Children's Place, Jimmy Jazz, Burger King, Five Below, Chipotle — https://www.ksrny.com/listing/1019-southern-boulevard
+- Transit: Longwood Avenue station (6 train) Opened: January 7, 1919 — https://en.wikipedia.org/wiki/Longwood_Avenue_station
+- NYPD 41st Precinct: the relocation of the 41st Precinct of the NYPD from Simpson Street to Longwood Avenue — https://en.wikipedia.org/wiki/Longwood,_Bronx
+
+### Building stock
+- Historic district: primarily two and three story row houses constructed in anticipation of the population surge — https://www.lehman.edu/public-art-bronx/Longwood-Historic-District-/
+- Rehabbed public-housing tenements: Longfellow Avenue Rehab; two, 5-story rehabilitated tenement buildings. Also East 165th Street-Bryant Avenue; five buildings, 3-stories tall. — https://en-academic.com/dic.nsf/enwiki/545919
+- Co-ops and affordable housing: affordable housing developments like Fox-Leggett Cooperative Apartments and the Kelly Street Restoration Project — https://cityneighborhoods.nyc/longwood
+- New construction on empty lots: In Longwood, many parking lots and vacant lots are being developed as affordable housing. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-huntspoint-longwood.pdf
+- Renters: most residents rent their homes. — https://www.niche.com/places-to-live/n/longwood-new-york-city-ny/
+
+### Parks, landmarks, what it's known for
+- Casa Amadeo, 786 Prospect Ave, is inside the Manhanset apartment building (1905), situated on the southeast comer of Longwood and Prospect Avenues. — https://nystateparks.blog/wp-content/uploads/2025/09/casa-amadeo-national-register-2001.pdf
+- National Register listing date: listed on the National Register of Historic Places in 2001. One source says 2000, so they conflict. — https://theneighborhoods.substack.com/p/longwood-the-bronx
+- Playground 52 (often written as Playground 52 LII) is a 1.8-acre (0.73 ha) playground at 681 Kelly Street — https://en.wikipedia.org/wiki/Playground_52
+- Banana Kelly: In 1977, they formed themselves into the Banana Kelly Community Improvement Association with the motto "Don't Move, Improve." — https://www.lisc.org/our-stories/story/banana-kelly/
+- East 165 Street at Rogers Place in Longwood was officially renamed Cornell "Black Benjie" Benjamin Way. — https://theneighborhoods.substack.com/p/longwood-the-bronx
+
+### Local discussion, Yelp, and hyperlocal outlets
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity) about cameras in Longwood — EMPTY
+- Yelp Bronx results show praise such as "They installed security cameras in my home they did a very good job and the price was excellent..." (Computer Settings) — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Yelp: "The installation for the security cameras was beyond impressive and flawless." (True V, based in Forest Hills) — https://www.yelp.com/search?find_desc=Surveillance+Camera+Installation&find_loc=Bronx%2C+NY
+- Yelp complaints about camera installers in or near Longwood — EMPTY
+- Several top Yelp results are based outside the Bronx (Fresh Meadows, Forest Hills, Long Island). That's a possible "actually local" angle. — https://www.yelp.com/search?find_desc=Home+Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Bronx Times on Southern Blvd small businesses: WHEDco previously launched a commercial corridor 'touch up' initiative that gave small businesses a much-needed facelift near the Freeman Street IRT station. — https://www.bxtimes.com/residents-workers-protest-southern-blvd-rezoning-study/
+- Patch / BKReader coverage of Longwood cameras — EMPTY
+
+### Questions people ask — Security Camera Installation in Longwood
+- Google PAA (8–12) — EMPTY
+- People Also Search For / related searches — EMPTY. The only related-search item found was Yelp's "People also searched for… Security Camera Installation" — https://www.yelp.com/search?find_desc=Home+Security+Camera+Installation&find_loc=Bronx%2C+NY
+- AnswerThePublic fan-out — EMPTY
+- Bing-only / DuckDuckGo-only questions — EMPTY
+- How much does security camera installation cost in the Bronx, NY? — competitor FAQ (not verified PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-longwood-bronx-ny
+- How much does it cost to install a 4-camera security system in NYC? — competitor FAQ —
+
+## Melrose, Bronx — /security-camera-installation-melrose-bronx-ny (factory research, 2026-11-03)
+
+**Before you use this:** I had no live access to Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo, so I've marked those fields EMPTY. I also didn't have BLUEPRINT.md, so I used the field list in your request. Nothing below is made up. Where a source contradicts itself or another source, I say so.
+
+### Service-specific facts (most important)
+
+**Public housing (NYCHA) cameras**
+- In March 2024 (date estimated from the page's age), Melrose Houses held a ribbon-cutting for a new CCTV system. The Melrose CCTV system and its 157 security cameras were installed thanks to a $3 million allocation from Council Member Salamanca — https://nychajournal.nyc/unveiling-a-new-security-camera-system-at-melrose-houses/
+- The cameras took years to arrive. Tenants told him about the building's issues with crime and other safety problems in 2017, and he was able to get $3 million from the following year's budget for new lights, cameras, and roof and door repairs — https://bronx.news12.com/melrose-houses-receive-new-security-cameras-after-over-5-years-of-waiting
+- An older story (about 10 years old): Hours after the wounding of two officers in a stairwell at Melrose Houses in the Bronx, the New York City Housing Authority said the incident underscored the need for security cameras. — https://abc7ny.com/investigators-nycha-public-housing-cameras/1380306
+- Privacy dispute over NYCHA cameras: a New York Focus report found Big Apple Connect, a city-funded program bringing free internet and cable to NYCHA complexes, is now being used to link CCTV cameras at some developments directly into the NYPD's citywide surveillance software system. — https://bronx.news12.com/2025/09/25/concerns-raised-over-police-access-to-cctv-cameras/5dH80cQIWYM2Ep4DAixZhF
+- A Bronx NYCHA tenant (Parkside Houses, not Melrose) got an eviction notice saying that she had breached her lease by installing the cameras. This is a page angle: NYCHA tenants shouldn't install cameras themselves without permission — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+
+**Building types and wiring**
+- City Planning describes Courtlandt Avenue as split in two. One side of the street is characterized with moderate density three to five story buildings built at regular intervals with ground floor commercial uses while the NYCHA side is characterized by superblocks, monotonous 15-16 story towers set back from the street — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/bmn/bronx_metro_report/melrose.pdf
+- Melrose is dominated by large residential housing complexes of various types, primarily public housing, and tenement style apartment buildings. — https://en.wikipedia.org/wiki/Melrose,_Bronx
+- Some attached three-story homes line the streets of Melrose — https://www.homes.com/local-guide/bronx-ny/melrose-neighborhood/
+- New affordable buildings: at the developments under construction, residents of these buildings will have access to high-speed internet in their units, as well as on-site laundry facilities and 24-hour security. Construction has already wrapped up on 450 E. 158th St. This building, which is the larger of the two affordable housing structures, has been operating with a Temporary Certificate of Occupancy since July 2026. — https://www.bxtimes.com/construction-melrose-2-housing-developments-school/
+- Bronx Commons, on Elton Avenue between E 162nd and 163rd St: The 12-story residential component is designed by Danois Architects and will contain 305 affordable housing units — https://newyorkyimby.com/2019/01/construction-tops-out-for-major-mixed-use-bronx-commons-development-in-melrose-the-bronx.html
+
+**Recent incidents tied to entries and cameras**
+- September 2026: An apartment building employee in Melrose was shot late Sunday morning while confronting a man who was allegedly trying to steal work supplies... It happened around 11:30 a.m. inside 508 East 163rd St. — https://bronx.news12.com/2026/09/07/man-wounded-in-shooting-inside-melrose-apartment-building/3AwqAHwf5hl4c4blmLmKEv
+- October 2026: a shooting outside a strip of businesses near 726 Cortlandt Ave., in the Melrose section. Surveillance video shows a person dressed all in black appear to pull a gun and start firing. — https://www.cbsnews.com/newyork/news/melrose-bronx-shooting-1-year-old-injured-nypd/
+- Fake repairmen talked their way in. Two men approached the apartment building on Courtlandt Avenue and E 150th St., allegedly telling resident they were dispatched to repair a leak. (Supports a video intercom / door camera angle.) — https://bronx.news12.com/nypd-robbers-disguised-as-repairmen-steal-safe-with-30000-in-melrose
+- Retail theft: a robbery happened on Dec. 4, just before 6:45 p.m. at JD Sports, located at 410 Westchester Ave. — https://bronx.news12.com/2026/01/07/four-sought-for-robbing-melrose-shoe-store-attacking-employees/6gIngN0WYXA8iokrjBlJA6
+- Lobby and elevator footage: an elderly woman was robbed in a building lobby, and it happened Sunday afternoon near East 149th Street and Morris Avenue in the Melrose section. — https://www.cbsnews.com/newyork/news/caught-on-video-85-year-old-woman-assaulted-at-bronx-apartment-building
+- December 2025: Surveillance video from early Saturday morning shows the moments leading up to a shooting in Melrose. — https://bronx.news12.com/2025/12/14/exclusive-surveillance-video-captures-shooting-in-melrose/33z87EqR8BbRzNHJy55aBG
+
+**Landmarks (LPC) rules**
+- Individual landmarks inside Melrose: the 614 Courtlandt Avenue Building (designated 1987) and the Bronx Borough Courthouse (1981) — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- LPC rules cover health, safety and utility equipment, such as fire alarm bells and Siamese connections, security cameras, lighting. The proposed rules would prohibit installation of many of these types of objects on a primary facade — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- LPC Permit Guidebook, Chapter 11 has a section on installing security cameras (small dome cameras, painted to match; limits on how many go on a primary facade). The text I got was fragmentary, so check the PDF before quoting exact rules — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Nearby historic districts: the Morris High School Historic District (1982) is listed by LPC under Morrisania, although Wikipedia places Morris High in Melrose. It includes the Morris High School, two streets of brick rowhouses, and Trinity Episcopal Church of Morrisania. The high school and rowhouses were built between 1897 and 1904. — https://en.wikipedia.org/wiki/Morris_High_School_Historic_District
+- The Mott Haven and Mott Haven East historic districts lie just south. Clay Avenue is not in Melrose — https://hdc.org/hdc-across-nyc/bronx/hd-map/
+
+**Permits and licensing (sources disagree)**
+- Most camera installations don't require a DOB permit on their own, but if your project involves any electrical work, conduit installation in common areas of a co-op or condo, or integration with fire alarm or access control systems, permit requirements can enter the picture. — https://senecasecurity.com/learn/security-camera-installation-costs-nyc/
+- You must obtain a Security or Fire Alarm Installer License from the NYS Department of State's Division of Licensing Services to install security cameras legally in NYC. — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Conflicting claim: one installer says NYC requires licensed electricians for wired security camera installation. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Renters: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+
+**City data**
+- HPD violations, 311 complaints and DOB permits specific to Melrose: EMPTY. I couldn't pull these records.
+
+**Local businesses and listings**
+- Installer pages that name Melrose: 4Wires (https://www.4wires.com/security-camera-installation/commercial-security-camera-installation-services/), Abstract Enterprises (https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny) and Sound Waves, a New Jersey company (https://sound-waves.com/local/home-security-surveillance-camera-indoor-outdoor-melrose-ny/)
+- Security Camera Bronx is at 749 E 135th St, 10454 — https://www.safehome.org/security-systems/new-york/bronx/
+
+### Neighborhood background
+
+**History**
+- The neighborhood of Melrose was originally settled by the Morris family, who were granted nearly the entire southeastern portion of the Bronx by the British crown in the late 1600s. Melrose was given its name by the Scottish surveyor Andrew Finlay — https://www.nycgovparks.org/parks/melrose-playground/history
+- The family began selling sections of their property in the 1850s, and the introduction of rapid transit in 1908 transformed Melrose from an isolated suburb into a bustling urban area. — https://www.nycgovparks.org/parks/melrose-commons-park/history
+- German immigrants came first: whose churches, theaters, and beer gardens would dominate the cultural identity of the area until the 1950s. — https://www.nycgovparks.org/parks/melrose-playground/history
+- Decline and rebuilding: victims of urban disinvestment and arson exacerbated by failed public policies in the 1970s and 1980s. The revised Melrose Commons Urban Renewal Plan was approved in 1994 — https://www.nycgovparks.org/parks/melrose-commons-park/history
+- In 1973, the City of New York dismantled the Third Avenue El — https://en.wikipedia.org/wiki/Melrose,_Bronx
+
+**Boundaries and main streets**
+- Melrose is rectangular-shaped, being bordered by Saint Anns Avenue on the east, 149th Street on the south, Park Avenue on the west, and 163rd Street to the north. Melrose Avenue and Third Avenue are the primary thoroughfares — https://www.wikiwand.com/en/Melrose,_Bronx
+- Policing: The area is patrolled by the New York City Police Department's 40th Precinct. — https://en.wikipedia.org/wiki/Melrose,_Bronx
+- The Hub: The Hub is the oldest major shopping locale in the Bronx. The Hub is maintained by the HUB Third Avenue Business Improvement District — https://en.wikipedia.org/wiki/The_Hub,_Bronx
+- Melrose Avenue is a main corridor for shopping and dining. — https://www.homes.com/local-guide/bronx-ny/melrose-neighborhood/
+- Fare gates: In October 2026, the MTA announced plans to install taller fare gates with glass panels at 20 additional stations, including the Third Avenue–149th Street station — https://en.wikipedia.org/wiki/Third_Avenue%E2%80%93149th_Street_station
+
+**Landmarks and notable buildings**
+- Via Verde (700–706 Brook Ave): Completion: 2012, with 151 affordable units and 71 co-ops — https://www.rosecompanies.com/projects/via-verde/
+- Some of the sites we will see are The Opera House Hotel, three 19th century German churches, the ruins of a brewery, and the Old Bronx Borough Courthouse. — https://www.mas.org/events/hidden-treasures-of-melrose-in-the-south-bronx/
+- The Opera House Hotel is at 436 East 149th Street — https://www.thirdavenuebid.org/discover
+- Melrose Playground is on Courtlandt Avenue between East 153rd and 156th Streets — https://www.nycgovparks.org/parks/melrose-playground/history
+
+**What it's known for**
+- Melrose has recently experienced a "green" construction boom, with the borough's largest number of LEED-certified apartment buildings. — https://www.apartments.com/local-guide/melrose-bronx-ny/
+
+**Reddit and Yelp**
+- Reddit threads from Melrose or r/Bronx about camera installation: EMPTY (none found).
+- Yelp praise: "Christopher installed cameras across my house and he was thoughtful in his approach. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Yelp complaints: EMPTY. None came up in the search snippets.
+
+**Cost benchmarks (wide spread)**
+- Per-camera labor: ranges from $80 to $200 per camera — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Small system: typically costs $2,500–$6,000 for a small 4–6 camera system — https://senecasecurity.com/learn/security-camera-installation-costs-nyc/
+- One Bronx installer advertises Get 4 HD Cameras Installed For $850.00 — https://www.abstractenterprisessecuritysystems.com/security-camera-installer-bronx-ny
+
+### Questions people ask — Security Camera Installation in Melrose
+
+- Google PAA, Google PASF, AnswerThePublic, Bing, DuckDuckGo: EMPTY (no live SERP access).
+- Reddit: EMPTY.
+
+The questions below come from FAQ sections on installer pages and one advice column. They may overlap with PAA, but I couldn't confirm that.
+
+- What is the average labor cost to install security cameras? — installer FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do I need a license to install security cameras in NYC? — installer FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do I need a permit to install security cameras in New York City? — installer FAQ — https://security-systems.nyc/security-cameras-installation/commercial/
+- How much does it cost to install a 4-camera security system in NYC? — installer FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Do I need permission before installing a security camera in NYC? — installer FAQ — https://linkedsecurityny.com/blog/diy-vs-professional-security-camera-installation-nyc/
+- Can you install security cameras in a NYC co-op or condo building? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- How much does security camera installation cost in the Bronx, NY? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- What should I look for when hiring a security camera installer in the Bronx? — installer FAQ — same URL
+- Are security cameras worth it for Bronx property owners? — installer FAQ — same URL
+- What types of security cameras work best for Bronx residential buildings? — installer FAQ — https://www.myshyft.com/blog/security-camera-installation-services-bronx-new-york/
+- How can security cameras be integrated with existing building systems in older Bronx properties? — installer FAQ — same URL
+- Can I ask to have a security camera installed outside my apartment or in the hallway for my safety? — Brick Underground advice column — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can I install a security system by myself? — installer FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- What did people search for similar to CCTV security camera installation in Bronx? (Yelp's answer: "Security Camera Installation") — Yelp — https://www.yelp.com/search?find_desc=CCTV+Security+Camera+Installation&find_loc=Bronx%2C+NY
