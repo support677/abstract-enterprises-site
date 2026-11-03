@@ -597,7 +597,7 @@ LIVE | security-camera-installation-baychester-bronx-ny | Security Camera Instal
 LIVE | security-camera-installation-belmont-bronx-ny | Security Camera Installation | Belmont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-bronx-river-bronx-ny | Security Camera Installation | Bronx River, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T00:05Z factory | security-camera-installation-bronxwood-bronx-ny | Security Camera Installation | Bronxwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T00:05Z factory | security-camera-installation-castle-hill-bronx-ny | Security Camera Installation | Castle Hill, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-castle-hill-bronx-ny | Security Camera Installation | Castle Hill, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-city-line-brooklyn-ny | Security Camera Installation | City Line, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-claremont-bronx-ny | Security Camera Installation | Claremont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T00:05Z factory | security-camera-installation-clason-point-bronx-ny | Security Camera Installation | Clason Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
