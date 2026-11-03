@@ -593,7 +593,7 @@ LIVE | intercom-installation-wyckoff-heights-brooklyn-ny | Intercom Installation
 BUILDING 2026-11-02T21:10Z factory | network-cable-repair-midwood-brooklyn-ny | Network Cable Repair | Midwood, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-allerton-bronx-ny | Security Camera Installation | Allerton, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-bathgate-bronx-ny | Security Camera Installation | Bathgate, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-02T21:10Z factory | security-camera-installation-baychester-bronx-ny | Security Camera Installation | Baychester, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-baychester-bronx-ny | Security Camera Installation | Baychester, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-belmont-bronx-ny | Security Camera Installation | Belmont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-bronx-river-bronx-ny | Security Camera Installation | Bronx River, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-bronxwood-bronx-ny | Security Camera Installation | Bronxwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
