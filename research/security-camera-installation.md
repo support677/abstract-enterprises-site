@@ -3965,3 +3965,31 @@ The questions below come from competitors' FAQ markup. I couldn't confirm any of
 
 **Yelp praise and complaints (Bronx-wide; no Unionport-specific reviews found):**
 - Praise
+
+## University Heights, Bronx — /security-camera-installation-university-heights-bronx-ny (max-burn research, 2026-11-04)
+
+Local research reused from research/door-buzzer-repair.md (University Heights section: building stock, HPD entry-door data, NYCHA counts, BCC landmarks, streets, transit, 46th Precinct) plus this fresh camera-specific pass. Format: query · platform · URL · finding · page section.
+
+- "University Heights Bronx security cameras building crime 2026" · Google/web · https://brooklyn.news12.com/bx-councilman-installing-extra-eyes-in-university-heights-34805444 · News 12, Apr 24 2012: Council Member Fernando Cabrera (District 14) announced about 20 new surveillance cameras for University Heights (article body not retrievable; locations unknown) · "Why University Heights" + AI-myths section (city cameras vs building cameras)
+- same query · https://cbsnews.com/amp/newyork/news/police-suspects-busted-surveillance-cameras-in-multiple-bronx-buildings · CBS NY, Apr 2 2015: three men entered several apartment buildings on Davidson Avenue (numbers 1985–2024, described as Morris Heights / West Bronx) around 1 p.m. and smashed cameras inside and outside · vandal-resistant hardware section, FAQ on smashed cameras
+- "University Heights Bronx Fordham Road store robbery caught on camera" · web · https://www.norwoodnews.org/university-heights-two-sought-after-robbery-and-assault/ · Norwood News, Apr 12 2025 ~5:15 p.m.: 68-year-old man robbed of a bracelet and punched near W 183rd St & Aqueduct Ave; suspects fled west on W 183rd in a black Ford pickup; NYPD released video to identify them · street-facing camera section (plates, direction of travel)
+- same · https://bronx.news12.com/police-seek-3-men-after-9k-jewelry-heist-in-university-heights · News 12, Oct 14 2025: three masked armed men took $9,000+ in jewelry from three people near Jerome Avenue ~5 a.m. (article says Sept. 21); NYPD released surveillance video; fled in a BMW · night/IR section, Jerome Ave business section
+- same · https://www.norwoodnews.org/university-heights-search-for-five-following-armed-robbery-of-barber-shop/ · Norwood News: Jan 3 2022 ~12:10 p.m., armed robbery inside Innovation Barber and Beauty Shop, 2357 Jerome Ave; five fled south on Jerome; NYPD released video · business section (counter + door camera)
+- "University Heights Bronx new apartment building 2025 2026 yimby" · web · https://newyorkyimby.com/2026/06/permits-filed-for-2603-sedgwick-avenue-in-university-heights-the-bronx.html · YIMBY Jun 5 2026: 6-story, 25 units, 16,806 sf, cellar, penthouse, 40-ft rear yard, between W Kingsbridge Rd and Bailey Ave; owner Petrit Grishaj (Peter G Construction); architect Badaly Engineering · new-construction prewire section
+- same · https://newyorkyimby.com/2025/07/permits-filed-for-2424-davidson-avenue-in-university-heights-the-bronx.html · YIMBY Jul 27 2025: 6-story, 13 units, ~8,832 sf, between W 184th St and Fordham Rd, a block from the Fordham Rd 4 station; owner Alket Zefi (Adi AL Construction); architect John Backos (GRID Drafting) · new-construction prewire section
+- same · search result titles only (pages not retrievable): permits filed for 2201 University Ave (YIMBY Jun 2026), 2302 Andrews Ave (Sep 2026), 65 W 181st St (Oct 2026), 2290 Aqueduct Ave East (Sep 2025), 2256/2260 Andrews Ave N (2024) · used only as "a run of permit filings for new mid-rise buildings" without unit figures
+- "reddit Bronx landlord won't give camera footage" · web (Reddit EMPTY — no retrievable University Heights thread) · https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief · Brick Underground: landlord not required to show tenants footage except to police or under court order; buildings aren't required to have working cameras; tenants can organize, push for package lockers · FAQ (tenant footage), viewing-rules section
+- "security camera installation Bronx apartment building landlord tenant footage" · web · https://bronx.news12.com/mott-haven-tenants-forced-to-remove-door-cameras-say-theyre-already-feeling-less-safe · News 12 May 15 2024: Mott Haven building management told tenants to remove apartment-door cameras (Ring) or face lease violations · FAQ (renter doorbell camera), tenant section
+- "how much does security camera installation cost NYC" · web · HomeAdvisor/Thumbtack/Angi cost pages for Bronx exist; no figure used (AESS publishes only $225 Bronx setup-only first hour) · pricing section
+- "Bronx Community College campus security cameras" · web · https://en.wikipedia.org/wiki/Bronx_Community_College · campus has its own public-safety operation; landmark buildings (Gould Memorial Library, Hall of Fame) — AESS does not claim campus work · landmarks section
+- Reddit (r/bronx, r/AskNYC) University Heights camera threads: EMPTY (not accessible / none found in build env)
+- Answer the Public: EMPTY (not accessible in build env); question fan-out written from PAA-style queries above
+
+### Questions people ask — Security Camera Installation in University Heights
+- Can my landlord refuse to show me hallway camera footage after a theft? — Brick Underground (web)
+- Can building management make me take down my apartment-door camera? — News 12 Mott Haven (web)
+- What stops people from just smashing building cameras? — CBS NY Davidson Ave (web)
+- Can a street camera catch a license plate on a getaway car? — Norwood News W 183rd/Aqueduct, News 12 Jerome Ave (web)
+- Should a new six-story building be prewired for cameras before the walls close? — YIMBY permits (web)
+- Do city/council cameras on the block replace building cameras? — News 12 2012 (web)
+- How much does camera installation cost in the Bronx? — HomeAdvisor/Thumbtack PASF (web)
