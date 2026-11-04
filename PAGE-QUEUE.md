@@ -618,7 +618,7 @@ LIVE | security-camera-installation-hudson-hill-bronx-ny | Security Camera Insta
 LIVE | security-camera-installation-hunts-point-bronx-ny | Security Camera Installation | Hunts Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-jerome-park-bronx-ny | Security Camera Installation | Jerome Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-kingsbridge-bronx-ny | Security Camera Installation | Kingsbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T21:11Z factory | security-camera-installation-laconia-bronx-ny | Security Camera Installation | Laconia, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-laconia-bronx-ny | Security Camera Installation | Laconia, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-locust-point-bronx-ny | Security Camera Installation | Locust Point, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-longwood-bronx-ny | Security Camera Installation | Longwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-melrose-bronx-ny | Security Camera Installation | Melrose, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
