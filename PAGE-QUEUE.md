@@ -624,7 +624,7 @@ LIVE | security-camera-installation-longwood-bronx-ny | Security Camera Installa
 LIVE | security-camera-installation-melrose-bronx-ny | Security Camera Installation | Melrose, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T21:11Z factory | security-camera-installation-morris-heights-bronx-ny | Security Camera Installation | Morris Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-03T21:11Z factory | security-camera-installation-morris-park-bronx-ny | Security Camera Installation | Morris Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-03T21:11Z factory | security-camera-installation-morrisania-bronx-ny | Security Camera Installation | Morrisania, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-morrisania-bronx-ny | Security Camera Installation | Morrisania, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-mott-haven-bronx-ny | Security Camera Installation | Mott Haven, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-mount-eden-bronx-ny | Security Camera Installation | Mount Eden, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-mount-hope-bronx-ny | Security Camera Installation | Mount Hope, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
