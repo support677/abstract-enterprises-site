@@ -4013,3 +4013,23 @@ Local research reused from research/door-buzzer-repair.md (Van Cortlandt Village
 - Will a building camera catch riders on motorcycles? — Norwood News 2022 pattern (web)
 - Should a building with scaffolding up add a camera on the shed? — Norwood News scaffolding (web)
 - How do you wire cameras across a multi-building co-op campus? — Amalgamated/Shalom Aleichem build-out (web)
+
+## Van Nest, Bronx — /security-camera-installation-van-nest-bronx-ny (max-burn research, 2026-11-04)
+
+No earlier research section covered Van Nest; full fresh pass. Format: query · platform · URL · finding · page section.
+
+- "Van Nest Bronx neighborhood history housing" · web · https://en.wikipedia.org/wiki/Van_Nest,_Bronx · ~0.424 sq mi; bounded by Bronxdale Ave (NE), Amtrak tracks (SE), Bronx Park (W); CB11; ZIPs 10460 (west of Unionport Rd) / 10462 (east); named for New Haven RR Van Nest station; Van Nest Land & Improvement Co. subdivided farmland 1892–96; streets graded 1895 ("Mud West"); "Five Corners" = Van Nest Ave/Unionport Rd/Victor St; single-family homes dominate with scattered tenements; residential development from 1893 in Italianate, Queen Anne, Art Deco and contemporary brick; most residents rent; Con Edison Van Nest Service Center on former New Haven yards (1907; bought 1959; 940,000 sf); Van Nest Park (acquired 1913, renovated 2014–15); Conti's Pastry Shoppe at 786 Morris Park Ave (since 1928 at that address, 100 years Oct 2021); Morris Park Boxing Club 644 Morris Park Ave (1978); St. Dominic's Church 1739 Unionport Rd (1927); Pelham Parkway–Van Nest library 2147 Barnes Ave; Morris Park Ave & White Plains Rd = commercial corridors; 2 and 5 trains at Bronx Park East, 5 on Dyre Ave line; East 180th St station (1912, NRHP 1980); planned Parkchester/Van Nest Metro-North station no earlier than 2027; Aug 2024 Council rezoning of 46 blocks around Parkchester/Van Nest and Morris Park stations, up to 7,000 units across three neighborhoods; 49th Precinct, 2121 Eastchester Rd; Van Nest Neighborhood Alliance formed Jan 2010; Engine 90/Ladder 41 at 1843 White Plains Rd; John Patrick Shanley's "Five Corners" · throughout
+- "Van Nest Bronx police surveillance video robbery" · web · https://cbsnews.com/newyork/news/van-nest-bronx-armed-robbery · Mar 22 2021: two men knocked and forced into an apartment near Van Buren & Morris Park Aves, threatened a 53-year-old with a knife, took $2,000; NYPD released surveillance video · door/push-in section, FAQ
+- same · https://bronx.news12.com/mta-employee-punched-robbed-of-150-in-van-nest · Mar 28 2026 ~5:30 p.m.: 42-year-old MTA employee punched and robbed of $150 walking to his car near Morris Park Ave & Adams St; article mentions no video · curbside/driveway camera section
+- "Van Nest Morris Park Avenue security cameras" · web · https://www.bxtimes.com/van-nest-park-receives-security-cameras/ · Sep 29 2011: three cameras outside Van Nest Park requested by Van Nest Neighborhood Alliance, paid (~$1,000) by Cross County Federal Savings Bank (new Morris Park Ave branch), Sen. Jeff Klein arranged permits and 49th Precinct access; concerns: night drug dealing, gangs · park-edge section, myths
+- same · https://www.cbsnews.com/newyork/news/bronx-package-thefts/ · Nov 7 2017, neighboring Morris Park: package thefts on Narragansett Ave and Tenbroeck Ave caught on a homeowner's cameras; residents moving deliveries to back of homes · porch/package section, FAQ
+- "Bronx Metro-North rezoning" · web · https://www.amny.com/nyc-transit/city-council-approve-bronx-metro-north-rezoning/ · Council approval of Bronx Metro-North station-area rezoning (2024) · new construction section
+- Reddit (r/bronx) Van Nest camera threads: EMPTY (none found in build env); Answer the Public: EMPTY (not accessible)
+
+### Questions people ask — Security Camera Installation in Van Nest
+- How do I cover a stoop and porch where packages sit? — CBS Morris Park (web)
+- What camera stops a push-in at an apartment door in a two-family? — CBS 2021 (web)
+- Do I need a camera on the curb where I park? — News 12 2026 (web)
+- Does the park camera program mean the block is covered? — Bronx Times 2011 (web)
+- Should a landlord and downstairs tenant share one camera system? — housing stock (web)
+- What about new buildings after the rezoning? — amNY / Wikipedia (web)
