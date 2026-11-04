@@ -3273,3 +3273,151 @@ These questions are real, but I found them on installer FAQ pages, not in search
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo — EMPTY
 - Reddit — EMPTY
 - Yelp — EMPTY
+
+## Prospect Heights, Brooklyn — /security-camera-installation-prospect-heights-brooklyn-ny (factory research, 2026-11-04)
+
+**A note on how this was done:** My search tool returns web pages. It doesn't show Google's People Also Ask boxes, Google's "People also search for" or related searches, AnswerThePublic, Bing or DuckDuckGo, so I couldn't record any of those. Those items are marked EMPTY below and none of them were invented. I also found no Reddit threads and pulled no HPD, 311 or DOB data. The questions listed at the end come from FAQ sections on web pages, Q&A sites and Yelp, and each one is labeled with where it actually appeared.
+
+### 1. What matters most for camera installation in this neighborhood
+
+**Landmarks (LPC) rules**
+- Prospect Heights is a city historic district. It includes about 850 buildings, mostly single-family row houses and apartment buildings, built mostly from the mid-19th to early 20th century. It was designated June 23, 2009. — https://hdc.org/borough/prospect-heights/
+- The district's boundaries: roughly Flatbush Avenue, Sterling Place, Washington Avenue and St. Marks Avenue, with a section reaching as far north as Pacific Street. It is the fifth largest historic district in New York City. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- Sources disagree on its size ranking. When it was designated, CityLand said it will be Brooklyn's largest historic district. Wikipedia now calls it the city's fifth largest. — https://www.citylandnyc.org/brooklyn%E2%80%99s-prospect-heights-historic-district-designated/
+- The LPC permit guidebook covers security cameras by name. For small residential and commercial buildings, no more than two security cameras can be installed for every 25 feet of street frontage. For large buildings, no more than three. The rules are in LPC Rules Section 2-20. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- The same guidebook shows two examples of dome-type security cameras finished to match the facade. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- A security vendor's summary (not an official source) says the LPC rules generally discourage installation on a primary façade unless no other option exists. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- How approval works: work that meets the rules is approved by LPC staff. Work that doesn't must go to the full Commission at a public hearing. — https://www.nyc.gov/site/lpc/applications/rules-guides.page
+- A warning from another historic district (Hamilton Heights, Harlem): homeowners there received Landmarks violations for putting security cameras on their homes to catch graffiti vandals. — https://www.citylandnyc.org/landmarks-applies-double-standard-for-townhouse-addition/
+- An LPC presentation from December 2025 (7 East 7th Street) shows the level of detail commissioners review on a brownstone: pole-mounted cameras attached under the water table, mock-ups, and comparisons of camera housing size. — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20251216/7-East-7th-Street.pdf
+
+**Tenant, landlord and co-op rules**
+- Renters: you need the landlord's permission to install any equipment in common areas, including the hallway outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Co-ops: a landlord or co-op board can generally install cameras in lobbies, entryways, hallways and other common spaces. — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Audio: recording a tenant's conversation in a corridor or elevator without consent might break wiretapping laws. — https://www.outerbridgelaw.com/blogs/legal-rules-on-security-cameras-in-nyc-rentals/
+- Sources conflict on a city camera-notice law. One installer says NYC Local Law 50 requires residential buildings with cameras in common areas to notify residents. Another site cites NYC Local Law 3 of 2019 – Security Cameras in Residential Buildings. I couldn't check either against official sources, so treat both as unverified. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners ; https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Most apartment buildings don't have to install cameras: NYC law does not universally require apartment buildings to install security cameras. — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+
+**Recent incidents tied to specific blocks**
+- July 2026: a burglar entered a Prospect Heights bar at 80 Sixth Ave. through a basement door around 4:15 a.m. on July 8, forced his way into an office and took about $4,000. Police said he got into businesses primarily through basement-level doors. This makes a case for cameras on basement and areaway entrances. — https://brooklyneagle.com/404730/burglar-hits-11-brooklyn-businesses-in-summer-spree/
+- Eastern Parkway mail theft: a thief caught on residents' surveillance footage broke into the mail bin in front of 55 Eastern Pkwy at least three times, taking the whole bag of mail for six buildings near Underhill Avenue. — https://patch.com/new-york/prospectheights/repeat-mail-thief-steals-entire-prospect-heights-block
+- Vanderbilt Avenue retail: two women took more than $6,000 in jewelry from Specific Gravity, 613 Vanderbilt Avenue, between Bergen Street and St. Marks Avenue. Police released the store's surveillance footage. The article date wasn't visible. — https://www.patch.com/new-york/prospectheights/thieves-steal-nearly-7k-jewelry-during-broad-daylight-brooklyn-heist
+- 2020 home burglary pattern: one attempt was at 8:45 a.m. on Jan. 8 at a home on Park Place near Carlton Avenue, where the burglar tried to damage the apartment door lock. — https://www.amny.com/new-york/brooklyn/busy-brooklyn-burglar-steals-more-than-67000-in-valuables-from-homes-cops/
+- Older mailbox thefts (Patch, about 2012): repeated incidents at a dozen or more homes on Prospect and Park places between Underhill and Vanderbilt. — https://patch.com/new-york/prospectheights/repeated-mail-theft-plaguing-prospect-place-residents
+
+**Police precincts**
+- Patch reports the 78th Precinct covers the western side of Prospect Heights, from Flatbush Avenue to the western half of Vanderbilt. The 77th covers the rest. — https://patch.com/new-york/prospectheights/police-blotter-strong-arm-robbery-pacific-street-brea05bb661fa4
+- A competitor's page says simply the 78th Precinct covers Prospect Heights, which conflicts with Patch. — https://abstractenterprisessecuritysystems.com/security-camera-installation-prospect-heights-brooklyn-ny
+
+**What a competitor already says (for differentiation)**
+- Abstract Enterprises lists threats including event-day crowd crime near Barclays Center, says WiFi cameras can't reliably get through the thick walls and floors of Prospect Heights buildings, and quotes $850 – $2,500 for a 4–8 camera home system. — https://abstractenterprisessecuritysystems.com/security-camera-installation-prospect-heights-brooklyn-ny
+
+**City data (HPD violations, 311 complaints, DOB permits):** EMPTY.
+**Reddit threads about this neighborhood:** EMPTY.
+
+### 2. Neighborhood background
+
+- **Boundaries:** Flatbush Avenue to the west, Atlantic Avenue to the north, Eastern Parkway (starting at Grand Army Plaza) to the south, and Washington Avenue to the east. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- **Early history:** The area was mostly farm and woodland until the middle of the nineteenth century. In the 1880s the city sold off the land between Sterling Place and Prospect Place, which was built up with the row houses that now form the historic district. — https://6tocelebrate.org/neighborhood-items/prospect-heights-apartment-house-district-brooklyn/
+- **Later development:** The land between Eastern Parkway and St. John's Place was tied up in title litigation and stayed undeveloped until well after 1900. — same URL
+- **Building eras and styles:** Neo-Grec rowhouses from the 1860s and '70s, plus Romanesque and Renaissance Revival houses from the 1880s and '90s. The eastern part of the district along Flatbush Avenue has larger mixed-use buildings. — https://www.brooklynpaper.com/city-makes-history-in-prospect-heights/ ; https://www.citylandnyc.org/brooklyn%E2%80%99s-prospect-heights-historic-district-designated/
+- **National Register district (separate from the city one):** 305 contributing buildings built between 1865 and about 1900, almost entirely residential, with single-family rowhouses and multiple dwellings. — https://en.wikipedia.org/wiki/Prospect_Heights_Historic_District_(New_York_City)
+- **Co-ops and condos:** Pre-war co-ops cluster around Grand Army Plaza and Eastern Parkway (50 and 60 Plaza Street East, 41 and 135 Eastern Parkway). Luxury condos include One Grand Army Plaza and 550 Vanderbilt. — https://www.prospectplaces.com/realestate/prospect-heights-brooklyn-neighborhood-guide
+- **High-rises (Pacific Park):** The project has so far brought about 3,000 apartments in eight new buildings. A phase 2 plan proposes five residential towers and a new green space. — https://www.bkreader.com/policy-government/draft-plan-for-atlantic-yards-adds-5-towers-to-brooklyns-prospect-heights-11522646
+- 550 Vanderbilt: a condo with 278 units, 17 stories. — https://streeteasy.com/building/550-vanderbilt-avenue-brooklyn
+- Brooklyn Crossing: a 51-story residential tower in Pacific Park. — https://www.6sqft.com/place/pacific-park/
+- **Main streets:** Vanderbilt, Underhill, Carlton and Washington avenues, where historic rowhouses mix with cafés, corner shops and new residential buildings. — https://cityneighborhoods.nyc/prospect-heights
+- **Vanderbilt Open Street:** run by the Prospect Heights Neighborhood Development Council. — https://patch.com/new-york/prospectheights/another-block-prospect-heights-open-outdoor-dining
+- **Landmarks along Eastern Parkway:** the south side has the Brooklyn Public Library, Mount Prospect Park, the Brooklyn Botanic Garden and the Brooklyn Museum. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- **Church landmark:** The Co-Cathedral of St. Joseph, built in 1912 in Spanish Colonial style, at 856 Pacific Street between Vanderbilt and Underhill. — https://en.wikipedia.org/wiki/Prospect_Heights,_Brooklyn
+- **What it's known for:** brownstones with deep backyards, being next to Prospect Park, Vanderbilt Avenue dining, and nine subway lines within reach. Deep backyards make rear-yard camera coverage relevant. — https://www.prospectplaces.com/realestate/prospect-heights-brooklyn-neighborhood-guide
+- **Detached houses:** EMPTY (none found).
+
+### 3. Yelp and local businesses
+- Yelp's top results for camera installation near Prospect Heights include Solomon's Security Solutions, City Smart Systems, True Defense Solutions, True V Security Systems, Security Camera NY and Eddies Security Systems. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Prospect+Heights%2C+Brooklyn%2C+NY
+- Praise found: "I was very happy with my security camera installation" (Peace of Mind, Brooklyn). — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=Brooklyn%2C+NY
+- Yelp mislabel: the DND Security Cameras listing at 4107 Clarendon Rd (ZIP 11203) is tagged "Prospect Heights," but that address isn't in the neighborhood. — https://www.yelp.com/biz/dnd-security-cameras-brooklyn
+- Brownstoner forum (not Reddit): one user recommends Alarms R Us because they are local (Brooklyn-based) and you can always get someone on the phone. — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+- **Yelp complaints:** EMPTY.
+
+### Questions people ask — Security Camera Installation in Prospect Heights
+
+**Search tools I couldn't check:**
+- Google People Also Ask: EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+
+**Questions found on web pages, Q&A sites and Yelp:**
+- How do I stop package theft at my Prospect Heights property? — FAQ on competitor's page — https://abstractenterprisessecuritysystems.com/security-camera-installation-prospect-heights-brooklyn-ny
+- What does security camera installation cost in Prospect Heights? — same page — same URL
+- Do you install in Prospect Heights landmark areas? — same page — same URL
+- How long does camera installation take in Prospect
+
+## Riverdale, Bronx — /security-camera-installation-riverdale-bronx-ny (factory research, 2026-11-04)
+
+**Facts specific to security camera installation in Riverdale (most important)**
+
+- Ring cameras are everywhere here. A Riverdale Press op-ed (about 5 months old) says that if you walk through Riverdale today you are likely to see a Ring camera mounted next to a front door. For many residents, these devices have become as common as mailboxes or porch lights. — https://www.riverdalepress.com/stories/untitled,233034
+- The same op-ed raises a privacy point that matters for where cameras are aimed: because its cameras often record sidewalks and neighboring properties, people can be filmed without their knowledge. — https://www.riverdalepress.com/stories/untitled,233034
+- Porch theft in North Riverdale: a resident saw someone Sunday night stealing his Amazon package on his Ring camera at west 260th Street and Tyndall Avenue. He said police initially told him that an incident report would immediately be closed because the value of the package is under $1,000. — https://bronx.news12.com/exclusive-porch-pirate-in-north-riverdale-caught-on-camera
+- Repeated car break-ins caught on a home camera (Arlington Ave): security video shows a man in sweats, slippers and a baseball cap walking up to a car parked in the driveway on Arlington Avenue. The owner says his car was targeted in February, March, May and September, with the suspect typically striking between 4 and 6 a.m. That timing is an argument for good night vision on driveways. — https://bronx.news12.com/caught-on-camera-thief-hits-riverdale-mans-car-four-times
+- Fieldston car break-ins (undated CBS story): the thief is seen walking over to a truck parked on Fieldston Road. He tries the unlocked door and gets right in. A neighbor's van wasn't even on her street. It was in her driveway -- behind a closed gate. — https://www.cbsnews.com/newyork/news/cars-vandalized-riverdale-bronx-nypd/
+- Auto theft is an ongoing concern (Riverdale Press, 7/24/26): Riverdale residents are calling for stronger police action after a series of car and catalytic converter thefts. Separately, the NYPD's 50th Police Precinct hosted an auto theft prevention event in May that offered free catalytic converter etching. — https://www.riverdalepress.com/category/crime/browse.html
+- Broadway / Van Cortlandt Park edge (7/10/26): a reported sexual assault near Van Cortlandt Park has renewed residents' calls for better lighting, surveillance and safety measures along the Broadway corridor — https://www.riverdalepress.com/category/crime/browse.html
+- Commercial break-in on Riverdale Avenue: the break-in happened around 4:35 a.m. at Bokaguá Restaurant, located at 3541 Riverdale Ave. The NYPD says the burglars got away with $6,200 from the register. Surveillance video shows one man ripping a cash register from the bar, while another stands outside with a backpack. — https://bronx.news12.com/two-masked-thieves-break-into-riverdale-restaurant-steal-cash-register-and-bottles
+- Fire-escape entry near Johnson Ave & W 236th St (undated): the break-in happened around 8 p.m. Friday at an apartment building near Johnson Avenue and West 236th Street in the Riverdale section. Police said the suspect climbed through a fire escape window that had a broken lock. Building management told DeAngelis there are cameras in the front and back of the building and they may install more in wake of the incident. — https://www.cbsnews.com/newyork/news/burglar-sought-in-2-break-ins-at-same-building/
+- Package theft inside apartment buildings (Riverdale Nextdoor): one resident's package was delivered to a "locked" room in our building but when I finally was able to get into the room my package was already gone. Another warns about a male who is walking into building in Riverdale and stealing packages. — https://nextdoor.com/neighborhood/riverdale--bronx--ny/
+- A 20-story doorman co-op is part of the entry-security picture. Police went to an apartment building on Johnson Avenue in the Riverdale section just before 8 a.m. Investigators say the doorman of the 20-story building, the Winston Churchill, heard a gunshot and called 911. (Jan 22, 2026) — https://abc7ny.com/post/bronx-murder-suicide-3-people-shot-including-2-fatally-riverdale/18448351/
+- Riverdale business camera example (older article, ~7.5 years old): a security camera looks out onto Riverdale Avenue from Vacuum World. The Bronx DA's private-camera registry is known as the Computer Assisted Monitoring System. Participation is completely voluntary, and map of security camera locations would remain confidential. The article also warns that recorders often loop, or tape over, existing footage after a period of time that can be as short as 24 hours. — https://www.riverdalepress.com/stories/bronx-da-wants-borough-directory-of-security-cameras,68834
+- Very few NYPD cameras locally (old article, ~12.5 years): a 50th Precinct spokesperson said there are no NYPD cameras in this district. Current status not verified. — https://www.riverdalepress.com/stories/surveillance-has-become-a-fact-of-life,54283?page=2
+- Borough camera funding (Aug 2025): Borough President Gibson's office will budget $1.2 million for NYPD surveillance cameras and $500,000 for DSNY illegal dumping cameras this year. — https://pix11.com/news/local-news/bronx/more-crime-fighting-cameras-coming-to-the-bronx/
+- LPC rules (applies to the Riverdale and Fieldston historic districts): If you own a landmark or a building in a designated historic district in New York City, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work. — https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property#operation
+- LPC's Permit Guidebook chapter on health and safety equipment covers cameras directly. It lists window security bars, security cameras, lighting, and intercom panels and says staff can approve security cameras if installation meets the listed criteria (LPC Rules Section 2-20). The fragmented snippet also suggests some camera work needs no permit, but those conditions couldn't be confirmed from the excerpt; check the PDF. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Fieldston has its own master plan and an extra zoning layer: The Fieldston Historic District contains 257 houses and related structures, and is subject to the Special Natural Area District. Applicants for work in the Fieldston Historic District are encouraged to work closely with DCP and LPC staff when developing a project. — https://www.nyc.gov/assets/lpc/downloads/pdf/pubs/Fieldston-Historic-District-MP.pdf
+- Riverdale Historic District rules: The Commission's Rules for the Riverdale Historic District pertain to proposed alterations and new construction of structures and landscapes in the Riverdale Historic District. — https://www.riverdalenature.org/riverdale-historic-district
+- Installer claim (not an official source): surface-mounted cameras on street-facing facades in historic districts may require an LPC permit or Certificate of No Effect. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Intercom law, relevant to Riverdale's many post-1968 co-op towers: an intercom system is legally required in Class A multiple dwellings built or converted after January 1, 1968, that contain eight or more apartments. A non-functioning intercom is an HPD violation, subject to enforcement and potential fines. — https://www.paragonsecurityny.com/blog/2026/july/how-nyc-building-managers-choose-a-commercial-in/
+- No camera mandate exists: There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Co-op board approval: Most NYC co-op proprietary leases require board approval for any exterior camera or modification affecting building appearance. — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- Hallway cameras in co-ops: In a co-op, the hallway is a common area under the board's control, so a shareholder cannot unilaterally install hardware there. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- How competitors describe Riverdale buildings (marketing copy): Tudor and Art Deco co-ops in Riverdale, Fieldston, Spuyten Duyvil, and Hudson Hill — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Competitor claim that cabling, not cameras, drives cost: a pre-war building with masonry walls and common areas, versus a co-op unit, versus a detached Riverdale home with a driveway and yard. Cable through pre-war risers and how many entrances you have move it far more than the camera count. — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Competitor Riverdale lobby pitch: cover main vestibules, elevator banks, and package delivery areas with wide-angle dome cameras to prevent package theft and monitor access. — https://www.365securitysolution.com/security-camera-installation-bronx.html
+- Riverdale-based installer listing: Total Security & Camera Installation 5550 Broadway #2872, Bronx, NY 10463 — https://www.safehome.org/security-systems/new-york/bronx/
+- Published Bronx price claims:
+  - $500-$2,500 for residential systems and $2,000-$10,000+ for commercial installations — https://findasecuritydealer.com/installers/ny/bronx
+  - A 5–8 camera system for an apartment building, office, or retail space runs $3,500–$6,000. — https://senecasecurity.com/security-cameras-bronx/
+  - Residential systems start at $1,062 for 4 cameras — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- HPD violations, 311 complaints and DOB permits for cameras or intercoms in Riverdale specifically — EMPTY
+- Reddit threads on Riverdale security cameras — EMPTY
+- Patch, Bronx Times and BKReader coverage of Riverdale cameras — EMPTY
+
+**History and development**
+
+- Early estates: The area of what is now the Riverdale Historic District was part of a 100-acre parcel purchased in 1852 from William Ackerman for suburban development by wealthy businessmen. The land was initially divided up into seven estates. — https://www.nypap.org/preservation-history/riverdale-historic-district/
+- Development of the neighborhood began in the latter half of the 19th century once the New York Central and Hudson River Railroad came through. As the 20th century progressed, upscale apartment buildings and smaller houses were added to the neighborhood. — https://en.wikipedia.org/wiki/Riverdale,_Bronx
+- Zoning vision: apartment houses along the top of the ridge would be balanced by a wide ribbon of single-family, detached homes on the slopes above the River. — https://www.nypap.org/preservation-history/riverdale-historic-district/
+- The Fieldston neighborhood was developed after the 1908 opening of the nearby subway, and many homes were designed by noted architect Dwight James Baum — https://a860-gpp.nyc.gov/downloads/k643b225t?locale=en
+- Fieldston languished, however, well into the 1920s and its residents formed the Fieldston Property Owners Association, which set strict standards for houses built here. — https://forgotten-ny.com/2009/10/riverdale-avenue-bronx/
+- The Henry Hudson Parkway, conceived in the 1920s and completed in the 1930s, both defined and preserved the area — https://cityneighborhoods.nyc/riverdale
+
+**Main streets and commercial corridors**
+
+- Riverdale Avenue is the primary north–south thoroughfare through Riverdale. Boundaries: Yonkers to the north, Van Cortlandt Park and Broadway to the east, and the Hudson to the west. — https://en.wikipedia.org/wiki/Riverdale,_Bronx
+- Riverdale's main retail corridor, along Riverdale and Johnson Avenues, features coffee shops, family-owned restaurants, bookstores, and grocery stores. — https://www.newyorkfamily.com/2025-guide-to-nyc-neighborhoods-the-bronx/
+- Between West 236th Street and the Henry Hudson Parkway Riverdale Avenue becomes the shopping street associated with the LPC-designated Fieldston Historic District. — https://forgotten-ny.com/2009/10/riverdale-avenue-bronx/
+- It scores high on walkability, especially in the central corridor around Johnson Avenue and West 235th Street. — https://riverdalethebronxneighborhood.org/life-in-riverdale-bronx-a-charming-green-oasis-with-community-spirit/
+
+**Building stock**
+
+- Three sub-areas: moneyed Fieldston with its handsome homes. tall trees, and rock walls; the middle class North Riverdale of private homes and small apartment buildings set on tree-lined streets; and Spuyten Duyvill, which is filled with a skyline of high rise co-op and condo buildings — https://www.movoto.com/guide/ny/riverdale-real-estate-bronx-ny-neighborhood-guide/
+- 2400 Johnson Ave: Post-war Co-op - Built in 1969 - Units 129 - Stories 13 — https://www.corcoran.com/building/riverdale/75176
+- 2500 Johnson Ave: 339 units - 20 stories - built in 1967 — https://streeteasy.com/new-developments/riverdale
+- Central Riverdale co-ops range from 1926–1931 prewar (e.g., 3656 JOHNSON Built 1931 6 floors 56 units Co-op) to many 1954–1970 elevator buildings. — https://miltoncoste.com/market-report/central-riverdale
+- Doorman co-ops: The Whitehall (3333 Henry Hudson Parkway, South Riverdale) ... A post-war high-rise doorman building — https://www.nybits.com/apartments/bronx_coop_buildings.html
+- Prewar apartment house: the nonetheless impressive apartment complex constructed in 1939, Fieldston Manor, at 5400 Fieldston. — https://forgotten-ny.com/2017/10/riverdale-fieldston-part-2/
+- Historic districts: Riverdale HD (October 16, 1990) and Fieldston HD (January 10, 2006). Individual landmarks include Christ Church, Riverdale Presbyterian Church and Hadley House. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- Fieldston HD covers properties from West 242nd Street north towards West 252nd Street, and east of Delafield Avenue through Tibbett Avenue. —
