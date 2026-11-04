@@ -635,7 +635,7 @@ LIVE | security-camera-installation-pelham-gardens-bronx-ny | Security Camera In
 LIVE | security-camera-installation-port-morris-bronx-ny | Security Camera Installation | Port Morris, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-prospect-heights-brooklyn-ny | Security Camera Installation | Prospect Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-riverdale-bronx-ny | Security Camera Installation | Riverdale, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T09:04Z factory | security-camera-installation-sheepshead-bay-brooklyn-ny | Security Camera Installation | Sheepshead Bay, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-sheepshead-bay-brooklyn-ny | Security Camera Installation | Sheepshead Bay, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-silver-beach-bronx-ny | Security Camera Installation | Silver Beach, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-soundview-bronx-ny | Security Camera Installation | Soundview, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-throggs-neck-bronx-ny | Security Camera Installation | Throggs Neck, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
