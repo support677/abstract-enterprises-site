@@ -3421,3 +3421,547 @@ These questions are real, but I found them on installer FAQ pages, not in search
 - Prewar apartment house: the nonetheless impressive apartment complex constructed in 1939, Fieldston Manor, at 5400 Fieldston. — https://forgotten-ny.com/2017/10/riverdale-fieldston-part-2/
 - Historic districts: Riverdale HD (October 16, 1990) and Fieldston HD (January 10, 2006). Individual landmarks include Christ Church, Riverdale Presbyterian Church and Hadley House. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
 - Fieldston HD covers properties from West 242nd Street north towards West 252nd Street, and east of Delafield Avenue through Tibbett Avenue. —
+
+## Sheepshead Bay, Brooklyn — /security-camera-installation-sheepshead-bay-brooklyn-ny (factory research, 2026-11-04)
+
+**Facts specific to security camera installation here**
+
+- Recent incident (Sept 2026): neighbors are trying to identify a man who damaged more than 20 cars. After reviewing footage from a home security camera, Bletnitsky said it showed a person jumping onto the vehicle, shattering the windshield. The same story says a local City Council member also shared photos on social media and said the same person appeared to be responsible for the incidents. — https://abc7ny.com/post/sheepshead-bay-residents-seek-vandalism-suspect-wanted-smashing-more-20-cars-brooklyn/19777781/
+- Home break-ins (Mar 2026): a home on East 9th Street in Sheepshead Bay was broken into and a car was stolen around 2 a.m. Two days later and a few blocks away, two people entered a home in Gravesend early Wednesday morning and stole two car keys. Shmira Public Safety increased its patrols after both. — https://bronx.news12.com/2026/03/04/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn/1sQg9hpYLfg6eQQVRcHRkE
+- Older burglary on surveillance video: It happened at around 2 p.m. on Feb. 27 near East 12th Street and Avenue X. The suspects then escaped through the back door. (This argues for a rear/yard camera, not just one at the front door.) — https://cbsnews.com/amp/newyork/news/sheepshead-bay-robbery
+- Burglars attacking the cameras: at Harvest Grocery in Sheepshead Bay, one can be seen using a broom to try to cover the security camera. At Lucky 7 Smoke Shop, the owner showed up for work and found the ATM knocked off and security cameras broken. Possible page angle: tamper-resistant mounts and a recorder stored off-site or hidden. — https://www.cbsnews.com/amp/newyork/news/bk-commercial-burglary-spree
+- Nearby 61st Precinct case: a burglar was seen on video disabling a security camera and stealing from a laundry room inside a residential building near East 3rd Street and Avenue W in Gravesend. — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+- Package theft (2019): Sheepshead Bay and surrounding areas are being preyed on by unscrupulous package thieves, who brazenly pilfer front porches in daring daylight raids, locals claim. Bedford Avenue is named, and the 61st Precinct covers Gravesend, Sheepshead Bay, and Manhattan Beach. — https://www.brooklynpaper.com/package-thieves-running-rampant-in-sheepshead-bay-locals-claim/
+- Possible "over-install" caution: a house on East 15th Street is festooned with at least 51 security cameras, according to a count made by The Post. **311 data:** At least eight 311 calls regarding a blocked driveway have been made at the address since 2022. Possible angle: driveway-blocking cameras. — https://www.aol.com/brooklyn-home-covered-dozens-signs-231937690.html
+- Camera density: in a 2021 count of Hikvision cameras, zip code 11229 (Sheepshead Bay / Marine Park) had 398, second only to 10020 at Rockefeller Center. 11229 - 398 cameras. Possible angle: replacing older Hikvision systems. — https://www.stopspying.org/2021-hikvision
+- Shooting at the Q train elevated platform (Dec 2024) on Avenue U and East 15th Street near the Q train station. Security cameras from across the street show people running in a panic down the steps. — https://abc7ny.com/post/nyc-crime-2-shot-subway-station-sheepshead-bay-brooklyn/15687668/
+- NYCHA Nostrand Houses (Oct 2026): financing closed for a $607 million comprehensive modernization of Nostrand Houses, a 16-building public housing development at 2241 Batchelder Street. Security upgrades include new access-control systems, expanded CCTV coverage, and an on-site security guard. — https://newyorkyimby.com/2026/10/financing-closes-for-renovation-of-nostrand-houses-in-sheepshead-bay-brooklyn.html
+- NYCHA history: Sheepshead/Nostrand Houses was on the 2015 list of developments that would receive cameras. — https://www.nyc.gov/site/nycha/about/press/pr-2015/cctv-progress-20150324.page. An earlier plan called for new cameras, ID-embedded door locks and new intercom systems throughout the 18-building complex. At that meeting, Clark revealed that no one would be monitoring the cameras at all. — https://bklyner.com/sheepshead-nostrand-houses-to-get-high-tech-security-to-curb-violent-crime-sheepshead-bay/
+- Co-op building types: one directory lists 41 Sheepshead Bay coop apartment buildings, including Elevator Coop Buildings (24) and Walkup Coop Buildings (17). Most are six-story postwar elevator buildings, such as 2620 and 2650 East 13th Street with 192 units each. — https://www.nybits.com/apartments/sheepshead_bay_coop_buildings.html
+- Examples on Ocean Avenue: 2950 Ocean Ave (built 1930, 4 floors, 63 units) advertises a 24/7 security system. — https://www.cityrealty.com/nyc/sheepshead-bay/2950-ocean-avenue/75247. 3060 Ocean Ave (built 1956, 149 units) has a Doorman: Full-time doorman. — https://www.hlres.com/buildings/nyc/3060-ocean-avenue-3060-ocean-avenue/600595/cooperative
+- Co-op hallway rules: In a co-op, the hallway is a common area under the board's control, so a shareholder cannot unilaterally install hardware there. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Renters: Legally speaking, you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Landlords and co-op boards: in New York they generally have the right to install security cameras in common areas of apartment buildings, such as hallways, lobbies, stairwells, and building entrances. — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Installer license (state law): A security and fire alarm installers license is required for the installation, maintenance or servicing of the following: (1) a closed circuit television system (CCTV) if such system is used, either full-time or part-time, for the detection or monitoring of intrusion. — https://www.kirschenbaumesq.com/article/cctv-license-requirements-for-new-york-state. Owners doing their own work are exempt: Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://forums.mikeholt.com/threads/nys-smoke-detector-law.93948/post-93948
+- City light poles are off-limits: "the DOT does not allow private entities to attach this type of equipment to city property. Homeowners could consider mounting the equipment to their buildings." (Boerum Hill case; it applies citywide.) — https://www.cbsnews.com/newyork/news/brooklyn-residents-at-odds-with-dot-over-surveillance-camera
+- Landmarks (LPC): the former Lundy's is the only city-designated landmark in all of Sheepshead Bay. The LPC turned down a lighting proposal for its facade, so exterior fixtures there go through LPC review. — https://brooklyneagle.com/articles/2017/07/11/former-lundys-sheepshead-bays-only-landmark-gets-thumbs-down-for-new-lighting-proposal/
+- Flooding and where to put the recorder: bungalow courts north of Emmons Ave sit below the surrounding ground, so they are surrounded by higher ground on all sides, like bathtubs. — https://urbanomnibus.net/2018/10/takes-village-weather-storm/. A Feb 2026 water main break left some basements and garages with up to 20 inches of water. — https://brooklyneagle.com/366418/water-main-break-floods-homes-in-sheepshead-bay/. *My inference, not from a source: keep the recorder and power supplies off basement floors.*
+- City planning report: Many homeowners in Sheepshead Bay have basements that are below the DFE and subject to flooding. — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/brooklyn/sheepshead-bay/summary-report-sheepshead-bay.pdf
+- Local businesses listed on Yelp: Safeway Security Systems, Stanley Locksmith & Hardware, Advanced Tech Security, Eddies Security Systems, True Defense Solutions, A Leading Lock & Alarm, ALA Tech, SunDK Digital Security Inc. — https://yelp.com/search?cflt=securitysystems&find_loc=Sheepshead+Bay%2C+Brooklyn%2C+NY
+- Local addresses: Safeway Security Systems at 2387 Ocean Ave Ste 6b, A Knight Alarm at 1115 Avenue Z. — https://hub.biz/Brooklyn-NY/Security-Equipment-Supplies
+- HPD violations about cameras or intercoms in Sheepshead Bay: EMPTY
+- DOB permits for camera work: EMPTY
+- Reddit threads specific to Sheepshead Bay: EMPTY
+
+**History and development**
+
+- In the 1870s, a large farm was subdivided for development, a trend that led to the construction of over 400 houses by the end of the century. Political boss John McKane guided the development. In the 1950s, brick apartment buildings replaced wooden houses, and by 1960, Sheepshead Bay was the fastest growing community in Brooklyn. — https://www.nycgovparks.org/parks/sheepshead-bay-piers/history
+- The racetrack site gave way to cars with the building of the Sheepshead Speedway on the same site. In 1919, it became a housing development. In the 1930s, the city widened and paved Emmons Avenue. — https://brooklyneagle.com/330318/sheepshead-bay-history/
+- The BMT Brighton Line (Q train), extended to Sheepshead Bay in 1908, connected the neighborhood directly to Manhattan. — https://cityneighborhoods.nyc/sheepshead-bay
+
+**Main streets and commercial corridors**
+
+- Sheepshead Bay Road is a commercial corridor developed in the 1920s and 1930s characterized by local ground floor retail with housing located above. — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/brooklyn/sheepshead-bay/summary-report-sheepshead-bay.pdf
+- Emmons Avenue, located along the scenic Sheepshead Bay waterfront, has both retail stores and larger restaurants. — https://www.ny.gov/sites/default/files/atoms/files/SheepsheadBay.pdf
+- Avenue U: a second Chinatown on Avenue U between the Homecrest and Sheepshead Bay sections grew up in the late 1990s. — https://en.wikipedia.org/wiki/Avenue_U
+- Rough boundaries: Emmons Avenue and the tidal inlet to the south, Coney Island Avenue to the west, Nostrand Avenue to the east, and Avenue U to the north. — https://reinventny.com/blog/sheepshead-bay
+
+**Building stock, landmarks and parks**
+
+- NYCHA: Sheepshead Bay Houses was completed in August 1950, while the Nostrand Houses were completed in December 1950. — https://en.wikipedia.org/wiki/Sheepshead_Bay-Nostrand_Houses
+- Bungalows: The distinctive bungalows are located on streets and pedestrian pathways near Emmons Avenue. Some, such as those on Brown Street, have been raised onto new pilings since Sandy. — https://brooklyneagle.com/54547/sheepshead-bay-old-and-new-flood-prone-bungalows-are-being-rebuilt-or-sold/
+- Lundy's (1901–29 Emmons Ave), built 1934 by Bloch & Hesse, is a fine example of the Spanish Colonial Revival style. — https://hdc.org/buildings/f-w-i-l-lundy-brothers-restaurant-building/
+- Shore Boulevard Mall is a waterfront promenade extending for nearly a mile along the southern bank of Sheepshead Bay. — https://en.wikipedia.org/wiki/Shore_Boulevard_Mall
+- Sheepshead Bay Piers / Ocean Avenue Footbridge: see the NYC Parks link above. Marine Park is nearby. — https://reinventny.com/blog/sheepshead-bay
+- Sheepshead Bay subway station: The elevators opened in February 2026. — https://en.wikipedia.org/wiki/Sheepshead_Bay_station
+
+**Hurricane Sandy (2012)**
+
+- On Emmons Avenue, roughly 85 percent of businesses suffered some form of damage. — https://citylimits.org/2013/03/19/40-percent-of-sheepshead-firms-still-shut-post-sandy
+
+**Prices quoted by installers (from the companies themselves)**
+
+- Residential installations typically range from $800-$1,500 for a basic 2-4 camera system in a small apartment, up to $1,500-$3,000 for larger homes with 8-10 cameras. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Thumbtack: anywhere from $100 for a single-camera line installation to $1,000-$2,200 for an entire system. — https://www.thumbtack.com/ny/brooklyn/security-camera-install
+
+### Questions people ask — Security Camera Installation in Sheepshead Bay
+
+None of these came from Google's People Also Ask box. They are FAQ headings found on websites unless marked otherwise.
+
+- How much is it to install home security cameras? — website FAQ (Thumbtack) — https://www.thumbtack.com/ny/brooklyn/security-camera-install
+- Who can install security cameras? — website FAQ (Thumbtack) — https://www.thumbtack.com/ny/brooklyn/security-camera-install
+- How much does CCTV installation cost in Brooklyn? — website FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- How much does security camera installation cost in Brooklyn NY? — website FAQ — https://electrifiedny.com/residential/security-camera-installation/
+- What should I look for when hiring a security camera installer in Brooklyn? — website FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- How much does commercial security camera installation cost in Brooklyn? — website FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-brooklyn
+- Can I watch my Sheepshead Bay cameras from my phone? — website FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installation-sheepshead-bay-brooklyn-ny
+- Can I install a security camera in the hallway for safety? — reader question (Brick Underground) — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — legal Q&A (Justia) — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Can I put a camera in my apartment hallway in NYC? — website FAQ — https://crimtechhub.com/apartment-security-camera-laws-in-new-york-state/
+- Are security cameras required in NYC apartment buildings? — website FAQ — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Who is allowed to access apartment building camera footage? — website FAQ — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Can I mount a regular security camera outside my apartment instead of a doorbell? — website FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Can tenants install cameras without landlord permission in New York? — website FAQ — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
+- Yelp complaint, not a question: a local listing called "Security Camera Installation" has a 1.0 rating. The reviewer called it a "disgusting way to do business" after asking for a new camera and recabling. — Yelp — https://yelp.com/search?cflt=securitysystems
+
+## Silver Beach, Bronx — /security-camera-installation-silver-beach-bronx-ny (factory research, 2026-11-04)
+
+**Before you use this.** I had a limited number of searches, and the search tool can't show Google's People Also Ask boxes, related searches, or Bing/DuckDuckGo results pages. I've marked those parts EMPTY and haven't made anything up to fill them. Most of the questions in the last section come from the FAQ sections of competing installers' pages, not from real PAA boxes. A few sources look unreliable, and I've flagged them where they appear.
+
+### 1. What's specific to installing cameras in Silver Beach
+
+- **It's a gated private co-op with one way in.** Silver Beach Gardens and Edgewater Park are private cooperatives with closed-off streets and a single entrance. They have security guards and signs banning loitering, trespassing and soliciting. — https://www.archpaper.com/2010/03/behind-closed-gates/
+- **Owners own their houses but not the land.** Residents own their homes and lease the land from the co-op. — https://theneighborhoods.substack.com/p/throggs-neck-the-bronx. An appraiser's forum post says the same: "we own the physical home, but not the land it's built on" — https://appraisersforum.com/forums/threads/co-op-in-silver-beach-gardens-throgs-neck-bronx.149769/
+  - *My inference, not confirmed by any source:* because the corporation owns the land, outdoor work like trenching, poles or cable runs crossing shared ground may need co-op approval. I found no Silver Beach alteration rules online, so that part is EMPTY.
+- **Housing stock.** Silver Beach Gardens is a co-op of 451 single-family homes in Throggs Neck. — https://www.realestatehudsonvalleyny.com/bronx/bronx-co-op-Silver-Beach/
+- **Houses are small and packed close together.** One writer saw bungalows built closer and closer together and noted narrow streets with little room to move. — https://www.ourtownny.com/news/the-bronxs-lost-gated-community-BYNP1120010116301169975. This matters for where cameras point and for privacy.
+- **The waterfront is hard on outdoor equipment.** An installer's page says loose, corroded or water-damaged BNC connectors are the top cause of analog camera failure in the Bronx, and salt air on coastal blocks like Silver Beach speeds this up a lot. It also cites weak camera gaskets wearing out after 4–6 winters, faster on coastal blocks. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx (vendor claim)
+- **Flooding.** During Sandy, residents shoveled a thick layer of debris off the streets after Long Island Sound came over its banks. — https://citylimits.org/2012/10/30/bronx-bruised-by-sandys-power. This is a reason to keep recorders and power supplies off low floors and out of basements.
+- **The co-op already has 24/7 gate security.** Non-resident vehicles are restricted and the gates are staffed around the clock. — https://silverbeachthebronxneighborhood.org/living-in-silver-beach-bronx-a-hidden-waterfront-gem-with-tight-knit-community-vibes/ (low reliability; see the caution in section 2)
+- **Renters are rare.** Renters are uncommon and homes rarely come on the open market (same site, low reliability). Customers are mostly owner-occupants.
+- **Nearby public cameras.** Assembly Member Benedetto secured a $320,000 grant for NYPD Argus cameras on the Throggs Neck commercial corridor, placed along East Tremont Avenue between Bruckner Boulevard and Harding Avenue. — https://www.assembly.ny.gov/mem/Michael-Benedetto/story/104629
+  - The cameras are watched in real time by the 45th Precinct and police headquarters. The district has 321 businesses. — https://news.yahoo.com/anti-crime-cameras-installed-bronx-023515656.html
+  - Three days after installation, the cameras recorded a woman being robbed and thrown to the ground. — https://www.bxtimes.com/throggs-neck-security-cameras/
+- **Local burglary and theft activity (45th Precinct).** A 45th Precinct officer posted on Nextdoor that a man was breaking into homes, going into backyards and stealing, and linked a Ring Neighbors post. — https://nextdoor.com/neighborhood/throggsneck--bronx--ny/
+  - Another Nextdoor post mentions complaints of burglary, moped theft and package theft. — https://nextdoor.com/resources/crime-and-safety/throggsneck--bronx--ny/
+- **A local business burglary.** In 2020, two burglars forced a basement door at a corner deli and took money from two safes. — https://www.bxtimes.com/thieves-steal-over-7k-from-throggs-neck-deli/
+- **City data:**
+  - HPD: an Openigloo summary of Silver Beach Gardens Corp says it's linked to 20 properties, with 0 open violations and 0 litigations in NYC public data. — https://www.openigloo.com/contact/nyc/bc7ad9a4-2969-4d51-ba3b-bf3c7216d722/silver-beach-gardens-corp
+  - 311 complaints: EMPTY. DOB permits specific to Silver Beach: EMPTY.
+- **DOB permits in general.** Low-voltage camera wiring in a single-family NYC house generally doesn't need a DOB permit. — https://senecasecurity.com/services/security-cameras/single-family-houses/
+  - In co-ops, cameras in common areas usually need board approval. — https://senecasecurity.com/learn/security-camera-installation-costs-nyc/
+- **Installer licensing.** New York's General Business Law Article 6-D requires a Department of State license to install or service security or fire alarm systems. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Landmarks (LPC).** I found no LPC designation for Silver Beach or the Hammond mansion: EMPTY. LPC's permit guidebook has a section on installing security cameras on landmarked buildings. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- **Reddit threads about Silver Beach cameras:** EMPTY.
+
+### 2. Neighborhood background
+
+- **Early history.** The Stephenson family's farm was sold in 1795 to Abijah Hammond, who built a large mansion that later became the Silver Beach Garden Corporation's offices. — https://en.wikipedia.org/wiki/Throggs_Neck
+- **Founding.** The Peters and Sorgenfrel families formed Silver Beach Garden, named for the color of the beach at low tide. It began as a summer bungalow colony later converted for year-round use, and most streets are named for flowers and trees from the Hammond estate. — https://en.wikipedia.org/wiki/Throggs_Neck
+- **Dates conflict.** The private co-op was finalized in 1973 — https://www.archpaper.com/2010/03/behind-closed-gates/. CityNeighborhoods instead dates the co-op's founding to 1920 — https://cityneighborhoods.nyc/silver-beach
+- **Location.** Silver Beach runs along the East River shore from Throgs Neck Boulevard to Jasmine Place, on a cliff with views of the Throgs Neck and Whitestone bridges. — https://forgotten-ny.com/2007/04/silver-beach-bronx/
+  - It lies south of the Cross Bronx Expressway; its sister communities are Edgewater Park and Harding Park. — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx)
+- **Main landmark: the Hammond mansion.** Forgotten NY dates it to about 1805, at Sunset Trail and Plaza, and says it's now the co-op association's office. — https://forgotten-ny.com/2007/04/silver-beach-bronx/
+  - The Bronx Survey calls it one of the finest buildings of its type in the city — http://www.emilio.nyc/blog/standard/bronx-survey/silver-beach-gardens-office/
+  - The co-op office is at 1 Plaza Pl, Bronx, NY 10465, (718) 828-2627 — https://www.yelp.com/biz/silver-beach-gardens-bronx
+- **Streets seen in listings.** Magnolia Pl, Oak Ave and Elm Pl co-ops are listed as built 1920. Nearby detached houses on Mullan Pl (built 2018) and Longstreet Ave (built 2005) appear in the same results. — https://www.redfin.com/neighborhood/207683/NY/New-York/Silver-Beach. Also Indian Trail, which is the last street before the land slopes into the East River. — https://www.ourtownny.com/news/the-bronxs-lost-gated-community-BYNP1120010116301169975
+- **Unreliable street lists.** Two sites name streets that don't appear to be in Silver Beach, so don't use them:
+  - CityNeighborhoods lists Clarence, Crosby and Emerson Avenues — https://cityneighborhoods.nyc/silver-beach
+  - Silverbeachthebronxneighborhood.org lists Schuyler, Barkley and Maclay Avenues — https://silverbeachthebronxneighborhood.org/living-in-silver-beach-bronx-a-hidden-waterfront-gem-with-tight-knit-community-vibes/
+- **Commercial corridor.** There's no commercial strip inside Silver Beach. The nearest is East Tremont Avenue in the Throggs Neck BID (see the Argus camera items above). Police coverage: Throggs Neck is patrolled by the NYPD's 45th Precinct. — https://en.wikipedia.org/wiki/Throggs_Neck
+- **Amenities.** Residents have private beach access, plus a clubhouse and playground — https://silverbeachthebronxneighborhood.org/living-in-silver-beach-bronx-a-hidden-waterfront-gem-with-tight-knit-community-vibes/ (low reliability)
+- **What it's known for: a 2010 fair-housing lawsuit.** The lawsuit was filed in February 2010. Silver Beach Gardens settled in May 2011 for $115,000 plus injunctive relief. — https://ecbawm.com/news/ecbawm-settles-racial-housing-discrimination-case-against-bronx-cooperative/
+- **Population.** About 2,480 people in 952 households. — https://www.weichert.com/search/community/neighborhood.aspx?hood=5612
+- **Recent local news about building security or entry systems:** EMPTY beyond the items in section 1.
+- **Excluded source.** silverbeachassociation.org is a different Silver Beach, not the Bronx one.
+
+### Questions people ask — Security Camera Installation in Silver Beach
+
+**Not found:**
+- Google PAA for both queries: EMPTY
+- Google People Also Search For / related searches: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- AnswerThePublic: EMPTY (I couldn't reach the tool directly)
+- Reddit threads (r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Patch, Bronx Times or BKReader stories about camera installation in Silver Beach: EMPTY
+
+**Questions I did find.** These come from installer FAQ sections, which are probably written with PAA in mind but aren't confirmed PAA:
+- How much does security camera installation cost in Bronx? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Do I need a permit to install security cameras in Bronx? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How long does security camera installation take? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- What's the difference between wired and wireless security cameras? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Can I view my security cameras on my phone? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- How many security cameras do I need? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Can you install intercoms and security cameras together in Silver Beach? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-installation-silver-beach-bronx-ny
+- Can a Bronx renter install a camera without landlord permission? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Where can my camera legally point in an apartment building? — competitor FAQ — same URL
+- Do you protect cameras near the water from salt-air corrosion? — competitor FAQ — same URL
+- Do the cameras record in color at night? — competitor FAQ — same URL
+- Do I need a licensed contractor for a home install? — competitor FAQ — same URL
+- Do you handle co-op and condo board documentation? — competitor FAQ — same URL
+- Does the system record without internet? — competitor FAQ — https://senecasecurity.com/security-cameras-bronx/
+- Wired or wireless — which is better? — competitor FAQ — https://senecasecurity.com/security-cameras-bronx/
+- Do cameras work in dark backyards and driveways? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Is there a monthly fee? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- How do I avoid a bad low-bid installer in the Bronx? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-bronx
+- Is it legal for a neighbor to have a camera pointed at your house? — Arlo blog (PAA-style question) — https://blog.arlo.com/home-security-tips/can-neighbors-have-security-cameras-pointing-at-my-backyard/
+- What if a camera points toward my window? — RecordingLaw FAQ (it cites NY Penal Law 250.45) — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- Do I need a permit to install security cameras in my NYC building? — installer blog FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+
+**Yelp:**
+- Praise for a Bronx installer: "His price was very fair and there were no surprise charges." — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Praise for an installer listed near Throgs Neck: "Knows FDNY rules and regulations" — https://yelp.com/search?find_desc=Fire+Alarm+Installation&find_loc=Throgs+Neck%2C+Bronx%2C+NY
+- Complaints: EMPTY.
+
+**Excluded:** the near-me-services.com "Throgs Neck" pages. Their reviews look like boilerplate; one even talks about carpet cleaning.
+
+## Soundview, Bronx — /security-camera-installation-soundview-bronx-ny (factory research, 2026-11-04)
+
+**How far I got:** My search tool doesn't show Google's People Also Ask, People Also Search For, Bing or DuckDuckGo result pages, or AnswerThePublic. Those fields are EMPTY. My searches turned up no Reddit threads, and I couldn't get HPD, 311 or DOB data. Every item below has a source. Claims from competitor installer websites are labeled because they are marketing, not verified facts.
+
+### Facts specific to security camera installation in Soundview
+
+- **Early CCTV test.** In 1976, NYCHA started an experimental $90,000 closed-circuit TV program in three buildings of the Bronxdale Houses in the Soundview section of the South Bronx, to deter rising crime. — https://citylimits.org/on-camera-surveillance-in-transit-schools/
+- **How that test worked.** Cameras went into the lobbies and elevators of three buildings. The images were sent on a split screen to a channel on residents' TVs, so tenants could watch common areas and report suspicious activity to Housing Authority police. — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- **Bronx River Houses cameras.** By the early 1990s the development had cameras in lobbies and elevators and reinforced security windows. In 1999 the NYPD finished installing 135 CCTV cameras there. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- **Earlier resident security efforts at Bronx River Houses.** By the late 1970s residents were organizing over crime and safety. Their patrol pushed for visitor sign-ins, better communication with police and more building-security measures. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- **Business cameras that solved a case.** 17-year-old Sincere Campbell was fatally shot around 3 a.m. on Sept. 21, 2024. The shooting was recorded by surveillance cameras at a deli at Evergreen and Westchester avenues. — https://bronx.news12.com/police-identify-man-wanted-for-2024-fatal-shooting-of-soundview-teen
+- **Building-entrance footage.** For a Dec. 8 shooting on Watson Avenue, police released video showing both suspects walking into a residential building. — https://connecticut.news12.com/story/37037635/surveillance-video-shows-2-accused-of-soundview-shooting
+- **Westchester Avenue double homicide (June 2026).** It happened just after 10 p.m. outside a home on Westchester Avenue in Soundview. The two men often played dominoes with others at the Morrison Avenue Street Plaza. — https://www.cbsnews.com/newyork/news/bronx-shooting-two-men-dead-soundview-nypd/
+- **43rd Precinct share.** The precinct had five homicides in 2026 at that point, about 5% of the citywide total. — https://www.cbsnews.com/newyork/news/bronx-shooting-two-men-dead-soundview-nypd/
+- **Westchester Avenue storefront shooting.** The Bronx Times reported that police say a masked gunman fatally shot a man outside ExoticWorld Smoke Shop on Westchester Avenue on Aug. 7. — https://www.bxtimes.com/category/news/neighborhoods/soundview/
+- **Bodega shooting arrest (Aug. 2026).** NYPD arrested 31-year-old Jesus Acosta after an anonymous 911 tip led officers to a park in Soundview. Surveillance video showed the gunman firing shortly after entering the bodega, then going behind the counter and taking cash from the register. The bodega's location isn't confirmed as Soundview. — https://www.fox5ny.com/news/jesus-acosta-arrested-after-deadly-bronx-bodega-shooting-caught-camera
+- **Policing.** The NYPD's 43rd Precinct patrols the neighborhood, and Police Service Area 8 covers its public-housing developments. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Citizen app activity (2026).** ShotSpotter alerts were logged at 1410 Bruckner Blvd and 733 Beach Ave. Related incidents included a person shot at 1772 Randall Ave and a report of two people tased at 805 Taylor Ave. — https://citizen.com/-Ox88uq_hOUubC9saVqr
+- **Building safety in the news.** Citizen also logged a person hurt after a ceiling collapsed at 717 St Lawrence Ave. — https://citizen.com/-OzEPA9xMHW-tvhK9-V8
+- **Tenant installs (competitor claim, unverified).** One installer says wireless is the only legal install option for residents in NYCHA developments including Bronx River Houses and Soundview Houses. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- **No-drill setup (competitor claim, unverified).** No-drill adhesive mounting, microSD local storage, and no changes to the building's Wi-Fi. — same URL
+- **Private buildings next to NYCHA (competitor angle, unverified).** The same company pitches cameras on privately owned buildings around the development perimeter. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-soundview-bronx-ny
+- **Brick facades (competitor claim).** For brick apartment buildings, they use masonry anchors that won't damage the facade. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-soundview-bronx-ny
+- **Co-op approvals.** In a co-op the hallway is a common area the board controls, so a shareholder can't install hardware there alone. This matters for Jamie Towers. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- **Tenant rules.** Tenants generally can't install cameras in common hallways, lobbies or other shared spaces without the landlord's permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- **Landlord rules.** Landlords can install cameras in common areas like lobbies, hallways, stairwells and parking areas. Cameras that record audio must follow New York's one-party consent rule under Penal Law 250.00. — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- **Electrician requirement (installer blog, unverified).** The blog says NYC requires licensed electricians for wired camera installs. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- **New high-rise.** Construction has started on a 22-story building at 1920 Turnbull Ave. with 228 affordable units, including 137 supportive units for formerly homeless people. This could mean new entry and camera work. — https://www.bxtimes.com/construction-228-affordable-supportive-soundview/
+- **HPD violations for Soundview:** EMPTY
+- **311 complaints for Soundview:** EMPTY
+- **DOB permits for Soundview:** EMPTY
+- **Reddit threads (r/Bronx, r/AskNYC, r/homesecurity) about cameras in Soundview:** EMPTY
+- **Patch / BKReader coverage:** EMPTY
+
+### History and development
+
+- **Clason Point origins.** In 1793 the Willetts split Cornell's Neck, selling the eastern half to merchant Isaac Clason, who gave Clason Point its name. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Joining the city.** The area east of the Bronx River was part of Westchester County until New York City annexed it in 1895. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Resort era.** Clason Point was known for beaches, excursions and amusements, including Clason Point Amusement Park (1910–1935). — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **First Bronx public housing.** In 1941 Clason Point Gardens became NYCHA's first public housing development in the Bronx. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Quonset huts.** In 1947 a temporary NYCHA project of 947 apartments in 473 Quonset huts was built here. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Postwar growth.** The area stayed largely undeveloped until the 1950s, when the Bronx River Parkway and Bruckner Expressway made it easier to reach. — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- **Robert Moses and Harding Park.** From the 1930s to the 1950s, Robert Moses tried to modernize this waterfront. Harding Park was preserved as a co-op in 1981, while Soundview Park was left unfinished. — https://academicworks.cuny.edu/qc_pubs/159/
+- **Decline.** From the late 1970s through the 1980s the area got a reputation as rough as many residents moved to the suburbs. — https://www.apartments.com/local-guide/soundview-bronx-ny/
+
+### Main streets and commercial corridors
+
+- The Bruckner Expressway cuts through the neighborhood. Westchester Avenue and Soundview Avenue are the main commercial and transit corridors. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- The elevated 6 train runs along Westchester Avenue, stopping at Elder Avenue, Morrison Avenue and St. Lawrence Avenue. — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- Westchester Avenue has a few chain stores such as GameStop and Foot Locker alongside smaller family-owned businesses. — same URL
+- The Shops at Bruckner Commons separates Castle Hill from Soundview and includes some national chains. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- Example storefront: 1561 Westchester Ave is a store building of about 5,000 sq ft suited to medical office or clinic use. — https://images1.showcase.com/d2/QLKFY2P34tvcgNw6n3WkcjIsHYIY-EiyVwSV-7XvB5g/document.pdf
+
+### Building stock
+
+- **Age of buildings.** The median construction year is 1956. About 36.6% of homes were built before the 1940s and another 9% by 1949. — https://www.point2homes.com/US/Neighborhood/NY/Bronx/Soundview-Demographics.html
+- **Houses and walk-ups.** Single- and two-family homes fill the streets north of Lacombe Avenue, with modest apartment buildings along Watson and Soundview avenues. — https://cityneighborhoods.nyc/soundview
+- **Sotomayor Houses.** 28 buildings with nearly 1,500 apartments. Bordered by Bruckner Boulevard and Watson, Soundview and Leland avenues. — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- **Soundview Houses.** 13 seven-story buildings. — https://soundviewhouses.us/about-us/
+- **James Monroe Houses.** Twelve buildings of 8, 14 and 15 stories with 1,102 apartments. — https://en.wikipedia.org/wiki/James_Monroe_Houses
+- **Clason Point Gardens.** 45 buildings, all two stories tall. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- **Jamie Towers co-op.** A Mitchell-Lama co-op built in 1966. 13 stories with 624 units. Sources disagree on whether it's in Soundview or Castle Hill. — https://www.bxtimes.com/water-jamie-towers/ ; https://www.apartmentfinder.com/New-York/Bronx-Apartments/Jamie-Towers-Apartments-2dsqf78
+- **Jamie Towers problems.** The board fired its management company over alleged misspent funds and mismanagement. A June 2023 state comptroller audit found safety hazards at Jamie Towers and three other co-ops. — https://www.bxtimes.com/jamie-towers-board-fires-management-company-alleging-improper-spending/ ; https://www.bxtimes.com/jamie-towers-residents-paying-40-higher-monthly-charges-under-weak-state-oversight/
+- **Shore Haven Condominium.** Located in Soundview. Walk score of 33, so it's car-dependent. Driveway and parking-lot cameras are relevant. — https://www.zillow.com/b/shore-haven-condominium-bronx-ny-2c3J/
+- **Harding Park.** About 250 homes on 20 acres. In 1981 the city sold the land to the Homeowners Association of Harding Park for $700,000, making it New York's first cooperatively owned low- and moderate-income community. — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- **Harding Park streets.** It grew outside the borough street grid. Some streets are interrupted mid-block and others don't appear on official maps. This affects camera sightlines and service access. — https://forgotten-ny.com/2018/08/clason-point-bronx/
+- **Harding Park homes.** A waterfront enclave of detached cottages and bungalows, many from the 1920s. — https://cityneighborhoods.nyc/harding-park
+- **Landmarks (LPC).** I found no LPC historic district or individual landmark in Soundview. An older HDC list of Bronx historic districts (Bertine Block, Clay Avenue, Fieldston, Grand Concourse, Longwood, Morris Avenue) includes none here. That is my reading of the list, not a confirmed statement. — https://hdc.org/hdc-across-nyc/bronx/the-bronx-landmarked/
+
+### Parks, landmarks and what the area is known for
+
+- **Soundview Park.** A 205-acre park bounded by the Bronx River Estuary/East River, Lafayette, Morrison, Story, Metcalf, O'Brien and Bronx River avenues. — https://en.wikipedia.org/wiki/Soundview_Park
+- **Quonset hut remnant.** One Quonset hut is still visible on the south side of Seward Avenue at Croes Avenue. — same URL
+- **Hip-hop history.** Bronxdale Houses was an important site in the early-1970s Bronx hip-hop scene. — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- **Little Puerto Rico.** In the 21st century Harding Park became known as Little Puerto Rico, with narrow streets and bungalows along the waterfront. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- **Distinct communities.** Bronx Community Board 9 recognizes Bronx River, Clason Point, Harding Park and Soundview/Bruckner as separate communities. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+
+### Cost data (NYC-wide)
+
+- Angi puts NYC camera installation at $1,509 on average, typically $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- One installer quotes $5,000–$15,000 for an apartment building with lobby, hallway and entry coverage. — https://www.nycittech.com/blog/cctv-installation-cost-nyc-security-cameras/
+
+### Yelp (Bronx)
+
+- **Praise:** "They installed security cameras in my home they did a very good job and the price was excellent" (Computer Settings). — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- **Complaints:** EMPTY. No negative reviews showed up in the snippets I could see.
+
+### Questions people ask — Security Camera Installation in Soundview
+
+**Search-engine fields:**
+- Google PAA: EMPTY
+- Google PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+
+The questions below come from FAQ sections of installer and blog pages, not from search-engine panels.
+
+- How much does security camera installation cost in NYC? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- How much does it cost to install a 4-camera security system in NYC? — installer blog FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- What is the labor cost for CCTV installation in NYC? — installer blog FAQ — same URL
+- Do you need a permit to install a security camera in New York? — installer blog FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can I install a Ring doorbell in my NYC apartment? — installer blog FAQ — same URL
+- Can my NYC landlord install cameras in my apartment? — blog FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Can I mount a regular security camera outside my apartment instead of a doorbell? — blog FAQ — same URL
+- Can my landlord install security cameras in my apartment building in New York? — legal blog FAQ — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Can tenants install cameras without landlord permission in New York? — blog FAQ — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state
+
+## Throggs Neck, Bronx — /security-camera-installation-throggs-neck-bronx-ny (factory research, 2026-11-04)
+
+**Before you use this:** My search tool returns ordinary web results. It can't show Google People Also Ask boxes, People Also Search For lists, AnswerThePublic data or separate Bing and DuckDuckGo results. Those sections are marked EMPTY below, and so is anything else I couldn't find. I also found no city data (HPD, 311, DOB) and no Reddit threads on this topic. I didn't find an LPC historic district in Throggs Neck, but I didn't confirm that none exists.
+
+**Facts specific to camera installation here**
+- **Public cameras on the main shopping street:** NYPD "Argus" cameras run along East Tremont Avenue. Assembly Member Benedetto secured a $320,000 grant for NYPD Argus cameras on the Throggs Neck commercial corridor, to be installed along East Tremont Avenue between Bruckner Boulevard and Harding Avenue, where the Throggs Neck Business Improvement District (BID) operates — https://nyassembly.gov/mem/Michael-Benedetto/story/104629
+- **When they went live:** The BID announced the cameras were active at a May 2 press conference outside the 45th Precinct (about 2024, based on the article's age) — https://www.bxtimes.com/throggs-neck-security-cameras/
+- **Police watch them live:** The 45th Precinct and police headquarters monitor the cameras in real time. The BID named illegal cannabis shops as a target: "These cannabis stores, when they get robbed, they are not calling the police." — https://www.yahoo.com/news/anti-crime-cameras-installed-bronx-023515656.html
+- **Early results:** The BID says the cameras caught a Walgreens thief on their first day — https://bronx.news12.com/throgs-neck-bid-keeping-the-district-safe-with-new-security-cameras
+- **Public housing:** Camera installations at Pelham Parkway and Throggs Neck Houses were set to begin in 2013. The funding covered "security cameras and targeted layered access" — https://www.nyc.gov/site/nycha/about/press/pr-2012/multi-million-dollar-funding-announced-for-security-cameras-at-bx-nycha.page
+- **Car break-ins caught on home cameras:** Residents near Swinton and Harding Avenues reported at least six Hondas with broken locks and stolen airbags. Ring camera video appears to show a car driving up and a person stealing from multiple cars — https://bronx.news12.com/throgs-neck-residents-report-multiple-car-break-ins
+- **Tire theft:** Thieves were caught on camera stealing three tires and rims from a resident's car on Hollywood Avenue at 4:30 a.m. — https://bronx.news12.com/police-thieves-caught-on-camera-stealing-3-tires-rims-in-throgs-neck
+- **Home invasion:** The incident was on Sept. 2 around 12:50 a.m. near Graff and Schurz Avenues, and police released surveillance photos of the suspect — https://www.bxtimes.com/home-invasion-pervert-breaks-into-78-year-old-womans-throggs-neck-home-exposes-himself/
+- **Basement-door burglary:** Two burglars forced open a basement door at a corner deli and stole money from two safes (Phillips Gourmet Deli, 2020). Cellar and basement doors are worth covering — https://www.bxtimes.com/thieves-steal-over-7k-from-throggs-neck-deli/
+- **Business burglaries:** A suspect tried bolt cutters on Euro Products on Schley Avenue, then broke a side window at a Plaza Place business and took $1,100 (2017) — https://abc7ny.com/news/man-wanted-in-string-of-burglaries-in-bronx/1741444
+- **Recent incident log (late Oct 2026):** Burglaries on the 3000 block of Middletown Rd and 1800 block of Lafayette Ave, and a robbery on the 3800 block of E Tremont Ave — https://spotcrime.com/ny/bronx/throggs+neck
+- **Gated co-ops (approval and siting):** Edgewater Park is a 60-acre waterside co-op of 675 single-family homes; its sister communities are Silver Beach and Harding Park — https://en.wikipedia.org/wiki/Edgewater_Park_(Bronx). Listings describe Edgewater Park "with 24-hour security" — https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/co-ops-for-sale/
+- **Co-op rules can limit cameras:** A co-op's rules may prohibit a shareholder from placing a video doorbell in a common area — https://guzovllc.com/condo-and-coop-rules-of-thumb-security-cameras-and-privacy-concerns/
+- **Flooding and salt air (affects equipment placement):** Edgewater Park's location and elevation make it prone to flooding during typical storms, not just hurricanes — https://www.bxtimes.com/edgewater-parks-resilient-neighborhood-report/. Sandy left some waterfront homes with up to five feet of flooding — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/. The council member said Edgewater Park, Throggs Neck and Country Club continue to flood — https://www.nyc.gov/mayors-office/news/2022/10/mayor-adams-commemorates-10th-anniversary-superstorm-sandy-breaks-ground-major-resilience
+- **Very little flood retrofitting:** Since Sandy, DOB records show just one Edgewater Park property got a permit to elevate its building. Most homes are still at their original height, so recorders and power supplies should stay off basement floors — https://citylimits.org/2019/07/01/sandy-resiliency-retrofits-nyc/
+- **Installer license:** Anyone in the business of installing alarm systems in New York State must be licensed by the Department of State, and that includes security cameras, CCTV and access control. Unlicensed installers can be fined up to $10,000 — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/. Master electricians don't need the education requirements, but they must register — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- **Neighbor privacy law:** Avoid pointing cameras at a neighbor's private backyard; doing so with intent to harass or annoy can bring a civil suit under Civil Rights Law 52-a — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/. This matters on tightly spaced semi-detached blocks.
+- **Audio recording:** New York is a one-party consent state for audio under Penal Law 250.00 — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- **Local security businesses:** A YP listing shows Blue Wall Security Inc at 248 Throggs Neck Blvd, Bronx, NY 10465 — https://www.yellowpages.com/bronx-ny/surveillance-camera-installation. HomeAdvisor lists Affordable Alarm Systems, Inc, 2775 Woods Ave, rated 5.00 on 14 reviews — https://www.homeadvisor.com/tloc/Bronx-NY/Surveillance-Cameras-Install-or-Repair/
+- **Competitor pages already targeting this neighborhood:** Momo Locksmith (https://momolocallocksmith.com/security-cameras/bronx-ny/throggs-neck/) and Abstract Enterprises, which has an Edgewater Park page. Abstract claims the co-op's homes were built from the 1920s through the postwar period, mostly Cape Cod bungalows from the 1930s–1960s. That's a competitor claim and isn't verified — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-edgewater-park-bronx-ny
+- HPD violations / 311 complaints / DOB camera-related permits — EMPTY
+- LPC historic district or rules — EMPTY
+- Reddit threads about cameras in Throggs Neck — EMPTY
+
+**History and development**
+- **Name origin:** Throckmorton, who came to America in 1631, moved to Throgs Neck in 1642 after receiving a grant from Dutch officials — https://theclio.com/entry/45689
+- **Estates and resort era:** In the 1800s the area was mostly large farms that became estates, and by the late 1800s it was a popular summer vacation spot — https://kids.kiddle.co/Throggs_Neck
+- **Huntington estate:** Railroad builder Collis P. Huntington owned an extensive parcel, which his heirs held until it was almost the last estate on Throggs Neck — https://en.wikipedia.org/wiki/Throggs_Neck
+- **Silver Beach founders:** Silver Beach Gardens was founded largely by Irish and Italian working-class families, who built bungalows and cottages partly from salvaged materials — https://cityneighborhoods.nyc/silver-beach
+- **Edgewater Park origins:** In the early 20th century Richard Shaw bought the land and allowed church groups, Boy Scouts and workers to use it — https://theneighborhoods.substack.com/p/throggs-neck-the-bronx
+- **Bridge-era growth:** Residential growth sped up after the Throgs Neck Bridge was completed in 1961 — https://www.gamilohomes.com/pages/throggs-neck
+- **Public housing:** Throggs Neck Houses were built in 1953 — https://kids.kiddle.co/Throggs_Neck
+- **Stability:** Throggs Neck avoided the arson and abandonment that hit much of the South Bronx — https://cityneighborhoods.nyc/throggs-neck
+
+**Main streets and commercial corridors**
+- **Boundaries:** Baisley Avenue and the Bruckner Expressway to the north, Westchester Creek to the west, and the river and Sound on the other sides — https://en.wikipedia.org/wiki/Throggs_Neck
+- **East Tremont Avenue:** It's the BID corridor. Benedetto called it "Restaurant Row" of the Bronx — https://nyassembly.gov/mem/Michael-Benedetto/story/104629
+- **Precinct location:** The 45th Precinct is at 3528 East Tremont Avenue — https://www.bxtimes.com/throggs-neck-chase-bank-robbed-2/. Wikipedia gives 2877 Barkley Ave (https://en.wikipedia.org/wiki/Country_Club,_Bronx). The sources conflict; verify before using.
+- **Street names:** Many streets near the southern end are named after Union Civil War generals, such as Kearny and Schurz — https://kids.kiddle.co/Throggs_Neck
+- **Mixed-use retail:** A listing at 3805 E Tremont Ave has 3 attached retail storefronts, zoned R3A/C1-2 — https://www.realestatehudsonvalleyny.com/bronx/10465/
+
+**Building stock**
+- **Overview:** Detached and semi-detached single-family homes dominate, built largely between the 1920s and 1960s; two- and three-family houses and co-ops like Silver Beach Gardens are also a notable share — https://reinventny.com/blog/throggs-neck
+- **Garden apartments:** Mid-century garden apartment complexes sit near Tremont Park and along East Tremont Avenue — same URL
+- **Styles by section:** Detached colonial revivals in Locust Point, Cape Cod bungalows in Edgewater Park, and Greek Revival brick and Italianate rowhouses in Throgs Neck proper — https://www.homes.com/bronx-ny/throgs-neck-edgewater-park-neighborhood/
+- **Edgewater Park age:** An Edgewater Park co-op unit is listed as built in 1925 (bungalow) — https://www.compass.com/homedetails/1A-Edgewater-Park-Bronx-NY-10465/20EDAI_pid/
+- **Co-op land model:** In Edgewater Park and Silver Beach, shareholders own their homes but lease the land — https://boogiedowner.blogspot.com/2009/08/co-op-living-in-edgewater-park-silver.html
+- **Condos:** Waterfront condos include Harbour Pointe and Shore Haven — https://www.realestatehudsonvalleyny.com/bronx/10465/
+- Landmark districts — EMPTY
+
+**Parks and landmarks**
+- **Ferry Point Park:** 413.8 acres, opened 1940, with a golf course and waterfront promenade — https://en.wikipedia.org/wiki/Ferry_Point_Park
+- **Throgs Neck Bridge:** The Bronx anchorage is at the tip of Throggs Neck — https://en.wikipedia.org/wiki/Throgs_Neck_Bridge
+- **Edgewater Park firehouse:** The state storm-recovery office allocated $2.2 million for upgrades to the Edgewater Park volunteer firehouse — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+
+**What it's known for**
+- In the 1980s it was described as one of the last middle- and upper-middle-class areas in the Bronx — https://kids.kiddle.co/Throggs_Neck
+- The waterfront co-op "Bronx Riviera" — https://www.thecityreporter.nyc/2022/06/13/bronx-edgewater-park-volunteer-firehouse-sandy/
+
+**Recent local news relevant to security**
+- **Bally's casino:** The State Gaming Commission awarded Bally's a 15-year license for a casino-hotel in Ferry Point Park — https://www.bxtimes.com/ballys-wins-state-casino-license/. Bally's paid $157 million for the parkland for its 3-million-square-foot complex — https://therealdeal.com/new-york/2026/02/27/ballys-buys-site-for-bronx-casino-from-the-city/
+- **Local concerns:** Council Member Kristy Marmorato criticized the project as likely to worsen crime, traffic and pollution — https://www.bxtimes.com/ballys-community-advisory-committee-asks-for-east-bronx-investment-ahead-of-casino-project-vote/
+- **Timeline:** Bally's expects to open in 2030 — https://www.thecityreporter.nyc/2025/12/01/casinos-queens-bronx-gambling-board-decision/
+
+**Prices posted by Bronx installers (competitor claims)**
+- $500–$2,500 for residential, $2,000–$10,000+ commercial — https://findasecuritydealer.com/installers/ny/bronx
+- A 2–4 camera wired PoE system from $1,800 — https://senecasecurity.com/security-cameras-bronx/
+
+### Questions people ask — Security Camera Installation in Throggs Neck
+- Google PAA — EMPTY (not available through my tool)
+- PASF / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo questions — EMPTY
+- Reddit (r/ThroggsNeck, r/Bronx, r/AskNYC, r/homesecurity) — EMPTY
+- Yelp complaints or praise — EMPTY (no Yelp results came back; the only review found was HomeAdvisor praise for an NVR plus Ring doorbell install at https://www.homeadvisor.com/tloc/Bronx-NY/Surveillance-Cameras-Install-or-Repair/)
+- Hyperlocal outlets: no question threads; the Bronx Times and News12 stories are cited above.
+
+The questions below come from competitors' FAQ markup. I couldn't confirm any of them as PAA:
+- How much does security camera installation cost in the Bronx? — competitor FAQ — https://findasecuritydealer.com/installers/ny/bronx
+- Do I need a permit to install security cameras in the Bronx? — competitor FAQ — same URL
+- How long does security camera installation take? — competitor FAQ — same URL
+- What's the difference between wired and wireless security cameras? — competitor FAQ — same URL
+- Can I view my security cameras on my phone? — competitor FAQ — same URL
+- How many security cameras do I need? — competitor FAQ — same URL
+- Can you install in a Bronx co-op or condo? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronxdale-bronx-ny
+- Can security cameras help with liability protection for Bronx businesses? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Can I watch my Bronx security cameras from my phone when I'm not home? — competitor FAQ — same URL
+- Can tenants install security cameras in NYC? / Can landlords install cameras in apartment hallways? / Is it legal to record audio on a security camera in NY? / Do I need a license for wireless cameras in NYC? — competitor page that says its questions come from "Reddit, forums, our intake calls" (no Reddit threads verified) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc
+- Do you need an electrician to install security cameras? — competitor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- What happens if my security camera accidentally points into a neighbor's window? — competitor FAQ — https://vertexsecurity.com/our-blog/security-camera-laws/
+- Can my neighbor point a security camera at my yard? / Does a fence make a neighbor's camera illegal? — legal-info site FAQ — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- Are security cameras allowed in New York City apartments? — competitor FAQ — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+
+## Tremont, Bronx — /security-camera-installation-tremont-bronx-ny (factory research, 2026-11-04)
+
+**Read this first:** My search tool returns ordinary web results. It does not show Google's People Also Ask boxes, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic. Those fields are marked EMPTY below. Questions that appear as FAQ headings on other installers' pages are labeled "Web (competitor FAQ)", not "PAA". I also found no Reddit threads or Yelp complaints.
+
+### Facts that bear directly on camera installation in Tremont
+
+- **Landmark district (LPC rules apply):** The Morris Avenue Historic District, designated by the New York City Landmarks Preservation Commission, lines Morris Avenue between East Tremont and East 179th Street. It was designated July 15, 1986: a series of two-family row houses and tenements designed by John Hauser were built in five building campaigns between 1906 and 1910. — https://en.wikipedia.org/wiki/Tremont,_Bronx ; https://hdc.org/buildings/morris-avenue-historical-district/
+- **What the facades look like:** Most have three-story, curved bow façades that tie them together, while varying shades and patterns of brickwork as well as different wrought-iron areaway railings lend interesting diversity. Camera mounts and cable runs on these fronts are visible alterations. — https://hdc.org/buildings/morris-avenue-historical-district/
+- **LPC permit basics:** If you own a landmark or a building in a designated historic district in New York City, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work. — https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property
+- **LPC guidebook on cameras:** The guidebook lists safety equipment that may not be required by law but is commonly used, like window security bars, security cameras, lighting, and intercom panels, and says staff can approve security cameras if installation meets the criteria in LPC Rules Section 2-20. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- **Typical building stock:** Tremont is a hilly neighborhood that features a variety of historic homes and low to mid-rise apartment buildings. — https://www.apartments.com/local-guide/tremont-bronx-ny/
+- **Prewar walk-ups (secondary source):** East Tremont Avenue runs the commercial spine; the residential blocks (Webster, 3rd Avenue, Park Avenue, Belmont Avenue) are dense 5- and 6-story prewar tenement walk-up apartment buildings. This comes from a junk-removal company's page, so treat it as secondary. — https://junkrabbit.nyc/junk-removal-tremont
+- **Real-estate view:** From pre-war walk-up and elevator multifamily buildings to mixed-use and retail assets along Tremont Avenue and Third Avenue. — https://www.invictusnyc.com/neighborhoods/tremont
+- **Mostly rentals, few co-ops (East Tremont):** Residences in East Tremont are largely found in rental buildings, and most housing is subsidized or income-restricted. In practice the landlord, not the tenant, usually approves any common-area camera. — https://www.homes.com/local-guide/bronx-ny/east-tremont-neighborhood/
+- **Twin Parks high-rises and fire-door rules:** The Twin Parks North West building at 333 East 181st St. in Fordham Heights burned on Jan. 9, 2022, in the city's deadliest fire since 1990. The blaze, caused by an overworked space heater, spread quickly due to malfunctioning self-closing doors in the 19-story building. Any wiring through corridor or stair doors and frames must not stop them from closing. — https://www.bxtimes.com/bronx-honors-17-killed-in-twin-parks-apartment/
+- **What followed the fire:** The City Council passed a package of bills in May 2022 to impose stricter penalties for faulty self-closing doors. Also, Twin Parks North West, built in 1972, has no external fire escapes. Instead, internal stairwells are used in the event of an emergency. — https://www.bxtimes.com/bronx-honors-17-killed-in-twin-parks-apartment/ ; https://www.newsweek.com/everything-we-know-about-bronx-building-that-caught-fire-killed-19-1667439
+- **HPD data, intercom complaints:** At 805 Fairmount Place, the 35-unit, 5-story apartment building … was constructed in 1931 … there has been a concerning uptick in housing violations and complaints in 2026, including multiple open issues related to windows, flooring, intercom systems, and ceiling conditions. The same site lists an open HPD "Bell/Buzzer/Intercom" complaint dated 07/28/2026. — https://augrented.com/nyc/2029550040-805-fairmount-place
+- **HPD data, Tremont average:** This building has 2004 recorded HPD violations, above the Tremont average of 82.1. — https://augrented.com/nyc/2029550040-805-fairmount-place
+- **HPD data, East Tremont Avenue (10460):** 1230 East Tremont Avenue, Bronx 10460: 87 open HPD violations, 47 immediately hazardous (Class C), and it is a 60-unit building, built in 1932. — https://weverit.com/building/ny/new-york/1230-east-tremont-avenue-bronx-10460
+- **Tenant testimony, 2026:** A tenant comment to the Rent Guidelines Board says our building has 338 open HPD violations as of June 2026, including 63 classified as immediately hazardous. On May 28, 2026, Bronx Housing Court Judge Krzysztof Lach issued an Order to Correct against our landlord, Radame Perez of Tremont Renaissance LLC. — https://rules.cityofnewyork.us/rule/rent-guidelines-for-october-1-2026-to-september-30-2027/
+- **Intercoms are required, cameras are not:** The NYC Housing Maintenance Code (Administrative Code §27-2045) requires that landlords of multiple dwellings maintain a working door intercom or buzzer system, and there is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- **CONFLICT on camera signs:** One installer says landlords are required under NYC Local Law 50 to post visible notice that cameras are in operation. Another says there's no NYC Administrative Code provision requiring residential landlords to post camera notices in common areas. Do not publish either claim until it is checked against the actual city law. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords ; https://senecasecurity.com/learn/can-tenants-object-to-security-cameras-in-common-areas/
+- **Tenant cameras in common areas:** Tenants generally do not have the right to install cameras in common hallways, lobbies, or other shared spaces without landlord permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- **DOB permits:** One installer claims low-voltage security camera installation in a residential brownstone typically does not require a DOB permit under NYC construction codes. This is an installer's claim, not an official DOB source. — https://senecasecurity.com/services/security-cameras/brownstones/
+- **Licensing:** Vertex Security says New York State strictly requires security camera installers to hold a valid NYS Low-Voltage / Security Installer License. Another site says NYC requires licensed electricians for wired security camera installation. These conflict; verify before publishing. — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-nyc/ ; https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- **DOB permit filed, 2026:** Permits have been filed for a four-story mixed-use building at 459 East Tremont Avenue in Tremont, The Bronx. It will have seven residences. — https://newyorkyimby.com/2026/03/permits-filed-for-459-east-tremont-avenue-in-tremont-the-bronx.html
+- **New building with cameras built in:** At 2026 Walton Avenue, an eight-story affordable building in Tremont, amenities include a shared laundry room and security cameras. Units come equipped with name-brand appliances and finishes and intercoms. — https://newyorkyimby.com/2022/02/housing-lottery-units-still-available-for-2026-walton-avenue-in-tremont-the-bronx.html
+- **School conversion:** 200 West Tremont is a 40,000-square-foot former office building currently being renovated into a state-of-the-art charter school … scheduled to begin occupancy in the 2026–2027 school year. — https://azimuthdg.com/portfolio/200-west-tremont-ave-bronx/
+- **Police precincts and crime:** The area is patrolled by the NYPD's 48th and 46th Precincts. The precinct reported 14 murders, 26 rapes, 447 robberies, 646 felony assaults, 252 burglaries, 467 grand larcenies, and 304 grand larcenies auto in 2022. — https://en.wikipedia.org/wiki/Tremont,_Bronx
+- **Surveillance video in local news:** Police are looking for a man in connection with an assault that was caught on surveillance video at a Bronx bodega. The incident occurred last month at a store on East Tremont Avenue. The article is undated. — https://cbsnews.com/newyork/news/bronx-bodega-assault
+- **Recent incident reports (Citizen app, 2026):** These include 255 E Tremont Ave (a basement fire in a three-story building, July 2026) and police presence at 764 E Tremont Ave (October 2026). — https://citizen.com/-OxxZ3mOcuc01aqalt_9 ; https://citizen.com/-P417XwB7nQ4822OsPn6
+- **DO NOT USE as Tremont facts:** The $320K NYPD Argus camera grant covers East Tremont Avenue on the Throggs Neck commercial corridor between Bruckner Boulevard and Harding Avenue, which is not Tremont. The June 2026 BX36 bus shooting was near the corner of White Plains Road and East Tremont Avenue, also outside Tremont. — https://www.bxtimes.com/east-tremont-avenue-nypd-cameras/ ; https://www.nbcnewyork.com/bronx/video-bronx-bus-shooting-tremont/6510650/
+- **Competitor angle:** Abstract Enterprises' East Tremont page cites theft along commercial corridors like Fifth Avenue, Broadway, and Madison Avenue. Those are Manhattan streets, which suggests a template page. Real local detail is an easy way to stand out. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny
+- **Local reporting on cameras for low-income housing:** EMPTY for Tremont specifically. The nearest examples are NYCHA camera programs in other Bronx developments.
+
+### History, streets, buildings, landmarks
+
+- **Name and early growth:** A postmaster invented the name for this west central Bronx neighborhood in the mid-nineteenth century, alluding to three estates (Fairmount, Mount Eden, and Mount Hope) that were located here. Served by an east-west streetcar running between the north-south elevated and railroad lines, Tremont developed earlier than many neighboring sections. — https://www.lehman.edu/vpadvance/artgallery/arch/neighborhoods/tremont.html
+- **Borough Hall:** Its stature was confirmed when the municipal building of what was about to become the Borough of the Bronx opened, in 1897, at East Tremont and Park Avenues. — https://www.lehman.edu/vpadvance/artgallery/arch/neighborhoods/tremont.html
+- **Expressway and Twin Parks:** In the 1950s, the Cross Bronx Expressway cut across the neighborhood just south of East Tremont Avenue, detaching it from Claremont and Crotona. In the 70s an imaginative set of "scatter-site" residences, called the "Twin Parks" project, helped to stitch Tremont together again. — https://www.lehman.edu/vpadvance/artgallery/arch/neighborhoods/tremont.html
+- **Who settled it:** Irish, Italian, and Eastern European Jewish families, seeking more space and air, found it in Tremont. The Third Avenue elevated train was a vital artery. — https://seeoldnyc.com/tremont-bronx-early-1900s/
+- **Who built Morris Avenue:** Built over a four-year period by August Jacob. Vast real estate speculation, and a growing market for single-family dwellings developed in The Bronx with the extension of the IRT in 1904. — https://artsandculture.google.com/asset/morris-avenue-historic-district/9wG1IvF-cnGlWw
+- **Main streets:** Tremont Avenue, Third Avenue, and Webster Avenue form the neighborhood's primary commercial corridors, and transit via the B and D trains at Tremont Avenue connects the area. — https://www.invictusnyc.com/neighborhoods/tremont
+- **Burnside Avenue:** Burnside Avenue and West Burnside Avenue run parallel to Tremont Avenue and also feature significant commercial activity. — https://medicalcentersnewyork.com/locations/bronx/tremont-bronx/
+- **New busway:** In the eastbound direction, the corridor extends from Third Avenue to Southern Boulevard; in the westbound direction, it runs from Southern Boulevard to Belmont Avenue. It operates every day from 6:00 am to 8:00 pm. This could affect where installer vans can park on Tremont Avenue. — https://www.cronista.com/en/today/new-york-city-opens-a-new-busway-where-it-is-which-route-uses-it-and-when-it-operates/
+- **Tremont Park:** It borders to the north with E Tremont Avenue, to the east with Arthur Avenue, to the south with E 175th Street, and to the west with Third Avenue. Bronx Borough Hall stood in this park. — https://www.yelp.com/biz/tremont-park-bronx ; https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/bmn/bronx_metro_report/tremont.pdf
+- **Old 48th Precinct station:** Located at 1925 Bathgate Avenue in the Tremont neighborhood … It was completed in 1901. It is on the National Register (1983). — https://en.wikipedia.org/wiki/48th_Police_Precinct_Station
+- **Twin Parks locations:** Twin Parks East situated adjacent to Bronx Park and Twin Parks West near Webster Avenue. — https://en.wikipedia.org/wiki/Twin_Parks
+- **Nearby Arthur Avenue:** Arthur Avenue's south end: Crotona Park North in Tremont. — https://en.wikipedia.org/wiki/Arthur_Avenue
+- **Local institutions:** The United States Postal Service operates the Tremont Station at 757 East Tremont Avenue. — https://en.wikipedia.org/wiki/Tremont,_Bronx
+- **Cost benchmarks (NYC, not Tremont-specific):** Security camera installation costs in New York, NY, cost $1,509 on average, with average price ranges from $797 to $2,222. Another guide says two to four professionally installed cameras cost $800 to $2,200 … Masonry walls and long cable runs to a backyard increase the labor. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york ; https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+- **Local Reddit discussion:** EMPTY
+- **Patch / BKReader / neighborhood blogs:** EMPTY (BKReader covers Brooklyn). Bronx Times items are cited above.
+
+### Questions people ask — Security Camera Installation in Tremont
+
+- Google People Also Ask (8–12 questions) — EMPTY (not visible to my search tool)
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic fan-out — EMPTY
+- Questions shown on Bing but not Google — EMPTY
+- Questions shown on DuckDuckGo but not Google — EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity) — EMPTY (no matching threads found)
+- Yelp complaints — EMPTY. Yelp praise only, e.g. "They installed security cameras in my home they did a very good job and the price was excellent..." — Yelp — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Do wired or wireless cameras work better for East Tremont buildings? — Web (competitor FAQ) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny
+- How many cameras does a Bronx home need? — Web (competitor FAQ) — same URL
+- Can you install cameras at my Bronx property or building? — Web (competitor FAQ) — same URL
+- Can security cameras help with liability protection for East Tremont businesses? — Web (competitor FAQ) — same URL
+- Can a Bronx renter install a wireless camera without landlord permission? — Web (competitor FAQ) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- Do I need a permit to install security cameras in Bronx? — Web (directory FAQ) — https://findasecuritydealer.com/installers/ny/bronx
+- How many security cameras do I need? — Web (directory FAQ) — https://findasecuritydealer.com/installers/ny/bronx
+- What does a commercial security system cost in the Bronx? — Web (competitor FAQ) — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-bronx
+- What resolution and retention should a building use? — Web (competitor FAQ) — https://www.abstractenter
+
+## Unionport, Bronx — /security-camera-installation-unionport-bronx-ny (factory research, 2026-11-04)
+
+**Security camera installation in Unionport specifically (most important)**
+
+- **Building stock you'll be wiring.** Community Board 9 describes Unionport as bordering the Cross Bronx Expressway, Bruckner Blvd and White Plains Road and largely comprised of two family homes — https://www.nyc.gov/html/bxcb9/html/about/neighborhoods.shtml
+- One neighborhood guide lists brick rowhouses, two-family homes, postwar apartment buildings, and corner storefronts along Lafayette Avenue, Castle Hill Avenue, and White Plains Road — https://cityneighborhoods.nyc/unionport
+- **Price range by type:** postwar high-rises near the Westchester subway station; detached Colonial Revivals with siding on small lots listing at $600,000 to $700,000, and seven-to-nine-bedroom prewar attached rowhouses selling for $1.25 to $1.5 million. The same source gives a median year built of 1945. (The source also claims "East River" balcony views, which seems doubtful, so I left it out.) — https://www.homes.com/local-guide/bronx-ny/unionport-neighborhood/
+- **Owners vs. renters:** mostly small-to-medium apartment complexes, high-rises and small apartment buildings; most homes are rented; many were built no later than 1939 — https://www.neighborhoodscout.com/ny/bronx/unionport
+- **Age breakdown (City-Data):** 1,205 units built 1940–49, 1,028 built 1960–69, 1,369 built 2010–19 and 150 built 2020 or later, so there is a sizable stock of new construction with modern low-voltage wiring alongside the prewar buildings — https://www.city-data.com/neighborhood/Unionport-Bronx-NY.html
+- **Mixed-use buildings on Castle Hill Ave:** recent listings include a 2-family with store and full basement next to the train station at 1240 Castle Hill Ave, and 847 Castle Hill Avenue, a fully vacant mixed-use building. Storefront below and apartments above means separate camera/intercom zones. — https://www.homes.com/local-guide/bronx-ny/unionport-neighborhood/
+- **Large co-op/condo blocks:** Unionport Rd has many multi-unit buildings with unit numbers (e.g., 1551 Unionport Rd units up to 12F) — https://www.redfin.com/sitemap/NY/10462/street/Unionport+Rd
+- **Example rental building:** 1140 Castle Hill Ave, 140 units, Police Precinct 43, Fire Company E064 — https://www.realtyhop.com/building/1140-castle-hill-avenue-bronx-ny-10462
+- **New construction:** 1933 Lafayette Avenue, a 22-story residential building, plus permits filed for a nine-story mixed-use building at 2069 Bruckner Boulevard and a proposed five-story mixed-use building at 900 Castle Hill Avenue — https://newyorkyimby.com/neighborhoods/unionport
+- **Public housing next door:** NYCHA built the Castle Hill Houses in 1959, adding over 2,000 units. A competitor's page says 1,600+ units, so the sources disagree. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- **Community Board 9 says cameras are needed:** its FY2026 needs statement includes a line that new cameras are needed and new mailboxes are too small. The PDF excerpt doesn't show which site this refers to. — https://www.nyc.gov/assets/bronxcb9/pdf/2025/FY2026StatementBX09.pdf
+- **Police context (43rd Precinct):** four main commercial strips: Westchester Avenue, Castle Hill Avenue, White Plains Road, and Parkchester — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/43rd-precinct.page
+- In 2022 the precinct reported 6 murders, 48 rapes, 747 robberies, 806 felony assaults, 302 burglaries, 1,039 grand larcenies, and 561 grand larcenies auto — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- A local ranking said the 43rd still ranks among the least safe parts of the Bronx — https://bestinthebronx.nyc/the-safest-and-least-safe-neighborhoods-in-the-bronx/
+- CrimeGrade (an older, commercial source) claims a property crime is committed in Unionport every 13 hours and that property crime is highest in the northwestern part of Unionport — https://crimegrade.org/best-home-security-systems-in-unionport-bronx-ny/
+- **Recent incidents at specific blocks:**
+  - 2201 Haviland Ave, between Castle Hill Avenue and Havemeyer Avenue: fatal shooting, May 24, 2026 — https://www.norwoodnews.org/unionport-murder-investigation-underway-after-29-year-old-new-jersey-man-shot/
+  - Castle Hill Ave & Watson Ave: shooting about Oct 6, 2026 — https://citizen.com/-P3IpkZ4Eqao22F9V22L
+- **Fires in mixed-use buildings** (relevant to firestopping cable holes and fire-rated walls):
+  - 2165 Quimby Ave, top floor of a multi-use dwelling near Castle Hill Avenue, three dead (Oct 30, 2022) — https://pix11.com/news/3-dead-several-injured-in-2-alarm-fire-in-the-bronx-officials-say/
+  - 1103 → 1101 Castle Hill Ave, four-alarm fire with roof sagging and partially collapsing (July 2023) — https://bronx.news12.com/fdny-4-alarm-fire-in-unionport-leaves-7-firefighters-1-civilian-injured
+- **Bronx DA footage program (BronxCAMS):** residents and business owners can voluntarily list their cameras in a database that already includes NYPD and NYCHA cameras. The map will never be released to the public. Registration is a mailed form. A good add-on to offer customers. — https://www.bronxda.nyc.gov/html/outreach/enroll-in-bronxcams.shtml
+- **Borough camera spending:** the Borough President budgeted $1.2 million for NYPD surveillance cameras and $500,000 for DSNY illegal-dumping cameras — https://pix11.com/news/local-news/bronx/more-crime-fighting-cameras-coming-to-the-bronx/
+- **Nearby BID model:** the Throggs Neck BID installed about a dozen anti-crime cameras, monitored in real time by the 45th precinct and police headquarters. I found nothing on a similar program for the Castle Hill Ave BID. — https://news.yahoo.com/anti-crime-cameras-installed-bronx-023515656.html
+- **State license:** NY defines a security/fire alarm installer as someone working on systems that detect intrusion or movement; installing "passive" (nondetecting) security devices does not require a license. NYC's business portal says master electricians don't have to meet the education and exam requirements, but must register. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf ; https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- **DOB permits (vendor sources, not official DOB guidance):** most installs don't need a DOB permit, but electrical work, conduit in co-op/condo common areas, or tying into fire alarm or access control can change that — https://senecasecurity.com/learn/security-camera-installation-costs-nyc/
+- **HPD and intercoms:** the Housing Maintenance Code (Admin Code §27-2045) requires landlords of multiple dwellings to keep a working intercom or buzzer; no general NYC law requires cameras in apartment buildings — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- One vendor says broken intercoms are Class B hazardous violations with fines of $250 to $500 per day until fixed — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- **Unverified "Local Law 50" claim:** a vendor says buildings with cameras in common areas must post visible notice under NYC Local Law 50. I could not confirm this law. Don't publish it without checking. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- **Rent-stabilized buildings:** a vendor advises landlords to document the security reason in writing before installing and notify tenants in advance — https://senecasecurity.com/learn/can-tenants-object-to-security-cameras-in-common-areas/
+- **Landmarks (LPC):** none of the Bronx historic districts on HDC's list are in Unionport (Bertine Block, Clay Ave, Fieldston, Grand Concourse, Longwood, Morris Ave) — https://hdc.org/hdc-across-nyc/bronx/the-bronx-landmarked/
+  - LPC's permit guidebook has a section on installing security cameras, which only matters for designated sites — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+  - A Unionport-specific designation was not found: EMPTY
+- **Competitor already using local angles:** Abstract Enterprises has a Unionport page mentioning PS 36 (completed 1901 at 1070 Castle Hill Avenue, with old street names carved in it) and offering walkthroughs in Spanish, Albanian and Bengali — https://www.abstractenterprisessecuritysystems.com/access-control-installation-unionport-bronx-ny
+- **Other competitor pages:** Momo Locksmith (https://momolocallocksmith.com/security-cameras/bronx-ny/unionport/) and a lead-gen site (https://security-cameras-installation-near-unionport-bronx.near-me-services.com/)
+- **Nearby installer:** Security iCam, 963 Morris Park Ave, Bronx, NY 10462 — https://www.safehome.org/security-systems/new-york/bronx/
+- **City data I could not get:**
+  - HPD violation counts for Unionport: EMPTY
+  - 311 complaint counts: EMPTY
+  - DOB permit counts for cameras/low-voltage: EMPTY (only the YIMBY permit filings above)
+  - Reddit threads about cameras in Unionport: EMPTY
+
+**History and development**
+
+- In 1851 a building association bought a large tract west of Westchester Creek; Industrial Home Association No. 2 filed its map of Unionport in 1854 — https://classicnewyorkhistory.com/how-bronx-neighborhoods-got-their-names/
+- **Sources disagree on the name:** one credits a 19th-century real estate and transportation company called the Unionport Company (https://cityneighborhoods.nyc/unionport); another says it came from several rail lines meeting (https://www.apartments.com/local-guide/unionport-bronx-ny/)
+- Laid out in 1851, it was among the first Bronx towns with a street grid: lettered avenues north–south, numbered streets east–west — https://bronxtreeservices.com/unionport-tree-services/
+- The old letters map to today's streets: Avenue A is now Zerega, Avenue B is Havemeyer, Avenue C is Castle Hill Avenue — https://www.abstractenterprisessecuritysystems.com/access-control-installation-unionport-bronx-ny
+- It was the Village of Unionport, which didn't join New York until 1895 — https://ny1.com/nyc/all-boroughs/human-interest/2024/09/09/lost-villages-of-the-bronx
+- After the East Bronx joined NYC and the IRT line arrived, working-class Irish and German immigrants moved in. Cross Bronx Expressway construction in the 1950s destroyed apartment buildings and single-family homes. Holy Family's new church was built in 1962 because blasting damaged the old one. — https://www.facebook.com/BronxAndBeyond/posts/unionport-is-a-small-neighborhood-in-the-east-bronx-the-area-is-located-south-of/122305559654208780/
+- The Cross Bronx Expressway was completed in 1963; high-rise housing projects replaced smaller buildings and local streets became highway exit ramps — https://bronxtreeservices.com/unionport-tree-services/
+- Housing boom in the 1920s–1940s; the IRT Pelham Line opened in 1918 — https://cityneighborhoods.nyc/unionport
+
+**Boundaries, streets and commercial corridors**
+
+- **Sources disagree on boundaries:**
+  - Wikipedia: a subsection of Castle Hill, usually considered north of Lafayette Avenue — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+  - CityNeighborhoods: Westchester Avenue to the north, Westchester Creek to the east, Lafayette Avenue to the south, and White Plains Road to the west — https://cityneighborhoods.nyc/unionport
+- Main streets: Castle Hill Avenue, White Plains Road, and Lafayette Avenue; Community Board 9; ZIP codes 10462 and 10473 — https://bronxtreeservices.com/unionport-tree-services/
+- The Castle Hill Avenue BID started in June 2012 — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- Long-running business: Varsity Army & Navy has sold workwear on Castle Hill Avenue since 1938 and moved to 1239 Castle Hill Ave (an older article) — https://bronx.news12.com/unionport-workwear-shop-uncovers-history-during-move-36450168
+- Firehouses: 1214 Castle Hill Avenue (Engine Company organized May 1, 1896) — https://www.flickr.com/photos/tags/unionport
+- Nearby: the Bangla Bazaar on Olmstead, Odell, Purdy and Castle Hill Avenue (https://en.wikipedia.org/wiki/Parkchester,_Bronx); the Zerega industrial park borders the area (https://www.nyc.gov/html/bxcb9/html/about/neighborhoods.shtml)
+
+**Parks, landmarks, what it's known for**
+
+- A small triangle where Watson Avenue, Castle Hill Avenue and the Cross Bronx Expressway meet has a monument to Unionport's World War I dead; Unionport Parkchester Park is on Unionport Rd — https://bronxtreeservices.com/unionport-tree-services/
+- Castle Hill Little League has been active since 1956 — https://www.homes.com/local-guide/bronx-ny/unionport-neighborhood/
+- 26.3% of residents have Puerto Rican ancestry and 19.0% Dominican; 43.9% were born in another country — https://www.neighborhoodscout.com/ny/bronx/unionport
+- A growing South Asian community — https://www.facebook.com/BronxAndBeyond/posts/unionport-is-a-small-neighborhood-in-the-east-bronx-the-area-is-located-south-of/122305559654208780/
+
+**Local Reddit discussion:** EMPTY (no r/Bronx, r/AskNYC or Unionport threads came up)
+
+**Hyperlocal outlets:**
+- The Bronx Times covers Castle Hill, Parkchester and nearby neighborhoods — https://en.wikipedia.org/wiki/Bronx_Times-Reporter
+- Norwood News covers Unionport crime (link above)
+- Patch / BKReader items about Unionport cameras: EMPTY
+
+**Pricing in published sources (all vendor claims):**
+- $1,062 to $2,000 for a 4-camera home system — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- wired PoE systems from $1,800; 5–8 cameras $3,500–$6,000 — https://senecasecurity.com/security-cameras-bronx/
+- $344 to $814 per camera — https://www.handoff.ai/construction-costs/install-a-security-camera-system/bronx-ny
+
+**Yelp praise and complaints (Bronx-wide; no Unionport-specific reviews found):**
+- Praise
