@@ -300,6 +300,19 @@ Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<
 ### 13.5 Social platforms
 - See Anwar's social search plan (Facebook, Instagram, YouTube, TikTok) in support677/Aess-housecall-connector `plans/SOCIAL-SEARCH-PLAN.md` — same structure, same blueprint, content sized to each platform.
 
+### 13.6 Medium articles (added Nov 4 2026, Anwar)
+- AI tools (ChatGPT, Perplexity, Gemini) cite Medium often. One article per published site page, same order as the pages (comparison pages and hubs first, then borough/county, then neighborhood).
+- Not a copy of the page: a 600–1,000-word original article — answer in the first line, keyword in the title, one comparison table where it fits, real AESS job photos, real AESS facts only (§12.3), link to the matching site page (§12.4 target page).
+- Publish as AESS / Anwar Timothy. If an article reuses page text, set the canonical link to the site page (Medium's "Import a story" does this automatically).
+- No API: Medium closed new integration tokens and Composio has no Medium toolkit. Post through Anwar's Chrome ("ABSTRACT" browser, signed in to Medium) per his Playwright/browser rule. Log each article (date, title, Medium URL, site page) in seo/MEDIUM-LOG.md.
+
+### 13.7 Quora answers (added Nov 4 2026, Anwar)
+- Answer real questions people ask about security cameras, intercoms/door buzzers, access control, alarms, cabling and TV mounting in NYC, Long Island and the Hudson Valley. Same rules as Reddit (§13.3): genuinely helpful answer first, disclose "I own a security company in NYC (Abstract Enterprises Security Systems)", link to an AESS page only when it actually answers the question, never post as a fake customer or from multiple accounts.
+- Lead/DIY rule still applies: give the decision/buying answer, not step-by-step install or troubleshooting how-to.
+- Also create a Quora Space for AESS and share each new comparison/hub page there with a short summary.
+- Questions found on Quora feed the pages' FAQ research (§3).
+- No API: Quora has no public API and no Composio toolkit. Post through Anwar's Chrome ("ABSTRACT" browser, signed in to Quora). Log each answer (date, question URL, answer URL, page linked) in seo/QUORA-LOG.md. Pace it like a person: a few answers a day, never bursts.
+
 ---
 
 *End of blueprint. Edit this file directly to evolve the spec — do not rely on memory or chat history.*
