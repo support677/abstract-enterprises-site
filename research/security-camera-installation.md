@@ -3993,3 +3993,23 @@ Local research reused from research/door-buzzer-repair.md (University Heights se
 - Should a new six-story building be prewired for cameras before the walls close? — YIMBY permits (web)
 - Do city/council cameras on the block replace building cameras? — News 12 2012 (web)
 - How much does camera installation cost in the Bronx? — HomeAdvisor/Thumbtack PASF (web)
+
+## Van Cortlandt Village, Bronx — /security-camera-installation-van-cortlandt-village-bronx-ny (max-burn research, 2026-11-04)
+
+Local research reused from research/door-buzzer-repair.md (Van Cortlandt Village section: Amalgamated, Shalom Aleichem, Park Reservoir, 3850 Sedgwick, Cannon Place houses, Olmsted street plan, stair streets, new construction at 3822/3870/3874 Sedgwick, Broadway shops, transit, parks) plus this camera-specific pass. Format: query · platform · URL · finding · page section.
+
+- "Van Cortlandt Village Bronx police video robbery burglary Sedgwick Avenue" · web · https://www.norwoodnews.org/woman-robbed-inside-van-cortlandt-village-bank/ · Aug 5 2024 2:47 p.m.: note robbery at Ridgewood Savings Bank, 3899 Sedgwick Ave at Gouverneur Ave; $478 taken; suspect fled south on Sedgwick; identified from ATM surveillance stills (cap, sunglasses, mask) · street/face section, FAQ on masked faces
+- same · https://www.norwoodnews.org/van-cortlandt-village-five-sought-in-armed-robbery-pattern/ · Oct 10 2022: ~2:39 p.m. five men on motorcycles robbed two people at Sedgwick Ave & Hillman Ave, fled east on Sedgwick; ~3:10 p.m. four men on two motorcycles robbed a man at W 238th St & Bailey Ave; NYPD released surveillance video showing the riders and bike colors · street-facing section (motorcycles, direction, colors), FAQ
+- "Amalgamated Housing Cooperative Bronx security cameras board" · web · https://coophousing.org/outdoor-security-cameras-at-your-housing-cooperative/ · National Association of Housing Cooperatives guidance: written policies for staff/management/board, rule against tampering, lenses face only the common element never a member's porch, expect frequent member footage requests, decide retention, licensed/insured contractors, uniform camera appearance, consult co-op attorney · co-op complex section, FAQ
+- same · https://en.wikipedia.org/wiki/Amalgamated_Housing_Cooperative · 11 buildings / 1,468 units (2024), 1927–1971 build-out · co-op section
+- Reddit (r/bronx, r/riverdale) Van Cortlandt Village camera threads: EMPTY (none found in build env)
+- Answer the Public: EMPTY (not accessible in build env)
+- Existing: AmNews Apr 23 2026 (3870/3874 Sedgwick development), Norwood News Jan 1 2026 (8-story 30-unit 3822 Sedgwick), Norwood News Feb 22 2026 (car into scaffolding at 125 Van Cortlandt Ave West) — construction-site and scaffolding camera section
+
+### Questions people ask — Security Camera Installation in Van Cortlandt Village
+- Who in a big co-op gets to see camera footage, and how are member requests handled? — NAHC (web)
+- Can a co-op camera look at a member's door or porch? — NAHC (web)
+- Can a camera identify someone in a cap, sunglasses and mask? — Norwood News bank robbery (web)
+- Will a building camera catch riders on motorcycles? — Norwood News 2022 pattern (web)
+- Should a building with scaffolding up add a camera on the shed? — Norwood News scaffolding (web)
+- How do you wire cameras across a multi-building co-op campus? — Amalgamated/Shalom Aleichem build-out (web)
