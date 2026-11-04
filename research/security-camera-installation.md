@@ -2944,3 +2944,332 @@ Real questions found on FAQ and Q&A pages:
 - Can tenants install cameras without landlord permission in New York? — FAQ page — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
 - Do I need to post signs for security cameras in New York? / Is it legal to have security cameras in New York? — FAQ page — https://surveillanceguides.com/us-surveillance-laws/new-york/
 - The carriage house is in an LPC historic district. Are there rest
+
+## Olinville, Bronx — /security-camera-installation-olinville-bronx-ny (factory research, 2026-11-04)
+
+**Before you use this:** I couldn't open live Google, Bing or DuckDuckGo results pages, AnswerThePublic, or any Reddit thread about cameras in Olinville. So the "People Also Ask", "People Also Search For", Bing/DuckDuckGo and Reddit fields are marked EMPTY rather than made up. Also, an Abstract Enterprises Security Systems page already uses this exact slug, and much of the Olinville-specific detail online comes from that company's own pages. Treat those findings as a competitor's or vendor's claims (or your own, if this page is for them), not independent sources.
+
+### Security camera installation in Olinville specifically
+
+**Building types and how entry and wiring work there**
+- Olinville is mostly colonial-style homes and attached rowhouses. A few brick co-ops and condos sit near Gun Hill Road, and the larger rowhouses and detached homes are in the northern part. — https://www.homes.com/bronx-ny/neighborhood/olinville/
+- Many two- and three-family homes. "There are a good number of two-family and three-family homes," says Beltran. — https://www.homes.com/bronx-ny/neighborhood/olinville/
+- Older housing dominates. City-Data counts 2,088 homes built in 1939 or earlier, the largest group, and 700 built in 2020 or later. — https://www.city-data.com/neighborhood/Ollinville-Bronx-NY.html
+- A conflicting description: NeighborhoodScout says most homes are small-to-medium apartment buildings and that most of the residential real estate is renter occupied. — https://www.neighborhoodscout.com/ny/bronx/olinville
+- Parkside Houses (NYCHA) sits on the southern edge: 14 buildings, 6, 7, 14 and 15-stories tall with 879 apartments. Completed June 12, 1951, the 11.14-acre Bronx development is bordered by Adee and Arnow Avenues, White Plains Road and Bronx Park East. — https://foursquare.com/v/nycha--parkside-houses/4c7087589375a09333830737
+- NYCHA lists two Parkside lots: 2825 OLINVILLE AVENUE and 2945 WHITE PLAINS ROAD. 47% of families there are on fixed incomes. — https://nycharealtalk.org/lots/5731/
+- Vendor claim: for Parkside, NYCHA Capital Projects standardizes on specific approved brands per their spec. In other words, private installers work inside NYCHA's existing system. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-olinville-bronx-ny
+- Vendor claim: Olinville has pre-war walk-ups on Olinville, Wallace, Barker, Burke, Mace, Waring and Adee Avenues. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-olinville-bronx-ny
+- Vendor claim on repairs: Roughly 60% of black-screen calls in the Bronx are a failed BNC connector or a dead PoE port — not a dead camera. The same vendor lists Hikvision as the brand it repairs most. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+
+**City data (HPD violations, 311, DOB)**
+- 3225 Olinville Ave: 96 open HPD violations, 43 immediately hazardous (Class C). It's a 55-unit building, built in 1931. — https://weverit.com/building/ny/new-york/3225-olinville-avenue-bronx-10467
+- 3520 Olinville Ave: 29 open HPD violations, 11 of them Class C. One open Class C (March 2026) orders a self-closing door replaced or repaired, which matters for entry security. — https://weverit.com/building/ny/new-york/3520-olinville-avenue-bronx-10467
+- 3435 Olinville Ave: one DOB/ECB summons for a sidewalk shed or temporary construction protection, with an OATH hearing on November 6, 2026. — https://buildingviolation.com/hearings/November-2026/3435-olinville-avenue-bronx-ny-10467-oath-hearing-november-2026.html
+- 2505 Olinville Ave, a 1928 elevator building with 49 units, logged 35 complaints in the past 12 months to 311. This address is south of Gun Hill Road, which this source calls Norwood, so it's outside Olinville proper. — https://pulsecities.com/property/2044280001
+- No 311 data specifically about cameras or intercoms in Olinville: EMPTY
+- No DOB permits specifically for cameras or low-voltage work: EMPTY
+- Landmarks Preservation Commission: I found no historic district in Olinville (EMPTY), so no LPC rules on facade mounting turned up.
+
+**Rules that affect installation**
+- Under Multiple Dwelling Law §50-a, Multiple dwellings built or converted to such use prior to January 1, 1968 also must have self-locking doors and a two-way intercom system if requested by a majority of all the apartments. That covers much of Olinville's pre-war stock. — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Common-area camera notices: one source says NYC Local Law 50 requires that you post visible notices in any common area where cameras are operating. This is a vendor blog and I didn't check it against the law itself. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Tenants can put cameras inside their own unit but generally do not have the right to install cameras in common hallways, lobbies, or other shared spaces without landlord permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- State law (General Business Law §69-m) says no one may engage in the business of installing, servicing or maintaining security or fire alarm systems without a license. — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- Where the line falls: the Department of State says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. Whether a camera-only job needs the license is disputed. — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf
+- A conflicting vendor claim: NYC requires licensed electricians for wired security camera installation. I didn't confirm this. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+
+**Local crime news**
+- Armed robbery of a 68-year-old near Barker Avenue and Magenta Street in Olinville on May 4, 2026. — https://www.norwoodnews.org/olinville-two-sought-for-armed-robbery-of-older-adult/
+- The 47th Precinct, which covers Olinville, had 37 of the 252 car, tire, rim and catalytic converter thefts in a 2026 indictment. — https://www.norwoodnews.org/update-bronx-da-police-commissioner-16-charged-with-252-thefts-of-cars-tires-rims-catalytic-converters/
+- Nextdoor posts in Olinville mainly remind people to secure property, especially to double-check car doors, and include a package-thief warning. — https://nextdoor.com/resources/crime-and-safety/olinville--bronx--ny/
+- October 2026 killing at 2550 Olinville Ave, where police canvassed for surveillance video. The address is in Allerton, south of Olinville proper. — https://www.cbsnews.com/newyork/news/woman-dead-child-hurt-bronx-building-nypd/
+- Nearby comparison: Council Member Kevin Riley funded $675,000 in FY23 for cameras at NYCHA's Gun Hill Houses. — https://nycaribnews.com/nyc-council-member-riley-presents-funding-to-provide-gun-hill-houses-with-security-cameras/
+- Reddit threads about cameras or entry in Olinville: EMPTY
+
+### History, streets, buildings, landmarks
+
+- The name: named after the author, professor and Methodist bishop, Stephen Olin (1797-1851). The village grew up in the 1840s around the New York and Harlem Railroad as two settlements, Olinville No. 1 and No. 2. — https://www.nycgovparks.org/parks/bronx-river-parkway/highlights/11681
+- A conflicting origin story credits the late-19th-century Olin family of landowners. — https://cityneighborhoods.nyc/olinville
+- Boundaries: a small dogleg of a neighborhood tucked between White Plains Road and the Bronx River. East 222nd Street forms its northern edge, while the Parkside Houses mark its southern boundary. — https://theneighborhoods.substack.com/p/olinville-the-bronx
+- Sources disagree on boundaries. One puts them at Gun Hill Road, Boston Road, Arnow Avenue and Bronx Park East. — https://cityneighborhoods.nyc/olinville
+- Wikipedia treats Olinville as the northwestern part of Allerton; the section north of Adee Avenue is also considered part of Williamsbridge. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- Main corridors: White Plains Road and East Gun Hill Road are the main retail streets, with commercial zoning overlays. R7-1 zoning runs along Bronx Boulevard, Olinville Avenue and Barker Avenue. — https://www.nyc.gov/assets/planning/download/pdf/plans/olinville/olinville.pdf
+- Transit: the Gun Hill Road station (2/5) opened on March 3, 1917. — https://en.wikipedia.org/wiki/Gun_Hill_Road_station_(IRT_White_Plains_Road_Line)
+- Rezoning: the city's White Plains Road Plan covers White Plains Road from Adee Avenue to the Bronx-Mount Vernon border, along with portions of Gun Hill Road and East 233rd Street. — https://www.nyc.gov/mayors-office/news/2026/05/mamdani-administration-advances-first-neighborhood-plans-for-whi
+- One source says a vote is likely in 2027 or 2028. — https://www.ccdrealestatesolutions.com/white-plainsrd-neighborhood-plan
+- Parkside Houses welcomed its first tenants in 1951. — https://theneighborhoods.substack.com/p/olinville-the-bronx
+- Olinville Playground at East 219th Street: the Parks Department got the land with the 1938 Bronx River Parkway extension. — https://www.nycgovparks.org/parks/bronx-river-parkway/highlights/11681
+- The playground is probably a WPA project, completed around 1940. — https://livingnewdeal.org/sites/olinville-playground-bronx-ny/
+- The northernmost boat launch on the Bronx River is just west of Olinville Playground. — https://bronxriver.org/wp-content/uploads/2021/05/Get-Moving-on-the-Bronx-River-2016-Activity-Guide1.pdf
+- Known for Olinville Old-Timer's Day, celebrated in the neighborhood since 1975. — https://theneighborhoods.substack.com/p/olinville-the-bronx
+- The event is held at Agnes Haywood Playground on Barnes Avenue between East 215th and 216th Streets. — https://www.gofundme.com/f/support-the-15th-annual-olinville-old-timers-day
+- People: 14.5% of this neighborhood's residents have Jamaican ancestry and 14.0% have Dominican ancestry. — https://www.neighborhoodscout.com/ny/bronx/olinville
+- Nearby security businesses listed include ADT, Etron Security Systems and Abstract Enterprises. — https://www.yellowpages.com/olinville-ny/security-control-systems-monitoring
+
+### Costs (NYC-wide; nothing specific to Olinville)
+- Labor runs $80 to $200 per camera. — https://butterflymx.com/blog/security-camera-installation-nyc/
+- A 4-camera system costs about between $800 and $1,000. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Apartment buildings commonly cost $4,500 to $15,000+ for lobbies, hallways, package rooms, basements, roofs, exterior doors, garages. — https://nycsecuritysystemspro.com/how-much-does-security-camera-installation-cost-nyc/
+- Abstract Enterprises lists a Bronx range of $1,062 to $2,500. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+
+### Questions people ask — Security Camera Installation in Olinville
+- People Also Ask (Google): EMPTY (couldn't access results pages)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY. No relevant threads found.
+- What did people search for similar to cctv security camera installation in Bronx, NY? (Yelp shows "Security Camera Installation") — Yelp related searches — https://www.yelp.com/search?find_desc=cctv+security+camera+installation&find_loc=Bronx%2C+NY
+- What are people saying about security systems services in Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Yelp praise only, no complaints found: "did a very good job and the price was excellent" (Computer Settings), plus praise for fixing camera problems — Yelp — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Who can install security cameras? — Thumbtack FAQ — https://www.thumbtack.com/ny/bronx/security-camera-install
+- Is it illegal for my landlord to place a camera outside my door in NYC? — JustAnswer (Q&A site, not Reddit) — https://www.justanswer.com/landlord-tenant/71v91-nyc-landlord-put-camera-outside-door.html
+- Do you need a permit to install a security camera in New York? / Can my landlord watch my security cameras? — vendor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- How much does it cost to install a 4-camera security system in NYC? / What is the labor cost for CCTV installation in NYC? — vendor FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- What is the average labor cost to install security cameras? — vendor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- Do I have to tell my tenants about security cameras in common areas? — vendor FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Is a video intercom required by NYC law? / What happens if my intercom stops working? — vendor FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Do wired or wireless cameras work better for Olinville buildings? / How many cameras does a Bronx home need? / Can security cameras help with liability protection for Olinville businesses? — the Abstract Enterprises page at this same slug — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-olinville-bronx-ny
+- What about Parkside Houses NYCHA on the southern border? — Abstract Enterprises FAQ — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-olinville-bronx-ny
+- How can security cameras be integrated with existing building systems in older Bronx properties? — vendor FAQ — https://www.myshyft.com/blog/security-camera-installation-services-bronx-new-york/
+- Hyperlocal outlets: Norwood News covered Olinville crime (above). For Patch, BKReader and Bronx Times, I found only an old Bronx Times story on Parkside conditions (https://www.bxtimes.com/nycha-tenants-weary-of-housing-conditions/). Otherwise EMPTY.
+
+## Pelham Bay, Bronx — /security-camera-installation-pelham-bay-bronx-ny (factory research, 2026-11-04)
+
+**Camera-specific angles (most important)**
+
+- Car break-ins, the main reason residents want driveway and street-facing cameras: in May 2026, News 12 reported shattered windows, stolen airbags and thousands of dollars in potential damage after an overnight string of break-ins. The vehicles targeted were Hondas, and the break-ins were reported near Pilgrim and St. Theresa avenues, and Edison Avenue. Neighbors told News 12 that car break-ins have become a recurring problem in the area. — https://bronx.news12.com/2026/05/26/pelham-bay-community-members-shaken-after-overnight-string-of-car-break-ins-airbag-thefts/3fQmSfJAecOGOzPJEan86p
+- 45th Precinct numbers: in 2025 the precinct had 774 grand larcenies and 547 auto thefts, all representing significant increases over last year. Burglary and robbery decreased compared to last year. State Sen. Jamaal Bailey allocated $1 million for the installation of new NYPD surveillance cameras throughout the 45th Precinct, specifically in Co-op City. — https://www.bxtimes.com/bailey-1-million-nypd-surveillance-cameras-co-op-city/
+- Precinct: Pelham Bay is patrolled by the 45th Precinct — https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx
+- NYPD Argus camera at the main corner: the 45th Precinct's Argus camera sites include Wilkinson Avenue and Bruckner Boulevard along the north side of Wilkinson Avenue, Crosby and Westchester Avenues and Zerega and Westchester avenues. (This is an older article, about 2019.) — https://www.bxtimes.com/nypd-argus-cameras-installed-at-45th-precinct-selected-sites/
+- Argus cost, for comparison with private systems: Each Argus camera box costs $45,000 and contains two cameras. — https://citymeetings.nyc/meetings/new-york-city-council/2025-05-29-1000-am-committee-on-public-safety/chapter/council-member-salaam-inquires-about-argus-cameras-funding-and-placement/
+- Anti-dumping cameras: Assembly Member Benedetto's $250,000 will purchase approximately twenty-five cameras at $10,000 apiece. They will be placed throughout the Pelham Bay area and 82nd District at frequent dumping locations. His reasoning was that dumpers can pull their cars off to the side, dump things, and then quickly escape onto the Hutch or I-95. The Pelham Bay Taxpayers and Community Association backed it. Publication date not shown. — https://assembly.ny.gov/mem/Michael-Benedetto/story/104627
+- Commercial-corridor incidents caught on camera:
+  - A deli robbery at the A&A Deli on Westchester Avenue, where the robbers got away with $1,100 in cash (2025). — https://bronx.news12.com/brazen-robbery-at-pelham-bay-deli-caught-on-camera-1100-in-cash-taken
+  - An armed robbery at a store on Crosby and Buhre avenues; police released surveillance video of the duo in action. — https://bronx.news12.com/nypd-2-suspects-sought-in-pelham-bay-armed-robbery
+  - A break-in at the Pelham Bay Discount and Hardware store on Westchester Avenue (older story, date not shown). — https://www.cbsnews.com/newyork/news/nypd-looking-for-suspect-caught-on-camera-throwing-rock-through-glass-door-breaking-into-hardware-store-in-bronx
+- Street robbery: an armed robbery on May 30, 2026 near Roberts Avenue and Jarvis Avenue, with about $71,000 in property taken. — https://citizen.com/-OuI8AL7ncYZlrM9Ar9H
+- Porch theft next door: A Pelham Gardens resident caught home video of a person stealing his packages off his front porch. — https://bronx.news12.com/caught-on-camera-porch-pirates-strike-again-this-holiday-season
+- Building and wiring types:
+  - Housing is described as overwhelmingly low-rise: detached and semi-detached single-family homes, brick two-family houses, and modest post-war apartment buildings, most three to six stories. — https://reinventny.com/blog/pelham-bay
+  - A conflicting source says the stock is mostly small apartment buildings and apartment complexes/high-rise apartments. — https://www.neighborhoodscout.com/ny/bronx/pelham-bay
+  - On age: 57.0% of the residential real estate here was built from 1939 or earlier, which means masonry walls and older wiring to work around. — https://www.neighborhoodscout.com/ny/bronx/pelham-bay
+- Permits and licensing:
+  - Under AC §28-105.4.7, wiring below 50 volts for data, communication, signaling and alarm circuits may be done without an electrical permit by a licensed master electrician, a special electrician or a qualified person. That section took effect Dec 21, 2025.
+  - Separately, New York's General Business Law Article 6-D requires a Department of State license to engage in the business of installing, servicing or maintaining security or fire alarm systems.
+  - Source: https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Tenant rules (relevant to the walk-ups and rental two-families): you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- No NYC mandate for cameras: There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Competitor page to avoid copying: abstractenterprisessecuritysystems.com's Pelham Bay page names commercial corridors like Fifth Avenue, Broadway, and Madison Avenue. That's a Manhattan template error, which leaves room for a page that's actually about Pelham Bay. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-pelham-bay-bronx-ny
+- HPD violations, 311 complaints, DOB permits for camera work: EMPTY (no search results)
+- LPC historic district covering Pelham Bay's residential blocks: EMPTY (none found; the only landmark found is the Bartow-Pell Mansion inside the park)
+
+**History and development**
+
+- Colonial era: the area was once known as Pell's Point during colonial times, named for landowner Thomas Pell, and it was the site of an American Revolutionary War battle on 18 October 1776. The town was annexed into New York City in 1895. — https://historica.fandom.com/wiki/Pelham_Bay
+- The subway: In January 1919, the New York State Public Service Commission was acquiring property for a subway yard at Pelham Bay Park. — https://en.wikipedia.org/wiki/Pelham_Bay_Park_station
+- Building boom: Construction dates largely from the 1920s through the 1960s, with Tudor-influenced and Colonial Revival details visible on streets like Wilkinson Avenue, Hobart Avenue, and Crosby Avenue. — https://reinventny.com/blog/pelham-bay
+- Rezoning: City Planning lists "Pelham Bay Rezoning – Approved!" (application C 060179 ZMX). — https://www.nyc.gov/assets/planning/download/pdf/plans/pelham-bay/pelham_bay.pdf
+- Building height: Zoning regulations have kept multi-story buildings mainly relegated to the edges of the neighborhood. — https://theneighborhoods.substack.com/p/pelham-bay-the-bronx
+
+**Streets and commercial corridors**
+
+- Westchester and Crosby Avenues are the neighborhood's main commercial corridors and are zoned R6 and R7-1 with C1-2 and C2-2 commercial overlays. — https://www.nyc.gov/assets/planning/download/pdf/plans/pelham-bay/pelham_bay.pdf
+- At Buhre Avenue station, stairs lead to the seven-pointed intersection of Westchester, Buhre, Crosby, and Edison Avenues. — https://en.wikipedia.org/wiki/Buhre_Avenue_station
+- Businesses at that hub include Pilgrim Pharmacy, Pruzzo's Supermarket and Quality Café; the Pelham Bay Merchants Association is active. — https://www.bxtimes.com/pelham-bay-biz-blitz-with-buhre-ave-subway-station-fix/
+- Boundaries: bounded by the Bruckner Expressway, the Hutchinson River Parkway, and Middletown Road. ZIP code: Bronx Community District 10, and its ZIP Code is 10461. — https://theneighborhoods.substack.com/p/pelham-bay-the-bronx ; https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx
+
+**Parks, landmarks and what it's known for**
+
+- The Bartow-Pell Mansion: 1966 Designated a New York City Landmark. 1977 Designated a National Historic Landmark. — https://www.bartowpellmansionmuseum.org/about/history/
+- Orchard Beach: This crescent-shaped "Bronx Riviera" features a massive parking field and two enormous Art Deco-style bathhouses. — https://www.nycgovparks.org/parks/pelham-bay-park/history
+- Reputation: Pelham Bay ranks as one of the safest and most desirable neighborhoods in the Bronx. — https://en.wikipedia.org/wiki/Pelham_Bay_(neighborhood),_Bronx
+- Character: Pelham Bay remains a majority Italian neighborhood (2010). — https://forgotten-ny.com/2010/07/pelham-bay-part-2-bronx/
+
+**Reddit, Patch and Yelp**
+
+- r/PelhamBay, r/Bronx, r/AskNYC, r/homesecurity threads about cameras in Pelham Bay: EMPTY
+- Patch Pelham Bay coverage: EMPTY. BKReader covers Brooklyn, so it doesn't apply.
+- Yelp Bronx praise: "They installed security cameras in my home they did a very good job and the price was excellent..." — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Yelp Bronx complaints: EMPTY. The only signal is that ADT Security Services shows 1.0 (31 reviews) near Castle Hill. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Castle+Hill%2C+Bronx%2C+NY
+
+**Costs (for an FAQ)**
+
+- Angi: Security camera installation costs in New York, NY, cost $1,509 on average, with average price ranges from $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+
+### Questions people ask — Security Camera Installation in Pelham Bay
+
+I couldn't see Google's People Also Ask boxes, related searches, or Bing and DuckDuckGo results, and I had no AnswerThePublic access. The PAA, PASF, AnswerThePublic, Bing and DuckDuckGo columns are therefore EMPTY. The questions below are real, but I found them on web pages' FAQ sections, a forum and Yelp, labeled as such.
+
+- Do I need a permit to install security cameras in my NYC building? — FAQ on a web page — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Do I have to tell my tenants about security cameras in common areas? — FAQ on a web page — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can I install hidden cameras in my rental property? — FAQ on a web page — same URL
+- Can I install a security camera in the hallway for safety? — FAQ on a web page (Brick Underground) — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Am I legally allowed to put a camera outside my front door facing the public hallway? — JustAnswer (a Brooklyn tenant) — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Does a rent-stabilized tenant need landlord permission for a private camera? — City-Data forum — https://www.city-data.com/forum/new-york-city/3354139-rent-stabilized-apt-s-private-security.html
+- Can my landlord put cameras in the hallways or laundry rooms? — FAQ on a web page — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- How much does it cost to install a 4-camera security system in NYC? — FAQ on a web page — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- What is the labor cost for CCTV installation in NYC? — FAQ on a web page — same URL
+- How long does a security camera installation usually take in NYC? — FAQ on a web page — https://nyhls.com/blog/security-camera-installation-cost
+- Does low-voltage cabling in NYC require a permit? — FAQ on a web page — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Does a camera installer need a New York State license? — FAQ on a web page — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Can security cameras help with liability protection for Pelham Bay businesses? / How many cameras does a typical Bronx property need? — FAQ on a competitor's page — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-pelham-bay-bronx-ny
+- Related search shown by Yelp: "Security Camera Installation" (People also searched for these in Bronx: Security Camera Installation.) — Yelp — https://www.yelp.com/search?find_desc=cctv+security+camera+installation&find_loc=Bronx%2C+NY
+- PAA: EMPTY · PASF: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo: EMPTY · Reddit: EMPTY
+
+## Pelham Gardens, Bronx — /security-camera-installation-pelham-gardens-bronx-ny (factory research, 2026-11-04)
+
+**Caveat on method:** My search tool can't show Google's People Also Ask boxes, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic. All of those are marked EMPTY below. I also found no HPD, 311 or DOB records specific to Pelham Gardens, and no Pelham Gardens Reddit threads. A note in brackets marks my own reading of a finding, not something a source says.
+
+**Security-camera-specific angles (most important)**
+- Housing mix: Pelham Gardens is dominated by single family homes with some small apartment buildings and 2-3 family homes. Many private homes have basement studio apartments but are classified as one family. [What it means for installs: these homes may have a separate basement or side entrance that also needs a camera.] — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- A typical listing: a 2-family home with the owner's unit upstairs and a rental below, a front patio and private fenced backyard, plus a garage and driveway for 2 off-street parking spots. The brick facade adds a classic, yet charming feel [Brick means drilling through masonry. Coverage needs are the driveway, garage, backyard, and separate unit doors.] — https://www.redfin.com/NY/Bronx/1304-Waring-Ave-10469/home/44790845
+- Building age: the median construction year is 1952. About 29.6% of homes were built before the 1940s, with another 14.9% going up by 1949. Homes.com gives the median year built as 1948 (sources conflict). — https://www.point2homes.com/US/Neighborhood/NY/Bronx/Pelham-Gardens-Demographics.html ; https://www.homes.com/local-guide/bronx-ny/pelham-gardens-neighborhood/
+- Housing styles: Rows of bungalows line the blocks of Pelham Gardens. The area also has brick rowhouses and townhouses scattered amongst single-family 19th-century architectural marvels, including prewar Tudor and Colonial single-family homes. — https://www.homes.com/local-guide/bronx-ny/pelham-gardens-neighborhood/
+- Precinct: Pelham Gardens and Morris Park are patrolled by the 49th Precinct of the NYPD, located at 2121 Eastchester Road. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- 2022 crime counts: The precinct reported 7 murders, 17 rapes, 273 robberies, 367 felony assaults, 133 burglaries, 611 grand larcenies, and 371 grand larcenies auto in 2022. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- 2025 trend: There were 2,266 reported major crimes here in 2025 — a 6.84 increase from the 2,121 reported crimes in 2024. — https://bestinthebronx.nyc/the-safest-and-least-safe-neighborhoods-in-the-bronx/
+- Sept 2025 robberies: The 49th Precinct led the way in this category as well, with reported cases there having gone up from 16 last year to 35 this year. — https://www.bxtimes.com/rapes-rise-bronx-murder-burglary-plummet-sept-2025/
+- Early 2024 burglaries: in the 49th Precinct, every major crime increased with the exception of murders… Burglaries also saw a significant increase of 87.5%. — https://www.bxtimes.com/police-beat-mar-13/
+- 2023 burglaries: According to July NYPD Compstat data, burglary in the 49th Precinct is up 77% over 2022 numbers from the same timeframe. — https://www.bxtimes.com/suspect-arrested-in-pelham-parkway-smash-and-grabs-but-residents-remain-concerned/
+- Same article: glass storefront doors were smashed at three nearby businesses, and the White Plains Road corridor has been an area of concern for the past two years. — same URL
+- CCTV used by police: By reviewing CCTV footage of past thefts from a variety of precinct stores, the NCOs were recently able to help detectives charge one suspect with six separate burglaries. — https://www.nyc.gov/site/nypd/news/f0913/your-neighborhood-police-49th-precinct-bronx
+- Aug 2026 incident: Police say a man and another person robbed a 16-year-old near Esplanade and Waring Avenue. — https://bronx.news12.com/2026/08/22/teen-robbed-at-gunpoint-in-pelham-gardens-suspects-wanted/3e70xbcfgSFIMXcmjB84hK
+- Gun Hill Road station assault: The NYPD released surveillance video of the two suspects jumping the subway turnstile. — https://bronx.news12.com/nypd-2-suspects-wanted-in-pelham-gardens-subway-platform-assault
+- Unstaffed stations: Gun Hill Road and Pelham Parkway are one of the only five stations… in the whole NYC subway that don't have at least a booth that is staffed 24 hours per day — https://en.wikipedia.org/wiki/Gun_Hill_Road_station_(IRT_Dyre_Avenue_Line)
+- Nextdoor safety post (Tater Ridge section) about a man who stole a neighbor's beach chairs on Astor Ave@ 12pm Thursday afternoon — https://nextdoor.com/neighborhood/pelhamgardens--bronx--ny/
+- Nearby NYCHA cameras: Pelham Parkway Houses (23 six-story buildings, completed 1950) got security cameras two years after the original city funding was approved in the wake of a murder in the complex. — https://en.wikipedia.org/wiki/Pelham_Parkway_Houses
+- Licensing: an installer license is required for a closed circuit television system (CCTV) if such system is used, either full-time or part- time, for the detection or monitoring of intrusion, break-in, theft, movement — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- DIY exemption: Home or business owners installing a system on their own property are not "in the business of" installing. The license costs $200 - Initial Application (License without examination). — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf ; https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- Unverified claim: one installer says NYC requires licensed electricians for wired security camera installation. I couldn't confirm this, and it doesn't match the Department of State's licensing framework. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Privacy law (affects where cameras can point): New York law does not prohibit filming individuals in areas where they can be seen from the public, including lawns, driveways or front porches. Civil Rights Law 52-a covers devices placed where a person has a reasonable expectation of privacy. — https://news.yahoo.com/neighbor-film-own-property-york-070106669.html
+- Local installers: Security iCam is at 963 Morris Park Ave, Bronx, NY 10462. Yakov Security Tech is at 2564 E Tremont Ave. — https://www.safehome.org/security-systems/new-york/bronx/ ; https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- Yelp "near Pelham Gardens" list: CMD Technologies, True V Security Systems, Security Camera, City Smart Systems, Security Camera NY, Atlantic Intercoms, Guard one solutions, Optimal Lock & Security — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Pelham+Gardens,+Bronx,+NY
+- Competitor price: Our systems start at $850 for 4 cameras with professional installation, NVR recording. The same company's Bronx page says $1,062. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-pelham-bay-bronx-ny ; https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- HPD violations / 311 complaints / DOB permits for cameras in Pelham Gardens: EMPTY
+- LPC: no Pelham Gardens historic district or landmark found. The nearest is Bartow-Pell Mansion, designated as a landmark (exterior) by the City's Landmarks Preservation Commission in 1966, in Pelham Bay Park, which is outside the neighborhood. — https://nylandmarks.org/news/bartow-pell-mansion-museum-pelham-bay-park-bronx/
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity) threads on Pelham Gardens cameras: EMPTY
+
+**History and development**
+- Name origin: The name Pelham Gardens derives from Thomas Pell, who purchased the land from the Siwanoy on June 27, 1654 — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- For several hundred years, the area was a part of Westchester County until it was purchased by the city of New York at the turn of the 20th century. — https://www.movoto.com/guide/ny/pelham-gardens-bronx-friendly-working-class-neighborhood/
+- The creation of Pelham Parkway (1897–1908)… was the area's turning point. — https://cityneighborhoods.nyc/pelham-gardens
+- During the 1970s, as many Bronx neighborhoods suffered from arson and disinvestment, Pelham Gardens remained remarkably stable. — same URL
+- The oldest house in the area, located at the corner of Woodhull Avenue and Fielding Street, was once a farmhouse. — https://www.movoto.com/guide/ny/pelham-gardens-real-estate-bronx-ny-neighborhood-guide/
+- Who built it (developers or builders): EMPTY
+
+**Streets, corridors, parks, what it's known for**
+- East Gun Hill Road to the north and east, Pelham Parkway to the south, and the IRT Dyre Avenue Line (5 train) to the west ending at the esplanade. Eastchester Road is the primary thoroughfare. Other sources put the western edge at Laconia Avenue. ZIP code 10469. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- East Gun Hill Road evolved into a convenient commercial corridor of groceries, bakeries, and service businesses. Hutchinson Metro Center is nearby. — https://cityneighborhoods.nyc/pelham-gardens
+- Businesses: Fratelli on Eastchester Road and Sal & Dom's Pastry Shop on Allerton Avenue. Parks include Seton Falls Park and Pelham Bay Park. — https://www.apartments.com/local-guide/pelham-gardens-bronx-ny/
+- Terrain: a significant valley between Eastchester Road and Laconia Avenue, with the most significant low point on Seymour Avenue. — https://en.wikipedia.org/wiki/Pelham_Gardens,_Bronx
+- Known as a "boomerang neighborhood" where people raised there come back. — https://www.homes.com/bronx-ny/neighborhood/pelham-gardens/
+- Civic groups: Friends of Pelham Parkway… the 49th Precinct Community Council, Allerton Avenue Home Owners & Tenants Association — https://en.wikipedia.org/wiki/Bronx_Community_Board_11
+
+### Questions people ask — Security Camera Installation in Pelham Gardens
+- Google PAA: EMPTY (not available through my tool)
+- Google People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/PelhamGardens, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Yelp complaints: EMPTY. Yelp praise snippet: "Christopher installed cameras across my house and he was thoughtful in his approach." — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bronx%2C+NY
+- Patch / BKReader: EMPTY. Bronx Times and News 12 items are listed above.
+
+These questions are real, but I found them on installer FAQ pages, not in search-engine boxes:
+- How much does security camera installation cost in NYC? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- How much does it cost to install a 4-camera security system in NYC? — installer FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- What is the average labor cost to install security cameras? — installer FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How do I prevent package theft at my Bronx property? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-pelham-parkway-bronx-ny
+- Are security cameras worth it for Bronx property owners? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Do you need a license to install security cameras in New York? — installer FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Can I install a security system by myself? — review-site FAQ — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- What is the best home security system in Bronx? — review-site FAQ — same URL
+- Can my neighbor in New York legally point security cameras at my house? — legal blog — https://www.gavelinsight.com/2025/12/can-my-neighbor-in-new-york-legally.html
+- Can my neighbor film me on my own property? — news article — https://news.yahoo.com/neighbor-film-own-property-york-070106669.html
+- Am I legally allowed to point my own camera toward my neighbor's property? — vendor FAQ — https://www.eufy.com/blogs/security-camera/can-neighbors-have-security-cameras-towards-your-house
+- Do you need NYS license for video access system? — legal blog — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+
+**Conflicting data to check before publishing:**
+- **Population:** Movoto says under 10,000, Redfin about 14,859, Niche 15,191.
+- **Western boundary:** sources disagree (Dyre Avenue line/Esplanade vs. Laconia Avenue).
+- **Redfin error:** it wrongly places Pelham Gardens in Queens County.
+- **Homes.com architecture claims** (Richardsonian Romanesque, Greek Revival) read like generic marketing copy. Get photos of actual houses before relying on them.
+
+## Port Morris, Bronx — /security-camera-installation-port-morris-bronx-ny (factory research, 2026-11-04)
+
+**Notes before using this:** I ran out of searches before I could check several items. Anything marked EMPTY below is a gap, not a finding. I also couldn't load live Google, Bing or DuckDuckGo results pages. None of the questions at the end came from People Also Ask, related searches, Bing or DuckDuckGo. They come from FAQ headings on web pages, and each one is labeled with where I saw it.
+
+**Facts specific to camera installation here**
+- Theft in Port Morris: since late 2019 the La Finca Del Sur farm has had 25 break-ins, losing more than $10,000 in generators, solar panels and other equipment. Residents and business owners told the Bronx Times that theft has been an ongoing problem that has grown in recent years. Some think the neighborhood's closeness to the Bruckner, Major Deegan and Cross Bronx expressways makes it easy for thieves. — https://www.bxtimes.com/in-port-morris-a-urban-community-farm-is-fighting-area-food-insecurity-gentrification-and-also-targeted-theft/
+- Landmark limits: LPC's 2018 rules amendments cover putting equipment on facades, including intercoms, security grilles and security cameras. Installs have to minimize or avoid damage to significant architectural features. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- Camera count on landmarks (secondary source): LPC rules cap cameras by street frontage, about two or three per 25 feet, and generally discourage mounting on a primary facade unless there's no other option. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- The landmark this applies to in Port Morris: the Estey Piano Company Factory at the northeast corner of Lincoln Avenue and Southern (now Bruckner) Boulevard, there since 1886. It's the oldest known piano factory still standing in the Bronx. Carnegie Management owns it as the luxury Clock Tower building at 112 Lincoln Ave. — https://a860-gpp.nyc.gov/downloads/4f16c3616?locale=en ; https://www.dnainfo.com/new-york/20170726/port-morris/crescendo-piano-district/
+- Tenant doorbell cameras: in a nearby Mott Haven building, management gave residents until Wednesday to remove cameras from their apartment doors. One tenant said she'd have kept hers up if she weren't afraid of a violation or fine. — https://bronx.news12.com/mott-haven-tenants-forced-to-remove-door-cameras-say-theyre-already-feeling-less-safe
+- Tenant camera as evidence (Mott Haven): a tenant's Nest camera recorded the landlord entering a unit and removing the electricity meter. — https://bronx.news12.com/exclusive-mott-haven-residents-claim-landlord-is-sabotaging-their-building
+- Large private camera network nearby: Diego Beekman cameras cover a 12-block zone, recording sidewalks, residential lobbies, the entrances of small businesses, and residents' identities. The city's facial-recognition disclosure law for businesses doesn't apply to residential buildings. — https://www.thecityreporter.nyc/2021/12/12/facial-recognition-bronx-housing-complex/
+- Public cameras in the borough: the Bronx Borough President's office budgeted $1.2 million for NYPD surveillance cameras and $500,000 for DSNY illegal-dumping cameras. — https://pix11.com/news/local-news/bronx/more-crime-fighting-cameras-coming-to-the-bronx/
+- New towers come with built-in entry systems: at Third at Bankside, every apartment has keyless entry, and the lobby has 24-hour concierge service and there's valet parking with EV charging. — https://www.cityrealty.com/nyc/market-insight/rental-building-offers/mott-haven/leasing-launches-third-bankside-2-months-free-rent-waterfront-apartments-mott-haven-2412-month/54082
+- Flood risk on the waterfront: at 2401 Third Ave, the landscaped podium roof sits two feet above the 100-year flood plain. That matters when deciding where to put recorders in cellars. — https://hillwest.com/project/bankside/
+- Permits (installer claim, not checked against DOB): low-voltage camera installs in residential brownstones typically don't need a DOB permit. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Licensing claims conflict: one installer says New York State requires installers to hold a valid NYS Low-Voltage / Security Installer License. Another says NYC requires licensed electricians for wired installs. Neither is verified. — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/ ; https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Signage rule (claim not verified): one source says a "Local Law 50" posting requirement applies to common-area cameras. Check this before using it. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- State safe harbor (secondary source): Section 250.65 exempts security systems if a notice is posted or the cameras are clearly visible. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- Local installer: Security Camera Bronx, 749 E 135th St, Bronx, NY 10454. — https://www.safehome.org/security-systems/new-york/bronx/
+- Competitor page quality: Abstract Enterprises' Port Morris page talks about shoplifting on corridors like Fifth Avenue, Broadway and Madison Avenue, which isn't Port Morris, so it looks like a template. It quotes $850 for 4 installed cameras. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-port-morris-bronx-ny
+- HPD violations, 311 complaints, DOB permits for Port Morris — EMPTY (not searched)
+
+**History and development**
+- Port Morris was once part of Morrisania, established as a seaport in 1842 by Gouverneur Morris Jr. — https://6tocelebrate.org/neighborhood-items/port-morris-the-134th-street-ferry-bridges-bronx/
+- By the end of the 1800s it was the center of US piano manufacturing. Rail yards were built on the Bronx Kills in 1906. The neighborhood declined steadily from the 1940s. — same URL
+- The Major Deegan (1956) and Bruckner (1961) expressways cut the area off from the rest of the Bronx. — https://cityneighborhoods.nyc/port-morris
+- A wave of arson in the 1970s burned much of the area, and in the 2000s warehouses were converted to lofts. — https://historica.fandom.com/wiki/Port_Morris
+- Willow, Locust and Walnut avenues are named for trees. — https://forgotten-ny.com/2013/11/mott-haven%E2%80%94port-morris-bronx/
+- The city created the Port Morris Special Mixed-Use District in 1997 and expanded it in 2005 to cover all of western Port Morris. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- The "Piano District" rebrand caused a backlash: a billboard went up near the Third Avenue Bridge in October 2015. — https://www.dnainfo.com/new-york/20170726/port-morris/crescendo-piano-district/
+
+**Streets, corridors and buildings**
+- East 138th St, East 134th St and Bruckner Blvd run past 19th-century warehouses, rail sidings and converted lofts. — https://cityneighborhoods.nyc/port-morris
+- Antique shops on Bruckner Blvd became a South Bronx "Antique Row." The street also has three- to five-story multifamily homes. — https://www.nyc.gov/assets/planning/download/pdf/plans/port-morris/port_morris.pdf
+- Rezoning led to rehabilitated row-house blocks between Bruckner Blvd and East 134th St. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+- Many homes were built in 1939 or earlier, and most are renter-occupied. — https://www.neighborhoodscout.com/ny/bronx/port-morris
+- The east side is mostly light industry and warehouses, while the west side is filling with new residential buildings along the Harlem River. — https://kids.kiddle.co/Port_Morris,_Bronx
+- 25 Bruckner Blvd is two six-story buildings (The Crescendo). — https://www.dnainfo.com/new-york/20170726/port-morris/crescendo-piano-district/
+- Bankside: 1,350 units straddling the Third Avenue Bridge. Lincoln at Bankside has 921 units in four 24-story towers at 101 Lincoln Ave. Maven at 2413 Third Ave is 27 stories with 200 apartments. — https://www.cityrealty.com/nyc/market-insight/rental-building-offers/the-bronx/bankside-1-billion-plan-mott-haven-waterfront-crystallizes-leasing-begins-fall-2021/49783 ; https://dos.ny.gov/system/files/documents/2022/03/bop-101-lincoln-avenue-llc.pdf ; https://www.brickunderground.com/rent/what-renters-can-get-mott-haven-bronx-new-rental-developments
+- Businesses: the Bronx Brewery is in Port Morris. Also Hudson Smokehouse and Bronx Slice at 37 Bruckner Blvd. — https://www.tripadvisor.com/Attraction_Review-g47369-d7189366-Reviews-The_Bronx_Brewery-Bronx_New_York.html ; https://whereyoueat.com/port-morris-neighborhood-bronx/215.html
+- Boundaries are disputed. Bankside and the Bruckner corridor are often listed as Mott Haven (https://www.bxtimes.com/brookfield-announces-park/ ; https://dwellcheck.io/guides/living-in-mott-haven).
+
+**Parks, landmarks, what it's known for**
+- The northern approach to the Hell Gate Bridge, and Silvercup Studios' 2015 studio. — https://kids.kiddle.co/Port_Morris,_Bronx
+- Bankside's waterfront park is open as late as 1 AM. — https://www.welcome2thebronx.com/2023/08/south-bronx-residents-have-new-waterfront-park-to-enjoy/
+- Harlem River Yards is a waterfront industrial site in Port Morris. — https://en.wikipedia.org/wiki/Harlem_River_Yards
+- The neighborhood is covered by the NYPD's 40th Precinct. — https://en.wikipedia.org/wiki/Port_Morris,_Bronx
+
+**Cost benchmarks**
+- Installs in New York average $1,509, with a range of $797 to $2,222. — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- A professionally installed 4-camera system usually costs $800 to $1,000. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+
+**Gaps**
+- Reddit (r/PortMorris, r/Bronx, r/AskNYC, r/homesecurity) — EMPTY
+- Yelp complaints or praise — EMPTY
+- Patch and BKReader — EMPTY
+
+### Questions people ask — Security Camera Installation in Port Morris
+- Can security cameras help with liability protection for Port Morris businesses? — FAQ heading on an installer page (not PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-port-morris-bronx-ny
+- How many cameras does a typical Bronx property need? — FAQ heading on an installer page — same URL
+- Are security cameras worth it for Bronx property owners? — FAQ heading on an installer page — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Do I need LPC approval to install cameras on my brownstone? — FAQ heading on an installer page — https://senecasecurity.com/services/security-cameras/brownstones/
+- Do I need a permit to install security cameras in my NYC building? / Can I install hidden cameras in my rental property? — FAQ headings on an installer page — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Can my landlord install security cameras in my apartment building in New York? — FAQ heading on a legal info site — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — question on Justia Ask a Lawyer — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Can my landlord put cameras in the hallways or laundry rooms? / Do landlords have to tell tenants before installing cameras? — FAQ headings on a legal info site — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Can I put a camera in my apartment hallway in NYC? — FAQ heading on a legal info site — https://crimtechhub.com/apartment-security-camera-laws-in-new-york-state/
+- What is the average labor cost to install security cameras? — FAQ heading on a vendor blog — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does it cost to install a 4-camera security system in NYC? / What is the labor cost for CCTV installation in NYC? — FAQ headings on an installer blog — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How long does a security camera installation usually take in NYC? — FAQ heading on an installer blog — https://nyhls.com/blog/security-camera-installation-cost
+- Do security cameras need a monthly subscription? — FAQ heading on an installer blog — https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+- Can I install a security system by myself? / What is the best home security system in Bronx? — FAQ headings on a review site — https://hometechnologyreview.com/home-security-systems/home-security-system-bronx-ny/
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo — EMPTY
+- Reddit — EMPTY
+- Yelp — EMPTY
