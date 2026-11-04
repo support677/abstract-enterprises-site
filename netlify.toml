@@ -25,3 +25,15 @@
     "https://(www\\.)?dwg\\.us/.*",
     "https://res\\.cloudinary\\.com/.*",
   ]
+
+# Security headers (Nov 4 2026). Payments go to Stripe-hosted pages (buy.stripe.com), so no card data
+# ever touches this site; these headers block clickjacking, MIME sniffing and downgrade attacks.
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+    X-Frame-Options = "SAMEORIGIN"
+    Content-Security-Policy = "frame-ancestors 'self'; base-uri 'self'; object-src 'none'; form-action 'self' https://api.web3forms.com https://buy.stripe.com https://checkout.stripe.com"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(self \"https://checkout.stripe.com\")"
