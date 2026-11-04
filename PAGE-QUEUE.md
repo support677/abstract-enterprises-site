@@ -654,12 +654,12 @@ BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-bath-beach-
 BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-bathgate-bronx-ny | Structured Cabling Installation | Bathgate, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-bay-ridge-brooklyn-ny | Structured Cabling Installation | Bay Ridge, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-baychester-bronx-ny | Structured Cabling Installation | Baychester, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Installation | Belmont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-claremont-bronx-ny | Structured Cabling Installation | Claremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Installation | Belmont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | structured-cabling-installation-claremont-bronx-ny | Structured Cabling Installation | Claremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-concourse-bronx-ny | Structured Cabling Installation | Concourse, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-crotona-park-east-bronx-ny | Structured Cabling Installation | Crotona Park East, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-crown-heights-brooklyn-ny | Structured Cabling Installation | Crown Heights, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -1081,12 +1081,12 @@ BUILDING 2026-11-04T18:09Z factory | hanwha-camera-installation-hudson-valley | 
 BUILDING 2026-11-04T18:09Z factory | axis-camera-installation-nyc | Axis Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | axis-camera-installation-long-island | Axis Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | axis-camera-installation-hudson-valley | Axis Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | swann-camera-installation-nyc | Swann Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | swann-camera-installation-long-island | Swann Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | swann-camera-installation-hudson-valley | Swann Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | wyze-camera-installation-nyc | Wyze Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | wyze-camera-installation-long-island | Wyze Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | wyze-camera-installation-hudson-valley | Wyze Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | swann-camera-installation-nyc | Swann Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-04T21:09Z factory | swann-camera-installation-long-island | Swann Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-04T21:09Z factory | swann-camera-installation-hudson-valley | Swann Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-nyc | Wyze Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-long-island | Wyze Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-hudson-valley | Wyze Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | blink-camera-installation-nyc | Blink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | blink-camera-installation-long-island | Blink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | blink-camera-installation-hudson-valley | Blink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
