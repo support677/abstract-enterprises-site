@@ -1068,7 +1068,7 @@ BUILDING 2026-11-04T09:04Z factory | ring-camera-installation-long-island | Ring
 LIVE | ring-camera-installation-hudson-valley | Ring Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-04T09:04Z factory | google-nest-camera-installation-nyc | Google Nest Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | google-nest-camera-installation-long-island | Google Nest Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-04T09:04Z factory | google-nest-camera-installation-hudson-valley | Google Nest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | google-nest-camera-installation-hudson-valley | Google Nest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | arlo-camera-installation-nyc | Arlo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | arlo-camera-installation-long-island | Arlo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
