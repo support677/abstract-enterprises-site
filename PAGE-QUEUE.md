@@ -640,7 +640,7 @@ LIVE | security-camera-installation-silver-beach-bronx-ny | Security Camera Inst
 BUILDING 2026-11-04T09:04Z factory | security-camera-installation-soundview-bronx-ny | Security Camera Installation | Soundview, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-04T09:04Z factory | security-camera-installation-throggs-neck-bronx-ny | Security Camera Installation | Throggs Neck, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-tremont-bronx-ny | Security Camera Installation | Tremont, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T09:04Z factory | security-camera-installation-unionport-bronx-ny | Security Camera Installation | Unionport, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-unionport-bronx-ny | Security Camera Installation | Unionport, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-university-heights-bronx-ny | Security Camera Installation | University Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-cortlandt-village-bronx-ny | Security Camera Installation | Van Cortlandt Village, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-nest-bronx-ny | Security Camera Installation | Van Nest, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
