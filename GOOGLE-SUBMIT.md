@@ -124,18 +124,18 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-brooklyn | REQUESTED 2026-11-03
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-long-island | REQUESTED 2026-11-03
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-nyc | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-hudson-valley | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-prices-putnam-county | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-brooklyn | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-hudson-valley | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-rockland-county | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-prices-orange-county | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-nyc | REQUESTED 2026-11-04
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-staten-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-queens | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-bronx | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-manhattan | REQUESTED 2026-11-04
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-staten-island | REQUESTED 2026-11-04
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-long-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-nassau-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/zosi-camera-installation-prices-suffolk-county | QUEUED
