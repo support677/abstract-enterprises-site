@@ -2929,3 +2929,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-throggs-neck-bronx-ny | QUEUED
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-sheepshead-bay-brooklyn-ny | QUEUED
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-long-island | QUEUED
+2026-11-04 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-hudson-valley | QUEUED
