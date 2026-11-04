@@ -2935,3 +2935,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-tremont-bronx-ny | QUEUED
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-hudson-valley | QUEUED
 2026-11-04 | https://www.abstractenterprisessecuritysystems.com/google-nest-camera-installation-nyc | QUEUED
+2026-11-04 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-unionport-bronx-ny | QUEUED
