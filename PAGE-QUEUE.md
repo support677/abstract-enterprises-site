@@ -1060,7 +1060,7 @@ LIVE | tv-installation-woodlawn-heights-bronx-ny | TV Installation | Woodlawn He
 LIVE | luminys-camera-installation-nyc | Luminys Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T06:12Z factory | luminys-camera-installation-long-island | Luminys Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T06:12Z factory | luminys-camera-installation-hudson-valley | Luminys Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-04T06:12Z factory | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | reolink-camera-installation-nyc | Reolink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T06:12Z factory | reolink-camera-installation-long-island | Reolink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T06:12Z factory | reolink-camera-installation-hudson-valley | Reolink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | ring-camera-installation-nyc | Ring Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
