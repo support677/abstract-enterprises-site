@@ -2964,3 +2964,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-long-island | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-concourse-bronx-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-east-williamsburg-brooklyn-ny | QUEUED
+2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-dumbo-brooklyn-ny | QUEUED
