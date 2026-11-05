@@ -970,3 +970,551 @@ These are labeled "web result FAQ" because they appeared as FAQ headings on sear
 - How much does Cat6 cost per drop? — web result FAQ — https://thenetworkinstallers.com/blog/structured-cabling-pricing/
 - How much does it cost to cable an office? — web result FAQ — same URL
 - How much does it cost to install one Eth
+
+## Indian Village, Bronx — /structured-cabling-installation-indian-village-bronx-ny (factory research, 2026-11-05)
+
+**Method note:** I could only use a general web search tool. I could not see Google's live People Also Ask or People Also Search For boxes, Bing results, DuckDuckGo results, or AnswerThePublic. I also couldn't query the city's HPD, 311 or DOB datasets directly. Those fields say EMPTY below. I haven't made anything up to fill them.
+
+### 1. Facts specific to structured cabling in Indian Village
+
+- **Building type (what the cabler will face):** Homes are mostly single-family Tudor and Colonial-style homes with large lots and classic architecture. — https://www.gamilohomes.com/blog/278103/Living+in+Indian+Village:+A+Complete+Neighborhood+Guide
+- **A typical listing:** 1201 Neill Ave: "Spacious, brick, detached two-family home on a 50X100 corner lot in the desirable Indian Village area of Morris Park." It has a fully finished, above-grade, walk-in level with a summer kitchen, full bath, bedroom, and family room. This suggests multi-unit runs in two-family homes and finished basements that block access to the joists. — https://www.homes.com/bronx-ny/10461/
+- **Another listing:** 1843 Yates Ave is a legal two family comprised with five bedroom duplex over a large one bedroom over a finished basement. — https://www.homes.com/bronx-ny/10461/
+- **Another listing:** 1264 Rhinelander Ave is a rare custom-built side hall Colonial set on a large corner property in the highly desirable Indian Village section, with a large enclosed front porch. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- **Example lot data:** 1953 Tenbroeck Ave has Property Type: Single Family, Zoning Districts: R3-1 and Police Precinct: 49. It was built in 1940 and has 1 unit. — https://www.compass.com/building/indian-village-bronx-ny/293532576310663813/
+- **Internet service coming into the house:** Optimum offers Fiber service to 92.3% of Morris Park homes. Verizon offers Fiber service to 84.7% of Morris Park homes. — https://ispreports.org/internet-service-providers-morris-park-bronx-ny/
+- **Licensing and permits (NYC):** Under AC §28-105.4.7, wiring below 50 volts for data, communication, signaling and alarm circuits may be done without an electrical permit by a licensed master electrician, a special electrician or a qualified person as the electrical code defines it. The rule is listed as effective December 21, 2025. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Alarm and camera cabling needs a state license:** Pure structured cabling under 50 V is generally exempt from state licensing (subject to local permits). Burglar/fire alarm/CCTV/access control require an Article 6-D license. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf
+- **Penalties for unpermitted electrical work:** If electrical work is performed without a permit, the owner of the building, as well as the individual who performed the illegal work, may be subject to violations, summonses, court appearances and fines. — https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- **Door cameras being defeated (nearby Morris Park, not Indian Village itself):** In a home burglary, the owner says they pushed up his camera to block it from capturing the rest. NYPD figures cited there show 13 reported burglaries in the 49th Precinct this year, down from 17 at the same time last year. This is a possible angle for hardwired cameras with protected mounting. — https://bronx.news12.com/nypd-offers-3500-reward-to-find-women-who-burglarized-morris-park-home
+- **Robbery trend:** For robberies, the 49th Precinct led the way in this category as well, with reported cases there having gone up from 16 last year to 35 this year. (September 2025 period) — https://www.bxtimes.com/rapes-rise-bronx-murder-burglary-plummet-sept-2025/
+- **Commercial-side camera footage:** A Morris Park Avenue deli robbery was caught on surveillance video. — https://abc7ny.com/post/nyc-bodega-burglary-spree-2-suspects-wanted-brutal/15070086/
+- **Next-door institutional site (Just Home):** The project would be housed in a currently unused Jacobi Hospital building at 1900 Seminole Ave., in a northern section of Morris Park known as Indian Village. Mayor Zohran Mamdani announced on Jan. 19 that the Just Home supportive housing project is proceeding at Jacobi Medical Center. Over years, it was forcefully opposed by residents of the Indian Village section of Morris Park, who argued that just Home would bring crime to the neighborhood. — https://www.bxtimes.com/mamdani-just-home-supportive-housing-jacobi/ ; https://www.bxtimes.com/jacobi-hospitals-just-home-formerly-jailed/
+- **Size of that project:** It offers 83 entirely affordable housing units including 58 studios. — https://amsterdamnews.com/news/2025/10/02/nyc-council-oks-just-home-housing-at-jacobi-medical-center/
+- **Physical edge of the neighborhood:** Reporting mentions the wall that separates the Jacobi campus and the vacant building from Indian Village. — https://citylimits.org/nyc-needs-thousands-of-apartments-for-the-formerly-incarcerated-50-face-furious-opposition/
+- **Parking pressure from the medical campus:** Indian Village... has become a parking lot primarily for many employees who work at Jacobi Medical Center and students attending Albert Einstein College of Medicine. This matters for scheduling installer vans. — https://www.bxtimes.com/influx-of-parking-continues-to-grow-in-indian-village/
+- **Small-business funding on the commercial corridor:** The DRI funds will Establish a Small Business Improvement Fund ($1,000,000), Upgrade and Modernize the Pelham Parkway-Van Nest Library ($2,260,000) and Renovate R.A.I.N Work Space ($740,000). These are likely commercial and institutional cabling jobs. — https://dos.ny.gov/system/files/documents/2026/05/nyc-dri-8-renderings.pdf
+- **Rezoning near the new stations:** In August 2024, the New York City Council voted to rezone the areas around the Parkchester/Van Nest and Morris Park stations to encourage development around these stations. — https://en.wikipedia.org/wiki/Morris_Park_station_(Metro-North)
+- **HPD violations:** EMPTY (not queried)
+- **311 complaints:** EMPTY (not queried)
+- **DOB permits:** EMPTY (not queried)
+- **LPC (landmarks) rules:** EMPTY. No landmark district for Indian Village turned up in my searches. That isn't proof there is none, so check the LPC map.
+- **Reddit threads on cabling or internet in Indian Village:** EMPTY
+
+### 2. History, streets, buildings and landmarks
+
+- **History:** Morris Park is named after John Albert Morris, who built the Morris Park Racecourse, which existed from 1889 until 1910. After a 1910 fire, the property was divided into lots for the current neighborhood. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **When it was built:** Indian Village was developed in the 1920s on land that once housed the Morris Park Racecourse. Who the developers were: EMPTY. — https://www.gamilohomes.com/blog/278103/Living+in+Indian+Village:+A+Complete+Neighborhood+Guide
+- **Street names:** The names come from local streets its 1920s developers named to evoke native exoticism: Choctaw Place, Narragansett Avenue and Pawnee Place. — https://gothamquest.substack.com/p/morris-park-and-little-yemen
+- **Streets in the neighborhood:** Seminole, Tenbroeck, Hering, Narragansett, Chocktaw, Pelham Parkway South, Pawnee, Yates, and Van Housen; Rhinelander and Neill near Seminole are also considered part of "Indian Village." — https://en.wikipedia.org/wiki/List_of_Bronx_neighborhoods
+- **Location:** The northern section of Morris Park nearest Jacobi Medical Center is also referred to as Indian Village. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **Size:** four blocks of streets named after American Indian tribes near the boundary. It has some of the larger houses, properties, and prices in the community. — https://www.brickunderground.com/buy/buy-curious-morris-park-bronx-housing-pricing-inventory
+- **Building stock:** The north part, called Indian Village, has classic Tudors, and properties there have more land. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- **Building stock (Morris Park overall):** Housing in Morris Park is mostly one and two family homes of various styles. The neighborhood also has several apartment buildings. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **Building stock (Pelham Parkway, next door):** Pelham Parkway is dominated by 6 and 7-story elevator apartment and coop buildings. — https://en.wikipedia.org/wiki/Pelham_Parkway_(neighborhood),_Bronx
+- **Main streets:** Williamsbridge Road and Morris Park Avenue are the primary thoroughfares. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- **Business district:** The BID runs along Morris Park Avenue, between Unionport Road and Amethyst Street to the west, and Williamsbridge Road to the east. — https://www.riverdalepress.com/stories/how-camelia-tepelus-helped-bring-investment-and-recognition-to-morris-park,238779
+- **Civic details:** Indian Village is part of Bronx Community District 11 and is patrolled by the 49th Precinct of the NYPD. — https://www.gamilohomes.com/blog/278097/Do+You+Know+Where+is+Indian+Village+Neighborhood+in+the+Bronx
+- **ZIP code:** 10461 appears on every Indian Village listing found. — https://www.homes.com/bronx-ny/10461/
+- **What it's known for:** Morris Park has gained a rival reputation with Arthur Avenue for the prototypical Italian-American neighborhood in the Bronx. — https://www.morrisparkbid.org/history
+- **What residents call it:** most people in Indian Village believe they live in Morris Park or Pelham Parkway. Use both names in page copy. — https://gothamquest.substack.com/p/morris-park-and-little-yemen
+- **Parks and greenway:** the Bronx Greenway Mosholu/Pelham System runs along Pelham Parkway to City Island. — https://www.brickunderground.com/buy/buy-curious-morris-park-bronx-housing-pricing-inventory
+- **State funding:** Governor Kathy Hochul announced on Wednesday, May 13, that she has awarded $19.4 million to ten transformational projects in Greater Morris Park. — https://www.bxtimes.com/ten-projects-greater-morris-park-dri/
+- **Metro-North station timing:** at its October 27, 2025 committee meeting the MTA put substantial completion at Q2 2030, against the 2027 target. — https://pennstations.com/nyc/updates
+- **Old forum discussion:** One commenter wrote "I'd say Indian village is probably one of the best places to live in the Bronx if you can afford it." (2013 thread) — https://www.city-data.com/forum/new-york-city/1809909-indian-village-bronx.html
+- **Local Reddit discussion of the neighborhood:** EMPTY
+
+### 3. Competitors and Yelp
+
+- **Competitor pages:** A competitor publishes neighborhood-specific Bronx cabling pages with prices, such as Demarc Extension $350+ per run. — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-eastchester-bronx-ny
+- **Local cabler:** APB Telecom is a local company at 2686 Briggs Ave Suite 1 Bronx, NY 10458. — https://www.apbtelecom.com/near-me/bronx.shtml
+- **Yelp category page:** Yelp has a "Network Cabling in Morris Park, Bronx, NY." page. Listed businesses include Fast Tech Pros 4.9 (138 reviews). — https://www.yelp.com/search?find_desc=Network+Cabling&find_loc=Bronx,+NY
+- **Yelp praise:** "Dave was able to expertly run network cable from my basement to camera locations outside the house. All the internal and external cabling was clean and hidden from view." — https://www.yelp.com/search?find_desc=Cable+Repair&find_loc=Bronx%2C+NY
+- **Yelp complaints:** None were found about cabling contractors themselves. The low ratings were for internet providers, for example Cablevision 1.8 (37 reviews). — https://www.yelp.com/search?find_desc=Cable+Providers&find_loc=Bronx,+NY
+- **Patch / BKReader coverage:** EMPTY
+
+### Questions people ask — Structured Cabling Installation in Indian Village
+
+These questions come from FAQ sections on web pages, not from verified Google PAA boxes, so each one is tagged "web FAQ".
+
+- How much does structured cabling installation cost in NYC? — web FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What are the 6 subsystems of structured cabling? — web FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-westchester-square-bronx-ny
+- Can structured cabling be installed in residential buildings? — web FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What is the lifespan of structured cabling? — web FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What is the maximum cable run length for Cat6A? — web FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-westchester-square-bronx-ny
+- Do I need a licensed electrician for data cabling in the Bronx? — web FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Does low-voltage cabling in NYC require a permit? — web FAQ — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- How much does structured cabling cost per drop in NYC? — web FAQ — https://pointertechit.com/blog/structured-cabling-nyc-costs-contractor-guide/
+- How much does it cost to run Ethernet in an existing house? — web FAQ — https://mastersguild.io/guides/home-network-setup-cost/
+- How much does it cost to install one Ethernet drop? — web FAQ — https://dcmetro-ithelp.com/how-much-does-ethernet-installation-cost-in-2025/
+- What is the average cost to install Cat6 cable per drop? — web FAQ — https://www.monoprice.com/p/resources/cat6-cable-installation-costs-what-you-really-pay-for
+- How hard is running ethernet cable through your house? — forum (Slickdeals, not Reddit) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+- What are people saying about home network installation services in Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Ethernet+Wiring&find_loc=Bronx%2C+NY
+- Is Indian Village in the Bronx safe? / What kind of homes are in Indian Village? / Is Indian Village part of Morris Park? / When was Indian Village built? — web FAQ (neighborhood questions) — https://www.gamilohomes.com/blog/278097/Do+You+Know+Where+is+Indian+Village+Neighborhood+in+the+Bronx
+- Is Verizon 5G Home Internet available in the Bronx? — web FAQ — https://broadbandnow.com/New-York/Bronx
+- Google PAA: EMPTY
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic-style question fan-out: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+
+## Kingsbridge, Bronx — /structured-cabling-installation-kingsbridge-bronx-ny (factory research, 2026-11-05)
+
+**Caveats first.** My only tool was a single web-search engine. I could not see Google's People Also Ask boxes, its related searches, Bing, DuckDuckGo or AnswerThePublic, so those fields are EMPTY. I found no HPD violation data, 311 data or Reddit threads specific to Kingsbridge either. Several facts below come from contractor marketing pages, and some of those belong to a competitor (Abstract Enterprises). Check them before using them.
+
+### Facts specific to structured cabling in Kingsbridge
+
+**New buildings and DOB permits (likely cabling jobs)**
+- Westorchard Management filed permits for an 11-story mixed-use building at 5517 Broadway and a 12-story building at 205 West 230th Street. The lot is between Kimberly Place, West 230th Street, Godwin Terrace and Broadway, near the 231st Street station on the 1 train. — https://newyorkyimby.com/2025/04/permits-filed-for-5517-broadway-in-kingsbridge-the-bronx.html
+- The 112-foot 5517 Broadway building will have 65 apartments and the 124-foot 205 West 230th Street building will have 99, probably rentals given the average unit size of 570 sq ft. — same URL
+- The permit was filed on March 31, 2025 through Kao Hwa Lee Architects PC. The building there now is a one-story low-rise built in 1951. — https://blog.marketproof.com/new-building-permit-filed-for-205-w-230th-st-in-kingsbridge-bronx/
+- In March 2026, permits were filed for a 12-story mixed-use building at 3008 Godwin Terrace. A commenter thinks it may be the same project previously listed under "5517 Broadway" and "205 West 230th Street." Not confirmed. — https://newyorkyimby.com/2026/03/permits-filed-for-3008-godwin-terrace-in-kingsbridge-the-bronx.html
+- 2838-2840 Webb Avenue (an affordable-housing lottery, July 2026): amenities include gated access, a virtual doorman and doorstep recycling collection. Apartments have intercoms and smart heating and cooling controls. — https://newyorkyimby.com/2026/07/housing-lottery-launches-for-2838-2840-webb-avenue-in-kingsbridge-the-bronx.html
+- Other projects: 160 Van Cortlandt Park South, an eight-story all-affordable building, is past the halfway mark, and excavation is underway at 3850 Review Place for a six-story school. — https://newyorkyimby.com/neighborhoods/kingsbridge
+
+**Retrofits in older buildings**
+- 290 West 232nd Street (listed as Kingsbridge Heights): upgrades include key fob entry, a video intercom, and cameras in the hallways, lobby and parking lot. — https://www.cityrealty.com/nyc/kingsbridge-heights/290-west-232nd-street/110737
+
+**Kingsbridge Armory, a landmark with a cabling build-out ahead**
+- Phase 1 reuses the 180,000 sq ft Drill Hall as a venue, recreation, cultural and commercial space, plus 125,000 sq ft of manufacturing and community space. Construction is expected to start in 2026 and finish by 2030. — https://newyorkyimby.com/2025/10/city-council-approves-redevelopment-of-kingsbridge-armory-in-the-bronx.html
+- The Landmarks Preservation Commission approved the adaptive-reuse design, which includes an event venue, recreation center, sports fields, public plaza and 500 affordable apartments next door. — https://www.6sqft.com/kingsbridge-armory-redevelopment-approved-by-city-council
+- The armory is on the National Register and is a New York City Landmark. — https://en.wikipedia.org/wiki/Kingsbridge_Armory
+
+**West 231st Street fire (relevant to retail rebuilds and electrical safety)**
+- The December 2023 fire was blamed on an electrical problem that started in the kitchen of Cold Cut Bunny Deli. — https://www.riverdalepress.com/stories/fire-marshals-report-west-231st-street-blaze-due-to-electrical-issue,136530
+- Five businesses were destroyed: the deli, New Riverdale Nail & Hair Center, New Sea Win Seafood Market, El Novillo Meat Market and 231st Street Cleaners. — same URL
+- More than a year later the site was still an empty lot, and neighbors were frustrated. — https://bronx.news12.com/kingsbridge-neighbors-frustrated-by-lack-of-redevelopment-after-devastating-fire
+- A News 12 headline also reports a five-alarm fire in Kingsbridge Heights blamed on lithium-ion batteries. I did not open the article. — same URL
+
+**Internet providers and fiber in the building**
+- Optimum offers fiber to 92.0% of Kingsbridge homes. These are aggregator figures. — https://ispreports.org/internet-service-providers-kings-bridge-bronx-ny/
+- Verizon Fios has less coverage in the West and South Bronx. — https://broadbandnow.com/New-York/Bronx
+- Verizon's Fios settlement with the city covers Bronx 7 (Bedford Park, Fordham, Jerome Park, Kingsbridge Heights, Norwood, University Heights). Kingsbridge proper is in Community District 8. — https://www.nyc.gov/office-of-the-mayor/news/807-20/mayor-de-blasio-holds-verizon-accountable-connect-half-million-new-york-city-households-to
+- In apartment buildings where fiber can't reach each unit, Verizon has used VDSL from a central hub in the building that is fed by fiber. — https://en.wikipedia.org/wiki/Verizon_High_Speed_Internet
+- The city's Neighborhood Internet expansion funds microtrenching, rooftop network equipment, dedicated internet access systems and in-unit connectivity across about 50 buildings. The buildings named are in the South Bronx, not Kingsbridge. — https://www.bxtimes.com/mayor-mamdani-ritchie-torres-high-speed-internet/
+
+**Rules and licensing**
+- Under the 2025 Electrical Code, no electrical permit is needed for wiring under 50 volts for signaling, communication, alarm and data circuits, if the work is done by a licensed master electrician, a special electrician or a "qualified person." — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Local Law 128 of 2024 took effect on December 21, 2025 together with the 2025 NYC Electrical Code. This comes from a contractor page. — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+- Fire alarm wiring is not covered by that exemption and needs specialized licensing and extra permits under New York State rules. — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Co-ops: running Cat6 or Cat6A through a co-op or condo means board approval, riser access rules, and construction that may predate the internet by 80 years. — https://senecasecurity.com/services/structured-cabling/co-ops-condos/
+- HPD violations: EMPTY. 311 complaints: EMPTY.
+- LPC historic district in Kingsbridge proper: none found. Van Cortlandt Village is on the Historic Districts Council's "Six to Celebrate" list, which is advocacy, not a city designation. — https://6tocelebrate.org/neighborhood-items/van-cortlandt-village-the-bronx/
+
+### History
+
+- The neighborhood is named for the King's Bridge, probably built by enslaved Africans in 1693 and owned by Frederick Philipse, lord of Philipsburg Manor. — https://en.wikipedia.org/wiki/Kingsbridge,_Bronx
+- In the 1800s Kingsbridge was part of the town of Yonkers. In 1874 it was transferred to New York City. — https://www.riverdalepress.com/stories/whats-in-a-name-history-of-kingsbridge,170680
+- When the IRT Broadway line reached 231st Street in 1908, Italian and Jewish working-class families from Manhattan tenements joined the established Irish community. Gaelic Park was built in 1926. — https://theneighborhoods.substack.com/p/kingsbridge-the-bronx
+- The bridge itself disappeared in 1917, buried under 15 feet of landfill that joined Marble Hill to the Bronx. — same URL
+- Kingsbridge got through the 1970s disinvestment better than many South Bronx neighborhoods, thanks to strong housing stock and active civic groups. — https://cityneighborhoods.nyc/kingsbridge
+
+### Streets and commercial corridors
+
+- The Kingsbridge BID runs along Broadway from West 230th to West 236th Street, and along West 231st Street from the Major Deegan west to Corlear Avenue. — https://www.kingsbridgebidnyc.org/about
+- The BID was founded in October 2001, covers 26 blocks and lists 183 businesses. — https://databook.nyc/organization/170100055
+- Boundary conflict: a competitor page says the BID runs to West 238th and Bailey Avenue, which doesn't match the BID's own site. Use the BID's boundaries. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-kingsbridge-bronx-ny
+- Neighborhood boundaries: Manhattan College Parkway (north), the Major Deegan or Bailey Avenue (east), West 230th Street (south), Irwin Avenue (west). — https://en.wikipedia.org/wiki/Kingsbridge,_Bronx
+
+### Building stock
+
+- Six-story apartment buildings went up on Kingsbridge, Heath and Sedgwick Avenues, with prewar brick ornament and courtyard entrances. — https://cityneighborhoods.nyc/kingsbridge
+- The stock is mostly prewar walk-ups, six-story elevator buildings from the 1920s–30s, and rows of semi-attached brick two-family homes on streets like Terrace View Avenue and Kingsbridge Terrace. — https://reinventny.com/blog/kingsbridge
+- Two main types: small new-construction condos, and spacious prewar one- and two-family houses in Tudor, Georgian and Federal Revival styles. — https://www.homes.com/local-guide/bronx-ny/kingsbridge-neighborhood/
+- There are Mitchell-Lama developments such as the Amalgamated Housing Cooperative. — https://www.homes.com/bronx-ny/kingsbridge-neighborhood/homes-for-rent/
+- Van Cortlandt Village: even its apartment buildings are seldom taller than 70 feet. — https://en.wikipedia.org/wiki/Van_Cortlandt_Village
+- "Step streets" link Riverdale and Kingsbridge, with stairways of up to 160 steps. This matters for access and carrying equipment. — https://graphsearch.epfl.ch/concept/1191458
+
+### Parks, landmarks and what the area is known for
+
+- Liebman's Deli (since 1953), Gaelic Park and Ewen Park. — https://kingsbridgethebronxneighborhood.org/kingsbridge-where-history-heritage-and-heart-meet-in-the-bronx/
+- Van Cortlandt Park: 1,146 acres of trails, sports fields and green space. — https://colonialvanlines.com/blog/the-bronx-neighborhoods/
+- The "Castle of Kingsbridge" at 2744 Kingsbridge Terrace, built in 1914. — https://en.wikipedia.org/wiki/Kingsbridge_Heights,_Bronx
+
+### Local Reddit, Yelp and hyperlocal outlets
+
+- Reddit threads (r/Bronx, r/AskNYC, r/Kingsbridge) about cabling or wiring in Kingsbridge: EMPTY.
+- Yelp praise for Bronx home network installers: "Dave was able to expertly run network cable from my basement to camera locations outside the house. All the internal and external cabling was clean and hidden from view." — https://www.yelp.com/search?find_desc=Cable+Repair&find_loc=Bronx%2C+NY
+- Wireman Cableman, the company that review is about, is rated 3.4 (32 reviews). I couldn't see the text of the complaints, so Yelp complaints: EMPTY. — https://www.yelp.com/search?find_desc=Network+Cabling&find_loc=Co-op+City%2C+Bronx%2C+NY
+- Hyperlocal outlets that cover Kingsbridge: Riverdale Press, Norwood News, Bronx Times, News 12 Bronx (all linked above). Patch and BKReader: EMPTY.
+
+### Questions people ask — Structured Cabling Installation in Kingsbridge
+
+- PAA, PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: **EMPTY** (not accessible).
+- Reddit: **EMPTY**.
+- I added a label not on your list, "Competitor FAQ," for questions that appear as FAQ headings on contractor pages. They are real questions people search for, but they are not confirmed PAA results.
+  - How much does structured cabling installation cost in NYC? — Competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+  - What are the 6 subsystems of structured cabling? — Competitor FAQ — same URL
+  - How long does installation take? — Competitor FAQ — same URL
+  - What is the lifespan of structured cabling? — Competitor FAQ — same URL
+  - Cat6 vs Cat6A — which should I install? — Competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-crotona-park-east-bronx-ny
+  - What is an MDF and IDF in structured cabling? — Competitor FAQ — same URL
+  - Do you install fiber optic cabling? — Competitor FAQ — same URL
+  - Does low voltage work require a DOB permit in New York City? — Competitor FAQ — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+  - Do you need a license to install low voltage in New York State? — Competitor FAQ — same URL
+  - Does low voltage cable have to be in conduit in New York City? — Competitor FAQ — same URL
+  - Does low-voltage cabling in NYC require a permit? — Competitor FAQ — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+  - Do I need a licensed electrician for data cabling in the Bronx? — Competitor FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+  - What are people saying about home network installation services in Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Ethernet+Wiring&find_loc=Bronx%2C+NY
+  - Who would I hire to run ethernet if I didn't want to do it myself? — forum (Slickdeals, not Reddit) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+
+## Locust Point, Bronx — /structured-cabling-installation-locust-point-bronx-ny (factory research, 2026-11-05)
+
+**Before you use this:** My search tool returns ordinary web results only. It can't show Google's People Also Ask boxes, People Also Search For or related searches, Bing or DuckDuckGo results pages, AnswerThePublic, or Reddit/Yelp searches restricted to one site. Those sections are marked EMPTY, so treat the question list as a starting point rather than a full SERP record. I also found nothing on HPD violations, 311 complaints, DOB permits or LPC rules that applies to Locust Point.
+
+**Facts specific to structured cabling here (most important)**
+
+- **Building types:** Mostly detached single-family homes. One writer describes the housing as classic Cape Cods, modest colonials, and even a few newer constructions with panoramic views of Eastchester Bay, and adds that Locust Point is primarily an owner-occupied neighborhood. There are no high-rises, co-ops or walk-ups with shared riser closets. — https://locustpointthebronxneighborhood.org/living-in-locust-point-discovering-the-hidden-gem-of-the-bronx/
+- **Bungalow roots:** Many of its houses are still one- and two-story bungalows, though new construction and renovations have introduced more modern designs. — https://cityneighborhoods.nyc/locust-point
+- **Housing age (ACS counts of homes by year built):** 90 built 1939 or earlier, 41 in 1940–49, 100 in 1950–59, 21 in 1960–69, 24 in 1970–79, 25 in 2010–19. 90 1939 or earlier. — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html
+- **Flood risk changes where equipment goes:** In Sandy, Eastchester Bay came over the seawall behind houses on the south side of the block, flooding local streets, basements and ground floors of homes there. One Tierney Place tenant had three feet of water, and walls and floors had to be replaced. — https://bxtimes.com/stories/2012/49/49_storm_2012_12_06_bx.html
+- **Recurring tidal flooding:** NWS impact notes list Inundation of Tierney Place in Locust Point and entrance into SUNY Maritime and 1 ft of inundation on Chaffee Avenue along Hammond Creek (1/23/2016). — https://www.weather.gov/media/okx/coastalflood/Kings%20Point%20impacts.pdf
+- **Pennyfield Avenue flooded in Sandy:** Councilman Vacca was shocked to see the street underwater. — https://www.bxtimes.com/electeds-on-the-job-dealing-with-sandy/
+- **DOB flood construction rules:** These require certain buildings to elevate the lowest floor, as well as mechanical equipment, above the Design Flood Elevation (DFE). *My inference, not from the source:* put racks, the ONT/modem and PoE switches above the DFE, not in the basement. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/bronx-locust-point-civic-association-100317.pdf
+- **Raised homes:** After Sandy, 35,000 homeowners whose properties were left in ruins will now be forced to raise their homes by several feet or face large increases in their flood insurance premiums. The Civic Association president's mortgage company told her she had moved from Zone B to prime Zone A. — https://www.bxtimes.com/bronxites-brace-for-new-flood-zone-maps-to-be-released-by-fema/
+- **Zoning:** Locust Point is zoned R3-1. A 2014-era Longstreet Avenue variance fight noted that Requirements set forth by a 2013 New York City Zoning Code change require homes to be taller in areas prone to flooding. — https://www.bxtimes.com/locust-point-community-gears-up-to-fight-proposed-zoning-variance/
+- **Internet service (where the cabling starts):** Verizon offers Fiber service to 96.6% of Throgs Neck-Edgewater Park homes. Optimum offers Fiber service to 91.8% of Throgs Neck-Edgewater Park homes. — https://ispreports.org/internet-service-providers-throgs-neck-edgewater-park-bronx-ny/
+- **Permits and licensing (new NYC code):** an electrical permit is not required to install, alter, maintain or repair wiring designed to operate below 50 volts for signaling, communication, alarm and data transmission circuits, provided the work is performed by a licensed master electrician, a special electrician, or a qualified person. The rule is AC 28-105.4.7, effective December 21, 2025. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Cameras and access control need a state license:** fire alarm/CCTV/access control require an Article 6-D license. NYC work additionally requires a DOB Master or Special Electrician. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf
+- **Working without a permit:** On permitted electrical work, the owner of the building, as well as the individual who performed the illegal work, may be subject to violations, summonses, court appearances and fines. — https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- **NYC cost context:** First-time wiring for a whole home typically lands between $1,500 and $4,500, and plaster or drywall patching is often extra. New York City jobs tend toward the upper end, since plaster, brick, and building rules add labor. — https://lockandtech.com/articles/how-to-run-ethernet-cable-through-your-house/
+- **Places where cabling matters:** The Civic Association at 3300 Tierney Pl (Near the intersection of Tierney Pl and E 177th St). — https://local.yahoo.com/info-191920562-locust-point-civic-association-bronx/ The Locust Point Yacht Club at 21 Longstreet Ave, a 135-slip marina. — https://www.marinalife.com/marinas/locust-point-yacht-club
+- **The Civic Association house was rebuilt:** It was newly-built after getting pummeled by Sandy. — https://www.bxtimes.com/one-year-later-superstorm-sandys-impact-still-felt-in-the-bronx/
+- **HPD violations / 311 complaints / DOB permits for Locust Point:** EMPTY
+- **LPC landmark or historic district covering Locust Point:** EMPTY (none found)
+- **Reddit threads about cabling in Locust Point:** EMPTY
+
+**History and development**
+
+- **Name and landfill:** It was once an island. Locust Point, Bronx used to be an island called Locust Island, however, the waterway that separated it from mainland Bronx was filled in and built upon. Part of the landfill was for the bridge's northern ramp and toll plaza. Before it was Locust Island, it was called Wrights Island because it was owned by Captain J.T Wright. — http://wikimapia.org/3863200/Locust-Point
+- **19th century:** Shipbuilding, oystering, and ferry services flourished along the Bronx's southern waterfront, and Locust Point became known for its small boatyards and wharves. — https://cityneighborhoods.nyc/locust-point
+- **Bungalow era:** The neighborhood took shape during the 1920s and 1930s, when the land was subdivided for residential use and small bungalows began replacing the older farms. — https://cityneighborhoods.nyc/locust-point
+- **From summer place to year-round:** Locust Point's development began in the early 20th century, originally serving as a summer getaway for New York City residents. — https://bt-newyork.com/locust-point-a-quaint-peninsula-in-the-bronx/
+- **Throgs Neck Bridge, 1957–1961:** The bridge's northern approach sliced through the mainland just above Locust Point, altering the landscape and cutting the neighborhood off from some of its former connections to Throgs Neck and Ferry Point. — https://cityneighborhoods.nyc/locust-point
+- **Who built the bridge:** It opened in 1961 and was commissioned by Robert Moses. Othmar Ammann designed it. — https://study.com/academy/lesson/history-of-throgs-neck-bridge-in-ny.html
+- **Bridge neighbors:** The bridge's Bronx neighborhoods are the residential communities of Throgs Neck and Locust Point and the S.U.N.Y. Maritime College at Fort Schuyler. — https://www.mta.info/agency/bridges-and-tunnels/throgs-neck-bridge
+- **1960s–1990s:** The Civic Association became a powerful voice in defending the neighborhood from overdevelopment and industrial encroachment. — https://cityneighborhoods.nyc/locust-point
+
+**Streets, boundaries and businesses**
+
+- **Boundaries:** It is bounded by Harding Avenue on the north, the Throggs Neck Bridge to the east, and Eastchester Bay. — http://wikimapia.org/3863200/Locust-Point
+- **Boundaries, other version:** Another source names the East River to the south and east and Hammond Creek to the west. — https://cityneighborhoods.nyc/locust-point
+- **Named streets:** Notable streets like Tierney Place and Minneford Avenue curve gently toward the water. — https://locustpointthebronxneighborhood.org/
+- **More streets:** Longstreet Avenue between Glennon and Hatting places (the variance site). — https://www.bxtimes.com/locust-point-community-fights-proposed-zoning-variance-for-five-new-homes/ Locust Point Drive and Giegerich Pl bus stops. — https://vymaps.com/US/Locust-Point-Civic-Center-254333584598322/
+- **Nearest commercial corridor:** East Tremont Avenue (Throggs Neck BID), which is outside Locust Point. NYPD Argus cameras went up there, and Assemblyman Benedetto said his office allocated about $400,000 for the cameras. — https://www.bxtimes.com/throggs-neck-security-cameras/
+- **Commercial corridor inside Locust Point:** EMPTY (none found; it is residential)
+
+**Parks, landmarks and what it's known for**
+
+- **Yacht club:** The Locust Point Yacht club occupies the outermost block before the bay. Michael Kay is a famous former resident. — https://en.wikipedia.org/wiki/Locust_Point,_Bronx
+- **Civic Association park:** A waterfront park maintained by the Civic Association, with views of Long Island Sound. — https://locustpointthebronxneighborhood.org/
+- **Neighbors' interests on Nextdoor:** home improvement & diy, walking, gardening & landscape, dogs, bbq & grilling, cooking, emergency preparedness — https://nextdoor.com/neighborhood/silverbeachlocustpoint--bronx--ny/
+- **Bungalow-colony character:** Like neighboring Edgewater Park and Silver Beach, it developed as a bungalow colony and retains a close-knit, semi-private character — https://nycneighborhoods.app/map/neighborhoods/locust-point-bronx/
+
+**Demographics (sources conflict)**
+
+- city-data gives a population of 1,409 on 0.416 sq mi. — https://www.city-data.com/neighborhood/Locust-Point-Bronx-NY.html Weichert gives 2,536. — https://www.weichert.com/search/community/neighborhood.aspx?hood=5335
+- NeighborhoodScout says 24.7% of residents are enrolled in college. This probably reflects the census tract that includes SUNY Maritime, which is my inference. — https://www.neighborhoodscout.com/ny/bronx/locust-point
+- Note: Yelp lists the yacht club under ZIP 10451, which is wrong; it is 10465.
+
+**Recent security and entry-system news nearby (Throgs Neck, not Locust Point itself)**
+
+- A Ring doorbell camera caught the theft in action at a residential home near Clarence and Randall avenues. — https://bronx.news12.com/man-caught-on-camera-stealing-from-mailboxes-in-throgs-neck
+- Teens were caught on camera kicking in a door. The family shared the video on the Ring app, where neighbors said the same teens targeted other homes. — https://bronx.news12.com/caught-on-camera-teens-break-down-door-of-throgs-neck-home
+- Car break-ins near Swinton and Harding avenues were caught on Ring video. — https://bronx.news12.com/throgs-neck-residents-report-multiple-car-break-ins
+- About a dozen anti-crime cameras in the Throggs Neck BID are monitored by the 45th Precinct. — https://www.yahoo.com/news/anti-crime-cameras-installed-bronx-023515656.html
+
+**Competitors' Bronx cabling pages**
+
+- One competitor runs near-identical templated pages for many Bronx neighborhoods, and its Eastchester page lumps Pelham Bay, Throgs Neck & Country Club together. None of its pages mentions flooding or Locust Point. — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-eastchester-bronx-ny
+- APB Telecom is based at 2686 Briggs Ave. — https://www.apbtelecom.com/near-me/bronx.shtml
+
+### Questions people ask — Structured Cabling Installation in Locust Point
+
+- Google People Also Ask (8–12): EMPTY (tool can't see SERP features)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Questions on Bing or DuckDuckGo that Google doesn't show: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity, r/LocustPoint): EMPTY (no threads found; r/LocustPoint not found)
+- Yelp complaints or praise for cabling services nearby: EMPTY. As a substitute, NYC HomeAdvisor reviews praise work "done quickly and beautifully." — https://www.homeadvisor.com/tloc/New-York-NY/Computer-Network-or-Wiring-Install-or-Repair/
+- Patch, BKReader or neighborhood blogs on cabling: EMPTY. Bronx Times coverage is limited to Sandy, flooding and zoning (cited above).
+
+These questions came from FAQ sections and forums in ordinary web results. None was confirmed as a PAA question.
+
+- How much does structured cabling installation cost in NYC? — web result FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What are the 6 subsystems of structured cabling? — web result FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- How long does installation take? / What is the lifespan of structured cabling? — web result FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What is an MDF and IDF in structured cabling? — web result FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-westchester-heights-bronx-ny
+- Does low-voltage cabling in NYC require a permit? — web result FAQ — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Do I need a licensed electrician for data cabling in the Bronx? — web result FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Can one contractor handle cabling, cameras and access control together? — web result FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- How much does structured cabling cost per drop? / Is Cat6 or Cat6A more cost-effective for a new build? — web result FAQ — https://accesscabling.com/resources/how-much-does-structured-cabling-cost
+- Why do Cat6A quotes cost more than Cat6? / How do you estimate structured cabling costs? — web result FAQ — https://cables.nyc/structured-cabling-cost/
+- How long does a structured cabling installation last? — web result FAQ — https://unio.digital/blog/structured-cabling-installation
+- How much does it cost to run 50 cable drops? — web result FAQ — https://wcctechgroup.com/structured-cabling-cost-per-drop-southern-california/
+- Does Ethernet installation increase home value? — web result FAQ — https://www.homeadvisor.com/cost/home-offices/install-a-computer-network-or-wiring
+- Who would I hire to run Ethernet if I didn't want to do it myself? — forum (Slickdeals, not Reddit) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+- Roughly how much does it cost to hire a pro to wire a house? — forum (AnandTech) — https://forums.anandtech.com/threads/looking-to-hire-a-contractor-to-run-ethernet-wiring-throughout-my-house-questions.2262664/post-33801959
+- Do I have to call the cable company or hire an electrician to run a cable outlet? — forum (AnandTech) — https://forums.anandtech.com/threads/re-wire-cable.1958177
+- Which internet provider in the Bronx is the fastest? / Is Verizon 5G Home Internet available in the Bronx? — web result FAQ — https://broadbandnow.com/New-York/Bronx
+- Is the Bronx in a flood zone? — web result FAQ — https://floodform.nyc/homeowners/nyc-flood-exposure/bronx
+
+## Morris Park, Bronx — /structured-cabling-installation-morris-park-bronx-ny (factory research, 2026-11-05)
+
+**Scope note:** My search tool returns ordinary web results. It does not show Google People Also Ask boxes, People Also Search For, Bing or DuckDuckGo result pages, or AnswerThePublic data. Those sections are marked EMPTY below. I did not fill them in from memory.
+
+### 1. Facts specific to structured cabling in Morris Park
+
+**Building types and wiring conditions**
+- Most housing is low-rise: semi-detached brick two-families, freestanding single-family homes on modest lots, and pre-war multifamily buildings from the 1920s-1940s. For cabling, that means retrofits in older masonry and plaster rather than open-ceiling new construction. — https://reinventny.com/blog/morris-park
+- Rowhouse blocks around Haight Avenue and Colden Avenue show the classic Bronx brick-and-limestone facades typical of speculative builders. — https://reinventny.com/blog/morris-park
+- Larger multi-unit apartment buildings cluster near Williamsbridge Road and White Plains Road, mostly six-to-thirty-unit walk-ups from the 1930s with minimal doorman service. These are the buildings where intercom, entry and riser cabling would matter. — https://reinventny.com/blog/morris-park
+- A broker quoted by Homes.com says Morris Park is divided into two areas. The south side is more congested and has more two- and three-family homes. Colonial-inspired single-family homes start at $600,000, and semi-detached Tudors start at $650,000. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- One sample listing is a brick, semi-detached 2-family home with full basement and stand-up attic, zoned R4 with C1-2 Commercial Overlay. Basements and attics are the usual routes for vertical and horizontal runs in this housing type. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- In Morris Park 65.8% of non-vacant housing units are renter-occupied. Owner-occupied two-families with a rental unit are common, so jobs may need separate networks or demarcation points per unit. That last point is my inference. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+
+**Internet service at the building entry**
+- ISPReports says Optimum offers Fiber service to 92.3% of Morris Park homes. and Verizon offers Fiber service to 84.7% of Morris Park homes. Most homes can get fiber from two providers, which affects where the network panel and patch panel go. — https://ispreports.org/internet-service-providers-morris-park-bronx-ny/
+- Bronx-wide, Optimum: 8,000 Mbps and Verizon: 2,300 Mbps are the maximum advertised speeds. Multi-gig service supports specifying Cat6A rather than Cat5e. — https://ispreports.org/internet-service-providers-bronx-ny/
+
+**Medical and commercial buildings ("Hospital Row")**
+- Eastern Morris Park is the borough's Hospital Row, as Jacobi Medical Center, on a vast plant between Pelham Parkway, Eastchester Rd., Morris Park and Seminole Aves., is the Bronx' largest public hospital. — https://www.splicetoday.com/writing/a-short-trip-to-morris-park
+- A 2018 City Planning presentation notes that Morris Park has surpassed Bronx in healthcare jobs. It lists Jacobi, Bronx Psych, Weiler, Montefiore and Calvary hospitals, Einstein, and Hutch Metro Center medical offices. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bronx-metro-north/working-group-presentation-121318.pdf?r=1213
+- Albert Einstein College of Medicine is located at 1300 Morris Park Avenue. This comes from Grokipedia, which is lower reliability. — https://grokipedia.com/page/Morris_Park,_Bronx
+- Hutchinson Metro Center was a State-operated psychiatric treatment center before being auctioned off for private development in 2001. It now includes the recently completed 911 Public Safety Answering Center II (PSAC II). — https://www.nyc.gov/assets/planning/download/pdf/about/cpc/170445.pdf
+- Simone Development's 33-acre expansion to the existing 42-acre Hutchinson Metro Center campus will sit next to the future Metro-North train station, and may include life science labs, medical offices, and destination retail. — https://simonedevelopment.com/released/2023/page/6/
+- NYCCIP says Plans call for connecting the campus directly to the new Morris Park Metro-North station. — https://www.nyccip.com/projects/hutchinson-metro-center/
+- Older Bronx Times story: Montefiore signed a 16-year lease deal with Simone Development for an 11-story, 280,000 ambulatory facility with 12 operating rooms, four procedure rooms and an onsite lab service. — https://www.bxtimes.com/new-montefiore-outpatient-facility-at-hutch-metro-center/
+
+**Rezoning and new construction pipeline (future new-build cabling)**
+- The City Council's Bronx Metro-North rezoning, approved 44-0 in August 2024, legalized roughly 7,000 new apartments around four planned commuter-rail stations. — https://www.breakingnewyork.com/real-estate/bronx-metro-north-rezoning/
+- Council changes near the Morris Park station included a Reduction in density and height caps near Morris Park Metro North Station. They would still allow the expansion of the medical campuses around Morse Park (sic). — https://citymeetings.nyc/meetings/new-york-city-council/2024-08-06-1100-am-subcommittee-on-zoning-and-franchises/chapter/proposed-modifications-to-the-bronx-metro-north-station-area-rezoning-plan/
+- Two areas in eastern Morris Park that were set to be rezoned were removed from the project, aimed at maintaining the area's "suburban" character. — https://www.amny.com/nyc-transit/city-council-approve-bronx-metro-north-rezoning/
+- City Limits points to a 2005 downzoning under former Mayor Michael Bloomberg that limited development in a 24-block swath of Morris Park. — https://citylimits.org/2023/03/30/as-new-york-leaders-push-for-more-housing-near-transit-east-bronx-readies-for-a-rezoning
+- Station timeline: East Bronx residents may have to wait until 2030 for full train service to Penn Station. — https://ny1.com/nyc/all-boroughs/traffic_and_transit/2025/10/27/mta-blames-amtrak-for-three-year-delay-on-penn-station-access
+- At Community Board 11 (Jan. 5), the MTA said "We do believe we could deliver limited service by 2027," using temporary platforms at Parkchester-Van Nest, Morris Park and Co-op City. — https://citizenportal.ai/articles/7255615/New-York/Bronx-CountyCity/MTA-Penn-Station-Access-delayed-limited-Bronx-service-possible-in-2027-if-Amtrak-agrees
+
+**Security cameras and the business district**
+- Morris Park BID office: 966 Morris Park Avenue Bronx, NY 10462. — https://www.bronxchamber.org/business-improvement-districts
+- A local installer, Security iCam, is at 963 Morris Park Ave The Bronx, New York City 10462. — https://securityicam.com/locations/the-bronx-ny
+- The Bronx DA's camera-sharing program, run with the borough's BIDs: in 2019 the program has nearly 1,000 surveillance cameras enrolled. This is borough-wide, not specific to Morris Park, and the article is old. — https://bxtimes.com/stories/2019/3/03-daclark-2019-01-18-bx.html
+- Bronx Times on the BID: Morris Park's business community has remained "shockingly healthy" despite all adversity presented by COVID-19 (2021 article). — https://www.bxtimes.com/morris-park-businesses-shockingly-healthy-despite-challenges-of-covid-19/
+
+**Rules that affect the work (NYC low-voltage, DOB, licensing)**
+- One Bronx hiring guide says, citing the 2025 code, that an electrical permit is not required to install, alter, maintain or repair wiring designed to operate below 50 volts for signaling, communication, alarm and data transmission circuits, provided the work is performed by a licensed master electrician, a special electrician, or a qualified person. It cites AC 28-105.4.7 Low voltage electrical work (effective December 21, 2025). — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- The same guide says that For cameras, intrusion detection or multi-door access, confirm the Article 6-D license or the master electrician's waiver registration through the Department of State. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Conflicting source:** another site says Low voltage electrical work requires permits through DOB. Confirm with DOB before publishing a permit claim. — https://www.lowvoltagenation.com/posts/nec-2026-new-york-nyc-electrical-code
+- Fire alarm cabling is different: Fire alarm wiring falls outside that exemption and requires specialized licensing and additional permits under New York State rules. — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+
+**City data and local discussion**
+- HPD violations, 311 complaints or DOB permits tied to cabling, intercoms or entry systems in Morris Park: EMPTY (no data found)
+- LPC landmarks or historic districts in Morris Park: EMPTY. I found no designation, and the surviving old New Haven Railroad Morris Park station building is not shown as landmarked in any result.
+- Reddit threads about cabling, ethernet or entry systems in Morris Park: EMPTY
+- Local news about cabling or home technology specifically: EMPTY (only the camera and BID items above)
+
+**Cost references (NYC-wide, not Morris Park-specific)**
+- A modern space with open ceilings sits at the low end; a pre-war building with long, difficult runs and after-hours labor can exceed the top of that range. — https://pointertechit.com/blog/structured-cabling-nyc-costs-contractor-guide/
+- Another source gives roughly $150 to $250 per Cat6 drop and $200 to $350 or more per Cat6A drop. — https://cables.nyc/structured-cabling-cost/
+- One installer lists Cat6 $175/drop, Cat6A $250+/drop, fiber custom-quoted. The same company's Cat6 page says A standard Cat6 data drop is $272 for runs up to 100 feet. The two figures conflict, apparently on the same domain. — https://www.abstractenterprisessecuritysystems.com/structured-cabling-pricing ; https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc
+
+### 2. Neighborhood background
+
+- Name and origin: Morris Park is named for John Albert Morris, who built the Morris Park Racecourse in 1889. — https://historica.fandom.com/wiki/Morris_Park
+- After the track: After a 1910 fire, the property was divided into lots in order to become a new neighborhood, and the low-lying and flat area was filled with one- and two-family homes and apartment buildings. — https://historica.fandom.com/wiki/Morris_Park
+- **Date conflict:** Wikipedia's disambiguation page gives racing from 1889 until 1904 and the Morris Park Aerodrome, located from 1908 to 1909 at the site of the racecourse. — https://en.wikipedia.org/wiki/Morris_Park
+- Development: The city took over the area and encouraged residential development as the 20th century began, building streets and installing a streetcar route. This development boom continued into the 1940s and beyond, attracting large numbers of Italian immigrants. — https://www.apartments.com/local-guide/morris-park-bronx-ny/
+- Street names: Originally these streets were part of a real estate development called Westchester Heights in the 1860s, which explains Seminole, Pawnee and Narragansett. — https://forgotten-ny.com/2006/08/morris-park-bronx/
+- Boundaries: Neill Avenue and Pelham Parkway to the north, Eastchester Road to the east, the Amtrak Northeast Corridor tracks and Sackett Avenue to the east and south, and Bronxdale Avenue and White Plains Road to the west. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- Main streets: Williamsbridge Road and Morris Park Avenue are the primary thoroughfares. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- Commercial character: Morris Park Avenue is its commercial spine of bakeries, butchers, and social clubs. — https://reinventny.com/blog/morris-park
+- Population: 25,077 inhabitants based on data from the 2020 United States Census. Grokipedia (~45,000) and Redfin (16,411) give conflicting figures, and Redfin also wrongly places Morris Park in Queens County. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- Housing: Housing in Morris Park is mostly one and two family homes of various styles. The neighborhood also has several apartment buildings. — https://en.wikipedia.org/wiki/Morris_Park,_Bronx
+- Parks: the only green space of note is the Loreto Playground, an area that is free for recreational use honoring a slain New York City police officer. — https://www.apartments.com/local-guide/morris-park-bronx-ny/
+- Loreto Playground is located on Morris Park Ave. bet. Haight Ave. and Tomlinson Ave. — https://agreatbigcity.com/parks/loreto-playground
+- Known for: Since 1977, the Morris Park Community Association has organized an annual Columbus Day parade on Morris Park Avenue. — https://www.homes.com/local-guide/bronx-ny/morris-park-neighborhood/
+- Local museum: A local by the name of Joseph Garofalo persuaded John Dormi & Sons Funeral Home to display his collection of war memorabilia in what he christened the Bronx Military Museum. — https://www.apartments.com/local-guide/morris-park-bronx-ny/
+- Infrastructure: a bike lane implemented on Morris Park Avenue in fall 2019. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-morrispark-vannest.pdf
+- Existing competitor pages: many Bronx-neighborhood structured cabling pages share the same template, for example Structured cabling in Morris Heights, Bronx. Don't confuse Morris Heights with Morris Park. — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-morris-heights-bronx-ny
+
+### Questions people ask — Structured Cabling Installation in Morris Park
+
+- Google People Also Ask: EMPTY (couldn't capture)
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Bing-only or DuckDuckGo-only questions: EMPTY
+- Reddit (r/MorrisPark, r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Yelp complaints or praise about cabling near Morris Park: EMPTY. The only result was a security-camera installer listing, with no cabling review text.
+
+The questions below are real, but they come from competitor and guide FAQ sections found in ordinary web results, not from PAA, Bing or DuckDuckGo:
+- How much does structured cabling installation cost in NYC? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- What are the 6 subsystems of structured cabling? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- How long does installation take? / What is the lifespan of structured cabling? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- Cat6 vs Cat6A — which should I install? / What is an MDF and IDF? / Do you install fiber optic cabling? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-crotona-park-east-bronx-ny
+- How long does a structured cabling installation take in NYC? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-morris-heights-bronx-ny
+- How much does structured cabling cost per drop in NYC? — guide FAQ — https://pointertechit.com/blog/structured-cabling-nyc-costs-contractor-guide/
+- How much does a Cat6 drop cost in NYC? / How much does a Cat6A drop cost in NYC? / Do you give volume discounts on large cabling jobs? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/structured-cabling-pricing
+- Is Cat6A worth the extra cost per drop? / What's the difference in cost between Cat6 and Cat6A drops? — guide FAQ — https://dbsi.net/how-much-does-structured-cabling-installation-cost-per-drop/
+- How do you estimate structured cabling costs? — guide FAQ — https://cables.nyc/structured-cabling-cost/
+- Does low-voltage cabling in NYC require a permit? — guide FAQ — https://security-systems.nyc/blog/structured-data-cabling
+
+## Morrisania, Bronx — /structured-cabling-installation-morrisania-bronx-ny (factory research, 2026-11-05)
+
+**A. Facts about structured cabling in Morrisania (the angles only this page has)**
+
+- **Low-voltage permits in NYC changed recently.** Local Law 128 of 2024 says an electrical permit shall not be required for the installation, alteration, maintenance, or repair of electrical wiring that is designed to operate at less than 50 volts for signaling, communication, alarm, and data transmission circuits. A Bronx hiring guide lists that section as AC 28-105.4.7 Low voltage electrical work (effective December 21, 2025). — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf ; https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- **Licensing differs by system.** Pure structured cabling under 50 V is generally exempt from state licensing (subject to local permits). But burglar/fire alarm/CCTV/access control require an Article 6-D license. Fire alarm wiring falls outside that exemption and requires specialized licensing and additional permits under New York State rules. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf ; https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- **Plenum cable in commercial ceilings.** Plenum-rated cable is required in air-handling spaces under NYC fire code, and most commercial buildings have plenum ceilings. This matters for storefronts and offices on Third Ave and Boston Rd. — https://senecasecurity.com/learn/low-voltage-scope-of-work-nyc-commercial-security-installation/
+- **LPC rules in Morrisania's two historic districts.** For exterior alterations, an LPC permit is generally required for any restoration, replacement, reconstruction, demolition, or new equipment installation—even when the affected portion is not visible from the street. LPC defines mechanical equipment to include satellite dishes, but shall not include telecommunication equipment and conventional television antennas. Interior-only cable runs: no LPC rule specific to them was found. — https://nycenergycode.com/lpc-approval-energy-upgrades-nyc.html ; https://www.nyc.gov/html/gbee/downloads/pdf/lpc_rule_title63_ch.1.pdf
+- **Clay Avenue Historic District (rowhouse cabling).** The Clay Avenue Historic District, consisting of the two blockfronts of Clay Avenue between East 165th and East 166th Streets, comprises one of the most unified and harmonious streetscapes in the Bronx. Conflict: Wikipedia's LPC list puts this district in Fleetwood Concourse Village, not Morrisania. — https://forgotten-ny.com/2011/01/morrisania-bronx/ ; https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- **Morris High School Historic District.** It includes the Morris High School, two streets of brick rowhouses, and Trinity Episcopal Church of Morrisania. The high school and rowhouses were built between 1897 and 1904. It covers the attached homes on both sides of Jackson Avenue between East 166th and Home Streets, as well as homes on the west side of Forest Avenue. Designated December 21, 1982. — https://en.wikipedia.org/wiki/Morris_High_School_Historic_District ; https://forgotten-ny.com/2011/01/morrisania-bronx/
+- **NYCHA high-rises (riser/backbone work).** Twenty NYCHA developments are located in Morrisania, including Butler Houses; six 21-story buildings, Forest Houses; fifteen buildings, 9, 10, and 14 stories tall, and Webster Houses; five 21-story buildings. — https://en.wikipedia.org/wiki/Morrisania,_Bronx,_New_York
+- **Morrisania Air Rights is built over rail tracks.** It was created using the air rights above the tracks that Metro North sold to the city's developer. A resident account says the towers stand directly on top of the Metro-North—the constant rumbling from below takes a tole on the buildings' structure. Sources disagree on the towers: Wikipedia says "two 16-story buildings," while NYC Urbanism says three towers of 19, 23 and 29 stories. — https://www.nycurbanism.com/brutalnyc/morrisania-air-rights ; https://www.melrosestories.org/exhibits/show/displacedurbanhistories-com-ex/morrisania-air-rights-and-nych
+- **Free NYCHA broadband already in place.** Big Apple Connect gives a free bundle that consists of in-home, high-speed internet connection, including a modem and router; basic cable TV service, including a cable box and remote control; and common area Wi-Fi hotspots. Optimum lists participating Bronx properties including Morrisania, Forest · Morrisania Air Rights. — https://www.nyc.gov/office-of-the-mayor/news/557-23/mayor-adams-expands-big-apple-connect-17-new-sites-free-broadband-now-available-150-000 ; https://www.optimum.com/program/big-apple-connect
+- **Which internet providers serve the area.** BroadbandNow says Verizon Fios has less coverage in the West and South Bronx regions? Well, if you live in Morrisania, Highbridge, or any of the communities underneath I-95 in the Bronx, you probably have access to Optimum. — https://broadbandnow.com/New-York/Bronx
+- **Broadband gap.** A state comptroller report says the Bronx, where more than one in three households has no broadband access, has the highest share. — https://www.osc.ny.gov/files/reports/pdf/report-20-2025.pdf
+- **311 data and entry security (1208 Franklin Ave).** NYC 311 reports for "trespassing" at the building date back to June 2025, but neighbors said it has been going on for much longer. — https://bronx.news12.com/2026/05/13/exclusive-morrisania-building-taken-over-by-squatters/BIalfd1lu07R7y6LhLcBE
+- **HPD/DOB violations (530 E 169th St).** Tenants listed concerns including no hot water, no heat, broken elevators and the building's lack of security. The city's Department of Buildings and NYC Housing Preservation and Development confirmed that the property has multiple violations, including boiler and elevator maintenance. — https://bronx.news12.com/tenants-at-morrisania-building-say-management-ignores-requests-for-quality-of-life-fixes
+- **Franklin Ave buildings.** Tenants describe people smoking and using drugs in stairwells and common areas. — https://bronx.news12.com/morrisania-buildings-plagued-by-floods-rats-and-drug-activity
+- **870 Freeman St (six-story building).** Tenants at 870 Freeman St. told News 12 the elevator has been breaking down for years. — https://bronx.news12.com/2026/07/24/morrisania-tenants-say-broken-elevator-leaves-residents-trapped-in-their-homes/LkyrSVoferB6bNKqJb20d
+- **DOB permits for new construction (cabling designed in from the start).** 3565 3rd Ave: Permits have been filed for a nine-story mixed-use building at 3565 3rd Avenue in Morrisania, The Bronx. The building will have 286 residences. — https://newyorkyimby.com/2026/10/permits-filed-for-3565-3rd-avenue-in-morrisania-the-bronx.html
+- **McLean Place.** A 15-story residential building in Morrisania. Amenities include a community room, a common kitchen, a library lounge, an outdoor courtyard, a fitness room, and security. McLean Place's anticipated completion date is slated for early next year. — https://newyorkyimby.com/2026/04/mclean-place-tops-out-in-morrisania-the-bronx.html
+- **Other new buildings.** Affordable lotteries for 1113 Grant Avenue, 1211 Washington Avenue, and 1033 Cauldwell Avenue, and for 1119 Boston Road, a seven-story mixed-use building. — https://newyorkyimby.com/neighborhoods/morrisania
+- **3365 Third Ave.** It is also the first passive house to be completed in the Bronx. Passive House buildings have airtight envelopes, so every cable penetration needs planning. That is an inference, not something the source says. — https://streeteasy.com/building/3365-3-avenue-bronx
+- **Renaissance Youth Center on Third Ave.** As of Sept. 17, Renaissance Youth Center owns the building, making it a permanent home in Morrisania. Its third floor music rooms are full of drums, guitars, pianos. This is a possible AV and cabling angle. — https://columbianewsservice.com/2026/10/11/morrisania-gains-a-permanent-home-for-music/
+- **Competitor already covering this area.** abstractenterprisessecuritysystems.com has Bronx structured cabling pages and a Morrisania door-buzzer page. It mentions Kelly Street (where Colin Powell grew up), Lyman Place / Elmo Hope Way. — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-morrisania-bronx-ny
+- **HPD violation counts by building or area:** EMPTY. **311 low-voltage or cable complaint data:** EMPTY. **DOB low-voltage permit counts:** EMPTY. **Morrisania-specific Reddit threads on cabling:** EMPTY.
+
+**B. History**
+
+- The Village of Morrisania, founded in 1848, was the first area west of the Bronx River to be densely settled in what today is the Bronx. — https://www.gothamcenter.org/blog/earlybronxsettlement-zy4la-6h6h4-tlwga-allfs-5gpbn-p8hkk-gewm2-86weg-453lp-rtg9j-b4nt8-f2n45-2s22f-kmea4-5jtmm-a2l5n-ljflg-bbjh6-82t6p-w9slx-nhf8r-egskg-7mja9-rk27k
+- That year, Gouverneur Morris Jr. allowed a railroad to be built across the family's land. In 1848, he sold land near the railroad line. This land was used to build a new town called Morrisania Village. In 1874, Morrisania became part of New York City. The Third Avenue Elevated train line was extended here in 1887. — https://kids.kiddle.co/Morrisania,_Bronx
+- By the early 1900s, Morrisania was fully urbanized—a dense but vibrant working-class neighborhood characterized by brick tenements, schoolhouses, synagogues, and corner stores. — https://cityneighborhoods.nyc/morrisania
+- Disinvestment, arson, and abandonment reached their height in the 1970s, when Morrisania became one of the epicenters of the South Bronx's devastation. Groups such as Banana Kelly, Phipps Houses, and the Mid-Bronx Desperadoes led the charge in reclaiming abandoned properties and rebuilding affordable housing. — https://cityneighborhoods.nyc/morrisania
+- The Third Ave El station at 161st St was Closed: April 29, 1973. — https://en.wikipedia.org/wiki/161st_Street_station_(IRT_Third_Avenue_Line)
+
+**C. Main streets and commercial corridors**
+
+- Third Avenue is the primary thoroughfare through Morrisania. — https://en.wikipedia.org/wiki/Morrisania,_Bronx
+- Third Avenue, Boston Road, and Prospect Avenue serve as key commercial arteries, lined with small businesses that reflect the neighborhood's dynamic Latino, African-American, and West African populations. — https://cityneighborhoods.nyc/morrisania
+- Major commercial overlays are located on Third Avenue from East 169th Street to Claremont Parkway and along Boston Road on several blocks between East 163rd and Crotona Park East. — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- Industrial and commercial space: Modern one-story industrial buildings generating approximately 1,300 jobs have been developed on six of the eight blocks between Washington and Third avenues. — same URL
+- Third Avenue, Boston Road, and 169th Street form the neighborhood's commercial corridors. — https://www.invictusnyc.com/neighborhoods/morrisania
+
+**D. Building stock**
+
+- The housing is a variety of housing options from older row houses to modern apartment complexes. — https://studyguides.com/study-methods/study-guide/cmkyhud5ipoh101d58d5h2nqz
+- In the 1950s, new public housing was built. Forest Houses were completed on November 12, 1956. Butler Houses was completed in December 1964. It is part of four contiguous public housing projects—which also include the Morris, Morrisania and Webster houses—that are collectively named Claremont Village. — https://kids.kiddle.co/Morrisania,_Bronx ; https://en.wikipedia.org/wiki/Forest_Houses ; https://en.wikipedia.org/wiki/Butler_Houses
+- Morrisania Air Rights was completed in 1980. — https://www.melrosestories.org/exhibits/show/displacedurbanhistories-com-ex/morrisania-air-rights-and-nych
+- Example commercial building: 1262 Boston Road was built in 1925 and has 2 stories and 6 units. — https://streeteasy.com/building/1262-boston-road-bronx
+- Co-ops and detached houses: EMPTY (no specific data found).
+
+**E. Parks, landmarks, what the neighborhood is known for**
+
+- Crotona Park, one of the Bronx's great green spaces, anchors the north. — https://cityneighborhoods.nyc/morrisania
+- Morris High School: Built of buff colored brick with limestone and terra-cotta trim, the high school is an elaborate and lavishly decorated design. — https://forgotten-ny.com/2011/01/morrisania-bronx/
+- Individual landmark: Herman Ridder Junior High School (Public School 98), 1619 Boston Road. Also Bronx Carnegie Library: Morrisania Branch. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx ; https://hdc.org/borough/the-bronx/
+- Former New York mayor Ed Koch was raised in Morrisania, and Colon Powell attended Morris High School. — https://urbanareas.net/info/resources/neighborhoods-bronx/morrisania-bronx-history/
+- Morrisania is in Bronx Community Board 3. Its ZIP Codes are 10456 and 10459. — https://kids.kiddle.co/Morrisania,_Bronx
+
+**F. Things that change how cabling is done here** (summary of sources above; installer advice comes from forums, not Reddit)
+
+- Pre-war buildings cost more: A modern space with open ceilings sits at the low end; a pre-war building with long, difficult runs and after-hours labor can exceed the top of that range. — https://pointertechit.com/blog/structured-cabling-nyc-costs-contractor-guide/
+- Complex conditions like concrete walls, long runs, or occupied spaces can push costs to $400+ per drop. — https://lvforce.com/blog/structured-cabling-cost-breakdown-what-businesses-actually-pay
+- Forum installer on old houses: If the house is really old, I might consider hiring a GOOD professional. I saw one old house where the installer ran cable outside the house, down the exterior wall and back into the house! — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house?p=38485375
+
+**G. Yelp (Bronx; nothing specific to Morrisania)**
+
+- Praise: "Dave was able to expertly run network cable from my basement to camera locations outside the house. All the internal and external cabling was clean and hidden from view." — https://www.yelp.com/search?find_desc=Cable+Repair&find_loc=Bronx%2C+NY
+- Complaint about earlier work: My home network Ethernet wiring had been installed improperly by... — https://www.yelp.com/search?find_desc=Ethernet+Wiring&find_loc=Bronx%2C+NY
+- ISP complaints near Claremont Village: Cablevision Cablevision 1.8 (37 reviews) 961 E 174th St Claremont Village. — https://www.yelp.com/search?find_desc=cable+providers&find_loc=Bronx%2C+NY
+- Patch, BKReader, or Bronx Times coverage of cabling in Morrisania: EMPTY. Only the Bronx Times story on Big Apple Connect (https://www.bxtimes.com/mayor-broadband-nycha-bronx/) and the News 12 Bronx st
+
+## Mount Hope, Bronx — /structured-cabling-installation-mount-hope-bronx-ny (factory research, 2026-11-05)
+
+**Research limits (read first):** My search tool can't show live Google SERP features. That means I could not see Google People Also Ask or People Also Search For boxes, Bing or DuckDuckGo results pages, or AnswerThePublic. Those fields are marked EMPTY below. The questions listed are real questions from pages the tool returned, and each one is labeled with where it actually came from. I found no Reddit threads, Patch or BKReader stories, or 311/HPD/DOB records specific to Mount Hope and cabling.
+
+### Service-specific facts (cabling in Mount Hope)
+
+**Building stock and wiring situations**
+- 70.0% of the homes in Mount Hope were built in 1939 or earlier, a higher share of historic homes than 98.6% of US neighborhoods. — https://www.neighborhoodscout.com/ny/bronx/mount-hope
+- Mount Hope also has a higher share of large apartment buildings than 98.5% of US neighborhoods. — https://www.neighborhoodscout.com/ny/bronx/mount-hope
+- Construction years by unit count: 4,469 built 1939 or earlier, 3,895 built 2010 to 2019, and 187 built 2020 or later. That splits the market between prewar retrofits and newer buildings that may have been pre-wired. — https://www.city-data.com/neighborhood/Mount-Hope-Bronx-NY.html
+- Developers put up five- and six-story apartment houses along Tremont, Burnside and Mount Hope Place, in Art Deco, neo-Renaissance and Tudor Revival styles. — https://cityneighborhoods.nyc/mt-hope
+- Housing types: prewar apartment buildings, walk-ups and postwar housing developments, mixed with churches, schools and small shops. — https://cityneighborhoods.nyc/mt-hope
+- The neighborhood is also known for long-standing mid-rise apartment buildings and wood-frame houses, with some Queen Anne architecture. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- One contractor says older buildings cost more to wire: a pre-war building with long, difficult runs and after-hours labor can go past the top of the typical price range. — https://pointertechit.com/blog/structured-cabling-nyc-costs-contractor-guide/
+
+**Entry systems and new buildings that need low-voltage backbones**
+- A new building at 130 E. 177th St. has a virtual doorman, security cameras, an elevator and an accessible entrance. — https://www.bxtimes.com/housing-lottery-24-units-mount-hope-rent-2459/
+- The same building has 78 apartments, 54 of them market-rate. Its listed amenities include smart heating and cooling controls, high-speed internet, and cable or satellite TV. — https://www.bxtimes.com/housing-lottery-24-units-mount-hope-rent-2459/
+- Permits filed for a 13-story, 99-unit residential building at 22 Mount Hope Pl. Less than three months earlier, permits were filed for a 15-story, 99-unit building across the street at 23 Mount Hope Pl. — https://www.bxtimes.com/permits-13-story-residential-99-units-mount-hope/
+- Permits filed for a 6-story, 16-unit building at 1780 Topping Ave. — https://www.bxtimes.com/permits-6-story-residential-16-units-mount-hope/
+- Permits filed for a six-story residential building at 200 Mount Hope Place, which will have 12 apartments. — https://www.newyorkyimby.com/2025/05/permits-filed-for-200-mount-hope-place-in-tremont-the-bronx.html
+- Mount Hope Walton Apartments at 1761 Walton Ave will have 103 income-restricted apartments and a 9,500-square-foot community gym. — https://newyorkyimby.com/neighborhoods/mt-hope/page/2
+- Other YIMBY permit filings: a nine-story building at 21 Mount Hope Place and an eight-story mixed-use building at 53 East 177th Street. — https://newyorkyimby.com/neighborhoods/mt-hope/page/2
+
+**Largest local landlord (possible multi-building client)**
+- Mount Hope Housing Company manages 32 buildings and more than 1,200 affordable units. — https://www.lowincomehousing.us/det/ny_Mount_Hope_Housing_Co_Inc
+- In 2019 a $100 million deal was closed to preserve a 515-unit, 13-building portfolio (Mount Hope Renaissance). The rehab plan included rebuilding kitchens and bathrooms in place, plus energy-efficiency upgrades. — https://ncvcapital.com/bronx-nonprofit-mount-hope-housing-company-partners-with-affordable-housing-developers-ncv-capital-partners-and-lemor-development-group-to-preserve-515-units-of-housing/
+- Buildings in that portfolio include 200 Morris Avenue, 1975 Walton Avenue, 184 Walton Avenue and 61 East Tremont Avenue. — https://therealdeal.com/new-york/2019/01/14/bronx-portfolio-gets-100m-debt-injection-to-fund-rehab/
+- A competitor says that for buildings with HUD, Section 8 or public-housing funding, NDAA Section 889 can bar certain camera brands. This is the competitor's claim, not an official source. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+
+**Broadband and internet service**
+- A city document on de Blasio's Verizon settlement lists Bronx Community District 5 among the areas with the fewest affordable broadband options: Bronx 5 (Fordham/Morris Heights, Mount Hope, University Heights). — https://a860-gpp.nyc.gov/downloads/kd17cv89z?locale=en
+- Liberty Link, now called Neighborhood Internet: NYPL will bring fiber into buildings and install building-wide Wi-Fi. The pilot is meant to serve nearly 2,200 households in 35 affordable buildings in the Bronx and Upper Manhattan. — https://www.lightreading.com/broadband/new-liberty-link-fiber-network-to-connect-low-income-new-yorkers
+- In 2026 the city announced a $2 million expansion of Neighborhood Internet. HPD Commissioner Dina Levy said 40% of Bronx households lack home internet access. — https://nchstats.com/nyc-free-internet-access/
+- BroadbandNow lists Verizon Fios as the fiber provider with the widest Bronx coverage, at 75.3%. — https://broadbandnow.com/New-York/Bronx
+
+**Permits and code rules (NYC DOB, Local Law 128 of 2024)**
+- The code says no electrical permit is needed to install, alter, maintain or repair wiring that runs below 50 volts for signaling, communication, alarm and data circuits. — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Who can do that work: a licensed master electrician, a special electrician, or a "qualified person" as the electrical code defines it. The rule is listed as effective December 21, 2025. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- When a DOB filing is still needed: if the work alters fire-rated door assemblies, changes means of egress under Building Code Chapter 10, or ties into the building's main fire alarm. — https://vertexsecurity.com/our-blog/nyc-building-access-control-compliance/
+- Any holes through fire-rated walls have to be sealed with certified fire-stop materials. — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- **Sources disagree on licensing.** One says work under 50V needs an NY DOS Home Improvement license, not a Master Electrician. Another says low-voltage work needs DOB permits. The DOB law text above is the primary source. — https://eco-service.com/usa/new-york/electrician/low-voltage-contractors/ ; https://www.lowvoltagenation.com/posts/nec-2026-new-york-nyc-electrical-code
+
+**Landmarks (LPC)**
+- Wikipedia's list of Bronx landmarks shows the Morris Avenue Historic District, designated July 15, 1986, in Mount Hope, and an individual landmark at 1857 Anthony Avenue (Tremont). Exterior work in the district may need LPC review. EMPTY: I didn't find LPC rules specific to cabling. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+- The Grand Concourse LPC district does not reach Mount Hope. It stops at East 167th Street. 1800 Grand Concourse at East 175th has no protection at all. — https://www.digitalinkd.net/2026/01/pilgrim-united-church-of-christ.html
+- The National Register created a Grand Concourse Historic District in 1987. That listing includes 1855 Grand Concourse (also 122-126 Mount Hope Place), by Thomas Dunn, 1936. — https://www.lehman.edu/public-art-bronx/Grand-Concourse/
+
+**HPD, 311 and DOB data**
+- EMPTY for Mount Hope specifically. As an example of how HPD writes intercom violations, a building in a different part of the Bronx has a Class B violation under § 27-2005 HMC to repair or replace a broken or defective bell, buzzer and intercom system. — https://weverit.com/building/ny/new-york/2446-lyvere-street-bronx-10461
+- A 54-unit building from 1910 at 14 Mt Hope Place has 79 open violations and 22 litigations. I couldn't see what types of violations they are. — https://www.openigloo.com/contact/nyc/776c4d4e-581d-40d8-941e-9fbf3facd5f0/bronx-mount-hope-llc
+
+**Businesses and blocks where cabling matters**
+- Clinic sites near the Tremont and Burnside corridors include Institute for Family Health Mt. Hope at 130 West Tremont Avenue, MHHC at 85 West Burnside Avenue, MHHC Care Connection at 110 West Tremont Avenue, and MHHC Harrison Circle at 57 West Burnside Avenue. These addresses are west of Jerome Ave, so they sit near or just outside the strict boundary. — https://www.nyc.gov/assets/dhs/downloads/pdf/Primary-Care-Clinics-List.pdf
+- On Burnside Avenue, bodegas, Dominican bakeries and Caribbean restaurants sit next to salons and small groceries. — https://cityneighborhoods.nyc/mt-hope
+- Nextdoor says Mt Hope is home to Bronx-Lebanon Hospital Center. That hospital is now BronxCare, at 1650 Grand Concourse, Bronx, NY 10457, which may be south of the Cross Bronx boundary. — https://nextdoor.com/neighborhood/mthopebronx--bronx--ny/ ; https://www.bronxcare.org/about-us/directions
+
+**Competitors**
+- Abstract Enterprises runs near-identical structured cabling pages for many Bronx neighborhoods. It already names Tremont & Mount Hope on its camera pages. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-east-tremont-bronx-ny
+- APB Telecom is at 2686 Briggs Ave, Bronx, NY 10458. — https://www.apbtelecom.com/near-me/bronx.shtml
+
+### Neighborhood background
+
+**History**
+- The hill and land around it once belonged to the Morris family. The area was mostly farmland until 1841, when a Harlem Railroad station turned it into a village center. — https://www.nycgovparks.org/parks/mount-hope-playground/
+- In the 1850s Postmaster Hiram Tarbox named the town Tremont, after three hills: Fairmount, Mount Eden and Mount Hope. — https://www.nycgovparks.org/parks/mount-hope-playground/
+- Annexation into New York City in 1874 brought paved streets, gas lamps and trolleys. Between 1900 and 1940 Mount Hope became a dense, architecturally consistent Bronx residential district. — https://cityneighborhoods.nyc/mt-hope
+- Mount Hope grew up around the Grand Concourse, which opened in 1909. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- Burnside Avenue subway station: opened June 2, 1917. — https://en.wikipedia.org/wiki/Burnside_Avenue_station
+- The Cross Bronx Expressway (1948–1972) cut through the southern edge and displaced families. Later, residents formed block associations, tenant unions and advocacy groups. — https://cityneighborhoods.nyc/mt-hope
+
+**Streets and boundaries**
+- Boundaries: the Cross Bronx Expressway to the south, Jerome Avenue to the west, East Burnside Avenue to the north and Webster Avenue to the east. — https://cityneighborhoods.nyc/mt-hope
+- The Grand Concourse runs through the middle, with several subway stations and bus stops. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- Mount Hope is part of Bronx Community Board 5. — https://en.wikipedia.org/wiki/Bronx_Community_Board_5
+- Transit: a Tremont Avenue busway — a busway on Tremont Avenue between Third Avenue and Southern Boulevard. That stretch is east of Mount Hope. — https://en.wikipedia.org/wiki/Tremont_Avenue
+
+**Parks**
+- Small parks: Cleopatra Playground, Mount Hope Garden and Jennie Jerome Playground, plus Echo Park. — https://www.apartments.com/local-guide/mount-hope-bronx-ny/
+- Mount Hope Garden got a $5.1 million reconstruction. — https://www.nycgovparks.org/parks/X274/news
+- 1800 Grand Concourse: built in 1910 by Hoppin & Koen for Christ Congregational Church of Mount Hope, and empty since the mid-2000s. — https://www.digitalinkd.net/2026/01/pilgrim-united-church-of-christ.html
+
+**Demographics**
+- 59.7% of residents have Dominican ancestry. — https://www.neighborhoodscout.com/ny/bronx/mount-hope
+- The poverty rate is 30.3%, compared with 14.2% for New York. — https://www.city-data.com/neighborhood/Mount-Hope-Bronx-NY.html
+
+**Local news about security, home tech or entry systems**
+- Beyond the "virtual doorman" building above, local news coverage is EMPTY. A CBS story covers a random attack in Mount Hope that was caught on camera. — https://www.cbsnews.com/newyork/news/caught-on-video-random-sucker-punch-attack-in-the-bronx-leaves-victim-with-broken-jaw-mount-hope-residents-say-its-the-
