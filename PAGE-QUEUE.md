@@ -678,7 +678,7 @@ LIVE | structured-cabling-installation-locust-point-bronx-ny | Structured Cablin
 LIVE | structured-cabling-installation-morris-park-bronx-ny | Structured Cabling Installation | Morris Park, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-morrisania-bronx-ny | Structured Cabling Installation | Morrisania, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-mount-hope-bronx-ny | Structured Cabling Installation | Mount Hope, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-05T09:03Z factory | structured-cabling-installation-ocean-parkway-brooklyn-ny | Structured Cabling Installation | Ocean Parkway, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | structured-cabling-installation-ocean-parkway-brooklyn-ny | Structured Cabling Installation | Ocean Parkway, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-pelham-bay-bronx-ny | Structured Cabling Installation | Pelham Bay, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-port-morris-bronx-ny | Structured Cabling Installation | Port Morris, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T09:03Z factory | structured-cabling-installation-prospect-heights-brooklyn-ny | Structured Cabling Installation | Prospect Heights, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
