@@ -2968,3 +2968,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-edgewater-park-bronx-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-nyc | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-fiske-terrace-brooklyn-ny | QUEUED
+2026-11-05 | https://www.abstractenterprisessecuritysystems.com/night-owl-camera-installation-long-island | QUEUED
