@@ -670,7 +670,7 @@ LIVE | structured-cabling-installation-edenwald-bronx-ny | Structured Cabling In
 LIVE | structured-cabling-installation-edgewater-park-bronx-ny | Structured Cabling Installation | Edgewater Park, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T03:02Z factory | structured-cabling-installation-fieldston-bronx-ny | Structured Cabling Installation | Fieldston, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-fiske-terrace-brooklyn-ny | Structured Cabling Installation | Fiske Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-05T03:02Z factory | structured-cabling-installation-foxhurst-bronx-ny | Structured Cabling Installation | Foxhurst, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-foxhurst-bronx-ny | Structured Cabling Installation | Foxhurst, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-greenwood-heights-brooklyn-ny | Structured Cabling Installation | Greenwood Heights, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-indian-village-bronx-ny | Structured Cabling Installation | Indian Village, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-kingsbridge-bronx-ny | Structured Cabling Installation | Kingsbridge, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
