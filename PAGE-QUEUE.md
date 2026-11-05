@@ -1110,7 +1110,7 @@ BUILDING 2026-11-05T09:03Z factory | avycon-camera-installation-long-island | AV
 BUILDING 2026-11-05T09:03Z factory | avycon-camera-installation-hudson-valley | AVYCON Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | capture-camera-installation-nyc | Capture Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T09:03Z factory | capture-camera-installation-long-island | Capture Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T09:03Z factory | capture-camera-installation-hudson-valley | Capture Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | capture-camera-installation-hudson-valley | Capture Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | d-link-camera-installation-nyc | D-Link Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | d-link-camera-installation-long-island | D-Link Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | d-link-camera-installation-hudson-valley | D-Link Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
