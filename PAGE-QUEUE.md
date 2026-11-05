@@ -1100,7 +1100,7 @@ LIVE | night-owl-camera-installation-nyc | Night Owl Camera Installation | NYC h
 LIVE | night-owl-camera-installation-long-island | Night Owl Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | night-owl-camera-installation-hudson-valley | Night Owl Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-05T06:03Z factory | alarm-com-camera-installation-nyc | Alarm.com Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T06:03Z factory | alarm-com-camera-installation-long-island | Alarm.com Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | alarm-com-camera-installation-long-island | Alarm.com Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T06:03Z factory | alarm-com-camera-installation-hudson-valley | Alarm.com Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-05T06:03Z factory | annke-camera-installation-nyc | ANNKE Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T06:03Z factory | annke-camera-installation-long-island | ANNKE Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
