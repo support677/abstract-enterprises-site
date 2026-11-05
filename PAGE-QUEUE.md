@@ -1098,7 +1098,7 @@ BUILDING 2026-11-05T03:02Z factory | amcrest-camera-installation-long-island | A
 BUILDING 2026-11-05T03:02Z factory | amcrest-camera-installation-hudson-valley | Amcrest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | night-owl-camera-installation-nyc | Night Owl Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | night-owl-camera-installation-long-island | Night Owl Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T03:02Z factory | night-owl-camera-installation-hudson-valley | Night Owl Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | night-owl-camera-installation-hudson-valley | Night Owl Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | alarm-com-camera-installation-nyc | Alarm.com Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | alarm-com-camera-installation-long-island | Alarm.com Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | alarm-com-camera-installation-hudson-valley | Alarm.com Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
