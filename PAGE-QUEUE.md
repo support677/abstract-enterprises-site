@@ -696,12 +696,12 @@ BUILDING 2026-11-05T18:05Z factory | tv-installation-belmont-bronx-ny | TV Insta
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bensonhurst-brooklyn-ny | TV Installation | Bensonhurst, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bergen-beach-brooklyn-ny | TV Installation | Bergen Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bronxdale-bronx-ny | TV Installation | Bronxdale, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-bronxwood-bronx-ny | TV Installation | Bronxwood, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-bruckner-bronx-ny | TV Installation | Bruckner, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-castle-hill-bronx-ny | TV Installation | Castle Hill, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-clason-point-bronx-ny | TV Installation | Clason Point, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-columbia-street-waterfront-brooklyn-ny | TV Installation | Columbia Street Waterfront, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-crown-heights-brooklyn-ny | TV Installation | Crown Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-bronxwood-bronx-ny | TV Installation | Bronxwood, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-bruckner-bronx-ny | TV Installation | Bruckner, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-castle-hill-bronx-ny | TV Installation | Castle Hill, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-clason-point-bronx-ny | TV Installation | Clason Point, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-columbia-street-waterfront-brooklyn-ny | TV Installation | Columbia Street Waterfront, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-crown-heights-brooklyn-ny | TV Installation | Crown Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-ditmas-park-brooklyn-ny | TV Installation | Ditmas Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-fiske-terrace-brooklyn-ny | TV Installation | Fiske Terrace, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-kensington-brooklyn-ny | TV Installation | Kensington, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -1123,12 +1123,12 @@ BUILDING 2026-11-05T18:05Z factory | ens-security-camera-installation-hudson-val
 BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-nyc | Eyemax Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-long-island | Eyemax Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-hudson-valley | Eyemax Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | first-alert-camera-installation-nyc | First Alert Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | first-alert-camera-installation-long-island | First Alert Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | first-alert-camera-installation-hudson-valley | First Alert Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | geovision-camera-installation-nyc | GeoVision Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | geovision-camera-installation-long-island | GeoVision Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | geovision-camera-installation-hudson-valley | GeoVision Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory | first-alert-camera-installation-nyc | First Alert Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory | first-alert-camera-installation-long-island | First Alert Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory | first-alert-camera-installation-hudson-valley | First Alert Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-05T21:05Z factory | geovision-camera-installation-nyc | GeoVision Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory | geovision-camera-installation-long-island | GeoVision Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T21:05Z factory | geovision-camera-installation-hudson-valley | GeoVision Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | gw-security-camera-installation-nyc | GW Security Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | gw-security-camera-installation-long-island | GW Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | gw-security-camera-installation-hudson-valley | GW Security Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
