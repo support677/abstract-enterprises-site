@@ -1,4 +1,5 @@
 # PAGE-QUEUE - STATUS | slug | silo | area | up-link | phone | GBP  (daily run takes the first TODO; format notes at the bottom)
+# QUEUE ORDER (Module 3, Nov 5 2026): before claiming, read seo/ATTRIBUTION.md. The API factory alternates the line that best matches services/areas with booked/paid revenue in seo/attribution-weights.json with the next line in file order, so earners go first but every line still ships. Max-plan page tasks do the same by hand: lean toward what made money, never skip a service entirely.
 LIVE | fiber-optic-installation-nyc | Fiber Optic Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | fiber-optic-installation-manhattan | Fiber Optic Installation | Manhattan | up /fiber-optic-installation-nyc | (929) 560-0737 | GBP Bronx
 LIVE | fiber-optic-installation-brooklyn | Fiber Optic Installation | Brooklyn | up /fiber-optic-installation-nyc | (347) 934-8335 | GBP Brooklyn
