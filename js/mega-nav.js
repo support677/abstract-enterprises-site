@@ -1,3 +1,5 @@
+/* PostHog loader (Nov 5 2026) */
+(function(){if(document.querySelector('script[src*="/js/ph.js"]'))return;var s=document.createElement('script');s.src='/js/ph.js';s.defer=true;document.head.appendChild(s);})();
 /* MEGA-NAV v2.0 — Desktop hover + Mobile stepped funnel */
 (function(){
 'use strict';
