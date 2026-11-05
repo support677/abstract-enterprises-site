@@ -50,6 +50,38 @@ const WEAK_PATTERNS = [
   /\b(proposal|pricing) for your (business|website|company)\b/i,
 ];
 
+// Attribution fields stamped onto every form by /js/ph.js (Module 3).
+// They are not typed by the customer, so the spam check ignores them.
+const ATTR_KEYS = [
+  "ph_distinct_id", "ph_session_id", "page_slug", "lead_service", "lead_area", "lead_region",
+  "utm_source", "utm_medium", "utm_campaign", "utm_content", "first_landing", "first_referrer",
+];
+const PH_KEY = process.env.POSTHOG_KEY || "phc_wJyrBYx3gBLsevhvXiMhFUSFt2JjFeK6iSXyhrHRnogj";
+
+// Server-side lead event: ad-blockers can stop the browser event, not this one.
+// Carries the visitor's distinct_id so it joins their pageviews, replay and first-touch source.
+async function captureLead(data) {
+  const props = { $lib: "aess-contact-fn", source_form: "website" };
+  for (const k of ATTR_KEYS) if (data[k]) props[k] = String(data[k]).slice(0, 300);
+  if (data.ph_session_id) props.$session_id = data.ph_session_id;
+  props.has_phone = !!(data.phone || data.Phone || data.tel);
+  props.has_email = !!(data.email || data.Email);
+  try {
+    await fetch("https://us.i.posthog.com/i/v0/e/", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        api_key: PH_KEY,
+        event: "lead_submitted",
+        distinct_id: data.ph_distinct_id || `anon-lead-${Date.now()}`,
+        properties: props,
+      }),
+    });
+  } catch (e) {
+    console.log("POSTHOG LEAD EVENT FAILED", String(e));
+  }
+}
+
 // Turn any body shape (JSON, form-urlencoded, multipart) into a plain object.
 async function readBody(req) {
   const type = (req.headers.get("content-type") || "").toLowerCase();
@@ -71,7 +103,7 @@ function spamReason(data) {
   if (bot && bot !== "false" && bot !== "") return "honeypot";
 
   // Look at everything the sender typed (skip our own hidden fields).
-  const skip = new Set(["access_key", "subject", "from_name", "page", "Page", "redirect", "botcheck"]);
+  const skip = new Set(["access_key", "subject", "from_name", "page", "Page", "redirect", "botcheck", ...ATTR_KEYS]);
   const text = Object.entries(data)
     .filter(([k]) => !skip.has(k))
     .map(([, v]) => String(v))
@@ -117,6 +149,16 @@ export default async (req) => {
 
   data.access_key = KEY;
   delete data.botcheck;
+
+  // One readable line in the lead email: which page/service/area and which channel produced it.
+  const src = [data.utm_source, data.utm_medium, data.utm_campaign].filter(Boolean).join(" / ");
+  const ref = data.first_referrer && data.first_referrer !== "$direct" ? data.first_referrer : "direct";
+  if (data.page_slug) {
+    data["Lead source"] = `${data.lead_service || "?"} — ${data.lead_area || "?"} (${data.page_slug}) · ` +
+      (src ? `campaign ${src}` : `first came from ${ref}`) +
+      (data.first_landing && data.first_landing !== data.page_slug ? ` · first landed on ${data.first_landing}` : "");
+  }
+  await captureLead(data);
 
   try {
     const r = await fetch("https://api.web3forms.com/submit", {
