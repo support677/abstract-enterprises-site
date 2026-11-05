@@ -2991,3 +2991,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/annke-camera-installation-hudson-valley | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-pelham-bay-bronx-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-port-morris-bronx-ny | QUEUED
+2026-11-05 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-nyc | QUEUED
