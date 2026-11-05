@@ -209,7 +209,7 @@ LIVE | sonos-installation-upper-west-side-manhattan-ny | Sonos Installation | Up
 LIVE | sonos-installation-williamsburg-brooklyn-ny | Sonos Installation | Williamsburg, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | best-security-camera-brands | Comparison hub: Best Security Camera Brands (installer-compared) | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | lorex-vs-reolink | Comparison: Lorex vs Reolink | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T18:17Z max-daily | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | ring-vs-nest | Comparison: Ring vs Nest | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
