@@ -2977,3 +2977,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-foxhurst-bronx-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/amcrest-camera-installation-long-island | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-fieldston-bronx-ny | QUEUED
+2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-locust-point-bronx-ny | QUEUED
