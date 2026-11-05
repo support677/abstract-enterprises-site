@@ -2959,3 +2959,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-crotona-park-east-bronx-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-east-flatbush-brooklyn-ny | QUEUED
 2026-11-05 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-hudson-valley | QUEUED
+2026-11-05 | https://www.abstractenterprisessecuritysystems.com/blink-camera-installation-nyc | QUEUED
