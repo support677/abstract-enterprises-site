@@ -1104,7 +1104,7 @@ LIVE | alarm-com-camera-installation-long-island | Alarm.com Camera Installation
 LIVE | alarm-com-camera-installation-hudson-valley | Alarm.com Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | annke-camera-installation-nyc | ANNKE Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | annke-camera-installation-long-island | ANNKE Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T06:03Z factory | annke-camera-installation-hudson-valley | ANNKE Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | annke-camera-installation-hudson-valley | ANNKE Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | avycon-camera-installation-nyc | AVYCON Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | avycon-camera-installation-long-island | AVYCON Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | avycon-camera-installation-hudson-valley | AVYCON Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
