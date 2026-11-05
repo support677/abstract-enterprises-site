@@ -1093,7 +1093,7 @@ LIVE | blink-camera-installation-hudson-valley | Blink Camera Installation | Hud
 LIVE | tp-link-tapo-camera-installation-nyc | Tapo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | tp-link-tapo-camera-installation-long-island | Tapo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | tp-link-tapo-camera-installation-hudson-valley | Tapo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-05T03:02Z factory | amcrest-camera-installation-nyc | Amcrest Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | amcrest-camera-installation-nyc | Amcrest Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T03:02Z factory | amcrest-camera-installation-long-island | Amcrest Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T03:02Z factory | amcrest-camera-installation-hudson-valley | Amcrest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | night-owl-camera-installation-nyc | Night Owl Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
