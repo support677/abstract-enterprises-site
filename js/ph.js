@@ -111,6 +111,28 @@
     }
   });
 
+  /* Server-side copy of call/text taps for the nightly attribution match
+     (survives ad-blockers; no personal data). */
+  var TOUCH_URL = 'https://aess-hcp-webhooks.onrender.com/touch';
+  function beacon(event, props) {
+    try {
+      var q = new URLSearchParams(location.search);
+      var g = function (k) { try { return posthog.get_property(k) || ''; } catch (_) { return ''; } };
+      var body = JSON.stringify({
+        event: event, ts: new Date().toISOString(),
+        touch_id: event + '-' + Date.now() + '-' + Math.random().toString(36).slice(2, 8),
+        page_slug: CTX.page_slug, service: CTX.service, area: CTX.area, region: CTX.region,
+        number: props.number, line: props.line,
+        utm_source: q.get('utm_source') || g('first_utm_source'), utm_medium: q.get('utm_medium') || g('first_utm_medium'),
+        utm_campaign: q.get('utm_campaign') || g('first_utm_campaign'), utm_content: q.get('utm_content') || g('first_utm_content'),
+        first_referrer: g('first_referrer') || document.referrer || '$direct', first_landing: g('first_landing_slug'),
+        distinct_id: (function () { try { return posthog.get_distinct_id(); } catch (_) { return ''; } })()
+      });
+      if (navigator.sendBeacon) navigator.sendBeacon(TOUCH_URL, new Blob([body], { type: 'text/plain' }));
+      else fetch(TOUCH_URL, { method: 'POST', body: body, keepalive: true, mode: 'no-cors' });
+    } catch (_) {}
+  }
+
   /* ---- Clicks: call / text / email / checkout -------------------------- */
   document.addEventListener('click', function (e) {
     var a = e.target.closest && e.target.closest('a[href]');
@@ -121,10 +143,12 @@
       var n = digits(h.slice(4));
       base.number = n; base.line = LINES[n] || 'Tracking ' + n.slice(-4);
       posthog.capture('click_to_call', base);
+      beacon('click_to_call', base);
     } else if (h.indexOf('sms:') === 0) {
       var s = digits(h.slice(4).split('?')[0].split('&')[0]);
       base.number = s; base.line = LINES[s] || 'Tracking ' + s.slice(-4);
       posthog.capture('click_to_text', base);
+      beacon('click_to_text', base);
     } else if (h.indexOf('mailto:') === 0) {
       posthog.capture('click_email', base);
     } else if (/buy\.stripe\.com|checkout\.stripe\.com/.test(h)) {

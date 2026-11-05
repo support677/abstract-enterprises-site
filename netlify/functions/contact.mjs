@@ -54,7 +54,7 @@ const WEAK_PATTERNS = [
 // They are not typed by the customer, so the spam check ignores them.
 const ATTR_KEYS = [
   "ph_distinct_id", "ph_session_id", "page_slug", "lead_service", "lead_area", "lead_region",
-  "utm_source", "utm_medium", "utm_campaign", "utm_content", "first_landing", "first_referrer",
+  "utm_source", "utm_medium", "utm_campaign", "utm_content", "first_landing", "first_referrer", "aess_test",
 ];
 const PH_KEY = process.env.POSTHOG_KEY || "phc_wJyrBYx3gBLsevhvXiMhFUSFt2JjFeK6iSXyhrHRnogj";
 
@@ -79,6 +79,24 @@ async function captureLead(data) {
     });
   } catch (e) {
     console.log("POSTHOG LEAD EVENT FAILED", String(e));
+  }
+  // Same lead to the attribution store (Airtable "Web Touches" via aess-hcp-webhooks),
+  // with phone/email so the nightly match can tie it to the HCP customer and paid jobs.
+  if (!process.env.TOUCH_KEY) { console.log("TOUCH_KEY not set; form touch not recorded"); return; }
+  try {
+    const touch = { ...props, touch_id: `form-${data.ph_session_id || ""}-${Date.now()}`.slice(0, 80),
+      ts: new Date().toISOString(), phone: data.phone || data.Phone || data.tel || "",
+      email: data.email || data.Email || "", name: data.name || data.Name || data.full_name || "",
+      test: data.aess_test === "1" };
+    const r = await fetch("https://aess-hcp-webhooks.onrender.com/touch/form", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "X-Touch-Key": process.env.TOUCH_KEY },
+      body: JSON.stringify(touch),
+      signal: AbortSignal.timeout(6000),
+    });
+    if (!r.ok) console.log("FORM TOUCH FAILED", r.status);
+  } catch (e) {
+    console.log("FORM TOUCH ERROR", String(e));
   }
 }
 
@@ -159,6 +177,8 @@ export default async (req) => {
       (data.first_landing && data.first_landing !== data.page_slug ? ` · first landed on ${data.first_landing}` : "");
   }
   await captureLead(data);
+  // End-to-end test submissions (aess_test=1) are tracked but never emailed to the office.
+  if (data.aess_test === "1") return reply(req, true);
 
   try {
     const r = await fetch("https://api.web3forms.com/submit", {
