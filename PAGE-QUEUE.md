@@ -1092,7 +1092,7 @@ BUILDING 2026-11-05T00:08Z factory | blink-camera-installation-long-island | Bli
 BUILDING 2026-11-05T00:08Z factory | blink-camera-installation-hudson-valley | Blink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | tp-link-tapo-camera-installation-nyc | Tapo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T00:08Z factory | tp-link-tapo-camera-installation-long-island | Tapo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T00:08Z factory | tp-link-tapo-camera-installation-hudson-valley | Tapo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | tp-link-tapo-camera-installation-hudson-valley | Tapo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | amcrest-camera-installation-nyc | Amcrest Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | amcrest-camera-installation-long-island | Amcrest Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | amcrest-camera-installation-hudson-valley | Amcrest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
