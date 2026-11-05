@@ -666,7 +666,7 @@ LIVE | structured-cabling-installation-crown-heights-brooklyn-ny | Structured Ca
 LIVE | structured-cabling-installation-dumbo-brooklyn-ny | Structured Cabling Installation | Dumbo, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-east-flatbush-brooklyn-ny | Structured Cabling Installation | East Flatbush, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-east-williamsburg-brooklyn-ny | Structured Cabling Installation | East Williamsburg, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-05T03:02Z factory | structured-cabling-installation-edenwald-bronx-ny | Structured Cabling Installation | Edenwald, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-edenwald-bronx-ny | Structured Cabling Installation | Edenwald, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-edgewater-park-bronx-ny | Structured Cabling Installation | Edgewater Park, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T03:02Z factory | structured-cabling-installation-fieldston-bronx-ny | Structured Cabling Installation | Fieldston, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-fiske-terrace-brooklyn-ny | Structured Cabling Installation | Fiske Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
