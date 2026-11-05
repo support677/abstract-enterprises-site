@@ -79,3 +79,552 @@ Silo research file started 2026-10-28 by the max-burn run. Verified prices live 
 - Marketproof (Apr 29 2026, via access-control pack): permit for 3-story, 6-unit building with commercial space at 1259 Prospect Ave — https://blog.marketproof.com/new-building-permit-filed-for-1259-prospect-ave-in-windsor-terrace-brooklyn/ (platform: prior research pack · used in: Architecture newer-building section, Commercial card)
 - University of Nebraska display-mount standard: ADA Section 307 — objects 27–80 in above floor may protrude max 4 in into pathways — https://nusupport.nebraska.edu/TDClient/33/Portal/KB/Article/143/Digital-Signage-Mount-and-Enclosure-Standards-Poppulo-Harmony (query: "2010 ADA Standards 307.2 protrusion limits 27 inches 80 inches 4 inches wall mounted" · platform: WebSearch → WebFetch · used in: Commercial compliance notes)
 - Note: builder's first name not in sources used; page says "Calder, a builder who later became a U.S. senator" (per Brownstoner 56 Sherman St via access-control pack).
+
+## Bronxwood, Bronx — /tv-installation-bronxwood-bronx-ny (factory research, 2026-11-05)
+
+**Read this first: sources disagree on where "Bronxwood" is.** Three different areas use the name:
+- **(a) Southern Allerton.** Allerton consists of two subsections called Bronxwood and Laconia. Bronxwood includes the Pelham Parkway Houses and Boston Road Plaza. — https://en.wikipedia.org/wiki/Allerton,_Bronx (the boundary text on that page looks garbled, so check it before using it).
+- **(b) A grid of streets.** Bounded by Pelham Parkway to the south, Bronx Park East to the west, Waring Avenue to the north, and Williamsbridge Road to the east — https://cityneighborhoods.nyc/bronxwood
+- **(c) "Bronxwood Park."** A small enclave of a pair of roads (North and South Oak Drives) between Wallace and Cruger Avenues just north of Burke Avenue and close to the White Plains Road el — https://forgotten-ny.com/2008/01/bronxwood-park-a-hidden-bronx-enclave/
+
+The page should pick one definition or name all three.
+
+**TV installation in this neighborhood (most important)**
+- **Pelham Parkway Houses (NYCHA), the biggest building type in definition (a).** 23 six-story buildings. Buildings I–IX are located between Mace and Waring avenues and also between Bronxwood Avenue to Williamsbridge Road. These buildings were all completed in June 1950. — https://en.wikipedia.org/wiki/Pelham_Parkway_Houses
+- **Their walls.** Its 1,266 apartments are scattered over a campus-type setting in 23 six-story brick buildings erected in 1950. — https://manhattan.institute/article/in-nycha-the-little-things-are-a-big-deal
+  - One vendor says buildings from this era need masonry tools: You need a hammer drill with carbide-tipped masonry bits. — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- **Getting in and finding the address.** The buildings are set on a diagonal away from the street; only by wandering around the courtyard can one find individual addresses. The buzzers have also been a problem: the security codes listing the individual apartments looked to have been burned by a cigarette and couldn't be read. — https://manhattan.institute/article/in-nycha-the-little-things-are-a-big-deal
+- **Security and entry upgrades.** After a 2012 murder, NYCHA added "layered access control," which will for the first time connect different equipment, such as locks and cameras, to one another and to a central office. — https://www.dnainfo.com/new-york/20120710/allerton/two-housing-complexes-get-security-cameras-after-murder-of-elderly-woman/
+  - Work began in early June on 375 cameras throughout the site's 23, six-story buildings — https://www.bxtimes.com/residents-to-witnesses-please-snitch/
+  - The upgrade also included electric keys and improved locks — https://www.bxtimes.com/pelham-pkway-houses-getting-security-cams-following-grandmas-murder/
+- **Recent work (unofficial source).** In 2025, significant infrastructure upgrades were completed at Pelham Parkway Houses... including facade renovations, elevator modernizations, and heating system improvements. — https://pelhamparkwayhouses.us/about-us/
+- **Who lives there.** Senior citizens, who are nearly half of all households in the 23-building development — https://www.dnainfo.com/new-york/20120710/allerton/two-housing-complexes-get-security-cameras-after-murder-of-elderly-woman/
+- **NYCHA house rules that affect TV jobs.**
+  - TV, Cable and Dish Antennas: Residents may only install TV antennas inside their apartments.
+  - Video doorbells and cameras must be wireless. Tenants may not make holes in or alterations to the door, frame, or walls above and around the door
+  - Source: https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- **Boston Road Plaza (2440 Boston Rd).** A single 20-story tower with 235 apartments — https://www.bxtimes.com/129-million-raised-renovation-three-housing-developments-bronx/
+  - Built in 1972, Boston Road Plaza is a senior public housing development in the Allerton neighborhood. The renovation plan includes a keyless layered access control system for building entries — https://www.nyc.gov/assets/nycha/downloads/pdf/communityplan-brp.pdf
+  - It converted to private management under PACT/Section 8 on Sept. 26, 2024, and is listed as Senior Development EXCLUSIVELY — https://nycharealtalk.org/lots/2044310001/
+  - Because it is now privately managed, its house rules may differ from NYCHA's. I didn't verify this.
+- **Bronxwood Park houses (definition c).** Homes in Bronxwood Park number many original multiroom buildings that typically housed two families. They have long since been aluminum-sided — https://forgotten-ny.com/2008/01/bronxwood-park-a-hidden-bronx-enclave/
+  - Many of the houses that can now be seen in Bronxwood are as old as the neighborhood itself. — https://wfuv.org/content/bronxwood-park-modern-relic
+  - Old houses like these likely mean plaster walls. One vendor advises: For plaster: find studs inside it or use toggle bolts through the wooden lath. — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- **Permits.** Mounting a TV alone usually needs no DOB permit. But opening a wall, building a recessed AV chase, or moving electrical circuits does — https://hopplerdesignbuild.com/interior-design/media-walls-and-tv-placement-in-nyc-living-rooms/
+- **Renters and leases.** Most standard residential leases in New York prohibit permanent alterations without written landlord consent. — https://mountingnyc.com/blog/mounting-tv-nyc-rental-lease-rules-wall-repair-deposit/
+- **A competitor already targets these buildings.** It names Pelham Parkway Houses and says the borough's massive co-op complexes — Co-op City, Parkchester, Pelham Parkway houses — have poured concrete walls that standard drywall anchors can't penetrate. — https://www.abstractenterprisessecuritysystems.com/tv-installation-co-op-city-bronx-ny.html
+  - That claim conflicts with the "brick buildings" description above. Treat it as marketing.
+- **City data not retrieved (write EMPTY):** HPD violations, 311 complaints, DOB permits.
+- **Landmarks:** I found no landmark district covering Bronxwood. The one Allerton landmark listed is Designated landmark: The Coops — https://cornerfacts.com/new-york/bronx/allerton/ — I didn't confirm whether it falls inside any Bronxwood boundary.
+
+**History and development**
+- **Bronxwood Park.** In the late 1880s and early 1890s John T. Adee, who owned considerable property in the northeast Bronx, sponsored a new real estate development here and the curving roads, lined with mainly chestnut and oak trees, were laid out. — https://forgotten-ny.com/2008/01/bronxwood-park-a-hidden-bronx-enclave/
+- **The name.** The name "Bronxwood" is relatively modern, emerging in the early 20th century as developers sought to market new residential tracts east of Bronx Park. The early 1900s to 1930s marked Bronxwood's transformation from farmland to a stable, leafy urban neighborhood. — https://cityneighborhoods.nyc/bronxwood
+- **Pelham Parkway.** This land was acquired as a parkway by condemnation in 1884 — https://www.nycgovparks.org/parks/pelham-parkway/history
+- **Allerton name.** Named in honor of Daniel Allerton, an early Bronx settler who purchased and farmed this area with his wife Hustace. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+
+**Streets and building stock**
+- The neighborhood's internal grid—anchored by Bronxwood Avenue, Paulding Avenue, and Barnes Avenue—is composed primarily of low-rise brick homes, two-family houses, and small apartment buildings — https://cityneighborhoods.nyc/bronxwood
+- There are also some tenements scattered across the neighborhood, primarily within five blocks of the El on White Plains Road. — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- The Allerton Avenue subway station is located in the shopping district at Allerton Avenue and White Plains Road — https://en.wikipedia.org/wiki/Allerton_Avenue_station
+- Next door in Pelham Parkway, the area is dominated by 6 and 7-story elevator apartment and coop buildings — https://en.wikipedia.org/wiki/Pelham_Parkway_(neighborhood),_Bronx
+- **Who lives there.** The area south of Allerton Avenue and east of Bronxwood Avenue has a large population of Italian-Americans and Albanian-Americans — https://en.wikipedia.org/wiki/Allerton,_Bronx
+
+**Parks and landmarks**
+- Parkland: 3.3 acres of NYC Parks property; the largest pieces are Mazzei Playground (1.5 acres), Zimmerman Playground (1 acre) and Parkside Playground (0.8 acre) — https://cornerfacts.com/new-york/bronx/allerton/
+
+**Recent local news**
+- A crash on Oct. 9, 2026 happened around 2:14 p.m. near the intersection of Allerton Avenue and Holland Avenue — https://pix11.com/news/local-news/multiple-people-injured-after-being-struck-by-a-vehicle-in-the-bronx-fdny/
+- **Local groups:** Allerton Avenue Home Owners & Tenants Association... Pelham Parkway Neighborhood Association — https://en.wikipedia.org/wiki/Bronx_Community_Board_11
+
+**Local businesses and prices**
+- **Yelp's Bronx TV-mounting list:** TVmount.nyc, Jcads, Primo Home Automations, Tonys Handy, Olsi Handyman, ArtFixPro, Mounting NYC, NYC Handyman, Just Ask Airamis, DAS Furniture Assembly & Installation — https://www.yelp.com/search?cflt=tvmounting&find_loc=Bronx,+NY
+- **Yelp praise:** "Neville did an awesome job mounting our tv and installing an in-wall box to hide all the electronics." — https://www.yelp.com/search?find_desc=Television&find_loc=Bronx%2C+NY
+- **Yelp complaints:** EMPTY. Search snippets showed only praise.
+- **Bronx cost data:** Bronx, New York Average $697; Typical Range $283 - $1,100 (this is for home theater installers) — https://www.homeadvisor.com/tloc/Bronx-NY/Home-Theater-System-or-Media-Center-Install/
+- **Reddit threads specific to Bronxwood or the Bronx:** EMPTY.
+
+### Questions people ask — TV Installation in Bronxwood
+**Not captured:** Google People Also Ask, People Also Search For, AnswerThePublic, Bing and DuckDuckGo results were not accessible (EMPTY). Every question below came from competitor FAQs, forums or Yelp. None are verified PAA questions.
+
+- How much does TV mounting cost in the Bronx? — competitor FAQ — https://abstractenterprisessecuritysystems.com/tv-installation-bronx
+- What types of TV mounts do you install? — competitor FAQ — same URL
+- Can you hide wires for a wall mounted TV? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-woodstock-bronx-ny
+- How is your service different from Geek Squad? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-bronxdale-bronx-ny
+- My co-op has concrete walls — can you mount a TV? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-co-op-city-bronx-ny.html
+- Do you provide TV mounting in The Bronx for homes and businesses? / Do you offer above-fireplace TV mounting? — competitor FAQ — https://aurxio.com/locations/usa/new-york/tv-mounting-the-bronx
+- How much do TV mounting services typically cost? / What is the surface the TV will be mounted on? — HomeAdvisor — https://www.homeadvisor.com/tloc/Bronx-NY/TV-Wall-Mount/
+- What are people saying about TV mounting services in Bronx, NY? / What are some popular services for TV mounting? — Yelp — https://www.yelp.com/search?find_desc=Tv+Mount&find_loc=Bronx%2C+NY
+- Yelp related search: "Tv Wall Mount Installation" — Yelp (related search, the nearest thing to PASF) — https://www.yelp.com/search?find_desc=Tv+Mounting&find_loc=Bronx,+NY
+- Can you mount large TVs on walls in Housing Connect apartments? — City-Data forum — https://www.city-data.com/forum/new-york-city-housing-lottery/3375620-tv-mounting.html
+- My landlord says I can't hang things on my walls; are they allowed to forbid this? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Can you mount a TV in a NYC rental apartment without losing your deposit? / How do you mount a TV on metal studs in a new NYC condo? — competitor blog (quotes Reddit) — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- What's the maximum TV size you can mount? / Do I need to buy the mount separately? / How long does a standard TV mount take? / Do I need to prepare anything before the appointment? — competitor FAQ — https://nyctvguy.com/tv-mounting
+- Do you supply the mount? — competitor FAQ — https://flatrateassembly.com/tv-mounting-nyc
+- Does the mount itself cost extra? / Is TV mounting worth it vs. DIY? — competitor blog — https://pictureperfectmounting.com/?p=2751
+- What height should I mount the TV? — designer blog — https://hopplerdesignbuild.com/interior-design/media-walls-and-tv-placement-in-nyc-living-rooms/
+- Is there a good way to hang a TV on a wall in a rented apartment without damaging the walls? — Quora — https://www.quora.com/Is-it-ok-for-a-tenant-to-put-nails-in-the-walls-and-hang-decorations-up-in-an-apartment
+- Bing-only or DuckDuckGo-only questions: EMPTY
+- Reddit threads (r/Bronx, r/AskNYC) about TV installation in Bronxwood: EMPTY
+
+## Bruckner, Bronx — /tv-installation-bruckner-bronx-ny (factory research, 2026-11-05)
+
+**Scope note.** "Bruckner" doesn't have clear official borders. The most useful definition for this page is "Soundview-Bruckner": the part of Soundview north of the Bruckner Expressway, served by the 6 train along Westchester Avenue. One competitor-style page puts "Bruckner" near Mott Haven instead. I treat that as an outlier and flag it below.
+
+**What matters most for TV installation here**
+- The area is defined as the northern part of Soundview, cut off from the rest of it by the Bruckner Expressway, with tree-lined streets, massive apartment complexes, and its very own shopping district along Westchester Avenue. The neighborhood is served by the 6 train. — https://nabewise.com/blog/soundview-bruckner
+- Bronx Community Board 9 encompass[es] the neighborhoods of Castle Hill, Parkchester, Soundview, Bruckner, Harding Park, Bronx River, Clason Point and Unionport. — https://en-academic.com/dic.nsf/enwiki/595418
+- Conflicting definition: a tree-service page calls Bruckner a neighborhood in the South Bronx whose identity is closely tied to the historic Bruckner Boulevard and the Bruckner Expressway and ties it to Mott Haven businesses. This source is low-authority. — https://bronxtreeservices.com/bruckner-tree-services/
+- Mid-century high-rises on Bruckner Blvd: 1760 Bruckner Blvd (10473) was built in 1958 and has 15 stories and 408 units (co-op). — https://streeteasy.com/building/1760-bruckner-boulevard-bronx
+- 1569 Bruckner Blvd (10472) was built in 1962 and has 14 stories and 104 units. Its class is D4 Elevator Cooperative. Co-op boards are likely to ask for a COI (certificate of insurance). — https://streeteasy.com/building/1569-bruckner-boulevard-bronx
+- 1770 Bruckner Blvd: Built in 1958, this building has 102 units and 14 floors. HPD data: This building has 7 open violations. — https://www.openigloo.com/building/nyc/2092764-2036630002/bronx-soundview-1770-bruckner-boulevard-10473
+- 2010 Bruckner Blvd is a large post-war rental in the Bronx, completed in 1966 with 330 apartments across 14 stories. 2010–2040 Bruckner Blvd is listed under Soundview-Bruckner rentals. — https://www.cityrealty.com/nyc/bronx-other/2010-bruckner-boulevard/85172
+- Small newer infill: 1520 Bruckner Blvd was built in 2002 and has 4 stories and 8 units, in Hurricane evacuation zone: Zone 4. — https://streeteasy.com/building/1520-bruckner-boulevard-bronx
+- NYCHA wall reality (forum, not Reddit): one user says NYCHA walls are not drywall, they are made of heavy plaster. Another says someone hired a man to hang a 65 inch TV on a NYCHA wall and they really struggled getting the drill bit through the wall. — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do.html
+- NYCHA house rules: Residents may only install TV antennas inside their apartments. Video doorbells must be wireless, and tenants may not make holes in or alterations to the door, frame, or walls above and around the door. — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- NYCHA density: Soundview contains one of the highest concentrations of NYCHA projects in the Bronx. There are nine NYCHA developments located in Soundview. — https://en-academic.com/dic.nsf/enwiki/595418
+- Sotomayor Houses: The 28-building complex contains nearly 1,500 apartments. The 30.77-acre development is bordered by Bruckner Boulevard and Watson, Soundview and Leland Avenues. — https://en.wikipedia.org/wiki/Sotomayor_Houses
+- Bronx River Houses security: In 1999, the NYPD completed the installation of 135 closed-circuit television cameras at Bronx River Houses. — https://en.wikipedia.org/wiki/Bronx_River_Houses
+- Wiring/providers: Verizon offers Fiber service to 98.2% of Soundview homes. Optimum offers Cable service to 99.8% of Soundview homes. These are aggregator figures. — https://ispreports.org/internet-service-providers-soundview-bronx-ny/
+- Broadband gap: in the State Comptroller's district table, Soundview & Parkchester shows 25.9% | 17.3% | 30.9%. The column headers were cut off in the search result, so verify in the PDF. The report also says the Bronx experienced the highest weighted average monthly price for broadband service. — https://www.osc.ny.gov/files/reports/pdf/report-20-2025.pdf
+- Local TV channel: News 12 The Bronx is listed with June 1998 | Soundview, New York. Beginning on November 4, 2019, Verizon FiOS began carrying News 12. — https://en.wikipedia.org/wiki/News_12_Networks
+- DOB/new construction: Exterior work is underway on 1499 Bruckner Boulevard, a seven-story, 135-unit project from J Frankl Architects and Bayrock Capital. It is bounded by Wheeler Avenue to the east, Bruckner Boulevard to the south, and Evergreen Avenue to the west. — https://newyorkyimby.com/2026/03/1499-bruckners-facade-takes-shape-in-soundview-the-bronx.html
+- DOB permits: Permits have been filed for a 13-story mixed-use building at 831 Rosedale Avenue in Soundview. — https://newyorkyimby.com/neighborhoods/soundview
+- Bronx Times (Oct 26, 2026): Construction is now underway for an affordable and supportive housing building with 228 rental units at 1920 Turnbull Ave. in Soundview. The building is expected to be completed in March 2029. — https://www.bxtimes.com/construction-228-affordable-supportive-soundview/
+- Local businesses (Yelp): Yelp lists Godly Repairs and Services 1870 Lafayette Ave Soundview and Simple Wall Hanging 5.0 (2 reviews) Soundview under TV mounting. — https://yelp.com/search?find_desc=Tv+Wall+Mount+Installation&find_loc=Soundview%2C+Bronx%2C+NY ; https://www.yelp.com/search?find_desc=Tv+Mount+Installation&find_loc=Soundview%2C+Bronx%2C+NY
+- Competitor angle (marketing claim, unverified): a competitor's Soundview page says TV mounting on concrete wall Bronx is our #1 Bronx service. — https://www.abstractenterprisessecuritysystems.com/tv-installation-soundview-bronx-ny
+- HPD violations specific to Soundview-Bruckner beyond 1770 Bruckner: EMPTY. Note: 917 Bruckner Blvd is in Longwood, not this area.
+- 311 complaints specific to Soundview-Bruckner: EMPTY.
+- LPC landmarks or historic districts in Soundview-Bruckner: EMPTY.
+
+**History and development**
+- Bruckner Boulevard was originally called Eastern Boulevard from when it opened in the late 1800's until 1942 when Borough President Henry Bruckner passed away. — https://forgotten-ny.com/2024/07/where-bruckner-begins/
+- Henry Bruckner became Bronx Borough President in 1918. — https://www.nycgovparks.org/about/history/historical-signs/listings?id=11398
+- The area east of the Bronx River remained part of Westchester County until it was annexed by New York City in 1895. In 1947, a temporary NYCHA housing project consisting of 947 apartments in 473 Quonset huts was built. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Until the 1940s, the neighborhood was relatively undeveloped. Most of the residential housing, primarily multi-unit rowhouses and tenement style apartment buildings, had been built near the El on Westchester Avenue. NYCHA developments followed from the 1950s until the 1970s. Later in the 1970s, large high-rise rental and co-op apartment complexes flourished across the neighborhood, under the badge of the Mitchell Lama program. — https://activerain.com/blogsview/3379155/information-on-soundview--bronx--ny-
+- The expressway was a project envisioned by Robert Moses, who steered the Bruckner through the Soundview section of the Bronx. The Bruckner Expressway itself was completed in 1973. — https://en.wikipedia.org/wiki/Bruckner_Expressway
+
+**Streets and corridors**
+- The IRT Pelham elevated subway carr[ies] the 6 train from southwest to northeast along Westchester Avenue to Elder Avenue, Morrison Avenue, and St. Lawrence Avenue. — https://www.apartments.com/local-guide/soundview-bronx-ny/
+- Morrison Avenue–Soundview station opened on May 30, 1920 as Sound View Avenue. — https://en.wikipedia.org/wiki/Morrison_Avenue%E2%80%93Soundview_station
+- A city greenway plan proposes routes linking the Number 6 subway station at Elder Street and Westchester Avenue and the Bruckner residential community located to the north of the Bruckner Expressway. — https://www.nyc.gov/assets/planning/download/pdf/plans/transportation/td_fullsoundview.pdf
+
+**Parks and landmarks**
+- Concrete Plant Park: its north entrance is on Westchester Avenue just east of Whitlock Avenue, and its south entrance is on Bruckner Boulevard west of Bronx River Avenue. — https://en.wikipedia.org/wiki/Concrete_Plant_Park
+- Soundview Park is a 205-acre (83 ha) park. One remaining Quonset Hut is still visible on the south side of Seward Avenue at Croes Avenue. — https://en.wikipedia.org/wiki/Soundview_Park
+- Bruckner Playground is bounded by Lafayette Avenue to the west and Swinton Avenue to the north, by the Cross Bronx service road. — https://www.nycgovparks.org/parks/bruckner-playground/history
+- Notable resident: Sylvia Woods, owner of Sylvia's Restaurant, had residences in the Soundview-Bruckner neighborhood. — https://en-academic.com/dic.nsf/enwiki/595418
+
+**Demographics and housing data**
+- One profile lists Total: 37,915 Households:12,094 Median Age: 29.64. — https://www.weichert.com/search/community/neighborhood.aspx?hood=5595
+- Redfin: Soundview-Bruckner has a moderate risk of flooding. — https://www.redfin.com/neighborhood/208745/NY/New-York/Soundview-Bruckner/housing-market
+- A resident view: The Bruckner makes things loud and dirty and not very good smelling. — https://nabewise.com/blog/soundview-bruckner
+
+**Rental rules (NYC general)**
+- Brick Underground: tenants should ask for permission before installing things that will cause more damage like closet systems and TV brackets. — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Plaster patching: use a setting-type joint compound or plaster patch, not standard spackle. — https://pictureperfectmounting.com/remove-tv-from-wall-mount/
+
+**Pricing signals**
+- TaskRabbit: TV mounting in Bronx starts at $45 per hour and will vary from Tasker to Tasker. — https://www.taskrabbit.com/locations/bronx/wall-mount-tv
+- HomeAdvisor: The cost to mount a TV ranges from $155 to $350 for most homeowners, with an average of $255. — https://www.homeadvisor.com/r/who-to-hire-mount-tv
+- Airtasker shows recent tasks in 10472 (Soundview-Bruckner's ZIP), e.g. Bronx NY 10472-2867, USA. — https://www.airtasker.com/us/services/tv-wall-mounting/new-york-ny/
+
+**Not found**
+- Local Reddit threads (r/bronx, r/AskNYC) about TV installation in Bruckner/Soundview: EMPTY. I found only a Reddit quote reposted on a vendor blog. — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Patch / BKReader coverage: EMPTY. BKReader covers Brooklyn, so it doesn't apply here.
+
+### Questions people ask — TV Installation in Bruckner
+
+I couldn't see live Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo results. All of those are **EMPTY**. The questions below come from FAQ sections, forums and Yelp pages I actually found.
+
+- How much does it cost to mount a TV in Bronx? — Web FAQ (TaskRabbit) — https://www.taskrabbit.com/locations/bronx/wall-mount-tv
+- Is hiring help for TV mounting worth it? — Web FAQ — https://www.taskrabbit.com/services/handyman/wall-mount-tv
+- What types of walls can you mount TVs on? — Web FAQ — https://www.taskrabbit.com/services/handyman/wall-mount-tv
+- How much does TV mounting cost in New York? — Web FAQ (Airtasker) — https://www.airtasker.com/us/services/tv-wall-mounting/new-york-ny/
+- What are people saying about tv mounting services near Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Tv+Mount+Installation&find_loc=Soundview%2C+Bronx%2C+NY
+- What are some popular services for tv mounting? — Yelp — same URL
+- What did people search for similar to tv installation service in Bronx, NY? — Yelp — https://www.yelp.com/search?find_desc=Tv+Installation+Service&find_loc=Bronx%2C+NY
+- Can you mount large tv on walls in housing connect apartments? — Forum (City-Data) — https://www.city-data.com/forum/new-york-city-housing-lottery/3375620-tv-mounting.html
+- What are NYCHA walls made of? How do I drill holes in them to hang stuff? — Forum (City-Data) — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do.html
+- My landlord says I can't hang things on my apartment walls. What's the deal? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Can a landlord put a ban on hanging things on the wall? — Brick Underground — same URL
+- Do you have to patch holes before you move out? — Brick Underground — same URL
+- Will you lose your security deposit for hanging items on walls? — Brick Underground — same URL
+- Can you mount a TV in a NYC rental apartment without losing your deposit? — Web FAQ — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Do you need permission from your building? — Web FAQ — same URL
+- Can I use a regular drill on a NYC plaster or concrete wall? — Web FAQ — https://nyctvguy.com/blog/tv-mounting-tools-nyc
+- How do I remove a TV from a wall mount by myself? — Web FAQ — https://pictureperfectmounting.com/remove-tv-from-wall-mount/
+- Can I reuse my TV mount at my new apartment? — Web FAQ — same URL
+- What do I use to fill holes from a TV mount? — Web FAQ — same URL
+- Do I need to buy the mount? / How fast can you come? — Web FAQ — https://hangit.nyc/
+- How much is TV mounting on concrete? — Competitor FAQ — https://abstractenterprisessecuritysystems.com/tv-installation-bronx
+- Who does TV mounting near me with Bronx expertise? — Competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-soundview-bronx-ny
+- Can you mount a TV on any surface? / Can you mount
+
+## Castle Hill, Bronx — /tv-installation-castle-hill-bronx-ny (factory research, 2026-11-05)
+
+**Read this first:** My searches couldn't show me Google's People Also Ask boxes, People Also Search For lists, Bing, DuckDuckGo or AnswerThePublic, so I marked those EMPTY. In the questions list, I named the page each question actually came from. I also didn't pull any HPD, 311 or DOB records, and I found no Reddit threads about Castle Hill.
+
+### TV installation facts specific to Castle Hill (most important)
+- **NYCHA Castle Hill Houses (the public housing complex):** NYCHA built the Castle Hill Houses in 1959, adding over 2,000 housing units. NYCHA says the development is home to nearly 4,400 residents. **The sources disagree on the date:** a non-NYCHA site says the buildings were constructed in 1953 and consist of 27 buildings that are primarily low-rise and mid-rise. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx ; https://nychajournal.nyc/first-nycha-dog-park-opens-at-castle-hill-houses/ ; https://castlehillhouses.com/about-us/
+- **What NYCHA walls are made of (forum posters disagree):** One City-Data poster says NYCHA walls are not drywall, they are made of heavy plaster You will need anchors. Another says someone hired a man to hang a 65-inch TV on a NYCHA wall and they really struggled getting the drill bit through the wall. A third says All you need is a hammer drill with the right bits. These posts are from 2019 and cover NYCHA in general, not Castle Hill specifically. — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do.html
+- **Jamie Towers (Mitchell-Lama co-op):** four buildings with 620 units featuring a central green space, swimming pool, playground, community room, and outdoor parking. About 60% senior citizens live there, which matters for older customers and anyone mounting TVs at accessible heights. The address is 2050 Seward Ave / 633 Olmstead Ave. **Unit counts conflict:** one Bronx Times article says 720 units and a 2016 article says 624. — https://finance.yahoo.com/news/jamie-towers-selects-maxwell-kates-121200631.html ; https://www.bxtimes.com/jamie-towers-residents-paying-40-higher-monthly-charges-under-weak-state-oversight/ ; https://www.bxtimes.com/audit-bronx-mitchell-lama-complexes/
+- **Who to call at Jamie Towers:** Maxwell-Kates was named managing agent in 2023, with Frank J. Fish and Kenia Vargas as onsite property manager and assistant property manager. This is the office that would handle contractor access or a certificate of insurance (COI). — https://finance.yahoo.com/news/jamie-towers-selects-maxwell-kates-121200631.html
+- **Building conditions at Jamie Towers:** A June 2023 state audit found "hazardous conditions" at the Jamie Towers, including damaged ceilings. In 2016, residents said the hours have been cut for security personnel at the buildings. — https://finance.yahoo.com/economy/policy/articles/10k-co-op-york-city-191742740.html ; https://www.bxtimes.com/stories/2016/49/49-jamietowers-2016-12-02-bx.html
+- **Two-family houses (common in 10473):** Listings include a legal two-family home at 437 Torry Ave, plus two-family homes on Homer Ave and Torry Ave. Near Castle Hill Point, a largest remaining collection of vacant parcels was developed near Castle Hill Point with modern two-story, two-unit attached rowhouses in 2000. — https://www.homes.com/bronx-ny/castle-hill-neighborhood/ ; https://everything.explained.today/Castle_Hill,_Bronx/
+- **Local electrician offering TV work:** Castle Hill Electrical at 861 Castle Hill Ave lists Flat Screen Television Wiring & Mounting Cable Data & Audio Video Wire Installation and says it was established in 2000. — https://www.yelp.com/biz/castle-hill-electrical-bronx
+- **Competitor page already targeting this neighborhood:** Abstract Enterprises runs a "TV Installation Castle Hill" page pitched around NYCHA concrete, Jamie Towers, 2-family brick, Bridgeview waterfront villas. It quotes Realistic Castle Hill install range: $249-$439. Its wall-type claims are the competitor's own, not independently confirmed. — https://www.abstractenterprisessecuritysystems.com/tv-installation-castle-hill-bronx-ny
+- **Cable and fiber providers:** Optimum Fiber is listed as available only in Limited boroughs (Bronx and Brooklyn). Verizon says Fios is widely available in the Bronx but doesn't name Castle Hill. I found no address-level data for Castle Hill. — https://www.verizon.com/home/internet/near-me/new-york-ny/
+- **New York lease rules:** New York courts enforce similar clauses but may invalidate language that unreasonably interferes with a tenant's right to quiet enjoyment. This comes from a general blog, not a legal source. — https://www.thecreditpeople.com/evictions/can-you-really-get-evicted-for-mounting-a-television-tv
+- **NYCHA's written policy on tenants mounting TVs:** EMPTY
+- **HPD violations, 311 complaints, DOB permits about TV/AV work in Castle Hill:** EMPTY (not retrieved)
+- **LPC (landmarks) rules:** None of the Bronx historic districts on the Wikipedia list I saw (Mott Haven, Longwood, Hunts Point, Fieldston, etc.) is in Castle Hill. **This is my inference, not a confirmed fact:** no landmark limits appear to apply. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_the_Bronx
+
+### History and development
+- Castle Hill grew around the old streetcar system on Castle Hill Avenue. Later, more homes were built when the Westchester Avenue Elevated train line was constructed. — https://kids.kiddle.co/Castle_Hill,_Bronx
+- After the annexation of Westchester to New York City (1895), city services opened the area to working- and middle-class building. — https://cityneighborhoods.nyc/castle-hill
+- The area takes its name from the Delafield family's Castle Hill Estate owned by the Delafield family, which featured a castle-like mansion. This comes from Grokipedia, which is lower reliability. — https://grokipedia.com/page/Castle_Hill,_Bronx
+- During the 1960s and 1970s, large apartment complexes were constructed in the neighborhood following the establishment of the Mitchell Lama program. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- In the 1970s, a wave of arson ravaged the community. A later building boom put new single and multi-family homes on the vacant lots. — https://urbanareas.net/info/resources/neighborhoods-bronx/castle-hill-bronx-history/
+- The Castle Hill Avenue subway station Opened: October 24, 1920. — https://en.wikipedia.org/wiki/Castle_Hill_Avenue_station
+
+### Main streets and commercial corridors
+- The neighborhood's primary commercial corridors are White Plains Road, Castle Hill Avenue, and Westchester Avenue. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- The Castle Hill Business Improvement District (BID) covers Castle Hill Avenue from Manning Street to the Cross Bronx Expressway, and Westchester Avenue from Olmstead Avenue to just east of Glebe Avenue. — https://www.nyc.gov/site/dca/news/026-22/mayor-adams-signs-legislation-form-two-new-business-improvement-districts-promote-salary
+- The BID is headquartered at 1239 Castle Hill Avenue, and its first executive director is Sasha Ortiz. — https://www.bxtimes.com/castle-hill-bid-first-executive-director/
+- Castle Hill Avenue has more than 200 businesses that range from a sewing shop to a beauty salon to countless restaurants. — https://bronx.news12.com/castle-hill-business-improvement-district-celebrates-1-year
+- Split in two by the Bruckner Expressway, Castle Hill is populated by multi-unit homes, housing projects, and tenements. — https://nabewise.com/castle-hill/
+
+### Building stock
+- There is a mixture of pre-war architecture, mid-century, and modern construction. Multi-unit attached and detached houses dominate much of the land area. — https://everything.explained.today/Castle_Hill,_Bronx/
+- The Castle Hill Houses take up significant land area in the southern part of the community along with the Mitchell-Lama Jamie Towers housing complex. — https://en.wikipedia.org/wiki/Castle_Hill,_Bronx
+- Landmark districts: EMPTY. None were found in Castle Hill.
+
+### Parks and landmarks
+- Castle Hill Park covers 7 acres at Barrett Ave and Howe Ave. — https://parkmagnet.com/united-states/new-york/new-york/castle-hill-park
+- Pugsley Creek's marshland in 1989 was formalized as Pugsley Creek Park, with walking trails added. The Addams Family character Pugsley was reportedly named after the creek, which shows up on a Bronx map. — https://forgotten-ny.com/2024/05/pugsley-creek-clason-point/
+- Castle Hill Point Park has boat ramps, fishing piers, and amazing views of the Throgs Neck and Whitestone Bridges. — https://kids.kiddle.co/Castle_Hill,_Bronx
+- In 2025, Castle Hill Houses opened the first dog park housed on NYCHA property. — https://www.designtrust.org/news/castle-hill-houses-residents-celebrate-nychas-first-dog-park/
+- Castle Hill YMCA: a review site calls it the only YMCA in the Bronx. That post is old and may be out of date. — https://nabewise.com/castle-hill/
+- The Castle Hill library branch moved to 947 Castle Hill Avenue in 1981. — https://everything.explained.today/Castle_Hill,_Bronx/
+
+### Recent local news (building security, home tech, entry systems)
+- February 2026: a water main break caused heat and water outages across the entire Castle Hill Houses complex. — https://abc7ny.com/post/castle-hill-nycha-housing-complex-dealing-no-heat-water-bronx/18588790/
+- Late 2025: police responded to a suspected murder-suicide at the Castle Hill Houses on Lacombe Avenue. — https://www.cbsnews.com/newyork/news/4-dead-inside-bronx-nycha-apartment/
+- News about intercoms, entry systems or home tech in Castle Hill specifically: EMPTY
+
+### Local Reddit discussion
+- r/CastleHill, r/Bronx and r/AskNYC threads about TV installation in Castle Hill: EMPTY
+- A secondhand quote from r/hometheater (not local) on renters mounting TVs: "99 times out of 100, you're losing the security deposit anyway." — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+
+### Yelp and other review sites (praise and complaints nearby)
+- **Praise:** a Castle Hill Yelp listing quotes a review saying the installer Even provided a cover up service for the loose wiring. — https://www.yelp.com/search?find_desc=Tv+Mounting+Service&find_loc=Castle+Hill%2C+Bronx%2C+NY
+- **Complaints:** a Thumbtack review for the Bronx says The last thumbtack guy told me I couldn't install a TV on a stone wall. The TV fell and broke. — https://www.thumbtack.com/ny/bronx/tv-wall-mount-install
+
+### NYC price benchmarks (for context)
+- One guide puts typical NYC jobs at between $150 and $350 for a standard installation, and $400 to $600+ once you add specialty walls. — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- One competitor charges $120 on drywall, $160 on brick or concrete, $180 above a fireplace. — https://flatrateassembly.com/tv-mounting-nyc
+
+### Hyperlocal outlets
+- Bronx Times covers Castle Hill regularly (Jamie Towers, the BID) — https://www.bxtimes.com/castle-hill-bid-signed-into-law/
+- News 12 Bronx — https://bronx.news12.com/castle-hill-business-improvement-district-celebrates-1-year
+- The Bronx Philosopher history series — https://thebronxphilosopher.com/2026/07/27/castle-hill-bronx/
+- Patch and BKReader coverage of Castle Hill: EMPTY
+
+### Questions people ask — TV Installation in Castle Hill
+- Google PAA (8–12 questions): EMPTY. I couldn't see Google's results directly.
+- Google PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing (including questions Google doesn't show): EMPTY
+- DuckDuckGo: EMPTY
+- What are NYCHA walls made of? How do I drill holes in them to hang stuff? — Forum (City-Data, not Reddit) — https://www.city-data.com/forum/new-york-city-housing-lottery/3091737-what-nycha-walls-made-how-do.html
+- How much does TV mounting cost in Castle Hill? — Competitor FAQ, not confirmed as a real search question — https://www.abstractenterprisessecuritysystems.com/tv-installation-castle-hill-bronx-ny
+- Can you mount a TV in Castle Hill Houses NYCHA? — Competitor FAQ — same URL
+- Same day TV installation Castle Hill Bronx? — Competitor FAQ — same URL
+- Where can I get my TV installed in the Bronx? — Competitor FAQ — https://abstractenterprisessecuritysystems.com/tv-installation-bronx
+- How much does TV mounting cost in the Bronx? — Competitor FAQ — same URL
+- Can you mount a TV on concrete or brick in a Bronx co-op? — Competitor FAQ — same URL
+- Can someone mount my TV today? — Competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-soundview-bronx-ny
+- How much do TV mounting services typically cost? — HomeAdvisor Bronx page — https://www.homeadvisor.com/tloc/Bronx-NY/TV-Wall-Mount/
+- Can a TV mounting service also install a home theater system? — Thumbtack Bronx cost guide — https://www.thumbtack.com/ny/bronx/tv-wall-mount-install
+- Do I need to buy the mount? — NYC competitor FAQ — https://hangit.nyc/
+- How much does it cost to mount a TV in NYC? — NYC competitor FAQ — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- Why does TV mounting cost more in NYC than other cities? — NYC competitor FAQ — https://pictureperfectmounting.com/?p=2751
+- What's the maximum TV size you can mount? / How long does a standard TV mount take? / Do I need to prepare anything before the appointment? — NYC competitor FAQ — https://nyctvguy.com/tv-mounting
+- Can you mount a TV in an apartment? / Can you mount a TV without drilling holes? — Renter guide FAQ (national) — https://www.apartmentlist.com/renter-life/can-you-mount-a-tv-in-an-apartment
+- Can I mount a TV on a brick wall in an apartment? — Renter guide FAQ (national) — https://renterdaily.com/hanging-tv-on-wall-in-apartment/
+- Any advice mounting a TV in an apartment unit over the fireplace? — Slickdeals forum (not local) — https://slickdeals.net/f/14363051-bestbuy-dotd-dynex-dynex-47-75-full-motion-tv-wall-mount-black-30
+- Related search "Flat Screen Tv Repair" — Yelp "People also searched for" on Castle Hill Electrical — https://www.yelp.com/biz/castle-hill-electrical-bronx
+
+## Clason Point, Bronx — /tv-installation-clason-point-bronx-ny (factory research, 2026-11-05)
+
+**Before you use this:** I ran out of searches, and the search tool can't show live Google, Bing or DuckDuckGo result pages. So People Also Ask, related searches, and the Bing/DuckDuckGo comparison are all **EMPTY**. I also found no Reddit threads, no Yelp complaints, and no city data (HPD, 311, DOB, LPC) specific to Clason Point. Every finding below has a source; anything I couldn't find says EMPTY.
+
+**Warning about one source:** several abstractenterprisessecuritysystems.com pages came up. They're competitor pages that look template-generated (one even misspells "Bronxdaledale"), and I couldn't confirm some of their claims, like which intercom brand dominates Clason Point Gardens. I only use them for basic counts that Wikipedia also confirms.
+
+### 1. TV installation facts specific to Clason Point
+
+**Building types and the mounting situations they create**
+- Harding Park bungalows: the first bungalows were built in the 1920s and the neighborhood was named after the current president, Warren Harding. The post-WWII housing shortage led many tenants to turn the bungalows into permanent homes. So expect converted seasonal cottages with mixed, patched-together walls. — https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- Some Harding Park bungalows appear to be fused together into a sprawling mega-bungalow, which means unpredictable framing. — https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- City Planning says Harding Park is characterized by a unique variety of lot sizes and construction types. — https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/harding-park.page
+- Harding Park is a co-op on the land: in 1981 the city sold the land to the Homeowners Association of Harding Park for $700,000, making it the first cooperatively owned low- and moderate-income community in New York. Exterior work (dishes, outdoor TVs) may involve the association. — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- Flood risk matters for outdoor TVs, low outlets and basement equipment: Harding Park faces storm-surge flooding and wave action plus ponding from rain, made worse by limited stormwater infrastructure. — https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/harding-park.page
+- 42.2% of Harding Park properties have flood risk this year, rising to 58.8% in 30 years. — https://firststreet.org/neighborhood/harding-park-ny/190668_fsid/flood
+- Some bungalows clearly succumbed to Hurricane Sandy, though are evidently inhabited. — https://citylore.org/sight-harding-park-tiny-houses-roosters-and-a-salt-marsh-in-the-bronx/
+- Shorehaven: it became the Shorehaven Condominiums in 1999, a gated community of 1,183 multi-unit condo townhomes. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- Shorehaven units are mostly duplexes and walk-ups, for example a corner second-floor walk-up duplex townhouse condominium. That means carrying TVs up stairs and possibly running cable between floors. — https://www.homes.com/bronx-ny/clason-point-neighborhood/community-pool/
+- Shorehaven access: 24-hour security, a fitness center, a swimming pool. Installers should plan for gate check-in and possibly condo insurance (COI) requirements; the COI part is my inference, not confirmed. — https://www.homes.com/bronx-ny/clason-point-neighborhood/condos-for-sale/
+- One Shorehaven listing mentions new recessed lighting throughout the condominiums on both floors, so expect drywall ceilings and newer framing. — https://www.csrealty.com/property/H6329684
+- Clason Point Gardens (NYCHA): opened in 1941 as the first public housing in the Bronx and NYCHA's first low-rise, garden-style development. — https://www.bxtimes.com/clason-point-gardens-marks-85-years-in-the-bronx/
+- Mostly two-story homes on about 17 acres, many with front and back yards. — https://www.bxtimes.com/clason-point-gardens-marks-85-years-in-the-bronx/
+- Bounded by Story, Seward, Noble and Metcalf avenues. — https://therealdeal.com/magazine/new-york-august-2013/this-month-in-real-estate-history-78/
+- Monroe Houses: twelve buildings of 8, 14 and 15 stories with 1,102 apartments, bordered by Soundview, Story, Taylor and Lafayette avenues. — https://en.wikipedia.org/wiki/James_Monroe_Houses
+- Soundview Houses: built in 1954 just south of Clason Point Gardens at Randall and Rosedale avenues, with 13 seven-story apartment buildings. — https://urbanareas.net/info/resources/neighborhoods-bronx/soundview-bronx-history/
+- Other housing: large apartment complexes including public housing, plus older apartment buildings and multi-unit rowhouses. — https://kids.kiddle.co/Clason_Point,_Bronx
+
+**Rules that affect TV work**
+- NYCHA house rules: residents may only install TV antennas inside their apartments. So no exterior dishes or antennas in NYCHA units. — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- Same rules on door cameras (useful for an add-on service): they must be wireless and tenants may not make holes in or alterations to the door, frame, or walls above and around the door. — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- Big Apple Connect: NYCHA residents without home internet can get internet and basic cable TV for as low as $0/month with Optimum or Spectrum. — https://access.nyc.gov/programs/big-apple-connect/
+- Optimum's list of participating developments includes Soundview and Monroe. In practice, TV setups there will often connect to an Optimum box. — https://www.optimum.com/program/big-apple-connect
+- Permits: mounting a TV alone usually needs no DOB permit, but opening a wall, building a recessed AV chase or moving circuits does. — https://hopplerdesignbuild.com/interior-design/media-walls-and-tv-placement-in-nyc-living-rooms/
+- Renters: most standard New York leases prohibit permanent alterations without written landlord consent, and drilling for a TV mount technically counts. — https://mountingnyc.com/blog/mounting-tv-nyc-rental-lease-rules-wall-repair-deposit/
+- HPD violations, 311 complaints, DOB permits specific to TV/AV work in 10473: **EMPTY**
+- LPC landmark rules or historic districts in Clason Point: **EMPTY** (none found)
+- Local news or Reddit threads specifically about TV installation in Clason Point: **EMPTY**
+
+**Businesses and blocks where it matters**
+- Clason Point is almost entirely residential. A few businesses are on Soundview Avenue: Maravillas (Ecuadorian), Fuggedaboutit (pizza) and Lechonera El Sazon Criollo (Puerto Rican). These are possible commercial TV jobs; their needs aren't confirmed. — https://www.homes.com/local-guide/bronx-ny/clason-point-neighborhood/
+- Shorehaven streets that show up in listings include Surf Dr, Sunset Blvd, Mermaid Ln, Admiral Ct and Heron Ln (all 10473). — https://www.homes.com/bronx-ny/clason-point-neighborhood/community-pool/
+
+### 2. History and development
+- The site of a large Native American settlement of more than seventy dwellings, known as "Snakapins," or "Land By The Two Waters." — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- In 1793 the Willetts divided Cornell's Neck, selling the eastern half to merchant Isaac Clason, from whom Clason Point takes its name. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- Clason Point Amusement Park operated from 1910 to 1935. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- 6 people died and 22 were injured on June 11, 1922, when a storm blew down an operating Ferris wheel. — https://www.welcome2thebronx.com/2018/08/a-brief-history-of-clason-point-in-the-bronx/
+- The Sound View Avenue streetcar line, originally the Clason Point Line, ran from 1909 until 1947. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- The amusement park site became the Shorehaven Beach Club in 1949, which operated until 1986. — https://en.wikipedia.org/wiki/Soundview,_Bronx
+- In the 1950s, Robert Moses declared all of Harding Park a slum and planned to replace the bungalows with modern apartment towers. The plan failed. — https://theneighborhoods.substack.com/p/clason-point-the-bronx
+- Undeveloped until the 1940s, it became a residential neighborhood as high-rise and co-op apartment complexes spread. — https://www.apartments.com/local-guide/clason-point-bronx-ny/
+
+### 3. Main streets, building stock, parks and landmarks
+- Soundview Avenue is the main road through Clason Point. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- Bx27: connects Shorehaven, Clason Point and Soundview to the Morrison Av-Soundview 6 subway station. — https://edc.nyc/press-release/bx27-service-expansion-accommodate-new-soundview-ferry-coming-summer
+- The neighborhood is almost suburban, as many residents live in single-family homes and own cars. That's relevant to parking for installer vans. — https://www.homes.com/local-guide/bronx-ny/clason-point-neighborhood/
+- Soundview Park is a 205-acre park on Clason Point. — https://en.wikipedia.org/wiki/Soundview_Park
+- NYC Ferry: the stop at the southeast end of Clason Point Park opened with the Soundview line in August 2018. — https://en.wikipedia.org/wiki/List_of_NYC_Ferry_stops
+- Known for being "Little Puerto Rico," with narrow streets and bungalow homes along the waterfront. — https://en.wikipedia.org/wiki/Clason_Point,_Bronx
+- Narrow streets and small former bungalows, often with very little space between houses facing each other. Tight access for vans and large TV boxes. — https://www.untappedcities.com/ethnic-micro-neighborhoods-nyc/
+- Some streets are interrupted midblock by properties, and others don't appear on any official maps. GPS and dispatch can fail here. — https://forgotten-ny.com/2018/08/clason-point-bronx/
+- Recent news: Clason Point Gardens marked its 85th anniversary in 2026, noted by Council Member Amanda Farías, who represents the area. — https://www.bxtimes.com/clason-point-gardens-marks-85-years-in-the-bronx/
+- Local news on building security, entry systems or home tech: **EMPTY**
+- Local Reddit discussion (r/Bronx, r/AskNYC, r/ClasonPoint): **EMPTY**
+
+### 4. Bronx and NYC pricing benchmarks and Yelp
+- TaskRabbit: TV mounting in the Bronx starts at $45/hour; cable management or drilling into a facade can take longer. — https://www.taskrabbit.com/locations/bronx/wall-mount-tv
+- Flat rate from $80 for TVs up to 49" to $175 for 75" and up. — https://www.nyc-tv-mounting.com/tv-mounting/bronx
+- On plaster, brick or concrete, expect $50 to $150 extra for masonry anchoring. — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- Yelp's Bronx top results include TVmount.nyc, Jcads, Primo Home Automations, Tonys Handy, Olsi Handyman. — https://www.yelp.com/search?cflt=tvmounting&find_loc=Bronx,+NY
+- Yelp praise: one reviewer said "We paid less than $300 for both the mounting service and the full…" — https://www.yelp.com/search?find_desc=Tv+Mounting&find_loc=Bronx,+NY
+- Yelp complaints: **EMPTY**
+- Hyperlocal outlets: Bronx Times covered Clason Point Gardens (above). Patch, BKReader or neighborhood-blog coverage of TV/AV topics: **EMPTY**
+
+### Questions people ask — TV Installation in Clason Point
+None of these were confirmed in a live Google PAA box. Most come from FAQ sections on competitor sites that may reflect search demand; I've labeled them that way rather than using one of your source labels.
+- How much does it cost to mount a TV in Bronx? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/bronx/wall-mount-tv
+- What services are included in TV mounting? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/bronx/wall-mount-tv
+- Can you mount a TV over a fireplace in The Bronx? — competitor FAQ — https://awesometvmounting.com/new-york/bronx-tv-mounting
+- Do you provide commercial TV mounting? — competitor FAQ — https://awesometvmounting.com/new-york/bronx-tv-mounting
+- How soon can you install my TV in The Bronx? — competitor FAQ — https://www.nyc-tv-mounting.com/tv-mounting/bronx
+- Can you hide the cords? — competitor FAQ — https://www.nyc-tv-mounting.com/tv-mounting/bronx
+- Do you provide TV mounting in The Bronx for homes and businesses? — competitor FAQ — https://aurxio.com/locations/usa/new-york/tv-mounting-the-bronx
+- How is your service different from Geek Squad? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-bronxdale-bronx-ny
+- Can you mount on brick or concrete? — competitor FAQ — https://hangit.nyc/
+- Does wall type change the price? — competitor FAQ — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- Will my wall hold a TV? / Does mounting a TV damage the wall? — competitor FAQ — https://nyctvguy.com/services/tv-mounting
+- Can you mount a TV in an apartment? — competitor FAQ — https://quickmounttv.com/blog/renter-friendly-tv-mounting/
+- Can you mount large TVs on walls in Housing Connect apartments? — City-Data forum (not Reddit) — https://www.city-data.com/forum/new-york-city-housing-lottery/3375620-tv-mounting.html
+- My landlord says I can't hang things on my walls. What's the deal? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-landlord-doesnt-want-items-hanging-on-walls-leases-repairs-nyc
+- Google PAA (8–12): **EMPTY**
+- People Also Search For / related searches: **EMPTY**
+- Answer the Public question fan-out: **EMPTY**
+- Bing-only or DuckDuckGo-only questions: **EMPTY**
+- Reddit (r/ClasonPoint, r/Bronx, r/AskNYC, r/homesecurity): **EMPTY**
+- Yelp questions or complaints: **EMPTY**
+
+**Other notes:**
+- Redfin's Clason Point pages say the neighborhood is in "Queens County" with about 92,936 people. Both look wrong, so I left them out.
+- Still to do: pull HPD, 311 and DOB data for ZIP 10473 from NYC Open Data, and capture PAA boxes and Reddit threads by hand in a browser.
+
+## Columbia Street Waterfront, Brooklyn — /tv-installation-columbia-street-waterfront-brooklyn-ny (factory research, 2026-11-05)
+
+**Method note:** I could only use a general web search tool. I had no direct access to Google People Also Ask, Bing, DuckDuckGo, AnswerThePublic, or NYC Open Data (HPD, 311, DOB). Fields I couldn't verify say EMPTY. Lines marked *(inference)* are my reasoning, not something a source states.
+
+### TV-installation angles specific to this neighborhood
+
+- The 22-block Columbia Street Waterfront District is a mix of classic brick rowhouses, low-rise factories — some converted to residential use — and newer mid-rise apartment houses. This means at least three wall situations: rowhouse masonry, heavy factory walls in loft conversions, and newer construction. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights
+- 1 Tiffany Place, a key loft condo: a five-story brick factory with a cellar, converted to 70 apartments on floors one through five. The conversion kept the industrial shell: large factory windows, loft ceilings of roughly 9 to 10.5 feet per listing records, and heavy masonry walls. *(inference: masonry anchors and surface raceways rather than in-wall cable runs)* — https://www.theroeblingteam.com/buildings/1-tiffany-place
+- 1 Tiffany Place is staffed. It has a twenty-four-hour doorman, a dedicated live-in resident superintendent, and a full-time porter, and listings call it the neighborhoods only 24-hr doorman building. *(inference: installers will likely need to schedule with building staff and may need to provide a COI)* — https://1tiffanyplace.hlres.com/ ; https://streeteasy.com/property/930006-1-tiffany-place-4c
+- Some 1 Tiffany Place units have a decorative fireplace, enormous windows with sky and water views and soaring ceilings. This raises the over-fireplace and glare/placement questions. — https://www.compass.com/listing/1-tiffany-place-unit-4f-brooklyn-ny-11231/1572541697764322433/
+- 1 Tiffany Place facts: Hurricane evacuation zone: Zone 4; Building class: R4 Condominiums – Residential Unit in Elevator Building. The building was formerly a Louis Comfort Tiffany warehouse. — https://streeteasy.com/building/1-tiffany-place-brooklyn
+- Tiffany Place: Numerous Tiffany Place industrial buildings have been converted to residential use. It's paved with cobblestones. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights
+- New construction: Work is done on 185 Columbia Street, a six-story, ten-unit project from Tan Architect and Hiu M. Cheng, at the intersection of Columbia and Degraw Streets. *(inference: a newer drywall building where in-wall wiring is more likely to be possible)* — https://newyorkyimby.com/2026/07/185-columbia-street-completes-construction-in-brooklyns-columbia-street-waterfront-district.html
+- Nearby loft (Red Hook side of the line, not inside the district): 160 Imlay St has 12-foot exposed concrete ceilings and was the first reinforced steel and concrete building in the United States (marketing claim). Concrete means hammer drills. — https://www.apartments.com/160-imlay-st-brooklyn-ny/ks0pceb/ ; https://www.hlres.com/listings/1883668/sale-red-hook
+- Rebuilt rowhouses: after the 1970s collapses, new brick rowhouses were constructed on the footprints of those lost to collapse, designed to echo 19th-century proportions and materials. So some brick fronts date from the 1980s, not the 1800s. — https://cityneighborhoods.nyc/columbia-street-waterfront
+- Transit and access: the area is not serviced by any subway stations. The nearest subway from 185 Columbia is the F and G trains at the Bergen Street station. *(inference: technicians mostly drive, so parking and travel time matter)* — https://terracrg.com/neighborhood/columbia-street-waterfront-district ; https://newyorkyimby.com/2026/07/185-columbia-street-completes-construction-in-brooklyns-columbia-street-waterfront-district.html
+- NYC wall pricing (benchmark): one NYC provider lists add-ons of Plaster or lath wall (add-on) | +$50 – $95 | Brick or concrete wall (add-on) | +$85 – $165 | Cord concealment in wall (add-on) | +$175 – $300. — https://asap.repair/blog/tv-mounting-nyc-apartment/
+- Another NYC provider says in-wall wire hiding (Advanced and Premium) works on drywall only. Its mid-tier package mentions COI if your building needs one. — https://nyctvmounted.com/
+- Rental permission: The safest approach: get written permission from your landlord before mounting. — https://mountingnyc.com/blog/mounting-tv-nyc-rental-lease-rules-wall-repair-deposit/
+- Local businesses with AV/TV relevance: Jalopy Theatre, 315 Columbia Street; Alma at 187 Columbia Street. Three floors of fun at this Columbia Street Waterfront District restaurant, bar, sidewalk cantina, and rooftop. *(inference: possible bar/commercial TV prospects; no source says they need service)* — https://yourbrooklynguide.com/columbia-street-waterfront-district/
+- HPD violations: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY. StreetEasy links to DOB documents for 1 Tiffany Place, but I didn't retrieve them.
+- LPC: EMPTY for any district inside this neighborhood. The neighboring Cobble Hill Historic District is roughly bordered by Atlantic Avenue to the north, Court Street to the east, Degraw Street to the south, and Hicks Street to the west. *(inference: that puts it east of the BQE trench)* — https://en.wikipedia.org/wiki/Cobble_Hill,_Brooklyn
+- Local news or Reddit specifically about TV installation in this neighborhood: EMPTY
+
+### History and development
+
+- The neighborhood was formed in 1957 when the newly built BQE effectively cut Columbia Street off from Carroll Gardens and Cobble Hill. — https://en.wikipedia.org/wiki/Columbia_Street_Waterfront_District
+- Columbia Street was laid out in the 1830s as part of South Brooklyn's expansion toward the harbor. — https://cityneighborhoods.nyc/columbia-street-waterfront
+- From the early 1800s to the 1880s, nearly all of the area's residents were Irish working at the nearby piers. — https://www.nabetags.com/columbia-street-waterfront-district/
+- In the 1970s, a sewer project dug up Columbia Street, and some buildings collapsed from their foundations being undermined. — https://brooklyneagle.com/325735/columbia-street-waterfront-district-history/
+- In the early 1980s, the city named the neighborhood a renewal district and began to tear down unusable buildings while designing a plan for new buildings to be built no higher than three stories. — https://brooklyneagle.com/325735/columbia-street-waterfront-district-history/
+- Who rebuilt it: The Columbia Street Regeneration Committee—formed by local families and the South Brooklyn Local Development Corporation—secured city and state funding to rebuild the neighborhood block by block. — https://cityneighborhoods.nyc/columbia-street-waterfront
+- By 1984, an urban renewal project was completed, as well as a brand-new street, houses along which sold out quickly. — https://en.wikipedia.org/wiki/Columbia_Street_Waterfront_District
+- Other names: Some real estate agents at the time preferred to call it Cobble Hill West. Some then just referred to it as "West of the Trench". — https://brooklyneagle.com/articles/2025/07/09/how-columbia-street-waterfront-district-got-its-name/
+
+### Streets, corridors and building stock
+
+- Columbia Street is the neighborhood's backbone, spanning north to Atlantic Avenue — the border with Brooklyn Heights — and continuing down south to Red Hook. — https://www.corcoran.com/neighborhoods/guide/new-york-city/columbia-street-waterfront-district
+- Erstwhile factories have undergone condo conversions, and side streets like President and Carroll feel like continuations of their cross-highway counterparts, lined with multi-family townhouses. — https://www.corcoran.com/neighborhoods/guide/new-york-city/columbia-street-waterfront-district
+- On Summit Street between Hicks and Columbia, numerous old-fashioned brick rowhouses have porticoes made of lacy-looking black metal filigree. Also, just a short stretch of Van Brunt Street is located within the Columbia Street Waterfront District. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights
+- Kane Street: Until 1928 Kane Street was known as Harrison Street. The building stock includes Warren Street between Hicks and Columbia, the same brick attached buildings you see east of the BQE. — https://forgotten-ny.com/2011/03/columbia-waterfront-brooklyn/
+- Openigloo lists 191+ buildings in the district. — https://www.openigloo.com/buildings/brooklyn/columbia-st-waterfront-district
+- Population: 4,409 people live in Columbia St Waterfront District, where the median age is 40 and the average individual income is $104,616. — https://decodenyc.com/neighborhoods/columbia-st-waterfront-district
+
+### Parks, landmarks and what it's known for
+
+- The Waterfront Garden (1984) and later the Columbia Street Esplanade (1998) provided green corridors overlooking the piers. — https://cityneighborhoods.nyc/columbia-street-waterfront
+- Columbia Waterfront Park is located on Columbia Street between Degraw and Kane Streets, part of the Brooklyn Greenway Initiative. — https://www.6sqft.com/a-neighborhood-revival-brooklyns-columbia-street-on-a-comeback/
+- The Mary A. Whalen, a decommissioned 1938 oil tanker moored at Pier 9, serves as the headquarters of PortSide NewYork. — https://cityneighborhoods.nyc/columbia-street-waterfront
+- The Sculpture House at 82 DeGraw Street is a private residence whose front became a sculpture garden. — https://yourbrooklynguide.com/columbia-street-waterfront/
+- Known for Pok Pok: The area arguably "arrived" with the opening in 2012 of James Beard Award winner Andy Ricker's Pok Pok at 127 Columbia Street. — https://www.6sqft.com/a-neighborhood-revival-brooklyns-columbia-street-on-a-comeback/
+- Also known for Ferdinando's Focacceria Restaurant, a 100-year-old favorite. — https://www.apartments.com/local-guide/columbia-street-waterfront-district-brooklyn-ny/
+
+### Recent news that bears on installs
+
+- Brooklyn Marine Terminal: A task force comprised of elected officials and local leaders voted 17-8 Monday to approve a controversial $3.5 billion redevelopment plan. The plan includes 6,000 new housing units, 28 acres of open space. — https://brooklyneagle.com/339689/brooklyn-marine-terminal-redevelopment-passes-in-controversial-monday-vote/
+- Timeline: EDC hopes to have a GPP approval in late 2026, and construction is set to roll out in phases until 2038. The plan floats bus-only paths on bottlenecks like Columbia Street. *(inference: future truck traffic, access and parking problems)* — https://nyc.streetsblog.org/2025/09/22/government-malpractice-marine-terminal-redevelopment-gets-approval-despite-massive-transportation-concerns
+- On April 1, 2026, the city extended the comment period on the project's Draft Scope of Work at the last minute. — https://brooklyneagle.com/neighborhood/columbia-waterfront/
+- Building security, entry systems or smart-home news: EMPTY. Only the 1 Tiffany Place listing mentions 24-hour security cameras. — https://streeteasy.com/property/930006-1-tiffany-place-4c
+
+### Questions people ask — TV Installation in Columbia Street Waterfront
+
+- PAA (Google): EMPTY. Not accessible.
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo differences: EMPTY
+- Reddit (r/ColumbiaStreetWaterfront, r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY. No threads came up. One provider blog claims Renters on Reddit say they mount their TVs anyway and rarely hear about it from the landlord. That's secondhand, not a thread. — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Patch / BKReader / hyperlocal outlets on TV installation: EMPTY
+
+Questions actually found:
+
+- Can anyone recommend a reliable service or professional for mounting a TV? — Yelp — https://www.yelp.com/search?find_desc=Tv+Mounting+Service&find_loc=Brooklyn%2C+NY
+- Does anyone have recommendations for professionals or services that specialize in wire and cable concealment? — Yelp — same URL
+- Can anyone recommend a reliable service for flat screen TV installation? — Yelp — same URL
+- Can anyone recommend a professional for hanging a TV? — Yelp — same URL
+- What are some popular services for tv mounting? — Yelp — https://www.yelp.com/search?find_desc=Tv+Mounting+Service&find_loc=Brooklyn%2C+NY
+- What are people saying about tv mounting services in Brooklyn, NY? — Yelp — https://www.yelp.com/search?find_desc=tv+mounting&find_loc=Brooklyn,+NY
+- Can you mount large tv on walls in housing connect apartments? — City-Data forum (not on the list) — https://www.city-data.com/forum/new-york-city-housing-lottery/3375620-tv-mounting.html
+- How much does it cost to mount a TV? — Thumbtack cost guide (not on the list) — https://www.thumbtack.com/ny/new-york/tv-wall-mount-install
+- Can a TV mounting service also install a home theater system? — Thumbtack (not on the list) — https://www.thumbtack.com/ny/brooklyn/tv-wall-mount-install
+- Can you mount a TV in a NYC rental apartment without losing your deposit? — provider FAQ (not on the list) — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- How much does TV mounting cost in NYC? / Does wall type change the price? — provider FAQ (not on the list) — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- How much does professional TV mounting on plaster walls cost in NYC? — provider FAQ (not on the list) — https://pictureperfectmounting.com/best-tv-mount-plaster-walls-nyc/
+- How much is TV mounting on plaster? / Can you mount a TV on plaster walls in a Manhattan pre-war? / Can you hide wires in a Manhattan apartment? — provider FAQ (not on the list) — https://www.abstractenterprisessecuritysystems.com/tv-installation-manhattan
+- How do I hide the TV cables? — provider FAQ (not on the list) — https://nyctvguy.com/blog/how-to-mount-tv-on-wall
+- Do you offer same-day TV mounting service in NYC? — provider FAQ (not on the list) — https://wemountthings.com/tv-mounting-hanging
+- What is included in the TV mounting service? / How much does the TV mount services cost? — provider FAQ (not on the list) — https://geeksonsite.com/us/new-york/brooklyn/t
+
+## Crown Heights, Brooklyn — /tv-installation-crown-heights-brooklyn-ny (factory research, 2026-11-05)
+
+**Search limits:** My search tool returns ordinary web results. It can't show Google's People Also Ask or People Also Search For boxes, AnswerThePublic, or Bing and DuckDuckGo results side by side. Every one of my Reddit-specific searches came back with no Reddit threads. I've marked those parts EMPTY and haven't filled them with guesses.
+
+**TV-installation facts specific to Crown Heights**
+- Walls are a deciding factor. Older brick buildings in Crown Heights, Prospect Heights and Fort Greene are described as a different challenge from drywall — https://pictureperfectmounting.com/tv-mounting-brooklyn/
+- One installer says Brooklyn brownstones and Crown Heights row houses frequently have exposed brick or brick hidden behind layers of plaster — https://www.abstractenterprisessecuritysystems.com/tv-installation-brooklyn
+- In pre-war plaster, find studs inside it or use toggle bolts through the wooden lath. Magnets do NOT work for finding studs in plaster walls — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Mounting above the fireplace is common. One competitor says it is popular in Crown Heights and that they can run cables down through the chimney chase or through the wall beside the fireplace — https://nyctvguy.com/tv-mounting-crown-heights
+- The same competitor says many Eastern Parkway-facing blocks have three and four-story limestone buildings — https://nyctvguy.com/tv-mounting-crown-heights
+- A competitor already targets the Shabbat angle. It offers same-day installs not Friday afternoon in Crown Heights South, lists ZIPs 11213/11216/11225/11238, and quotes Drywall in renovated rowhouses and new Franklin Avenue condos: $185 — https://www.abstractenterprisessecuritysystems.com/tv-installation-crown-heights-brooklyn-ny
+- Certificates of insurance (COIs): Some Brooklyn condos do require a Certificate of Insurance — https://pictureperfectmounting.com/tv-mounting-brooklyn/
+- New mid-rises bring glass walls. Transit corridors have mid-rise, luxury full-service buildings emerging near subway hubs that introduce contemporary floor-to-ceiling glass fenestration — https://www.jamesfinelliteam.com/app/neighborhoods/crown-heights
+- New construction: The Eve is a seven-story building at 827 Sterling Place, between Nostrand and Rogers Avenues. It is all-electric, and its amenities include a virtual doorman. Six new buildings yield a combined 230 rental and condominium units — https://newyorkyimby.com/2026/06/six-new-buildings-add-230-residential-units-to-crown-heights-brooklyn.html
+
+**City data: HPD, 311, DOB, LPC**
+- 311 has a Cable Complaint Report a problem with a cable TV, phone, or internet provider category. Its electrical category covers defective or exposed wiring in a building — https://portal.311.nyc.gov/report-problems/
+- 212 Crown St had an HPD Class B violation in April 2026: Properly Repair Or Replace The Broken Or Defective Intercomunication System At Building Front — https://augrented.com/nyc/3012960008-212-crown-street
+- 1367 Dean St had a March 2026 HPD violation for an Unsafe Electric Wiring Condition. The neighborhood average is 36.1 HPD violations (third-party aggregator) — https://augrented.com/nyc/3012090068-1367-dean-street
+- A Sterling Place building has 23 Department of Buildings violations and 435 open HPD violations — https://brooklyn.news12.com/crown-heights-tenant-pushed-to-the-brink-after-years-of-leaks-and-violations
+- DOB / NYS Multiple Dwelling Law: No radio, antennae or other wires shall be attached to fire escapes. LPC approval is needed if in Landmark District — https://www.nyc.gov/assets/buildings/pdf/code_notes_antenna-cellular-telecom-alterations.pdf
+- DOB says rooftop antennas may extend no more than 6' above the height of the roof or parapet — https://www.nyc.gov/site/buildings/industry/project-requirements-design-professional-antennas.page
+- LPC counts satellite dishes as non-occupiable rooftop structures, listed with stair and elevator bulkheads, skylights, satellite dishes — https://nyskylightinstallers.com/nyc-skylight-permits
+- LPC issues Certificates of No Effect, Permits for Minor Work, and Certificates of Appropriateness — https://www.nyc.gov/assets/lpc/downloads/pdf/relocation_of_mech.pdf
+- Under the federal FCC dish rule, restrictions are allowed if necessary to preserve a recognized historic district — https://www.atgf.com/tools-publications/pubs/fcc-homeowners-associations-and-satellite-dishes
+- DOB permits for TV mounting specifically: EMPTY
+
+**History and development**
+- first settled in the 1600s and was farmed by African-American slaves for their Dutch owners. Eastern Parkway... was laid out in 1868 — https://brooklyneagle.com/326183/crown-heights-history/
+- Walk-ups were soon built for large numbers of Lubavitch Hasidim who had emigrated from the Soviet Union in the 1940s — https://brooklyneagle.com/326183/crown-heights-history/
+- The name came from "Crown Hill" and came into common use in the 1890s — https://cityneighborhoods.nyc/crown-heights
+- Most of Crown Heights North's row house stock was built in the last decade of the 19th century through the first decade of the 20th. Developer Charles Goell built Colonial Revival houses south of Eastern Parkway — https://www.brownstoner.com/neighborhood/crown-heights/crown-heights-brooklyn-20th-century-housing-history-1402-carroll-street-charles-goell-garage-servants/
+- Rapid development followed the 1888 opening of the Kings County Elevated Railway — https://www.citylandnyc.org/third-northern-crown-heights-historic-district-designated/
+
+**Landmark districts and building stock**
+- Phase I (2007): 472 buildings in Crown Heights North, built from the 1860s to the 1930s — https://gothamist.com/news/lpc-approves-crown-heights-north-historic-district
+- Phase II (2011): around 600 buildings in the area bounded by Bergen Street and Eastern Parkway, between Nostrand and Brooklyn avenues — https://www.brownstoner.com/history/chn-historic-district-approved-next-phase-is-calendered/
+- Phase III (March 24, 2015): mostly between Brooklyn and Albany avenues, from Pacific St to Lincoln Pl — https://www.dnainfo.com/new-york/20150324/crown-heights/more-than-600-homes-added-crown-heights-historic-district/
+- Sources disagree on the number of districts. LPC says three historic districts (https://www.nyc.gov/assets/lpc/downloads/pdf/walking-tours/LPC_WalkingTour_Crown_Heights.pdf), while TerraCRG says four historic districts (https://www.terracrg.com/neighborhood/crown-heights)
+- Most housing is limestone and brownstone rowhouses built between 1890 and 1915. Mid-rise condos have gone up near Franklin and Nostrand since 2015 — https://reinventny.com/blog/crown-heights
+- Weeksville and the east side have Brick two and three are family houses, and small condo buildings — https://rahmeteam.com/blog/crown-heights-neighborhoods-guide
+
+**Streets, parks and landmarks**
+- Olmsted's Eastern Parkway divides the neighborhood north and south. The neighborhood's main commercial streets are Nostrand, Kingston, and Franklin avenues. Boundaries: Washington Avenue to the west, Atlantic Avenue to the north, Ralph Avenue to the east, and Empire Boulevard to the south — https://www.brickunderground.com/live/neighborhood-secrets-crown-heights
+- Landmarks include the Weeksville Heritage Center on Buffalo Ave, one of America's first free black communities — https://en.wikipedia.org/wiki/Weeksville_Heritage_Center
+- The Brooklyn Children's Museum is near Brower Park, and there are tennis courts at Lincoln Terrace — https://www.homes.com/local-guide/brooklyn-ny/crown-heights-neighborhood/
+- Other landmarks: the Jewish Children's Museum on Eastern Parkway — https://www.lodenbklyn.com/blog/a-guide-to-living-in-crown-heights-bklyn ; the 23rd Regiment Armory at 1322 Bedford Ave — LPC walking tour PDF above
+- Known for the annual West Indian Day Parade along Eastern Parkway — https://reinventny.com/blog/crown-heights
+
+**Recent news on building security and entry**
+- At 240 Crown St, a man got someone to buzz him in and then took packages from the lobby. The building has 135 units — https://brooklyn.news12.com/man-appears-to-use-child-in-a-stroller-to-get-inside-crown-heights-building-and-steal-package
+- A thief entered the foyer of 1492 Union St. and made off with an e-scooter — https://brooklyn.news12.com/2026/01/16/bicyclist-caught-on-video-fleeing-with-stolen-package-moments-after-stealing-nearby-e-scooter-in-crown-heights/53UDG7lUkNnyc6cIuJvIAk
+- In October 2026, Shomrim volunteers retrieved video footage related to the theft, which led to an arrest — https://crownheights.info/crime/963748/one-arrested-for-package-theft-in-crown-heights-thanks-to-shomrim-and-nypd/
+- A car rammed 770 Eastern Parkway on January 28th, 2026 — https://en.wikipedia.org/wiki/Chabad_headquarters_car_ramming_attack
+
+**Businesses and pricing nearby**
+- Yelp lists Andrew's TV Installation, Brooklyn Tv Guys, Fast Tech Pros, KJD AV Design, NYC TV Mounts and others near Crown Heights — https://www.yelp.com/search?find_desc=cable+tv&find_loc=Crown+Heights%2C+Brooklyn%2C+NY
+- NYC prices: $120 on drywall, $160 on brick or concrete, $180 above a fireplace — https://flatrateassembly.com/tv-mounting-nyc
+- Another source: between $150 and $350 for a standard installation, and $400 to $600+ with extras — https://mountingnyc.com/blog/tv-mounting-cost-in-nyc/
+- Andrew's TV Installation posts a price: My charge to mount your TV on the wall is $150 — https://www.yelp.com/biz/andrews-tv-installation-brooklyn
+- Yelp praise: He took the time to go over with me the positioning of the mount and the type of anchors — same URL
+- Complaint (Thumbtack, not Yelp): the installer had to drill four extra holes in the dry wall the size of a quarter — https://www.thumbtack.com/ny/brooklyn/tv-wall-mount-install
+- Local Reddit threads: EMPTY. The only Reddit material is a second-hand renter quote from r/hometheater on nyctvguy.com.
+- Patch, BKReader and neighborhood-blog coverage of TV installation: EMPTY
+
+### Questions people ask — TV Installation in Crown Heights
+None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo results. Each one says where it actually appeared.
+- How much does TV installation cost in Crown Heights? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-crown-heights-brooklyn-ny
+- How long does installation take? — competitor FAQ — same URL
+- Can you mount a TV above a fireplace in a Crown Heights brownstone? — competitor FAQ — https://nyctvguy.com/tv-mounting-crown-heights
+- Do you serve Crown Heights South near Lefferts Avenue? — competitor FAQ — same URL
+- Can you mount a TV on brick in my Brooklyn brownstone? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/tv-installation-brooklyn
+- Can I mount a TV in my Brooklyn apartment? — competitor FAQ — same URL
+- Does my Brooklyn condo require a COI? — competitor FAQ — https://pictureperfectmounting.com/tv-mounting-brooklyn/
+- How much does TV mounting cost in New York? — Airtasker FAQ — https://www.airtasker.com/us/services/tv-wall-mounting/new-york-ny/
+- Can you mount a TV in a NYC rental apartment without losing your deposit? — blog FAQ — https://nyctvguy.com/blog/mounting-tv-nyc-apartment
+- Can you mount on plaster? — blog FAQ — same URL
+- What's the maximum TV size you can mount? / Do I need to buy the mount separately? / How long does a standard TV mount take? — competitor FAQ — https://nyctvguy.com/tv-mounting
+- Can a TV mounting service also install a home theater system? — Thumbtack FAQ — https://www.thumbtack.com/ny/brooklyn/tv-wall-mount-install
+- What are people saying about tv mounting services in Brooklyn, NY? — Yelp FAQ — https://www.yelp.com/search?cflt=tvmounting&find_loc=Brooklyn%2C+NY
+- PAA: EMPTY · PASF: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo: EMPTY · Reddit: EMPTY

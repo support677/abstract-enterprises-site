@@ -1,20 +1,20 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01FYumBQketmdqMj11U5gBKn",
-   "submitted": "2026-11-05T09:22Z",
+   "id": "msgbatch_014cZY3WHF5fjdnEbsFX6Mxq",
+   "submitted": "2026-11-05T21:24Z",
    "pages": {
     "p0": {
      "status": "TODO",
-     "slug": "avycon-camera-installation-nyc",
-     "silo": "AVYCON Camera Installation",
+     "slug": "first-alert-camera-installation-nyc",
+     "silo": "First Alert Camera Installation",
      "area": "NYC hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 1107,
-     "silo_key": "avycon-camera-installation",
+     "line_no": 1125,
+     "silo_key": "first-alert-camera-installation",
      "area_key": "nyc",
      "nbhd": "NYC hub",
      "borough": "NYC",
@@ -23,77 +23,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-nyc-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-nyc-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -102,95 +102,95 @@
     },
     "p1": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-ocean-parkway-brooklyn-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Ocean Parkway, Brooklyn",
-     "up": "/structured-cabling-installation-brooklyn",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "slug": "tv-installation-bronxwood-bronx-ny",
+     "silo": "TV Installation",
+     "area": "Bronxwood, Bronx",
+     "up": "/tv-installation-bronx",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 680,
-     "silo_key": "structured-cabling-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Ocean Parkway",
-     "borough": "Brooklyn",
-     "nb_slug": "ocean-parkway",
-     "exemplar": "structured-cabling-installation-greenwood-heights-brooklyn-ny",
+     "line_no": 698,
+     "silo_key": "tv-installation",
+     "area_key": "bronx",
+     "nbhd": "Bronxwood",
+     "borough": "Bronx",
+     "nb_slug": "bronxwood",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-ceiling-tile-cable-drop-occupied-offi.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-ocean-parkway-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-bronxwood-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
@@ -198,15 +198,15 @@
     },
     "p2": {
      "status": "TODO",
-     "slug": "avycon-camera-installation-long-island",
-     "silo": "AVYCON Camera Installation",
+     "slug": "first-alert-camera-installation-long-island",
+     "silo": "First Alert Camera Installation",
      "area": "Long Island hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 1108,
-     "silo_key": "avycon-camera-installation",
+     "line_no": 1126,
+     "silo_key": "first-alert-camera-installation",
      "area_key": "long-island",
      "nbhd": "Long Island hub",
      "borough": "Long Island",
@@ -215,77 +215,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-long-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-long-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -294,95 +294,95 @@
     },
     "p3": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-pelham-bay-bronx-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Pelham Bay, Bronx",
-     "up": "/structured-cabling-installation-bronx",
+     "slug": "tv-installation-bruckner-bronx-ny",
+     "silo": "TV Installation",
+     "area": "Bruckner, Bronx",
+     "up": "/tv-installation-bronx",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 681,
-     "silo_key": "structured-cabling-installation",
+     "line_no": 699,
+     "silo_key": "tv-installation",
      "area_key": "bronx",
-     "nbhd": "Pelham Bay",
+     "nbhd": "Bruckner",
      "borough": "Bronx",
-     "nb_slug": "pelham-bay",
-     "exemplar": "structured-cabling-installation-mount-hope-bronx-ny",
+     "nb_slug": "bruckner",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-pelham-bay-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-bruckner-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
@@ -390,15 +390,15 @@
     },
     "p4": {
      "status": "TODO",
-     "slug": "avycon-camera-installation-hudson-valley",
-     "silo": "AVYCON Camera Installation",
+     "slug": "first-alert-camera-installation-hudson-valley",
+     "silo": "First Alert Camera Installation",
      "area": "Hudson Valley hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Bronx",
      "rebuild": false,
-     "line_no": 1109,
-     "silo_key": "avycon-camera-installation",
+     "line_no": 1127,
+     "silo_key": "first-alert-camera-installation",
      "area_key": "hudson-valley",
      "nbhd": "Hudson Valley hub",
      "borough": "Hudson Valley",
@@ -407,77 +407,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-ceiling-tile-cable-drop-occupied-offi.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/avycon-camera-installation/avycon-camera-installation-hudson-valley-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-hudson-valley-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -486,95 +486,95 @@
     },
     "p5": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-port-morris-bronx-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Port Morris, Bronx",
-     "up": "/structured-cabling-installation-bronx",
+     "slug": "tv-installation-castle-hill-bronx-ny",
+     "silo": "TV Installation",
+     "area": "Castle Hill, Bronx",
+     "up": "/tv-installation-bronx",
      "phone": "(646) 490-0629",
      "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 682,
-     "silo_key": "structured-cabling-installation",
+     "line_no": 700,
+     "silo_key": "tv-installation",
      "area_key": "bronx",
-     "nbhd": "Port Morris",
+     "nbhd": "Castle Hill",
      "borough": "Bronx",
-     "nb_slug": "port-morris",
-     "exemplar": "structured-cabling-installation-mount-hope-bronx-ny",
+     "nb_slug": "castle-hill",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-port-morris-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-castle-hill-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
@@ -582,15 +582,15 @@
     },
     "p6": {
      "status": "TODO",
-     "slug": "capture-camera-installation-nyc",
-     "silo": "Capture Camera Installation",
+     "slug": "geovision-camera-installation-nyc",
+     "silo": "GeoVision Camera Installation",
      "area": "NYC hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 1110,
-     "silo_key": "capture-camera-installation",
+     "line_no": 1128,
+     "silo_key": "geovision-camera-installation",
      "area_key": "nyc",
      "nbhd": "NYC hub",
      "borough": "NYC",
@@ -599,77 +599,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/capture-camera-installation/capture-camera-installation-nyc-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-nyc-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -678,95 +678,95 @@
     },
     "p7": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-prospect-heights-brooklyn-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Prospect Heights, Brooklyn",
-     "up": "/structured-cabling-installation-brooklyn",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
+     "slug": "tv-installation-clason-point-bronx-ny",
+     "silo": "TV Installation",
+     "area": "Clason Point, Bronx",
+     "up": "/tv-installation-bronx",
+     "phone": "(646) 490-0629",
+     "gbp": "Bronx",
      "rebuild": true,
-     "line_no": 683,
-     "silo_key": "structured-cabling-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Prospect Heights",
-     "borough": "Brooklyn",
-     "nb_slug": "prospect-heights",
-     "exemplar": "structured-cabling-installation-greenwood-heights-brooklyn-ny",
+     "line_no": 701,
+     "silo_key": "tv-installation",
+     "area_key": "bronx",
+     "nbhd": "Clason Point",
+     "borough": "Bronx",
+     "nb_slug": "clason-point",
+     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-ceiling-tile-cable-drop-occupied-o.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-heights-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-clason-point-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
@@ -774,15 +774,15 @@
     },
     "p8": {
      "status": "TODO",
-     "slug": "capture-camera-installation-long-island",
-     "silo": "Capture Camera Installation",
+     "slug": "geovision-camera-installation-long-island",
+     "silo": "GeoVision Camera Installation",
      "area": "Long Island hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Brooklyn",
      "rebuild": false,
-     "line_no": 1111,
-     "silo_key": "capture-camera-installation",
+     "line_no": 1129,
+     "silo_key": "geovision-camera-installation",
      "area_key": "long-island",
      "nbhd": "Long Island hub",
      "borough": "Long Island",
@@ -791,77 +791,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/capture-camera-installation/capture-camera-installation-long-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-long-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -870,95 +870,95 @@
     },
     "p9": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-prospect-park-south-brooklyn-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Prospect Park South, Brooklyn",
-     "up": "/structured-cabling-installation-brooklyn",
+     "slug": "tv-installation-columbia-street-waterfront-brooklyn-ny",
+     "silo": "TV Installation",
+     "area": "Columbia Street Waterfront, Brooklyn",
+     "up": "/tv-installation-brooklyn",
      "phone": "(347) 934-8335",
      "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 684,
-     "silo_key": "structured-cabling-installation",
+     "line_no": 702,
+     "silo_key": "tv-installation",
      "area_key": "brooklyn",
-     "nbhd": "Prospect Park South",
+     "nbhd": "Columbia Street Waterfront",
      "borough": "Brooklyn",
-     "nb_slug": "prospect-park-south",
-     "exemplar": "structured-cabling-installation-greenwood-heights-brooklyn-ny",
+     "nb_slug": "columbia-street-waterfront",
+     "exemplar": "tv-installation-wingate-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-ceiling-tile-cable-drop-occupie.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-finished-network-rack-firewall.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-prospect-park-south-network-installation-bronx-network-rack-cleanup-before-aft.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-columbia-street-waterfront-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
@@ -966,15 +966,15 @@
     },
     "p10": {
      "status": "TODO",
-     "slug": "capture-camera-installation-hudson-valley",
-     "silo": "Capture Camera Installation",
+     "slug": "geovision-camera-installation-hudson-valley",
+     "silo": "GeoVision Camera Installation",
      "area": "Hudson Valley hub",
      "up": "/",
      "phone": "(800) 486-0943",
      "gbp": "Bronx",
      "rebuild": false,
-     "line_no": 1112,
-     "silo_key": "capture-camera-installation",
+     "line_no": 1130,
+     "silo_key": "geovision-camera-installation",
      "area_key": "hudson-valley",
      "nbhd": "Hudson Valley hub",
      "borough": "Hudson Valley",
@@ -983,77 +983,77 @@
      "images": [
       {
        "n": 1,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-cable-labeling-port-map.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-cable-labeling-port-map.webp",
        "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
        "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
        "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
        "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-finished-network-rack-firewall-ups.webp",
        "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-fluke-dsx-certification-pass.webp",
        "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
        "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-managed-poe-switch-rack-install.webp",
        "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-network-cable-toner-tracing.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-network-cable-toner-tracing.webp",
        "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-network-drop-conduit-emt-riser.webp",
        "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/capture-camera-installation/capture-camera-installation-hudson-valley-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "src": "/images/geovision-camera-installation/geovision-camera-installation-hudson-valley-network-installation-bronx-network-rack-cleanup-before-after.webp",
        "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
@@ -1062,95 +1062,95 @@
     },
     "p11": {
      "status": "REBUILD",
-     "slug": "structured-cabling-installation-silver-beach-bronx-ny",
-     "silo": "Structured Cabling Installation",
-     "area": "Silver Beach, Bronx",
-     "up": "/structured-cabling-installation-bronx",
-     "phone": "(646) 490-0629",
-     "gbp": "Bronx",
+     "slug": "tv-installation-crown-heights-brooklyn-ny",
+     "silo": "TV Installation",
+     "area": "Crown Heights, Brooklyn",
+     "up": "/tv-installation-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
      "rebuild": true,
-     "line_no": 685,
-     "silo_key": "structured-cabling-installation",
-     "area_key": "bronx",
-     "nbhd": "Silver Beach",
-     "borough": "Bronx",
-     "nb_slug": "silver-beach",
-     "exemplar": "structured-cabling-installation-mount-hope-bronx-ny",
+     "line_no": 703,
+     "silo_key": "tv-installation",
+     "area_key": "brooklyn",
+     "nbhd": "Crown Heights",
+     "borough": "Brooklyn",
+     "nb_slug": "crown-heights",
+     "exemplar": "tv-installation-wingate-brooklyn-ny",
      "images": [
       {
        "n": 1,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-cable-labeling-port-map.webp",
+       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 2,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull on a working premises",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
+       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 3,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-ceiling-tile-cable-drop-occupied-offic.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
+       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 4,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
+       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 5,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-finished-network-rack-firewall-ups.webp",
+       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
        "w": 1122,
        "h": 1402
       },
       {
        "n": 6,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-fluke-dsx-certification-pass.webp",
+       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 7,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
+       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 8,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-managed-poe-switch-rack-install.webp",
+       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
        "w": 1402,
        "h": 1122
       },
       {
        "n": 9,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-network-cable-toner-tracing.webp",
+       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 10,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-network-drop-conduit-emt-riser.webp",
+       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
        "w": 1448,
        "h": 1086
       },
       {
        "n": 11,
-       "src": "/images/structured-cabling-installation/structured-cabling-installation-silver-beach-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after views of a rack, first unlabelled and tangled, then rebuilt dressed and identified",
+       "src": "/images/tv-installation/tv-installation-crown-heights-network-installation-bronx-network-rack-cleanup-before-after.webp",
+       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
        "w": 1402,
        "h": 1122
       }
