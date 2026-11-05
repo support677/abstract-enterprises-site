@@ -1088,7 +1088,7 @@ BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-nyc | Wyze Camera 
 BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-long-island | Wyze Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T21:09Z factory | wyze-camera-installation-hudson-valley | Wyze Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | blink-camera-installation-nyc | Blink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T00:08Z factory | blink-camera-installation-long-island | Blink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | blink-camera-installation-long-island | Blink Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | blink-camera-installation-hudson-valley | Blink Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | tp-link-tapo-camera-installation-nyc | Tapo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | tp-link-tapo-camera-installation-long-island | Tapo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
