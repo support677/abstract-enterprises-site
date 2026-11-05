@@ -690,12 +690,12 @@ BUILDING 2026-11-05T15:05Z factory | structured-cabling-installation-van-nest-br
 BUILDING 2026-11-05T15:05Z factory | structured-cabling-installation-wakefield-bronx-ny | Structured Cabling Installation | Wakefield, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T15:05Z factory | structured-cabling-installation-westchester-heights-bronx-ny | Structured Cabling Installation | Westchester Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T15:05Z factory | structured-cabling-installation-windsor-terrace-brooklyn-ny | Structured Cabling Installation | Windsor Terrace, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | structured-cabling-installation-woodlawn-heights-bronx-ny | Structured Cabling Installation | Woodlawn Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-kingsbridge-heights-bronx-ny | Structured Cabling Installation Kingsbridge | Heights, Bronx | up /structured-cabling-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-belmont-bronx-ny | TV Installation | Belmont, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-bensonhurst-brooklyn-ny | TV Installation | Bensonhurst, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-bergen-beach-brooklyn-ny | TV Installation | Bergen Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-bronxdale-bronx-ny | TV Installation | Bronxdale, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | structured-cabling-installation-woodlawn-heights-bronx-ny | Structured Cabling Installation | Woodlawn Heights, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | structured-cabling-installation-kingsbridge-heights-bronx-ny | Structured Cabling Installation Kingsbridge | Heights, Bronx | up /structured-cabling-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | tv-installation-belmont-bronx-ny | TV Installation | Belmont, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | tv-installation-bensonhurst-brooklyn-ny | TV Installation | Bensonhurst, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | tv-installation-bergen-beach-brooklyn-ny | TV Installation | Bergen Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | tv-installation-bronxdale-bronx-ny | TV Installation | Bronxdale, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-bronxwood-bronx-ny | TV Installation | Bronxwood, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-bruckner-bronx-ny | TV Installation | Bruckner, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-castle-hill-bronx-ny | TV Installation | Castle Hill, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -1117,12 +1117,12 @@ BUILDING 2026-11-05T15:05Z factory | d-link-camera-installation-hudson-valley | 
 BUILDING 2026-11-05T15:05Z factory | digital-watchdog-camera-installation-nyc | Digital Watchdog Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T15:05Z factory | digital-watchdog-camera-installation-long-island | Digital Watchdog Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-05T15:05Z factory | digital-watchdog-camera-installation-hudson-valley | Digital Watchdog Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | ens-security-camera-installation-nyc | ENS Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | ens-security-camera-installation-long-island | ENS Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | ens-security-camera-installation-hudson-valley | ENS Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | eyemax-camera-installation-nyc | Eyemax Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | eyemax-camera-installation-long-island | Eyemax Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | eyemax-camera-installation-hudson-valley | Eyemax Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | ens-security-camera-installation-nyc | ENS Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | ens-security-camera-installation-long-island | ENS Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | ens-security-camera-installation-hudson-valley | ENS Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-nyc | Eyemax Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-long-island | Eyemax Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-05T18:05Z factory | eyemax-camera-installation-hudson-valley | Eyemax Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | first-alert-camera-installation-nyc | First Alert Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | first-alert-camera-installation-long-island | First Alert Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | first-alert-camera-installation-hudson-valley | First Alert Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
