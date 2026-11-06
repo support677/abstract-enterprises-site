@@ -20,16 +20,17 @@ jobs:
       shards: ${{ steps.p.outputs.shards }}
       limit: ${{ steps.p.outputs.limit }}
       only: ${{ steps.p.outputs.only }}
+      force: ${{ steps.p.outputs.force }}
     steps:
       - uses: actions/checkout@v4
         with: { sparse-checkout: tools/hero-video/RUN, sparse-checkout-cone-mode: false }
       - id: p
         run: |
           f=tools/hero-video/RUN
-          n=$(grep -oP '^shards=\K\d+' $f || echo 20); l=$(grep -oP '^limit=\K\d+' $f || echo 0); o=$(grep -oP '^only=\K.*' $f || true)
-          [ "${{ github.event_name }}" = "schedule" ] && { n=2; l=0; o=""; }
+          n=$(grep -oP '^shards=\K\d+' $f || echo 20); l=$(grep -oP '^limit=\K\d+' $f || echo 0); o=$(grep -oP '^only=\K.*' $f || true); fz=$(grep -oP '^force=\K\d' $f || echo 0)
+          [ "${{ github.event_name }}" = "schedule" ] && { n=2; l=0; o=""; fz=0; }
           echo "shards=$(python3 -c "import json;print(json.dumps(list(range($n))))")" >> $GITHUB_OUTPUT
-          echo "limit=$l" >> $GITHUB_OUTPUT; echo "only=$o" >> $GITHUB_OUTPUT
+          echo "limit=$l" >> $GITHUB_OUTPUT; echo "only=$o" >> $GITHUB_OUTPUT; echo "force=$fz" >> $GITHUB_OUTPUT
   render:
     needs: plan
     runs-on: ubuntu-latest
@@ -63,6 +64,7 @@ jobs:
           KOKORO_DIR: /home/runner/kokoro
           HV_ONLY: ${{ needs.plan.outputs.only }}
           HV_WORKERS: "4"
+          HV_FORCE: ${{ needs.plan.outputs.force }}
         run: python tools/hero-video/batch.py ${{ matrix.shard }} ${{ strategy.job-total }} ${{ needs.plan.outputs.limit }}
       - uses: actions/upload-artifact@v4
         if: always()

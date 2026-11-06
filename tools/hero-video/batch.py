@@ -12,7 +12,7 @@ SITE = os.environ.get("AESS_SITE", os.path.abspath(os.path.join(D, "..", "..")))
 shard, shards = int(sys.argv[1]), int(sys.argv[2])
 limit = int(sys.argv[3]) if len(sys.argv) > 3 else 0
 only = [x for x in os.environ.get("HV_ONLY", "").split(",") if x]
-todo = only or pages.candidates(SITE)
+todo = only or pages.candidates(SITE, force=os.environ.get("HV_FORCE") == "1")
 todo = [p for i, p in enumerate(todo) if i % shards == shard]
 if limit:
     todo = todo[:limit]
@@ -29,9 +29,9 @@ def one(slug):
     m = hero_video.render(os.path.join(SITE, slug + ".html"), OUT)
     for ext, ct in ((".mp4", "video/mp4"), (".jpg", "image/jpeg")):
         s3.upload_file(os.path.join(OUT, slug + ext), os.environ.get("R2_BUCKET", "aess-videos"), f"hero/{slug}{ext}",
-                       ExtraArgs={"ContentType": ct, "CacheControl": "public, max-age=2592000"})
+                       ExtraArgs={"ContentType": ct, "CacheControl": "public, max-age=86400"})
         os.remove(os.path.join(OUT, slug + ext))
-    return dict(slug=slug, seconds=m["seconds"], service=m["service"],
+    return dict(v=2, slug=slug, seconds=m["seconds"], service=m["service"],
                 place=m["neighborhood"] or (m["area"][1] if m["area"] else ""), price=m["price"])
 
 

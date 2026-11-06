@@ -23,14 +23,14 @@ def hero_img(s):
     return None
 
 
-def candidates(site):
+def candidates(site, force=False):
     out = []
     for f in sorted(glob.glob(os.path.join(site, "*.html"))):
         slug = os.path.basename(f)[:-5]
         if slug in SKIP or slug.startswith(("thank", "test")):
             continue
         s = open(f, encoding="utf-8", errors="ignore").read()
-        if "<h1" not in s or 'data-hero-video="' in s or not hero_span(s):
+        if "<h1" not in s or (not force and 'data-hero-video="' in s) or not hero_span(s):
             continue
         out.append(slug)
     return out

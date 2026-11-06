@@ -12,6 +12,8 @@ TODAY = os.environ.get("HV_DATE", "2026-11-06")
 done = 0
 for rf in sorted(glob.glob(os.path.join(sys.argv[1], "*.json"))):
     for r in json.load(open(rf))["ok"]:
+        if r.get("v") != 2:          # results from the first (pre-fix) script are not put in pages
+            continue
         p = os.path.join(SITE, r["slug"] + ".html")
         s = open(p, encoding="utf-8").read()
         if 'data-hero-video="' in s:

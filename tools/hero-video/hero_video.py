@@ -81,6 +81,26 @@ FAMILIES = [
     ("sound", ["EVERY ROOM.", "ONE TAP.", "CRYSTAL CLEAR."],
      "Music in every room, controlled with one tap."),
 ]
+VARIANTS = {   # extra problem/promise scenes per service family, picked per page so neighbors don't repeat
+    "camera-repair": [(["NO SIGNAL?", "BLACK SCREEN?", "FIXED."], "Black screen, no signal, or an app that won't connect? We get it working."),
+                      (["RECORDER", "STOPPED?", "WE'RE ON IT."], "When the recorder stops recording, you're blind. We fix that fast.")],
+    "intercom": [(["CAN'T HEAR", "THE DOOR?", "WE FIX THAT."], "Can't hear who's at the door, or can't buzz them in? We fix that."),
+                 (["SEE WHO'S", "BUZZING.", "FROM YOUR PHONE."], "See and talk to whoever's at the door, right from your phone.")],
+    "buzzer": [(["DEAD", "BUZZER?", "FIXED."], "A dead buzzer means packages walk away. We get it working again."),
+               (["DOOR WON'T", "RELEASE?", "HANDLED."], "Door won't release when you press the button? We handle it.")],
+    "access": [(["KEYS GET", "COPIED.", "CODES DON'T."], "Keys get copied. Codes and fobs don't. Shut off access in one tap."),
+               (["EVERY DOOR.", "EVERY FOB.", "LOGGED."], "Know exactly who came in, and when, at every door.")],
+    "lock": [(["LOCK IT", "FROM", "ANYWHERE."], "Lock and unlock from anywhere, and give out codes that expire."),
+             (["LOST KEY?", "NO PROBLEM.", ""], "Lost key? Not a problem anymore. Just change the code.")],
+    "alarm": [(["ARMED.", "MONITORED.", "24/7."], "Armed, monitored, and watched around the clock."),
+              (["THE SIREN", "IS JUST", "THE START."], "The siren is just the start. The central station gets the call too.")],
+    "camera": [(["SEE IT", "ALL.", "IN 4K."], "Crystal-clear video, day and night, on your phone."),
+               (["CATCH IT.", "SAVE IT.", "SHARE IT."], "Catch it, save the clip, and send it to police in seconds.")],
+    "tv": [(["LEVEL.", "SECURE.", "NO WIRES."], "Level, secure, and not a wire in sight."),
+           (["BIG SCREEN.", "CLEAN WALL.", ""], "Big screen on the wall, cables hidden, done in one visit.")],
+    "cabl": [(["FAST.", "CLEAN.", "TESTED."], "Fast, clean cable runs, tested and certified before we leave."),
+             (["NO MORE", "SLOW WI-FI.", "WIRE IT."], "Tired of slow Wi-Fi? Hardwire it the right way.")],
+}
 GENERIC = (["DONE RIGHT.", "THE FIRST", "TIME."], "Done right the first time, and tested before we leave.")
 
 ONES = "zero one two three four five six seven eight nine".split()
@@ -143,6 +163,28 @@ def slug_parts(slug, h1):
     return nice(svc_t), area, nb
 
 
+SERVICE_WORDS = re.compile(r"\b(camera|cameras|lock|locks|reader|readers|fob|fobs|intercom|intercoms|alarm|alarms|sensor|sensors|"
+                           r"keypad|wiring|cable|cabling|monitoring|motion|contacts?|detection|door|doors|mount|mounting|tv|"
+                           r"system|systems|recorder|nvr|dvr|wi-?fi|network|access|entry|panel|siren|doorbell|strike|mag|"
+                           r"repair|upgrade|replacement|installation|video|audio|buzzer|garage|smoke|fire|speakers?|soundbar)\b", re.I)
+_COMMON = None
+
+
+def _common_streets():
+    """Streets named on more than 4% of all pages are template boilerplate, not this page's neighborhood."""
+    global _COMMON
+    if _COMMON is None:
+        import glob
+        from collections import Counter
+        cnt, n = Counter(), 0
+        rx = re.compile(r"\b((?:[0-9]+(?:st|nd|rd|th) |[A-Z][a-z]+ ){1,2}(?:Avenue|Street|Place|Road|Boulevard|Parkway|Turnpike|Highway|Lane|Drive))\b")
+        for f in glob.glob(os.path.join(SITE, "*.html")):
+            n += 1
+            cnt.update(set(m.strip() for m in rx.findall(open(f, encoding="utf-8", errors="ignore").read())))
+        _COMMON = {k for k, v in cnt.items() if v > max(20, n * 0.04)}
+    return _COMMON
+
+
 def parse(path):
     raw = open(path, encoding="utf-8", errors="ignore").read()
     slug = os.path.splitext(os.path.basename(path))[0]
@@ -201,7 +243,13 @@ def parse(path):
                                                      "speco", "uniview", "amcrest", "the", "and", "home", "atlantic",
                                                      "avenue", "street", "navy", "yard", "brighton", "beach"):
                 towns.append(t)
-    body = strip(re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", raw, flags=re.S))
+    main = re.sub(r"<(script|style|nav|header|footer)[^>]*>.*?</\1>", " ", raw, flags=re.S | re.I)
+    main = re.sub(r"<a\b[^>]*>.*?</a>", " ", main, flags=re.S | re.I)
+    body = strip(main)
+    place_word = (nb or (area[1].replace("the ", "") if area else "")).lower()
+    if place_word:
+        sents = re.split(r"(?<=[.!?])\s+", body)
+        body = " ".join(x for x in sents if place_word in x.lower())
     streets = []
     for m_ in re.finditer(r"\b((?:[0-9]+(?:st|nd|rd|th) |[A-Z][a-z]+ ){1,2}(?:Avenue|Street|Place|Road|Boulevard|Parkway|Turnpike|Highway|Lane|Drive))\b", body):
         st = m_.group(1).strip()
@@ -209,7 +257,8 @@ def parse(path):
             continue
         streets.append(st)
     from collections import Counter
-    streets = [st for st, _ in Counter(streets).most_common(8)]
+    common = _common_streets()
+    streets = [st for st, _ in Counter(streets).most_common(12) if st not in common][:8]
     badges = []
     hb = re.search(r'class="hbadge"[^>]*>(.*?)</div>', raw, re.S)
     if hb:
@@ -219,9 +268,13 @@ def parse(path):
         h = strip(h)
         if re.search(r"quote|price|form|faq|call|ready|request|why|how|what|who|\?", h, re.I):
             continue
-        if len(h.split()) < 2 or h.isupper() or "/" in h or sum(c.isupper() for c in h) > len(h) * 0.35:
+        if len(h.split()) < 2 or h.isupper() or "/" in h or "(" in h or sum(c.isupper() for c in h) > len(h) * 0.35:
+            continue
+        if re.search(r"\b(Avenue|Street|Road|Parkway|Boulevard|Place|Park|East|West|North|South|Heights|Village|Hill|Bay)\b", h):
             continue
         if any(w in h.lower() for w in service.lower().split() if len(w) > 4):
+            continue
+        if "+" in h or len(h.split()) > 4 or re.search(r"\d", h) or not SERVICE_WORDS.search(h):
             continue
         if h not in heads:
             heads.append(h)
@@ -245,7 +298,9 @@ def _lc(h):
 def build_script(p):
     s = p["slug"]
     seed = int(hashlib.md5(s.encode()).hexdigest(), 16)
-    fam = next(((w, v) for k, w, v in FAMILIES if k in s), GENERIC)
+    fk, fw, fv = next(((k, w, v) for k, w, v in FAMILIES if k in s), ("", GENERIC[0], GENERIC[1]))
+    opts = [(fw, fv)] + VARIANTS.get(fk, [])
+    fam = opts[(seed >> 11) % len(opts)]
     place_disp = (p["neighborhood"] or (p["area"][0] if p["area"] else "NEW YORK")).upper()
     place_sp = p["neighborhood"] or (p["area"][1] if p["area"] else "New York")
     svc = p["service"]
@@ -272,6 +327,11 @@ def build_script(p):
         mid.append(dict(kind="local", title=f"ALL OVER {place_disp}", items=[x.upper() for x in st],
                         vo=_pick([f"We know {place_sp} block by block, from {st[0]} to {st[1]}.",
                                   f"{st[0]}, {st[1]}, and every street in between. We work all over {place_sp}."], seed, 2)))
+    elif p["neighborhood"]:
+        borough = p["area"][1] if p["area"] else "New York"
+        mid.append(dict(kind="local", title=f"ALL OVER {place_disp}", items=[place_disp, (p["area"][0] if p["area"] else "NEW YORK")],
+                        vo=_pick([f"We work all over {place_sp}, and across {borough}.",
+                                  f"{place_sp} is right in our service area."], seed, 2)))
     elif not p["neighborhood"] and not p["towns"] and len(p["streets"]) >= 2:
         st = p["streets"][:4]
         mid.append(dict(kind="local", title=f"ALL OVER {place_disp}", items=[x.upper() for x in st],
