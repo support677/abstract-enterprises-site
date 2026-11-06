@@ -932,7 +932,7 @@ REBUILD | security-camera-installation-country-club-bronx-ny | Security Camera I
 REBUILD | security-camera-installation-downtown-brooklyn-ny | Security Camera Installation | Downtown, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-dyker-heights-brooklyn-ny | Security Camera Installation | Dyker Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-east-flatbush-brooklyn-ny | Security Camera Installation | East Flatbush, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-east-new-york-brooklyn-ny | Security Camera Installation | East New York, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-east-new-york-brooklyn-ny | Security Camera Installation | East New York, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-east-williamsburg-brooklyn-ny | Security Camera Installation | East Williamsburg, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-eastchester-bronx-ny | Security Camera Installation | Eastchester, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-fort-greene-brooklyn-ny | Security Camera Installation | Fort Greene, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
