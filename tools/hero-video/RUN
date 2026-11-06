@@ -1,5 +1,4 @@
-shards=10
+shards=3
 limit=0
-only=
+only=index,cat6-repair-putnam-county,fiber-optic-installation-hudson-square-manhattan-ny,smart-lock-installation-st-george-staten-island-ny,smart-lock-installation-west-brighton-staten-island-ny,sonos-installation-orange-county
 force=0
-# 2026-11-06: 84 pages with header/no-hero layouts + homepage

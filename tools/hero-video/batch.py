@@ -30,6 +30,10 @@ OUT = os.path.join(D, "out", str(shard)); os.makedirs(OUT, exist_ok=True)
 def one(slug):
     import hero_video
     m = hero_video.render(os.path.join(SITE, slug + ".html"), OUT)
+    made = m.get("slug", slug)          # index.html renders as "home"; store it under the page's own file name
+    if made != slug:
+        for ext in (".mp4", ".jpg"):
+            os.replace(os.path.join(OUT, made + ext), os.path.join(OUT, slug + ext))
     for ext, ct in ((".mp4", "video/mp4"), (".jpg", "image/jpeg")):
         s3.upload_file(os.path.join(OUT, slug + ext), os.environ.get("R2_BUCKET", "aess-videos"), f"hero/{slug}{ext}",
                        ExtraArgs={"ContentType": ct, "CacheControl": "public, max-age=86400"})
