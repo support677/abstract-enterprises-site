@@ -59,6 +59,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-05 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2306 queued. All inspected as not on Google (Discovered - currently not indexed). zosi suffolk county returned "Oops! Something went wrong" on Request indexing and stays QUEUED for retry. "Quota Exceeded" on the 12th request (annke nyc), which stays QUEUED; next run starts at zosi suffolk county.
 
+2026-11-05 evening (scheduled, 01:55 UTC Nov 6, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2353 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-06T01:52:49Z, 2819 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2095 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected zosi suffolk county (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at zosi suffolk county.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
