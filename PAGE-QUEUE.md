@@ -1223,7 +1223,7 @@ TODO | arlo-camera-installation-putnam-county | Arlo Camera Installation | Putna
 TODO | arlo-camera-installation-dutchess-county | Arlo Camera Installation | Dutchess | up /arlo-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | arlo-camera-installation-ulster-county | Arlo Camera Installation | Ulster | up /arlo-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | eufy-camera-installation-manhattan | eufy Camera Installation | Manhattan | up /eufy-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T06:04Z factory | eufy-camera-installation-brooklyn | eufy Camera Installation | Brooklyn | up /eufy-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | eufy-camera-installation-brooklyn | eufy Camera Installation | Brooklyn | up /eufy-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | eufy-camera-installation-queens | eufy Camera Installation | Queens | up /eufy-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | eufy-camera-installation-bronx | eufy Camera Installation | Bronx | up /eufy-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | eufy-camera-installation-staten-island | eufy Camera Installation | Staten Island | up /eufy-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
