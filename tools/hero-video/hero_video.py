@@ -274,6 +274,11 @@ def parse(path):
             continue
         if any(w in h.lower() for w in service.lower().split() if len(w) > 4):
             continue
+        placew = " ".join(x for x in [nb or "", (area[1] if area else ""), "nassau suffolk westchester rockland orange putnam dutchess ulster brooklyn bronx queens manhattan staten nyc"] if x).lower().split()
+        if any(w in h.lower().split() for w in placew if len(w) > 3):   # "Security Cameras Nassau" = a link, not a service
+            continue
+        if "," in h or re.search(r"\bper\b|\btier\b|\bplan\b", h, re.I):   # pricing-card titles, not services
+            continue
         if "+" in h or len(h.split()) > 4 or re.search(r"\d", h) or not SERVICE_WORDS.search(h):
             continue
         if h not in heads:
