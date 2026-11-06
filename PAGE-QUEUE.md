@@ -645,11 +645,11 @@ LIVE | security-camera-installation-unionport-bronx-ny | Security Camera Install
 LIVE | security-camera-installation-university-heights-bronx-ny | Security Camera Installation | University Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-cortlandt-village-bronx-ny | Security Camera Installation | Van Cortlandt Village, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-nest-bronx-ny | Security Camera Installation | Van Nest, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | security-camera-installation-wakefield-bronx-ny | Security Camera Installation | Wakefield, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | security-camera-installation-washingtonville-bronx-ny | Security Camera Installation | Washingtonville, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | security-camera-installation-westchester-heights-bronx-ny | Security Camera Installation | Westchester Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | security-camera-installation-westchester-square-bronx-ny | Security Camera Installation | Westchester Square, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | security-camera-installation-williamsbridge-bronx-ny | Security Camera Installation | Williamsbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-wakefield-bronx-ny | Security Camera Installation | Wakefield, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-washingtonville-bronx-ny | Security Camera Installation | Washingtonville, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-westchester-heights-bronx-ny | Security Camera Installation | Westchester Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+REBUILD | security-camera-installation-westchester-square-bronx-ny | Security Camera Installation | Westchester Square, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+REBUILD | security-camera-installation-williamsbridge-bronx-ny | Security Camera Installation | Williamsbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-04T18:09Z factory | security-camera-installation-woodstock-bronx-ny | Security Camera Installation | Woodstock, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-bath-beach-brooklyn-ny | Structured Cabling Installation | Bath Beach, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | structured-cabling-installation-bathgate-bronx-ny | Structured Cabling Installation | Bathgate, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -917,9 +917,9 @@ REBUILD | intercom-installation-woodlawn-heights-bronx-ny | Intercom Installatio
 REBUILD | intercom-installation-woodstock-bronx-ny | Intercom Installation | Woodstock, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | network-cable-repair-bushwick-brooklyn-ny | Network Cable Repair | Bushwick, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | network-cable-repair-williamsburg-brooklyn-ny | Network Cable Repair | Williamsburg, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | security-camera-installation-bath-beach-brooklyn-ny | Security Camera Installation | Bath Beach, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-bath-beach-brooklyn-ny | Security Camera Installation | Bath Beach, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bedford-park-bronx-ny | Security Camera Installation | Bedford Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | security-camera-installation-beverley-square-brooklyn-ny | Security Camera Installation | Beverley Square, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-beverley-square-brooklyn-ny | Security Camera Installation | Beverley Square, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bronxdale-bronx-ny | Security Camera Installation | Bronxdale, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-brooklyn-heights-brooklyn-ny | Security Camera Installation | Brooklyn Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bruckner-bronx-ny | Security Camera Installation | Bruckner, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -932,7 +932,7 @@ REBUILD | security-camera-installation-country-club-bronx-ny | Security Camera I
 REBUILD | security-camera-installation-downtown-brooklyn-ny | Security Camera Installation | Downtown, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-dyker-heights-brooklyn-ny | Security Camera Installation | Dyker Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-east-flatbush-brooklyn-ny | Security Camera Installation | East Flatbush, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | security-camera-installation-east-new-york-brooklyn-ny | Security Camera Installation | East New York, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-east-new-york-brooklyn-ny | Security Camera Installation | East New York, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-east-williamsburg-brooklyn-ny | Security Camera Installation | East Williamsburg, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-eastchester-bronx-ny | Security Camera Installation | Eastchester, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-fort-greene-brooklyn-ny | Security Camera Installation | Fort Greene, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -1070,12 +1070,12 @@ LIVE | ring-camera-installation-hudson-valley | Ring Camera Installation | Hudso
 LIVE | google-nest-camera-installation-nyc | Google Nest Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | google-nest-camera-installation-long-island | Google Nest Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | google-nest-camera-installation-hudson-valley | Google Nest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | arlo-camera-installation-nyc | Arlo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-04T15:09Z factory | arlo-camera-installation-long-island | Arlo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-04T15:09Z factory | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-04T15:09Z factory | eufy-camera-installation-nyc | eufy Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-04T15:09Z factory | eufy-camera-installation-long-island | eufy Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-04T15:09Z factory | eufy-camera-installation-hudson-valley | eufy Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-06T00:03Z factory | arlo-camera-installation-nyc | Arlo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory | arlo-camera-installation-long-island | Arlo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | eufy-camera-installation-nyc | eufy Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | eufy-camera-installation-long-island | eufy Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | eufy-camera-installation-hudson-valley | eufy Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-04T18:09Z factory | hanwha-camera-installation-nyc | Hanwha Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | hanwha-camera-installation-long-island | Hanwha Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-04T18:09Z factory | hanwha-camera-installation-hudson-valley | Hanwha Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
@@ -1158,7 +1158,7 @@ TODO | zosi-camera-installation-nyc | ZOSI Camera Installation | NYC hub | up / 
 TODO | zosi-camera-installation-long-island | ZOSI Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | zosi-camera-installation-hudson-valley | ZOSI Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | luminys-camera-installation-manhattan | Luminys Camera Installation | Manhattan | up /luminys-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | luminys-camera-installation-brooklyn | Luminys Camera Installation | Brooklyn | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory | luminys-camera-installation-brooklyn | Luminys Camera Installation | Brooklyn | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | luminys-camera-installation-queens | Luminys Camera Installation | Queens | up /luminys-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | luminys-camera-installation-bronx | Luminys Camera Installation | Bronx | up /luminys-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | luminys-camera-installation-staten-island | Luminys Camera Installation | Staten Island | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1171,7 +1171,7 @@ TODO | luminys-camera-installation-putnam-county | Luminys Camera Installation |
 TODO | luminys-camera-installation-dutchess-county | Luminys Camera Installation | Dutchess | up /luminys-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | luminys-camera-installation-ulster-county | Luminys Camera Installation | Ulster | up /luminys-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-manhattan | Reolink Camera Installation | Manhattan | up /reolink-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | reolink-camera-installation-brooklyn | Reolink Camera Installation | Brooklyn | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory | reolink-camera-installation-brooklyn | Reolink Camera Installation | Brooklyn | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | reolink-camera-installation-queens | Reolink Camera Installation | Queens | up /reolink-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | reolink-camera-installation-bronx | Reolink Camera Installation | Bronx | up /reolink-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | reolink-camera-installation-staten-island | Reolink Camera Installation | Staten Island | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1184,7 +1184,7 @@ TODO | reolink-camera-installation-putnam-county | Reolink Camera Installation |
 TODO | reolink-camera-installation-dutchess-county | Reolink Camera Installation | Dutchess | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-ulster-county | Reolink Camera Installation | Ulster | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | ring-camera-installation-manhattan | Ring Camera Installation | Manhattan | up /ring-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | ring-camera-installation-brooklyn | Ring Camera Installation | Brooklyn | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-06T00:03Z factory | ring-camera-installation-brooklyn | Ring Camera Installation | Brooklyn | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | ring-camera-installation-queens | Ring Camera Installation | Queens | up /ring-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | ring-camera-installation-bronx | Ring Camera Installation | Bronx | up /ring-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | ring-camera-installation-staten-island | Ring Camera Installation | Staten Island | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
