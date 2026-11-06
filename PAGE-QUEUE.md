@@ -1129,7 +1129,7 @@ BUILDING 2026-11-05T21:05Z factory | first-alert-camera-installation-long-island
 LIVE | first-alert-camera-installation-hudson-valley | First Alert Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | geovision-camera-installation-nyc | GeoVision Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | geovision-camera-installation-long-island | GeoVision Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-05T21:05Z factory | geovision-camera-installation-hudson-valley | GeoVision Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | geovision-camera-installation-hudson-valley | GeoVision Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | gw-security-camera-installation-nyc | GW Security Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | gw-security-camera-installation-long-island | GW Security Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | gw-security-camera-installation-hudson-valley | GW Security Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
