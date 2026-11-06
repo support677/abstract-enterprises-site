@@ -1184,7 +1184,7 @@ TODO | reolink-camera-installation-putnam-county | Reolink Camera Installation |
 TODO | reolink-camera-installation-dutchess-county | Reolink Camera Installation | Dutchess | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-ulster-county | Reolink Camera Installation | Ulster | up /reolink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | ring-camera-installation-manhattan | Ring Camera Installation | Manhattan | up /ring-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T00:03Z factory | ring-camera-installation-brooklyn | Ring Camera Installation | Brooklyn | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | ring-camera-installation-brooklyn | Ring Camera Installation | Brooklyn | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | ring-camera-installation-queens | Ring Camera Installation | Queens | up /ring-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | ring-camera-installation-bronx | Ring Camera Installation | Bronx | up /ring-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | ring-camera-installation-staten-island | Ring Camera Installation | Staten Island | up /ring-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn

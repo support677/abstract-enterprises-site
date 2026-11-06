@@ -3049,3 +3049,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/reolink-camera-installation-brooklyn | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-wakefield-bronx-ny | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-nyc | QUEUED
+2026-11-06 | https://www.abstractenterprisessecuritysystems.com/ring-camera-installation-brooklyn | QUEUED
