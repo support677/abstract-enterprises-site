@@ -650,7 +650,7 @@ LIVE | security-camera-installation-washingtonville-bronx-ny | Security Camera I
 LIVE | security-camera-installation-westchester-heights-bronx-ny | Security Camera Installation | Westchester Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-westchester-square-bronx-ny | Security Camera Installation | Westchester Square, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-williamsbridge-bronx-ny | Security Camera Installation | Williamsbridge, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-06T03:04Z factory REBUILD | security-camera-installation-woodstock-bronx-ny | Security Camera Installation | Woodstock, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-woodstock-bronx-ny | Security Camera Installation | Woodstock, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-bath-beach-brooklyn-ny | Structured Cabling Installation | Bath Beach, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | structured-cabling-installation-bathgate-bronx-ny | Structured Cabling Installation | Bathgate, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-bay-ridge-brooklyn-ny | Structured Cabling Installation | Bay Ridge, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
