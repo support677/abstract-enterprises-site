@@ -224,3 +224,98 @@ The questions below come from on-page FAQs, forums and Yelp modules, not PAA:
 - **Yelp praise (Poughkeepsie):** The installation was clean, the wiring was neatly concealed, and the system works flawlessly. — https://www.yelp.com/search?find_desc=Security+Systems&find_loc=Poughkeepsie%2C+NY
 - **Yelp complaint (Wappingers Falls installer):** "Didn't connect a sensor to the security system He tucked it into the wall — https://yelp.com/search?amp=&find_desc=Security+System+Installation&find_loc=Manahawkin%2C+NJ+08050
 - **Hyperlocal outlets** (Patch Mid-Hudson, Mid Hudson News, Hudson Valley One, Times Union HV): covered above. Articles specifically about Nest installation: EMPTY.
+
+## Brooklyn, Brooklyn — /google-nest-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**How to read this:** I ran 14 web searches. The search tool can't show Google's live People Also Ask or People Also Search For boxes, Bing or DuckDuckGo results, AnswerThePublic, or raw HPD/311/DOB data. Those fields are marked EMPTY, and nothing has been filled in to replace them. Many Brooklyn findings come from installer websites selling their own services, so treat them as claims rather than settled fact. They're labeled where it matters.
+
+### 1. Facts specific to Nest camera installation in Brooklyn
+
+**Landmark (LPC) rules: the biggest Brooklyn-specific angle**
+- The official LPC rules (Section 2-20) cover health, safety and utility equipment. They list items such as fire alarm bells and Siamese connections, security cameras, lighting. This means a camera on a landmarked façade falls under LPC review. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- LPC's Permit Guidebook has a chapter on installing security cameras. It shows two examples of dome-type security cameras finished to match the façade. It says that if the work meets the rules, staff can approve it without a full Commission hearing. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- LPC says staff approval is in as few as ten business days when the application meets the rules. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Introduction.pdf
+- An architecture firm's view of real-world timing: LPC staff is often backlogged, so expect a 60-day wait for a Certificate of No Effect. To check whether a building is landmarked, look it up in DOB's Buildings Information Search. If the Landmark Status field has an "L," it requires LPC approval. — https://shermanarchitects.com/navigating-the-landmarks-preservation-commission/
+- Camera count limits, as an installer describes LPC criteria (check against the official guidebook before publishing): no more than two (2) security cameras for every twenty-five (25) feet for small residential or commercial buildings. And no more than three (3) security cameras for every twenty-five (25) feet for larger commercial, residential and institutional buildings. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- The same installer says interior work is different: Interior installations are generally permitted without LPC approval but may still require HOA sign-off. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Historic districts an installer lists as requiring LPC approval for exterior hardware: Brooklyn Heights Historic, Park Slope Historic, Fort Greene Historic, Cobble Hill Historic, Carroll Gardens Historic, Boerum Hill Historic, Crown Heights North Historic, Stuyvesant Heights Historic, Clinton Hill Historic, Greenwood Heights Historic. The same installer says landmark work may add 2–6 weeks for non-emergency exterior approval. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- A newer district: LPC designated the Willoughby-Hart Historic District in Bed-Stuy on June 25, 2024. All the homes were built within a 20-year timeframe beginning in 1871. — https://www.nyc.gov/site/lpc/about/pr2024/lpc-designates-willoughby-hart-historic-district-20240625.page
+
+**Wiring, mounting and building-type details**
+- Common brownstone routing, per an installer: We never penetrate the front façade. All cabling routes through the rear yard, internal stairwells, or roof bulkheads, with cameras concealed in eaves at the rear and a single discreet overview camera (often a doorbell unit) at the front stoop. — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Another installer's landmark method: mount in mortar joints, color-match hardware to the facade, and keep visible conduit within the permitted limit, concealing the rest of the run through cellars and interior chases. — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-brooklyn-ny
+- Google's own Nest Cam Outdoor guide covers brick: the box includes wall anchors for hard surfaces like brick or stone, and you'll also need a 7/32" masonry drill bit and a hammer. — https://support.google.com/googlehome/answer/9228553?hl=en
+- Google's guide for the wired outdoor model (2nd gen): Plan the cable route starting from your indoor outlet to where you'll install your camera. Google also suggests routing the cable along a ledge or hidden area and paint it to blend in with your house. — https://support.google.com/googlehome/answer/16568184?hl=en
+- A Nest Community user mounted a camera on brick with a plywood backer and drilled a hole in the motar area of the brickwork to avoid making several holes in the brick. — https://www.googlenestcommunity.com/t5/Cameras-and-Doorbells/Nest-Cam-Outdoor-on-brick-installation/m-p/433324
+- Setup order matters. Google says To make sure you can access the QR code, connect your camera to the app before you install or mount it. — https://support.google.com/googlehome/answer/9293657?hl=en-419
+- Permits: one installer says Low-voltage security camera installation in a residential brownstone typically does not require a DOB permit under NYC construction codes. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Board rules: most Brooklyn co-op/condo proprietary leases require licensed, insured contractors with a COI naming the building. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Hallway placement: A tenant may generally put a camera inside their unit or a peephole-style camera on their own door, but a camera aimed down a shared hallway or at a neighbor's door can violate other residents' privacy and usually needs landlord or board approval. — same URL
+- Renters: A tenant can install a wireless security camera inside the rented unit, and outdoors covering the unit entrance only, and not pointed at anyone's door or unit. Also, For outdoor cameras or anything requiring drilling, you need written landlord approval. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Audio: NYC follows one-party consent for audio recording, so avoid using cameras with audio recording or turn it off in the settings. — https://linkedsecurityny.com/blog/diy-vs-professional-security-camera-installation-nyc/
+- Competitor positioning on Nest (useful contrast): one Brooklyn CCTV firm says We do not recommend Ring camera installation, Nest camera installation, Arlo camera installation, or Wyze camera installation for Brooklyn buildings. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- The same firm notes Nest requires Nest Aware ($8-$15/mo) for sound alerts and 30-day history. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- A Brooklyn locksmith that also installs Nest: In addition to our locksmith services, we offer home Nest Doorbell and Camera installation in Brooklyn. — https://www.integritybrooklynlocksmith.com/nest-installation
+
+**City data**
+- HPD violations about cameras or entry systems: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY. The only finding is the installer's claim above that low-voltage work usually needs no DOB permit.
+
+**Local news (package theft and surveillance)**
+- Bushwick: a package theft caught on video on Eldert Street in Bushwick, with about $2,200 of clothing taken. — https://www.cbsnews.com/amp/newyork/news/brooklyn-packages-stolen
+- Crown Heights: footage of a package thief casually strolling up the steps of a home near Montgomery Street and New York Avenues. — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- Fort Greene: a stroller stolen from a stoop near Carlton and Willoughby avenues. — https://www.cbsnews.com/amp/newyork/news/brooklyn-stolen-stroller
+- Bed-Stuy/Clinton Hill: on Lexington Avenue, cameras caught a suspect as he was apparently buzzed into the building. A good intercom/entry-camera angle. — https://www.cbsnews.com/amp/newyork/news/brooklyn-package-stolen
+- Cypress Hills: on Crescent Street between Atlantic Avenue and Fulton Street in Cypress Hills, a package thief slashed a homeowner. — https://www.cbsnews.com/amp/newyork/news/package-thieves-slash-homeowner-brooklyn
+- Park Slope: package thieves were filmed cutting open boxes inside a building lobby. — https://cbsnews.com/newyork/news/park-slope-package-thieves-caught-on-camera-nypd-brooklyn
+- August 2026: Two NYCHA tenant associations in Brooklyn accused the city of violating residents' rights by covertly using a free internet program to give police access to public housing surveillance cameras. — https://citylimits.org/nycha-tenants-sue-over-police-access-to-surveillance-cameras-and-what-else-happened-this-week-in-housing/
+- The suit was filed for residents of the Tilden Houses and Hughes Houses. — https://www.thecooldown.com/green-tech/new-york-public-housing-surveillance-lawsuit-big-apple-connect/
+- Earlier, in Brownsville: At Atlantic Plaza Towers in the Brownsville neighborhood of Brooklyn, the landlord, Nelson Management Group, is moving to install a new system to control entry into the buildings. The system used facial recognition. — https://www.pressreader.com/usa/the-guardian-usa/20190531/281960314236325
+- Patch / BKReader / Brooklyn Paper / Bklyner coverage of Nest or home cameras: EMPTY
+
+**Forums and Reddit**
+- Brownstoner forum: a single-family homeowner asked Is using Google/Nest cameras/detectors and thermostats compatible with any monitoring companies? A reply recommended local firm Alarms R Us but said it was not compatible with Google/Nest. — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+- IPCamTalk thread on brownstone CCTV: a user suggested two cameras mounted on the left and right of the door, up about 6 ft, pointed at the stoop and each other, the third camera above the door pointed down the stairs. Note the same user called Nest "junk". — https://ipcamtalk.com/threads/best-layout-setup-practice-for-brownstone-cctv.40722/
+- Actual r/Brooklyn or r/AskNYC threads about Nest installation: EMPTY. One installer claims Reddit threads recommend it, but I couldn't verify that, so it's not used.
+
+**Yelp**
+- Yelp's NYC "Nest Installation" results include Titanium Electrical (Brooklyn), with a reviewer saying it did a good job installing my nest hello doorbell and price was good. — https://www.yelp.com/search?find_desc=Nest+Installation&find_loc=New+York%2C+NY
+- Brooklyn security-camera results: Falcon Locksmith, 5.0 (302 reviews) Serving Brooklyn. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn%2C+NY
+- Praise from the 11204 (Bensonhurst) area: was able to upgrade the system without needing to replace the existing cameras. He even helped set everything up on my phone. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn,+NY+11204
+- Yelp complaints specific to Nest installs in Brooklyn: EMPTY
+
+### 2. Neighborhood background
+
+- Origins: Breuckelen on the American continent was established in 1646, and the name first appeared in print in 1663. — https://en.wikipedia.org/wiki/Brooklyn
+- Consolidation: On January 1, 1898, after a long political campaign and public-relations battle during the 1890s and despite opposition from Brooklyn residents, Brooklyn was consolidated into New York City. — https://en.wikipedia.org/wiki/Brooklyn
+- Population: the borough had a population of 2,736,074 in 2020. — https://en.wikipedia.org/wiki/Brooklyn
+- Growth: The consolidated City of Brooklyn is established, merging the former City of Brooklyn with the City of Williamsburgh and the Town of Bushwick in 1854. In 1860 it became the third-largest US city. — https://cooganresearchgroup.com/familytree/coogan/migrations/brooklyn/brooklyn.htm
+- Housing boom: In the late 1800s and early 1900s, much of Brooklyn grew through rowhouse construction. Developers built long blocks of brick and brownstone homes. — https://seeoldnyc.com/brooklyn-then-and-now/
+- Later changes: Property owners divided large homes into smaller apartments. Today the mix includes luxury towers, restored brownstones, public housing complexes, and smaller rental buildings. — same URL
+- Rowhouses: A rowhouse is typically just two to five stories in height and home to one or two families. However, some of Brooklyn's rowhouses have been converted into a greater number of apartments. — https://www.brownstoner.com/architecture/what-is-a-row-house-brooklyn-townhouse-architecture-history/
+- Brownstone construction: brownstones were actually brick houses whose street front had a 4-to-6-inch-thick brownstone facing or veneer. This affects where you can drill. — https://www.brownstoner.com/architecture/brownstone-brooklyn-architecture-charles-lockwood/
+- First historic district: Brooklyn Heights became New York City's first designated historic district in 1965, followed by Park Slope, Cobble Hill, Fort Greene. — https://www.mammothnewyork.com/blog/nyc-brownstones-architectural-history
+- Brooklyn Heights: noted for its low-rise architecture and its many brownstone rowhouses, most of them built prior to the Civil War. — https://en.wikipedia.org/wiki/Brooklyn_Heights
+- Detached houses: in Ditmas Park, suburban-style houses are described as styles uncommon in Brooklyn, where brownstones and rowhouses are typical. — https://en.wikipedia.org/wiki/Ditmas_Park,_Brooklyn
+- Prospect Park: Designed by Frederick Law Olmsted and Calvert Vaux in the 1860s. — https://www.6sqft.com/best-new-apartments-near-prospect-park/
+- Parkways: Olmsted and Vaux built two near the park, Eastern Parkway, running from Prospect Park to Crown Heights, and Ocean Parkway, connecting Prospect Park toConey Island's beachfront. — https://www.nycgovparks.org/parks/ocean-parkway-malls/history
+- Commercial corridors:
+  - Atlantic Avenue: from Court Street to Bond Street
+  - FAB Fulton, which covers Fulton Street in Brooklyn's neighborhoods of Fort Greene and Clinton Hill
+  - North Flatbush Avenue
+  - The Flatbush–Nostrand Junction
+  - Source: https://shopyourcity.cityofnewyork.us/syc-brooklyn/
+- Rezoning: The city rezoned a stretch of the Atlantic Avenue corridor just east of Vanderbilt in 2025 to allow mixed-use housing. — https://rahmeteam.com/blog/prospect-heights-brooklyn-buying-guide
+- What Brooklyn is known for: Many Brooklyn neighborhoods are ethnic enclaves. — https://en.wikipedia.org/wiki/Brooklyn
+
+### 3. What changes how Nest installation is done here
+
+- Install type depends on landmark status:
+  - Landmarked façades: check LPC status first, use small or color-matched mounts, and run cable inside where possible.
+  - Rear yards and interiors: usually free of LPC limits.
+  - Sources: the LPC and installer URLs above.
+- Brick and brownstone veneer: use masonry anchors in mortar joints (see Google's brick guidance above).
+- Renters and co-ops: get board or landlord approval and a COI, keep hallway cameras aimed away from neighbors' doors, and consider turning audio off.
+- Pricing benchmarks:
+  - Nest cameras cost between $200 and $700 installed. — https://www.fixr.com/costs/install-video-surveillance

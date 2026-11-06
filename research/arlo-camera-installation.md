@@ -254,3 +254,87 @@ My search tool can't show live Google People Also Ask, People Also Search For, B
 - Bing — EMPTY
 - DuckDuckGo — EMPTY
 - Reddit (r/HudsonValley, r/homesecurity) — EMPTY (no threads came up in search)
+
+## Brooklyn, Brooklyn — /arlo-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**Scope note:** My search tool returns ordinary web results. It doesn't show Google People Also Ask, People Also Search For, AnswerThePublic, or Bing and DuckDuckGo results, so those fields say EMPTY. I also didn't find any HPD, 311, or DOB data that bears on camera installs. Claims that come only from installer websites are marked **[vendor claim]** and should be checked before you publish them.
+
+### Arlo installation facts specific to Brooklyn
+- A local company lists Arlo setup at a set price: "Arlo Installation & Setup From 129 US dollars". It also offers to "Unmount Outdoor Camera" for $99.99. It advertises same-day service from 8 AM to 9 PM. — https://www.technicoss.com/home-brooklyn-ny
+- A competing Brooklyn installer refuses Arlo work: "We do not recommend Ring camera installation, Nest camera installation, Arlo camera installation, or Wyze camera installation for Brooklyn buildings." It says these DIY brands come with major limitations for Brooklyn's brownstones, walk-ups, and apartment buildings. This gives your page a "we do Arlo" angle. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- The same company does mount Arlo Pro 5 on its wireless page, listing Reolink Argus, Eufy SoloCam, Arlo Pro 5, Ring Stick Up. Its Brooklyn method is masonry anchors on brick/limestone, no-drill adhesive plates on rentals, solar panel mounting, mesh Wi-Fi node deployment if needed. It also has a section titled "Wi-Fi Dead Zones in Brooklyn Brick Buildings". [vendor claim] — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- That page also recommends giving written notice to the garden-floor tenant that the back-yard camera exists, which heads off any future complaint to 311 or Brooklyn Housing Court. [vendor claim] — same URL
+- Brick weakens the signal. Arlo's own guide lists unusually thick walls and ceilings, brick, concrete, stucco, stone as the materials that cut signal strength the most. It recommends three or four bars of signal strength, and says to keep a camera at least 10 feet (3 meters) away from your Wi-Fi router, SmartHub, or Base Station. — https://kb.arlo.com/37/Arlo-Camera-Placement-Tips
+- An Arlo forum user who mounted a camera on brick used Tapcon concrete screws (since they are removable). Afterward they had to move my SmartHub around a bit in order for it to pick-up this camera. — https://community.arlo.com/t5/Arlo-Ultra/Mounting-Cameras-To-Brick/td-p/1763651
+- Another forum user had a camera that wouldn't connect from 5 meters away: "There is a timber wall and one brick wall in the way but still, only 5 meters !" — https://community.arlo.com/t5/Arlo-Ultra/Poor-wifi-range-through-timber-wall-and-one-brick-wall/m-p/1787398
+- Some models need a hub. An Arlo SmartHub or Base Station is required for Arlo Pro 3, Arlo Ultra, and Arlo Ultra 2 cameras. — https://kb.arlo.com/000062755/How-to-set-up-Arlo-Cameras
+- To set up almost any Arlo camera, you'll need a 2.4 GHz Wi-Fi connection. — https://www.safehome.org/home-security-cameras/arlo/set-up/
+- **LPC rules:** LPC Rules Section 2-20 covers health, safety and utility equipment, such as fire alarm bells and Siamese connections, security cameras, lighting. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- LPC applies Section 2-20(c)(4) for security cameras when it reviews permits. — https://a860-gpp.nyc.gov/downloads/7h149t85r?locale=en
+- If your building is a landmark or in a historic district, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work. — https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property
+- An installer summarizes the LPC limit as no more than two (2) security cameras for every twenty-five (25) feet for small residential or commercial buildings. [vendor claim — check against the LPC Permit Guidebook, Chapter 11] — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Any hardware visible from the street-facing facade may require LPC approval. The same page says low-voltage camera work in a brownstone typically does not require a DOB permit under NYC construction codes. [vendor claim] — https://senecasecurity.com/services/security-cameras/brownstones/
+- Owner-occupied brownstones raise tenant privacy questions. Many NYC brownstones are owner-occupied with one or two rental units above. That means camera coverage needs to respect tenant privacy while still protecting common areas, the front stoop, and the owner's private floors. — same URL
+- **Renters:** A tenant can install a wireless security camera inside the rented unit, and outdoors covering the unit entrance only, and not pointed at anyone's door or unit. [vendor claim] — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- One firm says NYC Local Law 50 requires that you post visible notices in any common area where cameras are operating. [vendor claim, unverified — confirm before publishing] — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Another site claims a Real Property Law change makes landlords allow tenant cameras. [vendor claim, unverified — I couldn't confirm it] — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+- **Arlo end-of-life risk:** Arlo's Pro 2-series devices, plus the Arlo Q and Q+, the Arlo Baby, Arlo Security Lights, and Audio Doorbell will be retired on January 1st of 2025. Owners of these older cameras are a likely replace-and-reinstall market. — https://www.howtogeek.com/146082/arlo-extends-support-for-older-cameras-reversing-previous-plans/
+- Arlo is criticized for this. It has faced significant backlash regarding its End-of-Life (EOL) policy. — https://community.arlo.com/t5/Arlo/Arlo-has-quietly-desupported-security-cameras-wihout-notifying/td-p/2475299
+- **Package theft cases (all older news):**
+  - Crown Heights: a thief was filmed strolling up the steps of a home near Montgomery Street and New York Avenues. — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+  - Bushwick: an apartment building on Eldert Street in Bushwick, where the stolen packages held about $2,200 worth of clothing. — https://www.cbsnews.com/amp/newyork/news/brooklyn-packages-stolen
+  - Eastern Parkway: a package that contained $5,500 in wigs from the front steps. — https://www.cbsnews.com/newyork/news/brooklyn-package-thefts-same-house
+  - Sheepshead Bay: a suspect entered the building near Avenue V and Ocean Avenue through an unopened door and disabled the second door in the lobby before entering the mailroom. — https://pix11.com/news/local-news/brooklyn/burglar-steals-unopened-packages-from-brooklyn-building-nypd/
+- One Brooklyn resident has been hit by more than 50 porch pirate and trespassing cases within two years. — https://www.deliveryamigo.com/blog/inside-brooklyns-battle-with-porch-pirates-and-one-residents-bold-stand-against-package-theft
+- A vendor page cites Brooklyn Paper: grand larceny up 1.5% across the borough at the start of 2026, with grand larceny auto up 15%. [secondhand — I didn't find the Brooklyn Paper article] — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Gowanus Houses (public housing): a participatory budgeting idea asks for smart door systems that send notifications to residents' phones when someone rings or approaches their door. — https://www.participate.nyc.gov/processes/Citywidepb2025/f/69/proposals/22697
+- HPD violations about cameras or entry systems — EMPTY
+- 311 complaint data on cameras — EMPTY
+- DOB permit data on camera installs — EMPTY
+- Patch, BKReader, or Brooklyn Paper articles on Arlo or camera installs — EMPTY
+
+### History and development
+- 1883, May 24 — The BROOKLYN Bridge is opened by Mayor Seth Low of BROOKLYN and President Chester A. Arthur. 1898, January 1 — BROOKLYN merges with New York City. — https://newenglandsociety.org/timeline/
+- In the late 1800s and early 1900s, much of Brooklyn grew through rowhouse construction. Developers built long blocks of brick and brownstone homes. These houses featured stoops, bay windows, and detailed stone carvings. — https://seeoldnyc.com/brooklyn-then-and-now/
+- The brownstones of Brooklyn Heights, Clinton Hill, and Bed-Stuy filled with middle-class families, while newer neighborhoods such as Flatbush, Bay Ridge, and Borough Park expanded with tree-lined blocks and brick rowhouses. — https://cityneighborhoods.nyc/brooklyn
+- Population: 1900 - Population: 1,166,582; 2010 Population: 2,504,700. — https://en.wikipedia.org/wiki/Timeline_of_Brooklyn
+
+### Building stock and landmark districts
+- Housing today is mixed. Today, housing includes luxury towers, restored brownstones, public housing complexes, and smaller rental buildings. — https://seeoldnyc.com/brooklyn-then-and-now/
+- Brooklyn has a total of 33 historic districts. That count is as of April 2016, so it is now out of date. — https://www.brownstoner.com/select-story/brooklyn-historic-districts/
+- Districts designated since then include the Central Sunset Park, Sunset Park 50th Street, North, and South Historic Districts, all designated June 18, 2019. Brooklyn Heights was designated November 23, 1965. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_Brooklyn
+- Park Slope has 2,853 the total number of protected buildings. — https://www.nyc.gov/site/lpc/about/pr2016/04-12b.page
+- Next are Bedford-Stuyvesant (1,800) and Crown Heights (1,752). — https://bighaservice.com/crown-heights-bed-stuy-park-slope-which-brooklyn-neighborhoods-have-the-most-lpc-protected-buildings/
+- Brooklyn Heights has 1,284 protected sites, 684 of which are pre-Civil War. — https://www.garfieldbrooklyn.com/blog/brownstone-brooklyn-architecture-guide-5-historic-districts-explained/
+- Central Park Slope is unprotected. It has the largest collection of non-landmarked buildings in New York City. — https://brooklyneagle.com/articles/2020/02/13/here-are-14-photos-of-central-park-slope-that-will-make-you-smile
+
+### Main streets, parks and landmarks
+- Commercial corridors named: Fulton Street, Atlantic Avenue, and Fifth Avenue. [vendor] — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- In Prospect Heights, Vanderbilt Avenue is its main commercial strip. — https://comitini.com/neighborhoods/park-slope-and-prospect-heights
+- Prospect Park was laid out by landscape architects Frederick Law Olmsted and Calvert Vaux. It opened in 1867, though it was not substantially complete until 1873. — https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn)
+- Olmsted and Vaux designed Eastern Parkway, along with Ocean Parkway, in the 1860s. — https://en.wikipedia.org/wiki/Eastern_Parkway
+
+### Reddit and Yelp
+- Reddit threads about Arlo installs in Brooklyn — EMPTY. Search didn't return any r/Brooklyn, r/AskNYC, or r/homesecurity threads.
+- Yelp praise: "Professional, high quality and super neat work, no wires showing or hanging" (Eddies Security Systems). — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Yelp praise: one reviewer bought a camera system "so much more complicated than the WiFi ones" and was glad to have it installed by a pro. — https://www.yelp.com/search?find_desc=Security+Cameras&find_loc=Brooklyn,+NY
+- Yelp complaints — EMPTY
+- Brand complaints from a deals forum (April 2026): "Just say NO to Arlo. They killed off my entire camera system that I paid good money for." — https://slickdeals.net/f/19379262-extra-25-off-on-arlo-security-camera-closeouts-at-woot
+
+### Cost benchmarks
+- HomeAdvisor puts a basic Arlo setup at $250–$600 for 2–4 cameras. — https://www.homeadvisor.com/cost/safety-and-security/install-a-surveillance-camera/
+- Installing one Arlo Indoor Camera costs $159.99 through OnTech. — https://www.forbes.com/home-improvement/home-security/arlo-home-security-system-review/
+- Arlo partner HelloTech will install Arlo doorbells and cameras starting at $99. — https://www.nerdwallet.com/home-ownership/home-security/reviews/arlo
+
+### Questions people ask — Arlo Camera Installation in Brooklyn
+*These are labeled where I actually saw them (FAQ pages, Q&A sites, forums), not as PAA results.*
+- PAA questions — EMPTY (not accessible)
+- PASF / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing-only questions — EMPTY
+- DuckDuckGo-only questions — EMPTY
+- Reddit questions — EMPTY
+- Yelp questions — EMPTY
+- Can my landlord stop me from installing a security camera in a NYC apartment? — vendor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Do you need a permit to install a security camera in New York? — vendor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can my landlord watch my security cameras? —

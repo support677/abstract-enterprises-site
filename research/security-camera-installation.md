@@ -4617,3 +4617,456 @@ The questions below are real, but they come from FAQ sections on web pages, not 
 - **I ran out of searches** before reaching Patch, the Reddit subs, or live Google, Bing and DuckDuckGo results. A manual pass on those is still needed.
 - **Many "Westchester Heights" pages are AI-generated vendor pages** (Abstract Enterprises, Momo Locksmith, Bronx Tree Services). Use them only to see what competitors are saying, not as facts.
 - **Most of the specific local material is about Parkchester.** That fits, since this neighborhood was largely absorbed into it.
+
+## Brooklyn Heights, Brooklyn — /security-camera-installation-brooklyn-heights-brooklyn-ny (factory research, 2026-11-06)
+
+**A few limits to know first.** The search tool I have returns ordinary web results. It can't show Google's People Also Ask boxes, People Also Search For, AnswerThePublic, or separate Bing and DuckDuckGo results, so those are marked EMPTY below. I also found no actual Reddit threads, no HPD, 311 or DOB records, and no Patch or BKReader stories on this subject. Many of the installation-practice claims come from installer marketing pages, and they're labeled that way.
+
+### Facts specific to security camera installation here
+- Brooklyn Heights became NYC's first historic district in 1965. An electrician's page lists meter relocations, exterior conduit, generator placement, security camera wiring as work that typically needs LPC review. (Installer claim) — https://laureltonelectric.com/electrician-brooklyn-heights/
+- The LPC Permit Guidebook (Chapter 11) treats security cameras as commonly used safety equipment that LPC staff can approve when the installation meets set criteria. The detailed rules are in LPC Rules Section 2-20. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- The LPC's 2018 rule changes moved approval to staff level for installing objects or equipment on facades or areaway features, including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras, mailboxes. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20_Public%20Meeting%20Presentation.pdf
+- The proposed Section 2-20 rules would prohibit installation of many of these types of objects on a primary facade. Whether that applies to cameras needs checking against the final rule. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- Storefront businesses can use LPC Business Express, which covers Health, Safety and Utility Equipment (security cameras, light fixtures, etc.). Applications go through the Portico portal. — https://www.nyc.gov/site/lpc/applications/lpc-business-express.page
+- **Conflicting claim on visibility.** One installer says camera installs in landmark districts require LPC approval if visible from a public street — https://www.roloelectronics.com/brooklyn-ny-security-systems. A NoHo district guide says even if the proposed exterior work does not require a DOB permit or affects only the part of the property not visible from the street, you still need a LPC permit. — https://noho.nyc/lpc-launches-new-business-express-service/
+- An example of an LPC fight over cameras put up without approval: at an LPC hearing, a preservation group said cameras on a well-preserved facade were "sore thumbs." It suggested black cameras strategically hidden in the cornice or other locations that would not detract from the building. That case was 543 Halsey, which is not in Brooklyn Heights. — https://hdc.org/testimony/hdc-testimony-lpc-hearing-august-18-2015/
+- An LPC calendar shows Brooklyn Heights addresses (135 Willow, 216 Columbia Heights, 57 Willow aka 29 Orange, 20-34 Joralemon) on the same agenda as items to legalize work done without Landmarks Preservation Commission permits. The snippet doesn't show whether any of those items involved cameras. — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/05_23_06.pdf
+- How one installer routes cable on landmark brownstones: all cabling routes through the rear yard, internal stairwells, or roof bulkheads, with cameras concealed in eaves at the rear and a single discreet overview camera (often a doorbell unit) at the front stoop. (Installer claim) — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Camera positions one installer recommends for a Brooklyn Heights brownstone: (1) stoop/front entrance facing the sidewalk, (2) rear garden or yard, (3) parlor floor hallway if multi-unit, (4) any side alley or passageway, plus a camera covering the below-grade entrance where there's a basement apartment. The same page says WiFi cameras can't reliably penetrate the thick walls and floors of Brooklyn Heights buildings. (Installer claim) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york
+- Another installer's guidance: Cameras need to be small, limited in number, and finished to match the surrounding building material. Interior installations are generally permitted without LPC approval but may still require HOA sign-off. (Installer claim) — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- In apartment buildings, cost is driven by cabling from a cellar or lobby NVR up through risers to every stair-hall, fire-stopping rated penetrations, and brick-safe labor through brownstone masonry. (Installer claim) — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- NYC disclosure rule, as one installer describes it: New York City Local Law 50 requires that residential buildings with security cameras in common areas notify residents of their presence. (Installer's description; check the actual law text before using it on the page.) — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- **Local news:** City Council member Lincoln Restler's office put up $90,000 for surveillance cameras at two entrances to the Brooklyn Heights Promenade — https://brooklyneagle.com/articles/2025/06/23/video-surveillance-cameras-coming-to-brooklyn-heights-promenade. The Brooklyn Heights Blog covered the same story — http://brooklynheightsblog.com/archives/101754
+- **Local news:** A package thief was caught on camera at 90 Pierrepont St. The building's footage was posted in the lobby. — http://brooklynheightsblog.com/archives/72630
+- **Local news:** A woman's iMac was snatched as she reached her Cranberry Street apartment building. — https://www.brooklynpaper.com/84th-precinct-new-years-nightmare/
+- **Policing:** The 84th Precinct encompasses Brooklyn Heights, Boerum Hill, part of Downtown Brooklyn, DUMBO and Vinegar Hill. — https://brooklyneagle.com/367061/cops-of-the-month-help-clean-up-retail-theft-in-the-84th-precinct/. Captain Erek Powers became commanding officer in February 2026 — http://brooklynheightsblog.com/archives/category/crime-2
+- **Crime numbers:** In the 84th Precinct, violent crime was down 18.6% and all seven major crimes were down 18.5% versus 2025 (through Oct 11) — https://www.thebehfarteam.com/safest-neighborhoods-in-brooklyn/
+- HPD violations, 311 complaints, DOB permits for cameras or intercoms in Brooklyn Heights — EMPTY
+- Reddit threads about cameras in Brooklyn Heights — EMPTY
+
+### Neighborhood background
+- **Early history:** Robert Fulton then launched the first steam-powered ferry service in 1814… Residential construction quickened in the 1820s and continued until the turn of the century — https://brooklyneagle.com/307281/brooklyn-heights-history-2/
+- **Who built it:** Landowners whose names are still on the streets (Pierrepont, Middagh, Hicks) laid out uniform residential lots. 24 Middagh Street, the oldest surviving home in Brooklyn Heights — https://viewing.nyc/the-precedent-setting-history-of-how-brooklyn-heights-became-the-citys-first-historic-district/
+- **Early construction:** The earliest row houses, from the early 19th century up to the 1850s were of wood construction; two or three stories tall with an additional basement. — https://htsapts.com/brooklyn-heights-history
+- **Decline and BQE:** After the Brooklyn Bridge (1883) and the subway (1908) arrived, mansions were broken up into apartments and boarding houses. Building the BQE demolished whole rows of brownstones, and the Brooklyn Heights Association pushed for the Promenade on top — https://brooklyneagle.com/307281/brooklyn-heights-history-2/
+- **Boundaries:** The district runs from Cadman Plaza to the East River and south to Atlantic Avenue — https://www.corcoran.com/neighborhoods/guide/new-york-city/brooklyn-heights
+- **Housing stock:** Mostly Greek Revival and Italianate brownstones built between 1820 and 1880, plus prewar co-ops built 1900–1940 and newer buildings such as Pierhouse — https://reinventny.com/blog/brooklyn-heights
+- **Co-op — St. George Tower, 111 Hicks St:** 30 stories, 275 units, built 1929, full-service, four elevators — https://www.compass.com/building/st-george-tower-brooklyn-ny/293400287694118149/. Designed by Emery Roth and converted to co-ops in 1984 — https://www.cityrealty.com/nyc/brooklyn-heights/st-george-tower-111-hicks-street/41279
+- **Co-op — 1 Pierrepont St:** 13 stories, built 1921–24 — https://streeteasy.com/building/1-pierrepont-street-brooklyn
+- **Co-op — 62 Pierrepont St:** 8 stories, 40 units, 1912 Beaux Arts design by George Fred Pelham — https://www.cityrealty.com/nyc/brooklyn-heights/62-pierrepont-street/55012
+- **Co-op — 35 Pierrepont St:** 13 stories, Art Deco, built 1929, has a doorman — https://www.cityrealty.com/nyc/brooklyn-heights/35-pierrepont-street/54677
+- **Montague Street BID:** Serving more than 100 businesses, the District includes all properties on the north side of Montague Street between Court Street and Hicks Street. — https://www.montaguebid.com/the-bid
+- **Bank Row:** The historic bank buildings on Montague between Clinton and Court. Nearby tenants include Santander, Citizens and Chase banks, Chipotle, and Barry's — https://invest.jll.com/us/en/listings/retail/181-montague-street
+- **Other retail streets:** Court Street, Atlantic Avenue, and part of Henry Street — https://thekanthateam.com/blog/is-brooklyn-heights-the-ultimate-historic-brownstone-address
+- **Promenade:** About 1,826 ft long, built above the BQE's triple cantilever — https://www.storyhunt.io/en/articles/brooklyn-heights-promenade
+- **BQE repair (August 2026):** The $4B plan builds a temporary bypass on Furman Street. Major work won't start before 2030, and the Promenade would be rebuilt in segments from roughly 2032 to 2040 — http://brooklynheightsblog.com/archives/103328 ; https://abc7ny.com/post/nyc-unveils-4-billion-plan-overhaul-aging-bqe-closing-brooklyn-promenade/19726568/
+- Patch, BKReader, Bronx Times coverage on this topic — EMPTY
+
+### Questions people ask — Security Camera Installation in Brooklyn Heights
+- Google People Also Ask (8–12 questions) — EMPTY (couldn't be retrieved)
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic fan-out — EMPTY
+- Bing / DuckDuckGo unique questions — EMPTY
+- Reddit (r/BrooklynHeights, r/Brooklyn, r/AskNYC, r/homesecurity) — EMPTY
+- "Can I install a security camera in a landmark building in Brooklyn?" — installer FAQ, not confirmed as PAA — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- "How much does CCTV installation cost in Brooklyn?" — installer FAQ, not confirmed as PAA — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- "Can you install cameras on a Brooklyn brownstone without damage?" — installer FAQ — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- "Can you install on Brooklyn Heights brownstones?" / "Wired or wireless cameras for Brooklyn Heights buildings?" — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york
+- "Do you need a permit for security cameras in NYC?" — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- "Do I have to tell my tenants about security cameras in common areas?" — installer FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- "What should I look for when hiring a security camera installer in Brooklyn?" — installer FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installers-brooklyn
+- "Am I legally allowed to install a camera outside my front door that faces into the public hallway?" (from a Brooklyn renter) — JustAnswer, not Reddit — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- "Can anyone recommend a reliable company for commercial security system installation?" — Yelp "Ask Brooklyn locals" — https://www.yelp.com/search?find_desc=Alarm+Company&find_loc=Brooklyn+Heights%2C+Brooklyn%2C+NY
+- Recommendation thread on Brooklyn security systems (Alarms R Us praised; ADT installers criticized as reselling mid-tier components and contracting mediocre service personnel) — Brownstoner forum, not Yelp or Reddit — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+- Yelp praise: "Professional, high quality and super neat work, no wires showing or hanging" (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Yelp complaints about camera installers near Brooklyn Heights — EMPTY
+
+## Westchester Square, Bronx — /security-camera-installation-westchester-square-bronx-ny (factory research, 2026-11-06)
+
+**Facts specific to security camera installation here (most important)**
+
+- The Bronx DA runs a camera registry called CAMS. When a home or business owner signs their security cameras up, the location is added to a database that feeds an interactive map. Then, as prosecutors investigate a crime, they can enter an address and find nearby cameras that may have valuable evidence. In 2019, a sign informed passersby in the Westchester Square neighborhood that video surveillance is in use. — https://www.welcome2thebronx.com/2019/04/bronx-prosecutors-want-to-keep-an-eye-on-you/
+- The DA built CAMS together with the Bronx Chamber and the borough's BIDs, unveiling a security camera-sharing program titled the Bronx Community Assisted Mapping System at the end of 2018. Lisa Sorin, the Chamber's president, was previously executive director of the Westchester Square BID, where she worked with New York State to have nine surveillance cameras installed in the BID's most trafficked areas. — https://bxtimes.com/stories/2019/3/03-daclark-2019-01-18-bx.html
+- Assembly Member Benedetto's office says it has a record of funding cameras for both Westchester Square in 2009 and Co-op City in 2021. In the neighboring Throggs Neck BID it later secured a $320,000 grant for NYPD Argus cameras. — https://www.assembly.ny.gov/mem/Michael-Benedetto/story/104629
+- On the nearby Throggs Neck BID's NYPD cameras, the cameras are monitored in real-time by the 45th precinct and police headquarters. The 45th Precinct is the same one that covers Westchester Square. — https://news.yahoo.com/anti-crime-cameras-installed-bronx-023515656.html
+- The Westchester Square subway station was upgraded: the upgrades include fire alarms, security cameras and making the station fully accessible with new elevators. — https://bronx.news12.com/upgrades-complete-at-westchester-square-subway-station
+- LPC rules matter on two individual landmarks here: St. Peter's (2500 Westchester Ave) and the Huntington Free Library (9 Westchester Square). One summary of the rules says LPC allows no more than two cameras per 25 feet of street frontage for small buildings and three per 25 feet for large buildings. It also says LPC generally discourages installation on a primary façade unless no other option exists. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- LPC's Permit Guidebook (Chapter 11) covers "Installing Security Cameras" under LPC Rules Section 2-20. Staff can approve cameras that meet the criteria, and the guidebook shows dome cameras finished to match the building. Check the PDF for exact wording. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC held a hearing on the library: LPC-23-05416 9 WESTCHESTER SQUARE, BRONX-3981-2, LPC Public Hearing September 25, 2023. — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20230926/9-Westchester-Square.pdf
+- At the library site, the existing annex building and the connecting corridor (neither of which are part of the landmark designation) will be demolished to make room for a new branch library. So on the same lot, some parts are landmarked and some are not. — https://www.nyc.gov/assets/planning/download/pdf/about/cpc/160335.pdf
+- Licensing: You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- The license covers CCTV used for the detection or monitoring of intrusion, break-in, theft, movement, sound or fire. — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- One trade group warns that unlicensed installers of systems (which INCLUDE security cameras, CCTV, access control systems, etc.)... may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- One installer's blog says NYC Local Law 50 requires that residential buildings with security cameras in common areas notify residents of their presence. This comes from a vendor and I haven't checked it against the law itself. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Renters and common areas: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Building stock that shapes wiring work: after the 1920 el, speculative development turned Westchester Square into a dense neighborhood of one- and two-family homes complemented by corridors of shopping and commercial activity. Earlier, the neighborhood was characterized by relatively large single-family houses, many of which still survive today. — https://6tocelebrate.org/neighborhood-items/westchester-square-the-bronx/
+- Many of the residences in the Westchester Square neighborhood are relatively historic, built no later than 1939, and in some cases, quite a bit earlier. A number of residences were also built between 1940 and 1969. Most of the residential real estate is renter occupied. — https://www.neighborhoodscout.com/ny/bronx/westchester-square
+- City Planning zoning study: Westchester Square is characterized by low and mid-density residential buildings and is generally zoned R6. — https://www.nyc.gov/assets/planning/download/pdf/plans/westchester-sq/westchester_sq.pdf
+- Recent incidents where camera footage mattered:
+  - **Feb 2026:** The gunman approached two men inside 1472 Saint Peters Ave. just before 11 p.m. Monday. — https://bronx.news12.com/man-wanted-for-gunpoint-robbery-in-westchester-square
+  - **Robbery behind 2276 Westchester Ave:** A 57-year-old man had just gotten out of his car, which was parked in the rear of 2276 Westchester Ave., when the assailant approached him. — https://bronx.news12.com/nypd-man-wanted-for-assault-and-robbery-in-westchester-square
+  - **Off-duty officer attack:** The ambush happened on St. Peter's Avenue near Tratman Avenue. Surveillance video showed the off-duty officer walking past a supermarket just after 4 a.m. — https://bronx.news12.com/city-officials-off-duty-police-officer-assaulted-and-robbed-in-westchester-square
+  - **Retail:** suspects were accused of robbing an AT&T store in Westchester Square on Jan. 21 allegedly taking four cell phones and $500 in cash. — https://www.cbsnews.com/newyork/news/two-people-accused-in-gunpoint-robberies-in-the-bronx/
+- 45th Precinct numbers: five murders, 13 rapes, 235 robberies, 265 felony assaults, 108 burglaries, 609 grand larcenies, and 323 grand larcenies auto in 2022. — https://en.wikipedia.org/wiki/Westchester_Square,_Bronx
+- A Bronx camera-vandalism case: suspects damaged numerous surveillance cameras inside and outside the buildings. This was in Morris Heights, not Westchester Square, but it's a reason to recommend vandal-resistant housings. — https://www.cbsnews.com/newyork/news/police-suspects-busted-surveillance-cameras-in-multiple-bronx-buildings/
+- Nearby public housing: Pelham Parkway Houses (2455 Williamsbridge Rd) got camera funding after a 2012 murder. 88-year-old Evelyn Shapiro was found murdered in her Pelham Parkway Houses apartment at 2455 Williamsbridge Road. — https://home4.nyc.gov/site/nycha/about/press/pr-2012/multi-million-dollar-funding-announced-for-security-cameras-at-bx-nycha.page
+- A competitor already has a Westchester Square camera page, and it contains a location error: "IP cameras in Westchester Square Heights NY". — https://momolocallocksmith.com/security-cameras/bronx-ny/westchester-square/
+- **HPD violations, 311 complaints and DOB permits about cameras or intercoms in 10461/10462: EMPTY.** I didn't pull data from NYC Open Data.
+
+**History, streets, building stock, landmarks**
+
+- Westchester Square is one of the oldest continuously settled areas in the Bronx, established by English settlers around 1654 as the village of Oostdorp and serving as the seat of the town of Westchester until its incorporation into New York City in 1895. — https://nycneighborhoods.app/map/neighborhoods/westchester-square-bronx/
+- English settlers led by Thomas Pell negotiated a land purchase from the local Siwanoy Lenape people. — https://cityneighborhoods.nyc/westchester-square
+- Much of the Westchester Square was once farmlands of the Ferris family. Completed in 1920 as part of the Dual Contracts subway system expansion, the Westchester Square — East Tremont Avenue station sits on the Interborough Rapid Transit Company's Pelham Line. — https://6tocelebrate.org/neighborhoods/westchester-square/
+- Upwardly mobile Irish and Italian immigrants followed the newly constructed housing. — https://6tocelebrate.org/neighborhood-items/westchester-square-the-bronx/
+- Boundaries: East Tremont Avenue and Silver Street, Blondell Avenue and Westchester Creek to the east, Waterbury Avenue to the south and Castle Hill Avenue to the west. The main roadways through Westchester Square are East Tremont Avenue, Westchester Avenue and Williamsbridge Road. ZIP codes are 10461 and 10462. — https://en.wikipedia.org/wiki/Westchester_Square,_Bronx
+- There are still many 19th-century homes throughout the neighborhood, including several old Victorian mansions. Owen Dolen Park is bordered by Westchester Avenue, Lane Avenue and Williamsbridge Road. — https://en.wikipedia.org/wiki/Westchester_Square,_Bronx
+- St. Peter's: It was designated a New York City Landmark in 1976. It was added to the National Register of Historic Places in 1983. — https://en.wikipedia.org/wiki/St._Peter's_Church,_Chapel_and_Cemetery_Complex
+- Huntington Free Library: designated as a NYC Individual Landmark in 1994 as the "Van Shaick Free Reading Room / Huntington Free Library and Reading Room". Today the library is surrounded by a green iron fence. — https://6tocelebrate.org/site/van-shaick-free-reading-room-huntington-free-library-reading-room/ ; https://en.wikipedia.org/wiki/Huntington_Free_Library_and_Reading_Room
+- Other historic sites: Apple Bank (former Bronx Savings Bank), 12 Westchester Square, 1942, Cross & Cross. The Westchester Square — East Tremont Avenue station is listed on the State and National Register of Historic Places. — https://6tocelebrate.org/neighborhoods/westchester-square/
+- Historic district: EMPTY. I found no LPC historic district. The Historic Districts Council selected Westchester Square as one of the Six to Celebrate in 2018. — https://www.mas.org/events/westchester-square/
+- BID: Westchester Square is home to over 200 stores and over 350 years of history. The office is at 43 Westchester Square, 2nd floor. In 2012, the Westchester Square BID was officially created. — https://business.bronxchamber.org/list/member/westchester-square-bid-1682 ; https://kids.kiddle.co/Westchester_Square,_Bronx
+- The area is a transit hub: eight buses and one subway. Named businesses include One Westchester Square Florist and Pinky Nails. — https://www.norwoodnews.org/westchester-square-bid-enters-fourth-year-with-bounty-of-success/
+- Neat Dry Cleaning and Tailoring is at 2564 East Tremont Avenue. The Bronx Council on the Arts is at 2700 East Tremont Ave. — https://www.wsbid.org/shop ; https://business.bronxchamber.org/list/ql/family-community-civic-organizations-9
+- When Westchester Square did close in 2013, Montefiore Medical Center gained control of the building "and converted it to an ambulatory care center. — https://en.wikipedia.org/wiki/Westchester_Square_Medical_Center
+- Local Reddit discussion of the neighborhood or of camera installation here: **EMPTY.** No r/bronx or r/AskNYC threads came up in my searches.
+
+### Questions people ask — Security Camera Installation in Westchester Square
+
+Live Google People Also Ask, People Also Search For, Bing, DuckDuckGo and AnswerThePublic results: **EMPTY.** I couldn't capture any of them. The questions below come from published FAQ pages, Q&A sites and Yelp. Where each one was seen is labeled as it actually is.
+
+- Can a Bronx renter install a camera without landlord permission? — installer FAQ page — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-bronx
+- Can I install a security camera in the hallway for safety? — Brick Underground Q&A — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can I put a Ring camera on my apartment door? — JustAnswer — https://www.justanswer.com/landlord-tenant/na93t-ring-camera-apartment-door.html
+- Do I need my landlord's permission to install a Ring camera? / Are Ring cameras legal in apartment buildings? — installer blog FAQ — https://security-systems.nyc/blog/are-ring-cameras-allowed-in-apartment-buildings/
+- How much does security camera installation cost in NYC? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- How much does it cost to install a 4-camera security system in NYC? / What is the labor cost for CCTV installation in NYC? — installer FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- What is the average labor cost to install security cameras? — vendor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+- How much does wireless camera installation cost in the Bronx? / What is the best wireless camera for the Bronx? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-bronx-ny
+- How do I prevent package theft at my Bronx property? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Why is labor so much more than the camera price? — installer FAQ (apartment boards) — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-bronx
+- My last installer vanished after the job — how is this different? (the installer calls this the most common complaint: "wires hanging, no warranty callbacks") — installer FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-bronx
+- Do I need a permit to install security cameras in my NYC building? / Do I have to tell my tenants about cameras in common areas? — installer FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Do you need a license to install security cameras in New York? — integrator blog — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Is a video intercom/doorbell covered by the NYS alarm license? — law-firm Q&A — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- Related search: "Security Camera Repair in Bronx, New York" — Yelp related searches — https://www.yelp.com/search?find_desc=Ethernet+Wiring&find_loc=Bronx%2C+NY
+- Yelp praise near Westchester Square: "The installation for the security cameras was beyond impressive and flawless." — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Westchester+Square%2C+Bronx%2C+NY
+- Yelp complaints about nearby installers: **EMPTY.** None found.
+- Reddit threads (r/bronx, r/AskNYC, r/homesecurity): **EMPTY.** One installer says it collected "questions from Reddit," but I couldn't verify that.
+- Patch, BKReader or neighborhood blogs on cameras in Westchester Square: **EMPTY.** The Bronx Times and Welcome2TheBronx CAMS stories are listed above.
+
+## Bushwick, Brooklyn — /security-camera-installation-bushwick-brooklyn-ny (factory research, 2026-11-06)
+
+**Notes on the method:** I could only use one web search tool. I could not open Google's live results pages, Bing, DuckDuckGo or AnswerThePublic. That means none of the People Also Ask, People Also Search For, Bing, DuckDuckGo or AnswerThePublic data below was actually collected, and those fields say EMPTY. I also didn't find any HPD, 311 or DOB data specifically about cameras. Every finding below links to its source.
+
+### Facts specific to camera installation in Bushwick
+- Package theft from lobbies: police released video of a man taking packages from an apartment lobby on Lawton Street. The man was captured on surveillance video helping himself to packages from an apartment building lobby in Bushwick, according to police. It happened at a building on Lawton Street around 7 p.m. on July 19. The same suspect apparently stood on a bucket outside a first floor apartment and reached into the window of a unit. That makes ground-floor windows a camera-coverage case too. — https://www.cbsnews.com/amp/newyork/news/lobby-packages-stolen-brooklyn
+- Package theft from stoops: It happened shortly before 2 p.m. on Sept. 10 at an apartment building on Eldert Street in Bushwick. Surveillance video shows the man scope out the packages before coming back with a black garbage bag. — https://www.cbsnews.com/amp/newyork/news/brooklyn-packages-stolen
+- Reddit package-theft threads, as summarized by a package-locker company. I didn't open the threads themselves. The page mentions photographs from a doorbell camera shared on Reddit by another user about Bushwick package theft in Cooper and Central Ave, and says a porch pirate has been active in the Bushwick and Dekalb area according to a Reddit user. — https://www.deliveryamigo.com/cities/brooklyn/bushwick
+- A home burglary caught on camera: The burglary happened just after 4 p.m. at a home near Central Avenue and George Street in Bushwick. According to police, two individuals went inside and took a laptop, a Macbook, an iPad, a PlayStation and a camera before leaving. They were caught on surveillance footage. — https://www.cbsnews.com/newyork/news/bushwick-burglary-victim-in-backyard
+- An apartment break-in: surveillance photos show the suspects who entered an apartment at Palmetto Street and Irving Avenue in Bushwick. — https://www.cbsnews.com/amp/newyork/news/bushwick-break-in-assault
+- Construction-site and vacant-unit theft: they were captured on surveillance camera footage entering 946 Bushwick Ave., where the couple pried open the door of a vacant apartment and snatched $534 of construction gear. — https://www.dnainfo.com/new-york/20170515/bushwick/nypd-crime-stoppers-police-arrest-bushwick/
+- A street shooting in 2026 where private cameras recorded the scene: The shooting happened around 3:30 a.m. near Cooper Street and Broadway, according to police. Surveillance video from the area captures the moment shots rang out. — https://brooklyn.news12.com/2026/04/28/man-shot-in-bushwick-shooter-on-the-run/6icBY61eXpPGjNc4alX4Ez
+- A private camera recorded a police chase on Broadway: a dark-colored sedan speeding along a sidewalk near Broadway and Myrtle Avenue, while being closely pursued by an NYPD vehicle. — https://brooklyn.news12.com/exclusive-surveillance-video-captures-nypd-pursuit-in-bushwick
+- Most residents rent, so many jobs mean dealing with a landlord, and housing enforcement is heavy. Approximately 90% of all Bushwick households are renters. The city's plan says HPD carried out inspections in Bushwick and issued over 50,000 violations. I found no HPD violation category specific to cameras. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/04-bushwick-housing.pdf
+- 311 data: a study cited by Bushwick Daily showed that gentrifying neighborhoods like Bushwick were experiencing an increase in 311 calls. I found no 311 complaints specific to cameras (EMPTY). — https://bushwickdaily.com/news/6260-new-data-shows-less-crime-in-bushwick-but-gun-violence-is-still-on-the-rise/
+- Crime trend: Bushwick Daily reports that robbery and burglary — the felonies with the highest numbers in 2000 — are also down by 55.61 percent and 56.65 percent, respectively. — same URL
+- Unverified crime figures from a real-estate blog (low reliability): violent crime in Bushwick increased by 6% from 2024 to 2025, mainly due to concentrated assault spikes, while property crime decreased by 4%. — https://housereal.net/housereal-bushwick-statistics-types-crimes-safety/
+- Landmarks (LPC) rules: Bushwick's first historic district, on Linden Street, means camera mounting there needs LPC review. One block of Linden Street, from Broadway to Bushwick Avenue has remained virtually unchanged—on the outside, at least. Now, thanks to a unanimous vote from the Landmarks Preservation Commission this past May, the block of 32 brick and brownstones will be preserved. The year of the vote isn't shown in the result. — https://bushwickdaily.com/bushwick/linden-street-historic-district-first-new/
+- The LPC camera rule (Section 2-20) covers objects commonly used for security measures, such as lighting, security cameras and intercom panels. The proposed rules would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative or the location is mandated by an agency or entity. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- LPC permit guidebook, chapter 11.7 "Installing Security Cameras": the relatively small and discrete nature of these types of installations, their physical requirements, legal constraints, and their presence throughout the city serve as the basis for LPC's rules. Staff can approve camera installs that meet the criteria; the full criteria are in the PDF. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- How long LPC takes: staff-level permits may be issued in under two weeks, a full Certificate of Appropriateness can take several months. — https://parkbencharchitects.com/nyc-landmarks-process-simplified/
+- Individual landmarks: the Ridgewood Masonic Temple at 1054 Bushwick Avenue, designated an individual landmark on July 22, 2014, for residential use. The lodge at the corner of Gates Avenue was designed by the firm of Koch & Wagner and completed in 1920. — https://newyorkyimby.com/2016/01/landmarks-approves-conversion-of-former-ridgewood-masonic-temple.html
+- The Ulmer Brewery complex at Beaver and Belvidere Streets has recently been landmarked by the city Landmaks Preservation Commission. — https://forgotten-ny.com/2010/07/forgottentour-41-bushwick-brooklyn/
+- Licensing: no person shall engage in the business of installing, servicing or maintaining security or fire alarm systems or hold himself out as being able so to do unless he is licensed under NYS Article 6-D. — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- Licensing detail from an industry blog: a state license is needed for video surveillance installs in NYC, and getting one means completing 81 hours of training, second passing a background check, and third applying for a license. — https://www.iptechview.com/security-camera-installation-license-requirement-new-york/
+- Wiring choices (whether to reuse old coax or run new cable): Existing cable has to be checked first: water-damaged or heavily spliced coax can cost more to work around than to replace. — https://linkedsecurityny.com/services/cctv-system-installation-ny/
+- A competitor's view on building wiring: the cost lives in cabling, fire-stopping, switch and storage infrastructure, and labor through difficult building stock, not in the camera itself. — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-brooklyn
+- Getting footage from a landlord (NYC story; I couldn't confirm it was in Bushwick): the landlord could refer Milgrom to the camera vendor to retrieve it for a fee. — https://gothamist.com/news/4300-in-missing-rugs-online-shame-7-hours-in-nypd-custody-a-stooping-story
+- Local camera installers: BSG Protect at 1126 Bushwick Ave says "We have installed over 5,000 camera systems for taxi drivers in their vehicles. All these jobs done in our premises since 1994." — https://www.yelp.com/biz/bsg-protect-brooklyn-2
+- Falcon Locksmith at 1259 Myrtle Ave appears at the top of Yelp's Brooklyn CCTV results: "Efficient" - according to 41 users. — https://www.yelp.com/search?find_desc=Cctv+Security+Camera+Installation&find_loc=Brooklyn,+NY
+- DOB permits for cameras: EMPTY.
+
+### History and development
+- Before breweries came to Bushwick, it was a farming community where Dutch settlers grew tobacco for the local market. "Bushwick" comes from Dutch for "town in the woods." — https://forgotten-ny.com/2010/07/forgottentour-41-bushwick-brooklyn/
+- Bushwick was established in 1660. — http://bushwiki.nyc/bushwick-history/
+- Adrian Martenses Suydam began to subdivide his family farm, and by 1884, 125 residences had been built in the area while breweries were popping up. Development may have boomed after 1888 when the Broadway and Myrtle Avenue elevated railway reached the area. — https://brooklyneagle.com/323855/bushwick-history/
+- Bushwick was home to "Brewer's Row," a 14-block stretch that hosted 11 breweries. — same URL
+- Builders: Paul Stier built more than 2,000 buildings in the Ridgewood/Bushwick area. — https://www.6sqft.com/ridgewood-gets-its-fourth-historic-district-with-990-buildings/
+- Architects: Louis Berger & Company was the architect of record for over 5,000 buildings in the Ridgewood-Bushwick area. — https://www.nyc.gov/assets/lpc/downloads/pdf/press/archive/2014/14-06-Ridgewood-Historic-District.pdf
+- The new residents of Bushwick were predominantly Sicilian, and Rheingold, the last and largest Bushwick brewery, closed in 1976. — https://theneighborhoods.substack.com/p/bushwick-brooklyn
+- Bushwick suffered a slow decline, culminating in July 1977 when, during a blackout, Bushwick , in effect, was destroyed by arson and looting. — http://bushwiki.nyc/bushwick-history/
+
+### Main streets and commercial corridors
+- Commercial activity in Bushwick is concentrated along Knickerbocker Avenue, Broadway, Myrtle Avenue, and Wyckoff Avenue. — https://www.acreny.us/post/bushwick-neighborhood-introduction
+- The city's plan wants to "brighten" Broadway and Myrtle Avenue in the dark spaces under the elevated train. That darkness is a lighting and low-light camera issue. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/bushwick-neighborhood-plan/plan/09-bushwick-land-use.pdf
+- The city's commercial district study lists the Knickerbocker Avenue Merchants Partnership (KAMP) — https://a860-gpp.nyc.gov/downloads/hq37vr27h?locale=en
+- In 2019, the New York City Department of City Planning released a Bushwick rezoning plan, which would allow for high-density development on Bushwick, Myrtle and Wyckoff Avenues. — https://en.wikipedia.org/wiki/Bushwick_Avenue
+
+### Building stock
+- Bushwick's residential base splits into three eras: pre-war rowhouses and small multifamilies from the 1890s–1930s, mid-century tenement-style walk-ups, and a wave of post-2010 ground-up condominiums and converted industrial lofts. — https://reinventny.com/blog/bushwick
+- Bushwick in the 19th century was economically mixed, with middle-class rowhouses, upper-class mansions and working-class tenements existing side by side. — https://forgotten-ny.com/2010/07/forgottentour-41-bushwick-brooklyn/
+- The Denizen is Bushwick's controversial one million-square-foot rental development spread over two city blocks. The "city within a city," which also boasts an arcade and a spinning studio, is built on the site of the former Rheingold brewery. — https://theneighborhoods.substack.com/p/bushwick-brooklyn
+- Nearby Ridgewood buildings, the same stock that runs across the border, have load-bearing masonry walls constructed of red, buff, amber, and brown Kreischer brick. That matters for anchoring and drilling. — https://en.wikipedia.org/wiki/Central_Ridgewood_Historic_District
+
+### Parks, landmarks and what it's known for
+- Maria Hernandez Park, Irving Square Park, Myrtle/Wyckoff Plaza, and Knickerbocker Avenue Plaza — https://www.acreny.us/post/bushwick-neighborhood-introduction
+- Bushwick boasts vibrant street art, Maria Hernandez Park, the House of Yes venue, and trendy lofts in repurposed factories — https://www.bhsusa.com/neighborhood/new-york-city/brooklyn/bushwick
+- 2026 news: masked United States Immigration and Customs Enforcement (ICE) agents arrested a Nigerian undocumented immigrant in Bushwick, and protests followed at Wyckoff Heights Medical Center. — https://en.wikipedia.org/wiki/2026_Bushwick_hospital_ICE_incident
+
+### Price points in the market (competitor claims)
+- Residential installations typically range from $800-$1,500 for a basic 2-4 camera system in a small apartment, up to $1,500-$3,000 for larger homes with 8-10 cameras. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- A typical 2–4 camera wired PoE system starts at $1,800. — https://senecasecurity.com/security-cameras-brooklyn/
+- The average labor cost to install security cameras ranges from $80 to $200 per camera. — https://butterflymx.com/blog/security-camera-installation-nyc/
+
+### Yelp praise and complaints
+- Praise: "Professional, high quality and super neat work, no wires showing or hanging" — https://www.yelp.com/search?find_desc=Cctv+Security+Camera+Installation&find_loc=Brooklyn,+NY
+- Praise: "say the work is top notch, the wiring is done incredibly neatly, and secured to the floor and hidden" (KJD AV Design) — https://www.yelp.com/search?find_desc=Security&find_loc=Bushwick,+Brooklyn,+NY
+- Complaints: EMPTY
+
+### Hyperlocal outlets
+- Bushwick Daily has a crime tag with camera-related stories, e.g. Police Seek 2 in Connection with 17 North Brooklyn Burglaries. — https://bushwickdaily.com/tag/crime/
+- Patch, BKReader: EMPTY
+
+### Questions people ask — Security Camera Installation in Bushwick
+None of these came from Google People Also Ask; the "where seen" note on each says where it did come from.
+- How much does security camera installation cost in Brooklyn NY? — competitor FAQ (not PAA) — https://electrifiedny.com/residential/security-camera-installation/
+- How much does CCTV installation cost in Brooklyn? — competitor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- How much does apartment building camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Why is labor so much more than the camera price? — competitor FAQ — same URL
+- Are there monthly fees for a business camera system? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-brooklyn
+- What should I look for when hiring a security camera installer in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- What brand of wireless camera do you recommend for a Brooklyn brownstone? — competitor FAQ (the page says its questions come "from Reddit, Brick Underground & Brownstoner"; I didn't verify that) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Can I install security cameras in my apartment? — competit
+
+## Williamsbridge, Bronx — /security-camera-installation-williamsbridge-bronx-ny (factory research, 2026-11-06)
+
+**Notes before using this:**
+- I couldn't pull Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo results, and I found no Reddit threads. Those fields are marked EMPTY below. The questions I did find come from FAQ sections on other installers' sites and one legal Q&A site, and they're labeled that way.
+- I got no HPD, 311 or DOB permit data for Williamsbridge. Those are EMPTY too.
+- Two "Williamsbridge" names point outside the neighborhood (the Williamsbridge Oval and Williamsbridge Road), and one Citizen report labeled Williamsbridge sits in the 49th Precinct. These are flagged in the bullets.
+
+**Service-specific findings: buildings, entry and wiring, city data, news, businesses and blocks**
+- Housing type: 47.3% of the real estate here are small 2, 3, or 4 unit apartment buildings, which is a higher proportion than found in 98.2% of America's neighborhoods. That makes small multifamily buildings (shared stoops, vestibules, rear yards) the main install setting. — https://www.neighborhoodscout.com/ny/bronx/williamsbridge
+- Building age: Many of the residences in the Williamsbridge neighborhood are older, well-established, built between 1940 and 1969. A number of residences were also built before 1940. — https://www.neighborhoodscout.com/ny/bronx/williamsbridge
+- City Planning describes the neighborhood: except for the residential/commercial thoroughfares, the Williamsbridge neighborhood is predominately developed with detached two-story single family homes and row houses, with some small, three- to five-story apartment buildings — https://www.nyc.gov/assets/planning/download/pdf/about/cpc/110384.pdf
+- Building height: Clusters of one- and two-family homes are prevalent in many parts of Williamsbridge and few buildings are higher than 70 feet. Expect low-rise mounting heights and short cable runs. — https://en.wikipedia.org/wiki/Williamsbridge,_Bronx
+- Driveways and parking: The northern section of the neighborhood is more purely residential with longer walks to shopping and dining options, though many homes are designed with parking spots in front. This is relevant to driveway and car cameras. — https://www.homes.com/local-guide/bronx-ny/williamsbridge-neighborhood/
+- Co-ops: Co-ops and multifamily homes make up much of the housing in Williamsbridge. Board approval and certificates of insurance may apply. — https://www.homes.com/local-guide/bronx-ny/williamsbridge-neighborhood/
+- Rear-window burglary (Jan 2026): A brazen burglary in Williamsbridge was caught on newly released NYPD surveillance video during Sunday's snowstorm. Police say two men broke into a home on Holland Avenue, forcing their way in through a back window. Investigators say the stolen safe contained cash, jewelry, passports and business documents. Angle: rear-window and back-yard coverage. — https://bronx.news12.com/2026/01/28/nypd-two-men-wanted-following-burglary-in-williamsbridge-home/2myoVeoslwrgf5JSXD97x7
+- Robbery, E. 213th St and Holland Ave: The victim was in the vicinity of East 213 Street and Holland Avenue — within the confines of the 47th Precinct. The NYPD on Feb. 14 released surveillance footage of the suspects. — https://www.bxtimes.com/suspects-williamsbridge-robbery/
+- Robbery on E. Gun Hill Rd (2022): Surveillance video shows them punching the teen as he tried to escape. It happened earlier this month on East Gun Hill Road in the Williamsbridge section. — https://abc7ny.com/post/bronx-robbery-crime-williamsbridge-attack/11655403/
+- Shooting on Fenton Ave (2021): The video shows the suspect opening fire on Fenton Avenue in Williamsbridge. — https://abc7ny.com/post/bronx-shooting-caught-on-camera-williamsbridge-nypd-crimestoppers/10444573/
+- Recent incidents (Nov 2026, Citizen app): stabbing/shots-fired report at 712 E 216th St, and a Report of Fire on Roof — White Plains Rd & E 219th St, Williamsbridge, Bronx · Nov 3 at 10:31 PM — https://citizen.com/-P5TqS769obNYZdid8zM
+- Burglary on White Plains Rd (SpotCrime): Burglary 07/12/2026 11:00 PM 3300 BLOCK OF WHITE PLAINS RD — https://spotcrime.com/ny/bronx/williams+bridge
+- Caution, wrong precinct: Citizen labels a shots-fired report at 717 Ollerton Avenue, cross of White Plains Road and Kruger Avenue as Williamsbridge, but the radio call places it in the 49th Precinct, which is likely Allerton. — https://citizen.com/-P04o5VzKfpoByrL0cQ5
+- Precinct statistics: The precinct reported 16 murders, 45 rapes, 461 robberies, 732 felony assaults, 300 burglaries, 758 grand larcenies, and 461 grand larcenies auto in 2022. Police station: located at 4111 Laconia Avenue — https://en.wikipedia.org/wiki/Williamsbridge,_Bronx
+- NYPD street cameras: District leaders in the Northeast Bronx announced a $1 million investment to expand ARGUS security camera systems across the NYPD's 47th Precinct. The effort aims to reduce delays in obtaining footage. Angle: private footage still matters. — https://bronx.news12.com/1m-invested-in-new-nypd-argus-cameras-to-boost-safety-in-northeast-bronx
+- Gun Hill Houses (NYCHA) cameras: Riley pushed for $675,000 in capital funding for the installation of security cameras on the grounds of NYCHA Gun Hill Houses development. The push followed an incident in January 2022, in which a bullet struck a daycare on White Plains Rd located in the NYCHA development. — https://nycaribnews.com/nyc-council-member-riley-presents-funding-to-provide-gun-hill-houses-with-security-cameras/
+- Gun Hill Houses was on the 2015 camera list: 29 NYCHA developments will receive cameras and other security enhancements by the end of 2015, and the list includes Gun Hill Houses. — https://www.nyc.gov/site/nycha/about/press/pr-2015/cctv-progress-20150324.page
+- Gun Hill Houses addresses: 3440 WHITE PLAINS ROAD … DAY CARE CENTER, 712 and 740 Gun Hill Road, 3435 Holland Avenue — https://home4.nyc.gov/assets/nycha/downloads/pdf/maps-guides/bronx/gun-hill.pdf
+- Tenant-installed cameras in NYCHA (Parkside Houses, nearby): Rebecca … told WNBC New York that she recently received an eviction notice saying that she had breached her lease by installing the cameras at Parkside Houses, a public housing complex in the Bronx. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- Caution, the Williamsbridge Oval is in Norwood (52nd Precinct), not this neighborhood: NYPD hoped to install three Argus security cameras that the precinct could remotely monitor and control with pan, tilt, and zoom functions; "We don't have any cameras in that park," Maneri said. — https://www.bxtimes.com/security-cameras-in-the-williamsbridge-oval-coming/
+- Package theft in nearby Pelham Gardens: A Pelham Gardens resident caught home video of a person stealing his packages off his front porch. — https://bronx.news12.com/caught-on-camera-porch-pirates-strike-again-this-holiday-season
+- Licensing: In New York State, anyone installing low-voltage systems — including security cameras, access control, and intercoms — must hold a valid license from the Department of State. — https://senecasecurity.com/learn/how-to-vet-security-installation-companies-nyc-metro/
+- Permits: For most residential camera installations, no permit is required. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- No camera mandate: There is no general NYC law mandating cameras in apartment buildings. HPD may recommend them in buildings with ongoing crime-related violations… but the legal mandate is for intercoms and lighting — not cameras. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Common-area rules: As long as the camera is not aimed at looking into the apartment when the apartment door is open, video surveillance is legal. — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Tenants: Tenants generally do not have the right to install cameras in common hallways, lobbies, or other shared spaces without landlord permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Audio: Whether a camera passively capturing hallway audio meets the definition of unlawful eavesdropping has never been settled cleanly, which is why audio is usually left off. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Small-business funding: through SBS's BPREP program, eligible businesses can also receive grants of up to 5,000 dollars to shore up their infrastructure with items like generator, fire and flood-proof storage, flood barriers, hardware drives for critical data, and security cameras. SBS also promotes a state commercial security tax credit. Relevant to White Plains Rd storefronts. — https://legistar.council.nyc.gov/View.ashx?GUID=8FB1457B-5268-4576-811B-430A1CF13B99&ID=15350684&M=F
+- White Plains Road Neighborhood Plan: it covers a major commercial corridor in the North Bronx stretching from Adee Avenue to the Bronx-Mount Vernon border, including portions of Gun Hill Road and East 233rd Street. Officials said the area… remains dominated by one- and two-story commercial buildings. — https://nycaribnews.com/nyc-mamdani-plans-for-caribbean-americans-neighborhood-in-the-bronx/
+- Council Member Riley on the corridor: "White Plains Road for decades has been an eyesore for this community when it comes to public safety, sanitation, or even having access to resources for our small businesses over there," Riley said. — https://bronx.news12.com/council-member-kevin-riley-running-for-re-election-in-district-12
+- Local security companies nearby: Nyteck Systems Inc at 3675 Bronxwood Ave Bronx, NY 10469 — https://findasecuritydealer.com/installers/ny/bronx. Its Yelp listing shows Nyteck Systems 3.0 (2 reviews) — https://m.yelp.com/search?find_desc=surveillance+camera+installation&find_loc=Bronx%2C+NY. Caution: Nyteck's other address, 2706 Williamsbridge Rd, is on a road outside the neighborhood (Williamsbridge Rd runs through the Pelham Parkway/Morris Park area). — https://www.mapquest.com/us/new-york/nyteck-security-systems-inc-350728981
+- An ADT listing on the corridor: 2228 White Plains Rd Bronx, NY 10467 (this address is south of Williamsbridge). — https://www.yellowpages.com/bronx-ny/home-security-cameras
+- HPD violations, 311 complaints, DOB permit records for Williamsbridge: EMPTY
+- Landmarks rules (LPC) inside Williamsbridge: EMPTY. No historic district was found. The nearest individual landmark is in Norwood (see below).
+
+**History, streets, building stock, landmarks**
+- Name origin: Williamsbridge was named for 18th Century farmer John Williams, who had a farm on the east bank of the Bronx River in the vicinity of Gun Hill Road and White Plains Road, and was credited with building the first bridge over the Bronx River. — https://en.wikipedia.org/wiki/Williamsbridge,_Bronx
+- Development: Until the MTA extended subway tracks to Williamsbridge in the 1920s, the neighborhood was quite rural. — https://www.neighborhoods.com/williamsbridge-bronx-ny
+- Building eras: Most homes were built during the post-WWII boom, but a small number of late-19th-century cottages still stands on White Plains Road. — https://www.apartments.com/local-guide/williamsbridge-bronx-ny/
+- Boundaries (sources disagree): Bounded by East 222nd Street to the north, Boston Road to the east, East Gun Hill Road to the south, and the Bronx River Parkway to the west — https://cityneighborhoods.nyc/williamsbridge. An installer's page puts the southern edge at Adee Avenue and gives ZIP codes 10466, 10467 and 10469. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-williamsbridge-bronx-ny
+- 1970s: While nearby districts experienced disinvestment and arson, Williamsbridge's high rate of owner-occupancy and active block associations helped maintain its housing stock and community life. — https://cityneighborhoods.nyc/williamsbridge
+- Main streets: White Plains Road is the primary thoroughfare through Williamsbridge. — https://en.wikipedia.org/wiki/Williamsbridge,_Bronx. Gun Hill Road intersects White Plains Road within Williamsbridge Square. The subway there serves the 2 and 5 trains. — https://en.wikipedia.org/wiki/Gun_Hill_Road_(road)
+- 2011 rezoning: On October 5th, 2011, the City Council adopted the Williamsbridge/Baychester Rezoning. — https://www.nyc.gov/assets/planning/download/pdf/plans/williamsbridge-baychester/will_bay.pdf. It came in response to community concerns about out-of-character buildings — https://www.nyc.gov:443/assets/planning/download/pdf/about/press-releases/pr062011a.pdf
+- R5A pockets: two R5A districts are proposed west of White Plains Road in the area that I said is more dense. These are two pockets of mainly one- and two-family detached homes. — https://legistar.council.nyc.gov/View.ashx?GUID=EC197B2D-2706-48C9-8C4B-76E07E9DA4A0&ID=1584730&M=F
+- Gun Hill Houses: Gunhill Houses were constructed in 1951 and consist of 19 buildings — https://gunhillhouses.com/about-us/. A separate source lists them at # of Stories 14 — https://nycharealtalk.org/lots/2046290050/
+- Other subsidized housing: Parkside Senior Center, and Sydney House on Tilden Street, which is a project of Habitat For Humanity. — https://www.homes.com/local-guide/bronx-ny/williamsbridge-neighborhood/
+- Nearest landmark (Norwood, not Williamsbridge): The Williamsbridge Reservoir Keeper's House is the only surviving building in New York City associated with the Bronx and Byram Rivers water system. It was designated February 8, 2000. — https://hdc.org/buildings/williamsbridge-reservoir-keepers-house-3400-reservoir-oval/
+- Local identity: residents at the White Plains Road planning workshop emphasized support for Afro-Caribbean businesses and festivals — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/bronx/white-plains-road-neighborhood-plan/white-plains-road-public-workshop-vision-and-goals-summary.pdf
+- Local Reddit threads (r/bronx, r/AskNYC, r/homesecurity): EMPTY
+- Patch or BKReader coverage: EMPTY
+
+**Pricing references (for the cost question)**
+- A professionally installed 4-camera CCTV system in NYC usually costs between $800 and $1,000, including basic hardware and standard installation. — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- Often around $1,500 to $4,500 depending on camera count, exterior mounting, attic or basement access, Wi-Fi/network conditions, and remote viewing. — https://nycsecuritysystemspro.com/how-much-does-security-camera-installation-cost-nyc/
+- Borough pricing: Queens and the Bronx run about 10% more than Brooklyn, according to one installer. — https://www.abstractenterprisessecuritysystems.com/ubiquiti-camera-installation-prices-nyc
+
+###
+
+## Canarsie, Brooklyn — /security-camera-installation-canarsie-brooklyn-ny (factory research, 2026-11-06)
+
+**Before you use this:** My only tool was a general web search. I couldn't open Google, Bing or DuckDuckGo results pages, Answer the Public, or any city databases. So the People Also Ask, related searches, Bing, DuckDuckGo, Answer the Public, HPD, 311, DOB and LPC rows are marked EMPTY. I didn't fill them in from memory. I also found no Reddit threads.
+
+**Facts specific to security cameras in Canarsie**
+- Recent crime caught on camera (car theft): Surveillance video captured the theft in the early morning hours of October 19. Around 1:30 a.m., a man was seen exiting a red car and walking toward a parked vehicle near Avenue J and East 106th Street. Afterward, the owner is urging neighbors to take extra precautions to protect their vehicles, including installing tracking devices, using steering wheel locks, and placing AirTags — https://brooklyn.news12.com/caught-on-camera-thieves-steal-new-car-from-familys-canarsie-driveway
+- Body found on Oct. 30, 2026: The discovery happened around 9:30 a.m. at the corner of East 93rd Street and Avenue L. Surveillance video showed two men driving a sedan, removing the body from the trunk around 1:30 a.m. and then driving away. — https://abc7ny.com/post/man-found-dead-inside-garbage-bag-canarsie-brooklyn/20000167/
+- The victim was later named: Joseph Owusu was identified by the NYPD as the man whose body was discovered Friday morning in Canarsie — https://abc7ny.com/post/bronx-man-found-dead-garbage-bag-brooklyn-idd-joseph-owusu/20017828/
+- The site was outside a long-vacant former movie theater, and a resident said "This is normally a really quiet area." — https://amny.com/news/dead-body-trash-bag-brooklyn-10302026
+- Home invasion: the frightening incident took place around 12:10 a.m. on Saturday, October 24th, at 108-31 Avenue N, within the confines of the 69th Precinct. — https://canarsiecourier.com/thousands-stolen-in-canarsie-home-invasion/
+- Fake delivery driver (useful for a doorbell-camera and video-intercom angle): at E. 92nd Street and Avenue J, the suspect posed as a delivery driver. They say he walked up to the home, rang the doorbell and forced his way inside. Others say it's making them more anxious about accepting deliveries. — https://brooklyn.news12.com/police-canarsie-home-invasion-suspect-posed-as-delivery-driver-hit-man-with-gun
+- Arrest in that case: Eric Butler, 23, posed as a delivery driver and forced his way into a home on East 92nd Street and Avenue J. — https://bronx.news12.com/pa-man-arrested-in-connection-to-home-invasion-in-canarsie
+- Police advice on basement windows (from an older 69th Precinct meeting): residential burglaries, including copper pipe theft, have spiked a bit over the most recent 28-day period. As thieves are entering through basement windows, the captain recommended that homeowners put grills on their basement windows and install camera systems. — https://canarsiecourier.com/when-the-community-speaks-the-69th-precinct-listens/
+- Earlier precinct update: Felony assaults, burglaries and grand larcenies (including auto theft and store theft) are all up. — https://canarsiecourier.com/cops-of-the-month-recognized-for-stolen-car-and-gun-arrests/
+- Store owners' main worry: Merchant surveys revealed that their main concerns are safety and crime, with sanitation coming in second and commercial rent, third. — https://canarsiecourier.com/a-bike-lane-to-nowhere-and-an-assessment-of-canarsies-commercial-corridors/
+- Flooding (affects where to put recorders and power supplies):
+  - During Hurricane Sandy, there was extensive flooding that caused significant damage to basements and ground floor levels throughout Canarsie. Also, even during more regular, smaller storms street flooding and sewer backups can cause minor damage and inconvenience. — https://home.nyc.gov/site/planning/plans/resilient-neighborhoods/canarsie.page
+  - A 2020 water main break: one resident said "All my electrical stuff, it was on the floor, so I couldn't really save anything due to how fast the water was coming in." (558 East 78th St) — https://www.cbsnews.com/newyork/news/brooklyn-canarsie-water-main-break
+- Attached homes (affects wiring and camera placement): Over 70 percent of Canarsie's homes are connected on one or both sides. — https://urbanomnibus.net/2016/09/the-row-house-on-rising-waters/
+- Driveways and garages are common: In Canarsie, most houses include designated parking spots in driveways or backyard garages. — https://www.homes.com/local-guide/brooklyn-ny/canarsie-neighborhood/
+- State license rule: no person shall engage in the business of installing, servicing or maintaining security or fire alarm systems or hold himself out as being able so to do unless he is licensed — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- The license exemptions are narrow: Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. The DOS form also says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. Whether a given camera job is covered is unclear; check with NYS DOS. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- City Council bills listed under the local Council Member, Mercedes Narcisse (marked Enacted): Establishing a program to provide financial assistance to small retail businesses for the purchase of security system technology. Also Reimbursing nonpublic schools for the cost of video surveillance cameras. — https://intro.nyc/councilmembers/mercedes-narcisse
+- She represents District 46: represented by Democrat Mercedes Narcisse since 2022. — https://en.wikipedia.org/wiki/New_York_City%27s_46th_City_Council_district
+- Pricing from competitors:
+  - Abstract Enterprises: starts at $850 for a 4-camera system. It also claims WiFi drops through Canarsie's walls. (the installer's own claim, not verified) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-canarsie-brooklyn-ny
+  - 718-USA-CCTV says In 2023, the rate of serious crimes... was 9.3 incidents per 1,000 residents, compared to a citywide rate of 14.2 — https://718usacctv.com/security-camera-installation-canarsie/
+- Privacy law on cameras aimed at a neighbor's yard: New York Civil Rights Law § 52-a gives you the right to sue a neighbor for damages if they film your backyard. (from a blog post, not the statute) — https://www.gavelinsight.com/2025/12/can-my-neighbor-in-new-york-legally.html
+- HPD violations: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY
+- LPC rules or historic districts in Canarsie: EMPTY (nothing found; I couldn't confirm there are none)
+- Reddit threads about cameras in Canarsie: EMPTY
+
+**History and development**
+- The Dutch period: the Canarsie's fisheries and farmlands that once existed in this area bound by Paedergat Basin and Jamaica Bay were overtaken by Dutch settlers, who founded a town called Achtervelt. — https://urbanarchive.org/city/ny/s/57a39b2e-345d-4bbb-95eb-37dce6b8f100
+- After World War II: Planning Commissioner Robert Moses convinced the city to purchase 500 surplus Quonset huts in 1946. — same URL
+- The development of the Brooklyn and Rockaway Beach Railroad, which opened in 1865, provided new access... Canarsie became a popular summer resort destination... and was home to the Golden City Amusement Park until 1939. — https://home4.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-canarsie.pdf
+- Later building: infill development on former wetlands continued into the 1950s, paving the way for... Seaview Village and NYCHA's Breukelen Houses and Bay View Houses. — same URL
+- Annexation: In 1896, the still largely rural town of Flatlands (including its village of Canarsie) was annexed into the City of Brooklyn. — https://www.bklynlibrary.org/locations/jamaica-bay/black-canarsie-history
+- the majority of its residential buildings constructed from this period up until the 1970s. — https://canarsie.pro/index.php/2025/08/03/the-enduring-legacy-of-canarsie-brooklyn-a-historical-trajectory/
+
+**Building stock**
+- Flatlands, which runs from Rockaway Parkway to East 108th Street, features detached one- and two-family 1960s-era houses called Waxman split-levels. The housing stock, which dates from around the 1940s to the present, is comprised of single- and multi-family houses and condos. There are no co-ops. — https://www.brickunderground.com/buy/buy-curious-canarsie-brooklyn-prices-condos-houses-restaurants-entertainment-transportation-nyc
+- two hundred acres of former marshlands became Seaview Village, 40 blocks of ranch style split level houses and attached row houses. There are also brick two, three and four family houses that were built in the 1960's in Paerdegat. — https://www.accordrealestategroup.com/brooklyn-neighborhoods/canarsie
+- Common exteriors: flat brick facades and wooden frames with vinyl siding, as well as some brick bungalows. — https://www.homes.com/local-guide/brooklyn-ny/canarsie-neighborhood/
+- Basement apartments: until Sandy, many immigrants lived in the basements of town houses owned by middle class residents. — https://citylimits.org/post-sandy-canarsie-help-hold-ups/
+
+**Main streets and shopping corridors**
+- Avenue L, between Rockaway Parkway and Remsen Avenue; Flatlands Avenue, between Ralph Avenue and East 102nd Street; and Rockaway Parkway, between Avenues D and N. Avenue L has many places of worship. — https://canarsiecourier.com/a-bike-lane-to-nowhere-and-an-assessment-of-canarsies-commercial-corridors/
+- These corridors contain one-story commercial and two -to three -story multi-family buildings with ground-floor retail uses. — https://www.nyc.gov/assets/planning/download/pdf/plans/canarsie/canarsie.pdf
+- Rockaway Parkway is struggling: Storefronts that served generations of families now sit dark, locked behind metal gates. — https://canarsiecourier.com/rockaway-parkways-quiet-crisis-a-community-corridor-in-decline/
+
+**Parks, landmarks and what it's known for**
+- Canarsie Park is a 132-acre park located in Canarsie, Brooklyn, on the western shore of Jamaica Bay. — http://www.jbrpc.org/canarsie-improvements
+- Canarsie Pier was built in 1926 by the New York City Department of Docks and was integrated into the Jamaica Bay Unit in 1972. — https://www.tclf.org/canarsie-pier
+- Other historic sites in Canarsie: Holy Family Church, Grace Methodist Church and Canarsie Cemetery — https://www.ethosguides.com/p/canarsie-park
+- The L train ends at Rockaway Parkway and Glenwood Road — https://www.nyc.gov/assets/planning/download/pdf/about/cpc/090313.pdf
+- A Pop Smoke mural is listed near the Rockaway Parkway station — https://home4.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-canarsie.pdf
+
+### Questions people ask — Security Camera Installation in Canarsie
+Important: none of the questions below were seen in Google People Also Ask boxes. Most come from FAQ sections on competitors' websites. Treat them as likely questions, not confirmed search data.
+- How much does security camera installation cost in Canarsie? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-canarsie-brooklyn-ny
+- How much do security cameras cost in Canarsie? — competitor FAQ — same URL
+- Wired or wireless cameras for Canarsie? — competitor FAQ — same URL
+- Can you add to my existing Canarsie system? — competitor FAQ — same URL
+- Are there monthly fees for cameras in Canarsie? — competitor FAQ — same URL
+- How do I stop package theft at my Canarsie home? — competitor FAQ — same URL
+- Do security cameras lower insurance in Canarsie? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-canarsie-brooklyn-newyork
+- Can I view cameras from my phone? — competitor FAQ — same URL
+- How much does security camera installation cost in Brooklyn NY? — competitor FAQs — https://electrifiedny.com/residential/security-camera-installation/ ; https://www.myshyft.com/blog/security-camera-installation-services-brooklyn-new-york/ ; https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- How much does it cost to have security cameras professionally installed in Brooklyn? — competitor FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installers-brooklyn
+- How much does apartment building camera installation cost in Brooklyn? / Are there monthly fees for a building camera system? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- How much does commercial security camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-camera-installation-brooklyn
+- Do you need a license to install security cameras in New York? — blog FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now ; https://www.jvsg.com/security-camera-installer-license/
+- Can my neighbor in New York legally point security cameras at my house? — legal blog — https://www.gavelinsight.com/2025/12/can-my-neighbor-in-new-york-legally.html
+- Am I legally allowed to point my own camera toward my neighbor's property? / What happens when I call the police about a neighbor's camera? — brand blog FAQ — https://www.eufy.com/blogs/security-camera/can-neighbors-have-security-cameras-towards-your-house
+- Yelp praise: one review said "I had three companies estimate my job. This company gave me HD cameras expertly installed at a much better rate than the others." — Yelp — https://www.yelp.com/search?find_desc=Security+Companies&find_loc=Canarsie%2C+Brooklyn%2C+NY
+- Yelp praise: one review said the reviewer bought a new camera system that is so much more complicated than the WiFi ones and was glad to have it installed for them — Yelp — https://www.yelp.com/search?find_desc=Security+Cameras&find_loc=Brooklyn,+NY
+- Yelp complaint (about an internet provider, not an installer): Upgraded service now nothing works. Alexa, security cameras — Yelp — https://www.yelp.com/search?find_desc=Antenna+Installation&find_loc=Canarsie%2C+Brooklyn%2C+NY
+- Google People Also Ask: EMPTY
+- People Also Search For / related searches: EMPTY
+- Answer the Public: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Canarsie, r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY
+- Hyperlocal outlets: the Canarsie Courier and News12 Brooklyn are cited above. Patch and BKReader: EMPTY
+
+## Woodstock, Bronx — /security-camera-installation-woodstock-bronx-ny (factory research, 2026-11-06)
+
+**Service-specific facts (most important)**
+
+- **Building stock you'll work in (three eras):** Woodstock mixes old tenement buildings, classic brownstones, fold frame homes, new affordable housing developments, and of course housing projects. Homes.com describes tall apartment buildings and shorter, near treetop-level walk-ups and single-family homes. — https://www.city-data.com/forum/new-york-city/577039-nyc-neighborhood-profile-woodstock-bronx.html ; https://www.homes.com/local-guide/bronx-ny/woodstock-neighborhood/
+- **Newer mid-rise example:** 886 Westchester Avenue is a co-op/hybrid building that was built in 2008 and has 8 stories and 86 units. The same listing shows a three-family home at 767 Prospect Avenue. — https://streeteasy.com/building/886-westchester-avenue-bronx
+- **Public housing with planned security upgrades:** Union Avenue–East 163rd Street and Eagle Avenue–East 163rd Street are both in NYCHA's PACT "Union Avenue Consolidated" bundle. The project consists of walk-ups and mid-rise buildings that require extensive recapitalization and rehabilitation, and the partners say the planned services will include new property management, maintenance, social services, and security systems. These sites are at the Woodstock/Morrisania edge, so check the exact boundary. — https://sbvre.com/property/nycha-pact-union-avenue-consolidated-bronx-new-york/ ; https://www.unionaveconsolidated.com/
+- **Eagle Ave–E 163rd St details:** 905 Eagle Avenue, Bronx 10456, with 66 units. NYCHA's PACT tracker (July 2024) listed it as in the "Under Construction" phase. It is in Council District 17 and Community District Bronx 3. — https://nycharealtalk.org/lots/2026200036/
+- **Past NYCHA CCTV funding nearby:** a 2014 city Department of Investigation report lists Bronxchester at $313,000. It also lists combined camera projects that include Union Avenue–East 163rd Street and Eagle Av–East 163rd St. — https://www.nyc.gov/assets/doi/reports/pdf/2014/2014-11-21-Pr28nychacameras.pdf
+- **NYCHA camera standard (Bronx, 2023):** NYCHA's Bronx camera installs include LED lighting; a fiber-optic framework for supporting smart building technology; and a security operating center for each installation. — https://www.nyc.gov/site/nycha/about/press/pr-2023/pr-20231127.page
+- **Tenant installs (renters):** you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. A permitted camera also can't be able to film inside any apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- **Bronx precedent:** a Parkside Houses resident nicknamed "Big Sister" received an eviction notice saying that she had breached her lease by installing the cameras. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+- **LPC rules:** the Woodstock Branch library is an individual landmark. The Woodstock Branch library was designated an individual New York City landmark on April 14, 2009. — https://hdc.org/buildings/woodstock-branch/
+- **LPC camera limits (secondary source):** LPC rules limit the number of security cameras based on street frontage, such as no more than two or three cameras for every 25 feet of frontage, and generally discourage installation on a primary façade. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- **LPC primary source:** LPC Permit Guidebook Chapter 11 has an "Installing Security Cameras" section under LPC Rules Section 2-20. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- **Nearby historic district:** the Longwood Historic District encompasses about three square blocks roughly bounded by Beck Street, Longwood, Leggett, and Prospect Avenues. The district consists of semi-detached rowhouses, most of which have been converted into S.R.O.'s It is just east of Prospect Avenue and is a NYC landmark district. — https://en.wikipedia.org/wiki/Longwood_Historic_District_(Bronx)
+- **Casa Amadeo is not landmark-protected:** despite its national recognition, Mike's store, and the building where it's located, are not protected as historic landmarks. — https://www.welcome2thebronx.com/2018/04/legacy-casa-amadeo-nycs-oldest-latino-music-store/
+- **Crime on Prospect Ave (2026):** The latest shooting happened Friday morning on Prospect Avenue. According to police, a 21-year-old woman was walking along the street when a bullet fired from across the road struck her. In a second incident that week, surveillance video shows the moment shots were fired. The exact block isn't stated, and Prospect Avenue runs well beyond Woodstock. — https://bronx.news12.com/2026/05/30/violent-week-in-the-bronx-raises-concerns-as-summer-approaches/3kPpuYdNTtG5z8eTAEaWhc
+- **More Prospect Ave arrests:** teens were charged over gunfire that took place outside a building on Prospect Avenue early in May. — https://bronx.news12.com/2026/06/16/teens-arrested-charged-in-prospect-avenue-shooting/3yOxjJwL5Xvd6KlqECgVzI
+- **ZIPs and precincts (from a competitor page, unverified):** The neighborhood's ZIPs include 10455 and 10459, with parts also in 10456, and the area falls under the historic patrol zones of the 40th and 41st Precincts. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-woodstock-bronx-ny
+- **Competitor already targets Woodstock:** Abstract Enterprises has a Woodstock access-control page that pitches cameras for landlords' video documentation of unauthorized entry attempts for NYPD reports and insurance claims. — same URL
+- **NYPD advice on DIY cameras:** Bronx CB11 public-safety minutes record police advice to use a unique user name on home cameras. They also note mailbox theft continues to be a problem, particularly in the Bronx. This is from CB11, not Woodstock's board. — https://www.nyc.gov/assets/bronxcb11/downloads/pdf/meetings/minutes/2016/10/Public%20Safety.pdf
+- **HPD violations, 311 complaints, DOB permits for Woodstock:** EMPTY (not retrieved)
+- **Local Reddit threads about cameras in Woodstock:** EMPTY
+
+**History and development**
+
+- **Name and origin:** As early as the 1850s the area of Morrisania in which the library is located was known as Woodstock, allegedly named for Sir Walter Scott's 1826 novel of the same name. The village was centered on East 163rd Street and Jackson Avenue. — https://s-media.nyc.gov/agencies/lpc/lp/2322.pdf
+- **Early settlers:** The area was inhabited since the 1860s by Germans, and was named by a Scotch in the 1860s due to the area's wooded nature. — https://www.city-data.com/forum/new-york-city/577039-nyc-neighborhood-profile-woodstock-bronx.html
+- **Colonial era:** Originally, much of this area belonged to the Morris family, and the Manor of Morrisania dominated the local landscape. — https://www.apartments.com/local-guide/woodstock-bronx-ny/
+- **20th century:** In the 1930s, much of the South Bronx was home to a mostly Jewish population. After much urban decay in the 1960s and 1970s, the area revitalized in the 1980s and 1990s. Several developments along Charlotte Street built newer homes in the mid-1980s — same URL
+- **Boundaries (sources disagree):** one source puts it just North of Mott Haven above 149th street, just East of Melrose at 3rd Avenue, just South of Morrisania at 161st, and just West of Hunts Point at Bruckner Blvd. — city-data URL above. Another calls Woodstock a sub-neighborhood within Longwood in the south Bronx, a residential pocket of low- and mid-rise apartment buildings — https://nycneighborhoods.app/map/neighborhoods/woodstock-bronx/
+
+**Main streets and commercial corridors**
+
+- **Street grid:** Third Avenue, Westchester Avenue, Southern Boulevard and I-278 run north to south, while 163rd Street, 149th Street and Longwood Avenue go east to west. — https://www.apartments.com/local-guide/woodstock-bronx-ny/
+- **Prospect Avenue shops:** Along Prospect Avenue, shoppers can stop into Western Beef Supermarket or smaller specialty stores like Pet Resources and Longwood Fish Market. — https://www.homes.com/local-guide/bronx-ny/woodstock-neighborhood/
+- **Transit:** Riders board the 2 and the 5 trains at both the Jackson Avenue and Prospect Avenue subway stations — same URL
+- **School:** South Bronx Early College Academy Charter School, 766 Westchester Ave. — same URL
+
+**Landmarks and what it's known for**
+
+- **Woodstock Library:** 761 E 160th St, between Tinton and Forest Avenues. It was built 1913–14 and designed by McKim, Mead & White. — https://hdc.org/buildings/woodstock-branch/
+- **Library site note:** Currently, the library is freestanding as the adjacent buildings have been demolished. — same URL
+- **Casa Amadeo:** 786 Prospect Ave, in the Manhanset apartment building (1905). It was listed on the National Register in 2001. — https://nystateparks.blog/wp-content/uploads/2025/09/casa-amadeo-national-register-2001.pdf
+- **Charlotte Street:** a competitor page calls it the famous "Bronx is burning" site of President Carter's October 1977 visit, rebuilt in the 1980s. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-woodstock-bronx-ny
+- **Parks:** EMPTY. A competitor page mentions St. Mary's Park, but I couldn't verify it from a primary source.
+
+### Questions people ask — Security Camera Installation in Woodstock
+
+I couldn't open Google's People Also Ask, People Also Search For, Bing, DuckDuckGo or AnswerThePublic directly, so those labels are EMPTY. The questions below were seen on the pages listed, mostly in competitor FAQ markup.
+
+- How long does security camera installation take? — competitor FAQ — https://compusettings.com/security-camera-installation-service-bronx-ny/
+- Do you offer free estimates for security camera installation? — competitor FAQ — same URL
+- What types of properties do you install security cameras for? — competitor FAQ — same URL
+- How much does CCTV installation cost in NYC in 2026? — cost blog FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does it cost to install a 4-camera security system in NYC? — cost blog FAQ — same URL
+- What is the labor cost for CCTV installation in NYC? — cost blog FAQ — same URL
+- How much does a security camera system cost in NYC? — competitor FAQ — https://nyhls.com/blog/security-camera-installation-cost
+- What affects the cost of a camera installation? — competitor FAQ — https://nycsecuritysystemspro.com/how-much-does-security-camera-installation-cost-nyc/
+- How many cameras does a Bronx home need? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bronx-ny
+- Are security cameras worth it for Bronx property owners? — competitor FAQ — same URL
+- Can security cameras help with liability protection for Bronx businesses? — competitor FAQ — same URL
+- Can you install security cameras in a NYC co-op or condo building? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/
+- Can access control integrate with my Woodstock building's cameras? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/access-control-installation-woodstock-bronx-ny
+- Can I install a security camera in the hallway for safety? — Brick Underground (renter Q&A) — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- In NYS, is a tenant allowed to install a freestanding surveillance camera in the hallway outside their apartment door? — Q&A site — https://www.askalawyeroncall.com/law/eghcw-nys-apt-tennant-allowed-install-freestanding.html
+- Yelp related search for "cctv security camera installation Bronx": "Security Camera Installation" — Yelp (PASF-style) — https://www.yelp.com/search?find_desc=cctv+security+camera+installation&find_loc=Bronx%2C+NY
+- Yelp praise: one Bronx reviewer said "They installed security cameras in my home they did a very good job and the price was excellent..." (Computer Settings) — Yelp — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Bronx,+NY
+- Yelp complaints: EMPTY
+- Reddit (r/Bronx, r/AskNYC, r/homesecurity): EMPTY
+- Patch / BKReader / Bronx Times articles on cameras in Woodstock: EMPTY
+
+**Notes for the writer:**
+- **Boundaries:** sources disagree on where Woodstock ends and Longwood or Morrisania begins. Casa Amadeo and Prospect Ave station are usually called Longwood, so describe them as "nearby."
+- **Price ranges:** published NYC prices vary a lot. Small systems run from about $850 (Abstract) up to $2,500–$6,000 (Seneca), so don't quote one figure as "typical."
+- **Search limits:** I hit the search limit, so city data (HPD, 311, DOB) and Reddit still need a separate pass.

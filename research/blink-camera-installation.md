@@ -221,3 +221,74 @@ None of these came from PAA, PASF, AnswerThePublic, Bing, DuckDuckGo, Reddit or 
 - Do you need a permit for security cameras in the Hudson Valley? — Other (vendor FAQ) — https://abstractenterprisessecuritysystems.com/security-camera-installation-hudson-valley-ny
 - What should I look for when hiring a security camera installer in the Hudson Valley? — Other (vendor FAQ) — https://abstractenterprisessecuritysystems.com/security-camera-installation-hudson-valley-ny
 -
+
+## Brooklyn, Brooklyn — /blink-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**Scope notes:** "Brooklyn, Brooklyn" is the whole borough, not one neighborhood, so the findings below cover the borough. I used 15 web searches. The search tool returns web results only. It does not show Google People Also Ask, People Also Search For, Bing/DuckDuckGo results pages or AnswerThePublic data, so those fields are EMPTY below. I did not invent anything to fill them.
+
+**Blink-specific facts: building types, entry, wiring, rules**
+- NYCHA (public housing) tenants may put a video doorbell on their apartment door only if: 1) the camera or video doorbell must be wireless; 2) the camera or video doorbell must be placed over the apartment's peephole or affixed to the door with adhesive. Tenants may not make holes in or alterations to the door, frame, or walls above and around the door. This is a strong selling point for Blink's battery doorbell in Brooklyn NYCHA developments. — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- NYCHA announced the policy on 23 May 2022. — https://x.com/NYCHA/status/1528768006423252992
+- Example NYCHA development: Breukelen Houses had a population estimated at 4,038 as of March 2008. — https://en.wikipedia.org/wiki/Breukelen_Houses
+- Private rentals: Brick Underground says you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- One NYC security firm calls door-mounted video doorbells a gray area — generally tolerated by most NYC landlords but technically subject to lease provisions about alterations. The same firm says that for most residential camera installations, no permit is required. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Co-ops and condos vary: some co-ops and condos have a written policy requiring board approval, others handle requests individually, and many have never addressed it. Audio is often switched off because whether a camera passively capturing hallway audio meets the definition of unlawful eavesdropping has never been settled cleanly. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- UNVERIFIED, do not publish as fact: one blog says recent amendments to the Real Property Law (2020) allow tenants to install Wi-Fi cameras that don't require drilling or wiring. I found no primary source for this. — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
+- LPC (landmarks) rules: Section 2-20 covers objects required by another agency or an entity similar to a utility, or is common for security, such as lighting, security cameras and intercom panels. As proposed, the rule would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- LPC's permit guidebook includes a chapter called Installing Security Cameras. It says LPC Staff can approve security cameras if installation meets the listed criteria. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- A Brooklyn LPC precedent: the 2013 public-meeting calendar lists Brooklyn rowhouses in the Brooklyn Heights, Clinton Hill and Park Slope historic districts. One item on that calendar (it appears under a Manhattan rowhouse, 52 W. 76th St.) was an application to legalize the installation of security cameras and an intercom without Landmarks Preservation Commission permit(s). — https://www.nyc.gov/assets/lpc/downloads/pdf/calendar/07_16_13.pdf
+- Installer advice on landmarked brownstones: any visible alterations to the exterior — including camera mounts and conduit — may require a Certificate of No Effect or a Permit to Alter. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Wiring: the Blink video doorbell can be connected to compatible chime systems rated from 16-24 volts AC (vAC). The Wired Doorbell 2K+ does not support in-home mechanical chimes. — https://support.blinkforhome.com/faq-doorbell/blink-video-doorbell-faq
+- Doorbell systems with wireless chimes are not compatible with the Blink Video Doorbell. — https://www.bestbuy.com/site/questions/blink-smart-wifi-video-doorbell--wired-battery-operated-white/6481226/question/257f44cd-eb6e-3bde-8536-180c5f5dbc8b
+- The Blink Wired Floodlight needs a 4-inch round, UL listed, weatherproof electrical box. Blink also warns that permits plus professional installation may be required by law. — https://support.blinkforhome.com/wired-floodlight-camera-setup-guide
+- Wi-Fi range: during setup, keep your new wireless camera in the same room as your Sync Module (within 7 feet). — https://support.blinkforhome.com/en_US/outdoor-2k-setup-guide
+- Competitor claims, self-reported: Wi-Fi dead zones in Brooklyn brick buildings. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Same competitor: night-vision glare in vestibules, where hard tile floors and glass inset doors are everywhere on these blocks. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Competitor using Blink as a keyword: one Brooklyn page advertises Expert setup for Ring, Vivint & Blink devices with wired and wireless options. — https://doorservicesbrooklyn.com/doorbell-camera-installation-brooklyn-ny/
+- HPD violations, 311 complaints, DOB permits about doorbells or cameras: EMPTY. I found no data.
+
+**Local news: building security, entry systems, package theft**
+- Crown Heights: a package thief filmed near Montgomery St and New York Ave, less than a block away from a police station. — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- Park Slope: thieves were cutting open the packages and taking things from them while they were inside the lobby. — https://cbsnews.com/newyork/news/park-slope-package-thieves-caught-on-camera-nypd-brooklyn
+- Sheepshead Bay: a porch theft caught on a home camera involved gifts worth more than $700. — https://pix11.com/news/local-news/brooklyn/masked-man-caught-on-camera-stealing-packages-in-brooklyn/
+- Downtown Brooklyn: a suspect filmed scooping up a handful of packages on State Street (2017). — https://abc7ny.com/post/package-thefts-caught-on-camera/2810996/
+- Citywide: 90,000 packages disappearing daily in New York City alone in 2019. — https://en.wikipedia.org/wiki/Package_theft
+- Brownsville: tenants at Atlantic Plaza Towers fought their landlord's plan to install facial recognition entry. — https://www.pressreader.com/usa/the-guardian-usa/20190531/281960314236325
+- Kensington: tenants at 60 Turner Pl objected to their building super wearing a body camera. — https://www.cbsnews.com/amp/newyork/news/brooklyn-body-camera
+
+**History, building stock, landmarks**
+- The Village of Breuckelen was authorized by the Dutch West India Company in 1646 and became the first municipality in what is now New York State. — https://www.newworldencyclopedia.org/entry/Brooklyn
+- Brooklyn was consolidated into New York City on January 1, 1898. The 2020 population was 2,736,074. — https://en.wikipedia.org/wiki/Brooklyn
+- 1854: The consolidated City of Brooklyn is established, merging the former City of Brooklyn with the City of Williamsburgh and the Town of Bushwick. — https://cooganresearchgroup.com/familytree/coogan/migrations/brooklyn/brooklyn.htm
+- Brownstones were actually brick houses whose street front had a 4-to-6-inch-thick brownstone facing or veneer. This matters for anchor choice when mounting. — https://www.brownstoner.com/architecture/brownstone-brooklyn-architecture-charles-lockwood/
+- Rowhouses are typically just two to five stories in height and home to one or two families. Some of Brooklyn's rowhouses have been converted into a greater number of apartments. — https://www.brownstoner.com/architecture/what-is-a-row-house-brooklyn-townhouse-architecture-history/
+- Neighborhoods with many brownstones include Park Slope, Clinton Hill, Fort Greene, Cobble Hill, Carroll Gardens, Boerum Hill, Prospect Heights, Crown Heights, Brooklyn Heights, Bed-Stuy and Sunset Park. — https://en.wikipedia.org/wiki/Brownstone
+- Brooklyn Heights is the City's first historic district, Brooklyn Heights, designated in 1965. The borough has Olmsted and Vaux parks: Prospect Park, Carroll Park, Fort Greene Park and Von King Park. — https://hdc.org/borough/brooklyn/
+- Other historic districts and designation dates: Carroll Gardens (Sept 1973), Clinton Hill (Nov 1981), Cobble Hill (Dec 1969). — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/
+- Prospect Park opened in 1867, though it was not substantially complete until 1873. — https://en.wikipedia.org/wiki/Prospect_Park_(Brooklyn)
+- Main streets and commercial corridors: EMPTY. Not found in my searches.
+
+**Reddit, Yelp, hyperlocal**
+- Reddit threads (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY. I found no actual threads. One competitor claims Reddit users recommend it, but that is self-promotion, not a real thread.
+- Yelp praise: Eddies Security Systems, 5.0 stars, quoted as "Professional, high quality and super neat work, no wires showing or hanging." — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Yelp, mixed: Abstract Enterprise Security Systems 3.0 (38 reviews). No complaint text was visible. — https://www.yelp.com/search?find_desc=Security+System+Installation&find_loc=Brooklyn%2C+NY
+- Patch, BKReader, Brooklyn Paper camera stories: EMPTY, except that PIX11 credits Brooklyn Paper for the Sheepshead Bay footage (above).
+
+### Questions people ask — Blink Camera Installation in Brooklyn
+- PAA, PASF, AnswerThePublic, Bing, DuckDuckGo: EMPTY. The tool can't see them.
+- Can my landlord legally prevent me from having my doorbell camera? — JustAnswer (Q&A site) — https://www.justanswer.com/law/omn0j-live-rental-building-nyc-installed-blink.html
+- Can they forcibly remove my doorbell camera without my consent? — JustAnswer — same URL
+- Am I legally allowed to install a camera outside my front door that faces into the public hallway? (asker lives in Brooklyn) — JustAnswer — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Can I install a security camera in the hallway for safety? — Brick Underground — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can I have a Ring peephole doorbell camera in a NYCHA apartment? — Quora — https://www.quora.com/Can-I-have-a-ring-peephole-doorbell-camera-in-a-NYCHA-apartment-in-NYC
+- Does it work with existing chime when hard-wired? — Best Buy Q&A — https://www.bestbuy.com/site/questions/blink-smart-wifi-video-doorbell--wired-battery-operated-white/6481226/question/257f44cd-eb6e-3bde-8536-180c5f5dbc8b
+- Do you have to purchase a subscription to operate? — Best Buy Q&A — https://www.bestbuy.com/site/questions/blink-video-doorbell-head-to-toe-hd-view-two-year-battery-simple-setup-sync-module-core-included-white/6625863/question/a1ad444f-800b-3d65-b4a1-68c8e646c58f
+- Do I need to have subscription to use the two way audio feature? — Slickdeals — https://slickdeals.net/f/17274568-blink-video-doorbell-sync-module-2-battery-or-wired-45-free-shipping
+- Do Blink video doorbells require a subscription? — Blink FAQ — https://blinkforhome.com/blog/blink-video-doorbell-guide-2026
+- Does the Video Doorbell support Local Storage on its own? / Can I connect my doorbell to my existing chime wiring system? — Blink Support FAQ — https://support.blinkforhome.com/faq-doorbell/blink-video-doorbell-faq
+- Is it illegal for my doorbell camera to see my neighbor's door? / Can I install a doorbell camera on my NYC apartment door? — Connextivity FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Do I need a permit to install security cameras in my NYC building? — Impera Security FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Where do I install a wireless camera in a Brooklyn brownstone? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- How many cameras does a typical brownstone need? — Seneca Security FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Do you need Wi-Fi to set up the Blink camera? / Do I need a Sync Module for my Blink camera to function? / What should I do if my Blink camera is offline? — Wasserstein FAQ — https://wasserstein-home.com/blogs/smart-home/how-to-set-up-blink-outdoor-camera-in-6-easy-steps
+- Reddit: EMPTY. Yelp questions: EMPTY.
