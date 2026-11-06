@@ -1076,7 +1076,7 @@ LIVE | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudso
 LIVE | eufy-camera-installation-nyc | eufy Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | eufy-camera-installation-long-island | eufy Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | eufy-camera-installation-hudson-valley | eufy Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-06T06:04Z factory | hanwha-camera-installation-nyc | Hanwha Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | hanwha-camera-installation-nyc | Hanwha Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | hanwha-camera-installation-long-island | Hanwha Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | hanwha-camera-installation-hudson-valley | Hanwha Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | axis-camera-installation-nyc | Axis Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
