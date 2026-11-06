@@ -925,7 +925,7 @@ LIVE | security-camera-installation-brooklyn-heights-brooklyn-ny | Security Came
 REBUILD | security-camera-installation-bruckner-bronx-ny | Security Camera Installation | Bruckner, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-bushwick-brooklyn-ny | Security Camera Installation | Bushwick, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-canarsie-brooklyn-ny | Security Camera Installation | Canarsie, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-06T06:04Z factory REBUILD | security-camera-installation-carroll-gardens-brooklyn-ny | Security Camera Installation | Carroll Gardens, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-carroll-gardens-brooklyn-ny | Security Camera Installation | Carroll Gardens, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-clinton-hill-brooklyn-ny | Security Camera Installation | Clinton Hill, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-cobble-hill-brooklyn-ny | Security Camera Installation | Cobble Hill, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-country-club-bronx-ny | Security Camera Installation | Country Club, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
