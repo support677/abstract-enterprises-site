@@ -37,3 +37,15 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Permissions-Policy = "camera=(), microphone=(), geolocation=(), payment=(self \"https://checkout.stripe.com\")"
+
+# Hero videos live in Cloudflare R2 (bucket aess-videos); served on our own domain under /v/
+[[redirects]]
+  from = "/v/*"
+  to = "https://pub-8c0337e5dcc245a7936faae633fca2a8.r2.dev/:splat"
+  status = 200
+  force = true
+
+[[headers]]
+  for = "/v/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"

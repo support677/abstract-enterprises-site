@@ -1,0 +1,84 @@
+name: Hero videos
+# Renders a kinetic hero video for every page (tools/hero-video), uploads to Cloudflare R2,
+# then puts each video in its page. Triggered by editing tools/hero-video/RUN (shards, limit, only).
+on:
+  push:
+    branches: [main]
+    paths: ["tools/hero-video/RUN"]
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * *"   # daily: new pages from the page factory get their videos
+concurrency: { group: hero-videos, cancel-in-progress: false }
+permissions: { contents: write }
+env:
+  R2_ACCOUNT: be07eae675c065c362fad90c1bb1ec33
+  R2_BUCKET: aess-videos
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.p.outputs.shards }}
+      limit: ${{ steps.p.outputs.limit }}
+      only: ${{ steps.p.outputs.only }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: tools/hero-video/RUN, sparse-checkout-cone-mode: false }
+      - id: p
+        run: |
+          f=tools/hero-video/RUN
+          n=$(grep -oP '^shards=\K\d+' $f || echo 20); l=$(grep -oP '^limit=\K\d+' $f || echo 0); o=$(grep -oP '^only=\K.*' $f || true)
+          [ "${{ github.event_name }}" = "schedule" ] && { n=2; l=0; o=""; }
+          echo "shards=$(python3 -c "import json;print(json.dumps(list(range($n))))")" >> $GITHUB_OUTPUT
+          echo "limit=$l" >> $GITHUB_OUTPUT; echo "only=$o" >> $GITHUB_OUTPUT
+  render:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix: { shard: "${{ fromJSON(needs.plan.outputs.shards) }}" }
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Tools
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+          pip install -q numpy Pillow boto3 kokoro-onnx soundfile
+      - uses: actions/cache@v4
+        with: { path: ~/kokoro, key: kokoro-v1.0 }
+      - name: Voice model
+        run: |
+          mkdir -p ~/kokoro; cd ~/kokoro
+          [ -f kokoro-v1.0.onnx ] || curl -sSL -o kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+          [ -f voices-v1.0.bin ] || curl -sSL -o voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+      - name: Render + upload
+        env:
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          KOKORO_DIR: /home/runner/kokoro
+          HV_ONLY: ${{ needs.plan.outputs.only }}
+          HV_WORKERS: "4"
+        run: python tools/hero-video/batch.py ${{ matrix.shard }} ${{ strategy.job-total }} ${{ needs.plan.outputs.limit }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: "results-${{ matrix.shard }}", path: tools/hero-video/results/, if-no-files-found: ignore }
+  inject:
+    needs: render
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 1 }
+      - uses: actions/download-artifact@v4
+        with: { pattern: "results-*", path: results, merge-multiple: true }
+      - name: Put videos in pages and push
+        run: |
+          ls results || exit 0
+          HV_DATE=$(date +%F) python3 tools/hero-video/inject.py results
+          cat results/*.json | python3 -c "import sys,json;import re;t=sys.stdin.read();print('failed:', re.findall(r'\"failed\": \[(.*?)\]',t))"
+          git config user.name "aess-hero-videos"; git config user.email "support@abstractenterprisessecuritysystems.com"
+          git add -A '*.html'; git diff --cached --quiet && exit 0
+          git commit -qm "Hero videos: $(git diff --cached --name-only | wc -l) pages"
+          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 10; done
