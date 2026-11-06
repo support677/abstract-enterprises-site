@@ -5141,3 +5141,63 @@ I couldn't open Google's People Also Ask, People Also Search For, Bing, DuckDuck
 - AnswerThePublic: EMPTY
 - Bing-only questions: EMPTY
 - DuckDu
+
+## Clinton Hill, Brooklyn — /security-camera-installation-clinton-hill-brooklyn-ny (max-daily research, 2026-11-06)
+
+### Landmarks, districts and building stock
+- LPC designated the Clinton Hill Historic District on November 10, 1981 (public hearing October 9, 1979) — https://www.nyc.gov/assets/lpc/downloads/pdf/maps/HistoricDistrictMaps/Brooklyn/clinton_hill.pdf
+- National Register Clinton Hill Historic District (listed June 19, 1985): roughly bounded by Willoughby and Grand avenues, Fulton Street and Vanderbilt Avenue, about 100 acres, 1,063 largely residential contributing buildings built between the 1840s and 1930; Italianate and Beaux-Arts rowhouses; Gothic Revival wooden house at 284 Clinton Avenue (c. 1854); Italianate villa at 447 Clinton Avenue (c. 1850); Charles Pratt mansion 232 Clinton Avenue (1874); "Gold Coast" mansions in the 200-400 blocks of Clinton Avenue; mid-19th-century rowhouses on Grand Avenue, St. James Place, Cambridge Place, DeKalb Avenue and Waverly Avenue; separate Clinton Hill South Historic District listed 1986 — https://en.wikipedia.org/wiki/Clinton_Hill_Historic_District
+- Neighborhood bounds: Navy Yard and Flushing Avenue (north), Classon Avenue (east), Atlantic Avenue (south), Vanderbilt Avenue (west); Clinton Avenue laid out as a boulevard along the crest of the hill in 1832; Pratt gave houses to three of four sons as wedding presents; mansions, brownstone and brick rowhouses, apartment buildings; Pratt Institute founded by Charles Pratt in 1887; St. Joseph's campus uses former Pratt mansions; A/C at Clinton–Washington Avs (Fulton St line), G at Classon Av and Clinton–Washington Avs; Brooklyn CD2; 88th Precinct; 2020 population 28,647 — https://en.wikipedia.org/wiki/Clinton_Hill,_Brooklyn
+- Wallabout Historic District: LPC designated July 12, 2011, about 55 buildings along Vanderbilt Avenue between Myrtle and Park avenues near the Navy Yard, "rare conglomeration of wood-framed dwellings" — https://citylandnyc.org/new-residential-district-near-brooklyn-navy-yard
+- Wallabout NR listing April 27, 2011, vernacular wood houses plus brick/brownstone rowhouses and tenements, developed c.1830-1880 — https://en.wikipedia.org/wiki/Wallabout_Historic_District
+- Clinton Hill Co-ops: announced January 1942, first tenants June 1943, built by Equitable Life for defense workers and service members tied to the Navy Yard expansion; architects Harrison, Fouilhoux and Abramovitz; six buildings on Clinton Avenue between Myrtle and Willoughby, seven more incl. Lafayette Avenue to Greene Avenue; planned as 12-14 story buildings; site cleared Gold Coast mansions and rowhouses — https://www.brownstoner.com/history/clinton-hill-coops-history-architecture-185-clinton-avenue
+- Pratt Institute Brooklyn campus: 25-acre landscaped campus in Clinton Hill; 1897 Caroline Ladd Pratt House; Pratt Sculpture Park "the largest in New York City" — https://catalog.pratt.edu/undergraduate/about/pratts-campuses
+- Pratt East Hall power plant called the oldest continuously operating privately owned steam-powered generating plant in the country; Ames generators 1900; 136 Clinton Ave Lefferts-Laidlaw House c.1835; Mechanics Temple (former Lincoln Club) Putnam Ave, 1886-1889; 200 Lafayette Ave Joseph Steele House 1853, landmarked 1968; St. Joseph's moved to 245 Clinton Ave in 1918; Church of St. Luke and St. Matthew on Clinton Ave 1888-1891; St. Mary's Episcopal on Classon — https://www.untappedcities.com/secrets-clinton-hill-brooklyn/
+- Emmanuel Baptist Church, Lafayette Avenue at St. James Place, opened 1887, Francis H. Kimball, Gothic Revival, NRHP 1977 — https://en.wikipedia.org/wiki/Emmanuel_Baptist_Church_(Brooklyn)
+- Underwood Park: site of John Thomas Underwood's mansion at 336 Washington Avenue; donated 1951-1953; opened May 30, 1956; inside the Clinton Hill Historic District — https://prd2.nycgovparks.org/parks/B259/history
+- 88th Precinct station house, 298 Classon Avenue, Romanesque Revival, George Ingram; LPC designation vote January 2014 — https://www.brownstoner.com/history/lpc-landmarks-clinton-hills-88th-police-precinct-station-house
+- NYPD 88th Precinct, 298 Classon Avenue, serves Clinton Hill, Fort Greene Park and Commodore Barry Park — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/88th-precinct.page
+
+### LPC camera rules (apply inside the Clinton Hill and Wallabout districts)
+- Staff can issue permits for security cameras if criteria are met; else Commissioners' public hearing — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- No more than two cameras per 25 feet of street frontage on small residential/commercial buildings; three per 25 feet on large residential, commercial and institutional buildings; well spaced; dome cameras finished to match — same URL
+- Not on/in front of a primary facade unless no other option; discreet location; attach at mortar joints, plain masonry, wood or metalwork; not through cast iron or on decorative surfaces; small and painted to blend; conduit concealed, max about ten inches visible, surface conduit painted to match; manufacturer cut sheets required — same URL
+
+### Local news (incidents relevant to cameras)
+- Jan 8 (2025 article): person took mail and parcels from a lobby near Fulton Street and Washington Avenue, bit a 49-year-old woman, fled in a gold BMW SUV — https://brooklyneagle.com/articles/2025/01/29/package-thief-bites-woman-flees-bmw-after-attempted-robbery/
+- May 19, 2026: man pistol-whipped and robbed of phone on the Clinton–Washington Avenues platform — https://brooklyn.news12.com/2026/05/29/man-pistol-whipped-and-robbed-of-cellphone-on-clinton-hill-train-platform/54mRYjPqQeYuhSN1DTNFh9
+- Feb 9 (year not stated): three men robbed Fulton Exotic World, a Clinton Hill cannabis shop, at gunpoint; $700 and about $5,500 in product; fled down Fulton Street; police hoped store camera footage would help — https://www.brooklynpaper.com/clinton-hill-cannabis-heist
+- Watches worth nearly $17,000 taken from a Washington Avenue apartment; theft discovered Feb 6, watches last seen December; police reviewing the building's cameras — https://www.brooklynpaper.com/clinton-hill-watch-thief-nypd
+- Feb 28, 2014: man dressed as a FedEx deliveryman let into a Grand Avenue building by a neighbor, took a sweater from an unlocked apartment; caught on camera at the building entrance — https://www.dnainfo.com/new-york/20140317/clinton-hill/fake-deliveryman-steals-j-crew-sweater-from-clinton-hill-home-police-say
+- 2019: Fulton Street business owners shaken; Otway restaurant burglarized four times in three years; Key Food manager reluctant to turn video over to police; officers requested an NYPD camera at Putnam and Classon — https://brooklyneagle.com/articles/2019/06/11/crime-spike-in-clinton-hill-leaves-business-owners-shaken/
+- June 2011: Waverly Avenue (Gates-Greene) house burgled via the owner's deck overlooking Hollenback Garden; Gates Avenue break-in; man scaled Hollenback Garden fence — https://www.brownstoner.com/brooklyn-life/several-recent-break-ins-in-clinton-hill
+- July 2014: burglaries in the 88th Precinct incl. Grand Avenue (Clifton Pl-Greene Av) and Clinton Avenue (Myrtle-Park) — https://www.bkreader.com/news/string-of-burglaries-rock-fort-greeneclinton-hill-6538801
+- Dec 2013: package thieves at a Clinton Hill apartment building, lookout recorded by surveillance camera — https://cbsnews.com/newyork/news/suspected-thief-caught-twerking-on-clinton-hill-surveillance-camera
+
+### Commercial corridors
+- Myrtle Avenue Brooklyn Partnership / Myrtle Avenue BID serves Fort Greene, Clinton Hill and Wallabout — https://myrtleavenue.org/about/
+- Fulton Street BID (FAB Alliance) expansion links the Brooklyn Cultural District with commercial strips of Fort Greene and Clinton Hill — https://www.bkreader.com/business-innovation/mayor-signs-law-new-bill-expanding-boundaries-spend-fulton-st-bid-6540808
+
+### Privacy and law
+- Audio on cameras falls under eavesdropping law (one-party consent); Penal Law 250.45 unlawful surveillance; Civil Rights Law 52-a backyard camera suits — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Silo-wide (from brief): GBL 69-m licensing; tenants need landlord permission for common areas; no general NYC camera mandate.
+
+### Pricing claims seen (used only as the AI-overview claim being corrected)
+- "The average labor cost to install security cameras ranges from $80 to $200 per camera" (vendor guide, via silo-wide research) — https://butterflymx.com/blog/security-camera-installation-nyc/
+
+### Not found / EMPTY
+- Google PAA, PASF, AnswerThePublic, AI Overview, Bing/DuckDuckGo panels: EMPTY (not accessible in build env)
+- Reddit r/clintonhill, r/Brooklyn threads about cameras in Clinton Hill: EMPTY (none surfaced in search)
+- Yelp 1-3 star reviews for Clinton Hill camera installers: EMPTY (not accessible in build env)
+- DOB/HPD/311 records specific to cameras in Clinton Hill: EMPTY (not retrieved)
+- Clinton Hill-specific camera installer pages: only generic Brooklyn directory pages (Thumbtack, Angi) — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers ; https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
+
+### Questions people ask — Security Camera Installation in Clinton Hill
+(No live PAA/Reddit surface available; these are derived from the news items and LPC rules above, not confirmed PAA.)
+- How many cameras can go on the front of a large converted mansion vs a rowhouse in a historic district — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- How long should a building keep footage when a theft is noticed weeks later — Brooklyn Paper watch theft — https://www.brooklynpaper.com/clinton-hill-watch-thief-nypd
+- How to identify someone a neighbor buzzed in — DNAinfo Grand Avenue — https://www.dnainfo.com/new-york/20140317/clinton-hill/fake-deliveryman-steals-j-crew-sweater-from-clinton-hill-home-police-say
+- Can a camera cover a rear deck next to a community garden — Brownstoner 2011 — https://www.brownstoner.com/brooklyn-life/several-recent-break-ins-in-clinton-hill
+- Store owners: must video go to police; how to protect the counter recording — Brooklyn Eagle 2019, Brooklyn Paper cannabis heist — URLs above
+- Lobby package theft and the getaway car — Brooklyn Eagle 2025 — URL above
+- Recording audio legality — recordinglaw.com — URL above
