@@ -146,12 +146,24 @@ function spamReason(data) {
 function reply(req, ok) {
   const wantsJson = (req.headers.get("accept") || "").includes("json") ||
     (req.headers.get("content-type") || "").includes("json");
+  // A failed send is a 502, so page scripts that only check r.ok also see it.
   if (wantsJson || req.headers.get("sec-fetch-mode") === "cors") {
-    return Response.json({ success: ok, message: ok ? "Form submitted" : "Please call us" });
+    return Response.json({ success: ok, message: ok ? "Form submitted" : "Please call us" }, { status: ok ? 200 : 502 });
   }
   // Plain HTML form post with JavaScript off: send them back to the page.
   const back = req.headers.get("referer") || "/";
-  return new Response(null, { status: 303, headers: { Location: back.split("#")[0] + (back.includes("?") ? "&" : "?") + "sent=1" } });
+  if (ok) {
+    return new Response(null, { status: 303, headers: { Location: back.split("#")[0] + (back.includes("?") ? "&" : "?") + "sent=1" } });
+  }
+  // Don't reload the page as if it worked: say it failed and point them at the phone number.
+  const href = back.replace(/[&<>"']/g, (c) => `&#${c.charCodeAt(0)};`);
+  return new Response(
+    `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">` +
+    `<title>Request not sent</title><body style="font-family:system-ui,sans-serif;max-width:520px;margin:15vh auto;padding:0 20px;line-height:1.5">` +
+    `<h1 style="font-size:1.4rem">Sorry, your request didn&rsquo;t go through.</h1>` +
+    `<p>Please call us at the number on the page so we can help right away.</p>` +
+    `<p><a href="${href}">&larr; Back to the page</a></p></body>`,
+    { status: 502, headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store" } });
 }
 
 export default async (req) => {
