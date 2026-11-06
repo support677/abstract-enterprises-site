@@ -5201,3 +5201,72 @@ I couldn't open Google's People Also Ask, People Also Search For, Bing, DuckDuck
 - Store owners: must video go to police; how to protect the counter recording — Brooklyn Eagle 2019, Brooklyn Paper cannabis heist — URLs above
 - Lobby package theft and the getaway car — Brooklyn Eagle 2025 — URL above
 - Recording audio legality — recordinglaw.com — URL above
+
+## Cobble Hill, Brooklyn — /security-camera-installation-cobble-hill-brooklyn-ny (max-daily research, 2026-11-06)
+
+Thesis (security-camera specific, different from the alarm "shared ground", access-control "shared entrances" and Sonos "restraint" pages): most of Cobble Hill sits in a city historic district, so the front of a house has a counted camera allowance under LPC rule §2-20(c)(4). A Cobble Hill camera plan is a "front budget": spend the few front cameras where they identify people (door openings, under the stoop, beneath a band course), and do the rest of the coverage from the secondary facade, the rear, and inside the street door. The recorded incidents in Cobble Hill (2013 Baltic Street, 2015 Hicks/Baltic/Smith, 2020 Smith & Degraw) were mostly afternoon door-forcings while owners were out, which shapes alert schedules. Shops on Atlantic, Court and Smith are planned from the 2014 and 2024 Atlantic Avenue incidents and the restaurant break-ins residents described near Columbia Street and the BQE.
+
+### Landmarks rules that decide camera placement
+- LPC Rules §2-20(c)(4): security cameras "must be as small and as limited in number as feasible, with no more than two (2) security cameras for every twenty-five (25) feet of street frontage for small residential or commercial buildings of six (6) stories or less and with a street frontage of forty (40) feet or less, and no more than three (3) ... for larger commercial, residential and institutional buildings"; located "to avoid a cluttered or haphazard appearance" — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-113323
+- LPC Rules §2-20(b): staff may approve if: not on/in front of a primary facade unless no feasible alternative; attached at mortar joints or through plain brick, stone or wood; not through historic paving; finish matches surrounding material; no visible conduit or max ~10 inches, painted, not on decorative surfaces, secured into mortar joints, combined where several installations; not visible or minimally visible (beneath a band course, underneath a stoop, behind an areaway wall or fence, behind plantings), otherwise on a secondary facade; must not call undue attention (amended City Record 12/20/2018, eff. 1/19/2019) — same URL
+- LPC Permit Guidebook ch. 11: equipment attached at mortar joints, plain masonry, wood, metalwork or concrete paving at areaway/sidewalk, "must not be attached through cast iron or on any decorative surfaces"; equipment "as small as possible and painted to blend"; photo caption "dome-type security cameras finished to match surrounding materials"; staff can approve cameras meeting the per-25-feet criteria — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- LPC Permit Guidebook (full): permits required for work affecting the exterior of buildings in historic districts; most applicants upload photos and documents to Portico — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf
+- Vendor claim: LPC review "takes a minimum of 30 days or longer depending on the nature of the project" — https://www.burnhamnationwide.com/final-review-blog/building-permits-in-new-york-citys-historic-districts
+- LPC interior work: permit needed when interior work affects the exterior (pack, Sonos research) — https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+
+### Neighborhood and building stock (from local research pack, re-checked URLs)
+- Cobble Hill: about 40 blocks bounded by Atlantic Avenue, Court Street, Degraw Street and the BQE; ZIPs 11201/11231; Community District 6; 76th Precinct at 191 Union Street; Court and Smith Streets the main commercial streets; northern Smith Street "Restaurant Row"; Atlantic Avenue Middle Eastern shops; Bergen Street F/G station — https://en.wikipedia.org/wiki/Cobble_Hill,_Brooklyn
+- Cobble Hill Historic District: designated December 1969, extended June 7, 1988; National Register 1976; about 60 acres; 796 contributing buildings from the 1830s to the 1920s; Greek Revival, Italianate, Queen Anne — https://en.wikipedia.org/wiki/Cobble_Hill_Historic_District
+- 122 Pacific Street (1832) the oldest house; landmark law preserving "nineteenth-century scale"; Cobble Hill Park dedicated 1965 as the city's first "vest pocket" park — https://cobblehill.nyc/knowledge_base/cobble_hill_history/
+- 225 Kane Street Greek Revival house, 25 feet wide, 11-foot ceilings (Brownstoner listing 2019) — https://www.brownstoner.com/real-estate-market/brooklyn-homes-for-sale-cobble-hill-historic-district-225-kane-street-fireplace/
+- 76th Precinct serves Carroll Gardens, Red Hook, Cobble Hill, parts of Gowanus and the Columbia Street Waterfront; 191 Union Street — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/76th-precinct.page
+- Atlantic Avenue BID: "over 300 businesses" from Fourth Avenue to the waterfront — https://atlanticavebid.org/
+- Middle Eastern shops on Atlantic mostly between Court and Clinton — https://6tocelebrate.org/neighborhoods/atlantic-avenue/
+- Smith and Court lined with indie boutiques and locally owned shops — https://www.nyctourism.com/itineraries/cobble-hill-shopping-guide/
+- Cobble Hill Cinemas, 265 Court Street, opened 1926 as the Lido — https://en.wikipedia.org/wiki/Cobble_Hill_Cinemas
+
+### Incidents and local news bearing on cameras
+- Jan 24, 2013, 4:38 p.m.: man walked up to 360 Baltic Street (between Smith and Hoyt), pried the front door with a screwdriver, took a package from the hallway; NYPD released the building's surveillance video — https://brooklyneagle.com/145528/nypd-seeks-help-in-finding-cobble-hill-burglar/
+- Aug 1–7, 2015: at least seven home burglaries in Cobble Hill and Carroll Gardens, most by breaking a door lock while the owner was away; 300-block of Smith Street entered by a back door that does not lock; 200-block of Baltic Street between 2:45 and 5:45 p.m. (broken lock, laptop, jewelry); 400-block of Hicks Street, broken front-door lock, more than $10,000 in camera and digital equipment taken — https://www.dnainfo.com/new-york/20150812/carroll-gardens/string-of-burglaries-hit-carroll-gardens-cobble-hill-homes-police-say
+- Dec 2019–Jan 2020 pattern: one suspect sought for six residential burglaries in Park Slope and Cobble Hill; Jan 21, 2020, afternoon, forced apartment door near Smith and Degraw, $3,000 in electronics; a locksmith quoted recommending a Ring camera at "about $100" that "takes two screws" — https://nycitylens.com/park-slope-cobble-hill-burglar-breaking-doors/
+- Cobble Hill Association post: 76th Precinct commander Deputy Inspector Natalie Maldonado reported a slight increase in residential burglaries; an arrested burglar said Carroll Gardens and Cobble Hill were easy targets "because many residents are known to leave their doors unlocked"; precinct offers free home Security Survey (post undated) — https://cobblehill.nyc/update-from-the-76th-precinct/
+- May 2013: 76th Precinct officers photographed valuables left in parked cars in Cobble Hill and sent 35–40 letters to residents who left apartment doors open — https://gothamist.com/news/nagging-cops-convince-cobble-hill-residents-to-stop-teasing-thieves
+- Oct 19, 2014, about 1:45 p.m.: eight shoplifters looted a clothing store on Atlantic Avenue between Clinton and Court ($3,400); a lone thief took a $500 sweater from the same shop the day before at 5:55 p.m.; a bike stolen overnight on Second Place between Smith and Court — https://www.brooklynpaper.com/atlantic-avenue-store-looted-twice-in-two-days/
+- Mar 2024 (Saturday morning): two people smashed the glass of Love Joy Convenience on Atlantic Avenue and took goods while two others acted as lookouts; all fled down Atlantic toward Hicks Street (News 12 calls it a Brooklyn Heights business) — https://newjersey.news12.com/nypd-4-wanted-in-brooklyn-heights-store-burglary
+- r/Brooklyn thread "Brooklyn Heights/Cobble Hill Residential Break-in & Burglary" (excerpt only): "a bunch of the restaurants around Columbia Street/BQE in Cobble Hill have been robbed recently ... window at 3am Friday morning" — https://www.reddit.com/r/Brooklyn/comments/15v49ga/brooklyn_heightscobble_hill_residential_breakin/ (scrape not supported; excerpt via search)
+- BQE: June 15, 2023 DOT "Zone 5" meeting showed concepts with a Queens-bound on-ramp on Hicks Street at Congress Street; the Cobble Hill Association says drivers bypass the trench on Hicks, Columbia and Clinton Streets and wants trucks kept off Hicks — https://cobblehill.nyc/bqe-no-highway-on-hicks/
+- 2020 "Fix the Ditch" proposal to deck over the BQE trench — https://www.nysenate.gov/newsroom/in-the-news/2020/brian-kavanagh/brooklyn-eagle-cobble-hills-fix-ditch-plan-comes-roaring
+
+### Rules and claims used in the "what AI / online guides say" section
+- Camera location registration with the NYPD at NewYorkCityConnect.org (311) — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- Registering a camera does not give the NYPD remote access to the feed — https://newyorkcityconnect.org/camera-integration/
+- NY GBL §69-m: licence needed to be in the business of installing security or fire alarm systems — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- Conflict: NYS DOS application says installing "passive" (nondetecting) security devices does not require licensure — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- NY Civil Rights Law §52-a ("backyard camera law") — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- Vendor claim: "For most residential camera installations, no permit is required" — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Vendor claim: a brownstone needs one camera per entrance (stoop door, garden-level door, back door) plus one for the yard — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Vendor claim: a brownstone is often covered with 4 to 6 cameras — https://www.uasecurity.com/security-camera-system-installation-brooklyn-new-york.htm
+- Facebook group claim: "Hiring a professional to install 6 cameras can cost between $250-$500" — https://www.facebook.com/groups/baysidequeens/posts/10162081756689809/
+- r/AskNYC: "Most building lobbies have cameras, and they still steal from them. They have hoods and sunglasses on" — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- r/AskNYC: "Check with the LLD before you put any camera up" — https://www.reddit.com/r/AskNYC/comments/5h5ne1/anybody_having_a_lot_of_their_packages_stolen_in/
+
+### EMPTY
+- Google PAA, PASF, AI Overview, Answer the Public, Bing/DuckDuckGo: EMPTY (not accessible in build env).
+- Yelp 1–3★ for Cobble Hill camera installers: EMPTY (not accessible in build env).
+- Reddit thread bodies: EMPTY (scraper does not support reddit.com); only search excerpts used.
+- 311 / DOB / HPD records specific to cameras in Cobble Hill: EMPTY (none found).
+- Recent (2025–2026) Cobble Hill residential burglary coverage: EMPTY (searches found only the 2013, 2015, 2020 items above and a 2026 police-conduct story not relevant to cameras).
+- NYPD CompStat figures: deliberately not used (blueprint Appendix B: crime-data citations only on solar pages).
+
+### Questions people ask — Security Camera Installation in Cobble Hill
+- Can I put a camera in the lobby for package thieves? — r/AskNYC — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- Anybody having a lot of their packages stolen in Brooklyn? (answer: check with the landlord before putting any camera up) — r/AskNYC — https://www.reddit.com/r/AskNYC/comments/5h5ne1/anybody_having_a_lot_of_their_packages_stolen_in/
+- What have people in Brooklyn found effective to prevent package theft? — r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/
+- Brooklyn Heights/Cobble Hill residential break-in and burglary — what happened, what to do — r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/15v49ga/brooklyn_heightscobble_hill_residential_breakin/
+- How many cameras does a Brooklyn brownstone need? — vendor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- How many security cameras is too many? — r/homesecurity — https://www.reddit.com/r/homesecurity/comments/1boja38/how_many_security_cameras_too_many/
+- Did you wire your cams yourself? — r/reolinkcam — https://www.reddit.com/r/reolinkcam/comments/v9d029/did_you_wire_your_cams_yourself/
+- Does Ring actually help stop package theft? — r/Ring — https://www.reddit.com/r/Ring/comments/18d25xf/does_ring_actually_help_stop_package_theft/
+- How much does it cost to have a professional install outdoor cameras with wire? — Facebook group — https://www.facebook.com/groups/baysidequeens/posts/10162081756689809/
+- Are you installing security cameras in a historic district — which chapter applies? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf
+- Most question intents above are already in the silo register; the page's FAQ/Q&A therefore uses Cobble Hill-specific reworkings (front allowance, dusk timing, locks vs cameras, recorder theft, closing-time alerts, staff recognition, escape-route view, LPC filing/timing/finish, storage upgrades, deterrent sirens, spare capacity).
