@@ -236,3 +236,107 @@ Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo results: **EMPTY** (coul
 - How good is the solar panel? — forum (Slickdeals) — https://slickdeals.net/f/18716797
 - Do you have to share your doorbell video with police? — news (Consumer Reports via WLOS) — https://wlos.com/news/local/consumer-reports-do-you-have-to-share-your-doorbell-video-with-police-yes-and-no
 - Can you be arrested for recording someone without permission in New York? — local outlet (
+
+## Brooklyn, Brooklyn — /eufy-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**Research limits (please read first):** My search tool returns web results. It cannot show Google's People Also Ask boxes, People Also Search For lists, Bing or DuckDuckGo pages, or AnswerThePublic. Those fields are marked EMPTY below. I also found no r/Brooklyn, r/AskNYC or r/homesecurity threads, and nothing from HPD, 311 or DOB open data. Several findings come from competitor marketing pages and are labeled "vendor claim."
+
+### eufy-specific and installation-specific findings
+
+**LPC (landmark) rules**
+- LPC Rule §2-20 deals with health, safety and utility equipment. When it was proposed, it said it would cover objects required by another agency or an entity similar to a utility, or is common for security, such as lighting, security cameras and intercom panels. It also said it would prohibit installation of many of these types of objects on a primary façade — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- LPC's permit guidebook has a chapter on installing security cameras (section 11.7). It notes that some safety equipment, like window security bars, security cameras, lighting, and intercom panels, isn't required by law but is common — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- LPC has reviewed security-camera proposals under Section 2-20(c)(4) for security cameras — https://a860-gpp.nyc.gov/downloads/7h149t85r?locale=en
+- Vendor claim on camera limits: no more than two (2) security cameras for every twenty-five (25) feet for small residential or commercial buildings. The same vendor says turret cameras suit landmark fronts better because they're less visible than bullet cameras — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Vendor claim: visible changes on landmarked brownstones, including camera mounts and conduit — may require a Certificate of No Effect or a Permit to Alter — https://senecasecurity.com/services/security-cameras/brownstones/
+- Vendor claim on how landmark jobs get done: All cabling routes through the rear yard, internal stairwells, or roof bulkheads, with cameras concealed in eaves at the rear and a single discreet overview camera (often a doorbell unit) at the front stoop — https://www.roloelectronics.com/brooklyn-ny-security-systems
+
+**Permits and wiring**
+- DOB permits — vendor claim, not confirmed with DOB: Low-voltage security camera installation in a residential brownstone typically does not require a DOB permit under NYC construction codes — https://senecasecurity.com/services/security-cameras/brownstones/
+- Floodlight wiring (vendor claim): a plug-in model like the eufy E340 still need[s] an outdoor outlet within reach — rare in a Brooklyn rear yard or alley — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- Brick mounting: Drill into the brick, not the mortar. Use a masonry bit and anchors. — https://www.aosulife.com/blogs/security-system-setup/how-to-install-a-security-camera-on-brick-step-by-step-guide
+- eufy says adhesive strips or clamp mounts work on brick without drilling, but drilling into the wall is still recommended for a more secure installation — https://www.eufy.com/blogs/security-camera/how-to-install-camera-on-brick-without-drilling
+
+**Renters and landlords**
+- Brick Underground: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Doorbell cameras on a tenant's unit door are a gray area — generally tolerated by most NYC landlords but technically subject to lease provisions about alterations — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- In rent-stabilized buildings, landlord cameras can raise harassment concerns. any action a landlord takes that could be construed as harassment of a stabilized tenant is taken seriously by the courts and the DHCR — https://senecasecurity.com/learn/can-tenants-object-to-security-cameras-in-common-areas/
+- Hallway footage has been used against tenants. In New York, this strategy has been successfully used in rent-stabilized housing disputes. — https://getsafeandsound.com/blog/apartment-security-camera-laws/
+- Brooklyn tenant pushback on biometrics: in 2018 a Brooklyn landlord suddenly attempted to install a facial recognition camera in the entrance of a rent-stabilized building. The landlord backed off — https://council.nyc.gov/carlina-rivera/?p=396
+
+**Businesses (facial recognition)**
+- This matters if a shop turns on eufy's face recognition. NYC Local Law 3 of 2021 requires covered stores, restaurants and venues to post conspicuous signage at all customer entrances. CCTV is exempt as long as footage isn't analyzed to identify persons based on "biological characteristics" (e.g., with facial recognition software) — https://www.rmmagazine.com/articles/article/2021/09/27/insurance-implications-of-nyc-s-biometric-information-law
+- The sign must be at least 8.5 inches by 11 inches — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-20714
+
+**Local news: package theft caught on camera** (CBS stories, mostly undated older pieces)
+- Bushwick: a man stole packages at an apartment building on Eldert Street in Bushwick — https://www.cbsnews.com/amp/newyork/news/brooklyn-packages-stolen
+- Crown Heights: video showed a thief strolling up the steps of a home near Montgomery Street and New York Avenues — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- Bushwick lobby thefts at a building on Lawton Street — https://www.cbsnews.com/amp/newyork/news/lobby-packages-stolen-brooklyn
+- Cypress Hills: a package thief slashed a homeowner on Crescent Street between Atlantic Avenue and Fulton Street — https://cbsnews.com/newyork/news/package-thieves-slash-homeowner-brooklyn
+
+**eufy trust and reliability issues buyers raise**
+- A Tom's Guide report: Eufy security-camera owners reported that they could see live and recorded video feeds from strangers' Eufy cameras — https://tomsguide.com/news/eufy-security-cameras-showing-strangers-video-feeds-unplug-now
+- A Slickdeals commenter: Eufy recordings are useless without internet connection and app. — https://slickdeals.net/f/14853658-eufy-security-2k-indoor-plug-in-camera-w-wifi-30-free-shipping
+
+**Local pricing**
+- Technico (Brooklyn) lists Eufy Installation & Setup From $129 — https://www.technicoss.com/home-brooklyn-ny
+- Vendor claim: a 4-camera Reolink or Eufy install with solar panels and HomeBase should land at $1,895-$2,795 all-in — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Case study: a Brooklyn multi-family owner chose to implement Eufy digital cameras, both wired and wireless — https://bk-handyman.com/security-camera-installation-in-brooklyn/
+
+**Not found (EMPTY)**
+- HPD violations about cameras or entry: EMPTY
+- 311 complaint data: EMPTY
+- DOB permit data: EMPTY
+- Patch, BKReader or Brownstoner articles on eufy or cameras: EMPTY
+
+### Neighborhood background
+- Brooklyn had a population of 2,736,074 in the 2020 census. It became part of New York City On January 1, 1898 — https://en.wikipedia.org/wiki/Brooklyn
+- The Village of Breuckelen was authorized by the Dutch West India Company in 1646 and became the first municipality in what is now New York State. — https://www.newworldencyclopedia.org/entry/Brooklyn
+- Original towns: Brooklyn was one of the original 6 towns in Kings County, along with Bushwick, Flatbush, Flatlands, Gravesend and New Utrecht. Later, The Prospect Park South, Kensington, and Ditmas Park neighborhoods were developed as detached-house suburbs — https://everything2.com/title/Brooklyn
+- Brownstone belt: Brooklyn Heights, Stuyvesant Heights, Fort Greene, Park Slope, Carroll Gardens, Cobble Hill, Boerum Hill, Clinton Hill and Vinegar Hill — https://barrypopik.com/blog/brownstone_belt
+- Construction detail that affects drilling: these houses were actually brick houses whose street front had a 4-to-6-inch-thick brownstone facing or veneer — https://www.brownstoner.com/architecture/brownstone-brooklyn-architecture-charles-lockwood/
+- Brooklyn Heights became NYC's first historic district on November 23, 1965 — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/dil-bk-bkheights/
+- Its boundaries run from Atlantic Avenue to Fulton Street and from the East River to Court Street, with more than 600 structures — https://architecturaltrust.org/easements/about-the-trust/trust-protected-communities/historic-districts-in-new-york/brooklyn-heights-historic-district/
+- Other historic districts and designation dates: Carroll Gardens Historic District | September 25, 1973, Fort Greene (1978), Stuyvesant Heights (1971), Ditmas Park (1981), DUMBO (2007) and Prospect Heights (2009) — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_Brooklyn
+- Newest district found: Willoughby-Hart (2024), on Willoughby Avenue and Hart Street between Nostrand and Marcy Avenues — https://www.nyc.gov/site/lpc/about/pr2024/lpc-designates-willoughby-hart-historic-district-20240625.page
+- Park Slope's historic district has 2,853 historic Park Slope brownstones and rowhouses — https://www.garfieldbrooklyn.com/blog/brownstone-brooklyn-architecture-guide-5-historic-districts-explained/
+- Main streets: in Park Slope, Fifth Avenue and Seventh Avenue are its primary commercial streets — https://en.wikipedia.org/wiki/Park_Slope. Borough-wide commercial corridors: EMPTY
+- Parks: Prospect Park: This large public park in central Brooklyn covers 585 acres. — https://kids.kiddle.co/Brooklyn
+- Today's building mix: luxury towers, restored brownstones, public housing complexes, and smaller rental buildings — https://seeoldnyc.com/brooklyn-then-and-now/
+- Yelp installers that appear in Brooklyn searches include Eddies Security Systems, Peace of Mind, True Defense Solutions and Lock and Tech USA. One review: "Needed help updating my current camera system, and Eddie was amazing." — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn,+NY+11204
+- One Yelp listing shows Abstract Enterprise Security Systems at 3.0 (38 reviews). No specific complaints were visible — https://www.yelp.com/search?find_desc=Security+System+Installation&find_loc=Brooklyn%2C+NY
+
+### Questions people ask — eufy Camera Installation in Brooklyn
+- Google PAA: EMPTY (couldn't access)
+- PASF / related searches: EMPTY
+- Bing and DuckDuckGo: EMPTY
+- AnswerThePublic: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland): EMPTY
+
+The questions below were found in competitor FAQs, brand blogs and forums. I've labeled where each one was actually seen.
+
+- How much does floodlight camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- I rent in Brooklyn — can I put a floodlight camera outside? — competitor FAQ — same URL
+- How much does wireless camera installation cost in Brooklyn? — competitor FAQ schema — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- How long do wireless camera batteries last in Brooklyn? — competitor FAQ schema — same URL
+- Can I record audio on a Brooklyn wireless camera? — competitor FAQ — same URL
+- How much does security camera installation cost in Brooklyn, NY? — competitor FAQ schema — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Can security cameras help prevent package theft in Brooklyn? — competitor FAQ — same URL
+- Can you install cameras on a Brooklyn brownstone without damage? — competitor FAQ — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Can I install a security camera in a landmark building in Brooklyn? — competitor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Do I need LPC approval to install cameras on my brownstone? — competitor FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- How many cameras does a typical brownstone need? — competitor FAQ — same URL
+- Can tenants in my brownstone access the camera system? — competitor FAQ — same URL
+- Can I install a Ring doorbell in my NYC apartment? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can I install a security camera in the hallway for safety? — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Can a rent-stabilized tenant install their own private security camera above their apartment door? — City-Data forum — https://www.city-data.com/forum/new-york-city/3354139-rent-stabilized-apt-s-private-security.html
+- Can my landlord legally prevent me from having my doorbell camera, and can they remove it without my consent? — JustAnswer (NYC tenant) — https://www.justanswer.com/law/omn0j-live-rental-building-nyc-installed-blink.html
+- How do I mount a wireless Eufy camera on brick without drilling? — blog FAQ — https://www.acciyo.com/how-to-mount-eufy-security-cameras-on-a-brick-house-%E2%AD%90-the-ultimate-guide/
+- How deep should I drill into brick for a camera mount? — blog FAQ — same URL
+- Can I mount a security camera without drilling into brick? — eufy blog FAQ — https://www.eufy.com/blogs/security-camera/how-to-install-camera-on-brick-without-drilling
+- What is the best adhesive for mounting cameras on brick? — eufy blog FAQ — same URL
+- Is it worth paying for professional security camera installation? — eufy blog FAQ — https://www.eufy.com/blogs/security-camera/security-camera-installation-cost-is-it-worth-it
+- How long does PoE camera installation take? — eufy blog FAQ — https://www.eufy.com/blogs/security-camera/poe-camera-installation
+- Does Eufy stop recording when there's no internet? — Slickdeals comments — https://slickdeals.net/f/14853658-eufy-security-2k-indoor-plug-in-camera-w-wifi-30-free-shipping
+- Does Wyze or Eufy work for package theft prevention? — review-site FAQ schema — https://www.securitycompasshq.com/best/package-theft
+- What is the best camera placement for package theft prevention? — eufy blog FAQ — https://www.eufy.com/blogs/security-camera/package-theft-prevention-smart-porch-cameras
