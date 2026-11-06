@@ -1,4 +1,4 @@
 shards=20
 limit=0
-only=
+only=@redo.txt
 force=1

@@ -11,7 +11,10 @@ D = os.path.dirname(os.path.abspath(__file__))
 SITE = os.environ.get("AESS_SITE", os.path.abspath(os.path.join(D, "..", "..")))
 shard, shards = int(sys.argv[1]), int(sys.argv[2])
 limit = int(sys.argv[3]) if len(sys.argv) > 3 else 0
-only = [x for x in os.environ.get("HV_ONLY", "").split(",") if x]
+only_s = os.environ.get("HV_ONLY", "")
+if only_s.startswith("@"):   # only=@redo.txt -> one slug per line in that file
+    only_s = ",".join(open(os.path.join(D, only_s[1:])).read().split())
+only = [x for x in only_s.split(",") if x]
 todo = only or pages.candidates(SITE, force=os.environ.get("HV_FORCE") == "1")
 todo = [p for i, p in enumerate(todo) if i % shards == shard]
 if limit:

@@ -45,11 +45,12 @@ jobs:
         with: { python-version: "3.12" }
       - name: Tools
         run: |
+          pip install -q numpy Pillow boto3 kokoro-onnx soundfile imageio-ffmpeg
           if ! command -v ffmpeg >/dev/null; then
-            for i in 1 2 3; do sudo timeout 240 apt-get update -qq && sudo timeout 300 apt-get install -y -qq ffmpeg >/dev/null && break; done
+            sudo ln -sf "$(python -c 'import imageio_ffmpeg;print(imageio_ffmpeg.get_ffmpeg_exe())')" /usr/local/bin/ffmpeg
           fi
           ffmpeg -version | head -1
-          pip install -q numpy Pillow boto3 kokoro-onnx soundfile
+          command -v ffmpeg   # fail the shard here if there is still no ffmpeg
       - uses: actions/cache@v4
         with: { path: ~/kokoro, key: kokoro-v1.0 }
       - name: Voice model
@@ -75,15 +76,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with: { fetch-depth: 1 }
+        with: { fetch-depth: 0 }
       - uses: actions/download-artifact@v4
-        with: { pattern: "results-*", path: results, merge-multiple: true }
+        with: { pattern: "results-*", path: results/now, merge-multiple: true }
+      - name: Earlier run's results (only=@redo.txt reuses a finished run's videos)
+        if: ${{ hashFiles('tools/hero-video/PREV_RUN') != '' }}
+        uses: actions/download-artifact@v4
+        with:
+          pattern: "results-*"
+          path: results/prev
+          merge-multiple: true
+          run-id: 42151143779
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Put videos in pages and push
         run: |
-          ls results || exit 0
-          HV_DATE=$(date +%F) python3 tools/hero-video/inject.py results
-          cat results/*.json | python3 -c "import sys,json;import re;t=sys.stdin.read();print('failed:', re.findall(r'\"failed\": \[(.*?)\]',t))"
           git config user.name "aess-hero-videos"; git config user.email "support@abstractenterprisessecuritysystems.com"
-          git add -A '*.html'; git diff --cached --quiet && exit 0
-          git commit -qm "Hero videos: $(git diff --cached --name-only | wc -l) pages"
-          for i in 1 2 3 4 5; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 10; done
+          # Re-apply on top of the newest main each try, so pages the factory pushes meanwhile never conflict
+          for i in 1 2 3 4 5 6; do
+            git fetch -q origin main && git reset -q --hard origin/main
+            for d in results/prev results/now; do [ -d $d ] && HV_DATE=$(date +%F) python3 tools/hero-video/inject.py $d; done
+            git add -A '*.html'; git diff --cached --quiet && { echo "nothing to inject"; exit 0; }
+            git commit -qm "Hero videos: $(git diff --cached --name-only | wc -l) pages"
+            git push -q origin HEAD:main && { echo pushed; exit 0; }
+            sleep 15
+          done
+          exit 1
