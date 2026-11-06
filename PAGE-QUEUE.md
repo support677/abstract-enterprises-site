@@ -1210,7 +1210,7 @@ TODO | google-nest-camera-installation-putnam-county | Google Nest Camera Instal
 TODO | google-nest-camera-installation-dutchess-county | Google Nest Camera Installation | Dutchess | up /google-nest-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | google-nest-camera-installation-ulster-county | Google Nest Camera Installation | Ulster | up /google-nest-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | arlo-camera-installation-manhattan | Arlo Camera Installation | Manhattan | up /arlo-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T03:04Z factory | arlo-camera-installation-brooklyn | Arlo Camera Installation | Brooklyn | up /arlo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | arlo-camera-installation-brooklyn | Arlo Camera Installation | Brooklyn | up /arlo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | arlo-camera-installation-queens | Arlo Camera Installation | Queens | up /arlo-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | arlo-camera-installation-bronx | Arlo Camera Installation | Bronx | up /arlo-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | arlo-camera-installation-staten-island | Arlo Camera Installation | Staten Island | up /arlo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
