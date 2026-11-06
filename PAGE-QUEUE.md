@@ -1288,7 +1288,7 @@ TODO | wyze-camera-installation-putnam-county | Wyze Camera Installation | Putna
 TODO | wyze-camera-installation-dutchess-county | Wyze Camera Installation | Dutchess | up /wyze-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | wyze-camera-installation-ulster-county | Wyze Camera Installation | Ulster | up /wyze-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | blink-camera-installation-manhattan | Blink Camera Installation | Manhattan | up /blink-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T03:04Z factory | blink-camera-installation-brooklyn | Blink Camera Installation | Brooklyn | up /blink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | blink-camera-installation-brooklyn | Blink Camera Installation | Brooklyn | up /blink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | blink-camera-installation-queens | Blink Camera Installation | Queens | up /blink-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | blink-camera-installation-bronx | Blink Camera Installation | Bronx | up /blink-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | blink-camera-installation-staten-island | Blink Camera Installation | Staten Island | up /blink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
