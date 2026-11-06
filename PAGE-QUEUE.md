@@ -1171,7 +1171,7 @@ TODO | luminys-camera-installation-putnam-county | Luminys Camera Installation |
 TODO | luminys-camera-installation-dutchess-county | Luminys Camera Installation | Dutchess | up /luminys-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | luminys-camera-installation-ulster-county | Luminys Camera Installation | Ulster | up /luminys-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | reolink-camera-installation-manhattan | Reolink Camera Installation | Manhattan | up /reolink-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T00:03Z factory | reolink-camera-installation-brooklyn | Reolink Camera Installation | Brooklyn | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | reolink-camera-installation-brooklyn | Reolink Camera Installation | Brooklyn | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | reolink-camera-installation-queens | Reolink Camera Installation | Queens | up /reolink-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | reolink-camera-installation-bronx | Reolink Camera Installation | Bronx | up /reolink-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | reolink-camera-installation-staten-island | Reolink Camera Installation | Staten Island | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
