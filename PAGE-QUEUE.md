@@ -645,7 +645,7 @@ LIVE | security-camera-installation-unionport-bronx-ny | Security Camera Install
 LIVE | security-camera-installation-university-heights-bronx-ny | Security Camera Installation | University Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-cortlandt-village-bronx-ny | Security Camera Installation | Van Cortlandt Village, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-van-nest-bronx-ny | Security Camera Installation | Van Nest, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-wakefield-bronx-ny | Security Camera Installation | Wakefield, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | security-camera-installation-wakefield-bronx-ny | Security Camera Installation | Wakefield, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-washingtonville-bronx-ny | Security Camera Installation | Washingtonville, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-westchester-heights-bronx-ny | Security Camera Installation | Westchester Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-westchester-square-bronx-ny | Security Camera Installation | Westchester Square, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
