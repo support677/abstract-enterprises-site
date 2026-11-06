@@ -697,7 +697,7 @@ BUILDING 2026-11-05T18:05Z factory | tv-installation-belmont-bronx-ny | TV Insta
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bensonhurst-brooklyn-ny | TV Installation | Bensonhurst, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bergen-beach-brooklyn-ny | TV Installation | Bergen Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-05T18:05Z factory | tv-installation-bronxdale-bronx-ny | TV Installation | Bronxdale, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-bronxwood-bronx-ny | TV Installation | Bronxwood, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | tv-installation-bronxwood-bronx-ny | TV Installation | Bronxwood, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-bruckner-bronx-ny | TV Installation | Bruckner, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | tv-installation-castle-hill-bronx-ny | TV Installation | Castle Hill, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-05T21:05Z factory REBUILD | tv-installation-clason-point-bronx-ny | TV Installation | Clason Point, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
