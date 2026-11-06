@@ -207,3 +207,80 @@ I couldn't pull Google PAA/PASF panels, Bing, DuckDuckGo or AnswerThePublic dire
 - My house is in the Kingston Stockade District — what do I need before I start a renovation? — contractor FAQ (useful for exterior mounting) — https://timberdesignbuild.com/service-areas/ulster-county/kingston
 - Related searches: "Video Doorbell Installation," "Security Camera Installation," "Home Automation" and "Door Entry Systems" in Poughkeepsie — Yelp related searches — https://www.yelp.com/search?find_desc=security&find_loc=Poughkeepsie%2C+NY
 - Google PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing: EMPTY. DuckDuckGo: EMPTY. Reddit: EMPTY.
+
+## Brooklyn, Brooklyn — /ring-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**Notes on what I could and couldn't verify:** My search tool doesn't show Google's People Also Ask boxes, Bing or DuckDuckGo results pages, or AnswerThePublic, so those fields are marked EMPTY rather than guessed. Every "where seen" label below gives the real source type. I found no HPD, 311 or DOB permit records about doorbell or camera installs, and no Reddit threads about Ring in Brooklyn. Those fields are EMPTY too.
+
+### 1. Facts specific to Ring camera installation in Brooklyn
+
+**Building types, entry and wiring**
+- Landmark districts drive how installs are done. One Brooklyn installer says Brooklyn Heights, Park Slope, and Carroll Gardens are dense with 1860s–1890s brownstones in NYC Landmarks-designated districts. Its approach is that all cabling routes through the rear yard, internal stairwells, or roof bulkheads, with cameras concealed in eaves at the rear and a single discreet overview camera (often a doorbell unit) at the front stoop. — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Renter-friendly options listed by the same company: Adhesive-mount Ring cameras, wireless indoor cameras, video doorbells over existing peepholes, and smart locks that replace the deadbolt without drilling. All removable. — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Wi-Fi problem: Brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal — too weak for any wireless camera. The same company says battery doorbells are best for Brooklyn brownstone parlor doors and apartment unit doors. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Competitor angle: a Brooklyn installer at 1282 Troy Ave says "We do not recommend Ring camera installation, Nest camera installation, Arlo camera installation, or Wyze camera installation for Brooklyn buildings." — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny. It also says "We do not service Ring, Nest, or Arlo — these are sealed consumer products with no field-serviceable parts." — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn. This leaves an opening for a Ring-focused installer.
+- Mounting on masonry: Cameras must be small, color-matched, mounted at mortar joints (not through brownstone or stone). — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Old walls: "We use flexible drill bits, fish tape, and wall cavity routing techniques developed specifically for plaster-and-lath construction." — https://senecasecurity.com/security-installation-brooklyn/
+- Where cameras go on a Brooklyn Heights brownstone: (1) stoop/front entrance facing the sidewalk, (2) rear garden or yard, (3) parlor floor hallway if multi-unit, (4) any side alley or passageway. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york
+- Missing doorbell wiring (general, not Brooklyn-specific). An electrician writes: "No telling how many times I've been called to hook up a Ring doorbell only to find there was no wiring for a doorbell. Have to add a transformer and get wire to the door best I could." Another notes old houses had them in the basement ceiling usually in a box containing a pull-chain light. — https://forums.mikeholt.com/threads/doorbell-transformer-location.2584409/post-2960055
+- Transformer voltage: all of Ring's other wired doorbells require a 16V-24V transformer, while the basic Wired model fully runs on as little as 10V. — https://slickdeals.net/f/17210410-ring-doorbell-wired-2021-amazon-refurbished-at-woot-for-19-99
+- Buzzer and intercom buildings: Ring Intercom is designed to be an add-on to existing apartment intercom systems. The company has created a quick online questionnaire to determine whether your existing system will work with the new product. The article advises it's probably best to get the building owner's permission before using one of these with their system. — https://techcrunch.com/2022/09/01/ring-adds-a-wifi-intercom-add-on-to-its-lineup. Current US availability: EMPTY (not confirmed).
+
+**City rules (LPC, DOB, tenancy)**
+- LPC camera limits: no more than two or three cameras for every 25 feet of frontage, and generally discourage installation on a primary façade unless no other option exists. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- LPC approval may be needed for any visible change. In a historic district or individually landmarked building, any visible alterations to the exterior — including camera mounts and conduit — may require a Certificate of No Effect or a Permit to Alter from the Landmarks Preservation Commission. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Doorbells specifically: one source says LPC requires approval for cameras on primary facades, new doorbell installations on landmarked buildings, exterior lighting changes, and any visible modifications including wiring. Another option it gives: Interior cameras placed in windows monitor stoops, front yards, or rear gardens without exterior mounting. — https://www.nycittech.com/blog/can-you-add-smart-tech-to-a-100-year-old-brownstone/
+- LPC's own permit guidebook names window security bars, security cameras, lighting, and intercom panels as common safety equipment covered by its rules (see LPC Rules §2-20). — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- DOB permits (installer's claim, not official): low-voltage camera work in a residential brownstone typically does not require a DOB permit under NYC construction codes. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Apartment doors: No New York State or New York City law prohibits a resident from putting a camera on their own apartment door, and none dictates how the camera has to be aimed. The rules come from the building itself. — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- HPD violations, 311 complaints and DOB permit data on doorbells or cameras in Brooklyn: EMPTY
+
+**Local news: package theft and Ring/NYPD**
+- Williamsburg/Greenpoint: police said a man stole a package containing a queen-size bed frame from the lobby of an apartment building on Woodpoint Road. In a later theft, the pair got away with a package containing clothes and home goods after a tenant buzzed them into the lobby of a Kingsland Avenue building (year not stated). — https://www.cbsnews.com/newyork/news/brooklyn-package-thefts/
+- Cypress Hills: a theft happened in front of a home on Crescent Street between Atlantic Avenue and Fulton Street in Cypress Hills, and the homeowner was slashed across the head when he confronted the thieves (Aug 2021). — https://cbsnews.com/newyork/news/package-thieves-slash-homeowner-brooklyn
+- Bay Ridge (2018): a thief was caught by a lobby security camera stacking stolen Christmas gifts into a shopping cart. — https://www.pressreader.com/usa/new-york-daily-news/20181216/281560881890726
+- NYPD and Ring: the NYPD announced its participation in Neighbors, a free app developed as a part of the Ring system (Nov 2, 2022). — https://www.nyc.gov/site/nypd/news/p00065/the-nypd-it-will-join-ring-neighbors
+- Ring ended its "Request for Assistance" tool; law enforcement agencies can still access videos using a search warrant. — https://longisland.news12.com/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users
+- Ring–Flock: Ring has canceled its planned integration with Flock Safety (Feb 2026). Its Community Requests feature, which allows local law enforcement to request footage from nearby Ring users during active investigations, remains in place. — https://www.police1.com/technology/ring-cancels-planned-flock-safety-integration ; https://www.geekwire.com/2026/ring-cancels-flock-partnership-amid-broader-surveillance-concerns/
+- NYPD and Flock (Sep 2026): advocates question why a third-party site shows the NYPD searched the Flock camera database 1,710 times between 2023 and 2025 without a publicly known contract. — https://amsterdamnews.com/news/2026/09/24/did-the-nypd-fail-to-disclose-flock-camera-database-access/
+
+**Businesses that come up for Ring installs**
+- Yelp's Brooklyn doorbell-install results list Titanium Electrical (4.9, 57 reviews), Zuntek Electrical Services, Ark Electric and Danik Electrical. A Titanium review says "Reliable, on-time, did a good job installing my nest hello doorbell and price was good." — https://www.yelp.com/search?find_desc=Doorbell+Installation&find_loc=Brooklyn%2C+NY
+- Precise Security Integrated Solutions review: "I was interested in getting the ring installed for my front doorbell and Nelson was very..." A Lock and Tech USA review mentions installing a doorbell/intercom system into an old building. — https://www.yelp.com/search?find_desc=Doorbell&find_loc=Brooklyn,+NY
+- A Crown Heights / 11238 Yelp listing (DownUnder handyman) advertises Ring Doorbells Installed. — https://yelp.com/search?find_desc=doorbell+repair&find_loc=Brooklyn%2C+NY+11238
+
+**Pricing**
+- Ring's own professional install: Pricing starts at $129.99 per device (billed separately). — https://ring.com/install-my-ring
+- National average: the cost of a Ring doorbell plus installation is $179.98 to $609.98. — https://www.homeserve.com/blog/cost-guide/ring-doorbell-installation/
+- Brooklyn wired-system comparison: A typical 4-camera wired PoE system on a single-family or two-family brownstone generally runs between $1,800 and $3,500 installed. — https://senecasecurity.com/security-installation-brooklyn/
+
+### 2. Neighborhood background
+
+- Founding: Brooklyn's history spans 350 years, from its beginnings in 1664 as the Dutch town of Breuckelen to its 1898 incorporation by charter into "Greater New York." — https://www.elikarealestate.com/blog/brooklyn-townhouse-architecture/
+- Early growth: Reliable steam ferry service across the East River to Fulton Landing converted Brooklyn Heights into a commuter town for Wall Street. Town and Village were combined to form the first, kernel incarnation of the City of Brooklyn in 1834. — https://en.wikipedia.org/wiki/Brooklyn
+- Brooklyn Bridge: The opening of the Brooklyn Bridge in 1883 changed Brooklyn's future. New housing blocks grew around trolley lines and elevated trains. — https://seeoldnyc.com/brooklyn-then-and-now/
+- Rowhouses: According to the Landmarks Preservation Commission, rowhouses are the dominant building type in New York City's historic districts. Many were built between 1800 and 1925 to house a growing middle class. Some of Brooklyn's rowhouses have been converted into a greater number of apartments. — https://www.brownstoner.com/architecture/what-is-a-row-house-brooklyn-townhouse-architecture-history/
+- Brownstone facades: mid-19th-century row houses were known as brownstone fronts, because they were actually brick houses whose street front had a 4-to-6-inch-thick brownstone facing or veneer. This matters for mounting depth and anchors. — https://www.brownstoner.com/architecture/brownstone-brooklyn-architecture-charles-lockwood/
+- Park Slope: Park Slope's Historic District designation began in 1973, covering over 40 blocks lined with 2,853 historic Park Slope brownstones and rowhouses. — https://www.garfieldbrooklyn.com/blog/brownstone-brooklyn-architecture-guide-5-historic-districts-explained/
+- Crown Heights building mix: three- and four-story rowhouses mingle with five- and six-story pre-war elevator apartment complexes. — same URL
+- New historic district (2024): LPC designated the Willoughby-Hart Historic District, two blocks of distinctive late-19th century row houses lining Willoughby Avenue and Hart Street between Nostrand and Marcy Avenues in Bed-Stuy. — https://www.nyc.gov/site/lpc/about/pr2024/lpc-designates-willoughby-hart-historic-district-20240625.page
+- Housing today: housing includes luxury towers, restored brownstones, public housing complexes, and smaller rental buildings. — https://seeoldnyc.com/brooklyn-then-and-now/
+- Fulton Street corridor: By the beginning of the 1890s, Fulton Street between City Hall and Flatbush Avenue was fast evolving as one of the largest and most prosperous retail shopping districts in the nation. — https://www.brownstoner.com/history/downtown-brooklyn-retail-history-architecture-macys/ ; Fulton Mall is a pedestrian street and transit mall in Downtown Brooklyn that runs on Fulton Street between Flatbush Avenue and Adams Street. — https://en.wikipedia.org/wiki/Fulton_Street_(Brooklyn)
+- East New York corridors: East New York is served by four main commercial corridors. — https://a860-gpp.nyc.gov/downloads/9p290d23x?locale=en
+- Flatbush–Ditmas Park corridors include Cortelyou Road and Newkirk Plaza, near the Fiske Terrace–Midwood Park Historic District. — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-flatbush-ditmas.pdf
+- Parks: Prospect Park is a public park in central Brooklyn encompassing 585 acres. — https://en.wikipedia.org/wiki/Brooklyn
+- Reddit discussion of building security or Ring in Brooklyn: EMPTY
+
+### Questions people ask — Ring Camera Installation in Brooklyn
+
+- Can anyone recommend a professional for Ring security installation? — Yelp ("Ask Brooklyn locals") — https://www.yelp.com/search?find_desc=Doorbell+Installation&find_loc=Brooklyn%2C+NY
+- Can you install cameras on a Brooklyn brownstone without damage? — installer FAQ (not PAA) — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Do I need LPC approval to install cameras on my brownstone? — installer FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- How many cameras does a typical brownstone need? — installer FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Can tenants in my brownstone access the camera system? — installer FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Where do I install a wireless camera in a Brooklyn brownstone? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Where should cameras go on a Brooklyn Heights brownstone? / Wired or wireless cameras for Brooklyn Heights buildings? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york
+- Do you follow Landmarks rules in Brooklyn historic districts? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-brooklyn
+- Can I install a doorbell camera on my NYC apartment door? — legal guide FAQ — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Is it illegal for my doorbell camera to see my neighbor's door? — legal guide FAQ — same URL
+- How much does it cost to install a Ring doorbell? —

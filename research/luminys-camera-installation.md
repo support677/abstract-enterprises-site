@@ -239,3 +239,111 @@ The "where seen" options you listed didn't fit these, so they're marked "on-page
 - Can you cover a wooded or rural Hudson Valley property? — [OWN SITE] FAQ — https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-hudson-valley
 
 To fill the empty fields, someone needs to check live Google, Bing and DuckDuckGo results for both target phrases, and search Reddit and Yelp directly.
+
+## Brooklyn, Brooklyn — /luminys-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**Note on scope:** "Brooklyn, Brooklyn" is treated here as the whole borough, Kings County. Where a source covers one neighborhood, the bullet names it.
+
+**A. Facts specific to Luminys camera installation in Brooklyn**
+
+*Luminys brand and regulatory background (affects what installers tell customers):*
+- Luminys Systems was established following the sale and rebranding of Dahua USA's North American business — https://selectumllc.com/b?brand=luminys
+- This change follows the strategic sale of Dahua's North American operations to Foxlink, a Taiwanese corporation. — https://pipl.systems/dahua-technologys-transformation-into-luminys/
+- FCC history: an order adopted and released on February 13 raises concerns over whether Luminys's security products violate federal regulations designed to protect national security. — https://www.securityinfowatch.com/industry-news/article/55269257/fcc-orders-luminys-to-justify-equipment-authorizations-amid-national-security-concerns
+- How it ended: the FCC concluded that Luminys is not an entity identified on the Covered List and that equipment produced by Luminys is not currently prohibited from receiving an equipment authorization — https://www.securityinfowatch.com/video-surveillance/article/55352834/fcc-clears-luminys-equipment-ends-national-security-review (FCC order: https://docs.fcc.gov/public/attachments/DA-26-66A1.pdf)
+- Luminys's own caveat on NDAA status: certain legacy non-Luminys-branded products or residual third-party inventory in distributor or customer channels should be individually verified for NDAA status. — https://www.luminyscorp.com/compliance-program
+- Compatibility with older Dahua systems, as reported by installers: the NVR IS completely compatible with dahua cameras. But like I mentioned in the other thread there cams won't work on a dahua nvr. — https://ipcamtalk.com/threads/luminys-vs-empiretech.83815/
+- One installer's complaints: the mounts listed on the data sheet are almost twice as big and unusable; the R5432NA NVR is sluggish, buggy and generally going back to old original dahua gui — https://ipcamtalk.com/threads/first-real-world-impression-of-luminys.84247/
+- The brand is sold through installers: Luminys offers NDAA-compliant cameras, software, and kits that are easy to purchase and install, aimed at integrators — https://www.adiglobaldistribution.us/catalog/featured-brands/luminys
+- Kits on sale include the Luminys K54-4L1A2 4-Channel UHD 4K NVR with 2TB HDD & Four 5MP LumiLuxLite Turret Cameras Kit — https://www.bhphotovideo.com/c/buy/Shop-by-Brand-Luminys/ci/4/phd/8321/N/4294255798
+- Mounting hardware matters for masonry walls and junction boxes. Luminys's mount guide (v1.4, Sept 18, 2026) lists items such as the LUM-AC09 Gang Box Adapter — https://www.luminyscorp.com/lmweb/accessories/camera-accessories-diagrams-web-sept-18-2026-v1.4.pdf
+
+*Licensing (NY State):*
+- No person shall engage in the business of installing, servicing or maintaining security or fire alarm systems or hold himself out as being able so to do unless he is licensed (GBL Article 6-D) — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- Conflict: NY DOS says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf. A vendor, by contrast, says in New York City, no one can install a burglar alarm, video surveillance, or electronic access control system without a state license — https://www.jvsg.com/security-camera-installer-license/. Not resolved; ask DOS before putting a claim on the page.
+- Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+
+*LPC (landmarks) rules:*
+- LPC Rules Section 2-20 would codify Commission criteria and practice for approving the installation of health, safety and utility equipment, such as fire alarm bells and Siamese connections, security cameras — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- The LPC Permit Guidebook, Chapter 11, has a section on installing security cameras that staff can approve if criteria are met (text extraction was garbled; read the PDF) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- An architect's view: install exterior lighting, or add security cameras, all of those elements require approval. — https://www.turettarch.com/post/ask-an-architect-landmarked-townhouse-nyc
+- A vendor's claim: low-voltage security camera installation in a residential brownstone typically does not require a DOB permit under NYC construction codes — https://senecasecurity.com/services/security-cameras/brownstones/
+- Same vendor on typical counts: a single-family brownstone typically needs 4 to 6 cameras for solid coverage — https://senecasecurity.com/services/security-cameras/brownstones/
+
+*Housing law and HPD:*
+- There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Intercoms are required by law: Administrative Code §27-2045 requires that landlords of multiple dwellings maintain a working door intercom or buzzer system — same URL
+- HPD conducts inspections and can issue violations for non-functioning intercom systems. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Conflict on signage: one vendor says NYC Local Law 50 requires that you post visible notices in any common area where cameras are operating (https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners). Another says signage is not always explicitly required by statute (https://security-systems.nyc/blog/nyc-apartment-camera-requirements/). Not checked against the law itself.
+- Covert cameras inside a unit can support a charge under Penal Law 250.45, a Class E felony — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- HPD violation data, 311 complaint data, DOB permit counts for cameras: EMPTY
+
+*Local news:*
+- Boerum Hill: DOT refused to let residents mount cameras on a city light pole. Its statement said "the DOT does not allow private entities to attach this type of equipment to city property. Homeowners could consider mounting the equipment to their buildings." — https://www.cbsnews.com/newyork/news/brooklyn-residents-at-odds-with-dot-over-surveillance-camera
+- Same story: trees create blind spots. The resident argued most houses on the street are behind trees, creating blind spots — same URL
+- Park Slope lobby package theft: suspects were seen cutting open the packages and taking things from them while they were inside the lobby — https://cbsnews.com/newyork/news/park-slope-package-thieves-caught-on-camera-nypd-brooklyn
+- Bushwick: a man captured on surveillance video helping himself to packages from an apartment building lobby — https://www.cbsnews.com/amp/newyork/news/lobby-packages-stolen-brooklyn
+- Crown Heights stoop theft near Montgomery St and New York Ave, footage posted on CrownHeights.info — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- Gravesend: a burglar was seen on video disabling a security camera and stealing from a laundry room (an argument for tamper alerts and mounting height) — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+- Midwood, East 15th Street: more than 50 CCTV cameras were also planted around the perimeter of one house, which puzzled neighbors — https://www.aol.com/brooklyn-home-covered-dozens-signs-231937690.html
+- NYPD said it would install 100 new cameras in Williamsburg, Crown Heights and Borough Park — https://cbsnews.com/amp/newyork/news/brooklyn-new-security-cameras
+- Gowanus Houses participatory-budget idea: install security cameras in elevators and near apartment doors to monitor activity and prevent trespassing — https://www.participate.nyc.gov/processes/Citywidepb2025/f/69/proposals/22697
+- NYCHA Boulevard Houses, East New York: the $500,000 camera installation at Boulevard had been funded by the New York City Council — https://www.nyc.gov/office-of-the-mayor/news/282-14/mayor-de-blasio-comptroller-stringer-nycha-chair-olatoye-beginning-security-camera
+
+*Grants:*
+- Nonprofits and houses of worship: New York's state hate-crimes security grant (SCAHC) 2026 round allowed requests up to $250,000 per organization and closed July 8, 2026. — https://tec-tel.com/resources/grants
+- NYC homeowner camera rebate: EMPTY
+
+*Local installers and what they say about Brooklyn buildings (marketing claims):*
+- Wired PoE is far more reliable for Brooklyn's brick brownstones and concrete buildings. Wireless installation uses WiFi, which drops through thick walls. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Typical coverage for a walk-up: stoop, vestibule, lobby, every floor's stair-hall, rear yard, and cellar door — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- The same company's claim that Reddit recommends it is self-reported and unverified — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- No Brooklyn installer found that names Luminys specifically: EMPTY
+
+**B. Neighborhood background**
+
+- Brooklyn has a development history that began with the founding of villages by the Dutch in the 17th century. — https://hdc.org/borough/brooklyn/
+- During the 19th century, Brooklyn expanded and filled Kings County. It remained a separate city before the people there voted to join New York City in 1898. — https://simple.wikipedia.org/wiki/Kings_County,_New_York
+- In the 2020 United States census, the borough had a population of 2,736,074. — https://en.wikipedia.org/wiki/Brooklyn
+- Brooklyn Heights was one of the country's first suburbs in the early 1800s due to its proximity to the water and accessibility by steam ferries — https://www.garfieldbrooklyn.com/blog/brownstone-brooklyn-architecture-guide-5-historic-districts-explained/
+- Who built it: prominent residents for whom streets in the neighborhood are still named (Pierrepont, Middagh, Hicks) began to develop uniform residential plots. 24 Middagh Street, built in 1824 in the Federalist style, is the oldest of these to survive. — https://viewing.nyc/the-precedent-setting-history-of-how-brooklyn-heights-became-the-citys-first-historic-district/
+- In 1965, Brooklyn Heights became New York City's very first historic district, with 1,284 protected sites, 684 of which are pre-Civil War. — same Garfield URL
+- Park Slope: after the completion of Prospect Park, numerous mansions and rowhouses were developed in Park Slope's eastern section in the 1880s. — https://en.wikipedia.org/wiki/Park_Slope
+- Housing range: from the vernacular rowhouses of Boerum Hill to the skyscrapers of downtown Brooklyn — https://hdc.org/borough/brooklyn/
+- Historic districts listed by HDC include Park Slope Historic District, Prospect Heights Historic District, Prospect Lefferts Gardens Historic District, Prospect Park South Historic District — https://hdc.org/borough/brooklyn/
+- Parks: some of the greatest examples of Frederick Law Olmsted and Calvert Vaux's work, including Prospect Park, Carroll Park, Fort Greene Park and Von King Park — https://hdc.org/borough/brooklyn/
+- Corridors: Fulton Mall runs on Fulton Street between Flatbush Avenue and Adams Street, and in 2024, the city began renovating Fulton Mall again for $8 million — https://en.wikipedia.org/wiki/Fulton_Street_(Brooklyn)
+- Park Slope: Fifth Avenue and Seventh Avenue are its primary commercial streets — https://en.wikipedia.org/wiki/Park_Slope
+- Bed-Stuy: the main shopping street, Fulton Street, runs east–west the length of the neighborhood — https://en.wikipedia.org/wiki/Bedford%E2%80%93Stuyvesant,_Brooklyn
+- Midwood: Kings Highway, Avenue J, Avenue M, Flatbush Avenue, Nostrand Avenue, and Coney Island Avenue — https://en.wikipedia.org/wiki/Midwood,_Brooklyn
+- Known for: Brooklyn was branded the "city of homes and churches" — https://suzannespellen.substack.com/p/brownstone-revival-the-rebirth-of
+- Local discussion (Brownstoner forum, not Reddit): Alarms R Us is local (Brooklyn-based); "pretty sure they will want to install their own equipment." — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+- Co-op and high-rise entry/AV specifics; Patch, BKReader and Brooklyn Paper coverage; r/Brooklyn threads: EMPTY
+
+**C. What changes how the install is done in Brooklyn**
+
+Drawn from the sources above:
+- Thick masonry favors wired PoE over WiFi.
+- Street-facing facades in historic districts may need LPC approval.
+- Cameras can't go on city poles.
+- Street trees create blind spots.
+- Lobby and package-area coverage is the big need in walk-ups.
+- Common-area cameras may need signage (sources disagree).
+- Older Dahua cameras can usually stay on a new Luminys NVR, but not the other way round.
+
+### Questions people ask — Luminys Camera Installation in Brooklyn
+
+My search tool couldn't reach Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo directly, so those are all EMPTY. The questions below are real questions from FAQ pages and forums, labeled with where each was found.
+
+- Is Luminys the same as Dahua? — Installer FAQ — https://simplysecured.ca/blogs/news/dahua-to-luminys-canada-replacement-guide
+- Can I replace a Dahua camera with a Luminys camera? — Installer FAQ — same URL
+- Can I use a Luminys camera on an old Dahua NVR? — Installer FAQ — same URL
+- Dahua vs Luminys differences: 100% rebranded or more like 85%? — Forum (IPCamTalk) — https://ipcamtalk.com/threads/dahua-vs-luminys-differences-100-rebranded-or-more-like-85.85466/
+- If Luminys is just rebranded Dahua, does that apply to the hardware and software or just the hardware? — Forum (IPCamTalk) — same URL
+- Luminys vs EmpireTech? — Forum (IPCamTalk) — https://ipcamtalk.com/threads/luminys-vs-empiretech.83815/
+- How many cameras can I install? — Luminys installer FAQ — https://solutionalarmeplus.ca/en/luminys-cameras/
+- Does the system work without Internet? — Luminys installer FAQ — same URL
+- How much does a camera system installation cost? — Luminys installer FAQ — same URL
+- What should I look for when hiring a security camera installer in Brooklyn? — Brooklyn installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- How much does apartment building camera installation cost in Brooklyn? — Brooklyn installer FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Best CC

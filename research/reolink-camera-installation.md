@@ -257,3 +257,109 @@ The questions below are real, but they come from installer FAQ pages and forums,
 - Driveway wireless camera with about 50 ft of range, wanting to see who's in the driveway — forum user (not Hudson Valley-specific) — https://www.tractorbynet.com/forums/posts/7224934
 - Reddit threads (r/HudsonValley, r/homesecurity and others) asking specifically about Reolink installation in the Hudson Valley: EMPTY
 - Hyperlocal outlets (Patch, Mid-Hudson News, Hudson Valley Post) covering Reolink specifically: EMPTY
+
+## Brooklyn, Brooklyn — /reolink-camera-installation-brooklyn (factory research, 2026-11-06)
+
+**How this was researched:** I could only use a general web search tool. I couldn't load live Google, Bing or DuckDuckGo results pages, so I couldn't see their People Also Ask boxes, related searches or AnswerThePublic data. Those fields are marked EMPTY. "Brooklyn, Brooklyn" was treated as the whole borough.
+
+**Reolink installation in Brooklyn specifically**
+- Competitors already target this keyword. A local installer on Troy Ave (11203) runs Brooklyn pages that name Reolink and describe floodlight cameras for brownstone rear yards, rowhouse side alleys, two-family homes, and outer-Brooklyn driveways and detached garages, hardwired to a junction box or powered by new wiring fished through brick — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- The same competitor names the Reolink NVS8 8-channel 12MP PoE NVR as a Brooklyn recorder option — https://www.abstractenterprisessecuritysystems.com/nvr-installation-brooklyn
+- Competitor's Wi-Fi advice for brownstones: install a mesh node (Eero, Google Nest Wi-Fi, TP-Link Deco) in the back of the brownstone, or use a 4G LTE camera instead. It recommends the Reolink Argus PT Ultra (solar) for most brownstones and the Reolink Go PT Ultra (4G LTE) where there's no Wi-Fi — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Competitor price claim: A real Brooklyn wireless 4-camera install (Reolink or Eufy hardware + professional install + solar panels + HomeBase) should land at $1,895-$2,795 all-in. — same URL
+- Price benchmark from an installer that also serves Brooklyn: A 4-camera Reolink PoE kit professionally installed with hidden cabling typically runs $800–$1,500, and Single solar/4G camera installs at gates or driveways start around $250–$400 plus equipment. — https://www.roloelectronics.com/reolink-installation
+- National price figure: Professional installation can cost $100 to $200 per camera. — https://www.security.org/security-cameras/reolink/
+- A buyer comment on Reolink PoE cameras: good camera but man these are hell to install! every place i call wants $500 to $600 per camera just for labor! — https://slickdeals.net/f/17371077-reolink-duo-3-uhd-16mp-dual-lens-poe-security-camera-w-180-panoramic-view-motion-track-color-night-vision-142-50-free-shipping
+- Reolink's own install guide: the stock cable is gray and 60 feet long. Wall-mounting without a junction box needs a large 3/4" hole for the pigtail. This matters on deep rowhouse lots — https://community.reolink.com/topic/2887/have-questions-about-installation-get-in-here
+- A deal-thread commenter says POE doesn't sound like a great idea when replacing an existing doorbell button. Relevant to Reolink doorbells on stoop doors — https://slickdeals.net/f/18920386-reolink-smart-2k-video-doorbell-wired-poe-with-chime-77
+
+**LPC (landmarks) rules**
+- Most exterior changes to the front and rear facades of buildings in historic districts require review by LPC. — https://www.nyc.gov/site/lpc/about/permits-and-making-alterations.page
+- LPC's Permit Guidebook (Chapter 11) covers security cameras under its health, safety and utility equipment rules, with a reference to LPC Rules Section 2-20. The text in my results is fragmented. It suggests staff can approve cameras that meet set criteria, and that cameras go on the primary facade only if there's no other option. Check the PDF before quoting it — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- An installer's summary of the limits: no more than two (2) security cameras for every twenty-five (25) feet for small residential or commercial buildings. Larger buildings get up to three per 25 feet. This is an installer's reading, not the LPC text — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Another installer claims landmark-district installs require LPC approval if visible from a public street. — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Brooklyn has 33 historic districts. That count is as of April 2016 — https://www.brownstoner.com/select-story/brooklyn-historic-districts/
+- In 2025 Brooklyn gained two more: The new Beverley Square West and Ditmas Park West historic districts — https://www.brownstoner.com/architecture/brooklyn-landmarks-preservation-commission-2025-designations/
+- Park Slope has 2,853 the total number of protected buildings, the most of any district — https://www.nyc.gov/site/lpc/about/pr2016/04-12b.page
+- An installer blog reports Park Slope followed by Bedford-Stuyvesant (1,800) and Crown Heights (1,752) — https://bighaservice.com/crown-heights-bed-stuy-park-slope-which-brooklyn-neighborhoods-have-the-most-lpc-protected-buildings/
+- Brooklyn Heights is the City's first historic district, Brooklyn Heights, designated in 1965 — https://hdc.org/borough/brooklyn/
+- Willoughby-Hart Historic District in Bed-Stuy was designated in 2024. All the homes were built within a 20-year timeframe beginning in 1871 — https://www.nyc.gov/site/lpc/about/pr2024/lpc-designates-willoughby-hart-historic-district-20240625.page
+
+**Renters, co-ops and the law**
+- you need your landlord's permission to install any equipment in the common areas of your building — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- A wired camera requires drilling and possible electrical work; this needs written permission from the landlord. This matters because PoE Reolink kits need cable runs — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- In co-ops and condos, common-area cameras typically require board approval and a licensed, insured contractor carrying a certificate of insurance that names the building — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- New York Penal Law § 250.45 makes it a criminal offense to install a camera or recording device in a location where a person has a reasonable expectation of privacy without their consent. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- One claim I couldn't confirm: a vendor blog says Real Property Law amendments now require landlords to permit tenants to install cameras. Don't use it without checking the statute — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+- NYPD sharing program for businesses: it allows any business with a security camera to share live video feeds with the NYPD during emergencies. Registration is at NewYorkCityConnect.org — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+
+**City data (HPD, 311, DOB)**
+- HPD violations about cameras or entry: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY. One installer says no permit is needed except if the camera installation requires electrical work. — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+
+**Local news on building security**
+- Crown Heights stoop theft near Montgomery St and New York Ave. The suspect sat on the victim's yard wall and opened packages; the homeowner said "I checked the cameras, and I see this shocking scene unfold right in front of my house." — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- Bushwick: a man stole packages from a stoop on Eldert Street; police said they contained about $2,200 worth of clothing. — https://www.cbsnews.com/amp/newyork/news/brooklyn-packages-stolen
+- Park Slope: thieves were caught on camera cutting open the packages and taking things from them while they were inside the lobby — https://cbsnews.com/newyork/news/park-slope-package-thieves-caught-on-camera-nypd-brooklyn
+- Bay Ridge: a thief was caught by a lobby security camera stacking stolen Christmas gifts into a shopping cart — https://www.pressreader.com/usa/new-york-daily-news/20181216/281560881890726
+- Building entry: a suspect was apparently buzzed into the building on Lexington Avenue and stole hallway packages — https://www.cbsnews.com/amp/newyork/news/brooklyn-package-stolen
+- October 2026, Flatbush: multiple surveillance cameras were sprayed with red paint at the Church Avenue subway station. Relevant to mounting height and vandal-resistant housings — https://pix11.com/news/crime/omny-card-readers-destroyed-security-cameras-painted-in-brooklyn/
+- November 2026: after a runner was killed near the Belt Parkway, officials asked for new lights in the park, security cameras, and more officers on patrol. — https://nbcnewyork.com/brooklyn/brooklyn-mourn-runner-killed-path-demand-answers/6567950
+- Borough Park and Midwood had a community camera program of 80 units containing 4 (four) cameras each, for a total of 320 cameras — https://dotworkz.com/new-surveillance-cameras-prevent-crime-brooklyn/
+- The NYPD is connecting cameras at NYCHA developments to its central surveillance system through Big Apple Connect — https://nysfocus.com/2025/08/11/eric-adams-nycha-nypd-cameras-surveillance
+
+**History and development**
+- Brooklyn was founded by the Dutch in the 17th century and grew into a busy port city on New York Harbor by the 19th century. It became part of New York City in 1898 — https://en.wikipedia.org/wiki/Brooklyn
+- Brooklyn Heights became a viable place to live With the establishment of Robert Fulton's ferry company in 1814. The earliest row houses, from the early 19th century up to the 1850s were of wood construction — https://htsapts.com/brooklyn-heights-history
+- In 1883, the Brooklyn Bridge was completed, transportation to Manhattan was no longer by water only — https://en.wikipedia.org/wiki/Brooklyn
+- Brownstone fronts were actually brick houses whose street front had a 4-to-6-inch-thick brownstone facing or veneer. This affects where and how you can anchor and drill — https://www.brownstoner.com/architecture/brownstone-brooklyn-architecture-charles-lockwood/
+- a brownstone is a specific type of row house constructed between the 1830s and the 1890s cloaked in brown sandstone. — https://ephemeralnewyork.wordpress.com/2025/01/27/how-19th-century-new-york-city-fell-in-love-with-brownstones-a-love-story-that-endures-today/
+- In Park Slope, numerous mansions and rowhouses were developed in Park Slope's eastern section in the 1880s. — https://en.wikipedia.org/wiki/Park_Slope
+
+**Building stock, streets, parks and landmarks**
+- Building types run from the vernacular rowhouses of Boerum Hill to the skyscrapers of downtown Brooklyn. — https://hdc.org/borough/brooklyn/
+- Many brownstones have been converted into apartment buildings. That often means multiple owners or tenants to deal with on one facade — https://en.wikipedia.org/wiki/Brownstone
+- Commercial corridors: one installer cites retail theft along commercial corridors like Fulton Street, Atlantic Avenue, and Fifth Avenue — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Eastern Parkway is an arterial road extending 3.8 miles (6.1 km) across Brooklyn, credited as the world's first parkway — https://en.wikipedia.org/wiki/Eastern_Parkway
+- Prospect Park was completed by Frederick Law Olmsted and Calvert Vaux in 1873 and covers 585 acres — https://en.wikipedia.org/wiki/Brooklyn
+- Other Olmsted and Vaux parks include Prospect Park, Carroll Park, Fort Greene Park and Von King Park — https://hdc.org/borough/brooklyn/
+- Brooklyn Botanic Garden was founded in 1910 and features hundreds of types of flora, laid out over 52 acres. — https://www.timeout.com/newyork/attractions/top-attractions-in-brooklyn
+
+**Local installers on Yelp**
+- Brooklyn results list MetroCom Security, Securitek (6 reviews), CMD Technologies, Secure Touch Technologies (50 reviews), Peace of Mind (4.0, 8 reviews) and others — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=Brooklyn%2C+NY
+- Also listed: Eddies Security Systems (5.0, 12 reviews), True Defense Solutions (4.6), and Lock and Tech USA (4.3, 62 reviews) — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn%2C+NY+11204%2F
+- Snippets show praise only, e.g. He's straight up, no nonsense, professional, friendly. Specific complaints: EMPTY — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Brooklyn%2C+NY
+
+**Still missing**
+- Reddit threads (r/Brooklyn, r/AskNYC, r/homesecurity) about Reolink in Brooklyn: EMPTY
+- Patch / BKReader coverage of residential cameras or Reolink: EMPTY. BKReader only covered traffic and bus cameras, Oct 2026 — https://www.bkreader.com/policy-government/new-traffic-camera-enforcement-coming-to-brooklyn-buses-12884288
+
+### Questions people ask — Reolink Camera Installation in Brooklyn
+None of these came from PAA, related searches, AnswerThePublic, Bing or DuckDuckGo (all EMPTY). The source is shown in each line; most are competitor FAQ headings.
+- I rent in Brooklyn — can I put a floodlight camera outside? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- How much does floodlight camera installation cost in Brooklyn? — competitor FAQ — same URL
+- What is the best wireless camera for Brooklyn? — competitor FAQ, under a "Common Brooklyn Wireless Camera Search Questions" heading — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Where do I install a wireless camera in a Brooklyn brownstone? — competitor FAQ — same URL
+- Can a Brooklyn renter install a wireless camera without landlord permission? — competitor FAQ — same URL
+- Can I view my Brooklyn wireless cameras from my phone? / Can I record audio on a Brooklyn wireless camera? — competitor FAQ — same URL
+- Can my landlord stop me from installing a security camera in a NYC apartment? — competitor FAQ — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Can I install a security camera in a landmark building in Brooklyn? — competitor FAQ — same URL
+- How much does CCTV installation cost in Brooklyn? — competitor FAQ — same URL
+- Do you offer renter-friendly camera installs in Brooklyn? / How much does a Brooklyn apartment camera system cost? — competitor FAQ — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- How much does professional Reolink installation cost? — competitor FAQ — https://www.roloelectronics.com/reolink-installation and https://sipkosecurity.com/reolink-security-cameras-review-2026/
+- Can I install Reolink cameras myself? / Can Reolink cameras work without WiFi? / What is the best placement for Reolink cameras? — review site FAQ — https://sipkosecurity.com/reolink-security-cameras-review-2026/
+- Am I legally allowed to install a camera outside my front door that faces into the public hallway? (asked by a Brooklyn tenant) — JustAnswer Q&A — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Can I install a security camera in the hallway for safety? — Brick Underground — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Is it legal to install security cameras in a Brooklyn apartment? / Do renters need landlord permission to install security cameras? — competitor FAQ — https://security-systems.nyc/blog/brooklyn-apartment-security-cameras/
+- Do you need a permit to install a security camera in New York? / Can my landlord watch my security cameras? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can tenant install security system without landlord permission? / Is it legal to put a camera outside your apartment? — Reolink blog — https://reolink.com/blog/can-tenant-install-security-camera-inside-outside-apartment/
+- In general, Reolink needs Cat5 wiring or regular power wire? — Slickdeals forum — https://slickdeals.net/f/18743890-reolink-duo-floodlight-wifi-4k-180-panoramic-wi-fi-camera-with-floodlights-120-69-120-67
+- Is Reolink going to be better than others out there? — Slickdeals forum — https://slickdeals.net/f/17371077-reolink-duo-3-uhd-16mp-dual-lens-poe-security-camera-w-180-panoramic-view-motion-track-color-night-vision-142-50-free-shipping
+- Google People Also Ask — EMPTY
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic question fan-out — EMPTY
+- Bing-only questions — EMPTY
+- DuckDuckGo-only questions — EMPTY
+- Reddit — EMPTY
+- Yelp questions or complaints — EMPTY
