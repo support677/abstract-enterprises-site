@@ -2014,3 +2014,87 @@ The questions below are real but come from publisher FAQs, Yelp and forums, not 
   - How hard is running ethernet cable through your house? — forum (Slickdeals) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
 - Yelp: no complaints or praise about structured cabling specifically. For nearby related services, see the Throggs Neck Lighting & Data and Throggsneck Wireless entries above.
 - Hyperlocal outlets: only the 2010 Bronx Times lawsuit story and the Bronx Ink Sandy coverage turned up. Patch, BKReader and blogs on cabling topics: EMPTY.
+
+## Bath Beach, Brooklyn — /structured-cabling-installation-bath-beach-brooklyn-ny (max-daily research, 2026-11-06)
+
+**Limits:** The build environment cannot show Google's live People Also Ask, People Also Search For, AI Overview, AnswerThePublic, Bing or DuckDuckGo boxes, so those are EMPTY (not accessible in build env). No Reddit thread about cabling, Wi-Fi or Ethernet in Bath Beach turned up. No Bath Beach DOB permit, HPD or 311 records about data cabling were found. Facts below were read on the pages cited, by WebSearch/WebFetch on 2026-11-06, plus facts carried over from the shared Bath Beach research pack (marked "pack").
+
+### New construction (telecom rooms, prewire, condo handovers)
+- 2230 Cropsey Avenue ("The Shoreline"): YIMBY describes a 31-story waterfront residential tower with 248 market-rate units, developer Cropsey Partners LLC, architect Hill West Architects, move-ins from January 2024 — https://newyorkyimby.com/neighborhoods/bath-beach
+- CityRealty on the same tower under construction: "30-story, 248-unit mixed-use development", 356 feet to the elevator bulkhead, replacing the former Haym Salomon Nursing Home building; amenities include pool, fitness center, laundry, bike/resident storage, a 23rd-floor lounge and terrace; lower floors to house a daycare center and an ambulatory care facility; described as the tallest building in the borough south of Prospect Park — https://www.cityrealty.com/nyc/market-insight/features/future-nyc/see-south-brooklyn039s-future-tallest-building-underway-2230-cropsey-avenue/45583
+- 8800 Bay Parkway (between Bath and Cropsey Avenues): seven stories, 70 feet, 40 rental units averaging 713 sq ft, a 7,256 sq ft ground-floor community facility, parking for 20 vehicles; topped out — https://newyorkyimby.com/neighborhoods/bath-beach ; https://newyorkyimby.com/2023/02/8800-bay-parkway-tops-out-in-bath-beach-brooklyn.html
+- 2300 Cropsey Avenue: YIMBY reported plans for 24 stories and 154 condominium units, a community facility and 270-car parking, architect Michael Kang, developer W&L Group (article circa 2019) — https://newyorkyimby.com/?p=1859765
+- Bayview Courtyard, 2286 Cropsey: 24-story mixed-use condo, 151 residences, built 2023 (pack; CityRealty files it under Gravesend) — https://www.cityrealty.com/nyc/gravesend/bayview-courtyard-2286-cropsey-avenue/76459
+- 8620 20th Avenue: new-building permit filed March 8, 2023 for a five-story, 59-foot building with 49,768 sq ft residential and 2,504 sq ft commercial — https://blog.marketproof.com/new-building-permit-filed-for-8620-20th-ave-in-bath-beach-brooklyn/
+- 183 Bay 25th Street: permit filed April 30, 2024 for a three-story, three-unit building replacing a 1920 two-story house (sq ft figures in the post look wrong; not used) — https://blog.marketproof.com/new-building-permit-filed-for-183-bay-25th-st-in-bath-beach-brooklyn/
+- BrickUnderground (pack): three-story new condos (6–12 units) built on lots of demolished houses; broker quote "There's no vacant land" — https://www.brickunderground.com/buy/buy-curious-bath-beach-brooklyn-prices-condos-coops-houses-restaurants-entertainment-transportation-nyc
+- Permits Filed for 201 Bay 13th Street (YIMBY, May 2026): headline seen in search; page failed to load — EMPTY (not accessible in build env) — https://newyorkyimby.com/2026/05/permits-filed-for-201-bay-13th-street-in-bath-beach-brooklyn.html
+
+### Internet service and speed
+- bestneighborhood.org lists fiber availability in ZIP 11214: Verizon fiber 96.71%, EarthLink fiber 96.71%, Optimum fiber 95.44% (third-party estimate) — https://bestneighborhood.org/fiber-tv-and-internet-11214/
+- Untapped Cities map of speed tests May 2016–April 2017: Bath Beach 90th-percentile average 109.26 Mbps, maximum recorded 391.67 Mbps (Gravesend 106.73, Bensonhurst 109.51) — https://untappedcities.com/2017/08/22/fun-maps-which-brooklyn-neighborhoods-have-the-best-internet-service/
+- Verizon introduced FiOS in Brooklyn in August 2007 (press release headline) — https://www.verizon.com/about/node/127679
+
+### Power and water (why battery backup and equipment placement matter)
+- Brooklyn Eagle, July 22, 2019: heat-wave outage hit more than 31,000 Brooklyn households, about 3,600 in Bath Beach; Con Ed spokesperson: "The wires were really cooking." Power restored to most of Bath Beach by 11 p.m. — https://brooklyneagle.com/articles/2019/07/22/bath-beach-residents-roast-in-heat-wave-power-outage/
+- Brooklyn Eagle, Aug. 16, 2019: about 3,800 customers in Bath Beach and Gravesend lost power Saturday Aug. 10 around 5:30 p.m. for about an hour and a half; an earlier outage about three weeks before left thousands dark for more than five hours — https://brooklyneagle.com/articles/2019/08/16/bath-beach-residents-blast-con-ed-after-latest-power-outage/
+- Brooklyn Paper: an outage struck Coney Island, Gravesend and Bath Beach; 1,172 customers lost power around 9 a.m. from downed lines at Stillwell Avenue and Avenue Z; most restored by 11:06 a.m., the last 194 at 2 p.m. (no calendar date on the page) — https://www.brooklynpaper.com/power-outage-strikes-coney-island-gravesend-and-bath-beach
+- Brooklyn Eagle, Oct. 30, 2012: Sandy breached "the seawall on Shore Parkway" — https://www.brooklyneagle.com/articles/2012/10/30/significant-hurricane-damage-southwest-brooklyn-officials-say
+- CBS New York, Nov. 21, 2025: funding announced to rebuild the Shore Parkway Promenade seawall and paths from the 69th Street Pier to the Verrazzano; the stretch from the Verrazzano to Bay Parkway still needs funding; CB11's district manager: "Just the wave action along this promenade has caused significant flooding and damage to our infrastructure"; Parks cited "subsurface utilities" in delaying design to June 2026 — https://www.cbsnews.com/newyork/news/brooklyn-shore-parkway-promenade-planned-repairs
+- Hurricane evacuation zones vary: 1920 86th St zone 6, 2172 86th St zone 4, 1758 Cropsey Ave zone 4 (pack) — https://streeteasy.com/building/1920-86-street-brooklyn ; https://streeteasy.com/building/2172-86-street-brooklyn ; https://streeteasy.com/building/1758-cropsey-avenue-brooklyn
+- Wikipedia: the southwest half was filled with land excavated for the Shore (Belt) Parkway in the early 1940s — https://en.wikipedia.org/wiki/Bath_Beach,_Brooklyn
+
+### Fire (firestopping)
+- Brooklyn Paper: fire at 159 Bay 29th St., a four-story building, Sunday March 17 (2024); 60 firefighters; Red Cross helped four adults and two children; two men found dead (later investigated as homicide per ABC7) — https://www.brooklynpaper.com/two-killed-bath-beach-apartment-fire ; https://abc7ny.com/nyc-fire-bath-beach-2-dead-brooklyn/14539183/
+
+### Building stock (pack, re-checked where noted)
+- Wikipedia: "primarily a working-class community of semi-attached houses and small apartment houses"; cross streets numbered with "Bay"; ZIP codes 11214 and 11228; West End Line stations Bay Parkway, 25th Avenue, Bay 50th Street (re-fetched today) — https://en.wikipedia.org/wiki/Bath_Beach,_Brooklyn
+- NYC DOF neighborhood sales: 2022 Bath Beach one-family 19 sales, two-family 74, three-family 32; 2024 one-family 12, two-family 44, three-family 17 (pack) — https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/neighborhood_sales/2022/2022_brooklyn.pdf ; https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/neighborhood_sales/2024/2024_brooklyn.pdf
+- 86th Street mixed-use: 1918 86th St (1924, 2 stories, class K4 store with apartments above); 1710 86th St (1926, 3 stories, 6 units); 1474 86th St (1931) (pack) — https://streeteasy.com/building/1918-86-street-brooklyn ; https://streeteasy.com/building/1710-86-street-brooklyn ; https://streeteasy.com/building/1474-86-street-brooklyn
+- 2100–2106 Cropsey Ave: two four-story prewar walk-ups, 44 apartments, built 1915 (pack) — https://streeteasy.com/building/2100-cropsey-avenue-brooklyn/sale/1851186
+- 1758 Cropsey Ave: 1951, 3 stories, 84 units, class C9 garden apartments (pack) — https://streeteasy.com/building/1758-cropsey-avenue-brooklyn
+- 2036 Cropsey Ave: 1948, 6 floors, 42 units, rent-stabilized (pack) — https://www.openigloo.com/building/nyc/3328507-3064690001/brooklyn-bath-beach-2036-cropsey-avenue-11214
+- Waterview Towers, 1935 Shore Pkwy: 17 stories, 1959, 325 units (pack) — https://www.homes.com/building/waterview-towers-i-and-ii-brooklyn-ny/b-k78k1ypb7sd26/
+- Co-op addresses 8320 Bay Parkway, 8506 19th Avenue, 1845 82nd Street; NYBits profiles 20 Bath Beach co-op buildings (pack) — https://www.nybits.com/apartments/brooklyn_coop_buildings.html
+- 122 Bay 26th Street Victorian, wood frame (pack) — https://bklyner.com/haunted-bath-beach-victorian-stands-amidst-changed-neighborhood/
+- LPC: no historic district or individual landmark found in Bath Beach other than Engine Company 253 firehouse at 2425–2427 86th St, designated 1998 (pack) — https://hdc.org/buildings/fire-engine-company-253/
+
+### Commercial corridors (pack)
+- Most shopping on 86th Street under the elevated D; Bath Avenue restaurants from Uzbekistan, Pakistan and Georgia — https://www.homes.com/local-guide/brooklyn-ny/bath-beach-neighborhood/
+- Bay Parkway: Chinese, Russian and Italian-American businesses, residential buildings and co-ops — https://en.wikipedia.org/wiki/Bay_Parkway_(Brooklyn)
+- Ceasar's Bay Shopping Center opened June 4, 1982 on the Korvette site; 2016 expansion filing at 1684 Shore Pkwy — https://www.heyridge.com/2016/08/was-there-ever-really-a-ceasars-bay/
+- 19 commercial burglaries Aug 3–Sept 10, 2026 where objects were thrown through windows; Bath Beach one of the neighborhoods — https://longisland.news12.com/nypd-seeks-suspects-in-19-commercial-burglaries-across-brooklyn
+- Business near Shore Parkway and Eugene R. Romano Lane lost $50,000 of tools from a container (Dec 2023) — https://www.brooklynpaper.com/62-precinct-burglar-steals-tools-bath-beach/
+- West End Line elevated over 86th St, opened 1916–1917 — https://en.wikipedia.org/wiki/BMT_West_End_Line
+
+### Landmarks and institutions
+- Ulmer Park library, 2602 Bath Ave: called the city's "leakiest library" for a chronically leaking roof; reopened Aug. 31, 2016 with new roof, ceilings, HVAC, flooring, furniture and LED lighting; $875,000 allocation from Treyger and Adams — https://bklyner.com/ulmer-park-reopening-nycs-leakiest-library-gets-facelift-bensonhurst
+- 62nd Precinct at 1925 Bath Ave (pack) — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/62nd-precinct.page
+- Community Board 11 office at 2214 Bath Ave (pack) — https://en.wikipedia.org/wiki/Brooklyn_Community_Board_11
+- St. Finbar parish founded 1880, church 1912, 138 Bay 20th St (pack) — https://www.brooklynpaper.com/st-finbars-turns-130th-anniversary
+- Bensonhurst Park bounded by Cropsey Ave, Bay Pkwy and 21st Ave (pack) — https://www2.nycgovparks.org/planning-and-building/capital-project-tracker/project/7363
+- Loew's Oriental at Bay 19th (1927–1995), now Marshalls; Lenny's Pizza at 1969 86th St (pack) — https://forgotten-ny.com/2011/12/86th-street-in-bensonhurst/
+
+### Rules
+- NYC Admin Code §28-105.4.7 (Local Law 128 of 2024, effective Dec 21, 2025): no electrical permit for wiring under 50 volts for signaling, communication, alarm and data when done by a licensed master electrician, special electrician or qualified person — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf
+- Fire alarm wiring outside that exemption (silo research) — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+
+### Competitor / generic claims (for the AI reality check)
+- Angi: "Electricians, not your internet service provider, are responsible for installing your Ethernet cables"; "The average cost to have ethernet installed by a professional is $3,800, while the average cost to DIY is $410"; DIY suits "one or two rooms" — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- Angi: "CAT 6 cables will carry 10 Gbps over 180 feet" — https://www.angi.com/articles/how-to-wire-house-ethernet.htm
+- UniFi Nerds, 5 questions to ask a NYC cabling contractor: standards and testing; what is included/excluded; labeling and handoff; who does the work; building rules and change control — https://unifinerds.com/structured-cabling-contractor-nyc-5-questions/
+- NYFL Nerds: causes of intermittent drops — loose terminations, defective jacks/panels, damaged cable, PoE power problems, heat/moisture/vibration, electrical interference — https://nyflnerds.com/?p=21924
+
+### Questions people ask — Structured Cabling Installation in Bath Beach
+- Who can run ethernet cable through your walls? — Angi article heading — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- How much does running ethernet cables through my walls cost? — Angi heading — same URL
+- DIY ethernet cable installation vs. hiring a pro? — Angi heading — same URL
+- What standards are you installing to, and what testing will you provide? — contractor guide — https://unifinerds.com/structured-cabling-contractor-nyc-5-questions/
+- What exactly is included in your quote, and what is excluded? — contractor guide — same URL
+- How will you handle labeling, documentation and handoff? — contractor guide — same URL
+- Who will actually do the work? — contractor guide — same URL
+- How will you manage building rules, scheduling and change control? — contractor guide — same URL
+- Why does my network connection drop at random? / Can environmental factors cause drops? — installer FAQ — https://nyflnerds.com/?p=21924
+- Reddit (r/Brooklyn, r/AskNYC) on Bath Beach cabling/Wi-Fi: EMPTY (no threads found)
+- Google PAA / PASF / AI Overview / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not accessible in build env)
+- Yelp 1–3★ for Bath Beach network installers: EMPTY (not accessible in build env)
