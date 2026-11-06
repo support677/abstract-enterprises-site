@@ -191,6 +191,8 @@
     setHidden(f, 'first_landing', g('first_landing_slug'));
     setHidden(f, 'first_referrer', g('first_referrer'));
   }
+  // For lead senders that build FormData without a <form> submit (js/quote-builder.js).
+  window.aessStamp = stamp;
   document.addEventListener('submit', function (e) {
     var f = e.target;
     if (!f || f.tagName !== 'FORM') return;

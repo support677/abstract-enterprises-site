@@ -157,9 +157,15 @@
       fd.append('Deposit',document.getElementById('qb-dep').textContent);
       fd.append('Breakdown',document.getElementById('qb-break').textContent);
       fd.append('Page',pageName());
+      // No <form> submit here, so ph.js never stamps this lead. Borrow its stamp() for the
+      // PostHog ids + page/UTM attribution that /api/contact needs.
+      if(typeof window.aessStamp==='function'){
+        try{var tf=document.createElement('form');window.aessStamp(tf);
+          tf.querySelectorAll('input[type="hidden"]').forEach(function(i){fd.append(i.name,i.value);});}catch(e){}
+      }
       fetch('/api/contact',{method:'POST',body:fd})
        .then(function(r){return r.json();})
-       .then(function(){btn.style.display='none';document.getElementById('qb-lead-msg').style.display='block';if(typeof gtag==='function'){gtag('event','generate_lead',{brand:brand(),area:area()});}})
+       .then(function(d){if(!d||!d.success)throw new Error('not sent');btn.style.display='none';document.getElementById('qb-lead-msg').style.display='block';if(typeof gtag==='function'){gtag('event','generate_lead',{brand:brand(),area:area()});}})
        .catch(function(){btn.textContent='Send Me This Quote \u2192';btn.disabled=false;alert('Could not send \u2014 please call (347) 934-8335.');});
     }
   };
