@@ -5270,3 +5270,71 @@ Thesis (security-camera specific, different from the alarm "shared ground", acce
 - How much does it cost to have a professional install outdoor cameras with wire? — Facebook group — https://www.facebook.com/groups/baysidequeens/posts/10162081756689809/
 - Are you installing security cameras in a historic district — which chapter applies? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf
 - Most question intents above are already in the silo register; the page's FAQ/Q&A therefore uses Cobble Hill-specific reworkings (front allowance, dusk timing, locks vs cameras, recorder theft, closing-time alerts, staff recognition, escape-route view, LPC filing/timing/finish, storage upgrades, deterrent sirens, spare capacity).
+
+## Downtown, Brooklyn — /security-camera-installation-downtown-brooklyn-ny (max-daily research, 2026-11-06)
+
+Method: Firecrawl search + scrape (authenticated). Google PAA / PASF / AnswerThePublic / AI Overview / Bing / DuckDuckGo result features are not visible to this tool: EMPTY (not accessible in build env). Reddit threads cannot be scraped ("site not supported"); only search-result excerpts are used and labelled as excerpts. Facts reused from the local research pack (alarm and fiber Downtown pages) are marked "pack". Thesis for this page: Downtown Brooklyn camera work is about who controls each camera and recorder inside layered buildings (rental and condo towers over retail podiums, office-to-condo conversions, food-hall stalls, office campuses, historic-district office buildings) and about evidence that works for Fulton Mall / Court Street retail, where retail theft is the steadiest complaint in the 84th Precinct numbers.
+
+### Crime and police data
+- NYPD CompStat, 84th Precinct, week 10/26–11/1/2026: year to date 2026 vs 2025 — retail theft 1,071 vs 1,134 (-5.6%); petit larceny 1,437 vs 1,451; burglary 143 vs 195 (-26.7%); robbery 145 vs 192 (-24.5%); grand larceny 534 vs 603 (-11.4%); grand larceny auto 53 vs 86. Precinct also covers Brooklyn Heights, Boerum Hill, DUMBO, Vinegar Hill, so figures are precinct-wide, not Downtown-only — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-084pct.pdf
+- Brooklyn Eagle, Feb 10 2026: 84th Precinct "encompasses Brooklyn Heights, Boerum Hill, part of Downtown Brooklyn, DUMBO and Vinegar Hill"; Nov 2025 arrest of three suspects in a robbery of the Sephora on Joralemon Street at Court Street — Capt. Erek Powers: Sephora "is a place that gets hit constantly"; Jan 2026 arrest of a man who "kicked the window in and stole a lot of merchandise" from a retail store; Dec 2025: officers answering an alarm call at 465 Fulton St (a GameStop) found the glass broken and "a perpetrator was hiding behind the counter" — https://brooklyneagle.com/367061/cops-of-the-month-help-clean-up-retail-theft-in-the-84th-precinct/
+- NYPD 84th Precinct X account: free security assessments through the precinct Crime Prevention Officer (search excerpt) — https://x.com/NYPD84Pct
+- NYPD 84th Precinct page (contact, 11201) — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/84th-precinct.page
+- Amnesty International 2021: NYPD can use more than 15,000 cameras in Manhattan, the Bronx and Brooklyn (search excerpt; general, not Downtown-specific) — https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/
+- NYC Open Data "Retail Theft (to date)" dataset, updated Nov 5 2026 (exists; not pulled) — https://data.cityofnewyork.us/Public-Safety/RETAIL-THEFT-TO-DATE-/ns9q-yyvu
+
+### Commercial corridors, BID and streetscape
+- The Real Deal, Oct 6 2026: DBP filed to merge the MetroTech BID and the Court–Livingston–Schermerhorn BID with Fulton Mall into a Downtown Brooklyn BID; 25,000+ housing units since the 2004 rezoning; retail vacancy ~22% vs 11% citywide; 212 national/regional chain stores; upper floors of many Fulton Mall storefronts underutilized, windows boarded; first-year Fulton Mall lines $1.1M sanitation and $811,679 security; Laboz turning a former Macy's into "BKX"; Restler quote on Fulton Mall — https://therealdeal.com/new-york/2026/10/06/fulton-mall-proposed-for-downtown-brooklyn-mega-bid/
+- New York YIMBY, Sept 20 2025: city completed $8M Fulton Mall streetscape (Fulton St between Boerum Place and Flatbush Avenue), NYC Parks with DBP: 7,895 perennials, expanded pits for 79 existing trees, 5 new trees, 24,000+ sq ft permeable paving, 39 new radial benches; part of a $40M city investment — https://newyorkyimby.com/2025/09/fulton-mall-revitalization-work-finishes-in-downtown-brooklyn-brooklyn.html
+- Downtown Brooklyn Partnership "DTBK 2025: Year in Review", Jan 9 2026: Fulton Mall project wrapped; Shared Street network; Willoughby Plaza; Abolitionist Place park first anniversary; new programmable holiday lights on Fulton Street, Court Street and Abolitionist Place that "shift hues, pulse … or cascade"; Brooklyn Paramount 300,000 fans / 180+ shows in 2025; L10 Arts and Cultural Center 65,000 sq ft (MoCADA, 651 ARTS, BPL, BAM KBH); new supermarkets Aldi, Lidl, Hashi Market, The Fresh Grocer on Fulton Mall (Jan 2026); 3,700+ housing units built in 2025; Doe Fund clean team of 82 — https://www.downtownbrooklyn.com/news/2026/dtbk-2025-year-in-review/
+- NYC DOT 2019: Willoughby Street and Pearl Street redesigned as a shared street (Brooklyn's first) — https://www.nyc.gov/html/dot/html/pr2019/pr19-061.shtml ; https://nyc.streetsblog.org/2019/09/30/eyes-on-the-street-city-finally-unveils-brooklyns-first-shared-street
+- Fulton Mall runs Adams St to Flatbush Ave, ~230 stores, only buses, commercial/delivery and emergency vehicles (pack, L10) — https://en.wikipedia.org/wiki/Fulton_Street_Mall
+- DeKalb Market Hall: 40 vendors, opened 2017 in the basement of City Point (search excerpts) — https://www.dekalbmarkethall.com/ ; https://robertsietsema.substack.com/p/food-courts-revisited-dekalb-market
+- City Point, Brooklyn Commons (MetroTech), LIU/Brooklyn Paramount, BAM (pack L8, L11–L13).
+
+### Buildings and construction
+- New York YIMBY, Nov 5 2026: The Bowen, 289 Schermerhorn St (between Bond and Nevins), 13-story office-to-residential conversion with vertical expansion atop a 100-year-old seven-story office building; 105,000 sq ft; 71 condos; ground-floor retail complete but unoccupied; amenities: package room, full-time doorman, children's playroom, coworking lounge with private work pods, fitness center, media room, rooftop deck — https://newyorkyimby.com/2026/11/the-bowen-completes-residential-conversion-expansion-at-289-schermerhorn-street-in-downtown-brooklyn.html
+- Same page, related headlines (not opened): permits filed for 340 Livingston St (Nov 3 2026); 396-unit development at 485 Fulton St (Sept 23 2026); renderings for 245 Duffield St (Sept 10 2026); DeKalb and Lafayette Avenue bus and bike redesign under construction (Nov 6 2026).
+- 141 Willoughby (385 Gold commercial) office-to-residential, 239 apts on floors 8–23 (pack, fiber page) — https://www.multihousingnews.com/capstone-bh3-obtain-208m-for-rare-office-to-residential-project-in-brooklyn/
+- Borough Hall Skyscraper Historic District, LPC approved Sept 13 2011, 21 buildings on Court/Montague/Remsen/Joralemon/Livingston (pack) — https://www.citylandnyc.org/borough-hall-skyscraper-historic-district-approved/
+- Brooklyn Tower (first supertall in Brooklyn, beside landmarked Dime Savings Bank) (pack) — https://en.wikipedia.org/wiki/Brooklyn_Tower
+- 3,700+ units in 2025 / 25,000+ since 2004 (DBP; TRD) — URLs above.
+
+### Rules that change a camera job here
+- LPC rule, RCNY Title 63 § 2-20(4): security cameras "as small and as limited in number as feasible," no more than two per 25 ft of street frontage on buildings of six stories or less with 40 ft frontage or less, no more than three per 25 ft on larger commercial, residential and institutional buildings; located to avoid a cluttered or haphazard appearance and attached to minimize visible impact — https://nacmiaslaw.com/resources/legal-codes/14298 ; https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-113238
+- LPC Permit Guidebook (2025) has an "Installing Security Cameras" staff-level page (search excerpt; full PDF query failed) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC-Permit-Guidebook.pdf
+- NYC Admin Code § 22-1202: commercial establishments (incl. retail, food and drink, venues) that collect biometric identifier information of customers must disclose it (signage) and may not sell or profit from it — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-131285 ; https://www.consumerfinancialserviceslawmonitor.com/2021/06/new-york-city-enacts-biometrics-law-for-food-and-drink-establishments-entertainment-venues-and-retail-stores/
+- NYS Retail Worker Safety Act (Labor Law § 27-e): employers with 10+ retail employees in NYS need a written workplace violence prevention policy and training; employers with 500+ retail employees statewide must provide a silent response button (installed or wearable/phone-based) — https://dol.ny.gov/retail-worker-safety ; https://www.jacksonlewis.com/insights/implementing-nys-retail-worker-safety-act-new-amendment-means-changes-employers-all-sizes
+- NY Civil Rights Law § 52-c: employers that electronically monitor employees' phone, email or internet use must give written notice, get acknowledgement and post it (effective May 7 2022) — https://www.nysenate.gov/legislation/laws/CVR/52-C*2 ; https://www.theemployerreport.com/2022/02/new-yorks-new-electronic-monitoring-disclosure-law-requires-action-before-may/
+- NYS Article 6-D installer licence (silo research; AESS #12000287431).
+
+### Reddit / forums (excerpts only; threads not scrapable)
+- r/NYCapartments: "the building has a locker system called LuxerOne Lockers, People just walk in off the street and steal packages and mail. (Downtown Brooklyn)" — https://www.reddit.com/r/NYCapartments/comments/1104n9c/advice_stolen_packages_inside_nyc_apartment/
+- r/NYCbike: "My luxury high rise had a key fob bike room as well. There were reports of theft." (not Downtown-specific) — https://www.reddit.com/r/NYCbike/comments/1h1nh3b/stolen_bike_apartment_bike_room_broken_into/
+- r/Brooklyn: package theft threads; advice to ask to review building security footage (general Brooklyn) — https://www.reddit.com/r/Brooklyn/comments/1v5vuus/package_theft_from_our_building_is_out_of_control/ ; https://www.reddit.com/r/Brooklyn/comments/1qc0iz5/i_think_im_being_specifically_targeted_by_porch/
+- r/Brooklyn "Beware of Goose Property Management": tenant asked to see security footage after a theft (excerpt; not Downtown-specific) — https://www.reddit.com/r/Brooklyn/comments/1up3wvd/beware_of_goose_property_management/
+- Reddit r/Downtown Brooklyn camera-installer threads: EMPTY.
+
+### EMPTY
+- Google PAA, PASF, AnswerThePublic, AI Overview, Bing, DuckDuckGo — EMPTY (not accessible in build env).
+- Yelp 1–3★ reviews of camera installers for Downtown Brooklyn — EMPTY (not searched separately; no usable result surfaced).
+- Patch / BK Reader Downtown camera stories — EMPTY (none surfaced).
+- DOB / 311 / HPD records specific to cameras in Downtown Brooklyn — EMPTY.
+- "D&D Daily" excerpt about a retail-theft drop on Fulton St after a "zone" — URL is a Google redirect, could not verify: NOT USED.
+- News12 "group robs Downtown Brooklyn store worker at knifepoint" — Facebook excerpt only, undated: NOT USED.
+
+### Questions people ask — Security Camera Installation in Downtown
+(PAA/PASF/ATP surfaces EMPTY; questions below come from Reddit excerpts and from local news, reworded for the page.)
+- Our building has package lockers but people walk in off the street and take packages and mail — what helps? — r/NYCapartments excerpt (Downtown Brooklyn) — https://www.reddit.com/r/NYCapartments/comments/1104n9c/advice_stolen_packages_inside_nyc_apartment/
+- Bikes stolen from a fob-only bike room in a high-rise — where should the camera be? — r/NYCbike excerpt — https://www.reddit.com/r/NYCbike/comments/1h1nh3b/stolen_bike_apartment_bike_room_broken_into/
+- Can I see my building's security footage after a theft / should I ask management to review it? — r/Brooklyn excerpts — https://www.reddit.com/r/Brooklyn/comments/1qc0iz5/i_think_im_being_specifically_targeted_by_porch/
+- After an alarm, is someone still inside the store? — Brooklyn Eagle (GameStop, 465 Fulton St) — https://brooklyneagle.com/367061/cops-of-the-month-help-clean-up-retail-theft-in-the-84th-precinct/
+- What do the empty, boarded upper floors above Fulton Mall stores mean for a store's cameras? — TRD — https://therealdeal.com/new-york/2026/10/06/fulton-mall-proposed-for-downtown-brooklyn-mega-bid/
+- Will the new trees and benches on Fulton Mall get in the way of storefront cameras? — NY YIMBY — https://newyorkyimby.com/2025/09/fulton-mall-revitalization-work-finishes-in-downtown-brooklyn-brooklyn.html
+- Will the color-changing holiday lights on Fulton and Court affect night video? — DBP Year in Review — https://www.downtownbrooklyn.com/news/2026/dtbk-2025-year-in-review/
+- How many cameras may go on a building front in the Borough Hall Skyscraper Historic District? — LPC rule § 2-20 — https://nacmiaslaw.com/resources/legal-codes/14298
+- Can old office wiring in an office-to-condo conversion be reused for cameras? — NY YIMBY (The Bowen) — https://newyorkyimby.com/2026/11/the-bowen-completes-residential-conversion-expansion-at-289-schermerhorn-street-in-downtown-brooklyn.html
+- Which amenity rooms (playroom, coworking pods, gym) can have cameras? — NY YIMBY (The Bowen amenities) — same URL
+- Can a camera system tie into the silent response button the state requires for large retailers? — NYS DOL — https://dol.ny.gov/retail-worker-safety
+- Does a store that turns on face matching need signs? — NYC Admin Code § 22-1202 — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-131285 (used in body only; the silo register already has a face-matching question)
+- How do installers get equipment onto Fulton Mall when cars are banned? — Wikipedia Fulton Street Mall — https://en.wikipedia.org/wiki/Fulton_Street_Mall
