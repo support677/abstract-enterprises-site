@@ -1197,7 +1197,7 @@ TODO | ring-camera-installation-putnam-county | Ring Camera Installation | Putna
 TODO | ring-camera-installation-dutchess-county | Ring Camera Installation | Dutchess | up /ring-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | ring-camera-installation-ulster-county | Ring Camera Installation | Ulster | up /ring-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | google-nest-camera-installation-manhattan | Google Nest Camera Installation | Manhattan | up /google-nest-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T03:04Z factory | google-nest-camera-installation-brooklyn | Google Nest Camera Installation | Brooklyn | up /google-nest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | google-nest-camera-installation-brooklyn | Google Nest Camera Installation | Brooklyn | up /google-nest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | google-nest-camera-installation-queens | Google Nest Camera Installation | Queens | up /google-nest-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | google-nest-camera-installation-bronx | Google Nest Camera Installation | Bronx | up /google-nest-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | google-nest-camera-installation-staten-island | Google Nest Camera Installation | Staten Island | up /google-nest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
