@@ -3069,3 +3069,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-long-island | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/arlo-camera-installation-brooklyn | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-ny | QUEUED
+2026-11-06 | https://www.abstractenterprisessecuritysystems.com/eufy-camera-installation-nyc | QUEUED
