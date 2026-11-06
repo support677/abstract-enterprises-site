@@ -3054,3 +3054,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-westchester-heights-bronx-ny | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-beverley-square-brooklyn-ny | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-bath-beach-brooklyn-ny | QUEUED
+2026-11-06 | https://www.abstractenterprisessecuritysystems.com/luminys-camera-installation-brooklyn | QUEUED

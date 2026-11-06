@@ -1158,7 +1158,7 @@ TODO | zosi-camera-installation-nyc | ZOSI Camera Installation | NYC hub | up / 
 TODO | zosi-camera-installation-long-island | ZOSI Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | zosi-camera-installation-hudson-valley | ZOSI Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | luminys-camera-installation-manhattan | Luminys Camera Installation | Manhattan | up /luminys-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-06T00:03Z factory | luminys-camera-installation-brooklyn | Luminys Camera Installation | Brooklyn | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | luminys-camera-installation-brooklyn | Luminys Camera Installation | Brooklyn | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | luminys-camera-installation-queens | Luminys Camera Installation | Queens | up /luminys-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | luminys-camera-installation-bronx | Luminys Camera Installation | Bronx | up /luminys-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | luminys-camera-installation-staten-island | Luminys Camera Installation | Staten Island | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
