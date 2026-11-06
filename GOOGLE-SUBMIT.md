@@ -3043,3 +3043,4 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-hudson-valley | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/tv-installation-clason-point-bronx-ny | QUEUED
 2026-11-06 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-long-island | QUEUED
+2026-11-06 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-nyc | QUEUED
