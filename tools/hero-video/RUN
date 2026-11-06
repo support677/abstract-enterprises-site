@@ -1,4 +1,5 @@
-shards=20
+shards=10
 limit=0
 only=
 force=0
+# 2026-11-06: 84 pages with header/no-hero layouts + homepage

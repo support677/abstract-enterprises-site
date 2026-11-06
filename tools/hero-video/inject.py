@@ -16,6 +16,7 @@ for rf in sorted(glob.glob(os.path.join(sys.argv[1], "*.json"))):
             continue
         p = os.path.join(SITE, r["slug"] + ".html")
         s = open(p, encoding="utf-8").read()
+        s = s.replace("</head></head>", "</head>")   # a page-builder bug left a doubled tag on some pages
         if 'data-hero-video="' in s:
             continue
         mp4, jpg = f"/v/hero/{r['slug']}.mp4", f"/v/hero/{r['slug']}.jpg"
@@ -24,15 +25,13 @@ for rf in sorted(glob.glob(os.path.join(sys.argv[1], "*.json"))):
             tag = s[im[0]:im[1]]
             s = s[:im[0]] + f'<div class="hv-box" data-hero-video="{mp4}">{tag}</div>' + s[im[1]:]
         else:
-            sp = pages.hero_span(s)
-            if not sp:
+            cut = pages.insert_point(s)
+            if cut is None:
                 continue
             alt = html.escape(f"{r['service']} in {r['place']} - Abstract Enterprises Security Systems video", quote=True)
             box = (f'<div class="hv-box" data-hero-video="{mp4}" style="max-width:760px;margin:36px auto 0;border-radius:14px;'
                    f'overflow:hidden;box-shadow:0 18px 50px rgba(0,0,0,.35)"><img src="{jpg}" alt="{alt}" width="1280" '
                    f'height="720" loading="lazy" style="display:block;width:100%;height:auto"></div>\n')
-            cut = s.rfind("</div>", sp[0], sp[1])
-            cut = cut if cut > 0 else sp[1]
             s = s[:cut] + box + s[cut:]
         name = f"{r['service']} in {r['place']}".strip() if r["place"] else r["service"]
         desc = f"{r['service']} by Abstract Enterprises Security Systems" + (f" in {r['place']}" if r["place"] else "") + \

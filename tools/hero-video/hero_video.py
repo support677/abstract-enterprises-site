@@ -193,6 +193,8 @@ def parse(path):
     m = re.search(r"<h1[^>]*>(.*?)</h1>", raw, re.S | re.I)
     h1 = re.sub(r"\s+", " ", strip(m.group(1))) if m else slug.replace("-", " ").title()
     service, area, nb = slug_parts(slug, h1)
+    if slug == "home":   # homepage: whole company, whole service area
+        service, area, nb = "Security System Installation", ("NEW YORK", "New York"), None
     pm = re.search(r'class="rh-price"[^>]*>(.*?)</div>', raw, re.S)
     price = None
     if pm:
