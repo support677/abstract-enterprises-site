@@ -2098,3 +2098,77 @@ The questions below are real but come from publisher FAQs, Yelp and forums, not 
 - Reddit (r/Brooklyn, r/AskNYC) on Bath Beach cabling/Wi-Fi: EMPTY (no threads found)
 - Google PAA / PASF / AI Overview / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not accessible in build env)
 - Yelp 1–3★ for Bath Beach network installers: EMPTY (not accessible in build env)
+
+## Bathgate, Bronx — /structured-cabling-installation-bathgate-bronx-ny (max-daily research, 2026-11-06)
+
+**Read this first.** Searches ran through a general web-search tool and page fetches. Live Google People Also Ask, People Also Search For, AI Overview, AnswerThePublic, Bing and DuckDuckGo panels could not be captured from the build environment and are marked EMPTY. No Reddit thread specific to Bathgate cabling turned up. Earlier Bathgate research (security-camera page, 2026-11-02) was reused only where its source URL was re-checked or is a primary record.
+
+### Industrial park, schools and business users (cabling demand)
+- Bathgate Industrial Park covers seven city blocks / 20 acres, eight buildings, about 454,000 sq ft for light industrial, distribution, office and educational uses; tenants include a generic drug manufacturer, food distributors, and academic and vocational training centers — https://en.wikipedia.org/wiki/Bathgate_Industrial_Park
+- Park opened 1982, a Port Authority / NYCEDC joint project (Port Authority leases from NYCEDC), operated as a nonprofit; 1980 designation rezoned a former residential district of vacant land and buildings; Bathgate Industrial Park LDC listed at 1831 Bathgate Ave, 10457; Bronx Community Board 3 — https://en.wikipedia.org/wiki/Bathgate_Industrial_Park
+- Park boundaries: Cross Bronx Expressway (north), Claremont Parkway (south), Third and Fulton Avenues (east), Washington Avenue (west) — https://en.wikipedia.org/wiki/Bathgate_Industrial_Park ; CB3 197-A plan gives the east line as the mid-line between Third and Fulton — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- January 2021: 24/7 COVID-19 "mega-facility" vaccination site at the park, previously a testing site — https://en.wikipedia.org/wiki/Bathgate_Industrial_Park
+- Bathgate Educational Campus: a dilapidated warehouse converted to a 140,000 sq ft campus, four schools, 1,300 students, $52 million, architect John Ciardullo Associates (article dated Aug 11, 2010) — https://www.bdcnetwork.com/home/news/55154516/bronx-ny-turns-a-dilapidated-warehouse-into-state-of-the-art-school-campus
+- Schools on the campus include Mott Hall Bronx High School and the Urban Assembly School for Applied Math and Science — https://en.wikipedia.org/wiki/Bathgate_Industrial_Park
+- Industrial leasing: Bronx Chamber/BCW Q3 2025 Bronx Industrial Leasing report exists (not read in full) — https://thebcw.org/wp-content/uploads/2025/10/Q3-2025-Bronx-Industrial-Leasing.pdf ; NYCEDC/Port Authority RFP "Leasing Opportunity for Industrial Tenants – Bathgate Industrial Park" listed on BidNet (closed) — https://www.bidnetdirect.com/new-york/solicitations/closed-bids/statewide/LEASING-OPPORTUNITY-FOR-INDUSTRIAL-TENANTS-BATHGATE-INDUSTRIAL-PARK-RFP/443558565806
+- Commercial listings on Bathgate Ave at 1610 and 1574 Bathgate Ave (LoopNet; details not readable) — https://www.loopnet.com/Listing/1610-Bathgate-Ave-Bronx-NY/37051378
+
+### New construction along Bathgate Avenue (prewire / telecom-room demand)
+- 1904 Bathgate Avenue: Mega Contracting Group filed an Oct 2023 new-building job for a 184,512 sq ft R-2 building; later filings reference a 213-apartment project; acquired May 3, 2024 for $8.2 million — https://www.pincusco.com/property/1904-bathgate-avenue/
+- 1899 Bathgate Avenue: new-building permit filed March 3, 2025; five stories, 59 ft, 4,851 sq ft residential and 4,699 sq ft commercial; filed by Pioneer Builders Group LLC (Tpd Architecture PLLC) — https://blog.marketproof.com/new-building-permit-filed-for-1899-bathgate-ave-in-tremont-bronx/
+- 2088 Bathgate Avenue: "Four-Story, Eight-Unit Residential Building Planned" (YIMBY headline) — https://www.newyorkyimby.com/?p=1825015
+- 2246 Bathgate Ave: 14 units, lottery July 2026, lists intercoms and an elevator (from earlier pack; page fetch failed today: EMPTY (not accessible in build env)) — https://newyorkyimby.com/2026/07/housing-lottery-launches-for-2246-bathgate-avenue-in-east-tremont-the-bronx.html
+- 1880 Bathgate Ave / 4183 Third Ave: 379 units, 8 floors, built 2018 (Openigloo labels it East Tremont/Claremont) — https://www.openigloo.com/building/nyc/2128726-2029247501/bronx-claremont-1880-bathgate-avenue-10457
+
+### Older building stock (from DOF sales records and other primary sources, carried from earlier pack)
+- DOF uses "BATHGATE" as a neighborhood; one-family at 1948 Bathgate Ave built 1901; two-family houses at 543/559 Claremont Pkwy built 1995; walk-up co-op at 2072 Bathgate Ave built 1911 — https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2017/2017_bronx.pdf
+- Webster Ave three-family built 1899; commercial garage at 1732 Webster Ave built 1930; Third Ave store buildings 1924–1931; Third Ave office condos 2016–2017 — https://www.nyc.gov/assets/finance/downloads/pdf/rolling_sales/annualized-sales/2019/2019_bronx.pdf
+- 2043 Bathgate Ave: 2 units, built 1901 — https://www.apartmentbuildings.com/properties/2043-bathgate-avenue/
+- Roscoe C. Brown Apartments (Phipps), described as in the Bathgate neighborhood — https://www.phippsny.org/map_directory/roscoe-brown-apartments/
+- Former 48th Precinct Station, 1925 Bathgate Ave: completed 1901, three stories, yellow brick with stone trim, Italian Renaissance Revival, National Register 1983; Sharon Baptist Headstart occupied it as of June 2010 — https://en.wikipedia.org/wiki/48th_Police_Precinct_Station
+- Current 48th Precinct at 450 Cross Bronx Expressway — https://www.propertyshark.com/mason/Property/52903/450-460-Cross-Bronx-Expy-Bronx-NY-10457/ ; https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/48th-precinct.page
+- SUNY Bronx Educational Opportunity Center, 1666 Bathgate Ave — https://www.findhelp.org/suny-bronx-educational-opportunity-center-(eoc)--bronx-ny--academic-&-vocational-programs/5714275438166016?postal=10451
+- 5-alarm fire, March 26, 2026, 505 East 184th Street between Bassford and Bathgate Avenues, one death — https://pix11.com/news/local-news/bronx/crews-battle-four-alarm-fire-in-the-bronx-fdny/
+
+### Connectivity and broadband
+- FCC-based availability for Tremont (FCC update Oct 19, 2026 per page): Optimum cable 99.87%, Verizon Fiber 92.78%, EarthLink Fiber 92.78%, Optimum Fiber 70.78%, T-Mobile Home Internet 99.90%, Starry 97.46% — https://bestneighborhood.org/fiber-tv-and-internet-tremont-bronx-ny/
+- May 4, 2026: HPD Neighborhood Internet initiative, $2M federal funding via Rep. Ritchie Torres; >2,000 units in dozens of South Bronx buildings over two years; microtrenching, rooftop network equipment, dedicated internet access infrastructure, in-unit connectivity; NYPL partner; HPD Commissioner Dina Levy: "Forty percent of households in the Bronx do not have home internet access." — https://ritchietorres.house.gov/posts/rep-ritchie-torres-mayor-zohran-mamdani-nyc-housing-preservation-and-development-and-the-new-york-public-library-announce-2-million-federal-investment-to-expand-broadband-access-in-the-bronx
+- Fios in an older apartment building: installer needed to run fiber from an outside box and drill through the hallway; landlord refused; poster asked whether fiber could follow existing coax to the basement — https://forums.verizon.com/t5/Fios-Internet/FiOS-Installation-Questions-Issues-in-an-Older-Apt-Building/m-p/599607
+- Big Apple Connect (NYCHA free internet) — https://politicsny.com/2023/03/23/mayor-expands-free-broadband-internet-plan-for-nycha-residents-in-the-bronx-citywide/
+
+### Cross Bronx Expressway and streets
+- Cross Bronx Expressway cut across the neighborhood just south of East Tremont Ave in the 1950s — https://www.lehman.edu/public-art-bronx/neighborhoods/
+- NYC DOT final report (March 10, 2025) on reconnecting communities along the Cross Bronx: busway on East Tremont Ave; long-term concept to activate space under the elevated structure between Webster and Third Avenues; potential cap reconnecting Walter Gladwin and Crotona Parks; long-term concepts need further study and unidentified funding — https://www.nyc.gov/html/dot/html/pr2025/final-report-reconnect-communities-cbe.shtml
+- Streets between Webster and Third designated local truck routes connecting with the Cross Bronx; M1-4 zoning on several sites — https://www.nyc.gov/assets/planning/download/pdf/community/197a-plans/bx3_partnership_197a.pdf
+- Claremont Parkway names: Bathgate Pl. (1850), Wendover Pl. (1890), Claremont Parkway (1913) — https://www.splicetoday.com/writing/king-of-crotona
+- Historic Bathgate Ave market 171st–174th, stores continuous on both sides — https://www.shorpy.com/node/2786
+- Transit: Bx15, Bx36, Bx42, Bx40; subway 4, B, D — https://moovitapp.com/index/en/public_transit-Bathgate_Avenue-NYCNJ-street_9778519-121
+
+### Parks and landmarks
+- Crotona Park ~127.5 acres; northern section cut off by the Cross Bronx in 1945 became Walter Gladwin Park; Indian Lake ~3.3 acres; Crotona Play Center opened July 25, 1936, only WPA pool complex in the Bronx, NYC landmark 2007, National Register 2015; land once the Bathgate estate ("Bathgate Woods"); Fulton Ave and 173rd St lead to the Play Center — https://en.wikipedia.org/wiki/Crotona_Park
+- Bathgate Playground at Fulton Ave and E 173rd St — https://www.nycgovparks.org/parks/crotona-park/highlights/11151
+- Claremont Park, 38 acres — https://en.wikipedia.org/wiki/Claremont_Park
+
+### Codes, permits, licensing
+- Local Law 128 of 2024 adds AC §28-105.4.7: no electrical permit for wiring under 50 volts for signaling, communication, alarm and data — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf ; effective Dec 21, 2025 per https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- 2025 NYC Electrical Code is based on the 2020 NEC plus amendments — https://forums.mikeholt.com/goto/post?id=3008435
+- NY GBL Art. 6-D alarm-installer licensing — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- LPC: no historic district covering Bathgate found — EMPTY
+- HPD violations / 311 / DOB totals specific to cabling in Bathgate: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Bathgate
+- Is plenum cable better than riser cable? — contractor FAQ — https://datawiresolutions.com/blog/plenum-vs-riser-ethernet-cable-cmp-vs-cmr
+- Does every drop ceiling require plenum cable? — contractor FAQ — same URL
+- Can I use CMR cable in my house? — contractor FAQ — same URL
+- Can plenum cable replace riser cable? — contractor FAQ — same URL
+- How do inspectors verify CMP or CMR during rough-in? — contractor FAQ — same URL
+- Why is plenum cable more expensive? — contractor FAQ — same URL
+- Can the fiber cable be run through the existing cable system in the apartment? (landlord refused hallway drilling) — Verizon community forum — https://forums.verizon.com/t5/Fios-Internet/FiOS-Installation-Questions-Issues-in-an-Older-Apt-Building/m-p/599607
+- Cat6 vs Cat6A, when does it matter? — contractor blog — https://datawiresolutions.com/blog/cat6-vs-cat6a-when-it-matters
+- Wired networking in an apartment — forum — https://www.badcaps.net/forum/troubleshooting-hardware-devices-and-electronics-theory/troubleshooting-designing-networks/13134-wired-networking-in-an-apartment?p=327930
+- Google PAA (live): EMPTY (not accessible in build env)
+- People Also Search For: EMPTY (not accessible in build env)
+- AnswerThePublic: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo: EMPTY (not accessible in build env)
+- Reddit (Bathgate-specific): EMPTY
+- Yelp (Bathgate-specific cabling reviews): EMPTY
