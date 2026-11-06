@@ -1072,7 +1072,7 @@ LIVE | google-nest-camera-installation-long-island | Google Nest Camera Installa
 LIVE | google-nest-camera-installation-hudson-valley | Google Nest Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | arlo-camera-installation-nyc | Arlo Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-06T00:03Z factory | arlo-camera-installation-long-island | Arlo Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-06T00:03Z factory | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+LIVE | arlo-camera-installation-hudson-valley | Arlo Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | eufy-camera-installation-nyc | eufy Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | eufy-camera-installation-long-island | eufy Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | eufy-camera-installation-hudson-valley | eufy Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
