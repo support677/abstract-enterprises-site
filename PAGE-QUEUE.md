@@ -919,7 +919,7 @@ REBUILD | network-cable-repair-bushwick-brooklyn-ny | Network Cable Repair | Bus
 REBUILD | network-cable-repair-williamsburg-brooklyn-ny | Network Cable Repair | Williamsburg, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-bath-beach-brooklyn-ny | Security Camera Installation | Bath Beach, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bedford-park-bronx-ny | Security Camera Installation | Bedford Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-06T00:03Z factory REBUILD | security-camera-installation-beverley-square-brooklyn-ny | Security Camera Installation | Beverley Square, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-installation-beverley-square-brooklyn-ny | Security Camera Installation | Beverley Square, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bronxdale-bronx-ny | Security Camera Installation | Bronxdale, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | security-camera-installation-brooklyn-heights-brooklyn-ny | Security Camera Installation | Brooklyn Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-bruckner-bronx-ny | Security Camera Installation | Bruckner, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
