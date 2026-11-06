@@ -1,4 +1,4 @@
-shards=3
+shards=20
 limit=0
-only=index,cat6-repair-putnam-county,fiber-optic-installation-hudson-square-manhattan-ny,smart-lock-installation-st-george-staten-island-ny,smart-lock-installation-west-brighton-staten-island-ny,sonos-installation-orange-county
+only=
 force=0
