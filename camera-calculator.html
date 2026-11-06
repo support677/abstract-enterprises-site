@@ -763,8 +763,11 @@ formData.append('floors',data.floors);
 formData.append('outdoor_areas',data.outdoor.join(', ')||'None selected');
 formData.append('area_selected',document.getElementById('areaSelect')?document.getElementById('areaSelect').value:'not-specified');
 formData.append('from_name','Abstract Camera Calculator');
+// Built by hand (no <form> submit), so add ph.js attribution the way js/quote-builder.js does.
+if(typeof window.aessStamp==='function'){try{var tf=document.createElement('form');window.aessStamp(tf);tf.querySelectorAll('input[type="hidden"]').forEach(function(i){formData.append(i.name,i.value);});}catch(e){}}
 fetch('/api/contact',{method:'POST',body:formData})
 .then(r=>r.json()).then(d=>{
+if(!d||!d.success)throw new Error('not sent');
 document.getElementById('f-msg').style.display='block';
 document.getElementById('f-msg').style.background='#ecfdf5';
 document.getElementById('f-msg').style.borderColor='#6ee7b7';

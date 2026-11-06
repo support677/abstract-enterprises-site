@@ -1637,7 +1637,7 @@ document.querySelectorAll('.faq-question').forEach(function(btn){
       btn.textContent='Sending...'; btn.disabled=true;
       fetch('/api/contact',{method:'POST',body:new FormData(f)})
         .then(function(r){return r.json()})
-        .then(function(){ f.innerHTML='<h3>Thanks &mdash; we got it.</h3><p>We\'ll be in touch shortly to arrange a walkthrough. If it\'s urgent, call <a href="tel:+18456403835">845-640-3835</a>.</p>'; })
+        .then(function(d){ if(!d||!d.success) throw new Error('not sent'); f.innerHTML='<h3>Thanks &mdash; we got it.</h3><p>We\'ll be in touch shortly to arrange a walkthrough. If it\'s urgent, call <a href="tel:+18456403835">845-640-3835</a>.</p>'; })
         .catch(function(){ btn.textContent=original; btn.disabled=false; f.submit(); });
     });
   });

@@ -2157,7 +2157,7 @@ document.querySelectorAll('.faq-question').forEach(function(btn){
       btn.textContent='Sending...'; btn.disabled=true;
       fetch('/api/contact',{method:'POST',body:new FormData(f)})
         .then(function(r){return r.json()})
-        .then(function(){ f.innerHTML='<h3>Thanks — we got it.</h3><p>We\'ll be in touch shortly to arrange a walkthrough. If it\'s urgent, call <a href="tel:+13479348335">(347) 934-8335</a>.</p>'; })
+        .then(function(d){ if(!d||!d.success) throw new Error('not sent'); f.innerHTML='<h3>Thanks — we got it.</h3><p>We\'ll be in touch shortly to arrange a walkthrough. If it\'s urgent, call <a href="tel:+13479348335">(347) 934-8335</a>.</p>'; })
         .catch(function(){ btn.textContent=original; btn.disabled=false; f.submit(); });
     });
   });
