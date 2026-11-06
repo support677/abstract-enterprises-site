@@ -1,5 +1,4 @@
 shards=20
 limit=0
-only=@redo.txt
-force=1
-# run 2026-11-06b
+only=
+force=0
