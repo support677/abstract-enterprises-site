@@ -10,7 +10,6 @@
  *  - Bigger TVs (86"+) are priced as a two-technician job inside the size tier.
  *  - Paid in full at checkout through /pay (Stripe -> Housecall Pro job ->
  *    customer picks a 2-hour arrival window after payment).
- *  - Manhattan adds the $150 parking charge.
  *
  * Page markup: <div id="aessTvCalc" data-area="bronx" data-label="the Bronx"></div>
  */
@@ -23,7 +22,7 @@
     statenisland: { base: 209.99, hourly: 225, label: 'Staten Island' },
     nassau:       { base: 209.99, hourly: 225, label: 'Nassau County' },
     longisland:   { base: 209.99, hourly: 225, label: 'Long Island' },
-    manhattan:    { base: 244.99, hourly: 265, label: 'Manhattan', parking: 150 },
+    manhattan:    { base: 244.99, hourly: 265, label: 'Manhattan' },
     westchester:  { base: 219.99, hourly: 235, label: 'Westchester' },
     rockland:     { base: 219.99, hourly: 235, label: 'Rockland County' },
     hudsonvalley: { base: 219.99, hourly: 235, label: 'the Hudson Valley' },

@@ -859,7 +859,7 @@ function getTotal(){
   if(st.shielded)base+=50*st.drops;
   if(st.voicedrop)base+=st.cable.price*st.drops;
   if(st.proj==='newcon')base=Math.round(base*0.9);
-  return Math.max(base,MIN_JOB)+150; /* Manhattan parking */
+  return Math.max(base,MIN_JOB);
 }
 
 function getRawTotal(){

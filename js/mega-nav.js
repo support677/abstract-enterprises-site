@@ -224,7 +224,6 @@ var chips=[['📺 32″–55″','Flat or tilt, drywall','from '+f(b),'spb-chip-
 ['🎮 Universal Remote','Programming','$99',''],['🎬 Home Theater','Full setup','$350',''],['⬇️ Take Down Old TV','Old bracket removal $45','$85',''],['🪵 Backer Board','Big TVs, weak walls','$85',''],
 ['🪜 High Mount','Above ~8 ft','$75',''],['🪜 Walk-Up','3rd floor+, no elevator','$40',''],['♻️ Haul Away','Old TV recycled','$79',''],['📦 Box Removal','Take the packaging','$25',''],
 ['📄 COI','For your building','Free','spb-chip--green'],['📋 Licensed','NYS Lic. #12000287431','Insured','']];
-if(p.indexOf('manhattan')>-1&&p.indexOf('manhattan-beach')<0)chips.splice(1,0,['🚗 Manhattan Parking','Flat, every job','$150','']);
 var h='';for(var r=0;r<2;r++)for(var j=0;j<chips.length;j++){var c=chips[j];h+='<a href="'+(calc?'#aessTvCalc':priceUrl)+'" class="spb-chip '+c[3]+'"><span class="spb-chip-tag">'+c[0]+'</span><span class="spb-chip-mid">'+c[1]+'</span><span class="spb-chip-val">'+c[2]+'</span></a><span class="spb-chip-div"></span>';}
 tr.style.animationDuration=(chips.length*4.5)+'s';
 tr.innerHTML=h;if(lb)lb.textContent='TV Mounting';

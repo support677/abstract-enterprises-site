@@ -682,7 +682,7 @@ var AREAS={
 'brooklyn':{name:'Brooklyn',markup:0,hourly:195,line:175,conceal:200,note:'base pricing',payArea:'nyc'},
 'queens':{name:'Queens',markup:.10,hourly:195,line:196,conceal:224,note:'+10%',payArea:'nyc'},
 'bronx':{name:'Bronx',markup:.15,hourly:225,line:201,conceal:230,note:'+15%',payArea:'nyc'},
-'manhattan':{name:'Manhattan',parking:150,markup:.36,hourly:265,line:238,conceal:272,note:'+36%',payArea:'nyc'},
+'manhattan':{name:'Manhattan',markup:.36,hourly:265,line:238,conceal:272,note:'+36%',payArea:'nyc'},
 'staten-island':{name:'Staten Island',markup:.20,hourly:225,line:210,conceal:240,note:'+20%',payArea:'nyc'},
 'nassau':{name:'Nassau County',markup:.20,hourly:225,line:210,conceal:240,note:'+20%',payArea:'nassau'},
 'suffolk':{name:'Suffolk County',markup:.28,hourly:250,line:226,conceal:259,note:'+28%',payArea:'suffolk'},
@@ -870,7 +870,6 @@ function recalc(){
     minNote.textContent=hasRun?'Runs over 100 ft quoted on-site.':'';
     minNote.style.display=hasRun?'block':'none';
   }
-  if(total>0&&a.parking){total+=a.parking;if(minNote){minNote.textContent=(minNote.textContent?minNote.textContent+' ':'')+'Includes $'+a.parking+' Manhattan parking.';minNote.style.display='block';}}
   document.getElementById('totalAmount').textContent='$'+total.toLocaleString();
 
   // Pay link
