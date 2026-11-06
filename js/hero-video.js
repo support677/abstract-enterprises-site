@@ -45,7 +45,20 @@
     }, { once: true });
     v.load();
   }
+  // Nov 6 2026: phones were hiding the quote form under the hero; show it under the video, add breathing room,
+  // and give the photo the video's 16:9 shape so nothing jumps when the video takes over.
+  function css() {
+    if (document.getElementById('hv-css')) return;
+    var st = document.createElement('style'); st.id = 'hv-css';
+    st.textContent = '@media(max-width:900px){' +
+      '.hv-box{margin-top:18px;width:100%}' +
+      '.hv-box>img{display:block;width:100%!important;max-width:none!important;height:auto;aspect-ratio:16/9;object-fit:cover;-webkit-mask-image:none!important;mask-image:none!important;border-radius:14px}' +
+      '.hv-box>video{border-radius:14px}' +
+      '.hero-img .hf-card,.hv-box~.hf-card,.hero-img~.hf-card{display:block!important;margin:22px auto 0!important}}';
+    document.head.appendChild(st);
+  }
   function run() {
+    css();
     var els = document.querySelectorAll('[data-hero-video]');
     for (var i = 0; i < els.length; i++) boot(els[i]);
   }
