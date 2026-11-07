@@ -1,7 +1,7 @@
 {
  "area": {
   "bronx": 489.94,
-  "brooklyn": 13911.080000000002,
+  "brooklyn": 14183.27,
   "congers": 291.53,
   "great-neck": 1.0,
   "hempstead": 1.0,
@@ -16,9 +16,10 @@
   "the-bronx": 2491.88,
   "thornwood": 198.0,
   "wappingers-falls": 1.0,
-  "westchester": 1200.03
+  "westchester": 1200.03,
+  "white-plains": 1358.7
  },
- "generated": "2026-11-06T08:15:00.001481+00:00",
+ "generated": "2026-11-07T08:14:59.999282+00:00",
  "service": {
   "security-camera": 1136.52
  },
