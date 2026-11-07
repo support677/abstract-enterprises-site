@@ -64,6 +64,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-06 evening (scheduled, 01:52 UTC Nov 7, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2377 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-07T01:52:15Z, 2819 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2099 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected alarm-com bronx (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at alarm-com bronx.
 
+2026-11-07 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 1 indexed (d-link queens, URL is on Google), 0 failed, 2363 queued. All other inspections were not on Google (alarm-com bronx/putnam and first-alert dutchess were "URL is unknown to Google"). The first Request-indexing clicks closed the live-test dialog with no result until the Search Console page was reloaded; reloading before each URL fixed it. alarm-com putnam's first attempt was cut off mid-test, then succeeded on retry. "Quota Exceeded" on the 12th request (d-link manhattan, Discovered - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
