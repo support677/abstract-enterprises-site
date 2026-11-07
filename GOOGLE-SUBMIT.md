@@ -166,18 +166,18 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/honeywell-camera-installation-prices-queens | REQUESTED 2026-11-06
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/honeywell-camera-installation-prices-rockland-county | REQUESTED 2026-11-06
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/honeywell-camera-installation-prices-orange-county | REQUESTED 2026-11-06
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-nyc | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-queens | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-bronx | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-nassau-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-rockland-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/alarm-com-camera-installation-prices-putnam-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-nyc | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-westchester-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-rockland-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-putnam-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-dutchess-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-ulster-county | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-brooklyn | REQUESTED 2026-11-07
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-queens | INDEXED 2026-11-07
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-manhattan | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-staten-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-nassau-county | QUEUED
