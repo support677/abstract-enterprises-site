@@ -2172,3 +2172,100 @@ The questions below are real but come from publisher FAQs, Yelp and forums, not 
 - Bing / DuckDuckGo: EMPTY (not accessible in build env)
 - Reddit (Bathgate-specific): EMPTY
 - Yelp (Bathgate-specific cabling reviews): EMPTY
+
+## Bay Ridge, Brooklyn — /structured-cabling-installation-bay-ridge-brooklyn-ny (factory research, 2026-11-07)
+
+### Facts specific to structured cabling in Bay Ridge (top priority)
+- Prewar elevator co-op on Ridge Boulevard: 7002 Ridge Boulevard is "a pre-war co-op building ... finished in 1931", 6 stories, 83 apartments, elevator, video intercom, laundry in building — https://www.cityrealty.com/nyc/bay-ridge/7002-ridge-boulevard/43258
+- 6702 Ridge Boulevard (Seaview Towers), six-story Art Deco co-op "completed in 1936", designed by Kavy & Kavovitt; laundry, storage, bike room, fitness room; lobby with terrazzo floors (Brownstoner, Aug 18, 2020) — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/bay-ridge-brooklyn-apartments-for-sale-6702-ridge-boulevard-art-deco-prewar-studio-closets/
+- Doctors' Row: 54 bay-fronted limestone row houses on Bay Ridge Parkway between 4th and 5th Avenues, built 1906–1913; name comes from medical practices that filled the basements from the mid-20th century; "A few still exist today"; dentist Peter Costalos lives and works in the district — https://www.brownstoner.com/architecture/bay-ridge-doctors-row-historic-district-landmarks-preservation-commission-hearing/
+- NYU Langone Ambulatory Care Bay Ridge, 6740 Fourth Avenue, about 35,000 sq ft over 4 clinical floors; orthopedics/pain medicine first (Nov 29, 2017), imaging (MRI, CT, ultrasound, X-ray) and many specialties added later — https://nyulangone.org/news/nyu-langone-ambulatory-care-practice-bay-ridge-begins-phased-opening
+- Bay Ridge Prep Upper School opened its renovated building at 7509 Shore Road on September 3, 2024 (ribbon cutting); previously at 7420 Fourth Avenue for about 20 years; separate gymnasium planned next door for 2025–26 — https://bayridgeprep.org/red-ribbon-blue-skies-and-a-brand-new-school-building/
+- That Shore Road property (7503-09 Shore Road) was bought from the Redemptorist Fathers for $8.25 million; interior demolition began 2022 — https://brooklyneagle.com/articles/2022/08/05/new-shore-road-high-school-under-construction/
+- Planned public high school at 425 Ovington Ave, former St. Nicholas Home site, about 36,000 sq ft and about 900 seats; Fort Hamilton HS and HS of Telecommunication Arts and Technology "well over 100% capacity" (BK Reader, Mar 23, 2023); Brannan hoped for 2026, completion date uncertain — https://bkreader.com/non-profit-community/bay-ridge-set-to-receive-a-new-high-school-amid-overcrowding-6740577
+- High School of Telecommunication Arts and Technology, 350 67th Street, in the former Bay Ridge High School building (Gothic style), about 1,300 students, software engineering program, rooftop greenhouse (2016) — https://en.wikipedia.org/wiki/High_School_of_Telecommunication_Arts_and_Technology
+- CB10 school list: Bay Ridge Catholic Academy 365 83rd St; Bay Ridge Christian Academy 7402 4th Ave; Bay Ridge Prep Lower & Middle 8101 Ridge Blvd; Lutheran Elementary School of Bay Ridge 440 Ovington Ave — https://cbbrooklyn.cityofnewyork.us/cb10/resources/schools
+- Former Century 21 flagship on 86th Street (opened 1960s), empty five years, sold for $47.5 million in two parcels to MCB Real Estate to become "Century Marketplace"; construction hoped for later in 2025 (News 12, Aug 11, 2025) — https://brooklyn.news12.com/2025/08/11/shuttered-century-21-in-bay-ridge-to-become-century-marketplace-a-shopping-destination-to-help-boost-area-business/2QieYITYY5h5hkkzN3JMfm
+- Bay Ridge Fifth Avenue BID got a $300,000 Avenue NYC grant (SBS / HUD CDBG) to study Fifth Avenue, Third Avenue and 86th Street merchant needs (Brooklyn Eagle, Oct 3, 2019) — https://brooklyneagle.com/articles/2019/10/03/fifth-ave-bid-study-looks-at-bay-ridges-needs/
+- Medical office network practice guidance (industry, not Bay Ridge-specific): label both ends, patch panels, documented tests; separate VLANs for staff/clinical, voice/POS, cameras, guest; guest Wi-Fi internet-only; cameras on a dedicated VLAN; UPS for core switching; automatic internet failover — https://unifinerds.com/medical-office-network-checklist/
+- Angi: electricians/general contractors "$50 and $100 per hour on average"; average professional ethernet installation "$3,800", DIY "$410" (national, used only in AI reality check as third-party figures) — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- Reddit threads about Bay Ridge ethernet/cabling: EMPTY (searches returned only Verizon forum and non-Bay-Ridge threads).
+- DOB permit records / 311 complaints about cabling in Bay Ridge: EMPTY (not searched in open data this run; none surfaced).
+- Fios/Spectrum building-by-building availability in Bay Ridge: EMPTY (only aggregator/spam pages).
+- Bay Ridge-specific Yelp complaints about cabling contractors: EMPTY.
+- Carried from the local research pack (not re-fetched): Special Bay Ridge District 1978 / 2005 rezoning of 249 blocks; CB10 corridors and building stock description; 5th Ave BID 376 ground-floor businesses / 86th St BID 145; Third Ave 36-block strip; 9201 Shore Rd (1960, 254 apts), 9437 Shore Rd Normandy (1940, 55 units), Lebern Towers 9701 Shore Rd (1935); Doctors' Row LPC 2019; ZIP 11209 167 elevator buildings, 159 pre-1968 (PLUTO); Fort Hamilton; R stations; Owl's Head Park; Shore Road Park; Gingerbread House; LL128 of 2024 / AC §28-105.4.7 low-voltage permit exemption (silo research).
+
+### Questions people ask — Structured Cabling Installation in Bay Ridge
+- Who can run ethernet cable through your walls? / Can I hire a general contractor for ethernet cable installation? — Angi article headings — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- How much does running ethernet cables through my walls cost? — Angi heading — same URL
+- DIY ethernet installation vs hiring a pro — Angi heading — same URL
+- How do I make guest WiFi safe in a medical office? — industry checklist — https://unifinerds.com/medical-office-network-checklist/
+- What should a medical office network include (segmentation, cameras, backup internet)? — industry checklist — same URL
+- Running cable through cement/concrete walls in an apartment — StreetEasy Talk thread title — https://streeteasy.com/talk/discussion/29158-running-cable-through-cement-walls
+- Hiding wires in a pre-war building — StreetEasy Talk thread title — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- Challenges installing the Fios ONT in an apartment / running ethernet from ONT to router — Verizon forum titles — https://forums.verizon.com/t5/Fios-Internet/Challenges-Installing-ONT-In-an-Apartment/m-p/892960 ; https://forums.verizon.com/t5/fios-internet/running-ethernet-from-ont-to-router-during-installation/td-p/906874
+- Using existing coax instead of Cat5 (MoCA) — Verizon forum title — https://forums.verizon.com/t5/fios-internet/use-coax-instead-of-cat5/m-p/165035
+- Cat5e ethernet ports in apartment do not work — Tom's Hardware thread title — https://forums.tomshardware.com/threads/cat5e-ethernet-ports-in-apartment-do-not-work.3339285
+- Questions to ask before hiring a structured cabling provider in New York — industry page title — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Google PAA (verified): EMPTY (not accessible in build env)
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit (Bay Ridge): EMPTY
+- Yelp (Bay Ridge cabling): EMPTY
+
+## Baychester, Bronx — /structured-cabling-installation-baychester-bronx-ny (factory research, 2026-11-07)
+
+**How to read this:** 18 searches and page fetches on November 7, 2026. I could not open live Google PAA, People Also Search For, AnswerThePublic, Bing or DuckDuckGo result boxes, and no Reddit thread about cabling in Baychester turned up. Those are marked EMPTY. Facts already in the Baychester camera research pack (rezonings, build years, Co-op City size, Haffen Park, permit exemption) were reused from that pack and are not repeated here unless re-checked.
+
+### Facts specific to structured cabling in Baychester (top priority)
+- Boundaries (Wikipedia): East 222nd Street to the northeast, I-95 (New England Thruway) to the east, Gun Hill Road to the southwest, Boston Road to the northwest; "Eastchester Road is the primary thoroughfare through Baychester"; the section bounded by Boston, Eastchester and Gun Hill Roads is also called Fish Bay; part of Community Board 12; ZIP 10469 also covers Pelham Gardens; land area 2.61 square miles; terrain "low-lying and flat", parts of the East Bronx on marshland. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- Housing "dominated by one and two family homes"; 2000 census counted 23,144 housing units. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- Example house, 3236 Fish Avenue (10469): semi-detached single-family brick Colonial built 1935; basement "Finished, Full, Walk-Out Access" with a bedroom, full bath, storage and laundry; one detached garage space; "Detached, Garage, Shared Driveway". — https://www.bhgre.com/home/detail/ny/bronx/3236-fish-ave/lid-P00800000HDpdokuUkr2hN0jO2UpkCm3MdgSzQvq
+- Example house, 3005 Edson Avenue (10469): "brick semi-detached single-family home", 1955 build, 3 bed, 2 bath, 1,782 sq ft on a 2,013 sq ft lot; main level kitchen leads to a private backyard. — https://estately.com/listings/info/3005-edson-avenue-bronx-ny-10469--2
+- Example house, 2801 Gunther Avenue (10469): "solid brick corner-lot 2 family home", 1960 build, "2-bedroom unit over a 1-bedroom unit", finished walkout basement with studio-style setup, kitchenette, full bath and laundry; driveway parking. — https://www.estately.com/listings/info/2801-gunther-avenue-bronx-ny-10469
+- Another listing describes a "Detached two family home" in the Baychester section (listing expired, no further detail). — https://www.nestseekers.com/5317467/detached-twofamily-home-located-in-the-desirable-baychester
+- Fiber availability, Baychester (commercial comparison site): Verizon Fiber 99.91%, EarthLink Fiber 99.91%, Optimum Fiber 99.78% ("About 99.78%, or 24,597 people, have Optimum fiber internet available"). — https://bestneighborhood.org/fiber-tv-and-internet-baychester-bronx-ny/
+- Co-op City and Fios (Bronx Times, Feb 2, 2016): residents, CWA and elected officials rallied Jan 22 for Fios; article says Verizon "has refused to bring FiOS into Co-op City"; Cablevision named as the current provider; CWA poll claimed 72% wanted a choice. — https://www.bxtimes.com/co-op-city-wants-fiosverizon-ignores-call/
+- Optimum at Co-op City (Optimum press, Dec 18, 2025): speeds upgraded for thousands of customers at no extra cost, five-year price lock, "speeds of up to 1 Gig". No fiber or Riverbay agreement mentioned. — https://www.optimum.com/about-us/news/articles/optimum-empowers-co-op-city-residents-enhanced-connectivity-and-community-support
+- Bay Plaza Shopping Center (Wikipedia): "the largest shopping center in New York City", about 1,300,000 sq ft, built 1987–1988 by Prestige Properties, between Bartow and Baychester Avenues just outside Sections 4 and 5 of Co-op City, at the Hutchinson River Parkway and I-95; expanded to about 2,000,000 sq ft after summer 2014. — https://en.wikipedia.org/wiki/Bay_Plaza
+- The Mall at Bay Plaza (Wikipedia): 780,000 sq ft enclosed, opened August 14, 2014, over 100 specialty stores, food court, Macy's (three levels, 160,000 sq ft) and JCPenney (150,000 sq ft) anchors, garage for 1,800 cars, "first enclosed anchored fashion mall opened in the New York City area in almost 40 years". Wikipedia gives cost as US$65 million; Bronx Times gives $300 million (conflict — cost left out of the page). — https://en.wikipedia.org/wiki/Bay_Plaza
+- Mall opening (Bronx Times): opened Thursday Aug 14, 2014; four restaurants and a food court; 71% open at opening; "more than 1,700 jobs". — https://www.bxtimes.com/bay-plaza-mall-to-open-aug-14/
+- Bay Plaza history (Bronx STATS 2020, Schneps): built in the late 1980s "on an open lot that was previously used to dump old tires and garbage"; tenants over the years included Staples, Marshalls, JCPenney, Old Navy, an AMC theater, a fitness club, office space and restaurants. — https://digital-editions.schnepsmedia.com/BS11202020/page_68.html
+- Mall street address 200 Baychester Ave, 10475 (from the camera research pack, mall directory). — https://cdn.placewise.com/Prestige/bayplaza/files/MABP_2022_5_6_StoreDirectory_forsite.pdf
+- 290 Baychester Avenue: a multi-tenant "Retail - Power Center", 25,168 SF on 1.42 acres, built 1999, with six spaces listed available. — https://www.commercialcafe.com/commercial-property/us/ny/bronx/bay-plaza-shopping-center-290-baychester-avenue/
+- 500 Baychester Avenue at Bartow: planned single-story 9,800 sq ft retail building with a 25-space lot (2015). — https://newyorkyimby.com/2015/10/new-retail-planned-for-500-baychester-avenue-co-op-city.html
+- Medical on Bartow Avenue: Montefiore Co-op City (Bartow), 2100 Bartow Avenue, Suite 311 — adult primary care, pediatrics, behavioral health, telehealth visits and lab services. — https://montefioreeinstein.org/patient-care/services/primary-care/locations/bronx/coop-bartow
+- CityMD Baychester urgent care at 2146 Bartow Avenue, 10475. — https://www.citymd.com/urgent-care-locations/ny/bronx/baychester/030
+- Boston Road retail: listings for a 2,500–7,500 SF corner retail space at 3490 Boston Road "with parking & drive through potential". — https://commercialsearch.com/commercial-property/us/ny/bronx/2-500-7-500-sf-3490-boston-road-prime-corner-retail-location-with-parking-drive-through-potential-for-lease
+- Schools (Wikipedia): P.S. 169 Baychester Academy (3500 Edson Avenue), P.S. 78 Anne Hutchinson (1400 Needham Avenue), M.S. 144 Michelangelo (2545 Gunther Avenue), Harry S. Truman High School in Co-op City. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- NYC public school bandwidth (City Council education hearing, March 13, 2025): DOE CIO said about 1,250 of 1,350 sites upgraded, every location eligible for 1 GB, about 20 schools a month. (So public-school networks are run by DOE, not by neighborhood contractors.) — https://citymeetings.nyc/city-council/2025-03-13-1000-am-committee-on-education/chapter/progress-on-bandwidth-upgrades-in-nyc-schools
+- Libraries: NYPL Eastchester branch, 1385 East Gun Hill Road, one-story 7,500 sq ft building since 1985; NYPL Baychester branch, 2049 Asch Loop North in Co-op City, opened 1973. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- Post offices: Hillside Station (3482 Boston Road) and Baychester Station (1525 East Gun Hill Road). 47th Precinct at 4111 Laconia Avenue; Engine 38/Ladder 51 at 3446 Eastchester Road. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- HPD/311/DOB permit records specific to cabling in Baychester: EMPTY (not queried; no results surfaced in search).
+- LPC landmarks or historic districts in Baychester: EMPTY (none found).
+- Reddit threads on cabling/ethernet in Baychester or Co-op City: EMPTY.
+- Riverbay / Co-op City contractor or alteration rules: EMPTY (no published Riverbay rules found).
+
+### History, streets, buildings, landmarks
+- Transit: 5 train at Baychester Avenue and Gun Hill Road; buses Bx25, Bx26, Bx28, Bx30, Bx31, Bx38, BxM10; Bee-Line BL60, BL61, BL62 to Westchester. — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- Freedomland U.S.A. operated 1959/1960–1964 on today's Co-op City site. — https://en.wikipedia.org/wiki/Baychester,_Bronx ; https://en.wikipedia.org/wiki/Bay_Plaza
+- Demographics (2000): 63,345 residents; now predominantly "West Indian". — https://en.wikipedia.org/wiki/Baychester,_Bronx
+- (From camera pack) 81% of homes built 1940–1969, mostly owner-occupied (NeighborhoodScout); median build year 1953 (Point2); Tudor and Colonial Revival houses between Boston Road and Eastchester Road (CityNeighborhoods); 2006 Village of Baychester rezoning (65% one- and two-family detached; only detached allowed); 2011 Williamsbridge/Baychester rezoning (181 blocks); Haffen Park pool $13.4M rebuild at 1810 Burke Ave (YIMBY, May 2026); Co-op City 35 towers, 7 townhouse clusters, 15,372 units (Wikipedia); Hutchinson River Parkway section 1937–1940; Baychester Avenue station opened 1912.
+- Retail theft at a Baychester Avenue store (CBS) — in camera pack; not used here.
+
+### Questions people ask — Structured Cabling Installation in Baychester
+- Google PAA (verified): EMPTY (not accessible in build env)
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- How much does structured cabling installation cost in NYC? — contractor FAQ (not verified PAA) — https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx
+- Does low-voltage cabling in NYC require a permit? — contractor FAQ — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Do I need a licensed electrician for data cabling in the Bronx? — contractor FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Who can run ethernet cable through your walls? — Angi article title — https://www.angi.com/articles/who-can-install-ethernet-wiring.htm
+- How much does it cost to wire a new home in NYC? — contractor blog title — https://unifinerds.com/cost-to-wire-new-home-nyc/
+- How hard is running ethernet cable through your house? / Who would I hire? — Slickdeals forum — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+- How do I wire a home for ethernet room by room? — contractor guide title — https://datawiresolutions.com/blog/how-to-wire-home-for-ethernet-room-by-room
+- Recommendations for pulling Cat6 in an existing home: DIY or hire someone? — IPCamTalk forum — https://ipcamtalk.com/goto/post?id=64751
+- Why won't Verizon bring Fios to Co-op City? — Bronx Times / CWA campaign — https://www.bxtimes.com/co-op-city-wants-fiosverizon-ignores-call/
