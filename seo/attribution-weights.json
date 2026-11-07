@@ -1,12 +1,11 @@
 {
  "area": {
-  "bronx": 490.94,
-  "brooklyn": 13912.080000000002,
+  "bronx": 489.94,
+  "brooklyn": 13911.080000000002,
   "congers": 291.53,
   "great-neck": 1.0,
   "hempstead": 1.0,
-  "hicksville": 162.94,
-  "new-york": 2069.39,
+  "new-york": 1756.37,
   "orangeburg": 1441.39,
   "purchase": 270.94,
   "richmond-hill": 506.27,
@@ -17,12 +16,11 @@
   "the-bronx": 2491.88,
   "thornwood": 198.0,
   "wappingers-falls": 1.0,
-  "westchester": 1200.03,
-  "whitestone": 1.0
+  "westchester": 1200.03
  },
  "generated": "2026-11-06T08:15:00.001481+00:00",
  "service": {
-  "security-camera": 1137.52
+  "security-camera": 1136.52
  },
  "window_days": 30
 }
