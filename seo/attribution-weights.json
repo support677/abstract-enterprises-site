@@ -1,7 +1,7 @@
 {
  "area": {
   "bronx": 489.94,
-  "brooklyn": 14182.27,
+  "brooklyn": 14314.59,
   "congers": 291.53,
   "hempstead": 1.0,
   "new-york": 1756.37,
@@ -18,7 +18,7 @@
   "westchester": 1200.03,
   "white-plains": 1358.7
  },
- "generated": "2026-11-07T08:14:59.999282+00:00",
+ "generated": "2026-11-08T08:15:00.001053+00:00",
  "service": {
   "security-camera": 1136.52
  },
