@@ -213,7 +213,7 @@ LIVE | lorex-vs-reolink | Comparison: Lorex vs Reolink | NYC hub | up / | (800) 
 LIVE | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | ring-vs-nest | Comparison: Ring vs Nest | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-08T18:16Z max-daily | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -655,8 +655,8 @@ LIVE | structured-cabling-installation-bath-beach-brooklyn-ny | Structured Cabli
 LIVE | structured-cabling-installation-bathgate-bronx-ny | Structured Cabling Installation | Bathgate, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-bay-ridge-brooklyn-ny | Structured Cabling Installation | Bay Ridge, Brooklyn | up /structured-cabling-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | structured-cabling-installation-baychester-bronx-ny | Structured Cabling Installation | Baychester, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Installation | Belmont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-08T18:16Z max-daily | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Installation | Belmont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-08T18:16Z max-daily | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -935,10 +935,10 @@ LIVE | security-camera-installation-east-flatbush-brooklyn-ny | Security Camera 
 LIVE | security-camera-installation-east-new-york-brooklyn-ny | Security Camera Installation | East New York, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-installation-east-williamsburg-brooklyn-ny | Security Camera Installation | East Williamsburg, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-eastchester-bronx-ny | Security Camera Installation | Eastchester, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | security-camera-installation-fort-greene-brooklyn-ny | Security Camera Installation | Fort Greene, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | security-camera-installation-greenwood-heights-brooklyn-ny | Security Camera Installation | Greenwood Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-08T18:16Z max-daily | security-camera-installation-fort-greene-brooklyn-ny | Security Camera Installation | Fort Greene, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-08T18:16Z max-daily | security-camera-installation-greenwood-heights-brooklyn-ny | Security Camera Installation | Greenwood Heights, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-indian-village-bronx-ny | Security Camera Installation | Indian Village, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | security-camera-installation-kensington-brooklyn-ny | Security Camera Installation | Kensington, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-08T18:16Z max-daily | security-camera-installation-kensington-brooklyn-ny | Security Camera Installation | Kensington, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-madison-brooklyn-ny | Security Camera Installation | Madison, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-midwood-brooklyn-ny | Security Camera Installation | Midwood, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | security-camera-installation-ocean-parkway-brooklyn-ny | Security Camera Installation | Ocean Parkway, Brooklyn | up /security-camera-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
