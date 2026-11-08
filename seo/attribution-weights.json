@@ -1,9 +1,8 @@
 {
  "area": {
   "bronx": 489.94,
-  "brooklyn": 14183.27,
+  "brooklyn": 14182.27,
   "congers": 291.53,
-  "great-neck": 1.0,
   "hempstead": 1.0,
   "new-york": 1756.37,
   "orangeburg": 1441.39,
@@ -13,7 +12,7 @@
   "staten-islan": 2068.63,
   "staten-island": 6886.05,
   "stormville": 1.0,
-  "the-bronx": 2491.88,
+  "the-bronx": 1969.28,
   "thornwood": 198.0,
   "wappingers-falls": 1.0,
   "westchester": 1200.03,
