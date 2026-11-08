@@ -66,6 +66,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-07 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 1 indexed (d-link queens, URL is on Google), 0 failed, 2363 queued. All other inspections were not on Google (alarm-com bronx/putnam and first-alert dutchess were "URL is unknown to Google"). The first Request-indexing clicks closed the live-test dialog with no result until the Search Console page was reloaded; reloading before each URL fixed it. alarm-com putnam's first attempt was cut off mid-test, then succeeded on retry. "Quota Exceeded" on the 12th request (d-link manhattan, Discovered - currently not indexed), which stays QUEUED; next run starts there.
 2026-11-07 evening (scheduled, 01:53 UTC Nov 8, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2369 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-08T01:53:21Z, 2835 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2088 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected d-link manhattan (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at d-link manhattan.
+2026-11-08 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2358 queued. All 11 inspected as not on Google (d-link manhattan/staten island and q-see brooklyn were "URL is unknown to Google"; the rest Discovered - currently not indexed). d-link nassau county's first attempt was cut off mid live-test, then succeeded on retry. "Quota Exceeded" on the 12th request (q-see nassau county, Discovered - currently not indexed), which stays QUEUED; next run starts there.
+
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -181,17 +183,17 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/first-alert-camera-installation-prices-ulster-county | REQUESTED 2026-11-07
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-brooklyn | REQUESTED 2026-11-07
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-queens | INDEXED 2026-11-07
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-staten-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-nyc | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-manhattan | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-staten-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-long-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-manhattan | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-staten-island | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-nassau-county | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/d-link-camera-installation-prices-orange-county | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-nyc | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-brooklyn | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-queens | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-bronx | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-manhattan | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-staten-island | REQUESTED 2026-11-08
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-long-island | REQUESTED 2026-11-08
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-nassau-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-suffolk-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-westchester-county | QUEUED
