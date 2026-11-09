@@ -156,7 +156,7 @@ Audit fails any of these → page goes back to rebuild, not to deploy:
 - [ ] Elements 4, 5, 5.5, 6, 7, 7.5, 8, 8.5, 9, 10, 10.5, 11, 12, 13, 14, 15, 15.5, 16, 17, 18, 19, 20 visible in body
 - [ ] Title ≤ 60 chars
 - [ ] Silo cross-link block (§19) links only to same-service, same-borough siblings
-- [ ] 87 keywords × 3 geo modifiers density check passed
+- [ ] Keywords used naturally (Nov 9 2026, replaces the old "87 keywords × 3 geo modifiers" density check): main keyword in title, URL, H1 and first sentence; Anwar's keyword list covered where it reads naturally; no keyword counting, no repeated phrase runs (Google has no preferred keyword density, and stuffing lowers AI citations)
 - [ ] FAQ (§17) and Q&A (§9) have ZERO duplicate questions across silo
 - [ ] Every neighborhood/landmark/street is REAL and verifiable
 - [ ] FAQ schema (§18) matches FAQ section (§17)
