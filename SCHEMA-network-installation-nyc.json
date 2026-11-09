@@ -570,34 +570,8 @@
     ]
   },
   {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "name": "Anwar Jeffres",
-    "jobTitle": "Licensed Low Voltage Contractor",
-    "worksFor": {
-      "@type": "Organization",
-      "name": "Abstract Enterprises Security Systems",
-      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn"
-    },
-    "hasCredential": {
-      "@type": "EducationalOccupationalCredential",
-      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
-      "identifier": "12000287431"
-    },
-    "knowsAbout": [
-      "Network installation",
-      "Structured cabling",
-      "Wireless network design",
-      "VLAN segmentation",
-      "Power over Ethernet",
-      "Fiber optic backbone",
-      "Network troubleshooting"
-    ],
-    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc",
-    "sameAs": [
-      "https://www.instagram.com/security_cameras_new_york",
-      "https://www.youtube.com/@openeye0007",
-      "https://x.com/Abstract00007"
-    ]
+    "@type": "Organization",
+    "name": "Abstract Enterprises Security Systems",
+    "url": "https://www.abstractenterprisessecuritysystems.com/"
   }
 ]

@@ -588,7 +588,7 @@
           ' incl. tax; balance $' + balance.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' due on completion)';
       }
       const tax = Math.round(amount * (area.rate / 100) * 100) / 100;
-      // Anwar, Oct 25 2026 HARD rule: card payments carry a 3% card fee. NY GBL 518: the total
+      // Oct 25 2026 rule: card payments carry a 3% card fee. NY GBL 518: the total
       // card price is shown before payment, and the no-fee route is offered alongside it.
       const noFeeTotal = Math.round((amount + tax) * 100) / 100;
       const cardFee = Math.round(noFeeTotal * CARD_FEE_RATE * 100) / 100;
