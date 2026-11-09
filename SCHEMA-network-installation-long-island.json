@@ -1,0 +1,550 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+    "name": "Abstract Enterprises Security Systems",
+    "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island",
+    "telephone": "+1-800-486-0943",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1282 Troy Ave",
+      "addressLocality": "Brooklyn",
+      "addressRegion": "NY",
+      "postalCode": "11203",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Nassau County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Suffolk County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Long Island"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "201"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Network Installation",
+    "name": "Network Installation Long Island",
+    "description": "Commercial network installation across Nassau and Suffolk County: telecom room and zone planning for wide floor plates, network design, managed and PoE switching, routers and firewalls, VLAN segmentation, business Wi-Fi access point design, network rack buildout, building-to-building fiber, certification, documentation and network repair.",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island",
+    "provider": {
+      "@type": "LocalBusiness",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+      "name": "Abstract Enterprises Security Systems",
+      "telephone": "+1-800-486-0943"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Nassau County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Suffolk County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Long Island"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Network installation services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network design and site survey"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed and PoE switch installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Router and firewall installation with VLAN segmentation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Business Wi-Fi access point installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network rack and telecom closet buildout"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fiber backbone and building-to-building links"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network repair and troubleshooting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.abstractenterprisessecuritysystems.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Network Installation NYC",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Network Installation Long Island",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How a Long Island network installation runs",
+    "description": "The five stages of a commercial network installation on Long Island, from walking the building and measuring the worst run through design, plant and backbone, telecom rooms and equipment, to certification and documented handover.",
+    "totalTime": "P3D",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Cat6 and Cat6A cable"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Patch panels and keystone jacks"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Network rack or wall cabinet"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Managed PoE switch"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Router or firewall"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Wireless access points"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Cable certification tester"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Wireless survey meter"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Punch-down tool"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Fish tape and glow rods"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Walk the building and measure the worst run",
+        "text": "Floor plan first, then the building itself: where people sit, where the electrical room is, where the provider's circuit enters, what the walls and ceiling are made of, and how far the furthest planned outlet is from each candidate telecom room. On a wide footprint this walk produces the zone plan.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Design and quote",
+        "text": "Telecom room count and placement, addressing scheme, VLAN plan, switch sizing with power headroom per room, access point count and placement, equipment list and a line-item price, agreed before anything is ordered.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Plant, pathway and backbone",
+        "text": "Fiber between telecom rooms first, then copper from each room out to its zone, on supported pathway, plenum-rated where required, firestopped at rated penetrations.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Rooms and equipment",
+        "text": "Network rack or cabinet in each room with panels, management, power and UPS. Switching, edge device and access points mounted, powered and configured, with the PoE budget verified per room under load.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Test, validate and hand over",
+        "text": "Every drop certified, a wireless validation walk including the far corners and warehouse aisles, then the documentation package: port map, as-built with zone boundaries and fiber route, addressing scheme, equipment list and administrative credentials.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island#process"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does network installation cost on Long Island?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small office suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A single-story building for twenty-five to fifty users starts near $14,900, and the difference from a comparable city floor is the second telecom room and the fiber link between rooms rather than any premium on labour. Individual items are priced on their own: firewall install with a rule set $450 to $900, managed switch install and configuration $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop and $300 where a run has to be pulled, $375 in high-bay warehouse space, rack build $650, second telecom room with a fiber link from $2,400. Nassau and Suffolk are core markets and carry no travel loading — these are the same rates we publish for New York City."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why does a wide Long Island building need more than one telecom room?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because copper horizontal cabling is limited to a hundred metres, and that hundred metres is cable as installed rather than the distance you would pace out. Once the vertical drops and pathway detours are counted, usable reach from a single room is roughly seventy metres in any direction. A typical Island flex or office building of 30,000 square feet is often 300 feet by 100 feet, and the telecom room usually ends up in the electrical room at one end because that is where the power and the incoming circuit are. The far corner is then more than 300 feet of cable away. Every drop in the back third is either out of spec or was installed anyway and now sits at the edge of what it can do — which is where you get gigabit links quietly negotiating down and PoE devices behaving inconsistently. The fix is a second room placed centrally to the zone it serves, linked back with fiber. It costs a few thousand dollars at build time. Rewiring a third of a building three years later does not."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a commercial network installation on the Island actually include?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A walk of the actual building, a telecom room and zone plan, a written design covering IP addressing and VLANs, the physical pathway and cabling, the network rack or wall cabinet in each room with patch panels and power, the switching, the router or firewall, the WiFi installation — wireless design, access point placement and tuning — the configuration of all of it, certification on every drop, and a documentation package at handover. The documentation is the part clients most often discover was missing from a cheaper quote: a port map naming which panel port in which room lands at which outlet, an as-built showing zone boundaries and the fiber route, the VLAN and addressing scheme written down, and the credentials handed over rather than kept."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Network installation or structured cabling — which am I actually buying?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Structured cabling is the physical plant — cable, pathway, terminations, patch panels, testing. Network installation is the working network that runs on top of it: switching, the router or firewall, VLANs, wireless coverage, addressing and documentation. Plenty of contractors do the first and hand you a live patch panel with nothing plugged into it, which by their scope is a finished job. We do both layers, which mostly matters on the day something is wrong, because there is nobody to point at. Where the existing plant is sound and only the network above it is missing, that is a scope we quote on its own."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many Wi-Fi access points does my Long Island office need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Count and placement come before any product decision in a Wi-Fi installation. On the Island the count is driven by floor area and layout more than by device density, which is the reverse of the city. A compact 3,000 square foot office park suite is usually fine on two. A single-story 8,000 square foot office in drywall construction typically wants four or five, because the distances are longer even though the walls are friendlier. A flex building is really two designs — three access points for the office portion and three or four over the warehouse, mounted well below the deck. Warehouse space runs roughly one per 5,000 to 10,000 square feet depending on racking and mounting height. Lead-lined imaging rooms in medical suites need their own access point on their own drop, because nothing penetrates the shielding. A floor plan gets you within one; a survey gets it right."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is my office Wi-Fi slow in some areas and fine in others?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Four causes account for nearly all of it, and the same four are behind a network that keeps disconnecting instead of simply feeling sluggish. There are too few access points for the size of the floor plate — the most common cause out here, where buildings are wide and coverage that would be generous in a compact office leaves the back corner short. The access points were mounted where mounting was easy rather than where people sit. There is a genuine obstruction: racking, a lead-lined room, a masonry party wall in an older village building. Or the problem is not wireless at all but a saturated uplink between telecom rooms, which looks like slow Wi-Fi to everyone in that zone. A survey tells you which, and they call for different fixes."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does guest Wi-Fi need to be kept off the staff network?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes — and it is among the least expensive parts of the whole build. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visitor's laptop cannot see your file server, cannot see your printers and cannot consume the whole connection. The same principle applies to card terminals, IP phones, warehouse scanners and building devices — each on its own segment, each unable to reach the others except where you decide it should. On a flex building the operations segment matters as much as the guest one: the shipping floor should not slow down because somebody in accounting moved a large file."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What network equipment does a small business need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "At minimum a business-class router or firewall at the edge, a managed PoE switch sized with headroom, enough access points to cover the floor area, and somewhere ventilated and lockable to put it. What a small business does not need is a consumer router carrying twenty-five people, which is the single most common thing we replace. Beyond the minimum the useful additions are a UPS in each telecom room, a second switch when you outgrow the first rather than a daisy chain of unmanaged ones under desks, and enough PoE budget that adding devices later does not mean replacing the switch. On a multi-room building the UPS point matters more than people expect — protecting only the main room leaves two thirds of the network exposed."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does a Long Island network installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small office suite is one to two days on site. A single-story building for twenty-five to fifty users with two telecom rooms is four to six days, with the fiber link and the second room accounting for the difference. A flex or industrial building with high-bay wireless runs a week or more, largely because lift work is slower than ladder work. Multi-building sites depend entirely on the exterior pathway — an aerial fiber run between two buildings is a day, an underground one is a different project. The items most likely to move a date are outside our control: the provider's circuit install, the demarc extension if it has to cross the building, and drywall sequencing on a fit-out. Dates get built in reverse from the day staff actually move in, and we name the item most likely to slip."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you upgrade our network without shutting the business down?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually yes. The approach is to stand the new network up beside the old one. New cable, the new racks, the new switching and the new access points go in while the existing network stays live, and the cutover is a single short window out of hours — often under two hours per zone. Access points get swapped one at a time so coverage never fully drops. On a multi-room building we can cut over zone by zone across separate evenings rather than taking the whole site at once, which is the usual approach for medical suites and anything with a warehouse operation that cannot pause. The exception is a full rewire where the old cable physically occupies the only available pathway."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a wireless site survey, and is it worth it on Long Island?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A survey measures how radio actually behaves in your specific building instead of predicting it from a floor plan. Out here it earns its cost in a narrower set of buildings than it does in the city, because suburban construction is friendlier to radio and spectrum is far less congested. Pay for it when there is racking, because a warehouse cannot be modelled honestly from a plan; when the footprint is very wide, because small errors in wall assumptions compound over distance; when it is a medical suite with shielding and dense partitions; and whenever a previous WiFi installation already failed, since the survey tells you whether the fault was count, placement, spectrum or the building itself. Skip it for a straightforward drywall suite under about 4,000 square feet — we will say so, and that money buys another access point. The fee is $450, credited against the project, and the post-installation validation walk is included either way."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a managed switch necessary in a multi-room building?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "An unmanaged switch is fine when the network is flat, small and you never need to know what is happening on it. The moment you want guest traffic separated from staff traffic, phones on their own VLAN with priority, warehouse operations kept off the office segment, the ability to see which port is saturating, or PoE you can budget and monitor, you need a managed switch. Past about eight people it pays for itself the first time something goes wrong, because it is the difference between diagnosing a problem in ten minutes and guessing at it for an afternoon. In a multi-room building it is not really optional — you cannot troubleshoot a zone you cannot see into."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work after hours and weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and for a lot of Island work it is the only workable schedule. Medical and dental practices are booked through the day, retail cannot close, warehouses ship on a clock, and occupied office suites do not want ladders over desks. We do not charge a premium on the labour itself for evening or weekend work; we do need to know at quoting time so the crew is staffed and access is arranged with the landlord or building manager in advance. Multi-tenant office park buildings sometimes have their own after-hours rules about HVAC and building access that are worth confirming before a date is set."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Cat6 or Cat6A for the runs that feed access points?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cat6A for access point drops in almost every commercial case, and the reason is power and headroom rather than raw speed. Current Wi-Fi 6E and Wi-Fi 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors handle that power with less heat rise across a bundle than Cat6 does. Cat6A also carries ten gigabit to the full hundred metres, which matters because access point backhaul is the drop most likely to be outgrown — the access point gets replaced every five to seven years while the cable above the ceiling stays for fifteen. Cat6 is genuinely fine for desk drops, printers and general connectivity, so a mixed plant is common: Cat6 to the workstations, Cat6A to every ceiling position. You pay the premium only where the drop actually warrants it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who installs business networks on Long Island?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Business network installation in Nassau and Suffolk is done by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer should establish which of those three they are talking to before a price is discussed. We are the first kind and do both layers ourselves — a licensed network installer that also configures what it installs: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working across both counties from Great Neck to Riverhead. That covers the survey and telecom room plan, the network design and addressing, the cabling and pathway, the racks, the switching, the router or firewall, VLAN segmentation, wireless design and tuning, building-to-building fiber, certification testing, documentation and credential handover, plus repair and takeover of networks somebody else built. Certificates of insurance are issued to landlords and managing agents on request."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-managed-poe-switch-rack-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-managed-poe-switch-rack-install.webp",
+        "name": "Network installation Long Island — managed PoE switch rack install",
+        "caption": "A 24-port PoE+ switch going in under two dressed patch panels. On a wide Island building this same rack repeats in every telecom room.",
+        "description": "Network installation Long Island technician rack-mounting a 24-port PoE managed switch below Cat6 patch panels with gateway and firewall",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": true
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-two-tech-corridor-cable-pull.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-two-tech-corridor-cable-pull.webp",
+        "name": "Office network installation Long Island — corridor pull to the telecom room",
+        "caption": "Two-tech pull back toward the telecom room. On a long floor plate the pull is the easy part; deciding where the room goes was the work.",
+        "description": "Office network installation Long Island two technicians pulling Cat6 toward an IT closet in a commercial building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-idf-riser-cable-bundle.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-idf-riser-cable-bundle.webp",
+        "name": "Network installation Long Island — second telecom room feed",
+        "caption": "The bundle entering IDF-2. On a 300-foot building the second room is not a luxury — it is what keeps every run inside a hundred metres.",
+        "description": "Network installation Long Island technician dressing a cable bundle into a second telecom room marked IDF-2",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-cat6-cable-box-staging-fitout.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-cat6-cable-box-staging-fitout.webp",
+        "name": "Commercial network installation Long Island — cable staged for a zone pull",
+        "caption": "Boxes staged for a zone pull during a fit-out. Cable rating is picked per pathway — riser in the walls, plenum where the ceiling is a return.",
+        "description": "Commercial network installation Long Island technician staging Cat6 boxes for a multi-drop pull in a flex building fit-out",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-workstation-data-outlet-termination.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-workstation-data-outlet-termination.webp",
+        "name": "Network installation Long Island — workstation data outlets",
+        "caption": "Two ports per desk position — one for the workstation, one for a phone or whatever gets added next year.",
+        "description": "Network installation Long Island technician terminating dual data outlets at an office workstation position",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-wireless-access-point-ceiling-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-wireless-access-point-ceiling-install.webp",
+        "name": "Wi-Fi installation Long Island — ceiling access point mount",
+        "caption": "Access point going up on the grid. On a wide floor plate the count is driven by distance and layout rather than by device density.",
+        "description": "Wi-Fi installation Long Island technician mounting a ceiling wireless access point in a commercial office suite",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-drop-conduit-emt-riser.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-drop-conduit-emt-riser.webp",
+        "name": "Network installation Long Island — conduit at the telecom room",
+        "caption": "Cable dropped into EMT on a building that mandates conduit. On slab construction the provider's entry point rarely lands where the equipment should live.",
+        "description": "Network installation Long Island technician running cable into EMT conduit beside a telecom room in a masonry building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-rack-cleanup-before-after.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-rack-cleanup-before-after.webp",
+        "name": "Network rack cleanup Long Island — before and after",
+        "caption": "The same closet before and after. Nothing added to the building — re-routed, re-terminated where needed, dressed and labelled.",
+        "description": "Network rack cleanup Long Island before and after showing a tangled unlabelled closet rebuilt into a dressed labelled rack",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-cable-labeling-port-map.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-cable-labeling-port-map.webp",
+        "name": "Network installation Long Island — labelling and port map",
+        "caption": "Labels printed at the panel go into the port map in the same pass. In a three-room building this document is the whole difference.",
+        "description": "Network installation Long Island technician applying printed labels at a patch panel beside a printed port map",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-cable-toner-tracing.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-network-cable-toner-tracing.webp",
+        "name": "Network repair Long Island — tracing an inherited run",
+        "caption": "Tracing a run nobody labelled. Most takeouts start here, and it argues for documentation better than any sales page.",
+        "description": "Network repair Long Island technician tracing an unlabelled run at a patch panel with a tone generator and probe",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-fluke-dsx-certification-pass.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-fluke-dsx-certification-pass.webp",
+        "name": "Network installation Long Island — certifying a finished drop",
+        "caption": "Certified from the outlet end, one drop at a time. On wide buildings the length result is the one worth reading twice.",
+        "description": "Network installation Long Island technician certifying a data drop with a cable analyzer showing a PASS result at a wall outlet",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-retrofit-wall-fish-data-drop.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-retrofit-wall-fish-data-drop.webp",
+        "name": "Network installation Long Island — retrofit drop through a finished wall",
+        "caption": "Fishing a drop through a finished wall. The same cable before drywall costs a fraction — the rough-in window is the cheapest labour on the job.",
+        "description": "Network installation Long Island technician fishing cable through a finished wall for a retrofit data drop",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-core-drill-cmu-wall-penetration.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-core-drill-cmu-wall-penetration.webp",
+        "name": "Network installation Long Island — core drilling a wall penetration",
+        "caption": "Core drilling through block on a slab building. Penetrations get firestopped to the rated assembly and documented in the closeout package.",
+        "description": "Network installation Long Island technician core drilling a block wall to carry cable through to a telecom room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-jhook-ceiling-pathway-bundles.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-long-island-jhook-ceiling-pathway-bundles.webp",
+        "name": "Network installation Long Island — supported J-hook pathway",
+        "caption": "Cable belongs on a supported pathway, not on the ceiling grid — J-hooks at regular intervals, clear of fixtures and parallel power.",
+        "description": "Network installation Long Island J-hook ceiling pathway carrying dressed cable bundles across a commercial ceiling",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anwar Jeffres",
+    "jobTitle": "Licensed Low Voltage Contractor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Abstract Enterprises Security Systems",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
+      "identifier": "12000287431"
+    },
+    "knowsAbout": [
+      "Network installation",
+      "Wireless network installation",
+      "Telecom room and zone planning",
+      "VLAN segmentation",
+      "Power over Ethernet",
+      "Building-to-building fiber",
+      "Network troubleshooting"
+    ],
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-long-island",
+    "sameAs": [
+      "https://www.instagram.com/security_cameras_new_york",
+      "https://www.youtube.com/@openeye0007",
+      "https://x.com/Abstract00007"
+    ]
+  }
+]

@@ -1,0 +1,325 @@
+# Abstract Enterprises Site — Page Blueprint
+
+**Owner:** Anwar Timothy
+**Status:** v2.1 (canonical, single source of truth)
+**Scope:** every service × area page on `abstractenterprisessecuritysystems.com`
+**Last revised:** 2026-05-07
+
+> Any AI session, contractor, or human touching this site reads this file FIRST. No exceptions. Pages built without compliance to this blueprint are rejected and rebuilt.
+
+---
+
+## 1. The Hard Rules (non-negotiable)
+
+1. **No find-and-replace city swaps.** Ever. Every page is written from scratch with research specific to that neighborhood/county.
+2. **Real local research first.** All 7+ research sources (§3) must be searched BEFORE writing a single line of HTML. No exceptions.
+3. **Every neighborhood, landmark, street, building, and stat must be REAL and LOCAL.** No invented landmarks. No stat that didn't come from a source.
+4. **100% unique Q&A/FAQ per page.** Zero duplicate questions across pages in the same silo. Every answer written from scratch.
+5. **Title ≤ 60 characters.** Hard cap.
+6. **Mandatory post-build audit (§7) before file delivery.** Never skip.
+7. **Cumulative deploy zips.** Pages ship as `site-rebuild-N.zip`, never as scattered files.
+8. **GBP routing (§8) is enforced on every page.** Wrong GBP = page rejected.
+9. **Silo cross-links on every sibling page.** Service-correct, area-correct. No wrong-service blocks.
+10. **No reuse of body content across pages**, including the "Why X Properties Need Y" intro, FAQ, landmarks, packages, or process — all rewritten per neighborhood.
+
+---
+
+## 2. Detection Patterns That Mean "Cloned" (auto-reject)
+
+A page is rejected if any of these are true:
+
+- File size within ±2KB of another page in the same silo (size-cluster = clone signature).
+- Two non-sibling pages share an identical FAQ question.
+- Landmarks section reuses a landmark on a page where that landmark is geographically wrong.
+- A page's silo cross-link block links to a different service's siblings (e.g. fire-alarm page linking to alarm-installation siblings).
+- A page named `*-bronx-ny.html` contains "All 76 Brooklyn Neighborhoods" or any Brooklyn-only block.
+
+---
+
+## 3. Mandatory Research Sources (search BEFORE writing HTML)
+
+Search all of these for the specific neighborhood/county before drafting:
+
+| # | Source | What to extract |
+|---|---|---|
+| 1 | Reddit (r/[neighborhood], r/Brooklyn, r/AskNYC, etc.) | Real resident concerns, complaints, slang, recent incidents |
+| 2 | Google PAA (People Also Ask) | Top 8-12 questions for "[service] [neighborhood]" |
+| 3 | PASF (People Also Search For) | Related queries / lateral keywords |
+| 4 | Answer the Public | Question fan-out for service+area |
+| 5 | AI Overview (Google SGE) | What Google's AI says about the topic — write a "Reality Check" section |
+| 6 | Area landmarks | Real streets, parks, buildings, transit, schools, military bases |
+| 7 | Area-specific use cases | What types of buildings/properties dominate (row houses, co-ops, brownstones, ranches, estates, commercial strips) |
+| 8 | Bing & DuckDuckGo (v2.1) | Cross-check that Google isn't the only signal |
+| 9 | Local news outlets (v2.1) | Recent news mentioning the neighborhood/service category |
+| 10 | Hyperlocal outlets (v2.1) | Patch, BKReader, Bronx Times, neighborhood blogs |
+| 11 | Yelp reviews (v2.1) | What residents complain about / praise re: similar services |
+
+Rule: if any of these comes back empty for the neighborhood, document it in the page draft notes — don't fabricate to fill the gap.
+
+---
+
+## 4. Page Structure — v2.0 Spec (22 elements, all required)
+
+Section order is fixed. Section labels (the small uppercase eyebrow text above each H2) are fixed. Content inside each section is unique per page.
+
+### Head + Hero (elements 1–3)
+
+1. **`<title>`** — `[Service] [Neighborhood] [Borough] NY`. ≤ 60 chars.
+2. **`<meta description>`** — 150-160 chars, must mention the neighborhood + 2 specific local hooks (e.g. "row houses, co-ops").
+3. **`<link rel="canonical">`** — `https://www.abstractenterprisessecuritysystems.com/[slug]` (no trailing slash, no `.html`).
+
+### Hero Section (element 4)
+
+H1 format: `[Service]<br>Installation in<br><span class="ac">[Neighborhood]</span>`
+Hero includes:
+- Pre-headline badge (e.g. "TRUSTED LOCAL INSTALLER")
+- Subhead (1.12rem, max 640px) — neighborhood-specific value prop
+- Two CTAs side-by-side: primary (red) "Get Free Quote", outline "Call (XXX) XXX-XXXX"
+- Inline lead-capture mini-form on the right (name, phone, service dropdown, message, SMS consent checkbox, submit)
+- Stats bar (4 cells): `25+` Years Experience · `✓` Same-Day Estimates · `100%` Licensed & Insured · `$0` Monthly Fees
+
+### Body Sections (elements 5 through 20)
+
+Sections appear in this order. Eyebrow label / H2 title pattern shown:
+
+| # | Eyebrow | H2 pattern | Required content |
+|---|---|---|---|
+| 5 | `THE NEIGHBORHOOD` | "Why [Neighborhood] Properties Need [Service]" | Real local concerns from research (Reddit/news). 3-4 paragraphs. Reference specific building types and resident pain points. |
+| 5.5 | (cont.) | (subsections inside §5) | Bullet list of 4-6 real local stats / facts. |
+| 6 | `WHAT WE INSTALL` | "[Service] Services in [Neighborhood]" | 3-column service card grid (.sc): 6+ specific services with neighborhood-relevant context. |
+| 7 | `BUILDING SPECIALISTS` | "[Service] for [Neighborhood]'s Architecture" | Building-type cards (.cc): row houses, co-ops, brownstones, ranches, multi-family — whatever's true for the area. |
+| 7.5 | (cont.) | (subsections inside §7) | Material/method specifics per building type. |
+| 8 | `COMMERCIAL [SERVICE]` | "Business [Service] in [Neighborhood]" | Commercial block: name 4-6 real local commercial corridors, what businesses operate there. |
+| 8.5 | (cont.) | (subsections inside §8) | Compliance callouts (NYC Building Code, FDNY, ADA) where relevant. |
+| 9 | `YOUR QUESTIONS ANSWERED` | "[Service] in [Neighborhood]: Questions Answered" | 12-14 H2 sub-questions, each with 2-3 sentence answer. All neighborhood-specific. **100% unique across silo.** |
+| 10 | `EQUIPMENT` | "Types of [Service] We Install" | Equipment grid (.sc): 6+ equipment categories with neighborhood-relevant use cases. |
+| 10.5 | `AI OVERVIEW REALITY CHECK` | "What AI Gets Wrong About [Service] in [Neighborhood]" | **800–1,200 words.** 7 H3 subsections. Each H3 has 3 paragraphs. Quote the AI Overview claim, then correct it with local field reality. |
+| 11 | `GET IN TOUCH` | "Request a Free Quote" | Full quote form (name, phone, email, service, message, SMS consent). |
+| 12 | `HOW IT WORKS` | "Our Installation Process" | Numbered process cards (.pc): 4-6 steps. Dark section (.sd). |
+| 13 | `COVERAGE AREA` | "[Service] Near [Neighborhood]'s Landmarks" | Landmark cards (.lcard): 6 real landmarks with 1-line description each. Plus a "We also serve [4 adjacent neighborhoods]" line. |
+| 14 | `PRICING` | "[Service] Cost in [Neighborhood]" | Pricing table or 3-card pricing grid. Local pricing (use area multiplier — see §9). |
+| 15 | `SHOP OUR SYSTEMS` | "[Service] Packages & Pricing" | 3 package cards: starter / standard / premium with $ amounts. |
+| 15.5 | (cont.) | (subsections inside §15) | BYOE labor-only option callout where applicable. |
+| 16 | `COMPLETE SERVICES` | "Every [Service] Service in [Neighborhood]" | Dark section grid linking out to related services on this site. |
+| 17 | `FAQ` | "[Neighborhood] [Service] FAQ" | 8-12 FAQ items in accordion (.fc/.fi). **Different from §9.** |
+| 18 | `FAQ Schema` | (no visible H2) | `application/ld+json` `FAQPage` schema reflecting §17 questions. |
+| 19 | `ALL AREAS SERVED` | "[Service] Across [Borough] Neighborhoods" | Silo cross-link block — links ONLY to other [same service] [same borough] pages (sibling-correct). |
+| 20 | (footer + GBP) | — | Footer with NAP (per §8 routing), GBP schema (`LocalBusiness`), social links. |
+
+---
+
+## 5. v2.1 Additions (elements 21–39)
+
+These are added on top of the v2.0 structure. Some still have unconfirmed specs — flagged below. **Anwar to review and confirm specs before I treat them as locked.**
+
+| # | Element | Spec status |
+|---|---|---|
+| 21 | **Field Notes** — short technician sidebar/callout with a real install anecdote from this neighborhood | spec needs confirmation |
+| 22 | **Author / Person schema** — `Person` schema for Anwar with credentials, license # | spec needs confirmation |
+| 23 | **Freshness stamp** — visible "Updated [Month YYYY]" + `dateModified` in schema | confirmed |
+| 24 | **Comparison subsections** — "[Service] vs [Alternative]" comparison table inside §10 | spec needs confirmation |
+| 25 | **Embedded YouTube short** — silent autoplay neighborhood install short, 30-60s | spec needs confirmation (URL source TBD) |
+| 26 | **Schema stack** — `Service` + `AggregateRating` + `HowTo` JSON-LD blocks alongside `FAQPage` | confirmed structure, ratings source TBD |
+| 27 | **Instant Action Block** — sticky "Call now / Text now / WhatsApp" floating action bar | confirmed |
+| 28 | **Emergency / Repair Capture** — top-of-page red banner for emergency repair pages only | confirmed |
+| 29 | **Mid-page CTA reinforce** — secondary CTA between §10 and §11 | confirmed |
+| 30 | **Cross-sell signals** — sidebar/inline "Customers in [Neighborhood] also got [Other Service]" | spec needs confirmation |
+| 31 | **Alt + filename SEO** — every image has descriptive alt + slug-style filename matching service+neighborhood | confirmed |
+| 32 | **Answer-first block** — the target keyword's answer in the first 100 words of visible body copy (see §12.1) | confirmed (Nov 1 2026) |
+| 33 | **Proof numbers** — real AESS numbers replace vague claims; proof strip under the hero (see §12.3) | confirmed (Nov 1 2026) |
+| 34 | **Keyword placement** — target keyword in title, URL slug, H1 and the start of the first body sentence (see §12.2) | confirmed (Nov 1 2026) |
+| 35 | **TBD** | pending |
+| 36 | (reserved) | — |
+| 37 | **TBD** | pending |
+| 38 | (reserved) | — |
+| 39 | (reserved) | — |
+| 40 | **TBD** | pending |
+| 41 | **TBD** | pending |
+
+---
+
+## 6. Title & Meta Constraints
+
+- `<title>` **≤ 60 chars** — hard cap. Audit fails if over.
+- `<meta description>` **150-160 chars** — under 150 is too short, over 160 truncates in SERP.
+- H1 must contain the service + neighborhood (no exact duplication of `<title>`).
+- One H1 per page. Every other heading is H2 or H3.
+- Canonical URL must use `www.` and must NOT include `.html`.
+
+---
+
+## 7. Mandatory Post-Build Audit (run BEFORE delivery)
+
+Audit fails any of these → page goes back to rebuild, not to deploy:
+
+- [ ] Elements 1, 2, 3 present in `<head>` and hero
+- [ ] Elements 4, 5, 5.5, 6, 7, 7.5, 8, 8.5, 9, 10, 10.5, 11, 12, 13, 14, 15, 15.5, 16, 17, 18, 19, 20 visible in body
+- [ ] Title ≤ 60 chars
+- [ ] Silo cross-link block (§19) links only to same-service, same-borough siblings
+- [ ] 87 keywords × 3 geo modifiers density check passed
+- [ ] FAQ (§17) and Q&A (§9) have ZERO duplicate questions across silo
+- [ ] Every neighborhood/landmark/street is REAL and verifiable
+- [ ] FAQ schema (§18) matches FAQ section (§17)
+- [ ] Sitemap entry added
+- [ ] Mega-nav dropdown entry added
+- [ ] Canonical correct (www, no .html)
+- [ ] GBP schema matches §8 routing for this area
+- [ ] Page passes file-size cluster check (not within ±2KB of any sibling)
+- [ ] All v2.1 elements that apply to this page type are present
+- [ ] §12 checks pass: answer in first 100 words, keyword in title/slug/H1/first sentence, proof strip uses real numbers only, page links to its silo target page (§12.4)
+
+---
+
+## 8. GBP Routing (mandatory)
+
+Brooklyn GBP (1282 Troy Ave, 11203) handles:
+- NYC hub pages
+- Brooklyn (all 76 neighborhoods)
+- Staten Island
+- Long Island (Nassau + Suffolk)
+
+Bronx GBP (460 E Fordham Rd) handles:
+- Bronx (all neighborhoods)
+- Manhattan (all neighborhoods)
+- Queens (all neighborhoods)
+- ALL Hudson Valley counties (Westchester, Rockland, Orange, Putnam, Dutchess, Ulster)
+
+Wrong GBP on a page = rejected.
+
+---
+
+## 9. Area Pricing Multipliers (relative to Brooklyn base = 1.00×)
+
+| Area | Multiplier | Notes |
+|---|---|---|
+| Brooklyn | 1.00× | base |
+| Bronx | 1.00× | parity |
+| Manhattan | 1.25× | high cost / access |
+| Queens | 1.05× | |
+| Staten Island | 1.10× | Verrazano surcharge |
+| Long Island (Nassau) | 1.15× | |
+| Long Island (Suffolk) | 1.20× | |
+| Westchester | 1.25× | |
+| Rockland | 1.30× | |
+| Orange | 1.40× | West Point/Stewart Airport |
+| Putnam | 1.45× | rural-luxury estates |
+| Dutchess | 1.53× | IBM cleanroom protocols |
+| Ulster | 1.53× | Woodstock audiophile baseline |
+
+---
+
+## 10. Process — How a Page Gets Built
+
+1. **Receive URL.** Confirm slug, service, neighborhood, area, GBP routing.
+2. **Run all 7+ research sources (§3).** Save findings to a local notes block. No HTML yet.
+3. **Confirm research is sufficient.** If any source came back empty, document it.
+4. **Draft body content per element spec (§4 and §5).** 100% unique. No reuse from sibling pages.
+5. **Write HTML** following the canonical structure.
+6. **Run post-build audit (§7) end to end.**
+7. **Add to cumulative deploy zip** (`site-rebuild-N.zip`).
+8. **Deliver to Anwar with the audit checklist filled in.**
+
+---
+
+## 11. Things That Are NOT Part of the Blueprint (and never have been)
+
+- "All 76 Brooklyn Neighborhoods" link block on a non-Brooklyn page.
+- Reusing the Bay Ridge body on any non-Bay-Ridge page.
+- Linking the wrong service silo (e.g. fire-alarm page linking to alarm-installation siblings).
+- Using a placeholder phone number, address, or license number.
+- Skipping research sources because the neighborhood is "small" or "obvious."
+
+---
+
+## 12. SEO Plays (added Nov 1 2026 — from Dino Hawari / freeseoknowledge.com, approved by Anwar)
+
+Only plays AESS wasn't already running were added. Already covered elsewhere: content refresh = the daily "GSC zero-click keyword optimizer" task.
+
+### 12.1 Answer first (element 32)
+- Within the first 100 words of visible body copy (directly under the hero subhead), a 2–3 sentence **"Quick answer"** box that answers the page's search intent outright: what it costs in this area (area price range per §9 / [[aess-pricing]] rules — never an invented price), what's included, how fast we book.
+- Product/package pages: a 2–3 sentence summary of features + benefits placed right under the title.
+- Plain text, no fluff, no question restated. It must read as the answer Google or an AI overview would quote.
+
+### 12.2 Keyword placement (element 34)
+- The page's one target keyword appears in: `<title>`, URL slug, H1, and **the opening words of the first body sentence**.
+- Natural phrasing only — no stuffing, no repeating it in every H2.
+
+### 12.3 Proof numbers, not vague claims (element 33)
+- Never write vague claims ("fast, reliable service," "we help you grow," "trusted by many"). Swap each for a real number.
+- **Approved AESS facts (Anwar, Nov 1 2026):**
+  - **25+ years in security**: Anwar has worked in the industry since 2000 and has owned the business since 2002. The corporation (Abstract Enterprises Security Systems, Inc.) was formed in 2018 — use 2002 for "in business since," never 2018. The existing hero stat "25+ Years Experience" is accurate; keep it.
+  - **Thousands of jobs completed** — say "thousands"; do NOT print an exact count until Anwar gives one.
+  - **Booked within 2 hours** of a request (booking/response time — never promise same-day installation).
+  - **Google reviews:** pages keep the rating/count that tools/check_page.py enforces (currently 4.7★ / 201 in the stats bar and AggregateRating schema). Live counts as of Nov 1 2026 are Brooklyn GBP 212 reviews 4.6★ and Bronx GBP 181 reviews 4.7★ (Local Falcon); switching pages to live per-GBP counts is pending Anwar's OK and must be done in check_page.py, page-runner/factory.py and the pages together, never on one page alone.
+- Proof strip directly under the hero stats bar: `Owner-operated since 2002 · Thousands of jobs completed · Booked within 2 hours` (the rating stays in the stats bar so the two never disagree).
+- Never invent numbers, percentages, guarantees, "24/7," or customer counts. If a number isn't on this list, ask Anwar.
+
+### 12.4 Internal links to one target page per keyword
+- Every keyword cluster has ONE target page (usually the page already ranking best for it in Search Console; otherwise the hub page for that service/area).
+- Every other page on the site that's relevant to that keyword links to the target page with a natural, keyword-rich anchor — not just to the homepage.
+- New pages: on build, link to the target page for their keyword cluster and get linked FROM 3–5 relevant existing pages (add a contextual sentence, not a footer dump). Never change an existing page's H1 or URL while adding links.
+- If no good target page exists, build one (keyword in title, slug, H1, first sentence per §12.2), then point the other pages at it.
+- The daily GSC task maintains this automatically (see its step 4b).
+
+### 12.5 Comparison pages (new page type)
+- "X vs Y" pages pull high-buying-intent traffic (example: one SaaS vs-page is worth ~9× its "what is X" guide). Build them as their own page type.
+- Only build pairs people actually search — never every brand against every brand (unsearched pairs end up "crawled – not indexed"). One page per pair; the reversed order ("Reolink vs Lorex") is mentioned on the same page, never a second page.
+- H1 is the exact search phrase plus the question: `Lorex vs Reolink: Which Security Camera System Is Better?` Title ≤60: `Lorex vs Reolink (2026): Which Camera System Wins?` URL `/lorex-vs-reolink`. First sentence opens with "Lorex vs Reolink" and gives the verdict.
+- One hub page, `/best-security-camera-brands`, covers every brand AESS carries and links down to every vs-page; every vs-page links back up to the hub (§12.4).
+- Installer angle every review site lacks: real AESS job photos, the honest call ("fine for DIY" vs "holds up better wired"), and "We install both — here's what we'd put on your property" with the area price.
+- First batch (Nov 1 2026): hub · Lorex vs Reolink · Lorex vs Swann · Ring vs Arlo · Ring vs Nest · Eufy vs Ring · Hikvision vs Dahua · UniFi Protect vs Hikvision · ADT vs SimpliSafe vs local licensed installer · 2GIG vs Qolsys · DoorBird vs 2N · Akuvox vs ButterflyMX. Before writing each one, confirm real search demand (Search Atlas/OTTO keyword data or a live SERP check); if a pair has none, skip it and note why in DAILY-LOG.md.
+- Structure: answer-first verdict (§12.1) → side-by-side table (resolution, storage/NVR, app, subscription fees, smart-home fit, best for) → who should pick which → "We install both — installed price in your area" → checkout/quote CTA → FAQ + FAQPage schema.
+- Rules: compare brands against each other — never put AESS prices next to a retail or manufacturer store price. Brands AESS carries/partners with get installed pricing per [[aess-pricing]]; quotes still default to the non-branded system. Real specs only (pull from manufacturer pages with Firecrawl), real product photos only. Link each comparison page to both brands' service pages and the matching hub (§12.4).
+- Add them to PAGE-QUEUE.md and build them in the normal 3-at-a-time page flow.
+
+### 12.6 Next-year pages (Anwar, Nov 2 2026)
+- Publish "[year+1]" versions early: "Best Security Cameras of 2027", "Best Video Intercom for NYC Buildings 2027", "Lorex vs Reolink (2027)". The first good page usually takes the top spot and keeps it.
+- Same rules as §12.5 (real specs, real photos, no AESS-vs-retail price comparisons). Each December, update the year in title/H1/first sentence and refresh the specs — never leave a stale year live.
+
+## 13. Off-site plays — borrow trusted sites' authority (Anwar, Nov 2 2026)
+Every off-site piece follows this blueprint: Anwar's keyword list (§ keywords/<service>.md), answer in the first line, real AESS facts only (§12.3), real job photos, and a link back to the matching AESS page (§12.4 target page).
+
+### 13.1 LinkedIn articles
+- One article per service × area (same order as the pages: hub → borough/county → neighborhood), under 330 words, the answer in the first line, keyword in the title.
+- Posted from Anwar's / AESS's own LinkedIn, links to the matching site page. LinkedIn is a top source for Gemini and Google AI Overviews.
+
+- **LinkedIn → email funnel (Anwar, Nov 2 2026):** besides the SEO articles, 4 educational posts a week aimed at commercial buyers (property managers, boards, landlords, GCs, businesses), plus 1 post a week promoting the newsletter/lead magnet. Every new subscriber gets a 6-email sequence: story, problems we solve, best real results, then the pitch on the last email. Full plan: Aess-housecall-connector plans/LINKEDIN-EMAIL-FUNNEL.md.
+
+### 13.2 Real research on Zenodo
+- Only genuine studies built from real data (never a sales piece dressed as research — Zenodo removes those).
+- First study: "Broken building intercoms in NYC — HPD intercom violations and 311 buzzer complaints by borough and neighborhood, 2020–2026" from NYC Open Data. Methods + data tables + charts; cite it from the intercom and door-buzzer pages. The same data doubles as the landlord lead list.
+
+### 13.3 Reddit answers
+- Answer real questions in local and niche subs (r/AskNYC, r/Brooklyn, r/Bronx, r/Queens, r/longisland, r/homesecurity, r/HomeImprovement, neighborhood subs) with a genuinely helpful answer first.
+- Always disclose: "I own a security company in NYC (Abstract Enterprises Security Systems)." Approved by Anwar. Never post as a fake customer, never use multiple accounts, follow each subreddit's self-promotion rules. Link to an AESS page only when it actually answers the question.
+- Use the questions found here as FAQ material for the pages (§ research table).
+
+### 13.4 Gamma decks — lowest priority
+- Allowed but last: Google demotes thin third-party-hosted pages ("site reputation abuse"). Only build a deck if it carries real, unique content and links back to the target page.
+
+### 13.5 Social platforms
+- See Anwar's social search plan (Facebook, Instagram, YouTube, TikTok) in support677/Aess-housecall-connector `plans/SOCIAL-SEARCH-PLAN.md` — same structure, same blueprint, content sized to each platform.
+
+### 13.6 Medium articles (added Nov 4 2026, Anwar)
+- AI tools (ChatGPT, Perplexity, Gemini) cite Medium often. One article per published site page, same order as the pages (comparison pages and hubs first, then borough/county, then neighborhood).
+- Not a copy of the page: a 600–1,000-word original article — answer in the first line, keyword in the title, one comparison table where it fits, real AESS job photos, real AESS facts only (§12.3), link to the matching site page (§12.4 target page).
+- Publish as AESS / Anwar Timothy. If an article reuses page text, set the canonical link to the site page (Medium's "Import a story" does this automatically).
+- No API: Medium closed new integration tokens and Composio has no Medium toolkit. Post through Anwar's Chrome ("ABSTRACT" browser, signed in to Medium) per his Playwright/browser rule. Log each article (date, title, Medium URL, site page) in seo/MEDIUM-LOG.md.
+
+### 13.7 Quora answers (added Nov 4 2026, Anwar)
+- Answer real questions people ask about security cameras, intercoms/door buzzers, access control, alarms, cabling and TV mounting in NYC, Long Island and the Hudson Valley. Same rules as Reddit (§13.3): genuinely helpful answer first, disclose "I own a security company in NYC (Abstract Enterprises Security Systems)", link to an AESS page only when it actually answers the question, never post as a fake customer or from multiple accounts.
+- Lead/DIY rule still applies: give the decision/buying answer, not step-by-step install or troubleshooting how-to.
+- Also create a Quora Space for AESS and share each new comparison/hub page there with a short summary.
+- Questions found on Quora feed the pages' FAQ research (§3).
+- No API: Quora has no public API and no Composio toolkit. Post through Anwar's Chrome ("ABSTRACT" browser, signed in to Quora). Log each answer (date, question URL, answer URL, page linked) in seo/QUORA-LOG.md. Pace it like a person: a few answers a day, never bursts.
+
+---
+
+*End of blueprint. Edit this file directly to evolve the spec — do not rely on memory or chat history.*
+
+## 14. Brand pages + sticky price pages (Anwar, Nov 2 2026)
+- **Main brand pages rank:** `<brand>-camera-installation-<area>` for every brand we price (36). This covers the 3 hubs (NYC, Long Island, Hudson Valley) and every borough and county. Each one is a full-blueprint build, the same as any service page. Queued in PAGE-QUEUE (hubs first, partners Lorex/Luminys/Reolink first). Ask Anwar for the brand's keywords (keywords/<brand>-camera-installation.md) before its pages build.
+- **Price pages are "stickies":** `<brand>-camera-installation-prices-<area>` stays at the same URL. It's the full price list and calculator where customers build their own system. It is NOT built to the blueprint. If it ranks for "<brand> prices", that's a bonus.
+- **Linking, area stays in area:** each price page links up to the brand page for the same area (Brooklyn → Brooklyn, Queens → Queens). Each brand page links down to its price page, both in the content and from the sticky bar ("<Brand> prices"). tools/link_price_pages.py does this, and the page factory runs it every cycle. Until a brand's area page exists, the price page links to the brand hub, or to that area's security camera page.
+- **One price page per area, per brand.** Prices differ by area, so each borough/county has its own price page. Brand neighborhood pages (built later, the same as every other silo) link to their borough's price page. The Brooklyn price page covers every Brooklyn neighborhood, Queens covers Queens, and so on. The link script does this automatically.
+- **Partner brands get top billing:** Lorex, Luminys and Reolink (AESS is an authorized partner) get the official partner badge and "Authorized <Brand> partner" on their brand pages and price pages, using only badges/logos from the partner portal.

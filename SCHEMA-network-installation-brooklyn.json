@@ -1,0 +1,582 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+    "name": "Abstract Enterprises Security Systems",
+    "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn",
+    "telephone": "+1-347-934-8335",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1282 Troy Ave",
+      "addressLocality": "Brooklyn",
+      "addressRegion": "NY",
+      "postalCode": "11203",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Downtown Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "DUMBO"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Williamsburg"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Bushwick"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Sunset Park"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Park Slope"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "201"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Network Installation",
+    "name": "Network Installation Brooklyn",
+    "description": "Commercial network installation in Brooklyn: structural survey and pathway planning for converted industrial stock, network design, managed and PoE switching, routers and firewalls, VLAN segmentation, business Wi-Fi design for open lofts and masonry rooms, network rack buildout, certification, documentation and network repair.",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn",
+    "provider": {
+      "@type": "LocalBusiness",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+      "name": "Abstract Enterprises Security Systems",
+      "telephone": "+1-347-934-8335"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Downtown Brooklyn"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "DUMBO"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Williamsburg"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Bushwick"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Sunset Park"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Park Slope"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Network installation services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network design and site survey"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed and PoE switch installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Router and firewall installation with VLAN segmentation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Business Wi-Fi access point installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network rack and telecom closet buildout"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fiber backbone and building-to-building links"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network repair and troubleshooting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.abstractenterprisessecuritysystems.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Network Installation NYC",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Network Installation Brooklyn",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How a Brooklyn network installation runs",
+    "description": "The five stages of a commercial network installation in Brooklyn, from walking the building and reading the ceiling through design and pathway approval, plant, rack and equipment, to certification and documented handover.",
+    "totalTime": "P3D",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Cat6 and Cat6A cable"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Patch panels and keystone jacks"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Network rack or wall cabinet"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Managed PoE switch"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Router or firewall"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Wireless access points"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Cable certification tester"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Wireless survey meter"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Punch-down tool"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Fish tape and glow rods"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Walk the building and read the ceiling",
+        "text": "What the structure is, what is already run through it, where a rack can honestly live, how far the furthest outlet sits from it, and which pathway sections will be visible. In a converted building the walk produces the drawing rather than confirming one.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Design, quote and agree the appearance",
+        "text": "Addressing, VLAN plan, switch sizing with power headroom, access point count including the rooms behind masonry, equipment schedule, a line-item price with conversion lines shown separately, and a pathway plan the client signs off.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Pathway and plant",
+        "text": "Supports first, then cable: dressed bundles at consistent heights, straight parallel runs, plenum-rated where a ceiling is a return, firestopped at rated penetrations, and coring between floors where the design calls for it.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Rack and equipment",
+        "text": "Network rack or cabinet in the chosen position with panels, managers, power and battery backup. Switching, edge firewall and access points fitted, configured and tuned, with the power budget proven under real load.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Certify, validate and hand over",
+        "text": "Every drop certified, then a validation walk across the open floor and into every enclosed room behind masonry. Then the port map, pathway as-built, addressing scheme, equipment schedule and administrative access.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn#process"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does network installation cost in Brooklyn?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small studio or suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A Downtown office floor for twenty-five to fifty users starts near $12,500. A loft or conversion floor of the same headcount starts near $16,500, and the difference is entirely the building: designed visible pathway, coverage for the enclosed rooms behind masonry, and lift work where the ceiling is high. Individual lines are published — firewall install $450 to $900, managed switch $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop, $300 with a new run and $375 above fourteen feet, rack build $650, second room with a fiber link from $2,400. Conversion-specific work is shown separately: surface raceway at $14 per foot, coring a deck from $650, coring a party wall from $350, abandoned cable removal from $400."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why does a loft cost more to network than an office of the same size?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because a purpose-built office arrives with infrastructure a converted warehouse does not. An office floor has a telecom room, a riser, a pathway grid above the ceiling and drawings describing all three. A conversion has a ceiling fourteen or eighteen feet up with nothing above it to conceal anything, a floor of heavy timber or concrete with no clean vertical route, brick party walls that stop radio outright, and whatever four previous tenants left stapled to the joists. Every one of those turns into labour: visible pathway that has to be designed rather than hidden, lift work for anything high, coring where a route must cross a deck, extra access points for rooms masonry has cut off, and tracing before anything can be removed. Downtown Brooklyn is the exception — Class A and B stock there behaves like Midtown, and the conversion lines do not apply."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a Brooklyn network installation include?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A structural walk rather than just a floor walk, a pathway plan you approve before anything is pulled, a written design covering addressing and VLANs, the cabling on supported pathway with firestopping at rated penetrations, the network rack in the position the design chose with panels and battery backup, the switching and edge firewall, the Wi-Fi installation — design, mounting and tuning rather than hanging radios — certification across the full drop count, and a handover package. That package includes a pathway as-built, which matters more here than in newer stock because in an exposed building the cable route is a physical fact that a future wall, mezzanine or sprinkler alteration has to work around."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this network installation or structured cabling?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Structured cabling is the physical plant: cable, pathway, terminations, panels, certification. Network installation is the working system above it — switching, the edge firewall, VLANs, wireless coverage, addressing and documentation — plus the plant. In this borough the split has a visible consequence. In a building with no drawings and no concealed pathway, whoever decides where cable runs is making a permanent decision about how the space looks. When that person is a subcontractor working from a scope written by somebody who never walked the floor, you get what is stapled across the ceilings of half the converted buildings here."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many access points does a Brooklyn loft need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Fewer than you would expect for the open area, and more than you would expect once rooms are involved. An open loft floor of 5,000 square feet with columns rather than partitions is often covered by two or three, because radio travels well through open volume — though mounting height needs thought, since a radio at eighteen feet aimed down covers less usable floor than its datasheet suggests. Add enclosed rooms behind a brick party wall and each cluster needs its own access point and its own drop, because masonry stops signal outright and no increase in power crosses it. A Downtown office floor with conventional partitions runs three or four. Industrial plates with racking run roughly one per 5,000 to 10,000 square feet."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Our open floor has great Wi-Fi but the back rooms have none. Why?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Almost certainly a brick wall. Party and interior walls in converted industrial buildings are frequently two or three wythes thick, and they stop radio far more effectively than any modern partition. The open studio side gets excellent coverage from a single well-placed access point while the rooms on the other side get nothing at all. Turning the power up does not help; the signal is being absorbed rather than falling short. Those rooms need their own coverage and their own cabling. The same effect appears in older mixed-use buildings above the avenues, where plaster over lath produces it for the same reason."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does the guest network need separating from ours?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and if any part of your floor is open to customers it stops being good practice and becomes the point of the design. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visitor's device cannot reach your storage or your printers and cannot consume the connection. In a Brooklyn business that mixes an office with a shop, a studio with a gallery, or a kitchen with a dining room, the same logic extends to payment terminals and production equipment — each fenced, each unable to reach the others except where you decide."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What hardware does a Brooklyn business need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A business-class router or firewall at the edge, a managed PoE switch with real port and power headroom, enough access points for the construction rather than the floor area, and a rack position that stays inside the equipment's temperature range across a year. That last point catches people in converted stock in both directions — an unventilated interior closet in a masonry building holds summer heat past what equipment tolerates, and an unheated corner of a former warehouse in January sits below the operating range of a commercial switch. What a business here does not need is a consumer router serving an open floor of twenty-five people, or extenders standing in for access points behind brick, since they cannot cross it either."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does a Brooklyn network installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small studio or suite is one to two days. A Downtown office floor for twenty-five to fifty users is three to five. A loft or conversion floor of the same size runs a week or more, because visible pathway is slower to install than concealed pathway, lift work is slower than ladder work, and any coring between floors is a job in itself. Large industrial plates depend on how many rooms the distances require. The items most likely to move a date are the provider's circuit install, landlord agreement for any coring, and — in conversion stock specifically — what the trace turns up in the ceiling once we start looking."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can you install without shutting the studio down?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. New cable, the new rack and the new equipment go in alongside whatever is running, and the cutover happens in a single short window out of hours — usually under two hours. Radios are changed over individually so the floor is never left without coverage. The genuinely disruptive parts are lift work under an open ceiling and any coring, both of which are noisy and are scheduled for evenings or a weekend. On a floor where people work at fixed stations we sequence by zone so no more than a section of the room is affected at once."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a wireless survey worth it here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In converted stock, usually yes. Brick and heavy timber cannot be modelled honestly from a plan, and the combination of open volume and hard masonry edges produces coverage maps nobody predicts correctly from drawings. It is also worth it on large industrial plates where racking, stock and distance interact, and anywhere the floor plan and the reality have diverged — which in flexible loft space is most of the time, since walls get added and removed without drawings following. For a Downtown office suite under about 4,000 square feet with conventional partitions we will tell you it is not needed rather than sell one. The fee is $450, credited against the project, and the validation walk after installation comes with the project either way."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do we need a managed switch?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Past about eight people, yes. Unmanaged switches cannot segment traffic, cannot prioritise voice, cannot show which port is saturating and cannot be monitored — and in a business mixing an office with production or retail, segmentation is usually the entire reason the network holds together. Managed switching is also what tells you whether a slow afternoon is a saturated uplink or something else, which on a floor where people move large files is the question that comes up most."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do you work evenings and weekends?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, at no premium on the labour rate. Retail and food businesses need overnight work, studios prefer their production hours undisturbed, medical practices are booked through the day, and Downtown buildings have their own after-hours access rules. What we ask for is enough notice to staff the crew and to have landlord or building agreement in place, particularly where the work involves lift equipment or coring, which most landlords want scheduled rather than discovered."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Cat6 or Cat6A for the runs feeding access points?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cat6A on ceiling positions in nearly every commercial case, for power and headroom rather than raw speed. Today's Wi-Fi 6E and 7 radios pull PoE++ under 802.3bt, and the thicker conductors in Cat6A move that power with less warming inside a bundle. It also delivers ten gigabit to the full hundred metres, which matters because the radio gets replaced every five to seven years while the cable stays for fifteen — and in a building with an eighteen-foot ceiling, re-pulling a ceiling run means a lift and a day nobody wants to spend twice. Cat6 remains correct for desk drops, printers and general connectivity, so mixed plant is normal here: Cat6 to workstations, Cat6A to every ceiling position."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who installs business networks in Brooklyn?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Commercial network installation in this borough is carried out by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer here should also ask whether the contractor has worked in conversion stock, because a crew whose experience is purpose-built office buildings will treat an exposed ceiling as an inconvenience rather than as the design. We are the first kind and hold both layers: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working from Downtown and DUMBO out to Bay Ridge and Coney Island. That covers the structural walk and pathway plan, design and addressing, cabling, the rack, switching, the edge firewall, VLAN segmentation, wireless design and tuning, certification, documentation and credential handover, plus tracing and takeover of whatever previous tenants left behind."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-managed-poe-switch-rack-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-managed-poe-switch-rack-install.webp",
+        "name": "Network installation Brooklyn — switch and rack build",
+        "caption": "A PoE+ switch going into a rack built where the building never provided a closet. Power headroom is bought now, because reaching a high mount later means a lift.",
+        "description": "Network installation Brooklyn technician mounting a managed PoE switch below patch panels in a converted building network rack",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": true
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-two-tech-corridor-cable-pull.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-two-tech-corridor-cable-pull.webp",
+        "name": "Office network installation Brooklyn — pull back to the rack",
+        "caption": "Running cable back to the rack position. In a converted building the route was decided on paper first, because every foot of it will be visible.",
+        "description": "Office network installation Brooklyn two technicians running cable back toward a rack position in a commercial building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-jhook-ceiling-pathway-bundles.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-jhook-ceiling-pathway-bundles.webp",
+        "name": "Network installation Brooklyn — pathway under an exposed ceiling",
+        "caption": "Dressed bundles at a consistent height on supported pathway. In a loft with nothing to hide cable in, the pathway is part of the interior.",
+        "description": "Network installation Brooklyn dressed cable bundles on J-hook pathway beneath an exposed ceiling in a converted loft",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-cat6-cable-box-staging-fitout.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-cat6-cable-box-staging-fitout.webp",
+        "name": "Commercial network installation Brooklyn — cable staged for a pull",
+        "caption": "Boxes staged for a pull across a large plate. Cable rating is chosen per pathway, and on industrial floors the distances decide the room plan.",
+        "description": "Commercial network installation Brooklyn cable boxes staged for a multi-drop pull in a converted industrial space",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-workstation-data-outlet-termination.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-workstation-data-outlet-termination.webp",
+        "name": "Network installation Brooklyn — workstation outlets",
+        "caption": "Two ports at a desk position. On studio floors we wire the workstations deliberately and leave wireless for laptops and mobile devices.",
+        "description": "Network installation Brooklyn technician terminating dual data outlets at a workstation position in an office",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-wireless-access-point-ceiling-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-wireless-access-point-ceiling-install.webp",
+        "name": "Wi-Fi installation Brooklyn — access point mount",
+        "caption": "An access point going up. Open loft volume covers easily; the enclosed rooms behind brick need their own radio and their own drop.",
+        "description": "Wi-Fi installation Brooklyn technician mounting a ceiling access point in a commercial office space",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-ceiling-tile-cable-drop-occupied-office.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-ceiling-tile-cable-drop-occupied-office.webp",
+        "name": "Network installation Brooklyn — drop in occupied space",
+        "caption": "Feeding cable in occupied space. Downtown floors have a ceiling to work above; most of the borough's converted stock does not.",
+        "description": "Network installation Brooklyn technician feeding cable through a ceiling in an occupied commercial office",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-network-rack-cleanup-before-after.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-network-rack-cleanup-before-after.webp",
+        "name": "Network rack cleanup Brooklyn — before and after",
+        "caption": "One rack before and after. Four tenants and their vendors over a decade, traced, re-routed, dressed, labelled and finally written down.",
+        "description": "Network rack cleanup Brooklyn before and after showing a tangled unlabelled rack rebuilt into a dressed labelled one",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-cable-labeling-port-map.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-cable-labeling-port-map.webp",
+        "name": "Network installation Brooklyn — labelling and port map",
+        "caption": "Labels made up at the panel and written into the map before moving on. In a building with no drawings this becomes the only accurate record.",
+        "description": "Network installation Brooklyn technician printing cable labels at a patch panel beside a printed port map",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-network-cable-toner-tracing.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-network-cable-toner-tracing.webp",
+        "name": "Network repair Brooklyn — tracing inherited plant",
+        "caption": "Tracing what previous tenants left behind. Nothing gets removed from a Brooklyn ceiling until it has been traced and the removal agreed.",
+        "description": "Network repair Brooklyn technician tracing an unlabelled cable run at a patch panel with a tone generator and probe",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-fluke-dsx-certification-pass.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-fluke-dsx-certification-pass.webp",
+        "name": "Network installation Brooklyn — certifying a finished drop",
+        "caption": "Certification taken at the outlet, one drop after another. On large industrial plates the length result is the one that decides whether a second room was needed.",
+        "description": "Network installation Brooklyn technician certifying a data drop with a cable analyzer showing a PASS result",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-retrofit-wall-fish-data-drop.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-retrofit-wall-fish-data-drop.webp",
+        "name": "Network installation Brooklyn — retrofit drop in older stock",
+        "caption": "Fishing a drop in older mixed-use stock. Masonry and plaster are why retrofit labour above the avenues runs well past new construction.",
+        "description": "Network installation Brooklyn technician fishing cable through a wall for a retrofit data drop in an older building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-core-drill-cmu-wall-penetration.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-core-drill-cmu-wall-penetration.webp",
+        "name": "Network installation Brooklyn — coring a masonry wall",
+        "caption": "Coring a party wall. Between floors it is a timber or concrete deck instead, which needs the landlord's agreement and firestopping to the assembly rating.",
+        "description": "Network installation Brooklyn technician core drilling a masonry wall to carry cable toward the network rack",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-finished-network-rack-firewall-ups.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-brooklyn-finished-network-rack-firewall-ups.webp",
+        "name": "Network installation Brooklyn — finished rack",
+        "caption": "A finished rack: panels above, switching and firewall below, battery backup at the bottom, and room left for the next two years.",
+        "description": "Finished network rack Brooklyn with patch panels, switching, firewall and battery backup dressed and labelled",
+        "width": "1122",
+        "height": "1402",
+        "representativeOfPage": false
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anwar Jeffres",
+    "jobTitle": "Licensed Low Voltage Contractor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Abstract Enterprises Security Systems",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
+      "identifier": "12000287431"
+    },
+    "knowsAbout": [
+      "Network installation",
+      "Wireless network installation",
+      "Converted building pathway design",
+      "VLAN segmentation",
+      "Power over Ethernet",
+      "Fiber backbone",
+      "Network troubleshooting"
+    ],
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-brooklyn",
+    "sameAs": [
+      "https://www.instagram.com/security_cameras_new_york",
+      "https://www.youtube.com/@openeye0007",
+      "https://x.com/Abstract00007"
+    ]
+  }
+]

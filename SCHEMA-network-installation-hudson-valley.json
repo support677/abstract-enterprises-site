@@ -1,0 +1,571 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+    "name": "Abstract Enterprises Security Systems",
+    "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley",
+    "telephone": "+1-800-486-0943",
+    "priceRange": "$$",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "460 E Fordham Rd",
+      "addressLocality": "Bronx",
+      "addressRegion": "NY",
+      "postalCode": "10458",
+      "addressCountry": "US"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Westchester County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Rockland County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Orange County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Putnam County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Dutchess County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Ulster County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Hudson Valley"
+      }
+    ],
+    "aggregateRating": {
+      "@type": "AggregateRating",
+      "ratingValue": "4.7",
+      "reviewCount": "201"
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "serviceType": "Network Installation",
+    "name": "Network Installation Hudson Valley",
+    "description": "Commercial network installation across the Hudson Valley: multi-structure site and telecom room planning, network design, managed and PoE switching, routers and firewalls, VLAN segmentation, indoor and outdoor business Wi-Fi, network rack buildout, building-to-building fiber, certification, documentation and network repair.",
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley",
+    "provider": {
+      "@type": "LocalBusiness",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+      "name": "Abstract Enterprises Security Systems",
+      "telephone": "+1-800-486-0943"
+    },
+    "areaServed": [
+      {
+        "@type": "AdministrativeArea",
+        "name": "Westchester County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Rockland County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Orange County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Putnam County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Dutchess County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Ulster County"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "Hudson Valley"
+      }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Network installation services",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network design and site survey"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Managed and PoE switch installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Router and firewall installation with VLAN segmentation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Business Wi-Fi access point installation"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network rack and telecom closet buildout"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Fiber backbone and building-to-building links"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "Network repair and troubleshooting"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://www.abstractenterprisessecuritysystems.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Network Installation NYC",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-nyc"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Network Installation Hudson Valley",
+        "item": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": "How a Hudson Valley network installation runs",
+    "description": "The five stages of a commercial network installation in the Hudson Valley, from walking the whole property through design, backbone and plant, telecom rooms and equipment, to certification and documented handover.",
+    "totalTime": "P3D",
+    "supply": [
+      {
+        "@type": "HowToSupply",
+        "name": "Cat6 and Cat6A cable"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Patch panels and keystone jacks"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Network rack or wall cabinet"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Managed PoE switch"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Router or firewall"
+      },
+      {
+        "@type": "HowToSupply",
+        "name": "Wireless access points"
+      }
+    ],
+    "tool": [
+      {
+        "@type": "HowToTool",
+        "name": "Cable certification tester"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Wireless survey meter"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Punch-down tool"
+      },
+      {
+        "@type": "HowToTool",
+        "name": "Fish tape and glow rods"
+      }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "position": 1,
+        "name": "Walk the property, not just the building",
+        "text": "Every structure in scope, the routes between them, where the provider's circuit lands, what the interior walls are made of, and whether outdoor coverage is expected. County and municipal requirements are confirmed at this stage.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 2,
+        "name": "Design and quote",
+        "text": "A telecom room per structure, the link topology between them, addressing and VLAN plan, switch sizing with power headroom per room, access point counts indoors and out, equipment schedule, and a line-item price with mileage stated separately.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 3,
+        "name": "Backbone first, then plant",
+        "text": "The link between structures goes in first because everything depends on it and exterior work is the most weather-dependent part of the schedule. Copper follows inside each building, firestopped at rated penetrations, with exterior entries sealed and grounded.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 4,
+        "name": "Rooms and equipment",
+        "text": "Network rack or cabinet in each structure with panels, managers, power and battery backup. Switching, edge firewall and access points mounted, configured and tuned, with the power budget verified per room including winter draw on outdoor units.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley#process"
+      },
+      {
+        "@type": "HowToStep",
+        "position": 5,
+        "name": "Certify, validate and hand over",
+        "text": "Every drop certified and the fiber link tested. A validation walk through every structure and across outdoor areas in scope. Then the handover package: port map, site as-built with the exterior route measured from fixed points, addressing scheme, equipment schedule and credentials.",
+        "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley#process"
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How much does network installation cost in the Hudson Valley?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small office of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A single-building floor for twenty-five to fifty users starts near $12,500. A two-building property with a telecom room in each structure, fiber between them, unified wireless and one consolidated edge starts near $19,500. Individual items are published: firewall install with a rule set $450 to $900, managed switch install $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop, $300 with a new run, $375 in high-bay space and $495 for an outdoor-rated unit mounted and grounded, rack build $650, additional telecom room from $2,400. Labour rates match our New York City schedule. Distance is handled as a stated mileage allowance — nothing in Westchester or Rockland, $95 per crew day in Putnam and Orange, $145 per crew day in Dutchess and Ulster — so a Kingston project and a Yonkers project can be compared line for line."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do you link two buildings on the same property?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "With single-mode fiber, aerial or underground, after a route survey. Wireless bridges are quick and inexpensive and are a reasonable answer on a short clear hop, but they are not indifferent to conditions: snow, freezing rain and summer foliage all attenuate them, anything built or grown in the path degrades them permanently, and they share spectrum with everything nearby. Fiber behaves identically in February and August. Aerial is faster and cheaper where suitable structures or poles exist and the owner permits attachment. Underground means locating existing utilities, working around septic and well infrastructure on rural parcels, potentially hitting shallow ledge — which is common across this region and can turn a morning's trench into considerably more — and restoring the surface afterwards. We survey the route for $350, credited to the project, rather than pricing it from a satellite image. The finished link is terminated, tested, and recorded on the as-built with measurements from fixed points so the next contractor with a backhoe does not cut it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What does a commercial network installation include up here?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A walk of the whole property rather than one building, a telecom room plan for each structure, a written design covering addressing and VLANs, the fiber link between buildings, copper inside each one, the network rack in every room with panels and battery backup, the switching, the edge firewall, the WiFi installation — wireless design, access point placement and tuning, indoors and outdoors where that is in scope — the configuration of all of it, certification on every drop, and a handover package. The package is where cheaper quotes are usually thinnest: a port map naming structure, room, panel port and outlet; a site as-built showing the exterior route and whether it is buried; the addressing scheme written down; and the credentials transferred rather than retained."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Network installation or structured cabling — what am I actually buying?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Structured cabling is the physical plant: cable, pathway, terminations, panels, testing. Network installation is the working system on top of it — switching, the edge firewall, VLANs, wireless coverage, addressing and documentation — plus the plant itself. A cabling contractor will hand over a tested labelled panel with nothing plugged into it and, within their scope, that is a completed job. An IT provider will configure equipment competently and subcontract anything needing a ladder or a trench. On a multi-building Valley property the gap between those two is where projects stall, because when the link between structures misbehaves each side points at the other. Both layers are ours."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How many Wi-Fi access points does a Hudson Valley building need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It depends far more on what the walls are made of than on the square footage. A modern drywall office floor of 6,000 square feet typically wants three or four. The same 6,000 square feet in a converted mill with load-bearing brick interior walls wants six to eight, because those walls stop radio room to room and no amount of transmit power crosses them. A village office converted from a house needs two or three for a small footprint, because plaster over lath and small partitioned rooms behave the same way. Warehouse and distribution space runs roughly one per 5,000 to 10,000 square feet depending on racking and mounting height. Outdoor coverage across a yard, dock or event area needs one to three outdoor-rated units, mounted, weatherproofed and grounded. On a multi-building site each structure is its own coverage problem and gets counted separately."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Why is Wi-Fi fine in one room of our building and absent in the next?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In converted mill, factory and older village buildings it is almost always the wall. Load-bearing brick two or three wythes thick, and plaster applied over metal lath, both attenuate radio far more effectively than drywall or glass — and neither is visible from inside the room. An open floor in a mill building can have excellent coverage while the space on the other side of one brick wall gets nothing at all. The fix is not a stronger radio; it is coverage designed room by room, with more access points placed with the walls in mind. If the pattern is not room-to-room but building-to-building, or it changed when the weather did, the problem is more likely the link between structures than the wireless itself."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do we have to separate guest wireless from the staff network?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, and it is one of the least expensive parts of a build. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visitor's device cannot reach your file storage or your printers and cannot consume the whole circuit. The same reasoning covers card terminals in a tasting room or farm stand, IP phones, shop-floor equipment and building devices — each fenced, each unable to reach the others except where you decide it should. On a property where a public-facing structure shares one circuit with the office, that separation stops being good practice and becomes the point of the design."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What hardware does a small Valley business actually need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "At minimum a business-class router or firewall at the edge, a managed PoE switch with headroom, enough access points for the construction rather than the square footage, and somewhere to put it all that stays within the equipment's temperature range in both directions. Beyond the minimum, the additions that earn their money here are battery backup in every telecom room rather than only the main one, a second switch instead of unmanaged boxes appearing under desks, and enough PoE budget to add outdoor units later — remembering that heated outdoor enclosures draw substantially more in January than the summer figure on a datasheet. What a Valley business does not need is three separate internet circuits for one property, which is the most expensive habit we routinely unwind."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How long does a Hudson Valley network installation take?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A small office is one to two days on site. A single-building floor for twenty-five to fifty users is three to five. A two-building property with a fiber link is a week or more, and the exterior run drives that number: an aerial hop between two structures is a day, while an underground run involves utility locating, trenching or boring, and restoration, which is a different scale of project. Mill conversions run longer than their square footage suggests because masonry pathway is slow work. The items most likely to move a date are the provider's circuit install, any municipal approval for exterior or roadway work, and — genuinely, in this region — weather, since exterior pathway work does not happen in frozen ground. Dates get built in reverse from the day staff actually need the space, and we name the item most likely to slip."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can the upgrade happen without closing the business?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Usually yes, and on a multi-building property it is easier than in a single tower because the buildings can be cut over one at a time. The approach is to stand the new network up beside the old one: new cable, new rooms, new switching and new access points go in while the existing network stays live, then each structure cuts over in a short window out of hours. Access points get swapped individually so coverage never fully drops. The fiber link between buildings goes in first and sits dark until it is needed, which means the disruptive moment is a switch cutover measured in minutes rather than a day of downtime. The exception is a full rewire inside a masonry building where the old cable occupies the only available pathway."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is a wireless site survey, and when is it worth it in the Valley?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "A survey measures how radio behaves in your specific building instead of predicting it from drawings. Up here there is a clear line. Pay for it in any converted mill or masonry building, because nothing models brick honestly and this is the clearest case in the region; in warehouse and distribution space, where racking is effectively the building as far as radio is concerned and stock levels change the answer seasonally; on multi-building sites, where the question includes whether devices roam sensibly across the property; and anywhere outdoor coverage is expected, since tree lines, ground conditions and structures shape the result and none of them appear on a floor plan. Skip it for a modern drywall suite under roughly 4,000 square feet — we will say so, and the money is better spent on another access point. The fee is $450, credited against the project, and the validation walk after installation is included regardless."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Do we need a managed switch in every building?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "In every building that has more than a handful of devices, yes. An unmanaged switch cannot segment, cannot prioritise voice, cannot report which port is saturating and cannot be monitored — and on a multi-structure property that last point is decisive, because a fault you cannot see into from the main room means a drive to the far building to find out anything at all. Managed switching is what lets somebody determine from one screen that the problem is the shop building's uplink rather than the whole network. In a single small office under about eight people an unmanaged switch is defensible; past that it pays for itself the first time something breaks."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are the licensing rules the same across all six counties?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No, and this is the practical difference between working here and working in the five boroughs. New York City applies one set of requirements across all five boroughs. Several Hudson Valley counties and municipalities administer their own licensing, registration or electrical examining arrangements covering low-voltage and limited-energy work, and the thresholds, categories and paperwork are not identical between them. Westchester, Rockland, Putnam and Ulster each maintain their own arrangements, and individual towns and villages can add requirements on top. The practical points: a contractor cleared in one county is not automatically cleared in the next, so ask which counties a bidder is registered in and confirm it for the county your property is actually in rather than the one their office is in; some jurisdictions publish rosters, which is the fastest way to verify a claim; and exterior or underground work between buildings brings in the municipality, with lead time that belongs in the schedule. We confirm the current position with the relevant county or municipal office for each project at survey stage. This is general guidance rather than legal advice, and requirements are revised from time to time."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Cat6 or Cat6A on the runs feeding access points?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Cat6A for access point drops in nearly every commercial case, and the reason is power and headroom rather than raw speed. Current Wi-Fi 6E and Wi-Fi 7 access points draw PoE++ under 802.3bt, and Cat6A's heavier conductors carry that power with less heat rise across a bundle. It also delivers ten gigabit to the full hundred metres, which matters because access point backhaul is the drop most likely to be outgrown — the access point is replaced every five to seven years while the cable stays for fifteen, and in a masonry building nobody wants to re-pull anything. Cat6 remains fine for desk drops, printers and general connectivity, so a mixed plant is normal: Cat6 to workstations, Cat6A to every ceiling and outdoor position. The extra cost lands only on the runs that genuinely justify it."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Who installs business networks in the Hudson Valley?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Commercial network installation across the six counties is carried out by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer should establish which of those three they are talking to, and — up here specifically — which counties that contractor is actually registered to work in. We are the first kind and do both layers ourselves: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working from Yonkers to Kingston. That covers the property survey and room plan, network design and addressing, cabling and pathway, building-to-building fiber, the racks, the switching, the edge firewall, VLAN segmentation, indoor and outdoor wireless design, certification, documentation and credential handover, plus repair and takeover of networks somebody else built. Certificates of insurance are issued to owners and managing agents on request."
+        }
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-managed-poe-switch-rack-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-managed-poe-switch-rack-install.webp",
+        "name": "Network installation Hudson Valley — switch and rack build",
+        "caption": "A PoE+ switch going in under dressed panels. On a multi-building Valley site this rack repeats in every structure on the property.",
+        "description": "Network installation Hudson Valley technician rack-mounting a managed PoE switch beneath patch panels with gateway and firewall above",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": true
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-two-tech-corridor-cable-pull.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-two-tech-corridor-cable-pull.webp",
+        "name": "Network installation Hudson Valley — pull back to the telecom room",
+        "caption": "Pulling back toward the room. Inside a building this is routine; the harder half of a Valley job usually happens outdoors between structures.",
+        "description": "Commercial network installation Hudson Valley two technicians pulling cable toward a telecom room in an office building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-drop-conduit-emt-riser.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-drop-conduit-emt-riser.webp",
+        "name": "Network installation Hudson Valley — conduit at a masonry wall",
+        "caption": "Into EMT at a block wall. Exterior entries get sealed and grounded, and the route outside gets measured onto the as-built.",
+        "description": "Network installation Hudson Valley technician running cable into EMT conduit at a masonry wall beside a telecom room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-cat6-cable-box-staging-fitout.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-cat6-cable-box-staging-fitout.webp",
+        "name": "Network installation Hudson Valley — cable staged for a pull",
+        "caption": "Boxes staged for a multi-drop pull. Rating is chosen per pathway — riser inside walls, plenum where the ceiling is a return.",
+        "description": "Commercial network installation Hudson Valley technician staging cable boxes for a multi-drop pull during a building fit-out",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-workstation-data-outlet-termination.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-workstation-data-outlet-termination.webp",
+        "name": "Network installation Hudson Valley — workstation outlets",
+        "caption": "Two ports per desk position, terminated and labelled with the structure identifier so a label read in one building means something in another.",
+        "description": "Network installation Hudson Valley technician terminating dual data outlets at an office workstation",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-wireless-access-point-ceiling-install.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-wireless-access-point-ceiling-install.webp",
+        "name": "Wi-Fi installation Hudson Valley — ceiling access point",
+        "caption": "An access point going up. In a mill conversion the same square footage needs roughly twice this many, because brick stops radio room to room.",
+        "description": "Wi-Fi installation Hudson Valley technician mounting a ceiling access point in a commercial office",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-rack-cleanup-before-after.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-rack-cleanup-before-after.webp",
+        "name": "Network rack cleanup Hudson Valley — before and after",
+        "caption": "One room before and after. Nothing new added to the building — re-routed, re-terminated where needed, dressed, labelled and mapped.",
+        "description": "Network rack cleanup Hudson Valley before and after showing an unlabelled tangled room rebuilt into a dressed labelled rack",
+        "width": "1402",
+        "height": "1122",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-cable-labeling-port-map.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-cable-labeling-port-map.webp",
+        "name": "Network installation Hudson Valley — labelling and port map",
+        "caption": "Labels printed at the panel and entered into the port map in the same pass, carrying the building name as well as the port number.",
+        "description": "Network installation Hudson Valley technician printing cable labels at a patch panel beside a printed port map",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-cable-toner-tracing.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-network-cable-toner-tracing.webp",
+        "name": "Network repair Hudson Valley — tracing an inherited run",
+        "caption": "Tracing a run nobody recorded. On a property that grew one building at a time, this is where almost every takeover begins.",
+        "description": "Network repair Hudson Valley technician tracing an unlabelled run at a patch panel with a tone generator and probe",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-fluke-dsx-certification-pass.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-fluke-dsx-certification-pass.webp",
+        "name": "Network installation Hudson Valley — certifying a drop",
+        "caption": "Certified from the outlet end, one drop at a time, with the fiber link between buildings tested and documented alongside it.",
+        "description": "Network installation Hudson Valley technician certifying a data drop with a cable analyzer showing a PASS result",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-retrofit-wall-fish-data-drop.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-retrofit-wall-fish-data-drop.webp",
+        "name": "Network installation Hudson Valley — retrofit drop in older stock",
+        "caption": "Fishing a drop in a converted building. Plaster, lath and masonry are why retrofit labour here runs well above new construction.",
+        "description": "Network installation Hudson Valley technician fishing cable through a finished wall for a retrofit drop in an older building",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-core-drill-cmu-wall-penetration.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-core-drill-cmu-wall-penetration.webp",
+        "name": "Network installation Hudson Valley — core drilling masonry",
+        "caption": "Core drilling through masonry. Penetrations are firestopped to the rated assembly and recorded in the closeout package.",
+        "description": "Network installation Hudson Valley technician core drilling a masonry wall to carry cable through to a telecom room",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      },
+      {
+        "@type": "ImageObject",
+        "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-jhook-ceiling-pathway-bundles.webp",
+        "url": "https://www.abstractenterprisessecuritysystems.com/images/network/network-installation-hudson-valley-jhook-ceiling-pathway-bundles.webp",
+        "name": "Network installation Hudson Valley — supported pathway",
+        "caption": "Bundles carried on J-hooks at regular intervals, clear of fixtures and parallel power, in the one part of the job that looks the same everywhere.",
+        "description": "Network installation Hudson Valley J-hook pathway carrying dressed cable bundles across a commercial ceiling",
+        "width": "1448",
+        "height": "1086",
+        "representativeOfPage": false
+      }
+    ]
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Anwar Jeffres",
+    "jobTitle": "Licensed Low Voltage Contractor",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Abstract Enterprises Security Systems",
+      "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx"
+    },
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "NYS Low Voltage Electrical Contractor License",
+      "identifier": "12000287431"
+    },
+    "knowsAbout": [
+      "Network installation",
+      "Wireless network installation",
+      "Building-to-building fiber",
+      "VLAN segmentation",
+      "Power over Ethernet",
+      "Multi-site network design",
+      "Network troubleshooting"
+    ],
+    "url": "https://www.abstractenterprisessecuritysystems.com/network-installation-hudson-valley",
+    "sameAs": [
+      "https://www.instagram.com/security_cameras_new_york",
+      "https://www.youtube.com/@openeye0007",
+      "https://x.com/Abstract00007"
+    ]
+  }
+]

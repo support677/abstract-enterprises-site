@@ -1,0 +1,421 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+  "name": "Abstract Enterprises Security Systems",
+  "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+  "url": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-westchester-county",
+  "telephone": "+1-914-877-2578",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "460 E Fordham Rd",
+    "addressLocality": "Bronx",
+    "addressRegion": "NY",
+    "postalCode": "10458",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Westchester County"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Hudson Valley"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "201"
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Cat6 Installation",
+  "name": "Cat6 Installation Westchester County",
+  "description": "Cat6 cable installation for office towers, corporate campuses and office parks, converted industrial and historic downtown buildings, hospital and medical campuses, school districts, municipal properties and homes across Westchester County. Data drop installation, patch panel termination, telecom room build-out, fiber backbone between buildings, masonry raceway and conduit work, testing, labeling and as-built documentation by a licensed New York State low voltage contractor.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#bronx",
+    "name": "Abstract Enterprises Security Systems",
+    "telephone": "+1-914-877-2578"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Westchester County"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Hudson Valley"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Cat6 Installation Services — Westchester County",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 data drop installation"
+        },
+        "price": "309",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e data drop installation"
+        },
+        "price": "265",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6A data drop installation"
+        },
+        "price": "441",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 patch panel termination and rack build"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 cable testing, labeling and documentation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e to Cat6 network cabling upgrade"
+        }
+      }
+    ]
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Cat6 installation cost in Westchester?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Cat6 data drop runs $309 inside 100 feet, carrying the cable, the faceplate and keystone, a termination at each end and the test on the finished run. New construction quoted ahead of drywall comes off ten percent, and past 100 feet the route gets measured and priced on what it takes. On campus properties with more than one building we price the buildings separately rather than averaging, because a 1980s office pavilion and a converted mill on the same site are not the same job."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a Westchester County licence for this work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Westchester licenses electricians at county level through its Department of Consumer Protection, with an examination process and a licence card that consumers are explicitly encouraged to ask to see. Permits are issued by the local building department in each city, town or village, and municipal codes commonly require that electrical work be performed by a Westchester County licensed contractor. There is also a limited licence class covering low voltage, alarm and signal work, audio and sound systems and telephone interconnect, bounded by voltage and current limits — which is the category most data cabling scopes sit near. Whether a given scope falls inside those requirements is worth putting to the county directly rather than accepting any contractor's summary, ours included."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a corporate campus get cabled?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each building gets its own telecom room and its own horizontal copper, and the buildings link with fiber backbone. Copper does not run between buildings — the ninety-metre limit rules it out on all but the shortest links, and running copper between structures on separate electrical services introduces grounding problems that fiber avoids entirely. Westchester has a high proportion of multi-building corporate, medical, educational and municipal properties, so this comes up on a large share of jobs here."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can you cable a pre-war or converted building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, and it is a recurring job in this county. Yonkers, New Rochelle, Peekskill, Port Chester and the older parts of White Plains all have early twentieth century commercial and industrial buildings now carrying offices, studios and residential. The conditions are heavy masonry with no wall cavities, exposed structure with nowhere to hide cable, and frequently a historic-district review governing what can be seen or penetrated. Cable becomes a finish detail in those buildings, and routing gets planned with the architect rather than decided on site."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a Cat6 installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site visit that establishes drop positions and the route, the pull on supported pathway, a keystone terminated at the outlet and a panel port at the telecom room, plate and panel mounted, identifiers printed at both ends, a test on each completed run, and a map tying every port to its outlet. Racks, panels, cable management, switches, conduit, firestopping, lift hire, fiber backbone between buildings and out-of-hours work are their own lines rather than folded into the per-drop figure."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is different about White Plains office buildings?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "White Plains is the closest thing the county has to city conditions. Office towers around Main Street and Mamaroneck Avenue come with building management, freight elevator scheduling, certificate of insurance requirements and defined working hours, in a way that a low-rise building on the I-287 corridor does not. The cabling itself is straightforward — floor telecom rooms, accessible ceilings, short runs — and the schedule is governed by the building's process rather than by the work. That gets handled during mobilisation, not on the first morning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many Cat6 drops does an office need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pair at each desk, a dedicated port for any shared printer, one behind every access point, camera and door reader, two or three per classroom in school work, one to two per exam room in medical, and three or four wherever a display lives. The pair per desk looks generous until a handset, a dock and a monitor hub turn up. Adding the second port while a crew is already overhead costs very little."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Cat6 support 10 Gigabit Ethernet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Over a shortened reach — the figure usually quoted sits near 55 metres, and it shrinks inside a dense bundle where alien crosstalk begins to matter. It is not a full 100 metre ten gigabit channel; that is a Cat6A specification. For workstations, handsets, cameras and access points, Cat6 is the correct and economical choice."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why should I avoid CCA Ethernet cable?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Copper-clad aluminium is aluminium conductor with a thin copper plating. Lower box price, not equivalent cable. Aluminium resists more, which becomes a real problem once power is riding the pair, and it is brittle, so conductors break at the punch-down and inside the tight bend behind a plate. It will show a link light and still fail under a camera's power draw. Every horizontal run we install is solid copper."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is plenum-rated cable required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Where cable runs through a space handling return air, plenum-rated cable marked CMP applies; riser cable marked CMR belongs in vertical shafts between floors. Westchester's building stock spans several eras and the arrangement varies considerably between a 1980s office pavilion and a converted industrial building. It is confirmed at the walkthrough against the building and the authority having jurisdiction — which here means the city, town or village building department."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can existing Cat5e be upgraded to Cat6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No termination converts one category into another; the rating belongs to the cable, so an upgrade means pulling new. The reusable asset is the route. Westchester office buildings from the 1980s and 1990s frequently have serviceable J-hook runs or conduit the new Cat6 can follow, and that reuse is where the saving lives. Where the old cable was stapled to structure or run without any pathway, the new cable needs a new route."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work evenings and weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Tenanted offices, practices scheduling around patients, shops that must open on time and districts working to an immovable summer calendar all drive this work into evenings and weekends. In White Plains towers the building itself frequently restricts noisy or corridor-obstructing work to evenings regardless of what the tenant prefers. The out-of-hours premium is quoted as its own line rather than absorbed."
+      }
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.abstractenterprisessecuritysystems.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Cat6 Installation Hudson Valley",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-hudson-valley"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Cat6 Installation Westchester County",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-westchester-county"
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installation-westchester-county-corridor-pull.webp",
+      "name": "Cat6 installation Westchester County — corridor pull",
+      "caption": "Cat6 installation Westchester County — a corridor pull through a corporate campus building.",
+      "description": "Cat6 installation Westchester County two-technician corridor pull off a cable box on a cart",
+      "width": 1402,
+      "height": 1122,
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/commercial-cat6-installation-westchester-county-stud-rough-in.webp",
+      "name": "Commercial Cat6 installation Westchester County — stud rough-in",
+      "caption": "Commercial Cat6 installation Westchester County — rough-in during a tenant fit-out, before drywall closes.",
+      "description": "Commercial Cat6 installation Westchester County cable roughed through metal studs before drywall",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installer-westchester-county-jhook-pathway.webp",
+      "name": "Cat6 installer Westchester County — J-hook pathway",
+      "caption": "Cat6 installer Westchester County — supported pathway at regular intervals rather than cable on grid.",
+      "description": "Cat6 installer Westchester County laying a cable bundle into J-hooks above a commercial ceiling",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-patch-panel-installation-westchester-county-network-room.webp",
+      "name": "Cat6 patch panel installation Westchester County — network room",
+      "caption": "Cat6 patch panel installation Westchester County — ports labeled to their rooms before anything is patched.",
+      "description": "Cat6 patch panel installation Westchester County technician dressing a labeled bundle into a rack",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-data-drop-installation-westchester-county-workstation-outlets.webp",
+      "name": "Cat6 data drop installation Westchester County — workstation outlets",
+      "caption": "Cat6 data drop installation Westchester County — two data ports and a voice port at one desk.",
+      "description": "Cat6 data drop installation Westchester County finished data and voice outlets at a workstation",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-wiring-westchester-county-fish-tape-conduit.webp",
+      "name": "Cat6 wiring Westchester County — fish tape into conduit",
+      "caption": "Cat6 wiring Westchester County — reusing existing conduit in a masonry building where the wall cannot open.",
+      "description": "Cat6 wiring Westchester County technician feeding cable into existing conduit on a masonry wall",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/office-cat6-installation-westchester-county-outlet-bank.webp",
+      "name": "Office Cat6 installation Westchester County — outlet bank",
+      "caption": "Office Cat6 installation Westchester County — a bench run terminated drop by drop, tested as it is finished.",
+      "description": "Office Cat6 installation Westchester County technician terminating a run of outlets along a desk bank",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-cable-installation-westchester-county-ceiling-drop.webp",
+      "name": "Cat6 cable installation Westchester County — ceiling drop",
+      "caption": "Cat6 cable installation Westchester County — solid copper Cat 6, 550MHz CMR riser, 23 AWG.",
+      "description": "Cat6 cable installation Westchester County technician pulling cable through an open ceiling tile beside a Cat 6 CMR box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-floor-box-installation-westchester-county-conference-room.webp",
+      "name": "Cat6 floor box installation Westchester County — conference room",
+      "caption": "Cat6 floor box installation Westchester County — jacks landed in a floor box beneath a boardroom table.",
+      "description": "Cat6 floor box installation Westchester County technician landing keystone jacks in a conference room floor box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-retrofit-installation-westchester-county-drywall-cut-in.webp",
+      "name": "Cat6 retrofit installation Westchester County — drywall cut-in",
+      "caption": "Cat6 retrofit installation Westchester County — cutting in an old-work box after the cable is fished.",
+      "description": "Cat6 retrofit installation Westchester County technician cutting a drywall opening for an old-work box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-voice-data-outlet-installation-westchester-county.webp",
+      "name": "Cat6 voice and data outlet installation Westchester County",
+      "caption": "Cat6 voice and data outlet installation Westchester County — one plate carrying both.",
+      "description": "Cat6 voice and data outlet installation Westchester County technician punching down a combined wall plate",
+      "width": 1402,
+      "height": 1122
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How a Cat6 installation runs in Westchester County",
+  "description": "The sequence Abstract Enterprises Security Systems follows on a Cat6 cable installation in Westchester County, from site walkthrough through labeling and closeout documentation.",
+  "totalTime": "P2D",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Solid copper Cat6 cable, CMP or CMR rated for the pathway"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 keystone jacks, faceplates and mud rings"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 patch panel and rack cable management"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "J-hooks, cable tray or conduit pathway and firestop materials"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Punch-down tool"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fish tape and glow rods"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fluke DSX CableAnalyzer"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Label printer"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Walkthrough",
+      "text": "Walk each building on the site, lift a ceiling tile, inspect the telecom room, and establish the real pathway. On multi-building properties this also determines where fiber backbone runs between buildings rather than copper."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Mobilise",
+      "text": "Submit insurance to the owner or managing agent, confirm access and permitted hours, arrange lift where needed, and confirm the county licence and municipal permit position before the crew loads in."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Pull",
+      "text": "Install pathway and pull cable on supported J-hooks in grid ceilings, conduit or surface raceway in masonry and converted buildings, and cable tray in high-bay space, maintaining separation from power and leaving a service loop at both ends."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Terminate and test",
+      "text": "Terminate a Cat6 keystone at the outlet and a patch panel port at the telecom room, following TIA-568 to T568B unless the building standard says otherwise, then test every finished drop before ceilings close. Where certification is required — frequently a contract deliverable on institutional work — permanent links are certified with a Fluke DSX CableAnalyzer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Label and document",
+      "text": "Label both ends of every drop as it is terminated, following TIA-606-style practice, and hand over the panel map, test results, component list and as-built markups as the closeout package."
+    }
+  ]
+}
