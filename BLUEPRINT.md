@@ -168,6 +168,16 @@ Audit fails any of these → page goes back to rebuild, not to deploy:
 - [ ] All v2.1 elements that apply to this page type are present
 - [ ] §12 checks pass: answer in first 100 words, keyword in title/slug/H1/first sentence, proof strip uses real numbers only, page links to its silo target page (§12.4)
 
+**Publish gate (added Nov 9 2026, from the search & AI visibility audit — any hit = rejected):**
+
+- [ ] No internal marketing sections: nothing titled "Content & Ad Angles", "Viral Hooks", "User-Generated Content", "UGC Angles" or any other social/ad playbook
+- [ ] No builder notes: no "build environment", "could not capture/open/view Google", "not reachable from our", or other text describing how the page was researched or what the builder couldn't access
+- [ ] No bold keyword runs (3+ bolded search phrases in one paragraph) and no "near me" keyword-list blocks
+- [ ] Review count/rating, monitoring prices, alarm brands (2GIG) and phone lines match the single source of facts, the same on every page
+- [ ] No offer of client references — point to Google reviews instead
+- [ ] Office addresses stated correctly: 1282 Troy Ave, Brooklyn (never placed "in" the page's neighborhood) and 460 E Fordham Rd, Bronx
+- [ ] Passes the ranking-principles final check: answers the query in sentence one, has 3+ things the top 5 results don't, shows first-hand proof, 2+ real sourced stats, 1 real quote
+
 ---
 
 ## 8. GBP Routing (mandatory)

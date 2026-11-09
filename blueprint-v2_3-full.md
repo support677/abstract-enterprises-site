@@ -49,7 +49,7 @@
 | 10 | Hyperlocal (BK Paper/Eagle/Bay News/Caribbean Life; Bronx Times/Norwood/Riverdale; Queens Chron/Ledger; Herald-Record/Daily Freeman/Poughkeepsie Jrnl; News12 by region) | Neighborhood-level incidents/context |
 | 11 | Yelp 1–3★ | Competitor pain points / what residents complain about |
 
-Rule: if a source comes back empty, **write `EMPTY` in the research matrix — never fabricate to fill the gap.** In a build environment that cannot open a live surface (Reddit/PAA/PASF/ATP/AI-Overview/Yelp), mark it `EMPTY (not accessible in build env)` and substitute verified primary sources (local-news URLs) instead.
+Rule: if a source comes back empty, **write `EMPTY` in the research matrix — never fabricate to fill the gap.** In a build environment that cannot open a live surface (Reddit/PAA/PASF/ATP/AI-Overview/Yelp), mark it `EMPTY (not accessible in build env)` and substitute verified primary sources (local-news URLs) instead. That note stays in the research matrix only — never write on the page what the builder could or couldn't access.
 
 ---
 
