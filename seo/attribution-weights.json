@@ -1,12 +1,10 @@
 {
  "area": {
-  "bronx": 489.94,
-  "brooklyn": 14314.59,
+  "brooklyn": 13179.07,
   "congers": 291.53,
   "hempstead": 1.0,
   "new-york": 1756.37,
   "orangeburg": 1441.39,
-  "purchase": 270.94,
   "richmond-hill": 506.27,
   "seldon": 190.0,
   "staten-islan": 2068.63,
@@ -20,7 +18,7 @@
  },
  "generated": "2026-11-08T08:15:00.001053+00:00",
  "service": {
-  "security-camera": 1136.52
+  "security-camera": 1.0
  },
  "window_days": 30
 }
