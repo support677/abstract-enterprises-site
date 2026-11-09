@@ -69,6 +69,7 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-11-08 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2358 queued. All 11 inspected as not on Google (d-link manhattan/staten island and q-see brooklyn were "URL is unknown to Google"; the rest Discovered - currently not indexed). d-link nassau county's first attempt was cut off mid live-test, then succeeded on retry. "Quota Exceeded" on the 12th request (q-see nassau county, Discovered - currently not indexed), which stays QUEUED; next run starts there.
 2026-11-08 evening (scheduled, 01:53 UTC Nov 9, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2364 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-09T01:53:34Z, 2836 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2078 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected q-see nassau county (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at q-see nassau county.
 
+2026-11-09 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2353 queued. All 11 inspected as not on Google (q-see nassau/suffolk/orange/putnam/dutchess/ulster were "URL is unknown to Google"; the rest Discovered - currently not indexed). q-see suffolk county, q-see westchester county and digital-watchdog staten island returned "Oops! Something went wrong" once, then succeeded on retry. "Quota Exceeded" on the 12th request (digital-watchdog long island, Discovered - currently not indexed), which stays QUEUED; next run starts there.
 
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
@@ -195,17 +196,17 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-manhattan | REQUESTED 2026-11-08
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-staten-island | REQUESTED 2026-11-08
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-long-island | REQUESTED 2026-11-08
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-nassau-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-brooklyn | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-staten-island | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-nassau-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-suffolk-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-westchester-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-hudson-valley | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-rockland-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-orange-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-putnam-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-dutchess-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/q-see-camera-installation-prices-ulster-county | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-brooklyn | REQUESTED 2026-11-09
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-staten-island | REQUESTED 2026-11-09
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-long-island | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-nassau-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/digital-watchdog-camera-installation-prices-westchester-county | QUEUED
