@@ -1,0 +1,27 @@
+== tv-mounting-prices-nyc.html
+  title 51 chars (<=60): PASS | meta 158 (150-160): PASS | canonical https://www.abstractenterprisessecuritysystems.com/tv-mounting-prices-nyc PASS
+  one H1: PASS | words 9461 (>=2500): PASS | GBP routing: PASS
+  FAQ schema matches visible FAQ (12/12): PASS | stats bar: PASS | freshness stamp: PASS
+  sections: 5, 6, 7 + 7.5, 8 + 8.5, 9, 10 + 24, 29, 10.5, 11, 12, 21, 13, 14, 15 + 15.5, 16, 17, 19, 18 (blueprint 20-elem order)
+  silo links -> ['bronx', 'brooklyn', 'manhattan', 'queens', 'staten-island']
+== tv-mounting-prices-long-island.html
+  title 55 chars (<=60): PASS | meta 159 (150-160): PASS | canonical https://www.abstractenterprisessecuritysystems.com/tv-mounting-prices-long-island PASS
+  one H1: PASS | words 9251 (>=2500): PASS | GBP routing: PASS
+  FAQ schema matches visible FAQ (12/12): PASS | stats bar: PASS | freshness stamp: PASS
+  sections: 5, 6, 7 + 7.5, 8 + 8.5, 9, 10 + 24, 29, 10.5, 11, 12, 21, 13, 14, 15 + 15.5, 16, 17, 19, 18 (blueprint 20-elem order)
+  silo links -> ['nassau-county', 'suffolk-county']
+== tv-mounting-prices-hudson-valley.html
+  title 58 chars (<=60): PASS | meta 159 (150-160): PASS | canonical https://www.abstractenterprisessecuritysystems.com/tv-mounting-prices-hudson-valley PASS
+  one H1: PASS | words 9245 (>=2500): PASS | GBP routing: PASS
+  FAQ schema matches visible FAQ (11/11): PASS | stats bar: PASS | freshness stamp: PASS
+  sections: 5, 6, 7 + 7.5, 8 + 8.5, 9, 10 + 24, 29, 10.5, 11, 12, 21, 13, 14, 15 + 15.5, 16, 17, 19, 18 (blueprint 20-elem order)
+  silo links -> ['dutchess-county', 'orange-county', 'putnam-county', 'rockland-county', 'ulster-county', 'westchester-county']
+size gap nyc/long-island: 6011 bytes PASS
+size gap nyc/hudson-valley: 3512 bytes PASS
+size gap long-island/hudson-valley: 2499 bytes PASS
+duplicate questions nyc/long-island: 0 PASS
+duplicate questions nyc/hudson-valley: 0 PASS
+duplicate questions long-island/hudson-valley: 0 PASS
+nyc: Q&A vs FAQ overlap 0 PASS
+long-island: Q&A vs FAQ overlap 0 PASS
+hudson-valley: Q&A vs FAQ overlap 0 PASS

@@ -1,0 +1,858 @@
+Network Installation Brooklyn | Office Networks
+
+Brooklyn, New York
+
+### Network Installation Brooklyn
+
+Office network design · business Wi-Fi · managed switching · firewalls and VLANs · pathway design for exposed ceilings · network rack buildout · repair
+
+Commercial network installation across Brooklyn — Downtown office floors, DUMBO and Williamsburg conversions, Navy Yard and Industry City plates, and the mixed-use commercial stock along the avenues. We walk the building, plan the pathway, design the network, run the plant, build the rack, configure the switching and the wireless, and hand over documentation and logins.
+
+Most commercial space in this borough was built for something else. Manufacturing lofts, warehouses and printing houses became offices without gaining any of the infrastructure an office is normally given — no telecom room, no riser, no pathway grid above the ceiling, and no drawings. That is the technical problem here, and it is why the pathway plan matters as much as the drop count.
+
+Get a Free Quote →
+Call (347) 934-8335
+
+4.7 / 201 Google Reviews
+NYS Low Voltage #12000287431
+Licensed & Insured
+Small office networks from $4,900
+
+### Get a Brooklyn Network Quote
+
+Tell us the space and roughly how many people work in it — we'll come back with a number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Roughly how many people?
+
+Select
+1–10
+11–25
+26–50
+51–100
+100+
+
+Area *
+
+Select an area
+Downtown Brooklyn
+DUMBO
+Williamsburg / Greenpoint
+Bushwick
+Gowanus / Red Hook
+Sunset Park / Industry City
+Park Slope
+Bay Ridge
+Other
+
+I agree to be contacted about this request. See our privacy policy .
+
+Request My Quote
+Or call (347) 934-8335
+
+[FIG] A PoE+ switch going into a rack built where the building never provided a closet. Power headroom is bought now, because reaching a high mount later means a lift.
+
+Scope
+
+### What a Brooklyn network installation covers
+
+More than half the commercial space we work in across this borough was built for something else entirely. That fact shapes every line of the estimate.
+
+A structural walk, not just a floor walk. What the building was originally, what it is made of, what has already been run through it, and where a pathway can honestly go. In a converted warehouse none of that is on a drawing.
+
+An honest pathway plan. Where cable can be concealed, where it cannot, and what the visible sections will look like — agreed before anything is pulled, because in an exposed-ceiling building the pathway is part of the interior.
+
+A written design. Addressing, VLAN scheme, switches sized with power to spare, radio count and positions, and the equipment list.
+
+The plant. Cable on supported pathway, plenum-rated where a ceiling is a return, firestopped at rated penetrations, category-matched terminations, certified across the full drop count.
+
+The rack. A cabinet or floor-standing network rack with panels, managers, protected power and battery backup, dressed and labelled end to end.
+
+The active layer. Switching, edge firewall, wireless — fitted, configured, tuned and proven.
+
+Handover. Port map, as-built, addressing scheme, equipment schedule with serials, administrative access.
+
+Itemised separately rather than absorbed: rack hardware, panels, switches and firewalls where we furnish them, conduit and surface raceway where concealment is impossible, firestop materials, core drilling through brick or timber, lift work under high ceilings, and evening crews. In converted stock these lines are larger than they would be in a purpose-built office, and pretending otherwise is how a bid comes in low and finishes high.
+
+Worth asking any Brooklyn bidder. Show me where the cable runs and what it will look like. In a building with a fourteen-foot exposed ceiling, "we'll figure it out on site" means you are approving the appearance of your office after the fact.
+
+[FIG] Running cable back to the rack position. In a converted building the route was decided on paper first, because every foot of it will be visible.
+
+The Brooklyn constraint
+
+### Buildings that were never designed to carry a network
+
+Manufacturing lofts, warehouses, breweries and printing houses became offices without gaining any of the infrastructure an office is normally given. That is the borough's defining technical problem.
+
+A purpose-built office building arrives with a telecom room on each floor, a riser connecting them, a pathway grid above the ceiling and a drawing set that describes all three. A converted industrial building has none of it. There is a ceiling fourteen or eighteen feet up with no plenum and nothing above it to hide anything in. There is a floor of heavy timber or concrete with no clean vertical route. There are brick party walls three wythes thick. And there is whatever the last four tenants ran, still stapled to a joist and still, possibly, live.
+
+### Pathway becomes a design decision, not a detail
+
+When nothing can be concealed, every run is visible, which means every run is either designed or improvised — and improvised is permanent. We plan pathway as an interior element: consistent heights, straight parallel lines, dressed bundles, surface raceway or tray where it makes sense, cable colour chosen deliberately rather than by whatever was on the truck. Tenants who took the space for the exposed ceiling notice.
+
+### The vertical problem
+
+Multi-floor conversions rarely have a usable riser. Getting between floors usually means coring a timber or concrete deck, which is real work, requires the landlord's agreement, and needs firestopping to the assembly rating. That single decision is frequently the largest line item on a Brooklyn multi-floor job, and it is worth resolving during design rather than discovering on day two.
+
+### What is already in the walls
+
+Layered legacy cabling is the norm here in a way it is not in newer stock. A Gowanus or Bushwick building that has cycled through a photographer, a furniture maker, a startup and a nonprofit will have four generations of cable in it, none labelled, some abandoned, some carrying something. Takeovers therefore begin with tracing rather than planning — a step we price openly because skipping it means designing around assumptions.
+
+### Where this does not apply
+
+Downtown Brooklyn is a genuine exception. MetroTech, Court Street and the Jay Street corridor hold conventional Class A and Class B office stock with real telecom rooms, drop ceilings that function as return plenums, stacked closets and accurate drawings. Work there resembles Midtown far more than it resembles Sunset Park, including the building access rules. It is worth knowing which Brooklyn you are in before comparing quotes.
+
+[FIG] Dressed bundles at a consistent height on supported pathway. In a loft with nothing to hide cable in, the pathway is part of the interior.
+
+Building stock
+
+### Five Brooklyn building types and what each one demands
+
+The neighbourhood tells you the construction, and the construction tells you the job.
+
+### Downtown Class A and B office
+
+MetroTech, Court Street, Livingston Street, Jay Street. Conventional commercial buildings with telecom rooms, risers, drop ceilings and building management that expects insurance on file and freight coordinated. Plenum-rated cable across most horizontal runs. Straightforward work with administrative overhead closer to Manhattan's than to the rest of the borough's.
+
+### Converted manufacturing loft
+
+DUMBO, Gowanus, Williamsburg, Bushwick, Greenpoint. Heavy timber or reinforced concrete, brick perimeter and party walls, high exposed ceilings, column grids instead of partitions. Everything is visible, wireless carries well through open volume but stops dead at masonry, and the pathway plan is the design. Sprinkler and structure both compete for the space cable wants.
+
+### Large campus and industrial
+
+Brooklyn Navy Yard, Industry City, Bush Terminal, Sunset Park. Enormous floor plates, multiple buildings on one site, concrete and steel throughout, and distances that break the hundred-metre copper limit inside a single structure. These sites need a closet plan and fiber between rooms before anyone discusses drops, and frequently a link between buildings on the same campus.
+
+### Mixed-use and main-street commercial
+
+Atlantic Avenue, Flatbush Avenue, Fifth Avenue in Park Slope, Bay Ridge's Third and Fifth Avenues, Brighton Beach Avenue. Retail below with offices or practices above, masonry party walls, plaster in the older buildings, no dedicated telecom space, and pathway created with raceway or coring. Small jobs where placement matters disproportionately because there is no room for extra hardware.
+
+### Institutional and medical
+
+Hospital corridors, clinics, schools and non-profits across the borough, plus the medical concentration around Downtown and Midwood. Documented standards, segmentation as a requirement rather than a preference, and scheduling dictated by service hours.
+
+[FIG] Boxes staged for a pull across a large plate. Cable rating is chosen per pathway, and on industrial floors the distances decide the room plan.
+
+Wired layer
+
+### Switching, the edge, and closets in buildings without one
+
+Half the Brooklyn spaces we work in have no room designated for network equipment. Choosing where it goes is the first structural decision.
+
+### Siting a closet where none exists
+
+In a converted loft the candidates are usually a corner of a storage area, a purpose-built enclosure, or a wall-mounted cabinet in a back-of-house space. Three things decide it: distance to the furthest planned outlet, whether power can be brought to it properly, and whether the space stays within the equipment's temperature range across a year. Putting the cabinet where it was convenient and discovering in July that it has no air is a common and expensive sequence.
+
+### Switch sizing on a large plate
+
+Port headroom and power headroom both matter, and on the larger industrial floor plates a second closet is frequently the correct answer rather than a compromise. Copper stops at a hundred metres measured as installed — up to a high ceiling, along the pathway, back down a column — and a big Sunset Park or Navy Yard floor exceeds that comfortably from a single point. Fiber between rooms absorbs the distance and keeps every horizontal run in spec.
+
+### The edge
+
+One router or firewall per tenancy, sited where the circuit lands. Most Brooklyn businesses are well served by a business gateway with a considered rule set; anything handling regulated data, supporting remote staff, or facing a client security questionnaire benefits from a firewall with real logging. Where a second circuit exists it becomes failover rather than a parallel network — a configuration decision, not more cable.
+
+### Power and heat in old buildings
+
+Converted stock brings both extremes. An unventilated interior closet in a masonry building holds summer heat well past what equipment tolerates, and an unheated corner of a former warehouse in January can sit below the operating range of a commercial switch. Battery backup sized to the rack handles the electrical side; the thermal side is settled at design time by choosing the room, venting the cabinet, or specifying accordingly.
+
+Segmentation
+
+### VLANs for mixed-use Brooklyn businesses
+
+A lot of Brooklyn companies do more than one thing under one roof — an office and a workshop, a studio and a shop, a kitchen and a dining room. Segmentation is how those coexist on one circuit without interfering with each other.
+
+Left flat, a network lets anything on it reach anything else on it. In a building where a retail terminal, a fabrication machine, a visitor's laptop and the drive holding client work all share one segment, a single unpatched or misbehaving device reaches everything. Nothing has to be malicious for that to become a problem.
+
+Segment What occupies it in a Brooklyn business Why it is fenced
+
+Staff Workstations, laptops, printers, storage The business network, with everything else kept outside it
+
+Guest Visitors, retail floor, café or gallery areas Isolation and a bandwidth ceiling, no route to internal resources
+
+Voice IP handsets across office and shop Prioritised so calls survive a large file transfer
+
+Production Fabrication equipment, studio gear, kitchen systems, shop terminals A different uptime requirement and a different traffic shape from the office
+
+Payment Card terminals and point-of-sale positions Scope reduction — payment traffic kept away from general browsing
+
+Building / IoT Thermostats, sensors, displays, smart fixtures The least maintained equipment in the building, by some distance
+
+A ten-person Gowanus design studio needs staff, guest and probably voice. A Bushwick maker business with a retail front needs payment and production fenced as well, because the shop must keep taking money when somebody upstairs saturates the connection. The conversation is about which fences earn their keep.
+
+Public-facing space raises the stakes. If any part of your floor is open to customers, the wireless they can join must not sit on the same segment as your work. That is minutes of configuration at build time and awkward to retrofit later.
+
+[FIG] Two ports at a desk position. On studio floors we wire the workstations deliberately and leave wireless for laptops and mobile devices.
+
+Wireless
+
+### Wi-Fi installation in Brooklyn: open volume, hard edges
+
+Wireless network installation in converted stock produces an unusual pattern — excellent coverage across a large open floor, and a hard stop at every masonry wall.
+
+### The open floor is easy
+
+A loft with columns rather than partitions is close to an ideal environment for radio. Signal travels well, few obstructions interrupt it, and two or three well-placed access points can cover an area that would need five in a partitioned office. Mounting height needs thought — an access point at eighteen feet aimed straight down covers less usable floor than the datasheet suggests — but coverage is rarely the problem.
+
+### The masonry is not
+
+Brick party walls two or three wythes thick stop radio almost completely. In a building where the open studio is covered by two access points, the three enclosed rooms behind a brick wall may get nothing at all, and no increase in transmit power reaches them. Those rooms need their own coverage and their own drops. The same applies to the older mixed-use stock along the avenues, where plaster over lath produces the same effect for the same reason.
+
+### Capacity is the real Brooklyn problem
+
+Coverage is usually easy here; capacity frequently is not. Studios, agencies and production companies move large files between workstations and storage all day, and a wireless design that covers the floor beautifully can still feel slow because everyone is sharing airtime and the uplink from the closet is undersized. On these floors, wiring the workstations and reserving wireless for laptops and mobile devices is a better answer than adding radios.
+
+Space Typical AP count What drives it
+
+Open loft floor, 5,000 sq ft, columns only 2–3 Open volume; mounting height matters more than count
+
+Same floor with enclosed rooms behind brick +1 per enclosed cluster Masonry stops signal outright
+
+Downtown office floor with partitions 3–4 Conventional construction and layout
+
+Mixed-use above retail, older building 2–3 Plaster over lath and small rooms
+
+Industrial floor plate with racking 1 per 5,000–10,000 sq ft Height, racking, roaming paths
+
+Retail or gallery floor open to the public 1–2 plus isolation Density at peak and a fenced guest segment
+
+[FIG] An access point going up. Open loft volume covers easily; the enclosed rooms behind brick need their own radio and their own drop.
+
+Survey
+
+### When a survey is worth paying for in Brooklyn
+
+A survey is a measurement rather than a sales instrument, and in this borough there is a clear line between the buildings that need one and the buildings that do not.
+
+A predictive survey works out likely coverage from the drawings and whatever the construction is stated to be. On a Downtown office floor with accurate plans that is close enough to work from. An on-site survey puts a meter in the space and records what is actually there — signal, neighbouring networks, and how far radio genuinely travels through the specific walls in front of you.
+
+### Justified
+
+Any converted industrial building. Brick and heavy timber cannot be modelled honestly, and the combination of open volume and hard masonry edges produces coverage maps nobody predicts correctly.
+
+Large industrial floor plates. Navy Yard and Sunset Park scale spaces where racking, stock and distance all interact.
+
+Anywhere the floor plan and the reality differ, which in conversion stock is most of the time — walls get added and removed without drawings following.
+
+Anywhere a previous WiFi installation already failed, since the survey establishes whether the fault was count, placement, spectrum or the building itself.
+
+### Not justified
+
+A Downtown office suite under roughly 4,000 square feet with conventional partitions and a normal device count does not need a paid survey to reach a defensible count, and we will say so rather than sell one. The fee is $450, credited against the project. The validation walk after installation — a meter carried across the finished floor and into every enclosed room — comes with the project either way, and in a masonry building it is the step that catches the room somebody assumed would be fine.
+
+[FIG] Feeding cable in occupied space. Downtown floors have a ceiling to work above; most of the borough's converted stock does not.
+
+Power budget
+
+### PoE budget under a high ceiling
+
+Power over Ethernet carries data and power to an access point, a handset or a powered device on one cable. It is also the fault that looks like anything but itself.
+
+Each PoE switch holds a total wattage shared across every port, well below the sum of what all ports could draw. A 24-port switch advertising PoE+ on every port might carry a 370-watt budget; fill it with thirty-watt devices and the arithmetic ends around port twelve.
+
+Standard Per-port budget Typical devices
+
+PoE (802.3af) 15.4W IP handsets, sensors, older access points
+
+PoE+ (802.3at) 30W Modern access points, video handsets, powered displays
+
+PoE++ (802.3bt) 60–90W Wi-Fi 6E and 7 access points, large displays, PoE lighting
+
+### The Brooklyn version of the problem
+
+High ceilings make every powered device expensive to reach. When a switch quietly declines power to the newest access point at sixteen feet, correcting it means a lift, a crew and a day — for a fault that cost nothing to prevent at purchase. The failure is selective and silent: devices already drawing power keep working while new ones do not, so what is observed is that the radios fitted last month are fine and the ones fitted last week are dead. It presents as faulty hardware. It is arithmetic. Size the budget for what is planned, not for what is present.
+
+Powered lighting and displays count too. Converted spaces increasingly run PoE lighting and large displays, both of which draw from the same budget as the wireless. If either is on the roadmap, the switch specified today has to allow for it.
+
+The rack
+
+### Building a network rack where the building never provided one
+
+In conversion stock the rack is not installed into a room. The room is created around the rack.
+
+A good result looks deliberate: an enclosure or wall cabinet in a considered position, panels at the top, switching below, short cords in consistent colours through managers, labelled throughout, with air and space to grow. A poor result is equipment stacked on a shelf in a corner with a knot of cords behind it and no labels, which costs somebody an hour every time anything needs tracing for the next decade.
+
+### What belongs in it
+
+Network rack or wall cabinet sized for the tenancy and positioned by distance to the furthest outlet rather than by what was left over.
+
+Patch panels with spare ports, because panel capacity is the hardest thing to add afterwards.
+
+Managers horizontally and vertically, which separate a rack somebody can service from one that is merely full.
+
+Power. Its own circuit where the building permits, a PDU in the rack, and battery backup matched to the draw.
+
+Bonding back to building ground wherever the installation calls for it.
+
+Labelling on each port, panel and cable end, agreeing exactly with the port map.
+
+### Cleanup as its own project
+
+A large share of the borough's network work is not construction at all — it is a rack that four tenants and their vendors added to over a decade, in a building where nobody documented anything and several runs go somewhere nobody can name. We trace, remove what is genuinely dead, re-route, re-terminate where necessary, dress, label and produce a map. It is unglamorous and it is usually the most valuable day anybody spends on that network.
+
+[FIG] One rack before and after. Four tenants and their vendors over a decade, traced, re-routed, dressed, labelled and finally written down.
+
+Plant
+
+### Four generations of cable in one ceiling
+
+Every build carries a decision about what is already there. In Brooklyn conversion stock that decision starts with working out what "there" even is.
+
+Wireless still needs a wire. Access points are backhauled on cable, desks take one or two runs, and everything terminates on a panel. So the plant sits inside the scope whether or not anything new gets pulled — and here, so does the archaeology.
+
+### Tracing before deciding
+
+In a building that has cycled through several tenants, the ceiling holds abandoned runs, live runs, and runs that are live but connected to nothing anybody uses. Removing cable that turns out to matter is worse than leaving cable that does not, so tracing comes first. It is a real line item and we quote it openly, because a design built on assumptions about existing plant is a design that will be revised.
+
+### Keeping what works
+
+Cable left behind is often perfectly serviceable. Runs that are Cat5e or better, terminated on matching hardware, within distance and certifying clean will carry a modern gigabit office. Age alone is not a finding. What is worth testing specifically in this stock is physical condition, because cable stapled to a joist by somebody in a hurry twelve years ago has usually been stressed somewhere along its length.
+
+### When it goes
+
+Runs failing certification: split pairs, crushed or kinked jacket, length beyond the limit measured as installed.
+
+Unidentifiable cable with no jacket print, especially where it now carries power.
+
+Non-plenum cable in a return-plenum ceiling — a code problem regardless of performance.
+
+Runs landed on mismatched hardware, which perform to the lower category whatever the cable cost.
+
+Abandoned cable in quantity, which is worth removing on its own account in a building with an exposed ceiling.
+
+Ethernet installation on a network build follows one rule set regardless of drop count: supported pathway, plenum-rated where a ceiling is a return, firestopped at rated penetrations, matched terminations, labelled and certified. The working default is two ports at each desk and one at each ceiling position, with a spare pulled where the budget permits. Category detail and per-drop pricing live on the cabling pages.
+
+Related: structured cabling installation in Brooklyn covers the full plant. Cat6 installation Brooklyn covers category and per-drop pricing.
+
+Handover
+
+### Documentation, and breaking the Brooklyn cycle
+
+The reason so much conversion-stock cabling is undocumented is that each tenant assumed the next one would start over. Somebody has to stop doing that.
+
+Every project finishes with a package, identical whether the client has an IT director or an office manager who has never opened a switch.
+
+Port map tying each panel port to its outlet and area. In a building with no drawings this becomes the building's only accurate record.
+
+Both-end labelling in a scheme that still reads after the floor is reconfigured — which in a flexible loft it will be, repeatedly.
+
+Certification data across the full drop count rather than a sample.
+
+As-built showing rack position, the pathway as it actually runs, any coring between floors, and access point locations.
+
+The addressing and VLAN scheme recorded: subnets, scopes, reservations, SSIDs, and where each one sits.
+
+An equipment list giving model, serial and firmware as handed over.
+
+Admin credentials for each device we configured, transferred on the final day.
+
+The pathway drawing matters more in this borough than in newer stock, because in an exposed building the cable route is a physical fact somebody will eventually need to work around — a wall going in, a mezzanine, a sprinkler alteration. A route nobody recorded is a route somebody cuts.
+
+On credentials, plainly: some contractors keep admin access to their own work so that changing vendors means starting again. We do not, and anyone comparing proposals should ask outright before signing. It is your network. You get the keys.
+
+[FIG] Labels made up at the panel and written into the map before moving on. In a building with no drawings this becomes the only accurate record.
+
+Repair & takeover
+
+### The network the building came with
+
+Most Brooklyn takeovers start with a tenant who signed a lease on a space that already had cable in it and no idea what any of it does.
+
+The versions repeat. A company that took a loft as-is and inherited a decade of accumulated wiring. A rack extended by a series of vendors nobody can name. Wireless that suited an open studio and fails now that three rooms have been framed out. An installer who shut down, stopped replying, or kept the passwords. A network that behaves at eight and collapses by half past nine.
+
+### Trace and assess before changing anything
+
+We map what is physically present, certify what is worth certifying, read whatever configuration is reachable, and write up what is sound, what is failing, what is unsafe and what is simply unrecorded. Nothing is removed until that is agreed, because in a building with no drawings a removed cable cannot be reconstructed from anything.
+
+### Separate the plant question from the equipment question
+
+These get conflated and carry very different costs. Often the cable is fine and only the equipment and configuration above it need replacing. Certification data settles it, and having it in hand before a rewire is priced is worth the hour.
+
+### Stabilise, then plan
+
+Anything actively broken is fixed first and separately. Redesign follows on a schedule rather than during an outage, because rebuilding under pressure converts a one-day problem into a three-day one.
+
+### Record it properly
+
+Even where the recommendation is to change little, the rack gets labelled and a map gets produced. Those records stay with the space, which is how the cycle stops.
+
+[FIG] Tracing what previous tenants left behind. Nothing gets removed from a Brooklyn ceiling until it has been traced and the removal agreed.
+
+Diagnosis
+
+### Working out whether the network is actually at fault
+
+A good share of the calls we take about a slow network turn out to be about something else. Establishing which on the phone saves everyone a visit.
+
+### Points at the network
+
+The enclosed rooms are bad and the open floor is fine. In masonry buildings that is coverage, and it is the single most common complaint in this borough.
+
+It tracks the working day. Fine early, poor mid-morning, fine again after six — capacity, airtime, or an undersized uplink from the rack.
+
+Large transfers crawl while browsing is fine. That is usually wireless capacity or an uplink, not the circuit, and it points at wiring the workstations.
+
+The network keeps disconnecting rather than failing outright — devices associate, drop and reconnect a minute later. Usually roaming, channel overlap or a marginal run, and all three are diagnosable.
+
+It changed when the space did. New walls in a loft change wireless behaviour immediately, and masonry or steel-stud walls change it dramatically.
+
+Only powered devices are affected. The rack's power budget.
+
+### Points elsewhere
+
+Nothing is quick anywhere, on cable or wireless, morning or evening. That belongs to the carrier, and a wired test at the edge proves it without opening a ceiling.
+
+One application is slow and the rest behave. The application or its host.
+
+One machine is affected and nothing else is. The machine.
+
+It began the day the provider worked on the line and nothing on your side changed.
+
+Establishing a carrier fault on a phone call costs nothing, and that is preferable to billing a visit to reach the same answer. When it really is unclear, an hour spent isolating the layer beats a redesign pointed at the wrong thing.
+
+Pricing
+
+### What network installation costs in Brooklyn
+
+Published line items, with the conversion-stock costs shown rather than absorbed. Hardware is priced on its own or provided by you.
+
+### Design and survey
+
+Item Price
+
+On-site assessment, drop count and pathway review Free
+
+Wireless site survey and heat map $450 (credited to the project)
+
+Network design — addressing, VLAN plan, pathway and as-built drawings $350–$650
+
+Existing plant trace and inventory in conversion stock from $450
+
+### Installation and configuration
+
+Item Price
+
+Router / gateway install and configuration $350
+
+Business firewall install with rule set $450–$900
+
+Managed switch install and configuration — 24-port $250
+
+Managed switch install and configuration — 48-port $400
+
+Each additional switch in a stack $175
+
+VLAN / segmentation configuration, per segment $125
+
+Guest network with client isolation and captive portal $200
+
+Wi-Fi access point — mounted and tuned on an existing drop $225
+
+Wi-Fi access point — including a new cable run $300
+
+Access point above 14 ft — lift or scaffold work $375
+
+Network rack or cabinet build — panels, managers, PDU, dressing $650
+
+Second telecom room on a large plate, with fiber link from $2,400
+
+Existing rack cleanup, trace, re-route and re-label from $500
+
+Demarc extension to the rack position from $350
+
+Documentation package — port map, pathway as-built, credential handover $350
+
+Certification testing, per drop $20
+
+### Conversion-stock lines
+
+Item Price
+
+Surface raceway or cable tray where concealment is impossible $14 per ft
+
+Core through a timber or concrete deck, firestopped from $650
+
+Core through a masonry party wall, firestopped from $350
+
+Removal and disposal of abandoned cable from $400
+
+Shown on their own lines because they are the difference between a converted building and a purpose-built one, and because a bid that omits them is not cheaper — it is incomplete. Downtown Class A and B floors rarely need any of them.
+
+### Whole-network packages
+
+Package Scope From
+
+Small studio or suite Up to 10 users, 12 drops, firewall, 24-port PoE switch, 2 access points, wall cabinet, VLANs, documentation $4,900
+
+Downtown office floor 25–50 users, switching, 4–6 access points, firewall, floor rack, full segmentation, certification, documentation $12,500
+
+Loft or conversion floor As above with designed visible pathway, coverage for enclosed masonry rooms and lift work where the ceiling requires it from $16,500
+
+Industrial plate or campus Multiple rooms, fiber between them, possibly between buildings Custom proposal
+
+### What moves the number
+
+Whether anything can be concealed. The single largest variable in conversion stock, and the one most visible in the finished space.
+
+Ceiling height. Everything above fourteen feet needs a lift, and lift work is slower than ladder work in both directions.
+
+Vertical routes between floors. Coring a deck is real work and needs the landlord's agreement.
+
+How much is already in the ceiling and whether any of it can be identified.
+
+Rough-in versus retrofit. A run made while a wall is open costs a fraction of the identical run fished later.
+
+Floor plate size. Large industrial plates need a second room rather than a stretched run.
+
+### Repair and service
+
+Diagnosis and repair on an existing network is $195 hourly, three hours minimum. Same-day dispatch across the borough for outages. If the call turns into a quoted project, those hours come off it.
+
+[FIG] Fishing a drop in older mixed-use stock. Masonry and plaster are why retrofit labour above the avenues runs well past new construction.
+
+Equipment
+
+### What we deploy in Brooklyn spaces
+
+No single manufacturer suits every building. What matters is that the hardware fits the space, the budget and whoever maintains it.
+
+### Ubiquiti UniFi
+
+The common choice across the borough, and a good fit for conversion stock because the indoor, high-ceiling and outdoor units share one controller. No per-device licence, capable radios, and management most people can operate. Support is community-based rather than contractual, which weighs differently at fifty people than at ten.
+
+### Cisco Meraki
+
+Cloud-managed with strong tooling and support, licensed per device annually and indefinitely — hardware stops when the licence lapses. The right answer for institutional and medical work, and for any tenancy that wants a support contract behind the network.
+
+### Aruba Instant On and TP-Link Omada
+
+The budget end of the range, and better than that description implies. Reliable radios and switches with no annual licence. Sensible for a small studio or a mixed-use suite where the network is infrastructure rather than a strategic asset.
+
+### Firewalls — Fortinet and pfSense
+
+Where the edge needs inspection, VPN for people working elsewhere, and logging you can produce on request. Fortinet where a supported commercial appliance is wanted, pfSense or Netgate where an open platform with no subscription suits better.
+
+### Client-supplied hardware
+
+Where equipment is already bought, or an IT provider standardises on a line, we install and configure it. The one thing we insist on is saying so directly when what was purchased cannot do the job — an access point count that cannot cross brick, a switch without power headroom for radios at sixteen feet, a consumer router asked to carry a floor. Better said before installation than after.
+
+### What a Brooklyn business does not need
+
+A consumer router serving an open floor of twenty-five people, which is the most common thing we replace here. Unmanaged switches multiplying under desks after each reconfiguration. Wireless extenders standing in for access points behind a brick wall — they cannot cross it either. And a faster circuit bought hoping to fix a capacity problem that lives entirely between the workstations and the rack.
+
+Comparison
+
+### Network installation, structured cabling and Cat6
+
+Three overlapping terms that describe genuinely different scopes of work.
+
+Term What it covers What it excludes
+
+Cat6 installation A single category of cable and the parts that go with it: runs, jacks, panels, terminations, testing. Equipment, configuration, wireless design
+
+Structured cabling The plant across a tenancy or building: horizontal runs, backbone, rooms, fiber, pathway, certification. Switch configuration, routing, firewall rules, VLANs, wireless tuning
+
+Network installation Everything needed for traffic to move: design, addressing, switching, the edge, segmentation, wireless coverage and documentation, plant included. Server administration, desktop support, software
+
+The Brooklyn consequence of splitting them is specific. In a building with no drawings and no concealed pathway, the person deciding where cable runs is making a visible, permanent decision about the space. When that person is a subcontractor working from a scope written by somebody who never walked the floor, the result is what you see stapled across the ceilings of half the converted buildings in this borough.
+
+This is the Brooklyn borough page. The citywide hub is network installation NYC ; the neighbouring boroughs are Manhattan and Queens .
+
+By business type
+
+### What the work looks like for different Brooklyn businesses
+
+Headcount says little. The building and the operation say the rest.
+
+Creative
+
+### Studios, agencies and production
+
+Large files moving between workstations and storage all day, which makes uplink capacity and wired desk positions matter more than radio count. Exposed ceilings where the pathway is part of the interior, and a strong preference for wireless that covers the whole floor without looking like an afterthought.
+
+Maker
+
+### Fabrication, workshops and light manufacturing
+
+An office and a shop under one roof with very different requirements. A production segment kept clear of the office network, coverage that survives machinery and stock, and equipment sited where dust and temperature will not shorten its life.
+
+Professional
+
+### Downtown professional offices
+
+Conventional fit-out work in Class A and B buildings — two ports per desk, conference rooms as density problems, segmentation driven by what sits on the file server, and building management expecting insurance and freight coordination in the Manhattan manner.
+
+Retail
+
+### Retail, food and hospitality
+
+Card terminals on wired connections wherever possible, payment fenced from the guest network, back-of-house coverage that survives stock, and work scheduled around trading hours — which for restaurants means overnight.
+
+Medical
+
+### Medical, dental and clinical
+
+Clinical systems on their own segment, patient wireless entirely separated, and older mixed-use buildings above retail where the walls make coverage harder than the square footage suggests. Scheduling follows appointment hours.
+
+Nonprofit
+
+### Non-profits, schools and community organisations
+
+Tight budgets, mixed-vintage buildings, and a genuine need for the design to last rather than to impress. Segmentation for public-facing areas, documentation that survives staff turnover, and hardware chosen with no recurring licence where that is the right call.
+
+Process
+
+### From walkthrough to closeout
+
+Five stages, and in conversion stock the first one takes longer than people expect.
+
+### Walk the building and read the ceiling
+
+What the structure is, what is already run through it, where a rack can honestly live, how far the furthest planned outlet sits from it, and which sections of pathway will be visible. In a converted building none of this is on a drawing, so the walk produces the drawing rather than confirming one.
+
+### Design, quote and agree the appearance
+
+Addressing, VLAN plan, switch sizing with power headroom, access point count including the enclosed rooms behind masonry, equipment schedule, a line-item price with the conversion lines shown separately — and a pathway plan you sign off on, because in an exposed building that plan is a decision about how the office looks.
+
+### Pathway and plant
+
+Supports first, then cable: dressed bundles at consistent heights, straight parallel runs, plenum-rated where a ceiling is a return, firestopped at every rated penetration, and coring between floors where the design calls for it.
+
+### Rack and equipment
+
+Network rack or cabinet in the position the design chose, with panels, managers, power and battery backup. Switching, edge firewall and access points fitted, configured and tuned, with the power budget proven under real load including anything mounted high.
+
+### Certify, validate and hand over
+
+Certification across every drop. A validation walk with a meter across the open floor and into every enclosed room behind masonry, which is where an optimistic design shows itself. Then the package — port map, pathway as-built, addressing scheme, equipment schedule and administrative access — walked through with whoever will support it.
+
+[FIG] Certification taken at the outlet, one drop after another. On large industrial plates the length result is the one that decides whether a second room was needed.
+
+Commitments
+
+### What you can hold us to
+
+Checkable undertakings rather than adjectives.
+
+Somebody walks the building before you get a number, including the ceiling and whatever is already in it.
+
+A pathway plan you approve before anything is pulled, because in an exposed building the route is part of the interior.
+
+Conversion-stock costs on their own lines — raceway, coring, lift work, abandoned cable removal — rather than absorbed into a headline figure.
+
+Nothing removed from a ceiling until it has been traced and the removal agreed.
+
+Certification across the full drop count, not a sampled subset, included in the handover.
+
+A validation walk into every enclosed room, not just across the open floor, because masonry is where designs fail.
+
+Both-end labelling and a port map that reflects the space as built.
+
+A pathway as-built, so the next wall, mezzanine or sprinkler alteration does not cut your backbone.
+
+Admin credentials for everything we configured, transferred on the final day.
+
+Evening and weekend work at no premium on the labour, arranged with the landlord or building manager in advance.
+
+A licensed network installer on every job. NYS Low Voltage licence #12000287431, insured, certificates issued to landlords and managing agents on request.
+
+Three years of cover on everything we furnish, across hardware and installation work. Equipment purchased directly stays under its maker's warranty.
+
+[FIG] Coring a party wall. Between floors it is a timber or concrete deck instead, which needs the landlord's agreement and firestopping to the assembly rating.
+
+FAQ
+
+### Brooklyn network installation questions we get
+
+How much does network installation cost in Brooklyn? A small studio or suite of up to ten users — firewall, a 24-port PoE switch, two access points, a wall cabinet, VLANs, twelve drops and documentation — starts near $4,900 in labour and configuration, with equipment quoted separately or supplied by you. A Downtown office floor for twenty-five to fifty users starts near $12,500. A loft or conversion floor of the same headcount starts near $16,500, and the difference is entirely the building: designed visible pathway, coverage for the enclosed rooms behind masonry, and lift work where the ceiling is high. Individual lines are published — firewall install $450 to $900, managed switch $250 for a 24-port and $400 for a 48-port, access points $225 on an existing drop, $300 with a new run and $375 above fourteen feet, rack build $650, second room with a fiber link from $2,400. Conversion-specific work is shown separately: surface raceway at $14 per foot, coring a deck from $650, coring a party wall from $350, abandoned cable removal from $400.
+
+Why does a loft cost more to network than an office of the same size? Because a purpose-built office arrives with infrastructure a converted warehouse does not. An office floor has a telecom room, a riser, a pathway grid above the ceiling and drawings describing all three. A conversion has a ceiling fourteen or eighteen feet up with nothing above it to conceal anything, a floor of heavy timber or concrete with no clean vertical route, brick party walls that stop radio outright, and whatever four previous tenants left stapled to the joists. Every one of those turns into labour: visible pathway that has to be designed rather than hidden, lift work for anything high, coring where a route must cross a deck, extra access points for rooms masonry has cut off, and tracing before anything can be removed. Downtown Brooklyn is the exception — Class A and B stock there behaves like Midtown, and the conversion lines do not apply.
+
+What does a Brooklyn network installation include? A structural walk rather than just a floor walk, a pathway plan you approve before anything is pulled, a written design covering addressing and VLANs, the cabling on supported pathway with firestopping at rated penetrations, the network rack in the position the design chose with panels and battery backup, the switching and edge firewall, the Wi-Fi installation — design, mounting and tuning rather than hanging radios — certification across the full drop count, and a handover package. That package includes a pathway as-built, which matters more here than in newer stock because in an exposed building the cable route is a physical fact that a future wall, mezzanine or sprinkler alteration has to work around.
+
+Is this network installation or structured cabling? Structured cabling is the physical plant: cable, pathway, terminations, panels, certification. Network installation is the working system above it — switching, the edge firewall, VLANs, wireless coverage, addressing and documentation — plus the plant. In this borough the split has a visible consequence. In a building with no drawings and no concealed pathway, whoever decides where cable runs is making a permanent decision about how the space looks. When that person is a subcontractor working from a scope written by somebody who never walked the floor, you get what is stapled across the ceilings of half the converted buildings here.
+
+How many access points does a Brooklyn loft need? Fewer than you would expect for the open area, and more than you would expect once rooms are involved. An open loft floor of 5,000 square feet with columns rather than partitions is often covered by two or three, because radio travels well through open volume — though mounting height needs thought, since a radio at eighteen feet aimed down covers less usable floor than its datasheet suggests. Add enclosed rooms behind a brick party wall and each cluster needs its own access point and its own drop, because masonry stops signal outright and no increase in power crosses it. A Downtown office floor with conventional partitions runs three or four. Industrial plates with racking run roughly one per 5,000 to 10,000 square feet.
+
+Our open floor has great Wi-Fi but the back rooms have none. Why? Almost certainly a brick wall. Party and interior walls in converted industrial buildings are frequently two or three wythes thick, and they stop radio far more effectively than any modern partition. The open studio side gets excellent coverage from a single well-placed access point while the rooms on the other side get nothing at all. Turning the power up does not help; the signal is being absorbed rather than falling short. Those rooms need their own coverage and their own cabling. The same effect appears in older mixed-use buildings above the avenues, where plaster over lath produces it for the same reason.
+
+Does the guest network need separating from ours? Yes, and if any part of your floor is open to customers it stops being good practice and becomes the point of the design. A guest network on its own VLAN with client isolation and a bandwidth ceiling means a visitor's device cannot reach your storage or your printers and cannot consume the connection. In a Brooklyn business that mixes an office with a shop, a studio with a gallery, or a kitchen with a dining room, the same logic extends to payment terminals and production equipment — each fenced, each unable to reach the others except where you decide.
+
+What hardware does a Brooklyn business need? A business-class router or firewall at the edge, a managed PoE switch with real port and power headroom, enough access points for the construction rather than the floor area, and a rack position that stays inside the equipment's temperature range across a year. That last point catches people in converted stock in both directions — an unventilated interior closet in a masonry building holds summer heat past what equipment tolerates, and an unheated corner of a former warehouse in January sits below the operating range of a commercial switch. What a business here does not need is a consumer router serving an open floor of twenty-five people, or extenders standing in for access points behind brick, since they cannot cross it either.
+
+How long does a Brooklyn network installation take? A small studio or suite is one to two days. A Downtown office floor for twenty-five to fifty users is three to five. A loft or conversion floor of the same size runs a week or more, because visible pathway is slower to install than concealed pathway, lift work is slower than ladder work, and any coring between floors is a job in itself. Large industrial plates depend on how many rooms the distances require. The items most likely to move a date are the provider's circuit install, landlord agreement for any coring, and — in conversion stock specifically — what the trace turns up in the ceiling once we start looking.
+
+Can you install without shutting the studio down? Yes. New cable, the new rack and the new equipment go in alongside whatever is running, and the cutover happens in a single short window out of hours — usually under two hours. Radios are changed over individually so the floor is never left without coverage. The genuinely disruptive parts are lift work under an open ceiling and any coring, both of which are noisy and are scheduled for evenings or a weekend. On a floor where people work at fixed stations we sequence by zone so no more than a section of the room is affected at once.
+
+Is a wireless survey worth it here? In converted stock, usually yes. Brick and heavy timber cannot be modelled honestly from a plan, and the combination of open volume and hard masonry edges produces coverage maps nobody predicts correctly from drawings. It is also worth it on large industrial plates where racking, stock and distance interact, and anywhere the floor plan and the reality have diverged — which in flexible loft space is most of the time, since walls get added and removed without drawings following. For a Downtown office suite under about 4,000 square feet with conventional partitions we will tell you it is not needed rather than sell one. The fee is $450, credited against the project, and the validation walk after installation comes with the project either way.
+
+Do we need a managed switch? Past about eight people, yes. Unmanaged switches cannot segment traffic, cannot prioritise voice, cannot show which port is saturating and cannot be monitored — and in a business mixing an office with production or retail, segmentation is usually the entire reason the network holds together. Managed switching is also what tells you whether a slow afternoon is a saturated uplink or something else, which on a floor where people move large files is the question that comes up most.
+
+Do you work evenings and weekends? Yes, at no premium on the labour rate. Retail and food businesses need overnight work, studios prefer their production hours undisturbed, medical practices are booked through the day, and Downtown buildings have their own after-hours access rules. What we ask for is enough notice to staff the crew and to have landlord or building agreement in place, particularly where the work involves lift equipment or coring, which most landlords want scheduled rather than discovered.
+
+Cat6 or Cat6A for the runs feeding access points? Cat6A on ceiling positions in nearly every commercial case, for power and headroom rather than raw speed. Today's Wi-Fi 6E and 7 radios pull PoE++ under 802.3bt, and the thicker conductors in Cat6A move that power with less warming inside a bundle. It also delivers ten gigabit to the full hundred metres, which matters because the radio gets replaced every five to seven years while the cable stays for fifteen — and in a building with an eighteen-foot ceiling, re-pulling a ceiling run means a lift and a day nobody wants to spend twice. Cat6 remains correct for desk drops, printers and general connectivity, so mixed plant is normal here: Cat6 to workstations, Cat6A to every ceiling position.
+
+Who installs business networks in Brooklyn? Commercial network installation in this borough is carried out by licensed low-voltage contractors, by IT providers who subcontract the physical work, and by cabling firms that stop at the patch panel. Anyone shortlisting a network installer here should also ask whether the contractor has worked in conversion stock, because a crew whose experience is purpose-built office buildings will treat an exposed ceiling as an inconvenience rather than as the design. We are the first kind and hold both layers: Abstract Enterprises Security Systems, NYS Low Voltage Electrical Contractor licence #12000287431, insured, working from Downtown and DUMBO out to Bay Ridge and Coney Island. That covers the structural walk and pathway plan, design and addressing, cabling, the rack, switching, the edge firewall, VLAN segmentation, wireless design and tuning, certification, documentation and credential handover, plus tracing and takeover of whatever previous tenants left behind.
+
+Quick answers
+
+### Shorter answers to common questions
+
+### Is a permit needed for network cabling?
+
+Low-voltage cabling needs no Department of Buildings permit. Landlord approval, insurance on file and firestop documentation at rated penetrations are what you actually need, plus written agreement before coring any deck.
+
+### Can the cable be hidden in a loft?
+
+Rarely, and pretending otherwise leads to a bad-looking result. We plan visible pathway as a design element and get it approved before pulling.
+
+### Will a faster circuit fix slow file transfers?
+
+Usually not. If transfers between workstations and storage are slow while browsing is fine, the problem is inside the building — wireless capacity or the uplink from the rack.
+
+### Can you work with our IT provider?
+
+Routinely. We take the physical layer and the rack to their standards and naming conventions and hand the logical layer back.
+
+### Do you supply hardware, or can we?
+
+Either. Hardware you supply is fine, and if it cannot do what is being asked we say so before it goes up.
+
+### Can you clear out the old cable?
+
+Yes, after tracing. Removal and disposal of genuinely abandoned cable is quoted separately, and in an exposed ceiling it is worth doing on its own account.
+
+### Do you do emergency network repair?
+
+Yes. Same-day dispatch across the borough for outages. Most switch faults and failed drops are isolated on the first visit.
+
+### What does a survey cost?
+
+$450, credited against the project. Either way the post-install validation walk is part of the project.
+
+Coverage
+
+### Where we install networks in Brooklyn
+
+The whole borough. What changes from neighbourhood to neighbourhood is the construction, and the construction is the job.
+
+### Downtown Brooklyn
+
+MetroTech, Court Street, Livingston Street and Jay Street. The borough's conventional office core — Class A and B buildings with real telecom rooms, stacked closets, drop ceilings that serve as return plenums and building management that expects insurance on file and freight coordinated. Legal, financial, institutional and back-office tenancies. Work here resembles Midtown, including the administrative overhead, and is the exception to almost everything else on this page.
+
+Boerum Hill, Cobble Hill and the Atlantic Avenue corridor. Smaller professional offices and medical practices in older mixed-use buildings, retail below and offices above, with masonry party walls and pathway that has to be created.
+
+### The waterfront and the conversion belt
+
+DUMBO — Water, Front, Jay and Pearl Streets. The definitive Brooklyn conversion neighbourhood. Heavy timber and brick warehouses turned into technology and creative offices, high exposed ceilings, columns rather than partitions, and cable that is visible by definition. Excellent open-floor wireless and hard masonry edges in the same tenancy.
+
+Brooklyn Navy Yard. A campus rather than a building — industrial and manufacturing space alongside modern office buildings on one site, which regularly means two entirely different designs for a single tenant and a link between structures. Large plates, long distances and building standards to work within.
+
+Industry City, Bush Terminal and Sunset Park. Enormous concrete and steel floor plates where the hundred-metre copper limit is exceeded inside a single building. These sites need a room plan and fiber between rooms before drop counts are discussed at all.
+
+Red Hook and Gowanus. Low-rise industrial and warehouse conversion, workshops, studios and light manufacturing. Ground-floor space, older electrical service, and layered legacy cabling from a long series of previous occupants.
+
+### North Brooklyn
+
+Williamsburg — Kent Avenue, Wythe Avenue and North Sixth Street. Converted manufacturing alongside newer construction, with hospitality, agency and technology tenants. Mixed stock in the same few blocks, so two jobs a mile apart can be completely different projects.
+
+Greenpoint and Bushwick. Former industrial buildings holding studios, production space, workshops and small offices. Masonry throughout, exposed ceilings, and the borough's heaviest concentration of undocumented existing cable.
+
+### Central and southern Brooklyn
+
+Park Slope and Prospect Heights — Fifth Avenue, Seventh Avenue and Flatbush Avenue. Professional and medical practices above retail in older buildings. Small tenancies, thick walls, no dedicated telecom space, and placement that matters disproportionately.
+
+Crown Heights, Bedford-Stuyvesant and Flatbush. Mixed-use commercial corridors, non-profits, clinics and community organisations, plus institutional buildings of varying vintage. Budgets are tighter and the requirement that a design lasts is stronger.
+
+Bay Ridge, Sunset Park's Fifth Avenue and Borough Park. Dense main-street commercial, medical suites and family businesses in older buildings. Retail below, practices above, and trading hours dictating the schedule.
+
+Coney Island, Brighton Beach and Sheepshead Bay. Retail, hospitality and medical along the avenues, with coastal proximity making anything exterior a specification question rather than an afterthought.
+
+Downtown Brooklyn
+MetroTech
+Court Street
+DUMBO
+Brooklyn Navy Yard
+Industry City
+Sunset Park
+Red Hook
+Gowanus
+Williamsburg
+Greenpoint
+Bushwick
+Boerum Hill
+Cobble Hill
+Atlantic Avenue
+Park Slope
+Prospect Heights
+Crown Heights
+Bedford-Stuyvesant
+Flatbush
+Bay Ridge
+Borough Park
+Sheepshead Bay
+Brighton Beach
+
+The citywide hub is network installation NYC . The cable plant these networks run on is covered on structured cabling installation Brooklyn , and cable category and per-drop pricing on Cat6 installation Brooklyn .
+
+[FIG] A finished rack: panels above, switching and firewall below, battery backup at the bottom, and room left for the next two years.
+
+Next step
+
+### Get a Brooklyn network quote
+
+Tell us the space and roughly how many people work in it. We will walk the building, plan the pathway, and come back with a line-item number.
+
+Full Name *
+
+Phone Number *
+
+Email *
+
+Property Address *
+
+Property Type
+
+Select
+Converted loft or industrial space
+Downtown office floor
+Workshop, studio or fabrication
+Retail, food or hospitality
+Medical or dental
+Non-profit, school or community
+
+What do you need?
+
+Select
+New network build
+Wi-Fi coverage or dead zones
+Upgrade an existing network
+Takeover and documentation
+Repair — something is down
+New fit-out or office move
+
+Anything else worth knowing?
+
+I agree to be contacted about this request. See our privacy policy .
+
+Send My Request
+Or call (347) 934-8335 · NYS Low Voltage #12000287431
+
+Home
+Network Installation NYC
+Manhattan
+Brooklyn
+Queens
+Long Island
+Hudson Valley
+Warranty
+Privacy Policy
+
+© 2026 Abstract Enterprises LLC · Network Installation Brooklyn · NYS License #12000287431
+
+Related: Network Installation NYC — the citywide hub this borough page sits under.

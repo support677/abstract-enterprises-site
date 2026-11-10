@@ -1,0 +1,421 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+  "name": "Abstract Enterprises Security Systems",
+  "image": "https://www.abstractenterprisessecuritysystems.com/images/logo.png",
+  "url": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-manhattan",
+  "telephone": "+1-800-486-0943",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1282 Troy Ave",
+    "addressLocality": "Brooklyn",
+    "addressRegion": "NY",
+    "postalCode": "11203",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Manhattan"
+    },
+    {
+      "@type": "City",
+      "name": "New York City"
+    }
+  ],
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.7",
+    "reviewCount": "201"
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Cat6 Installation",
+  "name": "Cat6 Installation Manhattan",
+  "description": "Cat6 cable installation for office floors, pre-war and loft buildings, medical suites, retail and residential properties across Manhattan. Data drop installation, patch panel termination, telecom room build-out, riser and pathway installation, cable testing, labeling and as-built documentation by a licensed New York State low voltage contractor.",
+  "provider": {
+    "@type": "LocalBusiness",
+    "@id": "https://www.abstractenterprisessecuritysystems.com/#brooklyn",
+    "name": "Abstract Enterprises Security Systems",
+    "telephone": "+1-800-486-0943"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Manhattan"
+    },
+    {
+      "@type": "City",
+      "name": "New York City"
+    }
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Cat6 Installation Services — Manhattan",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 data drop installation"
+        },
+        "price": "247",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e data drop installation"
+        },
+        "price": "212",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6A data drop installation"
+        },
+        "price": "353",
+        "priceCurrency": "USD"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 patch panel termination and rack build"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat6 cable testing, labeling and documentation"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Cat5e to Cat6 network cabling upgrade"
+        }
+      }
+    ]
+  }
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does Cat6 installation cost in Manhattan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The base figure is $247 per Cat6 drop on runs inside 100 feet, and it carries the cable, the faceplate and jack, terminations at each end and the test on the completed run. Pre-drywall work on new construction is discounted ten percent. What moves a Manhattan number away from the base rate is rarely the cable — it is access: after-hours or weekend work required by the building, freight elevator windows that limit how much can be staged per day, and union or building-standard requirements in some properties. Those are quoted as their own lines rather than hidden in the drop price."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does a Manhattan building actually require before work starts?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most commercial buildings: a certificate of insurance naming the owner, the managing agent and often the net lessee in specific amounts and with specific wording, submitted and approved before anyone walks in. Then a freight elevator reservation, confirmation of permitted working hours, and building sign-off on any penetration, riser work or core drilling. Some buildings require a contractor's own tenant alteration application through the managing agent. None of this is technical and all of it decides the schedule, so it gets handled during mobilisation rather than on the first morning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Cat6 be installed in a pre-war Manhattan building?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but the method changes. Plaster over wire lath does not fish like drywall, many walls are masonry with no cavity at all, and older buildings frequently have fire blocking mid-wall that stops a rod dead. Where the cavity is not usable the options are running the ceiling and dropping at a partition, reusing existing conduit where the building has it, or surface raceway routed as a deliberate finish detail. Which one applies is a walkthrough finding, not a phone estimate — anyone quoting a pre-war fish sight unseen is quoting an assumption."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you work after hours and on weekends?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Constantly. A large share of Manhattan commercial cabling happens outside business hours because the building requires it, the tenant cannot absorb the disruption, or both. That means staging by zone, tiles down and back within the same shift, nothing left hanging over an occupied desk overnight, and a defined stop time so the floor is usable the next morning. The out-of-hours premium is quoted openly as its own line item."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for cabling work in Manhattan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on the building, the scope, the pathway method and the authority having jurisdiction. We confirm requirements with building management and the AHJ before installation rather than assuming in either direction, and general guidance is published by the Department of Buildings. In practice the more common gate on a Manhattan job is the building's own process — insurance on file, elevator scheduling, approved hours and management sign-off — which is handled as part of mobilisation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is included in a Cat6 installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A site visit that settles drop positions and the route; the pull on supported pathway; a jack at the outlet and a panel port in the floor telecom room; plate and panel mounted; identifiers on both ends; a test on each completed run; and a map tying every port to its outlet. Racks, panels, management, switches, conduit, firestopping and out-of-hours work are their own lines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How many Cat6 drops does a Manhattan office need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Budget a pair at every seat, a dedicated port for each shared printer, one behind every access point, camera and reader, and three or four wherever a display or codec lives. Manhattan adds one wrinkle: floor plates are often reconfigured more frequently than elsewhere because space is expensive and layouts get densified. That argues harder for spare drops terminated and left coiled, because the next churn is usually sooner than anyone expects."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can Cat6 support 10 Gigabit Ethernet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, but on a shortened reach — the number usually cited sits near 55 metres and shrinks further inside a dense bundle where alien crosstalk bites. Full-distance ten gigabit is a Cat6A specification. On a typical Manhattan floor plate the distances are short enough that this rarely constrains anything, which is one of the few ways city geometry works in your favour."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When is plenum-rated cable required?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Where cable runs through a space handling return air, which above most Manhattan commercial drop ceilings it does, plenum-rated cable marked CMP applies. Riser cable marked CMR applies in the vertical shafts between floors. The determination belongs to the building and the authority having jurisdiction, and it is confirmed at the walkthrough. Pulling the wrong rating through a return-air plenum is found at inspection and remediated at the contractor's expense."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can new cable be added to a building riser that is already full?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sometimes, and sometimes only after dead cable comes out first. Older Manhattan buildings have decades of abandoned telephone, coax and early data accumulated in their telecom shafts, and it occupies capacity that new work needs. Removal is a scope item in its own right, unused accessible cable is a recognised code concern rather than just clutter, and the decision usually sits with building management rather than the tenant — so it is worth raising early rather than discovering it mid-pull."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can existing Cat5e be upgraded to Cat6?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No termination converts one category into another; the rating lives in the cable, so upgrading means new cable in the ceiling. The route is the reusable part. Where the old 5e sits in conduit or on a tidy hook run with capacity to spare, the replacement follows the same path, and that is where the budget is recovered. In a Manhattan retrofit that reuse is worth more than it would be elsewhere, because the labor to establish a new pathway in an occupied building is the expensive part."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do you cable apartments, co-ops and townhouses?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Residential work in Manhattan runs through a different approval process — the board or managing agent rather than a commercial management office — and the buildings themselves are frequently pre-war, which puts the same masonry and plaster constraints in play. Wi-Fi complaints in a townhouse or a large pre-war apartment are almost always a construction problem rather than a router problem, and the fix is wired access points fed by Cat6 rather than another mesh node."
+      }
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.abstractenterprisessecuritysystems.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Cat6 Installation NYC",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-nyc"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Cat6 Installation Manhattan",
+      "item": "https://www.abstractenterprisessecuritysystems.com/cat6-installation-manhattan"
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installation-manhattan-ceiling-drop-cable-box.webp",
+      "name": "Cat6 installation Manhattan — ceiling drop",
+      "caption": "Cat6 installation Manhattan — solid copper Cat 6, 550MHz CMR riser, 23 AWG, fed through an open tile on an occupied office floor.",
+      "description": "Cat6 installation Manhattan technician pulling Cat6 through an open ceiling tile beside a Cat 6 CMR cable box",
+      "width": 1402,
+      "height": 1122,
+      "representativeOfPage": true
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/office-cat6-installation-manhattan-corridor-pull.webp",
+      "name": "Office Cat6 installation Manhattan — corridor pull",
+      "caption": "Office Cat6 installation Manhattan — a corridor pull staged inside a single tenant floor, cable never touching the grid.",
+      "description": "Office Cat6 installation Manhattan two-technician corridor pull off a cable box on a cart",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-patch-panel-installation-manhattan-network-room.webp",
+      "name": "Cat6 patch panel installation Manhattan — telecom room",
+      "caption": "Cat6 patch panel installation Manhattan — floor telecom room, every port labeled to its room before anything is patched.",
+      "description": "Cat6 patch panel installation Manhattan technician dressing a labeled bundle into a floor telecom room rack",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-installer-manhattan-jhook-ceiling-pathway.webp",
+      "name": "Cat6 installer Manhattan — J-hook ceiling pathway",
+      "caption": "Cat6 installer Manhattan — supported pathway above a tenant ceiling, clear of grid, sprinkler and lighting.",
+      "description": "Cat6 installer Manhattan laying a cable bundle into J-hooks above a commercial ceiling",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-wiring-manhattan-fish-tape-conduit.webp",
+      "name": "Cat6 wiring Manhattan — fish tape into conduit",
+      "caption": "Cat6 wiring Manhattan — reusing existing conduit in a pre-war building where the wall cannot be opened.",
+      "description": "Cat6 wiring Manhattan technician feeding cable into existing conduit on a masonry wall with a fish tape",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-data-drop-installation-manhattan-workstation-outlets.webp",
+      "name": "Cat6 data drop installation Manhattan — workstation outlets",
+      "caption": "Cat6 data drop installation Manhattan — two data ports and a voice port at one desk, finished and labeled.",
+      "description": "Cat6 data drop installation Manhattan finished data and voice outlets at an office workstation",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/commercial-cat6-installation-manhattan-outlet-bank.webp",
+      "name": "Commercial Cat6 installation Manhattan — outlet bank",
+      "caption": "Commercial Cat6 installation Manhattan — a bench run terminated drop by drop, each tested as it is finished.",
+      "description": "Commercial Cat6 installation Manhattan technician terminating a run of outlets along an open-plan bench",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-cable-installation-manhattan-conference-table-drop.webp",
+      "name": "Cat6 cable installation Manhattan — conference table drop",
+      "caption": "Cat6 cable installation Manhattan — feeding a table box in a high-rise conference room, three or four drops rather than one.",
+      "description": "Cat6 cable installation Manhattan technician routing cable up through a conference table grommet in a high-rise",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-floor-box-installation-manhattan-conference-room.webp",
+      "name": "Cat6 floor box installation Manhattan — conference room",
+      "caption": "Cat6 floor box installation Manhattan — jacks landed in a floor box, the usual answer where a table sits away from any wall.",
+      "description": "Cat6 floor box installation Manhattan technician landing keystone jacks in a conference room floor box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-retrofit-installation-manhattan-drywall-cut-in.webp",
+      "name": "Cat6 retrofit installation Manhattan — drywall cut-in",
+      "caption": "Cat6 retrofit installation Manhattan — cutting in an old-work box after the cable is fished, on an occupied floor.",
+      "description": "Cat6 retrofit installation Manhattan technician cutting a drywall opening for an old-work box",
+      "width": 1402,
+      "height": 1122
+    },
+    {
+      "@type": "ImageObject",
+      "contentUrl": "https://www.abstractenterprisessecuritysystems.com/images/cat6/cat6-voice-data-outlet-installation-manhattan.webp",
+      "name": "Cat6 voice and data outlet installation Manhattan",
+      "caption": "Cat6 voice and data outlet installation Manhattan — one plate carrying both, which is what makes legacy phone cable redundant.",
+      "description": "Cat6 voice and data outlet installation Manhattan technician punching down a combined data and voice wall plate",
+      "width": 1402,
+      "height": 1122
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "HowTo",
+  "name": "How a Cat6 installation runs in Manhattan",
+  "description": "The sequence Abstract Enterprises Security Systems follows on a Cat6 cable installation in Manhattan, from site walkthrough and building mobilisation through labeling and closeout documentation.",
+  "totalTime": "P2D",
+  "supply": [
+    {
+      "@type": "HowToSupply",
+      "name": "Solid copper Cat6 cable, CMP or CMR rated for the pathway"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 keystone jacks, faceplates and mud rings"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "Cat6 patch panel and rack cable management"
+    },
+    {
+      "@type": "HowToSupply",
+      "name": "J-hooks, cable tray or conduit pathway and firestop materials"
+    }
+  ],
+  "tool": [
+    {
+      "@type": "HowToTool",
+      "name": "Punch-down tool"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fish tape and glow rods"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Fluke DSX CableAnalyzer"
+    },
+    {
+      "@type": "HowToTool",
+      "name": "Label printer"
+    }
+  ],
+  "step": [
+    {
+      "@type": "HowToStep",
+      "position": 1,
+      "name": "Walkthrough",
+      "text": "Walk the floor, lift a ceiling tile, inspect the telecom room and the riser, mark drop locations, and establish what the building requires — insurance wording, freight availability, permitted hours and any approval process."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 2,
+      "name": "Mobilise",
+      "text": "Submit the certificate of insurance to the managing agent, book the freight elevator, confirm working hours, and resolve approvals for penetrations or riser work before the crew loads in."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 3,
+      "name": "Pull",
+      "text": "Install pathway and pull cable from the floor telecom room to each outlet on supported J-hooks or conduit, maintaining separation from power, respecting bend radius and pull tension, and leaving a service loop at both ends. On occupied floors this is staged zone by zone."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 4,
+      "name": "Terminate and test",
+      "text": "Terminate a Cat6 keystone at the work area and a patch panel port at the telecom room, following TIA-568 with T568B unless the building standard says otherwise, then test every finished drop before ceilings close. Where full certification is required, permanent links are certified with a Fluke DSX CableAnalyzer."
+    },
+    {
+      "@type": "HowToStep",
+      "position": 5,
+      "name": "Label and document",
+      "text": "Label both ends of every drop as it is terminated, following TIA-606-style practice, and hand over the port map, test results, component list and as-built markups as the closeout package."
+    }
+  ]
+}

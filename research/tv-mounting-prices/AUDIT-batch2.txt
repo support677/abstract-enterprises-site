@@ -1,0 +1,7 @@
+== manhattan  title=51 meta=158 words=10336 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-manhattan tv-installation-policies tv-mounting-prices-bronx tv-mounting-prices-brooklyn tv-mounting-prices-nyc tv-mounting-prices-queens tv-mounting-prices-staten-island
+== brooklyn  title=54 meta=159 words=10050 faq=12  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-mounting-prices-bronx tv-mounting-prices-manhattan tv-mounting-prices-nyc tv-mounting-prices-queens tv-mounting-prices-staten-island
+== queens  title=51 meta=156 words=10683 faq=11  title:PASS meta:PASS canon:PASS h1:PASS words:PASS gbp:PASS faq:PASS stats:PASS fresh:PASS noindex:PASS onenav:PASS calc:PASS qa_faq:PASS
+   links: tv-installation-brooklyn tv-installation-policies tv-installation-queens tv-mounting-prices-bronx tv-mounting-prices-brooklyn tv-mounting-prices-manhattan tv-mounting-prices-nyc tv-mounting-prices-staten-island
+sizes {'nyc': 177606, 'long-island': 171603, 'hudson-valley': 174275, 'manhattan': 185564, 'brooklyn': 180216, 'queens': 182856}
