@@ -214,7 +214,7 @@ LIVE | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-
 LIVE | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | ring-vs-nest | Comparison: Ring vs Nest | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-10T18:17Z max-daily | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -657,8 +657,8 @@ LIVE | structured-cabling-installation-bay-ridge-brooklyn-ny | Structured Cablin
 LIVE | structured-cabling-installation-baychester-bronx-ny | Structured Cabling Installation | Baychester, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Installation | Belmont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-10T18:17Z max-daily REBUILD | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-10T18:17Z max-daily REBUILD | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | structured-cabling-installation-claremont-bronx-ny | Structured Cabling Installation | Claremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-concourse-bronx-ny | Structured Cabling Installation | Concourse, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -745,7 +745,7 @@ REBUILD | access-control-installation-crown-heights-brooklyn-ny | Access Control
 REBUILD | access-control-installation-ditmas-park-brooklyn-ny | Access Control Installation | Ditmas Park, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-downtown-brooklyn-ny | Access Control Installation | Downtown, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-east-flatbush-brooklyn-ny | Access Control Installation | East Flatbush, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-10T18:17Z max-daily REBUILD | access-control-installation-east-new-york-brooklyn-ny | Access Control Installation | East New York, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-east-new-york-brooklyn-ny | Access Control Installation | East New York, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-east-tremont-bronx-ny | Access Control Installation | East Tremont, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-east-williamsburg-brooklyn-ny | Access Control Installation | East Williamsburg, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-edgewater-park-bronx-ny | Access Control Installation | Edgewater Park, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
@@ -790,7 +790,7 @@ REBUILD | alarm-installation-city-line-brooklyn-ny | Alarm Installation | City L
 REBUILD | alarm-installation-clinton-hill-brooklyn-ny | Alarm Installation | Clinton Hill, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-columbia-street-waterfront-brooklyn-ny | Alarm Installation | Columbia Street Waterfront, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-east-flatbush-brooklyn-ny | Alarm Installation | East Flatbush, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-10T18:17Z max-daily REBUILD | alarm-installation-east-new-york-brooklyn-ny | Alarm Installation | East New York, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | alarm-installation-east-new-york-brooklyn-ny | Alarm Installation | East New York, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-east-tremont-bronx-ny | Alarm Installation | East Tremont, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | alarm-installation-east-williamsburg-brooklyn-ny | Alarm Installation | East Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-flatlands-brooklyn-ny | Alarm Installation | Flatlands, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -809,7 +809,7 @@ REBUILD | door-buzzer-repair-cobble-hill-brooklyn-ny | Door Buzzer Repair | Cobb
 REBUILD | door-buzzer-repair-concourse-bronx-ny | Door Buzzer Repair | Concourse, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-cypress-hills-brooklyn-ny | Door Buzzer Repair | Cypress Hills, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-dyker-heights-brooklyn-ny | Door Buzzer Repair | Dyker Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-10T18:17Z max-daily REBUILD | door-buzzer-repair-east-new-york-brooklyn-ny | Door Buzzer Repair | East New York, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-east-new-york-brooklyn-ny | Door Buzzer Repair | East New York, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-flatbush-brooklyn-ny | Door Buzzer Repair | Flatbush, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-flatlands-brooklyn-ny | Door Buzzer Repair | Flatlands, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-fort-hamilton-brooklyn-ny | Door Buzzer Repair | Fort Hamilton, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn

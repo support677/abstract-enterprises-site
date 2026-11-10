@@ -4099,3 +4099,82 @@ Meaning check: questions written against the register themes already used (two-f
 | patch-cords-hanging-beside-monitor-edge.webp | video-wall-installation/video-wall-installation-long-island-patch-cables-down-rack-beside-display.webp | 0,0–320,700 |
 | small-black-camera-on-bare-white-wall.webp | apartment-building-security-camera-installation/apartment-building-security-camera-installation-hudson-valley-small-black-camera-on-bare-white-wall.webp | full |
 Rejected after viewing: video-wall-installation branded-technician scenes (AI-generated look: logo shirts, staged), plus folders earlier runs rejected (low-voltage/, network/, commercial-security/*.jpg, construction/, buzzer-repair/). Real access-control photos still needed.
+
+
+## East New York, Brooklyn — /access-control-installation-east-new-york-brooklyn-ny (max-daily research, 2026-11-10)
+
+Format: finding — source URL. Queries were run with WebSearch, WebFetch and Firecrawl search/scrape on 2026-11-10. Anything not retrievable is marked EMPTY.
+
+### Neighborhood basics
+- Boundaries: Cemetery Belt and Queens line (north), Queens line (east), Jamaica Bay (south), BMT Canarsie Line / Bay Ridge Branch / Van Sinderen Ave (west); ZIPs 11207, 11208, 11239; Brooklyn Community District 5; 75th Precinct; population 91,958 (2010 census) — https://en.wikipedia.org/wiki/East_New_York,_Brooklyn
+- Transit: 2/3/4/5 at Pennsylvania Ave, Van Siclen Ave, New Lots Ave (IRT New Lots Line); L at Broadway Junction, Atlantic Ave, Sutter Ave, Livonia Ave, New Lots Ave; A/C at Broadway Junction, Liberty Ave, Van Siclen, Shepherd, Euclid, Grant; J/Z at Broadway Junction, Alabama Ave, Van Siclen, Cleveland St, Norwood, Crescent St, Cypress Hills — same URL
+- Housing stock: "primarily semi-detached homes, two-to-four family houses, and multi-unit apartment buildings, including condominiums and co-ops"; Linden Blvd, Pennsylvania Ave and Atlantic Ave are the primary thoroughfares — same URL
+- NYCHA developments listed: Cypress Hills Houses, East New York City Line, Long Island Baptist Houses, Louis Heaton Pink Houses, Unity Plaza (two groups of sites), Vandalia Avenue; PACT/RAD conversions: Boulevard Houses, Belmont-Sutter Area, Fiorentino Plaza, Linden Houses, Pennsylvania Avenue-Wortman Avenue — same URL
+- East Brooklyn Industrial Park: 44 blocks, established 1980 by the NYC Public Development Corporation, bounded by Atlantic Ave, Sheffield Ave, Sutter Ave and Powell St — same URL
+- Gateway Center (Spring Creek): South opened 2002, North 2014 — same URL
+- Landmarks named: New Lots Reformed Church and Cemetery, Empire State Dairy buildings, East New York Savings Bank, former 75th Precinct Station House, New Lots Town Hall, Engine Company 236, Thomas Jefferson High School and others — same URL
+- Nehemiah per NYT as quoted by Wikipedia: buyers paid $43,500; median income $27,000; 40% moved from public or subsidized housing — same URL (conflicts with Gotham Center prices below; both reported, attributed)
+- From the local research pack (security camera page, 2026-11-06): name coined 1835 by John Pitkin; annexed to Brooklyn 1886; Pink Houses 22 eight-story buildings, 1,500 apartments, completed 1959; Cypress Hills Houses completed 1955; New Lots Reformed Church 630 New Lots Ave, 1823–24, landmark 1966; 75th Precinct station house 484 Liberty Ave, 1886; 75th Precinct now at 1000 Sutter Ave; Atlantic Ave is 120 feet wide; Fresh Creek Nature Preserve 42+ acres; 2016 rezoning first under Mandatory Inclusionary Housing, nearly 6,000 new units since, more than 60% affordable — URLs in pack (wikipedia, nyc.gov DCP pdf, theneighborhoods.substack.com, 50-a.org)
+
+### Nehemiah homes (owner-occupied houses)
+- Groundbreaking October 1982 in Brownsville; EBC built 4,500 houses over about three decades from 1983; two-bedroom ~1,000 sq ft for $30,000, three-bedroom ~1,200 sq ft for $35,000; full basements, double-glazed windows, natural gas furnaces, parking pads, staggered building lines; I.D. Robbins ran construction; Rev. Johnny Ray Youngblood: "Grassroots are shallow roots. Our roots are deep roots." — https://www.gothamcenter.org/blog/citizen-power-rebuilds-east-brooklyn-the-nehemiah-housing-plan-in-the-1980s
+- Nehemiah Spring Creek: Alexander Gorlin Architects; ~30 acres of former landfill; 20-by-40-foot modules of steel frames, fiber cement siding, concrete floors; stacked two, three or four high; raised front doors with a stoop to the sidewalk; 12 siding colors; Phase 1 June 2009, Phase 2 June 2011; 248 homes complete, 330 more planned — https://architecturalrecord.com/articles/7310-nehemiah-spring-creek-housing
+
+### Basement apartments
+- Basement Apartment Conversion Pilot Program: Brooklyn CD5 (East New York and Cypress Hills); owner-occupied 1–3 unit homes, primary residence 270+ days, income ≤165% AMI, outside blue flood-risk area; loans up to $120,000; technical help from Cypress Hills Local Development Corporation; units need a DOB Certificate of Occupancy; based on Feb 2019 legislation; now closed to applications — https://www.nyc.gov/site/hpd/services-and-information/basement-apartment-conversion-pilot-program.page
+
+### New buildings after the 2016 rezoning
+- East New York Neighborhood Plan approved with modifications by City Council April 20, 2016 — https://www.nyc.gov/content/planning/pages/our-work/plans/brooklyn/east-new-york-neighborhood-plan
+- The Highland, 268 Barbey St, attached to the landmarked Empire State Dairy (2840 Atlantic Ave): 14 stories, 320 units, 80 in lottery; dairy completed 1915, landmarked December 2017; lottery opened Dec 5, 2024 — https://www.brownstoner.com/real-estate-market/empire-state-dairy-affordable-housing-lottery-opens-268-barbey-street
+- 2683 Atlantic Ave (at New Jersey Ave): 229 units, 13 stories, lottery June 2026 — https://www.brownstoner.com/real-estate-market/affordable-housing-east-new-york-2683-atlantic-avenue-apartments/
+- Innovative Urban Village Phase 1A, 30 Inspiration Lane (Flatlands & Pennsylvania Aves): 15 stories, 386 units, 291 lottery, rest for supportive-services households and domestic violence survivors; 1,975 apartments in 11 buildings planned; Christian Cultural Center campus, former school bus depot; article May 12, 2026 — https://www.brownstoner.com/real-estate-market/innovative-urban-village-30-inspiration-lane-east-new-york/
+- Herkimer-Williams at Broadway Junction approved by Council Dec 2025: four buildings, up to 1,000 affordable homes, retail, community facilities (Totem) — https://www.6sqft.com/broadway-junction-development-with-1000-affordable-units-moves-ahead-after-council-approval/
+- None of the lottery articles mention the buildings' entry, fob or intercom hardware (noted so the page does not claim any)
+
+### Industrial and commercial
+- East New York IBZ: 57 blocks, Atlantic to Sutter, Sheffield to Powell, plus about six blocks along Van Sinderen; EBBID reported 6,265 employees at 100+ businesses (2019); Belmont Metals 125 years; school bus companies with large lots; at least six storage warehouses; city's 2016 promise of 3,900 jobs; $16.7M investment incl. $8.2M Van Sinderen street safety and $2.5M broadband (City Limits, Nov 2021) — https://citylimits.org/de-blasio-said-east-new-yorks-rezoning-would-spur-industrial-jobs-boom-that-hasnt-happened/
+- East Brooklyn BID: 40 blocks bordered by Powell St, Atlantic Ave, Pennsylvania Ave and Sutter Ave; incorporated 1983; directory lists steel and iron works, precast, auto shops, a bus company, carting, recycling, self-storage, pharmacies, check cashing, delis — https://www.eastbrooklynbid.com/about.html
+- NYC SBS Commercial District Needs Assessment names Liberty Avenue and Pitkin Avenue corridors (search excerpt only) — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-east-new-york.pdf
+- Pitkin Avenue beauty supply robbery, Sept 21 (reported Oct 24, 2026), 1603 Pitkin Ave, 73rd Precinct; a week earlier a store robbery at 130 New Lots Ave — https://hoodline.com/2026/10/brooklyn-beauty-supply-robber-fakes-gun-flees-with-stolen-hair-product/
+
+### Public housing entry doors
+- Boulevard Houses (PACT): resident says entrance door lock doesn't work and intercom out (Jan 8, 2025); NYCHA "working with the Boulevard Houses PACT partner team" — https://brooklyn.news12.com/exclusive-nycha-resident-raises-concerns-over-broken-entrance-door-at-boulevard-houses
+- NYCHA Nov 27, 2023: $24.1M safety upgrades at 23 campuses; layered access control lets staff change permissions remotely without replacing fobs or locks; reinforced doors; 1,400 cameras, 21-day retention; no East New York development named — https://www.nyc.gov/site/nycha/about/press/pr-2023/pr-20231127.page
+
+### Safety context
+- 75th Precinct CompStat, week ending 9/13/2026: burglaries YTD 124 vs 167, −25.7% — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-075pct.pdf (from pack)
+- Shootings down 47% in the 75th vs five years ago (Oct 29, 2026) — https://ny1.com/nyc/all-boroughs/news/2026/10/29/nypd-says-00-guns-confiscated-as-shootings-fall-citywide (from pack)
+- Early 2026 armed home invasion near Vandalia and Fountain Aves, suspect disguised as a cleaner; neighbor got a Ring alert — https://www.cbsnews.com/newyork/news/brooklyn-apartment-robbery-suspect-disguised-as-cleaner/ (from pack)
+
+### Law (silo-wide, reused)
+- MDL §50-a self-closing/self-locking entrance doors, intercom for 8+ units — https://www.nysenate.gov/legislation/laws/MDW/50-A
+- MDL §51-c tenant's right to install own lock on entrance door to unit (search excerpt) — https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf
+- Tenant Data Privacy Law (LL63/2021): consent, minimum data, 90-day destruction, no tracking outside the building, can't require smart access to enter the unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- NYS DOS alarm installer license requirement — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+
+### Reddit / forums
+- r/realestateinvesting excerpt: "I've installed them in a few buildings and regret it. They lock tenants out when they freeze and the subscription is expensive." — https://www.reddit.com/r/realestateinvesting/comments/1r1i1gb/key_fobs_security_system/
+- r/NYCapartments "Why are some people against key fobs to enter building?" (67 votes, 208 comments, excerpt) — https://www.reddit.com/r/NYCapartments/comments/1wfs0ny/why_are_some_people_against_key_fobs_to_enter/
+- r/NYCapartments "Landlord has very restrictive key fob policy" (title) — https://www.reddit.com/r/NYCapartments/comments/1pr092n/help_landlord_has_very_restrictive_key_fob_policy/
+- r/AskNYC "How is East New York like? Has it recently improved?" — new condo owner near Linden Blvd (excerpt only; page could not be scraped) — https://www.reddit.com/r/AskNYC/comments/1w2xxrh/how_is_east_new_york_like_has_it_recently_improved/
+- r/EastNewYork threads on doors/fobs: EMPTY
+
+### City data
+- HPD violation counts (intercom / self-closing door) for 11207/11208/11239 via NYC Open Data: EMPTY (API blocked: https://data.cityofnewyork.us/resource/wvxf-dwi5.json)
+- 311 buzzer/door complaints: EMPTY
+- DOB permits for access control work in CD5: EMPTY
+
+### Questions people ask — Access Control Installation in East New York
+- Google People Also Ask: EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp 1–3★ complaints: EMPTY (Yelp search page only listed businesses) — https://www.yelp.com/search?find_desc=Access+Control&find_loc=New+York%2C+NY
+- Why are some people against key fobs to enter a building? — Reddit r/NYCapartments — https://www.reddit.com/r/NYCapartments/comments/1wfs0ny/why_are_some_people_against_key_fobs_to_enter/
+- Is a landlord's restrictive key fob policy normal? — Reddit r/NYCapartments — https://www.reddit.com/r/NYCapartments/comments/1pr092n/help_landlord_has_very_restrictive_key_fob_policy/
+- Do fob systems lock tenants out when they freeze, and is the subscription worth it? — Reddit r/realestateinvesting — https://www.reddit.com/r/realestateinvesting/comments/1r1i1gb/key_fobs_security_system/
+- How much does a key fob entry system cost per door? — Swiftlane guide (search result) — https://swiftlane.com/blog/key-fob-entry-system-cost/
+- What are the key fob rules for NYC buildings? — Paragon Security blog (search result) — https://www.paragonsecurityny.com/blog/2026/september/key-fob-access-rules-for-nyc-buildings-what-s-la/
+- Who installs access control in Brooklyn? — competitor SERP (Vertex, Alarms R Us, Total Security, MDU) — https://vertexsecurity.com/access-control-brooklyn/
+- Has East New York improved? (new condo owner near Linden Blvd) — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1w2xxrh/how_is_east_new_york_like_has_it_recently_improved/
+- The page's own questions (list above ran out): built from the building types found above (Nehemiah houses, Spring Creek modular townhouses, CD5 basement units, lottery buildings, IBZ yards and shops) and checked against the silo question register.

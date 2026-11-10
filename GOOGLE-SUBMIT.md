@@ -3104,3 +3104,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-08 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronx-river-bronx-ny | QUEUED
 2026-11-08 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-kensington-brooklyn-ny | QUEUED
 2026-11-08 | https://www.abstractenterprisessecuritysystems.com/eufy-vs-ring | QUEUED
+2026-11-10 | https://www.abstractenterprisessecuritysystems.com/access-control-installation-east-new-york-brooklyn-ny | QUEUED
+2026-11-10 | https://www.abstractenterprisessecuritysystems.com/alarm-installation-east-new-york-brooklyn-ny | QUEUED
+2026-11-10 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-east-new-york-brooklyn-ny | QUEUED
+2026-11-10 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bronxwood-bronx-ny | QUEUED
+2026-11-10 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bruckner-bronx-ny | QUEUED

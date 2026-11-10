@@ -2370,3 +2370,148 @@ PAA: EMPTY · PASF: EMPTY · AnswerThePublic: EMPTY · Bing: EMPTY · DuckDuckGo
 - Who would I hire to run ethernet if I don't want to do it myself? — forum (silo research) — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
 - Do I have to call the cable company or hire an electrician? — forum (silo research) — https://forums.anandtech.com/threads/re-wire-cable.1958177
 - Where were the promised computers for Bronx River Houses tenants? — News 12 headline — https://bronx.news12.com/more-than-2-years-later-bronx-river-houses-tenants-wait-on-new-computers-40981624
+
+
+## Bronxwood, Bronx — /structured-cabling-installation-bronxwood-bronx-ny (max-daily research, 2026-11-10)
+
+Fresh service-specific pass for structured cabling (Cat6/Cat6A, fiber, racks) in Bronxwood. Name/boundary conflict and building-stock facts reused from the existing Bronxwood research pack only where re-confirmed or clearly cited there; new findings marked NEW.
+
+### Boundaries, building stock, history
+- Three definitions of "Bronxwood": southern Allerton incl. Pelham Parkway Houses and Boston Road Plaza (Wikipedia); a grid bounded by Pelham Parkway / Bronx Park East / Waring Ave / Williamsbridge Rd (CityNeighborhoods.nyc); and "Bronxwood Park", North and South Oak Drives between Wallace and Cruger Aves just north of Burke Ave — https://en.wikipedia.org/wiki/Allerton,_Bronx ; https://cityneighborhoods.nyc/bronxwood (page fetch blocked this run; facts from earlier pack) ; https://forgotten-ny.com/2008/01/bronxwood-park-a-hidden-bronx-enclave/
+- Bronxwood Avenue splits ZIP 10467 (west) from 10469 (east); ACS 2024 5-yr: 10467 8% single-unit / 14% owner-occupied, 10469 46% single-unit / 51% owner-occupied — https://en.wikipedia.org/wiki/Allerton,_Bronx ; https://censusreporter.org/profiles/86000US10469-10469/ ; https://censusreporter.org/profiles/86000US10467-10467/
+- StreetEasy records on Bronxwood Avenue: two-family, two-story houses built 1910, 1925, 1950, 1950, 1965 — https://streeteasy.com/building/4038-bronxwood-avenue-bronx (and siblings listed in door-buzzer research)
+- Tenements scattered mainly within five blocks of the White Plains Road el — https://en.wikipedia.org/wiki/Allerton,_Bronx
+- Pelham Parkway Houses: 23 six-story brick buildings, 1,266 apartments, completed 1950 — https://manhattan.institute/article/in-nycha-the-little-things-are-a-big-deal ; https://en.wikipedia.org/wiki/Pelham_Parkway_Houses
+- Boston Road Plaza, 2440 Boston Rd, 20-story senior tower, 1972, converted to PACT private management Sept 26 2024 — https://www.nyc.gov/assets/nycha/downloads/pdf/communityplan-brp.pdf ; https://nycharealtalk.org/lots/2044310001/
+- Bronxwood Park: laid out late 1880s/early 1890s under John T. Adee; curving roads lined mainly with chestnut and oak trees; two-family houses long since aluminum-sided; gated driveways and large porches — https://forgotten-ny.com/2008/01/bronxwood-park-a-hidden-bronx-enclave/ ; https://wfuv.org/content/bronxwood-park-modern-relic
+- NEW: Laconia (east/north neighbor): bounded by Boston Rd, E Gun Hill Rd, the 5 line and Williamsbridge Rd; detached brick homes, two- and three-family houses, low-rise apartments, many built 1920s–1950s; NY Westchester & Boston Railway (1912) spurred subdivision; Laconia Civic Improvement Society; Boston Road "old colonial route turned commercial artery"; Gun Hill Road "major east–west connector with local shops" — https://www.cityneighborhoods.nyc/laconia
+- NEW: Gun Hill Road runs 3.5 miles from Mosholu Parkway to the Hutchinson River Parkway; named for a January 1777 Continental Army cannon on a hill now inside Woodlawn Cemetery; meets White Plains Road at Williamsbridge Square (2/5 station) and US 1 / Boston Road in Williamsbridge — https://en.wikipedia.org/wiki/Gun_Hill_Road_(road)
+- NEW: White Plains Road is very wide at Gun Hill Road because of the station house in its median — https://en.wikipedia.org/wiki/White_Plains_Road
+
+### Commercial corridors and institutions
+- NEW: Allerton International Merchants Association (since 2012): "Over 200 businesses can be found throughout 15 blocks from Laconia Avenue to Bronx Park East" (News 12, Dec 30 2025) — https://bronx.news12.com/allerton-international-merchants-association-supports-over-200-businesses-after-covid-pandemic
+- NEW: Gene DeFrancis calls Allerton Avenue "the Broadway of the Bronx"; the Coops (United Workers Cooperative) hold city and national landmark status (News 12, Oct 12 2023) — https://hudsonvalley.news12.com/broadway-of-the-bronx-allerton-offers-rich-history-and-character
+- NEW: NYC Health + Hospitals/Gotham Health, Gunhill, 1012 East Gun Hill Road, Bronx 10469 — primary care for the whole family — https://www.nychealthandhospitals.org/gunhill/
+- NEW: 3006 Williamsbridge Road (between Barnes and Wallace Aves, "in Bronxwood"): permits filed March 2025 for an eight-story, 73-ft mixed-use building, 42,887 sq ft, 55 residences, 4,180 sq ft commercial, two enclosed parking spaces; Nikolai Katz Architect; nearest subway Burke Ave (2/5) — https://newyorkyimby.com/2025/03/permits-filed-for-3006-williamsbridge-road-in-bronxwood-the-bronx.html ; https://www.bxtimes.com/permits-8-story-mixed-use-bronxwood/
+- NEW: other nearby YIMBY permit filings: 2915 Holland Ave (Jan 2025), 1013 Adee Ave (Nov 2025), 2322 Holland Ave (Sept 2026), 3020 Williamsbridge Rd — https://newyorkyimby.com/2025/01/permits-filed-for-2915-holland-avenue-in-allerton-the-bronx.html ; https://newyorkyimby.com/2025/11/permits-filed-for-1013-adee-avenue-in-allerton-the-bronx.html ; https://newyorkyimby.com/2026/09/permits-filed-for-2322-holland-avenue-in-allerton-the-bronx.html (details of these not opened; used only as "several filings")
+- Oct 9 2026 crash at Allerton & Holland Aves; nearby businesses had front windows blown out; storefront cameras recorded it — https://bronx.news12.com/9-hurt-3-critically-after-car-strikes-pedestrians-and-other-cars-in-allerton ; https://abc7ny.com/post/bronx-crash-leaves-pedestrians-injured-allerton/19925485/
+- Allerton library 2740 Barnes Ave; PS 76 at Adee & Bronxwood Aves; Engine 62/Ladder 32 at 3431 White Plains Rd; stations Pelham Pkwy, Allerton Ave, Burke Ave, Gun Hill Rd — https://en.wikipedia.org/wiki/Allerton,_Bronx
+
+### Broadband and rules that bear on cabling
+- NEW: Williamsbridge provider availability (BestNeighborhood): Verizon Fiber 99.63%, EarthLink Fiber 99.63%, Optimum Fiber 81.38%, Optimum Cable 99.68%, T-Mobile Home Internet 99.68%, Verizon fixed wireless 74.79%, Starry 57.92% — https://bestneighborhood.org/fiber-tv-and-internet-williamsbridge-bronx-ny/ (commercial aggregator; availability ≠ building connected)
+- Borough: fiber 84.7% available in the Bronx — https://broadbandnow.com/New-York/Bronx
+- NEW (confirmed): Local Law 128 of 2024 adds AC §28-105.4.7 — no electrical permit for wiring under 50 volts for signaling, communication, alarm and data, when done by a licensed master electrician, special electrician or qualified person; life-safety systems and circuits that control light/heat/power excluded — https://intro.nyc/local-laws/2024-128 ; https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf ; effective date Dec 21 2025 per https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- NEW: Big Apple Connect gives NYCHA residents free in-home internet with a modem and router, basic cable, and common-area Wi-Fi hotspots; article does not name Pelham Parkway Houses (participation there UNCONFIRMED) — https://politicsny.com/2023/03/23/mayor-expands-free-broadband-internet-plan-for-nycha-residents-in-the-bronx-citywide/
+- NYCHA house rules: no alterations to door/frame/walls for devices; antennas inside only — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf
+- NYS license needed to install security/fire alarm systems — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+
+### Cost benchmarks found (for the AI reality check only; not AESS prices)
+- NEW: r/networking "Cost to wire 18 cat6 outlets": "We typically pay around $300 per drop. CAT6, terminated... Includes testing/certification." — https://www.reddit.com/r/networking/comments/1erbex9/cost_to_wire_18_cat6_outlets/
+- NEW: national 2026 guides quote $125–$400 per Cat6 drop, $150–$300 (Unio), $175–$295 Bay Area; small jobs under ~20 drops carry minimums — https://thenetworkinstallers.com/blog/structured-cabling-pricing/ ; https://unio.digital/blog/structured-cabling-cost-per-drop ; https://www.clawcomm.com/structured-cabling-cost-per-drop-bay-area-2026-guide
+- NEW: Clawcomm: "Some contractors quote 'tested' but not 'certified'"; "Using riser cable in a plenum space is a fire code violation" — same URL
+
+### Reddit / forums / Yelp / hyperlocal
+- NEW: r/AskNYC "How can I split internet with my neighbor?" — replies: mesh kit vs running Ethernet; "You can't ever beat the reliability of wired"; warning that sharing may violate provider terms — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
+- Reddit threads specific to Bronxwood/Allerton cabling: EMPTY
+- Yelp "Network Cabling" near the Bronx: results dominated by security/home-automation firms, some 19.6 mi away; no Bronxwood-specific cabling reviews or complaints found — https://www.yelp.com/search?find_desc=Network+Cabling&find_loc=Co-op+City%2C+Bronx%2C+NY+10475 ; Yelp 1–3★ complaints: EMPTY
+- Bronxwood-specific cabling news (Patch/Bronx Times/Norwood News): EMPTY (only general neighborhood news above)
+- HPD/DOB/311 data for cabling in Bronxwood: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Bronxwood
+- Google PAA (verified): EMPTY
+- People Also Search For: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- How much does a Cat6 drop cost? / cost to wire 18 Cat6 outlets — Reddit r/networking — https://www.reddit.com/r/networking/comments/1erbex9/cost_to_wire_18_cat6_outlets/
+- Why is a small job quoted so high per drop? / Is there a minimum? — contractor FAQ — https://www.clawcomm.com/structured-cabling-cost-per-drop-bay-area-2026-guide
+- Does the per-drop price include the patch panel and rack? — contractor FAQ — same URL
+- What's the difference between tested and certified cabling? — contractor FAQ — same URL
+- Can I add drops later? — contractor FAQ — same URL
+- How do I split internet with my neighbor / second apartment? Ethernet or mesh? — Reddit r/AskNYC — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
+- FIOS is "available in my building" but I don't have it — Verizon forum — https://forums.verizon.com/t5/Fios-Internet/FIOS-is-quot-available-in-my-building-quot-but-I-do-not-have-an/m-p/880588
+- Pre-wiring a house for Fios TV, internet and phone — Verizon community — https://community.verizon.com/discussion/1598632/pre-wiring-house-for-fios-tv-one-internet-and-phone
+- How to run internet over coax splits — AnandTech forum — https://forums.anandtech.com/threads/how-to-run-internet-over-coaxial-splits.2577584
+- Do I need a permit / licensed electrician for low-voltage data work in the Bronx? — FAQ page — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Who would I hire to run Ethernet if I don't want to do it myself? — Slickdeals forum — https://slickdeals.net/f/2798927-how-hard-is-running-ethernet-cable-through-your-house
+
+
+## Bruckner, Bronx — /structured-cabling-installation-bruckner-bronx-ny (max-daily research, 2026-11-10)
+
+Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-Bruckner section of Community Board 9 (the part of Soundview north of the Bruckner Expressway, with a Westchester Avenue shopping strip under the 6 train). The page uses that definition and also covers the Bruckner Boulevard towers and Bruckner Commons just south of the expressway (ZIP 10473), because both carry the Bruckner name. One low-authority site puts "Bruckner" near Mott Haven. That is treated as an outlier and not used.
+
+### Area definition and building stock
+- Soundview-Bruckner: the northern part of Soundview, cut off from the rest of it by the Bruckner Expressway, with apartment complexes, a shopping district along Westchester Avenue, and the 6 train — https://nabewise.com/blog/soundview-bruckner (via the local research pack)
+- Community Board 9 lists Bruckner alongside Castle Hill, Parkchester, Soundview, Harding Park, Bronx River, Clason Point and Unionport — https://en-academic.com/dic.nsf/enwiki/595418 (pack)
+- CB9's own neighborhood page mentions Bruckner only as a border: NYCHA sites on the borders of Bruckner Blvd (Soundview), and Unionport bordered by the Cross Bronx Expressway, Bruckner Blvd and White Plains Road — https://www.nyc.gov/html/bxcb9/html/about/neighborhoods.shtml
+- Land use: the central western border, beside the Bronx River, is mainly storage, warehousing and auto repair. Housing is rowhouses, semi-detached and detached, mostly multi-unit. ZIP 10472 lies north of the expressway and 10473 south of it. 6 stations: Elder Ave, Morrison Ave–Soundview, St. Lawrence Ave. 2020 NTA population (Soundview–Bruckner–Bronx River) 74,342. Loral Electronics was at 825 Bronx River Ave (1958) and 1440 Story Ave. News 12 Bronx is at 930 Soundview Ave. Shops at Bruckner (1906 Story Ave) was built in 1966 — https://en.wikipedia.org/wiki/Soundview,_Bronx (pack scrape L1)
+- 1760 Bruckner Blvd (10473): built 1958, 15 stories, 408 units, co-op — https://streeteasy.com/building/1760-bruckner-boulevard-bronx (pack)
+- 1569 Bruckner Blvd (10472): built 1962, 14 stories, 104 units, class D4 elevator cooperative — https://streeteasy.com/building/1569-bruckner-boulevard-bronx (pack)
+- 1770 Bruckner Blvd: built 1958, 102 units, 14 floors, 7 open HPD violations — https://www.openigloo.com/building/nyc/2092764-2036630002/bronx-soundview-1770-bruckner-boulevard-10473 (pack)
+- 2010 Bruckner Blvd: post-war rental completed 1966, 330 apartments, 14 stories — https://www.cityrealty.com/nyc/bronx-other/2010-bruckner-boulevard/85172 (pack)
+- 1520 Bruckner Blvd: built 2002, 4 stories, 8 units, hurricane evacuation Zone 4 — https://streeteasy.com/building/1520-bruckner-boulevard-bronx (pack)
+- 1970s Mitchell-Lama high-rise rental and co-op complexes; earlier multi-unit rowhouses and tenements near the Westchester Ave El — https://activerain.com/blogsview/3379155/information-on-soundview--bronx--ny- (pack)
+- Sotomayor Houses: 28 buildings, nearly 1,500 apartments, bordered by Bruckner Boulevard and Watson, Soundview and Leland Avenues — https://en.wikipedia.org/wiki/Sotomayor_Houses (pack)
+- NYCHA house rules: tenants may not make holes in or alter the door, frame or walls around the door — https://www.nyc.gov/assets/nycha/downloads/pdf/pp/house-rules-040821.pdf (pack)
+
+### Commercial and industrial (cabling buyers)
+- 935 Bronx River Avenue warehouse sold to SAPS Wholesale Inc. for $8.3M (PincusCo, Jan 2, 2026; the rest is paywalled) — https://www.pincusco.com/saps-wholesale-inc-pays-8-3m-for-warehouse-in-soundview/
+- 985 Bronx River Avenue: "Industrial - Warehouse/Distribution", 10,515 SF, Soundview — https://www.commercialcafe.com/commercial-property/us/ny/bronx/985-bronx-river-avenue-2/
+- 1430 Bruckner Blvd: two-story, 49,560 sq ft self-storage facility planned (headline says 49,600) by Stock N' Lock (SNL Storage), with units on the cellar, ground and second floors, between Bronx River and Close Avenues — https://newyorkyimby.com/?p=1831590
+- York Studios, Story Avenue: 175,000 sq ft two-story prebuilt concrete structure on a roughly 10-acre lot, with five stages (three of 15,000 sq ft and two of 18,000 sq ft), about 30-ft ceilings, catwalks and busway, and about 45,000 sq ft of offices on the second floor. The photo caption gives 1410 Story Ave, and the opening was aimed at January 2020 — https://commercialobserver.com/2019/12/bronx-york-studios-opening/
+- THE CITY (Apr 27, 2023): opened 2019 at 1400 Story Ave, "a 5-acre motion picture and television production facility". Proposed 181,278 sq ft building with a 60-ft ceiling (Michaelangelo Campus), about $100M, CB9 unanimous support March 16. Addresses (1400/1410/1421) and lot size (5 vs 10 acres) differ between sources, so the page says only "on Story Avenue" — https://www.thecity.nyc/2023/04/27/york-studio-michaelangelo-south-bronx-river-soundview-park-movies-tv/
+- Bruckner Commons: 1948–1998 Bruckner Blvd, 10473, 447,086 sq ft, 1,024 parking spaces. Anchors ShopRite and Burlington, plus Aldi, Marshalls, Old Navy, BJ's, AutoZone — https://uedge.com/property/bruckner-commons (pack)
+- Bruckner Commons expansion (Jan 16, 2025): ShopRite, a Starbucks drive-thru, health centers and a community center, with "even more is on the way" — https://uedge.com/news/bruckner-commons-expanding-new-stores-and-opportunities
+- Urban Edge bought the Shops at Bruckner leasehold (114,000 sq ft) in 2017, across White Plains Rd from Bruckner Commons — Wikipedia Soundview (pack)
+- The 43rd Precinct lists four primary commercial strips: Westchester Avenue, Castle Hill Avenue, White Plains Road and Parkchester — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/43rd-precinct.page (pack)
+
+### New construction (prewire opportunities)
+- 1499 Bruckner Blvd: seven-story, 135-unit project (J Frankl Architects, Bayrock Capital) — https://newyorkyimby.com/2026/03/1499-bruckners-facade-takes-shape-in-soundview-the-bronx.html (pack; page did not load for me)
+- 1920 Turnbull Ave: 228 affordable and supportive rental units under construction, expected March 2029 — https://www.bxtimes.com/construction-228-affordable-supportive-soundview/ (pack)
+- 831 Rosedale Ave: 13-story mixed-use permits filed — https://newyorkyimby.com/neighborhoods/soundview (pack; page did not load)
+
+### Broadband and fiber
+- BestNeighborhood, Soundview: Verizon fiber about 98.32%, Optimum fiber about 80.94%, Starry 2.05% — https://bestneighborhood.org/fiber-tv-and-internet-soundview-bronx-ny/
+- ISPReports: Verizon fiber to 98.2% of Soundview homes and Optimum cable to 99.8% (aggregator figures) — https://ispreports.org/internet-service-providers-soundview-bronx-ny/ (pack)
+- BroadbandNow: fiber 84.7% available in the Bronx — https://broadbandnow.com/New-York/Bronx (silo research)
+- Verizon Fios launched in Parkchester in 2008 — https://www.engadget.com/2008-10-21-verizon-gets-fios-tv-high-speed-internet-into-bronxs-parkches.html ; the Bronx Times (Mar 18, 2009) lists early Fios areas, with no Soundview — https://www.bxtimes.com/new-fiber-optic-cable-branches-out-in-the-bronx
+- Big Apple Connect gives NYCHA residents free internet, including a modem and router — https://www.bxtimes.com/mayor-broadband-nycha-bronx/ ; https://access.nyc.gov/programs/big-apple-connect/
+- OSC report 20-2025: the Bronx has the highest weighted average monthly broadband price. The district table could not be verified (my fetch was blocked), so no district numbers are used — https://www.osc.ny.gov/files/reports/pdf/report-20-2025.pdf (pack)
+
+### Rules
+- Local Law 128 of 2024 (AC §28-105.4.7): no electrical permit for wiring under 50 volts for signaling, communication, alarm and data. In effect from Dec 21, 2025, with the 2025 NYC Electrical Code — https://www.nyc.gov/assets/buildings/local_laws/ll128of2024.pdf ; https://intro.nyc/local-laws/2024-128
+- The 2025 NYC Electrical Code is the 2020 NEC plus amendments — https://forums.mikeholt.com/threads/upcoming-2025-nyc-electrical-code-2020-nec-plus-amendments.2588131
+- Fire alarm wiring falls outside the exemption — https://security-systems.nyc/blog/structured-data-cabling-nyc/ (silo research)
+
+### Distance and design
+- 100 m copper channel: 90 m permanent link plus 10 m of patch cords. An IDF closer to the endpoints; a fibre backbone (OM3 up to 300 m, OM4 up to 400 m); "Treat the bridge as infrastructure, not a gadget" — https://itwire.com/guest-articles/guest-opinion/extending-connectivity-past-100m-practical-design-options-for-campuses-and-warehouses.html
+
+### History and setting
+- Bruckner Boulevard was Eastern Boulevard until 1942 — https://forgotten-ny.com/2024/07/where-bruckner-begins/ (pack). Henry Bruckner became Borough President in 1918 — NYC Parks (pack). The expressway was completed in 1973 (Robert Moses) — https://en.wikipedia.org/wiki/Bruckner_Expressway (pack)
+- Concrete Plant Park entrances are on Westchester Ave and on Bruckner Blvd west of Bronx River Ave — https://en.wikipedia.org/wiki/Concrete_Plant_Park (pack)
+- Soundview Park covers 205 acres — https://en.wikipedia.org/wiki/Soundview_Park (pack)
+- The Morrison Ave–Soundview station opened May 30, 1920 — https://en.wikipedia.org/wiki/Morrison_Avenue%E2%80%93Soundview_station (pack)
+- Redfin: Soundview-Bruckner has a moderate flood risk — https://www.redfin.com/neighborhood/208745/NY/New-York/Soundview-Bruckner/housing-market (pack)
+- A resident: "The Bruckner makes things loud and dirty" — nabewise (pack)
+- NYSDOT's $1.1 billion Hunts Point interchange project; overnight expressway drilling (News 12, 2024) — Wikipedia Bruckner Expressway; https://longisland.news12.com/construction-along-the-bruckner-expressway-keeping-bronx-residents-up-at-night (pack). Not used as a centerpiece, because the alarm page already uses it.
+
+### Not found / EMPTY
+- Google PAA: EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Google AI Overview: EMPTY (the Reality Check states common claims as generic claims, not quotes)
+- Bing / DuckDuckGo: EMPTY
+- Reddit threads specific to Bruckner/Soundview cabling or internet: EMPTY. General r/networking and r/HomeNetworking threads only (below).
+- Yelp (network installation, Soundview): EMPTY (my fetch was blocked)
+- OSC district table: EMPTY (blocked)
+- Bruckner-specific DOB low-voltage filings, HPD or 311 records on cabling: EMPTY
+- Local news about cabling or networks in Bruckner: EMPTY
+
+### Questions people ask — Structured Cabling Installation in Bruckner
+- Fair price for Cat6 runs? (25 runs, 100–250 ft) — Reddit r/networking — https://www.reddit.com/r/networking/comments/1clndcw/fair_price_for_cat6_runs/
+- Cost to wire 18 cat6 outlets — Reddit r/networking — https://www.reddit.com/r/networking/comments/1erbex9/cost_to_wire_18_cat6_outlets/
+- Do you run your own ethernet cabling through an office? — Reddit r/sysadmin — https://www.reddit.com/r/sysadmin/comments/1jkbbc6/do_you_run_your_own_ethernet_cabling_through_an/
+- Advice for finding a contractor to run Ethernet? — Reddit r/homelab — https://www.reddit.com/r/homelab/comments/jkb3q6/advice_for_finding_a_contractor_to_run_ethernet/
+- How do distant cameras, access points and scanners stay reliable past 100 m? When is a wireless bridge appropriate? — itwire article (implied questions) — URL above
+- What warranty and post-installation support do you offer? How do you ensure cable testing? How often should cabling be inspected or upgraded? Do I need structured cabling if I already use wireless? — contractor FAQ (Instrata) — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Warehouse Wi-Fi with metal racks, high ceilings and long aisles — contractor guide — https://unifinerds.com/warehouse-wifi-design-metal-racks-high-ceilings-long-aisles/
+- Questions specific to Bruckner buildings (shopping-center tenant manuals, tower ground-floor offices, Bronx River Avenue warehouses, studio-season networks) are my own, written from the building facts above because the search sources ran out. They were checked against the silo question register.

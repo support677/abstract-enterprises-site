@@ -5542,3 +5542,79 @@ Masked word 5-gram Jaccard (visible text) vs every other alarm-installation-*.ht
 - No dated burglary news inside Wingate's interior blocks; nearest is DNAinfo 2016 at 501 New York Ave (filed under Crown Heights) — stated.
 - AESS practice claims needing Anwar's confirmation: custom day-sleep mode on the panels AESS installs (dark/silent bedroom keypad, per-keypad chime/screen), DND testing at handover, occupancy/location-based arming reminders on the AESS platform, fob-only partial disarm of entry route, no extra charge for splitting a new install into two visits in the same week, same-day repair "within an hour or two", shop sirens set to a few minutes, insurance certificate before the visit, "monitoring center calls fire dept." on fire signals, 'from Greenpoint to Coney Island' same list.
 - Brooklyn hub '$250 service call' vs $195/hr conflict (flagged by Spring Creek run) still open; page uses $195/hr, 3-hr minimum.
+
+
+## East New York, Brooklyn — /alarm-installation-east-new-york-brooklyn-ny (max-daily research, 2026-11-10)
+
+Method: Firecrawl search/scrape and WebSearch, run 2026-11-10. Google PAA, PASF, AI Overview, AnswerThePublic, Bing and DuckDuckGo result pages could not be opened by these tools; they are marked EMPTY below. The NYPD PDF was fetched live (WebFetch permission timed out; Firecrawl scrape succeeded).
+
+### Crime data (NYPD 75th Precinct)
+- CompStat, week 11/2/2026–11/8/2026: burglary week 2 vs 10 (-80.0%); 28-day 9 vs 27 (-66.7%); year to date 155 (2026) vs 210 (2025), -26.2%; 2-year -39.5%, 16-year -62.4%, 33-year -90.3% — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-075pct.pdf
+- Same report, historical full years: burglary 2,433 (1990), 1,854 (1993), 1,170 (1998), 568 (2001), 247 (2025) — same URL
+- Same report YTD: robbery 356 vs 448 (-20.5%); grand larceny 749 vs 804; G.L.A. (car theft) 329 vs 399 (-17.5%); "Housing" (crimes in NYCHA housing) 210 vs 254 (-17.3%); retail theft 694 vs 814 (-14.7%) — same URL
+- Wikipedia: the precinct reported 354 burglaries in 2023; 75th Precinct patrols East New York, NYCHA property patrolled by PSA 2 — https://en.wikipedia.org/wiki/East_New_York
+- NY1, Oct 29 2026: shootings down 47% in the 75th Precinct compared with five years ago (from local research pack) — https://ny1.com/nyc/all-boroughs/news/2026/10/29/nypd-says-00-guns-confiscated-as-shootings-fall-citywide
+- 75th Precinct station: 1000 Sutter Avenue, Brooklyn 11208 — https://www.facebook.com/NYPD75pct/ ; https://www.50-a.org/command/75det
+- NOTE: blueprint v2.3 Appendix B says NYPD crime-data citations belong only on the six NYC solar pages; the run instructions asked for CompStat research. Flagged for Anwar.
+
+### Local incidents (news)
+- Feb 13 2026 (Friday, just before 9:30 p.m.): a woman claiming to represent a cleaning agency knocked at a home near Vandalia and Fountain avenues; three armed people forced their way in and took jewelry, wallets and cards worth about $122,000 (headline says $118,000) — https://brooklyn.news12.com/118000-in-jewelry-taken-by-armed-trio-during-home-invasion-robbery-in-east-new-york
+- June 2022 (CBS New York): surveillance video showed a man pull an ATM off the wall and drag it through a deli on Fulton Street in East New York to a broken window; police sought a five-person crew linked to 42 businesses in Brooklyn and Queens over six months (smoke shops, delis, nail salons, barbershops, grocery stores, donut shops), all overnight, more than $60,000 cash — https://www.cbsnews.com/newyork/news/police-same-burglary-crew-steals-atms-from-dozens-of-businesses-in-queens-in-brooklyn-over-the-past-few-months/
+- Search-result excerpt only (not opened): "Video from the East New York Deli on Elton Street from early June showed two burglars use a tool to break the lock on a metal gate" — https://za.headtopics.com/news/group-of-thieves-has-stolen-atms-from-42-nyc-businesses-in-6-month-span-police-27312617 (unconfirmed, not used on page)
+- Oct 6 2022 (amNY): Sept 13 2022, 2:50 a.m., bodega at 416 Glenmore Ave, East New York: three suspects, ATM with $7,340 unplugged and carried out, register with $2,800, about $13,000 merchandise, the shop's dog taken (returned); crew cut locks or smashed glass doors at five businesses Sept 1–15; white van — https://www.amny.com/police-fire/atm-thieves-brooklyn-queens-business-break-ins/
+
+### Neighborhood facts
+- Boundaries: Cemetery Belt / Queens line north and east, Jamaica Bay south, BMT Canarsie Line, Bay Ridge Branch and Van Sinderen Ave west; Linden Blvd, Pennsylvania Ave and Atlantic Ave are the primary thoroughfares; CD5; ZIPs 11207, 11208, 11239 (Starrett City) — https://en.wikipedia.org/wiki/East_New_York
+- Founded as Town of New Lots in the 1650s; annexed as 26th Ward of Brooklyn 1886; John Pitkin named "East New York" in 1835, shoe factory at Williams St and Pitkin Ave — same URL
+- Land use: primarily semi-detached homes, two-to-four family houses and multi-unit apartment buildings incl. condos/co-ops; 44-block East Brooklyn Industrial Park (1980) bounded by Atlantic Ave, Sheffield Ave, Sutter Ave and Powell St — same URL
+- Eleven NYCHA developments incl. Cypress Hills Houses (fifteen 7-story), East New York City Line (thirty-three 3-story), Louis Heaton Pink Houses (twenty-two 8-story), Vandalia Avenue (two 10-story), Boulevard Houses (1950, 6 and 14 stories), Linden Houses (8 and 14 stories), Pennsylvania Ave–Wortman Ave; several converted to RAD/PACT private management as of Dec 28 2021 — same URL
+- Starrett City / Spring Creek Towers: opened 1974, 5,881 apartments in 46 buildings, eight sections (Ardsley … Hornell) each with a parking garage — same URL
+- Spring Creek includes Starrett City, Gateway Center (South 2002, North 2014), Spring Creek Gardens, Nehemiah Spring Creek — same URL
+- "For every supermarket in East New York, there are 13 bodegas" (2018 Community Health Profile) — same URL
+- FDNY: Engine 332/Ladder 175 (165 Bradford St), Engine 290/Ladder 103 (480 Sheffield Ave), Engine 236 (998 Liberty Ave), Engine 225/Ladder 107/Battalion 39 (799 Lincoln Ave) — same URL
+- Transit: IRT New Lots line (Pennsylvania Ave, Van Siclen Ave, New Lots Ave), L (Broadway Junction … New Lots Ave), A/C, J/Z; LIRR East New York station — same URL
+- African Burial Ground Square (designated 2013) between New Lots and Livonia avenues, Barbey to Schenck streets, shares space with the New Lots library — same URL
+- Post offices: East New York Station 2645 Atlantic Ave; Spring Creek Station 1310 Pennsylvania Ave — same URL
+- 2016 rezoning under de Blasio — same URL; City Planning plan: medium-density mixed-use buildings with affordable housing and retail along key corridors; city-owned Dinsmore-Chestnut site near Atlantic Ave and Conduit Blvd — https://www.nyc.gov/content/planning/pages/our-work/plans/brooklyn/east-new-york-neighborhood-plan
+- Chestnut Commons, 110 Dinsmore Place: 14-story, 275-unit affordable building, largest public site designated after the 2016 rezoning — https://www.mutualhousingny.org/avaliable-properties/chestnut-commons ; https://www.citylandnyc.org/hpd-celebrates-opening-of-new-affordable-building-with-275-units-in-east-new-york/
+- Atlantic Chestnut (Dattner): 1,200 affordable units, a result of the rezoning — https://www.dattner.com/projects/view/atlantic-chestnut/
+- Four main commercial corridors: Fulton St, Atlantic Ave, Liberty Ave, Pitkin Ave; Pitkin Avenue BID (local research pack) — https://a860-gpp.nyc.gov/downloads/9p290d23x?locale=en
+
+### Nehemiah houses
+- EBC Nehemiah plan, 1982 groundbreaking; full basements, double-glazed windows, natural gas furnaces, parking pads; two-bedroom 1,000 sq ft, three-bedroom 1,200 sq ft; kitchen placed at the front at residents' request so owners could watch the front yard, parking pad and street; Spring Creek houses of the 2000s were modular (Alexander Gorlin), assembled at the Brooklyn Navy Yard, 13-colour palette — https://www.gothamcenter.org/blog/citizen-power-rebuilds-east-brooklyn-the-nehemiah-housing-plan-in-the-1980s
+- Brooklyn Nehemiah Homeowners Associations (East New York HOA, New Lots Nehemiah HOA) oversee shared sewer systems; more than three thousand homes in Brownsville and East New York — https://brooklynnehemiah.org/
+- About 700 "New Nehemiah" East New York row houses in the mid-1990s — https://urbanomnibus.net/2017/08/the-bible-and-the-billionaire/ (excerpt)
+- NYT via Wikipedia: buyers paid $43,500; city gave vacant sites and a 10-year tax abatement on the houses — https://en.wikipedia.org/wiki/East_New_York
+
+### Rules and licensing
+- NYC Admin Code § 24-238: building audible burglar alarm must terminate within 15 minutes (silo research) — https://nycadmincode.readthedocs.io/t24/c02/sch06/
+- FDNY 3 RCNY § 907-01(c): unlawful to transmit two or more unnecessary or unwarranted (fire) alarms in a three-month period — https://firelawblog.com/2019/05/14/court-upholds-fdny-citation-for-nuisance-alarms-on-state-property/ ; penalty schedule https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCrules/0-0-0-102214
+- NYPD: search excerpt claims NYPD can end response after repeated unnecessary alarms (3+ in 3 months triggers review) — https://www.safestreets.com/research/alarm-permits/new-york/new-york/ (page redirected to a sales page; could not confirm in a primary source; NOT used as fact)
+- Citywide NYC burglar-alarm permit requirement: EMPTY (none found in gov-index search; suburban codes like Suffolk, Rye, Yorktown have permits)
+- NYS DOS installer licence, GBL Art. 6-D (silo research) — https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- HPD smoke/CO rules (silo research) — https://www.nyc.gov/site/hpd/services-and-information/detectors.page
+
+### Reddit / Yelp / hyperlocal
+- Reddit r/homesecurity: "Tripped house alarms are the lowest priority for police. Most of the time they're false alarms." (not NYC-specific) — https://www.reddit.com/r/homesecurity/comments/1vupgc8/just_experienced_breakin_cops_say_they_will_be/
+- Reddit r/AskNYC fire-escape break-ins threads (citywide, not East New York) — https://www.reddit.com/r/AskNYC/comments/j1avtf/has_anyone_ever_tried_or_succeeded_to_break_in/
+- Reddit East New York–specific alarm threads: EMPTY
+- Yelp alarm companies Brooklyn list (True V Security Systems etc.) — https://www.yelp.com/search?find_desc=Alarm+Company&find_loc=Brooklyn%2C+NY ; East New York complaints: EMPTY
+- Patch / BKReader alarm stories for East New York: EMPTY
+
+### Questions people ask — Alarm Installation in East New York
+- Google People Also Ask: EMPTY (not accessible)
+- Google related searches / PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Google AI Overview: EMPTY
+- How much does a home security system cost in New York? — competitor FAQ — https://apbsecurity.com/industries.html
+- Do I need a phone line for a security system in NYC? — competitor FAQ — https://apbsecurity.com/industries.html
+- Do I need professional 24/7 monitoring for my business alarm system? — competitor FAQ — https://vertexsecurity.com/alarm-systems/
+- How much does a commercial alarm system cost in NYC? — competitor FAQ — https://vertexsecurity.com/alarm-systems/
+- Do I need a phone line for business alarm monitoring? — competitor FAQ — https://linkedsecurityny.com/commercial-business-alarm-systems-in-new-york-nyc/
+- Do I need an alarm permit in NYC? — AESS NYC hub FAQ (ranking page) — https://www.abstractenterprisessecuritysystems.com/alarm-installation-nyc
+- How much does alarm installation cost in Brooklyn? — AESS Brooklyn hub FAQ — https://www.abstractenterprisessecuritysystems.com/alarm-installation-brooklyn
+- Home Security Systems in NYC: Costs, Licensing & How to Hire (how-to-hire questions) — guide — https://servhom.com/guides/nyc-security-systems-guide
+- Why do I need 24/7 alarm monitoring if I already have a security system? — competitor FAQ — https://www.ezswitchli.com/residential-single-family/alarm-monitoring
+- Do police respond to burglar alarms / are alarms low priority? — Reddit r/homesecurity — https://www.reddit.com/r/homesecurity/comments/1vupgc8/just_experienced_breakin_cops_say_they_will_be/
+- Is East New York safe in 2026? — blog FAQ (local pack) — https://dahlcore.com/blog/f/is-east-new-york-safe-unveiling-crime-rates-safety-insights/
