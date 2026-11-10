@@ -1,10 +1,11 @@
 {
  "area": {
-  "brooklyn": 14314.59,
+  "brooklyn": 14778.09,
   "congers": 291.53,
   "hempstead": 1.0,
   "new-york": 1756.37,
   "orangeburg": 1441.39,
+  "queens": 154.5,
   "richmond-hill": 506.27,
   "seldon": 190.0,
   "staten-islan": 2068.63,
@@ -16,7 +17,7 @@
   "westchester": 1200.03,
   "white-plains": 2667.4
  },
- "generated": "2026-11-09T08:14:59.999864+00:00",
+ "generated": "2026-11-10T08:15:00.000458+00:00",
  "service": {
   "security-camera": 1.0
  },
