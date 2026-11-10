@@ -71,6 +71,8 @@ Run 2026-10-29 evening (scheduled, 00:55 UTC Oct 30, Claude in Chrome, account /
 
 2026-11-09 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 0 indexed, 0 failed, 2353 queued. All 11 inspected as not on Google (q-see nassau/suffolk/orange/putnam/dutchess/ulster were "URL is unknown to Google"; the rest Discovered - currently not indexed). q-see suffolk county, q-see westchester county and digital-watchdog staten island returned "Oops! Something went wrong" once, then succeeded on retry. "Quota Exceeded" on the 12th request (digital-watchdog long island, Discovered - currently not indexed), which stays QUEUED; next run starts there.
 
+2026-11-09 evening (scheduled, 01:53 UTC Nov 10, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2355 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-10T01:53:46Z, 2836 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2067 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected digital-watchdog long island (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at digital-watchdog long island.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
