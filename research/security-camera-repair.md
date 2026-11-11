@@ -190,3 +190,61 @@
 - Do I need a permit to put a camera on a landmarked building? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Can my store share its cameras with the NYPD? — Connect New York coverage — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
 - Can I still get parts for my Hikvision or Dahua system? — Security Sales on FCC order — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+
+## Bensonhurst, Brooklyn — /security-camera-repair-bensonhurst-brooklyn-ny (factory research, 2026-11-11)
+
+**Building types, entry, wiring and camera conditions**
+- NYC Department of City Planning's 2005 Bensonhurst rezoning (about 120 blocks in Community Board 11, adopted June 23, 2005) describes the area as "characterized by two- and three-story residences," mostly one- and two-family homes, settled "primarily during the 1920s"; narrow side streets have "detached or semi-detached homes for one or two families"; R4-1 (about 40% of the rezoned area) is "entirely or primarily semi-detached"; construction into the 1980s produced "groups of three- or four-story rowhouses with ground floor garages"; "corridors of six-story and taller apartment houses" on Quentin Road, Avenue P and parts of Kings Highway and 65th Street — https://www.nyc.gov/assets/planning/download/pdf/plans/bensonhurst/bensonhurst.pdf
+- Realty guide: housing includes two-family homes ("a neighborhood favorite"), attached and semi-attached brick houses, pre-war apartment buildings, co-ops and condos; 18th Avenue (Cristoforo Colombo Boulevard) is a defining commercial strip; "The elevated D train is part of the streetscape" on 86th Street; D stations at 18th Avenue, 20th Avenue, Bay Parkway and 25th Avenue; ZIP codes 11204 and 11214 — https://www.defalcorealty.com/blog/living-in-bensonhurst-brooklyn-the-ultimate-moving-real-estate-guide/
+- Landmarks named in the same guide: Bensonhurst Park on Gravesend Bay (about 17 acres), L&B Spumoni Gardens near Bay Parkway, Dyker Beach Park and golf course, Shore Parkway Greenway, Seth Low Playground, Bath Beach Park, Milestone Park, Highlawn and Ryder libraries — https://www.defalcorealty.com/blog/living-in-bensonhurst-brooklyn-the-ultimate-moving-real-estate-guide/
+
+**Commercial corridors (NYC SBS Commercial District Needs Assessment, Sept 2022 – June 2023, with the Brooklyn Chinese-American Association and the Federation of Italian-American Organizations)**
+- Corridors assessed: 18th Avenue (60th Street to Bath Avenue), 20th Avenue (60th to 74th Streets), 86th Street (16th to 24th Avenues), Bath Avenue (16th Avenue to Bay Parkway), Bay Parkway (60th to 72nd Streets) — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf
+- 1,265 storefronts inventoried; vacancy 11.7% (Bath Avenue 14%, 20th Avenue 13%); 29% of storefronts in poor condition; of 289 merchants surveyed 65% rent — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf
+- Safety was the top merchant concern (61%); sanitation the top shopper concern (60%); vacant storefronts "contribute to safety concerns at night"; 20th Avenue lacks street lighting, so businesses close earlier; street lighting cited by 13% of merchants and 26% of shoppers — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf
+- The pedestrian area under the elevated D train on 86th Street feels "dirty, dark, and noisy"; the platform casts shadow — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf
+- Demographics in the same report: 53% foreign-born (Brooklyn 35%); median household income $59,756; population 173,774; city's largest concentration of immigrants from Hong Kong and second-largest Cantonese population — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/Bensonhurst.pdf
+- Census Reporter, Brooklyn CD11 (Bensonhurst & Bath Beach PUMA): population 183,378, 64,911 housing units (ACS 2024 1-year), 58.5% foreign-born, 74.1% speak a language other than English at home (ACS 2024 5-year) — https://censusreporter.org/profiles/79500US3604311-nyc-brooklyn-community-district-11-bensonhurst-bath-beach-puma-ny/
+
+**Public cameras on Bensonhurst streets**
+- 2013: NYPD approved ARGUS camera sites including 86th Street at 20th Avenue, at Bay Parkway, at 23rd Avenue and at 25th Avenue, plus Stillwell Avenue and Benson Avenue; Councilmember Domenic Recchia: "The NYPD needs to make use of every tool at its disposal to fight crime and keep our communities safe." — https://brooklyneagle.com/articles/2013/06/04/nypd-gives-the-green-light-to-southwest-brooklyn-security-cameras/
+- 2013: Recchia obtained $400,000 for 11 new ARGUS cameras for the 86th Street shopping area and other parts of southern Brooklyn, adding to seven already operating in his district — https://brooklyneagle.com/articles/2013/05/30/recchia-gets-nypd-to-install-security-cameras-on-86th-street/
+- 2020: Councilmember Justin Brannan allocated $275,000 for 10 Argus cameras at five locations in District 43 (Bay Ridge, Dyker Heights, parts of Bath Beach and Bensonhurst); police said most crimes in the 62nd and 68th precincts involve theft from unlocked vehicles; Brannan described thieves who "walk up and down the block and wiggle every door handle until they get lucky" and said NYPD made arrests from camera footage — https://brooklyneagle.com/articles/2020/11/19/security-cameras-going-up-to-fight-crime-surge/
+
+**Police data and cases**
+- 62nd Precinct CompStat, week 10/26/2026–11/1/2026: burglary 102 YTD vs 141 (-27.7%); robbery 115 vs 106 (+8.5%); grand larceny 488 vs 490; grand larceny auto 132 vs 159 (-17.0%); burglary down 92.5% over 33 years; figures preliminary — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-062pct.pdf
+- 2024: John Catullo sentenced to 10 years for seven burglaries (Aug 2022 – Dec 2023) netting more than $150,000, including private homes on 76th and 72nd Streets in Bensonhurst, grocery stores on 17th Avenue, Bath Avenue and New Utrecht Avenue and a vape shop on 18th Avenue; cell phone data and video evidence linked the suspects; 62nd Precinct led; DA Eric Gonzalez: conduct "will not be tolerated in Brooklyn" — https://brooklyneagle.com/articles/2024/05/30/man-gets-10-years-for-bensonhurst-burglary-spree
+- Oct 4, 2019: thief caught on camera taking a package for a resident's young son off a Bensonhurst porch — https://brooklyn.news12.com/thief-caught-on-camera-stealing-a-package-off-bensonhurst-porch-41143483
+- Nearby (Gravesend, E 3rd St & Ave W, April 2021): surveillance video shows a laundry-room burglar cover the security camera before drilling a washing machine lock — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+
+**City and state rules (from silo research)**
+- NYS license required to install or maintain security systems including CCTV used for intrusion/theft detection (19 NYCRR 195.2); owners installing on their own property are exempt — https://dos.ny.gov/fire-alarm-installer
+- NY Labor Law 203-c: employers must post notice of video monitoring — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- NYPD/Mayor's office 2024 pilot lets retailers register cameras and share real-time feeds with NYPD at no cost — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- DOB permits for camera repair in Bensonhurst: EMPTY
+- LPC historic districts in Bensonhurst affecting camera mounting: EMPTY
+- 311 complaint counts about cameras in 11204/11214: EMPTY
+
+**Repair causes and costs (outside sources)**
+- Brinks: "One of the main reasons that a camera fails to work is an insufficient power source."; other causes: weak Wi-Fi, bandwidth, network setup, outdated firmware, trigger rules, full storage — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
+- Western Digital: "An inadequate power supply is perhaps the most common reason your CCTV camera may not work."; also faulty cables and firmware — https://www.westerndigital.com/en-in/solutions/cctv/blog/3-reasons-your-cctv-camera-is-broken--and-how-to-fix-it
+- CCTV Camera World: "Often times good existing cable can stay in place while you change the equipment on either end of the cable."; HD-over-coax (HD-CVI, HD-TVI, AHD) uses the same BNC connectors; copper-clad aluminum, corrosion and old power wiring cause problems — https://www.cctvcameraworld.com/replacement/
+- HomeAdvisor Brooklyn camera install/repair: average $1,416, typical $680–$2,145, range $160–$3,500 (mixes installs and repairs) — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Reddit / Yelp**
+- r/Bensonhurst, r/Brooklyn threads about camera repair in Bensonhurst: EMPTY
+- Yelp Bensonhurst camera repair complaints/praise: EMPTY (search returned directory listings only)
+
+### Questions people ask — Security Camera Repair in Bensonhurst
+
+PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Reddit: EMPTY. Questions below come from search result titles and guides, labeled honestly.
+- Why are my security cameras not working? — search result title — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
+- Why did my recorder or camera stop recording? — search result title — https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+- Should you upgrade existing security cameras or replace them? — search result title — https://digital-watchdog.com/posts/Should-You-Upgrade-Your-Existing-Security-Cameras-or-Replace-Them-/
+- Is it worth getting a new DVR as a temporary fix? — ipcamtalk thread title — https://ipcamtalk.com/goto/post?id=284683
+- How much does out-of-warranty camera repair cost? — IPVM discussion — https://ipvm.com/discussions/how-much-does-out-of-warranty-camera-repair-cost?oldest_first=true
+- Can I keep my old coax cable when upgrading cameras? — guide — https://www.cctvcameraworld.com/replacement/
+- What do security camera installation and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Why did my hard drive in the DVR get corrupted? — TechRepublic forum — https://www.techrepublic.com/fr/forums/discussions/why-hdd-in-dvr-of-security-cameras-got-croupted/
+- What to do with an old wired security system? — guide — https://securitycamcenter.com/what-to-do-with-old-wired-security-system/
+- Can stores share camera footage with the NYPD? — news — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
