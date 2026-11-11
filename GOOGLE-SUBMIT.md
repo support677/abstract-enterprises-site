@@ -76,6 +76,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-10 evening (scheduled, 01:53 UTC Nov 11, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2382 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-11T01:53:02Z, 2836 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2054 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected avycon westchester county (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at avycon westchester county.
 
+2026-11-11 morning (scheduled, Claude in Chrome on Anwar's computer, account /u/1): 11 requested, 6 indexed (avycon hudson valley; capture staten island/orange/putnam; geovision queens/dutchess), 0 failed, 2331 queued. Not-indexed URLs were Discovered - currently not indexed or URL is unknown to Google. avycon westchester county returned "Oops! Something went wrong" once, then succeeded on retry. "Quota Exceeded" on the 12th request (lilin brooklyn, Discovered - currently not indexed), which stays QUEUED; next run starts there.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
@@ -225,23 +227,23 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-long-island | REQUESTED 2026-11-10
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-nassau-county | REQUESTED 2026-11-10
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-suffolk-county | REQUESTED 2026-11-10
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-westchester-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-hudson-valley | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-rockland-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-ulster-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-bronx | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-staten-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-orange-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-queens | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-staten-island | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-suffolk-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-putnam-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-dutchess-county | QUEUED
-2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nyc | QUEUED
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-westchester-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-hudson-valley | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-rockland-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-orange-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-dutchess-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-prices-ulster-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-bronx | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-staten-island | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-orange-county | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-putnam-county | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-prices-dutchess-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-queens | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-staten-island | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-suffolk-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-putnam-county | REQUESTED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/geovision-camera-installation-prices-dutchess-county | INDEXED 2026-11-11
+2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nyc | REQUESTED 2026-11-11
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-brooklyn | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-nassau-county | QUEUED
 2026-10-29 | https://www.abstractenterprisessecuritysystems.com/lilin-camera-installation-prices-rockland-county | QUEUED
