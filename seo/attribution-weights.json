@@ -3,7 +3,7 @@
   "brooklyn": 14778.09,
   "congers": 291.53,
   "hempstead": 1.0,
-  "new-york": 1756.37,
+  "new-york": 1755.37,
   "orangeburg": 1441.39,
   "queens": 154.5,
   "richmond-hill": 506.27,
@@ -18,8 +18,6 @@
   "white-plains": 2667.4
  },
  "generated": "2026-11-10T08:15:00.000458+00:00",
- "service": {
-  "security-camera": 1.0
- },
+ "service": {},
  "window_days": 30
 }
