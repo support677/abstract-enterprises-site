@@ -93,3 +93,47 @@
 **Notes on the research**
 - **Missing pieces:** Search ran out before Reddit, Bing and DuckDuckGo could be checked directly. To fill the EMPTY rows, check Google PAA/PASF by hand, plus NYC Open Data (HPD violations, 311 "Intercom" complaints filtered to 11207/11208, DOB NOW permits).
 - **One vendor dominates the sources:** Many findings come from abstractenterprisessecuritysystems.com. If that's your own site, don't cite it as outside evidence. If it's a competitor, treat its prices and percentages as marketing.
+
+## Bedford-Stuyvesant, Brooklyn — /security-camera-repair-bedford-stuyvesant-brooklyn-ny (factory research, 2026-11-11)
+
+**Local incidents where camera footage mattered**
+- Fulton Pawnbroker on Fulton Street in Bed-Stuy: a man broke in just after midnight on Oct. 14 (2025) through the ceiling and took about $20,000 in merchandise; "Police say the suspect broke in through the ceiling, and video shows the man scaling the wall and breaking in." No arrests at publication — https://brooklyn.news12.com/must-see-video-shows-suspect-break-into-bed-stuy-pawnshop
+- Marcus Garvey Boulevard deli (News 12, Apr 28 2025): "Surveillance video shows the moments four men impersonating police officers robbed a Bed-Stuy deli at gunpoint." — https://brooklyn.news12.com/caught-on-camera-new-surveillance-video-shows-bed-stuy-deli-robbery
+- Macon Street between Throop Avenue and Marcus Garvey Boulevard (Patch, Nov 2017): a package thief came twice, checked the house was empty and used a mop handle to pull a package from behind a locked gate; the owner found the footage when her tenant asked about the missing package — https://patch.com/new-york/bed-stuy/watch-package-thief-scarily-stalks-bed-stuy-home
+- Bainbridge Street (News 12): resident says a DoorDash driver took a package worth about $1,500 from in front of his door on Feb. 14 — https://newyork.news12.com/police-doordasher-steals-package-from-a-bed-stuy-resident
+
+**Power events that hit recorders, PoE switches and cameras**
+- After Winter Storm Fern, 786 Bed-Stuy customers lost power on a Monday, over 990 by Monday night, about 300 still out Wednesday morning; snow and road salt damaged several manholes — https://brooklyneagle.com/364562/hundreds-without-power-in-bed-stuy-as-temps-hit-single-digits/
+- June 11 2026: manhole fires at 1242 Fulton St. in Bed-Stuy; about 50 Con Edison customers without power as of 8:30 p.m. — https://brooklyn.news12.com/multiple-manholes-catch-fire-in-bed-stuy-forcing-residents-to-brave-the-heat
+- Same event: manhole fires around 6 p.m. cut power to "multiple rows of businesses" on Fulton Street; some stores still without power Friday morning; Con Ed said heat was "almost certainly the cause" — https://newjersey.news12.com/power-restored-after-manhole-fires-knock-out-blocks-of-fulton-street
+
+**Landmark rules (Bed-Stuy has several LPC historic districts)**
+- LPC Permit Guidebook ch. 11: "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; small residential/commercial buildings: no more than two security cameras per 25 feet of street frontage (three for large buildings) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Equipment "must be attached at mortar joints, plain masonry, wood, or metalwork" and "must not be attached through cast iron or on any decorative surfaces"; equipment small and painted to blend — same source
+- Conduit must be concealed through plain masonry; staff may approve "a maximum of approximately ten inches of visible conduit" — same source
+- No permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; in-kind camera replacement applications need manufacturer cut sheets but no elevation drawings — same source
+
+**Footage, police and tenants**
+- Ring ended its "Request for Assistance" tool in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; city buildings aren't required to have functioning cameras (attorney Jennifer Rozen); attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" (to review footage when theft is ongoing) — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- NYS Focus (Oct 2025): NYPD linked 68 CCTV cameras at one NYCHA development to its surveillance software via Big Apple Connect; plans 1,900 cameras across 19 more NYCHA properties; long-term 17,897 cameras across 119 developments. Bed-Stuy developments not named — https://nysfocus.com/2025/10/01/nypd-nycha-surveillance-hearing
+- 79th and 81st Precincts cover Bed-Stuy — https://www.nyc.gov/site/brooklyncb3/resources/nypd-precincts-firehouses.page
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Bed-Stuy: EMPTY
+- 311 / HPD complaint data specific to cameras in 11216/11221/11233: EMPTY
+- Reddit threads (r/BedStuy, r/Brooklyn) on camera repair: EMPTY
+- Yelp reviews for camera repair in Bed-Stuy: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+
+### Questions people ask — Security Camera Repair in Bedford-Stuyvesant
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor — same URL
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can police get my doorbell camera video without asking? — News 12 (Ring change) — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Do I need Landmarks permission to replace a camera on my brownstone? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Is it worth fixing an old DVR or should I replace it? — industry articles — https://digital-watchdog.com/posts/Should-You-Upgrade-Your-Existing-Security-Cameras-or-Replace-Them-/
+- Why did my cameras stop after a power outage? — inferred from News 12/Brooklyn Eagle outage coverage — https://brooklyneagle.com/364562/hundreds-without-power-in-bed-stuy-as-temps-hit-single-digits/
