@@ -226,11 +226,11 @@ LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | To
 LIVE | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO| sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO| sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO| mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO| mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO| mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
@@ -552,11 +552,11 @@ LIVE | intercom-installation-brighton-beach-brooklyn-ny | Intercom Installation 
 LIVE | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installation | Brooklyn Chinatown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO| intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO| intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO| intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+TODO | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+TODO | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+TODO | intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-cypress-hills-brooklyn-ny | Intercom Installation | Cypress Hills, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-dyker-heights-brooklyn-ny | Intercom Installation | Dyker Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-east-flatbush-brooklyn-ny | Intercom Installation | East Flatbush, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -573,7 +573,7 @@ LIVE | intercom-installation-jerome-park-bronx-ny | Intercom Installation | Jero
 LIVE | intercom-installation-locust-point-bronx-ny | Intercom Installation | Locust Point, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-manhattan-beach-brooklyn-ny | Intercom Installation | Manhattan Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-mapleton-brooklyn-ny | Intercom Installation | Mapleton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO| intercom-installation-marine-park-brooklyn-ny | Intercom Installation | Marine Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+TODO | intercom-installation-marine-park-brooklyn-ny | Intercom Installation | Marine Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-mill-basin-brooklyn-ny | Intercom Installation | Mill Basin, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-morris-park-bronx-ny | Intercom Installation | Morris Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-morrisania-bronx-ny | Intercom Installation | Morrisania, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -626,10 +626,10 @@ LIVE | security-camera-installation-melrose-bronx-ny | Security Camera Installat
 LIVE | security-camera-installation-morris-heights-bronx-ny | Security Camera Installation | Morris Heights, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-morris-park-bronx-ny | Security Camera Installation | Morris Park, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-morrisania-bronx-ny | Security Camera Installation | Morrisania, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| security-camera-installation-mott-haven-bronx-ny | Security Camera Installation | Mott Haven, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| security-camera-installation-mount-eden-bronx-ny | Security Camera Installation | Mount Eden, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| security-camera-installation-mount-hope-bronx-ny | Security Camera Installation | Mount Hope, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-TODO| security-camera-installation-norwood-bronx-ny | Security Camera Installation | Norwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | security-camera-installation-mott-haven-bronx-ny | Security Camera Installation | Mott Haven, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | security-camera-installation-mount-eden-bronx-ny | Security Camera Installation | Mount Eden, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | security-camera-installation-mount-hope-bronx-ny | Security Camera Installation | Mount Hope, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+TODO | security-camera-installation-norwood-bronx-ny | Security Camera Installation | Norwood, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-olinville-bronx-ny | Security Camera Installation | Olinville, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-pelham-bay-bronx-ny | Security Camera Installation | Pelham Bay, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | security-camera-installation-pelham-gardens-bronx-ny | Security Camera Installation | Pelham Gardens, Bronx | up /security-camera-installation-bronx-ny | (646) 490-0629 | GBP Bronx
@@ -1586,6 +1586,44 @@ TODO | zosi-camera-installation-orange-county | ZOSI Camera Installation | Orang
 TODO | zosi-camera-installation-putnam-county | ZOSI Camera Installation | Putnam | up /zosi-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | zosi-camera-installation-dutchess-county | ZOSI Camera Installation | Dutchess | up /zosi-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | zosi-camera-installation-ulster-county | ZOSI Camera Installation | Ulster | up /zosi-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | intercom-repair-ulster-county | Intercom Repair | Ulster | up /intercom-repair-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | apartment-building-security-camera-installation-putnam-county | Apartment Building Security Camera Installation | Putnam | up /apartment-building-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | apartment-building-security-camera-installation-dutchess-county | Apartment Building Security Camera Installation | Dutchess | up /apartment-building-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | apartment-building-security-camera-installation-ulster-county | Apartment Building Security Camera Installation | Ulster | up /apartment-building-security-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-automation-installation-suffolk-county | Home Automation Installation | Suffolk | up /home-automation-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | home-automation-installation-putnam-county | Home Automation Installation | Putnam | up /home-automation-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-automation-installation-dutchess-county | Home Automation Installation | Dutchess | up /home-automation-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-automation-installation-ulster-county | Home Automation Installation | Ulster | up /home-automation-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-security-system-installation-long-island | Home Security System Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | home-security-system-installation-hudson-valley | Home Security System Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | home-security-system-installation-manhattan | Home Security System Installation | Manhattan | up /home-security-system-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | home-security-system-installation-brooklyn | Home Security System Installation | Brooklyn | up /home-security-system-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | home-security-system-installation-queens | Home Security System Installation | Queens | up /home-security-system-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | home-security-system-installation-bronx | Home Security System Installation | Bronx | up /home-security-system-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | home-security-system-installation-staten-island | Home Security System Installation | Staten Island | up /home-security-system-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | home-security-system-installation-nassau-county | Home Security System Installation | Nassau | up /home-security-system-installation-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | home-security-system-installation-suffolk-county | Home Security System Installation | Suffolk | up /home-security-system-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | home-security-system-installation-westchester-county | Home Security System Installation | Westchester | up /home-security-system-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | home-security-system-installation-rockland-county | Home Security System Installation | Rockland | up /home-security-system-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-security-system-installation-orange-county | Home Security System Installation | Orange | up /home-security-system-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-security-system-installation-putnam-county | Home Security System Installation | Putnam | up /home-security-system-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-security-system-installation-dutchess-county | Home Security System Installation | Dutchess | up /home-security-system-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | home-security-system-installation-ulster-county | Home Security System Installation | Ulster | up /home-security-system-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | burglar-alarm-installation-long-island | Burglar Alarm Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | burglar-alarm-installation-hudson-valley | Burglar Alarm Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | burglar-alarm-installation-manhattan | Burglar Alarm Installation | Manhattan | up /burglar-alarm-installation-nyc | (929) 560-0737 | GBP Bronx
+TODO | burglar-alarm-installation-brooklyn | Burglar Alarm Installation | Brooklyn | up /burglar-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | burglar-alarm-installation-queens | Burglar Alarm Installation | Queens | up /burglar-alarm-installation-nyc | (347) 434-6392 | GBP Bronx
+TODO | burglar-alarm-installation-bronx | Burglar Alarm Installation | Bronx | up /burglar-alarm-installation-nyc | (646) 490-0629 | GBP Bronx
+TODO | burglar-alarm-installation-staten-island | Burglar Alarm Installation | Staten Island | up /burglar-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | burglar-alarm-installation-nassau-county | Burglar Alarm Installation | Nassau | up /burglar-alarm-installation-long-island | (516) 346-5778 | GBP Brooklyn
+TODO | burglar-alarm-installation-suffolk-county | Burglar Alarm Installation | Suffolk | up /burglar-alarm-installation-long-island | (631) 407-2884 | GBP Brooklyn
+TODO | burglar-alarm-installation-westchester-county | Burglar Alarm Installation | Westchester | up /burglar-alarm-installation-hudson-valley | (914) 877-2578 | GBP Bronx
+TODO | burglar-alarm-installation-rockland-county | Burglar Alarm Installation | Rockland | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | burglar-alarm-installation-orange-county | Burglar Alarm Installation | Orange | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | burglar-alarm-installation-putnam-county | Burglar Alarm Installation | Putnam | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | burglar-alarm-installation-dutchess-county | Burglar Alarm Installation | Dutchess | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
+TODO | burglar-alarm-installation-ulster-county | Burglar Alarm Installation | Ulster | up /burglar-alarm-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 
 ## NEIGHBORHOODS (later - not taken by the daily run until moved above this heading)
 
