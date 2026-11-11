@@ -115,3 +115,4 @@ UTC time | cost | summary
 2026-11-11T03:02Z | $0.00 | (factory) cycle budget left $6.48; not claiming
 2026-11-11T06:02Z | $0.00 | (factory) cycle budget left $6.48; not claiming
 2026-11-11T09:02Z | $0.00 | (factory) cycle budget left $6.48; not claiming
+2026-11-11T12:02Z | $0.00 | (factory) submitted research batch msgbatch_01GruYb1aJQJLSeaEgqnYRQi: 12 service + 0 background
