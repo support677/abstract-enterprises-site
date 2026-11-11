@@ -263,7 +263,7 @@ LIVE | door-buzzer-installation-homecrest-brooklyn-ny | Door Buzzer Installation
 LIVE | door-buzzer-installation-kensington-brooklyn-ny | Door Buzzer Installation | Kensington, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-madison-brooklyn-ny | Door Buzzer Installation | Madison, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-manhattan-beach-brooklyn-ny | Door Buzzer Installation | Manhattan Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T21:20Z max-burn | door-buzzer-installation-mapleton-brooklyn-ny | Door Buzzer Installation | Mapleton, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-mapleton-brooklyn-ny | Door Buzzer Installation | Mapleton, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-marine-park-brooklyn-ny | Door Buzzer Installation | Marine Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:21Z max-burn | door-buzzer-installation-midwood-brooklyn-ny | Door Buzzer Installation | Midwood, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-mill-basin-brooklyn-ny | Door Buzzer Installation | Mill Basin, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
