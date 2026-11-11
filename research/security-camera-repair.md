@@ -248,3 +248,54 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Why did my hard drive in the DVR get corrupted? — TechRepublic forum — https://www.techrepublic.com/fr/forums/discussions/why-hdd-in-dvr-of-security-cameras-got-croupted/
 - What to do with an old wired security system? — guide — https://securitycamcenter.com/what-to-do-with-old-wired-security-system/
 - Can stores share camera footage with the NYPD? — news — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+
+## Bath Beach, Brooklyn — /security-camera-repair-bath-beach-brooklyn-ny (factory research, 2026-11-11)
+
+**Power and outages (what knocks recorders and PoE switches offline)**
+- July 21, 2019 (Sunday night, above 90°F): more than 31,000 Brooklyn households lost power, about 3,600 of them in Bath Beach; Con Ed restored most of Bath Beach by 11 p.m. Con Ed spokesperson Alfonso Quiroz: "The wires were really cooking." Councilmember Mark Treyger: "They suspect power overload and some equipment failure led to tonight's outage." Councilmember Justin Brannan: "Con Ed folks are always responsive and power is restored but reasons rarely given and nothing changes." — https://brooklyneagle.com/articles/2019/07/22/bath-beach-residents-roast-in-heat-wave-power-outage/
+- Aug. 10, 2019: about 3,800 Con Edison customers in Bath Beach and Gravesend lost power for about 90 minutes from around 5:30 p.m., about three weeks after the earlier outage of more than five hours in southern Brooklyn. — https://brooklyneagle.com/articles/2019/08/16/bath-beach-residents-blast-con-ed-after-latest-power-outage/
+
+**Crime figures for the 62nd Precinct (Bath Beach, Bensonhurst, Mapleton)**
+- NYPD CompStat, week 10/5/2026–10/11/2026: burglary YTD 99 (2026) vs 130 (2025), -23.8%; robbery YTD 110 vs 101, +8.9%; grand larceny YTD 456 vs 452, +0.9%; grand larceny auto YTD 126 vs 153, -17.6%. Burglary is -55.8% over 16 years and -92.0% over 33 years. — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-062pct.pdf
+- Nov. 19, 2020: Councilmember Justin Brannan funded $275,000 for 10 Argus NYPD cameras (two at each of five locations) in the 43rd District, which covers Bay Ridge, Dyker Heights and parts of Bath Beach and Bensonhurst; police said most crimes in the 62nd and 68th Precincts involve thieves taking items from unlocked vehicles. Brannan: "These cameras will be another tool in our enforcement and prevention toolbox." — https://brooklyneagle.com/articles/2020/11/19/security-cameras-going-up-to-fight-crime-surge/
+
+**How burglars treat cameras and recorders in southern Brooklyn**
+- Dec. 2018–Jan. 2019 commercial burglary spree (at least seven businesses in Sheepshead Bay, Bensonhurst and Midwood, all in early-morning hours while closed): one suspect "can be seen using a broom to try to cover the security camera"; the Lucky 7 owner found "security cameras broken"; at Sneaker Corner the stolen items included "surveillance equipment." — https://www.cbsnews.com/newyork/news/bk-commercial-burglary-spree
+- Oct. 2018 (63rd Precinct, Flatbush Ave near Quentin Rd): a store burglar "removed a disc from a surveillance system." — https://www.brooklynpaper.com/burglar-turned-camera-off-then-stole-and-ran-off
+- Gravesend laundry-room burglary: surveillance video shows the suspect cover the security camera before drilling a washing-machine lock. — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+- March 2025, Bagel Boy on Avenue Z (southern Brooklyn): security footage showed the front door being shattered; owner Ben Devito: "Same M.O., same thing. Break the window, come in, rummage around," and "My front door on a Saturday morning was completely closed down for three-quarters of the day." — https://brooklyn.news12.com/brooklyn-businesses-targeted-in-citywide-burglary-pattern
+
+**When nobody's camera saw it: the Shore Parkway Greenway case (context only; the camera-installation page covers it)**
+- Police said that because of the lack of cameras and eyewitnesses they needed help from drivers; Chief of Detectives Joseph Kenny: "We are looking for Teslas; we're looking for Uber drivers, anybody who had a dash cam". A license plate reader on the Belt Parkway at 14th Avenue logged over 1,700 vehicles in about 20 minutes. Tips: Crime Stoppers 800-577-TIPS. — https://www.amny.com/news/brooklyn-jogger-stabbing-nypd-dash-cams-clues/
+- A suspect was later charged with murder (reported Nov. 7–8, 2026). — https://abc7ny.com/post/suspect-charged-murder-killing-katie-suarez/20022526/
+
+**NYPD camera-sharing program for businesses**
+- NYPD pilot on the Fusus (Axon) platform: "Camera registration informs the NYPD where cameras are located in case a crime or incident occurs, and camera integration provides the NYPD with real-time access to camera feeds." No cost to businesses; started in the 109th Precinct (35 businesses), expanded to nine more precincts (not named); signup at newyorkcityconnect.org. Whether the 62nd Precinct is included: EMPTY. — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+
+**Footage in co-ops and condos (Bath Beach has many)**
+- FirstService Residential: footage is generally kept 30 to 90 days; requests go to the property manager with reason, timeframe and cameras; keep an access log. Christina Forbes, President, Manhattan Condo/Co-op Division: "Limiting access protects the privacy of residents and helps prevent potential misuse." — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+
+**Remote viewing after an internet or router change (very common repair call)**
+- After a router or ISP change, an NVR often "retained an IP from the old subnet," or has a wrong gateway/DNS, a conflicting static IP, or Wi-Fi cameras still on the old SSID; the guide warns "Random port forwarding or DMZ settings increase risk and do not correct a wrong gateway, DNS or ownership problem." — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-new-router-internet-provider-checklist/
+
+**National cost guides (for the AI reality check)**
+- HomeAdvisor: alarm/security system repairs "cost $182 on average and typically between $97 and $269"; camera replacement or repair listed at $100–$400; handyman $60–$125 per hour. — https://homeadvisor.com/cost/safety-and-security/repair-an-alarm-or-security-system
+
+**City data:** HPD violations, 311 complaints or DOB permits for camera repair in 11214: EMPTY. LPC: no historic district found for Bath Beach (per earlier camera research): EMPTY of new findings.
+
+**Reddit:** r/BathBeach: EMPTY. r/Brooklyn thread "Anyone know a good commercial security systems company in NYC?" — landlord required a licensed installer; one answer contrasts a local firm with ADT, which "tried to lock them into a three-year contract" (paraphrase). — https://reddit.sentinel-team.org/posts/1qehoq6/snapshots/2026-01-16T23%3A12%3A55.364644Z
+
+**Yelp:** Yelp complaints about camera repair near Bath Beach: EMPTY.
+
+### Questions people ask — Security Camera Repair in Bath Beach
+**PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY.** Questions below are from forums and help pages, labeled.
+- I had Lorex cameras installed a few years back by a contractor who is now out of business, and three cameras are offline. What can I do? — JustAnswer-style help forum — https://www.asktech.support/home-security-systems/v1iia-lorex-cameras-offline-troubleshooting.html
+- My new router makes my cameras show blank on the app and I can't reset the password. — JustAnswer — https://www.justanswer.com/home-security-systems/9wk54-new-router-sent-comcast-lorex.html
+- Changed phone/internet providers and now I can't see my cameras remotely. — ipcamtalk forum — https://ipcamtalk.com/threads/changed-phone-providers-and-now-i-cant-see-my-cameras-remotely.65460/post-698134
+- Why does my camera recording show the wrong time stamp? — help guides — https://scos.co.uk/troubleshooting/dahua/dahua-wrong-timestamp/
+- What causes video loss in security cameras? — Brinks help — https://brinkshome.com/smartcenter/what-causes-video-loss-in-security-cameras
+- Need DVR advice (old DVR, what to replace with) — Reddit r/homesecurity — https://lr.in.psf.lt/r/homesecurity/comments/1e6fcj0/need_dvr_advice
+- Who should have access to security camera footage in a condominium or cooperative? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- Anyone know a good commercial security systems company in NYC? — Reddit r/Brooklyn — https://reddit.sentinel-team.org/posts/1qehoq6/snapshots/2026-01-16T23%3A12%3A55.364644Z
+- Looking for an affordable security system with cameras, alerts and remote viewing in Brooklyn NY — JustAnswer — https://www.justanswer.com/home-security-systems/8huoi-looking-security-system-couple-cameras-monitors.html
+- How do I get footage to the police? (NYPD asks for video via Crime Stoppers) — news — https://www.amny.com/news/brooklyn-jogger-stabbing-nypd-dash-cams-clues/
