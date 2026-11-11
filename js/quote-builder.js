@@ -165,7 +165,7 @@
       }
       fetch('/api/contact',{method:'POST',body:fd})
        .then(function(r){return r.json();})
-       .then(function(d){if(!d||!d.success)throw new Error('not sent');btn.style.display='none';document.getElementById('qb-lead-msg').style.display='block';if(typeof gtag==='function'){gtag('event','generate_lead',{brand:brand(),area:area()});}if(typeof window.aessFbLead==='function'){window.aessFbLead({method:'quote_builder',brand:brand()});}})
+       .then(function(d){if(!d||!d.success)throw new Error('not sent');btn.style.display='none';document.getElementById('qb-lead-msg').style.display='block';if(typeof gtag==='function'){gtag('event','generate_lead',{brand:brand(),area:area()});}if(typeof window.aessFbLead==='function'){window.aessFbLead({method:'quote_builder',brand:brand()});}if(typeof window.aessTagsLead==='function'){window.aessTagsLead();}})
        .catch(function(){btn.textContent='Send Me This Quote \u2192';btn.disabled=false;alert('Could not send \u2014 please call (347) 934-8335.');});
     }
   };
