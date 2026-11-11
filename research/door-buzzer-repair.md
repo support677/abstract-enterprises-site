@@ -8160,3 +8160,50 @@ Data area: Brooklyn Community Board 3 (close to, not identical with, the neighbo
 - What information should an owner gather before requesting a quote? — vendor FAQ — same URL
 - Why does the buzzer ring but the door won't open? — Facebook (NYC installer post title) — https://www.facebook.com/UnldAppSecCo/posts/apartment-buzzer-ringsbut-the-front-door-wont-opendont-assume-you-need-a-new-int/1832792455516991/
 - How long does a landlord have to fix an intercom violation? — search results (HPD/JustFix) — https://www.justfix.org/es/learn/how-long-does-a-landlord-have-to-make-repairs
+
+## Bensonhurst, Brooklyn — /door-buzzer-repair-bensonhurst-brooklyn-ny (factory research, 2026-11-11)
+
+### Building stock and entry situations (door buzzer repair)
+- 8210 19th Avenue (11214): 53 units, 6 floors, built 1939; 24 open violations listed (21 Class C, 3 Class B); a former tenant review says "door bell is not working since April"; another advises residents to learn who lives there and not let strangers in when holding the door — https://www.openigloo.com/building/nyc/3164658-3063150034/brooklyn-bensonhurst-8210-19-avenue-11214
+- 8100 Bay Parkway (11214): co-op, built 1939, 6 stories, 84 units — https://streeteasy.com/building/8100-bay-parkway-brooklyn
+- 7000 Bay Parkway (11204): co-op, built 1959, 6 stories, 102 units — https://streeteasy.com/building/7000-bay-parkway-brooklyn
+- 8501 18th Avenue (11214): mixed-use, built 1928, 2 stories, 2 units, class S1 (one family with store or office) — https://streeteasy.com/building/8501-18-avenue-brooklyn
+- 7616 18th Avenue (11214): mixed-use, built 1931, 2 stories, 2 units, class S1 — https://streeteasy.com/building/7616-18-avenue-brooklyn
+- 7412 18th Avenue (11204): mixed-use, built 1931, 2 stories, listed as 3–4 units, class S3 (three family with store or office) — https://streeteasy.com/building/7412-18-avenue-brooklyn
+- 8418 17th Avenue (11214): legal 4-family built 1929, "two residential entrances in the front" plus a separate basement entrance — https://www.brownstoner.com/listing/BKMLS-6953675/8418-17th-ave-bensonhurst-brooklyn-ny-11214/
+- Tower 85, 2066 85th Street: built 2022, 4 floors, 11 apartments, amenities list "Intercom" (post-1968, 8+ units) — https://www.cityrealty.com/nyc/bensonhurst/tower-85-2066-85th-street/187751
+- Feb 14, 2020: three-alarm fire in a two-story house on 85th Street in Bensonhurst displaced 29 people; inspectors found what appeared to be an illegally converted attic apartment; officials said area two-family homes have been turned into six- or ten-family homes; DOB spokesperson Andrew Rudansky: "Property owners in New York City have a legal responsibility to provide safe, habitable conditions for their tenants." — https://www.nysenate.gov/newsroom/in-the-news/2020/andrew-gounardes/bensonhurst-blaze-sparks-calls-crackdown-illegal-home
+- Local Law 126 of 2024 basement/cellar legalization covers Brooklyn CD11 (Bensonhurst, Dyker Heights); a basement must have at least one door leading outside — https://epicenter-nyc.com/basement-apartments-get-a-legal-path-in-nyc-but-only-in-these-15-neighborhoods/
+- HPD Nov 10, 2025 proposed rules: owners apply before April 20, 2029, with a ten-year path to finish legalization; no intercom requirement mentioned — https://www.nyc.gov/site/hpd/news/074-25/adams-administration-publishes-new-proposed-rules-legalizing-basement-cellar-apartments
+
+### City data, rules and local news bearing on door buzzer repair
+- July 30, 2020: Con Edison reduced voltage by eight percent across southern Brooklyn neighborhoods including Bensonhurst after feeder cable failures and asked more than 96,000 residents to limit power use — https://www.amny.com/brooklyn/con-edison-calls-on-residents-of-southern-brooklyn-to-reduce-power-to-avoid-outages
+- June 25, 2025: about 2,200 Con Ed customers across Brooklyn had power issues, hardest-hit named as Borough Park, Bay Ridge, Dyker Heights, Sunset Park, Williamsburg (Bensonhurst not named) — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- dormakaba electric strike troubleshooting: "A strike connected to an AC power supply will buzz unless a rectifier is installed"; binding strike = check keeper with door open, then remove back pressure; door won't latch = warped or sagging door causing back pressure; check voltage at supply and at strike with a multimeter; confirm strike and supply rated for same voltage — https://kb.dormakaba.com/hc/en-us/articles/39973415715227-Troubleshooting-Electric-Strikes
+- ButterflyMX cold-weather guide: cold "can stress power delivery, make metal parts contract, reduce battery performance, and turn moisture into ice around exterior hardware"; metal contraction changes fit between latch, strike plate and frame; advice to "Test the system during temperature swings, when intermittent faults are easier to spot" — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- Brick Underground, Nov 7, 2019: Pete Carmello (Lock and Tech): "A lot of times it's user error"; Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections"; failures at lobby base, apartment station, door strike or power supply; core wiring in older systems typically fine — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Habitat Magazine, Feb 26, 2024: co-op shareholder lost intercom after a neighbor's renovation; Nancy Kourland (Lasser Law Group): "the co-op has a legal obligation to repair or replace the intercom"; Andrew Freedland: the renovating neighbor "may be responsible for the repair" — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- ButterflyMX small-building guide: "Do not replace a system based on age alone"; "In older or converted buildings, undocumented alterations should be treated as something to inspect"; "A reliable legacy audio intercom with one failed station may be worth repairing" — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- ButterflyMX intercom-not-working guide: telephone call boxes fail when they rely on landlines being phased out or resident numbers are outdated; one unit not receiving calls points to its indoor station; no power = tripped breaker, damaged transformer or disconnected power — https://butterflymx.com/blog/intercom-not-working/
+- NYC Tenant Data Privacy Law (LL 63 of 2021): owners using smart access systems must obtain express consent and may not require use of a smart access system to enter a tenant's dwelling unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- HPD / 311 intercom-violation counts for ZIPs 11214 and 11204: EMPTY (NYC Open Data returned service unavailable)
+- Bensonhurst DOB permits for entry-system work: EMPTY
+- LPC historic district affecting Bensonhurst entrances: EMPTY
+- Reddit threads about buzzers in Bensonhurst: EMPTY
+- Yelp complaints about buzzer repair near Bensonhurst: EMPTY
+
+### Questions people ask — Door Buzzer Repair in Bensonhurst
+- Why does my door buzzer stop working only during winter? — web FAQ — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- Why does the buzzer sound but the door will not open? — web FAQ — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- Can cold weather permanently damage an intercom system? — web FAQ — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- Are video intercoms more reliable in cold weather than traditional buzzers? — web FAQ — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- Why does my electric strike buzz or hum instead of releasing? — Bing/web — https://kb.dormakaba.com/hc/en-us/articles/39973415715227-Troubleshooting-Electric-Strikes
+- Why won't the door latch after the buzzer releases it? — web — https://kb.dormakaba.com/hc/en-us/articles/39973415715227-Troubleshooting-Electric-Strikes
+- The doorbell to my apartment hasn't worked for months; who fixes it? — openigloo tenant review — https://www.openigloo.com/building/nyc/3164658-3063150034/brooklyn-bensonhurst-8210-19-avenue-11214
+- Landlord won't fix the buzzer; what can I do? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- Is a broken buzzer user error or a real fault? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Who pays when a neighbor's renovation kills a co-op intercom? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Should an old small-building intercom be repaired or replaced? — web — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Why does only one apartment not get calls from the lobby? — web — https://butterflymx.com/blog/intercom-not-working/
+- Can a landlord require tenants to use an app to get in? — HPD — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- Google PAA / PASF / AnswerThePublic / DuckDuckGo for "door buzzer repair Bensonhurst": EMPTY
