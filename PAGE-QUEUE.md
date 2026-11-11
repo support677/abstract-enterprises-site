@@ -218,7 +218,7 @@ LIVE | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (8
 # PRIORITY (Anwar, Nov 11 2026): the 150 Brooklyn neighborhood pages below go before every other TODO line. The Brooklyn neighborhood ads stay paused until all 150 are LIVE.
 LIVE | door-buzzer-installation-bath-beach-brooklyn-ny | Door Buzzer Installation | Bath Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T17:38Z max-burn | door-buzzer-installation-bay-ridge-brooklyn-ny | Door Buzzer Installation | Bay Ridge, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T17:38Z max-burn | door-buzzer-installation-bedford-stuyvesant-brooklyn-ny | Door Buzzer Installation | Bedford-Stuyvesant, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-bedford-stuyvesant-brooklyn-ny | Door Buzzer Installation | Bedford-Stuyvesant, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-bensonhurst-brooklyn-ny | Door Buzzer Installation | Bensonhurst, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-bergen-beach-brooklyn-ny | Door Buzzer Installation | Bergen Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-beverley-square-brooklyn-ny | Door Buzzer Installation | Beverley Square, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
