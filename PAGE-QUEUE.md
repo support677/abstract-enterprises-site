@@ -214,7 +214,7 @@ LIVE | lorex-vs-swann | Comparison: Lorex vs Swann | NYC hub | up / | (800) 486-
 LIVE | ring-vs-arlo | Comparison: Ring vs Arlo | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | ring-vs-nest | Comparison: Ring vs Nest | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-11T13:51Z max-burn | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+LIVE | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | unifi-protect-vs-hikvision | Comparison: UniFi Protect vs Hikvision | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | adt-vs-simplisafe-vs-local-installer | Comparison: ADT vs SimpliSafe vs Local Licensed Installer | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | 2gig-vs-qolsys | Comparison: 2GIG vs Qolsys | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
