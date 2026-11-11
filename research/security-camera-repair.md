@@ -344,3 +344,47 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can police get my doorbell camera video without asking me? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
 - Does my landlord have to show me camera footage of a package theft? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - What should I do so police can use my video after a daytime burglary? — Bklyner (70th Precinct) — https://bklyner.com/the-70th-precinct-addresses-increasing-incidents-of-burglary-ditmas-park
+
+## Borough Park, Brooklyn — /security-camera-repair-borough-park-brooklyn-ny (factory research, 2026-11-11)
+
+**Private cameras and the community camera network**
+- Boro Park Shomrim (Feb 24 2023) asked the community to register cameras with them in advance, with each camera's location, so they can contact the owner quickly when a crime happens nearby; a Shomrim representative: "Many crimes occur in front of homes or businesses." — https://www.boropark24.com/news/boro-park-shomrim-growing-their-camera-network
+- Jan 29 2026: swastika graffiti appeared at 18th Avenue Park on several days in a row; footage from nearby homes and businesses was used to track the suspects and the NYPD, working with Shomrim, made arrests: "Without this cooperation, solving these repeated incidents would have been much harder." Shomrim asks residents to share outside cameras by email and offers help setting up camera systems — https://bpshomrim.org/community-cameras-lead-to-arrests-in-repeated-swastika-graffiti-incidents-at-18th-avenue-park/
+- Nov 16 2024: after a Borough Park burglary, Shomrim used cameras throughout Borough Park to follow suspects to a getaway car parked more than a mile away; "After five hours of detailed analysis, the car was finally spotted, and its identifying details were recorded." 66th and 61st Precincts coordinated; car found in East Flatbush — https://bpshomrim.org/burglary-suspect-tracked-and-arrested-by-the-nypd-with-the-help-of-shomrim/
+- May 14 2026: a package worth thousands of dollars was taken from a Boro Park doorstep shortly after delivery; Shomrim followed the suspect across several neighborhood cameras, identified her and the items were returned — https://bpshomrim.org/shomrim-recovers-expensive-stolen-package/
+- May 2012: the $1 million Leiby Kletzky Security Initiative put up 150 street security cameras in Borough Park and Midwood, each with four lenses, state-funded, run by Agudath Israel with information shared with Shomrim and NYPD; Hikind expected many on 13th Avenue, Avenue J and Avenue M — https://brooklyneagle.com/articles/2012/05/21/boro-park-midwood-mount-150-security-cameras-in-wake-of-childs-murder/
+- Dec 2021 66th Precinct "Build the Block" meeting at United Talmudical Academy, 123 Clara Street: package theft was the top concern; police can use video evidence and building records even months later, but only if the crime is reported; NCO Karol Smiarowski: "When things are left out in the open, anyone can walk by and pick stuff up" — https://www.boropark24.com/news/ncos-say-residents-should-work-together-to-prevent-package-thefts
+
+**Local incidents**
+- July 6 (year not stated): a man broke into two separate buildings on 61st Street in Borough Park; a $250 Samsung tablet taken; no camera details reported — https://newyork.news12.com/man-wanted-for-burglarizing-2-buildings-in-borough-park
+- Mar 4 2026: Shmira Public Safety stepped up patrols after break-ins in nearby Gravesend and Sheepshead Bay (East Fourth Street home entered ~3:40 a.m., car keys taken); director Levi Leifer: "we do think it's a pattern and might be part of the same group" — https://brooklyn.news12.com/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn
+
+**Power events that hit recorders, switches and cameras**
+- June 25 2025: about 2,200 Con Edison customers across Brooklyn had power problems, Borough Park among the hardest hit; Con Ed intentionally lowered voltage; resident Mordecai Hirschhorn: "The AC in the bedroom is working but the rest of the house— the lights are very dim." — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- Same day, Boro Park 24: residents reported flickering lights; in many cases power was reduced rather than cut — https://www.boropark24.com/news/thousands-affected-by-electrical-problems-this-morning-hundreds-in-boro-park
+- Jan 19 2026, snowy/icy weather: Con Ed outage map showed outages near 46th St & 9th Ave (5 customers), 12th Ave near 43rd St (23), near 3715 15th Ave (39), near 505 McDonald Ave (33) — https://www.boropark24.com/news/many-power-outages-reported-across-boro-park-amid-snowy-icy-weather
+- Vendor troubleshooting guide: "Sometimes the power supply is simply damaged as a result of a thunderstorm, outage, or surge."; recommends surge protector or UPS — https://www.cctvcameraworld.com/guides/security-camera-system-troubleshooting/
+
+**Footage as evidence / record keeping**
+- NY landlord-attorney guidance: the contractor "should periodically check the camera and DVR to confirm that both are operating properly"; in 1427 LLC v Schiller the court discounted footage partly because "the camera and the DVR were not located in secure locations" and flagged "unexplained periods" with no recordings — https://www.apartmentlawinsider.com/blogs/lawrence-e-goldstein/how-get-surveillance-footage-admitted-evidence
+
+**Equipment rules**
+- FCC order FCC-22-84 (Nov 2022) bars new authorizations for Hikvision and Dahua equipment on the Covered List; "the FCC's Order does not affect products that are already authorized" — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits / LPC historic-district rules for camera work in Borough Park: EMPTY
+- HPD / 311 camera complaint data for 11219/11204/11218: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) on Borough Park camera repair: EMPTY
+- Yelp reviews for camera repair in Borough Park: EMPTY (Yelp not retrievable)
+
+### Questions people ask — Security Camera Repair in Borough Park
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Reddit questions: EMPTY
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How do I fix a DVR displaying no video? — vendor guide heading — https://www.cctvcameraworld.com/guides/security-camera-system-troubleshooting/
+- How do I get surveillance footage admitted into evidence? — legal blog — https://www.apartmentlawinsider.com/blogs/lawrence-e-goldstein/how-get-surveillance-footage-admitted-evidence
+- Does the FCC's ban affect my existing Hikvision/Dahua system? — trade press — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- How do I register my camera with Shomrim's network? — Boro Park 24 — https://www.boropark24.com/news/boro-park-shomrim-growing-their-camera-network
