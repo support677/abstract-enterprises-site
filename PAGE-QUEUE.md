@@ -221,7 +221,7 @@ LIVE | door-buzzer-installation-bay-ridge-brooklyn-ny | Door Buzzer Installation
 LIVE | door-buzzer-installation-bedford-stuyvesant-brooklyn-ny | Door Buzzer Installation | Bedford-Stuyvesant, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T17:55Z max-burn | door-buzzer-installation-bensonhurst-brooklyn-ny | Door Buzzer Installation | Bensonhurst, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-bergen-beach-brooklyn-ny | Door Buzzer Installation | Bergen Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T17:55Z max-burn | door-buzzer-installation-beverley-square-brooklyn-ny | Door Buzzer Installation | Beverley Square, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-beverley-square-brooklyn-ny | Door Buzzer Installation | Beverley Square, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T17:56Z max-burn | door-buzzer-installation-boerum-hill-brooklyn-ny | Door Buzzer Installation | Boerum Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:05Z factory | door-buzzer-installation-borough-park-brooklyn-ny | Door Buzzer Installation | Borough Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:05Z factory | door-buzzer-installation-brighton-beach-brooklyn-ny | Door Buzzer Installation | Brighton Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
