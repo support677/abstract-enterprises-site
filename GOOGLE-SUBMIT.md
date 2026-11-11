@@ -3176,3 +3176,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-marine-park-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-kensington-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-madison-brooklyn-ny | QUEUED
+2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-manhattan-beach-brooklyn-ny | QUEUED
