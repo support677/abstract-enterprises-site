@@ -285,7 +285,7 @@ BUILDING 2026-11-11T22:28Z max-burn | door-buzzer-installation-spring-creek-broo
 BUILDING 2026-11-11T22:28Z max-burn | door-buzzer-installation-starrett-city-brooklyn-ny | Door Buzzer Installation | Starrett City, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:29Z max-burn | door-buzzer-installation-stuyvesant-heights-brooklyn-ny | Door Buzzer Installation | Stuyvesant Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:29Z max-burn | door-buzzer-installation-sunset-park-brooklyn-ny | Door Buzzer Installation | Sunset Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-vinegar-hill-brooklyn-ny | Door Buzzer Installation | Vinegar Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T22:30Z max-burn | door-buzzer-installation-vinegar-hill-brooklyn-ny | Door Buzzer Installation | Vinegar Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-weeksville-brooklyn-ny | Door Buzzer Installation | Weeksville, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-williamsburg-brooklyn-ny | Door Buzzer Installation | Williamsburg, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-windsor-terrace-brooklyn-ny | Door Buzzer Installation | Windsor Terrace, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
