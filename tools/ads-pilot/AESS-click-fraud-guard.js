@@ -15,7 +15,7 @@
  *
  * Starts in PREVIEW mode (DRY_RUN = true): it only logs + emails. Flip to false after review.
  */
-var CAMPAIGN_PREFIX = 'AESS | Cameras | Brooklyn';
+var CAMPAIGN_PREFIX = 'AESS | BK |';
 var MAX_CLICKS_PER_ZIP_PER_DAY = 5;
 var ALERT_EMAIL = 'support@abstractenterprisessecuritysystems.com';
 var SHEET_URL = 'PASTE_GOOGLE_SHEET_URL_HERE'; // sheet with tabs "Auto ZIP Blocks" and "Blocked IPs"
