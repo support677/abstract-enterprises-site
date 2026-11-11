@@ -274,7 +274,7 @@ LIVE | door-buzzer-installation-ocean-parkway-brooklyn-ny | Door Buzzer Installa
 LIVE | door-buzzer-installation-park-slope-brooklyn-ny | Door Buzzer Installation | Park Slope, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-prospect-heights-brooklyn-ny | Door Buzzer Installation | Prospect Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-prospect-lefferts-gardens-brooklyn-ny | Door Buzzer Installation | Prospect Lefferts Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-prospect-park-south-brooklyn-ny | Door Buzzer Installation | Prospect Park South, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-prospect-park-south-brooklyn-ny | Door Buzzer Installation | Prospect Park South, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-remsen-village-brooklyn-ny | Door Buzzer Installation | Remsen Village, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-ridgewood-brooklyn-ny | Door Buzzer Installation | Ridgewood, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-sea-gate-brooklyn-ny | Door Buzzer Installation | Sea Gate, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
