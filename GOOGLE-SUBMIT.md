@@ -3218,3 +3218,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-vinegar-hill-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-windsor-terrace-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-sea-gate-brooklyn-ny | QUEUED
+2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-prospect-lefferts-gardens-brooklyn-ny | QUEUED
