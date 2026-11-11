@@ -267,7 +267,7 @@ BUILDING 2026-11-11T21:20Z max-burn | door-buzzer-installation-mapleton-brooklyn
 BUILDING 2026-11-11T21:21Z max-burn | door-buzzer-installation-marine-park-brooklyn-ny | Door Buzzer Installation | Marine Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:21Z max-burn | door-buzzer-installation-midwood-brooklyn-ny | Door Buzzer Installation | Midwood, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:22Z max-burn | door-buzzer-installation-mill-basin-brooklyn-ny | Door Buzzer Installation | Mill Basin, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-new-lots-brooklyn-ny | Door Buzzer Installation | New Lots, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T21:22Z max-burn | door-buzzer-installation-new-lots-brooklyn-ny | Door Buzzer Installation | New Lots, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-new-utrecht-brooklyn-ny | Door Buzzer Installation | New Utrecht, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-ocean-hill-brooklyn-ny | Door Buzzer Installation | Ocean Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-ocean-parkway-brooklyn-ny | Door Buzzer Installation | Ocean Parkway, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
