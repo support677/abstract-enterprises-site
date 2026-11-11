@@ -118,3 +118,4 @@ UTC time | cost | summary
 2026-11-11T12:02Z | $0.00 | (factory) submitted research batch msgbatch_01GruYb1aJQJLSeaEgqnYRQi: 12 service + 0 background
 2026-11-11T15:02Z | $9.35 | (factory) submitted batch msgbatch_018z1hYY2nC6sN9iYb7c5Yd6 with 12 page(s); submitted research batch msgbatch_01Ftx2qCWNWtndQDBibwVWkh: 12 service + 0 background
 2026-11-11T18:05Z | $22.81 | (factory) FAIL broken image path: /images/night-owl-camera-installation/night-owl-camera-installation-brooklyn-network-installation-bronx-cable-labeling-port-map.webp; broken image path: /images/night-owl-camera-installation/night-owl-camera-installation-brooklyn-network-installation-bronx-core-drill-cmu-wall
+2026-11-11T21:05Z | $23.15 | (factory) submitted batch msgbatch_01Kq3B8wbi2tX58ZBLUJXwVC with 12 page(s); research batch msgbatch_01ArPgoJSLu9MVkvtNPSaxwd. Ledger push lost in push race; restored by hand.
