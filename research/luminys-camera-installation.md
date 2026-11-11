@@ -347,3 +347,88 @@ My search tool couldn't reach Google People Also Ask, People Also Search For, An
 - What should I look for when hiring a security camera installer in Brooklyn? — Brooklyn installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
 - How much does apartment building camera installation cost in Brooklyn? — Brooklyn installer FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
 - Best CC
+
+## Staten Island, Staten Island — /luminys-camera-installation-staten-island (factory research, 2026-11-11)
+
+**Brand and regulation (this changes how a Luminys install is sold and done)**
+- Luminys is the former Dahua USA. Dahua Technology USA was a fully owned subsidiary of Zhejiang Dahua Technology Company, Ltd. until approximately January 2024, when Dahua Technology USA was divested to Foxlink. — https://docs.fcc.gov/public/attachments/DA-25-128A1.txt
+- Built for integrators, Luminys offers NDAA-compliant cameras, software, and kits that are easy to purchase and install. It is mainly sold through distributors: "Shop Luminys cameras and video surveillance products for security installers." — https://www.adiglobaldistribution.us/catalog/featured-brands/luminys ; https://www.adiglobaldistribution.pr/Catalog/shop-brands/luminys
+- FCC history: in February 2025, the FCC issued an Order to Show Cause directing Luminys to explain why the Commission should not revoke equipment authorizations for certain products — https://www.securityinfowatch.com/video-surveillance/article/55352834/fcc-clears-luminys-equipment-ends-national-security-review
+- How it ended: In an order released January 20, the FCC withdrew its prior action setting aside Luminys's equipment authorizations and terminated the proceeding, citing the dissolution of Dahua USA and Luminys's confirmation that it has stopped selling Dahua-branded equipment in the U.S. — same URL
+- A separate rule still pending could affect other brands: one proceeding would revoke FCC device authorization for equipment authorized before rules implementing the Secure Equipment Act of 2021 took effect, potentially rendering all products from Covered List entities unlawful to import, market or sell. It explicitly would not affect continued use or operation of already-purchased communications equipment. — https://www.securityinfowatch.com/government/news/55375002/fcc-targets-covered-list-firms-in-telecom-authorization-overhaul
+- Installer forum view of the hardware: "since Luminys is the same Dahua hardware, is there a big difference between the two?" Another thread says that now that ADI can no longer supply dahua the installer switched to Luminys. — https://ipcamtalk.com/threads/dahua-hikvision-and-other-non-ndaa-brands-are-no-longer-sold-in-the-usa.84997/
+- Dahua warranties carry over: Luminys Systems Corporation will honor all existing Dahua Technology USA commitments, including warranties and service agreements. This matters for Staten Island owners with existing Dahua systems. — https://ipcamtalk.com/threads/dahua-na-is-no-more.76320/
+- Possible replacement market on the South Shore: in a 2021 census of Hikvision cameras, 10312- 306 cameras - South Shore, Staten Island ranked among the city's most-surveilled ZIP codes. — https://www.stopspying.org/2021-hikvision
+- Recording options include a hybrid unit for analog-to-IP upgrades: Hybrid DVR X5 Series, 8MP, 16-CH, 1.5U, 2 SATA, Analytics by Recorder, 16 Analog + 16 IP or 32 IP — https://shop.ssandsi.com/luminys/
+- Mounting for older wiring: Luminys LUM-AC09 Security Camera Installation Plate for Gang Box — https://www.adiglobaldistribution.us/catalog/shop-brands/luminys
+- Mobile/VMS app: The app is free with no internal purchases or ads. — https://apps.apple.com/hn/app/lumicenter/id6673905739
+- License plate (LPR) cameras for driveways and lots: it is recommended to install the camera at a height of 1.2 m (3.9 ft). The lane width should not exceed 3.5 m (11.5 ft). — https://wiki.luminyscorp.com/Cameras/LPR_Physical_Installation_Guide
+
+**Licensing and permits (NYS / NYC DOB)**
+- No person shall engage in the business of installing, servicing or maintaining security or fire alarm systems or hold himself out as being able so to do unless he is licensed therefor (GBL Art. 6-D) — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- Gray area: DOS says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. Owners are also exempt: Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf ; https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- Conflicting claim from a vendor: In New York City, no one can install a burglar alarm, video surveillance, or electronic access control system without a state license. — https://www.jvsg.com/security-camera-installer-license/
+- New NYC low-voltage rule: Local Law 128 of 2024 took effect on 21 December 2025 alongside the 2025 New York City Electrical Code, adding Administrative Code §28-105.4.7, under which an electrical permit is not required for low-voltage work under 50 volts — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-manhattan
+- That exemption only applies provided the work is performed by a licensed master electrician, a special electrician, or a qualified person as the electrical code defines that term. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- Conflicting claim (not verified against DOB): NYC work additionally requires a DOB Master or Special Electrician. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf
+- Line-voltage work, such as a new outlet for a PoE switch or NVR, follows DOB rules: If electrical work is performed without a permit, the owner of the building, as well as the individual who performed the illegal work, may be subject to violations, summonses, court appearances and fines. — https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- DOB permit counts and filings for cameras in Staten Island: EMPTY
+
+**LPC (landmarked buildings and historic districts)**
+- LPC Rules §2-20 covers objects required by another agency or an entity similar to a utility, or commonly used for security measures, such as lighting, security cameras and intercom panels. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- The proposed rules would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative or the location is mandated by an agency or entity. The equipment must be as small as possible, its visibility is minimized by, for example, installing it behind an areaway wall or fence, under a stoop, or behind plantings. — same URL
+- LPC Permit Guidebook Chapter 11.7, "Installing Security Cameras": staff can approve cameras that meet the criteria, and the guidebook shows dome cameras finished to match the facade. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Which Staten Island historic districts or landmarks have had LPC camera permits: EMPTY
+
+**Building types and wiring situations named in sources**
+- Co-ops and condos: one local installer says "We provide board-ready documentation including installation plans, equipment specs, and wiring diagrams. We coordinate with building management and supers for access to common areas and infrastructure." — https://abstractenterprisessecuritysystems.com/camera-installation-staten-island
+- Mixed-use buildings: For mixed use buildings in Staten Island, clean cable routes, labeled panels, and role based permissions keep day to day operation simple and reliable. — https://city-smart.net/new-york-city/staten-island/
+- Larger homes and masonry: one vendor says a wired backbone is Required for any Staten Island property over 1,500 sq ft or with thick masonry walls. The same vendor says Most Staten Island installs land between $295 and $3,795 all-in. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-staten-island
+- Townhouses: Bilco Electric and Datacom specializes in clean wiring and home automation, offering security camera installation, network cabling, and smart home solutions for townhouses. — https://www.yelp.com/questions/loc/staten-island-ny/security-camera-installation-services
+- Rental units: Interior cameras should never be positioned to view inside a tenant's unit — https://senecasecurity.com/services/security-cameras/brownstones/
+- HPD violations and 311 complaints about cameras in Staten Island: EMPTY
+
+**Local programs and news**
+- Ring partnership: Staten Island's Borough President, the DA and the NYPD announced a partnership that will allow Staten Islanders to anonymously upload home security videos, photos, and tips directly to the police through the Ring App. — https://www.statenislandusa.com/news/january-10th-2023
+- The Staten Island District Attorney's office has been awarded $100,000 from New York state for crime-fighting video surveillance equipment — https://www.nysenate.gov/newsroom/in-the-news/2024/jessica-scarcella-spanton/staten-island-da-receives-100k-grant-cameras
+- Midland Avenue: a homeowner noticed on a doorbell camera that a man about to burglarize his house on Midland Avenue. — https://www.nbcnewyork.com/news/local/crime-and-courts/staten-island-homeowner-sees-burglar-on-doorbell-cam-races-home-to-catch-him-in-act/4398872/
+- Westerleigh: Surveillance video from a home in Westerleigh, Staten Island showed two people sneaking around cars parked in a driveway in the middle of a snowstorm. — https://newyork.cbslocal.com/2016/12/19/staten-island-car-break-ins
+- Mariners Harbor: Surveillance footage shows an unidentified person approaching several parked cars in Mariners Harbor. — https://www.youtube.com/watch?v=YffRPTGaHRw
+- Corridors a vendor targets: George & Hylan Boulevard, Staten Island and Tottenville & New Dorp, Staten Island — https://www.abstractenterprisessecuritysystems.com/
+- Local installer: 40 Stobe Avenue, Staten Island, NY, US 10306 (Statewide Security & Surveillance) — https://swiftlane.com/cctv-camera-installation/ny/new-york/
+- Staten Island installers listed or advertising as authorized Luminys dealers: EMPTY
+- Reddit threads (r/StatenIsland) about Luminys or camera installers: EMPTY
+
+**Yelp praise and complaints (similar services nearby)**
+- Praise: "is the only one that took us seriously (We are talking about 12 security cameras installation)." (Richmond Camera) — https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Staten+Island,+NY
+- Praise for clean work: no wires hanging outside of your home and the quality of the cameras were unbelievable. — https://www.yelp.com/biz/staten-island-security-cameras-staten-island
+- Praise for help with complex systems: "I recently bought a new camera system that is so much more complicated than the WiFi ones" — https://www.yelp.com/search?find_desc=Home+Security&find_loc=Staten+Island,+NY
+- Complaint: Apco Security Systems, rated 1.0, "Horrible customer service." Also Vivint Vivint 1.6 (7 reviews) Serving Staten Island — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=New+Dorp+Beach%2C+Staten+Island%2C+NY
+- Thumbtack complaint about a past install: the installation was really sloppy and poorly done. — https://www.thumbtack.com/ny/staten-island/security-camera-install
+
+### Questions people ask — Luminys Camera Installation in Staten Island
+*I couldn't see Google People Also Ask, People Also Search For, Bing, DuckDuckGo or AnswerThePublic results with my search tool, so those fields are EMPTY. The questions below come from pages I actually found. Questions taken from vendor FAQs are marked as such.*
+
+- PAA (Google): EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Bing-only / DuckDuckGo-only questions: EMPTY
+- Do you still offer products manufactured by Dahua Technology? — Luminys's own FAQ, quoted by the FCC — https://docs.fcc.gov/public/attachments/DA-25-128A1.txt
+- Will Luminys products be NDAA compliant? — Luminys FAQ, via FCC — same URL
+- Will Luminys products comply with FCC regulations? — Luminys FAQ, via FCC — https://docs.fcc.gov/public/attachments/DA-25-128A1.txt
+- Luminys vs EmpireTech? / Is there a big difference, since it's the same Dahua hardware? — installer forum (IPCamTalk, not Reddit) — https://ipcamtalk.com/threads/dahua-hikvision-and-other-non-ndaa-brands-are-no-longer-sold-in-the-usa.84997/
+- Where can I find the best Security Camera Installation Services in Staten Island, NY? — Yelp — https://www.yelp.com/questions/loc/staten-island-ny/security-camera-installation-services
+- Who can coordinate carpentry and electrical work and make sure everything is networked correctly? — Yelp — same URL
+- Who can install security cameras? — Thumbtack — https://www.thumbtack.com/ny/staten-island/security-camera-install
+- Can I install a security system by myself? — vendor FAQ (hometheaterreview) — https://hometheaterreview.com/home-security-systems/home-security-system-staten-island-ny/
+- What is the best home security system in Staten Island? — vendor FAQ — same URL
+- Can you install cameras at my Staten Island home? — vendor FAQ — https://abstractenterprisessecuritysystems.com/camera-installation-staten-island
+- Do you offer security camera repair on Staten Island? — vendor FAQ — same URL
+- How long do Staten Island wireless camera batteries last? — vendor page that says it collected this "from Reddit & local forums" (I couldn't find the original thread) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-staten-island
+- How long does a wireless install take in Staten Island? — same vendor claim, unverified — same URL
+- Do I need LPC approval to install cameras on my brownstone? — vendor FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Does low-voltage cabling in NYC require a permit? — vendor FAQ — https://security-systems.nyc/blog/structured-data-cabling-nyc/
+- Do I need a DOB permit for low voltage work? — vendor FAQ (Manhattan version) — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-manhattan
+- Do I need a licensed electrician for data cabling? — vendor FAQ (Bronx version) — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- What is a passive or "non-detecting" security device? (Does a camera need an alarm-installer license?) — Mike Holt forum — https://forums.mikeholt.com/threads/nys-smoke-detector-law.93948/post-93948
+- Reddit (r/StatenIsland, r/AskNYC, r/homesecurity, r/longisland): EMPTY

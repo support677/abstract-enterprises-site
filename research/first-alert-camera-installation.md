@@ -281,3 +281,90 @@ Real questions found on pages:
 Yelp praise and complaints (similar services nearby):
 - Praise: The installation was clean, the wiring was neatly concealed, and the system works flawlessly. — https://www.yelp.com/search?find_desc=Security+Systems&find_loc=Poughkeepsie%2C+NY
 - Complaint signal: Vector Security is rated 1.8 (11 reviews) on one listing. Another reviewer said they have had nothing but trouble with a bigger competitor — https://www.yelp.com/search?find_desc=Security+Monitoring+Services&find_loc=Poughkeepsie,+NY
+
+## Brooklyn, Brooklyn — /first-alert-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Before you use this:** I couldn't fill every part of the research table. My search tool doesn't show Google's People Also Ask boxes, related searches, AnswerThePublic, Bing or DuckDuckGo results, and no Reddit threads came up. Those rows are marked EMPTY below. No HPD, 311 or DOB permit data came up either. Search results labeled "Reddit, Brick Underground & Brownstoner" questions were really one installer's own FAQ. I've kept them separate from the real questions, as you asked.
+
+**What "First Alert camera" means here (product facts that shape the install)**
+- First Alert cameras are a Resideo product line. First Alert is the retail brand of BRK Brands, Inc., and its parent is Resideo. — https://en.wikipedia.org/wiki/First_Alert
+- They're sold through dealers, not stores: the First Alert Video Doorbell and Outdoor Camera are available in North America through professional security dealers — https://www.resideo.com/us/en/corporate/newsroom/all-articles/Resideo-Launches-First-Alert-VX3-Outdoor-Camera/
+- The lineup: the VX Series includes an indoor camera, an outdoor camera, and a video doorbell. — https://www.alarmgrid.com/blog/a-closer-look-at-resideo-s-first-alert-vx-camera-series
+- The outdoor camera integrates with Resideo's ProSeries Security Platform for on-screen video streaming and has seven and 30-day video clip storage options. — https://www.resideo.com/us/en/corporate/newsroom/all-articles/Resideo-Launches-First-Alert-VX3-Outdoor-Camera/
+- Wiring matters for brick buildings: the VX3 can be powered by a 12VDC transformer, or PoE. — https://www.alarmgrid.com/blog/meet-the-all-new-first-alert-vx3-hd-outdoor-camera
+- A subscription is required. A monthly storage plan and Total Connect Service is required for the First Alert VX Series doorbell and camera. — https://advancedsecurityllc.com/shop/security-products-2/video-cameras/first-alert-camwe-wo-vx3-2mp-hd-outdoor-camera/
+- Prices: one retailer lists the VX3 at List Price: $308.00 … Our Price: $200.99 — https://www.alarmgrid.com/products/first-alert-camwe-wo
+- Plans start around $5/month for a single doorbell with 30-day storage — https://www.alarmclub.com/first-alert-1-vx-series-video-doorbell-camera-services-with-30-days-storage.html
+- Camera limits per plan differ by source. One Alarm Grid page says each video plan allows up to four (4) VX-Series cameras per package — https://www.alarmgrid.com/products/first-alert-camwe-wo. Another Alarm Grid page says each video plan allows up to eight (8) cameras. — https://www.alarmgrid.com/blog/a-closer-look-at-resideo-s-first-alert-vx-camera-series
+- One Brooklyn installer lists First Alert gear in its range: First Alert Bullet Camera, 2.8mm Fixed Lens … First Alert- Turret Camera, 2.8mm Fixed Lens — https://www.roloelectronics.com/brooklyn-ny-security-systems
+
+**Name collision (affects SEO and copy)**
+- A separate Brooklyn business is called "First Alert Security Service," at (718) 922-0214 … 2174 Fulton St Brooklyn, NY 11233 — https://www.yelp.com/biz/first-alert-security-service-brooklyn
+
+**Licensing**
+- NYC's business portal says you need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://ar.nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- The training requirement is four 15-hour modules and one 21 hour module — https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- Owners are exempt: if a purchaser or owner personally installs the alarm system… a license is not required. — https://dos.ny.gov/fire-alarm-installer
+
+**LPC / landmark rules**
+- LPC's 2018 rules added criteria for health, safety and utility equipment, such as fire alarm bells and Siamese connections, security cameras, lighting — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- A 2025 LPC case shows what an approval can look like: three new security cameras with concealed conduit whose housing will be finished to match adjacent brick — https://cbmanhattan.cityofnewyork.us/cb4/wp-content/uploads/sites/10/2025/09/55-CLU-Letter-to-LPC-re-521-537-West-25th-Street.pdf
+- One installer says installs in landmark districts like Brooklyn Heights, Park Slope and Carroll Gardens require LPC approval if visible from a public street. — https://www.roloelectronics.com/brooklyn-ny-security-systems
+
+**Building types and wiring**
+- Brownstone method described by an installer: mount into mortar joints rather than the brick face, fish cable through masonry, plaster, basements, and risers — https://www.abstractenterprisessecuritysystems.com/residential-security-camera-installation-nyc
+- Wi-Fi is weak in brick buildings: brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal. This makes the VX3's PoE option worth highlighting. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Co-ops and condos: most Brooklyn co-op/condo proprietary leases require licensed, insured contractors with a COI naming the building (installer's claim) — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Labor price from one installer: $295–$395 for the labor for a single camera on a brownstone stoop — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+
+**Renters and common areas**
+- Brick Underground: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Inside the unit, one source says tenants can install cameras inside their own apartment without landlord permission. The same page also mentions a "Local Law 50" posting requirement, which I couldn't verify. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Unverified claim, check before using: one site says recent amendments to the Real Property Law now require landlords to permit tenants to install cameras — https://getsafeandsound.com/blog/security-camera-laws-in-new-york/
+
+**NYPD and city programs**
+- Any business with a security camera can share live video feeds with the NYPD during emergencies. Locations can be registered at NewYorkCityConnect.org. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- Public housing: a participatory-budgeting idea for Gowanus Houses proposes cameras in elevators and near apartment doors to monitor activity and prevent trespassing — https://www.participate.nyc.gov/processes/Citywidepb2025/f/69/proposals/22697
+
+**Local news (package theft)**
+- Crown Heights: a suspect was filmed strolling up the steps of a home near Montgomery Street and New York Avenues — https://cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video
+- Bedford-Stuyvesant: surveillance footage caught the two suspects watching Fed Ex delivery men drop off packages — https://cbsnews.com/newyork/news/packages-stolen-brooklyn-apartment
+- Williamsburg: a package theft in a building near Broadway and Hooper streets — https://www.cbsnews.com/amp/newyork/news/apartment-building-package-thief
+
+**City data**
+- HPD violations: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY
+
+### Questions people ask — First Alert Camera Installation in Brooklyn
+
+**Real questions from real people**
+- "Can I install a security camera in the hallway for safety?" — Brick Underground reader question, not one of your listed sources — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- "Am I legally permitted to place a camera outside my front door" (Brooklyn apartment tenant) — JustAnswer, not one of your listed sources — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+
+**Questions from installer and publisher FAQs (not search-engine data, use as filler only)**
+- Can you install cameras on a Brooklyn brownstone without damage? — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Do you offer renter-friendly camera installs in Brooklyn? — same URL
+- Can I install a security camera in a landmark building in Brooklyn? — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Do I need permits to install security cameras on my Brooklyn property? — https://www.myshyft.com/blog/security-camera-installation-services-brooklyn-new-york/
+- Do I need permission before installing a security camera in NYC? / Can my landlord install security cameras in my building? — https://linkedsecurityny.com/blog/diy-vs-professional-security-camera-installation-nyc/
+- Do you need a license to install security cameras in New York? — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Can I install a Ring doorbell in my NYC apartment building? — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- How much does apartment building camera installation cost in Brooklyn? — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Can you install security cameras in a NYC co-op or condo building? — https://www.abstractenterprisessecuritysystems.com/
+- Can I add more cameras to my existing NVR later? — https://www.abstractenterprisessecuritysystems.com/nvr-installation-brooklyn
+- Should I hire a professional for security camera installation in Brooklyn? — https://security-systems.nyc/blog/brooklyn-apartment-security-cameras/
+
+**Requested sources I couldn't reach**
+- Google PAA: EMPTY
+- Google PASF / related searches: EMPTY. The closest thing is Yelp's "Related Searches" on the First Alert Security Service page, such as "Expert CCTV Security Camera Installation in Brooklyn, New York" and "Find Reliable Home Security Camera Installation in Brooklyn, New York" — https://www.yelp.com/biz/first-alert-security-service-brooklyn
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY
+
+**Yelp (similar services nearby)**
+- Praise: "service, quick work and fair prices." (Falcon Locksmith) — https://www.yelp.com/search?find_desc=Cctv+Security+Camera+Installation&find_loc=Brooklyn,+NY
+- Praise: "Needed help updating my current camera system, and Eddie was amazing." (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn,+NY+11204
+- Possible complaint, only a fragment is visible: "Thank god we didn't ask him to install our security cameras." (Fast Tech Pros listing) — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=New+York%2C+NY
+- No Yelp reviews about First Alert cameras specifically: EMPTY

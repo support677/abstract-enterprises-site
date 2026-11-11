@@ -530,3 +530,264 @@ I couldn't capture Google's People Also Ask or People Also Search For boxes, Bin
 - Bing / DuckDuckGo-only questions: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## NYC hub, NYC — /mag-lock-installation-nyc (factory research, 2026-11-11)
+
+**Before you use this:** "NYC hub" doesn't match any real NYC neighborhood I could find. It looks like a template placeholder that was never filled in. So every finding below is citywide (NYC). Swap in the real neighborhood and rerun the block-level and business searches. Also, my search tool can't load live Google, Bing or DuckDuckGo result pages. That means I couldn't see actual People Also Ask boxes, related searches or AnswerThePublic data, and those are marked EMPTY below. I didn't relabel other questions as PAA.
+
+**Code and egress rules (DOB/FDNY)**
+- In the 2022 NYC Building Code, §1010.1.9.9 says that where panic or fire exit hardware is required, operation of the panic or fire exit hardware also releases the electromagnetic lock — https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/10/means-of-egress
+- Sensor-release doors (§1010.1.9.8): Activation of the building fire alarm system, where provided, shall automatically unlock the doors, and the doors shall remain unlocked until the fire alarm system has been reset. — same URL
+- Under the 2014 code, mag locks on egress doors were allowed in Group A, B, E, M, R-1 or R-2 occupancies if fitted with listed hardware that has a built-in switch — https://up.codes/viewer/new_york_city/nyc-building-code-2014/chapter/10/means-of-egress
+- **Sources disagree on fire-alarm tie-in.** A hardware expert's reading of the 2014 NYC code is that the section covering mag locks released by a switch in the door hardware does not require the lock to be released by the fire alarm system, while sensor-released ones do — https://idighardware.com/2014/07/nyc-code-update/. Several NYC installer blogs say every egress mag lock must be hardwired to the fire alarm. One of them cites "§27-371", which is a section of the old pre-2008 code — https://vertexsecurity.com/our-blog/nyc-building-access-control-compliance/. Check which applies for your occupancy before the page makes any claim.
+- Installer blogs describe a "Rule of Three": a motion sensor for automatic exit, a "Push to Exit" button as a backup, and integration with your building's fire alarm — https://www.365securitysolution.com/magnetic-lock-installation-ny.html
+- Violations one installer says it sees often: Painters often spray over the Request-to-Exit motion sensors, rendering them blind. Another is battery backup on mag locks with no fire tie-in, which keeps the door locked when power fails — https://www.streamlinetelecom.com/access-control-compliance-nyc
+- The FDNY lists Blocked or locked exit doors during business hours as an Immediate Hazard (Code 1) violation — https://violationwatch.nyc/2025/12/08/fdny-violation-codes-nyc/
+- One installer says Delayed egress locking systems—which hold a door locked for 15 to 30 seconds after an occupant presses the push bar—are heavily restricted in Manhattan. — https://alolocksmithmanhattan.com/a-guide-to-nyc-fire-department-codes-for-commercial-door-hardware/
+- Fire-rated doors: Most mag lock designs would not meet current fire codes as the primary means of securing a fire listed door to a frame. — https://en.wikipedia.org/wiki/Electronic_lock
+- Roof doors in residential buildings: Under NYC Building Code regulations, a roof door may not be locked – temporarily or permanently. — https://a860-gpp.nyc.gov/downloads/xd07gt402?locale=en
+
+**Local news**
+- The FDNY issued dozens of violations against seven PureGym locations because the exit doors on their entry pods needed an electronic device to open. It also said it's a violation for customers to need "special knowledge" such as the app or QR codes to exit (CBS, Jan 2026) — https://www.cbsnews.com/news/puregym-entry-exit-pods-flagged-fdny-safety-concerns/
+
+**DOB permits and licensing**
+- Admin Code §28-105.4.7: no electrical permit is needed for wiring under 50 V for signaling, communication, alarm and data circuits, as long as it's performed by a licensed master electrician, special electrician, or qualified person — https://up.codes/s/low-voltage-electrical-work
+- But wiring that connects to life safety systems shall only be performed by a licensed master electrician or special electrician. That matters for any mag lock tied into the fire alarm — same URL
+- Local Law 128 of 2024 took effect on 21 December 2025 with the 2025 New York City Electrical Code, which added that exemption — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+- New York State: Burglar/fire alarm/CCTV/access control require an Article 6-D license. — https://contractorlicenserequirements.com/assets/new-york-low-voltage-roadmap-2026.pdf
+- One source (not confirmed elsewhere) says Fire alarm integration requires a fire alarm permit and must be performed by an installer holding a Certificate of Fitness S-12. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Unpermitted electrical work: the owner of the building, as well as the individual who performed the illegal work, may be subject to violations, summonses, court appearances and fines. — https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+
+**HPD, 311 and multiple dwellings**
+- Under 1 RCNY §42-01, the building's intercom must include a return buzzer mechanism to release or open the lock to the aforesaid required door. — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- MDL §50-a: every Class A multiple dwelling erected or converted after January 1, 1968 that contains eight or more apartments must have an intercom at its self-locking main entrance door — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- HPD's tenant guide says HPD will always inspect for the following ten safety issues: • Door locks that require a key to exit. — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/abcs-housing-tenant.pdf
+- Real HPDOnline record: a Class B violation dated 05/19/2026 orders the owner to properly repair or replace the broken or defective bell buzzer intercom system from the building entrance door — https://hpdonline.nyc.gov/hpdonline/building/989851/violations
+- Legal Services NYC lists No lock on entrance door to building as a Class C ("immediately hazardous") violation — https://www.lawhelpny.org/resource/hpd-violations-checklist
+- HPD inspection and enforcement for intercoms is triggered by routine building reviews or tenant complaints via 311 — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- Rent-stabilized buildings: the NY Attorney General's office says Changing a door-locking device constitutes a change to a required service when it impacts access to the building or security. The case involved key-fob entry added at 132-40 Sanford Ave, Flushing — https://ag.ny.gov/sites/default/files/fully_executed_assurance_of_discontinuance_20.071_sw_security.pdf
+- NYCHA: auditors found door and frame magnets intended to assist in securing the doors were missing or did not work, and 40.1% of entrance door locks were broken (2022) — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+
+**LPC (landmarks and historic districts)**
+- An installer says Interior access control components (electric strike, mag lock, card reader) typically do not require Landmarks Preservation Commission approval. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nyc
+- On the other side, another source says landmarked buildings require Landmarks Preservation Commission approval before any exterior modifications, including intercom panel replacement or new hardware at building entrances. — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- LPC's storefront guidebook lists "Replacing storefront door hardware" as an item. The text I could see is too fragmentary to tell whether it needs a permit, so check the PDF directly — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter3_Storefronts.pdf
+
+**Building and door types that change the job**
+- Pre-war buildings: In pre-war NYC buildings with uneven frames or non-standard door sizes, mag locks often present fewer carpentry headaches. — https://senecasecurity.com/glossary/electric-strike-vs-magnetic-lock/
+- Glass storefront and lobby doors: Maglocks are common on glass doors and on doors where a strike can't be cut into the frame. — https://metrolocallocksmith.com/maglock-electric-strike-installation-nyc/
+- Frameless glass can be done with no drilling: the lock is slid onto the top of the glass and secured with high-strength adhesive and set screws — https://www.365securitysolution.com/magnetic-lock-installation-ny.html
+- Buzzer failures: the buzzer sounds, the door stays shut is the complaint one installer hears most, and it usually points to the release path (the strike or mag lock) — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+- Managed Manhattan buildings expect a certificate of insurance first, booked freight elevators, and after-hours work where the building requires it — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-manhattan
+
+**Costs (all from vendors, so treat as rough)**
+- Magnetic Lock replacement: starting price – 685$ and up — https://www.locksmith4nyc.com/price-list/
+- maglocks trend higher from $600 to $1,200 all-in because of mounting, brackets, and power requirements — https://nyhls.com/blog/access-control-cost
+- Electrified lock (strike or mag lock): $350–$900. A fully installed NYC access control system runs between $1,500 and $4,500 per door — https://vertexsecurity.com/our-blog/access-control-costs-nyc/
+- Also: biometrics, elevators, and landmark constraints push numbers higher — https://nyhls.com/blog/access-control-cost
+
+**Local businesses (competitors)**
+- Metro Local Locksmith (mag locks and strikes, Bronx photos) — https://metrolocallocksmith.com/maglock-electric-strike-installation-nyc/
+- Paragon Security, all five boroughs. Case study: four Seco-Larm magnetic locks plus Von Duprin strikes — https://www.paragonsecurityny.com/locksmith-services/locks/magnetic-locks/
+- Sunny Locksmith has neighborhood mag lock pages for SoHo, Tribeca, Harlem, Bushwick, Astoria and others — https://sunnylocksmithny.com/maglock-system-installation/
+- Fast Locksmith (501 E 87th St) has a Yelp photo labeled Magnetic lock new installation. — https://www.yelp.com/biz/fast-locksmith-new-york-3
+
+**Not found**
+- Mag-lock-specific 311 complaint counts: EMPTY
+- DOB permit counts for mag lock jobs: EMPTY
+- Block-level hotspots: EMPTY
+- Reddit threads (r/AskNYC, r/NYC, r/homesecurity, r/longisland): EMPTY. My searches turned up no direct thread URLs.
+- Yelp reviews specifically praising or complaining about mag lock jobs: EMPTY. The only nearby complaint I found was a general lock-install pricing complaint on HomeAdvisor (Island Park, Long Island): They literally wanted to charge me 400 dollars for a lock that's at Home Depot for 40 dollars to install. — https://www.homeadvisor.com/tloc/Island-Park-NY/Locksmith/
+
+### Questions people ask — Mag Lock Installation in NYC hub
+
+None of these come from search-engine features I could see directly. "Page FAQ" means the question appears in an FAQ on that page, and "Blog comment" means a reader asked it in a comment.
+
+- Are magnetic locks legal in NYC? — Page FAQ — https://www.365securitysolution.com/magnetic-lock-installation-ny.html
+- Can you install a magnetic lock on a frameless glass door? — Page FAQ — https://www.365securitysolution.com/magnetic-lock-installation-ny.html
+- In NYC, do all doors with magnetic locks have to be tied into the building's fire alarm system? — Blog comment — https://idighardware.com/2014/07/nyc-code-update/
+- What are the main life-safety requirements for magnetic locks under NYC code? — Page FAQ — https://vertexsecurity.com/our-blog/nyc-building-access-control-compliance/
+- Does an electromagnetic lock on a NYC commercial door need to fail safe? — Page FAQ — https://imperial-locksmith.com/blog/fire-egress-lock-rules-nyc-commercial-building-8473
+- How much does commercial access control cost per door in NYC? — Page FAQ — https://vertexsecurity.com/our-blog/access-control-costs-nyc/
+- Does low voltage work require a DOB permit in New York City? — Page FAQ — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+- Is the NYC low voltage installer certification for the company or the person? — Page FAQ — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-manhattan
+- Is a maglock better than an electric strike? — Page FAQ — https://www.americanlocksets.com/electric-strike-vs-magnetic-lock
+- Can you use an electric strike on a glass door? — Page FAQ — https://www.americanlocksets.com/electric-strike-vs-magnetic-lock
+- Which is more secure, a magnetic lock or an electric strike? — Page FAQ — https://senecasecurity.com/glossary/electric-strike-vs-magnetic-lock/
+- Can I put a magnetic lock on a glass storefront door? — Page FAQ — https://discount-locksmith-albuquerque.com/electric-strikes-vs-magnetic-locks/ (not an NYC page)
+- Is my landlord or co-op board required to fix the buzzer in NYC? — Page FAQ — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-nyc
+- How much does it really cost to fix a broken buzzer in a Brooklyn walk-up? — The installer says it collected this from Reddit and Brick Underground; I couldn't confirm the original thread — https://www.abstractenterprisessecuritysystems.com/intercom-repair-nyc
+- Is a broken intercom an HPD violation? — Page FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Do I need a permit to install an automatic door in New York? — Page FAQ — https://doorautomation.com/what-is-involved-in-automatic-door-installation/
+- Google PAA — EMPTY
+- Google People Also Search For / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing-only questions — EMPTY
+- DuckDuckGo-only questions — EMPTY
+- Reddit — EMPTY
+- Yelp questions — EMPTY
+
+To fill the EMPTY rows, run "mag lock installation NYC" in an incognito browser and copy the PAA and related-search boxes by hand, or pull them with a SERP tool.
+
+## Hudson Valley hub, Hudson Valley — /mag-lock-installation-hudson-valley (factory research, 2026-11-11)
+
+**Notes on scope**
+- "Hudson Valley hub" doesn't match any official place name I could find, so the findings below cover Hudson Valley cities that came up: Kingston, Poughkeepsie, Newburgh and Hudson. — (no source)
+- HPD violations, 311 complaints, DOB permits and LPC rules: EMPTY. These are New York City agencies and datasets, and none of them cover the Hudson Valley. The closest local version of LPC is Kingston's Historic Landmarks Preservation Commission (see below). — (no source)
+
+**Code and licensing that changes how the work is done (applies statewide, including the Hudson Valley)**
+- The 2025 Fire Code of New York State says it is unlawful to alter a building in a manner that will reduce the number of exits or the minimum width or capacity of the means of egress. — https://up.codes/viewer/new_york/ifc-2024/chapter/10/means-of-egress
+- NYS Fire Code: where panic or fire exit hardware is required, operation of that hardware also releases the electromagnetic lock. Also, security devices affecting means of egress are subject to approval of the fire code official. — https://up.codes/viewer/new_york/ifc-2015/chapter/10/means-of-egress
+- Building Code of NYS 2025, delayed egress: permitted only in buildings equipped throughout with an automatic sprinkler system or an approved automatic smoke or heat detection system. An attempt to exit must start an irreversible process that allows egress within 15 seconds when force is applied to the hardware for no more than 3 seconds. The delay must also deactivate upon loss of power to the electrical locking system. — https://up.codes/viewer/new_york/ibc-2024/chapter/10/means-of-egress
+- Under the 2025 code, emergency lighting shall be provided on the egress side of the door for delayed egress doors. — https://up.codes/viewer/new_york/ifc-2024/chapter/10/means-of-egress
+- Licensing: NY General Business Law Article 6-D covers anyone who offers or undertakes to install, service or maintain a security or fire alarm system to detect intrusion, break-in, movement, sound or fire. — https://www.nysenate.gov/legislation/laws/GBS/69-L
+- License exemption cited from 19 NYCRR §195.2: no license is needed for a single-door, card-access entry system that does not detect and/or provide notification of intrusion, break-in, theft, movement, sound, or fire. A full system that reports violations or sounds alarms falls under the NYS license law. (This source is from 2016.) — https://www.kirschenbaumesq.com/article/-locksmith-license-or-alarm-license-are-there-new-ach-or-cc-authorization-forms-november-22-2016
+- A master electrician does not need to be licensed as a security and fire alarm installer but must be registered with the Secretary of State. And no local law shall require any fee or license for the installation of security or fire alarm systems beyond Article 6-D. — https://www.kirschenbaumesq.com/article/business-of-installing-servicing-or-maintaining-security-or-fire-alarm-systems-new-yorks-license-law
+- Approximate license costs: initial after examination $185; renewal $100; written exam $15; fingerprinting $88.50. — https://vortechpro.com/blog/security-alarm-installer-license-requirements-by-state/
+- Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+
+**Historic districts (the local version of LPC)**
+- Kingston's HLPC confers landmark status on significant properties and districts and reviews alterations to landmarks after designation. Its decisions are based on the Secretary of Interior's Standards for the Treatment of Historic Properties, NPS Technical Preservation Briefs, and New York's SHPO. — https://www.kingston-ny.gov/content/8399/8491/8499/default.aspx
+- A contractor (not an official source) says any exterior change visible from the public right-of-way requires a Certificate of Appropriateness from Kingston's HLPC before a building permit issues. — https://timberdesignbuild.com/service-areas/ulster-county/kingston
+- Kingston ordinance: a Certificate of Appropriateness shall be valid for one year. — https://kingston-ny.gov/filestorage/8399/10476/11808/11810/Resolution_156_of_2024.pdf
+- One HLPC approval (March 2025) included the condition that the owner must retain in storage the original door and frame. — https://kingston-ny.gov/filestorage/8399/10476/16128/16481/63967/2025.3.6_hlpc_minutes_(2).pdf
+- A competitor's Ulster County page pitches concealed magnetic lock mounts inside frames for Kingston Stockade buildings and SALTO for wireless locks in Kingston's historic buildings. — https://abstractenterprisessecuritysystems.com/access-control-installation-ulster-county
+
+**Building types and entry situations**
+- Poughkeepsie apartments, per a competitor (unverified): the City of Poughkeepsie has the county's densest apartment building stock and highest property crime rate. The same page recommends ButterflyMX combining video intercom with building-wide fob access as a buzzer system replacement. — https://abstractenterprisessecuritysystems.com/access-control-installation-dutchess-county
+- Schools, from local news: at a Hudson Valley school with tightened security, classroom doors lock automatically when shut and must be opened from the inside unless the user has a key. In Kingston schools, magnetic unlocking bases at entrances are used for Yondr phone pouches, not door locks. — https://hudsonvalleyone.com/2024/09/24/school-officials-parents-and-students-discuss-added-security-measures/
+- Hardware tips from Wikipedia: magnetic lock cables and wires should be routed through the door frame or flush mount with wire moulding. Also, most mag lock designs would not meet current fire codes as the primary means of securing a fire listed door to a frame. — https://en.wikipedia.org/wiki/Electromagnetic_lock ; https://en.wikipedia.org/wiki/Electronic_lock
+- From a UK supplier guide: if the door or frame warps over time, the maglock can cease to function. This matters for older wood doors. — https://uk.rs-online.com/web/content/discovery/ideas-and-advice/guide-to-magnetic-door-locks
+
+**Local businesses doing this work (competitors)**
+- Mya Locksmith in Poughkeepsie advertises repair, replacement or new installation of magnetic locks using Schlage, Securitron, Locknetics. Addresses listed: 80 Montgomery St and 45 Bement Ave. — https://www.myalocksmith.net/products/locks/magnetic-locks/
+- Fail-Safe Technical Associates describes itself as a Veteran Owned Small Business doing commercial access control in Poughkeepsie and Newburgh. — https://fail-safetech.com/commercial-access-control/Poughkeepsie-NEW_YORK/
+- Mobile Locksmith of Hudson (191 Fairview Ave) lists Panic Lock Systems among its services. Mag locks are not mentioned specifically. — https://mobilelocksmithhudson.com/
+- Locksmith XPRESS covers Orange, Ulster, and Dutchess counties and includes commercial access control. — https://locksmithxpress24-7.com/
+- Abstract Enterprises lists pricing at $1,500 starting per door for a reader plus strike or mag lock. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nyc
+
+**Cost benchmarks (national, not Hudson Valley specific)**
+- 600 lb mag lock: $250-$400 installed; 1,200 lb: $350-$500 installed (South Florida installer). — https://tritonlocksmith.com/services/commercial-door-repair/magnetic-lock-installation/
+- $350-750 for the hardware and $500-$800 for labour, with permit, engineering and fire alarm costs adding $7000-$10,000 for a single door. — https://www.spottersecurity.com/blog/maglock/
+
+**Local news and Reddit**
+- Hudson Valley local news about mag lock installation specifically: EMPTY (the only related item is the Hudson Valley One school article above).
+- Reddit threads (r/HudsonValley and the others): EMPTY. My searches didn't return any Reddit threads.
+
+**Yelp**
+- On Yelp's Poughkeepsie access control results, Vector Security shows 2.1 (12 reviews). I couldn't see the review text. — https://www.yelp.com/search?find_desc=Access+Control+System+Installation&find_loc=Poughkeepsie%2C+NY
+- Tightline Smart Solutions: a NYS licensed security and low voltage integration company based in Putnam Valley, serving the Hudson Valley. — https://www.yelp.com/search?find_desc=Access+Control&find_loc=Port+Chester%2C+NY
+- Yelp complaints or praise mentioning mag locks specifically: EMPTY.
+
+### Questions people ask — Mag Lock Installation in Hudson Valley hub
+
+My search tool returns web pages, not Google's results-page panels. I couldn't record any real PAA, PASF, Bing, DuckDuckGo or AnswerThePublic data, so those are marked EMPTY. Each question below is labeled with where it actually appeared.
+
+- Google PAA — EMPTY
+- Google PASF / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing (questions not on Google) — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit — EMPTY
+- Yelp questions — EMPTY
+- "Can anyone advise if a magnetic lock system with an approved motion sensor and push button would be suitable for an external exit door?" (building had no fire alarm or sprinklers) — real user question on the Mike Holt forum, not Reddit — https://forums.mikeholt.com/threads/magnetic-lock-use-on-fire-exit.2557189/post-2622147
+- "Is there really any difference between a fire exit door and any other exit door?" — Mike Holt forum reply — same URL
+- How much does it cost to install a maglock on a door? — FAQ on a vendor page — https://butterflymx.com/blog/maglock/
+- How much does a magnetic lock cost installed? — FAQ on a vendor page — https://tritonlocksmith.com/services/commercial-door-repair/magnetic-lock-installation/
+- What code requirements apply to mag locks on egress doors? — FAQ on a vendor page — https://www.cdfdistributors.com/blog/post/securitron-electromagnetic-locks-guide
+- Can magnetic locks be used on fire doors? — FAQ on a vendor page — https://govelocks.com/fire-code-compliant-locks/
+- Is an electric strike or a maglock more secure? — vendor page calls it "the most common question" — https://www.expertlocallocksmiths.com/electric-strike-versus-maglock
+- How strong are electromagnetic door locks? — FAQ, Poughkeepsie locksmith — https://www.myalocksmith.net/products/locks/magnetic-locks/
+- Can you repair an electric strike or magnetic lock? — FAQ, Westchester installer — https://www.uasecurity.com/Access-Control-Systems-Westchester-County-New-York.htm
+- Is a locksmith license required statewide in New York State? — FAQ on a vendor page — https://alolocksmithmanhattan.com/do-you-need-a-locksmith-license-in-new-york-state/
+- "Our Kingston building's fobs are being cloned." — listed as an FAQ prompt on a competitor's page, so it may not be a real customer quote — https://abstractenterprisessecuritysystems.com/access-control-installation-ulster-county
+
+## Long Island hub, Long Island — /mag-lock-installation-long-island (factory research, 2026-11-11)
+
+**Caveats before you use this:**
+- "Long Island hub" doesn't match any neighborhood or hamlet I can identify, so everything below covers Long Island (Nassau and Suffolk counties). If you meant a specific town, the local findings need re-checking.
+- HPD, NYC 311, NYC DOB and LPC are New York City agencies. They only apply to the Brooklyn and Queens part of Long Island. For Nassau and Suffolk, the matching authorities are the NYS Uniform Code, the county fire marshals, and town or village building departments.
+- HPD violations / 311 complaints / DOB permits / LPC rules data: EMPTY (not searched, and doesn't apply outside NYC).
+- My search tool shows web results only. It doesn't show Google People Also Ask, People Also Search For, Bing or DuckDuckGo panels, or AnswerThePublic data, so those are EMPTY below. The questions I did find come from FAQ sections on ranking pages and from forums.
+
+**Code and compliance (changes how the install is done)**
+- Under the 2025 NYS Fire Code, if a building has a sprinkler or fire detection system, setting it off must automatically unlock sensor-release electric locks. Activation of the building automatic sprinkler system or fire detection system, where provided, shall automatically unlock the electric lock. — https://up.codes/viewer/new_york/ifc-2024/chapter/10/means-of-egress
+- The electromechanical or electromagnetic locking device shall be listed in accordance with either UL 294 or UL 1034. — https://up.codes/viewer/new_york/ifc-2024/chapter/10/means-of-egress
+- The 2025 NYS Building Code says electromagnetic door locks shall be permitted to project into the door opening height not lower than 78 inches (1980 mm) above the floor. This matters for header mounting on low doorways. — https://up.codes/viewer/new_york/ibc-2024/chapter/10/means-of-egress
+- Under the earlier NYS code (2020), a sensor-release door also needs a manual unlocking device located 40 inches to 48 inches (1016 mm to 1219 mm) vertically above the floor and within 5 feet (1524 mm) of the secured doors. — https://up.codes/viewer/new_york/ibc-2018/chapter/10/means-of-egress
+- Fire-rated doors: A maglock does not latch. NFPA 80 requires positive latching on all fire door assemblies. The same source says a fire-rated opening with no latching hardware is one of the most cited deficiencies in annual fire door assembly inspections. — https://www.doorwaysplus.com/blog/our-blog-1/how-a-maglock-talks-to-your-fire-alarm-wiring-the-release-circuit-the-right-way-603
+- One local installer says Nassau and Suffolk County fire codes require fail-safe door hardware on egress paths. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-long-island
+- In Queens and Brooklyn, the NYC Building Code is the rule set. One installer's guide says magnetic locks are legal on NYC egress doors, but only when the installation satisfies NYC Building Code section 1010.1.9.9. — https://ufiredoors.com/blog/mag-lock-code-nyc/
+- An NYC tenant-law angle (key fobs) for the Brooklyn and Queens part of Long Island: Senate Bill S955 would extend similar protections to tenants in all New York City apartment buildings, not just rent-stabilized ones. — https://www.paragonsecurityny.com/blog/2026/september/key-fob-access-rules-for-nyc-buildings-what-s-la/
+
+**Licensing, permits and the Nassau vs. Suffolk split**
+- New York State licenses the business of installing security and fire alarm systems under General Business Law Article 6-D. — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-suffolk-county
+- An installer says Suffolk adds county-level licensing of the contracting trades through the Department of Labor, Licensing & Consumer Affairs, with a public license search and enforcement fines for unlicensed work that have run $750 to $1,500. — same URL
+- The same installer claims Nassau is also stricter than Suffolk: homeowners cannot DIY permit work in Nassau (Suffolk allows it). It also says Nassau permit rules vary by town and village. These are vendor claims, not official sources. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nassau-county
+- A permit guide says Suffolk County requires alarm registration through Suffolk County Police Department if your access control system includes intrusion detection ($50 residential/$100 commercial every 2 years). — https://www.lowvoltagenation.com/posts/suffolk-county-new-york-access-control-permit-requirements
+- The Nassau County Fire Marshal's fee categories include Licensing of certain fire and life safety contractors and Modification or alteration of an existing fire and life safety system. This matters whenever a maglock is tied into the fire alarm. — https://www.nassaucountyny.gov/408/Fire-Marshal-Fees
+- In Nassau, the Fire Marshal must be notified a minimum of 48 hours prior to the commencement of any smoke and fire detection or fire alarm system rough out work. — https://nassaucountyny.gov/DocumentCenter/View/29936/Fire-Alarm-Rough-Out-v2-rev-01-2018?bidId=
+- One contractor guide contrasts the two counties: in Suffolk, 109 independent volunteer fire departments operate with localized control, Nassau maintains uniform standards across the entire county. — https://ifdsystems.com/nassau-county-fire-code-requirements-compliance/
+- Nassau police alarm registration: initial registration fee is $100 for residential and $200 for commercial. The permit will be valid for 2 years. — https://allislandsecurity.com/alarm-permits/
+
+**Building types and door situations**
+- One installer recommends electric strikes for office doors and mag locks for warehouse stairwells and server rooms. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-long-island
+- The same installer lists its clients as commercial buildings, offices, warehouses, medical facilities, and gated communities across Nassau and Suffolk County. — same URL
+- Coastal angle: gates need UL 325 safety sensors, egress button placement, and battery backup for Suffolk's coastal storm profile. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-suffolk-county
+- A Suffolk locksmith lists Magnetic Lock Systems - Gate Entry Systems among its services. — https://suffolklocksmith.com/
+- Another Long Island locksmith groups master key systems, panic exit hardware, mag locks, electric strikes, door closers, and complete door and frame replacement together as commercial services. — https://www.toplockny.com/home/
+- Mounting: the magnetic bracket is installed on the door, and the electronic magnetic lock is installed below the frame header. Lock strengths offered range from 600 lbs to 1500 lbs. — https://matadoorsecuritynyc.com/magnetic-locks/
+- Residential tip from a homeowner forum: Residential doors swing in. So you have to use a "Z" bracket. — https://forums.homeseer.com/forum/homeseer-products-services/general-discussion-area/47549-access-control-mag-door-locks
+
+**Cost data (none of it Long Island-specific)**
+- They cost between $350-750 for the hardware and $500-$800 for labour. The same source says permits, drawings and fire alarm work can add $7000-$10,000 for a single door. — https://www.spottersecurity.com/blog/maglock/
+- the cost to install a maglock on an average door is approximately $300. — https://butterflymx.com/blog/maglock/
+- Professional installation typically costs $500 to $1,200 per door. — https://hiltonsls.com/how-much-does-it-cost-to-install-access-control-per-door/
+- For cloud-based systems, Cloud platform subscriptions add $50 to $200 per door per month. — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nassau-county
+
+**Local news (nearby fire-safety enforcement, not about maglocks themselves)**
+- Mineola apartment building: there have been at least 13 false fire alarms so far in 2026, and the Nassau Fire Marshal issued orders to replace sprinkler components. — https://www.nbcnewyork.com/long-island/faulty-fire-alarms-long-island-apartment-building/6550929/
+- Holtsville: Island 16: Cinema de Lux in Holtsville remained shuttered Thursday after the Town of Brookhaven closed the theater a day earlier over safety concerns. A town spokesperson also said some exit doors were blocked by snow. — https://greaterlongisland.com/island-16-cinema-de-lux-closed-brookhaven-safety-concerns/
+- News specifically about maglocks on Long Island: EMPTY
+
+**Local businesses (Yelp listings)**
+- Yelp's Long Island access-control results include Secure Touch Technologies 5.0 (50 reviews) Serving Long Island and All Island Security 4.6 (10 reviews) Serving Jericho. — https://www.yelp.com/search?find_desc=Access+Control+System+Installation&find_loc=Long+Island%2C+NY
+- Access-control repair results include Brookhaven Locksmiths 3.6 (31 reviews) 4600 Nesconset Hwy and Briscoe Protective 3.8 (12 reviews) Serving Centereach. — https://www.yelp.com/search?find_desc=Access+Control+System+Repair&find_loc=Long+Island,+NY
+- Specific Yelp complaints or praise about mag lock work: EMPTY (I only saw search listings, not review text)
+
+**Reddit**
+- r/LongIsland, r/longisland, r/AskNYC and r/homesecurity threads about mag locks: EMPTY. None came up; my results returned other forums instead.
+
+### Questions people ask — Mag Lock Installation in Long Island hub
+- PAA (Google People Also Ask): EMPTY (not available through my tool)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing-only or DuckDuckGo-only questions: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+
+The questions below are real, but I found them in FAQ sections of ranking pages and in forums, so each is labeled with where it actually appeared:
+
+- What areas on Long Island do you cover? — installer FAQ on a ranking page — https://www.abstractenterprisessecuritysystems.com/access-control-installation-long-island
+- Can I install access control myself in Nassau? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/access-control-installation-nassau-county
+- Do I need a permit for access control in my Nassau village? — installer FAQ — same URL
+- Do I need a license to install access control? — installer page, which says this question comes from Google's AI Overview — same URL
+- Are you licensed for Nassau County electrical and access control work? — installer FAQ — same URL
+- What's the going per-door rate for access control in Nassau? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-nassau-county
+- How do I confirm a security installer is licensed to work in Suffolk County? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-suffolk-county
+- Do I need a professional to install an alarm system in Suffolk County? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/alarm-installation-suffolk-county
+- What areas in NYC do you cover for magnetic lock services? — installer FAQ — https://matadoorsecuritynyc.com/magnetic-locks/
+- How much does it cost to get a maglock? / How much does it cost to install a maglock on a door? — web-result FAQ — https://butterflymx.com/blog/maglock/
+- How much does a magnetic lock cost installed? / How long does mag lock installation take? — web-result FAQ — https://tritonlocksmith.com/services/commercial-door-repair/magnetic-lock-installation/
+- Which is better: maglock vs electric strike? — web-result FAQ — https://www.doorentryonline.co.uk/blogs/door-entry-systems-uk/electric-door-locks-maglocks-and-electric-strikes-which-should-you-choose
+- Is a maglock better than an electric strike? — web-result FAQ — https://www.americanlocksets.com/electric-strike-vs-magnetic-lock
+- Which is more secure, electric strike or maglock? / Which is easier to install? — web-result FAQ — https://security-systems.nyc/blog/magnetic-lock-vs-electric-strike-which-is-best-for-your-business/
+- What are the main life-safety requirements for magnetic locks under NYC code? — web-result FAQ — https://vertexsecurity.com/our-blog/nyc-building-access-control-compliance/
+- Can a maglock be fitted to a house? — web-result FAQ — https://www.smelectricalmidlands.co.uk/post/maglocks-explained
+- Can I install a Maglock at my home? — web-result FAQ — https://jeffersonsecuritycameras.com/blog/ultimate-guide-to-maglocks-everything-you-need-to-know/
+- What happens to magnetic door locks when the power goes out? — web-result guide — https://uk.rs-online.com/web/content/discovery/ideas-and-advice/guide-to-magnetic-door-locks
+- What kind of apartment door locks are electric? (locked out during a power outage) — forum (Mike Holt) — https://forums.mikeholt.com/threads/locked-out-if-electric-door-locks-with-power-outage.2575302/post-2849125
+- If these doors are part of a fire exit, how would people get out in a major fire? — forum (Mike Holt) — https://forums.mikeholt.com/threads/magnetic-lock-use-on-fire-exit.2557189/post-2622147
+- What about electric strike locks that need power to unlock (fail-secure)? — forum (Mike Holt) — https://forums.mikeholt.com/threads/strike-lock-interface-to-fire-alarm.48160/post-765736
+
+To fill the EMPTY rows, run the target queries by hand in Google, Bing and DuckDuckGo from a Long Island location, and check AnswerThePublic and the named subreddits directly.

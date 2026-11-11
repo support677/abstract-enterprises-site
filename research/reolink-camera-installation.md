@@ -363,3 +363,89 @@ None of these came from PAA, related searches, AnswerThePublic, Bing or DuckDuck
 - DuckDuckGo-only questions — EMPTY
 - Reddit — EMPTY
 - Yelp questions or complaints — EMPTY
+
+## Staten Island, Staten Island — /reolink-camera-installation-staten-island (factory research, 2026-11-11)
+
+**How this was gathered:** My search tool returns ordinary web results only. It does not show Google's People Also Ask boxes, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic data. I've marked those EMPTY instead of guessing. I also ran out of searches before checking HPD, 311 or DOB open data, so those are EMPTY too.
+
+**Licensing and permits (affects who can legally do the work)**
+- NYC's business portal says people or businesses that install or maintain security or fire alarm systems need a license. This license is from the New York State Department of State (NYSDOS). Applicants must meet education requirements and pass an exam. Master Electricians are exempt from the requirements, but must register. — https://ur.nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- The state's education requirement is four 15-hour modules and one 21 hour module (81 hours total). — https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- An approved training provider says security systems (which INCLUDE security cameras, CCTV, access control systems, etc.) are covered, and unlicensed installers may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- There's a gray area for camera-only jobs. Department of State wording quoted on a forum says the installation of "passive" (i.e., non-detecting) security devices does not require licensure. Whether a Reolink camera with motion alerts counts as "passive" is not settled in anything I found. — https://forums.mikeholt.com/threads/nys-smoke-detector-law.93948/post-93948
+- Homeowners installing their own cameras: one source says No state license required for self-installation. That source is about Buffalo, but it describes state law. — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- DOB permits: a competitor says Low-voltage security camera wiring in a single-family or owner-occupied townhouse typically does not require a DOB permit under NYC building code. This is a vendor's claim, not confirmed with DOB. — https://senecasecurity.com/services/security-cameras/townhouses/
+- DOB permit data for Staten Island — EMPTY
+
+**Landmarks (LPC) rules — Staten Island's historic districts**
+- Staten Island has three LPC historic districts: New York City Farm Colony-Seaview Hospital Historic District · St. George/New Brighton Historic District · St. Paul's Avenue - Stapleton Heights Historic District — https://www.nyc.gov/site/lpc/designations/historic-district-staten-island.page
+- St. George/New Brighton was designated July 19, 1994 and is a collection of Shingle, Colonial Revival and Italianate houses built during the 19th century, facing New York Harbor. Stapleton Heights was designated June 22, 2004 and has many old wooden houses from the 1800s and 1900s. Cameras would be mounted on wood siding and shingles there. — https://en.wikipedia.org/wiki/List_of_New_York_City_Designated_Landmarks_in_Staten_Island ; https://kids.kiddle.co/List_of_New_York_City_Designated_Landmarks_in_Staten_Island
+- If you own a landmark or a building in a designated historic district in New York City, you need a permit from the Landmarks Preservation Commission (LPC) before doing any work. — https://nyc-business.nyc.gov/nycbusiness/description/performing-work-on-a-landmarked-property
+- LPC's Permit Guidebook (Chapter 11) has a section called "Installing Security Cameras." The search snippet was garbled, but it shows LPC staff can approve cameras that meet set criteria, and it discourages mounting on a primary facade. Read the PDF for the exact rules. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- A competitor's advice: Surface-mounted cameras on street-facing facades in historic districts may require an LPC permit or Certificate of No Effect... often rear or interior-courtyard mounting avoids LPC review entirely — https://senecasecurity.com/services/security-cameras/carriage-houses/
+
+**Flood zones (where the NVR and cable runs go)**
+- Low-lying blocks on the east and south shores flooded badly in Hurricane Sandy, and after any flood we check basements and outdoor equipment before anything is turned back on. — https://rrrelectricalnyc.com/local-areas/staten-island/
+- After a flood, equipment that was damaged has to be certified safe by an electrician, through the Department of Buildings process, before the utility will re-energize it. — same URL
+- DOB rules require certain buildings to elevate the lowest floor, as well as mechanical equipment, above the design flood elevation (DFE). Basement NVR and PoE switch locations in South and East Shore homes should take this into account. — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/flood-resiliency-update/staten-island-borough-board-040517.pdf
+- A local renovation contractor lists Great Kills, Tottenville, Eltingville, Annadale, Charleston as having older homes in FEMA flood zones affected by Hurricane Sandy in 2012. — https://multiconstructionco.com/home-renovation-staten-island-nyc/
+
+**Building types and wiring (from competitor pages, not verified)**
+- Staten Island has the most suburban building stock of any NYC borough — dominated by single-family detached homes, semi-attached houses, townhouse communities, and low-rise apartment buildings. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-staten-island-ny
+- The same competitor already has a Staten Island NVR page that names the Reolink NVS8. Its service-area list covers single-family homes, estates, waterfront properties, storefronts, and West Shore commercial from Tottenville to St. George. — https://www.abstractenterprisessecuritysystems.com/nvr-installation-staten-island
+- The same competitor's pricing claims: A real 4-camera Reolink install costs $1555 in Staten Island all-in. and Staten Island adds 20% to every published Brooklyn labor rate. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-staten-island
+- Same page claims battery life for the Reolink Argus 4 Pro and Eufy SoloCam S340: 3-5 months per charge, and install times of Single-camera battery: 45-90 minutes. 4-camera system: 3-4 hours. — same URL
+
+**Cost benchmarks (not Staten Island specific)**
+- Professional installation can cost $100 to $200 per camera — https://www.security.org/security-cameras/reolink/
+- Reolink's own 8-camera FAQ: Professional installation usually costs $500–$1,500. — https://store.reolink.com/us/8-camera-security-system/
+- A Westchester installer: A 4-camera Reolink PoE kit professionally installed with hidden cabling typically runs $800–$1,500 depending on home size and cable routes. Single solar/4G camera installs at gates or driveways start around $250–$400 plus equipment. — https://www.roloelectronics.com/reolink-installation
+
+**Tenant and landlord rules**
+- Tenants in New York City generally have the right to install security cameras inside their own apartments. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- Many NYC leases have "alterations clauses" that specifically require landlord written approval for any hardware installation — cameras may be covered. Co-op and condo boards may also have their own camera rules. — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- **Unverified — don't publish without checking the actual law:** one vendor says NYC "Local Law 50" requires notices posted wherever common-area cameras operate (https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners). Another site cites "Local Law 3 of 2019" for camera systems in multi-family buildings (https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas). A third says the Real Property Law now requires landlords to permit tenant cameras (https://getsafeandsound.com/blog/security-camera-laws-in-new-york/). I could not confirm any of these.
+- HPD violations about cameras — EMPTY. 311 complaints about cameras — EMPTY.
+
+**Local news**
+- In New Dorp, a homeowner watched a porch theft live from work in Manhattan. The Santobellos installed the $800 surveillance system and mobile app over the summer after they had packages stolen the past two Christmases. — https://cbsnews.com/newyork/news/stolen-package-returned
+- In Westerleigh, surveillance video from the home in Westerleigh, Staten Island showed two people sneaking around cars parked in a driveway in the middle of a snowstorm. Driveway coverage matters on this island. — https://www.cbsnews.com/amp/newyork/news/staten-island-car-break-ins
+- In Willowbrook, a suspected peeping Tom was caught on a home camera in the area of Canterbury and Dreyer Avenues. — https://www.cbsnews.com/newyork/news/staten-island-suspected-peeping-tom
+- Near Buel and Nugent Avenues, a burglar was recorded getting in through a bedroom window on the ground floor. — https://www.cbsnews.com/amp/newyork/news/police-looking-for-suspected-burglar-caught-on-camera-climbing-through-window-of-home-on-staten-island
+- The "Ninja burglar" targeted wealthier homes on Staten Island, particularly in the more affluent neighborhood of Todt Hill. — https://en.wikipedia.org/wiki/Staten_Island_Ninja
+- No silive.com articles on Reolink or camera installation came up in my searches.
+
+**Local competitors on Yelp**
+- Yelp's Staten Island results list Richmond Camera & Security Systems, 360TechNYC, Linix Tech, Live Feed CCTV, Bilco Electric and Datacom, Advance Lock & Key, and Vivint. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Staten+Island,+NY
+- Vivint has 1.6 (7 reviews) near New Dorp Beach. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=New+Dorp+Beach%2C+Staten+Island%2C+NY
+- Reddit threads about Reolink installation on Staten Island — EMPTY
+
+### Questions people ask — Reolink Camera Installation in Staten Island
+- Google People Also Ask — EMPTY (not visible to my tool)
+- Google People Also Search For / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit (actual threads from r/StatenIsland, r/AskNYC, r/homesecurity, r/longisland) — EMPTY
+
+The questions below come from competitor and vendor FAQ pages. They're real questions, but they aren't verified search-engine data. One competitor says some of its questions came from Reddit and local forums; I couldn't confirm that.
+- "Cheapest wireless camera install in Staten Island?" — vendor FAQ (says it's from Reddit/forums) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-staten-island
+- "Do I actually need to pay for install in Staten Island — these things are wireless, can't I just stick them up?" — same
+- "What's the Staten Island pricing difference vs Brooklyn?" — same
+- "Will my landlord approve a wireless camera install in my Staten Island rental?" — same
+- "How long do Staten Island wireless camera batteries last?" — same
+- "Are no-name $40 wireless cameras from Amazon safe to install in my Staten Island property?" — same
+- "How long does a wireless install take in Staten Island?" — same
+- "Do I need monthly fees for Staten Island wireless cameras?" — same
+- "Do you offer security camera repair on Staten Island?" — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-staten-island-ny
+- "Who can install security cameras?" — Thumbtack FAQ — https://www.thumbtack.com/ny/staten-island/security-camera-install
+- "How much does professional Reolink installation cost?" — vendor FAQs — https://www.roloelectronics.com/reolink-installation ; https://sipkosecurity.com/reolink-security-cameras-review-2026/
+- "How much does it cost to install an 8 camera security system?" — Reolink FAQ — https://store.reolink.com/us/8-camera-security-system/
+- "Can I install Reolink cameras myself?" / "Can Reolink cameras work without WiFi?" / "How long do Reolink battery cameras last?" / "What is the best placement for Reolink cameras?" / "Can I use Reolink cameras with a VPN?" — vendor FAQ — https://sipkosecurity.com/reolink-security-cameras-review-2026/
+- "Do I need cameras in my NYC building?" — vendor FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- "Can my landlord put cameras in the hallways or laundry rooms?" / "Do landlords have to tell tenants before installing cameras?" — tenant site FAQ — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- "Can Tenants Install Cameras Without Landlord Permission in New York?" — blog FAQ — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
+- "The carriage house is in an LPC historic district. Are there restrictions on exterior camera mounting?" — vendor FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Yelp review themes (not questions): one reviewer was not too happy with the quality of the cameras and the fact that I had to set up the mobility view (https://www.thumbtack.com/ny/staten-island/security-camera-install). Another praised a firm because it "is the only one that took us seriously (We are talking about 12 security cameras installation)." (https://www.yelp.com/search?find_desc=Security+Camera&find_loc=Staten+Island,+NY)
+
+**What's still missing:** Real search-engine question data (Google, Bing, DuckDuckGo, AnswerThePublic) needs a SERP tool or a manual check. Reddit threads need a direct look at reddit.com. HPD, 311 and DOB data need NYC Open Data. Note that Abstract Enterprises already has several Staten Island pages naming Reolink, so it's the main competitor to beat on this keyword.

@@ -94,3 +94,146 @@ The tool doesn't show Google PAA, PASF, AnswerThePublic, Bing or DuckDuckGo resu
 - Yelp questions or complaints: EMPTY
 
 To fill the EMPTY rows, someone needs to check Google, Bing and DuckDuckGo by hand in a browser, plus Reddit's own search. You'll also need to tell me which actual neighborhood "NYC hub" means before I can pull HPD, 311 or DOB records for it.
+
+## Long Island hub, Long Island — /swann-camera-installation-long-island (factory research, 2026-11-11)
+
+**Read these first:**
+- **"Long Island hub" isn't a place I could find.** No search returned a neighborhood by that name, so everything below is about Long Island in general (Nassau and Suffolk). Check whether the slug was meant to be a specific town or a placeholder.
+- **The NYC data sources don't apply here.** HPD violations, 311 complaints, DOB permits and LPC rules only cover the five boroughs. Nassau and Suffolk sit under town, village and city building departments instead. HPD / 311 / DOB / LPC: EMPTY (not applicable).
+- **I didn't get any real search-page data.** My search tool can't show Google's People Also Ask boxes, related searches, Answer the Public, or Bing and DuckDuckGo results. The questions list below comes only from questions that appeared on real web pages, and each one says where.
+- **I ran 12 of my allowed searches**, with one left unused. That one Reddit search turned up no Reddit threads.
+
+**Who does Swann installation (Swann itself doesn't)**
+- Swann's support page says Swann specialises in DIY security systems, so we do not dispatch installers nor field technicians. — https://support.swann.com/hc/en-us/articles/11929078296601-Can-You-Send-A-Field-Technician-or-Professional-Installer
+- The same page says the purchase of a Swann product and its warranty do not include any costs associated with the installation or uninstallation. It also tells buyers to test the unit PRIOR to installation to avoid issues with password reset and pairing. That's a good pre-install checklist step. — same URL
+- Swann works with InstallerNet: The InstallCard covers the labor cost of your professional installation. — https://swann.installcard.com/
+- InstallerNet's estimate page lists the main cost factors: Mounting Location & Height of Cameras; The Distance the Cameras will be Mounted from the DVR unit; The Desired Degree of Cable Concealment… The Type of Connection desired for the DVR Unit — https://swann.surv-act.installernet.com/pages/Website/cost.aspx
+- Local market: one Long Island company targets people who buy kits at big-box stores, asking Have you recently purchased a security camera system from Costco, BJ's, PC Richards or another retailer on Long Island or in NYC? — https://www.totalsecurityny.com/security-cameras/lorex-swann-q-see-night-owl-security-camera-installations-service-remote-viewing/
+- Another Long Island repair page says for Lorex, Swann, and Amcrest where the warranty is a hassle to claim, we usually recommend buying a same-spec replacement directly — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-long-island
+
+**Cost**
+- National guide: Swann cameras run $70 to $100 without installation and from $130 to $200 installed — https://www.fixr.com/costs/install-video-surveillance-cameras
+- InstallerNet says the typical cost of an installation is $100 - $200 per camera. — https://swann.surv-act.installernet.com/pages/Website/cost.aspx
+- Swann's own blog says expect to pay the same value as the system – i.e. if your system cost $100, installation may cost $100 or more. — https://blog.swann.com/how-much-does-a-security-system-cost/
+- Example Long Island package: Installation included, up to 100FT per camera run. — https://www.longislandsecuritycam.com/
+
+**Permits and licensing (Nassau and Suffolk)**
+- Standard security camera installations in Nassau and Suffolk County typically do not require local municipality permits. However, certain commercial properties, historic districts, or specialized building integrations may have specific compliance codes. — https://vertexsecurity.com/security-systems-long-island/security-camera-installation-long-island/
+- A local electrician adds a caveat: Low-voltage systems (security, data, A/V) may not require a permit, but running new wiring through walls or attics often does. — https://ehhaineselectric.com/resource/do-i-need-a-permit-for-electrical-work-in-nassau-county/
+- Rules vary by municipality: the Towns of Hempstead, North Hempstead and Oyster Bay run their own electrical licensing boards, the Cities of Long Beach and Glen Cove regulate separately — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-nassau-county
+- State license: If your structured cabling project includes security or alarm system components, NYS Security/Fire Alarm Installer License is required. — https://www.lowvoltagenation.com/posts/nassau-county-new-york-structured-cabling-permit-requirements
+
+**Privacy rules and local disputes**
+- Flower Hill (Nassau) once proposed a ban on installation of imaging devices with 'no legitimate purpose other than viewing or recording another, in an area of that person's property.' I couldn't confirm what happened to it. — https://www.cbsnews.com/amp/newyork/news/flower-hill-security-cameras
+- Suffolk camera policy: In April, the Suffolk County Legislature introduced resolution 1393-2026 "to require certain businesses with security cameras to provide footage to law enforcement following a felony. Its current status is EMPTY. — https://www.longislandadvance.net/stories/when-the-eye-of-the-beholder-is-a-surveillance-camera,121776
+- State law: New York Civil Rights Law § 52-a - Private right of action for specified backyard video imaging. This matters when deciding where to aim cameras next to a neighbor's yard. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- Suffolk has its own county chapter on video recording devices (Ch. 834), adopted by the Suffolk County Legislature 11-19-2002. — https://ecode360.com/14956283
+
+**Local news that supports wired installs**
+- After a Nassau burglary ring was sentenced, the DA said: Consider installing doorbell cameras or other security devices that can help law enforcement track down thieves and arrest them. Many of the attempted burglaries happened after midnight. — https://www.nassauda.org/m/newsflash/home/detail/1966
+- That ring targeted luxury vehicles at homes in Woodmere, Lawrence, Hewlett Harbor, Franklin Square and other Nassau County communities. — https://www.liherald.com/fivetowns/stories/four-sentenced-five-towns-burglary-spree,222790
+- In a separate Nassau case, Security cameras showed how quickly the foursome reached the second floor — https://www.nbcnewyork.com/news/crew-of-four-face-charges-after-burglaries-in-nassau-county-per-police/6418828/
+- On Wi-Fi jamming, News 12 Long Island reported that police urge homeowners to hardwire their security systems and not rely on Wi-Fi. That's a reason to recommend Swann's wired DVR/NVR kits over Wi-Fi models. — https://longisland.news12.com/police-in-new-jersey-say-burglars-are-using-wi-fi-jammers-to-target-homes-heres-what-you-need-to-know
+- Old Westbury police told residents to place motion activated security cameras that capture the mailbox area. — https://www.villageofoldwestbury.gov/m/newsflash?cat=14
+
+**Wiring and gear problems (owner reviews)**
+- One owner traced DVR failures to interference and said Swann should either revise this DVR to have a metal case or caution the purchaser not to locate the DVR near major electrical devices. Worth checking where the recorder goes. — https://www.adorama.com/swdvk845008u.html
+- Another complained that separate Swann apps don't work together: even other Swann cameras don't all feed into just one — https://www.adorama.com/swwhdptcam.html
+
+**Yelp (Long Island)**
+- Praise for installing gear the customer bought: STT was happy to install one that I purchased on my own. — https://m.yelp.com/biz/secure-touch-technologies-long-island
+- Another reviewer had cameras and ethernet put in during a renovation: I was having my basement gutted and asked Secure Touch Tech to do camera installation and run ethernet while the walls were open. — same URL
+- Praise for setup training: He took the time to neatly install the system and when he was done we were shown how to use the security system from start to finish. — https://www.yelp.com/c/long-island/securitysystems
+- Long Island Yelp complaints: EMPTY (none came up).
+
+### Questions people ask — Swann Camera Installation in Long Island hub
+None of these came from Google's question boxes, so none are labeled PAA. The "where seen" note gives the actual page.
+
+- Does Swann send its own installer or field technician? — Swann support FAQ (not PAA) — https://support.swann.com/hc/en-us/articles/11929078296601-Can-You-Send-A-Field-Technician-or-Professional-Installer
+- How much will it cost me for a tech to install my cameras? — Best Buy product Q&A — https://www.bestbuy.com/site/questions/swann-home-4-channel-4-bullet-camera-with-audio-indoor-outdoor-1080p-hd-dvr-security-system-with-64gb-microsd-card-black/6530939/question/98d20b4e-127a-3385-95f6-acc06b417b3b
+- What is the setup and installation cost for all 9 cameras, with a neat installation? — Best Buy product Q&A — https://www.bestbuy.com/site/questions/swann-professional-16-channel-8-dome-1-pan-tilt-camera-indoor-outdoor-12mp-uhd-4tb-nvr-security-surveillance-system-black/6510481/question/325580e5-0c76-3dd0-b403-26402945b9e3
+- Do the Swann systems sold at Best Buy come with an install card? — Best Buy product Q&A — https://www.bestbuy.com/site/questions/swann-8-channel-4-camera-indoor-outdoor-dvr-security-system-black/5326155/question/0428c4ea-100b-3d7b-bfa0-a47aebeeaa1f
+- Do I have to have the router attached to the DVR, or can Wi-Fi be used? — Adorama Q&A — https://www.adorama.com/swdvk8hd5mp4.html
+- I have the 8-channel DVR; is there any way to make it work with 16 cameras? — Adorama Q&A — https://www.adorama.com/swdvk8hd5mp4.html
+- How much does it cost to get Swann security cameras installed? — installer blog (Australia) — https://www.jimsantennas.com.au/2020/02/12/how-much-does-it-cost-to-get-swann-security-cameras-installed/
+- How long does a security camera installation take? — Long Island provider FAQ — https://nysecuritysolutions.com/security-cameras/long-island/
+- How much does security camera installation cost on Long Island? — Long Island provider FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-long-island-ny
+- Do I need a permit for warehouse cameras in Nassau County? — provider FAQ — https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-nassau-county
+- Do I need a permit for low-voltage work like cameras or alarms? — Nassau electrician FAQ — https://ehhaineselectric.com/resource/do-i-need-a-permit-for-electrical-work-in-nassau-county/
+- Can my neighbor point a security camera at my yard? — legal explainer FAQ — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/neighbor-security-camera-laws/
+- Can my neighbor in New York legally point security cameras at my house? — legal blog — https://www.gavelinsight.com/2025/12/can-my-neighbor-in-new-york-legally.html
+- (Suffolk resident) If I call the police, can I have my neighbor arrested for invasion of privacy over his cameras? — JustAnswer — https://www.justanswer.com/law/14go9-live-suffolk-county-new-york-neighbor.html
+- Can burglars jam or disable security cameras? — installer blog — https://www.roloelectronics.com/blog/can-burglars-disable-security-cameras
+- Google PAA: EMPTY (not available to my search tool)
+- Google related searches (PASF): EMPTY
+- AnswerThePublic: EMPTY
+- Bing-only questions: EMPTY
+- DuckDuckGo-only questions: EMPTY
+- Reddit (r/longisland, r/LongIsland, r/AskNYC, r/homesecurity): EMPTY (no threads found)
+- Yelp questions and complaints: EMPTY (only praise found, listed above)
+
+## Hudson Valley hub, Hudson Valley — /swann-camera-installation-hudson-valley (factory research, 2026-11-11)
+
+**Before you use this:**
+- **"Hudson Valley hub" isn't a real place.** It looks like a template placeholder. I couldn't find any neighborhood, block or business with that name, so the findings below cover the region as a whole (Westchester, Rockland, Orange, Putnam, Dutchess, Ulster).
+- **HPD, 311, DOB and LPC: EMPTY.** These are New York City agencies and don't cover the Hudson Valley. The closest local equivalent I found is Kingston's Historic Landmarks Preservation Commission (below).
+- **No search-page data.** My search tool can't show Google's People Also Ask or related searches, Bing or DuckDuckGo results, or AnswerThePublic. Those fields are EMPTY. The questions at the end come from real web pages, Q&A threads and legal sites.
+- **One company dominates the results.** Most local pages are from Abstract Enterprises, and their claims are marketing I couldn't verify. One example: the page says Reddit threads "recommend Abstract Enterprises consistently for the Hudson Valley repair work". I found no Reddit thread that backs this up, so don't repeat it as fact.
+
+**Swann itself: installation, wiring and setup**
+- Swann (US) doesn't install its own products. On Best Buy Q&A it says it "has pioneered the category of DIY installation and does not offer installation or installation services for our products" — https://www.bestbuy.com/site/questions/swann-home-4-channel-4-bullet-camera-with-audio-indoor-outdoor-1080p-hd-dvr-security-system-with-64gb-microsd-card-black/6530939/question/98d20b4e-127a-3385-95f6-acc06b417b3b
+- Swann does have a paid installation program through a partner: "Swann has teamed with InstallerNet to provide its customers with professional installation service." The price is set by a questionnaire about your home — https://swann.installcard.com/
+- Swann NVRs only take PoE (Power over Ethernet) cameras: "There are no non-PoE cameras compatible with any of the Swann Security NVRs." Cameras can run on a 12V DC adapter when PoE is not available — https://support.swann.com/hc/en-us/articles/4747330541081-How-to-Connect-Cameras-to-an-NVR-First-Time-Setup-Guide
+- Common installer fixes: Ensure the camera is connected to a PoE port (802.3af) and that the NVR's PoE switch is enabled. Also, the timezone reverts after reboot if not manually set. This is a known issue in some NVR models. — https://scos.co.uk/troubleshooting/swann/swann-installation-problems/
+- Swann's SWIFI Wi-Fi cameras won't work without internet. They need it because they communicate to the P2P server using the Internet to stream to the Swann Security app, and they need a 2.4 GHz router — https://support.swann.com/hc/en-us/articles/20876728745497-Can-a-SWIFI-camera-work-without-Internet
+- The MaxRanger system can operate as a local-only system without the need for an internet connection. However, users will not be able to view anything via the Swann Security app — https://support.swann.com/hc/en-us/articles/32738758906521-Does-the-MaxRanger-Power-Hub-need-internet
+- Wired DVR/NVR kits record without internet, but if you would like to remotely access this device an internet connection to both the mobile device and recorder is required — https://www.bestbuy.com/site/questions/swann-professional-8-channel-4-camera-indoor-outdoor-wired-1080p-1tb-dvr-home-security-camera-system-white/6453021
+- Customer complaints from retail reviews: One camera keeps turning off , main box freezes and locks up sometimes. Another buyer said motion push notifications didn't work and called it a known thing but Swann don't know how to fix it — https://www.adorama.com/swsodvk1646.html
+
+**Hudson Valley conditions that change the install**
+- Rural internet outages: one installer says rural internet drops more often and longer, and a cloud-only system records nothing for the duration — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-hudson-valley
+- Solar power and long driveways (an installer anecdote): Previous installer used the included 2.5W panels and the cameras kept dying every January. Their suggested fix is a mesh node halfway down the driveway, or simpler, a 4G LTE cellular wireless camera — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-hudson-valley
+- For barns and outbuildings, one guide suggests long-range wireless like the Swann MaxRanger4K where Wi-Fi doesn't reach — https://misec.net/best-security-cameras-for-rural-home/
+- Installer price claims (unverified): Hudson Valley labor runs above city rates. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-hudson-valley. The same company quotes Hikvision at Roughly $480–$850 per camera installed — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-hudson-valley-ny
+- Historic districts: Kingston's commission reviews exterior changes in the Stockade, Rondout and Fair Street districts. Its approvals note they do not obviate the need for a Building Permit from the City of Kingston's Building Safety Division. I found no ruling specifically about cameras (EMPTY) — https://kingston-ny.gov/filestorage/8399/10476/16128/16481/55378/minutes_HAC-HLPC_6July2023_(FINAL).pdf
+- Design tips for historic reviews: choosing lower-profile turret and dome housings over prominent bullet cameras where visibility is a concern, routing conduit along existing lines — https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-hudson-valley
+
+**New York State rules**
+- Licensing: under NY General Business Law Article 6-D, no person shall engage in the business of installing, servicing or maintaining security or fire alarm systems without a license — https://law.justia.com/codes/new-york/gbs/article-6-d/69-m/
+- The state's own guidance is unclear for cameras. It says the installation of "passive" (i.e., nondetecting) security devices does not require licensure, and home or business owners installing a system on their own property don't need a license. Whether a motion-alerting Swann system counts as "passive" isn't settled in the sources, so don't state it either way — https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- Requirements to get the license: Age 18+; 81 hours qualifying education (four 15-hr modules + one 21-hr module); pass alarm installer examination; fingerprints — https://vortechpro.com/blog/security-alarm-installer-license-requirements-by-state/
+- Audio recording: one attorney answer says cameras that record voices while you're away can count as eavesdropping, which New York treats as a class E felony — https://answers.justia.com/question/2025/10/24/is-it-legal-to-record-audio-with-home-se-1089357
+- Neighbors' yards: intentionally aiming a camera at a neighbor's private spaces (windows, backyard areas with privacy fencing) could support claims of harassment, nuisance, or invasion of privacy — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+
+**Local programs and businesses**
+- Croton-on-Hudson police ask residents and businesses to voluntarily register their privately-owned surveillance camera systems — https://www.crotononhudson-ny.gov/465/Surveillance-Camera-Registration
+- Tarrytown police run a similar voluntary "SecureCam" program — https://thehudsonindependent.com/tarrytown-police-call-for-security-camera-registration-to-aid-investigations/
+- Yelp's Poughkeepsie camera-install list includes Jim The Camera Guy, Hugh's Innovative AV Solutions, Dominion Security Services, Catskill Security Systems, C P Systems, Phantom Security & Fire — https://yelp.com/search?amp=&find_desc=Security+Camera+Installation&find_loc=Waltham%2C+MA
+- Yelp complaint: Vector Security (59 Page Park Dr) shows 1.8 (10 reviews), with a review starting "I signed up with Vector Security, paid over $3,500…" — https://yelp.com/search?amp=&cflt=securitysystems&find_loc=American+Canyon%2C+CA+94503
+- Yelp praise: "Nate @ Phantom Security & Fire is your one stop shop… He is very honest, straightforward & knowledgeable in his field. — https://yelp.com/search?amp=&find_desc=Security+System+Installation&find_loc=Manahawkin%2C+NJ+08050
+- Local news: EMPTY. I found no Hudson Valley news story about Swann installs.
+- Reddit: EMPTY. I found no real r/hudsonvalley, r/thehudsonvalley or r/homesecurity thread on this topic.
+
+### Questions people ask — Swann Camera Installation in Hudson Valley hub
+- Google People Also Ask: EMPTY (not available to my tool)
+- Google related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY. One installer page lists "What happens to cloud cameras when rural internet drops?" under "Asked on Bing." That's their claim, not something I saw on Bing — https://www.abstractenterprisessecuritysystems.com/commercial-security-systems-hudson-valley
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: "What are people saying about security systems services in Poughkeepsie, NY?" — Yelp — https://yelp.com/search?amp=&find_desc=Security+System+Installation&find_loc=Manahawkin%2C+NJ+08050
+- "What is the setup, and installation cost for all 9 cameras, with a neat installation?" — Best Buy Q&A — https://www.bestbuy.com/site/questions/swann-professional-16-channel-8-dome-1-pan-tilt-camera-indoor-outdoor-12mp-uhd-4tb-nvr-security-surveillance-system-black/6510481/question/325580e5-0c76-3dd0-b403-26402945b9e3
+- "How much will it cost me for a tech to install my cameras?" — Best Buy Q&A — https://www.bestbuy.com/site/questions/swann-home-4-channel-4-bullet-camera-with-audio-indoor-outdoor-1080p-hd-dvr-security-system-with-64gb-microsd-card-black/6530939/question/98d20b4e-127a-3385-95f6-acc06b417b3b
+- "Can I run this system without wifi?" (for a garage the Wi-Fi doesn't reach) — Best Buy Q&A — https://www.bestbuy.com/site/questions/swann-professional-8-channel-4-camera-indoor-outdoor-wired-1080p-1tb-dvr-home-security-camera-system-white/6453021
+- "Does the location require Internet service to be able to monitor the cameras from a mobile phone when off-site?" — Best Buy Q&A — same URL
+- "Does this have to be connected to Wi-Fi or can it record without Wi-Fi?" — Best Buy Q&A — https://www.bestbuy.com/site/questions/swann-home-8-channel-6-camera-indoor-outdoor-wired-4k-uhd-2tb-hdd-dvr-security-camera-2-way-audio-surveillance-system-black/6403909/question/603a2ec2-f05f-31b4-88b8-100942d52ed3
+- "Can a SWIFI camera work without Internet?" — Swann support FAQ — https://support.swann.com/hc/en-us/articles/20876728745497-Can-a-SWIFI-camera-work-without-Internet
+- "Can I use non-PoE cameras with an NVR?" — Swann support FAQ — https://support.swann.com/hc/en-us/articles/4747330541081-How-to-Connect-Cameras-to-an-NVR-First-Time-Setup-Guide
+- "Are Swann cameras easy to install?" — SafeHome FAQ — https://www.safehome.org/home-security-cameras/swann/
+- "Do you need internet for Swann cameras?" and "Can you use Swann without a subscription?" — Reviews.com FAQ — https://www.reviews.com/home/security-systems/swann-review/
+- "How much does Swann charge for camera installation?" and "Is there a monthly fee for Swann Security cameras?" — ProtectFind FAQ — https://protectfind.com.au/security-cameras/swann/
+- "Is it legal to record audio with home security cameras in NY?" — Justia Ask a Lawyer — https://answers.justia.com/question/2025/10/24/is-it-legal-to-record-audio-with-home-se-1089357
+- "Is it legal for your neighbor to record you on camera in New York?" — news article — https://www.yahoo.com/news/legal-neighbor-record-camera-york-165459535.html
+- "What happens if my security camera accidentally points into a neighbor's window?" — installer blog — https://vertexsecurity.com/our-blog/security-camera-laws/
+- Installer-written FAQ headings (not verified as real user questions): "How much does security camera installation cost in the Hudson Valley?" and "Can you install security cameras in a Hudson Valley condo or co-op?" — https://abstractenterprisessecuritysystems.com/security-camera-installation-hudson-valley-ny
+- More installer-written FAQ headings: "How many cameras does a Hudson Valley home need?", "Will it work without internet?" and "Can I add more cameras later?" — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-hudson-valley-ny

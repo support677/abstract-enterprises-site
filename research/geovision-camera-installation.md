@@ -247,3 +247,115 @@ None of these come from People Also Ask. They're from competitors' FAQ sections 
 - Yelp lists near Poughkeepsie include Jim The Camera Guy, Hugh's Innovative AV Solutions, Dominion Security Services, Catskill Security Systems, C P Systems, Phantom Security & Fire. — https://yelp.com/search?amp=&find_desc=Security+Camera+Installation&find_loc=Waltham%2C+MA
 - Complaint: Vector Security 1.9 (9 reviews) 59 Page Park Dr "I signed up with Vector Security, paid over $3,500. — https://yelp.com/search?amp=&find_desc=Security+Systems&find_loc=Nassau+County%2C+FL
 - Complaint about another provider: a bigger (but not better) competitor in the area and have had nothing but trouble
+
+## Brooklyn, Brooklyn — /geovision-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Before you use this:** I could only use a general web search. I had no direct view of Google's People Also Ask or People Also Search For boxes, Bing or DuckDuckGo results pages, AnswerThePublic, or Reddit search, so those are marked EMPTY below. I also ran out of searches before checking HPD, 311 or DOB data. Wherever a claim comes from an installer's marketing page, I say so.
+
+**GeoVision-specific angles (the strongest material for this page)**
+- Older GeoVision devices are being hacked. CISA listed two flaws in its Known Exploited Vulnerabilities catalog, including CVE-2024-6047 (CVSS score 9.8), a GeoVision devices OS command injection vulnerability. In November 2024, researchers at the Shadowserver Foundation observed a botnet exploiting the zero-day flaw CVE-2024-11120 in GeoVision end-of-life devices — https://securityaffairs.com/177599/security/u-s-cisa-adds-govision-device-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+- Affected models: GV-VS12, GV-VS11, GV-DSP LPR V3, and GV-LX4C V2/V3, all end-of-life and no longer supported by the manufacturer — https://www.cybersecurity-help.cz/blog/4396.html
+- Scale in the US: the United States has 9,179 devices, followed by Germany with 1,652. No patch will be released, and GeoVision users are advised to replace these devices as soon as possible. This supports an "audit and replace your legacy GeoVision" angle — https://www.bitdefender.com/en-gb/blog/hotforsecurity/researchers-geovision-botnet-ddos-cryptocurrency
+- Federal bans on Chinese brands are pushing buyers toward GeoVision. On June 26, 2026, the FCC prohibited continued importation and marketing of previously authorized equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua, now reaching older models too — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- One integrator lists GeoVision — professional PC-based systems with extensive integration options and compliant models as an NDAA-compliant alternative — https://blog.camerasecuritynow.com/2026/01/13/hikvision-dahua-cameras-critical-2026-update-plan-ahead-now/
+- Caveat: GeoVision is not compliant across its whole range. GeoVision has a mix of NDAA-compliant and non-compliant products; it was founded in 1998 in Taiwan. Check each model — https://www.a1securitycameras.com/blog/asian-security-camera-manufacturers/
+- Common networking problem: most NVRs put their PoE ports on a separate IP subnet. The thread involves the GV-SNVR0812 NVR — https://ipcamtalk.com/threads/geovision-nvr-wont-detect-ip-cameras-off-of-network-switch.65545/
+- Remote-viewing app: GV-Eye is a free app that connects to GeoVision IP devices and software for live view, playback, snapshots and more — https://apps.apple.com/us/app/gv-eye/id427126976?l=ko
+
+**Licensing and permits**
+- You need a license to install or maintain security or fire alarm systems, and it comes from the New York State Department of State (NYSDOS) — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- License requirements: age 18+, 81 hours of qualifying education, the alarm installer exam, and fingerprints — https://vortechpro.com/blog/security-alarm-installer-license-requirements-by-state/
+- Possible gap: the state says installing "passive" (non-detecting) security devices does not require a license. Whether a camera with motion detection counts as an "alarm system" is unverified and should go to the DOS — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf
+- Sources disagree on DOB permits. One installer says low-voltage camera work in a residential brownstone typically does not require a DOB permit (https://senecasecurity.com/services/security-cameras/brownstones/). Another says NYC requires licensed electricians for wired security camera installation (https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/). Not checked against DOB directly.
+
+**Landmarks Preservation Commission (LPC) rules**
+- The LPC's Section 2-20 rules cover objects commonly used for security, such as lighting, security cameras and intercom panels — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- The LPC permit guidebook has a section on installing security cameras (11.7). The rule text I found was fragmentary, so get the exact criteria from the PDF itself — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Real LPC approval example: nine security cameras at the ground floor approved under Section 2-20(c)(4) for security cameras — https://a860-gpp.nyc.gov/downloads/7h149t85r?locale=en
+- An installer notes many NYC brownstones sit in LPC historic districts — Brooklyn Heights, Harlem, Park Slope, Fort Greene — https://senecasecurity.com/services/security-cameras/brownstones/
+
+**Building types and wiring**
+- Masonry walls block Wi-Fi: wireless camera installation uses WiFi, which drops through thick walls (installer marketing). This favours wired PoE, which is how GeoVision cameras are typically powered — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Another installer takes the opposite view: for brownstones and older buildings, we often use wireless cameras to avoid extensive cable runs through historic walls — https://electrifiedny.com/residential/security-camera-installation/
+- Cost driver: masonry walls and long cable runs to a backyard increase the labor — https://lockandtech.com/articles/how-much-does-a-home-security-system-cost/
+- Lighting affects camera placement: the NYS Multiple Dwelling Law requires adequate lighting in common areas including vestibules, hallways, stairwells, and courtyards — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Co-ops and condos: building-wide upgrades such as camera replacements or new access control may require board approval — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Brooklyn job types an installer cites: Williamsburg, Greenpoint, Bushwick and Park Slope, from storefronts and breweries to brownstones and warehouses — https://linkedsecurityny.com/services/cctv-system-installation-ny/
+- A local GeoVision access-control installer lists Keri, Honeywell, Kantech, GeoVision, Linear — https://www.totalsecurityny.com/access-control/brooklyn-ny-access-control-systems/
+
+**Tenant and landlord rules**
+- You need your landlord's permission to install any equipment in common areas, including the hallway outside your apartment — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- One firm says NYC Local Law 50 requires visible notice that common-area cameras are in operation. **Unverified.** Another site cites a "Local Law 3 of 2019" instead. Confirm both before publishing — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- HPD may recommend cameras in buildings with ongoing crime-related violations, but the legal mandate is for intercoms and lighting — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Complaints about building security and surveillance can be made via HPD or 311 — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Audio recording: cameras that capture audio must meet the one-party consent rule under Penal Law 250.00 — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+
+**Local programs and news**
+- IMPACCT Brooklyn and Amazon/Ring ran "Project IT" to install Ring cameras in eligible Central Brooklyn small businesses. These are Ring cameras, not GeoVision — https://impacctbrooklyn.org/projectit/
+- A participatory budgeting proposal for Gowanus Houses asks to install security cameras in elevators and near apartment doors — https://www.participate.nyc.gov/processes/Citywidepb2025/f/69/proposals/22697
+- Nonprofit grant: New York DCJS's 2026 Securing Communities Against Hate Crimes round allowed up to $250,000 per organization and closed July 8, 2026 — https://tec-tel.com/resources/grants
+- Brownstoner forum (not Reddit): one owner said Alarms R Us is local and you can always get someone on the phone — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+
+**Cost benchmarks (NYC)**
+- Average $1,509, typically ranging from $797 to $2,222 — https://www.angi.com/articles/how-much-does-it-cost-install-surveillance-camera/ny/new-york
+- A wired 4-camera IP setup often comes in near $1,800 to $3,000 — https://nyhls.com/blog/security-camera-installation-cost
+- Commercial: $900 to $1,600 per camera point — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-nyc/
+
+**Yelp**
+- Praise: "Professional, high quality and super neat work, no wires showing or hanging" (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Praise for a multifamily job: True Defense Solutions did a camera install at a multifamily apartment building — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Prospect+Heights%2C+Brooklyn%2C+NY
+- Complaints: EMPTY. Search snippets only showed positive excerpts.
+
+**Gaps**
+- HPD violation data on cameras: EMPTY
+- 311 camera complaint data: EMPTY
+- DOB permit data: EMPTY
+- Local news about GeoVision in Brooklyn: EMPTY
+- Reddit threads: EMPTY. One competitor claims Reddit threads recommend Abstract Enterprises consistently. That is the company's own unverified claim — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+### Questions people ask — GeoVision Camera Installation in Brooklyn
+
+None of these came from PAA, PASF, AnswerThePublic, Bing, DuckDuckGo or Reddit. They are real questions published on installer FAQs, legal Q&A sites and forums.
+
+**From SERP and Reddit tools I couldn't access**
+- PAA: EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland): EMPTY
+
+**GeoVision-specific**
+- Does [installer] install GeoVision security camera systems? — installer FAQ — https://www.camerasecuritynow.com/geovision
+- Is GeoVision NDAA compliant? Asked as "So then GeoVision might also be OK since they are also Taiwanese?" — IPVM comments — https://ipvm.com/reports/ndaa-guide
+- How do I connect Geovision cameras to Agent DVR? — vendor FAQ — https://www.ispyconnect.com/camera/geovision
+- Do GeoVision cameras have audio? / How do I install GeoVision software? — SlideShare FAQ — https://www.slideshare.net/slideshow/geovision-2mp-ip-camera-esentia-expert-guide/269662224
+- Why won't my GeoVision NVR detect IP cameras off the network switch? — IPCamTalk forum — https://ipcamtalk.com/threads/geovision-nvr-wont-detect-ip-cameras-off-of-network-switch.65545/
+- Why are my cameras dropping offline? (GeoVision box camera losing connection) — IPVM forum — https://ipvm.com/discussions/network-and-nvr-problems-questions
+- Do I have to remove my Hikvision or Dahua cameras now? / Can I still buy them in the US? — installer FAQ — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+
+**Permits, licensing, landmarks**
+- Do I need a permit to install security cameras in my NYC building? — installer FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Do you need a permit to install a security camera in New York? — installer FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Do I need LPC approval to install cameras on my brownstone? — installer FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Can you install on a Brooklyn brownstone without damaging the brick? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-brooklyn
+- Do I need cameras in my NYC building? — installer FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+
+**Tenants and landlords**
+- I live in a Brooklyn apartment building — can I legally put a camera outside my front door? — JustAnswer — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Can I install a security camera in the hallway for safety? — Brick Underground — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Do I have to tell my tenants about cameras in common areas? — installer FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Do landlords have to tell tenants before installing cameras? — tenant-rights.com — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Can my landlord watch my security cameras? / Can tenants install CCTV in storage units? — installer FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can my landlord install security cameras in my apartment building in New York? — legal guide — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Can I install security cameras outside my house in New York? — legal guide — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+
+**Cost**
+- How much does CCTV installation cost in NYC in 2026? / A 4-camera system? / What is the labor cost? — installer FAQ — https://linkedsecurityny.com/blog/cctv-installation-cost-in-new-york/
+- How much does apartment building camera installation cost in Brooklyn? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- What is the average cost to install a commercial security camera in NYC? — installer FAQ — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-nyc/
+- What is the average labor cost to install security cameras? — vendor FAQ — https://butterflymx.com/blog/security-camera-installation-nyc/
+
+**Choosing equipment and installers**
+- What types of security cameras work best for Brooklyn properties? — installer FAQ — https://electrifiedny.com/residential/security-camera-installation/
+- What is the best wireless camera for Brooklyn? / Best CCTV repair company Reddit recommends in Brooklyn? — competitor FAQ (these are their own SEO headings, not verified real searches) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-

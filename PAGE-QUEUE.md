@@ -1255,12 +1255,12 @@ LIVE | eufy-camera-installation-nyc | eufy Camera Installation | NYC hub | up / 
 LIVE | eufy-camera-installation-long-island | eufy Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | eufy-camera-installation-hudson-valley | eufy Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | hanwha-camera-installation-nyc | Hanwha Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-11T12:02Z factory | hanwha-camera-installation-long-island | Hanwha Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-11T12:02Z factory | hanwha-camera-installation-hudson-valley | Hanwha Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-nyc | Axis Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-long-island | Axis Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-hudson-valley | Axis Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | swann-camera-installation-nyc | Swann Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | hanwha-camera-installation-long-island | Hanwha Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | hanwha-camera-installation-hudson-valley | Hanwha Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | axis-camera-installation-nyc | Axis Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | axis-camera-installation-long-island | Axis Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+TODO | axis-camera-installation-hudson-valley | Axis Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+TODO | swann-camera-installation-nyc | Swann Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-11T15:02Z factory | swann-camera-installation-long-island | Swann Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-11T15:02Z factory | swann-camera-installation-hudson-valley | Swann Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-11T15:02Z factory | wyze-camera-installation-nyc | Wyze Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -1414,7 +1414,7 @@ TODO | eufy-camera-installation-putnam-county | eufy Camera Installation | Putna
 TODO | eufy-camera-installation-dutchess-county | eufy Camera Installation | Dutchess | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | eufy-camera-installation-ulster-county | eufy Camera Installation | Ulster | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | hanwha-camera-installation-manhattan | Hanwha Camera Installation | Manhattan | up /hanwha-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | hanwha-camera-installation-queens | Hanwha Camera Installation | Queens | up /hanwha-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | hanwha-camera-installation-bronx | Hanwha Camera Installation | Bronx | up /hanwha-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | hanwha-camera-installation-staten-island | Hanwha Camera Installation | Staten Island | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1479,7 +1479,7 @@ TODO | blink-camera-installation-putnam-county | Blink Camera Installation | Put
 TODO | blink-camera-installation-dutchess-county | Blink Camera Installation | Dutchess | up /blink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | blink-camera-installation-ulster-county | Blink Camera Installation | Ulster | up /blink-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | tp-link-tapo-camera-installation-manhattan | Tapo Camera Installation | Manhattan | up /tp-link-tapo-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | tp-link-tapo-camera-installation-brooklyn | Tapo Camera Installation | Brooklyn | up /tp-link-tapo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | tp-link-tapo-camera-installation-brooklyn | Tapo Camera Installation | Brooklyn | up /tp-link-tapo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | tp-link-tapo-camera-installation-queens | Tapo Camera Installation | Queens | up /tp-link-tapo-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | tp-link-tapo-camera-installation-bronx | Tapo Camera Installation | Bronx | up /tp-link-tapo-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | tp-link-tapo-camera-installation-staten-island | Tapo Camera Installation | Staten Island | up /tp-link-tapo-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1492,7 +1492,7 @@ TODO | tp-link-tapo-camera-installation-putnam-county | Tapo Camera Installation
 TODO | tp-link-tapo-camera-installation-dutchess-county | Tapo Camera Installation | Dutchess | up /tp-link-tapo-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | tp-link-tapo-camera-installation-ulster-county | Tapo Camera Installation | Ulster | up /tp-link-tapo-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | amcrest-camera-installation-manhattan | Amcrest Camera Installation | Manhattan | up /amcrest-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | amcrest-camera-installation-brooklyn | Amcrest Camera Installation | Brooklyn | up /amcrest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | amcrest-camera-installation-brooklyn | Amcrest Camera Installation | Brooklyn | up /amcrest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | amcrest-camera-installation-queens | Amcrest Camera Installation | Queens | up /amcrest-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | amcrest-camera-installation-bronx | Amcrest Camera Installation | Bronx | up /amcrest-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | amcrest-camera-installation-staten-island | Amcrest Camera Installation | Staten Island | up /amcrest-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1505,7 +1505,7 @@ TODO | amcrest-camera-installation-putnam-county | Amcrest Camera Installation |
 TODO | amcrest-camera-installation-dutchess-county | Amcrest Camera Installation | Dutchess | up /amcrest-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | amcrest-camera-installation-ulster-county | Amcrest Camera Installation | Ulster | up /amcrest-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | night-owl-camera-installation-manhattan | Night Owl Camera Installation | Manhattan | up /night-owl-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | night-owl-camera-installation-brooklyn | Night Owl Camera Installation | Brooklyn | up /night-owl-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | night-owl-camera-installation-brooklyn | Night Owl Camera Installation | Brooklyn | up /night-owl-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | night-owl-camera-installation-queens | Night Owl Camera Installation | Queens | up /night-owl-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | night-owl-camera-installation-bronx | Night Owl Camera Installation | Bronx | up /night-owl-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | night-owl-camera-installation-staten-island | Night Owl Camera Installation | Staten Island | up /night-owl-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1518,7 +1518,7 @@ TODO | night-owl-camera-installation-putnam-county | Night Owl Camera Installati
 TODO | night-owl-camera-installation-dutchess-county | Night Owl Camera Installation | Dutchess | up /night-owl-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | night-owl-camera-installation-ulster-county | Night Owl Camera Installation | Ulster | up /night-owl-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | alarm-com-camera-installation-manhattan | Alarm.com Camera Installation | Manhattan | up /alarm-com-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | alarm-com-camera-installation-brooklyn | Alarm.com Camera Installation | Brooklyn | up /alarm-com-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | alarm-com-camera-installation-brooklyn | Alarm.com Camera Installation | Brooklyn | up /alarm-com-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | alarm-com-camera-installation-queens | Alarm.com Camera Installation | Queens | up /alarm-com-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | alarm-com-camera-installation-bronx | Alarm.com Camera Installation | Bronx | up /alarm-com-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | alarm-com-camera-installation-staten-island | Alarm.com Camera Installation | Staten Island | up /alarm-com-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1531,7 +1531,7 @@ TODO | alarm-com-camera-installation-putnam-county | Alarm.com Camera Installati
 TODO | alarm-com-camera-installation-dutchess-county | Alarm.com Camera Installation | Dutchess | up /alarm-com-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | alarm-com-camera-installation-ulster-county | Alarm.com Camera Installation | Ulster | up /alarm-com-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | annke-camera-installation-manhattan | ANNKE Camera Installation | Manhattan | up /annke-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T12:02Z factory | annke-camera-installation-brooklyn | ANNKE Camera Installation | Brooklyn | up /annke-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+TODO | annke-camera-installation-brooklyn | ANNKE Camera Installation | Brooklyn | up /annke-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | annke-camera-installation-queens | ANNKE Camera Installation | Queens | up /annke-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | annke-camera-installation-bronx | ANNKE Camera Installation | Bronx | up /annke-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | annke-camera-installation-staten-island | ANNKE Camera Installation | Staten Island | up /annke-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
