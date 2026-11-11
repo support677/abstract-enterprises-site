@@ -228,9 +228,9 @@ LIVE | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Gr
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
 TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
-TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-11T15:02Z factory | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | mag-lock-installation-manhattan | Mag Lock Installation | Manhattan | up /mag-lock-installation-nyc | (929) 560-0737 | GBP Bronx
 TODO | mag-lock-installation-brooklyn | Mag Lock Installation | Brooklyn | up /mag-lock-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | mag-lock-installation-queens | Mag Lock Installation | Queens | up /mag-lock-installation-nyc | (347) 434-6392 | GBP Bronx
@@ -1083,9 +1083,9 @@ BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-nyc | Axis Camera 
 BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-long-island | Axis Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 BUILDING 2026-11-11T12:02Z factory | axis-camera-installation-hudson-valley | Axis Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 BUILDING 2026-11-11T12:02Z factory | swann-camera-installation-nyc | Swann Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | swann-camera-installation-long-island | Swann Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
-TODO | swann-camera-installation-hudson-valley | Swann Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
-TODO | wyze-camera-installation-nyc | Wyze Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | swann-camera-installation-long-island | Swann Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | swann-camera-installation-hudson-valley | Swann Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
+BUILDING 2026-11-11T15:02Z factory | wyze-camera-installation-nyc | Wyze Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | wyze-camera-installation-long-island | Wyze Camera Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | wyze-camera-installation-hudson-valley | Wyze Camera Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 LIVE | blink-camera-installation-nyc | Blink Camera Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
@@ -1161,7 +1161,7 @@ TODO | luminys-camera-installation-manhattan | Luminys Camera Installation | Man
 LIVE | luminys-camera-installation-brooklyn | Luminys Camera Installation | Brooklyn | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | luminys-camera-installation-queens | Luminys Camera Installation | Queens | up /luminys-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | luminys-camera-installation-bronx | Luminys Camera Installation | Bronx | up /luminys-camera-installation-nyc | (646) 490-0629 | GBP Bronx
-TODO | luminys-camera-installation-staten-island | Luminys Camera Installation | Staten Island | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | luminys-camera-installation-staten-island | Luminys Camera Installation | Staten Island | up /luminys-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | luminys-camera-installation-nassau-county | Luminys Camera Installation | Nassau | up /luminys-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | luminys-camera-installation-suffolk-county | Luminys Camera Installation | Suffolk | up /luminys-camera-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | luminys-camera-installation-westchester-county | Luminys Camera Installation | Westchester | up /luminys-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
@@ -1174,7 +1174,7 @@ TODO | reolink-camera-installation-manhattan | Reolink Camera Installation | Man
 LIVE | reolink-camera-installation-brooklyn | Reolink Camera Installation | Brooklyn | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | reolink-camera-installation-queens | Reolink Camera Installation | Queens | up /reolink-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | reolink-camera-installation-bronx | Reolink Camera Installation | Bronx | up /reolink-camera-installation-nyc | (646) 490-0629 | GBP Bronx
-TODO | reolink-camera-installation-staten-island | Reolink Camera Installation | Staten Island | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | reolink-camera-installation-staten-island | Reolink Camera Installation | Staten Island | up /reolink-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | reolink-camera-installation-nassau-county | Reolink Camera Installation | Nassau | up /reolink-camera-installation-long-island | (516) 346-5778 | GBP Brooklyn
 TODO | reolink-camera-installation-suffolk-county | Reolink Camera Installation | Suffolk | up /reolink-camera-installation-long-island | (631) 407-2884 | GBP Brooklyn
 TODO | reolink-camera-installation-westchester-county | Reolink Camera Installation | Westchester | up /reolink-camera-installation-hudson-valley | (914) 877-2578 | GBP Bronx
@@ -1444,7 +1444,7 @@ TODO | eyemax-camera-installation-putnam-county | Eyemax Camera Installation | P
 TODO | eyemax-camera-installation-dutchess-county | Eyemax Camera Installation | Dutchess | up /eyemax-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | eyemax-camera-installation-ulster-county | Eyemax Camera Installation | Ulster | up /eyemax-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | first-alert-camera-installation-manhattan | First Alert Camera Installation | Manhattan | up /first-alert-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | first-alert-camera-installation-brooklyn | First Alert Camera Installation | Brooklyn | up /first-alert-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | first-alert-camera-installation-brooklyn | First Alert Camera Installation | Brooklyn | up /first-alert-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | first-alert-camera-installation-queens | First Alert Camera Installation | Queens | up /first-alert-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | first-alert-camera-installation-bronx | First Alert Camera Installation | Bronx | up /first-alert-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | first-alert-camera-installation-staten-island | First Alert Camera Installation | Staten Island | up /first-alert-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1457,7 +1457,7 @@ TODO | first-alert-camera-installation-putnam-county | First Alert Camera Instal
 TODO | first-alert-camera-installation-dutchess-county | First Alert Camera Installation | Dutchess | up /first-alert-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | first-alert-camera-installation-ulster-county | First Alert Camera Installation | Ulster | up /first-alert-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | geovision-camera-installation-manhattan | GeoVision Camera Installation | Manhattan | up /geovision-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | geovision-camera-installation-brooklyn | GeoVision Camera Installation | Brooklyn | up /geovision-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | geovision-camera-installation-brooklyn | GeoVision Camera Installation | Brooklyn | up /geovision-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | geovision-camera-installation-queens | GeoVision Camera Installation | Queens | up /geovision-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | geovision-camera-installation-bronx | GeoVision Camera Installation | Bronx | up /geovision-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | geovision-camera-installation-staten-island | GeoVision Camera Installation | Staten Island | up /geovision-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1597,7 +1597,7 @@ TODO | home-automation-installation-ulster-county | Home Automation Installation
 TODO | home-security-system-installation-long-island | Home Security System Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | home-security-system-installation-hudson-valley | Home Security System Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | home-security-system-installation-manhattan | Home Security System Installation | Manhattan | up /home-security-system-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | home-security-system-installation-brooklyn | Home Security System Installation | Brooklyn | up /home-security-system-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | home-security-system-installation-brooklyn | Home Security System Installation | Brooklyn | up /home-security-system-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | home-security-system-installation-queens | Home Security System Installation | Queens | up /home-security-system-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | home-security-system-installation-bronx | Home Security System Installation | Bronx | up /home-security-system-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | home-security-system-installation-staten-island | Home Security System Installation | Staten Island | up /home-security-system-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1612,7 +1612,7 @@ TODO | home-security-system-installation-ulster-county | Home Security System In
 TODO | burglar-alarm-installation-long-island | Burglar Alarm Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | burglar-alarm-installation-hudson-valley | Burglar Alarm Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
 TODO | burglar-alarm-installation-manhattan | Burglar Alarm Installation | Manhattan | up /burglar-alarm-installation-nyc | (929) 560-0737 | GBP Bronx
-TODO | burglar-alarm-installation-brooklyn | Burglar Alarm Installation | Brooklyn | up /burglar-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T15:02Z factory | burglar-alarm-installation-brooklyn | Burglar Alarm Installation | Brooklyn | up /burglar-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | burglar-alarm-installation-queens | Burglar Alarm Installation | Queens | up /burglar-alarm-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | burglar-alarm-installation-bronx | Burglar Alarm Installation | Bronx | up /burglar-alarm-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | burglar-alarm-installation-staten-island | Burglar Alarm Installation | Staten Island | up /burglar-alarm-installation-nyc | (347) 934-8335 | GBP Brooklyn
