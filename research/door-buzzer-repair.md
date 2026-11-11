@@ -7979,3 +7979,39 @@ Data area: Brooklyn Community Board 3 (close to, not identical with, the neighbo
 - A neighbor's renovation killed our intercom — who pays? — Habitat Magazine — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
 - Repair or replace a broken buzzer in a small apartment building? — result title — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
 - Why is there static / noise on the intercom? — 2N result title — https://www.2n.com/en-AU/blog/noise-interference-in-office-and-apartment-intercom-systems-how-to-fix-it/
+
+## Gerritsen Beach, Brooklyn — /door-buzzer-repair-gerritsen-beach-brooklyn-ny (factory research, 2026-11-11)
+
+- 311 Open Data (erm2-nwe9), queried 2026-11-11: since 2018, 16 BELL/BUZZER/INTERCOM requests in ZIP 11229 south of latitude 40.5952 (roughly south of Avenue X); only 1 is on the peninsula: 12 Bevy Court, created 2026-10-05, closed. The rest are 1900 Avenue W (6, March 2025), 2781 Ocean Ave (3), 2304 E 12 St (3), 1200 Gravesend Neck Rd (2), 2315 E 22 St (1) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- 311 Open Data, ZIP 11229 BELL/BUZZER/INTERCOM by year: 2020 23, 2021 15, 2022 27, 2023 22, 2024 16, 2025 33, 2026 24 (to Nov 11); 122 since 2022, 7th lowest of 37 Brooklyn ZIPs (top 11226 = 1,571) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- HPD violations (wvxf-dwi5), queried 2026-11-11: 265 intercom/buzzer violations in all of ZIP 11229; zero on Gerritsen Avenue or Knapp Street; zero on any peninsula court; ZIP records cluster on Ocean Ave, Nostrand Ave, Kings Hwy and the Homecrest E-streets — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- PLUTO (carried G3/G4): peninsula study area = 1,429 residential lots, 1,589 units, average year built 1935; 1,264 one-family, 156 two-family, 2 three-family, 5 mixed store buildings, zero buildings of 4+ units — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- 2265 Gerritsen Ave (east side of the avenue, often marketed as "Gerritsen Beach"; Compass labels it Marine Park): 7-story, 100-unit co-op built 1962 with "Voice Intercom", "Secure Lobby", "Resident Superintendent" — https://www.compass.com/homedetails/2265-Gerritsen-Ave-Unit-5C-Brooklyn-NY-11229/19CAQZ_pid/ ; also marketed as Gerritsen Beach: https://www.linecity.com/listing/3730896/2265-Gerritsen-Ave-Gerritsen-Beach-Brooklyn-NY-Sale
+- 2229 Knapp St Unit 1H listed as "Gerritsen Beach, NY 11229", building built 1951, "Intercom to Front Desk" — https://www.homes.com/property/2229-knapp-st-gerritsen-beach-ny-unit-1h/k5br1c5qmh129/
+- 116 Gain Court listing: "Prewar Townhouse Built 1925 in Gerritsen Beach / Southeastern Brooklyn | Intercom And No Elevator" — https://www.urbandigs.com/building/116-gain-court-brooklyn/house/sale-listing/
+- DNAinfo, May 11 2016 (Katie Honan): Gerritsen Beach family back after 14 months of Build It Back lift; steel exterior staircases collected water and rusted around drain holes; photo caption: under the house "loose wires were left near insulation" — https://www.dnainfo.com/new-york/20160511/gerritsen-beach/brooklyn-family-struggles-with-home-problems-from-citys-sandy-fixes
+- Build It Back Repair-with-Elevation construction FAQ: homeowners must "make arrangements to be out of your home during the elevation process"; inspections "prior to elevation, during elevation, and upon completion of the new foundation"; scope may grow "if opening up a wall reveals additional electrical repair needs"; doorbells/low-voltage not addressed — https://www.nyc.gov/site/housingrecovery/programs/repair_with_elevation_program_construction_faq.page
+- FEMA P-2181 Fact Sheet 3.4.2 (March 2022): "Elevate all primary electrical system components and, wherever possible, secondary components"; where not possible, "corrosion-resistant conduit systems that allow flood-damaged conductors to be replaced"; lists communications and security systems among electrical systems — https://www.fema.gov/sites/default/files/documents/fema_p-2181-fact-sheet-3-4-2-building-systems-electrical.pdf
+- Ring hardwiring guidelines: Video Doorbell Wired 10–24VAC 8–40VA; Wired Doorbell Plus/Pro/2K Plus and 4K Pro 16–24VAC 10–40VA; "Wired Doorbell 4K Pro and Wired Doorbell 2K Plus are not compatible with existing chimes"; "Using incompatible power sources can damage your device" — https://ring.com/us/en/support/articles/utvz2/Guidelines-for-Hardwiring-Your-Ring-Video-Doorbell
+- Angi (undated) wired doorbell guide: causes = tripped circuit, loose wiring, silent chime, broken button, faulty transformer; doorbells use "usually just 10 or 20 volts"; transformer part $20–$35, electrician install $150–$250, whole system $250–$400; "you'll need a licensed electrician to replace it" — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- Bob Vila (Donna Boyle Schwartz, modified 2020-10-20): buttons blocked by "a clog from airborne dirt or spider nests"; wires "exposed to water; damaged by rodents; or simply become bent, twisted, or frayed" — https://www.bobvila.com/articles/doorbell-not-working/
+- NYC DOB: line-voltage work needs a licensed electrician and permit (carried S-G9) — https://www.nyc.gov/site/buildings/property-or-business-owner/project-requirements-owner-electrical.page
+- Reddit r/electrical thread asks whether old "cloth insulated wires" are safe to reconnect to a doorbell chime; r/AskEngineers "Help fixing 1940s doorbell" with "transformer in the basement" (excerpts only) — https://www.reddit.com/r/electrical/comments/1ro6wbo/cloth_insulated_wires_safe_to_reconnect/ ; https://www.reddit.com/r/AskEngineers/comments/xsu7bi/help_fixing_1940s_doorbell/
+- Local Reddit (r/GerritsenBeach / r/Brooklyn) threads about buzzers or doorbells in Gerritsen Beach — EMPTY (none found)
+- Yelp 1–3★ reviews for doorbell/intercom repair in Gerritsen Beach — EMPTY
+- Local news (Brooklyn Paper, Patch, News12) about buzzers/intercoms in Gerritsen Beach — EMPTY
+- DOB permits / LPC: no historic district on the peninsula; no LPC constraint found — EMPTY
+
+### Questions people ask — Door Buzzer Repair in Gerritsen Beach
+- Why did my doorbell stop working after rain? — Bing / DuckDuckGo-style related search — https://www.bobvila.com/articles/doorbell-not-working/
+- Who do I call to fix a doorbell, an electrician or a handyman? — PASF — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- How much does it cost to repair a wired doorbell? — PAA — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- Why does my doorbell ring constantly / keep buzzing? — PAA (Angi FAQ) — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- Where is my doorbell transformer? — Reddit — https://www.reddit.com/r/vancouver/comments/18ndeb9/doorbell_transformer_1958_bungalow/
+- Are old cloth-insulated doorbell wires safe to reconnect? — Reddit — https://www.reddit.com/r/electrical/comments/1ro6wbo/cloth_insulated_wires_safe_to_reconnect/
+- Will my existing doorbell wiring power a video doorbell? — PASF — https://ring.com/us/en/support/articles/utvz2/Guidelines-for-Hardwiring-Your-Ring-Video-Doorbell
+- Does a video doorbell work with my old chime? — PAA — https://ring.com/us/en/support/articles/utvz2/Guidelines-for-Hardwiring-Your-Ring-Video-Doorbell
+- What is a fair quote for doorbell wiring? — Reddit — https://www.reddit.com/r/electrical/comments/1vdtw7i/fair_quote_for_doorbell_wiring/
+- Is it worth repairing an old intercom in a small building or replacing it? — Bing — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Who is responsible for fixing the intercom in a co-op? — PAA — https://butterflymx.com/blog/intercom-repair-nyc
+- Gerritsen Beach-specific questions on Reddit / Yelp — EMPTY
