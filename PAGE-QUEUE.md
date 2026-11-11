@@ -1366,7 +1366,7 @@ TODO | annke-camera-installation-putnam-county | ANNKE Camera Installation | Put
 TODO | annke-camera-installation-dutchess-county | ANNKE Camera Installation | Dutchess | up /annke-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | annke-camera-installation-ulster-county | ANNKE Camera Installation | Ulster | up /annke-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | avycon-camera-installation-manhattan | AVYCON Camera Installation | Manhattan | up /avycon-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T13:51Z max-burn | avycon-camera-installation-brooklyn | AVYCON Camera Installation | Brooklyn | up /avycon-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | avycon-camera-installation-brooklyn | AVYCON Camera Installation | Brooklyn | up /avycon-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | avycon-camera-installation-queens | AVYCON Camera Installation | Queens | up /avycon-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | avycon-camera-installation-bronx | AVYCON Camera Installation | Bronx | up /avycon-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | avycon-camera-installation-staten-island | AVYCON Camera Installation | Staten Island | up /avycon-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
@@ -1379,7 +1379,7 @@ TODO | avycon-camera-installation-putnam-county | AVYCON Camera Installation | P
 TODO | avycon-camera-installation-dutchess-county | AVYCON Camera Installation | Dutchess | up /avycon-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | avycon-camera-installation-ulster-county | AVYCON Camera Installation | Ulster | up /avycon-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | capture-camera-installation-manhattan | Capture Camera Installation | Manhattan | up /capture-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-11T13:51Z max-burn | capture-camera-installation-brooklyn | Capture Camera Installation | Brooklyn | up /capture-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | capture-camera-installation-brooklyn | Capture Camera Installation | Brooklyn | up /capture-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | capture-camera-installation-queens | Capture Camera Installation | Queens | up /capture-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | capture-camera-installation-bronx | Capture Camera Installation | Bronx | up /capture-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | capture-camera-installation-staten-island | Capture Camera Installation | Staten Island | up /capture-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
