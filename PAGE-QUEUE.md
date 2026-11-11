@@ -232,7 +232,7 @@ LIVE | door-buzzer-installation-brownsville-brooklyn-ny | Door Buzzer Installati
 BUILDING 2026-11-11T18:09Z max-burn | door-buzzer-installation-bushwick-brooklyn-ny | Door Buzzer Installation | Bushwick, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:10Z max-burn | door-buzzer-installation-cadman-plaza-brooklyn-ny | Door Buzzer Installation | Cadman Plaza, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:12Z max-burn | door-buzzer-installation-canarsie-brooklyn-ny | Door Buzzer Installation | Canarsie, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-carroll-gardens-brooklyn-ny | Door Buzzer Installation | Carroll Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T18:24Z max-burn | door-buzzer-installation-carroll-gardens-brooklyn-ny | Door Buzzer Installation | Carroll Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-city-line-brooklyn-ny | Door Buzzer Installation | City Line, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-clinton-hill-brooklyn-ny | Door Buzzer Installation | Clinton Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-cobble-hill-brooklyn-ny | Door Buzzer Installation | Cobble Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
@@ -379,7 +379,7 @@ BUILDING 2026-11-11T18:05Z factory REBUILD | door-buzzer-repair-ditmas-park-broo
 BUILDING 2026-11-11T18:05Z factory REBUILD | door-buzzer-repair-downtown-brooklyn-ny | Door Buzzer Repair | Downtown Brooklyn, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:05Z factory REBUILD | door-buzzer-repair-dumbo-brooklyn-ny | Door Buzzer Repair | DUMBO, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:10Z max-burn REBUILD | door-buzzer-repair-east-williamsburg-brooklyn-ny | Door Buzzer Repair | East Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-fulton-ferry-brooklyn-ny | Door Buzzer Repair | Fulton Ferry, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T18:24Z max-burn REBUILD | door-buzzer-repair-fulton-ferry-brooklyn-ny | Door Buzzer Repair | Fulton Ferry, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-gravesend-brooklyn-ny | Door Buzzer Repair | Gravesend, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-greenwood-heights-brooklyn-ny | Door Buzzer Repair | Greenwood Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-highland-park-brooklyn-ny | Door Buzzer Repair | Highland Park, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
