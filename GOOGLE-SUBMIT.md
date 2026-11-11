@@ -2360,7 +2360,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-borough-park-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brighton-beach-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-chinatown-brooklyn-ny | QUEUED
-2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-navy-yard-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny | QUEUED
@@ -2461,7 +2460,6 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-pricing-suffolk-county | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-pricing-ulster-county | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-camera-pricing-westchester-county | QUEUED
-2026-05-03 | https://www.abstractenterprisessecuritysystems.com/security-cameras-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/sms-consent | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bath-beach-brooklyn-ny | QUEUED
 2026-05-03 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-bay-ridge-brooklyn-ny | QUEUED
