@@ -279,7 +279,7 @@ LIVE | door-buzzer-installation-remsen-village-brooklyn-ny | Door Buzzer Install
 LIVE | door-buzzer-installation-ridgewood-brooklyn-ny | Door Buzzer Installation | Ridgewood, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-sea-gate-brooklyn-ny | Door Buzzer Installation | Sea Gate, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-sheepshead-bay-brooklyn-ny | Door Buzzer Installation | Sheepshead Bay, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T22:04Z max-burn | door-buzzer-installation-south-slope-brooklyn-ny | Door Buzzer Installation | South Slope, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-south-slope-brooklyn-ny | Door Buzzer Installation | South Slope, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-south-williamsburg-brooklyn-ny | Door Buzzer Installation | South Williamsburg, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:28Z max-burn | door-buzzer-installation-spring-creek-brooklyn-ny | Door Buzzer Installation | Spring Creek, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:28Z max-burn | door-buzzer-installation-starrett-city-brooklyn-ny | Door Buzzer Installation | Starrett City, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
