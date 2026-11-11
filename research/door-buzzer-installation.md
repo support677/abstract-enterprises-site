@@ -1331,3 +1331,54 @@ De-dup notes (meaning level, vs old siblings): two-family entry setup (old "I re
 - Can I report a broken buzzer to 311? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
 - What should I do about a "horrible" outside intercom in a large rental building? — Openigloo tenant review — https://www.openigloo.com/building/nyc/3331327-3003107502/brooklyn-carroll-gardens-439-hicks-street-11201
 - What is a virtual doorman and does a condo still need a buzzer? — CityRealty amenity listing (already in register in meaning) — https://www.cityrealty.com/nyc/cobble-hill/the-landmark-strong-place-58-strong-place/51892
+
+## Columbia Street Waterfront, Brooklyn — /door-buzzer-installation-columbia-street-waterfront-brooklyn-ny (factory research, 2026-11-11)
+
+Method: one web search backend plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, DuckDuckGo, Yelp and NYC Open Data (HPD/311/DOB) could not be queried directly; those rows say EMPTY.
+
+### Building stock that a door buzzer job meets here
+- Columbia Terrace, 42 Carroll Street: built 1986, 3 floors, townhouse condo, post-war, walk-up, amenity listed: "Voice Intercom" — https://www.nestseekers.com/Bldg/71468/Columbia-Terrace-42-Carroll-Street-Brooklyn-NY-11231
+- First Columbia Terrace, 250 Columbia Street (six alternate addresses on President Street): "a post-war condominium building ... finished in 1986", 27 units, walk-up — https://cityrealty.com/nyc/carroll-gardens/first-columbia-terrace-250-columbia-street/54685
+- Other Columbia Terrace addresses exist at 38 and 44 Carroll Street and a "Third Columbia Terrace" at 57 Carroll Street — https://www.corcoran.com/building/carroll-gardens/165445 ; https://www.corcoran.com/building/red-hook/22316 ; https://www.nestseekers.com/4551453/third-columbia-terrace-57-carroll-street-38a-brooklyn-ny-11231-usa
+- "By 1984, an urban renewal project was completed, as well as a brand-new street, houses along which sold out quickly"; the 1975 sewer accident led to the demolition of 33 buildings — https://wikiwand.com/EN/Columbia_Street_Waterfront_District
+- 181 Columbia Street: 1931 townhouse, 3 apartments, 3 floors, walk-up, "Voice intercom"; listing calls it "the last remaining townhouse property on the coveted Columbia Street Waterfront" — https://currentreadvisors.com/ListingDetails/2977784/181-Columbia-Street-Cobble-Hill-Brooklyn-NY-11231
+- 129 Columbia Street: 1910 pre-war townhouse rental, 4 units, 4 floors, "Voice intercom", walk-up — https://www.nestseekers.com/Bldg/175158/129-columbia-street-brooklyn-ny-11231
+- 219 Columbia Street: 1930 low-rise, mixed use, 2 units, 3 floors, walk-up — https://www.nestseekers.com/Bldg/164050/219-columbia-street-brooklyn-ny-11231
+- 279 Columbia Street: 1931, 3 stories, building class "S2 Primarily Two Family with Store or Office" — https://streeteasy.com/building/279-columbia-street-brooklyn
+- 222 Columbia Street: 2002 mid-rise condo with elevator, garage and "Video intercom" — https://www.nestseekers.com/Bldg/161945/222-columbia-street-brooklyn-ny-11231
+- 255 Columbia Street: "six-story, 13-unit Passive House building" with "triple-paned windows and mechanical ventilation with heat recovery" (Brownstoner, July 3 2014) — https://www.brownstoner.com/brooklyn-life/passive-house-condos-look-ready-for-tenants-on-columbia-street/
+- Columbia Commons, 110 Warren Street: 2010, 48-unit six-story elevator condo, intercom and a virtual doorman system rather than a doorman, underground garage — https://www.cityrealty.com/nyc/cobble-hill/columbia-commons-110-warren-street/58526
+- Columbia Hicks and Columbia Commons (GACE project): three six-story residential buildings, 136 units, "just south of Atlantic Avenue", basement-level parking — https://gace.net/projects/columbia-hicks-and-columbia-commons
+- 414 Hicks Street: 2009, 95 units, 6 floors (Openigloo) — https://www.openigloo.com/building/nyc/3394115-3003047501/brooklyn-carroll-gardens-414-hicks-street-11201
+- 1 Tiffany Place: built 1921, 70 units, 5 floors, 1 open Class B violation, one tenant review lists "24h noise from the BQE" as a con — https://www.openigloo.com/building/nyc/3003595-3003207501/brooklyn-carroll-gardens-1-tiffany-place-11201
+- 185 Columbia Street (Columbia and Degraw): six-story, ten-unit new building completed 2026 (YIMBY; page could not be re-read this session, carried from neighborhood research) — https://newyorkyimby.com/2026/07/185-columbia-street-completes-construction-in-brooklyns-columbia-street-waterfront-district.html
+
+### Rules and city data that bear on it
+- MDL §50-a as summarized by Habitat (Feb 26 2024): buildings built or converted after 1968 with eight or more units "must have a two-way voice intercom system linking the front door to each apartment"; Nancy Kourland (Lasser Law Group): "As a result, the co-op has a legal obligation to repair or replace the intercom." — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- ButterflyMX NYC repair guide: one NYC integrator's estimates "$100 to $300 for diagnostics, $500 to $1,500 for component replacement, and $1,000 to $3,000 for limited wiring repairs"; NYC311 lists "broken or missing doorbells, buzzers, and intercoms"; HPD correction periods "90 days for Class A violations, 30 days for Class B violations"; "The aim isn't to replace a system simply because it's old." — https://butterflymx.com/blog/intercom-repair-nyc
+- Habitat, "For Door Buzzers, the Future Has Arrived" (Lisa L. Colangelo, May 9 2017): Dan Arnold, Academy Mailbox: "If it's sheetrock, you can make a few holes and snake it down to the basement." / "If the walls are marble or granite, that's a little harder. But nothing is insurmountable."; ButterflyMX install roughly $5,000 to $7,000 with $2.50 per unit monthly; virtual doorman about $15,000 a year for a 28-unit building (Nicholas Silvers, paraphrased) — https://habitatmag.com/Publication-Content/Building-Operations/2017/2017-May/The-New-Buzzer
+- HPD violations / 311 intercom complaints for the district: EMPTY (NYC Open Data not reachable)
+- DOB permits for entry work in the district: EMPTY
+- LPC: no historic district found inside the district (searches returned only Carroll Gardens individual landmark hearings on President Street and Cobble Hill); EMPTY for any district-specific LPC rule — https://www.citylandnyc.org/search/Columbia%20Street,%20Brooklyn/page/2
+
+### Local conditions that change how the work is done
+- The B61 runs "north along Columbia Street and east along Atlantic Avenue into Downtown Brooklyn" — https://en.wikipedia.org/wiki/B61_and_B62_buses
+- Streetsblog (Aug 21 2026): city floats a busway; "The revamp would also close off the block of Columbia north of Hamilton Avenue entirely"; Hank Gutman: "Why are we exempting trucks on Columbia Street?"; changes "still years off" — https://nyc.streetsblog.org/2026/08/21/red-hook-busway-proposal
+- Streetsblog (Aug 24 2026): BQE cantilever rebuild via bypass, construction 2029/2030 to 2040, $4 billion; drivers take "shortcuts around the trenched section in Carroll Gardens and Cobble Hill" — https://nyc.streetsblog.org/2026/08/24/mamdani-bqe-plan-august-2026
+- Brick Underground "Living Next To" (David Colon, 2018/2019): Columbia Street resident near a slaughterhouse and garbage truck depot: trucks "start clanging around at like 4 a.m."; "The construction next door caused a big crack down the front of the building" — https://www.brickunderground.com/live/columbia-street-slaughterhouse-trash-truck-living-next
+- DNAinfo (Apr 22 2014): Warren Street home between Hicks and Columbia burglarized, police reported "no signs of forced entry" — https://www.dnainfo.com/new-york/20140422/columbia-street-waterfront-district/jewelry-cash-stolen-from-columbia-street-waterfront-home-police-say
+- Red Hook Star-Revue (Jan 9 2022): 76th Precinct meeting; officers suggested Ring cameras for package theft — https://www.star-revue.com/build-the-block-discusses-theft-and-traffic-by-nathan-weiser/
+- Local news or Reddit specifically about door buzzers in the district: EMPTY
+
+### Questions people ask — Door Buzzer Installation in Columbia Street Waterfront
+- PAA (Google): EMPTY (not accessible)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY for this district
+- Who is legally responsible for a broken intercom in a co-op or condo? — Habitat (guide, not on list) — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- What does intercom repair cost in NYC, and when should it be replaced instead? — ButterflyMX guide (not on list) — https://butterflymx.com/blog/intercom-repair-nyc
+- Can a new bell and intercom be installed after a contractor knocked out the old one in a brownstone? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/door-bell-for-3-fam-brownstone
+- Can an electric strike go on brownstone double doors? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Is a smartphone intercom cheaper than a virtual doorman for a condo? — Habitat (guide) — https://habitatmag.com/Publication-Content/Building-Operations/2017/2017-May/The-New-Buzzer
