@@ -270,7 +270,7 @@ LIVE | door-buzzer-installation-mill-basin-brooklyn-ny | Door Buzzer Installatio
 LIVE | door-buzzer-installation-new-lots-brooklyn-ny | Door Buzzer Installation | New Lots, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-new-utrecht-brooklyn-ny | Door Buzzer Installation | New Utrecht, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-ocean-hill-brooklyn-ny | Door Buzzer Installation | Ocean Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-ocean-parkway-brooklyn-ny | Door Buzzer Installation | Ocean Parkway, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-ocean-parkway-brooklyn-ny | Door Buzzer Installation | Ocean Parkway, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-park-slope-brooklyn-ny | Door Buzzer Installation | Park Slope, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-prospect-heights-brooklyn-ny | Door Buzzer Installation | Prospect Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:44Z max-burn | door-buzzer-installation-prospect-lefferts-gardens-brooklyn-ny | Door Buzzer Installation | Prospect Lefferts Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
