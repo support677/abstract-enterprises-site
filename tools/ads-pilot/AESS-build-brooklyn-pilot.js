@@ -1,6 +1,6 @@
 /* AESS Brooklyn security-camera neighborhood pilot builder. Everything is created PAUSED.
    Run Preview first: it validates every operation without changing anything. */
-var DATA_URL = 'https://abstractenterprisessecuritysystems.com/tools/ads-pilot/brooklyn-pilot-data.json';
+var DATA_URL = 'https://www.abstractenterprisessecuritysystems.com/lp/data/brooklyn-pilot.json';
 function main() {
   var DATA = JSON.parse(UrlFetchApp.fetch(DATA_URL + '?v=' + Date.now()).getContentText());
   Logger.log('Loaded ' + DATA.length + ' campaigns');
