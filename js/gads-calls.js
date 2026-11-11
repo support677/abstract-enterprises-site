@@ -8,8 +8,8 @@
    FILL THESE TWO IN from Google Ads -> Goals -> Conversions -> the website-call action -> Tag setup.
    Until both are filled in this file does nothing. */
 (function () {
-  var AW_ID = 'AW-XXXXXXXXXX';         // Google tag ID, e.g. AW-123456789
-  var CALL_LABEL = 'XXXXXXXXXXXXXXXX'; // conversion label for the website-call action
+  var AW_ID = 'AW-968360494';         // Google tag ID, e.g. AW-123456789
+  var CALL_LABEL = 'dzNpCOvporYdEK6E4M0D'; // conversion label for the website-call action
 
   if (/X{4}/.test(AW_ID) || /X{4}/.test(CALL_LABEL)) return;
 
