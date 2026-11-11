@@ -6634,3 +6634,45 @@ Method: WebSearch + WebFetch, 2026-11-10. NYC Open Data (data.cityofnewyork.us, 
 - Can rent-stabilized tenants get a rent reduction for a broken buzzer? — Brick Underground — https://www.brickunderground.com/blog/2014/12/broken_buzzers
 - Why was my 311 buzzer complaint closed without anyone fixing it? — 311 data (CB1 outcomes) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
 - Why does the buzzer sound but the door stays locked? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+
+## City Line, Brooklyn — /door-buzzer-repair-city-line-brooklyn-ny (factory research, 2026-11-11)
+
+Query box used for NYC Open Data (both datasets): ZIP 11208, longitude east of -73.8726 (Euclid Avenue), latitude 40.6655–40.6825 (about Atlantic Avenue south to just below Linden Boulevard). This is our approximation of City Line, not an official boundary.
+
+- 311 BELL/BUZZER/INTERCOM complaints in the City Line box by year: 2020 18, 2021 22, 2022 26, 2023 12, 2024 17, 2025 19, 2026 (to Nov 6) 29; 143 total — https://data.cityofnewyork.us/resource/erm2-nwe9.json (SoQL group by year, pulled Nov 11 2026 via Firecrawl)
+- Whole ZIP 11208 BELL/BUZZER/INTERCOM complaints: 2020 30, 2021 61, 2022 57, 2023 54, 2024 55, 2025 57, 2026 70 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Top addresses in the City Line box 2020–2026: 595 Autumn Ave 13 (all March–June 2026), 395 Autumn Ave 9 (2020–2021), 120 Sheridan Ave 9 (2022), 1426 Loring Ave 7 + 1426A Loring 6, 627 Emerald St 6, 735 Lincoln Ave 6, 2858 Linden Blvd 5 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- 595 Autumn Ave: 13 complaints Mar 19–Jun 23 2026; most closed "conditions observed by the inspector did not violate the housing laws"; violations issued Mar 26, Apr 9, Jun 23 — so 13 of the box's 29 complaints in 2026 came from one building — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Common 311 closures: "not able to gain access", "HPD called the telephone number on file… indicated that the condition was corrected", "attempted to conduct an inspection… unable to complete" — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Open complaints in Nov 2026 at 126 Grant Ave (two, Nov 6) and 2858 Linden Blvd (Nov 4), 563 Hemlock St (Oct 25) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- HPD violations mentioning INTERCOM in the box, 2020–2026: 2020 8, 2021 6, 2022 10, 2023 6, 2024 17, 2025 6, 2026 10 = 63; class A 14, class B 49, no class C — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- HPD wording seen locally: "PROPERLY REPAIR OR REPLACE THE BROKEN OR DEFECTIVE BELL BUZZER INTERCOM SYSTEM FROM THE BUILDING ENTRANCE DOOR TO THE APT WALL PANEL"; "REPLACE WITH NEW THE MISSING INTERCOM SYSTEM" (1059 Belmont Ave, 2R, Jan 2024); "INTERCOM, BELL AND RETURN BUZZER FROM BUILDING FRONT TO RECEIVING PANEL" (33 101 Ave, Nov 2025); "RETURN BUZZER" (628 Eldert Ln, 5G, Jun 2026) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Violation statuses seen: "FALSE CERTIFICATION" (456 Grant Ave, 1R, May 2026), "NOT COMPLIED WITH" (765 Lincoln Ave 14R; 1490 Dumont Ave 4V; 2858 Linden Blvd 11D), "FIRST NO ACCESS TO RE-INSPECT VIOLATION" (628 Eldert Ln 5G) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- High floors appear: violations at story 16 and 17 on Lincoln Ave (675, 735 Lincoln) and Eldert Lane (760 Eldert, 16G) — mid-rise and tower apartment buildings sit inside City Line alongside two-family houses; Nov 2024 cluster of four violations at 675 Lincoln Ave (1F, 10T, 12S, 16F) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- City-data estimate for City Line: 24,974 people, 0.505 sq mi; 34.7% of units in two-unit structures; 3,842 of ~10,785 units built 1939 or earlier; 1,584 built 2010–2019 — https://www.city-data.com/neighborhood/City-Line-Brooklyn-NY.html
+- Dormakaba strike troubleshooting: "A strike connected to an AC power supply will buzz unless a rectifier is installed"; "adjust door or strike to eliminate any back pressure"; "Door has warped or sagged creating excessive back pressure" — https://kb.dormakaba.com/hc/en-us/articles/39973415715227-Troubleshooting-Electric-Strikes
+- Seco-Larm: door doesn't open when strike activated → "Check that the door latch is operating properly"; strike position "may need to be adjusted by moving it or adding washers or shims" — https://www.seco-larm.com/ufaq/door-does-not-open-when-the-electric-strike-is-activated/?lang=es
+- ButterflyMX cold weather: "Metal parts contract in the cold, which can change the fit between the latch, strike plate"; "Moisture can freeze around the latch or strike area" — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- ButterflyMX NYC repair article (updated Oct 19 2026): HPD correction periods "90 days for Class A violations, 30 days for Class B violations"; one integrator "$100 to $300 for diagnostics", "$500 to $1,500 for component replacement" — https://butterflymx.com/blog/intercom-repair-nyc
+- ButterflyMX small-building: "Do not replace a system based on age alone."; "Continuous buzzing may indicate a stuck button or another entry-panel issue."; "A building-wide outage may indicate a shared power or control problem." — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- BrickUnderground repair guide: Pete Carmello (Lock and Tech): "A lot of times it's user error"; Daniel Vasquez (Paragon Security and Locksmith): core wiring typically fine even in older Lee Dan systems; "you'll need to get authorization from your building before any repair can take place" — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- BrickUnderground 2014: Sam Himmelstein: "Formal written requests tend to get more efficient responses than texts or phone calls" — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Brownstoner forum: 3-unit home owner, system "works only sporadically, and each unit is experiencing the same problems"; told $150/hr, 3-hour minimum for troubleshooting — https://www.brownstoner.com/forum/general-discussion/2000-reasonable-estimate-to-install-new-3-unit-buzzer-entry-intercom-system
+- News12 Brooklyn, Nov 14 2018: broken buzzer sparks fear at Brownsville Houses (neighboring area, NYCHA) — https://brooklyn.news12.com/broken-buzzer-sparks-fear-in-tenants-at-brownsville-houses-39484545
+- Reddit threads specific to City Line buzzers: EMPTY
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo / Yelp: EMPTY (not accessible in build env)
+- Hyperlocal news on City Line buzzers: EMPTY
+
+### Questions people ask — Door Buzzer Repair in City Line
+- Can one apartment intercom station be repaired without replacing the whole system? — vendor FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Does an audio-only intercom satisfy NYC law? — vendor FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can existing intercom wiring be reused during replacement? — vendor FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can a tenant withhold rent because an intercom is broken? — vendor FAQ / BrickUnderground — https://butterflymx.com/blog/intercom-repair-nyc
+- What happens after a 311 or HPD complaint? — vendor article heading — https://butterflymx.com/blog/intercom-repair-nyc
+- Is $2,000 reasonable to replace a 3-unit buzzer system? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/2000-reasonable-estimate-to-install-new-3-unit-buzzer-entry-intercom-system
+- Why does my strike buzz but the door not open? — manufacturer FAQ — https://www.seco-larm.com/ufaq/door-does-not-open-when-the-electric-strike-is-activated/?lang=es
+- Why does the buzzer keep buzzing continuously? — vendor article — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Does cold weather stop a buzzer from opening the door? — vendor article — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+- How do I get my landlord to fix a broken buzzer? — BrickUnderground — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Can my super fix the intercom, or do I need a technician? — BrickUnderground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Why is my apartment buzzer not ringing upstairs? — web search fan-out — https://butterflymx.com/blog/intercom-not-working/
