@@ -388,3 +388,54 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How do I get surveillance footage admitted into evidence? — legal blog — https://www.apartmentlawinsider.com/blogs/lawrence-e-goldstein/how-get-surveillance-footage-admitted-evidence
 - Does the FCC's ban affect my existing Hikvision/Dahua system? — trade press — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
 - How do I register my camera with Shomrim's network? — Boro Park 24 — https://www.boropark24.com/news/boro-park-shomrim-growing-their-camera-network
+
+## Boerum Hill, Brooklyn — /security-camera-repair-boerum-hill-brooklyn-ny (factory research, 2026-11-11)
+
+**Power events that hit recorders, PoE switches and cameras (Boerum Hill specific)**
+- Late Jan / early Feb 2026: nearly 2,000 Con Edison customers in Boerum Hill and Park Slope lost power for several days; Con Ed blamed melting snow and salt damaging underground electrical equipment, setting off a chain of failures; manholes under about five feet of ice; flickering lights and partial outages began late Friday before full loss; several traffic lights out on Third Avenue; a warming center opened at Wyckoff Gardens Houses; four restoration deadlines passed — https://abc7ny.com/post/power-outage-hundreds-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18526765/
+- Same event: Councilmember Shahana Hanif: "Families are unable to make arrangements because the estimated time of restoration keeps moving"; bodega owner Jose Biaz: "There's no power, I can't work, no lotto machine working, no EBT, no credit card, nothing is working" — https://abc7ny.com/post/power-outage-hundreds-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18526765/
+- News 12 (Feb 2 2026): Con Edison reported 1,632 customers without power Monday night; residents and businesses without power and heat for four days; wine store owner said lights began flickering Friday, power went down Sunday about 6 p.m.; he rented a generator — https://brooklyn.news12.com/more-than-1000-boerum-hill-and-park-slope-customers-without-heat-and-power
+- Council Member Hanif letter to Con Edison, Feb 1 2026 — https://council.nyc.gov/shahana-hanif/2026/02/02/letter-to-con-edison/
+
+**Local incidents where camera footage mattered**
+- Mile End Delicatessen, 97 Hoyt St (Dec 20, 2016, ~4:15 a.m.): thief pried a window with a screwdriver, took about $2,100 in electronics incl. the iPad that ran delivery systems; "Surveillance video shows the thief crawling into the restaurant through a ground-level window" — https://www.dnainfo.com/new-york/20161230/boerum-hill/mile-end-delicatessen-burglary-theft-nypd
+- Sept. 9 (year not stated in text): Blank Street Coffee (Bergen Street) and Piccola Cucina Casa, same block, front glass doors smashed, $100 and $1,000 taken; "Authorities are reviewing nearby security footage in an effort to identify the suspects." — https://www.brooklynpaper.com/boerum-hill-businesses-break-ins
+- Dec 12, 2023: four people went into a business at 166 Smith St and took nearly $17,000 of merchandise; fled in a gray Chevy Malibu; surveillance not mentioned — https://brooklyn.news12.com/police-17000-worth-of-merchandise-stolen-from-boerum-hill-business-suspects-at-large
+- Nov. 27 (year not stated), Bond Street: about $3,500 in packages taken including a Ring Doorbell camera; "Cops said they are checking nearby cameras to identify the perp." Same 84th Precinct report: on Fulton Street "there was no surveillance footage available to identify the perp." — https://www.brooklynpaper.com/84th-precinct-parcel-thief-hits-boerum-hill
+
+**Landmark rules (Boerum Hill Historic District 1973 + 2018 extension)**
+- LPC Permit Guidebook ch. 11: "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; small residential/commercial buildings: "no more than two security cameras can be installed for every 25 feet of street frontage" (three for large buildings); conduit "must be concealed by going through plain masonry or wall cladding behind the installation"; equipment "attached at mortar joints, plain masonry, wood, or metalwork," not "through cast iron or on any decorative surfaces"; painted to blend — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- No permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; in-kind replacement of security cameras is exempt from elevation/large-scale drawing requirements (not listed as permit-free); LPC 212-669-7817, info@lpc.nyc.gov — same source
+
+**Public housing next door (Gowanus Houses / Wyckoff Gardens)**
+- City Council public housing hearing Apr 15 2025: Council Member Chris Banks cited a DOI report: "70% of the CCTV cameras at senior buildings were inoperable or inaccessible"; NYCHA's Lauren Gray: "We go out within twenty four to seventy two hours to repair the camera"; vandalism damage typically "they've cracked it open"; some systems standalone — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+- NYCHA CCTV & layered access control replacement program document — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+
+**Tenants, landlords and broken cameras**
+- Brick Underground: tenant whose lobby camera had been broken for a while; attorney Jeffrey Reich: "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions" and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance."; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent."; no city law requires rental buildings to have working cameras — https://www.brickunderground.com/rent/stolen-packages-security-camera
+
+**Equipment and brand rules**
+- FCC Nov 2022 order: rules "prohibiting communications equipment deemed to pose an unacceptable risk to national security" from authorization; Hikvision and Dahua named; Dahua's view that "the FCC's Order does not affect products that are already authorized"; FCC sought comment on existing authorizations — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+
+**Cost benchmarks**
+- HomeAdvisor/Angi, Brooklyn surveillance camera install or repair: average $1,416; typical $680–$2,145; low–high $160–$3,500 — https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
+
+**Brownstone owners (forum)**
+- Brownstoner forum: owner's outdoor camera failed after 15 years; power supply and DVR connection checked, camera itself the problem; camera "22 feet up in the air," needs a tall ladder — https://www.brownstoner.com/forum-archive/2011/05/replacing-a-vid
+
+**Empty**
+- DOB permits for camera repair in Boerum Hill: EMPTY
+- 311/HPD complaint data on cameras for 11201/11217: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) about camera repair in Boerum Hill: EMPTY
+- Yelp complaints about camera repair near Boerum Hill: EMPTY
+
+### Questions people ask — Security Camera Repair in Boerum Hill
+- PAA: EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How much do security camera installation & repair companies typically cost? — Angi/HomeAdvisor — https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
+- The lobby camera in my building has been broken for a while and packages keep getting stolen — what can tenants do? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- My outdoor camera failed after 15 years; the power supply and DVR check out — who can troubleshoot and replace a camera 22 feet up? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2011/05/replacing-a-vid
