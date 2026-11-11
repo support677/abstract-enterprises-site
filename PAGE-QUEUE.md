@@ -260,7 +260,7 @@ BUILDING 2026-11-11T21:05Z factory | door-buzzer-installation-greenpoint-brookly
 BUILDING 2026-11-11T21:05Z factory | door-buzzer-installation-greenwood-heights-brooklyn-ny | Door Buzzer Installation | Greenwood Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:05Z factory | door-buzzer-installation-highland-park-brooklyn-ny | Door Buzzer Installation | Highland Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T21:18Z max-burn | door-buzzer-installation-homecrest-brooklyn-ny | Door Buzzer Installation | Homecrest, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-kensington-brooklyn-ny | Door Buzzer Installation | Kensington, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T21:19Z max-burn | door-buzzer-installation-kensington-brooklyn-ny | Door Buzzer Installation | Kensington, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-madison-brooklyn-ny | Door Buzzer Installation | Madison, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-manhattan-beach-brooklyn-ny | Door Buzzer Installation | Manhattan Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-mapleton-brooklyn-ny | Door Buzzer Installation | Mapleton, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
