@@ -386,7 +386,7 @@ LIVE | door-buzzer-repair-highland-park-brooklyn-ny | Door Buzzer Repair | Highl
 LIVE | door-buzzer-repair-manhattan-beach-brooklyn-ny | Door Buzzer Repair | Manhattan Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T19:04Z max-burn REBUILD | door-buzzer-repair-mapleton-brooklyn-ny | Door Buzzer Repair | Mapleton, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T19:04Z max-burn REBUILD | door-buzzer-repair-midwood-brooklyn-ny | Door Buzzer Repair | Midwood, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T19:04Z max-burn REBUILD | door-buzzer-repair-remsen-village-brooklyn-ny | Door Buzzer Repair | Remsen Village, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-remsen-village-brooklyn-ny | Door Buzzer Repair | Remsen Village, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T19:04Z max-burn REBUILD | door-buzzer-repair-south-slope-brooklyn-ny | Door Buzzer Repair | South Slope, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-spring-creek-brooklyn-ny | Door Buzzer Repair | Spring Creek, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-starrett-city-brooklyn-ny | Door Buzzer Repair | Starrett City, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
