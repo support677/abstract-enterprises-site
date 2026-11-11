@@ -126,9 +126,9 @@
 
   /* ---- Events -------------------------------------------------------- */
   function safe(fn) { try { fn(); } catch (_) {} }
-  function lead() {
+  function lead(skipGoogleEvent) {
     if (on.google) safe(function () {
-      window.gtag('event', 'generate_lead');
+      if (skipGoogleEvent !== true) window.gtag('event', 'generate_lead');
       if (ID.googleLeadSendTo) window.gtag('event', 'conversion', { send_to: ID.googleLeadSendTo });
     });
     if (on.microsoft) safe(function () { window.uetq.push('event', 'submit_lead_form', {}); });
@@ -168,6 +168,6 @@
     lead();
   }, true);
 
-  /* For the camera quote builder, which sends without a <form> submit. */
-  window.aessTagsLead = lead;
+  /* For the camera quote builder, which sends without a <form> submit (it fires its own gtag generate_lead). */
+  window.aessTagsLead = function () { lead(true); };
 })();
