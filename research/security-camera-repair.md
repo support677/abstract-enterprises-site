@@ -137,3 +137,56 @@
 - Do I need Landmarks permission to replace a camera on my brownstone? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Is it worth fixing an old DVR or should I replace it? — industry articles — https://digital-watchdog.com/posts/Should-You-Upgrade-Your-Existing-Security-Cameras-or-Replace-Them-/
 - Why did my cameras stop after a power outage? — inferred from News 12/Brooklyn Eagle outage coverage — https://brooklyneagle.com/364562/hundreds-without-power-in-bed-stuy-as-temps-hit-single-digits/
+
+## Bay Ridge, Brooklyn — /security-camera-repair-bay-ridge-brooklyn-ny (factory research, 2026-11-11)
+
+**Local incidents where camera footage mattered**
+- Aug. 28, 2026, between 3 a.m. and 4:30 a.m.: thieves broke into several closed Bay Ridge restaurants, including Bar Chuzo on Third Avenue, Cebu on 88th Street and Kettle Black on 87th Street; an office door was kicked in and a safe broken open; "surveillance cameras show a hooded figure breaking into a closed restaurant in Bay Ridge," searching the basement with a flashlight at 3:30 a.m.; police advised nearby restaurants to activate alarms, check entry points and add lighting — https://abc7ny.com/post/thieves-break-several-restaurants-bay-ridge-overnight/19755070/
+- Aug. 30 and Sept. 5, 2022: six early-morning burglaries of Bay Ridge businesses, several on Third Avenue (Cebu lost more than $4,000, another Third Avenue restaurant about $12,000, Fantastic Bagels more than $3,700), about $28,000 in total; footage from Fantastic Bagels showed two people outside and a thief going "straight for the cash register"; detectives sought two men "seen on surveillance video at a gas station" — https://www.cbsnews.com/newyork/news/nypd-suspects-wanted-for-stealing-28000-in-string-of-bay-ridge-robberies
+- Dec. 2024: three suspects with sledgehammers tried to break the glass of Pyramids Jewelry, 6911 Fifth Avenue, in the afternoon, then fled in a blue Honda; surveillance footage obtained by News 12; a worker at a nearby candy store said "we should have this, and more cameras"; nearby businesses reconsidering security — https://brooklyn.news12.com/businesses-mull-adding-extra-security-following-attempted-break-in-with-sledgehammers-at-bay-ridge-jewelry-store
+- Sept. 8, 2016: two packages (Macy's and Amazon) stolen from a stoop on Narrows Avenue; the homeowner gave police surveillance footage of a man walking up the stoop; 68th Precinct: "We don't have any pattern." — https://brooklynreporter.com/2016/09/package-theft-from-ridge-stoop-has-homeowner-wary/
+
+**Police, public cameras and the 68th Precinct**
+- Nov. 2020: Council Member Justin Brannan allocated $275,000 for 10 NYPD Argus cameras at five sites (two per site) in District 43 (Bay Ridge, Dyker Heights, parts of Bath Beach and Bensonhurst); NYPD says cameras are most useful in quieter areas with little nighttime foot traffic; police said most crimes in the 62nd and 68th precincts involve people stealing items from unlocked vehicles; Brannan: "The NYPD has been able to make arrests in some cases based on camera footage." — https://brooklynreporter.com/2020/11/security-cameras-going-up-to-fight-crime-surge
+- 2018: residents of Fifth Avenue between 80th and 81st Streets asked Community Board 10 for a camera at Fifth Avenue and 81st Street after late-night fights and a reported gunshot call on Feb. 26; CB10 district manager Josephine Beckmann: NYPD cameras are funded through elected officials' allocations — https://brooklyneagle.com/articles/2018/03/06/fifth-ave-residents-seek-community-board-10s-help-to-get-security-camera/
+- 2013: NYPD approved security cameras for Bay Ridge, including 86th Street (Recchia/Gentile allocations) — https://brooklyneagle.com/articles/2013/05/30/recchia-gets-nypd-to-install-security-cameras-on-86th-street/
+- 68th Precinct (Deputy Inspector Andrew Tolson, Oct. community council meeting, year not stated on page, likely 2022): "burglaries are down 19% compared to this time last year, and the number of robberies has remained static"; grand larceny up; "Cops can't be on every corner." — https://www.brooklynpaper.com/nypd-68th-precinct-debunks-bay-ridge-wave
+- NYPD Connect New York (May 2024 pilot): "Connect New York integrates the participating businesses' security cameras directly with the NYPD, allowing police to view their security footage in real-time." — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+- Whether Bay Ridge / 68th Precinct is part of Connect New York: EMPTY
+
+**Buildings, landmarks and rules that change camera repair here**
+- Bay Ridge Parkway–Doctors' Row Historic District, designated June 25, 2019: 54 two-story-and-basement limestone row houses built 1906–1913 on Bay Ridge Parkway between Fourth and Fifth Avenues, Bay Ridge's first historic district — https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page
+- LPC Permit Guidebook (health and safety equipment): staff can approve security cameras; "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; small residential or commercial buildings no more than two cameras per 25 feet of street frontage (large buildings three); equipment "must not be attached through cast iron or on any decorative surfaces"; up to about ten inches of visible conduit, painted to match; no permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; manufacturer cut sheets required for camera applications — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Housing: "most of Bay Ridge's multi-dwelling buildings are co-ops that have been maintained and upgraded over the years"; many co-ops along Shore Road facing the water; condo examples 6911 Shore Rd (three buildings, 2002) and 9917 Shore Rd (2006); R train is the only subway line (Brick Underground, Nov. 30, 2017) — https://www.brickunderground.com/buy/bay-ridge-brooklyn-real-estate-community
+- Landlord cameras: owners may place cameras in common areas such as hallways but "aren't allowed to set up the cameras in a way that allows them to 'see' into individual apartments" (Brick Underground, 2017) — https://www.brickunderground.com/troubleshooting/landlords-using-surveillance-cameras
+- Oct. 30, 2025 storm: 1.80 inches of rain; flooding on Fort Hamilton Parkway to Marine Avenue, Third Avenue and 79th Street storefronts (about 4:20 p.m.), Shore Road and 86th Street (water halfway up a car's wheels), Fifth Avenue at 74th and 80th Streets; resident: "Yes, the sewers are old. We know that." — https://brooklynreporter.com/2025/10/fast-and-fierce-rainfall-floods-parts-of-bay-ridge
+- DOB permits for camera work in Bay Ridge: EMPTY
+- 311 complaint counts about cameras in 11209/11220: EMPTY
+
+**Equipment and supply rules that affect repairs**
+- Nov. 2022: FCC rules prohibit new equipment authorizations for covered companies including Hikvision and Dahua; Dahua said the order "does not affect products that are already authorized"; FCC sought comment on existing authorizations — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- NYS license required to install or maintain security systems (19 NYCRR 195.2 covers CCTV used for intrusion/theft detection); owner self-install exempt — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- Workplace cameras: NY Labor Law 203-c notice requirement for employers — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+
+**Prices published by others**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-to-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Thumbtack general FAQ: "$100 for a single-camera line installation to $1,000-$2,200 for an entire system" — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+
+**Reddit / Yelp**
+- r/BayRidge, r/Brooklyn, r/AskNYC threads about camera repair in Bay Ridge: EMPTY (none surfaced in search)
+- Yelp reviews for camera repair in Bay Ridge: EMPTY (only Thumbtack/Angi directory listings surfaced)
+
+### Questions people ask — Security Camera Repair in Bay Ridge
+- PAA (Google People Also Ask): EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit questions: EMPTY
+- Recorder or camera not recording, how do I fix it? — vendor support (Swann) — https://support.swann.com/hc/en-us/articles/58744108265753
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can my landlord use hallway camera footage against me? — Brick Underground — https://new.brickunderground.com/roommates-landlords/as-landlords-use-security-camera-footage-against-tenants-in-court-heres-how-to-protect-your-privacy
+- How many cameras do you want installed / what kind of location is this? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Who can install security cameras? — Thumbtack — https://www.thumbtack.com/ny/brooklyn/home-security-camera-installers
+- Do I need a permit to put a camera on a landmarked building? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Can my store share its cameras with the NYPD? — Connect New York coverage — https://politicsny.com/2024/05/16/candid-cameras-nyc-retail-shops-can-start-sharing-security-footage-directly-with-nypd-under-pilot/
+- Can I still get parts for my Hikvision or Dahua system? — Security Sales on FCC order — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
