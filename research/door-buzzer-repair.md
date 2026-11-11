@@ -6475,3 +6475,55 @@ Method: WebSearch + WebFetch, 2026-11-10. NYC Open Data (data.cityofnewyork.us, 
 - My apartment only has a doorbell, no voice intercom — is that normal? — Reddit r/AskNYC — https://reddit.sentinel-team.org/posts/1qcqqmd/snapshots/2026-01-14T23%3A30%3A47.074417Z
 - How do I stop strangers ringing my buzzer to get in? — Reddit r/AskNYC — same URL
 - Can a building switch its door to fobs if tenants can't use electronics on Shabbat? — Jewish Press — https://jewishpress.com/news/breaking-news/orthodox-residents-suing-lefrak-city-over-electric-doors/2015/08/02
+
+## Bath Beach, Brooklyn — /door-buzzer-repair-bath-beach-brooklyn-ny (factory research, 2026-11-11)
+
+### Building stock and entry situations (door buzzer repair)
+- Shore Haven complex on Shore Parkway: 1491 Shore Pkwy is 42 units, 6 floors, built in 1949, "owned or managed by Shore Haven Apartments Del LLC"; 4 open violations listed on the page; one review's advice: "Modernize" — https://www.openigloo.com/building/nyc/3329069-3064890001/brooklyn-bath-beach-1491-shore-parkway-11214
+- 2064 Cropsey Ave: 41 units, 6 floors, built 1948, managed by Shore Haven Apts Del LLC; rent-stabilized units listed; 1 open violation — https://www.openigloo.com/building/nyc/3328506-3064690001/brooklyn-bath-beach-2064-cropsey-avenue-11214
+- 235 Bay 25th St: 42 units, 6 floors, built 1948, managed by Shore Haven Apartments Del LLC; 2 open violations listed — https://openigloo.com/building/nyc/3328505-3064690001/brooklyn-bath-beach-235-bay-25-street-11214
+- Columbia University digital library holds a "Shore Haven Apartments - Alexander Hamilton, Cropsey Avenue And 21 Avenue, Typical Floor Plan" sheet (named buildings within the complex) — https://dlc.library.columbia.edu/nyre/cul:d51c59zxfx
+- Shore Haven buildings (1948–49, 41–42 units) are 8+ units but pre-1968, so outside MDL §50-a's post-1968 text; city HMC buzzer/intercom maintenance still applies where a system is provided (inference from silo rules)
+- Waterview Towers I and II, 1935 Shore Pkwy: 17-story, built 1959 (Trulia says 1963), 325 units total — https://www.homes.com/building/waterview-towers-i-and-ii-brooklyn-ny/b-k78k1ypb7sd26/
+- Contello Towers, 2740 Cropsey Ave: 321 units, 17 stories, built 1962, amenities "Controlled Access" (site files it under Gravesend) — https://www.apartments.com/building/contello-towers-brooklyn-ny/gq231mw/
+- HPD publishes an apartment waiting list for "Contello Towers 2" (one-, two- and three-bedroom lists, "As of 9/3/2024"), i.e. HPD-supervised housing — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/Contello-Towers-Two.pdf
+- Contello Towers #2 Corporation listed at 2015 Shore Pkwy, Brooklyn 11214 — https://www.yelp.com/biz/contello-towers-2-corporation-brooklyn-2
+- 86th Street under the D: stores with apartments above, e.g. 1918 86th St built 1924, 2 stories, 2 units, class K4 Store/Apartments Above; 1710 86th St built 1926, 3 stories, 6 units, class S5; 1474 86th St built 1931, 2 stories, 3 units, class S2 — https://streeteasy.com/building/1918-86-street-brooklyn ; https://streeteasy.com/building/1710-86-street-brooklyn ; https://streeteasy.com/building/1474-86-street-brooklyn
+- Hurricane evacuation zones differ along 86th St: 1920 86th St zone 6, 2172 86th St zone 4 — https://streeteasy.com/building/1920-86-street-brooklyn ; https://streeteasy.com/building/2172-86-street-brooklyn
+- Co-op addresses listed in Bath Beach include 8320 Bay Parkway, 8506 19th Avenue and 1845 82nd Street (board approves work) — https://streeteasy.com/building/1920-86-street-brooklyn
+- Cropsey Ave has prewar attached apartment buildings with bay fronts between Bay 20th St and 19th Ave and from Bay 22nd to Bay 23rd — https://forgotten-ny.com/2010/07/bath-beachs-cropsey-avenue/
+- Mother-daughter houses with separate entrances, semi-detached homes, prewar and postwar co-ops — https://www.homes.com/local-guide/brooklyn-ny/bath-beach-neighborhood/
+- 150 Bay 22nd St: six rent-stabilized apartments; DOB found "state of disrepair" after a 311 complaint (Oct 2023), full vacate order Nov 2023; owners sought demolition; News 12, July 3, 2024 — https://brooklyn.news12.com/several-families-in-bath-beach-fight-to-get-homes-back-after-being-forced-out-nearly-8-months-ago
+
+### City data, rules and local news bearing on door buzzer repair
+- Jan 15, 2025, seven-story apartment building on Bay 19th Street: fire in a second-floor unit spread to the hallway; officials blamed an open door; FDNY Deputy Assistant Chief Joe Duggan: "If you leave the fire door open, that causes all sorts of problems"; 16 injured per article body — https://abc7ny.com/post/brooklyn-nyc-fire-3-people-hurt-after-blaze-breaks-bath-beach-apartment-building/15801883/
+- July 21, 2019 heat-wave outage: an estimated 3,600 Bath Beach households lost power; Con Ed spokesperson Alfonso Quiroz: "The wires were really cooking" — https://brooklyneagle.com/articles/2019/07/22/bath-beach-residents-roast-in-heat-wave-power-outage/
+- Aug 10, 2019: about 3,800 Con Ed customers in the Bath Beach–Gravesend area lost power for 90 minutes from about 5:30 p.m.; an earlier outage lasted more than five hours — https://brooklyneagle.com/articles/2019/08/16/bath-beach-residents-blast-con-ed-after-latest-power-outage/
+- Oct 14, 2026: man shot outside a Bath Beach apartment building at 8817 Bay Pkwy, 1:40 p.m. — https://hoodline.com/2026/10/bath-beach-daylight-shooting-wounds-man-32-outside-bay-parkway-building/
+- Bath Beach-specific HPD buzzer/intercom violation counts: EMPTY (NYC Open Data not reachable)
+- Bath Beach-specific 311 BELL/BUZZER/INTERCOM counts: EMPTY
+- Bath Beach DOB permits for entry-system work: EMPTY
+- LPC: no designated historic district found covering Bath Beach homes — EMPTY
+- Brick Underground, Nov 7, 2019: Pete Carmello of Brooklyn-based Lock and Tech: "A lot of times it's user error"; "Sometimes people aren't pushing a button hard enough, or not waiting long enough, it's different with each system"; Daniel Vasquez, Paragon Security and Locksmith: "It's all in the wire connections"; failures at lobby base, apartment station, door strike or power supply; core wiring in older systems typically fine; two service-call estimates $195/hr and $250/hr plus parts; five-apartment building replacement in one day, 100 units about two days — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Brick Underground, Dec 18, 2014: tenants should notify the landlord in writing; rent-stabilized tenants can file a reduction-of-services complaint with DHCR; call 311; one renter waited three months for an inspector; AG guide: landlord could be liable if a crime occurs because a door was unlocked due to a broken buzzer — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Habitat Magazine, Feb 26, 2024: co-op shareholder lost intercom about five years earlier after a neighbor's renovation; Nancy Kourland (Lasser Law Group): "the co-op has a legal obligation to repair or replace the intercom"; courts treat intercoms as "an essential service"; Andrew Freedland (Herrick Feinstein): the renovating neighbor "may be responsible for the repair"; shareholder can file 311 or an HP proceeding — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- ButterflyMX, Oct 12, 2026: "Do not replace a system based on age alone"; continuous buzzing may indicate a stuck button or entry-panel issue; a door that won't release may involve a relay, power supply, electric strike, magnetic lock or hardware; building-wide outage may indicate shared power/control problem — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- ButterflyMX (updated July 30, 2026): telephone call boxes fail when they rely on landlines being phased out or resident numbers are outdated; one unit not receiving calls points to its indoor station; intercom that won't turn on: tripped breaker, damaged transformer or disconnected power — https://butterflymx.com/blog/intercom-not-working/
+- Reddit threads about buzzers/intercoms in Bath Beach: EMPTY (searches returned only Bensonhurst/elsewhere)
+- Yelp complaints about intercom repair near Bath Beach: EMPTY (no review text retrievable)
+
+### Questions people ask — Door Buzzer Repair in Bath Beach
+- Why is my apartment intercom not working? — Bing/web FAQ — https://butterflymx.com/blog/intercom-not-working/
+- Can I fix my intercom system myself? — web FAQ — https://butterflymx.com/blog/intercom-not-working/
+- How much does it cost to replace an intercom? — web FAQ — https://butterflymx.com/blog/intercom-not-working/
+- Can only the apartment stations be replaced? — web FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Can an old buzzer be made smart without a full replacement? — web FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- What is the difference between an electric strike and a magnetic lock? — web FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- What information should an owner gather before requesting a quote? — web FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- How do I get my landlord to fix a broken buzzer? — Brick Underground — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Who is responsible for a co-op intercom that stopped working after a neighbor's renovation? — Habitat Q&A — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Is a broken buzzer user error or a real fault? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- How long does an intercom replacement take? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Google PAA / PASF / AnswerThePublic / DuckDuckGo for "door buzzer repair Bath Beach": EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
