@@ -298,8 +298,8 @@ LIVE | security-camera-repair-bensonhurst-brooklyn-ny | Security Camera Repair |
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-bergen-beach-brooklyn-ny | Security Camera Repair | Bergen Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-beverley-square-brooklyn-ny | Security Camera Repair | Beverley Square, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-boerum-hill-brooklyn-ny | Security Camera Repair | Boerum Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-borough-park-brooklyn-ny | Security Camera Repair | Borough Park, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-brighton-beach-brooklyn-ny | Security Camera Repair | Brighton Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-borough-park-brooklyn-ny | Security Camera Repair | Borough Park, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-brighton-beach-brooklyn-ny | Security Camera Repair | Brighton Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-brooklyn-chinatown-brooklyn-ny | Security Camera Repair | Brooklyn Chinatown, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-brooklyn-heights-brooklyn-ny | Security Camera Repair | Brooklyn Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-brooklyn-navy-yard-brooklyn-ny | Security Camera Repair | Brooklyn Navy Yard, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -979,7 +979,7 @@ REBUILD | alarm-installation-sheepshead-bay-brooklyn-ny | Alarm Installation | S
 REBUILD | alarm-installation-soundview-bronx-ny | Alarm Installation | Soundview, Bronx | up /alarm-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | alarm-installation-south-williamsburg-brooklyn-ny | Alarm Installation | South Williamsburg, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | alarm-installation-stuyvesant-heights-brooklyn-ny | Alarm Installation | Stuyvesant Heights, Brooklyn | up /alarm-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-bensonhurst-brooklyn-ny | Door Buzzer Repair | Bensonhurst, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T23:15Z max-burn REBUILD | door-buzzer-repair-bensonhurst-brooklyn-ny | Door Buzzer Repair | Bensonhurst, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-bergen-beach-brooklyn-ny | Door Buzzer Repair | Bergen Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-boerum-hill-brooklyn-ny | Door Buzzer Repair | Boerum Hill, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-brighton-beach-brooklyn-ny | Door Buzzer Repair | Brighton Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
