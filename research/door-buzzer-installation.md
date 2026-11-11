@@ -2280,3 +2280,38 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Does an intercom panel on a landmarked house need LPC approval, and where can it go? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Can old intercom cable be reused for a video upgrade? — Security Sales / Habitat — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
 - How long does a building intercom replacement take? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+
+## Fort Hamilton, Brooklyn — /door-buzzer-installation-fort-hamilton-brooklyn-ny (factory research, 2026-11-11)
+
+- HPD housing maintenance code violations (NYC Open Data dataset wvxf-dwi5), ZIP 11209, pulled Nov 11 2026 via the Socrata API: 64 violations citing an intercom (§ 27-2005 HMC "repair or replace the broken or defective intercom system") with inspection dates from Jan 1 2023 to Nov 11 2026 across the whole ZIP (Bay Ridge + Fort Hamilton) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Same pull, filtered by AESS to addresses south of 86th Street (numbered streets 87th–101st, and avenue/Shore Road/Ridge Boulevard/Colonial Road/Fort Hamilton Parkway addresses numbered 8600 and up, plus Marine Avenue, Gatling Place, Mackay Place, Narrows Ave 8901): 11 intercom violations at 9 addresses — 382 90th St (2), 160 88th St (2), 317 100th St, 315 87th St, 125 96th St, 8622 3rd Ave, 9224 4th Ave, 9303 Shore Rd, 9601 Shore Rd — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Wording of those violations shows what failed: "intercom system from vestibule to west wall panel" (382 90th St), "bell/buzzer intercom in the foyer" (125 96th St), "inoperative intercom system from vestibule to panel at west wall" (317 100th St), "intercom system at north wall in the private hallway" (9303 and 9601 Shore Rd) — i.e. the path from the vestibule panel to the apartment station — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Same dataset, same area filter and dates: 979 HPD violations citing self-closing doors (descriptions containing "self-closing"/"self closing") at about 160 addresses — roughly 89 door violations per intercom violation. Highest counts: 9303 Shore Rd (48), 9601 Shore Rd (41), 9511 Shore Rd (32), 9602 4th Ave (32), 9415 3rd Ave (29), 8831 Fort Hamilton Pkwy (25), 9302 Ridge Blvd (20), 450 95th St (20) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- ZIP-wide, the single address with the most intercom violations since 2023 is 8501 Fort Hamilton Parkway (13 rows, incl. "bell buzzer and return intercom system from building front entrance to all apartments", Jan 31 2026) — at 85th St, just outside the area this page covers — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- NYC 311 service requests (dataset erm2-nwe9), Brooklyn Community Board 10 (Bay Ridge, Dyker Heights, Fort Hamilton), descriptors containing "BUZZER": 2020 50, 2021 50, 2022 59, 2023 72, 2024 49, 2025 54, 2026 71 (to Nov 11) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Same 311 dataset, CB10, DOOR/WINDOW complaints since Jan 1 2023: DOOR 684, DOOR FRAME 104 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- r/AskNYC "How much does a buzzer/intercom system cost?": Brooklyn tenant in a 4-unit building notes the landlord "isn't required to put in a buzzer system or a self-locking front door" at that size — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- r/Landlord thread: owner of a 3-story multifamily considering "intercom, doorbell, door buzzer, and possibly video" — https://www.reddit.com/r/Landlord/comments/ut7rt5/landlord_general_intercom_doorbell_door_buzzer/
+- r/accesscontrol: 6-story 16-unit condo with "an older hard-wired intercom Aiphone" researching upgrades — https://www.reddit.com/r/accesscontrol/comments/1ef792a/recommendations_for_a_new_intercom_system_for_a/
+- r/chicago video-intercom residents: complaint that "the door doesn't buzz so delivery people have to be told it's open" — https://www.reddit.com/r/chicago/comments/mh7pn3/people_who_live_in_buildings_with_video_intercoms/
+- Knockli blog: NYC rule (RCNY § 42-01 cited) for 8+ unit buildings built/converted after 1968; cites HBR research that up to 20% of deliveries fail on first attempt — https://knockli.com/blog/apartment-intercom-system-repair
+- ButterflyMX apartment buzzer guide: "Shared wiring, electrical components, locks, and fire-rated doors require qualified professionals." — https://butterflymx.com/blog/apartment-buzzer/
+- Enterkey (July 2026 check): ButterflyMX panels roughly $4,000–$6,500 each plus about $30–$42 per unit per year billed to the building; phone-forwarding add-on apps $3.99–$18.99/month — https://enterkey.app/apartment-buzzer
+- NYHLS: "Wired systems last 10-15 years versus 5-8" for wireless — https://nyhls.com/blog/door-buzzer-system
+- Small newer condos south of 86th: 9718 Fort Hamilton Pkwy, a condo built 2005 (Trulia listing) — https://www.trulia.com/home/9718-fort-hamilton-pkwy-3e-brooklyn-ny-11209-64487789
+- 9303 Shore Road listed as a 23-unit rental building on Zumper, "Bay Ridge and Fort Hamilton area" — https://www.zumper.com/address/9303-shr-rd-brooklyn-ny-11209-usa
+- Competitor in area: UA Security Bay Ridge intercom page claims "Most repairs $150–$250, 30-day warranty" (not used for pricing) — https://www.uasecurity.com/intercom-systems-bay-ridge-brooklyn-new-york.htm
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo / Yelp for "door buzzer installation Fort Hamilton": EMPTY (not accessible in build env)
+- Fort Hamilton-specific Reddit thread on buzzers/intercoms: EMPTY
+
+### Questions people ask — Door Buzzer Installation in Fort Hamilton
+- How much does a buzzer/intercom system cost for a small (4-unit) Brooklyn building? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Is a landlord of a 4-unit building required to install a buzzer or a self-locking door? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- What system gives intercom, doorbell, door buzzer and video for a 3-story multifamily? — Reddit — https://www.reddit.com/r/Landlord/comments/ut7rt5/landlord_general_intercom_doorbell_door_buzzer/
+- What should a condo with an old hard-wired Aiphone intercom upgrade to? — Reddit — https://www.reddit.com/r/accesscontrol/comments/1ef792a/recommendations_for_a_new_intercom_system_for_a/
+- Do you need an electrician to install a door buzzer? — search results (SmartRent, ButterflyMX) — https://butterflymx.com/blog/apartment-buzzer/
+- How long does a door buzzer installation take? — search results — https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-brooklyn-ny
+- How long do wired vs wireless buzzer systems last? — search results — https://nyhls.com/blog/door-buzzer-system
+- What does it cost to make a buzzer "smart" / answer it on a phone? — search results — https://enterkey.app/apartment-buzzer
+- How do apartment buzzers work if there is a panel outside but no station inside my unit? — Quora — https://www.quora.com/How-do-appartements-buzzer-system-work-I-live-in-a-building-but-I-have-no-panel-inside-my-unit-altough-there-is-a-buzzer-panel-outside-do-I-have-to-connect-a-phone-to-one-of-my-entries-in-order-to-be-able-to-unlock
+- Why does a video intercom let visitors in without a buzz sound, so deliveries don't know the door is open? — Reddit — https://www.reddit.com/r/chicago/comments/mh7pn3/people_who_live_in_buildings_with_video_intercoms/
