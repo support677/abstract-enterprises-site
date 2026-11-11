@@ -3221,3 +3221,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-prospect-lefferts-gardens-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-ridgewood-brooklyn-ny | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bath-beach-brooklyn-ny | QUEUED
+2026-11-11 | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bedford-stuyvesant-brooklyn-ny | QUEUED
