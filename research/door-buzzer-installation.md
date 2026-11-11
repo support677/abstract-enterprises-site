@@ -3366,3 +3366,40 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Is $1,500 to $3,000 a fair price for a wired video system in a multi-family brownstone? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
 - Is $2,000 reasonable for a new three-unit buzzer system, or should it be repaired? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/2000-reasonable-estimate-to-install-new-3-unit-buzzer-entry-intercom-system
 - Do I need a Landmarks permit to put a new intercom panel by my door? — derived from LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+## Wingate, Brooklyn — /door-buzzer-installation-wingate-brooklyn-ny (factory research, 2026-11-11)
+
+- NYC Open Data, HPD Housing Maintenance Code Violations (wvxf-dwi5), queried Nov 11 2026: ZIP 11203 + 11225, novdescription contains INTERCOM, inspection date after Jan 1 2025 → 246 violations (143 in 11225, 103 in 11203). Of these, 28 fall inside the rectangle Empire Blvd–Winthrop St × New York Ave–Troy Ave (lat 40.6562–40.6636, lon −73.9472 to −73.9366): 24 class B, 4 class A; statuses NOV sent out 11, closed 5, dismissed 5, not complied with 3, CIV14 mailed 2, first no access to re-inspect 2; stories 1st 5, 2nd 4, 3rd 6, 4th 4, 5th 5, 6th 2, 8th 1, 9th 1 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Buildings in that rectangle with intercom violations since Jan 2025: 560 Winthrop St (7, apartments on 1st, 3rd, 4th, 5th, 6th, 8th, 9th stories), 584 Maple St (3), 470 East New York Ave (2), 706 Lefferts Ave (2, incl. "return buzzer at house phone"), 601 Albany Ave (2, 5th and 6th story, both "not complied with"), 652 Brooklyn Ave (2, "intercom return panel"), 639 Albany Ave (2), 690 Albany Ave (1, Nov 3 2026, "intercom system leading from front desk to apartment"), 646 Rutland Rd (1), 451 Kingston Ave (1, 5th story), 474 Brooklyn Ave (1, "secure the loose intercom panel"), 578 Albany Ave, 701 Fenimore St, 743 Fenimore St, 637 Hawthorne St — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Violation wording: "§ 27-2005 HMC: properly repair or replace the broken or defective bell buzzer intercom system from building entrance door to..." — the duty cited is maintenance (HMC §27-2005) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- CAMBA Gardens was developed on the campus of Kings County Hospital in Wingate in partnership with NYC Health and Hospitals Corporation; address 560 Winthrop Street, Brooklyn, NY 11203 — https://camba.org/programs/supportive-housing-developments/
+- CAMBA Gardens Phase II: "CAMBA provides 24/7 front desk security and on-site social services" — https://thenyhc.org/projects/camba-gardens-phase-ii-health-housing/
+- CAMBA Gardens I is "a sustainable, permanent, affordable and supportive housing development in Wingate, Brooklyn that is LEED certified" — https://www.cambahousingventures.org/development/camba-gardens-i/
+- HPD Tenant Data Privacy Law: Local Law 63 of 2021 applies to owners of multiple dwellings that use smart access (keyless) systems including key fobs — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- Existing smart access buildings had until January 1, 2023 to comply with the TDPA (effective July 29, 2021) — https://www.hinshawlaw.com/en/insights/privacy-cyber-and-ai-decoded-alert/privacy-law-essentials-new-york-citys-tenant-data-privacy-act
+- ButterflyMX door buzzer guide: "wireless describes the remote-to-receiver link, not an entrance without wiring or power"; a kit price example of $156.40 base equipment included a 25-4U electric strike, release sounder and 12 VDC 2 A plug-in power supply; existing wiring "needs a compatibility assessment" — https://butterflymx.com/blog/door-buzzer-systems/
+- Vertex Security 2026 NYC guide: "Basic audio buzzers sit at the entry-level range of $500 to $1,500 per unit installed" — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- A Brooklyn competitor advertises buzzer repairs "a flat $150–$250" and property installation or upgrade "$435–$1,835" — https://www.uasecurity.com/Intercom-Systems-Brooklyn-New-York.htm
+- r/AskNYC: Brooklyn tenant in a 4-unit building says the landlord "isn't required to put in a buzzer system or a self-locking front door" and asks what a system costs — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- r/AskNYC: renter considering a newly built 3-unit Brooklyn building with no buzzer and one mailbox asks if that is normal — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- r/AskNYC: fifth-floor walk-up tenant cannot let guests, packages or food deliveries in without going down — https://www.reddit.com/r/AskNYC/comments/10uzqs0/landlord_wont_fix_my_intercom_is_there_any_legal/
+- r/AskNYC: "My intercom still works, it's just the wire connection to unlock the door which apparently is expensive" — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- r/nyc: building of 24 apartments with no doorbell/buzzer; is the landlord required to provide one — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- r/NYCapartments: tenants asking about rights to request that the landlord install a buzzer — https://www.reddit.com/r/NYCapartments/comments/1gfytbz/building_buzzer_installation_rights/
+- r/HomeKit: apartment resident wants to buzz the door from a phone with two-way talk — https://www.reddit.com/r/HomeKit/comments/16knprh/looking_to_make_apartment_door_buzzer_smart/
+- Google PAA / PASF / AI Overview / AnswerThePublic / Bing / DuckDuckGo for "door buzzer installation Wingate": EMPTY
+- Yelp complaints for buzzer installers near Wingate: EMPTY (Yelp search page only lists security businesses near Wingate) — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Wingate%2C+Brooklyn%2C+NY
+- Wingate-specific news about buzzer installation: EMPTY. LPC historic district inside Wingate: EMPTY.
+
+### Questions people ask — Door Buzzer Installation in Wingate
+- How much does a buzzer/intercom system cost for a small (4-unit) Brooklyn building? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Is a landlord required to install a buzzer in a building with fewer than eight apartments? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Is no buzzer and one mailbox for 3 apartments normal in a new building? — Reddit — https://www.reddit.com/r/AskNYC/comments/1t74q1e/is_no_buzzer_and_one_mailbox_for_3_apartments/
+- My 24-apartment building has no doorbell or buzzer; does the landlord have to provide one? — Reddit — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- Can tenants request that the landlord install a buzzer? — Reddit — https://www.reddit.com/r/NYCapartments/comments/1gfytbz/building_buzzer_installation_rights/
+- The intercom talks but the door won't unlock — is the release wiring expensive to fix? — Reddit — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- How do I get guests and deliveries in on a fifth-floor walk-up when the buzzer is dead? — Reddit — https://www.reddit.com/r/AskNYC/comments/10uzqs0/landlord_wont_fix_my_intercom_is_there_any_legal/
+- Can I buzz the building door open from my phone with two-way talk? — Reddit — https://www.reddit.com/r/HomeKit/comments/16knprh/looking_to_make_apartment_door_buzzer_smart/
+- Does a "wireless" buzzer need wiring or power at the door? — ButterflyMX guide — https://butterflymx.com/blog/door-buzzer-systems/
+- Can existing buzzer wiring be reused for a new system? — ButterflyMX guide — https://butterflymx.com/blog/door-buzzer-systems/
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp questions: EMPTY
