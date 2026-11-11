@@ -230,7 +230,7 @@ BUILDING 2026-11-11T18:05Z factory | door-buzzer-installation-brooklyn-heights-b
 LIVE | door-buzzer-installation-brooklyn-navy-yard-brooklyn-ny | Door Buzzer Installation | Brooklyn Navy Yard, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-brownsville-brooklyn-ny | Door Buzzer Installation | Brownsville, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:09Z max-burn | door-buzzer-installation-bushwick-brooklyn-ny | Door Buzzer Installation | Bushwick, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T18:10Z max-burn | door-buzzer-installation-cadman-plaza-brooklyn-ny | Door Buzzer Installation | Cadman Plaza, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-cadman-plaza-brooklyn-ny | Door Buzzer Installation | Cadman Plaza, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:12Z max-burn | door-buzzer-installation-canarsie-brooklyn-ny | Door Buzzer Installation | Canarsie, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:24Z max-burn | door-buzzer-installation-carroll-gardens-brooklyn-ny | Door Buzzer Installation | Carroll Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:25Z max-burn | door-buzzer-installation-city-line-brooklyn-ny | Door Buzzer Installation | City Line, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
