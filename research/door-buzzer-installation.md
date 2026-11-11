@@ -2469,3 +2469,28 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Wired vs wireless door buzzer cost? — web — https://nyhls.com/blog/door-buzzer-system
 - What should a small landlord install when older tenants request an intercom/door buzzer? — Facebook — https://www.facebook.com/groups/518034226831382/posts/1351226256845504/
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp — EMPTY
+
+## Kensington, Brooklyn — /door-buzzer-installation-kensington-brooklyn-ny (factory research, 2026-11-11)
+
+- HPD Housing Maintenance Code violations dataset (NYC Open Data wvxf-dwi5), ZIP 11218, novdescription containing "INTERCOM", inspection date 2016-01-01 onward: 181 violations at 85 distinct buildings; class B 137 (105 closed, 32 open), class A 43 (33 closed, 10 open), class C 1 (closed); 42 open as of query 2026-11-11 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Same dataset by year (11218, intercom): 2016 17, 2017 18, 2018 26, 2019 15, 2020 9, 2021 18, 2022 9, 2023 19, 2024 17, 2025 19, 2026 (to Nov 11) 14 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Same dataset: 171 of the 181 intercom violations since 2016 are written "located at Apt ..." (the defect cited inside or at a specific apartment, not the lobby panel) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Same dataset by street (since 2016): Ocean Parkway 39 violations at 19 buildings; East 2nd Street 25 at 8; Argyle Road 15 at 4; Avenue C 12 at 4; 18th Avenue 9 at 2; East 8th Street 8 at 2; Dahill Road 7 at 1; McDonald Avenue 7 at 5; Coney Island Avenue 6 at 2; Albemarle Road 6 at 2; Caton Avenue 4 at 3 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Typical violation wording: "§ 27-2005 ADM CODE PROPERLY REPAIR THE BROKEN OR DEFECTIVE BELL/BUZZER/INTERCOM FROM BUILDING ENTRANCE TO APT ..."; "... REPAIR THE BROKEN OR DEFECTIVE BELL AND RETURN BUZZER TO THE INTERCOM SYSTEM IN THE FOYER LOCATED AT APT 6F, 6th STORY" — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 210 Caton Ave (Kensington): 46 units, 6 floors, built 1960; 56 open violations; 1.21 violations per unit vs 0.81 NYC average; tenant review pro: "It has a Elevator and intercom." — https://www.openigloo.com/building/nyc/3124150-3053250003/brooklyn-kensington-210-caton-ave-11218
+- 514 Ocean Parkway, Apr 8 2026: water through lobby ceiling for nearly two months soaking mail and packages; tenant: "Literally, you need rubber boots to get to the mailbox"; only elevator out about three weeks; HPD said it will inspect — https://brooklyn.news12.com/ongoing-leak-leaves-mail-and-packages-wet-inside-kensington-building
+- 455 Ocean Parkway, Apr 6 2026: 17-story complex, more than 300 residents, two elevators dating to 1964, DOB cited at least 15 elevator violations in four years, doorman had to control crowding — https://brooklyn.news12.com/tenants-raise-safety-concerns-about-elevators-at-17-story-building-in-kensington
+- 100 Ocean Parkway "The Kensington": six-story elevator building with part-time doorman on the Windsor Terrace/Kensington line — https://www.corcoran.com/building/windsor-terrace/47330
+- LPC designated Beverley Square West (118 houses) and Ditmas Park West (127 houses) historic districts Nov 25 2025, in Flatbush; neither release mentions Kensington or Ocean Parkway — https://www.nyc.gov/site/lpc/about/pr2025/lpc-designates-two-new-historic-districts-in-flatbush.page
+- r/AskNYC: Brooklyn tenant in 4-unit building notes landlord isn't required to put in a buzzer or self-locking door; asks what a system costs — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- r/Brooklyn threads about buying a Kensington co-op on Ocean Parkway at Beverley Road and renting on Ocean Parkway north of Cortelyou (excerpts only) — https://www.reddit.com/r/Brooklyn/comments/13ougx5/purchasing_in_kensington_coop/
+- ButterflyMX small-building guide: cost depends on "controlled entrances, door hardware, wiring condition, system type, and local requirements, not apartment count alone" — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Competitor UA Security advertises Brooklyn buzzer repair "$150–$250 flat on qualifying repairs, 30-day warranty" — https://www.uasecurity.com/Intercom-Systems-Brooklyn-New-York.htm
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo / Yelp for "door buzzer installation Kensington": EMPTY
+
+### Questions people ask — Door Buzzer Installation in Kensington
+- How much does a buzzer/intercom system cost for a small Brooklyn building? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Is a landlord of a building with only four units required to have a buzzer? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- What should I know before buying into a Kensington co-op on Ocean Parkway? — Reddit — https://www.reddit.com/r/Brooklyn/comments/13ougx5/purchasing_in_kensington_coop/
+- What information should an owner gather before requesting a quote? — ButterflyMX FAQ — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Who can replace intercom and buzzer systems for apartments, at a fair price? — Facebook group — https://www.facebook.com/groups/woodsidepride/posts/9166540990065999/
