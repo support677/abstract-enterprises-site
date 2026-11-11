@@ -2426,3 +2426,46 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo panels for "door buzzer installation Madison": EMPTY (panels not retrievable; questions above come from the result pages)
 - Reddit threads specific to Madison, Brooklyn buzzers: EMPTY
 - Yelp 1–3★ for buzzer installers near Madison: EMPTY
+
+## Marine Park, Brooklyn — /door-buzzer-installation-marine-park-brooklyn-ny (factory research, 2026-11-11)
+
+- Brooklyn Marine Park Development Co-op: two-building co-op complex at 2220 Burnett St (also 2240, 2260, 2280 Burnett St), across from Marine Park between Avenue U and Avenue V; dates to 1952; 264 residences; red-brick, six stories, two irregular wings each; terra cotta tiling above the lobby doors; "there are elevators and a video intercom system, which lend a sense of security"; listed highlights "Virtual Doorman", "Intercom to Front Desk", "Controlled Access", "Secure Lobby"; parking garage plus adjacent surface lot; B2 bus stops outside, BM4 a block away; low maintenance "which includes all utilities" (broker Delton Cheng, Century 21 Homefront) — https://www.homes.com/building/brooklyn-marine-park-development-co-op-brooklyn-ny/b-r01xflvmf9146/
+- Homes.com Marine Park guide (same page): housing "mainly of prewar single- and multifamily homes with well-kept yards and narrow driveways"; "most properties are red brick, including bungalow and Tudor Revival rowhomes"; "Along Gerritsen Avenue, a few mid-rise postwar co-ops round out the housing inventory"; % renters 27%; median lot size 1,742 sq ft; average house size 1,221 sq ft — https://www.homes.com/building/brooklyn-marine-park-development-co-op-brooklyn-ny/b-r01xflvmf9146/
+- Marine Cooperative Apartments: "an established, self-managed cooperative at 2239 Troy Avenue, where Marine Park and Flatlands meet"; "We are self-managed and self-governing. The people who live here take an active role in caring for the property"; garden-centered building, ZIP 11234 — https://www.2239troyave.com/
+- Two-family houses dominate listings: Redfin showed 10 multi-family homes for sale in Marine Park at a median listing price of $1.23M (search excerpt) — https://www.redfin.com/neighborhood/224202/NY/New-York/Marine-Park/multi-family-homes-for-sale
+- Marine Park duplex listing excerpt: basement with family room, laundry room, summer kitchen, bathroom "and a separate side entrance" — https://www.instagram.com/reel/DQsmmcvkf78/
+- Mixed use on Avenue U: Facebook group excerpt "Mixed Use In The Heart Of Marine Park. This building is a corner store front with a full basement and 2 - 1 Bedroom units on the top floor" — https://www.facebook.com/groups/MarineParkBrooklyn/posts/25965688086436866/
+- Second-floor apartment listing at 4017 Avenue U, Marine Park (2 bed, 1 bath) — apartments over Avenue U storefronts — https://streeteasy.com/building/4017-avenue-u-brooklyn/2
+- Package theft at front doors posted in the Marine Park Facebook group: "Package stolen from front door on East 31st Street ... This is the second time in a month that packages are stolen from my front porch" (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
+- Another group post (excerpt): "two Amazon packages were delivered to my front door early this morning, and moments later a woman took the packages and sped" off — https://www.facebook.com/groups/MarineParkBrooklyn/posts/1799287340170278/
+- MDL §50-a: every Class A multiple dwelling erected or converted after Jan 1 1968 with eight or more apartments must have an intercom at its self-locking main entrance door; voice communication between each apartment and a person outside, and release of the lock from the apartment; pre-1968 buildings must install once tenants occupying a majority of apartments request in writing, work begun within 90 days and completed within six months; video is not a statutory requirement — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Same source: under the NYC Housing Maintenance Code "a non-working intercom or buzzer is a Class B hazardous violation, enforceable on tenant complaint" — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- NY Attorney General tenants' rights guide: "Multiple dwellings which were built or converted to such use after January 1, 1968 must have automatic self-closing and self-locking doors at all entrances" — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- Legal Services NYC HPD violations checklist lists under Class B "hazardous": "Entrance door lock/knob is defective" — https://www.legalservicesnyc.org/wp-content/uploads/2018/08/housing_repair_manual_2_4_20.pdf
+- r/AskNYC (search excerpt): "I live in a building in Brooklyn, with only 4 units, which means the landlord isn't required to put in a buzzer system or a self-locking front door" — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- r/DIY (search excerpt), two-story house: "If you're trying to add a second door release button, then you'll have to tie into the existing door release wiring" — https://www.reddit.com/r/DIY/comments/2xh9qn/help_how_can_i_set_up_an_additional_door_buzzer/
+- Smart add-on hacks to old buzzers common on Reddit: SwitchBot button pusher on the buzzer, Shelly Uni "Small, cheap, fits inside the box" — https://www.reddit.com/r/HomeKit/comments/1cpie4r/success_finally_managed_to_integrate_my_buildings/ ; https://www.reddit.com/r/HomeKit/comments/16knprh/looking_to_make_apartment_door_buzzer_smart/
+- National cost guide claims: NYHLS "Wireless systems cost $350-$1,100 while wired systems range from $450-$1,900 installed"; audio-only wired $450–$900; video wired $900–$1,900; multi-tenant $3,500+ — https://nyhls.com/blog/door-buzzer-system
+- Swiftlane: "repair ($150–$250), like-for-like audio replacement ($1,000–$3,000/door), or a smart video upgrade" — https://swiftlane.com/blog/apartment-buzzer-system/
+- HomeAdvisor: intercom install average $2,500, low $1,500, high $15,000 — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system/
+- Vertex Security (NYC 2026): audio intercom "1,000–3,000 dollars per door" in multifamily; residential home installs "around 720–1,600 dollars per system" — https://vertexsecurity.com/intercom-systems/cost-of-intercom-upgrades/
+- Intercoms Online: "You can use simple 2-wire intercoms as a door buzzer. These provide 2-way communication with the ability to activate an electric door strike or mag lock" — https://www.intercomsonline.com/door-buzzers-for-business
+- AESS Brooklyn parent page: "For a small audio system the realistic range is roughly $400–$900 installed. Video buzzer systems for a brownstone or small building run about $700–$1,800." — https://www.abstractenterprisessecuritysystems.com/door-buzzer-installation-brooklyn-ny
+- Local DOB/LPC: no landmark district or LPC rule affecting Marine Park door buzzers found (Lott House is an individual landmark, not a district) — EMPTY
+- HPD/311 intercom complaint counts for Marine Park ZIPs 11229/11234: EMPTY (not retrieved)
+- Local news about door buzzers/intercoms in Marine Park: EMPTY
+- Yelp reviews of buzzer installers near Marine Park: EMPTY
+
+### Questions people ask — Door Buzzer Installation in Marine Park
+- How much does a buzzer/intercom system cost? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Cost to upgrade buzzer system for a low-rise building? — Reddit — https://www.reddit.com/r/AskNYC/comments/196ra0z/cost_to_upgrade_buzzer_system_for_low_ride/
+- Is my landlord required to provide a doorbell/buzzer system? — Reddit — https://www.reddit.com/r/nyc/comments/cr3om/my_apartment_building_doesnt_have_any/
+- How can I set up an additional door buzzer (second door release button) in my 2-story house? — Reddit — https://www.reddit.com/r/DIY/comments/2xh9qn/help_how_can_i_set_up_an_additional_door_buzzer/
+- Can I make my apartment door buzzer smart / open it from my phone? — Reddit — https://www.reddit.com/r/HomeKit/comments/16knprh/looking_to_make_apartment_door_buzzer_smart/
+- How do apartment buzzer systems work if there is no panel inside my unit? — Quora — https://www.quora.com/How-do-appartements-buzzer-system-work-I-live-in-a-building-but-I-have-no-panel-inside-my-unit-altough-there-is-a-buzzer-panel-outside-do-I-have-to-connect-a-phone-to-one-of-my-entries-in-order-to-be-able-to-unlock
+- Which buildings must have intercoms in NYC? — web (ButterflyMX FAQ) — https://butterflymx.com/blog/nyc-intercom-law/
+- Does the intercom have to have video? — web (Parker FAQ) — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Is a broken buzzer an HPD violation? — web (Parker FAQ) — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- Wired vs wireless door buzzer cost? — web — https://nyhls.com/blog/door-buzzer-system
+- What should a small landlord install when older tenants request an intercom/door buzzer? — Facebook — https://www.facebook.com/groups/518034226831382/posts/1351226256845504/
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp — EMPTY
