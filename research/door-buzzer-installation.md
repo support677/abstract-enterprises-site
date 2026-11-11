@@ -1565,3 +1565,48 @@ Method: one web search backend plus page fetches. Google PAA/PASF, AnswerThePubl
 - How long does a 311 intercom complaint take, and is the landlord required to fix it? — Brick Underground / Habitat — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
 - What does a new building under the Atlantic Avenue rezoning need for entry? — news — https://www.6sqft.com/4600-new-homes-coming-to-bed-stuy-and-crown-heights-after-nyc-council-approves-atlantic-ave-rezoning/
 - PAA / PASF / Answer the Public / Bing / DuckDuckGo / Yelp questions: EMPTY
+
+## East Williamsburg, Brooklyn — /door-buzzer-installation-east-williamsburg-brooklyn-ny (factory research, 2026-11-11)
+
+Note: the live web-search budget for this build was exhausted before any new search ran. Every finding below was already gathered and sourced in the silo and neighborhood research (city open data pulls of Nov 11 2026, statute texts, published guides). Live surfaces are marked EMPTY rather than filled.
+
+- HPD violations dataset, NTA "East Williamsburg", violations whose text mentions an intercom, by inspection year: 2020 7; 2021 12; 2022 10; 2023 5; 2024 7; 2025 9; 2026 to Nov 11: 11. Peak years 2015 (14) and 2016 (14) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 2026 intercom violations in the East Williamsburg NTA sit on Kingsland Ave, Skillman Ave, Metropolitan Ave (four), Thames St, Seigel St ("inoperative intercom system at 1st story building entrance to panel"), Bushwick Ave, Stagg St and Grand St — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Violation wording names where stations sit: kitchens (Union Ave, Beadel St, Maujer St), foyers, private hallways (Meserole St); entrance language such as "voice intercom with returned door buzzer system from the building's vestibule" (Graham Ave, 2022) — a new installation has to put a working station at each of those points — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- HPD self-closing door violations in the East Williamsburg NTA: 154 (2020), 176 (2021), 242 (2022), 341 (2023), 232 (2024), 321 (2025), 302 (2026 to Nov 11); of the 623 written since Jan 1 2025, 111 also mention a vestibule, building entrance, front entrance or street door. A buzzer release is only as good as the door closing and latching behind it — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 311 BELL/BUZZER/INTERCOM complaints, Brooklyn Community Board 1: 79 (2020), 127 (2021), 101 (2022), 236 (2023), 192 (2024), 131 (2025), 153 (2026 to Nov 11) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Of the 153 CB1 complaints in 2026: 52 closed because the inspector could not gain access, 32 closed with no violation found, 21 closed with violations issued, 17 still open — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- NY Multiple Dwelling Law §50-a: Class A multiple dwellings erected or converted after Jan 1 1968 with eight or more apartments must have a self-locking main entrance door and an intercommunication system allowing voice communication and remote release; older buildings must install one if tenants of a majority of apartments request it in writing (start within 90 days, finish within six months) — https://law.justia.com/codes/new-york/mdw/article-3/title-2/50-a/
+- ButterflyMX NYC guide: the statute "does not, by itself, require video, mobile access, or remote management"; HPD correction periods 90 days class A, 30 days class B, 24 hours most class C — https://butterflymx.com/blog/intercom-repair-nyc
+- Brick Underground: replacing a building intercom takes about a day for five apartments and about two days for 100 units; Lee Dan systems may be outdated while the core wiring is typically fine; don't work on the wiring yourself — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Aiphone GT Series: "Multi-tenant intercom system for new builds and retrofit projects", up to "5,000 Tenant stations", "offers the advantage of using existing wire and infrastructure"; Aiphone upgrade guide: "If the existing wires are in good condition, they can be reused" — https://www.aiphone.com/products/gt-series/
+- Reddit r/accesscontrol on 2-wire upgrades: "This will allow you to keep the existing GT system, repair the damaged cable, and only upgrade those tenants that desire app connectivity" — https://www.reddit.com/r/accesscontrol/comments/1scfk1y/2wire_intercom_systems_to_replace_aiphone/
+- Allegion: "Fail safe products are unlocked when power is removed"; "Fail secure products are locked when power is removed"; fire doors need fail-secure strikes; "Electromagnetic locks are only available fail safe" — https://us.allegion.com/en/resources/education/leading-the-industry/decoded/fail-safe-vs-fail-secure.html
+- IBC sensor-release rules for electrically locked egress doors (mag locks): sensor on egress side, manual "PUSH TO EXIT" device 40–48 in above floor within 5 ft, unlock on fire alarm activation and loss of power — https://up.codes/s/sensor-release-of-electrically-locked-egress-doors
+- HomeAdvisor: intercom installation "costs an average of $2,500", "between $1,500 and $15,000"; wireless $150–$1,500; hard-wired $1,000–$15,000; 1–2 hours per station — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system/
+- Swiftlane: "$1,000 to $5,000 or more per entry door for modern IP or video systems"; software subscriptions "$5 to $15 per unit per month, or $30 to $100 per door per month" — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- ButterflyMX: its intercom "requires no building wiring"; cellular call boxes need no Ethernet at the door — https://butterflymx.com/blog/apartment-call-box/
+- 2010 ADA Standards 308: high forward reach 48 in maximum, low forward reach 15 in minimum; operable parts within those ranges — https://www.access-board.gov/ada/chapter/ch03/
+- Openigloo review of 985 Metropolitan Ave (built 1920, 4 units, 3 floors): cons "Intercom system didn't work"; pros "Separate entrances" — https://www.openigloo.com/building/nyc/3070305-3029130051/brooklyn-east-williamsburg-985-metropolitan-avenue-11211
+- News 12 (Dec 14 2022): Bushwick tenant says the building's doors won't latch — "There is no protection." — https://westchester.news12.com/there-is-no-protection-bushwick-tenant-says-buildings-doors-wont-latch-fears
+- McKibbin Street lofts (248/255 McKibbin) were the subject of city illegal-hotel crackdowns in 2016–2017 (entry-code turnover matters in such buildings) — https://www.dnainfo.com/new-york/20160511/east-williamsburg/city-continues-crackdown-on-illegal-hotels-at-mckibbin-street-lofts
+- Reddit threads from owners: "Affordable option to replace 6 unit building entry system"; a door buzzer/door locking system for a 4-unit apartment building — https://www.reddit.com/r/accesscontrol/comments/1hyy23u/affordable_option_to_replace_6_unit_building/
+- DOB permits, LPC rules specific to buzzer installation in East Williamsburg: EMPTY
+- Local news about buzzer installation in East Williamsburg: EMPTY
+- Reddit threads specific to East Williamsburg buzzer installation: EMPTY
+- Yelp reviews of buzzer installers mentioning East Williamsburg: EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo capture for this query: EMPTY; vendor-blog and cost-guide claims used instead
+
+### Questions people ask — Door Buzzer Installation in East Williamsburg
+- Can the existing buzzer wires be reused when a new system goes in? — Aiphone upgrade guide / ButterflyMX FAQ — https://www.aiphone.com/products/gt-series/
+- Does an audio-only system satisfy the NYC intercom rule, or does it have to be video? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- How long does installing a new building buzzer system take? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Is there an affordable way to replace the entry system in a six-unit building? — Reddit r/accesscontrol — https://www.reddit.com/r/accesscontrol/comments/1hyy23u/affordable_option_to_replace_6_unit_building/
+- What door buzzer and lock setup suits a four-unit building? — Reddit r/accesscontrol — https://www.reddit.com/r/accesscontrol/comments/1hyy23u/affordable_option_to_replace_6_unit_building/
+- Can some tenants keep handsets while others get app answering? — Reddit r/accesscontrol — https://www.reddit.com/r/accesscontrol/comments/1scfk1y/2wire_intercom_systems_to_replace_aiphone/
+- How much does an intercom installation cost? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system/
+- Is a wireless or cellular call box a good idea for a building door? — ButterflyMX / Swiftlane — https://butterflymx.com/blog/apartment-call-box/
+- Should the door strike be fail safe or fail secure? — Allegion — https://us.allegion.com/en/resources/education/leading-the-industry/decoded/fail-safe-vs-fail-secure.html
+- Do tenants have to ask in writing before an older building must install an intercom? — MDL §50-a — https://law.justia.com/codes/new-york/mdw/article-3/title-2/50-a/
+- Is there a monthly fee with a cloud intercom? — Swiftlane — https://swiftlane.com/blog/apartment-intercom-installation-cost/
+- How high should the entry panel be mounted? — ADA Standards — https://www.access-board.gov/ada/chapter/ch03/
