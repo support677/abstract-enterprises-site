@@ -2624,3 +2624,39 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Can a Shabbat-observant resident enter without pressing the intercom? — Peninei Halakha — https://ph.yhb.org.il/en/01-17-13/
 - How much does a wired doorbell or transformer installation cost? — Angi — https://angi.com/articles/doorbell-installation-cost.htm
 - Should I confirm who is there before buzzing in on an audio-only intercom? — Brick Underground — https://www.brickunderground.com/live/realty-bites-dealing-with-package-delivery-theft-landlords-nyc
+
+## Mill Basin, Brooklyn — /door-buzzer-installation-mill-basin-brooklyn-ny (factory research, 2026-11-11)
+
+- Mill Basin housing is mostly single-family, with about 30 percent two-family houses; original homes are roughly 50 years old and many have been renovated; two-family houses are the only rental option inside the community — https://www.brickunderground.com/buy/buy-curious-mill-basin-brooklyn-prices-co-ops-condos-houses-restaurants-entertainment-transportation-nyc
+- The Bay Front Estates at Mill Basin is a gated community of 34 detached houses that opened in 2005 — https://www.brickunderground.com/buy/buy-curious-mill-basin-brooklyn-prices-co-ops-condos-houses-restaurants-entertainment-transportation-nyc
+- Broker quote: "We have our own private security that has cars on the streets 24/7" (Peldman); "It's really country living in Brooklyn." (Alfano) — https://www.brickunderground.com/buy/buy-curious-mill-basin-brooklyn-prices-co-ops-condos-houses-restaurants-entertainment-transportation-nyc
+- Mill Basin Plaza (5700 Ave. U) is the main shopping center, anchored by Walgreens and Home Depot; Key Food is the only major supermarket in the community; Kings Plaza sits just outside — https://www.brickunderground.com/buy/buy-curious-mill-basin-brooklyn-prices-co-ops-condos-houses-restaurants-entertainment-transportation-nyc ; https://www.kimcorealty.com/properties/mill-basin-plaza/100300/view
+- Homes.com: median year built 1960; median lot 2,178 sq ft; average single-family 1,795 sq ft; "Many homes have driveways and attached garages"; average value about $1.22 million; restaurants mostly along Mill Avenue — https://www.homes.com/local-guide/brooklyn-ny/mill-basin-neighborhood/
+- Broker quote: "Mill Basin homes were built in the '60s and '70s" — https://www.homes.com/local-guide/brooklyn-ny/mill-basin-neighborhood/
+- Fillmore Gardens Cooperative, 2012 Pearson St (Old Mill Basin, north of Avenue U): built 1952, 340 units, 2 stories, walk-up, courtyard, laundry; listings show upper and lower units, resident superintendent, parking area in the back — https://www.apartments.com/fillmore-gardens-cooperative-brooklyn-ny/fzxyzst ; https://www.highrises.com/listings/2040-e-58th-st-129c_brooklyn_ny_11234_9618311459 ; https://www.brownstoner.com/listing/BKMLS-7259119/2032-e-57th-st-98a-mill-basin-brooklyn-ny-11234/amp
+- Fillmore Gardens listing (2011 E 56th St): "Year Built: 1955", "Building Total Stories: 2" — https://www.highrises.com/listings/2011-e-56th-st-b57_brooklyn_ny_11234_4224110674
+- News 12 Brooklyn, Dec 2, 2024: Mill Basin residents send packages to Outside the Box Shipping in Mill Basin (about 100 packages a day) to avoid porch theft; one customer lost more than $500 in stolen packages; resident Joseph: "I've seen some come up, look at the camera, and put their head down. They're getting smarter."; mayor's office estimate of 90,000 packages stolen or lost daily citywide — https://brooklyn.news12.com/porch-pirates-drive-brooklyn-residents-to-shipping-stores-for-package-security
+- Brooklyn Paper, June 11, 2020: citing an uptick in crime (vehicle break-ins, drug dealing), hundreds of Mill Basin families pledged to fund a private security patrol themselves; goal of 1,200 families at about $500 a family a year — https://www.brooklynpaper.com/mill-basin-residents-push-for-private-security-patrol/
+- NYT, Sept 18, 1983: the Mill Basin private patrol cost $96,000 a year for around-the-clock coverage — https://www.nytimes.com/1983/09/18/nyregion/private-security-patrols-on-rise-in-city-s-middle-class-areas.html
+- Mill Basin Civic Association general meeting Nov 18, 2025 at the Thomas Jefferson Club, 5809 Avenue T, with NYPD 63rd Precinct listed — https://www.nyc.gov/assets/brooklyncb18/downloads/pdf/2025/Mill-Basin-Civic-Meeting-November-18th.pdf
+- NY Attorney General tenants' guide: buildings with eight or more apartments "must also have a two-way voice intercom system from each apartment to the front door and tenants must be able to 'buzz' open the entrance door for visitors" — https://ag.ny.gov/publications/residential-tenants-rights-guide
+- Habitat Magazine (May 2017) on buzzers: system categories hard-wired, telephone-based, smartphone-based; Dan Arnold (Academy Mailbox): "If it's sheetrock, you can make a few holes and snake it down to the basement"; "But nothing is insurmountable."; ButterflyMX install about $5,000–$7,000 plus $2.50 per unit per month (2017 figures) — https://habitatmag.com/Publication-Content/Building-Operations/2017/2017-May/The-New-Buzzer
+- Brownstoner forum (2007): owner with glass double doors told an electric strike couldn't be fitted; reply: "You'll need to open up the walls, probably quite a bit"; another chose no buzzer "for safety reasons" — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Additional chimes can be added on each floor or even on a deck (James Dulley) — https://www.noozhawk.com/james-dulley-heres-how-to-add-another-doorbell-chime-in-large-house/
+- Reddit r/DIY: adding a second door release button in a two-story house means tying into the existing door release wiring — https://www.reddit.com/r/DIY/comments/2xh9qn/help_how_can_i_set_up_an_additional_door_buzzer/
+- City data (HPD violations, 311 intercom complaints, DOB permits for 11234): EMPTY
+- Yelp complaints about door buzzer installers near Mill Basin: EMPTY
+- Reddit threads about door buzzers in Mill Basin specifically: EMPTY
+
+### Questions people ask — Door Buzzer Installation in Mill Basin
+- Google PAA / PASF — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- How can I set up an additional door buzzer in my 2 story house? — Reddit — https://www.reddit.com/r/DIY/comments/2xh9qn/help_how_can_i_set_up_an_additional_door_buzzer/
+- Can I use a door buzzer system for multiple entrances in one building? — installer blog FAQ — https://nyhls.com/blog/door-buzzer-system
+- Can't hear the doorbell from the back of the house? — Family Handyman — https://www.familyhandyman.com/project/adding-a-second-doorbell-chime/
+- What's the cheapest way to add two door chimes to one doorbell? — Facebook Low Voltage Nation — https://www.facebook.com/groups/lowvoltagenation/posts/4437248639898264/
+- Can a buzzer go on double doors, and is there an alternative system? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Is a buzzer worth it, or is it safer to open the door in person? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- How do I protect packages if cameras don't stop thieves? — News 12 — https://brooklyn.news12.com/porch-pirates-drive-brooklyn-residents-to-shipping-stores-for-package-security
+- Does my building need a two-way intercom that buzzes the door open? — NY AG guide — https://ag.ny.gov/publications/residential-tenants-rights-guide
