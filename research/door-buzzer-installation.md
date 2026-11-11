@@ -3027,3 +3027,49 @@ Google PAA, Google PASF / related searches, AnswerThePublic, Bing, DuckDuckGo: *
 - Does a phone-line entry system show video? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2017/2017-May/The-New-Buzzer
 - How do packages stay secure when the doorman is off duty? — openigloo tenant review — https://www.openigloo.com/building/nyc/3202124-3074040020/brooklyn-sheepshead-bay-2770-ocean-avenue-11229
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp questions: EMPTY
+
+## Sea Gate, Brooklyn — /door-buzzer-installation-sea-gate-brooklyn-ny (factory research, 2026-11-11)
+
+- 4725 Beach 47th Street in Sea Gate is a two-story, 13-unit building constructed in 1930, owned by B4725 LLC; 20 HPD violations recorded, 5 active ECB violations, 1 311 call (none of the listed violations mention intercom/door) — https://augrented.com/nyc/3070370083-4725-beach-47-street
+- 4505 Surf Avenue (11224): built 1928, 15 units, 3 floors — https://www.openigloo.com/building/nyc/3189183-3070240130/brooklyn-coney-island-4505-surf-avenue-11224
+- 3764 Surf Avenue in Sea Gate: two-story, three-unit residential building constructed in 1920 — https://augrented.com/nyc/3070300031-3764-surf-avenue
+- 3811 Surf Avenue (also known as 3702 Sea Gate Avenue, 3801 Surf Avenue, 3802 Oceanic Avenue): built 1952, 41 units; most common 311 complaints last 3 years: heat/hot water 16, ventilation 10, pests 6; owner portfolio 57 buildings; no intercom/door complaints shown — https://whoownswhat.justfix.org/en/address/BROOKLYN/3811/SURF%20AVENUE%20/timeline/hpdcomplaints
+- 3813 Neptune Avenue ("Sea Gate", between Sea Gate Ave and Highland Ave): built 1930, converted to a 4-unit, 3-floor condominium in 2018 (Zin First Development), "virtual doorman" mentioned in description, common front yard, large cellar storage, individual mechanical room; 15-year tax abatement through 2033 — https://www.cityrealty.com/nyc/coney-island/sea-gate-3813-neptune-avenue/140312
+- Openigloo Seagate building list (page 5) shows open HPD violation counts by address, e.g. 3862 Neptune Ave 42 open violations and 2 litigation cases; 3817 Nautilus Ave 23 open, 3 litigation; 3764 Nautilus Ave 11 open, 4 litigation, rent-stabilized; 4211 Highland Ave 16; 4205 Sea Gate Ave 16; 3766 Maple Ave tagged "Good cause" — https://www.openigloo.com/buildings/brooklyn/seagate?page=5
+- Sea Gate Association Rules (2024) Art. I §I e: conditions warranting warning/fine/ECB summons include "fencing in disrepair, broken windows and/or doors" — https://files.constantcontact.com/f48ac14e601/cd1c7e06-1811-4c07-ba36-78b59d33114c.pdf
+- SGA Rules Art. IV §I a: "The homeowner is ultimately liable for any violation of the By-Laws or Rules and Regulations committed by a resident, guest, tenant, service person, or other person" — same PDF
+- SGA Rules Art. I §III a/b/d/f: alteration projects need NYC permits filed with SGA office; construction not before 7am or after 6pm Mon–Fri, weekends need special permit, none within 300 ft of a house of worship on weekends, none on national holidays — same PDF
+- SGA Rules Art. I §VIII a: commercial vehicles / vehicles with commercial writing may not park on Sea Gate streets or the Sea Gate parking lot (between Surf and Mermaid Aves) overnight; 1am–6am needs resident sticker or SGPD temporary permit — same PDF
+- SGA Rules Art. V §I e: no signs/flyers posted on trees, lamp posts, vehicles, mailboxes, doors, stoops; §I c business/advertising signs prohibited — same PDF
+- SGA Rules Art. I §III c: construction/alteration "for the purposes of commercializing a residential property is prohibited"; residential property used only as a residence — same PDF
+- SGA Rules Art. IV §II e: $50 fine per infraction unless otherwise specified; homeowners may be fined for tenant or guest infractions — same PDF
+- SGA Rules: use of surveillance equipment on drones prohibited within Sea Gate — same PDF
+- SGA Rules: beach — landlord not in good standing → tenants cannot buy season passes (shows owner/tenant split in Sea Gate rentals) — same PDF
+- Sea Gate Association office: 3700 Surf Ave, Brooklyn NY 11224 — https://m.yelp.com/biz/the-sea-gate-association-brooklyn
+- Facebook group post title: "Sea Gate updates traffic flow and introduces Tap2Open" (excerpt only) — https://www.facebook.com/groups/HelpSeagaterecover/posts/28997539449894170/
+- Reddit r/AmazonFlexDrivers thread titled "NYC, Brooklyn, Sea Gate, typical🫩" (title/excerpt only, thread not opened) — https://www.reddit.com/r/AmazonFlexDrivers/comments/1w25qrt/nyc_brooklyn_sea_gate_typical/
+- NYC Housing Maintenance Code §27-2043: owner must provide a key lock in each dwelling unit entrance door; in a class A multiple dwelling a heavy duty latch set and heavy duty dead bolt operable by key outside and thumb-turn inside — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-60477
+- NYC HMC §27-2040 covers lights near entrance ways and in yards and courts of multiple dwellings — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-205264
+- MDL §50-a "Entrances: doors, locks and intercommunication systems"; MDL §51-c tenant right to install own lock not more than three inches in circumference — https://www.nyc.gov/assets/buildings/pdf/MultipleDwellingLaw.pdf
+- NYC Building Code 2022 Appendix G G304.1.1 item 6: "Utilities and attendant equipment shall be located at or above the design flood elevation specified in ASCE 24 … or … constructed so as to prevent water from entering or accumulating within the components during conditions of flooding"; electrical wiring systems permitted below DFE when conforming to the Electrical Code — https://up.codes/viewer/new_york_city/nyc-building-code-2022/chapter/G/flood-resistant-construction
+- Brick Underground (Mimi O'Connor, Nov 7 2019): service call estimates collected $195/hr and $250/hr plus parts; Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections"; "Intercoms are getting outdated"; five-apartment building replacement could be done in a day, ~two days for a 100-unit building (Pete Carmello, Lock and Tech); you need the building's authorization before any repair — https://brickunderground.com///node/47393
+- Brownstoner forum "Video doorbell for upper levels of multi-fam brownstone?": owner of two-apartment building with old buzzer intercom "can't see out our front door"; quote over $1,500 later corrected to "more like $3,000"; one reply wired a SimpliSafe doorbell with plug-in chimes because old doorbell wiring was too old; staff reply: $1,500 wired system "sounds cheap to me" — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- ButterflyMX apartment buzzer guide: "A wired system isn't automatically outdated, and a wireless system isn't free of wiring."; "The relay is the electrical control point; it doesn't physically swing the door open."; "Older analog systems often use dedicated conductors between the entrance and each unit."; "Reuse still depends on conductor condition, topology, available wires, voltage, controls, and lock compatibility."; "There is no useful single price for an apartment buzzer system." — https://butterflymx.com/blog/apartment-buzzer/
+- Google PAA / PASF / AnswerThePublic: EMPTY (not accessible)
+- Bing / DuckDuckGo: EMPTY (single search backend only)
+- Yelp 1–3★ for door buzzer installers near Sea Gate: EMPTY
+- Sea-Gate-specific news about buzzers/intercoms: EMPTY
+- DOB permits for intercom work in Sea Gate: EMPTY (low-voltage work not found in searches)
+
+### Questions people ask — Door Buzzer Installation in Sea Gate
+- Who is responsible for fixing a broken apartment buzzer? — ButterflyMX guide heading — https://butterflymx.com/blog/apartment-buzzer/
+- Can a renter add smart control to an existing buzzer? — ButterflyMX guide heading — https://butterflymx.com/blog/apartment-buzzer/
+- How can a property reduce buzzer bombing? — ButterflyMX guide heading — https://butterflymx.com/blog/apartment-buzzer/
+- Why does my apartment buzzer keep buzzing? — ButterflyMX guide heading — https://butterflymx.com/blog/apartment-buzzer/
+- How do I add a video doorbell for the upper apartments of a two-unit house when there's an old buzzer intercom? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Can a battery doorbell mount on the existing intercom, or should I remove it and install separate doorbells? — Brownstoner forum — same URL
+- Is a wired model better than battery for a multi-family house? — Brownstoner forum — same URL
+- How long does it take to replace a building intercom? — Brick Underground — https://brickunderground.com///node/47393
+- Do I need the building's permission before having the buzzer worked on? — Brick Underground — same URL
+- How much does a buzzer service call cost in NYC? — Brick Underground — same URL
+- Delivery drivers and the Sea Gate gate (how do couriers reach the door) — Reddit r/AmazonFlexDrivers (title only) — https://www.reddit.com/r/AmazonFlexDrivers/comments/1w25qrt/nyc_brooklyn_sea_gate_typical/
