@@ -1610,3 +1610,34 @@ Note: the live web-search budget for this build was exhausted before any new sea
 - Do tenants have to ask in writing before an older building must install an intercom? — MDL §50-a — https://law.justia.com/codes/new-york/mdw/article-3/title-2/50-a/
 - Is there a monthly fee with a cloud intercom? — Swiftlane — https://swiftlane.com/blog/apartment-intercom-installation-cost/
 - How high should the entry panel be mounted? — ADA Standards — https://www.access-board.gov/ada/chapter/ch03/
+
+## Dyker Heights, Brooklyn — /door-buzzer-installation-dyker-heights-brooklyn-ny (factory research, 2026-11-11)
+
+- Package theft from stoops and porches is a long-running Dyker Heights complaint: a Brooklyn Paper story (Aug 13 2019) describes a package thief who had "plagued her neighbors for nearly 20 years"; one package was taken from a stoop by 78th Street and 11th Avenue on July 27, 2019; she was arrested five times for petty larceny and trespassing in Dyker Heights and Bensonhurst in 2019 alone; resident quote: "My neighbors and I try to take in packages for each other so as to not have her come stealing, but it's hard sometimes"; another resident's surveillance cameras caught the thief taking packages off her porch — https://www.brooklynpaper.com/da-powerless-to-stop-notorious-dyker-heights-package-thief-residents-claim/
+- Reddit r/Brooklyn thread "Beware: Dyker Heights Package stealer" (excerpt only): "There's a man going around the neighborhood stealing packages. He's seen with large tote bags and will swoop in to steal after it's delivered." — https://www.reddit.com/r/Brooklyn/comments/1ai4jqd/beware_dyker_heights_package_stealer/
+- NYPD 68th Precinct covers Bay Ridge and Dyker Heights; Facebook Bay Ridge group post on 68th Precinct seeking a man stealing packages from porches (excerpt only) — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/68th-precinct.page ; https://www.facebook.com/groups/bayRidgeTalk/posts/2797682493737037/
+- NYU Furman Center, Bay Ridge/Dyker Heights (community district): 2024 homeownership rate 41.0% vs 32.7% citywide; 51,486 housing units (latest); 2025 sales volume 135 one-family, 168 two-to-four-family, 25 five-plus-family buildings, 57 condos; serious housing code violations 85.3 per 1,000 privately owned rental units (latest year) and total violations 291.0 per 1,000; public housing 0.0% of rental units; 2024 population 128,247, 22.3% Asian, 21.9% Hispanic — https://www.furmancenter.org/neighborhoods/bay-ridge-dyker-heights/
+- New multi-unit buildings are being filed on Dyker Heights lots: 1302 83rd Street — three-story residential, 11 residences, cellar, eight open parking spaces, 33 ft, filed by WNS Development LLC, Simino Architect (NY YIMBY, Oct 3 2024) — https://newyorkyimby.com/2024/10/permits-filed-for-1302-83rd-street-in-dyker-heights-brooklyn.html
+- 7924 13th Avenue (also 1283 80th Street), corner lot near the 79th Street D station: five-story mixed-use, 22 residences, 19,970 sq ft residential plus 5,005 sq ft commercial, 55 ft (NY YIMBY, Jan 18 2026) — https://newyorkyimby.com/2026/01/permits-filed-for-7924-13th-avenue-in-dyker-heights-brooklyn.html
+- New condos on 13th Avenue listed for sale, e.g. 8315 13th Ave #3C and 8323 13th Ave #3D ("Brand-New 2-Bedroom Condo"); 6605 13th Avenue is a 1931 three-story mixed-use building with 6 units — https://www.homes.com/brooklyn-ny/dyker-heights-neighborhood/condos-for-sale/ ; https://streeteasy.com/building/6605-13-avenue-brooklyn
+- Homes.com: housing in Dyker Heights "is defined by a limited inventory of single- and two-family homes" — https://www.homes.com/local-guide/brooklyn-ny/dyker-heights-neighborhood/
+- NYC DOB defines an illegal conversion as altering a building "to create additional apartment units without first obtaining the proper permits", e.g. "Adding an apartment in the basement, attic or garage" — https://www.nyc.gov/site/buildings/tenant/illegal-conversion.page
+- City & State (Jan 2023): the city's basement apartment pilot in parts of Brooklyn had only five active participants — https://www.cityandstateny.com/policy/2023/01/nycs-basement-apartment-pilot-draws-only-5-participants/382166/
+- National cost guide (NYHLS): audio-only wired $450–$900 installed, wireless audio $350–$700, video wired $900–$1,900, multi-tenant commercial $3,500+ — https://nyhls.com/blog/door-buzzer-system
+- Swiftlane: repair $150–$250, like-for-like audio replacement $1,000–$3,000 per door, or smart video upgrade — https://swiftlane.com/blog/apartment-buzzer-system/
+- Reddit r/AskNYC (excerpt only): a tenant in a 4-unit Brooklyn building notes the landlord "isn't required to put in a buzzer system or a self-locking front door" and asks what a system costs — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Local HPD/311 intercom complaint counts for ZIP 11228: EMPTY (open data not queried in full)
+- Yelp reviews for buzzer installers near Dyker Heights: EMPTY
+- Google PAA / PASF / AI Overview / Answer the Public / Bing / DuckDuckGo: EMPTY (only Firecrawl search available)
+- Dyker Heights-specific Reddit thread about buzzers or intercoms: EMPTY (search returned nothing)
+
+### Questions people ask — Door Buzzer Installation in Dyker Heights
+- How much does a buzzer/intercom system cost (for a 4-unit Brooklyn building)? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- Is a landlord of a small (under 8-unit) building required to put in a buzzer or self-locking door? — Reddit — https://www.reddit.com/r/AskNYC/comments/3jrrqj/how_much_does_a_buzzerintercom_system_cost/
+- How can I stop packages being stolen from my stoop/porch? — Reddit / news — https://www.reddit.com/r/Brooklyn/comments/1ai4jqd/beware_dyker_heights_package_stealer/
+- Do door buzzer installations in NYC need a permit? — Bing-style result (linkedsecurityny) — https://linkedsecurityny.com/blog/professional-door-buzzer-system-installation-in-nyc-what-to-expect-2025-complete-guide/
+- Can an old intercom panel be upgraded without rewiring the whole building? — vendor FAQ — https://security-systems.nyc/service/intercom-system-installation/
+- Can an intercom be integrated with cameras and alarms? — vendor FAQ — https://security-systems.nyc/service/intercom-system-installation/
+- Wired vs wireless buzzer: which costs less installed? — cost guide — https://nyhls.com/blog/door-buzzer-system
+- Is it cheaper to repair a buzzer or replace it? — cost guide — https://swiftlane.com/blog/apartment-buzzer-system/
+- Recommendations for door buzzer/intercom installation for a rental property — Facebook — https://www.facebook.com/groups/1508709089408538/posts/4405781583034593/
