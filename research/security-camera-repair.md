@@ -482,3 +482,45 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Where should I park so a camera covers my car? — Canarsie Courier (63rd Pct NCO) — https://canarsiecourier.com/?p=1118
 - Can my footage help police find a package thief? — Canarsie Courier — https://canarsiecourier.com/?p=1118
 - What does camera install or repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Brighton Beach, Brooklyn — /security-camera-repair-brighton-beach-brooklyn-ny (factory research, 2026-11-11)
+
+**Crime figures, 60th Precinct (Brighton Beach, Coney Island, Sea Gate)**
+- NYPD CompStat, 60th Precinct, week 11/2/2026–11/8/2026: burglary YTD 122 (2026) vs 94 (2025), +29.8%; 28-day burglary 12 vs 6; robbery YTD 148 vs 136, +8.8%; grand larceny YTD 346 vs 363, -4.7%; G.L.A. YTD 90 vs 90; retail theft YTD 222 vs 208, +6.7%; petit larceny YTD 907 vs 862, +5.2%; housing (NYCHA) complaints YTD 140 vs 136. Calendar 2025 burglary 119 vs 1,078 in 1990 (-89.0%). — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-060pct.pdf
+
+**Local incidents where surveillance video mattered**
+- News 12 (published Sept 1, 2026): "Surveillance video obtained by News 12 shows the moments a man randomly attacked an elderly woman in Brighton Beach" — around 9:45 a.m. Aug 31, a man ran out of the subway station exit and threw a trash-filled object at a 90-year-old woman; "Police say the 90-year-old woman was taken to the hospital and is in stable condition." Camera owner not identified. — https://bronx.news12.com/caught-on-camera-90-year-old-woman-attacked-by-stranger-in-brighton-beach
+- Fox 5 NY covered the same incident: "Shocking video shows man throwing crib filled with trash at 90-year-old in Brooklyn" — https://www.fox5ny.com/news/man-throws-trash-can-at-90-year-old-woman-brooklyn
+- Brooklyn Eagle: a senior pushed from behind in front of 221 Brighton Beach Avenue around 10:25 a.m. on a Friday; police released surveillance photos of the suspect, who fled westbound on Brighton Beach Avenue toward Ocean Parkway — https://brooklyneagle.com/380888/senior-pushed-from-behind-and-injured-in-brighton-beach/
+- News 12 (Dec 2011): "two shoplifters recently made off with a pair of expensive fur coats" from Brighton Beach stores; "Surveillance video shows a woman stealing" — https://brooklyn.news12.com/brighton-beach-stores-on-alert-after-fur-coat-robberies-34789703
+- News 12 (Mar 10, 2020): "Police: Man robs Brighton Beach deli at gunpoint, steals $2,500" — https://brooklyn.news12.com/police-man-robs-brighton-beach-deli-at-gunpoint-steals-dollar2500-41873897
+
+**Salt air and coastal corrosion (what it does to cameras)**
+- ACTi (camera maker): "Sodium chloride and other halides are aggressive to metals, accelerating oxidation, pitting, and galvanic corrosion." Without anti-corrosion measures typical failures are "coating delamination, rusting, galvanic attack," plus seal failure, optical haze and mounting loosening; exposed parts include housings, fasteners, window and seal interfaces, connectors and cable glands. — https://www.acti.com/technologies/anti-corrosion-design
+
+**Recorder rooms, heat and battery backup**
+- Schneider Electric (APC) blog: ASHRAE recommends 20–25°C (68–77°F) for IT equipment like a UPS, allowable 15–32°C (59–90°F); "for approximately every 10°C (18°F) above the ambient temperature of 25°C (77°F), the life of the battery will be reduced by 50 percent"; the UPS "should not be placed near open windows or areas that contain high amounts of moisture" — https://blog.se.com/digital-transformation/it-management/2014/08/28/recommendations-prolonging-life-ups-battery/
+- Backblaze (drive-failure data): Google found temperature was not a good predictor of failure; Microsoft/UVA found a significant correlation; one Barracuda LP model's annual failure rate was 15.6% cool vs 34.6% warm. — https://www.backblaze.com/blog/hard-drive-temperature-does-it-matter/
+
+**Equipment rules that change a repair**
+- FCC rules (Nov 2022) bar covered equipment, Hikvision and Dahua among the companies cited, from new authorization for import or sale; Dahua told Security Sales the order "does not affect products that are already authorized." — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+
+**Apartment buildings and tenants (NYC)**
+- Connextivity: in apartment buildings cameras go up because of packages, visitors and peace of mind; footage "is typically stored on premises, on a server or recorder inside the building"; posted notice where the building records "is standard practice and costs nothing." — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+
+**Empty**
+- DOB permits for camera work in Brighton Beach (11235): EMPTY
+- LPC historic district rules affecting camera mounting in Brighton Beach: EMPTY (no district found)
+- 311 / HPD camera complaint counts for 11235: EMPTY
+- Brighton Beach BID camera program: EMPTY (no item found)
+- Local Yelp reviews for camera repair in Brighton Beach: EMPTY
+- Reddit threads on camera repair in Brighton Beach: EMPTY (only an r/Brooklyn excerpt noting some buildings prohibit Ring cameras in hallways — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/)
+
+### Questions people ask — Security Camera Repair in Brighton Beach
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Can hallway cameras or Ring doorbells be put up by a tenant in an apartment building? — Reddit (r/Brooklyn excerpt) — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/
+- Are backyard security cameras legally allowed in NYC? — Reddit (r/AskNYC) — https://www.reddit.com/r/AskNYC/comments/1md93cr/are_backyard_security_cameras_legally_allowed_in/
+- What can tenants and buildings actually do with cameras outside apartment doors? — vendor article — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Will a Hikvision or Dahua system still get parts after the FCC order? — trade press — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- Does salt air damage outdoor security cameras? — manufacturer page — https://www.acti.com/technologies/anti-corrosion-design
+- Where should a UPS for the recorder go, and how long does its battery last? — manufacturer blog — https://blog.se.com/digital-transformation/it-management/2014/08/28/recommendations-prolonging-life-ups-battery/
