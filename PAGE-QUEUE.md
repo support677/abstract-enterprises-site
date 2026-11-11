@@ -216,7 +216,7 @@ LIVE | ring-vs-nest | Comparison: Ring vs Nest | NYC hub | up / | (800) 486-0943
 LIVE | eufy-vs-ring | Comparison: Eufy vs Ring | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 LIVE | hikvision-vs-dahua | Comparison: Hikvision vs Dahua | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 # PRIORITY (Anwar, Nov 11 2026): the 150 Brooklyn neighborhood pages below go before every other TODO line. The Brooklyn neighborhood ads stay paused until all 150 are LIVE.
-BUILDING 2026-11-11T17:38Z max-burn | door-buzzer-installation-bath-beach-brooklyn-ny | Door Buzzer Installation | Bath Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-bath-beach-brooklyn-ny | Door Buzzer Installation | Bath Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T17:38Z max-burn | door-buzzer-installation-bay-ridge-brooklyn-ny | Door Buzzer Installation | Bay Ridge, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T17:38Z max-burn | door-buzzer-installation-bedford-stuyvesant-brooklyn-ny | Door Buzzer Installation | Bedford-Stuyvesant, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-bensonhurst-brooklyn-ny | Door Buzzer Installation | Bensonhurst, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
