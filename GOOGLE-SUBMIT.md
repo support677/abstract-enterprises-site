@@ -74,6 +74,8 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 
 2026-11-09 evening (scheduled, 01:53 UTC Nov 10, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2355 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-10T01:53:46Z, 2836 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2067 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected digital-watchdog long island (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at digital-watchdog long island.
 
+2026-11-10 evening (scheduled, 01:53 UTC Nov 11, Claude in Chrome, account /u/1): 0 requested, 0 indexed, 0 failed, 2382 queued. Sitemap resubmitted via API (lastSubmitted 2026-11-11T01:53:02Z, 2836 submitted, 14 indexed, 0 errors, 0 warnings). IndexNow POST of all 2054 unique QUEUED URLs in 5 batches of up to 500: all 200. Inspected avycon westchester county (URL is not on Google; Discovered - currently not indexed); Request indexing returned "Quota Exceeded" on the first try, because the 11 requests this morning used the daily allowance. Queue unchanged; next run starts at avycon westchester county.
+
 ## PRIORITY — brand / product pages not yet indexed (request these first)
 
 <!-- 2026-10-29: brand price pages NOT on Google per URL Inspection API (184). Highest-search brands first, NYC areas first. Request these before everything else. -->
