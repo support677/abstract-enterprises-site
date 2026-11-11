@@ -291,10 +291,10 @@ LIVE | door-buzzer-installation-williamsburg-brooklyn-ny | Door Buzzer Installat
 LIVE | door-buzzer-installation-windsor-terrace-brooklyn-ny | Door Buzzer Installation | Windsor Terrace, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-wingate-brooklyn-ny | Door Buzzer Installation | Wingate, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-wyckoff-heights-brooklyn-ny | Door Buzzer Installation | Wyckoff Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-bath-beach-brooklyn-ny | Security Camera Repair | Bath Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-bay-ridge-brooklyn-ny | Security Camera Repair | Bay Ridge, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-bath-beach-brooklyn-ny | Security Camera Repair | Bath Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-bay-ridge-brooklyn-ny | Security Camera Repair | Bay Ridge, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-bedford-stuyvesant-brooklyn-ny | Security Camera Repair | Bedford-Stuyvesant, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-bensonhurst-brooklyn-ny | Security Camera Repair | Bensonhurst, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-bensonhurst-brooklyn-ny | Security Camera Repair | Bensonhurst, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-bergen-beach-brooklyn-ny | Security Camera Repair | Bergen Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-beverley-square-brooklyn-ny | Security Camera Repair | Beverley Square, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T23:15Z max-burn | security-camera-repair-boerum-hill-brooklyn-ny | Security Camera Repair | Boerum Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
