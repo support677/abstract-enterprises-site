@@ -249,7 +249,7 @@ BUILDING 2026-11-11T18:05Z factory | door-buzzer-installation-east-new-york-broo
 LIVE | door-buzzer-installation-east-williamsburg-brooklyn-ny | Door Buzzer Installation | East Williamsburg, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-fiske-terrace-brooklyn-ny | Door Buzzer Installation | Fiske Terrace, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-flatbush-brooklyn-ny | Door Buzzer Installation | Flatbush, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T21:01Z max-burn | door-buzzer-installation-flatlands-brooklyn-ny | Door Buzzer Installation | Flatlands, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-flatlands-brooklyn-ny | Door Buzzer Installation | Flatlands, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-fort-greene-brooklyn-ny | Door Buzzer Installation | Fort Greene, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-fort-hamilton-brooklyn-ny | Door Buzzer Installation | Fort Hamilton, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-fulton-ferry-brooklyn-ny | Door Buzzer Installation | Fulton Ferry, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
