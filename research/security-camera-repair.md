@@ -299,3 +299,48 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Anyone know a good commercial security systems company in NYC? — Reddit r/Brooklyn — https://reddit.sentinel-team.org/posts/1qehoq6/snapshots/2026-01-16T23%3A12%3A55.364644Z
 - Looking for an affordable security system with cameras, alerts and remote viewing in Brooklyn NY — JustAnswer — https://www.justanswer.com/home-security-systems/8huoi-looking-security-system-couple-cameras-monitors.html
 - How do I get footage to the police? (NYPD asks for video via Crime Stoppers) — news — https://www.amny.com/news/brooklyn-jogger-stabbing-nypd-dash-cams-clues/
+
+## Beverley Square, Brooklyn — /security-camera-repair-beverley-square-brooklyn-ny (factory research, 2026-11-11)
+
+**Power events on Beverley Road (recorders, PoE switches, camera power supplies)**
+- June 20, 2025: FDNY responded just before 5 a.m. to a manhole fire on Beverly Road in Flatbush; at least 1,700 Con Edison customers were without power at one point; cause under investigation; resident Eden Gabay: "Tomorrow onwards, that's going to be really rough." Resident Marvin Louis: "I woke up around 5 a.m., and I was just coughing, but I thought I just had a cough." — https://brooklyn.news12.com/more-than-1700-con-ed-customers-without-power-in-flatbush-due-to-manhole-issues
+- July 13, 2026: manhole fire near 650 Ocean Ave. in Flatbush; about 343 Con Edison customers without power as of 10 p.m.; restoration expected 1 a.m. Tuesday — https://brooklyn.news12.com/2026/07/14/manhole-fire-leaves-flatbush-residents-in-the-dark/fB0f6Dcb4eHo3tz8lLsYI
+- Feb 26, 2026 (Brooklyn-wide, not Flatbush specifically): 1,879 Brooklyn customers without power after the snowstorm; Con Edison says melted snow mixed with road salt can seep into underground electrical equipment — https://brooklyn.news12.com/2026/02/26/power-outages-continue-after-snowstorm-some-may-wait-until-friday-night/1NUuIhENA0aYW3hfjLqv6L
+
+**Daytime burglaries on the Beverley Square blocks and how police use video**
+- 70th Precinct Community Council (reported June 28, 2012): daytime break-ins on Westminster between Beverley and Cortelyou (early afternoon, a man with a gun; a girl had her arm broken) and on DeKoven near Rugby (mid-morning); neighbors on that Westminster block reported four burglaries, three in the past month, all during the day; three attempted break-ins near DeKoven including one on Argyle; Captain Ebony Washington: "Every burglary we respond to, we try to look for surveillance." Crime Prevention unit offers home surveys — https://bklyner.com/the-70th-precinct-addresses-increasing-incidents-of-burglary-ditmas-park
+- Patch (June 28, 2012): resident near Cortelyou Road said six homes were broken into in a short period, all during the day: "My house was robbed a few weeks ago, and there has been a spate of burglaries nearby." 70th Precinct (718) 851-5511 offers a free home crime prevention survey — https://patch.com/new-york/ditmaspark/string-of-break-ins-plague-ditmas-park
+- Patch (Feb 12, 2013): 70th Precinct said recent burglaries used windows reached from fire escapes or unlocked side/rear windows; "Complete darkness in your home suggests that nobody is inside."; police: "Call your alarm company to ensure you are taking advantage of all the features offered." — https://patch.com/new-york/ditmaspark/70th-precinct-offers-safety-tips-to-offset-property-crime-spike
+- NYPD: the 70th Precinct covers Midwood, Fiske Terrace, Ditmas Park and Prospect Park South; station house 154 Lawrence Avenue — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page
+- Bklyner (Dec 2016): a package was taken from inside a UPS truck in front of 75 East 21 Street between Caton and Woodruff Avenues; no video mentioned — https://bklyner.com/police-search-suspect-flatbush-package-theft-ditmas-park
+
+**Building stock that shapes camera repair here**
+- Historic Districts Council: T. B. Ackerson developed Beverley Square East first (East 19th Street between Beverley and Cortelyou Roads, 1898–1901), then bought an adjoining farm for Beverley Square West; houses with Palladian windows and grand columns; "Beverley Square West was built with the intention that no two houses be exactly alike."; 257 East 19th Street was Ackerson's model home and appeared in Spike Lee's "Malcolm X" — https://6tocelebrate.org/site/homes-on-east-19th-street-between-beverley-cortelyou-roads/ and https://6tocelebrate.org/?p=211
+- Beverley Square East is not a designated LPC district (no designation found); Beverley Square West was designated Nov 25, 2025 — https://www.nyc.gov/site/lpc/about/pr2025/lpc-designates-two-new-historic-districts-in-flatbush.page
+- LPC Permit Guidebook ch. 11: security cameras well spaced, no more than two per 25 feet of street frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork, not through cast iron or decorative surfaces; about ten inches of visible conduit maximum; no permit for "Ordinary maintenance, repair, and retrofitting"; in-kind replacement needs manufacturer cut sheets but no elevation drawings — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Troubleshooting facts from manufacturers**
+- Swann DVR video-loss guide: if no recorder menu appears the fault is the monitor output, not cameras; several cameras dropping on one adapter often points to a faulty adapter; cover the camera and look for a faint red IR glow (no glow = no power); "Ensure that you have only used *ONE* splitter per power supply."; swap a known-good camera onto the suspect cable to test the cable; test each port — https://support.swann.com/hc/articles/4747272083865
+
+**Footage, police and tenants**
+- Ring ended "Request for Assistance" in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; city buildings aren't required to have functioning cameras — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+
+**Cost benchmarks**
+- HomeAdvisor/Angi Brooklyn surveillance camera install or repair: average $1,416; typical $680–$2,145; low–high $160–$3,500 — https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
+
+**Empty**
+- DOB permits for camera work in Beverley Square: EMPTY
+- 311 / HPD camera complaint counts for 11218/11226: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity) threads on camera repair in Beverley Square/Flatbush: EMPTY
+- Yelp camera repair reviews for Flatbush: EMPTY (only directory listings returned)
+- Local news specifically about camera repair in Beverley Square: EMPTY
+
+### Questions people ask — Security Camera Repair in Beverley Square
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — Angi/HomeAdvisor — https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
+- Why did my cameras lose video on the DVR, and is it the camera, cable, power supply or recorder? — Swann support — https://support.swann.com/hc/articles/4747272083865
+- Do I need Landmarks permission to replace a camera on a house in a historic district? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Can police get my doorbell camera video without asking me? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Does my landlord have to show me camera footage of a package theft? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- What should I do so police can use my video after a daytime burglary? — Bklyner (70th Precinct) — https://bklyner.com/the-70th-precinct-addresses-increasing-incidents-of-burglary-ditmas-park
