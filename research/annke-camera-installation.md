@@ -273,3 +273,95 @@ Search results don't show Google's People Also Ask boxes or People Also Search F
 - Does the NVR have an external power supply? — Other (IPCamTalk forum) — https://ipcamtalk.com/threads/help-with-older-annke-system.74199/
 - If I connect that camera to the PoE switch, it should have power and be discoverable, correct? — Other (IPCamTalk forum) — https://ipcamtalk.com/threads/help-with-older-annke-system.74199/
 - Can I add cameras later without another upgrade? — the [own site] labels this "AnswerThePublic," but I couldn't verify that — https://www.abstractenterprisessecuritysystems.com/dvr-upgrade-hudson-valley
+
+## Brooklyn, Brooklyn — /annke-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**What I couldn't get:** I only had a general web search tool. I couldn't open Google's live results, so I have no People Also Ask boxes, no People Also Search For / related searches, no Bing or DuckDuckGo results and no AnswerThePublic data. Those rows say EMPTY. I also found no HPD violations, 311 complaints or DOB permit records about cameras, and no Reddit thread in any Brooklyn or NYC subreddit about Annke specifically. I didn't make up anything to fill those gaps.
+
+**The ANNKE product and the federal rules (the biggest angle for this page)**
+- Annke shows up on several Hikvision-OEM lists. A June 2026 analysis lists **Annke** among the "Prominent Hikvision OEM / Rebranded Brands" — https://worldstarsecuritycameras.com/fcc-expands-ban-on-hikvision-dahua-and-other-chinese-surveillance-equipment-full-implications-for-the-u-s-market-june-2026-update/
+- An NDAA compliance guide says only some models are Hikvision-made: "Annke (some models OEM from Hikvision)". It also warns that "the box at receiving says one thing and the FCC ID inside says another" — https://tec-tel.com/resources/ndaa-section-889-camera-compliance
+- The FCC update dated June 26, 2026 prohibited the continued importation and marketing of previously authorized equipment from Huawei, ZTE, Hytera, Hikvision, and Dahua... this time the ban reaches older models, not just new ones (FCC Public Notice DA 26-635) — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- How far the ban reaches: Hikvision, Dahua and Hytera aren't covered for every use. The FCC's Covered List entry for Hikvision applies "to the extent it is used for the purpose of public safety, security of government facilities, physical security surveillance of critical infrastructure, and other national security purposes." The FCC's new definition of critical infrastructure took effect on October 13, 2026 (FCC 26-50, 91 FR 57798) — https://emeraldsecurity.net/2026/10/12/fcc-26-50-what-the-new-camera-rules-mean-for-integrators/ ; https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- Cameras people already own are unaffected: the June notice says that continued use of lawfully purchased equipment is not affected — https://www.coram.ai/post/hikvision-competitors
+- Company background: Founded Year 2014; On February 28th, 2022, Annke was acquired by Shenzhen InfoTech Technologies — https://www.cbinsights.com/company/annke
+- A Brooklyn competitor's repair page says Annke camera repair covers Annke 4K kit reconfiguration, Annke Vision app pairing, and Annke-to-Hikvision firmware compatibility issues (Annke uses Hikvision-derived hardware on many models). It also claims Annke repair in Brooklyn averages $250–$500 (competitor's claim) — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- The same competitor says that for commercial and larger builds we lean on Dahua and Hikvision (and their OEM lines like Annke and LTS) — https://www.abstractenterprisessecuritysystems.com/nvr-installation-brooklyn
+- Wi-Fi limit worth noting in a dense borough: one guide says Annke cameras only support 2.4 GHz Wi-Fi bands (not 5 GHz) (third-party guide, not confirmed by Annke) — https://surveillanceguides.com/how-to-set-up-annke-camera/
+- Wiring on Annke DVR (analog) kits: Connect your Camera to the video cable. B: Connect the video cable to the DVR. Power goes through the 1 to 4 power splitter cable. Annke recommends mounting above more than 2 meters — https://help.annke.com/hc/en-us/articles/360000239181-Installation-for-Annke-DVR-Kits
+- Heat complaint on an enthusiast forum (not Reddit): one user said the cameras heat up significantly. A reply noted people record temps exceeding 140degrees with these types of cameras — https://ipcamtalk.com/threads/annke-ive-had-enough.80204/
+- Be careful with this one: an about.me page titled "Annke Camera Setup - New York" sends users to Chat with us on our website for expert assistance! It looks like a third-party "support" page, not Annke itself — https://about.me/annkecamera
+
+**Brooklyn building types and wiring**
+- Brownstone mounting, per a competitor: a camera at 12–14 feet needs a 16' extension ladder, a hammer drill with a 5/16" masonry bit, the right anchor for the limestone or brick surface. The same page warns about salt-damaged masonry in shore neighborhoods — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Weak Wi-Fi, per the same competitor: Brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal — too weak for any wireless camera. They quote $295–$395 for the labor for a single camera on a stoop — same URL
+- Wired vs. wireless: Wired security camera installation with PoE is far more reliable for Brooklyn's brick brownstones and concrete buildings. Wireless security camera installation uses WiFi, which drops through thick walls. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Where the recorder usually goes: tucked in a closet, a basement, a back office, or a locked rack, wired to a PoE switch — https://www.abstractenterprisessecuritysystems.com/nvr-installation-brooklyn
+- Hiding cable on brownstones: one installer says we route through attic access, cornices, and interior chases to leave the facade untouched — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Apartment-building pricing (competitor claim): roughly $500–$1,500 per camera installed — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Lighting affects camera placement: The NYS Multiple Dwelling Law requires adequate lighting in common areas including vestibules, hallways, stairwells, and courtyards... a camera pointed at an unlit corridor provides no usable footage. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- No city mandate, but HPD pressure: There is no general NYC law mandating cameras in apartment buildings. HPD may recommend them in buildings with ongoing crime-related violations — same URL
+- Intercom rule: Class A multiple dwellings (apartment buildings) constructed or converted after January 1, 1968, with eight or more units must have intercommunication systems at the main entrance — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+
+**LPC rules (landmarks and historic districts)**
+- The LPC permit guidebook covers cameras in the chapter on health and safety equipment. For small buildings, no more than two cameras are allowed for every 25 feet of street frontage, and there's a separate limit for large buildings. Applications need Manufacturer cut sheets (so the Annke spec sheet gets submitted) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- LPC Rule 2-20 would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative, and the device would have to be as small as possible — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- Sources disagree on scope. RecordingLaw describes the 2-per-25-ft / 3-per-25-ft limits as rules that New York City imposes on all buildings. The LPC guidebook frames them as LPC staff-approval criteria for designated buildings. Treat them as landmarks rules — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- An architect confirms that on landmarked townhouses, plans to add security cameras, all of those elements require approval, and that Rear façades also receive more scrutiny today than they did in years past — https://www.turettarch.com/post/ask-an-architect-landmarked-townhouse-nyc
+
+**Licensing (NYS Department of State)**
+- You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS) — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- A trade association says unlicensed installers of systems that INCLUDE security cameras, CCTV, access control systems, etc. may be fined up to $10,000.00! — https://mbafaaoni.wildapricot.org/NYS_License_Course_MBFAA.htm/
+- Conflict: a DOS application document says the installation of "passive" (i.e., nondetecting) security devices does not require licensure. Whether CCTV-only work needs a license is disputed — https://d2l2jhoszs7d12.cloudfront.net/state/New%20York/www.dos.ny.gov/Division%20of%20Licensing%20Services/1587-f-a.pdf
+- Brooklyn competitors advertise their license number, e.g. Licensed NYS installer #12000287431 — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+
+**Tenants, landlords and co-ops**
+- Tenants can install cameras inside their own apartment without landlord permission. In common areas, tenants generally do not have the right to install cameras in common hallways, lobbies, or other shared spaces without landlord permission — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Landlords and signage: one source says NYC doesn't require tenant consent for common-area cameras, the Local Law 50 posting requirement applies (I couldn't confirm this against the law itself) — same URL
+- A wired camera requires drilling and possible electrical work; this needs written permission from the landlord. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Co-ops and condos: NYC co-op and condo leases typically require board approval for any camera visible from building common areas. — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- Audio: cameras that record sound must comply with New York one-party consent rules under Penal Law 250.00 — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+
+**Local news and demand**
+- Crown Heights package thefts: CBS reported surveillance video of a suspect near Montgomery Street and New York Avenues. A Shomrim security volunteer spotted him later — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/ ; https://cbsnews.com/newyork/news/alleged-picky-package-thief-arrested
+- Williamsburg: A resident on Reddit reported incidents of Amazon package theft in Williamsburg by Amazon delivery personnel within their apartment building, supported by security camera footage. (secondhand; I couldn't find the original thread) — https://www.deliveryamigo.com/blog/package-theft-in-nyc-whats-happening-in-your-neighborhood
+- An Amnesty-backed mapping project counted 8,220 in Brooklyn cameras. Brooklyn's East New York... was the city's most surveilled neighborhood with 577 cameras — https://www.vice.com/en/article/nypds-sprawling-facial-recognition-system-now-has-more-than-15000-cameras/
+- The NYPD added 100 new cameras in Williamsburg, Crown Heights and Borough Park — https://cbsnews.com/amp/newyork/news/brooklyn-new-security-cameras
+- A proposed private-camera registry, the "safe streets security camera registry act", would require registering new cameras within thirty days after installation. That is a bill (S487A), not law — https://www.nysenate.gov/legislation/bills/2019/S487
+- Not reliable: one site claims over 220,000 private security cameras in Brooklyn, citing a "joint report" I couldn't verify. Don't use it — https://worldbusinessoutlook.com/how-do-visible-cctv-cameras-impact-neighborhood-safety-in-brooklyn/
+- HPD violations / 311 complaints / DOB permits about cameras: EMPTY
+
+**Competitors and Yelp**
+- Brooklyn Yelp listings include True Defense Solutions 4.7 (13 reviews), Eddies Security Systems 5.0 (14 reviews) and NYC Intercom & Camera Services 5.0 (11 reviews) — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=Brooklyn%2C+NY ; https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Praise (neat wiring): "Professional, high quality and super neat work, no wires showing or hanging" — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Praise (multifamily job): a review starting "My husband and I just utlized True Defense Solutions for a security cameras install at our multifamily apartment building. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Prospect+Heights%2C+Brooklyn%2C+NY
+- Possible complaint (cut off in the snippet): "Thank god we didn't ask him to install our security cameras. (Fast Tech Pros) — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=New+York%2C+NY
+- Annke-specific Yelp complaints or praise: EMPTY
+
+### Questions people ask — ANNKE Camera Installation in Brooklyn
+- PAA: EMPTY (couldn't access)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY. No threads came up; the only Reddit mention is secondhand (Williamsburg, above).
+- Yelp: EMPTY. No question-style posts found.
+
+None of the questions below are from the sources you listed. They are real questions published on competitor pages, Q&A sites and forums, labeled by where they appeared:
+- "Is it it's own camera brand?" (about Annke) — Slickdeals comment thread — https://slickdeals.net/f/16659986-annke-pano360-pro-6mp-super-hd-360-fisheye-poe-security-camera-w-built-in-mic-sd-card-slot-100-free-shipping
+- "Am I legally permitted to place a camera outside my front door" (Brooklyn apartment tenant) — JustAnswer — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- "Can you install on a Brooklyn brownstone without damaging the brick?" — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/dahua-camera-installation-brooklyn
+- "What brands of camera do you repair?" — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- "How much does apartment building camera installation cost in Brooklyn?" — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- "Do you offer renter-friendly camera installs in Brooklyn?" — competitor FAQ — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- "Is it legal to install security cameras in a Brooklyn apartment?" — competitor FAQ — https://security-systems.nyc/blog/brooklyn-apartment-security-cameras/
+- "Do renters need landlord permission to install security cameras?" — competitor FAQ — same URL
+- "What are the best security cameras for Brooklyn apartments?" — competitor FAQ — same URL
+- "Do I have to tell my tenants about security cameras in common areas?" — law-firm FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- "Can my landlord install security cameras in my apartment building in New York?" — legal FAQ — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- "Can Tenants Install Cameras Without Landlord Permission in New York?" — blog FAQ — https://cameracamlens.com/what-are-the-apartment-security-camera-laws-in-new-york-state/
+- "Can I still buy Hikvision or Dahua cameras in the US?" — integrator FAQ — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- "Is there a new FCC deadline for cameras coming up?" — integrator FAQ — same URL
+- "Is the camera on your building banned?" — banned-camera checker tool — https://blinkless.com/banned-camera-checker/
+
+**Next step:** someone needs to run "annke camera installation brooklyn" by hand on Google, Bing, DuckDuckGo and AnswerThePublic and search the subreddits directly to fill in the EMPTY rows.

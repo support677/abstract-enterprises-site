@@ -238,3 +238,100 @@ None of these come from Google, Bing or DuckDuckGo results features. They're FAQ
 - DuckDuckGo-only questions — EMPTY
 - Reddit (r/HudsonValley, r/homesecurity, etc.) — EMPTY (searches didn't return any threads)
 - Yelp questions — EMPTY (only the review snippets above)
+
+## Brooklyn, Brooklyn — /night-owl-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Limits of this run.** My search tool returns ordinary web results only. It can't show Google's People Also Ask, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic, so those fields say EMPTY. No Reddit thread came up in any search, and I found no HPD, 311 or DOB permit records about cameras. Everything below came up in the 12 searches. Much of it is installer marketing, and it's labeled that way.
+
+**Night Owl and who installs it**
+- Night Owl itself says it doesn't install. On Best Buy's Q&A, its rep said "Night Owl does not offer an installation service. However, you may contact your local Best Buy's GeekSquad to discuss their installation services." — https://www.bestbuy.com/site/questions/night-owl-8-channel-4-camera-indoor-outdoor-wired-1080p-1tb-dvr-surveillance-system-black-white/5824305/question/56a2776a-5dc5-3eda-95cb-4dbe794d4fe7
+- An older answer from Night Owl pointed buyers to Installer Net, a third-party installer network (phone number on the page). — https://www.bestbuy.com/site/questions/night-owl-8-channel-8-camera-indoor-outdoor-dvr-security-system-black/6598114/question/08001eec-7a44-314e-bc15-8af214070095
+- The sources disagree. GetHuman says "Night Owl does not offer installation services", while Adorama product listings say "Night Owl's professional installation service has you covered." — https://gethuman.com/customer-service/Night-Owl ; https://www.adorama.com/ntba7201628.html
+- At least one Brooklyn installer won't touch the brand. Abstract Enterprises says Night Owl and similar DIY brands "lack the reliability and NVR integration Brooklyn properties require". That leaves an opening for a page that does serve Night Owl owners. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+
+**Wiring and hardware**
+- Wired kits use coax with BNC plugs. Each camera gets a 60 ft video/power cable, and one power adapter and splitter feed every 4 cameras. — https://manuals.plus/m/9fcf929fbfea27ee4b36a322384e1b54223e9dc680e1ddc9c825e62e5ae32b7c
+- Image quality drops on longer runs. The XHD manual says you may need to change the cable run if video degrades and lists camera distance from the DVR as a factor. — https://images.antonline.com/images/User-Manual/1040012484.pdf
+- Night Owl sells a 1,000 ft fire-rated 18AWG cable for in-wall runs (CAB-RG59B-1000VP). — https://www.adorama.com/brands/Night-Owl
+- Its AHD DVRs "also backwards-compatible with existing analog cameras", which suits older buildings that already have coax. — https://www.adorama.com/ntba7201628.html
+- One review site reports that a Reddit user running custom Cat5 cables with RJ45 ends needed a PoE injector. I didn't see the thread itself. — https://cameracamlens.com/install-night-owl-wired-security-cameras/
+- The Night Owl video doorbell works only on 2.4GHz Wi-Fi. — https://www.securitycamhq.com/brands/night-owl-vs-lorex/
+
+**Brooklyn buildings (installer claims)**
+- Abstract Enterprises says Wi-Fi drops through Brooklyn's brick and concrete walls. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- The same company says "Brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal — too weak for any wireless camera." — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Another installer disagrees: "For brownstones and older buildings, we often use wireless cameras to avoid extensive cable runs through historic walls." — https://electrifiedny.com/residential/security-camera-installation/
+- Seneca runs cable through plaster walls and tight utility chases. Its building types: brownstones, row houses, multi-family, mixed-use, retail, warehouses and apartments. — https://senecasecurity.com/security-cameras-brooklyn/
+- Suggested brownstone camera spots: the stoop or front door, the rear garden, the parlor-floor hallway in multi-unit houses, side alleys, and basement-apartment entrances. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-heights-brooklyn-new-york
+
+**Landmarks (LPC) rules**
+- On landmark buildings, LPC allows at most 2 cameras per 25 ft of street frontage for small buildings and 3 for large ones. It discourages mounting on the main façade unless there's no other option. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- LPC's official Permit Guidebook, Chapter 11, has a section on security camera criteria (LPC Rules §2-20). — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Visible mounts and conduit on landmarked or historic-district brownstones may need a Certificate of No Effect or a Permit to Alter. Seneca names Brooklyn Heights, Park Slope and Fort Greene as examples. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Mounting at the rear or in an interior courtyard often avoids LPC review entirely. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- In historic districts, LPC typically wants discreet placement, conduit painted to match, and mounting that doesn't damage the building. — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+
+**DOB permits and licensing**
+- Low-voltage camera work in a residential brownstone usually doesn't need a DOB permit. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Larger jobs may: new conduit through fire-rated walls or floors, or work inside a DOB-inspected renovation. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- New York State licenses security-system installers through the Department of State, so a page offering Night Owl installs needs to address licensing. — https://www.deepsentinel.com/blogs/home-security/new-york-video-surveillance-laws/
+
+**HPD, tenants, co-ops and privacy law**
+- NYC has no law requiring cameras in apartment buildings. HPD may recommend them where crime-related violations keep recurring. The legal requirement is intercoms and lighting. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Renters can't drill without the landlord's written OK. Co-ops and condos often need board approval before any install. — https://linkedsecurityny.com/blog/diy-vs-professional-security-camera-installation-nyc/
+- Neighbors' backyards are protected. Under NY Civil Rights Law §52-a, a neighbor can sue in civil court, and installers recommend setting privacy masks on cameras. — https://vertexsecurity.com/our-blog/security-camera-laws/
+- Cameras that record audio fall under New York's one-party consent rule. — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- NYC's Tenant Data Privacy Act (Local Law 63) covers camera footage when it's used to let people into the building. — https://www.ix-legal.com/blog/2021/july/tenant-data-privacy-act-enacted-by-ny-city-counc/
+- Brooklyn precedent: tenants at Atlantic Plaza Towers in Brownsville fought their landlord's facial-recognition entry system. — https://www.pressreader.com/usa/the-guardian-usa/20190531/281960314236325
+
+**City programs and local news**
+- Through the NYPD's Community Camera Sharing Program, run via NYC311, any business with a camera can share live feeds during emergencies. Registration is at NewYorkCityConnect.org and is free. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- CBS: a package thief was filmed near Montgomery St and New York Ave in Crown Heights. — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- CBS: a thief was buzzed into a Lexington Ave building and took a package from the hallway. — https://www.cbsnews.com/amp/newyork/news/brooklyn-package-stolen
+- ABC7, 2017: package theft on State Street in Downtown Brooklyn. — https://abc7ny.com/package-thefts-caught-on-camera/2810996/
+- 1010 WINS: the NYPD released video of an $18K camera-gear theft at 782 Myrtle Ave in Bed-Stuy. — https://www.audacy.com/1010wins/news/local/man-sought-in-18k-camera-theft-in-brooklyn
+- The NYPD planned 100 new cameras in Williamsburg, Crown Heights and Borough Park. — https://cbsnews.com/amp/newyork/news/brooklyn-new-security-cameras
+- One installer's list of problem blocks: Fulton St, Atlantic Ave and Fifth Ave storefronts, plus brownstone stoops (marketing claim). — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+
+**Prices**
+- Brooklyn installer prices: $950–$2,500 for 4–8 cameras (Abstract), from $850 for 4 cameras (Abstract, Brooklyn Heights page), and from $1,800 (Seneca). — URLs above; https://senecasecurity.com/security-cameras-brooklyn/
+- One reviewer estimated professional installation of a Night Owl 8-camera kit at $500–800. — https://revellphotography.com/night-owl-security-camera-review/
+- Walmart prices for Night Owl kits: about $358 to $1,249.99. — https://www.walmart.com/brand/nightowl/10007264
+
+**Brand complaints**
+- PissedConsumer reviews describe NVRs going dark for hours and "no signal" on wired cameras. — https://night-owl.pissedconsumer.com/review.html
+- Trustpilot (French page): 1.5/5, with complaints about false human-detection alerts and a hard drive the system didn't detect. — https://fr.trustpilot.com/review/nightowlsp.com
+
+**City data and Reddit**
+- HPD violation data on cameras: EMPTY
+- 311 complaint data on cameras: EMPTY (only the camera-sharing program above)
+- DOB permit records: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY
+
+### Questions people ask — Night Owl Camera Installation in Brooklyn
+None of these came from PAA or the other listed channels. They come from Q&A pages and site FAQs, labeled as such.
+
+- Professional installation? Is it available on the Night Owl 8 camera security system and if so how much will it cost? — Best Buy Q&A — https://www.bestbuy.com/site/questions/night-owl-8-channel-8-camera-indoor-outdoor-dvr-security-system-black/6598114/question/08001eec-7a44-314e-bc15-8af214070095
+- Do you guys install the system for free or at a discount or will it be extra? How much for 4 cameras? — Best Buy Q&A — https://www.bestbuy.com/site/questions/night-owl-8-channel-4-camera-indoor-outdoor-wired-1080p-1tb-dvr-surveillance-system-black-white/5824305/question/56a2776a-5dc5-3eda-95cb-4dbe794d4fe7
+- Does Night Owl provide installation services? — GetHuman FAQ — https://gethuman.com/customer-service/Night-Owl
+- Do Night Owl wired cameras need internet for installation? / Can I use existing cables? / How high should I mount them? / How do I fix "no signal"? — site FAQ — https://cameracamlens.com/install-night-owl-wired-security-cameras/
+- Can I install Night Owl wired cameras myself? / What tools do I need? / Best location? — site FAQ — https://storables.com/home-security-and-surveillance/how-to-install-night-owl-wired-security-cameras-2/
+- Does Night Owl need a subscription? / Does it have a monthly fee? / How much do Night Owl cameras cost? — site FAQ — https://www.remodelormove.com/does-night-owl-cameras-require-a-subscription/
+- Which is better, Night Owl or Lorex? / How easy is Night Owl to install? / Wired or wireless? — site FAQs — https://cctvdesk.com/lorex-vs-night-owl/ ; https://www.officecrave.com/articles/night-owl-security-cameras-review
+- Which is better, Arlo or Night Owl? — site FAQ — https://revellphotography.com/night-owl-security-camera-review/
+- How do I hook Night Owl up to a TV? — site FAQ — https://cctvcameravision.com/how-to-install-night-owl-wired-security-cameras/
+- Do you need a permit for security cameras in NYC? / Can you install cameras in a NYC co-op or condo? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/
+- How much does security camera installation cost in Brooklyn? / What should I look for when hiring an installer in Brooklyn? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Can you install on a brownstone without damaging the brick? / How many cameras does a brownstone need? — installer FAQ — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-brooklyn-ny
+- What's the difference between a DVR and an NVR? — installer FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installation-brownsville-brooklyn-ny
+- My carriage house is in an LPC historic district. Are there limits on exterior camera mounting? — installer FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Do I need permission before installing a camera in NYC? / Can my landlord install cameras in my building? — installer FAQ — https://linkedsecurityny.com/blog/diy-vs-professional-security-camera-installation-nyc/
+- What if my camera accidentally points into a neighbor's window? — installer FAQ — https://vertexsecurity.com/our-blog/security-camera-laws/
+- Can my security camera record my neighbor's property? — site FAQ — https://cityrulelookup.com/privacy-surveillance/security-cameras/new-york-ny
+- PAA (Google): EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp complaints: EMPTY. Only praise snippets showed, e.g. Eddies Security Systems (5.0) for "Professional, high quality and super neat work, no wires showing or hanging", plus listings for True Defense Solutions, Peace of Mind and Falcon Locksmith — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY ; https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=Brooklyn%2C+NY

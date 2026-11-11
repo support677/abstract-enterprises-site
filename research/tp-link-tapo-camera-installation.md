@@ -229,3 +229,90 @@
 - How deep do camera pole footings need to be here? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/parking-lot-camera-installation-hudson-valley
 - "Can our facilities guy hang Costco cameras over the summer?" / "Do cameras actually deter anything at an empty rural campus?" — competitor page, attributed to Reddit (unverified) — https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-hudson-valley
 - Reddit (verified threads), Yelp complaint questions, Patch / Bronx Times / BKReader questions: EMPTY
+
+## Brooklyn, Brooklyn — /tp-link-tapo-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Building types, entry, wiring and Wi-Fi conditions**
+- Tapo cameras need 2.4GHz Wi-Fi. During Tapo camera setup, the camera connects to your 2.4GHz Wi-Fi network through the app. In Brooklyn this matters because masonry blocks signal and 2.4GHz is crowded — https://www.tp-link.com/us/support/faq/2710/
+- A Seneca Security page (a competitor) says brownstone masonry walls are dense enough to significantly degrade Wi-Fi signals — especially between floors or between the rear yard and the front of the building. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Same source: brownstones and row houses present a distinct set of installation challenges — thick masonry walls, finished parlor-floor interiors, stoop entrances, and shared party walls that require careful wire routing. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Another competitor page says consumer Wi-Fi cameras choke in a dense Brooklyn building full of competing networks and thick brownstone masonry walls. (marketing claim) — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- A brownstone facade is hard to wire: exterior walls with fragile veneers can make installation and cabling a bit challenging and make a significant alteration to the historic facade, which is prohibited. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Wired fallback: some Tapo models have an Ethernet port (the guide lists 9 Ethernet Port, 10 DC Power Connector). If the Ethernet cable comes loose, the camera will re-enter setup mode, and the Tapo_Cam_XXX Wi-Fi network will broadcast again — https://www.tp-link.com/us/document/108146/ ; https://www.tp-link.com/us/support/faq/2742/
+- Recording keeps going if the internet drops: Once set up, the camera can continue to function even if it loses its router connection. SD card recording, including detection recording and 24/7 recording, will keep running. — https://www.tp-link.com/us/support/faq/2742/
+- Floodlight models need a junction box. An all-pole mains switch shall be incorporated in the electrical installation of the building. The plug-in alternative Tapo CA320 is sold separately and is currently available only in the UK. So a US brownstone rear yard with no box needs new wiring — https://www.tapo.com/us/faq/779/
+- Mounting height: Tapo recommends mounting the floodlight camera 2-3 m (7-10 ft) above the ground. — https://www.tapo.com/us/faq/779/
+- Common fixes for dropouts: Set a fixed WiFi channel on your router instead of auto — channel hopping causes Tapo cameras to drop. Also put the camera on a 2.4GHz-only SSID (non-official troubleshooting site) — https://www.trunetto.com/troubleshooting/security-cameras/tapo/why-does-tapo-camera-keep-disconnecting-wifi-every-day
+- A Slickdeals user complaint about a Tapo SolarCam: it keeps disconnecting from wifi even though it is right next to the router. — https://slickdeals.net/f/18397465-39-99-1080p-tp-link-tapo-solarcam-outdoor-security-camera-w-solar-panel-base-at-amazon
+
+**Tenant, co-op and landlord rules (NYC)**
+- Brick Underground: you need your landlord's permission to install any equipment in the common areas of your building, which includes the hallway and area outside your apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Wi-Fi cameras that need no drilling and no permanent wiring generally raise no issue with a landlord or a board — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- On audio: whether hallway audio counts as eavesdropping has never been settled cleanly, which is why audio is usually left off. This is relevant because Tapo cameras have two-way audio — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Many NYC leases have "alterations clauses" that specifically require landlord written approval for any hardware installation — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- For outdoor cameras or anything requiring drilling, you need written landlord approval. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- Cameras bundled with smart locks or intercom apps fall under a dedicated framework called the Tenant Data Privacy Law — https://sites.google.com/view/365solution6/home/understanding-apartment-security-camera-laws-in-ny
+- For NYC tenants, complaints about building security and surveillance can also be made via HPD or 311. — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Brooklyn context: in 2018 a Brooklyn landlord suddenly attempted to install a facial recognition camera in the entrance of a rent-stabilized building — https://council.nyc.gov/carlina-rivera/?p=396
+
+**LPC (landmark districts)**
+- The LPC Permit Guidebook (Ch. 11) lists security cameras among equipment that is commonly used, like window security bars, security cameras, lighting, and intercom panels. The criteria are in LPC Rules §2-20 — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- The secondary-facade rule: installation will not be more than minimally visible[,] over a secondary facade. — https://rules.cityofnewyork.us/wp-content/uploads/2023/04/LPC-Proposed-Miscellaneous-Rule-Amendments-.pdf
+
+**Licensing and DOB**
+- New York's General Business Law Article 6-D requires a Department of State license to engage in the business of installing, servicing or maintaining security or fire alarm systems. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- License requirements: age 18, fingerprint completion, at least 81 hours of qualifying education, and passage of an alarm-installer examination. — https://contractorlicenserequirements.com/new-york/low-voltage-license-requirements/
+- Co-ops and condos: your installer needs to submit a formal Scope of Work along with a compliant Certificate of Insurance (COI). — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+- HPD violation counts, 311 complaint counts and DOB permit counts tied to cameras: EMPTY
+
+**Product and brand status**
+- TP-Link ban status: a single targeted ban has not taken effect. — https://www.smarthomeperfected.com/is-tapo-safe/
+- The FCC's March 2026 action stops new foreign made routers from being approved for sale... but it does not ban ownership or use — https://www.smarthomeperfected.com/is-tp-link-safe/
+- Lawmakers asked Commerce to assess the national-security risks posed by TP-Link's internet-connected cameras — https://asiatimes.com/2025/11/us-lawmakers-citing-security-issues-want-tp-link-routers-banned/
+- Setup without the Tapo app: if your camera supports Apple HomeKit, you can set it up using the Home app instead. — https://www.tp-link.com/us/support/faq/2742/
+
+**Local news, crime and NYPD programs**
+- The NYPD Community Camera Sharing Program allows any business with a security camera to share live video feeds with the NYPD during emergencies. Registration is at NewYorkCityConnect.org — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- Crown Heights package theft: footage posted on CrownHeights.info shows the suspect casually strolling up the steps of a home near Montgomery Street and New York Avenues — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- A package was stolen from a hallway after the suspect was buzzed into the building on Lexington Avenue (the intercom entry problem) — https://www.cbsnews.com/amp/newyork/news/brooklyn-package-stolen
+- Unverified, from a competitor page that cites Brooklyn Paper: the 79th up 20.4%, the 81st up 11.9% (grand larceny, early 2026). Check the original before using — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+
+**Pricing (competitor claims)**
+- For a 4-camera wireless install in a Brooklyn brownstone, expect $1,200 to $2,400 all-in — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc
+- Install time: 4-camera kit on a Brooklyn brownstone: 2-4 hours — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- A competitor's floodlight page already names TP-Link Tapo C720 installs in Brooklyn — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+
+**Yelp**
+- Praise: "Professional, high quality and super neat work, no wires showing or hanging" (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Listed Brooklyn installers include Eddies Security Systems, True Defense Solutions, Falcon Locksmith, Peace of Mind and Lock and Tech USA — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn,+NY+11204
+- Complaint (partial snippet only): "Thank god we didn't ask him to install our security cameras. (Fast Tech Pros listing; context unknown) — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=New+York%2C+NY
+- Tapo-specific Yelp reviews: EMPTY
+
+### Questions people ask — Tapo Camera Installation in Brooklyn
+- Google PAA: EMPTY (I can't see live SERP features)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY (no threads came up)
+- Am I legally allowed to install a camera outside my front door that faces into the public hallway? — JustAnswer (Brooklyn asker) — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- Can I install a security camera in the hallway for safety? — Brick Underground — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Is it an invasion of my neighbors' privacy if I put a camera in the peephole? — Brick Underground — https://www.brickunderground.com/live/ms-demeanor-is-it-an-invasion-of-privacy-to-put-a-security-camera-in-my-peephole-nyc
+- How much does floodlight camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- I rent in Brooklyn — can I put a floodlight camera outside? — competitor FAQ — same URL
+- Where do I install a wireless camera in a Brooklyn brownstone? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- How long does wireless camera install take in Brooklyn? — competitor FAQ — same URL
+- Can I use a Tapo camera without the Tapo App or a TP-Link account? — TP-Link FAQ — https://www.tp-link.com/us/support/faq/2742/
+- Can the Tapo camera be used without a Wi-Fi network? — TP-Link FAQ — same URL
+- Why does my Tapo C310 still show a Tapo_Cam_XXX network when connected via Ethernet? — TP-Link FAQ — same URL
+- Is TP-Link being banned in the US? — smarthomeperfected FAQ — https://www.smarthomeperfected.com/is-tapo-safe/
+- Are Kasa and Tapo affected by the TP-Link router ban? — smarthomeperfected FAQ — https://www.smarthomeperfected.com/is-tp-link-safe/
+- Do I need a licensed installer for security cameras in New York City? — Vertex FAQ — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+- Can my landlord watch my security cameras? — Linked Security FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Can my landlord put cameras in the hallways or laundry rooms? — tenant-rights.com FAQ — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+
+---
+**Gaps to fill by hand:**
+- **SERP features:** My search tool returns ordinary results only. It can't see Google People Also Ask, related searches, AnswerThePublic, or Bing/DuckDuckGo SERP panels, so I marked those EMPTY. You'll need to collect them manually.
+- **Reddit and city data:** No Reddit threads came up. I also didn't find HPD, 311 or DOB counts tied to cameras.
+- **Question sources:** None of the questions above came from PAA, Reddit or the other channels you listed. They come from Brick Underground, JustAnswer, and FAQ sections on competitor and vendor sites.
+- **Competitor claims:** Much of the Brooklyn-specific detail (prices, install times, Wi-Fi claims) comes from competitors' marketing pages. Check it independently before publishing.

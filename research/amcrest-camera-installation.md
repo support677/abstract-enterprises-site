@@ -248,3 +248,101 @@ Four things to watch when you write the page:
 - Related search "Home Security Camera Installation in Poughkeepsie, New York" — Yelp related searches — https://www.yelp.com/search?find_desc=private+security&find_loc=Poughkeepsie%2C+NY
 - "security camera installation near me Westchester", "security camera cost Westchester County NY", "best security camera installer Westchester" — the installer's page claims these are People Also Search For; I couldn't verify that — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-westchester-county-ny
 - PAA: **EMPTY** · PASF (verified): **EMPTY** · AnswerThePublic: **EMPTY** · Bing: **EMPTY** · DuckDuckGo: **EMPTY** · Reddit (Hudson Valley subs): **EMPTY** · Yelp question text: **EMPTY**
+
+## Brooklyn, Brooklyn — /amcrest-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Before you use this:** I could only run a general web search. I couldn't see Google's People Also Ask boxes, its related searches, AnswerThePublic, or results from Bing or DuckDuckGo, so those are marked EMPTY below. My Reddit searches found no actual Reddit threads. One company, Abstract Enterprises (1282 Troy Ave), shows up in most of the Brooklyn results. If that's your client or a competitor, treat its prices and "field notes" as marketing claims, not independent data. I also found nothing at all on HPD violation data, 311 complaint data or DOB permit data specific to cameras.
+
+**Federal rules (the biggest Amcrest-specific angle)**
+- In June 2026 the FCC ruled against Hikvision, Dahua and three other makers. The ban covers "continued importation and marketing of previously authorized equipment" and this time reaches older models, not just new ones (FCC Public Notice DA 26-635). — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- Lorex and Amcrest aren't named on the FCC Covered List themselves, but both have historically sold cameras built on Dahua hardware, and Dahua is banned. — https://ictally.com/resources/blog/fcc-chinese-camera-import-ban-nashville
+- The Dahua ban depends on how the cameras are used. Sales into public safety, government facilities and other national security uses are barred, and surveillance of critical infrastructure joined that list when FCC 26-50 took effect on October 13, 2026. Homes and shops aren't named, but some commercial clients may need a heads-up. — https://cargotransinc.com/blog/fcc-covered-list-imports/
+- One compliance vendor lists Amcrest as a "US-distributed Dahua OEM" for NDAA Section 889 purposes. That matters for any client with federal contracts or grants. — https://tec-tel.com/resources/ndaa-section-889-camera-compliance
+- Starting March 1 or June 1, 2027, online marketplaces must show a device's FCC ID at the point of sale. — https://obsidianri.com/blog/newsroom-us-20260911-fcc-component-ban-effective
+
+**Landmarks (LPC) rules**
+- LPC rules allow no more than two security cameras per 25 feet of street frontage on small residential or commercial buildings (six stories or less, 40 feet of frontage or less), and no more than three per 25 feet on larger buildings. — https://nyc-docs-new-design-test.readthedocs.io/en/latest/d02/c44/
+- Cameras must be placed so they don't look cluttered or haphazard, and attached in a way that minimizes how much they show. — same URL
+- The rule bars this kind of equipment from a primary façade unless there's no feasible alternative or an agency requires that location. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- In a historic district or on an individually landmarked brownstone, any visible exterior change, including camera mounts and conduit, may need a Certificate of No Effect or a Permit to Alter. One installer names Brooklyn Heights, Park Slope and Fort Greene as examples. — https://senecasecurity.com/services/security-cameras/brownstones/
+- An installer's workaround: mounting at the rear or in an interior courtyard often avoids LPC review entirely while still giving full coverage. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+
+**HPD, DOB, 311 and NYPD**
+- HPD violation data on cameras: EMPTY. What I did find: no general NYC law requires cameras in apartment buildings. HPD may recommend them in buildings with ongoing crime-related violations, but the legal requirement is for intercoms and lighting. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- A broken intercom is an HPD violation, which is a reason to offer cameras together with intercom work. — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Buildings with cameras in common areas (lobbies, hallways, elevators) must post a visible notice under NYC Local Law 50. — same URL
+- Under Multiple Dwelling Law §50-a, apartment buildings with eight or more units that were built or converted after January 1, 1968 must have an intercom at the main entrance. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- DOB permits, from installers rather than DOB itself: low-voltage camera work in a residential brownstone typically doesn't need a DOB permit. — https://senecasecurity.com/services/security-cameras/brownstones/. Another installer says a permit is only needed if the installation involves electrical work. — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/. DOB permit data itself: EMPTY.
+- 311 complaint data: EMPTY. 311 does have a Community Camera Sharing Program page: you can register camera locations with the NYPD at NewYorkCityConnect.org. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- The 78th Precinct encourages residents and businesses to register their cameras so detectives can quickly find possible evidence near an investigation. — https://old.passivehouseaccelerator.com/precinct-brooklyn-operational-scope-community-0o2n.html
+
+**Tenant and landlord rules**
+- Brick Underground: renters need the landlord's permission to install any equipment in common areas, including the hallway outside their apartment. — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- Tenants can install cameras inside their own apartment without the landlord's permission. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Penal Law §250.45 makes it a crime to install a camera where someone has a reasonable expectation of privacy without their consent. — same URL
+- Audio is a separate rule: cameras that record audio must follow the one-party consent rule in Penal Law 250.00. — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Building-wide upgrades in co-ops and condos may need board approval. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Brick Underground on lobby package theft with a broken camera: no city law requires rental buildings to have working cameras, but a landlord on notice of criminal activity may be obligated to take reasonable safety precautions. — https://www.brickunderground.com/rent/stolen-packages-security-camera
+
+**Building types, wiring and network problems**
+- Brownstone façades are solid brick or brownstone veneer, often 12 to 16 inches thick. Other challenges: finished parlor-floor interiors, stoop entrances and shared party walls. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Wi-Fi vs. wired: "Brooklyn brownstone brick attenuates signal" — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html. One installer takes the opposite approach: it often uses wireless cameras in brownstones to avoid long cable runs through historic walls. — https://electrifiedny.com/residential/security-camera-installation/
+- Industrial buildings: brick and steel block Wi-Fi, warehouse racking makes it worse, and battery cameras on a cold loading dock die quietly in January. — https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-brooklyn
+- Remote viewing on Amcrest and similar recorders: in one brownstone job the internet provider used carrier-grade NAT, so port forwarding could never have worked. The fix was the maker's P2P relay, changing every default password, and turning off exposed services. — https://www.abstractenterprisessecuritysystems.com/nvr-installation-brooklyn
+- Commercial buildings: older buildings add full risers, plaster and untraced coax, and every hole through a fire-rated wall or floor is fire-stopped. — https://senecasecurity.com/learn/how-to-choose-security-camera-system-nyc-building
+- How Amcrest hardware works: PoE cameras get power and data over one Ethernet cable from a PoE switch or NVR, while Wi-Fi cameras join a 2.4GHz network and use a power adapter. — https://www.trunetto.com/troubleshooting/security-cameras/amcrest/how-to-install-amcrest-security-camera
+- Amcrest's own guide: the mounting surface must hold at least three times the camera's weight. — https://support.amcrest.com/hc/en-us/articles/360025169591-Physical-Installation-Guide-POE-Bullet-Camera
+- Older analog systems: a DVR uses existing BNC coax, but NVRs won't work with BNC or analog cameras. That's relevant when replacing old CCTV in Brooklyn buildings. — https://amcrest.com/forum/nvrs-dvrs-f19/upgrading-to-nvr-camera-compatability-t12348.html
+
+**Local news, crime and where cameras matter**
+- CBS: a package thief in Crown Heights was filmed walking up the steps of a home near Montgomery Street and New York Avenue. — https://www.cbsnews.com/amp/newyork/news/picky-package-thief-caught-on-video/
+- CBS: on Aug. 19 (2021), at a home on Crescent Street between Atlantic Avenue and Fulton Street in Cypress Hills, a homeowner was slashed while confronting package thieves. — https://www.cbsnews.com/amp/newyork/news/package-thieves-slash-homeowner-brooklyn
+- Abstract Enterprises cites Brooklyn Paper: grand larceny up 1.5% borough-wide in early 2026 and car theft up 15%; in Bed-Stuy the 79th Precinct was up 20.4% and the 81st up 11.9%. I didn't verify this with Brooklyn Paper directly. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- A directory site's list of busy blocks: 5th Ave in Park Slope and Bedford Ave in Williamsburg. — https://blogs.cctvinstaller.ai/the-top-cctv-installers-in-brooklyn-new-york-to-keep-your-home-and-business-safe/
+- Footage retention for buildings: keep 30 to 60 days so a resident can report a package theft days later and the footage still exists. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+
+**Local prices and Amcrest costs**
+- One Brooklyn installer's rates: $245–$345 for a single camera; $895–$1,495 for a 4-camera brownstone kit. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Same company, apartment buildings: $500–$1,500 per camera all-in. — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Amcrest hardware: an entry four-camera kit with an 8-channel 4K NVR and 1 TB drive costs about $400 to $500 in 2026. Full local recording works with no monthly fee. — https://pvrblog.com/brands/amcrest/
+
+**Yelp: praise and complaints near Brooklyn**
+- Praise: "Professional, high quality and super neat work, no wires showing or hanging" (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Surveillance+Cameras&find_loc=Brooklyn%2C+NY
+- Praise: "Needed help updating my current camera system, and Eddie was amazing" — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Brooklyn,+NY+11204
+- Possible complaint: "Thank god we didn't ask him to install our security cameras" (Fast Tech Pros; the snippet is cut off, so the context is unclear) — https://www.yelp.com/search?find_desc=Security+Camera+Installers&find_loc=New+York%2C+NY
+- Other Yelp complaints: EMPTY.
+- Amcrest product complaint (Adorama review, not Brooklyn): "This camera is communicating with some ip address that is not on my network." — https://www.adorama.com/amip8693ewai.html
+
+### Questions people ask — Amcrest Camera Installation in Brooklyn
+
+- Google People Also Ask: EMPTY
+- Google related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing: EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland): EMPTY
+
+Every question below was found on a forum, Q&A site or competitor FAQ page, not in a search engine's question box. I've labeled where each one came from.
+
+- "I live in Brooklyn, New York in an apartment building. Am I legally permitted to place a camera outside my front door?" — JustAnswer (Q&A site) — https://www.justanswer.com/law/mjfcl-live-brooklyn-new-york-apartment-building.html
+- "NYC my landlord put a camera outside my door. Is this illegal?" — JustAnswer — https://www.justanswer.com/landlord-tenant/71v91-nyc-landlord-put-camera-outside-door.html
+- "A neighbor gives me the creeps. Can I install a security camera in the hallway for safety?" — Brick Underground reader question — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- "Packages are being stolen from our building, and the security camera isn't working. What can we do?" — Brick Underground reader question — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Can a rent-stabilized tenant install their own camera above their apartment door? — City-Data forum — https://www.city-data.com/forum/new-york-city/3354139-rent-stabilized-apt-s-private-security.html
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Ask A Lawyer — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Can you install cameras on brownstones without damaging the façade? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Can security cameras help prevent package theft in Brooklyn? — competitor FAQ — same URL
+- Where do I install a wireless camera in a Brooklyn brownstone? / How long does a wireless camera install take in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- How much does apartment building camera installation cost in Brooklyn? / Can a landlord put cameras in the hallways and lobby? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/apartment-building-security-camera-installation-brooklyn
+- Can tenants in my brownstone access the camera system? — competitor FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- My building is in an LPC historic district. Are there restrictions on mounting cameras outside? — competitor FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- What types of security cameras work best for Brooklyn properties? — competitor FAQ — https://electrifiedny.com/residential/security-camera-installation/
+- Do you need a permit to install a security camera in New York? / Can tenants install CCTV in storage units? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Are security cameras required in NYC apartment buildings? / How long should apartment buildings keep footage? / Who can access building camera footage? — competitor FAQ — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Do I have to tell my tenants about security cameras in common areas? — competitor FAQ — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners
+- Does Amcrest need a monthly subscription? — review site FAQ — https://pvrblog.com/brands/amcrest/
+- Are Amcrest cameras cheap? — review site FAQ — https://www.safehome.org/home-security-cameras/amcrest/
+- Is there a cost for the Amcrest PC-NVR software? — guide site FAQ — https://surveillanceguides.com/what-is-amcrest-pc-nvr-and-how-to-set-it-up/
+- Can a landlord put cameras outside the rental or at the door? — legal guide FAQ — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/landlord-security-camera-laws/
+
+To fill the EMPTY lines, you'd need to check Google, Bing and DuckDuckGo by hand or with a SERP tool, search Reddit directly, and pull NYC Open Data for HPD, 311 and DOB. I couldn't reach any of those.

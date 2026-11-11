@@ -244,3 +244,98 @@ Search-engine panels (Google PAA, PASF, AnswerThePublic, Bing, DuckDuckGo): EMPT
 - Many installer details come from abstractenterprisessecuritysystems.com. Its county pages share copied text (the Dutchess page lists Rockland's routes), so treat its claims as marketing. If that's your own site, don't use it as independent evidence.
 - The Ulster County permit law comes from an old article, so check that it's still in effect.
 - Alarm laws differ by town. Check the specific municipality before publishing fees.
+
+## Brooklyn, Brooklyn — /alarm-com-camera-installation-brooklyn (factory research, 2026-11-11)
+
+**Caveats before you use this:**
+- My search tool returns web results, not live search pages. I could not see Google People Also Ask, People Also Search For, AnswerThePublic, Bing or DuckDuckGo, so those are marked EMPTY below.
+- None of my Reddit searches returned an actual Reddit thread.
+- I didn't find any Brooklyn-specific HPD violation counts, 311 data or DOB permit records about cameras. The city data below is about intercoms, self-closing doors, LPC rules and licensing.
+- Several findings come from installer marketing pages, including one company, Abstract Enterprises at 1282 Troy Ave, that shows up many times. Treat its claims as competitor positioning, not independent fact.
+
+**How Alarm.com sells and installs cameras (this shapes the page)**
+- Alarm.com doesn't sell to consumers directly. Alarm.com does not sell systems directly. Buyers go through Authorized Dealers. — https://answers.alarm.com/
+- Self-install is possible: You can choose a self-install option. Our DIY-capable service providers ship systems that are pre-configured, tested, and activated, and Alarm.com pitches this as a good fit for renters, small spaces, or people who prefer to set things up on their own. — https://alarm.com/resources/how-get-install-alarm-com/
+- Pricing model: Most systems use a low upfront cost + monthly service model. The monthly fee covers monitoring, cellular backup, the Alarm.com app and platform, and long-term support. — https://alarm.com/resources/how-get-install-alarm-com/
+- Existing cameras can be kept: You can connect analog cameras and security cameras you already have installed through an Alarm.com video server as well. — https://alarm.com/help/
+- Cameras can be added through the app: The Video Installation Wizard gives the power to self-install video devices using an intuitive in-app wizard. If a camera won't enroll, contact your service provider for additional troubleshooting. — https://answers.alarm.com/Customer/Website_and_App/Video/Video_Settings/Video_Installation_Wizard_for_the_app
+
+**Wiring and doorbell power (important for Brooklyn buzzer buildings)**
+- **Key angle:** Alarm.com's doorbell adapter guide says the Doorbell Camera is compatible with mechanical and digital door chimes and is not compatible with intercom systems, wireless chimes, and tube chimes. That rules out a simple swap at many walk-ups and multi-family buzzer panels. — https://grouponenw.com/customcontent/attachment/alarmcom-vacc-db-a-install-manual.pdf
+- ADC-VDB750 checklist: Wired doorbell transformer (recommended 16VAC 10VA) or power supply (minimum 15VDC 8W), plus Wi-Fi. — https://www.alarmgrid.com/documents/alarm-com-adc-vdb750-installation-guide-6-2023
+- Old wiring: In cases where the resistance of the wiring is the primary cause, a higher-rated transformer than what was originally installed will be required to avoid replacing the wiring. — https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Video_Devices/General_Video_Information/What_are_the_power_requirements_for_Alarm.com_Video_Doorbells
+- Wire gauge: 18-20 gauge wire (AWG) is supported for all video doorbell camera installations. Running the VDB770 with no chime needs a 10‑watt, 10‑ohm resistor with 5% tolerance is required and not included. — https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Video_Devices/Alarm.com_Video_Doorbell_(ADC-VDB770)
+- Two doorbells: Alarm.com only supports two VDB770s in a circuit if there is one chime. This matters for two-family homes with two front doors. — https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Video_Devices/Alarm.com_Video_Doorbell_(ADC-VDB770)/ADC-VDB770_wiring_guide
+- Floodlight positioning by a local competitor: Alarm.com's ADC-V729AC plus Night Owl's FWIP3-FL fit a monitored alarm system. — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+
+**Brick, brownstone and Wi-Fi**
+- Brick and stone can weaken wireless signals, which may require signal boosters or wired cameras for consistent connectivity. — https://security-systems.nyc/blog/brooklyn-apartment-security-cameras/
+- Competitor practice: they put the NVR in a basement utility closet or a dedicated rack and run homerun Cat6 drops to each camera location. They also note Brooklyn and Manhattan brownstone rear yards are frequent secondary entry points. — https://senecasecurity.com/services/security-cameras/brownstones/
+- Competitor's anchoring note: A red-brick Bed-Stuy brownstone takes a standard 5/16" masonry anchor with no issue. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Competitor price claim: For a 4-camera wireless install in a Brooklyn brownstone, expect $1,200 to $2,400 all-in. It also lists hidden fees such as exterior penetration sealing — some installers leave a 1/4-inch hole through your brick stem and call it done. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-nyc
+
+**Landmarks Preservation Commission (LPC) rules**
+- LPC's Rules Section 2-20 covers the installation of health, safety and utility equipment, such as fire alarm bells and Siamese connections, security cameras, lighting. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%202018.pdf
+- In a real LPC permit for nine cameras, the approval cites Section 2-20(c)(4) for security cameras. — https://a860-gpp.nyc.gov/downloads/7h149t85r?locale=en
+- An installer's summary of the criteria (secondhand, not LPC wording): A maximum of approximately ten (10) inches of visible conduit is permitted; the conduit will not be placed on decorative surfaces. — https://linkedsecurityny.com/blog/brooklyn-security-camera-system/
+- The official guide is LPC Permit Guidebook Chapter 11, "Installing Security Cameras." — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+
+**Licensing and permits**
+- You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- Under 19 NYCRR 195.2, a license is required for a closed circuit television system (CCTV) if such system is used, either full-time or part- time, for the detection or monitoring of intrusion. That fits Alarm.com cameras tied to a monitored panel. — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- Training requirement: four 15-hour modules and one 21 hour module. — https://dos.ny.gov/get-security-or-fire-alarm-installer-license
+- DOB permits: For most straightforward security camera or access control installations in existing commercial spaces, a permit is not required. However, if your project involves significant cable infrastructure, new conduit runs in fire-rated assemblies, check first. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+
+**HPD and 311 (related building conditions)**
+- HPD classifies intercom violations and most door lock violations as Class B hazardous, carrying fines of $250 to $500 per day until corrected. (installer source) — https://www.connextivity.com/insights/nyc-intercom-laws-building-requirements
+- If an HPD Housing Inspector finds a defect that prevents a door from self-closing, the Department issues a Class C immediately hazardous violation. Also, HPD spent over $6.7 million in FY25 facilitating the repair of self-closing door violations not corrected by owners. This is relevant when mounting cameras or sensors on entry doors. — https://www.nyc.gov/site/hpd/news/079-25/self-closing-doors-save-lives
+- Cameras aren't required, but are often required by insurers and increasingly expected in buildings undergoing HPD scrutiny or renovation permitting. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+
+**Co-op, condo and tenant rules**
+- New York City does not have a law prohibiting residents from installing doorbell cameras in apartment building hallways. But the rules of a co-op may prohibit a shareholder from placing a video doorbell in a common area. — https://guzovllc.com/condo-and-coop-rules-of-thumb-security-cameras-and-privacy-concerns/
+- The camera should not be pointing into someone else's apartment. — https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc
+- Some co-op boards will approve camera installations with specific conditions (wire routing, appearance). — https://surveillanceguides.com/us-surveillance-laws/new-york/
+- Audio: Security cameras that record audio must comply with New York one-party consent rules under Penal Law 250.00. — https://www.recordinglaw.com/united-states-recording-laws/one-party-consent-states/new-york-recording-laws/security-cameras/
+- Brooklyn tenant story: Brooklyn resident Fabian Rogers knew he had to act in 2018 when his penny-pinching landlord suddenly attempted to install a facial recognition camera in the entrance of a rent-stabilized building. — https://council.nyc.gov/carlina-rivera/?p=396
+- Commercial clients using smart cameras: NYC's biometric law (Local Law 3 / NYC Admin Code §§ 22-1201–1205) is implemented through DCWP rules and includes a signage requirement for covered commercial establishments. — https://sites.google.com/view/365solution6/home/a-guide-to-understanding-new-york-security-camera-regulation
+
+**NYPD programs, local news and businesses**
+- This safety initiative allows any business with a security camera to share live video feeds with the NYPD during emergencies. You can register your security camera locations with the NYPD at NewYorkCityConnect.org. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- In the 2024 Fusus pilot, camera integration provides the NYPD with real-time access to camera feeds. — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- The 2024 LockerNYC pilot placed a locker in Bushwick, Brooklyn: 72-80 Wyckoff Avenue, outside Key Food, chosen partly on the concentration of buildings lacking secure package rooms, and NYPD package theft data. I didn't confirm whether it's still running. — https://www.6sqft.com/nyc-secure-sidewalk-lockers-package-theft/
+- Hallway package theft on Lexington Ave in Brooklyn: Cameras captured the suspect as he was apparently buzzed into the building on Lexington Avenue. — https://www.cbsnews.com/newyork/news/brooklyn-package-stolen
+- Brooklyn Yelp category leaders include Eddies Security Systems 5.0 (14 reviews) Serving Brooklyn and Essential Security Systems at 2823 W 12th St. — https://www.yelp.com/search?find_desc=Alarm+System+Installation&find_loc=Brooklyn%2C+NY
+- Commercial bars: "Eddie set up the security system in two of my bars. — https://www.yelp.com/search?find_desc=Alarm+System+Installation&find_loc=Brooklyn%2C+NY
+- An older Brooklyn list names Alarm.com among one firm's partners: Partners: Hikvision, Dahua, Samsung, NVT, Honeywell, Alarm.com. — https://blogs.cctvinstaller.ai/the-top-cctv-installers-in-brooklyn-new-york-to-keep-your-home-and-business-safe/
+
+### Questions people ask — Alarm.com Camera Installation in Brooklyn
+
+- Google People Also Ask — EMPTY (not visible to my tool)
+- People Also Search For / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing — EMPTY
+- DuckDuckGo — EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland) — EMPTY (no threads came up)
+- Yelp, praise: "I recently bought a new camera system that is so much more complicated than the WiFi ones and I cannot explain how glad I was to have Eddie be able to install it for me. — Yelp — https://www.yelp.com/search?cflt=securitysystems&find_loc=Brooklyn,+NY
+- Yelp, praise and a DIY hint: "We nearly made the mistake of installing our own security cameras we purchased on Amazon." — Yelp — https://www.yelp.com/biz/essential-security-systems-and-fire-alarms-brooklyn
+- Yelp complaints about similar Brooklyn services — EMPTY
+
+These questions are real but come from brand and competitor FAQ pages, not the sources you listed. Label them that way if you use them:
+- Can I buy a system from Alarm.com directly? — Alarm.com FAQ — https://answers.alarm.com/
+- What does a system cost? — Alarm.com FAQ — https://answers.alarm.com/
+- I have an existing security system, can I upgrade it to Alarm.com using existing equipment? — Alarm.com FAQ — https://answers.alarm.com/
+- Can I install the system myself? — Alarm.com FAQ — https://alarm.com/help/
+- What kinds of video cameras does Alarm.com offer? — Alarm.com FAQ — https://alarm.com/help/
+- What is the supported wire gauge/AWG for a video doorbell camera? — Alarm.com dealer knowledge base — https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Video_Devices/Alarm.com_Premium_Video_Doorbell_Camera_ADC-VDB775/ADC-VDB775_wiring_guide
+- Can the ADC-VDB770 be connected to a chime with another doorbell attached? — Alarm.com dealer knowledge base — https://answers.alarm.com/Partner/Installation_and_Troubleshooting/Video_Devices/Alarm.com_Video_Doorbell_(ADC-VDB770)/ADC-VDB770_wiring_guide
+- How much does floodlight camera installation cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- I rent in Brooklyn — can I put a floodlight camera outside? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/floodlight-camera-installation-brooklyn
+- Where do I install a wireless camera in a Brooklyn brownstone? — competitor FAQ (the page claims these come from Reddit; I couldn't verify) — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Can you install cameras on brownstones without damaging the facade? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Are wireless cameras reliable in older Brooklyn buildings? — competitor FAQ — https://security-systems.nyc/blog/brooklyn-apartment-security-cameras/
+- Can I install a Ring doorbell in my NYC apartment? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Do you need a permit to install a security camera in New York? — competitor FAQ — https://linkedsecurityny.com/blog/cctv-camera-locations-for-your-nyc-apartment/
+- Do you need a license to install security cameras in New York? — competitor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Are co-ops and condos subject to different camera rules in NYC? — competitor FAQ — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Ask a Lawyer — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Our co-op board is getting complaints about a video doorbell invading a shareholder's privacy. How should we respond? — Brick Underground — https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc
