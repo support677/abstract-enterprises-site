@@ -235,7 +235,7 @@ LIVE | door-buzzer-installation-canarsie-brooklyn-ny | Door Buzzer Installation 
 LIVE | door-buzzer-installation-carroll-gardens-brooklyn-ny | Door Buzzer Installation | Carroll Gardens, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-city-line-brooklyn-ny | Door Buzzer Installation | City Line, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-clinton-hill-brooklyn-ny | Door Buzzer Installation | Clinton Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-11T18:46Z max-burn | door-buzzer-installation-cobble-hill-brooklyn-ny | Door Buzzer Installation | Cobble Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-cobble-hill-brooklyn-ny | Door Buzzer Installation | Cobble Hill, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:46Z max-burn | door-buzzer-installation-columbia-street-waterfront-brooklyn-ny | Door Buzzer Installation | Columbia Street Waterfront, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-coney-island-brooklyn-ny | Door Buzzer Installation | Coney Island, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | door-buzzer-installation-crown-heights-brooklyn-ny | Door Buzzer Installation | Crown Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
