@@ -6527,3 +6527,34 @@ Method: WebSearch + WebFetch, 2026-11-10. NYC Open Data (data.cityofnewyork.us, 
 - Google PAA / PASF / AnswerThePublic / DuckDuckGo for "door buzzer repair Bath Beach": EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Canarsie, Brooklyn — /door-buzzer-repair-canarsie-brooklyn-ny (factory research, 2026-11-11)
+
+- NYC 311 (dataset erm2-nwe9), descriptor BELL/BUZZER/INTERCOM, incident ZIP 11236, pulled 2026-11-11 via Socrata API: 2020 = 20, 2021 = 9, 2022 = 22, 2023 = 22, 2024 = 18, 2025 = 26, 2026 (to Nov 9) = 33; 150 total since 2020 — https://data.cityofnewyork.us/resource/erm2-nwe9.json?$select=date_extract_y(created_date)%20as%20y,count(*)%20as%20n&$where=incident_zip='11236'%20AND%20descriptor='BELL/BUZZER/INTERCOM'&$group=y&$order=y
+- 311 repeat addresses in 11236 since 2020: 538 East 99th St (8, Oct 2025–Feb 2026), 638 East 96th St (7, Jan 2022–Feb 2026), 945 East 94th St (7, Apr 2024–Nov 9 2026), 1106 Remsen Ave (7, Dec 2023–Jan 2025), 638 East 98th St (6), 542 East 87th St (5), 888 East 96th St (4), 1128 East 98th St (4); 3 each at 9403 Avenue A, 659 Rockaway Pkwy, 778 Remsen Ave, 1625 Rockaway Pkwy — same API, grouped by incident_address
+- 2026 outcomes (33 complaints): 17 closed because HPD could not inspect or gain access; 6 closed with violations issued; 5 closed with no violation found; 5 still open (as of Nov 11 2026), the newest 945 East 94th St on Nov 9 2026, 736 East 103rd St Nov 6 — same API, resolution_description
+- Open-complaint text: "HPD has already attempted to notify the property owner that the condition exists; the tenant should provide access for the owner to make the repair." No-access text: inspector "left a card ... HPD did not receive a timely response ... Please submit a new service request with 311 if the condition still exists." — same API
+- HPD violations (dataset wvxf-dwi5), ZIP 11236, NOV text containing INTERCOM: 2023 = 16 (6 A, 10 B), 2024 = 6 (B), 2025 = 8 (B), 2026 to date = 9 (2 A, 7 B); a run going back to 1994 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json (grouped query)
+- Recent HPD wording in Canarsie: 945 East 94th St apt 3D, Oct 21 2026, class B, "BROKEN OR DEFECTIVE INTERCOM SYSTEM FROM BUILDING ENTRANCE TO RETURN BUZZER"; 8623 Flatlands Ave apt 2D, Sep 27 2026, class A "INTERCOM BELL BUZZER SYSTEM"; 1400 East 92nd St apt 2, cited Apr 2025, Dec 2025 and Mar 2026 ("INTERCOM DOOR BELL AND RETURN BUZZER FROM BUILDING FRONT ENTRANCE DOOR"); 638 East 96th St cited Sep 2024, May 2025 (NOT COMPLIED WITH), Jan 2026 twice, Mar 2026; 290 Conklin Ave apt 2, Mar 26 2026, status "CERTIFICATION POSTPONMENT DENIED"; 542 East 87th St Jul 2024 "INTERCOM RELAY"; 1625 Rockaway Pkwy apt 6O Oct 2025, dismissed; 9402 Avenue A apt 4B Jun 2025 NOT COMPLIED WITH, apt B5 Apr 2026 closed — https://data.cityofnewyork.us/resource/wvxf-dwi5.json (detail query)
+- NYCHA developments (Breukelen, Bay View) do not run through HPD/311 for repairs; NYCHA channels are the Customer Contact Center, MyNYCHA and its maintenance hotline, routine scheduling Mon–Fri — https://portal.311.nyc.gov/article/?kanumber=KA-02015
+- Bay View Houses PACT: 25 buildings, 1,610 apartments, nearly 3,200 residents; developers Infinite Horizons and RDC Development, GC MDG Design + Construction, Wavecrest property manager from Dec 2025, IMPAACT Brooklyn social services; renovations expected to begin early 2026 — https://www.nyc.gov/site/nycha/about/pact/bayview.page
+- NYC Comptroller, Sept 21 2022, observations at 262 NYCHA developments: 36.8% of entrance doors open, 40.1% broken locks; rear/side doors 37.5% open, 28.5% broken locks; share of entrance doors open and/or broken lock rose from 23.5% (2018) to 57.9% (2022); one resident said intercoms broken 10 years; no Canarsie mention — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+- Breukelen Houses tenants decried deteriorating conditions (News 12, Apr 9 2019; body not readable) — https://brooklyn.news12.com/breukelen-houses-tenants-decry-deteriorating-conditions-lack-of-action-40280356
+- ButterflyMX (updated Oct 19 2026): MDL § 50-a applies to buildings built/converted after Jan 1 1968 with 8+ apartments; pre-1968 Class A on majority request; doorman is no exemption; an integrator cites "$100 to $300 for diagnostics" and "$500 to $1,500 for component replacement"; "No evidence-supported age cutoff or repair-cost percentage decides the answer"; wiring reuse can't be promised before assessment — https://butterflymx.com/blog/intercom-repair-nyc
+- Brick Underground (Nov 7 2019, Mimi O'Connor): Daniel Vasquez of Paragon Security and Locksmith says most problems are in wire connections (lobby base, apartment station, strike, power supply, which may be in basement or lobby ceiling); older systems like Lee Dan usually have sound core wiring; quotes received of $195/hr and $250/hr plus parts; building must approve repairs; Pete Carmello of Lock and Tech: many problems are user error — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Google PAA / PASF / Answer the Public / AI Overview for "door buzzer repair Canarsie": EMPTY (not accessible)
+- Bing / DuckDuckGo: EMPTY (not accessible)
+- Reddit threads specific to Canarsie buzzers: EMPTY (none found)
+- Yelp 1–3★ for buzzer repair near Canarsie: EMPTY (not accessible)
+- Canarsie Courier / Patch on buzzers: EMPTY (none found)
+
+### Questions people ask — Door Buzzer Repair in Canarsie
+- Why can't I hear my guest, or they can't hear me? — Brick Underground guide (question list) — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Why won't the lobby door unlock when I press the button? — Brick Underground guide — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Is the problem my system or how I'm using it? — Brick Underground guide — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Who has to approve an intercom repair? — Brick Underground guide — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Does a broken intercom mean the whole system must be replaced? — Brick Underground / ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+- How much does intercom repair cost in NYC? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+- Does a doorman building still need a working intercom? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+- How do I get my landlord to fix a broken buzzer? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- What happens after I report a broken buzzer to 311? — 311 resolution text — https://portal.311.nyc.gov/article/?kanumber=KA-01074
