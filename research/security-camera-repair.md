@@ -439,3 +439,46 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How much do security camera installation & repair companies typically cost? — Angi/HomeAdvisor — https://match.angi.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair
 - The lobby camera in my building has been broken for a while and packages keep getting stolen — what can tenants do? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
 - My outdoor camera failed after 15 years; the power supply and DVR check out — who can troubleshoot and replace a camera 22 feet up? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2011/05/replacing-a-vid
+
+## Bergen Beach, Brooklyn — /security-camera-repair-bergen-beach-brooklyn-ny (factory research, 2026-11-11)
+
+**Police, car theft and how residents already use camera footage**
+- NYPD 63rd Precinct Sector A ("Sector Adam") covers Mill Island, Mill Basin and Bergen Beach; at the March 23, 2023 Build the Block meeting at Temple Sholom, 2075 East 68th Street, about 25 residents attended and "Car thefts were one of the top crimes in the sector and precinct this past month"; officers tied thefts to cars left running or with a key fob nearby — https://canarsiecourier.com/?p=6131
+- Same meeting: NCO David Belkin said car thefts often rise in May and June, especially BMWs; urged residents to file reports for catalytic converter thefts and offered converter etching — https://canarsiecourier.com/?p=6131
+- March 8, 2022 Build the Block (Zoom): a Bergen Beach package thief was identified with help from residents who posted camera footage to social media; Belkin advised parking in well-lit areas "in view of surveillance cameras if possible"; derelict and abandoned vehicles targeted on Bergen Avenue — https://canarsiecourier.com/?p=1118
+- The 63rd Precinct station house is at 1844 Brooklyn Avenue, Brooklyn, NY 11210 (listed for Community Board 18) — https://www.nyc.gov/site/brooklyncb18/about/nypd-precincts-and-firehouses.page
+
+**Power events that hit recorders, PoE switches and cameras**
+- July 21, 2019: Con Edison reported "approximately 33,000" customer outages in "Canarsie, Flatlands, Mill Basin, Old Mill Basin, Bergen Beach, and Georgetown," due to "continued heat and high usage" — https://www.coned.com/about-us/media-center/news/2019/07-21/con-edison-responding-to-approximately-33000-customer-outages-in-some-southeast-brooklyn
+- Next day: power restored to "over 99 percent of the 33,000 customers affected by yesterday's outage" while thunderstorms caused "about 11,000 new outages system-wide" — https://coned.com/en/about-us/media-center/news/2019/07-22/con-edison-restores-almost-all-from-southeast-brooklyn-outage-even-as-new-storm-wreaks-havoc
+- Forum case (Dahua system): after a power cut drained the NVR's UPS, "only 3 out of 7 cameras came back online"; cause was IP conflicts on DHCP; fixed by re-adding cameras one at a time, resetting, full NVR reboot — https://ipcamtalk.com/threads/ip-conflict-after-power-cut.82709
+- Forum case (Lorex 16-cam kit, a Dahua OEM): after a suspected surge the NVR rebooted and one camera stayed dead; replacing connectors at both ends did not help; replies note many NVR PoE ports are not meant to feed a downstream switch — https://ipcamtalk.com/threads/problems-with-lorex-nocturnal-4k-16-cam-system-after-power-surge.67039/post-722120
+
+**Water, salt air and flood exposure**
+- National Weather Service impacts sheet for Rockaway Inlet at Floyd Bennett Field: "the hardest hit areas were Gerritsen Beach, Floyd Bennet, Bergen Beach, Mill Basin, and Canarsie" from Jamaica Bay/Rockaway Inlet inundation; record 11.6 ft MLLW at 10-11pm 10/29/2012 (Sandy) — https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf
+- Camera maker ACTi on corrosion: "Sodium chloride and other halides are aggressive to metals, accelerating oxidation, pitting, and galvanic corrosion" and "Over time, salt spray, humidity, chemical vapors, and airborne pollutants degrade metals, seals, and coatings" — https://www.acti.com/fr/technologies/anti-corrosion-design
+
+**Camera upkeep complaints**
+- r/homedefense: "What is the best way to keep spiders off cameras? I wiped this 2 days ago." One reply: "Turn off the camera lights and get stand alone illuminators placed a few feet away" — https://reddit.rtrace.io/r/homedefense/comments/1cdyiuv/what_is_the_best_way_to_keep_spiders_off_cameras/
+
+**Cost benchmarks**
+- HomeAdvisor (Brooklyn surveillance camera install or repair): average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Bergen Beach: EMPTY
+- 311 / HPD camera-related complaint data for 11234: EMPTY
+- LPC historic district in Bergen Beach: EMPTY (none found)
+- Local news of a Bergen Beach camera system failing or being repaired: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) about camera repair in Bergen Beach: EMPTY
+- Yelp complaints about camera repair near Bergen Beach: EMPTY (search returned directories only)
+
+### Questions people ask — Security Camera Repair in Bergen Beach
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (no SERP feature data retrievable)
+- Why did only some of my cameras come back after a power cut? — IPCamTalk forum — https://ipcamtalk.com/threads/ip-conflict-after-power-cut.82709
+- Is it the connector, the camera or the PoE port when one camera stays dead after a surge? — IPCamTalk forum — https://ipcamtalk.com/threads/problems-with-lorex-nocturnal-4k-16-cam-system-after-power-surge.67039/post-722120
+- Can I plug a PoE switch into my NVR's camera ports to add cameras? — IPCamTalk forum — same URL
+- How do I keep spiders off my cameras / why is night video full of webs? — Reddit r/homedefense — https://reddit.rtrace.io/r/homedefense/comments/1cdyiuv/what_is_the_best_way_to_keep_spiders_off_cameras/
+- Does salt air shorten camera life near the water? — ACTi — https://www.acti.com/fr/technologies/anti-corrosion-design
+- Where should I park so a camera covers my car? — Canarsie Courier (63rd Pct NCO) — https://canarsiecourier.com/?p=1118
+- Can my footage help police find a package thief? — Canarsie Courier — https://canarsiecourier.com/?p=1118
+- What does camera install or repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
