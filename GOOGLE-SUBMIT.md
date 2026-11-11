@@ -3114,3 +3114,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/avycon-camera-installation-brooklyn | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/capture-camera-installation-brooklyn | QUEUED
 2026-11-11 | https://www.abstractenterprisessecuritysystems.com/hikvision-vs-dahua | QUEUED
+2026-11-11 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-borough-park-brooklyn-ny | QUEUED
