@@ -1,6 +1,7 @@
 {
  "area": {
-  "brooklyn": 14778.09,
+  "astoria": 1.0,
+  "brooklyn": 18127.9,
   "congers": 291.53,
   "hempstead": 1.0,
   "new-york": 1755.37,
@@ -8,16 +9,18 @@
   "queens": 154.5,
   "richmond-hill": 506.27,
   "seldon": 190.0,
+  "springfield-gardens": 154.5,
   "staten-islan": 2068.63,
   "staten-island": 6886.05,
   "stormville": 1.0,
-  "the-bronx": 1969.28,
+  "suffolk-county": 1.0,
+  "the-bronx": 583.28,
   "thornwood": 198.0,
   "wappingers-falls": 1.0,
-  "westchester": 1200.03,
+  "westchester": 1201.03,
   "white-plains": 2667.4
  },
- "generated": "2026-11-10T08:15:00.000458+00:00",
+ "generated": "2026-11-11T08:15:00.000147+00:00",
  "service": {},
  "window_days": 30
 }
