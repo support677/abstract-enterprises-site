@@ -290,7 +290,7 @@ BUILDING 2026-11-11T22:30Z max-burn | door-buzzer-installation-weeksville-brookl
 BUILDING 2026-11-11T22:31Z max-burn | door-buzzer-installation-williamsburg-brooklyn-ny | Door Buzzer Installation | Williamsburg, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:31Z max-burn | door-buzzer-installation-windsor-terrace-brooklyn-ny | Door Buzzer Installation | Windsor Terrace, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T22:31Z max-burn | door-buzzer-installation-wingate-brooklyn-ny | Door Buzzer Installation | Wingate, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | door-buzzer-installation-wyckoff-heights-brooklyn-ny | Door Buzzer Installation | Wyckoff Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-11T22:32Z max-burn | door-buzzer-installation-wyckoff-heights-brooklyn-ny | Door Buzzer Installation | Wyckoff Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-bath-beach-brooklyn-ny | Security Camera Repair | Bath Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-bay-ridge-brooklyn-ny | Security Camera Repair | Bay Ridge, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-bedford-stuyvesant-brooklyn-ny | Security Camera Repair | Bedford-Stuyvesant, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
