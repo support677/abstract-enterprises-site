@@ -7047,3 +7047,37 @@ Note: WebSearch budget was exhausted for this build; searches ran through Firecr
 - Repair or replace a broken buzzer in a small apartment building? — ButterflyMX blog — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
 - Why is my apartment buzzer not working / buzzer rings but front door won't open? — competitor pages (PASF-style) — https://www.uasecurity.com/Intercom-Systems-Brooklyn-New-York.htm
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp: EMPTY
+
+## Spring Creek, Brooklyn — /door-buzzer-repair-spring-creek-brooklyn-ny (factory research, 2026-11-11)
+
+- NYC Open Data 311 (erm2-nwe9), descriptor BELL/BUZZER/INTERCOM, incident ZIP 11239, queried Nov 11 2026: grouped by address the ZIP holds Spring Creek Towers (Starrett City) loops and Pennsylvania/Louisiana Ave towers plus the rest of Spring Creek. Excluding Starrett City addresses (Loops, Pennsylvania Ave, Louisiana Ave, Twin Pines Dr) there are 103 complaints at 20 addresses since 2020 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- By year (non-Starrett, ZIP 11239): 2020 13, 2021 3, 2022 4, 2023 4, 2024 8, 2025 24, 2026 47 (to Nov 5) — same dataset
+- By address (non-Starrett): 1152 Elton St 32; 1166 Elton St 14; 502 Schroeders Ave 12; 911 Erskine St 10; 516 Vandalia Ave 7; 894 Fountain Ave 6; 20 Vital Ave 5; 475 Locke St 3; 1062 Elton St 2; 130 Schroeders Ave 2; one each at 120 Schroeders Ave, 10 Schroeders Walk, 465/543/702 Vandalia Ave, 875 and 881 Erskine St, 1117 Ashford St, 129 Gateway Dr, 11629 Seaview Ave — same dataset
+- Outcomes (non-Starrett, 103): 31 closed because HPD could not get access or could not complete the inspection; 13 closed with violations issued; 3 closed after a phone call where someone said the condition was corrected; 6 still open (all at 1152 Elton St, filed Nov 4–5 2026); remaining ~50 inspected with no violation — same dataset
+- 1152 Elton St: all 32 complaints filed in 2026, Jul 17 to Nov 5, many in pairs a few minutes apart; Jul 23–Aug 1 mostly inspected/no violation (one with violations issued Jul 23); eight Aug 13–17 closed "not able to gain access"; six open filed Nov 4–5 with HPD text "the tenant should provide access for the owner to make the repair" — same dataset
+- 1166 Elton St: 14 complaints, all May 2020 – Jul 2021 (violations issued Jun 22 and Aug 14 2020) — same dataset
+- 502 Schroeders Ave: 12 complaints Sep 2024 – Jul 2026; 6 of them closed without access/incomplete inspection; violations issued Jan 2025 and May 2026 — same dataset
+- 516 Vandalia Ave: 6 complaints in five weeks, Feb 19 – Mar 25 2025, each inspected with no violation; one more Jul 2025 — same dataset
+- HPD violations (wvxf-dwi5), ZIP 11239, novdescription contains BUZZER: non-Starrett entries at 502 Schroeders Ave (class B, Jul 16 2026, apt 3A, "repair or replace the broken or defective intercom system at building front to return buzzer… private hallway", NOV sent out; class B Jan 13 2025, apt 2A, closed), 20 Vital Ave (class B Jun 3 2026, apt 621E, dismissed), 894 Fountain Ave (class B Aug 12 2025, apt 566, NOV sent out), 1062 Elton St (class B Mar 27 2025, apt 507, closed), 911 Erskine St (class A Sep 7 2024 and class B Aug 28 2024 apt 810, dismissed; class B Jul 31 2024 apt 619 NOV sent; class A Apr 6 2022 apt 227 dismissed) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- MapPLUTO (64uk-42ks): 1152 Elton St built 2012, 5 floors, 50 units; 1166 Elton St 2012, 6 floors, 59 units; 1062 Elton St 2016, 8 floors, 136 units; 516 Vandalia Ave 2016, 6 floors, 64 units; 911 Erskine St 2017, 9 floors, 267 units; 894 Fountain Ave 2018, 9 floors, 422 units (owner Fountain Seaview B6 HDFC); all building class RM (elevator apartments with stores) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- Gateway Elton I: 197 low-income rental apartments in 4 five- and six-story buildings, 9,000 sf commercial, 40 homes set aside for supportive housing (NYS OMH), 214,000-watt solar, completed 2012, managed by Related; LEED Gold — https://www.cambahousingventures.org/development/gateway-elton-i/
+- Apartments.com lists Gateway Elton I at 1166 Elton St, Brooklyn 11239 — https://www.apartments.com/gateway-elton-i-brooklyn-ny/vkvfjxg/
+- Gateway Elton Phase II: 175 energy-efficient affordable apartments — https://thenyhc.org/projects/817/
+- Gateway Elton Street Phase 3: two residential buildings, 287 units, 355,000 gsf incl. 30,000 sf retail, LEED Platinum goal, 495,000 W solar — https://ettingerengineering.com/portfolio_residential_gatewayphase3.php
+- City Record July 2024 published the establishment of Abule Avenue, Vital Avenue and Field Drive (new mapped streets) — https://www.nyc.gov/assets/dcas/downloads/pdf/cityrecord/2024/cityrecord-07-10-24.pdf
+- NYT Jan 20 2024 "That Broken Intercom in Your Apartment Is Illegal. Here's What to Do"; quote: "As a result, the co-op has a legal obligation to repair or replace the intercom," said Nancy Kourland — https://www.nytimes.com/2024/01/20/realestate/that-broken-intercom-in-your-apartment-is-illegal-heres-what-to-do.html
+- UA Security blog Nov 5 2026: start by checking four things: does it ring, can you talk, can you listen, does the door release work — https://www.uasecurity.com/blog1/2026/11/05/what-should-i-do-if-my-apartment-buzzer-isnt-working/
+- Reddit r/AskNYC "Landlord won't fix my intercom?": fifth-floor walk-up tenant can't let in guests, packages, food delivery — https://www.reddit.com/r/AskNYC/comments/10uzqs0/landlord_wont_fix_my_intercom_is_there_any_legal/
+- Reddit r/AskNYC "Landlord won't fix buzzer" (reply suggests fixing it yourself and deducting — not endorsed) — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo / Yelp for "door buzzer repair Spring Creek": EMPTY
+- Local news about Spring Creek buzzers/intercoms specifically: EMPTY
+- Reddit r/SpringCreek: EMPTY
+
+### Questions people ask — Door Buzzer Repair in Spring Creek
+- Landlord won't fix my intercom — is there any legal action? — Reddit — https://www.reddit.com/r/AskNYC/comments/10uzqs0/landlord_wont_fix_my_intercom_is_there_any_legal/
+- Landlord won't fix buzzer, what can I do? — Reddit — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- Apartment buzzer system not working and nobody taking responsibility — Reddit r/fixit — https://www.reddit.com/r/fixit/comments/ucpu3x/apartment_buzzer_system_not_working_nobody_taking/
+- Moved in and found the building intercom/buzzer doesn't work — Reddit — https://www.reddit.com/r/vancouverhousing/comments/1sxixrm/moved_in_and_found_out_building_intercombuzzer/
+- What should I do if my apartment buzzer isn't working? — web article — https://www.uasecurity.com/blog1/2026/11/05/what-should-i-do-if-my-apartment-buzzer-isnt-working/
+- Apartment buzzer rings but the front door won't open — web (Facebook post) — https://www.facebook.com/UnldAppSecCo/posts/apartment-buzzer-ringsbut-the-front-door-wont-opendont-assume-you-need-a-new-int/1832792455516991/
+- Is a broken intercom in my apartment illegal / what to do? — NYT — https://www.nytimes.com/2024/01/20/realestate/that-broken-intercom-in-your-apartment-is-illegal-heres-what-to-do.html
