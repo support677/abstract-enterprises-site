@@ -3798,3 +3798,495 @@ Note: live web search was not available for this run (search budget exhausted). 
 - How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
 - Can you replace one failed camera without replacing the whole system? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
 - Can you fix security camera remote viewing on my phone? — vendor FAQ — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+
+## Columbia Street Waterfront, Brooklyn — /security-camera-repair-columbia-street-waterfront-brooklyn-ny (factory research, 2026-11-12)
+
+**Building types and wiring/entry situations**
+- The neighborhood is small and its buildings are mixed: the 22-block Columbia Street Waterfront District is a mix of classic brick rowhouses, low-rise factories — some converted to residential use — and newer mid-rise apartment houses. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights
+- Rowhouses with shops below: There are charming old-fashioned rowhouses on Union Street with shops and restaurants on their ground floors. These mixed-use buildings may have separate residential and storefront camera systems. — same URL
+- Tiffany Place loft conversions: Tiffany Place is a short street that runs between Kane and Degraw streets and is parallel to Hicks Street. Numerous Tiffany Place industrial buildings have been converted to residential use. — same URL
+- Tiffany Place is still paved in Belgian block, is an unusual concentration of remaining factory and warehouse buildings. Originally, this neighborhood had dozens of industrial establishments interspersed within its rowhouses. — https://sites.google.com/site/brooklynqueenswaterfront/neighborhood-histories/columbia-street-waterfront
+- Summit Street facades: Summit Street between Hicks and Columbia streets... Numerous old-fashioned brick rowhouses have porticoes made of lacy-looking black metal filigree. These affect where entry cameras can be mounted. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights
+- Newer buildings: Infill developments and boutique condo projects—like Columbia Commons and 183 Columbia Street—offer stylish contemporary units with amenities such as elevators, open layouts, and roof terraces. — https://c21awayerealty.com/neighborhoods/columbia-street-waterfront
+- Restored lofts and condos have tin ceilings, high windows, and wood floors, which limits hidden cable routes during re-wiring repairs. — same URL
+- Height limit from the renewal era: in the early 1980s, the city named the neighborhood a renewal district and began to tear down unusable buildings while designing a plan for new buildings to be built no higher than three stories. — https://brooklyneagle.com/325735/columbia-street-waterfront-district-history/
+- Wi-Fi through masonry: one competitor claims every Columbia Street Waterfront installation uses wired systems and that WiFi drops through Columbia Street Waterfront's walls. This is a competitor's own claim, not independent data. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-columbia-street-waterfront-brooklyn-ny
+- Common NYC failure causes, as listed by a competitor: a damaged BNC or RJ45 connector at the camera or DVR end, a bad PoE switch port or PoE injector, a failed power supply or splitter, a damaged Cat5e or Cat6 run from rodent or weather damage, a failed hard drive in the DVR or NVR, an IP address conflict — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+
+**Flood exposure (matters for basement DVRs, power supplies and coax)**
+- In 1976 a water main burst beneath Columbia Street, flooding basements and undermining foundations. Dozens of buildings were condemned — https://cityneighborhoods.nyc/columbia-street-waterfront
+- A local blogger after Sandy wrote that everything north, west, and south of the west side of Columbia Street is designated as part of the mandatory hurricane evacuation area. The same writer said their stretch of Columbia Street was spared. No flooding. Exposure varies block by block. — https://bluestreakbiker.com/tag/columbis-street-waterfront/
+- Along the Brooklyn waterfront during Sandy, storm surge flooded basements and first floors, severely damaging boilers and electrical and mechanical equipment. — https://bklyner.com/four-years-sandy-climate-resiliency-planning-brooklyn-waterfront-continues/
+- Opponents of the Brooklyn Marine Terminal plan cite the perils of building in a flood zone — https://brooklyneagle.com/339689/brooklyn-marine-terminal-redevelopment-passes-in-controversial-monday-vote/
+
+**Rules and licensing (LPC / DOB / NYS)**
+- LPC: none of my searches showed the neighborhood inside a designated historic district. Results only described it as a city renewal district (located in the Columbia Street Urban Renewal Area). Check each address in LPC's dataset. — https://brooklyneagle.com/articles/2018/03/28/check-out-this-homage-to-obama-and-other-columbia-street-waterfront-district-sights ; dataset: https://data.cityofnewyork.us/Housing-Development/Designated-and-Calendared-Buildings-and-Sites/ncre-qhxs
+- If a building is designated, LPC rule 2-20 applies: The installation will not occur on or in front of a primary facade unless there is no feasible alternative for the installation or the location is mandated by another law or rule. — https://nyc-docs-new-design-test.readthedocs.io/en/latest/d02/c44/
+- LPC camera density limits (secondary source): no more than two cameras per 25 feet of street frontage for small buildings and three per 25 feet for large buildings. — https://www.ambient.ai/learn/new-york-video-surveillance-laws
+- DOB (an installer's claim, not DOB guidance): Low-voltage security camera installation in a residential brownstone typically does not require a DOB permit under NYC construction codes — https://senecasecurity.com/services/security-cameras/brownstones/
+- NYS licensing: You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- The regulation covers repair work: a license is required for the installation, maintenance or servicing of the following (1) a closed circuit television system (CCTV) if such system is used, either full-time or part- time, for the detection or monitoring of intrusion — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- Owner exemption: Home or business owners installing a system on their own property are not "in the business of" installing, and thus are not required to be licensed. — https://forums.mikeholt.com/threads/nys-smoke-detector-law.93948/post-93948
+- HPD violations about cameras/intercoms in the area — EMPTY
+- 311 complaints about cameras in the area — EMPTY
+- DOB permits for camera work in the area — EMPTY
+
+**Local news and policing**
+- The 76th Precinct covers Columbia Street Waterfront. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-columbia-street-waterfront-brooklyn-ny
+- Package theft in the 76th Precinct (older story, nearby blocks rather than Columbia St itself): Package thieves struck several apartment buildings in separate incidents in the precinct this week. One theft was from the vestibule of the building near Henry Street — https://www.brooklynpaper.com/package-thieves-swipe-several-packages-from-apartment-buildings/
+- Columbia Street-specific camera or footage news — EMPTY
+
+**Businesses, blocks and coming changes**
+- Commercial strip: trendy restaurants, live poultry markets, mom-and-pop vintage stores and boutiques line the neighborhood's center, Columbia Street. — https://streeteasy.com/area/cswd
+- Working port next door: The Columbia Street Waterfront District is the only part of the East River Waterfront corridor that remains a functioning port. The Red Hook Container Terminal, which occupies the whole neighborhood's waterfront, was redeveloped to handle container cargo in 1981. — https://sites.google.com/site/brooklynqueenswaterfront/neighborhood-histories/columbia-street-waterfront
+- Brooklyn Marine Terminal plan: The plan includes 6,000 new housing units, 28 acres of open space, and roughly 225,000 square feet of industrial space — https://brooklyneagle.com/339689/brooklyn-marine-terminal-redevelopment-passes-in-controversial-monday-vote/
+- Timeline: EDC hopes to have a GPP approval in late 2026, and construction is set to roll out in phases until 2038. — https://nyc.streetsblog.org/2025/09/22/government-malpractice-marine-terminal-redevelopment-gets-approval-despite-massive-transportation-concerns
+- Housing would go along portions of the property, mostly abutting Columbia Street. — https://www.senatorgounardes.nyc/bmt
+- The July 2026 EDC session listed Bus priority on Van Brunt and Columbia Streets. It also said Today, Van Brunt Street ends at Degraw Street. — https://edc.nyc/sites/default/files/2026-07/NYCEDC-BMT-Public-Info-Session-Presentation-07-14-2026.pdf
+- Access note: the district is at least half a mile away from any subway station. — https://streeteasy.com/area/cswd
+
+**Competitor pricing and claims (unverified)**
+- Abstract Enterprises says DVR not working repair in Brooklyn averages $300–$700 including the hard drive and labor. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- The same site claims Reddit threads recommend Abstract Enterprises consistently. I found no Reddit thread that backs this up. Treat it as self-promotion and do not repeat it. — same URL
+- Another warehouse-repair page lists a $195/hr specialty rate — https://www.abstractenterprisessecuritysystems.com/warehouse-security-camera-installation-brooklyn
+- UA Security says it troubleshoots existing camera systems before recommending replacement, focusing on the affected camera, recorder, power, cabling, network or viewing path. — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.html
+
+**Reddit / forums / Yelp**
+- Reddit threads (r/ColumbiaStreetWaterfront, r/Brooklyn, r/AskNYC, r/homesecurity) — EMPTY. No threads came up in my searches.
+- Brownstoner forum (not Reddit): My experience with Alarms R Us has been good. They are local (Brooklyn-based), and you can always get someone on the phone. — https://www.brownstoner.com/forum/general-discussion/security-systems-in-brooklyn/1/
+- Yelp listings near the neighborhood include NYC Intercom & Camera Services 5.0 (11 reviews) Serving Brooklyn and the Surrounding Area — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Columbia+Street+Waterfront+District%2C+Brooklyn%2C+NY
+- Yelp praise: "Andre and Travis did an amazing job upgrading all nine of my cameras — https://www.yelp.com/search?find_desc=Cctv&find_loc=Brooklyn,+NY
+- Yelp praise: "Micah responded to us quickly and had the problem fixed the next day. (Royal Security) — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+- Yelp complaints — EMPTY
+
+### Questions people ask — Security Camera Repair in Columbia Street Waterfront
+
+Note: my search tool doesn't show Google People Also Ask boxes, related searches, Bing or DuckDuckGo results pages, or AnswerThePublic data. Those fields are EMPTY. The questions below are real, but they come from FAQ sections on competitor and industry pages. They are labeled that way and are not PAA results.
+
+- PAA — EMPTY
+- PASF / related searches — EMPTY
+- AnswerThePublic — EMPTY
+- Bing-only questions — EMPTY
+- DuckDuckGo-only questions — EMPTY
+- Reddit — EMPTY
+- Yelp questions — EMPTY
+- How much do security cameras cost in Columbia Street Waterfront? — competitor FAQ (not PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-columbia-street-waterfront-brooklyn-ny
+- Wired or wireless cameras for Columbia Street Waterfront? — competitor FAQ — same URL
+- How do you hide camera wires on a Columbia Street Waterfront property? — competitor FAQ — same URL
+- What camera brands do you install in Columbia Street Waterfront? — competitor FAQ — same URL
+- How long does installation take in Columbia Street Waterfront? — competitor FAQ — same URL
+- Do you offer security camera repair in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- What are the most common Brooklyn camera failures? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How to fix security camera that stopped working — competitor FAQ — same URL
+- How to fix night vision not working on security camera — competitor FAQ — same URL
+- How much does it cost to fix a CCTV system? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- How to fix camera no signal error — competitor FAQ — same URL
+- How to fix security camera blurry image — competitor FAQ — same URL
+- How to fix motion detection not working camera — competitor FAQ — same URL
+- Can you fix my security camera the same day in NYC? — competitor FAQ schema — same URL
+- What brands of security camera do you repair? — competitor FAQ schema — same URL
+- My DVR isn't recording — is it the hard drive or something else? — competitor FAQ schema — same URL
+- How do I request service? — competitor FAQ schema — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.html
+- Do you need a license to install security cameras in New York? — industry blog FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Are there restrictions on exterior camera mounting [in an LPC historic district]? — installer FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- How many cameras does a typical brownstone need? — installer FAQ — https://senecasecurity.com/services/security-cameras/brownstones/
+- Should I repair or replace my CCTV cameras? — industry FAQ (California) — https://www.guardianintegratedsecurity.com/cctv-repairs/
+- Can CCTV cameras be repaired, or do they need to be replaced? — industry FAQ — https://www.guardianintegratedsecurity.com/cctv-repairs/
+- Do you repair security camera systems you did not install? — industry FAQ (Florida) — https://www.cctvoverwatch.com/security-cameras/security-camera-repair-service-palm-beach-county/
+- Is it worth repairing an old analog camera system? — industry FAQ — same URL
+- How much does a security camera service call cost? — industry FAQ — same URL
+
+**Before using this research**
+- **Missing data:** I found nothing for Google PAA, related searches, Bing, DuckDuckGo, AnswerThePublic, Reddit, Yelp complaints, or HPD/311/DOB records. These need a manual check before the page goes live.
+- **Competitor claims:** Several pricing and "Reddit recommends" findings come from Abstract Enterprises' own pages. Treat them as unverified.
+- **LPC status:** No search result put the neighborhood in a historic district. That is not confirmation, so check each address in the LPC dataset linked above.
+
+## Carroll Gardens, Brooklyn — /security-camera-repair-carroll-gardens-brooklyn-ny (factory research, 2026-11-12)
+
+**Landmarks (LPC) rules: building and mounting**
+- The neighborhood has a city-designated historic district (designated Sept. 25, 1973), and it covers roughly 130 buildings, one of Brooklyn's smaller historic districts — https://www.defalcorealty.com/neighborhood-guide/carroll-gardens-brooklyn/
+- In LPC's 2018 rules amendments, codified staff practice covers installing objects or equipment on facades or areaway features, including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20_Public%20Meeting%20Presentation.pdf
+- LPC Permit Guidebook, Chapter 11: one criterion covers in-kind replacement of existing light fixtures, intercoms, security cameras, and mailboxes, showing no or minimally exposed conduit. Applications need manufacturer cut sheets for light fixtures, intercoms, security cameras, and mailboxes. For repair, a like-for-like camera swap may be treated differently from a new mount (my reading; check with LPC) — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook%20_Chapter11_HealthSafety.pdf
+- Installer claim: camera installs in landmark districts, including the Carroll Gardens historic district, require LPC approval if visible from a public street — https://www.roloelectronics.com/brooklyn-ny-security-systems
+- Installer claim: surface-mounted cameras on street-facing facades in historic districts may require an LPC permit or Certificate of No Effect. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Streetscape: brownstones with unusually deep front gardens (often 20-30 feet). My inference, not sourced: a facade camera sits far back from the sidewalk gate, which affects field of view and night-vision range — https://www.defalcorealty.com/neighborhood-guide/carroll-gardens-brooklyn/
+- Carroll Gardens is part of Brooklyn Community District 6, and its primary ZIP Code is 11231. — https://en.wikipedia.org/wiki/Carroll_Gardens,_Brooklyn
+
+**Building code, HPD and licensing**
+- MDL §50-a covers entrances: doors, locks and intercommunication systems. — https://law.justia.com/codes/new-york/mdw/article-3/title-2/50-a/
+- A broken intercom is classified as a Class B hazardous violation, and HPD enforces it on tenant complaint. The statute does not name a technology, require video, or specify a brand. — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- There is no general NYC law mandating cameras in apartment buildings. The source adds that cameras are generally not mandated by law but are often required by insurers — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- In a court case, a law firm showed that because the subject condominium was only four units, there was no provision of the Multiple Dwelling Law that the petitioner could rely on to require the board to have an intercom system. This matters for small brownstone condos — https://alblawfirm.com/case-studies/hpd-violation-dismissed/
+- HPD violation data is public: each row in this dataset contains discrete information about one violation. I did not pull Carroll Gardens camera or intercom counts — https://data.cityofnewyork.us/Housing-Development/Housing-Maintenance-Code-Violations/wvxf-dwi5
+- Licensing: NYS DOS Article 6-D rules say maintaining an alarm system includes a closed circuit television system (CCTV), or video surveillance — https://dos.ny.gov/security-or-fire-alarm-installer-license-law
+- You need a license to install or maintain security or fire alarm systems. This license comes from the New York State Department of State (NYSDOS). — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- 311 complaints about cameras in 11231: EMPTY
+- DOB permits for camera or low-voltage work in Carroll Gardens: EMPTY
+
+**Flooding and recorders in basements**
+- Gowanus CAG minutes say DEP's plan is to re-sewer all of Carroll Gardens/Gowanus, from Court Street to the Canal, and from Douglass Street to 4th Street at Public Place. — https://gowanuscag.org/
+- In nearby Gowanus, a resident found two feet of water in her basement during Hurricane Ida. The area has a large number of houses with basement units that predate FEMA's flood protection standards. — https://www.bkreader.com/non-profit-community/as-brooklyn-floods-gowanus-residents-prepare-for-the-worst-12406348
+- Restoration vendor: Carroll Gardens has moderate flood risk, particularly in basement and ground-floor units. My inference: DVRs and NVRs kept in cellars are at risk — https://www.respondhome.com/brooklyn/water-damage-restoration/carroll-gardens
+
+**Local news where cameras mattered (76th Precinct)**
+- Carroll Gardens falls under the NYPD's 76th Precinct (191 Union Street), which covers Carroll Gardens, Cobble Hill, Red Hook, and Gowanus. — https://www.defalcorealty.com/neighborhood-guide/carroll-gardens-brooklyn/
+- Line Bagels, at Smith and 9th Street in Carroll Gardens, was burglarized. Someone stole money from the cash register, the manager told me, and is thought to have hit two other businesses, including Organic Convenience Corp on Court and Huntington. (about 48 days old) — https://www.courtstreetjournal.com/p/il-quartiere-italian-shop-carroll-gardens
+- A burglar cut the hole above Smith & 9th Street Deli + Grocery on 9th St. near Smith St. in Carroll Gardens around 3:15 a.m. Nov. 1. He was last caught on camera boarding a Manhattan-bound D train. The year isn't in the snippet — https://www.yahoo.com/news/cat-burglar-cuts-hole-roof-022800324.html
+- Older Patch items: Trattoria on Columbia Street was the victim of a burglary on Sunday, July 8 at 4:30 a.m. Video cameras caught the intruder on tape — https://patch.com/new-york/carrollgardens/police-blotter-july-10
+- A Columbia Street resident said a security camera recorded someone trying to enter his apartment, but the break-in was unsuccessful — https://patch.com/new-york/carrollgardens/deli-robbed-at-gunpoint
+- A crook broke into a Baltic Street building using a screwdriver then stole a package — https://patch.com/new-york/carrollgardens/police-fire?page=7
+- The two shooters were caught on surveillance video pacing Hoyt Street in front of the Gowanus Houses (2021) — https://patch.com/new-york/parkslope/carroll-gardens-shooting-caught-surveillance-video-cops
+
+**Commercial blocks**
+- Prince Street Pizza opened at 271 Smith Street on April 23, 2026. Trudie's Tavern opened at 524 Court Street (opened June 19, 2026). Court Pastry Shop at 298 Court Street closed end of April 2026, no replacement announced — https://penrealty.net/blog/one-closed-corner-four-new-kitchens-carroll-gardens-this-summer
+
+**Technical claims from repair companies (their marketing, not independent data)**
+- Tight vestibules with hard-tile walls and glass doors blow out IR-LED night vision. Also: Many Manhattan and Brooklyn buildings still have original conduit and undersized risers. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- Brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal — too weak for any wireless camera. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- DVR drives written 24/7 burn out at year 3–5. Their price claim: DVR not working repair in Brooklyn averages $300–$700 including the hard drive and labor. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- The same company claims Reddit threads recommend Abstract Enterprises consistently. I could not verify this; treat it as unconfirmed — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- General price guide (not NYC): Service Call Fee: $75 – $150 for initial diagnosis; a typical repair often falls in the $150 to $400 range — https://www.securitycameraking.com/securitynews/security-camera-repair-near-me/
+
+**Yelp**
+- The Carroll Gardens security systems search lists Eddies Security Systems, Solomon's Security Solutions, NYC Intercom & Camera Services, True V Security Systems, True Defense Solutions, ExpertTech Inc. — https://www.yelp.com/search?cflt=securitysystems&find_loc=Carroll+Gardens%2C+Brooklyn%2C+NY
+- Praise: "Needed help updating my current camera system, and Eddie was amazing." — same URL
+- Praise: "Professional, high quality and super neat work, no wires showing or hanging" — https://www.yelp.com/search?find_desc=Spy+Camera&find_loc=Brooklyn%2C+NY
+- Praise: "He is very knowledgeable about security cameras and there repair." Another: "Micah responded to us quickly and had the problem fixed the next day." — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+- Carroll Gardens Locksmith & Security Systems lists Security system repair — https://www.yelp.com/biz/carroll-gardens-locksmith-and-security-systems-brooklyn
+- Yelp complaints about camera repair nearby: EMPTY
+- Reddit threads (r/CarrollGardens, r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY
+
+### Questions people ask — Security Camera Repair in Carroll Gardens
+- What are people saying about security systems services near Brooklyn, NY? — Yelp — https://www.yelp.com/search?cflt=securitysystems&find_loc=Carroll+Gardens%2C+Brooklyn%2C+NY
+- People also searched for: Security Camera Installation — Yelp (its own "people also searched for," not Google's PASF) — https://www.yelp.com/biz/carroll-gardens-locksmith-and-security-systems-brooklyn
+- Can you fix my security camera the same day? — vendor FAQ (not verified as PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- Who repairs security cameras near me? — vendor FAQ — same URL
+- How do you fix night vision not working on a security camera? — vendor FAQ — same URL
+- How do you fix a blurry security camera image? — vendor FAQ — same URL
+- How much does it cost to fix a CCTV system? / How much does CCTV repair cost in NYC? — vendor FAQ — same URL
+- Can I just replace one camera or do I have to replace the whole system? — vendor FAQ — same URL
+- What are the most common reasons a security camera stops working? — vendor FAQ — same URL
+- My DVR isn't recording — is it the hard drive? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Should you repair an ADT, Ring, or SimpliSafe camera in Brooklyn? — vendor FAQ — same URL
+- Best CCTV repair company Reddit recommends in Brooklyn? — vendor FAQ (Reddit claim unverified) — same URL
+- Why is my wireless camera offline in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Wired or wireless cameras for Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-brooklyn-ny
+- Do you offer security camera repair in Brooklyn? — vendor FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installers-brooklyn
+- "Our DVR has said 'no HDD'… How bad?" — vendor page says it's from Reddit (unverified) — https://www.abstractenterprisessecuritysystems.com/school-security-camera-installation-brooklyn
+- Are there restrictions on exterior camera mounting in an LPC historic district? — vendor FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Is a broken intercom an HPD violation? — vendor FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- What is the typical cost of security camera repair? — vendor FAQ (national) — https://www.securitycameraking.com/securitynews/security-camera-repair-near-me/
+- Do you repair systems installed by other companies? — vendor
+
+## City Line, Brooklyn — /security-camera-repair-city-line-brooklyn-ny (factory research, 2026-11-12)
+
+**A note on method first.** My search tool returns ordinary web results. It doesn't show Google's People Also Ask or "People also search for" boxes, Bing or DuckDuckGo result pages, or AnswerThePublic data. Those fields are marked EMPTY below. The questions I could find come from competitors' FAQ pages, and I've labeled them as that rather than as PAA. No Reddit thread turned up, and no review text specifically about City Line repair work did either.
+
+**Building types and wiring**
+- The most common building is the two-family attached row house: two stories over a raised foundation, brick, with shallow stoops, small iron-railed front gardens, cornices, and ground-floor entry vestibules that separate the two units. A shared vestibule is a likely spot for a camera that both units depend on. — https://maidmarines.com/brooklyn/city-line
+- Other housing types listed: two-family attached brick row houses, four-to-six-story walk-up apartments, and inter-war brick multifamily buildings. — https://maidmarines.com/brooklyn/city-line
+- The neighborhood is a densely built pocket of two-family row houses and frame homes. Homes draw owner-occupants, extended families and investors looking for two- and three-family income properties. That points to landlord-owned systems serving several units. — https://www.nyonlinerealty.com/nyc/city-line
+- History of the housing stock: wooden cottages and two-story frame houses went up first along Belmont Avenue, Lincoln Avenue, and Wyona Street, and later new brick rowhouses and small apartment buildings replaced older wooden homes. Expect wiring through both wood frame and brick. — https://cityneighborhoods.nyc/city-line
+- A competitor's City Line page advertises wired installs through wood-frame and brick construction, and wireless where hardwiring isn't practical. It also names commercial properties along Linden Boulevard. This is a competitor's own claim. — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-city-line-brooklyn-ny
+- NYCHA developments: Cypress Hills Houses has 15 seven-story buildings and 1,442 apartments between Linden Boulevard, Sutter Avenue, Euclid Avenue, and Fountain Avenue, completed in 1955. The East New York City Line development is also NYCHA. Wikipedia gives a different count: 11 seven-story buildings. — https://en-academic.com/dic.nsf/enwiki/2061320 ; https://en.wikipedia.org/wiki/Cypress_Hills_Houses
+- A competitor's Cypress Hills page says work ordered through NYCHA maintenance needs certified contractors and proof of insurance, but tenants can hire their own installers for personal TVs. It also says plastic anchors pull straight out of the NYCHA concrete block. That page is about TV mounting, but the mounting point carries over to camera brackets. — https://www.abstractenterprisessecuritysystems.com/tv-installation-cypress-hills-brooklyn-ny
+
+**City data and rules**
+- HPD violations about cameras in City Line: EMPTY.
+- 311 complaints about cameras in City Line: EMPTY.
+- DOB permits for camera or low-voltage work in City Line: EMPTY.
+- LPC rules for City Line: EMPTY. I found no historic district designation in my results. As a general point, for a historic district or individual landmark, any exterior camera mounting may need LPC approval. — https://senecasecurity.com/services/security-cameras/townhouses/
+- DOB permits, citywide: a contractor reports that Local Law 128 of 2024 took effect on 21 December 2025 with the 2025 NYC Electrical Code and added Administrative Code §28-105.4.7. Under it, low-voltage work under 50 volts for signaling, communication, alarm and data circuits needs no electrical permit, as long as a licensed master electrician does the work (or a special electrician or qualified person). This is a contractor's summary; check it against the DOB text before publishing. — https://www.abstractenterprisessecuritysystems.com/low-voltage-installation-nyc
+- No general NYC law requires cameras in apartment buildings. The legal requirement is for intercoms and lighting. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- State license: the law covers anyone who offers to install, service or maintain a system that detects intrusion, break-in, movement, sound or fire. Owners installing on their own property don't need a license. — https://www.nysenate.gov/legislation/laws/GBS/69-L ; https://dos.ny.gov/system/files/documents/2025/01/dos-1587-f-a-security-or-fire-alarm-installer-application_12.2024_0.pdf
+- When cameras detect or monitor intrusion, theft, movement, sound or fire, the Department of State counts them under Article 6-D. The business needs the state license, or a master electrician can register a waiver for the municipality where they're licensed. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-westchester-county-ny/
+- NYPD sharing: you can register camera locations with the NYPD at NewYorkCityConnect.org. A repair page could mention this as an extra step after the fix. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+
+**Local news**
+- In a 2021 Amnesty count, East New York was the most surveilled neighborhood in all three boroughs studied, with 577 cameras at intersections. — https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/
+- At a March 2025 City Council hearing, NYCHA said it has an active CCTV project under construction at Cypress Hills. — https://citymeetings.nyc/meetings/new-york-city-council/2025-03-10-1030-am-committee-on-public-housing/chapter/cctv-cameras-in-nycha-developments/
+- Two NYCHA tenant associations are suing to block a plan connecting nearly 20,000 public housing cameras to the NYPD surveillance system (August 2026). — https://nysfocus.com/2026/08/07/nycha-police-surveillance-big-apple-connect-lawsuit
+- Robbery near the area: at about 10:40 p.m. on June 20, at a business at 265 Ashford Street in the NYPD's 75th Precinct. I haven't confirmed that address falls inside City Line's boundaries. — https://www.shorenewsnetwork.com/gunman-wanted-after-armed-robbery-at-brooklyn-store/
+
+**Businesses and blocks**
+- Liberty Avenue's Guyanese, Bangladeshi and Caribbean shops and restaurants are the main commercial strip. — https://www.nyonlinerealty.com/nyc/city-line
+- Competitors with City Line pages or service-area mentions: Unlimited Applications Security (https://www.uasecurity.com/security-camera-systems-brooklyn-new-york.htm), Abstract Enterprises (above), and a site targeting "City Line Brooklyn NY 11207" (https://www.securitycamerasbrooklynny.com/security-camera-installers-brooklyn).
+
+**Pricing benchmarks (competitor claims)**
+- A $150–$190 service call applied to the repair, and DVR repair in NYC averaging $300–$700 including hard drive and labor. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- A competitor reports that most ADT camera systems in Brooklyn are leased, so the owner doesn't own the hardware. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+**Yelp**
+- Praise: a Solomon's Security Solutions review on Yelp's East New York page says "He did an amazing job fixing the issue with my cameras." — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=East+New+York,+Brooklyn,+NY
+- Praise: a Brooklyn reviewer wrote of Peace of Mind, "He is very knowledgeable about security cameras and there repair." — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+- Rating: Abstract Enterprise Security Systems has 3.0 stars from 38 reviews. The text of the complaints wasn't in my results. — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=East+Flatbush%2C+Brooklyn%2C+NY
+- Specific complaint text about camera repair near City Line: EMPTY.
+
+### Questions people ask — Security Camera Repair in City Line
+- Google People Also Ask: EMPTY
+- Google People Also Search For / related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Bing (including questions Google doesn't show): EMPTY
+- DuckDuckGo: EMPTY
+- Reddit (r/CityLine, r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland): EMPTY
+- Yelp (questions): EMPTY
+- How long does footage record for in City Line? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-city-line-brooklyn-ny
+- Are there monthly fees for cameras in City Line? — competitor FAQ — same URL
+- Do cameras work at night in City Line? — competitor FAQ — same URL
+- What camera brands do you install in City Line? — competitor FAQ — same URL
+- Can someone repair my security camera today in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Should you repair an ADT, Ring, or SimpliSafe camera in Brooklyn? — competitor FAQ — same URL
+- Who fixes security cameras near me in NYC? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- How much does it cost to fix a CCTV system? — competitor FAQ — same URL
+- How fast can you repair my security cameras in NYC? — competitor FAQ — https://security-systems.nyc/service/security-camera-repair/
+- Do you offer 24/7 emergency CCTV repair? — competitor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Do I need a permit to install security cameras on my house in NYC? — competitor FAQ — https://senecasecurity.com/services/security-cameras/single-family-houses/
+- Does a camera installer need a New York State license? — competitor FAQ — https://lowvoltagenewyork.com/resources/low-voltage-contractor-westchester-county-ny/
+- How much does out-of-warranty camera repair cost? — IPVM forum — https://ipvm.com/discussions/how-much-does-out-of-warranty-camera-repair-cost?oldest_first=true
+
+To fill the EMPTY lines, someone needs to look at the live Google, Bing and DuckDuckGo pages and AnswerThePublic by hand, and search Reddit directly.
+
+## Clinton Hill, Brooklyn — /security-camera-repair-clinton-hill-brooklyn-ny (factory research, 2026-11-12)
+
+**Note on method:** My search tool returns web results only. It doesn't show Google's People Also Ask boxes, People Also Search For, or related searches. It can't run Bing or DuckDuckGo separately, and it can't reach AnswerThePublic. I've marked those fields EMPTY instead of guessing at them. I also used up my searches before I could check HPD, 311 or DOB permit data for Clinton Hill, so those fields are EMPTY too.
+
+**Building types and wiring/entry situations**
+- The Clinton Hill Historic District was designated in 1981. It contains a variety of building types including row houses, mansions, stables, apartment houses, and institutional buildings, constructed during the 1840s into the 1920s — https://hdc.org/buildings/clinton-hill-historic-district/
+- District boundaries: on the west, Vanderbilt and Clinton Avenues; on the north, Willoughby Avenue; on the east, Hall and Downing Streets and Grand Avenue; and on the south, the blocks between Gates Avenue and Fulton Street — https://www.hmdb.org/m.asp?m=35114
+- The district has the mansions of Clinton Avenue, built in the 1870s and 1880s, and is otherwise noted for its prominent Italianate and Beaux-Arts rowhouses — https://en.wikipedia.org/wiki/Clinton_Hill_Historic_District
+- Clinton Hill South (a National Register district, not the LPC district) covers roughly Lefferts and Brevoort Places between Washington Avenue and Bedford Place. It also has a number of early 20th century apartment buildings in the Colonial Revival style — https://en.wikipedia.org/wiki/Clinton_Hill_South_Historic_District
+- Example building on a district edge: 404 Grand Ave is one of four row houses (including 402, 400 & 398 Grand Ave.) built in the Italianate style around 1899 — https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20161206/404_Grand_Avenue.pdf
+- A competitor describes an IR problem specific to brownstones: vestibules with hard tile floors, glass storm doors, marble stoops, and brass mailbox clusters bounce IR straight back at the lens. This is a vendor's claim — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Real Brownstoner forum question about wiring: an owner with a Ring floodlight cam at the back where there was existing wiring there from an old light asked about the front: how difficult it is/how much it will cost to run a new wire to power the new camera and light? — https://www.brownstoner.com/forum/general-discussion/installing-security-cameras-lights-on-brownstone-exterior/
+- A Clinton Hill renter on Brownstoner was taking the "garden" and "parlor" floors and noted There are three doors to the apartment. Multiple entries is a common layout here — https://www.brownstoner.com/forum-archive/2010/03/security-system/
+- A vendor says townhouses have shared party walls, private outdoor space, and construction quirks. The same vendor mentions 1890s brownstones with horsehair plaster walls — https://senecasecurity.com/services/security-cameras/townhouses/ ; https://senecasecurity.com/learn/security-camera-installation-nyc-licensed-low-voltage-contractors/
+
+**LPC rules**
+- LPC staff-level rules cover objects required by another agency or an entity similar to a utility, or commonly used for security measures, such as lighting, security cameras and intercom panels. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- The rules would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative or the location is mandated by an agency or entity. The preferred approach is to minimize damage, for example by installing it behind an areaway wall or fence, under a stoop, or behind plantings. (This is the 2018 proposal document. I didn't confirm the final adopted text.) — same URL
+- A precedent from another district: in Hamilton Heights/Sugar Hill, homeowners have been issued Landmarks violations for installing security cameras on their homes to catch the graffiti vandals — https://www.citylandnyc.org/landmarks-applies-double-standard-for-townhouse-addition/
+- Implication for repairs: replacing a camera with one that looks different or sits in a different spot on the front of a building can trigger LPC review. This is my inference from the rules above, not a published LPC statement.
+
+**Licensing and permits (changes how repair is done)**
+- New York State licenses anyone who offers or undertakes to install, service, or maintain a security or fire alarm system that detects intrusion, break-in, movement, sound, or fire. — https://contractorlicenserequirements.com/new-york/low-voltage-license-requirements/
+- New in NYC: Local Law 128 of 2024 adds AC 28-105.4.7 low voltage electrical work, effective December 21, 2025 — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- A vendor says low-voltage camera wiring in a single-family or owner-occupied townhouse typically does not require a DOB permit. This predates or ignores the 2025 code change, so check it against current DOB guidance — https://senecasecurity.com/services/security-cameras/townhouses/
+- Apartment buildings: There is no general NYC law mandating cameras in apartment buildings. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- One vendor claims that "Local Law 50" requires signs where common-area cameras are in use. I couldn't verify this against an official source, so don't publish it without checking — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+
+**City data**
+- HPD violations about cameras or intercoms in Clinton Hill: EMPTY
+- 311 complaints: EMPTY
+- DOB permits: EMPTY
+
+**Local news (footage use and failures)**
+- Package theft at 1104 Bedford Ave: a woman entered by entering through the front entrance and going into the mail room — https://www.audacy.com/1010wins/news/local/serial-holiday-package-thief-sought-in-brooklyn
+- A surveillance camera at a Clinton Hill apartment building captured the woman twerking outside. She was thought to be a lookout for a package thief — https://cbsnews.com/newyork/news/suspected-thief-caught-twerking-on-clinton-hill-surveillance-camera
+- At a Fulton St cannabis shop robbery, Cops are hoping to trace the men once the store's security camera footage has been reviewed. — https://www.brooklynpaper.com/clinton-hill-cannabis-heist/
+- July 2026 gunpoint robbery at Franklin and Lexington avenues, where police released surveillance footage — https://brooklyneagle.com/402462/seniors-robbed-at-gunpoint-in-clinton-hill/
+
+**Businesses and blocks**
+- Myrtle Avenue BID: public cameras were installed on Myrtle Avenue at Washington Park, Carlton Avenue, Ryerson Street, and Steuben Street. The BID also encourages private, in-store security cameras through our Storefront Grant project — https://myrtleavenue.org/our-community/public-space/neighborhood-safety/
+- The BID has offered 50% matching grants, up to $1,000 for storefront cameras (2017 packet; current status unknown) — https://myrtleavenue.org/wp-content/uploads/2017/05/New-Merchant-Welcome-Packet.pdf
+- Under the Borough President's camera program, cameras went in on Myrtle Avenue in Fort Greene and Clinton Hill. The program hooked them up to the existing security systems of local businesses — https://patch.com/new-york/prospectheights/new-hd-security-cameras-popping-around-brooklyn
+- Under that program, businesses are responsible for the maintenance, upkeep, repair, and registration of their security cameras. That creates a repair angle — https://bklyner.com/new-security-cameras-installed-newkirk-plaza-via-safe-shopper-initiative/
+- A 2024 NYPD pilot let retailers voluntarily integrate their security cameras with their local NYPD precinct, using a tech product made by the Fusus company — https://brooklyneagle.com/articles/2024/05/16/nyc-tests-program-allowing-businesses-to-connect-their-security-cameras-to-nypd/
+- Competitors' Clinton Hill pages: YDA (lists DeKalb Ave, Brooklyn, NY 11221), Abstract Enterprises, UA Security, securitycamerany.com — https://security-systems.nyc/locations/clinton-hill-brooklyn/ ; https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Competitor pricing claims (unverified): $250 service call applied to the repair (Abstract); Standard diagnostic service call: $250, payable upon completion of the visit. (Impera) — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn ; https://www.imperasecurity.com/security-camera-repair
+- Caution: Abstract Enterprises claims that Reddit threads recommend Abstract Enterprises consistently. I found no Reddit thread that supports this. Its pages also give two different addresses (Troy Ave and Cadman Plaza West) — same URL
+
+**Yelp**
+- Praise: "Needed help updating my current camera system, and Eddie was amazing. (Eddies Security Systems) — https://www.yelp.com/search?find_desc=Alarm+System+Repair&find_loc=Brooklyn,+NY
+- Praise: "Micah responded to us quickly and had the problem fixed the next day. (Royal Security) — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+- Praise for fixing old equipment: one reviewer said the tech didn't turn my request down just because the existing equipment was older — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brookdale%2C+NJ
+- Yelp complaints: EMPTY (the search snippets showed no negative reviews)
+
+### Questions people ask — Security Camera Repair in Clinton Hill
+- PAA (Google): EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing-only questions: EMPTY
+- DuckDuckGo-only questions: EMPTY
+- Reddit (r/ClintonHill, r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY. I found no actual threads.
+- How difficult is it, and how much does it cost, to run a new wire to power a camera and light on a brownstone exterior? — Brownstoner forum (not on the list above) — https://www.brownstoner.com/forum/general-discussion/installing-security-cameras-lights-on-brownstone-exterior/
+- Does anybody have good experience with security systems for a garden/parlor-floor brownstone apartment with three doors? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2010/03/security-system/
+- The questions below come from competitor FAQ pages. They are not verified PAA questions; they may reflect real searches:
+  - Can someone repair my security camera today in Brooklyn? — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+  - How much does it cost to fix a CCTV system? / How much does it cost to repair a security camera in NYC? — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+  - My DVR isn't recording — hard drive or something else? — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nassau-county
+  - How fast can you repair my security cameras in NYC? — https://security-systems.nyc/service/security-camera-repair/
+  - Do you offer 24/7 emergency CCTV repair? — https://www.imperasecurity.com/security-camera-repair
+  - Do I need a licensed installer for security cameras in New York City? — https://vertexsecurity.com/our-blog/commercial-security-camera-installation-cost-in-nyc/
+  - Are security cameras required in NYC apartment buildings? / Do landlords have to notify tenants about security cameras? — https://security-systems.nyc/blog/nyc-apartment-camera-requirements/
+  - Can my landlord put cameras in the hallways or laundry rooms? — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+
+## Cobble Hill, Brooklyn — /security-camera-repair-cobble-hill-brooklyn-ny (factory research, 2026-11-12)
+
+**Before you use this:** I ran out of searches before covering everything, and my search tool doesn't show Google's People Also Ask boxes, related searches, or Bing and DuckDuckGo results separately. So several sections are marked EMPTY. I didn't find any real Reddit threads or Yelp review text about camera repair. Most of the "questions" below are FAQ headings on competitors' pages, and they're labeled that way. Treat them as signs of what people search for, not confirmed PAA results.
+
+**Landmarks (LPC) rules: the biggest local factor**
+- Under LPC rules (Title 63, §2-20), cameras on landmarked buildings will be located to avoid a cluttered or haphazard appearance, and must be attached in a manner and location that minimizes their visible impact. — https://nyc-docs-new-design-test.readthedocs.io/en/latest/d02/c44/
+- LPC staff can approve this kind of equipment only if the proposed installation will not call undue attention to itself or detract from any significant architectural feature(s) of the building or of adjacent buildings — same URL
+- The 2018 rule changes would prohibit installation of many of these types of objects on a primary façade unless there is no feasible alternative or the location is mandated by an agency or entity. — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20Revisions%20August%209%202018.pdf
+- The LPC presentation lists staff-approved façade items including utility meters, fire alarm bells, light fixtures, intercoms, security grilles, security cameras, mailboxes, Siamese connections — https://www.nyc.gov/assets/lpc/downloads/pdf/LPC%20Rules%20Amendments%20_Public%20Meeting%20Presentation.pdf
+- A competitor says landmark districts in Brooklyn Heights, Park Slope, Fort Greene, and Cobble Hill require LPC approval. This is the company's claim. Check exact boundaries on the LPC map. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Another installer says visible exterior changes on brownstones, including camera mounts and conduit — may require a Certificate of No Effect or a Permit to Alter. — https://senecasecurity.com/services/security-cameras/brownstones/
+- The same company says often rear or interior-courtyard mounting avoids LPC review entirely while still achieving full coverage. — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Why this matters for repair: if you swap a camera for a bigger housing or add new exterior conduit, you may be making a new visible change. Keeping the same footprint is the safe default. (My conclusion from the rules above, not a sourced fact.)
+
+**Building types, wiring and failure patterns**
+- A competitor describes Cobble Hill housing stock as brownstones, brick row houses, Federal-style townhouses, Greek Revival homes, pre-war apartment buil[dings] — https://abstractenterprisessecuritysystems.com/security-camera-installation-cobble-hill-brooklyn-ny
+- Same source on Wi-Fi: WiFi cameras can't reliably penetrate the thick walls and floors of Cobble Hill buildings. (marketing claim) — same URL
+- Brownstone night vision problem: Tight vestibules with hard-tile walls and glass doors blow out IR-LED night vision. The fix is color-night-vision cameras or external illuminators — not another reset. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- Old risers: Many Manhattan and Brooklyn buildings still have original conduit and undersized risers. Pulling new Cat6 from a basement to a sixth floor takes route-planning, not just a fish tape. — same URL
+- Back yards: Brownstone back yards and basement units routinely get -85 dBm Wi-Fi signal — too weak for any wireless camera. — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Typical brownstone layout: install the NVR in a basement utility closet or a dedicated rack and run homerun Cat6 drops to each camera location — https://senecasecurity.com/services/security-cameras/brownstones/
+- Dark blocks: Many Brooklyn side streets and rear yards are poorly lit. — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-brooklyn-ny
+- Common problems a competitor lists for Cobble Hill: Package theft from brownstone stoops and townhouse vestibules Vehicle break-ins on narrow residential streets Unauthorized entry to multi-unit brownstones and walk-ups Retail theft along Court Street and Smith Street Monitoring shared rear gardens and basement-level entries — https://abstractenterprisessecuritysystems.com/security-camera-installation-cobble-hill-brooklyn-ny
+- Brands a local competitor services: Invid Security Cameras - Hikvision Security Cameras - Uniview Security Cameras - Provision Security Cameras — https://security-systems.nyc/locations/cobble-hill-brooklyn/
+- Hikvision: it's restricted for federal use, but it is not banned for private use (installer's claim) — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-brooklyn-ny
+
+**City and state rules (DOB, HPD, licensing, privacy)**
+- DOB permits: Low-voltage work does not always require a DOB permit, but certain situations do. Triggers include significant cable infrastructure, new conduit runs in fire-rated assemblies, or work that will be inspected during a DOB renovation — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- In co-ops and condos, a permit may come into play for any electrical work, conduit installation in common areas of a co-op or condo, or integration with fire alarm or access control systems — https://senecasecurity.com/learn/security-camera-installation-costs-nyc/
+- State license: New York's General Business Law Article 6-D requires a Department of State license to engage in the business of installing, servicing or maintaining security or fire alarm systems. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/
+- HPD: There is no general NYC law mandating cameras in apartment buildings. What the law does require is intercoms: landlords of multiple dwellings maintain a working door intercom or buzzer system — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Lighting: required common-area lighting has direct implications for camera placement — a camera pointed at an unlit corridor provides no usable footage. — same URL
+- **Sources disagree on camera signs:** one says you are required under NYC Local Law 50 to post visible notice that cameras are in operation. (https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords). Another says there's no NYC Administrative Code provision requiring residential landlords to post camera notices in common areas. (https://senecasecurity.com/learn/can-tenants-object-to-security-cameras-in-common-areas/). Check the actual law before the page says anything about this.
+- Hallways and audio: Cameras in common areas such as hallways and stairwells are also lawful as long as voice is not recorded. — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Backyard cameras: NY Civil Rights Law §52-a lets any owner or tenant of residential property may sue over backyard surveillance without written consent. This matters because Cobble Hill row houses share rear gardens. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- Sharing with NYPD: businesses can register your security camera locations with the NYPD at NewYorkCityConnect.org. — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- Owners have registered more than 5,500 additional cameras through the "Connect New York" initiative — https://gothamist.com/news/assume-theres-a-camera-now-how-911-spurred-nycs-vast-private-surveillance-network
+- Cobble Hill HPD violation counts, 311 camera complaints and DOB permit data: EMPTY (I didn't find any neighborhood-level data)
+
+**Local news (76th Precinct)**
+- The 76th Precinct covers Cobble Hill. — https://abstractenterprisessecuritysystems.com/security-camera-installation-cobble-hill-brooklyn-ny
+- Robbery inside a building: surveillance video showed the suspect waiting outside the building for an hour and a half before following her into the courtyard. — https://www.cbsnews.com/amp/newyork/news/cobble-hill-robbery-video
+- Baltic Street: NYPD released video of a suspect breaking into an apartment building on Baltic Street, between Smith and Hoyt Streets (2013) — https://brooklynreporter.com/2013/02/nypd-seeks-help-in-finding-cobble-hill-burglar/
+- Other headlines: Man Wanted For Breaking Into Cobble Hill Japanese Restaurant, Police Say — https://www.dnainfo.com/new-york/tags/76th-precinct/
+- Five suspected pant thieves caught on camera on Atlantic Avenue — https://brooklynreporter.com/tag/76th-precinct/
+- Shoplifting from a Court Street store — https://www.brooklynpaper.com/76th-precicnt-cops-arrest-stealing-champagne/
+- Note: these stories are 4–14 years old. I found no news from 2025–26.
+
+**Prices (competitors' published numbers)**
+- Impera: Standard diagnostic service call: $250, payable upon completion of the visit — https://www.imperasecurity.com/security-camera-repair
+- Abstract: $150–$190 service call applied to the actual repair. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- Abstract: Night vision not working camera repair is typically $250–$650. — same URL
+- Repair vs. replace: average camera repair cost $350 against an average replacement price of $1,227... A $60 consumer camera usually costs less to replace than to diagnose. — https://boomset.com/common-security-camera-problems-and-when-to-call-for-security-camera-repair/
+
+**Competitors (Yelp and directories)**
+- Yelp's Cobble Hill search mostly shows companies based outside the neighborhood, for example City Smart Systems 4.7 (14 reviews) Midtown West — https://yelp.com/search?cflt=security&find_loc=Cobble+Hill%2C+Brooklyn%2C+NY
+- Carroll Gardens Locksmith & Security Systems (11231) offers security system repair — https://www.yelp.com/biz/carroll-gardens-locksmith-and-security-systems-brooklyn
+- Abstract Enterprises claims Reddit threads recommend Abstract Enterprises consistently. This is their own claim and I couldn't verify it. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Yelp complaints and praise about camera repair near Cobble Hill: EMPTY (I found no review text)
+
+### Questions people ask — Security Camera Repair in Cobble Hill
+- Security Camera Installation (related search) — Yelp "People also searched for" — https://www.yelp.com/biz/carroll-gardens-locksmith-and-security-systems-brooklyn
+- Can someone repair my security camera today in Brooklyn? — competitor FAQ (not confirmed PAA) — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How to fix security camera that stopped working — competitor FAQ — same URL
+- Best CCTV repair company Reddit recommends in Brooklyn? — competitor FAQ — same URL
+- Should You Repair an ADT, Ring, or SimpliSafe Camera in Brooklyn? — competitor FAQ — same URL
+- How much does it cost to repair a security camera in NYC? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- What are the most common reasons a security camera stops working? — competitor FAQ — same URL
+- My DVR isn't recording — is it the hard drive or something else? — competitor FAQ — same URL
+- Why is my night footage just a white blur? — competitor FAQ — same URL
+- Why is my brownstone vestibule camera washing out at night? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-manhattan
+- Who fixes security cameras near me in NYC? — competitor FAQ — same URL
+- Why is my wireless camera offline in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/wireless-camera-installation-brooklyn-ny.html
+- Do you install in Cobble Hill landmark areas? — competitor FAQ — https://abstractenterprisessecuritysystems.com/security-camera-installation-cobble-hill-brooklyn-ny
+- Can I watch my Cobble Hill cameras from my phone? — competitor FAQ — same URL
+- How do I stop package theft at my Cobble Hill property? — competitor FAQ — same URL
+- Is Hikvision banned? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/hikvision-security-camera-installation-brooklyn-ny
+- Do we need a permit from the NYC DOB for a camera installation? — competitor FAQ — https://senecasecurity.com/services/security-cameras/houses-of-worship/
+- Are there restrictions on exterior camera mounting? (LPC district) — competitor FAQ — https://senecasecurity.com/services/security-cameras/carriage-houses/
+- Do I need cameras in my NYC building? — competitor FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- Can landlords use outdoor cameras to monitor tenants in NY co-op apartments? — Justia Q&A (real user question) — https://answers.justia.com/question/2026/04/08/can-landlords-use-outdoor-cameras-to-mon-1111841
+- Why is my security camera not working? — HomeAdvisor FAQ — https://www.homeadvisor.com/cost/safety-and-security/repair-an-alarm-or-security-system/
+- How much does out of warranty camera repair cost? — IPVM forum thread (real user question) — https://ipvm.com/discussions/how-much-does-out-of-warranty-camera-repair-cost?oldest_first=true
+- Google PAA (8–12): EMPTY
+- Google related searches: EMPTY
+- AnswerThePublic fan-out: EMPTY
+- Bing / DuckDuckGo-only questions: EMPTY
+- Reddit (r/CobbleHill, r/Brooklyn, r/AskNYC, r/homesecurity): EMPTY. No threads came up; results were competitor pages that mention Reddit.
+- Yelp complaint or praise questions: EMPTY
+
+**Still to do:** look at PAA, related searches, Bing and DuckDuckGo by hand in a browser. Search Reddit directly. Pull HPD, 311 and DOB data from NYC Open Data for ZIP 11201. Confirm the Cobble Hill Historic District boundaries on the LPC map.
+
+## Canarsie, Brooklyn — /security-camera-repair-canarsie-brooklyn-ny (factory research, 2026-11-12)
+
+**Building types and wiring**
+- Canarsie's housing is mostly detached single-family homes, semi-detached houses, attached row houses and two-family homes, with some three-family homes and a few condos. Buyers in Canarsie commonly find detached single-family homes, semi-detached houses, attached row houses, two-family homes, some three-family properties, and a smaller condo inventory. Low-rise homes cluster especially in areas south of Avenue L. So most jobs are on small private homes, not big buildings. — https://thevalvoteam.com/blog/buying-a-home-in-canarsie-for-suburban-style-living
+- Many listings are brick two-family homes with a driveway and a finished basement with its own entrance. Examples: Brick two family in a desirable neighborhood tree line block...a full finished basement with separate entrance along with private driveway. and This two-family brick home, built in 1955. This suggests driveway, side-entrance and basement-door camera coverage, and recorders sitting in basements (my inference, not stated by the source). — https://www.homes.com/brooklyn-ny/canarsie-neighborhood/p2/
+- An older figure (2010 data, homes in ZIPs 11234/11236): Average estimated value of housing units in 2-unit structures (47.8% of all units). Housing ranges from public housing to the exclusive Seaview Estates gated community. — https://www.movoto.com/guide/brooklyn-ny/canarsie-brooklyn-small-town-feel-diversity-and-convenience/
+- City Planning's rezoning document: multi-family row houses are generally located between E.88th Street and Paerdegat. The commercial corridors have a mix of one-story commercial buildings and two -to three-story, mixed-use buildings. — https://www.nyc.gov/assets/planning/download/pdf/plans/canarsie/canarsie.pdf
+- Bay View Houses (NYCHA, Canarsie) has 23, eight-story buildings with 1,609 apartments. In 2012, The state capital funding at the Bayview Houses provides for 30 cameras located in several buildings at the development. — https://www.nyc.gov/site/nycha/about/press/pr-2012/nycha-announces-cctv-camera-installation-complete-at-bayview-houses.page
+- Bayview was also on NYCHA's 2015 list of 29 NYCHA developments will receive cameras and other security enhancements by the end of 2015. — https://www.nyc.gov/site/nycha/about/press/pr-2015/cctv-progress-20150324.page
+- NYCHA closes $757M financing to renovate Canarsie's Bay View Houses (headline only; I couldn't find details on scope or cameras). — https://wavecrestmanagement.com/nycha-closes-757m-financing-to-renovate-canarsies-bay-view-houses/
+- Separate NYC case (Bronx, not Canarsie): a resident received an eviction notice saying that she had breached her lease by installing the cameras at Parkside Houses. Relevant to tenant-installed cameras in NYCHA buildings. — https://www.aol.com/2012/09/11/security-cameras-spark-eviction-notice-at-public-housing-complex/
+
+**Flooding, power and moisture (affects outdoor gear and basement recorders)**
+- During Sandy, there was extensive flooding that caused significant damage to basements and ground floor levels throughout Canarsie. Even in smaller storms, street flooding and sewer backups can cause minor damage and inconvenience. — https://www.nyc.gov/site/planning/plans/resilient-neighborhoods/canarsie.page
+- Damage was sustained mostly to basements and first floors, with one to six feet of flooding. — https://citylimits.org/post-sandy-canarsie-help-hold-ups/
+- Flooding and land sinking are common issues in Canarsie, a community that regularly deals with sinkholes, flooded basements, overflowing catch basins. A preliminary survey suggests around 40-43% of homes are dealing with some sort of structural damage. — https://canarsiecourier.com/ccdi-and-noaa-suborganization-to-study-flooding-and-house-sinking-in-canarsie/
+- After a 2020 water main break on East 78th Street, a resident said: "All my electrical stuff, it was on the floor, so I couldn't really save anything due to how fast the water was coming in." — https://www.cbsnews.com/newyork/news/brooklyn-canarsie-water-main-break
+- No properties in Canarsie fell within the 2007 FEMA flood zone before Sandy, but about half the units are covered by the 2015 updated map. — https://brooklyneagle.com/articles/2019/10/28/flirting-with-disaster-flood-zones-still-uninsured-years-after-sandy/
+- A local competitor already pitches exterior-rated camera housings and account for moisture and corrosion on any installation near the waterfront, plus backup power and surge protection on flood-prone blocks. — https://secureitglobal.com/it-support-canarsie-brooklyn/
+
+**Local news: why camera footage matters here**
+- Oct 30, 2026: after a body was found at Avenue L and E 93rd St, officers went store to store looking for surveillance video. — https://gothamist.com/news/police-search-several-blocks-in-canarsie-after-dead-mans-body-found
+- In the same case, private footage showed someone take the bag out of the trunk of a light-colored car and leave it outside the church a block away near the corner of Avenue L and East 94th Street. — https://brooklyn.news12.com/investigation-underway-after-body-discovered-in-canarsie
+- Oct 19, 2026: home camera footage caught a car theft near Avenue J and East 106th Street. The theft is one of several incidents that residents say have raised concerns about crime in the area. — https://brooklyn.news12.com/caught-on-camera-thieves-steal-new-car-from-familys-canarsie-driveway
+- Mar 2026: Surveillance video shows the shooting happened outside Richards Hall and Lounge, a bar and restaurant along Avenue L. — https://brooklyn.news12.com/4-injured-in-canarsie-shooting
+- At a precinct meeting, officers for Sector B (E 94th–E 102nd St, Flatlands Ave to Shore Pkwy) reported a few break-ins reported after midnight when residents were away from home. To address this concern, they recommend that homeowners and renters consider installing security cameras. — https://canarsiecourier.com/tiktok-challenges-may-be-responsible-for-local-car-thefts/
+- Police reported a slight uptick involving newer models (2022-2024) of Toyota Highlanders and Honda CRVs. They also noted the season when grand larcenies are on the rise, with package theft. — https://canarsiecourier.com/wp-content/uploads/2024/12/12-05-2024s.pdf
+- Sector C had three grand larcenies that took place in common driveways around East 78th and East 79th Streets, near Flatlands Avenue. Shared driveways are a coverage angle. — https://canarsiecourier.com/wp-content/uploads/2024/08/08-29-2024s.pdf
+- The city put a LockerNYC package locker at Canarsie, Brooklyn — 1380 Rockaway Parkway. Sites were picked partly on New York City Police Department package theft data. — https://www.nyc.gov/mayors-office/news/2024/04/mayor-adams-dot-commissioner-rodriguez-launch-lockernyc-combat-package-theft-reduce
+- In a fatal Canarsie home invasion on Kings Highway, a resident said the building doors are locked, and security cameras appear to work. — https://www.cbsnews.com/newyork/news/brooklyn-fatal-home-invasion/
+
+**Businesses and blocks where it matters**
+- Rockaway Parkway is in decline: Storefronts that served generations of families now sit dark, locked behind metal gates. Vacant storefronts can mean idle or orphaned camera systems (my inference). — https://canarsiecourier.com/rockaway-parkways-quiet-crisis-a-community-corridor-in-decline/
+- Other Rockaway Parkway incidents: a robbery outside the Chase Bank at 1764 Rockaway Parkway, at Avenue L, and a robbery around 8:40am inside 1938 Rockaway Pkwy in Canarsie. — https://canarsiecourier.com/canarsie-residents-be-careful-when-leaving-the-bank/ ; https://www.bkreader.com/in-other-brooklyn-news/caught-on-camera-73-year-old-pushed-to-ground-during-canarsie-robbery-suspect-at-large-11211476
+- Local competitors: Superstar Consulting at 2054 E 38th St, Brooklyn, NY 11234; SecureIT Global at 3603 Avenue S, Brooklyn. Abstract Enterprises has a Canarsie page offering Security camera repair, DVR/NVR troubleshooting, HD analog camera installation and upgrades. — https://superstar-consulting.com/ ; https://secureitglobal.com/it-support-canarsie-brooklyn/ ; https://www.abstractenterprisessecuritysystems.com/security-camera-installation-canarsie-brooklyn-ny
+
+**City rules and licensing (sources disagree; verify before publishing)**
+- One source says There is no general NYC law mandating cameras in apartment buildings. It adds that a broken intercom is an HMC violation and can result in an HPD complaint and associated fines. — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Another says NYC law requires a working two-way communication and door release system for buildings with more than 8 units. This contradicts Seneca's "three or more units" (This applies to most residential buildings with three or more units.). — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
+- On camera notice rules: Impera says New York City Local Law 50 requires that residential buildings with security cameras in common areas notify residents of their presence. Tenant-rights.com instead cites NYC Local Law 3 of 2019 – Security Cameras in Residential Buildings. Unverified and conflicting. — https://www.imperasecurity.com/blog/security-camera-laws-nyc-property-owners ; https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- For NYC tenants, complaints about building security and surveillance can also be made via HPD or 311. — https://tenant-rights.com/new-york/new-york-laws-on-security-cameras-in-building-common-areas
+- Permits: Most low-voltage security installations — cameras, intercoms, access control — don't require a building permit in New York City, but electrical work above low-voltage thresholds does. — https://www.einpresswire.com/article/929027740/what-nyc-property-owners-need-to-know-before-upgrading-their-building-security-system
+- State license: New York's General Business Law Article 6-D requires a Department of State license to engage in the business of installing, servicing or maintaining security or fire alarm systems. One source instead cites Article 7A (must hold a Security Guard and Investigation license (Article 7A) for alarm installation). Conflicting. — https://lowvoltagenewyork.com/resources/low-voltage-contractor-bronx-ny/ ; https://metrocomsecurity.com/commercial-security-systems-nyc-complete-guide/
+- Privacy: Civil Rights Law Section 52-a: Backyard Camera Law lets residential owners or tenants sue over certain camera placements. This bears on how cameras get re-aimed during repairs on tightly packed attached-house blocks. — https://www.recordinglaw.com/us-laws/surveillance-camera-laws/new-york-surveillance-camera-laws/
+- HPD violation counts for Canarsie: EMPTY
+- 311 complaint data for Canarsie: EMPTY
+- DOB permits tied to camera work in Canarsie: EMPTY
+- LPC rules or historic districts affecting camera mounting in Canarsie: EMPTY
+
+**Pricing seen in NYC (competitor-stated, not independent)**
+- Abstract Enterprises (NYC page): Fix security camera no signal calls in NYC average $200–$500; Night vision not working camera repair is typically $250–$650. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- The same company says DVR drives are written 24/7 and burn out around year 3–5. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-queens
+
+**Reddit and Yelp**
+- Reddit threads (r/Canarsie, r/Brooklyn, r/AskNYC, r/homesecurity, r/longisland): EMPTY. I found no real threads. One competitor's own page claims Reddit security camera repair threads for Brooklyn...recommend Abstract Enterprises consistently. That is a self-claim, not a Reddit source. — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Yelp "Security Camera Repair, Brooklyn" listings include NYC Intercom & Camera Services 5.0 (11 reviews) and MRK Computer Services 4.9 (111 reviews). — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+- Yelp praise: "Needed help updating my current camera system, and Eddie was amazing. — https://www.yelp.com/search?find_desc=Alarm+System+Repair&find_loc=Brooklyn,+NY
+- Yelp praise (Gravesend, nearby): "Micah responded to us quickly and had the problem fixed the next day. — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Gravesend%2C+Brooklyn%2C+NY+11223
+- Yelp praise (theme: willing to work on old equipment): he didn't turn my request down just because the existing equipment was older, rather he replaced my video recorder with something more compatible — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brookdale%2C+NJ
+- Yelp complaints about camera repair near Canarsie: EMPTY
+- Yelp listings in Canarsie itself: Securitek 5.0 (4 reviews) Serving New York and the Surrounding Area. — https://www.yelp.com/search?find_desc=Security+Services&find_loc=Canarsie%2C+Brooklyn%2C+NY
+
+### Questions people ask — Security Camera Repair in Canarsie
+My search tool can't show Google's People Also Ask boxes, People Also Search For, AnswerThePublic, Bing or DuckDuckGo, so I couldn't record those. Every question below comes from a page's own FAQ, which suggests what people search for but isn't confirmed PAA data.
+
+- PAA: EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing-only questions: EMPTY
+- DuckDuckGo-only questions: EMPTY
+- Reddit: EMPTY
+- How much do security cameras cost in Canarsie? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-canarsie-brooklyn-ny
+- Wired or wireless cameras for Canarsie? — competitor FAQ — same URL
+- Do cameras work at night in Canarsie? — competitor FAQ — same URL
+- Can you install cameras that cover a boat or dock near Canarsie Pier? — competitor FAQ — https://secureitglobal.com/it-support-canarsie-brooklyn/
+- How much does CCTV repair cost in Brooklyn? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- Can someone repair my security camera today in Brooklyn? — competitor FAQ — same URL
+- Do you offer security camera repair in Brooklyn? — competitor FAQ — https://abstractenterprisessecuritysystems.com/
