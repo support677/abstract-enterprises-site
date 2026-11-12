@@ -1370,3 +1370,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How do I get my landlord to fix the security camera after packages were stolen? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
 - Security system not recording after power outage — Eufy community — https://community.eufy.com/t/eufy-security-system-not-recording-after-power-outage/3629980
 - Flood light camera stopped working after power outage — Ring community — https://community.ring.com/conversations/ring-security-cameras/flood-light-camera-stopped-working-after-power-outage/66eb68103fcc0a2cf2ab9b59
+
+## Flatbush, Brooklyn — /security-camera-repair-flatbush-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where cameras (or their absence) mattered**
+- News 12, July 25 2025: tenants of a Flatbush apartment building (no address given) shared Ring camera video showing a shirtless man walking up to a hallway camera on July 11 and deliberately covering the lens, then returning the next day and doing the same; residents blame broken locks at the entrances; one resident: "I don't feel safe in my apartment. I don't feel safe in this building."; tenants say management gives temporary fixes and the super was not told; the property manager told News 12 to "call back next week" — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+- News 12, July 2 2025: News 12 obtained exclusive video of a gunpoint robbery at Z & H Five Star Salon in Flatbush around 11 a.m. on a Wednesday; "Video shows the suspect trying to snatch his watch and his chain, before grabbing at his pockets for money"; suspect left with $300 and an employee's chain, fled in a black sedan — https://bronx.news12.com/flatbush-nail-salon-gunpoint-robbery-caught-on-camera
+- News 12, May 15 2024: masked man robbed a smoke shop at 866 Flatbush Ave. "just off of Church Avenue" at gunpoint just before 11 p.m. and took merchandise; the article mentions no video; "Robberies are up 8.5% so far this year with 64 incidents, according to city data." — https://brooklyn.news12.com/nypd-suspect-wanted-for-gunpoint-robbery-stealing-from-smoke-shop-on-flatbush-avenue
+- News 12, Feb 11 2024: three suspects forced their way in through the back door of a house of worship at 26 Rugby Rd. (Flatbush) around 2:30 p.m., stole phones, belongings and cash; four monks inside unharmed; no video mentioned — https://brooklyn.news12.com/nypd-3-suspects-wanted-in-connection-to-flatbush-house-of-worship-robbery
+- Fox 5 NY (Nov 2025): one suspect broke into Brooklyn businesses through the roof Sept 16–Nov 15 2025, including 302 Church Avenue (about $7,500 taken) and a failed roof attempt at 1188 Flatbush Avenue on Oct. 11 (hundreds of dollars in damage); police "shared surveillance images from the four successful break-ins" — https://www.fox5ny.com/news/4-brooklyn-businesses-robbed-after-suspect-breaks-through-roof
+
+**Camera density**
+- Patch (Dashiell Allen), Feb 15 2022, citing the Amnesty International Decode Surveillance NYC map via MIT Technology Review: cameras are "disproportionately placed in communities of color"; the map "documents a high number of them in Flatbush, but very few in Ditmas Park" — https://patch.com/new-york/ditmaspark/surveillance-cameras-flatbush-fund-small-synagogues
+- Same Patch digest: UJA-Federation of New York announced a $250,000 fund for small synagogues in Brooklyn (under 200 members), eligible in Flatbush, Kensington, Crown Heights and elsewhere (security use not specified) — https://patch.com/new-york/ditmaspark/surveillance-cameras-flatbush-fund-small-synagogues
+
+**Power events in Flatbush that hit recorders, PoE switches and cameras**
+- News 12, June 20 2025: manhole fire on Beverly Road in Flatbush; FDNY responded just before 5 a.m.; "At one point in the day, at least 1,700 customers were without power"; Con Edison hoped to restore power "at some point tonight"; cause under investigation — https://brooklyn.news12.com/2025/06/21/more-than-1700-con-ed-customers-without-power-in-flatbush-due-to-manhole-issues/1fmv6HMh8D9PrMqiJ4kR10
+- News 12, July 13 2026: manhole fire near 650 Ocean Ave. around 8:30 p.m.; "As of 10 p.m., around 343 Con Edison customers are in the dark"; restoration expected about 1 a.m. Tuesday — https://brooklyn.news12.com/2026/07/14/manhole-fire-leaves-flatbush-residents-in-the-dark/fB0f6Dcb4eHo3tz8lLsYI
+- Security Wholesalers guide (technical, from sibling research): after an outage, "Router/switch/NVR started in the wrong order", "HDD reports an abnormal state", "Time/NTP was lost"; "Repeated power cycling can worsen storage and power faults" — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+
+**Tenants, landlords and footage**
+- Brick Underground (stolen packages, lobby camera broken): no city law requires rental buildings to keep cameras working; attorney Jeffrey Reich: "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions," and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance."; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent." — https://www.brickunderground.com/rent/stolen-packages-security-camera
+
+**Police and business programs**
+- NYC retail-theft camera pilot (2024, Fusus): proof of concept in the 109th Precinct, Flushing (35 businesses), expanding to nine more unnamed precincts; "Camera registration informs the NYPD where cameras are located in case a crime or incident occurs"; "camera integration provides the NYPD with real-time access to camera feeds"; "There is no cost for businesses to participate in this initiative." Whether the 67th or 70th Precinct is included: EMPTY — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+
+**Recording faults (technical sources)**
+- Swann support: causes of a recorder not recording include "Recording settings are disabled", "Motion detection settings are incorrect", no storage installed, a faulty hard drive or card, failed hardware — https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+- CCTV Camera World: check that the recorder still sees the drive with a Normal status and scroll back through playback for each channel; "formatting wipes all recordings"; "A slightly loose cable can cause intermittent detection issues"; desktop drives aren't designed for 24/7 recording — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Flatbush: EMPTY
+- 311 / HPD complaint data specific to cameras in 11226/11225/11210: EMPTY
+- Reddit threads (r/Flatbush, r/Brooklyn, r/AskNYC) on camera repair specifically: EMPTY
+- Yelp reviews for camera repair in Flatbush: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+- BID camera programs on Church Avenue or Flatbush Avenue: EMPTY
+
+### Questions people ask — Security Camera Repair in Flatbush
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why is my recorder not recording? — Swann support — https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+- How do I know my security camera system is actually recording? — CCTV Camera World — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Does my landlord have to fix the broken lobby camera when packages are being stolen? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- What can be done when someone keeps covering the hallway camera? — News 12 — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+- Is it free to register business cameras with the NYPD? — NYC.gov — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- How much does surveillance camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Why didn't my cameras come back after a power outage? — Security Wholesalers — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
