@@ -1078,7 +1078,7 @@ REBUILD | intercom-installation-kingsbridge-bronx-ny | Intercom Installation | K
 REBUILD | intercom-installation-laconia-bronx-ny | Intercom Installation | Laconia, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-longwood-bronx-ny | Intercom Installation | Longwood, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-mount-eden-bronx-ny | Intercom Installation | Mount Eden, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-new-utrecht-brooklyn-ny | Intercom Installation | New Utrecht, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T12:19Z max-burn REBUILD | intercom-installation-new-utrecht-brooklyn-ny | Intercom Installation | New Utrecht, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-pelham-parkway-bronx-ny | Intercom Installation | Pelham Parkway, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-prospect-lefferts-gardens-brooklyn-ny | Intercom Installation | Prospect Lefferts Gardens, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-prospect-park-south-brooklyn-ny | Intercom Installation | Prospect Park South, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
