@@ -701,3 +701,52 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can I mount a security camera on my fire escape in Bushwick without FDNY problems? — Reddit (excerpt) — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/
 - How do I get my landlord to look at the camera footage after packages are stolen? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
 - Why does my security camera keep going offline? — Reolink — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+
+## Brooklyn Navy Yard, Brooklyn — /security-camera-repair-brooklyn-navy-yard-brooklyn-ny (factory research, 2026-11-12)
+
+**The landlord's own security and camera system**
+- BNYDC's April 2025 RFP for a security assessment lists in scope "Security systems: CCTV, digital video management, access control, and panic/distress system" and a "CCTV (closed circuit television/surveillance) System and Digital Video Management" review including "System design and integration guidelines" tying into emergency call boxes, intrusion and fire alarms — https://www.brooklynnavyyard.org/wp-content/uploads/2025/04/RFP_Security-Assessment_20250422.pdf
+- Same RFP: Task 1 assesses "adequacy of existing wiring and infrastructure system to connect individual buildings with the central monitoring station" — same source
+- Same RFP: Security Department has "over 90 staff members" (1 VP, 1 Director, 2 Supervisors, 1 Coordinator, 1 Admin Assistant, 8 Sergeants, 71 Security Officers, 9 Elevator Operators); posts include Clinton Avenue, Cumberland, Sands Street and Clymer Street gates, a Ferry Landing Booth, "The Command Center," "The Concierge Desk," and "Ferry Landing Command Center"; duties include building checks/fire watch for all multi-tenant buildings and elevator operation in Building 3 — same source
+- Same RFP: last Security Master Plan completed in 2019; BNYDC does this assessment "every 5-6 years"; RFP released April 24 2025, 12-week contract; Yard described as a "300-acre industrial park" with "550+ businesses" — same source
+- CHA Consulting project page: assessment covered "electronic security systems, guard force operations, policies, and training programs" and produced a Physical Security Master Plan and "standardized design guidelines" for renovated and new facilities — https://www.chasolutions.com/projects/brooklyn-navy-yard-security-assessment/
+
+**Tenant rules that change how a camera repair is done (BNYDC Tenant Manual, Aug 2025 edition)**
+- Telecom providers in the Yard: Brooklyn Fiber, Crown Castle, Spectrum, Verizon; coordinate with Property Manager and "discuss access to your building's telecom closets" — https://www.brooklynnavyyard.org/wp-content/uploads/2025/08/BNYDC-Tenant-Manual-8.19.25.pdf
+- Recurring contractors "should be given temporary ID cards, which are issued by BNYDC Security" rather than visitor registration — same source
+- Alterations: "plans of the proposed work must be submitted to and approved by BNYDC"; "Any and all electrical work must be performed by a licensed electrician"; BNYDC "typically responsible for electric service up to a tenant's/licensee's point-of-entry (POE)" — same source
+- "Roof usage is prohibited except for emergencies" unless lease grants roof rights; notices/signage outside premises need landlord consent — same source
+- Freight elevators off weekdays 8 p.m.–5 a.m., none weekends/federal holidays; after-hours freight $50/hour per car 8–11 p.m., four-hour minimum ($200) 11 p.m.–5 a.m. and weekends, request two business days ahead — same source
+- Building 77 lobby needs a swipe card 10 p.m.–6 a.m.; Cumberland Street Gate pedestrians 24/7, cars weekdays 5am–10pm, weekends 9am–6pm; Clymer Street Gate weekdays 5am–9pm, weekends 5am–1pm — same source
+- Tenant Manual has no section on tenant CCTV, power outages or utility shutdowns: EMPTY
+
+**Local incidents where camera footage mattered**
+- DNAinfo, Oct 21 2016: three B&H Photo Video warehouse workers at 63 Flushing Ave arrested for stealing nearly $4,000 in electronics; "A security guard watching surveillance footage after returning to work from a holiday told police he saw" an employee put two iPads in his backpack; reviewing footage he noticed two more employees; 88th Precinct — https://www.dnainfo.com/new-york/20161021/navy-yard/bh-photo-video-electronics-theft
+- Brownstoner Daily Links Jan 3 2025: "Navy Yard Thieves Target Copper Wire Worth Thousands"; linked Brooklyn Paper story "Second Suspect Nabbed for Wire Theft at Brooklyn Navy Yard" — https://www.brownstoner.com/brooklyn-life/daily-links-navy-yard-thieves-target-copper-wire-worth-thousands
+- (from shared pack) Steiner Studios Cat 5E cable theft Jan 2024, suspect identified on security cameras — https://www.brooklynpaper.com/88th-pct-tangled-up-theft/
+
+**Rules and equipment issues that affect repair**
+- NY Civil Rights Law §52-c (effective May 7 2022): employers must give new hires written notice of electronic monitoring and get acknowledgment, post notice "in a conspicuous place"; penalties $500/$1,000/$3,000; AG enforces; article covers phone/email/internet and does not name video — https://www.kelleydrye.com/viewpoints/blogs/labor-days/ny-requires-notice-of-electronic-monitoring-to-employees-are-you-in-compliance
+- FCC rulemaking (~Apr 30 2026) on Covered List section 214 authorizations; SIA's Jake Parker: Hikvision and Dahua "are not telecom service providers"; a separate proceeding on revoking older device authorizations "explicitly would not affect continued use or operation of already-purchased communications equipment" — https://www.securityinfowatch.com/government/news/55375002/fcc-targets-covered-list-firms-in-telecom-authorization-overhaul
+- Competitor practice: Impera Security charges a $250 diagnostic "payable upon completion"; states "Installing or formatting a new hard drive does not recover footage previously lost because of a failed drive" and "If an incident recording is potentially important, tell us before anyone resets the recorder" — https://www.imperasecurity.com/security-camera-repair
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- DOB permits / HPD / 311 camera data for the Yard (one tax lot, 63 Flushing Ave, non-residential): EMPTY
+- LPC rules: Dry Dock 1 is a landmark; no LPC camera rule specific to Yard buildings found: EMPTY
+- Navy Yard-specific power outage news 2024–2026: EMPTY
+
+**Reddit / Yelp**
+- Reddit threads about tenant camera repair inside the Yard: EMPTY
+- Yelp Brooklyn "Security Camera Repair" listing exists (Falcon Locksmith, UniPros Security named in excerpt); no Navy Yard-specific reviews: EMPTY — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+### Questions people ask — Security Camera Repair in Brooklyn Navy Yard
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo live panels: EMPTY (not retrievable)
+- Why can I see live cameras but no recordings? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can you fix cameras that stopped working after an internet provider change? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can you recover missing security camera footage? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can the DVR be replaced without replacing all cameras? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Will the camera system be repaired during the first visit? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Do you offer free on-site camera diagnostics? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can existing coaxial wiring be reused? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Multiple users and account permissions (can managers see selected cameras?) — vendor page — https://www.imperasecurity.com/security-camera-repair
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Can someone repair my security camera today in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
