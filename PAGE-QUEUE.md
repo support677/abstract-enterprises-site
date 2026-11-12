@@ -954,7 +954,7 @@ REBUILD | access-control-installation-riverdale-bronx-ny | Access Control Instal
 REBUILD | access-control-installation-schuylerville-bronx-ny | Access Control Installation | Schuylerville, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T23:31Z max-burn REBUILD | access-control-installation-sheepshead-bay-brooklyn-ny | Access Control Installation | Sheepshead Bay, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-silver-beach-bronx-ny | Access Control Installation | Silver Beach, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T23:31Z max-burn REBUILD | access-control-installation-south-slope-brooklyn-ny | Access Control Installation | South Slope, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-south-slope-brooklyn-ny | Access Control Installation | South Slope, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-stuyvesant-heights-brooklyn-ny | Access Control Installation | Stuyvesant Heights, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-weeksville-brooklyn-ny | Access Control Installation | Weeksville, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-west-farms-bronx-ny | Access Control Installation | West Farms, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
