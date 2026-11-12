@@ -2233,3 +2233,49 @@ Note: the live web-search budget was used up before this page's own searches cou
 - Is it worth repairing an old DVR or replacing it? — Campus Safety Magazine — https://www.campussafetymagazine.com/cs/don-t-throw-out-the-dvr-with-the-bath-water/
 - How much do security camera install and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Do you need a license to install security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+
+## Midwood, Brooklyn — /security-camera-repair-midwood-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered (Midwood)**
+- Midwood Station Post Office, Coney Island Avenue near Avenue J (CBS New York, June 30 2025): shots fired during an attempted robbery around 1:15 p.m.; a gunman held a gun to a customer's back and demanded cash; "Exclusive video captured the sound of the shots being fired and the suspect fleeing the scene"; the same man then tried to rob a check cashing shop on Utica Avenue, crashed his moped and was arrested. Witness: "We locked the door just in case, and after we opened it and people were going in and out in and out and that was it." USPS: "The Postal Inspection Service takes matters involving the safety and well-being of postal service employees as a top priority." — https://www.cbsnews.com/newyork/news/midwood-station-brooklyn-post-office-shooting/
+- Grocery store on Coney Island Avenue, Midwood (ABC7, Dec 11 2022): armed robbery on a Friday at 1 p.m.; "The NYPD released surveillance video of the suspect demanding money from the register while showing his gun"; employee, 49, handed over $6,000; suspect fled on foot — https://abc7ny.com/brooklyn-robbery-armed-in-midwood-grocery-store-6/12558221/
+- 1401 Kings Highway, Midwood (News 12, Apr 1 2025): on March 27 a thief entered a store through a door that was not locked and took laptops and electronics worth about $5,600; article does not mention video — https://brooklyn.news12.com/nypd-laptops-and-electronics-worth-about-5600-stolen-from-midwood-store
+- CBS New York has run several Midwood home-burglary camera stories (suspect caught on camera breaking into a home as a family slept; a burglar caught on camera taking jewelry, a pocketbook and muffins; a search for burglars who targeted 10 Brooklyn homes). Dates and details not opened — https://www.cbsnews.com/newyork/news/midwood-brooklyn-burglary-suspect ; https://www.cbsnews.com/newyork/news/midwood-brooklyn-burglaries/
+
+**Power events (recorders, PoE switches, cameras)**
+- Midwood area outage (News 12, Aug 14 2025): "Over 5,600 customers in the Midwood area, especially, lost service just after 7 p.m."; weather downed power lines; service restored by 10:37 p.m. — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- Brooklyn winter outages 2026 (BK Reader): Con Edison spokesperson said melting snow mixed with road salt can seep into the underground electrical system and cause smoking and loss of service; Midwood not named — https://www.bkreader.com/non-profit-community/brooklyns-repeated-power-outages-spark-energy-concerns-11852964
+
+**Community cameras, patrols and police**
+- NYPD: "The 70th Precinct is centrally located in the borough of Brooklyn. This precinct is home to Midwood, Fiske Terrace, Ditmas Park, and Prospect Park South." — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page
+- Brooklyn Paper (May 31 2012): Agudath Israel of America was given $1 million to place surveillance cameras outside synagogues and schools in Midwood and Borough Park; police allowed to look at the feed but only "authorized officials" have access (Assemblyman Dov Hikind's office); resident Katherine Martinez: "It's not right"; resident Perricone: "As long as the police are involved in the actual surveillance, It will be fine." — https://www.brooklynpaper.com/midwood-residents-torn-on-agudath-cameras/
+- Wikipedia: "The Flatbush Shomrim Safety Patrol, originally known as Brooklyn Midwood Shomrim, was founded in 1991 by Chaim Deutsch"; in one case, after police identified a suspect's car from surveillance videos, two Flatbush volunteers spotted the car in Kensington and police arrested the suspect — https://en.wikipedia.org/wiki/Shomrim_(neighborhood_watch_group)
+
+**Building types and rules (from shared Midwood research, used here only where they bear on cameras)**
+- DCP 2006 Midwood rezoning: mostly two- and three-story detached and semidetached houses, apartment buildings of four to eight stories along Avenue K, Ocean Avenue, Kings Highway and parts of Avenue N; commercial corridors Coney Island Avenue, Avenue M, Avenue J — https://www.nyc.gov/assets/planning/download/pdf/plans/midwood/midwood.pdf
+- Fiske Terrace–Midwood Park Historic District designated March 18, 2008 — https://hdc.org/hdc-across-nyc/brooklyn/brooklyn-landmarked/fiske-terrace-midwood-park/
+- LPC Permit Guidebook ch. 11: no permit for ordinary maintenance and repair; in-kind replacement needs cut sheets but no elevation drawings — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Bisnow (2015): most shops on Avenues M and J close Friday evening and all day Saturday — https://www.bisnow.com/news/new-york/neighborhood/neighborhood-spotlight-midwood-50090
+
+**Pricing (our own published Brooklyn list)**
+- $150 service call credited to the repair; single camera replacement $250–$600; DVR not working $300–$700; NVR not recording $400–$900; hard drive swap $200–$450; power supply $150–$400; connector reterminate or PoE port $150–$350; annual maintenance $250–$800 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+**Yelp**
+- Yelp "Security Camera Installation near Midwood" lists mostly companies several miles away (for example a locksmith 6.0 mi away on Myrtle Ave); no Midwood-specific camera repair reviews seen — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Midwood%2C+Brooklyn%2C+NY
+- Yelp complaints about camera repair in Midwood: EMPTY
+
+**Reddit**
+- r/Midwood, r/Brooklyn threads on Midwood camera repair: EMPTY (search returned only general r/homesecurity threads about neighbors' cameras pointing at yards, e.g. https://www.reddit.com/r/homesecurity/comments/1k6ibvk/neighbor_recording_my_backyard_247/)
+
+**Empty**
+- DOB permits, HPD violations, 311 complaints about cameras in 11230: EMPTY
+- Midwood-specific local news about camera repair itself: EMPTY
+
+### Questions people ask — Security Camera Repair in Midwood
+- PAA (Google): EMPTY (WebSearch budget exhausted; not retrievable)
+- PASF (Google): EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Do I have to let my neighbor's camera record my back yard? — Reddit (r/homesecurity) — https://www.reddit.com/r/homesecurity/comments/1k6ibvk/neighbor_recording_my_backyard_247/
+- Should police get access to community camera feeds outside synagogues and schools? — Brooklyn Paper — https://www.brooklynpaper.com/midwood-residents-torn-on-agudath-cameras/
+- What do security camera installation and repair companies cost in Brooklyn? — Yelp / HomeAdvisor — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
