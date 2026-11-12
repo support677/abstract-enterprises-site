@@ -404,7 +404,7 @@ LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | To
 LIVE | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-BUILDING 2026-11-12T13:11Z max-burn | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
