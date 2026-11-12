@@ -654,3 +654,50 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can a co-op board ban video doorbells in the building? — Brick Underground — https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc
 - How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - Who owns footage from cameras on a private home that police use? — Brooklyn Paper — https://www.brooklynpaper.com/stories/40/10/dtg-joralemon-street-crime-cameras-2017-03-10-bk.html
+
+## Bushwick, Brooklyn — /security-camera-repair-bushwick-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that hit recorders, PoE switches and cameras in Bushwick**
+- Aug 7 2025: a manhole fire in front of 18 Irving Avenue (Irving Ave and Jefferson St) cut power to about 240 customers at the height of the outage; 18 Irving Avenue was still without power Friday evening. Witness Harris Smith: "The lights started flickering then there was a very loud pop outside and everything just went dark." — https://brooklyn.news12.com/2025/08/08/manhole-fire-causes-power-outages-in-bushwick/3DLXbMzacKblHn82ccSPsh
+- Feb 2026 (Saturday night, likely Feb 7): hundreds of Con Edison customers lost power in Bushwick; Con Edison notice cited "an electric problem in some parts of Bushwick in Brooklyn" and said "We had to shut off power temporarily to prevent more extended outages." Most power restored by Monday morning — https://www.bkreader.com/non-profit-community/brooklyns-repeated-power-outages-spark-energy-concerns-11852964
+- Jan 25 2026 winter snowstorm: large portions of Bed-Stuy and Park Slope lost power (neighboring areas, Bushwick not named for that event) — https://www.bkreader.com/non-profit-community/brooklyns-repeated-power-outages-spark-energy-concerns-11852964
+- July 2026 heat wave: more than 1,500 Brooklyn customers without power on a Sunday morning; "Con Edison says it reduced voltage in parts of the city to help protect the electric system during the heat wave." Bushwick not named — https://brooklyn.news12.com/2026/07/04/brooklyn-outage-tracker-more-than-1700-customers-still-without-power/3EKmUuQLxQ0QiIDYobbh61
+
+**Local incidents where camera footage mattered (or was missing)**
+- July 2026: Chyelle, a vintage furniture store and cafe on Cook Street, had five rugs worth about $4,000 taken from its balcony; "Surveillance video shows a woman arriving at Chyelle" around 2 a.m.; a detective told the owner she returned three times and used a hand truck — https://hudsonvalley.news12.com/over-4k-worth-of-antique-rugs-stolen-in-bushwick
+- June 19 2026: fire at South Bushwick Reformed Church, 855 Bushwick Avenue; "Security video from a property neighboring the church shows a person making repeat trips" along the Stanhope Street side; the Fire Department got the call about 35 minutes after the figure's final departure; the resident shared footage with city investigators; FDNY says the fire "remains under investigation" — https://www.brownstoner.com/interiors-renovation/bushwick-church-fire-video-855-bushwick-avenue/
+- May 27 2025: stabbing inside Double Discount Super Value Stores, 937 Broadway; "Exclusive surveillance video shows a man buying a knife around 10:30 a.m." and the store's video is the main source for the sequence of events — https://brooklyn.news12.com/caught-on-camera-melee-inside-bushwick-99-cent-store-leaves-1-man-stabbed
+- Feb 9 2026: armed men entered two apartments in a building on Myrtle Avenue near Stockholm Street just after 2:15 a.m. through the front doors; the article does not mention any surveillance video — https://brooklyn.news12.com/2-apartments-hit-in-overnight-bushwick-break-ins-1-man-hurt-dog-removed
+- Feb 26 2018: Kave Espresso Bar, 1087 Flushing Ave — intruder smashed the rear door glass; "Surveillance video from the cafe shows the burglar walking across the empty floor space"; nothing stolen — https://brooklynpost.com/man-breaks-kave-espresso-bar-bushwick-nothing-stolen-nypd
+- Aug 8 2016: Gift Shop Inc., 785 Broadway near Flushing Ave — man with a shirt over his head smashed the storefront window with a crowbar and took about $300 in merchandise; video documented it — https://www.dnainfo.com/new-york/20160809/bushwick/video-burglar-wearing-shirt-on-head-smashes-store-window-with-crowbar
+- July 2018: "Security cameras recorded four men stealing from a boutique clothing store in Bushwick" (street not named) — https://brooklyn.news12.com/video-shows-4-men-stealing-from-bushwick-boutique-38780236
+- Nov 2015: a burglar took more than $7,000 of merchandise from a new clothing store on Myrtle Avenue before its grand opening; owner Gary Guzman referred to his surveillance cameras — https://brooklyn.news12.com/burglar-hits-bushwick-store-before-grand-opening-34780497
+- July 2019: "Caught on camera: Man steals $1,300 worth of electronics, jewelry from apartment" in Bushwick (no street) — https://brooklyn.news12.com/caught-on-camera-man-steals-dollar1300-worth-of-electronics-jewelry-from-apartment-40792978
+
+**Landmark rules that touch camera mounting in Bushwick**
+- May 12 2023: LPC designated the Linden Street Historic District, Bushwick's first: one block on Linden Street and Bushwick Avenue, 32 late-19th-century brownstone houses in Neo-Grec, Queen Anne and Renaissance Revival styles — https://brooklyn.news12.com/2023/05/13/bushwick-block-designated-as-neighborhoods-first-historic-district/4IbKXxcDPfVS3Y1jmCzISP
+- Ridgewood Masonic Temple (in Bushwick) designated an individual landmark July 2014 — https://therealdeal.com/2014/07/23/ridgewood-masonic-temple-in-bushwick-designated-landmark
+- LPC Permit Guidebook ch. 11 (citywide): no permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras "must be attached at mortar joints, plain masonry, wood, or metalwork"; no more than two cameras per 25 feet of frontage on small buildings — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Tenants, footage and landlords**
+- Brick Underground (Williamsburg renter with stolen packages): the landlord isn't obligated to share footage outside a legal process; NYC doesn't require buildings to have security cameras; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord." Attorney Jennifer Rozen: "A tenant's association [can] advocate for the landlord to install a better lock/intercom system or a package locker." — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Reddit (excerpts only, from earlier AESS research): r/Brooklyn — a Bushwick resident asked whether FDNY objects to a camera on a fire escape, trying to catch a package thief; r/Bushwick — stranger let into a building at 2:30 a.m. — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/ ; https://www.reddit.com/r/Bushwick/comments/1gwbm7g/lady_came_into_my_building_in_the_middle_of_the/
+
+**Why cameras go offline (manufacturer guidance)**
+- Reolink lists causes: tripped breakers, damaged wiring, a failed PoE switch port or faulty power injector; worn Ethernet cables and corroded RJ45 connectors; outdoor damage from moisture, heat or freezing; two devices sharing one IP address; firmware mismatches between camera and NVR; thick walls weakening Wi-Fi — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Bushwick: EMPTY
+- 311 / HPD complaint counts about cameras in 11206/11207/11221/11237: EMPTY
+- Yelp reviews for camera repair in Bushwick: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+- Reddit full threads on camera repair in Bushwick: EMPTY (excerpts only)
+
+### Questions people ask — Security Camera Repair in Bushwick
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Can I mount a security camera on my fire escape in Bushwick without FDNY problems? — Reddit (excerpt) — https://www.reddit.com/r/Brooklyn/comments/12kvmho/mounting_security_camera_on_fire_escape_bushwick/
+- How do I get my landlord to look at the camera footage after packages are stolen? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Why does my security camera keep going offline? — Reolink — https://reolink.com/blog/why-does-my-security-camera-keep-going-offline/
