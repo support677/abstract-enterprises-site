@@ -918,7 +918,7 @@ LIVE | access-control-installation-clinton-hill-brooklyn-ny | Access Control Ins
 REBUILD | access-control-installation-co-op-city-bronx-ny | Access Control Installation | Co Op City, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | access-control-installation-columbia-street-waterfront-brooklyn-ny | Access Control Installation | Columbia Street Waterfront, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-concourse-bronx-ny | Access Control Installation | Concourse, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T20:57Z max-burn REBUILD | access-control-installation-coney-island-brooklyn-ny | Access Control Installation | Coney Island, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-coney-island-brooklyn-ny | Access Control Installation | Coney Island, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-crown-heights-brooklyn-ny | Access Control Installation | Crown Heights, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-ditmas-park-brooklyn-ny | Access Control Installation | Ditmas Park, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-downtown-brooklyn-ny | Access Control Installation | Downtown, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
