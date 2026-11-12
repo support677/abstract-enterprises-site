@@ -994,7 +994,7 @@ LIVE | door-buzzer-repair-fort-hamilton-brooklyn-ny | Door Buzzer Repair | Fort 
 BUILDING 2026-11-12T11:17Z max-burn REBUILD | door-buzzer-repair-greenpoint-brooklyn-ny | Door Buzzer Repair | Greenpoint, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-jerome-park-bronx-ny | Door Buzzer Repair | Jerome Park, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-mill-basin-brooklyn-ny | Door Buzzer Repair | Mill Basin, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-ocean-parkway-brooklyn-ny | Door Buzzer Repair | Ocean Parkway, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T11:36Z max-burn REBUILD | door-buzzer-repair-ocean-parkway-brooklyn-ny | Door Buzzer Repair | Ocean Parkway, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-park-versailles-bronx-ny | Door Buzzer Repair | Park Versailles, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-prospect-heights-brooklyn-ny | Door Buzzer Repair | Prospect Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-prospect-park-south-brooklyn-ny | Door Buzzer Repair | Prospect Park South, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
@@ -1050,10 +1050,10 @@ REBUILD | fire-alarm-installation-westchester-square-bronx-ny | Fire Alarm Insta
 REBUILD | fire-alarm-installation-williamsburg-brooklyn-ny | Fire Alarm Installation | Williamsburg, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | fire-alarm-installation-windsor-terrace-brooklyn-ny | Fire Alarm Installation | Windsor Terrace, Brooklyn | up /fire-alarm-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-bathgate-bronx-ny | Intercom Installation | Bathgate, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-bay-ridge-brooklyn-ny | Intercom Installation | Bay Ridge, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-beverley-square-brooklyn-ny | Intercom Installation | Beverley Square, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-bay-ridge-brooklyn-ny | Intercom Installation | Bay Ridge, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-beverley-square-brooklyn-ny | Intercom Installation | Beverley Square, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-bronxdale-bronx-ny | Intercom Installation | Bronxdale, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-REBUILD | intercom-installation-brooklyn-navy-yard-brooklyn-ny | Intercom Installation | Brooklyn Navy Yard, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T11:36Z max-burn REBUILD | intercom-installation-brooklyn-navy-yard-brooklyn-ny | Intercom Installation | Brooklyn Navy Yard, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-bushwick-brooklyn-ny | Intercom Installation | Bushwick, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-carroll-gardens-brooklyn-ny | Intercom Installation | Carroll Gardens, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-city-island-bronx-ny | Intercom Installation | City Island, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
