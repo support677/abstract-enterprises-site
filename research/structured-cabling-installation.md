@@ -2642,3 +2642,60 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## The Hub, Bronx — /structured-cabling-installation-the-hub-bronx-ny (factory research, 2026-11-12)
+
+### Where the work happens — buildings and blocks
+- The Hub is where East 149th Street, Willis Avenue, Melrose Avenue and Third Avenue converge, in a "bow-tie" layout; it sits mostly in Melrose and lines the northern border of Mott Haven, within Bronx Community Board 1 — https://en.wikipedia.org/wiki/The_Hub,_Bronx
+- It is the oldest major shopping locale in the Bronx, nicknamed "the Broadway of the Bronx"; served by the 3 Av–149 St station (2 and 5 trains) and buses Bx2, Bx4, Bx15, Bx19, Bx21, Bx32, Bx41, Bx41 SBS and M125 — https://en.wikipedia.org/wiki/The_Hub,_Bronx
+- Hub Retail and Office Center groundbreaking March 14, 2006 with Mayor Bloomberg; opened mid-2007 — https://en.wikipedia.org/wiki/The_Hub,_Bronx
+- Triangle Plaza Hub, 459 East 149th Street at Brook Avenue: $35 million, 88,000 sq ft commercial/retail complex by Triangle Equities, groundbreaking September 26, 2013, built on a former municipal parking lot, 83 rooftop parking spaces, LEED Silver minimum goal — https://www.taxcreditadvisor.com/articles/case-study-bronx-triangle-plaza-hub-rejuvenates-neighborhood ; https://www.bxtimes.com/triangle-plaza-hub-gets-new-tenants/
+- Triangle Plaza Hub tenants: Metropolitan College of New York (26,000 sq ft, 400 students), Fine Fare supermarket (14,600 sq ft), Vistasite Eye Care, Boston Market; 2015 leases added Brightpoint Health (16,000 sq ft, second floor) and DaVita Dialysis (8,900 sq ft ground floor) — https://www.taxcreditadvisor.com/articles/case-study-bronx-triangle-plaza-hub-rejuvenates-neighborhood ; https://www.bxtimes.com/triangle-plaza-hub-gets-new-tenants/
+- Bronx Times (2015) describes the Hub as a transit center used by over 200,000 people daily — https://www.bxtimes.com/triangle-plaza-hub-gets-new-tenants/
+- 2929 Third Avenue (near 152nd St): 5-story, 27,730 sq ft mixed office/retail/medical building, built 1931, renovated 2022, with 7,500 sq ft medical/office floor divisible to 1,900 sq ft, partial build-out — https://www.commercialcafe.com/commercial-property/us/ny/bronx/retail-and-office-space-at-2929-3rd-avenue-near-152nd-street/
+- Bronx Opera House, 436 East 149th Street: built September 1912–August 1913, architect George M. Keister; reopened as a boutique hotel August 2013; designated an individual NYC landmark by LPC on June 13, 2023 (exterior changes need LPC review) — https://en.wikipedia.org/wiki/Bronx_Opera_House
+- NYC Health + Hospitals/Lincoln is at 234 Eugenio Maria De Hostos Blvd (East 149th Street), between Park and Morris Avenues — https://www.nychealthandhospitals.org/lincoln/patients-visitors/directions/
+- La Central (Melrose, at the Hub): first building 2019 (160 units), two buildings 2020 (494 affordable units), houses the South Bronx's first YMCA in decades and BronxNet recording studios; Building E is 26 stories, under construction June 2025 with a rooftop Bronx Astronomy Tower telescope operated remotely by Bronx High School of Science; Buildings C and E due 2027, bringing La Central to 992 units — https://www.welcome2thebronx.com/2025/06/construction-begins-on-the-tallest-building-at-the-hub/amp/
+
+### Who the cabling customers are — city data
+- NYC SBS Commercial District Needs Assessment (Hub–Melrose): 613 storefronts inventoried on E 149th St, Third Ave, Morris, Courtlandt, Melrose and Brook Aves (Oct–Dec 2024); 17.5% vacancy (~107 storefronts) vs NYC average 12.1% — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Merchant survey (124 merchants): 86% rent, 7% own; 51% have a website; median 4 employees (mean 6.45); 40% minority- or woman-owned — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Storefront condition: 40% poor, 37% average, 23% good — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Business sales in the district rose from $69.2M (2018) to $107.4M (2024); median sales per business $117,379 in 2024 — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Foot traffic: Third Ave (E 150th–151st) 5,744 weekday afternoon pedestrians (2023); 3 Av–149 St station 12,027 weekday riders (2024) — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Safety was the top change merchants want (73%); street lighting 20% — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- Third Avenue BID formed 1988 (Bronx's first BID); it oversees the Hub portion of a $10M state Downtown Revitalization grant covering public art, security cameras and wayfinding — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-thehub-melrose.pdf
+- BID plan released March 26 (CDNA): dozens of new DRI-funded security cameras, 50+ new lighting fixtures via SBS Public Realm grant; Roberto Clemente Plaza closed except scheduled events; more than 600 businesses; new arrivals include 7th Street Burger, Guacado and an M&T Bank — https://www.bxtimes.com/?p=142178
+- NY1 (Oct 1, 2026): cameras going up at 10 locations chosen from 311 and 911 complaint data, 75 solar lights, public safety ambassadors; Pedro Suarez is Third Avenue BID executive director; June 2026 charges against 32 people in five alleged drug organizations operating in the Hub — https://ny1.com/nyc/bronx/news/2026/10/02/new-security-push-targets-bronx-hub
+- LinkNYC free Wi-Fi kiosks arrived in the Bronx in July 2016 — https://www.welcome2thebronx.com/2016/07/linknyc-the-citys-free-super-fast-wifi-has-arrived-in-the-bronx-before-brooklyn/amp/
+
+### Code and permits that shape cabling here
+- NYC Local Law 128 of 2024 defines "electrical work" to include wiring for signaling, communication, alarm or data transmission, and "low voltage electrical work" as wiring designed to operate at less than 50 volts for signaling, communication, alarm and data circuits — https://intro.nyc/local-laws/2024-128
+- Under LL128 § 28-105.4.7, no electrical permit is required for low-voltage installation when performed by a licensed master electrician, special electrician or qualified person; exemption does not apply to life-safety systems, hazardous locations or points connecting to light/heat/power control circuits — https://intro.nyc/local-laws/2024-128
+- DOB guidance groups electrical work into Minor (permit, no inspection), Electrical Work (permit + inspection) and Special Installations (plan review + permit + inspection) — https://www.nyc.gov/assets/buildings/pdf/elect_work_guidance.pdf
+- Contractor guidance: "permit not required" does not mean "no requirements" — building management may still require documentation, insurance and approved pathways; identify plenum vs non-plenum ceilings and vertical riser runs, since the wrong jacket rating can force rip-and-replace; firestop every rated penetration; label both ends; certify every run with a certification tester, not a continuity check — https://unifinerds.com/low-voltage-wiring-codes-nyc-contractors/
+- NYC-specific challenges: buildings over a century old, thick plaster/brick walls, possible asbestos, crowded ceilings and shared risers, multi-tenant mixed-use buildings needing after-hours coordination with management — https://unifinerds.com/structured-cabling-nyc/
+- NYC Mesh "mesh ready" building guidance: telecom closet per floor or every third floor with conduit to basement and a main conduit basement-to-roof; smaller buildings run cable down the exterior and under window frames — https://www.nycmesh.net/blog/mesh-ready/
+- Brick Underground: NYC walls with piping, plumbing, cement and brick kill Wi-Fi; running ethernet to a second access point is the most effective fix; simple job about $200, complex about $1,200 — https://www.brickunderground.com/improve/how-to-make-wifi-signal-better-in-nyc-apartment
+- Pricing guidance for NYC cabling varies by ceiling access, pathway complexity and after-hours rules (no dollar figures published) — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- HPD violations / 311 complaints specific to cabling at the Hub — EMPTY (not accessible in build env)
+- DOB permit filings for low-voltage work at specific Hub addresses — EMPTY (not accessible in build env)
+- Reddit r/Bronx threads specifically on cabling at the Hub — EMPTY (none found)
+- Yelp reviews of cabling contractors near the Hub — EMPTY (not accessible in build env); BBB lists 135 "Network Cabling" results for Bronx — https://bbb.org/us/ny/bronx/category/network-cabling
+
+### Questions people ask — Structured Cabling Installation in The Hub
+- Google People Also Ask — EMPTY (not accessible in build env)
+- Bing / DuckDuckGo question panels — EMPTY (not accessible in build env)
+- How much does structured cabling cost in NYC? — where seen: AnswerThePublic-style page heading — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- Why is structured cabling cost in NYC higher than other areas? — where seen: page FAQ — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- Is low voltage cabling usually priced per drop? — where seen: page FAQ — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- What's the difference between basic testing and certification testing? — where seen: page FAQ — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- How can I reduce office cabling pricing without cutting corners? — where seen: page FAQ — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- Does network installation cost include racks and patch panels? — where seen: page FAQ — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- Does network cabling require a licensed electrician in New York City? — where seen: search query fan-out (Google results) — https://intro.nyc/local-laws/2024-128
+- Can I run an ethernet cable to my neighbor's apartment to share internet? — where seen: Reddit r/AskNYC — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
+- What is the maximum distance of Cat6a cabling? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
+- Can I use Cat6a for 10 Gigabit Ethernet? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
+- How to test Cat6a cable? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
+- Do Cat6a cables work with Cat6 and Cat5e? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
+- How to make Wi-Fi signal better in an NYC apartment? — where seen: Brick Underground article — https://www.brickunderground.com/improve/how-to-make-wifi-signal-better-in-nyc-apartment
