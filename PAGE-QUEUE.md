@@ -365,7 +365,7 @@ BUILDING 2026-11-12T10:52Z max-burn | security-camera-repair-weeksville-brooklyn
 BUILDING 2026-11-12T10:53Z max-burn | security-camera-repair-williamsburg-brooklyn-ny | Security Camera Repair | Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T10:53Z max-burn | security-camera-repair-windsor-terrace-brooklyn-ny | Security Camera Repair | Windsor Terrace, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-wingate-brooklyn-ny | Security Camera Repair | Wingate, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T10:59Z max-burn | security-camera-repair-wyckoff-heights-brooklyn-ny | Security Camera Repair | Wyckoff Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-wyckoff-heights-brooklyn-ny | Security Camera Repair | Wyckoff Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 # Anwar Nov 11 2026: rebuild every Brooklyn door buzzer repair neighborhood page with keywords/door-buzzer-repair.md (list + neighborhood as geo modifier).
 LIVE | door-buzzer-repair-bath-beach-brooklyn-ny | Door Buzzer Repair | Bath Beach, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-borough-park-brooklyn-ny | Door Buzzer Repair | Borough Park, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
