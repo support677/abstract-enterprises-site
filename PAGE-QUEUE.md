@@ -255,7 +255,7 @@ LIVE | door-buzzer-installation-fort-hamilton-brooklyn-ny | Door Buzzer Installa
 LIVE | door-buzzer-installation-fulton-ferry-brooklyn-ny | Door Buzzer Installation | Fulton Ferry, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-gerritsen-beach-brooklyn-ny | Door Buzzer Installation | Gerritsen Beach, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-installation-gowanus-brooklyn-ny | Door Buzzer Installation | Gowanus, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T07:17Z max-burn | door-buzzer-installation-gravesend-brooklyn-ny | Door Buzzer Installation | Gravesend, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-installation-gravesend-brooklyn-ny | Door Buzzer Installation | Gravesend, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T07:29Z max-burn | door-buzzer-installation-greenpoint-brooklyn-ny | Door Buzzer Installation | Greenpoint, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T07:32Z max-burn | door-buzzer-installation-greenwood-heights-brooklyn-ny | Door Buzzer Installation | Greenwood Heights, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T07:33Z max-burn | door-buzzer-installation-highland-park-brooklyn-ny | Door Buzzer Installation | Highland Park, Brooklyn | up /door-buzzer-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
