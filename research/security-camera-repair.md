@@ -2951,3 +2951,75 @@ Outline used for every open-data query (same AESS South Slope outline as the sib
 - Package theft from our building is out of control, what can I do? — Reddit r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1v5vuus/package_theft_from_our_building_is_out_of_control/
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
 - Why has my DVR or NVR stopped recording? — vendor FAQ — https://security-systems.nyc/service/security-camera-repair/
+
+## South Williamsburg, Brooklyn — /security-camera-repair-south-williamsburg-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live web search was unavailable for this build. Every finding below is a sourced finding already saved in the site's research files (door-buzzer-installation, door-buzzer-repair, intercom-installation, security-camera-installation and security-camera-repair research), re-checked here for relevance to camera repair in South Williamsburg. Anything not found there is marked EMPTY.
+
+**Local incidents and police context where camera footage matters**
+- Sept 2026: a suspect returned to the neighborhood over Shabbos and entered multiple homes during the early morning hours; Williamsburg Shomrim issued a burglary alert — https://www.theyeshivaworld.com/news/general/2595415/williamsburg-shomrim-issues-burglary-alert-after-suspect-enters-multiple-homes-residents-urged-to-stay-vigilant.html
+- Shomrim said the suspect was seen moving systematically through neighborhood streets, testing doors and windows at various homes; about a month earlier two Hooper Street homes were burglarized — https://www.jfeed.com/crime-and-justice/tkzhn5
+- Hoodline (Sept 2026): break-in at an occupied home on Ross Street near Hooper Street on a Shabbat morning; suspect tests front doors, rear entrances, ground-floor windows and porches; rabbis ruled calling 911 during an apparent break-in on Shabbat is obligatory (pikuach nefesh) — https://hoodline.com/2026/09/intruder-slips-into-occupied-williamsburg-home-during-shabbat-shomrim-sounds-alarm/
+- Hoodline (Sept 2026): NYPD sought two suspects tied to 19 commercial burglaries across Brooklyn between Aug 3 and Sept 10, 2026; Williamsburg among neighborhoods hit — https://hoodline.com/2026/09/two-suspects-hit-19-brooklyn-businesses-in-five-week-smash-and-grab-spree/
+- Package and mailroom theft over one motzei Shabbos: packages stolen from a building at Bedford and Willoughby; a second incident on South Ninth Street toward morning when a suspect broke into a building — https://www.williamsburg365.com/news/four-arrests-made-in-williamsburg-within-24-hours
+- CBS New York: thief went in through the main entrance and into the mail room at a Bedford Avenue building, then did the same on Kent Avenue — https://www.cbsnews.com/amp/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say
+- CBS New York: a package was taken in a building near Broadway and Hooper streets — https://www.cbsnews.com/amp/newyork/news/apartment-building-package-thief
+- 2023, per Williamsburg Shomrim: a robber likely got into a building by ringing multiple apartment doorbells from the lobby until buzzed up; Shomrim warned never to buzz strangers in — https://www.israelnationalnews.com/news/372071
+- 90th Precinct (DNAinfo, July 2015): precinct covers South and East Williamsburg, bordered by Metropolitan and Maspeth Avenues to the north and Flushing Avenue to the south; nearly 170 burglaries Jan 1–July 5 2015, up 31%, driven by commercial burglaries via rooftops or broken gates and locks; police advised mounting covert cameras low and angled upward because ceiling cameras are easily beaten by a hooded sweatshirt, and leaving lights on because infrared night vision distorts faces — https://www.dnainfo.com/new-york/20150714/williamsburg/burglaries-up-more-than-30-percent-parts-of-williamsburg-police-say.amp
+- 90th Precinct station: 211 Union Avenue, Brooklyn NY 11211 — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/90th-precinct.page
+- Oct 30, 2025, Stagg Street commercial building (East Williamsburg, nearby): four men entered through a rear door, about $60,000 taken; cameras recorded it and police released the footage — https://brooklyn.news12.com/video-released-of-4-suspects-on-the-run-in-williamsburg-burglary
+- Feb 16, 2026: manhole fire at 101 Montrose Ave., 535 customers without power; Con Edison cited snow and road salt seeping into underground equipment (power events take down recorders and PoE switches) — https://brooklyn.news12.com/power-outage-leaves-hundreds-of-williamsburg-residents-in-the-cold
+
+**Shabbat and camera/video equipment**
+- A halachic source (Peninei Halakha) says a Jew may not stand where his image will be captured on the monitor and may not press the intercom button to ask the guard to unlock the door — https://ph.yhb.org.il/en/01-17-13/
+- Dinonline (June 15, 2026): intercom-controlled doors often have a manual latch movable before Shabbos; verify by turning off power to the intercom and lock and opening manually — https://dinonline.org/2026/06/15/electric-doors-on-shabbos/
+- On Lee Avenue, commercial activity slows significantly on Shabbat (Friday evening through Saturday night) — https://www.rovetravel.com/blog/williamsburg-brooklyn-renters-guide
+- A resident blog notes lots of flip phones in the neighborhood (relevant to app-based camera viewing) — https://isthisseattaken.co/life-in-south-williamsburg/
+
+**Building stock where cameras get repaired**
+- Williamsburg has thousands of older walk-up buildings without doormen, making porch piracy rampant (vendor blog) — https://www.usantini.com/blog/is-williamsburg-brooklyn-safe/
+- New small condos: 217 Lee Avenue, 2024-built 4-apartment walk-up condo with an intercom — https://www.cityrealty.com/nyc/williamsburg/217-lee-avenue/187234
+- Permits filed for a six-story residential building at 293 Wallabout St (between Harrison and Throop Aves), three residences, likely condos (Nov 1 2025) — https://newyorkyimby.com/2025/11/permits-filed-for-293-wallabout-street-in-south-williamsburg.html
+- Permits filed for a seven-story mixed-use building at 170 Williamsburg Street East near Marcy Ave station: 20 residences, community facility and commercial space (May 12 2026) — https://newyorkyimby.com/2026/05/permits-filed-for-170-williamsburg-street-east-in-south-williamsburg-brooklyn.html
+- 100 South 9th St: six-story building, 45 residences, elevators, bike storage, laundry, rooftop terrace; lottery applications due May 20 2026 — https://newyorkyimby.com/2026/04/housing-lottery-launches-for-100-south-9th-street-in-south-williamsburg-brooklyn.html
+- Williamsburg Wharf: five 22-story residential buildings at 464–484 Kent Avenue — https://www.6sqft.com/brooklyn/williamsburg/
+- Pfizer site / Broadway Triangle: plan of eight buildings and 1,146 units — https://therealdeal.com/new-york/2018/03/20/judge-puts-temporary-restraining-order-on-rabskys-broadway-triangle-site/
+- NYCHA PACT: Independence Towers (744 units), Williams Plaza (577), Berry Street–South 9th (150) — https://www.bkreader.com/featured-news/nycha-unveils-newly-renovated-public-housing-developments-6549116
+- Williams Plaza's 2020 PACT conversion covers renovations that will improve security systems — https://en.wikipedia.org/wiki/Jonathan_Williams_Plaza
+- Southside United HDFC (Los Sures), founded 1972, rehabilitation and construction of over 5,000 units in over 340 buildings and co-ops — https://www.southsideunitedhdfc.org/our-works
+- 47th Regiment (Marcy) Armory, 355 Marcy Ave, a full block; now rented for community events and film shoots — https://brooklyneagle.com/76191/take-a-stroll-on-marcy-avenue-part-two/
+- A circa-1910 six-story building was bought by Central United Talmudical Academy for $16.5 million in 2007 to become a school — https://brooklyneagle.com/25508/hasidic-williamsburg-hipsters-no-architectural-eye-candy-yes/
+
+**Grants and institutions**
+- Securing Communities Against Hate Crimes (Sept 8 2026): record $70 million to 290 nonprofits; NYC 147 grants totaling $35,792,289; max request $250,000; eligible include religious organizations, houses of worship, daycare centers; funds lighting, locks, alarms, access controls and more; NYPD anti-Jewish hate crimes up 8% (229 vs 212) through Aug 30 2026; quote Rabbi Yeruchim Silber (Agudath Israel): "As the Holiday season approaches, our schools, synagogues, and institutions are feeling more vulnerable than ever." — https://www.governor.ny.gov/news/ahead-jewish-high-holidays-governor-hochul-announces-distribution-record-70-million-protect
+- Same release: $32 million in federal Nonprofit Security Grant Program funding to more than 150 NY nonprofits — same URL
+
+**City and state rules that bear on camera repair**
+- LPC individual landmarks nearby: Williamsburgh Savings Bank, 175 Broadway (designated 1966); Kings County Savings Bank, 135 Broadway (designated 1966) — https://s-media.nyc.gov/agencies/lpc/lp/0164.pdf ; https://www.flickr.com/photos/wallyg/944532037
+- LPC Permit Guidebook ch. 11: no permit needed for ordinary maintenance, repair and retrofitting of safety equipment; cameras attached at mortar joints, not decorative surfaces; in-kind replacement needs cut sheets — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC historic district inside South Williamsburg: EMPTY (none found)
+- DHCR (2015): rent reductions upheld after a building's vestibule camera feed to tenants' TVs stopped ("antenna cable was disconnected from the security camera"); service provided 19 years, landlord required to maintain it — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- Brick Underground (a Williamsburg renter's stolen packages): attorney Jennifer Rozen says landlords aren't required to share footage outside a legal process and city buildings aren't required to have working cameras — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Otero v. Houston St. Owners Corp. (2012): tenants' privacy claims over hallway cameras dismissed — https://www.landlordvtenant.com/article/building-hallway-cameras-didnt-invade-tenants-privacy
+- NYPD Connect New York pilot (May 2024): businesses can share feeds with their precinct; precincts not named — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+- Mandatory camera registry bill S487 never passed — https://www.nysenate.gov/legislation/bills/2019/S487
+- NYS DOS license required to install or maintain security systems — https://ar.nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- Reolink lists causes of video loss: insufficient power supply, power spike and interference, weak WiFi, IR cut filter and faulty IR, signal type, cable problems, hardware/firmware, IP address conflicts — https://reolink.com/blog/video-loss-on-security-camera/
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- HPD / 311 / DOB records specific to cameras in 11206/11211/11249: EMPTY
+- Reddit threads on camera repair in South Williamsburg: EMPTY
+- Yelp reviews of camera repair in South Williamsburg: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (search unavailable)
+
+### Questions people ask — Security Camera Repair in South Williamsburg
+- Does my landlord have to fix the building's security camera? — DHCR review — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- How do I get my landlord to show me the footage after packages are stolen? — Brick Underground (Williamsburg renter) — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Why does a security camera lose video? — Reolink guide — https://reolink.com/blog/video-loss-on-security-camera/
+- Where should cameras go so a hood doesn't hide the face? — DNAinfo, 90th Precinct advice — https://www.dnainfo.com/new-york/20150714/williamsburg/burglaries-up-more-than-30-percent-parts-of-williamsburg-police-say.amp
+- Does infrared night vision distort faces on camera? — DNAinfo — same URL
+- Can a security grant pay for cameras at a synagogue or school? — Governor's release — https://www.governor.ny.gov/news/ahead-jewish-high-holidays-governor-hochul-announces-distribution-record-70-million-protect
+- Can a landlord put cameras in building hallways? — landlordvtenant.com — https://www.landlordvtenant.com/article/building-hallway-cameras-didnt-invade-tenants-privacy
+- Do I have to register my cameras with the police in NYC? — NY Senate S487 — https://www.nysenate.gov/legislation/bills/2019/S487
+- Can my store share its camera feed with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+- How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Does a camera repair technician need a license in New York? — NYC Business portal — https://ar.nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
