@@ -743,7 +743,7 @@ LIVE REBUILD | intercom-installation-fairmount-bronx-ny | Intercom Installation 
 LIVE REBUILD | intercom-installation-flatbush-brooklyn-ny | Intercom Installation | Flatbush, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-fort-hamilton-brooklyn-ny | Intercom Installation | Fort Hamilton, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-fulton-ferry-brooklyn-ny | Intercom Installation | Fulton Ferry, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | intercom-installation-gerritsen-beach-brooklyn-ny | Intercom Installation | Gerritsen Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T11:04Z max-burn | intercom-installation-gerritsen-beach-brooklyn-ny | Intercom Installation | Gerritsen Beach, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | intercom-installation-greenwood-heights-brooklyn-ny | Intercom Installation | Greenwood Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-highland-park-brooklyn-ny | Intercom Installation | Highland Park, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-homecrest-brooklyn-ny | Intercom Installation | Homecrest, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
