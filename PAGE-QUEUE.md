@@ -650,7 +650,7 @@ BUILDING 2026-11-12T13:42Z max-burn REBUILD | door-buzzer-repair-harding-park-br
 LIVE REBUILD | door-buzzer-repair-highbridge-bronx-ny | Door Buzzer Repair | Highbridge, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-homecrest-brooklyn-ny | Door Buzzer Repair | Homecrest, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T13:43Z max-burn REBUILD | door-buzzer-repair-hudson-hill-bronx-ny | Door Buzzer Repair | Hudson Hill, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-indian-village-bronx-ny | Door Buzzer Repair | Indian Village, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-12T13:44Z max-burn REBUILD | door-buzzer-repair-indian-village-bronx-ny | Door Buzzer Repair | Indian Village, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-kensington-brooklyn-ny | Door Buzzer Repair | Kensington, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-locust-point-bronx-ny | Door Buzzer Repair | Locust Point, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-madison-brooklyn-ny | Door Buzzer Repair | Madison, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
