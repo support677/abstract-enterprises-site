@@ -1822,3 +1822,56 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can I put a camera in the lobby for package thieves? — Reddit — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
 - Who fixes security cameras near me in NYC? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
 - What do security camera repair companies in Brooklyn charge? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+## Highland Park, Brooklyn — /security-camera-repair-highland-park-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Aug 3 2026, about 10 p.m.: on Highland Boulevard (East New York/Cypress Hills edge) a 2009 grey Acura TSX hit a motorcycle head-on and the motorcycle burst into flames; Eyewitness News obtained surveillance footage the next day showing the crash and two people near the car running off while covering their faces with clothing. Longtime resident Jim Muskewitz: "A lot of stuff went down, welcome to the wild west you guys." — https://abc7ny.com/post/2-critically-hurt-stabbed-motorcycle-car-crash-cypress-hills-brooklyn-driver-sought/19623977/
+- News 12 (Aug 6 2026, Shakti Denis): in "the Highland Park section of Cypress Hills, near the Queens border," a fiery motorcycle crash, a stabbing and a shooting happened within minutes of each other on a Monday night, focused on Highland Boulevard including the corner of Miller and Highland; residents describe reckless driving, street takeovers and dirt bikes; neighbors shared videos of speeding on Highland Boulevard; residents have filed 311 complaints; NYPD said it will assign a dedicated car to patrol upper Highland Boulevard. Resident Zenobia Bly: "If we had lighting back there, then the gentlemen wouldn't have time to hang out there." Tammi Green of the Jackie Robinson Pkwy Security Block Watch Association quoted. — https://bronx.news12.com/exclusive-cypress-hills-residents-demand-police-enforcement-after-string-of-violent-incidents
+- NYPD Tips posted a "WANTED for a Robbery in front of 220 Highland Boulevard #highlandpark #brooklyn" video (date not readable; page could not be scraped) — https://www.facebook.com/NYPDTips/videos/wantedfor-a-robbery-in-front-of-220-highland-boulevard-highlandpark-brooklyn-on-/716971789081440/
+- Jamaica Avenue, Cypress Hills: a man smashed into a tobacco shop just before 5 a.m. on June 25 and took cash; the robbery was "caught on tape" and he had been seen lingering outside first (year not stated in excerpt) — https://abc7news.com/archive/9169055/
+- 75th Precinct, Sept 24 2020: a bodega clerk off Jamaica Avenue in Cypress Hills was stabbed in an attempted robbery; "Police are reviewing security footage for leads" — https://www.brooklynpaper.com/75th-precinct-attempted-robberies/
+- CBS: suspects held up A&E convenience store on Jamaica Avenue in a Cypress Hills armed robbery spree (excerpt only, date not read) — https://www.cbsnews.com/newyork/news/cypress-hill-armed-robbery-spree/
+
+**Park edge, lighting and patrol**
+- NYC Parks capital project "Highland Park Perimeter Pathways, Fencing and Security Lighting Reconstruction" — reconstructed perimeter pathways, fencing and security lighting around Ridgewood Reservoir along Highland Boulevard, Vermont Place and Jackie Robinson Parkway; $6,737,000 mayoral funding; construction May 2011 to Sept 2013, 100% complete — https://www2.nycgovparks.org/planning-and-building/capital-project-tracker/project/3534
+- Jan 2014: the 104th Precinct (Queens side) planned daily 8:30 p.m. patrols in Highland Park to clear the park by 9 p.m. after complaints of after-hours drinking and loud music; the article says nearby Forest Park, not Highland Park, would get NYPD cameras — https://qns.com/2014/01/104th-precinct-to-increase-patrols-in-highland-park/
+- Highland Park's Brooklyn side is covered by the 75th Precinct; the Queens side (reservoir) by the 104th — https://en.wikipedia.org/wiki/East_New_York ; https://qns.com/2014/01/104th-precinct-to-increase-patrols-in-highland-park/
+
+**Power events that hit recorders, PoE switches and cameras**
+- Con Edison, July 2 2026: during equipment repairs in a heat wave, Con Ed asked customers in parts of Brooklyn (including East New York and Cypress Hills) and Queens to conserve energy and reduced voltage by 8% in those areas; 148,200 customers in the affected networks — https://www.coned.com/en/about-us/media-center/news/2026/07-02/con-edison-asks-customers-in-areas-of-brooklyn-and-queens-to-conserve-energy
+- After an outage, PoE cameras stop the instant their switch loses power; "the switch, injector, extender or power supply" is usually the failure point, not the camera — https://techprosecurity.com/security-articles/security-camera-system-installation/what-happens-to-security-cameras-during-a-power-outage/
+- After outages a camera can have power yet show offline because its network address changed (DHCP); static IPs prevent it — https://bcs-ip.com/why-security-cameras-go-offline-after-a-power-outage-and-how-static-ips-fix/
+- Hikvision users: when the NVR's built-in PoE ports show no lights after a power loss, the cameras are not getting power from the NVR's PoE hub — https://www.reddit.com/r/Hikvision/comments/v0i89g/cameras_not_working_after_power_outage/
+
+**Night image problems relevant to tree-lined, park-facing blocks**
+- i-pro: IR reflection in black-and-white mode is caused by fog/mist on the dome, by "spider webs in the angle of view" reflecting IR, and by rain gutters and plastic straps; countermeasures include relocating, changing angle, removing webs, cleaning the cover — https://i-pro.com/products_and_solutions/us-en/surveillance/learning-and-support/knowledge-base/technical-information/ir-reflection
+- Reddit r/reolinkcam: owner with clean lenses gets poor view only at night with cameras "just below a roof overhang" — https://www.reddit.com/r/reolinkcam/comments/173r24q/a_few_of_my_cameras_get_a_pretty_poor_view_at/
+
+**Pricing (vendor-published, NYC)**
+- Impera Security (NYC): standard diagnostic service call $250, payable upon completion — https://www.imperasecurity.com/security-camera-repair
+- UA Security: Brooklyn camera and DVR/NVR repair service calls start at $150; parts quoted after testing — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- AESS Brooklyn page (own site): $150 service call applied to the repair; most repairs $150–$1,500 — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+**Rules**
+- No Highland Park historic district found (no LPC permit layer for facade camera swaps here) — see silo research L12
+- DOB permits for camera work in Highland Park: EMPTY
+- 311 / HPD camera-specific complaint counts for Highland Park blocks: EMPTY
+
+**Empty**
+- Reddit threads specifically about camera repair in Highland Park: EMPTY (only general neighborhood threads; r/AskNYC comment: "The Cypress Hills area between the J train line and Highland Park is very quiet and there's a lot of nice architecture" — https://www.reddit.com/r/AskNYC/comments/13l1w9h/would_you_recommend_tourists_to_stay_in_east_new/)
+- Yelp reviews for camera repair in Highland Park/Cypress Hills: EMPTY (Brooklyn-wide Yelp list only — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY)
+
+### Questions people ask — Security Camera Repair in Highland Park
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "security camera repair Highland Park": EMPTY (not retrievable)
+- After a power outage 3 of my 7 cameras stopped working; I tried unplugging one and plugging it back in — any ideas? — Quora — https://www.quora.com/After-a-power-outage-3-of-my-7-cameras-on-my-outside-surveillance-system-stopped-working-They-are-not-connected-to-the-internet-I-tried-unplugging-one-and-plugging-back-in-Any-ideas-what-it-could-be-We-ve-had-power
+- Cameras not working after power outage — Reddit r/Hikvision — https://www.reddit.com/r/Hikvision/comments/v0i89g/cameras_not_working_after_power_outage/
+- What could cause 5 out of 6 PoE cameras to lose connection? — Facebook installer group — https://www.facebook.com/groups/573727906297010/posts/2535598440109937/
+- Why do security cameras go offline after a power outage? — vendor article — https://bcs-ip.com/why-security-cameras-go-offline-after-a-power-outage-and-how-static-ips-fix/
+- How to fix camera night vision glare? — Reddit r/homedefense — https://www.reddit.com/r/homedefense/comments/171yfso/how_to_fix_camera_night_vision_glare/
+- A few of my cameras get a pretty poor view at night — any ideas? — Reddit r/reolinkcam — https://www.reddit.com/r/reolinkcam/comments/173r24q/a_few_of_my_cameras_get_a_pretty_poor_view_at/
+- How do you stop spiders building webs on CCTV cameras? — Facebook group — https://www.facebook.com/groups/HomeAssistant/posts/3315207855417228/
+- Why is my security camera blurry at night? — vendor article — https://www.truehomeprotection.com/why-is-my-security-camera-blurry-at-night/
+- Is my DVR or NVR no longer recording? / Cameras working but not recording — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- How much does security camera repair cost in NYC? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Recording stopped? Playback missing? Remote viewing gone? — vendor post — https://www.instagram.com/p/DdZMPX6jRV4/
