@@ -5189,3 +5189,47 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Can a small shul get funding for new doors and locks? — UJA-Federation — https://www.ujafedny.org/news/ujafederation-of-new-york-creates-250000-fund-for-the-community-security-initiative-csi-to-upgrade-security-for-small-synagogues-in-brooklyn
 - Which door-control items can a nonpublic school buy with NPSE funds? — NYSED — https://www.nysed.gov/sites/default/files/programs/nonpublic-schools/npse-eligible-item-list.pdf
 - How do we stop doors being propped open when a fob system misbehaves? — GoKeyless (Queensbridge) — https://www.gokeyless.com/blogs/locks-in-the-news/when-keyless-access-fails-what-the-queensbridge-key-fob-fiasco-teaches-property-managers
+
+## Madison, Brooklyn — /access-control-installation-madison-brooklyn-ny (factory research, 2026-11-12)
+
+- Kings Highway: "East of Ocean Avenue, the street is largely residential"; a Business Improvement District "has been established along part of the road" (section not named) — https://origin-production.wikiwand.com/en/Kings_Highway_(Brooklyn) (Wikipedia mirror)
+- 2301 Kings Highway: co-op "between East 23rd Street & East 24th Street", built 1936, 6 floors, 96 apartments, pre-war, elevator; alternate addresses 1552–1558 East 24 Street and 1561–1563 East 23 Street (one building, addresses on three streets) — https://www.cityrealty.com/nyc/midwood/2301-kings-highway/94655
+- 2425 Kings Highway: co-op, built 1932, 6 floors, 137 apartments, doorman "None", pre-war; alternate addresses 1511 East 24 Street and 2401–2409 Kings Highway — https://www.cityrealty.com/nyc/midwood/2425-kings-highway/75162
+- 2705 Kings Highway: co-op "between Avenue O & East 28th Street", built 1950, 6 floors, 108 apartments; no doorman/entry features listed — https://www.cityrealty.com/nyc/midwood/2705-kings-highway/75172
+- 2282 Ocean Avenue: co-op "between Avenue R & Avenue S", built 1938, 6 floors, 36 apartments, elevator, pre-war — https://www.cityrealty.com/nyc/midwood/2282-ocean-avenue/96648 ; Openigloo files it under "brooklyn-madison" — https://www.openigloo.com/building/nyc/3184120-3068250016/brooklyn-madison-2282-ocean-avenue-11229
+- 2331 Ocean Avenue: co-op, built 1955, 6 floors, doorman none, "indoor parking (with a waiting list)", "a laundry area", "security cameras", subleasing permitted after three years — https://www.cityrealty.com/nyc/midwood/2331-ocean-avenue/75117
+- 2232 Ocean Avenue (Openigloo "Madison"): 72 units, 6 floors, built 1927, has rent-stabilized apartments, managed by Narrows Management; 127 open HPD violations over 10 years, 1.76 per unit vs 0.81 NYC average; categories include "No peephole on a door" (no intercom/door-lock items itemized) — https://www.openigloo.com/building/nyc/3183172-3068020036/brooklyn-madison-2232-ocean-avenue-11229
+- 2306 Ocean Avenue (Openigloo "Madison"): 72 units, 6 floors, built 1935; 3 open Class A HPD violations (0.04 per unit); former tenant reviews (over 3 years ago): "packages get lost all the time"; "No working cameras in the building just a decoration." — https://www.openigloo.com/building/nyc/3184122-3068250027/brooklyn-madison-2306-ocean-avenue-11229
+- 2523 Ocean Avenue (Openigloo "Madison"): 15 units, 6 floors, built 2005; 3 open HPD violations (1 C, 2 B), none itemized — https://www.openigloo.com/building/nyc/3392803-3073257504/brooklyn-madison-2523-ocean-avenue-11229
+- 2442 Ocean Avenue Residences, 11229 (StreetEasy files it under Homecrest/Sheepshead Bay, i.e. the Ocean Avenue edge): built 2019, 7 stories, 105 units, doorman "Virtual", concierge, live-in super, package room, assigned parking, gym, children's playroom, roof deck — https://streeteasy.com/building/2442-ocean-avenue-residences?similar=1
+- 2269 Ocean Avenue, 11229: 3,000 SF first-floor "Medical Office", full turnkey build-out, listed under neighborhood "Madison, Brooklyn" — https://www.commercialcafe.com/commercial-property/us/ny/brooklyn/2269-ocean-avenue/
+- 3041 Avenue U: 3,000 SF second-floor built-out medical office, "Elevator in the Building", 12,000 SF building "between Coyle St & Ford St" (east of Nostrand, so outside Madison's usual boundary; listed as Madison on one portal) — https://www.commercialsearch.com/commercial-property/us/ny/brooklyn/3-000-sf-3041-avenue-u-built-out-medical-office-for-lease/
+- NYCHA Queensbridge (Queens) fob rollout, CBS New York, April 22, 2025: keys stopped working, new fobs failed, doors jammed and propped with duct tape, intercoms failing, 78 building-door complaints in one month on the north side; NYCHA: "Layered access fobs and door systems are objectively safer than traditional keys and locks"; resident: "Don't treat us like nothing." — https://www.cbsnews.com/amp/newyork/news/nycha-queensbridge-houses-key-fobs
+- ButterflyMX NYC guide (updated July 23, 2026, vendor): fob/card installation "roughly $500 to $5,000 per door", fobs "usually cost between $1 – $5 per fob", NYC access control "about $500 to $10,000 or more"; names "NYC Intercom Law and Tenant Data Privacy Act" — https://butterflymx.com/?p=56439
+- Streamline Telecom 2026 NYC pricing release (March 3, 2026, vendor press release): basic card reader + panel $1,200–$2,000 per door; keypad+card $1,500–$2,500; maglock & door hardware $800–$1,800; programming $500–$1,200; "Standard single-door system, fully installed: $3,000 – $6,000"; cost drivers incl. "Concrete, steel, or landmark building constraints" — https://lifestyle.kbew98country.com/story/96377/streamline-telecom-releases-2026-access-control-pricing-guide-for-nyc-businesses/
+- NYPD 61st Precinct page names Kings Bay, Gravesend, Sheepshead Bay and Manhattan Beach; station 2575 Coney Island Ave; Madison not named, so no precinct claim for Madison — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/61st-precinct.page
+- News12 March 4, 2026: overnight home break-ins on East 9th St (Sheepshead Bay) and East 4th St (Gravesend), Shmira patrol; not Madison, entry method not given — not used as a Madison fact — https://brooklyn.news12.com/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn
+- Local Law 63 of 2021 / Tenant Data Privacy (silo, HPD): smart access in multiple dwellings — consent, written privacy policy, minimum data, destroy authentication data within 90 days unless anonymized, no sale, may not require smart access to enter one's own unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- Multiple Dwelling Law §50-a (silo): self-closing, self-locking entrance doors in class A MDs built/converted after 1/1/1968; intercom with voice + remote release for 8+ apartments; older buildings on majority written tenant request; roof doors self-closing, not self-locking — https://www.nysenate.gov/legislation/laws/MDW/50-A
+- NYC Building Code 1010.1.9.8/1010.1.9.9 (silo): sensor release, unlock on power loss and fire alarm, PUSH TO EXIT within 5 ft, 30 s; maglock release hardware — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-173513
+- Brick Underground 2018 (silo): DHCR — fobs free to lawful occupants, lost-fob fee capped, no new ID collection — https://www.brickunderground.com/rent/key-fob-tracking-rent-stabilized-apartment
+- amNY 2019 (silo): DOB requires a key-based way in; fobs, cards, keys count as keys; Sabbath-observance concern recorded — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1-29927187
+- HPD/311 counts for intercom or self-closing-door violations in 11229: EMPTY (NYC Open Data not reachable in build env)
+- Reddit threads about Madison entry systems/fobs: EMPTY
+- LPC: no Madison historic district found; Wyckoff-Bennett Homestead is an individual landmark (private home) — no access-control bearing found
+- Yelp 1–3★ for access control installers near Madison: EMPTY
+
+### Questions people ask — Access Control Installation in Madison
+- Google PAA for "access control installation Madison" / "access control installation Brooklyn": EMPTY (not accessible in build env)
+- PASF: EMPTY (not accessible in build env)
+- AnswerThePublic: EMPTY (not accessible in build env)
+- Bing / DuckDuckGo: EMPTY (not accessible in build env)
+- Reddit: EMPTY (no Madison or Brooklyn thread on this service surfaced)
+- Yelp: EMPTY
+- How much does access control cost per door? — Web SERP result title — https://www.acmelocksmith.com/articles/how-much-does-access-control-cost/
+- What does a key fob entry system cost for an apartment building? — Web SERP result title — https://swiftlane.com/blog/key-fob-entry-system-cost/
+- Intercom or key fob for a small office: which costs less? — Web SERP result title — https://butterflymx.com/blog/cost-to-install-intercom-vs-key-fob-for-small-office/
+- What is the access control cost per unit for multifamily buildings? — Web SERP result title — https://butterflymx.com/blog/access-control-cost-per-unit-multifamily/
+- Do renters have the right to a physical key? — Web SERP result title — https://dc.urbanturf.com/articles/blog/do-renters-have-the-right-to-a-physical-key/15172?page=119
+- Do you need a permit for access control / electrified locks? — Web SERP result title — https://idighardware.com/2013/03/permits-for-access-control/
+- What happens when a landlord switches a building from keys to fobs and the fobs fail? — news (CBS) — https://www.cbsnews.com/amp/newyork/news/nycha-queensbridge-houses-key-fobs
