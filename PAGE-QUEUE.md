@@ -353,7 +353,7 @@ LIVE | security-camera-repair-prospect-park-south-brooklyn-ny | Security Camera 
 LIVE | security-camera-repair-remsen-village-brooklyn-ny | Security Camera Repair | Remsen Village, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-ridgewood-brooklyn-ny | Security Camera Repair | Ridgewood, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-sea-gate-brooklyn-ny | Security Camera Repair | Sea Gate, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-sheepshead-bay-brooklyn-ny | Security Camera Repair | Sheepshead Bay, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-sheepshead-bay-brooklyn-ny | Security Camera Repair | Sheepshead Bay, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-south-slope-brooklyn-ny | Security Camera Repair | South Slope, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-south-williamsburg-brooklyn-ny | Security Camera Repair | South Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-spring-creek-brooklyn-ny | Security Camera Repair | Spring Creek, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
