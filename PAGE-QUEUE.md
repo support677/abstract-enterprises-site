@@ -943,7 +943,7 @@ REBUILD | access-control-installation-longwood-bronx-ny | Access Control Install
 BUILDING 2026-11-12T22:47Z max-burn REBUILD | access-control-installation-madison-brooklyn-ny | Access Control Installation | Madison, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T22:47Z max-burn REBUILD | access-control-installation-manhattan-beach-brooklyn-ny | Access Control Installation | Manhattan Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T22:47Z max-burn REBUILD | access-control-installation-midwood-brooklyn-ny | Access Control Installation | Midwood, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T22:48Z max-burn REBUILD | access-control-installation-mill-basin-brooklyn-ny | Access Control Installation | Mill Basin, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-mill-basin-brooklyn-ny | Access Control Installation | Mill Basin, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-mott-haven-bronx-ny | Access Control Installation | Mott Haven, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-mount-hope-bronx-ny | Access Control Installation | Mount Hope, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-ocean-hill-brooklyn-ny | Access Control Installation | Ocean Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
