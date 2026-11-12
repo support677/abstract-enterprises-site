@@ -1642,3 +1642,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can out-of-warranty cameras be repaired? — IPVM forum — https://ipvm.com/forums/video-surveillance/topics/does-anybody-have-out-of-warranty-cameras-repaired
 - Reddit questions: EMPTY
 - Yelp complaints/praise: EMPTY
+
+## Flatlands, Brooklyn — /security-camera-repair-flatlands-brooklyn-ny (factory research, 2026-11-12)
+
+**Power quality and outages (the main threat to recorders, PoE switches and camera power supplies here)**
+- Reddit r/Brooklyn, Sept 17 2025, "Unstable Electricity in Flatlands/Flatbush Area": poster near Ave J and Kings Highway: "the first year I noticed the lights in my house would dim momentarily often. I blamed it on old house wiring but after remodeling the problem persisted." and "the power keeps going out frequently across the neighborhood. I spoke to my neighbors about it and they said it's been happening for years." Asks for solutions "besides a backup battery for the house" — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
+- Same thread, reply: "The electrical lines run under the road, and when it rains, the tunnels flood, causing the lines to degrade, making the lights dim, and twice half my house has gone out, along with neighbors." Con Ed "drains the water with a huge pumper truck, turns all the power off, runs new lines and new connectors, and then everything's fine for about 8 months." — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
+- Same thread, a 30-year resident: "This summer it happened a number of times, but I've lived in your area for 30 years and before this, it has happened perhaps twice." — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
+- Con Edison, July 21 2019: about 33,000 customers in Canarsie, Flatlands, Mill Basin, Old Mill Basin, Bergen Beach and Georgetown lost power; "Con Edison made a preemptive move to take those customers in southeast Brooklyn out of service ... in order to protect vital equipment and to help restore power as soon as possible." — https://coned.com/en/about-us/media-center/news/2019/07-21/con-edison-working-to-restore-power-to-33000-outages-in-southeast-brooklyn-neighborhoods
+- News 12, July 4 2026: more than 1,500 Brooklyn customers out as of 10:22 a.m. Sunday; Con Edison reduced voltage in parts of the city to protect the system during a heat wave (neighborhoods not named) — https://brooklyn.news12.com/2026/07/04/brooklyn-outage-tracker-more-than-1700-customers-still-without-power/3EKmUuQLxQ0QiIDYobbh61
+- News 12, Aug 14 2025: over 5,600 customers in the Midwood area lost service after storm-downed lines, outage began just after 7 p.m., restored by 10:37 p.m. — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+
+**Local incidents where camera footage mattered (or didn't)**
+- ABC7, Feb 17 2022: burglars broke in through a window of a home near Avenue I and East 49th Street in Flatlands, took more than $10,000 in cash, two cameras and two watches; police released "clear surveillance video" of the two suspects walking through the place — https://abc7ny.com/flatlands-burglary-brooklyn-home-invasion-robbery/11573279
+- News 12, Mar 18 2026: a 16-year-old girl was drop-kicked by a stranger inside Crown Fried Chicken & Pizza on Glenwood Road in Flatlands, across from South Shore High School, around 6 p.m.; the attack was caught on camera; her mother Toshane Thompson: "If anyone sees this guy, knows this guy, call the authorities and report it." — https://brooklyn.news12.com/exclusive-video-shows-teen-girl-drop-kicked-by-stranger-inside-flatlands-chicken-and-pizza-shop
+- News 12, June 18 2026: three people robbed a Popeyes in Flatlands around 11 p.m.; one jumped the counter, shoved an 18-year-old employee, about $1,200 taken; article mentions no footage; resident Norris Jerome: "I can't imagine somebody just robbing me and taking money that I worked hard for." — https://brooklyn.news12.com/violent-robbery-at-flatlands-popeyes-leaves-community-on-edge
+- News 12, Apr 16 2023: "Caught on camera: porch pirate in Flatlands stole 2-year-old's birthday presents" (packages held toys and decorations for Ange-Laure Vernon's daughter's party) — https://brooklyn.news12.com/caught-on-camera-porch-pirate-in-flatlands-stole-2-year-olds-birthday-presents
+- amNY, July 2020: Flatbush Optical, 11122 Flatlands Avenue: group broke the rear door lock at 4:17 a.m., took $14,820 in sunglasses, left through the rear; NYPD released surveillance video (75th Precinct tag; that address is at the Canarsie/ENY end of Flatlands Avenue) — https://www.amny.com/police-fire/group-of-crooks-swipe-thousands-of-dollars-worth-of-sunglasses-from-brooklyn-optical-store-nypd
+- Brooklyn Paper, 63rd Precinct car break-ins (January): Ralph Avenue near E. 65th St (laptop, license, cards taken, no damage); Avenue M near E. 59th St (window broken overnight, navigation system, front bumper, plate taken); Georgetown Lane between Avenues M and N (entered overnight, no damage) — https://www.brooklynpaper.com/car-break-ins-sweep-the-63rd-precinct
+- News 12, Apr 2021: livery cab stolen from a Key Food parking lot in Flatlands while the owner loaded groceries — https://bronx.news12.com/police-driver-stole-livery-cab-from-key-food-parking-lot-in-flatlands
+
+**Precinct**
+- NYPD 63rd Precinct station house: 1844 Brooklyn Avenue; covers about 8.96 square miles including 1.5 square miles of park and marshland in the Marine Park area; community council typically meets 4th Wednesday 7 p.m. — https://home4.nyc.gov/site/nypd/bureaus/patrol/precincts/63rd-precinct.page
+- CB18 notice: 63rd Precinct Community Council meeting Apr 30 2025 at Purpose Life Church, 1895 Flatbush Avenue — https://www.nyc.gov/assets/brooklyncb18/downloads/pdf/2025/63rd-Precint-Community-Council-Meeting-April-30th.pdf
+
+**Building stock and sites that change camera repair**
+- Glenwood Houses (NYCHA): opened July 14 1950, bounded by Ralph Avenue, East 56th Street, Glenwood Road and Farragut Road — https://wikiwand.com/en/articles/Glenwood_Houses
+- Glenwood Houses exterior renovation: 20 six-story buildings on a 22-acre campus; masonry repairs, brick replacement, repointing, parapet reconstruction, new roofs on all 20, sidewalk sheds, electrical upgrades — https://stvinc.com/project/glenwood-houses/
+- NYCHA CCTV/layered access projects include new cameras, monitors, low-voltage IT lines and software; typical project about three years; "Residents will be notified in advance of increased noise levels during drilling, mounting, and cable installation." Glenwood not named — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+- South Shore campus, 6565 Flatlands Avenue: South Shore HS closed 2014; now houses Brooklyn Theatre Arts HS, Brooklyn Bridge Academy, Brooklyn X, Victory Collegiate HS, Academy for Conservation and the Environment, South Shore YABC — https://en.wikipedia.org/wiki/South_Shore_High_School_(Brooklyn)
+- Individual landmarks in Flatlands: Stoothoff-Baxter-Kouwenhoven House, 1640 East 48th Street (designated Mar 23 1976; wood-frame shingled Dutch Colonial); Pieter Claesen Wyckoff House, 5816 Clarendon Road (designated Oct 14 1965); Flatlands Reformed Church; Coe House. No historic district listed for Flatlands — https://hdc.org/borough/flatlands/ ; https://hdc.org/buildings/stoothoff-baxter-kouwenhoven-house/
+- LPC rule (citywide): no permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras "must not be attached through cast iron or on any decorative surfaces" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Commercial industrial space listed for lease in Flatlands (warehouse/industrial listings) — https://www.commercialcafe.com/industrial/us/ny/brooklyn/flatlands/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Flatlands: EMPTY
+- 311 / HPD camera complaint counts for 11234: EMPTY
+- Yelp camera repair reviews specific to Flatlands: EMPTY (only Thumbtack/Angi/HomeAdvisor directories)
+- Reddit threads on camera repair specifically in Flatlands: EMPTY (one power-quality thread found, above)
+
+### Questions people ask — Security Camera Repair in Flatlands
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Any known solutions besides a backup battery for the house? (lights dimming, outages) — Reddit — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
+- Does anyone currently have similar experience with dimming power? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1njqu76/unstable_electricity_in_flatlandsflatbush_area/
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
