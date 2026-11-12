@@ -3596,3 +3596,53 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Fort Greene, Brooklyn — /intercom-installation-fort-greene-brooklyn-ny (factory research, 2026-11-12)
+
+**Landmarks rules (Fort Greene Historic District, designated 1978)**
+- LPC staff can issue permits for intercom panels and light fixtures at landmark buildings when the installation meets set criteria ("Staff can issue permits approving light fixtures and intercom panels if the installation meets the following criteria") — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC placement rule: "Light fixtures and intercom panels, as well as doorbells, must be installed within or adjacent to a door opening"; an intercom may also go "on a fence or wall in front of the entranceway" — same URL
+- LPC quantity rule: "A maximum of two light fixtures and one intercom panel can be installed per door opening" — same URL
+- LPC finish rule: design, size and finish "must be compatible with the architecture of the building" (neutral and discreet) — same URL
+- LPC attachment rule: "Equipment must be attached at mortar joints, plain masonry, wood, or metalwork" and "must not be attached through cast iron or on any decorative surfaces" — same URL
+- LPC conduit rule: conduit "must be concealed by going through plain masonry"; if not possible staff may approve "a maximum of approximately ten inches of visible conduit", painted to match — same URL
+- LPC: elevation drawings are not required for "in-kind replacement of existing light fixtures, intercoms, security cameras, and mailboxes" — same URL
+- LPC camera rule (for intercoms with a camera or added cameras): small buildings "no more than two security cameras ... for every 25 feet of street frontage" — same URL
+- Fort Greene Historic District designated by LPC in 1978, five years after neighbors proposed it in 1973; styles late Greek Revival, Italianate, Anglo-Italian, French Second Empire and neo-Grec; a proposed extension would add Willoughby Ave between Carlton and Clermont and Fulton St from Ashland Place to South Oxford — https://hdc.org/preservation-resources/fort-green-hd-and-extension/
+
+**Building types and entry situations**
+- Fort Greene brownstones divided into apartments: an 18-foot-wide, five-story Fort Greene brownstone was split into three apartments (garden one-bedroom, parlor-plus-second-floor duplex, top-floor duplex), each "a discrete apartment with complete privacy" with its own internal stair; architect Alexandra Barker, Barker Freeman Design Office; Brownstoner, Nov 17 2016 — https://www.brownstoner.com/?p=256234
+- New mid-rise rentals with app-based entry: The Garrison, 151 Carlton Avenue (11205), built 2025, 63 units, 8 stories, amenities include virtual doorman and package room — https://streeteasy.com/building/the-garrison
+- Brooklyn brownstone owners on Brownstoner asked for "a new bell and intercom system (no door strike) for a brownstone" after a contractor removed a working doorbell (3-family brownstone thread, BK, ~12 years old) — https://www.brownstoner.com/forum/about-brooklyn/door-bell-for-3-fam-brownstone
+- Brownstoner forum thread title: "Video doorbell for upper levels of multi-fam brownstone?" (page could not be opened; title only) — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- NYCHA in Fort Greene: Ingersoll Houses at 88 St. Edwards St.; May 20 2014 two apartments left unlocked for mandatory renovation work were burglarized; NYCHA then ordered the contractor to lock stairwells, hallways and apartment doors when no work was underway (DNAinfo, Janet Upadhye, May 30 2014) — https://www.dnainfo.com/new-york/20140530/fort-greene/nycha-tenants-robbed-after-leaving-doors-open-for-mandatory-construction
+- NYC Comptroller observation of NYCHA building doors (Aug 30–Sep 8 2022, 262 developments): "36.8% of residential building entrance doors were open and 40.1% of entrance door locks were broken" (Fort Greene developments not named individually) — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+
+**City rules**
+- NYC Tenant Data Privacy Law (Local Law 63 of 2021): applies to owners of multiple dwellings that use smart access (keyless) systems such as key fobs, RFID cards and other digital technology; owners need express consent in writing or through a mobile app before collecting reference data; must provide a data retention and privacy policy; may not require use of a smart access system to enter the tenant's dwelling unit; authentication data destroyed no later than 90 days after collection unless anonymized — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- Brick Underground: buildings with at least eight apartments must have a self-closing, self-locking front door and an intercom; pre-1968 buildings must offer them if requested by a majority of tenants, at tenants' expense; one renter waited three months for a city inspector after a 311 complaint; repair/installation from about $2,000 to $50,000 per Target Security Systems (Dec 18 2014, updated) — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+
+**Repair, cost and industry facts**
+- Brick Underground NYC intercom repair guide (Mimi O'Connor, Nov 7 2019): service-call quotes of $195 per hour and $250 per hour plus parts; about one day to replace in a five-apartment building and about two days for 100 units; faults found at the lobby base, apartment station, door strike or power supply (basement or lobby ceiling); Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections" and "Intercoms are getting outdated"; Pete Carmello (Lock and Tech): "A lot of times it's user error" — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- HomeAdvisor national figures: average $2,500 installed, normal range $1,200–$8,500; wired main station $500–$2,500; wired substations $200–$600 each; about one to two hours per station; "Most intercom systems will work for about 20 years" while smart systems can date in about 10 — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+
+**Local news / Reddit / Yelp**
+- Fort Greene-specific intercom news 2025–2026: EMPTY
+- Fort Greene-specific HPD intercom violation counts and 311 buzzer complaint counts: EMPTY
+- DOB permits for intercom work in Fort Greene: EMPTY
+- Reddit threads about intercoms in Fort Greene: EMPTY
+- Yelp reviews of intercom installers in Fort Greene: EMPTY
+
+### Questions people ask — Intercom Installation in Fort Greene
+- Broken buzzer or intercom in a small apartment building: repair or replace? — web search results — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- How do you replace a buzzer intercom with a video intercom and mobile app? — web search results — https://butterflymx.com/blog/replace-buzzer-intercom-with-video-intercom-and-mobile-app/
+- Can upper floors of a multi-family brownstone get a video doorbell? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Who installs an intercom for a three-family house? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/intercom-for-a-three-family
+- Can I get a bell and intercom without a door strike for a brownstone? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/door-bell-for-3-fam-brownstone
+- How much does an intercom system cost? — web search results — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- How do you get your landlord to fix a broken buzzer? — web search results — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- How do you retrofit a video intercom in an older condo building without a full rewire? — web search results — https://butterflymx.com/blog/retrofit-video-intercom-system-for-older-condo-building/
+- Thieves keep taking deliveries from the building lobby — what can I do? — web search results — https://brickunderground.com/delivery
+- Electric door strike for a brownstone door? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Do landmark buildings need permission for an intercom panel? — inferred from LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Google PAA / PASF / AnswerThePublic / DuckDuckGo for "intercom installation Fort Greene": EMPTY
