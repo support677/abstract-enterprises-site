@@ -337,7 +337,7 @@ BUILDING 2026-11-12T01:45Z max-burn | security-camera-repair-highland-park-brook
 LIVE | security-camera-repair-homecrest-brooklyn-ny | Security Camera Repair | Homecrest, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-kensington-brooklyn-ny | Security Camera Repair | Kensington, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-madison-brooklyn-ny | Security Camera Repair | Madison, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T01:45Z max-burn | security-camera-repair-manhattan-beach-brooklyn-ny | Security Camera Repair | Manhattan Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-manhattan-beach-brooklyn-ny | Security Camera Repair | Manhattan Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:45Z max-burn | security-camera-repair-mapleton-brooklyn-ny | Security Camera Repair | Mapleton, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:45Z max-burn | security-camera-repair-marine-park-brooklyn-ny | Security Camera Repair | Marine Park, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:45Z max-burn | security-camera-repair-midwood-brooklyn-ny | Security Camera Repair | Midwood, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
