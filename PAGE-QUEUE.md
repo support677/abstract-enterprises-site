@@ -404,8 +404,8 @@ LIVE | sonos-installation-tottenville-staten-island-ny | Sonos Installation | To
 LIVE | sonos-installation-chelsea-manhattan-ny | Sonos Installation | Chelsea, Manhattan | up /sonos-installation-manhattan | (929) 560-0737 | GBP Bronx
 LIVE | sonos-installation-fort-greene-brooklyn-ny | Sonos Installation | Fort Greene, Brooklyn | up /sonos-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | sonos-installation-jackson-heights-queens-ny | Sonos Installation | Jackson Heights, Queens | up /sonos-installation-queens | (347) 434-6392 | GBP Bronx
-TODO | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
-TODO | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T13:11Z max-burn | sonos-installation-morris-park-bronx-ny | Sonos Installation | Morris Park, Bronx | up /sonos-installation-bronx | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-12T13:11Z max-burn | sonos-installation-west-brighton-staten-island-ny | Sonos Installation | West Brighton, Staten Island | up /sonos-installation-staten-island | (347) 934-8335 | GBP Brooklyn
 TODO | mag-lock-installation-nyc | Mag Lock Installation | NYC hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-long-island | Mag Lock Installation | Long Island hub | up / | (800) 486-0943 | GBP Brooklyn
 TODO | mag-lock-installation-hudson-valley | Mag Lock Installation | Hudson Valley hub | up / | (800) 486-0943 | GBP Bronx
@@ -635,12 +635,12 @@ LIVE REBUILD | door-buzzer-repair-city-island-bronx-ny | Door Buzzer Repair | Ci
 LIVE REBUILD | door-buzzer-repair-claremont-bronx-ny | Door Buzzer Repair | Claremont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-clason-point-bronx-ny | Door Buzzer Repair | Clason Point, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-coney-island-brooklyn-ny | Door Buzzer Repair | Coney Island, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-country-club-bronx-ny | Door Buzzer Repair | Country Club, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-12T13:11Z max-burn REBUILD | door-buzzer-repair-country-club-bronx-ny | Door Buzzer Repair | Country Club, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-crotona-park-east-bronx-ny | Door Buzzer Repair | Crotona Park East, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-east-flatbush-brooklyn-ny | Door Buzzer Repair | East Flatbush, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | door-buzzer-repair-east-tremont-bronx-ny | Door Buzzer Repair | East Tremont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-edenwald-bronx-ny | Door Buzzer Repair | Edenwald, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-fieldston-bronx-ny | Door Buzzer Repair | Fieldston, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-12T13:11Z max-burn REBUILD | door-buzzer-repair-fieldston-bronx-ny | Door Buzzer Repair | Fieldston, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-fiske-terrace-brooklyn-ny | Door Buzzer Repair | Fiske Terrace, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | door-buzzer-repair-fordham-bronx-ny | Door Buzzer Repair | Fordham, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE | door-buzzer-repair-fort-greene-brooklyn-ny | Door Buzzer Repair | Fort Greene, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
@@ -731,7 +731,7 @@ LIVE | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installat
 LIVE | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-TODO | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+BUILDING 2026-11-12T13:11Z max-burn | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 TODO | intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
