@@ -888,15 +888,15 @@ REBUILD | tv-installation-kingsbridge-bronx-ny | TV Installation | Kingsbridge, 
 LIVE | tv-installation-manhattan-beach-brooklyn-ny | TV Installation | Manhattan Beach, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-marine-park-brooklyn-ny | TV Installation | Marine Park, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-morrisania-bronx-ny | TV Installation | Morrisania, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-new-lots-brooklyn-ny | TV Installation | New Lots, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-REBUILD | tv-installation-park-slope-brooklyn-ny | TV Installation | Park Slope, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-new-lots-brooklyn-ny | TV Installation | New Lots, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-park-slope-brooklyn-ny | TV Installation | Park Slope, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-schuylerville-bronx-ny | TV Installation | Schuylerville, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-south-williamsburg-brooklyn-ny | TV Installation | South Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-south-williamsburg-brooklyn-ny | TV Installation | South Williamsburg, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-spuyten-duyvil-bronx-ny | TV Installation | Spuyten Duyvil, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-throggs-neck-bronx-ny | TV Installation | Throggs Neck, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-unionport-bronx-ny | TV Installation | Unionport, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | tv-installation-wakefield-bronx-ny | TV Installation | Wakefield, Bronx | up /tv-installation-bronx | (646) 490-0629 | GBP Bronx
-REBUILD | tv-installation-wyckoff-heights-brooklyn-ny | TV Installation | Wyckoff Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T14:35Z max-burn REBUILD | tv-installation-wyckoff-heights-brooklyn-ny | TV Installation | Wyckoff Heights, Brooklyn | up /tv-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | tv-installation-kingsbridge-heights-bronx-ny | TV Installation Kingsbridge | Heights, Bronx | up /tv-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 
 # REBUILD batch 2026-10-25 (factory): template clones (20%+ phrase overlap with a sibling) that do NOT rank top-20 for their own title keyword (Firecrawl, NYC). Pages that rank were left alone per Anwar.
