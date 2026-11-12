@@ -3337,3 +3337,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-east-flatbush-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-wingate-brooklyn-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-wyckoff-heights-brooklyn-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/security-camera-repair-weeksville-brooklyn-ny | QUEUED
