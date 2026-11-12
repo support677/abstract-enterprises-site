@@ -307,9 +307,9 @@ LIVE | security-camera-repair-brownsville-brooklyn-ny | Security Camera Repair |
 LIVE | security-camera-repair-bushwick-brooklyn-ny | Security Camera Repair | Bushwick, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-cadman-plaza-brooklyn-ny | Security Camera Repair | Cadman Plaza, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-canarsie-brooklyn-ny | Security Camera Repair | Canarsie, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-carroll-gardens-brooklyn-ny | Security Camera Repair | Carroll Gardens, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-city-line-brooklyn-ny | Security Camera Repair | City Line, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-clinton-hill-brooklyn-ny | Security Camera Repair | Clinton Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T09:29Z max-burn | security-camera-repair-carroll-gardens-brooklyn-ny | Security Camera Repair | Carroll Gardens, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T09:29Z max-burn | security-camera-repair-city-line-brooklyn-ny | Security Camera Repair | City Line, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T09:29Z max-burn | security-camera-repair-clinton-hill-brooklyn-ny | Security Camera Repair | Clinton Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-cobble-hill-brooklyn-ny | Security Camera Repair | Cobble Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-columbia-street-waterfront-brooklyn-ny | Security Camera Repair | Columbia Street Waterfront, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-coney-island-brooklyn-ny | Security Camera Repair | Coney Island, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -629,8 +629,8 @@ LIVE | door-buzzer-repair-brooklyn-chinatown-brooklyn-ny | Door Buzzer Repair | 
 LIVE | door-buzzer-repair-brooklyn-heights-brooklyn-ny | Door Buzzer Repair | Brooklyn Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-brooklyn-navy-yard-brooklyn-ny | Door Buzzer Repair | Brooklyn Navy Yard, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-brownsville-brooklyn-ny | Door Buzzer Repair | Brownsville, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-bushwick-brooklyn-ny | Door Buzzer Repair | Bushwick, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-REBUILD | door-buzzer-repair-carroll-gardens-brooklyn-ny | Door Buzzer Repair | Carroll Gardens, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T09:29Z max-burn REBUILD | door-buzzer-repair-bushwick-brooklyn-ny | Door Buzzer Repair | Bushwick, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T09:29Z max-burn REBUILD | door-buzzer-repair-carroll-gardens-brooklyn-ny | Door Buzzer Repair | Carroll Gardens, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE REBUILD | door-buzzer-repair-city-island-bronx-ny | Door Buzzer Repair | City Island, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-claremont-bronx-ny | Door Buzzer Repair | Claremont, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 LIVE REBUILD | door-buzzer-repair-clason-point-bronx-ny | Door Buzzer Repair | Clason Point, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
