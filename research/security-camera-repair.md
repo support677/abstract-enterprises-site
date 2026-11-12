@@ -2423,3 +2423,83 @@ Note: the live web-search budget for this run was used up before any new search 
 - How much does security camera repair cost in NYC? — competitor FAQ — https://www.imperasecurity.com/security-camera-repair
 - How much recording history do I actually need? — Instagram vendor post — https://www.instagram.com/p/Dewr6TUDZuK/
 - Do you repair systems with cameras offline, blank, or not recording? — competitor FAQ — https://security-systems.nyc/service/security-camera-repair/
+
+## Sheepshead Bay, Brooklyn — /security-camera-repair-sheepshead-bay-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live search was unavailable for this pass (search budget used up), so every finding below comes from sources already retrieved and saved in the AESS research files (research/security-camera-installation.md, research/security-camera-repair.md, research/door-buzzer-repair.md). Nothing was added from memory.
+
+**Cameras, police and footage in Sheepshead Bay**
+- Brooklyn Paper, Apr 26 2010: "Video has become the bane of thieves throughout Sheepshead Bay and Manhattan Beach, where police say a recent drop in felonies is the result of residents' penchant for pointing cameras just about everywhere." 61st Precinct commander Capt. George Mastrokostas: "In 2009 we identified a lot of bad guys ... [Video] played a key role." — https://www.brooklynpaper.com/cops-cameras-catch-criminals/
+- NYPD 61st Precinct page lists Kings Bay, Gravesend, Sheepshead Bay and Manhattan Beach; station house 2575 Coney Island Ave; community council meets the second Wednesday of the month at 7 PM at 2533 Coney Island Ave — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/61st-precinct.page
+- Camera density: in a 2021 count of internet-visible Hikvision cameras, ZIP 11229 (Sheepshead Bay / Marine Park) had 398, second only to 10020 (Rockefeller Center) — https://www.stopspying.org/2021-hikvision
+- FCC order FCC 22-84 (Nov 2022) bars new authorizations for Hikvision and Dahua video surveillance equipment; Dahua told Security Sales the order "does not affect products that are already authorized" — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- FCC (DA 26-294): the proposed limitation on existing authorizations "would not affect the continued use or operation of devices that consumers already possess." — https://docs.fcc.gov/public/attachments/DA-26-294A1.pdf
+- FCC Covered List: Hikvision and Dahua video surveillance equipment is "covered" equipment that can no longer be newly authorized — https://www.fcc.gov/supplychain/coveredlist
+- Sept 2026: Sheepshead Bay neighbors trying to identify a man who damaged more than 20 cars; after reviewing footage from a home security camera, resident Bletnitsky said it showed a person jumping onto a vehicle and shattering the windshield — https://abc7ny.com/post/sheepshead-bay-residents-seek-vandalism-suspect-wanted-smashing-more-20-cars-brooklyn/19777781/
+- Mar 2026: a home on East 9th Street in Sheepshead Bay was broken into and a car stolen around 2 a.m.; Shmira Public Safety increased patrols; director Levi Leifer: "we do think it's a pattern and might be part of the same group" — https://bronx.news12.com/2026/03/04/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn/1sQg9hpYLfg6eQQVRcHRkE
+- Older burglary on surveillance video: around 2 p.m. on Feb. 27 near East 12th Street and Avenue X; the suspects escaped through the back door — https://cbsnews.com/amp/newyork/news/sheepshead-bay-robbery
+- Dec 2018–Jan 2019 commercial burglary spree (at least seven businesses in Sheepshead Bay, Bensonhurst and Midwood, early morning while closed): at Harvest Grocery in Sheepshead Bay one suspect "can be seen using a broom to try to cover the security camera"; the Lucky 7 Smoke Shop owner found the ATM knocked off and "security cameras broken"; at Sneaker Corner stolen items included "surveillance equipment" — https://www.cbsnews.com/amp/newyork/news/bk-commercial-burglary-spree
+- 61st Precinct area (Gravesend, East 3rd Street and Avenue W): a burglar was seen on video disabling a security camera before stealing from a residential laundry room — https://www.cbsnews.com/amp/newyork/news/laundry-room-burglary
+- Dec 2024: shooting at the Q train elevated platform at Avenue U and East 15th Street; security cameras from across the street show people running down the steps — https://abc7ny.com/post/nyc-crime-2-shot-subway-station-sheepshead-bay-brooklyn/15687668/
+- A house on East 15th Street carries at least 51 security cameras by a New York Post count; at least eight 311 calls about a blocked driveway at the address since 2022 — https://www.aol.com/brooklyn-home-covered-dozens-signs-231937690.html
+- 2019 package theft: Sheepshead Bay porches hit in daylight; Bedford Avenue named; the 61st Precinct covers Gravesend, Sheepshead Bay and Manhattan Beach — https://www.brooklynpaper.com/package-thieves-running-rampant-in-sheepshead-bay-locals-claim/
+- A Sheepshead Bay community group post on a lobby package theft: "The video shows security camera footage from inside the building, which captures the person leaving" — https://www.facebook.com/groups/brightonbeachbrooklyn/posts/28834977802849410/
+- News 12, Mar 2 2026: robbery pattern across the 60th, 61st, 62nd and 68th precincts; victim's mother: "I'm glad he caught it on camera and the videos were passed over to the police department." — https://brooklyn.news12.com/2026/03/02/exclusive-video-manhattan-beach-man-tries-to-stop-group-accused-of-robbing/33tIoGbnSx1FyIQ5Dk1EV3
+
+**Water, flooding and the basement recorder**
+- Feb 2026 water main break in Sheepshead Bay left some basements and garages with up to 20 inches of water — https://brooklyneagle.com/366418/water-main-break-floods-homes-in-sheepshead-bay/
+- City planning report: "Many homeowners in Sheepshead Bay have basements that are below the DFE and subject to flooding." — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/brooklyn/sheepshead-bay/summary-report-sheepshead-bay.pdf
+- Bungalow courts north of Emmons Avenue sit below the surrounding ground, "surrounded by higher ground on all sides, like bathtubs" — https://urbanomnibus.net/2018/10/takes-village-weather-storm/
+- Hurricane Sandy: on Emmons Avenue roughly 85 percent of businesses suffered some form of damage — https://citylimits.org/2013/03/19/40-percent-of-sheepshead-firms-still-shut-post-sandy
+- NYC Building Code Appendix G G304.1.1 item 5: "Utilities and attendant equipment shall be located at or above the design flood elevation" — https://www.nyc.gov/assets/buildings/codes-pdf/cons_codes_2022/2022BC_AppendixG_FloodResistantWBwm.pdf
+- High-tide flooding on Manhattan Beach overlooking Sheepshead Bay; B49 service suspended between Sheepshead Bay/Emmons Ave and Oriental Blvd/Mackenzie St (Council Member Inna Vernikov post) — https://www.facebook.com/CouncilwomanInnaVernikov/posts/flooding-on-manhattan-beach-overlooking-sheepshead-bay-right-now-the-water-is-fl/525622529607244/
+- ACTi (camera maker): coastal settings "present severe corrosion challenges to electronic security equipment"; "Sodium chloride and other halides are aggressive to metals, accelerating oxidation, pitting, and galvanic corrosion"; at-risk parts: housings, fasteners, domes and seals, connectors, cable glands, junction boxes, brackets; failure modes include seal leakage and optical haze — https://www.acti.com/technologies/anti-corrosion-design
+
+**Power events in southern Brooklyn**
+- Feb 11 2015: a transformer blew around 9:25 a.m. and about 825 Marine Park households lost power in the area bounded by Avenue R, Avenue U, Stuart Street and Nostrand Avenue — https://bklyner.com/breaking-power-outage-hits-marine-park-leaving-hundreds-without-electricity-sheepshead-bay
+- Reolink: a lightning strike can destroy the recorder too; grounding limits "the risk of a power surge traveling down the coax to the NVR or DVR"; a UPS only helps if "all cameras and DVR are powered through a UPS" — https://reolink.com/blog/protect-outdoor-security-camera-from-lightning/
+- Swann support: going offline "is a common occurrence when changes were made to the router" or after an outage; "you must have physical access to the DVR or NVR to check the following" — https://support.swann.com/hc/en-us/articles/24220728940825
+
+**Building types that shape a repair here**
+- One directory lists 41 Sheepshead Bay co-op buildings: 24 elevator co-ops and 17 walk-up co-ops; many are six-story postwar elevator buildings such as 2620 and 2650 East 13th Street with 192 units each — https://www.nybits.com/apartments/sheepshead_bay_coop_buildings.html
+- 2950 Ocean Ave (built 1930, 4 floors, 63 units) advertises a 24/7 security system — https://www.cityrealty.com/nyc/sheepshead-bay/2950-ocean-avenue/75247
+- 3060 Ocean Ave (built 1956, 149 units) lists a full-time doorman — https://www.hlres.com/buildings/nyc/3060-ocean-avenue-3060-ocean-avenue/600595/cooperative
+- 1516 Voorhies Ave: 1961 co-op, 6 floors, 95 apartments, live-in super, elevator — https://www.cityrealty.com/nyc/sheepshead-bay/1516-voorhies-avenue/75265
+- The Atlantis, 3235 Emmons Ave: 7-floor, 172-unit postwar doorman elevator co-op — https://www.nybits.com/apartments/sheepshead_bay_coop_buildings.html
+- Co-op hallways are common areas under the board's control; a shareholder cannot unilaterally install hardware there — https://www.connextivity.com/insights/nyc-apartment-security-safety-camera-laws
+- Renters need the landlord's permission for equipment in common areas including the hallway outside the apartment — https://www.brickunderground.com/live/creepy-neighbor-security-camera
+- FirstService Residential: co-op/condo footage generally kept 30 to 90 days; requests go to the property manager with reason, timeframe and cameras; keep an access log; Christina Forbes: "Limiting access protects the privacy of residents and helps prevent potential misuse." — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- NYCHA Nostrand Houses (Oct 2026): financing closed for a $607 million modernization of the 16-building development at 2241 Batchelder Street; security upgrades include new access control, expanded CCTV and an on-site guard (agency work, not private repair) — https://newyorkyimby.com/2026/10/financing-closes-for-renovation-of-nostrand-houses-in-sheepshead-bay-brooklyn.html
+- Sheepshead Bay Road is a 1920s–30s commercial corridor of ground-floor retail with housing above — https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/brooklyn/sheepshead-bay/summary-report-sheepshead-bay.pdf
+- Avenue U between Homecrest and Sheepshead Bay grew a second Brooklyn Chinatown in the late 1990s — https://en.wikipedia.org/wiki/Avenue_U
+- Lundy's (1901 Emmons Ave) is described as the only city-designated landmark in Sheepshead Bay; LPC turned down a lighting proposal for its facade in 2017 — https://brooklyneagle.com/articles/2017/07/11/former-lundys-sheepshead-bays-only-landmark-gets-thumbs-down-for-new-lighting-proposal/
+
+**Rules that touch the repair**
+- NYS license required to install, maintain or service CCTV used to detect or monitor intrusion; owners working on their own property are exempt — https://www.kirschenbaumesq.com/article/cctv-license-requirements-for-new-york-state
+- DOT does not allow private entities to attach cameras to city light poles — https://www.cbsnews.com/newyork/news/brooklyn-residents-at-odds-with-dot-over-surveillance-camera
+- NYPD Fusus/Connect pilot: camera registration tells NYPD where cameras are; integration gives real-time access; no cost to businesses; whether the 61st Precinct is included: EMPTY — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- Ring ended its Request for Assistance tool in Jan 2024; police can still access videos with a search warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- New York Labor Law 203-c: employers must post notice of video monitoring and get written acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+
+**Costs (published)**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- HomeAdvisor national: alarm/security system repairs "cost $182 on average and typically between $97 and $269" — https://homeadvisor.com/cost/safety-and-security/repair-an-alarm-or-security-system
+
+**Empty**
+- DOB permits for camera repair in Sheepshead Bay (11229/11235): EMPTY
+- HPD / 311 camera complaint data for 11229/11235: EMPTY
+- Reddit r/SheepsheadBay camera-repair threads: EMPTY
+- Yelp camera-repair complaints for Sheepshead Bay: EMPTY (directory listings only; Yelp shows Safeway Security Systems, Eddies Security Systems, SunDK Digital Security and others under security systems) — https://yelp.com/search?cflt=securitysystems&find_loc=Sheepshead+Bay%2C+Brooklyn%2C+NY
+
+### Questions people ask — Security Camera Repair in Sheepshead Bay
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live result panels not retrievable this pass)
+- Will a Hikvision or Dahua system still get parts and service after the FCC order? — trade press — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+- How do I protect outdoor camera housings from salt corrosion in coastal areas? — ACTi — https://www.acti.com/technologies/anti-corrosion-design
+- How do I get my cameras working again after a power outage? — Swann support — https://support.swann.com/hc/en-us/articles/24220728940825
+- How do I protect an outdoor security camera from lightning? — Reolink — https://reolink.com/blog/protect-outdoor-security-camera-from-lightning/
+- My security cameras say lost signal on 5 of them but 1 or 2 still work, how can I repair this? — JustAnswer — https://www.justanswer.com/home-security-systems/8xn23-security-camera-system-message-says-lost-signal.html
+- Changed phone/internet providers and now I can't see my cameras remotely — ipcamtalk — https://ipcamtalk.com/threads/changed-phone-providers-and-now-i-cant-see-my-cameras-remotely.65460/post-698134
+- Who should have access to security camera footage in a condominium or cooperative? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- How much do security camera installation and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What have people in Brooklyn found effective to prevent package theft? — Reddit r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/
+- Does someone covering or breaking a camera mean the footage is lost? — derived from CBS 2019 burglary spree coverage — https://www.cbsnews.com/amp/newyork/news/bk-commercial-burglary-spree
