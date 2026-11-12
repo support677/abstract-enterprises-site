@@ -5042,3 +5042,38 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Intercom vs key fob access control for a small office: which costs less? — web search results — https://butterflymx.com/blog/cost-to-install-intercom-vs-key-fob-for-small-office/
 - Tenant claims landlord didn't provide backup battery for key fob system — web search results — https://landlordvtenant.com/article/tenant-claims-landlord-didnt-provide-backup-battery-key-fob-system
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp for Homecrest specifically: EMPTY
+
+## Kensington, Brooklyn — /access-control-installation-kensington-brooklyn-ny (factory research, 2026-11-12)
+
+- 300 Ocean Parkway (Kensington, 11218): listing gives year built 1941, "6/94" floors/apartments, "Voice Intercom" as its service level, an elevator and "a live-in super"; no doorman, no virtual doorman, no key fob listed — https://currentreadvisors.com/ListingDetails/3029323/300-Ocean-Parkway-Kensington-Brooklyn-NY-11218
+- 233 Ocean Parkway (Kensington, 11218): listing gives year built 2015 (description says completed 2016), "8/14" floors/apartments, "Virtual Doorman" service level, elevator, and a "package room with cold storage" — https://currentreadvisors.com/ListingDetails/2979798/233-Ocean-Parkway-Kensington-Brooklyn-NY-11218
+- 415 Beverley Road (11218): tenant reviews praise a "24/7 doorman" and "great and responsive super"; HPD lists 4 Door/Lock violations, two shown (both dismissed): Nov 2021 "ARRANGE AND MAKE SELF-CLOSING THE DOORS AT COMPACTOR ROOM AT PUBLIC HALL", Oct 2020 "ARRANGE AND MAKE SELF-CLOSING THE DOORS AT ENTRANCE TO BASEMENT APARTMENT" — https://lucidrents.com/nyc/building/brooklyn/415-beverley-road-brooklyn-ny-11218
+- 514 Ocean Parkway, Kensington (News 12, Apr 8 2026): water through the lobby ceiling for nearly two months left mail and packages wet ("you need rubber boots to get to the mailbox. And the packages are wet" — tenant Lilly Schwab); the building's single elevator was out about three weeks and a tenant who uses a wheelchair stayed home; DOB issued a violation and fine; HPD received complaints and will inspect; owner Weinreb Management (sued by the city in 2022 over alleged maintenance failures) did not respond — https://brooklyn.news12.com/ongoing-leak-leaves-mail-and-packages-wet-inside-kensington-building
+- City lawsuit against Weinreb entities to force repairs, Feb 11 2022 (body paywalled; no Kensington address or door detail visible) — https://www.pincusco.com/city-sues-weinreb-entities-to-force-repairs-alleges-properties-poorly-maintained/
+- Congregation Agudath Sholom of Flatbush, 18th Avenue in Kensington (News 12, Feb 5 2025): around 1 a.m. Jan 25 a man came in through the front entrance (surveillance video) and took about $15,000 in cash from multiple donation boxes; "No one was inside at the time" — https://brooklyn.news12.com/man-caught-on-camera-stealing-15k-from-brooklyn-synagogue
+- Church Avenue building, three overnight break-ins in 2025 (Feb 4 side window smashed; May 15 side door forced, $360 and credit cards; May 24 fence climbed and wall damaged, $300) — https://www.boropark24.com/news/three-break-ins-in-building-on-church-ave
+- Kensington back-door package thefts (Aug 16 2024): man enters a building's back door and takes packages from mailboxes; landlord says the back door can't be closed because of garbage removal — https://brooklyn.news12.com/exclusive-man-steals-packages-in-broad-daylight-in-kensington
+- Kensington mosque, Chester Avenue at Louisa Street and Church Avenue: DOT allows the street closed noon–3 p.m. on Fridays for Jummah crowds; Council Member Shahana Hanif: "This Muslim community, we've really embraced taking to the streets for our faith and to keep our neighbors safe." (Sep 29 2023) — https://council.nyc.gov/shahana-hanif/2023/09/29/brooklyn-mosque-gets-car-free-open-street
+- Brooklyn Paper names the Chester Avenue mosque Masjid Nur Al-Islam; Jummah generally noon to 3 p.m.; Hanif: "This is a working-class community where many people are living in crowded apartments and buildings." — https://www.brooklynpaper.com/kensington-mosque-open-street-prayers
+- HPD "Self-Closing Doors Save Lives" (Nov 24 2025): city law requires apartment and common-area doors (hallways, stairwells, building entrances) to close and latch automatically; 72,714 self-closing door violations issued in FY2025; owners have 14 days after a Notice of Violation to repair and certify; HPD spent over $6.7 million in FY25 on repairs owners did not make; Acting Commissioner Ahmed Tigani: "the last thing you should have to worry about is whether your door will close behind you." — https://www.nyc.gov/site/hpd/news/079-25/self-closing-doors-save-lives
+- US Access Board guide to the 2010 ADA Standards: unobstructed forward and side reach 15 in. to 48 in. for operable parts; "Operable parts must be usable with one hand"; no more than 5 lbf to operate — https://www.access-board.gov/ada/guides/chapter-3-operable-parts/
+- Owner question pattern (BiggerPockets, apartment main entrance fob): "Any thoughts on how much this would cost?", "Any recommended brands or other advice?", wants to "active and deactivate fobs remotely"; no replies — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
+- Brooklyn tenants' legal opposition to a landlord's facial recognition entry application (Atlantic Plaza Towers, Brownsville — not Kensington; context only for biometric entry) — https://legalservicesnyc.org/?p=1612
+- Google PAA / PASF / Answer the Public / AI Overview for "access control installation Kensington" — EMPTY
+- Bing / DuckDuckGo questions — EMPTY
+- Reddit thread about access control in Kensington — EMPTY
+- Yelp 1–3★ text for access control installers near Kensington — EMPTY
+
+### Questions people ask — Access Control Installation in Kensington
+- Which type of access control reader is best, proximity or biometric? — web FAQ (stand-in for PAA) — https://www.dfwsecurity.com/blog/access-control-FAQ
+- What happens to an access control system if the power goes out? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- What if we lose internet? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- How much does an access control system cost? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- Can I lock down my entire facility at once? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- What is the difference between an access control system and smart door locks? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- How long does it take to install an access control system? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- What do I need to do to prepare for installation? — web FAQ — https://www.dfwsecurity.com/blog/access-control-FAQ
+- How much would a key fob system for an apartment building's main entrance cost? — BiggerPockets forum — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
+- Can fobs be activated and deactivated remotely? — BiggerPockets forum — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
+- Any recommended brands or other advice for an apartment fob system? — BiggerPockets forum — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp for Kensington — EMPTY
