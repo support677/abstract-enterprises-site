@@ -314,7 +314,7 @@ BUILDING 2026-11-12T00:08Z factory | security-camera-repair-cobble-hill-brooklyn
 BUILDING 2026-11-12T00:08Z factory | security-camera-repair-columbia-street-waterfront-brooklyn-ny | Security Camera Repair | Columbia Street Waterfront, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:09Z max-burn | security-camera-repair-coney-island-brooklyn-ny | Security Camera Repair | Coney Island, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:11Z max-burn | security-camera-repair-crown-heights-brooklyn-ny | Security Camera Repair | Crown Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-TODO | security-camera-repair-cypress-hills-brooklyn-ny | Security Camera Repair | Cypress Hills, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:11Z max-burn | security-camera-repair-cypress-hills-brooklyn-ny | Security Camera Repair | Cypress Hills, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-ditmas-park-brooklyn-ny | Security Camera Repair | Ditmas Park, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-downtown-brooklyn-ny | Security Camera Repair | Downtown Brooklyn, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-dumbo-brooklyn-ny | Security Camera Repair | DUMBO, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
@@ -996,7 +996,7 @@ REBUILD | door-buzzer-repair-jerome-park-bronx-ny | Door Buzzer Repair | Jerome 
 BUILDING 2026-11-12T00:08Z factory REBUILD | door-buzzer-repair-mill-basin-brooklyn-ny | Door Buzzer Repair | Mill Basin, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T00:08Z factory REBUILD | door-buzzer-repair-ocean-parkway-brooklyn-ny | Door Buzzer Repair | Ocean Parkway, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-park-versailles-bronx-ny | Door Buzzer Repair | Park Versailles, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
-REBUILD | door-buzzer-repair-prospect-heights-brooklyn-ny | Door Buzzer Repair | Prospect Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T01:11Z max-burn REBUILD | door-buzzer-repair-prospect-heights-brooklyn-ny | Door Buzzer Repair | Prospect Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-prospect-park-south-brooklyn-ny | Door Buzzer Repair | Prospect Park South, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-van-nest-bronx-ny | Door Buzzer Repair | Van Nest, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
 REBUILD | door-buzzer-repair-washingtonville-bronx-ny | Door Buzzer Repair | Washingtonville, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
