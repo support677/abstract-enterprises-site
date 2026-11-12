@@ -5077,3 +5077,42 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Can fobs be activated and deactivated remotely? — BiggerPockets forum — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
 - Any recommended brands or other advice for an apartment fob system? — BiggerPockets forum — https://www.biggerpockets.com/forums/52/topics/501356-looking-to-install-key-fob-system-for-apartment-bldg-main-entranc
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp for Kensington — EMPTY
+
+## Mill Basin, Brooklyn — /access-control-installation-mill-basin-brooklyn-ny (factory research, 2026-11-12)
+
+- News 12 (June 2026): on Mayfair Drive South in Mill Basin, two people tried to "force their way inside" a home, struck a 34-year-old man in the head (bruising and a laceration), and fled in a Mercedes-Benz G-Wagon and a Rolls-Royce from the property; no arrests at the time of the report — https://newyork.news12.com/man-assaulted-shots-fired-during-attempted-break-in-at-mill-basin-home
+- Yeshiva World News (June 7, 2026) on the same Mayfair Drive South incident: "two suspects attempted to force their way into the victim's home"; Mill Basin Hatzoloh and EMS treated the victim; the homeowner was arrested for firing his licensed firearm and released by the Brooklyn D.A. after security footage showed the suspects armed with a pistol — https://www.theyeshivaworld.com/news/general/2558876/home-invasion-horror-armed-suspects-assault-jewish-homeowner-steal-g-wagon-and-rolls-royce-in-mill-basin.html
+- MotorBiscuit (Mar 21, 2026): outside Kings Plaza near the Flatbush Avenue parking structure, a security guard saw two people casing cars; police found a key fob reprogrammer and a pocket knife on a 22-year-old woman; her partner jumped into the Mill Basin Inlet and was not found — https://www.motorbiscuit.com/suspected-car-thief-bails-into-freezing-brooklyn-creek-to-escape-new-york-heist/
+- News 12 (Apr 17, 2026): carjacking in the parking lot of the Lowe's on Avenue U in Mill Basin; a 72-year-old woman on her walker was struck and a 48-year-old knocked down; four men, believed 18–20; multiple cameras cover the lot — https://brooklyn.news12.com/2-women-hurt-during-carjacking-outside-lowes-in-mill-basin-police-release-video-of-group-wanted
+- News 12 (Sept 24, 2025, Country Club, Bronx — not Mill Basin, used only for the technology): detectives said thieves cloned a key fob's radio signal to open a car with no broken window; NYPD suggests a Faraday box (under $20) and keeping fobs away from doors and windows — https://brooklyn.news12.com/thieves-using-signal-stealing-technology-to-break-into-cars-in-country-club
+- News 12 (Aug 13, 2024): NYPD sought two men for a string of burglaries described as "in Mill Basin" — a China Wok on Avenue K just before 4 a.m. on July 27 (two iPads, a printer, $100) and a store on Avenue O (checkbook and financial documents) — https://brooklyn.news12.com/nypd-searching-for-two-men-wanted-for-string-of-mill-basin-burglaries
+- News 12 (Apr 16, 2025): E. 59th Street residents near the Fillmore Gardens co-op complained of trucks, vans and a housing trailer left on the block for months; Mark Jackier (50+ years at Fillmore Gardens): "Most of these cars, nobody has any idea who these people are."; Carol Gabory: "I just don't know who to call." — https://brooklyn.news12.com/mill-basin-residents-raise-concerns-about-abandoned-vehicles-on-their-block
+- Brooklyn Paper (after Sandy, 2012): Mill Island Civic Association president Sol Needle's home took four feet of water; Dottie Turano: "We had about three feet of water in our basement"; floodwater topped the waterfront bulkheads; Needle: "The flood was very selective" (every house on his block flooded, homes across Gaylord Drive did not) — https://www.brooklynpaper.com/mill-islanders-sandy-hit-us-pretty-hard
+- StreetEasy: The Bay Front Estates at Mill Basin described as a six-acre private community and marina on the Mill Basin peninsula of single-family detached homes; Hurricane Evacuation Zone 2; zoned P.S. 236 Mill Basin, J.H.S. 078 Roy H. Mann, James Madison HS — https://streeteasy.com/building/309885
+- NYC Parks: Mill Basin marina at Avenue Y and East 69th Street, 100 slips, run by a concessionaire (Donato DiMeglio), not by Parks — https://php-cms.nycgovparks.org/facilities/marinas/3
+- Marinas.com: Kings Plaza Marina, 2565 Flatbush Avenue, Brooklyn 11234 — https://marinas.com/view/marina/wgcx34
+- BK Reader (May 9, 2026): Kings Plaza in Mill Basin is Brooklyn's only enclosed super-regional shopping center; spring 2026 openings Coach (Apr 3), PacSun (Apr 13), Digiso (May 1), Arcadia (May 2), redesigned Foot Locker (May 3); anchor Macy's, plus Primark, Zara, Sephora, American Eagle, Target; buses B2, B41, B46, B47, B9; Macerich's Lee Ra Johnson: "These openings reflect ongoing investment in the property and its tenant mix." — https://www.bkreader.com/business-innovation/kings-plaza-adds-new-stores-and-entertainment-options-in-brooklyn-12235752
+- ipcamtalk forum (residential access control thread): a homeowner replacing doors asked whether wiring real door access beats a smart lock plus separate doorbell ("Am I not thinking this one through and it's a dumb idea?"); replies: HES strikes durable; a keypad worked well on a front door; "Key fobs were abandoned because the kids kept losing them"; use a power supply with battery backup; a prehung door lets wire be run through the rough opening before the door goes in — https://ipcamtalk.com/goto/post?id=610753
+- Safe and Sound Security cost guide (national, 2026): keypad $500–$2,500 per door; smartphone $1,000–$2,500; card or fob $1,500–$3,500; fingerprint $1,500–$3,000; facial recognition $2,500–$5,000 — https://getsafeandsound.com/blog/access-control-systems-cost/
+- City data (HPD violations, 311 complaints, DOB permits specific to access control in 11234): EMPTY
+- LPC: no Mill Basin historic district found: EMPTY
+- Reddit threads about access control in Mill Basin specifically: EMPTY
+- Yelp complaints about access control installers near Mill Basin: EMPTY
+
+### Questions people ask — Access Control Installation in Mill Basin
+- Google PAA / PASF — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- Is it worth wiring real door access while replacing the doors, instead of a smart lock and a separate doorbell? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- Which electric strike works on a residential door rather than a commercial one? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- Should a house use fobs or a keypad if the kids keep losing fobs? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- What power supply does a door strike need, and should it have battery backup? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- Can the wiring be run before a new prehung door goes in? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- Can an alarm system's output trigger the door strike so you can unlock from a phone? — ipcamtalk forum — https://ipcamtalk.com/goto/post?id=610753
+- How much does an access control system cost? — installer FAQ (Safe and Sound) — https://getsafeandsound.com/blog/access-control-systems-cost/
+- What are the 4 types of access control systems? — installer FAQ (Safe and Sound) — https://getsafeandsound.com/blog/access-control-systems-cost/
+- What is the average monthly cost of a security system with access control? — installer FAQ (Safe and Sound) — https://getsafeandsound.com/blog/access-control-systems-cost/
+- Why does an access control system cost so much? — installer FAQ (Safe and Sound) — https://getsafeandsound.com/blog/access-control-systems-cost/
+- How can I reduce access control system costs? — installer FAQ (Safe and Sound) — https://getsafeandsound.com/blog/access-control-systems-cost/
+- How do I keep thieves from copying my key fob signal? — News 12 (NYPD advice) — https://brooklyn.news12.com/thieves-using-signal-stealing-technology-to-break-into-cars-in-country-club
+- Who do I call about vehicles and strangers left on our block? — News 12 (Mill Basin resident) — https://brooklyn.news12.com/mill-basin-residents-raise-concerns-about-abandoned-vehicles-on-their-block
