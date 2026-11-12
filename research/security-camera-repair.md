@@ -1233,3 +1233,53 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Does a landlord have to keep building security cameras working? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
 - How much do security camera installation & repair companies typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - What happens when someone covers a camera lens or the light near it? — News 12 / ABC7 incidents — https://abc7ny.com/post/search-suspect-vandalized-statue-st-therese-lisieux-church-east-flatbush-brooklyn/15459032/
+
+## Dyker Heights, Brooklyn — /security-camera-repair-dyker-heights-brooklyn-ny (factory research, 2026-11-12)
+
+**Car theft and driveway/curb cameras**
+- 68th Precinct CompStat, week of 11/2/2026–11/8/2026: year-to-date Grand Larceny Auto 150 in 2026 vs 109 in 2025 (+37.6%); burglary 65 vs 64 (+1.6%); grand larceny 296 vs 327 (−9.5%); burglary −93.3% over 33 years; figures preliminary — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-068pct.pdf
+- National contrast: NICB says vehicle thefts fell about 23% in 2025 vs 2024, about 659,880 vehicles stolen nationwide, down from a record 1,020,729 in 2023; summer is "one of the busiest times of year for the crime" (News 12, July 28 2026) — https://brooklyn.news12.com/aaa-summer-is-peak-season-for-vehicle-thefts-despite-nationwide-decline
+- 10th Avenue near 80th Street, Dyker Heights (Bklyner, May 19 2017): car break-ins April 29 and May 13, 2017; the first was caught on a surveillance camera; owner of a BMW 5 Series: "They did not have to force the car open." and suspected the thief "was able to relay the signal to open the car doors" — https://bklyner.com/burglar-breaks-dyker-heights-car-without-keys-force-video
+- Relay attack mechanics: two people, one near the house boosting the fob's signal, one at the car; "A relay attack runs in under 30 seconds and leaves the car with no broken glass and no damaged locks." Advice: signal-blocking pouch, keep keys away from exterior walls, OBD-II port lock, park in lit monitored areas (Help Net Security, June 5 2026; ADAC tested 800+ vehicles, ~15% adequately protected) — https://www.helpnetsecurity.com/2026/06/05/keyless-car-theft-protection/
+- Pixel density for identification: DORI levels from EN 62676-4:2015 — Detect ~25 px/m, Observe ~62.5 px/m, Recognize ~125 px/m, Identify ~250 px/m — https://www.cctvdesigntool.com/blog/dori-standard-cctv/
+
+**The lights season and cameras**
+- Dec 22–23 2025 (CBS New York): large crowds filled sidewalks; tour groups stopped at "Lucy's home" on 84th Street; Lucy Spata began the display around 1986; "Everybody hated it because of the traffic," — https://www.cbsnews.com/amp/newyork/news/dyker-heights-holiday-display
+- Nov 29 2016, about 5:45 p.m., 75th Street: a five-foot inflatable Santa was stolen; article includes "security footage of the intruder" — https://bklyner.com/video-dyker-heights-house-robbed-of-christmas-decoration
+- News 12 (Dec 2018): "Two issues that have become a problem at the lights in Dyker Heights are traffic and people selling food." — https://brooklyn.news12.com/increase-in-crowds-at-dyker-heights-lights-sparks-concern-39619587
+- LED banding: "Horizontal bands happen when your camera's frame rate or shutter speed doesn't match the frequency of the light source." Fix: set power frequency to 60Hz in North America (Swann support) — https://support.swann.com/hc/en-us/articles/39992440507929
+- Day/night switching: the IR-cut filter is "a moving component inside the camera"; frequent switching from rapid light changes can "gradually wear down the internal mechanisms of the filter"; repositioning suggested (Swann support) — https://support.swann.com/hc/en-us/articles/39587207813401
+
+**Power events that hit recorders and cameras**
+- June 25 2025 (News 12 Brooklyn): about 2,200 Con Edison customers across Brooklyn affected; hardest-hit areas included Borough Park, Bay Ridge, Dyker Heights, Sunset Park and Williamsburg; mainly reduced power, Con Ed intentionally lowered voltage; Borough Park resident: "the lights are very dim." — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- July 30 2020 (amNY): Con Ed reduced voltage 8 percent across an area including Dyker Heights, Bay Ridge, Borough Park and Bensonhurst while repairing feeder cables; more than 96,000 residents — https://www.amny.com/brooklyn/con-edison-calls-on-residents-of-southern-brooklyn-to-reduce-power-to-avoid-outages
+- Video loss causes: "The insufficient power supply is, very often, the culprit of the video loss"; "Cable is too long, or one cable is supplying too many cameras at once."; loose BNC connections; loose or cut PoE switch/injector (Reolink) — https://reolink.com/video-loss-on-security-camera/
+- Not recording causes: "Recording settings, schedules, or storage problems are usually the cause." and "Incorrect settings, storage failure, or weak motion detection can stop recordings even when the camera appears online." (Swann support) — https://support.swann.com/hc/en-us/articles/58744108265753
+
+**Rules that touch the work**
+- Landmarks: the Angel Guardian Home (12th Avenue) was designated in 2020 as the "first landmark in Dyker Heights"; no Dyker Heights historic district found (Brooklyn Eagle) — https://brooklyneagle.com/articles/2020/11/13/half-a-loaf-says-historic-district-council-referring-to-first-landmark-in-dyker-heights
+- NY GBL §395-b(2-a): an owner or manager may not knowingly allow a video recording device "for purpose of surreptitiously recording a visual image of the interior of any fitting room, restroom, toilet, bathroom, washroom, shower" — https://www.nysenate.gov/legislation/laws/GBS/395-B
+- Workplace cameras: NY Labor Law 203-c (notice requirements, from silo research) — https://newyork.public.law/laws/n.y._labor_law_section_203-c
+- DOB permits for camera repair in Dyker Heights: EMPTY
+- 311/HPD complaint data on cameras in 11228: EMPTY
+
+**Cost benchmarks**
+- HomeAdvisor Brooklyn surveillance cameras install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Local news / Reddit / Yelp**
+- Dyker Heights pharmacy on 13th Avenue hit by citywide burglary pattern (News 12, Dec 2024) — https://brooklyn.news12.com/citywide-burglary-pattern-hits-dyker-heights-pharmacy
+- Reddit threads on camera repair in Dyker Heights / Bay Ridge: EMPTY
+- Yelp reviews for camera repair in Dyker Heights: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+
+### Questions people ask — Security Camera Repair in Dyker Heights
+- PAA (Google People Also Ask): EMPTY (not retrievable)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Why is my camera or recorder not recording? — Swann support — https://support.swann.com/hc/en-us/articles/58744108265753
+- What causes video loss on security cameras? — Reolink — https://reolink.com/video-loss-on-security-camera/
+- How do I fix horizontal banding or rolling lines? — Swann support — https://support.swann.com/hc/en-us/articles/39992440507929
+- How can thieves steal a keyless car in under a minute, and how do I stop them? — Help Net Security — https://www.helpnetsecurity.com/2026/06/05/keyless-car-theft-protection/
