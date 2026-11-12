@@ -4065,3 +4065,56 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Can conduit show on the front of a landmarked house? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Can the intercom be mounted on the areaway fence or gate instead of the house? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Wired or wireless intercom for a multi-family brownstone? — general search results — https://cost-guide-ssr.homeadvisor.com/cost/safety-and-security/install-intercom-system
+
+## Windsor Terrace, Brooklyn — /intercom-installation-windsor-terrace-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock that meets an intercom job (park-facing apartment houses)**
+- 135 Prospect Park Southwest ("Windsor Terrace" on Corcoran) is a pre-war co-op built 1929, 6 stories, 2 elevators, central laundry room, full-time superintendent, common courtyard, bike room; unit count conflicts on the page (84 in header, 60 in description) — https://www.corcoran.com/building/windsor-terrace/24006
+- 185 Prospect Park Southwest, between Reeve Place and Greenwood Avenue, is a postwar co-op built 1959, 6 stories, 58 apartments; amenities listed: intercom, elevator — https://www.cityrealty.com/nyc/windsor-terrace/185-prospect-park-southwest/43884
+- The Windsor Terrace Apartments, 207 Prospect Park Southwest: condo built 1990, 9 stories, 35 units, intercom listed, no doorman, elevator, full-service garage, laundry room, bike room, rooftop terrace — https://www.cityrealty.com/nyc/windsor-terrace/the-windsor-terrace-apartments-207-prospect-park-southwest/41730
+- 175 Prospect Park Southwest: pre-war walk-up co-op ("there's no elevator"), Art Deco lobby with a courtyard and community garden off it, stroller parking in the lobby, across from the park — https://www.6sqft.com/views-from-this-charming-top-floor-windsor-terrace-co-op-might-just-be-worth-the-walk-up-and-700k/
+- The Windsor, 23 Ocean Parkway (between Coney Island Ave and East 8th St), 9 stories, 98 condos by Gene Kaufman Architects / Local Development Group; services listed: part-time attended lobby, "cyber doorman," package room, cold storage; occupancy anticipated Q4 2026 — https://newyorkyimby.com/2026/06/sales-launch-for-the-windsor-at-23-ocean-parkway-in-windsor-terrace-brooklyn.html
+- Arrow Linen rezoning (Prospect Ave) approved by City Council Feb 2025: about 250 homes, 100 permanently affordable — https://council.nyc.gov/press/2025/02/12/2796/
+
+**City rules that bear on intercom installation**
+- MDL §50-a: class A multiple dwellings erected or converted after Jan 1, 1968 need automatic self-closing, self-locking entrance doors, and buildings "containing eight or more apartments" must be equipped with an intercommunication system at the self-locking lobby door that lets each occupant release the lock — https://codes.findlaw.com/ny/multiple-dwelling-law/mdw-sect-50-a/
+- MDL §50-a(3): for buildings erected or converted before Jan 1, 1968, the doors and intercom are required when tenants occupying a majority of the apartments "request or consent in writing," on forms the department prescribes — https://codes.findlaw.com/ny/multiple-dwelling-law/mdw-sect-50-a/
+- Brick Underground summary: pre-1968 buildings must offer these features only "if requested by a majority of tenants," at the tenants' expense — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- 1 RCNY 42-01: no push button more than six feet from the floor; speaking/listening device not less than four and not more than five feet from the floor; minimum acceptable system is a bell/buzzer or speaking and listening device — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- HPD classifies a non-functioning intercom as a Class B hazardous violation (industry summary); Class B penalties summarized as $75 to $500 plus $25 to $125 per day until a certificate of correction is filed — https://connextivity.squarespace.com/insights/nyc-intercom-laws-building-requirements
+- Tenant Data Privacy Law (Local Law 63 of 2021): owners of multiple dwellings using smart access (keyless) systems, "including but not limited to key fobs," must get express consent in writing or through an app, give tenants a data retention and privacy policy, destroy authentication data no later than 90 days after collection, and may not require use of a smart access system to gain entry to the tenant's unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- HPD Windsor Terrace intercom violation counts: EMPTY (not pulled this run)
+- 311 intercom complaints for Windsor Terrace: EMPTY
+- DOB permits for intercom work in Windsor Terrace: EMPTY
+- LPC: only individual landmark found earlier is the Engine 240 firehouse; no Windsor Terrace historic district found — EMPTY for intercom-specific LPC rules
+
+**Upgrade and cost evidence**
+- Park Vanderbilt co-op, Park Slope (148 units, 7 stories, built 1963) replaced an aging audio-only intercom with Aiphone video stations: two lobby entrances plus the service entrance; the installer reused most of the existing cable. Dan Arnold (Academy): "By using the existing cable – with the exception of two units – we were able to save $20,000 on the job." Tom Randazzo (property manager): "It looked good and saved us the need to replaster and paint in each unit." — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- Brownstoner forum: a 6-apartment Brooklyn co-op replaced "our old buggy analog system" with six internal video stations, one outdoor main station with camera, and two new door strikes — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- Brownstoner forum 2008: co-op of two buildings with 16 apartments each; management said the whole system needed replacing while "only a few buzzers on the outside of the building do not work"; replies split between full replacement and quick repairs — https://www.brownstoner.com/forum-archive/2008/06/intercom-repair-1
+- Brick Underground: Daniel Vasquez (Paragon Security and Locksmith): "Intercoms are getting outdated... Now everyone wants more security. They want a camera to see in front of the door before allowing someone in." Vasquez estimated a five-apartment building could be done in a day; Pete Carmello (Lock and Tech) about two days for a 100-unit building — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- HomeAdvisor: average installed intercom cost $2,500; range $1,200 to $8,500; roughly 1 to 2 hours per intercom station — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Swiftlane: small-building replacement (1 entrance) $2,200–$5,000; cost scales with entrances and doors rather than unit count — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- Brick Underground: repair or installation roughly $2,000 to $50,000 depending on system and building size (Target Security Systems rep); video intercoms around $500 per apartment in large buildings (NYT, as cited) — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Reddit threads on Windsor Terrace intercoms: EMPTY
+- Yelp complaints/praise for intercom installers near Windsor Terrace: EMPTY (no review text retrieved)
+- Local news on Windsor Terrace intercoms or buzzer entry: EMPTY
+
+### Questions people ask — Intercom Installation in Windsor Terrace
+- How much does apartment intercom replacement cost? — Swiftlane FAQ (site FAQ, not PAA) — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- What information do installers need to quote an intercom replacement? — Swiftlane FAQ — same URL
+- Do I need a permit to replace an apartment intercom system? — Swiftlane FAQ — same URL
+- How long does apartment intercom replacement take? — Swiftlane FAQ — same URL
+- Can you replace an apartment intercom without rewiring the building? — Swiftlane FAQ — same URL
+- What makes apartment intercom replacement more expensive? — Swiftlane FAQ — same URL
+- How long do intercom systems last? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Does a home need an intercom system? — HomeAdvisor — same URL
+- Which video and audio intercom should a small co-op choose to replace an analog system? — Brownstoner forum — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- Does the whole intercom need replacing when only some outside buttons fail? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2008/06/intercom-repair-1
+- Does an older (pre-1968) building have to have an intercom? — Brick Underground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Google PAA: EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
