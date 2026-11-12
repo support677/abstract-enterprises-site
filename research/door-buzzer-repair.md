@@ -9532,3 +9532,32 @@ These questions come from competitor FAQ sections. They show what vendors target
 - How fast can you respond to an intercom repair call in NYC? — competitor FAQ — https://www.abstractenterprisessecuritysystems.com/intercom-repair-nyc
 - Can you fix the door that won't open? — competitor FAQ — https://abstractenterprisessecuritysystems.com/door-buzzer-repair-east-new-york-brooklyn-ny
 - Buzzer rings but door will not unlock (symptom) — competitor FAQ — https://www.uasecurity.com/door-buzzer-repair-nyc.html
+
+## Brownsville, Brooklyn — /door-buzzer-repair-brownsville-brooklyn-ny (factory research, 2026-11-12)
+
+- 311 BELL/BUZZER/INTERCOM complaints, incident_zip 11212, by year (queried Nov 12 2026): 2020 80; 2021 92; 2022 108; 2023 140; 2024 113; 2025 138; 2026 227 (to Nov 12) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- 311 BELL/BUZZER/INTERCOM, ZIP 11212, 2026 by month: Jan 18, Feb 18, Mar 25, Apr 22, May 13, Jun 15, Jul 25, Aug 27, Sep 42, Oct 18, Nov 3 (to Nov 12) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- HPD intercom violations, NTA Brownsville (queried Nov 12 2026): Class A 53 closed / 19 open, Class B 269 closed / 93 open = 434 total, 112 open — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- Earlier pass (Oct 22 2026, on file): Brownsville NTA intercom violations concentrated on Pitkin Ave (43 at 12 bldgs), Bristol St 35/16, Chester St 25/7, Thomas S Boyland St 25/13, New Lots Ave 21/3, Lott Ave 21/10, Riverdale Ave 19/7, Sutter Ave 18/7, Tapscott St 18/5; ~2/3 at pre-1931 buildings; zero at one-family (A-class) lots; 3,892 self-closing-door violations (2,863 Class C) — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- PLUTO (on file): 52.0% of residential lots in CD16/ZIP 11212 built 1968 or later — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- News 12 Brooklyn, Nov 15 2018: "Broken buzzer sparks fear in tenants at Brownsville Houses" — tenants say the building's intercom used to buzz people in is broken (body text not retrievable) — https://brooklyn.news12.com/broken-buzzer-sparks-fear-in-tenants-at-brownsville-houses-39484545
+- NYC Comptroller report FK23-069S (Sep 21 2022): resident-powered audit of 262 NYCHA developments; 40.1% of residential entrance door locks broken, 28.5% of rear/side door locks broken; open and/or broken doors rose from 23.5% (2018) to 57.9% (2022); residents said "intercoms, locks, keys, and door release buttons do not work"; one resident: "the building's intercoms have been broken for 10 years"; Brad Lander: "Broken doors are a symbolic reminder that home safety starts at the entrance." No Brownsville developments named — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
+- Brick Underground (Nov 7 2019): Pete Carmello (Lock and Tech): "A lot of times it's user error"; Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections"; quoted service calls $195/hr and $250/hr plus parts; tenants shouldn't touch wiring; building must authorize work; core wiring in older systems such as Lee Dan typically sound — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Brick Underground (Dec 18 2014, Virginia K. Smith): "Formal written requests tend to get more efficient responses than texts or phone calls"; enlist fellow tenants; 311 inspection; rent-stabilized tenants can file a DHCR reduction-of-services complaint; "don't be the person who props the front door open" — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- ButterflyMX NYC intercom repair guide (updated Oct 19 2026): one NYC integrator's estimates "$100 to $300 for diagnostics", "$500 to $1,500 for component replacement", "$1,000 to $3,000 for limited wiring repairs"; MDL 50-a covers Class A buildings built/converted after Jan 1 1968 with eight or more apartments; HPD correction periods 90 days Class A, 30 days Class B, 24 hours most Class C — https://butterflymx.com/blog/intercom-repair-nyc
+- Habitat Magazine (Feb 26 2024): courts treat intercoms as essential services (warranty of habitability); remedies written demand, 311, HP proceeding; Nancy Kourland (Lasser Law Group): "As a result, the co-op has a legal obligation to repair or replace the intercom," — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Brownsville-specific buzzer Reddit threads: EMPTY
+- Yelp 1–3★ for buzzer repair near Brownsville: EMPTY
+- Google PAA / PASF / AI Overview / Bing / DuckDuckGo live panels: EMPTY (not retrievable); questions below come from article FAQs and search result titles
+
+### Questions people ask — Door Buzzer Repair in Brownsville
+- Can one apartment intercom station be repaired without replacing the whole system? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Does an audio-only intercom satisfy NYC law? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can existing intercom wiring be reused during replacement? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can a tenant withhold rent because an intercom is broken? — ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- How long does a landlord have to fix things in NYC? — search result titles (Bing-style) — https://www.skybriz.com/insights/nyc-landlord-repair-timeline/
+- How do I get my landlord to fix a broken buzzer? — Brick Underground — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Intercom not working in some apartments — what now? — search title — https://www.landlordvtenant.com/article/intercom-not-working-some-apartments
+- Broken buzzer in a small apartment building: repair or replace? — search title — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- Is a broken intercom illegal in my apartment? — search title — https://www.herrick.com/real-estate/news/that-broken-intercom-in-your-apartment-is-illegal-heres-what-to-do/
+- Who fixes the buzzer in NYCHA buildings? — News 12 / Comptroller context — https://comptroller.nyc.gov/reports/observations-of-building-doors-in-nycha-developments
