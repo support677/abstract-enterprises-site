@@ -1084,7 +1084,7 @@ LIVE | intercom-installation-prospect-lefferts-gardens-brooklyn-ny | Intercom In
 LIVE | intercom-installation-prospect-park-south-brooklyn-ny | Intercom Installation | Prospect Park South, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-riverdale-bronx-ny | Intercom Installation | Riverdale, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-sea-gate-brooklyn-ny | Intercom Installation | Sea Gate, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T12:37Z max-burn REBUILD | intercom-installation-south-slope-brooklyn-ny | Intercom Installation | South Slope, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-south-slope-brooklyn-ny | Intercom Installation | South Slope, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-stuyvesant-heights-brooklyn-ny | Intercom Installation | Stuyvesant Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-unionport-bronx-ny | Intercom Installation | Unionport, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-van-cortlandt-village-bronx-ny | Intercom Installation | Van Cortlandt Village, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
