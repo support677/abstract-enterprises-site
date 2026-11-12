@@ -1685,7 +1685,6 @@
 # --- explicit per-file .html -> clean URL (Netlify has no suffix wildcard) ---
 /about-us.html  /about-us  301!
 /access-control-installation-allerton-bronx-ny.html  /access-control-installation-allerton-bronx-ny  301!
-/access-control-installation-bath-beach-brooklyn-ny.html  /access-control-installation-bath-beach-brooklyn-ny  301!
 /access-control-installation-bathgate-bronx-ny.html  /access-control-installation-bathgate-bronx-ny  301!
 /access-control-installation-bay-ridge-brooklyn-ny  /access-control-installation-bay-ridge-brooklyn-ny.html  200
 /access-control-installation-bay-ridge-brooklyn-ny.html  /access-control-installation-bay-ridge-brooklyn-ny  301!
@@ -5547,3 +5546,5 @@
 /tv-installation-south-williamsburg-brooklyn-ny.html  /tv-installation-south-williamsburg-brooklyn-ny  301!
 /tv-installation-wyckoff-heights-brooklyn-ny  /tv-installation-wyckoff-heights-brooklyn-ny.html  200
 /tv-installation-wyckoff-heights-brooklyn-ny.html  /tv-installation-wyckoff-heights-brooklyn-ny  301!
+/access-control-installation-bath-beach-brooklyn-ny  /access-control-installation-bath-beach-brooklyn-ny.html  200
+/access-control-installation-bath-beach-brooklyn-ny.html  /access-control-installation-bath-beach-brooklyn-ny  301!
