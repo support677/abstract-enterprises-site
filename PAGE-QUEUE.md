@@ -905,7 +905,7 @@ REBUILD | access-control-installation-bathgate-bronx-ny | Access Control Install
 REBUILD | access-control-installation-baychester-bronx-ny | Access Control Installation | Baychester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-bedford-stuyvesant-brooklyn-ny | Access Control Installation | Bedford Stuyvesant, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-belmont-bronx-ny | Access Control Installation | Belmont, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-bergen-beach-brooklyn-ny | Access Control Installation | Bergen Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-bergen-beach-brooklyn-ny | Access Control Installation | Bergen Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-borough-park-brooklyn-ny | Access Control Installation | Borough Park, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-bronxdale-bronx-ny | Access Control Installation | Bronxdale, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-brooklyn-chinatown-brooklyn-ny | Access Control Installation | Brooklyn Chinatown, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
