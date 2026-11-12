@@ -5036,3 +5036,41 @@ These questions do appear on real web pages:
 **Before using this:**
 - **Things I inferred, not found stated in sources:**
   - Masonry co-op walls plus we
+
+## West Brighton, Staten Island — /sonos-installation-west-brighton-staten-island-ny (factory research, 2026-11-12)
+
+- ZIP 10310 (West Brighton) broadband: Spectrum "Fiber Powered" available to 94.6% of the ZIP (100 Mbps - 2 Gbps); Verizon Fios only 9.9%; T-Mobile 5G home internet 61%; AT&T 5G 80%; Starlink and HughesNet satellite 100%; XNET fixed wireless 30.2% (data valid as of 11/05/2026) — https://broadbandnow.com/New-York/Staten-Island?zip=10310
+- Sonos support: Charter/Spectrum SAX2V1S, SAX2V1R and SAX1V1S routers — "When your Sonos system is in a wireless setup, Sonos products disappear from the Sonos app"; "Charter / Spectrum have fixed this issue with recent firmware updates"; approved firmware Sagemcom 6E (1.5.6), Sagemcom 6 (4.4.4), Sercomm 6E (1.3.6); a wired setup also resolves it — https://support.sonos.com/en-us/article/charter-spectrum-sax2v1s-sax2v1r-sax1v1s-compatibility
+- Sonos also keeps compatibility articles for Spectrum Sagemcom F@ST 5260 and Spectrum Arris TR4400 / RAC2V1A (titles only, not opened) — https://support.sonos.com/s/article/4896 ; https://support.sonos.com/s/article/4895
+- Sonos Community "Spectrum router dropping speakers": Sonos support linked dropouts to a "known router issue (SAX1V1S)"; fixes reported were keeping the Spectrum modem and replacing the router (TP-Link, "all works now"), or a Motorola MG8702 with 16 Sonos devices ("it works great") — https://en.community.sonos.com/speakers-229128/spectrum-router-dropping-speakers-6892059
+- Sonos Community "Spectrum problem": owner spent about 11 hours with Sonos support; Sonos asked for separate 2.4/5 GHz network names, Spectrum said its routers can't do that; Spectrum offered per-device band steering; quote "The general resolution is to use Sonos in a wired setup"; another: "I replaced the ISP's router with my own router" — https://en.community.sonos.com/speakers-229128/spectrum-problem-6880261
+- Same thread, later page: users swapped Spectrum router for TP-Link AX1800 ("Sonos connectivity issues disappeared") or an eero 6 ("wish I did this sooner"); one objected a wired speaker "defeats a core purpose of Sonos" — https://en.community.sonos.com/speakers-229128/spectrum-problem-6880261/index5.html
+- Sonos Community T-Mobile Home Internet: two Amps and two soundbars repeatedly lost connection on the cellular gateway; Sonos support lists "Wireless internet connections such as satellite, mobile hotspots, or LTE routers" as unsupported; suggested fixes: wired SonosNet mode, or own router behind the gateway; one user reported no problems with a 5G router plus eero Pro 6 mesh — https://en.community.sonos.com/components-and-architectural-228999/sonos-incompatibility-with-t-mobile-home-internet-service-6876709
+- NeighborhoodScout West New Brighton: 42.2% of real estate is 2-, 3- or 4-unit buildings (higher than 97.6% of US neighborhoods); many homes built 1939 or earlier; median home value $683,004; average rent $3,934; mix of owners and renters — https://www.neighborhoodscout.com/ny/staten-island/west-new-brighton/
+- NYCHA PACT page: West Brighton I (built 1962) and II (built 1965), 16 residential buildings, over 500 apartments, nearly 1,500 residents; Pinnacle City Living property manager since 2024; BFC Partners general contractor; converted June 26 2024; contact westbrighton@pinnacleliving.com — https://www.nyc.gov/site/nycha/about/pact/west-brighton.page
+- NYCHA Journal: PACT scope at West Brighton I & II includes new doors, windows, kitchens, baths, Wi-Fi, cameras and lighting; ~2-year construction (from 2024) — https://nychajournal.nyc/332-million-pact-renovation-coming-to-west-brighton/
+- Jody's Club Forest, a Forest Avenue West Brighton bar opened June 1 1976, now bar and restaurant hosting birthday parties, communions, repasses and sports-team gatherings — https://www.sichamber.com/news/jodys-club-forest-celebrates-50-years-of-food-family-and-community
+- HomeAdvisor Staten Island home theater listing: 10 pros shown; national home theater build average $17,500; surface-mounted speakers cost less to install than in-ceiling — https://www.homeadvisor.com/tloc/Staten-Island-NY/Home-Theater-Surround-Sound-System-Install
+- HomeAdvisor/ServiceMagic Staten Island home theater/media center install: average $697, typical $162–$697, low-high $100–$3,600 — https://www.servicemagic.com/tloc/Staten-Island-NY/Home-Theater-System-or-Media-Center-Install/
+- HomeAdvisor national surround sound install: average $774, typical $235–$1,317; labor $50–$100/hr; standard room 2–3 hours; two in-wall speakers incl. wiring $200–$500 — https://homeadvisor.com/cost/home-theaters/install-a-surround-sound-system
+- LPC / CityLand search for West New Brighton returned no designated historic district items located in West Brighton; Gardiner-Tyler House (27 Tyler Ave) is an individual landmark per silo background — https://www.citylandnyc.org/search/West%20New%20Brighton,%20Staten%20Island/
+- Reddit (r/StatenIsland, r/WestBrighton) Sonos installation threads: EMPTY (search returned only Sonos Community and installer pages)
+- Google PAA / PASF / Answer the Public / AI Overview / Bing / DuckDuckGo for "sonos installation West Brighton": EMPTY (not accessible in build env); questions below come from Sonos Community threads and cost-guide pages
+- Yelp 1–3★ for Sonos installers near West Brighton: EMPTY
+- Local news (SI Advance) on Sonos/home audio in West Brighton: EMPTY
+
+### Questions people ask — Sonos Installation in West Brighton
+- Will Sonos work with the Spectrum router, or do the speakers keep disappearing from the app? — Sonos Community — https://en.community.sonos.com/speakers-229128/spectrum-router-dropping-speakers-6892059
+- Which router should I use with Spectrum's modem so Sonos stops dropping? — Sonos Community — https://en.community.sonos.com/speakers-229128/spectrum-router-dropping-speakers-6892059
+- Spectrum says it can't split 2.4 GHz and 5 GHz — does Sonos need them split? — Sonos Community — https://en.community.sonos.com/speakers-229128/spectrum-problem-6880261
+- Is a wired Sonos setup the only real fix? — Sonos Community — https://en.community.sonos.com/speakers-229128/spectrum-problem-6880261
+- Does Sonos work on T-Mobile 5G home internet? — Sonos Community — https://en.community.sonos.com/components-and-architectural-228999/sonos-incompatibility-with-t-mobile-home-internet-service-6876709
+- Is the Spectrum SAX2V1S compatible with Sonos? — Sonos Community (thread title) — https://en.community.sonos.com/speakers-229128/spectrum-router-sax2v1s-is-it-compatible-6884685
+- Will Sonos work with Spectrum's eero equipment? — Sonos Community — https://en.community.sonos.com/speakers-229128/spectrum-problem-6880261/index5.html
+- How much do home theater installers typically cost on Staten Island? — HomeAdvisor — https://www.servicemagic.com/tloc/Staten-Island-NY/Home-Theater-System-or-Media-Center-Install/
+- Have you already purchased the components for this project? — HomeAdvisor intake — https://www.servicemagic.com/tloc/Staten-Island-NY/Home-Theater-System-or-Media-Center-Install/
+- Is this project part of a larger remodel? — HomeAdvisor intake — https://www.servicemagic.com/tloc/Staten-Island-NY/Home-Theater-System-or-Media-Center-Install/
+- Are surface-mounted speakers cheaper to install than in-ceiling? — HomeAdvisor — https://www.homeadvisor.com/tloc/Staten-Island-NY/Home-Theater-Surround-Sound-System-Install
+- I upgraded my Sonos system from Best Buy and need someone to set everything up properly — who do I hire? — Sonos Community — https://en.community.sonos.com/speakers-229128/i-updated-my-sonos-system-with-best-buy-i-need-help-getting-everything-to-work-properly-i-need-to-hire-someone-to-setup-everything-6923301
+- Sonos speakers connected to the pods instead of the gateway — does it matter? — Sonos Community (thread title) — https://en.community.sonos.com/speakers-229128/speakers-connected-to-xfinity-pods-vice-gateway-6923407
+- Why do Sonos speakers disappear across access points? — Sonos Community (thread title) — https://en.community.sonos.com/speakers-229128/sonos-system-disappearing-across-access-points-6934313
