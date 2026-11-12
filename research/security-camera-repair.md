@@ -2503,3 +2503,45 @@ Note: live search was unavailable for this pass (search budget used up), so ever
 - How much do security camera installation and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - What have people in Brooklyn found effective to prevent package theft? — Reddit r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/
 - Does someone covering or breaking a camera mean the footage is lost? — derived from CBS 2019 burglary spree coverage — https://www.cbsnews.com/amp/newyork/news/bk-commercial-burglary-spree
+
+## Ocean Hill, Brooklyn — /security-camera-repair-ocean-hill-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live search budget for this session was used up before new searches could run (WebSearch returned its limit on the first query), so no new pages were fetched. Every finding below was taken from sources already fetched and recorded in the Ocean Hill research pack and the Brooklyn security camera repair silo research. Anything not found there is marked EMPTY.
+
+**Public housing and managed buildings**
+- NYCHA PACT community plan (Sept 2025) for Bed-Stuy Rehab, Ocean Hill Apartments, Saratoga Village and Stuyvesant Gardens I/II: 14 buildings, 927 apartments, built 1914–1986; new windows, facades, roofs, elevators; fob access at front and back doors; more than 1,000 cameras monitored off-site (Reliant Safety); Wavecrest management from fall 2025; about three years of construction, about three weeks of work per apartment; Ocean Hill Apartments is 4 buildings with 236 apartments, management office at 24 Mother Gaston Blvd; Saratoga Village is 1 building with 125 apartments — https://www.nyc.gov/assets/nycha/downloads/pdf/ohstuyg-communityplan.pdf
+- Prospect Plaza (St. Marks/Sterling, Howard/Saratoga): four towers, 368 apartments, the first NYCHA development fully demolished; replaced by low-rise buildings, many four-story townhouse-style walk-ups — https://en.wikipedia.org/wiki/Prospect_Plaza_Houses
+- 1696–1712 Broadway at Decatur: city lot empty for decades, two six-story buildings with 134 supportive and low-income apartments planned beside "very loud elevated train tracks" (Brownstoner, June 19 2014) — https://www.brownstoner.com/real-estate-market/affordable-housing-proposed-for-long-empty-lot-at-decatur-and-broadway-in-ocean-hill/
+- NYCHA federal monitor photos (citywide) show spray-painted, missing, defective and taped-over surveillance cameras — https://www.nyc.gov/assets/nycha/downloads/pdf/NYCHA-Monitor-Safety-and-Security-Report-5-25-23.pdf
+- NYS Focus (Oct 2025): NYPD linked CCTV cameras at NYCHA developments to its surveillance software; Ocean Hill developments not named — https://nysfocus.com/2025/10/01/nypd-nycha-surveillance-hearing
+
+**Building stock that shapes camera repairs**
+- In 1993 construction and rehabilitation of over 1,500 housing units began in the part of Ocean Hill bounded by Broadway, Saratoga Avenue, Atlantic Avenue and Van Sinderen Avenue (CB16 statement of needs) — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/2016-statement-of-community-district-needs.pdf
+- Jardine Place: ten two-family houses with a top-floor rental; Ocean Hill has 14 one-block "Place" streets between Atlantic Avenue and Herkimer Street; housing mix of wood frame, limestone, brick rows, 1920s two-family rows and prewar apartments (Brownstoner, 2015) — https://www.brownstoner.com/architecture/building-of-the-day-1-19-jardine-place/
+- 9 Oct 1903 storm: Macon Street cellars flooded by 7 a.m. and Saratoga Park paths ran like streams; Fulton Street described in 1848 as the highest point on the avenue — https://www.brownstonedetectives.com/category/ocean-hill/
+- Ocean Hill: ZIP 11233, Community Board 16, 73rd Precinct; population 37,952 in 2020; named for its hilly terrain; July 1977 blackout looting and arson damaged tenements — https://en.wikipedia.org/wiki/Ocean_Hill,_Brooklyn
+- No designated LPC historic district found inside Ocean Hill — research pack L16 (search only)
+- LPC permit guidebook: ordinary maintenance and repair of safety equipment needs no permit; cameras attach at mortar joints or plain masonry, not decorative surfaces — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Storefronts**
+- SBS Neighborhood 360° study of Ocean Hill–Weeksville with Bridge Street Development Corp (Sept 2023–June 2024): corridors Broadway (Lexington–Conway), Ralph and Rockaway Avenues (Broadway–East New York Ave), Fulton Street (Utica–Mother Gaston); 560 storefronts, 11.3% vacant; houses of worship 79, salons and barbershops 65, vacant 63, delis and bodegas 52, banks 1; 149 merchant and 316 shopper surveys; 83% of merchants rent; safety named by 42% of merchants and 48% of shoppers; poor lighting under the Broadway el hurts night-time perceptions; Fulton Street between Howard and Rockaway in the poorest condition; car ownership 35.5% — https://nyc.gov/assets/sbs/downloads/pdf/neighborhoods/n360-cdna-oceanhill-weeksville.pdf
+- Atlantic Avenue is auto-oriented (gas stations, car washes, repair, storage); Fulton Street is two- to four-story buildings with small stores, the elevated J/Z over much of Broadway — https://www.nyc.gov/assets/planning/download/pdf/plans-studies/east-new-york/neighborhood-profile.pdf
+
+**Police, footage and law**
+- 73rd Precinct, 1470 East New York Ave, covers Brownsville and Ocean Hill; 81st Precinct, 30 Ralph Ave, covers Bed-Stuy — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/73rd-precinct.page
+- Ring ended its Request for Assistance tool in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obliged to show tenants footage outside a legal process; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- NYS DOS license required to install or service security systems incl. CCTV for others; owners may work on their own system — https://dos.ny.gov/fire-alarm-installer
+- NY Labor Law §203-c: written notice of electronic monitoring of employees — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**EMPTY**
+- Local news of Ocean Hill camera footage, break-ins or outages 2024–2026: EMPTY
+- 311 / HPD / DOB data on cameras in 11233: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC, r/BedStuy) on camera repair in Ocean Hill: EMPTY
+- Yelp reviews of camera repair near Ocean Hill: EMPTY
+
+### Questions people ask — Security Camera Repair in Ocean Hill
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp: EMPTY (no searches could run this session)
+- How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
