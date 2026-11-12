@@ -3240,3 +3240,77 @@ Note: live web search was unavailable for this build; every finding below was ca
 - Can police still get my doorbell camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
 - Can my business share its cameras with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
 - How much does camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Spring Creek, Brooklyn — /security-camera-repair-spring-creek-brooklyn-ny (factory research, 2026-11-12)
+
+Live web search was unavailable for this build; every finding below is carried from sourced entries already saved in the site's research files (research/door-buzzer-repair.md, research/door-buzzer-installation.md, research/intercom-installation.md, research/security-camera-installation.md, research/alarm-installation.md and the silo-wide security-camera-repair research). Anything not found there is marked EMPTY.
+
+**Building stock that camera repairs meet in Spring Creek (ZIP 11239)**
+- MapPLUTO, ZIP 11239, lots by building class: A5 one-family attached 308 lots; B2 two-family 119 lots (238 units); B1 two-family 33 lots; C0 three-family 19 lots (57 units); C1 walk-up apartments 50 lots (400 units); RM elevator apartments with stores 15 lots (2,208 units); D3 7 lots (9,970 units, Spring Creek Towers/Starrett City) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- MapPLUTO: every C1 lot in 11239 is an eight-unit, four-floor building ("octets"), built 2018 on Vandalia Avenue (475–510 Vandalia Ave) and 2023 on Vandalia Avenue and Gateway Drive (71–93 Gateway Dr) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- MapPLUTO: a row of three-unit, four-floor houses built 2008 at 533–556 Vandalia Avenue, mostly individually owned — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- MapPLUTO elevator buildings: Gateway Elton 1149/1152/1165/1166 Elton St (2011–2012); 1062 Elton St (2016, 8 floors, 136 units); 516 Vandalia Ave (2016, 6 floors, 64 units); 911 Erskine St (2017, 9 floors, 267 units); 881 Erskine St (2018, 9 floors, 144 units); 10 Schroeder's Walk (2018, 7 floors, 200 units); 894 Fountain Ave (2018, 9 floors, 422 units); 6 Vital Ave (2022, 15 floors, 451 units); 890 Erskine St (2024, 8 floors, 184 units); Erskine Street lot (2025, 14 floors, 425 units, RiseBoro Alafia 2 HDFC) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- Nehemiah Spring Creek houses: 20×40 ft modules with steel frames, fiber cement siding, concrete floors and steel-stud roofs, stacked two, three or four high; built by Capsys at the Brooklyn Navy Yard — https://architecturalrecord.com/articles/7310-nehemiah-spring-creek-housing
+- Nehemiah Spring Creek: 800+ homes on a 45-acre former landfill; stoops to a raised front door; parking along rear alleys in the interior of each block; homes open directly onto the sidewalk — https://gorlinarchitects.com/projects/Nehemiah-Spring-Creek
+- Buyers had to join a homeowners' association (City Limits, 2011) — https://citylimits.org/living-on-the-edge-east-new-york-bay-ridge-go-off-script/
+- Monadnock: octets Phases 4B-1 and 4B-2, 320 units, each phase 20 eight-unit buildings; quote: "The design of these octets maintains the low to mid-rise character of the Spring Creek neighborhood" — https://monadnockdevelopment.com/?p=2686
+- 516 Schroeders Ave: 7 stories, 80 one-bedrooms for seniors, facing the Gateway Center entrance — https://www.6sqft.com/80-unit-affordable-building-for-seniors-opens-in-east-new-york/
+- Gateway Elton I: 197 rentals in four five- and six-story buildings, 9,000 sf commercial, 40 supportive homes, 214,000-watt solar, completed 2012, managed by Related — https://www.cambahousingventures.org/development/gateway-elton-i/
+- Gateway III (1062 Elton St, 475 Locke St): plans "cogeneration with battery backup"; community room, computer room, fitness center, laundry, bicycle storage — https://www.nychdc.com/newsroom/hpd-hdc-hudson-companies-related-companies-camba-housing-ventures-celebrate-ribbon-cutting
+- Hudson Companies: solar PV powers Gateway III common areas and elevators — https://hudsoninc.com/projects/gateway-iii
+- Alafia phase one (Dec 2025): 576 units in C1/C2 (12 and 15 stories) and C3 (6 stories) on Erskine St; courtyard over enclosed parking; 7,800 sf retail; 15,000 sf One Brooklyn Health medical space; Passive House design for all residential buildings — https://newyorkyimby.com/2025/12/phase-one-of-alafia-mixed-use-complex-opens-in-east-new-york-brooklyn.html
+- Spring Creek Gardens, 902 Drew St: built 1988, 5 stories, attended lobby, concierge, on-site parking, courtyard — https://www.cityrealty.com/nyc/east-new-york/spring-creek-gardens-902-drew-street/61653 ; 581 units bought by K & R Preservation in 2020 for $79M — https://nyrej.com/k-r-preservation-acquires-581-unit-affordable-housing-complex-in-brooklyn-for-79-million
+- Passive House airtightness limit n50 ≤ 0.6 h-1; leaks found late "can no longer be remedied" — https://passipedia.org/planning/airtight_construction/airtightness_measurements_in_passive_houses
+- SIGA: unsealed exterior cable holes "leak air like a sieve"; recommends taping each wire penetration with a drip edge and weep loop — https://blog.siga.swiss/us-en/how-to-air-seal-exterior-wire-penetrations
+- HPD Design Guidelines for New Construction (2026) §3.3.6: parcel room with "security measures (cameras, controlled access), climate control, and notification system" — https://www.nyc.gov/assets/hpd/downloads/pdfs/services/hpd-design-guidelines-for-new-construction-2026.pdf
+
+**Spring Creek Towers (Starrett City) — management-run camera network and its own power**
+- Honeywell $2M smart-building retrofit across Spring Creek Towers' 46 towers: new alarm sensors and a passive optical LAN carrying video surveillance and VoIP (A&S Magazine, Aug 2013) — https://www.asmag.com/mobile/article_detail.aspx?aid=15533
+- Primary security is assumed by its own private security force, the Spring Creek Towers Department of Public Safety — https://en.wikipedia.org/wiki/Starrett_City
+- Starrett City has its own power plant (cogeneration facility, 165 Elmira Loop) — https://en.wikipedia.org/wiki/Starrett_City
+- Outages: Oct 2023 the 46-building complex was dark at least an hour — https://abc7ny.com/spring-creek-towers-brooklyn-power-outage/13965102/ ; CBS: almost all 46 buildings, about 15,000 residents — https://www.cbsnews.com/newyork/news/brooklyn-spring-creek-towers-power-outage/ ; 2017 FDNY deputy chief: "This is not an unusual occurrence for this complex" — https://abc7ny.com/post/brooklyn-power-outage-prompts-dozens-of-elevator-rescues/2251877/ ; April 20 2015 site-wide outage after a failure at the complex's power plant — https://abc7ny.com/post/power-restored-after-outage-at-brooklyn-apartment-complex-traps-some-in-elevators/671775/
+- Single owner (Rockpoint Group; Brooksville Company manages) — https://therealdeal.com/new-york/2021/09/29/settlement-housing-fund-revealed-as-buyer-behind-1-8b-starrett-city-deal/
+
+**Shopping and business blocks**
+- Gateway Center: 501 Gateway Drive; South opened Oct 1 2002 (Target, Home Depot, Best Buy, BJ's); North opened from Aug 2014 (JCPenney, TJ Maxx, ShopRite, Aldi); Erskine Shops not part of the mall (Five Guys, Red Crab, Sally's, Dallas BBQ) — https://en.wikipedia.org/wiki/Gateway_Center_(Brooklyn)
+- Industrial: USPS Brooklyn Processing and Distribution Center at 1050 Forbell St; MTA Spring Creek Depot; DSNY; 26th Ward WPCP; Flatlands Fairfield Industrial Park north of Flatlands Ave — https://en.wikipedia.org/wiki/Spring_Creek,_Brooklyn
+
+**Incidents, police and footage**
+- Early 2026: armed home invasion at a building near Vandalia Avenue and Fountain Avenue; a neighbor said he got a Ring doorbell alert with what could be a picture of one of the suspects (CBS New York) — https://www.cbsnews.com/newyork/news/brooklyn-apartment-robbery-suspect-disguised-as-cleaner/
+- 75th Precinct CompStat, week ending 9/13/2026: year-to-date burglaries 124 in 2026 vs 167 in 2025, down 25.7% — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-075pct.pdf
+- 75th Precinct, 1000 Sutter Ave, covers East New York and Cypress Hills (CB5) — https://www.nyc.gov/site/brooklyncb5/resources/precincts.page
+- Amnesty International 2021: East New York found the most surveilled neighbourhood in the three boroughs studied, 577 cameras at intersections — https://www.amnesty.org/en/latest/news/2021/06/scale-new-york-police-facial-recognition-revealed/
+- Ring ended its "Request for Assistance" tool in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Register camera locations with NYPD at NewYorkCityConnect.org (311) — https://portal.311.nyc.gov/article/?kanumber=KA-03645
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- No dated Spring Creek camera-repair news story found: EMPTY
+
+**Rules**
+- NYS DOS license required to install or maintain security systems for others — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- 19 NYCRR 195.2: CCTV used for detecting intrusion/theft needs a licensed installer — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- Owner installing on own property doesn't need a license — https://dos.ny.gov/fire-alarm-installer
+- Cameras not legally required in NYC apartment buildings; a camera pointed at an unlit corridor provides no usable footage — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- Workplace: NY Labor Law 203-c (no recording in restrooms/locker rooms) — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- LPC historic district in Spring Creek: EMPTY (none found in searches recorded for other Spring Creek pages)
+- DOB permits for camera work in Spring Creek: EMPTY
+- 311 / HPD camera-specific complaints in 11239: EMPTY (311 BELL/BUZZER/INTERCOM data exists for entry systems only: 103 complaints at 20 non-Starrett addresses since 2020, 47 in 2026 to Nov 5) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+
+**Cost benchmarks**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Yelp / Reddit**
+- Yelp complaints about camera repair near Spring Creek: EMPTY
+- Reddit r/Brooklyn "Spring Creek / Gateway mall residents" thread excerpt only ("a lot of seniors live there"); could not be opened: EMPTY for camera repair — https://www.reddit.com/r/Brooklyn/comments/1jx4q21/spring_creek_gateway_mall_residents/
+
+### Questions people ask — Security Camera Repair in Spring Creek
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "security camera repair Spring Creek": EMPTY (search unavailable this build)
+- Can I just replace one camera or do I have to replace the whole system? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How to fix night vision not working on security camera — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How to fix security camera blurry image — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- My DVR isn't recording — what's likely wrong? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-bronx
+- Will my camera footage still work for police if there's a break-in? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How do I get my landlord to let me look at camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can police still get my Ring doorbell footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Do you need a license to install security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- How much do security camera install and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What happens to cameras and recorders when the power plant at Spring Creek Towers fails? — derived from ABC7 outage reports — https://abc7ny.com/spring-creek-towers-brooklyn-power-outage/13965102/
