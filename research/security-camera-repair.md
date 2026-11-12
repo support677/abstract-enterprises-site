@@ -3314,3 +3314,72 @@ Live web search was unavailable for this build; every finding below is carried f
 - Do you need a license to install security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
 - How much do security camera install and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - What happens to cameras and recorders when the power plant at Spring Creek Towers fails? — derived from ABC7 outage reports — https://abc7ny.com/spring-creek-towers-brooklyn-power-outage/13965102/
+
+## Stuyvesant Heights, Brooklyn — /security-camera-repair-stuyvesant-heights-brooklyn-ny (factory research, 2026-11-12)
+
+Live web search was unavailable for this pass (search budget exhausted). Every finding below is carried from sourced findings already saved in the site's research files (research/security-camera-repair.md Bed-Stuy and Crown Heights passes, research/door-buzzer-repair.md and door-buzzer-installation.md Stuyvesant Heights passes, research/neighborhoods/brooklyn-bedford-stuyvesant.md), each with its original source URL. Anything not already on file is marked EMPTY.
+
+**Building types, entry and wiring conditions that camera repair meets here**
+- The Bedford-Stuyvesant/Expanded Stuyvesant Heights Historic District (designated April 16, 2013) has about 825 buildings, bounded by Halsey and Macon Streets to the north, Fulton Street to the south, Malcolm X Boulevard to the east and Tompkins Avenue to the west; it surrounds the 1971 Stuyvesant Heights Historic District — https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/
+- The 1971 district is an L-shaped area north of Fulton Street with over 430 buildings on 13 blocks, roughly between Stuyvesant and Tompkins Avenues and Macon and Chauncey Streets — https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/
+- The residential area was developed mainly between 1880 and 1920, largely speculatively built rowhouses in Queen Anne, neo-Grec, Romanesque Revival and Renaissance Revival styles, with some mid-19th-century wood-frame houses still standing — https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/
+- The 1890s brought several four- and five-story apartment buildings — https://www.citylandnyc.org/bed-stuyexpanded-stuyvesant-heights-historic-district-designated-capping-decades-long-process/
+- LPC designation report LP-2496 describes row houses with shared first-floor entrances through a vestibule into a hallway, round-headed double-leaf doors, areaways and raised basements, and 1890s French flats of four to five stories — https://s-media.nyc.gov/agencies/lpc/lp/2496.pdf
+- The expanded district holds about 825 architecturally diverse row houses, two-family residences, small apartment houses and institutional buildings — https://www.brownstoner.com/history/closing-bell-lpc-expands-landmarking-in-bed-stuy/
+- New construction inside the neighborhood: Chauncey + Lewis rowhouses at 39 Chauncey Street and 437–441 Lewis Avenue; 524 Halsey Street, a former carriage house and auto repair shop converted into a 33-unit condominium with an attended lobby — https://www.cityrealty.com/nyc/market-insight/features/future-nyc/chauncey-lewis-new-townhouses-stuyvesant-heights-test-future-brownstone-brooklyn/71385
+- A proposed five-story, 13-unit building at 406–410 MacDonough Street went before LPC in October 2026, which took no action — https://www.brownstoner.com/architecture/bed-stuy-406-macdonough-street-studiosc-lpc-oct-2026/
+- Brownstoner "Brownstone Boys: Working Out Our Security Issues" (May 29, 2019): owners renovating a Bed Stuy brownstone after a break-in added a deadbolt and an interior vestibule lock, planned a video doorbell and Wi-Fi lock, and used an exterior camera's two-way speaker to talk with people at the front — https://www.brownstoner.com/interiors-renovation/brooklyn-alarm-system-security-camera-brownstone-boys-working-out-our-security-issues
+- Stuyvesant Mansion, a standalone building at Stuyvesant Avenue and Decatur Street used as community space by Gumbo Workshop, Freebrook Academy and GrowHouse; a court ordered its sale (BK Mag, Nov 15, 2025) — https://www.bkmag.com/2025/11/15/locals-rally-to-save-stuyvesant-mansion-from-tax-lien-sale/
+
+**LPC rules that change how camera repair is done**
+- LPC Permit Guidebook ch. 11: no permit is needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Same guidebook: "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; small residential/commercial buildings: no more than two security cameras per 25 feet of street frontage (three for large buildings) — same source
+- Same guidebook: equipment "must be attached at mortar joints, plain masonry, wood, or metalwork" and "must not be attached through cast iron or on any decorative surfaces"; equipment "cannot be on or in front of a primary facade unless no other option exists" — same source
+- Same guidebook: conduit must be concealed through plain masonry; staff may approve "a maximum of approximately ten inches of visible conduit"; in-kind camera replacement applications need manufacturer cut sheets but no elevation drawings — same source
+- LPC: 95% of permit approvals are issued at staff level (Permit for Minor Work, Certificate of No Effect); non-conforming work goes to a Certificate of Appropriateness at a public hearing — https://www.nyc.gov/site/lpc/applications/permit-types.page
+
+**Power events on Fulton Street and in Bed-Stuy that hit recorders, switches and cameras**
+- June 11, 2026: manhole fires at 1242 Fulton St. in Bed-Stuy; about 50 Con Edison customers without power as of 8:30 p.m. — https://brooklyn.news12.com/multiple-manholes-catch-fire-in-bed-stuy-forcing-residents-to-brave-the-heat
+- Same event: manhole fires around 6 p.m. cut power to "multiple rows of businesses" on Fulton Street; some stores still without power Friday morning; Con Ed said heat was "almost certainly the cause" — https://newjersey.news12.com/power-restored-after-manhole-fires-knock-out-blocks-of-fulton-street
+- After Winter Storm Fern, 786 Bed-Stuy customers lost power on a Monday, over 990 by Monday night, about 300 still out Wednesday morning; snow and road salt damaged several manholes — https://brooklyneagle.com/364562/hundreds-without-power-in-bed-stuy-as-temps-hit-single-digits/
+
+**Local incidents where camera footage mattered**
+- Fulton Pawnbroker on Fulton Street in Bed-Stuy: a man broke in just after midnight on Oct. 14 (2025) through the ceiling and took about $20,000 in merchandise; "Police say the suspect broke in through the ceiling, and video shows the man scaling the wall and breaking in." — https://brooklyn.news12.com/must-see-video-shows-suspect-break-into-bed-stuy-pawnshop
+- Marcus Garvey Boulevard deli (News 12, Apr 28, 2025): "Surveillance video shows the moments four men impersonating police officers robbed a Bed-Stuy deli at gunpoint." (west of Stuyvesant Heights) — https://brooklyn.news12.com/caught-on-camera-new-surveillance-video-shows-bed-stuy-deli-robbery
+- Bainbridge Street (News 12, Feb 25, 2025): police say a DoorDash courier took a package worth about $1,500 from in front of a resident's door on Feb. 14 — https://brooklyn.news12.com/police-doordasher-steals-package-from-a-bed-stuy-resident
+- Macon Street between Throop Avenue and Marcus Garvey Boulevard (Patch, Nov 2017): a package thief used a mop handle to pull a package through a locked gate; the owner found the footage when her tenant asked about the missing package (west of the district) — https://patch.com/new-york/bed-stuy/watch-package-thief-scarily-stalks-bed-stuy-home
+
+**Footage, police and tenants**
+- Ring ended its "Request for Assistance" tool in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; buildings aren't required to have functioning cameras (attorney Jennifer Rozen); attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- The 79th and 81st Precincts cover Bed-Stuy (Community Board 3) — https://www.nyc.gov/site/brooklyncb3/resources/nypd-precincts-firehouses.page
+- Cameras are not legally required in NYC apartment buildings — https://senecasecurity.com/learn/nyc-building-security-compliance/
+- NYS Department of State licenses companies that install or maintain security systems; 19 NYCRR 195.2 covers CCTV used for detecting or monitoring intrusion or theft; owners installing on their own property are exempt — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems ; https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system ; https://dos.ny.gov/fire-alarm-installer
+- New York Labor Law Section 203-c: workplace video notice/restrictions — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- NYPD "Connect New York"/Fusus: camera registration tells the NYPD where cameras are; no cost for businesses to join — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Repair-side reference (non-local)**
+- Impera Security lists causes for "Cameras Working but Not Recording": failed DVR/NVR hard drive, incorrect recording schedule, storage configuration problems, insufficient storage — https://www.imperasecurity.com/security-camera-repair
+- NYE Technical Services: "Running out of storage is the most common reason" cameras stop recording — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+
+**Empty**
+- DOB permits for camera work in Stuyvesant Heights: EMPTY
+- 311 / HPD complaint data specific to cameras in 11216/11221/11233: EMPTY
+- Local news about camera repair specifically inside the Stuyvesant Heights district: EMPTY
+- Reddit threads (r/BedStuy, r/Brooklyn, r/AskNYC) on camera repair in Stuyvesant Heights: EMPTY
+- Yelp reviews for camera repair in Stuyvesant Heights: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "security camera repair Stuyvesant Heights": EMPTY (no live search this pass)
+
+### Questions people ask — Security Camera Repair in Stuyvesant Heights
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp: EMPTY (no live search this pass); questions below come from saved sources, labeled
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Can police get my doorbell camera video without asking? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Do I need Landmarks permission to replace a camera on my brownstone? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Why did my cameras stop after a power outage? — inferred from News 12 / Brooklyn Eagle outage coverage — https://brooklyneagle.com/364562/hundreds-without-power-in-bed-stuy-as-temps-hit-single-digits/
+- Why do security cameras stop recording? — vendor PAA page — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- Why would cameras show live video but not record? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- How much do security camera installation and repair companies typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Can an exterior camera's speaker be used to talk to people at the front door of a brownstone? — Brownstoner — https://www.brownstoner.com/interiors-renovation/brooklyn-alarm-system-security-camera-brownstone-boys-working-out-our-security-issues
