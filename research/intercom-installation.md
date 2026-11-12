@@ -4214,3 +4214,58 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - DuckDuckGo: EMPTY
 - Reddit: EMPTY
 - Yelp: EMPTY
+
+## Country Club, Bronx — /intercom-installation-country-club-bronx-ny (factory research, 2026-11-12)
+
+**Building types and entry situations that shape intercom work here**
+- 3305 Country Club Road, the former Sisters Servants of Mary convent: DOB new-building application for a four-story building with 82 dwelling units; DOB said the application was under plan examiner review, not permitted or approved, with no demolition application on file; Villa Maria Academy's principal: "We believe that this proposed development is incompatible with the character of our neighborhood." — https://bronx.news12.com/2026/02/02/country-club-convent-proposed-to-be-4-story-apartment-building/6uwLQIn6Y64dbWFVqG5uvu
+- Marketproof: new building permit for 3305 Country Club Rd filed January 13, 2026, four stories, 82 units, applicant Nikolai Katz (S M Tam Architect PLLC); existing building three floors — https://blog.marketproof.com/new-building-permit-filed-for-3305-country-club-rd-in-country-club-bronx/
+- PincusCo, April 20, 2026: Westbridge Realty paid $7.2M to the Catholic order for the 3305 Country Club Road development site (rest paywalled) — https://www.pincusco.com/westbridge-realty-pays-7-2m-to-catholic-order-for-specialty-in-country-club/
+- (Background pack, Bronx Times Jan 28, 2026: earlier description as three stories, 82 units, 82 parking spaces, R3-1 lowest-density district; sources disagree on stories: three vs four) — https://www.bxtimes.com/country-club-convent-redeveloped-apartment-building/
+- 3135 Waterbury Avenue: new building permit filed November 10, 2025 for a three-story, two-unit building replacing a 1945 house (Iocovello & Sons Builders, architect Gino O. Longo); commercial sq ft figure on the listing looks like a data error — https://blog.marketproof.com/new-building-permit-filed-for-3135-waterbury-ave-in-country-club-bronx/
+- 1640 Stadium Avenue: permit filed September 19, 2025 for a two-story, two-unit building, 30 ft tall (Gino Longo, architect); Marketproof also lists filings at 1626, 1628 and 1630 Stadium Avenue — https://blog.marketproof.com/?p=161803 ; https://blog.marketproof.com/?p=163884 ; https://blog.marketproof.com/?p=163894 ; https://blog.marketproof.com/?p=162904
+- New York YIMBY: twin two-story, two-family houses at 3258 and 3260 Waterbury Avenue, full-floor units averaging 1,774 sq ft, three off-street spaces per building, on an 8,123 sq ft lot with an existing two-story house; architect Gino O. Longo — https://newyorkyimby.com/category/country-club
+- Openigloo lists 158 rental buildings in Country Club (largely small houses with rental units), e.g. 1114 Dean Ave, 1440 Outlook Ave, 3309 Griswold Ave (17 open violations), 1516 Library Ave (24 open violations), 3198 Valhalla Dr, 3208 Waterbury Ave; the page does not say what the violations are — https://www.openigloo.com/buildings/bronx/country-club/renter-friendly
+- Country Club-specific HPD intercom violation counts: EMPTY
+- Country Club 311 intercom/buzzer complaint counts: EMPTY
+- DOB permits specifically for intercom/door-entry work in Country Club: EMPTY
+
+**City and state rules that bear on intercoms**
+- Habitat Magazine, Feb 26, 2024: buildings built or converted after 1968 with eight or more units must have a two-way voice intercom from the front door to each apartment; the housing maintenance code also requires a functioning intercom; courts treat intercoms as an essential service under the warranty of habitability; "You do not need a lawyer to start an HP case." — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- 1 RCNY 42-01: pre-1968 buildings with 8+ apartments need self-closing, self-locking doors and an intercommunication system; push buttons no more than six feet from the floor, speaking/listening device 4–5 ft from the floor; minimum is a bell or buzzer system or speaking and listening device — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Buildings with fewer than eight apartments are not covered by the intercom requirement, though self-closing/self-locking door rules still apply — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
+- NYC DOB: replacements and repairs of electrical work require a NYC Licensed Master Electrician and an electrical permit; page says nothing about low-voltage intercom work — https://www.nyc.gov/site/buildings/industry/project-requirements-skilled-trades-electrical-allowable-without-rdp.page
+
+**Equipment and outdoor conditions**
+- 2N: IP65 = "Completely dust-tight and resistant to water sprayed from a nozzle"; IP67 survives immersion up to 30 minutes at 1 m; IK10 (20 joules) is the top impact rating; names "salt water" among outdoor challenges; anodized aluminium housings resist corrosion — https://www.2n.com/en-AU/blog/ensuring-durability-in-outdoor-intercom-systems/
+- 2N single-family guide: IP54 minimum, IP66/IP67 for harsher environments, IK08 or higher; PoE carries data and power on one cable; relay outputs can drive a strike, mag lock or gate motor, some with two relays for a pedestrian gate and a vehicle gate; cellular intercoms suit remote gates without broadband — https://www.2n.com/en-AU/blog/single-family-home-intercom-system-a-complete-guide/
+- Brownstoner forum (3-family owner asking about smart buzzers): smart deadbolts work on the lock side while old mortise locks are released on the latch side; Wi-Fi relays can be added to an existing system's latch contacts if the voltage matches; hardwired systems need a low-voltage pro — https://www.brownstoner.com/forum/general-discussion/smart-buzzer-intercom-advice-3-family
+
+**National cost guides AI answers draw on**
+- HomeAdvisor: national average about $2,500 installed, normal range $1,200–$8,500; wireless $150–$1,500; wired $1,000–$15,000; about 1–2 hours of labor per station; systems last about 20 years, smart systems can date in about 10 — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- HomeServe: total installed $2,085–$2,478; wired labor $1,193–$1,446, about ten hours — https://www.homeserve.com/blog/cost-guide/home-intercom-system
+
+**Local news on entry, mail and packages near Country Club**
+- Oct 15, 2025, ~9:30 p.m.: a Ring doorbell camera recorded a man taking mail from a home's mailbox near Clarence and Randall avenues in Throgs Neck; USPIS and NYPD investigating — https://bronx.news12.com/man-caught-on-camera-stealing-from-mailboxes-in-throgs-neck
+- Dec 2022: packages stolen in daylight from a Throgs Neck home while the family was away, captured on camera — https://bronx.news12.com/local-grinch-caught-on-camera-stealing-packages-from-throgs-neck-home
+- Throgs Neck residents reported multiple car break-ins (headline only) — https://bronx.news12.com/throgs-neck-residents-report-multiple-car-break-ins
+- Not used: villamaria.org school-security page describes a different Villa Maria (East Whiteland, PA), not the Bronx academy — https://villamaria.org/school-security/
+- Reddit threads about intercoms in Country Club: EMPTY
+- Yelp 1–3★ reviews of intercom installers near Country Club: EMPTY
+
+### Questions people ask — Intercom Installation in Country Club
+- How much does it cost to install a home intercom system? — PASF / cost guides — https://www.homeserve.com/blog/cost-guide/home-intercom-system
+- Wired or wireless intercom for a house — which is right? — PASF — https://allsecurityequipment.com/blogs/access-control/wireless-vs-wired-home-intercom-system
+- For a three-family house, should we add a station in each unit or keep the old buzzer and add a smart one? — Reddit-style forum (Brownstoner) — https://www.brownstoner.com/forum/general-discussion/smart-buzzer-intercom-advice-3-family
+- Can I buzz people in remotely from my phone in a small multi-family? — Brownstoner — https://www.brownstoner.com/forum/general-discussion/smart-buzzer-intercom-advice-3-family
+- Can an old wired intercom be upgraded to Wi-Fi without rewiring? — PASF — https://butterflymx.com/blog/upgrade-a-wired-intercom-to-wifi-without-rewiring-your-building/
+- How long does an intercom system last? — HomeAdvisor FAQ — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Do I need an intercom in a single-family home? — HomeAdvisor FAQ — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- What weather rating should an outdoor intercom have near salt water? — PASF — https://www.2n.com/en-AU/blog/ensuring-durability-in-outdoor-intercom-systems/
+- Can one intercom open both a walk gate and a driveway gate? — 2N guide — https://www.2n.com/en-AU/blog/single-family-home-intercom-system-a-complete-guide/
+- Does a new building with eight or more apartments legally need an intercom? — Habitat Magazine — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Is a co-op or landlord responsible for fixing a broken intercom? — Habitat Magazine — same URL
+- Google PAA for "intercom installation Country Club": EMPTY
+- Answer the Public: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
