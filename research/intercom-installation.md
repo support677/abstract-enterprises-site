@@ -3451,3 +3451,53 @@ Note: my search tool doesn't show Google's People Also Ask boxes, related search
 - How do I get my landlord to fix a broken buzzer, and how long does 311 take? — BrickUnderground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
 - Is a broken intercom usually the wiring or user error? — BrickUnderground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
 - Google PAA / PASF / Answer the Public / Bing / DuckDuckGo for "intercom installation Dumbo" — EMPTY
+
+## Columbia Street Waterfront, Brooklyn — /intercom-installation-columbia-street-waterfront-brooklyn-ny (factory research, 2026-11-12)
+
+Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, DuckDuckGo and Yelp could not be queried directly and are marked EMPTY; NYC Open Data (HPD, 311, DOB) was not queried. Several brownstoner/YIMBY pages failed to load and are noted.
+
+### Building stock an intercom job meets here
+- 301 Columbia Street: built 1900, 3 units, 4 floors, low-rise rental, amenities "Video Intercom" and "Walk-up" — https://www.nestseekers.com/Bldg/153987/301-columbia-street-brooklyn-ny-11231-2
+- 213 Columbia Street: 2015 post-war condo, 6 floors, 8 units, amenities "Elevator", "Garden", "Video Intercom" — https://www.nestseekers.com/Bldg/155835/213-columbia-street-brooklyn-ny-11231
+- 161 Columbia Street: new-development condo with 8 apartments (2017 built per facts; "New Development Opened in 2019" per header), 4 floors per facts vs "5-story" in description, bike room, no doorman; no intercom listed — https://www.cityrealty.com/nyc/cobble-hill/161-columbia-street/69075
+- 255 Columbia Street: 13-unit condo built "using the principles of Passive House design", ultra-insulated envelope and heat recovery ventilation; service level "Video Intercom", access "Elevator" — https://dfnyre.com/ListingDetails/2852349/255-Columbia-Street-Columbia-Street-Waterfront-Dist-Brooklyn-NY-11231
+- 255 Columbia Street is listed in Hurricane evacuation "Zone 4", 2014 built, 13 units, 7 stories — https://streeteasy.com/building/255-columbia-street-brooklyn
+- 185 Columbia Street (Columbia and Degraw): six-story, 60-foot building, ten rental units averaging 970 sq ft, 1,146 sq ft of commercial space, main entrance at the northwestern corner; architect Chang Hwa Tan of Tan Architect; developer Hiu M. Cheung via 183-185 Columbia St. LLC — https://newyorkyimby.com/?p=1988859
+- 1 Tiffany Place: "originally constructed in 1921 as a Tiffany warehouse and lamp factory", 70 units, "historic 5-story red brick condominium building", amenities list "Video Intercom" and "Elevator" (doorman entries conflict on the page) — https://www.cityrealty.com/nyc/cobble-hill/1-tiffany-place/41186
+- 29 Tiffany Place: part of the former Herman Behr & Co. Sandpaper Factory; rebuilt 1904 after a 1903 fire (plaque on the building); "converted to residential use in the late 1990s"; "a live-in super, part-time doorman, porter, gym and bike storage"; wood-slatted ceilings and wood beams (Susan De Vries, Brownstoner, Oct 20 2020) — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/columbia-waterfront-district-brooklyn-apartments-for-sale-29-tiffany-place-loft-two-bedroom/
+- 6sqft (Bonnie Clark, Nov 8 2014): "quirky 22-block enclave wedged between Red Hook and the Brooklyn-Queens Expressway"; 25 Carroll Street is a former pasta factory converted into 17 lofts in 2010; 49-53 Summit Street has nine apartments; Columbia Commons has 42 market-rate condos and 94 income-restricted rentals — https://www.6sqft.com/a-neighborhood-revival-brooklyns-columbia-street-on-a-comeback/
+
+### Rules and city data that bear on it
+- ADA Standards 708.2: "The system shall provide both audible and visual signals." 708.3: "Handset cords, if provided, shall be 29 inches (735 mm) long minimum." 708.4 covers "Communications systems between a residential dwelling unit and a site, building, or floor entrance" — https://www.corada.com/documents/2010ADAStandards/708
+- ButterflyMX NYC intercom law summary: MDL 50-a applies to "Class A multiple dwellings with eight or more units that were built or converted after January 1, 1968"; the system must "let residents communicate with visitors at the main entrance and release the entrance door remotely"; buildings with fewer than eight units are "not generally treated the same way under this rule" — https://butterflymx.com/blog/nyc-intercom-law/
+- DHCR Administrative Review, Castaldo, Docket LO410004RT, decided Nov 3 2023: landlord allowed to replace an audio-only intercom with an audio-video system; DHCR noted "The proposed video intercom system would be hard-wired" and "The new system would provide tenants with the ability to see and hear prospective visitors at both building entrances." — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- HPD violations / 311 intercom complaints for the district: EMPTY (not queried)
+- DOB permits for intercom work in the district: EMPTY
+- LPC historic district covering the district: EMPTY (none found)
+
+### Market and cost context
+- HomeAdvisor national guide: "Installing an intercom system costs an average of $2,500, including intercom materials and labor"; normal range $1,200 to $8,500; "about one to two hours per intercom station"; "Most intercom systems will work for about 20 years." — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Brick Underground (Mimi O'Connor, Nov 7 2019): problems usually involve connections at the lobby base, apartment station, door strike or power supply; Daniel Vasquez, Paragon Security and Locksmith: "It's all in the wire connections" and "Intercoms are getting outdated... Now everyone wants more security."; Pete Carmello, Lock and Tech: "A lot of times it's user error"; a five-apartment building can be done in about a day — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- StreetEasy Talk, 12-unit building replacing an old LeeDan intercom: 300_mercer: "Wiring for old systems gets old and trouble prone due to loose connections."; nyc_sport: "we did not want people to be able to open the door from 3,000 miles away on their phone." — https://streeteasy.com/talk/discussion/47104-video-intercom
+- Habitat (Adam Lichtenstein, Choice New York Management, Sept 2021): "At the height of the pandemic, there were packages, multiple packages per day, per unit."; buildings with part-time doormen can add a virtual doorman — https://habitatmag.com/Archive2/391-September-2021/Package-Problem-Virtues-of-a-Virtual-Doorman
+
+### Local conditions that change how the work is done
+- Brooklyn Marine Terminal plan approved by task force Sept 22 2025: about 6,000 apartments, up to 3,800 in the northern sector from Degraw Street to Atlantic Avenue and 2,200 along Atlantic Basin; bus-only paths floated on Columbia Street; Hank Gutman: "It would be governmental malpractice to approve that plan with that much housing in that location."; Simone Kanter for Rep. Dan Goldman: "this is the beginning, not the end, of the process." — https://nyc.streetsblog.org/2025/09/22/government-malpractice-marine-terminal-redevelopment-gets-approval-despite-massive-transportation-concerns
+- Patch (Oct 30 2012): a Columbia Waterfront District dwelling had its exterior peeled off during Sandy — https://patch.com/new-york/carrollgardens/http-carrollgardens-patch-com-articles-sandy-leaves-t1b8db7bec5
+- Local news or Reddit specifically about intercoms in the district: EMPTY
+
+### Questions people ask — Intercom Installation in Columbia Street Waterfront
+- PAA (Google): EMPTY (not accessible)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- Reddit: EMPTY for this district
+- Is a $2,000 estimate reasonable to replace the buzzer/intercom in a three-unit home, or should it be repaired? — Brownstoner forum (nwilcke; $150/hr, 3-hour minimum quoted for troubleshooting) — https://www.brownstoner.com/forum/general-discussion/2000-reasonable-estimate-to-install-new-3-unit-buzzer-entry-intercom-system
+- Is Aiphone worth almost 3x the price of Comelit, and will Comelit last as long? — Brownstoner forum — https://www.brownstoner.com/forum/locksmith-and-security/intercom-system-aiphone-vs-comelit
+- Which video intercom should a 12-unit building choose to replace an old LeeDan system? — StreetEasy Talk — https://streeteasy.com/talk/discussion/47104-video-intercom
+- Can a landlord replace an audio intercom with a video intercom over tenant objections? — DHCR case summary — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- What can tenants do when one holdout tenant blocks a building-wide intercom replacement? — Brownstoner forum (Park Slope) — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/?cpage=2
+- Does my NYC building need an intercom? / What if my building was built before 1968? / Do video intercoms satisfy NYC intercom law? / Can I withhold rent for a broken intercom? — ButterflyMX FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Is it user error or the wiring? Do I need a full system replacement? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- How long do intercom systems last? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
