@@ -309,7 +309,7 @@ LIVE | security-camera-repair-cadman-plaza-brooklyn-ny | Security Camera Repair 
 LIVE | security-camera-repair-canarsie-brooklyn-ny | Security Camera Repair | Canarsie, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-carroll-gardens-brooklyn-ny | Security Camera Repair | Carroll Gardens, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T09:29Z max-burn | security-camera-repair-city-line-brooklyn-ny | Security Camera Repair | City Line, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T09:29Z max-burn | security-camera-repair-clinton-hill-brooklyn-ny | Security Camera Repair | Clinton Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-clinton-hill-brooklyn-ny | Security Camera Repair | Clinton Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T09:42Z max-burn | security-camera-repair-cobble-hill-brooklyn-ny | Security Camera Repair | Cobble Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 TODO | security-camera-repair-columbia-street-waterfront-brooklyn-ny | Security Camera Repair | Columbia Street Waterfront, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-coney-island-brooklyn-ny | Security Camera Repair | Coney Island, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
