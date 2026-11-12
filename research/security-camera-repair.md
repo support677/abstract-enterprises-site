@@ -1095,3 +1095,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Who maintains storefront cameras from a merchant program? — Bklyner — https://bklyner.com/new-security-cameras-installed-newkirk-plaza-via-safe-shopper-initiative
 - Do I need Landmarks approval to replace a camera in a historic district? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - How can a coax camera cable be hidden in an old house? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2011/01/security-camera-1
+
+## DUMBO, Brooklyn — /security-camera-repair-dumbo-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that hit recorders, switches and cameras in DUMBO**
+- Con Edison notice (June 2025, per URL date 2025/6-23): about 68,000 customers in parts or all of Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn, Boerum Hill, Red Hook, Carroll Gardens, Cobble Hill and Fort Greene (plus Governors Island) were asked to conserve energy because of "equipment problems"; "Con Edison has reduced voltage by 8 percent in the area to protect equipment and maintain service as crews make repairs." Customers asked to avoid washers, dryers, microwaves, limit air conditioning, not charge EVs — https://prodcde10.coned.com/about-us/media-center/news/2025/6-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+- Same notice: "The equipment problems in these neighborhoods have no effect on the rest of the Con Edison system"; outages reported at conEd.com/reportoutage or 1-800-752-6633 — same source
+- DUMBO-specific block outage news 2025–2026: EMPTY (Brooklyn-wide outage trackers from News 12 did not name DUMBO)
+
+**Water in cellars (where recorders often sit)**
+- Sept 2019: a 24-inch water main "from 1905" broke on Water Street between Pearl and Jay Streets during DDC's DUMBO street, water and sewer reconstruction; "The buildings along the street were flooded with at least six inches of water" (Doreen Gallo, DUMBO Neighborhood Alliance); Lassen & Hennigs deli at 177 Water St. had sewage in its basement: "Our entire basement looked like Les Miserables — all of Les Miserables," (Chris, business manager); water off from 12:10 p.m., restored around 4 p.m. — https://brooklyneagle.com/articles/2019/09/06/water-main-break-in-dumbo-floods-basements-with-sewage/
+- Same: property owners could file damage claims with DDC and the Comptroller's Office — same source
+
+**Incidents where camera footage mattered (84th Precinct)**
+- Front Street Garage, DUMBO (Jan 24, year not stated in article): around 6:30 a.m. two passengers from a white Range Rover drove off in a 2024 BMW X7 and a 2018 Mercedes-Benz GL left by the valet with keys inside "in line with the garage's policy," worth a combined $155,000; police reviewing parking lot security footage — https://www.brooklynpaper.com/84th-precinct-dumbo-car-heist
+- Same report: construction site at 29 Jay Street, DUMBO (Jan 27): lock on front gate cut between 6 and 7 p.m., about $20,000 / 2,500+ feet of copper wire taken; suspect "caught on surveillance camera fleeing the site in a vehicle"; Sciame Construction reported it — same source
+- Alo Yoga, Front Street (July 9 and 10, 2025): six shirts worth about $380 taken July 9 about 3:20 p.m.; the next day three people took about $6,300 of merchandise and threatened a 25-year-old employee; article does not mention video — https://brooklyn.news12.com/police-nearly-7k-in-merchandise-stolen-in-back-to-back-robberies-at-alo-yoga-in-dumbo
+- DUMBO Market, Front Street (Oct 1, 2025): "The thief was confronted by a 19-year-old employee who demanded the stolen items back"; thief showed a firearm and left on a bicycle toward Washington Street — https://brooklyn.news12.com/thief-wanted-for-stealing-merchandise-from-dumbo-market
+
+**Crowds, the bridge and the street**
+- News 12 (June 1, 2026): residents call Washington Street the "Times Square of Brooklyn"; petition by Jamel Talbi: "There are multiple streets that feed into Washington Street and only one way out."; restaurant owner Patrick Lynn: "turning onto Washington Street, it's a lot of crowds and selfies and cars honking — it gets very hectic."; Lynn estimates at least 50% of his sales come from tourists; Council Member Lincoln Restler proposed a special permitting and event-management zone — https://brooklyn.news12.com/2026/06/01/dumbo-residents-call-for-better-crowd-control-action-plan-ahead-of-world-cup-watch-parties/3osc345VsJkaVuamL80Qkk
+- Change.org petition (Katy Gaul-Stigge, Nov 16, 2025): Manhattan Bridge trains pass "every five minutes during peak hours"; noise often exceeds "OSHA safe noise levels of 90 decibels"; 111 verified signatures; asks for track welding, lubrication, rubber insulation — https://www.change.org/p/reduce-noise-pollution-in-dumbo-from-manhattan-bridge-train
+- Vibration effects on camera mounts in DUMBO: EMPTY (no source; AESS practice only)
+
+**Public housing nearby**
+- NYCHA (Nov 27, 2023): Farragut Houses among 23 campuses with "more than $24.1 million in safety and security upgrades"; upgrades across campuses were "new CCTV cameras, layered access control installations, entrance renovations, and/or lighting improvements" (Farragut's specific items not stated) — https://www.nyc.gov/site/nycha/about/press/pr-2023/pr-20231127.page
+
+**Buildings, boards and tenants**
+- Brick Underground (stolen packages, lobby camera not working): attorney Jeffrey Reich: "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions." and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance."; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent."; no city law requires functioning cameras — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Habitat magazine (Sept 2023): property manager Vikash Shingwani (First Management): "Security cameras are great—we have a couple of them outside the building, one in the vestibule and more in the hallways."; signage in vestibules warning the building is monitored — https://habitatmag.com/Archive2/413-September-2023/Thwarting-Theft
+- LPC permit rules for cameras in historic districts (silo research): no more than two cameras per 25 feet of frontage on small buildings (three on large); attach at mortar joints, plain masonry, wood or metalwork, never through cast iron or decorative surfaces; about ten inches of visible conduit; no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Cost benchmarks and how-to advice seen online**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Reolink repair guide: common problems = blurry images (dirty lens, focus), camera not turning on (faulty cables, damaged wire, power supply failure), inconsistent feed (network, software), faulty night vision (IR); DIY steps include checking voltage with a multimeter, adding a Wi-Fi extender, splicing and waterproofing a cut wire — https://reolink.com/blog/security-camera-repair/
+
+**Empty**
+- DOB permits for camera repair in DUMBO: EMPTY
+- 311 / HPD camera-related complaint data for 11201 DUMBO: EMPTY
+- Reddit threads (r/DUMBO, r/Brooklyn, r/AskNYC) on camera repair in DUMBO: EMPTY (none found)
+- Yelp reviews for camera repair in DUMBO: EMPTY (only Thumbtack/Angi/HomeAdvisor directories returned)
+
+### Questions people ask — Security Camera Repair in DUMBO
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How can I find a security camera repair service near me? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
+- What causes my security camera to stop working? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
+- Can I repair my security camera at home? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
+- The lobby camera has not been working and packages are being stolen. Is there any action tenants can take? — Brick Underground reader question — https://www.brickunderground.com/rent/stolen-packages-security-camera
