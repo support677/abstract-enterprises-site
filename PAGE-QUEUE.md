@@ -912,7 +912,7 @@ LIVE | access-control-installation-brooklyn-chinatown-brooklyn-ny | Access Contr
 LIVE | access-control-installation-brooklyn-heights-brooklyn-ny | Access Control Installation | Brooklyn Heights, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-bruckner-bronx-ny | Access Control Installation | Bruckner, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | access-control-installation-bushwick-brooklyn-ny | Access Control Installation | Bushwick, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T20:39Z max-burn REBUILD | access-control-installation-carroll-gardens-brooklyn-ny | Access Control Installation | Carroll Gardens, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-carroll-gardens-brooklyn-ny | Access Control Installation | Carroll Gardens, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-castle-hill-bronx-ny | Access Control Installation | Castle Hill, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T20:39Z max-burn REBUILD | access-control-installation-clinton-hill-brooklyn-ny | Access Control Installation | Clinton Hill, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-co-op-city-bronx-ny | Access Control Installation | Co Op City, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
