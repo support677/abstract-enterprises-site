@@ -2739,3 +2739,51 @@ Note: the live search budget for this session was used up before new searches co
 - Can my landlord record audio in the hallway? / Is a landlord required to install cameras? — Reddit r/legal — https://www.reddit.com/r/legal/comments/1j02505/is_this_legal_in_ny/
 - How long does a landlord have to keep camera footage in New York? — Outerbridge Law — https://www.outerbridgelaw.com/blogs/legal-rules-on-security-cameras-in-nyc-rentals/
 - What do I do after catching a package thief on my doorbell camera? — Reddit r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1etuphd/package_thief_actually_caught/
+
+## Prospect Park South, Brooklyn — /security-camera-repair-prospect-park-south-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents and conditions where cameras mattered**
+- CBS New York: a robbery in a Prospect Park South apartment building lobby on East 17th Street and Albemarle Road was caught on camera; "Surveillance video from the hallway captured the entire ordeal." A 34-year-old woman was followed into the lobby at 7:30 a.m.; suspect took her iPhone. Resident quote: "When I come in, I have to be looking in the back, and when I open the door, I have to be looking at who is in the elevator or in the lobby," said resident Gricelde Greenidge. (article undated on page; image path 2019) — https://www.cbsnews.com/newyork/news/police-seek-man-after-brooklyn-apartment-lobbery-attack-robbery/
+- 70th Precinct covers Midwood, Fiske Terrace, Ditmas Park and Prospect Park South — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/70th-precinct.page
+- 70th Precinct CompStat, week 11/2/2026–11/8/2026: burglary 80 year to date in 2026 vs 117 in 2025 (−31.6%); robbery 111 vs 168; grand larceny 361 vs 402; petit larceny 1,198 vs 1,278; retail theft 413 vs 618. Full-year burglaries: 3,365 in 1990, 136 in 2025 — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-070pct.pdf
+- Reddit r/Brooklyn thread "Package Theft Getting Out of Hand" mentions Prospect Park South (excerpt only: "Depending on where exactly you are prospect park south can be very nice") — https://www.reddit.com/r/Brooklyn/comments/1j8z12f/package_theft_getting_out_of_hand/
+
+**Power events that hit recorders, switches and cameras (ZIP 11226 includes Prospect Park South)**
+- Nov 6, 2026: a suspected lightning strike caused an outage for 4,843 Con Edison customers as of 10:20 a.m. in ZIPs 11226, 11234, 11236, 11210 and 11203; power largely restored by 11:15 a.m.; Con Ed: "We suspect recent lightning strikes in the area may have caused the disruption, but it remains under investigation"; traffic signals also disrupted — https://www.cbsnews.com/newyork/news/flatbush-brooklyn-power-outage-con-ed/
+- Jan 14, 2026: overhead power wires caught fire on East 48th Street between Church Avenue and Linden Boulevard in East Flatbush just before 3 a.m.; nearly 80 homes without power (overhead distribution in this part of Brooklyn) — https://patch.com/new-york/ditmaspark/power-outage-hits-flatbush-after-overhead-wires-ignite-con-ed
+- Installer guide: surge energy travels through power lines, Ethernet cable and metal conduit into cameras, PoE switches and NVRs even when a strike is blocks away; "some strikes cause latent damage: a switch port that fails weeks later, intermittent camera reboots, or corrupted NVR storage that only surfaces when you search for footage"; recommends protection at the rack power, the head-end network ports and the camera end; "Only protecting the NVR power strip" leaves PoE ports a direct copper path — https://edgebusinesssecuritycameras.com/how-to-protect-your-security-cameras-from-lightning/
+- Reddit user: "Last summer I had a close lightning strike. It ruined my smoke detectors, router, POE switch and one Reolink camera." — https://www.reddit.com/r/reolinkcam/comments/14hrieh/lightningsurge_protection/
+
+**Trees, wildlife and outdoor wear (heavily planted blocks, deep lawns)**
+- NYC Parks: you need a Tree Work Permit to work on or within 50 feet of a street tree; it applies to people, businesses and contractors — https://nyc-business.nyc.gov/nycbusiness/description/tree-work-permit
+- NYC Admin Code §18-129: it is illegal to remove, kill or damage a street or park tree, intentionally or accidentally — https://www.nycgovparks.org/services/forestry/illegal-tree-work
+- 311 accepts tree pruning reports for specific conditions (blocking sidewalk/street, street light, sign, dead branch, hitting building); "DPR does not accept requests for routine maintenance of street trees." — https://portal.311.nyc.gov/article/?kanumber=KA-01794 ; https://on.nyc.gov/TreePruning
+- Squirrels chewing camera cables: Reddit advice "Put cables in metal conduit as close to the camera as you can then a mesh cage around the camera and wires" — https://www.reddit.com/r/reolinkcam/comments/1fhrc6r/how_to_stop_squirrels_from_chewing_off_the_power/
+- Spider webs/insects: "Insects and spider webs near infrared lights can appear extremely large and bright at night" — cause of false motion alerts — https://www.hosafe.com/blog-camera-storage-data-troubleshooting/how-to-reduce-false-motion-alerts-on-outdoor-security-cameras-12006866.html
+
+**Repair vs replace**
+- Rule of thumb from an integrator: if repair costs exceed 50% of the replacement value of that component, replacement is usually better — https://techprosecurity.com/security-articles/security-camera-system-installation/security-camera-repair-vs-replacement-how-to-decide/
+- Reddit r/SecurityCamera: buyer whose house "came with 8 cameras installed (7 exterior, 1 inside garage) and a Swann 8 Channel HD Digital Video Recorder" asks repair or replace — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- CCTVForum: cost to repair fixed cameras "can be a substantial percentage of their replacement cost" — https://www.cctvforum.com/topic/16095-worth-it-to-repair-cameras/
+- Replace the full system when several cameras have failed, recorder and cameras are both outdated, or cabling... (vendor) — https://www.ameritechs.co/post/do-i-need-to-replace-my-security-cameras-or-just-upgrade-the-recorder
+- Lifespan claims vary: one vendor says outdoor cameras last 5 to 10 years; another says average 3–5 years (vendor claims) — https://www.edviston.com/how-long-do-outdoor-cameras-last/ ; https://www.hiseeu.com/blogs/security-camera-faqs/security-camera-lifespan-how-long-they-last-5-ways-to-extend-it
+
+**Yelp**
+- Yelp search "Security Camera Repair near Flatbush, Brooklyn" exists; review text not retrieved — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Flatbush%2C+Brooklyn%2C+NY
+- Yelp complaints about camera repair near Prospect Park South: EMPTY
+
+**Empty**
+- DOB permits for camera work in Prospect Park South: EMPTY
+- 311/HPD camera complaint data for 11226: EMPTY
+- Reddit r/Flatbush, r/DitmasPark threads on camera repair: EMPTY
+
+### Questions people ask — Security Camera Repair in Prospect Park South
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Is it worth repairing a security camera system, or should I replace it? — Reddit / web — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- I bought a house that came with cameras and a DVR; repair or replace? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- How do I stop squirrels from chewing the power cables on my cameras? — Reddit — https://www.reddit.com/r/reolinkcam/comments/1fhrc6r/how_to_stop_squirrels_from_chewing_off_the_power/
+- How do I protect cameras and the NVR from lightning/surges? — Reddit / web — https://www.reddit.com/r/reolinkcam/comments/14hrieh/lightningsurge_protection/
+- Why do spider webs set off my camera's motion alerts at night? — web — https://www.hosafe.com/blog-camera-storage-data-troubleshooting/how-to-reduce-false-motion-alerts-on-outdoor-security-cameras-12006866.html
+- How long do security cameras last? — web — https://reolink.com/blog/how-long-do-cameras-last/
+- How often have you had to replace your cameras? — Reddit — https://www.reddit.com/r/reolinkcam/comments/16hkne7/how_often_have_you_had_to_replace_your_cameras/
+- How do I stop package theft at my Prospect Park South home? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-installation-prospect-park-south-brooklyn-ny
