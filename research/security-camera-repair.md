@@ -1459,3 +1459,47 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - What if someone covers the hallway camera? — News 12 Flatbush building — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
 - How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Do I need Landmarks approval to repair or replace a camera in a historic district? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+## Fulton Ferry, Brooklyn — /security-camera-repair-fulton-ferry-brooklyn-ny (factory research, 2026-11-12)
+
+**Flood history that bears on recorders, switches and cellar equipment**
+- Hurricane Sandy (Oct 2012): a building owner on lower Old Fulton Street pumped out a basement that was "flooded from floor to ceiling with murky seawater"; a restaurateur at 7 Old Fulton Street said "I've been pumping the basement all night" — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+- Same report: One Girl Cookie at Main and Water Streets had at least four feet of water; owner: "We don't have power, so I can't check to see if the equipment is working"; at 1 Main Street a resident said water reached five feet in the lobby and "The whole building is flooded along with the basement"; the super could not get in while the subways were down — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+- Same report: Jane's Carousel's basement "housing the electronics" was flooded with about 5 feet of water; the Conservancy said the impact on the park's electrical rooms was not yet known — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+- One Brooklyn Bridge Park (360 Furman St), Sandy: anonymous forum posts (unverified) say the basement flooded, "The entire buildings main electrical switchgear was submerged during the tidal surge," the fire protection panel was put out of service, elevator use was limited, and full elevator service returned Nov. 5 per an owner-poster. Forum claims only — https://streeteasy.com/talk/discussion/33102-one-brooklyn-bridge-park-hurricane-damage
+- After Sandy, city building code changes meant new park buildings were designed "with all mechanicals and electricity housed above the new flood plain line"; Empire Stores "had its ground floor dug out and replaced with a concrete slab"; the Tobacco Warehouse was built to "wet" flood-proofing standards — https://untappedcities.com/2017/05/23/the-top-10-secrets-of-the-creation-of-brooklyn-bridge-park/7/
+- Bargemusic at Fulton Ferry Landing "appears to have sustained only minimal damage"; metal gates protected its rear picture windows during the storm (WQXR, Oct 30 2012) — https://www.wqxr.org/story/247293-bargemusic-battered-secure-after-hurricane
+
+**Power events (northwest Brooklyn)**
+- June 23 2025: Con Edison asked about 68,000 customers in Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn and other northwest Brooklyn neighborhoods to conserve energy, and lowered voltage by eight percent in a zone running from the East River to 3rd/4th Streets and South Oxford/5th Avenue — https://www.coned.com/en/about-us/media-center/news/2025/06-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+- July 3–4 2026: more than 1,200 Con Edison customers in Brooklyn without power ahead of a hot holiday weekend (borough-wide, not Fulton Ferry specific) — https://brooklyn.news12.com/2026/07/04/over-1200-con-edison-customers-in-brooklyn-without-power-ahead-of-hot-holiday-weekend/6vsYOxZkj3uCDVnCJiFu2i
+
+**Crime and footage near the landing**
+- SpotCrime lists a theft (grand larceny, "GRAND BY FALSE P...") on the 00 block of Old Fulton St on 06/21/2026 at 8:00 PM — https://spotcrime.com/crime/287381536-c4b25b0fda928c993a06a6221ecffa4e
+- DNAinfo, Oct 21 2016: lockers installed at Pier 5 with the 84th Precinct after repeated thefts; on Oct. 14 about 10:30 a.m. a $6,000 Louis Vuitton bag was taken from a park bench at Pier 1; police released a selfie of a thief who took an unattended bag on Pier 5 — https://www.dnainfo.com/new-york/20161021/brooklyn-heights/brooklyn-bridge-park-theft-lockers-police-unattended-bags
+- Brick Underground: "There's no city law requiring rental buildings to have functioning security cameras"; attorney Jeffrey Reich: "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions" and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance." — https://www.brickunderground.com/rent/stolen-packages-security-camera
+
+**Building work and the landing**
+- The Dumbo NYC Ferry stop moved from Pier 1 to Fulton Ferry Landing at the foot of Old Fulton Street after a $4.7 million overhaul, closed April 5 and reopened June 19 (2021); two vessels can now dock at once; it freed Bargemusic to be moved for maintenance — https://www.amny.com/nyc-transit/nyc-ferry-dumbo-reopens-brooklyn/
+- CityRealty: a new brick commercial building at 20 Old Fulton Street went before Landmarks (foundation work begun); Landmarks approved a waterfront pavilion at 1 Water Street replacing the Buzz Bar tent, main restaurant in a 1929 hose shed; a rezoning at 50 Old Fulton Street (Sam's Auto Body) would allow a five-story commercial building; the historic district dates to 1977 so new developments need Landmarks approval — https://cityrealty.com/nyc/market-insight/features/future-nyc/fulton-landing-flourishes-a-look-new-projects-coming-historic-slice-brooklyn039s-waterfront/41001
+
+**Costs**
+- HomeAdvisor, Brooklyn surveillance cameras install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera work in Fulton Ferry: EMPTY
+- HPD / 311 camera complaints for the Fulton Ferry blocks of 11201: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) about camera repair in Fulton Ferry: EMPTY
+- Yelp complaints/praise for camera repair in Fulton Ferry: EMPTY (search returned only directory pages)
+- Local news about a specific camera failure in Fulton Ferry: EMPTY
+
+### Questions people ask — Security Camera Repair in Fulton Ferry
+- PAA: EMPTY (not retrievable)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Does my landlord have to fix a broken building camera after packages are stolen? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Is the equipment still working after the basement flooded? — Brooklyn Eagle (shop owner after Sandy) — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
