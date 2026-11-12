@@ -669,3 +669,45 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "tv installation Bensonhurst": EMPTY
 - Reddit questions: EMPTY
 - Yelp questions: EMPTY
+
+## Bergen Beach, Brooklyn — /tv-installation-bergen-beach-brooklyn-ny (factory research, 2026-11-12)
+
+- Bergen Beach is "a quiet, residential enclave surrounded by water on nearly three sides"; interior housing is mostly "low-rise brick and stucco houses built after World War II"; detached one- and two-family homes with small gardens or backyard patios dominated through the 1970s-80s; near-total absence of apartment towers; Ralph Avenue is the commercial center — https://www.cityneighborhoods.nyc/bergen-beach
+- 2134 E 74th St, Bergen Beach: built 1940, "rare completely brick detached home", "A basement is finished", first floor has "volume ceilings", den off the kitchen, "Private driveway for 3 cars and a detached garage!" — https://www.brownstoner.com/listing/BKMLS-7252750/2134-e-74th-st-bergen-beach-ny-11234
+- 2354 East 71st St, Bergen Beach: built 1970, "Post-War Single Family", "two spacious living areas", "custom crown moldings", "custom-designed backyard oasis" with "a sauna, a built-in BBQ station, a dining area, a seating lounge, and a children's play area" — https://www.bhsusa.com/for-sale/brooklyn/new-york-city/bergen-beach/2354-east-71st-street-new-york-city-ny-11234/RLS20099534-6128830
+- Bergen Beach single-family (Nest Seekers): "restored brick home", "20 ft high Colonial entrance", fireplace, "an additional 2 room finished basement", "radiant heated floors", "a large 7 feet deep heated saltwater pool and sauna" — https://www.nestseekers.com/5579119/tucked-away-in-the-heart-of-bergen-beach-sits-this-elegantly/print/
+- Furman Center, Flatlands/Canarsie (Community District 18, which includes Bergen Beach), 2024: homeownership rate 61.2% vs 32.7% citywide; population 141,873; 75,575 housing units; median household income $90,880 (2025 dollars) — https://furmancenter.org/neighborhoods/view/flatlands-canarsie
+- Providers in Bergen Beach: Verizon fiber 100.00% availability, EarthLink fiber 100.00%, Optimum 99.97% ("the most widely available provider"), T-Mobile Home Internet 99.97%, DISH and DIRECTV satellite 100%; 7 residential internet providers — https://bestneighborhood.org/fiber-tv-and-internet-bergen-beach-brooklyn-ny/
+- Georgetowne Shopping Center on Ralph Ave: 147,000 sq ft on nine acres with surface parking, anchors Fairway Market and Five Below, plus Starbucks and Chipotle; bought by Federal Realty for $83.7 million (reported Dec 17, 2019) — https://www.nyrej.com/federal-realty-investment-trust-acquires-georgetowne-shopping-center-for-83-7-million
+- Angi, Brooklyn TV mounting: average $280, typical range $172-$376, low to high $100-$670; intake asks "What is the surface the TV will be mounted on?" and "Please describe the wall and ceiling access." — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- TaskRabbit Brooklyn: "TV mounting in Brooklyn starts at $45 per hour and will vary from Tasker to Tasker"; one Tasker lists "Minimum booking: 2 hours (even for quick jobs)"; cable management and facade drilling take longer; site says "Taskers can typically mount a TV on any surface" and to check with HOA or landlord — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Thumbtack national: "The national average price for television mounting services ranges between $100 and $130"; brick, stone or concrete costs more than drywall or plaster; example adds $99 for a brick wall; fireplace mount with hidden wires $179-$249 — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Best Buy / Geek Squad New York: "basic or premium mounting service"; for a TV above a fireplace the agent brings "the right tools to attach the TV mount to the brick"; no prices listed on regional page — https://www.bestbuy.com/site/regional-services/new-york-ny/tv-mounting-installation
+- Brownstoner forum (old Brooklyn house, TV above fireplace): "In my house the fireplaces are on the party walls with no studs, just plaster over brick"; height "invites a sore neck"; heat from a working fireplace raised as a concern; stud finders work poorly on plaster — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- MantelMount: brick — "Mortar joints are much softer than the bricks themselves", drill brick faces with a hammer drill and sleeve anchors; plaster — "Plaster is brittle; always pre-drill and let the anchors do the work"; metal studs strip wood screws, use toggles; "make sure the total anchor capacity is at least four times the TV's weight." — https://www.mantelmount.com/blogs/news/how-to-mount-a-tv-on-metal-studs-brick-concrete-plaster
+- MantelMount on patios: indoor TVs outside are "not recommended by television manufacturers" because of "exposure to both water and wind"; "reinforce wires with conduit or a drip loop"; for long-term outdoor use "having a weatherized TV is vital." — https://www.mantelmount.com/blogs/news/do-you-need-outdoor-tv-for-covered-patio
+- NEC 400.12(5): flexible cords and power-supply cords "are not permitted to be concealed by walls, floors, or ceilings, or located above suspended or dropped ceilings" — https://www.ecmweb.com/national-electrical-code/qa/article/21216469/code-qa-where-can-you-not-use-flexible-cords-and-flexible-cables
+- Flooding: News 12 "Bergen Beach neighbors fed up with ongoing flooding woes" (Apr 12, 2021) — https://bronx.news12.com/bergen-beach-neighbors-fed-up-with-ongoing-flooding-woes ; NYC hazard plan: basements "are not allowed" in new or substantially improved structures in V and A zones of the 1% floodplain — https://www.nyc.gov/assets/em/downloads/pdf/hazard_mitigation/nycs_risk_landscape_chapter_4.3_flooding.pdf
+- Power: News 12, July 4, 2026 — "More than 1,500 customers in Brooklyn are without electricity"; Con Edison "reduced voltage in parts of the city to help protect the electric system during the heat wave" (no neighborhood named) — https://brooklyn.news12.com/2026/07/04/brooklyn-outage-tracker-more-than-1700-customers-still-without-power/3EKmUuQLxQ0QiIDYobbh61
+- HPD violations, 311 complaints, DOB permits specific to TV installation in Bergen Beach — EMPTY
+- LPC landmark rules in Bergen Beach — EMPTY (no historic district found)
+- Reddit threads about TV mounting in Bergen Beach — EMPTY
+- Yelp complaints about TV installers near Bergen Beach — EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo SERP features — EMPTY (no SERP feature data retrievable)
+
+### Questions people ask — TV Installation in Bergen Beach
+- How much does it cost to mount a TV in Brooklyn? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can I mount my TV on a brick or concrete wall? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- What services are included in TV mounting? — TaskRabbit FAQ — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Can you mount a TV over a fireplace? — TaskRabbit FAQ / Thumbtack — https://www.taskrabbit.com/locations/brooklyn/wall-mount-tv
+- Are TV wall mounts universal? — Thumbtack — https://www.thumbtack.com/question/how-much-does-it-cost-to-mount-a-tv-326055994337067113
+- Can a TV mounting service also install a home theater system? — Thumbtack — same URL
+- Can you mount a TV without studs? — Thumbtack — same URL
+- How do I hide the wires to my wall-mounted TV? — Thumbtack — same URL
+- How high should you install a TV mount on a wall? — Thumbtack — same URL
+- What type of TV mount do I need? — Thumbtack — same URL
+- What is the surface the TV will be mounted on? — Angi intake — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- What kind of special features are you interested in? — Angi intake — same URL
+- Does a TV above a fireplace need the mantel for support, and will heat hurt it? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/mount-tv-above-fireplace
+- How do you find studs behind plaster? — Brownstoner forum — same URL
+- Can an indoor TV go on a covered patio? — MantelMount — https://www.mantelmount.com/blogs/news/do-you-need-outdoor-tv-for-covered-patio
