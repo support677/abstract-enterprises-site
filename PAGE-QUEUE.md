@@ -900,7 +900,7 @@ LIVE | tv-installation-wyckoff-heights-brooklyn-ny | TV Installation | Wyckoff H
 REBUILD | tv-installation-kingsbridge-heights-bronx-ny | TV Installation Kingsbridge | Heights, Bronx | up /tv-installation-kingsbridge-bronx-ny | (646) 490-0629 | GBP Bronx
 
 # REBUILD batch 2026-10-25 (factory): template clones (20%+ phrase overlap with a sibling) that do NOT rank top-20 for their own title keyword (Firecrawl, NYC). Pages that rank were left alone per Anwar.
-BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-bath-beach-brooklyn-ny | Access Control Installation | Bath Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-bath-beach-brooklyn-ny | Access Control Installation | Bath Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-bathgate-bronx-ny | Access Control Installation | Bathgate, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-baychester-bronx-ny | Access Control Installation | Baychester, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T15:08Z max-burn REBUILD | access-control-installation-bedford-stuyvesant-brooklyn-ny | Access Control Installation | Bedford Stuyvesant, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
