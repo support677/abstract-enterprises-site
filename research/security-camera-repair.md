@@ -3023,3 +3023,75 @@ Note: live web search was unavailable for this build. Every finding below is a s
 - Can my store share its camera feed with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
 - How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Does a camera repair technician need a license in New York? — NYC Business portal — https://ar.nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+
+## Wingate, Brooklyn — /security-camera-repair-wingate-brooklyn-ny (factory research, 2026-11-12)
+
+Live web search was unavailable for this run; every finding below is carried from sourced findings already saved in the site's research files (door-buzzer-installation, door-buzzer-repair, alarm-installation and security-camera-repair research), each with its original source URL. Anything not found is marked EMPTY.
+
+**Building stock and system generations that shape camera repair in Wingate**
+- NYC PLUTO, residential lots inside the rectangle Empire Blvd–Winthrop St × New York Ave–Troy Ave: 941 residential lots, 5,507 units; two-family 340 lots (680 units), walk-ups 274 (1,306 units), one-family 234, condo lots 33 (438 units), elevator buildings 32 (2,777 units), mixed-use 24 (63 units); 448 lots built 1920–39, 160 before 1920, 158 in 1940–59, 20 in 1960–89, 103 in 1990–2009, 51 in 2010 or later (rectangle catches some hospital-campus lots) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- 558 Empire Blvd is a 2-story, 4-unit house built in 1923; nearby listings include 448 Empire Blvd (1924) and 604 Midwood St (1931) — https://streeteasy.com/building/558-empire-boulevard-brooklyn
+- 486 Brooklyn Ave: pre-war elevator building, 107 units, 6 stories, built 1930; renovated lobby, resident super, three elevators — https://streeteasy.com/building/486-brooklyn-avenue-brooklyn
+- 378 Rutland Rd is described in a listing as a four-family brick building on a quiet, tree-lined block — https://www.apartments.com/rutland-road-brooklyn-ny-unit-1f/4tx0d0l/
+- Recent infill on the same blocks: 401 Rutland Rd is a 22-unit, 6-story condo built in 2019 — https://streeteasy.com/building/the-rutland
+- 698 Empire Blvd is a 27-unit, 8-story rental built in 2021 — https://streeteasy.com/building/698-empire-boulevard-brooklyn
+- 537 Brooklyn Ave ("Maple Crown Condominium") is a 7-story condo listed as built in 2026 — https://miltoncoste.com/for-sale/2br-condo-wingate-537-brooklyn-avenue-apt-4c-rls20066077
+- 665 Rutland Rd (Albany–Troy) is a Renaissance Revival row house, one of two older buildings on a block of "new construction brick Fedders houses" (2011) — https://www.brownstoner.com/architecture/building-of-the-day-665-rutland-road
+- CAMBA Gardens was developed on the campus of Kings County Hospital in Wingate with NYC Health and Hospitals; 560 Winthrop Street, 11203 — https://camba.org/programs/supportive-housing-developments/
+- CAMBA Gardens Phase II: "CAMBA provides 24/7 front desk security and on-site social services" — https://thenyhc.org/projects/camba-gardens-phase-ii-health-housing/
+- A broker-style source says about 80% of Wingate residents rent, so the landlord or management usually decides on building repairs — https://maidmarines.com/brooklyn/wingate
+
+**City data that bears on entry cameras and door stations**
+- HPD Housing Maintenance Code violations (dataset wvxf-dwi5), queried Nov 11 2026: since Jan 1 2025, 28 intercom violations inside the Wingate rectangle (24 class B, 4 class A); 560 Winthrop St had 7 (1st to 9th stories), 584 Maple St 3, 601 Albany Ave 2 (both "not complied with"), 690 Albany Ave 1 (Nov 3 2026, "intercom system leading from front desk to apartment"), 474 Brooklyn Ave 1 ("secure the loose intercom panel") — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- NYPD complaint data (qgea-i56i), same rectangle, burglaries 2021–2025: 66 records; 38 residential (28 apartment house, 10 house); 19 of the 38 residential burglaries began between 9 a.m. and 5 p.m.; 65 of 66 in the 71st Precinct — https://data.cityofnewyork.us/resource/qgea-i56i.json
+- The 71st Precinct "contains the southern portion of Crown Heights, Wingate, and Prospect Lefferts"; station house 421 Empire Blvd 11225 — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/71st-precinct.page
+- Brooklyn Community Board 9 serves Crown Heights South, Prospect Lefferts Gardens, Wingate and portions of North Flatbush; office at 890 Nostrand Avenue — https://www.nyc.gov/site/brooklyncb9/about/maps.page
+- LPC historic district inside Wingate: EMPTY (none found; Lefferts Manor is in neighboring PLG) — https://maidmarines.com/brooklyn/wingate
+- DOB permits for camera work in Wingate: EMPTY
+- 311 complaint counts about cameras in 11203/11225: EMPTY
+
+**Local incidents and resident posts where cameras mattered**
+- Nextdoor, Wingate – Troy-Utica: a resident posted that the same person stole their Blink doorbell camera twice (unverified neighbor claim) — https://nextdoor.com/neighborhood/wingate--brooklyn--ny/
+- Nextdoor, Wingate Park area: a resident warned that two people in plain clothes came to their Maple Street building claiming to be police investigating burglaries, showing no uniform or ID (unverified) — https://api.us.nextdoor.com/neighborhood/wingate--brooklyn--ny/
+- DNAinfo, Jul 21 2016 (71st Pct blotter): two women broke a window from a fire escape at 501 New York Ave around 1 p.m. and were arrested — https://www.dnainfo.com/new-york/20160721/crown-heights/crime-blotter-hammer-wielding-women-caught-red-handed-brooklyn-break-in.amp
+- Wingate-specific news about camera failures or camera repair: EMPTY
+
+**Footage, police and tenants (citywide rules that apply here)**
+- Ring ended its "Request for Assistance" tool in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; city buildings aren't required to have functioning cameras (attorney Jennifer Rozen); attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- NYPD camera registration ("Connect New York"): registration tells NYPD where cameras are; integration gives real-time access; no cost to businesses — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- NYS license required to install or maintain security systems (NYS Department of State) — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- 19 NYCRR 195.2 covers CCTV used for detection or monitoring of intrusion, break-in or theft — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- NY Labor Law 203-C: employers must post notice of video monitoring and obtain written acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Tenant Data Privacy Law (Local Law 63 of 2021) applies to multiple dwellings that use smart access systems — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+
+**Repair practice and failure causes**
+- Reolink guide: common causes of video loss are inadequate power (loose connections, faulty PoE switch or injector, long cables), surges and lightning, weak Wi-Fi, IR cut filter faults, recorder/camera compatibility with mixed brands, damaged or chewed cables, firmware faults and IP address conflicts — https://reolink.com/blog/video-loss-on-security-camera/
+- NYC DOI (Mar 26 2025): 44 of 63 NYCHA senior buildings had CCTV cameras that could not be viewed remotely, from "outdated or incompatible software or hardware causing login, connection, and data storage issues" and damage — https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
+- Council hearing (Apr 15 2025): NYCHA aims to repair a reported-down camera in 24 to 72 hours; vandalism is typically spray paint or cracked housings; it replaces camera heads — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+- Reddit r/SecurityCamera: "Western digital purple or seagate Skyhawks are good. regular HDDs will fail" — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Reddit r/NYCapartments: "Landlord removed all cameras to reduce cost and now packages are getting stolen and experiencing unauthorized entry" — https://www.reddit.com/r/NYCapartments/comments/1qbp1on/landlord_removed_all_cameras_to_reduce_cost_and/
+- Flatbush apartment building (Jul 2025, Flatbush not Wingate): tenants' footage showed a man covering a hallway camera lens two days in a row — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Impera Security (NYC): diagnostic service call $250 (competitor pricing, not AESS) — https://www.imperasecurity.com/security-camera-repair
+
+**Yelp / Reddit (Wingate)**
+- Yelp complaints about camera repair near Wingate: EMPTY (search page lists security businesses only) — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Wingate%2C+Brooklyn%2C+NY
+- r/Brooklyn / r/AskNYC threads about camera repair in Wingate: EMPTY
+
+### Questions people ask — Security Camera Repair in Wingate
+- PAA: EMPTY; PASF: EMPTY; AnswerThePublic: EMPTY; Bing-only / DuckDuckGo-only: EMPTY (no live search this run)
+- Can I make my landlord show me the building's camera footage? — Reddit — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- My landlord removed the building cameras; what can tenants do? — Reddit — https://www.reddit.com/r/NYCapartments/comments/1qbp1on/landlord_removed_all_cameras_to_reduce_cost_and/
+- Should I repair or replace an old camera system? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Which hard drive should go in a recorder? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Why is my camera showing no video while its lights are on? — vendor guide — https://reolink.com/blog/video-loss-on-security-camera/
+- Why do cameras drop out when brands are mixed on one recorder? — vendor guide — https://reolink.com/blog/video-loss-on-security-camera/
+- Why can't my cameras be viewed remotely anymore? — DOI report — https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
+- Can police still get my doorbell video after Ring ended requests? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- My doorbell camera was stolen off the door; what now? — Nextdoor — https://nextdoor.com/neighborhood/wingate--brooklyn--ny/
+- How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Does the person repairing my cameras need a license in New York? — NYC Business — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+- Do I have to tell employees about workplace cameras? — Low Voltage Nation — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
