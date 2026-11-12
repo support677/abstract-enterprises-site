@@ -349,7 +349,7 @@ LIVE | security-camera-repair-ocean-parkway-brooklyn-ny | Security Camera Repair
 LIVE | security-camera-repair-park-slope-brooklyn-ny | Security Camera Repair | Park Slope, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-prospect-heights-brooklyn-ny | Security Camera Repair | Prospect Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-prospect-lefferts-gardens-brooklyn-ny | Security Camera Repair | Prospect Lefferts Gardens, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-prospect-park-south-brooklyn-ny | Security Camera Repair | Prospect Park South, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-prospect-park-south-brooklyn-ny | Security Camera Repair | Prospect Park South, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-remsen-village-brooklyn-ny | Security Camera Repair | Remsen Village, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-ridgewood-brooklyn-ny | Security Camera Repair | Ridgewood, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T02:06Z max-burn | security-camera-repair-sea-gate-brooklyn-ny | Security Camera Repair | Sea Gate, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
