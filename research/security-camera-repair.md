@@ -750,3 +750,62 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Multiple users and account permissions (can managers see selected cameras?) — vendor page — https://www.imperasecurity.com/security-camera-repair
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Can someone repair my security camera today in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+## Brooklyn Chinatown, Brooklyn — /security-camera-repair-brooklyn-chinatown-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that hit recorders, PoE switches and cameras**
+- June 25, 2025: Con Edison reported about 2,200 Brooklyn customers with power problems; Borough Park, Bay Ridge, Dyker Heights, Sunset Park and Williamsburg were hardest hit. Some buildings kept power at reduced levels because Con Ed was intentionally lowering voltage to protect equipment; residents reported dim lights and streetlights out at major intersections — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- Con Edison asked customers in southwest Brooklyn to conserve energy (June 24, 2025) — https://prodcde10.coned.com/about-us/media-center/news/2025/06-24/con-edison-asks-customers-in-southwest-brooklyn-to-conserve-energy
+- July 4, 2026: over 1,200 Con Edison customers in Brooklyn without power ahead of a hot holiday weekend (neighborhood list not confirmed for Sunset Park) — https://brooklyn.news12.com/2026/07/04/over-1200-con-edison-customers-in-brooklyn-without-power-ahead-of-hot-holiday-weekend/6vsYOxZkj3uCDVnCJiFu2i
+
+**Local incidents where camera footage mattered (Sunset Park / Eighth Avenue)**
+- Lucky 8 Restaurant on 8th Avenue in Brooklyn, Aug. 7, 2020 around 8:40 a.m.: the suspect "allegedly got inside through a back door, then opened the cash register and another locked drawer and took $600"; police released surveillance footage of a man taking money from the register (article does not give a street number) — https://cbsnews.com/amp/newyork/news/man-caught-on-camera-taking-money-from-cash-register-in-brooklyn-burglary-nypd-says
+- King Mei Supermarket, 5101 Sixth Ave., Sunset Park, June 28, 2019 about 4 a.m.: two men cut the locks on the front gates with a bolt cutter and pried the front door; took $200 in lottery tickets and $3,000 cash; "The two thieves were caught on surveillance video removing the locks on the front gates." — https://patch.com/new-york/sunset-park/video-sunset-park-thieves-cut-supermarket-door-open-steal-3k
+- 2nd Avenue near 41st Street, Sunset Park, June 11, 2024: two men forced their way into a business and took about $8,000 from a desk (article does not mention video) — https://brooklyn.news12.com/suspects-steal-8000-from-sunset-park-business-police-say
+- Las Gardenias Supermarket (5th Ave) and Ocean Eats (4th Ave), Sunset Park, Oct. 16 and about Oct. 21: one suspect tied to several burglaries; at Ocean Eats he "got away with the cash register and $1,000" (year not stated) — https://newyork.news12.com/suspect-on-the-run-after-stealing-money-merchandise-from-2-sunset-park-stores
+- A suspect forced his way through the front door of a home at 53rd Street and 8th Avenue on June 26 (2026), $10K taken — https://brooklyn.news12.com/man-wanted-for-stealing-10k-in-sunset-park-home-burglary
+
+**Merchant safety history on Eighth Avenue**
+- CBS New York (May 22, 2026): Paul Mak founded the Brooklyn Chinese-American Association in 1988; in 1990 it petitioned the NYPD for a bilingual officer. Mak: "His job was really walking along Eighth Avenue, outreaching to the local merchants and really hearing their complaints." The group ran a crime-victim hotline with translation. Chinese immigrants moved to Eighth Avenue in the 1980s; today it has dozens of storefronts, community organizations and social service providers — https://www.cbsnews.com/newyork/news/brooklyn-chinese-american-association-sunset-park-safety/
+
+**Landmarks (LPC) — where the historic districts actually are**
+- LPC designated four Sunset Park historic districts on June 18, 2019: Sunset Park South (54th–59th Streets between 4th and 5th Avenues, ~285 buildings); Sunset Park 50th Street (50th Street between 4th and 5th Avenues, two rows of 25 houses); Central Sunset Park (47th and 48th Streets between 5th and 6th Avenues, and both sides of 6th Avenue between 47th and 49th Streets, ~148 buildings); Sunset Park North (south side of 44th Street between 5th and 7th Avenues, ~56 buildings). None of the four reaches Eighth Avenue — https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-four-historic-districts-in-sunset-park.page
+- LPC Permit Guidebook ch. 11 (applies only inside districts/landmarks): cameras well spaced, attached at mortar joints/plain masonry, not on decorative surfaces; ordinary maintenance and repair of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Storefront gates (affects what in-window cameras see at night)**
+- A 2009 NYC law requires roll-down gates to be at least 70% transparent; DOB enforcement was set for July 1, 2026, by 311 complaint only — https://brooklyn.news12.com/new-rule-old-law-enforcement-set-to-begin-for-legislation-over-certain-roll-down-gates
+- NY1, July 2, 2026: the City Council unanimously voted to repeal the July 1, 2026 deadline; under the bill a business must install a compliant gate "when it already has to replace its gate for other reasons"; DOB said the law "does not change permit requirements for installing security grilles"; bill sent to Mayor Zohran Mamdani — https://ny1.com/nyc/all-boroughs/news/2026/07/02/city-council-votes-to-repeal-deadline-for-new-roll-down-security-gates
+
+**Police camera programs**
+- NYPD/City retail-theft pilot: businesses can opt in to link video surveillance to the NYPD in real time; free; "none of this is mandatory"; "the times the NYPD has access to cameras can be customized"; started in Queens, $1.5 million to expand to nine more precincts (not named; 72nd Precinct inclusion: EMPTY) — https://www.cbsnews.com/newyork/news/nypd-to-fight-rising-retail-theft-with-surveillance-video-monitoring-program-heres-how-it-works/
+- Sunset Park is covered by the NYPD 72nd Precinct — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/72nd-precinct.page
+
+**Equipment rules (Hikvision/Dahua common on avenue storefront systems)**
+- Security Sales, Nov. 28, 2022: FCC adopted rules barring Hikvision and Dahua equipment from new authorization for import or sale in the U.S. under the Secure Equipment Act of 2021; Dahua said the order "does not affect products that are already authorized"; FCC "seeking comment on future action related to existing authorizations" — https://www.securitysales.com/news/fcc-bans-new-equipment-sales-hikvision-dahua/148053/
+
+**Camera maintenance benchmark (city)**
+- City Council public-housing hearing, April 15, 2025: Council Member Chris Banks cited a DOI report that "70% of the CCTV cameras at senior buildings were inoperable or inaccessible"; NYCHA said it aims to repair a down camera within 24 to 72 hours and that some systems are standalone and not networked — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Tenants and footage**
+- Brick Underground: landlords and tenants on package-thief footage and camera access — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+
+**Empty**
+- DOB permits for camera repair in Brooklyn Chinatown (11220/11232): EMPTY
+- 311 / HPD complaint data on cameras for 8th Avenue blocks: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC, r/BrooklynChinatown) on camera repair in Sunset Park: EMPTY
+- Yelp reviews for camera repair on 8th Avenue: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+- Chinese-language camera apps or bilingual recorder menus in local news: EMPTY
+- Whether the 72nd Precinct is in the NYPD real-time camera pilot: EMPTY
+
+### Questions people ask — Security Camera Repair in Brooklyn Chinatown
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live result pages not retrievable)
+- Reddit questions: EMPTY
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Does the FCC's ban impact your existing surveillance system? — vendor blog heading — https://dilse.it/does-the-fccs-recent-ban-impact-your-surveillance-system/
+- Why are my security cameras not working? — Brinks Home heading — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
+- Why did the hard drive in my DVR get corrupted? — TechRepublic forum — https://www.techrepublic.com/forums/discussions/why-hdd-in-dvr-of-security-cameras-got-croupted/
+- Why should I be specific when reporting a security camera issue? — Swann support — https://support.swann.com/hc/en-us/articles/52558222891417
