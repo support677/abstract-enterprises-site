@@ -3376,3 +3376,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/intercom-installation-co-op-city-bronx-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/sonos-installation-morris-park-bronx-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-country-club-bronx-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-mount-eden-bronx-ny | QUEUED
