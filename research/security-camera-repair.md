@@ -1047,3 +1047,51 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Is that new camera on the block a Flock camera or normal CCTV? — Reddit — https://www.reddit.com/r/crownheights/comments/1vqgur9/flock_camera_or_normal_cctv/
 - Does anyone nearby have camera footage of a hit and run? — Reddit — https://www.reddit.com/r/crownheights/comments/1x040og/hit_run/
 - Repair or replace a camera system that came with the house? — Reddit r/SecurityCamera — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+
+## Ditmas Park, Brooklyn — /security-camera-repair-ditmas-park-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- CBS New York, July 13, 2012: Ditmas Park burglaries; surveillance cameras recorded the break-in at the Picket Fence restaurant on Cortelyou Road around 7 a.m. on a Monday (Connecticut Muffin on Cortelyou Road was also burglarized); the video is described as clear, showing a young person with a backpack; at least six homes on Westminster Road were broken into during the afternoon over three months; Picket Fence manager Ram Bisht: "It's getting a little bit scary because if we're getting robbed like in daylight?"; resident Ahmer Qadeer: "It's certainly scary." — https://www.cbsnews.com/newyork/news/brooklyn-residents-on-edge-with-burglar-striking-in-broad-daylight/
+- Ditmas Park Corner / Bklyner, June 28, 2012 (Mary Bakija), 70th Precinct on rising burglaries: Captain Ebony Washington: "Every burglary we respond to, we try to look for surveillance."; incidents listed on Westminster between Beverley and Cortelyou (daytime burglary, resident hurt), DeKoven near Rugby, Argyle; in South Midwood four burglaries where "the burglar entered through an unlocked first floor window"; advice included lighting the home's perimeter and keeping shrubbery trimmed — https://bklyner.com/the-70th-precinct-addresses-increasing-incidents-of-burglary-ditmas-park
+- CBS New York, April 2016: a skateboarding package thief "caught on surveillance video" took a package from Robert Tolchin's porch in Ditmas Park just after noon on March 29 (box later found on a neighbor's lawn); a second theft on Buckingham Road at Albemarle in Prospect Park South, box hidden behind a porch chair; NYPD encourages residents to file a report, "especially if the thief is caught on surveillance video." — https://www.cbsnews.com/newyork/news/brooklyn-skateboard-robberies
+- Bklyner, Nov 20 2018: building near Cortelyou Road and Stratford Road reported over 100 packages missing in six months; management installed a camera in the mail area after residents pressed (already in neighborhood background pack) — https://bklyner.com/a-thief-or-bad-postal-service-packages-are-missing-in-ditmas-park
+- Fox 5 NY (2025): a suspect broke into four Brooklyn businesses through the roof and tried a fifth, including 302 Church Avenue (about $7,500 taken) and an attempt at 1188 Flatbush Avenue on Oct. 11; police shared surveillance images from the break-ins (Flatbush/Kensington/Bed-Stuy — near but not inside Ditmas Park) — https://www.fox5ny.com/news/4-brooklyn-businesses-robbed-after-suspect-breaks-through-roof
+
+**Newkirk Plaza merchants and cameras**
+- Bklyner, May 18 2017 (Carly Miller): "Safe Shopper" street-facing cameras installed at Newkirk Plaza storefronts, including Almac Hardware at 2 Newkirk Plaza; "The program allocates $2,500 for the street-facing cameras at storefronts"; businesses are responsible for "maintenance, upkeep, repair, and registration"; merchant association president Javier Saez: "We have already helped in the investigation of three crimes, one of them being solved when the guy got captured." — https://bklyner.com/new-security-cameras-installed-newkirk-plaza-via-safe-shopper-initiative
+- Bklyner, Oct 30 2019 (Katie Herchenroeder): Newkirk Plaza merchants sought private security after robberies; Smoke Shop & Vape owner Michael Terry used his own cameras, ones "he pays for", after an after-hours robbery; Liberty Chemists employee held at gunpoint; Saez: "Once in a blue moon doesn't cut it. We need consistency." — https://bklyner.com/newkirk-plaza-is-looking-to-get-private-security-after-a-string-of-robberies-and-a-decline-in-police-presence
+
+**Camera density**
+- Patch Ditmas Park, Feb 15 2022, citing Amnesty International's Decode Surveillance NYC map: the map "documents a high number of them in Flatbush, but very few in Ditmas Park" — https://patch.com/new-york/ditmaspark/surveillance-cameras-flatbush-fund-small-synagogues
+
+**Power events nearby that hit recorders, switches and cameras**
+- News 12, Aug 13 2025: storm brought down live wires in Flatbush near 4022 Avenue J; outage reported about 7:08 p.m.; FDNY responded to a transformer and wires on fire; repairs expected about 2:30 a.m. — https://brooklyn.news12.com/storm-knocks-out-power-in-flatbush-crews-work-to-restore-service
+- News 12, Aug 14 2025: "Over 5,600 customers in the Midwood area, especially, lost service" after weather downed power lines; service failed just after 7 p.m. and was restored by 10:37 p.m. — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- News 12, June 25 2025: about 2,200 Brooklyn customers affected; Con Edison lowering voltage: "In some cases, the power isn't fully out—but it's running lower than usual." (hardest hit Borough Park, Bay Ridge, Dyker Heights, Sunset Park, Williamsburg) — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- News 12, Dec 29 2025: 852 Brooklyn customers without power, most outages weather-related; snowmelt mixed with road salt "can seep into underground electrical equipment and cause damage" — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+
+**Landmark rules (Ditmas Park has historic districts)**
+- Brooklyn Paper: LPC unanimously approved the Ditmas Park West Historic District (127 houses, just west of the Ditmas Park Historic District; Argyle and Westminster Roads) and the Beverley Square West Historic District (118 houses, three blocks between Beverley and Cortelyou Roads incl. Rugby Road) after an October 21 hearing; LPC Chair Angie Masters: "These harmonious historic streetscapes are well preserved and still evoke the time of their construction" — https://www.brooklynpaper.com/flatbush-historic-districts-approved-landmarks-vote
+- NY YIMBY dated the designation December 2025 (URL /2025/12/lpc-designates-two-new-historic-districts-in-flatbush-brooklyn) — https://newyorkyimby.com/2025/12/lpc-designates-two-new-historic-districts-in-flatbush-brooklyn.html
+- LPC Permit Guidebook ch. 11: cameras well spaced; no more than two per 25 ft of frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork, not decorative surfaces; about ten inches of visible conduit max; ordinary maintenance and repair of safety equipment needs no permit; in-kind replacement needs cut sheets — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Houses and wiring**
+- Brownstoner "The Insider": an "early 20th century freestanding house" in Ditmas Park after "an extensive bathroom leak" ruined plaster ceilings and floors; "all the electrical had to be replaced" — https://www.brownstoner.com/interiors-renovation/brooklyn-victorian-flood-modern-renovation-jam-architecture
+- Brownstoner forum (2011, Sunset Park house, general Brooklyn advice): coax for wired systems is "a bit too thick to be hidden around moldings," so it runs through ceilings or walls — https://www.brownstoner.com/forum-archive/2011/01/security-camera-1
+
+**Recovery after outages (technical)**
+- Security Wholesalers guide: causes after an outage include "Router/switch/NVR started in the wrong order", "HDD reports an abnormal state", "Time/NTP was lost", "Power supply, UPS or PoE budget is unstable"; "Repeated power cycling can worsen storage and power faults"; "Confirm NVR time, HDD state and PoE camera status before testing the app." — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+
+**Empty**
+- DOB permits for camera repair in Ditmas Park: EMPTY
+- 311 / HPD complaint data specific to cameras in 11226/11218/11230: EMPTY
+- Reddit threads (r/DitmasPark, r/Brooklyn, r/AskNYC) on camera repair here: EMPTY
+- Yelp reviews for camera repair in Ditmas Park/Flatbush: EMPTY (search returned only Thumbtack/Angi/HomeAdvisor directories)
+
+### Questions people ask — Security Camera Repair in Ditmas Park
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why do cameras not come back after a power outage? — vendor guide — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- Should I report a package theft if the thief is on my camera? — CBS / NYPD advice — https://www.cbsnews.com/newyork/news/brooklyn-skateboard-robberies
+- Who maintains storefront cameras from a merchant program? — Bklyner — https://bklyner.com/new-security-cameras-installed-newkirk-plaza-via-safe-shopper-initiative
+- Do I need Landmarks approval to replace a camera in a historic district? — LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- How can a coax camera cable be hidden in an old house? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2011/01/security-camera-1
