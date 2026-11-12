@@ -2319,3 +2319,62 @@ Note: the live web-search budget was used up before this page's own searches cou
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - What have people in Brooklyn found effective to prevent package theft? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/
 - How do you report a package theft caught on camera in an apartment building? — Reddit — https://www.reddit.com/r/Brooklyn/comments/us04dr/package_theft_in_apartment/
+
+## Ridgewood, Brooklyn — /security-camera-repair-ridgewood-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live web-search budget for this run was used up before any new search could run, so this pack is assembled only from sources already read and recorded in earlier Ridgewood and silo research (URLs as recorded there). Nothing below is new; every live-SERP row is EMPTY.
+
+**Geography and who answers a footage request**
+- Ridgewood is a Queens neighborhood (Community District 5) bordering Bushwick and East Williamsburg in Brooklyn; it "historically straddled the Queens-Brooklyn boundary", the name was first applied by the Kings County government to an area in Brooklyn, and the 1925 boundary moved the line onto the street grid; ZIP 11385 took effect January 13, 1980 (before that mail came through Brooklyn, ZIP 11237 shared with Bushwick) — https://en.wikipedia.org/wiki/Ridgewood,_Queens
+- The 104th Precinct, 64-02 Catalpa Avenue, covers Ridgewood; Engine 291/Ladder 140 is at 56-07 Metropolitan Avenue — https://en.wikipedia.org/wiki/Ridgewood,_Queens
+- Queens addresses on the Ridgewood side use hyphenated house numbers (e.g. Forest Ave), while some streets such as Palmetto, Woodbine and Gates carry plain numbers — http://s-media.nyc.gov/agencies/lpc/lp/2319.pdf
+
+**Building stock that decides where recorders, cables and cameras sit**
+- Most Ridgewood housing went up 1905–1915 after a 1905 rule required masonry construction; six-family buildings cluster near the Brooklyn border, with two-family and one-family houses deeper in; pre-1905 wood-frame houses and later one-family homes with garages also exist; factories and knitting mills stood in the north near Newtown Creek — https://en.wikipedia.org/wiki/Ridgewood,_Queens
+- Mathews Model Flats: 27.5-foot lots, three stories plus basement, two apartments per floor (six in all), light shafts, built as cold-water flats, "easier to manage by owner-occupants"; more than 300 sold 1909–1912; heavy bluestone stoops, full stone entrance enframements, "glazed, double doors", under-stoop entries, areaways with cellar doors; LPC building entries note "light and intercom near door" — http://s-media.nyc.gov/agencies/lpc/lp/2319.pdf
+- Central Ridgewood Historic District (Dec 9, 2014): 990 buildings, 1906 to WWI; Louis Berger & Co. built more than 5,000 buildings across Ridgewood–Bushwick 1895–1930; Paul Stier built more than 2,000 houses; original brownstone stoops, cut-glass and wood doors, iron fences — https://www.nyc.gov/assets/lpc/downloads/pdf/press/archive/2014/14-06-Ridgewood-Historic-District.pdf
+- City historic districts in Ridgewood: Stockholm Street (2000, 36 rowhouses, Ridgewood's only brick-paved street), Ridgewood North (2009, 96 buildings), Ridgewood South / Seneca–Onderdonk–Woodward (2010, 210 buildings per LPC; 211 contributing on the National Register), Central Ridgewood (2014, 990) — https://en.wikipedia.org/wiki/Ridgewood,_Queens ; https://en.wikipedia.org/wiki/Ridgewood_South_Historic_District
+
+**Landmarks rules that apply to replacing or moving cameras**
+- LPC Permit Guidebook ch. 11: "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; small buildings no more than two security cameras per 25 feet of street frontage; equipment "must be attached at mortar joints, plain masonry, wood, or metalwork" and "must not be attached through cast iron or on any decorative surfaces"; conduit concealed, staff may approve "a maximum of approximately ten inches of visible conduit"; no permit for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; in-kind camera replacement applications need manufacturer cut sheets but no elevation drawings — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Owners or the owner's project team (for example commercial tenants, with the owner's signature) apply for LPC permits through Portico — https://www.nyc.gov/site/lpc/applications/applications.page
+
+**Local incidents where cameras and footage matter**
+- QNS, Jan 12 2024: police said a man broke the lock on the front door of a building complex on Cypress Avenue around 2 p.m. on Jan 8 and removed items from packages inside — https://qns.com/2024/01/man-wanted-stealing-packages-ridgewood-building/
+- QNS, July 7 2026: burglaries on June 17 near 70th Street and Central Avenue through broken window screens on first- and second-floor apartments, and a home entered through a rear basement window after the burglar came through a gate; the 104th Precinct had 81 burglaries through July 5, 2026, against 85 a year earlier (−4.7%) — https://qns.com/2026/07/burglary-suspect-ridgewood/
+- NY1, Jan 6 2026: five-alarm fire in a three-story building on Madison Street near Seneca and Onderdonk Avenues; began on the first floor, spread to adjoining buildings, roof collapse, four buildings vacated, six injured, 26 households registered with the Red Cross — https://ny1.com/nyc/all-boroughs/public-safety/2026/01/06/queens-ridgewood-madison-avenue-apartment-fire
+- r/ridgewood thread titles/excerpts seen in earlier search results (threads not opened, not quoted): three packages taken off a stoop within 20 minutes; packages missing inside a building after the courier's delivery photo — https://www.reddit.com/r/ridgewood/comments/1ppbec8 ; https://www.reddit.com/r/ridgewood/comments/1rlfdim
+
+**Commercial corridors**
+- Myrtle Avenue BID, established 1988, runs from Wyckoff Avenue to Fresh Pond Road; its site says "over 300 retail businesses" (another page says "nearly 300"); QNS Oct 2025: longtime director Ted Renz retired and Laura Seidel took over management — https://ridgewood-ny.com/ ; https://qns.com/2025/10/myrtle-ave-bid-new-management/
+- Forest Avenue has Serbian businesses; storefront flats on Fairview and Grandview Avenues; Myrtle–Wyckoff Avenues station sits on the Brooklyn/Queens border (L and M, renovated 2004–2008, Ridgewood Intermodal Terminal); M stops at Seneca, Forest and Fresh Pond — https://en.wikipedia.org/wiki/Ridgewood,_Queens ; https://en.wikipedia.org/wiki/Myrtle%E2%80%93Wyckoff_Avenues_station
+
+**Rules and programs that bear on a camera repair (silo research, citywide)**
+- NYS Department of State licenses companies that install or service security systems; 19 NYCRR 195.2 covers CCTV used for intrusion, theft or movement; owners (or their employees) working on their own property need no license — https://dos.ny.gov/fire-alarm-installer ; https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- New York Labor Law §203-c: employers must give notice of electronic (including video) monitoring and get acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; city buildings aren't required to have functioning cameras (attorney Jennifer Rozen); attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord" — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Ring ended its "Request for Assistance" tool in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- NYPD camera registration lets businesses tell the NYPD where cameras are, at no cost — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- Multiple Dwelling Law: intercom required in Class A multiple dwellings built or converted after Jan 1, 1968 with eight or more apartments — https://www.paragonsecurityny.com/blog/2026/july/how-nyc-building-managers-choose-a-commercial-in/
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**EMPTY**
+- Ridgewood-specific camera repair news: EMPTY
+- DOB permits for camera work in Ridgewood: EMPTY
+- 311 / HPD complaint counts about cameras in 11385: EMPTY
+- Con Edison outages in Ridgewood: EMPTY
+- Yelp reviews for camera repair in Ridgewood: EMPTY
+- Reddit threads about camera repair specifically: EMPTY
+
+### Questions people ask — Security Camera Repair in Ridgewood
+- Google PAA: EMPTY (no live search this run)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit questions: EMPTY (only package-theft thread titles seen, listed above)
+- Yelp: EMPTY
+- Can I just replace one camera or do I have to replace the whole system? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+- How do I get my landlord to let me look at security camera footage? — Brick Underground article title — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Do you need a license to install or service security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
+- Do I need a Landmarks permit to replace a camera on a building in a historic district? — LPC guidebook topic — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- How much do security camera installation and repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
