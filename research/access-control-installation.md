@@ -4404,3 +4404,39 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Can a landlord replace metal keys with key fobs in a rent-stabilized building? — question framed in DHCR case coverage — https://www.landlordvtenant.com/article/dhcr-approves-replacement-entry-keys-key-fob-system-conditions
 - Do renters have the right to a physical key? — article headline — https://dc.urbanturf.com/articles/blog/do-renters-have-the-right-to-a-physical-key/15172?page=0
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp questions: EMPTY (not accessible in build env)
+
+## Columbia Street Waterfront, Brooklyn — /access-control-installation-columbia-street-waterfront-brooklyn-ny (factory research, 2026-11-12)
+
+- Brooklyn Marine Terminal (BMT) Task Force approved the Vision Plan on Sept. 22, 2025 by a 17-8 vote; $3.5 billion; about 6,000 apartments, 40% affordable; 122 acres covering the Columbia Street Waterfront District and Red Hook; next step environmental review. Quote, Scott Welch (Columbia Street resident): "We haven't heard of any kind of plan to introduce sufficient greenspace" — https://www.bkreader.com/featured-news/35b-brooklyn-marine-terminal-project-clears-key-hurdle-11245987
+- Time Out (Sept. 24, 2025): BMT North would hold most of the housing plus a park linked to Brooklyn Bridge Park; buildings up to 425 feet near Pier 7; Atlantic Basin tops out at 325 feet with a cruise terminal, hotel and industrial hub; environmental review and permitting could take about a decade; 200 apartments reserved for current Red Hook NYCHA residents; barges to Hunts Point to cut truck traffic on Van Brunt Street. Quote, Borough President Antonio Reynoso: "This is more of a proposal than it is an actual plan." — https://www.timeout.com/newyork/news/new-yorks-coolest-neighborhood-may-undergo-a-massive-transformation-thanks-to-a-controversial-waterfront-project-092425
+- 6sqft (Nov. 8, 2014): district is a "22-block enclave wedged between Red Hook and the Brooklyn-Queens Expressway"; Columbia Terrace Phase I opened 1984 on President Street with 51 condo units, three later phases added 129 apartments on President and Carroll Streets (17 low-rise buildings); Tiffany's former factory on Tiffany Place converted to condos in 1986; 25 Carroll Street, a former pasta factory, became 17 loft condos in 2010; Columbia Commons has 42 market-rate condos and 94 income-restricted rentals; 49-53 Summit Street has nine apartments — https://www.6sqft.com/?p=153613
+- Laurel Bakery opened in April 2024 at 115 Columbia Street at Kane Street (Redwood Hospitality group); no indoor seating; open Wednesday–Sunday 8:30 a.m.–4 p.m.; the block had been quiet since Pok Pok closed in 2018 — https://www.bkmag.com/2024/04/25/the-team-behind-place-des-fetes-and-oxalis-opens-laurel-bakery-on-columbia-street/
+- Brooklyn Daily Eagle (Jan. 18, 2019): Krok at 117 Columbia St.; The Longshoreman at 215 Columbia St. between Sackett and Union; Popina at 327 Columbia St. (open since 2017) — https://brooklyneagle.com/articles/2019/01/18/new-restaurants-liven-up-columbia-street-dining-scene/
+- Openigloo new-developments list for the district: 29A, 33A and 35 Carroll Street; 43, 45, 47, 49, 51, 53 Summit Street; 211 Columbia Street (rent-stabilized); 84 Congress Street; open-violation counts range from 1 to 15 per building (47 and 43 Summit Street show 15 each) — https://www.openigloo.com/buildings/brooklyn/columbia-st-waterfront-district/new-developments
+- CrimeGrade (updated Nov. 2026): burglary grade A for the district, 1.1 reported burglaries per 1,000 residents a year (about 8 a year) versus a US rate of 2.4; burglaries most often happen between midnight and 6 a.m. (New York-wide where/when data from NYPD reports, 2022–2024) — https://crimegrade.org/burglary-columbia-street-waterfront-district-brooklyn-ny/
+- Red Hook Star-Revue (Mar. 31, 2019): at the 76th Precinct council, Deputy Inspector Megan O'Malley said she was most concerned about "the recent increase in commercial burglaries, especially at night" and urged Court and Smith Street businesses to keep cameras working — https://www.star-revue.com/march-newsbrief-narcotics-taken-off-the-streets-and-other-76th-precinct-updates/
+- Patch (Oct. 30, 2012): during Hurricane Sandy, "a Columbia Waterfront District dwelling ... had the exterior peeled off during the storm" — https://patch.com/new-york/carrollgardens/http-carrollgardens-patch-com-articles-sandy-leaves-t1b8db7bec5
+- FEMA flood-zone designation for specific district blocks: EMPTY (no map result retrieved)
+- Doors & Hardware (Lori Greene, Mar. 2013): under the IBC, access control and electrified hardware are not exempt from permits — "The exceptions do not include access control systems or the installation of electrified hardware, so this work does require a permit"; "Some jurisdictions require special permits for the use of electromagnetic locks"; "The AHJ may require hardware and wiring to be removed or changed if it was not approved up-front." — https://idighardware.com/2013/03/permits-for-access-control/
+- NYC DOB electrical permit pages (who files, when a permit is needed) — https://www.nyc.gov/site/buildings/property-or-business-owner/electrical-permit.page
+- NYC Building Code egress-door access sections (sensor release / electromagnetic locks) — https://codelibrary.amlegal.com/codes/newyorkcity/latest/NYCadmin/0-0-0-173513
+- Habitat (May 2013, small co-op/condo security): Matthew Arnold (Academy Mailbox) said video intercoms cost roughly $750 per apartment and fobs can be set to work only at certain hours, such as for a dog walker; Daniel Girdusky (Rydan Security) said fobs cost less than video systems and offer more control than keys; Chris Cooper, board president of a 10-unit East Village condo: "If you see someone you don't know on the stoop, ask them to move on. Be polite, but say something." — https://habitatmag.com/layout/set/amphtml/Publication-Content/Building-Operations/2013/2013-May/Small-Co-op-Condo-Security
+- Habitat board-talk post "Key Fob Control": a building brought fob management in-house, can deactivate lost fobs, and uses activity reports to spot suspicious use — https://habitatmag.com/Board-Talk/How-many-fobs-to-issue/Number-of-key-fobs/Key-Fob-Control
+- HPD violations / 311 complaints filtered to the district for entrance doors or locks: EMPTY (NYC Open Data not queried)
+- DOB permits for access control in the district: EMPTY
+- LPC: no historic district inside the district found: EMPTY
+- Local Reddit threads about fobs or building access in the district: EMPTY
+
+### Questions people ask — Access Control Installation in Columbia Street Waterfront
+- PAA (Google): EMPTY (not accessible)
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC): EMPTY for this district
+- Do I need a permit to install an electric strike or access control? — web search result (Doors & Hardware) — https://idighardware.com/2013/03/permits-for-access-control/
+- What does access control cost per door in NYC? — web search results (Kisi, Swiftlane, ButterflyMX guides) — https://butterflymx.com/blog/access-control-nyc/
+- Is a key fob system worth it for a small condo building? — web search results (Habitat) — https://habitatmag.com/layout/set/amphtml/Publication-Content/Building-Operations/2013/2013-May/Small-Co-op-Condo-Security
+- How many fobs should a building issue, and how are lost fobs turned off? — Habitat board talk — https://habitatmag.com/Board-Talk/How-many-fobs-to-issue/Number-of-key-fobs/Key-Fob-Control
+- Can an electric strike go on brownstone double doors? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Can fobs be limited to certain hours for a dog walker? — Habitat — https://habitatmag.com/layout/set/amphtml/Publication-Content/Building-Operations/2013/2013-May/Small-Co-op-Condo-Security
