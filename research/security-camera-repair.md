@@ -1911,3 +1911,57 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can the NYPD see the footage from the street cameras on our corner? — derived from Bklyner 2014 — https://bklyner.com/manhattan-beach-gets-two-nypd-security-cameras-sheepshead-bay
 - Is a bystander's phone video enough, or do our house cameras still matter? — derived from News 12 2026 — https://brooklyn.news12.com/2026/03/02/exclusive-video-manhattan-beach-man-tries-to-stop-group-accused-of-robbing/33tIoGbnSx1FyIQ5Dk1EV3
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+## Mill Basin, Brooklyn — /security-camera-repair-mill-basin-brooklyn-ny (factory research, 2026-11-12)
+
+**Flooding and storms (recorders, basements, waterfront)**
+- NWS impact statement for the Rockaway Inlet gauge at Floyd Bennett Field (Sandy, 11.6 ft MLLW, 10-11 pm Oct 29 2012): "In southeast Brooklyn, the hardest hit areas were Gerritsen Beach, Floyd Bennet, Bergen Beach, Mill Basin, and Canarsie"; "Inundation extended inland to Avenue X" — https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf
+- Brooklyn Paper (after Sandy) on Mill Island: civic association president Sol Needle's home took on four feet of water; Dottie Turano: "We had about three feet of water in our basement"; waterfront homes had basement flooding and damaged bulkheads; Needle: "The flood was very selective ... On my block everybody got flooded, but across Gaylord Drive, the houses weren't touched at all."; Needle blamed part of the flooding on sewer backup as well as surge; the Sunrise senior residence was seriously damaged — https://www.brooklynpaper.com/mill-islanders-sandy-hit-us-pretty-hard
+- Con Edison (Dec 2025 Brooklyn outages): "When snow melts and mixes with road salt, that water can seep into underground electrical equipment and cause damage." 852 customers across the borough out as of Monday Dec 29 2025 (530 by Monday night). Mill Basin not named — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+
+**Power events in Mill Basin**
+- July 2019 heat wave: Con Edison pre-emptively cut power to 33,000 customers in Canarsie, Flatlands, Mill Basin and Bergen Beach on a Sunday evening (52,000 across its service area); Con Ed called it "necessary to prevent longer outages to the impacted customers"; 14,000 still out in Brooklyn as of Monday afternoon — https://www.cityandstateny.com/policy/2019/07/why-did-con-edison-cut-power-in-brooklyn/177130/
+- Same event: about 33,000 customers in southeast Brooklyn without power including Mill Basin, Bergen Beach and Georgetown — https://www.theyeshivaworld.com/news/general/1762343/brooklyn-power-alert-conedison-reduces-power-to-southern-brooklyn.html ; https://brooklyneagle.com/86115/mill-basin-bergen-beach-power-outage/
+
+**Crime and footage (63rd Precinct)**
+- The 63rd Precinct polices Marine Park, Mill Basin and Bergen Beach; NYPD CompStat Jan 1–Oct 11: burglary 52 (2025) to 63 (2026), +21.2%; grand larceny 413 to 354 (-14.3%); car theft 122 to 103 (-15.6%); ranks 5 of 23 in Brooklyn for violent crime per resident (figures preliminary, read Oct 17 2026) — https://www.thebehfarteam.com/safest-neighborhoods-in-brooklyn/is-marine-park-safe/
+- NYPD: the 63rd Precinct serves about 8.96 square miles with 1.5 square miles of park plus undeveloped Marine Park marshland — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/63rd-precinct.page
+- News 12 Brooklyn, Aug 13 2024, "NYPD searching for two men wanted for string of Mill Basin burglaries": two masked individuals captured on a restaurant's cameras (China Wok, Avenue K) shortly before 4 a.m. July 27, going behind the counter; police say two iPads, a printer and $100 cash taken; same pair believed to have hit a store on Avenue O (checkbook, financial documents) — https://brooklyn.news12.com/nypd-searching-for-two-men-wanted-for-string-of-mill-basin-burglaries
+- Brooklyn Paper 63rd Precinct blotter: all four tires and rims ($2,400) taken from a Honda Accord parked in a driveway on E. 66th Street between Avenue T and Avenue U, found around 5 a.m. March 23 — https://www.brooklynpaper.com/crooks-steal-tires-from-car-on-e-66th-street
+- Brooklyn Paper blotter (Feb 1 2017): overnight Jan 26 a car on Avenue M near E. 59th Street lost its navigation system, front bumper and license plate; Jan 24 a laptop, license and debit cards taken from a car on Ralph Avenue near E. 65th Street — https://www.brooklynpaper.com/car-break-ins-sweep-the-63rd-precinct/
+- 63rd Precinct National Night Out Against Crime, Tuesday Aug 4 2026, Marine Park, Avenue U off East 33rd Street — https://www.facebook.com/NYPD63pct/
+- Kings Plaza Mall (Mill Basin) evacuation order at 11 a.m. over reported threats, NYPD ESU on site (Instagram post) — https://www.instagram.com/reel/C1DDyYIS148/
+
+**Salt air and waterfront camera wear**
+- IPVM discussion: "Rust blooms, organic gunk, and salt fog make near-ocean video surveillance tough." — https://ipvm.com/discussions/recommendation-for-salt-water-environment
+- Installer blog: "Salt air corrodes standard camera hardware within a couple of seasons, so waterfront installations need corrosion-resistant housings and sealed ..." — https://www.idscctv.com/blog/marina-boat-waterfront-security-cameras
+- Installer blog: "Salt particles suspended in coastal air attract and hold moisture. When those particles land on camera housings, mounting brackets, cable ..." — https://lajollalock.com/blog/how-salt-air-and-marine-layer-affect-security-camera-systems-in-coastal-san-diego/
+- r/cctv thread title "Marine CCTV domes getting wrecked by salt"; reply: non-dome cameras "have lasted multiple years on ocean docks ... They get dried salt on them" — https://www.reddit.com/r/cctv/comments/1pemofa/marine_cctv_domes_getting_wrecked_by_salt_whos/
+
+**Recorder drives (Reddit)**
+- r/Hikvision: "If you got 5 years at 24/7 recording, it is a good life and should be replaced. I have seen them last upwards of 10 years before failure." — https://www.reddit.com/r/Hikvision/comments/151fbsn/problem_with_hdd/
+- r/reolinkcam: owner asks "when an HD fails inside a reolink NVR on a 24/7 recording system, do you know immediately?" — https://www.reddit.com/r/reolinkcam/comments/16l2bpv/has_anyone_had_an_hd_fail_in_an_nvr_what_happens/
+- r/reolinkcam: 4 PoE cams on a 16-channel NVR used 50% of the drive in about 7 days ("looks like I'll have 2 weeks recordings") — https://www.reddit.com/r/reolinkcam/comments/1gcwa4p/how_many_days_of_recording_do_you_keep/
+- Swann support / CCTV Camera World guides: first checks when a recorder stops recording are drive status in the menu, HDD test, "No Hard Disk" message — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/ ; https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+
+**Yelp**
+- Yelp "Security services near Mill Basin, Brooklyn 11234" lists companies such as A1 Security Professionals 7.0 mi away in Manhattan (10001) — nearest listings are not in Mill Basin — https://www.yelp.com/search?cflt=security&find_loc=Mill+Basin%2C+Brooklyn%2C+NY+11234
+- Yelp complaints/praise specific to camera repair in Mill Basin: EMPTY
+
+**Empty**
+- DOB permits, HPD violations, 311 complaints about cameras in 11234: EMPTY
+- LPC historic districts in Mill Basin: EMPTY (none found)
+- Reddit r/MillBasin threads on camera repair: EMPTY
+
+### Questions people ask — Security Camera Repair in Mill Basin
+- Google PAA / PASF — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- How long does a recorder hard drive last when it records 24/7? — Reddit — https://www.reddit.com/r/Hikvision/comments/151fbsn/problem_with_hdd/
+- When the hard drive fails inside an NVR, do you know right away? — Reddit — https://www.reddit.com/r/reolinkcam/comments/16l2bpv/has_anyone_had_an_hd_fail_in_an_nvr_what_happens/
+- Is a 2TB hard drive really enough for a four-camera system? — Reddit — https://www.reddit.com/r/reolinkcam/comments/1139exl/is_2tb_hdd_really_enough/
+- How many days of recording should you keep? — Reddit — https://www.reddit.com/r/reolinkcam/comments/1gcwa4p/how_many_days_of_recording_do_you_keep/
+- Repair or replace a security camera system? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1g2eiej/repair_or_replace/
+- Which cameras hold up near salt water? — IPVM / IPCamTalk — https://ipvm.com/discussions/recommendation-for-salt-water-environment ; https://ipcamtalk.com/threads/camera-for-ocean-front-property-salt-resistant.26738/
+- My NVR says "No Hard Disk" or won't record — how do I fix it? — installer blog — https://guardsourcehq.com/nvr-no-hard-disk-wont-record/
+- How do I check whether my camera system is actually recording? — CCTV Camera World — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
