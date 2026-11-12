@@ -809,3 +809,47 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Why are my security cameras not working? — Brinks Home heading — https://brinkshome.com/smartcenter/why-are-my-security-cameras-not-working
 - Why did the hard drive in my DVR get corrupted? — TechRepublic forum — https://www.techrepublic.com/forums/discussions/why-hdd-in-dvr-of-security-cameras-got-croupted/
 - Why should I be specific when reporting a security camera issue? — Swann support — https://support.swann.com/hc/en-us/articles/52558222891417
+
+## Cadman Plaza, Brooklyn — /security-camera-repair-cadman-plaza-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that reach recorders, PoE switches and cameras**
+- June 23 2025: Con Edison asked customers in northwest Brooklyn to conserve energy while crews repaired equipment; neighborhoods named include Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn, Boerum Hill ("parts, or all, of"); "Con Edison has reduced voltage by 8 percent in the area to protect equipment and maintain service as crews make repairs." — https://www.coned.com/en/about-us/media-center/news/2025/06-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+- Aug 23 2025: transformer fire and outage at 365 Bridge St., Downtown Brooklyn; FDNY said a contractor struck a high-voltage feeder line; nearly 230 residents lost power; resident Davon Barrett: "We have four elevators that serve it. Three of them went out." — https://brooklyn.news12.com/2025/08/23/transformer-fire-and-power-outage-disrupt-downtown-brooklyn/6hh0GD4Q9IXktHyxSYFaYU
+
+**Local incidents where cameras (or their absence) mattered**
+- Brooklyn Eagle (2022): AT&T store at 160 Montague St. had its glass front door smashed early Thursday morning; four iPhones and three Apple Watches taken; manager Luis Cruz was woken at 4 a.m. by the alarm company; the store had no video of the incident; Cruz: "It's a standard break-in." — https://brooklyneagle.com/articles/2022/07/15/thief-breaks-into-brooklyn-heights-att-store/
+- News 12 (Mar 6 2024): two men entered a store on Henry Street on Feb. 26, "ordered an employee to move from a register," and took $670 of merchandise; NYPD asked for help identifying them — https://brooklyn.news12.com/police-2-men-wanted-for-taking-670-worth-of-merchandise-from-brooklyn-heights-business
+- News 12 (Oct 19 2025): a man in an Amazon uniform walked into a Brooklyn Heights school building on Joralemon Street around 1 p.m. on Sept. 29 and took a package with a $1,500 MacBook — https://bronx.news12.com/man-in-amazon-uniform-wanted-for-stealing-macbook-from-brooklyn-heights-school
+- Brooklyn Eagle / Brooklyn Today (Feb 11 2026): four 84th Precinct officers honored for curbing retail theft in Brooklyn Heights and Downtown Brooklyn; Capt. Erek Powers said Sephora "is a place that gets hit constantly" — https://brooklyntoday.brooklyneagle.com/p/retail-theft-crackdown-bk-heights-cops-honored
+- News 12 (Nov 24 2025): Cadman Plaza Park path lights off for weeks; resident Peter Lu and others using flashlights; Ricky Panken: "What's the purpose of a park if you can't use it?"; Council Member Lincoln Restler contacted Parks — https://brooklyn.news12.com/lack-of-lights-at-cadman-plaza-park-cause-safety-concerns
+- DNAinfo (Mar 7 2017): Brooklyn Heights Association got a $2,500 grant from Borough President Eric Adams's office for street-facing cameras on homes on Joralemon St between Furman and Clinton (about two per block, 10–12 cameras); BHA's Bray: "Having some cameras on the street could one, be a deterrent, and two, help police apprehend perpetrators." — https://www.dnainfo.com/new-york/20170307/brooklyn-heights/joralemon-street-security-cameras-eric-adams
+
+**Co-op/condo and landlord rules that bear on camera repair**
+- Brick Underground (Aug 26 2019): "There's no city law requiring rental buildings to have functioning security cameras"; attorney Jeffrey Reich (Schwartz Sladkus Reich Greenberg Atlas): "A landlord that is on notice of criminal activity at a property may be obligated to take reasonable safety precautions" and "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance"; landlord "could be held liable for the loss if they do not take any action"; tenants should write to management listing items and dates and mention the camera; "NYPD involvement may be the deciding factor in getting your building management to repair those cameras"; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent" — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- FirstService Residential: footage generally stored 30 to 90 days depending on building size, storage and legal requirements; boards should have a secure deletion plan; access usually granted to the property manager or a third-party security provider; residents should not get copies without board and counsel approval; requests should state reason, timeframe and cameras; log of requests and of everyone who accessed footage; Christina Forbes: "Limiting access protects the privacy of residents and helps prevent potential misuse." — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- Habitat (Sept 21 2016): Mary Ann Rothman, executive director of the Council of New York Cooperatives and Condominiums, says her building has 16 cameras; "Sadly, we are worrying more, and seeing how much it helps to have them." — https://habitatmag.com/Publication-Content/Building-Operations/2016/2016-September/Surveillance-Cameras
+- Habitat Board Talk (2009): shareholder put a camera over his own door in a co-op hallway overnight without approval; manager reply: shareholders "don't own any portion of their space outside of their interior doors"; advice was a letter citing the proprietary lease/house rules with a removal deadline — https://www.habitatmag.com/Board-Talk/shareholder-installs-surveillance-camera-over-his-door
+- The Real Deal (Apr 19 2024): Cadman Towers converted from Mitchell-Lama to HDFC because "millions of dollars' worth of deferred maintenance has piled up" with a $62 million mortgage coming due; the building "can't borrow more to pay for repairs" — https://therealdeal.com/new-york/2024/04/19/city-converts-mitchell-lama-co-op-unable-to-finance-repairs
+
+**Landmarks**
+- Borough Hall Skyscraper Historic District: approved unanimously Sept 13 2011; 21 buildings along Court Street between Montague and Livingston; includes Borough Hall, the Temple Bar Building and 32 Court Street ("Brooklyn's first true skyscraper") — https://citylandnyc.org/borough-hall-skyscraper-historic-district-approved
+- LPC camera rules for historic districts (cameras at mortar joints/plain masonry, not decorative surfaces; ordinary maintenance and repair of safety equipment needs no permit) — already in silo research, https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Cost benchmark**
+- HomeAdvisor, Brooklyn surveillance cameras install or repair: average $1,416; typical range $680–$2,145; low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permit requirements for low-voltage camera repair: EMPTY (DOB electrical guidance PDF does not address low-voltage or cameras) — https://www.nyc.gov/assets/buildings/pdf/elect_work_guidance.pdf
+- 311 / HPD data on cameras for 11201: EMPTY
+- Reddit threads on camera repair in Cadman Plaza / Brooklyn Heights: EMPTY
+- Yelp complaints/praise specific to camera repair near Cadman Plaza: EMPTY
+- Camera news inside the Cadman Plaza co-op towers: EMPTY
+
+### Questions people ask — Security Camera Repair in Cadman Plaza
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Reddit: EMPTY
+- Packages are being stolen from our building, and the security camera isn't working. What can we do? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Who should have access to security camera footage in a condominium or cooperative? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- Is it legal for a shareholder to put a surveillance camera over his door in the co-op hallway? — Habitat Board Talk — https://www.habitatmag.com/Board-Talk/shareholder-installs-surveillance-camera-over-his-door
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor form — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
