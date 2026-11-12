@@ -1414,7 +1414,7 @@ TODO | eufy-camera-installation-putnam-county | eufy Camera Installation | Putna
 TODO | eufy-camera-installation-dutchess-county | eufy Camera Installation | Dutchess | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | eufy-camera-installation-ulster-county | eufy Camera Installation | Ulster | up /eufy-camera-installation-hudson-valley | (845) 640-3835 | GBP Bronx
 TODO | hanwha-camera-installation-manhattan | Hanwha Camera Installation | Manhattan | up /hanwha-camera-installation-nyc | (929) 560-0737 | GBP Bronx
-BUILDING 2026-11-12T03:13Z factory | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
+LIVE | hanwha-camera-installation-brooklyn | Hanwha Camera Installation | Brooklyn | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
 TODO | hanwha-camera-installation-queens | Hanwha Camera Installation | Queens | up /hanwha-camera-installation-nyc | (347) 434-6392 | GBP Bronx
 TODO | hanwha-camera-installation-bronx | Hanwha Camera Installation | Bronx | up /hanwha-camera-installation-nyc | (646) 490-0629 | GBP Bronx
 TODO | hanwha-camera-installation-staten-island | Hanwha Camera Installation | Staten Island | up /hanwha-camera-installation-nyc | (347) 934-8335 | GBP Brooklyn
