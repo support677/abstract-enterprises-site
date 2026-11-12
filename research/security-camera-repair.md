@@ -1283,3 +1283,47 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - What causes video loss on security cameras? — Reolink — https://reolink.com/video-loss-on-security-camera/
 - How do I fix horizontal banding or rolling lines? — Swann support — https://support.swann.com/hc/en-us/articles/39992440507929
 - How can thieves steal a keyless car in under a minute, and how do I stop them? — Help Net Security — https://www.helpnetsecurity.com/2026/06/05/keyless-car-theft-protection/
+
+## East Williamsburg, Brooklyn — /security-camera-repair-east-williamsburg-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- May 2, 2026, about 7 a.m., outside 599 Johnson Ave. in East Williamsburg: two people broke into the Mi Amor Halal Grill food truck and took a generator worth about $2,500 and a cooler of soda; about 10 minutes later the same group took a second generator worth about $2,500 through an open window of the S&M Food Industry truck; they left in a white Dodge pickup. Police released surveillance images of two people (one in a black hooded sweatshirt, one in a green long-sleeved shirt) — https://brooklyn.news12.com/thieves-hit-two-east-williamsburg-food-trucks-minutes-apart-police-say
+- Oct 30, 2025, about 1:40 a.m., a commercial building on Stagg Street: four men entered through a rear door while the building was empty and took about $60,000 in merchandise, then fled east on Stagg Street in a black SUV. Cameras recorded it; the footage shows the men in hoodies, some in ski masks, one looking directly into the camera wearing glasses; police released it to identify them — https://brooklyn.news12.com/video-released-of-4-suspects-on-the-run-in-williamsburg-burglary
+- Nov 3, 2016, about 2:17 a.m., Nooklyn offices at 218 Randolph St. in East Williamsburg: a man entered through an air vent and packed a computer and Apple equipment (about $2,600) into a cardboard box; surveillance footage shows him lowering himself into the office with his feet dangling — https://www.dnainfo.com/new-york/20161116/east-williamsburg/burglar-nypd-arrest-crime-stoppers
+- Nearby (Greenpoint–Williamsburg border, 17 Kent Ave., July 2025): four suspects used a crowbar on the front door and took over $300,000 in clothing; the description came from security footage showing "four suspects wearing all black" — https://abc7ny.com/post/police-search-suspects-stole-300k-clothing-greenpoint-williamsburg-border/17024720/
+
+**Power events that hit recorders, PoE switches and cameras**
+- Feb 16, 2026: manhole fire at 101 Montrose Ave.; 535 customers without power Monday evening; Con Edison said it was "repairing damage caused when snow and road salt mix and seep into our underground equipment"; warming center at I.S. 49, 223 Graham Ave. — https://brooklyn.news12.com/power-outage-leaves-hundreds-of-williamsburg-residents-in-the-cold
+- Aug 7, 2025 (edge of the area): manhole fire in front of 18 Irving Ave. at Jefferson St., Bushwick; about 240 customers out at the peak; resident Harris Smith: "The lights started flickering then there was a very loud pop outside and everything just went dark." — https://brooklyn.news12.com/2025/08/08/manhole-fire-causes-power-outages-in-bushwick/3DLXbMzacKblHn82ccSPsh
+- June 24, 2025: Con Edison asked customers in areas of eastern Brooklyn to conserve energy (heat wave) — https://www.coned.com/en/about-us/media-center/news/2025/06-24/con-edison-asks-customers-in-areas-of-eastern-brooklyn-to-conserve-energy
+
+**Building types, streets and the industrial zone**
+- Boundaries given by one neighborhood guide: Flushing Avenue (south), the BQE (north), the Queens line (east), Bushwick Avenue and Woodpoint Road (west); major arteries Metropolitan Avenue, Grand Street, Johnson Avenue; industrial and loft streets Morgan Avenue, Meadow Street, Ingraham Street, Bogart Street, Ten Eyck Street, Boerum Street; also Frost Street — https://www.cityneighborhoods.nyc/east-williamsburg
+- Same guide: building types are low-rise brick manufacturing buildings, corrugated-steel warehouses, 19th-century factories and warehouses (many converted to studios), heavy timber or reinforced-concrete lofts from the 1920s, small tenements and rowhouses, and newer glass apartment buildings on former vacant lots; today's tenants include craft breweries, furniture makers, design studios, tech startups, machine shops, metal fabricators, food distribution, construction and textiles; landmarks include the Morgan Avenue L station, Brooklyn Steel on Frost Street, the McKibbin Lofts and the Industrial Business Zone designation — https://www.cityneighborhoods.nyc/east-williamsburg
+- Evergreen, NYCEDC and ANHD closed on 10,000 square feet of affordable industrial space at 500 Stagg Street — https://edc.nyc/node/4639
+- Dec 19, 2024: plans filed for 43 residential units to legalize an East Williamsburg IMD (interim multiple dwelling, a Loft Law building) — https://www.pincusco.com/israel-cohen-files-plans-for-43-resi-units-to-legalize-east-williamsburg-imd/
+- 222 Varet Street, an East Williamsburg loft building, sought to legalize apartments — https://newyorkyimby.com/category/joshua-guttman
+
+**Tenants, landlords and footage**
+- DHCR administrative review, Double A Prop-Turner Place LLC (May 13, 2015): tenants' TVs showed "no signal, check antenna cable connection, disconnected"; "DHCR inspection showed that the antenna cable was disconnected from the security camera"; "The service had been provided to tenants for 19 years, and landlord was required to maintain it" — rent reductions upheld — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- Brick Underground (a Williamsburg renter's stolen packages): attorney Jennifer Rozen says the landlord isn't required to share footage outside a legal process and city buildings aren't required to have working cameras; attorney Catherine Grad: "Yes, there's an argument for the claim that the landlord has this duty." — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- NYCHA (Council hearing, Apr 15 2025, Lauren Gray): "We have over 20,000 cameras in the portfolio across 214 developments and 1,519 buildings"; "52 developments that do not have CCTV coverage" — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/number-and-distribution-of-functioning-cctv-cameras-at-nycha-developments/
+- NYPD Connect New York pilot (May 2024): integrates participating businesses' cameras directly with the NYPD in nine precincts across the five boroughs (precincts not named); sign-up at newyorkcityconnect.org — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+
+**Why cameras lose video (manufacturer guide)**
+- Reolink lists the causes of video loss: "Insufficient Power Supply", "Power Spike & Interference", "Weak WiFi Connection or Low Bandwidth", "IR Cut Filter & Faulty IR Night Vision", "Signal Type & Compatibility", "Problems in Cables or Wires", "Hardware & Firmware Problem", "IP Address Conflicts" — https://reolink.com/blog/video-loss-on-security-camera/
+
+**Empty**
+- DOB permits for camera repair in East Williamsburg: EMPTY
+- LPC historic districts in East Williamsburg that affect camera mounting: EMPTY (none found)
+- 311 complaints specific to cameras in 11206/11211/11237: EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC) on East Williamsburg camera repair: EMPTY
+- Yelp reviews of camera repair in East Williamsburg: EMPTY (search returned Thumbtack/Angi directories)
+
+### Questions people ask — Security Camera Repair in East Williamsburg
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why does a security camera lose video? — Reolink guide — https://reolink.com/blog/video-loss-on-security-camera/
+- Does my landlord have to fix the building's security camera? — DHCR review / Brick Underground — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- Can a tenant get the landlord to review footage of a package thief? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Can my business share its cameras with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+- Can video be recovered from a damaged DVR or NVR drive? — data recovery vendors — https://www.gillware.com/?p=690656
