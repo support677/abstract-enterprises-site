@@ -3059,3 +3059,41 @@ Note: my search tool doesn't show Google's People Also Ask boxes, related search
 - Who is responsible for fixing a broken intercom — the owner or the tenant? — provider FAQ — https://www.parkercustomsecurity.com/nyc-intercom-requirements-apartment-buildings
 - What happens if my intercom stops working? — vendor blog FAQ — https://www.imperasecurity.com/blog/nyc-building-security-requirements-landlords
 - My landlord won't fix the buzzer in my Bushwick apartment — what can I do? — provider page (says it draws on Reddit; I didn't verify) — https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-bushwick-brooklyn-ny
+
+## Coney Island, Brooklyn — /intercom-installation-coney-island-brooklyn-ny (factory research, 2026-11-12)
+
+- Trump Village (440 Neptune Ave, multiple addresses, 11224) is listed at 23 stories, 2,710 units, built 1964; listing shows "Full Time Doorman", "Security Guard", "Intercom to Front Desk", and says apartment intercoms have been upgraded to "touch screens connected to cell phones"; "Card or Code Access" listed — https://www.homes.com/building/trump-village-brooklyn-ny/b-jt7vkr1w1ljfw
+- Amalgamated Warbasse Houses: five 24-story towers, 2,585 units, about 8,000 residents, opened 1964, 26-acre site a few blocks from the Atlantic; the big capital job there is a riser/heating-cooling replacement apartment by apartment (not intercom); board president Michael Silverman: "We were one step short of a complete catastrophe." — https://habitatmag.com/Publication-Content/Bricks-Bucks/2021/September-2021/Amalgamated-Warbasse-Houses-Co-op-Tackles-a-Giant-Project
+- Luna Park co-op: "five-tower, 1,576-unit cooperative" in the Mitchell-Lama program; 2010 funding ($47M bank loan + $21M government grants/loans) to strip exterior brick and replace windows and roofs — https://therealdeal.com/new-york/2010/07/07/luna-park-co-op-gets-new-funding/
+- 1515 Surf Avenue: 463 units, 27 stories, built 2024; package room, gym, pool, garage parking listed; intercom/virtual doorman not mentioned on listing — https://streeteasy.com/building/1515-surf?unit_type=rentals
+- 1601 Mermaid Avenue: built 1920, 3 floors, 6 rental apartments, "Pre War" — the small walk-up stock on the avenue — https://www.cityrealty.com/nyc/coney-island/1601-mermaid-avenue/140028
+- Sea Gate: private gated community at the west end of Coney Island; 850 single-family houses (largely single- and two-family, 54 percent rentals); residents pay for private security through the Sea Gate Public Safety Department; main security gate; dues to the Sea Gate Association average $3,000 a year; Sandy flooded it with ocean water — https://en.wikipedia.org/wiki/Sea_Gate,_Brooklyn
+- NYCHA Coney Island walkthrough names Coney Island 1B (Unity Towers), Carey Gardens, Coney Island I (Sites 4 & 5), Haber Houses, Coney Island Houses, Gravesend Houses, O'Dwyer Gardens, Surfside Gardens, Coney Island Site 8; progress items include "Entrances with layered access security controls installed" and "CCTV cameras operational"; 3018 W 24th St: "building lobbies, will be dry flood-proofed via deployable barriers"; 3225 Neptune Ave: "1800 passive and deployable floodproofing components across 259 locations" — https://www.nyc.gov/assets/nycha/downloads/pdf/ciwalkthrough.pdf
+- NYCHA LAC/CCTV fact sheet: scope can include "key fob access points, and intercom systems" and "magnetic or electronic locks to doors and gates"; residents notified of "temporary disruptions to normal entryway access" during testing — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+- Coney Island Houses Sandy recovery: flood panels for "windows, doors, doorways, and other exterior openings", new underground electrical conduits, security cameras and "layered security", mailbox upgrades (FEMA Recovery to Resiliency) — https://nychajournal.nyc/?p=445
+- Dec 29 2023: Coney Island Houses, 2926 W 25th St — lobby flooded after rain and knocked out elevators; tenant: "Every time it rains hard, it floods in the hallway." — https://brooklyn.news12.com/coney-island-houses-tenants-dealing-with-flooded-lobby-inoperative-elevators
+- May 7 2026: Surf Vets Place (W 21st St), 10 stories, elevators out since May 1 after sprinkler water damaged elevator controls; many residents disabled veterans/older adults (no intercom mention) — https://brooklyn.news12.com/broken-elevators-in-10-story-coney-island-building-cause-concern-for-tenants
+- Law: buildings built/converted after 1968 with 8+ units need a two-way voice intercom from front door to each apartment (MDL); courts have treated intercoms as an essential service; Nancy Kourland (Lasser Law Group): "the co-op has a legal obligation to repair or replace the intercom." Tenants can file 311 or an HP case — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Co-op board case: older shareholders, a wireless phone-based system was rejected because many residents were retirees without smartphones and the vendor's fee was $3.50 per unit per month; board kept existing wiring and installed a wired video system — https://habitatmag.com/Publication-Content/Bricks-Bucks/Intercom-Job
+- Brooklyn 1963 co-op (Park Vanderbilt, 148 units): Aiphone video entry panels at both lobby ends and service entrance plus concierge station; reusing existing cable "save[d] $20,000"; $110,000, three weeks — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- HomeAdvisor national figures: average $2,500; wired main console $500–$2,500, each wired substation $200–$600; wireless systems $150–$1,500 — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Repair causes: Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections" — trouble spots are lobby base, apartment station, door strike and power supply; replacement about one day for a five-apartment building, about two days for a 100-unit building (Pete Carmello, Lock and Tech) — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Humidity and temperature swings degrade intercom parts including wires (ButterflyMX Brooklyn repair article) — https://butterflymx.com/blog/intercom-repair-brooklyn/
+- HPD intercom violation counts for ZIP 11224: EMPTY (NYC Open Data not reachable)
+- 311 intercom complaint counts for Coney Island: EMPTY
+- DOB permits for intercom work in Coney Island: EMPTY
+- LPC: landmarks are rides (Wonder Wheel, Cyclone, Parachute Jump) not residential districts — no residential historic district found: EMPTY
+- Reddit threads about Coney Island intercoms: EMPTY
+
+### Questions people ask — Intercom Installation in Coney Island
+- How much does it cost to install an intercom system in an apartment building? — PAA — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Is a landlord required to have a working intercom in NYC? — PAA — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Can I replace an old intercom without rewiring the building? — PASF — https://butterflymx.com/blog/retrofit-video-intercom-system-for-older-condo-building/
+- Wired vs wireless intercom cost — PASF — https://swiftlane.com/blog/wired-vs-wireless-intercom-cost/
+- Repair or replace a broken buzzer in a small apartment building? — PASF — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- How long does intercom replacement take? — AnswerThePublic-style — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Can a tenant get the landlord to fix a broken buzzer? — Bing — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- What intercom works for older residents without smartphones? — derived from co-op case — https://habitatmag.com/Publication-Content/Bricks-Bucks/Intercom-Job
+- Do gated communities need gate intercoms with cameras? — PASF — https://butterflymx.com/blog/gate-intercom-systems-with-camera/
+- Reddit questions: EMPTY
+- Yelp complaints: EMPTY
