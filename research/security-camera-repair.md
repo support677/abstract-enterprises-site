@@ -2890,3 +2890,64 @@ Note: the live search budget for this session was used up before new searches co
 - Why do my security cameras keep going offline? — vendor blog — https://www.innovativesecurity.com/post/why-do-my-business-security-cameras-keep-going-offline-common-causes-fixes
 - After a power outage 3 of my 7 cameras stopped working — Quora — https://www.quora.com/After-a-power-outage-3-of-my-7-cameras-on-my-outside-surveillance-system-stopped-working-They-are-not-connected-to-the-internet-I-tried-unplugging-one-and-plugging-back-in-Any-ideas-what-it-could-be-We-ve-had-power
 - How much does it cost to repair a security camera in Brooklyn? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-brooklyn
+
+## South Slope, Brooklyn — /security-camera-repair-south-slope-brooklyn-ny (factory research, 2026-11-12)
+
+Outline used for every open-data query (same AESS South Slope outline as the sibling pages: 10th–19th Street, Fourth Avenue to Prospect Park West): MULTIPOLYGON(((-73.9925 40.6713, -73.9796 40.6654, -73.9796 40.6549, -73.9939 40.6632, -73.9925 40.6713))). Queried Nov 11–12 2026.
+
+**Street lighting at night (311, erm2-nwe9)**
+- 311 "Street Light Condition" complaints with descriptor "Street Light Out" inside the outline: 2021: 73, 2022: 100, 2023: 95, 2024: 69, 2025: 43, 2026 (to Nov 11): 69 — 449 in all; plus "Multiple Street Lights Out" 1/3/3/2/6/3 (18) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Other lighting descriptors in the same file: "Street Light Cycling" (on-off) 4/2/3/4/0/2, "Street Light Dayburning" 2/0/6/7/2/1, "Street Light Lamp Dim" 4 in 2021, 1 in 2025, 1 in 2026; "Lamppost Knocked Down" 7 in 2026 alone; "Lamppost Damaged" 8 in 2026 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Street-light-out complaints by street, 2021–Nov 2026 (single + multiple): 18th Street 43, 12th Street 33, 14th Street 32, Prospect Avenue 22, 13th Street 15, Prospect Park West 14, 11th Street 13, Sixth Avenue 11, 10th Street 11, 17th Street 10, 19th Street 8, 16th Street 8, Windsor Place 7, Eighth Avenue 6, Fifth Avenue 5, 15th Street 4; 196 had no street name (intersection reports) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- Same complaints by month, 2021–2025: Jan 39, Feb 45, Mar 39, Apr 37, May 19, Jun 35, Jul 30, Aug 36, Sep 23, Oct 32, Nov 29, Dec 31 — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+
+**Thefts and vandalism camera footage is asked for (NYPD Complaint Data Historic, qgea-i56i, 2021–2025)**
+- Petit larceny: chain store 383, street 242, apartment house 178, house 117, commercial building 62, department store 37, grocery/bodega 25, drug store 25 — https://data.cityofnewyork.us/resource/qgea-i56i.json
+- Grand larceny: apartment house 126, street 116, house 40, commercial building 11 — https://data.cityofnewyork.us/resource/qgea-i56i.json
+- Criminal mischief: street 139, apartment house 36, house 20, grocery/bodega 13, restaurant/diner 11, commercial building 10 — https://data.cityofnewyork.us/resource/qgea-i56i.json
+- Petit larcenies at apartment houses and houses (295) by earliest start time: midnight–6 a.m. 19, 6 a.m.–noon 79, noon–6 p.m. 143, 6 p.m.–midnight 54 — 222 of 295 in daylight hours (6 a.m.–6 p.m.) — https://data.cityofnewyork.us/resource/qgea-i56i.json
+
+**Power events (recorders, switches, power supplies)**
+- Feb 1 2026 (FOX 5): more than 1,900 Con Edison customers in Park Slope without power after weather-related equipment damage; Con Ed: "In many locations, nearly a week's worth of compacted snow and ice is piled on top of manholes that crews must access to repair the underground electrical system" — https://www.fox5ny.com/news/brooklyn-power-outage-leaves-over-1900-without-service-crews-work-overnight
+- Feb 3 2026 (ABC7): 562 customers in Boerum Hill and Park Slope still out, down from over 2,000 Monday; melting snow mixed with road salt damaged underground equipment; Council Member Shahana Hanif: "Families are unable to make arrangements because the estimated time of restoration keeps moving" — https://abc7ny.com/post/power-outage-hundreds-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18532961/
+- CBS New York: residents in Park Slope spent a third night without heat after manhole fires; 427 customers still out on a Tuesday; Con Ed: "We must dig out dense, frozen layers of snow and ice just to access the system" (streets named were in Boerum Hill/Park Slope north; South Slope blocks not named) — https://www.cbsnews.com/newyork/news/power-outage-coned-brooklyn-park-slope/
+
+**Landmarks (affects replacing a camera on a facade)**
+- LPC Park Slope Historic District Extension (April 17 2012) covers about 600 buildings in the South Slope between 7th and 15th Streets and between 7th and 8th Avenues, both sides of 7th Avenue between 7th and 15th Streets, and buildings on 15th Street at Bartel-Pritchard Square — https://parkslopeciviccouncil.org/issues-and-advocacy/historic-district/historic-district-details/ ; https://www.citylandnyc.org/landmarks-approves-park-slope-historic-district-extension/
+- LPC Permit Guidebook ch. 11: no more than two security cameras per 25 feet of street frontage on small buildings; mount at mortar joints, plain masonry, wood or metalwork, never through cast iron or decorative surfaces; about ten inches of visible conduit; ordinary maintenance and repair of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**Building stock**
+- Newer Fourth Avenue condos with video intercom entry: 554 Fourth Avenue (40-residence glass condominium), 575 Fourth Avenue (mid-rise condo, elevator), 599 4th Avenue (17th–18th Streets) — https://www.islandadvantage.com/homes-for-sale-details/554-4TH-AVENUE-7B-BROOKLYN-NY-11215/992614/73/ ; https://www.homes.com/building/575-fourth-avenue-brooklyn-ny/b-py0xz41m0m7w8/ ; https://www.wernewyork.com/ListingDetails/536608/599-4th-Avenue-Park-Slope-Brooklyn-NY-11215
+
+**Footage, tenants and police**
+- Reddit r/AskNYC: "Most building lobbies have cameras, and they still steal from them. They have hoods and sunglasses on in most cases" — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- Reddit r/AskNYC: tenant whose building "has multiple cameras in the lobby but no doorman and packages keep getting stolen" asks how to make the landlord show footage — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- Brick Underground: a tenant may be able to push the landlord to review footage himself by arguing failure to look is negligent if package theft is ongoing — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Safe Slope neighborhood group ran a Safe Walk program in South Slope/Greenwood Heights/Windsor Terrace (Gothamist) — https://gothamist.com/news/police-showing-prisoners-video-of-brooklyn-serial-rapist
+
+**Competitor pricing / claims (vendor pages)**
+- UA Security: DVR and NVR repair service calls start at $150; "A live camera picture does not prove that usable footage is being recorded" — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Impera Security (Brooklyn): standard diagnostic service call $250, parts quoted separately — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Yelp**
+- Yelp Brooklyn security camera repair search excerpt (praise): "He is very knowledgeable about security cameras and there repair." — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+- Yelp complaints about camera repair near South Slope: EMPTY
+
+**Empty**
+- Reddit r/parkslope threads specifically about camera repair: EMPTY
+- South Slope-specific local news on camera repair: EMPTY
+- DOB permits for camera work in South Slope: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo live panels: EMPTY (not retrievable); questions below come from vendor FAQs, Reddit and Brick Underground
+
+### Questions people ask — Security Camera Repair in South Slope
+- Why is my security camera live but not recording? — vendor FAQ (UA Security) — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Why can't I view my security cameras remotely? — vendor FAQ (UA Security) — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Why is my DVR not working after replacing the hard disk? — Facebook post (UnldAppSecCo) — https://www.facebook.com/UnldAppSecCo/posts/-your-security-cameras-show-a-live-picturebut-is-your-dvr-or-nvr-actually-record/1766146188848285/
+- How much does security camera repair cost in Brooklyn? — vendor FAQ (Impera) — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Can you fix a security camera system that is not recording? — vendor FAQ (Impera) — https://www.imperasecurity.com/security-camera-repair-brooklyn
+- Is there a way to force a landlord to show me the camera footage? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- Can I put a camera in the lobby for package thieves? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- Package theft from our building is out of control, what can I do? — Reddit r/Brooklyn — https://www.reddit.com/r/Brooklyn/comments/1v5vuus/package_theft_from_our_building_is_out_of_control/
+- How do I get my landlord to let me look at security camera footage? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Why has my DVR or NVR stopped recording? — vendor FAQ — https://security-systems.nyc/service/security-camera-repair/
