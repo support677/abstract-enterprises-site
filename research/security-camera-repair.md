@@ -2279,3 +2279,43 @@ Note: the live web-search budget was used up before this page's own searches cou
 - Do I have to let my neighbor's camera record my back yard? — Reddit (r/homesecurity) — https://www.reddit.com/r/homesecurity/comments/1k6ibvk/neighbor_recording_my_backyard_247/
 - Should police get access to community camera feeds outside synagogues and schools? — Brooklyn Paper — https://www.brooklynpaper.com/midwood-residents-torn-on-agudath-cameras/
 - What do security camera installation and repair companies cost in Brooklyn? — Yelp / HomeAdvisor — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+## Homecrest, Brooklyn — /security-camera-repair-homecrest-brooklyn-ny (factory research, 2026-11-12)
+
+**Flooding and the cellar recorder (Homecrest-specific)**
+- News 12 Brooklyn, Apr 30 2026 (Shakti Denis): a $95 million plan to address chronic flooding in Homecrest covers about 350 acres including Kings Highway, Coney Island Avenue and Avenues P through V; most work is underground; an underground storage tank under Kelly Park's tennis courts will hold excess stormwater until the sewers can take it; porous pavement in some parking lanes; designed to handle 2.3 inches of rain per hour; plan in design, construction expected to begin in three to four years. DEP Commissioner Lisa Garcia: "This project will help protect homes, streets and businesses from extreme rainfall." — https://brooklyn.news12.com/2026/04/30/95-million-plan-revealed-to-address-chronic-flooding-issues-in-homecrest/6KF1yYBba0eZkpBQsKAdSY
+- NYC DEP Homecrest Cloudburst Hub intro presentation (May 2026): storm history Aug 2021 Henri 1.94 in/hr, Sept 2021 Ida 3.15 in/hr, Sept 29 2023 2.5 in/hr; "In 2023, NYC experienced rain every 3 days"; subsurface detention proposed at Sgt. Joyce Kilmer Square, Kelly Park (under tennis courts and schoolyard) and the PS 238 parking lot; map legend: nuisance flooding 4 in. to under 1 ft., deep and contiguous flooding 1 ft. and greater; timeline design mid 2026–late 2027, procurement early–mid 2028, construction mid 2028–mid 2031; residents asked to report flooding locations by survey — https://www.nyc.gov/assets/dep/downloads/pdf/climate-resiliency/homecrest-cloudburst-intro-presentation-260520.pdf
+- Same presentation also names Mellett Playground and South Brooklyn Pedestrian Safety Improvements (raised crosswalks) as related projects — same source
+
+**Power events next to Homecrest**
+- News 12, Aug 14 2025: over 5,600 customers in the Midwood area lost service just after 7 p.m. after weather downed power lines; restored by 10:37 p.m.; "Con Edison warns that some wires might still be down in some areas." (Midwood borders Homecrest across Kings Highway) — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- News 12, Dec 29 2025: 852 Brooklyn customers out as of Monday after the Dec 26 winter storm; "most of the outages appear to be weather-related"; melting snow and road salt "can seep into underground electrical equipment"; manhole incidents overnight (borough-wide, no neighborhood named) — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+
+**Local incidents where camera footage mattered (adjacent, not Homecrest addresses)**
+- News 12, Jun 30 2025: thief caught on camera taking about $3,000 from the purse of the owner of NZ Beauty Studio on Avenue U in Gravesend while she did pedicures in the back; ran westbound on Avenue U; "Exclusive surveillance video from last Tuesday night shows a person stealing from Zavulan's purse." — https://brooklyn.news12.com/exclusive-suspect-caught-on-camera-stealing-thousands-from-gravesend-salon
+- News 12, Mar 21 2025: "Security footage from early Saturday morning shows someone breaking into Bagel Boy on Avenue Z"; front door shattered, three registers damaged; five burglaries in the neighborhood within three days; police tie the person to more than a dozen citywide burglaries (Avenue Z is south of Homecrest) — https://brooklyn.news12.com/brooklyn-businesses-targeted-in-citywide-burglary-pattern
+- r/Brooklyn "Package Thief (Gravesend)": a security camera captured a person taking a package off a porch and heading toward Avenue S (excerpt only) — https://www.reddit.com/r/Brooklyn/comments/1wdrkrg/package_thief_gravesend/
+
+**Grants that pay for security work at Homecrest synagogues, churches, schools and nonprofits**
+- Governor's office, Apr 15 2026: up to $70 million in Securing Communities Against Hate Crimes grants (DCJS); max $250,000 per organization, largest cap since the program began in 2017; physical security or cybersecurity upgrades (lighting, locks, fencing, barriers, alarms, panic buttons, PA, access control, glass/film); vulnerability assessment required; deadline noon July 8; awards expected in the fall; 1,745 projects / more than $131.5 million funded under Hochul; this round up to 280 projects. Official list does not name cameras or repair specifically — https://www.governor.ny.gov/news/governor-hochul-announces-70-million-available-help-protect-community-based-organizations
+
+**Equipment rules (Hikvision / Dahua common on avenue storefront systems)**
+- FCC (DA 26-294): the proposed prohibition "would not affect continued use or operation of already-purchased communications equipment"; limitation on existing authorizations "would not affect the continued use or operation of devices that consumers already possess." — https://docs.fcc.gov/public/attachments/DA-26-294A1.pdf
+- FCC Covered List: Hikvision and Dahua video surveillance equipment is "covered" equipment that can no longer be newly authorized (FCC 22-84) — https://www.fcc.gov/supplychain/coveredlist
+
+**Cost benchmark**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Homecrest (11229): EMPTY
+- 311 / HPD complaint data about cameras in 11229: EMPTY
+- LPC historic districts in Homecrest: EMPTY (none found)
+- Homecrest-specific news of a camera failing at a key moment: EMPTY
+- Yelp reviews for camera repair in Homecrest: EMPTY
+- Reddit r/Homecrest: EMPTY (no such active sub found)
+
+### Questions people ask — Security Camera Repair in Homecrest
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What have people in Brooklyn found effective to prevent package theft? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1ox1y84/what_have_people_in_brooklyn_found_effective_to/
+- How do you report a package theft caught on camera in an apartment building? — Reddit — https://www.reddit.com/r/Brooklyn/comments/us04dr/package_theft_in_apartment/
