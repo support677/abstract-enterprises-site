@@ -321,7 +321,7 @@ LIVE | security-camera-repair-dumbo-brooklyn-ny | Security Camera Repair | DUMBO
 LIVE | security-camera-repair-dyker-heights-brooklyn-ny | Security Camera Repair | Dyker Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-east-flatbush-brooklyn-ny | Security Camera Repair | East Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-11T18:05Z factory | security-camera-repair-east-new-york-brooklyn-ny | Security Camera Repair | East New York, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-east-williamsburg-brooklyn-ny | Security Camera Repair | East Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-east-williamsburg-brooklyn-ny | Security Camera Repair | East Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fiske-terrace-brooklyn-ny | Security Camera Repair | Fiske Terrace, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatbush-brooklyn-ny | Security Camera Repair | Flatbush, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatlands-brooklyn-ny | Security Camera Repair | Flatlands, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
