@@ -1190,3 +1190,46 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How do I get my landlord to let me look at security camera footage to identify a package thief? — web result (Brick Underground) — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - FCC ban: future viability of Hikvision systems in the U.S.? — web result (IPCamTalk) — https://ipcamtalk.com/goto/post?id=961616
 - Customers raise questions about facial recognition cameras at a Brooklyn store — web result (News 12) — https://brooklyn.news12.com/customers-raise-questions-about-facial-recognition-at-burlington-coat-factory
+
+## East Flatbush, Brooklyn — /security-camera-repair-east-flatbush-brooklyn-ny (factory research, 2026-11-12)
+
+**Precinct and coverage**
+- The 67th Precinct "serves a region in the center of Brooklyn, comprising East Flatbush and Remsen Village"; its Community Council typically meets on the third Thursday of each month at 7:00 PM at the precinct — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/67th-precinct.page
+
+**Local incidents where cameras and lighting mattered**
+- St. Therese of Lisieux Church on Avenue D, East Flatbush (Oct 22 2024): a 100-year-old statue was smashed; surveillance footage showed the suspect entering the garden, climbing the statue, then covering a light with a backpack before using a brick on the statue's arm. Father Liju Augustine had upgraded the security system when he arrived about a year earlier and said the video "laid out exactly what happened." The garden gate is usually open 24/7 — https://abc7ny.com/post/search-suspect-vandalized-statue-st-therese-lisieux-church-east-flatbush-brooklyn/15459032/
+- Church Avenue deli/grocery, East Flatbush (Feb 2024): a man showed a firearm around 10:40 p.m. and took $600 from a register; article mentions no footage — https://brooklyn.news12.com/police-suspect-wanted-for-armed-robbery-at-east-flatbush-store
+- Near 532 East 95th Street (Apr 13 2026, published May 6 2026): two armed suspects took $2,500 and $200 from two men and fled toward Willmohr Street; article mentions no video — https://brooklyn.news12.com/brazen-gunpoint-robbery-leaves-two-men-thousands-short-in-east-flatbush
+- Flatbush apartment building (July 11-12 2025, Flatbush, not East Flatbush): tenants' Ring footage showed a shirtless man approach a hallway camera and cover the lens two days in a row; residents blamed broken entrance locks — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+- Flatbush Gardens (Sept 2024): a 58-year-old woman was robbed in her apartment after a man forced her door; tenant Dannie: "if the basic front door isn't working, yeah, I feel unsafe." No cameras mentioned — https://brooklyn.news12.com/flatbush-gardens-residents-demand-increased-security-following-violent-robbery
+- Rutland Plaza, East 93rd Street (Feb 2025): News 12 entered several buildings without a key; two teens had been found shot in a lobby weeks earlier; one building had 518 HPD complaints in two years; HPD put it in the Alternative Enforcement Program; resident Patricia Walters: "It's right in your face. The sewage, the killing, everything the unlocked doors". No cameras mentioned — https://brooklyn.news12.com/2025/02/19/east-flatbush-apartment-complex-residents-concerned-for-safety-in-their-homes/1E7gRI03QJ9LdJ7F0c3wJC
+
+**Power events that affect recorders, PoE switches and cameras**
+- Jan 14 2026: overhead power wires caught fire on East 48th Street at Church Avenue just after 2:50 a.m.; Con Edison reported 76 customers without power; one building evacuated for high carbon monoxide readings — https://www.yahoo.com/news/articles/dozens-without-power-overhead-wires-123936559.html
+- July 13 2026: manhole fire near 650 Ocean Ave (Flatbush) left about 343 Con Edison customers without power, restoration expected 1 a.m. — https://brooklyn.news12.com/2026/07/14/manhole-fire-leaves-flatbush-residents-in-the-dark/fB0f6Dcb4eHo3tz8lLsYI
+- June 20 2025: a manhole fire on Beverly Road in Flatbush left at least 1,700 customers without power — https://brooklyn.news12.com/more-than-1700-con-ed-customers-without-power-in-flatbush-due-to-manhole-issues
+- Feb 26 2026: after a snowstorm, 1,879 Brooklyn customers were still without power (Bed-Stuy, Williamsburg, Crown Heights named; East Flatbush not named) — https://brooklyn.news12.com/2026/02/26/power-outages-continue-after-snowstorm-some-may-wait-until-friday-night/1NUuIhENA0aYW3hfjLqv6L
+
+**Building systems and city data**
+- NYC DOI (March 26 2025): DOI tried to access the Genetec CCTV cameras at 63 NYCHA senior buildings; "44 of 63 of the Senior Buildings, approximately 70%, had CCTV cameras that could not be viewed remotely," for reasons including "outdated or incompatible software or hardware causing login, connection, and data storage issues" and "damage" — https://www.nyc.gov/assets/doi/reports/pdf/2025/14NYCHASecurityFireReleaseRpt03.26.2025.pdf
+- City Council hearing (Apr 15 2025): NYCHA said it aims to repair a reported-down camera within 24 to 72 hours, that vandalism is typically spray paint or cracked housings, and that it replaces camera heads; typically one or two cameras are down per day — https://citymeetings.nyc/meetings/new-york-city-council/2025-04-15-1000-am-committee-on-public-housing/chapter/issues-with-cctv-cameras-at-senior-buildings-and-maintenance-processes/
+- Brick Underground: landlord can be required to give up footage through a police request or court order; city buildings "aren't required to have functioning security cameras at all" (Jennifer Rozen); Catherine Grad: "Yes, there's an argument for the claim that the landlord has this duty" when package theft is ongoing — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Reolink guide: common causes of camera video loss are inadequate power (loose connections, faulty PoE switch or injector, long cables), surges and lightning, weak Wi-Fi, IR cut filter faults, recorder/camera compatibility with mixed brands, damaged or chewed cables, firmware faults and IP address conflicts — https://reolink.com/blog/video-loss-on-security-camera/
+- DOB permits, LPC rulings and 311 counts specific to camera repair in East Flatbush (11203/11226/11212): EMPTY
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical range $680 - $2,145, low-high $160 - $3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Reddit / Yelp**
+- r/EastFlatbush, r/Brooklyn, r/AskNYC threads about camera repair in East Flatbush: EMPTY
+- Yelp security camera repair reviews for East Flatbush: EMPTY (page not retrievable)
+
+### Questions people ask — Security Camera Repair in East Flatbush
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why is my security camera saying no video? — vendor FAQ — https://reolink.com/blog/video-loss-on-security-camera/
+- Why do my security cameras go black? — vendor FAQ — https://reolink.com/blog/video-loss-on-security-camera/
+- Why is there no video, but the camera LEDs are on? — vendor FAQ — https://reolink.com/blog/video-loss-on-security-camera/
+- Can I make my landlord review or show the building's camera footage after a package theft? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Does a landlord have to keep building security cameras working? — Brick Underground — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- How much do security camera installation & repair companies typically cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What happens when someone covers a camera lens or the light near it? — News 12 / ABC7 incidents — https://abc7ny.com/post/search-suspect-vandalized-statue-st-therese-lisieux-church-east-flatbush-brooklyn/15459032/
