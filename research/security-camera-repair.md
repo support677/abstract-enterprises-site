@@ -1965,3 +1965,49 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Which cameras hold up near salt water? — IPVM / IPCamTalk — https://ipvm.com/discussions/recommendation-for-salt-water-environment ; https://ipcamtalk.com/threads/camera-for-ocean-front-property-salt-resistant.26738/
 - My NVR says "No Hard Disk" or won't record — how do I fix it? — installer blog — https://guardsourcehq.com/nvr-no-hard-disk-wont-record/
 - How do I check whether my camera system is actually recording? — CCTV Camera World — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+
+## Marine Park, Brooklyn — /security-camera-repair-marine-park-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Nov 5, 2009 (Brooklyn Paper): a man was arrested for a string of car break-ins in Marine Park around East 32nd Street near Avenue P; a resident's video surveillance system caught him breaking into a car, 63rd Precinct officers printed a snapshot from the footage and faxed it to all Brooklyn South precincts, and officers in two commands identified him; the photo was also circulated at a Marine Park Civic Association meeting. Quote, Deputy Inspector Frank Cangiarella: "In no time we got responses from two different officers in two different commands identifying the suspect." Officer Theresa McElroy: "He's going into cars at three in the morning and taking credit cards and things like that." Civic president Greg Borruso: "No matter how safe you feel in Marine Park, lock your car, even if it's in your carport." — https://www.brooklynpaper.com/marine-park-becomes-home-for-unlocked-and-looted-cars/
+- Mar 2026 (News 12): police sought four people in a Feb. 23 burglary at a home near East 34th Street and Avenue N, around 4:30 p.m.; two smart TVs taken — https://www.instagram.com/reel/DVqplxbAKRZ/ (News 12 post, excerpt)
+- Oct 19, 2026 (News 12 video): a Marine Park resident walked outside to take her son to school and found her catalytic converter stolen; other Brooklyn residents reported similar thefts; police recommend marking converters, parking in well-lit areas and anti-theft devices (camera footage not mentioned) — https://www.youtube.com/watch?v=ggIsUPcsmZc
+- A Brooklyn news account (BNU) posted that "CCTV footage captured the moment thieves stole a catalytic converter in Marine Park" (excerpt only, date not shown) — https://www.instagram.com/p/DJs9LrUOtib/
+- Marine Park Brooklyn Facebook group: residents discuss repeated package theft; one commenter: "if they get caught the camera can serve as evidence" (excerpt only) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
+- Feb 7, 2024 (CBS New York): NYPD hate crime task force investigated vandalism at a Marine Park church; whether video was used is not stated — https://www.cbsnews.com/newyork/video/police-searching-for-suspects-in-marine-park-church-vandalism/
+- 63rd Precinct Community Council met at Purpose Life Church, 1895 Flatbush Avenue (excerpt from precinct X account) — https://x.com/NYPD63Pct
+
+**Power and water events that hit recorders, modems and cameras**
+- Feb 11, 2015 (Sheepshead Bites/Bklyner): a transformer blew around 9:25 a.m. and about 825 Marine Park households lost power in the area bounded by Avenue R, Avenue U, Stuart Street and Nostrand Avenue; restored by about 11:54 a.m. — https://bklyner.com/breaking-power-outage-hits-marine-park-leaving-hundreds-without-electricity-sheepshead-bay
+- Bklyner also reported an outage affecting hundreds in Gerritsen Beach and Marine Park (headline only) — https://bklyner.com/breaking-power-outage-for-hundreds-of-gerritsen-beach-marine-park-sheepshead-bay
+- Dec 29, 2025 (News 12): after a winter storm, 530 Brooklyn customers were still without power Monday night; Con Edison: "When snow melts and mixes with road salt, that water can seep into underground electrical equipment and cause damage." Marine Park not named — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+- Aug 14, 2025 (News 12): over 5,600 customers in the Midwood area lost power after storms downed lines; restored by 10:37 p.m. (neighboring area, not Marine Park) — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- THE CITY (Feb 2024): from July through October 2023 New Yorkers logged almost 5,400 311 complaints of sewer backups; "In the past four years, the most complaints about sewage backup have been reported in an area of Brooklyn that includes Gerritsen Beach, Mill Basin and Marine Park." City sewers are designed for about 1.75 inches of rain per hour — https://www.thecityreporter.nyc/2024/02/08/sewer-backups-elmhurst-solutions/
+- Flood Form (parcel data as of Oct 28, 2026): Marine Park & Mill Basin storm-sewer area has 10,396 properties; 56% rated Moderate or High for stormwater, 28% for sewer backup, 50% for groundwater, 46% for coastal flooding — https://floodform.nyc/homeowners/nyc-flood-exposure/marine-park-mill-basin-mill-basin
+- Facebook group excerpt: a nearby resident (72nd and T) wrote "every big storm we get flooded" — https://www.facebook.com/groups/MarineParkBrooklyn/posts/4237977822967872/
+
+**Rules that touch camera repair (silo-wide, apply here)**
+- NYS license required to install or maintain security systems including CCTV used for intrusion/theft monitoring (19 NYCRR 195.2); owner self-install exempt — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system ; https://dos.ny.gov/fire-alarm-installer
+- NY Labor Law 203-c: employers must post notice of workplace video monitoring and get written acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- Ring ended police "Request for Assistance" in Jan 2024; police can still get video by warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- LPC: Marine Park has no historic district found; the Hendrick I. Lott House is an individual landmark (park property) — EMPTY for any LPC camera rule affecting private Marine Park houses
+- DOB permits for camera repair in Marine Park: EMPTY
+- 311 camera complaints for 11229/11234: EMPTY
+
+**Competitor pricing seen**
+- UA Security: "Security camera and DVR/NVR repair service calls in Brooklyn start at $150; parts and replacement cameras are quoted after testing." — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- security-systems.nyc: "Flat diagnostic fee, waived when you approve the..." repair — https://security-systems.nyc/service/security-camera-repair/
+- Impera Security lists "Cameras Working but Not Recording" causes: failed hard drive, incorrect recording schedule, recording disabled for channels, recorder hardware, firmware, bandwidth — https://www.imperasecurity.com/security-camera-repair
+
+**Reddit / Yelp**
+- Reddit threads about camera repair in Marine Park: EMPTY (search returned none)
+- Yelp Marine Park camera repair search: EMPTY (page could not be fetched)
+
+### Questions people ask — Security Camera Repair in Marine Park
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live results not retrievable)
+- Is my DVR or NVR no longer recording, and why? — vendor page (Impera) — https://www.imperasecurity.com/security-camera-repair
+- What does a camera service call in Brooklyn cost, and are parts extra? — vendor page (UA Security) — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Is the diagnostic fee waived if I approve the repair? — vendor page — https://security-systems.nyc/service/security-camera-repair/
+- What to do about repeated package theft in Marine Park, Brooklyn? — Facebook group (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
+- Can my camera footage serve as evidence if a thief is caught? — Facebook group (excerpt) — https://www.facebook.com/groups/MarineParkBrooklyn/posts/9325021704263433/
+- Did any camera catch the catalytic converter thieves on my block? — News 12 / BNU — https://www.youtube.com/watch?v=ggIsUPcsmZc
