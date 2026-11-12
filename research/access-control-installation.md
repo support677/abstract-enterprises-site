@@ -4875,3 +4875,38 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "access control installation Fort Greene" — EMPTY
 - Reddit r/FortGreene threads on access control — EMPTY
 - Yelp complaints/praise for access control installers near Fort Greene — EMPTY
+
+## Greenpoint, Brooklyn — /access-control-installation-greenpoint-brooklyn-ny (factory research, 2026-11-12)
+
+- 26 West Street (luxury rental building, Greenpoint), about 1:32 a.m. on Sept 11, 2024: "The unknown individual forcibly pulled the front door open, according to the NYPD, removing property before fleeing the location on foot"; a resident said items were stolen from the building's storage unit — https://greenpointers.com/2024/09/12/a-thief-broke-into-26-west-street-early-wednesday-morning
+- 182 Driggs Ave, Greenpoint, about 4 a.m. Jan 23 (reported March 15, 2019): two men "entered the building through the front door" and took a bicycle worth about $1,800 that was "locked up in the lobby of the building" — https://brooklynpost.com/burglars-steal-1800-bike-from-driggs-avenue-building-nypd
+- Baoburg, 614 Manhattan Ave: burglar entered about 1:50 a.m. "through an unlocked basement door" and rummaged through the basement; an hour later a laundromat at 184 Norman Ave was entered through a side window, about $500 cash from a money exchange machine and $1,000 in coins taken (reported July 18, 2017) — https://brooklynpost.com/nypd-1000-in-coins-500-in-cash-stolen-from-laundromat-and-restaurant-in-greenpoint
+- July 2020: Bagel Point (699 Manhattan Ave) Norman Avenue entrance smashed open with a brick; attempted break-in at The Greenpoint Palace (206 Nassau Ave) destroyed its stained glass; Mahps Kids and Home (181 Nassau Ave) vandalized — https://www.greenpointers.com/2020/07/17/nassau-avenue-businesses-burglarized-and-vandalized/
+- Summer 2013: two burglars hit 12 North Brooklyn bars and shops in about six weeks (94th Precinct), entering through "street level entrances," mostly late at night or early morning when closed; targets included Boulevard Tavern on Meeker Ave, Oslo Coffee, Fat Goose, One Stop Beer Shop, Grandma Rose's — https://www.dnainfo.com/new-york/20130730/greenpoint/thiefs-strike-12-north-brooklyn-bars-shops-six-weeks
+- NYPD CompStat, 94th Precinct, week ending Nov 8, 2026: burglary year to date 87 (2026) vs 127 (2025), -31.5%; 28-day 6 vs 10; -58.6% over 16 years, -91.2% over 33 years; robbery YTD 62 vs 100 (-38.0%); grand larceny YTD 489 vs 519 (-5.8%) — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-094pct.pdf
+- Greenpoint Manufacturing and Design Center, 1155 Manhattan Ave on Newtown Creek: eight connected buildings (rope works, first building 1868), 366,000 sq ft of industrial space; city took it by tax foreclosure in 1974; nonprofit rehab in the 1990s created individual tenant spaces; still houses small business and artisan tenants — https://www.brownstoner.com/architecture/greenpoint-manufacturing-design-center-rope-factory-brooklyn-artist-studio-1155-manhattan-avenue
+- GMDC: umbrella for "the 70+ tenants and some 240 employees that occupy the spacious lofts" (jewelry design, metal spinning, screen printing) — https://www.untappedcities.com/the-greenpoint-manufacturing-and-design-center/
+- 2005 rezoning: City Council rezoned 175 blocks of Greenpoint and nearby Williamsburg; at least 13 waterfront towers completed or nearing completion; Greenpoint Landing is 22 acres planned for 11 towers and 5,500 units — https://api-prod.gothamist.com/news/a-layer-cake-of-environmental-pollution-greenpoint-struggles-with-rezoning-18-years-on
+- 16 Dupont Street (Greenpoint Landing): 40 stories, 380 rentals (114 affordable), 138 enclosed parking spaces, ground-floor retail; Park Tower Group and Rockefeller Group — https://cityrealty.com/nyc/market-insight/features/future-nyc/glassy-40-story-rental-rise-16-dupont-street-greenpoint-landing/55763
+- amNY (Sept 22, 2019): city rules still require a traditional key method; DOB classifies fobs, cards and metal keys as keys; Hell's Kitchen loft tenants sued after a landlord installed Latch and stopped providing mechanical lobby keys; NYCLU's Lee Rowland: "It's fundamentally inappropriate for anyone to be told that a condition of living somewhere is giving up their data." — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- Cooperator: a fob can be disabled when lost or when a tenant moves out without changing locks; fobs stop working in a power outage and battery backups may not last; during Superstorm Sandy boards needed the super to staff the door; quote (Halper): "Basically, you need the super to man the front door to keep it open and under surveillance." — https://cooperatornews.com/article/keys-key-fobs-and-door-codes
+- NYC biometric identifier law (Admin Code 22-1201 to 1205, effective July 9, 2021): commercial establishments (retail, food and drink, entertainment) that collect customer biometric data must post notices near all entrances; selling biometric data banned; statutory damages $500 to $5,000 per violation; 30-day cure for signage — https://hklaw.com/en/insights/publications/2021/08/nyc-passes-biometric-data-protection-laws-aimed-at-businesses
+- Kisi cost guide (vendor): average $2,000 to $4,000 per door; key fob/keycard $1,500 to $3,500 per door plus $5 to $10 per fob and $30 to $100 a month software; cloud subscriptions $30 to $200 a month — https://www.getkisi.com/blog/breakdown-of-access-control-system-installation-costs
+- Google PAA for "access control installation Greenpoint" — EMPTY
+- Google PASF — EMPTY
+- AnswerThePublic — EMPTY
+- Bing / DuckDuckGo — EMPTY
+- Yelp (Greenpoint access control installers) — EMPTY
+- Reddit r/Greenpoint threads about fob or card access — EMPTY
+
+### Questions people ask — Access Control Installation in Greenpoint
+- Can a landlord take away the metal key and make the building fob- or app-only? — news (amNY) — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- What data does a fob or app entry system collect about tenants, and who sees it? — news (amNY) — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- What happens to a fob door when the power goes out? — Cooperator — https://cooperatornews.com/article/keys-key-fobs-and-door-codes
+- How quickly can a lost fob be shut off? — Cooperator — https://cooperatornews.com/article/keys-key-fobs-and-door-codes
+- How much does access control cost per door, and is there a monthly fee? — vendor cost guide — https://www.getkisi.com/blog/breakdown-of-access-control-system-installation-costs
+- Can a shop or bar use face or fingerprint entry, and what notice does the law require? — law firm summary — https://hklaw.com/en/insights/publications/2021/08/nyc-passes-biometric-data-protection-laws-aimed-at-businesses
+- Someone forced our front door and got into the storage room — what would access control change? — Greenpointers (26 West St) — https://greenpointers.com/2024/09/12/a-thief-broke-into-26-west-street-early-wednesday-morning
+- How do we stop people walking in behind residents and taking bikes from the lobby? — Brooklyn Post (182 Driggs) — https://brooklynpost.com/burglars-steal-1800-bike-from-driggs-avenue-building-nypd
+- How do we keep a restaurant basement door from being left unlocked overnight? — Brooklyn Post (Baoburg) — https://brooklynpost.com/nypd-1000-in-coins-500-in-cash-stolen-from-laundromat-and-restaurant-in-greenpoint
+- Can each tenant in a shared industrial loft building have their own door access? — GMDC sources — https://www.untappedcities.com/the-greenpoint-manufacturing-and-design-center/
