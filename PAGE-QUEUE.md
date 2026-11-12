@@ -358,7 +358,7 @@ LIVE | security-camera-repair-south-slope-brooklyn-ny | Security Camera Repair |
 LIVE | security-camera-repair-south-williamsburg-brooklyn-ny | Security Camera Repair | South Williamsburg, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-spring-creek-brooklyn-ny | Security Camera Repair | Spring Creek, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-starrett-city-brooklyn-ny | Security Camera Repair | Starrett City, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T10:44Z max-burn | security-camera-repair-stuyvesant-heights-brooklyn-ny | Security Camera Repair | Stuyvesant Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-stuyvesant-heights-brooklyn-ny | Security Camera Repair | Stuyvesant Heights, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-sunset-park-brooklyn-ny | Security Camera Repair | Sunset Park, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | security-camera-repair-vinegar-hill-brooklyn-ny | Security Camera Repair | Vinegar Hill, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T10:52Z max-burn | security-camera-repair-weeksville-brooklyn-ny | Security Camera Repair | Weeksville, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
