@@ -1780,3 +1780,45 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - Can police get my camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY
+
+## Madison, Brooklyn — /security-camera-repair-madison-brooklyn-ny (factory research, 2026-11-12)
+
+**Local incidents where camera footage mattered**
+- Security camera footage shared by NY1 and PIX11 shows a man approaching a victim on East 21st Street & Avenue U, pulling a firearm, and stealing $8,300; a related post says a 34-year-old man was robbed at gunpoint on a Sunday in front of 2109 Avenue U (date of incident not given in the excerpts) — https://www.facebook.com/ny1news/videos/gunpoint-robbery-in-brooklyn/654745954928831/ and https://www.instagram.com/reel/DM038cMxWRg/
+- News 12 Brooklyn, Jul 31 2026: a 64-year-old man was pushed to the ground while anti-Jewish remarks were shouted, just after 8 a.m. on July 21 near Kings Highway and Ocean Avenue; "Police released images of the alleged attacker a day after the incident"; a 46-year-old was arrested just over a week later; the victim was taken to Maimonides Midwood Community Hospital — https://brooklyn.news12.com/2026/07/31/arrest-made-in-midwood-hate-crime-attack/3kAHBDMLvRHmMbAtCuk3Jk
+- A Sheepshead Bay community group post describes a package theft in a building lobby: "The video shows security camera footage from inside the building, which captures the person leaving" — https://www.facebook.com/groups/brightonbeachbrooklyn/posts/28834977802849410/
+- News 12 Brooklyn storm watch, Nov 11 2026: "Nor'easter to bring soaking rain, gusty winds followed by much colder temperatures to Brooklyn" — https://brooklyn.news12.com/2026/07/31/arrest-made-in-midwood-hate-crime-attack/3kAHBDMLvRHmMbAtCuk3Jk (sidebar link to the forecast)
+
+**Commercial corridor facts**
+- Kings Highway BID: office 905 Kings Highway, 2nd floor, Brooklyn 11223; established January 1990; 28 block faces; assessment $400,000; SBS lists its neighborhood as Midwood — https://www.nyc.gov/site/sbs/neighborhoods/bid-directory.page?bid=19
+- "To improve safety around Sgt. Joyce Kilmer Square in Brooklyn, the Kings Highway BID installed additional streetlamp fixtures" — https://www.crainsnewyork.com/op-ed/bids-40-four-decades-building-new-york-city-everyone/
+- NYC SBS BID trends reports list "neighborhood patrol, security cameras, additional lighting" among BID safety services — https://on.nyc.gov/fy25bidtrends
+
+**Footage, buildings and tenants**
+- r/AskNYC lobby-camera thread: "The biggest thing that got the report traction was that my super pulled the video of someone breaking into the lobby and stealing packages" — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+
+**Power**
+- Con Edison asks customers to report outages online or at 1-800-75-CONED and keeps a live outage map; reported outages can take up to 30 minutes to appear — https://www.coned.com/en/services-and-outages/report-track-service-issue/check-outage-status
+- A Con Edison post quoted: "Due to heat, about 33,000 customers in Brooklyn have been taken out of service for repairs" (date not in excerpt) — https://www.facebook.com/ConEdison/posts/we-have-temporarily-shut-off-electric-service-to-approximately-9800-residential-/1503307748507535/
+
+**Competitor framing (vendor claims, not verified)**
+- Impera Security lists "Cameras Working but Not Recording — Failed DVR or NVR hard drive" as a common repair — https://www.imperasecurity.com/security-camera-repair
+- UA Security: "Many Brooklyn service calls are caused by a bad power supply, failed hard drive" — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Alpha Doors & Security: "DVR shows no recordings: Failed hard drive or broken ..." — https://alphadoorsandsecuritynyc.com/security-systems/cctv-repair/
+
+**Empty**
+- DOB permits for camera work in Madison: EMPTY
+- LPC historic districts in Madison affecting camera mounting: EMPTY (none found)
+- 311 / HPD camera complaint data for 11229/11210: EMPTY
+- Reddit threads specific to Madison camera repair: EMPTY
+- Yelp complaints for camera repair near Madison: EMPTY (only the Brooklyn search page surfaced)
+- Precinct covering Madison's blocks: EMPTY (not confirmed)
+
+### Questions people ask — Security Camera Repair in Madison
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why are my cameras working but not recording? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Why does my DVR show no recordings? — vendor FAQ — https://alphadoorsandsecuritynyc.com/security-systems/cctv-repair/
+- What causes most Brooklyn camera service calls (power supply or hard drive)? — vendor page — https://www.uasecurity.com/security-camera-system-repair-brooklyn-new-york.htm
+- Can I put a camera in the lobby for package thieves? — Reddit — https://www.reddit.com/r/AskNYC/comments/100v3n5/can_i_put_camera_in_the_lobby_for_package_thieves/
+- Who fixes security cameras near me in NYC? — vendor FAQ — https://www.abstractenterprisessecuritysystems.com/security-camera-repair-nyc
+- What do security camera repair companies in Brooklyn charge? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
