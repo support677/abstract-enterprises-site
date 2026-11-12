@@ -989,7 +989,7 @@ LIVE | door-buzzer-repair-cypress-hills-brooklyn-ny | Door Buzzer Repair | Cypre
 LIVE | door-buzzer-repair-dyker-heights-brooklyn-ny | Door Buzzer Repair | Dyker Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-east-new-york-brooklyn-ny | Door Buzzer Repair | East New York, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-flatbush-brooklyn-ny | Door Buzzer Repair | Flatbush, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T11:15Z max-burn REBUILD | door-buzzer-repair-flatlands-brooklyn-ny | Door Buzzer Repair | Flatlands, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-flatlands-brooklyn-ny | Door Buzzer Repair | Flatlands, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T11:16Z max-burn REBUILD | door-buzzer-repair-fort-hamilton-brooklyn-ny | Door Buzzer Repair | Fort Hamilton, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T11:17Z max-burn REBUILD | door-buzzer-repair-greenpoint-brooklyn-ny | Door Buzzer Repair | Greenpoint, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 REBUILD | door-buzzer-repair-jerome-park-bronx-ny | Door Buzzer Repair | Jerome Park, Bronx | up /door-buzzer-repair-bronx-new-york | (646) 490-0629 | GBP Bronx
