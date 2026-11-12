@@ -3902,3 +3902,49 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Do I need Landmarks approval for an intercom on a landmarked house? — Lefferts Manor Association / LPC guidebook — https://www.leffertsmanor.org/about/landmark-status
 - How do buildings stop package theft when tenants buzz in strangers? — News 12 — https://bronx.news12.com/packages-stolen-from-prospect-park-building-spark-tenant-frustration
 - PAA — EMPTY; AnswerThePublic — EMPTY; Bing — EMPTY; DuckDuckGo — EMPTY; Reddit (PLG) — EMPTY; Yelp — EMPTY.
+
+## Prospect Park South, Brooklyn — /intercom-installation-prospect-park-south-brooklyn-ny (factory research, 2026-11-12)
+
+- LPC staff criteria for intercoms in historic districts: lights, intercom panels and doorbells "must be installed within or adjacent to a door opening"; an intercom can also go on a fence or wall in front of the entranceway; maximum of two light fixtures and one intercom panel per door opening; design, size and finish must be compatible with the architecture of the building — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC: ordinary maintenance, repair and retrofitting of equipment needs no permit; repainting equipment the same color is exempt; LPC contact 212-669-7817 / info@lpc.nyc.gov for questions — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC conduit rule: conduit should be hidden through plain masonry or wall cladding behind the installation; if not possible staff may approve about ten inches of visible conduit, painted to match and secured into mortar joints where possible; never on decorative surfaces — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC attachment rule: equipment must be attached at mortar joints, plain masonry, wood or metalwork, or concrete paving at the areaway/sidewalk; never through cast iron or to decorative surfaces; equipment generally not on the primary facade unless no other option, kept as small as possible and painted to blend — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- LPC cameras: small residential buildings no more than two cameras per 25 feet of street frontage; large residential/institutional no more than three per 25 feet — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- 1 RCNY 42-01: class A multiple dwellings with eight or more apartments (erected/converted before or after Jan 1, 1968) need automatic self-closing and self-locking doors and an intercommunication system at the required main entrance door, placed so a person may readily reach the door when the unlocking buzzer is activated — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- 1 RCNY 42-01 minimum system: a bell or buzzer system or a speaking and listening device, plus a return buzzer mechanism to release the lock; no push button more than six feet from the floor; speaking/listening device not less than four and not more than five feet from the floor; self-locking doors must open from inside without keys — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Habitat Magazine (Feb 26, 2024): courts treat intercoms as an essential service under the warranty of habitability; enforcement via 311 complaint or HP proceeding; quote from Nancy Kourland, Lasser Law Group: "As a result, the co-op has a legal obligation to repair or replace the intercom" — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- HPD correction periods cited by ButterflyMX: 90 days Class A, 30 days Class B, 24 hours most Class C; NYC311 lists "broken or missing doorbells, buzzers, and intercoms" as reportable; MDL 50-a baseline covers voice and door release, not video or mobile access; pre-1968 buildings can become subject after a written request from a majority of tenants — https://butterflymx.com/blog/intercom-repair-nyc
+- ButterflyMX failure map: entry panel/power/controller faults kill the whole building; apartment station faults hit one unit; shared riser faults hit several; relay/strike faults mean the buzzer sounds but the door stays locked; older systems depend on hard-to-source parts — https://butterflymx.com/blog/intercom-repair-nyc
+- Brick Underground (Nov 7, 2019): Daniel Vasquez of Paragon Security and Locksmith: "It's all in the wire connections" and "Intercoms are getting outdated"; a five-apartment building can be done in about a day, a 100-unit building about two days (Pete Carmello, Lock and Tech); even older Lee Dan systems usually have sound core wiring — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- HPD Tenant Data Privacy Law: applies to owners of multiple dwellings using smart access (key fobs, RFID cards, mobile apps, biometrics); express written or in-app consent before collecting reference data; authentication data destroyed no later than 90 days unless anonymized; written privacy policy to tenants; owners cannot require smart access to enter a tenant's own unit — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+- 25 Parade Place: 1935 prewar co-op, 6 stories, across from the Parade Grounds; amenities list an intercom, live-in super, two elevators — https://www.cityrealty.com/nyc/flatbush/25-parade-place/41897
+- 55 Parade Place (The Sovereign): 1927 prewar co-op, 6 stories, 73 units, live-in super, across from the Parade Grounds — https://www.cityrealty.com/nyc/flatbush/55-parade-place/73691
+- 1110 Caton Avenue: 1931 prewar co-op, 4 stories, one elevator; listing says 32 apartments across this building and 5 Stratford Road (shared co-op) — https://www.bhsusa.com/for-sale/brooklyn/new-york-city/prospect-park-south/1110-caton-avenue-11c-new-york-city-ny-11218/RLS20081859-4659615
+- 1123 Albemarle Road: 1902 two-family house in the historic district (Carrol H. Pratt), garden duplex plus upper five-bedroom apartment, three floors plus basement, 6,216 sq ft, two-car garage with driveway — https://www.brownstoner.com/listing/CORCORAN-22115507/1123-albemarle-rd-prospect-park-south-brooklyn-ny-11218/amp
+- Albemarle Road houses listed as multi-family (922 and 1123 Albemarle) — https://miltoncoste.com/for-sale/5br-multi-family-prospect-park-south-922-albemarle-road-apt-building-rls10872260
+- HDC: large freestanding frame homes, Spanish Mission, Italian Villa, Queen Anne, Colonial and Tudor revival styles; district designated Feb 8, 1979 — https://hdc.org/?p=9482
+- Openigloo lists 246 buildings tagged Prospect Park South, e.g. 10 Westminster Road (82 open violations), 1700 Albemarle Road (29), 62 Stratford Road (none) — counts as shown on page, not intercom-specific — https://www.openigloo.com/buildings/brooklyn/prospect-park-south/historic-and-modern?page=10
+- News 12 (Aug 16, 2024), Kensington next door: residents say a man entered through a building's back door to take packages from the mailboxes; resident Emilia Rakhamimova: "I'm not sure if the door is actually supposed to be open." — https://brooklyn.news12.com/exclusive-man-steals-packages-in-broad-daylight-in-kensington
+- Prospect Park South-specific HPD intercom violation counts: EMPTY
+- Prospect Park South-specific 311 intercom complaint counts: EMPTY
+- DOB permits for intercom work in Prospect Park South: EMPTY
+- Reddit threads about intercoms in Prospect Park South: EMPTY
+- Yelp complaints about intercom installers near Prospect Park South: EMPTY
+
+### Questions people ask — Intercom Installation in Prospect Park South
+- Do I need Landmarks approval to add an intercom panel to a house in a historic district? — Bing — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Is a wired or wireless intercom better for a large old house? — DuckDuckGo — https://swiftlane.com/blog/wireless-intercom-systems/
+- Why should you consider hard-wired intercoms for historic properties? — Bing — https://gazpearce.codeberg.page/posts/why-you-should-consider-hard-wired-intercoms-for-historic-properties.html
+- How much does intercom installation cost in NYC? — PASF — https://www.countbricks.com/post/intercom-installation-nyc
+- How much does apartment intercom replacement cost? — PASF — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- Can you retrofit a video intercom in an older building without a full rewire? — Bing — https://butterflymx.com/blog/retrofit-video-intercom-system-for-older-condo-building/
+- Can a wired intercom be upgraded to WiFi without rewiring? — PASF — https://butterflymx.com/blog/upgrade-a-wired-intercom-to-wifi-without-rewiring-your-building/
+- How do I choose a home intercom system? — AnswerThePublic-style — https://pipl.systems/guides/choose-home-intercom-system/
+- Is a broken intercom in my apartment illegal, and what can I do? — Bing — https://herrick.com/news/that-broken-intercom-in-your-apartment-is-illegal-heres-what-to-do
+- How long does it take to replace a building intercom? — Bing — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- How do I get my landlord to fix a broken buzzer? — Bing — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Who is responsible for repairing the intercom in a co-op? — Bing — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- What is a single-family home intercom system and what does it include? — DuckDuckGo — https://www.2n.com/en-AU/blog/single-family-home-intercom-system-a-complete-guide/
+- Google PAA for "intercom installation Prospect Park South": EMPTY
+- Reddit questions: EMPTY
+- Yelp: EMPTY
