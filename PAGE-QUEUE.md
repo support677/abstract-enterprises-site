@@ -731,7 +731,7 @@ LIVE | intercom-installation-brooklyn-chinatown-brooklyn-ny | Intercom Installat
 LIVE | intercom-installation-canarsie-brooklyn-ny | Intercom Installation | Canarsie, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-city-line-brooklyn-ny | Intercom Installation | City Line, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-clinton-hill-brooklyn-ny | Intercom Installation | Clinton Hill, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T13:11Z max-burn | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
+LIVE | intercom-installation-co-op-city-bronx-ny | Intercom Installation | Co Op City, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-coney-island-brooklyn-ny | Intercom Installation | Coney Island, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T13:27Z max-burn | intercom-installation-country-club-bronx-ny | Intercom Installation | Country Club, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-crown-heights-brooklyn-ny | Intercom Installation | Crown Heights, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
