@@ -36,6 +36,22 @@ if(il){var iex=[];ICOM_BRANDS.forEach(function(b){iex=iex.concat(icomVariants(b)
 var attached=0,skipped=[];var cs=AdsApp.campaigns().withCondition("campaign.status = ENABLED").withCondition("campaign.advertising_channel_type = SEARCH").get();
 while(cs.hasNext()){var c=cs.next();var nm=c.getName().toLowerCase();var b=ALLB.filter(function(x){return new RegExp('\\b'+x.replace(/[-]/g,'\\-')+'\\b').test(nm);});if(b.length){skipped.push(c.getName());continue;}
 var on=false;var li=c.negativeKeywordLists().get();while(li.hasNext()){if(li.next().getName()==LIST){on=true;break;}}if(!on){c.addNegativeKeywordList(list);attached++;}}
+// --- BRAND GUARD (Anwar Nov 12 2026): every equipment-brand negative, in every shared list and every enabled search campaign, must be EXACT.
+// brand(+product words) as phrase/broad -> removed and re-added as exact. brand + hire word (e.g. "canary camera installation") -> removed (that's a lead).
+var GB=CAM_BRANDS.concat(['blink','nest','yi','canary','alibi','ring','akuvox','aiphone','comelit','butterflymx','lee dan','leedan','siedle','elvox','tektone','swiftlane','fanvil']);
+var PROD='(camera|cameras|cam|cams|doorbell|doorbells|security|system|systems|app|intercom|intercoms|cctv|nvr|dvr|video|cloud|login|outdoor|indoor|wireless|wifi|home)';
+var GBRE=GB.map(function(b){return new RegExp('^'+b.replace(/[-]/g,'\\-')+'( '+PROD+')*$');});
+var GHIT=GB.map(function(b){return new RegExp('\\b'+b.replace(/[-]/g,'\\-')+'\\b');});
+var gConv=[],gDrop=[];
+function guardOne(k,addFn,where){var mt=String(k.getMatchType()).toUpperCase();if(mt.indexOf('EXACT')>=0)return;var raw=k.getText().toLowerCase().replace(/^["\[]+|["\]]+$/g,'').replace(/\+/g,'').trim();if(PHRASE_ALWAYS.indexOf(raw)>=0)return;
+ if(GBRE.some(function(r){return r.test(raw);})){k.remove();[raw,raw+' camera',raw+' cameras',raw+' app'].forEach(function(e){if(e.split(' ').length<=10){try{addFn('['+e+']');}catch(x){}}});gConv.push(where+': '+raw);return;}
+ if(HIRE.test(raw)&&GHIT.some(function(r){return r.test(raw);})){k.remove();gDrop.push(where+': '+raw);}}
+var all=AdsApp.negativeKeywordLists().get();while(all.hasNext()){var L=all.next();var nm2=L.getName();var kk=L.negativeKeywords().get();var buf=[];while(kk.hasNext()){buf.push(kk.next());}buf.forEach(function(k){guardOne(k,function(t){L.addNegativeKeyword(t);},'list '+nm2);});}
+var gc=AdsApp.campaigns().withCondition("campaign.status = ENABLED").withCondition("campaign.advertising_channel_type = SEARCH").get();
+while(gc.hasNext()){var cc=gc.next();var cn=cc.getName();var ck=cc.negativeKeywords().get();var b2=[];while(ck.hasNext()){b2.push(ck.next());}b2.forEach(function(k){guardOne(k,function(t){cc.createNegativeKeyword(t);},cn);});}
+Logger.log('BRAND GUARD: converted to exact '+gConv.length+' | removed brand+hire negatives '+gDrop.length);
+Logger.log('CONVERTED: '+gConv.join(' , ').slice(0,3500));
+Logger.log('REMOVED (leads): '+gDrop.join(' , ').slice(0,2000));
 Logger.log('CAMERA LIST: removed '+C.removed.length+' brand phrase negatives | added '+C.add.length+' ('+shop+' shopper terms seen) | newly attached '+attached+' | skipped brand-named: '+skipped.join('; '));
 Logger.log('INTERCOM LIST: removed '+I.removed.length+' brand phrase negatives | added '+I.add.length);
 Logger.log('REMOVED: '+C.removed.concat(I.removed).join(' , '));
