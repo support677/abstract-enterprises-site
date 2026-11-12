@@ -377,7 +377,7 @@ BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-columbia-street-
 BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-crown-heights-brooklyn-ny | Door Buzzer Repair | Crown Heights, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-ditmas-park-brooklyn-ny | Door Buzzer Repair | Ditmas Park, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-downtown-brooklyn-ny | Door Buzzer Repair | Downtown Brooklyn, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T03:13Z factory REBUILD | door-buzzer-repair-dumbo-brooklyn-ny | Door Buzzer Repair | DUMBO, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
+LIVE | door-buzzer-repair-dumbo-brooklyn-ny | Door Buzzer Repair | DUMBO, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-east-williamsburg-brooklyn-ny | Door Buzzer Repair | East Williamsburg, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-fulton-ferry-brooklyn-ny | Door Buzzer Repair | Fulton Ferry, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
 LIVE | door-buzzer-repair-gravesend-brooklyn-ny | Door Buzzer Repair | Gravesend, Brooklyn | up /door-buzzer-repair-brooklyn-new-york | (347) 934-8335 | GBP Brooklyn
