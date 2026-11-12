@@ -3274,3 +3274,59 @@ Note: my search tool doesn't show Google's People Also Ask boxes, related search
 - What happens if one tenant won't let the installer in? — Brownstoner — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/?cpage=2
 - How do we stop delivery drivers pressing every button until someone buzzes them in? — StreetEasy — https://streeteasy.com/talk/discussion/47104-video-intercom
 - How long does an HPD intercom violation give an owner to fix it? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+
+## Bay Ridge, Brooklyn — /intercom-installation-bay-ridge-brooklyn-ny (factory research, 2026-11-12)
+
+**Building stock and entry situations**
+- Bay Ridge's housing is overwhelmingly old: 67.6% of residential real estate was built no later than 1939, with a number of residences built between 1940 and 1969; most residential real estate is renter occupied — https://neighborhoodscout.com/ny/brooklyn/bay-ridge
+- Apartment-building boom of the early 1920s: "In 1922 there were 173 apartment buildings in Bay Ridge; by the following year there were 826." — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- "On the avenues are the larger-scale apartment buildings, often reaching six or seven stories"; "On the side streets are the smaller apartment buildings." — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- Multi-family homes: "By 1922 there were 2,008 multi-family homes, and 2,124 by the following year"; detached houses 1,108 (1922) and 1,325 (1923) — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- Row houses of the 1890s–1920s are often Renaissance Revival, "typically built with limestone facades atop a brownstone raised basement"; "The row houses of the 1920's are often of brick." — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- Mixed-use: "the earliest commercial buildings line 3rd, 4th, and 5th Avenues, and 86th Street" — "three- and four-story buildings with storefronts and apartments above"; "3rd Avenue from 68th to 85th Streets is a consistent streetscape of turn of the 20th century commercial buildings in the Neo-Renaissance style." — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- Named apartment buildings with distinctive entrances: 7119 Shore Road, "brick apartment building that features geometric-patterned glass at its entrance"; 7501 Ridge Boulevard, "a brick apartment building with vertically articulated limestone projecting entrance"; 555 Ovington Avenue, Mediterranean Revival with a central courtyard; Tudor Revival examples at 323 Marine Avenue, 8124 Ridge Boulevard, 450 95th Street, 255 79th Street, 7101 Shore Road — https://hdc.org/wp-content/uploads/2019/10/Bay-Ridge-Report-Final-091014Smaller.pdf
+- Flagg Court (7200 Ridge Boulevard), Ernest Flagg, 1933–36: "This 422-unit, six-building complex contained architectural features that were avant-garde for its time." — https://6tocelebrate.org/neighborhoods/bay-ridge
+- 160 72nd Street built 1932, 82 units, 9 floors; a reviewer wrote "Have had packages stolen." — https://www.openigloo.com/building/nyc/3337147-3059060018/brooklyn-bay-ridge-160-72-street-11209
+- Splendor Apartments, 7502 4th Avenue at Bay Ridge Parkway, opened 1931, Moderne style; main entrance on 75th Street, a side entrance on 4th Avenue led to a ground-floor dental office; front entrance "virtually unchanged since 1931" — https://forgotten-ny.com/2026/02/splendor-apartments-bay-ridge/
+- Senator Street between 3rd and 4th Avenues: "One of the only brownstone blocks in Bay Ridge, this stretch of Senator Street has 40 rowhouses" (1906–12) — https://6tocelebrate.org/neighborhoods/bay-ridge
+- 75th Street between 4th and 5th Avenues ("Doctor's Row"): limestone rowhouses with medical offices at street level, ca. 1899–1910 — https://6tocelebrate.org/neighborhoods/bay-ridge
+- Harbor View Terrace, Harbor Lane and Colonial Court: neo-Tudor and neo-Colonial homes on cul-de-sacs; Madeline Court (68th Street between Ridge Boulevard and 3rd Avenue) red-brick adjoining houses — https://6tocelebrate.org/neighborhoods/bay-ridge
+- A six-apartment Brooklyn co-op replaced a "buggy analog system" with an ABB Welcome video system: 6 internal stations, 1 outdoor main station with camera, two new door strikes; crew used a "mini vac" while drilling — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+
+**City rules and data**
+- LPC designated the Bay Ridge Parkway–Doctors' Row Historic District on June 25, 2019: 54 limestone-fronted row houses on Bay Ridge Parkway between 4th and 5th Avenues, built 1906–1913, two stories with basement. LPC Chair Sarah Carroll: "This historic district has a strong sense of place that merits its designation as Bay Ridge's first historic district." — https://www.nyc.gov/site/lpc/about/pr2019/lpc-designates-the-first-historic-district-in-bay-ridge-brooklyn.page
+- LPC guidance: "Light fixtures and intercom panels, as well as doorbells, must be installed within or adjacent to a door opening"; "An intercom can also be installed on a fence or wall in front of the entranceway"; "A maximum of two light fixtures and one intercom panel can be installed per door opening"; "Equipment must be attached at mortar joints, plain masonry, wood, or metalwork"; not through cast iron or decorative surfaces; work that meets the rules can be approved at staff level — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- 1 RCNY 42-01: Class A multiple dwellings "erected or converted prior to January 1, 1968 containing eight or more apartments" need self-closing, self-locking entrance doors and an intercom; minimal device "a bell or buzzer system" with voice communication and a return buzzer to release the lock; push buttons not more than six feet from the floor, speaking device "not less than four feet and not more than five feet from the floor" — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Habitat: "buildings built or converted after 1968 with eight or more units must have a two-way voice intercom system"; attorney Nancy Kourland (Lasser Law Group): "courts have found that intercoms are an essential service" and failing to maintain them is a breach of the warranty of habitability — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Openigloo lists 622 buildings with rent-stabilized apartments in Bay Ridge — https://www.openigloo.com/buildings/brooklyn/bay-ridge/rent-stabilized
+- DHCR policy: a landlord must "file for approval to the DHCR" before converting a bell/buzzer intercom to a system using tenants' telephones; in a 2023 ruling (Docket LM610014RO) a landlord that switched without approval lost its appeal — https://www.landlordvtenant.com/article/landlord-changed-intercom-system-without-prior-dhcr-approval-0
+- DHCR (2023) let another landlord keep a phone-based intercom and revoked a $15/month rent reduction after showing the system worked with cell phones and with an apartment handset via adaptor — https://www.landlordvtenant.com/article/dhcr-permits-modification-phone-based-intercom-without-rent-reduction
+- 68th Precinct CompStat, week of 11/2/2026–11/8/2026: burglary year to date 65 (2026) vs 64 (2025), +1.6%; grand larceny YTD 296 vs 327, −9.5% — https://home4.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-068pct.pdf
+- HPD intercom violation counts for ZIP 11209: EMPTY (NYC Open Data not reachable)
+- 311 intercom complaints for Bay Ridge: EMPTY
+- DOB permits for intercom work in Bay Ridge: EMPTY
+
+**Local news**
+- Sept 2016: two packages (Macy's, Amazon) taken from a stoop on Narrows Avenue; homeowner Richard Villar: "I think the Bay Ridge community should know about this." Reported to the 68th Precinct — https://brooklynreporter.com/2016/09/package-theft-from-ridge-stoop-has-homeowner-wary/
+- Jan 2017: a crook struck two apartments in the same building on Ridge Boulevard between Shore Road and Marine Avenue — https://brooklyneagle.com/articles/2017/02/01/crook-strikes-two-apartments-within-the-same-bay-ridge-building/
+- Reddit threads (r/bayridge) about intercoms: EMPTY
+- Yelp reviews of intercom installers in Bay Ridge: EMPTY
+
+**Trade sources**
+- Brick Underground repair guide: service-call estimates "$195 an hour and $250 an hour plus parts"; Vasquez (Paragon Security and Locksmith): "It's all in the wire connections"; trouble spots are lobby base connections, apartment station, door strike, power supply in basement or lobby ceiling; for older Lee Dan systems "the core wiring is typically fine"; repairs need building authorization — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- HomeAdvisor: average intercom installation $2,500, typical range $1,200–$8,500; wireless $150–$1,500; one to two hours per station; "Most intercom systems will work for about 20 years" — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+
+### Questions people ask — Intercom Installation in Bay Ridge
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (result pages returned links only)
+- Does my NYC building need an intercom? — vendor FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- What if my building was built before 1968? — vendor FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Do video intercoms satisfy NYC intercom law? — vendor FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Can I withhold rent for a broken intercom? — vendor FAQ — https://butterflymx.com/blog/nyc-intercom-law/
+- Can the board bill shareholders for in-unit intercom panels or must it assess? — Habitat Board Talk — https://habitatmag.com/Board-Talk/Co-op-Intercom-System-Upgrade
+- Should the system be mobile/app-based or built-in panels? — Habitat Board Talk — https://habitatmag.com/Board-Talk/Co-op-Intercom-System-Upgrade
+- Can a landlord switch the buzzer to a phone-based intercom? — landlord/tenant law sites — https://www.landlordvtenant.com/article/landlord-changed-intercom-system-without-prior-dhcr-approval-0
+- Repair or replace a broken buzzer in a small apartment building? — vendor blog — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- How much does an intercom system cost? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- How long do intercom systems last? — HomeAdvisor — https://www.homeadvisor.com/cost/safety-and-security/install-intercom-system
+- Who fixes the intercom and do I need building permission? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Recommendation for video and audio intercom system for a small co-op — Brownstoner forum — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
