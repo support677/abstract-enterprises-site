@@ -2161,3 +2161,75 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Why is my floodlight cam not turning on with motion? — CNET FAQ — https://www.cnet.com/home/security/best-floodlight-home-security-cameras/
 - Why is my camera taking blurry photos? — Facebook group question — https://www.facebook.com/groups/325949147786166/posts/1168545843526488/
 - Can I connect an old VCR to a surveillance camera DVR via a BNC jack and record on an HDD? — Quora — https://www.quora.com/Can-I-connect-an-old-VCR-to-a-surveillance-camera-DVR-via-a-BNC-jack-and-record-on-an-HDD
+
+## New Lots, Brooklyn — /security-camera-repair-new-lots-brooklyn-ny (factory research, 2026-11-12)
+
+Note: the live web-search budget was used up before this page's own searches could run, and the NYC Open Data API was blocked by the build proxy. Every finding below was re-checked against research already saved in this repo (research/security-camera-repair.md, door-buzzer-repair.md, door-buzzer-installation.md, alarm-installation.md) with its original source URL. Nothing is new or invented.
+
+**Who owns the cameras on New Lots corridors (SBS Avenue NYC study, Jul 2024–Jun 2025)**
+- Study corridors: New Lots, Livonia and Sutter Avenues (Linwood St to Van Sinderen Ave) plus Van Sinderen Ave (Sutter to New Lots); 367 storefronts, 78 vacant (21%, city average 12.1%), Van Sinderen 81% vacant — https://www.nyc.gov/assets/sbs/downloads/pdf/neighborhoods/avenyc-cdna-newlots.pdf
+- Business mix: 48 salons/barbers, 41 delis/bodegas/smoke shops, 33 worship/nonprofit, 22 medical, 19 + 13 restaurants, 14 auto, 10 laundromats, 7 check cashers, 6 phone stores — same source
+- 122 merchant surveys: median 2 full-time employees, 72% rent their space, 77% have no website, 74% M/WBE — same source
+- Safety was the top change wanted by 66% of merchants and 67% of consumers; challenges named include "storefront gates closed at odd hours", graffiti on gates, illegal dumping, and the elevated line over Livonia shading the corridor and affecting how safe it feels at night — same source
+
+**Public housing in the New Lots area and its cameras**
+- 2014: the city began a $500,000 security camera installation at Boulevard Houses in East New York, funded by the City Council — https://www.nyc.gov/office-of-the-mayor/news/282-14/mayor-de-blasio-comptroller-stringer-nycha-chair-olatoye-beginning-security-camera
+- Boulevard Houses (PACT, inside HPD's East New York–New Lots tabulation area): the PACT partner lists "Installing new intercoms in apartments and at building entrances, along with increased security cameras throughout the campus" — https://www.boulevardtogether.com/boulevard-houses/
+- BK Reader, Jan 9 2025: Boulevard Houses resident Latoya Druck on a broken entrance lock: "A lot of the kids come in, and the door is not fixed" — https://www.bkreader.com/in-other-brooklyn-news/nycha-resident-raises-alarm-over-broken-door-lock-at-boulevard-houses-10051288
+- NYCHA Federal Monitor (citywide) photographed spray-painted, missing, defective and taped-over surveillance cameras — https://www.nyc.gov/assets/nycha/downloads/pdf/NYCHA-Monitor-Safety-and-Security-Report-5-25-23.pdf
+- NYCHA CCTV fact sheet: projects take about 3 years from planning to end of construction (about 16 months of construction) — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+
+**Houses, cellars and who shares a recorder**
+- CHPC (May 2023) on Community District 5 (East New York/Cypress Hills): about 16,000 one-to-three-family properties; nearly 9,000 two-family homes with below-grade space; of 102 assessed homes, 69% had cellars and 31% had a door leading straight out of the basement or cellar — https://chpcny.org (CHPC interim report, Basement Apartment Conversion Pilot)
+- Housing is mostly semi-detached and two-to-four-family houses plus apartment buildings; R5 zoning = 2–3 story rowhouses — https://en.wikipedia.org/wiki/East_New_York ; https://www.nyc.gov/assets/planning/download/pdf/plans-studies/sustainable-communities/eny/eny_planning_framework.pdf
+- USGS (1976): the water table under this part of Brooklyn rose from about 12 ft below sea level (1936) to 8–10 ft above (1976) after pumping stopped; basement flooding reported since 1975 — https://pubs.usgs.gov/publication/wri7695
+- 316 New Lots Avenue: HPD intercom violations in 2024 (Class A May 9, Class B Jul 17) — LucidRents timeline of HPD data (door-buzzer research)
+- HPD intercom violations in the East New York–New Lots NTA: 489 total, 127 open, 227 buildings; New Lots Ave 45, Hegeman Ave 41, Pennsylvania Ave 53 — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+
+**New buildings**
+- Livonia Commons: 4 buildings, 278 affordable plus 51 supportive units, about 28,000 sq ft of stores and community space on the Livonia Avenue corridor — https://thenyhc.org/projects/livonia-commons/
+
+**Police, precinct and footage**
+- 75th Precinct, 1000 Sutter Avenue, covers East New York and Cypress Hills — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/75th-precinct.page
+- 75th Precinct CompStat (week of Oct 12–18 2026): burglary year to date 145 vs 192 (−24.5%); 1990 2,433; 2025 247 — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-075pct.pdf
+- ABC7, Oct 6 2022: a crew used bolt cutters on store gates; an East New York business lost an ATM with $7,000, a register with $3,000 and $13,000 in merchandise (street not given) — https://abc7ny.com/post/brooklyn-queens-burglaries-burglary-pattern/12300139/
+- NYPD camera registration/integration program: registration tells NYPD where cameras are; no cost to join — https://www.nyc.gov/mayors-office/news/2024/05/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
+- Ring ended its police "Request for Assistance" tool in Jan 2024; police can still get video with a warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+
+**Rules**
+- NYS DOS license required to install or service security systems; 19 NYCRR 195.2 covers CCTV used to detect intrusion, theft or movement; owner-installed systems exempt — https://dos.ny.gov/fire-alarm-installer ; https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- NY Labor Law §203-c: employers must give notice of electronic monitoring and get acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+- New Lots Reformed Church, 630 New Lots Ave at Schenck: city landmark 1966, National Register 1983 — https://www.brownstoner.com/?p=182447
+- LPC Permit Guidebook ch. 11: ordinary maintenance and repair of safety equipment needs no permit; cameras attach at mortar joints, plain masonry, wood or metalwork — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**How camera systems fail (manufacturer / forum)**
+- Reolink causes of video loss: insufficient power (faulty PoE switch, overly long cables, one supply powering too many cameras), power spikes, loose BNC connector, IR/cut-filter faults, mixed-brand compatibility, IP conflicts, aging hardware — https://reolink.com/blog/video-loss-on-security-camera/
+- CCTVForum: "I've seen a lot of DVRs last 5-7 years"; the hard drive is the most common failure point — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- NYE Technical Services: "Running out of storage is the most common reason" cameras stop recording — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- Security Wholesalers: after an outage check NVR time, HDD state and PoE status; "Repeated power cycling can worsen storage and power faults" — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- News 12, Dec 29 2025: snowmelt mixed with road salt "can seep into underground electrical equipment and cause damage" (Brooklyn-wide) — https://brooklyn.news12.com/2025/12/30/weather-related-outages-keep-hundreds-of-brooklyn-households-in-the-dark/6jH9bZKGrtGANj6DOZo5qO
+
+**Cost**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- Reddit threads about camera repair in New Lots: EMPTY
+- Yelp reviews for camera repair in New Lots/11207/11208: EMPTY
+- DOB permits, 311 counts about cameras for New Lots: EMPTY
+- New Lots-specific news item about a camera failure: EMPTY
+
+### Questions people ask — Security Camera Repair in New Lots
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable this run)
+- How long does a DVR usually last? — CCTVForum — https://www.cctvforum.com/topic/20101-how-long-does-a-dvr-usually-last
+- Why is there video loss on my security camera? — Reolink — https://reolink.com/blog/video-loss-on-security-camera/
+- Why do security cameras stop recording? — vendor PAA page — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- Why is my DVR/NVR not turning on? — Lorex help — https://www.lorex.com/blogs/help/dvr-nvr-system-not-turning-on
+- Camera image grainy/noisy after a power cut — CCTVForum — https://www.cctvforum.com/topic/45776-camera-image-incredibly-grainynoisy-after-power-cut/
+- Why do cameras not come back after a power outage? — vendor guide — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- Landlord won't fix cameras — what can be done? — BiggerPockets — https://biggerpockets.com/forums/52/topics/878728-landlord-wont-fix-cameras
+- Can tenants install security camera systems? — BiggerPockets — https://www.biggerpockets.com/forums/52/topics/504802-can-tenants-install-security-cameras-systems
+- Repair or replace a camera system that came with the house? — Reddit r/SecurityCamera — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- Is it worth repairing an old DVR or replacing it? — Campus Safety Magazine — https://www.campussafetymagazine.com/cs/don-t-throw-out-the-dvr-with-the-bath-water/
+- How much do security camera install and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Do you need a license to install security cameras in New York? — vendor FAQ — https://www.security101.com/blog/security-camera-laws-in-new-york-what-you-need-to-know-now
