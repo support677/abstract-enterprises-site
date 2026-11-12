@@ -1418,3 +1418,44 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Is it free to register business cameras with the NYPD? — NYC.gov — https://nyc.gov/office-of-the-mayor/news/383-24/mayor-adams-new-pilot-program-combat-retail-theft-create-efficiencies-improve
 - How much does surveillance camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Why didn't my cameras come back after a power outage? — Security Wholesalers — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+
+## Fiske Terrace, Brooklyn — /security-camera-repair-fiske-terrace-brooklyn-ny (factory research, 2026-11-12)
+
+**Power and weather events that hit recorders and cameras near Fiske Terrace**
+- News 12 (Aug 14 2025): "Over 5,600 customers in the Midwood area" lost service after "last night's weather downed power lines"; out just after 7 p.m. (Aug 13 2025), restored by 10:37 p.m.; Con Edison warned "some wires might still be down in some areas" — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- Same night (Aug 13 2025) near 4022 Avenue J in Flatbush: live wires came down and FDNY responded to a transformer and wires on fire; Con Edison called it "weather-related"; repairs expected around 2:30 a.m. — https://brooklyn.news12.com/storm-knocks-out-power-in-flatbush-crews-work-to-restore-service
+- News 12 (Jun 20 2025): manhole fire on Beverly Road in Flatbush just before 5 a.m.; at least 1,700 customers without power at one point; cause under investigation — https://brooklyn.news12.com/more-than-1700-con-ed-customers-without-power-in-flatbush-due-to-manhole-issues
+
+**Break-ins and camera footage in and around the 70th Precinct**
+- Patch (Nov 14 2012): the 70th Precinct met the Fiske Terrace Association after a string of summer break-ins; three suspects arrested; Deputy Inspector Eric Rodriguez: "Do you want to put bars on your homes? No... But to really, really secure your houses is something we recommend you do"; the precinct's Crime Prevention Unit can visit homes to assess security; FTA co-president Nancy Berenbaum: the break-ins "brought the issue to the forefront" — https://patch.com/new-york/ditmaspark/fiske-terrace-70th-precinct
+- CBS New York (Oct 15 2017), Midwood (East 31st/32nd Streets, not Fiske Terrace): burglar entered through back windows reachable from back yards, "very neatly took out screens"; "Investigators checked home surveillance systems along East 31st and East 32nd streets"; video from neighbor Moshe Loketch taken into evidence — https://www.cbsnews.com/newyork/news/midwood-brooklyn-burglaries
+- News 12 (Mar 4 2026), Sheepshead Bay/Gravesend (not Fiske Terrace): overnight home break-ins blocks apart; Shmira director Levi Leifer: "at three in the morning, usually people don't walk the streets" — https://brooklyn.news12.com/shmira-public-safety-steps-up-patrols-following-video-showing-home-break-ins-blocks-apart-in-brooklyn
+- News 12 (Jul 25 2025), a Flatbush apartment building (address not given): Ring footage from tenants shows a man approaching a hallway camera on July 11 and deliberately covering the lens, returning the next day to do the same; residents blamed broken entrance locks — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+- News 12 (Nov 13 2025): building super at 1199 Ocean Ave near Glenwood Rd died after an assault; police source said he had confronted someone about stolen packages. (Sensitive: a death. Not suitable as a selling point; context only.) — https://brooklyn.news12.com/person-of-interest-in-custody-after-flatbush-building-super-dies
+- News 12 (Mar 21 2025): Bagel Boy on Avenue Z hit by burglar who broke the front door; "security footage"; owner Ben Devito: "Same M.O., same thing" — https://brooklyn.news12.com/brooklyn-businesses-targeted-in-citywide-burglary-pattern
+- Brooklyn Paper (undated): plan for 320 security cameras at 80 locations across Midwood and Borough Park, feeding only the NYPD; Desmond Smyth: "The only place the cameras go to is the real-time crime center at 1 Police Plaza" — https://www.brooklynpaper.com/midwood-ready-for-its-close-up
+
+**Building stock and site conditions**
+- CityNeighborhoods: deed restrictions required "detached single-family houses set back from the street"; many homes retain "original woodwork, stained glass, and porches"; streets curve beneath "a dense canopy of century-old oaks and maples" — https://www.cityneighborhoods.nyc/midwood-park-fiske-terrace
+- (Background pack) Brooklyn Paper: Verizon 20-foot poles in the district to guard access to underground fiber; Fred Baer: "We have phone lines in the backyards of our homes." — https://www.brooklynpaper.com/wp-content/uploads/assets/pdf/34_23bp.pdf
+- LPC Permit Guidebook ch. 11: no permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment"; cameras "must be well spaced"; no more than two per 25 feet of frontage on small buildings; "a maximum of approximately ten inches of visible conduit" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+
+**City/state rules**
+- NYS DOS license required to install or service security systems; 19 NYCRR 195.2 includes CCTV used for intrusion/theft detection; owner exemption — https://dos.ny.gov/fire-alarm-installer
+- Ring ended its "Request for Assistance" tool in Jan 2024; police can still get video by warrant — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- DOB permits, 311 or HPD data specific to camera repair in Fiske Terrace (11230): EMPTY
+- Reddit threads (r/Brooklyn, r/AskNYC, r/homesecurity) about camera repair in Fiske Terrace / Midwood Park: EMPTY (no threads found)
+- Yelp reviews of camera repair companies in Fiske Terrace / Midwood: EMPTY (not retrievable)
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+### Questions people ask — Security Camera Repair in Fiske Terrace
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "security camera repair Fiske Terrace": EMPTY (not retrievable in search tools)
+- Reddit questions: EMPTY
+- Why did my camera system not come back after the power outage? — implied by News 12 outage coverage (Midwood, Aug 2025) — https://brooklyn.news12.com/2025/08/14/con-edison-restores-service-to-thousands-of-brooklyn-homes-after-power-outage/7eA3AQFKfA2O6eCXQoveUV
+- Can the police use my home camera footage, and how do they ask for it? — CBS (Midwood investigators checked home surveillance systems) — https://www.cbsnews.com/newyork/news/midwood-brooklyn-burglaries
+- Does the precinct's crime prevention survey check my cameras? — Patch (70th Pct Crime Prevention Unit) — https://patch.com/new-york/ditmaspark/fiske-terrace-70th-precinct
+- What if someone covers the hallway camera? — News 12 Flatbush building — https://brooklyn.news12.com/flatbush-residents-demand-additional-safety-measures-after-man-caught-on-camera-lurking-in-building
+- How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Do I need Landmarks approval to repair or replace a camera in a historic district? — LPC Permit Guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
