@@ -9842,3 +9842,54 @@ Max-burn rebuild pass, Nov 12 2026. Adds to the 2026-10-22 rebuild research abov
 - How do I get my landlord to fix a broken buzzer? — Bing (Brick Underground) — https://www.brickunderground.com/blog/2014/12/broken_buzzers
 - Does coastal air harm electrical wiring? — Bing (Mister Sparky) — https://www.mistersparky.com/wilmington/about-us/blog/2026/june/does-coastal-air-harm-electrical-wiring/
 - Google PAA / PASF / AnswerThePublic / DuckDuckGo / Reddit / Yelp for this service and neighborhood — EMPTY
+
+## Hudson Hill, Bronx — /door-buzzer-repair-hudson-hill-bronx-ny (factory research, 2026-11-12)
+
+Max-burn worker research, 14 searches/fetches. Google PAA, PASF, AI Overview, Answer the Public, Bing and DuckDuckGo panels could not be opened here: EMPTY. Earlier city-data test (HPD wvxf-dwi5 and 311 erm2-nwe9) found 0 buzzer/intercom records inside W 246th–W 254th west of the parkway; carried below.
+
+**Hudson Hill buildings this service meets**
+
+- Windsor South, 4705 Henry Hudson Parkway West: built 1961, 183 apartments, full-time doorman, live-in superintendent, "Common parking/Garage", elevator, on-site laundry, pool, cabanas; listing describes a "24-hour doorman staff"; no intercom system named — https://windsorsouth.hlres.com/
+- Windsor North, 4901 Henry Hudson Parkway: built 1961, 9 floors, "a full-time doorman and live-in superintendent providing 24-hour service", attended lobby, concierge, "Indoor parking available with no waitlist", co-op with board approval; no intercom named — https://www.cityrealty.com/nyc/spuyten-duyvil/windsor-north-4901-henry-hudson-parkway/apartments-for-sale-mobile/61588
+- 4601 Henry Hudson Parkway West: co-op built 1951, 2 floors, 52 apartments, "between West 246th Street & West 247th Street"; no doorman or intercom listed — https://www.cityrealty.com/nyc/riverdale/4601-henry-hudson-parkway-west/117533
+- 4601 HHP W per PLUTO is a garden co-op of 35 two-story buildings (carried, research row H3) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- River House, 5355 Henry Hudson Parkway West: built 1952, 11 floors, 105 units, 8 open HPD violations in 10 years (3 class C for pests/mold/heat/defective parts, 5 class A incl. "No peephole on a door"), none for intercom/buzzer/lock; reviews mention doormen — https://openigloo.com/building/nyc/2086250-2059460052/bronx-riverdale-5355-henry-hudson-parkway-west-10471
+- River House listing: "full-time doorman", "large airy laundry room", "wait-listed outdoor and indoor parking"; no intercom named — https://colemanrealestate.com/ListingDetails/2966974/5355-Henry-Hudson-Parkway-West-Riverdale-Bronx-NY-10471
+- 4961 Henry Hudson Parkway: condo, built 1940, listed as a "2-story townhouse at the Spaulding Estates", attached, parking "On Street"; no entry system named — https://www.bhsusa.com/for-sale/new-york/bronx/4961-henry-hudson-parkway-bronx-ny-10471/H4400831-2179388
+- Spaulding Estates, 4991–4997 Henry Hudson Parkway: "2 floors 12 units", 1940, "mid-twentieth century low-rise walk-up condo building", parking garage, laundry — https://www.nybits.com/apartments/4991_henry_hudson_parkway_bx.html
+- City data (carried H5–H7): 0 HPD bell/buzzer/intercom violations at any Hudson Hill address; 0 311 BELL/BUZZER/INTERCOM complaints inside the lines since 2020; about 150 other HPD complaints there since 2020 (heat 45, water 19); nearest buzzer records are Netherland Ave co-ops north of W 254th — https://data.cityofnewyork.us/resource/wvxf-dwi5.json ; https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- About 225–237 one-family lots and 27 Riverdale Historic District lots inside the lines (carried H4) — https://data.cityofnewyork.us/resource/64uk-42ks.json
+
+**Rules, costs and expert findings that bear on the repair**
+
+- Habitat Magazine, Feb 26 2024: state law requires a two-way voice intercom in buildings built/converted after 1968 with 8+ units and the city code also requires a functioning intercom; courts treat intercoms as essential (warranty of habitability); proprietary lease usually decides who pays; a neighbor whose renovation disabled the intercom may be responsible. Quote, Nancy Kourland (Lasser Law Group): "As a result, the co-op has a legal obligation to repair or replace the intercom." — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- CooperatorNews, Oct 28 2021 (A.J. Sidransky): Washington Heights co-op's original 1938 intercom had static during heavy rain; after a partial replacement calls were misrouted; "we had to rewire the entire system anyway, and at a much higher cost than we originally anticipated." Tony Liebel (Buzr Labs): "There is a correlation between the age of the system and how easy it is to replace" and "Fully 30 percent of packages are undelivered on the first attempt today." — https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- Brick Underground, Nov 7 2019: common trouble spots are the lobby base, apartment panel, door strike and power supply; "A lot of times it's user error" (Pete Carmello, Lock and Tech); "It's all in the wire connections" (Daniel Vasquez, Paragon); older Lee Dan systems outdated but core wiring usually fine; building must authorize repairs; five-apartment building in a day, 100-unit building about two days — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Brick Underground, Dec 18 2014: landlord fixes; notify in writing; rent-stabilized tenants can file a DHCR reduction-of-services complaint; one renter waited three months for a 311 inspector — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- ButterflyMX, intercom repair NYC: symptom map (single apartment = in-unit station/local wiring; several = riser/controller/power/panel; buzzer works but door stays locked = strike or maglock, release wiring, relay or power); "No evidence-supported age cutoff or repair-cost percentage decides the answer for every building"; directional figures "$100 to $300 for diagnostics", "$500 to $1,500 for component replacement"; HPD general correction periods 90 days class A, 30 days class B, 24 hours most class C; a 2022 Bronx Housing Part decision recorded "a Class B violation for an inoperable bell and return-buzzer system" — https://butterflymx.com/blog/intercom-repair-nyc
+- News 12 Bronx, Feb 5 2025: Parkchester couple (veteran amputee and wheelchair user) unable to buzz in guests, deliveries, medication or home health aides "for months"; management said the system works — https://bronx.news12.com/parkchester-couple-struggles-with-broken-intercom-system
+- 1-800-Doorbell: "A standard 16V 10VA doorbell transformer is usually enough for a basic wired chime"; "many installs are better served by a 16V 30VA transformer" for video doorbells — https://www.1800doorbell.com/door-chimes/doorbell-transformer-for-video-doorbells/
+- Riverdale power events: News 12, Oct 27 2021 transformer fire "left several residents in Riverdale without power"; Riverdale Press mapped downed trees and outages after the Aug 2011 storm — https://bronx.news12.com/transformer-fire-briefly-knocks-out-power-for-riverdale-residents ; https://riverdalepress.com/stories/mapping-downed-trees-power-outages-and-other-effects-of-the-storm,51255
+- LPC Permit Guidebook ch. 11 (carried S-G5): intercom panels within or adjacent to a door opening, one per opening, ordinary repair needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Local news on Hudson Hill intercoms/buzzers: EMPTY (Riverdale Press, News 12 searched)
+- Reddit threads on Hudson Hill/Riverdale buzzers: EMPTY
+- Yelp 1–3★ intercom repair reviews for Riverdale: EMPTY (only directory pages)
+- DOB permits for entry systems in Hudson Hill: EMPTY
+
+### Questions people ask — Door Buzzer Repair in Hudson Hill
+
+Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not reachable). Questions below come from articles and Q&A pages found in search.
+
+- Why can't I hear my guest, or why can't my guest hear me? — Brick Underground heading — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Why won't the lobby door unlock when I press the button? — Brick Underground heading — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Can I clean sticky intercom buttons myself? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Who has to authorize an intercom repair, the tenant or the building? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Who pays when a neighbor's renovation knocks out the co-op intercom? — Habitat Magazine — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- Is a working intercom required by law in a co-op? — Habitat Magazine — same URL
+- Should we repair or replace an old intercom system? — ButterflyMX / CooperatorNews — https://butterflymx.com/blog/intercom-repair-nyc ; https://cooperatornews.com/article/updating-buzzer-intercom-systems
+- How much does intercom repair cost in NYC? — ButterflyMX — https://butterflymx.com/blog/intercom-repair-nyc
+- What does it mean if the buzzer works but the door stays locked? — ButterflyMX symptom table — https://butterflymx.com/blog/intercom-repair-nyc
+- How long does an intercom repair or replacement take? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- How do I get my landlord to fix a broken buzzer? — Brick Underground — https://www.brickunderground.com/blog/2014/12/broken_buzzers
+- Does a video doorbell need a bigger transformer than an old chime? — 1-800-Doorbell — https://www.1800doorbell.com/door-chimes/doorbell-transformer-for-video-doorbells/
+- Why does my intercom crackle when it rains? — CooperatorNews (1938 system static in heavy rain) — https://cooperatornews.com/article/updating-buzzer-intercom-systems
