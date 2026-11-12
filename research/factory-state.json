@@ -1,1168 +1,9 @@
 {
  "batches": [
   {
-   "id": "msgbatch_01V5ZpinvTAPGz1Jihq5Zazv",
+   "id": "msgbatch_01HR339qsXcoyWSmZnnypgBk",
    "kind": "write",
-   "submitted": "2026-11-11T18:04Z",
-   "pages": {
-    "p0": {
-     "status": "TODO",
-     "slug": "first-alert-camera-installation-brooklyn",
-     "silo": "First Alert Camera Installation",
-     "area": "Brooklyn",
-     "up": "/first-alert-camera-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1446,
-     "silo_key": "first-alert-camera-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Brooklyn",
-     "borough": "Brooklyn",
-     "nb_slug": "brooklyn",
-     "exemplar": "tv-installation-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/first-alert-camera-installation/first-alert-camera-installation-brooklyn-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p1": {
-     "status": "TODO",
-     "slug": "mag-lock-installation-nyc",
-     "silo": "Mag Lock Installation",
-     "area": "NYC hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 230,
-     "silo_key": "mag-lock-installation",
-     "area_key": "nyc",
-     "nbhd": "NYC hub",
-     "borough": "NYC",
-     "nb_slug": "nyc",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
-       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 2,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mark.webp",
-       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 3,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
-       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 4,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
-       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
-       "w": 803,
-       "h": 1429
-      },
-      {
-       "n": 5,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
-       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
-       "w": 675,
-       "h": 900
-      },
-      {
-       "n": 6,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
-       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 7,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
-       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
-       "w": 500,
-       "h": 500
-      },
-      {
-       "n": 8,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
-       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
-       "w": 225,
-       "h": 225
-      },
-      {
-       "n": 9,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
-       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 10,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-reader.webp",
-       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 11,
-       "src": "/images/mag-lock-installation/mag-lock-installation-nyc-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
-       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
-       "w": 456,
-       "h": 456
-      }
-     ]
-    },
-    "p2": {
-     "status": "TODO",
-     "slug": "geovision-camera-installation-brooklyn",
-     "silo": "GeoVision Camera Installation",
-     "area": "Brooklyn",
-     "up": "/geovision-camera-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1459,
-     "silo_key": "geovision-camera-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Brooklyn",
-     "borough": "Brooklyn",
-     "nb_slug": "brooklyn",
-     "exemplar": "tv-installation-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/geovision-camera-installation/geovision-camera-installation-brooklyn-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p3": {
-     "status": "TODO",
-     "slug": "mag-lock-installation-long-island",
-     "silo": "Mag Lock Installation",
-     "area": "Long Island hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 231,
-     "silo_key": "mag-lock-installation",
-     "area_key": "long-island",
-     "nbhd": "Long Island hub",
-     "borough": "Long Island",
-     "nb_slug": "long-island",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
-       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 2,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-mar.webp",
-       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 3,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
-       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 4,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
-       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
-       "w": 803,
-       "h": 1429
-      },
-      {
-       "n": 5,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
-       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
-       "w": 675,
-       "h": 900
-      },
-      {
-       "n": 6,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
-       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 7,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
-       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
-       "w": 500,
-       "h": 500
-      },
-      {
-       "n": 8,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
-       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
-       "w": 225,
-       "h": 225
-      },
-      {
-       "n": 9,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
-       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 10,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-read.webp",
-       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 11,
-       "src": "/images/mag-lock-installation/mag-lock-installation-long-island-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
-       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
-       "w": 456,
-       "h": 456
-      }
-     ]
-    },
-    "p4": {
-     "status": "TODO",
-     "slug": "home-security-system-installation-brooklyn",
-     "silo": "Home Security System Installation",
-     "area": "Brooklyn",
-     "up": "/home-security-system-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1599,
-     "silo_key": "home-security-system-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Brooklyn",
-     "borough": "Brooklyn",
-     "nb_slug": "brooklyn",
-     "exemplar": "tv-installation-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-ceiling-tile-cable-drop-occupied-offic.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/home-security-system-installation/home-security-system-installation-brooklyn-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p5": {
-     "status": "TODO",
-     "slug": "mag-lock-installation-hudson-valley",
-     "silo": "Mag Lock Installation",
-     "area": "Hudson Valley hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Bronx",
-     "rebuild": false,
-     "line_no": 232,
-     "silo_key": "mag-lock-installation",
-     "area_key": "hudson-valley",
-     "nbhd": "Hudson Valley hub",
-     "borough": "Hudson Valley",
-     "nb_slug": "hudson-valley",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-black-surface-door-station-with-call-button.webp",
-       "shows": "a dark grey surface-mounted Akuvox door station with a round camera lens, a small indicator slot and a round button showing door and bell icons",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 2,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-compact-door-station-with-contactless-reader-m.webp",
-       "shows": "a compact Akuvox door station with a black upper half holding a camera and a contactless reader symbol, and a silver lower half with one round call button",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 3,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-dark-keypad-panel-with-directory-screen.webp",
-       "shows": "a tall dark entry panel with a small camera, a screen showing a Main Office directory listing and a numeric keypad below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 4,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-keypad-door-station-with-card-reader-symbol.webp",
-       "shows": "a tall silver-and-black Akuvox door station with a camera at the top, a contactless card reader symbol, a twelve-key keypad and a speaker grille",
-       "w": 803,
-       "h": 1429
-      },
-      {
-       "n": 5,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-narrow-video-door-station-for-frame-mount.webp",
-       "shows": "a narrow black AXIS video door station with a camera at the top, a speaker grille and a call button with a lit ring",
-       "w": 675,
-       "h": 900
-      },
-      {
-       "n": 6,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-single-button-door-station-silver-faceplate.webp",
-       "shows": "a narrow Akuvox door station with a black glass top section holding a camera and a brushed silver lower faceplate with one round button",
-       "w": 423,
-       "h": 562
-      },
-      {
-       "n": 7,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-slim-black-entry-device-with-lit-ring.webp",
-       "shows": "a slim black entry device with a wide camera lens at the top and a blue lit ring around a button near the bottom",
-       "w": 500,
-       "h": 500
-      },
-      {
-       "n": 8,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-small-steel-door-station-with-reader-area.webp",
-       "shows": "a small silver and black door station with a camera, a contactless reader symbol and a bell button",
-       "w": 225,
-       "h": 225
-      },
-      {
-       "n": 9,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-tall-face-and-card-entry-panel.webp",
-       "shows": "a tall black Akuvox entry panel with two cameras at the top, a large touchscreen showing a building photo and on-screen buttons, and a contactless reader symbol beneath",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 10,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-touchscreen-directory-panel-with-keypad-and-re.webp",
-       "shows": "a brushed-steel entry panel with a camera and speaker grille above a touchscreen showing a numeric keypad and apartment number, and a contactless reader mark below",
-       "w": 456,
-       "h": 456
-      },
-      {
-       "n": 11,
-       "src": "/images/mag-lock-installation/mag-lock-installation-hudson-valley-access-control-installation-bay-ridge-white-indoor-answering-touchscreen.webp",
-       "shows": "a white Akuvox indoor touchscreen monitor showing a teal home screen with menu tiles for calls, door release and settings",
-       "w": 456,
-       "h": 456
-      }
-     ]
-    },
-    "p6": {
-     "status": "TODO",
-     "slug": "burglar-alarm-installation-brooklyn",
-     "silo": "Burglar Alarm Installation",
-     "area": "Brooklyn",
-     "up": "/burglar-alarm-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1614,
-     "silo_key": "burglar-alarm-installation",
-     "area_key": "brooklyn",
-     "nbhd": "Brooklyn",
-     "borough": "Brooklyn",
-     "nb_slug": "brooklyn",
-     "exemplar": "tv-installation-wingate-brooklyn-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/burglar-alarm-installation/burglar-alarm-installation-brooklyn-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p7": {
-     "status": "TODO",
-     "slug": "swann-camera-installation-long-island",
-     "silo": "Swann Camera Installation",
-     "area": "Long Island hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1085,
-     "silo_key": "swann-camera-installation",
-     "area_key": "long-island",
-     "nbhd": "Long Island hub",
-     "borough": "Long Island",
-     "nb_slug": "long-island",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/swann-camera-installation/swann-camera-installation-long-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p8": {
-     "status": "TODO",
-     "slug": "luminys-camera-installation-staten-island",
-     "silo": "Luminys Camera Installation",
-     "area": "Staten Island",
-     "up": "/luminys-camera-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1163,
-     "silo_key": "luminys-camera-installation",
-     "area_key": "staten-island",
-     "nbhd": "Staten Island",
-     "borough": "Staten Island",
-     "nb_slug": "staten-island",
-     "exemplar": "sonos-installation-tottenville-staten-island-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of cable staged for a multi-drop pull on a working commercial premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/luminys-camera-installation/luminys-camera-installation-staten-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after of a network rack, an unlabelled tangled rack rebuilt into a dressed and identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p9": {
-     "status": "TODO",
-     "slug": "swann-camera-installation-hudson-valley",
-     "silo": "Swann Camera Installation",
-     "area": "Hudson Valley hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Bronx",
-     "rebuild": false,
-     "line_no": 1086,
-     "silo_key": "swann-camera-installation",
-     "area_key": "hudson-valley",
-     "nbhd": "Hudson Valley hub",
-     "borough": "Hudson Valley",
-     "nb_slug": "hudson-valley",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/swann-camera-installation/swann-camera-installation-hudson-valley-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p10": {
-     "status": "TODO",
-     "slug": "reolink-camera-installation-staten-island",
-     "silo": "Reolink Camera Installation",
-     "area": "Staten Island",
-     "up": "/reolink-camera-installation-nyc",
-     "phone": "(347) 934-8335",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1176,
-     "silo_key": "reolink-camera-installation",
-     "area_key": "staten-island",
-     "nbhd": "Staten Island",
-     "borough": "Staten Island",
-     "nb_slug": "staten-island",
-     "exemplar": "sonos-installation-tottenville-staten-island-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "boxes of network cable staged on the floor for a multi-drop pull in a working commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "technician feeding network cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "technician core drilling a concrete block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "finished network rack with patch panels, switching, firewall and battery backup dressed and labeled",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/reolink-camera-installation/reolink-camera-installation-staten-island-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "before and after view of a tangled unlabeled network rack rebuilt into a dressed, identified rack",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    },
-    "p11": {
-     "status": "TODO",
-     "slug": "wyze-camera-installation-nyc",
-     "silo": "Wyze Camera Installation",
-     "area": "NYC hub",
-     "up": "/",
-     "phone": "(800) 486-0943",
-     "gbp": "Brooklyn",
-     "rebuild": false,
-     "line_no": 1087,
-     "silo_key": "wyze-camera-installation",
-     "area_key": "nyc",
-     "nbhd": "NYC hub",
-     "borough": "NYC",
-     "nb_slug": "nyc",
-     "exemplar": "tv-installation-woodlawn-heights-bronx-ny",
-     "images": [
-      {
-       "n": 1,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-cable-labeling-port-map.webp",
-       "shows": "Network installation Bronx technician printing cable labels at a patch panel beside a printed port map",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 2,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-cat6-cable-box-staging-fitout.webp",
-       "shows": "Commercial network installation Bronx cable boxes staged for a multi-drop pull on a working premises",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 3,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-ceiling-tile-cable-drop-occupied-office.webp",
-       "shows": "Network installation Bronx technician feeding cable through a ceiling in an occupied commercial space",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 4,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-core-drill-cmu-wall-penetration.webp",
-       "shows": "Network installation Bronx technician core drilling a block wall to carry cable through to a network room",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 5,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-finished-network-rack-firewall-ups.webp",
-       "shows": "Finished network rack Bronx with patch panels, switching, firewall and battery backup dressed and identified",
-       "w": 1122,
-       "h": 1402
-      },
-      {
-       "n": 6,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-fluke-dsx-certification-pass.webp",
-       "shows": "Network installation Bronx technician certifying a data drop with a cable analyzer showing a PASS result",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 7,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-jhook-ceiling-pathway-bundles.webp",
-       "shows": "Network installation Bronx J-hook pathway carrying dressed cable bundles across a commercial ceiling",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 8,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-managed-poe-switch-rack-install.webp",
-       "shows": "Network installation Bronx technician mounting a managed PoE switch below patch panels in a commercial network rack",
-       "w": 1402,
-       "h": 1122
-      },
-      {
-       "n": 9,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-network-cable-toner-tracing.webp",
-       "shows": "Network repair Bronx technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 10,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-network-drop-conduit-emt-riser.webp",
-       "shows": "Network installation Bronx technician running cable into EMT conduit beside a telecom room in an industrial building",
-       "w": 1448,
-       "h": 1086
-      },
-      {
-       "n": 11,
-       "src": "/images/wyze-camera-installation/wyze-camera-installation-nyc-network-installation-bronx-network-rack-cleanup-before-after.webp",
-       "shows": "Network rack cleanup Bronx before and after showing an unlabelled tangled rack rebuilt into a dressed identified one",
-       "w": 1402,
-       "h": 1122
-      }
-     ]
-    }
-   }
-  },
-  {
-   "id": "msgbatch_01XibDzaV3J7GUbfHbkvJaWf",
-   "kind": "research",
-   "submitted": "2026-11-11T18:05Z",
+   "submitted": "2026-11-12T00:08Z",
    "pages": {
     "p0": {
      "status": "TODO",
@@ -2310,6 +1151,1165 @@
       {
        "n": 11,
        "src": "/images/door-buzzer-repair/door-buzzer-repair-dumbo-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "msgbatch_01Wbs1gsN2Ndwvr4LWsPit59",
+   "kind": "research",
+   "submitted": "2026-11-12T00:08Z",
+   "pages": {
+    "p0": {
+     "status": "TODO",
+     "slug": "security-camera-repair-canarsie-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Canarsie, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 308,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Canarsie",
+     "borough": "Brooklyn",
+     "nb_slug": "canarsie",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-cable-labeling-port.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-cat6-cable-box-stagi.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-ceiling-tile-cable-d.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-core-drill-cmu-wall.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-finished-network-rac.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-fluke-dsx-certificat.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-jhook-ceiling-pathwa.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-managed-poe-switch-r.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-network-cable-toner.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-network-drop-conduit.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-canarsie-security-camera-installation-allerton-network-installation-bronx-network-rack-cleanup.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p1": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-flatbush-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Flatbush, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 990,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Flatbush",
+     "borough": "Brooklyn",
+     "nb_slug": "flatbush",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatbush-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p2": {
+     "status": "TODO",
+     "slug": "security-camera-repair-carroll-gardens-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Carroll Gardens, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 309,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Carroll Gardens",
+     "borough": "Brooklyn",
+     "nb_slug": "carroll-gardens",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-cable-labeling.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-cat6-cable-box.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-ceiling-tile-ca.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-core-drill-cmu.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-finished-networ.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-fluke-dsx-certi.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-jhook-ceiling-p.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-managed-poe-swi.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-network-cable-t.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-network-drop-co.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-carroll-gardens-security-camera-installation-allerton-network-installation-bronx-network-rack-cl.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p3": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-flatlands-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Flatlands, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 991,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Flatlands",
+     "borough": "Brooklyn",
+     "nb_slug": "flatlands",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-flatlands-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p4": {
+     "status": "TODO",
+     "slug": "security-camera-repair-city-line-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "City Line, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 310,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "City Line",
+     "borough": "Brooklyn",
+     "nb_slug": "city-line",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-cable-labeling-port.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-cat6-cable-box-stagi.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-ceiling-tile-cable-d.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-core-drill-cmu-wall.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-finished-network-rac.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-fluke-dsx-certificat.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-jhook-ceiling-pathwa.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-managed-poe-switch-r.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-network-cable-toner.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-network-drop-conduit.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-city-line-security-camera-installation-allerton-network-installation-bronx-network-rack-cleanup.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p5": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-fort-hamilton-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Fort Hamilton, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 992,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Fort Hamilton",
+     "borough": "Brooklyn",
+     "nb_slug": "fort-hamilton",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-fort-hamilton-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p6": {
+     "status": "TODO",
+     "slug": "security-camera-repair-clinton-hill-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Clinton Hill, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 311,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Clinton Hill",
+     "borough": "Brooklyn",
+     "nb_slug": "clinton-hill",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-cable-labeling-por.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-cat6-cable-box-sta.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-ceiling-tile-cable.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-core-drill-cmu-wal.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-finished-network-r.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-fluke-dsx-certific.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-jhook-ceiling-path.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-managed-poe-switch.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-network-cable-tone.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-network-drop-condu.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-clinton-hill-security-camera-installation-allerton-network-installation-bronx-network-rack-clean.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p7": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-greenpoint-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Greenpoint, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 993,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Greenpoint",
+     "borough": "Brooklyn",
+     "nb_slug": "greenpoint",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-greenpoint-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p8": {
+     "status": "TODO",
+     "slug": "security-camera-repair-cobble-hill-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Cobble Hill, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 312,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Cobble Hill",
+     "borough": "Brooklyn",
+     "nb_slug": "cobble-hill",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-cable-labeling-port.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-cat6-cable-box-stag.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-ceiling-tile-cable.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-core-drill-cmu-wall.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-finished-network-ra.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-fluke-dsx-certifica.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-jhook-ceiling-pathw.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-managed-poe-switch.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-network-cable-toner.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-network-drop-condui.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-cobble-hill-security-camera-installation-allerton-network-installation-bronx-network-rack-cleanu.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1402,
+       "h": 1122
+      }
+     ]
+    },
+    "p9": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-mill-basin-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Mill Basin, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 995,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Mill Basin",
+     "borough": "Brooklyn",
+     "nb_slug": "mill-basin",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-mill-basin-2u-rack-video-server-product-photo.webp",
+       "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
+       "w": 500,
+       "h": 182
+      }
+     ]
+    },
+    "p10": {
+     "status": "TODO",
+     "slug": "security-camera-repair-columbia-street-waterfront-brooklyn-ny",
+     "silo": "Security Camera Repair",
+     "area": "Columbia Street Waterfront, Brooklyn",
+     "up": "/security-camera-repair-brooklyn",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": false,
+     "line_no": 313,
+     "silo_key": "security-camera-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Columbia Street Waterfront",
+     "borough": "Brooklyn",
+     "nb_slug": "columbia-street-waterfront",
+     "exemplar": "security-camera-repair-brighton-beach-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-cabl.webp",
+       "shows": "technician printing cable labels at a patch panel beside a printed port map",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 2,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-cat6.webp",
+       "shows": "boxes of cable staged together for a multi-drop pull on a working premises",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 3,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-ceil.webp",
+       "shows": "technician feeding cable through a ceiling in an occupied commercial space",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 4,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-core.webp",
+       "shows": "technician core drilling a block wall to carry cable through to a network room",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 5,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-fini.webp",
+       "shows": "finished network rack with patch panels, switching, firewall and battery backup, dressed and identified",
+       "w": 1122,
+       "h": 1402
+      },
+      {
+       "n": 6,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-fluk.webp",
+       "shows": "technician certifying a data drop with a cable analyzer showing a PASS result",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 7,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-jhoo.webp",
+       "shows": "J-hooks carrying dressed cable bundles across a commercial ceiling",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 8,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-mana.webp",
+       "shows": "technician mounting a managed PoE switch below patch panels in a commercial network rack",
+       "w": 1402,
+       "h": 1122
+      },
+      {
+       "n": 9,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-netw.webp",
+       "shows": "technician tracing an unidentified cable run at a patch panel with a tone generator and probe",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 10,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-netw.webp",
+       "shows": "technician running cable into EMT conduit beside a telecom room in an industrial building",
+       "w": 1448,
+       "h": 1086
+      },
+      {
+       "n": 11,
+       "src": "/images/security-camera-repair/security-camera-repair-columbia-street-waterfront-security-camera-installation-allerton-network-installation-bronx-netw.webp",
+       "shows": "before-and-after views of a network rack, an unlabelled tangle rebuilt into a dressed and identified rack",
+       "w": 1448,
+       "h": 1086
+      }
+     ]
+    },
+    "p11": {
+     "status": "REBUILD",
+     "slug": "door-buzzer-repair-ocean-parkway-brooklyn-ny",
+     "silo": "Door Buzzer Repair",
+     "area": "Ocean Parkway, Brooklyn",
+     "up": "/door-buzzer-repair-brooklyn-new-york",
+     "phone": "(347) 934-8335",
+     "gbp": "Brooklyn",
+     "rebuild": true,
+     "line_no": 996,
+     "silo_key": "door-buzzer-repair",
+     "area_key": "brooklyn",
+     "nbhd": "Ocean Parkway",
+     "borough": "Brooklyn",
+     "nb_slug": "ocean-parkway",
+     "exemplar": "door-buzzer-repair-bensonhurst-brooklyn-ny",
+     "images": [
+      {
+       "n": 1,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-cable-bundles-dropping-down-equipment-rack.webp",
+       "shows": "purple, white and red cable bundles dropping down beside a black equipment rack",
+       "w": 250,
+       "h": 640
+      },
+      {
+       "n": 2,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-dark-grey-wired-doorbell-with-round-button.webp",
+       "shows": "a slim dark grey wired doorbell with a camera lens, speaker slots and a round push button",
+       "w": 820,
+       "h": 480
+      },
+      {
+       "n": 3,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-dark-recessed-lobby-ceiling-with-downlights.webp",
+       "shows": "a dark recessed ceiling panel with round downlights and a small round device, framed by a lighter ceiling",
+       "w": 545,
+       "h": 180
+      },
+      {
+       "n": 4,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-drop-ceiling-with-lit-exit-sign-and-small-camera.webp",
+       "shows": "a drop ceiling with a lit red exit sign, an air diffuser, round recessed lights and a small black camera",
+       "w": 700,
+       "h": 620
+      },
+      {
+       "n": 5,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-keypad-door-station-with-card-reader-and-camera.webp",
+       "shows": "a silver and black keypad door station with a camera lens at the top, a blue card-reader symbol, a numeric keypad and a green bell key",
+       "w": 510,
+       "h": 960
+      },
+      {
+       "n": 6,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-low-voltage-cable-bundles-over-ceiling-beam.webp",
+       "shows": "bundles of blue low-voltage cable laid over a ceiling beam and a metal pipe in an open ceiling",
+       "w": 540,
+       "h": 255
+      },
+      {
+       "n": 7,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-night-camera-view-of-open-storeroom-doorway.webp",
+       "shows": "a black-and-white night camera view of a cluttered room with an open doorway into a dark back room",
+       "w": 550,
+       "h": 350
+      },
+      {
+       "n": 8,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-small-camera-high-on-pale-wall.webp",
+       "shows": "a small black camera mounted high on a pale wall, casting two shadows, with a small white wall device below and a light fixture at the bottom edge",
+       "w": 620,
+       "h": 420
+      },
+      {
+       "n": 9,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-tiled-corridor-to-grey-door-with-lever-handle.webp",
+       "shows": "a tiled corridor with white walls and small wall plates, ending at a grey steel door with a lever handle under a drop ceiling with a small camera",
+       "w": 635,
+       "h": 1050
+      },
+      {
+       "n": 10,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-touchscreen-directory-entry-panel-with-dial-pad.webp",
+       "shows": "a touchscreen entry panel showing a dial pad with a four-digit apartment code entered, a camera above and a card-reader symbol below",
+       "w": 228,
+       "h": 456
+      },
+      {
+       "n": 11,
+       "src": "/images/door-buzzer-repair/door-buzzer-repair-ocean-parkway-2u-rack-video-server-product-photo.webp",
        "shows": "black 2U rack-mount video server with a vented front panel, manufacturer product photo",
        "w": 500,
        "h": 182
