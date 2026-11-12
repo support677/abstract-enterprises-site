@@ -3383,3 +3383,4 @@ Run 2026-11-10 morning (scheduled, Claude in Chrome on Anwar's computer, account
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/security-camera-installation-norwood-bronx-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-harding-park-bronx-ny | QUEUED
 2026-11-12 | https://www.abstractenterprisessecuritysystems.com/door-buzzer-repair-locust-point-bronx-ny | QUEUED
+2026-11-12 | https://www.abstractenterprisessecuritysystems.com/structured-cabling-installation-castle-hill-bronx-ny | QUEUED

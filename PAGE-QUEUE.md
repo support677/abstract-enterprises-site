@@ -837,7 +837,7 @@ LIVE | structured-cabling-installation-belmont-bronx-ny | Structured Cabling Ins
 LIVE | structured-cabling-installation-bronx-river-bronx-ny | Structured Cabling Installation | Bronx River, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-bronxwood-bronx-ny | Structured Cabling Installation | Bronxwood, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-bruckner-bronx-ny | Structured Cabling Installation | Bruckner, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T13:46Z max-burn REBUILD | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
+LIVE | structured-cabling-installation-castle-hill-bronx-ny | Structured Cabling Installation | Castle Hill, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T13:56Z max-burn REBUILD | structured-cabling-installation-claremont-bronx-ny | Structured Cabling Installation | Claremont, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-concourse-bronx-ny | Structured Cabling Installation | Concourse, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | structured-cabling-installation-crotona-park-east-bronx-ny | Structured Cabling Installation | Crotona Park East, Bronx | up /structured-cabling-installation-bronx | (646) 490-0629 | GBP Bronx
