@@ -1090,7 +1090,7 @@ REBUILD | intercom-installation-unionport-bronx-ny | Intercom Installation | Uni
 REBUILD | intercom-installation-van-cortlandt-village-bronx-ny | Intercom Installation | Van Cortlandt Village, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-westchester-square-bronx-ny | Intercom Installation | Westchester Square, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T12:51Z max-burn REBUILD | intercom-installation-williamsburg-brooklyn-ny | Intercom Installation | Williamsburg, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-REBUILD | intercom-installation-windsor-terrace-brooklyn-ny | Intercom Installation | Windsor Terrace, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+BUILDING 2026-11-12T12:52Z max-burn REBUILD | intercom-installation-windsor-terrace-brooklyn-ny | Intercom Installation | Windsor Terrace, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-woodlawn-heights-bronx-ny | Intercom Installation | Woodlawn Heights, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-woodstock-bronx-ny | Intercom Installation | Woodstock, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | network-cable-repair-bushwick-brooklyn-ny | Network Cable Repair | Bushwick, Brooklyn | up /network-cable-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
