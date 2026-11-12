@@ -327,7 +327,7 @@ BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatbush-brooklyn-n
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-flatlands-brooklyn-ny | Security Camera Repair | Flatlands, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fort-greene-brooklyn-ny | Security Camera Repair | Fort Greene, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fort-hamilton-brooklyn-ny | Security Camera Repair | Fort Hamilton, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-fulton-ferry-brooklyn-ny | Security Camera Repair | Fulton Ferry, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | security-camera-repair-fulton-ferry-brooklyn-ny | Security Camera Repair | Fulton Ferry, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-gerritsen-beach-brooklyn-ny | Security Camera Repair | Gerritsen Beach, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-gowanus-brooklyn-ny | Security Camera Repair | Gowanus, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T01:28Z max-burn | security-camera-repair-gravesend-brooklyn-ny | Security Camera Repair | Gravesend, Brooklyn | up /security-camera-repair-brooklyn | (347) 934-8335 | GBP Brooklyn
