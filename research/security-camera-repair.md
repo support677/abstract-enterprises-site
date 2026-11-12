@@ -2645,3 +2645,64 @@ Note: the live search budget for this session was used up before new searches co
 - Why is my camera working but not recording? — vendor page — https://www.imperasecurity.com/security-camera-repair
 - How to fix a CCTV that is not recording? — Facebook group — https://www.facebook.com/groups/432511134543072/posts/1325707045223472/
 - Who repairs security cameras in Brooklyn? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+## Ocean Parkway, Brooklyn — /security-camera-repair-ocean-parkway-brooklyn-ny (factory research, 2026-11-12)
+
+**Building camera systems along the parkway (listing descriptions, not verified on site)**
+- 260 Ocean Parkway (co-op, Kensington end): listing says "Security cameras are installed throughout the building and on every floor" and that the co-op "sits on the busy, multilane thoroughfare of Ocean Parkway" — https://www.homes.com/building/260-ocean-pkwy-brooklyn-ny/b-8xmwfzxybcvc1/
+- 1250 Ocean Parkway (co-op between Avenues L and M, Midwood): listing says "The building is also equipped with new security cameras" — https://www.zillow.com/homedetails/1250-Ocean-Pkwy-Brooklyn-NY-11230/30716983_zpid/ ; https://www.coldwellbanker.com/ny/brooklyn/1250-ocean-pkwy-apt-3h/lid-P00800000HEXrROsrQgQD7aXGOSaqq946oVSQpkj
+- 360 Ocean Parkway (co-op, Kensington): listing mentions "Updated lobby and secure entry system. Surveillance cameras. On-site laundry facilities. Private storage available" — https://www.instagram.com/reel/DOQpttYiNT_/
+- 2650 Ocean Parkway (south end, 11235): "The live-in super and porter ensure that maintenance is carried out in a timely manner, and security cameras installed throughout the entry points" — https://www.apartments.com/2650-ocean-pkwy-brooklyn-ny-unit-op4r/dgtlvwj/
+- Harway Terrace co-ops (2580 Ocean Parkway): "a full service, secure community which feature a modern lobby with key-less entry, 24-hour doorman, security cameras" — https://www.facebook.com/100057133133676/posts/coop-for-sale-2580-ocean-parkwayvery-big-and-spacious-1-bedroom-apartment-in-a-m/2926711067597061/
+- Brooklyn Law School lists a residence at 2601 Ocean Parkway, Brooklyn, NY 11235 in its 2025 campus safety report — https://www.brooklaw.edu/campussafetyreport
+
+**Incidents near the parkway where building video mattered**
+- NYPD Crimestoppers: Thursday Aug 7 2025 about 4:40 a.m., an unidentified individual entered an apartment building near Ocean Parkway and Avenue M (66th Precinct) "by unknown means" and pried open mail (search listing) — https://www.facebook.com/NYPDTips/posts/wanted-for-a-burglary-on-thursday-august-7-2025-at-approximately-440-am-an-unide/1076517674656824/
+- NYPD Crimestoppers: Tuesday Aug 18 2026 about 3:00 a.m., same wording — an apartment building near Ocean Parkway and Avenue M in the 66th Precinct entered "by unknown means", individual "pried" (search listing only; page could not be opened) — https://www.facebook.com/NYPDTips/posts/wanted-for-a-burglary-on-tuesday-august-18-2026-at-approximately-300-am-an-unide/1382886007353321/
+- NYPD wanted post: 9/26/25 about 1:05 p.m. near Ocean Parkway and Ditmas Avenue, a suspect followed a 13-year-old (search listing) — https://www.instagram.com/p/DPFyGXujRDV/?hl=en
+- Brooklyn DA case summary: 2025 incident at about 1:00 p.m., driver turning onto Ocean Parkway; "Video surveillance shows her car..." — https://www.brooklynda.org/category/uncategorized/page/17/
+- AMNY (Oct 2026): chain-reaction crash, 61st Precinct called to Ocean Parkway and Avenue S in Midwood at around 12:10 a.m. — https://www.amny.com/news/brooklyn-chain-reaction-crash-hit-and-run-10052026/
+- Flatbush Shomrim (X): "Shomrim retrieved camera footage, and after an extensive search of the area by our units, the suspect has now been arrested by the @NYPD70Pct" — https://x.com/FlatbushShomrim
+- Forward (older): leaders of the Shomrim patrol in Boro Park did not want police to have access to security video — https://forward.com/news/160715/shomrim-dont-want-police-to-see-security-video/
+
+**Flooding at the south end (recorders in basements)**
+- Reddit r/Brooklyn thread "Ocean parkway & Brighton Beach after Sandy passed" — "drowned cars, sand, etc." — https://www.reddit.com/r/Brooklyn/comments/12km3z/ocean_parkway_brighton_beach_after_sandy_passed/
+- First Street: based on a recreated model, 84 properties were impacted in Brighton Beach by Hurricane Sandy's storm surge in October 2012 — https://firststreet.org/neighborhood/brighton-beach-ny/7578_fsid/flood
+- Forward, a year after Sandy: basement of Vintage Food on Brighton Beach Avenue also flooded — https://forward.com/news/186254/a-year-after-sandy-brighton-beach-struggles-to-get/
+- BKLYNER flash flood photos: an avenue near Avenue Z had several inches of water; a Bensonhurst basement flooded — https://bklyner.com/photos-flash-floods-strike-southern-brooklyn-coastal-communities-sheepshead-bay/
+
+**The malls and trees in front of building cameras**
+- NYC Parks: Ocean Parkway Malls Bike Path Reconstruction (west side of the malls), completion November 2024 — https://www.nycgovparks.org/planning-and-building/capital-project-tracker/project/9293
+- NYC Parks also lists "Ocean Parkway Malls Reconstruction, Shore Pkwy to Sea Breeze Ave" — https://www.nycgovparks.org/parks/ocean-parkway-malls/projects
+- Community Board 12 FY26 district needs: "We request additional cleaning along ocean parkway malls to address the buildup of litter and debris. The bike path is cracked and bumpy from the tree roots" — https://www.nyc.gov/assets/brooklyncb12/downloads/pdf/2024/FY26-DISTRICT-NEEDS-BUDGET-REQUESTS.pdf
+- NYC DOT: "Cyclists enjoy NYC's first greenway on Ocean Parkway" — https://www.nyc.gov/html/dot/html/bicyclists/greenways.shtml
+
+**Footage, boards and tenants**
+- Co-op footage: "As long as cameras cannot see into private apartments, they can be placed anywhere in a co-op," says real estate attorney Dean Roberts (Norris, McLaughlin & Marcus); "technically, any member of the board of a residential co-op can see security camera footage" (2014, citing Brick Underground) — https://www.cablinginstall.com/ip-security-av/article/16476729/who-sees-the-footage-from-security-cameras-in-a-residential-co-op
+- r/AskNYC thread "Is there a way to force a landlord to show me the camera..." — advice: "file a police report the next time it happens and tell the investigating officers that the building has cameras" — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- r/Bushwick (not Ocean Parkway, Brooklyn tenants generally): "Our packages keep getting stolen and the building cameras are broken so everyone in the building relies on these cameras" — https://www.reddit.com/r/Bushwick/comments/1ofxzt5/our_good_security_camera_for_our_packages_was/
+
+**How recorders fail (NYC installer guidance)**
+- "A live camera picture does not prove that usable footage is being recorded." Live view and recording are separate functions; common causes: failed or uninitialized drive, disabled schedule, full storage with overwrite turned off, wrong channel settings, recorder clock error — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Same source: storage ≈ cameras × average Mbps × 86,400 × days ÷ 8 ÷ 1,000,000 TB; example 8 cameras × 2 Mbps × 30 days continuous ≈ 5.18 TB; "Busy sidewalks, trees, headlights and delivery traffic can increase actual recording time" — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Same source: with overwrite disabled, recording may stop at capacity; after a repair verify time zone and daylight-saving behavior and a sample clip export — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+
+**Empty**
+- DOB permits for camera work on Ocean Parkway: EMPTY
+- 311 / HPD complaint data specific to cameras on Ocean Parkway: EMPTY
+- Con Edison outage reports naming Ocean Parkway: EMPTY (only general Brooklyn outage trackers found)
+- Yelp complaints about camera repair near Ocean Parkway: EMPTY
+- r/OceanParkway: EMPTY
+
+### Questions people ask — Security Camera Repair in Ocean Parkway
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- Why is my security camera live but not recording? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- How do I know if my DVR hard drive failed? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Why can't I view my security cameras remotely? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Should I repair or replace my DVR or NVR? — installer FAQ — https://www.uasecurity.com/dvr-nvr-troubleshooting-nyc.htm
+- Why is my security camera showing a black screen? — installer guide — https://www.securitycameraking.com/securitynews/security-camera-not-working-guide-2025/
+- Why is my security camera offline? — installer guide — https://www.zetronix.com/blog/post/security-camera-troubleshooting-tips
+- Why is my security camera footage choppy or laggy? — Instagram — https://www.instagram.com/reel/DcE2CLuxvaf/
+- Is there a way to force a landlord to show me the camera footage? — Reddit r/AskNYC — https://www.reddit.com/r/AskNYC/comments/1bfjfdu/is_there_a_way_to_force_a_landlord_to_show_me_the/
+- Who sees the footage from security cameras in a residential co-op? — CablingInstall / Brick Underground — https://www.cablinginstall.com/ip-security-av/article/16476729/who-sees-the-footage-from-security-cameras-in-a-residential-co-op
+- Building manager says we need the police to look at the footage — Reddit r/legaladvice — https://www.reddit.com/r/legaladvice/comments/vsu4pw/building_manager_says_we_need_the_police_to_look/
