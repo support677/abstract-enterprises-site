@@ -3097,3 +3097,54 @@ Note: my search tool doesn't show Google's People Also Ask boxes, related search
 - Do gated communities need gate intercoms with cameras? — PASF — https://butterflymx.com/blog/gate-intercom-systems-with-camera/
 - Reddit questions: EMPTY
 - Yelp complaints: EMPTY
+
+## Clinton Hill, Brooklyn — /intercom-installation-clinton-hill-brooklyn-ny (factory research, 2026-11-12)
+
+**Building types and entry situations**
+- The Clinton, 275 Clinton Avenue at DeKalb: built 1897 by developer/architect Edward Betts, E-shaped plan with three wings, opened with 30 apartments, "two per floor in each wing", each with 7 to 8 rooms and elevators; "today is a co-op with 32 units" (2013) — https://www.brownstoner.com/history/past-and-present-the-clinton-apartments
+- Clinton Hill Co-ops, 185 Clinton Avenue: listed as 520 units, 15 stories, built 1944; amenities listed "garden, intercom, washer/dryer in building and elevator"; doorman listed as none — https://www.cityrealty.com/nyc/clinton-hill/clinton-hill-co-ops-185-clinton-avenue/41528
+- Clinton Hill Co-ops North Campus, 210 Clinton Avenue: 104 units, 13 stories, "built between 1941-1943" (label also says 1945), live-in super — https://streeteasy.com/building/clinton-hill-coops-north-campus-210-clinton-avenue-brooklyn
+- 345-373 Clinton Avenue: part of the "Clinton Hill Houses, now Clinton Hill Co-ops", built in the early 1940s for Navy officers and families, architects Harrison, Fouilhoux & Abramovitz; each entrance has "mosaic transoms depicting different Navy symbols, such as a winged anchor, or a dolphin"; inside the Clinton Hill Historic District — https://www.brownstoner.com/architecture/building-of-the-day-345-373-clinton-avenue
+- The Vendome, corner of Gates and Grand Avenues: built 1887, 25 units across six stories, burned while vacant in 1980, rehabilitated by the city for low-income tenants; tenants sued in 2015 over a promised co-op conversion — https://new.brickunderground.com/live/this-grand-old-brooklyn-apartment-building-survived-a-firecan-it-become-a-low-income-co-op
+- 476 Clinton Avenue (11238): 52 units, 6 floors, built 1913; former tenant review: "We had packages stolen." — https://www.openigloo.com/building/nyc/3056597-3019760007/brooklyn-clinton-hill-476-clinton-avenue-11238
+- 479 Clinton Avenue (11238): 13 units, 3 floors, built 1931; former tenant review: "Buzzer did not function", "Packages would go missing if left for more than 24 hours" — https://www.openigloo.com/building/nyc/3321940-3019770006/brooklyn-clinton-hill-479-clinton-avenue-11238
+- New Myrtle Avenue rentals by Greystone: 531 Myrtle Ave (29 residences) with a "virtual doorman", and 100 Steuben St (43 residences) around the corner with similar amenities — https://www.multihousingnews.com/greystone-completes-brooklyn-community/
+- 1068 Fulton Street: new rental, eight floors, 41 apartments; "Building amenities include a virtual doorman and shared outdoor space" — https://www.cityrealty.com/nyc/market-insight/rental-building-offers/clinton-hill/luxury-clinton-hill-rentals-debut-1068-fulton-street-1-beds-2800-month/25122
+- 501 Myrtle Ave (11205): 10 residences, rises 6 stories, "a virtual doorman system" — https://serhant.com/developments/501-myrtle-ave
+- Brownstoner forum 2007-2008: brownstone owner with a 3' x 10' glass double front door was told the doors could not take an electric strike; BKRed installed one on a renovation with two sets of double doors: "You'll need to open up the walls, probably quite a bit" and "create a channel for that behind the astricle on each pair of doors"; a 2008 reply recommends a locksmith who "fixed our intercom system" for "a Clinton Hill co-op brownstone" — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Brownstoner forum: multi-family brownstone with an old buzzer serving two apartments, upper floors can't see the door; owner was quoted "more like $3,000" for a wired system; another poster: "$1500 for a wired video doorbell sounds cheap to me. We paid many times that when we needed to repair/rewrite our three existing doorbells." — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Brownstoner forum: 3-family brownstone owner wanted a new doorbell and intercom with no door strike after "the previous working bell was removed by a former contractor's crew" — https://www.brownstoner.com/forum/about-brooklyn/door-bell-for-3-fam-brownstone
+- Brownstoner forum 2009 (12-unit brownstone, Park Slope): landlord replaced intercoms in 11 of 12 apartments, one tenant refused access so the shared line stayed dead; "Tenent sometimes have to leave lobby door open for deliveries"; a reply said the faulty station "can just be bypassed" — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/?cpage=2
+
+**City rules and legal context**
+- Habitat (Feb 2024): Multiple Dwelling Law requires buildings built or converted after 1968 with eight or more units to have "a two-way voice intercom system linking the front door to each apartment"; courts treat intercoms as an essential service under the warranty of habitability; Nancy Kourland (Lasser Law Group): "As a result, the co-op has a legal obligation to repair or replace the intercom"; shareholders can file 311 or an HP proceeding — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- DHCR administrative review (Castaldo, decided Nov 3, 2023): landlord allowed to replace an audio intercom with an audio-video intercom in a rent-stabilized building; "The service modification must comply with all local rules and regulations" — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- Habitat (Feb 2023) on video doorbells in co-ops: Debra Guzov: "If you're living in a co-op, you can't just unilaterally do what you'd like to do in the common hallways"; Heidi Boghosian: "We as New Yorkers, we don't want our neighbors recording our comings and goings 24-7"; some co-ops restrict camera angle, recording and storage — https://habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+- Brick Underground (Nov 7, 2019): faults usually sit at the lobby base, apartment station, door strike or power supply, not inside the walls; Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections" and "They want a camera to see in front of the door before allowing someone in"; replacement takes about one day for a five-apartment building and about two days for a 100-unit building — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Clinton Hill HPD intercom violation counts / 311 buzzer counts / DOB intercom permits: EMPTY (NYC Open Data blocked in this session)
+
+**Local news on building entry**
+- Jan 8 (reported Jan 29, 2025), about 7:20 a.m.: a person was "caught stealing mail and packages in an apartment lobby" near Fulton Street and Washington Avenue in Clinton Hill and bit the hand of a 49-year-old woman who intervened — https://brooklyneagle.com/articles/2025/01/29/package-thief-bites-woman-flees-bmw-after-attempted-robbery/
+- Same incident: "attempted to steal packages and mail at an apartment building in Clinton Hill" — https://brooklyn.news12.com/nypd-woman-wanted-for-attempted-robbery-in-clinton-hill
+- Navy Green, 8 Vanderbilt Avenue (condo, between Flushing and Park Avenues): resident comment "Had drug addicts at my door every single day begging for food!" — https://www.cityrealty.com/nyc/clinton-hill/navy-green-8-vanderbilt-avenue/comments/66767
+
+**Sources that came back empty**
+- Reddit threads about intercom installation in Clinton Hill: EMPTY
+- Yelp reviews of intercom installers near Clinton Hill: EMPTY
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo panels: EMPTY
+
+### Questions people ask — Intercom Installation in Clinton Hill
+- Can an electric strike be added to tall glass double front doors on a brownstone, and does it mean opening the walls? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- Is it safer not to have a door buzzer at all and answer the door in person? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
+- How do upper-floor apartments in a multi-family brownstone see who is at the front door? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Is $1,500 to $3,000 reasonable for a wired video door system on a two-apartment brownstone? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Can a battery video doorbell go over the existing intercom instead? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- A contractor removed our working bell; how do we get a new doorbell and intercom without a strike? — Brownstoner forum — https://www.brownstoner.com/forum/about-brooklyn/door-bell-for-3-fam-brownstone
+- What if one tenant refuses access and the shared intercom line stays dead? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/?cpage=2
+- Can a landlord replace an audio intercom with video in a rent-stabilized building? — DHCR / landlordvtenant — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- Can a shareholder put a video doorbell on their apartment door in a co-op hallway? — Habitat — https://habitatmag.com/Publication-Content/Board-Operations/2023/2023-February/Video-Doorbells-Present-a-Conundrum-for-Co-op-and-Condo-Boards
+- Is a co-op legally required to fix a broken intercom? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
+- How long does replacing a building intercom take? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- How do we stop packages disappearing from the lobby? — openigloo / Brooklyn Eagle — https://www.openigloo.com/building/nyc/3321940-3019770006/brooklyn-clinton-hill-479-clinton-avenue-11238
+- What does a "virtual doorman" in a new Myrtle Avenue building actually do? — Multi-Housing News / Serhant — https://www.multihousingnews.com/greystone-completes-brooklyn-community/
+- Questions from PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Reddit / Yelp: EMPTY
