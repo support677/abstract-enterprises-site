@@ -3537,3 +3537,62 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Can a landlord switch the building to a smartphone-app intercom, and what about tenants without smartphones? — Brownstoner forum / StreetEasy talk (search results only) — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
 - Does an accessible building entrance need an intercom with lights as well as sound? — U.S. Access Board guide — https://www.access-board.gov/ada/guides/chapter-4-entrances-doors-and-gates/
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo for "intercom installation Downtown Brooklyn": EMPTY (not captured).
+
+## Carroll Gardens, Brooklyn — /intercom-installation-carroll-gardens-brooklyn-ny (factory research, 2026-11-12)
+
+### Intercom facts specific to Carroll Gardens
+
+**Landmarks rules that bear on an intercom**
+- LPC Permit Guidebook, Health & Safety chapter: "Staff can issue permits approving light fixtures and intercom panels if the installation meets the following criteria" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Same chapter: "Light fixtures and intercom panels, as well as doorbells, must be installed within or adjacent to a door opening." — same URL
+- Same chapter: "An intercom can also be installed on a fence or wall in front of the entranceway." (relevant to Carroll Gardens' fenced front gardens) — same URL
+- Same chapter: "A maximum of two light fixtures and one intercom panel can be installed per door opening." Design, size and finish must be compatible with the architecture of the building — same URL
+- Same chapter: conduit "must be concealed by going through plain masonry"; if not possible staff may approve "a maximum of approximately ten inches of visible conduit"; surface conduit painted to match the background — same URL
+- The guidebook does not mention card readers or keypads — same URL
+- LPC public hearings in the Carroll Gardens Historic District keep coming: 309 Carroll Street (rear yard deck and side yard, single-family, Oct 22 2024) and 309 President Street (rear addition, built 1876, four stories plus cellar, Aug 4 2026). Renovations like these are when cellar-to-entry cable can be pulled — https://nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20241022/309-Carroll-Street.pdf ; https://www.nyc.gov/assets/lpc/downloads/pdf/presentation-materials/20260804/309-President-Street.pdf
+
+**Building types and entry situations in Carroll Gardens**
+- Court Street Lofts, 505 Court Street (between Huntington Street and West 9th): former Doehler Die Casting factory built 1918, condo conversion completed 2007, 124 apartments, 10 floors, 24-hour doorman, elevator, bike storage, package room — https://www.cityrealty.com/nyc/carroll-gardens/court-street-lofts-505-court-street/43117
+- Garnet Court Condos, 537 Court Street: listed as built 1931, 5 units, 4 floors, walk-up, amenities "Video Intercom, Virtual Doorman" — https://www.nestseekers.com/Bldg/152441/537-court-street-brooklyn-ny-11231
+- 360 Court Street: the former South Congregational Church, built 1857, converted to condos in 2008, "a total of 26 units", landmarked, "keypad entry" (6sqft, Aug 20 2020) — https://www.6sqft.com/1m-carroll-gardens-condo-mixes-historic-church-details-with-mid-century-vibes/
+- Brownstoner (Nov 17 2015) describes the converted church at 360 Court Street as built in the 1850s — https://www.brownstoner.com/real-estate-market/condo-co-op-of-the-day/carroll-gardens-condo-for-sale-360-court-street/
+
+**City rules and data**
+- 1 RCNY 42-01: buildings erected or converted before January 1, 1968 with eight or more apartments must have self-closing, self-locking doors and an intercommunication system; push buttons no more than six feet from the floor; speaking/listening device between four and five feet from the floor — https://www.nyc.gov/assets/buildings/rules/1_RCNY_42-01.pdf
+- Multiple Dwelling Law §50-a summary: post-1968 Class A buildings with eight or more apartments need voice communication with the entrance and apartment-controlled release; pre-1968 buildings can become subject on written request of a majority of tenants; baseline covers voice and release, not video — https://butterflymx.com/blog/intercom-repair-nyc
+- NYC311 lists "broken or missing doorbells, buzzers, and intercoms" as reportable; unresolved complaints route to HPD; HPD correction periods 90 days Class A, 30 days Class B, 24 hours most Class C — https://butterflymx.com/blog/intercom-repair-nyc
+- NYC Admin Code §27-3004 defines low voltage electrical work as wiring "designed to operate at less than fifty volts" for signaling, communication, alarm and data circuits; §27-3018(n): permit provisions "shall not apply to low voltage electrical work" (exceptions include life safety systems and control circuits that switch light, heat or power) — https://nycadmincode.readthedocs.io/t27/c03/sch01/index.html
+- HPD violation and 311 intercom complaint counts for ZIP 11231: EMPTY (NYC Open Data not reachable)
+
+**Local news and incidents that bear on door entry**
+- Brooklyn Paper 76th Precinct blotter: a package of clothing worth $160 taken from a stoop on Carroll Street between Smith and Hoyt streets, May 9 (year not stated); a $500 bike taken from the hallway of an Amity Street apartment building between Clinton and Court — https://www.brooklynpaper.com/76th-precinct-5
+- Brooklyn Paper 76th Precinct blotter: five boxes taken from a stoop on Carroll Street between Hoyt and Bond streets, Sept 12; victim reviewed surveillance footage of the "porch pirate" — https://www.brooklynpaper.com/76-precinct-6
+
+**Brooklyn intercom practice and market**
+- Brick Underground repair guide: Pete Carmello of Lock and Tech: "A lot of times it's user error"; Daniel Vasquez of Paragon Security and Locksmith: "It's all in the wire connections" and "Now everyone wants more security."; Vasquez estimates a five-apartment building could be replaced in a day, Carmello about two days for 100 units; power supply may be in the basement or lobby ceiling — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Park Vanderbilt co-op, Park Slope (148 units, built 1963): Aiphone video replaced audio-only; installer reused existing cable except two units; Dan Arnold: "By using the existing cable – with the exception of two units – we were able to save $20,000 on the job." $110,000, three weeks (Security Sales, June 15 2016) — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- Habitat Magazine Dec 2015, Ditmas Park 114-unit co-op: rewiring estimated about $70,000 vs about $7,000 for a phone-based entry system; Jessica Dowshen: "I love that I can let UPS in the building when I'm not there." — https://habitatmag.com/Archive2/328-December-2015/The-Doorman-Who-Wasn-t-There
+- DoorBird 2-wire converter: "just two existing copper wires are enough to reliably supply both power and data to a modern DoorBird IP video intercom", up to 80 meters (262 ft) — https://www.doorbird.com/en/blog/614/modernization_made_easy_-_with_the_doorbird_2-wire_converter
+- Brownstoner forum, six-apartment Brooklyn co-op replaced audio-only intercom with ABB Welcome: six internal stations, one outdoor station with camera, two new door strikes — https://www.brownstoner.com/forum/renovation/recommendation-for-video-and-audio-intercom-system
+- Brownstoner forum (Sept 14 2009, Park Slope multi-unit brownstone): one tenant refused access and the intercom line for others on her circuit stopped working; tenants propped the lobby door open; reply: "Yes, the one station can just be bypassed." — https://www.brownstoner.com/forum-archive/2009/09/intercome-probl/?cpage=2
+- Reddit threads specific to Carroll Gardens intercoms: EMPTY
+- Yelp reviews of intercom installers near Carroll Gardens: EMPTY (no readable review text returned)
+
+### Questions people ask — Intercom Installation in Carroll Gardens
+- Video doorbell for upper levels of multi-fam brownstone? — Bing (Brownstoner forum title) — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone
+- Intercom for a three family? — Bing (Brownstoner forum title) — https://www.brownstoner.com/forum/about-brooklyn/intercom-for-a-three-family
+- ABB vs Aiphone video intercom systems? — Bing (Brownstoner forum title) — https://www.brownstoner.com/forum/general-discussion/abb-vs-aiphone-video-intercom-systems
+- Can one apartment intercom station be repaired without replacing the whole system? — PASF / ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Does an audio-only intercom satisfy NYC law? — PASF / ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can existing intercom wiring be reused during replacement? — PASF / ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- Can a tenant withhold rent because an intercom is broken? — PASF / ButterflyMX FAQ — https://butterflymx.com/blog/intercom-repair-nyc
+- How much does it cost to install an intercom in a brownstone in NYC? — AnswerThePublic-style (search query) — https://www.countbricks.com/post/intercom-installation-brooklyn
+- How long does it take to replace a building intercom? — AnswerThePublic-style — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Who pays to fix a broken buzzer, the landlord or the tenant? — AnswerThePublic-style — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Can a video intercom use the old two-wire buzzer cable? — AnswerThePublic-style — https://www.doorbird.com/en/blog/614/modernization_made_easy_-_with_the_doorbird_2-wire_converter
+- Do I need a permit to install an intercom in NYC? — AnswerThePublic-style — https://nycadmincode.readthedocs.io/t27/c03/sch01/index.html
+- Can an intercom go on the front fence of a landmarked house? — AnswerThePublic-style — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Google PAA for "intercom installation Carroll Gardens": EMPTY
+- DuckDuckGo: EMPTY
+- Reddit: EMPTY
+- Yelp: EMPTY
