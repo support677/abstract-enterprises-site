@@ -1008,3 +1008,42 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - Can tenants install security camera systems? — BiggerPockets — https://www.biggerpockets.com/forums/52/topics/504802-can-tenants-install-security-cameras-systems
 - How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - Is it worth repairing an old DVR or replacing it? — Campus Safety Magazine — https://www.campussafetymagazine.com/cs/don-t-throw-out-the-dvr-with-the-bath-water/
+
+## Crown Heights, Brooklyn — /security-camera-repair-crown-heights-brooklyn-ny (factory research, 2026-11-12)
+
+**Power events that hit recorders, switches and cameras in Crown Heights**
+- May 6–7, 2025: a manhole fire on Albany Avenue in Crown Heights started around 11:30 p.m. Tuesday; firefighters had it under control around 2 a.m.; a separate cellar fire followed in a home on Lincoln Place between Albany and Troy Avenues; Con Edison confirmed "the fire that started in the manhole caused the outages"; Con Ed reported 200 customers out of service (article body says more than 100); some residents still had no power as of 10:30 p.m. Wednesday — https://brooklyn.news12.com/2025/05/07/crown-heights-neighborhood-hit-with-2-separate-fires-and-a-power-outage/6bgOyHiEUWNr90P5oXoveO
+- June 2025 heat wave: Anash.org reported outages "affecting over 6,000 customers across Brooklyn"; Con Edison shut off "almost 900 customers temporarily" in Central Brooklyn to prevent longer outages, citing "an electric problem in Central Brooklyn"; voltage reduction applied near 1414 Eastern Parkway; many Kingston Avenue stores closed or never opened; traffic lights out at Crown Street and Kingston and Albany Avenues; restoration expected by 2 a.m. Thursday, June 26 — https://anash.org/amid-heatwave-crown-heights-power-outage-puts-seniors-at-risk
+- June 26, 2025 (News 12): Crown Heights experiencing partial power outages; "video shows what appears to be a manhole fire that may have contributed to it"; residents said inconsistent power affected air conditioning, refrigerators and building elevators; resident Prentis Holder called it a "nightmare" — https://brooklyn.news12.com/5000-customers-without-power-across-brooklyn
+
+**Local incidents where camera footage mattered**
+- Aug 14, 2025 (News 12): at 240 Crown St., a 135-unit building, security camera footage appears to show a man with a child in a stroller getting someone to open the lobby door, checking the lobby, and taking two packages from a pile on the floor. Resident Rich: "I ship them to my job and I just collect them there" — https://brooklyn.news12.com/man-appears-to-use-child-in-a-stroller-to-get-inside-crown-heights-building-and-steal-package
+- Jan 15, 2026 (News 12): thefts beginning Dec 12, 2025; the first in the foyer of 1492 Union St.; surveillance footage shows the suspect riding a bicycle with a stolen package and an e-scooter. Shop owner Jelome: "Of course, that makes me scared" — https://brooklyn.news12.com/bicyclist-caught-on-video-fleeing-with-stolen-package-moments-after-stealing-nearby-e-scooter-in-crown-heights
+- July 19, 2025 (News 12): on Pacific Street, video shows three teenage boys appearing to break into cars, two breaking windows, a third as lookout on a scooter; resident Tishura Samuel had recently installed cameras in her car after an earlier break-in; "We need the police to take these incidents seriously." — https://brooklyn.news12.com/alleged-vandalism-of-cars-caught-on-camera-in-crown-heights
+- Feb 20, 2022 (CBS New York): armed robbery at a store on Nostrand Avenue in Crown Heights around 2:30 p.m.; about $2,000 taken from the counter plus a 24-year-old employee's phone and wallet — https://www.cbsnews.com/newyork/news/nypd-suspects-robbed-crown-heights-store-at-gunpoint-stole-2000-employees-wallet/
+
+**Community and city camera programs**
+- Crown Heights Shmira with N.Y. Volt offered subsidized camera installations for homes, shuls and businesses, "a discount of up to 40% off the full security camera installation," with "Shmira having access only to the exterior cameras" (CHabad.info, page metadata Nov 18, 2024) — https://chabadinfo.com/?p=507888
+- March 2020 (CrownHeights.info): first NYPD camera of the city's 100-camera plan for Williamsburg, Crown Heights and Borough Park went up on Kingston Ave at the corner of Union Street; "The cameras are also not monitored 24/7, and officers are required to retrieve the footage from another location." — https://crownheights.info/photo-galleries/701538/nypd-cameras-go-up-in-crown-heights
+
+**Reddit (r/crownheights)**
+- "Flock camera or normal cctv?" — a resident asking whether a recently installed camera is a Flock plate-reader or ordinary CCTV — https://www.reddit.com/r/crownheights/comments/1vqgur9/flock_camera_or_normal_cctv/
+- "hit & run" — poster: "I have tried to contact businesses / buildings in the area for cameras but have not had much luck" — https://www.reddit.com/r/crownheights/comments/1x040og/hit_run/
+- "man set fire to our building trash can last night" — "we have security cameras set up and got him on cam" — https://www.reddit.com/r/crownheights/comments/1xr1a28/man_set_fire_to_our_building_trash_can_last_night/
+
+**Repair-side reference (non-local)**
+- Impera Security lists causes for "Cameras Working but Not Recording": failed DVR/NVR hard drive, incorrect recording schedule, storage configuration problems, insufficient storage — https://www.imperasecurity.com/security-camera-repair
+- NYE Technical Services: "Running out of storage is the most common reason" cameras stop recording — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+
+**Empty**
+- DOB permits for camera repair in Crown Heights: EMPTY
+- 311 / HPD complaint counts specific to cameras in 11213/11216/11225/11233/11238: EMPTY
+- Yelp complaints for camera repair near Crown Heights: EMPTY (Yelp search page lists providers only) — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+### Questions people ask — Security Camera Repair in Crown Heights
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable live)
+- Why do security cameras stop recording? — PAA-style vendor page — https://nyetechnicalservices.com/paa/why-do-security-cameras-stop-recording/
+- Why would cameras show live video but not record? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Is that new camera on the block a Flock camera or normal CCTV? — Reddit — https://www.reddit.com/r/crownheights/comments/1vqgur9/flock_camera_or_normal_cctv/
+- Does anyone nearby have camera footage of a hit and run? — Reddit — https://www.reddit.com/r/crownheights/comments/1x040og/hit_run/
+- Repair or replace a camera system that came with the house? — Reddit r/SecurityCamera — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
