@@ -4210,3 +4210,41 @@ Format: finding — source URL. Queries were run with WebSearch, WebFetch and Fi
 - Who has to fix a broken intercom in a co-op? — Habitat — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
 - How should a day care's entrance be secured? — DOHMH guide — https://www.nyc.gov/assets/doh/downloads/pdf/dc/group-child-care-center-compliance-guide.pdf
 - What is a virtual doorman and does it replace a lobby attendant? — building listing — https://www.cityrealty.com/nyc/bath-beach/30-bay-29th-street/44304
+
+## Brooklyn Chinatown, Brooklyn — /access-control-installation-brooklyn-chinatown-brooklyn-ny (factory research, 2026-11-12)
+
+**Local news and safety record bearing on entry control**
+- 72nd Precinct CompStat, week 11/2/2026–11/8/2026: burglary YTD 89 (2026) vs 90 (2025), -1.1%; robbery YTD 92 vs 92; grand larceny YTD 303 vs 308; calendar-year burglary 1,645 in 1990 vs 107 in 2025 (-93.5%) — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-072pct.pdf
+- Six people died in an early-morning fire on Nov. 5, 2026 in a two-story 1915 wood-frame multifamily row house on 58th Street near Seventh Avenue; DOB had 2025 complaints that the basement and the first and second floors had been illegally divided; inspectors could not gain access on multiple visits and closed the complaints; firefighters used a rear entrance to reach people trapped behind window bars; there is no indication yet that the conversion played a role — https://www.insurancejournal.com/news/east/2026/11/09/891915.htm ; https://ny1.com/nyc/all-boroughs/news/2026/11/05/neighbors-say-older-chinese-immigrants-killed-in-brooklyn-fire
+- Kevin Woods, FDNY chief of fire operations, on that fire: crews met "fire on every floor" — https://www.insurancejournal.com/news/east/2026/11/09/891915.htm
+- Brooklyn Chinese-American Association history (CBS New York, May 22, 2026): BCA founded 1988 partly after a high school student was robbed and murdered; set up a crime-victims hotline with translation; in 1990 petitioned NYPD for a bilingual officer who walked Eighth Avenue meeting merchants; worked with police against gangs extorting merchants; Paul Mak: "In 1990 ... based on the survey, we had about 3,000 Chinese people in the neighborhood," now estimates over 200,000; Shiu Kan Leung opened the first Chinese-owned store on Eighth Avenue (electronics) in 1980 — https://www.cbsnews.com/newyork/news/brooklyn-chinese-american-association-sunset-park-safety/
+- Happy House Seafood Restaurant on Eighth Avenue: a man broke the rear window around 5:10 a.m. on Thanksgiving 2018 and took $200 from the register — https://patch.com/new-york/sunset-park/man-robbed-sunset-park-restaurant-thanksgiving-cops
+- October 2025: one suspect tied to a number of Sunset Park burglaries took flowers and $20 from Las Gardenias Supermarket (Fifth Ave) and the cash register and $1,000 from Ocean Eats (Fourth Ave) — https://brooklyn.news12.com/suspect-on-the-run-after-stealing-money-merchandise-from-2-sunset-park-stores
+- Feb. 2023: a jewelry store employee was grazed by a gunshot during an attempted robbery on Fifth Avenue near 49th Street; the suspect left empty-handed — https://www.cbsnews.com/newyork/news/jewelry-store-worker-shot-during-attempted-robbery-in-sunset-park-brooklyn
+- NYCLocker on 6th Avenue (Apr. 22, 2025): residents often asked City Fresh Market to hold packages; Kevin Hernandez: "anything we order, it's always opened"; DOT chose the site from NYPD data and a lack of package protection sites; 1,400 sign-ups — https://brooklyn.news12.com/nyclocker-opens-secure-packages-delivery-site-in-sunset-park
+
+**Privacy and law (applies to smart entry in multiple dwellings)**
+- amNY (Sept. 22, 2019): DOB treats fobs, cards and metal instruments that fit mechanical locks as keys; traditional keys are required; NYCLU's Lee Rowland: it is "fundamentally inappropriate for anyone to be told that a condition of living somewhere is giving up their data"; Atlantic Plaza Towers tenants opposed a facial recognition entry plan — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- (Silo, already on file) NYC Tenant Data Privacy Act, Local Law 63 of 2021: consent, minimum data, written policy, authentication data destroyed within 90 days unless anonymized, no sale, no tracking outside the building — https://www.nyc.gov/site/hpd/services-and-information/tenant-data-privacy-law.page
+
+**Published cost claims (for the AI Reality Check)**
+- Swiftlane (2026): $1,500–$5,000 per door installed for standard access points; $5,000–$6,000+ for high-traffic perimeter entrances; encrypted 13.56 MHz fobs $5–$15 each in bulk; cloud software $5–$10 per door per month; 2-door small office $4,500–$8,500 turnkey — https://swiftlane.com/blog/key-fob-entry-system-cost/
+- Safe and Sound (2026): $1,500–$3,500 per door fully installed for standard card or mobile; basic keypad from about $500; cloud licensing $3.50–$15 per door per month; magnetic locks $50–$200 — https://getsafeandsound.com/blog/access-control-systems-cost/
+
+**Address-level data**
+- HPD violation and 311 counts for access/entry in Brooklyn Chinatown: EMPTY
+- DOB permit data for access control work in the neighborhood: EMPTY
+- DOB Nov. 2025 enforcement bulletin: no Eighth Avenue-area entry relevant to access control — EMPTY
+
+### Questions people ask — Access Control Installation in Brooklyn Chinatown
+- Google People Also Ask: EMPTY
+- People Also Search For / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Reddit (r/Brooklyn, r/AskNYC, r/accesscontrol): EMPTY (no Brooklyn Chinatown thread surfaced)
+- Yelp complaints/praise: EMPTY
+- How much does a key fob entry system cost per door? — publisher heading — https://swiftlane.com/blog/key-fob-entry-system-cost/
+- How much do access control systems cost? — publisher heading — https://getsafeandsound.com/blog/access-control-systems-cost/
+- Can a landlord make giving up personal data a condition of getting into the building? — news article topic — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- Do tenants still get a key if the building switches to fobs or an app? — news article topic — https://www.amny.com/real-estate/apartment-access-privacy-concerns-1.29927187/
+- How do I stop packages being stolen from my building? — news topic — https://brooklyn.news12.com/nyclocker-opens-secure-packages-delivery-site-in-sunset-park
