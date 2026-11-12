@@ -930,7 +930,7 @@ REBUILD | access-control-installation-edgewater-park-bronx-ny | Access Control I
 REBUILD | access-control-installation-fairmount-bronx-ny | Access Control Installation | Fairmount, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 LIVE | access-control-installation-flatbush-brooklyn-ny | Access Control Installation | Flatbush, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 LIVE | access-control-installation-flatlands-brooklyn-ny | Access Control Installation | Flatlands, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T21:13Z max-burn REBUILD | access-control-installation-fort-greene-brooklyn-ny | Access Control Installation | Fort Greene, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
+LIVE | access-control-installation-fort-greene-brooklyn-ny | Access Control Installation | Fort Greene, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-foxhurst-bronx-ny | Access Control Installation | Foxhurst, Bronx | up /access-control-installation-bronx | (646) 490-0629 | GBP Bronx
 REBUILD | access-control-installation-gerritsen-beach-brooklyn-ny | Access Control Installation | Gerritsen Beach, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
 REBUILD | access-control-installation-gravesend-brooklyn-ny | Access Control Installation | Gravesend, Brooklyn | up /access-control-installation-brooklyn | (347) 934-8335 | GBP Brooklyn
