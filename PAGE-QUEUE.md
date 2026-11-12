@@ -1066,7 +1066,7 @@ LIVE | intercom-installation-dumbo-brooklyn-ny | Intercom Installation | Dumbo, 
 BUILDING 2026-11-12T12:16Z max-burn REBUILD | intercom-installation-east-new-york-brooklyn-ny | Intercom Installation | East New York, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-edgewater-park-bronx-ny | Intercom Installation | Edgewater Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 LIVE | intercom-installation-fiske-terrace-brooklyn-ny | Intercom Installation | Fiske Terrace, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
-BUILDING 2026-11-12T12:17Z max-burn REBUILD | intercom-installation-fort-greene-brooklyn-ny | Intercom Installation | Fort Greene, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-fort-greene-brooklyn-ny | Intercom Installation | Fort Greene, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-foxhurst-bronx-ny | Intercom Installation | Foxhurst, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 BUILDING 2026-11-12T12:18Z max-burn REBUILD | intercom-installation-gravesend-brooklyn-ny | Intercom Installation | Gravesend, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-harding-park-bronx-ny | Intercom Installation | Harding Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
