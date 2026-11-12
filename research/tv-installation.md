@@ -1037,3 +1037,63 @@ None of these come from verified PAA, PASF, AnswerThePublic, Bing or DuckDuckGo 
 - Google PAA / PASF / Answer the Public / AI Overview: EMPTY (not accessible in build env)
 - Reddit (r/Brooklyn, r/AskNYC, r/EastNewYork): EMPTY (no TV-mounting threads returned)
 - Yelp 1–3★ TV mounting Brooklyn: EMPTY (not accessible in build env)
+
+## East New York, Brooklyn — /tv-installation-east-new-york-brooklyn-ny (factory research, 2026-11-12)
+
+### Building types and wall situations TV installation meets here
+- East New York housing includes semi-detached homes, two-to-four family houses, multi-unit apartment buildings (including condos and co-ops), semi-detached rowhouses and frame houses — https://en.wikipedia.org/wiki/East_New_York,_Brooklyn
+- NYCHA developments in East New York include Cypress Hills Houses, East New York City Line, Long Island Baptist Houses, Louis Heaton Pink Houses, Unity Plaza, Vandalia Avenue, Boulevard Houses, Belmont-Sutter Area, Fiorentino Plaza, Linden Houses and Pennsylvania Avenue-Wortman Avenue — https://en.wikipedia.org/wiki/East_New_York,_Brooklyn
+- Louis Heaton Pink Houses (completed 1959) consist of 22 eight-story buildings with about 1,500 apartments on a 31.1-acre site — https://en.wikipedia.org/wiki/Louis_Heaton_Pink_Houses (search excerpt; direct fetch not answered in build env)
+- The Board of Estimate approved the revised Pink Houses plan of 22 eight-story buildings on April 25, 1957, to house 1,500 families — https://www.nycgovparks.org/parks/pink-playground/history (search excerpt)
+- Linden Houses, built in the 1950s with 21 buildings, entered PACT in 2021; described as "your typical brick NYCHA building"; complex includes 8-story and 13/14-story buildings now with overcladding — https://urbanomnibus.net/2025/01/more-than-skin-deep/
+- Penn-Wortman is an eight-story brick NYCHA complex next to Linden Houses with a recently rehabilitated facade — https://urbanomnibus.net/2025/01/more-than-skin-deep/
+- A NYC installer notes many NYCHA buildings have brick walls, which makes TV mounting harder than standard drywall installs — https://www.facebook.com/seinmellc/videos/tv-mounting-in-nyc-isnt-always-easy-many-nycha-buildings-have-brick-walls-which-/1166241182100205/
+- Starrett City / Spring Creek Towers: opened 1974, 46 buildings of 11 to 20 stories, 5,881 apartments, eight sections (Ardsley, Bethel, Croton, Delmar, Elmira, Freeport, Geneva, Hornell), own cogeneration power plant opened 1973; ZIP 11239 — https://en.wikipedia.org/wiki/Starrett_City
+- Spring Creek Towers: $70 million renovation program in 2002 (elevators, windows, lighting); 2021 announcement that owners would spend $140 million renovating buildings, affordability extended through 2069 — https://en.wikipedia.org/wiki/Starrett_City
+- Spring Creek Towers apartments are advertised as "cable ready," some with terraces; complex sits on 153 acres overlooking Jamaica Bay — https://www.springcreektowers.com/theapartments.html ; https://www.springcreektowers.com/
+- 2016 East New York Neighborhood Plan rezoning allows medium-density mixed-use buildings along key corridors; city-owned Dinsmore-Chestnut site near Atlantic Ave and Conduit Blvd slated for affordable housing — https://www.nyc.gov/content/planning/pages/our-work/plans/brooklyn/east-new-york-neighborhood-plan
+- Nearly 6,000 new homes built or permitted in the East New York rezoning area since 2016 — https://www.linkedin.com/pulse/promises-made-kept-east-new-york-neighborhood-tgyqe
+- Atlantic Chestnut (Dattner) will offer 1,200 affordable units; Phase II is 369 newly built apartments with attended lobby, package room, roof deck — https://www.dattner.com/projects/view/atlantic-chestnut/ ; https://www.phippsny.org/atlantic-chestnut-phase-ii/
+- Main thoroughfares: Linden Boulevard, Pennsylvania Avenue, Atlantic Avenue; also Liberty Avenue and Fulton Street corridors; ZIPs 11207, 11208, 11239; Community District 5 — https://en.wikipedia.org/wiki/East_New_York,_Brooklyn
+- Gateway Center: two-part shopping complex (South opened 2002, North 2014) on former landfill land near Jamaica Bay — https://en.wikipedia.org/wiki/East_New_York,_Brooklyn
+- Prewar NYC walls are usually plastered gypsum block; cutting trenches/boxes is messy; masonry walls need a channel cut and resurfaced to hide wires; power cords should not be buried in walls; cord covers (paintable) or routing under baseboards/moldings suggested — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+
+### Rules that change how TV installation is done here
+- NYCHA Resident Handbook (Dec 2024): residents may not alter apartments or add fixtures without prior written consent of the property management office, and are responsible for damage — https://www.nyc.gov/assets/nycha/downloads/pdf/resident-handbook-2024-english.pdf
+- NYCHA: cable television is available in all NYCHA developments; installation is the resident's responsibility — https://www.nyc.gov/assets/nycha/downloads/pdf/resident-handbook-2024-english.pdf
+- NYCHA: satellite dishes or antennas may not be attached to window frames, window guards or exterior brickwork; dishes only inside the apartment; roof antennas not permitted; a master TV antenna may be available — ask property management — https://www.nyc.gov/assets/nycha/downloads/pdf/resident-handbook-2024-english.pdf
+- NYCHA: window guards may only be removed when an air conditioner is installed permanently in their place (Appliance Agreement form 150.110) — https://www.nyc.gov/assets/nycha/downloads/pdf/resident-handbook-2024-english.pdf
+- HPD violations / 311 complaints / DOB permits specific to TV or low-voltage work in East New York — EMPTY (not found)
+- LPC rules bearing on TV installation in East New York — EMPTY (no landmark district found relevant to interior TV work)
+
+### Prices and competitors seen nearby
+- Angi: Brooklyn TV mounting average $280, typical $172–$376, full range $100–$670 — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Taskrabbit: NYC TV mounting average hourly $81, average invoice $152; wire hiding averages $125 — https://www.taskrabbit.com/cost-guides/wall-mount-tv
+- Thumbtack: national average $121–$234; brick, concrete and stone add labor, especially for in-wall cords — https://www.thumbtack.com/p/tv-wall-mount-install-cost
+- Best Buy Gateway Brooklyn, 369 Gateway Dr: Geek Squad TV mounting starting at $129.99; basic mounting is on a "standard frame wall" — https://stores.bestbuy.com/en/ny/brooklyn/369-gateway-dr-1886/geeksquad.html ; https://www.bestbuy.com/site/services/tv-home-theater-services/pcmcat138100050024.c?id=pcmcat138100050024
+- Yelp: a Geek Squad review at Best Buy Gateway Brooklyn says the service "ended up being way less than helpful than what they claimed" — https://www.yelp.com/biz/best-buy-gateway-brooklyn-brooklyn (search excerpt; page not scrapable)
+- Reddit r/TaskRabbit complaint: TV mount category in NYC prices wood studs, steel studs, cement and brick the same — https://www.reddit.com/r/TaskRabbit/comments/1dj52mo/what_happened_with_a_tv_mount_category_in_nyc_why/
+- Reddit r/AskNYC: user quoted "upwards of $300 to mount a 65 inch tv and hide all the cables behind the wall" — https://www.reddit.com/r/AskNYC/comments/nkwkm0/decent_tv_mounting_service/
+- Bing results / DuckDuckGo results — EMPTY (not accessible in build env)
+- Google People Also Ask panel — EMPTY (not accessible in build env); questions below come from Reddit, StreetEasy, Angi, Thumbtack, Yelp pages
+
+### Questions people ask — TV Installation in East New York
+- Is it worth mounting a TV in a NYC rental (apartment built in the 60s)? — Reddit — https://www.reddit.com/r/AskNYC/comments/o3g9gd/is_it_worth_mounting_a_tv/
+- Do landlords allow tenants to drill into exposed brick to mount a TV? — Reddit — https://www.reddit.com/r/AskNYC/comments/1v72dwl/mounting_tv_in_exposed_brick/
+- Is $300 the going rate to mount a 65 inch TV and hide cables in the wall? — Reddit — https://www.reddit.com/r/AskNYC/comments/nkwkm0/decent_tv_mounting_service/
+- Should I use Taskrabbit or someone else to get a TV mounted tomorrow? — Reddit — https://www.reddit.com/r/AskNYC/comments/ac6zqy/need_to_get_a_tv_mounted_should_i_used_taskrabbit/
+- Should I just go with Best Buy for a heavy TV? — Reddit — https://www.reddit.com/r/uppereastside/comments/1o99z3r/can_someone_reccomend_a_company_that_mounts_tvs/
+- Can anyone recommend a television installation service in Brooklyn? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1wz86z7/television_installation_service/
+- Why does mounting in wood studs, steel studs, cement and brick cost the same on Taskrabbit NYC? — Reddit — https://www.reddit.com/r/TaskRabbit/comments/1dj52mo/what_happened_with_a_tv_mount_category_in_nyc_why/
+- How much should a handyman charge to wall mount a 55" TV? — Reddit — https://www.reddit.com/r/handyman/comments/1g4cebj/how_much_do_you_charge_for_installing_a_simple/
+- How do I mount a TV and hide wires in a prewar building with hard plaster walls? — StreetEasy forum — https://streeteasy.com/talk/discussion/38645-mounting-tvhiding-wires-pre-war-building
+- How much do TV mounting services typically cost in Brooklyn? — Angi — https://match.angi.com/tloc/Brooklyn-NY/TV-Wall-Mount/
+- Will my wall type affect the project cost? — Thumbtack — https://www.thumbtack.com/p/tv-wall-mount-install-cost
+- Does TV size matter for mounting cost? — Thumbtack — https://www.thumbtack.com/p/tv-wall-mount-install-cost
+- Hourly vs. flat rates for TV mounting? — Thumbtack — https://www.thumbtack.com/p/tv-wall-mount-install-cost
+- Do you have availability to mount a new TV tomorrow (Sunday)? — Yelp Q&A — https://www.yelp.com/questions/andrews-tv-installation-wanting-to-get-a-new-tv-tomorrow-sunday-and-wondering-if-you-have-availa/76FtAeexQiXWZup1XPsGgw
+- How do I settle into Starrett City after moving in? — Reddit — https://www.reddit.com/r/Brooklyn/comments/1m2ucb0/just_moved_to_starett_city/
+- Is there a good way to hang a TV in a rented apartment without damaging the walls? — Quora — https://www.quora.com/Is-there-a-good-way-to-hang-a-TV-on-a-wall-in-a-rented-apartment-without-damaging-the-walls
+- People Also Ask (Google) — EMPTY (not accessible in build env)
+- Bing / DuckDuckGo-only questions — EMPTY (not accessible in build env)
+- AnswerThePublic — EMPTY (not accessible in build env)
