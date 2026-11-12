@@ -904,3 +904,54 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - One camera isn't showing on the TV screen after power outage — JustAnswer — https://www.justanswer.com/computer/ezf3i-call-didn-t-understand-so-given-site-night.html
 - How do I get my landlord to let me look at security camera footage? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
 - Landlord won't fix cameras — BiggerPockets — https://biggerpockets.com/forums/52/topics/878728-landlord-wont-fix-cameras
+
+## Coney Island, Brooklyn — /security-camera-repair-coney-island-brooklyn-ny (factory research, 2026-11-12)
+
+**Incidents where camera footage mattered (Coney Island)**
+- Gargiulo's Restaurant, 2911 West 15th Street: break-in June 29, 2022 about 2 a.m.; two men in black with gloves and surgical masks; about $100,000 in cash missing from a safe in a back office; video captured the break-in and footage from multiple locations tracked them between the defendant's home and the restaurant; on camera he removed his mask inside his building's elevator; sentenced April 23, 2024 to four to eight years — https://brooklynda.org/?p=18309
+- West 29th Street (residential block): News 12 (June 29, 2026) obtained surveillance video of a vehicle parked for at least an hour before an online-marketplace meetup turned into an armed carjacking of a 2024 Chrysler Pacifica, just after 6 p.m. — https://brooklyn.news12.com/coney-island-robbery-suspects-caught-on-surveillance-video
+- Donut Connection, Mermaid Avenue: shooting around 4:30 p.m. Sept. 23, 2025; shop video showed the victim near chairs, a man in a black hooded sweatshirt approaching and firing; no arrests at publication — https://brooklyn.news12.com/man-shot-at-coney-island-doughnut-shop-3-suspects-sought
+- Carey Gardens Houses, 2945 West 23rd Street: June 21, 2015 about 1 a.m., four men smashed two NYPD Viper security cameras with a cane; surveillance footage captured them — https://bklyner.com/four-wanted-for-smashing-security-cams-at-coney-island-housing-project-bensonhurst
+
+**NYCHA and public cameras**
+- NYCHA Recovery to Resiliency (FEMA-funded) work at Coney Island Houses included removable flood panels, new underground electrical conduits, energy-efficient lighting, and "security cameras and layered security measures" — https://nychajournal.nyc/?p=445
+- NYCHA CCTV projects may involve "installing new security cameras, monitors, low-voltage IT lines, connections to IT infrastructure, and software upgrades"; CCTV and Layered Access Control projects "typically take around 3 years" (about 16 months of construction) — https://www.nyc.gov/assets/nycha/downloads/pdf/Learn-More-About-NYCHA-CCTV-&-LAC-Replacements.pdf
+- Aug 13, 2023: Council Member Ari Kagan announced more NYPD security cameras for Kaiser Park, Stillwell Avenue and the block between West 28th and West 29th Streets, and said he worked with NYCHA developments so residents have functioning cameras; installation could take up to a year — https://brooklyn.news12.com/security-upgrades-coming-to-brooklyns-47th-district
+
+**Power and flooding events**
+- July 15, 2026, shortly after 7 a.m.: utility poles collapsed onto parked cars near West 36th Street and Surf Avenue; outage hit 900 customers, down to 300 by midday; several vehicles caught fire — https://abc7ny.com/post/power-poles-collapse-cars-spark-fire-coney-island/19513118/
+- Same event: transformer explosion near West 36th Street between Surf and Mermaid Avenues during a heat advisory (feels-like 95 to 105 degrees); FDNY: "We had burning wires and a heavily smoking transformer"; power restored by afternoon — https://lavocedinewyork.com/en/new-york/2026/07/15/coney-island-transformer-explosion-knocks-out-power-amid-dangerous-heat/
+- July 6, 2026: heavy rain flooded Neptune Avenue including the West 33rd Street intersection; resident Jay: "every time it rains out here, we get flooded" — https://brooklyn.news12.com/2026/07/06/major-flooding-in-coney-island-creates-hazardous-conditions/49rZdlZZXFM7CXuONlWVt
+- July 6, 2026: on West 35th Street basements filled; at one building firefighters removed the cellar door and shut off the power; tenant Shakina Daniels: "The whole entire basement is flooded up until the first-floor unit"; residents say storm drains near the Neptune Avenue corner are constantly clogged — https://brooklyn.news12.com/heavy-rainfall-floods-basements-in-coney-island
+
+**Building stock that shapes repairs**
+- Amalgamated Warbasse Houses: Mitchell-Lama co-op, five 24-story towers, 2,585 units, about 8,000 people, 26 acres; heating/cooling riser replacement done one building at a time (target 2024) — https://habitatmag.com/Publication-Content/Bricks-Bucks/2021/September-2021/Amalgamated-Warbasse-Houses-Co-op-Tackles-a-Giant-Project
+- Warbasse built 1960–1964 by the United Housing Foundation and Amalgamated Clothing Workers; along Neptune Avenue with the elevated trestle over the street — https://forgotten-ny.com/2024/10/warbasse-houses-coney-island
+- Sea Gate: about 850 single-family houses at the western tip, west of West 37th Street, water on three sides; private Sea Gate Public Safety Department funded by residents plus the 60th Precinct; dues averaged about $3,000 a year; Sandy destroyed numerous houses — https://en.wikipedia.org/wiki/Sea_Gate,_Brooklyn
+- 1515 Surf Avenue (LCOR): 463 apartments in two towers, grand opening Sept 30, 2024, on-site parking, "100 percent electric" with the city's largest active geothermal system — https://www.6sqft.com/1515-surf-coney-island-rental-complete/
+- Trump Village co-op: Mitchell-Lama history, affordability loss coverage; sections incl. Section 4 at 2940 West 5th Street — https://www.6sqft.com/loss-of-affordability-at-coney-islands-trump-village-highlights-issues-with-the-citys-mitchell-lama-program/ (details not fetched; only name/section used)
+
+**Commercial**
+- Coney Island BID: roughly $1 million budget for beautification, sanitation, public safety, marketing and business advocacy; Mermaid Avenue shows empty storefronts, litter, "limited security" and a lack of streetscape improvements such as lighting; Deno's co-owner Dennis Vourderis quoted — https://brooklyn.news12.com/2026/07/25/new-coney-island-business-improvement-district-aims-to-revitalize-neighborhood-beyond-the-boardwalk/xjGmibIoTvuKfz9i3Qvx9
+
+**Cost benchmarks**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low-high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Reddit / forums**
+- Brownstoner forum (c. 2010): "Anyone recommend a certain brand/model? We are thinking about buying the QSee cameras at Costco"; advice that a power transformer must handle the infrared draw (about 1 amp) or night operation can fail; about 500GB per week of motion recording — https://www.brownstoner.com/forum/security/security-camera-recommendation
+- r/ConeyIsland, r/Brooklyn, r/AskNYC threads on camera repair in Coney Island: EMPTY
+
+**Empty**
+- DOB permits for camera repair in Coney Island: EMPTY
+- LPC historic district rules affecting Coney Island camera mounts: EMPTY
+- 311 / HPD camera complaint counts for 11224: EMPTY
+- Yelp reviews for camera repair in Coney Island: EMPTY (only Thumbtack/Angi/HomeAdvisor directories returned)
+
+### Questions people ask — Security Camera Repair in Coney Island
+- PAA: EMPTY
+- PASF: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Anyone recommend a certain brand/model? (thinking of Costco cameras) — Reddit-style forum (Brownstoner) — https://www.brownstoner.com/forum/security/security-camera-recommendation
+- How many cameras do you want installed? / What kind of location is this? — HomeAdvisor intake — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
