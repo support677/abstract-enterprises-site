@@ -42,10 +42,10 @@ var GB=CAM_BRANDS.concat(['blink','nest','yi','canary','alibi','ring','akuvox','
 var PROD='(camera|cameras|cam|cams|doorbell|doorbells|security|system|systems|app|intercom|intercoms|cctv|nvr|dvr|video|cloud|login|outdoor|indoor|wireless|wifi|home)';
 var GBRE=GB.map(function(b){return new RegExp('^'+b.replace(/[-]/g,'\\-')+'( '+PROD+')*$');});
 var GHIT=GB.map(function(b){return new RegExp('\\b'+b.replace(/[-]/g,'\\-')+'\\b');});
-var gConv=[],gDrop=[];
+var gConv=[],gDrop=[];var LEAD=/\b(installation|installations|installer|installers|repair|repairs|service|services|company|companies|contractor|contractors|technician|technicians|professional|hire)\b/;var DIY=/\b(how|diy|setup|set up|yourself|myself|tutorial|guide)\b/;
 function guardOne(k,addFn,where){var mt=String(k.getMatchType()).toUpperCase();if(mt.indexOf('EXACT')>=0)return;var raw=k.getText().toLowerCase().replace(/^["\[]+|["\]]+$/g,'').replace(/\+/g,'').trim();if(PHRASE_ALWAYS.indexOf(raw)>=0)return;
  if(GBRE.some(function(r){return r.test(raw);})){k.remove();[raw,raw+' camera',raw+' cameras',raw+' app'].forEach(function(e){if(e.split(' ').length<=10){try{addFn('['+e+']');}catch(x){}}});gConv.push(where+': '+raw);return;}
- if(HIRE.test(raw)&&GHIT.some(function(r){return r.test(raw);})){k.remove();gDrop.push(where+': '+raw);}}
+ if(GHIT.some(function(r){return r.test(raw);})){k.remove();if(LEAD.test(raw)&&!DIY.test(raw)){gDrop.push(where+': '+raw);}else{if(raw.split(' ').length<=10){try{addFn('['+raw+']');}catch(x){}}gConv.push(where+': '+raw);}}}
 var all=AdsApp.negativeKeywordLists().get();while(all.hasNext()){var L=all.next();var nm2=L.getName();var kk=L.negativeKeywords().get();var buf=[];while(kk.hasNext()){buf.push(kk.next());}buf.forEach(function(k){guardOne(k,function(t){L.addNegativeKeyword(t);},'list '+nm2);});}
 var gc=AdsApp.campaigns().withCondition("campaign.status = ENABLED").withCondition("campaign.advertising_channel_type = SEARCH").get();
 while(gc.hasNext()){var cc=gc.next();var cn=cc.getName();var ck=cc.negativeKeywords().get();var b2=[];while(ck.hasNext()){b2.push(ck.next());}b2.forEach(function(k){guardOne(k,function(t){cc.createNegativeKeyword(t);},cn);});}
