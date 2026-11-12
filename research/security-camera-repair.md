@@ -3095,3 +3095,72 @@ Live web search was unavailable for this run; every finding below is carried fro
 - How much does security camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Does the person repairing my cameras need a license in New York? — NYC Business — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
 - Do I have to tell employees about workplace cameras? — Low Voltage Nation — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+
+## Vinegar Hill, Brooklyn — /security-camera-repair-vinegar-hill-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live web search was unavailable for this run (search budget exhausted). Every finding below was already sourced and saved in the site's research files (research/security-camera-repair.md, research/door-buzzer-repair.md, research/door-buzzer-installation.md, research/security-camera-installation.md, research/alarm-installation.md) and is re-used here with its original source URL. New live checks are marked EMPTY.
+
+**Power events that reach recorders, PoE switches and cameras**
+- June 23 2025: Con Edison asked about 68,000 customers in parts or all of Dumbo, Vinegar Hill, Brooklyn Heights, Downtown Brooklyn, Boerum Hill, Red Hook, Carroll Gardens, Cobble Hill and Fort Greene (plus Governors Island) to conserve energy; "Con Edison has reduced voltage by 8 percent in the area to protect equipment and maintain service as crews make repairs." — https://www.coned.com/en/about-us/media-center/news/2025/06-23/con-edison-asks-customers-in-northwest-brooklyn-to-conserve-energy
+- Vinegar Hill block-level outage news 2025–2026: EMPTY
+
+**The big neighbors: Con Ed site, substation construction, Navy Yard gate**
+- Jan 11 2024: demolition underway of the Hudson Avenue Generating Station for Con Edison's Brooklyn Clean Energy Hub (transmission substation); site bounded by Marshall St, Hudson Ave, Gold St and Con Ed Farragut Station; barges used to limit truck traffic; completion aimed for 2029 — https://newyorkyimby.com/2024/01/demolition-underway-for-brooklyn-clean-energy-hub-in-vinegar-hill-brooklyn.html
+- DNAinfo June 10 2013: small fire at the Con Ed plant May 31 2013 (six trucks, out within an hour); April 29 2012 loud noise and "huge cloud of black smoke"; Brook Stanton (Vinegar Hill Neighborhood Association): "There was a lot of smoke damage to nearby homes" — https://www.dnainfo.com/new-york/20130610/dumbo/latest-con-ed-fire-adds-locals-growing-concerns-about-89-john-st-plant
+- BNYDC April 2025 security RFP lists a Sands Street gate post among Navy Yard security posts and CCTV/video management in scope (the Yard's own system, not residents') — https://www.brooklynnavyyard.org/wp-content/uploads/2025/04/RFP_Security-Assessment_20250422.pdf
+
+**Building stock that shapes camera repair**
+- LPC Vinegar Hill Historic District designated Jan 14 1997: three small groups of brick Greek Revival row houses plus an 1855–56 firehouse and part of a 1908 factory; Front St, Gold St, Hudson Ave, Water St; 1970s newcomers "converted most of the storefronts to residential use, especially along Hudson Avenue"; 51 Hudson has a 1906 rear house "not visible from the street"; 237/239 Front have security grilles at basement and first story; front fire escapes on several houses; 67 Hudson sub-cellar — http://s-media.nyc.gov/agencies/lpc/lp/1952.pdf
+- Brownstoner (Sept 4 2015): like most older Vinegar Hill buildings, 50 Hudson is a three-story brick building with two floors of apartments over a storefront — https://www.brownstoner.com/architecture/vinegar-hill-brooklyn-50-hudson-ave-building-of-the-day/
+- The Vista on Vinegar Hill, 206 Front St: seven-story, 35-unit condo completed 2005; part-time doorman, video intercom, bike room, planted courtyard, private garage on the lower level — https://www.cityrealty.com/nyc/dumbo/the-vista-vinegar-hill-206-front-street/41732
+- Commodore's Court, 85 Hudson Ave: built 2002, 5 stories, about 10 units (another listing says 9), elevator, voice intercom, roof deck — https://www.compass.com/building/commodores-court-brooklyn-ny/282510534941694037/
+- 68 Gold St listing: elevator, video intercom, bike storage, gym, private parking — https://nooklyn.com/listings/68-gold-st-brooklyn-ny-11201-usa-5f-vinegar-hill
+- DOB NOW permits on landmarked Hudson Avenue: 69 Hudson Ave interior renovation incl. new ceiling finishes, kitchen and bath (issued Dec 3 2024, est. $268,000), floor joist sistering and rear yard deck (Jan 9 2025), heat pump split A/C (Mar 25 2025); 59 Hudson Ave general construction for a new bathroom on 2nd–4th floors — https://data.cityofnewyork.us/resource/rbx6-tga4.json
+- First Street Foundation: Vinegar Hill has moderate flood risk over 30 years; 25 properties at risk = 28.1% of all properties — https://firststreet.org/neighborhood/vinegar-hill-ny/7616_fsid/flood
+- Wikipedia: about six blocks between DUMBO and the Navy Yard; Hudson Ave, Plymouth, Water and Front Sts are Belgian block; "very quiet neighborhood where its residents know one another"; includes Farragut Houses; 84th Precinct — https://en.wikipedia.org/wiki/Vinegar_Hill,_Brooklyn
+
+**Farragut Houses (NYCHA) and its camera program**
+- NYCHA (Nov 27 2023): Farragut Houses among 23 campuses receiving "more than $24.1 million in safety and security upgrades"; upgrades across campuses were "new CCTV cameras, layered access control installations, entrance renovations, and/or lighting improvements" — https://www.nyc.gov/site/nycha/about/press/pr-2023/pr-20231127.page
+- Wikipedia: ten 13- and 14-story buildings; NYCHA 1,390 apartments; in 2014 NYCHA installed cameras in eleven Brooklyn projects including Farragut — https://en.wikipedia.org/wiki/Farragut_Houses
+- NYC Comptroller (Oct 12 2018): on Aug 1 2018 auditors saw 8 of 10 Farragut front entrance doors open — https://comptroller.nyc.gov/wp-content/uploads/documents/NYCHA-Doors-for-web.pdf
+- DNAinfo Aug 16 2013: Farragut had 4,034 unanswered repair requests as of Feb 15 2013 — https://www.dnainfo.com/new-york/20130816/vinegar-hill/dumbos-farragut-houses-have-4034-unanswered-repair-requests-data-says
+
+**Crime and footage (84th Precinct)**
+- Brooklyn Eagle Feb 10 2026: the 84th Precinct "encompasses Brooklyn Heights, Boerum Hill, part of Downtown Brooklyn, DUMBO and Vinegar Hill" — https://brooklyneagle.com/367061/cops-of-the-month-help-clean-up-retail-theft-in-the-84th-precinct/
+- NYPD CompStat 84th Precinct, week 10/26–11/1/2026, YTD 2026 vs 2025: burglary 143 vs 195 (-26.7%); robbery 145 vs 192 (-24.5%); grand larceny 534 vs 603 (-11.4%); retail theft 1,071 vs 1,134; precinct-wide figures — https://www.nyc.gov/assets/nypd/downloads/pdf/crime_statistics/cs-en-us-084pct.pdf
+- DNAinfo Jan 17 2013: 48 of the 141 burglaries in the 84th Precinct in 2012 happened when residents left doors unlocked — https://www.dnainfo.com/new-york/20130117/boerum-hill/boerum-hill-residents-invite-burglars-by-leaving-doors-unlocked-police-say
+- Brooklyn Paper Aug 24 2010: a Plymouth Street apartment burglary, owner gone about 11 hours, bedroom-window A/C forced in — https://www.brooklynpaper.com/the-old-distraction-play-at-key-food/
+- Vinegar Hill-specific camera footage news: EMPTY
+
+**Rules that change how camera repair is done**
+- LPC Permit Guidebook ch. 11: cameras well spaced; no more than two per 25 feet of frontage on small buildings; attach at mortar joints, plain masonry, wood or metalwork, not decorative surfaces or through cast iron; about ten inches of visible conduit; ordinary maintenance and repair of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- NYC Admin Code §28-105.4.7: no electrical permit for wiring designed to operate under 50 volts (signaling/communication) — https://up.codes/s/low-voltage-electrical-work
+- Brick Underground: "There's no city law requiring rental buildings to have functioning security cameras"; attorney Jeffrey Reich: "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance." — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- FirstService Residential: footage generally stored 30 to 90 days; residents should not get copies without board and counsel approval; log requests and access — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+- FCC (~Apr 30 2026): a proceeding on older device authorizations "explicitly would not affect continued use or operation of already-purchased communications equipment" (Hikvision/Dahua owners) — https://www.securityinfowatch.com/government/news/55375002/fcc-targets-covered-list-firms-in-telecom-authorization-overhaul
+
+**Costs and how-to advice seen online**
+- HomeAdvisor Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Impera Security: "Installing or formatting a new hard drive does not recover footage previously lost because of a failed drive"; "If an incident recording is potentially important, tell us before anyone resets the recorder" — https://www.imperasecurity.com/security-camera-repair
+- Reolink repair guide: common problems are blurry images, camera not turning on (cables, power supply), inconsistent feed (network), faulty night vision — https://reolink.com/blog/security-camera-repair/
+
+**Empty**
+- DOB permits for camera repair in Vinegar Hill: EMPTY
+- 311 / HPD camera complaint data for Vinegar Hill: EMPTY
+- Reddit threads about camera repair in Vinegar Hill: EMPTY
+- Yelp reviews for camera repair near Vinegar Hill: EMPTY
+
+### Questions people ask — Security Camera Repair in Vinegar Hill
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable this run)
+- Reddit: EMPTY
+- Yelp: EMPTY
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Can you recover missing security camera footage? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Why can I see live cameras but no recordings? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can the DVR be replaced without replacing all cameras? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can existing coaxial wiring be reused? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- Can you fix cameras that stopped working after an internet provider change? — vendor FAQ — https://www.imperasecurity.com/security-camera-repair
+- What causes my security camera to stop working? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
+- Can I repair my security camera at home? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
+- The lobby camera has not been working and packages are being stolen. Is there any action tenants can take? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- Who should have access to security camera footage in a condominium or cooperative? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
