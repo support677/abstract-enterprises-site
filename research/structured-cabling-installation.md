@@ -2699,3 +2699,49 @@ Scope: "Bruckner" has no official borders. Sources describe it as the Soundview-
 - How to test Cat6a cable? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
 - Do Cat6a cables work with Cat6 and Cat5e? — where seen: FAQ page — https://www.nmcabling.co.uk/2021/03/cat6a-cabling-20-commonly-asked-questions/
 - How to make Wi-Fi signal better in an NYC apartment? — where seen: Brick Underground article — https://www.brickunderground.com/improve/how-to-make-wifi-signal-better-in-nyc-apartment
+
+## Tremont, Bronx — /structured-cabling-installation-tremont-bronx-ny (factory research, 2026-11-12)
+
+- Third Avenue/Tremont Avenue Rezoning adopted by City Council October 13, 2010 (CPC approval September 15, 2010); covers all or parts of 75 blocks in Bronx Community District 6, along Third Avenue (Fordham Plaza to the Cross-Bronx Expressway) and Tremont Avenue (Webster Avenue to Daly Avenue) — https://www.nyc.gov/assets/planning/download/pdf/plans/third-tremont/third_tremont.pdf
+- Pre-rezoning building stock per DCP: Third Avenue mostly single-story automotive and warehouse uses, parking lots and vacant land; Tremont Avenue mainly single-story retail with some multistory theaters and office buildings (often with vacant upper floors) and a few mixed residential-retail buildings; west of Third Avenue four- to six-story apartment buildings and row houses — https://www.nyc.gov/assets/planning/download/pdf/plans/third-tremont/third_tremont.pdf
+- Rezoning goals included supporting St. Barnabas Hospital, retaining light manufacturing and auto-related uses, connecting Tremont, Belmont, Fordham and Bathgate; new districts include C4-5X, C4-4A, C4-4D near St. Barnabas, MX M1-4/R7A and M1-4/R7X, R7X/C1-4 on Tremont Avenue, R5/R6A in a Neighborhood Preservation Area between Third and Park Avenues — https://www.nyc.gov/assets/planning/download/pdf/plans/third-tremont/third_tremont.pdf
+- Tremont Renaissance, 1910 Webster Ave (also fronts East Tremont Ave): $117.7M, twelve stories, 256 residential units, four ground-floor commercial units totaling almost 40,000 sq ft (expected tenants medical office, supermarket, pharmacy, discount store), amenities include an Internet lounge and fitness center; Mastermind Development with HPD and HDC (article April 2017) — https://nyrej.com/property-of-the-month-mastermind-development-begins-construction-on-117-7-million-tremont-renaissance-project
+- 521 East Tremont Avenue: Community Access groundbreaking April 23, 2026 — 213 apartments incl. 63 supportive units, Community Healthcare Network health center (Tremont Health Center to triple in size), computer/library room, fitness room, community space, ground-floor retail; $162M; Mega Group GC, SLCE Architects — https://shnny.org/blog/entry/community-access-breaks-ground-on-east-tremont
+- 490 East Tremont Avenue: new building permit filed April 24, 2025 — five stories, 59 ft, 150,106 sq ft residential and 4,693 sq ft commercial; architect Shmuel Wieder (S. Wieder Architect PC) — https://blog.marketproof.com/new-building-permit-filed-for-490-east-tremont-avenue-in-tremont-bronx/
+- 1960 Prospect Avenue (aka 761 East Tremont Avenue): nine stories, 85 ft, 99 residences, 120,240 sq ft incl. 5,080 sq ft commercial and 505 sq ft community facility; VL Construction Group (Vilson Lumaj), Mohammad Badaly Architects; near West Farms Square–East Tremont Avenue 2/5 station (YIMBY, July 2026) — https://newyorkyimby.com/?p=1994029
+- Permits also filed for 1740 East Tremont Avenue in Van Nest (Aug 2026) — https://newyorkyimby.com/2026/08/permits-filed-for-1740-east-tremont-avenue-in-van-nest-the-bronx.html
+- East Tremont Avenue merchant alliance: about 30 merchants organized by Neighborhood Initiatives Development Corporation (NIDC), meets monthly; members include Frank's Sport Shop (family-owned 100+ years), Bobby's TV and Radio Service (owner Freddy Carrera: top concern "Basically, safety. A lot of safety,"), Enelia's Party Supply (News 12, July 23, 2026) — https://bronx.news12.com/2026/07/23/east-tremont-merchants-unite-to-strengthen-business-corridor-through-merchants-alliance/5AAeeE1lv4KHHgy1aoLvHh
+- NIDC commercial revitalization study for East Tremont Avenue and East 180th Street with NYC SBS; priorities safety, parking, business security, rising rents (Feb 19, 2025) — https://bronx.news12.com/how-do-you-envision-the-future-of-east-tremont-avenue-feedback-wanted-for-improvement-projects
+- St. Barnabas Hospital, 4422 Third Ave: $140M state support announced Jan 2025; ED handles 75,000–80,000 visits/yr but was built for about 55,000 — https://politicsny.com/2025/01/30/gov-hochul-announces-140-million-for-upgrades-at-bronx-hospital/
+- About 1 in 4 Bronx homes lack broadband and about 1 in 3 lack a computer (Center for an Urban Future via WNYC, 2025); an East Tremont resident quoted has Wi-Fi but no computer — https://wnyc.org/story/its-2025-but-a-quarter-of-bronx-families-dont-have-broadband-internet-at-home/
+- Tremont fiber availability (aggregator estimate): Verizon Fiber and EarthLink Fiber ~92.78% of Tremont, Optimum Fiber ~70.78%; fiber is the fastest type for 95.28% of Tremont homes — https://bestneighborhood.org/fiber-tv-and-internet-tremont-bronx-ny/
+- NYC cabling challenges: many buildings over a century old; plaster, brick and asbestos complicate runs; crowded ceilings, packed utility closets and shared risers; reuse existing conduits and shafts — https://unifinerds.com/structured-cabling-nyc/
+- Low-voltage permit need depends on scope and filing; "permit not required" does not mean no requirements — building management may require insurance, documentation, approved pathways; identify rated walls/floors and firestop every penetration; unsealed penetrations are a common inspection failure — https://unifinerds.com/low-voltage-wiring-codes-nyc-contractors/
+- Brownstoner forum (2009) thread: homeowner asked if DOB permit needed to run CAT6/camera/thermostat wire in conduit; a fire alarm installer replied no permitting required for low voltage; another said plenum spaces are rare in homes (forum opinion, not official) — https://www.brownstoner.com/forum-archive/2009/08/data-cables-con
+- Common mistakes: skipping certification testing (wire map isn't performance proof), mixing categories in a run, unlabeled drops, bend radius/fill violations, data parallel to power conduit, non-plenum cable in plenum spaces — https://unifinerds.com/?p=78398
+- Cat6A supports 10 Gbps over the full 100 m channel; keep permanent link under 90 m; CMP in air-handling ceilings, CMR between floors; shielded cable must be bonded or can perform worse — https://nyflnerds.com/cat6a-installation-nyc-guide/
+- Thumbtack Bronx wiring-installation listing: quotes are scope-based, installer asks for location, photos, number of cable runs and target date; reviews praise communication and follow-through — https://www.thumbtack.com/ny/bronx/wiring-installation/triple-k-communications-llc/service/568732026510589967
+- BBB lists 135+ network cabling businesses for Bronx category — https://bbb.org/us/ny/bronx/category/network-cabling
+- HPD violations / 311 complaints specific to cabling in Tremont: EMPTY (not accessible in build env)
+- LPC rules: EMPTY (no Tremont historic district found affecting cabling in this research)
+- Google People Also Ask / PASF for "structured cabling installation Tremont/Bronx": EMPTY (not accessible in build env)
+- Bing results: EMPTY (not accessible in build env)
+- DuckDuckGo results: EMPTY (not accessible in build env — fetch blocked)
+- Reddit threads specific to Tremont cabling: EMPTY (not found)
+- Yelp complaints/praise for Bronx cabling: EMPTY (not accessible in build env)
+
+### Questions people ask — Structured Cabling Installation in Tremont
+- Do I need a permit to install conduit or run low-voltage cable (CAT6, camera, thermostat wire) through it in NYC? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2009/08/data-cables-con
+- Does low-voltage conduit need to be grounded? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2009/08/data-cables-con
+- Can low-voltage cables run outside conduit? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2009/08/data-cables-con
+- What is a demarcation point in structured cabling? — installer FAQ (AnswerThePublic-style what) — https://unifinerds.com/unifi-faqs/structured-cabling-faq
+- Can existing infrastructure be integrated with a new structured cabling setup? — installer FAQ — https://unifinerds.com/unifi-faqs/structured-cabling-faq
+- Can I modify my structured cabling setup once it's installed? — installer FAQ — https://unifinerds.com/unifi-faqs/structured-cabling-faq
+- What is the significance of grounding in structured cabling? — installer FAQ — https://unifinerds.com/unifi-faqs/structured-cabling-faq
+- What should I expect after structured cabling is installed? — installer FAQ — https://unifinerds.com/unifi-faqs/structured-cabling-faq
+- Cat6 vs Cat6A — which should an NYC office choose? — search results — https://unifinerds.com/?p=74430
+- How much does structured cabling cost in NYC? — search results — https://unifinerds.com/structured-cabling-cost-nyc-office-pricing-guide/
+- What questions should I ask before hiring a structured cabling provider in New York? — search results — https://www.instrata.com/questions-to-ask-before-hiring-structured-cabling-provider-new-york/
+- Should I bother with a wired network? — MacRumors forum — https://forums.macrumors.com/threads/should-i-bother-with-wired-network.2454408
+- Why do the Cat5e Ethernet ports in my apartment not work? — Tom's Hardware forum — https://forums.tomshardware.com/threads/cat5e-ethernet-ports-in-apartment-do-not-work.3339285
+- How can I split internet with my neighbor? — r/AskNYC (Reddit mirror) — https://reddit.birdcat.cafe/r/AskNYC/comments/1jhi41k/how_can_i_split_internet_with_my_neighbor
