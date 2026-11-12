@@ -9934,3 +9934,40 @@ Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not reachable). 
 - Can you repair a door buzzer that rings but does not unlock? — competitor FAQ (UA Security) — https://www.uasecurity.com/Intercom-Systems-Bronx-New-York.htm
 - Should I hold the release button longer? — Knockli — https://knockli.com/blog/apartment-intercom-troubleshooting
 - PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp questions: EMPTY
+
+## Locust Point, Bronx — /door-buzzer-repair-locust-point-bronx-ny (factory research, 2026-11-12)
+
+- Housing stock on the Locust Point tax blocks 5523–5527 (PLUTO): 265 lots, 319 homes; 167 one-family lots, 68 two-family lots (136 homes), 5 three-family lots (15 homes), no building with four or more homes, max 3 floors, built 1899–2013; 231 of 265 lots carry the 2015 PFIRM floodplain flag — https://data.cityofnewyork.us/resource/64uk-42ks.json
+- HPD violations on those blocks: 94 total, 0 intercom/buzzer/bell violations ever; 0 door/lock items at a Locust Point address — https://data.cityofnewyork.us/resource/wvxf-dwi5.json
+- 311 at Locust Point street addresses: 1,568 requests, 0 bell/buzzer/intercom; most are other categories (sewer, window pane) — https://data.cityofnewyork.us/resource/erm2-nwe9.json
+- ZIP 10465 overall: 50 bell/buzzer/intercom 311 complaints since 2022 (3rd lowest of 25 Bronx ZIPs); HPD intercom records ZIP-wide concentrated at 280 Longstreet Ave in Throggs Neck — research/door-buzzer-repair.md (silo research, Country Club rows L6/L7)
+- Meaning for the page: on Locust Point "door buzzer repair" is almost always a private-house doorbell/buzzer circuit or a two-family's two-bell setup, paid by the owner, not an HPD-driven apartment intercom job — derived from the three data rows above
+- No local news, Reddit thread or civic item about buzzers, intercoms or entry doors on Locust Point was found (searches "Locust Point" Bronx doorbell OR intercom OR buzzer; Locust Point Bronx 2025 OR 2026 civic association news) — EMPTY
+- Doorbell transformer typically steps 120 V down to "typically around 16 volts"; warning signs of a failing transformer: no sound, buzzing or humming, corrosion, weak or intermittent chime; outdoor button fails most often because "weather and constant use wear it out" — https://www.thisoldhouse.com/curb-appeal/how-to-fix-a-doorbell
+- Brooklyn forum, Dec 19 2007: a doorbell transformer buzzing loudly in a basement; reply from "Bklyn Fire Alarm Guy": either poorly mounted and vibrating or failing; meter the output against the label; warned the open panel has "enough juice to make you dead" — https://www.brownstoner.com/forum-archive/2007/12/doorbell-transf
+- Faulty doorbell wiring causes: "water exposure, rodent damage, or wires that are bent, twisted, or frayed"; chime box usually cheaper to replace than repair — https://www.bobvila.com/articles/doorbell-not-working/
+- Random ringing on a wired bell: button "accumulates dirt, moisture, and corrosion"; plunger can "stick momentarily"; damaged sheath lets the two wires touch, "effectively short-circuiting the system"; failing transformer can send "an erratic power surge to the chime unit" — https://engineerfix.com/why-does-my-doorbell-randomly-ring/
+- Lorex wired video doorbells need "a voltage between 16V-24V AC"; older homes often have 10V transformers, too weak for these models — https://lorex.com/blogs/help/what-transformer-should-i-use-with-my-wired-video-doorbell
+- Ring wired doorbells: 16–24 VAC, 10–40 VA; low-power symptoms incl. doorbell "loses power at night or after the button is pressed"; chime symptoms incl. ringing on its own, buzzing or humming; 2K/4K wired models not compatible with any in-home chime — https://ring.com/support/articles/nrv6o/Troubleshooting-power-for-hardwired-doorbells
+- Flood guidance (Minnesota DLI): submerged circuit wiring "must be replaced"; "All electrical equipment or components that have been submerged must be replaced"; only equipment rated for submersion may survive — https://www.dli.mn.gov/workers/homeowners/recommendations-electrical-equipment-damaged-floodwaters
+- NYC DOB flood-resistant construction (Appendix G) presentation: installing new equipment below the design flood elevation where not permitted counts as an increase in noncompliance; equipment below DFE in limited cases must have wiring "designed and/or isolated" so it won't affect other parts of the building if submerged — https://www.nyc.gov/assets/buildings/pdf/presentations/bsls22-flood_resistant_construction.pdf
+- NYC intercom guide (Brick Underground, Nov 7 2019): most problems involve connections at the lobby base, apartment panel, door strike or power supply; Daniel Vasquez (Paragon Security and Locksmith): "It's all in the wire connections"; Pete Carmello (Lock and Tech): "A lot of times it's user error"; service-call estimates quoted $195/hr and $250/hr plus parts; building must authorize repairs — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- National cost guides: transformer part $20–$35, electrician to install a transformer $150–$250, whole doorbell system $250–$400 — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- ConsumerAffairs: doorbell replacement typically $250–$400 total; wired $175–$375 installed; labor $100–$250 — https://www.consumeraffairs.com/homeowners/cost-to-replace-doorbell.html
+- Multiple dwellings (3+ families) fall under the MDL; post-1968 MDs need self-closing/self-locking entrance doors, 8+ units a two-way intercom; pre-1968 an intercom if a majority of apartments request it — https://ag.ny.gov/sites/default/files/tenants_rights.pdf
+- Google PAA / PASF / AnswerThePublic / Bing / DuckDuckGo / Yelp 1–3★ for "door buzzer repair Locust Point": EMPTY (no result surfaces captured)
+- Reddit (r/Bronx, r/AskNYC) threads specific to Locust Point buzzers: EMPTY
+
+### Questions people ask — Door Buzzer Repair in Locust Point
+- Why is my doorbell transformer buzzing or humming? — Brownstoner forum / This Old House — https://www.brownstoner.com/forum-archive/2007/12/doorbell-transf
+- Why does my wired doorbell ring by itself? — engineerfix / Ring community — https://engineerfix.com/why-does-my-doorbell-randomly-ring/
+- Is my old doorbell transformer strong enough for a video doorbell? — Lorex help / Ring support — https://lorex.com/blogs/help/what-transformer-should-i-use-with-my-wired-video-doorbell
+- Why does my video doorbell lose power at night or after someone presses it? — Ring support — https://ring.com/support/articles/nrv6o/Troubleshooting-power-for-hardwired-doorbells
+- Can doorbell wiring that was under floodwater be reused? — Minnesota DLI flood guidance — https://www.dli.mn.gov/workers/homeowners/recommendations-electrical-equipment-damaged-floodwaters
+- Is it the button, the chime or the transformer? — Bob Vila / This Old House — https://www.bobvila.com/articles/doorbell-not-working/
+- How much does it cost to repair or replace a doorbell? — Angi / ConsumerAffairs — https://www.consumeraffairs.com/homeowners/cost-to-replace-doorbell.html
+- How long does a doorbell last? — ConsumerAffairs FAQ — https://www.consumeraffairs.com/homeowners/cost-to-replace-doorbell.html
+- Do I need an electrician or a low-voltage tech? — Angi — https://www.angi.com/articles/wired-doorbell-not-working.htm
+- Who has to authorize the repair, tenant or owner? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Is it user error or a real fault? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
+- Does a three-family house need an intercom by law? — NYS AG Tenants' Rights Guide — https://ag.ny.gov/sites/default/files/tenants_rights.pdf
