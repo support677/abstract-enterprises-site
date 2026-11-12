@@ -1061,7 +1061,7 @@ REBUILD | intercom-installation-claremont-bronx-ny | Intercom Installation | Cla
 LIVE | intercom-installation-columbia-street-waterfront-brooklyn-ny | Intercom Installation | Columbia Street Waterfront, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-concourse-bronx-ny | Intercom Installation | Concourse, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
 REBUILD | intercom-installation-crotona-park-east-bronx-ny | Intercom Installation | Crotona Park East, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
-BUILDING 2026-11-12T11:59Z max-burn REBUILD | intercom-installation-downtown-brooklyn-ny | Intercom Installation | Downtown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
+LIVE | intercom-installation-downtown-brooklyn-ny | Intercom Installation | Downtown, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 LIVE | intercom-installation-dumbo-brooklyn-ny | Intercom Installation | Dumbo, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 BUILDING 2026-11-12T12:16Z max-burn REBUILD | intercom-installation-east-new-york-brooklyn-ny | Intercom Installation | East New York, Brooklyn | up /intercom-installation-brooklyn-ny | (347) 934-8335 | GBP Brooklyn
 REBUILD | intercom-installation-edgewater-park-bronx-ny | Intercom Installation | Edgewater Park, Bronx | up /intercom-installation-bronx-ny | (646) 490-0629 | GBP Bronx
