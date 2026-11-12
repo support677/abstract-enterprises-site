@@ -8814,3 +8814,38 @@ I couldn't see Google's People Also Ask boxes or related searches, or Bing, Duck
 - Is it a user error or a wiring fault? — Brick Underground — https://www.brickunderground.com/improve/nyc-intercom-repair-guide-how-to-fix
 - Does the co-op have to fix the intercom? — Habitat Magazine — https://habitatmag.com/Publication-Content/Building-Operations/2024/February-2024/A-Working-Intercom-Isn-t-an-Amenity.-It-s-Required-by-Law
 - Why does the buzzer sound but the door stays locked in cold weather? — web result (ButterflyMX) — https://butterflymx.com/blog/how-cold-weather-affects-apartment-intercoms/
+
+## Brighton Beach, Brooklyn — /door-buzzer-repair-brighton-beach-brooklyn-ny (factory research, 2026-11-12)
+
+- 3033 Brighton 13 Street (11235): PulseCities lists it as built 1926, 41 units (DHCR lists 40 rent-stabilized), 17 open code violations; HPD Class B violation dated Apr 18, 2026: "Properly repair or replace the broken or defective bell/buzzer intercom from building entrance panel to south…"; two Class B violations Apr 3, 2026: "Refit the vestibule door" and "Refit building front entrance door" — https://pulsecities.com/property/3087160085
+- 286 Corbin Place (Brighton Beach, 11235): Augrented lists 38 units, 6 floors, built 1941, 91 open violations and 72 311 calls; HPD Class A violation inspected 02/04/2020 under "§ 27-2005 Adm Code Properly Repair The Broken Or Defective Electric Bell At Door In The Entrance Located At Apt 6D, 6Th Story" with status "First No Access To Re-Inspect Violation"; 311 complaints received 12/13/2024 for apartment 6D: "General – Bell/Buzzer/Intercom" (non-emergency) and "Door/Window – Door" (emergency), both closed — https://augrented.com/nyc/3087230279-286-corbin-place
+- Augrented gives a Brighton Beach average of 17.7 recorded HPD violations per building (shown on 2955 Brighton 5 Street and 3155 Coney Island Avenue pages) — https://augrented.com/nyc/3086650525-2955-brighton-5-street ; https://augrented.com/nyc/3087070064-3155-coney-island-avenue
+- 501 Brightwater Court: JustFix Who Owns What shows 95 units, built 1928; most common HPD complaints over the last three years: HEAT/HOT WATER (197), BELL/BUZZER/INTERCOM (15), PESTS (14); landlord portfolio 5 buildings — https://whoownswhat.justfix.org/en/address/BROOKLYN/501/BRIGHTWATER%20COURT/summary
+- 3021 Brighton 13th Street: Weverit lists 46 open HPD violations, 18 Class C (immediately hazardous), as of Nov 2026; built 1942, 4 floors (no intercom-specific violation on the page) — https://weverit.com/building/ny/new-york/3021-brighton-13-street-brooklyn-11235
+- ButterflyMX (Katie Kistler, Sept 3, 2026) on coastal intercoms: a coastal entry "has to handle the salt air that can wear down exterior hardware, connectors, fasteners, and finishes over time"; "IP65 or higher can be a reasonable starting point"; "A panel can keep water out and still show wear at screws, brackets, hinges, or connection points"; maintenance: "Check seals, gaskets, and cable-entry points for cracking, gaps, or wear" — https://butterflymx.com/blog/waterproof-intercom-systems-for-coastal-apartment-buildings/
+- DoorBird sells door stations in brushed stainless steel V4A, described as "Salt-Water and Grinding dust Resistant", for multi-tenant buildings (D21DKH listing) — https://www.amazon.com/DoorBird-Stainless-Salt-Water-Flush-mounting-Horizontal/dp/B07Q26QH2X
+- Siedle markets stainless steel door intercoms as "highly robust and resistant to corrosion" — https://www.siedle.com/en-gb/home/products/external-door-intercom-systems/linked-pages/metal/
+- Unlimited Access Security NYC buzzer guide (Wayne Wheeler, Sept 10, 2026, updated Nov 3, 2026): total silence is "a common sign of a blown transformer or a main riser failure"; "buzz without a click" = audio works but release signal never reaches the strike; "ghost ringing" often "the result of moisture or insulation decay in older wiring, creating intermittent short circuits that mimic a button press"; most repairs "completed within one to three hours after the initial diagnostic" — https://www.uasecurity.com/blog1/2026/09/10/expert-apartment-building-buzzer-repair-in-new-york-city-2026/
+- Swiftlane apartment buzzer guide: straightforward fixes "typically run $150 to $250 as a flat-rate service call" (citing UA Security); like-for-like audio replacement "$1,000 to $3,000 per door"; smart video "$1,500 to $5,000 per door" — https://swiftlane.com/blog/apartment-buzzer-system/
+- The Forward (Lisa Amand, Oct 26, 2013): a year after Sandy, resident Emily Axelrod: "There was no electricity, no elevator. It was very bad for old people. No home phone, no cell phone, no TV."; shop basements on Brighton Beach Avenue flooded; Yelena Makhnin: "Everything in the basement became garbage." — https://forward.com/news/186254/a-year-after-sandy-brighton-beach-struggles-to-get/
+- NY Attorney General: landlord repairs "must be made within a reasonable time that may vary depending upon the severity of the repairs" — https://ag.ny.gov/resources/individuals/tenants-homeowners/legal-services-and-code-enforcement
+- r/AskNYC "Landlord won't fix buzzer": reply says cost of repairs "is covered by your rent and is still the landlord's duty" (excerpt only) — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- Yelp: only list pages for "Intercom System Services near Brighton Beach" (nearest listed shops several miles away, e.g. 8.2 mi); no review text retrieved — https://www.yelp.com/search?find_desc=Intercom+System+Services&find_loc=Brighton+Beach%2C+Brooklyn%2C+NY
+- Reddit r/BrightonBeach / Brighton Beach buzzer threads: EMPTY (search returned only Boston/UK "Brighton" threads)
+- Google PAA / PASF / Answer the Public / Bing / DuckDuckGo live panels: EMPTY (not accessible in build env); questions below come from FAQ blocks of ranking pages
+- NYC Open Data 311 / HPD API: EMPTY (host blocked in build env); building-level records above come from third-party mirrors of HPD/311 data
+
+### Questions people ask — Door Buzzer Repair in Brighton Beach
+- Is my NYC landlord required to repair the apartment buzzer? — ranking page FAQ (PAA-style) — https://www.uasecurity.com/blog1/2026/09/10/expert-apartment-building-buzzer-repair-in-new-york-city-2026/
+- How much does a typical apartment buzzer repair cost in New York? — ranking page FAQ — same URL
+- Can you fix a buzzer system if parts are no longer manufactured? — ranking page FAQ — same URL
+- Why does my buzzer work but the door won't unlock? — ranking page FAQ — same URL
+- Do I need to be home for the technician to fix the intercom? — ranking page FAQ — same URL
+- What is the difference between an electric strike and a magnetic lock? — ranking page FAQ — same URL
+- How long does a standard buzzer repair take? — ranking page FAQ — same URL
+- Can I upgrade my old buzzer to a video system without rewiring the whole building? — ranking page FAQ — same URL
+- How much does it cost to replace an apartment buzzer system? — ranking page FAQ — https://swiftlane.com/blog/apartment-buzzer-system/
+- Who is responsible for fixing a broken buzzer in a small apartment building? — ranking page — https://butterflymx.com/blog/replace-broken-buzzer-intercom-system-for-small-apartment-building/
+- What can I do if my landlord won't fix the buzzer? — Reddit — https://www.reddit.com/r/AskNYC/comments/ilvvz3/landlord_wont_fix_buzzer/
+- Will salt air from the ocean damage an outdoor intercom panel? — ranking page — https://butterflymx.com/blog/waterproof-intercom-systems-for-coastal-apartment-buildings/
+- Why does my buzzer ring by itself (ghost ringing)? — ranking page — https://www.uasecurity.com/blog1/2026/09/10/expert-apartment-building-buzzer-repair-in-new-york-city-2026/
