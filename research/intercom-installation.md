@@ -3646,3 +3646,45 @@ Method: web search plus page fetches. Google PAA/PASF, AnswerThePublic, Bing, Du
 - Electric door strike for a brownstone door? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2007/10/electric-door-s
 - Do landmark buildings need permission for an intercom panel? — inferred from LPC guidebook — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
 - Google PAA / PASF / AnswerThePublic / DuckDuckGo for "intercom installation Fort Greene": EMPTY
+
+## East New York, Brooklyn — /intercom-installation-east-new-york-brooklyn-ny (factory research, 2026-11-12)
+
+- 2767 Atlantic Avenue (corner of Atlantic and Miller avenues) is a new eight-story building with 41 apartments, 13 in the June 2024 affordable lottery; NYC Housing Connect lists its amenities as bike storage lockers, a shared laundry room, security cameras, an intercom, an elevator and air conditioning; developer Michael Rosenberg of Urbane Management Team Inc., architect Nicholas Katz — https://www.brownstoner.com/real-estate-market/affordable-housing-lottery-east-new-york-2767-atlantic-avenue
+- 2777 Atlantic Avenue, near Miller Avenue, has 63 units (19 in the June 2024 lottery); Housing Connect lists "an intercom, security cameras, air conditioning, elevator, bike storage lockers, and a shared laundry room"; developed by Urbane Management Inc. — https://www.brownstoner.com/real-estate-market/affordable-housing-lottery-2777-atlantic-avenue-east-new-york/
+- Neither Atlantic Avenue lottery listing mentions a virtual doorman, package room or keyless entry — same two URLs
+- 255 Pennsylvania Ave, East New York: four-story complex with about two dozen apartments; tenants rallied Aug 13, 2026; HPD records nearly 90 violations in a decade and about 120 complaints in two years; tenant Kimi Lynch: "It's always a patch job"; complaints were ceilings, outlets, pests (no intercom complaint named) — https://brooklyn.news12.com/2026/08/14/always-a-patch-job-tenants-rally-for-permanent-fixes-at-east-new-york-apartment-building/48c26Fd4v980n4zA6vp3jo
+- Feb 2026, an unnamed six-story East New York building: elevators out for months; "Our stairwells lead to the outside of the building," said tenant Desiree Fair; residents walk around the block to reach the stair doors; dozens of packages sit in the lobby because they are too heavy to carry up; 311 complaints closed without repair — https://brooklyn.news12.com/2026/02/19/east-new-york-residents-say-theyve-been-without-a-working-elevator-for-at-least-a-year/3SkoxQhBOlcYRzI35JkY94
+- 2628 Linden Blvd (NYCHA, East New York), May 2025: a column of mailboxes broken for over a year affecting about 18 units; tenant must collect mail at the post office; "That's my biggest fear," about documents arriving — https://brooklyn.news12.com/nycha-apartment-residents-in-east-new-york-left-without-mailboxes-for-over-a-year
+- Boulevard Houses (PACT), Jan 8, 2025: entrance door lock broken so anyone can enter, intercom out of order; resident Latoya Druck, 15 years in the building, props the door with rubber bands; "A lot of the kids come in, and the door is not fixed"; NYCHA: "NYCHA is working with the Boulevard Houses PACT partner team to ensure that these concerns are appropriately addressed." — https://bronx.news12.com/exclusive-nycha-resident-raises-concerns-over-broken-entrance-door-at-boulevard-houses
+- Linden Plaza, a 53-year-old East New York complex (R.Y. Management), Aug 2024: tenant complaints about leaks, mold, pests; management asked residents to allow "workers access to apartments" (no intercom complaint named) — https://brooklyn.news12.com/mold-leaky-pipes-and-ceilings-rankle-tenants-in-linden-plaza
+- City Council public housing committee, March 10, 2025: Council Member Kristy Marmorato on NYCHA door repairs: "the door was broken three times in one week" and "whoever's there to fix it is not doing their job"; NYCHA cited vendor dependencies and vandalism — https://citymeetings.nyc/city-council/2025-03-10-1030-am-committee-on-public-housing/chapter/discussion-on-nychas-door-repair-and-security-issues
+- DHCR administrative review (Castaldo, Docket LO410004RT, decided 11/3/23): landlord allowed to replace an audio-only intercom with hard-wired audio-video units placed in each apartment at the current buzzer location, not dependent on tenants' phones; tenants' objection about "shoddy" past contractor work did not stop it; work must comply with local rules — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- Brownstoner forum, multi-family brownstone with an old two-apartment buzzer: owner wanted to "see who is at the door"; quote over $1,500, later said closer to $3,000; one reply wired a doorbell camera into the foyer and added plug-in chimes for about $40 — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone/
+- Brownstoner forum, landlord switching a buzzer to a phone-dial system: tenants with only cellphones worried; an installer said "The system is not limited to one entry per apt."; another asked who gets called when only one roommate is home — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- Park Vanderbilt co-op (Park Slope, 148 units) replaced audio-only intercom with Aiphone video; installer: "By using the existing cable – with the exception of two units – we were able to save $20,000 on the job" — https://www.securitysales.com/access/brooklyn_housing_co_op_upgrades_security_with_video_intercom_system/
+- Swiftlane 2026 cost guide: diagnostic/service call $150–$250; minor repair $150–$400; small building replacement (5–20 units, one entrance) $2,200–$5,000; 4-unit video $4,000–$5,000; wiring/riser replacement $3,500–$5,000+; video carries roughly a 15–40% premium at small scale — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- BrickUnderground: a Target Security Systems rep put building intercom work at "anywhere between $2,000 and $50,000"; tenant lawyer Sam Himmelstein on complaints and retaliation; landlord may be liable for a crime through an unlocked door caused by a broken buzzer per the NY Attorney General's guide — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- ButterflyMX Brooklyn repair note: typical intercom voltage 6–16 V; copper wires "often become loose or break down over time"; humidity and temperature degrade parts — https://butterflymx.com/blog/intercom-repair-brooklyn/
+- HPD violation counts for intercoms in 11207/11208/11239: EMPTY
+- 311 buzzer/intercom complaint counts for CD5: EMPTY
+- DOB permits for intercom work in East New York: EMPTY
+- LPC: no East New York historic district affecting street panels found; individual landmarks only (from background pack): EMPTY for intercom rules
+- Reddit r/EastNewYork threads on intercoms: EMPTY
+
+### Questions people ask — Intercom Installation in East New York
+- Google People Also Ask: EMPTY
+- People Also Search For: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp 1–3★: EMPTY
+- How much does it cost to fix an intercom system? — AnswerThePublic-style FAQ on Swiftlane — https://swiftlane.com/blog/apartment-intercom-replacement-cost-in-2026-typical-ranges-what-impacts-price/
+- What information do installers need to quote an intercom replacement? — Swiftlane FAQ — same URL
+- Should I repair or replace my intercom system? — Swiftlane FAQ — same URL
+- Do I need a permit to replace an apartment intercom system? — Swiftlane FAQ — same URL
+- How long does apartment intercom replacement take? — Swiftlane FAQ — same URL
+- Can you replace an apartment intercom without rewiring the building? — Swiftlane FAQ — same URL
+- Can a battery video doorbell mount over the old buzzer in a multi-family house, or do the upper units need their own? — Brownstoner forum — https://www.brownstoner.com/forum/general-discussion/video-doorbell-for-upper-levels-of-multi-fam-brownstone/
+- Can my landlord switch the buzzer to a system that calls my phone? Who gets called if only one roommate is home? — Brownstoner forum — https://www.brownstoner.com/forum-archive/2010/10/landlord-instal
+- Can a landlord replace an audio intercom with a video one if tenants object? — DHCR decision summary — https://landlordvtenant.com/article/landlord-can-replace-audio-intercom-system-video-intercom-system
+- How do I get my landlord to fix a broken buzzer? — BrickUnderground — https://new.brickunderground.com/rent/get-your-landlord-to-fix-that-broken-buzzer
+- Why is my intercom not working? — ButterflyMX heading — https://butterflymx.com/blog/intercom-repair-brooklyn/
+- What can tenants do when the entrance door lock and intercom are both broken in a PACT development? — News 12 — https://bronx.news12.com/exclusive-nycha-resident-raises-concerns-over-broken-entrance-door-at-boulevard-houses
