@@ -1503,3 +1503,46 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 - How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
 - Does my landlord have to fix a broken building camera after packages are stolen? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
 - Is the equipment still working after the basement flooded? — Brooklyn Eagle (shop owner after Sandy) — https://brooklyneagle.com/articles/2012/11/01/sandy-hits-dumbo-hard-downtown-and-heights-escape-major-damage/
+
+## Gerritsen Beach, Brooklyn — /security-camera-repair-gerritsen-beach-brooklyn-ny (factory research, 2026-11-12)
+
+**Flood, tide and storm conditions that hit recorders, power supplies and outdoor cameras**
+- NWS coastal flood impacts sheet for Rockaway Inlet at Floyd Bennett Field: during Hurricane Sandy (11.6 ft MLLW, 10–11 pm Oct 29 2012) "the hardest hit areas were Gerritsen Beach, Floyd Bennet, Bergen Beach, Mill Basin, and Canarsie", with inundation from Jamaica Bay and Rockaway Inlet several blocks inland; Belt Parkway entry for "Gerritsen, Brooklyn" notes several ft of inundation at Knapp St and Belt Parkway — https://www.weather.gov/media/okx/coastalflood/Rockaway%20Inlet%20at%20Floyd%20Bennet%20Field%20impacts.pdf
+- Brooklyn College journalism blog (Dec 2025): resident Barbara Curran: "Many homes with basements continue to flood during heavy rain or coastal storms"; "Since we elevated our house we haven't had any flooding"; elevating took about five months — https://journalism.blog.brooklyn.edu/2025/12/years-later-gerritsen-beach-awaits-answers-on-flood-resilience/
+- Same source: CB15 chair Theresa Scavo: "We were promised DEP sewer shut offs as well as generators" for "the stores on Gerritsen Avenue" ... "as far as I remember nothing has been done"; "The cost for floodproofing is very high. Most homeowners can't afford it" — https://journalism.blog.brooklyn.edu/2025/12/years-later-gerritsen-beach-awaits-answers-on-flood-resilience/
+- NYC DDC (May 2023): $28.9M street and infrastructure reconstruction over 60+ blocks, June 2020–Dec 2022; ~13,000 ft of water mains replaced, ~1,050 ft storm sewer and 1,510 ft sanitary sewer built/replaced, two storm-sewer bulkheads into Shell Bank Creek rebuilt, 60 hydrants, 72 catch basins; roadways ~317,000 sq ft, sidewalks ~64,000 sq ft; shared sidewalk design because streets are narrow (like Broad Channel) — https://www.nyc.gov/site/ddc/about/press-releases/2023/pr-050323-Gerritsen-Beach.page
+- Bklyner (Jun 23 2016): Build It Back suspended construction in Brooklyn after a Gerritsen home collapsed (headline only) — https://bklyner.com/tag/gerritsen-beach/page/2
+
+**Equipment guidance that bears on waterfront camera repair**
+- ACTi (camera maker): coastal and maritime settings "present severe corrosion challenges to electronic security equipment"; "Sodium chloride and other halides are aggressive to metals, accelerating oxidation, pitting, and galvanic corrosion"; parts at risk include housings and fasteners, domes and seals, connectors, cable glands and junction boxes, brackets; failure modes include rust, galvanic attack, seal leakage, optical haze, loose mounts — https://www.acti.com/technologies/anti-corrosion-design
+- Reolink: outdoor cameras "are extremely vulnerable to lightning strikes" and a strike can destroy the recorder too; grounding limits "the risk of a power surge traveling down the coax to the NVR or DVR"; recommends power supply panels with CCTV surge protectors; a UPS only helps if "all cameras and DVR are powered through a UPS" — https://reolink.com/blog/protect-outdoor-security-camera-from-lightning/
+- Swann support: going offline "is a common occurrence when changes were made to the router" or after an outage; "you must have physical access to the DVR or NVR to check the following"; a power cycle only helps if the network setup "is set to DHCP by default"; adding a router or extender can turn it into "a bridged connection" — https://support.swann.com/hc/en-us/articles/24220728940825
+
+**Local incidents (cameras not mentioned in coverage)**
+- Brooklyn Paper: vandals broke the left hand and several right fingers off the Virgin Mary statue at the grotto of Resurrection Roman Catholic Church on Gerritsen Avenue and cracked its head; discovered Oct 19 (year not on page; digital edition dated Oct 30 2020); NYPD treated it as a potential hate crime; Knights of Columbus' John Naimoli: "The statue has been with our church for over 40 years." No mention of cameras — https://www.brooklynpaper.com/gerritsen-beach-virgin-mary-statue-vandalism
+- News 12 (Jul 9 2023): Resurrection Church statue "covered head to toe with black paint" with "fake" written at its base; a man was arrested; police said not a hate crime; community said not the first time. No mention of video — https://brooklyn.news12.com/gerritsen-beach-statue-vandalized-again-with-black-paint-suspect-arrested
+- Bklyner (Jul 27 2016): man critical after Tamaqua Marina boat explosion (headline only; not camera-related) — https://bklyner.com/tag/gerritsen-beach/page/2
+
+**Police, rules, programs**
+- NYPD 61st Precinct page lists Kings Bay, Gravesend, Sheepshead Bay and Manhattan Beach; station 2575 Coney Island Ave; community council second Wednesday of the month 7 PM at 2533 Coney Island Ave (Gerritsen Beach not named on the page; Wikipedia places it in the 61st) — https://www.nyc.gov/site/nypd/bureaus/patrol/precincts/61st-precinct.page
+- Silo-wide (reused): NYS DOS license required to install/service security systems incl. CCTV for others; LPC guidebook rules apply only to designated landmarks/districts; Brick Underground: buildings aren't required to have functioning cameras; HomeAdvisor Brooklyn average $1,416 (range $680–$2,145) — see silo research
+- LPC historic districts in Gerritsen Beach: EMPTY (no designation found; not claimed)
+- DOB permits for camera work in Gerritsen Beach: EMPTY
+- HPD / 311 camera-related complaint data for 11229: EMPTY
+- Gerritsen Beach overhead wires / utility pole outages 2024–2026: EMPTY
+- Gerritsen Beach 2024–2026 burglary, package or boat-theft reports: EMPTY (searches returned nothing local)
+
+**Reddit / Yelp**
+- Reddit (r/Brooklyn, r/AskNYC, r/homesecurity) threads on camera repair in Gerritsen Beach: EMPTY
+- Yelp camera-repair reviews for Gerritsen Beach / Marine Park / Sheepshead Bay: EMPTY (only Thumbtack/Angi/HomeAdvisor directories returned)
+
+### Questions people ask — Security Camera Repair in Gerritsen Beach
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live result panels not retrievable)
+- My security cameras say lost signal on 5 of them but 1 or 2 still work, how can I repair this? — JustAnswer (help forum) — https://www.justanswer.com/home-security-systems/8xn23-security-camera-system-message-says-lost-signal.html
+- One of my DVR cameras isn't showing on the TV screen after a power outage — JustAnswer (help forum) — https://www.justanswer.com/computer/ezf3i-call-didn-t-understand-so-given-site-night.html
+- How do I get my camera(s) working again after an outage? — Resideo help — https://docs.resideo.com/tc2-help/en/cameras/en_faq_372.html
+- Why did my DVR/NVR go offline after an outage or changing routers or internet provider? — Swann support — https://support.swann.com/hc/en-us/articles/24220728940825
+- What causes video loss in security cameras and how do I prevent it? — Brinks Home — https://brinkshome.com/smartcenter/what-causes-video-loss-in-security-cameras
+- How do I protect an outdoor security camera from lightning? — Reolink — https://reolink.com/blog/protect-outdoor-security-camera-from-lightning/
+- How do I protect outdoor camera housings from salt corrosion in coastal areas? — ACTi / blog results — https://www.acti.com/technologies/anti-corrosion-design
+- How much do security camera installation and repair companies cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
