@@ -2599,3 +2599,49 @@ Note: the live search budget for this session was used up before new searches co
 - Who's allowed to watch my building's security camera footage? — Brick Underground — https://www.brickunderground.com/blog/2014/06/ask_an_expert_security_camera
 - What can I do about package theft in a large pre-war building? — Reddit r/crownheights — https://www.reddit.com/r/crownheights/comments/1txm4uq/package_theft_in_large_prewar_buildings/
 - Best security camera repair near Prospect Heights? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+
+## New Utrecht, Brooklyn — /security-camera-repair-new-utrecht-brooklyn-ny (factory research, 2026-11-12)
+
+**The el, light and the street (what changes camera repair here)**
+- NYC DDC presentation to Community Board 11, November 9, 2026, "New Utrecht Avenue Safety Improvements and Roadway Repair from 65th Street to 77th Street" (Project HWKNUAV): elevated structure columns approximately every 44 feet; "Shadow of MTA structure creates lower lighting levels under 'the El'"; "Structure support columns obstruct sight lines" — https://www.nyc.gov/assets/ddc/downloads/presentations/HWKNUAVCB11Presentation110926.pdf
+- Same DDC deck: scope includes removing the existing concrete roadway and building new composite pavement 65th–77th St, curb extensions at 14 intersections, raised crosswalks (72nd St between New Utrecht Ave & 16th Ave; 70th St & New Utrecht Ave west leg; 66th St between New Utrecht Ave & 15th Ave), replacing traffic signal equipment, "Upgrade street lighting levels to DOT standards", replacing deteriorated sewer segments and catch basins — same source
+- Same DDC deck: schedule — Final Design Sept 2026–Summer 2027, Bid Fall 2027, Construction End of 2027 to Spring 2030; total funding $71,113,000, 100% city funded; work done in stages keeping one lane each way; access to 71st St and 79th St stations maintained; "Project is not within an historic district"; CCL field office hours 7AM to 3:30PM; 72-hour and 24-hour work advisories door to door — same source
+- Same DDC deck: KSI rate 12.4 per mile, top 10% of most dangerous corridors in Brooklyn; New Utrecht Ave is a Vision Zero priority corridor; 65th St intersection a VZ priority intersection; diagonal intersections at 16th Ave/72nd St/73rd St — same source
+- Earlier coverage: Brooklyn Paper (Feb 2023) reported a ~$24M repair of New Utrecht Ave 65th–77th St (figure now superseded by the $71.1M in the Nov 2026 deck) — https://www.brooklynpaper.com/24-million-repair-new-utrecht-avenue/
+- Truck route: DOT's 2026 citywide truck route redesign "adds additions to the New Utrecht Avenue truck route"; Council Member Alexa Avilés (June 9, 2026) said it "codifies a portion of the truck route that has essentially already been used as a truck route" and that Community Board 11 supports it — https://rules.cityofnewyork.us/wp-content/uploads/2026/05/6.9.26-AA-Comments-DOT-Truck-Route-Redesign.pdf
+- NY Daily News (May 4, 2026): NYC proposes redesign of truck route network, New Utrecht Ave. in Brooklyn named among changes (excerpt) — https://www.nydailynews.com/2026/05/04/nyc-proposes-redesign-of-truck-route-network-to-limit-use-of-residential-streets/
+
+**Incidents where camera footage mattered on or near New Utrecht Avenue**
+- Brooklyn Eagle (Aug 10, 2022): surveillance video shows two men who allegedly assaulted and robbed a 34-year-old man outside a pizzeria on New Utrecht Avenue and 72nd Street at 4:25 a.m. on July 10 — https://brooklyneagle.com/241672/cops-hunt-suspects-in-new-utrecht-avenue-assault/
+- Brooklyn DA (July 2023 indictment): on October 6, 2022 the defendants allegedly burglarized a grocery store on New Utrecht Avenue in Bensonhurst and stole a security box with about $10,000 cash and a cash register; same night a Bath Avenue grocery; other alleged targets a 17th Avenue grocery (safe ~$15,000) and an 18th Avenue vape shop (~$38,211 merchandise); defendants linked "using cell phone sites, enhanced video and other evidence"; investigated by the 62nd Precinct — https://www.brooklynda.org/2023/07/26/brooklyn-men-arraigned-on-indictment-charging-them-with-six-burglaries-of-homes-and-businesses-in-bensonhurst/
+- Brooklyn DA (May 29, 2024): one defendant sentenced to 10 years following the spree — https://www.brooklynda.org/2024/05/29/brooklyn-man-sentenced-to-10-years-in-prison-following-burglary-spree-of-homes-and-businesses-in-bensonhurst/
+- NYPD Crime Stoppers posts incidents on New Utrecht Avenue "in the confines of the 66 Precinct" (north end, Borough Park side) — https://www.instagram.com/nypdtips/?hl=en
+- Courier Life precinct blotter (Feb 2024): 62nd Precinct item at New Utrecht and 81st Street, police looking for three men who held up a store (excerpt only) — https://www.calameo.com/books/006530363e95eb5edeaf2
+
+**Power**
+- Con Edison July 2, 2026 heat outages: ~31,000 customers restored citywide; most-affected areas named were in Staten Island, the Bronx and Queens — Brooklyn/Bensonhurst not named — https://www.coned.com/en/about-us/media-center/news/2026/07-02/con-edison-restoring-power-to-customers-affected-by-extreme-heat
+- New Utrecht–specific outage news 2025–2026: EMPTY
+
+**Repair practice sources**
+- Reddit r/SecurityCamera "cameras randomly go black at night (only)": top answer blames voltage drop — cameras draw more power at night (IR) and long runs or poor cable can't carry it — https://www.reddit.com/r/SecurityCamera/comments/1l0ftqk/help_cameras_randomly_go_black_at_night_only/
+- Reddit r/SecurityCamera "Repair or replace camera system?": buyer whose house came with 8 cameras and a Swann 8-channel DVR asks whether to repair or replace (excerpt only) — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- Zositech: too much light close to the camera makes the sensor overcompensate and darken the image — https://www.zositech.com/blogs/dvr-system-setup/what-should-you-do-if-your-security-cameras-are-dark-and-blurry-at-night
+- CCTV Camera World: IR glare is most often caused by improper installation/mounting — https://www.cctvcameraworld.com/infrared-ir-glare-issues/
+- Impera Security lists "cameras working but not recording" causes: failed hard drive, wrong schedule, recording disabled per channel, insufficient storage, firmware — https://www.imperasecurity.com/security-camera-repair
+- Yelp Brooklyn security camera repair (praise excerpt): "Avner connected the monitor to the DVR and explained its use in layman's terms" — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
+- Yelp Bensonhurst camera installers: listings only (MetroCom, Securitek 4.3/6 reviews) — no camera-repair complaints found — https://www.yelp.com/search?find_desc=Security+Camera+Installation&find_loc=Bensonhurst%2C+Brooklyn%2C+NY
+
+**Empty**
+- DOB permits for camera work in New Utrecht: EMPTY
+- 311 / HPD camera-related complaint data for 11204/11214/11219/11228 slice: EMPTY
+- r/Bensonhurst / r/Brooklyn threads about camera repair under the el: EMPTY
+- Local camera repair news specific to New Utrecht: EMPTY
+
+### Questions people ask — Security Camera Repair in New Utrecht
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (live result panels not retrievable)
+- Why do my cameras go black only at night? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1l0ftqk/help_cameras_randomly_go_black_at_night_only/
+- Should I repair or replace a camera system that came with the house? — Reddit — https://www.reddit.com/r/SecurityCamera/comments/1msdefr/repair_or_replace_camera_system/
+- Why are my security cameras dark and blurry at night? — vendor blog — https://www.zositech.com/blogs/dvr-system-setup/what-should-you-do-if-your-security-cameras-are-dark-and-blurry-at-night
+- Why is my camera working but not recording? — vendor page — https://www.imperasecurity.com/security-camera-repair
+- How to fix a CCTV that is not recording? — Facebook group — https://www.facebook.com/groups/432511134543072/posts/1325707045223472/
+- Who repairs security cameras in Brooklyn? — Yelp — https://www.yelp.com/search?find_desc=Security+Camera+Repair&find_loc=Brooklyn%2C+NY
