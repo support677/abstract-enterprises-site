@@ -3164,3 +3164,79 @@ Note: live web search was unavailable for this run (search budget exhausted). Ev
 - Can I repair my security camera at home? — Reolink FAQ — https://reolink.com/blog/security-camera-repair/
 - The lobby camera has not been working and packages are being stolen. Is there any action tenants can take? — Brick Underground — https://www.brickunderground.com/rent/stolen-packages-security-camera
 - Who should have access to security camera footage in a condominium or cooperative? — FirstService Residential — https://www.fsresidential.com/new-york/news-events/articles-and-news/security-cameras-best-practices-nyc-condos-co-ops
+
+## Williamsburg, Brooklyn — /security-camera-repair-williamsburg-brooklyn-ny (factory research, 2026-11-12)
+
+Note: live web search was unavailable for this build; every finding below was carried from sourced research already saved in the site's research files (research/*.md), each with its original source URL. Items that could not be filled are marked EMPTY.
+
+**Local incidents where camera footage mattered (Williamsburg proper and its edges)**
+- ABC7, Jul 9 2025: four suspects broke the front door of a retail business at 17 Kent Ave on the Greenpoint–Williamsburg border with a crowbar early Sunday and took over $300,000 in clothing; "Security footage shows four suspects wearing all black." No arrests at publication — https://abc7ny.com/post/police-search-suspects-stole-300k-clothing-greenpoint-williamsburg-border/17024720/
+- News 12, Mar 13 2026: 15 burglaries Feb 22–Mar 9 2026, nine at Williamsburg businesses, one in Greenpoint, five in Queens; nine incidents in six hours on Mar 4; an incident at 98 South 4th St; four people sought — https://brooklyn.news12.com/burglary-spree-targets-williamsburg-businesses-4-people-wanted
+- Williamsburg365, Mar 14 2026: at least 15 break-ins across the 90th, 94th, 102nd and 108th Precincts; doors pried with tools, glass doors/windows broken, or keys stored outside used; streets named include Broadway, Havemeyer St, Harrison Ave, Hope St and S 4th St; cash registers, checks and IDs taken — https://www.williamsburg365.com/news/nypd-searching-for-four-suspects-linked-to-citywide-burglary-pattern-many-in-williamsburg
+- ABC7, Jan 8 2023: six business burglaries, three on Kent Ave; metal locks on front doors cut; sledgehammer used on a door; more than $16,000 taken — https://abc7ny.com/post/nyc-crme-burglary-spree-brooklyn-williamsburg/12673159/
+- Brooklyn Eagle (summer 2026): one man burglarized 11 businesses across six precincts May 8–July 17 2026, including North Williamsburg, entering primarily through basement-level doors — https://brooklyneagle.com/404730/burglar-hits-11-brooklyn-businesses-in-summer-spree/
+- Hoodline / News 12, Sept 2026: two suspects tied to 19 commercial burglaries across Brooklyn Aug 3–Sept 10 2026, entering by throwing an object through a window; Williamsburg among the neighborhoods hit — https://hoodline.com/2026/09/two-suspects-hit-19-brooklyn-businesses-in-five-week-smash-and-grab-spree/
+- News 12, Oct 30 2025, about 1:40 a.m.: four men entered a commercial building on Stagg Street through a rear door and took about $60,000 in merchandise; cameras recorded it and police released the footage, one man looking directly into the camera — https://brooklyn.news12.com/video-released-of-4-suspects-on-the-run-in-williamsburg-burglary
+- CBS New York (updated Dec 13 2023): a woman on an e-bike stole packages from Williamsburg buildings; Oct 18 at a Bedford Avenue building she "went in through the main entrance and into the mail room"; Dec 6 at a Kent Avenue building, "numerous" packages — https://www.cbsnews.com/amp/newyork/news/woman-riding-e-bike-steals-packages-from-buildings-in-williamsburg-brooklyn-police-say
+- Gothamist, Nov 11 2015: a pair stole packages from Williamsburg/Greenpoint lobbies; on Kingsland Ave the suspects "were buzzed into the lobby, by an unknown tenant"; on Maspeth Ave they "pried open the lobby door" — https://gothamist.com/news/who-is-this-couple-stealing-packages-from-williamsburg-greenpoint-lobbies
+- DNAinfo, Jul 14 2015: nearly 170 burglaries in the 90th Precinct Jan 1–Jul 5 2015, up 31%, driven by commercial burglaries entered from rooftops overnight or by breaking gates and locks; police advised mounting covert cameras low and angled upward because ceiling cameras are easily beaten by a hooded sweatshirt, and leaving lights on because infrared night vision distorts faces — https://www.dnainfo.com/new-york/20150714/williamsburg/burglaries-up-more-than-30-percent-parts-of-williamsburg-police-say.amp
+- CBS New York: the NYPD planned 100 new cameras in Williamsburg, Crown Heights and Borough Park — https://cbsnews.com/amp/newyork/news/brooklyn-new-security-cameras
+- CrownHeights.info, Mar 2020: of that 100-camera plan, "The cameras are also not monitored 24/7, and officers are required to retrieve the footage from another location." — https://crownheights.info/photo-galleries/701538/nypd-cameras-go-up-in-crown-heights
+
+**Power events that hit recorders, PoE switches and cameras**
+- Con Edison, Jul 3 2026, 5:45 a.m.: customers in Williamsburg, Greenpoint, Bedford-Stuyvesant, Fort Greene and Clinton Hill asked to conserve energy; voltage reduced 8 percent "to protect equipment and maintain service during repairs"; about 133,000 customers in the primary affected area — https://www.coned.com/en/about-us/media-center/news/2026/07-03/con-edison-asks-customers-in-part-of-northern-brooklyn-to-conserve-energy
+- Greenpointers / News 12, Feb 16–17 2026: manhole fire at 101 Montrose Ave left hundreds of Williamsburg residents without power (535 customers Monday evening); Con Edison was "repairing damage caused when snow and road salt mix and seep into our underground equipment" — https://greenpointers.com/2026/02/17/manhole-fire-in-williamsburg-leads-to-massive-power-outage/
+- News 12, Feb 26 2026: after a snowstorm 1,879 Brooklyn customers still without power, Williamsburg named — https://brooklyn.news12.com/2026/02/26/power-outages-continue-after-snowstorm-some-may-wait-until-friday-night/1NUuIhENA0aYW3hfjLqv6L
+- News 12, Jun 25 2025: about 2,200 Brooklyn customers with power problems, Williamsburg among the hardest hit; "In some cases, the power isn't fully out—but it's running lower than usual." — https://brooklyn.news12.com/2025/06/25/thousands-of-families-experiencing-power-issues-in-southwest-brooklyn/50AaFmoZ1Hp2QwkP9kJqLW
+- Security Wholesalers (technical guide): after an outage, "Router/switch/NVR started in the wrong order", "HDD reports an abnormal state", "Time/NTP was lost"; "Repeated power cycling can worsen storage and power faults" — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+
+**Tenants, landlords and footage**
+- Brick Underground (Dec 12 2023), a Williamsburg renter with stolen packages: the landlord isn't obligated to share footage outside a legal process; NYC doesn't require buildings to have security cameras; attorney Catherine Grad: "I don't think that it's such an arduous duty to impose on the landlord"; attorney Jennifer Rozen: a tenants' association can push for a better lock/intercom or a package locker — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Brick Underground (stolen packages, lobby camera broken): attorney Jeffrey Reich: "Fixing the security camera would certainly be a reasonable action for the landlord to take in this instance."; Michael Wolfe (Midboro Management): "Cameras and signage are a great deterrent." — https://www.brickunderground.com/rent/stolen-packages-security-camera
+- DHCR administrative review (May 13 2015): "DHCR inspection showed that the antenna cable was disconnected from the security camera"; the service had been provided for 19 years and the landlord was required to maintain it; rent reductions upheld — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- Reddit r/williamsburg "Stolen packages" (excerpt): "we got our packages jacked a few weeks ago because our front door lock is broken" — https://www.reddit.com/r/williamsburg/comments/18qxn3y/stolen_packages/
+- DeliveryAmigo roundup (secondhand Reddit): a Williamsburg resident reported theft by delivery staff, backed by security footage; one Reddit user's building had lobby cameras that may not even be operational — https://www.deliveryamigo.com/blog/package-theft-in-nyc-whats-happening-in-your-neighborhood
+- Ring ended its "Request for Assistance" tool in Jan 2024; "Law enforcement agencies can still access videos using a search warrant." — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+
+**Police and business programs**
+- Williamsburg is covered by the 90th Precinct (211 Union Ave) and, at its northern end, the 94th Precinct (100 Meserole Ave) — https://en.wikipedia.org/wiki/Williamsburg,_Brooklyn
+- NYPD Connect New York pilot (May 2024): integrates participating businesses' cameras with the NYPD in nine precincts (not named); "There is no cost for businesses to participate"; whether the 90th or 94th Precinct is included: EMPTY — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+
+**Rules that affect camera repair work**
+- LPC Permit Guidebook ch. 11 (applies only to designated landmarks, e.g. individual Williamsburg landmarks such as the Domino refinery and Hecla Iron Works building): "Security cameras must be well spaced to avoid a cluttered, haphazard appearance"; no more than two cameras per 25 feet of street frontage on small buildings; attach "at mortar joints, plain masonry, wood, or metalwork", "not ... through cast iron or on any decorative surfaces"; no permit needed for "Ordinary maintenance, repair, and retrofitting of health, safety, and utility equipment" — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- 19 NYCRR 195.2 requires a license for a CCTV system used for detection or monitoring of intrusion, theft or movement — https://www.kirschenbaumesq.com/article/do-you-need-nys-license-for-video-access-system
+- New York Labor Law §203-C: employers must post notice of video monitoring and get written acknowledgment — https://www.lowvoltagenation.com/posts/buffalo-new-york-security-camera-permit-requirements
+
+**Why cameras and recorders fail (manufacturer and technical guides)**
+- Reolink: causes of video loss: "Insufficient Power Supply", "Power Spike & Interference", "Weak WiFi Connection or Low Bandwidth", "IR Cut Filter & Faulty IR Night Vision", "Problems in Cables or Wires", "Hardware & Firmware Problem", "IP Address Conflicts" — https://reolink.com/blog/video-loss-on-security-camera/
+- Swann support: a recorder may not record because "Recording settings are disabled", "Motion detection settings are incorrect", no storage is installed, or the drive is faulty — https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+- CCTV Camera World: confirm the recorder sees the drive with a Normal status and scroll playback on each channel; "formatting wipes all recordings"; desktop drives aren't designed for 24/7 recording — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+
+**Cost benchmark**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416, typical $680–$2,145, low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera repair in Williamsburg: EMPTY
+- 311 / HPD records specific to security cameras in 11206/11211/11249: EMPTY
+- Williamsburg-specific Reddit threads about camera repair: EMPTY
+- Yelp 1–3★ reviews of camera repair near Williamsburg: EMPTY
+- Fresh web search for this build: EMPTY (search unavailable; findings above carried from saved research)
+
+### Questions people ask — Security Camera Repair in Williamsburg
+- PAA (Google People Also Ask): EMPTY
+- PASF / related searches: EMPTY
+- AnswerThePublic: EMPTY
+- Bing / DuckDuckGo: EMPTY
+- Yelp: EMPTY
+- How do I get my landlord to let me look at the camera footage after a package thief? — Brick Underground (Williamsburg reader) — https://www.brickunderground.com/rent/realty-bites-package-thief-landlord-security-camera
+- Our building's front door lock is broken and packages keep disappearing; will cameras help? — Reddit r/williamsburg — https://www.reddit.com/r/williamsburg/comments/18qxn3y/stolen_packages/
+- Where should cameras go so a hood doesn't hide the face? — DNAinfo (90th Precinct advice) — https://www.dnainfo.com/new-york/20150714/williamsburg/burglaries-up-more-than-30-percent-parts-of-williamsburg-police-say.amp
+- Does infrared night vision ruin faces on camera? — DNAinfo — https://www.dnainfo.com/new-york/20150714/williamsburg/burglaries-up-more-than-30-percent-parts-of-williamsburg-police-say.amp
+- Why does a security camera lose video? — Reolink guide — https://reolink.com/blog/video-loss-on-security-camera/
+- Why is my recorder not recording? — Swann support — https://support.swann.com/hc/en-us/articles/58744108265753-Recorder-or-Standalone-Camera-Not-Recording-Here-s-How-to-Fix-It
+- How do I know my security camera system is actually recording? — CCTV Camera World — https://www.cctvcameraworld.com/guides/is-my-security-camera-system-recording/
+- Why did my cameras stop working after the power came back? — Security Wholesalers guide — https://www.securitywholesalers.com.au/guides/technical-support-guides/cctv-networking/cctv-recovery-after-power-outage-restart/
+- Does the landlord have to keep a security camera working once it is provided? — DHCR review — https://www.landlordvtenant.com/article/buildings-vestibule-security-camera-no-longer-functioned
+- Can police still get my doorbell camera footage? — News 12 — https://brooklyn.news12.com/2024/01/25/ring-will-no-longer-allow-police-to-request-doorbell-camera-footage-from-users/2g9Wi8fs63dorS5ILwI3QX
+- Can my business share its cameras with the NYPD? — BK Reader — https://www.bkreader.com/in-other-brooklyn-news/nyc-retailers-to-share-security-footage-directly-with-nypd-in-new-pilot-program-8760232
+- How much does camera repair cost in Brooklyn? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
