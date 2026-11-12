@@ -618,3 +618,39 @@ PAA: EMPTY. PASF: EMPTY. AnswerThePublic: EMPTY. Bing/DuckDuckGo-only: EMPTY. Re
 **Notes on the research**
 - **Missing pieces:** Search ran out before Reddit, Bing and DuckDuckGo could be checked directly. To fill the EMPTY rows, check Google PAA/PASF by hand, plus NYC Open Data (HPD violations, 311 "Intercom" complaints filtered to 11207/11208, DOB NOW permits).
 - **One vendor dominates the sources:** Many findings come from abstractenterprisessecuritysystems.com. If that's your own site, don't cite it as outside evidence. If it's a competitor, treat its prices and percentages as marketing.
+
+## Brooklyn Heights, Brooklyn — /security-camera-repair-brooklyn-heights-brooklyn-ny (factory research, 2026-11-12)
+
+**Local camera programs and incidents where footage mattered**
+- Joralemon Street camera plan (DNAinfo, Mar 7 2017): street-facing cameras on homes, about two per block, 10 to 12 total, on Joralemon Street between Furman and Clinton streets, with commercial properties between Clinton and Court streets; residents volunteer their homes and make footage available to NYPD when needed; funded by a $2,500 grant from Borough President Eric Adams's office to the Brooklyn Heights Association plus homeowner money; extension of "Operation Safe Shopper" — https://www.dnainfo.com/new-york/20170307/brooklyn-heights/joralemon-street-security-cameras-eric-adams
+- Same article: 84th Precinct burglaries were 32 so far in 2017 vs 12 in the same period of 2016; BHA executive director Peter Bray: "Having some cameras on the street could one, be a deterrent, and two, help police apprehend perpetrators." — https://www.dnainfo.com/new-york/20170307/brooklyn-heights/joralemon-street-security-cameras-eric-adams
+- Brooklyn Paper (Mar 2017): residents whose homes host the Joralemon cameras own the footage and must give police access when officers need it (Bray); plan of 10–20 cameras from Furman Street to Court Street; Joralemon described as "de facto" entrance to Brooklyn Bridge Park — https://www.brooklynpaper.com/stories/40/10/dtg-joralemon-street-crime-cameras-2017-03-10-bk.html
+- Council Member Lincoln Restler funded video surveillance cameras at two entrances to the Brooklyn Heights Promenade, requested by the 84th Precinct; Restler: "more eyes to ensure the safety of both locals and tourists." Date not given in the source — https://briefly-stg.herokuapp.com/anchor/Brooklyn/story/video-surveillance-cameras-coming-to-brooklyn-heights-promenade
+- April 2017: 84th Precinct asked for cameras in Brooklyn Bridge Park — https://www.brownstoner.com/brooklyn-life/brooklyn-news-cops-cameras-brooklyn-bridge-park-donovan
+- AT&T store, 160 Montague St (Brooklyn Eagle, Jul 2022): thieves smashed the glass front door early Thursday morning and took four iPhones and three Apple Watches; the store manager said he had no video of the incident but believed police could obtain footage — https://brooklyneagle.com/articles/2022/07/15/thief-breaks-into-brooklyn-heights-att-store/
+- Love Joy Convenience, Atlantic Avenue (News 12, Mar 2 2024): four people burglarized the store, two smashing through the glass while two acted as lookouts; fled down Atlantic toward Hicks Street — https://bronx.news12.com/nypd-4-wanted-in-brooklyn-heights-store-burglary
+- Henry Street store (News 12, published Mar 6 2024): two men ordered an employee away from a register, took about $670 in merchandise — https://brooklyn.news12.com/police-2-men-wanted-for-taking-670-worth-of-merchandise-from-brooklyn-heights-business
+
+**Building rules that bear on repair**
+- LPC Permit Guidebook ch. 11: security cameras "must be well spaced"; small buildings no more than two cameras per 25 feet of frontage; attach at mortar joints, plain masonry, wood or metalwork, never through cast iron or decorative surfaces; conduit concealed, max about ten inches visible; ordinary maintenance, repair and retrofitting of safety equipment needs no permit — https://www.nyc.gov/assets/lpc/downloads/pdf/LPCPermitGuidebook_Chapter11_HealthSafety.pdf
+- Co-op boards: attorney Niki Khindri (Adam Leitman Bailey) says a board can pass a house-rule resolution banning video doorbells, especially reasonable for common-area cameras the board controls; "In some circumstances it could be illegal for owners to have video doorbells recording footage in the hallway"; New York is a one-party-consent state for audio — https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc
+- Brick Underground: landlords aren't obligated to show tenants footage outside a legal process; city buildings aren't required to have functioning cameras — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- NYS license: installing or maintaining security systems requires a NYS Department of State license; 19 NYCRR 195.2 covers CCTV used for detecting intrusion or theft — https://nyc-business.nyc.gov/nycbusiness/description/license-to-install-service-or-maintain-security-or-fire-alarm-systems
+
+**Cost benchmarks**
+- HomeAdvisor, Brooklyn surveillance camera install or repair: average $1,416; typical range $680–$2,145; low–high $160–$3,500 — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+
+**Empty**
+- DOB permits for camera work in 11201: EMPTY
+- 311/HPD camera complaint data for 11201: EMPTY
+- Con Edison outage news naming Brooklyn Heights 2025–2026: EMPTY (Feb 2026 salt/snow outages named Boerum Hill and Park Slope, not the Heights) — https://abc7ny.com/post/power-outage-hundreds-park-slope-boerum-hill-brooklyn-due-melting-snow-salt/18532961/
+- Reddit threads about camera repair in Brooklyn Heights: EMPTY
+- Yelp reviews for camera repair in Brooklyn Heights: EMPTY (search returned Thumbtack/Angi/HomeAdvisor directories only)
+
+### Questions people ask — Security Camera Repair in Brooklyn Heights
+- PAA / PASF / AnswerThePublic / Bing / DuckDuckGo: EMPTY (not retrievable)
+- How much do security camera installation & repair companies typically cost? — HomeAdvisor — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- What kind of location is this? / How many cameras? — HomeAdvisor intake — https://homeadvisor.com/tloc/Brooklyn-NY/Surveillance-Cameras-Install-or-Repair/
+- Can a co-op board ban video doorbells in the building? — Brick Underground — https://www.brickunderground.com/live/ask-condo-co-op-lawyer-board-apartment-complaints-video-doorbell-privacy-legal-ban-harassment-pullman-nyc
+- How do I get my landlord to let me look at security camera footage to identify a package thief? — Brick Underground — https://new.brickunderground.com/rent/how-do-i-get-my-landlord-to-let-me-look-at-security-camera-footage-to-identify-a-package-thief
+- Who owns footage from cameras on a private home that police use? — Brooklyn Paper — https://www.brooklynpaper.com/stories/40/10/dtg-joralemon-street-crime-cameras-2017-03-10-bk.html
